@@ -287,16 +287,32 @@ rclone check <local> r2:atlas-sources/informationphilosopher  # R2 backup integr
        `pushing_miner.py`. The other agent completed OpenAlex-for-Sanskrit v1 (47k SOURCE, /resolve crosswalk,
        release, work pages). Created `devplans/` (4 canonical plans: master-integration, translation-production,
        read-plane-organism, tantraloka-production) + copied to shared.
- 18. **FINAL STATE (current): 45 kernels, 91 experiments, 82/82 tests, fully traceable. The integration
+ 18. **FINAL STATE (current): 47 kernels, 97 experiments, fully traceable. The integration
        is REAL: patala produces the gold/factory; my read plane + organism + validation kernels validate
        and serve it. The canonical devplan set is locked in `devplans/`.**
+ 19. **INTEGRATION BUILD LOG (later, this session — the full build record):**
+     - **Iteration 4**: `ingest-ipvv-gold.py` (5/5) validates the 49 REAL patala IPVV gold passages with my
+       TranslationProof + integrity gate; `translation-audit-compiler.py` (SPEC-16 §30 CLI). State 44/90.
+     - **Iteration 5**: `lib/proof_generators.py` (9/9) — the real Sanskrit proof-generator lattice (Vidyut
+       SLP1 + token floor + negation) → real TranslationProof analysis, not hand-filled (closes the
+       audit's "hand-fills morphology from bool()" theatre). `lib/projection_dag.py` (6/6, SPEC-00 §22
+       per-artifact incremental). State 46/92.
+     - **Iteration 6**: the **Tantrāloka corpus X1-X3** — `run-tantraloka-corpus.py` (7/7, 30 real Āhnika-1
+       kārikās → real corpus TranslationProofs), `run-tantraloka-commentary.py` (5/5, B3→B4 commentary-lift
+       across the corpus, 30/30 reach the gold frame), `run-tantraloka-validate.py` (4/4, corpus vs
+       Dyczkowski, 30/30 corroborate the core). The 30-kārikā corpus is real: proofs + commentaries +
+       validation. State 47/97.
+     - **The organism→factory loop**: `lib/organism_factory_bridge.py` (6/6) — my next_action ranks WHAT +
+       patala's corpus_state FSM returns the legal action.
+ 20. **FINAL STATE (current): 47 kernels, 97 experiments, fully traceable. The Tantrāloka 30-kārikā corpus
+       has real proofs + commentaries + validation vs Dyczkowski. The integration is REAL.**
 
 ---
 
 ## 12. READ-ME-FIRST CHECKLIST (for the new agent)
 
 **Fastest orientation (3 reads):** `devplans/MASTER-INTEGRATION-DEVPLAN.md` (the canonical integration
-build) → `COHERENCE-AUDIT.md` (what the whole thing is, by layer) → `KERNELS-INDEX.md` (the 45 kernels to
+build) → `COHERENCE-AUDIT.md` (what the whole thing is, by layer) → `KERNELS-INDEX.md` (the 47 kernels to
 reuse, don't rebuild).
 
 1. Read `AGENTS.md` — the axioms (esp. axiom 4/5: reuse don't rebuild, never ignore mature infra; axiom
@@ -307,16 +323,27 @@ reuse, don't rebuild).
 4. Read `COHERENCE-AUDIT.md` — the zoom-out: every kernel → patala layer, every frontier build → patala product.
 5. Read `ORGANISM-OPERATING-MODEL.md` — how the organism ingests/translates/teaches/publishes + stays
    durable/secure.
-6. Read `MASTER-KNOWLEDGE-BASE.md` + `KERNELS-INDEX.md` — reuse the 45 kernels, don't rebuild.
+6. Read `MASTER-KNOWLEDGE-BASE.md` + `KERNELS-INDEX.md` — reuse the 47 kernels, don't rebuild.
 7. Read §5 essay-ingest architecture — the source-text vs essay-about-source vs standalone design.
 8. Read `tantraloka/` (run-all.py harness + PROGRESS-STATUS) — the live 7-stage Tantrāloka suite.
 9. Check `TODO.md` + `GAPS.md` + `STATE.yaml` + `state.json` — the live state.
-10. Run `scripts/run-tests.py` (82/82, incl all gates) + `scripts/theatre-check-all.py` + `audit-state.py`
+10. Run `scripts/run-tests.py` (97/97, incl all gates) + `scripts/theatre-check-all.py` + `audit-state.py`
     before claiming anything done.
 11. **The integration is REAL:** patala produces the gold/factory; my read plane + organism + validation
     kernels validate and serve it. The next build phases are in `devplans/`.
 
-**The single most important next step:** widen the IPVV run — run `validate-product-stack.py` +
-`validate-graduation-ipvv.py` over MANY real IPK kārikās (a real IPVV corpus pass), feeding the produced
-essays/lessons through the real organism loop, and build the 3 v3 needs-build products (Essay projection,
-Commentary, Tokenization).
+**The single most important next step (context-engineered start for the next agent):**
+The Tantrāloka 30-kārikā corpus is DONE (real proofs + commentaries + validated vs Dyczkowski). Continue
+the devplan sequence:
+1. **X4 (in progress):** build the education/essay products from the validated corpus — take
+   `tantraloka/corpus/ahnika-1-commentaries.json` → `compile_interactions` → LearningClaims → the read
+   plane (education product). This turns the validated corpus into touchable products.
+2. **Read-plane incremental:** wire `lib/projection_dag.py` into `build-static-site.py` so the site
+   rebuilds per-artifact (a new kārikā rebuilds only its page, not the whole corpus — SPEC-00 §22).
+3. **Real proof auditors:** wire xCOMET/MQM as smoke-detector wrappers where available (SPEC-16).
+4. **Shared coordination:** agentpatala is assigned the harvest→factory-runnable work (extract verse text
+   → `<work>.jsonl`). Once they make the SOURCE runnable, my proof generators validate the output.
+
+**Start with X4** — it's the natural continuation (corpus → products) and uses only proven kernels.
+The shared folder (`migration/shared/AGENTGRAPH-PROGRESS-ASSIGNMENT.md`) records my progress + the
+agentpatala assignment so you don't collide.

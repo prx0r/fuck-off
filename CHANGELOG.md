@@ -1040,3 +1040,10 @@ Per the master devplan Phase 1 (the highest-leverage gap). Reuse, don't rebuild:
   frame) → ahnika-1-commentaries.json.
 - `run-tantraloka-validate.py` (4/4): corpus validation vs Dyczkowski (30/30 corroborate the core).
 - The full X1→X3 corpus pipeline works end-to-end. 47 kernels, 97 experiments.
+
+## 2026-08-14 (handover: full build log + context-engineered next-agent start)
+- **HANDOVER.md**: added the complete integration build log (iterations 4-6: real proof generators, the
+  IPVV-gold validation, the organism→factory loop, the Tantrāloka corpus X1-X3). Refreshed FINAL STATE
+  (47 kernels, 97 experiments). Replaced the stale "single most important next step" with a
+  context-engineered start: X4 education/essay products from the validated corpus → read-plane incremental
+  → real proof auditors → shared coordination. The 30-kārikā corpus is the deliverable.
