@@ -474,3 +474,14 @@ imposed.
   deterministic event replay + causal trace, added to our agent-delivery semantics. Closes gaps B+C and
   completes the causal operational graph (5th graph) with real execution semantics.
 - GitHub index 95 → **99**. Matrix 40 → **41**. Test suite 40 → **41/41**.
+
+## 2026-08-14 (cont.) — organized the lab for agents (LAB-REVIEW + KERNELS-INDEX)
+- Reviewed all 41 experiments + 17 kernels; created two agent-facing root docs:
+  - **`LAB-REVIEW.md`** — the state of the lab: what's genuinely proven (VALIDATED), exploratory,
+    organized by patala layer (§1) + vision (§2), the review critiques to track (§4), and a prioritized
+    explore-next list (§5) led by the graduation test (one claim through the whole stack).
+  - **`KERNELS-INDEX.md`** — the reusable-kernel map (what it does · layer · vision · validated by ·
+    status), with agent rules (reuse don't rebuild; VALIDATED only if a validate script passes;
+    nothing is PRODUCTION until integrated).
+- Wired both into AGENTS.md navigation + NAVIGATION.md documents.
+- The "review agent for axioms" = LAB-REVIEW applies our own anti-theatre discipline to our own work.

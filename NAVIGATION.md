@@ -98,6 +98,8 @@ graph after adding text, run `build-graph.py`.
 | Doc | What it is |
 |-----|------------|
 | `AGENTS.md` | governing rules — read first |
+| `LAB-REVIEW.md` | state of the lab (proven/exploratory/next) |
+| `KERNELS-INDEX.md` | the reusable kernels (reuse map) |
 | `BUILDNOTES.md` | full build history + decisions |
 | `NAVIGATION.md` | this file |
 | `TODO.md` | live task tracker |

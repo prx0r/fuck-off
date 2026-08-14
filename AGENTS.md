@@ -106,7 +106,9 @@ match ground truth.
 0. **`AGENTS.md`** — this file.
 0b. **`NAVIGATION.md`** — the master index (resolve anything → location/script/how-to-run).
 0c. **`VISION.md` + `VISION-CHUNK-LAYER-MAP.md` + `VISION-PATALA-FUTURES.md`** — the vision + futures.
-0d. **`DEV_PLAN.md`** — the executable roadmap (what to build next).
+0d. **`LAB-REVIEW.md`** — the state of the lab (what's proven/exploratory/next).
+0e. **`KERNELS-INDEX.md`** — the reusable kernels (reuse, don't rebuild).
+0f. **`DEV_PLAN.md`** — the executable roadmap (what to build next).
 0e. **`TODO.md`** — the live task tracker.
 0f. **`BUILDNOTES.md`** — build history + decisions.
 1. **`docs/01-corpus.md`** … **`docs/05-performance.md`** — concern docs.
