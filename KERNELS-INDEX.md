@@ -52,6 +52,7 @@ maps to: what it is · layer · vision · the experiment(s) that validate it · 
 | `proof_generators.py` | the real Sanskrit proof-generator lattice (Vidyut SLP1 + token floor + negation): real analysis into TranslationProof, not hand-filled | L03 | Verified OS | validate-proof-generators | VALIDATED (9/9) |
 | `misconception.py` | the repair cascade (DEV_PLAN §1.1, closes the organism's flywheel): MisconceptionLikelihood f(cluster,persistence,ambiguity,novice) -> flag for scholar review -> RKA blast-radius propagate fix -> measure dissolution | L09 | Education+Organism | validate-misconception | VALIDATED (9/9) |
 | `question_growth.py` | the Question-Growth Engine (SPEC-36/logicvid): growth tree (question -> next_pressure) + PrimitiveRobustness (independent rediscovery = fundamentality, not popularity) + learnable growth examples | L04 | Enquiry-Discovery | validate-question-growth | VALIDATED (7/7) |
+| `enquiry.py` | the Enquiry-Discovery Organism (SPEC-46): DiscoveryProgression (taxonomy -> theorem -> boundary -> frontier) — a structured enquiry reveals topic structure feeding ontology/claims/research-gaps/question-roots | L04 | Enquiry-Discovery | validate-enquiry | VALIDATED (13/13) |
 
 ## Rules for agents
 1. **Reuse, don't rebuild** (axiom): a task that maps to a kernel → call the kernel.
