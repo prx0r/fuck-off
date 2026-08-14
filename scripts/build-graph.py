@@ -61,7 +61,8 @@ def norm(s): return re.sub(r"[^a-z0-9]+", " ", s.lower()).strip()
 def find_concepts(text):
     low = norm(text); found = Counter()
     for phrase, (cid, _, _) in CONCEPT_LEXICON.items():
-        if phrase in low: found[cid] += low.count(phrase)
+        p = norm(phrase)   # normalize the lexicon key too (mind-body -> mind body)
+        if p and p in low: found[cid] += low.count(p)
     return found
 def find_authors(text):
     low = norm(text); return {a for a in AUTHORS if a in low}

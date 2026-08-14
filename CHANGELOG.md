@@ -65,3 +65,18 @@ imposed.
   generalized-engine architecture.
 - Our argument graph's multi-premise/defeater structure is naturally **hypergraphic** (validates the
   hypergraph bet).
+
+## 2026-08-14 (cont.) — full test suite + real bug fix
+
+### Added
+- **`scripts/run-tests.py`** — the reproducible validation+experiment suite (8 tests). Result: **8/8 PASS**.
+- **`scripts/experiment-context-coverage.py`** — bounded-context stress test across all 31 concepts.
+- **`docs/TESTING-VALIDATION-REPORT.md`** — full results (gates, evidence-weights, coverage, peer review).
+- `data/graph/test-results.json` · `context-coverage.json` — machine-readable results.
+
+### Bug found & fixed (by testing)
+- **`mind_body` concept was isolated (0 edges)** though the corpus has 44 "mind-body" + 13 "mind/body".
+- Root cause: `norm()` strips punctuation to spaces, so `"mind-body"` → `"mind body"`, but the lexicon
+  key `"mind-body"` (hyphenated) was matched un-normalized → never matched.
+- Fix: normalize the lexicon key in `find_concepts` too.
+- **Impact:** edges 6484 → **6578** (+94); mind_body 0 → 94 edges; context coverage 97% → **100%**.
