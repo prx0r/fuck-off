@@ -84,6 +84,28 @@ graph after adding text, run `build-graph.py`.
 | `docs/05-performance.md` | the performance doctrine |
 | `docs/ORIGINAL-README.md` | redirect stub (superseded) |
 
+## Specs (designs — become live docs when implemented)
+
+| Spec | Topic |
+|------|-------|
+| `specs/SPEC-00-INFRA-BUILD.md` | **CANONICAL** master infra build (read architecture) |
+| `specs/SPEC-01-canonical-dag.md` | the derivational layer DAG |
+| `specs/SPEC-02-epistemic-envelope.md` | epistemic status ladder + authority |
+| `specs/SPEC-03-argument-graph.md` | AIF Info/Inference/Conflict graph |
+| `specs/SPEC-04-verification.md` | verify the two-stage claim |
+| `specs/SPEC-05-surfaces.md` | Astro + API + MCP |
+| `specs/SPEC-06-live-system.md` | 12-layer structure + live system |
+| `specs/SPEC-07-ECOSYSTEM-SURVEY.md` | third-party repos/datasets/benchmarks (CANONICAL) |
+| `specs/SPEC-08-GRAPH-REASONING-SURVEY.md` | arXiv graph-reasoning architectures (CANONICAL) |
+
+## Governance / planning
+| File | What it is |
+|------|------------|
+| `DEV_PLAN.md` | the executable roadmap (Phase 0 → generalization → surfaces → live) |
+| `GAPS.md` | honest known holes (mapped to layer + spec) |
+| `CHANGELOG.md` | change log |
+| `STATE.yaml` | live per-layer tracker |
+
 ---
 
 ## 5. HOW TO RUN

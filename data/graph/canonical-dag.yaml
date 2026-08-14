@@ -1,0 +1,63 @@
+# CANONICAL-DAG — the single source of truth for layer dependencies (SPEC-01)
+#
+# Encodes the information-philosophy thesis as a directed dependency chain.
+# A layer is ELIGIBLE when all its 'requires' are satisfied AND it has no current committed object.
+# source_refs are corpus docnames (bare, e.g. Bell_1966), matching data/corpus.jsonl.
+version: 1
+
+dependencies:
+  PHYSICS:
+    requires: [SOURCE]
+    source_refs: ["Bell_1966", "Bell_On_EPR", "Bohm_Aharonov-", "Planck_1900a"]
+    note: "established physics foundations (Bell, Bohm, Planck)"
+
+  THERMODYNAMICS:
+    requires: [SOURCE]
+    source_refs: ["Clausius", "Gibbs_Graphical", "Maxwells_Influence"]
+    note: "entropy, 2nd law, statistical mechanics"
+
+  INFORMATION:
+    requires: [THERMODYNAMICS]
+    source_refs: ["Landauer-1961", "Landauer_1961", "gabor1946"]
+    note: "information <-> entropy (Landauer, Gabor, Shannon)"
+
+  COMPUTATION:
+    requires: [INFORMATION]
+    source_refs: ["Turing_Test", "McCulloch-Pitts"]
+
+  QUANTUM:
+    requires: [PHYSICS]
+    source_refs: ["Schrodinger_Cat", "Heisenberg_Uncertainty", "Copenhagen_Interpretation", "EPR_Experiments"]
+
+  PROBABILITY:
+    requires: [PHYSICS, THERMODYNAMICS]
+    source_refs: ["MisesR", "Herschel_Quetelet_Probabilities"]
+
+  INDETERMINISM:
+    requires: [QUANTUM, PROBABILITY]
+    note: "QM chance + probability -> genuine indeterminism (the two-stage premise)"
+
+  MIND:
+    requires: [INFORMATION, COMPUTATION]
+    source_refs: ["Minds_Machines_and_Godel", "Panpsychism", "Koch_Chalmers_Leading_Theories"]
+
+  LIFE:
+    requires: [INFORMATION, THERMODYNAMICS]
+    source_refs: ["Deacon_What_Missing", "Cosmic_Evolution"]
+
+  FREE_WILL:
+    requires: [INDETERMINISM, MIND]
+    note: "the two-stage thesis: chance (indeterminism) + choice (mind evaluation)"
+
+  RESPONSIBILITY:
+    requires: [FREE_WILL]
+
+  VALUE:
+    requires: [FREE_WILL, LIFE]
+    note: "meaning/morality presuppose genuine agency"
+
+  SYNTHESIS:
+    requires: [FREE_WILL, VALUE]
+
+  ESSAY:
+    requires: [SYNTHESIS]

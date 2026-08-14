@@ -1,0 +1,284 @@
+{
+ "N_docs": 425,
+ "concepts": {
+  "free_will": {
+   "concept": "free_will",
+   "grounding": 0.254,
+   "doc_frequency": 108,
+   "support_weight": 0,
+   "contradiction_weight": 86.4,
+   "section_diversity": 6,
+   "class": "THESIS"
+  },
+  "determinism": {
+   "concept": "determinism",
+   "grounding": 0.362,
+   "doc_frequency": 154,
+   "support_weight": 154.0,
+   "contradiction_weight": 0,
+   "section_diversity": 7,
+   "class": "GROUNDED"
+  },
+  "indeterminism": {
+   "concept": "indeterminism",
+   "grounding": 0.231,
+   "doc_frequency": 98,
+   "support_weight": 0,
+   "contradiction_weight": 78.4,
+   "section_diversity": 7,
+   "class": "THESIS"
+  },
+  "causality": {
+   "concept": "causality",
+   "grounding": 0.285,
+   "doc_frequency": 121,
+   "support_weight": 121.0,
+   "contradiction_weight": 0,
+   "section_diversity": 6,
+   "class": "GROUNDED"
+  },
+  "entropy": {
+   "concept": "entropy",
+   "grounding": 0.344,
+   "doc_frequency": 146,
+   "support_weight": 146.0,
+   "contradiction_weight": 0,
+   "section_diversity": 8,
+   "class": "GROUNDED"
+  },
+  "information": {
+   "concept": "information",
+   "grounding": 0.708,
+   "doc_frequency": 301,
+   "support_weight": 301.0,
+   "contradiction_weight": 0,
+   "section_diversity": 9,
+   "class": "GROUNDED"
+  },
+  "consciousness": {
+   "concept": "consciousness",
+   "grounding": 0.308,
+   "doc_frequency": 131,
+   "support_weight": 0,
+   "contradiction_weight": 104.8,
+   "section_diversity": 7,
+   "class": "THESIS"
+  },
+  "qualia": {
+   "concept": "qualia",
+   "grounding": 0.031,
+   "doc_frequency": 13,
+   "support_weight": 0,
+   "contradiction_weight": 10.4,
+   "section_diversity": 2,
+   "class": "THESIS"
+  },
+  "quantum_mechanics": {
+   "concept": "quantum_mechanics",
+   "grounding": 0.694,
+   "doc_frequency": 295,
+   "support_weight": 295.0,
+   "contradiction_weight": 0,
+   "section_diversity": 8,
+   "class": "GROUNDED"
+  },
+  "wave_function": {
+   "concept": "wave_function",
+   "grounding": 0.301,
+   "doc_frequency": 128,
+   "support_weight": 128.0,
+   "contradiction_weight": 0,
+   "section_diversity": 7,
+   "class": "GROUNDED"
+  },
+  "entanglement": {
+   "concept": "entanglement",
+   "grounding": 0.162,
+   "doc_frequency": 69,
+   "support_weight": 69.0,
+   "contradiction_weight": 0,
+   "section_diversity": 4,
+   "class": "GROUNDED"
+  },
+  "measurement": {
+   "concept": "measurement",
+   "grounding": 0.48,
+   "doc_frequency": 204,
+   "support_weight": 204.0,
+   "contradiction_weight": 0,
+   "section_diversity": 8,
+   "class": "GROUNDED"
+  },
+  "superposition": {
+   "concept": "superposition",
+   "grounding": 0.209,
+   "doc_frequency": 89,
+   "support_weight": 89.0,
+   "contradiction_weight": 0,
+   "section_diversity": 6,
+   "class": "GROUNDED"
+  },
+  "probability": {
+   "concept": "probability",
+   "grounding": 0.586,
+   "doc_frequency": 249,
+   "support_weight": 249.0,
+   "contradiction_weight": 0,
+   "section_diversity": 8,
+   "class": "GROUNDED"
+  },
+  "randomness": {
+   "concept": "randomness",
+   "grounding": 0.207,
+   "doc_frequency": 88,
+   "support_weight": 88.0,
+   "contradiction_weight": 0,
+   "section_diversity": 7,
+   "class": "GROUNDED"
+  },
+  "chance": {
+   "concept": "chance",
+   "grounding": 0.428,
+   "doc_frequency": 182,
+   "support_weight": 0,
+   "contradiction_weight": 145.6,
+   "section_diversity": 7,
+   "class": "THESIS"
+  },
+  "knowledge": {
+   "concept": "knowledge",
+   "grounding": 0.633,
+   "doc_frequency": 269,
+   "support_weight": 269.0,
+   "contradiction_weight": 0,
+   "section_diversity": 8,
+   "class": "GROUNDED"
+  },
+  "belief": {
+   "concept": "belief",
+   "grounding": 0.28,
+   "doc_frequency": 119,
+   "support_weight": 0,
+   "contradiction_weight": 95.2,
+   "section_diversity": 6,
+   "class": "THESIS"
+  },
+  "truth": {
+   "concept": "truth",
+   "grounding": 0.339,
+   "doc_frequency": 144,
+   "support_weight": 0,
+   "contradiction_weight": 114.6,
+   "section_diversity": 7,
+   "class": "THESIS"
+  },
+  "mind": {
+   "concept": "mind",
+   "grounding": 0.687,
+   "doc_frequency": 292,
+   "support_weight": 0,
+   "contradiction_weight": 232.1,
+   "section_diversity": 8,
+   "class": "THESIS"
+  },
+  "agency": {
+   "concept": "agency",
+   "grounding": 0.134,
+   "doc_frequency": 57,
+   "support_weight": 0,
+   "contradiction_weight": 45.6,
+   "section_diversity": 6,
+   "class": "THESIS"
+  },
+  "responsibility": {
+   "concept": "responsibility",
+   "grounding": 0.151,
+   "doc_frequency": 64,
+   "support_weight": 0,
+   "contradiction_weight": 51.2,
+   "section_diversity": 6,
+   "class": "THESIS"
+  },
+  "compatibilism": {
+   "concept": "compatibilism",
+   "grounding": 0.101,
+   "doc_frequency": 43,
+   "support_weight": 0,
+   "contradiction_weight": 34.4,
+   "section_diversity": 5,
+   "class": "THESIS"
+  },
+  "libertarianism": {
+   "concept": "libertarianism",
+   "grounding": 0.064,
+   "doc_frequency": 27,
+   "support_weight": 0,
+   "contradiction_weight": 21.6,
+   "section_diversity": 5,
+   "class": "THESIS"
+  },
+  "arrow_of_time": {
+   "concept": "arrow_of_time",
+   "grounding": 0.059,
+   "doc_frequency": 25,
+   "support_weight": 25.0,
+   "contradiction_weight": 0,
+   "section_diversity": 3,
+   "class": "GROUNDED"
+  },
+  "second_law": {
+   "concept": "second_law",
+   "grounding": 0.224,
+   "doc_frequency": 95,
+   "support_weight": 95.0,
+   "contradiction_weight": 0,
+   "section_diversity": 8,
+   "class": "GROUNDED"
+  },
+  "computation": {
+   "concept": "computation",
+   "grounding": 0.148,
+   "doc_frequency": 63,
+   "support_weight": 63.0,
+   "contradiction_weight": 0,
+   "section_diversity": 6,
+   "class": "GROUNDED"
+  },
+  "life": {
+   "concept": "life",
+   "grounding": 0.52,
+   "doc_frequency": 221,
+   "support_weight": 221.0,
+   "contradiction_weight": 0,
+   "section_diversity": 9,
+   "class": "GROUNDED"
+  },
+  "evolution": {
+   "concept": "evolution",
+   "grounding": 0.496,
+   "doc_frequency": 211,
+   "support_weight": 211.0,
+   "contradiction_weight": 0,
+   "section_diversity": 9,
+   "class": "GROUNDED"
+  },
+  "value": {
+   "concept": "value",
+   "grounding": 0.734,
+   "doc_frequency": 312,
+   "support_weight": 0,
+   "contradiction_weight": 249.6,
+   "section_diversity": 9,
+   "class": "THESIS"
+  },
+  "morality": {
+   "concept": "morality",
+   "grounding": 0.047,
+   "doc_frequency": 20,
+   "support_weight": 0,
+   "contradiction_weight": 16.0,
+   "section_diversity": 4,
+   "class": "THESIS"
+  }
+ }
+}

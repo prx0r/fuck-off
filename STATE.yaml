@@ -1,0 +1,46 @@
+state_version: 2
+last_update: '2026-08-14T13:00:00'
+
+# Per-layer live state. status: DONE | PARTIAL | IN_PROGRESS | NOT_STARTED | BLOCKED
+
+layers:
+  00-core-engine:
+    chunk: 1
+    status: PARTIAL
+    note: 'lib/epistemic.py (ladder + 4-axis Authority + invariant) built. Epistemic envelope applied to all 490 nodes + 6484 edges; audit passes 0 violations.'
+  01-corpus-provenance:
+    chunk: 2
+    status: DONE
+    note: '425 clean docs (6 html + 419 pdf), corpus.jsonl versioned, R2 backup.'
+  02-epistemic-graph:
+    chunk: 3
+    status: PARTIAL
+    note: '490 nodes / 6484 edges with envelopes. Canonical DAG validated (SPEC-01). Evidence-weights + bounded-context experiments done. co_occurs edges not yet fully typed.'
+  03-factory:
+    chunk: 4
+    status: PARTIAL
+    note: 'data/graph/canonical-dag.yaml + validate-dag.py PASS (14 layers, no cycles, all grounded).'
+  04-argument-engine:
+    chunk: 5
+    status: PARTIAL
+    note: 'data/graph/argument.json built: 6 info + 4 inference + 2 conflict nodes, evidence-anchored (SPEC-03). Bounded-context retrieval (PathRAG-style) tested working.'
+  05-review-gate:
+    chunk: 6
+    status: PARTIAL
+    note: 'Epistemic envelope + invariant provide the ceiling discipline. Full ReviewEvent/Adjudication not yet built.'
+  06-retrieval-compiler:
+    chunk: 7
+    status: NOT_STARTED
+    note: 'Compiled agent bundles + incremental hashes (SPEC-00).'
+  07-surfaces:
+    chunk: 8
+    status: NOT_STARTED
+    note: 'Astro site + API + MCP (SPEC-05).'
+  08-domain-expansions:
+    chunk: 9
+    status: NOT_STARTED
+    note: 'science/ philosophy/ sanskrit/ ontology extensions.'
+  09-live-system:
+    chunk: 10
+    status: IN_PROGRESS
+    note: 'Vision->chunk->layer map, STATE.yaml, specs, AGENTS.md all live. Agent execution loop next.'

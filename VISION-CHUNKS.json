@@ -1,0 +1,16 @@
+{
+  "global_vision": "general epistemic graph engine across Sanskrit/Western-philosophy/science",
+  "chunks": [
+    {"chunk": 1, "name": "Engine Core", "layer": "00", "doc": "layers/00-core-engine.md", "spec": "specs/SPEC-02-epistemic-envelope.md"},
+    {"chunk": 2, "name": "The Corpus", "layer": "01", "doc": "layers/01-corpus-provenance.md", "spec": "specs/SPEC-00-INFRA-BUILD.md"},
+    {"chunk": 3, "name": "Epistemic Graph", "layer": "02", "doc": "layers/02-epistemic-graph.md", "spec": "specs/SPEC-01-canonical-dag.md"},
+    {"chunk": 4, "name": "The Factory", "layer": "03", "doc": "layers/03-factory.md", "spec": "specs/SPEC-01-canonical-dag.md"},
+    {"chunk": 5, "name": "Argument Engine", "layer": "04", "doc": "layers/04-argument-engine.md", "spec": "specs/SPEC-03-argument-graph.md"},
+    {"chunk": 6, "name": "Review System", "layer": "05", "doc": "layers/05-review-gate.md", "spec": "specs/SPEC-02-epistemic-envelope.md"},
+    {"chunk": 7, "name": "Retrieval Compiler", "layer": "06", "doc": "layers/06-retrieval-compiler.md", "spec": "specs/SPEC-00-INFRA-BUILD.md"},
+    {"chunk": 8, "name": "The Surfaces", "layer": "07", "doc": "layers/07-surfaces.md", "spec": "specs/SPEC-05-surfaces.md"},
+    {"chunk": 9, "name": "The Domains", "layer": "08", "doc": "layers/08-domain-expansions.md", "spec": "docs/vision/VISION.md"},
+    {"chunk": 10, "name": "Live System", "layer": "09", "doc": "layers/09-live-system.md", "spec": "specs/SPEC-06-live-system.md"}
+  ],
+  "deterministic": "each chunk builds exactly ONE layer; progress tracked per-layer via STATE.yaml"
+}

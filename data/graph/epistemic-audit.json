@@ -1,0 +1,10 @@
+{
+ "nodes_with_envelope": 490,
+ "edges_with_envelope": 6484,
+ "concepts_by_ceiling": {
+  "SCHOLARLY_CORROBORATED_PRELIMINARY": 3,
+  "SCHOLARLY_CORROBORATED": 18,
+  "MACHINE_PROPOSED": 10
+ },
+ "thesis_concepts_honestly_machine_proposed": []
+}
