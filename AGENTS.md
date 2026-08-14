@@ -43,6 +43,7 @@ match ground truth.
   specs/           DESIGN docs (SPEC-00 CANONICAL … SPEC-07) — drafts → live
   docs/            LIVE docs (01-corpus … 05-performance, vision/, reports/)
   layers/          one page per Layer (00-09) with current state
+  skills/          reusable agent skills (vcreate/ — backward-delivery planning)
   mcp/             future agent-tool layer
   VISION.md  VISION-CHUNK-LAYER-MAP.md  VISION-CHUNKS.json  STATE.yaml
   AGENTS.md  NAVIGATION.md  DEV_PLAN.md  TODO.md  BUILDNOTES.md  CHANGELOG.md  GAPS.md
@@ -161,7 +162,7 @@ python3 scripts/reverse-deliver.py --vision <Vision-Name>
 # 4. re-run to see reuse grow / to_build shrink
 ```
 
-**Full spec:** `docs/process/SKILL-VCREATE.md`. **Thesis:** `THESIS-REVERSE-DELIVERY.md`.
+**Full spec:** `skills/vcreate/SKILL.md` (+ `skills/vcreate/REFERENCE.md`). **Thesis:** `docs/vision/beyond-patala/THESIS-REVERSE-DELIVERY.md`.
 **Example DAG:** `data/checkpoints/Verified-Statement-Marketplace.json`.
 
 ---

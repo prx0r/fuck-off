@@ -31,6 +31,7 @@ is · where it lives · which script built it · how to run it · key doc.** Rea
   specs/             SPEC-00 … SPEC-14 (designs; 00 = CANONICAL infra build)
   layers/            00-09 the layer deep-pages (what/purpose/impl/current-state)
   ecosystem/         third-party clones, organized by category
+  skills/            reusable agent skills (vcreate/ — backward-delivery planning)
   mcp/               future agent-tool layer
   AGENTS.md          the governing rules (read first)
   BUILDNOTES.md      the build history
@@ -114,7 +115,7 @@ graph after adding text, run `build-graph.py`.
 | `docs/EXPERIMENT-MATRIX.md` | the full experiment tracking matrix (29, by vision/layer/source) |
 | `docs/ALGORITHMS.md` | granular arXiv-algorithm implementations (PathRAG/HippoRAG/KG2Code) |
 | `docs/process/FRONTIER-MAP.md` | per-layer implementations, todos, validations |
-| `docs/process/SKILL-VCREATE.md` | vcreate: backward-delivery planning (the reverse-chaining skill) |
+| `skills/vcreate/SKILL.md` | vcreate: backward-delivery planning (the reverse-chaining skill) |
 | `docs/vision/beyond-patala/THESIS-REVERSE-DELIVERY.md` | the reverse-delivery thesis |
 
 ## Vision docs

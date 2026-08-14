@@ -383,3 +383,11 @@ imposed.
     certified-statements-store, mcp-or-api, certification-surface).
   - Education-Organism: 12 reuse / 2 to-build (failure-taxonomy, lib/schema.py dependency).
 - Checkpoint DAGs: `data/checkpoints/*.json`.
+
+## 2026-08-14 (cont.) — skills/ directory (vcreate as a proper skill, not a process doc)
+- Created `skills/` directory + `skills/README.md` (the skill convention: YAML-frontmatter SKILL.md,
+  following our cloned agent repos).
+- **Moved vcreate out of `docs/process/`** → `skills/vcreate/SKILL.md` (the formal skill) +
+  `skills/vcreate/REFERENCE.md`. `docs/process/` now only holds real processes (FRONTIER-MAP).
+- Fixed all references in AGENTS.md + NAVIGATION.md to point to `skills/vcreate/`.
+- Added `skills/` to the layout in both AGENTS.md + NAVIGATION.md.
