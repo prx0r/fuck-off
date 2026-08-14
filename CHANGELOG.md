@@ -485,3 +485,17 @@ imposed.
     nothing is PRODUCTION until integrated).
 - Wired both into AGENTS.md navigation + NAVIGATION.md documents.
 - The "review agent for axioms" = LAB-REVIEW applies our own anti-theatre discipline to our own work.
+
+## 2026-08-14 (cont.) — THEATRE AUDIT + graduation test (anti-theatre on our own lab)
+- Audited our validators against the patalamix/v2 anti-theatre doctrine. Found REAL theatre:
+  - `validate-evolve`, `validate-agent-delivery`, `validate-organism-loop`, `validate-pedagogy`
+    test SYNTHETIC/toy inputs only — they prove the MECHANISM, not integration with the real kernel.
+  - Only `validate-stack`, `validate-dag`, `validate-provenance`, `validate-layer03-05`,
+    `validate-layer10` run real patala data.
+- **`validate-stack.py`** (the graduation test, 9/9): real kernels on REAL graph/argument/DAG data —
+  honest ceilings, real staleness propagation (PHYSICS→FREE_WILL/VALUE), real reducer
+  (corroborated→ALIGNED, thesis→CORRECTION), real invariant (0 violations). This is the anti-theatre
+  proof the stack is genuinely wired.
+- **LAB-REVIEW §4.5 THEATRE AUDIT** — every validator tagged REAL / MIXED / SYNTHETIC, so agents know
+  which prove integration vs mechanism.
+- Test suite 41 → **42/42**.

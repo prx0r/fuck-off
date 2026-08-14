@@ -1,5 +1,5 @@
 {
- "count": 41,
+ "count": 42,
  "entries": [
   {
    "script": "validate-layer03-05.py",
@@ -369,6 +369,15 @@
    "kernel": "execution",
    "status": "RUN",
    "note": "checkpoint/rollback/branch + deterministic replay + causal trace (gaps B+C)"
+  },
+  {
+   "script": "validate-stack.py",
+   "layer": "ALL",
+   "source": "graduation test",
+   "vision": "Verified Epistemic OS",
+   "kernel": "integration",
+   "status": "RUN",
+   "note": "real kernels on REAL data: envelope+staleness+reducer+invariant \u2014 9/9"
   }
  ]
 }

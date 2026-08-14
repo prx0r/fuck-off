@@ -96,6 +96,33 @@ From **patalamix (SPEC-32)** + earlier reviews:
 
 ---
 
+## 4.5 THEATRE AUDIT (honest — which validators test real data vs synthetic demo)
+
+This is our anti-theatre review applied to the validators themselves (2026-08-14):
+
+| Validator | Real data? | Verdict |
+|-----------|-----------|---------|
+| `validate-stack.py` | **YES** — real graph + argument + DAG + reducer + invariant | **REAL** (the graduation test, 9/9) |
+| `validate-dag.py` | YES — real canonical-dag.yaml | REAL |
+| `validate-provenance.py` | YES — real argument ceilings → PROV-K | REAL |
+| `validate-layer03-05.py` | YES — real DAG + argument | REAL |
+| `validate-layer10.py` | YES — real concept graph | REAL (PathRAG/KG2Code) |
+| `validate-education-organism.py` | partial — real argument + synthetic learner | MIXED |
+| `validate-kernels.py` | partial — real graph for query/retrieval; synthetic for certificate/discovery | MIXED |
+| `validate-products.py` | partial | MIXED |
+| `validate-evolve.py` | **NO** — hardcoded STRATEGIES fitness dicts | SYNTHETIC (proves mechanism, not integration) |
+| `validate-agent-delivery.py` | **NO** — mock contract + mock agent | SYNTHETIC |
+| `validate-organism-loop.py` | **NO** — simulated question/variants | SYNTHETIC |
+| `validate-pedagogy.py` | **NO** — synthetic learner + mock fixtures | SYNTHETIC |
+
+**The honest truth (and the v2/migration critique):** the lab has proven the MECHANISMS, but only
+`validate-stack` + a few prove them on the REAL patala pipeline. The pedagogy/organism/evolution
+validators demonstrate the mechanism on toy inputs — they don't prove it's wired into the real kernel.
+**The fix is not more docs; it's the graduation test** (real data through real kernels), which
+`validate-stack.py` starts and the full "one claim through the whole stack" completes.
+
+---
+
 ## 5. WHAT'S WORTH EXPLORING NEXT (prioritized, agent-actionable)
 
 **P0 — the graduation test** (highest value, per patalamix #15):

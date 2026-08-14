@@ -63,6 +63,7 @@ MATRIX = {
   "validate-pedagogy.py": ("L09", "patala education vision (R2)", "Education+Organism", "pedagogy", "live adaptive pedagogy: MasteryEvidence→reducer→LearnerState→next-interaction — 7/7"),
   "experiment-causal-operational-graph.py": ("L12", "patalamix review #12", "Self-Proving System", "causal-operational", "the 5th graph: why the system acted (operational provenance)"),
   "experiment-execution-replay.py": ("L09", "agentstateprotocol+DML (cloned)", "Autonomous Institute", "execution", "checkpoint/rollback/branch + deterministic replay + causal trace (gaps B+C)"),
+  "validate-stack.py": ("ALL", "graduation test", "Verified Epistemic OS", "integration", "real kernels on REAL data: envelope+staleness+reducer+invariant — 9/9"),
 }
 
 def main():
