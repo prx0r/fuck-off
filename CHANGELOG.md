@@ -194,3 +194,23 @@ imposed.
   performance optimization (SPEC-00 compile-once, PathRAG/HippoRAG retrieval), each with justification.
 - Unifying thesis: staleness-walk = dependency-graph = incremental-rebuild = retrieval index — one graph.
 - specs README + NAVIGATION + CHANGELOG wired.
+
+## 2026-08-14 (cont.) — frontier layer-by-layer builds for patala
+- Read all 13 of patala's layer docs (00-12) + the CORE-BIBLE vision.
+- **`specs/SPEC-14-FRONTIER-LAYER-BUILDS.md`** — for each patala layer, the most frontier-optimized build
+  using our papers (SPEC-08) + cloned repos (SPEC-07/09/11/12) + proven experiments:
+  - 00 Governance → Stencila schema contract
+  - 01 Ingestion → 5-adapter generalization test (RKA backends)
+  - 02 Atlas → nano stable-LCC content-addressing
+  - 03 Factory → canonical DAG = staleness+rebuild engine (RKA)
+  - 04 Evidence → verifier ensemble + conformal abstention
+  - 05 Research → herdr reducer + KG2Code executable ArgumentSynthesis
+  - 06 Commentarial → KORAL two-graph + verifier ensemble
+  - 07 Verification → two-plane + conformal + PathRAG
+  - 08 Human Authority → herdr/Vouch gate
+  - 09 Organism → Graphiti + pyBKT + KST (Q-variable)
+  - 10 Surfaces → Argument Map over compiled projections (KG2Code/PathRAG/HippoRAG)
+  - 11 Org/Economics → arcan event-sourcing + publication gate
+  - 12 Live System → epistemic work queue + RKA staleness + STATE.yaml
+- Frontier thread: epistemic honesty (SPEC-02/herdr/RKA) + compile-once (SPEC-00/KG2Code) — one graph.
+- specs README + NAVIGATION + CHANGELOG wired.

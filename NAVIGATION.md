@@ -123,6 +123,7 @@ category has a README explaining what belongs there + why. See `docs/ECOSYSTEM-I
 | `specs/SPEC-11-AGENT-MEMORY-SURVEY.md` | agent memory / self-evolving systems (CANONICAL) |
 | `specs/SPEC-12-AGENT-HARNESS-SURVEY.md` | agent-harness repos (CANONICAL) |
 | `specs/SPEC-13-STALENESS-PERFORMANCE.md` | staleness + performance for the futures (CANONICAL) |
+| `specs/SPEC-14-FRONTIER-LAYER-BUILDS.md` | frontier build for all 13 layers (CANONICAL) |
 
 ## Governance / planning
 | File | What it is |
