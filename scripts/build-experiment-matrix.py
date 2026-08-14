@@ -65,6 +65,7 @@ MATRIX = {
   "experiment-execution-replay.py": ("L09", "agentstateprotocol+DML (cloned)", "Autonomous Institute", "execution", "checkpoint/rollback/branch + deterministic replay + causal trace (gaps B+C)"),
   "validate-stack.py": ("ALL", "graduation test", "Verified Epistemic OS", "integration", "real kernels on REAL data: envelope+staleness+reducer+invariant — 9/9"),
   "experiment-question-growth.py": ("L04", "pushing method (research-library)", "What-If Machine", "question-growth", "question→theorem→boundary→next-pressure; PrimitiveRobustness via multi-route convergence"),
+  "experiment-curiosity-patterns.py": ("L09", "LOGICVID gold exemplars (live human curiosity)", "Education+Organism", "curiosity", "curiosity markers: live-issue/distinction/tension/boundary — the gold question-generation profile"),
 }
 
 def main():

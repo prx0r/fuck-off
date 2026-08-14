@@ -1,5 +1,5 @@
 {
- "count": 43,
+ "count": 44,
  "entries": [
   {
    "script": "validate-layer03-05.py",
@@ -387,6 +387,15 @@
    "kernel": "question-growth",
    "status": "RUN",
    "note": "question\u2192theorem\u2192boundary\u2192next-pressure; PrimitiveRobustness via multi-route convergence"
+  },
+  {
+   "script": "experiment-curiosity-patterns.py",
+   "layer": "L09",
+   "source": "LOGICVID gold exemplars (live human curiosity)",
+   "vision": "Education+Organism",
+   "kernel": "curiosity",
+   "status": "RUN",
+   "note": "curiosity markers: live-issue/distinction/tension/boundary \u2014 the gold question-generation profile"
   }
  ]
 }

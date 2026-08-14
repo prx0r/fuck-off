@@ -511,3 +511,14 @@ imposed.
   a supervised example question+passages→theorem→next), PrimitiveRobustness metric, wired into
   research/organism/education/cross-tradition.
 - Saved pushing docs → SPEC-33..36. Test suite 42 → **43/43**.
+
+## 2026-08-14 (cont.) — LOGICVID gold exemplars + curiosity-pattern analysis
+- Saved all 9 logicvid exemplars (logicdog, framework, method, postmortem, logic5/6/7, logicvid3) →
+  SPEC-40..48, as **gold human-curiosity data** (the author's live questioning, not synthetic).
+- **`docs/LOGICVID-GOLD-EXEMPLARS.md`** — the gold registry: what each exemplar is, why it's gold,
+  the 5 curiosity markers, and how to use them as training gold for question-generation.
+- **`experiment-curiosity-patterns.py`** (44/44 suite) — analyzed the exemplars: **human curiosity is
+  NOT random — it has a repeatable structure.** Dominant markers: live-issue (does X explain or rename?),
+  distinction-forensics (are terms equivalent?), tension, honest-boundary. These are the GOLD profile
+  the Question-Growth Engine should learn to produce.
+- Test suite 43 → **44/44**.
