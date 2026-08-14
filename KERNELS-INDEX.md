@@ -1,6 +1,6 @@
 # KERNELS-INDEX — the reusable kernels (what's in lib/, what it does, how it's validated)
 
-*2026-08-14. The agent-facing map of every reusable kernel (now 33). Reuse these — never rebuild. Each
+*2026-08-14. The agent-facing map of every reusable kernel (now 37). Reuse these — never rebuild. Each
 maps to: what it is · layer · vision · the experiment(s) that validate it · honest status.*
 
 | Kernel | What it does | Layer | Vision | Validated by | Status |
@@ -38,6 +38,10 @@ maps to: what it is · layer · vision · the experiment(s) that validate it · 
 | `vidyut_l0.py` | GEM 5.3: L0 Sanskrit token floor (SLP1 normalize + position-anchored tokens) | L03 | Verified OS | validate-vidyut-l0 | VALIDATED (9/9) |
 | `verification_ensemble.py` | GEM 7.1: RefChecker + GraphCheck + RARR-gate compose (anti-hallucination) | L07 | Verified OS | validate-verification-ensemble | VALIDATED (8/8) |
 | `translation_variant.py` | GEM 5.1: three-version translation as scholarship (core vs interpretation-space) | L03 | Verified OS | validate-translation-variant | VALIDATED (8/8) |
+| `open_ended_evolve.py` | Darwin Godel adapted: open-ended rule evolution under the invariant oracle | L05 | Autonomous Institute | validate-open-ended-evolve | VALIDATED (6/6) |
+| `self_healing.py` | Self-healing orchestration: typed repair cascade for the delivery loop | L09 | Autonomous Institute | validate-self-healing | VALIDATED (8/8) |
+| `skill_graph.py` | Audited skill-graph self-improvement (kernels as skills, verifiable reward) | L05 | Autonomous Institute | validate-skill-graph | VALIDATED (8/8) |
+| `structure_recall.py` | SAGE structure-aware recall (follow graph topology on the read plane) | L10 | Verified OS | validate-structure-recall | VALIDATED (9/9) |
 
 ## Rules for agents
 1. **Reuse, don't rebuild** (axiom): a task that maps to a kernel → call the kernel.

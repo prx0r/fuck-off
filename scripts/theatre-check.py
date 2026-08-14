@@ -48,6 +48,10 @@ KERNEL_TESTS = {
     "vidyut_l0":     ("validate-vidyut-l0.py", True),
     "verification_ensemble": ("validate-verification-ensemble.py", True),
     "translation_variant": ("validate-translation-variant.py", True),
+    "open_ended_evolve": ("validate-open-ended-evolve.py", True),
+    "self_healing":     ("validate-self-healing.py", True),
+    "skill_graph":      ("validate-skill-graph.py", True),
+    "structure_recall": ("validate-structure-recall.py", True),
 }
 
 # docs claims (from LAB-REVIEW / KERNELS-INDEX) to verify against tests
@@ -82,6 +86,10 @@ DOC_CLAIMS = {
     "vidyut_l0": "L0 Sanskrit token floor (9/9)",
     "verification_ensemble": "RefChecker+GraphCheck+RARR (8/8)",
     "translation_variant": "three-version translation scholarship (8/8)",
+    "open_ended_evolve": "Darwin open-ended evolution under invariant oracle (6/6)",
+    "self_healing": "self-healing repair cascade (8/8)",
+    "skill_graph": "audited skill-graph self-improvement (8/8)",
+    "structure_recall": "SAGE structure-aware recall (9/9)",
 }
 
 def run(script):

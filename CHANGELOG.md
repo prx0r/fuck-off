@@ -757,3 +757,16 @@ Autonomous build of 7 infrastructure kernels inspired by the patala v2/v3 GEMs +
   dependency graph, signed Merkle root, integrity tri-state, confidence_kind evidence, system
   self-provenance). Identifies the honest gaps (misconception repair cascade, BKT/FSRS, gaps A-E).
 - Wired into NAVIGATION + TRACEABILITY. Traceability still clean (109 docs).
+
+## 2026-08-14 (agentic/evolutionary steals + coherence audit)
+- Mined the arXiv GAP/BET papers for stealable architectures. The 5-arch steal-list: audited skill-graph
+  self-improvement (2512.23760), Darwin open-ended evolution (2505.22954), self-healing orchestration
+  (2606.01416), SAGE structure-aware recall (2605.12061), verifier-as-first-class (INTELLECT-3/SWE-Gym).
+- Cloned + studied dgm (Darwin Godel, ⭐2.2k) + awesome-self-evolving survey (⭐2.4k). Built 4 steals:
+  - `open_ended_evolve.py` (6/6): open-ended rule evolution under the invariant oracle (Darwin)
+  - `self_healing.py` (8/8): typed repair cascade for the delivery loop (retry/re-plan/degrade/abort)
+  - `skill_graph.py` (8/8): kernels-as-skills, promote only on verifiable reward (2512.23760)
+  - `structure_recall.py` (9/9): SAGE structure-aware recall on the read plane (2605.12061)
+- **`COHERENCE-AUDIT.md`** — the honest zoom-out: 36/37 kernels map to a patala layer; every frontier
+  build serves a patala product (not random integration). L00-L10 all populated. Still about patala.
+- **75/75 tests, 37 kernels, 75-experiment matrix, 48 clones. Theatre 35 PROVEN / 39 mech / 0 unproven.**

@@ -30,12 +30,12 @@ match ground truth.
 
 | Artifact | Count | Machine source |
 |---|---|---|
-| Kernels (`lib/`) | **33** | `ls lib/*.py` |
-| Experiments (matrix) | **71** | `data/references/experiments.json` |
-| Test suite | **71/71 pass** | `scripts/run-tests.py` |
+| Kernels (`lib/`) | **37** | `ls lib/*.py` |
+| Experiments (matrix) | **75** | `data/references/experiments.json` |
+| Test suite | **75/75 pass** | `scripts/run-tests.py` |
 | Theatre audit | **31 PROVEN real / 27 mechanism / 0 unproven** (58 audited) | `scripts/theatre-check-all.py` |
 | GitHub repo catalog | **99** | `data/references/github.json` |
-| Repos cloned | **46** (25 validated + 21 reference) | `ecosystem/*/` |
+| Repos cloned | **48** (27 validated + 21 reference) | `ecosystem/*/` |
 | arXiv paper catalog | **32** | `data/references/arxiv.json` |
 | Specs | **47** (SPEC-00..49) | `specs/` |
 | Docs traced | **108 .md, all resolve** | `scripts/audit-traceability.py` |

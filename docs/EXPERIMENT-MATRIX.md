@@ -1,6 +1,6 @@
 # EXPERIMENT MATRIX — what's been tested
 
-*2026-08-14. 71 experiments mapped to layer / source repo / vision / kernel / result.*
+*2026-08-14. 75 experiments mapped to layer / source repo / vision / kernel / result.*
 Machine form: `data/references/experiments.json`.
 
 ## Argument Map (7)
@@ -101,7 +101,7 @@ Machine form: `data/references/experiments.json`.
 | `experiment-causal-operational-graph.py` | L12 | patalamix review #12 | causal-operational | RUN |
 | `experiment-signed-statement.py` | L12 | cosign (cloned) | signing | RUN |
 
-## Verified Epistemic OS (29)
+## Verified Epistemic OS (33)
 
 | script | layer | source | kernel | result |
 |--------|-------|--------|--------|--------|
@@ -126,10 +126,14 @@ Machine form: `data/references/experiments.json`.
 | `validate-layer03-05.py` | L03+L05 | herdr+RKA (cloned) | review+staleness | PASS |
 | `validate-lightrag-compare.py` | L10 | real graph + LightRAG (HKUDS ⭐38k) | lightrag | RUN |
 | `validate-next-action.py` | L12 | IPK tasks | next-action | RUN |
+| `validate-open-ended-evolve.py` | L05 | Darwin Godel (dgm ⭐2.2k) | open-ended-evolve | RUN |
 | `validate-provenance.py` | L02 | knowledgeProvenance (cloned) | provenance | PASS |
+| `validate-self-healing.py` | L09 | agent delivery | self-healing | RUN |
 | `validate-seo-astro.py` | L07 | real graph | seo-astro | RUN |
+| `validate-skill-graph.py` | L05 | 33 kernels as skills | skill-graph | RUN |
 | `validate-source-registry.py` | L01 | real IPK/Ratié sources | source-registry | RUN |
 | `validate-stack.py` | ALL | graduation test | integration | RUN |
+| `validate-structure-recall.py` | L10 | real graph | structure-recall | RUN |
 | `validate-system-provenance.py` | ALL | lib/ kernel index | self-provenance | RUN |
 | `validate-translation-variant.py` | L03 | IPK 1.5.19 translations | translation-variant | RUN |
 | `validate-verification-ensemble.py` | L07 | registered sources + edges | verification-ensemble | RUN |

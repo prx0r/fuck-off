@@ -56,6 +56,7 @@ Nothing is orphaned. Machine-checkable: every entry has a path; every path exist
 | `MASTER-KNOWLEDGE-BASE.md` | ALL | the synthesized master reference (everything at a glance) |
 | `OWN-VISION-MAP.md` | ALL | our independent vision zoomed out (frontiers + products → proof status) |
 | `ORGANISM-OPERATING-MODEL.md` | ALL | the organism operating manual (ingest/teach/publish + durable/secure) |
+| `COHERENCE-AUDIT.md` | ALL | the coherence zoom-out (kernels → layer → patala product) |
 | `HANDOVER.md` | ALL | session state + where to continue |
 | `migration/v2/ESSAY-INGEST.md` | Enquiry-Discovery (L04/L09) | the 9-stage essay-as-derivation-input architecture |
 | `migration/v2/INGESTION-ARCHITECTURE.md` | Enquiry-Discovery (L04/L09) | source-text vs essay-about-source vs standalone (KORAL) |

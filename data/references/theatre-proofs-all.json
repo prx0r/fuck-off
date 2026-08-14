@@ -1,8 +1,8 @@
 {
- "count": 70,
+ "count": 74,
  "verdicts": {
-  "PROVEN": 34,
-  "PROVEN-MECHANISM": 36
+  "PROVEN": 35,
+  "PROVEN-MECHANISM": 39
  },
  "proofs": [
   {
@@ -844,6 +844,54 @@
    "uses_real_data": false,
    "verdict": "PROVEN-MECHANISM",
    "proof_hash": "67fb77ad34f2b5e4"
+  },
+  {
+   "script": "validate-open-ended-evolve.py",
+   "layer": "L05",
+   "vision": "Verified Epistemic OS",
+   "kernel": "open-ended-evolve",
+   "claim": "Darwin Godel Machine adapted: open-ended rule evolution under the invariant oracle \u2014 6/6",
+   "test_exists": true,
+   "passes": true,
+   "uses_real_data": false,
+   "verdict": "PROVEN-MECHANISM",
+   "proof_hash": "5041cf41f91260e6"
+  },
+  {
+   "script": "validate-self-healing.py",
+   "layer": "L09",
+   "vision": "Verified Epistemic OS",
+   "kernel": "self-healing",
+   "claim": "Self-healing orchestration: typed repair cascade (retry/re-plan/degrade/abort+review) \u2014 8/8",
+   "test_exists": true,
+   "passes": true,
+   "uses_real_data": false,
+   "verdict": "PROVEN-MECHANISM",
+   "proof_hash": "475d75bc60ff52ba"
+  },
+  {
+   "script": "validate-skill-graph.py",
+   "layer": "L05",
+   "vision": "Verified Epistemic OS",
+   "kernel": "skill-graph",
+   "claim": "Audited skill-graph self-improvement: promote only on verifiable reward \u2014 8/8",
+   "test_exists": true,
+   "passes": true,
+   "uses_real_data": false,
+   "verdict": "PROVEN-MECHANISM",
+   "proof_hash": "4c2aa83885dc2f9c"
+  },
+  {
+   "script": "validate-structure-recall.py",
+   "layer": "L10",
+   "vision": "Verified Epistemic OS",
+   "kernel": "structure-recall",
+   "claim": "SAGE structure-aware recall: follow graph topology on the read plane \u2014 9/9",
+   "test_exists": true,
+   "passes": true,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "dd9e418f0152389a"
   }
  ]
 }

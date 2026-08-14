@@ -1,5 +1,5 @@
 {
- "count": 71,
+ "count": 75,
  "entries": [
   {
    "script": "validate-layer03-05.py",
@@ -639,6 +639,42 @@
    "kernel": "translation-variant",
    "status": "RUN",
    "note": "GEM 5.1: three-version translation as scholarship (hard core vs interpretation-space) \u2014 8/8"
+  },
+  {
+   "script": "validate-open-ended-evolve.py",
+   "layer": "L05",
+   "source": "Darwin Godel (dgm \u2b502.2k)",
+   "vision": "Verified Epistemic OS",
+   "kernel": "open-ended-evolve",
+   "status": "RUN",
+   "note": "Darwin Godel Machine adapted: open-ended rule evolution under the invariant oracle \u2014 6/6"
+  },
+  {
+   "script": "validate-self-healing.py",
+   "layer": "L09",
+   "source": "agent delivery",
+   "vision": "Verified Epistemic OS",
+   "kernel": "self-healing",
+   "status": "RUN",
+   "note": "Self-healing orchestration: typed repair cascade (retry/re-plan/degrade/abort+review) \u2014 8/8"
+  },
+  {
+   "script": "validate-skill-graph.py",
+   "layer": "L05",
+   "source": "33 kernels as skills",
+   "vision": "Verified Epistemic OS",
+   "kernel": "skill-graph",
+   "status": "RUN",
+   "note": "Audited skill-graph self-improvement: promote only on verifiable reward \u2014 8/8"
+  },
+  {
+   "script": "validate-structure-recall.py",
+   "layer": "L10",
+   "source": "real graph",
+   "vision": "Verified Epistemic OS",
+   "kernel": "structure-recall",
+   "status": "RUN",
+   "note": "SAGE structure-aware recall: follow graph topology on the read plane \u2014 9/9"
   }
  ]
 }

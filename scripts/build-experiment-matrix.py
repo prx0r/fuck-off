@@ -95,6 +95,10 @@ MATRIX = {
   "validate-vidyut-l0.py": ("L03", "vidyut + SLP1", "Verified Epistemic OS", "vidyut-l0", "GEM 5.3: L0 Sanskrit token floor (SLP1 normalize + position-anchored tokens) — 9/9"),
   "validate-verification-ensemble.py": ("L07", "registered sources + edges", "Verified Epistemic OS", "verification-ensemble", "GEM 7.1: RefChecker + GraphCheck + RARR-gate compose (no big prompt) — 8/8"),
   "validate-translation-variant.py": ("L03", "IPK 1.5.19 translations", "Verified Epistemic OS", "translation-variant", "GEM 5.1: three-version translation as scholarship (hard core vs interpretation-space) — 8/8"),
+  "validate-open-ended-evolve.py": ("L05", "Darwin Godel (dgm ⭐2.2k)", "Verified Epistemic OS", "open-ended-evolve", "Darwin Godel Machine adapted: open-ended rule evolution under the invariant oracle — 6/6"),
+  "validate-self-healing.py": ("L09", "agent delivery", "Verified Epistemic OS", "self-healing", "Self-healing orchestration: typed repair cascade (retry/re-plan/degrade/abort+review) — 8/8"),
+  "validate-skill-graph.py": ("L05", "33 kernels as skills", "Verified Epistemic OS", "skill-graph", "Audited skill-graph self-improvement: promote only on verifiable reward — 8/8"),
+  "validate-structure-recall.py": ("L10", "real graph", "Verified Epistemic OS", "structure-recall", "SAGE structure-aware recall: follow graph topology on the read plane — 9/9"),
 }
 
 def main():

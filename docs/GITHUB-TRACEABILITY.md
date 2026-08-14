@@ -29,6 +29,8 @@ integrated). This makes everything traceable — no repo is orphaned.*
 | `fojin` (clone) | `validate-source-registry` + `validate-alignment-flywheel` + `validate-evidence-ledger` | L01/L06/L08 | PROVEN (source-registry, cross-source flywheel, confidence_kind) |
 | `EleutherIA` (clone) | `validate-integrity-gate` | L05 | PROVEN (integrity tri-state + primary-source gate) |
 | `vidyut` (clone) | `validate-vidyut-l0` | L03 | PROVEN (L0 Sanskrit token floor, SLP1) |
+| `dgm` (clone, ⭐2.2k, Darwin Godel) | `validate-open-ended-evolve` | L05 | PROVEN (open-ended evolution under invariant oracle) |
+| `awesome-self-evolving` (clone, ⭐2.4k survey) | (reference — the self-evolving-agents survey) | ALL | REFERENCE |
 | `eigenius` | `experiment-eigenius-grades` | L00 | PROVEN |
 | `self-improving-agent` | `experiment-self-improve` | L05 | PROVEN |
 | `evolving-memory` | `experiment-evolving-memory` | L09 | PROVEN |

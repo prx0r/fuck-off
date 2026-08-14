@@ -1,6 +1,6 @@
 {
- "count": 30,
- "proven": 24,
+ "count": 34,
+ "proven": 28,
  "mechanism_only": 6,
  "unproven": 0,
  "proofs": [
@@ -159,6 +159,17 @@
    "proof_hash": "11c1f98da8938c62"
   },
   {
+   "kernel": "open_ended_evolve",
+   "doc_claim": "Darwin open-ended evolution under invariant oracle (6/6)",
+   "test_script": "validate-open-ended-evolve.py",
+   "test_exists": true,
+   "test_passes": true,
+   "exit_code": 0,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "210815c48ebf694d"
+  },
+  {
    "kernel": "organism",
    "doc_claim": "misconception graph validated",
    "test_script": "validate-education-organism.py",
@@ -258,6 +269,17 @@
    "proof_hash": "80d844bdd530d682"
   },
   {
+   "kernel": "self_healing",
+   "doc_claim": "self-healing repair cascade (8/8)",
+   "test_script": "validate-self-healing.py",
+   "test_exists": true,
+   "test_passes": true,
+   "exit_code": 0,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "80c8ac15a07fa3ea"
+  },
+  {
    "kernel": "seo",
    "doc_claim": "canonical URLs + JSON-LD + sitemap + static 0-JS HTML (13/13)",
    "test_script": "validate-seo-astro.py",
@@ -267,6 +289,17 @@
    "uses_real_data": true,
    "verdict": "PROVEN",
    "proof_hash": "90fc807027f885a1"
+  },
+  {
+   "kernel": "skill_graph",
+   "doc_claim": "audited skill-graph self-improvement (8/8)",
+   "test_script": "validate-skill-graph.py",
+   "test_exists": true,
+   "test_passes": true,
+   "exit_code": 0,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "2b546c8aee8875bd"
   },
   {
    "kernel": "source_registry",
@@ -289,6 +322,17 @@
    "uses_real_data": true,
    "verdict": "PROVEN",
    "proof_hash": "0fcf742dcb69359f"
+  },
+  {
+   "kernel": "structure_recall",
+   "doc_claim": "SAGE structure-aware recall (9/9)",
+   "test_script": "validate-structure-recall.py",
+   "test_exists": true,
+   "test_passes": true,
+   "exit_code": 0,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "609e7bbe4d15a753"
   },
   {
    "kernel": "translation",
