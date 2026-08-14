@@ -54,6 +54,7 @@ maps to: what it is · layer · vision · the experiment(s) that validate it · 
 | `question_growth.py` | the Question-Growth Engine (SPEC-36/logicvid): growth tree (question -> next_pressure) + PrimitiveRobustness (independent rediscovery = fundamentality, not popularity) + learnable growth examples | L04 | Enquiry-Discovery | validate-question-growth | VALIDATED (7/7) |
 | `enquiry.py` | the Enquiry-Discovery Organism (SPEC-46): DiscoveryProgression (taxonomy -> theorem -> boundary -> frontier) — a structured enquiry reveals topic structure feeding ontology/claims/research-gaps/question-roots | L04 | Enquiry-Discovery | validate-enquiry | VALIDATED (13/13) |
 | `design_provenance.py` | the Self-Proving full form (DEV_PLAN §1.4, extends system_provenance): every design decision -> a signed nanopub (rationale + rejected alternatives + validator), tamper-evident + why()-resolvable + Merkle-rooted | ALL | Self-Proving | validate-design-provenance | VALIDATED (8/8) |
+| `graph_stable.py` | the stable-graph projection (DEV_PLAN §1.5, SPEC-13 F2/F3): deterministic byte-reproducible serialization (stabilize + stable-LCC) + content-addressed staleness check + component isolation | ALL | Co-Evolving Organism | validate-graph-stable | VALIDATED (8/8) |
 
 ## Rules for agents
 1. **Reuse, don't rebuild** (axiom): a task that maps to a kernel → call the kernel.
