@@ -101,22 +101,20 @@ run commands) · `patala/pipeline/factory_scheduler.py` (the controller) · `con
 
 ---
 
-## PHASE 1 — THE 4 REMAINING MISSING KERNELS (was 5; misconception DONE)
+## PHASE 1 — THE 5 MISSING KERNELS [ALL DONE — 2026-08-14] ✅
 
-### 1.1 `lib/misconception.py` — [DONE, 9/9] ✅
-`MisconceptionLikelihood` → flag → RKA propagate → measure dissolution. Reuses `staleness.blast_radius`.
-Kernel + validator committed. FRONTIER-ONLY (standalone, synthetic) until wired on real learner data.
+The docs-referenced kernels that "don't exist" were all built this session (REV 2 → current):
+- [x] `lib/misconception.py` — the repair cascade (9/9). Evidence: `scripts/validate-misconception.py`.
+- [x] `lib/question_growth.py` — the Question-Growth Engine (7/7). `validate-question-growth.py`.
+- [x] `lib/enquiry.py` — the Enquiry-Discovery Organism (13/13). `validate-enquiry.py`.
+- [x] `lib/design_provenance.py` — the Self-Proving full form (8/8). `validate-design-provenance.py`.
+- [x] `lib/graph_stable.py` — the stable-graph projection (8/8). `validate-graph-stable.py`.
 
-### 1.2 `lib/question_growth.py` — Question-Growth Engine [P1]
-Wire the 35 pushing sessions' cruxes as growth seeds. (Only `experiment-question-growth.py` exists.)
+Kernel count now **52**. All registered in `KERNELS-INDEX.md`.
 
-### 1.3 `lib/enquiry.py` — Enquiry-Discovery Organism [P1]
-DiscoveryProgression from the LOGICVID gold + pushing cruxes. (Only `experiment-enquiry-discovery.py`.)
-
-### 1.4 `lib/design_provenance.py` — Self-Proving full form [P2]
-Every design decision → signed nanopub.
-
-### 1.5 `lib/graph_stable.py` — stable-graph [P2]
+**Next:** the "missing kernels" gap is CLOSED. The record-consistency work (Phase 0: fix stale layers,
+the 3-taxonomy conflict, GAPS, `state.json` L08 over-claim) and the 2 THEATRE validators are the remaining
+Phase-0/trust items.
 
 ---
 
