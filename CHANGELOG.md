@@ -899,3 +899,11 @@ BUILD-AGENT-SYSTEM-RECOVERY) against my own specs/layers — by RUNNING the code
 - **`SHARED-DOCS-ASSESSMENT.md`** — my verdict: audit correct (fixed); where I'm ahead (read plane, anti-
   theatre tooling, hound/pushing/convergence steals); the Doyle graph is honest (real Sanskrit = Tantrāloka root).
 - 42 kernels, 86 experiments, 82/82 tests (contract convergence + hermes generation wired).
+
+## 2026-08-14 (governance: stop using "run the tests" as a substitute for work)
+- **AGENTS.md axiom 5:** RUNNING TESTS IS NOT WORK. The suite already passes; reflexively re-running
+  run-tests/theatre-check/audit + celebrating a green checkmark is masturbation, not progress. Run a gate
+  ONLY when (a) code/data just changed and must be confirmed, or (b) a real claim is genuinely in doubt.
+  Otherwise BUILD.
+- **AGENTS.md §7.3:** documented THEATRE MODE 4 — "run the tests" as a substitute for a real task. The
+  user caught it directly. The default is now build or fix a real bug, never re-verify green code.

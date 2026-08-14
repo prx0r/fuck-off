@@ -84,6 +84,11 @@ live (SPEC-49 P0/P1 done).
 3. **Kill by specific PID, never `pkill`.** Find PID with `ps -eo pid,cmd | grep <name>`.
 4. **Reuse, don't rebuild.** Check `lib/`, `scripts/`, `specs/`, `docs/`, and the cloned tools
    (`/mnt/HC_Volume_106427611/kg-tools/`) before writing new machinery.
+5. **RUNNING TESTS IS NOT WORK.** The suite already passes (86 experiments, 82/82). Do NOT reflexively run
+   `run-tests.py`, `theatre-check*.py`, `audit-*.py`, or the matrix as a "next step" — that's masturbation,
+   not progress. Run a gate ONLY when (a) you just changed code/data and must confirm it, or (b) a real
+   claim is genuinely in doubt. Otherwise the default is BUILD, not re-verify. When you DO run a suite, run
+   it in the background (`nohup`) and keep building — never block on a green checkmark.
 
 ### 3.2 Data & safety
 5. **R2 is the source of truth for bytes.** Corpus is backed up at
@@ -339,3 +344,20 @@ comparison.
 
 **The lesson:** a marker is not a proof. A loaded file is not a derived object. The manual data-flow read
 (Gate 3) is the only rigorous anti-theatre check.
+
+### 7.3 THEATRE MODE 4 — "RUN THE TESTS" AS A SUBSTITUTE FOR WORK (2026-08-14, the latest slip)
+
+**The pattern I kept repeating:** after nearly every change, I reflexively ran `run-tests.py` +
+`theatre-check-all.py` + `audit-state.py` + the matrix, printed "82/82 pass!", and counted that as a step.
+That is **activity, not progress** — the suite already passes; re-running it and celebrating a green
+checkmark is masturbation. The user caught it directly: *"you keep repeating 'many tests pass,' keep
+running theatre checks — it's all masturbation, not useful."*
+
+**The rule (now axiom 5):** RUNNING TESTS IS NOT WORK. The suite is a *gate you use when you changed
+something and must confirm it*, not a *deliverable*. The real work is:
+- building the next actual capability (wire Hermes into generation, the missing kernels, the Tantrāloka
+  full stack on real data),
+- or fixing a REAL bug the audit found (orphaned hermes_exec, blind `-z`, hand-fed containers).
+
+A green checkmark on unchanged code is noise. If you find yourself about to run a suite "as the next
+step," STOP — that means you don't have a real task. Go build something, or go find a real gap to close.
