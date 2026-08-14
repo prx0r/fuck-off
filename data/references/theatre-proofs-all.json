@@ -1,9 +1,8 @@
 {
  "count": 50,
  "verdicts": {
-  "PROVEN": 23,
-  "PROVEN-MECHANISM": 26,
-  "UNPROVEN": 1
+  "PROVEN": 24,
+  "PROVEN-MECHANISM": 26
  },
  "proofs": [
   {
@@ -583,18 +582,6 @@
    "proof_hash": "c3958c3fadf1b23b"
   },
   {
-   "script": "theatre-check-all.py",
-   "layer": "ALL",
-   "vision": "Verified Epistemic OS",
-   "kernel": "verification",
-   "claim": "all 49 experiments audited",
-   "test_exists": true,
-   "passes": false,
-   "uses_real_data": true,
-   "verdict": "UNPROVEN",
-   "proof_hash": "86a374f67be85fed"
-  },
-  {
    "script": "experiment-essay-as-engine.py",
    "layer": "L04/L06",
    "vision": "Enquiry-Discovery Organism",
@@ -605,6 +592,18 @@
    "uses_real_data": true,
    "verdict": "PROVEN",
    "proof_hash": "8dc60e0926fc89eb"
+  },
+  {
+   "script": "validate-essay-ingest.py",
+   "layer": "L04/L06/L09",
+   "vision": "Enquiry-Discovery Organism",
+   "kernel": "essay-ingest",
+   "claim": "the 9-stage pipeline: structure\u2192claims\u2192evidence\u2192argument\u2192crux\u2192review\u2192pedagogy\u2192reactive \u2014 8/8",
+   "test_exists": true,
+   "passes": true,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "747d44182579c00c"
   }
  ]
 }

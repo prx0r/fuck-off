@@ -609,3 +609,16 @@ imposed.
 - **The unifying insight:** essay ingest is the pipeline applied to a structured document — no new
   machinery, just wiring proven kernels. The essay becomes derivation input feeding review, comparison,
   research, education, and the organism.
+
+## 2026-08-14 (handover depth + essay-ingest integrated)
+- **HANDOVER.md rewritten in depth:** added essay-ingest as a first-class section (9-stage pipeline,
+  source-vs-essay-about-source-vs-standalone, KORAL two-graph), added the 17th kernel to the table,
+  updated theatre counts (24/26/0), fixed section numbering, updated session log + read-me-first.
+- **migration/v2/INGESTION-ARCHITECTURE.md** — the full picture: source text (vertical, ground truth)
+  vs essay-about-source (commentarial, derived_from source passages) vs standalone essay (argument
+  layer), all KORAL-separated.
+- **Fixed a real bug:** `theatre-check-all.py` was auditing ITSELF as a subprocess → infinite recursion
+  → timeout → falsely marked UNPROVEN. Now excludes self + explicit exit code. Audit is honest again:
+  **50 audited / 24 PROVEN / 26 mechanism / 0 UNPROVEN.**
+- **Ground-truth sync:** migration READMEs, NAVIGATION, TRACEABILITY-MAP, KERNELS-INDEX all updated to
+  17 kernels + 51-experiment matrix. 50/50 test suite (essay-ingest 8/8).

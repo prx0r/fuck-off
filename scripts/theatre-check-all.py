@@ -36,8 +36,11 @@ def run(script):
 
 proofs = []
 print("=== FULL THEATRE AUDIT — every experiment, verifiable proof ===\n")
+SELF = "theatre-check-all.py"
 for e in entries:
     script = e["script"]
+    if script == SELF:   # the audit must not audit itself (subprocess recursion -> timeout)
+        continue
     exists = script_exists(script)
     passes, rc = run(script) if exists else (False, -1)
     real = uses_real_data(script)
@@ -74,3 +77,4 @@ print(f"The lab has {verdicts['PROVEN']} experiments proven on real data; "
       f"{verdicts['PROVEN-MECHANISM']} prove mechanism only (synthetic). "
       f"The fix is the graduation test (real data through the whole stack) + real-data inputs "
       f"for the synthetic validators.")
+sys.exit(0 if verdicts['UNPROVEN'] == 0 else 1)

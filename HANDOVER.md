@@ -20,7 +20,7 @@ stack) is what makes a mechanism real.
 
 ---
 
-## 2. WHAT'S BUILT (the 16 reusable kernels)
+## 2. WHAT'S BUILT (the 17 reusable kernels)
 
 | Kernel | What it does | Theatre verdict |
 |--------|-------------|-----------------|
@@ -40,15 +40,16 @@ stack) is what makes a mechanism real.
 | `pedagogy.py` | live adaptive pedagogy | PROVEN-MECHANISM |
 | `evolve.py` | MAP-Elites evolution loop | PROVEN-MECHANISM |
 | `agent_delivery.py` | task contract + context routing + budget + human gate | PROVEN-MECHANISM |
+| `essay_ingest.py` | essay-as-derivation-input: 9-stage pipeline (structure→claims→evidence→argument→crux→review→pedagogy→reactive) | PROVEN (real Ratié data) |
 
 ## 3. THE THEATRE AUDIT (verifiable proofs)
 
 **`scripts/theatre-check-all.py`** runs every experiment and stores a proof record (test exists +
 passes + real-data + claim + hash) → `data/references/theatre-proofs-all.json`.
 
-**Result (49/49 tests pass):**
+**Result (50 experiments, self excluded):**
 ```
-22 experiments PROVEN on real data
+24 experiments PROVEN on real data
 26 PROVEN-MECHANISM (synthetic — mechanism works, not integrated)
  0 UNPROVEN
 ```
@@ -78,7 +79,43 @@ Co-Evolving Organism.
 
 ---
 
-## 5. THE VISIONS (where this is heading)
+## 5. THE ESSAY-INGEST ARCHITECTURE (essays as derivation input)
+
+A scholarly essay (Ratié, Torella, Dyczkowski) is a **dense bundle of machine-derivable objects** —
+thesis-moves, source-cited claims, argument moves, scholar disagreements (cruxes), verbatim quotes.
+We ingest it through our **existing epistemic pipeline**, NOT a separate "essay reader." The 9 stages:
+
+| Stage | Kernel | Why |
+|-------|--------|-----|
+| Structure | `schema.py` | anatomy (book→chapters→sections→IPK→move) is a contract, not free text |
+| Mine claims | `epistemic.py` | honest ceilings: SOURCE-SAYS ≠ SCHOLAR-RECONSTRUCTS ≠ PĀṬALA-INFERS |
+| Evidence | `translation.py`/signing | grounded + signed verbatim quotes, no phantoms |
+| Argument | `review.py` | AIF graph, real reducer gates |
+| Crux | `crux-compiler` | minimal divergence, master tension preserved |
+| Review | `scholar_review.py` | adversarial panel + citecheck (anti-theatre) |
+| Organism | `organism.py` | readers probe the essay-derived graph, improve it |
+| Pedagogy | `pedagogy.py` | the mined structure IS the curriculum |
+| Reactive | `staleness.py` | the essay is a projection — source change marks its sections stale |
+
+**Source text vs essay-about-source vs standalone essay** (the three ingest types, KORAL two-graph):
+- **Source text** (IPVV, Tantrāloka) ingests VERTICALLY as ground truth (raw→translation→proof), each
+  passage a node. Reality graph.
+- **Essay-about-source** (Ratié on IPVV) ingests at the COMMENTARIAL layer; its claims are
+  `derived_from` + reviewed AGAINST the source passages. Interpretation lives in the literature graph.
+- **Standalone essay** ingests at the ARGUMENT layer; references whatever it cites as evidence.
+- **KORAL rule (already proven):** interpretation NEVER corrupts the primary source. Re-reading Ratié
+  flags HER claims, not the source passage.
+
+**The unifying insight:** essay ingest is the pipeline applied to a structured document — no new
+machinery, just wiring proven kernels. The essay becomes derivation input feeding review, comparison,
+research, education, and the organism. "One graph" made literal for the scholarly essay corpus.
+
+Proofs: `validate-essay-ingest.py` (8/8 on real Ratié), `experiment-essay-as-engine.py`,
+`experiment-koral-twograph.py`. Docs: `migration/v2/ESSAY-INGEST.md`, `migration/v2/INGESTION-ARCHITECTURE.md`.
+
+---
+
+## 6. THE VISIONS (where this is heading)
 
 | Vision | Status |
 |--------|--------|
@@ -95,7 +132,7 @@ All in `docs/vision/` — see `docs/vision/beyond-patala/` for the product visio
 
 ---
 
-## 6. REVIEW CRITIQUES TO TRACK (the honest debt)
+## 7. REVIEW CRITIQUES TO TRACK (the honest debt)
 
 From **patalamix (SPEC-32)** + the v2 migration:
 - ✅ Honest status ladder (DISCOVERED→PRODUCTION) — adopted.
@@ -112,7 +149,7 @@ From **patalamix (SPEC-32)** + the v2 migration:
 
 ---
 
-## 7. THE 7 AXIOMS (non-negotiable — from AGENTS.md)
+## 8. THE 7 AXIOMS (non-negotiable — from AGENTS.md)
 
 1. One rule: nothing is real because a file exists — it's real when reproducible + verifiable.
 2. Reuse don't rebuild (16 kernels in `lib/`).
@@ -124,7 +161,7 @@ From **patalamix (SPEC-32)** + the v2 migration:
 
 ---
 
-## 8. EXACTLY WHAT TO DO NEXT (prioritized)
+## 9. EXACTLY WHAT TO DO NEXT (prioritized)
 
 **P0 — the graduation test** (the biggest lever, patalamix #15):
 Build ONE claim end-to-end on real evidence (use the two-stage free-will argument as the stand-in for
@@ -141,15 +178,19 @@ regeneration→signed re-release). This turns the lab into the kernel. `validate
 - Parse the LOGICVID gold into a real enquiry graph (SPEC-40..48 → DiscoveryProgressions).
 - Wire enquiry-discovery into pedagogy (learner reconstructs the discovered structure).
 - MAP-Elites on a real translation task (patalamix EXP-43).
+- **Run the essay-ingest on a FULL source** (not just the Ratié breakdown excerpts): feed a whole
+  chapter text through all 9 stages → graduation-style proof that a real essay becomes real derivation
+  input, cross-linked to the source passages it cites (KORAL two-graph respected).
 
 ---
 
-## 9. KEY COMMANDS
+## 10. KEY COMMANDS
 
 ```bash
-python3 scripts/run-tests.py              # full suite (49/49)
+python3 scripts/run-tests.py              # full suite (50/50)
+python3 scripts/validate-essay-ingest.py  # essay-ingest pipeline (8/8 on real Ratié)
 python3 scripts/theatre-check.py          # kernel theatre audit (verifiable proofs)
-python3 scripts/theatre-check-all.py      # ALL-experiment theatre audit
+python3 scripts/theatre-check-all.py      # ALL-experiment theatre audit (50: 24/26/0)
 python3 scripts/build-experiment-matrix.py # regenerate the matrix
 python3 scripts/reverse-deliver.py --vision <Name>   # backward-delivery plan for a vision
 rclone check <local> r2:atlas-sources/informationphilosopher  # R2 backup integrity
@@ -157,7 +198,7 @@ rclone check <local> r2:atlas-sources/informationphilosopher  # R2 backup integr
 
 ---
 
-## 10. SESSION LOG (2026-08-14 — what was built this session)
+## 11. SESSION LOG (2026-08-14 — what was built this session)
 
 1. Imported + saved 30+ R2 docs → SPEC-00..48 (reviews, education, organism, pushing, logicvid).
 2. Built 16 kernels + 49 experiments across layers L00-L12 + 8 product visions.
@@ -168,22 +209,32 @@ rclone check <local> r2:atlas-sources/informationphilosopher  # R2 backup integr
 6. Discovered the LOGICVID gold (live human curiosity) → question-growth, enquiry-discovery,
    gem-extraction, claim-standardisation.
 7. Final alignment: **full traceability** (TRACEABILITY-MAP + GITHUB-TRACEABILITY — every doc/
-   experiment/repo resolves to vision + layer), **theatre-check-all** (48 experiments audited,
-   22 PROVEN real / 26 mechanism / 0 unproven), clean AGENTS navigation, all 46 specs indexed.
-8. **FINAL STATE: 49/49 tests, 22 experiments PROVEN on real data, 16 kernels, 8 product visions,
-   41 cloned repos (20 validated + 21 reference), fully traceable.**
+   experiment/repo resolves to vision + layer), **theatre-check-all**, clean AGENTS navigation,
+   all 46 specs indexed.
+8. **ESSAY-INGEST (this session):** surfaced logicvid/pushing + organism/consumers + essays in the
+   migration (`migration/v2/PUSHING-ORGANISM-ESSAYS.md`). Built `experiment-essay-as-engine.py` (mine
+   a scholar essay into claim+argument+crux+evidence objects). Built the **17th kernel**
+   `lib/essay_ingest.py` — the 9-stage essay-as-derivation-input pipeline — + `validate-essay-ingest.py`
+   (8/8 on real Ratié data, all through proven kernels). Wrote the deep architecture docs:
+   `migration/v2/ESSAY-INGEST.md` (9 stages × kernel × why) and `migration/v2/INGESTION-ARCHITECTURE.md`
+   (source-text vs essay-about-source vs standalone essay, KORAL two-graph). Fixed the theatre audit
+   self-recursion bug (audit no longer audits itself).
+9. **FINAL STATE: 50/50 tests, 24 experiments PROVEN on real data / 26 mechanism / 0 unproven,
+   17 kernels, 8 product visions, 51-experiment matrix, 41 cloned repos (20 validated + 21 reference),
+   fully traceable.**
 
 ---
 
-## 11. READ-ME-FIRST CHECKLIST (for the new agent)
+## 12. READ-ME-FIRST CHECKLIST (for the new agent)
 
 1. Read `AGENTS.md` — the axioms (esp. axiom 12: every artifact must resolve).
 2. Read `NAVIGATION.md` → `TRACEABILITY-MAP.md` → `HANDOVER.md` (this file).
 3. Read `LAB-REVIEW.md` — what's proven vs exploratory.
-4. Read `KERNELS-INDEX.md` — reuse the 16 kernels, don't rebuild.
-5. Check `TODO.md` + `GAPS.md` + `STATE.yaml` — the live state.
-6. Run `scripts/run-tests.py` (49/49) + `scripts/theatre-check-all.py` before claiming anything done.
-7. Pick the graduation test (§8 P0) as the next real milestone.
+4. Read `KERNELS-INDEX.md` — reuse the 17 kernels, don't rebuild.
+5. Read §5 essay-ingest architecture — the source-text vs essay-about-source vs standalone design.
+6. Check `TODO.md` + `GAPS.md` + `STATE.yaml` — the live state.
+7. Run `scripts/run-tests.py` (50/50) + `scripts/theatre-check-all.py` before claiming anything done.
+8. Pick the graduation test (§9 P0) as the next real milestone.
 
 **The single most important next step:** the graduation test — ONE claim through the whole stack
 (source→translation→proof→proposition→argument→review→attestation→synthesis→essay→education→

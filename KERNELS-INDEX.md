@@ -21,6 +21,7 @@ what it is · layer · vision · the experiment(s) that validate it · honest st
 | `evolve.py` | MAP-Elites evolution loop | ALL | Autonomous Institute | evolve | VALIDATED |
 | `certificate.py` | Certification Weight (compounding) | L02 | Verified-Statement-Marketplace | kernel-suite | VALIDATED |
 | `discovery.py` | Research Value Score | L03 | What-If Machine | kernel-suite | VALIDATED |
+| `essay_ingest.py` | 9-stage essay-as-derivation-input pipeline (structure→claims→evidence→argument→crux→review→pedagogy→reactive) | L04-L09 | Enquiry-Discovery Organism | validate-essay-ingest | VALIDATED (real Ratié data, 8/8) |
 
 ## Rules for agents
 1. **Reuse, don't rebuild** (axiom): a task that maps to a kernel → call the kernel.

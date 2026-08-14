@@ -103,6 +103,8 @@ graph after adding text, run `build-graph.py`.
 | `TRACEABILITY-MAP.md` | the traceability root (everything → vision + layer) |
 | `migration/v2/README.md` | the PROVEN v2 — patala spec ↔ our implementations (handoff) |
 | `migration/v2/PUSHING-ORGANISM-ESSAYS.md` | logicvid + organism + essays-as-machine |
+| `migration/v2/ESSAY-INGEST.md` | the 9-stage essay-as-derivation-input pipeline |
+| `migration/v2/INGESTION-ARCHITECTURE.md` | source-text vs essay-about-source vs standalone |
 | `KERNELS-INDEX.md` | the reusable kernels (reuse map) |
 | `BUILDNOTES.md` | full build history + decisions |
 | `NAVIGATION.md` | this file |
