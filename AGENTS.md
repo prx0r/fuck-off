@@ -104,14 +104,16 @@ match ground truth.
 
 0. **`AGENTS.md`** — this file.
 0b. **`NAVIGATION.md`** — the master index (resolve anything → location/script/how-to-run).
-0c. **`VISION.md` + `VISION-CHUNK-LAYER-MAP.md`** — the vision + its decomposition.
+0c. **`VISION.md` + `VISION-CHUNK-LAYER-MAP.md` + `VISION-PATALA-FUTURES.md`** — the vision + futures.
 0d. **`DEV_PLAN.md`** — the executable roadmap (what to build next).
 0e. **`TODO.md`** — the live task tracker.
 0f. **`BUILDNOTES.md`** — build history + decisions.
 1. **`docs/01-corpus.md`** … **`docs/05-performance.md`** — concern docs.
-2. **`specs/`** — SPEC-00 (canonical infra) … SPEC-07 (ecosystem) — the designs.
-3. **`layers/00-09-*.md`** — per-layer deep pages + current state.
-4. **`STATE.yaml`** — the live per-layer tracker.
+2. **`docs/ECOSYSTEM-INDEX.md` · `ARXIV-INDEX.md` · `GITHUB-INDEX.md` · `ALGORITHMS.md` ·
+   `EXPERIMENT-REPORT.md` · `docs/process/FRONTIER-MAP.md`** — reference + implementation indexes.
+3. **`specs/`** — SPEC-00 (canonical infra) … SPEC-14 (frontier layer builds) — the designs.
+4. **`layers/00-09-*.md`** — per-layer deep pages + current state.
+5. **`STATE.yaml`** — the live per-layer tracker.
 
 ---
 
@@ -164,7 +166,14 @@ exceed the corroborated physics under it.
 python3 scripts/validate-dag.py      # no cycles, every ref resolves
 ```
 
-### 6.5 R2 backup intact
+### 6.5 Full validation suite (10 gates + experiments + layer validations)
+```bash
+python3 scripts/run-tests.py         # must be 10/10
+```
+- `validate-layer03-05.py` — staleness reaches downstream, rebuild order, reducer promotion gate (12/12).
+- `validate-layer10.py` — retrieval comparison (PathRAG + KG2Code retrieve target; HippoRAG hub-bias).
+
+### 6.6 R2 backup intact
 ```bash
 rclone check /mnt/HC_Volume_106427611/CX-Train/informationphilosopher r2:atlas-sources/informationphilosopher
 ```

@@ -18,20 +18,43 @@ is · where it lives · which script built it · how to run it · key doc.** Rea
 
 ```
 /mnt/HC_Volume_106427611/ip-graph/
-  data/
+  data/              all CONTENT
     raw/             cleaned source (html_articles/ · pdfs/ · images/ · errors/ + MANIFEST.json)
     extracted/       plain text per doc (html/ · pdf/ · _ocr/)
     extracted_md/    markdown per doc (_errors/ = quarantined)
     graph/           graph outputs (graph.json · doc_graph.gexf · concepts.jsonl · works.jsonl)
+    references/      machine catalogs (arxiv.json · github.json)
     corpus.jsonl     ONE machine-readable corpus (425 versioned records)
-  scripts/           the pipeline, dash-case names
-  docs/              numbered concern docs (01-corpus … 05-performance)
+  lib/               the reusable CODE KERNELS (epistemic · review · staleness · query · retrieval)
+  scripts/           the pipeline + experiments + validations, dash-case names
+  docs/              concern docs (01-05) + reference indexes + process/ + vision/ + reports/
+  specs/             SPEC-00 … SPEC-14 (designs; 00 = CANONICAL infra build)
+  layers/            00-09 the layer deep-pages (what/purpose/impl/current-state)
+  ecosystem/         third-party clones, organized by category
   mcp/               future agent-tool layer
   AGENTS.md          the governing rules (read first)
   BUILDNOTES.md      the build history
   NAVIGATION.md      this file
   TODO.md            the live task tracker
+  DEV_PLAN.md        the executable roadmap
+  GAPS.md            known holes
+  CHANGELOG.md       change log
+  STATE.yaml         live per-layer tracker
+  VISION-CHUNK-LAYER-MAP.md + VISION-CHUNKS.json   the vision→layer decomposition
 ```
+
+### The code kernels (`lib/`) — reuse, don't rebuild
+| Kernel | What it is | Layer |
+|--------|-----------|-------|
+| `lib/epistemic.py` | envelope + 4-axis authority + invariant | 00 |
+| `lib/review.py` | herdr reducer state machine | 05/08 |
+| `lib/staleness.py` | RKA blast-radius + review_queue + rebuild order | 03/12 |
+| `lib/query.py` | KG2Code executable graph queries | 10 |
+| `lib/retrieval.py` | PathRAG + HippoRAG retrieval | 10 |
+
+### The layers (`layers/00-09-*.md`) — the deterministic anchors
+Each layer page: what it is · purpose · data · processes · implementations · current state.
+Tracked live in `STATE.yaml`. Decomposed from the vision in `VISION-CHUNK-LAYER-MAP.md`.
 
 ---
 
@@ -89,6 +112,7 @@ graph after adding text, run `build-graph.py`.
 | `docs/TESTING-VALIDATION-REPORT.md` | the test + validation results |
 | `docs/EXPERIMENT-REPORT.md` | third-party repo experiments (herdr/RKA/kappa/nano-graphrag) |
 | `docs/ALGORITHMS.md` | granular arXiv-algorithm implementations (PathRAG/HippoRAG/KG2Code) |
+| `docs/process/FRONTIER-MAP.md` | per-layer implementations, todos, validations |
 
 ## Vision docs
 | Doc | What it is |
