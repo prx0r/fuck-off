@@ -586,3 +586,14 @@ imposed.
   - `README.md` — the reading hierarchy + verification (proofs stored, not claimed).
 - The handoff contract: next agent builds + tests the spec'd products using our proofs.
 - Test suite 49/49.
+
+## 2026-08-14 (visibility + essays-as-machine) — the human side surfaced
+- The migration folder was missing visibility for logicvid/pushing, organism/consumers, and essays.
+- **`migration/v2/PUSHING-ORGANISM-ESSAYS.md`** — gives the three bodies full handover visibility:
+  1. **LOGICVID gold** (live human curiosity) → question-growth/enquiry-discovery/gem-extraction.
+  2. **Organism/consumers** → the consumer→research machine (probes → gaps → repair → better scholarship).
+  3. **Essays-as-machine** → scholarly essays (Ratié) mined into canonical objects.
+- **`experiment-essay-as-engine.py`** (50/50 suite) — the mechanism: mine a scholar essay into
+  claim + argument + crux + evidence objects (from the real Ratié literature-review). Essays become
+  DERIVATION INPUT, not dead prose.
+- Wired into migration README + NAVIGATION. Test suite 49 → **50/50**.

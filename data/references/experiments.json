@@ -1,5 +1,5 @@
 {
- "count": 49,
+ "count": 50,
  "entries": [
   {
    "script": "validate-layer03-05.py",
@@ -440,7 +440,16 @@
    "vision": "Verified Epistemic OS",
    "kernel": "verification",
    "status": "RUN",
-   "note": "all 48 experiments: 22 PROVEN real, 26 mechanism-only, 0 unproven"
+   "note": "all 49 experiments audited"
+  },
+  {
+   "script": "experiment-essay-as-engine.py",
+   "layer": "L04/L06",
+   "source": "Rati\u00e9 literature review (research-library)",
+   "vision": "Enquiry-Discovery Organism",
+   "kernel": "essay-as-engine",
+   "status": "RUN",
+   "note": "mine a scholar essay into claim+argument+crux+evidence objects \u2014 essays as derivation input"
   }
  ]
 }

@@ -70,7 +70,8 @@ MATRIX = {
   "experiment-gem-extraction.py": ("L04", "pushing-tantraloka session", "Enquiry-Discovery Organism", "gem-extraction", "agentic enquiry→unseen gems (PENETRATION 1); gems→essay/education/research base"),
   "experiment-claim-standardisation.py": ("L06", "comparative pushing (SPEC-35)", "Comparative Philosophy", "standardisation", "structural claim vs tradition vocab/boundary — comparable without collapsing"),
   "theatre-check.py": ("ALL", "the anti-theatre skill", "Verified Epistemic OS", "verification", "verifiable-proof audit: kernels"),
-  "theatre-check-all.py": ("ALL", "the full anti-theatre audit", "Verified Epistemic OS", "verification", "all 48 experiments: 22 PROVEN real, 26 mechanism-only, 0 unproven"),
+  "theatre-check-all.py": ("ALL", "the full anti-theatre audit", "Verified Epistemic OS", "verification", "all 49 experiments audited"),
+  "experiment-essay-as-engine.py": ("L04/L06", "Ratié literature review (research-library)", "Enquiry-Discovery Organism", "essay-as-engine", "mine a scholar essay into claim+argument+crux+evidence objects — essays as derivation input"),
   "experiment-gem-extraction.py": ("L04", "pushing-tantraloka", "Enquiry-Discovery", "gem-extraction", "agentic enquiry→unseen gems (PENETRATION 1)"),
   "experiment-claim-standardisation.py": ("L06", "comparative pushing", "Comparative Philosophy", "standardisation", "structural claim vs tradition vocab/boundary"),
 }

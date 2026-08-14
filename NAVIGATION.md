@@ -102,6 +102,7 @@ graph after adding text, run `build-graph.py`.
 | `HANDOVER.md` | session state + where to continue |
 | `TRACEABILITY-MAP.md` | the traceability root (everything → vision + layer) |
 | `migration/v2/README.md` | the PROVEN v2 — patala spec ↔ our implementations (handoff) |
+| `migration/v2/PUSHING-ORGANISM-ESSAYS.md` | logicvid + organism + essays-as-machine |
 | `KERNELS-INDEX.md` | the reusable kernels (reuse map) |
 | `BUILDNOTES.md` | full build history + decisions |
 | `NAVIGATION.md` | this file |
