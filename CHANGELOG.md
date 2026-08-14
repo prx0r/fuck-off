@@ -417,3 +417,14 @@ imposed.
 - **`validate-kernels.py`** (13/13) — now every lib kernel (certificate, discovery, translation, query,
   retrieval, scholar_review) has a validating gate.
 - GitHub index 92 → **95**. Matrix 34 → **36**. Test suite 33 → **36/36**.
+
+## 2026-08-14 (cont.) — clean agent-delivery layer (loom+maestro+arcan+herdr)
+- Re-reviewed loom (stateful delivery, context routing) + herdr (human gate, budgets) + arcan
+  (BudgetState) + maestro (card.yaml task contract + verdict).
+- **`lib/agent_delivery.py`** + **`validate-agent-delivery.py`** (10/10): the clean agent-delivery layer —
+  TaskContract (maestro), context routing (agent reads field groups, not whole repo — loom), RunBudget
+  governor (arcan), resumable state (loom), and the herdr human publication gate (agents propose, only
+  humans authorize canonical truth).
+- This fills the agent-cleanliness gap: structured contracts, no full-repo reloads, budgeted runs,
+  resumable delivery, and safety-gated publication.
+- Test suite 36 → **37/37**.

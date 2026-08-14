@@ -35,3 +35,5 @@ runtime yet.
 | dbos-inc/dbos-transact-py | **CLONED** (4.7M) — durable workflows on Postgres (our reducer runtime) |
 
 | modelcontextprotocol/modelcontextprotocol | **CLONED local-only** (92M) — the MCP spec (certification surface) |
+
+| (synthesis) | **`lib/agent_delivery.py`** — loom+maestro+arcan+herdr merged: task contract, context routing, budget governor, human gate. Validated: validate-agent-delivery.py (10/10) |

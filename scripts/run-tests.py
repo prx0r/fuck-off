@@ -83,6 +83,7 @@ run_script("experiment-signed-statement.py", "signed_statement")
 run_script("validate-kernels.py", "kernel_validation_suite")
 run_script("validate-evolve.py", "evolution_loop")
 run_script("experiment-salsa-incremental.py", "salsa_incremental")
+run_script("validate-agent-delivery.py", "agent_delivery_layer")
 
 # ---- summary ----
 n = len(results["tests"]); npass = sum(1 for t in results["tests"] if t["pass"])

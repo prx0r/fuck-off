@@ -1,6 +1,6 @@
 # EXPERIMENT MATRIX — what's been tested
 
-*2026-08-14. 36 experiments mapped to layer / source repo / vision / kernel / result.*
+*2026-08-14. 37 experiments mapped to layer / source repo / vision / kernel / result.*
 Machine form: `data/references/experiments.json`.
 
 ## Argument Map (7)
@@ -15,11 +15,12 @@ Machine form: `data/references/experiments.json`.
 | `experiment-pathrag.py` | L10 | PathRAG (arXiv+cloned) | retrieval | RUN |
 | `validate-layer10.py` | L10 | PathRAG+HippoRAG+KG2Code | retrieval | PASS |
 
-## Autonomous Institute (2)
+## Autonomous Institute (3)
 
 | script | layer | source | kernel | result |
 |--------|-------|--------|--------|--------|
 | `experiment-self-improve.py` | L05 | self-improving-agent (cloned) | review | PASS |
+| `validate-agent-delivery.py` | L09 | loom+maestro+arcan+herdr (cloned) | agent-delivery | RUN |
 | `validate-evolve.py` | ALL | openevolve+axplorer (cloned) | evolution | RUN |
 
 ## Co-Evolving Epistemic Organism (1)
