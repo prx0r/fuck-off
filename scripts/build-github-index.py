@@ -105,6 +105,10 @@ CATALOG = {
   "agentic-community/mcp-gateway-registry": ("protocols", 2, "MCP gateway registry (control plane)"),
   "a2aproject/A2A": ("protocols", 2, "A2A agent-to-agent protocol"),
   "GoogleCloudPlatform/knowledge-catalog": ("protocols", 2, "Open Knowledge Format (OKF)"),
+  "CAHLR/pyBKT": ("learner-modeling", 1, "Bayesian Knowledge Tracing (prior/learn/guess/slip)"),
+  "sigstore/cosign": ("signing", 1, "artifact signing + Sigstore/Rekor transparency"),
+  "modelcontextprotocol/modelcontextprotocol": ("protocols", 2, "the MCP specification"),
+
   "BerriAI/self-improving-agent": ("agent-memory", 2, "self-improvement as PR (minimal diff, human approves)"),
   "EverMind-AI/EverOS": ("agent-runtime", 2, "local-first memory runtime (Markdown+SQLite+LanceDB)"),
   "EvolvingAgentsLabs/evolving-memory": ("agent-memory", 2, "dream-cycle consolidation -> procedural memory"),

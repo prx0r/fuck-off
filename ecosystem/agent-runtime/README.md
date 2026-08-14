@@ -33,3 +33,5 @@ runtime yet.
 | lastmile-ai/mcp-agent | **CLONED local-only** (53M) — MCP agent builder (Layer 07 surface) |
 | inngest/agent-kit | **CLONED** (17M) — multi-agent network orchestration |
 | dbos-inc/dbos-transact-py | **CLONED** (4.7M) — durable workflows on Postgres (our reducer runtime) |
+
+| modelcontextprotocol/modelcontextprotocol | **CLONED local-only** (92M) — the MCP spec (certification surface) |

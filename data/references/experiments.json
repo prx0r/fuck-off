@@ -1,5 +1,5 @@
 {
- "count": 32,
+ "count": 34,
  "entries": [
   {
    "script": "validate-layer03-05.py",
@@ -288,6 +288,24 @@
    "kernel": "certificate",
    "status": "RUN",
    "note": "compounding CW (36 -> 1683 over 10yr)"
+  },
+  {
+   "script": "experiment-bkt-mastery.py",
+   "layer": "L09",
+   "source": "pyBKT (cloned)",
+   "vision": "Co-Evolving Epistemic Organism",
+   "kernel": "learner-state",
+   "status": "RUN",
+   "note": "Bayesian Knowledge Tracing mastery signal"
+  },
+  {
+   "script": "experiment-signed-statement.py",
+   "layer": "L12",
+   "source": "cosign (cloned)",
+   "vision": "Self-Proving System",
+   "kernel": "signing",
+   "status": "RUN",
+   "note": "sign+verify+tamper-detect certified statements"
   }
  ]
 }

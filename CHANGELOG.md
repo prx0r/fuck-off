@@ -391,3 +391,13 @@ imposed.
   `skills/vcreate/REFERENCE.md`. `docs/process/` now only holds real processes (FRONTIER-MAP).
 - Fixed all references in AGENTS.md + NAVIGATION.md to point to `skills/vcreate/`.
 - Added `skills/` to the layout in both AGENTS.md + NAVIGATION.md.
+
+## 2026-08-14 (cont.) — vision-driven new repos: pyBKT, cosign, MCP spec
+- Reviewed all visions; extracted their "build next" needs; cloned 3 new vision-serving repos:
+  **CAHLR/pyBKT** (20M, learner-state for Co-Evolving Organism), **sigstore/cosign** (6.8M, signing for
+  Self-Proving + Marketplace), **modelcontextprotocol** (92M local-only, MCP certification surface).
+- **`experiment-bkt-mastery.py`** — Bayesian Knowledge Tracing mastery signal (mastery grows on correct,
+  dips on slips, stays low on persistent confusion) → feeds the misconception demand graph.
+- **`experiment-signed-statement.py`** — sign + verify + tamper-detect certified statements (Merkle root +
+  certification weight + signature) → the marketplace trust substrate.
+- GitHub index 89 → **92**. Experiment matrix 32 → **34**. Test suite 31 → **33/33**.

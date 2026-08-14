@@ -1,0 +1,218 @@
+project_name: cosign
+version: 2
+
+env:
+  - GO111MODULE=on
+  - CGO_ENABLED=1
+  - DOCKER_CLI_EXPERIMENTAL=enabled
+  - COSIGN_YES=true
+
+# Prevents parallel builds from stepping on each others toes downloading modules
+before:
+  hooks:
+    - go mod tidy
+    - git --no-pager diff --exit-code go.mod go.sum
+
+gomod:
+  proxy: true
+
+sboms:
+  - artifacts: binary
+
+builds:
+  - id: linux
+    binary: cosign-linux-{{ .Arch }}
+    no_unique_dist_dir: true
+    main: ./cmd/cosign
+    flags:
+      - -trimpath
+    mod_timestamp: '{{ .CommitTimestamp }}'
+    goos:
+      - linux
+    goarch:
+      - amd64
+      - arm64
+      - arm
+      - s390x
+      - ppc64le
+      - riscv64
+    goarm:
+      - '7'
+    ldflags:
+      - "{{ .Env.LDFLAGS }}"
+    env:
+      - CGO_ENABLED=0
+
+  - id: linux-pivkey-pkcs11key-amd64
+    binary: cosign-linux-pivkey-pkcs11key-amd64
+    no_unique_dist_dir: true
+    main: ./cmd/cosign
+    flags:
+      - -trimpath
+    mod_timestamp: '{{ .CommitTimestamp }}'
+    goos:
+      - linux
+    goarch:
+      - amd64
+    ldflags:
+      - "{{ .Env.LDFLAGS }}"
+    tags:
+      - pivkey
+      - pkcs11key
+    hooks:
+      pre:
+        - apt-get update
+        - apt-get -y install --no-install-recommends libpcsclite-dev
+    env:
+      - PKG_CONFIG_PATH=/usr/lib/x86_64-linux-gnu/pkgconfig/
+
+  - id: linux-pivkey-pkcs11key-arm64
+    binary: cosign-linux-pivkey-pkcs11key-arm64
+    no_unique_dist_dir: true
+    main: ./cmd/cosign
+    flags:
+      - -trimpath
+    mod_timestamp: '{{ .CommitTimestamp }}'
+    goos:
+      - linux
+    goarch:
+      - arm64
+    ldflags:
+      - "{{ .Env.LDFLAGS }}"
+    tags:
+      - pivkey
+      - pkcs11key
+    hooks:
+      pre:
+        - dpkg --add-architecture arm64
+        - apt-get update
+        - apt-get install -y --no-install-recommends libpcsclite-dev:arm64
+    env:
+      - CC=aarch64-linux-gnu-gcc
+      - PKG_CONFIG_PATH=/usr/lib/aarch64-linux-gnu/pkgconfig/
+
+  - id: darwin-amd64
+    binary: cosign-darwin-amd64
+    no_unique_dist_dir: true
+    env:
+      - CC=o64-clang
+      - CXX=o64-clang++
+    main: ./cmd/cosign
+    flags:
+      - -trimpath
+    mod_timestamp: '{{ .CommitTimestamp }}'
+    goos:
+      - darwin
+    goarch:
+      - amd64
+    ldflags:
+      - "{{ .Env.LDFLAGS }}"
+    tags:
+      - pivkey
+      - pkcs11key
+
+  - id: darwin-arm64
+    binary: cosign-darwin-arm64
+    no_unique_dist_dir: true
+    env:
+      - CC=aarch64-apple-darwin23-clang
+      - CXX=aarch64-apple-darwin23-clang++
+    main: ./cmd/cosign
+    flags:
+      - -trimpath
+    goos:
+      - darwin
+    goarch:
+      - arm64
+    tags:
+      - pivkey
+      - pkcs11key
+    ldflags:
+      - "{{.Env.LDFLAGS}}"
+
+  - id: windows-amd64
+    binary: cosign-windows-amd64
+    no_unique_dist_dir: true
+    env:
+      - CC=x86_64-w64-mingw32-gcc
+      - CXX=x86_64-w64-mingw32-g++
+    main: ./cmd/cosign
+    mod_timestamp: '{{ .CommitTimestamp }}'
+    flags:
+      - -trimpath
+    goos:
+      - windows
+    goarch:
+      - amd64
+    ldflags:
+      - -buildmode=exe
+      - "{{ .Env.LDFLAGS }}"
+    tags:
+      - pivkey
+      - pkcs11key
+
+signs:
+  - id: cosign
+    cmd: ./dist/cosign-linux-amd64
+    args: ["sign-blob", "--bundle", "${signature}", "--key", "gcpkms://projects/{{ .Env.PROJECT_ID }}/locations/{{ .Env.KEY_LOCATION }}/keyRings/{{ .Env.KEY_RING }}/cryptoKeys/{{ .Env.KEY_NAME }}/versions/{{ .Env.KEY_VERSION }}", "${artifact}"]
+    signature: "${artifact}-kms.sigstore.json"
+    artifacts: binary
+  # Keyless
+  - id: cosign-keyless
+    cmd: ./dist/cosign-linux-amd64
+    args: ["sign-blob", "--bundle", "${signature}", "${artifact}"]
+    signature: "${artifact}.sigstore.json"
+    artifacts: binary
+  - id: checksum-keyless
+    cmd: ./dist/cosign-linux-amd64
+    args: ["sign-blob", "--bundle", "${signature}", "${artifact}"]
+    signature: "${artifact}.sigstore.json"
+    artifacts: checksum
+  - id: packages-keyless
+    cmd: ./dist/cosign-linux-amd64
+    args: ["sign-blob", "--bundle", "${signature}", "${artifact}"]
+    signature: "${artifact}.sigstore.json"
+    artifacts: package
+
+nfpms:
+  - id: cosign
+    package_name: cosign
+    file_name_template: "{{ .ConventionalFileName }}"
+    vendor: Sigstore
+    homepage: https://sigstore.dev
+    maintainer: Sigstore Authors 86837369+sigstore-bot@users.noreply.github.com
+    ids:
+      - linux
+    description: Container Signing, Verification and Storage in an OCI registry.
+    license: "Apache License 2.0"
+    formats:
+      - apk
+      - deb
+      - rpm
+    contents:
+      - src: /usr/bin/cosign-linux-{{ .Arch }}
+        dst: /usr/bin/cosign
+        type: "symlink"
+
+archives:
+  - formats: [binary]
+    name_template: "{{ .Binary }}"
+    allow_different_binary_count: true
+
+checksum:
+  name_template: "{{ .ProjectName }}_checksums.txt"
+
+snapshot:
+  version_template: SNAPSHOT-{{ .ShortCommit }}
+
+release:
+  prerelease: allow # remove this when we start publishing non-prerelease or set to auto
+  draft: true # allow for manual edits
+  github:
+    owner: sigstore
+    name: cosign
+  footer: |
+    ### Thanks to all contributors!
+
+  extra_files:
+    - glob: "./release/release-cosign.pub"

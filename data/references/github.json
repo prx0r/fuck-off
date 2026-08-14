@@ -1,5 +1,5 @@
 {
- "count": 89,
+ "count": 92,
  "entries": [
   {
    "owner": "infinitywings",
@@ -790,6 +790,36 @@
    "tier": 2,
    "tier_label": "architecture",
    "note": "Open Knowledge Format (OKF)"
+  },
+  {
+   "owner": "CAHLR",
+   "name": "pyBKT",
+   "repo": "CAHLR/pyBKT",
+   "url": "https://github.com/CAHLR/pyBKT",
+   "category": "learner-modeling",
+   "tier": 1,
+   "tier_label": "ingest",
+   "note": "Bayesian Knowledge Tracing (prior/learn/guess/slip)"
+  },
+  {
+   "owner": "sigstore",
+   "name": "cosign",
+   "repo": "sigstore/cosign",
+   "url": "https://github.com/sigstore/cosign",
+   "category": "signing",
+   "tier": 1,
+   "tier_label": "ingest",
+   "note": "artifact signing + Sigstore/Rekor transparency"
+  },
+  {
+   "owner": "modelcontextprotocol",
+   "name": "modelcontextprotocol",
+   "repo": "modelcontextprotocol/modelcontextprotocol",
+   "url": "https://github.com/modelcontextprotocol/modelcontextprotocol",
+   "category": "protocols",
+   "tier": 2,
+   "tier_label": "architecture",
+   "note": "the MCP specification"
   },
   {
    "owner": "BerriAI",

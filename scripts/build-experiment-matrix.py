@@ -54,6 +54,8 @@ MATRIX = {
   "experiment-counterfactual-engine.py": ("L03", "VISION B counterfactual", "What-If Machine", "discovery", "THERMODYNAMICS most load-bearing (11 downstream)"),
   "experiment-rival-argument.py": ("L08", "VISION D verifier-as-rival", "Verified-Statement-Marketplace", "scholar_review", "justified wins (defeat rival, not self-consistency)"),
   "experiment-certification-weight.py": ("L02", "VISION marketplace", "Verified-Statement-Marketplace", "certificate", "compounding CW (36 -> 1683 over 10yr)"),
+  "experiment-bkt-mastery.py": ("L09", "pyBKT (cloned)", "Co-Evolving Epistemic Organism", "learner-state", "Bayesian Knowledge Tracing mastery signal"),
+  "experiment-signed-statement.py": ("L12", "cosign (cloned)", "Self-Proving System", "signing", "sign+verify+tamper-detect certified statements"),
 }
 
 def main():

@@ -1,6 +1,6 @@
 # EXPERIMENT MATRIX — what's been tested
 
-*2026-08-14. 32 experiments mapped to layer / source repo / vision / kernel / result.*
+*2026-08-14. 34 experiments mapped to layer / source repo / vision / kernel / result.*
 Machine form: `data/references/experiments.json`.
 
 ## Argument Map (7)
@@ -20,6 +20,12 @@ Machine form: `data/references/experiments.json`.
 | script | layer | source | kernel | result |
 |--------|-------|--------|--------|--------|
 | `experiment-self-improve.py` | L05 | self-improving-agent (cloned) | review | PASS |
+
+## Co-Evolving Epistemic Organism (1)
+
+| script | layer | source | kernel | result |
+|--------|-------|--------|--------|--------|
+| `experiment-bkt-mastery.py` | L09 | pyBKT (cloned) | learner-state | RUN |
 
 ## Comparative Philosophy (1)
 
@@ -64,6 +70,12 @@ Machine form: `data/references/experiments.json`.
 | `experiment-herdr-review.py` | L05 | herdr-workflow (cloned) | review | RUN |
 | `experiment-rka-staleness.py` | L03 | RKA (cloned) | staleness | RUN |
 | `experiment-unified-epistemic.py` | L03-L06 | herdr+RKA+kappa | epistemic | RUN |
+
+## Self-Proving System (1)
+
+| script | layer | source | kernel | result |
+|--------|-------|--------|--------|--------|
+| `experiment-signed-statement.py` | L12 | cosign (cloned) | signing | RUN |
 
 ## Verified Epistemic OS (7)
 

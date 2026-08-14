@@ -1,6 +1,6 @@
 # GITHUB INDEX — canonical GitHub reference catalog
 
-*2026-08-14. 89 repos, organized by category + tier for agent retrieval. Machine form: `data/references/github.json`.*
+*2026-08-14. 92 repos, organized by category + tier for agent retrieval. Machine form: `data/references/github.json`.*
 
 Tier: 0=clone-first · 1=ingest · 2=architecture · 3=watch
 
@@ -101,18 +101,23 @@ Tier: 0=clone-first · 1=ingest · 2=architecture · 3=watch
 - **lyndonkl/graphragmcp** — `T2` · GraphRAG MCP research server · <https://github.com/lyndonkl/graphragmcp>
 - **ngl567/KGR-Survey** — `T2` · task-oriented KG reasoning survey · <https://github.com/ngl567/KGR-Survey>
 
+## learner-modeling (1)
+
+- **CAHLR/pyBKT** — `T1` · Bayesian Knowledge Tracing (prior/learn/guess/slip) · <https://github.com/CAHLR/pyBKT>
+
 ## philosophy (2)
 
 - **romain-girardi-eng/EleutherIA** — `T1` · free-will philosophy KG (~19k nodes/69k passages) · <https://github.com/romain-girardi-eng/EleutherIA>
 - **bhaskatripathi/graphGita** — `T2` · Gita->KG with MCTS interpretation · <https://github.com/bhaskatripathi/graphGita>
 
-## protocols (5)
+## protocols (6)
 
 - **modelcontextprotocol/servers** — `T2` · MCP reference servers · <https://github.com/modelcontextprotocol/servers>
 - **agentic-community/mcp-gateway** — `T2` · MCP gateway (tool explosion) · <https://github.com/agentic-community/mcp-gateway>
 - **agentic-community/mcp-gateway-registry** — `T2` · MCP gateway registry (control plane) · <https://github.com/agentic-community/mcp-gateway-registry>
 - **a2aproject/A2A** — `T2` · A2A agent-to-agent protocol · <https://github.com/a2aproject/A2A>
 - **GoogleCloudPlatform/knowledge-catalog** — `T2` · Open Knowledge Format (OKF) · <https://github.com/GoogleCloudPlatform/knowledge-catalog>
+- **modelcontextprotocol/modelcontextprotocol** — `T2` · the MCP specification · <https://github.com/modelcontextprotocol/modelcontextprotocol>
 
 ## retrieval (1)
 
@@ -125,3 +130,7 @@ Tier: 0=clone-first · 1=ingest · 2=architecture · 3=watch
 - **allenai/s2orc** — `T2` · S2ORC: scholarly open research corpus · <https://github.com/allenai/s2orc>
 - **ourresearch/OpenAlex** — `T2` · open catalog of scholarship · <https://github.com/ourresearch/OpenAlex>
 - **allenai/peS2o** — `T2` · pretraining efficiently on S2ORC · <https://github.com/allenai/peS2o>
+
+## signing (1)
+
+- **sigstore/cosign** — `T1` · artifact signing + Sigstore/Rekor transparency · <https://github.com/sigstore/cosign>
