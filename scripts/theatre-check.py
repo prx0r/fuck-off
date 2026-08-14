@@ -58,6 +58,8 @@ KERNEL_TESTS = {
     "tantraloka_argument": ("validate-tantraloka-argument.py", True),
     "tantraloka_vs_dyczkowski": ("validate-tantraloka-vs-dyczkowski.py", True),
     "tantraloka_fullstack": ("validate-tantraloka-fullstack.py", True),
+    "pushing_miner":      ("validate-pushing-miner.py", True),
+    "iteration_confidence": ("validate-iteration-confidence.py", True),
 }
 
 # docs claims (from LAB-REVIEW / KERNELS-INDEX) to verify against tests

@@ -107,6 +107,7 @@ MATRIX = {
   "validate-tantraloka-vs-dyczkowski.py": ("L03", "AbhT_1.52 root + Dyczkowski vol1", "Verified Epistemic OS", "tantraloka-validation", "STEP 5 MONA LISA: three-version validation vs Dyczkowski (agreement core + interpretation-space) — 8/8"),
   "validate-tantraloka-fullstack.py": ("ALL", "real theme cluster CL-3 + Ahnika-1", "Verified Epistemic OS", "tantraloka-fullstack", "RUN THE FULL STACK: theme→essay→education→pedagogy→products on real data — 9/9"),
   "validate-pushing-miner.py": ("L04", "35 pushing-tantraloka LOGICVID sessions", "Enquiry-Discovery Organism", "pushing-miner", "wire the crux compass: mine 35 human LOGICVID sessions into cruxes+claims grounded in karikas — 7/7"),
+  "validate-iteration-confidence.py": ("L00", "real reflexivity claim (AbhT_1.52)", "Verified Epistemic OS", "iteration-confidence", "hound steal: iteration-verified confidence (3x-confirmed claim stronger than 1x at same ceiling; convergence=fundamentality) — 5/5"),
 }
 
 def main():

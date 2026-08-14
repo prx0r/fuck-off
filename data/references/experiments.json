@@ -1,5 +1,5 @@
 {
- "count": 83,
+ "count": 84,
  "entries": [
   {
    "script": "validate-layer03-05.py",
@@ -747,6 +747,15 @@
    "kernel": "pushing-miner",
    "status": "RUN",
    "note": "wire the crux compass: mine 35 human LOGICVID sessions into cruxes+claims grounded in karikas \u2014 7/7"
+  },
+  {
+   "script": "validate-iteration-confidence.py",
+   "layer": "L00",
+   "source": "real reflexivity claim (AbhT_1.52)",
+   "vision": "Verified Epistemic OS",
+   "kernel": "iteration-confidence",
+   "status": "RUN",
+   "note": "hound steal: iteration-verified confidence (3x-confirmed claim stronger than 1x at same ceiling; convergence=fundamentality) \u2014 5/5"
   }
  ]
 }

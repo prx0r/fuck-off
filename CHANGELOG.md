@@ -876,3 +876,12 @@ Ran a full 4-agent inventory (specs, kernels/experiments, ecosystem, layers/visi
   contradiction detection (assumptions vs observations) → matches our `CONTRADICTION_RAISED`.
 - **Not reusable:** the code-security parts (vulnerability types, severity, attack vectors) + LLM client.
 - DEV_PLAN: added §0.4 (iteration-verified confidence steal). GITHUB-TRACEABILITY updated.
+
+## 2026-08-14 (hound steal built: iteration-verified confidence)
+- **`lib/iteration_confidence.py`** (5/5) — the hound steal realized: iteration-verified confidence.
+  A claim confirmed across N INDEPENDENT passes (observations) is stronger than the same claim confirmed
+  once, even at the same ceiling. Convergence = fundamentality. On the real AbhT_1.52 reflexivity claim,
+  confirmed independently by the root-translation + Jayaratha + the pushing session → strength 3.3 vs 1.3
+  for a 1x-confirmed claim.
+- Wired into run-tests + matrix + KERNELS-INDEX + theatre-check. 41 kernels, 84 experiments, 82/82 pass.
+- This closes DEV_PLAN §0.4 (the hound steal) + §0.3 (validate hermes_exec still open).

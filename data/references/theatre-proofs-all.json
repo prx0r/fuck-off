@@ -1,8 +1,8 @@
 {
- "count": 81,
+ "count": 83,
  "verdicts": {
-  "PROVEN": 37,
-  "PROVEN-MECHANISM": 44
+  "PROVEN": 38,
+  "PROVEN-MECHANISM": 45
  },
  "proofs": [
   {
@@ -976,6 +976,30 @@
    "uses_real_data": true,
    "verdict": "PROVEN",
    "proof_hash": "26c66d9578bf3599"
+  },
+  {
+   "script": "validate-pushing-miner.py",
+   "layer": "L04",
+   "vision": "Enquiry-Discovery Organism",
+   "kernel": "pushing-miner",
+   "claim": "wire the crux compass: mine 35 human LOGICVID sessions into cruxes+claims grounded in karikas \u2014 7/7",
+   "test_exists": true,
+   "passes": true,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "84595d997979c380"
+  },
+  {
+   "script": "validate-iteration-confidence.py",
+   "layer": "L00",
+   "vision": "Verified Epistemic OS",
+   "kernel": "iteration-confidence",
+   "claim": "hound steal: iteration-verified confidence (3x-confirmed claim stronger than 1x at same ceiling; convergence=fundamentality) \u2014 5/5",
+   "test_exists": true,
+   "passes": true,
+   "uses_real_data": false,
+   "verdict": "PROVEN-MECHANISM",
+   "proof_hash": "9c1550bed70376c6"
   }
  ]
 }

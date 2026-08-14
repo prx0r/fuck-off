@@ -1,6 +1,6 @@
 {
- "count": 40,
- "proven": 34,
+ "count": 42,
+ "proven": 36,
  "mechanism_only": 6,
  "unproven": 0,
  "proofs": [
@@ -159,6 +159,17 @@
    "proof_hash": "afdb513d597d3a85"
   },
   {
+   "kernel": "iteration_confidence",
+   "doc_claim": "",
+   "test_script": "validate-iteration-confidence.py",
+   "test_exists": true,
+   "test_passes": true,
+   "exit_code": 0,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "642bfbb9560ccc0c"
+  },
+  {
    "kernel": "next_action",
    "doc_claim": "deterministic next-action scheduler (7/7)",
    "test_script": "validate-next-action.py",
@@ -223,6 +234,17 @@
    "uses_real_data": false,
    "verdict": "PROVEN-MECHANISM",
    "proof_hash": "b888c6238f2afd33"
+  },
+  {
+   "kernel": "pushing_miner",
+   "doc_claim": "",
+   "test_script": "validate-pushing-miner.py",
+   "test_exists": true,
+   "test_passes": true,
+   "exit_code": 0,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "6f4354b877ad30f8"
   },
   {
    "kernel": "query",
