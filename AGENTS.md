@@ -140,6 +140,27 @@ live (SPEC-49 P0/P1 done).
     posting lists as the corpus grows.
 17. **Stream, never buffer big files.** R2 → stream → Worker → client.
 
+### 3.4a The hardware reality (the budget that shapes every choice — READ THIS)
+This whole system runs on ONE shared **4-core VPS with only 8 GB total RAM**, and **TWO agents work on
+it concurrently** (this agent + the patala/agentpatala side). Every build decision is constrained by that
+budget. Consequences that are non-negotiable:
+1. **RAM is the scarcest resource, not CPU.** 8 GB is shared by BOTH agents' processes. Never load big
+   corpora/graphs fully into memory at once. Stream, page, or process in chunks. A script that silently
+   slurps a 100 MB+ file into a list can OOM both agents and kill the box.
+2. **Cap worker pools low.** A thread pool does NOT cost 8 GB of RAM, but concurrent Hermes subprocesses
+   + the second agent's stack DO. Default parallel workers to a SMALL number (3-4), never
+   CPU-count-unbounded. When in doubt, `--workers 3`.
+3. **Two agents share the Hermes gateway + the shell.** Never run two long, RAM-heavy jobs at once
+   (e.g. a full-corpus translation AND a parallel index rebuild). Coordinate; run one heavy job at a
+   time; background it with `nohup` and keep other work light.
+4. **Background everything long** (axiom 3.1.2), and free RAM you're done with (kill by PID, let
+   subprocesses exit). No idle hot loops that hold memory.
+5. **The perf doctrine still holds** (SPEC-49, docs/05-performance.md): compute on write, immutable
+   projections, Postgres FTS first, Rust only as measured hot wheels — but the HARD constraint is the
+   4-core / 8-GB box, so "measure before adding infra" is not optional, it is survival.
+6. **This is the ceiling.** If a design needs more than a 4-core / 8-GB / 2-agent box, it does not fit
+   this deployment — redesign it (smaller batches, streaming, incremental), don't ask for more hardware.
+
 ### 3.5 Agent-optimization
 18. **Self-describing output.** Every script prints: what it did + counts + output paths. Machine
     parsable where possible.
