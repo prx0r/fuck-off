@@ -1,6 +1,6 @@
 # EXPERIMENT MATRIX — what's been tested
 
-*2026-08-14. 63 experiments mapped to layer / source repo / vision / kernel / result.*
+*2026-08-14. 71 experiments mapped to layer / source repo / vision / kernel / result.*
 Machine form: `data/references/experiments.json`.
 
 ## Argument Map (7)
@@ -101,7 +101,7 @@ Machine form: `data/references/experiments.json`.
 | `experiment-causal-operational-graph.py` | L12 | patalamix review #12 | causal-operational | RUN |
 | `experiment-signed-statement.py` | L12 | cosign (cloned) | signing | RUN |
 
-## Verified Epistemic OS (21)
+## Verified Epistemic OS (29)
 
 | script | layer | source | kernel | result |
 |--------|-------|--------|--------|--------|
@@ -114,18 +114,26 @@ Machine form: `data/references/experiments.json`.
 | `experiment-verified-lifecycle.py` | ALL | the OS synthesis | all | PASS |
 | `theatre-check-all.py` | ALL | the full anti-theatre audit | verification | RUN |
 | `theatre-check.py` | ALL | the anti-theatre skill | verification | RUN |
+| `validate-alignment-flywheel.py` | L06 | IPK/IPVV corpus | alignment-flywheel | RUN |
 | `validate-bundle-router.py` | L06/L07 | real graph + corpus | bundle-router | RUN |
 | `validate-cognee-compare.py` | L09 | real graph + cognee (topoteretes ⭐30k) | cognee | RUN |
 | `validate-context-compiler.py` | L06 | real graph (490/6578) | projection-compiler | RUN |
+| `validate-evidence-ledger.py` | L08 | typed events | evidence-ledger | RUN |
 | `validate-fts-baseline.py` | L06 | real corpus (425) | fts-baseline | RUN |
 | `validate-graduation-ipvv.py` | ALL | real IPK primary text (Torella) + Ratié | ipvv-graduation | RUN |
 | `validate-graduation.py` | ALL | real graph/argument/canonical-dag | graduation | RUN |
+| `validate-integrity-gate.py` | L05 | real IPK sources | integrity-gate | RUN |
 | `validate-layer03-05.py` | L03+L05 | herdr+RKA (cloned) | review+staleness | PASS |
 | `validate-lightrag-compare.py` | L10 | real graph + LightRAG (HKUDS ⭐38k) | lightrag | RUN |
+| `validate-next-action.py` | L12 | IPK tasks | next-action | RUN |
 | `validate-provenance.py` | L02 | knowledgeProvenance (cloned) | provenance | PASS |
 | `validate-seo-astro.py` | L07 | real graph | seo-astro | RUN |
+| `validate-source-registry.py` | L01 | real IPK/Ratié sources | source-registry | RUN |
 | `validate-stack.py` | ALL | graduation test | integration | RUN |
 | `validate-system-provenance.py` | ALL | lib/ kernel index | self-provenance | RUN |
+| `validate-translation-variant.py` | L03 | IPK 1.5.19 translations | translation-variant | RUN |
+| `validate-verification-ensemble.py` | L07 | registered sources + edges | verification-ensemble | RUN |
+| `validate-vidyut-l0.py` | L03 | vidyut + SLP1 | vidyut-l0 | RUN |
 
 ## Verified-Statement-Marketplace (2)
 

@@ -1,8 +1,8 @@
 {
- "count": 59,
+ "count": 70,
  "verdicts": {
-  "PROVEN": 32,
-  "PROVEN-MECHANISM": 27
+  "PROVEN": 34,
+  "PROVEN-MECHANISM": 36
  },
  "proofs": [
   {
@@ -712,6 +712,138 @@
    "uses_real_data": true,
    "verdict": "PROVEN",
    "proof_hash": "4fd330acec44aa4a"
+  },
+  {
+   "script": "validate-system-provenance.py",
+   "layer": "ALL",
+   "vision": "Verified Epistemic OS",
+   "kernel": "self-provenance",
+   "claim": "VISION F: the OS audits its OWN 16 kernels \u2014 signed self-provenance, why() resolves to evidence, tamper-detect \u2014 9/9",
+   "test_exists": true,
+   "passes": true,
+   "uses_real_data": false,
+   "verdict": "PROVEN-MECHANISM",
+   "proof_hash": "e8cf389d57a25405"
+  },
+  {
+   "script": "validate-lightrag-compare.py",
+   "layer": "L10",
+   "vision": "Verified Epistemic OS",
+   "kernel": "lightrag",
+   "claim": "LightRAG local/global/hybrid retrieval adapted + compared vs our PathRAG on real data \u2014 10/10",
+   "test_exists": true,
+   "passes": true,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "28e9183076b002d2"
+  },
+  {
+   "script": "validate-cognee-compare.py",
+   "layer": "L09",
+   "vision": "Verified Epistemic OS",
+   "kernel": "cognee",
+   "claim": "Cognee remember/recall + KG search adapted + compared vs our context bundles \u2014 11/11",
+   "test_exists": true,
+   "passes": true,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "94ec84ca384f503c"
+  },
+  {
+   "script": "validate-source-registry.py",
+   "layer": "L01",
+   "vision": "Verified Epistemic OS",
+   "kernel": "source-registry",
+   "claim": "fojin source-registry pattern: claim source_refs resolve to registered rights+health sources \u2014 10/10",
+   "test_exists": true,
+   "passes": true,
+   "uses_real_data": false,
+   "verdict": "PROVEN-MECHANISM",
+   "proof_hash": "bf4c9ea41fb2373a"
+  },
+  {
+   "script": "validate-evidence-ledger.py",
+   "layer": "L08",
+   "vision": "Verified Epistemic OS",
+   "kernel": "evidence-ledger",
+   "claim": "GEM 6.5: typed evidence events + fojin confidence_kind (never compare incomparable) \u2014 9/9",
+   "test_exists": true,
+   "passes": true,
+   "uses_real_data": false,
+   "verdict": "PROVEN-MECHANISM",
+   "proof_hash": "064f53b7f6699e0c"
+  },
+  {
+   "script": "validate-alignment-flywheel.py",
+   "layer": "L06",
+   "vision": "Verified Epistemic OS",
+   "kernel": "alignment-flywheel",
+   "claim": "fojin mine\u2192stage\u2192review\u2192promote cross-source flywheel (human-in-loop) \u2014 10/10",
+   "test_exists": true,
+   "passes": true,
+   "uses_real_data": false,
+   "verdict": "PROVEN-MECHANISM",
+   "proof_hash": "7588728c3a0d07f8"
+  },
+  {
+   "script": "validate-integrity-gate.py",
+   "layer": "L05",
+   "vision": "Verified Epistemic OS",
+   "kernel": "integrity-gate",
+   "claim": "EleutherIA integrity_status tri-state + primary-source hard gate \u2014 8/8",
+   "test_exists": true,
+   "passes": true,
+   "uses_real_data": false,
+   "verdict": "PROVEN-MECHANISM",
+   "proof_hash": "35d21ca7e790f2fc"
+  },
+  {
+   "script": "validate-next-action.py",
+   "layer": "L12",
+   "vision": "Verified Epistemic OS",
+   "kernel": "next-action",
+   "claim": "GEM 12.3: patala_next_action() CALCULATES (P=w1D+w2B+w3U+w4Q+w5R\u2212w6C), not LLM-guess \u2014 7/7",
+   "test_exists": true,
+   "passes": true,
+   "uses_real_data": false,
+   "verdict": "PROVEN-MECHANISM",
+   "proof_hash": "d2ae14b7e38fcc19"
+  },
+  {
+   "script": "validate-vidyut-l0.py",
+   "layer": "L03",
+   "vision": "Verified Epistemic OS",
+   "kernel": "vidyut-l0",
+   "claim": "GEM 5.3: L0 Sanskrit token floor (SLP1 normalize + position-anchored tokens) \u2014 9/9",
+   "test_exists": true,
+   "passes": true,
+   "uses_real_data": false,
+   "verdict": "PROVEN-MECHANISM",
+   "proof_hash": "9e8c92e089f0d451"
+  },
+  {
+   "script": "validate-verification-ensemble.py",
+   "layer": "L07",
+   "vision": "Verified Epistemic OS",
+   "kernel": "verification-ensemble",
+   "claim": "GEM 7.1: RefChecker + GraphCheck + RARR-gate compose (no big prompt) \u2014 8/8",
+   "test_exists": true,
+   "passes": true,
+   "uses_real_data": false,
+   "verdict": "PROVEN-MECHANISM",
+   "proof_hash": "966ac3ba64fd27a1"
+  },
+  {
+   "script": "validate-translation-variant.py",
+   "layer": "L03",
+   "vision": "Verified Epistemic OS",
+   "kernel": "translation-variant",
+   "claim": "GEM 5.1: three-version translation as scholarship (hard core vs interpretation-space) \u2014 8/8",
+   "test_exists": true,
+   "passes": true,
+   "uses_real_data": false,
+   "verdict": "PROVEN-MECHANISM",
+   "proof_hash": "67fb77ad34f2b5e4"
   }
  ]
 }

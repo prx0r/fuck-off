@@ -87,6 +87,14 @@ MATRIX = {
   "validate-system-provenance.py": ("ALL", "lib/ kernel index", "Verified Epistemic OS", "self-provenance", "VISION F: the OS audits its OWN 16 kernels — signed self-provenance, why() resolves to evidence, tamper-detect — 9/9"),
   "validate-lightrag-compare.py": ("L10", "real graph + LightRAG (HKUDS ⭐38k)", "Verified Epistemic OS", "lightrag", "LightRAG local/global/hybrid retrieval adapted + compared vs our PathRAG on real data — 10/10"),
   "validate-cognee-compare.py": ("L09", "real graph + cognee (topoteretes ⭐30k)", "Verified Epistemic OS", "cognee", "Cognee remember/recall + KG search adapted + compared vs our context bundles — 11/11"),
+  "validate-source-registry.py": ("L01", "real IPK/Ratié sources", "Verified Epistemic OS", "source-registry", "fojin source-registry pattern: claim source_refs resolve to registered rights+health sources — 10/10"),
+  "validate-evidence-ledger.py": ("L08", "typed events", "Verified Epistemic OS", "evidence-ledger", "GEM 6.5: typed evidence events + fojin confidence_kind (never compare incomparable) — 9/9"),
+  "validate-alignment-flywheel.py": ("L06", "IPK/IPVV corpus", "Verified Epistemic OS", "alignment-flywheel", "fojin mine→stage→review→promote cross-source flywheel (human-in-loop) — 10/10"),
+  "validate-integrity-gate.py": ("L05", "real IPK sources", "Verified Epistemic OS", "integrity-gate", "EleutherIA integrity_status tri-state + primary-source hard gate — 8/8"),
+  "validate-next-action.py": ("L12", "IPK tasks", "Verified Epistemic OS", "next-action", "GEM 12.3: patala_next_action() CALCULATES (P=w1D+w2B+w3U+w4Q+w5R−w6C), not LLM-guess — 7/7"),
+  "validate-vidyut-l0.py": ("L03", "vidyut + SLP1", "Verified Epistemic OS", "vidyut-l0", "GEM 5.3: L0 Sanskrit token floor (SLP1 normalize + position-anchored tokens) — 9/9"),
+  "validate-verification-ensemble.py": ("L07", "registered sources + edges", "Verified Epistemic OS", "verification-ensemble", "GEM 7.1: RefChecker + GraphCheck + RARR-gate compose (no big prompt) — 8/8"),
+  "validate-translation-variant.py": ("L03", "IPK 1.5.19 translations", "Verified Epistemic OS", "translation-variant", "GEM 5.1: three-version translation as scholarship (hard core vs interpretation-space) — 8/8"),
 }
 
 def main():

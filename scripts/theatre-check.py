@@ -40,6 +40,14 @@ KERNEL_TESTS = {
     "fts_search":    ("validate-fts-baseline.py", True),
     "bundle_router": ("validate-bundle-router.py", True),
     "seo":           ("validate-seo-astro.py", True),
+    "source_registry": ("validate-source-registry.py", True),
+    "evidence_ledger": ("validate-evidence-ledger.py", True),
+    "alignment_flywheel": ("validate-alignment-flywheel.py", True),
+    "integrity_gate": ("validate-integrity-gate.py", True),
+    "next_action":   ("validate-next-action.py", True),
+    "vidyut_l0":     ("validate-vidyut-l0.py", True),
+    "verification_ensemble": ("validate-verification-ensemble.py", True),
+    "translation_variant": ("validate-translation-variant.py", True),
 }
 
 # docs claims (from LAB-REVIEW / KERNELS-INDEX) to verify against tests
@@ -66,6 +74,14 @@ DOC_CLAIMS = {
     "fts_search": "Postgres-FTS-equivalent search baseline + benchmark (9/9)",
     "bundle_router": "compiled agent bundles + MCP 8-tool adapter + R2 emission (16/16)",
     "seo": "canonical URLs + JSON-LD + sitemap + static 0-JS HTML (13/13)",
+    "source_registry": "fojin source-registry (10/10)",
+    "evidence_ledger": "typed evidence events + confidence_kind (9/9)",
+    "alignment_flywheel": "cross-source mine→review→promote (10/10)",
+    "integrity_gate": "integrity tri-state + primary gate (8/8)",
+    "next_action": "deterministic next-action scheduler (7/7)",
+    "vidyut_l0": "L0 Sanskrit token floor (9/9)",
+    "verification_ensemble": "RefChecker+GraphCheck+RARR (8/8)",
+    "translation_variant": "three-version translation scholarship (8/8)",
 }
 
 def run(script):

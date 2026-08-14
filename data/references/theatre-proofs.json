@@ -1,6 +1,6 @@
 {
- "count": 22,
- "proven": 16,
+ "count": 30,
+ "proven": 24,
  "mechanism_only": 6,
  "unproven": 0,
  "proofs": [
@@ -14,6 +14,17 @@
    "uses_real_data": false,
    "verdict": "PROVEN-MECHANISM",
    "proof_hash": "77ff55ce50b041bf"
+  },
+  {
+   "kernel": "alignment_flywheel",
+   "doc_claim": "cross-source mine\u2192review\u2192promote (10/10)",
+   "test_script": "validate-alignment-flywheel.py",
+   "test_exists": true,
+   "test_passes": true,
+   "exit_code": 0,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "d3d28a46886d35a2"
   },
   {
    "kernel": "bundle_router",
@@ -93,6 +104,17 @@
    "proof_hash": "77cbeb9756e9c5dc"
   },
   {
+   "kernel": "evidence_ledger",
+   "doc_claim": "typed evidence events + confidence_kind (9/9)",
+   "test_script": "validate-evidence-ledger.py",
+   "test_exists": true,
+   "test_passes": true,
+   "exit_code": 0,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "45f1141e9010a42f"
+  },
+  {
    "kernel": "evolve",
    "doc_claim": "MAP-Elites evolution validated",
    "test_script": "validate-evolve.py",
@@ -113,6 +135,28 @@
    "uses_real_data": true,
    "verdict": "PROVEN",
    "proof_hash": "53934e68bf6ef155"
+  },
+  {
+   "kernel": "integrity_gate",
+   "doc_claim": "integrity tri-state + primary gate (8/8)",
+   "test_script": "validate-integrity-gate.py",
+   "test_exists": true,
+   "test_passes": true,
+   "exit_code": 0,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "afdb513d597d3a85"
+  },
+  {
+   "kernel": "next_action",
+   "doc_claim": "deterministic next-action scheduler (7/7)",
+   "test_script": "validate-next-action.py",
+   "test_exists": true,
+   "test_passes": true,
+   "exit_code": 0,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "11c1f98da8938c62"
   },
   {
    "kernel": "organism",
@@ -225,6 +269,17 @@
    "proof_hash": "90fc807027f885a1"
   },
   {
+   "kernel": "source_registry",
+   "doc_claim": "fojin source-registry (10/10)",
+   "test_script": "validate-source-registry.py",
+   "test_exists": true,
+   "test_passes": true,
+   "exit_code": 0,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "0779648dd86c3a67"
+  },
+  {
    "kernel": "staleness",
    "doc_claim": "PHYSICS retraction flags 8 layers",
    "test_script": "validate-stack.py",
@@ -245,6 +300,39 @@
    "uses_real_data": true,
    "verdict": "PROVEN",
    "proof_hash": "ae957c6fbcc6ea0b"
+  },
+  {
+   "kernel": "translation_variant",
+   "doc_claim": "three-version translation scholarship (8/8)",
+   "test_script": "validate-translation-variant.py",
+   "test_exists": true,
+   "test_passes": true,
+   "exit_code": 0,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "63dc4a07e0aae8ab"
+  },
+  {
+   "kernel": "verification_ensemble",
+   "doc_claim": "RefChecker+GraphCheck+RARR (8/8)",
+   "test_script": "validate-verification-ensemble.py",
+   "test_exists": true,
+   "test_passes": true,
+   "exit_code": 0,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "71284afb9267182b"
+  },
+  {
+   "kernel": "vidyut_l0",
+   "doc_claim": "L0 Sanskrit token floor (9/9)",
+   "test_script": "validate-vidyut-l0.py",
+   "test_exists": true,
+   "test_passes": true,
+   "exit_code": 0,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "0a086557e0dea15e"
   }
  ]
 }

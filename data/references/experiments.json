@@ -1,5 +1,5 @@
 {
- "count": 63,
+ "count": 71,
  "entries": [
   {
    "script": "validate-layer03-05.py",
@@ -567,6 +567,78 @@
    "kernel": "cognee",
    "status": "RUN",
    "note": "Cognee remember/recall + KG search adapted + compared vs our context bundles \u2014 11/11"
+  },
+  {
+   "script": "validate-source-registry.py",
+   "layer": "L01",
+   "source": "real IPK/Rati\u00e9 sources",
+   "vision": "Verified Epistemic OS",
+   "kernel": "source-registry",
+   "status": "RUN",
+   "note": "fojin source-registry pattern: claim source_refs resolve to registered rights+health sources \u2014 10/10"
+  },
+  {
+   "script": "validate-evidence-ledger.py",
+   "layer": "L08",
+   "source": "typed events",
+   "vision": "Verified Epistemic OS",
+   "kernel": "evidence-ledger",
+   "status": "RUN",
+   "note": "GEM 6.5: typed evidence events + fojin confidence_kind (never compare incomparable) \u2014 9/9"
+  },
+  {
+   "script": "validate-alignment-flywheel.py",
+   "layer": "L06",
+   "source": "IPK/IPVV corpus",
+   "vision": "Verified Epistemic OS",
+   "kernel": "alignment-flywheel",
+   "status": "RUN",
+   "note": "fojin mine\u2192stage\u2192review\u2192promote cross-source flywheel (human-in-loop) \u2014 10/10"
+  },
+  {
+   "script": "validate-integrity-gate.py",
+   "layer": "L05",
+   "source": "real IPK sources",
+   "vision": "Verified Epistemic OS",
+   "kernel": "integrity-gate",
+   "status": "RUN",
+   "note": "EleutherIA integrity_status tri-state + primary-source hard gate \u2014 8/8"
+  },
+  {
+   "script": "validate-next-action.py",
+   "layer": "L12",
+   "source": "IPK tasks",
+   "vision": "Verified Epistemic OS",
+   "kernel": "next-action",
+   "status": "RUN",
+   "note": "GEM 12.3: patala_next_action() CALCULATES (P=w1D+w2B+w3U+w4Q+w5R\u2212w6C), not LLM-guess \u2014 7/7"
+  },
+  {
+   "script": "validate-vidyut-l0.py",
+   "layer": "L03",
+   "source": "vidyut + SLP1",
+   "vision": "Verified Epistemic OS",
+   "kernel": "vidyut-l0",
+   "status": "RUN",
+   "note": "GEM 5.3: L0 Sanskrit token floor (SLP1 normalize + position-anchored tokens) \u2014 9/9"
+  },
+  {
+   "script": "validate-verification-ensemble.py",
+   "layer": "L07",
+   "source": "registered sources + edges",
+   "vision": "Verified Epistemic OS",
+   "kernel": "verification-ensemble",
+   "status": "RUN",
+   "note": "GEM 7.1: RefChecker + GraphCheck + RARR-gate compose (no big prompt) \u2014 8/8"
+  },
+  {
+   "script": "validate-translation-variant.py",
+   "layer": "L03",
+   "source": "IPK 1.5.19 translations",
+   "vision": "Verified Epistemic OS",
+   "kernel": "translation-variant",
+   "status": "RUN",
+   "note": "GEM 5.1: three-version translation as scholarship (hard core vs interpretation-space) \u2014 8/8"
   }
  ]
 }

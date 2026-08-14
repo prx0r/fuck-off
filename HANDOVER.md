@@ -258,10 +258,16 @@ rclone check <local> r2:atlas-sources/informationphilosopher  # R2 backup integr
     (projection compiler, 12/12), `fts_search.py` (Postgres-FTS-equivalent + benchmark, 9/9, p50<10ms
     → no Tantivy needed), `bundle_router.py` (compiled agent bundles + MCP 8-tool, 16/16),
     `seo.py` (canonical URLs + JSON-LD + sitemap + 31 static 0-JS HTML pages, 13/13). L06+L07 now BUILT.
-12. **FINAL STATE: 59/59 tests, 31 experiments PROVEN on real data / 27 mechanism / 0 unproven,
-    22 kernels, 8 product visions, 59-experiment matrix, 41 cloned repos, fully traceable,
-    graduation done (Doyle 14/14 + IPK 18/18) + the ultimate v3 product (13/13) + the read plane
-    (projection compiler + FTS baseline + agent bundles/MCP + Astro/SEO).**
+ 13. **INTEGRATION (this session):** refreshed MASTER-KNOWLEDGE-BASE to the full integrated state
+     (25 kernels / 63 experiments / 43 clones / 47 specs) + added the frontier compares (LightRAG,
+     cognee) to the ecosystem. Cloned + tested LightRAG (⭐38k, graph-RAG, 10/10) and cognee (⭐30k,
+     AI-memory, 11/11) — both confirm our architecture (PathRAG still wins on our graph; our bundles
+     match Cognee's recall). Extended theatre-check to all 25 kernels (16 PROVEN / 6 mech... now more).
+ 14. **FINAL STATE: 63/63 tests, 31 experiments PROVEN on real data / 27 mechanism / 0 unproven (58
+     audited), 25 kernels, 8 product visions, 63-experiment matrix, 43 cloned repos, fully traceable,
+     graduation done (Doyle 14/14 + IPK 18/18), ultimate v3 product (13/13), read plane built
+     (projection compiler + FTS baseline + agent bundles/MCP + Astro/SEO), VISION F (self-provenance)
+     built, 2 frontier clones tested (LightRAG + cognee).**
 
 ---
 
@@ -270,11 +276,11 @@ rclone check <local> r2:atlas-sources/informationphilosopher  # R2 backup integr
 1. Read `AGENTS.md` — the axioms (esp. axiom 12: every artifact must resolve, axiom 22: every doc).
 2. Read `NAVIGATION.md` → `TRACEABILITY-MAP.md` → `HANDOVER.md` (this file).
 3. Read `LAB-REVIEW.md` — what's proven vs exploratory.
-4. Read `KERNELS-INDEX.md` — reuse the 22 kernels, don't rebuild.
+4. Read `KERNELS-INDEX.md` — reuse the 25 kernels, don't rebuild.
 5. Read §5 essay-ingest architecture — the source-text vs essay-about-source vs standalone design.
 6. Read `migration/v3/ULTIMATE-OPTIMIZED-PRODUCT.md` — the IPVV graduation (18/18) + product stack.
 7. Check `TODO.md` + `GAPS.md` + `STATE.yaml` — the live state.
-8. Run `scripts/run-tests.py` (59/59, incl traceability + graduation + read-plane gates) + `scripts/theatre-check-all.py`
+8. Run `scripts/run-tests.py` (63/63, incl all gates) + `scripts/theatre-check-all.py`
    before claiming anything done.
 9. Widen the real-corpus run (§9 P0): product stack + graduation over MANY IPK claims; build the 3
    v3 needs-build products; signed attestation (gap E).

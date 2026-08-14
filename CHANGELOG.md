@@ -733,3 +733,17 @@ data (same pattern as every clone: study the mechanism, adapt to our graph, vali
   `validate-cognee-compare.py` (**11/11**): auto-links typed memory to graph entities, recalls by link,
   forget primitive — comparable to our compiled context bundles.
 - GITHUB-TRACEABILITY updated (2 new PROVEN clones). 25 kernels, 63-experiment matrix. state.json synced.
+
+## 2026-08-14 (7 infrastructure gems built from fojin/EleutherIA/vidyut + the GEMs)
+Autonomous build of 7 infrastructure kernels inspired by the patala v2/v3 GEMs + the external sources
+(fojin, EleutherIA, vidyut). 8 new kernels + 8 validators:
+- **`source_registry.py`** (fojin GEM 1.1, 10/10): claim source_refs resolve to registered rights+health sources
+- **`evidence_ledger.py`** (GEM 6.5, 9/9): typed evidence events + fojin confidence_kind (never compare incomparable)
+- **`alignment_flywheel.py`** (fojin, 10/10): mine→stage→review→promote cross-source flywheel (human-in-loop)
+- **`integrity_gate.py`** (EleutherIA GEM 6.2, 8/8): integrity_status tri-state + primary-source hard gate
+- **`next_action.py`** (GEM 12.3, 7/7): deterministic next-action scheduler (P=w1D+w2B+w3U+w4Q+w5R−w6C)
+- **`vidyut_l0.py`** (GEM 5.3, 9/9): L0 Sanskrit token floor (SLP1 normalize + position-anchored tokens)
+- **`verification_ensemble.py`** (GEM 7.1, 8/8): RefChecker + GraphCheck + RARR-gate compose
+- **`translation_variant.py`** (GEM 5.1, 8/8): three-version translation as scholarship (core vs interpretation-space)
+- Cloned + studied fojin (source-registry/cross-canon), EleutherIA (integrity/review), vidyut (Sanskrit L0).
+- **FINAL: 71/71 tests, 34 PROVEN real / 36 mechanism / 0 unproven (70 audited), 33 kernels, 71-matrix, 46 clones.**

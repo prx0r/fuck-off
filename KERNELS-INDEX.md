@@ -1,6 +1,6 @@
 # KERNELS-INDEX — the reusable kernels (what's in lib/, what it does, how it's validated)
 
-*2026-08-14. The agent-facing map of every reusable kernel (now 22). Reuse these — never rebuild. Each
+*2026-08-14. The agent-facing map of every reusable kernel (now 33). Reuse these — never rebuild. Each
 maps to: what it is · layer · vision · the experiment(s) that validate it · honest status.*
 
 | Kernel | What it does | Layer | Vision | Validated by | Status |
@@ -30,6 +30,14 @@ maps to: what it is · layer · vision · the experiment(s) that validate it · 
 | `system_provenance.py` | VISION F: the OS audits its OWN kernels (signed self-provenance, why()→evidence, tamper-detect) | ALL | Verified OS | validate-system-provenance | VALIDATED (9/9) |
 | `lightrag_compare.py` | LightRAG local/global/hybrid retrieval adapted to our graph, vs our PathRAG | L10 | Verified OS | validate-lightrag-compare | VALIDATED (10/10) |
 | `cognee_compare.py` | Cognee remember/recall + KG search adapted to our graph, vs our context bundles | L09 | Verified OS | validate-cognee-compare | VALIDATED (11/11) |
+| `source_registry.py` | fojin source-registry: claim source_refs → registered rights+health sources | L01 | Verified OS | validate-source-registry | VALIDATED (10/10) |
+| `evidence_ledger.py` | GEM 6.5: typed evidence events + fojin confidence_kind (never compare incomparable) | L08 | Verified OS | validate-evidence-ledger | VALIDATED (9/9) |
+| `alignment_flywheel.py` | fojin mine→stage→review→promote cross-source flywheel (human-in-loop) | L06 | Verified OS | validate-alignment-flywheel | VALIDATED (10/10) |
+| `integrity_gate.py` | EleutherIA integrity_status tri-state + primary-source hard gate | L05 | Verified OS | validate-integrity-gate | VALIDATED (8/8) |
+| `next_action.py` | GEM 12.3: deterministic next-action scheduler (P=w1D+w2B+w3U+w4Q+w5R−w6C) | L12 | Verified OS | validate-next-action | VALIDATED (7/7) |
+| `vidyut_l0.py` | GEM 5.3: L0 Sanskrit token floor (SLP1 normalize + position-anchored tokens) | L03 | Verified OS | validate-vidyut-l0 | VALIDATED (9/9) |
+| `verification_ensemble.py` | GEM 7.1: RefChecker + GraphCheck + RARR-gate compose (anti-hallucination) | L07 | Verified OS | validate-verification-ensemble | VALIDATED (8/8) |
+| `translation_variant.py` | GEM 5.1: three-version translation as scholarship (core vs interpretation-space) | L03 | Verified OS | validate-translation-variant | VALIDATED (8/8) |
 
 ## Rules for agents
 1. **Reuse, don't rebuild** (axiom): a task that maps to a kernel → call the kernel.

@@ -17,7 +17,7 @@ Nothing is orphaned. Machine-checkable: every entry has a path; every path exist
 | **Verified-Statement-Marketplace** | L02 | beyond-patala `VISION-VERIFIED-STATEMENT-MARKETPLACE.md` | `certificate.py`, signed-statement |
 | **Co-Evolving Epistemic Organism** | L09 | beyond-patala `VISION-COEVOLVING-EPISTEMIC-ORGANISM.md` | organism-loop, pedagogy |
 | **What-If Machine** | L03/L04 | beyond-patala `VISION-WHAT-IF-MACHINE.md` | `discovery.py`, counterfactual, crux |
-| **Self-Proving System** | L12 | beyond-patala `VISION-SELF-PROVING-SYSTEM.md` | signed-corpus, causal-operational |
+| **Self-Proving System** | L12 | beyond-patala `VISION-SELF-PROVING-SYSTEM.md` | signed-corpus, causal-operational, **system_provenance (VISION F)** |
 | **Question-Growth Engine** | L04 | beyond-patala `VISION-QUESTION-GROWTH-ENGINE.md` | question-growth |
 | **Enquiry-Discovery Organism** | L04/L09 | beyond-patala `VISION-ENQUIRY-DISCOVERY-ORGANISM.md` | enquiry-discovery, gem-extraction |
 | **General Engine** | L00/L01/L08 | `VISION.md` | import-scifact, eigenius |
@@ -39,8 +39,8 @@ Nothing is orphaned. Machine-checkable: every entry has a path; every path exist
 | L06 | Retrieval Compiler | `06-retrieval-compiler` | `retrieval.py`, `query.py`, `context_compiler.py`, `fts_search.py`, `bundle_router.py` | context-compiler, fts-baseline, bundle-router |
 | L07 | Surfaces (Astro/MCP/SEO) | `07-surfaces` | `seo.py`, `bundle_router.py` | seo-astro, bundle-router |
 | L08 | Human Authority | `08-human-authority` | `scholar_review.py` | cross-review, review-bias |
-| L09 | Organism/Education | `09-live-system` | `education.py`, `organism.py`, `pedagogy.py`, `agent_delivery.py`, `essay_ingest.py`, `patala_product.py` | organism-loop, pedagogy, execution-replay, essay-ingest, v3-product |
-| L10 | Surfaces | `10-surfaces` | `query.py`, `retrieval.py` | kg2code, pathrag, hipporag |
+| L09 | Organism/Education | `09-live-system` | `education.py`, `organism.py`, `pedagogy.py`, `agent_delivery.py`, `essay_ingest.py`, `patala_product.py`, `cognee_compare.py` | organism-loop, pedagogy, execution-replay, essay-ingest, v3-product, cognee-compare |
+| L10 | Surfaces | `10-surfaces` | `query.py`, `retrieval.py`, `lightrag_compare.py` | kg2code, pathrag, hipporag, lightrag-compare |
 | L12 | Live System | `12-live-system` | — | signed-corpus, reactive-essay, causal-operational |
 
 ---

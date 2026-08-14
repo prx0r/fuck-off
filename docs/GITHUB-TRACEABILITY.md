@@ -26,6 +26,9 @@ integrated). This makes everything traceable — no repo is orphaned.*
 | `HippoRAG` (clone) | `experiment-hipporag` + `validate-layer10` | L10 | PROVEN (hub-bias found) |
 | `LightRAG` (clone, ⭐38k) | `validate-lightrag-compare` | L10 | PROVEN (local/global/hybrid adapted, vs our PathRAG) |
 | `cognee` (clone, ⭐30k) | `validate-cognee-compare` | L09 | PROVEN (remember/recall + KG search, vs our bundles) |
+| `fojin` (clone) | `validate-source-registry` + `validate-alignment-flywheel` + `validate-evidence-ledger` | L01/L06/L08 | PROVEN (source-registry, cross-source flywheel, confidence_kind) |
+| `EleutherIA` (clone) | `validate-integrity-gate` | L05 | PROVEN (integrity tri-state + primary-source gate) |
+| `vidyut` (clone) | `validate-vidyut-l0` | L03 | PROVEN (L0 Sanskrit token floor, SLP1) |
 | `eigenius` | `experiment-eigenius-grades` | L00 | PROVEN |
 | `self-improving-agent` | `experiment-self-improve` | L05 | PROVEN |
 | `evolving-memory` | `experiment-evolving-memory` | L09 | PROVEN |

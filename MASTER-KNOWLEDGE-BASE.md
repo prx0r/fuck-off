@@ -1,7 +1,7 @@
 # MASTER-KNOWLEDGE-BASE — everything we've built, in one authoritative reference
 
 *2026-08-14. A synthesized master reference of the **Verified Epistemic OS** lab. This condenses the
-full state — 17 kernels, 51 experiments, 32 arXiv papers, 99 repo catalog (41 cloned), 46 specs, 10
+full state — 25 kernels, 63 experiments, 32 arXiv papers, 99 repo catalog (43 cloned), 47 specs, 10
 visions, 11 layers — into one agent-loadable map. Use this to know WHAT exists and WHERE before
 building. Ground-truth counts verified against `data/references/*.json`, `lib/`, `scripts/`,
 `specs/`. Honest statuses only — nothing claimed beyond what's proven.*
@@ -40,6 +40,14 @@ derivation graph = correctness + staleness + scheduler + retrieval.
 | `evolve.py` | MAP-Elites evolution (Pareto incl. cost) | L05 | only better+distinct candidates promote |
 | `agent_delivery.py` | task contract + budget + context routing | L09 | human gate for canonical truth |
 | `essay_ingest.py` | 9-stage essay-as-derivation-input | L04-09 | essay = derivation input, not dead prose |
+| `patala_product.py` | assembles all kernels into v3's 4-family product stack | ALL | every product is a projection of proven kernels |
+| `context_compiler.py` | the projection compiler: graph → immutable context bundles | L06 | one agent question = one request |
+| `fts_search.py` | Postgres-FTS-equivalent index + benchmark | L06 | Tantivy only if profiled hot (p50<10ms) |
+| `bundle_router.py` | compiled agent bundles + MCP 8-tool + R2 emission | L06/L07 | immutable content-addressed artifacts |
+| `seo.py` | canonical URLs + JSON-LD + sitemap + static HTML | L07 | one ID unifies human/search/agent/API graphs |
+| `system_provenance.py` | VISION F: the OS audits its own kernels | ALL | signed self-provenance, why()→evidence, tamper-detect |
+| `lightrag_compare.py` | LightRAG local/global/hybrid retrieval (adapted) | L10 | vs our PathRAG (which still wins) |
+| `cognee_compare.py` | Cognee remember/recall + KG search (adapted) | L09 | vs our compiled context bundles |
 
 **The 5 architecturally load-bearing mechanisms:**
 1. **Epistemic ceiling invariant** (`epistemic.py`) — the honesty law making the graph real, not a
@@ -89,11 +97,23 @@ literature, L06), unified-epistemic (kappa+herdr+RKA unified), verified-lifecycl
 **validate-stack (THE graduation/anti-theatre test, 9/9 REAL)**, validate-essay-ingest (9-stage on real
 Ratié, 8/8), validate-products.
 
-**Theatre truth:** 24 PROVEN on real data / 26 PROVEN-MECHANISM (synthetic) / 0 UNPROVEN. The
-data-grounded tests are validate-stack, validate-layer03-05, validate-essay-ingest, pathrag, hipporag,
-kg2code, crux-compiler. Several RUN scripts (essay-as-engine, enquiry-discovery, question-growth,
-gem-extraction, claim-standardisation) encode the mechanism in hardcoded data + print a narrative — they
-demonstrate the shape, not a source-verified pipeline. THE fix = the graduation test.
+**Read plane (SPEC-49, L06/L07):** validate-context-compiler (projection compiler, 12/12),
+validate-fts-baseline (Postgres-FTS-equivalent, p50<10ms → no Tantivy, 9/9), validate-bundle-router
+(compiled agent bundles + MCP 8-tool, 16/16), validate-seo-astro (canonical URLs + JSON-LD + 31 static
+HTML pages, 13/13).
+
+**Graduation + product:** validate-graduation (Doyle organism, 14/14 REAL), **validate-graduation-ipvv
+(real IPK corpus, 18/18 REAL)**, validate-product-stack (v3 4-family product stack, 13/13).
+
+**Own-vision + frontier compare:** validate-system-provenance (**VISION F: OS audits its own kernels**,
+9/9), validate-lightrag-compare (LightRAG adapted, 10/10), validate-cognee-compare (Cognee adapted, 11/11).
+
+**Theatre truth:** 31 PROVEN on real data / 27 PROVEN-MECHANISM (synthetic) / 0 UNPROVEN (58 audited).
+The data-grounded tests are validate-stack, validate-layer03-05, validate-essay-ingest,
+validate-graduation(-ipvv), validate-product-stack, pathrag, hipporag, kg2code, crux-compiler, and the
+whole read plane + system-provenance. Several RUN scripts (essay-as-engine, enquiry-discovery,
+question-growth, gem-extraction, claim-standardisation) encode the mechanism in hardcoded data — they
+demonstrate the shape, not a source-verified pipeline.
 
 ---
 
@@ -120,17 +140,19 @@ read-only, pending adoption into Layers 04/06/07. KORAL is catalog-GAP but imple
 
 ---
 
-## 4. THE ECOSYSTEM — 41 cloned repos (of 99 cataloged)
+## 4. THE ECOSYSTEM — 43 cloned repos (of 99 cataloged)
 
-- **20 validated as experiments** (Tier 1 ✅): herdr-workflow, rka, knowledgeProvenance, nano-graphrag,
+- **22 validated as experiments** (Tier 1 ✅): herdr-workflow, rka, knowledgeProvenance, nano-graphrag,
   PathRAG, HippoRAG, eigenius, self-improving-agent, evolving-memory, graphiti, pyBKT, cosign, openevolve,
-  axplorer, salsa, agentstateprotocol, deterministic-memory-layer, adversarial-review, AgentReview, scifact.
+  axplorer, salsa, agentstateprotocol, deterministic-memory-layer, adversarial-review, AgentReview, scifact,
+  **LightRAG (⭐38k, retrieval)**, **cognee (⭐30k, agent-memory)**.
 - **21 reference-only** (Tier 2 📖): maestro, arcan, loom, loom-valkor, mcp-agent, mcp-spec, agent-kit,
   cmu-paper-reviewer, agent-review-panel, EverOS, dbos, graphrag, KAG, instagraph, sage-wiki,
   seventeen-centuries, kappa-graph, storm, literature-review-toolkit, paper-qa, nodedb.
 - **~15 Tier 3 not cloned** (EleutherIA, DSPy, vouch, temporal, dapr, autogen, Microsoft GraphRAG,
   context-paging, inspect_ai, etc.).
-- Note: only 4 cloned dirs retain `.git` (maestro, loom-valkor, kappa-graph, rka); rest are bare trees.
+- Note: only 6 cloned dirs retain `.git` (maestro, loom-valkor, kappa-graph, rka, + LightRAG, cognee);
+  rest are bare trees.
 - **The 5 import adapters** (the generalization test): openalex, s2orc, scifact, xaif, eleutheria —
   only scifact done; others incomplete.
 
@@ -152,11 +174,12 @@ from LOGICVID gold). + THESIS-REVERSE-DELIVERY (the vcreate methodology).
 
 **The 6 unconsidered frontiers:** A OS-dreams-in-public · B counterfactual-engine (whole-graph) · C
 cross-organism-learning (learner error → source-repair) · D verifier-as-rival (hostile debater) · E temporal-
-scholarship · F epistemic-provenance-of-the-system-itself.
+scholarship · **F epistemic-provenance-of-the-system-itself — ✅ BUILT** (`system_provenance.py`, 9/9:
+the OS audits its own kernels).
 
 ---
 
-## 6. THE 46 SPECS (grouped)
+## 6. THE 47 SPECS (grouped)
 
 **Core spine:** SPEC-00 (INFRA-BUILD: compiler/factory) · SPEC-01 (canonical-dag) · SPEC-02 (epistemic-
 envelope) · SPEC-03 (argument-graph AIF) · SPEC-13 (staleness toolbox) · SPEC-14 (frontier-layer-builds).
@@ -174,7 +197,8 @@ SPEC-34 autonomous-pushing · SPEC-35 comparative-pushing · SPEC-36 logicvid3 (
 · SPEC-43 logicvid-postmortem · SPEC-44 logicframework2 (internal self-determination) · SPEC-46 logic5
 (presence≠manifestation≠consciousness≠experience) · SPEC-47 logic6 (self-present≠self-known≠self-validating
 ≠infallible≠liberating) · SPEC-48 logic7 (R/K/M; K=M unresolved = frontier) · SPEC-3x SESSION-Q1 +
-SESSION-OBJECTIONS (Tantrāloka TĀ 1/52-55 reflexivity). *(SPEC-36 == SPEC-45, identical content.)*
+SESSION-OBJECTIONS (Tantrāloka TĀ 1/52-55 reflexivity). **Build decision:** **SPEC-49** (the read-plane
+stack + Rust policy + agent SEO — LIVE). *(SPEC-36 == SPEC-45, identical content.)*
 
 ---
 
@@ -195,23 +219,28 @@ SESSION-OBJECTIONS (Tantrāloka TĀ 1/52-55 reflexivity). *(SPEC-36 == SPEC-45, 
 
 ## 8. STATE BY LAYER (`STATE.yaml`) + THE HONEST DEBT
 
-**Every layer VALIDATED except 07-surfaces (DISCOVERED).** "VALIDATED = prototype, not production." The
-honest gaps (A-G, all DISCOVERED in STATE.yaml): A context-paging (NOT built) · B execution-branching
-✅ BUILT · C deterministic-replay ✅ BUILT · D content-addressed run-traces (NOT) · E signed human
-attestation (NOT — critical before marketplace; agent_delivery uses plain human_authorize) · F workspace
-isolation (NOT) · G local-first workstation nodedb (cloned, NOT).
+**Every layer VALIDATED or BUILT** (only the surfaces were NOT_STARTED — now L06 + L07 are BUILT via
+SPEC-49). "VALIDATED = prototype, not production." The honest gaps (A-G, all DISCOVERED in STATE.yaml):
+A context-paging (NOT built) · B execution-branching ✅ BUILT · C deterministic-replay ✅ BUILT · D
+content-addressed run-traces (NOT) · E signed human attestation (NOT — critical before marketplace;
+agent_delivery uses plain human_authorize) · F workspace isolation (NOT) · G local-first workstation
+nodedb (cloned, NOT).
 
 ---
 
 ## 9. THE ROADMAP (DEV_PLAN/TODO/GAPS priorities)
 
-- **P0 — the graduation test** (the biggest lever): ONE claim end-to-end on real evidence (two-stage
-  free-will as IPVV stand-in), then MUTATE a premise and verify the whole organism reacts (staleness→
-  reactive essay→pedagogy→signed re-release). `validate-stack.py` starts it. **THE next milestone.**
-- **P1 — close gaps:** E signed attestation (before marketplace) · A context paging · 3 remaining adapters
-  (openalex, s2orc, xaif).
-- **P2 — deepen:** LOGICVID gold → enquiry graph (SPEC-40..48 → DiscoveryProgressions) · enquiry-discovery
-  → pedagogy · MAP-Elites on real translation · essay-ingest on a FULL source.
+- **✅ DONE — the graduation test** (P0): `validate-graduation.py` (Doyle, 14/14) +
+  **`validate-graduation-ipvv.py`** (real IPK corpus, 18/18) — one claim through the whole organism,
+  premise mutated, whole stack reacts. `validate-product-stack.py` (13/13) produces the full v3 product
+  stack. **THE milestone is closed.**
+- **✅ DONE — the read plane** (SPEC-49 P0/P1): projection compiler + FTS baseline + agent bundles/MCP +
+  Astro/SEO. L06 + L07 BUILT.
+- **Next — widen + deepen:** run the product stack + graduation over MANY IPK kārikās (real corpus
+  pass) · build the 3 v3 needs-build products (Essay projection, Commentary, Tokenization) · signed
+  attestation (gap E) · widen the frontier-compare (more clones → more validated patterns) · explore
+  the other own-vision frontiers (B counterfactual-engine, D verifier-as-rival) which are the next
+  intellectually juicy ones.
 
 ---
 
@@ -221,6 +250,8 @@ isolation (NOT) · G local-first workstation nodedb (cloned, NOT).
 Question → TRACEABILITY-MAP.md (vision+layer) → KERNELS-INDEX.md (kernel) → the validating
 experiment (scripts/) → the source repo (ecosystem/ or arXiv) → the spec (specs/) → the doc (docs/)
 ```
-The 5 most important things to know: (1) validate-stack.py is the only real end-to-end pipeline,
-(2) epistemic ceiling invariant is the load-bearing law, (3) the human publication gate is everywhere,
-(4) staleness blast-radius is the self-maintaining mechanism, (5) the graduation test is the #1 next step.
+The 5 most important things to know: (1) `validate-graduation-ipvv.py` + `validate-product-stack.py`
+are the real end-to-end pipelines (real IPK corpus), (2) epistemic ceiling invariant is the load-bearing
+law, (3) the human publication gate is everywhere, (4) staleness blast-radius is the self-maintaining
+mechanism, (5) the graduation test + the read plane are DONE — the next step is widening the real-corpus
+run and the 3 v3 needs-build products.
