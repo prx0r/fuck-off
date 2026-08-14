@@ -21,6 +21,16 @@ def sha(path):
     except Exception:
         return "MISSING"
 
+# the registry directory (live object_registry, file-backed JSONL per layer)
+REGISTRY_DIR = "/root/projects/patala/data/corpus/registries"
+
+def registry_inputs():
+    """The live object_registry layer files as compile inputs (per-layer JSONL)."""
+    if not os.path.isdir(REGISTRY_DIR):
+        return []
+    return sorted(os.path.join(REGISTRY_DIR, f)
+                  for f in os.listdir(REGISTRY_DIR) if f.endswith(".jsonl"))
+
 # the inputs that feed the site projections (the "sources of truth" for the read plane)
 INPUTS = [
     "/root/projects/patala/data/corpus/atlas-bibliography.json",
@@ -28,7 +38,7 @@ INPUTS = [
     "/root/projects/patala/data/published/ipvv/clusters.json",
     f"{ROOT}/data/tantraloka/root-verses.json",
     f"{ROOT}/data/tantraloka/ahnika-1.json",
-]
+] + registry_inputs()
 
 def main():
     # load the last-seen state

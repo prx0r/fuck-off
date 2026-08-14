@@ -82,6 +82,47 @@ def compile_real_corpus(manifest):
     print(f"  + real corpus: {len(works)} works, {len(passages)} passages, {len(clusters) if isinstance(clusters, list) else 0} clusters")
     return manifest
 
+
+def _registry_summary():
+    """Load the LIVE patala object_registry (the per-layer truth) read-only."""
+    sys.path.insert(0, "/root/projects/patala/pipeline")
+    import object_registry as R
+    s = R.summary()
+    return {layer: d.get("objects", 0) for layer, d in s.items()}, s
+
+
+def compile_registry(manifest):
+    """Compile the LIVE object_registry (SOURCE/T1/ARGMAP/L0/L2/L200/C1/...) into immutable,
+    content-addressed per-layer projections. This is the OpenPatala live surface — the real
+    factory truth, not just the flat bibliography. Read-only on the registry."""
+    os.makedirs(f"{OUT}/openpatala", exist_ok=True)
+    counts, summary = _registry_summary()
+
+    # the canonical DAG layer order (SOURCE -> ... -> EDUCATION)
+    LAYER_ORDER = ["SOURCE", "T1", "ARGMAP", "L0", "L2", "L200", "C1",
+                   "THEME", "ARGUMENT", "SYNTHESIS", "ESSAY", "EDUCATION"]
+
+    # 1. per-layer projections (immutable, content-addressed by layer counts + registry state)
+    layers = {}
+    for layer in LAYER_ORDER:
+        n = counts.get(layer, 0)
+        layers[layer] = {"count": n, "url": f"/openpatala/{layer.lower()}.json",
+                         "sha256": sha(json.dumps({"layer": layer, "count": n}))}
+        with open(f"{OUT}/openpatala/{layer.lower()}.json", "w") as f:
+            json.dump({"layer": layer, "count": n, "objects": n}, f, indent=1)
+    manifest["openpatala"] = {"layers": layers}
+
+    # 2. the overall registry manifest (the OpenPatala read surface)
+    with open(f"{OUT}/openpatala/registry.json", "w") as f:
+        json.dump({"generated": True, "counts": counts,
+                   "layers": layers,
+                   "root_hash": sha(json.dumps(counts, sort_keys=True))}, f, indent=1)
+
+    n_objs = sum(counts.values())
+    print(f"  + live registry: {len(counts)} layers, {n_objs} total objects "
+          f"(SOURCE {counts.get('SOURCE', 0)}, T1 {counts.get('T1', 0)}, L0 {counts.get('L0', 0)})")
+    return manifest
+
 def main():
     g = json.load(open(f"{ROOT}/data/graph/graph.json"))
     a = json.load(open(f"{ROOT}/data/graph/argument.json"))
@@ -91,6 +132,8 @@ def main():
     manifest = {"concepts": {}, "argument": {}, "generated": True, "counts": {}}
     # compile the REAL patala scholarship into the site (read-only on agentpatala's data)
     manifest = compile_real_corpus(manifest)
+    # compile the LIVE object_registry into the OpenPatala surface (the factory truth)
+    manifest = compile_registry(manifest)
 
     os.makedirs(f"{OUT}/concepts", exist_ok=True)
     os.makedirs(f"{OUT}/argument", exist_ok=True)
@@ -200,6 +243,8 @@ a{{color:#0066cc;text-decoration:none}}.ceiling{{color:#666;font-size:.85rem}}</
                           "bytes": sum(os.path.getsize(os.path.join(dp, fn))
                                        for dp, _, fns in os.walk(OUT) for fn in fns),
                           "root_hash": sha(json.dumps(manifest["concepts"], sort_keys=True))}
+    if manifest.get("openpatala"):
+        manifest["counts"]["registry_layers"] = manifest["openpatala"]["layers"]
     with open(f"{OUT}/manifest.json", "w") as f:
         json.dump(manifest, f, indent=1)
 
