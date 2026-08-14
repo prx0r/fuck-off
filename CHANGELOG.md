@@ -804,3 +804,15 @@ Autonomous build of 7 infrastructure kernels inspired by the patala v2/v3 GEMs +
 - **`edge/server.py`** verified: /api/health, /api/v1/concepts/{slug}?view=, /api/v1/search, POST /mcp all work.
 - Integrated what agentpatala serves (real bibliography/passages/themes) into my read plane — read-only.
 - **76/76 tests, 38 kernels, 35 PROVEN / 40 mech / 0 unproven, 76-matrix.**
+
+## 2026-08-14 (P0 MONA LISA — Tantrāloka as the canonical full-stack test)
+- **The canonical test is now Tantrāloka from scratch** (upgraded from the single-claim IPVV proof).
+  Sources on disk: GRETIL Sanskrit root (`gretil_tantraloka.txt`, 17,684 lines, Kashmir Series 1918-38
+  via Takashima) + all 11 Dyczkowski volumes (the validation reference).
+- **`scripts/ingest-tantraloka-root.py`** — ingested the root: **5,860 kārikās** with stable `AbhT_x.y`
+  refs; **333 in Āhnika 1** (upāyas: reflexivity, the three means, recognition). Includes the flagship
+  `AbhT_1.52` (prakāśa/vimarśa reflexivity — connects to the IPVV/thesis).
+- **The test:** ingest root → L0 (vidyut) → TranslationProof → Commentary → Argument → products, all
+  from the Sanskrit (NOT reading Dyczkowski); then validate vs Dyczkowski via the three-version method
+  (agreement = hard core, divergence = interpretation-space).
+- DEV-PLAN-HONEST.md + shared DEV-PLAN-AGENTGRAPH.md updated: Tantrāloka is the P0 canonical test.

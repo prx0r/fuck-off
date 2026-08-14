@@ -37,14 +37,29 @@ So the plan is: **STOP adding kernels. WIRE the real corpus.**
 
 ## THE PLAN (priority-ordered, depth over breadth)
 
-### PHASE 1 — the corpus-wide IPVV graduation (the one real milestone) — HIGHEST VALUE
-Turn the single-claim proof into a **whole-corpus pass**:
-- Run `validate-product-stack.py` + `validate-graduation-ipvv.py` over MANY IPK kārikās (the full
-  Torella text is on disk — 18,180 lines).
-- Wire the L09 organism kernels into this pass so education/organism actually run on real IPK claims
-  (this is what turns them from mechanism-only → real-data).
-- **Success test:** a full-IPK run where every kārikā claim produces a product stack, all gates pass,
-  and the invariant holds (0 violations).
+### PHASE 1 — THE MONA LISA: Tantrāloka from scratch, the canonical full-stack test — HIGHEST VALUE
+Replace the single-claim IPVV proof with a **real, large, philosophically-loaded text through the whole
+organism, from scratch, then validated against the established translation**.
+
+**The target: Tantrāloka (Abhinavagupta).** Sources already on disk:
+- **Sanskrit root** (translate from THIS, not the English): `gretil_tantraloka.txt` — 17,684 lines, the
+  Kashmir Series 1918-38 edition via GRETIL/Takashima, clean `AbhT_1.1` kārikā refs + Jayaratha's Viveka.
+- **Dyczkowski's translation** (validation reference, not the source): all 11 volumes
+  `tantraloka-vol{1..11}-dyczkowski.txt`.
+
+**The test:**
+1. Ingest the root → SOURCE → L0 (vidyut) → TranslationProof → Commentary → Argument (our kernels, no
+   reading Dyczkowski).
+2. Translate a flagship āhnika from scratch (Āhnika 1: upāyas, reflexivity, prakāśa/vimarśa, the three
+   means, recognition — connects to the IPVV/thesis).
+3. Compile products → bundles → Astro → MCP (the full read plane).
+4. **Validate vs Dyczkowski** (three-version method, GEM 5.1): agreement = hard core, divergence =
+   interpretation-space for the commentary to adjudicate. The IPVV connection makes this the apex test.
+
+**Why:** the IPVV graduation proved the mechanism on ONE claim; Tantrāloka proves it on a real large text,
+connects to Abhinavagupta + recognition (the thesis), and has the richest existing pushing material
+(`research-library/recognition/pushing-tantraloka/`). This is the canonical "does the organism actually
+work" test.
 
 ### PHASE 2 — fix the docs-to-code lag (cheap, unblocks trust) — DO THIS WEEK
 - **Update GAPS.md** — it claims the read plane doesn't exist; it does. Resync to `BUILT-BY-LAYER.md`.
@@ -76,7 +91,7 @@ The misconception flywheel, pedagogy, and organism_loop are all built but data-s
 
 | Priority | Why |
 |---|---|
-| **1. Corpus-wide IPVV run** | the entire project's premise; everything else is mechanism |
+| **1. THE MONA LISA — Tantrāloka from scratch** | the canonical full-stack test on a real large text, then validated vs Dyczkowski |
 | **2. Docs-to-code resync** | cheap, unblocks trust + prevents rebuild waste |
 | **3. Gap E (signed attestation)** | security-critical, blocks the marketplace vision |
 | **4. Gap A (context paging)** | the agent read-plane is incomplete without it |
@@ -87,12 +102,15 @@ The misconception flywheel, pedagogy, and organism_loop are all built but data-s
 
 ## THE SOBER ONE-LINE VERDICT
 
-> The machine is over-proven and under-fed. **75 validators prove a machine, not a corpus.** The honest
-> next step is NOT another kernel — it's running the full IPK corpus through the stack, resyncing the
-> stale docs, closing the two security gaps, and then getting real consumer data so the organism's
-> teaching layer stops being mechanism-only. Every one of those is depth, not breadth.
+> The machine is over-proven and under-fed. **76 validators prove a machine, not a corpus.** The honest
+> next step is NOT another kernel — it's running **Tantrāloka from scratch** through the whole organism
+> (ingest the Sanskrit root → L0 → TranslationProof → Commentary → Argument → products), then validating
+> the result against Dyczkowski (three-version: agreement = hard core, divergence = interpretation-space).
+> That's the canonical proof the organism actually works on a real text. Then resync the docs, close the
+> two security gaps, and get real consumer data so the teaching layer stops being mechanism-only.
 
 ## Proofs / resolution
 - What's built: `BUILT-BY-LAYER.md`, `KERNELS-INDEX.md`, `COHERENCE-AUDIT.md`
 - What's not: `STATE.yaml` (gaps A-G all DISCOVERED), `GAPS.md` (stale), `TODO.md`
+- **The Mona Lisa sources:** Sanskrit root `gretil_tantraloka.txt` + Dyczkowski vols 1-11 (both on disk)
 - The milestone proof: `scripts/validate-graduation-ipvv.py` (18/18, ONE claim) — needs widening to corpus
