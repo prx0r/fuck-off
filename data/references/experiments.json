@@ -1,5 +1,5 @@
 {
- "count": 81,
+ "count": 82,
  "entries": [
   {
    "script": "validate-layer03-05.py",
@@ -477,6 +477,15 @@
    "kernel": "state-gate",
    "status": "RUN",
    "note": "state.json is valid JSON + matches ground truth \u2014 no human/machine drift"
+  },
+  {
+   "script": "audit-theatre-dataflow.py",
+   "layer": "ALL",
+   "source": "validator data-flow",
+   "vision": "Verified Epistemic OS",
+   "kernel": "theatre-dataflow",
+   "status": "RUN",
+   "note": "ADVISORY: does each validator's asserted object trace to loaded data? Catches hand-fed-fields theatre a marker check misses"
   },
   {
    "script": "validate-graduation.py",
