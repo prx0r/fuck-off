@@ -246,3 +246,16 @@ imposed.
 - **agent-review-panel**: extracted its 16-phase protocol (Phase 10 claim-verify, Phase 11 severity-verify,
   Phase 14 judge) — directly enhances our `lib/scholar_review.py`.
 - GitHub index 79 → **83 repos**. Test suite now **12/12**.
+
+## 2026-08-14 (cont.) — more subsystem tests (KORAL, communities, generalization)
+- **`experiment-koral-twograph.py`** (Layer 06): reality-vs-literature two-graph validated — a
+  literature reinterpretation stays in literature (reality untouched); a reality retraction cascades
+  up into interpretations. Enforces PRIMARY≠INTERPRETATION.
+- **`experiment-communities.py`** (Layer 02): community detection on our concept graph independently
+  discovered 3 emergent clusters that MATCH our epistemic split — (0) physics/info/mind,
+  (1) free-will/determinism/agency, (2) consciousness/mind-body/qualia. Structural confirmation of
+  the hand-curated themes.
+- **`experiment-generalization.py`** (Layer 08/domain): the engine's core (envelope, schema, reducer)
+  applies UNCHANGED to an EleutherIA-style ancient free-will domain — only ontology extends. The
+  generalization bet validated; `agency`+`determinism` are shared cross-link concepts.
+- Test suite 12 → **15/15 pass**.
