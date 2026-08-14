@@ -18,10 +18,10 @@ The wiring scripts:
 
 Now-wired (Phase 6): `verification_ensemble`, `evidence_ledger`, `integrity_gate`, `source_registry`,
 `organism`, `pedagogy`, `misconception`, `question_growth`, `enquiry`, `design_provenance`,
-`organism_factory_bridge`.
-Still VALIDATED-ONLY (next wiring targets): `alignment_flywheel`, `open_ended_evolve`, `self_healing`,
-`skill_graph`, `structure_recall`, `iteration_confidence`, `canonical_contracts`, `factory_pool`,
-`ingestion_organism`, `retrieval`, `query`, `lightrag_compare`, `cognee_compare`, `graph_stable`.
+`organism_factory_bridge`, `query`, `retrieval`, `structure_recall`, `self_healing`, `alignment_flywheel`.
+Still VALIDATED-ONLY (next wiring targets): `open_ended_evolve`, `skill_graph`, `iteration_confidence`,
+`canonical_contracts`, `factory_pool`, `ingestion_organism`, `lightrag_compare`, `cognee_compare`,
+`graph_stable`.
 
 | Kernel | What it does | Layer | Vision | Validated by | Status |
 |--------|-------------|-------|--------|--------------|--------|
