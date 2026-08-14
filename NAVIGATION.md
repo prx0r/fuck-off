@@ -118,6 +118,7 @@ graph after adding text, run `build-graph.py`.
 | `KERNELS-INDEX.md` | the reusable kernels (reuse map) |
 | `MASTER-KNOWLEDGE-BASE.md` | the synthesized master reference (17 kernels · 51 experiments · 32 arXiv · 99 repos · 46 specs) |
 | `OWN-VISION-MAP.md` | our independent vision zoomed out (6 frontiers + 4 products → kernel/proof status) |
+| `ORGANISM-OPERATING-MODEL.md` | the organism operating manual (how it ingests/translates/teaches/publishes + stays durable/secure) |
 | `BUILDNOTES.md` | full build history + decisions |
 | `NAVIGATION.md` | this file |
 | `TODO.md` | live task tracker |

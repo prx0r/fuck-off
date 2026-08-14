@@ -747,3 +747,13 @@ Autonomous build of 7 infrastructure kernels inspired by the patala v2/v3 GEMs +
 - **`translation_variant.py`** (GEM 5.1, 8/8): three-version translation as scholarship (core vs interpretation-space)
 - Cloned + studied fojin (source-registry/cross-canon), EleutherIA (integrity/review), vidyut (Sanskrit L0).
 - **FINAL: 71/71 tests, 34 PROVEN real / 36 mechanism / 0 unproven (70 audited), 33 kernels, 71-matrix, 46 clones.**
+
+## 2026-08-14 (organism operating model — the zoom-out)
+- **`ORGANISM-OPERATING-MODEL.md`** — the zoom-out synthesizing everything into the organism's
+  operating manual: how it auto-ingests Sanskrit (R2 Bronze → SOURCE → vidyut tokenization →
+  TranslationProof → Commentary → Argument), publishes reactive essays (9-stage essay-ingest), teaches
+  + grows with consumers (wrong-answer→neighbor moat + misconception flywheel), decides agentically
+  (next_action calculate, not LLM-guess, + human-gated delivery), and stays durable/secure (staleness=
+  dependency graph, signed Merkle root, integrity tri-state, confidence_kind evidence, system
+  self-provenance). Identifies the honest gaps (misconception repair cascade, BKT/FSRS, gaps A-E).
+- Wired into NAVIGATION + TRACEABILITY. Traceability still clean (109 docs).
