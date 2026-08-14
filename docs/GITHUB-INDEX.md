@@ -1,10 +1,10 @@
 # GITHUB INDEX — canonical GitHub reference catalog
 
-*2026-08-14. 85 repos, organized by category + tier for agent retrieval. Machine form: `data/references/github.json`.*
+*2026-08-14. 89 repos, organized by category + tier for agent retrieval. Machine form: `data/references/github.json`.*
 
 Tier: 0=clone-first · 1=ingest · 2=architecture · 3=watch
 
-## agent-memory (21)
+## agent-memory (22)
 
 - **getzep/graphiti** — `T0` · temporal edges (valid_at/invalid_at/episodes) · <https://github.com/getzep/graphiti>
 - **EvoScientist/EvoScientist** — `T0` · self-evolving AI scientists (study deepest) · <https://github.com/EvoScientist/EvoScientist>
@@ -18,25 +18,29 @@ Tier: 0=clone-first · 1=ingest · 2=architecture · 3=watch
 - **ViktorAxelsen/MemSkill** — `T2` · memory policy learns how to remember · <https://github.com/ViktorAxelsen/MemSkill>
 - **aiming-lab/SkillRL** — `T2` · trajectories -> hierarchical skills -> RL · <https://github.com/aiming-lab/SkillRL>
 - **Qwen-Applications/skill-self-play** — `T2` · skill self-play (Alibaba/Qwen) · <https://github.com/Qwen-Applications/skill-self-play>
-- **EvolvingAgentsLabs/evolving-memory** — `T2` · evolving memory / cognitive trajectory · <https://github.com/EvolvingAgentsLabs/evolving-memory>
+- **EvolvingAgentsLabs/evolving-memory** — `T2` · dream-cycle consolidation -> procedural memory · <https://github.com/EvolvingAgentsLabs/evolving-memory>
 - **EvoMap/evolver-claude-code-plugin** — `T2` · GEP-powered self-evolution · <https://github.com/EvoMap/evolver-claude-code-plugin>
 - **RangeKing/self-evolving-agent** — `T2` · correct governance model · <https://github.com/RangeKing/self-evolving-agent>
 - **191341025/Self-Evolving-Skill** — `T2` · five-gate knowledge governance · <https://github.com/191341025/Self-Evolving-Skill>
 - **DiaaAj/a-mem-mcp** — `T2` · self-evolving graph memory MCP · <https://github.com/DiaaAj/a-mem-mcp>
 - **memory-graph/memory-graph** — `T2` · temporal graph memory MCP · <https://github.com/memory-graph/memory-graph>
 - **ipiton/agent-memory-mcp** — `T2` · agent persistent memory MCP · <https://github.com/ipiton/agent-memory-mcp>
+- **BerriAI/self-improving-agent** — `T2` · self-improvement as PR (minimal diff, human approves) · <https://github.com/BerriAI/self-improving-agent>
 - **LuckyGirl-XU/Awesome-Agent-Dynamic-Graphs** — `T3` · research-index: agent dynamic graphs · <https://github.com/LuckyGirl-XU/Awesome-Agent-Dynamic-Graphs>
 - **DataArcTech/Awesome-Agent-Skill-Papers** — `T3` · research-index: agent skill papers · <https://github.com/DataArcTech/Awesome-Agent-Skill-Papers>
 
-## agent-runtime (15)
+## agent-runtime (18)
 
 - **XiaoConstantine/herdr-workflow** — `T0` · composable event-sourced multi-agent workflow; agents propose immutable evidence, reducers own lifecycle · <https://github.com/XiaoConstantine/herdr-workflow>
 - **broomva/arcan** — `T0` · tiny agent kernel; event sourcing done correctly · <https://github.com/broomva/arcan>
+- **alecnielsen/adversarial-review** — `T1` · 4-phase adversarial debate loop · <https://github.com/alecnielsen/adversarial-review>
+- **Ahren09/AgentReview** — `T1` · peer-review process simulation (37.1% reviewer bias) · <https://github.com/Ahren09/AgentReview>
 - **prometheus-eval/cmu-paper-reviewer** — `T1` · CMU paper reviewer (5 critical issues) · <https://github.com/prometheus-eval/cmu-paper-reviewer>
 - **wan-huiyan/agent-review-panel** — `T1` · 16-phase adversarial review panel (claim/severity verify + judge) · <https://github.com/wan-huiyan/agent-review-panel>
 - **pydantic/pydantic-ai** — `T2` · Python agent shell · <https://github.com/pydantic/pydantic-ai>
 - **microsoft/autogen** — `T2` · agent framework (LangGraph-alt) · <https://github.com/microsoft/autogen>
 - **langchain-ai/langgraph** — `T2` · benchmark target, not foundation · <https://github.com/langchain-ai/langgraph>
+- **EverMind-AI/EverOS** — `T2` · local-first memory runtime (Markdown+SQLite+LanceDB) · <https://github.com/EverMind-AI/EverOS>
 - **restatedev/restate** — `T3` · distributed stateful actors + durable calls · <https://github.com/restatedev/restate>
 - **temporalio/temporal** — `T3` · mature durable execution (we already run it) · <https://github.com/temporalio/temporal>
 - **dbos-inc/dbos-transact-py** — `T3` · durable execution on Postgres · <https://github.com/dbos-inc/dbos-transact-py>
@@ -52,15 +56,15 @@ Tier: 0=clone-first · 1=ingest · 2=architecture · 3=watch
 
 ## compilers (5)
 
-- **xoai/sage-wiki** — `T0` · graph as compile output · <https://github.com/xoai/sage-wiki>
 - **rhanka/graphify** — `T0` · extract->canonicalize->reconcile->typed graph · <https://github.com/rhanka/graphify>
 - **obra/knowledge-graph** — `T0` · query a vault as a KG; agent interface · <https://github.com/obra/knowledge-graph>
 - **yoheinakajima/instagraph** — `T0` · text->graph; our graph.json uses its schema · <https://github.com/yoheinakajima/instagraph>
 - **iwe-org/seventeen-centuries** — `T0` · philosophy markdown-graph (fragments+concepts) · <https://github.com/iwe-org/seventeen-centuries>
+- **xoai/sage-wiki** — `T2` · graph-as-compile-output · <https://github.com/xoai/sage-wiki>
 
 ## datasets (7)
 
-- **allenai/scifact** — `T1` · scientific claim<->evidence gold · <https://github.com/allenai/scifact>
+- **allenai/scifact** — `T1` · claim<->evidence gold (SUPPORT/CONTRADICT) · <https://github.com/allenai/scifact>
 - **jiho283/FactKG** — `T1` · 108k claims with reasoning structures · <https://github.com/jiho283/FactKG>
 - **swarnaHub/ExplaGraphs** — `T1` · argument->explanation graph · <https://github.com/swarnaHub/ExplaGraphs>
 - **kixlab/suggestbot_dataset** — `T1` · verifiable claims + supporting/refuting info · <https://github.com/kixlab/suggestbot_dataset>
@@ -73,7 +77,7 @@ Tier: 0=clone-first · 1=ingest · 2=architecture · 3=watch
 - **infinitywings/rka** — `T0` · research-workflow-as-state; supersession/staleness propagation · <https://github.com/infinitywings/rka>
 - **aaronsb/knowledge-graph-system** — `T0` · Kappa Graph: supporting vs contradicting evidence, grounding · <https://github.com/aaronsb/knowledge-graph-system>
 - **vouchdev/vouch** — `T0` · git-native write/review gate (don't rebuild) · <https://github.com/vouchdev/vouch>
-- **eigenius/eigenius** — `T0` · typed knowledge classes (Declared/Observed/Derived/Verified) · <https://github.com/eigenius/eigenius>
+- **eigenius/eigenius** — `T0` · grade model (declared<observed<derived<verified) · <https://github.com/eigenius/eigenius>
 - **Detective-XH/DocGraph** — `T0` · SQLite KG + drift audits (staleness) · <https://github.com/Detective-XH/DocGraph>
 - **mntlra/knowledgeProvenance** — `T1` · PROV-K nanopubs: multi-source assertions + trust networks · <https://github.com/mntlra/knowledgeProvenance>
 

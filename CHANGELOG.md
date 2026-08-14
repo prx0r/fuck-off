@@ -309,3 +309,14 @@ imposed.
 - **Review bias** (`experiment-review-bias.py`): our cross-review consensus threshold is robust to the
   37.1% reviewer-bias problem AgentReview measured (a single biased reviewer can't block a sound claim).
 - Test suite 22 → **25/25 pass**.
+
+## 2026-08-14 (cont.) — experimental agentic/full-stack repos: self-improving-agent, evolving-memory, EverOS
+- **Cloned (clean):** BerriAI/self-improving-agent (1.9M), EvolvingAgentsLabs/evolving-memory (2.2M),
+  EverMind-AI/EverOS (15M).
+- **Self-improvement as PR** (`experiment-self-improve.py`): an agent's proposal to inflate a ceiling is
+  wrapped as a Proposal (diff+reason); our herdr gate CHALLENGES weak evidence (non-independent sources)
+  and rejects it — safe self-improvement, never silent mutation.
+- **Evolving memory consolidation** (`experiment-evolving-memory.py`): dream-cycle (curator/compactor/
+  connector) applied to our claims — verbose low-access draft compacted (314->77), high-value kept,
+  free-will argument chain linked into a stable memory graph (Layer 09 procedural memory).
+- GitHub index 85 → **89 repos**. Test suite 25 → **27/27 pass**.

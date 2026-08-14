@@ -1,5 +1,5 @@
 {
- "count": 85,
+ "count": 89,
  "entries": [
   {
    "owner": "infinitywings",
@@ -39,7 +39,7 @@
    "category": "epistemic",
    "tier": 0,
    "tier_label": "clone-first",
-   "note": "typed knowledge classes (Declared/Observed/Derived/Verified)"
+   "note": "grade model (declared<observed<derived<verified)"
   },
   {
    "owner": "Detective-XH",
@@ -57,9 +57,9 @@
    "repo": "xoai/sage-wiki",
    "url": "https://github.com/xoai/sage-wiki",
    "category": "compilers",
-   "tier": 0,
-   "tier_label": "clone-first",
-   "note": "graph as compile output"
+   "tier": 2,
+   "tier_label": "architecture",
+   "note": "graph-as-compile-output"
   },
   {
    "owner": "rhanka",
@@ -99,7 +99,7 @@
    "category": "datasets",
    "tier": 1,
    "tier_label": "ingest",
-   "note": "scientific claim<->evidence gold"
+   "note": "claim<->evidence gold (SUPPORT/CONTRADICT)"
   },
   {
    "owner": "jiho283",
@@ -659,7 +659,7 @@
    "category": "agent-memory",
    "tier": 2,
    "tier_label": "architecture",
-   "note": "evolving memory / cognitive trajectory"
+   "note": "dream-cycle consolidation -> procedural memory"
   },
   {
    "owner": "EvoMap",
@@ -790,6 +790,46 @@
    "tier": 2,
    "tier_label": "architecture",
    "note": "Open Knowledge Format (OKF)"
+  },
+  {
+   "owner": "BerriAI",
+   "name": "self-improving-agent",
+   "repo": "BerriAI/self-improving-agent",
+   "url": "https://github.com/BerriAI/self-improving-agent",
+   "category": "agent-memory",
+   "tier": 2,
+   "tier_label": "architecture",
+   "note": "self-improvement as PR (minimal diff, human approves)"
+  },
+  {
+   "owner": "EverMind-AI",
+   "name": "EverOS",
+   "repo": "EverMind-AI/EverOS",
+   "url": "https://github.com/EverMind-AI/EverOS",
+   "category": "agent-runtime",
+   "tier": 2,
+   "tier_label": "architecture",
+   "note": "local-first memory runtime (Markdown+SQLite+LanceDB)"
+  },
+  {
+   "owner": "alecnielsen",
+   "name": "adversarial-review",
+   "repo": "alecnielsen/adversarial-review",
+   "url": "https://github.com/alecnielsen/adversarial-review",
+   "category": "agent-runtime",
+   "tier": 1,
+   "tier_label": "ingest",
+   "note": "4-phase adversarial debate loop"
+  },
+  {
+   "owner": "Ahren09",
+   "name": "AgentReview",
+   "repo": "Ahren09/AgentReview",
+   "url": "https://github.com/Ahren09/AgentReview",
+   "category": "agent-runtime",
+   "tier": 1,
+   "tier_label": "ingest",
+   "note": "peer-review process simulation (37.1% reviewer bias)"
   },
   {
    "owner": "yoheinakajima",

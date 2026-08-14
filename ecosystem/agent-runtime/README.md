@@ -26,3 +26,6 @@ runtime yet.
 
 | alecnielsen/adversarial-review | **CLONED** (304K) — 4-phase adversarial debate loop; added cross-review to our kernel |
 | Ahren09/AgentReview | **CLONED** (5.6M) — peer-review process simulation; 37.1% reviewer-bias finding; tested our bias-robustness |
+
+| BerriAI/self-improving-agent | **CLONED** (1.9M) — self-improvement as PR; our herdr gate rejects weak proposals |
+| EverMind-AI/EverOS | **CLONED** (15M) — local-first memory runtime (Markdown+SQLite+LanceDB, user/agent tracks) |
