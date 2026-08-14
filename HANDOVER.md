@@ -275,32 +275,46 @@ rclone check <local> r2:atlas-sources/informationphilosopher  # R2 backup integr
       verifiable-reward, 8/8), `structure_recall` (SAGE, 9/9). + `COHERENCE-AUDIT.md` (the proof that
       every kernel → patala layer + every frontier build → patala product).
  16. **FINAL STATE: 75/75 tests, 35 experiments PROVEN on real data / 39 mechanism / 0 unproven (74
-      audited), 37 kernels, 8 product visions, 75-experiment matrix, 48 cloned repos, fully traceable,
-      graduation done (Doyle 14/14 + IPK 18/18), ultimate v3 product (13/13), read plane built,
-      VISION F (self-provenance) built, 8 infra gems + 4 evolution steals integrated, coherent by
-      layer (COHERENCE-AUDIT).**
+       audited), 37 kernels, 8 product visions, 75-experiment matrix, 48 cloned repos, fully traceable,
+       graduation done (Doyle 14/14 + IPK 18/18), ultimate v3 product (13/13), read plane built,
+       VISION F (self-provenance) built, 8 infra gems + 4 evolution steals integrated, coherent by
+       layer (COHERENCE-AUDIT).**
+ 17. **INTEGRATION BUILD (later session):** per the master devplan, integrated with patala's mature
+       factory. Added: `ingest-ipvv-gold.py` (5/5, validates the 49 REAL patala IPVV gold passages with my
+       TranslationProof + integrity gate), `translation-audit-compiler.py` (SPEC-16 §30 CLI),
+       `projection_dag.py` (6/6, the SPEC-00 §22 per-artifact incremental — new doc ≠ whole corpus rebuild),
+       `factory_pool.py` (parallel DAG-gated workers), `hermes_exec.py` (agentic generation), `commentary_lift.py`,
+       `pushing_miner.py`. The other agent completed OpenAlex-for-Sanskrit v1 (47k SOURCE, /resolve crosswalk,
+       release, work pages). Created `devplans/` (4 canonical plans: master-integration, translation-production,
+       read-plane-organism, tantraloka-production) + copied to shared.
+ 18. **FINAL STATE (current): 45 kernels, 91 experiments, 82/82 tests, fully traceable. The integration
+       is REAL: patala produces the gold/factory; my read plane + organism + validation kernels validate
+       and serve it. The canonical devplan set is locked in `devplans/`.**
 
 ---
 
 ## 12. READ-ME-FIRST CHECKLIST (for the new agent)
 
-**Fastest orientation (3 reads):** `COHERENCE-AUDIT.md` (what the whole thing is, by layer) →
-`ORGANISM-OPERATING-MODEL.md` (how it lives: ingest/teach/publish + durable/secure) →
-`KERNELS-INDEX.md` (the 37 kernels to reuse, don't rebuild).
+**Fastest orientation (3 reads):** `devplans/MASTER-INTEGRATION-DEVPLAN.md` (the canonical integration
+build) → `COHERENCE-AUDIT.md` (what the whole thing is, by layer) → `KERNELS-INDEX.md` (the 45 kernels to
+reuse, don't rebuild).
 
-1. Read `AGENTS.md` — the axioms (esp. axiom 12: every artifact must resolve, axiom 22: every doc).
+1. Read `AGENTS.md` — the axioms (esp. axiom 4/5: reuse don't rebuild, never ignore mature infra; axiom
+   12: every artifact must resolve; axiom 22: every doc).
 2. Read `NAVIGATION.md` → `TRACEABILITY-MAP.md` → `HANDOVER.md` (this file).
-3. Read `COHERENCE-AUDIT.md` — the zoom-out: every kernel → patala layer, every frontier build →
-   patala product. **This is the "what did we build" answer.**
-4. Read `ORGANISM-OPERATING-MODEL.md` — how the organism ingests/translates/teaches/publishes + stays
+3. Read `devplans/` — the canonical build plans (master-integration, translation-production,
+   read-plane-organism, tantraloka-production). **This is where we're going.**
+4. Read `COHERENCE-AUDIT.md` — the zoom-out: every kernel → patala layer, every frontier build → patala product.
+5. Read `ORGANISM-OPERATING-MODEL.md` — how the organism ingests/translates/teaches/publishes + stays
    durable/secure.
-5. Read `MASTER-KNOWLEDGE-BASE.md` + `KERNELS-INDEX.md` — reuse the 37 kernels, don't rebuild.
-6. Read `LAB-REVIEW.md` — what's proven vs exploratory.
+6. Read `MASTER-KNOWLEDGE-BASE.md` + `KERNELS-INDEX.md` — reuse the 45 kernels, don't rebuild.
 7. Read §5 essay-ingest architecture — the source-text vs essay-about-source vs standalone design.
-8. Read `migration/v3/ULTIMATE-OPTIMIZED-PRODUCT.md` — the IPVV graduation (18/18) + product stack.
+8. Read `tantraloka/` (run-all.py harness + PROGRESS-STATUS) — the live 7-stage Tantrāloka suite.
 9. Check `TODO.md` + `GAPS.md` + `STATE.yaml` + `state.json` — the live state.
-10. Run `scripts/run-tests.py` (75/75, incl all gates) + `scripts/theatre-check-all.py` + `audit-state.py`
+10. Run `scripts/run-tests.py` (82/82, incl all gates) + `scripts/theatre-check-all.py` + `audit-state.py`
     before claiming anything done.
+11. **The integration is REAL:** patala produces the gold/factory; my read plane + organism + validation
+    kernels validate and serve it. The next build phases are in `devplans/`.
 
 **The single most important next step:** widen the IPVV run — run `validate-product-stack.py` +
 `validate-graduation-ipvv.py` over MANY real IPK kārikās (a real IPVV corpus pass), feeding the produced
