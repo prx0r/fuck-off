@@ -1,6 +1,6 @@
 # KERNELS-INDEX — the reusable kernels (what's in lib/, what it does, how it's validated)
 
-*2026-08-14. The agent-facing map of every reusable kernel (now 46). Reuse these — never rebuild. Each
+*2026-08-14. The agent-facing map of every reusable kernel (now 47). Reuse these — never rebuild. Each
 maps to: what it is · layer · vision · the experiment(s) that validate it · honest status.*
 
 | Kernel | What it does | Layer | Vision | Validated by | Status |

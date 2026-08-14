@@ -1,0 +1,1083 @@
+{
+ "count": 49,
+ "passages": [
+  {
+   "chunk": "chunkV3-H-kriya-caturtho-k12-19.md",
+   "sanskrit_chars": 48976,
+   "l2_chars": 4804,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 5221,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkH-k1.8-caitanyamajada-pratibimba.md",
+   "sanskrit_chars": 44925,
+   "l2_chars": 3048,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 4461,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkE-cit-acid-dvairasya.md",
+   "sanskrit_chars": 39839,
+   "l2_chars": 2620,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 4033,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkJ-k1.11-kartapi-kalpita.md",
+   "sanskrit_chars": 8192,
+   "l2_chars": 2913,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 899,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkV3-G-kriya-caturtho-k1-11.md",
+   "sanskrit_chars": 39509,
+   "l2_chars": 4009,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 3975,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkV3-N-tattva-prathamo-k1-8.md",
+   "sanskrit_chars": 35708,
+   "l2_chars": 4022,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 3827,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkV3-B-kriya-dvitiyo-k1-7.md",
+   "sanskrit_chars": 64709,
+   "l2_chars": 72,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 6696,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkV2-J-pancamo-vimarsa-k19-20.md",
+   "sanskrit_chars": 40127,
+   "l2_chars": 2831,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 4170,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkV2-K-pancamo-vimarsa-k20-21.md",
+   "sanskrit_chars": 40360,
+   "l2_chars": 3554,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 4133,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkV3-D-kriya-trtiyo-k3-8.md",
+   "sanskrit_chars": 52255,
+   "l2_chars": 4277,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 5317,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkV2-L-sastho-vimarsa-smrti-apohana.md",
+   "sanskrit_chars": 41444,
+   "l2_chars": 2545,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 4415,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkV3-I-kriya-caturtho-close-k20-21.md",
+   "sanskrit_chars": 23201,
+   "l2_chars": 3647,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 2419,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkV3-P-tattva-caturtho-close-k1-3.md",
+   "sanskrit_chars": 11466,
+   "l2_chars": 4169,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 1085,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkV2-H-pancamo-vimarsa-k11-13.md",
+   "sanskrit_chars": 40739,
+   "l2_chars": 3323,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 4160,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkM-jnanadhikara-reflexion-core.md",
+   "sanskrit_chars": 41914,
+   "l2_chars": 3016,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 4443,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkL-memory-error-sankaranandana.md",
+   "sanskrit_chars": 34887,
+   "l2_chars": 3085,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 3662,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkA-svatyandya.md",
+   "sanskrit_chars": 23466,
+   "l2_chars": 3016,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 2138,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkF-upoddhata-k1-7.md",
+   "sanskrit_chars": 32094,
+   "l2_chars": 3082,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 3203,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkV3-J-agama-prathamo-k1-7.md",
+   "sanskrit_chars": 38437,
+   "l2_chars": 4175,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 3682,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkV2-C-vistanti-ajadapramatrsiddhi.md",
+   "sanskrit_chars": 32766,
+   "l2_chars": 3047,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 3323,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkV2-S-astamo-close-jnanadhikara.md",
+   "sanskrit_chars": 9852,
+   "l2_chars": 3196,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 1075,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkI-k1.9-1.10-kriya-karyakarana.md",
+   "sanskrit_chars": 28685,
+   "l2_chars": 2625,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 2988,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkV3-K-agama-prathamo-k8-11-close.md",
+   "sanskrit_chars": 37533,
+   "l2_chars": 3371,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 3935,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkV2-F-pancamo-vimarsa-k6.md",
+   "sanskrit_chars": 41197,
+   "l2_chars": 2951,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 4047,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkV2-Q-saptamo-k11-close.md",
+   "sanskrit_chars": 22086,
+   "l2_chars": 2829,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 2228,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkV3-C-kriya-trtiyo-k1-2.md",
+   "sanskrit_chars": 47984,
+   "l2_chars": 4683,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 4923,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkV2-D-pancamo-vimarsa-jnanasakti.md",
+   "sanskrit_chars": 36847,
+   "l2_chars": 3191,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 3756,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkV2-R-astamo-vimarsa.md",
+   "sanskrit_chars": 38907,
+   "l2_chars": 2521,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 4097,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkV3-E-kriya-trtiyo-k9-17.md",
+   "sanskrit_chars": 51927,
+   "l2_chars": 5317,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 5260,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkB-eligibility-gita.md",
+   "sanskrit_chars": 17240,
+   "l2_chars": 2808,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 1633,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkV2-N-sastho-k8-11.md",
+   "sanskrit_chars": 18770,
+   "l2_chars": 3175,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 1842,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkC-svatma-maya-upanishad.md",
+   "sanskrit_chars": 35087,
+   "l2_chars": 3292,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 3660,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkV2-O-saptamo-vimarsa.md",
+   "sanskrit_chars": 40862,
+   "l2_chars": 2336,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 4121,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkV3-F-kriya-trtiyo-close.md",
+   "sanskrit_chars": 26031,
+   "l2_chars": 4231,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 2555,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkV3-L-agama-dvitiyo-k1-11.md",
+   "sanskrit_chars": 34590,
+   "l2_chars": 3610,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 3463,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkV2-B-sahajavimarsa-prakasavimarsa.md",
+   "sanskrit_chars": 34773,
+   "l2_chars": 3089,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 3563,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkV2-I-pancamo-vimarsa-k14-19.md",
+   "sanskrit_chars": 36000,
+   "l2_chars": 3134,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 3922,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkG-k1.2.7-1.8-citsvarupam.md",
+   "sanskrit_chars": 35272,
+   "l2_chars": 3493,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 3687,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkV2-E-pancamo-jnanasakti-k5.md",
+   "sanskrit_chars": 42231,
+   "l2_chars": 3028,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 3967,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkV2-M-sastho-vimarsa-k6-7.md",
+   "sanskrit_chars": 38017,
+   "l2_chars": 3438,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 3741,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkV2-P-saptamo-k5-10.md",
+   "sanskrit_chars": 42351,
+   "l2_chars": 3012,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 4485,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkK-purvapaksa-siddhanta.md",
+   "sanskrit_chars": 30725,
+   "l2_chars": 2695,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 3235,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkV3-O-tattva-trtiyo-k9-15.md",
+   "sanskrit_chars": 32173,
+   "l2_chars": 4497,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 3299,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkV3-M-agama-dvitiyo-close-k12-20.md",
+   "sanskrit_chars": 41457,
+   "l2_chars": 3605,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 4163,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkV2-G-pancamo-vimarsa-k7-10.md",
+   "sanskrit_chars": 40352,
+   "l2_chars": 3337,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 4152,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkN-close-mahesvara-saktis.md",
+   "sanskrit_chars": 37950,
+   "l2_chars": 2972,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 3849,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkD-memory-pramana.md",
+   "sanskrit_chars": 35470,
+   "l2_chars": 3175,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 3636,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkV3-A-kriya-prathamo-k1-2.md",
+   "sanskrit_chars": 40134,
+   "l2_chars": 4604,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 4061,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  },
+  {
+   "chunk": "chunkV2-A-caturtho-vimarsa-aham.md",
+   "sanskrit_chars": 34520,
+   "l2_chars": 3017,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 3349,
+    "syntax": "PASS"
+   },
+   "real_obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED",
+   "primary": true
+  }
+ ]
+}

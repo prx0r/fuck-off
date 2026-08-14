@@ -1,5 +1,5 @@
 {
- "count": 92,
+ "count": 94,
  "entries": [
   {
    "script": "validate-layer03-05.py",
@@ -810,6 +810,24 @@
    "kernel": "proof-generators",
    "status": "RUN",
    "note": "the real Sanskrit proof-generator lattice (Vidyut SLP1 + token floor + negation): real analysis into TranslationProof, not hand-filled \u2014 9/9"
+  },
+  {
+   "script": "ingest-ipvv-gold-proofs.py",
+   "layer": "L03",
+   "source": "49 real IPVV gold passages",
+   "vision": "Verified Epistemic OS",
+   "kernel": "ipvv-real-proofs",
+   "status": "RUN",
+   "note": "corpus-scale real TranslationProofs: the proof generators run on all 49 gold passages' real Sanskrit \u2014 7/7"
+  },
+  {
+   "script": "validate-organism-factory-bridge.py",
+   "layer": "ALL",
+   "source": "real patala corpus_state FSM",
+   "vision": "Verified Epistemic OS",
+   "kernel": "organism-factory",
+   "status": "RUN",
+   "note": "the organism\u2192factory loop: my next_action ranks WHAT + patala's FSM returns the legal action (tantraloka \u2192 BUILD_L0_SOURCE_MODE) \u2014 6/6"
   },
   {
    "script": "run-tantraloka-autonomous.py",

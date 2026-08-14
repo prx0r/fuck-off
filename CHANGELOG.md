@@ -1023,3 +1023,12 @@ Per the master devplan Phase 1 (the highest-leverage gap). Reuse, don't rebuild:
   lattice PASS, all real. The publication gate stays BLOCKED until human adjudication.
 - Also added `lib/projection_dag.py` (6/6, SPEC-00 §22 per-artifact incremental) earlier.
 - 46 kernels, 92 experiments.
+
+## 2026-08-14 (real corpus-scale proofs + organism→factory loop)
+- **`scripts/ingest-ipvv-gold-proofs.py`** (7/7) — the real proof generators (Vidyut SLP1 + token floor +
+  negation) now run on ALL 49 real IPVV gold passages' Sanskrit → real 11-dim TranslationProofs (not
+  hand-filled). data/references/ipvv-gold-proofs.json.
+- **`lib/organism_factory_bridge.py`** + `validate-organism-factory-bridge.py` (6/6) — the organism→factory
+  loop: my next_action ranks WHAT (tantraloka first, prio 25.1) + patala's corpus_state FSM returns the
+  legal action (BUILD_L0_SOURCE_MODE, 111 works). "Decide WHAT by formula + decide the legal move."
+- 47 kernels, 94 experiments.

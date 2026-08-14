@@ -1,6 +1,6 @@
 # EXPERIMENT MATRIX — what's been tested
 
-*2026-08-14. 92 experiments mapped to layer / source repo / vision / kernel / result.*
+*2026-08-14. 94 experiments mapped to layer / source repo / vision / kernel / result.*
 Machine form: `data/references/experiments.json`.
 
 ## Argument Map (7)
@@ -102,7 +102,7 @@ Machine form: `data/references/experiments.json`.
 | `experiment-causal-operational-graph.py` | L12 | patalamix review #12 | causal-operational | RUN |
 | `experiment-signed-statement.py` | L12 | cosign (cloned) | signing | RUN |
 
-## Verified Epistemic OS (49)
+## Verified Epistemic OS (51)
 
 | script | layer | source | kernel | result |
 |--------|-------|--------|--------|--------|
@@ -114,6 +114,7 @@ Machine form: `data/references/experiments.json`.
 | `experiment-reactive-essay.py` | L12 | SPEC-19 #4 | reactive | PASS |
 | `experiment-signed-corpus.py` | L12 | SPEC-19 #6/7 | merkle | PASS |
 | `experiment-verified-lifecycle.py` | ALL | the OS synthesis | all | PASS |
+| `ingest-ipvv-gold-proofs.py` | L03 | 49 real IPVV gold passages | ipvv-real-proofs | RUN |
 | `ingest-ipvv-gold.py` | L03 | 49 real patala IPVV gold passages | ipvv-gold-bridge | RUN |
 | `rebuild-on-commit.py` | L06 | real corpus inputs | compute-on-write | RUN |
 | `run-tantraloka-autonomous.py` | ALL | real Ahnika-1 karikas + next_action + Hermes | tantraloka-autonomous | RUN |
@@ -137,6 +138,7 @@ Machine form: `data/references/experiments.json`.
 | `validate-lightrag-compare.py` | L10 | real graph + LightRAG (HKUDS ⭐38k) | lightrag | RUN |
 | `validate-next-action.py` | L12 | IPK tasks | next-action | RUN |
 | `validate-open-ended-evolve.py` | L05 | Darwin Godel (dgm ⭐2.2k) | open-ended-evolve | RUN |
+| `validate-organism-factory-bridge.py` | ALL | real patala corpus_state FSM | organism-factory | RUN |
 | `validate-projection-dag.py` | L06 | simulated work-page projection DAG | projection-dag | RUN |
 | `validate-proof-generators.py` | L03 | real AbhT_1.52 kārikā via Vidyut | proof-generators | RUN |
 | `validate-provenance.py` | L02 | knowledgeProvenance (cloned) | provenance | PASS |
