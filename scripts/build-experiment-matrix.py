@@ -76,6 +76,7 @@ MATRIX = {
   "experiment-gem-extraction.py": ("L04", "pushing-tantraloka", "Enquiry-Discovery", "gem-extraction", "agentic enquiry→unseen gems (PENETRATION 1)"),
   "experiment-claim-standardisation.py": ("L06", "comparative pushing", "Comparative Philosophy", "standardisation", "structural claim vs tradition vocab/boundary"),
   "audit-traceability.py": ("ALL", "index docs", "Verified Epistemic OS", "traceability", "every .md resolves to an index doc — no orphaned artifacts"),
+  "validate-graduation.py": ("ALL", "real graph/argument/canonical-dag", "Verified Epistemic OS", "graduation", "THE full graduation: one claim (I5) through the whole organism + premise mutation → staleness→reactive essay→pedagogy→organism→signed re-release — 14/14"),
 }
 
 def main():

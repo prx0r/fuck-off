@@ -113,6 +113,7 @@ graph after adding text, run `build-graph.py`.
 | `migration/v2/PUSHING-ORGANISM-ESSAYS.md` | logicvid + organism + essays-as-machine |
 | `migration/v2/ESSAY-INGEST.md` | the 9-stage essay-as-derivation-input pipeline |
 | `migration/v2/INGESTION-ARCHITECTURE.md` | source-text vs essay-about-source vs standalone |
+| `migration/v2/GRADUATION.md` | the full organism test is real (one claim, whole stack, 14/14) |
 | `KERNELS-INDEX.md` | the reusable kernels (reuse map) |
 | `MASTER-KNOWLEDGE-BASE.md` | the synthesized master reference (17 kernels · 51 experiments · 32 arXiv · 99 repos · 46 specs) |
 | `BUILDNOTES.md` | full build history + decisions |

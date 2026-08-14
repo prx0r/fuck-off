@@ -47,9 +47,9 @@ stack) is what makes a mechanism real.
 **`scripts/theatre-check-all.py`** runs every experiment and stores a proof record (test exists +
 passes + real-data + claim + hash) → `data/references/theatre-proofs-all.json`.
 
-**Result (51 experiments, self excluded):**
+**Result (52 experiments, self excluded):**
 ```
-24 experiments PROVEN on real data
+25 experiments PROVEN on real data
 27 PROVEN-MECHANISM (synthetic — mechanism works, not integrated)
  0 UNPROVEN
 ```
@@ -163,10 +163,17 @@ From **patalamix (SPEC-32)** + the v2 migration:
 
 ## 9. EXACTLY WHAT TO DO NEXT (prioritized)
 
-**P0 — the graduation test** (the biggest lever, patalamix #15):
-Build ONE claim end-to-end on real evidence (use the two-stage free-will argument as the stand-in for
-IPVV), then MUTATE a premise and verify the whole organism reacts (staleness→reactive essay→pedagogy
-regeneration→signed re-release). This turns the lab into the kernel. `validate-stack.py` starts it.
+**✅ DONE — P0, the graduation test** (`validate-graduation.py`, **14/14 on real data**):
+One claim (I5, two-stage free-will) now runs through the WHOLE organism: ingest → envelope → review →
+**MUTATE premise I1** → staleness blast-radius → reactive essay (prose stale) → pedagogy (learner
+re-examined) → organism (misconception = signal) → signed re-release → invariant still 0 violations.
+This is the anti-theatre proof that turns the lab into the kernel. See `migration/v2/GRADUATION.md`.
+
+**P0 — the IPVV graduation (the next real milestone):**
+Re-run the graduation on a REAL IPVV claim (not the Doyle two-stage stand-in): one Īśvarapratyabhijñā
+kārikā claim through the whole organism, with a real commentary (Ratié) feeding the essay/education
+stages and a real source mutation. This is the "graduation on the actual corpus" the whole lab was
+built toward.
 
 **P1 — close the review gaps:**
 1. **Signed human attestation** (gap E) — replace plain `human_authorize()` with a cosign-style signed
@@ -187,8 +194,9 @@ regeneration→signed re-release). This turns the lab into the kernel. `validate
 ## 10. KEY COMMANDS
 
 ```bash
-python3 scripts/run-tests.py              # full suite (52/52, incl traceability gate)
+python3 scripts/run-tests.py              # full suite (53/53, incl traceability + graduation gates)
 python3 scripts/audit-traceability.py     # every .md resolves to an index doc (agent-org gate)
+python3 scripts/validate-graduation.py    # THE full organism graduation test (14/14 on real data)
 python3 scripts/validate-essay-ingest.py  # essay-ingest pipeline (8/8 on real Ratié)
 python3 scripts/theatre-check.py          # kernel theatre audit (verifiable proofs)
 python3 scripts/theatre-check-all.py      # ALL-experiment theatre audit (51: 24/27/0)
@@ -220,24 +228,31 @@ rclone check <local> r2:atlas-sources/informationphilosopher  # R2 backup integr
    `migration/v2/ESSAY-INGEST.md` (9 stages × kernel × why) and `migration/v2/INGESTION-ARCHITECTURE.md`
    (source-text vs essay-about-source vs standalone essay, KORAL two-graph). Fixed the theatre audit
    self-recursion bug (audit no longer audits itself).
-9. **FINAL STATE: 52/52 tests, 24 experiments PROVEN on real data / 27 mechanism / 0 unproven,
-   17 kernels, 8 product visions, 52-experiment matrix, 41 cloned repos (20 validated + 21 reference),
-   fully traceable (audit-traceability gate = every .md resolves).**
+9. **GRADUATION (this session):** the P0 milestone is DONE. Built `validate-graduation.py` — the full
+   organism test (**14/14 on real data**): one real claim (I5) through ingest→envelope→review→
+   **MUTATE premise I1**→staleness→reactive essay→pedagogy→organism→signed re-release→invariant
+   (0 violations). Wrote `migration/v2/GRADUATION.md`. Also: `audit-traceability.py` gate (every .md
+   resolves) + fixed 13 doc-traceability gaps + AGENTS axiom 22 (docs resolve, agent-optimized).
+10. **FINAL STATE: 53/53 tests, 25 experiments PROVEN on real data / 27 mechanism / 0 unproven,
+    17 kernels, 8 product visions, 53-experiment matrix, 41 cloned repos (20 validated + 21 reference),
+    fully traceable (audit-traceability gate = every .md resolves), graduation done (validate-graduation 14/14).**
 
 ---
 
 ## 12. READ-ME-FIRST CHECKLIST (for the new agent)
 
-1. Read `AGENTS.md` — the axioms (esp. axiom 12: every artifact must resolve).
+1. Read `AGENTS.md` — the axioms (esp. axiom 12: every artifact must resolve, axiom 22: every doc).
 2. Read `NAVIGATION.md` → `TRACEABILITY-MAP.md` → `HANDOVER.md` (this file).
 3. Read `LAB-REVIEW.md` — what's proven vs exploratory.
 4. Read `KERNELS-INDEX.md` — reuse the 17 kernels, don't rebuild.
 5. Read §5 essay-ingest architecture — the source-text vs essay-about-source vs standalone design.
-6. Check `TODO.md` + `GAPS.md` + `STATE.yaml` — the live state.
-7. Run `scripts/run-tests.py` (52/52, incl the traceability gate) + `scripts/theatre-check-all.py`
+6. Read `migration/v2/GRADUATION.md` — the full organism test (P0 DONE).
+7. Check `TODO.md` + `GAPS.md` + `STATE.yaml` — the live state.
+8. Run `scripts/run-tests.py` (53/53, incl traceability + graduation gates) + `scripts/theatre-check-all.py`
    before claiming anything done.
-8. Pick the graduation test (§9 P0) as the next real milestone.
+9. Pick the IPVV graduation (§9 P0) as the next real milestone.
 
-**The single most important next step:** the graduation test — ONE claim through the whole stack
-(source→translation→proof→proposition→argument→review→attestation→synthesis→essay→education→
-agent-bundle), then MUTATE the source and watch the organism react. That turns the lab into the kernel.
+**The single most important next step:** the IPVV graduation — re-run `validate-graduation.py` on a REAL
+IPVV kārikā claim (not the Doyle stand-in), with the Ratié commentary feeding the essay/education stages
+and a real source mutation. The Doyle graduation (14/14) proves the mechanism; the IPVV one proves the
+actual corpus target.

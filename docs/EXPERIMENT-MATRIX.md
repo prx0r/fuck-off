@@ -1,6 +1,6 @@
 # EXPERIMENT MATRIX — what's been tested
 
-*2026-08-14. 52 experiments mapped to layer / source repo / vision / kernel / result.*
+*2026-08-14. 53 experiments mapped to layer / source repo / vision / kernel / result.*
 Machine form: `data/references/experiments.json`.
 
 ## Argument Map (7)
@@ -100,7 +100,7 @@ Machine form: `data/references/experiments.json`.
 | `experiment-causal-operational-graph.py` | L12 | patalamix review #12 | causal-operational | RUN |
 | `experiment-signed-statement.py` | L12 | cosign (cloned) | signing | RUN |
 
-## Verified Epistemic OS (11)
+## Verified Epistemic OS (12)
 
 | script | layer | source | kernel | result |
 |--------|-------|--------|--------|--------|
@@ -112,6 +112,7 @@ Machine form: `data/references/experiments.json`.
 | `experiment-verified-lifecycle.py` | ALL | the OS synthesis | all | PASS |
 | `theatre-check-all.py` | ALL | the full anti-theatre audit | verification | RUN |
 | `theatre-check.py` | ALL | the anti-theatre skill | verification | RUN |
+| `validate-graduation.py` | ALL | real graph/argument/canonical-dag | graduation | RUN |
 | `validate-layer03-05.py` | L03+L05 | herdr+RKA (cloned) | review+staleness | PASS |
 | `validate-provenance.py` | L02 | knowledgeProvenance (cloned) | provenance | PASS |
 | `validate-stack.py` | ALL | graduation test | integration | RUN |

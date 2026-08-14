@@ -24,12 +24,13 @@ product patala listed — and the **extra products** they didn't anticipate.*
 | `v2/PUSHING-ORGANISM-ESSAYS.md` | the human side: logicvid gold + organism + essays-as-machine |
 | `v2/ESSAY-INGEST.md` | the deep essay-ingest architecture (9 stages, each → proven kernel) |
 | `v2/INGESTION-ARCHITECTURE.md` | source-text vs essay-about-source vs standalone essay (KORAL two-graph) |
+| `v2/GRADUATION.md` | **the full organism test is real** — one claim through the whole stack (14/14) |
 | `v2/strategy/` | the strategic view from our side |
 
 ## The one-line summary
 
 > Patala v2 spec'd a coherent system (one kernel, one graph, clear names, 16 products).
-> We built 17 kernels + 51 experiments that PROVE the mechanisms for most of those products —
+> We built 17 kernels + 53 experiments that PROVE the mechanisms for most of those products —
 > and discovered 6 more product-level capabilities they didn't list. This folder makes every patala
 > product traceable to a proven lab mechanism, so the next agent can build them properly.
 

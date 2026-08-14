@@ -644,3 +644,15 @@ imposed.
   MASTER-KNOWLEDGE-BASE.
 - Wired into run-tests (52/52, incl traceability gate) + matrix (52 entries).
 - HANDOVER counts refreshed: 52/52 tests, theatre 24 PROVEN / 27 mechanism / 0 unproven (51 audited).
+
+## 2026-08-14 (P0 GRADUATION DONE — the full organism test is real)
+- **`validate-graduation.py` — 14/14 on real data.** The P0 milestone is closed: one REAL claim (I5,
+  two-stage free-will) runs through the ENTIRE organism on real graph/argument/canonical-DAG:
+  ingest → envelope → review → **MUTATE premise I1** → staleness blast-radius → reactive essay (prose
+  stale) → pedagogy (learner re-examined) → organism (misconception = signal) → signed re-release →
+  epistemic invariant still 0 violations.
+- **`migration/v2/GRADUATION.md`** — the proof narrative. Wired into migration README + NAVIGATION.
+- Theatre audit improved: **25 PROVEN on real data / 27 mechanism / 0 unproven** (52 audited).
+- Test suite **53/53** (adds full_graduation_organism); matrix 53.
+- HANDOVER: P0 marked DONE, new P0 = IPVV graduation (re-run on a real kārikā with the Ratié
+  commentary). Session log + commands + read-me-first refreshed.

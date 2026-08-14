@@ -1,7 +1,7 @@
 {
- "count": 51,
+ "count": 52,
  "verdicts": {
-  "PROVEN": 24,
+  "PROVEN": 25,
   "PROVEN-MECHANISM": 27
  },
  "proofs": [
@@ -616,6 +616,18 @@
    "uses_real_data": false,
    "verdict": "PROVEN-MECHANISM",
    "proof_hash": "67d54039c80d6fa3"
+  },
+  {
+   "script": "validate-graduation.py",
+   "layer": "ALL",
+   "vision": "Verified Epistemic OS",
+   "kernel": "graduation",
+   "claim": "THE full graduation: one claim (I5) through the whole organism + premise mutation \u2192 staleness\u2192reactive essay\u2192pedagogy\u2192organism\u2192signed re-release \u2014 14/14",
+   "test_exists": true,
+   "passes": true,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "b9f0fc16bdf1e50c"
   }
  ]
 }

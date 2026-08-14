@@ -1,5 +1,5 @@
 {
- "count": 52,
+ "count": 53,
  "entries": [
   {
    "script": "validate-layer03-05.py",
@@ -468,6 +468,15 @@
    "kernel": "traceability",
    "status": "RUN",
    "note": "every .md resolves to an index doc \u2014 no orphaned artifacts"
+  },
+  {
+   "script": "validate-graduation.py",
+   "layer": "ALL",
+   "source": "real graph/argument/canonical-dag",
+   "vision": "Verified Epistemic OS",
+   "kernel": "graduation",
+   "status": "RUN",
+   "note": "THE full graduation: one claim (I5) through the whole organism + premise mutation \u2192 staleness\u2192reactive essay\u2192pedagogy\u2192organism\u2192signed re-release \u2014 14/14"
   }
  ]
 }
