@@ -545,3 +545,12 @@ imposed.
   Result: **10 PROVEN (real data), 6 PROVEN-MECHANISM (synthetic — the theatre risk), 0 unproven.**
 - Added axiom 11 to AGENTS.md: run theatre-check before claiming done; PROVEN-MECHANISM is not delivery.
 - Test suite 45 → **48/48**.
+
+## 2026-08-14 (final alignment) — full theatre audit + HANDOVER
+- Fixed spec naming collisions (SPEC-40..48 logicvid now canonical, 9 files).
+- **`scripts/theatre-check-all.py`** — the FULL theatre audit across all 48 experiments with verifiable
+  proof records (test + passes + real-data + claim + hash) → theatre-proofs-all.json.
+  Result: **22 PROVEN (real data), 26 PROVEN-MECHANISM (synthetic), 0 unproven.**
+- **`HANDOVER.md`** — the complete session handover: what's built, honest state, theatre risks, the
+  gold exemplars, visions, review critiques to track, prioritized next steps, session log.
+- Wired HANDOVER into AGENTS nav + NAVIGATION. Test suite 48 → **49/49**.

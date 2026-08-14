@@ -5,294 +5,300 @@
    "name": "corpus_integrity",
    "pass": true,
    "detail": "425 records OK",
-   "ms": 196.6
+   "ms": 207.7
   },
   {
    "name": "graph_integrity",
    "pass": true,
    "detail": "490 nodes 6578 edges",
-   "ms": 60.5
+   "ms": 55.5
   },
   {
    "name": "epistemic_invariant",
    "pass": true,
    "detail": "PASS: authority(projection) <= authority(parent) holds everywhere.",
-   "ms": 64.5
+   "ms": 80.0
   },
   {
    "name": "canonical_dag",
    "pass": true,
    "detail": "  PHYSICS -> THERMODYNAMICS -> INFORMATION -> COMPUTATION -> QUANTUM -> PROBABILITY -> INDETERMINISM -> MIND -> LIFE -> FREE_WILL -> RESPONSIBILITY -> VALUE -> SYNTHESIS -> ESSAY",
-   "ms": 251.7
+   "ms": 254.9
   },
   {
    "name": "argument_graph",
    "pass": true,
    "detail": "6 info 4 infer 2 conflict",
-   "ms": 27.8
+   "ms": 26.8
   },
   {
    "name": "evidence_weights_experiment",
    "pass": true,
    "detail": "wrote /mnt/HC_Volume_106427611/ip-graph/data/graph/evidence-weights.json",
-   "ms": 1931.6
+   "ms": 2110.9
   },
   {
    "name": "bounded_context_experiment",
    "pass": true,
    "detail": "_(~128 tokens, budget 500)_",
-   "ms": 190.4
+   "ms": 206.8
   },
   {
    "name": "arxiv_peer_review",
    "pass": true,
    "detail": "wrote data/graph/arxiv-review.json",
-   "ms": 25.3
+   "ms": 30.0
   },
   {
    "name": "layer_03_05_factory_research",
    "pass": true,
    "detail": "=== SUMMARY: 12/12 passed ===",
-   "ms": 64.9
+   "ms": 75.0
   },
   {
    "name": "layer_10_retrieval_comparison",
    "pass": true,
    "detail": "ALL PASS (targets retrieved by PathRAG+KG2Code)",
-   "ms": 536.7
+   "ms": 609.4
   },
   {
    "name": "product_kernels_translation_review_schema",
    "pass": true,
    "detail": "=== SUMMARY: 11/11 passed ===",
-   "ms": 62.7
+   "ms": 66.4
   },
   {
    "name": "provenance_nanopub_emission",
    "pass": true,
    "detail": "for Layer 02/04, giving every claim portable, provenance-carrying truth.",
-   "ms": 53.0
+   "ms": 59.0
   },
   {
    "name": "koral_two_graph_commentarial",
    "pass": true,
    "detail": "get flagged, and only when their evidence floor is retracted. analogy != identity.",
-   "ms": 44.3
+   "ms": 58.1
   },
   {
    "name": "community_detection_themes",
    "pass": true,
    "detail": "communities to the curated ontology reveals where the corpus structure agrees or disagrees.",
-   "ms": 247.7
+   "ms": 256.8
   },
   {
    "name": "domain_generalization_eleutheria",
    "pass": true,
    "detail": "Shared free-will concepts (would cross-link): ['agency', 'determinism']",
-   "ms": 76.7
+   "ms": 58.1
   },
   {
    "name": "crux_compiler",
    "pass": true,
    "detail": "This is 'spawn targeted research tasks at the minimal divergence' (SPEC-19 #5).",
-   "ms": 22.3
+   "ms": 36.2
   },
   {
    "name": "mutation_testing",
    "pass": true,
    "detail": "scholarship (SPEC-19 #3).",
-   "ms": 82.0
+   "ms": 62.7
   },
   {
    "name": "signed_corpus_root",
    "pass": true,
    "detail": "signed with Sigstore/Rekor (cosign) for a tamper-evident ScholarReviewCertificate.",
-   "ms": 62.7
+   "ms": 55.3
   },
   {
    "name": "reactive_essay",
    "pass": true,
    "detail": "through claims to the exact prose sentences that depend on them. Reactive documents (SPEC-19 #4).",
-   "ms": 52.0
+   "ms": 51.4
   },
   {
    "name": "graphiti_temporal_validity",
    "pass": true,
    "detail": "when' is always answerable (combined with our Merkle-root signed history from SPEC-19).",
-   "ms": 28.5
+   "ms": 26.2
   },
   {
    "name": "import_scifact_generalization",
    "pass": true,
    "detail": "all share one engine, differing only in ontology extension.",
-   "ms": 78.7
+   "ms": 79.6
   },
   {
    "name": "verified_epistemic_os_lifecycle",
    "pass": true,
    "detail": "========================================================================",
-   "ms": 57.5
+   "ms": 68.8
   },
   {
    "name": "adversarial_cross_review",
    "pass": true,
    "detail": "fixes; dissent is honestly surfaced, never forced.",
-   "ms": 44.0
+   "ms": 51.0
   },
   {
    "name": "eigenius_grade_mapping",
    "pass": true,
    "detail": "has productionized \u2014 and we ADD the review/human-adjudication axis eigenius doesn't foreground.",
-   "ms": 42.2
+   "ms": 51.0
   },
   {
    "name": "review_bias_robustness",
    "pass": true,
    "detail": "  property that AgentReview's 37.1% finding says matters. Consensus threshold = bias robustness.",
-   "ms": 48.2
+   "ms": 39.7
   },
   {
    "name": "self_improvement_as_pr",
    "pass": true,
    "detail": "application. This is safe self-improvement for the epistemic engine (SPEC-12: PR not mutation).",
-   "ms": 53.3
+   "ms": 46.0
   },
   {
    "name": "evolving_memory_consolidation",
    "pass": true,
    "detail": "the memory the Verified Epistemic OS builds on: durable, consolidated, topological.",
-   "ms": 30.8
+   "ms": 30.5
   },
   {
    "name": "education_organism_stack",
    "pass": true,
    "detail": "teaches structure (what's load-bearing) rather than trivia.",
-   "ms": 48.2
+   "ms": 47.7
   },
   {
    "name": "counterfactual_engine",
    "pass": true,
    "detail": "claims are where a rival should attack (feeds VISION D).",
-   "ms": 56.5
+   "ms": 44.9
   },
   {
    "name": "rival_argument",
    "pass": true,
    "detail": "are the machinery.)",
-   "ms": 49.6
+   "ms": 41.4
   },
   {
    "name": "certification_weight",
    "pass": true,
    "detail": "the world (verified knowledge becomes the scarce asset).",
-   "ms": 25.6
+   "ms": 26.4
   },
   {
    "name": "bkt_mastery_tracking",
    "pass": true,
    "detail": "This is the mechanism pyBKT productionizes; we apply it to our epistemic graph's concepts.",
-   "ms": 24.6
+   "ms": 26.1
   },
   {
    "name": "signed_statement",
    "pass": true,
    "detail": "The Self-Proving System vision extends this to design decisions (every decision signed).",
-   "ms": 52.7
+   "ms": 45.1
   },
   {
    "name": "kernel_validation_suite",
    "pass": true,
    "detail": "=== SUMMARY: 13/13 passed ===",
-   "ms": 581.5
+   "ms": 664.9
   },
   {
    "name": "evolution_loop",
    "pass": true,
    "detail": "while diversity is preserved and canonical truth stays gate-protected.",
-   "ms": 36.8
+   "ms": 51.3
   },
   {
    "name": "salsa_incremental",
    "pass": true,
    "detail": "complements our epistemic staleness DAG (graph 1). Together: epistemic correctness + compute reuse.",
-   "ms": 18.0
+   "ms": 22.9
   },
   {
    "name": "agent_delivery_layer",
    "pass": true,
    "detail": "canonical truth. This is what loom/maestro/arcan/herdr converge into \u2014 clean for agents.",
-   "ms": 41.6
+   "ms": 49.9
   },
   {
    "name": "organism_loop",
    "pass": true,
    "detail": "confusions \u2192 sharper probes. The organism is the evolution loop, with humans as the gate.",
-   "ms": 48.6
+   "ms": 44.3
   },
   {
    "name": "live_adaptive_pedagogy",
    "pass": true,
    "detail": "One graph becomes scholarship, benchmark, education, assessment, tutoring and media.",
-   "ms": 48.9
+   "ms": 49.1
   },
   {
    "name": "causal_operational_graph",
    "pass": true,
    "detail": "agent runs attributable \u2014 'why did this happen?' \u2014 not just 'is it true?'",
-   "ms": 28.6
+   "ms": 33.6
   },
   {
    "name": "execution_replay",
    "pass": true,
    "detail": "causal operational graph (the 5th graph) with real execution semantics.",
-   "ms": 29.0
+   "ms": 32.1
   },
   {
    "name": "graduation_test_real_data",
    "pass": true,
    "detail": "If this passes, the stack is genuinely wired \u2014 not demoed on toy inputs.",
-   "ms": 128.8
+   "ms": 133.7
   },
   {
    "name": "question_growth_engine",
    "pass": true,
    "detail": "  records: 5  question-shapes used: ['CRUX', 'MECHANISM_GAP', 'ROOT', 'SUBVERSION']",
-   "ms": 27.7
+   "ms": 35.7
   },
   {
    "name": "curiosity_patterns",
    "pass": true,
    "detail": "Engine: generate questions that exhibit the same curiosity profile as the human exemplars.",
-   "ms": 33.0
+   "ms": 44.7
   },
   {
    "name": "enquiry_discovery",
    "pass": true,
    "detail": "gold example of this \u2014 and our question-growth + curiosity-pattern machinery can reproduce it.",
-   "ms": 35.0
+   "ms": 33.3
   },
   {
    "name": "gem_extraction",
    "pass": true,
    "detail": "via agentic pushing, not just retrieval.",
-   "ms": 35.7
+   "ms": 31.3
   },
   {
    "name": "claim_standardisation",
    "pass": true,
    "detail": "traditions diverge? = a crux).",
-   "ms": 36.3
+   "ms": 26.6
   },
   {
    "name": "theatre_check",
    "pass": true,
    "detail": "on real data, or real-data inputs for those validators.",
-   "ms": 4190.2
+   "ms": 4475.9
+  },
+  {
+   "name": "theatre_check_all",
+   "pass": true,
+   "detail": "The lab has 22 experiments proven on real data; 26 prove mechanism only (synthetic). The fix is the graduation test (real data through the whole stack) + real-data inputs for the synthetic validators.",
+   "ms": 9544.1
   }
  ],
  "summary": {
-  "total": 48,
-  "passed": 48,
+  "total": 49,
+  "passed": 49,
   "failed": 0
  }
 }

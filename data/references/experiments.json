@@ -1,5 +1,5 @@
 {
- "count": 48,
+ "count": 49,
  "entries": [
   {
    "script": "validate-layer03-05.py",
@@ -409,20 +409,20 @@
   {
    "script": "experiment-gem-extraction.py",
    "layer": "L04",
-   "source": "pushing-tantraloka session",
-   "vision": "Enquiry-Discovery Organism",
+   "source": "pushing-tantraloka",
+   "vision": "Enquiry-Discovery",
    "kernel": "gem-extraction",
    "status": "RUN",
-   "note": "agentic enquiry\u2192unseen gems (PENETRATION 1); gems\u2192essay/education/research base"
+   "note": "agentic enquiry\u2192unseen gems (PENETRATION 1)"
   },
   {
    "script": "experiment-claim-standardisation.py",
    "layer": "L06",
-   "source": "comparative pushing (SPEC-35)",
+   "source": "comparative pushing",
    "vision": "Comparative Philosophy",
    "kernel": "standardisation",
    "status": "RUN",
-   "note": "structural claim vs tradition vocab/boundary \u2014 comparable without collapsing"
+   "note": "structural claim vs tradition vocab/boundary"
   },
   {
    "script": "theatre-check.py",
@@ -431,7 +431,16 @@
    "vision": "Verified Epistemic OS",
    "kernel": "verification",
    "status": "RUN",
-   "note": "verifiable-proof audit: 10 PROVEN real-data, 6 PROVEN-mechanism synthetic, 0 unproven"
+   "note": "verifiable-proof audit: kernels"
+  },
+  {
+   "script": "theatre-check-all.py",
+   "layer": "ALL",
+   "source": "the full anti-theatre audit",
+   "vision": "Verified Epistemic OS",
+   "kernel": "verification",
+   "status": "RUN",
+   "note": "all 48 experiments: 22 PROVEN real, 26 mechanism-only, 0 unproven"
   }
  ]
 }

@@ -1,6 +1,6 @@
 # EXPERIMENT MATRIX — what's been tested
 
-*2026-08-14. 48 experiments mapped to layer / source repo / vision / kernel / result.*
+*2026-08-14. 49 experiments mapped to layer / source repo / vision / kernel / result.*
 Machine form: `data/references/experiments.json`.
 
 ## Argument Map (7)
@@ -35,7 +35,7 @@ Machine form: `data/references/experiments.json`.
 
 | script | layer | source | kernel | result |
 |--------|-------|--------|--------|--------|
-| `experiment-claim-standardisation.py` | L06 | comparative pushing (SPEC-35) | standardisation | RUN |
+| `experiment-claim-standardisation.py` | L06 | comparative pushing | standardisation | RUN |
 | `experiment-koral-twograph.py` | L06 | KORAL (arXiv) | commentarial | PASS |
 
 ## Complete Pipeline (3)
@@ -56,12 +56,17 @@ Machine form: `data/references/experiments.json`.
 | `validate-education-organism.py` | L09 | patala education/organism vision | education+organism | PASS |
 | `validate-pedagogy.py` | L09 | patala education vision (R2) | pedagogy | RUN |
 
-## Enquiry-Discovery Organism (2)
+## Enquiry-Discovery (1)
+
+| script | layer | source | kernel | result |
+|--------|-------|--------|--------|--------|
+| `experiment-gem-extraction.py` | L04 | pushing-tantraloka | gem-extraction | RUN |
+
+## Enquiry-Discovery Organism (1)
 
 | script | layer | source | kernel | result |
 |--------|-------|--------|--------|--------|
 | `experiment-enquiry-discovery.py` | L04 | logic5 presence enquiry (SPEC-46) | enquiry | RUN |
-| `experiment-gem-extraction.py` | L04 | pushing-tantraloka session | gem-extraction | RUN |
 
 ## Executable Knowledge (1)
 
@@ -93,7 +98,7 @@ Machine form: `data/references/experiments.json`.
 | `experiment-causal-operational-graph.py` | L12 | patalamix review #12 | causal-operational | RUN |
 | `experiment-signed-statement.py` | L12 | cosign (cloned) | signing | RUN |
 
-## Verified Epistemic OS (9)
+## Verified Epistemic OS (10)
 
 | script | layer | source | kernel | result |
 |--------|-------|--------|--------|--------|
@@ -102,6 +107,7 @@ Machine form: `data/references/experiments.json`.
 | `experiment-reactive-essay.py` | L12 | SPEC-19 #4 | reactive | PASS |
 | `experiment-signed-corpus.py` | L12 | SPEC-19 #6/7 | merkle | PASS |
 | `experiment-verified-lifecycle.py` | ALL | the OS synthesis | all | PASS |
+| `theatre-check-all.py` | ALL | the full anti-theatre audit | verification | RUN |
 | `theatre-check.py` | ALL | the anti-theatre skill | verification | RUN |
 | `validate-layer03-05.py` | L03+L05 | herdr+RKA (cloned) | review+staleness | PASS |
 | `validate-provenance.py` | L02 | knowledgeProvenance (cloned) | provenance | PASS |

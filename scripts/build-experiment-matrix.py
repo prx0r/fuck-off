@@ -69,7 +69,10 @@ MATRIX = {
   "experiment-enquiry-discovery.py": ("L04", "logic5 presence enquiry (SPEC-46)", "Enquiry-Discovery Organism", "enquiry", "enquiry→topic structure: taxonomy+theorem+boundary+frontier — one structure for ontology/research/pedagogy"),
   "experiment-gem-extraction.py": ("L04", "pushing-tantraloka session", "Enquiry-Discovery Organism", "gem-extraction", "agentic enquiry→unseen gems (PENETRATION 1); gems→essay/education/research base"),
   "experiment-claim-standardisation.py": ("L06", "comparative pushing (SPEC-35)", "Comparative Philosophy", "standardisation", "structural claim vs tradition vocab/boundary — comparable without collapsing"),
-  "theatre-check.py": ("ALL", "the anti-theatre skill", "Verified Epistemic OS", "verification", "verifiable-proof audit: 10 PROVEN real-data, 6 PROVEN-mechanism synthetic, 0 unproven"),
+  "theatre-check.py": ("ALL", "the anti-theatre skill", "Verified Epistemic OS", "verification", "verifiable-proof audit: kernels"),
+  "theatre-check-all.py": ("ALL", "the full anti-theatre audit", "Verified Epistemic OS", "verification", "all 48 experiments: 22 PROVEN real, 26 mechanism-only, 0 unproven"),
+  "experiment-gem-extraction.py": ("L04", "pushing-tantraloka", "Enquiry-Discovery", "gem-extraction", "agentic enquiry→unseen gems (PENETRATION 1)"),
+  "experiment-claim-standardisation.py": ("L06", "comparative pushing", "Comparative Philosophy", "standardisation", "structural claim vs tradition vocab/boundary"),
 }
 
 def main():

@@ -99,6 +99,7 @@ graph after adding text, run `build-graph.py`.
 |-----|------------|
 | `AGENTS.md` | governing rules — read first |
 | `LAB-REVIEW.md` | state of the lab (proven/exploratory/next) |
+| `HANDOVER.md` | session state + where to continue |
 | `KERNELS-INDEX.md` | the reusable kernels (reuse map) |
 | `BUILDNOTES.md` | full build history + decisions |
 | `NAVIGATION.md` | this file |
