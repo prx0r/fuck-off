@@ -1,5 +1,5 @@
 {
- "count": 75,
+ "count": 79,
  "entries": [
   {
    "owner": "infinitywings",
@@ -450,6 +450,46 @@
    "tier": 3,
    "tier_label": "watch",
    "note": "Huntley's Rust AI coding agent (PROPRIETARY \u2014 reference only)"
+  },
+  {
+   "owner": "XiaoConstantine",
+   "name": "herdr-workflow",
+   "repo": "XiaoConstantine/herdr-workflow",
+   "url": "https://github.com/XiaoConstantine/herdr-workflow",
+   "category": "agent-runtime",
+   "tier": 0,
+   "tier_label": "clone-first",
+   "note": "composable event-sourced multi-agent workflow; agents propose immutable evidence, reducers own lifecycle"
+  },
+  {
+   "owner": "broomva",
+   "name": "arcan",
+   "repo": "broomva/arcan",
+   "url": "https://github.com/broomva/arcan",
+   "category": "agent-runtime",
+   "tier": 0,
+   "tier_label": "clone-first",
+   "note": "tiny agent kernel; event sourcing done correctly"
+  },
+  {
+   "owner": "valkor-ai",
+   "name": "loom",
+   "repo": "valkor-ai/loom",
+   "url": "https://github.com/valkor-ai/loom",
+   "category": "agent-runtime",
+   "tier": 3,
+   "tier_label": "watch",
+   "note": "loop engineering (Apache-2.0 open; local-only)"
+  },
+  {
+   "owner": "ReinaMacCredy",
+   "name": "maestro",
+   "repo": "ReinaMacCredy/maestro",
+   "url": "https://github.com/ReinaMacCredy/maestro",
+   "category": "agent-runtime",
+   "tier": 3,
+   "tier_label": "watch",
+   "note": "agent harness w/ verdict ledger (local-only, sqlite sk- strings)"
   },
   {
    "owner": "hatchet-dev",

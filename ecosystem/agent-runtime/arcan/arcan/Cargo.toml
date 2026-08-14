@@ -1,0 +1,135 @@
+[package]
+name = "arcan"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+authors.workspace = true
+repository.workspace = true
+homepage.workspace = true
+keywords.workspace = true
+categories.workspace = true
+description = "Rust agent runtime with streaming, tool execution, and event-sourced persistence"
+
+[[bin]]
+name = "arcan"
+path = "src/main.rs"
+
+# Library target so integration tests in `tests/` can exercise the
+# binary's public submodules (e.g. `arcan::agent_cmd`) directly. The
+# library's surface is intentionally narrow — see `src/lib.rs` for the
+# exact re-exports. (BRO-1008)
+[lib]
+name = "arcan"
+path = "src/lib.rs"
+
+[lints]
+workspace = true
+
+[features]
+default = ["console"]
+console = ["dep:arcan-console"]
+spaces = ["dep:arcan-spaces", "arcan-spaces/spacetimedb"]
+opsis = ["dep:arcan-opsis", "dep:opsis-core"]
+praxis = []
+prosopon = ["dep:arcan-prosopon", "dep:prosopon-daemon", "dep:prosopon-compositor-glass"]
+
+[dependencies]
+arcan-console = { path = "../arcan-console", version = "0.3.0", optional = true }
+arcan-opsis = { path = "../arcan-opsis", version = "0.3.0", optional = true }
+opsis-core = { path = "../../opsis/opsis-core", version = "0.3.0", optional = true }
+arcan-spaces = { path = "../arcan-spaces", version = "0.3.0", optional = true }
+arcan-prosopon = { path = "../arcan-prosopon", version = "0.1.0", optional = true }
+prosopon-daemon = { git = "https://github.com/broomva/prosopon.git", tag = "v0.2.0-alpha.2", optional = true }
+prosopon-compositor-glass = { git = "https://github.com/broomva/prosopon.git", tag = "v0.2.0-alpha.2", optional = true }
+arcan-commands = { path = "../arcan-commands", version = "0.3.0" }
+arcan-praxis = { path = "../arcan-praxis", version = "0.3.0" }
+arcan-core = { path = "../arcan-core", version = "0.3.0" }
+autonomic-core.workspace = true
+autonomic-controller.workspace = true
+arcan-aios-adapters = { path = "../arcan-aios-adapters", version = "0.3.0" }
+arcan-ergon = { path = "../arcan-ergon", version = "0.3.0" }
+ergon.workspace = true
+ergon-anima-adapter.workspace = true
+ergon-life-hooks.workspace = true
+ergon-life-sinks.workspace = true
+ergon-nous-adapter.workspace = true
+# Custody identity loading for soul attestation (`--anima-identity-dir`):
+# reconstructs the `life init` InProcessAnima from `.life/identity/`.
+anima-identity = { path = "../../anima/anima-identity", version = "0.3.0" }
+# Zeroize transient seed copies read off disk before they hit the heap/stack
+# and linger (BRO-1468). `MasterSeed` already zeroizes on drop; this covers
+# the intermediate buffers in `identity_loader`.
+zeroize.workspace = true
+arcan-harness = { path = "../arcan-harness", version = "0.3.0" }
+praxis-core.workspace = true
+praxis-tools.workspace = true
+praxis-skills.workspace = true
+praxis-mcp-bridge.workspace = true
+arcan-provider = { path = "../arcan-provider", version = "0.3.0" }
+arcan-sandbox.workspace = true
+arcan-provider-vercel.workspace = true
+arcan-provider-local.workspace = true
+arcan-provider-bubblewrap.workspace = true
+arcand = { path = "../arcand", version = "0.3.0" }
+arcan-lago = { path = "../arcan-lago", version = "0.3.0" }
+arcan-substrate-proto = { workspace = true }
+arcan-tui = { path = "../arcan-tui", version = "0.3.0" }
+aios-protocol.workspace = true
+aios-runtime.workspace = true
+lago-core.workspace = true
+lago-fs.workspace = true
+lago-aios-eventstore-adapter.workspace = true
+lago-journal.workspace = true
+lago-lance.workspace = true
+lago-policy.workspace = true
+lago-store.workspace = true
+# Chronos M2 — kernel wake handoff (opt-in via `arcan serve --chronos`)
+chronos-core.workspace = true
+chronos-triggers.workspace = true
+chronos-lago.workspace = true
+chronos-api.workspace = true
+anyhow.workspace = true
+async-trait.workspace = true
+axum.workspace = true
+clap = { workspace = true, features = ["env"] }
+dirs.workspace = true
+futures-util.workspace = true
+reqwest.workspace = true
+reqwest-eventsource.workspace = true
+serde.workspace = true
+serde_json.workspace = true
+toml.workspace = true
+tokio.workspace = true
+tokio-stream.workspace = true
+tonic = "0.14"
+tower-http.workspace = true
+tracing.workspace = true
+tracing-subscriber.workspace = true
+tracing-appender = "0.2"
+life-paths.workspace = true
+life-vigil.workspace = true
+opentelemetry.workspace = true
+opentelemetry_sdk.workspace = true
+opentelemetry-otlp.workspace = true
+tracing-opentelemetry.workspace = true
+nous-api.workspace = true
+nous-core.workspace = true
+nous-heuristics.workspace = true
+nous-judge.workspace = true
+nous-lago.workspace = true
+nous-middleware.workspace = true
+uuid.workspace = true
+walkdir.workspace = true
+chrono.workspace = true
+nix = { version = "0.31.2", features = ["signal", "term"] }
+fastrand = "2"
+crossterm = "0.29"
+# `arcan agent test --dry-run` validates user-supplied input JSON against
+# an authored agent's `input_schema`. We use the same `jsonschema` crate
+# that ergon's runtime uses for `record_answer` validation, so the CLI's
+# accept/reject judgement matches what the runtime would do (BRO-1008).
+jsonschema = { workspace = true }
+
+[dev-dependencies]
+tempfile = "3"
+filetime = "0.2"

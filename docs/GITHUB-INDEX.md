@@ -1,6 +1,6 @@
 # GITHUB INDEX — canonical GitHub reference catalog
 
-*2026-08-14. 75 repos, organized by category + tier for agent retrieval. Machine form: `data/references/github.json`.*
+*2026-08-14. 79 repos, organized by category + tier for agent retrieval. Machine form: `data/references/github.json`.*
 
 Tier: 0=clone-first · 1=ingest · 2=architecture · 3=watch
 
@@ -27,8 +27,10 @@ Tier: 0=clone-first · 1=ingest · 2=architecture · 3=watch
 - **LuckyGirl-XU/Awesome-Agent-Dynamic-Graphs** — `T3` · research-index: agent dynamic graphs · <https://github.com/LuckyGirl-XU/Awesome-Agent-Dynamic-Graphs>
 - **DataArcTech/Awesome-Agent-Skill-Papers** — `T3` · research-index: agent skill papers · <https://github.com/DataArcTech/Awesome-Agent-Skill-Papers>
 
-## agent-runtime (9)
+## agent-runtime (13)
 
+- **XiaoConstantine/herdr-workflow** — `T0` · composable event-sourced multi-agent workflow; agents propose immutable evidence, reducers own lifecycle · <https://github.com/XiaoConstantine/herdr-workflow>
+- **broomva/arcan** — `T0` · tiny agent kernel; event sourcing done correctly · <https://github.com/broomva/arcan>
 - **pydantic/pydantic-ai** — `T2` · Python agent shell · <https://github.com/pydantic/pydantic-ai>
 - **microsoft/autogen** — `T2` · agent framework (LangGraph-alt) · <https://github.com/microsoft/autogen>
 - **langchain-ai/langgraph** — `T2` · benchmark target, not foundation · <https://github.com/langchain-ai/langgraph>
@@ -36,6 +38,8 @@ Tier: 0=clone-first · 1=ingest · 2=architecture · 3=watch
 - **temporalio/temporal** — `T3` · mature durable execution (we already run it) · <https://github.com/temporalio/temporal>
 - **dbos-inc/dbos-transact-py** — `T3` · durable execution on Postgres · <https://github.com/dbos-inc/dbos-transact-py>
 - **ghuntley/loom** — `T3` · Huntley's Rust AI coding agent (PROPRIETARY — reference only) · <https://github.com/ghuntley/loom>
+- **valkor-ai/loom** — `T3` · loop engineering (Apache-2.0 open; local-only) · <https://github.com/valkor-ai/loom>
+- **ReinaMacCredy/maestro** — `T3` · agent harness w/ verdict ledger (local-only, sqlite sk- strings) · <https://github.com/ReinaMacCredy/maestro>
 - **hatchet-dev/hatchet** — `T3` · queue/scheduling ergonomics · <https://github.com/hatchet-dev/hatchet>
 - **dapr/dapr-agents** — `T3` · Dapr Agents (distributed) · <https://github.com/dapr/dapr-agents>
 

@@ -1,0 +1,62 @@
+pub mod approval_gate;
+pub mod ephemeral;
+pub mod event_map;
+pub mod event_search;
+pub mod knowledge_context;
+pub mod knowledge_events;
+pub mod knowledge_tools;
+pub mod learning;
+pub mod memory_graph;
+pub mod memory_projection;
+pub mod memory_scope;
+pub mod memory_tools;
+pub mod observation;
+pub mod policy_middleware;
+pub mod policy_violation;
+pub mod reconciling_tool;
+pub mod remote_blob;
+pub mod remote_journal;
+pub mod repository;
+pub mod retention;
+pub mod sandbox_manifest;
+pub mod sandbox_sink;
+pub mod skill_events;
+pub mod sse_bridge;
+pub mod state_projection;
+pub mod tracked_fs;
+
+pub use approval_gate::{ApprovalGate, ApprovalOutcome};
+pub use event_search::EventSearchTool;
+pub use knowledge_context::{
+    KnowledgeBlockAssembly, build_index_from_dir, build_knowledge_block,
+    build_knowledge_block_with_stats,
+};
+pub use knowledge_events::{KnowledgeEventMiddleware, derive_knowledge_records};
+pub use knowledge_tools::{WikiLintTool, WikiSearchTool};
+// Re-export the traits that ApprovalGate implements, for convenience
+pub use arcan_core::runtime::{ApprovalGateHook, ApprovalResolver};
+pub use ephemeral::{EphemeralJournal, SessionJournalSelector};
+pub use learning::{LearningEntry, LearningMiddleware};
+pub use memory_graph::{
+    DEFAULT_GRAPH_DEPTH, DEFAULT_MAX_EDGES, DEFAULT_MAX_NODES, MemoryGraphEdge, MemoryGraphError,
+    MemoryGraphMetrics, MemoryGraphNode, MemoryGraphQuery, MemoryGraphRankSignals,
+    MemoryGraphRankingHints, MemoryGraphResponse, memory_graph_from_dir,
+    memory_graph_from_dir_with_ranking, memory_graph_from_index,
+    memory_graph_from_index_with_ranking,
+};
+pub use memory_projection::MemoryProjection;
+pub use memory_scope::{MemoryEntry, MemoryScopeConfig};
+pub use memory_tools::{MemoryCommitTool, MemoryProposeTool, MemoryQueryTool};
+pub use observation::{Observation, Observer, Reflector};
+pub use policy_middleware::LagoPolicyMiddleware;
+pub use reconciling_tool::ReconcilingTool;
+pub use remote_blob::RemoteBlobBackend;
+pub use remote_journal::RemoteLagoJournal;
+pub use repository::LagoSessionRepository;
+pub use retention::{FreeTierJournal, LagoPolicyConfig, ProTierJournal};
+pub use sandbox_manifest::{FileManifestEntry, SandboxManifest, sync_file_written};
+pub use sandbox_sink::LagoSandboxEventSink;
+pub use skill_events::SkillProjection;
+pub use sse_bridge::{SseBridge, select_format};
+pub use state_projection::AppStateProjection;
+pub use tracked_fs::{LagoTrackedFs, run_event_writer};

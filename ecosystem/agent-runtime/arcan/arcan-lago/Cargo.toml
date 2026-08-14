@@ -1,0 +1,54 @@
+[package]
+name = "arcan-lago"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+authors.workspace = true
+repository.workspace = true
+homepage.workspace = true
+keywords.workspace = true
+categories.workspace = true
+description = "Bridge between Arcan agent runtime and Lago event-sourced persistence"
+
+[lints]
+workspace = true
+
+[dependencies]
+arcan-core = { path = "../arcan-core", version = "0.3.0" }
+arcan-sandbox = { path = "../arcan-sandbox", version = "0.3.0" }
+arcan-store = { path = "../arcan-store", version = "0.3.0" }
+aios-protocol.workspace = true
+aios-runtime.workspace = true
+lago-core.workspace = true
+lago-fs.workspace = true
+lago-journal.workspace = true
+lago-store.workspace = true
+lago-knowledge.workspace = true
+lago-api.workspace = true
+lago-policy.workspace = true
+praxis-core.workspace = true
+serde.workspace = true
+serde_json.workspace = true
+serde_yaml.workspace = true
+tokio.workspace = true
+tokio-stream.workspace = true
+thiserror.workspace = true
+chrono.workspace = true
+tracing.workspace = true
+uuid.workspace = true
+reqwest.workspace = true
+reqwest-eventsource.workspace = true
+futures-util.workspace = true
+sqlx.workspace = true
+anyhow.workspace = true
+async-trait.workspace = true
+life-vigil.workspace = true
+
+[dev-dependencies]
+tempfile = "3"
+# Round-trip test for RemoteBlobBackend: serve a real lago-api router on an
+# ephemeral socket and drive the blob client against it (reqwest needs a bound
+# port, so the in-process `oneshot` harness lago-api uses internally won't do).
+lago-api.workspace = true
+axum.workspace = true
+metrics-exporter-prometheus.workspace = true

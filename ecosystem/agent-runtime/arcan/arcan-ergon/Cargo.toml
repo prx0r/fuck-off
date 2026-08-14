@@ -1,0 +1,57 @@
+[package]
+name = "arcan-ergon"
+description = "Arcan adapter that runs an `ergon::Workflow` as the body of a single `aios_runtime::KernelRuntime` tick — port adapters, auto-hook adapter implementations, and the `WorkflowTickDispatcher` that the kernel calls."
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+authors.workspace = true
+repository.workspace = true
+homepage.workspace = true
+keywords.workspace = true
+categories.workspace = true
+
+[lints]
+workspace = true
+
+[dependencies]
+# Kernel contract + runtime — what we adapt FROM (substrate side).
+aios-protocol.workspace = true
+aios-runtime.workspace = true
+
+# Ergon — what we adapt TO (vendor-neutral harness side).
+ergon.workspace = true
+ergon-life-hooks.workspace = true
+
+# Standard async + serde toolkit.
+anyhow.workspace = true
+async-trait.workspace = true
+futures.workspace = true
+serde = { workspace = true, features = ["derive"] }
+serde_json.workspace = true
+thiserror.workspace = true
+tokio = { workspace = true, features = ["sync", "macros", "rt"] }
+tracing.workspace = true
+
+[dev-dependencies]
+aios-events.workspace = true
+aios-policy.workspace = true
+aios-sandbox.workspace = true
+aios-tools.workspace = true
+# `tests/agents_fixtures.rs` (BRO-1010) compiles each blessed agent's
+# input/output schemas through the same `jsonschema` validator the
+# production `record_answer` path uses, so a malformed schema fails
+# in CI rather than at first inference.
+jsonschema = { workspace = true }
+# `arcan-provider` + `arcan-aios-adapters` pull in real LLM-backed
+# Provider implementations (Anthropic, OpenAI-compatible, ...) so the
+# `tests/anthropic_workflow.rs` integration test can drive an
+# end-to-end workflow tick against a live Anthropic endpoint when
+# `ANTHROPIC_API_KEY` is set. The test is `#[ignore]`'d so it never
+# runs in CI.
+arcan-provider = { path = "../arcan-provider", version = "0.3.0" }
+arcan-aios-adapters = { path = "../arcan-aios-adapters", version = "0.3.0" }
+arcan-core = { workspace = true }
+chrono = { workspace = true }
+tokio = { workspace = true, features = ["macros", "rt-multi-thread", "time", "sync"] }
+tracing-subscriber = { workspace = true }

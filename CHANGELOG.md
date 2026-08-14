@@ -145,3 +145,11 @@ imposed.
 - Cloned `ghuntley/loom` → `ecosystem/agent-runtime/loom` (24M). **PROPRIETARY license** — reference/
   code-read only, do not reuse code.
 - Added to GitHub index (75 repos, agent-runtime category, T3 watch) + agent-runtime README.
+
+## 2026-08-14 (cont.) — agent-harness survey (SPEC-12) + small clones
+- **`specs/SPEC-12-AGENT-HARNESS-SURVEY.md`** (from R2 `githubagent2`) — maestro, arcan, herdr-workflow,
+  weft, looms, Dicklesworthstone flywheel. Red circles: **Herdr** (agents propose immutable evidence,
+  reducers own lifecycle) + **Dicklesworthstone** (tiny composable tools).
+- **Cloned (tracked):** herdr-workflow (2.2M), arcan (4.7M) → `ecosystem/agent-runtime/`.
+- **Cloned (local-only, gitignored):** valkor-ai/loom (Apache-2.0), maestro (tracked sqlite w/ sk- strings).
+- GitHub index: 75 → **79 repos**.

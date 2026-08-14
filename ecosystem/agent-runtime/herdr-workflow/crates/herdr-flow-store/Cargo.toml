@@ -1,0 +1,18 @@
+[package]
+name = "herdr-flow-store"
+description = "Persistence adapters for Herdr Flow"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+repository.workspace = true
+
+[dependencies]
+fs2.workspace = true
+herdr-flow-core = { path = "../herdr-flow-core" }
+libc.workspace = true
+rusqlite.workspace = true
+serde = { workspace = true, features = ["std"] }
+serde_json = { workspace = true, features = ["std"] }
+
+[dev-dependencies]
+tempfile.workspace = true

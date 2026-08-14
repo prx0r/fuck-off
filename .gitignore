@@ -14,3 +14,7 @@ __pycache__/
 
 # loom is a proprietary reference — local-only, not committed
 ecosystem/agent-runtime/loom/
+
+# agent-harness clones kept local-only (license/secret-scan concerns)
+ecosystem/agent-runtime/maestro/
+ecosystem/agent-runtime/loom-valkor/
