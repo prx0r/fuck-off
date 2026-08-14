@@ -9,3 +9,5 @@ Repos to ingest as test data. See `../../docs/ECOSYSTEM-INDEX.md` §2.
 | BioKGBench (westlake-autolab/BioKGBench) | agents checking claims against a KG |
 | MSVEC (lamps-lab/msvec) | multi-domain scientific claims |
 | S2ORC-doc2json (allenai/s2orc-doc2json) | paper parsing (PDF2JSON/TEX2JSON/JATS2JSON) |
+
+| gallantlab/literature-review-toolkit | **CLONED** — topic-agnostic literature review agent (MIT) |

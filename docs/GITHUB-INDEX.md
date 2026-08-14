@@ -1,6 +1,6 @@
 # GITHUB INDEX — canonical GitHub reference catalog
 
-*2026-08-14. 79 repos, organized by category + tier for agent retrieval. Machine form: `data/references/github.json`.*
+*2026-08-14. 83 repos, organized by category + tier for agent retrieval. Machine form: `data/references/github.json`.*
 
 Tier: 0=clone-first · 1=ingest · 2=architecture · 3=watch
 
@@ -27,10 +27,12 @@ Tier: 0=clone-first · 1=ingest · 2=architecture · 3=watch
 - **LuckyGirl-XU/Awesome-Agent-Dynamic-Graphs** — `T3` · research-index: agent dynamic graphs · <https://github.com/LuckyGirl-XU/Awesome-Agent-Dynamic-Graphs>
 - **DataArcTech/Awesome-Agent-Skill-Papers** — `T3` · research-index: agent skill papers · <https://github.com/DataArcTech/Awesome-Agent-Skill-Papers>
 
-## agent-runtime (13)
+## agent-runtime (15)
 
 - **XiaoConstantine/herdr-workflow** — `T0` · composable event-sourced multi-agent workflow; agents propose immutable evidence, reducers own lifecycle · <https://github.com/XiaoConstantine/herdr-workflow>
 - **broomva/arcan** — `T0` · tiny agent kernel; event sourcing done correctly · <https://github.com/broomva/arcan>
+- **prometheus-eval/cmu-paper-reviewer** — `T1` · CMU paper reviewer (5 critical issues) · <https://github.com/prometheus-eval/cmu-paper-reviewer>
+- **wan-huiyan/agent-review-panel** — `T1` · 16-phase adversarial review panel (claim/severity verify + judge) · <https://github.com/wan-huiyan/agent-review-panel>
 - **pydantic/pydantic-ai** — `T2` · Python agent shell · <https://github.com/pydantic/pydantic-ai>
 - **microsoft/autogen** — `T2` · agent framework (LangGraph-alt) · <https://github.com/microsoft/autogen>
 - **langchain-ai/langgraph** — `T2` · benchmark target, not foundation · <https://github.com/langchain-ai/langgraph>
@@ -63,13 +65,14 @@ Tier: 0=clone-first · 1=ingest · 2=architecture · 3=watch
 - **westlake-autolab/BioKGBench** — `T1` · agents checking claims against a KG · <https://github.com/westlake-autolab/BioKGBench>
 - **altuncu/FACTors** — `T1` · 118k fact-check claims · <https://github.com/altuncu/FACTors>
 
-## epistemic (5)
+## epistemic (6)
 
 - **infinitywings/rka** — `T0` · research-workflow-as-state; supersession/staleness propagation · <https://github.com/infinitywings/rka>
 - **aaronsb/knowledge-graph-system** — `T0` · Kappa Graph: supporting vs contradicting evidence, grounding · <https://github.com/aaronsb/knowledge-graph-system>
 - **vouchdev/vouch** — `T0` · git-native write/review gate (don't rebuild) · <https://github.com/vouchdev/vouch>
 - **eigenius/eigenius** — `T0` · typed knowledge classes (Declared/Observed/Derived/Verified) · <https://github.com/eigenius/eigenius>
 - **Detective-XH/DocGraph** — `T0` · SQLite KG + drift audits (staleness) · <https://github.com/Detective-XH/DocGraph>
+- **mntlra/knowledgeProvenance** — `T1` · PROV-K nanopubs: multi-source assertions + trust networks · <https://github.com/mntlra/knowledgeProvenance>
 
 ## graph-reasoning (19)
 
@@ -106,9 +109,10 @@ Tier: 0=clone-first · 1=ingest · 2=architecture · 3=watch
 - **a2aproject/A2A** — `T2` · A2A agent-to-agent protocol · <https://github.com/a2aproject/A2A>
 - **GoogleCloudPlatform/knowledge-catalog** — `T2` · Open Knowledge Format (OKF) · <https://github.com/GoogleCloudPlatform/knowledge-catalog>
 
-## science-infra (4)
+## science-infra (5)
 
 - **allenai/s2orc-doc2json** — `T1` · paper parsing (PDF2JSON/TEX2JSON/JATS2JSON) · <https://github.com/allenai/s2orc-doc2json>
+- **gallantlab/literature-review-toolkit** — `T1` · topic-agnostic literature review agent · <https://github.com/gallantlab/literature-review-toolkit>
 - **allenai/s2orc** — `T2` · S2ORC: scholarly open research corpus · <https://github.com/allenai/s2orc>
 - **ourresearch/OpenAlex** — `T2` · open catalog of scholarship · <https://github.com/ourresearch/OpenAlex>
 - **allenai/peS2o** — `T2` · pretraining efficiently on S2ORC · <https://github.com/allenai/peS2o>

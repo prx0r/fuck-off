@@ -1,0 +1,304 @@
+# Literature review helper scripts
+
+Topic-agnostic helpers used by `PLAYBOOK.md`. Each is standalone, takes
+JSON input, outputs JSON / files. Read the playbook first for workflow
+context; these are scaffolding, not a framework.
+
+NCBI and CrossRef expect a contact email in the User-Agent. Pass
+`--email you@inst.edu` to each tool, or export `LITREVIEW_EMAIL` once.
+
+## `verify.py` — verify citations
+
+Catches the ~25% of search-agent citations that have wrong authors, wrong
+years, or are fabricated. Run before adding anything to the spreadsheet.
+
+```
+python3 tools/verify.py --citations cits.json --out report.json --email you@inst.edu
+```
+
+`cits.json` per item: `{label, pmcid?, pmid?, doi?, arxiv?, title?,
+expect_first_author?, expect_year?}` (`expect_year` may be a string or int).
+arXiv papers (an `arxiv` id or a `10.48550/arXiv.<id>` DOI) route to the arXiv
+API first; otherwise looks up via PMC, then PubMed, then CrossRef, then
+title-search. arXiv ids are **prefetched in batches** (`id_list`, many per call)
+because the API rate-limits a per-paper loop into a temporary ban. Verdict per
+item: `OK`, `MISMATCH`, `NOT-FOUND`, or `ERROR`. **`NOT-FOUND` and `ERROR` are
+different and must be handled differently:** NOT-FOUND = every lookup completed,
+none matched (chase it down — likely fabricated); ERROR = a lookup could not
+complete (rate-limit / network), so **re-run those** — never treat a throttled
+fetch as "does not exist." One malformed row degrades to ERROR rather than
+aborting the whole batch.
+
+## `references.py` — canonical reference builder (Phase 3f)
+
+Makes every `apa` perfect, in **both** modes. Verification proves a citation is
+real; this rebuilds its text from the verified DOI/arXiv id so it's never trusted
+from an agent's memory (topic mode) or OpenAlex's light metadata (lab mode).
+
+```
+python3 tools/references.py --rows rows.json --out rows.json --email you@inst.edu
+python3 tools/references.py --rows rows.json --audit        # gate: exit 1 on any defect
+```
+
+Per row it reads a key (`ref`/`label`), a DOI (`doi` field or `https://doi.org/`
+link) and/or an `arxiv` id, with an optional `venue` fallback. When a row carries
+**both** a journal DOI and an arXiv id, the journal DOI wins — a published paper
+is cited by its version of record, not its preprint; arXiv is used only for
+preprint-only rows or rows whose DOI is itself an arXiv DOI (so you needn't
+hand-clear an `arxiv` field). It fetches CrossRef or the arXiv API and emits
+APA-7: full author list (>20 → 19 + ellipsis + last), correct initials +
+nobiliary particles (`de Heer`), fixed casing (`ANDERSON`→`Anderson`),
+HTML-unescaped + sentence-cased all-caps titles, and a real venue — including
+preprint servers CrossRef leaves bare (`bioRxiv`, `PsyArXiv`, `arXiv`; arXiv's
+`journal_ref` is used when present). `--audit` fails on any defect (no
+author/year, `et al.`, HTML entity, truncated/empty venue, uppercase title); a
+DOI-less item (book/report) is the only non-fatal case — reported as a manual ref
+to check by hand. `--audit` does **not** catch `U+FFFD` mojibake from CrossRef —
+scan `rows.json` for it after the final canon and hand-fix, since re-canon
+reintroduces it.
+
+`--audit` also runs a corpus-level **near-duplicate scan** and prints
+`⚠ A ~ B: possible duplicate` for rows whose titles nearly match. This catches the
+one defect per-row canon structurally cannot see: the same paper entering the
+review twice — usually an arXiv preprint found by one search agent and the
+published version found by another, which have different DOIs and so both pass
+the one-row-per-DOI rule and both canonicalize perfectly. It is a **warning, not
+a defect** (exit status is unaffected): genuinely distinct papers do share
+near-identical titles, so each pair needs a human verdict. Keep the version of
+record, drop the preprint — and re-check any in-text citation whose year moves.
+
+## `download.py` — multi-source PDF downloader **(opt-in, Phase 4)**
+
+PDF acquisition is **not** part of the default workflow. Run only when the
+user explicitly asks. A dedicated replacement is planned.
+
+Tries arxiv → Unpaywall (non-PMC URLs first) → EuropePMC. Validates `%PDF`
+magic bytes. Skips known-blocked hosts (PMC direct, biorxiv, PNAS, OUP,
+MIT Press, Wiley, Cell). Routes failures to a manual-followup file.
+
+```
+python3 tools/download.py --papers list.json --out-dir papers/topic_X/ \
+                          --email you@example.edu \
+                          --manual-list papers/topic_X/_needs_manual.txt
+```
+
+`list.json` per item: `{slug, doi?, arxiv?, pmcid?}`.
+
+## `xref.py` — cross-citation analysis
+
+For each input paper with a DOI, fetches the reference list via CrossRef.
+Builds a frequency table of cited DOIs. Resolves unknown DOIs to titles
+(slow, opt in with `--resolve-unknown`). Use to find high-impact papers
+the initial search missed.
+
+```
+python3 tools/xref.py --papers list.json --out xref.json \
+                      --exclude existing_dois.json \
+                      --min-cites 4 --resolve-unknown \
+                      --email you@inst.edu
+```
+
+`list.json` per item: `{slug, doi?, pdf?}`. PDF fallback uses `pdftotext`
+to extract DOIs from the references section — install poppler if missing.
+
+## `citations.py` — per-paper citation counts (Phase 5b)
+
+Fetches citation counts by DOI from **OpenAlex** (primary; free, reliable,
+batchable) and **Semantic Scholar** (secondary; best-effort, rate-limits
+without `S2_API_KEY`). Google Scholar is deliberately not used — it has no API
+and CAPTCHA-blocks bots, so it can't be queried for a whole bibliography.
+Reads any rows JSON (DOI from a `doi` field or a `https://doi.org/...` link);
+arXiv DOIs are auto-mapped to the arXiv id for S2. OpenAlex's batch filter can
+return a low-count duplicate record for a DOI, so the tool keeps the highest
+count per DOI and, when an OpenAlex count is far below the S2 count, re-queries
+the canonical single-work endpoint — still, spot-check that a famous old paper
+isn't showing a single-digit OpenAlex count before shipping.
+
+```
+python3 tools/citations.py --rows rows.json --out citation_counts.json \
+                           --email you@inst.edu --asof 2026-06-07
+```
+
+Attach the counts to rows as `cite_openalex` / `cite_s2`, then rebuild — the
+spreadsheet auto-adds the two `Cite` columns.
+
+## `families.py` — thematic families (Phase 6b)
+
+Groups the finished bibliography into a few theoretical families (a conceptual
+axis orthogonal to the Topic column). The *carving* is judgment: an agent
+proposes ~3-8 families and assigns every paper, with a **human checkpoint on the
+family definitions** (see `family_prompt_template.md`). This tool owns only the
+deterministic half — it validates the assignment and stamps `family` onto rows,
+writing `families.json` (reproducible cache) + `families.md` (grouped tables +
+family×topic cross-tab). Validation is **hard** on exhaustiveness (every paper
+assigned), exclusivity (no unknown/extra refs), and the 3-8 family-count limit —
+any of these exits non-zero. Imbalance is only a **warning**: empty families are
+dropped, a single-paper family is flagged, and a family holding >60% of the
+corpus prints a "consider splitting" warning but does not fail. `spreadsheet.py`
+then auto-adds the `Family` column. Don't cluster embeddings to make families —
+good theoretical families cut across textual similarity.
+
+```
+python3 tools/families.py --digest --rows rows.json          # corpus digest for the proposal
+python3 tools/families.py --rows rows.json --assign families_input.json --out families.json
+```
+
+`families_input.json`: `{principle, families:[{key,name,claim,lineage}],
+assignments:{ref:key}}`. Assignment values are accepted case-insensitively and
+by display **name** as well as `key`, so you can re-run straight off the `family`
+field `spreadsheet.py` stamped into `rows.json` (which holds the display name,
+e.g. `"Infer"`) without first lowercasing it back to the key.
+
+## `families_figure.py` — interactive HTML lineage figure (Phase 6b)
+
+Turns `rows.json` + `families.json` into a self-contained interactive `.html`
+figure (family lanes with their defining sentences; every paper a dot,
+beeswarm-packed by year; milestones labelled; hover for the full reference, click
+for citation + DOI, hover a family name to spotlight its lineage) plus a
+standalone `.svg` and — if `rsvg-convert`/`inkscape` is present — `.png` + `.pdf`
+for slides/papers. Replaces the old static matplotlib figure.
+
+```
+python3 tools/families_figure.py --rows rows.json --families families.json \
+        --out-prefix mytopic_families --title "My topic — theoretical families"
+```
+
+Landmark dots (the big labelled studies) are selected **automatically** — most-cited
+within a family, foundational within this review (high within-corpus in-degree, via
+`xref.py --internal-out`), or a home-lab paper (starred). Home-lab favouring is **off by
+default** (lab-neutral); opt in with `--lab-author Surname` (repeatable) or the
+`LITREVIEW_LAB_AUTHOR` env var (comma-separated), the flag winning over the env var. Pass
+`--min-year` and
+`--time-warp 0–1` for recency-heavy corpora that span many decades (an antecedents
+pass usually makes one), so old foundations stay legible. The editorial layer (which
+papers to *force*-label, cross-family convergence arrows, notes) is judgment — pass
+an optional `--spec figure_spec.json` (`{labels, arrows, notes, order, subtitle}`)
+and curate it with the user.
+
+## `review_paper.py` — render the narrative review .docx (Phase 7, opt-in)
+
+Turns the finished, verified bibliography into an AI-authored **review article**
+`.docx`. This tool owns only the *mechanics* — the title/author/disclosure block,
+the abstract, section headings + body paragraphs, an embedded figure with a
+standalone caption, and an **APA-7 reference list pulled straight from the
+canonical `apa` strings in `rows.json`** (deduped, alphabetised, hanging indent,
+DOI links). Because the references come from the verified corpus, they cannot
+drift from the in-text citations.
+
+```
+python3 tools/review_paper.py --rows rows.json --content content.json \
+        --out My_Topic_review.docx --figure my_topic_families.png
+```
+
+The prose is authored *separately* (not by this tool) into `content.json`:
+`{title, authors, author_note?, affiliation_line?, disclosure?, abstract,
+sections:[{heading, level, paragraphs:[...]}], figure:{path,caption},
+references_heading?, references_note?}`. Two non-negotiables when an LLM writes
+it: (1) **disclose** the AI authorship — put the model in `authors`, add a
+disclosure paragraph stating the bibliography was machine-assembled and
+machine-verified and that the author read abstracts, not full texts; (2) run the
+**priority audit** before rendering — an independent pass that checks every
+origin claim cites the *earliest* paper that earned priority, oldest-first. Every
+in-text citation must name a paper that exists in `rows.json`.
+
+## `lab_corpus.py` — ingest a lab's corpus (Lab mode, L1)
+
+Entry point for **lab mode** (start from a lab's papers instead of a query).
+Pulls a lab's full publication list from OpenAlex by author id.
+
+```
+python3 tools/lab_corpus.py --search "Jack Gallant"        # find the author id
+python3 tools/lab_corpus.py --author A5056348548 --out lab_papers.json
+```
+
+Output `lab_papers.json` (title / year / doi / venue / citations / coauthors /
+abstract). **Then enrich abstracts (Semantic Scholar / PubMed) before
+classifying — OpenAlex abstracts are spotty and its topic tags are coarse, so
+classifying from them alone mislabels papers.** Disambiguation is the #1
+correctness risk: review and prune the list before theming. See PLAYBOOK
+"Lab mode" for L1b–L4 (enrich → verify/classify → themes → trajectory figure).
+
+## `spreadsheet.py` — build the xlsx
+
+Reads a JSON of accumulated rows and writes the xlsx with the standard
+schema and color coding (white = source-doc, cream = search, green = xref).
+If any row carries `cite_openalex`/`cite_s2`, two `Cite` columns are added
+automatically after `Tag`. Always rebuild from the full JSON; xlsxwriter is
+write-only.
+
+```
+python3 tools/spreadsheet.py --rows rows.json --out bibliography.xlsx
+```
+
+`rows.json` per item: `{topic, ref, apa, link, summary, tag, pdf, xref,
+source}`. `link` is always a DOI URL (`https://doi.org/<doi>`); `pdf` is
+empty unless Phase 4 was opted into.
+
+## `reconcile_downloads.py` — match manually-downloaded PDFs **(opt-in, Phase 4)**
+
+Companion to `download.py`. PDF acquisition is not run by default.
+
+After the user clicks through the browser-helper page to grab paywalled
+or bot-blocked papers, this script reads each PDF in `~/Downloads` (or
+`--downloads-dir`), matches by filename↔DOI substring + author/year/title
+overlap from a manifest, and moves the PDF into the topic dir with the
+correct slug filename. Refuses to move when uncertain — better to skip
+than misfile.
+
+```
+python3 tools/reconcile_downloads.py --manifest papers/topic/_manifest.json \
+                                     --out-dir papers/topic/
+```
+
+Manifest format: list of `{slug, title, first_author, year, doi}`.
+Requires `pdftotext` (`brew install poppler` on macOS).
+
+## `search_prompt_template.md`
+
+Prompt template to fill in and pass to the search subagent (Phase 2).
+See the playbook for what to put in each `{PLACEHOLDER}`.
+
+---
+
+## Idiomatic usage
+
+```bash
+# Phase 2: spawn agent (fill in search_prompt_template.md). Agent returns
+#          a list of papers with DOI links (https://doi.org/<doi>).
+
+export LITREVIEW_EMAIL=you@inst.edu     # set once for verify.py + xref.py
+
+# Phase 3: verify what the agent gave you
+python3 tools/verify.py --citations agent_output_to_verify.json --out verify_report.json
+
+# Phase 5: build the spreadsheet
+python3 tools/spreadsheet.py --rows accumulated_rows.json --out bibliography.xlsx
+
+# Phase 5b: citation counts (attach to rows as cite_openalex/cite_s2, rerun spreadsheet)
+python3 tools/citations.py --rows accumulated_rows.json --out citation_counts.json
+
+# Phase 6: cross-citation analysis
+python3 tools/xref.py --papers all_papers_with_dois.json \
+                      --exclude existing_spreadsheet_dois.json \
+                      --out xref_$TOPIC.json \
+                      --min-cites 4 --resolve-unknown
+
+# ... pick from xref_$TOPIC.json, write summaries, repeat 3+5 ...
+
+# Phase 6b (optional): theoretical families (agent proposes, user approves) + figure
+python3 tools/families.py --rows accumulated_rows.json --assign families_input.json --out families.json
+python3 tools/families_figure.py --rows accumulated_rows.json --families families.json \
+                                 --out-prefix ${TOPIC}_families --title "$TOPIC — families"
+
+# Phase 7 (optional): AI-authored narrative review .docx (author content.json first,
+#   run the priority audit, then render — refs are pulled from rows.json)
+python3 tools/review_paper.py --rows accumulated_rows.json --content content.json \
+                              --figure ${TOPIC}_families.png --out ${TOPIC}_review.docx
+
+# --- OPTIONAL: Phase 4 (PDF download), only if user has asked for PDFs ---
+# python3 tools/download.py --papers verified_papers.json \
+#                           --out-dir papers/$TOPIC/ \
+#                           --email $LITREVIEW_EMAIL
+# python3 tools/reconcile_downloads.py --manifest papers/$TOPIC/_manifest.json \
+#                                      --out-dir papers/$TOPIC/
+```

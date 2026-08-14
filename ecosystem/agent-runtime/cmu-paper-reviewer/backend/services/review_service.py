@@ -1,0 +1,150 @@
+"""Review service refactored from generate_review.py — orchestrates the OpenHands agent."""
+
+import json
+import logging
+import os
+import random
+import uuid
+
+from openhands.sdk import Agent, Conversation, Event, LLM, LLMConvertibleEvent, Tool
+from openhands.sdk.context.condenser import LLMSummarizingCondenser
+from openhands.tools.file_editor import FileEditorTool
+from openhands.tools.task_tracker import TaskTrackerTool
+from openhands.tools.terminal.definition import TerminalTool
+
+from backend.config import settings
+from backend.reviewer_prompt import build_reviewer_prompt
+from backend.services.storage_service import preprint_dir, review_md_path, review_output_dir
+
+logger = logging.getLogger(__name__)
+
+
+class ReviewService:
+    def __init__(
+        self,
+        litellm_api_key: str | None = None,
+        litellm_base_url: str | None = None,
+        tavily_api_key: str | None = None,
+        review_settings: dict | None = None,
+    ):
+        # Randomly pick a model from the configured list
+        self.model_name = random.choice(settings.review_models)
+        self.litellm_api_key = litellm_api_key or settings.litellm_api_key
+        self.litellm_base_url = litellm_base_url or settings.litellm_base_url
+        self.tavily_api_key = tavily_api_key or settings.tavily_api_key
+        self.review_settings = review_settings
+
+    def _build_llm(self) -> LLM:
+        # Disable Claude/Anthropic-specific params that non-Claude models
+        # (e.g. Azure AI GPT-5.5, Gemini) don't support.
+        is_claude = "claude" in self.model_name.lower()
+
+        return LLM(
+            model=self.model_name,
+            base_url=self.litellm_base_url,
+            api_key=self.litellm_api_key,
+            drop_params=True,
+            prompt_cache_retention="24h" if is_claude else None,
+            caching_prompt=is_claude,
+            reasoning_effort="high" if is_claude else None,
+            extended_thinking_budget=200000 if is_claude else None,
+            # Pass reasoning back as encrypted content rather than by ID. The
+            # GPT-5 family on the Azure Responses API is stateless (store=false),
+            # so a follow-up turn that references a prior reasoning item by ID
+            # fails with `invalid_request_error / param: input` ("Item rs_... not
+            # found"). Sending the encrypted reasoning item inline avoids that.
+            # Safe for Claude too (validated for gpt-5.4 and gpt-5.5).
+            enable_encrypted_reasoning=True,
+        )
+
+    def _build_mcp_config(self) -> dict:
+        if not self.tavily_api_key:
+            return {}
+
+        import sys
+
+        # Always use our custom MCP server (more reliable than npx mcp-remote
+        # which uses a fragile SSE proxy to mcp.tavily.com).
+        args = [
+            sys.executable, "-m", "backend.services.tavily_mcp",
+            "--api-key", self.tavily_api_key,
+        ]
+
+        # Add date filtering if user disabled future references and we have a paper date
+        if self.review_settings:
+            enable_future = self.review_settings.get("enable_future_references", True)
+            paper_date = self.review_settings.get("paper_date")
+            if not enable_future and paper_date:
+                args.extend(["--paper-date", paper_date])
+
+        return {
+            "tavily": {
+                "command": args[0],
+                "args": args[1:],
+            }
+        }
+
+    def run_review(self, key: str) -> tuple[str, str]:
+        """Run the OpenHands review agent for a given submission.
+
+        Returns a tuple of (path to review markdown, model name used).
+        """
+        logger.info("Starting review for key=%s with model=%s", key, self.model_name)
+
+        llm = self._build_llm()
+        condenser = LLMSummarizingCondenser(
+            llm=llm.model_copy(update={"usage_id": "condenser"}),
+            max_size=200,
+            keep_first=3,
+        )
+
+        agent = Agent(
+            llm=llm,
+            tools=[
+                Tool(name=TerminalTool.name),
+                Tool(name=FileEditorTool.name),
+                Tool(name=TaskTrackerTool.name),
+            ],
+            mcp_config=self._build_mcp_config(),
+            condenser=condenser,
+        )
+
+        link_to_paper = str(preprint_dir(key))
+        model_short = self.model_name.split("/")[-1]
+        readable_id = f"{self.model_name.replace('/', '_')}_{key}".replace(".", "_").replace("-", "_")
+        conversation_uuid = uuid.uuid5(uuid.NAMESPACE_DNS, readable_id)
+
+        # Ensure review output directory exists
+        review_output_dir(key).mkdir(parents=True, exist_ok=True)
+
+        cwd = os.getcwd()
+        conversation = Conversation(
+            agent=agent,
+            workspace=cwd,
+            persistence_dir=str(review_output_dir(key) / f"{model_short}_trajectory"),
+            conversation_id=conversation_uuid,
+            max_iteration_per_run=200,
+        )
+
+        prompt = build_reviewer_prompt(self.review_settings)
+        prompt = prompt.replace("[LINK TO THE PAPER]", link_to_paper).replace(
+            "[MODEL NAME]", model_short
+        )
+        conversation.send_message(prompt)
+        conversation.run()
+
+        cost = conversation.conversation_stats.get_combined_metrics().accumulated_cost
+        logger.info("Review complete for key=%s, cost=%s", key, cost)
+
+        del conversation
+
+        # The agent writes to review_[MODEL NAME].md — copy/rename to review.md
+        agent_review_path = review_output_dir(key) / f"review_{model_short}.md"
+        canonical_path = review_md_path(key)
+        if agent_review_path.exists() and not canonical_path.exists():
+            agent_review_path.rename(canonical_path)
+        elif agent_review_path.exists():
+            # If review.md already exists, overwrite
+            canonical_path.write_text(agent_review_path.read_text(encoding="utf-8"), encoding="utf-8")
+
+        return str(canonical_path), self.model_name

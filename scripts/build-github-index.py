@@ -105,6 +105,11 @@ CATALOG = {
   "agentic-community/mcp-gateway-registry": ("protocols", 2, "MCP gateway registry (control plane)"),
   "a2aproject/A2A": ("protocols", 2, "A2A agent-to-agent protocol"),
   "GoogleCloudPlatform/knowledge-catalog": ("protocols", 2, "Open Knowledge Format (OKF)"),
+  "mntlra/knowledgeProvenance": ("epistemic", 1, "PROV-K nanopubs: multi-source assertions + trust networks"),
+  "prometheus-eval/cmu-paper-reviewer": ("agent-runtime", 1, "CMU paper reviewer (5 critical issues)"),
+  "gallantlab/literature-review-toolkit": ("science-infra", 1, "topic-agnostic literature review agent"),
+  "wan-huiyan/agent-review-panel": ("agent-runtime", 1, "16-phase adversarial review panel (claim/severity verify + judge)"),
+
 }
 
 def main():

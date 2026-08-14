@@ -236,3 +236,13 @@ imposed.
 - **`specs/SPEC-18-COMPLETE-PIPELINE.md`** — the full pipeline (textual/epistemic/work substrates →
   TranslationProof → claim/argument/evidence → review → projection → education).
 - `scripts/validate-products.py` (11/11) added to test suite (now 11 total tests... will confirm).
+
+## 2026-08-14 (cont.) — cloned + validated 4 more high-value repos
+- **Cloned (tracked, clean):** `mntlra/knowledgeProvenance` (748K, PROV-K nanopubs), `cmu-paper-reviewer`
+  (3.6M), `literature-review-toolkit` (11M), `agent-review-panel` (13M).
+- **Validated knowledgeProvenance** (`validate-provenance.py`, 4/4): our epistemic ceilings map cleanly
+  to PROV-K nanopub types (SCHOLARLY_CORROBORATED → ReliableFact, MACHINE_PROPOSED → UncertainFact) with
+  content-addressed ids + provenance — the outward serialization for Layer 02/04.
+- **agent-review-panel**: extracted its 16-phase protocol (Phase 10 claim-verify, Phase 11 severity-verify,
+  Phase 14 judge) — directly enhances our `lib/scholar_review.py`.
+- GitHub index 79 → **83 repos**. Test suite now **12/12**.

@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+venv*/
+.venv/
+
+# Node
+node_modules/
+
+# Runtime
+*.db
+*.sqlite
+.env
+.DS_Store
+
+# Backups
+*.bak
+
+# IDE
+.vscode/
+.idea/

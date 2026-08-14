@@ -58,6 +58,7 @@ print("\n=== 3. LAYER VALIDATIONS ===")
 run_script("validate-layer03-05.py", "layer_03_05_factory_research")
 run_script("validate-layer10.py", "layer_10_retrieval_comparison")
 run_script("validate-products.py", "product_kernels_translation_review_schema")
+run_script("validate-provenance.py", "provenance_nanopub_emission")
 
 # ---- summary ----
 n = len(results["tests"]); npass = sum(1 for t in results["tests"] if t["pass"])

@@ -1,0 +1,34 @@
+/keys/*
+.env
+data/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+*.db
+*.sqlite3
+/annotations.json
+/annotations_debates.json
+scripts/download_annotations_.py
+scripts/deploy_.sh
+scripts/download_annotation_.sh
+.DS_Store
+downloaded_papers/*
+
+# Archived internal research tree (kept locally, never tracked)
+peerreview_bench_internal/
+
+# Generated / downloaded data in the public eval harness
+peerreview_bench/api_key/
+peerreview_bench/papers/
+peerreview_bench/outputs/
+peerreview_bench/**/agent_trajectories/
+peerreview_bench/**/*_trajectory/
+peerreview_bench/**/conversations/
+**/__pycache__/
+
+peerreview_bench_internal/

@@ -1,5 +1,5 @@
 {
- "count": 79,
+ "count": 83,
  "entries": [
   {
    "owner": "infinitywings",
@@ -790,6 +790,46 @@
    "tier": 2,
    "tier_label": "architecture",
    "note": "Open Knowledge Format (OKF)"
+  },
+  {
+   "owner": "mntlra",
+   "name": "knowledgeProvenance",
+   "repo": "mntlra/knowledgeProvenance",
+   "url": "https://github.com/mntlra/knowledgeProvenance",
+   "category": "epistemic",
+   "tier": 1,
+   "tier_label": "ingest",
+   "note": "PROV-K nanopubs: multi-source assertions + trust networks"
+  },
+  {
+   "owner": "prometheus-eval",
+   "name": "cmu-paper-reviewer",
+   "repo": "prometheus-eval/cmu-paper-reviewer",
+   "url": "https://github.com/prometheus-eval/cmu-paper-reviewer",
+   "category": "agent-runtime",
+   "tier": 1,
+   "tier_label": "ingest",
+   "note": "CMU paper reviewer (5 critical issues)"
+  },
+  {
+   "owner": "gallantlab",
+   "name": "literature-review-toolkit",
+   "repo": "gallantlab/literature-review-toolkit",
+   "url": "https://github.com/gallantlab/literature-review-toolkit",
+   "category": "science-infra",
+   "tier": 1,
+   "tier_label": "ingest",
+   "note": "topic-agnostic literature review agent"
+  },
+  {
+   "owner": "wan-huiyan",
+   "name": "agent-review-panel",
+   "repo": "wan-huiyan/agent-review-panel",
+   "url": "https://github.com/wan-huiyan/agent-review-panel",
+   "category": "agent-runtime",
+   "tier": 1,
+   "tier_label": "ingest",
+   "note": "16-phase adversarial review panel (claim/severity verify + judge)"
   }
  ]
 }
