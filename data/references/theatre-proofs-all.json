@@ -1,7 +1,7 @@
 {
- "count": 49,
+ "count": 50,
  "verdicts": {
-  "PROVEN": 22,
+  "PROVEN": 23,
   "PROVEN-MECHANISM": 26,
   "UNPROVEN": 1
  },
@@ -587,12 +587,24 @@
    "layer": "ALL",
    "vision": "Verified Epistemic OS",
    "kernel": "verification",
-   "claim": "all 48 experiments: 22 PROVEN real, 26 mechanism-only, 0 unproven",
+   "claim": "all 49 experiments audited",
    "test_exists": true,
    "passes": false,
    "uses_real_data": true,
    "verdict": "UNPROVEN",
-   "proof_hash": "642da046c1b2a6f7"
+   "proof_hash": "86a374f67be85fed"
+  },
+  {
+   "script": "experiment-essay-as-engine.py",
+   "layer": "L04/L06",
+   "vision": "Enquiry-Discovery Organism",
+   "kernel": "essay-as-engine",
+   "claim": "mine a scholar essay into claim+argument+crux+evidence objects \u2014 essays as derivation input",
+   "test_exists": true,
+   "passes": true,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "8dc60e0926fc89eb"
   }
  ]
 }

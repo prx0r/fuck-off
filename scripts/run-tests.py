@@ -97,6 +97,7 @@ run_script("experiment-claim-standardisation.py", "claim_standardisation")
 run_script("theatre-check.py", "theatre_check")
 run_script("theatre-check-all.py", "theatre_check_all")
 run_script("experiment-essay-as-engine.py", "essay_as_engine")
+run_script("validate-essay-ingest.py", "essay_ingest_pipeline")
 
 # ---- summary ----
 n = len(results["tests"]); npass = sum(1 for t in results["tests"] if t["pass"])

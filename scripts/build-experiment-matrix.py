@@ -72,6 +72,7 @@ MATRIX = {
   "theatre-check.py": ("ALL", "the anti-theatre skill", "Verified Epistemic OS", "verification", "verifiable-proof audit: kernels"),
   "theatre-check-all.py": ("ALL", "the full anti-theatre audit", "Verified Epistemic OS", "verification", "all 49 experiments audited"),
   "experiment-essay-as-engine.py": ("L04/L06", "Ratié literature review (research-library)", "Enquiry-Discovery Organism", "essay-as-engine", "mine a scholar essay into claim+argument+crux+evidence objects — essays as derivation input"),
+  "validate-essay-ingest.py": ("L04/L06/L09", "Ratié essay (real data)", "Enquiry-Discovery Organism", "essay-ingest", "the 9-stage pipeline: structure→claims→evidence→argument→crux→review→pedagogy→reactive — 8/8"),
   "experiment-gem-extraction.py": ("L04", "pushing-tantraloka", "Enquiry-Discovery", "gem-extraction", "agentic enquiry→unseen gems (PENETRATION 1)"),
   "experiment-claim-standardisation.py": ("L06", "comparative pushing", "Comparative Philosophy", "standardisation", "structural claim vs tradition vocab/boundary"),
 }

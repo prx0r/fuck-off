@@ -1,5 +1,5 @@
 {
- "count": 50,
+ "count": 51,
  "entries": [
   {
    "script": "validate-layer03-05.py",
@@ -450,6 +450,15 @@
    "kernel": "essay-as-engine",
    "status": "RUN",
    "note": "mine a scholar essay into claim+argument+crux+evidence objects \u2014 essays as derivation input"
+  },
+  {
+   "script": "validate-essay-ingest.py",
+   "layer": "L04/L06/L09",
+   "source": "Rati\u00e9 essay (real data)",
+   "vision": "Enquiry-Discovery Organism",
+   "kernel": "essay-ingest",
+   "status": "RUN",
+   "note": "the 9-stage pipeline: structure\u2192claims\u2192evidence\u2192argument\u2192crux\u2192review\u2192pedagogy\u2192reactive \u2014 8/8"
   }
  ]
 }

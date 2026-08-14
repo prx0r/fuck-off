@@ -22,6 +22,7 @@ product patala listed — and the **extra products** they didn't anticipate.*
 | `v2/RECONCILIATION.md` | their spec ↔ our implementations (what's built, what needs building) |
 | `v2/EXPANSIONS.md` | the products/mechanisms BEYOND their plan (what our lab discovered) |
 | `v2/PUSHING-ORGANISM-ESSAYS.md` | the human side: logicvid gold + organism + essays-as-machine |
+| `v2/ESSAY-INGEST.md` | the deep essay-ingest architecture (9 stages, each → proven kernel) |
 | `v2/strategy/` | the strategic view from our side |
 
 ## The one-line summary

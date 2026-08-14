@@ -1,6 +1,6 @@
 # EXPERIMENT MATRIX — what's been tested
 
-*2026-08-14. 50 experiments mapped to layer / source repo / vision / kernel / result.*
+*2026-08-14. 51 experiments mapped to layer / source repo / vision / kernel / result.*
 Machine form: `data/references/experiments.json`.
 
 ## Argument Map (7)
@@ -62,12 +62,13 @@ Machine form: `data/references/experiments.json`.
 |--------|-------|--------|--------|--------|
 | `experiment-gem-extraction.py` | L04 | pushing-tantraloka | gem-extraction | RUN |
 
-## Enquiry-Discovery Organism (2)
+## Enquiry-Discovery Organism (3)
 
 | script | layer | source | kernel | result |
 |--------|-------|--------|--------|--------|
 | `experiment-enquiry-discovery.py` | L04 | logic5 presence enquiry (SPEC-46) | enquiry | RUN |
 | `experiment-essay-as-engine.py` | L04/L06 | Ratié literature review (research-library) | essay-as-engine | RUN |
+| `validate-essay-ingest.py` | L04/L06/L09 | Ratié essay (real data) | essay-ingest | RUN |
 
 ## Executable Knowledge (1)
 

@@ -597,3 +597,15 @@ imposed.
   claim + argument + crux + evidence objects (from the real Ratié literature-review). Essays become
   DERIVATION INPUT, not dead prose.
 - Wired into migration README + NAVIGATION. Test suite 49 → **50/50**.
+
+## 2026-08-14 (essay-ingest deep design) — essays as derivation input, 9-stage pipeline
+- **`lib/essay_ingest.py`** — the essay-ingest kernel: a scholarly essay runs through our EXISTING
+  epistemic pipeline, not a separate reader. 9 stages, each using a proven kernel.
+- **`validate-essay-ingest.py`** (8/8 on real Ratié data) — structure(schema)→mine-claims(epistemic)→
+  evidence→argument(AIF)→crux(crux-compiler)→review(scholar_review+citecheck)→pedagogy→reactive
+  (staleness).
+- **`migration/v2/ESSAY-INGEST.md`** — the deep design reasoning: WHY each stage uses its kernel
+  (schema=contract, epistemic=honest ceilings, review=anti-theatre, reactive=projection).
+- **The unifying insight:** essay ingest is the pipeline applied to a structured document — no new
+  machinery, just wiring proven kernels. The essay becomes derivation input feeding review, comparison,
+  research, education, and the organism.
