@@ -1,0 +1,73 @@
+{
+ "run": "20260814-205609",
+ "overall": {
+  "pass": 7,
+  "fail": 0,
+  "error": 0
+ },
+ "stages": [
+  {
+   "stage": "0-ingest",
+   "script": "scripts/ingest-tantraloka-root.py",
+   "description": "the Sanskrit root \u2192 data/tantraloka",
+   "status": "PASS",
+   "time_s": 0.15,
+   "summary": "SUMMARY: 5860 k\u0101rik\u0101s ingested, 333 in \u0101hnika 1",
+   "rc": 0
+  },
+  {
+   "stage": "1-atlas",
+   "script": "scripts/validate-tantraloka-atlas.py",
+   "description": "bibliography/tagging/condition/timeline",
+   "status": "PASS",
+   "time_s": 0.05,
+   "summary": "=== SUMMARY: 12/12 passed ===",
+   "rc": 0
+  },
+  {
+   "stage": "2-translation",
+   "script": "scripts/validate-tantraloka-translation.py",
+   "description": "L0 + TranslationProof (REAL Hermes wiring)",
+   "status": "PASS",
+   "time_s": 7.31,
+   "summary": "=== SUMMARY: 10/10 passed ===",
+   "rc": 0
+  },
+  {
+   "stage": "3-argument",
+   "script": "scripts/validate-tantraloka-argument.py",
+   "description": "auto-mined cruxes from pushing sessions",
+   "status": "PASS",
+   "time_s": 0.04,
+   "summary": "=== SUMMARY: 8/8 passed ===",
+   "rc": 0
+  },
+  {
+   "stage": "4-fullstack",
+   "script": "scripts/validate-tantraloka-fullstack.py",
+   "description": "essay\u2192education\u2192pedagogy\u2192products",
+   "status": "PASS",
+   "time_s": 0.24,
+   "summary": "=== SUMMARY: 9/9 passed ===",
+   "rc": 0
+  },
+  {
+   "stage": "5-validation",
+   "script": "scripts/validate-tantraloka-vs-dyczkowski.py",
+   "description": "vs Dyczkowski (three-version)",
+   "status": "PASS",
+   "time_s": 0.06,
+   "summary": "=== SUMMARY: 7/7 passed ===",
+   "rc": 0
+  },
+  {
+   "stage": "6-factory",
+   "script": "scripts/validate-factory-pool.py",
+   "description": "the parallel worker pool",
+   "status": "PASS",
+   "time_s": 0.06,
+   "summary": "=== SUMMARY: 10/10 passed ===",
+   "rc": 0
+  }
+ ]
+}

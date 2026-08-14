@@ -959,3 +959,13 @@ Fixed the 3 remaining hand-fed Tantrāloka validators so the documented proof ma
   vs-Dyczkowski(7, real extracted text) + fullstack(9) + pushing-miner(7) + factory-pool(10) = 63 checks,
   ALL auto-derived from the actual root/pushing/Dyczkowski — no hand-fed theatre.
 - 43 kernels, 89 experiments. The documented proof now matches what the runner actually does.
+
+## 2026-08-14 (Tantrāloka live-test infrastructure — the autonomous-iteration log)
+- **`tantraloka/run-all.py`** — the live 7-stage ML-suite harness (ingest→atlas→translation→argument→
+  fullstack→validation→factory), recording PASS/FAIL/ERROR + timing per stage. Writes machine logs
+  (logs/run-*.json) + human logs (logs/run-*.txt) + iteration snapshots (iterations/*.json).
+- **`tantraloka/AUTONOMOUS-ITERATION-LOG.md`** — the running troubleshooting record: iteration 1 = all 7
+  stages pass; found + fixed the blank-ingest-summary gap (added SUMMARY line to ingest script).
+- **The live-test result:** 7/7 stages PASS with clean summaries (5,860 kārikās ingested, 333 in āhnika 1;
+  atlas 12/12; translation 10/10; argument 8/8; fullstack 9/9; validation 7/7; factory 10/10).
+- Wired into NAVIGATION. The whole autonomous build process is now logged + iterating.

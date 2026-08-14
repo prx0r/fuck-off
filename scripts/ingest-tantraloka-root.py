@@ -60,6 +60,7 @@ def main():
     print(f"  sample verses:")
     for v in verses[:4]:
         print(f"    {v['ref']}: {v['text'][:60]}")
+    print(f"  SUMMARY: {len(verses)} kārikās ingested, {len(a1)} in āhnika 1")
 
 if __name__ == "__main__":
     main()

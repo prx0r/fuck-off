@@ -1,0 +1,12 @@
+  [PASS] 0-ingest:  (0.15s)
+  [PASS] 1-atlas: === SUMMARY: 12/12 passed === (0.04s)
+  [PASS] 2-translation: === SUMMARY: 10/10 passed === (7.08s)
+  [PASS] 3-argument: === SUMMARY: 8/8 passed === (0.05s)
+  [PASS] 4-fullstack: === SUMMARY: 9/9 passed === (0.33s)
+  [PASS] 5-validation: === SUMMARY: 7/7 passed === (0.07s)
+  [PASS] 6-factory: === SUMMARY: 10/10 passed === (0.06s)
+
+=== OVERALL: 7 PASS / 0 FAIL / 0 ERROR (of 7 stages) ===
+  log: /mnt/HC_Volume_106427611/ip-graph/tantraloka/logs/run-20260814-205433.json
+  human: /mnt/HC_Volume_106427611/ip-graph/tantraloka/logs/run-20260814-205433.txt
+  iteration: /mnt/HC_Volume_106427611/ip-graph/tantraloka/iterations/20260814-205433.json

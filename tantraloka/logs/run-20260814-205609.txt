@@ -1,0 +1,10 @@
+TANTRĀLOKA LIVE TEST RUN — 20260814-205609
+============================================================
+
+[PASS] 0-ingest: SUMMARY: 5860 kārikās ingested, 333 in āhnika 1 (0.15s)
+[PASS] 1-atlas: === SUMMARY: 12/12 passed === (0.05s)
+[PASS] 2-translation: === SUMMARY: 10/10 passed === (7.31s)
+[PASS] 3-argument: === SUMMARY: 8/8 passed === (0.04s)
+[PASS] 4-fullstack: === SUMMARY: 9/9 passed === (0.24s)
+[PASS] 5-validation: === SUMMARY: 7/7 passed === (0.06s)
+[PASS] 6-factory: === SUMMARY: 10/10 passed === (0.06s)
