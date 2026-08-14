@@ -47,17 +47,27 @@ honest gaps the audit found, and the correct build order. A task is DONE only wh
 - [ ] `validate-essay-ingest.py` — header claims "real Ratié, 8/8" but the essay is hand-fed. Either read
       the real Ratié chapter or mark PROVEN-MECHANISM.
 
-### 0.3 Index + validate `hermes_exec.py` [P0]
-- [ ] It's the real execution path but has NO validator and is the 40th kernel not fully tracked.
-- [ ] Build `validate-hermes-exec.py` (a real `hermes -z` call that returns the expected token).
+### 0.3 Index + validate `hermes_exec.py` [DONE]
+- Fixed `hermes_exec.py` to use the AGENTIC `hermes chat -Q -q --yolo` invocation (not blind `-z`, which is
+  ~3.8% yield on translation — the critical-audit + BUILD-WIRE-HERMES-GENERATION correction).
+- `translation.py` now has a `generate()` method (Hermes for GENERATION) — real model output, not hand-fed.
+- `validate-hermes-exec.py` (6/6): agentic path available + generates a real AbhT_1.52 translation.
 
 ### 0.4 STEAL from `hound` (scabench-org, cloned) — iteration-verified confidence [P1]
 Hound's `DynamicNode` carries `observations` (verified) vs `assumptions` (unverified) + `iteration: int`
 (how many passes confirmed a claim). That's a stronger epistemic signal than our binary ceiling:
-- [ ] Extend `lib/epistemic.py` / `lib/evidence_ledger.py` with **iteration-verified confidence** — a claim
-      confirmed across N independent passes is more trustworthy than one at the same ceiling.
+- [x] Built `lib/iteration_confidence.py` (5/5) — a 3x-confirmed claim is measurably stronger than 1x.
 - [ ] The **scout/strategist split** (cheap model explores, heavy model reasons) as a cost-efficiency
       extension to `next_action` — currently we don't split exploration vs deep reasoning.
+
+### 0.5 THE ARCHITECTURE RULE (from the shared critical-audit — CORRECT, adopted)
+> **Hermes for GENERATION. `.py` for REDUCTION.**
+> - GENERATION (translation, commentary, essays, new pushing) → agentic `hermes chat` (`hermes_exec`).
+> - REDUCTION (review, staleness, evidence, gates, epistemic) → deterministic `.py` (correct as-is).
+- [x] `hermes_exec.py` uses agentic `hermes chat` (not blind `-z`).
+- [x] `translation.py.generate()` calls Hermes for real output.
+- [ ] Wire the organism's `refine()` + `translation_variant` T2 to call Hermes (real generation).
+- [ ] `pushing_miner.py` keeps regex-mining the HUMAN gold; add Hermes for NEW pushing generation.
 
 ---
 

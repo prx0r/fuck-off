@@ -885,3 +885,17 @@ Ran a full 4-agent inventory (specs, kernels/experiments, ecosystem, layers/visi
   for a 1x-confirmed claim.
 - Wired into run-tests + matrix + KERNELS-INDEX + theatre-check. 41 kernels, 84 experiments, 82/82 pass.
 - This closes DEV_PLAN §0.4 (the hound steal) + §0.3 (validate hermes_exec still open).
+
+## 2026-08-14 (shared-docs review + the Hermes-for-GENERATION fix)
+Reviewed agentpatala's new shared docs (CRITICAL-AUDIT-IPGRAPH, BUILD-WIRE-HERMES-GENERATION,
+BUILD-AGENT-SYSTEM-RECOVERY) against my own specs/layers — by RUNNING the code, not trusting either side.
+**Verdict: agentpatala is CORRECT on the two big findings; I fixed them.**
+- **`hermes_exec.py` was orphaned + used blind `-z`** (the audit's finding, verified) → REWROTE to agentic
+  `hermes chat -Q -q --yolo` (the correct GENERATION path, per HERMES-CALLING.md + model.py chat_agentic).
+- **The generation kernels were hand-fed containers** (verified) → added `translation.py.generate()` which
+  calls Hermes for REAL model output (not hand-set PASS fields).
+- **`validate-hermes-exec.py` (6/6)** — proves the agentic path generates a real AbhT_1.52 translation.
+- **Adopted the architecture rule** (DEV_PLAN §0.5): *Hermes for GENERATION, .py for REDUCTION.*
+- **`SHARED-DOCS-ASSESSMENT.md`** — my verdict: audit correct (fixed); where I'm ahead (read plane, anti-
+  theatre tooling, hound/pushing/convergence steals); the Doyle graph is honest (real Sanskrit = Tantrāloka root).
+- 42 kernels, 86 experiments, 82/82 tests (contract convergence + hermes generation wired).

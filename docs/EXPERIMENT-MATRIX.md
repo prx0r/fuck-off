@@ -1,6 +1,6 @@
 # EXPERIMENT MATRIX — what's been tested
 
-*2026-08-14. 84 experiments mapped to layer / source repo / vision / kernel / result.*
+*2026-08-14. 86 experiments mapped to layer / source repo / vision / kernel / result.*
 Machine form: `data/references/experiments.json`.
 
 ## Argument Map (7)
@@ -102,7 +102,7 @@ Machine form: `data/references/experiments.json`.
 | `experiment-causal-operational-graph.py` | L12 | patalamix review #12 | causal-operational | RUN |
 | `experiment-signed-statement.py` | L12 | cosign (cloned) | signing | RUN |
 
-## Verified Epistemic OS (41)
+## Verified Epistemic OS (43)
 
 | script | layer | source | kernel | result |
 |--------|-------|--------|--------|--------|
@@ -120,10 +120,12 @@ Machine form: `data/references/experiments.json`.
 | `validate-bundle-router.py` | L06/L07 | real graph + corpus | bundle-router | RUN |
 | `validate-cognee-compare.py` | L09 | real graph + cognee (topoteretes ⭐30k) | cognee | RUN |
 | `validate-context-compiler.py` | L06 | real graph (490/6578) | projection-compiler | RUN |
+| `validate-contract-convergence.py` | L00/L05 | 6 divergent ReviewEvent/Authority defs | contract-convergence | RUN |
 | `validate-evidence-ledger.py` | L08 | typed events | evidence-ledger | RUN |
 | `validate-fts-baseline.py` | L06 | real corpus (425) | fts-baseline | RUN |
 | `validate-graduation-ipvv.py` | ALL | real IPK primary text (Torella) + Ratié | ipvv-graduation | RUN |
 | `validate-graduation.py` | ALL | real graph/argument/canonical-dag | graduation | RUN |
+| `validate-hermes-exec.py` | ALL | real AbhT_1.52 kārikā via agentic hermes chat | hermes-generation | RUN |
 | `validate-ingestion-organism.py` | ALL | sivaqueue-style Sanskrit targets | ingestion-organism | RUN |
 | `validate-integrity-gate.py` | L05 | real IPK sources | integrity-gate | RUN |
 | `validate-iteration-confidence.py` | L00 | real reflexivity claim (AbhT_1.52) | iteration-confidence | RUN |

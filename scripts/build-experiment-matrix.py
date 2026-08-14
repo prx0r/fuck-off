@@ -108,6 +108,8 @@ MATRIX = {
   "validate-tantraloka-fullstack.py": ("ALL", "real theme cluster CL-3 + Ahnika-1", "Verified Epistemic OS", "tantraloka-fullstack", "RUN THE FULL STACK: theme→essay→education→pedagogy→products on real data — 9/9"),
   "validate-pushing-miner.py": ("L04", "35 pushing-tantraloka LOGICVID sessions", "Enquiry-Discovery Organism", "pushing-miner", "wire the crux compass: mine 35 human LOGICVID sessions into cruxes+claims grounded in karikas — 7/7"),
   "validate-iteration-confidence.py": ("L00", "real reflexivity claim (AbhT_1.52)", "Verified Epistemic OS", "iteration-confidence", "hound steal: iteration-verified confidence (3x-confirmed claim stronger than 1x at same ceiling; convergence=fundamentality) — 5/5"),
+  "validate-contract-convergence.py": ("L00/L05", "6 divergent ReviewEvent/Authority defs", "Verified Epistemic OS", "contract-convergence", "THE #1 build: converge the 6 divergent contracts onto ONE non-scalar AuthorityVector + ReviewEvent; PARITY with OG — 10/10"),
+  "validate-hermes-exec.py": ("ALL", "real AbhT_1.52 kārikā via agentic hermes chat", "Verified Epistemic OS", "hermes-generation", "the Hermes-for-GENERATION fix: agentic hermes chat (not blind -z) generates a real translation — 6/6"),
 }
 
 def main():

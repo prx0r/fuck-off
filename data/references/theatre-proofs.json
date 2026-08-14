@@ -1,6 +1,6 @@
 {
- "count": 42,
- "proven": 36,
+ "count": 43,
+ "proven": 37,
  "mechanism_only": 6,
  "unproven": 0,
  "proofs": [
@@ -58,6 +58,17 @@
    "uses_real_data": true,
    "verdict": "PROVEN",
    "proof_hash": "345b6bea38cc0f6b"
+  },
+  {
+   "kernel": "contract_convergence",
+   "doc_claim": "",
+   "test_script": "validate-contract-convergence.py",
+   "test_exists": true,
+   "test_passes": true,
+   "exit_code": 0,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "e99e270296a46cb5"
   },
   {
    "kernel": "discovery",

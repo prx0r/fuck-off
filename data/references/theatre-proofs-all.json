@@ -1,8 +1,8 @@
 {
- "count": 83,
+ "count": 84,
  "verdicts": {
   "PROVEN": 38,
-  "PROVEN-MECHANISM": 45
+  "PROVEN-MECHANISM": 46
  },
  "proofs": [
   {
@@ -1000,6 +1000,18 @@
    "uses_real_data": false,
    "verdict": "PROVEN-MECHANISM",
    "proof_hash": "9c1550bed70376c6"
+  },
+  {
+   "script": "validate-contract-convergence.py",
+   "layer": "L00/L05",
+   "vision": "Verified Epistemic OS",
+   "kernel": "contract-convergence",
+   "claim": "THE #1 build: converge the 6 divergent contracts onto ONE non-scalar AuthorityVector + ReviewEvent; PARITY with OG \u2014 10/10",
+   "test_exists": true,
+   "passes": true,
+   "uses_real_data": false,
+   "verdict": "PROVEN-MECHANISM",
+   "proof_hash": "67336d1426dfd4ab"
   }
  ]
 }

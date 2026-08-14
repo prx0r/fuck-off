@@ -1,5 +1,5 @@
 {
- "count": 84,
+ "count": 86,
  "entries": [
   {
    "script": "validate-layer03-05.py",
@@ -756,6 +756,24 @@
    "kernel": "iteration-confidence",
    "status": "RUN",
    "note": "hound steal: iteration-verified confidence (3x-confirmed claim stronger than 1x at same ceiling; convergence=fundamentality) \u2014 5/5"
+  },
+  {
+   "script": "validate-contract-convergence.py",
+   "layer": "L00/L05",
+   "source": "6 divergent ReviewEvent/Authority defs",
+   "vision": "Verified Epistemic OS",
+   "kernel": "contract-convergence",
+   "status": "RUN",
+   "note": "THE #1 build: converge the 6 divergent contracts onto ONE non-scalar AuthorityVector + ReviewEvent; PARITY with OG \u2014 10/10"
+  },
+  {
+   "script": "validate-hermes-exec.py",
+   "layer": "ALL",
+   "source": "real AbhT_1.52 k\u0101rik\u0101 via agentic hermes chat",
+   "vision": "Verified Epistemic OS",
+   "kernel": "hermes-generation",
+   "status": "RUN",
+   "note": "the Hermes-for-GENERATION fix: agentic hermes chat (not blind -z) generates a real translation \u2014 6/6"
   }
  ]
 }

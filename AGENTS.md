@@ -30,8 +30,8 @@ match ground truth.
 
 | Artifact | Count | Machine source |
 |---|---|---|
-| Kernels (`lib/`) | **40** | `ls lib/*.py` |
-| Experiments (matrix) | **76** | `data/references/experiments.json` |
+| Kernels (`lib/`) | **42** | `ls lib/*.py` |
+| Experiments (matrix) | **85** | `data/references/experiments.json` |
 | Test suite | **76/76 pass** | `scripts/run-tests.py` |
 | Theatre audit | **35 PROVEN real / 40 mechanism / 0 unproven** (75 audited) | `scripts/theatre-check-all.py` |
 | GitHub repo catalog | **99** | `data/references/github.json` |

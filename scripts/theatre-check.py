@@ -60,6 +60,7 @@ KERNEL_TESTS = {
     "tantraloka_fullstack": ("validate-tantraloka-fullstack.py", True),
     "pushing_miner":      ("validate-pushing-miner.py", True),
     "iteration_confidence": ("validate-iteration-confidence.py", True),
+    "contract_convergence": ("validate-contract-convergence.py", True),
 }
 
 # docs claims (from LAB-REVIEW / KERNELS-INDEX) to verify against tests

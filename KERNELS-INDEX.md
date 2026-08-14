@@ -1,6 +1,6 @@
 # KERNELS-INDEX — the reusable kernels (what's in lib/, what it does, how it's validated)
 
-*2026-08-14. The agent-facing map of every reusable kernel (now 41). Reuse these — never rebuild. Each
+*2026-08-14. The agent-facing map of every reusable kernel (now 42). Reuse these — never rebuild. Each
 maps to: what it is · layer · vision · the experiment(s) that validate it · honest status.*
 
 | Kernel | What it does | Layer | Vision | Validated by | Status |
@@ -46,6 +46,7 @@ maps to: what it is · layer · vision · the experiment(s) that validate it · 
 | `hermes_exec.py` | the REAL execution path: shells to `hermes -z` so the organism can actually generate (translation/commentary/essay) | ALL | Autonomous Institute | (none — needs validator) | REAL EXECUTION |
 | `pushing_miner.py` | wire the crux compass: mines the 35 pushing-tantraloka LOGICVID sessions into cruxes+claims grounded in kārikās | L04 | Enquiry-Discovery | validate-pushing-miner | VALIDATED (7/7, real sessions) |
 | `iteration_confidence.py` | hound steal: iteration-verified confidence (observations vs assumptions + iteration count; convergence = fundamentality) | L00 | Verified OS | validate-iteration-confidence | VALIDATED (5/5) |
+| `canonical_contracts.py` | THE contract convergence: ONE non-scalar 4-axis AuthorityVector + ReviewEvent (fixes lib/epistemic's scalar ceiling error), PARITY with OG | L00/L05 | Verified OS | validate-contract-convergence | VALIDATED (10/10) |
 
 ## Rules for agents
 1. **Reuse, don't rebuild** (axiom): a task that maps to a kernel → call the kernel.
