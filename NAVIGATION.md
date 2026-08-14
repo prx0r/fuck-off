@@ -122,6 +122,7 @@ graph after adding text, run `build-graph.py`.
 | `COHERENCE-AUDIT.md` | the zoom-out: every kernel → patala layer + every frontier build → patala product |
 | `BUILT-BY-LAYER.md` | the precise per-layer inventory: what's fully built vs mechanism-only vs gap |
 | `DEV-PLAN-HONEST.md` | the sober dev plan: stop adding kernels, wire the real corpus (depth over breadth) |
+| `tantraloka/` | **THE MONA LISA** — Tantrāloka from scratch: the canonical full-stack test + full hypotheses/order |
 | `BUILDNOTES.md` | full build history + decisions |
 | `NAVIGATION.md` | this file |
 | `TODO.md` | live task tracker |

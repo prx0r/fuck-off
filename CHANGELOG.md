@@ -816,3 +816,13 @@ Autonomous build of 7 infrastructure kernels inspired by the patala v2/v3 GEMs +
   from the Sanskrit (NOT reading Dyczkowski); then validate vs Dyczkowski via the three-version method
   (agreement = hard core, divergence = interpretation-space).
 - DEV-PLAN-HONEST.md + shared DEV-PLAN-AGENTGRAPH.md updated: Tantrāloka is the P0 canonical test.
+
+## 2026-08-14 (TANTRĀLOKA OPERATIONAL PLAN — the Mona Lisa, ready-to-go)
+- **`tantraloka/` folder created** with the full plan + hypotheses for the canonical full-stack test:
+  - `README.md` — the live-autonomous-system vision: bibliography → tagging → condition → timeline →
+    ingest → L0 → TranslationProof → Commentary → Argument/Crux → Synthesis → Essay → Education →
+    Products → validate vs Dyczkowski. Hypothesis + expected + why + test per layer.
+  - `OPERATIONAL-PLAN.md` — the executable STEP 0-5 sequence, mapped to scripts/kernels, each gated,
+    with the 5 falsifiable hypotheses + the ordering rule.
+- The correct order: atlas (what it is) → refinery (spine) → reasoning → reproductive/sensory → validation.
+- Wired into NAVIGATION + the honest dev plan (P0 = Tantrāloka from scratch).
