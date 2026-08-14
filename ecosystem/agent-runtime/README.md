@@ -23,3 +23,6 @@ runtime yet.
 | prometheus-eval/cmu-paper-reviewer | **CLONED** (agent-runtime/) — 5-critical-issue paper reviewer (Apache-2.0) |
 | gallantlab/literature-review-toolkit | **CLONED** (science/) — topic-agnostic literature review agent (MIT) |
 | wan-huiyan/agent-review-panel | **CLONED** (agent-runtime/) — 16-phase adversarial review protocol (Phase 10 claim-verify, Phase 11 severity-verify, Phase 14 judge) |
+
+| alecnielsen/adversarial-review | **CLONED** (304K) — 4-phase adversarial debate loop; added cross-review to our kernel |
+| Ahren09/AgentReview | **CLONED** (5.6M) — peer-review process simulation; 37.1% reviewer-bias finding; tested our bias-robustness |

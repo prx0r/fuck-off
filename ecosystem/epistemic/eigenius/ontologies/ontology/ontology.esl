@@ -1,0 +1,107 @@
+// ════════════════════════════════════════════════════════════════════
+// ontology — Prop-valued structural relations over the class lattice.
+// ════════════════════════════════════════════════════════════════════
+//
+// `is_a` / `subclass_of` as **opaque** `Prop`-predicates (eigentt axioms) — the
+// meanings a **predicate nominal** ("HeLa is a cell line") produces (D63 §8.5
+// Slice 3c). They mirror the chain's `core:is_a` / `core:subclass_of` PROPERTIES
+// but are distinct objects: a property is an RDF-style relation on a resource;
+// these are `Prop`-FORMERS the DCG engine and the reasoning layer (D39) consume.
+//
+// **Opaque, not decidable** (felicity ≠ truth): the kernel gate checks only that
+// the proposition is well-formed; whether the membership *holds against the chain*
+// is a separate GROUNDING judgment (a `ChainWitness`, D39/D49). A decidable
+// predicate would reduce the claim to ⊤/⊥ from the lattice and so could never be
+// carried as a hypothesis or conditional antecedent — incompatible with
+// justification logic. (Mirrors how verb predications like `affects(…)` are opaque.)
+//
+// A class is a type (`EigonClass : Set`), so the class argument is a `Set` value.
+
+namespace ontology = "urn:eigenius:ontology";
+namespace lexicon  = "urn:eigenius:lexicon";
+
+// x is_a C — instance membership: the entity x is a member of class C.
+// "HeLa is a cell line" → is_a(hela, CellLine).
+axiom ontology:is_a : lexicon:Entity -> Set -> Prop
+
+// C subclass_of D — class subsumption: the kind C is a subkind of D.
+// "Genes are cell lines" (KIND subject) → subclass_of(Gene, CellLine). The
+// predicate-nominal copula reading that produces this awaits kind subjects (bare
+// plurals / generics — deferred); declared here as the relational vocabulary so the
+// reasoning layer and a later kind-subject reading share one canonical relation.
+axiom ontology:subclass_of : Set -> Set -> Prop
+
+// kind_of(C) — the kind C realized as an individual (Chierchia's ∩ nominalization): a
+// class (a `Set` value) mapped to the `Entity` that IS that kind. This lets a bare mass/
+// kind noun be a verb argument — "MSI contributes to cancers" → contribute_to(kind_of(MSI),
+// …) — a CLOSED predication about the kind, not an open deferred quantifier (D63
+// kind-predication reshape, `docs/notes/d63-kind-predication-reshape.md`). Opaque like
+// `is_a`/`compound`: the grammar guarantees the typed tree; the kind↔instances realization
+// is grounding-supplied by the encoding institution (D62).
+axiom ontology:kind_of : Set -> lexicon:Entity
+
+// the(A) — the unique presupposed referent of a DEFINITE noun-type A (the ι /
+// definite-description operator): a class (a `Set` value) mapped to THE individual of that
+// type. REFERENTIAL, not quantificational — a definite ("the exonuclease activity of WRN",
+// "these lines") denotes a fixed referent, so unlike an existential it does NOT scope under
+// negation / modals: `¬require(the(A), s)` is a single reading, where reusing the
+// existential encoding for definites spuriously bifurcated into `¬∃x.P` vs `∃x.¬P` (the two
+// equivalent for a unique referent — the WRN-paper "did not require the … of WRN"
+// over-generation). Opaque like `kind_of`: the grammar guarantees the typed tree; the
+// uniqueness presupposition + referent resolution are grounding-supplied (D62).
+axiom ontology:the : forall (A : Set) => A
+
+// ── Nominal-modification relations (D63 §8.13 Slice 6-mod) ────────────
+// OPAQUE modifier relations the compound-noun and PP-adjunct rules produce. The
+// modifier↔head relation is vague (compound: "WRN depletion" = depletion *of* WRN; PP:
+// "apoptosis in MSI" = located/scoped *in* MSI), so — like is_a / the modal operators —
+// these are kernel-uninterpreted axioms; the grammar guarantees a felicitous typed tree
+// exposing the parts, and the precise relation is grounding-supplied by the encoding
+// institution (D62). `compound(x, m)`: head entity x is a compound modified by entity m
+// ("WRN depletion" → Σx:Depletion. compound(x, WRN)). `prep_*(s, y)`: the predication s
+// stands in the prepositional relation to y ("… in MSI" → … ∧ prep_in(s, MSI)).
+axiom ontology:compound : lexicon:Entity -> lexicon:Entity -> Prop
+// N-N kind compound — the modifier is a common noun (a kind/`Set`), not an entity:
+// "mutator load" → Σx:Load. compound_kind(x, Mutator). (`compound` above is for a
+// named-entity modifier; `compound_kind` for a common-noun modifier.)
+axiom ontology:compound_kind : lexicon:Entity -> Set -> Prop
+axiom ontology:prep_of   : lexicon:Entity -> lexicon:Entity -> Prop
+axiom ontology:prep_in   : lexicon:Entity -> lexicon:Entity -> Prop
+axiom ontology:prep_for  : lexicon:Entity -> lexicon:Entity -> Prop
+axiom ontology:prep_with : lexicon:Entity -> lexicon:Entity -> Prop
+axiom ontology:prep_on   : lexicon:Entity -> lexicon:Entity -> Prop
+axiom ontology:prep_from : lexicon:Entity -> lexicon:Entity -> Prop
+axiom ontology:prep_between : lexicon:Entity -> lexicon:Entity -> Prop
+axiom ontology:prep_within  : lexicon:Entity -> lexicon:Entity -> Prop
+axiom ontology:prep_to      : lexicon:Entity -> lexicon:Entity -> Prop
+// Added 2026-07-26 after a 0-reading role sweep (`probe_preposition_role_coverage`) found 14
+// coverage holes the page-based `grammar-gap 0` could not see: `without`/`among`/`beyond` had NO
+// entry in any role ("Cells survive without oxygen." -> 0 readings) and at/into/upon/against/about/by
+// could not post-modify a noun ("The paper by the authors was clear." -> 0).
+axiom ontology:prep_at      : lexicon:Entity -> lexicon:Entity -> Prop
+axiom ontology:prep_into    : lexicon:Entity -> lexicon:Entity -> Prop
+axiom ontology:prep_upon    : lexicon:Entity -> lexicon:Entity -> Prop
+axiom ontology:prep_against : lexicon:Entity -> lexicon:Entity -> Prop
+axiom ontology:prep_about   : lexicon:Entity -> lexicon:Entity -> Prop
+axiom ontology:prep_by      : lexicon:Entity -> lexicon:Entity -> Prop
+axiom ontology:prep_without : lexicon:Entity -> lexicon:Entity -> Prop
+axiom ontology:prep_among   : lexicon:Entity -> lexicon:Entity -> Prop
+axiom ontology:prep_beyond  : lexicon:Entity -> lexicon:Entity -> Prop
+
+// ── Naming apposition (D63 §5.3, close apposition of a sortal + a proper name) ────────
+// `named(x, n)`: the individual `x` bears the proper name whose token is `n` — the coining
+// reading of "Project Achilles" / "the enzyme WRN" (a SORTAL common noun + a proper name).
+// OPAQUE like `compound`/`is_a`: the name TOKEN `n` (the name's own referent) labels `x`; the
+// construction does NOT claim `n` itself is of the sortal kind (so a name whose lexical sense is
+// unrelated — `Achilles` the hero — still felicitously names a Project). "Project Achilles" →
+// `kind_of(Σx:Project. named(x, achilles))`. The label↔referent identification is
+// grounding-supplied by the encoding institution (D62).
+axiom ontology:named        : lexicon:Entity -> lexicon:Entity -> Prop
+
+// `sole(x)`: the entity `x` holds TO THE EXCLUSION OF ALTERNATIVES — the exclusive-focus reading
+// of post-nominal "alone" ("this event alone") and pre-nominal "only"/"just" ("only this event"),
+// which are the same operator in mirror positions. OPAQUE like `named`/`compound`: it marks `x` as
+// "by itself, and not in combination with others" without unfolding the alternative set (deferred,
+// as numbers/degrees are kept opaque). "each event alone" → `∀x:(Σy:event. sole(y)). …`, so "each
+// event alone does not lead to cell death" is "no single event, taken by itself, suffices".
+axiom ontology:sole         : lexicon:Entity -> Prop

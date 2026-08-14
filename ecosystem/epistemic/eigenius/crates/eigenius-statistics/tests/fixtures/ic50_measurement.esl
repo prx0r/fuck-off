@@ -1,0 +1,173 @@
+// D52 end-to-end IC50 measurement fixture.
+//
+// Two scenarios on the same chain:
+//
+//   - `claim_eig0291_lowic50` — the n=3 screening read against the
+//     100 nM threshold. Verifier dispatch gives Fails(AlphaNotCrossed)
+//     under one-sided directionality (one-sided p ≈ 0.11 > α = 0.05).
+//     Exercises the Fails diagnostic path.
+//   - `claim_eig0291_confirmatory_holds` — the n=6 confirmatory read.
+//     One-sided p ≪ 0.05, verifier produces Holds. Exercises the
+//     Holds success path AND is what the D39 composition fixture
+//     cites via `DerivedEvidence(...)`.
+//
+// Verdict-as-DerivedResource shape (post-step-1 / institution-surface
+// revision):
+//
+//   - The SAP carries NO propositional content (no
+//     `canonical_proposition`, no `null_hypothesis`, no
+//     `alternative_hypothesis`). The verifier derives the proposition
+//     mechanically from (dispatch, effect_size, directionality). For
+//     SingleSampleEstimate + OneSidedWitnessed + Absolute(T) the
+//     derived proposition is `stats:lt(stats:mean_of(s), T)` — a
+//     strictly statistical statement.
+//   - Directionality is `OneSidedWitnessed(witness_iri)`, citing the
+//     methodological argument that the inverse direction (mean IC50
+//     *above* threshold) is excluded by the Kinase-Glo assay's
+//     E_max plateau (D52 §7.1).
+//   - The `StatisticalAnalysisResult` derivation that carries the
+//     verifier-emitted `canonical_proposition` is pre-authored for
+//     the confirmatory SAP at IRI
+//     `{plan_iri}:result:main_effect`. Without it, downstream D39
+//     reasoning citing `DerivedEvidence(...)` couldn't admit a
+//     witness via the chain index. (Tests that DISPATCH the verifier
+//     see the institution emit its own SAR in-test, separate from
+//     this pre-authored chain artefact.)
+//   - No ProgramTrace. The SAR's `is_a` membership in
+//     `reflection:InstitutionEmittedDerivation` is what the D49
+//     witness emitter walks.
+
+namespace core       = "urn:eigenius:core";
+namespace formats    = "urn:eigenius:core:formats";
+namespace reflection = "urn:eigenius:reflection";
+namespace stats      = "urn:eigenius:measurements";
+namespace eigentt    = "urn:eigenius:eigentt";
+namespace screen     = "urn:eigenius:demo:screen";
+
+// `screen_confirmatory_result` — namespace prefix for the per-effect
+// SAR IRI of the confirmatory SAP. `screen_confirmatory_result:main_effect`
+// lands at
+// `urn:eigenius:demo:screen:claim_eig0291_confirmatory_holds:result:main_effect`,
+// matching the kernel's `{plan_iri}:result:{effect_name}` emission
+// scheme (see `crates/eigenius-statistics/src/validate.rs`).
+namespace screen_confirmatory_result =
+    "urn:eigenius:demo:screen:claim_eig0291_confirmatory_holds:result";
+
+// ─── Domain predicate (with PopulationLevel scope marker, §7.4) ────
+
+data screen:HasLowIC50 : core:string -> Prop, stats:PopulationLevel {
+}
+
+// ─── Impossibility witness for the one-sided directionality ────────
+
+resource screen:witness_kinaseglo_floor : stats:ImpossibilityWitness {
+    reflection:declared_by = "methodology:kinase-glo-emax-floor";
+    reflection:rationale   = "Kinase-Glo's E_max plateau and the cell-free target panel jointly exclude the inverse direction: mean IC50 cannot biologically be above the assay-class threshold under this protocol. Licenses the one-sided p-value path.";
+}
+
+// ─── SampleSet: 3 IC50 replicate readings of EIG_0291 (screening) ──
+
+resource screen:m_eig0291_sampleset : stats:SampleSetResource {
+    reflection:source      = "instrument-log:kinase-glo-plate-2026-03-04-A1";
+    reflection:observed_at = "2026-03-04T14:22:11Z";
+
+    stats:sample_set_value = stats:SingleSampleEstimate(
+        [72.0, 85.0, 100.0],
+        BiologicalReplication(),
+    );
+}
+
+resource screen:m_eig0291_trace : reflection:ObservationTrace {
+    reflection:resource  = screen:m_eig0291_sampleset;
+    reflection:source    = "instrument-log:kinase-glo-plate-2026-03-04-A1";
+    reflection:timestamp = "2026-03-04T14:22:11Z";
+}
+
+// ─── Screening SAP ──────────────────────────────────────────────────
+//
+// n=3 dataset, one-sided p ≈ 0.11 against α = 0.05 → Fails. The
+// verifier still runs and emits a SAR (with `verdict_ctor = "Fails"`
+// and no `canonical_proposition`, since a Fails verdict has no
+// derived statistical claim to attest). The Fails-path SAR isn't
+// pre-authored here — tests that dispatch the institution see it
+// in-test via `outcome.derivations`.
+
+resource screen:claim_eig0291_lowic50 : stats:StatisticalAnalysisPlan {
+    stats:sample_set = screen:m_eig0291_sampleset;
+
+    stats:alpha               = 0.05;
+    stats:effect_size         = Absolute(100.0, "nM");
+    stats:directionality      = OneSidedWitnessed("urn:eigenius:demo:screen:witness_kinaseglo_floor");
+    stats:variance_assumption = WelchUnequal();
+    stats:outlier_exclusion   = Identity();
+}
+
+// ─── Confirmatory SampleSet ─────────────────────────────────────────
+//
+// Six replicates from an independent dose-response confirmatory run,
+// clustered tightly around mean ≈ 85 nM. With n = 6 and SD ≈ 5, the
+// one-sample test against threshold 100 nM rejects H0: μ = 100
+// confidently (|t| ≈ 7.5, df = 5, p ≪ 0.05). This is the realistic
+// shape for a Holds verdict: the n=3 screening read above generated
+// the hypothesis; the n=6 confirmatory run supports it.
+
+resource screen:m_eig0291_confirmatory_sampleset : stats:SampleSetResource {
+    reflection:source      = "instrument-log:kinase-glo-plate-2026-03-11-confirmatory";
+    reflection:observed_at = "2026-03-11T10:18:42Z";
+
+    stats:sample_set_value = stats:SingleSampleEstimate(
+        [78.0, 82.0, 85.0, 88.0, 91.0, 86.0],
+        BiologicalReplication(),
+    );
+}
+
+resource screen:m_eig0291_confirmatory_trace : reflection:ObservationTrace {
+    reflection:resource  = screen:m_eig0291_confirmatory_sampleset;
+    reflection:source    = "instrument-log:kinase-glo-plate-2026-03-11-confirmatory";
+    reflection:timestamp = "2026-03-11T10:18:42Z";
+}
+
+// ─── The Holds-producing confirmatory SAP ──────────────────────────
+
+resource screen:claim_eig0291_confirmatory_holds : stats:StatisticalAnalysisPlan {
+    stats:sample_set = screen:m_eig0291_confirmatory_sampleset;
+
+    stats:alpha               = 0.05;
+    stats:effect_size         = Absolute(100.0, "nM");
+    stats:directionality      = OneSidedWitnessed("urn:eigenius:demo:screen:witness_kinaseglo_floor");
+    stats:variance_assumption = WelchUnequal();
+    stats:outlier_exclusion   = Identity();
+}
+
+// Pre-authored `StatisticalAnalysisResult` for the confirmatory SAP.
+// Mirrors the kernel-emitted shape: multi-class header carries both
+// `stats:StatisticalAnalysisResult` and the
+// `reflection:InstitutionEmittedDerivation` marker the D49 witness
+// emitter walks. `from_subject` points back at the SAP;
+// `canonical_proposition` carries the strictly-statistical claim the
+// verifier would derive (`stats:lt(stats:mean_of(s), 100.0)`).
+//
+// Numerics chosen to mirror the actual t-statistic + p-value for the
+// confirmatory dataset against threshold 100 nM (|t| ≈ 7.5, df = 5,
+// one-sided p ≈ 3.4e-4). The pre-authored values are illustrative —
+// runtime dispatch tests recompute these via the verifier and compare
+// against the in-test `outcome.derivations`, NOT this resource.
+
+resource screen_confirmatory_result:main_effect :
+    stats:StatisticalAnalysisResult,
+    reflection:InstitutionEmittedDerivation,
+    reflection:DerivedResource
+{
+    reflection:from_subject          = screen:claim_eig0291_confirmatory_holds;
+    stats:verdict_ctor               = "Holds";
+    stats:computed_statistic         = -7.50;
+    stats:computed_p_value           = 0.00034;
+    stats:effect_name                = "main_effect";
+
+    reflection:canonical_proposition = type_expr(
+        stats:lt(
+            stats:mean_of("urn:eigenius:demo:screen:m_eig0291_confirmatory_sampleset"),
+            100.0
+        )
+    );
+}

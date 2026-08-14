@@ -299,3 +299,13 @@ imposed.
   herdr-gated → RKA-flagged-stale → graphiti-temporally-stamped → knowledgeProvenance-nanopub →
   KG2Code-queried → prose-marked-stale → Merkle-signed. Proves the OS coheres.
 - Test suite 21 → **22/22 pass**.
+
+## 2026-08-14 (cont.) — adversarial-review, AgentReview, eigenius experiments
+- **Cloned:** alecnielsen/adversarial-review (304K), Ahren09/AgentReview (5.6M), eigenius (91M).
+- **Cross-review** (`experiment-cross-review.py`): adopted adversarial-review's 4-phase loop (indep→
+  cross→meta→synthesis) into our kernel — a finding survives only if cross-confirmed; dissent to human.
+- **eigenius grades** (`experiment-eigenius-grades.py`): our epistemic envelope is order-preserving with
+  eigenius's declared<observed<derived<verified + warrant model — we ADD the human-adjudication axis.
+- **Review bias** (`experiment-review-bias.py`): our cross-review consensus threshold is robust to the
+  37.1% reviewer-bias problem AgentReview measured (a single biased reviewer can't block a sound claim).
+- Test suite 22 → **25/25 pass**.

@@ -15,3 +15,5 @@ Repos that model knowledge with epistemic state (claims, evidence, review, super
 | aaronsb/knowledge-graph-system | **CLONED local-only** (49M) — Kappa grounding/contradiction, FUSE over graph |
 
 | mntlra/knowledgeProvenance | **CLONED** — PROV-K nanopubs (ReliableFact/ContrastingEvidence/InsufficientEvidence). Our ceiling→PROVK mapping validated |
+
+| eigenius/eigenius | **CLONED** (91M) — grade model (declared<observed<derived<verified) + warrant; order-preserving with our envelope |
