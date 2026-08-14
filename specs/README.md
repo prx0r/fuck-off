@@ -46,6 +46,11 @@ docs/0N-*.md            (live — implemented, reconciled to ground truth)
 | `SPEC-18-COMPLETE-PIPELINE.md` | complete product pipeline | CANONICAL |
 | `SPEC-19-DOYLE-EXPERIMENTS.md` | the 16 Doyle experiments | CANONICAL |
 | `SPEC-20-EDUCATION-ORGANISM.md` | education + organism (learner + sensor) | CANONICAL |
+| `SPEC-21-CONSUMER-ORGANISM.md` | consumer organism (R2) | CANONICAL |
+| `SPEC-22-CONSUMER-ORGANISM-TECH.md` | consumer organism tech (R2) | CANONICAL |
+| `SPEC-23-PATALA-ORGANISM.md` | patala organism (R2) | CANONICAL |
+| `SPEC-24-ORGANISM-VISIONS.md` | organism visions (R2) | CANONICAL |
+| `SPEC-25-ORGANISM-MEH.md` | organism critiques (R2) | CANONICAL |
 
 ### Planned specs (not yet written — content lives in SPEC-00/02/03/08/09)
 | Spec | Topic |

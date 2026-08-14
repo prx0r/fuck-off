@@ -428,3 +428,13 @@ imposed.
 - This fills the agent-cleanliness gap: structured contracts, no full-repo reloads, budgeted runs,
   resumable delivery, and safety-gated publication.
 - Test suite 36 → **37/37**.
+
+## 2026-08-14 (cont.) — the CONSUMER→RESEARCH MACHINE (organism loop)
+- Downloaded + saved 5 R2 organism files → SPEC-21..25 (consumer organism, tech, visions, critiques).
+- **`lib/organism_loop.py`** + **`validate-organism-loop.py`** (8/8): the 10-stage consumer→research
+  chain — consumer probe → question capture/normalize/link/cluster → gap detection (PEDAGOGICAL vs
+  OPEN_RESEARCH) → intervention experiment (measured) → GraphProposal (ADD/MODIFY/SUPERSEDE) →
+  verification (RARR/RefChecker) → HUMAN GATE → truth graph.
+- **The synthesis:** the consumer organism IS the evolution loop, with humans as the gate. Consumers
+  probe → the graph evolves safely → better explanations → fewer confusions → sharper probes.
+- Test suite 37 → **38/38**.

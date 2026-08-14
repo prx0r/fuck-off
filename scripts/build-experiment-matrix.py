@@ -59,6 +59,7 @@ MATRIX = {
   "validate-evolve.py": ("ALL", "openevolve+axplorer (cloned)", "Autonomous Institute", "evolution", "MAP-Elites evolution loop: 6 niches, gen2 improves"),
   "experiment-salsa-incremental.py": ("L03", "salsa (cloned)", "General Engine", "incremental", "memoized queries, reuse-on-change (O(1) update)"),
   "validate-agent-delivery.py": ("L09", "loom+maestro+arcan+herdr (cloned)", "Autonomous Institute", "agent-delivery", "task contract, context routing, budget, human gate — 10/10"),
+  "validate-organism-loop.py": ("L09", "patala organism vision (R2)", "Co-Evolving Epistemic Organism", "organism", "consumer→research: probe→gap→intervention→proposal→human-gate — 8/8"),
 }
 
 def main():

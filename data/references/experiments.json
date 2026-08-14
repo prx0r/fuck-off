@@ -1,5 +1,5 @@
 {
- "count": 37,
+ "count": 38,
  "entries": [
   {
    "script": "validate-layer03-05.py",
@@ -333,6 +333,15 @@
    "kernel": "agent-delivery",
    "status": "RUN",
    "note": "task contract, context routing, budget, human gate \u2014 10/10"
+  },
+  {
+   "script": "validate-organism-loop.py",
+   "layer": "L09",
+   "source": "patala organism vision (R2)",
+   "vision": "Co-Evolving Epistemic Organism",
+   "kernel": "organism",
+   "status": "RUN",
+   "note": "consumer\u2192research: probe\u2192gap\u2192intervention\u2192proposal\u2192human-gate \u2014 8/8"
   }
  ]
 }

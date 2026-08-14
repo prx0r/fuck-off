@@ -1,6 +1,6 @@
 # EXPERIMENT MATRIX — what's been tested
 
-*2026-08-14. 37 experiments mapped to layer / source repo / vision / kernel / result.*
+*2026-08-14. 38 experiments mapped to layer / source repo / vision / kernel / result.*
 Machine form: `data/references/experiments.json`.
 
 ## Argument Map (7)
@@ -23,11 +23,12 @@ Machine form: `data/references/experiments.json`.
 | `validate-agent-delivery.py` | L09 | loom+maestro+arcan+herdr (cloned) | agent-delivery | RUN |
 | `validate-evolve.py` | ALL | openevolve+axplorer (cloned) | evolution | RUN |
 
-## Co-Evolving Epistemic Organism (1)
+## Co-Evolving Epistemic Organism (2)
 
 | script | layer | source | kernel | result |
 |--------|-------|--------|--------|--------|
 | `experiment-bkt-mastery.py` | L09 | pyBKT (cloned) | learner-state | RUN |
+| `validate-organism-loop.py` | L09 | patala organism vision (R2) | organism | RUN |
 
 ## Comparative Philosophy (1)
 
