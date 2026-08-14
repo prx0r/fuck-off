@@ -120,6 +120,7 @@ graph after adding text, run `build-graph.py`.
 | `OWN-VISION-MAP.md` | our independent vision zoomed out (6 frontiers + 4 products → kernel/proof status) |
 | `ORGANISM-OPERATING-MODEL.md` | the organism operating manual (how it ingests/translates/teaches/publishes + stays durable/secure) |
 | `COHERENCE-AUDIT.md` | the zoom-out: every kernel → patala layer + every frontier build → patala product |
+| `BUILT-BY-LAYER.md` | the precise per-layer inventory: what's fully built vs mechanism-only vs gap |
 | `BUILDNOTES.md` | full build history + decisions |
 | `NAVIGATION.md` | this file |
 | `TODO.md` | live task tracker |

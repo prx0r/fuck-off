@@ -780,3 +780,12 @@ Autonomous build of 7 infrastructure kernels inspired by the patala v2/v3 GEMs +
   audit-state) + the key milestone validators.
 - **state.json**: tests_passing corrected to 75 (was stale at 71).
 - All 108 docs traced + consistent; a new agent can verify everything in one pass.
+
+## 2026-08-14 (built-by-layer inventory — the precise per-layer answer)
+- **`BUILT-BY-LAYER.md`** — the exact inventory of what's fully built per patala layer: 30 FULLY BUILT
+  (real-data validator) + 6 MECHANISM-ONLY (synthetic: education/pedagogy/organism/organism_loop/
+  agent_delivery/evolve) + 1 cross-layer (patala_product) = 37 kernels.
+- The honest zoom-out: **L00-L08 + L10 are fully built** (epistemic gate + read plane + self-proving);
+  **L09 (teaching/evolution) is mechanism-proven but not yet production-integrated**; the true gaps are
+  the corpus-wide IPVV graduation, the 3 v3 needs-build products, and gaps A (context paging) + E
+  (signed attestation).
