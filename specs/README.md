@@ -44,6 +44,8 @@ docs/0N-*.md            (live — implemented, reconciled to ground truth)
 | `SPEC-16-PATALA-TRANSLATE.md` | translation subsystem survey | CANONICAL |
 | `SPEC-17-PATALA-GITHUBS.md` | textual/identity/provenance survey | CANONICAL |
 | `SPEC-18-COMPLETE-PIPELINE.md` | complete product pipeline | CANONICAL |
+| `SPEC-19-DOYLE-EXPERIMENTS.md` | the 16 Doyle experiments | CANONICAL |
+| `SPEC-20-EDUCATION-ORGANISM.md` | education + organism (learner + sensor) | CANONICAL |
 
 ### Planned specs (not yet written — content lives in SPEC-00/02/03/08/09)
 | Spec | Topic |

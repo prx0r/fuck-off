@@ -74,6 +74,7 @@ run_script("experiment-eigenius-grades.py", "eigenius_grade_mapping")
 run_script("experiment-review-bias.py", "review_bias_robustness")
 run_script("experiment-self-improve.py", "self_improvement_as_pr")
 run_script("experiment-evolving-memory.py", "evolving_memory_consolidation")
+run_script("validate-education-organism.py", "education_organism_stack")
 
 # ---- summary ----
 n = len(results["tests"]); npass = sum(1 for t in results["tests"] if t["pass"])

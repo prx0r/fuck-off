@@ -320,3 +320,14 @@ imposed.
   connector) applied to our claims — verbose low-access draft compacted (314->77), high-value kept,
   free-will argument chain linked into a stable memory graph (Layer 09 procedural memory).
 - GitHub index 85 → **89 repos**. Test suite 25 → **27/27 pass**.
+
+## 2026-08-14 (cont.) — EDUCATION + ORGANISM built (Layer 09)
+- Read patala's organism + education vision docs (full context).
+- **`lib/education.py`** — LearningClaim, MasteryEvidence, interaction compiler, and the MOAT primitive:
+  wrong-answer → known epistemic neighbor (classified in failure taxonomy), plus the counterfactual/
+  crux PremiseRetract primitive.
+- **`lib/organism.py`** — UserKnowledgeState (concept mastery) + MisconceptionGraph (the demand sensor).
+- **`validate-education-organism.py`** (9/9) — the full stack: compile interactions from the two-stage
+  argument, map compatibilism→rival_proposition, PremiseRetract shows I2 load-bearing, misconception
+  flywheel. Test suite 27 → **28/28**.
+- **`specs/SPEC-20-EDUCATION-ORGANISM.md`** — the build doc.
