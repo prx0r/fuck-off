@@ -80,6 +80,7 @@ run_script("validate-pushing-miner.py", "pushing_miner")
 run_script("validate-iteration-confidence.py", "iteration_confidence")
 run_script("validate-contract-convergence.py", "contract_convergence")
 run_script("validate-hermes-exec.py", "hermes_generation")
+run_script("validate-factory-pool.py", "parallel_factory_pool")
 run_py("import json;a=json.load(open('data/graph/argument.json'));print(f'{len(a[\"information_nodes\"])} info {len(a[\"inference_nodes\"])} infer {len(a[\"conflict_nodes\"])} conflict')", "argument_graph")
 
 # ---- 2. EXPERIMENTS ----

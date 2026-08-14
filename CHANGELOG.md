@@ -934,3 +934,14 @@ BUILD-AGENT-SYSTEM-RECOVERY) against my own specs/layers — by RUNNING the code
   have been consistently correct (fixed: hermes generation, contract convergence, blind -z); increasingly
   their directives confirm MY architecture (next_action as scheduler, my read plane as the compile bridge).
 - 42 kernels, 88 experiments. (Honored axiom 5: rebuild-on-commit is a tool, in the matrix not the suite.)
+
+## 2026-08-14 (parallel factory worker pool — the BUILD-PARALLEL-FACTORY gap closed)
+- **`lib/factory_pool.py`** (10/10) — the parallel factory worker pool: many layer-workers (T1/L0/L2/L200)
+  run CONCURRENTLY over real Tantrāloka kārikās, each respecting the DAG (a layer only runs when its
+  prereq commits), each driven by next_action (what to work on by formula), each committing independently.
+  All 6 test kārikās advance through the full chain T1→L0→L2→L200 in parallel.
+- **The fix that made it work:** schedule() now skips already-committed work (so a committed layer doesn't
+  re-rank over the next layer) + resets the scheduler per pass.
+- Closes DEV_PLAN §0.6 (BUILD-PARALLEL-FACTORY) — a real step toward full Tantrāloka (many kārikās through
+  the whole chain at once, autonomously).
+- 43 kernels, 89 experiments, 82/82 tests (factory-pool added to suite).

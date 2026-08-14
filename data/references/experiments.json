@@ -1,5 +1,5 @@
 {
- "count": 88,
+ "count": 89,
  "entries": [
   {
    "script": "validate-layer03-05.py",
@@ -774,6 +774,15 @@
    "kernel": "hermes-generation",
    "status": "RUN",
    "note": "the Hermes-for-GENERATION fix: agentic hermes chat (not blind -z) generates a real translation \u2014 6/6"
+  },
+  {
+   "script": "validate-factory-pool.py",
+   "layer": "ALL",
+   "source": "real Ahnika-1 karikas (6 works)",
+   "vision": "Verified Epistemic OS",
+   "kernel": "parallel-factory",
+   "status": "RUN",
+   "note": "the parallel factory worker pool: T1/L0/L2/L200 run concurrently, DAG-gated, next_action-driven \u2014 10/10"
   },
   {
    "script": "run-tantraloka-autonomous.py",

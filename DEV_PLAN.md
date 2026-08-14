@@ -66,8 +66,18 @@ Hound's `DynamicNode` carries `observations` (verified) vs `assumptions` (unveri
 > - REDUCTION (review, staleness, evidence, gates, epistemic) → deterministic `.py` (correct as-is).
 - [x] `hermes_exec.py` uses agentic `hermes chat` (not blind `-z`).
 - [x] `translation.py.generate()` calls Hermes for real output.
-- [ ] Wire the organism's `refine()` + `translation_variant` T2 to call Hermes (real generation).
+- [x] Wire the organism's `refine()` + `translation_variant` T2 to call Hermes (real generation).
 - [ ] `pushing_miner.py` keeps regex-mining the HUMAN gold; add Hermes for NEW pushing generation.
+
+### 0.6 THE PEER-REVIEW-DRIVEN NEXT BUILDS (from my AGENTGRAPH-PEER-REVIEW-NOTES, 2026-08-14)
+The shared audits confirmed my read plane + engine + vision; the real remaining gaps on MY side:
+- [ ] **Parallel factory worker pool** (BUILD-PARALLEL-FACTORY) — many layer-workers (T1/L0/L2/L200/C1)
+      running concurrently, each respecting the DAG + `next_action`, committing independently. This is the
+      next real build toward full Tantrāloka.
+- [ ] **Per-work translation-state FSM** (BUILD-TRANSLATION-STATE) — I have the `next_action` scheduler but
+      not `corpus_state`'s per-work transitions. Wire it so each work advances legally.
+- [ ] **Argument-IR depth (CP4)** — I have crux/essay/pushing; lack OG's nyayagate/crux_engine/ARG golds.
+- [ ] **`misconception.py` repair cascade** — the biggest gap (closes the organism's flywheel).
 
 ---
 

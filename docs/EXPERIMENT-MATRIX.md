@@ -1,6 +1,6 @@
 # EXPERIMENT MATRIX — what's been tested
 
-*2026-08-14. 88 experiments mapped to layer / source repo / vision / kernel / result.*
+*2026-08-14. 89 experiments mapped to layer / source repo / vision / kernel / result.*
 Machine form: `data/references/experiments.json`.
 
 ## Argument Map (7)
@@ -102,7 +102,7 @@ Machine form: `data/references/experiments.json`.
 | `experiment-causal-operational-graph.py` | L12 | patalamix review #12 | causal-operational | RUN |
 | `experiment-signed-statement.py` | L12 | cosign (cloned) | signing | RUN |
 
-## Verified Epistemic OS (45)
+## Verified Epistemic OS (46)
 
 | script | layer | source | kernel | result |
 |--------|-------|--------|--------|--------|
@@ -124,6 +124,7 @@ Machine form: `data/references/experiments.json`.
 | `validate-context-compiler.py` | L06 | real graph (490/6578) | projection-compiler | RUN |
 | `validate-contract-convergence.py` | L00/L05 | 6 divergent ReviewEvent/Authority defs | contract-convergence | RUN |
 | `validate-evidence-ledger.py` | L08 | typed events | evidence-ledger | RUN |
+| `validate-factory-pool.py` | ALL | real Ahnika-1 karikas (6 works) | parallel-factory | RUN |
 | `validate-fts-baseline.py` | L06 | real corpus (425) | fts-baseline | RUN |
 | `validate-graduation-ipvv.py` | ALL | real IPK primary text (Torella) + Ratié | ipvv-graduation | RUN |
 | `validate-graduation.py` | ALL | real graph/argument/canonical-dag | graduation | RUN |
