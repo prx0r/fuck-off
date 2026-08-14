@@ -84,6 +84,7 @@ graph after adding text, run `build-graph.py`.
 | `docs/05-performance.md` | the performance doctrine |
 | `docs/ORIGINAL-README.md` | redirect stub (superseded) |
 | `docs/ECOSYSTEM-INDEX.md` | consolidated reference index (repos/datasets/arxiv/agent infra) |
+| `docs/ARXIV-INDEX.md` | canonical arXiv catalog (32 papers, by category) |
 | `docs/TESTING-VALIDATION-REPORT.md` | the test + validation results |
 
 ## Ecosystem clones (organized)

@@ -1,0 +1,261 @@
+{
+ "count": 32,
+ "entries": [
+  {
+   "arxiv_id": "2307.07697",
+   "url": "https://arxiv.org/abs/2307.07697",
+   "title": "Think-on-Graph: Deep and Responsible Reasoning of LLM on Knowledge Graph",
+   "category": "graph-reasoning",
+   "status": "REFERENCE",
+   "note": "Think-on-Graph: graph exploration as an agent action"
+  },
+  {
+   "arxiv_id": "2407.10805",
+   "url": "https://arxiv.org/abs/2407.10805",
+   "title": "ToG-2: Alternating Graph and Document Reasoning",
+   "category": "graph-reasoning",
+   "status": "GAP",
+   "note": "ToG-2: alternating text<->graph search (trace/investigate)"
+  },
+  {
+   "arxiv_id": "2407.04363",
+   "url": "https://arxiv.org/abs/2407.04363",
+   "title": "AriGraph: Learning to Generate Knowledge Graphs from Text",
+   "category": "graph-reasoning",
+   "status": "GAP",
+   "note": "AriGraph: semantic + episodic memory + world model"
+  },
+  {
+   "arxiv_id": "2509.24276",
+   "url": "https://arxiv.org/abs/2509.24276",
+   "title": "G-reasoner: Graph Foundation Model for Retrieval-Augmented Generation",
+   "category": "graph-reasoning",
+   "status": "GAP",
+   "note": "G-reasoner (GFM-RAG): graph foundation model for RAG"
+  },
+  {
+   "arxiv_id": "2502.14902",
+   "url": "https://arxiv.org/abs/2502.14902",
+   "title": "PathRAG: Pruning Graph-based Retrieval Augmented Generation with Relational Paths",
+   "category": "graph-reasoning",
+   "status": "GAP",
+   "note": "PathRAG: retrieve reasoning paths, bounded token context"
+  },
+  {
+   "arxiv_id": "2605.25480",
+   "url": "https://arxiv.org/abs/2605.25480",
+   "title": "Retrieval as Reasoning: Self-Evolving Agent-Native Retrieval via LLM-Wiki",
+   "category": "graph-reasoning",
+   "status": "VALIDATES",
+   "note": "LLM-Wiki: retrieval as reasoning, self-evolving agent-native retrieval"
+  },
+  {
+   "arxiv_id": "2602.10246",
+   "url": "https://arxiv.org/abs/2602.10246",
+   "title": "KORAL: Knowledge Graph Guided LLM Reasoning for SSD Operational Analysis",
+   "category": "graph-reasoning",
+   "status": "GAP",
+   "note": "KORAL: knowledge-graph-guided LLM reasoning"
+  },
+  {
+   "arxiv_id": "2606.01613",
+   "url": "https://arxiv.org/abs/2606.01613",
+   "title": "TechGraphRAG: An Agentic Graph-Augmented RAG Framework for Technical Literature Reasoning",
+   "category": "graph-reasoning",
+   "status": "GAP",
+   "note": "TechGraphRAG: evidence-sufficiency gate"
+  },
+  {
+   "arxiv_id": "2605.26874",
+   "url": "https://arxiv.org/abs/2605.26874",
+   "title": "Knowledge Graphs as the Missing Data Layer for LLM-Based Industrial Asset Operations",
+   "category": "graph-reasoning",
+   "status": "GAP",
+   "note": "KGs as the missing data layer for LLM ops"
+  },
+  {
+   "arxiv_id": "2607.22652",
+   "url": "https://arxiv.org/abs/2607.22652",
+   "title": "KG2Code: Bridging Knowledge Graphs and LLMs via Executable Code for Question Answering",
+   "category": "graph-reasoning",
+   "status": "BET",
+   "note": "KG2Code: executable graph queries (path/filter)"
+  },
+  {
+   "arxiv_id": "2505.07291",
+   "url": "https://arxiv.org/abs/2505.07291",
+   "title": "",
+   "category": "graph-reasoning",
+   "status": "REFERENCE",
+   "note": "graph reasoning (survey context)"
+  },
+  {
+   "arxiv_id": "2605.12061",
+   "url": "https://arxiv.org/abs/2605.12061",
+   "title": "SAGE: A Self-Evolving Agentic Graph-Memory Engine for Structure-Aware Associative Memory",
+   "category": "agent-memory",
+   "status": "GAP",
+   "note": "SAGE: self-evolving agentic graph-memory engine"
+  },
+  {
+   "arxiv_id": "2607.03726",
+   "url": "https://arxiv.org/abs/2607.03726",
+   "title": "SelfMem: Self-Optimizing Memory for AI Agents",
+   "category": "agent-memory",
+   "status": "GAP",
+   "note": "SelfMem: self-optimizing memory for AI agents"
+  },
+  {
+   "arxiv_id": "2310.08560",
+   "url": "https://arxiv.org/abs/2310.08560",
+   "title": "MemGPT: Towards LLMs as Operating Systems",
+   "category": "agent-memory",
+   "status": "REFERENCE",
+   "note": "MemGPT: LLMs as operating systems"
+  },
+  {
+   "arxiv_id": "2608.11224",
+   "url": "https://arxiv.org/abs/2608.11224",
+   "title": "Harnessing agent memory to build lifelong AI partners for materials scientists",
+   "category": "agent-memory",
+   "status": "GAP",
+   "note": "agent memory for lifelong AI partners"
+  },
+  {
+   "arxiv_id": "2606.01416",
+   "url": "https://arxiv.org/abs/2606.01416",
+   "title": "Self-Healing Agentic Orchestrators for Reliable Tool-Augmented Large Language Models",
+   "category": "agent-orchestration",
+   "status": "GAP",
+   "note": "Self-healing agentic orchestrators"
+  },
+  {
+   "arxiv_id": "2607.11138",
+   "url": "https://arxiv.org/abs/2607.11138",
+   "title": "A Formal Hierarchical Architecture for Agentic Orchestration with Stackelberg Games",
+   "category": "agent-orchestration",
+   "status": "GAP",
+   "note": "formal hierarchical architecture for agentic orchestration"
+  },
+  {
+   "arxiv_id": "2608.04458",
+   "url": "https://arxiv.org/abs/2608.04458",
+   "title": "Architectural Implications of Agentic AI Workflows",
+   "category": "agent-orchestration",
+   "status": "GAP",
+   "note": "architectural implications of agentic AI workflows"
+  },
+  {
+   "arxiv_id": "2504.15466",
+   "url": "https://arxiv.org/abs/2504.15466",
+   "title": "Learning Adaptive Parallel Reasoning with Language Models",
+   "category": "agent-rl",
+   "status": "GAP",
+   "note": "learning adaptive parallel reasoning"
+  },
+  {
+   "arxiv_id": "2412.21139",
+   "url": "https://arxiv.org/abs/2412.21139",
+   "title": "Training Software Engineering Agents and Verifiers with SWE-Gym",
+   "category": "agent-rl",
+   "status": "GAP",
+   "note": "SWE-Gym: training SE agents and verifiers"
+  },
+  {
+   "arxiv_id": "2512.16144",
+   "url": "https://arxiv.org/abs/2512.16144",
+   "title": "INTELLECT-3: Technical Report",
+   "category": "agent-rl",
+   "status": "GAP",
+   "note": "INTELLECT-3: technical report (Prime Intellect)"
+  },
+  {
+   "arxiv_id": "2505.22954",
+   "url": "https://arxiv.org/abs/2505.22954",
+   "title": "Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents",
+   "category": "agent-rl",
+   "status": "GAP",
+   "note": "Darwin Godel Machine: open-ended evolution of self-improving agents"
+  },
+  {
+   "arxiv_id": "2608.03392",
+   "url": "https://arxiv.org/abs/2608.03392",
+   "title": "Self-Evolving Coding Agents",
+   "category": "agent-rl",
+   "status": "GAP",
+   "note": "Self-evolving coding agents"
+  },
+  {
+   "arxiv_id": "2606.21228",
+   "url": "https://arxiv.org/abs/2606.21228",
+   "title": "Sakana Fugu Technical Report",
+   "category": "agent-rl",
+   "status": "GAP",
+   "note": "Sakana Fugu technical report"
+  },
+  {
+   "arxiv_id": "2406.12045",
+   "url": "https://arxiv.org/abs/2406.12045",
+   "title": "tau-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
+   "category": "agent-eval",
+   "status": "REFERENCE",
+   "note": "tau-bench: tool-agent-user interaction benchmark"
+  },
+  {
+   "arxiv_id": "2512.11147",
+   "url": "https://arxiv.org/abs/2512.11147",
+   "title": "MiniScope: A Least Privilege Framework for Authorizing Tool Calling Agents",
+   "category": "agent-eval",
+   "status": "GAP",
+   "note": "MiniScope: least-privilege tool-calling authorization"
+  },
+  {
+   "arxiv_id": "2607.13411",
+   "url": "https://arxiv.org/abs/2607.13411",
+   "title": "Evaluating Frontier AI Agents as Autonomous Clinical Security Auditors",
+   "category": "agent-eval",
+   "status": "GAP",
+   "note": "frontier AI agents as clinical security auditors"
+  },
+  {
+   "arxiv_id": "2502.14297",
+   "url": "https://arxiv.org/abs/2502.14297",
+   "title": "Evaluating Sakana's AI Scientist for Autonomous Research",
+   "category": "agent-eval",
+   "status": "GAP",
+   "note": "evaluating Sakana's AI Scientist"
+  },
+  {
+   "arxiv_id": "2511.03690",
+   "url": "https://arxiv.org/abs/2511.03690",
+   "title": "The OpenHands Software Agent SDK: A Composable and Extensible Foundation for Production Agents",
+   "category": "agent-frameworks",
+   "status": "REFERENCE",
+   "note": "OpenHands Software Agent SDK"
+  },
+  {
+   "arxiv_id": "2512.23760",
+   "url": "https://arxiv.org/abs/2512.23760",
+   "title": "Audited Skill-Graph Self-Improvement for Agentic LLMs via Verifiable Rewards",
+   "category": "agent-frameworks",
+   "status": "GAP",
+   "note": "audited skill-graph self-improvement"
+  },
+  {
+   "arxiv_id": "2608.10906",
+   "url": "https://arxiv.org/abs/2608.10906",
+   "title": "GitSkills: A Dataset of Agent Skills on GitHub",
+   "category": "skills-datasets",
+   "status": "GAP",
+   "note": "GitSkills: a dataset of agent skills on GitHub"
+  },
+  {
+   "arxiv_id": "2603.19461",
+   "url": "https://arxiv.org/abs/2603.19461",
+   "title": "",
+   "category": "skills-datasets",
+   "status": "REFERENCE",
+   "note": "skills/dataset reference"
+  }
+ ]
+}

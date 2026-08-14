@@ -107,3 +107,14 @@ imposed.
 
 ### Added
 - `docs/ECOSYSTEM-INDEX.md` §6 — the people/labs watchlist + convergence (consolidated).
+
+## 2026-08-14 (cont.) — canonical arXiv reference index
+
+### Added
+- **`scripts/build-arxiv-index.py`** — generates the arXiv catalog from the survey specs.
+- **`data/references/arxiv.json`** — machine-readable catalog (32 papers).
+- **`docs/ARXIV-INDEX.md`** — readable, agent-navigable catalog organized into 7 categories:
+  graph-reasoning (11), agent-rl (6), agent-memory (4), agent-eval (4), agent-orchestration (3),
+  agent-frameworks (2), skills-datasets (2). Each entry: title · arxiv link · status (GAP/BET/
+  VALIDATES/REFERENCE) · note.
+- NAVIGATION.md wired to the index.
