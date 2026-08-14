@@ -111,6 +111,7 @@ graph after adding text, run `build-graph.py`.
 | `docs/GITHUB-INDEX.md` | canonical GitHub catalog (74 repos, by category + tier) |
 | `docs/TESTING-VALIDATION-REPORT.md` | the test + validation results |
 | `docs/EXPERIMENT-REPORT.md` | third-party repo experiments (herdr/RKA/kappa/nano-graphrag) |
+| `docs/EXPERIMENT-MATRIX.md` | the full experiment tracking matrix (29, by vision/layer/source) |
 | `docs/ALGORITHMS.md` | granular arXiv-algorithm implementations (PathRAG/HippoRAG/KG2Code) |
 | `docs/process/FRONTIER-MAP.md` | per-layer implementations, todos, validations |
 
@@ -121,13 +122,15 @@ graph after adding text, run `build-graph.py`.
 | `docs/vision/VISION-PATALA-FUTURES.md` | 7 concrete, evidence-grounded futures for patala |
 | `docs/vision/VISION-VERIFIED-EPISTEMIC-OS.md` | the unified Verified Epistemic OS (8 laws) |
 | `docs/EXPERIMENT-REPORT.md` | third-party repo experiments (herdr/RKA/kappa/nano-graphrag) |
+| `docs/EXPERIMENT-MATRIX.md` | the full experiment tracking matrix (29, by vision/layer/source) |
 | `docs/ALGORITHMS.md` | granular arXiv-algorithm implementations (PathRAG/HippoRAG/KG2Code) |
 
 ## Reference catalogs (machine-readable)
 | File | What it is |
 |------|------------|
 | `data/references/arxiv.json` | 32 papers with id/url/title/category/status/note |
-| `data/references/github.json` | 74 repos with owner/name/url/category/tier/note |
+| `data/references/github.json` | 89 repos with owner/name/url/category/tier/note |
+| `data/references/experiments.json` | 29 experiments mapped to layer/source/vision/kernel/status |
 
 ## Ecosystem clones (organized)
 `ecosystem/{epistemic,compilers,argumentation,science,philosophy,retrieval,agent-runtime}/` — each

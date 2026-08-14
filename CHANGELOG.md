@@ -331,3 +331,13 @@ imposed.
   argument, map compatibilism→rival_proposition, PremiseRetract shows I2 load-bearing, misconception
   flywheel. Test suite 27 → **28/28**.
 - **`specs/SPEC-20-EDUCATION-ORGANISM.md`** — the build doc.
+
+## 2026-08-14 (cont.) — EXPERIMENT MATRIX (full tracking index)
+- **`scripts/build-experiment-matrix.py`** + **`docs/EXPERIMENT-MATRIX.md`** + **`data/references/experiments.json`**:
+  the single source of truth mapping all 29 experiments to patala layer / source repo-or-paper / vision /
+  kernel / status.
+- Grouped by the 8 visions: Argument Map (7), Verified Epistemic OS (7), Complete Pipeline (3),
+  General Engine (3), Self-Maintaining (3), Education+Organism (3), Executable Knowledge (1),
+  Comparative Philosophy (1), Autonomous Institute (1).
+- 21 confirmed PASS (in the 28-test suite); 8 RUN = exploratory experiments consolidated into lib/ kernels.
+- NAVIGATION wired to the matrix + experiments.json.

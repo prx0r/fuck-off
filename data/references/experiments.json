@@ -1,0 +1,266 @@
+{
+ "count": 29,
+ "entries": [
+  {
+   "script": "validate-layer03-05.py",
+   "layer": "L03+L05",
+   "source": "herdr+RKA (cloned)",
+   "vision": "Verified Epistemic OS",
+   "kernel": "review+staleness",
+   "status": "PASS",
+   "note": "staleness reaches FREE_WILL; reducer gates promotion"
+  },
+  {
+   "script": "experiment-herdr-review.py",
+   "layer": "L05",
+   "source": "herdr-workflow (cloned)",
+   "vision": "Self-Maintaining",
+   "kernel": "review",
+   "status": "RUN",
+   "note": "reducer keeps thesis in CORRECTION"
+  },
+  {
+   "script": "experiment-rka-staleness.py",
+   "layer": "L03",
+   "source": "RKA (cloned)",
+   "vision": "Self-Maintaining",
+   "kernel": "staleness",
+   "status": "RUN",
+   "note": "PHYSICS retraction flags 8 layers"
+  },
+  {
+   "script": "experiment-kg2code.py",
+   "layer": "L10",
+   "source": "KG2Code (arXiv)",
+   "vision": "Executable Knowledge",
+   "kernel": "query",
+   "status": "RUN",
+   "note": "executable graph-query DSL"
+  },
+  {
+   "script": "experiment-pathrag.py",
+   "layer": "L10",
+   "source": "PathRAG (arXiv+cloned)",
+   "vision": "Argument Map",
+   "kernel": "retrieval",
+   "status": "RUN",
+   "note": "flow-pruned path retrieval"
+  },
+  {
+   "script": "experiment-hipporag.py",
+   "layer": "L10",
+   "source": "HippoRAG (arXiv)",
+   "vision": "Argument Map",
+   "kernel": "retrieval",
+   "status": "RUN",
+   "note": "PPR multi-hop; HUB-BIAS found"
+  },
+  {
+   "script": "validate-layer10.py",
+   "layer": "L10",
+   "source": "PathRAG+HippoRAG+KG2Code",
+   "vision": "Argument Map",
+   "kernel": "retrieval",
+   "status": "PASS",
+   "note": "comparison: PathRAG+KG2Code win, HippoRAG hub-biased"
+  },
+  {
+   "script": "experiment-bounded-context.py",
+   "layer": "L10",
+   "source": "PathRAG/SPEC-08",
+   "vision": "Argument Map",
+   "kernel": "retrieval",
+   "status": "PASS",
+   "note": "bounded context bundle"
+  },
+  {
+   "script": "experiment-context-coverage.py",
+   "layer": "L10",
+   "source": "PathRAG/SPEC-08",
+   "vision": "Argument Map",
+   "kernel": "retrieval",
+   "status": "RUN",
+   "note": "100% concept coverage"
+  },
+  {
+   "script": "experiment-nano-stable-graph.py",
+   "layer": "L02",
+   "source": "nano-graphrag (cloned)",
+   "vision": "General Engine",
+   "kernel": "stable-graph",
+   "status": "RUN",
+   "note": "deterministic GraphML"
+  },
+  {
+   "script": "experiment-communities.py",
+   "layer": "L02",
+   "source": "nano-graphrag/GraphRAG",
+   "vision": "Argument Map",
+   "kernel": "themes",
+   "status": "PASS",
+   "note": "emergent clusters match epistemic split"
+  },
+  {
+   "script": "validate-provenance.py",
+   "layer": "L02",
+   "source": "knowledgeProvenance (cloned)",
+   "vision": "Verified Epistemic OS",
+   "kernel": "provenance",
+   "status": "PASS",
+   "note": "ceiling->PROV-K nanopub"
+  },
+  {
+   "script": "validate-products.py",
+   "layer": "L03+L08+L00",
+   "source": "SPEC-15/16/17",
+   "vision": "Complete Pipeline",
+   "kernel": "translation+review+schema",
+   "status": "PASS",
+   "note": "TranslationProof + adversarial review + schema compiler"
+  },
+  {
+   "script": "experiment-koral-twograph.py",
+   "layer": "L06",
+   "source": "KORAL (arXiv)",
+   "vision": "Comparative Philosophy",
+   "kernel": "commentarial",
+   "status": "PASS",
+   "note": "reality vs literature separation"
+  },
+  {
+   "script": "experiment-crux-compiler.py",
+   "layer": "L04",
+   "source": "SPEC-19 #5",
+   "vision": "Argument Map",
+   "kernel": "argument",
+   "status": "PASS",
+   "note": "minimal divergence compatibilism vs two-stage"
+  },
+  {
+   "script": "experiment-mutation-testing.py",
+   "layer": "L07",
+   "source": "SPEC-19 #3",
+   "vision": "Verified Epistemic OS",
+   "kernel": "verification",
+   "status": "PASS",
+   "note": "100% verifier kill rate"
+  },
+  {
+   "script": "experiment-signed-corpus.py",
+   "layer": "L12",
+   "source": "SPEC-19 #6/7",
+   "vision": "Verified Epistemic OS",
+   "kernel": "merkle",
+   "status": "PASS",
+   "note": "signed corpus root"
+  },
+  {
+   "script": "experiment-reactive-essay.py",
+   "layer": "L12",
+   "source": "SPEC-19 #4",
+   "vision": "Verified Epistemic OS",
+   "kernel": "reactive",
+   "status": "PASS",
+   "note": "source retraction marks prose stale"
+  },
+  {
+   "script": "experiment-cross-review.py",
+   "layer": "L08",
+   "source": "adversarial-review (cloned)",
+   "vision": "Complete Pipeline",
+   "kernel": "scholar_review",
+   "status": "PASS",
+   "note": "4-phase debate loop adopted"
+  },
+  {
+   "script": "experiment-review-bias.py",
+   "layer": "L08",
+   "source": "AgentReview (cloned)",
+   "vision": "Complete Pipeline",
+   "kernel": "scholar_review",
+   "status": "PASS",
+   "note": "consensus robust to 37.1% reviewer bias"
+  },
+  {
+   "script": "experiment-eigenius-grades.py",
+   "layer": "L00",
+   "source": "eigenius (cloned)",
+   "vision": "Verified Epistemic OS",
+   "kernel": "epistemic",
+   "status": "PASS",
+   "note": "grade model order-preserving"
+  },
+  {
+   "script": "experiment-self-improve.py",
+   "layer": "L05",
+   "source": "self-improving-agent (cloned)",
+   "vision": "Autonomous Institute",
+   "kernel": "review",
+   "status": "PASS",
+   "note": "self-improvement as PR; weak proposal rejected"
+  },
+  {
+   "script": "experiment-evolving-memory.py",
+   "layer": "L09",
+   "source": "evolving-memory (cloned)",
+   "vision": "Education+Organism",
+   "kernel": "memory",
+   "status": "PASS",
+   "note": "dream-cycle consolidation -> procedural memory"
+  },
+  {
+   "script": "experiment-graphiti-temporal.py",
+   "layer": "L09",
+   "source": "graphiti (cloned)",
+   "vision": "Education+Organism",
+   "kernel": "temporal",
+   "status": "PASS",
+   "note": "valid_at/invalid_at replayable truth"
+  },
+  {
+   "script": "validate-education-organism.py",
+   "layer": "L09",
+   "source": "patala education/organism vision",
+   "vision": "Education+Organism",
+   "kernel": "education+organism",
+   "status": "PASS",
+   "note": "learning claims + misconception graph"
+  },
+  {
+   "script": "experiment-generalization.py",
+   "layer": "L08",
+   "source": "EleutherIA (SPEC-07)",
+   "vision": "General Engine",
+   "kernel": "core",
+   "status": "PASS",
+   "note": "engine core domain-agnostic"
+  },
+  {
+   "script": "experiment-import-scifact.py",
+   "layer": "L01",
+   "source": "SciFact (cloned)",
+   "vision": "General Engine",
+   "kernel": "ingestion",
+   "status": "PASS",
+   "note": "external claim enters engine"
+  },
+  {
+   "script": "experiment-unified-epistemic.py",
+   "layer": "L03-L06",
+   "source": "herdr+RKA+kappa",
+   "vision": "Self-Maintaining",
+   "kernel": "epistemic",
+   "status": "RUN",
+   "note": "kappa+herdr+RKA unified"
+  },
+  {
+   "script": "experiment-verified-lifecycle.py",
+   "layer": "ALL",
+   "source": "the OS synthesis",
+   "vision": "Verified Epistemic OS",
+   "kernel": "all",
+   "status": "PASS",
+   "note": "one claim through all 8 laws"
+  }
+ ]
+}
