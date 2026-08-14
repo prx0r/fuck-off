@@ -137,6 +137,33 @@ match ground truth.
   Docs: `NN-topic.md` (numbered) · Specs: `SPEC-NN-TOPIC.md` · Layers: `NN-layer-name.md`
 - IDs: `ip:<type>:<slug-or-sha>`
 
+### 5.5 VCREATE — plan any new work by walking BACKWARD from the vision (REQUIRED)
+
+Before building anything toward a vision, run **vcreate** (`scripts/reverse-deliver.py`) to produce the
+backward delivery plan. This is goal-regression applied to delivery: start at the vision, regress
+through checkpoints, stop when you reach what's already built. It answers three questions:
+
+1. **`reuse`** — what does the vision reuse that's ALREADY built? (build less, build only the gap)
+2. **`to_build`** — what must actually be built? (the work items, in dependency order)
+3. **`ungrounded`** — which parts can NO checkpoint deliver? (vision exceeds the capability map → either
+   add a checkpoint or admit the vision is premature)
+
+**The rule:** don't build a checkpoint whose prerequisites don't exist. vcreate tells you the dependency
+order (dependencies first), so you build only what's on the backward path.
+
+**Workflow for any new vision/feature:**
+```bash
+# 1. if no checkpoint DAG exists, create data/checkpoints/<vision>.json
+#    (goal + already_done + checkpoints[effect, prereqs])
+# 2. produce the backward plan
+python3 scripts/reverse-deliver.py --vision <Vision-Name>
+# 3. build only the to_build items, in order; mark them done in already_done
+# 4. re-run to see reuse grow / to_build shrink
+```
+
+**Full spec:** `docs/process/SKILL-VCREATE.md`. **Thesis:** `THESIS-REVERSE-DELIVERY.md`.
+**Example DAG:** `data/checkpoints/Verified-Statement-Marketplace.json`.
+
 ---
 
 ## 6. HOW TO TEST AND VALIDATE

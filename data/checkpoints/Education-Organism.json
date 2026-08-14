@@ -1,0 +1,34 @@
+{
+  "vision": "Education-Organism",
+  "goal": "learner can resolve any wrong answer to a known epistemic neighbor",
+  "already_done": [
+    "lib/education.py", "lib/organism.py", "lib/epistemic.py", "lib/review.py",
+    "lib/staleness.py", "lib/query.py", "wrong-answer-neighbor", "interaction-compiler",
+    "learning-claim", "misconception-graph", "user-knowledge-state", "counterfactual-premise-retract"
+  ],
+  "checkpoints": [
+    {"id": "education-core", "effect": "learner can resolve any wrong answer to a known epistemic neighbor",
+     "prereqs": ["wrong-answer-neighbor", "learning-claim", "misconception-graph"]},
+
+    {"id": "wrong-answer-neighbor", "effect": "wrong answers map to known epistemic neighbors",
+     "prereqs": ["lib/query.py", "failure-taxonomy"]},
+
+    {"id": "learning-claim", "effect": "LearningClaims compiled from the graph",
+     "prereqs": ["interaction-compiler", "lib/epistemic.py"]},
+
+    {"id": "interaction-compiler", "effect": "scholarly object -> LearningPacket (interactions+distractors)",
+     "prereqs": ["lib/epistemic.py"]},
+
+    {"id": "misconception-graph", "effect": "learner misconceptions recorded + ranked",
+     "prereqs": ["user-knowledge-state", "failure-taxonomy"]},
+
+    {"id": "user-knowledge-state", "effect": "per-user concept mastery tracked",
+     "prereqs": []},
+
+    {"id": "failure-taxonomy", "effect": "the wrong-answer failure taxonomy (rival_proposition, scope_inflation...)",
+     "prereqs": ["lib/schema.py"]},
+
+    {"id": "repair-cascade", "effect": "persistent misconception flags source for scholar repair",
+     "prereqs": ["misconception-graph", "lib/staleness.py"]}
+  ]
+}

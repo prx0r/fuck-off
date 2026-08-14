@@ -1,0 +1,42 @@
+{
+  "vision": "Verified-Statement-Marketplace",
+  "goal": "verified statement with certification weight available",
+  "already_done": [
+    "lib/epistemic.py", "lib/review.py", "lib/scholar_review.py", "lib/staleness.py",
+    "lib/certificate.py", "lib/query.py", "lib/retrieval.py", "lib/schema.py",
+    "lib/translation.py", "mutation-testing", "signed-corpus-root", "nanopub-emission",
+    "cross-review", "review-bias-robustness", "counterfactual-engine", "kgoraq-executable-query",
+    "verifier-strength", "consensus-record", "downstream-load", "time-signed"
+  ],
+  "checkpoints": [
+    {"id": "marketplace", "effect": "verified statement with certification weight available",
+     "prereqs": ["certified-statements-store", "certification-surface"]},
+
+    {"id": "certified-statements-store", "effect": "certified statements can be queried/stored",
+     "prereqs": ["certification-weight", "kgoraq-executable-query", "nanopub-emission", "statement-store"]},
+
+    {"id": "certification-weight", "effect": "certification weight computed per claim",
+     "prereqs": ["verifier-strength", "consensus-record", "downstream-load", "time-signed"]},
+
+    {"id": "certification-surface", "effect": "agents can request + receive certified statements",
+     "prereqs": ["certification-weight", "signed-corpus-root", "mcp-or-api", "statement-store"]},
+
+    {"id": "statement-store", "effect": "certified statements persisted + versioned",
+     "prereqs": ["lib/schema.py", "signed-corpus-root"]},
+
+    {"id": "verifier-strength", "effect": "verifier strength measured (mutation kill-rate)",
+     "prereqs": ["mutation-testing"]},
+
+    {"id": "consensus-record", "effect": "independent-confirmation count per claim",
+     "prereqs": ["cross-review", "review-bias-robustness"]},
+
+    {"id": "downstream-load", "effect": "how much depends on each claim (load-bearing)",
+     "prereqs": ["counterfactual-engine"]},
+
+    {"id": "time-signed", "effect": "how long each claim survived signed",
+     "prereqs": ["signed-corpus-root", "lib/staleness.py"]},
+
+    {"id": "mcp-or-api", "effect": "an agent-accessible surface (MCP or API)",
+     "prereqs": ["kgoraq-executable-query"]}
+  ]
+}

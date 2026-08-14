@@ -368,3 +368,18 @@ imposed.
 - Shared logic: all are compositions of validated parts, domain-agnostic, with compounding flywheels,
   and get MORE valuable as AI content floods the world.
 - Experiment matrix now 32 entries.
+
+## 2026-08-14 (cont.) — VCREATE: backward-delivery planning mechanism
+- **Named + formalized vcreate**: goal-regression / backward chaining (STRIPS, Fikes & Nilsson 1971;
+  GPS, Newell & Simon 1963) applied to product delivery — walk backward from a vision through
+  checkpoints to current implementations.
+- **`scripts/reverse-deliver.py`** — the executable mechanism. Outputs: reuse (what's already built),
+  to_build (the work items), ungrounded (vision exceeds capability map).
+- **`docs/process/SKILL-VCREATE.md`** — the formal reusable skill spec.
+- **`docs/vision/beyond-patala/THESIS-REVERSE-DELIVERY.md`** — the standalone thesis (names in literature).
+- **Added to AGENTS.md §5.5** as a REQUIRED behavior: plan any new vision by walking backward first.
+- **Proven on 2 experimental visions:**
+  - Verified-Statement-Marketplace: 20 reuse / 5 to-build (certification-weight, statement-store,
+    certified-statements-store, mcp-or-api, certification-surface).
+  - Education-Organism: 12 reuse / 2 to-build (failure-taxonomy, lib/schema.py dependency).
+- Checkpoint DAGs: `data/checkpoints/*.json`.

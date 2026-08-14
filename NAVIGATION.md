@@ -114,6 +114,8 @@ graph after adding text, run `build-graph.py`.
 | `docs/EXPERIMENT-MATRIX.md` | the full experiment tracking matrix (29, by vision/layer/source) |
 | `docs/ALGORITHMS.md` | granular arXiv-algorithm implementations (PathRAG/HippoRAG/KG2Code) |
 | `docs/process/FRONTIER-MAP.md` | per-layer implementations, todos, validations |
+| `docs/process/SKILL-VCREATE.md` | vcreate: backward-delivery planning (the reverse-chaining skill) |
+| `docs/vision/beyond-patala/THESIS-REVERSE-DELIVERY.md` | the reverse-delivery thesis |
 
 ## Vision docs
 | Doc | What it is |
@@ -123,6 +125,10 @@ graph after adding text, run `build-graph.py`.
 | `docs/vision/VISION-VERIFIED-EPISTEMIC-OS.md` | the unified Verified Epistemic OS (8 laws) |
 | `docs/vision/VISION-UNCONSIDERED-FRONTIERS.md` | the unconsidered frontiers (6 novel directions) |
 | `docs/vision/beyond-patala/` | the product visions (marketplace · organism · what-if · self-proving) |
+| `docs/vision/beyond-patala/VISION-VERIFIED-STATEMENT-MARKETPLACE.md` | verification as an economic good (Certification Weight) |
+| `docs/vision/beyond-patala/VISION-COEVOLVING-EPISTEMIC-ORGANISM.md` | learning loops back into scholarship (Misconception Likelihood) |
+| `docs/vision/beyond-patala/VISION-WHAT-IF-MACHINE.md` | counterfactual as discovery (Research Value Score) |
+| `docs/vision/beyond-patala/VISION-SELF-PROVING-SYSTEM.md` | the OS proves its own construction (Design-Provenance nanopub) |
 | `docs/EXPERIMENT-REPORT.md` | third-party repo experiments (herdr/RKA/kappa/nano-graphrag) |
 | `docs/EXPERIMENT-MATRIX.md` | the full experiment tracking matrix (29, by vision/layer/source) |
 | `docs/ALGORITHMS.md` | granular arXiv-algorithm implementations (PathRAG/HippoRAG/KG2Code) |
