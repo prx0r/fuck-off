@@ -75,6 +75,7 @@ MATRIX = {
   "validate-essay-ingest.py": ("L04/L06/L09", "Ratié essay (real data)", "Enquiry-Discovery Organism", "essay-ingest", "the 9-stage pipeline: structure→claims→evidence→argument→crux→review→pedagogy→reactive — 8/8"),
   "experiment-gem-extraction.py": ("L04", "pushing-tantraloka", "Enquiry-Discovery", "gem-extraction", "agentic enquiry→unseen gems (PENETRATION 1)"),
   "experiment-claim-standardisation.py": ("L06", "comparative pushing", "Comparative Philosophy", "standardisation", "structural claim vs tradition vocab/boundary"),
+  "audit-traceability.py": ("ALL", "index docs", "Verified Epistemic OS", "traceability", "every .md resolves to an index doc — no orphaned artifacts"),
 }
 
 def main():

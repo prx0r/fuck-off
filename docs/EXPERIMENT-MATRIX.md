@@ -1,6 +1,6 @@
 # EXPERIMENT MATRIX — what's been tested
 
-*2026-08-14. 51 experiments mapped to layer / source repo / vision / kernel / result.*
+*2026-08-14. 52 experiments mapped to layer / source repo / vision / kernel / result.*
 Machine form: `data/references/experiments.json`.
 
 ## Argument Map (7)
@@ -100,10 +100,11 @@ Machine form: `data/references/experiments.json`.
 | `experiment-causal-operational-graph.py` | L12 | patalamix review #12 | causal-operational | RUN |
 | `experiment-signed-statement.py` | L12 | cosign (cloned) | signing | RUN |
 
-## Verified Epistemic OS (10)
+## Verified Epistemic OS (11)
 
 | script | layer | source | kernel | result |
 |--------|-------|--------|--------|--------|
+| `audit-traceability.py` | ALL | index docs | traceability | RUN |
 | `experiment-eigenius-grades.py` | L00 | eigenius (cloned) | epistemic | PASS |
 | `experiment-mutation-testing.py` | L07 | SPEC-19 #3 | verification | PASS |
 | `experiment-reactive-essay.py` | L12 | SPEC-19 #4 | reactive | PASS |

@@ -57,6 +57,14 @@ is · where it lives · which script built it · how to run it · key doc.** Rea
 Each layer page: what it is · purpose · data · processes · implementations · current state.
 Tracked live in `STATE.yaml`. Decomposed from the vision in `VISION-CHUNK-LAYER-MAP.md`.
 
+| Layer file | Focus | Layer file | Focus |
+|-----------|-------|-----------|-------|
+| `layers/00-core-engine.md` | envelope+schema substrate | `layers/05-review-gate.md` | review + adjudication |
+| `layers/01-corpus-provenance.md` | ingestion + R2 | `layers/06-retrieval-compiler.md` | read artifacts |
+| `layers/02-epistemic-graph.md` | KG + DAG | `layers/07-surfaces.md` | Astro/MCP (DISCOVERED) |
+| `layers/03-factory.md` | staleness + compiler | `layers/08-domain-expansions.md` | generality |
+| `layers/04-argument-engine.md` | AIF + crux | `layers/09-live-system.md` | meta-layer + organism |
+
 ---
 
 ## 2. THE PIPELINE (scripts, in dependency order)
@@ -115,6 +123,7 @@ graph after adding text, run `build-graph.py`.
 | `docs/03-graph.md` | the graph output |
 | `docs/04-ontology.md` | the concept + relation vocabulary (the graph contract) |
 | `docs/05-performance.md` | the performance doctrine |
+| `docs/performanceagent.md` | agent/human speed deep-dive (frameworks, runtimes, formats, stacks) |
 | `docs/ORIGINAL-README.md` | redirect stub (superseded) |
 | `docs/ECOSYSTEM-INDEX.md` | consolidated reference index (repos/datasets/arxiv/agent infra) |
 | `docs/ARXIV-INDEX.md` | canonical arXiv catalog (32 papers, by category) |

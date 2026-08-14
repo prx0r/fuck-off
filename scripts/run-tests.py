@@ -45,6 +45,7 @@ run_py("import json;n=[json.loads(l) for l in open('data/corpus.jsonl')];assert 
 run_py("import json;g=json.load(open('data/graph/graph.json'));assert len(g['nodes'])>0;print(f'{len(g[\"nodes\"])} nodes {len(g[\"edges\"])} edges')", "graph_integrity")
 run_script("audit-epistemic.py", "epistemic_invariant")
 run_script("validate-dag.py", "canonical_dag")
+run_script("audit-traceability.py", "traceability_gate")
 run_py("import json;a=json.load(open('data/graph/argument.json'));print(f'{len(a[\"information_nodes\"])} info {len(a[\"inference_nodes\"])} infer {len(a[\"conflict_nodes\"])} conflict')", "argument_graph")
 
 # ---- 2. EXPERIMENTS ----

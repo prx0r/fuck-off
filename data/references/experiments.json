@@ -1,5 +1,5 @@
 {
- "count": 51,
+ "count": 52,
  "entries": [
   {
    "script": "validate-layer03-05.py",
@@ -459,6 +459,15 @@
    "kernel": "essay-ingest",
    "status": "RUN",
    "note": "the 9-stage pipeline: structure\u2192claims\u2192evidence\u2192argument\u2192crux\u2192review\u2192pedagogy\u2192reactive \u2014 8/8"
+  },
+  {
+   "script": "audit-traceability.py",
+   "layer": "ALL",
+   "source": "index docs",
+   "vision": "Verified Epistemic OS",
+   "kernel": "traceability",
+   "status": "RUN",
+   "note": "every .md resolves to an index doc \u2014 no orphaned artifacts"
   }
  ]
 }

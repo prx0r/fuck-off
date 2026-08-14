@@ -79,6 +79,8 @@ docs/0N-*.md            (live — implemented, reconciled to ground truth)
 | `SPEC-34-AUTONOMOUS-PUSHING.md` | Enquiry-Discovery (L04) | research-library/pushing |
 | `SPEC-35-COMPARATIVE-PUSHING.md` | Comparative Philosophy (L06) | research-library/pushing |
 | `SPEC-36-LOGICVID3.md` | Enquiry-Discovery (L04) | research-library |
+| `SPEC-3x-SESSION-Q1.md` | Enquiry-Discovery (L04) | Tantrāloka session (TĀ 1/52-55 reflexivity) |
+| `SPEC-3x-SESSION-OBJECTIONS.md` | Enquiry-Discovery (L04) | hardest objections faced |
 | `SPEC-40-LOGICVID-logicdog.md` | Enquiry-Discovery (L04) | LOGICVID gold |
 | `SPEC-41-LOGICVID-logicframework.md` | Enquiry-Discovery (L04) | LOGICVID gold |
 | `SPEC-42-LOGICVID-logicvidsmethod.md` | Enquiry-Discovery (L04) | LOGICVID gold |

@@ -24,7 +24,7 @@ what the handoff agent builds from.*
 > next agent the WHAT + HOW + PROOF for every product, so they can build + test properly.
 
 ## The verification (proofs are stored, not claimed)
-- `../scripts/theatre-check-all.py` — 50 experiments audited; 24 PROVEN on real data, 26 mechanism-only, 0 unproven,
+- `../scripts/theatre-check-all.py` — 51 experiments audited; 24 PROVEN on real data, 27 mechanism-only, 0 unproven,
   0 unproven.
 - `../data/references/theatre-proofs-all.json` — every proof record with a hash.
 - `../data/references/experiments.json` — every experiment mapped to layer + vision + source.

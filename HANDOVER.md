@@ -47,10 +47,10 @@ stack) is what makes a mechanism real.
 **`scripts/theatre-check-all.py`** runs every experiment and stores a proof record (test exists +
 passes + real-data + claim + hash) → `data/references/theatre-proofs-all.json`.
 
-**Result (50 experiments, self excluded):**
+**Result (51 experiments, self excluded):**
 ```
 24 experiments PROVEN on real data
-26 PROVEN-MECHANISM (synthetic — mechanism works, not integrated)
+27 PROVEN-MECHANISM (synthetic — mechanism works, not integrated)
  0 UNPROVEN
 ```
 
@@ -152,7 +152,7 @@ From **patalamix (SPEC-32)** + the v2 migration:
 ## 8. THE 7 AXIOMS (non-negotiable — from AGENTS.md)
 
 1. One rule: nothing is real because a file exists — it's real when reproducible + verifiable.
-2. Reuse don't rebuild (16 kernels in `lib/`).
+2. Reuse don't rebuild (17 kernels in `lib/`).
 3. Honest statuses — DONE is theatre.
 4. Run `theatre-check` before claiming done; PROVEN-MECHANISM ≠ delivery.
 5. Background long jobs with nohup; kill by PID never pkill.
@@ -187,10 +187,11 @@ regeneration→signed re-release). This turns the lab into the kernel. `validate
 ## 10. KEY COMMANDS
 
 ```bash
-python3 scripts/run-tests.py              # full suite (50/50)
+python3 scripts/run-tests.py              # full suite (52/52, incl traceability gate)
+python3 scripts/audit-traceability.py     # every .md resolves to an index doc (agent-org gate)
 python3 scripts/validate-essay-ingest.py  # essay-ingest pipeline (8/8 on real Ratié)
 python3 scripts/theatre-check.py          # kernel theatre audit (verifiable proofs)
-python3 scripts/theatre-check-all.py      # ALL-experiment theatre audit (50: 24/26/0)
+python3 scripts/theatre-check-all.py      # ALL-experiment theatre audit (51: 24/27/0)
 python3 scripts/build-experiment-matrix.py # regenerate the matrix
 python3 scripts/reverse-deliver.py --vision <Name>   # backward-delivery plan for a vision
 rclone check <local> r2:atlas-sources/informationphilosopher  # R2 backup integrity
@@ -201,7 +202,7 @@ rclone check <local> r2:atlas-sources/informationphilosopher  # R2 backup integr
 ## 11. SESSION LOG (2026-08-14 — what was built this session)
 
 1. Imported + saved 30+ R2 docs → SPEC-00..48 (reviews, education, organism, pushing, logicvid).
-2. Built 16 kernels + 49 experiments across layers L00-L12 + 8 product visions.
+2. Built 17 kernels + 51 experiments across layers L00-L12 + 8 product visions.
 3. Applied patalamix/v2 critiques: honest statuses, real MAP-Elites, causal-operational graph,
    execution branching/replay.
 4. Cloned ~100 repos across categories; each high-value one → a validated experiment.
@@ -219,9 +220,9 @@ rclone check <local> r2:atlas-sources/informationphilosopher  # R2 backup integr
    `migration/v2/ESSAY-INGEST.md` (9 stages × kernel × why) and `migration/v2/INGESTION-ARCHITECTURE.md`
    (source-text vs essay-about-source vs standalone essay, KORAL two-graph). Fixed the theatre audit
    self-recursion bug (audit no longer audits itself).
-9. **FINAL STATE: 50/50 tests, 24 experiments PROVEN on real data / 26 mechanism / 0 unproven,
-   17 kernels, 8 product visions, 51-experiment matrix, 41 cloned repos (20 validated + 21 reference),
-   fully traceable.**
+9. **FINAL STATE: 52/52 tests, 24 experiments PROVEN on real data / 27 mechanism / 0 unproven,
+   17 kernels, 8 product visions, 52-experiment matrix, 41 cloned repos (20 validated + 21 reference),
+   fully traceable (audit-traceability gate = every .md resolves).**
 
 ---
 
@@ -233,7 +234,8 @@ rclone check <local> r2:atlas-sources/informationphilosopher  # R2 backup integr
 4. Read `KERNELS-INDEX.md` — reuse the 17 kernels, don't rebuild.
 5. Read §5 essay-ingest architecture — the source-text vs essay-about-source vs standalone design.
 6. Check `TODO.md` + `GAPS.md` + `STATE.yaml` — the live state.
-7. Run `scripts/run-tests.py` (50/50) + `scripts/theatre-check-all.py` before claiming anything done.
+7. Run `scripts/run-tests.py` (52/52, incl the traceability gate) + `scripts/theatre-check-all.py`
+   before claiming anything done.
 8. Pick the graduation test (§9 P0) as the next real milestone.
 
 **The single most important next step:** the graduation test — ONE claim through the whole stack

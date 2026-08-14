@@ -632,3 +632,15 @@ imposed.
   frontiers · 46 specs · 5 LOGICVID gold findings · per-layer STATE + honest debt A-G · the roadmap
   (P0 graduation test).
 - Wired into NAVIGATION + TRACEABILITY-MAP. Ground-truth counts verified against data/references/*.json.
+
+## 2026-08-14 (performance-doctrine compliance + doc-traceability gate)
+- **`scripts/audit-traceability.py`** — a machine gate (performance-doctrine rule "everything
+  resolvable" applied to the DOC GRAPH): every .md (106 files) must be referenced by an index doc
+  (NAVIGATION/TRACEABILITY/specs-README/migration-README). Orphaned docs = lost work. Exit 0/1.
+- **Fixed 13 traceability gaps:** added layers/ table (full paths), performanceagent.md, SPEC-3x
+  session files to specs-README. All 106 docs now resolve.
+- **AGENTS.md:** new axiom 22 (every doc resolves; run the gate; optimize docs for agent+human speed:
+  one materialized bundle per question, dense tables, no prose walls) + navigation renumbered + added
+  MASTER-KNOWLEDGE-BASE.
+- Wired into run-tests (52/52, incl traceability gate) + matrix (52 entries).
+- HANDOVER counts refreshed: 52/52 tests, theatre 24 PROVEN / 27 mechanism / 0 unproven (51 audited).

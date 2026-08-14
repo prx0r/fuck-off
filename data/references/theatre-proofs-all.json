@@ -1,8 +1,8 @@
 {
- "count": 50,
+ "count": 51,
  "verdicts": {
   "PROVEN": 24,
-  "PROVEN-MECHANISM": 26
+  "PROVEN-MECHANISM": 27
  },
  "proofs": [
   {
@@ -604,6 +604,18 @@
    "uses_real_data": true,
    "verdict": "PROVEN",
    "proof_hash": "747d44182579c00c"
+  },
+  {
+   "script": "audit-traceability.py",
+   "layer": "ALL",
+   "vision": "Verified Epistemic OS",
+   "kernel": "traceability",
+   "claim": "every .md resolves to an index doc \u2014 no orphaned artifacts",
+   "test_exists": true,
+   "passes": true,
+   "uses_real_data": false,
+   "verdict": "PROVEN-MECHANISM",
+   "proof_hash": "67d54039c80d6fa3"
   }
  ]
 }

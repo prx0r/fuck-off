@@ -102,6 +102,10 @@ match ground truth.
 20. **Token-efficient responses.** Support `?select=`, `?depth=`, `format=compact`.
 21. **Everything resolvable.** Every claim/edge resolves to `evidence_quote` + `passage_ids` + the
     source work. No dangling references.
+22. **Every doc resolves.** Every `.md` must be referenced by an index doc (NAVIGATION/TRACEABILITY/
+    specs-README/migration-README). Run `scripts/audit-traceability.py` before finishing a docs task.
+    Orphaned docs = dangling references = lost work. Optimize docs for agent+human speed: one
+    materialized bundle per question, dense tables, stable IDs, no prose walls.
 
 ---
 
@@ -114,15 +118,17 @@ match ground truth.
 4. **`LAB-REVIEW.md`** — the state of the lab (what's proven/exploratory/next).
 5. **`KERNELS-INDEX.md`** — the reusable kernels (reuse, don't rebuild).
 6. **`HANDOVER.md`** — the session state + where to continue (READ BEFORE BUILDING).
-7. **`DEV_PLAN.md`** — the executable roadmap (what to build next).
-8. **`TODO.md`** — the live task tracker.
-9. **`GAPS.md`** — known holes.
-10. **`docs/01-corpus.md`** … **`docs/05-performance.md`** — concern docs.
+7. **`MASTER-KNOWLEDGE-BASE.md`** — the synthesized master reference (everything at a glance).
+8. **`DEV_PLAN.md`** — the executable roadmap (what to build next).
+9. **`TODO.md`** — the live task tracker.
+10. **`GAPS.md`** — known holes.
+11. **`docs/01-corpus.md`** … **`docs/05-performance.md`** — concern docs.
 11. **`docs/ECOSYSTEM-INDEX.md` · `ARXIV-INDEX.md` · `GITHUB-INDEX.md` · `GITHUB-TRACEABILITY.md` ·
     `ALGORITHMS.md` · `EXPERIMENT-MATRIX.md` · `LOGICVID-GOLD-EXEMPLARS.md`** — reference indexes.
-12. **`specs/`** — SPEC-00 (canonical infra) … SPEC-48 (LOGICVID gold) — the designs.
-13. **`layers/00-09-*.md`** — per-layer deep pages + current state.
-14. **`STATE.yaml`** — the live per-layer tracker.
+12. **`MASTER-KNOWLEDGE-BASE.md`** — the synthesized master reference (all counts + what's built).
+13. **`specs/`** — SPEC-00 (canonical infra) … SPEC-48 (LOGICVID gold) — the designs.
+14. **`layers/00-09-*.md`** — per-layer deep pages + current state.
+15. **`STATE.yaml`** — the live per-layer tracker.
 
 ### Vision docs (for orientation)
 - `docs/vision/VISION-VERIFIED-EPISTEMIC-OS.md` — the 8-law substrate.
