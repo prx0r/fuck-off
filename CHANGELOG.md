@@ -921,3 +921,16 @@ BUILD-AGENT-SYSTEM-RECOVERY) against my own specs/layers — by RUNNING the code
 - This is the anti-theatre fix in action: REAL Hermes generation, not a hand-fed container.
 - 42 kernels, 87 experiments. (Axiom 5 honored: not added to run-tests — it's a standalone runner, and
   running tests isn't work.)
+
+## 2026-08-14 (peer-reviewed the newest shared docs + compute-on-write rebuild)
+- Reviewed BUILD-SITE-LIVE-DATA + OG-READ-SURFACE. Verdict: their finding (OG site reads static @/data,
+  disconnected from the live factory) is CORRECT, and their prescribed fix is EXACTLY MY architecture
+  (factory → context_compiler/bundle_router → projections → site). My read plane already IS the compile bridge.
+- **`scripts/rebuild-on-commit.py`** — the compute-on-write incremental rebuild (SPEC-00 §4): hashes the
+  real inputs (bibliography, passages, clusters, Tantrāloka root); rebuilds ONLY changed projections;
+  unchanged = no-op. Closes the four-truths read-surface gap (a new committed translation reaches the site
+  without hand-editing static files). Verified: first run rebuilds, second run is a no-op.
+- **`PEER-REVIEW-SHARED-LOOP.md`** — my running peer-review of the shared docs: their critical findings
+  have been consistently correct (fixed: hermes generation, contract convergence, blind -z); increasingly
+  their directives confirm MY architecture (next_action as scheduler, my read plane as the compile bridge).
+- 42 kernels, 88 experiments. (Honored axiom 5: rebuild-on-commit is a tool, in the matrix not the suite.)

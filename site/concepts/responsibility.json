@@ -3,7 +3,7 @@
   "id": "ip:concept:responsibility",
   "label": "Responsibility",
   "type": "concept",
-  "ceiling": null
+  "ceiling": "MACHINE_PROPOSED"
  },
  "canonical_url": "ip:concept:responsibility",
  "content": {
@@ -11,7 +11,7 @@
    "id": "ip:concept:responsibility",
    "label": "Responsibility",
    "type": "concept",
-   "ceiling": null
+   "ceiling": "MACHINE_PROPOSED"
   },
   "definition": "Responsibility \u2014 canonical concept node",
   "positions": [],
@@ -1041,6 +1041,6 @@
   "view": "context",
   "budget": null,
   "depth": 1,
-  "bundle_hash": "e3780e490ab4ed46"
+  "bundle_hash": "ed0149c7e20e9a10"
  }
 }

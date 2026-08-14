@@ -3,7 +3,7 @@
   "id": "ip:concept:knowledge",
   "label": "Knowledge",
   "type": "concept",
-  "ceiling": null
+  "ceiling": "MACHINE_PROPOSED"
  },
  "canonical_url": "ip:concept:knowledge",
  "content": {
@@ -11,7 +11,7 @@
    "id": "ip:concept:knowledge",
    "label": "Knowledge",
    "type": "concept",
-   "ceiling": null
+   "ceiling": "MACHINE_PROPOSED"
   },
   "definition": "Knowledge \u2014 canonical concept node",
   "positions": [],
@@ -3081,6 +3081,6 @@
   "view": "context",
   "budget": null,
   "depth": 1,
-  "bundle_hash": "dcb080c6f419e044"
+  "bundle_hash": "e12be1cbc9603831"
  }
 }

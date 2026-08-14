@@ -3,7 +3,7 @@
   "id": "ip:concept:consciousness",
   "label": "Consciousness",
   "type": "concept",
-  "ceiling": null
+  "ceiling": "MACHINE_PROPOSED"
  },
  "canonical_url": "ip:concept:consciousness",
  "content": {
@@ -11,7 +11,7 @@
    "id": "ip:concept:consciousness",
    "label": "Consciousness",
    "type": "concept",
-   "ceiling": null
+   "ceiling": "MACHINE_PROPOSED"
   },
   "definition": "Consciousness \u2014 canonical concept node",
   "positions": [],
@@ -1711,6 +1711,6 @@
   "view": "context",
   "budget": null,
   "depth": 1,
-  "bundle_hash": "15ae3b4154a8f256"
+  "bundle_hash": "717e6cda2d6e7b1f"
  }
 }

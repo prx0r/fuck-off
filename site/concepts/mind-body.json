@@ -3,7 +3,7 @@
   "id": "ip:concept:mind_body",
   "label": "Mind Body",
   "type": "concept",
-  "ceiling": null
+  "ceiling": "MACHINE_PROPOSED"
  },
  "canonical_url": "ip:concept:mind_body",
  "content": {
@@ -11,7 +11,7 @@
    "id": "ip:concept:mind_body",
    "label": "Mind Body",
    "type": "concept",
-   "ceiling": null
+   "ceiling": "MACHINE_PROPOSED"
   },
   "definition": "Mind Body \u2014 canonical concept node",
   "positions": [],
@@ -971,6 +971,6 @@
   "view": "context",
   "budget": null,
   "depth": 1,
-  "bundle_hash": "4b4bc9a289fcb36f"
+  "bundle_hash": "e89f7b833576f884"
  }
 }

@@ -3,7 +3,7 @@
   "id": "ip:concept:belief",
   "label": "Belief",
   "type": "concept",
-  "ceiling": null
+  "ceiling": "MACHINE_PROPOSED"
  },
  "canonical_url": "ip:concept:belief",
  "content": {
@@ -11,7 +11,7 @@
    "id": "ip:concept:belief",
    "label": "Belief",
    "type": "concept",
-   "ceiling": null
+   "ceiling": "MACHINE_PROPOSED"
   },
   "definition": "Belief \u2014 canonical concept node",
   "positions": [],
@@ -1581,6 +1581,6 @@
   "view": "context",
   "budget": null,
   "depth": 1,
-  "bundle_hash": "6426ef2172e444c1"
+  "bundle_hash": "f6ef83b35aa9d0df"
  }
 }

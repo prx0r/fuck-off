@@ -3,7 +3,7 @@
   "id": "ip:concept:information_theory",
   "label": "Information Theory",
   "type": "concept",
-  "ceiling": null
+  "ceiling": "MACHINE_PROPOSED"
  },
  "canonical_url": "ip:concept:information_theory",
  "content": {
@@ -11,7 +11,7 @@
    "id": "ip:concept:information_theory",
    "label": "Information Theory",
    "type": "concept",
-   "ceiling": null
+   "ceiling": "MACHINE_PROPOSED"
   },
   "definition": "Information Theory \u2014 canonical concept node",
   "positions": [],
@@ -831,6 +831,6 @@
   "view": "context",
   "budget": null,
   "depth": 1,
-  "bundle_hash": "6c6c74922e2480ba"
+  "bundle_hash": "6b85e63bb1f11b73"
  }
 }

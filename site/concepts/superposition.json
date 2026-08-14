@@ -3,7 +3,7 @@
   "id": "ip:concept:superposition",
   "label": "Superposition",
   "type": "concept",
-  "ceiling": null
+  "ceiling": "MACHINE_PROPOSED"
  },
  "canonical_url": "ip:concept:superposition",
  "content": {
@@ -11,7 +11,7 @@
    "id": "ip:concept:superposition",
    "label": "Superposition",
    "type": "concept",
-   "ceiling": null
+   "ceiling": "MACHINE_PROPOSED"
   },
   "definition": "Superposition \u2014 canonical concept node",
   "positions": [],
@@ -1281,6 +1281,6 @@
   "view": "context",
   "budget": null,
   "depth": 1,
-  "bundle_hash": "1f23e2390963d966"
+  "bundle_hash": "3855cdf330e64945"
  }
 }

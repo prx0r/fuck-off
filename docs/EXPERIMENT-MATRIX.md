@@ -1,6 +1,6 @@
 # EXPERIMENT MATRIX — what's been tested
 
-*2026-08-14. 87 experiments mapped to layer / source repo / vision / kernel / result.*
+*2026-08-14. 88 experiments mapped to layer / source repo / vision / kernel / result.*
 Machine form: `data/references/experiments.json`.
 
 ## Argument Map (7)
@@ -102,7 +102,7 @@ Machine form: `data/references/experiments.json`.
 | `experiment-causal-operational-graph.py` | L12 | patalamix review #12 | causal-operational | RUN |
 | `experiment-signed-statement.py` | L12 | cosign (cloned) | signing | RUN |
 
-## Verified Epistemic OS (44)
+## Verified Epistemic OS (45)
 
 | script | layer | source | kernel | result |
 |--------|-------|--------|--------|--------|
@@ -114,6 +114,7 @@ Machine form: `data/references/experiments.json`.
 | `experiment-reactive-essay.py` | L12 | SPEC-19 #4 | reactive | PASS |
 | `experiment-signed-corpus.py` | L12 | SPEC-19 #6/7 | merkle | PASS |
 | `experiment-verified-lifecycle.py` | ALL | the OS synthesis | all | PASS |
+| `rebuild-on-commit.py` | L06 | real corpus inputs | compute-on-write | RUN |
 | `run-tantraloka-autonomous.py` | ALL | real Ahnika-1 karikas + next_action + Hermes | tantraloka-autonomous | RUN |
 | `theatre-check-all.py` | ALL | the full anti-theatre audit | verification | RUN |
 | `theatre-check.py` | ALL | the anti-theatre skill | verification | RUN |

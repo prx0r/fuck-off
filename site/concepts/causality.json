@@ -3,7 +3,7 @@
   "id": "ip:concept:causality",
   "label": "Causality",
   "type": "concept",
-  "ceiling": null
+  "ceiling": "MACHINE_PROPOSED"
  },
  "canonical_url": "ip:concept:causality",
  "content": {
@@ -11,7 +11,7 @@
    "id": "ip:concept:causality",
    "label": "Causality",
    "type": "concept",
-   "ceiling": null
+   "ceiling": "MACHINE_PROPOSED"
   },
   "definition": "Causality \u2014 canonical concept node",
   "positions": [],
@@ -1611,6 +1611,6 @@
   "view": "context",
   "budget": null,
   "depth": 1,
-  "bundle_hash": "fa1cf86a2b4f9e2c"
+  "bundle_hash": "5807a6eea454d936"
  }
 }

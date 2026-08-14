@@ -3,7 +3,7 @@
   "id": "ip:concept:agency",
   "label": "Agency",
   "type": "concept",
-  "ceiling": null
+  "ceiling": "MACHINE_PROPOSED"
  },
  "canonical_url": "ip:concept:agency",
  "content": {
@@ -11,7 +11,7 @@
    "id": "ip:concept:agency",
    "label": "Agency",
    "type": "concept",
-   "ceiling": null
+   "ceiling": "MACHINE_PROPOSED"
   },
   "definition": "Agency \u2014 canonical concept node",
   "positions": [],
@@ -971,6 +971,6 @@
   "view": "context",
   "budget": null,
   "depth": 1,
-  "bundle_hash": "73cd2c104378c88f"
+  "bundle_hash": "5eb5507a70881926"
  }
 }

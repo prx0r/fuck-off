@@ -3,7 +3,7 @@
   "id": "ip:concept:truth",
   "label": "Truth",
   "type": "concept",
-  "ceiling": null
+  "ceiling": "MACHINE_PROPOSED"
  },
  "canonical_url": "ip:concept:truth",
  "content": {
@@ -11,7 +11,7 @@
    "id": "ip:concept:truth",
    "label": "Truth",
    "type": "concept",
-   "ceiling": null
+   "ceiling": "MACHINE_PROPOSED"
   },
   "definition": "Truth \u2014 canonical concept node",
   "positions": [],
@@ -1831,6 +1831,6 @@
   "view": "context",
   "budget": null,
   "depth": 1,
-  "bundle_hash": "285196c6f6a64f4c"
+  "bundle_hash": "fa7172c49d2b7b35"
  }
 }

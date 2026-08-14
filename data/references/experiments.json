@@ -1,5 +1,5 @@
 {
- "count": 87,
+ "count": 88,
  "entries": [
   {
    "script": "validate-layer03-05.py",
@@ -783,6 +783,15 @@
    "kernel": "tantraloka-autonomous",
    "status": "RUN",
    "note": "the autonomous full-chain runner: next_action schedules WHAT, real Hermes generates AbhT_1.52, proof on real output, product stack compiles \u2014 8/8"
+  },
+  {
+   "script": "rebuild-on-commit.py",
+   "layer": "L06",
+   "source": "real corpus inputs",
+   "vision": "Verified Epistemic OS",
+   "kernel": "compute-on-write",
+   "status": "RUN",
+   "note": "compute-on-write incremental rebuild (SPEC-00 \u00a74): only changed inputs recompile; unchanged = no-op \u2014 closes the four-truths read-surface gap"
   }
  ]
 }

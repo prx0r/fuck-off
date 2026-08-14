@@ -111,6 +111,7 @@ MATRIX = {
   "validate-contract-convergence.py": ("L00/L05", "6 divergent ReviewEvent/Authority defs", "Verified Epistemic OS", "contract-convergence", "THE #1 build: converge the 6 divergent contracts onto ONE non-scalar AuthorityVector + ReviewEvent; PARITY with OG — 10/10"),
   "validate-hermes-exec.py": ("ALL", "real AbhT_1.52 kārikā via agentic hermes chat", "Verified Epistemic OS", "hermes-generation", "the Hermes-for-GENERATION fix: agentic hermes chat (not blind -z) generates a real translation — 6/6"),
   "run-tantraloka-autonomous.py": ("ALL", "real Ahnika-1 karikas + next_action + Hermes", "Verified Epistemic OS", "tantraloka-autonomous", "the autonomous full-chain runner: next_action schedules WHAT, real Hermes generates AbhT_1.52, proof on real output, product stack compiles — 8/8"),
+  "rebuild-on-commit.py": ("L06", "real corpus inputs", "Verified Epistemic OS", "compute-on-write", "compute-on-write incremental rebuild (SPEC-00 §4): only changed inputs recompile; unchanged = no-op — closes the four-truths read-surface gap"),
 }
 
 def main():

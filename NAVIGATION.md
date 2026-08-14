@@ -124,6 +124,7 @@ graph after adding text, run `build-graph.py`.
 | `DEV-PLAN-HONEST.md` | the sober dev plan: stop adding kernels, wire the real corpus (depth over breadth) |
 | `CONTRACT-CONVERGENCE.md` | my review of the shared BUILD directives + the contract-convergence (the #1 build) |
 | `SHARED-DOCS-ASSESSMENT.md` | my verdict on agentpatala's critical audit (correct — fixed) + where my work is ahead |
+| `PEER-REVIEW-SHARED-LOOP.md` | my running peer-review of the newest shared docs (BUILD-SITE-LIVE-DATA etc.) |
 | `tantraloka/` | **THE MONA LISA** — Tantrāloka from scratch: the canonical full-stack test + full hypotheses/order |
 | `BUILDNOTES.md` | full build history + decisions |
 | `NAVIGATION.md` | this file |

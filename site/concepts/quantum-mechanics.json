@@ -3,7 +3,7 @@
   "id": "ip:concept:quantum_mechanics",
   "label": "Quantum Mechanics",
   "type": "concept",
-  "ceiling": null
+  "ceiling": "MACHINE_PROPOSED"
  },
  "canonical_url": "ip:concept:quantum_mechanics",
  "content": {
@@ -11,7 +11,7 @@
    "id": "ip:concept:quantum_mechanics",
    "label": "Quantum Mechanics",
    "type": "concept",
-   "ceiling": null
+   "ceiling": "MACHINE_PROPOSED"
   },
   "definition": "Quantum Mechanics \u2014 canonical concept node",
   "positions": [],
@@ -3331,6 +3331,6 @@
   "view": "context",
   "budget": null,
   "depth": 1,
-  "bundle_hash": "ffaa8a6b71cd80c0"
+  "bundle_hash": "f2e22c3bb0e053a1"
  }
 }

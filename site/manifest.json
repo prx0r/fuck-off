@@ -3,187 +3,187 @@
   "value": {
    "id": "ip:concept:value",
    "label": "Value",
-   "ceiling": null,
+   "ceiling": "MACHINE_PROPOSED",
    "url": "https://patala.org/concept/value"
   },
   "probability": {
    "id": "ip:concept:probability",
    "label": "Probability",
-   "ceiling": null,
+   "ceiling": "MACHINE_PROPOSED",
    "url": "https://patala.org/concept/probability"
   },
   "chance": {
    "id": "ip:concept:chance",
    "label": "Chance",
-   "ceiling": null,
+   "ceiling": "MACHINE_PROPOSED",
    "url": "https://patala.org/concept/chance"
   },
   "measurement": {
    "id": "ip:concept:measurement",
    "label": "Measurement",
-   "ceiling": null,
+   "ceiling": "MACHINE_PROPOSED",
    "url": "https://patala.org/concept/measurement"
   },
   "entropy": {
    "id": "ip:concept:entropy",
    "label": "Entropy",
-   "ceiling": null,
+   "ceiling": "MACHINE_PROPOSED",
    "url": "https://patala.org/concept/entropy"
   },
   "superposition": {
    "id": "ip:concept:superposition",
    "label": "Superposition",
-   "ceiling": null,
+   "ceiling": "MACHINE_PROPOSED",
    "url": "https://patala.org/concept/superposition"
   },
   "information": {
    "id": "ip:concept:information",
    "label": "Information",
-   "ceiling": null,
+   "ceiling": "MACHINE_PROPOSED",
    "url": "https://patala.org/concept/information"
   },
   "arrow-of-time": {
    "id": "ip:concept:arrow_of_time",
    "label": "Arrow Of Time",
-   "ceiling": null,
+   "ceiling": "MACHINE_PROPOSED",
    "url": "https://patala.org/concept/arrow-of-time"
   },
   "randomness": {
    "id": "ip:concept:randomness",
    "label": "Randomness",
-   "ceiling": null,
+   "ceiling": "MACHINE_PROPOSED",
    "url": "https://patala.org/concept/randomness"
   },
   "indeterminism": {
    "id": "ip:concept:indeterminism",
    "label": "Indeterminism",
-   "ceiling": null,
+   "ceiling": "MACHINE_PROPOSED",
    "url": "https://patala.org/concept/indeterminism"
   },
   "responsibility": {
    "id": "ip:concept:responsibility",
    "label": "Responsibility",
-   "ceiling": null,
+   "ceiling": "MACHINE_PROPOSED",
    "url": "https://patala.org/concept/responsibility"
   },
   "evolution": {
    "id": "ip:concept:evolution",
    "label": "Evolution",
-   "ceiling": null,
+   "ceiling": "MACHINE_PROPOSED",
    "url": "https://patala.org/concept/evolution"
   },
   "free-will": {
    "id": "ip:concept:free_will",
    "label": "Free Will",
-   "ceiling": null,
+   "ceiling": "MACHINE_PROPOSED",
    "url": "https://patala.org/concept/free-will"
   },
   "qualia": {
    "id": "ip:concept:qualia",
    "label": "Qualia",
-   "ceiling": null,
+   "ceiling": "MACHINE_PROPOSED",
    "url": "https://patala.org/concept/qualia"
   },
   "mind-body": {
    "id": "ip:concept:mind_body",
    "label": "Mind Body",
-   "ceiling": null,
+   "ceiling": "MACHINE_PROPOSED",
    "url": "https://patala.org/concept/mind-body"
   },
   "mind": {
    "id": "ip:concept:mind",
    "label": "Mind",
-   "ceiling": null,
+   "ceiling": "MACHINE_PROPOSED",
    "url": "https://patala.org/concept/mind"
   },
   "wave-function": {
    "id": "ip:concept:wave_function",
    "label": "Wave Function",
-   "ceiling": null,
+   "ceiling": "MACHINE_PROPOSED",
    "url": "https://patala.org/concept/wave-function"
   },
   "second-law": {
    "id": "ip:concept:second_law",
    "label": "Second Law",
-   "ceiling": null,
+   "ceiling": "MACHINE_PROPOSED",
    "url": "https://patala.org/concept/second-law"
   },
   "knowledge": {
    "id": "ip:concept:knowledge",
    "label": "Knowledge",
-   "ceiling": null,
+   "ceiling": "MACHINE_PROPOSED",
    "url": "https://patala.org/concept/knowledge"
   },
   "causality": {
    "id": "ip:concept:causality",
    "label": "Causality",
-   "ceiling": null,
+   "ceiling": "MACHINE_PROPOSED",
    "url": "https://patala.org/concept/causality"
   },
   "computation": {
    "id": "ip:concept:computation",
    "label": "Computation",
-   "ceiling": null,
+   "ceiling": "MACHINE_PROPOSED",
    "url": "https://patala.org/concept/computation"
   },
   "belief": {
    "id": "ip:concept:belief",
    "label": "Belief",
-   "ceiling": null,
+   "ceiling": "MACHINE_PROPOSED",
    "url": "https://patala.org/concept/belief"
   },
   "life": {
    "id": "ip:concept:life",
    "label": "Life",
-   "ceiling": null,
+   "ceiling": "MACHINE_PROPOSED",
    "url": "https://patala.org/concept/life"
   },
   "consciousness": {
    "id": "ip:concept:consciousness",
    "label": "Consciousness",
-   "ceiling": null,
+   "ceiling": "MACHINE_PROPOSED",
    "url": "https://patala.org/concept/consciousness"
   },
   "agency": {
    "id": "ip:concept:agency",
    "label": "Agency",
-   "ceiling": null,
+   "ceiling": "MACHINE_PROPOSED",
    "url": "https://patala.org/concept/agency"
   },
   "quantum-mechanics": {
    "id": "ip:concept:quantum_mechanics",
    "label": "Quantum Mechanics",
-   "ceiling": null,
+   "ceiling": "MACHINE_PROPOSED",
    "url": "https://patala.org/concept/quantum-mechanics"
   },
   "truth": {
    "id": "ip:concept:truth",
    "label": "Truth",
-   "ceiling": null,
+   "ceiling": "MACHINE_PROPOSED",
    "url": "https://patala.org/concept/truth"
   },
   "entanglement": {
    "id": "ip:concept:entanglement",
    "label": "Entanglement",
-   "ceiling": null,
+   "ceiling": "MACHINE_PROPOSED",
    "url": "https://patala.org/concept/entanglement"
   },
   "determinism": {
    "id": "ip:concept:determinism",
    "label": "Determinism",
-   "ceiling": null,
+   "ceiling": "MACHINE_PROPOSED",
    "url": "https://patala.org/concept/determinism"
   },
   "information-theory": {
    "id": "ip:concept:information_theory",
    "label": "Information Theory",
-   "ceiling": null,
+   "ceiling": "MACHINE_PROPOSED",
    "url": "https://patala.org/concept/information-theory"
   },
   "morality": {
    "id": "ip:concept:morality",
    "label": "Morality",
-   "ceiling": null,
+   "ceiling": "MACHINE_PROPOSED",
    "url": "https://patala.org/concept/morality"
   }
  },
@@ -217,8 +217,8 @@
  "counts": {
   "concepts": 31,
   "argument_nodes": 6,
-  "bytes": 1476673,
-  "root_hash": "c93e20c799f7dee7"
+  "bytes": 1478867,
+  "root_hash": "8363d66190804b44"
  },
  "bibliography": {
   "count": 254,

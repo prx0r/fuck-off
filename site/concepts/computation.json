@@ -3,7 +3,7 @@
   "id": "ip:concept:computation",
   "label": "Computation",
   "type": "concept",
-  "ceiling": null
+  "ceiling": "MACHINE_PROPOSED"
  },
  "canonical_url": "ip:concept:computation",
  "content": {
@@ -11,7 +11,7 @@
    "id": "ip:concept:computation",
    "label": "Computation",
    "type": "concept",
-   "ceiling": null
+   "ceiling": "MACHINE_PROPOSED"
   },
   "definition": "Computation \u2014 canonical concept node",
   "positions": [],
@@ -1031,6 +1031,6 @@
   "view": "context",
   "budget": null,
   "depth": 1,
-  "bundle_hash": "d614f825394cce88"
+  "bundle_hash": "1b748b984708e234"
  }
 }

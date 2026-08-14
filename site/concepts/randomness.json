@@ -3,7 +3,7 @@
   "id": "ip:concept:randomness",
   "label": "Randomness",
   "type": "concept",
-  "ceiling": null
+  "ceiling": "MACHINE_PROPOSED"
  },
  "canonical_url": "ip:concept:randomness",
  "content": {
@@ -11,7 +11,7 @@
    "id": "ip:concept:randomness",
    "label": "Randomness",
    "type": "concept",
-   "ceiling": null
+   "ceiling": "MACHINE_PROPOSED"
   },
   "definition": "Randomness \u2014 canonical concept node",
   "positions": [],
@@ -1281,6 +1281,6 @@
   "view": "context",
   "budget": null,
   "depth": 1,
-  "bundle_hash": "532fe1546b1107a5"
+  "bundle_hash": "88fad32698bab788"
  }
 }

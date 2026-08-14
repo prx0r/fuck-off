@@ -3,7 +3,7 @@
   "id": "ip:concept:information",
   "label": "Information",
   "type": "concept",
-  "ceiling": null
+  "ceiling": "MACHINE_PROPOSED"
  },
  "canonical_url": "ip:concept:information",
  "content": {
@@ -11,7 +11,7 @@
    "id": "ip:concept:information",
    "label": "Information",
    "type": "concept",
-   "ceiling": null
+   "ceiling": "MACHINE_PROPOSED"
   },
   "definition": "Information \u2014 canonical concept node",
   "positions": [],
@@ -3411,6 +3411,6 @@
   "view": "context",
   "budget": null,
   "depth": 1,
-  "bundle_hash": "def321e3bb9e4f4c"
+  "bundle_hash": "d40fe96410afabb4"
  }
 }
