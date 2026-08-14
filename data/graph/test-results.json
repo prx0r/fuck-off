@@ -5,54 +5,66 @@
    "name": "corpus_integrity",
    "pass": true,
    "detail": "425 records OK",
-   "ms": 214.9
+   "ms": 222.1
   },
   {
    "name": "graph_integrity",
    "pass": true,
    "detail": "490 nodes 6578 edges",
-   "ms": 47.5
+   "ms": 55.9
   },
   {
    "name": "epistemic_invariant",
    "pass": true,
    "detail": "PASS: authority(projection) <= authority(parent) holds everywhere.",
-   "ms": 68.6
+   "ms": 85.5
   },
   {
    "name": "canonical_dag",
    "pass": true,
    "detail": "  PHYSICS -> THERMODYNAMICS -> INFORMATION -> COMPUTATION -> QUANTUM -> PROBABILITY -> INDETERMINISM -> MIND -> LIFE -> FREE_WILL -> RESPONSIBILITY -> VALUE -> SYNTHESIS -> ESSAY",
-   "ms": 205.8
+   "ms": 230.2
   },
   {
    "name": "argument_graph",
    "pass": true,
    "detail": "6 info 4 infer 2 conflict",
-   "ms": 30.6
+   "ms": 27.4
   },
   {
    "name": "evidence_weights_experiment",
    "pass": true,
    "detail": "wrote /mnt/HC_Volume_106427611/ip-graph/data/graph/evidence-weights.json",
-   "ms": 1951.1
+   "ms": 1915.3
   },
   {
    "name": "bounded_context_experiment",
    "pass": true,
    "detail": "_(~128 tokens, budget 500)_",
-   "ms": 222.1
+   "ms": 206.7
   },
   {
    "name": "arxiv_peer_review",
    "pass": true,
    "detail": "wrote data/graph/arxiv-review.json",
-   "ms": 23.6
+   "ms": 26.6
+  },
+  {
+   "name": "layer_03_05_factory_research",
+   "pass": true,
+   "detail": "=== SUMMARY: 12/12 passed ===",
+   "ms": 69.8
+  },
+  {
+   "name": "layer_10_retrieval_comparison",
+   "pass": true,
+   "detail": "ALL PASS (targets retrieved by PathRAG+KG2Code)",
+   "ms": 624.4
   }
  ],
  "summary": {
-  "total": 8,
-  "passed": 8,
+  "total": 10,
+  "passed": 10,
   "failed": 0
  }
 }

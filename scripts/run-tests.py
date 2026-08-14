@@ -53,6 +53,11 @@ run_script("experiment-evidence-weights.py", "evidence_weights_experiment")
 run_script("experiment-bounded-context.py", "bounded_context_experiment")
 run_script("peer-review-arxiv.py", "arxiv_peer_review")
 
+# ---- 3. LAYER VALIDATIONS ----
+print("\n=== 3. LAYER VALIDATIONS ===")
+run_script("validate-layer03-05.py", "layer_03_05_factory_research")
+run_script("validate-layer10.py", "layer_10_retrieval_comparison")
+
 # ---- summary ----
 n = len(results["tests"]); npass = sum(1 for t in results["tests"] if t["pass"])
 results["summary"] = {"total": n, "passed": npass, "failed": n - npass}

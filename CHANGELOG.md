@@ -214,3 +214,15 @@ imposed.
   - 12 Live System → epistemic work queue + RKA staleness + STATE.yaml
 - Frontier thread: epistemic honesty (SPEC-02/herdr/RKA) + compile-once (SPEC-00/KG2Code) — one graph.
 - specs README + NAVIGATION + CHANGELOG wired.
+
+## 2026-08-14 (cont.) — FRONTIER-MAP: lib/ kernels + layer validations
+- **`docs/process/FRONTIER-MAP.md`** — implementation map + todos per patala layer.
+- **Promoted experiments → `lib/`:** `lib/review.py` (herdr reducer), `lib/staleness.py` (RKA
+  blast-radius + review_queue + incremental rebuild order), `lib/query.py` (KG2Code DSL),
+  `lib/retrieval.py` (PathRAG + HippoRAG).
+- **Layer 03+05 validation** (`validate-layer03-05.py`): 12/12 pass — staleness reaches FREE_WILL/VALUE,
+  rebuild order correct, reducer gates promotion honestly.
+- **Layer 10 retrieval comparison** (`validate-layer10.py`): PathRAG + KG2Code retrieve the target;
+  **HippoRAG PPR is hub-biased (Value/Information dominate)** — a verified finding requiring
+  query-relevance reweighting.
+- Test suite now 10/10 pass.
