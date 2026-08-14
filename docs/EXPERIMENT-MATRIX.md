@@ -1,6 +1,6 @@
 # EXPERIMENT MATRIX — what's been tested
 
-*2026-08-14. 38 experiments mapped to layer / source repo / vision / kernel / result.*
+*2026-08-14. 39 experiments mapped to layer / source repo / vision / kernel / result.*
 Machine form: `data/references/experiments.json`.
 
 ## Argument Map (7)
@@ -44,13 +44,14 @@ Machine form: `data/references/experiments.json`.
 | `experiment-review-bias.py` | L08 | AgentReview (cloned) | scholar_review | PASS |
 | `validate-products.py` | L03+L08+L00 | SPEC-15/16/17 | translation+review+schema | PASS |
 
-## Education+Organism (3)
+## Education+Organism (4)
 
 | script | layer | source | kernel | result |
 |--------|-------|--------|--------|--------|
 | `experiment-evolving-memory.py` | L09 | evolving-memory (cloned) | memory | PASS |
 | `experiment-graphiti-temporal.py` | L09 | graphiti (cloned) | temporal | PASS |
 | `validate-education-organism.py` | L09 | patala education/organism vision | education+organism | PASS |
+| `validate-pedagogy.py` | L09 | patala education vision (R2) | pedagogy | RUN |
 
 ## Executable Knowledge (1)
 

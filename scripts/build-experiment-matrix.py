@@ -60,6 +60,7 @@ MATRIX = {
   "experiment-salsa-incremental.py": ("L03", "salsa (cloned)", "General Engine", "incremental", "memoized queries, reuse-on-change (O(1) update)"),
   "validate-agent-delivery.py": ("L09", "loom+maestro+arcan+herdr (cloned)", "Autonomous Institute", "agent-delivery", "task contract, context routing, budget, human gate — 10/10"),
   "validate-organism-loop.py": ("L09", "patala organism vision (R2)", "Co-Evolving Epistemic Organism", "organism", "consumer→research: probe→gap→intervention→proposal→human-gate — 8/8"),
+  "validate-pedagogy.py": ("L09", "patala education vision (R2)", "Education+Organism", "pedagogy", "live adaptive pedagogy: MasteryEvidence→reducer→LearnerState→next-interaction — 7/7"),
 }
 
 def main():

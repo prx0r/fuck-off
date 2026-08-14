@@ -1,5 +1,5 @@
 {
- "count": 38,
+ "count": 39,
  "entries": [
   {
    "script": "validate-layer03-05.py",
@@ -342,6 +342,15 @@
    "kernel": "organism",
    "status": "RUN",
    "note": "consumer\u2192research: probe\u2192gap\u2192intervention\u2192proposal\u2192human-gate \u2014 8/8"
+  },
+  {
+   "script": "validate-pedagogy.py",
+   "layer": "L09",
+   "source": "patala education vision (R2)",
+   "vision": "Education+Organism",
+   "kernel": "pedagogy",
+   "status": "RUN",
+   "note": "live adaptive pedagogy: MasteryEvidence\u2192reducer\u2192LearnerState\u2192next-interaction \u2014 7/7"
   }
  ]
 }

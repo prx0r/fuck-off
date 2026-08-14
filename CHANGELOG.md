@@ -438,3 +438,16 @@ imposed.
 - **The synthesis:** the consumer organism IS the evolution loop, with humans as the gate. Consumers
   probe → the graph evolves safely → better explanations → fewer confusions → sharper probes.
 - Test suite 37 → **38/38**.
+
+## 2026-08-14 (cont.) — LIVE ADAPTIVE PEDAGOGY (the education motherlode)
+- Downloaded + saved 6 more R2 docs → SPEC-26..31 (education n/2/global/main + hermes/patala peer review).
+- **`lib/pedagogy.py`** + **`validate-pedagogy.py`** (7/7): the live adaptive pedagogy engine —
+  learner answer = tiny epistemic event (MasteryEvidence) → mastery REDUCER → LearnerState (DERIVED,
+  never mutated, same pattern as ReviewEvent→DerivedState) → three-graph next-interaction (targets the
+  weakest skill; content + skill are separate axes) → scholarly correction regenerates education safely.
+- The north star: place the learner INSIDE the evidential structure, record what they can reconstruct/
+  discriminate/manipulate/transfer/ground. One graph becomes scholarship, benchmark, education,
+  assessment, tutoring AND media.
+- Connects to the organism loop: consumer probes → gaps → pedagogy policy → learner mastery → sharper
+  probes. Users/learners are live inputs that evolve the graph; user profiles ARE derived LearnerState.
+- Test suite 38 → **39/39**.
