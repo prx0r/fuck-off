@@ -1,0 +1,19 @@
+=== GOLD-STANDARD COMPARISON: our from-scratch vs Dyczkowski's real text ===
+
+  [PASS] the gold is Dyczkowski's real text (self-luminous, own object) 
+  [PASS] Hermes produced a real from-scratch translation (138 chars)
+  → ours: For indeed, of that whose essential nature is not light [aprakāśarūpa], there is no manifestation [prākāśya] — nor even reality [v
+  [PASS] the comparison is grounded in both real sources 
+  [PASS] the agreement score is a real measured 0..1 
+
+  INSIGHT — load-bearing terms our translation independently reached: ['manifest']
+  (Dyczkowski's gold uses: luminous, object, self)
+  [FAIL] INSIGHT: our translation corroborates the core (self/object/luminous) ([])
+  agreement_score = 0.118 · core=['is', 'not', 'of', 'that']
+  divergence = 30 tokens (the interpretation-space)
+
+=== SUMMARY: 4/5 passed ===
+
+GOLD-STANDARD REVIEW: our real from-scratch translation is measured against Dyczkowski's ACTUAL
+text. The insight: if we independently reach the same load-bearing terms (self/object/luminous),
+the organism corroborates the scholarship — the convergence = fundamentality signal.

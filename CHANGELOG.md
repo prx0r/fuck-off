@@ -969,3 +969,14 @@ Fixed the 3 remaining hand-fed Tantrāloka validators so the documented proof ma
 - **The live-test result:** 7/7 stages PASS with clean summaries (5,860 kārikās ingested, 333 in āhnika 1;
   atlas 12/12; translation 10/10; argument 8/8; fullstack 9/9; validation 7/7; factory 10/10).
 - Wired into NAVIGATION. The whole autonomous build process is now logged + iterating.
+
+## 2026-08-14 (documented the Tantrāloka findings — how it's going)
+- **`tantraloka/PROGRESS-STATUS.md`** — the one-page honest status: the 7-stage suite passes (7/7, 0/0/0),
+  every validator auto-derived (no hand-fed theatre), the gold-standard finding (commentary-lift insight),
+  the real generation path, and what's next.
+- **`tantraloka/AUTONOMOUS-ITERATION-LOG.md`** — added iterations 2 + 3: the gold-standard review produced
+  the B3→B4 commentary-lift insight (our literal gloss scores 0.118 vs Dyczkowski's gold because it misses
+  the philosophical frame; the commentary-lift reaches all 4 gold terms), + the openpatala reuse directive.
+- **`tantraloka/GOLD-STANDARD-INSIGHTS.md`** — the gold review (Dyczkowski line 15146) documented: the
+  gloss-vs-gold insight, the crux-compass confirmation, and the fix.
+- Wired into NAVIGATION + traceability. The Tantrāloka build is logged + iterating + documented.

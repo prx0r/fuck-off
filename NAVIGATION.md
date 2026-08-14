@@ -129,6 +129,8 @@ graph after adding text, run `build-graph.py`.
 | `tantraloka/` | **THE MONA LISA** — Tantrāloka from scratch: the canonical full-stack test + full hypotheses/order |
 | `tantraloka/run-all.py` | the live 7-stage Tantrāloka test harness (ingest→atlas→translation→argument→fullstack→validation→factory), logs every stage |
 | `tantraloka/AUTONOMOUS-ITERATION-LOG.md` | the running iteration + troubleshooting log (the autonomous-build record) |
+| `tantraloka/GOLD-STANDARD-INSIGHTS.md` | the gold-standard review findings (commentary-lift insight + fix) |
+| `tantraloka/PROGRESS-STATUS.md` | how the Tantrāloka build is going (7/7 + the gold insight) |
 | `BUILDNOTES.md` | full build history + decisions |
 | `NAVIGATION.md` | this file |
 | `TODO.md` | live task tracker |
