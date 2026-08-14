@@ -19,9 +19,11 @@ The wiring scripts:
 Now-wired (Phase 6): `verification_ensemble`, `evidence_ledger`, `integrity_gate`, `source_registry`,
 `organism`, `pedagogy`, `misconception`, `question_growth`, `enquiry`, `design_provenance`,
 `organism_factory_bridge`, `query`, `retrieval`, `structure_recall`, `self_healing`, `alignment_flywheel`,
-`skill_graph`, `iteration_confidence`, `canonical_contracts`, `ingestion_organism`, `factory_pool`.
-Still VALIDATED-ONLY (next wiring targets): `open_ended_evolve`, `lightrag_compare`, `cognee_compare`,
-`graph_stable`.
+`skill_graph`, `iteration_confidence`, `canonical_contracts`, `ingestion_organism`, `factory_pool`,
+`open_ended_evolve`, `lightrag_compare`, `cognee_compare`, `graph_stable`. **ALL Phase-6 kernels wired
+(2026-08-14).** Phase 6 complete: the previously-orphaned kernels are now USED in live paths (validator
+stack onto the DAG, flywheels into the organism, retrieval into the read plane, organisms routed through
+patala's scheduler).
 
 | Kernel | What it does | Layer | Vision | Validated by | Status |
 |--------|-------------|-------|--------|--------------|--------|
