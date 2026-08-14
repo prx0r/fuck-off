@@ -117,6 +117,7 @@ graph after adding text, run `build-graph.py`.
 | `migration/v3/ULTIMATE-OPTIMIZED-PRODUCT.md` | the v3 organism on the real IPVV corpus (IPK graduation 18/18 + product stack 13/13) |
 | `KERNELS-INDEX.md` | the reusable kernels (reuse map) |
 | `MASTER-KNOWLEDGE-BASE.md` | the synthesized master reference (17 kernels · 51 experiments · 32 arXiv · 99 repos · 46 specs) |
+| `OWN-VISION-MAP.md` | our independent vision zoomed out (6 frontiers + 4 products → kernel/proof status) |
 | `BUILDNOTES.md` | full build history + decisions |
 | `NAVIGATION.md` | this file |
 | `TODO.md` | live task tracker |

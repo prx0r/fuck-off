@@ -708,3 +708,15 @@ frontier pattern + SPEC-00 §15/§16/§17. 4 new kernels, 4 new validators, L06+
   rule. Now lists both vcreate + theatre-check with mechanisms + the "run theatre-check before claiming
   done" rule.
 - theatre-check-all (59-experiment audit) still clean: 31 PROVEN / 27 mechanism / 0 unproven.
+
+## 2026-08-14 (clean structure + VISION F built — self-provenance)
+- **Clean-structure fix:** `state.json` had `#` comments → invalid JSON (the machine-readable file
+  wasn't parseable). Removed; added `audit-state.py` gate (valid JSON + counts match ground truth +
+  tests resolve) so human/machine can't silently drift. In test suite.
+- **`OWN-VISION-MAP.md`** — zoom-out on OUR OWN vision (not patala): the Verified Epistemic OS as a
+  self-referential epistemic instrument. Maps the 6 frontiers + 4 beyond-patala products to their
+  kernel/proof status. The read plane is the substrate the frontiers operate on.
+- **VISION F BUILT** (`lib/system_provenance.py`, 9/9): the OS audits its OWN 16 kernels — signed
+  self-provenance records, `why(kernel)` resolves to experiment+layer+vision, tamper-detect, signed
+  Merkle root. The project IS the first complete application of the OS (dogfooding at the meta level).
+- 23 kernels, 61-experiment matrix. state.json + KERNELS-INDEX + OWN-VISION-MAP updated.

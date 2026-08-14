@@ -1,7 +1,7 @@
 {
- "count": 58,
+ "count": 59,
  "verdicts": {
-  "PROVEN": 31,
+  "PROVEN": 32,
   "PROVEN-MECHANISM": 27
  },
  "proofs": [
@@ -616,6 +616,18 @@
    "uses_real_data": false,
    "verdict": "PROVEN-MECHANISM",
    "proof_hash": "67d54039c80d6fa3"
+  },
+  {
+   "script": "audit-state.py",
+   "layer": "ALL",
+   "vision": "Verified Epistemic OS",
+   "kernel": "state-gate",
+   "claim": "state.json is valid JSON + matches ground truth \u2014 no human/machine drift",
+   "test_exists": true,
+   "passes": true,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "b9022be4207ae234"
   },
   {
    "script": "validate-graduation.py",

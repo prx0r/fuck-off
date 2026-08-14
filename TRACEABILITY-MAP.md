@@ -54,6 +54,7 @@ Nothing is orphaned. Machine-checkable: every entry has a path; every path exist
 | `LAB-REVIEW.md` | ALL | state of the lab (proven/exploratory) |
 | `KERNELS-INDEX.md` | ALL | the reusable kernels |
 | `MASTER-KNOWLEDGE-BASE.md` | ALL | the synthesized master reference (everything at a glance) |
+| `OWN-VISION-MAP.md` | ALL | our independent vision zoomed out (frontiers + products → proof status) |
 | `HANDOVER.md` | ALL | session state + where to continue |
 | `migration/v2/ESSAY-INGEST.md` | Enquiry-Discovery (L04/L09) | the 9-stage essay-as-derivation-input architecture |
 | `migration/v2/INGESTION-ARCHITECTURE.md` | Enquiry-Discovery (L04/L09) | source-text vs essay-about-source vs standalone (KORAL) |

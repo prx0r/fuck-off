@@ -1,5 +1,5 @@
 {
- "count": 59,
+ "count": 61,
  "entries": [
   {
    "script": "validate-layer03-05.py",
@@ -470,6 +470,15 @@
    "note": "every .md resolves to an index doc \u2014 no orphaned artifacts"
   },
   {
+   "script": "audit-state.py",
+   "layer": "ALL",
+   "source": "state.json + lib/ + experiments",
+   "vision": "Verified Epistemic OS",
+   "kernel": "state-gate",
+   "status": "RUN",
+   "note": "state.json is valid JSON + matches ground truth \u2014 no human/machine drift"
+  },
+  {
    "script": "validate-graduation.py",
    "layer": "ALL",
    "source": "real graph/argument/canonical-dag",
@@ -531,6 +540,15 @@
    "kernel": "seo-astro",
    "status": "RUN",
    "note": "canonical URLs + JSON-LD + sitemap + 31 static 0-JS HTML pages (unified graphs) \u2014 13/13"
+  },
+  {
+   "script": "validate-system-provenance.py",
+   "layer": "ALL",
+   "source": "lib/ kernel index",
+   "vision": "Verified Epistemic OS",
+   "kernel": "self-provenance",
+   "status": "RUN",
+   "note": "VISION F: the OS audits its OWN 16 kernels \u2014 signed self-provenance, why() resolves to evidence, tamper-detect \u2014 9/9"
   }
  ]
 }

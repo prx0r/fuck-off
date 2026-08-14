@@ -1,11 +1,9 @@
-# state.json — machine-readable current state + next dev steps (for agents)
-# Keep in sync with AGENTS.md §1.5 (human) — this is the parseable form.
 {
   "schema_version": 1,
   "updated": "2026-08-14",
   "counts": {
-    "kernels": 22,
-    "experiments": 59,
+    "kernels": 23,
+    "experiments": 61,
     "tests_passing": 59,
     "theatre_proven_real": 31,
     "theatre_proven_mechanism": 27,
@@ -19,9 +17,21 @@
     "docs_traced": 108
   },
   "graduation": {
-    "doyle": {"script": "scripts/validate-graduation.py", "result": "14/14", "data": "real graph/argument/canonical-dag"},
-    "ipvv": {"script": "scripts/validate-graduation-ipvv.py", "result": "18/18", "data": "real IPK primary text (Torella) + Ratié"},
-    "product_stack": {"script": "scripts/validate-product-stack.py", "result": "13/13", "data": "18 products / 4 families, real IPK"}
+    "doyle": {
+      "script": "scripts/validate-graduation.py",
+      "result": "14/14",
+      "data": "real graph/argument/canonical-dag"
+    },
+    "ipvv": {
+      "script": "scripts/validate-graduation-ipvv.py",
+      "result": "18/18",
+      "data": "real IPK primary text (Torella) + Rati\u00e9"
+    },
+    "product_stack": {
+      "script": "scripts/validate-product-stack.py",
+      "result": "13/13",
+      "data": "18 products / 4 families, real IPK"
+    }
   },
   "build_decision": {
     "summary": "knowledge compiler: Python factory + DuckDB -> immutable R2 projections -> Astro (humans, JSON-LD) + compiled agent bundles/MCP (agents) + Postgres FTS first, Tantivy only if profiled hot",
@@ -44,16 +54,56 @@
     "L09_live_system": "VALIDATED"
   },
   "read_plane_built": {
-    "projection_compiler": {"kernel": "lib/context_compiler.py", "test": "validate-context-compiler", "result": "12/12"},
-    "fts_baseline": {"kernel": "lib/fts_search.py", "test": "validate-fts-baseline", "result": "9/9", "decision": "Postgres FTS p50<10ms; no Tantivy"},
-    "agent_bundles_mcp": {"kernel": "lib/bundle_router.py", "test": "validate-bundle-router", "result": "16/16"},
-    "seo_astro": {"kernel": "lib/seo.py", "test": "validate-seo-astro", "result": "13/13"}
+    "projection_compiler": {
+      "kernel": "lib/context_compiler.py",
+      "test": "validate-context-compiler",
+      "result": "12/12"
+    },
+    "fts_baseline": {
+      "kernel": "lib/fts_search.py",
+      "test": "validate-fts-baseline",
+      "result": "9/9",
+      "decision": "Postgres FTS p50<10ms; no Tantivy"
+    },
+    "agent_bundles_mcp": {
+      "kernel": "lib/bundle_router.py",
+      "test": "validate-bundle-router",
+      "result": "16/16"
+    },
+    "seo_astro": {
+      "kernel": "lib/seo.py",
+      "test": "validate-seo-astro",
+      "result": "13/13"
+    }
   },
   "next_dev_steps": [
-    {"rank": "P0", "task": "wire the projection compiler + bundles + SEO into an actual Astro project (astro build, deploy to Cloudflare Pages)", "layer": "L07"},
-    {"rank": "P0", "task": "add the search route + MCP endpoint to a real Worker (Streamable HTTP)", "layer": "L07"},
-    {"rank": "P1", "task": "signed human attestation (gap E) before any marketplace", "layer": "L05", "gap": "E"},
-    {"rank": "P1", "task": "build the 3 v3 needs-build products (Essay projection, Commentary, Tokenization)", "layer": "L04/L09", "spec": "migration/v3"},
-    {"rank": "P1", "task": "widen IPVV run over many IPK karikas (real corpus pass) + feed produced essays/lessons through the organism loop", "layer": "ALL", "spec": "migration/v3"}
+    {
+      "rank": "P0",
+      "task": "wire the projection compiler + bundles + SEO into an actual Astro project (astro build, deploy to Cloudflare Pages)",
+      "layer": "L07"
+    },
+    {
+      "rank": "P0",
+      "task": "add the search route + MCP endpoint to a real Worker (Streamable HTTP)",
+      "layer": "L07"
+    },
+    {
+      "rank": "P1",
+      "task": "signed human attestation (gap E) before any marketplace",
+      "layer": "L05",
+      "gap": "E"
+    },
+    {
+      "rank": "P1",
+      "task": "build the 3 v3 needs-build products (Essay projection, Commentary, Tokenization)",
+      "layer": "L04/L09",
+      "spec": "migration/v3"
+    },
+    {
+      "rank": "P1",
+      "task": "widen IPVV run over many IPK karikas (real corpus pass) + feed produced essays/lessons through the organism loop",
+      "layer": "ALL",
+      "spec": "migration/v3"
+    }
   ]
 }

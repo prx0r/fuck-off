@@ -46,6 +46,7 @@ run_py("import json;g=json.load(open('data/graph/graph.json'));assert len(g['nod
 run_script("audit-epistemic.py", "epistemic_invariant")
 run_script("validate-dag.py", "canonical_dag")
 run_script("audit-traceability.py", "traceability_gate")
+run_script("audit-state.py", "state_gate")
 run_script("validate-graduation.py", "full_graduation_organism")
 run_script("validate-graduation-ipvv.py", "ipvv_graduation_organism")
 run_script("validate-product-stack.py", "v3_product_stack")
@@ -53,6 +54,7 @@ run_script("validate-context-compiler.py", "context_compiler")
 run_script("validate-fts-baseline.py", "fts_search_baseline")
 run_script("validate-bundle-router.py", "bundle_router_mcp")
 run_script("validate-seo-astro.py", "seo_astro_surfaces")
+run_script("validate-system-provenance.py", "system_self_provenance")
 run_py("import json;a=json.load(open('data/graph/argument.json'));print(f'{len(a[\"information_nodes\"])} info {len(a[\"inference_nodes\"])} infer {len(a[\"conflict_nodes\"])} conflict')", "argument_graph")
 
 # ---- 2. EXPERIMENTS ----

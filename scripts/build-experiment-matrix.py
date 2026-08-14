@@ -76,6 +76,7 @@ MATRIX = {
   "experiment-gem-extraction.py": ("L04", "pushing-tantraloka", "Enquiry-Discovery", "gem-extraction", "agentic enquiry→unseen gems (PENETRATION 1)"),
   "experiment-claim-standardisation.py": ("L06", "comparative pushing", "Comparative Philosophy", "standardisation", "structural claim vs tradition vocab/boundary"),
   "audit-traceability.py": ("ALL", "index docs", "Verified Epistemic OS", "traceability", "every .md resolves to an index doc — no orphaned artifacts"),
+  "audit-state.py": ("ALL", "state.json + lib/ + experiments", "Verified Epistemic OS", "state-gate", "state.json is valid JSON + matches ground truth — no human/machine drift"),
   "validate-graduation.py": ("ALL", "real graph/argument/canonical-dag", "Verified Epistemic OS", "graduation", "THE full graduation: one claim (I5) through the whole organism + premise mutation → staleness→reactive essay→pedagogy→organism→signed re-release — 14/14"),
   "validate-graduation-ipvv.py": ("ALL", "real IPK primary text (Torella) + Ratié", "Verified Epistemic OS", "ipvv-graduation", "THE IPVV graduation on the ACTUAL corpus: IPK 1.5.19 felt→ground claim through the whole organism + premise mutation — 18/18"),
   "validate-product-stack.py": ("ALL", "real IPK primary text", "Enquiry-Discovery Organism", "v3-product", "the ULTIMATE product: assembles all 17 kernels into v3's 4-family/16-product stack for one real IPK claim — 13/13"),
@@ -83,6 +84,7 @@ MATRIX = {
   "validate-fts-baseline.py": ("L06", "real corpus (425)", "Verified Epistemic OS", "fts-baseline", "Postgres-FTS-equivalent index + benchmark (SPEC-49 Tantivy decision point, p50<10ms) — 9/9"),
   "validate-bundle-router.py": ("L06/L07", "real graph + corpus", "Verified Epistemic OS", "bundle-router", "compiled agent bundles + MCP 8-tool adapter + R2-style immutable emission — 16/16"),
   "validate-seo-astro.py": ("L07", "real graph", "Verified Epistemic OS", "seo-astro", "canonical URLs + JSON-LD + sitemap + 31 static 0-JS HTML pages (unified graphs) — 13/13"),
+  "validate-system-provenance.py": ("ALL", "lib/ kernel index", "Verified Epistemic OS", "self-provenance", "VISION F: the OS audits its OWN 16 kernels — signed self-provenance, why() resolves to evidence, tamper-detect — 9/9"),
 }
 
 def main():

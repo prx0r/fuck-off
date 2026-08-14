@@ -1,6 +1,6 @@
 # EXPERIMENT MATRIX — what's been tested
 
-*2026-08-14. 59 experiments mapped to layer / source repo / vision / kernel / result.*
+*2026-08-14. 61 experiments mapped to layer / source repo / vision / kernel / result.*
 Machine form: `data/references/experiments.json`.
 
 ## Argument Map (7)
@@ -101,10 +101,11 @@ Machine form: `data/references/experiments.json`.
 | `experiment-causal-operational-graph.py` | L12 | patalamix review #12 | causal-operational | RUN |
 | `experiment-signed-statement.py` | L12 | cosign (cloned) | signing | RUN |
 
-## Verified Epistemic OS (17)
+## Verified Epistemic OS (19)
 
 | script | layer | source | kernel | result |
 |--------|-------|--------|--------|--------|
+| `audit-state.py` | ALL | state.json + lib/ + experiments | state-gate | RUN |
 | `audit-traceability.py` | ALL | index docs | traceability | RUN |
 | `experiment-eigenius-grades.py` | L00 | eigenius (cloned) | epistemic | PASS |
 | `experiment-mutation-testing.py` | L07 | SPEC-19 #3 | verification | PASS |
@@ -122,6 +123,7 @@ Machine form: `data/references/experiments.json`.
 | `validate-provenance.py` | L02 | knowledgeProvenance (cloned) | provenance | PASS |
 | `validate-seo-astro.py` | L07 | real graph | seo-astro | RUN |
 | `validate-stack.py` | ALL | graduation test | integration | RUN |
+| `validate-system-provenance.py` | ALL | lib/ kernel index | self-provenance | RUN |
 
 ## Verified-Statement-Marketplace (2)
 
