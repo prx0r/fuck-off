@@ -656,3 +656,17 @@ imposed.
 - Test suite **53/53** (adds full_graduation_organism); matrix 53.
 - HANDOVER: P0 marked DONE, new P0 = IPVV graduation (re-run on a real kārikā with the Ratié
   commentary). Session log + commands + read-me-first refreshed.
+
+## 2026-08-14 (IPVV graduation + ultimate v3 product — inspired by patala migration/v3)
+- **IPVV graduation done** (`validate-graduation-ipvv.py`, **18/18 on real IPK text**): the graduation
+  on the ACTUAL corpus. IPK 1.5.19 (vimarśa/adhyavasāya, the felt→ground one-support step) through the
+  whole organism — real Torella IPK primary text → honest envelope (corroborated text vs machine-
+  proposed addition) → adversarial review (held in CORRECTION) → MUTATE premise 1.5.11 → staleness →
+  reactive Ratié essay → pedagogy → organism (felt→ground confusion = signal) → signed re-release.
+- **The ULTIMATE OPTIMIZED PRODUCT** (`lib/patala_product.py`, 18th kernel + `validate-product-stack.py`,
+  **13/13**): assembles ALL 17 kernels into v3's 4-family / 16-product stack for ONE real IPK claim —
+  18 products (TEXTS/ARGUMENTS/SCHOLAR/LEARN). TranslationProof moat (non-aggregate), Certification
+  Weight, Research Value, LearningClaim. "Reuse, never rebuild" made literal.
+- **`migration/v3/ULTIMATE-OPTIMIZED-PRODUCT.md`** — the v3 organism on the real IPVV corpus (read
+  patala's new migration/v3 + v2 + thesis; adopted the organism + graduation + product-stack framing).
+- **FINAL: 55/55 tests, 27 PROVEN real / 27 mechanism / 0 unproven (54 audited), 18 kernels, 55-matrix.**

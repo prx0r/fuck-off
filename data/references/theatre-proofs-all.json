@@ -1,7 +1,7 @@
 {
- "count": 52,
+ "count": 54,
  "verdicts": {
-  "PROVEN": 25,
+  "PROVEN": 27,
   "PROVEN-MECHANISM": 27
  },
  "proofs": [
@@ -628,6 +628,30 @@
    "uses_real_data": true,
    "verdict": "PROVEN",
    "proof_hash": "b9f0fc16bdf1e50c"
+  },
+  {
+   "script": "validate-graduation-ipvv.py",
+   "layer": "ALL",
+   "vision": "Verified Epistemic OS",
+   "kernel": "ipvv-graduation",
+   "claim": "THE IPVV graduation on the ACTUAL corpus: IPK 1.5.19 felt\u2192ground claim through the whole organism + premise mutation \u2014 18/18",
+   "test_exists": true,
+   "passes": true,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "7241c366804401a5"
+  },
+  {
+   "script": "validate-product-stack.py",
+   "layer": "ALL",
+   "vision": "Enquiry-Discovery Organism",
+   "kernel": "v3-product",
+   "claim": "the ULTIMATE product: assembles all 17 kernels into v3's 4-family/16-product stack for one real IPK claim \u2014 13/13",
+   "test_exists": true,
+   "passes": true,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "360f4836d74e1fc5"
   }
  ]
 }

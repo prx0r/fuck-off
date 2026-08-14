@@ -39,7 +39,7 @@ Nothing is orphaned. Machine-checkable: every entry has a path; every path exist
 | L06 | Commentarial | `06-commentarial` | — | koral, claim-standardisation |
 | L07 | Verification | `07-verification` | — | mutation-testing, theatre-check |
 | L08 | Human Authority | `08-human-authority` | `scholar_review.py` | cross-review, review-bias |
-| L09 | Organism/Education | `09-live-system` | `education.py`, `organism.py`, `pedagogy.py`, `agent_delivery.py`, `essay_ingest.py` | organism-loop, pedagogy, execution-replay, essay-ingest |
+| L09 | Organism/Education | `09-live-system` | `education.py`, `organism.py`, `pedagogy.py`, `agent_delivery.py`, `essay_ingest.py`, `patala_product.py` | organism-loop, pedagogy, execution-replay, essay-ingest, v3-product |
 | L10 | Surfaces | `10-surfaces` | `query.py`, `retrieval.py` | kg2code, pathrag, hipporag |
 | L12 | Live System | `12-live-system` | — | signed-corpus, reactive-essay, causal-operational |
 
@@ -57,6 +57,7 @@ Nothing is orphaned. Machine-checkable: every entry has a path; every path exist
 | `HANDOVER.md` | ALL | session state + where to continue |
 | `migration/v2/ESSAY-INGEST.md` | Enquiry-Discovery (L04/L09) | the 9-stage essay-as-derivation-input architecture |
 | `migration/v2/INGESTION-ARCHITECTURE.md` | Enquiry-Discovery (L04/L09) | source-text vs essay-about-source vs standalone (KORAL) |
+| `migration/v3/ULTIMATE-OPTIMIZED-PRODUCT.md` | Enquiry-Discovery (ALL) | the v3 organism on the real IPVV corpus |
 | `TRACEABILITY-MAP.md` | ALL | **this file** — the traceability root |
 | `BUILDNOTES.md` / `CHANGELOG.md` | ALL | history |
 | `DEV_PLAN.md` | ALL | roadmap |

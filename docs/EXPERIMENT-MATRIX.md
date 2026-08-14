@@ -1,6 +1,6 @@
 # EXPERIMENT MATRIX — what's been tested
 
-*2026-08-14. 53 experiments mapped to layer / source repo / vision / kernel / result.*
+*2026-08-14. 55 experiments mapped to layer / source repo / vision / kernel / result.*
 Machine form: `data/references/experiments.json`.
 
 ## Argument Map (7)
@@ -62,13 +62,14 @@ Machine form: `data/references/experiments.json`.
 |--------|-------|--------|--------|--------|
 | `experiment-gem-extraction.py` | L04 | pushing-tantraloka | gem-extraction | RUN |
 
-## Enquiry-Discovery Organism (3)
+## Enquiry-Discovery Organism (4)
 
 | script | layer | source | kernel | result |
 |--------|-------|--------|--------|--------|
 | `experiment-enquiry-discovery.py` | L04 | logic5 presence enquiry (SPEC-46) | enquiry | RUN |
 | `experiment-essay-as-engine.py` | L04/L06 | Ratié literature review (research-library) | essay-as-engine | RUN |
 | `validate-essay-ingest.py` | L04/L06/L09 | Ratié essay (real data) | essay-ingest | RUN |
+| `validate-product-stack.py` | ALL | real IPK primary text | v3-product | RUN |
 
 ## Executable Knowledge (1)
 
@@ -100,7 +101,7 @@ Machine form: `data/references/experiments.json`.
 | `experiment-causal-operational-graph.py` | L12 | patalamix review #12 | causal-operational | RUN |
 | `experiment-signed-statement.py` | L12 | cosign (cloned) | signing | RUN |
 
-## Verified Epistemic OS (12)
+## Verified Epistemic OS (13)
 
 | script | layer | source | kernel | result |
 |--------|-------|--------|--------|--------|
@@ -112,6 +113,7 @@ Machine form: `data/references/experiments.json`.
 | `experiment-verified-lifecycle.py` | ALL | the OS synthesis | all | PASS |
 | `theatre-check-all.py` | ALL | the full anti-theatre audit | verification | RUN |
 | `theatre-check.py` | ALL | the anti-theatre skill | verification | RUN |
+| `validate-graduation-ipvv.py` | ALL | real IPK primary text (Torella) + Ratié | ipvv-graduation | RUN |
 | `validate-graduation.py` | ALL | real graph/argument/canonical-dag | graduation | RUN |
 | `validate-layer03-05.py` | L03+L05 | herdr+RKA (cloned) | review+staleness | PASS |
 | `validate-provenance.py` | L02 | knowledgeProvenance (cloned) | provenance | PASS |

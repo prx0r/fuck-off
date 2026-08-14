@@ -77,6 +77,8 @@ MATRIX = {
   "experiment-claim-standardisation.py": ("L06", "comparative pushing", "Comparative Philosophy", "standardisation", "structural claim vs tradition vocab/boundary"),
   "audit-traceability.py": ("ALL", "index docs", "Verified Epistemic OS", "traceability", "every .md resolves to an index doc — no orphaned artifacts"),
   "validate-graduation.py": ("ALL", "real graph/argument/canonical-dag", "Verified Epistemic OS", "graduation", "THE full graduation: one claim (I5) through the whole organism + premise mutation → staleness→reactive essay→pedagogy→organism→signed re-release — 14/14"),
+  "validate-graduation-ipvv.py": ("ALL", "real IPK primary text (Torella) + Ratié", "Verified Epistemic OS", "ipvv-graduation", "THE IPVV graduation on the ACTUAL corpus: IPK 1.5.19 felt→ground claim through the whole organism + premise mutation — 18/18"),
+  "validate-product-stack.py": ("ALL", "real IPK primary text", "Enquiry-Discovery Organism", "v3-product", "the ULTIMATE product: assembles all 17 kernels into v3's 4-family/16-product stack for one real IPK claim — 13/13"),
 }
 
 def main():

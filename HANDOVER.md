@@ -169,11 +169,23 @@ One claim (I5, two-stage free-will) now runs through the WHOLE organism: ingest 
 re-examined) → organism (misconception = signal) → signed re-release → invariant still 0 violations.
 This is the anti-theatre proof that turns the lab into the kernel. See `migration/v2/GRADUATION.md`.
 
-**P0 — the IPVV graduation (the next real milestone):**
-Re-run the graduation on a REAL IPVV claim (not the Doyle two-stage stand-in): one Īśvarapratyabhijñā
-kārikā claim through the whole organism, with a real commentary (Ratié) feeding the essay/education
-stages and a real source mutation. This is the "graduation on the actual corpus" the whole lab was
-built toward.
+**✅ DONE — the IPVV graduation** (`validate-graduation-ipvv.py`, **18/18 on real IPK**):
+The graduation on the ACTUAL corpus: IPK 1.5.19 (vimarśa/adhyavasāya, the felt→ground step) through
+the whole organism, with the real Ratié commentary (Ch7 camatkāra) feeding the essay stage and a real
+premise mutation (1.5.11). Honest ceilings (corroborated text vs machine-proposed addition) +
+adversarial review + mutation → staleness → reactive Ratié essay → pedagogy → organism → signed
+re-release. **18/18.** See `migration/v3/ULTIMATE-OPTIMIZED-PRODUCT.md`.
+
+**✅ DONE — the ultimate product** (`lib/patala_product.py` + `validate-product-stack.py`, **13/13**):
+The full v3 product stack assembled from ALL 18 kernels for one real IPK claim — 18 products across the
+4 families (TEXTS/ARGUMENTS/SCHOLAR/LEARN). TranslationProof moat (non-aggregate), Certification
+Weight, Research Value, LearningClaim — all projections of the proven kernels, honest statuses.
+
+**P0 — widen + deepen the real corpus run:**
+- Run the product stack + graduation over MANY IPK claims (a real IPVV corpus pass), feeding produced
+  essays/lessons through the real organism loop.
+- Build the 3 v3 needs-build products (Essay projection, Commentary, Tokenization).
+- Signed human attestation (gap E).
 
 **P1 — close the review gaps:**
 1. **Signed human attestation** (gap E) — replace plain `human_authorize()` with a cosign-style signed
@@ -197,6 +209,8 @@ built toward.
 python3 scripts/run-tests.py              # full suite (53/53, incl traceability + graduation gates)
 python3 scripts/audit-traceability.py     # every .md resolves to an index doc (agent-org gate)
 python3 scripts/validate-graduation.py    # THE full organism graduation test (14/14 on real data)
+python3 scripts/validate-graduation-ipvv.py  # IPVV graduation (18/18 on real IPK text)
+python3 scripts/validate-product-stack.py    # the v3 product stack (13/13, 18 products/4 families)
 python3 scripts/validate-essay-ingest.py  # essay-ingest pipeline (8/8 on real Ratié)
 python3 scripts/theatre-check.py          # kernel theatre audit (verifiable proofs)
 python3 scripts/theatre-check-all.py      # ALL-experiment theatre audit (51: 24/27/0)
@@ -233,9 +247,16 @@ rclone check <local> r2:atlas-sources/informationphilosopher  # R2 backup integr
    **MUTATE premise I1**→staleness→reactive essay→pedagogy→organism→signed re-release→invariant
    (0 violations). Wrote `migration/v2/GRADUATION.md`. Also: `audit-traceability.py` gate (every .md
    resolves) + fixed 13 doc-traceability gaps + AGENTS axiom 22 (docs resolve, agent-optimized).
-10. **FINAL STATE: 53/53 tests, 25 experiments PROVEN on real data / 27 mechanism / 0 unproven,
-    17 kernels, 8 product visions, 53-experiment matrix, 41 cloned repos (20 validated + 21 reference),
-    fully traceable (audit-traceability gate = every .md resolves), graduation done (validate-graduation 14/14).**
+10. **IPVV + PRODUCT (this session):** the IPVV graduation is DONE (`validate-graduation-ipvv.py`,
+    **18/18 on real IPK text**): IPK 1.5.19 (felt→ground, vimarśa/adhyavasāya) through the whole
+    organism with the real Ratié commentary + a real premise mutation. Built the **18th kernel**
+    `lib/patala_product.py` — the ULTIMATE product: assembles all 17 kernels into v3's 4-family product
+    stack for one claim (`validate-product-stack.py`, **13/13**, 18 products). Wrote
+    `migration/v3/ULTIMATE-OPTIMIZED-PRODUCT.md` (the v3 organism on the real IPVV corpus).
+11. **FINAL STATE: 55/55 tests, 27 experiments PROVEN on real data / 27 mechanism / 0 unproven,
+    18 kernels, 8 product visions, 55-experiment matrix, 41 cloned repos, fully traceable,
+    graduation done on BOTH the Doyle stand-in (14/14) and the real IPK corpus (18/18),
+    + the ultimate v3 product stack (13/13).**
 
 ---
 
@@ -244,15 +265,16 @@ rclone check <local> r2:atlas-sources/informationphilosopher  # R2 backup integr
 1. Read `AGENTS.md` — the axioms (esp. axiom 12: every artifact must resolve, axiom 22: every doc).
 2. Read `NAVIGATION.md` → `TRACEABILITY-MAP.md` → `HANDOVER.md` (this file).
 3. Read `LAB-REVIEW.md` — what's proven vs exploratory.
-4. Read `KERNELS-INDEX.md` — reuse the 17 kernels, don't rebuild.
+4. Read `KERNELS-INDEX.md` — reuse the 18 kernels, don't rebuild.
 5. Read §5 essay-ingest architecture — the source-text vs essay-about-source vs standalone design.
-6. Read `migration/v2/GRADUATION.md` — the full organism test (P0 DONE).
+6. Read `migration/v3/ULTIMATE-OPTIMIZED-PRODUCT.md` — the IPVV graduation (18/18) + product stack.
 7. Check `TODO.md` + `GAPS.md` + `STATE.yaml` — the live state.
-8. Run `scripts/run-tests.py` (53/53, incl traceability + graduation gates) + `scripts/theatre-check-all.py`
+8. Run `scripts/run-tests.py` (55/55, incl traceability + graduation gates) + `scripts/theatre-check-all.py`
    before claiming anything done.
-9. Pick the IPVV graduation (§9 P0) as the next real milestone.
+9. Widen the real-corpus run (§9 P0): product stack + graduation over MANY IPK claims; build the 3
+   v3 needs-build products; signed attestation (gap E).
 
-**The single most important next step:** the IPVV graduation — re-run `validate-graduation.py` on a REAL
-IPVV kārikā claim (not the Doyle stand-in), with the Ratié commentary feeding the essay/education stages
-and a real source mutation. The Doyle graduation (14/14) proves the mechanism; the IPVV one proves the
-actual corpus target.
+**The single most important next step:** widen the IPVV run — run `validate-product-stack.py` +
+`validate-graduation-ipvv.py` over MANY real IPK kārikās (a real IPVV corpus pass), feeding the produced
+essays/lessons through the real organism loop, and build the 3 v3 needs-build products (Essay projection,
+Commentary, Tokenization).

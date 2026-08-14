@@ -22,6 +22,7 @@ what it is · layer · vision · the experiment(s) that validate it · honest st
 | `certificate.py` | Certification Weight (compounding) | L02 | Verified-Statement-Marketplace | kernel-suite | VALIDATED |
 | `discovery.py` | Research Value Score | L03 | What-If Machine | kernel-suite | VALIDATED |
 | `essay_ingest.py` | 9-stage essay-as-derivation-input pipeline (structure→claims→evidence→argument→crux→review→pedagogy→reactive) | L04-L09 | Enquiry-Discovery Organism | validate-essay-ingest | VALIDATED (real Ratié data, 8/8) |
+| `patala_product.py` | the ULTIMATE product: assembles ALL 17 kernels into the v3 4-family/16-product stack for one claim | ALL | Enquiry-Discovery Organism | validate-product-stack | VALIDATED (real IPK, 13/13) |
 
 ## Rules for agents
 1. **Reuse, don't rebuild** (axiom): a task that maps to a kernel → call the kernel.

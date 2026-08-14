@@ -1,5 +1,5 @@
 {
- "count": 53,
+ "count": 55,
  "entries": [
   {
    "script": "validate-layer03-05.py",
@@ -477,6 +477,24 @@
    "kernel": "graduation",
    "status": "RUN",
    "note": "THE full graduation: one claim (I5) through the whole organism + premise mutation \u2192 staleness\u2192reactive essay\u2192pedagogy\u2192organism\u2192signed re-release \u2014 14/14"
+  },
+  {
+   "script": "validate-graduation-ipvv.py",
+   "layer": "ALL",
+   "source": "real IPK primary text (Torella) + Rati\u00e9",
+   "vision": "Verified Epistemic OS",
+   "kernel": "ipvv-graduation",
+   "status": "RUN",
+   "note": "THE IPVV graduation on the ACTUAL corpus: IPK 1.5.19 felt\u2192ground claim through the whole organism + premise mutation \u2014 18/18"
+  },
+  {
+   "script": "validate-product-stack.py",
+   "layer": "ALL",
+   "source": "real IPK primary text",
+   "vision": "Enquiry-Discovery Organism",
+   "kernel": "v3-product",
+   "status": "RUN",
+   "note": "the ULTIMATE product: assembles all 17 kernels into v3's 4-family/16-product stack for one real IPK claim \u2014 13/13"
   }
  ]
 }
