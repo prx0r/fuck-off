@@ -1,6 +1,6 @@
 # EXPERIMENT MATRIX — what's been tested
 
-*2026-08-14. 76 experiments mapped to layer / source repo / vision / kernel / result.*
+*2026-08-14. 81 experiments mapped to layer / source repo / vision / kernel / result.*
 Machine form: `data/references/experiments.json`.
 
 ## Argument Map (7)
@@ -101,7 +101,7 @@ Machine form: `data/references/experiments.json`.
 | `experiment-causal-operational-graph.py` | L12 | patalamix review #12 | causal-operational | RUN |
 | `experiment-signed-statement.py` | L12 | cosign (cloned) | signing | RUN |
 
-## Verified Epistemic OS (34)
+## Verified Epistemic OS (39)
 
 | script | layer | source | kernel | result |
 |--------|-------|--------|--------|--------|
@@ -136,6 +136,11 @@ Machine form: `data/references/experiments.json`.
 | `validate-stack.py` | ALL | graduation test | integration | RUN |
 | `validate-structure-recall.py` | L10 | real graph | structure-recall | RUN |
 | `validate-system-provenance.py` | ALL | lib/ kernel index | self-provenance | RUN |
+| `validate-tantraloka-argument.py` | L04 | AbhT_1.52 + pushing cruxes | tantraloka-argument | RUN |
+| `validate-tantraloka-atlas.py` | L01 | Tantrāloka root + Dyczkowski + Jayaratha | tantraloka-atlas | RUN |
+| `validate-tantraloka-fullstack.py` | ALL | real theme cluster CL-3 + Ahnika-1 | tantraloka-fullstack | RUN |
+| `validate-tantraloka-translation.py` | L03 | AbhT_1.52 real Sanskrit root | tantraloka-translation | RUN |
+| `validate-tantraloka-vs-dyczkowski.py` | L03 | AbhT_1.52 root + Dyczkowski vol1 | tantraloka-validation | RUN |
 | `validate-translation-variant.py` | L03 | IPK 1.5.19 translations | translation-variant | RUN |
 | `validate-verification-ensemble.py` | L07 | registered sources + edges | verification-ensemble | RUN |
 | `validate-vidyut-l0.py` | L03 | vidyut + SLP1 | vidyut-l0 | RUN |

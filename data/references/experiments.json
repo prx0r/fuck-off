@@ -1,5 +1,5 @@
 {
- "count": 76,
+ "count": 81,
  "entries": [
   {
    "script": "validate-layer03-05.py",
@@ -684,6 +684,51 @@
    "kernel": "ingestion-organism",
    "status": "RUN",
    "note": "the autonomous priority-driven refinery: ingest\u2192refine\u2192verify\u2192commit\u2192re-prioritize on learner feedback \u2014 10/10"
+  },
+  {
+   "script": "validate-tantraloka-atlas.py",
+   "layer": "L01",
+   "source": "Tantr\u0101loka root + Dyczkowski + Jayaratha",
+   "vision": "Verified Epistemic OS",
+   "kernel": "tantraloka-atlas",
+   "status": "RUN",
+   "note": "STEP 1 MONA LISA: bibliography+tagging+condition+timeline (KORAL primary/secondary) \u2014 12/12"
+  },
+  {
+   "script": "validate-tantraloka-translation.py",
+   "layer": "L03",
+   "source": "AbhT_1.52 real Sanskrit root",
+   "vision": "Verified Epistemic OS",
+   "kernel": "tantraloka-translation",
+   "status": "RUN",
+   "note": "STEP 2 MONA LISA: L0 tokenization + TranslationProof (gate BLOCKED until human) on Ahnika-1 \u2014 10/10"
+  },
+  {
+   "script": "validate-tantraloka-argument.py",
+   "layer": "L04",
+   "source": "AbhT_1.52 + pushing cruxes",
+   "vision": "Verified Epistemic OS",
+   "kernel": "tantraloka-argument",
+   "status": "RUN",
+   "note": "STEP 3 MONA LISA: reflexivity argument + crux, machine can't promote \u2014 9/9"
+  },
+  {
+   "script": "validate-tantraloka-vs-dyczkowski.py",
+   "layer": "L03",
+   "source": "AbhT_1.52 root + Dyczkowski vol1",
+   "vision": "Verified Epistemic OS",
+   "kernel": "tantraloka-validation",
+   "status": "RUN",
+   "note": "STEP 5 MONA LISA: three-version validation vs Dyczkowski (agreement core + interpretation-space) \u2014 8/8"
+  },
+  {
+   "script": "validate-tantraloka-fullstack.py",
+   "layer": "ALL",
+   "source": "real theme cluster CL-3 + Ahnika-1",
+   "vision": "Verified Epistemic OS",
+   "kernel": "tantraloka-fullstack",
+   "status": "RUN",
+   "note": "RUN THE FULL STACK: theme\u2192essay\u2192education\u2192pedagogy\u2192products on real data \u2014 9/9"
   }
  ]
 }

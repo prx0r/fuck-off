@@ -30,15 +30,15 @@ match ground truth.
 
 | Artifact | Count | Machine source |
 |---|---|---|
-| Kernels (`lib/`) | **37** | `ls lib/*.py` |
-| Experiments (matrix) | **75** | `data/references/experiments.json` |
-| Test suite | **75/75 pass** | `scripts/run-tests.py` |
-| Theatre audit | **35 PROVEN real / 39 mechanism / 0 unproven** (74 audited) | `scripts/theatre-check-all.py` |
+| Kernels (`lib/`) | **38** | `ls lib/*.py` |
+| Experiments (matrix) | **76** | `data/references/experiments.json` |
+| Test suite | **76/76 pass** | `scripts/run-tests.py` |
+| Theatre audit | **35 PROVEN real / 40 mechanism / 0 unproven** (75 audited) | `scripts/theatre-check-all.py` |
 | GitHub repo catalog | **99** | `data/references/github.json` |
-| Repos cloned | **48** (27 validated + 21 reference) | `ecosystem/*/` |
+| Repos cloned | **47** (26 validated + 21 reference) | `ecosystem/*/` |
 | arXiv paper catalog | **32** | `data/references/arxiv.json` |
 | Specs | **47** (SPEC-00..49) | `specs/` |
-| Docs traced | **108 .md, all resolve** | `scripts/audit-traceability.py` |
+| Docs traced | **109 .md, all resolve** | `scripts/audit-traceability.py` |
 | Doyle graduation | **14/14** (mechanism proof) | `scripts/validate-graduation.py` |
 | **IPVV graduation** | **18/18** (real IPK corpus) | `scripts/validate-graduation-ipvv.py` |
 | v3 product stack | **13/13** (18 products / 4 families) | `scripts/validate-product-stack.py` |
@@ -243,11 +243,11 @@ exceed the corroborated physics under it.
 python3 scripts/validate-dag.py      # no cycles, every ref resolves
 ```
 
-### 6.5 Full validation suite (gates + 75 experiments)
+### 6.5 Full validation suite (gates + 76 experiments)
 ```bash
-python3 scripts/run-tests.py          # the full suite (must be 75/75)
-python3 scripts/theatre-check.py      # kernel audit (37 kernels: 28 PROVEN / 6 mech / 0 unproven)
-python3 scripts/theatre-check-all.py  # all-experiment audit (35 PROVEN / 39 mech / 0 unproven)
+python3 scripts/run-tests.py          # the full suite (must be 76/76)
+python3 scripts/theatre-check.py      # kernel audit (38 kernels)
+python3 scripts/theatre-check-all.py  # all-experiment audit (35 PROVEN / 40 mech / 0 unproven)
 python3 scripts/audit-traceability.py # every .md resolves to an index doc (exit 0/1)
 python3 scripts/audit-state.py        # state.json valid + matches ground truth (exit 0/1)
 ```

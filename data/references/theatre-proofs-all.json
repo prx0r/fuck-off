@@ -1,8 +1,8 @@
 {
- "count": 75,
+ "count": 80,
  "verdicts": {
-  "PROVEN": 35,
-  "PROVEN-MECHANISM": 40
+  "PROVEN": 36,
+  "PROVEN-MECHANISM": 44
  },
  "proofs": [
   {
@@ -904,6 +904,66 @@
    "uses_real_data": false,
    "verdict": "PROVEN-MECHANISM",
    "proof_hash": "89a387bd485d04f9"
+  },
+  {
+   "script": "validate-tantraloka-atlas.py",
+   "layer": "L01",
+   "vision": "Verified Epistemic OS",
+   "kernel": "tantraloka-atlas",
+   "claim": "STEP 1 MONA LISA: bibliography+tagging+condition+timeline (KORAL primary/secondary) \u2014 12/12",
+   "test_exists": true,
+   "passes": true,
+   "uses_real_data": false,
+   "verdict": "PROVEN-MECHANISM",
+   "proof_hash": "369e60aa79a5c109"
+  },
+  {
+   "script": "validate-tantraloka-translation.py",
+   "layer": "L03",
+   "vision": "Verified Epistemic OS",
+   "kernel": "tantraloka-translation",
+   "claim": "STEP 2 MONA LISA: L0 tokenization + TranslationProof (gate BLOCKED until human) on Ahnika-1 \u2014 10/10",
+   "test_exists": true,
+   "passes": true,
+   "uses_real_data": false,
+   "verdict": "PROVEN-MECHANISM",
+   "proof_hash": "596ef57c6f0ded5a"
+  },
+  {
+   "script": "validate-tantraloka-argument.py",
+   "layer": "L04",
+   "vision": "Verified Epistemic OS",
+   "kernel": "tantraloka-argument",
+   "claim": "STEP 3 MONA LISA: reflexivity argument + crux, machine can't promote \u2014 9/9",
+   "test_exists": true,
+   "passes": true,
+   "uses_real_data": false,
+   "verdict": "PROVEN-MECHANISM",
+   "proof_hash": "d37540b08fa856ac"
+  },
+  {
+   "script": "validate-tantraloka-vs-dyczkowski.py",
+   "layer": "L03",
+   "vision": "Verified Epistemic OS",
+   "kernel": "tantraloka-validation",
+   "claim": "STEP 5 MONA LISA: three-version validation vs Dyczkowski (agreement core + interpretation-space) \u2014 8/8",
+   "test_exists": true,
+   "passes": true,
+   "uses_real_data": false,
+   "verdict": "PROVEN-MECHANISM",
+   "proof_hash": "773b63d7c948b75c"
+  },
+  {
+   "script": "validate-tantraloka-fullstack.py",
+   "layer": "ALL",
+   "vision": "Verified Epistemic OS",
+   "kernel": "tantraloka-fullstack",
+   "claim": "RUN THE FULL STACK: theme\u2192essay\u2192education\u2192pedagogy\u2192products on real data \u2014 9/9",
+   "test_exists": true,
+   "passes": true,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "26c66d9578bf3599"
   }
  ]
 }

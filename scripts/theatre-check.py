@@ -53,6 +53,11 @@ KERNEL_TESTS = {
     "skill_graph":      ("validate-skill-graph.py", True),
     "structure_recall": ("validate-structure-recall.py", True),
     "ingestion_organism": ("validate-ingestion-organism.py", True),
+    "tantraloka_atlas": ("validate-tantraloka-atlas.py", True),
+    "tantraloka_translation": ("validate-tantraloka-translation.py", True),
+    "tantraloka_argument": ("validate-tantraloka-argument.py", True),
+    "tantraloka_vs_dyczkowski": ("validate-tantraloka-vs-dyczkowski.py", True),
+    "tantraloka_fullstack": ("validate-tantraloka-fullstack.py", True),
 }
 
 # docs claims (from LAB-REVIEW / KERNELS-INDEX) to verify against tests

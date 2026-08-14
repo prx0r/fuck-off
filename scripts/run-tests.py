@@ -70,6 +70,11 @@ run_script("validate-self-healing.py", "self_healing_orchestrator")
 run_script("validate-skill-graph.py", "audited_skill_graph_self_improve")
 run_script("validate-structure-recall.py", "structure_aware_recall_sage")
 run_script("validate-ingestion-organism.py", "ingestion_organism")
+run_script("validate-tantraloka-atlas.py", "tantraloka_atlas")
+run_script("validate-tantraloka-translation.py", "tantraloka_translation")
+run_script("validate-tantraloka-argument.py", "tantraloka_argument")
+run_script("validate-tantraloka-vs-dyczkowski.py", "tantraloka_vs_dyczkowski")
+run_script("validate-tantraloka-fullstack.py", "tantraloka_full_stack")
 run_py("import json;a=json.load(open('data/graph/argument.json'));print(f'{len(a[\"information_nodes\"])} info {len(a[\"inference_nodes\"])} infer {len(a[\"conflict_nodes\"])} conflict')", "argument_graph")
 
 # ---- 2. EXPERIMENTS ----

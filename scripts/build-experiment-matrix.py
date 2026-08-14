@@ -100,6 +100,11 @@ MATRIX = {
   "validate-skill-graph.py": ("L05", "33 kernels as skills", "Verified Epistemic OS", "skill-graph", "Audited skill-graph self-improvement: promote only on verifiable reward — 8/8"),
   "validate-structure-recall.py": ("L10", "real graph", "Verified Epistemic OS", "structure-recall", "SAGE structure-aware recall: follow graph topology on the read plane — 9/9"),
   "validate-ingestion-organism.py": ("ALL", "sivaqueue-style Sanskrit targets", "Verified Epistemic OS", "ingestion-organism", "the autonomous priority-driven refinery: ingest→refine→verify→commit→re-prioritize on learner feedback — 10/10"),
+  "validate-tantraloka-atlas.py": ("L01", "Tantrāloka root + Dyczkowski + Jayaratha", "Verified Epistemic OS", "tantraloka-atlas", "STEP 1 MONA LISA: bibliography+tagging+condition+timeline (KORAL primary/secondary) — 12/12"),
+  "validate-tantraloka-translation.py": ("L03", "AbhT_1.52 real Sanskrit root", "Verified Epistemic OS", "tantraloka-translation", "STEP 2 MONA LISA: L0 tokenization + TranslationProof (gate BLOCKED until human) on Ahnika-1 — 10/10"),
+  "validate-tantraloka-argument.py": ("L04", "AbhT_1.52 + pushing cruxes", "Verified Epistemic OS", "tantraloka-argument", "STEP 3 MONA LISA: reflexivity argument + crux, machine can't promote — 9/9"),
+  "validate-tantraloka-vs-dyczkowski.py": ("L03", "AbhT_1.52 root + Dyczkowski vol1", "Verified Epistemic OS", "tantraloka-validation", "STEP 5 MONA LISA: three-version validation vs Dyczkowski (agreement core + interpretation-space) — 8/8"),
+  "validate-tantraloka-fullstack.py": ("ALL", "real theme cluster CL-3 + Ahnika-1", "Verified Epistemic OS", "tantraloka-fullstack", "RUN THE FULL STACK: theme→essay→education→pedagogy→products on real data — 9/9"),
 }
 
 def main():

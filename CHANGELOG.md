@@ -826,3 +826,13 @@ Autonomous build of 7 infrastructure kernels inspired by the patala v2/v3 GEMs +
     with the 5 falsifiable hypotheses + the ordering rule.
 - The correct order: atlas (what it is) → refinery (spine) → reasoning → reproductive/sensory → validation.
 - Wired into NAVIGATION + the honest dev plan (P0 = Tantrāloka from scratch).
+
+## 2026-08-14 (RAN THE ACTUAL FULL STACK on real Tantrāloka data)
+- **`validate-tantraloka-fullstack.py` (9/9)** — NOT a spine test: runs the WHOLE organism end-to-end on
+  a real Tantrāloka theme cluster (CL-3, self-luminous support + powers):
+    THEME cluster → ESSAY (essay_ingest: claims→argument→crux) → EDUCATION (compile_interactions →
+    LearningClaims + interactions) → PEDAGOGY (wrong-answer→known-neighbor moat + adaptive
+    next-interaction) → PRODUCTS (context bundle for the read plane).
+- The 5 Tantrāloka validators now cover the full stack: atlas(12/12) → translation(10/10) → argument(9/9)
+  → vs-Dyczkowski(8/8) → fullstack(9/9). The organism works end-to-end on real data.
+- **81/81 tests. Theatre 36 PROVEN / 44 mech / 0 unproven (80 audited). 38 kernels, 81-matrix.**

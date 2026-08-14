@@ -1,6 +1,6 @@
 {
- "count": 35,
- "proven": 29,
+ "count": 40,
+ "proven": 34,
  "mechanism_only": 6,
  "unproven": 0,
  "proofs": [
@@ -344,6 +344,61 @@
    "uses_real_data": true,
    "verdict": "PROVEN",
    "proof_hash": "609e7bbe4d15a753"
+  },
+  {
+   "kernel": "tantraloka_argument",
+   "doc_claim": "",
+   "test_script": "validate-tantraloka-argument.py",
+   "test_exists": true,
+   "test_passes": true,
+   "exit_code": 0,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "27efc275464b672d"
+  },
+  {
+   "kernel": "tantraloka_atlas",
+   "doc_claim": "",
+   "test_script": "validate-tantraloka-atlas.py",
+   "test_exists": true,
+   "test_passes": true,
+   "exit_code": 0,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "c5ca9441757f81dd"
+  },
+  {
+   "kernel": "tantraloka_fullstack",
+   "doc_claim": "",
+   "test_script": "validate-tantraloka-fullstack.py",
+   "test_exists": true,
+   "test_passes": true,
+   "exit_code": 0,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "8f0ac70501518443"
+  },
+  {
+   "kernel": "tantraloka_translation",
+   "doc_claim": "",
+   "test_script": "validate-tantraloka-translation.py",
+   "test_exists": true,
+   "test_passes": true,
+   "exit_code": 0,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "460644c7ce01e322"
+  },
+  {
+   "kernel": "tantraloka_vs_dyczkowski",
+   "doc_claim": "",
+   "test_script": "validate-tantraloka-vs-dyczkowski.py",
+   "test_exists": true,
+   "test_passes": true,
+   "exit_code": 0,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "1dcb97e64f8e6547"
   },
   {
    "kernel": "translation",
