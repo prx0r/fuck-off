@@ -66,6 +66,7 @@ run_script("experiment-crux-compiler.py", "crux_compiler")
 run_script("experiment-mutation-testing.py", "mutation_testing")
 run_script("experiment-signed-corpus.py", "signed_corpus_root")
 run_script("experiment-reactive-essay.py", "reactive_essay")
+run_script("experiment-graphiti-temporal.py", "graphiti_temporal_validity")
 
 # ---- summary ----
 n = len(results["tests"]); npass = sum(1 for t in results["tests"] if t["pass"])

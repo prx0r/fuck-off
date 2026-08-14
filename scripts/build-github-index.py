@@ -105,6 +105,11 @@ CATALOG = {
   "agentic-community/mcp-gateway-registry": ("protocols", 2, "MCP gateway registry (control plane)"),
   "a2aproject/A2A": ("protocols", 2, "A2A agent-to-agent protocol"),
   "GoogleCloudPlatform/knowledge-catalog": ("protocols", 2, "Open Knowledge Format (OKF)"),
+  "yoheinakajima/instagraph": ("compilers", 0, "text->graph; our graph.json uses its schema"),
+  "iwe-org/seventeen-centuries": ("compilers", 0, "philosophy markdown-graph (fragments+concepts)"),
+  "BUPT-GAMMA/PathRAG": ("retrieval", 0, "the PathRAG paper code (flow-pruning)"),
+  "getzep/graphiti": ("agent-memory", 0, "temporal edges (valid_at/invalid_at/episodes)"),
+
   "mntlra/knowledgeProvenance": ("epistemic", 1, "PROV-K nanopubs: multi-source assertions + trust networks"),
   "prometheus-eval/cmu-paper-reviewer": ("agent-runtime", 1, "CMU paper reviewer (5 critical issues)"),
   "gallantlab/literature-review-toolkit": ("science-infra", 1, "topic-agnostic literature review agent"),

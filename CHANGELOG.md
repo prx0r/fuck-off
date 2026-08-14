@@ -273,3 +273,11 @@ imposed.
 - **Reactive essay** (`experiment-reactive-essay.py`): source retraction propagates to mark 5/5 prose
   sentences stale (reactive documents).
 - Test suite 15 → **19/19 pass**.
+
+## 2026-08-14 (cont.) — cloned + tested instagraph, seventeen-centuries, PathRAG, graphiti
+- **Cloned (clean, tracked):** instagraph (520K), seventeen-centuries (6MB), PathRAG (2.1M), graphiti (30M).
+- **Graphiti temporal model** (`experiment-graphiti-temporal.py`): valid_at/invalid_at/episodes gives
+  replayable temporal truth — validated as Layer 09 organism/user-knowledge temporal layer.
+- **instagraph**: our graph.json already uses its exact Node/Edge schema (validates our choice).
+- **PathRAG**: confirmed the real code's flow (keyword→entity→context) matches our lib/retrieval.py.
+- GitHub index 83 → **87 repos**. Test suite 19 → **20/20**.

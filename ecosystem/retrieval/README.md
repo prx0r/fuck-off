@@ -11,3 +11,5 @@ GraphRAG retrieval references. See `../../docs/ECOSYSTEM-INDEX.md` §3.
 | LightRAG (HKUDS/LightRAG) | dual-level retrieval |
 
 | gusye1234/nano-graphrag | **CLONED (tracked, 3.3M)** — 1100-line reference; stable-LCC + GraphML determinism tested |
+
+| BUPT-GAMMA/PathRAG | **CLONED** (2.1M) — the paper code; our lib/retrieval.py mirrors its flow-pruning + keyword→entity→context flow |

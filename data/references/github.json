@@ -1,5 +1,5 @@
 {
- "count": 83,
+ "count": 85,
  "entries": [
   {
    "owner": "infinitywings",
@@ -266,10 +266,10 @@
    "name": "PathRAG",
    "repo": "BUPT-GAMMA/PathRAG",
    "url": "https://github.com/BUPT-GAMMA/PathRAG",
-   "category": "graph-reasoning",
+   "category": "retrieval",
    "tier": 0,
    "tier_label": "clone-first",
-   "note": "retrieve reasoning paths, bounded token"
+   "note": "the PathRAG paper code (flow-pruning)"
   },
   {
    "owner": "Graph-COM",
@@ -346,10 +346,10 @@
    "name": "graphiti",
    "repo": "getzep/graphiti",
    "url": "https://github.com/getzep/graphiti",
-   "category": "graph-reasoning",
+   "category": "agent-memory",
    "tier": 0,
    "tier_label": "clone-first",
-   "note": "epistemic graph vs temporal events"
+   "note": "temporal edges (valid_at/invalid_at/episodes)"
   },
   {
    "owner": "airi-institute",
@@ -790,6 +790,26 @@
    "tier": 2,
    "tier_label": "architecture",
    "note": "Open Knowledge Format (OKF)"
+  },
+  {
+   "owner": "yoheinakajima",
+   "name": "instagraph",
+   "repo": "yoheinakajima/instagraph",
+   "url": "https://github.com/yoheinakajima/instagraph",
+   "category": "compilers",
+   "tier": 0,
+   "tier_label": "clone-first",
+   "note": "text->graph; our graph.json uses its schema"
+  },
+  {
+   "owner": "iwe-org",
+   "name": "seventeen-centuries",
+   "repo": "iwe-org/seventeen-centuries",
+   "url": "https://github.com/iwe-org/seventeen-centuries",
+   "category": "compilers",
+   "tier": 0,
+   "tier_label": "clone-first",
+   "note": "philosophy markdown-graph (fragments+concepts)"
   },
   {
    "owner": "mntlra",

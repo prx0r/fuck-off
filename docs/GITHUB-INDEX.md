@@ -1,11 +1,12 @@
 # GITHUB INDEX — canonical GitHub reference catalog
 
-*2026-08-14. 83 repos, organized by category + tier for agent retrieval. Machine form: `data/references/github.json`.*
+*2026-08-14. 85 repos, organized by category + tier for agent retrieval. Machine form: `data/references/github.json`.*
 
 Tier: 0=clone-first · 1=ingest · 2=architecture · 3=watch
 
-## agent-memory (20)
+## agent-memory (21)
 
+- **getzep/graphiti** — `T0` · temporal edges (valid_at/invalid_at/episodes) · <https://github.com/getzep/graphiti>
 - **EvoScientist/EvoScientist** — `T0` · self-evolving AI scientists (study deepest) · <https://github.com/EvoScientist/EvoScientist>
 - **neomjs/neo** — `T0` · Neo.mjs agent OS / software organism · <https://github.com/neomjs/neo>
 - **neo4j-labs/meta-knowledge-graph** — `T0` · self-improving memory layer, lifecycle hooks · <https://github.com/neo4j-labs/meta-knowledge-graph>
@@ -49,11 +50,13 @@ Tier: 0=clone-first · 1=ingest · 2=architecture · 3=watch
 
 - **arg-tech/aif-arg-datasets** — `T1` · xAIF argument graphs (QT30) - the moat dataset · <https://github.com/arg-tech/aif-arg-datasets>
 
-## compilers (3)
+## compilers (5)
 
 - **xoai/sage-wiki** — `T0` · graph as compile output · <https://github.com/xoai/sage-wiki>
 - **rhanka/graphify** — `T0` · extract->canonicalize->reconcile->typed graph · <https://github.com/rhanka/graphify>
 - **obra/knowledge-graph** — `T0` · query a vault as a KG; agent interface · <https://github.com/obra/knowledge-graph>
+- **yoheinakajima/instagraph** — `T0` · text->graph; our graph.json uses its schema · <https://github.com/yoheinakajima/instagraph>
+- **iwe-org/seventeen-centuries** — `T0` · philosophy markdown-graph (fragments+concepts) · <https://github.com/iwe-org/seventeen-centuries>
 
 ## datasets (7)
 
@@ -74,15 +77,13 @@ Tier: 0=clone-first · 1=ingest · 2=architecture · 3=watch
 - **Detective-XH/DocGraph** — `T0` · SQLite KG + drift audits (staleness) · <https://github.com/Detective-XH/DocGraph>
 - **mntlra/knowledgeProvenance** — `T1` · PROV-K nanopubs: multi-source assertions + trust networks · <https://github.com/mntlra/knowledgeProvenance>
 
-## graph-reasoning (19)
+## graph-reasoning (17)
 
 - **RManLuo/gfm-rag** — `T0` · G-reasoner: graph foundation model for RAG · <https://github.com/RManLuo/gfm-rag>
 - **RManLuo/reasoning-on-graphs** — `T0` · graph-valid plan before answering · <https://github.com/RManLuo/reasoning-on-graphs>
 - **DataArcTech/ToG-2** — `T0` · alternating text<->graph search · <https://github.com/DataArcTech/ToG-2>
-- **BUPT-GAMMA/PathRAG** — `T0` · retrieve reasoning paths, bounded token · <https://github.com/BUPT-GAMMA/PathRAG>
 - **Graph-COM/SubgraphRAG** — `T0` · retrieve smallest useful graph · <https://github.com/Graph-COM/SubgraphRAG>
 - **OSU-NLP-Group/HippoRAG** — `T0` · PPR associative retrieval · <https://github.com/OSU-NLP-Group/HippoRAG>
-- **getzep/graphiti** — `T0` · epistemic graph vs temporal events · <https://github.com/getzep/graphiti>
 - **airi-institute/arigraph** — `T0` · semantic + episodic memory · <https://github.com/airi-institute/arigraph>
 - **IDEA-FinAI/ToG** — `T2` · original Think-on-Graph · <https://github.com/IDEA-FinAI/ToG>
 - **LHRLAB/HyperGraphRAG** — `T2` · hypergraph representation (BET) · <https://github.com/LHRLAB/HyperGraphRAG>
@@ -108,6 +109,10 @@ Tier: 0=clone-first · 1=ingest · 2=architecture · 3=watch
 - **agentic-community/mcp-gateway-registry** — `T2` · MCP gateway registry (control plane) · <https://github.com/agentic-community/mcp-gateway-registry>
 - **a2aproject/A2A** — `T2` · A2A agent-to-agent protocol · <https://github.com/a2aproject/A2A>
 - **GoogleCloudPlatform/knowledge-catalog** — `T2` · Open Knowledge Format (OKF) · <https://github.com/GoogleCloudPlatform/knowledge-catalog>
+
+## retrieval (1)
+
+- **BUPT-GAMMA/PathRAG** — `T0` · the PathRAG paper code (flow-pruning) · <https://github.com/BUPT-GAMMA/PathRAG>
 
 ## science-infra (5)
 
