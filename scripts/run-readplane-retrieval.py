@@ -14,6 +14,7 @@ import os, sys, json
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "lib"))
 from query import KnowledgeQuery
 from retrieval import GraphRetriever
+from structure_recall import StructureAwareRecall
 
 ROOT = "/mnt/HC_Volume_106427611/ip-graph"
 results = []
@@ -62,6 +63,13 @@ ppr = gr.hipporag([resolved], top_k=5)
 check("retrieval.hipporag() returns ranked retrieval over seeds",
       ppr is not None and len(ppr) > 0, f"({len(ppr) if ppr else 0})")
 
+# ---- structure_recall (SAGE): topology-following recall on the read plane ----
+sr = StructureAwareRecall(g)
+s_nid = sr.resolve("Free Will")
+srec = sr.recall_structural("Free Will", max_depth=2, top_k=8) if s_nid else []
+check("structure_recall follows graph topology from a seed (SAGE, not lexical)",
+      len(srec) > 0 and all("depth" in n and "rel" in n for n in srec), f"({len(srec)} topology-neighbors)")
+
 # ---- write the read-plane retrieval record ----
 os.makedirs(f"{ROOT}/data/graph", exist_ok=True)
 out = f"{ROOT}/data/graph/readplane-retrieval.json"
@@ -69,8 +77,9 @@ json.dump({
     "resolved": resolved, "n_neighbors": len(nbrs),
     "pathrag_flow_keys": list(flow)[:5] if isinstance(flow, dict) else None,
     "hipporag_top": [str(p) for p in ppr][:5],
+    "structure_recall_topology": [n.get("id") for n in srec][:5],
     "kernels_wired": ["query", "retrieval", "structure_recall"],
-    "read_plane": "now exposes executable KG2Code queries + PathRAG/HippoRAG retrieval",
+    "read_plane": "now exposes executable KG2Code queries + PathRAG/HippoRAG retrieval + SAGE structure-aware recall",
 }, open(out, "w"), indent=1)
 check("the read-plane retrieval record is written", os.path.exists(out))
 
