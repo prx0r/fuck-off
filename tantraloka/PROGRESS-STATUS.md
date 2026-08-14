@@ -81,3 +81,16 @@ content-addressed immutable artifacts, Parquet snapshots, Postgres FTS first.
 - The gold insight: `tantraloka/GOLD-STANDARD-INSIGHTS.md` + `tantraloka/gold-standard-compare.py`
 - The fix: `lib/commentary_lift.py` + `scripts/validate-commentary-lift.py`
 - The real runner: `scripts/run-tantraloka-autonomous.py`
+
+## End-to-end test (2026-08-14) — the wired organism runs
+`scripts/run-tantraloka-e2e.py` passes **5/5 stages** on REAL committed data, each consuming the real
+output of the previous (no hand-feeding):
+- A: factory DAG output (4,624 SOURCE / 264 T1 / 1 L0)
+- B: validator stack (100 T1: integrity=100, verified=100, evidence=100)
+- C: flywheel (flag → stale → dissolve)
+- D: read plane (143 neighbors, PathRAG 36, SAGE 8, pub-eligible)
+- E: scheduler bridge (tantraloka → BUILD_L0_SOURCE_MODE, patala's FSM)
+
+**Honest caveat:** this proves the MECHANISM chain end-to-end on real data. The corpus-scale L2
+translation is a slow background factory DAG job (L0 is the gating layer; ARGMAP/L2 follow). The full
+scholarly L2 corpus is IN PROGRESS, not yet complete.
