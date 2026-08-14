@@ -573,3 +573,16 @@ imposed.
   agent's on-ramp: read AGENTS → NAVIGATION → TRACEABILITY-MAP → HANDOVER → LAB-REVIEW → KERNELS-INDEX,
   run tests, then the graduation test).
 - Verified: 49/49 tests, clean navigation, all docs indexed.
+
+## 2026-08-14 (migration handoff) — the PROVEN v2 (patala spec ↔ our implementations)
+- Read patala's `migration/v2/` spec (16 products, LAYERS.yaml, ground-up plan, PATALA-V2-SPEC).
+- Built our mirror `migration/v2/` grounded in PROVEN implementations:
+  - `RECONCILIATION.md` — patala's 16 products ↔ our kernels: **13/16 proven**; 3 need build
+    (Essay, Commentary, Tokenization).
+  - `PRODUCTS.md` — the 16 products, each with our kernel + experiment + build guide.
+  - `EXPANSIONS.md` — 6 capabilities BEYOND patala's plan (marketplace, organism, what-if,
+    question-growth, self-proving, enquiry-discovery) — each proven, each compounding.
+  - `LAYERS.yaml` — our codified contract (proven kernels per layer + needs-build).
+  - `README.md` — the reading hierarchy + verification (proofs stored, not claimed).
+- The handoff contract: next agent builds + tests the spec'd products using our proofs.
+- Test suite 49/49.

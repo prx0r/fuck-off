@@ -101,6 +101,7 @@ graph after adding text, run `build-graph.py`.
 | `LAB-REVIEW.md` | state of the lab (proven/exploratory/next) |
 | `HANDOVER.md` | session state + where to continue |
 | `TRACEABILITY-MAP.md` | the traceability root (everything → vision + layer) |
+| `migration/v2/README.md` | the PROVEN v2 — patala spec ↔ our implementations (handoff) |
 | `KERNELS-INDEX.md` | the reusable kernels (reuse map) |
 | `BUILDNOTES.md` | full build history + decisions |
 | `NAVIGATION.md` | this file |

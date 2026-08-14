@@ -1,0 +1,99 @@
+# IP-GRAPH V2 — LAYERS.yaml (our codified layer contract, mapped to PROVEN kernels)
+#
+# Mirrors patala's v2 LAYERS.yaml but grounds each layer in OUR proven implementation:
+# every layer maps to a lib/ kernel + a validating experiment (with a theatre proof).
+# status = the theatre verdict (PROVEN / PROVEN-MECHANISM / NEEDS-BUILD), not hand-set optimism.
+
+version: 1.0
+kernel: verified_epistemic_os   # epistemic · review · staleness · schema · evolve · agent_delivery
+                                # query · retrieval · certificate · discovery · education · organism
+                                # organism_loop · pedagogy · translation
+
+layers:
+
+  - id: epistemic
+    position: 0
+    status: PROVEN
+    kernel: lib/epistemic.py
+    proof: validate-stack.py        # envelope + 4-axis authority + invariant, 0 violations
+    note: The epistemic envelope every object carries (HOW it is known, not one score).
+
+  - id: schema
+    position: 0
+    status: PROVEN
+    kernel: lib/schema.py
+    proof: validate-kernels.py      # single-source schema compiler
+
+  - id: staleness
+    position: 3
+    status: PROVEN
+    kernel: lib/staleness.py
+    proof: validate-layer03-05.py   # RKA blast-radius; PHYSICS retraction flags 8 layers
+
+  - id: review
+    position: 5
+    status: PROVEN
+    kernel: lib/review.py + lib/scholar_review.py
+    proof: validate-layer03-05.py + kernel-suite.py   # herdr reducer + cross-review + citecheck
+
+  - id: translation_proof
+    position: 5
+    status: PROVEN
+    kernel: lib/translation.py
+    proof: validate-products.py     # the non-aggregate vector (THE moat)
+
+  - id: argument
+    position: 5
+    status: PROVEN
+    kernel: lib/review.py
+    proof: validate-stack.py + experiment-crux-compiler.py
+
+  - id: retrieval
+    position: 10
+    status: PROVEN
+    kernel: lib/retrieval.py + lib/query.py
+    proof: validate-layer10.py + kernel-suite.py     # PathRAG + HippoRAG + KG2Code
+
+  - id: certificate
+    position: 2
+    status: PROVEN
+    kernel: lib/certificate.py
+    proof: kernel-suite.py + experiment-certification-weight.py   # the compounding market mechanism
+
+  - id: discovery
+    position: 3
+    status: PROVEN
+    kernel: lib/discovery.py
+    proof: kernel-suite.py + experiment-counterfactual-engine.py  # Research Value Score
+
+  - id: education
+    position: 9
+    status: PROVEN-MECHANISM
+    kernel: lib/education.py + lib/pedagogy.py
+    proof: validate-education-organism.py + validate-pedagogy.py  # wrong-answer→neighbor + adaptive
+
+  - id: organism
+    position: 9
+    status: PROVEN-MECHANISM
+    kernel: lib/organism.py + lib/organism_loop.py
+    proof: validate-education-organism.py + validate-organism-loop.py  # consumer→research machine
+
+  - id: evolution
+    position: ALL
+    status: PROVEN-MECHANISM
+    kernel: lib/evolve.py
+    proof: validate-evolve.py       # MAP-Elites; real behavioral niches + cost/latency
+
+  - id: agent_delivery
+    position: 9
+    status: PROVEN-MECHANISM
+    kernel: lib/agent_delivery.py
+    proof: validate-agent-delivery.py  # task contract + context routing + budget + human gate
+    note: human gate is plain method — needs signed attestation (gap E) before production.
+
+# NEEDS BUILD (the handoff agent's targets)
+needs_build:
+  essay: "compile verified argument → sentence-sourced essay (reactive docs proven: experiment-reactive-essay)"
+  commentary: "passage-local commentary over TranslationProof"
+  tokenization: "the L0 token floor (Sanskrit stack: Vidyut)"
+  graduation_test: "one claim through the whole stack on real IPVV evidence"
