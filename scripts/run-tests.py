@@ -55,6 +55,8 @@ run_script("validate-fts-baseline.py", "fts_search_baseline")
 run_script("validate-bundle-router.py", "bundle_router_mcp")
 run_script("validate-seo-astro.py", "seo_astro_surfaces")
 run_script("validate-system-provenance.py", "system_self_provenance")
+run_script("validate-lightrag-compare.py", "lightrag_compare")
+run_script("validate-cognee-compare.py", "cognee_compare")
 run_py("import json;a=json.load(open('data/graph/argument.json'));print(f'{len(a[\"information_nodes\"])} info {len(a[\"inference_nodes\"])} infer {len(a[\"conflict_nodes\"])} conflict')", "argument_graph")
 
 # ---- 2. EXPERIMENTS ----

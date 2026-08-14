@@ -720,3 +720,16 @@ frontier pattern + SPEC-00 §15/§16/§17. 4 new kernels, 4 new validators, L06+
   self-provenance records, `why(kernel)` resolves to experiment+layer+vision, tamper-detect, signed
   Merkle root. The project IS the first complete application of the OS (dogfooding at the meta level).
 - 23 kernels, 61-experiment matrix. state.json + KERNELS-INDEX + OWN-VISION-MAP updated.
+
+## 2026-08-14 (cloned + tested 2 frontier repos similar to ours)
+Cloned, studied, adapted, and tested two frontier projects similar to our Verified Epistemic OS, on real
+data (same pattern as every clone: study the mechanism, adapt to our graph, validate, compare):
+- **LightRAG** (HKUDS, ⭐38k, `ecosystem/retrieval/LightRAG`) — frontier graph-RAG. Adapted its
+  local/global/hybrid retrieval modes (base.py) onto our graph. `lib/lightrag_compare.py` +
+  `validate-lightrag-compare.py` (**10/10**): degree-weighted neighbor walk, inverse-degree global,
+  hybrid union — comparable to our PathRAG (which still finds FreeWill→Indeterminism).
+- **Cognee** (topoteretes, ⭐30k, `ecosystem/agent-memory/cognee`) — AI-memory platform. Adapted its
+  remember/recall + KG search (typed memory entries → KG links → recall). `lib/cognee_compare.py` +
+  `validate-cognee-compare.py` (**11/11**): auto-links typed memory to graph entities, recalls by link,
+  forget primitive — comparable to our compiled context bundles.
+- GITHUB-TRACEABILITY updated (2 new PROVEN clones). 25 kernels, 63-experiment matrix. state.json synced.

@@ -28,6 +28,8 @@ maps to: what it is · layer · vision · the experiment(s) that validate it · 
 | `bundle_router.py` | compiled agent bundles + MCP 8-tool adapter + R2-style immutable emission | L06/L07 | Verified OS | validate-bundle-router | VALIDATED (real data, 16/16) |
 | `seo.py` | agent-SEO: canonical URLs + JSON-LD + sitemap + static 0-JS HTML | L07 | Verified OS | validate-seo-astro | VALIDATED (real graph, 13/13) |
 | `system_provenance.py` | VISION F: the OS audits its OWN kernels (signed self-provenance, why()→evidence, tamper-detect) | ALL | Verified OS | validate-system-provenance | VALIDATED (9/9) |
+| `lightrag_compare.py` | LightRAG local/global/hybrid retrieval adapted to our graph, vs our PathRAG | L10 | Verified OS | validate-lightrag-compare | VALIDATED (10/10) |
+| `cognee_compare.py` | Cognee remember/recall + KG search adapted to our graph, vs our context bundles | L09 | Verified OS | validate-cognee-compare | VALIDATED (11/11) |
 
 ## Rules for agents
 1. **Reuse, don't rebuild** (axiom): a task that maps to a kernel → call the kernel.

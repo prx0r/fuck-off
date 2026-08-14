@@ -24,6 +24,8 @@ integrated). This makes everything traceable — no repo is orphaned.*
 | `nano-graphrag` | `experiment-nano-stable-graph` + `experiment-communities` | L02 | PROVEN |
 | `PathRAG` | `experiment-pathrag` + `validate-layer10` | L10 | PROVEN |
 | `HippoRAG` (clone) | `experiment-hipporag` + `validate-layer10` | L10 | PROVEN (hub-bias found) |
+| `LightRAG` (clone, ⭐38k) | `validate-lightrag-compare` | L10 | PROVEN (local/global/hybrid adapted, vs our PathRAG) |
+| `cognee` (clone, ⭐30k) | `validate-cognee-compare` | L09 | PROVEN (remember/recall + KG search, vs our bundles) |
 | `eigenius` | `experiment-eigenius-grades` | L00 | PROVEN |
 | `self-improving-agent` | `experiment-self-improve` | L05 | PROVEN |
 | `evolving-memory` | `experiment-evolving-memory` | L09 | PROVEN |

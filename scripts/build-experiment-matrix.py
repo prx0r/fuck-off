@@ -85,6 +85,8 @@ MATRIX = {
   "validate-bundle-router.py": ("L06/L07", "real graph + corpus", "Verified Epistemic OS", "bundle-router", "compiled agent bundles + MCP 8-tool adapter + R2-style immutable emission — 16/16"),
   "validate-seo-astro.py": ("L07", "real graph", "Verified Epistemic OS", "seo-astro", "canonical URLs + JSON-LD + sitemap + 31 static 0-JS HTML pages (unified graphs) — 13/13"),
   "validate-system-provenance.py": ("ALL", "lib/ kernel index", "Verified Epistemic OS", "self-provenance", "VISION F: the OS audits its OWN 16 kernels — signed self-provenance, why() resolves to evidence, tamper-detect — 9/9"),
+  "validate-lightrag-compare.py": ("L10", "real graph + LightRAG (HKUDS ⭐38k)", "Verified Epistemic OS", "lightrag", "LightRAG local/global/hybrid retrieval adapted + compared vs our PathRAG on real data — 10/10"),
+  "validate-cognee-compare.py": ("L09", "real graph + cognee (topoteretes ⭐30k)", "Verified Epistemic OS", "cognee", "Cognee remember/recall + KG search adapted + compared vs our context bundles — 11/11"),
 }
 
 def main():

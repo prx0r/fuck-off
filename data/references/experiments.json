@@ -1,5 +1,5 @@
 {
- "count": 61,
+ "count": 63,
  "entries": [
   {
    "script": "validate-layer03-05.py",
@@ -549,6 +549,24 @@
    "kernel": "self-provenance",
    "status": "RUN",
    "note": "VISION F: the OS audits its OWN 16 kernels \u2014 signed self-provenance, why() resolves to evidence, tamper-detect \u2014 9/9"
+  },
+  {
+   "script": "validate-lightrag-compare.py",
+   "layer": "L10",
+   "source": "real graph + LightRAG (HKUDS \u2b5038k)",
+   "vision": "Verified Epistemic OS",
+   "kernel": "lightrag",
+   "status": "RUN",
+   "note": "LightRAG local/global/hybrid retrieval adapted + compared vs our PathRAG on real data \u2014 10/10"
+  },
+  {
+   "script": "validate-cognee-compare.py",
+   "layer": "L09",
+   "source": "real graph + cognee (topoteretes \u2b5030k)",
+   "vision": "Verified Epistemic OS",
+   "kernel": "cognee",
+   "status": "RUN",
+   "note": "Cognee remember/recall + KG search adapted + compared vs our context bundles \u2014 11/11"
   }
  ]
 }
