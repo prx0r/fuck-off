@@ -83,6 +83,12 @@ graph after adding text, run `build-graph.py`.
 | `docs/04-ontology.md` | the concept + relation vocabulary (the graph contract) |
 | `docs/05-performance.md` | the performance doctrine |
 | `docs/ORIGINAL-README.md` | redirect stub (superseded) |
+| `docs/ECOSYSTEM-INDEX.md` | consolidated reference index (repos/datasets/arxiv/agent infra) |
+| `docs/TESTING-VALIDATION-REPORT.md` | the test + validation results |
+
+## Ecosystem clones (organized)
+`ecosystem/{epistemic,compilers,argumentation,science,philosophy,retrieval,agent-runtime}/` — each
+category has a README explaining what belongs there + why. See `docs/ECOSYSTEM-INDEX.md`.
 
 ## Specs (designs — become live docs when implemented)
 

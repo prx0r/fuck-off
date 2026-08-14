@@ -80,3 +80,18 @@ imposed.
   key `"mind-body"` (hyphenated) was matched un-normalized → never matched.
 - Fix: normalize the lexicon key in `find_concepts` too.
 - **Impact:** edges 6484 → **6578** (+94); mind_body 0 → 94 edges; context coverage 97% → **100%**.
+
+## 2026-08-14 (cont.) — agent-orchestration survey + organized ecosystem index
+
+### Imported
+- **`specs/SPEC-09-AGENT-ORCHESTRATION-SURVEY.md`** (from R2 `agenticref`, 1510 lines) — runtimes
+  (Restate/DBOS/Temporal/Hatchet), protocols (MCP/A2A/MCP Gateway/GitSkills), and the **universal
+  schema** (PROJECT→KNOWLEDGE/WORK/EXECUTORS/OUTPUT, Task→Run→Agent→Artifact→Proposal→Review→Decision).
+  Key: keep a cheap single-host runtime today; the universal schema's Review/Decision/Supersede matches
+  our epistemic envelope.
+
+### Added
+- **`docs/ECOSYSTEM-INDEX.md`** — the consolidated, agent-navigable reference index for ALL ecosystem
+  entries (tier-0 clones, datasets, arXiv architectures, agent infra) with 1-line "what it is + why".
+- **`ecosystem/`** — organized clone directory with 7 categories (epistemic, compilers, argumentation,
+  science, philosophy, retrieval, agent-runtime), each with a README explaining what belongs there + why.

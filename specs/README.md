@@ -30,6 +30,9 @@ docs/0N-*.md            (live — implemented, reconciled to ground truth)
 |------|-------|--------|
 | `SPEC-00-INFRA-BUILD.md` | **CANONICAL** master infra build (compiler/factory → R2 → edge) | CANONICAL |
 | `SPEC-01-canonical-dag.md` | the layer dependency DAG (physics→…→value) | DRAFT |
+| `SPEC-07-ECOSYSTEM-SURVEY.md` | repos/datasets/benchmarks | CANONICAL |
+| `SPEC-08-GRAPH-REASONING-SURVEY.md` | arXiv GraphRAG architectures | CANONICAL |
+| `SPEC-09-AGENT-ORCHESTRATION-SURVEY.md` | runtimes/protocols/universal schema | CANONICAL |
 | `SPEC-02-epistemic-envelope.md` | epistemic status ladder + 4-axis authority | DRAFT |
 | `SPEC-03-argument-graph.md` | AIF-style Info/Inference/Conflict graph | DRAFT |
 | `SPEC-04-verification.md` | verify the two-stage claim against evidence | DRAFT |
