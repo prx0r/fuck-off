@@ -1,0 +1,695 @@
+                              Chapter 1
+
+
+
+
+                       Introduction
+
+
+
+The aim of this book is to argue that the mind-bodyjprobtem is not —
+just a local problem, having to do with the relation between mind,
+brain, and behavior in living animal organisms, but that it invades
+ our understanding of the entire cosmos and its history. The physical
+sciences and evolutionary biology cannot be kept insulated from it,
+ and I believe a true appreciation of the difficulty of the problem
+must eventually change our conception of the place of the physical        £}
+sciences in describing the natural order.
+    One of the legitimate tasks of philosophy is to investigate the
+limits of even the best developed and most successful forms of con-
+ temporary scientific knowledge. It maybe frustrating to acknowledge,
+but we are simply at the point in the history of human thought at         ^\fi4^A/
+which we find ourselves, and our successors will make discoveries
+ and develop forms of understanding of which we have not dreamt.
+ Humans are addicted to the hope for a final reckoning, but intellec-
+ tual humility requires that we resist the temptation to assume that
+ tools of the kind we now have are in principle sufficient to under-
+ stand the universe as a whole. Pointing out their limits is a philo- <&£-•
+ sophical task, whoever engages in it, rather than part of the internal
+ pursuit of science—though we can hope that if the limits are recog-
+ nized, that may eventually lead to the discovery of new forms of
+; scientific understanding. Scientists are well aware of how much they
+
+
+
+    1
+                                                                                                                                                                                          Sf
+
+                                         MIND AND COSMOS                                                                                       INTRODUCTION                         '/f
+
+         don't know, but this is a different kind of problem—not just of                                      evidence favors some form of neutral monism over the traditional
+         acknowledging the limits of what is actually understood but of                                       alternatives of materialism, idealism, and dualism. What I would
+         trying to recognize what can and cannot in principle be understood                                   like to do is to explore the possibilities that are compatible with
+         by certain existing methods.                                                                         what we know—in particular what we know about how mind and
+              My target is a comprehensive, speculative world picture that is                                 everything connected with it depends on the appearance and devel-
+         reached by extrapolation from some of the discoveries of biology,                                    opment of living organisms, as a result of the universe's physical,
+         chemistry, and physics—a particular naturalistic Weltanschauung                                      chemical, and then biological evolution. I will contend that these
+         that postulates a hierarchical relation among the subjects of those                                  processes must be reconceived in light of what they have produced,
+         sciences, and the completeness in principle of an explanation of                                     if psychophysical reductionism is false.
+0*       everything in the universe through their unification. Such a world                             • I      The argument from the failure of psychophysical reductionism
+ ^4
+  u      view is not a necessary condition of the practice of any of those                                    is a philosophical one, but I believe there are independent empir-
+ <
+     A   sciences, and its acceptance or nonacceptance would have no effect                             •»'   ical reasons to be skeptical about the truth of reductionism in
+         on most scientific research. For all I know, most practicing scientists                              biology. Physico-chemical reductionism in biology is the orthodox
+         may have no opinion about the overarching cosmological questions                                     view, and any resistance to it is regarded as not only scientifically
+         to which this materialist reductionism provides an answer. Their
+         detailed research and substantive findings do not in general depend
+                                                                                                        I
+                                                                                                        Wf
+                                                                                                              but politically incorrect. But for a long time I have found the mate-
+                                                                                                              rialist account of how we and our fellow organisms came to exist
+         on or imply either that or any other answer to such questions.                                       hard to believe, including the standard version of how the evolu-
+         But among the scientists and philosophers who do express views                                       tionary process works. The more details we learn about the chemi-                                4,
+         about the natural order as a whole, reductive materialism is widely                                  cal basis of life and the intricacy of the genetic code, the more
+         assumed to be the only serious possibility.1                                                         unbelievable the standard historical account becomes. 2 This is just
+ -.•;•       The starting point for the argument is the failure of psychophys-                                the opinion of a layman who reads widely in the literature that
+         ical reductionism, a position in the philosophy of mind that is largely                              explains contemporary science to the nonspecialist. Perhaps that
+         motivated by the hope of showing how the physical sciences could                                     literature presents the situation with a simplicity and confidence
+         in principle provide a theory of everything. If that hope is unrealiz-                               that does not reflect the most sophisticated scientific thought in
+         able, the question arises whether any other more or less unified                                     these areas. But it seems to me that, as it is usually presented, the
+         understanding could take in the entire cosmos as we know it. Among                                   current orthodoxy about the cosmic order is the product of govern-
+         the traditional candidates for comprehensive understanding of the                                    ing assumptions that are unsupported, and that it flies in the face of                           ('
+                                                                                                                                                                                                              C/f
+         relation of mind to the physical world, I believe the weight of                                      common sense.
+
+                                                                                                               2. See Richard Dawkins, The Blind Watchmaker: Why the Evidence of Evolution Reveals a Uni-
+          i. For a clear statement, see Steven Weinberg, Dreams of a Final Theory (New York: Pantheon             verse without Design (New York: Norton, 1986), for a canonical exposition, which seems to
+             Books, 1992), chapter 3.                                                                             convince practically everyone.
+                                      MIND AND COSMOS                                                                            INTRODUCTION
+
+    ,        I would like to defend the untutored reaction of incredulity to                          long historical period in the distant past, the available evidence is very
+        the reductionist neo-Darwinian account of the origin and evolution                            indirect, and general assumptions have to play an important part. My
+        of life.3 It is prima facie highly implausible that life as we know it is                     skepticism is not based on religious belief, or on a belief in any definite
+K       the result of a sequence of physical accidents together with the                              alternative. It is just a belief that the available scientific evidence, in
+        mechanism of natural selection. We are expected to abandon this                               spite of the consensus of scientific opinion, does not in this matter ra-
+        naive response, not in favor of a fully worked out physical/chemical                          tionally require us to subordinate the incredulity of common sense.
+        explanation but in favor of an alternative that is really a schema for                        That is especially true with regard to the origin of life.                          wf
+        explanation, supported by some examples. What is lacking, to my                                   The world is an astonishing place, and the idea that we have in           ,£v
+        knowledge, is a credible argument that the story has a nonnegligible                          our possession the basic tools needed to understand it is no more f
+        probability of being true. There are two questions. First, given what                         credible now than it was in Aristotle's day. That it has produced you,
+        is known about the chemical basis of biology and genetics, what is                            and me, and the rest of us is the most astonishing thing about it. If
+        the likelihood that self-reproducing life forms should have come                              contemporary research in molecular biology leaves open the possi-
+        into existence spontaneously on the early earth, solely through the                           bility of legitimate doubts about a fully mechanistic account of the
+        operation of the laws of physics and chemistry? The second ques-                              origin and evolution of life, dependent only on the laws of chemis-
+        tion is about the sources of variation in the evolutionary process                            try and physics, this can combine with the failure of psychophysical
+        that was set in motion once life began: In the available geological                           reductionism to suggest that principles of a different kind are also
+        time since the first life forms appeared on earth, what is the likeli-                        at work in the history of nature, principles of the growth of order
+        hood that, as a result of physical accident, a sequence of viable                             that are in their logical form teleological rather than mechanistic.
+        genetic mutations should have occurred that was sufficient to permit                          I realize that such doubts will strike many people as outrageous, but
+        natural selection to produce the organisms that actually exist?                               that is because almost everyone in our secular culture has been
+           There is much more uncertainty in the scientific community about                           browbeaten into regarding the reductive research program as sacro-
+    the first question than about the second. Many people think it will be                            sanct, on the ground that anything else would not be science.
+    very difficult to come up with a reductionist explanation of the origin                               My project has the familiar form of trying to meet a set of condi-
+    of life, but most people have no doubt that accidental genetic varia-                             tions that seem jointly impossible. In addition to antireductionism,
+    tion is enough to support the actual history of evolution by natural                              two further constraints are important: first, an assumption that
+    selection, once reproducing organisms have come into existence.                                   certain things are so remarkable that they have to be explained as non-
+    However, since the questions concern highly specific events over a                                accidental if we are to pretend to a real understanding of the world;
+                                                                                                      second, the ideal of discovering a single natural order that unifies
+        3. For an illuminating account of Darwin's own views about the most basic forms of explana-   everything on the basis of a set of common elements and principles—
+          tion, see Elliott Sober, "Darwin's Discussions of God," in Did Darwin Write the "Origin"
+          Backwards!: Philosophical Essays on Darwin's Theory (Amherst, NY: Prometheus Books,         an ideal toward which the inevitably very incomplete forms of our
+         1011), 111-18.
+                                                                                                      actual understanding should nevertheless aspire. Cartesian dualism
+                              MIND AND COSMOS                                                                            INTRODUCTION
+
+
+      rejects this second aspiration, and the reductive programs of both                As I have said, doubts about the reductionist account of life go
+      materialism and idealism are failed attempts to realize it. The uni-          against the dominant scientific consensus, but that consensus faces
+      fying conception is also incompatible with the kind of theism that            problems of probability that I believe are not taken seriously
+      explains certain features of the natural world by divine intervention,        enough, both with respect to the evolution of life forms through
+      which is not part of the natural order.                                       accidental mutation and natural selection and with respect to the
+          The great advances in the physical and biological sciences were           formation from dead matter of physical systems capable of such
+      made possible by excluding the mind from the physical world. This             evolution. The more we learn about the intricacy of the genetic
+
+*y    has permitted a quantitative understanding of that world, expressed
+      in timeless, mathematically formulated physical laws. But at some
+      point it will be necessary to make a new start on a more comprehen-
+                                                                                    code and its control of the chemical processes of life, the harder
+                                                                                    those problems seem.
+                                                                                m       Again: with regard to evolution, the process of natural selection
+ J sive understanding that includes the mind. It seems inevitable that              cannot account for the actual history without an adequate supply of
+      such an understanding will have a historical dimension as well as /           viable mutations, and I believe it remains an open question whether
+      a timeless one. The idea that historical understanding is part of             this could have been provided in geological time merely as a result of
+      science has become familiar through the transformation of biology             chemical accident, without the operation of some other factors de-
+      by evolutionary theory. But more recently, with the acceptance of             termining and restricting the forms of genetic variation. It is no longer
+      the big bang, cosmology has also become a historical science. Mind,           legitimate simply to imagine a sequence of gradually evolving pheno-
+      as a development of life, must be included as the most recent stage           types, as if their appearance through mutations in the DNA were un-
+      of this long cosmological history, and its appearance, I believe, casts       problematic—as Richard Dawkins does for the evolution of the eye.4
+      its shadow back over the entire process and the constituents and              With regard to the origin of life, the problem is much harder, since
+      principles on which the process depends.
+         The question is whether we can integrate this perspective with              4. See Dawkins, The Blind Watchmaker, 77-86. Jerry Fodor and Massimo Piattelli-Palmarini
+                                                                                        argue in the first part of their book What Darwin Got Wrong (New York: Farrar, Straus &
+      that of the physical sciences as they have been developed for a mind-             Giroux, 2010) that Darwinian evolutionary theory assigns much too much of the explana-
+                                                                                        tory burden for the functional character of organisms to the external influence of natural
+      less universe. The understanding of mind cannot be contained
+                                                                                        selection, and not enough to the sources of genetic variation. This point is independent of
+      within the personal point of view, since mind is the product of a                 their attack on the alleged intentionality of the idea of natural selection in the second part of
+                                                                                        the book—which seems to me, as to others, to be based on a misinterpretation.
+      partly physical process; but by the same token, the separateness of
+                                                                                           There are also more mainstream figures who insist that the evidence calls for a more re-
+      physical science, and its claim to completeness, has to end in the               stricted account of the sources of variation in the genetic material. Marc W. Kirschner and
+                                                                                       John C. Gerhart, in The Plausibility of Life: Resolving Darwin's Dilemma (New Haven, CT:
+      long run. And that poses the question: To what extent will the
+                                                                                       Yale University Press, 1005), suggest that genetic variation is biased to facilitate evolu-
+      reductive form that is so central to contemporary physical science               tionary change, though they do not imply that this calls for a revision of the larger reduc-
+                                                                                        tionist conception of nature. Stuart Kauffman suggests in several books that variation is not
+      survive this transformation? If physics and chemistry cannot fully                due to chance, and that principles of spontaneous self-organization play a more important
+      account for life and consciousness, how will their immense body of                role than natural selection in evolutionary history. See At Home in the Universe: The Search
+                                                                                       for Laws of Self-Organization and Complexity (New York: Oxford University Press, 1995);
+      truth be combined with other elements in an expanded conception                  Investigations (New York: Oxford University Press, 2000); Reinventing the Sacred: A New
+      of the natural order that can accommodate those things?                           View of Science, Reason, andReligion (New York: Basic Books, 2008).
+                                MIND AND COSMOS                                                                                         INTRODUCTION
+
+
+the option of natural selection as an explanation is not available. And                                  Those who have seriously criticized these arguments have
+the coming into existence of the genetic code—an arbitrary mapping                                   certainly shown that there are ways to resist the design conclu-
+ofnucleotide sequences into amino acids, together with mechanisms                                    sion; but the general force of the negative part of the intelligent
+that can read the code and carry out its instructions—seems particu-                                 design position—skepticism about the likelihood of the ortho-
+                                                                                                5
+larly resistant to being revealed as probable given physical law alone.                              dox reductive view, given the available evidence—does not ap-
+    In thinking about these questions I have been stimulated by                                      pear to me to have been destroyed in these exchanges. 9 At least,
+criticisms of the prevailing scientific world picture from a very dif-                               the question should be regarded as open. To anyone interested
+ferent direction: the attack on Darwinism mounted in recent years                                    in the basis of this judgment, I can only recommend a careful
+from a religious perspective by the defenders of intelligent design.                                 reading of some of the leading advocates on both sides of the
+Even though writers like Michael Behe and Stephen Meyer are                                          issue—with special attention to what has been established by
+motivated at least in part by their religious beliefs, the empirical                                 the critics of intelligent design. Whatever one may think about
+arguments they offer against the likelihood that the origin oflife and                               the possibility of a designer, the prevailing doctrine—that the
+its evolutionary history can be fully explained by physics and chem-                                 appearance of life from dead matter and its evolution through
+                                                           6
+istry are of great interest in themselves. Another skeptic, David                                    accidental mutation and natural selection to its present forms has <t
+Berlinski, has brought out these problems vividly without reference                                  involved nothing but the operation of physical law—cannot Wfr/"**
+to the design inference.7 Even if one is not drawn to the alternative                                be regarded as unassailable. It is an assumption governing                                         d«r
+of an explanation by the actions of a designer, the problems that                                    the scientific project rather than a well-confirmed scientific
+these iconoclasts pose for the orthodox scientific consensus should                                  hypothesis.
+be taken seriously.8 They do not deserve the scorn with which they
+are commonly met. It is manifestly unfair.
+
+5. Indeed there may be something deeply confused about the request for such an explana-                he assumes this is a task for chemistry, he does say (287), "A real potential exists that cur-
+   tion—for a reason pointed out by Roger White, which I discuss in chapter 4.                         rent theory will never solve the problem at hand, keeping open the possibility for a true
+6. See Michael J. Behe, Darwin's Black Box: The Biochemical Challenge to Evolution (New York:          revolution in the related and surrounding sciences." Of course he doesn't mean intelligent
+   Simon & Schuster, 1996); Behe, The Edge ofEvolution: The Search for the Limits of Darwinism         design.
+   (New York: Free Press, 2007); Stephen C. Meyer, Signature in the Cell: DNA and the Evidence             A problem with the most salient current research is that the synthesis of individual com-
+  for Intelligent Design (New York: HarperOne, 2009).                                                   ponents of the genetic material is so heavily controlled and guided by the experimenters
+7. See David Berlinski, "On the Origins of Life," Commentary, February 2006, reprinted in               that it provides little evidence that the process could have occurred without intelligent
+   Berlinski, The Deniable Darwin, and Other Essays (Seattle: Discovery Institute Press, 2009).         guidance. And the crucial question of how these components could have combined into an
+   See also Brian Goodwin, How the Leopard Changed Its Spots: The Evolution of Complexity               information-rich coded sequence is left unaddressed.
+   (New York: Scribner's, 1994).                                                                     9. The literature is extensive. See for example Kenneth R. Miller, Finding Darwin's God: A
+8. There are also criticisms of current theories from those who nevertheless expect a reduc-            Scientist's Search for Common Ground between God and Evolution (New York: Cliff Street,
+   tive solution; for example Robert Shapiro, Origins: A Skeptic's Guide to the Creation of Life        1999); Philip Kitcher, Living with Darwin: Evolution, Design, and the Future of Faith (New
+   on Earth (New York: Summit Books, 1986); Shapiro, "A Simpler Origin for Life," Scientific            York: Oxford University Press, 2007); Elliott Sober, Evidence and Evolution: The Logic
+  American, February 12, 2007. A very clear explanation of multiple aspects of current                  Behind the Science (Cambridge, UK: Cambridge University Press, 2008); for a sample of
+   research into the origin of life and the possibility of extraterrestrial life is Steven Benner,      both sides of the debate, see Neil A. Manson, ed., God and Design: The Teleological Argument
+   Life, the Universe and the Scientific Method (Gainesville, FL: FfAME Press, 2008). Though            andModern Science (NewYork: Routledge, 2003).
+                                 MIND AND COSMOS
+
+
+     I confess to an ungrounded assumption of my own, in not finding                                                            Chapter 2
+it possible to regard the design alternative as a real option. I lack the
+sensus divinitatis that enables—indeed compels—so many people to
+see in the world the expression of divine purpose as naturally as they
+                                                                                                           Antireductionism and
+see in a smiling face the expression of human feeling.10 So my specu-
+lations about an alternative to physics as a theory of everything do                                        the Natural Order
+not invoke a transcendent being but tend toward complications to
+the immanent character of the natural order. That would also be a
+more unifying explanation than the design hypothesis. I disagree
+with the defenders of intelligent design in their assumption, one
+which they share with their opponents, that the only naturalistic
+alternative is a reductionist theory based on physical laws of the type
+with which we are familiar. Nevertheless, I believe the defenders of                      The conflict between scientific naturalism and various forms of an-
+intelligent design deserve our gratitude for challenging a scientific                     tireductionism is a staple of recent philosophy. On one side there is
+world view that owes some of the passion displayed by its adherents                       the hope that everything can be accounted for at the most basic
+precisely to the fact that it is thought to liberate us from religion.                    level by the physical sciences, extended to include biology.1 On the
+     That world view is ripe for displacement, in spite of the great                      other side there are doubts about whether the reality of such features
+achievements of reductive materialism, which will presumably con-                         of our world as consciousness, intentionality, meaning, purpose,
+tinue for a long time to be our main source for concrete under-                           thought, and value can be accommodated in a universe consisting at
+standing and control of the world around us. To argue, as I will, that                    the most basic level only of physical facts—facts, however sophisti-
+there is a lot it can't explain is not to offer an alternative. But the                   cated, of the kind revealed by the physical sciences.
+recognition of those limits is a precondition of looking for alterna-                         I will use the terms "materialism" or "materialist naturalism" to
+tives, or at least of being open to their possibility. And it may mean                    refer to one side of this conflict and "antireductionism" to refer to the
+that some directions of pursuit of the materialist form of explana-                       other side, even though the terms are rather rough. The attempts to
+tion will come to be seen as dead ends. If the appearance of con-                         defend the materialist world picture as a potentially complete
+scious organisms in the world is due to principles of development                         account of what there is take many forms, and not all of them involve
+that are not derived from the timeless laws of physics, that maybe                        reduction in the ordinary sense, such as the analysis of mental concepts
+a reason for pessimism about purely chemical explanations of the                          in behavioral terms or the scientific identification of mental states with
+origin of life as well.                                                                   brain states. Many materialist naturalists would not describe their view
+
+10.1 am not just unreceptive but strongly averse to the idea, as I have said elsewhere.    1. This program has been pursued with dedication in the writings of Daniel Dennett.
+                                                                                    /rtHMtfUW'        /M% •*       »'"r*
+
+                             MIND AND COSMOS
+                                                                               ,m       ANTIREDUCTIONISM AND THE NATURAL ORDER
+
+
+    as reductionist. But to those who doubt the adequacy of such a world       phenomena that are not physically reducible. So if mind is a product
+    view, the different attempts to accommodate within it mind and re-         of biological evolution—if organisms with mental life are not mirac-
+    lated phenomena all appear as attempts to reduce the true extent of        ulous anomalies but an integral part of nature—then biology cannot
+J   reality to a common basis that is not rich enough for the purpose.         be a purely physical science. The possibility opens up of a pervasive
+    Hence the resistance can be brought together as antireductionism.          conception of the natural order very different from materialism—
+        The tendency of these antireductionist doubts is usually negative.     one that makes mind central, rather than a side effect of physical law.
+    The conclusion they invite is that there are some things that the phys-         It seems clear that the conclusion of antireductionist arguments
+    ical sciences alone cannot fully account for. Other forms of under-        against materialism cannot remain purely negative forever. Even if
+    standing may be needed, or perhaps there is more to reality than           the dominance of materialist naturalism is nearing its end, we need
+    even the most fully developed physics can describe. If reduction           some idea of what might replace it. One of the things that drive the
+    fails in some respect, this reveals a limit to the reach of the physical   various reductionist programs about mind, value, and meaning, in
+    sciences, which must therefore be supplemented by something else           spite of their inherent implausibility, is the lack of any comprehen-
+    to account for the missing elements. But the situation may be more         sive alternative. It can seem that the only way to accept the argu-
+    serious than that. If one doubts the reducibility of the mental to the     ments against reduction is by adding peculiar extra ingredients like
+    physical, and likewise of all those other things that go with the men-     qualia, meanings, intentions, values, reasons, beliefs, and desires to       X3
+    tal, such as value and meaning, then there is some reason to doubt         the otherwise magnificently unified mathematical order of the phys-
+    that a reductive materialism can apply even in biology, and therefore      ical universe. But this does not answer to the desire for a general              ^   ,
+    reason to doubt that materialism can give an adequate account even         understanding of how things fit together. A genuine
+                                                                                                                            :nuine alternative to           f^J^
+    of the physical world. I want to explore the case for this breakdown,      the reductionist program would require an account of how mind
+    and to consider whether anything positive by way of a world view is        and everything that goes with it is inherent in the universe.
+    imaginable in the wake of it.                                                   I am just turning a familiar argument on its head in order to chal-
+       We and other creatures with mental lives are organisms, and             lenge the premises. Materialism requires reductionism; therefore the
+    our mental capacities apparently depend on our physical constitu-          failure of reductionism requires an alternative to materialism. My
+    tion. So what explains the existence of organisms like us must also        aim is not so much to argue against reductionism as to investigate the
+    explain the existence of mind. But if the mental is not itself merely      consequences of rejecting it—to present the problem rather than to
+    physical, it cannot be fully explained by physical science. And then,      propose a solution. Materialist naturalism leads to reductionist am-
+    as I shall argue, it is difficult to avoid the conclusion that those       bitions because it seems unacceptable to deny the reality of all those       J
+    aspects of our physical constitution that bring with them the mental       familiar things that are not at first glance physical. But if no plausible
+    cannot be fully explained by physical science either. If evolutionary      reduction is available, and if denying reality to the mental continues to
+    biology is a physical theory—as it is generally taken to be—then it        be unacceptable, that suggests that the original premise, materialist
+    cannot account for the appearance of consciousness and of other            naturalism, is false, and not just around the edges. Perhaps the natural
+                                     MIND AND COSMOS                                             A N T I R E D U C T I O N I S M AND THE NATURAL ORDER
+
+
+            order is not exclusively physical; or perhaps, in the worst case, there is   eventually reach a point where there is nothing more to be said,
+            no comprehensive natural order in which everything hangs to-                 except "This is just how things are."
+            gether—only disconnected forms of understanding. But whatever                   I am not disposed to see the success of science in this way. It
+            maybe the result, we must start out from a larger conception of what         seems to me that one cannot really understand the scientific world
+            has to be understood in order to make sense of the natural world.            view unless one assumes that the intelligibility of the world, as
+                                                                                         described by the laws that science has uncovered, is itself part of the
+                                                                                         deepest explanation of why things are as they are. So when we prefer
+                                                                                         one explanation of the same data to another because it is simpler
+                                                                                         and makes fewer arbitrary assumptions, that is not just an aesthetic
+^                                                                                        preference: it is because we think the explanation that gives greater         Of*
+            My guiding conviction is that mind is not just an afterthought or an
+            accident or an add-on, but a basic aspect of nature. Quite apart from        understanding is more likely to be true, just for that reason.
+            antireductionist arguments in the philosophy of mind, there is inde-             This assumption is a form of the principle of sufficient reason—
+    ?<      pendent support for the step to such an enlarged conception of re-           that everything about the world can at some level be understood,
+            ality in one of the background conditions of science. Science is             and that if many things, even the most universal, initially seem arbi-
+            driven by the assumption that the world is intelligible. That is, the        trary, that is because there are further things we do not know, which
+            world in which we find ourselves, and about which experience gives           explain why they are not arbitrary after all.
+                                                                                             The view that rational intelligibility is at the root of the natural
+        J usThatsome  information, can be not only described but understood.
+                  assumption is behind every pursuit of knowledge, including              order makes me, in a broad sense, an idealist—not a subjective ide-
+                                                                                                                                                                       sP-
+            pursuits that end in illusion. In the natural sciences as they have           alist, since it doesn't amount to the claim that all reality is ultimately
+            developed since the seventeenth century, the assumption of intelligi-         appearance—but an objective idealist in the tradition of Plato and           P*'
+            bility has led to extraordinary discoveries, confirmed by prediction          perhaps also of certain post-Kantians, such as Schelling and Hegel,
+            and experiment, of a hidden natural order that cannot be observed by          who are usually called absolute idealists. I suspect that there must b e .
+
+    V
+            human perception alone. Without the assumption of an intelligible
+            underlying order, which long antedates the scientific revolution,
+                                                                                          a strain of this kind of idealism in every theoretical scientist: pure
+                                                                                          empiricism is not enough.                      jc
+                                                                                                                                                                       *f?
+            those discoveries could not have been made.                                       The intelligibility of the world is no accident. Mind, in this view,
+               What explains this order? One answer would be that nothing                 is doubly related to the natural order. Nature is such as to give rise to
+            does: explanation comes to an end with the order itself, which                conscious beings with minds; and it is such as to be comprehensible          fyfrg/
+    <       the assumption of intelligibility has merely enabled us to uncover.           to such beings. Ultimately, therefore, such beings should be compre- ^ v , .
+            Perhaps one level of order can be explained in terms of a still deeper        hensible to themselves. And these are fundamental features of the
+            level—as has happened repeatedly in the history of science. But in            universe, not byproducts of contingent developments whose true
+            the end, on this view of the matter, understanding of the world will          explanation is given in terms that do not make reference to mind.
+
+
+                                                16
+                                                                                                                 u*vvr&i+tJ -tf^swr A 's*S ca^M^in                 hw\
+                             MIND AND COSMOS                                                 ANTIREDUCTIONISM AND THE NATURAL ORDER
+
+
+                                                                                     grasp the natural order in its full manifestation because it is too
+                                                                                     complex, and we therefore need more specialized forms of under-
+    The largest question within which all natural science is embedded is             standing for practical purposes. But we can attempt to discover the
+    also the largest question of philosophy—namely in what way or ways               universal principles governing the elements out of which every-
+    is the world intelligible? Clearly natural science is one of the most            thing is composed, and of which all observable spatiotemporal                ,
+                                                                                 ^
+    important ways of revealing intelligibility. But in spite of the great ac-       complexity is a manifestation. These are the mathematically state- "7        ^
+    complishments of the natural sciences in their present form, it is               able laws of basic physics, which describe the fundamental forces
+    important both for science itself and for philosophy to ask how much             and particles or other entities and their interactions, at least till a
+    of what there is the physical sciences can render intelligible—how               still more fundamental level is uncovered. The most systematic
+    much of the world s intelligibility consists in its subsumability under          possible description of a material universe extended in space and
+    universal, mathematically formulable laws governing the spatiotem-               time is therefore the route to the most fundamental explanation of
+    poral order. If there are limits to the reach of science in this form, are       everything.
+    there other forms of understanding that can render intelligible what                 Physics and chemistry have pursued this aim with spectacular
+    physical science does not explain?                                               success. But the great step forward in the progress of the materialist
+        But first we should consider the view that there are no such                 conception toward the ideal of completeness was the theory of
+    limits—that physical law has the resources to explain everything,                evolution, later reinforced and enriched by molecular biology and
+    including the double relation of mind to the natural order. The in-              the discovery of DNA. Modern evolutionary theory offers a general
+    telligibility (to us) that makes science possible is one of the things           picture of how the existence and development of life could be just          Y
+| that stand in need of explanation. The strategy is to try to extend                another consequence of the equations of particle physics. Even if no
+    the materialist world picture so that it includes such an explana-               one yet has a workable idea about the details, it is possible to specu-
+    tion, thereby making the physical intelligibility of the world close             late that the appearance of fife was the product of chemical pro-
+    over itself. According to this type of naturalism, the existence of              cesses governed by the laws of physics, and that evolution after that
+j minds to whom the world is scientifically intelligible is itself scien-            is likewise due to chemical mutations and natural selection that are
+    tifically explicable, as a highly specific biological side effect of the         also just super-complex consequences of physical principles. Even if
+1
+    physical order.                                                                  there is a residual problem of exactly how to account for conscious-
+       The story goes like this: There is no need for an expanded form               ness in physical terms, the orthodox naturalistic view is that biology is   j(^
+    of understanding; instead, the history of human knowledge gives                  in principle completely explained by physics and chemistry, and that
+    us reason to believe that there is ultimately one way that the natural            evolutionary psychology provides a rough idea of how everything
+    order is intelligible, namely, through physical law—everything that               distinctive about human life can also be regarded as an extremely
+    exists and everything that happens can in principle be explained by               complicated consequence of the behavior of physical particles in
+    the laws that govern the physical universe. Admittedly, we can't                  accordance with certain fundamental laws. This will ultimately
+                         MIND AND COSMOS                                                  A N T I R E D U C T I O N I S M AND THE NATURAL ORDER
+
+
+include an explanation of the cognitive capacities that enable us to
+discover those laws.
+                                                                                                                                    r
+    I find it puzzling that this view of things should be taken as more
+                                                                                As a way of marking the boundaries of the territory in which the
+or less self-evident, as I believe it commonly is. Everyone acknowl-
+                                                                                search for such understanding must proceed, I would now like to say
+edges that there are vast amounts we do not know, and that enormous         »
+                                                                                something about the polar opposite of materialism, namely, the posi-
+opportunities for progress in understanding lie before us. But scien-
+                                                                                tion that mind, rather than physical law, provides the fundamental
+tific naturalists claim to know what the form of that progress will be,
+                                                                                level of explanation of everything, including the explanation of the
+and to know that mentalistic, teleological, or evaluative intelligibility
+                                                                                basic and universal physical laws themselves. This view is familiarly
+in particular have been left behind for good as fundamental forms of
+                                                                                expressed as theism, in its aspect as an explanation of the existence
+understanding. It is assumed not only that the natural order is intel-
+                                                                                and character of the natural world. It is the most straightforward way
+ligible but that its intelligibility has a certain form, being found in
+                                                                                of reversing the materialist order of explanation, which explains mind
+the simplest and most unified physical laws, governing the simplest
+                                                                                as a consequence of physical law; instead, theism makes physical law
+and fewest elements, from which all else follows. That is what scien-
+                                                                                a consequence of mind.
+tific optimists mean by a theory of everything. So long as the basic
+                                                                                    Considered as a response to the demand for an all-encompassing
+laws are not themselves necessary truths, the question remains why
+                                                                                form of understanding, theism interprets intelligibility ultimately in
+those laws hold. But perhaps part of the appeal of this conception is
+                                                                                terms of intention or purpose—resisting a purely descriptive end
+that if the laws are simple enough, we can come to rest with them
+                                                                                point. At the outer bounds of the world, encompassing everything
+and be content to say that this is just how things are. After all, what
+                                                                                in it, including the law-governed natural order revealed by science, fattM***}
+is the alternative?
+                                                                                theism places some kind of mind or intention, which is responsible
+   That is really my question. The implausibility of the reductive              for both the physical and the mental character of the universe. So
+program that is needed to defend the completeness of this kind of               long as the divine mind just has to be accepted as a stopping point in
+naturalism provides a reason for trying to think of alternatives—               the pursuit of understanding, it leaves the process incomplete, just
+alternatives that make mind, meaning, and value as fundamental as               as the purely descriptive materialist account does.
+matter and space-time in an account of what there is. The funda-
+                                                                                    For either materialistic or theistic explanation to provide a com-
+mental elements and laws of physics and chemistry have been
+                                                                                plete understanding of the world, it would have to be the case that
+inferred to explain the behavior of the inanimate world. Something
+                                                                                either the laws of physics, or the existence and properties of God
+more is needed to explain how there can be conscious, thinking                                                                                                                   '
+                                                                                and therefore of his creation, cannot conceivably be other than they
+creatures whose bodies and brains are composed of those elements.                                                                                    2
+                                                                                are. Physicists do not typically believe the former, but theists tend
+If we want to try to understand the world as a whole, we must start
+with an adequate range of data, and those data must include the             I    2. Though Einstein seems to have regarded it as an open question, the question, as he put it,
+evident facts about ourselves.                                                      "Did God have any choice when he created the universe?"
+              (/
+         ,0                        MIND AND COSMOS
+                                                                                               ANTIREDUCTIONISM AND THE NATURAL ORDER
+    /
+          to believe the latter. This doesn't mean that a theistic world view                                                       0yv&&\m Iso^W&owf
+/         must be deterministic: God's essential nature may lead him to create
+          probabilisticjaws and beings with free will, whose actions are
+                                                                                       The place at which the contrast between forms of intelligibility is
+          explained as free choices. But some kind of divine intention would
+                                                                                       most vividly presented is in the understanding of ourselves. This is
+          underpin the totality.
+                                                                                       also the setting for the most heated battles over what physical science
+              The interest of theism even to an atheist is that it tries to explain    can and cannot explain. Both theism and evolutionary naturalism are
+          in another way what does not seem capable of explanation by phys-                                                                                        <**
+                                                                                       attempts to understand ourselves from the outside, using very dif-
+          ical science. The inadequacies of the naturalistic and reductionist         ferent resources. Theism offers a vicarious understanding, by assign-
+          world picture seem to me to be real. There are things that science as
+                                                                                      ing it to a transcendent mind whose purposes and understanding of
+          presently conceived does not help us to understand, and which we
+                                                                                      the world we cannot ourselves fully share, but which makes it pos-
+          can see, from the internal features of physical science, that it is not
+                                                                                      sible to believe that the world is intelligible, even if not to us. The form
+         going to explain. They seem to call for a more uncompromisingly
+                                                                                      of this transcendent understanding is conceived by extrapolation
+         mentalistic or even normative form of understanding. Theism
+                                                                                      from the natural psychological self-understanding we have of our
+         embraces that conclusion by attributing the mental phenomena
+                                                                                      own intentions. Evolutionary naturalism, by contrast, extrapolates to
+         found within the world to the working of a comprehensive mental
+                                                                                      everything, including ourselves, a form of scientific understanding
+         source, of which they are miniature versions.
+                                                                                      that we have developed in application to certain other parts of the
+              However, I do not find theism any more credible than materi-            world. But the shared ambition of these two approaches, to encom-
+          alism as a comprehensive world view. My interest is in the territory
+          between them. I believe that these two radically opposed concep-
+          tions of ultimate intelligibility cannot exhaust the possibilities. All
+          explanations come to an end somewhere. Both theism and materi-
+                                                                                      pass ourselves in an understanding that arises from but then tran-
+                                                                                      scends our own point of view, is just as important as the difference
+                                                                                      between them.
+                                                                                                                                                                <0
+                                                                                          What, if anything, justifies this common ambition of transcen-
+          alism say that at the ultimate level, there is one form of under-
+                                                                                      dence ? Isn't it sufficient to try to understand ourselves from within—
+                                                                                                                                                              #0
+         standing. But would an alternative secular conception be possible
+                                                                                      which is hard enough? Yet the ambition appears to be irresistible—as
+         that acknowledged mind and all that it implies, not as the expression
+                                                                                      if we cannot legitimately proceed in life just from the point of view
+         of divine intention but as a fundamental principle of nature along
+                                                                                      that we naturally occupy in the world, but must encompass ourselves
+         with physical law? Could it take the form of a unified conception of
+                                                                                      in a larger world view. And to succeed, that larger world view must
+         the natural order, even if it tries to accommodate a richer set of
+                                                                                      encompass itself.
+        materials than the austere elements of mathematical physics ? But let
+                                                                                          Any external understanding, however transcendent, begins from
+        me first say a bit more, for dialectical purposes, about the opposi-
+                                                                                      our own point of view (how could it not?) and is usually supposed to
+        tion between theism and materialist naturalism and what is lacking
+        in each of them.                                                              be consistent with the main outlines of that point of view even if it
+                                                                                      also provides a basis for significant criticism and revision as well as
+    ,J»*
+                                        MIND AND COSMOS                                                           ANTIREDUCTIONISM AND THE NATURAL ORDER
+
+
+           extension. With respect to human knowledge, for example, both                                  nature and formation. The hope is not to discover a foundation that
+           theism and naturalism try to explain how we can rely on our faculties                          makes our knowledge unassailably secure but to find a way of under-
+           to understand the world around us. At one extreme there is Des-                                standing ourselves that is not radically self-undermining, and that
+           cartes' theistic validation of perception and scientific reasoning by                          does not require us to deny the obvious. The aim would be to offer a
+           the proof that God, who is responsible for our faculties, would not                            plausible picture of how we fit into the world.    — j2/)£,6*4t\'~~ .    . .
+           systematically deceive us. At the other extreme there is naturalized                            —             •                                    th J<n«fS     ^   k W V
+           epistemology, which argues that perceptual and cognitive faculties
+           evolved by natural selection can be expected to be generally reliable
+                                                                                                                                                                                       a
+           in leading us to true beliefs.                                ^ 6. W<**u c*~ (A^4^ t
+               Neither of these proposals provides a defense against radical                              Even in this more modest enterprise both theism and naturalistic re-
+           skepticism—the possibility that our beliefs about the world are                                ductionism fall short. Theism does not offer a sufficiently substantial
+           systematically false. Such a defense would inevitably be circular,                             explanation of our capacities, and naturalism does not offer a suffi- /
+           since any confidence we could have in the truth of either a theistic                           ciently reassuring one.
+           or an evolutionary explanation of our cognitive capacities would                                  A theistic account has the advantage over a reductive naturalistic
+           have to depend on the exercise of those capacities. For theism, this                           one that it admits the reality of more of what is so evidently the
+           is the famous Cartesian circle; but there is an analogous naturalistic                         case, and tries to explain it all. But even if theism is filled out with
+           circle.3 In addition, evolutionary naturalism offers an explanation of                         the doctrines of a particular religion (which will not be accessible
+           our knowledge that is seriously inadequate, when applied to the                                to evidence and reason alone), it offers a very partial explanation
+           knowledge-generating capacities that we take ourselves to have. I                              of our place in the world. It amounts to the hypothesis that the
+
+
+      r
+&          will return to this claim below.                                                               highest-order explanation of how things hang together is of a
+              But even ifthese two projects of self-understanding do not refute                           certain type, namely, intentional or purposive, without having any-
+           skepticism, I believe there is a legitimate aim of transcendence that                          thing more to say about how that intention operates except what is
+           is more modest and perhaps more realistic. We may not be able to                               found in the results to be explained.
+           rule out the skeptical possibility, and we may not be able to ground                               The idea is not empty, because any intentional explanation
+           our normal capacity for understanding on something in which we                                 involves some interpretive assumptions, even about God. An inten-
+           can have even greater confidence; but it may still be possible to show                         tional agent must be thought of as having aims that it sees as good, XiO^1*
+           how we can reasonably retain our natural confidence in the exercise                            so the aims cannot be arbitrary; a theistic explanation will inevitably
+           of the understanding, in spite of the apparent contingencies of our                            bring in some idea of value, and a particular religion can make this
+                                                                                                          much more specific, though it also poses the famous problem of
+                                                                                                          evil. To my mind, apart from the difficulty of believing in God, the       £AL-
+           3. See Barry Stroud, The Significance of Philosophical Scepticism (Oxford: Clarendon, 1984),
+             ch. 6, "Naturalized Epistemology."                                                           disadvantage of theism as an answer to the desire for comprehensive
+
+
+                                                   24
+                                     MIND AND COSMOS                                                    ANT ID c n i T f                   L\in   T U E   vNATURAL ORDER
+
+
+
+            understanding is not that it offers no explanations but that it does              they propose are not reassuring enough. Evolutionary naturalism
+            not do so in the form of a comprehensive account of the natural                   provides an account of our capacities that undermines their reliability, —
+            order. Theism pushes the quest for intelligibility outside the world. - A /       and in doing so undermines itself. I will have more to say about these
+            If God exists, he is not part of the natural order but a free agent not           problems of reductionism later; here let me sketch them briefly.
+
+    t       governed by natural laws. He may act partly by creating a natural
+            order, but whatever he does directly cannot be part of that order.
+                                                                                                  Inevitably, when we construct a naturalistic external self-
+                                                                                              understanding, we are relying on one part of our "sense-making" /*>
+                A theistic self-understanding, for those who find it compelling               capacities to create a system that will make sense of the rest. We rely on
+            to see the world as the expression of divine intention, would leave               evolutionary theory to analyze and evaluate everything from our
+            intact our natural confidence in our cognitive faculties. But it would            logical and probabilistic cognition to our moral sense. This reflects the
+            not be the kind of understanding that explains how beings like us fit             view that empirical science is the one secure, privileged form of
+            into the world. The kind of intelligibility that would still be missing           understanding and that we can trust other forms only to the extent that
+            is intelligibility of the natural order itself—intelligibility from               they can be validated through a scientific account of how and why they
+            within. That kind of intelligibility may be compatible with some                  work. That still requires reliance on some of our own faculties. But
+            forms of theism—if God creates a self-contained natural order                     some faculties are thought to merit more confidence than others, and
+            which he then leaves undisturbed. But it is not compatible with                   even ifwe cannotprovide them with a noncircular external justification,
+            direct theistic explanation of systematic features of the world that              we must at least believe that they are not undermined by the external
+            would seem otherwise to be brute facts—such as the creation of life               account of their sources and operation that is being proposed. A core
+                                                                                                                                                                                                    J
+    r
+/       /   from dead matter, or the birth of consciousness, or reason. Such                  of cognitive confidence must remain intact, even if some other faculties
+            interventionist hypotheses amount to a denial that there is a com-                are rendered doubtful by their evolutionary pedigree.
+            prehensive natural order. They are in part motivated by a belief that                 Structurally, it is still the Cartesian ideal, but with the leading
+            seems to me correct, namely, that there is little or no possibility that          role played by evolutionary theory instead of by an a priori dem-
+            these facts depend on nothing but the laws of physics. But another                onstration of divine benevolence. But I agree with Alvin Plantinga
+            response to this situation is to think that there may be a completely             that, unlike divine benevolence, the application of evolutionary
+            different type of systematic account of nature, one that makes these              theory to the understanding of our own cognitive capacities
+            neither brute facts that are beyond explanation nor the products of               should undermine, though it need not completely destroy, our
+                                                                                          M
+t           divine intervention. That, at any rate, is my ungrounded intellectual             confidence in them. 4 Mechanisms of belief formation that have se-
+            preference.                                                                       lective advantage in the everyday struggle for existence do not
+                The problem with naturalistic theories is different: Rather than              warrant our confidence in the construction of theoretical accounts
+    n       being reassuring but insufficiently explanatory, materialist theories do          of the world as a whole. I think the evolutionary hypothesis would
+            try to make the natural order internally intelligible by explaining our
+            place in it without reference to anything outside. But the explanations            4. Alvin Plantinga, Warrant and Proper Function (New York: Oxford University Press, 1993), ch. 12.
+
+
+
+                                               16
+                                  MIND AND COSMOS                                                         ANTIREDUCTIONISM AND THE NATURAL ORDER
+
+
+    imply that though our cognitive capacities could be reliable, we do                           truth of propositions that seem evident on reflection should not be
+    not have the kind of reason to rely on them that we ordinarily take                           shaken so easily (and, I would add, cannot be shaken on these sorts of
+    ourselves to have in using them directly—as we do in science. In                              grounds without a kind of false consciousness).                     —
+1   particular, it does not explain why we are justified in relying on                               It seems reasonable to run the test equally in the opposite direc-
+    them to correct other cognitive dispositions that lead us astray,                             tion: namely, to evaluate hypotheses about the universe and how we
+    though they may be equally natural, and equally susceptible to                                have come into existence by reference to ordinary judgments in
+    evolutionary explanation. The evolutionary story leaves the au-                               which we have very high confidence. It is reasonable to believe that
+    thority of reason in a much weaker position. This is even more                                the truth about what kind of beings we are and how the universe
+    clearly true of our moral and other normative capacities—on which                             produced us is compatible with that confidence. After all, every-
+    we often rely to correct our instincts. I agree with Sharon Street that                       thing we believe, even the most far-reaching cosmological theories,
+    an evolutionary self-understanding would almost certainly require                             has to be based ultimately on common sense, and on what is plainly       *S
+
+    us to give up moral realism—the natural conviction that our moral                             undeniable. The priority given to evolutionary naturalism in the
+    judgments are true or false independent of our beliefs.5 Evolu-                               face of its implausible conclusions about other subjects is due, I
+    tionary naturalism implies that we shouldn't take any of our con-                             think, to the secular consensus that this is the only form of external
+    victions seriously, including the scientific world picture on which                           understanding of ourselves that provides an alternative to theism—
+    evolutionary naturalism itself depends.                                                       which is to be rejected as a mere projection of ourintejrnal^ self-
+        I will defend these claims in later chapters, but here let me say what                    conception onto the universe, without evidence.
+    would follow if they are correct. The failure of evolutionary naturalism
+    to provide a form of transcendent self-understanding that does not
+    undermine our confidence in our natural faculties should not lead us                                                            7
+    to abandon the search for transcendent self-understanding. There is
+    no reason to allow our confidence in the objective truth of our moral                         Even if neither evolutionary naturalism nor theism provides the
+    beliefs, or for that matter our confidence in the objective truth of our                      kind of comprehensive self-understanding that we are after, this
+    mathematical or scientific reasoning, to depend on whether this is                            should not threaten our more direct confidence in the operation of
+    consistent with the assumption that those capacities are the product                          our reason, though its appearance in the world remains a mystery.
+    of natural selection. Given how speculative evolutionary explanations                         We can continue to hope for a transcendent self-understanding that
+    ofhuman mental faculties are, they seem too weak a ground for putting                         is neither theistic nor reductionist. But this also means rejecting a
+    into question the most basic forms of thought. Our confidence in the                          third response to the problem that does not seem to me sustainable,
+                                                                                                  though it has distinguished adherents—namely, to give up the pro-
+                                                                                                  ject of external self-understanding altogether and instead to limit
+    5. Sharon Street, "A Darwinian Dilemma for Realist Theories of Value" Philosophical Studies
+      127, no. i (January 2006): 109-66.                                                          ourselves to the sufficiently formidable task of understanding our
+
+
+                                                                                                                                    29
+                                       MIND AND COSMOS                                                                   ANTIREDUCTIONISM AND THE NATURAL ORDER
+
+
+       point of view toward the world from within. Physical science is one                                          Our own existence presents us with the fact that somehow the
+       aspect of this human point of view, but it can exist side by side with                                    world generates conscious beings capable of recognizing reasons for
+       the other aspects, without subsuming them. This pluralistic method                                        action and belief, distinguishing some necessary truths, and evalu-           7
+       is what P. F. Strawson calls "descriptive metaphysics,"6 and it has
+       much in common with Wittgenstein's antimetaphysical conception                                        A   ating the evidence for alternative hypotheses about the natural
+                                                                                                                 order. We don't know how this happens, but it is hard not to believe
+       of the proper task of philosophy.                                                                         that there is some explanation of a systematic kind—an expanded
+            But while internal understanding is certainly valuable, and an                                       account of the order of the world.
+       essential precondition of a more transcendent project, I don't see                                           If we find it undeniable, as we should, that our clearest moral and
+       how we can stop there and not seek an external conception of our-                                         logical reasonings are objectively valid, we are on the first rung of
+       selves as well. To refrain we would have to believe that the quest for                                    this ladder. It does not commit us to any particular interpretation of
+       a single reality is an illusion, because there are many kinds of truth                                    the normative, but I believe it demands something more. We cannot
+       and many kinds of thought, expressed in many different forms of                                           maintain the kind of resistance to any further explanation that is
+       language, and they cannot be systematically combined through a                                            sometimes called quietism. The confidence we feel within our own
+       conception of a single world in which all truth is grounded. That is                                      point of view demands completion by a more comprehensive view
+       as radical a claim as any of the alternatives.7                                                           of our containment in the world.
+            The question is there, whether we answer it or not. Even if we                                           In the meantime, we go on using perception and reason to con-
+       conclude that the materialist account of ourselves is incomplete—                                         struct scientific theories of the natural world even though we do not
+       including its development through evolutionary theory—it remains                                          have a convincing external account of why those faculties exist that
+       the case that we are products of the long history of the universe since                                   is consistent with our confidence in their reliability—neither a
+       the big bang, descended from bacteria over billions of years of nat-                                      naturalistic account nor a Cartesian theistic one. The existence of
+       ural selection. That is part of the true external understanding of our-                                   conscious minds and their access to the evident truths of ethics and
+       selves. The question is how we can combine it with the other things                                       mathematics are among the data that a theory of the world and our
+     , we know—including the forms of reason on which that conclusion                                            place in it has yet to explain. They are clearly part of what is the case,   lAf
+     I itself is based—in a world view that does not undermine itself.                                           just as much as the data about the physical world provided by per-
+                                                                                                                 ception and the conclusions of scientific reasoning about what
+                                                                                                                 would best explain those data. We cannot just assume that the latter
+         6. See P. F. Strawson, Individuals: An Essay in Descriptive Metaphysics (London: Methueri, 1959).
+    ,Y"> 7.1 am very much in sympathy with the following statement byjaegwon Kim: "Metaphysics is                category of thought has priority over the others, so that what it
+ \"*       the domain where different languages, theories, explanations, and conceptual systems come
+                                                                                                                 cannot explain is not real.
+           together and have their mutual ontological relationships sorted out and clarified. That there
+  .4       is such a common domain is the assumption of a broad and untendentious realism about                      Since an adequate form of self-understanding would be an alter-
+jf /       our cognitive activities. If you believe that there is no such common domain, well, that's
+" I         metaphysics, too." Mind in a Physical World: An Essay on the Mind-Body Problem and Mental            native to materialism, it would have to include mentalistic and ratio-
+           Causation (Cambridge, MA: MIT Press, 1998), 66.                                                       nal elements of some kind. But my thought is that they could belong
+
+
+                                                  30
+                                   MIND AND COSMOS                                                 AN TIREDUCTIONISM AND THE NATURAL ORDER
+
+
+
+f         to the natural world and need not imply a transcendent individual
+          mind, let alone a perfect being. The inescapable fact that has to be
+                                                                                           within. That order would have to include physical law, but if life is
+                                                                                           not just a physical phenomenon, the origin and evolution of life and
+          accommodated in any complete conception of the universe is that                  mind will not be explainable by physics and chemistry alone. An          X
+          the appearance of living organisms has eventually given rise to con-             expanded, but still unified, form of explanation will be needed, and
+                                                                                           I suspect it will have to include ideological elements.           .^z^rfH**^-
+
+I   /\x
+          sciousness, perception, desire, action, and the formation of both
+          beliefs and intentions on the basis of reasons. If all this has a natural
+          explanation, the possibilities were inherent in the universe long
+                                                                                               All that can be done at this stage in the history of science is to
+                                                                                           argue for recognition of the problem, not to offer solutions. But
+          before there was life, and inherent in early life long before the                I want to take up some of the obstacles to reduction, and their con-
+A /
+          appearance of animals. A satisfying explanation would show that                  sequences, in more detail, beginning with the dearest case.
+          the realization of these possibilities was not vanishingly improbable
+          but a significant likelihood given the laws of nature and the compo-
+          sition of the universe. It would reveal mind and reason as basic
+          aspects of a nonmaterialistic natural order.
+                                                                                      s^    ^ * W ^ ^ ,              /kprtwJrftrtJ
+                                                                                             U^L^U.***"'
+             This is not just anthropocentric triumphalism. The entire animal
+          kingdom, the endless generations of insects and spiders in their
+          enormous, extravagant populations, all pose this same question
+          about the order of nature. We have not observed life anywhere but
+          on earth, but no natural fact is cosmologically more significant.
+          However much we come to understand, as we are in the process of
+          doing, the chemical basis of life and of its evolution, the phenom-
+          enon still calls for a greatly expanded basis for intelligibility.
+             To sum up: the respective inadequacies ofmaterialism and theism
+          as transcendent conceptions, and the impossibility of abandoning
+          the search for a transcendent view of our place in the universe, lead to
+          the hope for an expanded but still naturalistic understanding that
+          avoids psychophysical reductionism. The essential character of such
+          an understanding would be to explain the appearance of life, con-
+          sciousness, reason, and knowledge neither as accidental side effects
+          of the physical laws of nature nor as the result of intentional inter-
+          vention in nature from without but as an unsurprising if not inevi-
+          table consequence of the order that governs the natural world from
+
+
+                                              32                                                                               33
+

@@ -1,0 +1,1371 @@
+Submitted to                                             LBL-Z07Z
+Physical Review                                          Preprint ~.I
+
+
+
+
+        EXPERIMENTAL CONSEQUENCES OF OBJECTIVE
+                   LOCAL THEORIES I
+
+
+
+
+                  John F. Clauser and Michael A. Horne
+
+
+
+                               August 1973
+
+
+
+
+        Prepared for the U. S. Atomic Energy Commission
+                 unde r Contract W -7405 -ENG-48
+
+
+
+
+                       For Reference
+                     Not to be taken from this room
+                                     DISCLAIMER
+
+This document was prepared as an account of work sponsored by the United States
+Government. While this document is believed to contain correct information, neither the
+United States Government nor any agency thereof, nor the Regents of the' University of
+California, nor any of their employees, makes any warranty, express or implied, or
+assumes any legal responsibility for the accuracy, completeness, or usefulness of any
+information, apparatus, product, or process disclosed, or represents that its use would not
+infringe privately owned rights. Reference herein to any specific commercial product,
+process, or service by its trade name, trademark, manufacturer, or otherwise, does not
+necessarily constitute or imply its endorsement, recommendation, or favoring by the
+United States Government or any agency thereof, or the Regents of the University of
+California. The views and opinions of authors expressed herein do not necessarily state or
+reflect those of the United States Government or any agency thereof or the Regents of the
+University of California.
+                                               ,
+                                               <   '
+
+
+
+
+                                                             LBL-20n
+
+
+
+     EXPERIMENTAL CONSEQUENCES OF OBJECfIVE LOCAL THEORIES 1*
+                            JOM F. Clauser
+\,
+        Department of Physics and Lawrence Berkeley Laboratory
+                    University of California
+                    Berkeley, California 84120
+                                  and
+                            Michael A. Horne
+                      Department of Physics
+                          Stonehill College
+                     N. Easton, Mass., 02356
+
+
+
+                                ABSTRACf
+
+          Objective local          theories of reality are defined, and
+     shown to lead to predictions which are distinctly different from
+     the predictions by quanttnn mechanics.            Experiments may thus be
+     performed which will either disprove the predictions by quanttnn
+     mechanics in at least one application, or show that nature cannot
+     be viewed as both objective and consistent with macrocausality.
+     The experimental requirements are presented.            The demonstration is
+     done through a generalization of analyses by Bell, Clauser, Horne,
+     Shimony, and Holt.     The present analysis will be based solely on
+     the phenomenology of correlation experiments, and thus will constrain
+     the most general theories of this type.
+                             ·f
+                           -2-
+ INTRODUCTION
+
+     The old classical atomic theories described objective
+deterministic systemS.   The advent ofquanttml mechanics introduced
+(among other things) stochastic elements into the description,
+presumably as an inherent attribute of nature.       Opponents of this
+interpretation proposed that all of the statistical predictions
+by quantum mechanics could be deduced from a broader deterministic
+
+theory,in which the observed stochastic features emerge as the
+result of unknown random initial conditions.       Such a covering theory
+is generally called a hidden-variable theory.       Bell has recently
+considered such theories in conjunction with a "locality" or
+                                 1
+'inacrocausality" requirement.       This requirement (reasonable for
+any viable theory) denies the possibility of propagating signals for
+macroscopic distances faster than the speed of light.     He showed that
+no local hidden-variable theory can reproduce all of the statistical
+predictions by quantum mechanics. Extension$ of this result to
+realizable systems by Clauser" Home, Shimony, and Holt 2       have led
+to experimental tests of the hidden-variable proposal. 3
+     A related, but more general question concerns the objectivity
+of the systems described by quantum mechanics.      One naturally
+assumes that a physical measurement measures the properties of an
+                                                                            • I
+
+
+
+objective physical system, or object.      It is tacitly assumed that
+measurable objects have at least some objective properties or real
+physical conditions which exist independently of their being observed.
+For example, an atom, prepared in a pure state,has characteristic
+                              -3-
+
+
+
+properties which it is known will be the results of certain
+measurements perfonned upon it.There are the objective properties of
+this object.     For classical objects, e.g.rocks, trees, etc.,     it
+seems hard to dispute that these have characteristic properties.
+Since objects evidently have some spatial extent, it is undoubtedly
+more precise to consider all of the objects       (including measuring
+apparatuses), or better yet, all of the real physical· conditions or
+properties within a given spatial region; and indeed to assume that
+the totality of all properties within this region exist.       Thus we
+assume that a given region of space and time is characterized by
+properties intrinsic to that region .
+    . If one takes at all seriously the word ''measurement,'' these
+properties must influence, at least to some extent, the results of
+measurements occurring there.       On the other hanfi,they perhaps will
+not fully detennine the results.       To be sure, the dependence upon
+these may be     partially    random, since the evolution from the
+specification of the properties until the result is finalized may
+be an inherently stochastic feature of nature.       To compare various
+systems, we must then specify the properties at some characteristic
+point in time.    If one does so,and takes a large enough ensemble
+of regions with identical natural properties       at that time, these
+properties must determine at least the probabilities (fraction
+among the numbers of the ensemble) of the various eventual outcomes.
+Deterministic theories fonn a limiting case in which these probabil-
+ities are always zero or one.       Since it is clearlY,meaningless to ask
+                                 -4-
+
+
+whether conditions in the future uniquely evolve from those at the
+present when the conditions at the present are not definable,
+deterministic theories form a subclass of the more general objective
+theories.
+        The locality requirement mentioned above will deny the influence
+of the results of measurements performed within the region by
+properties which are defined only outside of the backward light
+cone of the region at the time of the measurement event.         In
+surrunary, then, we define an objective local theory (OLT) as one
+constrained by the fo11awingtwo postulates:
+
+        I.     Signals cannot propagate macroscopic distances faster than
+the speed of light, and so doing,inf1uence any experimental outcome
+(macrocausa1ity - locality assumption).
+    II.        The mathematical probabilities for various experimental
+results observed in some spatial region at a given time are determined
+by quantities        (objective properties) ,existing independently of a local
+observer, that are characteristic of the backward light cone of this
+region.        Deterministic (hidden~variab1e) theories form a limiting
+case in which these probabilities are always zero or one (objectivity
+assumption). 4
+        These postulates, although reasonable in everyday terms ,
+diverge from the normal quantum mechanical postulates.        It is worth-
+
+while to ask whether quantum machanics can subsist within their frame-
+work.        It cannot!   Thus ,it is thepti1'J??seofthispaper'toshowthcit
+                                           -,
+
+
+
+                            -5-
+
+
+
+ suitable experiments JJi.ay beperfonned whiCh will either' disprove
+ the predictions by quarttun'lIliechaiiics'irt,at'least one 'appliCation,
+ or show that nature cannot be viewed as both objective and
+ conslstent with macrocausality. We will use here observable
+ phenomenology, but no assumptions additional to the above.         The
+ results follow as an extension of the applicability, formalism, and
+ interpretation of Bell's result for local hidden-variable theories. 5
+      The paper consists of two parts.          In part I we first review
+ the simple phenomenology of Ibhm's Gedankenexperiment, since
+ arrangements of this type form the backbone of our analysis. 6 We
+, then present in turn the predictions by our objectivity and locality
+ assumptions, and by quanttml:mechanics.        We find a direct incompatibility
+of these for realizable cases of Bohm's Gedankenexperiment and similar
+schemes, over a range of experimental parameters.          We end this part
+with a discussion of the requirements for an experimental test and
+the implications of such a test.      Part II concerns itself with the
+experimental status of these results. 7         We have mentioned that
+earlier extensions of Bell's theorem have been recently tested
+experimentally.    We discuss there the relationship of that experiment
+to the above proposed test., Also there we explore the limits of
+that data's applicability to the first question about determinisIli,
+and the additional information which the proposed test will bring
+to bear on this question.
+                                -6-
+
+
+
+            PHENOMENOLOGY OF BOHM' S GEDANKENEXPERIMENT
+
+        Figure 1 shows schematically a Gedankenexperiment proposed by
+       6·
+Bohm as an example of the Einstein-Podolsky-Rosen paradox.            In it
+an unstable molecule with total spin equal to zero (or one)
+dissociates into a pair of spin-liZ atoms.        Some of the pairs enter
+a respective pair of apparatuses.        Each appara,tus consists of a
+
+Stern-Gerlach analyzer, followed by a detector.           The analyzers may
+be oriented along directions ,..,.,..,.
+                              a and b by the experimenter
+                                                    .
+                                                          or
+experimenters.
+                 .
+
+
+those with spin opposed to a(b) are ignored.
+                                                  8
+                                                      --
+                      Particles with their spin along a(b) are detected;
+
+                                 --
+        A typical retord 6f the detector outputs is depicted in
+Fig.        Z.   It consists of a random train of voltage pulses.    The
+pulse rates and their correlation will in general depend upon the
+orientations ,.,..
+              a andb,
+                   I¥'"
+                        but the rate of molecUlar dissociations will
+be specified to be constant. Thus COlmt rates (or probabilities per
+lmit time) may be measured as a flmction of the detector orientations
+only.
+        Frequently, the detector at apparatus A will COlmt simultaneously,
+or nearly so, with that of apparatus B.        The joint event is commonly
+called a coincidence.       The definition of a coincidence, however, is
+ambiguous and nonlocal.        In order to refrain from specifying an
+internal model giving rise to the correlatiQns at A and B (e.g.
+correlated "particle" emission), and to set the stage for what
+follows,we shall provide a more careful definition of the tern.
+                                -7-
+
+
+
+ We equip each apparatus with a c16ckproducing tirile intervals
+
+ of total length-     +~The two clocks have been synchronized
+ beforehand.       Each time interVal (t , t +1 ) we divide into three
+                                        i i
+ subintervals of length Tl ,T2, and T3, such that T 1 -f'r2 -f'r 3 = T ,as
+
+ shown in Figure 2.        During the first subinterval Tl, each analyzer
+
+ is readjuste~ to some orientation, selected perhaps at random by
+
+ the experimenter, lAnd supplied to the apparatus at time ti + E, with
+
+ O<£<Tl.       The second subinterval T2 is inserted so that the adjustment
+ can have sufficient time to effect the experimental result.           In the
+
+ example of Bolun' s Gedankenexperiment, the spin 1/2 particles will
+ traverse the Stern-Gerlach magnets and be deflected into or away
+ from the detector during this period.        Finally at each detector if
+ the leading edge of an output pulse occurs during the final subinterval
+T 3,   the experimenter locally records the value + I for the time interval
+ ( t. t.   )     along with the associated analyzer orientation a.
+   1'1+1'                                                          -
+ If no such voltage excursion occurs in this interval, he instead
+
+                                   -
+ records the current value of a and the result zero for that interval.
+- Either detector output in each interval of time is thus constrained
+ to be in one of the two final states 8 : +1 or O. - This procedure will
+then convert these-detector records to the square pulses shown in
+
+Fig.2.
+
+
+       It should be noted in passing that the experimenter's role
+
+here is twofold.        He nrust obsenre and record (perhaps using
+                                -8-
+
+
+
+ autanmtic equipment) the various experimental outcomes.           Second,     -,,
+
+ he must generate signals to control the analyzer orientations.
+ Since we have two apparatuses which may have an arbitrarily large
+ separation, two experimenters (or equivalently} reliable mechanical
+ or electronic surrogates) are needed to operate them.           These
+ experimenters when acting as signal sources, may select at random
+ the parameters A and ~ for each interval from among the set of
+ possible orientations {a.} and th.}.         These orientations are also
+                          "'J          "M-J
+ recorded together with the associated experiment result .. If they
+ are not, the introduced randonmess will obscure the correlation
+ between the A and B results.         This recording assures that one can
+ correctly measure probabilities conditioned by the appropriate
+ parameter pair settings.
+      Consider now the data accumulated over many time intervals
+ during which a large number of +1 events have occurred for each of
+ the various interesting pairs of analyzer orientations.           We group
+ together the data for all of the intervals taken with like parameter
+ pair settings.    Denote by N(2.,2) the number of time intervals that
+ the apparatus was set at the orientation pair a, b.
+                                                     --     For this (and
+ for every other) pair we tally the four possible coincidence
+                                                                               -i"
+
+. combinations.   Thus N++ (~,.2) is the total number of time intervals
+
+
+ the results A = +1 and B= +1 occurred; etc.
+                                                            ..
+ during which the apparatus was oriented to direction a and b, and
+                                                    We now define the
+                                                                       ""'--
+
+ "overlap coincidence rate" as
+
+                                                                 (1)
+                                    -9-
+
+
+
+     Correspondingly we define the "singles rates" as
+
+
+
+.'
+     and
+
+
+
+
+     with
+
+
+
+
+     One argument, x, remains, unspecified in each singles rate since
+     locality will deny a dependence of this rate at one detector
+     upon the orientation of the distant apparatus.
+            With definitions (1) - (4), for negligible jitter in the
+     experiment timing, we recover the usual measures of singles and
+     coincidence rates.    We recall of course that these measure
+     probabilities conditioned by the apparatus parameter settings.       Our
+     procedure assures us that there are no tacit nonlocal     assumptions
+     manifest in this definition.
+
+     EXPERIMENTAL CONSEQUENCES OF OBJECTIVE LOCAL TIIEORIES
+
+            We now aerive model-lfidependent predictions from the simultaneous
+     assumption of locality and objectivity which are experimentally
+     testable.    If these predictions are violated by experiment, then
+     either objectivity or locality (or both) does not hold.    Implicit
+     in our locality requirement is a presumed existence of sources of
+                               -10-
+
+
+space-time localized signals, so that such signals may be
+generated independently of the objective world around the source.
+In other words,. sources with "free will" must exist, for locality
+      .          .     10
+to h ave any meanIng.         Such signals presumably can then exist which
+are observed to be localized in space-time regions outside of the
+light-cone of the measurement region.        Any influence by these
+signals on an individual measurement result is a violation of the
+locality requirement.        Thus the locality restriction is nruch more
+severe for individual objective systems than it is for an ensemble
+of nonobjective systems.         Locality, in the latter case, simply
+denies the influence of nonlocal signals upon an ensemble average,
+of experiment results.        For objective systems, however, every
+individual measurement result must not be influenced by th.e signal,
+nor must        any ensemble average of these.       It is possible that
+individual measurement results violate the locality restriction,
+but that an ensemble' of these appears not to, because the absence
+of 3eterminism masks this effect.         We shall see that in the
+quantum mechanical case, the masking is incomplete.
+     To explore the consequences of OLT's, we consider schemes like
+Bohm' 5 Gedankenexperiment.      The timing, control of adjustable
+apparatus paramenters, and data output are to follow the above
+prescribed sequence.        For full generality, however, we simply
+identify each apparatus (Stern-Gerlach analyzer and associated
+detector) as a black box.       We surround each black box and the
+                                      ..;11-
+
+
+
+
+       associated signal source for apparatus parameters with an imaginary
+        surface, ~ or ~~respectively; : such that every point on the surface
+       has a separation from any point on the associated signal source and
+'.'    box greater than CT     (see Fig. 3).     Our postulates imply that a
+       result at t i +l may be influenced only by the properties of nature
+       which are contained within the backward lightcone of the associated
+       box and source at that time.       Equivalently, the i-th result recorded
+       at the time ti+l at a given apparatus, A for example, is influenced
+       only by the properties of nature which are physically located
+       within the surface ~ A at time t i .
+            We denote by the symbols AA and AB the set of natural properties
+       contained within the surfaces ~ A and ~ B' respectively, at time t i •
+       Thus, AA fully specifies the "objective state" or " ultlmate
+                                                               •
+                                                                    essence N
+       of nature within the surface ~A at that time.      Although AA' AB, ~ and
+       £ are denoted by single symbols they are' fully general quanti ties ,which
+       may have any form and desired degree of complexity (it is not
+       necessary that j}. and l specify a vector orientation of an analyzer).
+       One exception we shall make to the all-inclusiveness ofAA and AB
+       is the state of the "free willed" signal source, since by our
+                           i                               '
+
+       hypothesis the objective properties of nature exist independently
+       of the observer, and conceivable sources include the observers'
+       actual decisions.
+            We separate the two apparatuses sufficiently far that the surfaces
+      , ~ A and~B do not intersect.     In an ensemble of such pairs of
+                                -12-
+
+
+apparatuses, any correlation between the paired results             must
+arise somehow through a correlation o~ AA and AB. That is, the
+real physical properties of the two disjoint regions of space-time
+nrust somehow be correlated.           Among the members of this ensemble
+(equivalently we may consider a sequence of such measurements,
+assuming the random processes to be ergodic l l ) there will be a
+random distribution of these various natural properties AA and AB.
+The signal sources do not define the apparatus parameters a and b
+                                                                   """'       ....
+tmtil a time ti + €:.   Hence it is impossible for AA and AB' defined
+at an earlier time t.,
+                    1  to be dependent upon quantities _a and b which     ~
+
+
+
+
+are not yet defined.    Conversely, our objectivity postulate allows
+
+                  -
+the generation of a and b to be independent of AA and AB.
+                         '""-                      .
+
+write a probability density p(AA,AB)' describing the distribution
+                                                                       Thus we
+
+
+of AA and AB among the members of the ensemble, being justified in
+
+                                          -
+introducing it as independent of a and b. We leave open the specific
+                                              I   "..
+
+form of p so that the most general allowable correlation may be specified,
+     Since we have defined the quanti ties AA and AB at time ti' but do
+not complete our measurements tmtil the time ti+l' the states inside
+the black boxes will evolve during the interim.           Locality requires that
+the evolution proceed independently of anything outside of the
+corresponding surface. Up tmtil time t i +€:, the evolutlon may depend
+upon the local At s themSelves.          At that time the apparatus parameters
+are defined and supplied to the black boxes. The evolution will then
+depend upon these also, and they will become a part of the local
+objective properties of nature.           Thus the final outcome at box A, for
+example, can depend only upon the two quantities AA and           ~.
+                                -13-
+
+
+
+       Randomness has entered through the unknown initial conditions,
+
+ specified by the: ftmction p.         We should also allow for situations
+
+ in which probability enters in a deeper and more ftmdamental way,
+
+ since the evolution of physical systems maybe inherently stochastic.
+
+ Ins ide one surface, for example ~, in a large ensemble of cases with
+
+ identical initial conditions AA and signal inputs !,both the +1 and
+
+O"Ol1tEXBlles'tr\ayE>Ccur.   Denote the fraction of +1 outcomes in this'
+
+ensemble by the symbol PC!,A A) . . Our postulates imply that A A and'
+
+....a determine this ntunber, if the ensemble is sufficiently large .
+Correspondingly there is a probability I13C2,A ) defined at the surface
+                                              B
+LB.   Because these are sensible probabilities, we nrust have
+
+
+                                 <
+                                     1,
+                                                                (5)
+
+                  o ~ I13~'~) ~ 1.
+These probabilities are determined by ~, R, AA' and AB, thus for
+
+a given set of these, the fraction PB cannot then depend upon any
+
+chosen subensemble of associated A outcomes, and vice versa.          If
+ PB and PB are dependent, then a subensemble of B outcomes associated
+ with certain subensembles of A outcomes will have a fraction of +1
+
+ resul ts different from PB. This subensemble is an equally valid
+
+ ensemble for the definition of ~. SC contrary to our hypothesis,
+
+ this fraction is not then uniquely specified by ~ and A . Therefore
+                  . I                                   B
+the probabilities PA and I13 must be independent.         This independence
+
+implies that for fixed ~, 2, AA' and A , we can write the probability
+                                      B
+(of the second type) that both detectors will record +1, simply as
+the product w = PA (a,AA)I13~"AB).
+
+      Any correlation, we recall, enters via a correlation of AA and
+AB·We thus calculate the fraction of the 'times that
+                                  -14-
+
+
+
+both apparatuses record the +1 result by averaging w over the· entire
+sample space of AA and AB• This probab i1 i ty is then
+
+      W[                                 f
+           A(~)+. B!l!) +J " W(ij .Il) = PA(~.AA)% Cl/.. AB) P(AA' AJildAAdAB    (6)
+
+
+In similar fashion the probability that the apparatus A will record
++1, irrelevantly of B's result is
+
+         II
+     wA (ll) =        PA (i!oA A) PD'A'AB)   ~ A~B'                              (7)
+
+
+Likewise for apparatus B we have
+
+     wB~ JI           11lC!l. AB)Po,A·AB) ~A~B'                                  (8)
+
+
+     Let us now be more specific about the experimenter's choice                                   iI
+                                                                                                   !
+                                                                                               .   ;
+
+for the apparatus parameters.1 Consider the case in which only two                                 I
+
+
+different apparatus parameters are chosen for each apparatus.               Thus
+the A apparatus parameter will be set at either i or ~', and the B
+parameter at either sort'.            The above physical arguments       allow
+us to. define the four probabilities PA (~,AA)' PA (i,.', AA)' PB (£.,A B) ,
+and PB~' ,A B) associated with the objective properties inside the
+surfaces LA and LB.
+     The remainder of the demonstration is purely mathematical.                 We
+use a theorem, proved in the appendix which states: Given any
+six numbers Xl' x z' Yl' YZ' X, and Y such that the inequalities
+
+           - ,0 <
+    o<- Xl <X         - ,0 <- YI
+                - X z <X                     <- Y, 0 <- yz <- Y                      (Al.I).
+
+hold, then the following inequality also holds;
+                                                      ·.
+
+
+                                          -15-
+
+
+
+
+"
+                                                                                        (AI. 2)
+
+    We now take
+
+
+
+
+    and· find that inequalities (5) reduce to the required inequalities
+
+        (AI. 1) .     The theorem thus imposes the following constraint upon these
+
+    probabilities:
+
+
+
+
+                                                                                        (9)
+
+
+    Multiplying Ineq. (9) by P(AA' AB}, integrating it over the full
+    domains of AA and AB, and 'using Eqs. (6) - (8), we get
+
+    -1 'S. W(a,b)
+            .,.._ - W(a,b.
+                     _ _') + Wea'
+                              _ ",b)
+                                  ... + W(a',b')
+                                         _.-     - wA(a
+                                                      - ' ) - w..,(b)
+                                                               Jj_    'S. 0I
+
+                                                                                        (10)
+
+    which will hold for each interval of time.                 Di vi ding by       T,   we
+
+    find that the following inequality contrains observable overlap
+    coincidence rates,defined by Eqs. (1) - (4) for our ensemble:
+             ~.                 .       .                                      .
+
+    -    T        ~ RC.~.;£)   - R(a,~') + R(!',W + RC!.' ,£.') - r AC.~') - r BC£) ~ o.
+                                                                                        (11)
+             Thus we have succeeded in casting the assumptions I and II into
+
+    the form of a perfectly general inequality which contrains observable
+
+    rates, using only the observable phenomenology of Bohm's
+
+    Gedankenexperiment, but no, assumption of determinism, nor of any
+
+    specific internal model.              Inequali ty (11) thus contralns any and
+                                       -16-
+
+
+
+ all objective,· local, theories of nature.                       In many relevimt experiments
+ such· as Balun's --'CGe..;,.daIik._·                ....
+                                                    ··..;..r_im_·ent,
+                                _. ....;·e.;..·rt_e_xpe
+                                                 -
+                                                   .....
+                                                               -      a and b may be taken as scalar
+ parameters a and b, such as the angles between the analyzer orientations
+ planes and some cOJJllllOnreference plane including the flight axis.                                  If
+ experimentally (and as predicted by quanttun mechanics) the rates
+                  I                         .
+
+
+
+ r A and r B are found to be independent of a and b, and the rate R
+ found to depend only upon the angle between the analyzer orientations                                      ~,
+                  ,I           .
+
+
+ then.this inequality can be written in the more convenient form
+
+                                                                                 (12)
+
+. where we have chosen b-a = c-b = d-c = ".
+                                         ~
+
+
+
+
+ QUANWM MEo-IANICAL PREDICTIONS AND INCCMPATIBILITY
+        For a contrast with the predictions by objective local theories,
+we now present the predictions by quanttun mechanics for Bohm's
+Gedankenexperiment.                For each apparatus two efficiencies. may be
+measured for a controlled flux of particles entering the collimator:
+~ and~! are the response probabilities for a particle entering
+collimator i, initially polarized parallel and antiparallel respectively
+to the analyzer orientation.                     We rewri te th~se in ·the following
+                                                       E;im • !he quanttun mechanical
+
+prediction for the coincidence rate is then 12
+
+R(a,b) =                                                                                        (13)
+
+
+where F is a parameter which depends upon the nature of the two-atom
+            "
+
+
+
+
+                                     -17-
+
+
+
+       initial state.       For an initially pure singlet (S=O) state we have
+.'
+,
+       F = ~1; for an initially pure MFO' triplet (S=l) state we have F = +1.
+       Statistical mixtures of other states will give correlations, which
+       when averaged over a + b will, yield the same fonn with      IFI ~ 1.
+                                     '-
+       the apparatus orientations a and b are both taken perpendicular
+                                            . ~
+       to the experiment axis and are at angles a and b from some reference
+       axis in their plane. , Here, Rp is the rate at which correlated particles
+       simultaneously enter both collimators (proportional to the d1ssociation
+      rate).        Ra
+                     is the
+                          ,
+                            tmavoidab1e accidental rate .which in a well
+      designed experiment, presumably, can be made negligible.        ~    is the
+      efficiency by which our scheme recognizes coincidences.         The
+      singles rates with the above definitions similarly are given by
+
+                                                                   (14)
+
+
+
+                                                                   (15)
+
+
+      Here      r/ and nB are the "gathering efficiencies for the collimators
+                                              i,
+
+
+      A and B; i.e. nA is the probability that a particle will enter
+      collimator A, given that an associated particle enters collimator
+                               I
+
+
+     , B.       The gathering efficiencies will depend upon the nature of the
+      decay (e.g. two-body vs. three-body), the collimator geometry, and the
+      center-of-mass momentum of the two particle system.        RdA and RdB
+      are the detector backgrotmd cotmt rates.
+                 In principle, at least, the efficiencies can be made nearly
+      ideal and the backgrotmds negligible.        In this limit we have
+                                 -18-
+
+
+
+
+            R(/!,b) ..... ~ Rp COS 2 [(a-b)/2],
+                                                               (16)
+
+
+     We now contrast these predictions with Ineqs. (11)
+and (12),derived above,·by evaluating the quantum mechanical
+prediction at the relative orientations shown in Fig. 4.         Assuming
+the nearly ideal· experimental conditions Eq. (16 ),1he central expression
+of Ineq. (11),
+
+
+                                        ~R
+                                          P(J7 . - 1),
+is positive, in clear violation of Ineq.{ll) which requires it to be
+negative.   Thus experiment· must disprove the predictions by quantum
+mechanics, or prove that nature cannot be viewed as both objective
+and consistent with locality.            If these predictions by quantum
+mechanics are correct, individual objective systems, if they exist,
+must violate locality even though average values for ensembles of
+them do not.
+
+REQUIREMENTS ·FOR AN EXPERIMENTAL TEST
+
+The orientations of Fig.4 were chosen to yield maximum violation.
+ConverselY the mininrum experimental requirement for observat ion of .'
+a violation of Ineq. (11) is obtained by direct sub~titution of the
+quantum mechanical predictions,Eqs. (13) - (15) at these angles,
+into Ineq. (12), and reversing the direction of the inequality.            The·
+                               -19-
+
+
+
+ required condition is
+
+                                                           > 0      (17)
+
+
+      Inequality (17) shows that the required analyzer efficiency,
+. gathering efficiency, degree of correlation, etc. are interrelated.
+ In ~neral, some par8l11ft. ers may deteriorate if others are improved.
+ On the other hand, if all parameters are nearly ideal except one,
+
+ that one must still have a certain absolute minimum quality in
+ order for Ineq.(17) to be satisfied.        This condition represents an experi-
+mental requirement that is difficult to meet.         In part II we show
+                                                                     3
+ that the existing experimental results of Freedman and Clauser do
+not in fact do so.    On the other hand,      there seems to be no ~ priori
+ reason why it cannot be achieved with current (or perhaps future)
+ technology.   For example, the Y rays produced by positronilDll
+anrtihilat:ion achieve the required correlation, but polarizers with
+sufficient transmission and extinction for them are not available.
+Alkali metal atoms can be detected by hot-wire detectors coupled
+through    mass spectrometelS, and their polarization Call be
+analyzed by modern Stern-Gerlach magnets, both processes with high
+efficiency.    It may be difficult, however, to produce these in
+                      I
+pairs with the requisite polarization correlation,         angular correlation,
+and intensity.   Nonetheless      it is plausible that suitable systems
+can be found to satisfy all of these requirements, and that the above
+experiments can be performed.         This question will be the subject of
+future work.
+                           -20-
+
+
+
+DISCUSSION                                                                          I
+                                                                                  .,I
+                                                                                    I
+                                                                                 - [
+     The present paper has addressed the question of whether or not
+the existing formalism of quantum mechanics can be recast or perhaps
+reinterpreted in a manner which restores the objectivity of nature.
+We h~rve fOlmd that it is not possible to do so, consistent with
+locality (macrocausality), and without an observable change of the
+                     -
+experimental predictions. That Bell's theorem in principle implies
+an incompatibility of objectivity and locality, with the quantum
+mechanical predictions for idealized experiments was qualitatively
+noted earlier by d'Espagnat!~ The present quantitative argument
+shows that with no further assumptions, objectivity and
+locality are amenable to direct experimental test.         Such data will
+then confirm or reject any realistic, micro-objective,or macro-
+objective natmral philosophy.     The reader is directed to d'Espagnat's
+thorough discussion of these latter topics.
+     In order to solve various difficulties encountered in an
+analysis of the measurement process, Jauch has recently introduced
+                                                       .                    15
+a new concept 0 f state which is in many respects eqUIvalent to ours.
+He has noted with interest the similarity in the predictions for
+various examples of his scheme and the predictions by Bell's theorem.
+Our analysis shows that this similarity is by no means coincidental.
+It also clarifies many earlier misconceptions concerning non local
+
+correlations~6
+
+     Postulates I &II include an enormot.Islygeneral class of theories.
+Physicists consistently attempt to model
+                                          -21-
+
+
+
+             microscopic and macroscopic phenomena.     Any such models, if they
+             are covariant and geometrically based are included by ~his scheme,
+.~
+
+
+             and thus are inconsistent with the predictions by quantum mechanics.
+             These include any conceptual model of a wave packet as a geometrical
+             entity, Whether or not it is synthesized from a set of covariant
+             field modes.     As long as the modei includes a space-time description
+
+             of the measurement process, it must be inconsistent with the usual
+             predictive rules of quantum mechanics.
+
+
+
+
+                  Perceptive readers will have inunediately noticed that the "
+            quantum mechanical formalism, as expected, directly violates our
+            assumptions.      The wave function Wmay not be simply substituted for
+            ourvariablesA A and ABO       In this case our postulate requires that
+            . the local probability PA at detector A be determined then'
+            by ljJ and i!.   Hence PA may not depend upon the selection of any
+            associated subensemble or event at the B apparatus, and as noted
+            before, PA and ~ will be independent.      For fixed W, there is then
+            no correlation between the A and B measurements, in violation of
+            the quantum mechanical prediction.     The only remaining way to give
+ ,.:.   .
+            a correlation is to recognize that the state Wis not pure, but a
+            mixture.    Most assuredly it cannot be a quantum mechanical mixture,
+            as it was very early noted by Furry17 t hat this will not give the
+            desired prediction either.
+                            -22-
+
+
+
+     Together then, objectivity and macrocausality are
+violated in Bohm's Gedankenexperiment by the quantum formalism.
+Immediately after the molecular dissociation occurs, each atom may
+not be individually described by a state vector, but must be
+described as an improper mixture. 1 8 Thus the spin description of
+an individual atom here has no objective properties.     The composite
+state of the two atoms must be described together.     When either
+particle of the pair is measured, the composite state vector
+collapses and the other particle gains objective properties corres~
+ponding   to the orientation of the first apparatus.    Hence the set
+of objective properties of the second particle is in fact modified
+by the first measurement in a manner which depends directly upon
+the orientation of the first apparatus.   This is in violation of
+our assumptions I and II.   It occurs even though the usual causality
+condition--the principle of local cornmutivity--is satisfied~9    Thus
+an experimental test of macrocausality and the objectivity of nature
+is possible.   Fortunately the requirements for such a test are
+perhaps within the limitations of current technology.    Such tests
+are clearly of great importance, both philosophically, and physically,
+to explore further the range of validity of the quantum mechanical
+formalism.
+
+                                                                         J
+                                -23-
+
+
+
+APPENDIX
+       In this appendix we prove the following mathematical theorem:
+
+Given six numbers Xl' X2 ' YI ' Y2 ' X, Y such that
+       o <~ Xl <~ X, 0 <- X2 <- X, 0 <- Yl <- Y, 0 <-Y2 <- Y,     (A1.I)
+
+then the function U = X1Yl -XI Y2 +X2Y1 + X2Y2 - YX2 - XY1 is
+constrained by the inequality
+
+                           . - xy<" U <.. o.                      (Al.2)
+
+We first establish the upper bound by considering two cases.            First
+assume that Xl <- Xz and rewrite
+
+
+
+We have thus assumed the last tenn to be nonpositive.           Inequalities
+(Al.I) require the first two tenns likewise to be nonpositive, and
+
+the validity of the upper bound is demonstrated.          Next assume the
+other altenlative, i.e. that Xl >~, and use this asstunption to bOlmd
+
+U,   thus:
+
+      U = Xl (Yl - Y2) + (X 2   -   X)Yl + X2(Y2 - Y)
+      <
+       - XI(YI - Y2) + (X 2 - X)YI + X1 (Y2 - Y) =                (AI. 3)
+
+       (X2 - X)Yl + Xl (Yl - Y).
+                                                -24-
+
+
+Inspection and application of IneqS. (Al.I) show                                              that both of the
+
+resulting terms are also nonpositive.Thus, the upper bound on U
+
+is established for all cases.
+
+        The proof of the lower botmd follows from a consid.eration of
+                                                  .       > .
+three cases.                  First, assume x             - x1 .        The validity of the lower
+                                                      2
+
+bound is apparent by inspection when written in the form
+
+        U + TI = (X - x )(Y - Y ) + x y                                 + (x        - x )y            (Al.4)
+                                            2    1              11             2          1·2)
+
+since Ineq. (Al.I) requires all three tenns to be nonnegative.
+   . S:irn ilarly for the case y                          ~ y ,inspection reveals the
+                                                      1         2
+correctness of the upper bound when written
+
+        u + TI = eX - x )(Y - Y ) + x y                                 + x    (y     - y ) ~ O.       (Al.S)
+                                            2    1              22            11              2
+
+Finally, suppose neither of the two previous cases holds; that
+
+is x< x          and y< y . Then write
+    2        1                1     2
+
+        U + TI = eX - x 2 )(Y - Y1 ) - (x 1 - x 2
+                                                )(y - y ) + x y.
+                                                  2    1     21
+                                                                                                          (Al.6)
+The stun of the first two tenns is nonnegative since now
+                 >                                                      >             .
+(X - x )
+         2
+                     (x
+                          1
+                                  - x ) > 0 and (Y - Y ) - (y                       - y » o.       Ineq. (Al.I)
+                                        2                           1         2           1
+
+requires the final term to be also nonnegative, hence the final
+case is also verified, and the theorem is proved.
+                             -25-
+
+
+                    FOOTNOTE AND REFERENCES
+
+ *Work supported by U.S. Atomic Energy Commission
+1                              .
+                                1,195 (1964); J~ S. Bell, in
+     J. S. Bell, Physics (N.Y.) .,.
+
+ Foundations of Quantum Mechanics, Proceedings of the International
+ School of Physics "Enrico Ferni", Course 49, edited by B. d'Espagnat
+    (Academic Press, N.Y. 1971), p. 171.
+2    J. F. Clauser, M. A. Horne, A. Shimony, and R.A. Holt, Phys . Rev.
+
+           ....                                                  ...
+ Letters 23, 880 (1969); J. F. Clauser, BUll. Amer. Phys. Soc. 14,
+. 578 (1969); A. Shimony, in Foundations of Quantum Mechanics, p. 182
+ (see Ref. 1); M. A. Horne, Ph.D. Thesis (Boston University, 1970)
+ (unpublished) .
+3
+                                           ,
+                                                          --
+     S. J. Freedman and J. F. Clauser, Phys. Rev. Letters 28, 938 (1972);
+S. J. Freedman, Ph.D. Thesis (University of California, Berkeley,
+1972), Lawrence Berkeley Laboratory, Report LBL 391 (unpublished).
+4    It should be noted that when we speak of objectivity, we refer to
+what is sometimes called strong objectivity.     In this view, nature
+really possesses the aforementioned properties, regardless of an
+observer's particular technological ability to measUre them.     Strong
+objectivity is to be contrasted with weak objectivity.    This latter
+viewpoint merely stipulates that the results of observations are
+independent of who observes them.     The usual interpretations of
+quantum mechanics are consistent with weak but not strong objectivity.
+The distinction between these views is discussed by B. d'Espagnat in
+Ref. 14.
+                            -26-
+
+
+
+                             -
+       Hartle [Am. J. Phys. 36, 704 (1968) 1 gives . a noteworthy
+                                             ..   ""
+
+
+
+
+alternative definition of objectivity which is, however, tmsatisfactory
+for our purposes.     We quote, " ... the state will be called an objective
+property if an assertion of what the state is can be verified by
+measurements on the individual system without knowledge of the
+system's history." The ultimate limitation to possible measurements
+is, tmforttmately, unknown, and present limitations may perhaps be
+only technological ones.     Quantum mechanics assumes the tmcertainty
+principle to place a ftmdamental limitation on measurements.        Since
+it would be circular for us to assume- "!priori the c.oi'Tectnessof a
+theory whose veracity we currently question, we cannot in the present
+instance accept this limitation.     Hartle's statement is meaningful
+only if one knows the ultimate limitation to physical measurements.
+It can equally well be used to define this liniitation.
+
+S   Indeed, Bell (Ref.l) considered a quite general case which included
+"indetenninism with a certain local character." Unforttmately, this
+phrase alone was the full extent of his description.      Understandably
+it led to subsequent confusion; see K. Popper, in Perspectives in
+QUarttumTheory:     Essays iIi Honor of Alfred Lande, edited by W. Yourgrau
+and A. Van der Merwe (MIT Press, Cambridge, 1971), p.182.      Some of
+
+
+(1972)].   Nonetheless, even though Bell's conclusions were indeed
+                                                                    --
+the confusion was subsequently clarified [J. S. Bell, Science 177, 880
+                               -27-
+
+
+
+ correct, the difficulties discussed i..'1 Ref. 8, prevented his analysis
+ from so proving them.Nei thera fully general argument, nor a
+ prescription for a conclusive test has heretofore been exhibited.
+ 6   D. Borun,Q.!antum Theory' (Prentice Hall Inc., Englewood Cliffs ,N.J.
+
+ 1951), p.614.
+ 7
+     J. F. Clauser and M. A. Horne, Part II of this two-part article.
+ Phys.' Rev.
+ 8
+     J. A. Crawford (see Ref. 1) and P. M. Pearle [Phys. Rev. D .,..
+                                                                 2,
+ 1418 (1970)] h~ve noticed that the systems considered by Bell are
+ not two-state systems, but in fact three-state systems.        The third
+ state corresponds to the situation in which one or both particles of
+ a pair are not observed.    Bell, to counter this argument suggested
+ that a given apparatus could respond +1 for "spin up," -1 for "spin
+ down," and 0 ,for "unobserved.   tI
+                                       Unfortunately, his prescription is
+ either incomplete or ineffective.        In the same paper he derives an
+ inequality constraining correlation functions, which to be measurable,
+ nrust be normalized to the total m.vnber of events.      If! the unobserved
+ flux of particles is assumed to be arbitrarily large, the predictions
+ by quantum mechanics and Bell's assignment yield no violation of his
+ inequality, since his correlation ftmctions vanish in'this limit.
+ The unobservability of some events prevents their enumeration in his
+,case.   Pearle derived a lower limit to the unobserved flux of-particles
+ necessary to prevent an experiment from conclusively testing for the
+ existence of hidden variables.        He did not, however, consider the
+ possibility of using only observable data to draw conclusions despite
+                            -28- .
+
+
+
+ the existence of the UnobserVed particles, as we do here.    The
+ present discussion avoids the above difficulty by reverting to a
+ consideration of two-state systems.    Spin-down particles are
+ grouped with unobserved ones, and both assigned the value zero.
+ This assignment does indeed still yield a violation of the
+ inequality we derive, even for a large flux of unobserved particles.
+ 9   The idea of readjusting the analyzers while the particles are in
+ flight is Originally due (essentially) to D. Bohm and Y. Aharonov, .
+ Phys. Rev.Jj~" 1070 (1957).
+10   It has already been noticed that strict determinism may be
+ incompatible with free will [H. P. Stapp, Phys. Rev. D ~ 1303 (1971)].
+Hence, a logically defensible alternative is that spontaneous
+ signal sources cannot exist.    In this case a signal may be received
+outside of the transmitter's light cone, but the causality violation is
+only apparent.    Both the transmitter and receiver were predetermined
+to exhibit the same signal.     The point of origin of the "actual" signal
+was some point wi thin the light cones of both.   Here, then, the
+locality postulate is meaningless.     This position seems rather
+farfetched, however, since for a Lorentz-invariant objective theory
+to produce the required correlation in our proposed experiment, it
+is necessary that the properties of the measured objects actually
+corrommicate with the experimenter.    Indeed, they must convince the
+experimenter without his knowledge to set the apparatus in a marmer
+specified by the objects themselves.    We will thus ignore this possibility.
+                              -29-
+
+
+
+11   To perfonn an ensemble of identical experiments on an associated
+
+ ensemble of quanttnn systems will indeed. be expensive!     Nor will it
+
+ even be practical to assure that such ensembles are in fact identical.
+
+ More practically, one may use an ensemble of identically prepared
+
+ quanttnn systems, and the same apparatus repeatedly.      To do so one
+
+ must, however, assume that the associated random processes are
+ ergodic .. The invariances of nature required by the ergodic hypothesis
+ [see for example D. Middleton, Introduction to Statistical Crnmnunication
+
+ Theory OMcGraw Hi11,New York, 1960), p.S6] are so natural that they
+ are tacitly assl~d by practically every experimenter.        Strictly
+ speaking, however, ergodicity does represent an additional assumption,
+ if the experiment is to be perfonned in this manner.
+
+12   These results apply only in the low rate limit such that the counter
+
+ "dead time" is small, i.e .. when T«1/r ..
+
+13   In any real experiment the effective path lengths and flight times
+
+ for the paired atoms will vary so that R and lli will both depend
+                                         a
+ upon T.
+14   B. d'Espagnat, Conceptual Foundations of Quanttnn Mechanics (Benjamin,
+Menlo Park, Calif., 1971), Chapters 8, 9, and 16.
+15   J. M. Jauch, in Foundations of ·~antumMechanics, p~20(s~eRef~Yi:1) •
+                               -30-
+
+
+
+16   For example, M. L. Goldberger and K. M. Watson [Phys. Rev. 134,  ~
+
+
+ B 919 (1964)] consider a system composed of two spin-l/2particles.
+ Th~connnent:    " ... IIi general therefore the observation of the
+ orientation of spin 1 with respect to the axis has an instantaneous
+ effect on the state of the second spin.      With the interpretation of
+ an observation as making a selection among the members of an ensemble,
+ this is in no sense surprising."         The above discussion shows that
+ such an interpretation cannot of course be considered correct.
+17   W. H. Furry, Phys. Rev. 49, 393 and 476 (1936).
+18
+                              """'"
+     B. d'Espagnat, in Preludes in Theoretical Physics; in Honor of
+ v. F. Weisskopf, edited by DeShalit et a!. (North Holland Pub!. Co.,
+ Amsterdam, 1966), p.185
+19   This principle states that the commutator of any two operators must
+vanish if they correspond to measurements made outside of each other's
+ light cones.
+                                                                      -
+                 Following R. Haag and B. Schroer [J. Math. Phys. 3, 248
+ (1962)] this principle is often referred to as the Einstein causality
+ condition.     In view of the above discussion and Einstein's conviction
+ concerning physical reality, the term is clearly a misnomer.
+      ! '
+
+
+
+                                -31-
+
+
+
+                         FIGURE CAPfIONS
+
+
+
+Figure 1.        Schematic diagram of Bohm's Gedankenexperiment.
+     Spin-l/2.partic1es produced by the dissociation of a spin-zero
+     molecule are spin-state selected by Stern-Gerlach magnets and
+     detectors.
+
+
+Figure 2.       Typical detector outputs (first two traces) are
+     converted by procedure outlined in text to records (+ I or 0)
+     shown as the third and fourth traces.                    Clock pulses are
+     shown as the last trace.          During subinterval Tl , the analyzer
+     orientations are readjusted.         Any pulse leading edge falling
+                                               "         .,
+     in subinterval T3 is accepted as a + 1 event.
+
+
+Figure 3.       Apparatuses A and B with typical associated signal
+     sources and recorders.        Surfaces LA and LB do not intersect,
+     and have separation greater than CT from the boxes and sources.
+
+
+Figure 4.       Analyzer orientations for maximum violation with
+     F = + 1 (</f = 45 0 ) .   Maximum violation for F = - 1 occurs
+
+                                                   ...
+     with cp= 135 0 (reverse directions of b and .....,
+                                                  b').
+-32-
+
+
+
+
+                     I
+
+
+                     I
+
+
+
+
+                         ....... 0
+                         +II    II
+                         mm
+
+
+       o                                 .
+                                     .....OIl
+       II                            ~
+
+
+
+
+            =   --
+             c _0
+            _0 -
+
+            ~o
+            II  II
+            <t:<t:
+                                    -33-
+
+
+
+
+/"1
+      Detector A
+      output.
+          ---It           ~           ~                                                                .   ~
+
+•
+      Detector 8
+      outpu..!....A           ~           ~.              L»
+                                                      \                    \                               "'--
+                                                          \                   \
+                                                          \                       \
+                                                           \                          \
+                                                                  \
+                                                                      \       '           \
+      Apparatus A                                                     \                   \
+                                                                          I   \
+      output                                                              I . 1                    .
+      record     n n n                               tJ I
+                                                              --.1                            L)i+l            f1-
+                                                                          I                    I
+                                                                                               I
+                                                                          1                   1
+      Apparatus 8                                                         1                   I
+      output·    n                        n                               II                   I
+                                                                                               I
+                                                                                               I
+                                                                                                               rL.
+      record                                                          I                       I
+                                                                   I                 I
+                                                                  I                 I
+                                                              I                    I
+                                                              I                   I
+
+                                                    --.,, /It·
+                                                          I
+                                               tj
+      Clock pulses                                          / 1+1
+                 III III III III III hi III III I"                        I" I" hi III I" h, 1., l!l I
+
+
+
+
+                                                                           XBL 737-3358
+
+                                       Fig. 2
+                                       ~B
+
+
+
+           o     o   A= 1 ...lon"
+                     A=O ... "Off II
+                                                               ll
+                                                     B=1 ..'.'on
+                                                     B=O.. I.IOff"
+                                                                     @     o
+                                                                           o
+                                                                            o
+                                                                                                   I
+                                                                                                  \.I.J
+Signal                                                                                            ,j:>.
+                                                                                Signal
+source
+                                                                                source
+and
+recorder--..,.                                                                  and
+                                                                                recorder
+
+
+
+
+                                                             XBL737-3356
+
+
+                                            Fig. 3
+
+
+
+
+                                                                                           ....
+      -35-
+
+
+
+
+                             a'
+                             JVV
+
+
+
+
+             XB L 737-3359
+
+
+    Fig. 4
+
+
+
+:
+     p-----------------LEGALNOTICE------------------~
+
+        This report was prepared as an account of work sponsored by the
+        United States Government. Neither the United States nor the United
+        States Atomic Energy Commission, nor any of their employees, nor
+        any of their contractors, subcontractors, or their employees, makes
+        any warranty, express or implied, or assumes any legal liability or
+        responsibility for the accuracy, completeness or usefulness of any
+        information, apparatus, product or process disclosed, or represents
+        that its use would not infringe privately owned rights.
+
+
+
+
+,"
+                                  .~.
+
+
+
+ TECHNICAL INFORMATION DIVISION
+LAWRENCE BERKELEY LABORATORY
+    UNIVERSITY OF CALIFORNIA
+   BERKELEY, CALIFORNIA 94720
+

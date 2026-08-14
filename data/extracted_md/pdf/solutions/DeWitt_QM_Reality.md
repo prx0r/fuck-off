@@ -1,0 +1,565 @@
+# Reprinted f r o m Physics Today, V o l . 23, No. 9 (September 1970).
+
+**source:** pdf · **section:** solutions
+**file:** DeWitt_QM_Reality
+---
+
+
+Quantum mechanics
+and reality
+Could the solution to the dilemma of
+indeterminism be a universe in which all possible outcomes
+ of an experiment actually occur?
+
+Bryce S. DeWitt
+
+ Despite its enormous practical success, laws, and hence one may form a com-
+ quantum theory is so contrary to intui- bined state vector that can be expanded
+ tion that, even after 45 years, the ex- in terms of an orthonormal set of basis
+ perts themselves still do not all agree vectors
+ what to make of it. The area of dis-
+  agreement centers primarily around the                   \s,A) = |,>|*>          (D
+  problem of describing observations. where s is an eigenvalue of some system
+  Formally, the result of a measurement observable and A is an eigenvalue of
+  is a superposition of vectors, each repre- some apparatus observable. (Additional
+  senting the quantity being observed as labels have been suppressed for sim-
+  having one of its possible values. The plicity.) The Cartesian product struc-
+   question that has to be answered is how ture of equation 1 reflects an implicit
+  this superposition can be reconciled
+                                             assumption that, under appropriate con-
+  with the fact that in practice we only
+  observe one value. How is the measur-      ditions, such as the absence of coupling,
+  ing instrument prodded into making up the system and apparatus can act as if
+  its mind which value it has observed?      they are isolated, independent and dis-
+                                             tinguishable. It is also convenient to
+     Of the three main proposals for solv- assume that the eigenvalue s ranges
+  ing this dilemma, I shall focus on one over a discrete set while the eigenvalue
+  that pictures the universe as continually A ranges over a continuum.
+  splitting into a multiplicity of mutually     Suppose that the state of the world at
+  unobservable but equally real worlds, some initial instant is represented by a
+  in each one of which a measurement normalized vector of the form
+  does give a definite result. Although
+  this proposal leads to a bizarre world                    l*o> = |*>|#>          (2)
+  view, it may be the most satisfying where \\p) refers to the system and |4>)
+  answer yet advanced.                       to the apparatus. In such a state the
+                                               system and apparatus are said to be
+  Quantum theory of measurement                "uncorrelated." For the apparatus to
+      In its simplest form the' quantum        learn something about the system the
+  theory of measurement considers a world      two must be coupled together for a cer-
+  composed of just two dynamical en-           tain period, so that their combined state
+  tities, a system and an apparatus. Both       will not retain the form of equation 2
+  are subject to quantum-mechanical            as time passes. The final result of the
+  Bryce DeWitt is professor of physics at      coupling will be described by the action
+  the University of North Carolina.            of a certain unitary operator U
+
+                                            155
+   156                               BRYCE S. DEWITT
+
+Schrddinger's cat. The animal trapped in a room together with a Geiger counter and a hammer,
+which, upon discharge of the counter, smashes a flask af prussic acid. The counter contains a trace
+of radioactive material—just enough that in one hour there is a 50% chance one of the nuclei will
+decay and therefore an equal chance the cat will be poisoned. At the end of the hour the total wave
+function for the system will have a form in which the living cat and the dead cat are mixed in equal
+portions. Schrodinger felt that the wave mechanics that led to this paradox presented an unaccept-
+able description of reality. However, Everett, Wheeler and Graham's interpretation of quantum me-
+chanics pictures the cats as inhabiting two simultaneous, noninteracting, but equally real worlds.
+
+                 |*,) = U|*„>          (3)         Is this definition adequate?
+     Because the apparatus observes the               This particular choice for U, essen-
+  system and not vice versa, we must               tially formulated by John von Neu-
+  choose a coupling operator U that re-            mann, 1 is frequently criticized because it
+  flects this separation of function. Let          is not sufficiently general and because it
+  U have the following action on the basis         artificially delimits the concept of
+  vectors defined in equation 1 (or on             measurement. Some writers 2 have also
+  some similar basis):                             insisted that the process described by
+                                                   equation 4 merely prepares the system
+         V\s,A) = \s,A + gs) = \s)\A + gs)   (4)
+                                                   and that the measurement is not com-
+  Here, g is a coupling constant, which            plete until a more complicated piece of
+  may be assumed to be adjustable. If              apparatus observes the outcome of the
+  the initial state of the system were |s)         preparation.
+  and that of the apparatus were [A) then             It is perfectly true that laboratory
+  this coupling would be said to result in         measurements are much more compli-
+  an "observation," by the apparatus, that         cated than that described by equation
+  the system observable has the value s.           4 and often involve interactions that do
+  This observation or "measurement,"               not establish precise correlations be-
+  would be regarded as "stored" in the             tween pairs of observables such as s and
+  apparatus "memory" by virtue of the              A. However, apart from such noncor-
+  permanent shift from |A) to \A + gs)             relative interactions, every laboratory
+  in the apparatus state vector.                   measurement consists of one or more
+                          QUANTUM MECHANICS AND REALITY                                157
+
+ sequences of interactions, each essen-           Infinite regression
+ tially of the von Neumann type.                     Consider now what happens to the
+ Although it is only the results of the           initial state vector in equation 2 as a
+  final interactions with the recording de-       result of the measurement process of
+ vices that we usually regard as being            equation -1. I'sing the orthonormality
+ stored, each von Neumann-type "ap-               and assumed completeness of the basis
+ paratus" in every sequence leading to a          vectors, we easily find that
+ final interaction may itself he said to
+ possess a memory, at least momentarily.                     l*i> = £r.W|*[,]>           (S)
+ This memory differs in no fundamental
+ Way from that of the sophisticated auto-
+ maton        (apparatus-plus-memory        se-
+quence) at the end of the line. It is the
+ elementary component that must be un-
+ derstood if we are to understand quan-                  l*[*l) = f\A    + gs)*(A)dA     (7)
+ tum mechanics itself.
+                                                                HA)     = (A #           (8)
+     In his original analysis of the measure-
+ment process, 1 von Neumann assumed               The final state vector in equation 5 does
+that the coupling between system and              not represent the system observable as
+apparatus leaves the system observable            having any unique value—unless, of
+,v undisturbed. Most of his conclusions           course, ip) happens to be one of the
+would have remained unaffected had he             basis vectors s). Rather it is a linear
+removed this restriction, and we arc not          superposition of vectors .?v <!>[«] V each
+making such an assumption here. Al-               of which represents the system observ-
+though measurements of the nondisturh-            able as having assumed one of its pos-
+ ing type do exist, more frequently the           sible values and the apparatus as having
+observable suffers a change. It can               observed that value. For each possi-
+nevertheless be shown* that if suitable           bility the observation will be a good
+devices are used, such as the compensa-           one. that is. capable of distinguishing
+tion devices introduced by Niels Bohr             adjacent values of s, provided
+ and Leon Rosenfeld in their analysis of
+ electromagnetic-field        measurements, 4                     X-i « e±s              (9)
+the apparatus can record what the value           where Ax is the spacing between ad-
+of the system observable would have               jacent values and A.A is the variance in
+ been without the coupling. For this              A about its mean value relative to the
+ reason, we work in a modified version            distribution function <h(A) '-'. Under
+ of the so-called "interaction picture," in       these conditions we have
+ which only that part of the state vector
+ that refers to the apparatus changes dur-                   <*MI*[*'P = «...          (10)
+ ing the coupling interval.                       In other words, the wave function of
+     If the coupling is known, the hypo-          the apparatus takes the form of a packet
+ thetical undisturbed system observable           that is initially single but subsequently
+ may be expressed in terms of the actual          splits, as a result of the coupling to the
+ dynamical variables of system plus ap-           system, into a multitude of mutually
+ paratus. Hence, the operator of which            orthogonal packets, one for each value
+ this observable is an eigenvalue is not          of s.
+ itself hypothetical, and no inconsistency           Here the controversies over the inter-
+ will arise if we take it to be the observable    pretation of quantum mechanics start.
+ to which the label s refers on the right side    For most people, a state like that of
+ of equation 4.                                   equation 5 does not represent the actual
+   158                               BRYCE S. DEWITT
+
+   occurrence of an observation. They con-         ness of an observer is what triggers the
+   ceive the apparatus to have entered a           decision and breaks the chain. 5 Cer-
+   kind of schizophrenic state in which it         tainly the chain had better be broken
+   is unable to decide what value it has           at this point, as the human brain is
+   found for the system observable. At             usually where laboratory-measurement
+   the same time they can not deny that the        sequences terminate. One is reminded
+   coupling chosen between system and              of the sign that used to stand on Presi-
+   apparatus would, in the classical theory,       dent Truman's desk: "The buck stops
+   have led to a definite outcome. They            here."
+   therefore face a crisis. How can they               Wigner does not indulge in mere
+   prod the apparatus into making up its
+                                                   handwaving; he actually sketches a pos-
+   mind?
+                                                   sible mathematical description of the
+      The usual suggestion is to introduce a       conversion from a pure to a mixed state,
+   second apparatus to get at the facts            which might come about as a result of
+   simply by looking at the first apparatus        the grossly nonlinear departures from
+   to see what it has recorded. But an             the normal Schrodinger equation that he
+   analysis carried out along the above lines      believes must occur when conscious
+   quickly shows that the second apparatus         beings enter the picture. He also pro-
+   performs no better than the first. It too        poses that a search be made for unusual
+   goes into a state of schizophrenia. The         effects of consciousness acting on mat-
+   same thing happens with a third ap-             ter/'
+   paratus, and a fourth, and so on. This
+                                                       Another proponent of the change-the-
+   chain, known as "von Neumann's
+   catastrophe of infinite regression," only       rules method is David Bohm. 8,7 Unlike
+   makes the crisis worse.                         Wigner, who does not wish to change
+                                                   the theory below the level of conscious-
+                                                   ness, Bohm and his school want to
+  Change the rules                                 change the foundations so that even the
+     There are essentially three distinct          first apparatus is cured of its schizo-
+  ways of getting out of the crisis. The           phrenia. This they do by introducing
+  first is to change the rules of die game         so-called "hidden variables." Whatever
+  by changing the theory, the object be-           else may be said of hidden-variable
+  ing to break von Neumann's infinite              theories, it must be admitted that they
+  chain. Eugene Wigner is the most dis-            do what they are supposed to. The
+  tinguished proponent of this method.             first such theory'      fact   rked too
+  Taking a remarkably anthropocentric              well; there was no way of dist-nguish-
+  stand, he proposes that the entry of the
+                                                   ing it experimentally from conventional
+  measurement signal into the conscious-
+                                                   quantum mechanics. More recent hid-
+
+                                                                                             .• \
+
+                                                                              tt      (J         '
+
+"The buck stops here." Wigner's solution to the dilemma of the schizophrenic apparatus is to claim
+that the entry of the measurement signal into the consciousness of a human observer triggers the
+decision as to which of the possible outcomes is observed—that is, whether the cat is alive or dead.
+                      QUANTUM MECHANICS AND REALITY                           159
+
+den-variable theories are susceptible to    conditions on its solution by those of
+possible experimental verification (o;      the collapsed state vector. Rohm and
+disproof). 7                                Wigncr try to construct explicit mech-
+                                            anisms for bringing about the collapse,
+The Copenhagen collapse                     but the conventionalists claim that it
+    The second method of escaping the does not matter how the state vector is
+von Neumann catastrophe is to accept collapsed. To them the state vector
+the so-called "conventional," or "Copen- does not represent reality but only an
+hagen," interpretation of quantum algorithm for making statistical predic-
+mechanics.      (Reference 8 contains a tions. In fact, if the measurement in-
+selected list of papers on this topic.) volves a von Neumann chain they are
+In speaking of the adherents of this in- even willing to leave the state vector
+terpretation it is important to distinguish uncollapsed over an arbitrary number of
+the active adherents from the rest, and links, just so long as it is treated as
+to realize that even most textbook au- collapsed somewhere along the line.
+thors are not included among the               The Copenhagen view promotes the
+former.     If a poll were conducted impression that the collapse of the state
+among physicists, the majority would vector, and even the state vector itself,
+profess membership in the conventional- is all in the mind. If this impression is
+ist camp, just as most Americans would correct, then what becomes of reality?
+claim to believe in the Bill of Rights, How can one treat SO cavalierly the
+whether they had ever read it or not. objective world that obviously exists all
+The great difficulty in dealing with the around           Einstein, who opposed to
+activists in this camp is that they too his death the metaphysical solution of
+change the rules of the game but, unlike the Copenhagen school, must surely
+YVignor and Rohm, pretend that they have expressed himself thus in his mo-
+don't.                                      ments of private indignation over the
+    According to the Copenhagen inter- quantum theory. I am convinced that
+pretation of quantum mechanics, when- these sentiments also underlie much of
+ever a state vector attains a form like the current dissatisfaction with the con-
+that in equation 5 it immediately col- ventional interpretation of quantum
+lapses. The wave function, instead of mechanics.
+consisting of a multitude of packets, re-
+duces to a single packet, and the vector Historical interpretations
+  • ,) reduces to a corresponding element      This problem of the physical inter-
+!•«)!*[«] of the superposition. To which pretation of the quantum theory haunted
+element of the superposition it reduces its earliest designers.       In 1925 and
+one can not say. One instead assigns a 1926 Werner Heisenberg had just suc-
+probability distribution to the possible ceeded in breaking the quantum theory
+outcomes, with weights given by             from its moorings to the old quantum
+                                            rules. Through the work of Max Born,
+                  w.-M*                (ID Pascual Jordan, Erwin Schrodinger, P.
+    The collapse of the state vector and \ . M. Dirae and Heisenberg himself,
+the assignment of statistical weights do this theory soon acquired a fully de-
+not follow from the Schrodinger equa- veloped mathematical formalism. The
+tion, which generates the operator U challenge then arose of elucidating the
+ (equation 4 ) . They are consequences physical interpretation of this formalism
+of an external a priori metaphysics, independently of anything that had
+which is allowed to intervene at this gone on before.
+point and suspend the Schrodinger              Heisenberg attempted to meet this
+equation, or rather replace the boundary challenge       by   inventing    numerous
+160                            BRYCE S. DEWITT
+
+                                                                     11
+ thought experiments, each of which ment of John Wheeler and has been
+ was subjected to the question: "Can subsequently elaborated by R. Neill
+                                                     12
+ it be described by the formalism?" He Graham.           It constitutes the third way
+ conjectured that the set of experiments of getting out of the crisis posed by
+ for which the answer is "yes" is identi- the catastrophe of infinite regression.
+ cal to the set permitted by nature."          Everett,   Wheeler       and   Graham
+ To put the question in its most ex- ( E W G ) postulate that the real world,
+ treme form in each case meant describ- or any isolated part of it one may wish
+ ing the complete experiment, including for the moment to regard as the world,
+ the measuring apparatus itself, in is faithfully represented solely by the
+ quantum-mechanical terms.                  following mathematical objects: a vec-
+    At this point Bohr entered the picture tor in a Hilbert space; a set of dy-
+ and deflected Heisenberg somewhat namical equations (derived from a
+from his original program. Bohr con- variational principle) for a set of opera-
+vinced Heisenberg and most other tors that act on the Hilbert space, and a
+physicists that quantum mechanics has set of commutation relations for the
+ no meaning in the absence of a classical operators (derived from the Poisson
+ realm capable of unambiguously record- brackets of the classical theory by the
+ ing the results of observations. The quantization rule, where classical ana-
+ mixture of metaphysics with physics, logs exist). Only one additional postu-
+ which this notion entailed, led to the late is then needed to give physical
+ almost universal belief that the chief meaning to the mathematics. This is
+issues of interpretation are epistemo- the postulate of complexity: The world
+Iogical rather than ontological:      The must be sufficiently complicated that
+quantum realm must be viewed as a it be decomposable into systems and
+kind of ghostly world whose symbols, apparatuses.
+such as the wave function, represent          Without drawing on any external
+potentiality rather than reality.          metaphysics or mathematics other than
+                                           the standard rules of logic, EWG are
+The EWG metatheorem                        able, from these postulates, to prove
+    What if we forgot all metaphysical the following          metatheorem:        The
+ideas and started over again at the mathematical formalism of the quantum
+point where Heisenberg found himself theory is capable of yielding its own in-
+in 1925? Of course we can not forget terpretation.          To prove this meta-
+everything; we will inevitably use 45 theorem, EWG must answer two ques-
+years of hindsight in attempting to re- tions:
+structure our interpretation of quantum • How can the conventional probability
+mechanics. Let us nevertheless try         interpretation of quantum mechanics
+• to take the mathematical formalism emerge from the formalism itself?
+of quantum mechanics as it stands with- • How can any correspondence with
+out adding anything to it                  reality be achieved if the state vector
+• to deny the existence of a separate never collapses?
+classical realm
+• to assert that the state vector never
+collapses.                                 Absolute chance
+    In other words, what if we assert that     Before giving the answers to these
+the formalism is all, that nothing else questions, let us note that the conven-
+is needed? Can we get away with it? tional interpretation of quantum me-
+The answer is that we can. The proof chanics confuses two concepts that really
+of this assertion was first given in 1957 ought to be kept distinct—probability as
+by Hugh Everett 1 " with the encourage- it relates to quantum mechanics and
+                         QUANTUM MECHANICS AND REALITY                          161
+
+probability as it is understood in sta-    friend, described by Wigner, 5 who is
+tistical mechanics. Quantum mechan-        hanging in suspended animation be-
+ics is a theory that attempts to de-       tween only two possible outcomes of a
+scribe in mathematical language a world    quantum measurement. Here we must
+in which chance is not a measure of our    surely protest. None of us feels like
+ignorance but is absolute. It          mustWigner's friend. We do not split in
+inevitably lead to states, like that of    two, let alone into 10 1 0 0 +! To this
+equation 5, that undergo multiple fis-     EWG reply: To the extent that we
+sion, corresponding to the many pos-       can be regarded simply as automata
+sible outcomes of a given measurement.     and hence on a par with ordinary
+Such behavior is built into the formal-    measuring apparatuses, the laws of
+ism. However, precisely because quan-      quantum mechanics do not allow us to
+tum-mechanical chance is not a mea-        feel the splits.
+sure of our ignorance, we ought not to        A good way to prove this assertion is
+tamper with the state vector merely be-    to begin by asking what would happen,
+cause we acquire new information as a      in the case of the measurement de-
+result of a measurement.                   scribed earlier by equations 4 and 5,
+   The obstacle to taking such a lofty     if one introduced a second apparatus
+view of things, of course, is that it      that not only looks at the memory
+forces us to believe in the reality of     bank of the first apparatus but also
+all the simultaneous worlds represented    carries out an independent direct check
+in the superposition described by equa-    on the value of the system observable.
+tion 5, in each of which the measure-      If the splitting of the universe is to be
+ment has yielded a different outcome.      unobservable the results had better
+Nevertheless, this is precisely what       agree.
+ EWG would have us believe. Accord-           The couplings necessary to ac-
+ ing to them the real universe is faithfully
+                                           complish the desired measurements are
+ represented by a state vector similar to  readily set up. The final result is as
+thai in equation 5 but of vastly greater   follows (see reference 13): The state
+complexity. This universe is constantly    vector at the end of the coupling in-
+splitting into a stupendous number of      terval again takes the form of a linear
+branches, all resulting from the measure-  superposition of vectors, each of which
+mentlike interactions between its myr-     represents the system observable as
+iads of components. Moreover, every        having assumed one of its possible
+quantum transition taking place on         values.    Although the value varies
+every star, in eveiy galaxy, in every re-  from one element of the superposition
+mote comer of the universe is splitting    to another, not only do both apparatuses
+our local world on earth into myriads of   within a given element observe the
+copies of itself.                          value appropriate to that element, but
+                                           also, by straightforward communication,
+A splitting universe                       they agree that the results of their ob-
+   I still recall vividly the shock I ex- servations are identical. The splitting
+perienced on first encountering this into branches is thus unobserved.
+multiworld concept. The idea of 10 I 0 O +
+slightly imperfect copies of oneself all Probability interpretation
+constantly splitting into further copies,     We must still discuss the questions
+which ultimately become unrecogniz- of the coefficients c, in equations 5 and
+able, is not easy to reconcile with com- 6. EWG give no a priori interpretation
+mon sense. Here is schizophrenia with lo these coefficients. In order to find
+a vengeance. How pale in comparison an interpretation they introduce an ap-
+is the mental state of the imaginary paratus that makes repeated measure-
+  162                                         BRYCE S. DEWITT
+
+The Copenhagen collapse. This interpretation pictures the total wave function as collapsing to one
+state of the superposition and assigns a probability that the wave function will collapse to a given
+state- Only for repetition on an ensemble of cats would live and dead cats be equally real.
+
+ incuts on an ensemble <>f identical sys-                   the apparatus does not generally record
+ tems in identical states. The initial                      a sequence of identical values for the
+ state then has the form                                    system observable, even within a single
+                                                            element of the superposition of equation
+              !*«> = k * > . . . | * )               (12)   16. Each memory sequence S|,s.,, . . .
+ where                                                      s'v yields a certain distribution of pos-
+                                                            sible values for the system observable,
+             (s\t,) = C.         for .ill i          (13)   and each distribution may be subjected
+ and the successive measurements are                        to a statistical analysis. The first and
+                                                            simplest part of such an analysis is the
+ described in terms of basis vectors
+                                                            calculation of the relative frequency
+                h)h>...|.'l ,..<!,        )          (M)    function of the distribution:
+                                                                                           i      x
+ If the apparatus observes each system
+ exactly once, in sequence, then the ;ith                           /'O.      >.v> -       .. £ « , . „      (19)
+                                                                                       "        0 = 1
+ measurement is represented by a unitary
+ transition of the form                                     Let us introduce the function
+
+ U„(i<,)|> ; )...|/l,.,l,,     .,1        > =               «(•',...v.v) = £[/(<;>,            »vi - « . p   (20)
+    ki>ks)...M„^s              i*+.v               > (i5)   where the it's are any positive numbers
+     After N measurements the stale vec-                    that add up to unity. This is the first
+  tor in equation 12 is changed to                          ol a hierarchy of functions that measure
+                                                            the degree to which the sequence v, . . .
+  M = £fA...WW-                                             s.v deviates from a random sequence
+                                                            with weights w,. Let us choose for the
+                              |*l*„fa.. .*,]>        (16)   w's the numbers defined in equation
+  where                                                      11. and let us introduce an arbitrarily
+                                                            small positive number e. We shall call
+ |*IW*...)> = ,                                             the sequence S, . . . S.v "first random" if
+    fdA, y v , l , . . . | , i , + »*,.,i,+ .'«,....)       8(*| • . . s.v) < t and "non-first-ran-
+                                                            dom" otherwise.
+                               •f(.4,..l,...)        (17;
+                                                               Suppose now we remove from the
+          'H.I,..'!,. . . I = <.),..I..       *)     (18)
+                                                            superposition of equation 16 all those
+   Although every system is initially in                    elements for which the apparatus mem-
+ exactly the same state as every other.                     ory sequence is non-first-random. De-
+                        QUANTUM MECHANICS AND REALITY                              163
+
+nolo the result by I***) . This vector          The problem that this objection raises
+has the remarkable property that it dif- is like many that have arisen in the
+ fers negligibly from * Y ) in the limit long history of probability theory. Actu-
+ •V —» oo . More precisely.                  ally, E W C do not in the end exclude
+                                             any clement of the superposition. All
+Lim l*.v> - |*.v*» = 0
+N-+ e                                        the worlds are there, even those in
+                                             which everything goes wrong and all
+                         for all e > 'I (21)
+                                             the statistical laws break down. The
+A proof will be found-in reference 13,       situation is no different from that which
+    A similar result is obtained if |*.v'>   we face in ordinary statistical mechanics.
+is redefined by excluding, in addition, If the initial conditions were right, the
+elements of the superposition whose universe-as-we-see-it could be a place in
+memory sequences fail to meet any which heat sometimes flows from cold
+finite combination of the infinity of bodies to hot. We can perhaps argue
+other requirements for a random se- that in those branches in which the uni-
+quence. The conventional probability verse makes a habit of misbehaving in
+interpretation of quantum mechanics this way, life fails to evolve; so no intel-
+thus emerges from the formalism it- ligent automata are around to be
+self. .Nonrandom memory sequences in amazed by it.
+equation 16 are of measure zero in the          It is also possible that maverick
+Hilbert space, in the limit as N goes to worlds are simply absent from the grand
+infinity. Each automaton in the super- superposition. This could be the case if
+position sees the world obeying the ordinary three-space is compact and
+familiar statistical quantum laws. How- the universe is finite. The wave func-
+ever, there exists no outside agency that tion of a finite universe must itself con-
+can designate which branch of the tain only a finite number of branches.
+superposition is to be regarded as the It simply may not have enough fine
+real world. All are equally real, and structure to accommodate maverick
+yet each is unaware of the others. worlds. The extreme smallness of the
+These conclusions obviously admit of portion of Hilbert space that such
+immediate extension to the world of worlds would have to occupy becomes
+cosmology. Its state vector is like a obvious when one compares the length
+ tree with an enormous number of of a Poincare cycle, for even a small
+branches. Each branch corresponds to portion of the universe, to a typical
+a possible universe-as-we-actually-see-it. cosmological time scale.
+Maverick worlds                             Questions of practicality
+   The alert reader may now object that        The concept of a universal wave
+the above argument is circular, that in     function leads to important questions
+order to derive the physical probability    regarding the practical application of
+interpretation of quantum mechanics,        the quantum-mechanical formalism. If
+based on sequences of observations, we      I am part of the universe, how does it
+have introduced a nonphysical prob-         happen that I am able, without running
+ability concept, namely that of the         into inconsistencies, to include as much
+measure of a subspace in Hilbert space.     or as little as I like of the real world of
+This concept is alien to experimental       cosmology in my state vector? Why
+physics because it involves many ele-        should I be so fortunate as to be able, in
+ments of the superposition at once, and      practice, to avoid dealing with the state
+hence many simultaneous worlds, that         vector of the universe?
+are supposed to be unaware of one an-          The answer to these questions is to b e
+other.                                       found in the statistical implications of
+164                                BRYCE S. DEWITT
+
+sequences of measurements of the kind         tion 10, we shall find for the average
+that led us to the state vector of equa-      of r in this case
+tion 16. Consider one of the memory
+sequences in this state vector. This                <r> = <*,|r|*,> = £ wM*\s)       (27)
+memory sequence defines an average
+value for the system observable, given
+by                                                The averages in equations 26 and 27
+                                              are generally not equal. In equation
+                                              27, the measurement of s, which the
+                   j
+                                              first apparatus has performed, has de-
+If the sequence is random, as it is in-       stroyed the quantum interference effects
+creasingly likely to be when N becomes        that are still present in equation 26.
+large, this average will differ only by       Thus the elements of the superposition
+an amount of order t from the average         in equation 5 may be treated as if
+                                              they were members of a statistical en-
+              <*> - E ««.              (23)   semble.
+                                                  This result is what allows us, in prac-
+But the latter average may also be ex-        tice, to collapse the state vector after
+pressed in the form                           a measurement has occurred, and to
+                                              use the techniques of ordinary statistical
+               <*> = <*!•!*>          (24)
+                                              mechanics, in which we change the
+where If) is the initial state vector of      boundary conditions upon receipt of
+any one of the identical systems and          new information. It is also what permits
+s is the operator of which the s's are the    us to introduce systems having well
+eigenvalues. In this form the basis           defined initial states, without at the
+vectors |s) do not appear. Had we             same time introducing the apparatuses
+chosen to introduce a different appara-       that prepared the systems in those states.
+tus, designed to measure some observ-         In brief, it is what allows us to start
+able r not equal to s, a sequence of re-      at any point in any branch of the uni-
+peated measurements would            have     versal state vector without worrying
+yielded in this case an average approxi-      about      previous     or    simultaneous
+mately equal to                               branches.
+                                                  We may, in principle, restore the in-
+              <r> = <*|r|*>       (25)        terference effects of equation 26 by
+In terms of the basis vectors Is) this        bringing the apparatus packets back
+average is given by                           together again. But then the correla-
+                                              tions between system and apparatus are
+          (r) = E c.*(s\r\s')c..       (26)   destroyed, the apparatus memory is
+                                              wiped out and no measurement results.
+   Now suppose that we first measure s        If one attempts to maintain the correla-
+and then perform a statistical analysis       tions by sneaking in a second apparatus
+on r. We introduce a second apparatus         to "have a look" before the packets are
+that performs a sequence of observations      brought back together, then the state
+on a set of identical two-component           vector of the second apparatus must be
+systems all in identical states given by      introduced, and the separation of its
+the vector | * , ) of equation 5. Each of     packets will destroy the interference
+the latter systems is composed of one         effects.
+of the original systems together with an
+apparatus that has just measured the          Final assessment
+observable s. In view of the packet             Clearly the EWG view of quantum
+orthogonality relations, given by equa-       mechanics leads to experimental pre-
+                        QUANTUM MECHANICS AND REALITY                               165
+
+dictions identical with those of the           2. H. Margenau, Phil. Sci. 4, 337 (1937);
+Copenhagen view. This, of course, is              PHYSICS TODAY 7, no. 10, 6 (1954).
+its major weakness. Like the original          3. B. S. DeWitt, Dynamical Theory of
+Rohm theory 6 it can never receive op-            Groups and Fields, Gordon and Breach,
+erational support in the laboratory. No           New York (1965), pp. 16-29.
+experiment can reveal the existence of         4. N. Bohr, L. Rosenfeld, Kgl. Danske
+the "other worlds" in a superposition             Videnskab. Selskab, Mat.-Fys. Medd.
+like that in equations 5 and 16. How-             12, no. 8 (1933).
+ever, the EWG theory does have the             5. E. P. Wigner, "Remarks on the Mind-
+pedagogical merit of bringing most of             Body Question," in The Scientist
+the fundamental issues of measurement             Speculates (I. J. Good, ed), William
+                                                  Heinemann Ltd, London (1961). Re-
+theory clearly into the foreground, and           printed in E. P. Wigner, Symmetries
+hence of providing a useful framework             and Reflections, Indiana University
+for discussion.                                   Press, Bloomington (1967).
+   Moreover a decision between the two         6. D. Bohm, Phys. Rev. 85, 166 and 180
+interpretations may ultimately be made            (1952); 87, 389 (1952); 89, 319 and
+on grounds other than direct laboratory           458 (1953).
+experimentation. For example, in the           7. D. Bohm, J. Bub, Rev. Mod. Phys. 38,
+very early moments of the universe,               453 and 470 (1966).
+during the cosmological "Big Bang,"            8. A. Petersen, Quantum Physics and the
+the universal wave function may have              Philosophical Tradition, MIT Press,
+possessed an overall coherence as yet             Cambridge (1968).
+unimpaired by condensation into non-           9. W. Heisenberg, "Quantum Theory and
+interfering branches. Such initial co-            Its Interpretation," in Nieb Bohr (S.
+herence may have testable implications            Rozental, ed), North Holland, Wiley,
+for cosmology.                                    New York (1967).
+   Finally, the EWG interpretation of         10. H. Everett III, Rev. Mod. Phys. 29,
+quantum mechanics has an important                454 (1957).
+contribution to make to the philosophy        11. J. A. Wheeler, Rev. Mod. Phys. 29,
+of science. By showing that formalism             463. (1957).
+alone is sufficient to generate interpre-     12. R. N. Graham, PhD thesis, University
+tation, it has breathed new life into the         of North Carolina (in preparation).
+old idea of a direct correspondence be-       13. B. S. DeWitt, "The Everett-Wheeler
+tween formalism and reality.         The          Interpretation of Quantum Mechanics,"
+                                                  in Battelte Rencontres, 1967 Lectures
+reality implied here is admittedly biz-           in Mathematics and Physics (C. De-
+arre. To anyone who is awestruck by               Witt, J. A. Wheeler, eds), W. A. Ben-
+the vastness of the presently known               jamin Inc., New York (1968).        •
+universe, the view from where Everett,
+Wheeler and Graham sit is truly im-
+ pressive. Yet it is a completely causal
+view, which even Einstein might have
+accepted. At any rate, it has a better
+claim than most to be the natural end
+product of the interpretation program
+ begun by Heisenberg in 1925.
+References
+ 1. J. von Neumann, Mathematical Foun-
+    dations of Quantum Mechanics, Prince-
+    ton University Press, Princeton (1955).
+

@@ -1,0 +1,364 @@
+I—
+
+
+
+
+     88    A Survey of Physical Theory
+
+     of action should be introduced cannot be exactly defined. No
+     wonder, therefore, that the classical theories even now oppose
+     with all their might the recognition of this intruder, and that
+     years must elapse before the dual assimilation process is
+     complete.
+        There can be no doubt that the time will come when the                The Nature of Light
+     chemical atomic weights, as well as the elementary quantum of
+     action, whatever its name or form, will constitute an integral
+     part of general dynamics. Then physical research will be unable
+     to rest until the theory of heat and radiation has been welded             One of the most important branches of work of this society
+     into one united theory with mechanics and electro-dynamics.             (the Kaiser-Wilhelm-Gesellschafi) is the maintenance of a research
+                                                                             laboratory for natural science. The society has, however, dis-
+     /•4t> = MecffVAllC^ ^Mb EMeR&y-                                         covered the old truism that in its own sphere, as in all spheres of
+                                                                             work, knowledge must precede application, and the more
+                                                                             detailed our knowledge of any branch of physics, the richer and
+                                                                             more lasting will be the results which we can draw from that
+                                                                             knowledge.
+                                                                               In this respect, of all the branches of physics, there is no
+                                                                            doubt that it is in optics that research work is most advanced,
+                                                                            and, therefore, I am going to speak to you about the Nature of
+                                                                            Light. I shall doubtless mention much that is familiar to each of
+                                                                            you, but I shall also deal with newer problems still awaiting
+                                                                            solution.
+                                                                               The first problem of physical optics, the condition necessary
+                                                                           for the possibility of a true physical theory of light, is the
+                                                                            analysis of all the complex phenomena connected with light,
+                                                                            into objective and subjective parts. The first deals with those
+                                                                           phenomena which are outside, and independent of, the organ of
+                                                                           sight, the eye. It is the so-called light rays which constitute the
+                                                                           domain of physical research. The second part embraces the inner
+                                                                           phenomena, from eye to brain, and this leads us into the realms
+                                                                           of physiology and psychology. It is not at all self-evident, from
+                                                                           first principles, that the objective light rays can be completely
+                                                                           separated from the sight sense, and that such a fundamental
+                                                                           separation involves very difficult thinking cannot better be
+                                                                           proved than by the following fact. Johann Wolfgang von
+                                                                           Goethe was gifted with a very scientific mind (though little
+                                                                           inclined to consider analytical methods), and would never see a
+
+
+
+
+                                                                       i
+     90     A Survey of Physical Theory                                                                                     The Nature of Light    91
+
+     detail without considering the whole, yet he definitely refused,           surrounding a sounding instrument or the surface of water into
+     a hundred years ago, to recognize this difference. Indeed, what            which a stone has been thrown. It is not the air or water par-
+     assertion could give a greater impression of certainty to the              ticles themselves that spread out in all directions with equal
+     unprejudiced than to say that light without the perceptive                 velocity, but the intensification and rarefaction, or wave crests
+     organ is inconceivable ? But, the meaning of the word light in             and troughs; in other words, it is not with matter itself, but
+     this connection, to give it an interpretation that is unassailable,        with a certain state of matter that we are concerned. T o this
+     is quite different from the light ray of the physicist. T h o u g h the    end, Huygens formulated an ideal substance, uniformly occupy-
+     n a m e has been retained for simplicity, the physical theory of           ing all space, as a foundation for his theory. This is the light-
+     light or optics, in its most general sense, has as little to do with       ether, the waves of which produce light perceptions in the eye,
+     the eye and light perceptions as the theory of the pendulum has            as air waves give rise to sound perceptions in the ear. T h e
+     to do with sound perception. This ignoring of the sense-                   wave-length or frequency determines the colour in the same
+     perceptions, this restricting to objective real phenomena, which           m a n n e r as it determines the pitch in sound. After a bitter con-
+     doubtless, from the point of view of immediate interest, means a           troversy, Huygens's theory ultimately superseded that of
+     considerable sacrifice made to pure knowledge, has prepared a              Newton. This was due to the fact, amongst many others, that
+     way for a great extension of the theory. This theory has sur-              when two light rays of the same colour are superposed and m a d e
+     passed all expectations, and yielded important results for the             to travel on the same path, the intensities are not always simply
+     practical needs of mankind.                                                additive, but under certain conditions the intensity is decreased
+        A very significant discovery relating to the physical nature of         and may even vanish. This last phenomenon, interferencej can
+     light rays was that light, emanating from stars or terrestrial             be straightway explained on Huygens's assumption that in every
+     sources, takes a certain measurable time to travel from the                case the wave crests of one ray coincide with the wave troughs
+     position of the source to the place at which it is observed. W h a t       of the other ray. Newton's emanation theory naturally con-
+     is this something which spreads through empty space and                    tradicts this, since it is impossible for two similar corpuscles
+     moves through the atmosphere at the enormous speed of                      travelling with the same speed in the same direction to neutralize
+     300,000 kilometres per second? Isaac Newton, the founder of                one another.
+                                                                                                                                                        V    $
+¥    classical mechanics, made the most simple and obvious assump-                    A more significant fundamental view of the nature of light
+V    tion that there are certain infinitesimally small corpuscles which
+     are sent out in all directions with that velocity from a source of
+                                                                                   was obtained through the discovery of the identity of light and
+                                                                                   heat rays, and this was the first step on the way towards the
+     light, e.g. a glowing body. These particles are different for                 complete separation of the science from the sense-perceptions.
+     different colours. This provides a striking proof that a high               I T h e cold light rays of the moon are physically of exactly the
+     authority can exercise a hindrance to the development of even
+                                                                                f same nature as the black heat rays emitted from a stove, except
+     this most exact of all natural sciences, for Newton's emanation
+                                                                                I that they are of much shorter wavelength. It is only natural
+     theory was able to hold the field for a whole century, although           !
+                                                                                   that this assertion at first excited much discussion, and it is
+     another distinguished investigator, Christian Huygens, had
+                                                                                   characteristic that Melloni, who played a great part in the           !
+     from the first opposed it with his much more suitable undula-
+y-   tion theory. Huygens did not place the velocity of light on a par
+                                                                                   verification of this fact, set out originally to disprove it. It must
+                                                                                   be remembered that here, as in all inductive results, a logical l
+     with that of wind, as Newton did, but on a par with the velocity
+                                                                                   and conclusive proof cannot be given; it can only be shown that '"•
+     of sound, in which the velocity of propagation is something
+                                                                                   all-laws which hold for light rays^ namely those of reflection,
+     quite different from that of air movements. Consider the air
+                                                                                   refraction, interference, polarization, dispersion, emission, and
+     92     A Survey of Physical Theory                                                                                  The Nature of Light   93
+     absorption, are also true for heat rays. Whoever refuses to                velocity of 300,000 kilometres per second, and the coincidence of
+     admit the identity of the two kinds of rays in spite of this, could         this figure, obtained from purely electrical measurements, with
+     certainly never be accused on this account of a logical fallacy;           the magnitude of the velocity of light, led him to consider light
+     for he would always maintain that it is still possible in the future       as an electro-magnetic disturbance. T h e only proof of the
+     for an essential difference to be discovered. T h e practical              correctness of this view lies in the fact that all deductions m a d e
+     weakness of his position is that he is, consequently, compelled to         from it agree with observation. T h e fundamental advance asso-
+     renounce a series of important conclusions immediately de-                 ciated with his suggestion lies in the enormous simplification of
+     duced from the theory of identity. H e cannot, for example,                the theory and in the n u m b e r of results that can be immediately
+     maintain that moonbeams also carry heat, though this fact                  derived from it.
+     would, at present, appear indubitable to all rational physicists,
+                                                                                   Now, the nature of electro-magnetic phenomena is no more
+     though it has not been specifically proved.
+                                                                                intelligible than that of optical phenomena. To belittle the
+        Having accepted the identity of light and heat rays, there is           electro-magnetic theory of light, on the ground that it simply
+     no difficulty in connecting the infra-red rays with the chemically         replaces one riddle by another, is to misunderstand the meaning
+     active ultra-violet rays at the other end of the spectrum. It was      \^ of the theory. For its importance rests on the fact that it unites
+     some time later that it was realized that this connection of               two branches of physics, which previously had to be treated as A     w*
+     different kinds of rays was capable of great extension, on both            independent, and that, therefore, all theorems which are valid
+     sides of the spectrum. Before such an advance could come about,           for one branch, are applicable to the other—a result which the
+     as a preliminary, a transition from the mechanical to the electro-        mechanical theory of light did not, and could not, give. Before
+     magnetic theory of light was necessary.                                   the introduction of the electro-magnetic theory, physics was
+        In spite of diversity of view, Newton, Huygens, and all their          divided into three separate branches—mechanics, optics, and
+     immediate successors were agreed that the clear understanding             electro-dynamics, and the unification of these is the ultimate
+     of the nature of light must be sought in the fundamentals of              and greatest aim of physical research. T h o u g h optics cannot be
+     mechanical science, and this point of view was greatly stimulated         associated with mechanics, it combines completely with electro-
+     by the strengthening of the mechanical theory of heat due to the          dynamics, and thus the number of independent branches has
+J$   discovery of the principle of conservation of energy. It is neces-        been reduced to two—the penultimate step towards the unifica-
+     sary for the explanation of polarization that ether oscillations          tion of the physical world picture. When and how the last step
+                                                                                                                                                      #.v*
+     are not longitudinal, moving in the direction of propaga-                 will be made, the linking up of mechanics and electro-dynamics,
+     tion, like air movements in a pipe, but are transversal, perpen-          cannot be said, and though many clever physicists are at present
+     dicular to the direction of propagation, like those of a violin           occupied with this question, the time does not yet seem ripe for tr-
+     string. But one could get no nearer the nature of these oscilla-          the solution. However, the original mechanical comprehension
+     tions from the laws of mechanics and elasticity. The more                 of Nature, which will allow the coalescing of mechanics and
+     elaborate the hypotheses founded on the mechanical theory of              electro-dynamics, has now been thrust into the background in
+     light, whether ether was assumed to be continuous or atomic,              the minds of most physicists, since it regards ether, or, if ether is
+     the more evident became this inadequacy. At this stage, in the            not sufficient, some substitute as the medium of all electrical
+     middle of the last century, came James Clerk Maxwell, with his            phenomena. T h a t which has harmed it most is the result,
+     bold hypothesis that light was electro-magnetic. His theory of            deduced from Einstein's theory of relativity, that there can be
+     electricity led him to the conclusion that every electrical distur-
+     bance moved from its source through space in waves with a
+                                                                               no objective substantial ether, i.e. one independent of the
+                                                                               observer. For, if that were not so, then when we consider two
+                                                                                                                                                    ie
+                                                                                                                                                h A ':>
+    94     A Survey of Physical Theory
+                                                                                                                     The Mature of Light     95
+     observers moving relative to one another in space, one at most
+                                                                           of ideas which lead to progress. For this, not only understanding,
+    could correctly assert that he was at rest relative to the ether,
+                                                                           b u t also imagination is necessary. As it is, the mechanical theory
+    whereas, by the theory of relativity, each of the two could do so
+                                                                           of light has done its duty. Without it the present brilliant results
+    equally correctlyi
+                                                                           of optics would not have been obtained so quickly.
+       W h a t Maxwell could only prophecy, Heinrich Hertz was
+                                                                               Huygens's undulation theory has not been essentially altered /
+    able to verify a generation later, when he showed how to
+                                                                           by the electro-magnetic hypothesis, when it states that any
+    produce the electro-magnetic waves calculated by Maxwell, and
+                                                                           disturbance spreads out from its source in concentric spherical
+    thereby ensured the final acceptance of the electro-magnetic
+                                                                           waves. But it is electro-magnetic energy and not mechanical
+    theory of light, according to which electric waves only differ
+                                                                           energy that is sent out, for an oscillating electric and magnetic
+    from heat and light rays in that they have very much greater
+                                                                           field of force appears in place of periodic vibrations of the ether.
+    wave-length. If the optical spectrum were extended on the side
+                                                                               Considered from this advanced point of view, the study of
+    of the slow oscillations in a manner u n d r e a m t of at one time,
+                                                                           light, or, as it is often more exactly called, the study of radiant
+    the extension would be of equal importance with that made on
+                                                                           energy, gives us a picture of a gigantic co-ordinated structure,
+    the other side of the spectrum through the discovery of the
+                                                                           unified and completed. In this, all electro-magnetic oscillations,
+    Rontgen rays and the appreciably faster so-called G a m m a rays
+                                                                           though apparently of very different kinds, find their proper
+    of radio-active substances. These rays, too, have the character of
+                                                                           positions, and all are governed by the same laws of propagation,
+    light waves, and are electro-magnetic oscillations, but have a
+                                                                           following Huygens's wave theory. O n the one hand, we have the
+    very much shorter wave-length. Laue's very recent discovery of
+                                                                           Hertzian waves a kilometre long; on the other, the hard G a m m a
+    interference phenomena with Rontgen rays has confirmed the
+                                                                           rays, with many milliards of waves to the centimetre. T h e
+    belief that they obey the same laws. It is remarkable how simply
+                                                                           h u m a n eye has no place in this, it appears merely as an accidental
+    and quietly the transition from the mechanical to the electro-
+                                                                           and, although very delicate, a very limited piece of apparatus,
+    magnetic theory was m a d e in physical literature. This is a good
+                                                                           for it can only perceive rays within a small spectral range of
+    example of the fact that the kernel of a physical theory is not the
+                                                                           hardly an octave. Instead of the eye, special pieces of apparatus
+    observations on which it is built, but the laws to which they give
+                                                                           have been devised for receiving and measuring the different
+    rise. T h e fundamental equations of optics remain unaltered:
+                                                                           wave-lengths of the remainder of the spectrum. Such instru-
+    they have always been in agreement with observation, but they
+                                                                           ments are the wave detector, thermocouple, bolometer, radiom-
+    are no longer to be interpreted mechanically (although they
+                                                                           eter, photographic plate, and the ionic cell. Thus, in optics,
+    were thus derived) but electro-magnetically, and this has
+                                                                           the separation of the physical foundations from the sense-
+    increased enormously their range of application.
+                                                                           perceptions has been accomplished in exactly the same way as in
+        This is not the first time that an important goal has been         mechanics, where the conception of force has long lost its con-
+    reached by a path which has afterwards been proved to be               nection with the idea of muscular strength.
+    untrustworthy. It would have been possible to seek a solution by
+                                                                               If I had delivered my lecture twenty years ago, I could have
+    supposing that the theory would have been better had it
+                                                                           stopped here, for no further fundamental discoveries had then
+    abstained, in general, from making special hypotheses, based on
+                                                                           been made, and the imposing picture described above would
+    immediate observations, and to limit oneself to the pure facts,
+                                                                           have been a good conclusion which would have made modern
+    i.e. to the results of measurements. However, the theory would
+                                                                           physics famous. But probably I should not then have delivered
+    thus surrender the most important aid, absolutely necessary to
+                                                                           this lecture, fearing that I should be able to present to you too
+    its development, namely, the setting up and consistent expansion
+                                                                           little that was new. To-day it has become quite otherwise, for,
+
+
+~*TJ#
+            96        yl Survey of Physical Theory                                                                              The Mature of Light      97
+
+            since that time, the picture has been essentially changed. T h e        according to Huygens's wave theory. However, if it is assumed
+            proud structure, which I have just described to you, has recently       that the light source does not emit its rays uniformly but in
+            revealed certain fundamental weaknesses, and not a few physi-           impulses, something like an intermittent light, it follows that the
+            cists maintain that new foundations are required already. T h e         energy of such a flash, spreading outwards in all directions in
+            electro-magnetic theory must always remain untouched, but               uniform waves, would finally be distributed over the surface of a
+            Huygens's wave theory is seriously threatened, at least in one          sphere so large that the metal considered would receive but
+            essential detail, due to the discovery of certain new facts.            little of it. It is easy to calculate that under certain circumstances
+            Instead of collecting as many as possible of the multifarious           radiation extending for minutes, even hours, would be necessary
+            facts available, I shall simple examine one of them in detail.          for the liberation of one electron with the velocity corresponding
+               W h e n ultra-violet rays fall on a piece of metal in a vacuum, a    to the colour of the light, while, in fact, no limiting condition
+            large number of electrons are shot off from the metal at a high         can be determined, for the duration of radiation necessary to
+            velocity, and since the magnitude of this velocity does not             produce the effects; the action certainly takes place with great
+            essentially depend on the state of the metal, certainly not on its      rapidity. Like ultra-violet rays, Rontgen rays and G a m m a rays
+            temperature, it is concluded that the energy of the electrons is        give us the same effect, though, owing to the very much shorter
+            not derived from the metal, but from the light rays which fall on       wave-lengths of these rays, the velocities of the liberated
+            the metal. This would not be strange in itself; it would even be        electrons are much greater.
+            assumed that the electro-magnetic energy of light waves, is                T h e only possible explanation for these peculiar facts appears
+            transformed into the kinetic energy of electronic movements.            to be t h a t the energy radiated from the source of light remains,
+            An apparently insuperable difficulty from the view of Huygens's         not only for all time, but also throughout all space, concentrated
+
+ J/         wave theory is the fact (which was discovered by Philipp
+            Lenard and others), that the velocity of the electrons does not
+            depend on the intensity of the beam, but only on the wave-
+                                                                                    in certain bundles, or, in other words, that light.energy does not
+                                                                                    spread out quite uniformly in all directions, becoming con-
+                                                                                    tinuously less intense, but always remains concentrated in cer-
+            length, i.e. on the colour of light used. T h e velocity increases as   tain definite q u a n t a , depending only on the colour, and that
+            the wave-length diminishes. If the distance between the metal           these quanta move in all directions with the velocity of light.
+            and the source of light is continuously increased, using, for           Such a light-quantum, striking the metal, communicates its
+            example, an electric spark as the source of light, the electrons        energy to an electron, and the energy always remains the same,
+            continue to be flung off with the same velocity, in spite of the        however great the distance from the source of light.
+            weakening of the illumination; the only difference is that the             Here we have Newton's emanation theory resurrected in
+            number of electrons thrown off per second decreases with                another and modified form. But interference, which was a bar to
+            the intensity of the light.                                             the further development of Newton's emanation theory, is also
+               The difficulty is to state whence the electron obtains its           an enormous difficulty in the q u a n t u m theory of light, for it is
+*..;• .v.
+            energy, when the distance of the source of light becomes                difficult at present to see how two exactly similar light q u a n t a ,
+V           ultimately so great that the intensity of the light almost vanishes,    moving independently in space, and meeting on a common
+            and yet the electrons show no sign of diminution in their               path, can neutralize each other, without violating the principle
+            velocity. This must evidently be a case of a kind of accumula-          of energy.
+            tion of light energy at the spot from which the electron is flung          From this state of affairs arose the pressing need of the
+            out—an accumulation which is quite contrary to the uniform              radiation theory for an investigation to find some way out of
+            spreading out in all directions of electro-magnetic energy              this dilemma, difficult from all sides. A natural assumption to
+                 AV
+
+
+            •    ^f
+98     A Survey of Physical Theory                                                                               The Nature of Light    99
+
+ try is that the energy of the electrons driven off comes from the     one penetrates, the richer and more varied the structure
+metal itself and not from the radiation, and, therefore, that the      appears. T h e energy contained in every g r a m m e of a substance,
+radiation acts merely as a liberator in the same manner that a         according to the theory of relativity, amounts to Over 20 billion
+small spark liberates any amount of energy in a powder cask.           calories, quite independently of its temperature—more than
+But the further assumption would be necessary that the amount          sufficient to liberate countless electrons.
+of the energy freed depends solely on the m a n n e r in which it is      Whether this presentation gives a possible way of saving the
+freed. It is not difficult to point out somewhat analogous phe-        compromised wave theory, or simply leads ultimately to a blind
+nomena in other branches of physics. As an example, I will             alley, can only be settled by following the methods of research
+consider in greater detail a convenient illustration used by M a x     already outlined and seeing where they end. At this stage we
+ Born. Imagine a tall apple tree, all its branches weighed down        must make use of theory. W e must first of all examine more
+with ripe fruit, all of the same size, but with stalks of different    closely each of the two opposing hypotheses, without consider-
+lengths; the apples are arranged so that those with short stalks       ing whether or not we have confidence in either of them, and
+are higher than those with long stalks. If an extremely weak,          must work out the results and reduce them to a form suitable
+uniform wind blows through the branches, all the apples will           for experimental verification. For this purpose, in addition to a
+oscillate slightly, without any one dropping, and the higher           training in physics and the requisite mathematical ability, it is
+apples will oscillate more rapidly than the lower ones. If, now,       necessary to have a discriminating j u d g m e n t of the measure of
+the tree is shaken very gently with a definite rhythm, resonance       the reliability that can be placed on the accuracy of the measure-
+will increase the oscillations of those apples whose period agrees     ments; for the effects sought for are mostly of the same order
+with the period of the shaking, and a certain n u m b e r of these      as the errors of observation. It is not possible to-day to predict
+will fall, the number increasing the longer and more forcibly the      with certainty when any definite solution to this problem will
+tree is shaken. These apples will reach the ground with a certain       be obtained.
+definite velocity determined only by their original height, i.e.          W h a t I have tried to set before you here about the action of
+by the lengths of their stalks; all the other apples remain on         light, holds in an exactly similar m a n n e r with regard to the
+the tree.                                                              cause of light, that is, to the phenomena of generation Of light
+   I t must be understood that this comparison, like every other,      fays. I n this also we have new riddles, difficult to unravel, which
+fails in many respects, since, in this illustration, the source of     are at variance with certain surprisingly deep glimpses recently
+energy is not internal kinetic energy but gravitation. But the         obtained into the laws governing natural phenomena. T h e only
+essential point is realized that the final velocity of the particles   thing that can be said with certainty, is that the quanta,
+liberated depends solely on the period of the disturbance, while       already referred to, play a characteristic p a r t in connection
+the intensity of the disturbance determines only the n u m b e r of    with the origin of light.
+these particles.                                                          According to the bold hypothesis of the Danish physicist
+   Can one attribute, however, such a complicated structure and        Niels Bohr, the consequences of which have been astonishingly
+such a wealth of energy to a tiny piece of metal ? This question is    multiplied recently, electrons oscillate in every atom of an
+less awkward than would perhaps appear at first. For we have           illuminated gas. These electrons circle about the nucleus in a
+long known that the chemical atom is not by any means the              greater or smaller n u m b e r and at different distances, in certain
+simple invariable element of which all matter is constituted,          definite paths and obey the same laws as those governing the
+but rather that every single atom, particularly one of a heavy         motions of the planets about the sun. But light, arising from
+metal, must be considered as a world in itself, and the farther         these oscillations, is not sent out from the atom into surrounding
+
+
+
+
+                                                                                                                                               1
+       ioo     A Survey of Physical Theory                                                                             The Mature of Light    101
+
+         space uninterruptedly and uniformly, as are the sound waves            another question of a very fundamental character, to which I
+         from the prongs of a vibrating tuning-fork. "the emission of light     have referred above.
+         always takes place abruptly, by impulses, for it is not deter-            So the present lecture on our knowledge of the physical
+         mined by the regular oscillations of the electrons themselves          nature of light ends, not in a proud proclamation, but in a
+        but is only emitted when these electron oscillations receive a          modest question. In fact, this question, whether light rays
+ygS.-sudden change and a certain disruption in themselves; a kind               themselves consist of quanta, or whether the quanta exist only in
+TjfeT- o f internal catastrophe, which throws the electrons out of their        matter, is the chief and most difficult dilemma before which the
+        original paths into others more stable but associated with less         whole quantum theory, halts, and the answer to this question
+        energy. It is the surplus amount of energy liberated by the             will be the first step towards further development.
+        atom which travels out into space as a light quantum.
+            Indeed, the most remarkable thing about this phenomenon
+        is that the period of the emitted light, and therefore its colour,
+        does not, in general, agree with the period of oscillation of the
+        electrons, either in their original or in their final paths. It is
+        definitely determined by the amount of energy emitted, since
+        the more rapid the oscillations, the greater is the light quantum.
+        It follows that a short wave-length corresponds to a large
+       amount of energy, considered as a light quantum. If, therefore,
+       for example, much energy is emitted, we get ultra-violet or even
+       Rontgen rays; if, however, but little energy is emitted, red or
+       infra-red rays result. It is at present a complete mystery why
+       the oscillations of light produced in this way are, with the
+       utmost regularity, strictly monochromatic.
+           Indeed, we might be inclined to consider all these ideas as the
+       play of a vivid but empty imagination. When, on the other
+       hand, we consider that these hypotheses help us to elucidate the
+       mysterious structure of the spectra of the different chemical
+       elements and, in particular, the complicated laws governing the
+       spectral lines, not only as a whole but, as Arnold Sommerfeld
+       first showed, partly even in minute details, with an exactness
+       equal to, and even surpassing, that of the most accurate
+      measurements—when we consider this we must, for good or ill,
+       make up our minds to assign a real existence to these light
+      quanta, at least at the instant of their origin.
+           What becomes of them later as light disperses*—whether the
+      energy of a quantum remains concentrated as in Newton's
+      emanation theory or whether^ as in Huygens's wave theory, it
+  v spreads out in all directions and gets erets less dense indefinitelv- -IS
+
+                                                  zy
+

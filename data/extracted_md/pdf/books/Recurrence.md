@@ -1,0 +1,119 @@
+# 292   Great Problems in Philosophy and Physics - Solved?
+
+**source:** pdf · **section:** books
+**file:** Recurrence
+---
+
+
+                               re n ce
+                      R   ecur
+Chapter 26
+
+                                                                  This chapter on the web
+                                         informationphilosopher.com/problems/recurrence
+                                                    Recurrence          293
+
+The Recurrence Problem
+   The idea that the macroscopic conditions in the world will
+repeat after some interval of time is an ancient idea, but it plays a
+vital role in modern physics as well.
+  Ancient middle eastern civilizations called it the Great Year.
+They calculated it as the time after which the planets would realign
+themselves in identical positions in the sky.
+   The Great Year should not be confused with the time that the
+precession of the equinoxes takes to return the equinoxes to the
+same position along the Zodiac - although this time (about 26,000
+years) is of the same order of magnitude as one famous number
+given by Babylonian astronomers for the Great Year (36,000 years).
+   Many societies have the concept of the Great Year, but none did
+calculations as carefully as the Babylonians. But since the planets
+orbital periods are not really commensurate, they kept increasing
+the time for the Great Year searching for a better recurrence time.
+   The Greek and Roman Stoics thought the Great Year was proof
+of law in nature and the God of reason that lies behind nature.
+   In modern philosophy, Friedrich Nietzsche described an
+eternal return in his Also Sprach Zarathustra.
+
+                                                                          Chapter 26
+Zermelo’s Paradox
+  Ernst Zermelo’ criticized Ludwig Boltzmann’s H-Theo-
+rem, the attempt to derive the increasing entropy required by the
+second law of thermodynamics from basic statistical mechanics.
+  It was the second “paradox” attack on Boltzmann. The first was
+Josef Loschmidt’s claim that entropy would be reduced if time
+were reversed. This is the problem of microscopic reversibility.1
+  Zermelo was an extraordinary mathematician. He was (in 1908)
+the founder of axiomatic set theory, which with the addition of
+the axiom of choice (also his work, in 1904) is the most common
+foundation of mathematics. The axiom of choice says that given
+any collection of sets, one can find a way to unambiguously select
+one object from each set, even if the number of sets is infinite.
+  1    See chapter 25 on irreversibility.
+         294     Great Problems in Philosophy and Physics - Solved?
+
+                  Before this amazing work, Zermelo was a young associate of
+               Max Planck in Berlin, one of many German physicists who
+               opposed the work of Boltzmann to establish the existence of
+               atoms.
+                 Zermelo’s criticism was based on the work of Henri Poincaré,
+               an expert in the three-body problem, which, unlike the two-body
+               problem, has no exact analytic solution.
+                  Poincaré had been able to establish limits or bounds on the pos-
+               sible configurations of the three bodies from conservation laws.
+               Planck and Zermelo applied some of Poincaré’s thinking to the
+               n particles in a gas. They argued that given a long enough time,
+               the particles would return to a distribution in “phase space” (a
+               6n-dimensional space of possible velocities and positions) that
+               would be indistinguishable from the original distribution.
+                  Thus, they argued, Boltzmann’s formula for the entropy would
+               at some future time go back down, vitiating Boltzmann’s claim to
+               have proved that entropy always increases - as the second law of
+               thermodynamics requires.
+                  Boltzmann replied that his argument was statistical. He only
+               claimed that entropy increase was overwhelmingly more prob-
+               able than Zermelo’s predicted decrease. Boltzmann calculated the
+               probability of a decrease of a very small gas of only a few hundred
+Chapter 26
+
+               particles and found the time needed to realize such a decrease is
+               many orders of magnitude larger than the presumed age of the
+               universe.
+                  The idea that a macroscopic system can return to exactly the
+               same physical conditions is closely related to the idea that an agent
+               may face “exactly the same circumstances in making a decision.
+               Determinists maintain that given the “fixed past” and the “laws of
+               nature” that the agent would have to make exactly the same deci-
+               sion again.2
+                 2    See chapter 5
+                                                               Recurrence        295
+
+The Extreme Improbability of Perfect Recurrence
+   In a classical deterministic universe, given enough time, the
+universe can return to the exact circumstance of any earlier instant
+of time, because it contains the same amount of matter, energy,
+and information.
+   But, in the real universe, information expands from a minimum
+at the origin, to ever larger amounts of information.
+   Arthur Stanley Eddington was probably the first to see that
+the expanding universe with increasing information provides a
+resolution to Zermelo’s objection to Boltzmann.
+      “By accepting the theory of the expanding universe we are relieved
+      of one conclusion which we had felt to be intrinsically absurd. It was
+      argued that every possible configuration of atoms must repeat itself
+      at some distant date. But that was on the assumption that the atoms
+      will have only the same choice of configurations in the future that
+      they have now. In an expanding space any particular congruence
+      becomes more and more improbable. The expansion of the universe
+      creates new possibilities of distribution faster than the atoms can work
+      through them, and there is no longer any likelihood of a particular
+      distribution being repeated. If we continue shuffling a pack of cards
+      we are bound sometime to bring them into their standard order — but
+      not if the conditions are that every morning one more card is added
+      to the pack.”3
+   And note that it is the failure of recurrence that makes all the
+
+                                                                                   Chapter 26
+arrows of time of chapter 24 into one-way arrows.
+
+  3       New Pathways in Science, 1939, p.68
+

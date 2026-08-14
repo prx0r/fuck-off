@@ -1,0 +1,290 @@
+# 384      Free Will: The Scandal in Philosophy
+
+**source:** pdf · **section:** books
+**file:** Problems
+---
+
+
+                                                   m inis        m
+                                          De t e r
+
+                                                            t i b i l i s m
+                                                  Co    mpa                 ism
+                                                                   rmin
+                         ter  minism               Sof   t D e t e
+                  De
+             Hard                                                                 lism
+                                                                    o m p atibi
+                                                              oft C
+                        p a t i b
+                                 b
+                                  ilism
+                                   l e  m        s          S
+
+H a r d I nco         m
+                         e r Pro              y
+                                                                                         In
+                       h
+                    Ot hiSleomsicoompp aht i b ilism
+
+                     i n P       y  s i c    s
+  Ill u s i o n ism
+                            d P h
+                        an Incompatibilism          w
+                        sm                 Narro
+   Impo         ssibili
+                                                                 p atib ilism
+                                                      t In c o m
+                                                 Sof                                      y
+                         del                                                      Leewa
+Chapter 31
+
+                   an Mo
+             Valeri                                       p a t i b ilism          (Altern
+                                                                                           a
+                                          r c e I ncom nce)
+                                      Sou          l S e que
+                                        (Actu   a
+                                                                             i m i t e d
+                                                      e lw             ith L
+                                                  o d
+                                - S t      a ge M
+                           Tw o                         This chapter on the web
+                                          informationphilosopher.com/problems
+                            m inis           m
+                   de t e r                              Some Other Problems 385
+              In
+             I-Phi Philosophical
+                            rianisProblems
+                                   m
+                                              a
+                                Libert
+              The fundamental question of information philosophy is cos-
+             mological and ultimately metaphysical.
+                                                                            inusa
+                                                                            a      l
+                                                                      t -
+                   What is the process that creates information structuresC
+                   the universe?                             Agen
+                             n   t - C ausala thermodynamic
+             Given the second law of thermodynamics,      which says that any
+                     E  ve
+          system will over     time   approach                  equilibrium of
+
+                                                                                    sal
+          maximum disorder or entropy, in which all information is lost,
+                                                                            - C a u
+          which says everything began in a state of equilibrium N
+                                                                      on
+          and given the best current model for the origin of the universe,
+                                                                   some 13.75
+
+                             m             SFAevery
+          billion years ago, how can it be that living beings are creating and
+
+        a t i b i lis
+          communicating new information              day? Why are we not still
+
+nc  omp   in that state of equilibrium?
+                                                            a u  s a lity
+                                                     oft Cof a two-part cos-
+             The elucidation by information philosophy
+                                                  S
+          mic creation process casts light on some classical problems in
+          philosophyaand         sm because it is the same process that cre- m
+                         tibiniliphysics,
+      a d I n
+          ates   m
+              cnew  p
+               o biological species and explains the freedom and    e  r t a r ianis
+                                                                        creativ-
+   Bro ity of the human mind.                                    ib
+                                                       Soft L
+                        ianism
+             Some OtherrPhilosophical
+                       rta
+                                      Problems
+                                                                                i b ert     aria
+               st Libe                                                 So f t L
+      ModeThe Problem of Knowledge                              Darin
+                                                                          g
+                Epistemology is the problem of
+                                       C  o
+             means of perception is limited g i t
+                                              and
+                                                  o certain knowledge, when our
+                                                    fallible. Instead of logical lan-
+                  i l i s m
+              tib debates about “justified true belief,” information philoso-
+       o m paguage
+ I n c       phy n
+                e     cesto) information structures in the brain that correspondinism
+                  looks
+            q u                                                               rm
+                                                                                       Chapter 31
+
+ative S
+          e to structures in the world and in other minds.
+                                                               In   d e   t e
+             The Problem of Value1
+                                      i m   i t e d
+                          a   n d
+           Information philosophy   L the source of ultimate value be-
+                                    moves
+
+        r      n
+         yondiman
+          m       isandmour created Gods, beyond Life and the Earth, to its
+  D  ete origins in a Cosmic Providence, which creates stable information
+             structures we call Ergo. Note that quantum mechanics, though
+             normally thought of as adding only indeterminacy, is the source
+             of the stability in most information structures.
+               1      informationphilosopher.com/value
+         386     Free Will: The Scandal in Philosophy
+
+                  Note that the problem of freedom (in this book) and the
+               problem of value are tightly linked.
+                  Values without Freedom are Useless.
+                  Freedom without Value is Absurd.
+                  The first of these views was the position of the John Stuart
+               Mill utilitarians and the early twentieth-century Anglo-Ameri-
+               can philosophers, who argued for utilitarian value but accepted
+               determinism.
+                  The second view was that of the Continental Existentialists,
+               from Nietzsche to Heidegger to Sartre, that we have freedom, but
+               because God is dead there are no absolute values.
+                 The Problem of Free Will2
+                  A dozen thinkers since William James in 1884 have proposed
+               “two-stage” models of free will - first “free,” then will,” - first
+               chance, then choice, - first alternative possibilities, then one ac-
+               tuality. The most plausible and practical solution to the 2400-year
+               old problem of free will is our Cogito model. The critical random
+               component of the first stage is provided by noise in the brain’s
+               information processing. The second stage is determined, but not
+               pre-determined.
+               Consciousness3
+                  Consciousness can be defined as the capacity of an entity, usu-
+               ally a living thing but we can also include artificially conscious
+               machines or computers, to react to the information, and particu-
+               larly to changes in the information, in its environment. We call it
+               information consciousness.
+Chapter 31
+
+               The Problem of Evil4
+                 Theodicy - “If God is Good He is not God. If God is God He is
+               not Good.” (from J.B., by Archibald MacLeish) The question is not
+               “Does God exist?” The question is “Does Goodness exist?” The
+                 2    informationphilosopher.com/freedom
+                 3    informationphilosopher.com/problems/consciousness
+                 4    informationphilosopher.com/problems/evil
+                     Some Other Philosophical Problems                    387
+
+solution lies in a dualist world with both bad and good. If ergodic
+information is an objective good, then entropic destruction of in-
+formation is “the devil incarnate,” as Norbert Wiener put it.
+Immortality5
+   Information philosophy implies two kinds of immortality, the
+material survival of genetic information and the survival of ideas
+in the Sum of all knowledge and human artifacts. The survival of
+parts of the genetic code in DNA is the longest approximation to
+immortality known in living things. The “immortals” among us
+are those whose life’s work is remembered.
+The Mind-Body Problem6
+   Solved in part by our Sum model, which explains how abstract
+information, an idea, or knowledge is incorporated into a human
+mind, and how pure ideas act on the physical world. Information
+is neither energy nor matter. But it needs matter for its embodi-
+ment and energy for its communication.
+   Information is the mind in the body, the ghost in the machine,
+as close to a spirit or soul as science can get. When we die, it is our
+information that is lost.
+   Our ERR (experience recorder and reproducer) model for the
+mind is simpler than, but superior to, cognitive science computa-
+tional models of the mind.
+   Man is not a machine. And the mind is not a computer.
+                                                                            Chapter 31
+
+  5     informationphilosopher.com/problems/immortality
+  6     informationphilosopher.com/problems/mind_body
+         388         Free Will: The Scandal in Philosophy
+
+               Some Other Physics Problems
+                  It is of the deepest philosophical significance that information
+               is based on the mathematics of probability. If all outcomes were
+               certain, there would be no “surprises” in the universe. Informa-
+               tion would be conserved and a universal constant, as some math-
+               ematicians mistakenly believe it is.
+                  Information philosophy requires the ontological uncertainty
+               and probabilistic outcomes of modern quantum physics to pro-
+               duce new information. But at the same time, without the extraor-
+               dinary stability of quantized information structures over cosmo-
+               logical time scales, life and the universe we know would not be
+               possible.
+                  Quantum mechanics reveals the architecture of the universe to
+               be discrete rather than continuous, to be digital rather than ana-
+               log.
+                  Moreover, the “correspondence principle” of quantum mechan-
+               ics and the “law of large numbers” of statistics ensures that mac-
+               roscopic objects can normally average out microscopic uncertain-
+               ties and probabilities to provide the “adequate determinism” that
+               shows up in all our Laws of Nature.
+               The Arrow of Time7
+                  Arthur Stanley Eddington connected “Time’s Arrow” with the
+               direction of increasing entropy and the second law of thermody-
+               namics. We now show that it is also the direction of increasing
+               information.
+Chapter 31
+
+               Entanglement/Nonlocality8
+                  Thus is a mysterious phenomenon that seems capable of “trans-
+               mitting” information over vast distances faster than the speed of
+               light. Information physics shows that measurements change prob-
+               abilities everywhere, faster than the speed of light, although no
+               signaling is possible, since no matter or energy is transmitted.
+               Macroscopic Recurrence9
+                 Ernst Zermelo argued against Ludwig Boltzmann’s H-The-
+               orem (his derivation of the second law of thermodynamics), on
+                 7      informationphilosopher.com/problems/arrow_of_time
+                 8      informationphilosopher.com/solutions/experiments/EPR
+                 9      informationphilosopher.com/problems/recurrence
+                             Some Other Physics Problems                  389
+
+the grounds that given enough time, any system would return to
+the same starting conditions and thus entropy must decrease as
+well as increase. Information physics shows that exactly the same
+circumstances can never recur. Friedrich Nietzsche’s “Eternal
+Return of the Same” is a physical impossibility, because of the in-
+creasing information in the universe.
+Microscopic Reversibility10
+   Joseph Loschmidt also argued against Ludwig Boltzmann
+on the grounds that if time were reversed the entropy would de-
+crease. Boltzmann agreed that it would, according to his initial
+version of the H-Theorem which was derived from classical dy-
+namical physics. He then defended his case for entropy increase
+on the basis of probabilities and an assumption of “molecular dis-
+order.” A quantum-mechanical treatment of binary (two-particle)
+collisions validates Boltzmann’s “molecular disorder” assumption.
+The Problem of Measurement11
+   We explain how our measuring instruments, which are usually
+macroscopic objects and treatable with classical physics, can give
+us information about the microscopic world of atoms and sub-
+atomic particles like electrons and photons, which are described
+with quantum physics. The so-called “cut” (John Bell called it
+the “shifty split”) between the classical and quantum worlds oc-
+curs at the moment that stable observable information enters the
+world. It does not require the consciousness of an observer.
+Schrödinger’s Cat12
+                                                                            Chapter 31
+
+   Erwin Schrödinger’s paradox of simultaneous live and dead
+cats is solved by noting that the wave function probabilities refer
+to the proportions of live and dead cats that would be found in
+many identical experiments. In every particular case, the wave
+functions collapse at the instant the random quantum event pro-
+duces stable information in the world. No “conscious observer” is
+needed. The cat is its own observer.
+
+  10   informationphilosopher.com/problems/reversibility
+  11   informationphilosopher.com/problems/measurement
+  12   informationphilosopher.com/solutions/experiments/schrodingerscat
+

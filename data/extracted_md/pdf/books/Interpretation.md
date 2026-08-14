@@ -1,0 +1,439 @@
+# 188   Great Problems in Philosophy and Physics - Solved?
+
+**source:** pdf · **section:** books
+**file:** Interpretation
+---
+
+
+                                   i o n o f
+                         p re t at         n i c s
+                       r
+                Inte m Mech              a
+Chapter 17
+
+                 u a nt u
+               Q
+
+                                                           This chapter on the web
+                                informationphilosopher.com/quantum/interpretation
+                                                Interpretation         189
+
+Information Interpretation of
+Quantum Mechanics
+   Our information interpretation is simply “standard quantum
+physics” plus information being recorded irreversibly. Unlike
+the Copenhagen Interpretation, we offer a visualization of what
+is going on in quantum reality, with animations (on-line) of the
+wave function evolution and the appearance of the particle, when
+the wave function shrinks to its minimum possible size h3.
+  The information interpretation of quantum mechanics is based
+on three simple premises:
+  1) Quantum systems evolve in two ways:
+  • The first is the wave function deterministically exploring all
+the possibilities for interaction,
+
+                                                                         Chapter 17
+  • The second is the particle randomly choosing one of those
+possibilities to become actual.
+   2) No knowledge can be gained by a “conscious observer”
+unless new information has already been irreversibly recorded
+in the universe. New information can be created and recorded in
+three places:
+  • In the target quantum system,
+  • In the combined target system and measuring apparatus,
+  • It can then become knowledge in the observer’s mind.
+   3) The measuring apparatus is quantal, not deterministic or
+“classical.” It need only be statistically determined and capable of
+recording the irreversible information about an interaction. The
+human mind is also only statistically or adequately determined.
+  • There is only one world.
+  • It is a quantum world, which only appears to be classical.
+  • The world only appears to be determined.
+  Ontologically, the quantum world is indeterministic, but in
+our everyday common experience it appears to be causal and
+         190     Great Problems in Philosophy and Physics - Solved?
+
+               deterministic, the so-called “classical” world. Information phys-
+               ics claims there is only one world, the quantum world, and the
+               so-called “quantum to classical transition” occurs for any macro-
+               scopic object of mass m that contains a large enough number of
+               atoms. For large enough systems, independent quantum events
+               are “averaged over.” The uncertainty in position x and velocity v
+               of the large object becomes less than the quantum indeterminacy
+                 Δv Δx ≥ h / m goes to zero as h / m goes to zero.
+                  The classical laws of motion, with their apparent determin-
+               ism and strict causality, emerge when objects are large enough so
+               that microscopic events can be ignored, but this determinism is
+               fundamentally statistical and physical causes are only probabilis-
+               tic, however near they seem to certainty.
+                  Information philosophy interprets the wave function ψ as a
+               “possibilities” function. With this simple change in terminology,
+Chapter 17
+
+               the mysterious process of a wave function “collapsing” becomes
+               a much more intuitive discussion of ψ evolving to explore all the
+               possibilities (with mathematically calculable probabilities), fol-
+               lowed by a single actualization, at which time the probabilities for
+               all non-actualized possibilities go to zero (they “collapse”) instan-
+               taneously.
+                  Information physics is standard quantum physics. It accepts
+               the Schrödinger equation of motion, the principle of superposi-
+               tion, the axiom of measurement (now including the actual infor-
+               mation “bits” measured), and - most important - the projection
+               postulate of standard quantum mechanics (the “collapse” that so
+               many unorthodox interpretations deny).
+                  But unlike some interpretations, the conscious observer of
+               the Copenhagen Interpretation is not required for a projection,
+               for the wave-function to “collapse”, for one of the possibilities to
+               become an actuality. What the collapse does require is an interac-
+               tion between systems that creates irreversible and observable, but
+               not necessarily observed, information.
+                 Among the founders of quantum mechanics, almost every-
+               one agreed that irreversibility was a key requirement for a
+                                               Interpretation         191
+
+measurement. Irreversibility introduces thermodynamics into a
+proper formulation of quantum mechanics, and this is what the
+information interpretation requires.
+   Information is not a conserved quantity like energy and mass,
+despite the view of many mathematical physicists, who generally
+accept determinism and think information is a constant. The uni-
+verse began in a state of equilibrium with minimal information,
+and information is being created every day, despite the second law
+of thermodynamics. Classical interactions between large macro-
+scopic bodies do not generate new information. Newton’s laws of
+motion imply that the information in any configuration of bodies,
+their motions, and the force laws, is enough to know all past and
+future configurations. Classical mechanics conserves information.
+  In the absence of interactions, an isolated quantum system
+evolves according to the unitary Schrödinger equation of motion.
+
+                                                                        Chapter 17
+Just like classical systems, the deterministic Schrödinger equation
+conserves information.
+  Unlike classical systems however, when there is an interaction
+between quantum systems, the two systems become entangled
+and there may be a change of state in either or both systems. This
+change of state may create new information.
+   If that information is instantly destroyed, as in most interac-
+tions, it may never be observed macroscopically. If, on the other
+hand, the information is stabilized for some length of time, it may
+be seen by an observer and considered to be a “measurement.” But
+it need not be seen by anyone to become new information in the
+universe. The universe is its own observer!
+  Compare Schrödinger’s Cat as its own observer.1
+   For the information (negative entropy) to be stabilized, the
+second law of thermodynamics requires that an amount of posi-
+tive entropy greater than the negative entropy must be transferred
+away from the new information structure.
+   Exactly how the universe allows pockets of negative entropy
+to form as “information structures” we describe as the “cosmic
+creation process.” This core two-step process has been going on
+  1    see chapter 23
+         192       Great Problems in Philosophy and Physics - Solved?
+
+               since the origin of the universe. It continues today as we add infor-
+               mation to the Sum of human knowledge.
+                   Note that despite the Heisenberg principle, quantum mechani-
+               cal measurements are not always uncertain. When a system is mea-
+               sured (prepared) in an eigenstate, a subsequent measurement (Pau-
+               li’s measurement of the first kind) will find it in the same state with
+               perfect certainty.
+                  What are the normal possibilities for new quantum states? The
+               transformation theory of Paul Dirac and Pascual Jordan lets us
+               represent ψ in a set of basis functions for which the combination of
+               quantum systems (one may be a measurement apparatus) has eigen-
+               values (the axiom of measurement). We represent ψ as in a linear
+               combination (the principle of superposition) of those “possible”
+               eigenfunctions. Quantum mechanics lets us calculate the probabili-
+               ties of each of those “possibilities.”
+Chapter 17
+
+                  Interaction with the measurement apparatus (or indeed interac-
+               tion with any other system) may select out (the axiom of measure-
+               ment) one of those possibilities as an actuality. But for this event
+               to be an “observable” (a John Bell “beable”), information must be
+               created and positive entropy must be transferred away from the new
+               information structure, in accordance with our two-step informa-
+               tion creation process.
+                  All interpretations of quantum mechanics predict the same
+               experimental results. The information interpretation is no excep-
+               tion, because the experimental data from quantum experiments is
+               the most accurate in the history of science.
+                  Where interpretations differ is in the picture (the visualization)
+               they provide of what is “really” going on in the microscopic world
+               - so-called “quantum reality.” Schrödinger called it Anschaulichkeit.
+               He and Einstein were right that we should be able to picture quan-
+               tum reality.
+                  However, the Copenhagen interpretation of Niels Bohr and
+               Werner Heisenberg discourages attempts to visualize the nature
+               of the “quantum world,” because they say that all our experience
+               is derived from the “classical world” and should be described in
+                                                        Interpretation             193
+
+ordinary language. This is why Bohr and Heisenberg insisted on
+some kind of “cut” between the quantum event and the mind of an
+observer.
+  The information interpretation encourages visualization. (See
+our on-line animation of the two-slit experiment2, our EPR experi-
+ment visualizations3, and Dirac’s three polarizers4 to visualize the
+superposition of states and the projection or “collapse” of a wave
+function.)
+   Bohr was of course right that classical physics plays an essential
+role. His Correspondence Principle allowed him to recover some
+important physical constants by assuming that the discontinuous
+quantum jumps for low quantum numbers (low “orbits” in his old
+quantum theory model) converged in the limit of large quantum
+numbers to the continuous radiation emission and absorption of
+classical electromagnetic theory.
+   In addition, we know that in macroscopic bodies with enormous
+
+                                                                                     Chapter 17
+numbers of quantum particles, quantum effects are averaged over,
+so that the uncertainty in position and momentum of a large body
+still obeys Heisenberg’s indeterminacy principle, but the uncer-
+tainty is for all practical purposes unmeasurable and the body can
+be treated classically.
+   We can say that the quantum description of matter also converges
+to a classical description in the limit of large numbers of quantum
+particles. We call this “adequate” or statistical determinism. It is the
+apparent determinism we find behind Newton’s laws of motion for
+macroscopic objects. The statistics of averaging over many indepen-
+dent quantum events then produces the “quantum to classical tran-
+sition” for the same reason as the “law of large numbers” in prob-
+ability theory.
+   Both Bohr and Heisenberg suggested that just as relativistic
+effects can be ignored when the velocity is small compared to the
+velocity of light (v / c → 0), so quantum effects might be ignorable
+when Planck’s quantum of action h → 0. But this is quite wrong,
+  2     .informationphilosopher.com/solutions/experiments/two-slit_experiment/
+  3     informationphilosopher.com/solutions/experiments/EPR/
+  4     www.informationphilosopher.com/solutions/experiments/dirac_3-polarizers/
+         194       Great Problems in Philosophy and Physics - Solved?
+
+               because h is a constant that never goes to zero. In the information
+               interpretation, it is always a quantum world. As we saw, the con-
+               ditions needed for ignoring quantum indeterminacy are when the
+               mass of the macroscopic “classical” object is large.
+                  Note that the macromolecules of biology are large enough to
+               stabilize their information structures. DNA has been replicating
+               its essential information for billions of years, resisting equilibrium
+               despite the second law of thermodynamics The creation of irre-
+               versible new information also marks the transition between the
+               quantum world and the “adequately deterministic” classical world,
+               because the information structure itself must be large enough (and
+               stable enough) to be seen. The typical measurement apparatus is
+               macroscopic, so the quantum of action h becomes small compared
+               to the mass m and h / m approaches zero.
+                  Decoherence theorists say that the measurement problem is our
+Chapter 17
+
+               failure to see quantum superpositions in the macroscopic world.
+               The information interpretation thus explains why quantum super-
+               positions like Schrödinger’s Cat are not seen in the macroscopic
+               world. Stable new information structures in the dying cat reduce
+               the quantum possibilities (and their potential interference effects)
+               to a classical actuality. Upon opening the box and finding a dead cat,
+               an autopsy will reveal that the time of death was observed/recorded.
+               The cat is its own observer.
+               The “Possibilities Function”
+                  The central element in quantum physics is the “wave function” ψ,
+               with its mysterious wave-particle dual nature (sometimes a wave,
+               sometimes a particle, etc.). We believe that teaching and under-
+               standing quantum mechanics would be much simpler if we called ψ
+               the “possibilities function.” It only looks like a wave in simple cases
+               of low-dimensional coordinate space. But it always tells us the pos-
+               sibilities - the possible values of any observable, for example.
+                  Given the “possibilities function” ψ, quantum mechanics allows
+               us to calculate the “probabilities” for each of the “possibilities.” The
+               calculation depends on the free choice of the experimenter as to
+               which “observables” to look for. If the measurement apparatus can
+                                                       Interpretation   195
+
+register n discrete values, ψ can be expanded in terms of a set of
+basis functions (eigenfunctions) appropriate for the chosen observ-
+able, say φn. The expansion is
+  ψ = ∑ cn φn
+  When the absolute squares of the coefficients cn are appropriately
+normalized to add up to 1, the probability Pn of observing an eigen-
+value n is
+  Pn = | cn |2 = | < ψ | φn > | 2
+   These probabilities are confirmed statistically by repeated iden-
+tical experiments that collect large numbers of results. Quantum
+mechanics is the most accurate physical theory in science, with
+measurements accurate to fifteen decimal places.
+   In each individual experiment, generally just one of the possi-
+bilities becomes an actuality (although some experiments leave the
+
+                                                                          Chapter 17
+quantum system in a new superposition of multiple possibilities).
+  In our information interpretation, a possibility is realized or
+actualized at the moment when information is created about the
+new state of the system. This new information requires that positive
+entropy be carried away from the local increase in negative entropy.
+   Note that an “observer” will not be able to make a “measure-
+ment” unless new information exists to be “observed.” Information
+must be (and is in all modern experimental systems) created and
+recorded before any observer looks at the results. Measurements do
+not depend directly on the mind of the observer, only indirectly
+when the observer sets up the experimental apparatus and decides
+(chooses freely) what the apparatus will measure.
+  This is called the “free choice” of the experimenter.5
+   An information approach can help philosophers to think more
+clearly about quantum physics. Instead of getting trapped in talk
+about mysterious “collapse of the wave function,” “reduction of the
+wave packet,” or the “projection postulate” (all important issues),
+the information interpretation proposes we simply say that one of
+the “possibilities” has become “actual.”
+  5     informationphilosopher.com/freedom/free_choice.html
+         196         Great Problems in Philosophy and Physics - Solved?
+
+                   It is intuitively obvious that when one possibility becomes actual,
+               all the others are annihilated, consigned to “nothingness,” as Jean-
+               Paul Sartre put it. And because the other possibilities may have
+               been extremely “distant” from the point of actualization, their
+               instantaneous disappearances looked to Einstein to violate his new
+               principle of relativity, but they do not.
+                  Quantum theory lets us put quantitative values on the “proba-
+               bilities” for each of the “possibilities.” But this means that quantum
+               theory is fundamentally statistical, meaning indeterministic and
+               “random.” It is not a question of our being ignorant about what is
+               going on (an epistemological problem). What’s happening is onto-
+               logical chance, as Einstein first showed, but as he forever disliked.
+                  We can describe the “possibilities function” ψ as moving through
+               space (at the speed of light, or even faster, as Einstein feared?),
+               exploring all the possibilities for wherever the particle might be
+Chapter 17
+
+               found. This too may be seen as a special kind of information. In
+               the famous “two-slit experiment6,” the “possibilities function” trav-
+               els everywhere, meaning that ψ passes through both slits, interfer-
+               ing with itself and thus changing the possibilities where the par-
+               ticle might be found. Metaphorically, ψ “knows” when both slits are
+               open, even if our intuitive classical view imagines that the particle
+               must go through only one. The slits being open changes the prob-
+               abilities associated with each of the possibilities.
+               Possibilities and Information Theory
+                 It is of the deepest philosophical significance that information
+               theory is based on the mathematics of probability. If all outcomes
+               were certain, there would be no “surprises” in the universe. Infor-
+               mation would be conserved and a universal constant, as some math-
+               ematicians mistakenly believe. Information philosophy requires
+               the ontological uncertainty and probabilistic outcomes of modern
+               quantum physics to produce new information.
+
+                 6     informationphilosopher.com/solutions/experiments/two-slit_experiment/
+                                                 Interpretation           197
+
+   In Claude Shannon’s theory of the communication of informa-
+tion, there must be multiple possible messages in order for infor-
+mation to be communicated. If there is only one possible message,
+there is no uncertainty, and no information can be communicated.
+   In a universe describable by the classical Newtonian laws of
+motion, all the information needed to produce the next moment
+is contained in the positions, motions, and forces on the material
+particles.
+   In a quantum world describable by the unitary evolution of the
+deterministic Schrödinger equation, nothing new ever happens,
+there is no new “outcome.” Outcomes are added to standard quan-
+tum mechanics by the addition of the “projection postulate” or “col-
+lapse of the wave function,” when the quantum system interacts
+with another system.
+   Information is constant in a deterministic universe. There is
+
+                                                                            Chapter 17
+“nothing new under the sun.” The creation of new information is
+not possible without the random chance and uncertainty of quan-
+tum mechanics, plus the extraordinary temporal stability of quan-
+tum mechanical structures needed to store information once it is
+created.
+   Without the extraordinary stability of quantized information
+structures over cosmological time scales, life and the universe we
+know would not be possible. That stability is the consequence of an
+underlying digital nature. Quantum mechanics reveals the architec-
+ture of the universe to be discrete rather than continuous, to be digi-
+tal rather than analog. Digital information transfers are essentially
+perfect, whereas analog transfers are “lossy.”
+   It is Bohr’s “correspondence principle” of quantum mechanics for
+large quantum numbers and the “law of large numbers” of statistics
+which ensure that macroscopic objects can normally average out
+microscopic uncertainties and probabilities to provide the statistical
+or “adequate” determinism that shows up in all our classical “laws
+of nature.”
+         198       Great Problems in Philosophy and Physics - Solved?
+
+                  There is no separate classical world and no need for a quantum-to-
+               classical transition. The quantum world becomes statistically deter-
+               ministic when the mass of an object is such that h / m approaches
+               zero. We conclude, contrary to the views of Bohr and Heisenberg,
+               that there is no need for a separate classical world. The classical laws
+               of nature emerge statistically from quantum laws. Quantum laws,
+               which are therefore universally applicable, converge in these two
+               limits of large numbers to classical laws. There is no “transition”
+               from the quantum world to a separate classical world. There is just
+               one world, where quantum physics applies universally, but its mys-
+               terious properties, like interference, entanglement, and nonlocality,
+               are normally invisible, averaged over, in the macroscopic world.
+                  The problem for an informational interpretation of quantum
+               mechanics is to explain exactly how these two convergences (large
+               numbers of particles and large quantum numbers) allow continuous
+Chapter 17
+
+               and apparently deterministic macroscopic information structures
+               to emerge from the indeterministic and discontinuous microscopic
+               quantum world.
+                  We show how the determinism in the macroscopic world is only
+               a statistical or adequate determinism, the result of “averaging over”
+               the large number of independent quantum events happening in
+               a macroscopic object. And even more important, we must show
+               how the occasional magnification or amplification of microscopic
+               quantum events leads to new macroscopic information that makes
+               human beings the “authors of their lives”, that makes them “co-cre-
+               ators of our universe,” and that guarantees a genuinely open future
+               with alternative possibilities, not in inaccessible “parallel universes”
+               but in the one universe that we have.
+               Other Interpretations of Quantum Mechanics
+                 Standard “orthodox” interpretations of quantum mechanics
+               include the projection postulate, the “collapse of the wave function.”
+                  Today there appear to be about as many unorthodox interpreta-
+               tions that deny the collapse, as there are more standard views. We
+               characterize each interpretation as deterministic or not, local or
+               non-local reality, if they assume hidden variables, need a conscious
+               observer, and accept particles. Their proponents are in parentheses..
+                                               Interpretation          199
+
+No-Collapse Interpretations
+  Statistical Ensemble - indeterministic, non-local, no observer -
+(Einstein-Born- Ballentine)
+  Pilot-Wave Theory - deterministic, non-local, hidden variables,
+no observer, particles - (de Broglie-Bohm, 1952)
+   Many-Worlds - deterministic, local, hidden variables, no observer
+- (Everett-DeWitt, 1957)
+  Time-Symmetric Theory - (Aharanov, 1964)
+  Decoherence - deterministic, local, no particles - (Zeh-Zurek,
+1970)
+  Modal Interpretation - (van Frassen, 1972)
+   Consistent Histories - local - (Griffith-Omnès-Gell-Mann-Har-
+tle, 1984)
+
+                                                                         Chapter 17
+Collapse Interpretations
+  Copenhagen Interpretation - indeterministic, non-local,
+observer - (Bohr-Heisenberg-Born-Jordan, 1927)
+  Conscious Observer - indeterministic, non-local, observer -
+(Von Neumann-Wigner)
+  Objective Collapse - indeterministic, non-local, no observer -
+(Ghirardi-Rimini-Weber, 1986; Penrose, 1989)
+  Transactional Interpretation - indeterministic, non-local, no
+observer, no particles - (Cramer, 1986)
+  Relational Interpretation - local, observer - (Rovelli, 1994)
+  Pondicherry Interpretation - indeterministic, non-local, no
+observer - (Mohrhoff, 2005)
+   Information Interpretation - Our interpretation is statistical,
+indeterministic, non-local, and no observer is needed. It interprets
+the “collapse” of the “possibilities” function according to Dirac’s
+“projection postulate.”7 New is the requirement for the physical
+recording of information before any “observation” can be made.
+
+  7    See chapter 20.
+

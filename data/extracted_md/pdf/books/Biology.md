@@ -1,0 +1,290 @@
+# 234      Free Will: The Scandal in Philosophy
+
+**source:** pdf · **section:** books
+**file:** Biology
+---
+
+
+                                                   m inis        m
+                                          De t e r
+
+                                                            t i b i l i s m
+                                                  Co    mpa                 ism
+                                                                   rmin
+                         ter  minism               Sof   t D e t e
+                  De
+             Hard                                                                 lism
+                                                                    o m p atibi
+                                                            S oft C
+                                  ilism
+       n         co   m p a t i b
+                                i o l o  g  y                                            In
+Chapter 16
+
+Hard I
+                           e  B
+                        Th eSeemW      icoimll
+                                             p a t i b ilism
+
+               on i s m  o f Fr
+  Illusi
+                                                                 p atib ilism
+                                                        In c o m
+                                                    w
+                        sm                 Narro
+   Impo         ssibili
+                                                                 p atib   ilism
+                                                      t In c o m
+                                                 Sof                                      y
+                         del                                                      Leewa
+                   an Mo
+             Valeri                                       p a t i b ilism          (Altern
+                                                                                           a
+                                          r c e I ncom nce)
+                                      Sou          l S e que
+                                        (Actu   a
+                                                                             i m i t e d
+                                                      e lw             ith L
+                                                  o d
+                                - S t      a ge M
+                           Tw o                       This chapter on the web
+                                  informationphilosopher.com/freedom/biology
+                            m inis         m
+                   de t e r                                     The Biology            235
+              In
+              The Biology of rFree
+                              ianisWill
+                                   m
+                                            a
+                                Libert
+                    Perhaps physics now puts no limits on human freedom, but
+               what about biology? Each of us gets a significant amount of genetic
+               information from our parents, which at least predisposesCusau                tosa
+                                                                                                  l
+               certain behaviors that have evolved to improve A                n t -
+                                                                           gereproductive
+                                                                         our
+
+                                                 usal
+               success, sexual behavior, for example.
+                                   n   t - C  a“determined”
+               biological E
+                                ve
+                    Are we completely                        by a combination of our
+                              nature and the social nurture of our environmental
+               conditioning? Is biology itself all a causal process that is simply
+                                                                                       - C   a u sal
+                                                                              Non
+               unfolding from a distant past that contained all the information
+               about the one possible biological future?
+                    Information biology says S
+                                                      FA
+          t i b i lis       m                       no. While the stability of biological
+
+    omp a      systems is extraordinary, and while their error-free performance
+                                                                            s a lity
+nc                                                                      a u
+
+                                                                                           Chapter 16
+               of vital functions over many-year lifetimes
+                                                            S   o ft C
+                                                                     is astonishing,   their
+               dependence on randomness is clear. Biological laws, like physical
+
+                          m p  a  bilism determined, statistical laws.
+               laws, are onlytiadequately
+                                                                                              n ism
+               I n  c  o                                                            t a r i a
+      Broad stochastic, depending on thermal and quantal                   Libetor deliver
+                    At   the  atomic  and     molecular  level, biological  processes    are
+                                                                   Softnoise
+               the “just-in-time” parts needed by assembly lines for the basic
+                                   r i a  n   smsuch as the amino acids needed by the ertaria
+                                            ilife,
+                                 a
+                             ert to assemble proteins.
+               structural elements
+                          ibfactories
+                                         of
+                                                                                         ft Lib
+              e  s   t
+               ribosome L                                                      g   S  o
+        Mod So our question is how the typical structuresDof                in brain have
+                                                                         arthe
+               evolved to deal with microscopic,
+                                                C  ogitoatomic level, noise. Do they sim-
+            p a t i    ilismit because they are adequately determined large objects,
+               ply ignore
+                    b
+ Incom or           might they
+                         c e s ) have remained sensitive to the noise because it pro-
+                                                                              n is         m
+                   e  n
+               u some benefits?
+            eqvides                                                   e r m i
+a t i v e S
+                                                 d In             det
+                    We can expect that if quantum noise, or even ordinary ther-
+                                               e
+                                           i t
+                                    nd Lim
+               mal noise, offered benefits that contribute to reproductive success,
+
+               ism               a
+               there would have been evolutionary pressure to take advantage of
+
+       r m i n the noise.
+  Dete              Many biologists argue that quantum-level processes are just too
+               small to be important, too small for the relatively macroscopic
+               biological apparatus to even notice. But consider this evidence to
+               the contrary.
+         236     Free Will: The Scandal in Philosophy
+
+                  Proof that our sensory organs have evolved until they are work-
+               ing at or near quantum limits is evidenced by the eye’s ability to
+               detect a single photon (a quantum of light energy), and the nose’s
+               ability to smell a single molecule.
+                  Biology provides many examples of ergodic creative processes
+               following a trial-and-error model. They harness chance as a pos-
+               sibility generator, followed by an adequately determined selection
+               mechanism with implicit information-value criteria.
+                  Darwinian evolution was the first and greatest example of a
+               two-stage creative process, random variation followed by critical
+               selection. Darwin’s example inspired William James to propose
+               the original two-stage model of free will.
+                  Here I will briefly consider some other such processes that are
+               analogous to the two-stage Cogito model for the human mind.
+Chapter 16
+
+               Creativity in the Immune System
+                  Consider the great problem faced by the immune system. It
+               stands ready to develop antibodies to attack an invading antigen at
+               any moment, with no advance knowledge of what the antigen may
+               be. In information terms, it needs to discover some part of the an-
+               tigen that is unique. Its method is not unlike Poincaré’s two-stage
+               method of solving a mathematical problem. First put together lots
+               of random combinations, then subject them to tests.
+                  Biological information is stored in the “genetic code,” the
+               sequence of genes along a chromosome in our DNA. “Sequencing”
+               the DNA establishes the exact arrangement of nucleotides that
+               code for specific proteins/enzymes. All the advances in molecular
+               genetics are based on this sequencing ability.
+                  The white blood cells have evolved a powerful strategy to dis-
+               cover unique information in the antigen. What they have done is
+               evolve a “re-sequencing” capability. Using the same gene splicing
+               techniques that biologists have now developed to insert character-
+               istics from one organism into another, the white blood cells have
+               a very-high-speed process that shuffles genes around at random.
+               They cut genes out of one location and splice them in at random in
+                                         The Biology of Free Will      237
+
+other locations. This combinatorial diversity provides a variation
+in the gene pool very much like the Darwinian mutations that
+drive species evolution.
+   But the marvelous immune system gets even more random. It
+has a lower-level diversity generator that randomly scrambles the
+individual nucleotides at the junctions between genes. The splic-
+ing of genes is randomly done with errors that add or subtract
+nucleotides, creating what is called junctional diversity.
+Bacterial Chemotaxis
+   Some of the smallest organisms are equipped with sensors and
+motion capability that let them make two-stage decisions about
+which way to go. They must move in the direction of nutrients and
+away from toxic chemicals. Some bacteria do this with tiny flagella
+that rotate in two directions. Flagella rotating clockwise cause the
+
+                                                                         Chapter 16
+bacterium to tumble and face random new directions. Rotation
+of the flagella counter-clockwise drives the bacterium straight
+ahead. As the bacterium moves, receptors on the bacterium sur-
+face detect gradients of chemicals. When the gradient indicates
+“food ahead” or “toxic behind,” the bacterium keeps going. If the
+gradients are not promising, the bacterium reverses the flagella
+rotation direction, which makes it tumble again.
+   In Nature Magazine,1 the German neurogeneticist Martin
+Heisenberg challenged the idea, popular in the recent psychol-
+ogy and philosophy literature,2 that human free will is an illusion.
+Heisenberg suggested that a lot could be learned by looking at
+lower animals. We can see that they do not merely respond to
+stimuli mechanically, but originate actions. He said,
+    “when it comes to understanding how we initiate behaviour,
+    we can learn a lot by looking at animals. Although we do not
+    credit animals with anything like the consciousness in hu-
+    mans, researchers have found that animal behaviour is not as
+    involuntary as it may appear. The idea that animals act only in
+    response to external stimuli has long been abandoned, and it is
+1       Nature, vol. 459, 2009, p. 164
+2       Cf. especially Wegner (2002)
+         238     Free Will: The Scandal in Philosophy
+
+                     well established that they initiate behaviour on the basis of their
+                     internal states, as we do.”
+                 One of Heisenberg’s examples was bacterial chemotaxis.
+                     “Evidence of randomly generated action — action that is dis-
+                     tinct from reaction because it does not depend upon external
+                     stimuli — can be found in unicellular organisms. Take the way
+                     the bacterium Escherichia coli moves. It has a flagellum that
+                     can rotate around its longitudinal axis in either direction: one
+                     way drives the bacterium forward, the other causes it to tumble
+                     at random so that it ends up facing in a new direction ready for
+                     the next phase of forward motion. This ‘random walk’ can be
+                     modulated by sensory receptors, enabling the bacterium to find
+                     food and the right temperature.” 3
+
+               An Error Detection and Correction System?
+Chapter 16
+
+                  Errors in protein synthesis are arguably quantal. If errors pre-
+               vent proper folding, the chaperone functions as an information
+               error detection and correction system. If it succeeds in helping the
+               protein to fold, the protein is released, otherwise the chaperone
+               will digest and destroy the malformed protein.
+                  Here the quantal noise will destroy the protein if the error
+               cannot be corrected. It is of course not as if a new protein is be-
+               ing generated analogous to the accidental variations that genetic
+               mutations introduce to the gene pool.
+                  But it is instructive as an example of a two-stage process none-
+               theless, in that microscopic indeterministic errors are repaired by
+               macroscopic, adequately determined, systems
+               Neurotransmitter Release as a Noise Source
+                  Since information flows across the synapses, randomness of
+               release times for transmitter quanta may be a source of infor-
+               mation noise in memory storage and recall. Neurotransmitter
+               “quanta” are of course huge compared to atomic-level quantum
+               processes - containing thousands of molecules.
+
+                 3       Nature, vol. 459, 2009, p. 165
+                                      The Biology of Free Will                  239
+
+  John Eccles thought this to be a meaningful source of noise,
+that it could help the brain make undetermined decisions, but
+he did not have a coherent idea of the process, like the two-stage
+model of free will.
+Four Levels of Selection
+   I propose that there have been four levels in the evolutionary
+development of free will. In all four levels, the source of the
+random generation of alternative possibilities in the first stage
+of my two-stage model is the same. It is the essential chaos and
+noise that is characteristic of information processes at the lower
+levels of any organism.
+   But in the second stage, I argue that new methods of selection
+of the best alternative possibility get added at the upper levels.
+
+                                                                                  Chapter 16
+Instinctive Selection
+  At the lowest level, selection is instinctive. The selection criteria
+are transmitted genetically, shaped only by ancestral experiences.
+Learned Selection
+  At the second level are animals whose past experiences guide
+their current choices. Selection criteria are acquired through
+experience, including instruction by parents and peers.
+Predictive Selection
+   Third-level animals use their imagination and foresight to
+estimate the future consequences of their choices.
+Reflective (Normative) Selection
+   At the highest level, selection is reflective and normative.4
+Conscious deliberation about community values influences the
+choice of behaviors.
+
+  4     Compare Christine Korsgaard’s theory of normativity. Korsgaard (1996)
+

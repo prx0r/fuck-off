@@ -1,0 +1,188 @@
+   S.N. Bose, ZP, 26, 178                                               1924
+
+
+
+
+   Planck’s Law and Light Quantum Hypothesis.
+
+
+                                 S.N. Bose
+
+                              (Received 1924)
+
+
+
+
+    Planck’s formula for the distribution of energy in the radiation from a
+black body was the starting point of the quantum theory, which has been
+developed during the last 20 years and has borne a wealth of fruit in energy
+domain of physics. Since its publication in 1901 many methods for deriving
+this law have been proposed. It is recognized that basic assumptions of the
+quantum theory are irreconcilable with the laws of classical electrodynamics.
+All derivations up to now use the relation
+
+                                       8πν 2 dν
+                             ρν dν =            E,
+                                         c3
+that is, the relation between the radiation density and the mean energy of
+an oscillator, and they make assumptions about the number of degrees of
+freedom of the ether, which appear in the above formula (the first factor
+on the right– hand side). This factor, however, can be derived only from
+classical theory. This is the unsatisfactory feature in all derivations and it
+is therefore no wonder that attempts are being made to obtain a derivation
+that is free of this logical flaw.
+    Einstein has given a remarkably elegant derivation. He recognized the
+logical defect of all previous derivations and tried to deduce the formula
+independently of classical theory. From very simple assumptions about the
+
+
+                                       1
+energy exchange between molecules and a radiation field he found the rela-
+tion
+                                        αmn
+                               ρν = m −n      .
+                                     e kT − 1
+To make this formula agree with Planck’s he had to use Wien’s displacement
+law and Bohr’s correspondence principle. Wien’s law is based on classical
+theory and the correspondence principle assumes that the quantum theory
+and the classical theory coincide in centrum limits.
+    In all cases it appears to me that the derivations have not been suffi-
+ciently justified from a logical point of view. As opposed to these the light
+quantum hypothesis combined with statistical mechanics (as it was formu-
+lated to meet the needs of the quantum theory) appears sufficient for the
+derivation of the law independent of classical theory. In the following I shall
+sketch the method briefly.
+    Let the radiation be enclosed in the volume V and let its total energy
+be E. Let various types of quanta be present of abundances N8 and energy
+hν8 (s = 0 to s = ∞). The total energy is then
+                               X                  Z
+                          E=         Ns hνs = V       ρν dν                      (1)
+                                 s
+
+The solution of the problem therefore requires the determination of the
+NS , which, in turn, determine ρν . If we can give the probability for each
+distribution characterized by arbitrary values of Ns then the solution is given
+by the condition that this probability is to be a maximum, keeping in mind
+the condition (1) which is a constraint on the problem. We now seek this
+probability.
+    The quantum has the momentum hνc s in the direction of its motion. The
+momentary state of the quantum is characterized by its coordinates x, y, z
+and the corresponding components of the momentum px , py , pz . These six
+quantities can be considered as point coordinates in a six–dimensional space,
+where we have the relation
+                                                  h2 ν 2
+                            px2 + py2 + pz 2 =           ,
+                                                   c2
+in virtue of which point representing the quantum in our six–dimensional
+space is forced to lie on a cylindrical surface determined by the frequency.
+To the frequency range dνs there belongs in this sense the phase space
+   Z
+       dx dy dz dpx dpy dpz = V · 4π(hν /c)2 hdν /c = 4π · h3 ν 3 /c3 · V · dν
+
+
+                                         2
+If we divide the total phase volume into cells of size h3 , there are then
+4π · ν 2 /c3 · dν cells in the frequency range dν . Nothing definite can be said
+about the method of dividing the phase space in this manner. However,
+the total number of cells must be considered as equal to the number of
+possible ways of placing a quantum in this volume. To take into account
+polarization it appears necessary to multiply this number by 2 so that we
+obtain 8πV ν 2 dν/c3 as the number of cells belonging to dν .
+    It is now easy to calculate the thermodynamic probability of a (macro-
+scopically defined) state. Let N s be number of quanta belonging to the
+frequency range dν s . In how many ways can these be distributed among the
+cells that belong to dν s ? Let ps0 be number of empty cells., ps1 the number
+containing 1 quantum, ps2 the number containing 2 quanta, and so on. The
+number of possible distributions is then
+                      As !                                                  8πν 2
+                                             where             As =               · V dν s
+                 ps0 !ps1 ! . . .                                            c3
+and where
+                            N s = 0 · ps0 + 1 · ps1 + 2ps2 + . . .
+is the number of quanta belonging to dν s .
+    The probability W of the state defined by all psr is clearly
+                                                       As !
+                                               Π      s s
+                                                   s p0 !p1 . . .
+
+Taking into account that the psr are large numbers we have
+                                    X                            XX
+                   log W =                   As log As −                            psr log psr
+                                        s                           s       r
+
+where                                                   X
+                                              As =             psr .
+                                                           r
+   This expression must be a maximum under the constraints
+                                    X                                   X
+                        E=                  N s hν s ; N s =                    = rpsr .
+                                    s                                   r
+
+Carrying through the variations we obtain the conditions
+                 XX                                                    X
+                             δpsr (1 + log psr ) = 0,                       δN s hν s = 0
+                  s     r
+                      X                                                     X
+                             δpsr = 0                          δN s =                rδpsr .
+                        r                                                       r
+
+
+                                                       3
+From this we obtain
+                  XX                                                      1 X
+                            δpsr (1 + log psr + λs ) +                        rδpsr = 0
+                  r    s                                                  β s
+From this we first see that
+                                                                      s
+                                                         − rhν
+                                              psr = B s e β               .
+Since, however,
+                                                        s                                 s
+                             X                 − rhν                            − hν
+                       s
+                      A =         B e     s         β             s
+                                                            = B (1 − e                   β )−1
+                              r
+then                                                                      s
+                                                                  − hν
+                                          s
+                                  B = A (1 − e      s                 β ).
+We further have
+                                                               s
+                                           s       s      − hν
+               X         X            − hν   − rhν    A e β
+                                                        s
+         Ns =     rpsr =    rAs (1 − e β )e β =
+                r         r
+                                                            hν s
+                                                      1−e β
+Taking into account the value of As found above, we have
+                                                                                     s
+                                                                              − hν
+                                  X 8πhν s3 dν s                        e       β
+                            E=                                    V
+                                      S
+                                                    c3                1 − ehν s /β
+Using the result obtained previously
+                                  "                                                       #
+                               E X s              s
+                           S=k   −   A log(1 − ehν /β )
+                               β   s
+and nothing that
+                                                    ∂S   1
+                                                       =
+                                                    ∂E   T
+we obtain
+                                                    β = kT
+Hence
+                                X 8πhν s3                              1
+                           E=                            V                    dν s
+                                  S
+                                               c3               ehν s /kT − 1
+which is Planck’s formula.
+    Comment of translator. Bose’s derivation of Planck’s formula appears
+to me to be an important step forward. The method used here gives also
+the quantum theory of an ideal gas, as I shall show elsewhere. [A. Einstein]
+
+                                                            4
+

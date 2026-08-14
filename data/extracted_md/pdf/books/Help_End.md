@@ -1,0 +1,369 @@
+# 366      Free Will: The Scandal in Philosophy
+
+**source:** pdf · **section:** books
+**file:** Help_End
+---
+
+
+                                                   m inis        m
+                                          De t e r
+
+                                                            t i b i l i s m
+                                                  Co    mpa                 ism
+                                                                   rmin
+                         ter  minism               Sof   t D e t e
+                  De
+             Hard                                                                 lism
+                                                                    o m p atibi
+                                                            S oft C
+                                  ilism
+                                                        d a l
+                                                    Scan m
+                      m p a t i b
+        I nco                                                                            In
+H a r d
+                       g Th e ico                                       bilis
+                  ndin                                        m p a t i
+                E
+               ionism
+                             Sem
+  Illus
+                                                                 p atib ilism
+                                                        In c o m
+                                                    w
+                        sm                 Narro
+   Impo         ssibili
+                                                                 p atib   ilism
+                                                             o m
+Chapter 29
+
+                                                      t In c
+                                                 Sof                                      y
+                         del                                                      Leewa
+                   an Mo
+             Valeri                                       p a t i b ilism          (Altern
+                                                                                           a
+                                          r c e I ncom nce)
+                                      Sou          l S e que
+                                        (Actu   a
+                                                                             i m i t e d
+                                                      e lw             ith L
+                                                  o d
+                                - S t      a ge M
+                           Tw o
+                             m inis         m
+                    de t e r                               Ending The Scandal            367
+               In
+               Ending The Scandal
+                            rianis
+                                   m
+                                             a
+                                 Libert
+                    The main goal of the Information Philosopher website has
+               been to provide students everywhere with the resources they need
+               to be more knowledgeable than their professors on some classical
+                                                                                 t - C  a  usal
+               problems of philosophy that remain unsolved today.      AgeFreen will is
+               the most important of these problems.
+                                            C       al
+                                               auscan
+                                    n   t -
+                            Eve on things they learned from their teachers.
+                    I hope also that   professors       find some new information they
+               need to improve
+                    Our goal is to break the great causal chain of sophisticated-C       butausa
+                                                                                                   l
+               unproductive arguments, sophistical and paradoxicalNdialogues,    on
+               logical puzzles and language games
+               as history of philosophy, butS
+                                                      FA that are still worth teaching
+          t i b i lis        m                      are hopelessly inadequate as philo-
+
+    omp a      sophical principles for the free and creative young minds
+                                                                           s a  litywe are
+nc                                                             otC
+               preparing for an open future in which theyfauthor
+                                                             S
+                                                                       a u
+                                                                         their  own    lives.
+                    We cannot solve the problem of free will with logical paradoxes,
+
+                         m p a tibiliofsmclever determinisms designed to limit the
+               despite centuries
+                                                                                            a n ism
+               I n  c o                                                        er   t a r i
+      Broad power of the laws of Nature and of Nature’sSGod.
+               freedom     of our  “finite”    minds  by  comparison  with  the  “infinite”
+                                                                    oft Lib
+                    And we cannot dis-solve
+                                             i s mthe pseudo-problem of free will with               ia
+                              r t a r i a  dress old concepts in new jargon, that change ibertar
+                                           n
+                            e
+               language games      that
+                       Lib from free will to moral responsibility,nthat               oft    L
+          o d  e stsubject
+               the
+                                                                         r i  g    Schange
+        M the debate from determinism to the impossibility          Da of alternative
+               possibilities, and that change
+                                               C       to momentous contest between
+                                                  ogithe
+                t i b  lism
+               free iwill  and determinism to juggling words like compatibilism
+                                                                                              Chapter 29
+            p a
+ Incom and              ces)
+                      incompatibilism.
+                                                                                n is          m
+            e q u  e  n
+                                                                        e r m i
+                                                                    det
+          S         Compatibilism     is a “quagmire of evasion,” said William James.
+  t i v e
+a
+                                                  d In
+               Peter van Inwagen’s reframing the problem as “incompatibil-
+                                            i t e
+                                     nd Lim
+               ism” is a “tarpit of confusion,” I say, because it puts libertarians
+
+               ism                a
+               and hard determinists in the same category.
+
+       r m i n      One way to look at the moral scandal that concerns me is to
+  Dete         focus on the actualism of compatibilist and determinist philoso-
+               phers. They believe that there is but one possible actual future.
+                    This is not the message that academic philosophers should be
+               delivering to students, especially because determinism cannot be
+               proved, and current scientific evidence is to the contrary.
+         368     Free Will: The Scandal in Philosophy
+
+                  Aristotle made clear the essential difference between the
+               actual and the possible. Something was actual for Aristotle when
+               it happened, when it realized its end or purpose. Otherwise it had
+               the power or potential to be otherwise. 1
+                  The last thing we want to tell young people is that they have
+               no potential, that their future is already determined. It’s not only
+               poor philosophy and bad psychology, it’s terrible science.
+                  Men are not machines, and minds are not computers.
+                  As Martin Heisenberg has shown us, even the lowest organ-
+               isms are autonomous and have the behavioral freedom to realize
+               their goals, to go from the possible to the actual.
+                     “A hallmark of biological organisms is their autonomy. In
+                     evolutionary terms, their autonomy allowed them to invent
+                     active locomotion (automobility = locomotion not caused from
+                     the outside) and to explore space. For going multicellular, cells
+                     had to give up behavioral autonomy and those new creatures
+                     had to reinvent automobility via the nervous system and even-
+                     tually the brain. Self-ness turned animals with brains into sub-
+                     jects. In my view the Self is a decisive feature in the evolution of
+                     freedom. This allows for strong ownership. Behavior has to be
+                     our own to be well adaptive.” 2
+                  How can determinist and compatibilist philosophers convince
+               themselves that the causal laws of nature imply just one actual
+               future, when causality is not provable and the laws only statistical?
+               We must go back to David Hume to understand this.
+Chapter 29
+
+               Our Natural Belief in Free Will
+                  David Hume’s skepticism showed the inability of logic to
+               “prove” facts in the physical world. No number of regular succes-
+               sions of event A followed by event B can prove that A causes B.
+                  Hume the Skeptic thus denied causality. But Hume the Natu-
+               ralist said that we have a natural belief in causality. Similarly, we
+               have a natural belief in the uniformity of nature. The sun will rise
+               tomorrow. The laws of nature are not changing, so the past is a
+               reliable guide to the future. None of these beliefs is logically true.
+               But they all are plausible and have significant practical value.
+                 1       actual = entelechy (ἐν + τέλος + ἔχειν), possible = dynamis (δύναμις)
+                 2       Personal communication (2011).
+                                       Ending The Scandal             369
+
+   Hume was an empiricist. He based his ideas on observed
+experience. But he had a theoretical model for human nature. He
+based it on Isaac Newton’s equations of motion that describe
+the physical world. At that time, it appeared that Newton’s laws
+were so perfect at explaining phenomena that they must be neces-
+sary. Hume equated physical necessity with logical necessity, and
+even with moral necessity, in which human volitions are caused by
+motives, and motives are caused by prior events.
+   The debates today as between free will and determinism were
+then debates between “liberty” and “necessity.” Liberty was
+thought to involve chance events or mental events (the “will”) not
+caused by prior events. Hume denied the existence of chance and
+any other uncaused events. Following Hobbes, he defined free-
+dom as freedom from external coercion, e.g., being in chains or in
+jail.
+   Hume’s model of the mind as governed by physical laws “re-
+duced” the mind, and indeed all living things, to material physical
+systems. But as Aristotle first noted, biological systems are dif-
+ferent. They have a purpose or goal. Aristotle called it telos.
+   The simplest molecules that were precursors of life “learned”
+to replicate themselves, at which point their elemental goal was to
+maintain themselves (preserve their information, using negative
+entropy from the sun) and replicate themselves. Chance errors in
+the replication created different molecules, some of which were
+better replicators, and the rest is biological history.                 Chapter 29
+     Even very young children intuitively know Aristotle’s es-
+sential difference between inanimate physical objects, which fol-
+low natural laws, and living things, which can originate actions,
+can behave differently in the same circumstances, and which can
+make choices.
+   To choose is to decide between alternative possibilities. That
+these are real and not apparent is because chance, which Hume
+and his contemporaries denied as absurd and atheistical, is the
+source of novelty, creativity, and new information in the universe.
+   Hume’s dream of a classical mechanical Newtonian Mind as his
+explanation for human nature, following the same deterministic
+         370     Free Will: The Scandal in Philosophy
+
+               causal physical laws as freely falling apples and the orbiting plan-
+               ets, is a philosophical failure. It fails for the same reason that Ein-
+               stein’s dream of a deterministic and causal explanation for the
+               merely statistical laws of quantum mechanics has failed. Nature
+               does play dice.
+                  And until the die is cast, until the mind decides, until the
+               information about the decision is recorded, our choices are free.
+                  Remember that the causal explanations that Hume and Einstein
+               wanted are not provable logically or by sophisticated language
+               claims. Causality is a natural belief, beyond logic and language.
+                  But there is a competing and more vital natural belief, also un-
+               provable, namely that we have free will and can take responsibility
+               for our choices.
+                  Without chances and possibilities, choices are not real. Without
+               an initial chance stage, the choice stage would be pre-determined.
+                  My two-stage model is not a monolithic “free will.” It is a pro-
+               cess, first chance, then choice, first “free,” then “will.”
+                  Our thoughts are free. Our actions are willed.
+                  Most actions are “determined” by the “de-liberations” that we
+               call self-determination. But these were not pre-determined from
+               the “fixed past” just before our deliberations began.
+                  Others of our actions are undetermined liberties. When our
+               deliberations do not produce a single possible action, we can
+               choose any of the equally attractive options remaining, and take
+Chapter 29
+
+               full responsibility for whichever one we finally choose. Closely
+               related to the ancient liberum arbitrium, these undetermined
+               liberties only become self-determined in the moment of choice.
+                                                                           Undetermined
+                                                           Decision          Liberties
+                                  Generate        Evaluate
+                Fixed Past       Possibilities   Alternatives
+                                                                                Future
+                                                                            De-liberated
+                                                                         Self-Determination
+                 Figure 29-1. The Two-Stage Cogito Model of Free Will.
+                                       Ending The Scandal                371
+
+Two-Step Processes
+   Why two steps, two-stages, two parts? You will need to know a
+bit more about information philosophy than there was room for in
+the introduction to this book on free will. I hope those of you with a
+serious interest in philosophy will become information philosophers
+and help me with I-Phi.
+   For now, it’s enough to know three important two-step processes.
+   1) The cosmic creation process requires two steps.3 The first is a
+microscopic quantum (hence indeterministic) event that forms an
+information structure. The second is a macroscopic thermodynamic
+event, in which the entropy and energy that would destroy a new
+information structure, if it stayed around, is carried away to a dark
+corner of the universe.
+   2) Biological evolution is a two-step process. The first is a
+microscopic change in the genetic code of an organism, its central
+information structure. The change is usually the result of a quantum
+event, like a cosmic-ray collision with the DNA. The second step is
+the natural selection of some changes because they are reproduc-
+tively successful and propagate.
+   3) The third two-step process to create information is free will.
+The Two-Stage Cogito Model of Free Will
+   The first step is random thoughts about alternative possibilities
+for action that are generated in the mind, generated in part because       Chapter 29
+of quantum-level noise in the brain’s information structure as it
+recalls past experiences to help with its deliberations.
+   The second step is normally an adequately determined decision
+following an adequately determined evaluation of the options. It
+includes the ability to “think again,” to go back and generate more
+options as needed. And we can always “flip a coin” when there is no
+clear best option.
+   In such cases, the final decision itself can be undetermined. The
+brain has access to quantum level events. It can see a single photon
+and smell a single molecule. So when it makes an undetermined
+  3    See the next chapter.
+         372         Free Will: The Scandal in Philosophy
+
+               decision, it may access quantum level indeterminacy. But a random
+               decision does not necessarily imply lack of responsibility. 4
+                  The two-stage model for free will explains how we “can do
+               otherwise in exactly the same circumstances.” 5 And it shows how
+               our decisions are not pre-determined, not even determined by the
+               fixed past and the laws of nature at the moment the generation of
+               alternative possibilities begins.
+                  If you agree that this two-stage model deserves to be considered
+               in philosophy classes today, I believe we need to formulate some
+               brief ways for you to frame the problem historically in the context of
+               past proposed solutions. And then some very simple explanations
+               of the proposed new solution.
+               How You Can Make the Best Case for Free Will
+                   If you have read a significant part of this book, then you are
+               well-equipped to discuss the two-stage model in depth. But can you
+               explain it in a few lines to your friends and even to scholars like
+               philosophy professors who may have fixed views on the subject?
+                  I suggest that one way to start is to situate the problem and the
+               solution historically as follows, in three parts.
+               Part 1 - Reconciling Free Will with Adequate Determinism
+                  David Hume, in his “Of Liberty and Necessity,” section VII of
+               the 1748 Enquiries concerning Human Understanding, famously
+               reconciled freedom with determinism.
+Chapter 29
+
+                     “For what is meant by liberty, when applied to voluntary actions?
+                     We cannot surely mean that actions have so little connexion with
+                     motives, inclinations, and circumstances, that one does not follow
+                     with a certain degree of uniformity from the other”
+                     “By liberty, then, we can only mean a power of acting or not act-
+                     ing, according to the determinations of the will” 6
+                  R. E. Hobart in 1934 clarified the fact that a free will involves
+               determination of the will by reasons and motives. It requires neither
+               logical necessity nor strict physical determinism.
+                 4       Dennett and Kane have shown this. See p. 356-357
+                 5       See p. 199 for details.
+                 6       Hume (1975) p. 95.
+                                                  Ending The Scandal    373
+
+   Hume, as moderated by Hobart, provided the second, adequately
+determined stage of the Cogito model, which we now give the
+traditional name of de-liberated self-determination.
+Part 2 - Reconciling Free Will with Indeterminism
+   William James, in 1884, provided the critical first stage, by
+reconciling free will with objective chance.
+   My own work has refined James’ explanation, to make it consis-
+tent with quantum indeterminism.
+   So you can say that Hume and Hobart provided half the answer
+to the problem of free will. Their adequate determination reconciled
+a compatibilist free will with the laws of classical physics.
+   James and the others in Chapter 12 who proposed two-stage
+models found the second half of the answer. In particular, I hope to
+be remembered as the information philosopher who reconciled
+libertarian free will with the probabilistic laws of quantum physics.
+Part 3 - Will Compatibilists Accept This Improvement and
+Call Themselves Comprehensive Compatibilists?
+  Compatibilists were right all these centuries to reject the radical
+idea that freedom means an extreme libertarianism that denies
+reasonable causes for human actions. Can we convince them that
+our two-stage model simply adds creative and free elements to their
+current thinking on self-determination?
+
+                 Determinism               Libertarianism                 Chapter 29
+
+                              Comprehensive
+                               Compatibilism
+
+  Figure 29-2. A comprehensive compatibilist taxonomy.
+  Since most modern compatibilists are agnostics on the truth of
+determinism (or indeterminism), we hope they will accept a free
+will model that is triply compatible - with Hume’s definition, with
+James’ definition, and with Martin Heisenberg’s evolution of
+human free will from the behavioral freedom of lower animals.
+

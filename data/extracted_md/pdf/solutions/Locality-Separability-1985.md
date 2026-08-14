@@ -1,0 +1,1483 @@
+# DON HOWARD*
+
+**source:** pdf · **section:** solutions
+**file:** Locality-Separability-1985
+---
+
+ EINSTEIN ON LOCALITY AND SEPARABILITY
+          . . . all things which are different must be distinguished in some way,
+          and in the case of real things position alone is not a sufficient means
+          of distinction. This overthrows the whole of purely corpuscularian
+          philosophy.
+                            Leibniz, 'On the Principle of Indiscernibles' (1696)
+
+                                          Introduction
+
+EINSTEIN is famous for his enduring doubts about the quantum theory's claim
+to be a complete theory of nature. The 1935 Einstein, Podolsky and Rosen (EPR)
+paper, 'Can Quantum-Mechanical Description of Physical Reality Be Considered
+Complete?', is a landmark in the history of twentieth-century physics.1 The
+puzzle first posed there about a Gedankenexperiment involving previously
+interacting systems, the puzzle ever since referred to as the 'EPR paradox', has
+been the focus of intense and sustained philosophical debate about the relation
+between theory and reality.2 The Gedankenexperiment itself has recently been
+turned into an actual experiment, the results of which appear to refute the
+possibility of local hidden-variable theories, which is an ironic turn of events,
+since local hidden-variable theories have been regarded by many as an attractive
+   Received 23.3.84.
+   •Present address: Department of Philosophy, University of Kentucky, Lexington, KY 40506,
+U.S.A. 1 wish to thank the Hebrew University of Jerusalem, which holds the copyright, for permission
+to quote from Einstein's unpublished correspondence, and the University of Kentucky Research
+Foundation for generous and timely financial support, which enabled me to study the
+Einstein - Schrodinger correspondence in the duplicate Einstein Archive housed at the Mudd
+Manuscript Library, Princeton University. An earlier version of the paper was read in February
+of 1984 to a session of the Boston Colloquium for the Philosophy of Science. I would like to thank
+my commentator, Jon Jarrett, and the chair of that session, Abner Shimony, for several helpful
+comments on the paper. Many thanks are also owed to my colleague, Ed Madden, who had a number
+of good suggestions for improving the exposition of my argument, and to my wife, Margo Shearman-
+Howard, for her invaluable editorial assistance. Additional thanks are owed, finally, to the two
+anonymous referees who drew my attention to a couple of remaining obscurities in the argument.
+   'Physical Review 47 (1935), 777-80.
+   2
+     Bohr is, of course, the most famous respondent. See both his immediate reply, 'Can Quantum-
+Mechanical Description of Physical Reality Be Considered Complete?' Physical Review 48 (1935),
+696 - 702, and his later summary of his years-long controversy with Einstein, 'Discussion with Einstein
+on Epistemological Problems in Atomic Physics' in Albert Einstein: Philosopher - Scientist, P. A.
+Schilpp (ed.) (Evanston, Illinois: The Library of Living Philosophers, 1949), pp. 199-241. A helpful,
+thorough discussion of the Bohr - Einstein controversy can be found in C. A. Hooker's 'The Nature
+of Quantum Mechanical Reality: Einstein Versus Bohr', in Paradigms and Paradoxes: The
+Philosophical Challenge of the Quantum Domain, R. G. Colodny (ed.) (Pittsburgh: University of
+Pittsburgh Press, 1972), pp. 6 7 - 3 0 2 .
+
+Stud. Hist. Phil. Set., Vol. 16, No. 3, pp. 171-201, 1985.             0039-3681/85 S3.00+ 0.00
+Printed in Great Britain.                                             © 1985 Pergamon Press Ltd.
+
+                                                 171
+172                                            Si tidies in History and Philosophy of Science
+
+way to repair the defect in quantum mechanics which so troubled Einstein.3
+   However, Einstein's doubts about quantum mechanics were never enough
+to shake the faith of the defenders of quantum mechanical orthodoxy. Indeed,
+too many physicists and philosophers have been inclined to dismiss Einstein's
+misgivings as being a result of the naive but forgivable failures of understanding
+of an old man still clinging to an outmoded, deterministic metaphysics. I do
+not share Einstein's doubts about quantum mechanics, but I think it a mistake
+so easily to dismiss his arguments. In fact, I believe that his views on
+incompleteness have never been understood properly, precisely because we have
+not taken them seriously enough to study them with the care they deserve. And
+I believe that the loss to our understanding of physics is considerable. In what
+follows, I will argue that Einstein's real reasons for believing quantum mechanics
+incomplete were quite different from those attributed to him on the basis of
+casual readings of the EPR paper. And I will argue that his reflections on the
+quantum mechanical challenge to classical ways of thinking are far more
+insightful than we have taken them to be. Should we be surprised to learn that
+Einstein was a profound, not a superficial critic of the quantum theory?
+   More specifically, I will defend four claims:
+   (1) Einstein did not write the Einstein, Podolsky and Rosen pa           and he
+was unhappy with the way it turned out, arguing that the 'main point' was
+'buried by the erudition'. 4
+   (2) Shortly after the appearance of the EPR paper, Einstein set forth his own
+incompleteness argument, which over the course of the next fifteen years he
+presented at least three times in print and at least twice in his correspondence.
+The paradoxical behavior of previously interacting systems is still the key, but
+Einstein's argument differs from the EPR argument in both its logical form
+and the assumptions upon which it rests. In brief, what Einstein argues is that
+the incompleteness of quantum mechanics follows from the conjunction of two
+   3
+     For a survey of all of the experimental results through 1978, as well as an analysis of Bell's
+theorem, which was the starting point for this line of investigation, see J. F. Clauser and A. Shimony,
+'Bell's Theorem: Experimental Tests and Implications', Reports on Progress in Physics 41 (1978),
+ 1881 - 1927. Bell first presented his theorem in 'On the Einstein, Podolsky and Rosen Paradox',
+Physics 1 (1964), 195 — 200. The most recent experimental results, which provide the strongest evidence
+to date against local hidden-variable theories, are reported in A. Aspect, P. Grangier and G. Roger,
+'Experimental Realization of Einstein - Podolsky - Rosen- Bohm Gedankenexperiment: A New-
+Violation of Bell's Inequalities', Physical Review Letters 49 (1982), 9 1 - 9 4 , and A. Aspect, J.
+Dalibard and G. Roger, 'Experimental Test of Bell's Inequalities Using Time-Varying Analyzers',
+Physical Review Letters 49 (1982), 1804-7. In what follows, I refer to the various experimental
+tests of local hidden-variable theories, collectively, as the 'Bell experiments'.
+   •"Einstein, letter to Schrodinger, 19 June 1935. The contents of this letter are discussed in some
+detail below; see sections 1 and 2. Arthur Fine first drew attention to the importance of this letter
+in his 'Einstein's Critique of Quantum Theory: The Roots and Significance of EPR', in After Einstein:
+Proceedings of the Einstein Centennial Celebration at Memphis State University, 14- 16 March
+1979, P. Barker and C. G. Shugart (eds.) (Memphis, Tennessee: Memphis State University Press,
+ 1981), pp. 147 - 5S. However, I disagree in important ways with Fine's analysis of the incompleteness
+argument found in the letter. In particular, Fine denies that one can find in the letter a distinction
+of the kind 1 want to draw between separability and locality. See notes, 23 and 41.
+Einstein on Locality and Separability                                          173
+
+assumptions. The first, which I call the 'separability principle', asserts that any
+two spatially separated systems possess their own separate real states. The
+second, the 'locality principle' asserts that all physical effects are propagated
+with finite, subluminal velocities, so that no effects can be communicated
+between systems separated by a space-like interval.
+   (3) Far better than the EPR argument, Einstein's incompleteness argument
+points up the issues at stake in the choice between quantum and classical theories
+of nature. In particular, the difference is seen to rest on the quantum theory's
+denial of the separability principle, which Einstein regards as the essential
+foundation of all classical, realistic theories. Einstein's incompleteness argument
+also thus clarifies the link between his doubts about quantum mechanics and
+his commitment to realism by making clear the physical assumptions upon which
+his realism is grounded.
+   (4) Einstein's own approach to incompleteness suggests a new way of
+understanding Bell's theorem and the physical implications of the experimental
+tests of local hidden-variable theories. For it can be argued that the Bell
+inequality is itself a consequence of the separability and locality principles, and
+thus it can be claimed that the Bell experiments demonstrate not the existence
+of a peculiar kind of 'quantum non-locality', but instead the existence of
+quantum non-separability. And Einstein's analysis implies that therein lie the
+seeds of a conflict not with special-relativistic locality constraints, but with
+assumptions fundamental to general relativity and any other field theory.
+   Given their importance in what follows, the separability and locality principles
+should be clearly distinguished. To repeat: separability says that spatially
+separated systems possess separate real states; locality adds that the state of a
+system can be changed only by local effects, effects propagated with finite,
+subluminal velocities. There is no necessary connection between the two
+principles, though they are frequently stated as if they were one. Some theories
+conform to both principles, general relativity being an example of such a
+separable, local theory. Other theories conform to just one or the other.
+Quantum mechanics is, on my interpretation, a non-separable, local theory.
+Examples of the opposite sort, namely, of separable, non-local theories, are
+to be found among the non-local hidden-variable theories. Most importantly,
+it should be understood that the separability of two systems is not the same
+thing as the absence of an interaction between them, nor is the presence of an
+interaction the mark of their non-separability. The separability principle operates
+on a more basic level as, in effect, a principle of individuation for physical
+systems, a principle whereby we determine whether in a given situation we have
+ only one system or two. If two systems are not separable, then there can be
+ no interaction between them, because they are not really two systems at all.
+174                                           Studies in History and Philosophy of Science
+
+                  1. Einstein's Attitude Toward the EPR Argument
+
+   The argument developed in the Einstein, Podolsky and Rosen paper is what
+I call a direct argument for incompleteness. It proceeds by first establishing a
+'condition of completeness' and then seeking to show that in at least one special
+case quantum mechanics fails to satisfy this necessary condition. The
+completeness condition is straightforward: 'every element of the physical reality
+must have a counterpart in the physical theory'. 5 But for the completeness
+condition to be applied, at least a sufficient condition for the existence of
+elements of physical reality is required. Thus, the EPR paper presents the famous
+criterion of physical reality:
+
+      If, without in any way disturbing a system, we can predict with certainty (i.e. with
+      probability equal to unity) the value of a physical quantity, then there exists an element
+      of physical reality corresponding to this physical quantity.6
+
+The remainder of the EPR argument consists of a detailed examination of a
+special case wherein the value of either of two conjugate parameters of one
+system can be predicted with certainty on the basis of a measurement of the
+corresponding parameter of a second system which had previously interacted
+with the first, the interaction having established correlations between the
+parameters of the two systems. If the two systems are far enough apart, the
+measurement on the second system entails no physical disturbance of the first
+system, and so, the conditions in the reality criterion being satisfied, it is claimed
+that elements of physical reality exist corresponding to each of the two conjugate
+parameters of the first system. But quantum mechanics prohibits the
+simultaneous definiteness of conjugate parameters. Thus, the EPR argument
+concludes, quantum mechanics is incomplete.
+   Many commentators have been troubled by gaps in the EPR argument. The
+most significant lacuna is encountered at the place where the simultaneous reality
+of two conjugate parameters of the first system is inferred from the possibility
+of measuring either of the corresponding parameters of the second system. In
+general, the relevant parameters of the second system are themselves conjugate
+and so cannot be measured simultaneously. Additional assumptions are therefore
+required to license the inference from the possibility of measuring either
+parameter of the second system, to the actual simultaneous reality of both
+conjugate parameters of the first.
+   One way to repair the defect is just to assume that all physical systems at
+all times possess definite, observer-independent properties which are revealed
+to us by observation, including the kind of indirect observations which lie at
+  5
+   Op. cit., note 1, p. 777.
+  "Ibid.
+Einstein on Locality and Separability                                                             175
+
+the heart of the EPR Gedankenexperiment.1 But this common maneuver is
+objectionable on two counts. First, it reduces the EPR argument to a petitio
+principii. The aim of the EPR argument is to prove, via the reality criterion,
+the existence of elements of physical reality not represented in quantum
+mechanics, and thereby to prove quantum mechanics incomplete. However, the
+suggestion under consideration is that we simply assume the existence of these
+(and many other) elements of physical reality. Second, and more importantly,
+this proposal naively and tacitly presupposes that we know what counts as a
+physical system, and that we know what is meant by talk of the 'independence'
+of a system's properties. Thus the proposal obscures what I will argue is the
+most important issue at stake in the debate over the completeness of quantum
+mechanics. For the genius of Einstein's own argument lies precisely in its
+demonstration that the incompleteness of quantum mechanics can be inferred
+only if one posits an explicit principle of individuation for physical systems,
+thereby grounding the independence of systems in a prior assumption of the
+existence of distinct real states of affairs. This principle of individuation turns
+out to be the aforementioned principle of separability.
+   What was Einstein's opinion of the EPR argument? The surprising answer
+is found in his correspondence with Erwin Schrodinger from the summer of
+1935. The EPR paper appeared in the 15 May 1935 issue of Physical Review.
+Shortly thereafter, on 7 June, Schrodinger wrote Einstein a long letter which
+begins thus:
+
+      I was very pleased that in the work which just appeared in Phys. Rev. you openly
+   seized dogmatic quantum mechanics by the scruff of the neck, something we had
+   already discussed so much in Berlin.8
+
+Einstein replied on 19 June, and the beginning of his letter is interesting:
+
+       I was very pleased with your detailed letter, which speaks about the little essay.
+   For reasons of language, this was written by Podolsky after many discussions. But
+   still it has not come out as well as I really wanted; on the contrary, the main point
+   was, so to speak, buried by the erudition. 9
+
+   'Essentially the same prosthesis is recommended in Clauser and Shimony, 'Bell's Theorem',
+p. 1885; their survey opens with a discussion of EPR.
+   'Schrodinger to Einstein, 7 June 1935: 'ich hab mich sehr gefreut, dass Du in der eben erschienenen
+Arbeit in Phys. Rev. die dogmatische Quantenmechanik auch offentlich bei dem Schlafittchen
+erwischt hast, iiber das wir in Berlin schon so viel discutiert hatten.' Schrodinger and Einstein had
+been colleagues in Berlin from 1927 through 1932, Schrodinger as Planck's successor in the Chair
+of Theoretical Physics at the University of Berlin, Einstein as the Director of the Kaiser Wilhelm
+Institute.
+   'Einstein to Schrodinger, 19 June 1935: 'Ich habe mich sehr gefreut mit Deinem ausfuhrlichen
+Briefe, der iiber die kleine Abhandlung handelt. Diese ist aus Sprachgriinden von Podolsky
+geschrieben nach vielen Diskussionen. Es ist aber doch nicht so gut herausgekommen, was ich
+eigentlich wollte; sondern die Hauptsache ist sozusagen durch Gelehrsamkeit verschiittet.'
+176                                             Studies in History and Philosophy of Science
+
+Einstein proceeds immediately to sketch his own incompleteness argument, which
+I will examine shortly. But first we should savor the import of the just quoted
+remark. Einstein says that he did not write the EPR paper, and that he was
+unhappy with the way it turned out! It is thus a mistake to read the EPR
+argument as if it accurately represented Einstein's views. It is even more of a
+mistake to read between the lines of the EPR argument for evidence of Einstein's
+deeper philosophical assumptions. There are gaps in the EPR argument, and
+they can be filled by additional assumptions, as we have just seen. But the gaps
+are not Einstein's gaps, and so neither are the assumptions with which we fill
+them.
+   In particular, we should not attribute to Einstein the kind of uncritical or
+unreflective realism which was considered two paragraphs back as a remedy
+for the defects in the EPR argument. Einstein did believe that all physical systems
+at all times possess definite, observer-independent properties which are revealed
+to us by observation. But he did not just assume this. Instead, Einstein grounded
+his realism about physical systems and their properties in the deeper assumption
+of separability, which is important, because the latter assumption is susceptible
+to revealing kinds of physical and philosophical scrutiny that cannot touch an
+unanalyzed postulate of physical realism.
+
+                     2. Einstein's Own Incompleteness Argument
+
+   What then was Einstein's own argument for the incompleteness of quantum
+mechanics? It was presented first in the just-mentioned letter to Schrodinger
+of 19 June 1935. It was set before the public for the first time in 1936 in Einstein's
+essay, 'Physik und Realitat', 10 and it was given a more careful statement when,
+in 1946 or 1947, Einstein drafted the 'Autobiographical Notes' section for the
+volume, Albert Einstein: Philosopher-Scientist."            The most detailed and
+thoughtful discussion of the argument is found in a paper Einstein wrote in
+1948 for the journal, Dialectica, a paper entitled 'Quanten-Mechanik und
+Wirklichkeit'. 12 There is one final presentation of it in a letter Einstein wrote
+to Max Born on 18 March 1948.13 Essentially the same argument was given on
+   '"Journal of the Franklin Institute 221 (1936), 3 1 3 - 4 7 . An English translation of this essay,
+under the title 'Physics and Reality', was published immediately following the German original
+in the same issue of the Journal of the Franklin Institute, pp. 349 - 82. A different English translation
+was later published in Einstein's Ideas and Opinions (New York: Bonanza Books, 1954),
+pp. 2 9 0 - 323. Unfortunately, both translations are flawed, often in serious ways. 1 have therefore
+retranslated all of the passages quoted here.
+   "'Autobiographisches', in Albert Einstein: Philosopher-Scientist,        pp. 2 - 9 4 . The volume as
+a whole was published only in 1949; however, Einstein begins his 'Autobiographical Notes' by writing,
+'Here I sit in order to write, at the age of 67, something like my own obituary'; this dates his
+composition of the 'Notes' between 14 March 1946 and 14 March 1947.
+   "Dialectica 2 (1948), 320-24.
+   ,]
+      M. Born (ed.), Albert Einstein — Hedwig und Max Born: Briefwechsel, 1916- 1955 (Munich:
+Nymphenburger, 1969), pp. 2 2 3 - 2 4 .
+Einstein on Locality and Separability                                                            177
+
+each occasion, but there is a development in the direction of greater clarity about
+the two basic assumptions which I claim underlie the argument. Each of these
+statements of the argument will be considered below, beginning with that in
+the 19 June 1935 letter to Schrodinger.
+   Most of Schrodinger's letter to Einstein of 7 June 1935 is a critical discussion
+of the mathematics involved in the quantum theoretical treatment of interacting
+systems, Schrodinger being concerned that the special case treated in the EPR
+paper is so special that the incompleteness argument fails of complete generality.
+But near the end of Schrodinger's letter one finds the following remark:
+
+      Until now, the 'story' which I just made up about the whole matter was this. We
+   possess no quantum mechanics which takes relativity theory into account, that is,
+   which takes into account the finite velocity with which all effects are propagated.
+   In the whole scheme of things, we possess only the analogue of the old, absolute
+   mechanics. At best, that can apply to infinitely small systems, in which the light
+   intervals which come into consideration are to be neglected. If we want to separate
+   two systems, then indeed long before their interaction disappears it will cease to be
+   approximable through absolute Coulomb laws and the like. And that's the end of
+   the 'story'. The process of separation is not at all to be conceived according to the
+   orthodox schema.' 4
+
+The orthodox schema mentioned by Schrodinger is simply standard, non-
+relativistic quantum mechanics. The problem to which he is pointing is that this
+orthodox schema permits us to represent interactions only by the device of an
+interaction potential, such as a Coulomb potential. And any such representation
+tacitly assumes that aH-effects are propagated instantaneously, whereas relativity
+theory teaches us that all effects are propagated with a finite velocity. Moreover,
+as the EPR Gedankenexperiment makes clear, at least in theory, the correlations
+established by an interaction persist long after the interaction potential becomes
+negligible. The ultimate issue of Schrodinger's worry was his development of
+the now standard quantum mechanical interaction formalism.15 But in the
+   '•"Schrodinger to Einstein, 7 June 1935: 'Der Vers, den ich nur auf die ganze Sache bisher machte,
+war dieser. Wir besitzen keine Quantenmechanik, welche der Relativitatstheorie d.h. unter anderem,
+welche der endlichen Ausbreitungsgeschwindigkeit aller Wirkung Rechnung tragt. Wir besitzen in
+dem ganzen Schema nur das Analogon der alten absoluten Mechanik. Das kann bestenfalls fur
+unendlichkleine Systeme gelten, in denen die in Betracht kommenden Lichtzeiten zu vernachlassigen
+sind. Wenn wir zwei Systeme trennen wollen, so wird ihre Wechselwirkung schon lange bevor sie
+verschwindet, aufhoren durch absolute Coulomb -u. dgl. Gesetze approximierbar zu sein. Und da
+endet unser Latein. Der Trennungsvorgang ist gar nicht nach dem orthodoxen Schema zu erfassen.'
+Schrodinger goes on in this letter to register his doubts about Dirac's relativistic quantum mechanics.
+One year later, Einstein echoes Schrodinger's worries about the 'orthodox schema' when he writes:
+'In the Schrodinger equation absolute time, or potential energy, plays a decisive role though these
+concepts have been recognized through the relativity theory to be inadmissabie in principle. If one
+wants to escape this problem, then he must take fields and field laws as basic, instead of interaction
+forces.' See Einstein's 'Physik und Realitat' (note 10, above), pp. 342-43. (My translation — D.H.)
+   IS
+     E. Schrodinger, 'Discussion of Probability Relations Between Separated Systems', Proceedings
+of the Cambridge Philosophical Society 31 (1935), 555-62; and 'Probability Relations Between
+Separated Systems', Proceedings of the Cambridge Philosophical Society 32 (1936), 446-52.
+178                                            Studies in History and Philosophy of Science
+
+meantime, his concerns about our failure to understand the process of separation
+elicited from Einstein a very interesting reaction.
+   Einstein opens his 19 June letter to Schrodinger with the above-quoted
+disclaimer to the effect that Podolsky wrote the EPR paper and that he, Einstein,
+was unhappy with how it turned out. He then proceeds immediately to set out
+his own thoughts on incompleteness, starting with a simple, non-quantum
+illustration of 'incompleteness'. He asks Schrodinger to consider two boxes and
+a single ball which is always found in one or the other of the boxes. We make
+an 'observation' on a box simply by lifting the lid and looking inside. Einstein
+then asks whether a certain state description — 'The probability that the ball
+is in the first box is W — is a complete description. He says that an adherent
+of the 'Born' interpretation would answer, 'No', on the grounds that a complete
+description would have to take the form of a categorical assertion to the effect
+that the ball is in the first box (or not). However, a follower of the 'Schrodinger'
+interpretation, says Einstein, would answer, 'Yes', arguing that before an
+observation is made the ball is not really in either box, and that this 'being in
+a definite box' only comes about through an observation. According to the
+'Schrodinger' interpretation, the state of the first box before an observation
+is performed is completely described by the probability Vi. There is one
+additional alternative, according to Einstein. He says:
+
+      The talmudic philosopher doesn't give a hoot for 'reality', which he regards as a
+      hobgoblin of the naive, and he declares that the two points of view differ only as
+      to their m o d e of_expression. 1 6
+
+The 'talmudist', we learn from a later letter, is Bohr17
+  What is Einstein's own opinion? He explains:
+
+      My way of thinking is now this: properly considered, one cannot get at the talmudist
+      if one does not make use of a supplementary principle: the 'separation principle'.
+      That is to say: 'the second box, along with everything having to do with its contents,
+      is independent of what happens with regard to the first box (separated partial systems).'
+      If one adheres to the separation principle, then one thereby excludes the second
+
+   ''Einstein to Schrodinger, 19 June 1935: 'Der talmudistische Philosoph aber pfeift auf die
+"Wirklichkeit" als auf einen Popanz der Naivitat und erklart beide Auffassungen als nur der
+Ausdruckweise nach verschieden.'
+   "That the 'talmudist' is supposed to be Bohr is made clear in a letter from Einstein to Schrodinger
+of 9 August 1939, where the question of incompleteness is again under discussion. After distinguishing
+the 'Born' and 'Schrodinger' interpretations of the yj-function, Einstein says: 'Es gibt auch noch
+den Mystiker, der ein Fragen nach etwas unabhangiges vom BeobachtenExistierenden, . . . iiberhaupt
+als unwissenschaftlich verbietet (Bohr). Dann fliessen beide Auffassungen in einen weichen Nebel
+zusammen, in dem ich mich aber auch nicht besser fuhle als in einer der vorgenannten Auffassungen,
+die zum Realitatsbegriff Stellung nehmen.'
+Einstein on Locality and Separability                                                           179
+
+   ('Schrodinger') point of view, and only the Born point of view remains, according
+   to which the above state description is an incomplete description of reality, or of
+   the real states."
+
+The crucial point here is Einstein's claim that one cannot refute the 'talmudist'
+without invoking the 'separation principle', according to which the contents
+of the two boxes are independent of one another. This is the principle upon
+which Einstein's incompleteness argument turns.
+   For the sake of clarity, I should note right away that what Einstein here calls
+the 'separation principle' is not exactly the same as what I call the principle
+of separability. The separability principle is implicit in Einstein's similarly named
+'separation principle'; but Einstein has yet to distinguish as clearly as he will
+between separability, which is the claim that spatially separated systems always
+possess separate real states, and locality, which is the claim that the separate
+real states of such separate systems can be changed only by physical effects which
+are propagated with finite, subluminal velocities. However, what is already clear,
+indeed, what the 'ball-in-the-box' example is obviously intended to suggest, is
+that spatially separated systems are characterized by separate real states of
+affairs. This is the heart of the separability principle.
+   Let us return to Einstein's argument. After explaining through the 'ball-in-
+the-box' example what he means in general by 'incompleteness', Einstein turns
+his attention to the special case of the quantum theory. He first explains what
+'completeness' would mean in this context:
+
+   In the quantum theory, one describes a real state of a system through a normalized
+   function, UJ, of the coordinates (of the configuration-space). . . . Now one would
+   like to say the following: u; is correlated one-to-one with the real state of the real
+   system. . . . If this works, then I speak of a complete description of reality by the
+   theory. But if such an interpretation is not feasible, I call the theoretical description
+   'incomplete'.19
+
+Next, Einstein briefly sketches the EPR Gedankenexpehment, stressing as its
+only important feature the fact that by choosing to measure different observables
+
+  '"Einstein to Schrodinger, 19 June 1935: 'Meine Denkweise ist nun so: An sich kann man dem
+Talmudiker nicht beikommen, wenn man kein zusatzliches Prinzip zu Hilfe nimmt:
+"Trennungsprinzip". Namlich: "die zweite Schachtel nebst allem, was ihren Inhalt betrifft, ist
+unabhangig davon, was beziiglich der ersten Schachtel passiert (getrennte Teilsysteme)". Halt man
+an dem Trennungsprinzip fest, so schliesst man dadurch die zweite ("Schrodinger'sche") Auffassung
+aus und es bleibt nur die Born'sche, nach welcher aber die obige Beschreibung des Zustandes eine
+unvollstandige Beschreibung der Wirklichkeit, bezw. der wirklichen Zustande ist.'
+  "Einstein to Schrodinger, 19 June 1935: 'Man beschreibt in der Quantentheorie einen wirklichen
+Zustand eines Systems durch eine normierte Funktion \p der Koordinaten (des Konfigurations-
+raumes). . . . Man mochte nun gerne folgendes sagen: tf/ ist dem wirklichen Zustand des wirklichen
+Systems ein-eindeutig zugeordnet. . . . Wenn dies geht rede ich von einer vollstandigen Beschreibung
+der Wirklichkeit durch die Theorie. Wenn aber eine solche Interpretation nicht durchfiihrbar ist,
+nenne ich die theoretische Beschreibung "unvollstandig".'
+180                                           Studies in History and Philosophy of Science
+
+of one system, A, we can attribute different t^-functions, UJB or t^9, to the
+other system, B. (He says that it does not even matter whether ipa and ipB_ are
+eigenfunctions of observables, as long as they are different.) It is then just a
+short step to the conclusion that quantum mechanics is incomplete:
+
+   Now what is essential is exclusively that i^a and tpa are in general different from one
+   another. I assert that this difference is incompatible with the hypothesis that the \p
+   description is correlated one-to-one with the physical reality (the real state). After
+   the collision, the real state of (AB) consists precisely of the real state of A and the
+   real state of B, which two states have nothing to do with one another. The real state
+   of B thus cannot depend upon the kind of measurement I carry out on A. ('Separation
+   hypothesis' from above.) But then for the same state of B there are two (in general
+   arbitrarily many) equally justified ipB, which contradicts the hypothesis of a one-to-
+   one or complete description of the real states.20
+
+This argument is quite straightforward and strikingly different from the original
+EPR argument.
+   There is, first, a difference in logical structure. The EPR argument seeks to
+prove quantum mechanics incomplete by proving the existence of elements of
+physical reality having no counterpart in the theory; it is thus an attempt at
+a direct proof of incompleteness. By contrast, Einstein's own argument does
+not require the identification of specific elements of physical reality not mirrored
+in the theory. Einstein's argument seeks, instead, to exhibit a contradiction
+between the completeness assumption and the consequences of the 'separation
+principle', which makes it an indirect proof of incompleteness. The contradiction
+is easily derived. TTTe 'separation principle' implies that system B has its own
+real state which is unaffected by anything we do to the distant system, A. Thus,
+the different ^-functions which we assign to B on the basis of different
+measurements on A must be correlated with one and the same real state of B.
+But if the uj-function were to provide a complete description of the real state
+of B, it would have to be correlated one-to-one with B's real state, and there
+we have our contradiction with the 'separation principle'.
+  Behind the difference in logical structure is a significant difference in the
+necessary conditions for completeness assumed in the two arguments. The EPR
+argument stipulates that 'every element of the physical reality must have a
+counterpart in the physical theory'. Einstein demands something sharper and
+   "Einstein to Schrodinger, 19 June 1935: 'Wesentlich ist nun ausschliesslich, dass ips and ipB
+iiberhaupt voneinander verschieden sind. Ich behaupte, dass diese Verschiedenheit mit der Hypothese,
+dass die tf-Beschreibung ein-eindeutig der physikalischen Wirklichkeit (dem wirklichen Zustande)
+zugeordnet sei, unvereinbar ist. Nach dem Zusammenstoss besteht der wirkliche Zustand von (AB)
+namlich aus dem wirklichen Zustand von A und dem wirklichen Zustand von B, welche beiden
+Zustande nichts miteinander zu schaffen haben. Der wirkliche Zustand von B kann nun nichi davon
+abhangen, was fur eine Messung ich an A vornehme. ("Trennungshypothese" von oben.) Dann
+aber gibt es zu demselben Zustande von B zwei (iiberhaupt bel. viele) gleichberechtigte tpB, was
+der Hypothese einer ein-eindeutigen bezw. vollstandigen Beschreibung der wirklichen Zustande
+widerspricht.'
+Einstein   on Locality    and Separability                                                            181
+
+stronger, which is that in a complete theory there must be a one-to-one
+correlation between the ^-function and the real state. In effect, the EPR
+completeness condition amounts to one half of Einstein's completeness
+condition, for the EPR version already entails that different real states be
+described by different ^-functions, since otherwise the 'elements of reality',
+with respect to which the real states differ, would lack theoretical counterparts
+— there would be a real difference without a corresponding theoretical
+distinction. What Einstein adds is the converse requirement, that different ip-
+functions must be correlated with different real states, that there must be no
+theoretical distinction in the absence of a real difference.21
+   Another remarkable difference between Einstein's argument and the EPR
+argument is that Einstein nowhere makes reference to incompatible observables
+or to the Heisenberg indeterminacy relations, whereas the EPR argument relies
+essentially upon quantum mechanical prohibitions on the simultaneous
+definiteness of incompatible observables. Indeed, as noted just above, Einstein
+even says that it makes no difference whether the tp-functions assigned to system
+B can be regarded as eigenfunctions of observables at all. What is important
+is simply that these xp-functions be different.22 This fact should be savored and
+its import appreciated, for it suggests that in Einstein's estimation the truly
+puzzling feature of quantum mechanics, its most objectionable departure from
+the classical world view, is not its way of treating conjugate parameters, but
+its way of treating spatially separated, previously interacting systems.
+   In the end, therefore, the most important thing to notice about Einstein's
+   2l
+      This addition is needecTfor Einstein's incompleteness argument to work: quantum mechanics
+is held to be 'incomplete' because in the situation exhibited in the Gedankenexperiment it assigns
+different ^/-functions to what counts, on the basis of the 'separation principle', as one and the
+same real state. Yet one might object that Einstein's 'completeness' condition is, nevertheless, too
+strong. 'Completeness' surely requires of the ^-function that it describe all of the properties of
+a system in a given real state, so that different real states must be described by different i^-functions
+(which is all that the weaker EPR completeness condition demands). But why require, conversely,
+that different i^-functions always be correlated with different real states? Might there not be situations
+in which the differences between two ^-functions (phase differences, for example) are inessential
+from the point of view of the system whose real state they aim to describe? Einstein's completeness
+condition would, indeed, be too strong if it required that literally every difference between i^-functions
+mirror a difference in the real state of the system in question; but such was not Einstein's intention.
+The kind of difference with which Einstein was concerned is clear from his argument: v B and i^fi
+differ in the predictions they yield for the results of certain objective, local measurements on system
+B. This is not an inessential difference, and Einstein was right in holding that it is excluded by
+the demand for completeness, for the only way to account for such a difference (assuming that
+both ifi-functions provide 'correct' descriptions) is by assuming that at least one of the two \y-
+functions, or perhaps each of them, gives an incomplete description. (For example, if i^>B attributed
+a definite position to B, but not a definite momentum, it would be incomplete in its description
+of B's momentum; but, of course, Einstein's argument does not require any such reference to specific
+parameters or 'elements of reality'.) Two different ^-functions can give correct descriptions of
+one and the same real state only if one of them, at least, tells less than the whole truth about that
+real state.
+   "Einstein to Schrodinger, 19 June 1935: 'Bemerkung: Ob die tf/B und \fjB als Eigenfunktionen
+von Observabeln B, B aufgefasst werden konnen ist mir wurst.' The emphasis is Einstein's, which
+suggests that he himself saw this as an important contrast with the EPR argument.
+182                                            Studies in History and Philosophy of Science
+
+incompleteness argument is that for the crucial contradiction to be derived one
+must assume that spatially separated systems possess their own separate real
+states. This is what Einstein asserts when he says, 'After the collision, the real
+state of (AB) consists precisely of the real state of A and the real state of B,
+which two states have nothing to do with one another.' Of course, one must
+also assume locality, in order to exclude the possibility of instantaneous changes
+in B's real state as a result of manipulations performed on A. But separability
+is an even more basic assumption, for if the two systems partake, somehow,
+of the same joint reality, then an interference with one of them is automatically
+an interference with its Siamese twin. And thus the assignment of different \p-
+functions to system B as a result of different measurements on A would not
+contradict the claim that the i^-function is a complete description in the sense
+of being correlated one-to-one with the real state of B, for different real states
+of B could have been engendered by the measurements carried out on its
+companion." However, such changes in B's real state are ruled out if we assume
+that B and A possess separate real states.24
+
+   "It is here that my reconstruction of Einstein's incompleteness argument most differs from the
+reconstruction offered by Fine in his 'Einstein's Critique of Quantum Theory' (note 4, above) and
+in his more recent essay, 'What is Einstein's Statistical Interpretation, or Is It Einstein for Whom
+Bell's Theorem Tolls?', Topoi (fall 1984). Fine characterizes the 'separation principle' as referring
+to separate real properties of the interacting systems, whereas I take it to refer to the underlying
+separate real states of the systems. The difference might seem inconsequential, especially if one
+regards the real state as simply the set of a system's real properties (Fine reports that this is his
+understanding of the relation between states and properties — personal communication). But I
+believe that Fine's approach contributes to a blurring of the distinction between separability and
+locality, a distinction which Fine does not draw in his analysis of Einstein's argument. (Of course,
+Einstein himself had not yet clearly distinguished separability and locality in his 1935 correspondence
+with Schrodinger, but I claim that the distinction is implicit even there, and Einstein does make
+it explicit later on.) The problem is that we too easily fall into thinking of properties, more so than
+states, as inherently local, perhaps because the manifestations of properties are paradigmatically
+local — when we measure, say, the spin of an electron, the measurement is performed at a specific
+place, so we tend to think that the property thereby revealed also resides, at least for the moment,
+at that place. If we think of properties in this way, then the 'independence' of these properties
+appears to consist solely in their immunity to influence from events separated from them by a space-
+like interval. 'Independence' thus seems to be a matter of locality alone. What we overlook is the
+possibility that locally manifested properties might belong to a physical system that is itself not
+decomposable into separate, local chunks, a system whose 'parts' do not possess separate real states.
+Thus the role of the separability assumption can be obscured if we focus our attention on the
+independence of properties, rather than on the more basic independence of systems and their states.
+   "It might be argued that there is yet another hidden premise even in Einstein's own incompleteness
+argument, namely, the premise that counterfactual conditionals have truth values; for it seems that
+Einstein is at least implicitly asserting that ipB, for example, is the i^-function which we 'would'
+assign to B if we 'were' to measure the appropriate observable on A (and likewise for i^ a ). I have
+no settled opinion on whether it is reasonable to impute such an assumption to Einstein, nor about
+whether his realism should, in consequence, be taken to include a commitment to the existence
+of real universals of the dispositional variety. Quite apart from the historical question of Einstein's
+actual beliefs, does his argument require this additional assumption? I think not. All one need assume
+is that the experiment can be repeated twice, with the same kinds of particles (same states), and
+with a different observable being measured on system A on each occasion. The real state of system
+B is the same on both occasions, but different ^-functions are assigned to it, so the ifj-function
+is not correlated one-to-one with the real state. One must now assume that it makes sense to talk
+of the 'same kind' of particle being present on different occasions, and this talk of 'kinds' entails
+Einstein on Locality and Separability                                                            183
+
+   It is in his recognizing the need for an explicit separability assumption that
+Einstein's originality and insight are made manifest. On my reading, the need
+for this assumption is the 'main point' which Einstein said was 'buried by the
+erudition' in the EPR argument, where it is simply asserted that:
+
+   . . . since at the time of measurement the two systems no longer interact, no real
+   change can take place in the second system in consequence of anything that may be
+   done to the first system. This is, of course, merely a statement of what is meant by
+   the absence of an interaction between the two systems."
+
+One could claim that the separability principle is implicit even here in the EPR
+argument, for it is assumed that there are two systems, each with its own real
+state, instead of just one. But by failing to make an explicit assumption of
+separability, the EPR argument leaves the door open to the very kind of reply
+which Bohr in fact made:
+
+   Of course there is in a case like that just considered no question of a mechanical
+   disturbance of the system under investigation during the last critical stage of the
+   measuring procedure. But even at this stage there is essentially the question of an
+   influence on the very conditions which define the possible types of predictions
+   regarding the future behavior of the system. Since these conditions constitute an
+   inherent element of the description of any phenomenon to which the term 'physical
+   reality' can be properly attached, we see that the argumentation of the mentioned
+   authors does not justify their conclusion that quantum-mechanical description is
+   essentially incomplete.26
+
+Bohr concedes that there is no physical disturbance of the second system, but
+he claims that there is, nevertheless, an influence on certain conditions (i.e.,
+the total experimental arrangement) which are part of the reality we aim to
+describe. In effect, Bohr denies that the system with which we are concerned
+(system B in Einstein's example) has its own separate reality. Einstein's strategy
+of making separability an explicit assumption forces the issue with Bohr in a
+way which the EPR argument does not, for it compels anyone who seeks Bohr's
+way out explicitly to deny separability, which is something Einstein thought
+no one would be willing to do.
+a commitment to real universals of a set-theoretic variety, but these universals are a far more modest
+addition to one's ontology than the non-extensional universals lurking behind counterfactual
+conditionals.
+   "Op. cit., note 1, p. 779.
+   "Bohr, 'Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?',
+p. 700. Curiously, there is no comment on Bohr's paper in the Einstein - Schrodinger correspondence
+from the summer of 1935. However, in a letter of 13 July 1935 Schrodinger complains about the
+obscurity of Bohr's brief earlier reply, published that same day, 13 July, as a letter to the editor
+of Nature (Bohr, 'Quantum Mechanics and Physical Reality', Nature, Lond. 136 (1935), 65). And
+in a letter of 23 March 1936 Schrodinger reports on a conversation he had recently had in London
+with Bohr in which Bohr said he regarded it as 'high treason' for men like von Laue, Schrodinger
+and Einstein to try to ensnare quantum mechanics with the EPR paradox.
+184                                         Studies in History and Philosophy of Science
+
+   That Einstein himself understood the role of the 'separation principle' in just
+this way — namely, as forcing the issue with Bohr — is clear from his reply
+to Henry M a r g e n a u ' s contribution to the collection, Albert      Einstein:
+Philosopher - Scientist. Margenau sought to save quantum mechanics from the
+E P R critique by rejecting the projection postulate, which he termed an
+'inadvertancy'. 2 7 But Einstein believed that Margenau had missed the point;
+he explains:
+
+      Of the 'orthodox' quantum theoreticians whose position I know, Niels Bohr's seems
+      to me to come nearest to doing justice to the problem. Translated into my own way
+      of putting it, he argues as follows:
+         If the partial systems A and B form a total system which is described by its y-
+      function ifi(AB), there is no reason why any mutually independent existence (state
+      of reality) should be ascribed to the partial systems A and B viewed separately, not
+      even if the partial systems are spatially separated from each other at the particular
+      time under consideration. The assertion that, in this latter case, the real situation
+      of B could not be (directly) influenced by any measurement taken on A is, therefore,
+      within the framework of quantum theory, unfounded and (as the paradox shows)
+      unacceptable.
+         By this way of looking at the matter it becomes evident that the paradox forces
+      us to relinquish one of the following two assertions:
+          (1) the description by means of the ip-function is complete.
+          (2) the real states of spatially separated objects are independent of each other.
+         On the other hand, it is possible to adhere to (2), if one regards the tp-function
+      as the description of a (statistical) ensemble of systems (and therefore relinquishes
+      (1)). However, tfriTview blasts the framework of the 'orthodox quantum theory'. 28
+
+By Einstein's own account, the central issue in his dispute with Bohr concerns
+the separability principle. Bohr defends the completeness thesis by repudiating
+the separability principle; Einstein defends separability by denying completeness.
+As Einstein himself says, you cannot 'get at the talmudist' unless you assume
+the 'separation principle'.
+   Einstein first published his own incompleteness argument in March of 1936,
+in the Journal of the Franklin Institute, where it forms a small part of his long
+and interesting essay, 'Physik und Realitat'. I quote the argument in full:
+
+   "H. Margenau, 'Einstein's Conception of Reality', in Albert Einstein: Philosopher - Scientist,
+p. 265.
+   "Einstein, 'Remarks Concerning the Essays Brought Together in this Co-operative Volume',
+in Albert Einstein: Philosopher - Scientist, pp. 681 - 82. Ironically, many students of Einstein take
+this passage to be a reaffirmation of the EPR point of view. Typical is the comment of Max Jammer:
+'In his "Reply to Criticisms,". . . Einstein explicitly reaffirmed, notwithstanding the objections
+advanced by Bohr and others, the view expressed in the 1935 paper.' See Jammer's The Philosophy
+of Quantum Mechanics: The Interpretations of Quantum Mechanics in Historical Perspective (New-
+York: John Wiley, 1974), p. 187.
+Einstein on Locality and Separability                                                           185
+
+      Consider a mechanical system consisting of two partial systems A and B which
+   interact with each other only during a limited time. Let the y function before their
+   interaction be given. Then the Schrodinger equation will furnish the \p function after
+   the interaction has taken place. Let us now determine the physical state of the partial
+   system A through a measurement which is as complete as possible. Then quantum
+   mechanics allows us to determine the UJ function of the partial system B from the
+   measurements made, and from the y function of the total system. This determination,
+   however, gives a result which depends upon which of the state variables of A have
+   been measured (for instance, coordinates or momenta). Since there can be only one
+   physical state of B after the interaction, which state cannot reasonably be considered
+   to depend upon the kinds of measurements I carry out on the system A separated
+   from B, it is thus shown that the y function is not unambiguously correlated with
+   the physical state. This correlation of several \p functions to the same physical state
+   of system B shows again that the \p function cannot be interpreted as a (complete)
+   description of a physical state (of an individual system). Here also the correlation
+   of the ifj function to an ensemble of systems eliminates every difficulty."
+
+The brevity of this argument alone should have suggested to careful readers
+how it differs from the EPR argument. It should also have been noticed that,
+as in the letter to Schrodinger, Einstein here makes no reference to incompatible
+observables or the Heisenberg indeterminacy principle. Without doubt, the
+differences would have been more noticeable had Einstein emphasized in this
+essay the role of his 'separation principle', whose consequences are asserted,
+but not highlighted, when he says, '. . . there can be only one physical state
+of B after the interaction, which state cannot reasonably be considered to depend
+upon the kinds of measurements I carry out on the system A separated from
+B.' But even though the 'separation principle' is not explicitly distinguished,
+Einstein has here presented for the second time an argument fundamentally
+different from that in the EPR paper. 30
+   It was ten or eleven years later, in 1946 or 1947, when Einstein next drafted
+a written statement of his views on incompleteness for the public eye. The
+occasion was his preparation of an intellectual autobiography for the Library
+of Living Philosophers volume, Albert Einstein: Philosopher- Scientist. The
+discussion of incompleteness which is found here represents an important stage
+in the development of Einstein's thinking, because it contains the first clear
+statement of the distinction between separability and locality.
+   "Op. cil., note 10, p. 341. (My translation — D.H.)
+  30
+    Einstein is himself partly responsible for confusion about the differences between his
+incompleteness argument and the EPR argument. The paragraph just quoted from 'Physik und
+Realitat' is preceded by the following remark: 'Such an interpretation [the statistical ensemble
+interpretation] also overcomes a paradox recently presented by myself, together with two co-workers,
+a paradox which refers to the following situation:'. Op. cit., note 10. p. 341. (My translation —
+D.H.) On a quick reading, this comment suggests that Einstein's argument and the EPR argument
+are the same. But Einstein has chosen his words here with care. All that he really says is that his
+argument makes use of the Gedankenexperiment developed in the EPR paper. One can easily
+understand that Einstein would not want to hurt Podolsky by airing in public the misgivings about
+the EPR paper which he was willing to share in his private correspondence with Schrodinger.
+186                                       Studies in History and Philosophy of Science
+
+  Einstein begins his argument again by distinguishing two positions which
+physicists might take on the completeness question. Physicist A defends what
+in 1935 Einstein called the 'Born' interpretation, according to which the \p-
+function provides an incomplete description of the always-definite properties
+of an individual system. Physicist B defends the view Einstein earlier labelled
+the 'Schrodinger' interpretation, according to which the ^-function gives a
+complete description of the objectively indefinite (pre-measurement) properties
+of an individual system. Einstein next sketches the Gedankenexperiment
+involving two previously interacting systems, this time labelled S, and 5 : . Then
+he presents the heart of the incompleteness argument:
+
+     Now it appears to me that one may speak of the real state of the partial system
+  S,. To begin with, before performing the measurement on S,, we know even less of
+  this real state than we know of a system described by the ^-function. But on one
+  assumption we should, in my opinion, unconditionally hold fast: The real situation
+  (state) of system S, is independent of what is done with system S,, which is spatially
+  separated from the former. According to the type of measurement I perform on S,,
+  I get, however, a very different \p2 for the second partial system. (ip2, ip':, . . .) But
+  now the real state of S, must be independent of what happens to S,. Thus, different
+  ^-functions can be found (depending on the choice of the measurement on S,) for
+  the same real state of S2. (One can only avoid this conclusion either by assuming that
+  the measurement on S, changes (telepathically) the real state of 5,, or by generally
+  denying independent real states to things which are spatially separated from one
+  another. Both alternatives appear to me entirely unacceptable.)
+     If now the physicists A and B accept this reasoning as sound, then B will have
+  to give up his position that the ijj-function is a complete description of a real situation.
+  For in this case it would be impossible that two different types of ^-functions could
+  be correlated with the same situation (of S,).3'
+
+This is, for the most part, a straightforward restatement of the argument we
+have seen twice before. But one piece of it warrants careful scrutiny.
+   Look at the parenthetical statement at the end of the first paragraph, where
+Einstein specifies the only two ways to avoid the conclusion that leads to the
+claim of incompleteness:
+
+   (One can only avoid this conclusion either by assuming that the measurement on S,
+   changes (telepathically) the real state of S;, or by generally denying independent real
+   states to things which are spatially separated from one another. Both alternatives
+   appear to me entirely unacceptable.)
+
+In effect, these are the only two ways one can deny the 'separation principle',
+and they correspond, respectively, to the denials of what I call locality and
+separability: either the separate real state of S2 is changed by what happens in
+
+ "Op. cit., note 11, p. 84 and p. 86. (My translation — D.H.)
+Einstein on Locality and Separability                                                         187
+
+a region separated from S2 by a space-like interval, or spatially separated
+systems do not possess separate states.
+   It is almost as if Einstein stumbled, in this negative way, upon the clear
+distinction between separability and locality. But the insight thus won was not
+to be lost, and when in 1948 Einstein published his most thorough discussion
+of the incompleteness argument, the distinction between separability and locality
+is presented at the outset in direct, lucid terms. The context was a special double
+issue of the Swiss journal, Dialectica, devoted to essays on Bohr's
+'complementarity' interpretation of quantum mechanics. Einstein's paper,
+'Quanten-Mechanik und Wirklichkeit', is of major historical significance, but
+it is far less well known than many of his other writings, no doubt because it
+has never been made widely available in an English translation and is not
+included in any of the standard collections of his works.32
+   As had become his custom, Einstein begins his essay with the distinction
+between the two positions one might take on the relation between the ip-function
+and some real state of affairs of an individual system. The point of view now
+labelled 'la' holds that the system possesses determinate values of all of its
+observables, even if these values cannot be determined simultaneously by
+measurement, from which it follows that the i^-function gives an incomplete
+description of the real situation. The other point of view, 'lb', holds that
+determinate values of observables do not really exist until they are brought into
+being by measurements. On this point of view, the if-function provides, in
+principle, a complete description.
+   The promised distinction between separability and locality is then developed
+in the course of two pregnant paragraphs, which I quote in their entirety (they
+form the whole of section II in Einstein's essay):
+
+      If one asks what is characteristic of the realm of physical ideas independently of
+   the quantum-theory, then above all the following attracts our attention: the concepts
+   of physics refer to a real external world, i.e., ideas are posited of things that claim
+   a 'real existence' independent of the perceiving subject (bodies, fields, etc.), and these
+   ideas are, on the other hand, brought into as secure a relationship as possible with
+   sense impressions. Moreover, it is characteristic of these physical things that they
+   are conceived of as being arranged in a space-time continuum. Further, it appears
+   to be essential for this arrangement of 'he things introduced in physics that, at a specific
+   time, these things claim an existence independent of one another, insofar as these
+   things 'lie in different parts of space'. Without such an assumption of the mutually
+   independent existence (the 'being-thus') of spatially distant things, an assumption
+   which originates in everyday thought, physical thought in the sense familiar to us
+   would not be possible. Nor does one see how physical laws could be formulated and
+
+   "Op. cit., note 12. An English version of this essay is contained in the English edition of the
+Born-Einstein correspondence: M. Born(ed.), The Born - Einstein Letters, I. Born (trans.) (London:
+Macmillan, 1971), pp. 168-73. But this volume is now out of print, and in any case the translation
+is badly flawed.
+188                                           Studies in History and Philosophy of Science
+
+      tested without such a clean separation. Field theory has carried out this principle to
+      the extreme, in that it localizes within infinitely small (four-dimensional) space-elements
+      the elementary things existing independently of one another that it takes as basic,
+      as well as the elementary laws it postulates for them.
+         For the relative independence of spatially distant things (A and B), this idea is
+      characteristic: an external influence on A has no immediate effect on B; this is known
+      as the 'principle of local action', which is applied consistently only in field theory.
+      The complete suspension of this basic principle would make impossible the idea of
+      the existence of (quasi-) closed systems and, thereby, the establishment of empirically
+      testable laws in the sense familiar to us."
+
+As I read these paragraphs, I find Einstein making two basic claims. First, if
+we are to maintain a realistic attitude toward the 'things' we posit in physics,
+it is 'essential' that we assume 'the mutually independent existence . . . of
+spatially distant things'. Indeed, Einstein says, we could neither test nor even
+formulate physical laws 'without such a clean separation'. Second, it is
+ 'characteristic' of the independence of any two such spatially separated things
+(but not essential) that an external influence on one has no immediate effect
+on the other. But now these two claims are simply Einstein's formulations of
+what I call separability and locality.
+   The remainder of 'Quanten-Mechanik und Wirklichkeit' consists of what we
+now recognize as Einstein's standard argument for incompleteness. He outlines
+the EPR Gedankenexperiment, showing that different uj-functions are assigned
+to S2 depending upon the kind of measurement we perform on S,. He observes
+that this circumstance is compatible with the completeness assumption
+(interpretation Ib)~taken alone. But then he adds:
+
+         Matters are different, however, if one seeks to hold on to principle II — the
+      autonomous existence of the real states of affairs present in two separated parts of
+      space, /?, and R2 — simultaneously with the principles of quantum mechanics. In
+      our example the complete measurement on S, of course implies a physical
+      interference which only affects the portion of space /?,. But such an interference
+      cannot immediately influence the physically real in a distant portion of space R2.
+      From that it would follow that every statement regarding S2 which we are able to
+      make on the basis of a complete measurement on S, must also hold for the system
+      S2 if, after all, no measurement whatsoever ensued on S,. That would mean that for
+      S2 all statements that can be derived from the postulation of ip2 or iy2, etc. must
+      hold simultaneously. This is naturally impossible, if xp2, \p2, are supposed to signify
+      mutually distinct real states of affairs of S2, i.e. one comes into conflict with
+      interpretation'lb'of the tfj-function.34
+
+Once again, the argument is that the incompleteness of quantum mechanics
+follows only if one assumes both locality and separability; there are distinct
+  "Op. cit., note 12, pp. 3 2 1 - 2 2 . (My translation — D.H.)
+  "Ibid., p. 323. (My translation — D.H.)
+Einstein   on Locality   and Separability                                                       189
+
+real states of affairs in the parts of space R, and Rlt and an event in /?, can
+exert no immediate influence on the state of affairs in /?, (the term, 'principle
+II', alludes to section II of the paper).
+   'Quanten-Mechanik und Wirklichkeit' is Einstein's last statement of this
+incompleteness argument. Over the years he several times discussed a still
+different incompleteness argument, one similar in character to the Schrodinger
+cat paradox, in that it focuses on an alleged incompleteness in the quantum
+mechanical description of macroscopic observables.35 But this latter argument
+is not as profound as the one based on the separability and locality principles,
+and so will not be analyzed here.
+   I have examined Einstein's incompleteness argument at length and in detail
+partly because it is important to set aright in the historical record. But there
+are other dividends as well. For one thing, we are now better prepared to
+understand the way assumptions of physics work in grounding Einstein's realism.
+For another thing, we are also better prepared to understand the physical
+implications of the experiments recently conducted to test local hidden-variable
+theories, experiments which probe the kinds of correlations between previously
+interacting systems that were at the heart of the EPR Gedankenexperiment. I
+want briefly to consider both issues.
+
+                     3. The Physical Roots of Einstein's Realism
+
+  That Einstein was a realist, nearly everyone will agree. The question is: 'What
+kind of realist?' What Einstein's incompleteness argument shows is that his
+realism was no mere philosophical prejudice. On the contrary, it is securely
+anchored in quite definite assumptions not only about the nature of theories,
+but also about the physical world itself. And foremost among these physical
+assumptions is what I call separability or what Einstein calls the 'mutually
+   "An especially clear statement of one version of this 'macroscopic' incompleteness argument
+is contained in Einstein's late essay, 'Elementare Uberlegungen zur Interpretation der Grundlagen
+der Quanten-Mechanik', in Scientific Papers Presented to Max Born (New York: Hafner, 1953),
+pp. 3 3 - 4 0 . A somewhat different version is developed much earlier, in a letter from Einstein to
+Schrodinger of 8 August 1935, where Einstein considers a 'quantum mechanical' description of
+a chemically unstable pile of gunpowder. However precise the initial description of the state of
+the gunpowder might be, the quantum state evolves after a sufficient length of time into a
+superposition of exploded and unexploded states. But the gunpowder itself is by that time either
+definitely exploded or definitely unexploded. Thus, Einstein concludes, the quantum mechanical
+description is incomplete. (The correspondence gives evidence that Einstein's gunpowder argument
+was the inspiration for Schrodinger's more refined 'cat paradox'; on 19 August 1935, Schrodinger
+wrote to Einstein: 'In einem langeren Aufsatz, den ich eben geschrieben, bringe ich ein Beispiel,
+dass Deinem explodierenden Pulverfass sehr ahnlich ist.' The 'cat paradox' was first presented in
+Schrodinger's 'Die gegenwartige Situation in der Quantenmechanik', Die Naturwissenschaften 23
+(1935), 807-12, 8 2 4 - 2 8 , 844-49.) Though not as profound as the argument based on the
+'separation principle', the 'macroscopic' incompleteness argument was evidently regarded by Einstein
+as the more persuasive of the two because of our strong intuitions about the definiteness of
+macroscopic properties.
+190                                         Studies in History and Philosophy of Science
+
+independent existence of spatially distant things'.
+  Look again at the first of the paragraphs quoted from his 1948 essay,
+'Quanten-Mechanik und Wirklichkeit'. His commitment to realism is
+unambiguous:
+
+   . . . the concepts of physics refer to a real external world, i.e. ideas are posited of
+   things that claim a 'real existence' independent of the perceiving subject (bodies, fields,
+   etc.) . . .
+
+Equally unambiguous, however, is his commitment to separability as a necessary
+physical condition for this realism:
+
+   Further, it appears to be essential for this arrangement of the things introduced in
+   physics that, at a specific time, these things claim an existence independent of one
+   another, insofar as these things 'lie in different parts of space'.
+
+What is less clear is why Einstein believed separability to be a necessary condition
+for realism. There is one important clue in the quoted passage, where Einstein
+asserts that separability is a necessary condition for testability:
+
+   Without such an assumption of the mutually independent existence . . . of spatially
+   distant things, an assumption which originates in everyday thought, physical thought
+   in the sense familiar to us would not be possible. Nor does one see how physical laws
+   could be formulated and tested without such a clean separation.
+
+There is another clue in the next paragraph, where Einstein says that locality
+is an additional necessary condition for testability:
+
+   The complete suspension of this basic principle would make impossible the idea of
+   the existence of (quasi-)closed systems and, thereby, the establishment of empirically
+   testable laws in the sense familiar to us.
+
+So the argument is that both separability and locality are necessary conditions
+for testability, the latter in particular because it grounds the existence of closed
+systems. But still one asks, 'Why?'
+   Little light is shed on this question by any of Einstein's published writings;
+one remark not intended for publication, however, might point us toward an
+answer. This remark is found in Max Born's commentary on his correspondence
+with Einstein. In his Waynflete Lectures, Natural Philosophy of Cause and
+Chance, Born tried to illustrate Einstein's attitude toward quantum mechanics
+with quotations from two of Einstein's letters, and as a courtesy he solicited
+Einstein's reaction to the manuscript, only to find that Einstein felt himself
+Einstein on Locality and Separability                                                               191
+
+misunderstood. 36 In March of 1948, around the time when he was at work on
+the essay for Dialectica, Einstein returned Born's manuscript with a number
+of marginal comments and one long summary comment about his commitment
+to realism:
+
+   I just want to explain what I mean when I say that we should try to hold on to physical
+   reality. We are, to be sure, all of us aware of the situation regarding what will turn
+   out to be the basic foundational concepts in physics: the point-mass or the particle
+   is surely not among them; the field, in the Faraday - Maxwell sense, might be, but
+   not with certainty. But that which we conceive as existing ('actual') should somehow
+   be localized in time and space. That is, the real in one part of space, A, should (in
+   theory) somehow 'exist' independently of that which is thought of as real in another
+   part of space, B. If a physical system stretches over the parts of space A and B, then
+   what is present in B should somehow have an existence independent of what is present
+   in A. What is actually present in B should thus not depend upon the type of
+   measurement carried out in the part of space, A; it should also be independent of
+   whether or not, after all, a measurement is made in A.
+      If one adheres to this program, then one can hardly view the quantum-theoretical
+   description as a complete representation of the physically real. If one attempts,
+   nevertheless, so to view it, then one must assume that the physically real in B undergoes
+   a sudden change because of a measurement in A. My physical instincts bristle at that
+   suggestion.
+      However, if one renounces the assumption that what is present in different parts
+   of space has an independent, real existence, then I do not at all see what physics is
+   supposed to describe. For what is thought to be a 'system' is, after all, just
+   conventional, and I do not see how one is supposed to divide up the world objectively
+   so that one can make statements about the parts.3'
+
+The first of these three paragraphs just restates the ideas of separability and
+locality. The second points out that the assumption of the completeness of
+quantum mechanics can only be reconciled with the separability principle if one
+denies locality. The third is the most interesting, for what Einstein suggests here
+is that the separability principle is necessary because it provides the only
+imaginable objective principle for the individuation of physical systems. Needless
+to say, this is an important and provocative claim, because quantum mechanics,
+interpreted as a theory about individual systems, denies the separability
+principle.38 Moreover, I will argue in the next section that the Bell experiments
+
+   "See Born's Natural Philosophy of Cause and Chance (Oxford: Oxford University Press, 1949),
+pp. 1 2 2 - 2 3 .
+   "Op. cit., note 13. (My translation — D.H.)
+  •"In the quantum mechanical interaction formalism, which was developed by Schrodinger in
+response both to EPR and his correspondence with Einstein (see the references in note 15, above),
+the joint state of two previously interacting systems is represented as a non-factorizable superposition
+of products of separate states. For example, the joint state of a correlated pair of spin-'/: particles
+of the kind studied in the modern versions of the EPR Gedankenexperiment could be written thus:
+y(AB) = 2-' A (^*(A)^(B) — y;tA)y*(B)), where if*(A) and ^r(A) represent the + Vi and - Vi z-
+spin eigenstates of particle A (and similarly for particle B). What is important for our purposes
+192                                            Studies in History and Philosophy of Science
+
+can be held to refute separability. Does that mean we are left with no objective
+basis for physics?
+   Einstein does not say why he believes separability to be the only objective
+principle of individuation for physical systems. He just says that he can see no
+alternative. Without forcing an interpretation on him, can we guess what his
+reasons might have been? Separability works as an objective principle of
+individuation by providing at least a sufficient condition for distinguishing any
+two physical systems, namely, spatial separation. Thus, implicitly, it counts even
+every infinitesimal region of space-time as a separate physical system. Were we
+not to individuate systems in this fashion, the only alternative would be to
+provide an objective criterion whereby some, but of course not all, otherwise
+distinct regions of space-time would be, as it were, knit together, blended or
+united to form larger, non-decomposable, but still individual physical systems.
+Such, presumably, is the kind of alternative Einstein could not imagine. From
+his point of view, it must have appeared as though any such criterion would
+be arbitrary, on the assumption that there are no intrinsic connections between
+different regions of space-time.
+   But again, quantum mechanics denies the separability principle, assigning non-
+decomposable, joint states even to widely separated previously interacting
+systems, at least until one of the systems subsequently interacts with another
+system. So was Einstein wrong about the impossibility of alternative criteria
+of individuation? Or is the quantum theory's assignment of non-decomposable
+joint states to previously interacting systems based upon a non-objective criterion
+of 'connection' between systems? One might indeed follow Einstein and argue
+that quantum mechanics establishes these links in a non-objective way. After
+all, from one point of view every system is in continuous interaction with every
+other system if only through gravitational interactions. So it would seem
+arbitrary to pick out only certain interactions as establishing the special quantum
+links between systems. But I think quantum mechanics does individuate systems
+objectively, which is to say that there is an alternative which Einstein did not
+envisage. What that alternative is I will explain in the next section.
+   Earlier I claimed that physical realism is not simply assumed by Einstein, but
+is grounded in the deeper assumption of separability. And now I have argued
+that Einstein regarded separability as at least a necessary condition for realism.
+One further link between realism and separability needs still to be exhibited in
+order to show just how firm the grounding was in Einstein's view.
+   Like so many realists before him, Einstein speaks of the real world which
+physics aims to describe as the real 'external' world, and he does so in such
+a way as to suggest that the independence of the real — its not being dependent
+is that such a state description cannot be re-expressed as a simple product of separate state functions
+for A and B. That is, for all v(A) and iy(B), if(AB) # if(A)^(B). The non-separability implicit
+in this manner of description is broken only when one of the systems interacts with yet another system.
+Einstein on Locality and Separability                                                            193
+
+in any significant way upon ourselves as observers — is grounded in this
+'externality'. For most other realists this talk of 'externality' is at best a suggestive
+metaphor. But for Einstein it is no metaphor. 'Externality' is a relation of spatial
+separation, and the separability principle, the principle of 'the mutually
+independent existence of spatially distant things', asserts that any two systems
+separated by so much as an infinitesimal spatial interval always possess separate
+states. Once we realize that observer and observed are themselves just previously
+interacting physical systems, we see that their independence is grounded by the
+separability principle, along with the independence of all other physical systems.
+Certain properties of the observed object can be changed by the observation
+interaction, but the locality principle guarantees that such changes cannot take
+place if the separation between observer and observed is space-like, as in the
+EPR Gedankenexperiment, and in any case the separability principle guarantees
+that the observed object always possesses its own cluster of properties, even
+if these might be changed by the observation. The independence of the real
+consists not in any immunity to change, but in autonomy even through
+observation induced changes.
+   It should now be clear why Einstein found it so hard to entertain the possibility
+of denying the separability principle, and thus why he insisted that quantum
+mechanics is not the final word about the microworld; for quantum mechanics,
+at least when interpreted as a theory about individual systems, denies the
+separability principle and, with it, the very foundation of Einstein's realism.39
+
+      4. Separability, Locality and the Physical Implications of the Bell
+                                  Experiments
+
+   For my purposes, the most valuable dividend yielded by this investigation
+of Einstein's views on incompleteness is that it suggests a new way of
+understanding Bell's theorem and the Bell experiments, themselves the offspring
+of the original EPR Gedankenexperiment. Specifically, I claim that these
+experiments should be interpreted as refuting the separability principle. I want
+briefly to explain why and to indicate some of the larger physical and
+philosophical implications of such an interpretation.
+   Would it be unfair to say that the recent striking progress in the experimental
+tests of local hidden-variable theories by Aspect and his co-workers has not
+
+  "On an ensemble interpretation, the non-separability of the description of previously interacting
+systems would be preserved, but since the i^-function would be interpreted as referring to an ensemble
+of pairs of systems, it would not follow that the real states of individual pairs of systems in the
+ensemble are similarly non-separable. The statistics could be 'entangled' in the peculiar quantum
+mechanical way without the individual systems being likewise 'entangled'. Schrodinger first introduced
+the concept of 'entanglement' ['Verschrankung'] in his 'cat paradox' paper (see note 35, above).
+194                                             Studies   in History   and Philosophy      of   Science
+
+been matched by progress of a theoretical sort? 40 Consensus exists on only one
+point, which is that the experimentally determined correlations between
+previously interacting systems consistently violate the Bell inequality. Bell
+claimed that the predictions of any local hidden-variable theory must satisfy
+the inequality, which would imply that local hidden-variable theories have
+therefore been refuted. But even this has been denied.41
+   Still, even if it were agreed that local hidden-variable theories have been
+refuted, confusion would remain, for it is not clear what is implied by the
+repudiation of local hidden-variable theories. Should we opt for non-local
+hidden-variable theories? Most physicists decline this alternative since it requires
+the sacrifice of special relativity. Are we then to accept some peculiar kind of
+'quantum non-locality'? If this alternative is more palatable, it is only because
+it is so poorly understood that we are not sure what sacrifices it might entail.
+Is quantum mechanics incompatible with special relativity? We think not, but
+then what is this 'non-locality' which experiment seems to be forcing upon us?
+   I am convinced that most of this confusion is to be traced back to the way
+   "See the references in note 3. By employing time-varying analyzers, Aspect's group has succeeded
+in ruling out the possibility of subluminal physical effects being transmitted between the two wings
+of the apparatus.
+   •"Fine is the principal hold-out. He proposes what he calls 'prism' models for the Bell-type
+correlation experiments, the key innovation in these models being that one allows for the possibility
+that one or both of the two previously interacting systems are not detected by their respective
+analyzers. If the non-detection occurs in just the right cases, the inherently weak correlations implied
+by local hidden-variable theories can be masked in such a way as to make them appear stronger
+than they 'really' are. See Fine's 'Correlations and Physical Locality', in PSA 1980, Volume 2,
+P. D. Asquith and R.N. Giere (eds.) (East Lansing, Michigan: Philosophy of Science Association,
+ 1981), pp. 535-62, and his 'Antinomies of Entanglement: The Puzzling Case of the Tangled
+Statistics', Journal o/PTulosophy 19 (1982), 733 - 4 7 . Fine suggests that his prism models are more
+'realistic' than other models, inasmuch as actual particle detection apparatus falls short of perfect
+efficiency. But the prism models require far more than just random non-detection in order for the
+correlations to come out in line with the correlations predicted by quantum mechanics; failures
+of detection must occur in quite specific cases, and it can be objected that Fine has provided no
+physically plausible mechanism whereby to guarantee just the right failures. An experiment has
+been designed which could be used to test the prism models, but it has not been carried out. See
+T. K. Lo and A. Shimony, 'Proposed Molecular Test of Local Hidden-Variables Theories', Physical
+Review A 23 (1981), 3003 - 12. For a critical discussion of Fine's prism models, see A. Shimony,
+'Critique of the Papers of Fine and Suppes', in PSA 1980, Vol. 2, pp. 572-80. In another paper,
+'What is Einstein's Statistical Interpretation?' (note 23, above), Fine argues that the concept of
+a prism model provides the best interpretation of Einstein's ideas on the interpretation of quantum
+mechanics. On at least a casual reading, Einstein seems to have endorsed explicitly an ensemble
+interpretation of the ^-function, rather than anything like a prism model (see, for example, the
+last sentence in the passage quoted from his 'Physik und Realitat', note 29, above). But Fine argues
+that Einstein's specific remarks about ensembles are not compatible with an ensemble interpretation,
+because, among other things, a traditional ensemble interpretation would imply a measurement
+induced transition to a subensemble only after a specific measurement result is obtained, whereas
+according to Fine, Einstein allows for such transitions as soon as the kind of measurement is
+determined, and before a specific result is obtained. In my opinion, this is just a misreading of
+Einstein. Consider, for example, this comment of Einstein's: 'Then quantum mechanics allows us
+to determine the uj-function of the partial system B from the measurements made, and from the
+\p function of the total system' ('Physik und Realitat', p. 341). Clearly, by the phrase 'the
+measurements made', Einstein means 'the measurement results'. The prism interpretation saves
+Einstein from refutation by the results of the Bell experiments, but I do not think Einstein's words
+will bear such an interpretation.
+Einstein on Locality and Separability                                                 195
+
+in which the Bell inequality was originally derived. There is something peculiar
+about the derivation, something that is common to all of the more recent and
+otherwise more elegant derivations. Our newly won understanding of Einstein's
+incompleteness argument will help us to make sense of the matter.
+   The problem is that when one writes down the hypothetical hidden state of
+the joint system (the pair of previously interacting systems), one writes down
+a single state for the joint system, not a product of separate states. This is peculiar
+because a shocking feature of the quantum mechanical description of previously
+interacting systems, indeed, one of the quantum theory's greatest affronts to
+our classical intuitions, is precisely its requiring the employment of such a single,
+non-factorized joint state. One would think that if there were any interesting
+difference between quantum mechanics and hidden-variable theories, it would
+lie here. Certainly Einstein saw non-separability to be a surprising, non-classical
+feature of the quantum theory under its 'orthodox' (Bohrian) interpretation.
+So why not ask under what circumstances a hidden-variable theory could
+accommodate a separable description of previously interacting systems?
+   It is not that the possibility of a separable hidden-variable theory has been
+ignored in the investigations inspired by Bell's theorem. In fact, Bell mentions
+the possibility at the start of his original paper, but he dismisses the need for
+explicit consideration of separable hidden-variable theories:
+
+      Some might prefer a formulation in which the hidden variables fall into two sets,
+   with A dependent on one and B on the other; this possibility is contained in the above,
+   since A stands for any number of variables and the dependences thereon of A and
+   B are unrestricted.*'
+
+Bell is correct; the possibility of a separable description is 'contained' in the
+use of just a single, non-factorized hidden state. The question is, how is it so
+'contained'? Bell's approach makes it appear as though some kind of locality
+condition were the only prerequisite for the derivation of the inequality, and
+thus makes it appear as though the negative results of the subsequent experiments
+refute both separable and non-separable hidden-variable theories alike, as long
+as they are local. What Bell did not consider is the possibility that the separability
+of the hidden state is implicit in the derivation of the inequality, in the sense
+that any hidden-variable theory whose predictions conform to the Bell inequality
+would be a separable theory. Though we have not realized it, we might therefore
+all along have been testing not simply local hidden-variable theories, but
+separable, local hidden-variable theories.
+   I suspect that most of our trouble in understanding so-called 'quantum non-
+locality' is a result of this more basic confusion. We focus our attention on
+the apparent demonstration of non-local effects mysteriously communicated
+ " J . S. Bell, 'On the Einstein, Podolsky and Rosen Paradox' (see note 3), p. 196.
+196                                              Studies   in History   and Philosophy      of   Science
+
+between two systems separated by a space-like interval, without pausing to ask
+the deeper question of whether there really are two systems, or just one. We
+can and should clear up this confusion.
+   In another paper I show that we can derive the Bell inequality from two
+independent assumptions — the separability principle and the locality principle.
+Separability is there formulated as an assumption about the existence of separate
+probability measures for the two systems, measures defined over pairs of
+measurement outcomes and measurement contexts, together with an assumption
+about the manner in which a joint measure is to be constructed out of separate
+measures. Locality is formulated as an assumption about the invariance of such
+a separate probability measure under conditionalization on the state of the
+distant apparatus. I also show that any hidden-variable theory whose predictions
+satisfy the Bell inequality is separable, at least with regard to those aspects of
+the hidden state which are at issue in the Bell experiments.43
+   We should not be surprised that the Bell inequality can be derived in this
+fashion. Reflect for a moment on my reconstruction of Einstein's incompleteness
+argument. I present Einstein as claiming that the incompleteness of quantum
+mechanics is a consequence of two assumptions — separability -1            reality.
+Now I claim that the Bell inequality is a consequence of the               le two
+assumptions. But what would have been shown if the Bell experiments had
+turned out the opposite of the way they did? That is, what if the correlations
+between previously interacting systems had turned out to satisfy the Bell
+  4J
+     Howard, 'Non-Separability or Non-Locality? On the Physical Implications of the Bell
+Experiments' (in preparation). In my argument 1 draw heavily upon an important theorem recently
+proved by Jon Jarrett in his 'On the Physical Significance of the Locality Conditions in the Bell
+Arguments', Nous (forthcoming). Jarrett shows that the factorizability condition (of joint
+measurement probabilities, not states) from which the Bell inequality is standardly derived, a condition
+which Jarrett labels 'strong locality', can be decomposed into two independent conditions which
+he terms 'completeness' and 'weak locality'. Jarrett proves that the conjunction of 'completeness'
+and 'weak locality' implies 'strong locality', which, conversely, implies both 'completeness' and
+'weak locality'. 'Weak locality' is shown to correspond to the relativistic locality constraint. In
+my paper I show how Jarrett's 'completeness' condition can be reformulated as a condition on
+the factorizability of the hidden state, which is to say that I replace his condition by my 'separability'
+condition. 'Strong locality' is then seen to be a consequence of 'separability' and 'weak locality',
+and to imply both of them in turn. Since, as Fine has shown, 'strong locality' is not only a sufficient
+but also a necessary condition for the satisfaction of the Bell inequality, it follows that all hidden-
+variable theories whose predictions conform to the Bell inequality are both separable and local.
+See Fine's 'Hidden Variables, Joint Probability, and the Bell Inequalities', Physical Review Letters
+48 (1982), 291 - 9 5 . For another point of view on the interpretation of Jarrett's two conditions,
+see A. Shimonv, 'Controllable and Uncontrollable Non-Locality', Proceedings of International
+Symposium on Foundations of Quantum Mechanics (Tokyo: Physical Society of Japan, 1984),
+pp. 225 - 30. A distinction similar to that between separability and locality is drawn by P. Heywood
+and M. L. G. Redhead, in their 'Nonlocality and the Kochen — Specker Paradox', Foundations
+of Physics 13 (1983), 481 - 9 9 ; they use the terminology 'ontological locality' and 'environmental
+locality'. They also prove a theorem which is remarkably similar in structure and conclusion to
+Einstein's incompleteness argument. Where Einstein exhibits a contradiction between separability,
+iocality, and the completeness condition, they demonstrate a contradiction between ontological
+locality, environmental locality and a pair of constraints on the assignment of values to physical
+magnitudes, constraints which they argue must be accepted on any realistic interpretation of quantum
+mechanics.
+Einstein on Locality and Separability                                                     197
+
+inequality, thus confirming the predictions of local hidden-variable theories?
+We would have concluded that quantum mechanics is incomplete, that it needs
+supplementation by additional variables more fully to describe reality. And so
+Einstein would have been vindicated on precisely the grounds he expected. He
+believed that physical reality is separable and that all effects are local effects;
+and he believed quantum mechanics incomplete because it does not
+accommodate all the reality there must be in a separable, local universe.
+   If my derivation of the Bell inequality is sound, then the interpretation of
+the results of the Bell experiments is simple. We must give up either separability
+or locality. And those two alternatives correspond, respectively, to accepting
+either non-separable quantum mechanics or non-local hidden-variable theories.
+But if these are our only alternatives, then most of us would likely prefer the
+former alternative, on the grounds that special relativistic locality constraints
+are too much a part of our physics to be sacrificed to the cause of saving
+separability, all the more so because we have ready at hand a highly successful
+non-separable quantum mechanics, but no well-developed non-local hidden-
+variable theory. In fact, I believe that Einstein himself would have followed
+us in this choice had he been forced to choose between these two alternatives,
+because the locality principle has the flavor of those high-level constraints, like
+the conservation of mass-energy and the second law of thermodynamics, which
+Einstein said should guide the development of our theories, whereas the
+separability principle has more of the flavor of those 'constructive' principles,
+like the atomic hypothesis, which Einstein thought were too often an impediment
+to scientific progress/ 4
+   But to say that we accept the non-separable quantum theory is not to say
+that we yet understand all that such acceptance entails. Einstein's conception
+of separability points to one major but still largely unappreciated consequence
+of quantum non-separability. Let me quote again just one sentence from
+Einstein's Dialectica paper (the 'principle' referred to here is the principle of
+'the mutually independent existence of spatially distant things' — the separability
+principle):
+
+   Field theory has carried out this principle to the extreme, in that it localizes within
+   infinitely small (four-dimensional) space-elements the elementary things existing
+   independently of one another that it takes as basic, as well as the elementary laws
+   it postulates for them.43
+
+The point is that field theories are, by their very nature, separable theories. Thus,
+the acceptance of the quantum theory's non-separability entails the repudiation
+  "See Einstein's 'My Theory', The Times (London), 28 November 1919, p. 13. This essay is
+reprinted, but with the wrong bibliographical information, as 'Time, Space and Gravitation' in
+Einstein's Out of My Later Years (New York: Philosophical Library, 1950), pp. 5 4 - 5 8 .
+  "Op. cit., note 12, p. 321.
+198                                            Studies in History and Philosophy of Science
+
+of this most basic feature of field theories, including general relativity, inasmuch
+as it is standardly formulated as a field theory. To be more specific, as soon
+as we assume that the metric tensor is well defined at every point in the space-
+time manifold, we implicate ourselves in the now questionable assumption of
+separability.46
+   It is not the point of this paper to attempt a reconciliation of quantum
+mechanics and general relativity, but I would like to suggest a direction in which
+a reconciliation might be sought, and my doing so will bring us back to an issue
+left unresolved at the end of the previous section, namely, can quantum
+mechanics provide an objective criterion for the individuation of physical
+systems?
+   At a minimum, acceptance of quantum non-separability requires that we
+replace the concept of a metric tensor well-defined at every point of the space-
+time manifold with a different kind of structure which is well defined only for
+certain non-separable regions of space-time. I have no clear idea what form
+such a structure might take. Perhaps some structure from which we could derive
+an average curvature for the region would work. Whatever structure we settle
+upon, one other problem must be solved, however, and that is the prior problem
+of determining what should count as a non-separable region of space-time. Here
+I have a simple proposal. We should make the existence of quantum correlations
+a criterion of non-separability. After all, if it were not for the existence of these
+peculiar correlations which violate the Bell inequality, the separability principle
+would not be threatened. In other words, what I suggest is that instead of taking
+the quantum correlations as a puzzle needing explanation, we should make these
+correlations themselves the explanation, or at least the criterion for the existence
+of the kind of non-separability of space-time regions which I claim quantum
+mechanics entails.
+  This proposal should assuage the fears of those who share Einstein's worry
+that there is no objective criterion for the individuation of physical systems other
+than spatial separation. The experimentally determinable quantum correlations
+are as objective as spatial separation. For practical reasons they may not actually
+be determinable in all cases, but the quantum theory tells us where to look for
+them.
+   "Was Einstein right in arguing that field theories are by their very nature separable theories?
+It might be objected that he was wrong, since under certain circumstances the value of the metric
+at a point is not 'locally' determined, being, for example, a function of the boundary conditions
+on some neighborhood of the point. But this objection is based on a misunderstanding. The question
+is not how the value of the metric is determined, but whether it is presumed to be always well-
+defined at every point of the manifold. In this sense, general relativity, like any other field theory,
+is radically separable in the sense indicated. It would also not do to object that general relativity
+employs other structures in addition to the metric tensor, such as the stress-energy tensor. In a
+field theory, some structure must be fundamental, and as 1 understand Einstein, he took the metric
+tensor to be the fundamental field structure. Be that as it may, the question is not which structure
+is fundamental. The question is whether the fundamental structure, whatever it is taken to be, is
+assumed always to be well-defined at every point of the manifold.
+Einstein   on Locality   and Separability                                                      199
+
+   There are two potential misunderstandings which I want definitely to avoid.
+First, I am not proposing the abandonment of the continuum in favor of a
+discrete manifold. It makes no difference how large the chunks of space-time
+are, whether finite or infinitesimal. What matters is whether we regard spatial
+separation, by itself, as a sufficient condition for the individuation of physical
+systems. A separable theory based on a discrete manifold is just as much
+threatened by the Bell experiments, on my interpretation, as a separable theory
+based on the continuum. Second, I am not proposing the abandonment of either
+the equivalence principle or the principle of general covariance. What I am
+suggesting is that we cannot seek to satisfy these principles with field equations
+governing structures well-defined at every point in the manifold. Some other
+structure must be sought. The set of heuristic principles guiding this search will
+still contain the locality principle, the equivalence principle and the principle of
+general covariance. But it must now be enlarged by the addition of one new
+heuristic — the principle of quantum non-separability.
+   Earlier I ventured the opinion that if he were forced to choose between
+separability and locality, Einstein too would have chosen to give up separability
+in order to save locality. Would he have been prepared to accept the
+consequences of such a choice for general relativity? Einstein's commitment
+to the concept of the field as a framework for a unified theory is well known,
+but there is evidence which shows that this was not his most basic commitment,
+and that, indeed, he could consider abandoning the field concept. What he would
+not give up under any circumstances is the principle of general relativity. This
+emerges in a letter Einstein wrote on 2 May 1948 to Pauli, who had edited the
+special issue of Dialectica in which Einstein's 'Quanten-Mechanik und
+Wirklichkeit' appeared. After reading the essay, Pauli sent Einstein his
+comments, to which Einstein replied in a letter that concludes with this
+paragraph:
+
+      Indeed, I have often said to you that I am not bent on having differential equations,
+   but that I am intent on keeping the general relativity principle, whose heuristic power
+   cannot be dispensed with. In spite of much searching, I have not succeeded in doing
+   justice to the general relativity principle otherwise than through differential equations;
+   perhaps one will discover such a possibility if he searches stubbornly enough for it.47
+
+Remarks such as these suggest considerable flexibility, in principle, about the
+way one might develop a physics which 'does justice' to the general relativity
+principle. Einstein says that he has found no way other than through differential
+field equations; but he does not rule out alternatives.
+   •"Einstein to Pauli, 2 May 1948: 'Ich habe Ihnen ja schon ofter gesagt, dass ich nicht auf
+Differentialgleichungen versessen bin, wohl aber auf das allgemeine Relativitats-prinzip, dessen
+heuristische Kraft nicht entbehrt werden kann. Es ist mir eben trotz vielen Suchens nicht gelungen,
+dem allgemeinen Relativitats-prinzip anders als durch Differentialgleichungen gerecht zu werden;
+vielleicht entdeckt einer eine derartige Moglichkeit, wenn er hartnackig genug danach sucht.'
+200                                              Studies in History and Philosophy of Science
+
+   In fact, Einstein was willing to consider alternatives even more radical than
+what I have suggested here, including the abandonment of the continuum. In
+a letter to David Bohm of 28 October 1954, Einstein writes:
+
+      In the last years several attempts have been made to complete quantum theory as
+   you have also attempted. But it seems to me that we are still quite remote from a
+   satisfactory solution of the problem. 1 myself have tried to approach this goal by
+   generalizing the law of gravitation. But I must confess that 1 was not able to find
+   a way to explain the atomistic character of nature. My opinion is that if an objective
+   description through the field as elementary concept is not possible, then one has to
+   find a possibility to avoid the continuum (together with space and time) altogether.
+   But I have not the slightest idea what kind of elementary concepts could be used in
+   such a theory.48
+
+And in a famous remark in an appendix to the last edition of The Meaning
+of Relativity, a remark which must have been penned at about the same time
+as Einstein's letter to Bohm, in late 1954, Einstein says:
+
+      One can give good reasons why reality cannot at all be represented by a continuous
+   field. From the quantum phenomena it appears to follow with certainty that a finite
+   system of finite energy can be completely described by a finite set of numbers (quantum
+   numbers). This does not seem to be in accordance with a continuum theory, and must
+   lead to an attempt to find a purely algebraic theory for the description of reality.
+   But nobody knows how to obtain the basis of such a theory.49
+
+It is not entirely clear what Einstein meant by this allusion to a 'purely algebraic
+theory', but what is clear is that Einstein was willing to entertain alternatives
+to field theories. Would his openness to alternatives have extended all the way
+to non-separable theories? We will never know.
+
+   "Einstein to Bohm, 28 October 1954. Bohm's efforts to 'complete' quantum mechanics, to which
+ Einstein here refers, took the form of his proposed hidden variables interpretation. See D. Bohm,
+ 'A Suggested Interpretation of the Quantum Theory in Terms of "Hidden" Variables. I & 11',
+Physical Review 85 (1952), 166-79, 1 8 0 - 9 3 .
+   "Einstein, 'Relativistic Theory of the Non-Symmetric Field', Appendix 11 in The Meaning of
+Relativity, 5th edn. (Princeton: Princeton University Press, 1956), pp. 165-66. Einstein's 'Note
+on the Fifth Edition' is dated 'December 1954'. This passage, which has puzzled many students
+of Einstein because it seems unconnected with any of Einstein's earlier reflections on field theories
+and quantum mechanics, should be compared to the following passage from Einstein's 1936 essay,
+'Physik und Realitat': '. . . it has been pointed out that the introduction of a spatio-temporal
+continuum may already be regarded as contrary to nature in view of the molecular structure of
+everything which happens in the small. Perhaps the success of Heisenberg's method points to a
+purely algebraic method for the description of nature, and to the elimination of continuous functions
+from physics. But then, in principle, the employment of the space-time continuum must also be
+given up. It is not unthinkable that human ingenuity will some day find methods which make it
+possible to follow this path. But in the meantime, this project appears similar to the attempt to
+breathe in a space devoid of air.' Op. cit., note 10, p. 343. (My translation — D.H.) What this
+passage suggests is that Einstein's later remark about a 'purely algebraic theory' is meant as a reference
+to a theory like Heisenberg's matrix mechanics.
+Einstein on Locality and Separability                                                 201
+
+                                   5. Conclusion
+
+   Enough of speculation. What I have tried to demonstrate in this paper is that
+Einstein's own argument for the incompleteness of quantum mechanics differs
+significantly from the Einstein, Podolsky and Rosen incompleteness argument,
+and differs in such a way that it helps us better to understand both the
+foundations of Einstein's realism and the physical implications of the
+experimental tests of local hidden-variable theories. If any other conclusion is
+to be drawn, it is that careful and sympathetic reading of the considered opinions
+of a thinker like Einstein is an imperative for the historian and philosopher of
+science, and for the physicist as well.
+   Let me close by quoting one final time from Einstein. This is the conclusion
+of his 1948 Dialectica paper, and his remarks now appear both ironic and
+edifying:
+
+     As it appears to me, there can be no doubt that the physicists who hold the quantum-
+  mechanical manner of description to be, in principle, definitive, will react to these
+  considerations as follows: They will drop requirement II of the independent existence
+  of the physical realities which are present in different portions of space; they can
+  rightly appeal to the fact that the quantum-theory nowhere makes explicit use of this
+  requirement.
+     I grant this, but note: if I consider the physical phenomena with which I am
+  acquainted, and especially those which are so successfully comprehended by means
+  of quantum-mechanics, then, nevertheless, I nowhere find a fact which makes it appear
+  to me probable that one has to give up requirement II. For that reason I am inclined
+  to believe that the description afforded by quantum-mechanics is to be viewed . . .
+  as an incomplete and indirect description of reality, that will again be replaced later
+  by a complete and direct description.
+     In any case, one should be on guard, in my opinion, against committing oneself
+  dogmatically to the schema of current theory in the search for a unified basis for
+  the whole of physics.50
+
+  "Op. cit., note 12, p. 323. (My translation — D.H.)
+

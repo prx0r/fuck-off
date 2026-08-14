@@ -1,0 +1,280 @@
+Physics Vol. 1, No. 3 f pp. 195—200, 1964    Physics Publishing Co.   Printed in the United States
+
+
+
+
+                          ON THE EINSTEIN PODOLSKY ROSEN PARADOX*
+
+                                                   J. S. B E L L t
+                    Department of Physics,      University of Wisconsin,   Madison,   Wisconsin
+
+                                            (Received   4 November 1964)
+
+
+
+
+                                                  I. Introduction
+
+THE paradox of Einstein, Podolsky and Rosen [1] was advanced as an argument that quantum mechanics
+could not be a complete theory but should be supplemented by additional variables. These additional vari-
+ables were to restore to the theory causality and locality [2]. In this note that idea will be formulated
+mathematically and shown to be incompatible with the statistical predictions of quantum mechanics. It i s
+the requirement of locality, or more precisely that the result of a measurement on one system be unaffected
+by operations on a distant system with which it has interacted in the past, that creates the essential dif-
+ficulty. There have been attempts [3] to show that even without such a separability or locality require-
+ment no "hidden variable" interpretation of quantum mechanics is possible. These attempts have been
+examined elsewhere [4] and found wanting. Moreover, a hidden variable interpretation of elementary quan-
+tum theory [5] has been explicitly constructed. That particular interpretation has indeed a grossly non-
+local structure. This is characteristic, according to the result to be proved here, of any such theory which
+reproduces exactly the quantum mechanical predictions.
+
+
+                                                 II. Formulation
+     With the example advocated by Bohm and Aharonov [6], the EPR argument is the following. Consider
+a pair of spin one-half particles formed somehow in the singlet spin state and moving freely in opposite
+directions. Measurements can be made, say by Stern-Gerlach magnets, on selected components of the
+spins <7X and o2. If measurement of the component ox * 3 , where 3 is some unit vector, yields the value
++ 1 then, according to quantum mechanics, measurement of 5 2 - 3 must yield the value - 1 and vice versa.
+Now we make the hypothesis [2], and it seems one at least worth considering, that if the two measure-
+ments are made at places remote from one another the orientation of one magnet does not influence the
+result obtained with the other. Since we can predict in advance the result of measuring any chosen compo-
+nent of a2 , by previously measuring the same component of ox , it follows that the result of any such
+measurement must actually be predetermined. Since the initial quantum mechanical wave function does not
+determine the result of an individual measurement, this predetermination implies the possibility of a more
+complete specification of the state.
+     Let this more complete specification be effected by means of parameters A. It is a matter of indiffer-
+ence in the following whether A denotes a single variable or a set, or even a set of functions, and whether
+the variables are discrete or continuous. However, we write as if A were a single continuous parameter.
+The result A of measuring ox • ^ i s then determined by 3 and A, and the result B of measuring CT2* 2 in the
+same instance is determined by 6 and A, and
+
+
+*Work supported in part by the U.S. Atomic Energy Commission
+tOn leave of absence from SLAC and CERN
+
+                                                         195
+196                                                   J . S. BELL                                  Vol. 1, No. 3
+
+                                        A (a, A) = ± 1 , 5 ( 2 , A) = ± 1 .                                  (1)
+
+The vital assumption [2] is that the result B for particle 2 does not depend on the setting a, of the magnet
+for particle 1, nor A on 6.
+     If p(A) is the probability distribution of A then the expectation value of the product of the two com-
+ponents ol.a and a2'°      is
+
+                                       P{a, t) =Jd\p{\)A{a, A)B(&,\)                                          (2)
+This should equal the quantum mechanical expectation value, which for the singlet state is
+
+                                         < a1 * a <j2' o > = - a * 6 .                                        (3)
+
+But it will be shown that this i s not possible.
+     Some might prefer a formulation in which the hidden variables fall into two s e t s , with A dependent on
+one and B on the other; this possibility is contained in the above, since A stands for any number of vari-
+ables and the dependences thereon of A and B are unrestricted. In a complete physical theory of the
+type envisaged by Einstein, the hidden variables would have dynamical significance and laws of motion;
+our A can then be thought of a s initial values of these variables at some suitable instant.
+
+
+                                               III.     Illustration
+     The proof of the main result i s quite simple. Before giving it, however, a number of illustrations may
+serve to put it in perspective.
+     Firstly, there is no difficulty in giving a hidden variable account of spin measurements on a single
+particle. Suppose we have a spin half particle in a pure spin state with polarization denoted by a unit
+vector p. Let the hidden variable be (for example) a unit vector A with uniform probability distribution
+over the hemisphere A • p > 0. Specify that the result of measurement of a component o • a i s
+
+                                                  sign X • a ' ,                                             (4)
+
+where a' i s a unit vector depending oh a and p in a way to be specified, and the sign function is + 1 or
+- 1 according to the sign of its argument. Actually this leaves the result undetermined when A * a _r 0*
+but as the probability of this i s zero we will not make special prescriptions for it. Averaging over A the
+expectation value is
+
+                                           < a - a > = 1 - 2d'/n,                                             (5)
+
+where d* is the angle between a' and p . Suppose then that a' i s obtained from a by rotation towards p
+until
+
+                                               1 - —          = cosd                                          (6)
+
+                                                         77
+
+
+
+where 0 is the angle between a and p .      Then we have the desired result
+
+                                              < o - a > = cos 6                                               (7)
+  So in this simple c a s e there is no difficulty in the view that the result of every measurement is determined
+  by the value of an extra variable, and that the statistical features of quantum mechanics arise because the
+, value of this variable is unknown in individual instances.
+Vol. l t No. 3                ON THE EINSTEIN PODOLSKY ROSEN PARADOX                                       197
+
+     Secondly, there is no difficulty in reproducing, in the form (2), the only features of (3) commonly used
+in verbal discussions of this problem:
+
+                                         P{a,a) = - P d - a ^ - l |                                        (g)
+
+                                         P{a, ti = 0 if a-1> = 0            )
+
+For example, let A now be unit vector A, with uniform probability distribution over all directions, and take
+
+                                         A (a, X) = sign a • X          |                                  ,g*
+                                         B(a, b) = - s i g n 6- A )
+
+This gives
+                                         P& t) = - 1      +± 9 ,                                          (10)
+
+
+where 6 is the angle between a and 6, and (10) has the properties (8). For comparison, consider the re-
+sult of a modified theory [6] in which the pure singlet state is replaced in the course of time by an iso-
+tropic mixture of product states; this gives the correlation function
+
+                                                 - 1 a.t                                                  (11)
+                                                      3
+
+It is probably less easy, experimentally, to distinguish (10) from (3), than (11) from (3).
+      Unlike (3), the function (10) is not stationary at the minimum value - l(at d = 0). It will be seen
+that this is characteristic of functions of type (2).
+      Thirdly, and finally, there is no difficulty in reproducing the quantum mechanical correlation (3) if the
+results A and B in (2) are allowed to depend on o and a respectively as well as on a and 6. For ex-
+ample, replace a in (9) by a', obtained from a by rotation towards o until
+
+                                            1 - - Q* = cos $ ,
+                                                n
+where 81 is the angle between a' and o. However, for given values of the hidden variables, the results
+of measurements with one magnet now depend on the setting of the distant magnet, which is just what we
+would wish to avoid.
+
+
+                                             IV. Contradiction
+     The main result will now be proved. Because p is a normalized probability distribution,
+
+                                                     d\p(k) = 1,                                           (12)
+                                               / -
+and because of the properties (1), P in (2) cannot be less than - 1. It can reach - 1 at a = b only if
+
+                                            A(a, A) = -B(a,        A)                                      (13)
+
+except at a set of points A of zero probability. Assuming this, (2) can be rewritten
+
+                                  P(% t) = -Jdkptib         A{a, A) A(% A).                                (14)
+198                                                 J. S. BELL                                   Vol. 1, No. 3
+
+It follows that c is another unit vector
+
+                    P(a, t) -P(a,   c) = -Jdkp(k)      [A(l, A) A($, A) -A(a,   A) A(c, A)]
+                                      = Jdkp(k)      A(a, A) A{% A) [A(t, A) A(c, A) - 1 ]
+
+using (1), whence
+
+                           |P(a, 3) - P ( i c ) | <JdXp(X)[l-A($,        X)A(Z, A)]
+
+The second term on the right is P(b, c), whence
+
+                                     1 + P(3, c) > |P(a, 3) - P(a} 3)|                                    (15)
+Unless P is constant, the right hand side is in general of order | 6 - c | for small | 6 - c | . Thus P(o, c)
+cannot be stationary at the minimum value (-1 at o = c) and cannot equal the quantum mechanical
+value (3).
+     Nor can the quantum mechanical correlation (3) be arbitrarily closely approximated by the form (2).
+The formal proof of this may be set out as follows. We would not worry about failure of the approximation
+at isolated points, so let us consider instead of (2) and (3) the functions
+
+                                             P(a, 3) and - a • b
+
+where the bar denotes independent averaging of P(ar7 b') and -a * o over vectors a and o within spec-
+ified small angles of a and o. Suppose that for all a and o the difference is bounded by €:
+
+                                            \P(a, 3) + a*- t\ < €                                        (16)
+
+Then it will be shown that e cannot be made arbitrarily small.
+    Suppose that for all a and b
+
+                                                    3 - a-3\ <8                                           (17)
+
+Then from (16)
+                                           P(t, 3) + a- 3 | < € + 8                                       (18)
+
+From (2)
+                                     P{a, 3) = JdXp(X)      A(a, A) 5(3, A)                               (19)
+
+where
+                                       A (a, A) | < 1 and \B(&, A) | < 1                                   (20)
+
+From (18) and (19), with a = 3,
+                                     dXp{X) [A(t, A) 3 ( 3 , A) + 1] < e + 8                              (21)
+From (19)
+                    P(a, 3) - P(a, c) = JdXp(X)      [A(a, A) B(t, A) - A(a, A) £(c\ A)]
+                                       = Jdkpik)     A(a, A) B(t, A) [1 + A(&, A) i ( c , A)]
+                                       -Jdkp(k)      A{a, A) B(c, A) [1 + A{%, A) Bit, A)]
+Vol. 1, No. 3                   ON THE EINSTEIN PODOLSKY ROSEN PARADOX                                             199
+
+Using (20) then
+
+                             \F{a\ t) -P(a,    c ) | < y d A « ( A ) [ l + A(t,     A) 5 ( c , A)]
+
+                                                               d\p(\)[l    + A(t,   A) Bit,   A)]
+                                                     •    /
+Then using (19) and 21)
+
+                                  | P ( ^ t) - P(l       c)\    < 1 + P(t c) + £ + S
+
+Finally, using (18),
+
+                                a - c - a     Si - 2(c + s) < I - S - 2 + 2(6 + 8)
+
+or
+
+                                    4(f + S ) > | a « c - a - / 5 | + £ - c - l                                   (22)
+
+Take for example a • c = 0, a • 6 = 6 • c = l / \ / 2              Then
+
+                                               4(<r + S) > V 2 " - 1
+
+Therefore, for small finite S; e cannot be arbitrarily small.
+     Thus, the quantum mechanical expectation value cannot be represented, either accurately or arbitrar-
+ily closely, in the form (2).
+
+
+                                                V.       Generalization
+     The example considered above h a s the advantage that it requires little imagination to envisage the
+measurements involved actually being made. In a more formal way, assuming [7] that any Hermitian oper-
+ator with a complete set of eigenstates is an " o b s e r v a b l e " , the result i s easily extended to other systems.
+If the two systems have state spaces of dimensionality greater than 2 we can always consider two dimen-
+sional subspaces and define, in their direct product, operators ox and a2 formally analogous to those
+used above and which are zero for states outside the product subspace. Then for at least one quantum
+mechanical state, the " s i n g l e t " state in the combined subspaces, the statistical predictions of quantum
+mechanics are incompatible with separable predetermination.
+
+
+                                                  VI.         Conclusion
+      In a theory in which parameters are added to quantum mechanics to determine the results of individual
+measurements, without changing the statistical predictions, there must be a mechanism whereby the set-
+ting of one measuring device can influence the reading of another instrument, however remote. Moreover,
+the signal involved must propagate instantaneously, so that such a theory could not be Lorentz invariant.
+      Of course, the situation i s different if the quantum mechanical predictions are of limited validity.
+Conceivably they might apply only to experiments in which the settings of the instruments are made suffi-
+ciently in advance to allow them to reach some mutual rapport by exchange of signals with velocity l e s s
+than or equal to that of light. In that connection, experiments of the type proposed by Bohm and Aharonov
+[6], in which the settings are changed during the flight of the particles, are crucial.
+      / am indebted to Drs. M. Bander and J. K. Perring for very useful discussions of this problem. The
+first draft of the paper was written during a stay at Brandeis University; I am indebted to colleagues there
+and at the University of Wisconsin for their interest and hospitality.
+200                                            J. S. BELL                                    Vol. 1, No. 3
+
+                                              References
+1. A. EINSTEIN, N. ROSEN and B. PODOLSKY, Phys. Rev. 47, 777 (1935); s e e also N. BOHR, Ibid, 48,
+   696 (1935), W. H. FURRY, Ibid. 49, 393 and 476 (1936), and D. R. INGLIS, Rev. Mod. Phys. 33, 1
+   (1961).
+2. "But on one supposition we should, in my opinion, absolutely hold fast: the real factual situation of
+   the system S2 i s independent of what is done with the system S1 , which is spatially separated from
+   the former." A. EINSTEIN in Albert Einstein, Philosopher Scientist, (Edited by P . A. SCHILP) p. 85,
+   Library of Living Philosophers, Evanston, Illinois (1949).
+3. J. VON NEUMANN, Mathematishe Grundlagen der Quanten-mechanik. Verlag Julius-Springer, Berlin
+   (1932), [English translation: Princeton University Press (1955)]; J . M. JAUCH and C. PIRON, Helv.
+   Phys. Acta 36, 827 (1963).
+4. J. S. BELL, to be published.
+5. D. BOHM, Phys. Rev. 85, 166 and 180 (1952).
+6. D. BOHM and Y. AHARONOV, Phys. Rev. 108, 1070 (1957).
+7. P . A. M. DIRAC, The Principles of Quantum Mechanics (3rd Ed.) p. 37. The Clarendon P r e s s , Oxford
+   (1947).
+

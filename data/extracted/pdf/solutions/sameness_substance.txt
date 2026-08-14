@@ -1,0 +1,1033 @@
+   SAMENESS AND
+SUBSTANCE RENEWED
+
+                DAVID WIGGINS
+  Wykeham Professor of Logic Emeritus in the University of Oxford
+                                                  
+           The Pitt Building, Trumpington Street, Cambridge, United Kingdom
+
+                                                  
+                   The Edinburgh Building, Cambridge      , UK
+                    West th Street, New York,  –, USA
+                      Stamford Road, Oakleigh,  , Australia
+                         Ruiz de Alarcón ,  Madrid, Spain
+                Dock House, The Waterfront, Cape Town , South Africa
+                                     http://www.cambridge.org
+
+                                        © David Wiggins 
+
+                  This book is in copyright. Subject to statutory exception
+               and to the provisions of relevant collective licensing agreements,
+                     no reproduction of any part may take place without
+                    the written permission of Cambridge University Press.
+
+                                         First published 
+
+             Printed in the United Kingdom at the University Press, Cambridge
+
+             Typeface Baskerville MT /. pt. System QuarkXPress™                        [ ]
+
+                   A catalogue record for this book is available from the British Library
+
+                           Library of Congress Cataloguing in Publication data
+                                        Wiggins, David.
+                      Sameness and substance renewed / David Wiggins.
+                                            p. cm.
+                  Rev. edn of Sameness and substance. Oxford: Blackwell, .
+                        Includes bibliographical references and index.
+                     (hardback) –      (paperback)
+. Identity. . Individuation (Philosophy). . Essence (Philosophy). . Conceptualism.                     .
+       Substance (Philosophy). . Wiggins, David. Sameness and substance. . Title.
+                                       . 
+                                     –dc –
+
+                                          hardback
+                                         paperback
+                                    Contents
+
+
+
+
+Preface                                                                       page ix
+
+   Preamble, chiefly concerned with matters methodological and
+   terminological                                                                   
+        Aims and purposes                                                          
+        Formal properties of identity                                              
+        Notions                                                                    
+        Philosophical terminology: a manifesto                                     
+        Sortal predicates and sortal concepts: and concepts versus conceptions     
+        Real and nominal                                                          
+        Necessary/contingent and a priori / a posteriori                          
+        Formal notations                                                          
+        The mode of combination involved in ‘is the same donkey as’               
+       Questions of priority                                                     
+
+ The absoluteness of sameness                                                     
+        A central question about identity; and rival answers given by defenders
+           of the absoluteness of identity and the relativity of identity          
+        Leibniz’s Law and the difficulties of relative identity                   
+        Five ways for it to be false that a  b                                   
+                                             g
+        Possible examples of type-() relativity                                  
+        Some cases that might be alleged to be of type ()                        
+        Discussion of type-() cases                                              
+        Discussion of type-() cases and some attempted amendments of
+           Leibniz’s Law                                                           
+        A mathematical example supposedly of type ()                             
+        Conclusion concerning R, the Relativity of Identity                       
+       Absoluteness and sortal dependence jointly affirmed and formalized        
+
+ Outline of a theory of individuation                                             
+       Propostion D and the rationale of the ‘same what?’ question                
+       The charge of circularity, or of emptiness                                 
+
+                                          v
+vi                                    Contents
+      The identity of indiscernibles                                             
+      Proposition D further explicated and amplified: and D(ii) as the proper
+         development of D                                                         
+      Existence and sortal predications                                          
+      Further D principles                                                       
+      Miscellaneous further principles; and a doubt about counting               
+
+ Sortal concepts: and the characteristic activity or function or
+  purpose of things falling under them                                            
+      The sortal predicates of natural kinds                                     
+      The other sortal predicates                                                
+      Problems of artefact identity                                              
+      Two approaches to the problem of artefact identity                         
+      Summary of conclusions to date: and a methodological remark               
+      Transition to Chapters Four and Five                                      
+
+ Individuative essentialism                                                     
+       Independence from the explicitly modal of the foregoing theory of
+          individuation                                                          
+       Principles and maxims governing the derivation of a modest
+          essentialism                                                           
+       The necessity of identity and the necessity of difference                
+       Conceivability, theory and essence                                       
+       Conceivability continued                                                 
+       Individuative essentialism and its consequences                          
+       That the idea of ‘haecceitas’ is as misbegotten as the word itself is
+          unlovely                                                               
+       The essentialist ‘must’ and ‘can’                                        
+       Avoiding overspecificity, allowing vagueness                             
+      Other de re necessities, real or putative: a framework for further
+          inquiry                                                                
+      The essences of artefacts and the matter of artefacts                    
+      One special kind of artefact: works of art and the essences of these     
+
+ Conceptualism and realism                                                      
+      Anti-realist conceptualism and anti-conceptualist realism                 
+      Four clarifications                                                       
+      A conventionalist reconstruction of our modal convictions: a
+         conceptualist anti-realist view of essence                              
+      A hypothesis concerning the sources of anti-essentialism                  
+      An exaggeration of conceptualism, deprecated and corrected in the
+         light of certain truisms; and the reply to the anti-conceptualist
+         realist begun                                                           
+                                      Contents                                       vii
+      The perfect consonance of sober realism and sober conceptualism               
+      The realist requirement restated, refurbished and satisfied                   
+      Concluding suggestions                                                        
+
+ Identity: absolute, determinate, and all or nothing, like no
+  other relation but itself                                                          
+       Three contrasted views of singling out an object                             
+       Back and forth between the object and the thought of the object              
+       Some putative examples of indeterminate objects                              
+       If object a is the same as object b, then a is determinately the same as b   
+       What, if anything, follows from such formal derivations?                     
+       Treatment of examples (a), (b), (c); of §                                   
+       Sense and point; and sense as the work of the mind                           
+       On the level of reference, things cannot be simply conceived into
+           being or postulated into existence – not even material things with
+           matter putatively ready at hand                                           
+       Once again (one last time) the things to which simple identity
+           sentences make a reference                                                
+      More about the relation of identity                                          
+      Might it ever be true to say that a was almost b, that a was almost
+           numerically identical with b?                                             
+      Conclusion                                                                   
+
+ Personal identity                                                                  
+       
+        An expeditious if precipitate answer to the question of personal
+           identity                                                                  
+        Doubts, and answers to doubts: subjects of consciousness                    
+        The Lockean conception; and Butler’s criticisms of such conceptions         
+        A neo-Lockean identity-condition                                            
+        Butler’s central insight                                                    
+        A neo-Lockean conception                                                    
+        Unfinished business                                                         
+        The theses to be argued in this chapter                                     
+        Co-consciousness again, and quasi-memory                                    
+      A second and third question about Parfit’s definition of ‘Q-remember’        
+       Digression: an alternative method of definition, revealing by its
+           inadequacy the semantical point of the attribution of experiential
+           memory                                                                    
+      More about ‘dependent in the right way’                                      
+      
+      As it now appears, the state of the whole argument to date                   
+      Participation in the growth of knowledge                                     
+viii                                   Contents
+        The penultimate problem and a verdict upon it, all leading in due
+            course to a reassessment of the original Shoemaker case           
+        Brown–Brownson reconsidered                                         
+        One last variant – and the philosophical moral of same. Finally,
+            human persons as artefacts?                                       
+
+Select bibliography                                                           
+Index of names of persons cited or mentioned                                  
+Index of contents (themes, theses, examples, etc)                             
+ Preamble, chiefly concerned with matters methodological
+                    and terminological
+
+
+
+     Technical terms are worse to be shunned than dog or snake.
+                                              (Leibniz, Gerhardt , .)
+
+
+
+                        .   
+The chief aim of this book is to elaborate a theory of the individuation
+of continuants, including living substances and other substances. Such
+a theory ought to comprise at least three things: an elucidation first of
+the primitive concept of identity or sameness; second, some account of
+what it is for something to be a substance or continuant that persists
+through change; third, an account of what it amounts to, practically and
+cognitively, for a thinker, to single a thing out at a time. Here, with this
+last task, there is the supplementary question of what it amounts to for
+the same thinker, having once singled something out, later to single out
+that same thing as the same thing.
+   From a philosopher’s attitude towards the logical and methodological
+ordering of these tasks one can tell something about his or her attitude
+towards the idea that the meaning of a word is a function of its use. In
+this work, it is everywhere accepted that the meanings of such words as
+‘same’, ‘substance’, ‘change’, ‘persist’ and ‘recognize’ depend upon their
+use. The life and semantic identity of such terms is only sustained by the
+activity of singling out or individuating. But the thesis of meaning as use
+is consistent with two converse or complementary theses (A)(B), which
+have an equal relevance to what is to be attempted and an equal claim
+upon rational acceptance.
+   (A) The relation between the meaning and the use of such words as
+‘same’, ‘substance’, ‘change’, ‘persist’ is in fact reciprocal or two-way.
+Everything that concerns meaning registers upon use; but, unless we
+                                     
+                                              Preamble
+redefine use, that does not imply that meaning can be reduced to use.1
+Among the concerns I began by enumerating, there is no question of
+collapsing the first two into the third, for instance.
+   (B) An interpretation of a set of linguistic uses or conceptual practices
+must speak of the subject matter to which they relate. For that reason, it
+must refer to the various things themselves towards which the uses or
+practices themselves are directed, together with the properties and rela-
+tions of these things. The child who is learning to find for himself the
+persisting substances in the world, to think the thoughts that involve
+them and recognize the same ones again, grasps a skill and a subject
+matter at one and the same time. A philosopher who seeks properly to
+understand those thoughts must proceed accordingly. Let the philoso-
+pher elucidate same, identical, substance, change, persist, etc., directly and
+from within the same practices as those that an ordinary untheoretical
+human being is initiated into. At the same time, let the philosopher show
+by example what good elucidations can be made of such ideas as these.
+To this end, let him shadow the practical commerce between things
+singled out and thinkers who find their way around the world by singling
+out places and objects – and singling out one another. If the meaning of
+the terms ‘same’, ‘substance’, ‘change’, ‘persist’, etc., is a function of use
+and use is a function of the said commerce, then one by-product of this
+mode of elucidation will be that the task I began by calling the third task
+is undertaken in concert with the first and the second. The first and
+second tasks acknowledge the importance of the third; but, by their con-
+stant appropriate acknowledgment of this importance, they will in fact
+absorb the third.
+   When the reciprocities and mutual interdependencies of concept,
+practice and thing-singled-out are acknowledged and likened to those of
+some seamless web, when the primitiveness of all the relevant notions is
+acknowledged too, how much genuine clarification is it reasonable to
+expect a philosophical theory of individuation to be able to achieve?
+Well, we have rudimentary pretheoretical ideas of identity, persistence
+through change, and the singling out of changeable things. By means of
+these, we may arrive at a provisional or first explication of what ‘same’
+means and of the actual application of this relation-word. So soon as
+that is achieved, there is a basis from which to scrutinize afresh and then
+11
+     Or even to correct and truthful use, which would be a less striking achievement. (I hear someone
+     scoffing at the distinction between use and correct use. Let them note that the correct use of a
+     word or device might only be determinable from within a whole practice, yes, but without its fol-
+     lowing from this that the correct use was determinable from within practice in respect of this word
+     or device. Cognate questions are pursued further in my (b).
+                                             Preamble                                             
+consolidate our logical and participative understanding of the individu-
+ative practices that a thinker’s grasp of the concepts of substance, same-
+ness and persistence through change makes possible for him. At the end
+of this second phase, nothing will be recognizable as the philosophical
+analysis of ‘’. But no special mystery need remain about how a notion
+of the exigency that we ascribe to the identity relation can find applica-
+tion in the changeable world of our experience. Provided we do not
+despise the ordinary ideas by which we conduct the untheoretical busi-
+ness of the individuation and reidentification of particulars, we can
+remind ourselves well enough of what regulates the principled employ-
+ment of ‘’. We can remind ourselves of what it is for anyone who is
+bent on singling out objects to carve off from the world, or isolate from
+among the objects of his experience, various continuants or things that
+persist through change.
+   This emphasis on the practical does not mean something that it might
+seem to mean if, in the cause of the crudest version of ‘meaning as use’,
+a separate priority were accorded to the third of the three tasks enumer-
+ated in the second sentence of the first paragraph. It does not mean that,
+for the benefit of his deluded subjects, the theorist is to find a way to see
+a world that might as well be one of pure flux in which nothing really
+persists through change as if that world offered us objects that persist
+through change. For persistence through change is not make-believe. No
+sensible inquiry could abandon a datum so fundamental or so deeply
+entrenched.2 It means that, arriving at the point programmatically
+described, the theorist is to understand as well as he can – discursively,
+practically, in the same sort of terms as those who individuate them or
+in modest extrapolation from these – what it is for an object to be a
+genuine continuant; it means that, when that is done, the theorist is to
+describe how the charge that something did not persist is to be consid-
+ered, namely on its merits, such merits being set out in terms accessible
+in principle to those who take themselves to believe in genuine continu-
+ants. It is in this way that we shall try to identify the point properly at
+issue in some of the most bitterly contested questions of identity.
+   There are two complaints about the method of elucidations that will
+not go happily together: () that the method is vacuous, a mere replay of
+that which needs to be ‘explained’; () that the demands which the
+method derives from the congruence and other properties of identity
+and translates into requirements upon the positive finding of identity are
+12
+     Nor could flux as such, or as coherently conceived, stand in the way of singling out changeable
+     continuants. See my ().
+                                 Preamble
+draconian, too exigent, too severe. You cannot make both complaints.
+But it is better (I hope to show) not to make either.
+
+                .     
+Where there is reciprocity or mutual presupposition between concepts,
+analytical philosophy is always tempted into violence or arbitrariness.
+We find it hard to endure the thought that, in the substantive questions
+of philosophy, there is no master thread we can pull upon to unravel
+everything else. Even as I deprecate this idée fixe, however, it may appear
+that the chapters which follow are victim of the same illusion. For in this
+book the formal properties of identity, namely the reflexivity of identity
+and Leibniz’s Law (registered in the claim that, if x is the same as y, then
+whatever is true of x is true of y and whatever is true of y is true of x),
+will be treated as enjoying a special status. In this way, am I not attempt-
+ing to insulate from legitimate criticism my opinion that these formal
+properties determine what can count as someone’s singling out or
+tracing an entity? In the presence of doubt concerning formal proper-
+ties, is it not simple dogmatism for me to persist in saying (in effect) that
+the properties of identity regulate, by reference to a claim they make
+upon reason, the interpretation of thought and action as thought and
+action?
+   In partial answer to this charge, I can only plead that something is
+done in the course of Chapter One, §, to justify the view I take of the
+formal properties of ‘’. I do not really think they are given simply ab
+extra. It is true that I liken the status of reflexivity and congruence (along
+with the symmetry and transitivity that they entail) to that of the Law of
+Non-Contradiction. But, bracketing Chapter One, §, my conciliatory
+view would be that the issue between the opposition and me is holistic
+and dialectical. If that is right, however, then the question at issue cannot
+really be resolved until some opposing account of individuation is devel-
+oped to the same point as the account presented here. These questions
+will not be resolved until rival descriptions of individuation (and of ref-
+erence) are compared with one another against the background of all
+the practices that they purport to describe. (For one small step in that
+direction, see Harold Noonan’s and my exchange in Lovibond and
+Williams ().) The thing I have to hope is that, in the end, the reader
+will convince himself that the internal difficulties of the ontology and
+ideology of a position that abandons the Leibnizian conception of iden-
+tity are overwhelmingly greater than any of the difficulties attaching to
+                                        Preamble                            
+the position I recommend. I trust that at that point, if not before, the
+reader will come to share my conviction that the Leibnizian principle is
+immanent in any linguistic or reflective practices we can recognize as ref-
+erence and individuation.
+
+                                     .      
+Corresponding to the three tasks mentioned in the first paragraph, we
+have the notions identical (same), continuant and individuate.
+    (i) The notion of sameness or identity that we are to elucidate is not
+that of qualitative similarity but that of coincidence (as an object, thing
+or substance), a notion as primitive as predication and correlative with
+it in the following way: if and only if Socrates is a man, then Socrates is
+identical with some man, and thus (we shall argue) shares all his proper-
+ties with him. (This equivalence is offered as a manifest truth, rather than
+as an analytical definition of ‘is a man’ or of anything else. It is not
+offered as a part of a canonical or mandatory definitional sequence. See
+below, §.) No reduction of the identity relation has ever succeeded.
+(See especially Chapter Six, §.) Nor yet is it called for, once we realize
+how much can be achieved in philosophy by means of elucidations that
+put a concept to use without attempting to reduce it but, in using the
+concept, exhibit its connexions with other concepts that are established,
+genuinely coeval or collateral, and independently intelligible. (Compare
+here Wittgenstein, Tractatus Logico-Philosophicus, ., ., ..) Not
+only is identity irreducible. Only in a vacuous sense of ‘supervene’, or a
+weak and irrelevant one, does it supervene on the totality of properties
+and relations other than itself. (See Chapter Six, §.)
+    (ii) We have to explicate what it is to be a continuant or a substance.
+This explication will not amount to a definition. Nor will it be achieved
+without the ineliminably practical demonstration of the ordinary per-
+ceptible individuals of common experience. The explication must go
+some way beyond mere demonstration. But to set out, as so many phi-
+losophers have done in emulation of Book  of Aristotle’s Metaphysics,
+with the high-minded aspiration to achieve an altogether purer kind of
+definition of substance, and then to abandon the concept of substance
+just because the result does not satisfy, is to end up doing philosophy that
+is at once ill-tempered and needlessly bad. It represents the inability to
+learn from Aristotle’s experiment.3
+
+                13
+                     For my own attempts to learn from it, see my ().
+                                          Preamble
+   Kant writes at § of Prolegomenon to Any Future Metaphysic: ‘People have
+long since observed that in all substances the proper subject, that which
+remains after all the accidents (as predicates) are abstracted, remains
+unknown.’ I protest that the substances or subjects we begin with are not
+unknown but known, that the only abstraction in which we need to be
+interested is utterly distinct from that which is supposed to result from the
+notional (mythical) removal of properties from a substance. The interest-
+ing and benign form of abstraction is that which results from the ascent
+from particular kinds of substance to the determinable substance of some
+further specifiable kind. (Ascent to what Wittgenstein in Tractatus Logico-
+Philosophicus called a formal concept.) This form of abstraction cannot part
+us from our conviction that substances are things which are known to us.
+   (iii) The Oxford English Dictionary defines ‘individuate’ in terms of
+‘single out’ or ‘pick out’, and this definition is well suited to the purposes
+of this book. That which individuates – in the one sense in which the
+word will be used in this book4 – is in the first instance a thinker.
+(Derivatively, but only derivatively, one may find oneself saying that a
+substantive or predicate individuates.) To single x out is to isolate x in
+experience; to determine or fix upon x in particular by drawing its
+spatio-temporal boundaries and distinguishing it in its environment
+from other things of like and unlike kinds (at this, that and the other
+times during its life history); hence to articulate or segment reality in such
+a way as to discover x there. To single x out though, or even to prolong
+the singling out of x into the effort to keep track of x, is not yet (unless
+‘in thought’) to refer to x or to designate x. And one may well refer to x,
+of course, without in our primary sense singling x out at all. This is not
+to say that, if there were no singling out, there could be reference.
+Singling out is the sheet-anchor for information about particulars.
+   The verbs ‘individuate’ and ‘single out’ are not intensional. If a
+thinker singles out x or individuates x, and xy, then, whether or not he
+knows it, he singles out or individuates y. Such verbs do, however, permit
+of a complementation that is intensional. A Greek could have simply
+singled out Socrates; he could have singled out Socrates as Socrates; he
+could have singled out Socrates as a certain man or philosopher; or he
+could have singled out Socrates as the Athenian married to Xanthippe
+who was represented by Plato to have stressed (Phaedrus e) the equal
+importance, in classification and in carving, of ‘dividing where the joints
+are’. What then is the relation of singling out and singling out as? In due
+14
+     Contrast books about logic or metaphysics where the verb is used to stand for the relation
+     between a predicate and some unique thing that satisfies the predicate.
+                                   Preamble                                  
+course, we shall discover reason to think that there could be no singling
+out tout court unless there could also be singling out as. (This is not a pri-
+ority claim.) It will be declared that not just any attempt at singling out
+counts as singling something out; that that which is required in a given case
+derives from what the thing itself is. It will be a consequence of the
+account of these matters to be given here that, for a thinker to single out
+or individuate a substance, there needs to be something about what he
+does, something about his rapport with x or his relational state towards x
+and his practical sensibility in relation to x, which (regardless of whether
+he articulately knows this or not – for all he needs is clear indistinct
+knowledge, cf. Chapter Three, note  and associated text – and regard-
+less of whether it is a singling out as) sufficiently approximates to this: the
+thinker’s singling x out as x and as a thing of a kind f such that member-
+ship in f entails some correct answer to the question ‘what is x?’ For the
+philosophical cargo carried by this Aristotelian question, see Chapter
+One and the chapter mottoes prefixed to it from Aristotle’s Categories.
+One further and equally Aristotelian part of that cargo makes reference
+to the way in which x behaves, how it acts and reacts. It will be every-
+where insisted, moreover, that the singling out at time t of the substance
+x must look backwards and forwards to times before and after t. And it will be
+categorically denied in Chapters Five and Six, that, where it is indeter-
+minate what was singled out, we have the singling out of something
+indeterminate. (Even at this distance the thing denied has the distinctive
+smell of fallacy.) But at this point in summarizing what is to come, I
+venture well beyond explanation of terminology and deep into the phi-
+losophy of the matter. Chapters Five and Six aim to complete the
+account of what singling out is. If they succeed, it will become finally
+clear how and why the singling something out at t cannot help but look,
+as I say, both backwards and forwards to times before and after t.
+   In sum, let the English language fix what will be meant by ‘single out’
+and ‘pick out’. Let these verb phrases sustain the practical and episte-
+mological significance of ‘individuate’, ‘individuation’ and ‘individua-
+tive’. Let philosophy then seek to say what individuative acts and
+thoughts amount to. At this point, a reader who has had enough of pre-
+liminaries may want to advance to Chapter One.
+
+         .        :      
+The explications just given are intended to leave room for me to make the
+following declaration. Ideally, all technical terms should (i) be defined and
+                                              Preamble
+(ii) belong in that part of the metalanguage which does not overlap with
+the object language. Where there is no alternative but to allow technical
+terms to penetrate into the object language (e.g. because the object lan-
+guage is poor in schematic devices or devices of generalization), one might
+hope that technical terms would serve the sole purpose of abbreviation, of
+summarizing, and of systematizing, in terms not essentially different from
+the expressions indigenous to the object language, the matters of which the
+object language already speaks. No doubt the philosophy of any particu-
+lar science or art will need to use the technical terms of that science or art.
+But such terms will have needed to pass muster in that art or science itself.5
+    The semi-technical uses in this book of ‘concept’, ‘continuant’, ‘sub-
+stance’, ‘coincidence’, ‘coincidence under a concept’ will stand con-
+demned unless they can conform to these requirements. Maybe they will
+not always live up to the ideal stated, and will to that extent stand con-
+demned. But my aspiration for them is that they should be devices for
+the generalization of that which has a straightforward meaning in the
+object language of English – more specifically, that they will be determin-
+ables of which ordinary English provides countless determinations.6 This is
+everywhere important, but it is a particularly important stipulation in
+connexion with the term ‘substance’. If we misunderstand determinable
+notions such as this, then it is almost inevitable that we shall unintention-
+ally restore the unwanted associations of ‘substance’ with doctrines of
+bare particulars and qualitiless substrate.
+
+        .              : 
+                              
+A technical term that is associated with ‘substance’ and the what is it?
+question but belongs in the metalanguage is ‘sortal predicate’. I use this
+15
+   In stating that these are the ideals to which I regard myself as answerable, I am not venturing to
+   condemn all philosophy that disregards them or follows some other manifesto. It is enough for
+   me to say that the badness of much philosophy that is bad by almost any standard can be partly
+   explained as the effect, inter alia, of disregard for such maxims – or of utter nescience of them.
+16
+   The determinable/determinate distinction was revived by W. E. Johnson (Logic .XI.; Cambridge,
+   ) out of dissatisfaction with the traditional genus and differentia account of species when it
+   was applied outside its traditional scope. ‘To be ultramarine is not to be blue and something else
+   besides, but it is a particular way of being blue’, A. N. Prior, The Doctrine of Propositions and Terms
+   (London, ). Pace the traditional doctrine of genus and differentia, I should say the same of being
+   a cat. It is not a matter of being an animal and something else that is independent of animality.
+   See below on real definitions, §. Manifestly ‘substance’ stands for a fundamentum divisionis in the
+   traditional scheme. Or, in the language of the Tractatus, one may prefer to say it stands for a
+   formal concept. For further discussion, see A. N. Prior, op. cit., pp. – and ‘Determinables,
+   Determinates and Determinants’, Mind,  (), pp. –, –.
+                                               Preamble                                                  
+Lockean term in roughly the manner of the second part of P. F.
+Strawson’s Individuals (London: Methuen, ). See especially his pp.
+–. (For a discrepancy not of philosophical purpose but of detail, see
+Chapter One, section  below.) Locke’s usage, Strawson’s usage and my
+own are all focused or organized by Aristotle’s distinction of predications
+in the category of substance from predications in the category of quality
+and the other categories. See the first five chapters of Aristotle’s treatise
+Categories, especially the two passages I have prefixed to Chapter One.
+For Locke’s usage, see Essay , iii, :
+it being evident that things are ranked under names into sorts or species only as
+they agree to certain abstract ideas, to which we have annexed those names, the
+essence of each genus or sort comes to be nothing but that abstract idea which
+the general, or sortal (if I may have leave so to call it so from sort, as I do general
+from genus), name stands for.7
+   Here, as in other cases, the intuitive semantics we reach for in replace-
+ment of the Lockean system of ideas are Frege’s or some adaptation of
+these. (For, however unfinished Frege’s original scheme may be and
+whatever reservations one may have about the further elaborations that
+he offers of it in Grundgesetze, the underlying ideas are as general as they
+are durable.) Like other predicables, a sortal predicate expresses a sense
+and, by virtue of expressing this sense, it stands for a concept. Under this
+concept individual things may fall. See the diagram in Frege’s letter to
+Husserl.8 To understand a predicate and know what concept it stands for
+is to grasp a rule that associates things that answer to it with the True
+and things that don’t answer to it with the False. (The extension of the
+concept is therefore the inverse image of the True under the function
+
+17
+   At § (‘Divided reference’), Quine () notes the following variants for ‘sortal predicate’: ()
+   individuative predicate; () articulative predicate; () substance-name; () shared, or multiply
+   denotative, name; () predicate which divides its reference (extension). Another variant that has
+   had some currency, on which see Woods (), is () boundary drawing predicate. (Cf. Frege
+   (), §.) All six terms serve to illuminate the difference, partially but only imperfectly reflected
+   in the grammatical division of noun and adjective or verb, between Aristotle’s ontologically basic
+   question What is x? and less basic questions such as What is x like? Where is x? What is x doing? Note
+   that looking at these terms in this Aristotelian way will enforce a diachronic interpretation of ‘indi-
+   viduate’, ‘articulate’, etc. We shall not be in the business of describing first what it takes for syn-
+   chronic momentary presentations (things presented) a and b to be the same dog and then
+   describing what it takes for a presentation now and a presentation tomorrow to be ‘concanine’.
+   Identity over time is just identity. The same holds of identity at a time. Such truisms should con-
+   dition any account of the terms of a given identity judgment. Any secure practical grasp of what
+   counts now as a dog regulates present judgments in the light of future and past findings about
+   the same thing. And vice versa. See my ‘Reply to Noonan’ in Lovibond and Williams ().
+18
+   The letter is dated . See Dummett (), Chapter Five. The diagram is reproduced in my
+   () and my ().
+                                          Preamble
+determined by this rule.) To grasp the rule is to grasp how or what a thing
+must be (or what a thing must do) in order to satisfy the predicate. To
+grasp this last is itself to grasp the Fregean concept. Thus ‘horse’ stands
+for that which Victor is and Arkle is, for instance – just as, outside the
+sortal category, the verb-phrase ‘runs swiftly’ stands for that which Arkle
+does. When I declare that to grasp this rule is to come to understand
+what horse is or run swiftly is, someone may insist that, in that case, the
+concept so spoken of, horse or run swiftly or whatever it may be, is a prop-
+erty. I shall not demur, but simply insist in my turn that the notion of a
+rule of correlation to which I appeal is pretheoretical. It is not indissol-
+ubly wedded to an extensional criterion of concept identity. The exten-
+sional criterion is the by-product, not here needed, of the
+mathematicians’ regimentation of an entirely intuitive notion.9
+   The concept horse is not then an abstraction such as horse-hood or
+horse-ness (whatever these are). It is something general or, better, univer-
+sal; and to that extent it will be philosophically contentious. But horse or
+mammal or carnivore surely are things that we need to speak of or quantify
+over, in metaphysics and in science.10 Objects fall under them and so on
+– and, under this aspect, objects can be seen as belonging to divers
+assemblages, variously denominated species, sorts, kinds.11
+   Seen in this way, as something with instances, the concept belongs on
+the level of reference (reference in general being something of which
+naming is one special case). But there is another use of the word
+‘concept’ which is equally common, if not more common, and this
+belongs on the level of sense. It is this rival use of the word ‘concept’ that
+we find in discussions that are influenced directly or indirectly by Kant.
+In those discussions, talk of things falling under a concept, or of con-
+cepts having extensions, may be less felicitous. Or rather, it will not come
+to the same thing. Perhaps everything will fall into place, however, and
+the connexion will be visible between the two uses of the word, if we try
+to reserve the word ‘concept’ for the Fregean use and we prefer the word
+‘conception’ to cover the Kantian use (seeing a Fregean sense as a very
+special case of a conception). The connexion that there is between the
+two may then be understood as follows:
+19
+   See B. A. W. Russell, Introduction to the Mathematical Philosophy (London, ), p. , and the
+   further references to Ramsey, Quine and Church given in Aaron Sloman’s neglected but valu-
+   able article ‘Functions and Rogators’ (). See especially pp. , , .
+10
+   For more on these, see my (), especially the references to Elliot Sober, ‘Evolutionary Theory
+   and the Ontological Status of Properties’, Philosophical Studies,  (), and my (). The
+   quantification in question is over both sortal and non-sortal properties.
+11
+   In ordinary English and even in ordinary philosophical English, some of these terms lead a
+   double life perhaps, as denoting assemblages or as denoting properties.
+                                              Preamble                                            
+Thinker T has an adequate conception of the concept horse (an adequate con-
+ception, as one says in English, of a horse) if and only if T can subsume things
+under horse, knows what it would take for a thing to count as a horse, and has
+some sufficiency of information about what horses are like, etc.
+In a word, the conception of horse is a conception of that which ‘horse’
+stands for, namely the concept of horse, or the concept horse. (Similarly,
+one may speak of an idea of horse and mean by this a conception of the
+concept horse.) On these terms, the right way to understand what a phi-
+losopher means when he speaks of grasp of the concept horse may be to
+understand him as speaking in a telescoped way of having an adequate
+conception of that which the predicate ‘horse’ stands for, namely horses.
+Such phraseology as ‘grasp of the concept horse’ was common in Sameness
+and Substance. Given the option of reading it as just indicated, there are
+places where I have seen no danger in the telescoped terminology’s
+remaining in place.
+   At this point, with terminological explanations more or less complete
+(and ready to be repeated later, as and when necessary), the reader who
+has not yet postponed reading the rest of this Preamble ought probably
+to advance to Chapter One.
+
+                                 .      
+Next, in anticipation of something laid out in Chapter Three, a word on
+the terminology of ‘real’ and ‘nominal’. The use of these terms turns on
+the distinction between a predicate whose elucidation makes inelimin-
+able allusion (or must begin by making ineliminable allusion) to members
+of its actual extension (real)12 and a predicate whose elucidation can dis-
+pense with such allusion (nominal). In the case of the nominal, the elu-
+cidation can often be made fully explicit or articulate. In the pure case
+of the nominal, it never needs to involve the deictic or demonstrative
+element that is so typical of the real definition. A typical nominal defi-
+nition would be Aristotle’s formula ‘x is a house if and only if x is a
+shelter against destruction by wind, rain and heat’. By contrast, a typical
+real definition – I call it a definition only to follow custom, this is not
+really definition – might run in the following way: ‘x is a water-vole just
+if x is relevantly similar to that [demonstrated] animal (letting the criter-
+ion of ‘relevantly’ depend at least in part on the nature, whatever it may
+12
+     Pending the completion at some imaginary moment of a science, cf. Chapter Three, section ,
+     point (v). Compare the way in which the elucidation of the sense of a proper name is designatum-
+     involving. Cf. here ‘On the Sense and Reference of a Proper Name’ (), by John McDowell,
+     to whom this Preamble is indebted also in other ways, and cf. my ().
+                                              Preamble
+prove to be, of the animal actually demonstrated)’.13 Not only does the
+real definition depend on real specimens. The question of its application
+and correctness or incorrectness also depends crucially on the facts
+about these specimens. All the same, real definitions lie within the prov-
+ince of semantics, as well as of empirical fact. No lifelike elucidation of
+ordinary discourse could be contrived without them.14 Let us forget once
+and for all the very idea of some knowledge of language or meaning that
+is not knowledge of the world itself. In this way, let us follow through the
+capital thing which Quine contended for in ‘Two Dogmas of
+Empiricism’.15
+
+      .     ⁄       A P R I O R I ⁄ A P O S T E R I O R I
+It is to be expected that there should be concepts any passable concep-
+tion of which requires experience. Such concepts are a posteriori or empir-
+ical. The semantics of a predicate that stands for such a concept (‘elm’,
+‘oak’, ‘rabbit’, ‘brazen’, ‘green’, for instance) will be rooted in the actual
+
+13
+   A definition can be real with respect to genus and nominal with respect to differentia. The philoso-
+   phers’ favourites like ‘sibling’, ‘oculist’ and ‘bachelor’ have definitions like this.
+14
+   There may be a measure of injustice to Locke (as well as to certain other philosophers) implicit
+   in this usage. By using terms that are commonly conceived of as Locke’s property and stressing
+   constantly the importance of the real, I may seem to be claiming that, in his adherence to what
+   he called the nominal, Locke failed to see things which some say he did see. Locke’s doctrine of
+   ektypes and archetypes, and the way he contrasts ideas of mixed modes with ideas of substance,
+   both suggest not only that he had a grasp of the question whether a given predicate has an exten-
+   sion-involving or not extension-involving sense, but also that he may have anticipated the ideas
+   of onus of match and direction of fit which, following Michael Woods (op. cit., in footnote ) and
+   David Shwayder (), p. , I have found so suggestive in J. L. Austin (‘How to Talk: Some
+   Simple Ways’, P.A.S. –) and have allowed to influence the exposition given here of certain
+   thoughts that now have currency in philosophy about substantives and kinds. Such ideas cer-
+   tainly go back to Leibniz. See Leibniz’s Meditations on Truth, Knowledge and Ideas, Gerhardt , espe-
+   cially p. . See also Discourse on Metaphysics (sections –) and New Essays (Akademie, pp.
+   –). Some see the germ of all this in Aristotle’s account at Posterior Analytics a21 of how we
+   may effect a preliminary determination of a phenomenon (e.g. a certain noise in the clouds) and
+   then, having picked it out, gradually refine our description of its nature and work back to the
+   rudiments of a real (or as Leibniz would say causal) definition. It may well be that some com-
+   parable credit is due to Locke, if he is correctly interpreted. Chapter Three credits Putnam and
+   Kripke with refurbishing such ideas for present purposes.
+15
+   See From a Logical Point of View, pp. –. This view of that which is enduringly important in
+   Quine’s argument accrues to me from remarks and commentaries that Hilary Putnam has
+   offered since the nineteen sixties. For the consistency of this thing with the modest essentialism
+   that will be advocated in this book (from Chapter Four onwards), see Quine’s later judgment in
+   Ways of Paradox ( edition): ‘There is also in science a different and wholly respectable vestige
+   of essentialism or of real definition . . . It consists in picking out those minimum distinctive traits
+   of a chemical, or of a species, or whatever, that link it most directly to the central laws of science.
+   Such definition . . . is of a piece with the chemical or biological theory itself [and] conforms
+   strikingly to the Aristotelian quest . . . This vestige of essentialism is of course a vestige to prize.’
+                                      Preamble                                      
+world. (See the previous paragraph.) Nothing, however, prevents the
+occurrence of such concepts in judgments that are themselves a priori.
+For instance, ‘all rabbits are rabbits’ requires (of anyone who under-
+stands it at all) a certain quantum of experience; but, once a thinker has
+got a posteriori that which is required to understand it, he needs nothing
+more to see that it is true. In this sense, the judgment, whose compre-
+hension is in part a posteriori, is itself a priori. Moreover, it is true no matter
+what. So it holds necessarily. Notoriously, though, not everything that
+involves such concepts yet holds necessarily can be a priori. Pursuing the
+deictic demonstration of gold and investigating the relevant similarities
+of good specimens of the stuff that is denominated ‘gold’, physical
+chemists have found ways to light upon the element with atomic number
+seventy-nine. Since that is the very stuff they were directed to by the
+deictic demonstration, it seems gold is necessarily the stuff with atomic
+number seventy-nine. (Use Russell’s theory of descriptions and
+Smullyan () to understand the grammar of this claim.) But the expe-
+rience that it takes to understand the semantics of ‘gold’ was insufficient
+to establish this identity. It holds necessarily but a posteriori. The same
+surely holds good for ‘Lucifer is Noctifer’. The a posteriori basis on which
+each of these names is understood does not suffice to establish that
+Lucifer is Noctifer. Only when that identity is established empirically can
+modal reasoning convert this discovery into the discovery that there is no
+circumstance in which Lucifer is not Noctifer. The identity holds neces-
+sarily – necessarily but a posteriori.
+   These matters are familiar, even if they still lie on the margin of con-
+troversy. But, beyond those treated by Saul Kripke, certain adjacent
+questions are less familiar. Leibniz writes in On Nature Itself (G , , fol-
+lowing §)
+Matter resists being moved by a certain natural inertia (as Kepler well calls it)
+so that . . . it requires for its motion an active force proportional to its size . . .
+Just as matter has a natural inertia which is opposed to motion, so in a body
+itself, and indeed in every substance, there is a natural constancy which is
+opposed to change.
+
+The point Leibniz draws to one’s attention here is a perfectly general
+condition on the determinable concept material body or substance.
+Relatively few ordinary thinkers are in a position to state this condition
+articulately or with precision. But a person who had absolutely no con-
+ception of this mark of the concept material body or substance, or who
+expected no resistance at all from things that answered to determinations
+                                         Preamble
+of it (such as apple, wagon or tree), would be hard to credit with any ade-
+quate conception of these concepts (either of the determinable material
+substance or of such determinations of it).16
+   What then is the status of the truth ‘a material substance has inertia
+and requires for its motion an active force proportional to its size’? It is
+a candidate to hold necessarily. Nevertheless, the truth is scarcely ana-
+lytic. It does not follow from logic and definitions. (What definitions are
+available here?) The truth is grounded in the empirical concepts material
+substance and inertia. It is grounded there in such a way as to leave no room
+(apparently) even for the possibility of a material substance without
+inertia. Moreover, for anyone who thinks through what is involved in a
+substance’s lacking inertia, the very idea of a material substance’s
+lacking inertia may seem to be excluded. Some philosophers may even
+react to this by calling the truth that material substances have inertia an
+a priori truth. If I do not call it that myself, it is because I strongly suspect
+that, in thinking through what would be involved in a substance’s lacking
+inertia and finding the way blocked to that state of affairs, one calls upon
+experience for a further contribution, over and above that which was
+required to grasp the empirical concepts that are involved.
+
+                                 .        
+In the ensuing chapters, there are notations and locutions that may give
+the impression that, despite protestations to the contrary, I am engaged
+in the business of constructing a formal system. But the only aim of these
+notations is to effect abbreviation where abbreviation is needed, or to
+make fixed and transparent whatever is taken in the context to be the
+logical and inferential character of certain antecedently familiar forms
+and locutions. In the case of notations such as ‘  ’, this disclaimer
+                                                     a b
+                                                   donkey
+is to be borne particularly in mind. This simply abbreviates ‘a is the same
+donkey as b’, where that is to be understood as having whatever meaning
+the language imparts to these English words. Again, at the outset of the
+inquiry in Chapter One, the question is put whether x can be the same
+f as y without being the same g as y. But there is no policy here to dimin-
+ish dependence on informal English. To make a question in English out
+of this schema, for instance, replace the letters ‘ x ’ and ‘ y ’ by names of
+things and the thing-kind letters ‘f ’ and ‘g’ by predicates denominating
+16
+     Cf. Christopher Peacocke, ‘Intuitive Mechanics, Psychological Reality and the Idea of a
+     Material Object’, in Spatial Representations, ed. Eilan, McCarty and Brewer (Oxford, ).
+                                            Preamble                                             
+kinds of thing, e.g. ‘donkey’, ‘horse’, ‘tree’, ‘mammal’, ‘animal’, ‘beast of
+burden’. In sum, the codifications proposed should be seen as an invita-
+tion to agree in finding a certain meaning in natural language expres-
+sions of which the notations are the counterpart, and then to treat these
+notations as specifying that meaning canonically.
+   Notation such as this, latching as it does onto one particular under-
+standing of the reusable words that make up some phrase or latching
+onto one particular reading of the construction in which the words are
+placed, represents, if you will, a first step in the direction of a system-
+atic account of the logical grammar of English. But it is no more than
+a first step. Much has been learned from experiments with an approach
+that is opposite to mine, i.e. with a would-be exact or calculus-building
+approach. This has advanced some matters by raising questions not
+previously encountered and identifying all sorts of possible answers to
+these questions. Yet all too often this top down approach has had the
+effect of precipitating its proponents rather suddenly into issues for
+which there had been no discursive or presystematic preparation. In
+this book, by contrast, the approach is that of the underlabourer –
+albeit an underlabourer not denied the distant prospect of discerning a
+simple Leibnizian order implicit in the syntax and semantics of
+English.
+
+  .                ‘        
+                          ’
+In the explanation described as a first step, I said how ‘a is the same f as
+b’ may be read as a sort of English. This explanation was general. But
+this particular form is, for purposes of this book, special and specially
+important. What is the relation between the mode of combination by
+which ‘donkey’ occurs in ‘a is the same donkey as b’ and that by which
+‘donkey’ occurs in ‘a is a donkey’? For the sake of completeness, we need
+to address this question. Logically speaking, the matter belongs here;
+even though, as so often with the questions treated in this Preamble, one
+who does not care yet about the answer may wish to skip or go on now
+to Chapter One.
+   According to Quine, ‘a is the same donkey as b’ is simply a contrac-
+tion or condensation of the logical form ‘a is a donkey and a is b’.17 Thus
+‘– (is) (a) donkey’ should be read as a predicate distinguishable within the
+
+     17
+          See Quine review of P. T. Geach, Reference and Generality (); also Perry ().
+                                           Preamble
+general class of predications only by the non-syntactic marks insisted
+upon at § above. (These marks are further discussed in Chapters One,
+Two and Three.) A variant that I think Quine might tolerate, and
+(having scrutinized all extant alternatives) I should myself prefer it, is to
+see ‘a is the same donkey as b’ as saying that a stands to b in the relation
+of identity as restricted to (things that are) donkeys. Hence our notation in
+                a b
+this book:              . In Russell and Whitehead’s official Principia
+               donkey
+Mathematica notation (see Volume , *), the approved rendering would
+have been (a) [ donkey (b).
+    The advantage of proposals such as these is that they simultaneously
+show forth the distinctive contribution of ‘donkey’ to the linguistic forms
+that the word ‘donkey’ helps to make up and show it as made by means
+of a single mode of combination. Suppose that for one moment we rep-
+resent this mode of contribution by the invented verb ‘to donkey’. Then
+‘a is a donkey’ becomes ‘a donkeys’ and ‘a is the same donkey as b’
+becomes ‘a donkeys and ab’ or else (essentially similarly, but in a way
+that brings ‘’ and ‘donkey’ better into construction together): a has to
+b the relation of identity as restricted to things that donkey, or a has to b
+the relation same [ donkey.
+    So far so good. Now, helping ourselves to similar verbs for other sub-
+stantives, we can quickly make sense of ‘there is something that a is’, ‘a
+is the same what as b?’, ‘a is the same something as b’, and so on. For pur-
+poses of such contexts, the letters ‘f ’ and ‘g’, which have served so far as
+schematic, will need to take on the role of true variables,18 ranging over
+the general things which we claimed to discover that thing-kind words
+stand for. Examples would be person, plant, tree, house, horse, donkey,
+etc.19 On these terms, if we continue with our temporary representation
+of nouns by verbs, we can say that ‘a is something’ is true if and only if
+a something-s; that a something-s if and only if for some f (one of these
+general items) a f-s, or (f)(fa). Similarly, ‘a is the same something as b’ is
+
+18
+   If we were constructing a formal system, it would be a heinous offence to let the same letters f
+   and g do duty sometimes as schematic letters, understood by reference to the role of holding a
+   place for their designated linguistic replacements, and at other times as genuine variables, under-
+   stood by reference to whatever items ‘all’ and ‘some’ range over. But, as I have said, our nota-
+   tion is not introduced for the purpose of constructing a formal system. It is only abbreviatory
+   and disambiguative.
+19
+   This is second level quantification but of a very limited kind. There is no question yet, of quan-
+   tifying over everything true of x. We quantify over the sorts of thing which this or that given
+   object is, in the Aristotelian sense of this phrase. For this, see again the epigraphs for Chapter
+   One.
+                                                Preamble                                                
+true if and only if, for some f, a f-s and a b or, better, a has to b the
+relation of identity as restricted to things that f; or, more formally, (f )
+
+ 
+  ab
+    f
+         . Note that in the quasi-formalized version, concatenation is
+taken to do the work of the verb ending. When we revert to the ordinary
+English form a is an f and look back at the quasi-formalized version, this
+concatenation is seen as having taken over the work of the indefinite
+article too, bracketing for us the nice question of how much or little sig-
+nificance to attach to the English form ‘a is a(n) . . .’.
+    In sum, following the variant that I propose on Quine’s proposal, we
+then have the equivalence:
+                            a b ↔ (f) 
+                                           a b
+                                              f            
+Let it be as clear as anything can that, in embracing and exploiting this
+equivalence, one is not agreeing with Geach’s claim that always ‘x is
+identical with y’ is an abbreviation for ‘x is the same f as y’ where f ‘rep-
+resents some count noun supplied from the context of utterance’ (‘or else
+it is just a half-formed thought’).20 One is disagreeing deliberately and
+actively with that. If vindication were really needed of the bare ‘a b’,
+then the right-hand side of our equivalence would vindicate it. It would
+vindicate it as definite, determinate and well formed. It is determinate
+in the same way as ‘I talked with someone yesterday at noon’ is determi-
+nate for a truth-value.21
+    In Sameness and Substance the question of how  and ‘a is an f ’ are
+                                                     a b
+                                                      f
+related was left undecided. In so far as it can now be treated as decided,
+there should be no strict need to argue separately or twice over, as in
+                                                                
+Chapter One, about the formal properties of ‘’ and ‘ f ’. There is
+something to be said, though, for trying to satisfy the reader separately
+under each head. Again, in Chapter Two, where the doctrine of Sortal
+20
+     See Geach (), p. . See also Geach (), p. .
+21
+     It follows that there are two reasons why there has never been any temptation, either in Sameness
+     and Substance () or in Wiggins (), in each of which ‘a b’ was treated as guaranteed the
+
+                                
+     same truth-value as ‘(f) a  b ’, to follow Geach in claiming that ‘a b’ is in any way defective
+                                  f
+
+                                                                                                   
+     or incomplete. First, no variable is free on the right side. Secondly, being Leibnizian ‘(f ) a  b ’
+                                                                                                      f
+     and ‘a b’ are both determinate in the further sense of excluding the possibility (see Chapter
+
+                     
+     One) that (g) ga & not a  b .
+                                  g   
+                                       Preamble
+Dependency is formulated, it may be wondered what strict need there
+now is for the third clause of Principle D to invoke f-coincidence as such.
+In that third clause, is more required than that there should be no differ-
+ence at all between the particular f that a is and the particular f that b
+is? In the absence, however, of complete reconstructions of the lifespans
+of a and of b (and that is the normal case), some idea of f-coincidence
+does seem integral to the ordinary working or application of the third
+clause of D. In Sameness and Substance Renewed, the third clause remains
+as it was. See Chapter Two, §.
+
+                        .             
+Do the determinations of the foregoing section mean that there is a
+danger that we may be forced to concur in a claim that adherents of
+Quine are apt to repeat sometimes, as if in evidence against positions
+like D? Does it mean that ‘xy’ is prior somehow to the practices,
+directly and indirectly invoked by D, of the individuation of things and
+the assignment of things to thing-kinds?
+When we do propound identity conditions for bodies, or persons, or classes, we
+are using the prior concept of identity in the special task of clarifying the term
+‘body’ or ‘person’ or ‘class’; for an essential part of the clarification of a term is
+clarification of the standard by which we individuate its denotata.22
+Well, no. There is no need at all to concur in the asymmetry Quine has
+seemed to suggest. For the truth is that there can be no question in this
+province, where so much is primitive, of anything’s being absolutely prior
+– either logically or philosophically or psychogenetically. To be sure,
+‘Juno donkeys’ or ‘Juno is a donkey’ will seem (so soon as we look at this
+predication as it appears in English) to mean or imply that Juno is the
+same as one of the donkeys or is identical with one of the donkeys. But,
+as we shall see in Chapter Two, there is also an opposite dependence.
+The practical grasp of identity itself presupposes the capacity to
+subsume things under kinds, to refer to them and to trace them (or keep
+track of them). But in order to trace things, one has to trace them in the
+way that is appropriate to this or that kind, and then, by dint of one’s
+understanding of congruence as flowing from identity or coincidence, to
+assign to an object picked out at one time and again at another time
+everything that is true of either. But if that is right, then not only does
+sortal predication presuppose identity. Identity presupposes sortal pred-
+                            22
+                                 W. V. Quine (). My italics.
+                                                  Preamble                                                  
+ication.23 These things belong together – or the grasp of each requires
+the grasp of the other. Identity is a notion coeval with the determinable
+entity of some determinate kind, which brings with it the possibility of the par-
+ticular determinations that figure in particular sortal predications.
+   Without thinking very hard about what one is hoping for, one forms
+too easily the aspiration to discover a starting point from which one
+could introduce, stage by stage, as if definitionally, the apparatus of
+naming, substantial predication, identification and differentiation, then
+other kinds of predication, then quantification over individuals, then
+quantification over sorts, then abstraction (the prototype of lambda
+abstraction), then quantification over properties . . . If the process to be
+reconstructed were intended to be definitional or quasi-definitional,
+however, then all the hazards of piecemeal definition would have to be
+guarded against (the hazard of the left hand’s undoing or altering what,
+unknown to the left hand, the right has already done). The difficulties
+would quickly appear of keeping careful account of what already pre-
+supposes what. Given the absolutely foundational nature of that with
+which we are concerned, however, and the primitiveness of the predica-
+tive and other devices that are under consideration, I should claim that
+it is a false picture that bewitches one who demands such a quasi-
+definitional sequence. What we have here to confront is a whole skein of
+connected practices. These practices are intertwined with one another.
+Their relations can indeed be set out in all sorts of true equivalences. But
+it does not follow they can be set out in a developing sequence of the kind
+we were meant to be looking for. It is much more likely that the basic
+
+23
+     Geach seeks to penetrate to a deeper level of analysis of sortal predication, by isolating an under-
+     lying mode of combination effected by the attribution of equivalence relations (which are not
+     necessarily, according to Geach, congruence relations) such as x is the same donkey as y, x is the same
+     apple as y, etc. This relation can then be derelativized as in ‘x is the same donkey as x’, ‘x is the same
+     apple as x’, etc. Finally, he offers these latter forms as definitions of ‘x is a donkey’, ‘x is an apple’.
+        Geach’s proposal can be separated from Geach’s case against absolute identity and his denial
+     of congruence.
+        If the proposal were offered on the level of psychogenetic theory, then it would be implau-
+     sible. For it is hard to avoid thinking that calling x the same horse as y presupposes picking x out
+     and picking it out as something (as a horse?) simpliciter. If there were nothing more to horse-
+     identity than there was to being a horse, whence could come the relationality that Geach dere-
+     lativizes?
+        If Geach’s proposal is simply grammatical or definitional in its intent, well, that is more plau-
+     sible. But it may be less clear than it looks. For as soon as we try to bring Geach’s ‘same donkey
+     as’ forms into the requisite relation with ‘the same what?’ and ‘the same something as’, which
+     are indispensable to the whole rhetoric of sortalism, we need to discern structure within ‘is the
+     same donkey as’. This structure cannot, however, be, for Geach, that which is suggested by the
+     English predicable ‘is the same donkey as’. For that apparently reintroduces both absolute iden-
+     tity and simple ‘donkey’ predication.
+                               Preamble
+forms and devices have to be learned together. Just as the keystone of an
+arch and the adjoining bricks can be placed together, but only if
+somehow they are placed there simultaneously or they are put into posi-
+tion with the help of a temporary external support, so each primitive
+device is learned simultaneously and in reciprocity with each of the others.
+   In the language learning case, there is the possibility of partial and
+interim grasp of a device. But the full grasp of any one device will
+require the full grasp of many or most of the others. If semantic devices
+are well made, then, once they are fully mastered, they will operate
+smoothly and in concert together. Their mutual relations will indeed
+allow of their being rehearsed by logical equivalences. If a sceptical
+question arises, however, about whether in their supposed reciprocity the
+concepts corresponding to the expressions we are concerned with are
+well made, the only answer that ought to be promised is that, several
+chapters into the book, there will be indirect assurance that the locutions
+‘same’, ‘horse’, ‘same horse’ collaborate securely in the modes of com-
+bination of which we avail ourselves in identifying things, placing them
+in kinds, distinguishing them from other things and attributing other
+properties to them. For the interim, the most that should be offered in
+answer to the question broached in paragraph one, § above, is a non-
+definitional and non-psychogenetic account of a single mode of combi-
+nation linking ‘is an f ’ and ‘is the same f ’.
+

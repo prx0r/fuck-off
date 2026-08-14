@@ -1,0 +1,217 @@
+VloL. 11, 1925               PHYSICS: G. N. LEWIS                       179
+                   A NEW PRINCIPLE OF EQ UILIBRI UMI
+                          By GILBERT N. LEwIs
+                 DEPARTMENT OF CHEMISTRY, UNIVERSITY OF CALIFORNIA
+                           Communicated January 21, 1925
+   The Non-Existence of Cyclic Equilibrium.-At a given temperature a
+system is said to be in a state of physical and chemical equilibrium if none
+of the describable properties of the system change, on the average, with
+the time. Any given substance may be regarded as made up of groups,
+each group being defined by certain macroscopic or microscopic properties.
+Thus a heterogeneous substance such as a mixture of ice and water nat-
+urally divides itself into the two groups ice and water, but each of these
+may be divided into sub-groups. Thus the liquid water may contain
+several molecular species, such as H20, (H120)3, Hi., H30+, OH- and each
+of these species may be taken as a group. The molecules of each such
+species may be further divided. One group may consist of all the mole-
+cules of the species H20 located within a certain cubic centimeter, and
+having such motion of translation that the component in an X direction
+lies between certain specified limits, that in the Y direction between other
+specified limits, and so on. (By taking these limits as close together as
+we please, we may diminish the average content of any one group without
+limit.) Every group so defined would be still further sub-divided if we
+should specify the positions and the motions of the several particles of
+which the molecule itself is composed.
+   When once we have specified the characteristics of a group, no matter
+how closely it may be delimited, the average number of molecules which
+it contains must remain constant when equilibrium is attained. In other
+words, the average number of molecules which in unit time cease to belong
+to a given group must be equal to the average number of new molecules
+entering that group.
+   In some cases thermodynamics gives more information than this con-
+cerning equilibrium. Let us consider a system of ice, water and water
+vapor, and indicate by swi, sjw9 svw, swv, svi, siv the average number of
+molecules changing per second from water to ice, from ice to water, from
+vapor to water, and so on. The definition of equilibrium which we have
+stated requires only that the average amount of each group remain con-
+stant. The condition that the amount of ice be constant is
+                               siv + siw = svi + swi
+It does not prohibit a condition of cyclic equilibrium such that
+                          SSW > swi; swv > svw; svs > siv
+.180                      PHYSICS: G. N. LEWIS                  PROC. N. A. S.
+
+Nevertheless we know that such a condition is impossible, for the ice may
+be removed from the system in such a manner as neither to change the
+relative rates of vaporization of the liquid and of liquefaction of the vapor,
+nor to disturb the equilibrium between these two groups. But after the
+ice is removed we must have s,,, equal to s,w, and therefore this must
+have been the condition before the removal of the ice.
+   Let us suppose that an equilibrium exists between two chemical sub-
+stances A = B, and that there are two paths by which A can be con-
+verted into B and two corresponding reverse paths. The four rates of
+reaction may be expressed by SAB, SBA, S AB and S'BA. Often we know
+that we cannot have a cyclic equilibrium such that
+                         SAB > SBA;    S'AB < S'BA,
+but rather must write
+                         SAB = SBA; S AB = S BA-
+
+For if this were not the case we could add a minute amount of some catalyst
+which would increase the rate of the reaction and its inverse along one of
+-the paths, without affecting the two rates in the other path. This would
+disturb the existing equilibrium, contrary to the results of observation
+and of thermodynamics.
+   In the absence of catalytic phenomena we are still led to similar con-
+clusions. Let us consider Wegscheider's paradox.' He writes, for exam-
+ple, the simultaneous reactions,
+                  A=B; B + C=A +D; D=C,
+and points out that if we impose the sole condition that the amount of
+each substance is constant, the ordinary laWs of chemical kinetics lead to
+a different equation for the equilibrium concentrations than the one ob-
+tained from thermo-dynamics; it reduces to the latter only when certain
+further conditions are imposed. The assumption that the rate in each
+individual reaction is equal to the inverse rate removes the paradox. This
+is not the only way of avoiding the paradox in this particular example,
+but if we were to consider a great many different types of simultaneous
+reactions we should probably find that the only general way of avoiding
+the paradox, that is applicable to all cases, would be to assume that in
+every case of equilibrium, involving a number of simultaneous reactions,
+a state of equilibrium also exists for each separate reaction and its inverse.
+   In the more purely physical types of equilibrium, such as are dealt with
+in statistical mechanics, we know in certain simple cases not only that the
+number of molecules in a certain limited group remains constant, but that,
+for example, the number of molecules in a certain group L colliding. with
+those in a group M to give mnolecules in groups L' and M' is equal to the
+VOL. 11, 1925            PHYSICS: G. N. LEWIS1                           181
+number of molecules in groups L' and M' colliding to give molecules
+in groups L and M.2 Here again we are tempted to generalize and assume
+that the same principle holds for all cases.
+   Finally let us turn to the phenomenon of absorption and emission of
+light. If it be assumed that the emission of a certain spectral line indicates
+that some molecules have undergone a process by which they have passed
+from one group to another, and if we assume that when the same line is
+absorbed the molecules undergo the reverse process and are transferred
+from the second group to the first, it seems inevitable that in a state of
+thermal equilibrium the two processes must occur at the same average
+rate. Otherwise it would be hard to see how such a substance could be
+introduced into an isothermal Hohlraum without permanently changing
+the character of the radiation therein.
+   These diverse examples suggest very strongly that cyclic equilibrium
+does not exist, and we have seen that this supposition could be proved
+correct if an independent catalyst could be found for each individual re-
+action or process. There are, however, numerous cases in which it would
+be difficult, if not impossible, to find such catalysts. In applying thermo-
+dynamics to solutions, some of the more important results have been ob-
+tained by the use of a semi-permeable membrane. Now there are solutions
+in which it would be difficult, if not impossible, to find such a membrane,
+but we do not hesitate to apply to them the same laws which can be demon-
+strated to be true for cases where semi-permeable membranes can be em-
+ployed. So in our present case we should hesitate to believe that there are
+different laws for reactions which are subject to catalysis and for those
+which are not.
+   The Law of Entire Equilibrium.-Thus I am led to propose a law which
+in its general form is not deducible from thermodynamics, but proves to
+be compatible with the laws of thermodynamics in all cases where a com-
+parison is possible. It may be called the law of entire equilibrium, and
+may be stated as follows. Corresponding to every individual process there
+is a reverse process, and in a state of equilibrium the average rate of every
+process is equal to the average rate of its reverse process. The rate at which
+one group or set of groups L goes over into another group or set of groups
+L' is the same as the rate at which the groups L' go over into the groups
+L. Moreover if there are various paths by which the first process occurs,
+there is an equal number of paths by which the second process occurs, and
+the rate is the same in both directions along every path. This will be true
+no matter how detailed are the specifications which define the several
+ groups and the several paths..
+    In cases to which pure quantum theory may be applied there is a number
+ of discrete paths by which molecules of one group may change to another.
+ Thus in Bohr's theory of the hydrogen atom, the atom may pass from a
+ 1;82                     PHYSICS: G. N. LEWIS                   Pitoc. N. A. S.
+ higher to a. lower quantum state, either immediately or through a finite
+ number of -intervening states. The meaning of the principle is here ob-
+ vious; in a condition of thermal equilibrium the rate of change for each step
+ is equal to the rate for the reverse step.
+    In -other cases we must assume, not a discrete number, but an infinite
+ continuum of paths. Then we must employ the term "path" to mean
+ some. specified zone of paths more or less arbitrarily demarked from the
+continuum. Yet however narrow or however arbitrary this path, or zone
+of paths, is, our principle asserts that the rate along this path is the same
+in both directions. For example, in discussing statistical mechanics it is
+often convenient to plot the position of each particle in a "phase space"
+ of as many.dimensions as there are numbers required to specify the position
+ and the momentum of one particle. As a particle changes its position and
+ momentum, it. describes a curve in this space, and we may segregate for dis-
+ cussion all of these curves which lie within a certain "tube." L. Let us sup-
+pose that two molecules collide in such manner that the molecule A goes from
+the group L to the group L', and the molecule B from the group M to the
+group M', and further that each molecule traces a curve lying within a speci-
+fied tube, one from L to L' and one from M to M'. Then our law states that
+in equilibrium the average rate (or chance) of a molecule A going, within the
+prescribed -tube, from L to L'. while a molecule B goes through its prescribed
+tube from M to M' is the same as the average rate (or chance) of mole-
+cules A and- B going through the same tubes from L' to L and from M' to M.
+    Perhaps the significance of this law may be made a little more evident
+by means of a crude analogy. Suppose that during a period in which there
+are no births or deaths the population of the several cities of the United
+States remains constant, the number leaving each city.being balanced by
+the number entering it. This stationary condition would not correspond
+to our case of thermal equilibrium., We should require further, to complete
+the analogy, that as many people go from New York to Philadelphia as
+from Philadelphia to New York. If there were three railway lines between
+these two cities we should require that the number of passengers going by
+each line be equal in both directions. If some of the-travel were not by
+railway or roads but across country, then, if we should draw on the map
+two non-intersecting lines from New York to Philadelphia, we should re-
+quire that the number of persons passing through any. such zone in one
+direction be equal to the number, passing through the same zone in the
+opposite direction. By such illustrations we. may appreciate. how ex-
+tremely far-reaching are the consequences -of the proposed law.
+   The law of entire equilibrium might haye. been. called the law of re-
+versibility to the last detail. If we should consider any one of the.ele-
+-me-ntary processes which. are occurring. in a system at equilibrium,. and
+could, let us say, obtain a moving-pigture film.for such a process, then this
+VOL. 11, 1925           GENETICS: J. C. WALKER                          103
+
+film reeled backward would present an equally accurate picture of a re-
+verse process which is also occurring in the system and with equal fre-
+quency. Therefore in any system at equilibrium, time must lose the uni-
+directional character which plays so important a part in the development
+of the time concept. In a state of equilibrium there is no essential dif-
+ference between backward and forward direction in time, or, in other
+words, there is complete symmetry with respect to past and future.
+   I believe that some of the ideas contained in this paper have been sug-
+gested by the work of Einstein, but he has not proposed this law of equil-
+ibrium. Indeed one of the first applications which I shall make, in a
+subsequent paper, will be to the interaction between matter and light,
+where I shall attempt to demonstrate the invalidity of Einstein's derivation
+of Planck's radiation formula. Another application will shortly appear
+in a paper by Dr. D. F. Smith and myself on the mechanism of chemical
+reactions.
+     1 Wegscheider, Z. physik. Chem., 39, 273 (1901).
+     2 See Lewis and Adams, Physic. Rev. 5, 10 (1915).
+
+
+
+
+       STUDIES ON DISEASE RESISTANCE IN THE ONION
+                             BY J. C. WALKZR
+UNIVERSITY OF WISCONSIN AND OFFICE OF COTTON, TRUCK AND FORAGE CROP DISEASE
+INVESTIGATIONs, BUREAU OF PLANT INDUSTRY, UNITED STATES DEPARTMENT OF
+                                AGRICULTURE
+                  Read before the Academy, April 30, 1924
+   The nature of resistance to disease in plants is a subject which has been
+of increasing interest to botanists in general and to plant pathologists in
+particular for several years past.' Earlier there was a tendency to assume
+that in various instances of disease resistance the causes were sufficientiy
+similar to justify some single type or comparatively few types of explana-
+tion, as appears to be the case in certain cases of immunity in animals.
+Investigations indicate, however, that the causes of resistance in plants
+are widely varied and relatively complex, and that sound progress is de-
+pendent, for the present at least, upon critical study of specific examples
+wherever practicable. Some years ago it came to the writer's attention
+that the bulbs of the common onion show a wide range in susceptibility
+or resistance to certain fungous parasites and that this apparently is cor-
+related with the occurrence of scale pigments. The studies summarized
+here are therefore presented as a contribution to the general subject of
+disease resistance in plants.
+   Horticultural varieties of the common onion (Allium cepa) are grouped
+

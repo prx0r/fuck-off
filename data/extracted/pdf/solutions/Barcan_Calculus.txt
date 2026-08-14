@@ -1,0 +1,926 @@
+A Functional Calculus of First Order Based on Strict Implication
+Author(s): Ruth C. Barcan
+Source: The Journal of Symbolic Logic, Vol. 11, No. 1 (Mar., 1946), pp. 1-16
+Published by: Association for Symbolic Logic
+Stable URL: http://www.jstor.org/stable/2269159
+Accessed: 29-04-2016 01:52 UTC
+
+
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+http://about.jstor.org/terms
+
+
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted
+digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about
+JSTOR, please contact support@jstor.org.
+
+
+
+
+                     Association for Symbolic Logic, Cambridge University Press are collaborating with JSTOR to
+                     digitize, preserve and extend access to The Journal of Symbolic Logic
+
+
+
+
+                                       This content downloaded from 128.103.149.52 on Fri, 29 Apr 2016 01:52:29 UTC
+                                                        All use subject to http://about.jstor.org/terms
+THE JOURNAL OF SYMBOLIC LOGIC
+Volume 11, Number 1, March 1946
+
+
+
+
+           A FUNCTIONAL CALCULUS OF FIRST ORDER BASED ON
+                                   STRICT IMPLICATION
+
+                                        RUTH C. BARCAN
+
+
+   The following system' is an extension of the Lewis calculus S2 to include quan-
+tification.2
+
+   Primitive symbols.
+   ( ) {parentheses}.
+          {negation}.
+   K { modal operator}.
+    {conjunction}.
+   (3 ) {existential quantifier, the blank space replaced by an appropriate vari-
+able }.
+   Propositional variables p, q, r, s, t, pi, ql, ri sl, * * *,Pn X qn X rn X Sn ) tnX
+
+   Functional variables of degree 1, 2, * , n, * monadic functional variables
+F,, G,, Hi , Fl, * ; dyadic functional variables F2 , G2, H2 , F2X ... ; n-adic
+functional variables FnX GnX H nX F. . .
+
+   Formula is defined as any finite sequence of primitive symbols.
+
+   Syntactic notation. Greek letters will be used as variables in the syntax
+language. Upper case Greek letters A, B, r, E, H, Al, B,, r,, E,, Hi, ***,
+AnX BnX rnIX En X Hn represent formulas. Lower case Greek letters a, j, y,
+8, a, , 'y1 Xl 61 X... * an * XA n X Yn , 3,n represent individual variables unless
+otherwise specified.
+
+  Well-formed formula. Write "wff" for "well-formed formula" and "wf" for
+"well-formed." A wif is defined recursively as follows;
+   A propositional variable is wf.
+   (al X a2 , * * * X an) is wf where is an n-adic functional variable and ai, a2,
+ *-- X an are individual variables.
+   If A and B are wfT's then PA, <>A, (A * B), (3a)A are wif's.
+   The only wff's are those which follow from this definition.
+
+   Capital Greek letters will hereafter be restricted to the representation of
+WiT's.
+
+   Bound and free individual variables. An occurrence of an individual variable
+a in a wff A is a bound occurrence if it is in a wf part of A of the form (3a)B.
+Otherwise it is a free occurrence.
+
+
+   Received September 28, 1945.
+   1 This paper is an extract from a dissertation being written in partial fulfillment of the
+requirements for the Ph.D. degree in Philosophy at Yale University.
+   The method for constructing this system was suggested in part by Alonzo Church's Intro-
+duction to mathematical logic, Princeton University Press, 1944.
+   2 Lewis and Langford, Symbolic logic, The Century Co., 1932.
+                                                 1
+
+
+            This content downloaded from 128.103.149.52 on Fri, 29 Apr 2016 01:52:29 UTC
+                             All use subject to http://about.jstor.org/terms
+ 2     RUTH               C.      BARCAN
+
+
+
+   Definition schemata. =df between two expressions indicates that the for-
+mula on the left abbreviates the formula on the right.
+            (a) A=df -(3a)-A.
+            (A v B) =df ~(rA ~B).
+            (A - B) =df rO (A rB).
+            (A B) =df ((A -3 B) (B -3 A)).
+            (A D B) =df -(A--B).
+            (A _ B) =df ((A D B) (B D A)).
+   The outermost parentheses will tbe omitted. The dot for conjunction will
+also be omitted wherever unambiguous. Rules will be distinguished by Roman
+numerals.
+
+   Axiom schemata.
+ 1. (AB) - (BA).
+ 2. (AB) - A.
+3. A -3 (AA).
+4. (AB) r -3 A(Br).
+5. ((A -3 B)(B 3 r)) -3 (A -3 r).
+6. (A(A -3 B)) -3 B.
+7. K (AB) -3 K A.
+8. (a) A -3 B, where a and fi are individual variables, no free occurrence
+            of a in A is in a wf'd part of A of the form (3) r and B results from the
+            substitution of A for all free occurrences of a in A.
+9. (a)(A D B) -3 ((a)A D (a)B).
+10. A -3 (a))A, where a is not free in A.
+11. K (3a) A -3 (3a) < A.
+   Rules of inference.
+I. From A and A -3 B infer B (modus ponens, abbreviate: mod pon).
+II. From A and B infer AB (adjunction, abbreviate: adj).
+III. If A, B, and r are such that E results from r by the substitution of B
+          for one or more occurrences of A in r, and if A B, then infer r from
+          E and E from r (substitution, abbreviate: subst).
+IV. If B is the result of substituting the individual variable : for all free
+            occurrences of a in A then infer (j3)B from A. (generalization, abbre-
+            viate: gen)
+
+   Proof of a wff A is a finite list of wif's Al, A2, **, An such that each Ai is
+an axiom or derivable from the preceding formulas of the list by applying any
+of the rules of inference. A is provable if it is the An of such a list.
+
+   "A is provable" will be abbreviated: HA.
+
+   Correspondence with Lewis system S2. Axiom schemata 1-7 correspond to
+B1-B4, B6-B8.3 B5 is derivable as shown by McKinsey.4 Rules I, II, and
+
+
+   8 See Lewis and Langford, p. 493.
+   4 J. C. C. McKinsey, Bulletin of the American Mathematical Society, vol. 40 (1934), pp.
+425-427.
+
+
+
+
+           This content downloaded from 128.103.149.52 on Fri, 29 Apr 2016 01:52:29 UTC
+                            All use subject to http://about.jstor.org/terms
+             FUNCTIONAL CALCULUS BASED ON STRICT IMPLICATION 3
+
+
+III correspond to Lewis's rules of inference, adjunction and substitution (a).'
+We can dispense with substitution (b) since we have an infinite list of axioms.
+  The following notational changes will be assumed as made when referring to
+the theorems of Symbolic logic: Lewis's propositional variables replaced by
+capital Greek letters, and - replaced by _ or =df according as an equivalence
+or a defining relation is indicated, and dots for brackets and brackets replaced
+by parentheses.
+  When reference is made in the proofs to a theorem in Symbolic logic the num-
+ber will be italicized. Otherwise the numbers refer to the list of axioms and
+theorems developed here.
+
+  Some rules useful for facilitating proofs.
+
+V. If A -3 B thenH A- (AB).
+               H (A -3 B) (A -3 (AB)) 16.33
+               PA -3 B hyp
+               j A -3 (AB) subst
+               j (AB) -3 A 2
+               H (A - (AB))((AB) -3 A) adj
+               F A (AB) def
+
+VI. IfH A - B then OA -3 OB.
+               A -3 B hyp
+               A -- (AB) V
+               H O(AB) - OB 19.13
+               H OA -3 OB subst
+
+  Assume that each step in the following proofs is preceded by P.
+
+VII. If -A - B then k O- -A 'OB.
+               A 3B hyp
+                A (AB) V
+               0O-I(AB) -3 -O B 19.24
+               ~'O?>'A -3 '-,KO- B subst
+VIII. If A1 -3 A2 , k A2 3 A3, * Anl -3 Anthen[-A1 -3 An .
+               (A1 -3 A2)(A2 3 A3) hyp, adj
+               ((A1 -3 A2)(A2 - A3)) - (A1 -3 A3) 5
+               A1 -3 A3 mod pon
+               (A1 -3 A3)(A3 -3 A4) hyp, adj
+               ((A1 -3 A3)(A3 - A4)) ) (A1 -3 A4) 5
+               A1 A A4 mod pon
+
+               A1 - An mod pon
+
+
+  5 See Lewis and Langford, p. 125.
+
+
+
+
+         This content downloaded from 128.103.149.52 on Fri, 29 Apr 2016 01:52:29 UTC
+                          All use subject to http://about.jstor.org/terms
+ 4   RUTH              C.      BARCAN
+
+
+IX. If FA -3 BandF r --3 Ethen(Ar) -3 (BE).
+           ((A -3 B)(r -3 E)) -3 ((Ar) -3 (BE)) 19.68
+              (A -3 B) (r -3 E) hyp, adj
+              (Ar) -3 (BE) mod pon
+
+
+X. If F A -3 B then F B -3 A.
+              A -3 B hyp
+              (A -3 B) -3Q (B -3 A) 12.43
+              -, B --3 e A mod pon
+
+
+XI. If F A--=B then F -A-==-B.
+              ((A -3 B)(B -3 A)) -3 ((A -3 B)(B -3 A)) 12.1
+              ((A -3 B)(B -3 A)) -3 ((- B -3 A)Q(-A --3 - B)) 12.44, subst
+              (A -3 B)(B -3 A) hyp, def
+              (B --3 - A)Q(-A --3 - B) mod pon
+                 A = --' B 12.15, subst, def
+
+
+XII. If F A -3 B and F A -3 then F A -3 (Br).
+              ((A -3 B)(A -3 r)) -3 (A -3 (Br)) 19.61
+              (A -3 B)(A -3 r) hyp, adj
+              (A -3 (Br)) mod pon
+
+13. F (3a)A (a)A.
+              r~arll-.1(3a)A _ -(ax)A 12.1, def, 12.3, subst, XI
+              (3a)A _ (a)A 12.3, subst
+
+14. 13 (3a)SA (a)A.
+         (3a)>A @ (a)--A 13
+         (3a),A - , (a) A 12.3, subst
+
+15. F - (3a) A -(a) -A.
+              (3a)A _-'(a)>A 13
+              -(3a)A -- r(a>.A XI
+             /,-(3at)A -- (a) -A 12.3, subst
+
+16. F B -3 (3a)A, where B, A, and a are as in 8.
+             (a>).A -3 -B 8
+             --B -3 -(a), X
+             B -3 - (-a) A 12.3, subst
+             B -3 (3 a) A 13, subst
+
+17. F (a)A -3 (3a)A.
+           (a)A -3 A 8
+             A -3 (30)A 16
+             (a) A -3 (3a)A l;TTT
+
+
+
+       This content downloaded from 128.103.149.52 on Fri, 29 Apr 2016 01:52:29 UTC
+                        All use subject to http://about.jstor.org/terms
+            FUNCTIONAL CALCULUS BASED ON STRICT IMPLICATION 5
+
+
+
+18. (a),---, A --3 O(a)K(A.
+              0(3a)>A - (3za) O A 11
+              ,(3a)o0,A -3 -0(3a)-A X
+              (a) - -QA -3 0(3a)-A 15, subst
+              (a)-K -A -3 0 (a) A 13, subst
+              (a>)Ko>A -3 r0K(a)A 12.3, subst
+19. F (a)(A -3 B) -3 ((a)A -3 (a)B).
+              (a)(A D B) -3 ((oi)A D (a)B) 9
+              -0r(a)(A D B) --3 - -((a)A D (a)B) VII
+              (a) rO-(A D B) --3 ' -(xa)(A D B) 18
+              (a)>OK-(A D B) --3 '((a)A D (a)B) VIII
+              (a)(A -3 B) -3 ((a)A -3 (a)B) 18.7, subst
+
+20. I-A !A (a)A, where a is not free in A.
+             A -3 (a)A 10
+              (a)A -3 A 8
+              (A -3 (a)A)((a)A -3 A) adj
+              A -- (a) A def
+
+21. F A (3a)A, where a is not free in A.
+                 A _ (a)'-A 20, hyp
+              -A 0%- (a)>A XI
+              A -- (3a)A 12.3, subst, 13
+
+22. F(a)(A -3 B) -3 (A -3 (a)B), where a is not free in A.
+             (a)(A -3 B) -3 ((a)A -3 (a)B) 19
+             (a)(A -3 B) -3 (A -3 (a)B) 20, subst
+
+23. F (a)(A -3 B) -3 ((3a)A -3 B), where a is not free in B.
+              (a) (A -3 B) -3 (a) (A -3 B) 12.1
+              (a)(A -3 B) -3 (a)(- B -3 r-'A) 12.44, subst
+              (a) (,--B -3 --A) -3 ('-B -3 (a) -A) 22
+              (a)(A -3 B) -3 (- B -3 (a)>A) VIII
+              (a)(A -3 B) -3 ('-(a)'-A -3 'rl-B) 12.44, subst
+              (a)(A -3 B) -3 ((3 a)A -3 B) 13, 12.3, subst
+
+XIII. If F A -3 B then F (a)A -3 (a)B.
+             A -3 B hyp
+              (a)(A -3 B) gen
+              (a)(A -3 B) -3 ((a)A -3 (a)B) 19
+              (a)A -3 (a)B mod pon
+
+24. (a)(A B) -3 (a)A- (a)B).
+          ((A -3 B)(B -3 A)) -3 (A -3 B) 2
+              ((A -3 B)(B -3 A)) -3 (B -3 A) 12.17
+              (a)((A -3 B)(B -3 A)) -3 (a)(A -3 B) XIII
+              (a)((A -3 B)(B -3 A)) -3 (a)(B -3 A) XIII
+
+
+
+
+       This content downloaded from 128.103.149.52 on Fri, 29 Apr 2016 01:52:29 UTC
+                        All use subject to http://about.jstor.org/terms
+6   RUTH              C.      BARCAN
+
+
+
+              (a)(A -3 B) -3 ((a)A -3 (a)B) 19
+              (a)(B -3 A) -3 ((a)B -3 (a)A) 19
+              (a)((A -3 B)(B -3 A)) -3 ((a)A -3 (a)B) VIII
+              (a)((A -3 B)(B -3 A)) -3 ((a)B -3 (a)A) VIII
+              (a)((A -3 B)(B -3 A)) -3 (((a)A -3 (a)B)((a)B -3 (a)A)) XII
+              (a)(A =B) -3 ((a)A (a)B) def
+
+XIV. If j A B then j (a)A _ (a)B.
+              A B hyp
+              (a)A (a)A 12.11
+              (a) A (a) B subst
+
+25. F (a)(A -3 B) -3 ((3a)A -3 (3a)B).
+            (a) (A -3 B) -3 (a) (A -3 B) 12.1
+              (a)(A -3 B) -3 (a)(QB -3 '.A) 12.44, subst
+              (a)(Q B -3 --A) -3 ((a)--B -3 (a)--A) 19
+              ((a)B -3 (a)--A) -3 (--(a)'.A -3 '-(ai)'B 12.43
+              (a)(A -3 B) -3 (--(a)-A -3 '-(a)>B) VIII
+              (a)(A -3 B) -3 ((3a)A -3 (3a)B) 13, subst
+
+XV. If jA-3 Bthen(-(3a)A-3 (3a)B.
+             Like XIII, using 25 in place of 19.
+
+26. 1 (a)(AB) -3 ((a)A (a)B).
+           (AB) -3A 2
+           (a) (AB) -3 (a) A XIII
+              (AB) -3 B 12.17
+              (a) (AB) -3 (a) B XIII
+              (a)(AB) -3 ((a)A (a)B) XII
+
+27. - (3a)(AB) -3 ((3a)A (3a)B).
+           Like 26 using XV in place of XIII.
+
+28. 1 ((a)A (a)B) -3 (a)(AB).
+              (a)A -3 A 8
+              (a)B -3 B 8
+              ((a) A (a) B) -3 (AB) IX
+             (a)(((a)A (a)B) -3 (AB)) -3 (((a)A (a)B) -3 (a)(AB)) 22
+             (a)(((a)A (a)B) -3 (AB)) gen
+             ((a)A (a)B) -3 (a)(AB) mod pon
+
+29. F ((a)A (a)B) @ (a)(AB).
+           (((a)A (a)B) -3 (a)(AB))((a)(AB) -3 ((a)A (a)B)) 28, 26, adj
+           ((a)A (a)B) _ (a)(AB) def
+
+30. F (3a) A -3 (3a) (A v B).
+             A -3 (A v B) 13.2
+             (3a)A -3 (3a)(A v B) Xv
+
+
+
+
+       This content downloaded from 128.103.149.52 on Fri, 29 Apr 2016 01:52:29 UTC
+                        All use subject to http://about.jstor.org/terms
+             FUNCTIONAL CALCULUS BASED ON STRICT IMPLICATION 7
+
+
+31. (3a) B -3 (3a) (A v B).
+              Like 30 using 13.21 in place of 13.2.
+
+32. F ((3a)A v (3a)B) -3 (3a)(A v B).
+               (((3a)A -3 (3a)(A v B))((3a)B -3 (3a)(A v B))) -3
+                                       (((3a) A v (3a) B) -3 (3a) (A v B)) 19.65
+               ((3a)A -3 (3a)(A v B))((3a)B -3 (3a)(A v B)) 30, 31, adj
+               ((3a)A v (3a)B) -3 (3a)(A v B) mod pon
+
+33. F (3a)(A v B) - ((3a)A v (3a)B).
+           ((a)-A (a)-B) =- (a)(-A -B) 29
+               -(-(a)-A v -(a)-B) (a) ('.'aA V '.naB)
+                                                                             14.21, subst, def
+                                   v ' (a)-B) -a) A V B) XI
+               (-(a)-A v -(a)-B) _ (a)--(A v B) 12.3, subst
+               ((3a)A v (3a)B) -- (3a)(A v B) 13, subst
+
+34. F (a) A -3 (a) (A v B).
+           Like 30 using XIII instead of XV.
+
+35. F (a) B -3 (a) (A v B).
+           Like 31 using XIII in place of XV.
+
+36. j-((a)A v (a)B) -3 (a)(A v B).
+              Like 32 using 34 and 35 in place of 30 and 31.
+
+ Extension of the rule of substitution.
+XVI. If the wif's r, E, and B are such that B results from A by the substitu-
+         tion of E for one or more occurrences of r in A and if (al) (a2) ...
+         (a,) (r E) where a1, a2, **, a,, is a complete list of the free vari-
+         ables in r and E then we may infer B from A and A from B.
+               (al)(a2) ... (a.)(Fr E) _3 (r - E)
+                                                               successive applications of 8
+               (al) (a2) *- (a.) (r E) hyp
+               r- P E mod pon
+               XVI follows from the rule of substitution.
+
+XVII. If F A -3 B and a does not occur free in A then F A -3 (a) B.
+               A -3 B hyp
+               (a)(A -3 B) gen
+               (a)(A -3 B) -3 (A -3 (a)B), where as above. 22
+               A -3 (a)B mod pon
+
+XVIII. If F A -3 B and a does not occur free in B then F (3a)A -3 B.
+               Proof like XVII, using 23 instead of 22.
+
+37. 1 (3a)0>A -3 0>(3a)A.
+               A -3 (3a)A 16
+                OA 3 Q(3a)A VI
+               (3a)K>A -3 <(3a)A XVIII
+
+
+
+        This content downloaded from 128.103.149.52 on Fri, 29 Apr 2016 01:52:29 UTC
+                         All use subject to http://about.jstor.org/terms
+ 8   RUTH              C.      BARCAN
+
+
+
+38. - (3a) 0A _ o (3Ca) A.
+               ((3a)(A -3 >(3a)A)(K(3a)A -3 (3a)>A) 37, 11, adj
+               (3a) 0 A - O (3a)A def
+39. F (a)OA _ O(a)A.
+               (3a)K0A -0(3a)>A 38
+               1(1%O1 -- O-A 0 13, subst
+               1(-li -- O A _ 1O1%(a) A XI
+               (a)-O-A -- O-(CY)A 12.3, subst
+
+40. F K>(a) A -3 (a) >A.
+               (a)A -3 A 8
+               K>(a)A -3 OA VI
+               O (a) A -3 (a) O A XVII
+41. F (a) A -3 (fB) B, where no free occurrence of a in A is in a well-formed
+          part of A of the form (i) r, B is formed from A by replacing all free
+         occurrences of a in A by f3, and there is no free occurrence of j3 in A.
+               (a)A -3 B 8
+               (a) A -3 (,) B XVII
+
+42. F (a)A - (,B)B, where as in 41.
+               (a)A -3 (,B)B 41
+               (,) B (a) A 41
+               (a) A (3) B adj and def
+
+43. F (3a)A (3,B)B, where as in 41.
+               (a)-A -- (3)B 42
+               -(a)-A = - (fl)-B XI
+               (3 a)A =- (3(3)B 13, subst
+
+44. F (a) (A _ B) -3 ((3a) A-- (33a) B).
+               (a)(A -3 B) -3 ((3a)A 3 (3 a)B) 25
+               (a)(B -3 A) -3 ((3 a)B 3 (3 a)A) 25
+               ((a)(A -3 B) (a)(B -3 A)) -3 (((3a)A -3 (3a)B)((3a)B 3 (3a)A))
+                                                                                             IX
+               (a)((A -3 B)(B -3 A)) 3 (((3a)A -3 (3a)B)((3a)B -3 (3a)A))
+                                                                                       29, subst
+               (a)(A B) -3 ((3a)A) - (3 a)B) def
+45. F (A -3 (a)B) -3 (a)(A -3 B), where a is not free in A.
+               (3a)(A --B) -3 ((3a)A (3a)-B) 27
+               (3a)(A --B) -3 (A (3a)>B) 21, subst
+               (3 a)(A '-B) -3 (A -c a)'jB) 13, subst
+               (3a)(A --B) -3 (A '-(a)B) 12.3, subst
+              - (A- (a)B) -3 - (3a)(A- B) X
+               (A D (a)B) -3 (3c a)'-(A D B) 14.12, subst
+                    - (A D (a)B) -3 - KO-- (a)(A D B) 13, subst, VII
+                    - -(A ) (a)B) -3 (a) - (A D B) 39, subst
+              (A -3 (a)B) -3 (a)(A -3 B) 18.7, subst
+
+
+
+        This content downloaded from 128.103.149.52 on Fri, 29 Apr 2016 01:52:29 UTC
+                         All use subject to http://about.jstor.org/terms
+            FUNCTIONAL CALCULUS BASED ON STRICT IMPLICATION 9
+
+
+46. F (A -3 (a)B) -- (a)(A -3 B), where a is not free in A.
+              ((A -3 (a)B) -3 (a)(A -3 B))((a)(A -3 B) -3 (A -3 (a)B)),
+                                                       where as above. 22, 45, adj
+              (A -3 (a)B) _ (a)(A -3 B) def
+47. F (3a)(B -3 A) -3 ((a)B -3 A), where a is not free in A.
+              (a) (B ' A) -3 (B ' A) 8
+              ((a)B (a) - A) -3 (B -A) 29, subst
+              ((a)B -A) -3 (B - A) 20, subst
+              K((a)B - A) --3 O(B - A) VI
+               O (B -A) -- O((a) B A) X
+              (3a)'-K0)(B -'A) - O ((a)B ' A) XVIII
+              (3a) (B -3 A) -3 ((a) B -3 A) def
+
+48. F (3a)(A -3 B) -3 (A -3 (3a)B), where a is not free in A.
+              B -3 (3Ca) B 16
+               -(3a)B -3 'B X
+              ('-(3a)B -3 ' B) -3 ((A -(3Ca)B) -3 (A ''B))
+                                                                          19.6, 12.15, subst
+              (A '-(3CY)B) -3 (A '--B) mod pon
+              O (A '-(3 a)B) -3 O(A '-B) VI
+              -O(A -B) --3 -O(A -(3a)B) X
+              (3a)> O(A 'B) --3 ,O(A '(3Ca)B) XVIII
+              (3a)(A -3 B) -3 (A -3 (3Ca)B) def
+  The above two theorems can be regarded as special cases of the more general
+principle (3a) OK A -3 -0-(3a)A.6 Their converses are not provable.
+
+49. F (3a)(A -3 B) -3 ((a)A -3 (3a)B).
+            '(3a)B -3 B step 2 of 48
+               (a)A -3 A 8
+              ((a)A '-(3a)B) -3 (A '-B) IX
+              K>((a)A '-(3 a)B) -3 O (A '-B) VI
+              -O(A -B) --3 -0((a)A '(3a)B) XI
+              (3a)-O(A -B) -3 '- ((a)A -(3a)B) XVIII
+              (3 a) (A -3 B) -3 ((a) A -3 (3Ca) B) def
+50. F (a)(B -3 A) -3 ((a)B -3 A.
+               (a)B -3 B 8
+              ((a)B -3 B) -3 (((a)B -A) - (B - A)) 19.6
+              ((a)B '-A) -3 (B '-A) mod pon
+               O((a)B --A) -3 O(B --A) VI
+               -'(B '-A) --3 ''((a)B '-A) XI
+              (a)-O(B -A) -3 (aC)-O((C)B 'A) XIII
+              (a)-O((a)B -A) --3 -O((a)B -A) 8
+              (a)-O(B -A) --3 -'((a)B '-A) VIII
+              (a)(B -3 A) -3 ((a)B -3 A) def
+
+   (3a)-0-A 3 --'- (3a)A follows easily from 40.
+
+
+
+        This content downloaded from 128.103.149.52 on Fri, 29 Apr 2016 01:52:29 UTC
+                         All use subject to http://about.jstor.org/terms
+ 10     RUTH             C.     BARCAN
+
+
+51. I-(a)(A V B) -(A v (a)B), where aisnotfree in A.
+               ((a) A v (a) B) -3 (a) (A V B) 36
+               (A v (a)B) -3 (a)(A V B), where etc. 20, subst
+                 Lemma:7 H (a)(rJ D E) -3 (r D (a)E) where a is not free in r.
+                    (a)(r1 D E) - ((a)Jr D (a)E) 9
+                    (a)(rJ D E) -3(r D (a)E) 20, subst
+               (a)(-A D B) -3 (' A D (a)B) Lemma
+               (a)(A V B) - (A v (a)B) 14.2, subst
+              ((a) (A V B) 3 (A v (a) B)) ((A v (a) B) -3 (a) (A V B)) adj
+               (a)(A V B) (A v (a)B) def
+
+52. - (a)(A V B) -3 ((a)A V (3a)B).
+                 Lemma: H (a)(A D B) -3 ((3a)A D (3a)B).
+                   Like 25 using 9 instead of 19.
+              (a)(- A D B) -3 ((3a) -A D (3a)B) Lemma
+              (a)(A V B) -3 (- (3a) - A v (3a)B) 14.12, 12.3, subst
+              (a) (A V B) -3 ((a) A v (3a) B) def
+
+53. - (A (3a)B) (3a)(AB), where a is not free in A.
+              (a)(VA V -B) -- (-A V (a)'B), where etc. 51
+               (a)-(--A --B) - (--A -(a),B) def
+              (a)-(AB) -= (A (a),B) 12.3, subst
+              -(a),(AB) _= ,(A ~(a)-B) XI
+              (3a)(AB) -- (A (3a)B) 12.3, subst, 13
+
+54. - (a)'->A -3 (a)(A -3 B).
+              - .O(A -3 (A -3 B) 19.74
+
+
+
+
+              ~(3 a) ( A - (a) (A -3 B) 12.3, subst
+              (a)>- (A -3 (a)(A -3 B) XIII
+
+55. f r0(3a)A 3 (a)(A -3 B).
+              (a)>-'KA - (a)(A -3 B) 54
+              -(3a)'(0A -3 (a)(A -3 B) def
+
+              r ((3 a)A 3 (a)(A -3 B) 38, subst
+56. H r.((a)A 3 (a)(B -3 A).
+              - o<>A 3 (B -3 A) 19.75
+              (a) - 0 -A 3 (a) (B 3 A) XIII
+              -0'(a)A 3 (a)(B 3 A) 39, subst
+
+57. j ' . (3a)(AB) -3 (a)(A -3 B).
+            -0(3a)(AB) - '0(3a)(AB) 12.1
+            '0(3a)(AB) - '(3a)(O(AB) 38, subst
+            '0(3a)(AB) - '(3a)-(A -3 B) def, 12.3, subst
+            0(3a)(AB) 3 (a)(A -3 B) def
+
+ 7 This Lemma might have been used as an axiom schema in place of 9 and 10.
+
+
+
+
+       This content downloaded from 128.103.149.52 on Fri, 29 Apr 2016 01:52:29 UTC
+                        All use subject to http://about.jstor.org/terms
+             FUNCTIONAL CALCULUS BASED ON STRICT IMPLICATION 11
+
+
+
+58. F (a)(A -3 (B v r)) _ KO (B V (a)(A D r)), where a is not free
+         in B.
+                 (a) -(A r(B v 1$) - (a) <(A - (B v r)) 12.11
+                 (a) (A (B V r)) - (a)>{A v (B v r))
+                                                                                  14.21, subst
+                 (a)>(A (B v r)) (_ (a) ( A v (B V r))
+                                                                                       12.3, subst
+                 (a) K(A (B V r)) _ (a) Q(B V (- A v r))
+                                                                                  13.41, subst
+                 (a)'O(A -(B v r)) '--O -(a)(B v (-A v r)) 39, subst
+                 (a)KO(A -(B v r)) = K O-'(B v (a)(QA v r)) 51, subst
+                 (a)(A -3 (B v r)) _- - o- (B v (a)(A D r)) def, 14.2, subst
+
+59. F ((a)(A - B) (a)(B -3 r)) -3 (a)(A -3 r).
+            ((A B) (B -3 r)) -3 (A -3 r) 5
+                 (a)((A -3 B)(B -3 r)) -3 (a)(A -3 r) XIII
+                 ((a)(A -3 B) (a)(B -3 r)) -3 (a)(A -3 r)) 29, subst
+
+60. - ((a) (A -3 B) r) -3 E, where r is the result of replacing all free occur-
+           rences of a in A by ,B, and a does not occur in a well-formed part of
+         A -3 B of the form (,B)H, and E is the result of replacing all free occur-
+         rences of a in B by ,3.
+                  Lemma: If F A -3 (B -3 r) then F (AB) -3 r.
+                     (A -3 (B -3 r) -3 ((BA) -3 (B(B 3 r)))
+                                                                           19.6, 12.13, subst
+                     A -3 (B -3 r) hyp
+                    (BA) -3 (B(B -3 r)) mod pon
+                    (B(B -3 r)) 3 r 6
+                   (AB) -3 r VIII, 12.15, subst
+              (a)(A -3 B) -3 (r -3 E), where as above. 8
+              ((a) (A -3 B) r) -3 E Lemma
+ 59 and 60 are two instances of the syllogism in Barbara.
+
+61. - ((a)(A -3 B) (a)(A -3 r)) -- (a)(A -3 (Br)).
+              ((A -3 B)(A -3 r)) -3 (A -3 (Br)) 19.63
+              (a)((A -3 B)(A -3 r)) -3 (a)(A -3 (Br)) XIV
+              ((a)(A -3 B) (a)(A -3 r)) -3 (a)Y(A -3 (Br)) 29, subst
+
+62. F ((a)(A -3 B) (3 a)A) -3 (3a)B.
+            (a) (A -3 B) -3 ((3 a) A -3 (3Ca) B) 25
+              ((a)(A -3 B) (3 a)A) -3 (3 a)B Lemma of 60
+
+63. F ((a)(A _ B) (a)(B F- r)) -3 (a)(A F r).
+              ((A-B) (B _r)) -3 (A _r) 5, IX e
+              Remainder of proof like 59.
+
+64. F (a)(A - B) -- (a)(-B A).
+              Steps 1, 2 of XI, XIV, and def.
+
+
+
+
+        This content downloaded from 128.103.149.52 on Fri, 29 Apr 2016 01:52:29 UTC
+                         All use subject to http://about.jstor.org/terms
+12     RUTH             C.     BARCAN
+
+
+
+65. F ((a)(A -3 B) -(a)A) -3 -(--a)B.
+          ((A -3 B) -- A) -3 O<>--B 18.53
+          (a)((A -3 B) ' --OA) -3 (a)-->-B XIII
+             ((a) (A - B) (a) -- '>A) -3 (a) O >B 29, subst
+             ((a) (A - B) O- r%-(a)A) -3 O--Q 0..(a) B 39, subst
+66. F ((a)(A -3 B) (a)K>A) -3 (a)<>B.
+             Like 65 using 18.51 instead of 18.53.
+
+67. F (K (a)A (a)((AB) -3 r)) -3 (a)(B -3 r).
+             (----A ((AB) -3 r)) -3 (B -3 r) 18.61
+             (a)(Q--O< A ((AB) -3 r)) -3 (a)(B -3 r) XIII
+             ((aS)K>OA (a)((AB) -3 r)) -3 (a)(B -3 r) 29, subst
+             ('KO>.(a)A (a)((AB) _3 r)) -3 (a)(B _3 r) 39, subst
+68. F ((3a)0A v (3a)0B) - (3 a)0(A v B).
+              (OA v OB) - O(A v B) 19.82
+             (3a)(KA v OB) -- (3xa)K(A v B) Like proof of XIV.
+              ((3a)K0A V (3a)K0?B) (3a)K0(A v B) 33, subst
+69. F (3(3a) A v 0$(3a)B) - (3a)(A v B). 68, subst, 38
+70. F (-K-O-(a)A .(a)B) -3 (a)(A B).
+             Like 65 using 19.84 instead of 18.53.
+
+71. F ('0(3a)A '-'K0(3a)B) 3 (a)(A _ B).
+              (>A '--K>B) -3 (A B) 19.83
+              (a) (-- A ' B) -3 (a) (A -- B) XIII
+              ((a)SK>A (a)r-'K>B) -3 (a)(A -- B) 29, subst
+              ('-(3a><)0A (3a)--0(>B) -3 (a)(A B) def
+              ((3 c) 0 A - (3a) 0 B) -3 (a)(A B) 12.3, subst
+              ('->0(3a)A -<0>(3a)B) -3 (a)(A B) 38, subst
+Definition: EOA =df O A.
+
+72. El (al) (a2) ... (am)A (al) (a2) ... (am) 0 A.
+             39, successive applications of subst.
+  The following theorems are not proved in Symbolic logic. Some of them will
+be useful in proving XIX below.
+
+73. F(A -3 B) -3 (OA D B).
+              (((A -3 B) 0 A) -3 O>B) -3 (((A -3 B) O>A) -3 O>B) 12.1
+              (((A-3B) K>A) -3 <>B) 'O(((A3B) K>A) O B)) def
+              (((A -3 B) O)A) 3 OB) 3 >((A B)((OA >B))
+                                                                                  12.5, subst
+              (((A -3 B) OA) -3 <>B) -3 ((A -3 B) 3 OA O B))
+                                                                            def, 12.3, subst
+              (((A -3 B) OA) -3 O'B) -3 ((A -3 B) -3 (OA :3 OB)) def
+              ((A -3 B) OKA) -3 O B 18.51
+              (A B) -3 (OADOB) modpon
+
+
+
+       This content downloaded from 128.103.149.52 on Fri, 29 Apr 2016 01:52:29 UTC
+                        All use subject to http://about.jstor.org/terms
+             FUNCTIONAL CALCULUS BASED ON STRICT IMPLICATION 13
+
+
+
+74. F(A -3 B) -3 ( A D O B).
+              Same method as 73 using 18.53 in place of 18.51.
+
+75. F(A - B) -3 ( 0 B D 0 A).
+              Same method as 73 using 18.5.
+
+76. F (A -- B) -3 (0- A -- B).
+           ((A -3 B) -3 (O A D 0 B))((B -3 A) -3 (O B D ( A)) 73, adj
+              ((A -3 B)(B -3 A)) -3 ((O A D B)(> B D 0 A) 19.68, mod pon
+               (A -- B) -3( A - B) def
+
+77. J(A - B) -3 ([A A B).
+              Like 76, using 74.
+
+78. (A -= B) q a0A _ 0B).
+              Like 76 using 75.
+
+79. [.(A - B) =- (,,A _ DUB). 12.1, 12.44, subst, 12.15, def
+80. 1 ((A =- B)(r =- H)) -3 ((Ar) (BH)).
+              19.68, adj, IX, 12.5, 12.15, subst
+
+81. F (A B) -3 ((Ar) _ (Br)). 19.6, adj, 19.68, mod pon, def
+82. 0 (A =_ B) -- (A - B).
+               a (A D B) (A -3 B) 18.7
+              J(B D A) (B -3 A) 18.7
+              (EI(A D B) El(B D A)) -3 ((A -3 B)(B -3 A)) IX
+               E](A E B) -- (A - B) 19.81, subst, def
+  Let every wff occurring in A, as well as A itself, be said to be within the scope
+of the left-hand diamond in the expression O A. An "nth degree occurrence of
+r in A" will be an occurrence of r which falls within the scope of not more than
+n diamonds in A. Abbreviate A as E0A and [ E n-lA as E nA.
+
+XIX. If the wff's r, E, B are such that B results from A by the substitution of E
+for zero or more nth degree occurrences of r in A and if al, a2, am is a com-
+plete list of the free variables in r and E, then
+
+                    F C" (al) (a2) - * - ()(r E) - (A --B).
+
+  Proof by induction on n. When n is zero XIX becomes
+
+            F (al)(a2) ... (am)(r =E) -3 (A -B), where as above,
+which we will call XIXo.
+ XIXo is provable by an induction on the number of occurrences of the primi-
+tive symbols -, *, (3 ), K in A.
+  Suppose the number of occurrences of these symbols in A is zero. Then,
+XIXo is one of the following:
+   (1). F (al)(Ce2) ... (a,)(Jr- E) - (r E)
+   (2). F (al)(a2) ... (c.)(Jr- E) - (A A).
+
+
+
+        This content downloaded from 128.103.149.52 on Fri, 29 Apr 2016 01:52:29 UTC
+                         All use subject to http://about.jstor.org/terms
+  14     RUTH             C.      BARCAN
+
+
+
+   Case (1) is provable by successive applications of 8 and VIII.
+
+   Case (2). H K(A P-A) -3 ((A P-A) - (a,)(a2) ... (a.)(r- E))
+                                                                                        19.74
+                 /, .O(A PA) 18.8
+                I (a,)(a2) (am) )(r= E) 3 (A -A)
+                                                                   mod pon, X, 12.3, subst
+                I (a,)(a2) ... (am)(rJ = E) - (A D A) def
+                l [1(a,) (a2) (aCm) (r - E) -3 D (A A)
+                                                                        VII, 12.7, def, subst
+                I (a,)(a2) ... (am)(r E) -3 (A = A) 72, 82, subst
+   Assume that XIXo is true when A contains not more than i occurrences of A,
+    (3 ), and O. If A contains i + 1 of these symbols it must be DAl, Al A2,
+ (3a) Al or O A,. XIXo becomes correspondingly
+        (1.1). F (a,) (a2) . (aY) (r -E) (Al IBM),
+   (2.1). - ((a,)(a2) ... (am)(r- E) - ((Al A2) (Bl B2));
+   (3.1). H (a1)(a2) ... (am)(r- E) 3 ((3 a)Al (3 a)B),
+   (4.1). H (a1)(a2) ...(am)(r_ E) -3 (KOA, -- B1);
+where B1 and B2 result from the substitution of E for zero or more zero degree
+occurrences of r in Al and A2 respectively.
+   The following proof assumes that r is not identical with A. If it is, the proof
+is the same as Case (1) above. Where r does not occur in A the proof is like
+that of Case (2).
+
+   Case (1.1) follows immediately from the hypothesis, 79, and subst.
+
+   Case (2.1). H (a1)(a2) ... (am)(r= E) -3 (Al B1) hyp
+               H (a1)(a2) (am)(r= E) -3 (A2 B2) hyp
+               H (a,)(a2) (am)(r= E) ((Al B1) (A2 = B2)) XII
+               1- (a,)(a2) ... (am) (r E) -3 ((Al A2) (Bl.B2) 80, VIII
+   Case (3.1). k (a)(a2) ... (am)(r = E) -3 (Al B1) hyp
+               H (a,)(a2) ... (am)(r = E) -3 (a)(Al B1) hyp, XIII
+               (a)(Al _ B1) -3 ((3a)A = (3a)Bj) 44
+               (a,)(a2) ... (am)(r = E) -3 ((3a)A = (3a)Bj) VIII
+  Case (4.1). On the hypothesis n is zero, no occurrence of r in A is replaced
+by E. This case then becomes
+
+               H (a,)(a2) ... (a,)(r = E) -3 (A A1 = A)
+               Proof like Case (2).
+
+   Suppose XIX is provable for n = k. We shall then prove it for n = k + 1.
+We will assume that r is not identical with A and that it occurs in A. If r is
+identical with A the proof is like Case 1) using in addition, successive applications
+of 18.42. If r does not occur in A the proof is like Case (2), using
++l(a,) (a2) ... (am)(r_ E) in place of (a,)(a2) ... (a.m)(r E).
+ First it is necessary to prove the case where A is K Al , B is K B1, and where
+
+
+
+
+         This content downloaded from 128.103.149.52 on Fri, 29 Apr 2016 01:52:29 UTC
+                          All use subject to http://about.jstor.org/terms
+             FUNCTIONAL CALCULUS BASED ON STRICT IMPLICATION 15
+
+
+Al results from B1 by replacing by E zero or more kth degree occurrences of r
+in A. The other cases follow from an induction on the number of "additional
+occurrences" in A. An "additional occurrence" in A is an occurrence (of a
+primitive symbol) which is not part of a wif in A of the form O<H.
+
+  Case (1.2). F [(al)(a2) ... (am)(r= E) -3 (Al B1) hyp
+               F(Al = B1) -3 (O Al - B1) 76
+               F LI(al)(a2) ... (am)(r- E) -3 (O<A1 - KB) VIII
+               F 1 ]E](a,)(a2) (... )(a) _ E) 3 [(OAl) -- <B1) VII
+               F [J" '(a1)(a2) ... (a.)(r= E) 3 (OA1 -- B1)
+                                                                          def, 72, 82, subst
+
+  Case (1.2) is the proof of XIX for zero additional occurrences of the primitive
+symbols in A. Suppose XIX is true for not more than i additional occurrences
+of the primitive symbols in A. We will now show that it is true for i + 1 addi-
+tional occurrences.
+
+  If A contains i + 1 additional occurrences it must be -Al, Al- A2, or (3a)Al1.
+XIX becomes correspondingly
+   (1.3). F ? EJ1(a1)(a2) ... (a.)(r E) 3 (--,Al = B)
+   (2.3). F ?-1 (a1) (a2) ... (a) (r E) 3 ((Al A2) _ (B1 B2))
+   (3.3). F E1 (ai)(a2) ... (a,)(Pr E) 3 ((3a)A1 (3a)B%),
+where B1 and B2 result from the substitution of E for zero or more k + 1 degree
+occurrences of r in Al and A2 respectively.
+
+  The proofs of (1.3), (2.3), and (3.3) are like those of Cases (1.1), (2.1), and
+(3.1) replacing (al) (a2) (a.) (r_ E) by Ok+.(..)(a2) (a,.) (r E).
+  The addition of the following axiom schema, < O A -3 OA, would make it
+possible to obtain EJ E A _ l A and hence to prove XIX* as follows:
+
+XIX*. If the wff's r, E, and B are such that B results from A by the substitu-
+         tion of E for zero or more occurrences of r in A and if a1, a2 X a.
+         is a complete list of the free variables in and E then
+
+                       F (a1)(a2) ... (a,,)(r =E) 3 (A _ B).
+  The assumption K <>A -3 <>A is the distinctive feature of S48 in contrast to
+S2, and if it were included in the present system we could prove XIX* and thus
+dispense with a consideration of the "degree" of occurrence of r in A.
+
+  It might be interesting to note some of the differences between this system
+and the ordinary functional calculus of first order.
+  The converses of 47 and 48,
+
+              ((a) B -3 A) -3 (3 a) (B -3 A), where a is not free in A,
+
+              ((A -3 (3a)B) -3 (3a)(A -3 B), where a is not free in A,
+
+  8 See Lewis and Langford, p. 501.
+
+
+
+
+         This content downloaded from 128.103.149.52 on Fri, 29 Apr 2016 01:52:29 UTC
+                          All use subject to http://about.jstor.org/terms
+ 16        RUTH             C.     BARCAN
+
+
+
+are not provable although their analogues hold in a functional calculus based on
+material implication.
+  The theorems corresponding to the so-called paradoxes of material implication
+such as
+
+                                   (3 a)A -3 (a)(A -3 B)
+are not provable. However we can derive
+
+                                 0C(3a)A -3 (a)(A -3 B).
+  Theorems like
+
+                   (a)(A -3 (B V r)) -3 ((a)(A -3 B) v (3 a)(Ar))
+depend on some such principle as
+
+                       (A -3 (B v r)) -3 (A -3 B) v (A -3 r)),
+which is not available in S2.
+  We cannot derive
+
+       (a)(A -3 (B v r)) _ (B V (a)(A -3 r), where a is not free in B,
+although
+
+            (a)(A -3 (B v r)) 0'O'(B v (a)(A D r)), where etc.
+is a theorem.9
+
+  SILVER SPRING, MARYLAND
+
+
+
+
+   I am indebted to Professor Frederic B. Fitch for his criticisms and suggestions.
+
+
+
+
+           This content downloaded from 128.103.149.52 on Fri, 29 Apr 2016 01:52:29 UTC
+                            All use subject to http://about.jstor.org/terms
+

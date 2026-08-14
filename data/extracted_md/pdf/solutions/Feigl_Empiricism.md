@@ -1,0 +1,596 @@
+# Logical Empiricism *
+
+**source:** pdf · **section:** solutions
+**file:** Feigl_Empiricism
+---
+
+                             HERBERT       FEIGL
+
+                     POSITIVISM, NOT NEGATIVISM
+   Probably the most decisive division among philosophical attitudes is the
+one between the worldly and the other-worldly types of thought. Profound
+differences in personality and temperament express themselves in the ever
+changing forms these two kinds of outlook assume. Very likely there is here
+an irreconcilable divergence. It goes deeper than disagreement in doctrine;
+at bottom it is a difference in basic aim and interest. Countless frustrated
+discussions and controversies since antiquity testify that logical argument
+and empirical evidence are unable to resolve the conflict. In the last analysis
+this is so because the very issue of the jurisdictive power of the appeal to
+logic and experience (and with it the question of just what empirical evi-
+dence can establish) is at stake.
+   It seems likely that this situation in philosophy will continue as long as
+human nature in its relations to its cultural environment remains what it
+has been for the last three or four thousand years. The tough-minded and
+the tender-minded, as William James described them so brilliantly, are
+perennial types, perennially antagonistic. There will always be those who
+find this world of ours, as cruel and deplorable as it may be in some respects,
+an exciting, fascinating place to live in, to explore, to adjust to, and to im-
+prove. And there will always be those who look upon the universe of ex-
+perience and nature as an unimportant or secondary thing in comparison
+with something more fundamental and more significant. This tendency
+of thought may express itself theologically or metaphysically. It may lead
+to a faith in extra-mundane existence, or it may in various attenuated fash-
+ions assert merely the supremacy of some rational or intuitive principles.
+   Empiricism, Skepticism, Naturalism, Positivism, and Pragmatism 1 are
+typical thought movements of the worldly, tough-minded variety. Respect
+for the facts of experience, open-mindedness, an experimental trial-and-
+error attitude, and the capacity for working within the frame of an incom-
+plete, unfinished world view distinguish them from the more impatient,
+imaginative, and often aprioristic thinkers in the tender-minded camp.
+Among the latter are speculative metaphysicians, intuitionists, rationalists,
+  * Reprinted with omissions from Twentieth Century Philosophy, D. D. Runes, ed.,
+Philosophical Library, New York, 1943, by kind permission of the editor and the
+publishers.
+  1
+    Disregarding some of James' own tender-minded deviations.
+                                        3
+       4                               INTRODUCTION
+       and absolute idealists. An amusing anecdote concerning two celebrated con-
+       temporary philosophers has become widely known. One considers the other
+       muddle-headed and the other thinks the one simple-minded. This fairly
+       epitomizes the history of philosophy, that grandiose "tragicomedy of wis-
+       dom." 2 Plato and Protagoras, St. Thomas and William of Ockham, Spinoza
+       and Hobbes, Leibniz and Locke, Kant and Hume, Hegel and Comte, Royce
+       and James, Whitehead and Russell are in many regards, though of course
+       not in every feature, outstanding examples of that basic difference.
+          Inasmuch as this divergence of attitudes establishes a continuum of posi-
+       tions between extremes, there is also among the tough-minded thinkers a
+       gradation of shades from a nominalistic, pan-scientific radicalism to a more
+       liberal, flexible form of empiricism. Typical among the radicals is the
+       use of the phrase "nothing but." W e are familiar with this expression from
+       earlier doctrines, such as materialism: "Organisms are nothing but ma-
+       chines." "Mind is nothing but matter." "The history of ideas is only
+       an epiphenomenon of the economic processes." W e also know it from
+       phenomenalism: "Matter is nothing but clusters of sensations." Or from
+       nominalism: "Universals are mere words." Or from ethical skepticism and
+       relativist):: "Good and evil are no more than projections of our likes and
+       dislikes."
+          One of the great merits of logical empiricism lies in the fact that it is
+       conscious of the danger of these reductive fallacies. It may not always
+       have been able to avoid them. A young and aggressive movement in its zeal
+       to purge thought of confusions and superfluous entities naturally bran-
+       dishes more destructive weapons than it requires for its genuinely construc-
+       tive endeavor. But that is a socio-psychological accident which in time will
+       become less important. The future of empiricism will depend on its ability
+       to avoid both the reductive fallacies of a narrowminded positivism—stig-
+       matized as negativism—as well as the seductive fallacies of metaphysics.
+       Full maturity of thought will be attained when neither aggressive destruc-
+       tion nor fantastic construction, both equally infantile, characterize the
+       philosophic intellect. The alternative left between a philosophy of the
+ yT    "Nothing But" and a philosophy of the "Something More" is a philosophy
+Jjpv   of the "What is What." Thus an attitude of reconstruction is emerging:
+       an attitude which recognizes that analysis is vastly different from destruc-
+       tion or reduction to absurdity, an attitude that is favorable to the integration
+       of our knowledge, as long as that integration is carried on in the truly sci-
+       entific spirit of caution and open-mindedness. The reconstructive attitude
+       demands that we describe the world in a way that does not impoverish it
+       by artificial reductions, and it thus requires that we make important dis-
+       tinctions wherever there is an objective need for them. But, on the other
+       hand, the empiricist will with equal decision reject wishful thinking of
+        2
+          In a shrewd and entertaining book, Die Tragikomoedie der Weisheit, R. Wahle
+       many years ago rewrote the history of philosophy from a positivistic point of view.
+                          LOGICAL EMPIRICISM                                5
+ all sorts, the reading into experience of features which are incapable of
+test and the multiplication of entities beyond necessity.
+    It would be puerile optimism to hope that out of such revision and re-
+form should grow a generally accepted philosophy to end all philosophies.
+But what may seem questionable as an historical prediction may yet be
+justifiable as a working attitude in a living enterprise. The spirit of en-
+lightenment, the spirit of Galileo, of Hume, and of the French Encyclope-
+dists is fully alive again in the contemporary encyclopedists of a unified
+science. These modern logical empiricists hope to have freed themselves
+from the naivete and dogmatism of the various nineteenth-century material-
+ists and monists. They are conscious of their philosophy's role as a turning
+point in the history of critical thought. Nevertheless, they do not claim
+originality, for they are aware that the empirical and analytic trend in
+philosophy is no less persistent than the speculative and intuitive approach,
+though it is admittedly less spectacular and popular. The tradition they now
+represent has centered its chief inquiries around the two humble questions,
+"What do you mean?" and "How do you know?" The systematic pursuit
+of meaning by the Socratic method and the searching scrutiny of the
+foundations of knowledge are thus again declared the genuine task of
+philosophy, a task which differs from the quest for truth as carried on by
+science and yet is most intimately related to it.
+    Neither the construction of a world view nor a vision of a way of liv-
+ing is the primary aim. If through the progress of knowledge and through
+social, political, and educational reform one or the other objective is pur-
+sued, philosophy in its critical and clarifying capacity may aid or guide
+such developments. But it cannot, by mere reflective analysis, prescribe
+or produce them. Quackish and dilettantish projects in both directions
+have always been abundant and cheap in the market of ideas. The main
+contribution that philosophical reconstruction can make in this regard lies
+in the direction of an education toward maturer ways of thinking, think-
+ing which possesses the virtues characteristic of science: clarity and con-
+sistency, testability and adequacy, precision and objectivity. Immature
+attitudes are associated with attempts to explain experience in ways which
+lack the distinguishing marks of science. Certain of these pre-scientific
+modes of explanation, like the magical, the animistic, and the mythological,
+are nearly defunct; others, like the theological and the metaphysical,
+still prevail.
+   Throughout its history philosophy has been the particular stronghold
+of verbal magic. By purely verbal means it has tried to explain things
+which only science could explain or which cannot be explained at all.
+In the process it creates its own perplexities, and at its worst it attempts
+the "solution" of these pseudo-problems—problems arising only out of
+linguistic confusion—by means of pseudo-techniques—more verbal magic.
+Analysis teaches us that all this is altogether unnecessary. Thus, if a little
+»«   6                                 INTRODUCTION
+     levity be permitted, we may define philosophy as the disease of which it
+     should be the cure.
+
+               THE ANALYSIS OF LANGUAGE AND THE MEANINGS
+                                    OF "MEANING"
+        The systematic pursuit of the problem of meaning by means of a logical
+     analysis of language distinguishes Logical Empiricism from the earlier,
+     more psychologically oriented types of Empiricism, Positivism, and Prag-
+     matism. The imperative need for a logic of language was impressed upon
+     scientists and logicians most poignantly in the last few decades. Just as the
+     seminal ideas of some nineteenth-century philosophies originated in a
+     scientific achievement (Darwin's theory of evolution) so twentieth-
+     century Logical Empiricism was conceived under the influence primarily
+     of three significant developments in recent mathematics and empirical
+     science. These are the studies in the foundations of mathematics (led by
+     Russell, Hilbert, and Brouwer), the revision of basic concepts in physics
+     (advanced especially by Einstein, Planck, Bohr, and Heisenberg) and the
+     reform of psychology by the behaviorists (Pavlov, Watson, et al.).
+     Though very different in context and subject-matter, these three de-
+     velopments focussed attention on the necessity for an inquiry into the
+     limits and structure of meaningful discourse. Russell, through his dis-
+     covery of logical and mathematical paradoxes, could show that tradi-
+     tional logic had to be revised and that certain laws, like his rule of types,
+     had to be incorporated in logic in order to avoid inconsistencies in the
+     very foundations of mathematics. Einstein, in his analysis of the electro-
+     dynamics of moving bodies, was led to a most revolutionary critique of
+     such basic concepts as simultaneity, length, duration, and mass. Thus he
+     showed that the traditional phraseology of "absolute space" and "absolute
+     time" was in certain important respects devoid of the factual meaning it
+     was supposed to possess. Analogous revisions of basic concepts, touching
+     also on the principle of causality, resulted from the elaboration of the
+     theory of quanta. Finally, by developing objective procedures for the
+     study of mental life, the behaviorists made us aware of the fact that all
+     of the scientific content of psychology can be formulated in the physical
+     language 3 and that the assumption of a "something more," a surplus of
+     factual meaning attached to mentalistic terminology, is an illusion. (Earlier
+     reductive naivetes were gradually eliminated here, as elsewhere.)
+        Whatever the future of mathematics, physics, and psychology may
+     decide about the theoretical content of these recent ideas, we have, in
+     any case, been awakened once for all to the need for logical analysis, and
+     we have been witnesses to the fruitfulness of its results.
+         3
+        1 , e., the language whose undefined, primitive terms are spatiotemporal coordinates
+     (referring to observable or measurable locations and dates) and thing-predicates (re-
+     ferring to observable properties of things).
+                           LOGICAL EMPIRICISM                                7
+   Three disciplines are being developed to carry out this task of clarify-
+ing language and meaning. Pragmatics investigates the functions of lan-
+guage in its full biological, psychological, and sociological setting. Here
+language in its relation to behavior is the primary object of study. By two
+successive steps of abstraction the disciplines of semantics and syntax are
+arrived at. Semantics analyzes the meaning of terms and expressions. Its
+studies center about the relation of designation and the concept of truth.
+While pragmatics is interested predominantly in the expression and ap-
+peal function of language, semantics explores the symbolic or representative
+aspect of language. Syntax, finally, ignores even the meaning-relation and
+studies exclusively the connections of linguistic signs with each other. It
+systematizes the purely formal, structural rules for the formation of sen-
+tences and the transformation rules of logical derivation.
+   Granting that language as used in common life serves in a fusion or a
+combination of various functions, it would seem imperative that some
+sort of theoretical separation of functions be undertaken for the sake of
+greater clarity and the avoidance of confusion. The list below is the re-
+sult of such an analysis. Among the dozens of meanings of "meaning" we
+shall enumerate only those which are of prime importance for philosophical
+purposes.
+        THE FUNCTIONS OF LANGUAGE, OR THE MEANINGS
+                       OF "MEANING"
+  Cognitive meanings                      Non-cognitive meanings
+  (Informational function)                (Emotive expression and appeal
+                                          function)
+Purely formal                           Pictorial (Imaginative)
+Logico-arithmetical                     Emotional (Affective)
+Factual ( = Empirical)                  Volitional-motivational (Directive)
+   This table, correctly understood and properly used, is a powerful tool
+in the disentanglement of the traditional puzzles of philosophy. Many
+metaphysical "problems" and their "solutions" depend upon the erroneous
+presumption of the presence of factual meaning in expressions which have
+only emotive appeals and/or a formally correct grammatical structure.
+And many an epistemological question has been obscured by mistaking
+logico-mathematical for factual meanings. It is such confusion or errone-
+ous pretense that is exposed to criticism on the basis of our table of mean-
+ings. N o evaluation of the functions of language as such is implied. Emo-
+tive appeals are indispensable in the pursuits of practical life, in education,
+in propaganda (good or bad), in poetry, in literature, in religious edi-
+fication and moral exhortation. Some of the highest refinements of our
+civilized existence depend upon the emotional overtones of spoken and
+written language.
+   However, Logical Empiricism as an approach in the theory of knowl-
+           8                              INTRODUCTION
+           edge is primarily concerned with cognitive meanings. It avoids the errors
+           of the psychologistic approach by the sharp distinction between the pic-
+           torial connotations of words, i. e., the imagery that accompanies their
+           use, and the syntactical-semantical rules that govern their use. The meaning
+           of words, then, or of signs quite generally, consists in the way in which
+           they are used, the way they are connected with other words or related
+           to objects of experience. The definition of a term, the declaration of its
+           meaning, amounts to a statement of the rule according to which we em-
+           ploy or intend to employ the term. Dictionary definitions are translations
+           of relatively less familiar into relatively more familiar expressions; the
+           meaning of the latter is presupposed. Logical analysis, however, pushes
+           beyond these familiar terms of common language. By stepwise procedures
+           all terms are reduced to a comparatively small number of basic or primi-
+           tive terms. Though further verbal definition is then still possible—no
+           term can be said to be "indefinable"—to continue the process may turn
+           out to be unenlightening and hence fruitless. At this point we must con-
+           nect language with something outside of language, with experience. Thus
+           in all full definitions of empirical terms there is a terminal ostensive step
+           as an indispensable ingredient. In contradistinction to this, the symbols
+           of purely logical or mathematical systems are introduced (i. e., whatever
+           meaning they have is defined) by relating them only to each other by
+           formal rules. In applied mathematics, as in every language with empirical
+           reference, these purely formal or syntactical rules are supplemented by
+           semantical rules that correlate at least some of the symbols with items
+           of experience.
+              Philosophical or logical analysis, in the sense of a clarification of the
+           meaning of language, differs from philological analysis in at least three
+           important respects. First, logical analysis concentrates on terms of basic
+           importance for the representation of knowledge. The more general these
+           terms the greater is the danger of various confusions due either to un-
+           clarity in type of meaning or simply to vagueness or ambiguity of mean-
+    t!r\   ing. Hence the necessity and the value of such an analysis as a therapeutic
+           measure. Second, the logical reconstruction is independent of the gram-
+           matical (and a fortiori the emotive) peculiarities of the specific language,
+           living or dead, in question. Inasmuch as it is the cognitive meanings that we
+           are interested in, idealized models, or in the extreme limit, an ideal lan-
+           guage (something in the direction of Leibniz' Mathesis Universalis) may
+           be used. The tools developed in modern symbolic logic prove of utmost
+           value for this purpose. Third, logical analysis is usually directed analysis.
+           That is to say, it is either posttdational codification (as in the mathematical
+           and the exact empirical sciences) or epistemological reduction (the re-
+    0      construction of factual terms and propositions on a basis of observational
+           evidence).
+/             A characteristic difference between two types of procedure in logical
+                             LOGICAL EMPIRICISM                                    9
+analysis is worth observing. Wittgenstein, very much like G. E. Moore
+before him, and like the English analytic school on the whole, pursues
+the Socratic task in a casuistic fashion; individual confusions are subjected
+to elucidation. It is the specific case that is treated, and the general theory
+of the treatment is not elaborated systematically. Carnap and his followers,
+on the other hand, proceeded with the development of a complete sys-
+tem, very much like Whitehead and Russell in Principia Mathematica. A
+whole system is set up, and the theory of the machinery fully set forth. In
+the course of later developments this difference in procedure became asso-
+ciated with another one; in their choice of a basis for logical reconstruc-
+tion, Wittgenstein, followed by Schlick, Waismann, and others, remained
+experientialistic, whereas Neurath, Carnap, Hempel, and others became
+physicalistic.
+
+                 T H E CRITERION OF FACTUAL MEANING
+                   AND THE CRITIQUE OF METAPHYSICS
+   The most important, the most widely debated, and, unfortunately, the
+most frequently misunderstood regulative principle used by Logical Em-
+piricism is the criterion of factual meaningfulness. The purpose of this
+criterion is to delimit the type of expression which has possible reference
+to fact from the other types which do not have this kind of significance:
+the emotive, the logico-mathematical, the purely formal, and—if there
+should be such—the completely non-significant.
+   If it is the ostensive steps that connect a purely formal array of signs
+(e. g., words) with something outside of language, no sign or combination
+of signs can have factual meaning without this reference to experience.
+Furthermore, if a sentence is considered true when it corresponds to an
+existing state of affairs, a sentence is factually-meaningful only if we are
+in principle capable of recognizing such states of affairs as would either
+validate or invalidate the sentence. If we cannot possibly conceive of
+what would have to be the case in order to confirm or disconfirm an asser-
+tion we would not be able to distinguish between its truth and its falsity.
+In that case we would simply not know what we are talking about. C. S.
+Peirce's pragmatic maxim, formulated in his epoch-making essay, "How             /-
+to Make Our Ideas Clear," 4 has essentially the same import. We may para-      ^ ^
+phrase it crudely: A difference that is to be a difference (i. e., more than 6^9
+merely a verbal or an emotive one) must make a difference. Or, a little f>+'Af~~~
+more precisely: If and only if assertion and denial of a sentence imply
+a difference capable of observational (experiential, operational, or ex-
+perimental) test, does the sentence have factual meaning. Another useful
+formulation is Ayer's: 5 "It is the mark of a genuine factual proposition
+  4
+    "PopularScience Monthly, Vol. 12, 1878. Reprinted in Chance, Love, and Logic, and
+in Collected Papers of C. S. Peirce, Charles Hartshorne and Paul Weiss, eds.
+  5
+     A. J. Ayer, Language, Truth, and Logic, p. 26.
+    IO                                INTRODUCTION
+
+     . . . that some experiential propositions can be deduced from it in con-
+     junction with certain other premises without being deducible from these
+     other premises alone." This is simply empiricism brought up to date. The
+     psychologistic formulations, an example of which may be found in Hume
+     (ideas must have their basis and origin in impressions), are replaced by
+     logical ones. The most helpful exposition of these concepts for physical
+     scientists was given by P. W . Bridgman.6 Realizing the close relation-
+     ship between knowledge and action, or as Dewey would put it, the place
+     of meaning in the context of inquiry, he asks by what procedures we de-
+     cide the validity of our assertions. Thus Bridgman maintains that con-
+     cepts and assertions are meaningless if no operations can be specified that
+     define the former and test the latter.
+       It was, however, a typical reductive fallacy on the part of Auguste
+    Comte to rule out as meaningless such a question as that concerning the
+    chemical constitution of the stars because at that time no procedure was
+    known to answer that question. Of course we can hardly blame him for
+    not having conceived of spectroscopy before Bunsen and Kirchhoff de-
+    veloped it, yet even in Comte's day it should have been clear that the im-
+    possibility of solving that problem was neither a physical nor a logical one.
+    It was a technical-practical difficulty of the sort that may have a bearing
+    on the fruitfulness of an inquiry but certainly not on the meaningfulness
+    of a question. Similar reductive fallacies are inherent in the insistence of
+    some of the more radical positivists that only directly and completely
+    verifiable or refutable sentences are factually meaningful. Although most
+    of these thinkers never intended as drastic a restriction of meaningful dis-
+    course as they were accused of doing in effect,7 it seems terminologically
+    more convenient today to classify as factually-meaningful all sentences
+    which are in principle capable of being confirmed or disconfirmed, i. e.,
+    capable of at least indirect and incomplete test.
+       Thus in a general classification of sentences and expressions we dis-
+    tinguish today: ( i ) Logically true sentences, also called analytic sen-
+    tences. (2) Logically false sentences, also called contradictions. These
+    sentences are true or false, respectively, by virtue of their form. Even if
+    descriptive empirical terms are contained in them they function only
+    "vacuously," and their factual reference is irrelevant to the validity of the
+X   sentence. (3) Factually true and (4) factually false sentences whose
+    validity depends upon their correspojidence to observed fact. In the major-
+    ity of instances this correspondence or non-correspondence is only incom-
+    pletely and indirectly indicated by whatever is immediately observable.
+    Therefore these sentences are usually not known to be true or false but
+      6
+        In The Logic of Modern Physics, N e w York, 1927.
+      7
+        Scientific laws, hypotheses, and theoretical assumptions, for example, were con-
+    sidered by them perfectly legitimate frames for the formation of empirical sentences
+    although, by terminological decision, they were not classified as genuine propositions.
+                              LOGICAL EMPIRICISM                                     II
+ are considered to be confirmed or discontinued to an extent which may
+ vary considerably with the accumulation of favorable or unfavorable
+ evidence. (5) Emotive expressions without cognitive meaning and the
+ emotive components of otherwise cognitive expressions. Pictorial, figur-
+ ative, and metaphorical expressions, exclamations, interjections, words of
+ praise or blame, appeals, suggestions, requests, imperatives, commands,
+ questions, and prayers belong to this category. Even in definitions we
+ recognize a motivational element: the resolution or invitation to use a
+ term in a certain way.
+    In the light of the preceding distinctions, we may say that an expres-
+ sion is devoid of empirical meaning (i. e., of factual reference) or, briefly,
+is -factually-meaningless, if it belongs to any one or several of the follow-
+ing five groups: (a) Expressions violating the syntactical formation-rules
+of a given language; (b) Analytic sentences; (c) Contradictory sentences;
+ (d) Sentences containing extra-logical terms for which no experiential or
+operational definitions can be provided; (e) Sentences whose confirm-
+ability, i. e., even indirect and incomplete testability-in-principle, is log-
+ically excluded by the assumptions of the system of which they are a
+part. 8
+    As indicated above, the positivistic critique of metaphysics is primarily
+an attack upon confusions of meanings and is not intended as a wholesale
+repudiation of what has been presented under that label. In point of fact,
+"metaphysics" has been used in such a wide variety of ways that here also
+a little logical analysis of meanings is indispensable. The customary defi-
+nitions of metaphysics as the discipline concerned with "first principles"
+or with "reality as a whole" are not illuminating as long as the methods of
+procedure remain unspecified. From the point of view of method, then,
+we may distinguish intuitive, deductive, dialectical, transcendental, and
+inductive metaphysics.
+   T o take the last-mentioned first, we may say that inductive meta-
+physics, in the sense of a speculative cosmology derived by extrapola-
+tion from scientific evidence and scientific theory, need not contain
+factually-meaningless elements at all. There is no sharp line between the
+inductive generalizations of common sense and science on one side and
+those of cosmology on the other. It scarcely needs to be mentioned that
+metaphysics in this sense, though logically unassailable, is open to criti-
+cism from the point of view of the criteria of adequacy and precision,
+   8
+     Illustrations: ad (a): "Soft is the square of green." "Nor here I you neither was."
+Also, Hegel's famous definitions of light and heat (these suffer as well from the defect
+classified under d). ad (b): "Octogenarians are more than ten years old." "Birds can
+build nests without previous training because they have nest-building instincts." ad
+ (c): "Octogenarians are sometimes more than ninety years old." Also, H. G. Wells'
+idea of a time-machine, ad (d): "Entelechies are responsible for the adaptability of
+organisms to their environment." "The true essence of electricity is undiscoverable."
+ad (e); The ether hypothesis; and metaphysical realism—both as discussed below.
+12                             INTRODUCTION
+
+reliability and fruitfulness. Conjectures regarding the heat-death of the
+universe, the origin of life, and the future of evolution may be perfectly
+meaningful. But anyone with even a superficial acquaintance with scien-
+tific method will realize how uncertain and vague these guesses must be.
+Occasionally they may be valuable as suggestions for new approaches in
+scientific research, but with the exception of a few notable instances like
+the ancient atomic hypothesis, they are apt to remain barren, if not actually
+misleading. Inductive metaphysics is thus merely the risky, sanguine, dis-
+reputable extreme of science.
+   The critique of meaning, however, applies with full force to the other
+approaches in metaphysics. Deductive metaphysics indulges in the rational-
+istic practice of producing factual conclusions of a relatively specific char-
+acter from a few sweepingly general (and often completely vague)
+premises. It thus misconstrues the nature of logical derivation and is guilty
+of a confusion of logical with factual meaning. Similarly, dialectical meta-
+physics, especially the Hegelian, confuses what may—most charitably in-
+terpreted—appear as a psychological thought-movement or as a form of
+historical processes with the logical forms of inference. Intuitive meta-
+physics, convinced of the existence of a privileged shortcut to "Truth,"
+mistakes having an experience for knowing something about it. Then, too,
+it is habitually insensitive to the distinction between pictorial and emotional
+appeals and factual meaning. Finally, transcendental metaphysics in its
+attempt to uncover the basic categories of both thought and reality may
+turn out to be nothing else than an unclear combination of epistemology
+and cosmology, which is then dignified with the name "ontology." It
+could thus be salvaged and restated in purified form. But it is precisely
+in ontology that we find the greatest accumulation of factually-meaningless
+verbalisms. Speculations concerning the "Absolute," even if not entirely
+devoid of empirical components, generally contain an ample measure of
+"absolutely" untestable pseudo-propositions. The customary excuse that
+further experience or reasoning will validate these ideas has no bearing on
+the question of meaningfulness. The most a patient empiricist can do
+here is to hope that doubtful promises to define empirically the terms, used
+so far only emotively, will sometime be fulfilled. But until that happens,
+the empiricist will fail to attach any glimmering of factual-meaning to the
+metaphysics which rotates about these terms.
+    To the empiricist one of the most gratifying trends in the history of sci-
+ence is the gradual liberation of theory from metaphysical bondage. The
+ideas of absolute space, time, and substance, of numbers as real entities,
+of the cause-effect relation as an intrinsic necessity, of vital forces and
+entelechies, and of all manner of obscure faculties and mythical powers
+have gradually disappeared from respectable science as it was seen that
+they were either ad hoc explanations or samples of verbal legerdemain
+or both. One incident in this process of growing epistemological sophis-
+                           LOGICAL EMPIRICISM                                I3
+tication must suffice for illustration. When after many experiments (Fizeau,
+Michelson-Morley, de Sitter, Trouton-Noble) physicists realized that it
+was hopeless to look for effects of the universal ether upon moving bodies,
+some of them were nevertheless not ready to give up the ether hypothesis.
+H. A. Lorentz, certainly one of the greatest physicists, pardoned the ether
+of its undiscoverability by postulating an ingenious set of assumptions,
+which jointly guaranteed that whatever effects might be produced by
+the ether, such effects would be exactly cancelled by other counter-
+effects. Einstein very soon afterwards realized that by this token the
+stationary-ether hypothesis had become not only scientifically superfluous
+but strictly meaningless as well. An essentially similar situation prevailed
+long before in the Newton-Leibniz controversy regarding absolute space
+and time in which Leibniz used arguments very much like those of the
+modern pragmatists and positivists.
+   A word of warning should not be amiss here. The danger of a falla-
+ciously reductive use of the meaning-criterion is great, especially in the
+hands of young iconoclasts. It is only too tempting to push a very difficult
+problem aside and by stigmatizing it as meaningless to discourage further
+investigation. If, for example, some of the extremely tough-minded psy-
+chologists relegate questions such as those concerning the instincts, the un-
+conscious, or the relative roles of constitution and environment to the
+limbo of metaphysics, then they cut with Ockham's razor far into the
+flesh of knowledge instead of merely shaving away the metaphysical
+whiskers. No meaningful problem is in principle insoluble, but there is no
+doubt that the human race will leave a great many problems unsolved.
+
+        T H E LOGICAL ANALYSIS OF EMPIRICAL KNOWLEDGE
+   The question "How do we know?" presupposes the question "What
+do we mean?", and in the pursuit of both these questions we find our-
+selves urged to reconstruct our knowledge and to justify its truth-claims
+on a basis of observational evidence. Not the origin and psychological
+development of knowledge but its logical structure and empirical valida-
+tion are the subject of a thus reformed epistemology. The psychology of
+knowledge (from the experimental study of discrimination behavior on
+the animal level to the scarcely begun investigation of the higher creative
+thought processes on the human level) is, after all, only one among the
+sciences and, therefore, itself one of the subjects of epistemological analysis.
+   As we shall deal with logical and mathematical knowledge somewhat
+more fully in the next section, only a few words are necessary to de-
+limit it from empirical knowledge. A pair of Kant's distinctions, though
+not his philosophy as it elaborates them, are most helpful here. He dis-
+tinguished between analytic (i. e., true by definition) and synthetic (i. e.,
+factual) sentences and between a priori (i. e., logically independent of ex-
+perience) and a posteriori (i. e., empirical) validity. All forms of em-
+14                             INTRODUCTION
+piricism agree in repudiating the existence of synthetic a priori knowledge.
+Here the logical empiricists differ from the pre- and the post-Kantian
+rationalists, from Kant and the Xeo-Kantians, as well as from Husserl, the
+phenomenologists, and the English intuitionists. Logical Empiricism, with
+Hume and Leibniz, places both mathematical knowledge and formal logic
+in the class of analytic and hence a priori truth. In this respect, Logical
+Empiricism differs from the extreme empiricism of Mill, who considered
+mathematics and most of logic synthetic a posteriori. We agree with Mill,
+however, in the statement that all factual knowledge depends for its
+validity upon confirmation by experience.
+   As a consequence of all this, the concept of truth is disclosed to be
+ambiguous. In mathematical knowledge truth amounts to accordance
+with the formal (syntactical) definitions, the postulates, of the system. In
+the factual context it means accordance with the empirical definitions,
+the semantical rules. Thus we call a sentence true if its terms are so applied
+to fact that none of the designation-rules of the language in question
+are violated. Error, whatever its source may be (illusion, misinterpretation
+of evidence, or only misspeaking), simply consists in the disrupting of the
+one-to-one or many-one correspondence between the terms in the sen-
+tence and their referents, i. e., the constituents of the facts described. This
+version of the "correspondence" view of truth has none of the psy-
+chologistic inadequacies of the earlier "copy" or "picture" versions.
+   Yet we are guilty here of one gross oversimplification, if not distortion,
+of the actual situation. We presupposed that sentences can simply be con-
+fronted with the states of affairs which they claim to represent. At best,
+this is the case for the sentences describing facts of direct observation, and
+even this has been seriously disputed by many a full-fledged empiricist.
+But whatever the status of these basic observational (or "protocol") sen-
+tences may be, it is obvious that most of our knowledge, and especially
+almost all of the more interesting and important part of it, is highly in-
+direct. It is shot through with interpretation, construction, and inference,
+and consequently is dependent on very general assumptions. It is
+here that empiricism finds itself confronted with what is traditionally
+considered to be its greatest problem: the validity of inductive inference
+and the meaning of probability. All attempts to "justify" inductive infer-
+ence on rational, empirical, intuitive, or probabilistic grounds have turned
+out to be utter failures. Hume's critique stands still unshaken. If all a priori
+knowledge is analytic, then we cannot deduce a synthetic assertion, like
+the principle of the uniformity of nature, from a priori premises. And if we
+try to validate induction on the basis of its certainly eminent success in the
+past, we are simply making an induction about induction and thus pre-
+suppose the very principle we set out to prove. Similarly question-begging
+are the intuitive and probabilistic approaches. Both must assume that the
+samples of the world immediately experienced or statistically observed are
+                          LOGICAL EMPIRICISM                               15
+fair samples, thereby relying also on an implicit premise of uniformity. In
+the same manner, Kant's ingenious twist of a transcendental deduction
+depends tacitly upon the constancy of the categories as embedded in our
+mental organization.
+   Logical Empiricism cuts the Gordian knot by bluntly asking the question,
+"What can 'justification' possibly mean here?" And the surprisingly simple
+answer is that the only clear meanings of that term in common life and
+science are deductive proof for one thing and exhibition of inductive evi-
+dence for another. The "great problem of induction," therefore, consisted
+in the impossible demand to justify the very principles of all justification.
+If we must have a Principle of Induction, though, it had better be formu-
+lated not as a piece of knowledge but as a rule of procedure. As such it
+turns out to be a tautology with an added directive appeal: If you wish
+to discover reliable laws, you must try, try, and try again to generalize from
+a maximum of past experience and as simply as feasible. Then, if there is an
+order in nature, not too deeply hidden or too complicated, you will find it.
+   In this manner we are able to avoid the skeptical and psychologistic
+features of Hume's animal faith doctrine. Anxious to avert metaphysical
+pseudo-solutions, Hume concluded with a reductive fallacy by declaring
+inductive inference irrational. Here even the illustrious Hume created a
+pseudo-problem by a misuse of terms. In ordinary language we call a
+person "rational" if he is capable of learning from experience. Thus "ra-
+tionality" does not even predominantly mean logicality in the narrower
+sense of formal consistency. The procedure of induction, therefore, far
+from being irrational, defines the very essence of rationality. The stub-
+born but misguided demand to know what we really don't know (or
+don't know yet) is perhaps only one of the expressions of an infantile quest
+for certainty.
+   A very similar, albeit somewhat more complex, group of confusions
+underlies the even more hotly argued issues of the reality of the external
+world and the existence of other minds. Reductive and seductive tendencies
+have dominated the scene here as elsewhere. Phenomenalists and subjective
+idealists, who rightly observe that knowledge must remain within the scope
+of experience (but note how vague that is), arrive at the conclusion of the
+immanence of the world within the human mind. (Any need to emphasize
+how absurd that is?) And metaphysical realists on the other hand, soundly
+maintaining that human experience is part and parcel of nature (very vague
+again), define the relation of subjective experience to the objective world
+in such a way that our knowledge of that world becomes something of a
+mystery, if not an outright impossibility. This has the logical result of mak-
+ing statements about the world by definition incapable of test. Analogous
+positions are taken in regard to the existence of "other minds."
+   Empirical Realism, held by most logical empiricists, removes the mean-
+ingless and the absurd elements from the contending philosophies in order
+

@@ -1,0 +1,645 @@
+        102   Great Problems in Philosophy and Physics - Solved?
+Chapter 8
+
+
+
+
+                                  o l o g y
+                      Ep    istem
+
+
+
+
+                                                             This chapter on the web
+                                             informationphilosopher.com/knowledge
+                                                   Epistemology           103
+
+
+Epistemology
+  Epistemology asks, “how do we know what there is?”
+   Immaterial information provides a new ground for
+epistemology, the theory of knowledge. We know something
+about the “things themselves” when we discover an isomorphism
+between our abstract ideas and concrete objects in the material
+world. Information philosophy goes beyond the logical puzzles
+
+
+
+
+                                                                            Chapter 8
+and language games of analytic philosophy. It identifies knowl-
+edge as information in human minds and in the external artifacts
+of human culture.
+    Abstract information is the foundation – the metaphysical
+ground – of both logic and language as means of communication.
+It is the part of a dualism parallel to the material substrate that the
+Greeks called ὑποκείμενον - the “underlying.” It gives matter its
+form and shape. Form informs.
+   Knowing how we know is a fundamentally circular problem
+when it is described in human language, as a set of logical propo-
+sitions. And knowing something about what exists adds another
+complex circle, if the knowing being must itself be one of those
+things that exists.
+   These circular definitions and inferences need not be vicious
+circles. They may simply be a coherent set of ideas that we use
+to describe ourselves and the external world. If the descriptions
+are logically valid and/or verifiable empirically, we think we are
+approaching the “truth” about things and acquiring knowledge.
+   How then do we describe the knowledge itself - an existing
+thing in our existent minds and in the existing external world?
+An information epistemology does it by basing everything on the
+abstract but quantitative notion of information.
+   Information is stored or encoded in physical and biological
+structures. Structures in the world build themselves, following
+natural laws, including physical and biological laws. Structures in
+the mind are partly built by biological processes and partly built
+by human intelligence, which is free, creative, and unpredictable.
+        104     Great Problems in Philosophy and Physics - Solved?
+
+                Knowledge is the Sum of information created and stored in
+              minds and in human artifacts like stories, books, and internet-
+              worked computers.
+              The History of Epistemology
+                Although the English word “epistemology” is relatively new
+              (coined in the 19th century), it has been known for centuries as
+              the problem of knowledge (Erkenntnisproblem in German), and
+              appears in the earliest philosophical works - by the Presocratics,
+Chapter 8
+
+
+
+
+              Plato and Aristotle, and especially by the Skeptics, who doubted
+              that it could be proved that knowledge is possible.
+                Sophists
+                 The great sophist Gorgias challenged the many physicists
+              (φυσικοι) who lectured and wrote on “what there is” in treatises
+              called “Peri Physis” (Περι Φύσις) - roughly, About Nature, or the
+              Nature of the Physical World.
+                 The content of a typical physicist/philosopher lecture in Gorgias’
+              time was usually in three parts:
+                Things exist
+                You can know what things exist
+                You can tell others about what exists
+                Gorgias is reported to have dazzled and delighted his audiences
+              by proving the opposites, by using nearly identical arguments:
+                Nothing exists
+                If by chance something did exist, you could not know anything
+              about it
+                If you did accidentally learn something about it, you could not
+              communicate your knowledge to others
+                The lesson we can take away from Gorgias is that arguments,
+              especially verbal reasoning alone, can be used to prove anything
+              by clever rhetoricians. Logical and linguistic arguments can tell us
+              nothing “true” about the physical world.
+                This is the problem of knowledge. How can we know - how can
+              we be certain about - what we know? It is related closely to the
+                                                           Epistemology          105
+
+question of what abstract concepts and physical objects (ontology
+and cosmology) exist in the universe - what are “the things them-
+selves” - for us to know.1 How is what we perceive through our
+senses related to the physical things and the abstract concepts that
+our reason tells us lies behind the laws of nature (metaphysics).
+  Plato/Socrates
+  In his Theaetetus, Plato tells us that Socrates considered,
+but ultimately rejected, three possibilities for what knowledge
+
+
+
+
+                                                                                   Chapter 8
+(ἐπιστήμη) is and how we come to have it.
+  • The first is perception (αἴσθησις). Our perceptions are “true”
+(ἀληθῆ), at least to us, a kind of private knowledge. But they may
+be dreams or illusions. (160D)
+   • The second is true (ἀληθῆ) opinion or belief (δόξαν). Socrates
+asserts that Protagoras’s relativistic argument that “man is the
+measure of all things,” means “what is true is what is true for
+me.” But “myriad” others may properly judge your opinion false
+(ψευδῆ).(170D)
+    • The third is true belief that had some reasons (λόγος) or jus-
+tification (συλλογισμῶ), a rational explanation for the belief. True
+(or right) opinion accompanied by reason is knowledge. (δόξαν
+ἀληθῆ μετὰ λόγου ἐπιστήμην εἶναι) (202C)
+   This third possibility that knowledge is “justified true belief ”
+has come down to modern times as the three-part “traditional”
+theory of knowledge. Although Socrates’ “negative” dialectic never
+established any certain knowledge, Plato believed that Socrates’
+method of inquiry (ἔλεγχος) is a way to achieve knowledge.
+   Nevertheless, the Theaetetus ends with Socrates’ utter rejection
+of perception, true belief, or even true belief combined with rea-
+sons or explanations as justification. Socrates says:
+      “And it is utterly silly, when we are looking for a definition of knowl-
+      edge, to say that it is right opinion with knowledge, whether of differ-
+      ence or of anything else whatsoever. So neither perception, Theaete-
+      tus, nor true opinion, nor reason or explanation combined with true
+      opinion could be knowledge (epistéme).”2
+
+  1       See chapter 3 on ontology.
+  2       Plato’s Theaetetus, (210A-B)
+        106       Great Problems in Philosophy and Physics - Solved?
+
+                Aristotle
+                 Aristotle revised his master Plato’s theory of Forms and Ideas.
+              Although he too sought the fundamental essences of things and
+              ideas (their Being - τὸ ὄν), for Aristotle all things were a combina-
+              tion of form (εἴδος) and matter (ὑλῆ), and understanding how real
+              physical things change (their Becoming) was as important as know-
+              ing their essences (their Being).
+                 In his Metaphysics, Aristotle dealt with the problem of knowl-
+Chapter 8
+
+
+
+
+              edge (epistemology) and with the question of Being (ontology of
+              both physical and abstract things). The opening line of Book I of
+              the Metaphysics is “All men desire knowledge by nature.” (πάντες
+              ἄνθρωποι τοῦ εἰδέναι ὀρέγονται φύσει.) He uses the word to know
+              (εἰδέναι ) based on “to have seen (the form).”
+                  Aristotle sharpened the use of language (dialectic) and logic as
+              our means of knowing to a level still in use today. He analyzed sub-
+              ject-predicate sentences and puzzled over the relationship between
+              being or essence and the copula “is.” He elucidated the simplest
+              rules of logic - needed for the reasoning (συλλόγος) behind jus-
+              tification of knowledge - the Law of Identity (A is A), the Law of
+              Non-Contradiction, and the Law of the Excluded Middle. And he
+              developed the rules for logical inference, identifying many types of
+              syllogism. Socrates had already identified the simplest syllogism -
+              S is M, M is P, therefore S is P.
+                 But Aristotle went beyond pure reason and the Platonic dialec-
+              tic. He added the need for demonstration (ἀποδειξις) to discover
+              the cause (ἀιτια) and find an explanation of a phenomenon. This
+              was the beginning of empirical knowledge, the observations and
+              experiments that form the basis of modern science, as opposed to
+              the kind of personal and subjective knowledge available directly to
+              our perception, intuition, or reflective introspection.
+                 Aristotle identified four basic causes (material, formal, efficient,
+              and final) and said that chance might be a fifth cause. Not every-
+              thing happens of causal necessity, but some things are just as chance
+              will have it, he said.
+                                                  Epistemology             107
+
+   He distinguished certain a priori knowledge, for example logic
+and mathematics, which was true by necessity, from the merely
+probable and contingent a posteriori knowledge of ethics and poli-
+tics. He denied that the truth of a proposition about the future
+entailed the necessity of a future event (as claimed by the actualist
+Diodorus Cronus). The future is open and contingent.
+   For Aristotle, there were different methods of inquiry and dif-
+ferent kinds of knowledge depending on the subject matter, for
+example knowledge of the things themselves in the external world
+
+
+
+
+                                                                             Chapter 8
+(ontology and metaphysics) that we would call today the physical
+sciences, and knowledge about people (ethics and politics) that
+today we would call the social sciences. We might add psychology,
+especially the subjective and reflective knowledge of self by intro-
+spection. And although he wanted to be more empirical than Plato,
+he held onto some necessary truths or first principles that were self-
+evident. He also recognized “theses” (θέσισ) and “axioms” (ἄξιος).
+   And Aristotle distinguished many kinds of logical argument.
+When the premises are true and certain (he does not explain how
+this can be the case except for those that are self-evident “first prin-
+ciples” - ἀρχὴ or πρῶτων), and when the deductive syllogism is cor-
+rect, the conclusions must follow. Aristotle calls this a demonstra-
+tion, the truth of it is apodeictic (ἀπόδειξις), a logical proof. The
+resulting knowledge is demonstrative knowledge (ἀποδεικτικὲω
+ἐπιστήμην).
+  Aristotle realized that not all reasons given to justify beliefs could
+themselves have reasons without an infinite regress or circular argu-
+ment, so he proposed that some reasons could be “self-evident”
+axioms, worth believing on their own merits or because they are
+popular opinion.
+  Returning to Plato here, Aristotle says that all parts of this dem-
+onstration - premises, deductions, and conclusions - are necessary.
+When the premises are popular opinion, their truth merely prob-
+able, the argument is dialectical. When the premises are false, the
+argument is sophistical, and can prove anything. Much of modern
+epistemology feels disturbingly sophistical.
+        108         Great Problems in Philosophy and Physics - Solved?
+
+                Skeptics
+                 Shortly after Aristotle, Pyhrro of Ellis reacted to the many
+              methods of inquiry (σκέπσις) and their knowledge claims by deny-
+              ing all of them. His skeptical followers argued that happiness and
+              serenity can be had by avoiding unjustified dogmatic knowledge
+              claims and simply follow traditional customs as a guide to life.
+                Plato’s Academy itself came to adopt skepticism under
+              Arcesilaus in the third century. Arcesilaus doubted that the senses
+Chapter 8
+
+
+
+
+              could discover truths about the physical world. Skeptics, especially
+              Carneades, who followed Arcesilaus as leader of the Academy,
+              denied the claims of their opponent Stoics as mere dogmatism.
+                 Philo of Larissa, the last leader of Academic Skepticism in
+              Athens, escaped the Mithradatic wars and went in 88 BCE to Rome
+              where he mentored Marcus Tullius Cicero. Cicero gave us per-
+              haps the best ancient comparison of the Stoic, Epicurean, and Skep-
+              tical schools of philosophy in his dialogue De Natura Deorum (On
+              the Nature of the Gods), which was David Hume’s model for his
+              Dialogues Concerning Natural Religion. and a source for his own
+              mitigated skepticism.
+                 Aenesidemus, the first-century leader of Academic skepticism in
+              Alexandria, qualified the obvious self-referential error in the skepti-
+              cal claim that nothing could be known. He encouraged a return to
+              Pyrrho’s suspension (εποχή) of any judgment. Aenesidemus identi-
+              fied ten tropes or modes of knowing by perception through different
+              senses, which he showed can be mutually inconsistent. Epistemo-
+              logical justification of any absolute objective knowledge is therefore
+              impossible.
+                According to Sextus Empiricus,3 these ten tropes were reduced
+              by Agrippa to five
+                     • Disagreement among the philosophers
+                     • An infinite regress of justification
+                     • Relativity - concepts are meaningful only in some context
+                     • Hypotheses cannot be self-evident
+                     • Circular reasoning
+
+                3     Outlines of Pyrrhonism, 1.164-77
+                                                Epistemology            109
+
+  And finally, Sextus Empiricus says (1.178-79) the reasons to
+suspend judgment can be reduced to only the first two. He says that
+nothing can be apprehended through itself (immediate knowledge)
+or through another thing (mediate knowledge) is shown by the
+controversies among the philosophers. And the infinite regress of
+reasons is caused by the lack of a criterion for truth (κριτεριόν τῆσ
+ἀληθείας). These two problems are still very much with us today,
+   An infinite regress arises when we ask what are the justifications
+
+
+
+
+                                                                          Chapter 8
+for the reasons themselves.
+   For the reasons to count as knowledge, they must themselves be
+justified with reasons for the reasons, etc., ad infinitum.
+  Stoics
+   Chrysippus, the greatest and most prolific of the Stoic leaders,
+separated the idea of necessity in certain knowledge from necessity
+in human actions, without denying the Stoic belief in physical deter-
+minism and fate. He helped to develop propositional logic, a lan-
+guage advance on Aristotle’s predicate logic that Gottlob Frege
+revived in the nineteenth century as the propositional calculus.
+  Chrysippus saw logic as the core of a divine reason that rules
+the universe. He saw Laws of Nature are synonymous with the
+Laws of God, since Stoics identified God with Nature. In his time,
+Chrysippus’ logic was considered superior to Aristotle’s.
+The Search for Knowledge Turns Inward
+  “What can I know with certainty?” asked René Descartes.
+What is it that cannot logically be doubted? Starting with his famous
+“Cogito, ergo sum,” Descartes said he could not doubt his own
+existence, then - since “God is no deceiver” - he could not be wrong
+about his perceptions. This is despite Plato, who knew perceptions
+can be illusions, such as the stick appearing bent in the water.
+   Descartes shifted the emphasis of knowledge from the external
+world to his internal thoughts, and began an effort to find indubita-
+ble truths as foundations for all knowledge. Descartes’ introspective
+“quest for certainty” changed the focus of problem of knowledge
+to what twentieth-century philosophy would come to call “founda-
+tionalism and “internalism”.”
+        110         Great Problems in Philosophy and Physics - Solved?
+
+                Even if Descartes could have arrived at subjective knowledge
+              that he personally could not doubt, such knowledge would be inac-
+              cessible to others. And others would be properly skeptical of his
+              egocentric knowledge claims.
+                 Gottfried Leibniz argued that certainty could be had for neces-
+              sary truths that are “true in all possible worlds.” Leibniz’s Principle of
+              Sufficient Reason was a claim that knowledge of the physical future
+              was implicit in the fact that every event has a sufficient cause. This
+Chapter 8
+
+
+
+
+              is despite Aristotle, who knew that future events might or might not
+              happen, for example, the famous “sea battle.”
+                David Hume, skeptical that anything could be proved true by
+              induction, declared causality to be simply a matter of repeated
+              conjunctions of apparent cause and effect. With his empirical
+              colleagues, John Locke and George Berkeley, he denied any
+              knowledge of the “things themselves” behind our perceptions. We
+              have only the sense impressions of Locke’s “secondary qualities.”
+                 Hume, following Leibniz, admitted as knowledge only two things,
+              analytical mathematical logical reasoning, and empirical facts. This
+              is essentially the analytic-synthetic knowledge distinction.
+                    “If we take into our hand any volume; of divinity or school metaphysics,
+                    for instance; let us ask, Does it contain any abstract reasoning concern-
+                    ing quantity or number? No. Does it contain any experimental reason-
+                    ing concerning matter of fact and existence? No. Consign it then to the
+                    flames: For it can contain nothing but sophistry and illusion.”4
+                Despite his skepticism about causality, Hume’s “naturalism” con-
+              vinced him of the practical truth of strict causal determinism.
+                 “What can I know?” asked Immanuel Kant. Faced with the
+              skepticism of Hume which put into doubt all phenomenal knowl-
+              edge gained by perception alone, Kant postulated a noumenal world
+              accessible to the mind by introspection. There the “things them-
+              selves” exist along with God, human freedom, and immortality. But
+              since they are outside the phenomenal world - the physical world
+              governed by strict causal deterministic laws of motion - Kant’s claim
+              to knowledge was as weak as Hume’s skeptical claim was strong.
+                4       Enquiry Concerning Human Understanding, section XII
+                                               Epistemology            111
+
+   Kant accepted Hume’s (and Aristotle’s) distinction between
+abstract analytic a priori knowledge and experimental or empirical
+synthetic a posteriori knowledge. But he claimed that the human
+mind imposed certain categories of understanding on the world,
+leading to some necessary empirical truths, or what he called syn-
+thetic a priori knowledge. Among these are that space must neces-
+sarily be Euclidean, that “7 + 5 = 12” is mathematically necessary,
+and that the deterministic laws of Newton must be strictly true.
+
+
+
+
+                                                                         Chapter 8
+   Although all these “truths” have been found empirically to be
+false, modern developmental psychology finds that some ideas are
+indeed “built-in” to the mind, as Kant held. Infants are born able
+to recognize continuity, contiguity, causality, and form. These con-
+ceptual abilities are transmitted genetically and are immediately
+available. They do not need a set of prior experiences from which
+to abstract. Konrad Lorenz described them as the experiences of
+our ancestors. What is a priori for ontogeny in the phenotype was
+a posteriori for the phylogeny of the genotype. Thus Locke’s tabula
+rasa dictum that everything that is known comes first through the
+senses is wrong.
+  The nineteenth-century hermeneuticists Schleirmacher and Dil-
+they argued for some knowledge accessible in non-scientific ways.
+They claimed that cultural knowledge can only be appreciated and
+understood by someone immersed in the culture.
+   Charles Sanders Peirce defined knowledge - truths about the
+real world - as that knowledge that would eventually be agreed upon
+“intersubjectively” by a community of inquirers who follow an open
+scientific method of hypothesis, deduction, and experimental test-
+ing of predictions by means of observations.
+   As to Descartes’ search for indubitable certain knowledge, Peirce
+agreed that any knowledge should be doubted. But, explaining
+Descartes’ two errors, Peirce says first that everything cannot be
+doubted at the same time. And second, that nothing is ever certain
+because the method of science always leaves open the possibility
+for improvements in our knowledge. Peirce’s pragmatic “truth” is
+something that is only asymptotically approached over time by the
+intersubjective agreement of an open community of inquirers.
+        112       Great Problems in Philosophy and Physics - Solved?
+
+                 Peirce’s “pragmatic” philosophy identified truth with beliefs that
+              informed action and had valuable consequences. This led to John
+              Dewey’s idea of truth as “warranted assertability,” with the warrants
+              to be found in the empirical consequences.
+                Bertrand Russell declared that science is the only source of
+              knowledge, “What science cannot discover, mankind cannot know.”
+              This came to be called “scientism.”
+                  Logical empiricists, following Russell’s student and colleague
+Chapter 8
+
+
+
+
+              Ludwig Wittgenstein, could never agree on the method of jus-
+              tification. The Vienna Circle philosophers, Rudolf Carnap and
+              Moritz Schlick, never could get general agreement on what con-
+              stitutes the “verification” of a proposition about the world.
+                 A. J. Ayer, who sat in on some Vienna Circle meetings, put their
+              ideas forward in his book Language, Truth, and Logic. He said (again
+              following Hume and Aristotle) that two kinds of propositions are
+              meaningful - analytic sentences (tautologies and definitions of lan-
+              guage terms) or statements that can be empirically verified.
+                Karl Popper denied that “verification” could ever lead to certain
+              knowledge, but argued that even one negative experimental result
+              can “falsify” a proposition.
+                 In the early 1950’s, Willard van Orman Quine challenged the
+              ancient analytic-synthetic distinction, arguing that in the end the
+              “truth” of analytic statements, the proofs of mathematical theorems,
+              and the use of logic, also depend on some empirical verification.
+                 The key idea of Quine’s empiricism is to deny the existence of any
+              a priori knowledge of the world (or of words - statements, proposi-
+              tions), whether analytic or synthetic. As Peirce had said, nothing is
+              logically and necessarily true of the physical world. Logical truths
+              like the Principles of Non-Contradiction and Bivalence (Excluded
+              Middle) might be true in all possible worlds, but they tell us nothing
+              about our physical world, unless they are applicable and empirically
+              verified.
+                                                    Epistemology              113
+
+  Gettier Problems
+   In 1963, Edmund Gettier published two logical counterex-
+amples to knowledge defined as justified true belief. His counterex-
+amples were true, but not for the reasons cited as the evidence for
+justification. So the result is a justified false belief, or perhaps simply
+not knowledge.
+   The conditions postulated in Gettier-type examples are extraor-
+dinarily unlikely to occur, but the mere possibility demonstrates the
+
+
+
+
+                                                                                Chapter 8
+difficulty of making logical arguments about contingent real world
+situations. The most sophisticated linguistic analysis is problematic
+as a source of “truth” or justification.
+  There is a technical similarity between Gettier cases and Frank-
+furt-type examples of an agent who apparently acts “freely” but a
+counterfactual demon ensures that there is only one possibility for
+action. In 1969 Harry Frankfurt developed logical counterex-
+amples to the traditional idea that alternative possibilities are a pre-
+requisite for free agency, because compatibilism had no alternatives.
+   Gettier cases artificially construct a “true” situation which is not
+true for the apparent reasons. Frankfurt cases artificially construct
+a “free” action in which the agent actually is not free to choose the
+apparent alternative possibilities. Gettier and Frankfurt cases have
+spawned a vast philosophical literature in the past few decades. But
+they have produced little advance in understanding either knowl-
+edge or freedom. They are little more than clever examples of the
+sophistry in today’s analytic language philosophy.
+   Skepticism alone should have indicated that logical proofs of
+knowledge, or logical analyses of any justification scheme for
+knowledge, were bound to fail. Gettier and Frankfurt cases are
+applied skepticism or sophistry that cast doubt on the likely valid-
+ity of common sense justifications and knowledge, by developing
+extremely unlikely if not implausible cases. They depreciate the
+value of the central project of epistemology, which is to help us to
+know (if only in a virtuous circle) when our arguments for knowl-
+edge are as strong as we can make them.
+        114       Great Problems in Philosophy and Physics - Solved?
+
+                Epistemology Returns to “Externalist” Justification
+                 Until the 1960’s, debates in epistemology were primarily divided
+              between Cartesian foundationalist and coherentist theories of justi-
+              fication, both of which focused on egocentric subjective “internal-
+              ist” theories.
+                 Until Descartes’s turn inward, theories of knowledge had assumed
+              that justification included the relation of beliefs to objects and events
+              in the world. Descarte’s “internalist” turn continued well into the
+Chapter 8
+
+
+
+
+              twentieth century, with most epistemologists endorsing his “foun-
+              dationalist” theory of knowledge. They included C.I. Lewis (1946),
+              Roderick Chisholm, John Pollock (1986), Richard Foley (1987),
+              Paul Moser (1989), William P. Alston (1989), and Robert Audi
+              (1993).
+                 But several philosophers moved toward an “external” view of
+              epistemology. As early as the 1920’s, Frank Ramsey had proposed
+              the idea of reliability, which depends on some kind of external
+              causal process. He said that a belief was knowledge if it was (i) true,
+              (ii) certain, and (iii) obtained by a reliable process.
+                 In 1967, Alvin Goldman amplified the Ramsey view, endors-
+              ing both a “causalist” theory of knowledge and what he called
+              “reliabilism.”He claimed that justification for a belief is to be found
+              in the natural cause of the belief.
+                In 1971, Fred Dretske offered what he called “Conclusive Rea-
+              sons” as a form of justification. They included evidence, grounds,
+              and reasons.
+                 In 1973, David Armstrong called for a return to what he called
+              “externalism,” defined as “a certain relation holding between the
+              believer and the world.” For example, one can not only believe, but
+              know, that the room is hot because the excessive heat one feels is the
+              cause of one’s belief. Armstrong further divided externalist theories
+              into “causal” (like Goldman) and “reliability” (like Dretske and
+              Ramsey) theories.
+                There are other externalist theories, including naturalism, evi-
+              dentialism, and evolutionary epistemology.
+                                                             Epistemology          115
+
+    Epistemology Naturalized
+   In the late 1960’s, Willard van Orman Quine argued that
+epistemology, the justification of knowledge claims, should be
+“naturalized.” All knowledge claims should be reduced to verifi-
+cation by the methods of natural science. “For suppose we hold,”
+he says, “with the old empiricist Peirce, that the very meaning of a
+statement consists in the difference its truth would make to possible
+experience.” Quine wrote:
+
+
+
+
+                                                                                     Chapter 8
+     “The Vienna Circle espoused a verification theory of meaning but did
+     not take it seriously enough. If we recognize with Peirce that the mean-
+     ing of a sentence turns purely on what would count as evidence for its
+     truth, and if we recognize with Duhem that theoretical sentences have
+     their evidence not as single sentences but only as larger blocks of theory,
+     then the indeterminacy of translation of theoretical sentences is the nat-
+     ural conclusion.
+     “Philosophers have rightly despaired of translating everything into
+     observational and logico-mathematical terms. They have despaired of
+     this even when they have not recognized, as the reason for this irreduc-
+     ibility, that the statements largely do not have their private bundles of
+     empirical consequences. And some philosophers have seen in this irre-
+     ducibility the bankruptcy of epistemology. Carnap and the other logi-
+     cal positivists of the Vienna Circle had already pressed the term “meta-
+     physics” into pejorative use, as connoting meaninglessness; and the
+     term “epistemology” was next. Wittgenstein and his followers, mainly
+     at Oxford, found a residual philosophical vocation in therapy: curing
+     philosophers of the delusion that there were epistemological problems.
+     “Epistemology, or something like it, simply falls into place as a chapter
+     of psychology and hence of natural science. It studies a natural phenom-
+     enon, viz., a physical human subject...
+     “The old epistemology aspired to contain, in a sense, natural science; it
+     would construct it somehow from sense data. Epistemology in its new
+     setting, conversely, is contained in natural science, as a chapter of psy-
+     chology. But the old containment remains valid too, in its way... There
+     is thus reciprocal containment, though containment in different senses:
+     epistemology in natural science and natural science in epistemology.”5
+   Although Quine’s reciprocal containment suggested that epis-
+temology might still play a foundational role in scientific under-
+standing, his work appeared to many to reduce epistemology to
+psychology. Quine seemed to deny the normative role of traditional
+epistemology to justify all knowledge, including scientific knowl-
+edge. An information epistemology can restore that role.
+5        Ontological Relativity and Other Essays 1969, pp.80-3
+        116         Great Problems in Philosophy and Physics - Solved?
+
+                An Information Epistemology?
+                 Second only to Kant‘s “scandal” that philosophers cannot
+              logically prove the existence of the external world, it is scandalous
+              that professional philosophers are in such profound disagreement
+              about what it means to know something. They may not all be wrong,
+              but few of them are likely to be right.
+                 This is especially dismaying for those epistemologists who still
+              see a normative role for philosophy that could provide a founda-
+Chapter 8
+
+
+
+
+              tion, perhaps even a priori, for scientific or empirical, a posteriori
+              knowledge.
+                 Information epistemology avoids the traditional identification of
+              knowledge with “belief.” Belief is a psychological state that may be,
+              and often is, disjoint from knowledge. We may empirically verify
+              that a person knows something by analyzing her behavior, without
+              her consciously articulating or holding a belief in that knowledge.
+              A famous example is the difference between linguistic competence
+              and mere performance, knowing the grammatical rules for one’s
+              language without being able to state those rules. Those rules have
+              been learned tacitly, by multiple trials and errors, and stored in a
+              person’s mind, in our experience recorder and reproducer (ERR).6
+                 Human knowledge is not only information stored in the mind. It
+              is also recorded in human artifacts like stories, books, buildings, and
+              internetworked computers. Knowledge is information that forms
+              the basis for human thoughts and actions. In information philoso-
+              phy, knowledge is information that is “actionable,” meaning that if
+              we act on the basis of the information, our actions will have fruitful
+              consequences. The validity or pragmatic “truth” of knowledge is to
+              be found in those consequences.
+                 Since information is also stored in animal minds, we can reject
+              the exceptionalist fiction that only humans can have knowledge.
+              Where humans are indeed exceptional is their ability to communi-
+              cate their knowledge - and their reasons for their knowledge - sym-
+              bolically by means of language.
+                Information is stored or encoded in information structures.
+              Although structures in the material world build themselves,
+                6     See Appendix E for details.
+                                               Epistemology            117
+
+following natural laws, they do not assemble themselves. This is the
+material first world of information philosophy.
+   In our second world, biological systems are cognitive systems in
+the sense that they also process and communicate knowledge (infor-
+mation). They bring purpose into the universe. They are “teleo-
+nomic.” They cannot be reduced to the laws of physics and chem-
+istry. They are not machines, which must be assembled. Biological
+systems assemble themselves, using their internal knowledge. This
+
+
+
+
+                                                                         Chapter 8
+is the biological second world of information philosophy.
+  Structures in the mind are partly built by biological processes
+and partly built by human intelligence, which is free, creative, and
+unpredictable. The information in mental structures is uniquely
+mobile. It is not confined to its structure. As knowledge, it is the
+immaterial stuff of thought - our ideal third world.”
+   A majority of the Sum of unique human knowledge may now be
+stored external to our minds. Even collectively, we don’t know (in
+the sense of having it in mind) all that we know. But we (including
+almost anyone in the world) can look it up extremely quickly.
+   Among the sources of knowledge are the theories and experiments
+of natural scientists, who collaborate to establish our knowledge
+of the external world, social scientists who study our cultures,
+and psychologists, cognitive scientists, and neuroscientists, who
+investigate our personal subjective worlds.
+   To the extent of the correspondence, the isomorphism, the one-
+to-one mapping, between structures (and processes) in the world
+and representative information structures in our minds, we can
+claim to have knowledge of the world, and of other minds.
+   Such knowledge claims are not based on logical arguments about
+justification, but on the pragmatic truth that the knowledge has
+consequences that can be empirically or “naturally” confirmed.
+  Information epistemology is a naturalized epistemology.
+

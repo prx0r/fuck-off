@@ -1,0 +1,498 @@
+# 344   Great Problems in Philosophy and Physics - Solved?
+
+**source:** pdf · **section:** books
+**file:** Entropy
+---
+
+
+                               py a n d
+                          t ro
+                       En nd Law
+                        Seco
+Appendix B
+
+                                                                  This chapter on the web
+                                         informationphilosopher.com/introduction/physics
+                                    Entropy and Second Law               345
+
+Entropy and the Second Law
+   Every scientist who made a major contribution to the probabi-
+listic nature of the world had some doubts as to whether the use
+of probability implies that chance is real. Is the appearance of ran-
+domness just a consequence of the limits on human knowledge
+and merely epistemological? Or is randomness a fundamental
+part of the external world and thus ontological? Quantum physics
+says chance is ontological and the laws of physics are statistical.
+   In 1860, James Clerk Maxwell was the first physicist to use
+statistics and probability. He discovered the distribution of veloci-
+ties of atoms or molecules in a gas. Although there was no real
+evidence for the existence of atoms until Albert Einstein’s work
+on Brownian motion in 1905, Maxwell and Ludwig Boltzmann
+showed that the macroscopic laws of thermodynamics could be
+explained if gases consist of microscopic atoms in motion. They
+used the calculus of probabilities to reduce thermodynamics to sta-
+tistical mechanics.
+  This is despite the fact that they knew next to nothing about the
+details of processes at the atomic level.
+   Paradoxically, ignorance of microscopic details is overcome by
+the power of averages over large numbers of cases. The average
+value of any property gets more and more accurate as the number
+of independent events gets large. The number of gas particles in a
+cubic centimeter of air is truly astronomical, close to the number         Appendix B
+of stars in the observable universe. For this reason, thermody-
+namic gas laws like PV = NkT derived from statistical mechanics
+are highly accurate, well beyond experimental error. This accuracy
+suggests the laws are deterministic. But they are only adequately
+or statistically deterministic. Determinism is an illusion.1
+Discrete Particles
+   To refine a famous comment by Richard Feynman, if there is
+just one fact that could survive the destruction of knowledge, so as
+to give future scientists the fastest recovery of physics, it would be
+  1     See chapter 19.
+         346      Great Problems in Philosophy and Physics - Solved?
+
+               that the contents of the universe are made up of discrete particles,
+               not fields. This is now the standard model of particle physics. It
+               grew out of the study of ordinary gases.
+
+                   Figure 30-5. The perfume molecules dissipate until they are uniformly distributed.
+               Classical statistical physics mistakenly claims that if the velocities of all the particles
+               were reversed at an instant, the molecules would return to the bottle. It assumes that the
+               complete path information needed to return to the bottle is preserved. But information
+               is not conserved. It can be created and it can be destroyed. We shall show why such
+               microscopic reversibility is extremely unlikely.
+
+                  Gas particles are distributed in ordinary coordinate space (x, y,
+               z) and in a conjugate momentum (p = mv, mass times velocity)
+               space (px, py, pz).
+                 These two spaces are combined to form a six-dimensional
+               space called a “phase space,” one element of which is Δx Δy Δz
+               Δpx Δpy Δpz. At equilibrium, when average density is the same
+               everywhere, particles are found distributed in proportion to the
+               volume of those spaces. But phase space elements are weighted
+               by an exponential factor that reduces the probability of particles
+Appendix B
+
+               being found in higher energy spaces. The factor is
+                  e - p2/2mkT = e - E / kT, today known as the “Boltzmann factor,”
+               though it was first found by Maxwell.
+                  E is the particle energy, p is the particle momentum, T is the
+               absolute temperature (in degrees Kelvin), e is the base of natu-
+               ral logarithms, and k is Boltzmann’s constant (so named by Max
+               Planck). As E increases, the probability of finding particles with
+               that energy decreases exponentially. But as the temperature T
+               rises, the probability of finding particles with any given energy
+               E increases.
+                                            Entropy and Second Law                        347
+
+   With the hindsight of quantum physics, we can envision the dis-
+tribution of particles as the integer number (“occupation number”)
+of particles in the smallest possible volumes of this 6-dimensional
+“phase space” allowed by quantum mechanics. These have the
+dimensions of h3, where h is Planck’s constant. h has the dimensions
+of action (momentum times position). It’s called the “quantum of
+action.”
+   This minimum phase space volume of h3 can be understood as
+the result of Heisenberg’s uncertainty principle for each dimension,
+Δp Δx = h. It is as if space itself is divided into these small “cells.” But
+space is continuous, like time. Space and time are abstract tools for
+assigning numbers to particle properties like location and motion.
+The minimum volume h3 corresponds to locations and momenta
+where there is a non-zero probability of finding a discrete particle.
+   Although classical statistical mechanics did not include these
+quantum volumes, Boltzmann did divide phase space into discrete
+“coarse-grained” volumes for calculation purposes. This important
+new insight of classical statistical mechanics was accepting the rad-
+ical idea of the ancient Greeks Democritus and Leucippus that
+matter comes in indivisible discrete discontinuous lumps.
+
+                                                                                            Appendix B
+
+  Figure 30-6. The number of particles with a given velocity at different temperatures.
+         348       Great Problems in Philosophy and Physics - Solved?
+
+                 Maxwell not only accepted the idea of atoms and molecules, he
+               deduced their distribution among different velocities,
+                                                  2
+                 N(v) = (2πmkT)-3/2 4πv2 e-mv /2kT
+                  When heat is added and the temperature rises, the average veloc-
+               ity gets higher and there are fewer particles with low velocities,
+               since the total number of molecules is a constant. Note that it was
+               Maxwell who first found the exponential decay at higher energies
+                   2
+               e-mv /2kT, now called the “Boltzmann factor.”
+                  Maxwell did not know about the future Boltzmann’s constant k
+               and its relationship to temperature, but he knew that the exponen-
+               tial term is a measure of the average velocity squared, and so of the
+               average energy (mv2/2).
+                  The Maxwell-Boltzmann velocity distribution has two distinct
+               regions which were critically important in Max Planck’s attempt
+               to discover the distribution of electromagnetic radiation. For very
+               low energies, the number rises as the square of the velocity. It turns
+               around at a maximum near the average velocity. It then declines
+               slowly like the long exponential tail of the normal distribution of
+               errors because of the Boltzmann factor.
+                 Boltzmann explained that probabilities can give definite results
+               because of the large number of particles in a gas, but that the use of
+               probabilities does not imply any uncertainty. He wrote:
+                  The mechanical theory of heat assumes that the molecules of a gas are
+                  not at rest, but rather are in the liveliest motion. Hence, even though
+Appendix B
+
+                  the body does not change its state, its individual molecules are always
+                  changing their states of motion, and the various molecules take up many
+                  different positions with respect to each other. The fact that we neverthe-
+                  less observe completely definite laws of behaviour of warm bodies is to
+                  be attributed to the circumstance that the most random events, when
+                  they occur in the same proportions, give the same average value. For the
+                  molecules of the body are indeed so numerous, and their motion is so
+                  rapid, that we can perceive nothing more than average values.
+                   Boltzmann refers One might compare the regularity of these aver-
+                   to the social         age values with the amazing constancy of the
+                                         average numbers provided by statistics, which are
+                   statistics of Buckle
+                                         also derived from processes each of which is
+                   and Quételet          determined by a completely unpredictable inter-
+                                         Entropy and Second Law                   349
+
+    action with many other factors. The molecules are likewise just so many
+    individuals having the most varied states of motion, and it is only
+    because the number of them that have, on the average, a particular state
+    of motion is constant, that the properties of the gas remain unchanged.
+    The determination of average values is the task of probability theory.
+    Hence, the problems of the mechanical theory of heat are also problems
+    of probability theory.
+    It would, however, be erroneous to believe that the mechanical theory of
+    heat is therefore afflicted with some uncertainty because the principles
+    of probability theory are used. One must not confuse an incompletely
+    known law, whose validity is therefore in doubt,             In the 1870’s,
+    with a completely known law of the calculus of Boltzmann clearly
+    probabilities; the latter, like the result of any other   saw probability
+    calculus, is a necessary consequence of definite
+    premises, and is confirmed, insofar as these are cor-       as completely
+    rect, by experiment, provided sufficiently many             deterministic.
+    observations have been made, which is always the case in the mechani-
+    cal theory of heat because of the enormous number of molecules
+    involved.2
+The Second Law of Thermodynamics
+   Beyond his ability to visualize the above “liveliest states of motion”
+for atoms, Boltzmann’s greatest work was his attempt to prove the
+second law of thermodynamics. The second law says that isolated
+systems always approach thermal equilibrium. Entropy or disor-
+der always increases. Boltzmann showed that if the velocities of gas
+molecules were initially not in the Maxwell distribution above, they
+would always approach that distribution, and do it rapidly at stan-
+dard temperatures and pressures (as we all know from experience).
+  Boltzmann then developed a mathematical expression for entropy
+                                                                                    Appendix B
+(he called it H), the quantity in classical thermodynamics that is a
+maximum for systems in thermal equilibrium.
+   At first Boltzmann tried to do this with the dynamical theories
+of classical mechanics. The particles in his system would move
+around in phase space according to deterministic Newtonian laws.
+They collide with one another as hard spheres (elastic collisions). He
+included only two-particle collisions, assuming three-particle colli-
+sions are rare. As it turns out, three-particle collisions are essential
+for proving Boltzmann’s insights, but calculations are difficult.
+  2     “Further Studies on the Thermal Equilibrium of Gas Molecules,”
+  Vienna Academy of Sciences, 1872
+         350         Great Problems in Philosophy and Physics - Solved?
+
+                  But Boltzmann’s mentor, Josef Loschmidt, criticized the results.
+               Any dynamical system, he said, would move in reverse if all the par-
+               ticles could have their velocities reversed. Apart from the practical
+               impossibility of doing this, Loschmidt had shown that systems could
+               exist for which the entropy should decrease instead of increasing.
+               This is called Loschmidt’s Reversibility Objection, or the problem of
+               microscopic reversibility.3
+                  Loschmidt’s criticism forced Boltzmann to reformulate his proof
+               of the second law with purely statistical considerations based on
+               probability theory.
+                  He looked at all the possible distributions for particles in phase
+               space consistent with a given total energy. Since phase space is
+               continuous, there is an infinity of positions for every particle. So
+               Boltzmann started by limiting possible energy values to discrete
+               amounts ε, 2ε, 3ε, etc. He thought he would eventually let ε go to
+               zero, but his discrete “coarse-graining” gets him much closer to
+               modern quantum physics. He replaced all his integrals by discrete
+               sums (something the “founders of quantum mechanics” in the nine-
+               teen-twenties would do).
+                 Boltzmann then found the following expression that when
+               summed over all the possible discrete energy states has the desired
+               property of irreversible statistical increase,
+                 Σ f(E) log f(E), where f (E) is the fraction of states with energy E.
+                 In 1948, Claude Shannon found a similar expression to describe
+Appendix B
+
+               the amount of information, Σi pi log pi , thus connecting his commu-
+               nication of information to Boltzmann’s entropy
+                 Today scientists identity Boltzmann’s expression with the ther-
+               modynamic entropy S, defined as the change of heat Q added to a
+               system, divided by the temperature T,
+                 dS = dQ/T.
+                 3     See chapter 25 on irreversibility.
+                                         Entropy and Second Law              351
+
+   In terms of a sum over possible states, S is now written as the
+logarithm of the total number of possible states W multiplied by
+Boltzmann’s constant,
+  S = k log W.
+   Boltzmann was discouraged to find that a group of scientists, who
+still hoped to deny the existence of atoms, continued to criticize his
+“H-Theorem.” They included Henri Poincaré, an expert on the
+three-body problem, Max Planck, who himself hoped to prove
+the second law is not statistical but absolute, and a young student of
+Planck’s named Ernst Zermelo who was an extraordinary math-
+ematician, later the founder of axiomatic set theory.
+   Poincaré’s work on the three-body problem suggested that,
+given enough time, a bounded world, governed only by the laws of
+mechanics, will always pass through a state very close to its initial
+state. Zermelo accepted Boltzmann’s claim that a system will most
+likely be found in a macrostate with the largest number of micro-
+states, but he argued that given enough time it would return to a
+less probable state. Boltzmann’s H-Theorem of perpetual increase
+of entropy would therefore be incorrect sometime in the long run.
+   Information physics has shown that, when quantum physics and
+the interaction of electromagnetic radiation with matter are taken
+into account, Loschmidt’s reversibility objection and Zermelo’s
+recurrence objection fail to prevent entropy from increasing indefi-
+nitely in our open universe.4
+                                                                               Appendix B
+   Unfortunately for Boltzmann, he died just before the significance
+of radiation and the quantum were appreciated, and just as Ein-
+stein proved the existence of his atoms. And ironically, it was Max
+Planck, Zermelo’s mentor and one of those strongly opposing both
+Boltzmann’s ideas of atoms and his use of statistics, who was to cor-
+rectly guess the distribution law for electromagnetic radiation.
+  Adding to the injustice, to develop his radiation law, Planck used
+Boltzmann’s own statistical ideas, his assumption about discrete
+  4    See chapter 25 on irreversibility and 26 on the recurrence problem.
+         352         Great Problems in Philosophy and Physics - Solved?
+
+               energies, coarse graining, and his ideas about entropy. The radia-
+               tion distribution has almost exactly the same shape as the Maxwell-
+               Boltzmann distribution for particle velocities. You can see the initial
+               rise as the square of the radiation frequency ν, and after the maxi-
+               mum the decline according to the Boltzmann factor e - hν / kT, where
+               the energy E = hν is Planck’s new constant h times the radiation
+               frequency. The reason for the similarity is profound, electromag-
+               netic radiation - light is also made of particles, as Einstein brilliantly
+               hypothesized in 1905.
+                  B (ν) = 8πhν3/ c3 (ehν/kT -1)-1
+                  Figure 30-5 shows the number of photons with a given frequεncy
+               at different temperatures. When heat is added and the temperature
+               rises, the average energy gets higher at all frequencies. The frequency
+               at which energy is a maximum moves to higher frequencies. Unlike
+               the Maxwell-Boltzmann distribution above (Figure 30-4), where
+               the total number of molecules is a constant, additional heat shows
+               up as more photons at all frequencies. The number of photons is not
+               conserved. So the area under the radiation curve grows with tem-
+               perature, where the area under the particles curve is a constant.
+Appendix B
+
+                   Figure 30-7. Planck’s radiation distribution law is often presented as a function of wave-
+               length rather than frequency, but this masks the similarity with the Maxwell-Boltzmann
+               distribution of particles.
+                                     Entropy and Second Law                  353
+
+   Compounding the irony and injustice for Boltzmann still further,
+Planck, who was long the opponent of discrete particles and statisti-
+cal mechanics, used Boltzmann’s assumption that energies come in
+discrete amounts, ε, 2ε, 3ε, etc. Planck called them quanta of energy
+hν, 2hν, 3hν, proportional to frequency ν, where h is a new constant,
+now named for Planck. He thereby named and launched the twen-
+tieth-century development of quantum mechanics, without really
+understanding the full implications of quantizing the energy. Planck
+thought quantization was just a mathematical trick to get the right
+formula for the blackbody radiation law.
+   Albert Einstein said that “the formal similarity between the curve
+of the chromatic distribution of thermal radiation and the Max-
+wellian distribution law of velocities for gas particles is so striking
+that it could not have been hidden for long.” But for over twenty
+years few others than Einstein saw so clearly the implication that
+light itself is a localizable quantized discrete particle just as any par-
+ticle of matter! Planck refused to believe this for many years.
+  So did Niels Bohr, despite his famous 1913 work that quantized
+the energy levels for electrons in his Bohr model of the atom.
+   Bohr postulated two things, 1) that the energy levels in the atom
+are discrete and 2) that when an electron jumps between levels it
+emits or absorbs energy E = hν, where the radiated energy E is the
+difference between the two energy levels in the atom, E = En - Em.
+   After independently developing the theory of statistical mechan-
+ics in 1902-1904, extending it well beyond Boltzmann, Einstein
+                                                                               Appendix B
+hypothesized in 1905 that light comes in bundles of localized energy
+that he called light quanta (now known as photons). Although it is
+hard to believe, Bohr denied the existence of discrete photons well
+into the nineteen-twenties, although today’s textbooks teach that
+quantum jumps in the Bohr atom emit or absorb photons (a grave
+this case an injustice to Einstein. Bohr insisted until the middle
+1920’s that the radiation in his discrete quantum jumps is a continu-
+ous wave. He was most reluctant to accept Einstein’s work, to depart
+from Maxwell’s classical laws of electromagnetism.
+         354         Great Problems in Philosophy and Physics - Solved?
+
+                  Einstein had told friends that his hypothesis of light quanta was
+               more revolutionary than his theory of special relativity published
+               the same year. It was Einstein, not Planck or Bohr or Heisenberg,
+               who should be recognized as the father of quantum theory. He first
+               saw mysterious aspects of quantum physics like wave-particle dual-
+               ity, nonlocality, entanglement, and the ontological nature of chance,
+               perhaps more deeply than any other physicist has ever seen them.
+                 Einstein famously abhorred chance (“God does not play dice”),
+               but he did not hesitate to tell other physicists that chance seems to
+               be an unavoidable part of quantum theory.
+               Entropy Flows in the Universe
+                 Creation of information structures means that in parts of the
+               universe the local entropy is actually going down. Creation of a
+               low entropy system is always accompanied by transfer of positive
+               entropy away from the local structures to distant parts of the uni-
+               verse, into the night sky for example.
+                  My Harvard colleague Eric Chaisson studied energy rather
+               than entropy. He saw energy consumption or production per gram
+               a better measure of complexity in cosmic evolution. He wrote,
+                     When examined on a system-by-system basis, information content can
+                     be a slippery concept full of dubious semantics, ambivalent connota-
+                     tions, and subjective interpretations. Especially tricky and controversial
+                     is meaningful information, the value of information...The conceptual
+                     idea of information has been useful, qualitatively and heuristically, as
+                     an aid to appreciate the growth of order and structure in the Universe,
+Appendix B
+
+                     but this term is too vague and subjective to use in quantifying a specific,
+                     empirical metric describing a whole range of real-world systems. 5
+                  But information philosophy sees matter and energy as conserved
+               quantities that need information concepts to explain how they do
+               what they do. As the universe expands, both positive and nega-
+               tive entropy are generated.6 The normal thermodynamic entropy
+               is known as the Boltzmann Entropy. The negative entropy, often
+               called the Shannon Entropy, is a measure of the free energy content,
+               energy that is available to do useful work or become information.
+                 5       Cosmic Evolution: The Rise of Complexity in Nature, p.132.
+                 6       As shown by our common mentor at Harvard, David Layzer.
+                                          Entropy and Second Law        355
+
+  Figure 30-8. David Layzer’s growth of information in the universe
+
+   “Negative entropy” is simply the difference between the maxi-
+mum possible entropy (where all the particles in a physical system
+would be in a maximum state of disorder, there would be no visible
+structure or available free energy) and the actual entropy.
+   For matter in thermodynamic equilibrium, there is only motion
+of the microscopic constituent particles (“the motion we call heat”).
+The existence of macroscopic structures, such as the stars and plan-      Appendix B
+ets, and their motions, is a departure from thermodynamic equilib-
+rium. And that departure we call the “negative entropy.”
+   The second law of thermodynamics says that the entropy (or dis-
+order) of a closed physical system increases until it reaches a maxi-
+mum, the state of thermodynamic equilibrium. It requires that the
+entropy of the universe is now and has always been increasing. This
+established fact of increasing entropy led many scientists and phi-
+losophers to assume that the universe we have is “running down” to
+a “heat death.” They think that means the universe began in a very
+high state of information, since the second law requires that any
+         356       Great Problems in Philosophy and Physics - Solved?
+
+               organization or order is susceptible to decay. The information that
+               remains today, in their view, has always been here.
+                  But Harvard cosmologist David Layzer showed that the uni-
+               verse is not a closed system (see Figure 30-4). It is in a dynamic
+               state of expansion that is moving away from thermodynamic equi-
+               librium faster than entropic processes can keep up. The maximum
+               possible entropy is increasing much faster than the actual increase
+               in entropy. The difference between the maximum possible entropy
+               and the actual entropy is potential information.
+               Positive and Negative Flows
+                  There are two information/entropy flows. In any process, the pos-
+               itive entropy increase is always at least equal to, and generally orders
+               of magnitude larger than, the negative entropy in any created infor-
+               mation structures, to satisfy the second law of thermodynamics.
+
+                 Figure 30-9. Information flows into Boltzmann and Shannon Entropy.
+Appendix B
+
+                  Material particles are the first information structures to form in
+               the universe from the primordial quarks and gluons. They are bary-
+               ons, the protons and neutrons of atomic nuclei, which combine with
+               electrons to form atoms and eventually molecules, when the tem-
+               perature is low enough. After hundreds of millions of years, these
+               particles are attracted by the force of gravitation to form the gigantic
+               information structures of the galaxies, stars, and planets.
+                 The stars are a special and very important case. The weak but uni-
+               versal force of gravitation pulls vast quantities of atomic material to
+               collapse, heating it up again. Extraordinary pressures and tempera-
+               tures in stellar interiors initiate themonuclear reactions that convert
+                                          Entropy and Second Law          357
+
+matter to a supply of energy that is stable for billions of years, a
+necessary condition for the emergence of life.
+
+  Figure 30-10. Cosmological information flows.
+
+   Microscopic quantum mechanical particles and huge self-gravi-
+tating systems are stable and have extremely long lifetimes, thanks
+in large part to quantum stability.
+  Stars are a second source of radiation, after the original Big Bang
+cosmic source, which today has cooled down to 3 degrees Kelvin
+(3K) and shines as the cosmic microwave background radiation.
+
+                                                                            Appendix B
+
+  Figure 30-11. Sun to Earth information flow.
+
+    Our solar radiation has a high color temperature (5000K) and a
+low energy-content temperature (273K). It is out of equilibrium and
+it is the source of free energy - the information-generating negative
+entropy that drives biological evolution on the Earth. Note that the
+fraction of the light falling on Earth is less than a billionth of that
+which passes by and is lost in space.
+         358         Great Problems in Philosophy and Physics - Solved?
+
+                 Just a tiny fraction of the solar energy falling on the earth gets
+               converted into the information structures of plants and animals.
+               Most solar energy is radiated away as waste energy to the night sky.
+Appendix B
+
+                 Figure 30-12. Information flows into life.
+
+                  Every biological structure is a quantum mechanical structure.
+               DNA has maintained its stable information structure over billions
+               of years in the constant presence of chaos and noise.
+                  The extraordinarily stable information content of a human being,
+               from the DNA in every cell to the memories in the Experience
+               Recorder and Reproducer,7 survives many changes in the material
+               content of the body during a person’s lifetime. The body is an infor-
+               mation structure through which matter and energy flow. Only with
+               death does the mental information (spirit, soul) dissipate totally -
+               unless it is saved somewhere external to the body. 8
+                 7     See appendix E for the ERR
+                 8     See chapter 2 for identity over time.
+                                          Entropy and Second Law                359
+
+  Figure 30-13. Information flows in a human being.
+
+   The total mental information in a living human is orders of
+magnitude less than the information content and information pro-
+cessing rate of the body. But the information structures created by
+humans outside the body, in the form of external knowledge like
+this book, and the enormous collection of human artifacts, rival the
+total biological information content of one individual human.
+   Information increases and we are co-creators of the universe.
+Creation of information structures means that today there is more
+information in the universe than at any earlier time. This fact of
+increasing information fits well with an undetermined universe that
+is still creating itself. In this universe, stars are still forming, biologi-
+cal systems are creating new species, and intelligent human beings
+are co-creators of the world.
+   All this creation is the result of the two-step core process that              Appendix B
+creates all information.9 It is a combination of two distinct physical
+processes, one quantum mechanical, the other thermodynamic.
+  Understanding this core creative process is as close as we may
+come to understanding the reality behind the popular but primitive
+idea of an anthropomorphic creator of the universe, a still-present
+divine providence, the cosmic source of everything good and evil.
+  Information philosophy hopes to replace beliefs with knowledge.
+The “miracle of creation” is happening now, in the universe and in
+you and by you.
+  9     See appendix F on the cosmic creation process.
+

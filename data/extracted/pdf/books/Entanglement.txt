@@ -1,0 +1,775 @@
+         228   My God, He Plays Dice!
+
+
+
+
+                                 m e nt
+                           g l e
+                   Entanymmetry
+Chapter 29
+
+
+
+
+                   a n d S
+        20
+
+
+
+
+                                                          This chapter on the web
+                               informationphilosopher.com/problems/entanglement
+                               Entanglement and Symmetry                  229
+
+
+Entanglement and Symmetry
+   In his pioneering work on special and general relativity, Einstein’s
+greatest work came from his use of fundamental “principles” to
+derive his new results. In special relativity, it was the principle
+that light has the same speed in all frames of reference. In general
+relativity, it was his equivalence principle, that an observer cannot
+distinguish between an accelerated frame and the force of gravity.
+   Each of these principles emerges from an underlying symmetry
+that produces an invariant quantity or a conservation law.
+   The speed of light is an invariant. The laws of physics are the
+same at different places in space-time. Otherwise we couldn’t
+repeat experiments everywhere and discover the laws of nature.
+   Einstein discovered symmetries that helped him reformulate
+Maxwell’s laws of electromagnetic fields. A few years later
+Emmy Noether (often described as the most important female
+mathematician) made a profound contribution to theoretical
+
+
+
+
+                                                                                    29
+                                                                            Chapter 20
+physics with her theorem on the fundamental relationship
+between symmetry and conservation principles.
+    For any property of a physical system that is symmetric, there is
+    a corresponding conservation law.
+   For example, if a physical system is symmetric under rotations,
+its angular momentum is conserved. If symmetric in time, energy
+is conserved. If symmetric in space, momentum is conserved.
+   Noether’s theorem allows physicists to gain powerful insights
+into any general theory in physics, by just analyzing the various
+transformations that would make the form of the laws involved
+invariant. No one understood the importance of these invariance
+principles better than Einstein. Nevertheless, Einstein introduced
+an odd asymmetry where none belongs in his EPR analysis of the
+behavior of two “entangled” particles.
+         230     My God, He Plays Dice!
+
+               Einstein’s Introduction of a False Asymmetry?
+                  Almost every presentation of the EPR paradox and descriptions
+               of entanglement begins with something like “Alice observes
+               one particle...” and concludes with the question “How does the
+               second particle get the information needed so that Bob’s later
+               measurements correlate perfectly with Alice’s?”
+                  There is a fundamental asymmetry in this framing of the EPR
+               experiment. It is a surprise that Einstein, who was so good at seeing
+               deep symmetries, did not consider how to remove the asymmetry.
+                  Consider this reframing: Alice’s measurement collapses the two-
+               particle wave function Ψ12. The two indistinguishable particles
+               simultaneously appear at locations in a space-like separation.
+               The frame of reference in which the source of the two entangled
+               particles and the two experimenters are at rest is a special frame
+               in the following sense. It is the frame in which their appearance is
+               simultaneous. In this frame, the experiment is symmetric.
+                  As Einstein knew very well, there are frames of reference
+Chapter 29
+
+
+
+
+               moving with respect to the laboratory frame of the two observers
+               in which the time order of the events can be reversed. In some
+               moving frames Alice measures first, in others Bob measures first.
+        20
+
+
+
+
+                  Einstein also knows well that two events in spacelike separation
+               can have no causal influence on one another. They are not in one
+               another’s “light cone.” No signals communicate between them.
+                  If there is a special frame of reference (not a preferred frame in
+               the relativistic sense), surely it is the one in which the origin of the
+               two entangled particles is at rest.
+                             Entanglement and Symmetry                  231
+
+   Assuming that Alice and Bob are also at rest in this special frame
+and equidistant from the origin, we arrive at the simple picture
+in which any measurement that causes the two-particle wave
+function to collapse makes both particles appear simultaneously
+at determinate places with fully correlated properties (just the
+values that are needed to conserve energy, momentum, angular
+momentum, and spin).
+   Instead of the one particle making an appearance in Einstein’s
+original case of nonlocality, in the two-particle case, when
+either particle is measured - or better, when the wave function is
+disturbed? - both particles appear.
+   The two-particle wave function splits into two single-particle
+wave functions.
+   Ψ12 => Ψ1 Ψ2
+   At this moment, the two-particle wave function decoheres
+(no longer shows interference properties), the particles are
+disentangled,
+
+
+
+
+                                                                                  29
+                                                                          Chapter 20
+   We know instantly those properties of the other particle that
+satisfy the conservation laws, including its location equidistant
+from, but on the opposite side of, the source, along with its other
+properties such as the spin, which must be equal and opposite to
+add up to the original spin = zero, for example.
+   When Alice detects the particle at t0 (with say spin up), at that
+instant the other particle also becomes determinate (with spin
+down) at the same distance on the other side of the origin. The
+particles separate at t0. Further measures of either particle will
+have no effect on the other!
+   Note that should Bob have measured before t0, his would be the
+“first” measurement that causes the two-particle wave function to
+decohere and the particles to disentangle and finally separate.
+   We can also ask what happens if Bob is not at the same distance
+from the origin as Alice. This introduces a positional asymmetry.
+But there is still no time asymmetry from the point of view of the
+two-particle wave function collapse at t0.
+         232         My God, He Plays Dice!
+
+
+
+
+               What Did Einstein See? The Special Frame?
+                  Remember Einstein’s 1933 question to Leon Rosenfeld, “How can
+               the final state of the second particle be influenced by a measurement
+               performed on the first...” 1 Why did Einstein see something unusual
+               in what we now call simply “knowledge-at-a-distance?”
+                  The instantaneous nature of the “knowledge” is what Einstein saw
+               as a potential violation of his principle of relativity. We argue that
+Chapter 29
+
+
+
+
+               it picks out a special frame in which two events are “simultaneous.”
+                  Relativity denies simultaneity between separated events.
+                  In 1927 at the Solvay conference the events were the detected
+        20
+
+
+
+
+               particle on the screen and that mysterious second place on the
+               screen. 2 In the 1935 EPR paper they were the “influence” of the first
+               particle measurement on the second particle.
+                  Between these two points is a space where Einstein thinks some-
+               thing is happening that violates his relativity principle. In the
+               diagram above it’s the line between Alice’s observation at t0 and the
+               point t0 on the line to Bob where the conserved momentum would
+               locate the entangled particle on its way to Bob.
+                  Events at those two points are “simultaneous” in the frame where
+               the center of the experiment is at rest. There are very fast-moving
+               frames coming from the right, where Bob’s measurement at t1
+               appears to happen before Alice’s measurement at t0.
+                  Now these are the two points where electron spins (or photon
+               polarizations) are measured in the tests of Bell’s inequality (chapter
+               32), where Alice ‘s measurements “influence” Bob’s.
+
+
+                 1     See page 207.
+                 2     See page 175
+                             Entanglement and Symmetry                    233
+
+   Einstein knew nothing about our puzzles in the “age of
+entanglement,” yet his “spooky actions” are our concerns today!
+    His colleagues thought Einstein was too old to contribute any-
+thing new to quantum mechanics, but his contributions still zero in
+with a laser focus on today’s most profound mysteries. How can his
+extraordinary mind have been so prophetic?
+No Hidden Variables, but Hidden Constants!
+   We shall see in the next several chapters that many physicists
+hoped to confirm Einstein’s criticisms of quantum mechanics by
+questioning the “foundations of quantum mechanics.” They would
+offer either new “interpretations” of quantum mechanics, or new
+“formulations” that add or subtract elements to the theory.
+   In particular, they followed Einstein’s argument that quantum
+mechanics is “incomplete,” and might be completed by the discovery
+of additional variables.
+   There may be no “hidden variables,” local or nonlocal. But there
+are “hidden constants.” Hidden in plain sight, they are the “constants
+
+
+
+
+                                                                                    29
+                                                                            Chapter 20
+of the motion,” conserved quantities like energy, momentum,
+angular momentum, and spin, both electron and photon. Created
+indeterministically when the particles are initially entangled, they
+then move locally with the now apparently separating particles.
+   In our extension of Einstein’s “objective reality,” we assume the
+particles have continuous paths from the start of the experiment
+to the final measurement(s), although the limits of quantum
+measurement never allow us to “know” those paths or any particular
+properties like the direction of spin components.
+   Conservation of momentum requires that positions where
+particles finally appear are equidistant from the origin, in order to
+conserve linear momentum. And every other conserved quantity
+also appears perfectly correlated at all symmetric positions. It is the
+fundamental principle of conservation that governs the correlated
+outcome, not some hypothetical, faster than light, communication
+of information between the particles at the time of measurement.
+   And in any case what would a particle as simple as an electron or
+a photon do with “information” from an identical particle? Indeed.
+how would the supposed “first” particle “communicate?”
+         234        My God, He Plays Dice!
+
+                  Information is neither matter nor energy, though it needs matter
+               to be embodied in an “information structure,” and it needs energy
+               to communicate information to other such structures.
+                  Objective reality tells us that the two particles are (locally) carrying
+               with them all the information that is needed for measurements to
+               show perfect correlations. This is a major problem only because
+               the Copenhagen Interpretation claims that the particles have
+               no properties before their measurement, that each particle is in
+               a superposition of states, so something is needed to bring their
+               properties into agreement at the measurement.
+                  Einstein’s “objective reality” asks the simple question whatever
+               could have caused the two particles to disagree? That is impossible
+               without some physical interaction to change one or both of the
+               particle properties. Such an interaction is of course the measurement
+               by Alice (or Bob) that disentangles the particles.
+               Alice’s “Free Choice” of Spin Direction
+                   Following Einstein’s false asymmetry that measurements of
+Chapter 29
+
+
+
+
+               spacelike separated particles can be made “first” by one observer,
+               it is widely but mistakenly said that Alice’s outcome must be
+               “influencing” Bob’s.
+        20
+
+
+
+
+                  What Alice does when she interacts with the two-particle wave
+               function Ψ12 is to create new information that was not present when
+               the particles were initially entangled. It cannot therefore be carried
+               along locally with our “hidden constants” of the motion.
+                  But the new information is created locally by Alice. The nonlocal
+               two-particle wave function makes it available to both particles
+               globally instantaneously, wherever they are.
+                  The classic case of entangled electrons or photons is that they
+               start in a state with total spin (or polarization) equal to zero (the
+               so-called singlet state).
+                  The singlet state is perfectly symmetric in all directions.
+                  When Alice measures a polarization or spin direction, her
+               measurement forces the two-particle system to acquire that over-
+               all preferred direction. This is what Wolfgang Pauli called a
+               “measurement of the second kind. Paul Dirac said the system
+               is “projected” into this state. Henry Margenau called it a “state
+               preparation.”
+                             Entanglement and Symmetry                   235
+
+    Quantum mechanically, the two-particle wave function is in a
+superposition of states in all directions and Alice’s measurement
+projects it into Alice’s freely chosen spin direction.
+    The two spins before her measurement were opposing one another
+but had no such preferred direction. Now they have opposite spins
+and in the direction chosen by Alice. This new information about
+polarization direction can not have been carried along locally with
+the hidden constants that conserve all physical properties, because
+that information did not exist until her measurement. .
+    Just because we cannot continuously measure positions, paths,
+and particle properties does not mean that they don’t exist. And
+claiming they are not determined just before measurement asks the
+question of what forces exist to change them at the last moment?
+    The new preferred direction for the spins did not exist. They were
+the result of Alice’s “free choice.” But the Copenhagen Interpretation
+is simply wrong to extend the non-existence of Alice’s new properties
+to other properties that travel “locally” with the particles
+
+
+
+
+                                                                                   29
+                                                                           Chapter 20
+    Our “hidden constants” traveling locally with the particles
+only require that the spins are always perfectly opposite. If Alice’s
+measurement shows a spin component of +1/2 in her chosen
+z-direction, Bob will necessarily measure -1/2 in the z-direction.
+    Any other value would violate the conservation laws and break
+the symmetry.
+    Note that whether Alice measures +1/2 or -1/2 is random, the
+result of what Dirac calls “Nature’s choice.”
+    If Bob now “freely chooses” in any other angular direction, his
+correlations will be reduced by the cosine squared of the angular
+difference between him and Alice. This is the same physics that
+reduces the light coming through polarizers at different angles as
+we saw in chapter 19.
+    We shall see in chapter 32 that John Bell strangely argued that
+“hidden variables” of the type imagined by Einstein or Bohm would
+produce correlations with a straight-line angular dependence, and
+not the familiar sinusoidal relationship .
+    Decades of Bell inequality tests claim to have shown that
+hidden variables must be nonlocal. “Hidden constants” like linear
+momentum and opposing spins are local! They are conserved
+properties that move along in the entangled particles at or below
+light speed.
+         236         My God, He Plays Dice!
+
+                  The two-particle wave function is itself a global function
+               encompassing the two particles (and beyond in the case of electrons).
+                    When that two-particle wave function instantly acquires a
+               preferred direction for its opposing spins it does so globally, giving
+               the illusion of an effect or an “action” travelling from Alice to Bob.
+                  But this is precisely the same “nonlocality” seen by Einstein in
+               1905 and reported by him first in 1927 at the fifth Solvay conference.
+                  It is the mysterious and powerful global property of the wave
+               function that Einstein called “ghostly” and a “guiding field.” There is
+               no “spooky action-at-a-distance” in the sense of one particle acting
+               on the other, “influencing” it in some way.
+                   It is the same “guiding” power of the wave function which in the
+               two slit experiment statistically controls the locations of electrons or
+               photons to show interference fringes, including null points where
+               particles never appear.
+                  This power of the wave function explains the mystery of
+               entanglement, why Bob finds perfect correlations with Alice when
+Chapter 29
+
+
+
+
+               she measures simultaneously or a moment before him so there is no
+               time for knowledge of her freely chosen angle to travel to Bob.
+                  There are two important moments to be understood, initial
+        20
+
+
+
+
+               entangled formation and later disentangling measurement.
+                  1) At formation, standard quantum mechanics usually describes
+               the entangled two-particle wave function as in a superposition of
+               up-down and down-up states,
+                  Ψ12 = (1/√2) (| + - > - | - + >).
+                  But Paul Dirac tells us an individual system is in just one of
+               these states from the moment of formation.3
+                  The singlet state, say | + - >, is visualized as having no determinate
+               spin direction as the particles travel apart. This spin state is isotropic,
+               spherically symmetric.
+                  We should note that the two spins are not in ordinary coordi-
+               nate space. Erwin Schrödinger knew his wave function for two or
+               more particles is in a multidimensional “configuration space.”
+                  The electron spins may be in still another dimension so the spins
+               ae not separated at all ordinary space-time!
+                 3     See page 151.
+                              Entanglement and Symmetry                    237
+
+   2) The two-particle state collapses on Alice’s measurement into a
+product of single-particle states, | + > |- >.
+   When Alice measures her particle with her “free choice” of a
+definite spin direction, e.g., z+, it is the requirement to conserve
+total spin, not any communication, that projects Bob’s particle,
+before his measurement, into z-. The particles are disentangled.
+   Just before Bob’s measurement, his state has been prepared so
+that if he measures in Alice’s direction, he will measure z- (say spin
+down) to her z+ (say spin up).
+   The two particles have been conserving zero total spin from the
+time of their singlet state preparation at the start of the experiment
+and, if undisturbed, they will be found in the same singlet state
+when they are measured. They have perfectly correlated opposing
+spins when(ever) they get jointly measured at the same angle.
+   The particular direction of spin is created by Alice.
+   One of Einstein’s great principles was simplicity. 4 It is also known
+as the law of parsimony and Occam’s Razor. The idea is that the
+
+
+
+
+                                                                                     29
+                                                                             Chapter 20
+simplest theory that fits all the known facts is the best theory.
+Einstein may have liked the idea that the most true theories would
+be beautiful in some sense, perhaps as the result of their symmetry.
+   Consider then the simplicity and parsimony of the idea
+that entangled particles, once “cross-linked” and sharing an
+antisymmetric two-particle wave function, are carrying with them
+at all times all the information needed for them to appear to be
+coordinating their actions - without communicating!
+   The information is “hidden” in the “constants of the motion.” And
+where hidden variables are nonlocal, all hidden constants are local.
+   It is now fifty years since the first laboratory experiments were
+done to find whether quantum mechanics might be faulty, and
+hidden variables might be needed to explain entanglement.
+   There has been no evidence that anything is wrong with quantum
+mechanics. Isn’t it time that we go back to Einstein’s first principles
+and see whether the “objective reality” of continuous particle
+motions carrying with them all their conserved properties can give
+us a very simple, easy to explain, understanding of entanglement?
+  4     See chapter 35.
+         238       My God, He Plays Dice!
+
+                  We can have entanglement without “action-at-a-distance.”
+                  Information hidden in the constants of the motion is “locally
+               real” at all times as the particles travel apart with no definite spin
+               directions for either particle, but total spin always zero.
+               Can Conservation Laws Do It All?
+                  But can conservation laws and symmetry explain the perfect
+               correlation of every particle property to prove there is no
+               instantaneous “action-at-a-distance” needed for entanglement?
+                  All physicists know conservation works for linear momentum.
+               Einstein used it in his 1933 letter to Leon Rosenfeld. But what about
+               the properties tested in all modern experiments on entanglement,
+               electron spin and photon polarization?
+                  Can we show how these properties also are actually conserved
+               as they are carried along with the particles, so there is no need
+               for instantaneous communication between two widely separated
+               entangled particles at the moment of their measurement, eliminating
+               the conflict between quantum mechanics and special relativity?
+Chapter 29
+
+
+
+
+                  The case of the photon is relatively straightforward, as we saw in
+               Dirac’s analysis (chapter 19). He said that an individual photon is
+               not in a linear combination or superposition of states, as we assume
+        20
+
+
+
+
+               when making predictions for a number of experiments.
+                  We can simplify the two-particle state to either | + - > or | - + >.
+                  And since the two-particle, spin-zero, state has no preferred spin
+               or polarization direction, we can say that they are in a superposi-
+               tion of possible spin or polarization components, and that the spin
+               of one is in some average sense always opposite to that of the other.
+                  “Objectively real” entanglement is in no sense a measurement
+               of one particle “acting on” and causing a change in another distant
+               particle. When Ψ12 decoheres, particles appear simultaneously in
+               our special frame of reference. No properties are changing.
+                  Einstein’s “objective reality” requires that entangled particle
+               properties are conserved from their initial state preparation to their
+                              Entanglement and Symmetry                      239
+
+ultimate measurements, giving the appearance of instantaneous
+communications, of Einstein’s “spooky action-at-a-distance.”
+Pauli’s Kinds of Measurement Again
+   When we describe the measurements of entangled particles that
+“collapse” the two-particle wave function, and which make the
+particles in a spacelike separation appear to interact instantaneously,
+infinitely greater than lightspeed, we must consider what kind of
+measurements are being made.
+   As we saw in chapter 19, Wolfgang Pauli distinguished two
+kinds of measurements. The first is when we measure a system
+in a known state ψ. (It has been prepared in that state by a prior
+measurement.) If we again use a measurement apparatus with
+eigenvalues whose states include the known state, the result is that
+we again find the system in the known state ψ. No new information
+is created, since we knew what the state of the system was before the
+measurement. This Pauli called a measurement of the first kind.
+   Dirac noted that quantum mechanics is not always probabilistic.
+
+
+
+
+                                                                                       29
+                                                                               Chapter 20
+Measurements of the first kind are certain, like preparing a state and
+then measuring to see that it is still in that state. Today this is called
+a non-destructive measurement.
+   In Pauli’s second case, the eigenstates of the system plus
+apparatus do not include the state ψ of the prepared system. Dirac’s
+transformation theory says one should use a basis set of eigenstates
+appropriate to the new measurement apparatus, say the set φn.
+   In this case, the original wave function ψ can be expanded as a
+linear superposition of states φn with coefficients cn,
+   ψ = ∑n cnφn,
+   where cn2 = | < ψ | φn > |2 is the probability that the measurement
+will find the system in state φn.
+   Pauli calls this a measurement of the second kind. It corresponds
+to John von Neumann’s Process 1, interpreted as a “collapse” or
+“reduction” of the wave function. Von Neumann said that new
+information is irreversibly recorded in the measuring apparatus.
+         240       My God, He Plays Dice!
+
+                  In this measurement, all the unrealized possibilities are eliminated,
+               and the one possibility that is actualized produces new information.
+               We do not know which of the possible states becomes actual. That
+               is a matter of ontological chance. If we did know in advance, there
+               would be no new information.
+                  Measurements of electron spin are done with Stern-Gerlach
+               magnets. A stream of electrons with random spin directions passing
+               through a magnet oriented in the z-direction separates into electrons
+               deflected upward (z+) and those deflected downward (z-).
+                  This is a measurement of the second kind, a state preparation. If
+               we pass all those with z+ through a second magnet in the z-direction,
+               they all are deflected upward again. This is a non-destructive
+               measurement of the first kind. Information is preserved.
+                  If those electrons in a known z+ state are passed through a
+               magnet oriented in the x-direction, they are observed in a random
+               distribution of x+ and x-. The z+ state information is lost.
+                  At the initial entangled state preparation, neither electron
+Chapter 29
+
+
+
+
+               has information about its spin components. Since there is no
+               information, we can call this a measurement of the zeroth kind.
+                  This describes the preparation of the entangled pair. We know
+        20
+
+
+
+
+               nothing of the spin components of the electrons (or polarization
+               of photons). But we do know that the spin of the left-going particle
+               will be opposite to that of the right particle when they are measured.
+                  Assume that Alice measures “first”, which she does if she is closer
+               to the center than Bob. This is a measurement of the second kind,
+               because a preferred spin direction of the electron did not exist.
+                  Alice makes a “free choice,” as Heisenberg described it. The
+               spin component value comes into existence. It did not necessarily
+               have that value before her measurement. No matter which angle
+               of orientation Alice measures, she will find spin randomly +1/2 or
+               -1/2. Dirac called this “Nature’s choice.”
+                  Between “Nature’s choice” (quantum chance discovered by
+               Einstein in 1916) and “free choice” (Einstein’s “free creations of the
+               human mind”), we untie the Gordian Knot of quantum mechanics!
+               Neither we nor the universe are pre-determined.
+                  If Bob measures the same angle as Alice (perhaps by prior
+               agreement) and compares measurements later, he will find his data
+                                   Entanglement and Symmetry              241
+
+is perfectly correlated with Alice. Bob’s measurement in the same
+direction as Alice is therefore a measurement of the first kind.
+   Alice prepares the state. Bob measures the same state.
+   If, however, Bob sets his apparatus to measure at a different angle,
+he finds a weaker correlation with Alice over several measurements.
+
+
+
+
+   Bob also has a “free choice” as to what to measure. As he varies his
+angle away from Alice’s, at first only a few measurements disagree,
+randomly but then disagreements increase, following the cosine
+dependence of light passing through rotating polarizers. 5
+   John Bell made the very unphysical claim that the correlations
+would fall off linearly, in a straight line, and connected this
+
+
+
+
+                                                                                    29
+                                                                            Chapter 20
+“inequality” to Einstein’s idea of additional (“hidden”) variables. 6
+   If Bob rotates his apparatus to 90°, spin in the x direction will be
+completely random. All correlations with Alice are now lost.
+   These measurements of the second kind project Bob’s electron
+spin in a new direction . It prepares a new state. It does nothing to
+Alice’s particle, since her measurement separated the electrons.
+   The reason Alice and Bob measure perfect entanglement when
+they measure in the same direction is because both spin directions
+were determined by Alice at the moment the two-particle wave
+function | + - > collapsed and projected out the two values, +1/2
+and -1/2, conserving the total spin as zero.
+   The total spin was zero before her measurement, but it had no
+definite spin component direction
+   This was not “spooky action-at-a-distance” traveling from Alice
+toward Bob. The collapse of Ψ12 is symmetric (or anti-symmetric) in
+all directions. It is this symmetry, and the conservation law for total
+electron spin, that completely explains entanglement.
+   The original state preparation of entangled particles created no
+new information about specific spin components. With some deep
+  5    See Dirac’s polarizers in chapter 19
+  6    See chapter 32.
+         242       My God, He Plays Dice!
+
+               symmetry (photons) or anti-symmetry (electrons), it does not
+               prepare the particles in definite states, as does Alice’s measurement.
+                 We could call this a measurement of the zeroth kind.
+                 Alice breaks the original symmetry, creating information about
+               the new spin directions. If Bob measures at the same angle, it is
+               a measurement of the first kind. If he measures at other angles,
+               symmetry/anti-symmetry with Alice is broken and Bob’s is a
+               measurement of the second kind.
+               How Symmetry and Conservation Explain Entanglement
+                  When a pair of electrons or photons is entangled, they are not
+               prepared with spins that have definite components in specific spatial
+               coordinate directions. But they must be such that if one is found to
+               have spin +1/2 in any direction, the other will be -1/2. And these
+               opposite directions will show up when Alice’s measurement projects
+               her electron and Bob’s into definite directions.
+                  The two electrons could be in a superposition of | + - > and | - + >,
+               as standard quantum mechanics likes to say. They may only acquire
+Chapter 29
+
+
+
+
+               specific spin component directions when Alice’s measurement
+               projects the two-particle wave function into a definite direction.
+                  Or it could be that Dirac is correct that they are in one or the
+        20
+
+
+
+
+               other of these states from their entanglement. In this case, Einstein
+               is right that they have all properties before they are measured. But
+               they cannot yet have definite z spins. Einstein would understand
+               this as the consequence of a new measurements.
+                  Let’s see how to visualize this in terms of Pauli’s two kinds of
+               measurements and a state creation that is not a measurement which
+               leaves two entangled electrons in perfectly symmetric directionless
+               spin states that together preserve total entropy zero.
+                  First let’s recall how measurements of spin in a Stern-Gerlach
+               apparatus can distinguish electrons that are in a known state from
+               those that are in a symmetric state with no definite direction.
+                  The gray circle represents an unentangled electron with no
+               specific spin direction. When that electron enters the magnet which
+               is oriented in the z direction, it is either directed upward or
+               downward. This a measurement of the second kind.
+                            Entanglement and Symmetry                    243
+
+  If it prepares a spin-up electron z+ and we pass it through a second
+magnet (or even a third) with the same z orientation, it does not
+change from z+. These are non-destructive measurements of the first
+kind. It never yields z- electrons
+  When we know a determined state goes in, the same comes out.
+Suppose we had a pair of entangled electrons with no determinate
+spin directions but with one carrying the positive spin and the other
+the negative. What happens as they pass through the magnets?
+
+
+
+   The positive spin electron, which has no determinate direction
+component, comes through the magnet projected into z+. Such a
+spatial directionless positive spin
+electron sent through an x-axis
+magnet produces only x+ electrons.
+   We must now recall what happens when we pass an electron with
+
+
+
+
+                                                                                   29
+                                                                           Chapter 20
+known spin z+ through a magnet oriented in the x direction.
+
+
+
+
+   Both x directions are possible, and when a known x+ is produced,
+subsequent measurements of the first kind keep it the same x+. Now
+before we show how our entangled electron behaviors work to explain
+entanglement, we should show the loss of z+ spin when passed
+through a magnet oriented in the x direction, and the subsequent
+recovery of both z+ and z- components. An x+ electron contains the
+potential to produce both z+ and z- electrons.
+
+
+
+
+  Finally, so we show all the amazing properties of electron spin, and
+add to understanding the idea of an electron with a spin value, but
+with no preferred spin direction, we can use a Stern-Gerlach magnet
+         244       My God, He Plays Dice!
+
+               to generate both z+ and z- and, providing we do not make a
+               measurement, send them though in the opposite z direction to
+               recreate the
+               original.
+                  So     let’s
+               see how our
+               directionless spin states travel from their entanglement and then get
+               projected into opposite spin directions by Alice and Bob .
+
+
+
+
+                  At the start the two electrons are in the same small volume of
+Chapter 29
+
+
+
+
+               phase space with their spins opposite, satisfying the Pauli exclusion
+               principle, like the two electrons in the ground state of Helium.
+                  A few moments later they travel apart in a |+ - > state, with one
+               electron having spin +1/2 and the other -1/2. But neither has a
+        20
+
+
+
+
+               definite spatial spin component, in a given direction such as z+.
+                  The directionless spin state is symmetric and isotropic, the same
+               in all directions. It is rotationally invariant. The spin values of +
+               and - are conserved quantities we can call local “hidden constants,”
+               traveling with the particles from their entanglement in the center.
+                  Because they are entangled, the + spin in one electron is always
+               perfectly opposite that of the - electron, though the spatial direction
+               of the spins is entirely unknown.
+                  These conserved spins provide the necessary information that
+               hypothetical “hidden variables” could provide to the electrons at
+               their moment of measurement. But no faster-than-light exchange
+               of that information is involved, no “signaling” between the particles
+               in a distant spacelike separation. Correlation information is carried
+               along with the electrons at their speed. Their spins are always
+               perfectly correlated, not suddenly correlated at the moment of
+               measurement, as the Copenhagen Interpretation claims.
+                              Entanglement and Symmetry                     245
+
+   In her measurement, Alice creates new directional information
+that did not travel with the “hidden constants” of the motion. It
+was unknown beforehand. When Alice measures in the z direction,
+she “prepares” the state z+. But Einstein’s “objective reality“ view
+is correct that the system has most of its properties before her
+measurement.
+   In his original EPR, it was linear momentum that was conserved
+from the initial interaction. Conservation laws allowed him to know
+something about particle 2 simultaneous with his measurement of
+particle 1. This is not “action.” This is just “knowledge-at-a-distance.”
+   But there is one property the two particles could not have before
+Alice’s measurement. It is something Einstein never thought about.
+That is the spatial direction of the polarization or electron spin
+imposed by Alice’s “free choice” of which angle to measure.
+   If Bob also measures at Alice’s angle, Bob’s is a measurement of
+the first kind. The state that he measures was prepared by Alice.
+These are two perfectly correlated events that are simultaneous (in a
+
+
+
+
+                                                                                      29
+                                                                              Chapter 20
+“special frame”) despite being in a spacelike separation.
+   When Einstein first saw this kind of nonlocal phenomenon in
+1905 and described it in 1927, he thought it violated his special
+theory of relativity, and his idea of the impossibility of simultaneity.
+   Nevertheless, this is one more amazing insight into nature that
+Einstein was the first person to see, even if it bothered him.
+   These simultaneous spatially separated events are a consequence
+of the two-particle wave function Ψ12 collapsing into the product of
+two single-particle wave functions Ψ1 and Ψ2
+   The Ψ12 wave function has decohered, the particles are
+disentangled, they acquire their opposite spin component directions,
++ spin goes to z+, - spin to z-.
+   In all entanglement experiments, these simultaneous values
+of opposing spins or polarizations that appear now have definite
+spatial directions, which is new information. The z+ and z- values
+are “nonlocal.” The +1/2 and -1/2 spins came with the particles, as
+Einstein hoped to show. They are “local,” like the particle momenta.
+   Then again, if the spins live in their own space, they may not be
+separated by a metric element in four-dimensional space-time!
+

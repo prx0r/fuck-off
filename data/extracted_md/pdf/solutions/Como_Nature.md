@@ -1,0 +1,755 @@
+# 580                          Supplement to " Nature," April 14, 1928
+
+**source:** pdf · **section:** solutions
+**file:** Como_Nature
+---
+
+
+          The Quantum Postulate and the Recent Development of Atomic Theory.1
+                                                     By Prof. N. BOHR, For.Mem.R.S.
+     N connexion with the discussion of the physical at what point the concept of observation in-
+I       interpretation of the quantum theoretical volving the quantum postulate with its inherent
+methods developed during recent years, I should ' irrationality ' is brought in.
+like to make the following general remarks regard-                              This situation has far-reaching consequences.
+ing the principles underlying the description of On one hand, the definition of the state of
+atomic phenomena, which I hope may help to a. physical system, as ordinarily understood,
+harmonise the different views, apparently so diver- claims the elimination of all external disturbances.
+gent, concerning this subject.                                                But in that case, according to the quantum
+                                                                              postulate, any observation will be impossible,
+       1. QUANTUM POSTULATE AND CAUSALITY.                                    and, above all, the concepts of space and time
+    The quantum theory is characterised by the lose their immediate sense. On the other hand,
+acknowledgment of a fundamental limitation in if in order to make observation possible we per-
+the classical physical ideas when applied to atomic mit certain interactions with suitable agencies
+phenomena. The situation thus created is of a of measurement, not belonging to the system,
+peculiar nature, since our interpretation of the an unambiguous definition of the state of the
+experimental material rests essentially upon the system is naturally no longer possible, and
+classical concepts. Notwithstanding the diffi- there can be no question of causality in the
+culties which hence are involved in the formulation ordinary sense of the word. The very nature of the
+of the quantum theory, it seems, as we shall see, quantum theory thus forces us to regard the space-
+that its essence may be expressed in the so-called time co-ordination and the claim of causality, the
+quantum postulate, which attributes to any atomic union of which characterises the classical theories,
+process an essential discontinuity, or rather in- as complementary but exclusive features of the
+dividuality, completely foreign to the classical description, symbolising the idealisation of observa-
+theories and symbolised by Planck's quantum of tion and definition respectively. Just as the rela-
+action.                                                                       tivity theory has taught us that the convenience
+    This postulate implies a renunciation as regards of distinguishmg sharply between space and time
+the causal space-time co-ordination of atomic pro- rests solely on the smallness of the velocities
+cesses. Indeed, our usual description of physical ordinarily met with compared to the velocity of
+phenomena is based entirely on the idea that the light, we learn from the quantum theory that the
+phenomena concerned may be observed without appropriateness of our usual causal space-time
+ disturbing them appreciably. This appears, for description depends entirely upon the small value
+example, clearly in the theory of relativity, which of the quantum of action as compared to the
+has been so fruitful for the elucidation of the actions involved in ordinary sense perceptions.
+classical theories. As emphasised by Einstein, Indeed, in the description of atomic pheno-
+ every observation or measurement ultimately rests mena, the quantum postulate presents us with
+ on the coincidence of two independent events at the task of developing a ' complementarity' theory
+ the same space-time point. Just these coincid- the consistency of which can be judged only by
+ ences will not be affected by any differences which weighing the possibilities of definition and obser-
+ the space-time co-ordination of different observers vation.
+ otherwise may exhibit. Now the quantum postu-                                   This view is already clearly brought out by the
+ late implies that any observation of atomic much-discussed question of the nature of light and
+ phenomena will involve an interaction with the the ultimate constituents of matter. As regards
+ agency of observation not to be neglected. Accord- light, its propagation in space and time is ade-
+ ingly, an independent reality in the ordinary quately expressed by the electromagnetic theory.
+ physical sense can neither be ascribed to the Especially the interference phenomena in vacuo
+ phenomena nor to the agencies of observation. and the optical properties of material media are
+ After all, the concept of observation is in so far completely governed by the wave theory super-
+ arbitrary as it depends upon which objects are position principle. Nevertheless, the conservation
+ included in the system to be observed. Ultimately of energy and momentum during the interaction
+ every observation can of course be reduced to our between radiation and matter, as evident in the
+ sense perceptions. The circumstance, however, photoelectric and Compton effect, finds its adequate
+ that in interpreting observations use has always expression just in the light quantum idea put
+ to be made of theoretical notions, entails that for forward by Einstein. As is well known, the
+  every particular case it is a question of convenience doubts regarding the validity of the superposition
+                                                                               principle on one hand and of the conservation laws
+     ' The content of this paper is essentially the same as that of a lecture  on the other, which were suggested by this apparent
+  on the present state of the quantum theory delivered on Sept. 16,
+  1927, at the Volta celebration in Como. For a summary of the theory
+ just previous to the development of the new methods the reader is
+                                                                               contradiction, have been definitely disproved
+ referred to a lecture of the author, " Atomic Theory and Mechanics,"          through direct experiments. This situation would
+  published in this periodical (NATURE, 116, 809 ; 1925). The rapid            seem clearly to indicate the impossibility of a
+  development which has taken place since has given rise to a consider-
+  able number of publications. The present paper is confined to a
+  few references to recent articles which have a special bearing on the
+                                                                               causal space-time description of the light pheno-
+  subject now under discussion.                                                mena. On one hand, in attempting to trace
+
+                                                     © 1928 Nature Publishing Group
+                             Supplement to "Nature" April 14, 1928                                            581
+   the laws of the time-spatial propagation of light      Planck's constant be denoted by h, as is well known,
+   according to the quantum postulate, we are confined                        Er=IX.=h,        .    .    . (1)
+  to statistical considerations. On the other hand,
+  the fulfilment of the claim of causality for the       where E and / are energy and momentum re-
+  individual light processes, characterised by the       spectively, T and A the corresponding period of
+  quantum of action, entails a renunciation as regards   vibration and wave-length. In these formulae the
+  the space-time description. Of course, there can       two notions of light and also of matter enter in
+  be no question of a quite independent application      sharp contrast. While energy and momentum are
+  of the ideas of space and time and of causality.       associated with the concept of particles, and hence
+  The two views of the nature of light are rather to     may be characterised according to the classical
+  be considered as different attempts at an inter-       point of view by definite space-time co-ordinates,
+  pretation of experimental evidence in which the        the period of vibration and wave-length refer to a
+  limitation of the classical concepts is expressed in   plane harmonic wave train of unlimited extent in
+ complementary ways.                                     space and time. Only with the aid of the super-
+                                                         position principle does it become possible to attain
+     The problem of the nature of the constituents of    a connexion with the ordinary mode of description.
+ matter presents us with an analogous situation.         Indeed, a limitation of the extent of the wave-
+ The individuality of the elementary electrical          fields in space and time can always be regarded as
+ corpuscles is forced upon us by general evidence.       resulting from the interference of a group of ele-
+ Nevertheless, recent experience, above all the          mentary harmonic waves. As shown by de Broglie
+ discovery of the selective reflection of electrons      (These, Paris, 1924), the translational velocity of
+ from metal crystals, requires the use of the            the individuals associated with the waves can be
+ wave theory superposition principle in accordance       represented by just the so-called group-velocity.
+ with the original ideas of L. de Broglie. Just          Let us denote a plane elementary wave by
+ as in the case of light, we have consequently in
+ the question of the nature of matter, so far as we                 A COS 2ir(vt - XtTx — yiTy — Zrrz + 8),
+ adhere to classical concepts, to face an inevitable     where A and S are constants determining respect-
+ dilemma, which has to be regarded as the very           ively the amplitude and the phase. The quantity
+ expression of experimental evidence. In fact, here      v = 1/T is the frequency, <TX, <rv, <rz the wave numbers
+ again we are not dealing with contradictory but with    in the direction of the co-ordinate axes, which may
+ complementary pictures of the phenomena, which          be regarded as vector components of the wave
+ only together offer a natural generalisation of the     number <r = l/A. in the direction of propagation.
+ classical mode of description. In the discussion        While the wave or phase velocity is given by vja-,
+ of these questions, it must be kept in mind that,       the group - velocity is defined by dv/cfa. Now
+ according to the view taken above, radiation            according to the relativity theory we have for a
+in free space as well as isolated material par-          particle with the velocity v :
+ticles are abstractions, their properties on the
+quantum theory being definable and observable
+only through their interaction with other systems.                           I--zE   and   vdl=dE,
+Nevertheless, these abstractions are, as we shall
+see, indispensable for a description of experi-          where c denotes the velocity of light. Hence by
+ence in connexion with our ordinary space-time           equation (1) the phase velocity is c2jv and the group-
+view.                                                    velocity v. The circumstance that the former is
+                                                         in general greater than the velocity of light empha-
+    The difficulties with which a causal space-time      sises the symbolic character of these considerations.
+description is confronted in the quantum theory,         At the same time, the possibility of identifying
+and which have been the subject of repeated              the velocity of the particle with the group-velocity
+discussions, are now placed into the foreground by       indicates the field of application of space-time
+the recent development of the symbolic methods.          pictures in the quantum theory. Here the com-
+An important contribution to the problem of a            plementary character of the description appears,
+consistent application of these methods has been         since the use of wave-groups is necessarily accom-
+made lately by Heisenberg (Zeitschr. f. Phys.,           panied by a lack of sharpness in the definition of
+43, 172; 1927). In particular, he has stressed the       period and wave-length, and hence also in the defini-
+peculiar reciprocal uncertainty which affects all        tion of the corresponding energy and momentum
+measurements of atomic quantities. Before we             as given by relation (1).
+enter upon his results it will be advantageous to           Rigorously speaking, a limited wave-field can
+show how the complementary nature of the descrip-        only be obtained by the superposition of a manifold
+tion appearing in this uncertainty is unavoidable        of elementary waves corresponding to all values
+already in an analysis of the most elementary            of v and vx, a-y, TZ. But the order of magnitude of
+concepts employed in interpreting experience.            the mean difference between these values for two
+   2. QUANTUM OF ACTION AND KINEMATICS.
+                                                         elementary waves in the group is given in the most
+                                                         favourable case by the condition
+   The fundamental contrast between the quantum
+of action and the classical concepts is immediately                AtAv = AxAtrx = AyAo-y = Az A<rz = 1,
+apparent from the simple formulas which form the         where At, Ax, Ay, Az denote the extension of the
+common foundation of the theory of light quanta          wave-field in time and in the directions of space
+and of the wave theory of material particles. If         corresponding to the co-ordinate axes. These
+
+                                             ©1928 Nature Publishing Group
+   582                      Supplement to "Nature" April 14,1928
+relations—well known from the theory of optical          point in space. Just as in the ease of radiation,
+instruments, especially from Rayleigh's investiga-       however, it is impossible to define momentum and
+tion of the resolving power of spectral apparatus        energy for an electron without considering a finite
+—express the condition that the wave-trains              space-time region. Furthermore, an application
+extinguish each other by interference at the             of the conservation laws to the process implies
+space-time boundary of the wave-field. They              that the accuracy of definition of the energy
+may be regarded also as signifying that the group        momentum vector is the same for the radiation
+as a whole has no phase in the same sense as the         and the electron. In consequence, according to
+elementary waves. From equation (1) we find              relation (2), the associated space-time regions can
+thus:                                                    be given the same size for both individuals in
+          AtAE = AxAIx - AyAIy = AzAIz=h         . (2)   interaction.
+as determining the highest possible accuracy in            A similar remark applies to the collision between
+the definition of the energy and momentum of the         two material particles, although the significance of
+individuals associated with the wave-field. In           the quantum postulate for this phenomenon was
+general, the conditions for attributing an energy        disregarded before the necessity of the wave concept
+and a momentum value to a wave-field by means            was realised. Here this postulate does indeed
+of formula (1) are much less favourable. Even            represent the idea of the individuality of the
+if the composition of the wave-group corresponds         particles which, transcending the space-time de-
+in the beginning to the relations (2), it will in the    scription, meets the claim of causality. While the
+course of time be subject to such changes that it        physical content of the light quantum idea is
+becomes less and less suitable for representing an       wholly connected with the conservation theorems for
+individual. It is this very circumstance which           energy and momentum, in the case of the electrical
+gives rise to the paradoxical character of the           particles the electric charge has to be taken into
+problem of the nature of light and of material           account in this connexion. I t is scarcely necessary
+particles. The limitation in the classical concepts      to mention that for a more detailed description
+expressed through relation (2) is, besides, closely      of the interaction between individuals we cannot
+connected with the limited validity of classical         restrict ourselves to the facts expressed by for-
+mechanics, which in the wave theory of matter            mulae (1) and (2), but must resort to a procedure
+corresponds to the geometrical optics, in which          which allows us to take into account the coupling
+the propagation of waves is depicted through             of the individuals, characterising the interaction
+' rays.' Only in this limit can energy and mo-           in question, where just the importance of the
+mentum be unambiguously defined on the basis             electric charge appears. As we shall see, such a
+of space-time pictures. For a general definition         procedure necessitates a further departure from
+of these concepts we are confined to the conserva-       visualisation in the usual sense.
+tion laws, the rational formulation of which has
+been a fundamental problem for the symbolical              3. MEASUREMENTS IN THE QUANTUM THEORY.
+methods to be mentioned below.                              In his investigations already mentioned on the
+    In the language of the relativity theory, the        consistency of the quantum theoretical methods,
+content of the relations (2) may be summarised in        Heisenberg has given the relation (2) as an ex-
+the statement that according to the quantum              pression for the maximum precision with which
+theory a general reciprocal relation exists between      the space-time co-ordinates and momentum-
+the maximum sharpness of definition of the space-        energy components of a particle can be measured
+time and energy-momentum vectors associated              simultaneously. His view was based on the
+with the individuals. This circumstance may be           following consideration: On one hand, the co-
+regarded as a simple symbolical expression for the       ordinates of a particle can be measured with any
+ complementary nature of the space-time descrip-         desired degree of accuracy by using, for example,
+ tion and the claims of causality. At the same time,     an optical instrument, provided radiation of
+however, the general character of this relation          sufficiently short wave-length is used for illumina-
+makes it possible to a certain extent to reconcile       tion. According to the quantum theory, however,
+ the conservation laws with the space-time co-           the scattering of radiation from the object is always
+ ordination of observations, the idea of a coincidence   connected with a finite change in momentum,
+ of well-defined events in a space-time point being      which is the larger the smaller the wave-length of
+ replaced by that of unsharply defined individuals       the radiation used. The momentum of a particle,
+ within finite space-time regions.                       on the other hand, can be determined with any
+    This circumstance permits us to avoid the            desired degree of accuracy by measuring, for
+ well-known paradoxes which are encountered in           example, the Doppler effect of the scattered radia-
+ attempting to describe the scattering of radia-         tion, provided the wave-length of the radiation
+ tion by free electrical particles as well as the        is so large that the effect of recoil can be neglected,
+ collision of two such particles. According to           but then the determination of the space co-ordinates
+ the classical concepts, the description of the          of the particle becomes correspondingly less
+ scattering requires a finite extent of the radia-       accurate.
+ tion in space and time, while in the change                The essence of this consideration is the in-
+ of the motion of the electron demanded by the           evitability of the quantum postulate in the estima-
+ quantum postulate one seemingly is dealing with         tion of the possibilities of measurement. A closer
+an instantaneous effect taking place at a definite       investigation of the possibilities of definition would
+
+                                              > 1928 Nature Publishing Group
+                             Supplement to " Nature," April 14, 1928                                   583
+ still seem necessary in order to bring out the general   plicity, we here have regarded the velocity of light
+ complementary character of the description. In-          as large compared to the velocity of the particle.
+ deed, a discontinuous change of energy and mo-           If m represents the mass of the particle, then the
+ mentum during observation could not prevent us           uncertainty attached to the value of the momentum
+ from ascribing accurate values to the space-time         after observation is cm\j2l. In this case the
+ co-ordinates, as well as to the momentum-energy          magnitude of the recoil, 2h/k, is sufficiently well
+ components before and after the process. The             defined in order not to give rise to an appreciable
+reciprocal uncertainty which always affects the           uncertainty in the value of the momentum of the
+values of these quantities is, as will be clear from      particle after observation. Indeed, the general
+ the preceding analysis, essentially an outcome of        theory of the Compton effect allows us to compute
+the limited accuracy with which changes in energy         the momentum components in the direction of the
+ and momentum can be denned, when the wave-               radiation before and after the recoil from the wave-
+fields used for the determination of the space-time       lengths of the incident and scattered radiation.
+co-ordinates of the particle are sufficiently small.      Even if the positional co-ordinates of the par-
+    In using an optical instrument for determina-         ticle were accurately known in the beginning, our
+tions of position, it is necessary to remember that       knowledge of the position after observation never-
+the formation of the image always requires a              theless will be affected by an uncertainty. Indeed,
+convergent beam of light. Denoting by A the               on account of the impossibility of attributing a
+wave-length of the radiation used, and by « the           definite instant to the recoil, we know the mean
+so-called numerical aperture, that is, the sine of        velocity in the direction of observation during the
+half the angle of convergence, the resolving power        scattering process only with an accuracy 2h/mk.
+of a microscope is given by the well-known expres-        The uncertainty in the position after observation
+sion A./2e. Even if the object is illuminated by          hence is Zhljmck. Here, too, the product of the
+parallel light, so that the momentum A/A of the           inaccuracies in the measurement of position and
+incident light quantum is known both as regards           momentum is thus given by the general formula (2).
+magnitude and direction, the finite value of the             Just as in the case of the determination of
+aperture will prevent an exact knowledge of the           position, the time of the process of observation
+recoil accompanying the scattering. Also, even if         for the determination of momentum may be
+the momentum of the particle were accurately              made as short as is desired if only the wave-
+known before the scattering process, our know-            length of the radiation used is sufficiently small.
+ledge of the component of momentum parallel to            The fact that the recoil then gets larger does
+the focal plane after the observation would be            not, as we have seen, affect the accuracy of
+affected by an uncertainty amounting to 2eh/\.            measurement. It should further be mentioned,
+The product of the least inaccuracies with which          that in referring to the velocity of a particle as we
+the positional co-ordinate and the component of           have here done repeatedly, the purpose has only
+momentum in a definite direction can be ascer-            been to obtain a connexion with the ordinary
+tained is therefore just given by formula (2). One        space-time description convenient in this ease. As
+might perhaps expect that in estimating the accu-         it appears already from the considerations of de
+racy of determining the position, not only the            Brogue mentioned above, the concept of velocity
+convergence but also the length of the wave-train         must always in the quantum theory be handled
+has to be taken into account, because the particle        with- caution. It will also be seen that an un-
+could change its place during the finite time of          ambiguous definition of this concept is excluded
+illumination. Due to the fact, however, that the          by the quantum postulate. This is particularly
+exact knowledge of the wave-length is immaterial          to be remembered when comparing the results of
+for the above estimate, it will be realised that for      successive observations. Indeed, the position of
+any value of the aperture the wave-train can              an individual at two given moments can be
+always be taken so short that a change of position        measured with any desired degree of accuracy;
+of the particle during the time of observation may        but if, from such measurements, we would cal-
+be neglected in comparison to the lack of sharpness       culate the velocity of the individual in the ordinary
+inherent in the determination of position due to          way, it must be clearly realised that we are dealing
+the finite resolving power of the microscope.             with an abstraction, from which no unambiguous
+    In measuring momentum with the aid of the             information concerning the previous or future
+Doppler effect—with due regard to the Compton             behaviour of the individual can be obtained.
+effect—one will employ a parallel wave-train. For            According to the above considerations regarding
+the accuracy, however, with which the change in           the possibilities of definition of the properties of
+wave-length of the scattered radiation can be             individuals, it will obviously make no difference
+measured the extent of the wave-train in the              in the discussion of the accuracy of measurements
+direction of propagation is essential. If we assume       of position and momentum of a particle if collisions
+that the directions of the incident and scattered         with other material particles are considered instead
+radiation are parallel and opposite respectively to       of scattering of radiation. In both cases we see
+the direction of the position co-ordinate and             that the uncertainty in question equally affects
+momentum component to be measured, then                   the description of the agency of measurement and
+ck/2l can be taken as a measure of the accuracy           of the object. In fact, this uncertainty cannot
+in the determination of the velocity, where I             be avoided in a description of the behaviour of
+denotes the length of the wave-train. For sim-            individuals with respect to a co-ordinate system
+
+                                               ) 1928 Nature Publishing Group
+   584                      Supplement to " Nature," April 14, 1928
+fixed in the ordinary way by means of solid bodies       in the causal description of its dynamical be-
+and unperturbable clocks. The experimental               haviour, while the determination of its momentum
+devices—opening and closing of apertures, etc.—          always implies a gap in the knowledge of its
+are seen to permit only conclusions regarding the        spatial propagation. Just this situation brings
+space-time extension of the associated wave-fields.      out most strikingly the complementary character
+   In tracing observations back to our sensations,       of the description of atomic phenomena which
+once more regard has to be taken to the quantum          appears as an inevitable consequence of the contrast
+postulate in connexion with the perception of the        between the quantum postulate and the distinc-
+agency of observation, be it through its direct          tion between object and agency of measurement,
+action upon the eye or by means of suitable auxili-      inherent in our very idea of observation.
+aries such as photographic plates, Wilson clouds,
+etc. I t is easily seen, however, that the resulting        4 . COBRBSPONDENCE PMNCIPL,E AND M A T I U X
+additional statistical element will not influence the                       THEOBY.
+uncertainty in the description of the object. I t           Hitherto we have only regarded certain general
+might even be conjectured that the arbitrariness         features of the quantum problem. The situation
+in what is regarded as object and what as agency         implies, however, that the main stress has to be
+of observation would open up a possibility of            laid on the formulation of the laws governing the
+avoiding this uncertainty altogether. In con-            interaction between the objects which we sym-
+nexion with the measurement of the position of a         bolise by the abstractions of isolated particles and
+particle, one might, for example, ask whether the        radiation. Points of attack for this formulation
+momentum transmitted by the scattering could             are presented in the first place by the problem of
+not be determined by means of the conservation           atomic constitution. As is well known, it has been
+theorem from a measurement of the change of              possible here, by means of an elementary use of
+momentum of the microscope—including light               classical concepts and in harmony with the quan-
+source and photographic plate—during the pro-            tum postulate, to throw light on essential aspects of
+cess of observation. A closer investigation shows,       experience. For example, the experiments regard-
+however, that such a measurement is impossible,          ing the excitation of spectra by electronic impacts
+if at the same time one wants to know the position       and by radiation are adequately accounted for on
+of the microscope with sufficient accuracy. In           the assumption of discrete stationary states and
+fact, it follows from the experiences which have         individual transition processes. This is primarily
+found expression in the wave theory of matter,           due to the circumstance that in these questions
+ that the position of the centre of gravity of a body    no closer description of the space-time behaviour
+ and its total momentum can only be defined               of the processes is required.
+ within the limits of reciprocal accuracy given by           Here the contrast with the ordinary way of
+ relation (2).                                           description appears strikingly in the circumstance
+    Strictly speaking, the idea of observation belongs    that spectral lines, which on the classical view
+ to the causal space-time way of description. Due        would be ascribed to the same state of the atom,
+ to the general character of relation (2), however,       will, according to the quantum postulate, corre-
+ this idea can be consistently utilised also in the       spond to separate transition processes, between
+ quantum theory, if only the uncertainty expressed        which the excited atom has a choice. Notwith-
+ through this relation is taken into account. As          standing this contrast, however, a formal connexion
+ remarked by Heisenberg, one may even obtain an           with the classical ideas could be obtained in the
+ instructive illustration to the quantum theoretical      limit, where the relative difference in the pro-
+ description of atomic (microscopic) phenomena by         perties of neighbouring stationary states vanishes
+ comparing this uncertainty with the uncertainty,         asymptotically and where in statistical applications
+ due to imperfect measurements, inherently con-           the discontinuities may be disregarded. Through
+ tained in any observation as considered in the           this connexion it was possible to a large extent to
+ ordinary description of natural phenomena. He            interpret the regularities of spectra on the basis
+ remarks on that occasion that even in the case of        of our ideas about the structure of the atom.
+ macroscopic phenomena we may say, in a certain              The aim of regarding the quantum theory as a
+ sense, that they are created by repeated observa-        rational generalisation of the classical theories led
+ tions. It must not be forgotten, however, that in        to the formulation of the so-called correspondence
+ the classical theories any succeeding observation        principle. The utilisation of this principle for the
+ permits a prediction of future events with ever-         interpretation of spectroscopic results was based-
+ increasing accuracy, because it improves our             on a symbolical application of classical electro-
+ knowledge of the initial state of the system.            dynamics, in which the individual transition pro-
+ According to the quantum theory, just the im-            cesses were each associated with a harmonic in
+ possibility of neglecting the interaction with the       the motion of the atomic particles to be expected
+ agency of measurement means that every observa-          according to ordinary mechanics. Except in the
+ tion introduces a new uncontrollable element.            limit mentioned, where the relative difference
+ Indeed, it follows from the above considerations         between adjacent stationary states may be neg-
+that the measurement of the positional co-                lected, such a fragmentary application of the
+ordinates of a particle is accompanied not only by        classical theories could only in certain cases lead
+a finite change in the dynamical variables, but also      to a strictly quantitative description of the pheno-
+the fixation of its position means a complete rupture     mena. Especially the connexion developed by
+
+                                             © 1928 Nature Publishing Group
+                           Supplement to " Nature," April 14, 1928                                    585
+ Ladenburg and Kramers between the classical           quantum postulate, has been of fundamental
+ treatment of dispersion and the statistical laws      importance. Here the generalisation of the
+governing the radiative transition processes for-      symbolical method made by Dirac and Jordan
+ mulated by Einstein should be mentioned here.         represented a great progress by making possible
+ Although it was just Kramers' treatment of dis-       the operation with matrices, which are not arranged
+persion that gave important hints for the rational     according to the stationary states, but where the
+ development of correspondence considerations, it      possible values of any set of variables may appear
+ is only through the quantum theoretical methods       as indices of the matrix elements. In analogy to
+ created in the last few years that the general        the interpretation considered in the original form
+aims laid down in the principle mentioned have         of the theory of the ' diagonal elements' connected
+obtained an adequate formulation.                      only with a single stationary state, as time averages
+    As is known, the new development was com-          of the quantity to be represented, the general
+menced in a fundamental paper by Heisenberg,           transformation theory of matrices permits the
+where he succeeded in emancipating himself com-        representation of such averages of a mechanical
+pletely from the classical concept of motion by        quantity, in the calculation of which any set of
+replacing from the very start the ordinary kine-       variables characterising the ' state' of the system
+matical and mechanical quantities by symbols,          have given values, while the canonically conjugated
+which refer directly to the individual processes       variables are allowed to take all possible values.
+demanded by the quantum postulate. This was            On the basis of the procedure developed by these
+accomplished by substituting for the Fourier           authors and in close connexion with ideas of
+development of a classical mechanical quantity         Born and Pauli, Heisenberg has in the paper
+a matrix scheme, the elements of which symbolise       already cited above attempted a closer analysis
+purely harmonic vibrations and are associated          of the physical content of the quantum theory,
+with the possible transitions between stationary       especially in view of the apparently paradoxical
+states. By requiring that the frequencies ascribed     character of the exchange relation (3). In this
+to the elements must always obey the com-              connexion he has formulated the relation
+bination principle for spectral lines, Heisenberg
+could introduce simple rules of calculation for the                          &q&p~h . . . .            (4)
+symbols, which permit a direct quantum theoretical     as the general expression for the maximum accur-
+transcription of the fundamental equations of          acy with which two canonically conjugated vari-
+classical mechanics. This ingenious attack on the      ables can simultaneously be observed. In this
+dynamical problem of atomic theory proved itself       way Heisenberg has been able to elucidate many
+from the beginning to be an exceedingly powerful       paradoxes appearing in the application of the
+and fertile method for interpreting quantitatively     quantum postulate, and to a large extent to
+the experimental results. Through the work of          demonstrate the consistency of the symbolic
+Born and Jordan as well as of Dirac, the theory        method. In connexion with the complementary
+was given a formulation which can compete with         nature of the quantum theoretical description, we
+classical mechanics as regards generality and          must, as already mentioned, constantly keep the
+consistency. Especially the element characteristic     possibilities of definition as well as of observa-
+of the quantum theory, Planck's constant, appears      tion before the mind. For the discussion of just
+explicitly only in the algorithms to which the         this question the method of wave mechanics
+symbols, the so-called matrices, are subjected.        developed by Schrodinger has, as we shall see,
+IJI fact, matrices, which represent canonically        proved of great help. I t permits a general ap-
+conjugated variables in the sense of the Hamil-        plication of the principle of superposition also
+tonian equations, do not obey the commutative          in the problem of interaction, thus offering an
+law of multiplication, but two such quantities, q      immediate connexion with the above considera-
+and p, have to fulfil the exchange rule                tions concerning radiation and free particles.
+                                                       Below we shall return to the relation of wave
+                                                       mechanics to the general formulation of the
+                pq-qp*=V-i 2w                    (3)   quantum laws by means of the transformation
+Indeed, this exchange relation expresses strikingly    theory of matrices.
+the symbolical character of the matrix formulation
+of the quantum theory. The matrix theory has            5. WAVE MECHANICS AND QUANTUM POSTULATE.
+often been called a calculus with directly ob-            Already in his first considerations concerning
+servable quantities. I t must be remembered,           the wave theory of material particles, de Broglie
+however, that the procedure described is limited       pointed out that the stationary states of an atom
+just to those problems, in which in applying the       may be visualised as an interference effect of the
+quantum postulate the space-time description           phase wave associated with a bound electron.
+may largely be disregarded, and the question of        It is true that this point of view at first did not, as
+observation in the proper sense therefore placed in    regards quantitative results, lead beyond the earlier
+the background.                                        methods of quantum theory, to the development
+   In pursuing further the correspondence of the       of which Sommerfeld has contributed so essentially.
+quantum laws with classical mechanics, the stress      Schrodinger, however, succeeded in developing a
+placed on the statistical character of the quantum     wave - theoretical method which has opened up
+theoretical description, which is brought in by the    new aspects, and has proved to be of decisive
+
+                                            ) 1928 Nature Publishing Group
+   586                      Supplement to " Nature," April 14, 1928
+importance for the great progress in atomic             interaction problem might be said to be com-
+physics during the last years. Indeed, the proper       plementary in the same sense as the wave and
+vibrations of the Schrodinger wave equation have        particle idea in the description of the free in-
+been found to furnish a representation of the           dividuals. The apparent contrast in the utilisation
+stationary states of an atom meeting all require-       of the energy concept in the two theories is just
+ments. The energy of each state is connected with       connected with this difference in the starting-
+the corresponding period of vibration according to      point.
+the general quantum relation (1). Furthermore,             The fundamental difficulties opposing a space-
+the number of nodes in the various characteristic       time description of a system of particles in inter-
+vibrations gives a simple interpretation to the         action appear at once from the inevitability of the
+concept of quantum number which was already             superposition principle in the description of the
+known from the older methods, but at first did not      behaviour of individual particles. Already for a
+seem to appear in the matrix formulation. In            free particle the knowledge of energy and mo-
+addition, Schrodinger could associate with the          mentum excludes, as we have seen, the exact
+solutions of the wave equation a continuous dis-        knowledge of its space-time co-ordinates. This
+tribution of charge and current, which, if applied      implies that an immediate utilisation of the concept
+to a characteristic vibration, represents the           of energy in connexion with the classical idea of
+electrostatic and magnetic properties of an atom        the potential energy of the system is excluded.
+in the corresponding stationary state. Similarly,       In the Schrodinger wave equation these difficulties
+the superposition of two characteristic solutions       are avoided by replacing the classical expression
+corresponds to a continuous vibrating distribution      of the Hamiltonian by a differential operator by
+of electrical charge, which on classical electro-       means of the relation
+dynamics would give rise to an emission of radiation,
+illustrating instructively the consequences of the                             , ~ h 8
+                                                                                                         (5)
+quantum postulate and the correspondence require-
+ment regarding the transition process between two    where p denotes a generalised component of
+stationary states formulated in matrix mechanics.    momentum and q the canonically conjugated
+Another application of the method of Schrodinger,    variable. Hereby the negative value of the energy
+important for the further development, has been      is regarded as conjugated to the time. So far, in
+made by Born in his investigation of the problem     the wave equation, time and space as well as
+of collisions between atoms and free electric        energy and momentum are utilised in a purely
+particles. In this connexion he succeeded in         formal way.
+obtaining a statistical interpretation of the wave      The symbolical character of Schrodinger's
+functions, allowing a calculation of the probability method appears not only from the circumstance
+of the individual transition processes required by   that its simplicity, similarly to that of the matrix
+the quantum postulate. This includes a wave-         theory, depends essentially upon the use of
+mechanical formulation of the adiabatic principle    imaginary arithmetic quantities. But above all
+of Ehrenfest, the fertility of which appears strik-  there can be no question of an immediate con-
+ingly in the promising investigations of Hund        nexion with our ordinary conceptions because the
+on the problem of formation of molecules.            ' geometrical' problem represented by the wave
+   In view of these results, SchrQdinger has ex- equation is associated with the so-called co-ordinate
+pressed the hope that the development of the space, the number of dimensions of which is equal to
+wave theory will eventually remove the irrational the number of degrees of freedom of the system,
+element expressed by the quantum postulate and and hence in general greater than the number of
+open the way for a complete description of atomic dimensions of ordinary space. Further, Schr6d-
+phenomena along the line of the classical theories. inger's formulation of the interaction problem,
+In support of this view, Schrodinger, in a recent just as the formulation offered by matrix theory,
+paper (Ann. d. Phys., 83, p. 956; 1927), emphasises involves a neglect of the finite velocity of propaga-
+the fact that the discontinuous exchange of energy tion of the forces claimed by relativity theory.
+between atoms required by the quantum postulate,        On the whole, it would scarcely seem justifiable,
+from the point of view of the wave theory, is in the case of the interaction problem, to demand
+replaced by a simple resonance phenomenon. In a visualisation by means of ordinary space-time
+particular, the idea of individual stationary states pictures. In fact, all our knowledge concerning
+would be an illusion and its applicability only an the internal properties of atoms is derived from
+illustration of the resonance mentioned. It must experiments on their radiation or collision reactions,
+be kept in mind, however, that just in the resonance such that the interpretation of experimental facts
+problem mentioned we are concerned with a closed ultimately depends on the abstractions of radiation
+system which, according to the view presented here, in free space, and free material particles. Hence,
+is not accessible to observation. In fact, wave our whole space-time view of physical phenomena,
+mechanics just as the matrix theory on this view as well as the definition of energy and momentum,
+represents a symbolic transcription of the problem depends ultimately upon these abstractions. In
+of motion of classical mechanics adapted to the judging the applications of these auxiliary ideas
+requirements of quantum theory and only to be we should only demand inner consistency, in which
+interpreted by an explicit use of the quantum connexion special regard has to be paid to the
+postulate. Indeed, the two formulations of the possibilities of definition and observation.
+
+                                            © 1928 Nature Publishing Group
+                              Supplement to "Nature" April 14, 1928                                     587
+    In the characteristic vibrations of Schrodinger's      independently of their being free or bound. This
+ wave equation we have, as mentioned, an adequate          situation is particularly important in connexion
+representation of the stationary states of an atom         with the consistent utilisation of Schrodinger's
+ allowing an unambiguous definition of the energy          electric density as a measure of the probability
+ of the system by means of the general quantum             for electrons being present within given space
+relation (1). This entails, however, that in the           regions of the atom. Remembering the restric-
+ interpretation of observations, a fundamental             tion mentioned, this interpretation is seen to be a
+renunciation regarding the space-time description          simple consequence of the assumption that the
+is unavoidable. In fact, the consistent application        probability of the presence of a free electron is
+of the concept of stationary states excludes, as we        expressed by the electric density associated with
+shall see, any specification regarding the behaviour       the wave-field in a similar way to that by which the
+of the separate particles in the atom. In problems         probability of the presence of a light quantum is
+where a description of this behaviour is essential,        given by the energy density of the radiation.
+we are bound to use the general solution of the               As already mentioned, the means for a general
+wave equation which is obtained by superposi-              consistent utilisation of the classical concepts in
+tion of characteristic solutions. We meet here             the quantum theory have been created through
+with a complementarity of the possibilities of             the transformation theory of Dirae and Jordan,
+definition quite analogous to that which we have           by the aid of which Heisenberg has formulated his
+considered earlier in connexion with the proper-           general uncertainty relation (4). In this theory
+ties of light and free material particles. Thus,           also the Schrodinger wave equation has obtained
+while the definition of energy and momentum of             an instructive application. In fact, the character-
+individuals is attached to the idea of a harmonic          istic solutions of this equation appear as auxiliary
+elementary wave, every space-time feature of the           functions which define a transformation from
+description of phenomena is, as we have seen, based        matrices with indices representing the energy values
+on a consideration of the interferences taking place       of the system to other matrices, the indices of
+inside a group of such elementary waves. Also in           which are the possible values of the space co-
+the present case the agreement between the possi-          ordinates. I t is also of interest in this connexion
+bilities of observation and those of definition can        to mention that Jordan and Klein (Zeitseh. f.
+be directly shown.                                         Phys., 45, 751 ; 1927) have recently arrived at the
+    According to the quantum postulate any ob-             formulation of the problem of interaction expressed
+servation regarding the behaviour of the electron          by the Schrodinger wave equation, taking as
+in the atom will be accompanied by a change in             starting-point the wave representation of individual
+the state of the atom. As stressed by Heisenberg,          particles and applying a symbolic method closely
+this change will, in the case of atoms in stationary       related to the deep-going treatment of the radiation
+states of low quantum number, consist in general           problem developed by Dirac from the point of view
+in the ejection of the electron from the atom. A de-       of the matrix theory, to which we shall return
+scription of the ' orbit' of the electron in the atom      below.
+with the aid of subsequent observations is hence
+impossible in such a case. This is connected with                  6. REALITY OF STATIONARY STATES.
+the circumstance that from characteristic vibra-              In the conception of stationary states we are,
+tions with only a few nodes no wave packages can           as mentioned, concerned with a characteristic
+be built up which would even approximately                 application of the quantum postulate. By its very
+represent the 'motion' of a particle. The com-             nature this conception means a complete re-
+plementary nature of the description, however,             nunciation as regards a time description. From
+appears particularly in that the use of observations       the point of view taken here, just this renunciation
+concerning the behaviour of particles in the atom          forms the necessary condition for an unambiguous
+rests on the possibility of neglecting, during the         definition of the energy of the atom. Moreover,
+process of observation, the interaction between            the conception of a stationary state involves,
+the particles, thus regarding them as free. This           strictly speaking, the exclusion of all interactions
+requires, however, that the duration of the process        with individuals not belonging to the system. The
+is short compared with the natural periods of the          fact that such a closed system is associated with
+atom, which again means that the uncertainty in            a particular energy value may be considered as
+the knowledge of the energy transferred in the             an immediate expression for the claim of causality
+process is large compared to the energy differences        contained in the theorem of conservation of energy.
+between neighbouring stationary states.                    This circumstance justifies the assumption of the
+    In judging the possibilities of observation it must,   supra-mechanical stability of the stationary states,
+on the whole, be kept in mind that the wave                according to which the atom, before as well as after
+mechanical solutions can be visualised only in so          an external influence, always will be found in a
+far as they can be described with the aid of the           well-defined state, and which forms the basis for
+concept of free particles. Here the difference             the use of the quantum postulate in problems
+between classical mechanics and the quantum                concerning atomic structure.
+theoretical treatment of the problem of inter-                In a judgment of the well-known paradoxes
+action appears most strikingly. In the former such         which this assumption entails for the description
+a restriction is unnecessary, because the ' particles '    of collision and radiation reactions, it is essential
+are here endowed with an immediate ' reality,'             to consider the limitations of the possibilities of
+
+                                                > 1928 Nature Publishing Group
+   588                       Supplement to "Nature"             April 14, 1928
+ definition of the reacting free individuals, which is    the investigation of the properties of single atoms.
+ expressed by relation (2). In fact, if the definition    As pointed out by Heisenberg, atoms with different
+  of the energy of the reacting individuals is to be       orientation in the field may only be separated if
+ accurate to such a degree as to entitle us to speak      the deviation of the beam is larger than the dif-
+ of conservation of energy during the reaction, it        fraction at the slit of the de Broglie waves repre-
+ is necessary, according to this relation, to co-         senting the translational motion of the atoms.
+  ordinate to the reaction a time interval long           This condition means, as a simple calculation shows,
+  compared to the vibration period associated with        that the product of the time of passage of the
+ the transition process, and connected with the           atom through the field, and the uncertainty due
+  energy difference between the stationary states         to the finite width of the beam of its energy in the
+  according to relation (1). This is particularly         field, is at least equal to the quantum of action.
+ to be remembered when considering the passage            This result was considered by Heisenberg as a
+ of swiftly moving particles through an atom.             support of relation (2) as regards the reciprocal
+ According to the ordinary kinematics, the effective      uncertainties of energy and time values. It would
+ duration of such a passage would be very small           seem, however, that here we are not simply dealing
+ as compared with the natural periods of l i e atom,      with a measurement of the energy of the atom at
+ and it seemed impossible to reconcile the principle      a given time. But since the period of the proper
+ of conservation of energy with the assumption of         vibrations of the atom in the field is connected
+ the stability of stationary states (cf. Zeits. f.        with the total energy by relation (1), we realise
+ Phys., 34, 142 ; 1925). In the wave representa-          that the condition for separability mentioned
+ tion, however, the time of reaction is immediately       just means the loss of the phase. This circum-
+ connected with the accuracy of the knowledge of          stance removes also the apparent contradic-
+ the energy of the colliding particle, and hence          tions, arising in certain problems concerning the
+ there can never be the possibility of a contradiction    coherence of resonance radiation, which have been
+ with the law of conservation. In connexion with          discussed frequently, and were also considered by
+ the discussion of paradoxes of the kind mentioned,       Heisenberg.
+ Campbell (Phil. Mag., i. 1106; 1926) suggested              To consider an atom as a closed system, as
+ the view that the conception of time itself may          we have done above, means to neglect the spon-
+ be essentially statistical in nature. From the           taneous emission of radiation which even in the
+ view advanced here, according to which the               absence of external influences puts an upper limit
+ foundation of space-time description is offered by       to the lifetime of the stationary states. The fact
+ the abstraction of free individuals, a fundamental       that this neglect is justified in many applica-
+distinction between time and space, however,              tions is connected with the circumstance that the
+would seem to be excluded by the relativity require-      coupling between the atom and the radiation
+ment. The singular position of the time in problems       field, which is to be expected on classical electro-
+concerned with stationary states is, as we have           dynamics, is in general very small compared to the
+seen, due to the special nature of such problems.         coupling between the particles in the atom. It is,
+    The application of the conception of stationary       in fact, possible in a description of the state of
+states demands that in any observation, say by            an atom to a considerable extent to neglect the
+means of collision or radiation reactions, permitting     reaction of radiation, thus disregarding the un-
+a distinction between different stationary states, we     sharpness in the energy values connected with the
+are entitled to disregard the previous history of the     lifetime of the stationary states according to
+atom. The fact that the symbolical quantum theory         relation (2) (cf. Proc. Camb. Phil. Soc., 1924
+methods ascribe a particular phase to each station-       (Supplement), or Zeits. f. Phys., 13, 117; 1923).
+ary state the value of which depends upon the             This is the reason why it is possible to draw
+previous history of the atom, would for the first         conclusions concerning the properties of radiation
+moment seem to contradict the very idea of                by using classical electrodynamics.
+stationary states. As soon as we are really con-             The treatment of the radiation problem by the
+cerned with a time problem, however, the considera-      new quantum theoretical methods meant to begin
+tion of a strictly closed system is excluded. The         with just a quantitative formulation of this corre-
+use of simply harmonic proper vibrations in the           spondence consideration. This was the very starting-
+interpretation of observations means, therefore,         point of the original considerations of Heisenberg.
+only a suitable idealisation which in a more rigorous    It may also be mentioned that an instructive analysis
+discussion must always be replaced by a group             of Schrodinger's treatment of the radiation pheno-
+of harmonic vibrations, distributed over a finite        mena from the point of view of the correspondence
+frequency interval. Now, as already mentioned,           principle has been recently given by Klein (Zeits.
+it is a general consequence of the superposition         f. Phys., 41,707; 1927). In the more rigorous form
+principle that it has no sense to co-ordinate a           of the theory developed by Dirac (Proc. Boy. Soc.,
+phase value to the group as a whole, in the same          A, vol. 114, p. 243 ; 1927) the radiation field itself
+manner as may be done for each elementary wave           is included in the closed system under consideration.
+constituting the group.                                  Thus it became possible in a rational way to take
+    This ^observability of the phase, well known         account of the individual character of radiation
+from the theory of optical instruments, is brought       demanded by the quantum theory and to build
+out in a particularly simple manner in a discussion      up a dispersion theory, in which the final width
+of the Stern-Gerlach experiment, so important for        of the spectral lines is taken into consideration.
+
+                                             © 1928 Nature Publishing Group
+                             Supplement to "Nature" April 14, 1928                                     589
+ The renunciation regarding space-time pictures              Here again we meet with the contrast between
+ characterising this treatment would seem to offer        the wave theory superposition principle and the
+ a striking indication of the complementary char-         assumption of the individuality of particles with
+ acter of the quantum theory. This is particularly        which we have been concerned already in the
+ to be borne in mind in judging the radical departure     case of free particles. At the same time the
+ from the causal description of Nature met with in        asymptotical connexion with the classical theory,
+ radiation phenomena, to which we have referred           to which a distinction between free and bound
+ above in connexion with the excitation of spectra.       particles is unknown, offers the possibility of a
+    In view of the asymptotic connexion of atomic         particularly simple illustration of the above con-
+ properties with classical electrodynamics, de-           siderations regarding the consistent utilisation of
+ manded by the correspondence principle, the re-          the concept of stationary states. As we have seen,
+ ciprocal exclusion of the conception of stationary       the identification of a stationary state by means of
+ states and the description of the behaviour of           collision or radiation reactions implies a gap in the
+ individual particles in the atom might be regarded       time description, which is at least of the order of
+ as a difficulty. In fact, the connexion in ques-         magnitude of the periods associated with transitions
+ tion means that in the limit of large quantum            between stationary states. Now, in the limit of high
+ numbers where the relative difference between            quantum numbers these periods may be interpreted
+ adjacent stationary states vanishes asymptotically,      as periods of revolution. Thus we see at once
+ mechanical pictures of electronic motion may be          that no causal connexion can be obtained between
+rationally utilised. It must be emphasised, how-          observations leading to the fixation of a stationary
+ ever, that this connexion cannot be regarded as a        state and earlier observations on the behaviour of
+gradual transition towards classical theory in the        the separate particles in the atom.
+sense that the quantum postulate would lose its             Summarising, it might be said that the concepts
+significance for high quantum numbers. On the             of stationary states and individual transition pro-
+contrary, the conclusions obtained from the corre-        cesses within their proper field of application
+spondence principle with the aid of classical             possess just as much or as little ' reality' as the
+pictures depend just upon the assumptions that            very idea of individual particles. In both cases
+the conception of stationary states and of individual     we are concerned with a demand of causality
+transition processes are maintained even in this limit.   complementary to the space-time description, the
+    This question offers a particularly instructive       adequate application of which is limited only by
+example for the application of the new methods.           the restricted possibilities of definition and of
+As shown by Sehrodinger (Naturwiss., 14, 664 ;            observation.
+1926), it is possible, in the limit mentioned, by
+superposition of proper vibrations to construct                  7. T H E PROBLEM o r THE ELEMENTARY
+wave groups small in comparison to the ' size ' of                             PARTICLES.
+the atom, the propagation of which indefinitely              When due regard is taken of the complementary
+approaches the classical picture of moving material       feature required by the quantum postulate, it
+particles, if the quantum numbers are chosen              seems, in fact, possible with the aid of the sym-
+sufficiently large. In the special ease of a simple       bolic methods to build up a consistent theory of
+harmonic vibrator, he was able to show that               atomic phenomena, which may be considered as a
+such wave groups will keep together even for any          rational generalisation of the causal space-time
+length of time, and will oscillate to and fro in a        description of classical physics. This view does
+manner corresponding to the classical picture of          not mean, however, that classical electron theory
+the motion. This circumstance Sehrodinger has             may be regarded simply as the limiting case of a
+regarded as a support of his hope of constructing a       vanishing quantum of action. Indeed, the con-
+pure wave theory without referring to the quantum         nexion of the latter theory with experience is
+postulate. As emphasised by Heisenberg, the               based on assumptions which can scarcely be
+simplicity of the case of the oscillator, however, is     separated from the group of problems of the
+exceptional and intimately connected with the             quantum theory. A hint in this direction was
+harmonic nature of the corresponding classical            already given by the well-known difficulties met
+motion. Nor is there in this example any possibility      with in the attempts to account for the in-
+for an asymptotical approach towards the problem          dividuality of ultimate electrical particles on
+of free particles. In general, the wave group will        general mechanical and electrodynamical prin-
+gradually spread over the whole region of the atom,       ciples. In this respect also the general relativity
+and the ' motion' of a bound electron can only            theory of gravitation has not fulfilled expecta-
+be followed during a number of periods, which is          tions. A satisfactory solution of the problems
+of the order of magnitude of the quantum numbers          touched upon would seem to be possible only by
+associated with the proper vibrations. This ques-         means of a rational quantum-theoretical tran-
+tion has been more closely investigated in a recent       scription of the general field theory, in which the
+paper by Darwin (Proc. Roy. Soc, A, vol. 117,             ultimate quantum of electricity has found its
+258; 1927), which contains a number of instruct-          natural position as an expression of the feature of
+ive examples of the behaviour of wave groups.             individuality characterising the quantum theory.
+From the viewpoint of the matrix theory a treat-          Recently Klein {Zeits. f. Phys., 46, 188; 1927) has
+ment of analogous problems has been carried out           directed attention to the possibility of connect-
+by Kennard (Zeits. / . Phys., 47, 326 ; 1927).            ing this problem with the five-dimensional unified
+
+                                              © 1928 Nature Publishing Group
+   590                       Supplement to "Nature" April 14, 1928
+ representation of electromagnetism and gravita-                        behaviour of the electric elementary particles and
+ tion proposed by Kaluza. I n fact, the conserva-                      the ' individuals' symbolised through the con-
+ tion of electricity appears in this theory as an                      ception of fight quanta expressed in the so-called
+ analogue to the conservation theorems for energy                      exclusion principle formulated by Pauli. In fact,
+ and momentum. Just as these concepts are com-                         we meet in this principle, so important for the
+ plementary to the space-time description, the                         problem of atomic structure as well as for the
+ appropriateness of the ordinary four-dimensional                      recent development of statistical theories, with
+ description as well as its symbolical utilisation in                  one among several possibilities, each of which
+ the quantum theory would, as Klein emphasises,                        fulfils the correspondence requirement. Moreover,
+ seem to depend essentially on the circumstance                        the difficulty of satisfying the relativity require-
+ that in this description electricity always appears                   ment in quantum theory appears in a particularly
+ in well-defined units, the conjugated fifth dimen-                    striking fight in connexion with the problem of
+ sion being as a consequence not open to observa-                      the magnetic electron. Indeed, it seemed not
+ tion.                                                                 possible to bring the promising attempts made
+    Quite apart from these unsolved deep-going                         by Darwin and Pauli in generalising the new
+ problems, the classical electron theory up to the                     methods to cover this problem naturally, in
+ present time has been the guide for a further                         connexion with the relativity kinematical con-
+ development of the correspondence description in                      sideration of Thomas so fundamental for the
+ connexion with the idea first advanced by Compton                     interpretation of experimental results. Quite
+ that the ultimate electrical particles, besides their                 recently, however, Dirac (Proc. of the Boy. Soc.,
+ mass and charge, are endowed with a magnetic                          A, 117, 610; 1928) has been able successfully
+ moment due to an angular momentum determined                          to attack the problem of the magnetic electron
+ by the quantum of action. This assumption, intro-                     through a new ingenious extension of the symbol-
+ duced with striking success by Goudsmit and                           ical method and so to satisfy the relativity re-
+ Uhlenbeck into the discussion of the origin of the                    quirement without abandoning the agreement with
+ anomalous Zeeman effect, has proved most fruit-                       spectral evidence. In this attack not only the
+ful in connexion with the new methods, as                              imaginary complex quantities appearing in the
+ shown especially by Heisenberg and Jordan. One                        earlier procedures are involved, but his funda-
+might say, indeed, that the hypothesis of the                          mental equations themselves contain quantities
+magnetic electron, together with the resonance                         of a still higher degree of complexity, that are
+problem elucidated by Heisenberg (Zeits. f. Phys.,                    represented by matrices.                          •
+41, 239; 1927), which occurs in the quantum-                             Already the formulation of the relativity argu-
+theoretical description of the behaviour of atoms                     ment implies essentially the union of the space-
+with several electrons, have brought the corre-                       time co-ordination and the demand of causality
+spondence interpretation of the spectral laws and                     characterising the classical theories. In the
+the periodic system to a certain degree of comple-                    adaptation of the relativity requirement to the
+tion. The principles underlying this attack have                      quantum postulate we must therefore be prepared
+even made it possible to draw conclusions regard-                     to meet with a renunciation as to visualisation in
+ing the properties of atomic nuclei. Thus Dennison                    the ordinary sense going still further than in the
+{Proc. Boy. Soc., A, vol. 115, 4 8 3 ; 1927), in                      formulation of the quantum laws considered here.
+connexion with ideas of Heisenberg and Hund,                          Indeed, we find ourselves here on the very path
+has succeeded recently in a very interesting way                      taken by Einstein of adapting our modes of percep-
+in showing how the explanation of the specific                        tion borrowed from the sensations to the gradually
+heat of hydrogen, hitherto beset with diffi-                          deepening knowledge of the laws of Nature. The
+culties, can be harmonised with the assumption                        hindrances met with on this path originate above
+that the proton is endowed with a moment of                           all in the fact that, so to say, every word in the
+momentum of the same magnitude as that of the                         language refers to our ordinary perception. In
+electron. Due to its larger mass, however, a                          the quantum theory we meet this difficulty at once
+magnetic moment much smaller than that of the                         in the question of the inevitability of the feature
+electron must be associated with the proton.                          of irrationality characterising the quantum pos-
+   The insufficiency of the methods hitherto de-                      tulate. I hope, however, that the idea of com-
+veloped as concerns the problem of the elementary                     plementarity is suited to characterise the situation,
+particles appears in the questions just mentioned                     which bears a deep-going analogy to the general
+from the fact that they do not allow of an un-                        difficulty in the formation of human ideas, inherent
+ambiguous explanation of the difference in the                        in the distinction between subject and object.
+
+                               Printed in Great Britain   by li. & R. CI-AKK, L I M I T E D ,   Edinburgh,
+
+                                                    © 1928 Nature Publishing Group
+

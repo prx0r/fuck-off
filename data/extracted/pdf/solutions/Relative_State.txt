@@ -1,0 +1,667 @@
+  REVIEWS OF MODERN                   PH YSI CS                       VOLUM E 29, NUM B ER             3                     JULY, 1957
+
+              ":Xe. ative State" . ormu. ation ol': Quantum
+                         .                                    ~               .
+
+                                                       :V.   '.
+                                                                  ec.~anics*
+                                                         HUGH EVERETT)         III)
+                             Pukes' Physi ca/ Laboratory, Princeto        Umi~ersity,   Pr&scetoe, %em Jersey
+
+                       1. INTRODUCTION                                  the following': A physical system is completely de-
+     '
+         'HE task of quantizing     general relativity raises           scribed by a state function P, which is an element of a
+         serious questions about the meaning of the                     Hilbert space, and which furthermore gives information
+  present formulation and interpretation         of quantum             only to the extent of specifying the probabilities of the
+  mechanics when applied to so fundamental a structure                  results of various observations which can be made oe
+  as the space-time geometry itself. This paper seeks to                the system by external observers. There are two funda-
+  clarify the foundations     of quantum       mechanics. It            mentally different ways in which the state function
+  presents a reformulation of quantum theory in a form                  can change:
+  believed suitable for application to general relativity.                Process 1: The discontinuous change brought about
+     The aim is not to deny or contradict the conventional                   by the observation of a quantity with eigenstates
+  formulation of quantum theory, which has demon-                                      , in which the state P will be changed to
+  strated its usefulness in an overwhelming variety of                       the state p; with probability   g, p,) '.
+                                                                                                                 ~       ~
+
+
+
+
+ problems, but rather to supply a new, more general and                   P'rocess Z: The continuous, deterministic change of
+ complete formulation, from which the conventional                           state of an isolated system with time according to
+ interpretation can be dedmced.                                              a wave equation BtP/Bt=AQ, where A is a linear
+     The relationship of this new formulation to the older                   operator.
+ formulation is therefore that of a metatheory to a
+ theory, that is, it is an underlying theory in which the                This formulation describes a wealth of experience. No
+ nature and consistency, as well as the realm of applica-                experimental evidence is known which contradicts it.
+ bility, of the older theory can be investigated and clari-                 Not all conceivable situations fit the framework of
+ fied.                                                                  this mathematical formulation. Consider for example an
+     The new theory is not based on any radical departure               isolated system consisting of an observer or measuring
+ from the conventional one. The special postulates in the               apparatus, plus an object system. Can the change with
+ old theory which deal with observation are omitted in                  time of the state of the total system be described by
+ the new theory. The altered theory thereby acquires a                  Process 2? If so, then it would appear that no dis-
+new character. It has to be analyzed in and for itself                  continuous probabilistic process like Process 1 can take
+before any identification becomes possible between the                  place. If not, we are forced to admit that systems which
+quantities of the theory and the properties of the world                contain observers are not subject to the same kind of
+of experience. The identification, when made, leads                     quantum-mechanical      description as we admit for all
+back to the omitted postulates of the conventional                      other physical systems. The question cannot be ruled
+theory that deal with observation, but in a manner                      out as lying in the domain of psychology. Much of the
+                                                                        discussion of "observers" in quantum mechanics has
+which clarifies their role and logical position.
+                                                                        to do with photoelectric cells, photographic plates, and
+    We begin with a brief discussion of the conventional
+                                                                        similar devices where a mechanistic attitude can hardly
+formulation, and some of the reasons which motivate                    be contested. For the following one can limit himself to
+one to seek a modi6cation.                                              this class of problems, if he is unwilling to consider ob-
+                                                                       servers in the more familiar sense on the same mechanis-
+2. REALM OF APPLICABILITY OF THE CONVENTIONAL                          tic level of analysis.
+   OR "EXTERNAL OBSERVATION" FORMULATION                                   What mixture of Processes 1 and 2 of the conventional
+           OF QUANTUM MECHANICS
+                                                                       formulation is to be applied to the case where only an
+   We take the conventional or "external observation"                  approximate measurement is effected; that is, where an
+formulation of quantum mechanics to be essentially                     apparatus or observer interacts only weakly and for a
+                                                                       limited time with an object systems In this case of an
+   ~ Thesis submitted   to Princeton University March 1, 1957 in
+partial fulfillment of the requirements for the Ph, D. degree. An      guidance and encouragement. Appreciation is also expressed to the
+earlier draft dated January, 1956 was circulated to several physi-     National Science Foundation for fellowship support.
+cists whose comments were helpful. Professor Niels Bohr, Dr. H. J.       t Present address: Weapons Systems Evaluation Group, The
+Groenewald, Dr. Aage Peterson, Dr, A. Stern, and Professor L.          Pentagon, Washington, D. C.
+Rosenfeld are free of any responsibility, but they are warmly            'We use the terminology and notation of J. von Neumann,
+thanked for the useful objections that they raised. Most particular    Ma/hematical foundations of Quantum Mechanics, translated by
+thanks are due to Professor John A. Wheeler for his continued          R. T. Beyer (Princeton University Press, Princeton, 1955).
+                              FOUNDATIONS                OF QUANTUM               MECHANI CS
+
+approximate measurement a proper theory must specify                everywhere and at all times supplies a complete mathe-
+(1) the new state of the object system that corresponds             matical model for every isolated physical system with-
+to any particular reading of the apparatus and (2) the              out exception. It further postulates that every system
+probability with which this reading will occur. von                 that is subject to external observation can be regarded
+Neumann showed how to treat a special class of ap-                  as part of a larger isolated system.
+proximate measurements by the method of projection                     The wave function is taken as the basic physical
+operators. ' However, a general treatment of all ap-                entity with eo a priori interpretation       In. terpretation
+proximate measurements by the method of projection                  only comes after an investigation of the logical structure
+operators can be shown (Sec. 4) to be impossible.                   of the theory. Here as always the theory itself sets the
+   How is one to apply the conventional formulation of              framework for its interpretation. '
+quantum mechanics to the space-time geometry itselfP                   For any interpretation it is necessary to put the
+The issue becomes especially acute in the case of a closed          mathematical model of the theory into correspondence
+universe. ' There is no place to stand outside the system           with experience. For this purpose it is necessary to
+to observe it. There is nothing outside it to produce               formulate abstract models for observers that can be
+transitions from one state to another. Even the familiar            treated within the theory itself as physical systems, to
+concept of a proper state of the energy is completely               consider isolated systems containing such model ob-
+inapplicable. In the derivation of the law of conserva-             servers in interaction with other subsystems, to deduce
+tion of energy, one defines the total energy by way of an           the changes that occur in an observer as a consequence
+integral extended over a surface large enough to include            of interaction with the surrounding subsystems, and
+all parts of the system and their interactions. 4 But in a          to interpret the changes in the familiar language of
+closed space, when a surface is made to include more                experience.
+and more of the volume, it ultimately disappears into                  Section 4 investigates representations of the state of
+nothingness. Attempts to define a total energy for a                a composite system in terms of states of constituent
+closed space collapse to the vacuous statement, zero                subsystems. The mathematics leads one to recognize
+equals zero.                                                        the concept of the relativity Of states, in the following
+   How are a quantum description of a closed universe,              sense: a constituent subsystem cannot be said to be in
+of approximate measurements, and of a system that                   any single well-defined state, independently of the re-
+contains an observer to be made? These three questions              mainder of the composite system. To any arbitrarily
+have one feature in common, that they all inquire about             chosen state for one subsystem there will correspond a
+                                                                    unique relative state for the remainder of the composite
+the qlmtlm mecharrics that is interval lo ae isolated
+                                                                    system. This relative state will usually depend upon the
+system.
+                                                                    choice of state for the first subsystem. Thus the state
+   No way is evident to apply the conventional   formula-
+                                                                    of one subsystem does not have an independent exist-
+tion of quantum    mechanics to a system that is not sub-           ence, but is fixed only by the state of the remaining sub-
+ject to exterrIul observation. The whole interpretive               system. In other words, the states occupied by the sub-
+scheme of that formalism rests upon the notion of                   systems are not independent, but correlated. Such corre-
+external observation. The probabilities of the various              lations between systems arise whenever systems in-
+possible outcomes of the observation are prescribed                 teract. In the present formulation all measurements and
+exclusively by Process 1. Without that part of the                  observation processes are to be regarded simply as inter-
+formalism there is no means whatever to ascribe a                   actions between the physical systems involved        —   inter-
+physical interpretation to the conventional machinery.              actions which produce strong correlations. A simple
+                                                                    model for a measurement,         due to von Neumann, is
+But Process 1 is out of the question for systems not
+subject to external observation. '
+                                                                    analyzed from this viewpoint.
+                                                                       Section 5 gives an abstract treatment of the problem
+                                                                    of observation. This uses only the superposition prin-
+    3. QUANTUM        MECHANICS INTERNAL TO AN
+                     ISOLATED SYSTEM                                ciple, and general rules by which composite system
+                                                                    states are formed of subsystem states, in order that the
+  This paper proposes to regard pure wave mechanics                 results shall have the greatest generality and be appli-
+(Process 2 only) as a complete theory. It postulates that           cable to any form of quantum theory for which these
+a wave function that obeys a linear wave equation                   principles hold. Deductions are drawn about the state
+                                                                    of the observer relative to the state of the object system.
+  ' Reference 1, Chap. 4, Sec. 4.                                   It is found that experiences of the observer (magnetic
+     See A. Einstein, The M'eaning of Relativity (Princeton Univ-
+ersity Press, Princeton, 1950), third edition, p. 107.              tape memory, counter system, etc.) are in full accord
+   4L. Landau and E. Lifshitz, The Classical Theory of Fields,      with predictions of the conventional "external observer"
+translated by M. Hamermesh (Addison-Wesley Press, Cambridge,
+1951),p. 343.                                                       formulation of quantum mechanics, based on Process 1.
+  ' See in particular the discussion of this point by N. Bohr and      Section 6 recapitulates the "relative state" formula-
+L. Rosenfeld, Kgl. Danske Videnskab.   Selskab, Mat. -fys. Medd.
+12, No. 8 (1933).                                                   tion of quantum mechanics,
+                                                   HUGH   EVERETT,           III
+
+             4. CONCEPT OF RELATIVE STATE                         system states are generally correlated with ore msother.
+    YVe now investigate some consequences of the wave
+                                                                  One can arbitrarily choose a state for one subsystem, and
+                                                                  be led to the relative state for the remainder T.hus we are
+ mechanical formalism of composite systems. If a com-
+ posite system S, is composed of two subsystems S» and           faced with a fundamental relativity of states, which is
+                                                                 implied by the formalism of composite systems It . is
+ S2, with associated Hilbert spaces H» and II2, then,
+ according to the usual formalism of composite systems,          meaningless to ask the absolute state of a subsystem     one-
+ the Hilbert space for S is taken to be the tensor product of    can only ask the state relative to a given state of tlze re
+                                                                 maznder of the subsystem.
+ Hi and Hz (written H=HiHz). This has the con-
+ sequence that if the sets {$,e "} and {ztje'} are complete         At this point we consider a simple example, due to von
+ orthonormal sets of states for 5» and S~, respectively,         Neumann, which serves as a model of a measurement
+ then the general state of 5 can be written as a super-          process. Discussion of this example prepares the ground
+ position:
+                                                                                                    "
+                                                                 for the analysis of "observation. %e start with a system
+                                                                 of only one coordinate, q (such as position of a particle),
+                     4'=2' a'5'"n ".                             and an apparatus of one coordinate r (for example the
+                                                                 position of a meter needle). Further suppose that they
+     From (3.1) although S is in a definite state ice, the
+                                                                 are initially independent, so that the combined wave
+ subsystems 5» and 5& do not possess anything like
+                                                                 function is ttoe+"=P(q)rt(r) where P(q) is the initial
+ definite states independently         of one another (except
+                                                                 system wave function, and zt(r) is the initial apparatus
+ in the special case where all but one of the a;, are zero).
+                                                                 function. The Hamiltonian is such that the two systems
+    YVe cue, however, for any choice of a state in one sub-
+                                                                 do not interact except during the interval 1=0 to t= T,
+ system, umiquely assign a corresponding relative state
+                                                                 during which time the total Hamiltonian consists only
+ in the other subsystem. For example, if we choose $z, as
+                                                                 of a simple interaction,
+ the state for 5», while the composite system S is in the
+ state tt e given by (3.1), then the corresponding relative                           Hi =    i7zq(B/Br)—
+ state in Sz, ip(Sz, relpi, Si), will be:                          Then the state
+               $(Sz, relb, Si) = Xi+,ai, zt, sz                                    0 '+" (q, r) =@(q)n(r    qt)—        (5)
+where EI, is a normalization         constant. This relative    is a solutioo of the Schrodinger equation,
+state for $z, is independent of the choice of basis (f;}
+                                                                                ih(BQ zs+~/Bt) = HziPis+~,              (6)
+ (i/k) for the orthogonal complement of $i, and is
+hence determined uniquely by $& alone. To find the               for the specified initial conditions at time t= 0.
+relative state in S~ for an arbitrary state of S» therefore,        From (5) at time t= T (at which time interaction
+one simply carries out the above procedure using any             stops) there is no longer any definite independent,
+pair of bases for S» and S2 which contains the desired           apparatus state, nor any independent system state.
+state as one element of the basis for 5». To And states         The apparatus therefore does not indicate any definite
+in S» relative to states in 52, interchange 5» and 52 in the    object-system value, and nothing like process 1 has
+procedure.                                                      occurred.
+   In the conventional        or "external observation"             Nevertheless, we cue look upon the total wave func-
+formulation, the relative state in Sz, P(Sz, rely, Si), for     tion (5) as a superposition of pairs of subsystem states,
+a state g ' in 5», gives the conditional probability dis-       each element of which has a definite q value and a
+tributions for the results of all measurements in 52,           correspondingly displaced apparatus state. Thus after
+given that 5» has been measured and found to be in state        the interact:ion the state (5) has the form:
+Q
+   —
+   ' i.e., that @ ' is the eigenfunction of the measure-
+ment in S» corresponding to the observed eigenvalue.
+                                                                                                                        (7)
+   For any choice of basis in Si, ($,},it is always possible
+to represent the state of S, (1), as a single superposition
+of pairs of states, each consisting of a state from the         which is a superposition of states P, =8(q — q')zt (r —qT).
+basis ($,} in Si and its relative state in Sz. Thus, from       Each of these elements, P, , of the superposition de-
+                                                                scribes a state in which the system has the definite
+(2), (1) can be written in the form:
+                                                                value q=q', and in which the apparatus has a state
+                                                                that is displaced from its original state by the amount
+                             'P(Sz., rel), ,Sz).                q'T. These elements tt, are then superposed with
+                       iV;                                      coeflicients p(q') to form the total state (7).
+                                                                   Conversely, if we transform to the representation
+This is an important      representation used frequently.
+                                                                where the apparatus coordinate is definite, we write (5)
+    Summarizing: There does rot, i e gemeral, exist aeythAsg
+                                                                as
+li ke a single state for one subsystem of a composi te system
+Subsystems do not possess states that are independent of                  i've+"= )"(1/X;) P'(q) (rbr')dr',            —
+the states of the remainder of the system, so that the sub
+                             FOUNDATIONS                     OF QUANTUM           MECHANICS
+
+where                                                                Thus, in order to say that an observer 0 has observed
+                                                                     the event u, it is necessary that the state of 0 has become
+                                                                     changed from its former state to a new state which is
+                                                                     dependent upon a.
+                                                                        It will suffice for our purposes to consider the ob-
+                                                                     servers to possess memories (i.e., parts of a relatively
+Then the P'(q) are the relative system state functions'              permanent nature whose states are in correspondence
+for the apparatus states 5(r —   r') of definite value r=r'.         with past experience of the observers). In order to
+   If T is suSciently large, or q(r) su%ciently sharp                make deductions about the past experience of an ob-
+ (near 8(r)), then &"'(q) is nearly b(q r'/—     T) and the          server it is sufhcient to deduce the present contents of
+relative system states P'(q) are nearly eigenstates for              the memory as it appears within the mathematical
+the values q= r'/T.                                                  model.
+   We have seen that (8) is a superposition of states                   As models for observers we can, if we wish, consider
+f„,   for each of which the apparatus has recorded a                 automatically functioning machines, possessing sensory
+de6nite value r', and the system is left in approximately            apparatus and coupled to recording devices capable of
+the eigenstate of the measurement corresponding to                   registering past sensory data and machine configura-
+q=r'/T. The discontinuous "jump" into an eigenstate                  tions. We can further suppose that the machine is so
+is thus only a relative proposition, dependent upon the              constructed that its present actions shall be determined
+mode of decomposition of the total wave function into                not only by its present sensory data, but by the con-
+the superposition, and relative to a particularly chosen             tents of its memory as well. Such a machine will then
+apparatus-coordinate     value. So far as the complete               be capable of performing a sequence of observations
+theory is concerned all elements of the superposition                 (measurements), and furthermore of deciding upon its
+exist simultaneously,    and the entire process is quite             future experiments on the basis of past results. If we
+continuous.                                                          consider that current sensory data, as well as machine
+   von Neumann's example is only a special case of a                 con6guration, is immediately recorded in the memory,
+more general situation. Consider any measuring ap-                   then the actions of the machine at a given instant can
+paratus interacting with any object system. As a result              be regarded as a function of the memory contents only,
+of the interaction the state of the measuring apparatus              and all relavant experience of the machine is contained
+is no longer capable of independent definition. It can               in the memory.
+be defined only relative to the state of the object system.             For such machines we are justified in using such
+In other words, there exists only a correlation between              phrases as "the machine has perceived A" or "the
+the states of the two systems. It seems as if nothing can            machine is aware of A" if the occurrence of A is repre-
+ever be settled by such a measurement.                               sented in the memory, since the future behavior of
+   This inde6nite behavior seems to be quite at variance             the machine will be based upon the occurrence of A. In
+with our observations, since physical objects always                 fact, all of the customary language of subjective experi-
+appear to us to have definite positions. Can we reconcile            ence is quite applicable to such machines, and forms the
+this feature wave mechanical theory built purely on                  most natural and useful mode of expression when
+Process 2 with experience, or must the theory be                     dealing with their behavior, as is well known to in-
+abandoned as untenable'        In order to answer this               dividuals who work with complex automata.
+question we consider the problem of observation itself                  When dealing with a system representing an ob-
+within the framework of the theory.                                  server quantum mechanically we ascribe a state func-
+                                                                     tion, P, to it. When the state   P   describes an observer
+                      5. OBSERVATION                                 whose memory contains representations of the events
+   We have the task of making deductions about the                   A, 8,       , C we denote this fact by appending         the
+appearance of phenomena to observers which are con-                  memory sequence in brackets as a subscript, writing:
+sidered as purely physical systems and are treated
+within the theory. To accomplish this it is necessary
+                                                                     The symbols A, 8,      , C, which we assume to be ordered
+to identify some present properties of such an observer
+                                                                     time-wise, therefore stand for memory con6gurations
+with features of the past experience of the observer.
+                                                                     which are in correspondence with the past experience
+   ' This example provides a model of an approximate measure-        of the observer. These configurations can be regarded as
+ment. However, the relative system states after the interaction
+P"'(q) cannot ordinarily be generated from the original system       punches in a paper tape, impressions on a magnetic reel,
+state @ by the application of any projection operator, K Proof:      configurations of a relay switching circuit, or even con-
+Suppose on the contrary that g"'(q) =EEp(q) =E'@(q)p(r' —    qt),    figurations of brain cells. We require only that they be
+where E, Ã' are normalization constants. Then
+                                                                     capable of the interpretation     "The observer has ex-
+            z(N~(q)) =xz @(q) =E"@(q)&2(r'—q~)                       perienced the succession of events A, 8,            "
+                                                                                                                     , C. (We
+      ~p(q) = (E"/N)@(q)g~(r' —qt). But the     condition)
+                                                                     sometimes write dots in a Inemory sequence,            A,
+which is necessary for E to be a projection implies that     E'jÃ"
+g (q) =q2(q) which is generally false.                               8, , C, to indicate the possible presence of previous
+                                                          HUGH          F VERETT, I I I
+
+   memories which are irrelevant to the case being con-                        state will have the form:
+   sidered. )
+      The mathematical model seeks to treat the interaction                                                                                     (12)
+   of such observer systems with other physical systems                          This superposition principle continues to apply in the
+   (observations), within the framework of Process 2 wave                     presence of further systems which do not interact during
+                                                                                                                               , 5„are
+  mechanics, and to deduce the resulting memory con-                          the measurement. Thus, if systems 5i, 52,
+  figurations, which are then to be interpreted as records                    present as well as 0, with original states P ', P ',
+  of the past experiences of the observers.                                       , Ps", and the only interaction during the time of
+      We begin by defining what constitutes a "good"                          measurement takes place between Si and 0, the measure-
+  observation. A good observation of a quantity A, with                       ment will transform the initial total state:
+  eigenfunctions p, , for a system 5, by an observer whose                                                  —
+                                                                                          P S 1+S 2+ + 8 n+0 P S lg S 2. . . P S $0 [           (13)
+                                                                                                     ~
+                                                                                                                               @
+  initial state is lt, consists of an interaction which, in a
+  specified period of time, transforms each (total) state                     into the final state:
+                                  S+0   —y, p0 t                      (10)                         +8~+0 — &. 821t, 82. . . $821tot
+                                                                                                           P.
+                             p                                                     y Sq+82+                 y                           .
+                                                                                                                                            ~   (]4)
+ into a new state
+                                 8+0'   —y .P0 t                              where  a;= Q&;8', lt 8') and &,8' are eigenfunctions of the
+                           1t,
+                                                                              observation.
+  where ri, characterizes' the state p;. (The symbol, a, ,                       Thus we arrive at the general rule for the trans-
+  might stand for a recording of the eigenvalue, for ex-                      formation of total state functions which describe sys-
+  ample. ) That is, we require that the system state, ij it                   tems within which observation processes occur:
+  is aii eigenstate, shall be unchanged, and (2) that the                       Rule 1: The observation of a quantity A, with eigen-
+  observer state shall change so as to describe an ob-                            functions p; ', in a system 5& by the observer 0,
+  server that is "aware" of which eigenfunction it is; that                       transforms the total state according to:
+ is, some property is recorded in the memory of the ob-
+ server which characterizes p;, such as the eigenvalue.
+ The requirement that the eigenstates for the system
+ be unchanged is necessary if the observation is to be                             where
+ significant (repeatable), and the requirement that the
+ observer state change in a manner which is diGerent
+ for each eigenfunction is necessary if we are to be able                       If we next consider a second observation to be made,
+ to call the interaction an observation at all. How closely                  where our total state is now a superposition, we can
+ a general interaction satisfies the definition of a good                    apply Rule 1 separately to each element of the super-
+ observation depends upon (1) the way in which the in-                       position, since each element separately obeys the wave
+ teraction depends upon the dynamical variables of the                       equation and behaves independently of the remaining
+                       —
+ observer system including memory variables            and         —         elements, and then superpose the results to obtain the
+ upon the dynamical variables of the object system and                       final solution. We formulate this as:
+ (2) the initial state of the observer system. Given (1)                        Agee  Z: Rule 1 may be applied separately to each
+ and (2), one can for example solve the wave equation,
+                                                                                  element of a superposition of total system states,
+ deduce the state of the composite system after the end
+                                                                                  the results being superposed to obtain the final
+ of the interaction, and check whether an object system
+                                                                                  total state. Thus, a determination of 8, with eigen-
+that was originally in an eigenstate is left in an eigen-
+                                                                                  functions p, 2, on 52 by the observer 0 transforms
+state, as demanded by the repeatability postulate. This                           the total state
+postulate is satisfied, for example, by the model of von
+Neumann that has already been discussed.
+    From the definition of a good observation we first
+                                                                                  into the state
+deduce the result of an observation upon a system which
+is cot in an eigenstate of the observation. We know from
+
+         .j into states p,               t,
+our definition that the interaction transforms states
+                                   j. Consequently these
+                                   P
+solutions of the wave equation can be superposed to
+                                                                                  where     ti;
+                                                                                  application
+                                                                                                  = (ib82, $82), which
+                                                                                                                     follows from the
+                                                                                                 of Rule 1 to each element p
+                                                                                              ,j, and then superposing the results with
+give the final state for the case of an arbitrary initial
+system state. Thus if the initial system state is not an                          the coefficients a;.
+eigenstate, but a general state g;a, p, , the final total                        These two rules, which follow directly from the super-
+                                                                             position principle, give a convenient method for deter-
+   7 It should be understood  that ltf0(. . . n, j is a diferent state for   mining final total states for any number of observation
+each  i.  A more precise notation would write P;L . . ~;j, but no
+                                                   '        ~
+
+                                                                             processes in any combinations.             We now seek the
+confusion can arise if we simply let the P, be indexed only by the
+index of the memory configuration symbol.                                    iiiterpretati oii of such final total states.
+                                    FOUNDATIONS                       OF QUANTUM             MECHANICS
+   Let us consider the simple case of a single observa-                          We can give this state, f„, the following interpreta-
+tion of a quantity A, with eigenfunctions p;, in the                          tion. It consists of a superposition of states:
+system 5 with initial state Ps, by an observer 0 whose                                —y, Sly, S2. . . Q ~Sr
+initial state is P t. q. The final result is, as we have
+seen, the superposition                                                                               Xf '+'       tP   Q'[a, ~, ap,   ai, ~]   (24)
+                     0"+'= 2 ci 4 4'~ "-            &                         each of which describes the observer with a definite
+                                                                              memory sequence [n,i,nP,         ni, "]. Relative to him the
+There is no longer any independent system state or                            (observed) system states are the corresponding eigen-
+observer state, although the two have become corre-                           functions y. s1 y~s2. . . yj, s&, the remaining systems,
+lated in a one-one manner. , However, in each element
+of the superposition,            p;f'&,
+                              &, the object-system state
+                                                                                          S,
+                                                                              S,+~, ~, being unaltered.
+                                                                                 A typical element P', , ... z of the final superposition
+is a particular eigenstate of the observation, and                            describes a state of affairs wherein the observer has
+fvirthermore  the observer system-state describes the ob                      perceived an apparently random sequence of definite
+server as dePivitety perceivieg that particular system state                  results for the observations. Furthermore the object
+ This correlation is what allows one to maintain the                          systems have been left in the corresponding eigenstates
+interpretation that a measurement has been performed.                         of the observation. At this stage suppose that a re-
+   We now consider a situation where the observer                             determination     of an earlier system observation (S&)
+system comes into interaction with the object system for                      takes place. Then it follows that every element of the
+a second time. According to Rule 2 we arrive at the                           resulting final superposition will describe the observer
+total state after the second observation:                                     with a memory configuration           of the form Ln,',
+                                 —Q, o,y got                                                ']
+                                                                              a, ', . nz", n, in which the earlier memory coincides
+                   lt,
+                         ~~s+0
+                                                                       (19)                      —
+                                                                              with the later i.e. , the memory states are corretated.
+Again, each element               g;P[;,
+                                   ~, ] describes a system                    It will thus appear to the observer, as described by a
+                                                                              typical element of the superposition, that each initial
+eigenstate, but this time also describes the observer as
+having obtained the same result for each of the two ob-                       observation on a system caused the system to "jump"
+servations. Thus for every separate state of the ob-                          into an eigenstate in a random fashion and thereafter
+server in the final superposition the result of the ob-                       remain there for subsequent measurements on the same
+                                                                                                      —
+                                                                              system. Therefore disregarding for the moment quanti-
+servation was repeatable, even though different for
+different states. This repeatability is a consequence of                      tative questions of relative frequencies             —
+                                                                                                                                the proba-
+the fact that after an observation the relative system                        bilistic assertions of Process 1 appear to be valid 'to
+state for a particular observer state is the corresponding                    the observer described by a typical element of the final
+eigenstate.                                                                   superposition.
+   Consider now a diferent situation. An observer-                                We thus arrive at the following picture: Throughout
+system 0, with initial state P&     &, measures  the same                     all of a sequence of observation processes there is only
+quantity A in a number of separate, identical, systems                        one physical system representing          the observer, yet
+which are initially in the same state, fs'=Ps'=                               there is no single unique state of the observer (which
+=Ps"=P„a;p, (where the p, are, as usual, eigen-                               follows from the representations of interacting systems).
+functions of A). The initial total state function is then                     Nevertheless, there is a representation in terms of a
+                                                                              slperposAioii, , each element of which contains a definite
+          1t
+               s&+s2+        +sn+0 —Qsigs2. . .ps+0(. . . )            (20)   observer state and a corresponding system state. Thus
+                                                                              with each succeeding observation (or interaction), the
+We assume that the measurements are performed on the                          observer state "branches" into a number of diGerent
+systems in the order S&, S2,     S„.Then the total state                      states. Each branch represents a diferent outcome of
+after the first measurement is by Rule 1,                                     the measurement and the corresponding eigenstate for
+     p sy+sm+. +s~+0 —        g, c.y, s&ips2. . .ps+0). . . .                 the object-system state. All branches exist simultane-
+               ~
+                                                                 q)    (21)
+                                                                              ously in the superposition after any given sequence of
+                         '
+          (where n, refers to the first system, 5&).                          observations. $
+
+After the second measurement                 it is, by Rule 2,                                        —
+                                                                                 $ Note added in proof. In reply to a preprint of this article some
+                                                                              correspondents have raised the question of the "transition from
+ 2
+     S1+S2+ +S+0
+           ~                                                                  possible to actual,
+                                                                                                 —
+                                                                                                  "                                        —
+                                                                                                     arguing that in "reality" there is as our
+                                                                              experience testi6es no such splitting of observer states, so that
+                   'a*ad'"0 ', V"              4'4't      -' -, *i     (22)   only  one branch  can ever actually exist. Since this point may occur
+                                                                              to other readers the following is offered in explanation.
+                                                                                 The whole issue of the transition from "possible" to "actual"
+and in general, after r measurements                 have taken place                                                                  —
+                                                                              is taken care of in the theory in a very simple way there is no
+(r & iv), Rule 2 gives the result:                                            such transition, nor is such a transition necessary for the theory
+
+                              &14 '4     ' 4a '
+                                                                              to be in accord with our experience. From the viewpoint of the
+                                                                              theory all elements of a superposition (all "branches") are "ac-
+                                                                                  "
+                                                                              tual, none any more "real" than the rest. It is unnecessary to
+                             ps~+&   ipsgop. . .~,i, ~p. . . ~i~j      (23)   suppose that all but one are somehow destroyed, since all the
+   460                                               H UGH       EVERETT,           III
+
+     The "trajectory" of the memory configuration of an                 to   I):
+  observer performing a sequence of measurements         is
+  thus not a linear sequence of memory configurations,                                       m(n) =   P ws(u, ).                  (26)
+  but a branching tree, with a11 possible outcomes exist-
+  ing simultaneously in a final superposition with various              Then we have already restricted the choice of ns to the
+  coefficients in the mathematica1 model. In any familiar
+                                                                        square amplitude alone;' in other words, ' we have
+                                                                        ns~a;j. = ai. a;,. apart from a multiplicative
+  memory device the branching         does not continue                 ~                   tf                  lt 1 t- constant.
+                                                                                                                             t t
+  indefinitely, but must stop at a point limited by the                    Too see tth'sls, notet tth att tth e normahty
+                                                                                                                      1 t o Q requires
+
+
+
+                                                                        .'... .", ',
+                                                                        that ~rr~ =(Pa, *a;)*'. From our remarks about the
+    In order to establish quantitative results, we must
+  put some sort of measure (weighting) on the elements of
+                                                      b th; '";
+     6-1-p-pos            - Th' ' -"--yt b"b1 ~ imposes
+                                                th
+                                                              ",
+                                                        , the requirement,
+                                                                                                       '
+   make assertions which hoid for almost all of the ob-
+   server states described by elements of a superposition.         res(rr) =wr{Pa, "a;)&=tn{QN,s)'*
+   We wish to make quantitative statements about. the                                             =pris(u, ) =pcs(u, "i)l. (27)
+   relative frequencies of the different possible results of
+   observation  —  which are recorded in the memory           —
+                                                             for
+                                                                   Defining a new function g x
+   a typical observer state; but to accomplish this we                                     g(x) =~(V'x)                      (28)
+   must have a method for selecting a typical element
+  from R superposltlon of olthogonal states.
+      We therefore seek a general scheme to assign a meas-                              g(Z~P) = Kg(N").                     (29)
+  ure to the elements of a superposition of orthogonal
+  states   p ~~, iA'e iequ, re R posit, ve f~~~tio~ ~ of the Thus g is restricted to be linear and necessarily has the
+  complex coeS.cients of the elements of the super-
+  positioll, so tliRt tÃ(8;) sllR11 bc 'tlic measure Rssigilcd                       g(x) =cx (c constant).                 (30)
+  to the element p;. In order that this general scheme be
+  unambiguous we must first require that the states them-
+                                                                                     =
+                                                                  Therefore g(x ) &x =ws(gx ) =m(x) and we have de-
+  selves always be normalized, so that we can distinguish         duced that m is restricted to the form
+  the coefficients from the states. However, we can still                          m(a, ) =m(u;) =cl,s=ca,*a;.              (31)
+  only determine the co@cietsts, in distinction to the
+                                                                  We have thus shown that the only choice of measure
+ states, up to an arbitrary phase factor. In order to
+                                                                  consistent with our additivity requirement is the square
+ avoid ambiguities the function nz must therefore be a amplitude measure, apart from an
+                                                                                                              arbitrary multi-
+                     amPiltudes of the coe@clents aione             ijcatjve constant whjch ma be fixed if desjred
+ m(a;) =rl(~ a;~).                                                normalization     requirements.    (The requirement      that
+     We now impose an additivity «qulrement            We can the total measure be unity implies that this constant is
+                                                  n               1.)
+ regard a subset of the superposition, say           p
+                                                     a,p;, as a      The situation here is fully analogous to that of
+                                                                 classical statistical mechanics, where one puts a measure
+single element o.P'.                                             on trajectories of systems in the phase space by piacing
+                                                                 a measure on the phase space itself, and then making
+                        re'= Q a,P, .                            assertions (such as ergodicity, quasi-ergodicity, etc.)
+                                i=&                              which hold for "almost all" trajectories. This notion
+                                                                 of "almost all" depends here also upon the choice of
+We then demand that the measure assigned to 4' »»& measure, which is in this case taken to be the Lebesgue
+be the sum of the measures assigned to the 4, (& from & measure on the phase space. One could contradict the
+                                                                 statements of classical statistica1 mechanics by choosing
+separate elements of a superpositio»ndi»«»ly     obey the wave   a measure for which only the exceptional trajectories
+equation   with complete indifference   to the presence or absence
+("actuality" or not) of any other elements. This total lack of
+ effect of one branch on another also implies that no observer will   Lebesgue measure on the phase space can be justified
+ ever be aware of any "splitting" process.                            by the fact that it is the only choice for which the "con-
+    Arguments that the world picture presented by this theory is
+ contradicted by experience, because we are unaware oi any            servation of probability     holds& (Liouville's theorem)
+ branching process, are like the criticism of the Copernican theory   and hence the onjy chojce whjch makes possib]e any
+ that the mobility of the earth as a real physical fact is incom-
+patible with the common sense interpretation of nature because
+we feel no such motion. In both cases the argument fails when it is      In our case& we wish to mRke statements about
+shown that the theory itself predicts that our experience will be     "trajectories" of observers. However for us a trajectory
+what it in fact is. (In the Copernican case the addition of New-                              ~   j'
+tonian physics w:s required to be able to show that the earth s
+                                                                       s Constantly branching        transforming from state to
+inhabitants would be unaware of any motion oi the earth. )            siipei'position) with each successive measurement. To
+                               FOUNDATIONS                      OF QUANTUM           MFCHANICS                                 461
+
+have a requirement analogous to the "conservation of                    observations of the same quantity upon identical sys-
+probability" in the classical case, we demand that the                  tems, the result is equally true for arbitrary sequences
+measure assigned to a trajectory at one time shall equal                of observations, as may be verified by writing more
+the sum of the measures of its separate branches at a                   general sequences of measurements,         and applying
+later time. This is precisely the additivity requirement                Rules 1 and 2 in the same manner as presented here.
+which we imposed and which leads uniquely to the                           We can therefore summarize the situation when the
+choice of square-amplitude     measure. Our procedure is                sequence of observations is arbitrary, when these ob-
+therefore quite as justified as that of classical statistical           servations are made upon the same or different systems
+mechanics.                                                              in any order, and when the number of observations of
+   Having deduced that there is a unique measure which                  each quantity in each system is very large, with the
+will satisfy our requirements,      the square-amplitude                following result:
+measure, we continue our deduction. This measure
+                                                                             Except for a set of memory sequences of measure
+then assigns to the i,    j,   4th element of the super-
+                                                                          nearly zero, the averages of any functions over a
+position (24),
+            '. 0 "+'
+                 4s               4'e9'r.   ~   2   .     a"1
+                                                                          memory sequence can be calculated approximately
+                                                                          by the use of the independent probabilities given by
+                                                                          Process 1 for each initial observation, on a system,
+the measure (weight)                                                      and by the use of the usual transition probabilities
+            M;;. ..I, = (a;o,,"   ag) (a~a;         ag)          (33)     for succeeding observations upon the same system.
+                                                                          In the limit, as the number of all types of observa-
+so that the observer state with memory configuration                      tions goes to infinity the calculation is exact, and the
+[n,  asm,   ,o. ~'J is assigned the measure u, *a,a, *a;                  exceptional set has measure zero.
+u&*a&=M;;...I, . We see immediately that this is a
+product measure, namely,                                                   This prescription for the calculation of averages over
+                                                                        memory sequences by probabilities assigned to in-
+                   M;;... =M;M,
+                          A,
+                                      ' Mp                       (34)   dividual elements is precisely that of the conventional
+where                                                                   "external observation" theory (Process 1). Moreover,
+                                                                        these predictions hold for almost all memory sequences.
+                                                                        Therefore all predictions of the usual theory will appear
+so that the measure assigned to a particular memory                     to be valid to the observer in amost all observer states.
+sequence Ln, o.P,       , nz"] is simply the product of the                In particular, the uncertainty principle is never
+measures for the individual components of the memory                    violated since the latest measurement upon a system
+ sequence.                                                              supplies all possible information about the relative
+    There is a direct correspondence of our measure                     system state, so that there is no direct correlation be-
+structure to the probability theory of random sequences.                tween any earlier results of observation on the sys-
+If we regard the M;;.. .q as probabilities for the sequences            tem, and the succeeding observation. Any observation
+ then the sequences are equivalent to the random                        of a quantity 8, between two successive observations of
+ sequences which are generated by ascribing to each term                quantity A (all on the same system) will destroy the
+the irtdepertdertt probabilities M~ ——a~*a~. Now proba-                 one-one correspondence between the earlier and later
+bility theory is equivalent to measure theory mathe-                    memory states for the result of A. Thus for alternating
+matically, so that we can make use of it, while keeping                 observations of diferent quantities there are funda-
+in mind that all results should be translated back to                   mental limitations       upon the correlations between
+ measure theoretic language.                                            memory states for the same observed quantity, these
+    Thus, in particular, if we consider the sequences to                limitations expressing the content of the uncertainty
+become longer and longer (more and more observations                    principle.
+performed) each memory sequence of the final super-                        As a final step one may investigate the consequences
+ position will satisfy any given criterion for a randomly               of allowing several observer systems to interact with
+generated sequence, generated by the 'independent                        (observe) the same object system, as well as to interact
+probabilities a~*a~, except for a set of total measure                  with one another (communicate). The latter interaction
+ which tends toward zero as the number of observations                  can be treated simply as an interaction which correlates
+ becomes unlimited. Hence all averages of functions over                parts of the memory configuration of one observer with
+ ugly memory sequence, including         the special case of            another. When these observer systems are investigated,
+frequencies, can be computed from the probabilities                     in the same manner as we have already presented in this
+ u;*a;, except for a set of memory sequences of measure                 section using Rules 1 and 2, one finds that in all elements
+zero. We have therefore shown that the statistical asser-               of the final superposition:
+tions of Process 1 will appear to be valid to the observer,
+irt almost all elements of the superposition (24), in the                  i. When several observers have separately observed
+ limit as the number of observations goes to infinity.                  the same quantity in the object system and then com-
+    While we have so far considered only sequences of                   municated the results to one another they find that they
+                                                  HUGH        EVERETT,           III
+
+   are in agreement. This agreement persists even when               formulation of quantum theory are valid. In other
+   an observer performs his observation after the result             words, pure Process 2 wave mechanics, without any
+   has been communicated to him by another observer                  initial probability assertions, leads to all the proba-
+   who has performed the observation.                                bility concepts of the familiar formalism.
+      2. I.et one observer perform an observation of a
+  quantity A in the object system, then let a second per-                                  6. DISCUSSION
+  form an observation of a quantity 8 in this object sys-                    The theory based on pure wave mechanics is a con-
+  tem which does not commute with 2, and finally let the                  ceptually simple, causal theory, which gives predictions
+  first observer repeat his observation of A. Then the                    in accord with experience. It constitutes a framework
+  memory system of the first observer will sot in general                 in which one can investigate in detail, mathematically,
+  show the same result for both observations. The inter-                  and in a logically consistent manner a number of some-
+  vening observation by the other observer of the non-                    times puzzling subjects, such as the measuring process
+  commuting quantity 8 prevents the possibility of any                   itself and the interrelationship of several observers. Ob-
+  one to one correlation between the two observations of                 jections have been raised in the past to the conventional
+   A.                                                                    or "external observation" formulation         of quantum
+       3. Consider the case where the states of two object theory on the grounds that its probabilistic features
+   systems are correlated, but where the two systems do are postulated in advance instead of being derived from
+   not interact. I.et one observer perform a specified ob- the theory itelf. We believe that the present "relative-
+   servation on the first system, then let another observer              state" formulation meets this objection, while retaining
+   perform an observation on the second system, and                      all of the content of the standard formulation.
+   Anally let the first observer repeat his observation.                    While our theory ultimately justifies the use of the
+   Then it is found that the first observer always gets the probabilistic interpretation as an aid to
+                                                                                                                  making practical
+   same result both times, and the observation by the                   predictions, it forms a broader frame in which to under-
+  second observer has no effect whatsoever on the outcome               stand the consistency of that interpretation. In this
+  of the first's observations. Fictitious paradoxes like respect it can be said to form a metatheory for the stand-
+  that of Einstein, Podolsky, and Rosen' which are con- ard theory. It transcends the usual "external observa-
+  cerned with such correlated, noninteracting                systems    tion" formulation, however, in its ability to deal logically
+  are easily investigated and clarified in the present                  with questions of imperfect observation and approxi-
+  scheme.                                                              mate measurement.
+      Many      further  combinations   of several  observers     and       The "relative state" formulation will apply to all
+  systems can be studied within the present framework.                 forms of quantum mechanics which maintain the super-
+ The results of the present "relative state" formalism                 position principle. It may therefore prove a fruitful
+ agree    with    those  of the conventional  "external    observa-    framework     for the quantization of general relativity.
+ tion" formalism in all those cases where that familiar                The formalism invites one to construct the formal theory
+ machinery is applicable.                                              first, and to supply the statistical interpretation later.
+     In conclusion, the continuous evolution of the state This method should be particularly useful for inter-
+ function of a composite system with time gives a com-                 preting quantized unified field theories where there is no
+ plete mathematical model for processes that involve an question of ever isolating observers and object systems.
+idealized observer. When interaction occurs, the result               They all are represented in a single structure, the field.
+of the evolution in time is a superposition of states,                Any interpretative rules can probably only be deduced
+each element of which assigns a diGerent state to the                 in and through the theory itself.
+memory of the observer. Judged by the state of the                         Aside from any possible practical advantages of the
+memory in almost all of the observer states, the proba-               theory, it remains a matter of intellectual interest that
+bilistic conclusion of the usual "external observation"               the statistical assertions of the usual interpretation
+                                                                      do not have the status of independent hypotheses, but
+    8 Einstein,
+                  Podolsky, and Rosen, Phys. Rev. 47, 777 (1935). are deducible (in the present sense) from the pure wave
+For a thorough discussion of the physics of observation, see the
+chapter by N. Bohr in A/bert Einstein, I'hilosopher-Scientist (The
+                                                                      mechanics that starts completely free of statistical
+Library of Living Philosophers, Inc. , Evanston, 1949).               postulates.
+

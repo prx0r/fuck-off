@@ -1,0 +1,231 @@
+# On Freedom [c. 1689)
+
+**source:** pdf · **section:** solutions
+**file:** Leibniz_Freedom
+---
+
+
+It is a very old doubt of mankind, how freedom and con-
+tingency can be reconciled with the series of causes and with
+providence. T h e difficulty of the matter has been increased
+by the dissertations of Christian authors on God's justice in
+procuring the salvation of men.
+     For my part, I used to consider that nothing happens by
+chance or by accident, except with respect to certain par-
+ticular substances; that fortune, as distinct from fate, is a n
+empty word; and that nothing exists unless its individual
+requisites 81 are given, and that from all these taken together
+it follows that the thing exists. So I was not far from the view
+of those who think that all things are absolutely necessary;
+who think that security from compulsion is enough for free-
+dom, 11 even though it is under the rule of necessity, and who
+do not distinguish the infallible—that is, a truth which is
+certainly known—from the necessary.
+     But I was dragged back from this precipice b y a considera-
+tion of those possibles which neither do exist, nor will exist,
+nor have existed. For if certain possibles never exist, then
+existing things are not always necessary; otherwise it would
+be impossible for other things to exist instead of them, and so
+all things that never exist would be impossible. For it cannot
+be denied that m a n y stories, especially those which are called
+' r o m a n c e s ' , are possible, even if they do not find any place in
+this series of the universe, which God has chosen—unless
+someone supposes that in the vast magnitude of space and
+time there exist the regions of the poets, where you could see
+wandering through the world King Arthur of Britain, Amadis
+of Gaul, and Dietrich von Bern, famed in the stories of the
+Germans. A certain distinguished philosopher of our century 0
+On Freedom                                                      10"
+
+seems to have been close to this opinion, for he says expressl;
+somewhere that matter takes on successively all the forms o
+which it is capable {Principles of Philosophy, Part I I I , art. 47)
+This view is indefensible, for it would remove all the beaut;
+of the universe and all choice, to say nothing here of othe;
+arguments by which the contrary can be shown.
+    Once I had recognised the contingency of things, I ther
+began to consider what a clear notion of truth would be; fo:
+I hoped, not unreasonably, to derive from this some ligh
+on the problem of distinguishing necessary from contingen
+truths. However, I saw that it is common to every tru<
+affirmative proposition—universal a n d particular, necessar;
+or contingent—that the predicate is in the subject, or that th<
+ notion of the predicate is in some way involved in the notioi
+of the subject, and that this is the principle of infallibilit;
+in every kind of truth for him who knows everything a priori
+But this seemed to increase the difficulty. For if, at a giver
+ time, the notion of the predicate is in the notion of the sub
+ject, then how, without contradiction and impossibility, car
+ the predicate not be in the subject at that time, without des
+ troying the notion of the subject?
+    A new and unexpected light finally arose in a quarter when
+ I least hoped for it—namely, out of mathematical considera
+ tions of the nature of the infinite. T h e r e are two labyrinth:
+of the h u m a n m i n d : one concerns the composition of th(
+continuum, a n d the other the nature of freedom, and botl
+spring from the same source—the infinite. T h a t distinguishec
+philosopher whom I mentioned above could not unrave
+these knots, or at any rate was unwilling to make his opinior
+known, but preferred to cut them with a sword. For he say:
+ {Principles of Philosophy, Part I, arts. 40 and 41) that we car
+easily involve ourselves in great difficulties if we try to recon
+cile God's preordination with the freedom of the will, anc
+that we must abstain from discussing them, since God':
+nature cannot be comprehended by us. H e also says (Part II
+art. 35) that we ought not to doubt that matter is divided at
+infinitum, even though we cannot understand this. But t h i
+is not enough: for it is one thing for us not to understand c
+thing, and another for us to understand its contradictors-
+: :-3                                                 On Freedom
+So it is at all events necessary to be able to answer those
+arguments which seem to imply that freedom or the division
+of matter imply a contradiction.
+   It must be known, therefore, that all creatures have i m -
+pressed on them a certain mark of the divine infinity, a n d
+that this is the source of m a n y wonders which amaze the
+h u m a n mind.
+   For example, there is n o portion of matter so small that
+there does not exist in it a world of creatures, infinite i n
+number. Again, every individual created substance, how-
+ever imperfect, acts on all others and is acted on by all others,
+and contains in its complete notion (as this exists in the mind
+of God) the whole universe, and whatever is, was or will be.
+Further, every truth of fact or of individual things depends
+on a series of infinite reasons, and all that is in this series
+can be seen by God alone. This is also the reason why God
+alone knows contingent truths a priori, a n d sees their in-
+fallibility in another way than by experience.
+   W h e n I had considered these more attentively, a pro-
+found difference between necessary and contingent truths
+came to light. Every truth is either original or derivative.
+Original truths are those of which a reason cannot be given;
+such truths are identical or immediate, and they affirm a term
+of itself or deny a contradictory of its contradictory. d Deriva-
+tive truths are again of two sorts: some are analysed into
+original truths, others admit of an infinite process of analysis.
+T h e former are necessary, the latter contingent. A necessary
+proposition is one whose contrary implies a contradiction,
+such as all identical propositions and all derivative propositions
+which are analysable into identical propositions. These are the
+ truths which are said to be of metaphysical or geometrical
+ necessity. For demonstration consists simply in this: by the
+ analysis of the terms of a proposition, and by substituting for
+ a defined term a definition or part of a definition, one shows a
+ certain equation or coincidence of predicate with subject in a
+reciprocal proposition, or in other cases at least the inclusion
+ of the predicate in the subject, in such a way that what was
+ latent in the proposition and as it were contained in it vir-
+ tually is rendered evident and express by the demonstration.
+On Freedom                                                    109
+               e
+For example : if we understand by a ternary, senary or
+duodenary (etc.) number one which can be divided by 3, 6
+and 12 respectively, we can demonstrate the proposition
+' E v e r y duodenary is a senary'. For every duodenary is a
+binary-binary ternary (for this is the analysis of a duodenary
+into its prime factors, 12 = 2 X 2 X 3 : i.e. the definition of a
+duodenary). Now, every binary-binary ternary is a binary
+ternary (which is an identical proposition), and every binary
+ternary is a senary (this is the definition of a senary: 6 = 2 X
+3). Therefore every duodenary is a senary (12 is the same as
+2 X 2 X 3 ; 2 X 2 X 3 1S divisible by 2 X 3 ; 2 X 3 is the same as
+6 ; therefore 12 is divisible by 6).
+    But in the case of contingent truths, even though the pre-
+dicate is in the subj'ect, this can never be demonstrated of it,
+nor can the proposition ever be reduced to an equation or
+identity. Instead, the analysis proceeds to infinity, God alone
+seeing—not, indeed, the end of the analysis, since it has no
+end—but the connexion of terms or the inclusion of the pre-
+dicate in the subject, for he sees whatever is in the series;
+indeed, this very same truth has arisen in part from his own
+ intellect and in part from his will, and expresses in its own
+way his infinite perfection and the harmony of the whole
+ series of things.
+    However, there have been left to us two ways of knowing
+ contingent truths; one is the way of experience a n d the other
+ the way of reason. T h e way of experience is when we per-
+ ceive a thing clearly enough by our senses; the way of reason
+ is derived from the general principle that nothing happens
+ without a reason, or, that the predicate is always in some way
+ in the subject. So we can regard it as certain that everything
+ is done by God in the most perfect way, that he does nothing
+ which is contrary to reason, a n d that nothing ever happens
+ without the m a n who understands it understanding its
+ reason—why, that is, the state of things is as it is rather than
+ otherwise. So reasons can be given for the actions of minds no
+ less than for the actions of bodies, although in the case of the
+ choices that minds make there is no necessity. Sins arise from
+  the original limitation of things; but God does not so much
+ decree sins as admit to existence certain possible substances,
+no                                                  On Freedom
+already involving in their complete notion, under the aspect
+of possibility, a free sin, and so involving the whole series of
+things which they will be in. For there can be no doubt that
+there are hidden reasons, transcending the understanding of
+every creature, why one series of things (although it includes
+sin) is preferred by God to another. However, God decrees
+only perfection, or what is positive; but limitation, and the
+sin which arises from it, is permitted by him, since given
+certain positive decrees it cannot absolutely be rejected, and
+reasons known to wisdom require that it should be redeemed
+by a greater good which cannot otherwise be obtained. But
+this cannot be considered here.
+   But to fix our attention better, so that the mind does not
+wander through vague difficulties, there occurs to me an
+analogy that holds between truth and proportions that seems
+to clarify the whole issue splendidly and put it in a clear
+light. Just as, in every proposition, the smaller number is
+contained in the larger, or an equal in an equal, so in every
+truth the predicate is in the subject. Further, in every pro-
+portion between homogeneous quantities one can carry out a
+kind of analysis of equal or congruent terms and subtract the
+smaller from the larger, by removing from the larger a part
+equal to the smaller; and similarly a residue can be sub-
+tracted from what has been subtracted, and so on either to a
+given point, or to infinity. So also, in the analysis of truths,
+one always substitutes for a term its equivalent, so that the
+predicate may be analysed into the terms which are contained
+in the subject. Now, in the case of proportions the analysis is
+sometimes completed and one arrives at a common measure,
+which is contained in each term of the proportion an in-
+tegral number of times. Sometimes, however, the analysis
+can be continued to infinity, which occurs in the comparison
+of a rational number and a surd, or of a side and the diagonal
+in a square. Similarly, truths are sometimes demonstrable
+or necessary, and sometimes they are free or contingent; the
+latter cannot be reduced by any analysis to an identity, as to
+a common measure. This is the essential distinction both be-
+tween proportionals and between truths.
+   However, incommensurable proportions have been mas-
+On Freedom                                                    111
+tered by the science of geometry, a n d we even have demon-
+strations about infinite series. M u c h more are contingent or
+infinite truths subject to the knowledge of G o d ; they are
+known by him, not by a demonstration indeed (for that would
+imply a contradiction) but by an infallible vision. But this
+vision that God has must not be conceived as a kind of experi-
+ential knowledge, as if he saw something in things which are
+distinct from himself, but rather as a priori knowledge (through
+the reasons for truths). For he sees things which are possible
+in themselves by a consideration of his own nature, but he
+sees existent things by the consideration of his own free will
+and his own decrees, of which the first is to do everything in
+the best way and with supreme reason. W h a t is termed
+' m e d i a t e knowledge' is simply the knowledge of contingent
+possibles.
+   W h e n these matters have been properly considered, I do
+not believe that any difficulty can arise in this topic whose
+solution cannot be derived from what has been said above. If
+one admits this concept of necessity—which all do admit—
+namely, that those propositions are necessary whose contrary
+implies a contradiction, it is readily apparent that the nature
+of demonstration and analysis can be explained, and also
+that there must be truths which are not reduced by any
+analysis to identical truths or to the principle of contradiction,
+but which furnish an infinite series of reasons, which God
+alone can see through. This is the nature of everything which
+is called free and contingent, and in particular that which
+involves space and time. It has been shown adequately above
+that this follows from the infinity of the parts of the universe
+and the mutual penetration a n d connexion of things.
+

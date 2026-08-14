@@ -1,0 +1,258 @@
+# 192                                                     THEORY OF LIGHT PRODUCTION
+
+**source:** pdf · **section:** solutions
+**file:** 1906_Light_Production
+---
+
+
+                                          Doc. 34
+                 ON THE THEORY OF LIGHT PRODUCTION AND LIGHT ABSORPTION
+                                      by A. Einstein
+                         [Annalen der Phy sik 20 (1906): 199-206]
+
+            In a study published last year1 I showed that the Maxwell theory of
+[2]   electricity in conjunction with the theory of electrons leads to results that
+      contradict the evidence on black-body radiation. By a route described in that
+      study, I was led to the view that light of frequency v can only be absorbed
+      or emitted in quanta of energy [R/N)0v, where R denotes the absolute
+      constant of the gas equation applied to one gram-molecule, N the number of
+      actual molecules in one gram-molecule, 0 the exponential coefficient of
+      Wien's (and Planck's) radiation formula, and v the frequency of the light in
+      question. This relationship was developed for a range that corresponds to the
+[3]   range of validity of Wien's radiation formula.
+            At that time it seemed to me that in a certain respect Planck's theory
+      of radiation2 constituted a counterpart to my work. New considerations, which
+      are being reported in §1 of this paper, showed me, however, that the theore­
+      tical foundation on which Mr. Planck's radiation theory is based differs from
+      the one that would emerge from Maxwell's theory and the theory of electrons,
+      precisely because Planck's theory makes implicit use of the aforementioned
+      hypothesis of light quanta.
+            In §2 of this paper I shall make use of the hypothesis of light quanta
+      to derive a relationship between the Volta effect and photoelectric diffusion.
+
+                  §1.   P l a n c k ’s theory of radiation and the light quanta
+
+            In §1 of my paper cited above I have shown that the molecular theory of
+      heat combined with the Maxwell theory of electricity and the theory of
+
+[1]   lk. Einstein, Ann. d. Phys. 17 (1905): 132.
+[4]   2M. Planck, Ann. d. Phys. 4 (1901): 561.
+DOC. 34                                                                   193
+
+electrons lead to a formula for black-body radiation that contradicts
+experience
+
+                                n _ R 8m>2 T .
+(1 )                              ~ 7}
+
+      Here p    denotes the density of radiation at temperature T and at a
+frequency between v and v + 1.
+      What is the reason that Mr. Planck did not arrive at the same formula,
+but obtained instead the expression
+
+(2)                                                                              [5]
+
+      Mr. Planck derived1 the mean energy E v of a resonator of proper
+frequency v situated in a space filled with disordered radiation as given by
+the equation                                                                     [7]
+
+(3)                                                                              [8 ]
+
+This reduced the problem of black-body radiation to the problem of determining
+E as a function of temperature. The latter problem will have been solved if
+one can calculate the entropy of one of many similarly constituted, mutually
+interacting resonators of proper frequency v that are in dynamic
+equilibrium.
+      Let us envision the resonators as ions that could perform rectilinear
+sinusoidal vibrations about an equilibrium position. The fact that the ions
+have electrical charges is irrelevant in the calculation of this entropy; we
+simply have to conceive these ions as mass points (atoms) whose momentary
+state is completely determined by their instantaneous deviation x from the
+equilibrium position and by their instantaneous velocity dx/dt = £.
+
+LM. Planck, Ann. d. Phys. 1 (1900): 99.                                          [6 ]
+       194                                                   THEORY OF LIGHT PRODUCTION
+
+             For the distribution of states of these resonators to be uniquely
+       determined in thermodynamic equilibrium, one has to assume that there exists
+       an arbitrarily small number of freely moving molecules besides the resonators,
+       which by virtue of their collisions with the ions can transmit energy from
+[9]    resonator to resonator; we will not take into account these molecules in our
+       calculation of entropy.
+             We could determine E y as a function of temperature from the Maxwell-
+[10]   Boltzmann distribution law and would thereby obtain the invalid radiation
+       formula (1). One arrives at the route taken by Mr. Planck in the following
+       manner.
+             Let P y - P n be appropriately chosen state variables1 that completely
+       determine the state of a physical system (e.g., in our case the values x ar.:
+       £ of all the resonators). At the absolute temperature T, the entropy S of
+       this system is represented by the equation2
+
+       where H denotes the energy of the system at temperature T, H denotes the
+       energy as a function of p ^ , . . . p n< and the integral is to be extended over all
+       possible combinations of the values of jP y . . . p .
+             If the system consists of a very large number of molecular structures--
+       and the formula has meaning and validity only in this case--then only those
+[13]   combinations of values of the p ^ . . . p n whose // differs very little from B
+       contribute significantly to the value of the integral appearing in S .3 If
+       this is taken into account, it is easily seen that, except for negligible
+       quantities, one can put
+                                             ,//+A//
+[14]                               S s irl6\B      dpV    dpn '
+
+[11]   1A. Einstein, Ann. d. Phys. 11 (1903): 170.
+       2loc. cit. §6.
+       3Follows from §3 and §4 loc. cit.
+DOC. 34                                                                                       195
+
+where M l should be chosen very small, yet large enough to make R l g { M t ) / N
+a negligible quantity. S is then independent of the value of Ml.
+      If one substitutes the variables x Un and f fl of the resonators instead
+of dp.,...dp
+      1      fl in the equation and takes into account that the equation
+holding for the a-th resonator is
+
+                                fE + d E ,
+                                 r        “ d xad Esft = const. dE a
+
+(because JE is a quadratic, homogeneous function of                       and     £ft), one
+obtains the following expression for S:
+
+                                          Q R
+(5)                                       b = If
+
+where one has put
+                                          r//+A#
+(5a)                                V =
+                                                    1
+
+      If one would calculate S according to this formula, one would again
+arrive at the invalid radiation formula (1). To arrive at Planck's formula,                         [15]
+one has to postulate that, rather than assume any value whatsoever, the energy
+Ea of a resonator can only assume values that are integral multiples of e,
+where
+
+                                           e = i^v •
+
+      This is because, on setting M l = e, one immediately sees from equation
+(5a) that, except for an inconsequential factor, V turns into the very
+quantity that Mr. Planck named "the number of complexions."
+      Hence, we must view the following proposition as the basis underlying
+Planck's theory of radiation:
+      The energy of an elementary resonator can only assume values that are
+integral multiples of (R/N)0i>■, by emission and absorption, the energy of a
+resonator changes by jumps of integral multiples of (R/N)()v.
+          ( f v /M V A i %1/ m P S 6 e 7 V J tl5 \j e f lje y ie y i e y z fm ?
+                       xevy?/y£^/es &&f=<rjL<r -pne't&Af. A to -h f
+       196                                                    THEORY OF LIGHT PRODUCTION
+
+             However, this assumption involves yet a second one, because it contra­
+       dicts the theoretical basis from which equation (3) is developed. For if the
+       energy of a resonator can only change in jumps, then the mean energy of a
+       resonator in a radiation space cannot be obtained from the usual theory of
+       electricity, because the latter does not recognize d i s t ingu ishe d energy values
+       of a resonator. Thus, the following assumption underlies Planck's theory:
+             Although Maxwell's theory is not applicable to elementary resonators,
+       nevertheless the mea n energy of an elementary resonator in a radiation space
+[17]   is equal to the energy calculated by means of Maxwell's theory of electricity.
+             This proposition would be immediately plausible if, in all those parts
+       of the spectrum that are relevant for observation, e = (R/N)f)v were small
+       compared with the mean energy J      of a resonator; however, this is not at all
+       the case, for within the range of validity of Wien's radiation formula, e^v^
+       is large compared with 1. It is easy to prove that according to Planck's
+       theory of radiation, within the range of validity of Wien's radiation formula,
+       E J e has the value e~^v ^ , thus, E    is much smaller than e. Therefore
+       only a few resonators have energies different from zero.
+             In my opinion the above considerations do not at all disprove Planck's
+       theory of radiation; rather, they seem to me to show that with his theory of
+       radiation Mr. Planck introduced into physics a new hypothetical element: the
+       hypothesis of light quanta.
+
+              §£!. An expected quantitative rel ationship between pho toele ctri c
+                               diffusion and the Volta effect
+
+             It is well known that if metals are ordered according to their photo­
+       electric sensitivity, one obtains the Volta electric potential series, in
+[18]   which a metal is the more photosensitive the closer it is to the electro-
+tig]   positive end of the electric potential series.
+             To a certain degree, this fact can be understood by assuming only that
+       the forces (which are not to be examined here) that produce the active double
+       layers reside on the metal-gas interface rather than on the metal-metal
+       interface.
+DOC. 34                                                                   197
+
+      Let these forces produce an electric double layer on the surface of a
+piece of metal M that borders on a gas, and a corresponding potential
+difference V between metal and gas, taken as positive when the metal has the
+higher potential.
+      Let Vi and ^ be the potential differences between metals           and
+#2 in electrostatic equilibrium if they are insulated from each other. If
+the two metals are brought into contact, the electric equilibrium is disturbed
+and complete1 voltage equalization of the metals takes place. Thereby, simple
+layers will be superposed on the aforementioned double layers at the metal-gas
+interfaces; to these corresponds an electrostatic field in the air space whose
+line integral equals the voltage difference.
+      If Ve and Vf denote the electric potentials at points of the gas
+                     t2
+space directly adjacent to the metals in contact, and V' denotes the
+potential in the interior of the metals, we have
+
+      Thus, the electrostatically measurable Volta difference is numerically
+equal to the difference of the potentials assumed by the metals in the gas if
+they are insulated from each other.
+      If one ionizes the gas, the electric forces present in the gas space
+will cause a migration of the ions, to which there corresponds a current in
+the metals which, at the place of contact of the metals, is directed from the
+metal with the higher V (less electropositive) to the metal with the lower       [20]
+V (more electropositive).                                                        [21]
+      Suppose a metal M is insulated in a gas. Let V be its potential
+difference with respect to the gas that corresponds to the double layer. In
+order to move a unit of negative electricity from the metal into the gas, an
+amount of work numerically equal to the potential V has to be performed.
+Hence, the greater the V, i.e., the less electropositive the metal, the more     [22]
+
+‘We disregard the effect of thermoelectric forces.
+198                                                   THEORY OF LIGHT PRODUCTION
+
+energy is needed for the photoelectric diffusion, i.e., the smaller the
+photoelectric sensitivity of the metal.
+      So far we have considered the facts without making assumptions about the
+nature of photoelectric diffusion. However, the hypothesis of light quanta
+also yields a quantitative relationship between the Volta effect and photo­
+electric diffusion. Thus, to move a negative elementary quantum (charge c)
+from the metal into the gas, it has to be supplied with at least an energy
+Ve. Then, a light species will be able to remove negative electricity from
+the metal only when the "light quantum" of that light species has at least the
+value Ve. We thus obtain
+                                     Ve i % flv
+or
+                                      V i \ 0v ,
+
+where  A denotes the charge of one gram-molecule of a univalent ion.
+      If we now assume that some of the absorbing electrons are able to leave
+the metal as soon as the energy of the light quanta exceeds Ve1 — which is a
+very plausible assumption — we obtain
+
+                                      r ^ f v     ,
+
+where  v denotes the lowest photoelectrically effective frequency.
+      Thus, if v j and      are the lowest light frequencies acting on the
+metals H^ and M 2 , the following equation will hold for the Volta potential
+difference vn of the two metals:
+
+                        - <12 " h -                             h -7      - »2>-
+
+or, if   F12 is measured in volts:
+
+                          F12 = 4.2 x 10 l5(u2 - vx) .
+
+'The thermal energy of electrons is disregarded.
+DOC. 34                                                                  199
+
+      This formula contains the following, at least by and large valid,
+proposition: The more electropositive a metal, the smaller the lowest light
+frequency that is effective for that metal. It would be of great interest to   [23]
+know whether this formula expresses the facts in a quantitative way as well.   [24]
+
+      Bern, March 1906.   (Received on 13 March 1906)
+

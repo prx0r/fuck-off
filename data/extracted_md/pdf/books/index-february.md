@@ -1,0 +1,571 @@
+# 420   My God, He Plays Dice!
+
+**source:** pdf · **section:** books
+**file:** index-february
+---
+
+
+                        I n d ex
+Index
+                                                                          Index 421
+
+          Index                             beyond logic and language 185
+                                            Big Bang 36, 358
+                                            binomial distribution 3
+                                            binomial expansion 8, 11
+                                            birefringent crystal 198–200
+A                                           BKS 72, 107–109, 376
+                                            blackbody radiation 25, 42, 59, 299
+absolute principles 6, 301
+                                            black hole 343
+absolute zero 62, 105
+                                            Bohm, David xviii, 101, 124, 185, 212,
+acausality xxvi, 212
+                                                    213, 243–247, 250, 260, 269,
+action-at-a-distance , xvi, xvii, xviii,
+                                                    276, 289, 312
+        xx, xxi, 171, 178–179, 215, 244,
+                                            Bohmian Mechanics 245, 329
+        317, 361, ii, 365, 377
+                                            Bohr atom xxvi, 71–79, 107, 108, 187,
+adequate determinism 93, 335, 358
+                                                    376
+Aharonov, Yakir 243, 267
+                                            Bohr-Kramers-Slater. See BKS
+Alice and Bob 230–245, 262, 264
+                                            Bohr, Niels xvi, xxvii, 33, 53, 59, 61,
+alternative possibilities 358, 375
+                                                    71, 107, 115, 153, 165, 172,
+Andromeda galaxy 340
+                                                    183, 197, 205, 210, 222, 267,
+Ångström, Anders 73
+                                                    285, 328, 353, 376
+anharmonic oscillator 120
+                                              and complementarity 165–169
+Aristotle 13
+                                              Como lecture 163, 167, 172, 192,
+arrow of time 7, 87, 304
+                                                    373
+artificial consciousness 255
+                                              correspondence principle of 112,
+artificial intelligence 255                         188, 335, 368
+Aspect, Alain 268                             quantum postulates of 75, 81, 82,
+axiom of measurement 123, 146, 334                  145, 169, 187, 222
+                                              stationary states of 33, 59, 71–79,
+B                                                   76, 81, 109, 111, 145, 147, 169,
+                                                    187, 222
+Baade, Walter 340
+                                            Boltzmann factor 35, 60, 92, 103
+backward causation 267
+                                            Boltzmann, Ludwig xxv, 6–9, 19, 25,
+Balmer formula 74, 111
+                                                    39, 48, 75, 85, 153, 293, 295,
+Balmer, Johann 73
+                                                    301, 303, 317, 320, 323
+beable 334
+                                              complexions of 43
+Bekenstein, Jakob 343
+                                              entropy of 39
+bell curve 3–5, 11, 303, 309
+                                              H-Theorem 25, 153
+Bell inequality 125, 232, 259–273, 276
+                                              philosophy of 22
+ unrealistic straight line and kink
+                                            Boltzmann’s constant 35, 39, 304
+        262–264
+                                            Boltzmann’s principle 39, 51, 69, 73,
+Bell, John xxiii, 59, 124, 186, 254, 257,
+                                                    81, 301, 304
+                                                                                       Index
+
+        267, 259–273, 276, 285, 289,
+                                            Boltzmann transport equation 356
+        331, 334
+                                            Born, Max xvi, xix, 88, 99, 101, 111,
+ Against Measurement 271
+                                                    113, 123–124, 144, 153–155,
+ superdeterminism 266–267
+                                                    171, 187, 196, 272, 286, 303,
+Bell’s Theorem 273
+                                                    327, 346, 367
+Bell’s Theorem 259
+                                              Waynflete lectures 157
+Besso, Michele 312, 345
+                                            Bose-Einstein condensation 105
+    422        My God, He Plays Dice!
+
+          Bose, Satyendra Nath 35, 103–105,           “hard problem” 353
+                 119, 376                           conscious observer xvii, xxvi, 185,
+          Bothe, Walther 109                               186, 193, 200–202, 247, 254,
+          bra-ket notation 144, 148                        269, 285, 325, 331–332, 365,
+          Brillouin, Leon 189                              370
+          Broglie, Louis de xvi                     conservation laws xxiv, 81, 97, 217,
+          de Broglie, Louis xix, 76, 97, 99, 109,          231
+                 119, 172, 187, 244, 272, 373       conservation of energy 6, 109
+          Brownian motion xvii, 41, 55, 300,        conservation of information 43
+                 375, 377                           conservation of momentum 84, 207,
+          Buckle, Thomas Henry 16, 20                      215, 231, 233, 238, 245
+                                                    conservation principles xxii, 186,
+          C                                                215–216, 275, 280, 329
+                                                      and symmetry 299, 301
+          Carnap, Rudolf 336                        constants of the motion xviii, xxiii,
+          cat is its own observer 336                      xxiv, 233, 238, 244, 251, 272
+          causality 77, 85, 153, 157, 165, 300      constructive theories 73
+          causa sui 14                              continuous 326, 330
+          central limit theorem 4                   continuous or discrete xvii, xix, 4, 48,
+          Cepheid variable 340                             56, 65, 71–73, 307, 327
+          CERN 272                                  continuum 5, 154, 300
+          chance xvi, xxii, xxvii, 9, 11–17, 37,    Conway, John 267
+                   40, 77, 157, 212, 337, 365       Copenhagen Interpretation xx–xxvi,
+            epistemic 153                                  xxi, xxiii, xxiv, xxvii, 79, 99,
+          “characteristic trait” of quantum me-            107, 151, 153, 163, 165, 178,
+                   chanics 348                             181, 183–193, 197, 207, 211,
+          Chrysippus 14                                    216, 234, 244, 245, 253, 257,
+          CHSH 265                                         260, 275, 280, 286, 317, 327,
+          CHSH inequality 264                              332, 334, 336, 353, 370, 376
+          Clauser, John 264                           opposition to 191
+          coarse graining 44                        correlations xx–xxiv, 153, 259, 263,
+          co-creators of the universe 359                  318
+          coherence 196                             correspondence principle 104, 112,
+          collapse of the wave function xxvii,             188, 368
+                   59, 143, 147, 150, 179, 191,     cosmic consciousness 249
+                   196, 203, 215, 217, 239, 254,    cosmic creation process 333–334,
+                   270, 287, 292, 325, 335, 369            339, 359
+          Como lecture 163, 210                     cosmic microwave background 341
+          complementarity xxvii, 165–169, 189,      cosmological constant 339, 348
+                   192, 197, 205, 210, 327
+Index
+
+                                                    cosmological principles 299
+          completeness xxi, 167, 188, 191, 192,     cosmology 339–343
+                   205–213                          Cramer, John 267, 283, 330
+          Compton, Arthur Holly 96, 100, 107,       curvature of universe 349
+                   183, 376
+          Compton Effect 96–97, 109, 160, 162,      D
+                   167, 376
+          Comte, Auguste 336                        dark energy 341
+          consciousness                             dark matter 341
+                                                                      Index 423
+
+David Bohm xiii                            “biggest blunder” 348
+Davies, P. C. W. 266                       castle in the air xvii, 312
+Davisson, Clinton 101                      critic of quantum mechanics xxi
+DeBroglie-Bohm 289                         gravitational lenses and 55
+decoherence 59, 124, 191, 215, 217,        gravitational waves and 55
+        220, 231, 238, 285–295, 329,       interpretation of wave function 100
+        336, 374                           originator of relativity and quantum
+decoherence program 287                          mechanics xxi
+Dedekind, Richard xxiii, 298, 308          separability principle of 217, 219
+degrees of freedom 41, 60–62, 103          statistics and 40
+Democritus 13                              theories as fictions 297
+de Moivre, Abraham 15                      What did he see? 52
+detailed balancing 92                    Einstein-Podolsky-Rosen xx, 205–
+determinism xix, 13, 124, 153, 155,              213, 259, 261, 300. See EPR
+        159, 165, 212, 249, 260, 300     Einstein’s Boxes 207–208
+  statistical 331–332, 335               Einstein’s Continuum 307–309
+DeWitt, Bryce 252, 256                   Einstein’s Cosmology 339–343
+Ding-an-sich 336                         Einstein’s Field Theory 311–315
+Dirac, Paul 105, 171, 188, 195, 203,     Einstein’s Mistakes 207, 345–349
+        207, 211, 221–223, 227, 236,     Einstein’s Objective Reality 317–321
+        264, 283, 286, 321, 330          Einstein’s Principles 297–301
+  axiom of measurement 146, 189,         Einstein’s Quantum Theory 323–337
+        195, 332                         Einstein’s Statistics 303–305
+  Einstein on 123                        element of reality 206
+  manner of speaking 143                 Elsasser, Walther 101
+  principle of superposition 145, 189,   ensembles 44, 254, 280
+        195, 221–222, 260, 288, 332      entanglement xvii, xx, xxiv, 124, 179,
+  projection postulate 147, 171, 189,            208, 215, 219, 222, 228, 229–
+        190, 195, 203, 260, 287, 332             245, 232, 245, 259, 269, 272,
+  three polarizers 140, 276, 335                 275, 320, 325, 347, 365, 377
+  transformation theory of 123             as a resource 361
+Dirac’s Principles 123–151               entropy 7, 60, 67, 103, 153, 374, 377
+discrete xvii                              actual 358
+disentanglement 220, 231, 236, 374         Boltzmann 200
+                                           local 357
+E                                          negative 333, 358
+                                           of radiation 51
+early universe                             positive 333, 359
+  at maximum entropy 358                   Shannon 200
+Eddington, Arthur Stanley 55, 87, 95,    environmental monitoring 295
+                                                                                  Index
+
+        159                              Epicurus 13
+Ehrenfest, Paul 97                       epistemology xxvi–xxvii, 162, 184,
+Einstein , ii                                    187, 193, 205, 210
+Einstein, Albert 22, 32, 37, 39          EPR xx, 52, 167, 172, 205, 205–213,
+  A and B coefficients 294, 346                  219, 222, 229, 267, 276, 318,
+  a false asymmetry? 230                         329, 347
+  and Information Philosophy               paradox 209, 329
+        351–359                          equipartition of energy 34, 41
+  as first solid state physicist 63      equivalence principle 229, 297
+    424        My God, He Plays Dice!
+
+          ergodic hypothesis 44                      Gamow, George 348
+          ether xxvii, 300                           Gauss, Carl Friedrich 3
+          Everett-DeWitt 289                         Geiger counter 223, 226
+          Everett, Hugh 124, 191, 249–257            Geiger, Hans 109
+          Exner, Franz S. 153                        Germer, Lester 101
+          expansion of space xxiii, 358              Ghirardi-Rimini-Weber 289
+          expansion of the universe 349, 358         ghost field xix, xxvi, xxvii, 99, 109,
+                                                            156, 189, 315, 327–328
+          F                                          Gibbs, J. Willard 42, 90, 349
+                                                     Gibbs-Liouville 349
+          false asymmetry 230                        Gifford Lectures 159
+          faster-than-light xviii, xx, xxiv, 216,    Gisin, Nicholas 267
+                  233, 245, 268, 272                 God does not play dice xxii, xxvi, 84,
+          Feynman, Richard 247, 249, 275–283,               148, 190, 294, 303, 346
+                  319, 323, 325, 330, 343, 356       Gödel, Kurt 210
+            path-integral formulation 283, 323,      God made the integers xxiii, 298,
+                  343, 369                                  308–309
+          fields xvii, 4                             goes beyond experience 154, 297, 308
+            or particles 4                           Gottfried, Kurt 286
+          fields are metaphysical xxvii              gravitational lenses 55
+          fields as “fictions” xxvii                 growth of information in the universe
+          fields or particles 345                           358
+          field theory 47, 57, 155, 307, 324, 330,   guiding field xix, xxvii, 99, 109, 156,
+                  337                                       189, 190, 282, 315, 327–328
+            unified 57
+          fine tuning 342
+          first law of thermodynamics. 6
+                                                     H
+          fixed stars 339                            Hameroff, Stuart 267
+          flatness problem 339                       harmonic oscillator 120
+          flat universe 349                          Hawking, Stephen 343
+          fluctuations 6, 39–42, 45, 69, 303, 308    heat death 358
+          for all practical purposes 293             Hegel, Georg W. F. 165
+          founders of quantum mechanics xvi,         Heisenberg cut (Schnitt) 185, 200,
+                  xx, 159, 189, 260, 298, 303,               270–271, 285, 334, 370
+                  305, 332                           Heisenberg’s microscope 160, 167
+          free choice xxvii, 169, 181, 193, 211,     Heisenberg, Werner xvi, xxvii, 65, 76,
+                  212, 237–240, 245, 266, 267,               85, 97, 100–101, 109, 111, 120,
+                  286, 317, 318, 362, 368, 371               123, 153–154, 157, 159, 165,
+          free creations of the human mind                   171, 177, 183, 197, 200, 205,
+                  xvii, xviii, xxiii, xxvi, 5, 47,           206, 222, 267, 270, 271, 275,
+Index
+
+                  57, 211, 298, 307–308, 315,                285, 303, 317, 321, 326, 370
+                  324–325, 346, 353, 368, 373          denies light quanta 53
+          free will xxii, 16, 159, 165–166, 358,       on free choice 237–238
+                  368                                Hertz, Heinrich 49
+                                                     hidden constant 361
+          G                                          hidden constants xvii, xviii, xxiii,
+                                                             xxiv, 233, 244, 259, 362, 365,
+          galaxies, stars, and planets 358                   372
+          Galton, Francis 11                           are local 235
+                                                                          Index 425
+
+hidden variables xiii, xvii, xviii, xix,   interpretations of quantum mechanics
+       xxiv, 101, 233, 244, 243–247,              227, 245
+       250, 253, 259, 263, 272, 289,       in two places at once 186
+       365, 372                            irreversibility xvi, xxii, xxv, 7, 20–23,
+  are nonlocal 235                                25, 40, 65–67, 81, 85, 145, 149,
+Higgs boson 311                                   153, 188, 189, 196, 239, 247,
+Hilbert, David 56                                 252, 304, 317, 331, 332, 353,
+Holt, Richard 264                                 356, 365, 369, 377
+Horne, Michael 264                           and objective reality 319
+Hubble, Edwin 340, 349                       appearance of 252
+Hume, David 166, 184, 336, 377               macroscopic 26
+hydrogen atom 120                            microscopic 26, 37, 87–93
+                                             origin of 66, 89, 291
+I                                          isomorphism 352–353
+                                           isospin 114
+immaterial 165, 325, 330                   Is the moon only there xx, 216
+  ideas 307
+impossibility of simultaneity 213          J
+incoming spherical waves 26, 65, 66,
+        93                                 James, William 17, 225, 337
+incompleteness xx, 188, 192, 195, 206,     John Bell xiii
+        210, 305, 328                      Joos, Erich 287
+indeterminacy 37, 97, 187, 211             Jordan, Pascual 111, 123, 187, 286
+indeterminism xvi, xxvi, 154, 212,
+        220, 329–330, 375, 377             K
+inequalities 124
+Infeld, Leopold 309                        Kant, Immanuel 16, 165, 184, 336
+information 330                            Kastner, Ruth 283, 330
+  and entropy 251                          kinds of measurement 239
+  architecture 432                         kinetic gas theory 41, 43, 303
+  how created? 203, 358                    kink
+  in a deterministic world 357               in Bell’s inequality 263–264
+  in entngled particles 354                Kirchhoff, Gustav 25, 37
+  in microscopic irreversibility 356       Kirchhoff ’s Law 25, 299
+  in the measurement problem 357           knowledge-at-a-distance xx, xxiv,
+  in the two-slit experiment 355                  209, 212, 232, 375, 377
+  neither matter nor energy 233, 351       Kramers, Hendrik A. 107–109, 111
+  not conserved 333                        Kronecker, Leopold xxiii, 298, 308
+information paradox 343
+Information Philosophy 351–359             L
+                                                                                       Index
+
+information structure 9, 195, 234,
+        325, 334, 351, 358                 Ladenberg, Rudolf 112
+  in the arrangement of particles 358      Landauer, Rolf 189
+interaction                                Landau, Lev 197, 286
+  of matter and radiation 33, 65, 81,      language 184–185, 189–190, 193
+        85, 88–89, 91, 96, 150, 153,       Laplace, Pierre-Simon 15, 20, 357
+        196, 203, 226, 304, 346            Laplace’s demon 161, 333, 357
+interference xix, 276                      large quantum numbers 112, 188, 335
+interpretations 334, 336                   laser 81
+    426        My God, He Plays Dice!
+
+          law of large numbers 4, 15, 40, 189,               198–201, 203, 285, 334
+                  304, 336                           measurement of the first kind 149,
+          Leibniz, Gottfried 339                             239, 334
+          Lenard, Philipp 49                         measurement of the second kind 149,
+          Leucippus 13                                       239
+          Lewis, Gilbert 114                         measurement problem xvii, xxi, xxvi,
+          Libet, Benjamin 267                                190, 195–203, 247, 287, 290,
+          Lifshitz, Evgeny 197, 286                          292, 325, 365, 374
+          light quanta xvii, 95, 99, 109             measuring apparatus 239, 357
+            Heisenberg on 114                        Messenger Lectures 277
+          light quantum hypothesis 47–53, 62,        Messiah, Albert 63, 286
+                  72, 99, 103, 107, 172, 178, 222,   metaphysical mystery 276
+                  376                                 See mystery, one deep 276
+          Liouville theorem 251, 349                 metaphysics 297
+          local reality xvii, xx, 172, 209, 238,     microscopic irreversibility xvi, xxv,
+                  276, 317–319                               22, 37, 67, 320, 365
+          Locke, John 166, 184, 336                   and macroscopic 26, 87–93
+          logic 185                                  Milky Way 340
+          Lorentz, Hendrik 55                        Miller, Arthur I. 377
+          Loschmidt, Josef 20, 40, 43, 87, 293,      Millikan, Robert A. 50, 95, 107
+                  366                                mind-body problem 193
+          Loschmidt’s paradox 20, 43, 295            Minkoswki, Hermann 55, 345
+          lost information 43                        mistakes 210
+          lucky guess                                de Moivre, Abraham 3
+            by Bohr 75                               molecular chaos 22, 40, 85, 90, 320
+            by Planck 29, 82                         molecular disorder xxv, 22, 153, 325,
+          Lucretius 13, 56                                   356
+                                                     mystery, one deep xvii, xix, xxv, 47,
+          M                                                  179, 209–210, 219, 236, 247,
+                                                             275–277, 282, 321, 325, 345,
+          Mach, Ernst 166, 184, 297, 299, 336,               352–354, 356, 365, 367, 369,
+                 377                                         371, 374
+          macroscopic superpositions 287
+          manner of speaking 207, 211, 221,          N
+                 291, 361
+           and objective reality 143                 natural radiation 27
+          many worlds 124, 191, 249–257, 289         Nature’s choice 181, 211, 212, 240,
+          matrix mechanics 65, 100, 111, 111–               286
+                 117, 123, 159, 191, 192, 303        necessity 13, 157
+                                                     negative entropy (information) 149
+Index
+
+          Max Born xiii
+          Max Planck xiii                            Nernst, Walther 62
+          Maxwell-Boltzmann law 34, 40, 82           Neumann, John von xxi, 9, 88, 91,
+          Maxwell, James Clerk xxvii, 4, 19, 39,            185, 195–203, 216, 239, 247,
+                 75, 301, 307, 320                          249, 269, 285, 357, 369, 370
+           on stability of the atoms 76               Process 1 195, 203, 239, 249
+          Maxwell’s demon 377                         Process 1b 196, 202
+          Maxwell’s Laws 299                          Process 2 195, 249, 331
+          measurement apparatus 149, 188,             Process 3 203
+                                                                             Index 427
+
+new information xxiii, 88, 239, 336,           and Dirac manner of speaking 143
+       359                                   obscure clarity 165
+Newton, Isaac 3–5, 307                       observable xvii, xxiii, 112, 145, 203,
+Newton’s laws of motion 299                         334, 341
+Nicholson, J.W. 71, 76, 114                  Occam’s Razor 237, 299
+Niels Bohr xiii                              oil-drop experiment 95
+Nobel Prize                                  old quantum theory 111, 145
+ Max Born’s 347                              ontological chance xvi, 13, 82, 85, 88,
+ of Born 157                                        150, 190, 211, 260, 319, 325,
+ of de Broglie 101                                  346, 365, 366, 374
+ of Dirac 159                                ontology xxvi–xxvii, 162, 193, 370
+ of Einstein 47, 95, 107, 172, 375           orthodox quantum mechanics 318
+ of Heisenberg 157
+ of Planck 108                               P
+no conflict with relativity 375
+Noether, Emmy 6, 229, 299, 301               Pais, Abraham xxi, 63, 205, 347
+no microscopic reversibility 374             panpsychists 185
+non-commuting variables 123                  paradox
+nonlocality , xvi, xvii, xviii–xxi, xxv,       EPR 209, 230
+       52, 67, 124, 171–181, 183, 208,         Gibbs 43
+       219, 235, 246, 259–261, 267,          particles are real xxvii
+       272, 273, 276, 300, 303, 317,         particles or fields xxvii, 57
+       320, 325, 337, 347–348, 348,          Pascal, Blaise 11
+       ii, 377                               path information 90–91, 186
+ single-particle 215, 260                    path-integral formulation 283, 330
+nonseparability , xvi, xix–xx, 171,          Pauli, Wolfgang 97, 100, 104, 239
+       208, 215–217, 245, 259, 260,            kinds of measurement 149, 239
+       320, 347–348, 361, ii, 374            Peirce, Charles Sanders 16
+no particles 155, 287                        Penrose, Roger 267, 269
+no properties until measurements             perfume bottle 21
+       xxvi                                  periodic table 77, 328
+no quantum jumps 287                         Perrin, Jean 41, 56
+no quantum world xxviii, 166, 184,           Petersen, Aage 184
+       193, 335                              phase space xxiii, 42, 44, 103, 105,
+normal distribution 5, 40                            119, 251
+no spooky action-at-a-distance 375           phase-space 358
+                                             photoelectric effect xvii, xviii, xxv, 49,
+O                                                    95, 160, 178, 196, 327, 375, 377
+                                             photon 47
+objective reality xiii, xviii–xx, xx,        pilot waves 99–101, 120, 124, 185, 289
+                                                                                          Index
+
+       xxi, xxii–xxiii, xxiii, xxv, 9, 45,   Planck, Max 25, 41, 67, 71, 87, 103,
+       57, 78, 97, 117, 151, 162, 166,               107, 225, 244, 301, 304
+       169, 179, 186, 187, 190, 193,           natural constants of 35–37
+       206–208, 216, 217, 226, 233,            natural radiation of 27
+       234, 237, 238, 244, 245–247,            radiation law of 28, 33
+       272, 275, 276, 280, 286, 291,         Planck radiation law xxii, 59, 62, 69,
+       309, 317–321, 323, 335, 337,                  81, 82, 93, 103, 346, 376
+       354–355, 355, 365, 368, 375           Planck’s constant 85, 103, 168, 188,
+    428        My God, He Plays Dice!
+
+                 373                                      185, 188–189, 256, 287, 304,
+          Podolsky, Boris 205, 329                        331, 336, 368
+          Poincaré, Henri 27, 377                  quantum world 183, 375
+          possibilities field 332                  qubit 213
+          predetermination 262                     qubits 273, 363
+          preferred frame 230, 268, 269            Quételet, Adolphe 16, 19
+          Preskill, John 343
+          Price, Huw 267                           R
+          principle of superposition 123–125,
+                 145–146, 151, 211, 334, 371       radioactive decay 84
+          principles 39, 57, 237                   Rayleigh, Lord 29
+          probability amplitude xxii, 155, 198,    “reading off ” energy levels 34, 77,
+                 227, 277, 369                             111, 112
+          projection postulate 123, 147, 151,      reality 57
+                 334                               rearrangement collision 91
+          pseudo-isotropy 93                       recurrence objection 366
+          psycho-physical parallelism 185, 201,      objection 37
+                 216, 285                          recurrence paradox 26
+          Putnam, Hilary 216, 269                  reduction of the wave packet xxvii
+                                                   relative state 252, 256
+          Q                                        relativity 55–57
+                                                     conflict with quantum mechanics
+          quantum computing xxi, 361                       xx, xxv, 178–179, 325
+          quantum condition 100, 111, 113–           general theory of xvii, 95, 159, 229,
+                  114, 373                                 297
+          quantum electrodynamics 311                of simultaneity xix, 52, 179, 217,
+          quantum encryption xxi                           245, 244–245, 320, 368
+          quantum field theory 311                   special theory of 52, 55, 65, 96, 172,
+          quantum jumps 59, 71, 75, 76, 81, 91,            178, 179, 208–209, 229, 245
+                  100, 109, 111, 114, 121, 124,      violations of xx, 245, 260, 269,
+                  187, 191, 221, 254                       324–325
+           are there? 271, 289                     resolving power 167
+          quantum mechanics                        reversibility objection 37, 293, 366
+           founders of xx–xxi                      Rietdijk, C. W. 269
+           interpretations of 123                  Rosenfeld, Leon 79, 208, 232, 238,
+           orthodox xxvi                                   336
+          quantum mysteries xxi, 185               Rosen, Nathan 205–206, 329
+          quantum numbers 111, 169                 Rubens, Heinrich 29
+           first appearance of 75                  Russell, Bertrand 184, 210, 336
+          quantum of action 41, 44, 72, 73, 100,   Rutherford, Ernest 72, 84, 112, 146,
+Index
+
+                  114, 188                                 294, 346
+          quantum physics xvi                      Rutherford’s atomic model 72, 73
+          quantum postulates 93, 169, 187, 191,    Rydberg constant 74
+                  222                              Rydberg, Johannes 74
+          quantum postulates. 75
+          quantum reality 77, 114, 183             S
+          quantum statistics 42, 63, 321, 328
+          quantum-to-classical transition 93,      S = k log W 7, 30, 39, 51, 301, 304,
+                                                                            Index 429
+
+         343                                Sommerfeld, Arnold 112
+Salzburg conference 65                      space and time xxiii, 55, 345
+scattering a two-step process 97            spacelike separation xix, xx, 52, 179,
+Schilpp, Paul 172, 311                              208, 217, 230, 239, 245, 244,
+Schrödinger equation xxii, xxv, 92,                 259, 269, 272, 276, 317–318,
+         119, 144–145, 155, 188, 190,               320, 347, 354, 361, 368
+         195, 200, 201, 203, 271, 277,      special frame 230, 232, 238, 269, 361
+         287, 291, 314, 326, 332, 333,      specific heat xiii, 44, 59–63, 91, 376
+         369                                speck of carbon 25, 37
+  unitary transformation 292                spectral line intensities 112
+Schrödinger, Erwin xvi, xix, 59, 65,        spectroscopy 76
+         76, 99, 119, 123, 144, 153, 179,   spherical harmonics 119
+         187, 195, 213, 215, 219–227,       spin-statistics theorem 104
+         244, 249, 254, 259, 271, 276,      spontaneous collapse 289
+         286, 303, 318, 325, 327, 329,      spontaneous emission 82, 84
+         334                                spooky action-at-a-distance xvii, xxi,
+  denies particles 221                              xxiv, 209, 232, 238, 241, 292,
+  denies quantum jumps 221–222                      317, 348, 365, 372
+  inaugural lecture 153                     Stachel, John 313
+Schrödinger’s Cat xvii, xxvi, 124, 142,     standard model of particle physics
+         151, 219–227, 287, 325, 327,               305, 375
+         336, 348, 365, 375                 stationary states. See Niels Bohr
+  Einstein’s original idea 223              statistical interpretation xiii, 189, 220,
+second law of thermodynamics 37,                    249–250
+         67, 73, 85, 196, 203                 Albert Einstein’s 124, 155–157, 303,
+  as absolute law 73, 87                            346–347
+second revolution in quantum me-              John Bell’s attack on 271
+         chanics xviii, xx, 205, 208, 273     Max Born’s xix, xxi, 99, 153–157,
+separability 219                                    346–347, 401
+Shannon, Claude 8, 251                      statistical mechanics 39–45, 75, 93,
+shifty split 201, 270–271, 285, 331                 303, 358
+Shimony, Abner 264                          statistics , xvi, ii
+simultaneity xix                              Bose-Einstein 103–105
+  impossibility of xx, 52, 178–179,           Fermi-Dirac 105
+         208–209, 217, 244–245, 259,          quantum 42, 105
+         269, 272, 317–320, 342, 347,       Stefan-Boltzmann Law 299
+         368                                Stern-Gerlach 240, 261, 286
+  in special relativity 52, 179             stimulated emission 81–83, 114, 346
+single-particle wave function 215, 329      Suarez, Antoine 267
+Slater, John C. 107–109                     superdeterminism 266
+                                                                                         Index
+
+  virtual field of 109                      superposition xviii, xxvi, xxvii, 168,
+Smoluchowski, Marion 55                             221, 234, 324, 327, 335, 348,
+Solvay conference                                   361, 375
+  fifth 52, 63, 100, 101, 171–181, 183,       macroscopic 227
+         192, 215, 232, 301, 377              microscopic 227
+  first 63                                    of two-particle states 216
+Solvay, Ernst 62                            swerve 13
+something out of nothing 339                symmetry 217, 229–245
+    430        My God, He Plays Dice!
+
+          T                                                330, 345
+                                                    universal gravitation 299
+          Tegmark, Max 287                          universal wave function 249, 256,
+          theories                                         287, 342
+            constructive 73                         universe 341, 342
+            principles 73
+                                                    universe is its own observer 203, 226
+          theories as “fictions” xxiii
+          theory of heat 39
+          thermal equilibrium xxii, 358
+                                                    V
+          thermodynamic equilibrium 6, 39,          virtual oscillators 108, 112
+                   81, 92                           visualization xxi, 111, 187, 191, 334
+          thermodynamics                            Von Neumann, John 331, 369
+            first law of 6, 299, 301
+            four laws of 299                        W
+            second law of 6, 301, 305, 319, 336
+            third law of 62                         wave function
+          Thomson, J.J. 95                           molecular 88
+          three polarizers 140–143                   two-particle 104
+          transformation theory xxi, 123, 143,      wave mechanics 65, 119–121, 123,
+                   160, 330, 334                           163, 168, 192, 219, 303
+          transition probabilities 81–85, 92,       wave packet xxii, 121, 168
+                   111, 114                         wave-particle ii
+          two-particle wave function 215, 231,      wave-particle duality xvi, 65–69, 100,
+                   268–269, 318, 374                       121, 172, 186, 222, 325, 327,
+          two places at the same time xxvi, 292,           365
+                   324, 326, 328, 376               weakness in the theory 84, 153, 294,
+          two-slit experiment xvii, xxv, 150,              346, 352
+                   186, 187, 190, 246, 272,         What did Einstein see? xvi, xxii, 47,
+                   275–283, 292, 319, 320, 325,            52, 69, 105, 179, 209, 245, 245,
+                   328, 355, 365, 368                      345, 347, 348, 374
+            and objective reality 319               Wheeler, John 249, 287
+          two-stage model 166, 358                  Whitehead, Alfred North 210
+          two states at the same time 222           Wien’s displacement law 45, 300
+          two-step process 333                      Wien’s distribution law 300
+          two steps of information creation         Wien’s radiation law 52, 103–104
+                   358–359                          Wien, Willy 28
+            quantum step 358                        Wigner, Eugene 185, 201, 249, 265,
+            thermodynamic step 359                         370
+          Type 1a supernovae 342                    Wigner’s Friend 249
+                                                    Wittgenstein, Ludwig 166, 184
+Index
+
+          U
+          ultraviolet catastrophe 34
+                                                    Z
+          uncertainty principle xxi, xxvi, 44,      Zeh, H. Dieter 191, 254, 257, 287, 289
+                 85, 92, 159–163, 165, 167–168,     Zermelo, Ernst 26, 40, 366
+                 178, 187, 197, 205, 206, 210,       recurrence paradox of 26
+                 326, 329, 334                      Zurek, Wojciech 191, 257, 287
+          unified field theory 57, 311, 315, 323,
+

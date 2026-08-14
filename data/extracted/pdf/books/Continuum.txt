@@ -1,0 +1,139 @@
+         294   My God, He Plays Dice!
+
+
+
+
+                                 e i n' s
+                          Einst uum
+                          Co nt i n
+Chapter 37
+
+
+
+
+                                             This chapter on the web
+                                        informationphilosopher.com/
+                                              Einstein's Continuum      295
+
+
+Einstein's Continuum
+  Is the Nature of Reality Continuous or Discrete?
+   Is it possible that the physical world is made up of nothing but
+discrete discontinuous particles? Are continuous fields with well-
+defined, arbitrarily accurate, values for the field at all places and
+times simply theoretical constructs, confirmed only by averages
+over large numbers of particles?
+   Space and time themselves have well-defined values every-
+where, but are these just the abstract information of the ideal
+coordinate system that allows us to keep track of the positions
+and motions of particles? Space and time are physical, but they
+are not material.
+   We use material things, rulers and clocks, to measure space
+and time. We use the abstract mathematics of real numbers and
+assume there are an infinite number of real points on any line
+segment and an infinite number of moments in any time interval.
+But are these continuous functions of space and time nothing but
+immaterial ideas with no material substance?
+   The two great physical theories at the end of the nineteenth
+century, Isaac Newton’s classical mechanics and James Clerk
+Maxwell’s electrodynamics, are continuous field theories.
+
+
+                                                                          Chapter 37
+   Solutions of their field equations determine precisely the exact
+forces on any material particle, providing complete information
+about their past and future motions and positions. Field theories
+are generally regarded as deterministic and certain.
+   Although the dynamical laws are “free inventions of the human
+mind,” as Einstein always said, 1 and although they ultimately
+depend on experimental evidence, which is always statistical, the
+field theories have been considered superior to merely statistical
+laws. Dynamical laws are thought to be absolute, based on
+principles.
+  1    “Geometry and Experience,” in Ideas and Opinions, p.234
+         296     My God, He Plays Dice!
+
+                  We will find that the continuous, deterministic, and analytical
+               laws of classical dynamics and electromagnetism, expressible
+               as differential equations, are idealizations that “go beyond
+               experience.”
+                  A continuum is approached in the limit of large numbers of
+               particles, when the random fluctuations of individual events can be
+               averaged over. But this is like the limit theorems of the differential
+               calculus, when large numbers are allowed to go to infinity, and
+               infinitesimals are assumed to reach zero.
+                  All field theories use continuous functions that introduce
+               mathematical infinities and infinitesimals. Einstein suspected
+               these infinities may only “exist” in human minds. He learned
+               this from the great mathematicians Leopold Kronecker and
+               Richard Dedekind.
+                  Einstein discovered his favorite phrase “free creations of the
+               human mind” in the work of Dedekind (freie Schöpfungen des
+               menschlichen Geistes) so Einstein also knew very well Dedekind’s
+               argument that all the axioms of Euclid’s geometry can be proven
+               with no reference to a continuum between geometric points. A
+               discrete algebraic theory would be equally good, said Dedekind.
+                     If anyone should say that we cannot conceive of space as anything
+                     else than continuous, I should venture to doubt it and to call
+Chapter 37
+
+
+
+
+                     attention to the fact that a far advanced, refined scientific training
+                     is demanded in order to perceive clearly the essence of continuity
+                     and to comprehend that besides rational quantitative relations, also
+                     irrational, and besides algebraic, also transcendental quantitative
+                     relations are conceivable. 2
+               God Created the Integers
+                 Einstein was assuredly also familiar with Kronecker’s famous
+               quote “God has made the integers, all else is the work of man.”
+               (Die ganzen Zahlen hat der liebe Gott gemacht, alles andere ist
+               Menschenwerk). These ideas must have given Einstein a healthy
+               skepticism about his work on continuous field theories. In his later
+
+                 2        Dedekind, 1901, p.38
+                                                 Einstein's Continuum             297
+
+years, Einstein gave thought to algebraic or discrete difference
+equations, not continuous differential equations.
+  Einstein may have even doubted the "existence" of the integers.
+He and Leopold Infeld wrote in the book, The Evolution of Physics,
+      Science is not just a collection of laws, a catalogue of unrelated facts.
+      It is a creation of the human mind, with its freely invented ideas and
+      concepts... “Three trees” is something different from “two trees.”
+      Again “two trees” is different from “two stones.” The concepts of the
+      pure numbers 2, 3, 4..., freed from the objects from which they arose,
+      are creations of the thinking mind which describe the reality of our
+      world. 3
+   Experiments that support physical laws are always finite in
+number. The number of particles in the observable universe
+is finite. Experimental evidence is always statistical. It always
+contains errors distributed randomly around the most probable
+result, like the fluctuations of entropy around its maximum.
+   The smooth Gaussian bell curve approached when a very large
+number of independent random events is plotted is clearly an
+idealization. That Bell curve is clearly an "idea," a "free creation of
+the human mind. "
+   Einstein was gravely concerned that there is nothing in his
+"objective reality" corresponding to this continuum.
+      From the quantum phenomena it appears to follow with certainty
+
+
+
+                                                                                    Chapter 37
+      that a finite system of finite energy can be completely described by a
+      finite set of numbers (quantum numbers). This does not seem to be
+      in accordance with a continuum theory, and must lead to an attempt
+      to find a purely algebraic theory for the description of reality. 4
+  To Leopold Infeld, Einstein wrote in 1941,
+      “I tend more and more to the opinion that one cannot come further
+      with a continuum theory.” 5
+
+
+
+
+  3       Einstein and Infeld, 1961, p.294
+  4       Einstein, 1956, p.165
+  5       Pais, 1982, p.467
+

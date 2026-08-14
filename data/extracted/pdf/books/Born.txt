@@ -1,0 +1,236 @@
+         152   My God, He Plays Dice!
+Chapter 20
+
+
+
+
+                                 n s te i n
+                         n - E i
+                     Bor tistical
+                       Sta etation
+                       te r p  r
+                     In
+                                        Statistical Interpretation 153
+
+
+Statistical Interpretation
+   It is often said that Max Born gave us the “statistical
+interpretation” of quantum mechanics that lies at the heart of Niels
+Bohr’s and Werner Heisenberg’s principle of complementarity
+and the “Copenhagen Interpretation” of quantum mechanics.
+   But Born himself said many times he had only applied an idea of
+Albert Einstein that had circulated privately for many years. To
+be sure, Born and Einstein quarreled for years over determinism
+and causality, but as we saw in chapter 11, it was Einstein who
+discovered “chance” in the interaction of matter and radiation,
+even if he considered it a “weakness in the theory.”
+
+
+
+
+                                                                          Chapter 20
+   As we showed in chapters 2 to 4, probability and statistics
+were very important in the two centuries before Born’s work, but
+most physicists and philosophers saw the implied randomness
+to be “epistemic,” the consequence of human ignorance.
+Random distributions of all kinds were thought to be completely
+deterministic at the particle level, with collisions between atoms
+following Newton’s dynamical laws. Ludwig Boltzmann’s
+transport equation and H-Theorem showed that the increase of
+entropy is statistically irreversible at the macroscopic level, even if
+the motions of individual particles were time reversible.
+   Boltzmann did speculate that there might be some kind of
+molecular “chaos” or “disorder” that could cause particles traveling
+between collisions to lose the “correlations” or information about
+their past paths that would be needed for the paths to be time
+reversible and deterministic, but nothing came of this idea.
+   In his early career, Erwin Schrödinger was a great exponent
+of fundamental chance in the universe. He followed his mentor
+Franz S. Exner, who as a colleague of Boltzmann at the University
+of Vienna was a great promoter of statistical thinking.
+   In his inaugural lecture at Zurich in 1922, Schrödinger argued
+that available evidence can not justify our assumptions that
+physical laws are deterministic and strictly causal. His inaugural
+lecture was modeled on that of Exner in 1908.
+         154     My God, He Plays Dice!
+
+                     Exner’s assertion amounts to this: It is quite possible that
+                     Nature’s laws are of thoroughly statistical character. The
+                     demand for an absolute law in the background of the statistical
+                     law — a demand which at the present day almost everybody
+                     considers imperative — goes beyond the reach of experience.
+                     Such a dual foundation for the orderly course of events in
+                     Nature is in itself improbable. The burden of proof falls on
+                     those who champion absolute causality, and not on those who
+                     question it. For a doubtful attitude in this respect is to-day by
+                     far the more natural.1
+                  Several years later, Schrödinger presented a paper on
+               “Indeterminism in Physics” to the June, 1931 Congress of A Society
+               for Philosophical Instruction in Berlin. He supported the idea of
+Chapter 20
+
+
+
+
+               Boltzmann that “an actual continuum must consist of an infinite
+               number of parts; but an infinite number is undefinable..”
+                     If nature is more complicated than a game of chess, a belief to
+                     which one tends to incline, then a physical system cannot be
+                     determined by a finite number of observations. But in practice
+                     a finite number of observations is all that we can make.
+                     All that is left to determinism is to believe that an infinite
+                     accumulation of observations would in principle enable it
+                     completely to determine the system. Such was the standpoint
+                     and view of classical physics, which latter certainly had a right
+                     to see what it could make of it. But the opposite standpoint
+                     has an equal justification: we are not compelled to assume that
+                     an infinite number of observations, which cannot in any case
+                     be carried out in practice, would suffice to give us a complete
+                     determination.
+                  In the history of science it is hard to find ears more likely to
+               be sympathetic to a new idea than Schrödinger should have been
+               to Max Born’s suggestion that the square of the amplitude of
+               Schrödinger’s wave function |ψ2| should be interpreted statistically
+               as the likelihood of finding a particle. And Schrödinger should
+               have known Einstein thought quantum mechanics is statistical.
+                  Yet Schrödinger objected strenuously, not so much to the
+               probability and statistics as to the conviction of Born and his
+               brilliant student Heisenberg that quantum phenomena, like
+                 1       ‘What Is a Law of Nature?,’ Science and the Human Temperament, p.142.
+                                        Statistical Interpretation 155
+
+quantum jumps between atomic energy levels, were only predictable
+statistically, and that there is a fundamental indeterminacy in the
+classical idea that particles have simultaneously knowable exact
+positions and velocities (momenta). Born, Heisenberg, and Bohr
+had declared classical determinism and causality untrue of the
+physical world.
+   It is likely that Schrödinger was ecstatic that his wave equation
+implied a deterministic physical theory. His wave function ψ
+evolves in time to give exact values for itself for all times and
+places. Perhaps Schrödinger thought that the waves themselves
+could provide a field theory of physics, much as fields in Newton's
+gravitational theory and in Maxwell's electromagnetic theory
+provide complete descriptions of nature. Schrödinger wondered
+
+
+
+
+                                                                        Chapter 20
+whether nature might be only waves, no particles?
+   In July of 1926, Born used Louis de Broglie’s matter waves
+for electrons, as described by Schrödinger’s wave equation, but he
+interpreted the wave as the probability of finding an electron going
+off in a specific collision direction, proportional to the square of
+the wave function ψ, now seen as a "probability amplitude."
+   Born's interpretation of the quantum mechanical wave function
+of a material particle as the probability (amplitude) of finding the
+material particle was a direct extension of Einstein's interpretation
+of light waves giving probability of finding photons.
+   To be sure, Einstein's interpretation may be considered only
+qualitative, where Born's was quantitative, since the new quantum
+mechanics now allowed exact calculations.
+   Nevertheless, Born initially gave full credit for the statistical
+interpretation to Einstein for the "ghost field" idea. Although
+the original idea is pure Einstein, it is widely referred to today
+as “Born’s statistical interpretation,” another example of others
+getting credit for a concept first seen by Einstein.
+   Born described his insights in 1926,
+   Collision processes not only yield the most convincing
+   experimental proof of the basic assumptions of quantum
+   theory, but also seem suitable for explaining the physical
+   meaning of the formal laws of the so-called “quantum
+         156   My God, He Plays Dice!
+
+
+               mechanics.”... The matrix form of quantum mechanics that was
+               founded by Heisenberg and developed by him and the author of
+               this article starts from the thought that an exact representation
+               of processes in space and time is quite impossible and that
+               one must then content oneself with presenting the relations
+               between the observed quantities, which can only be interpreted
+               as properties of the motions in the limiting classical cases. On
+               the other hand, Schrödinger (3) seems to have ascribed a reality
+               of the same kind that light waves possessed to the waves that
+               he regards as the carriers of atomic processes by using the de
+               Broglie procedure; he attempts “to construct wave packets that
+               have relatively small dimensions in all directions,” and which can
+               obviously represent the moving corpuscle directly.
+               Neither of these viewpoints seems satisfactory to me. Here, I
+Chapter 20
+
+
+
+
+               would like to try to give a third interpretation and probe its
+               utility in collision processes. I shall recall a remark that Einstein
+               made about the behavior of the wave field and light quanta. He
+               said that perhaps the waves only have to be wherever one needs
+               to know the path of the corpuscular light quanta, and in that
+               sense, he spoke of a “ghost field.” It determines the probability
+               that a light quantum - viz., the carrier of energy and impulse
+               – follows a certain path; however, the field itself is ascribed no
+               energy and no impulse.
+               One would do better to postpone these thoughts, when coupled
+               directly to quantum mechanics, until the place of the electro-
+               magnetic field in the formalism has been established. However,
+               from the complete analogy between light quanta and electrons,
+               one might consider formulating the laws of electron motion
+               in a similar manner. This is closely related to regarding the
+               de Broglie-Schrödinger waves as “ghost fields,” or better yet,
+               “guiding fields.”
+               I would then like to pursue the following idea heuristically:
+               The guiding field, which is represented by a scalar function ψ
+               of the coordinates of all particles that are involved and time,
+               propagates according to Schrödinger’s differential equation.
+               However, impulse and energy will be carried along as when
+               corpuscles (i.e., electrons) are actually flying around. The paths
+               of these corpuscles are determined only to the extent that they
+               are constrained by the law of energy and impulse; moreover,
+               only a probability that a certain path will be followed will be
+                                           Statistical Interpretation 157
+
+      determined by the function ψ. One can perhaps summarize this,
+      somewhat paradoxically, as: The motion of the particle follows
+      the laws of probability, but the probability itself propagates in
+      accord with causal laws. 2
+  This last sentence is a remarkably concise description of the
+dualism in quantum mechanics, a strange mixture of indeterminism
+and determinism, of chance and necessity.
+  In his 1948 Waynflete lectures, Born elaborated on his
+understanding of chance,
+      There is no doubt that the formalism of quantum mechanics
+      and its statistical interpretation are extremely successful in
+      ordering and predicting physical experiences. But can our desire
+      of understanding, our wish to explain things, be satisfied by a
+
+
+
+
+                                                                            Chapter 20
+      theory which is frankly and shamelessly statistical and indeter-
+      ministic? Can we be content with accepting chance, not cause, as
+      the supreme law of the physical world?
+      To this last question I answer that not causality, properly
+      understood, is eliminated, but only a traditional interpretation of
+      it, consisting in its identification with determinism. I have taken
+      pains to show that these two concepts are not identical. Causality
+      in my definition is the postulate that one physical situation
+      depends on the other, and causal research means the discovery
+      of such dependence. This is still true in quantum physics, though
+      the objects of observation for which a dependence is claimed
+      are different: they are the probabilities of elementary events, not
+      those single events themselves. 3
+   Ever since 1930, when Born's young graduate student Heisenberg
+had been selected for the Nobel Prize in physics although much of
+the theory was his own work, Born felt he had been treated unfairly.
+   He finally received recognition, with the Nobel Prize for physics
+in 1954, for his "statistical interpretation." But Born's voluminous
+correspondence with Einstein reveals that he had perhaps come to
+think that Einstein's supposed determinism meant Einstein did not
+believe in the statistical nature of quantum physics, so this idea may
+now rightfully belong to Born. He called it "his own" in the 1950's.
+
+  2       Born. 1926, p. 803.
+  3       Born, 1964, p.102
+

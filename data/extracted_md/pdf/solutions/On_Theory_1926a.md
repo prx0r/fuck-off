@@ -1,0 +1,28 @@
+# The Royal Society is collaborating with JSTOR to digitize, preserve, and extend access to
+
+**source:** pdf · **section:** solutions
+**file:** On_Theory_1926a
+---
+
+           Downloaded from http://rspa.royalsocietypublishing.org/ on March 17, 2017
+
+                          The Royal Society is collaborating with JSTOR to digitize, preserve, and extend access to
+Proceedings of the Royal Society of London. Series A, Containing Papers of a Mathematical and Physical Character.           ®
+                                                                                                                 www.jstor.org
+Downloaded from http://rspa.royalsocietypublishing.org/ on March 17, 2017
+Downloaded from http://rspa.royalsocietypublishing.org/ on March 17, 2017
+Downloaded from http://rspa.royalsocietypublishing.org/ on March 17, 2017
+Downloaded from http://rspa.royalsocietypublishing.org/ on March 17, 2017
+Downloaded from http://rspa.royalsocietypublishing.org/ on March 17, 2017
+Downloaded from http://rspa.royalsocietypublishing.org/ on March 17, 2017
+Downloaded from http://rspa.royalsocietypublishing.org/ on March 17, 2017
+Downloaded from http://rspa.royalsocietypublishing.org/ on March 17, 2017
+Downloaded from http://rspa.royalsocietypublishing.org/ on March 17, 2017
+Downloaded from http://rspa.royalsocietypublishing.org/ on March 17, 2017
+Downloaded from http://rspa.royalsocietypublishing.org/ on March 17, 2017
+Downloaded from http://rspa.royalsocietypublishing.org/ on March 17, 2017
+Downloaded from http://rspa.royalsocietypublishing.org/ on March 17, 2017
+Downloaded from http://rspa.royalsocietypublishing.org/ on March 17, 2017
+Downloaded from http://rspa.royalsocietypublishing.org/ on March 17, 2017
+Downloaded from http://rspa.royalsocietypublishing.org/ on March 17, 2017
+

@@ -1,0 +1,579 @@
+# 200   Great Problems in Philosophy and Physics - Solved?
+
+**source:** pdf · **section:** books
+**file:** Measurement
+---
+
+
+                                 m e nt
+                          s u re
+                       Mea oblem
+Chapter 18
+
+                         Pr
+
+                                                                 This chapter on the web
+                                      informationphilosopher.com/problems/measurement
+                                                 Measurement            201
+
+The Measurement Problem
+   The “problem of measurement” in quantum mechanics has
+been defined in various ways, originally by scientists, and more
+recently by philosophers of science who question the “founda-
+tions” of quantum mechanics.
+  Measurements are described with diverse concepts in quantum
+physics such as:
+   • wave functions (probability amplitudes) evolving unitarily
+and deterministically (preserving information) according to the
+linear Schrödinger equation,
+   • superposition of states, i.e., linear combinations of wave func-
+tions with complex coefficients that carry phase information and
+produce interference effects (the principle of superposition),
+   • quantum jumps between states accompanied by the “collapse
+
+                                                                          Chapter 18
+of the wave function” that can destroy or create information (Paul
+Dirac’s projection postulate, John von Neumann’s Process 1),
+  • probabilities of collapses and jumps given by the square of the
+absolute value of the wave function for a given state,
+   • values for possible measurements given by the eigenvalues
+associated with the eigenstates of the combined measuring appa-
+ratus and measured system (the axiom of measurement),
+  • the indeterminacy or uncertainty principle.
+   The original measurement problem, said to be a consequence of
+Niels Bohr’s “Copenhagen Interpretation” of quantum mechan-
+ics, was to explain how our measuring instruments, which are
+usually macroscopic objects and treatable with classical physics,
+can give us information about the microscopic world of atoms and
+subatomic particles like electrons and photons.
+   Bohr’s idea of “complementarity” insisted that a specific experi-
+ment could reveal only partial information - for example, a parti-
+cle’s position or its momentum. “Exhaustive” or “complete” infor-
+mation requires two complementary experiments. Measurement
+of both a particle’s momentum and its position can only be within
+         202     Great Problems in Philosophy and Physics - Solved?
+
+               the limits of Werner Heisenberg’s uncertainty principle. This
+               demands that the product of the indeterminacy in the position Δx
+               multiplied by the indeterminacy in the momentum Δp be equal to
+               or greater than Planck’s quantum of action h.
+                  Some define the problem of measurement simply as the logical
+               contradiction between two laws describing the motion of quan-
+               tum systems; the unitary, information preserving, continuous,
+               and deterministic time evolution of the Schrödinger equation
+               versus the non-unitary, discontinuous, and indeterministic col-
+               lapse of the wave function. John von Neumann saw a problem
+               with these two distinct (indeed, logically opposing) processes.
+                  The mathematical formalism of quantum mechanics provides
+               no way to predict when the wave function stops evolving in a uni-
+               tary fashion and collapses. Experimentally and practically, how-
+               ever, we can say that this occurs when the microscopic system
+               interacts with a measurement apparatus. or indeed just with
+Chapter 18
+
+               another quantum system.
+                 Others define the measurement problem as the failure to
+               observe macroscopic superpositions.
+                  Decoherence theorists1 (e.g., H. Dieter Zeh and Wojciech
+               Zurek, who use various non-standard interpretations of quantum
+               mechanics, denying the projection postulate, quantum jumps, and
+               even the existence of particles), define the measurement problem
+               as the failure to observe superpositions such as Schrödinger’s Cat.
+               Unitary time evolution of the wave function according to the
+               Schrödinger wave equation should produce such macroscopic
+               superpositions, they claim.
+                  Information physics treats a measuring apparatus quantum
+               mechanically by describing parts of it as in a metastable state
+               like the excited states of an atom, the critically poised electrical
+               potential energy in the discharge tube of a Geiger counter, or the
+               supersaturated water and alcohol molecules of a Wilson cloud
+               chamber. (The pi-bond orbital rotation from cis- to trans- in the
+               light-sensitive retinal molecule is an example of a critically poised
+               apparatus).
+                 1    See chapter 22.
+                                                Measurement            203
+
+   Excited (metastable) states are poised to collapse when an elec-
+tron (or photon) collides with the sensitive detector elements in
+the apparatus. This collapse is macroscopic and irreversible2, gen-
+erally a cascade of quantum events that release large amounts of
+energy, increasing the (Boltzmann) entropy. But in a “measure-
+ment” there is also a local decrease in the entropy. This negative
+entropy corresponds to the information gained in the measure-
+ment. The global entropy increase is normally orders of magni-
+tude more than the small local decrease in entropy (an increase in
+stable information or Shannon entropy) that constitutes the “mea-
+sured” experimental data available to human observers.
+   The creation of new information in a measurement thus follows
+the same two core processes of all information creation - quan-
+tum cooperative phenomena and thermodynamics. These two are
+involved in the formation of microscopic objects like atoms and
+molecules, as well as macroscopic objects like galaxies, stars, and
+
+                                                                         Chapter 18
+planets.
+   According to the correspondence principle, all the laws of
+quantum physics asymptotically approach the laws of classical
+physics in the limit of large quantum numbers and large numbers
+of particles. Quantum mechanics can be used to describe even the
+largest macroscopic systems.
+   Does this mean that the positions and momenta of macro-
+scopic objects are uncertain? Yes, it does. Although the uncer-
+tainty becomes vanishingly small for large objects, it is not zero.
+   Noting that the momentum p is the product of mass and veloc-
+ity mv, Heisenberg’s indeterminacy principle, Δp Δx > h, can be
+rewritten as Δv Δx > h / m. It is thus not when h is small, but when
+the mass m is large enough and h / m is small enough, that errors
+in the position and momentum of macroscopic objects become
+smaller that can be measured.
+    Niels Bohr used the uncertainty of macroscopic objects to
+defeat Albert Einstein’s several objections to quantum mechan-
+ics at the 1927 Solvay conference.
+  2    See chapter 25.
+         204          Great Problems in Philosophy and Physics - Solved?
+
+                  But Bohr and Heisenberg also insisted that a measuring appara-
+               tus must be a regarded as a purely classical system. They can’t have it
+               both ways. Can the macroscopic apparatus also be treated by quan-
+               tum physics or not? Can it be described by the Schrödinger equa-
+               tion? Can it be regarded as in a superposition of states?
+                  The most famous example of macroscopic superposition is no
+               doubt Schrödinger’s Cat3, which is claimed to be in a superposi-
+               tion of live and dead cats, and the Einstein-Podolsky-Rosen experi-
+               ment, in which entangled electrons or photons are in a superposi-
+               tion of two-particle states that collapse over macroscopic distances
+               to exhibit properties “nonlocally” at speeds faster than the speed of
+               light.
+                  The radical treatments of macroscopic systems, by Schrödinger
+               and Einstein and his colleagues, were intended to expose inconsis-
+               tencies and incompleteness in quantum theory. The critics hoped to
+               restore determinism and “local reality” to physics. They resulted in
+Chapter 18
+
+               some strange and extremely popular “mysteries” about “quantum
+               reality,” such as the “many-worlds” interpretation, “hidden vari-
+               ables,” and signaling faster than the speed of light.
+                  We develop a quantum-mechanical treatment of macroscopic
+               systems, especially a measuring apparatus, to show how it can create
+               new information. If the apparatus were describable only by classical
+               deterministic laws, no new information could come into existence.
+               The apparatus need only be adequately determined, that is to say,
+               “classical” to a sufficient degree of accuracy.
+                 As Landau and Lifshitz described it in their 1958 textbook,
+                     “The possibility of a quantitative description of the motion of an elec-
+                     tron requires the presence also of physical objects which obey classi-
+                     cal mechanics to a sufficient degree of accuracy. If an electron interacts
+                     with such a “classical object”, the state of the latter is, generally speaking,
+                     altered. The nature and magnitude of this change depend on the state of
+                     the electron, and therefore may serve to characterise it quantitatively...
+                     “We have defined “apparatus” as a physical object which is governed,
+                     with sufficient accuracy, by classical mechanics. Such, for instance, is
+                     a body of large enough mass. However, it must not be supposed that
+
+                 3       See chapter 23
+                                                               Measurement        205
+
+      apparatus is necessarily macroscopic. Under certain conditions, the part
+      of apparatus may also be taken by an object which is microscopic, since
+      the idea of “with sufficient accuracy” depends on the actual problem
+      proposed.
+      “Thus quantum mechanics occupies a very unusual place among physi-
+      cal theories: it contains classical mechanics as a limiting case [corre-
+      spondence principle], yet at the same time it requires this limiting case
+      for its own formulation.”4
+Von Neumann’s Two Processes
+  The measurement problem was analyzed mathematically in 1932
+by John von Neumann. Following the work of Bohr and Heisen-
+berg, he divided the world into a microscopic (atomic-level) quan-
+tum system and a macroscopic (classical) measuring apparatus.
+  Von Neumann explained that two fundamentally different pro-
+cesses are going on in quantum mechanics.
+   First, a non-causal Process 1, in which the measured electron
+winds up randomly in one of the possible physical states (eigen-
+
+                                                                                    Chapter 18
+states) of the measuring apparatus plus electron.
+   This process came to be called the “collapse of the wave function”
+or the “reduction of the wave packet.”
+   The probability for finding the electron in a specific eigenstate
+is given by the square of the coefficients cn of the expansion of the
+original system state (wave function ψ) in an infinite set of wave
+functions φn that represent the eigenfunctions of the measuring
+apparatus plus electron.
+   This is as close as we get to a description of the motion of the par-
+ticle aspect of a quantum system. According to von Neumann, the
+particle simply shows up somewhere as a result of a measurement.
+   Information physics says that the particle “shows up” only when
+a new stable information structure is created, information that sub-
+sequently can be observed.
+  So we can also add a Process 1b. The information created in von
+Neumann’s Process 1 will only be stable if an amount of positive
+entropy greater than the negative entropy in the new information
+  4       Quantum Mechanics, non-relativistic theory, pp.1-2
+         206       Great Problems in Philosophy and Physics - Solved?
+
+               structure is transported away, in order to satisfy the second law of
+               thermodynamics.
+                  Next, von Neumann’s causal Process 2, in which the electron
+               wave function ψ evolves deterministically according to Schröding-
+               er’s equation of motion for the wavelike aspect.
+                 (ih/2π) ∂ψ/∂t = Hψ.
+                  This evolution describes the motion of the probability ampli-
+               tude wave ψ between measurements. The wave function exhibits
+               interference effects. But the particle path itself can not be observed.
+               Interference is destroyed if the particle has a definite position or
+               momentum. The particle does not have a definite position between
+               measurements.
+                  Von Neumann claimed there is another major difference between
+               his two processes. Process 1 is thermodynamically irreversible.
+               Process 2 is reversible. This confirms the fundamental connection
+Chapter 18
+
+               between quantum mechanics and thermodynamics that informa-
+               tion physics finds at the heart of all information creation.
+                  Information physics can show quantum mechanically how Pro-
+               cess 1 creates information. Something like Process 1 is always
+               involved when any information is created, whether or not the new
+               information is ever “observed” by a human being.
+                 Process 2 is deterministic and information conserving.
+                  Just as the new information recorded in the measurement appa-
+               ratus cannot subsist unless a compensating amount of entropy is
+               transferred away from the new information, something similar to
+               Process 1b must happen in the mind of an observer if the new infor-
+               mation is to constitute an “observation.”
+                  It is only in cases where information persists long enough for a
+               human being to observe it that we can properly describe the obser-
+               vation as a “measurement” and the human being as an “observer.”
+               So, following von Neumann’s “process” terminology, we can com-
+               plete his theory of the measuring process by adding an anthropo-
+               morphic third process.
+                                                            Measurement            207
+
+   Process 3 is a conscious observer recording new information in
+a mind. For this we need two local reductions in the entropy (new
+information in the measurement apparatus, new information in the
+mind), both balanced by even greater increases in positive entropy
+that must be transported away from the apparatus and the mind, so
+the overall increase in entropy can satisfy the second law of thermo-
+dynamics.
+Designing a Quantum Measurement Apparatus
+   The first step is to build an apparatus that allows different com-
+ponents of the wave function to evolve along distinguishable paths
+into different regions of space, where the different regions corre-
+spond to (are correlated with) the physical properties we want to
+measure. We then can locate a detector in these different regions of
+space to catch particles travelling a particular path.
+   We do not say that the system is on a particular path in this first
+step. Knowing the position would cause the probability amplitude
+
+                                                                                     Chapter 18
+wave function to collapse. This first step is reversible, at least in prin-
+ciple. It is deterministic and an example of von Neumann Process 2.
+   Let’s consider a birefringent crystal separating a beam of photons
+into horizontally and vertically polarized photons.5
+   We need a beam of photons (and the ability to reduce the inten-
+sity to a single photon at a time). Vertically polarized photons pass
+straight through the crystal. They are called the ordinary ray. Hori-
+zontally polarized photons, however, are deflected at an angle
+though the crystal, then exit the crystal back at the original angle.
+This is the extraordinary ray.
+
+     Figure 18-11. Separating horizontal and vertical polarized photons
+
+   Note that this first part of our apparatus accomplishes the
+separation of our two states into distinct physical regions.
+
+    5     See http://www.informationphilosopher.com/problems/measurement/#design
+for an animation of the birefringent crystal experiment
+         208       Great Problems in Philosophy and Physics - Solved?
+
+                  We have not actually measured yet, so a single photon passing
+               through our measurement apparatus is described as in a linear com-
+               bination (a superposition) of horizontal and vertical polarization
+               states,
+                 | ψ > = ( 1/√2) | h > + ( 1/√2) | v >             (1)
+                 A Reversible Example of Process 2
+                  To show that process 2 is reversible, we can add a second
+               birefringent crystal upside down from the first, but inline with the
+               superposition of physically separated states,
+
+                    Figure 18-12. If we don’t measure, we can recombine the beams
+Chapter 18
+
+                  Since we have not made a measurement and do not know the
+               path of the photon, the phase information in the (generally com-
+               plex) coefficients of equation (1) has been preserved, so when they
+               combine in the second crystal, they emerge in a state identical to the
+               state they had before entering the first crystal.
+               An Irreversible Example of Process 1
+                  But now suppose we insert something between the two crystals
+               that is capable of a measurement to produce observable informa-
+               tion. We need detectors that may locate the photon in one of the
+               two rays.
+                 Let’s consider an ideal photographic plate capable of precipitat-
+               ing visible silver grains upon the receipt of a single photon (and
+               subsequent development). Today photography cannot detect single
+               photons, but detectors using charge coupled devices (CCDs) are
+               approaching this sensitivity.
+                 We can write a quantum description of the plate as containing
+               two sensitive collection areas, the part of the apparatus measuring
+               horizontally polarized photons, | Ah > (shown as the upper spot),
+                                                         Measurement      209
+
+and the part of the apparatus measuring vertically polarized
+photons, | Av > (shown as the lower spot).
+
+     Figure 18-13. Two possible paths become one actual when detected.
+
+  We treat the detection systems quantum mechanically, and say
+that each detector has two eigenstates, e.g., | Ah0 >, corresponding to
+  • the jump of the probability amplitude wave function | ψ > of the
+photon in equation (1) into the horizontally polarized state | h >.
+   • the quantum jump of the horizontal detector from | Ah0 > to
+| Ah1 >.
+
+                                                                            Chapter 18
+  These two happen together, as the initial states of the detectors
+are correlated with no photons, and the final state | Ah1 >, in which
+the upper detector has registered a horizontal photon.
+   When we actually detect the photon, say in a horizontal polariza-
+tion state with statistical probability 1/2, two “collapses” or “jumps”
+occur. They are correlated with the states of the sensitive detectors
+in the classical apparatus.
+   One can say that the photon has become entangled with the sensi-
+tive horizontal detector area, so that the wave function describing
+their interaction is a superposition of photon and apparatus states
+that cannot be observed independently.
+  | ψ > + | Ah0 >        =>      | ψ, Ah0 >        =>      | h, Ah1 >
+   These jumps destroy (unobservable) phase information, raise the
+(Boltzmann) entropy of the apparatus, and increase visible informa-
+tion (Shannon entropy) in the form of the visible spot. The entropy
+increase takes the form of a large chemical energy release when the
+photographic spot is developed (or a cascade of electrons in a CCD).
+  Note that the birefringent crystal and the parts of the macroscopic
+apparatus other than the sensitive detectors are treated classically.
+         210         Great Problems in Philosophy and Physics - Solved?
+
+                 We animate these irreversible and reversible processes on our
+               website.6
+                 We see that our example agrees with Von Neumann Process 1.
+               A measurement which finds the photon in a specific state n is ther-
+               modynamically irreversible, whereas the deterministic evolution
+               described by Schrödinger’s equation is reversible.
+                  We thus establish a clear connection between a measurement,
+               which increases the information by some number of bits (Shan-
+               non entropy), and the necessary compensating increase in the
+               (Boltzmann) entropy of the macroscopic apparatus, and the cosmic
+               creation process, where new particles form, reducing the entropy
+               locally, and the energy of formation is radiated or conducted away
+               as Boltzmann entropy.7
+                  Note that the Boltzmann entropy can only be radiated away (ulti-
+               mately into the night sky to the cosmic microwave background)
+               because the expansion of the universe provides a sink for the
+Chapter 18
+
+               entropy, as pointed out by David Layzer. Note also that this cosmic
+               information-creating process requires no conscious observer. The
+               universe is its own observer.
+               The Boundary between the Classical and Quantum Worlds
+                  Some scientists, von Neumann and Heisenberg for example, have
+               argued that in the absence of a conscious observer, or some “cut”
+               between the microscopic and macroscopic world, the evolution
+               of the quantum system and the macroscopic measuring apparatus
+               would be described deterministically by Schrödinger’s equation of
+               motion for the wave function | ψ + A > with the Hamiltonian H
+               energy operator,
+                 (ih/2π) ∂/∂t | ψ + A > = H | ψ + A >.
+                  Our quantum mechanical analysis of the measurement appara-
+               tus in the above case allows us to locate the “cut” precisely at those
+               components of the “adequately classical and deterministic” appa-
+               ratus that put the apparatus in an irreversible stable state providing
+               new information to the observer.
+
+                 6     informationphilosopher.com/problems/measurement/#birefringence
+                 7     See appendix B for details
+                                                                 Measurement   211
+
+   John Bell drew a diagram to show the various possible locations
+for what he called the “shifty split.” Information physics shows us
+that the correct location for the boundary is the first of Bell’s possi-
+bilities.
+
+                                                                                 Chapter 18
+
+     Figure 18-14. John Bell’s illustration of the “shifty split.”
+
+The Role of the Conscious Observer
+  In 1941, Carl von Weizsäcker described the measurement
+problem as an interaction between a Subject and an Object, a view
+shared by the philosopher of science Ernst Cassirer.
+         212         Great Problems in Philosophy and Physics - Solved?
+
+                 Fritz London and Edmond Bauer made the strongest case for
+               the critical role of a conscious observer in 1939:
+                     “So far we have only coupled one apparatus with one object. But a cou-
+                     pling, even with a measuring device, is not yet a measurement. A mea-
+                     surement is achieved only when the position of the pointer has been
+                     observed. It is precisely this increase of knowledge, acquired by obser-
+                     vation, that gives the observer the right to choose among the different
+                     components of the mixture predicted by theory, to reject those which
+                     are not observed, and to attribute thenceforth to the object a new wave
+                     function, that of the pure case which he has found.
+                     “We note the essential role played by the consciousness of the observer
+                     in this transition from the mixture to the pure case. Without his effective
+                     intervention, one would never obtain a new function.” 8
+                  In 1961, Eugene Wigner made quantum physics even more sub-
+               jective, claiming that a quantum measurement requires a conscious
+               observer, without which nothing ever happens in the universe.
+                     “When the province of physical theory was extended to encompass
+                     microscopic phenomena, through the creation of quantum mechanics,
+Chapter 18
+
+                     the concept of consciousness came to the fore again: it was not possible
+                     to formulate the laws of quantum mechanics in a fully consistent way
+                     without reference to the consciousness All that quantum mechanics
+                     purports to provide are probability connections between subsequent
+                     impressions (also called “apperceptions”) of the consciousness, and even
+                     though the dividing line between the observer, whose consciousness is
+                     being affected, and the observed physical object can be shifted towards
+                     the one or the other to a considerable degree [cf., von Neumann] it
+                     cannot be eliminated.” 9
+                 Other physicists were more circumspect. Niels Bohr contrasted
+               Paul Dirac’s view, which stressed the randomness of the outcome,
+               with that of Heisenberg, who stresses the observer’s “free choice” of
+               what is to be measured:
+                     ‘The question was whether, as to the occurrence of individual effects, we
+                     should adopt a terminology proposed by Dirac, that we were concerned
+                     with a choice on the part of “nature,” or, as suggested by Heisenberg, we
+                     should say that we have to do with a choice on the part of the “observer”
+                     constructing the measuring instruments and reading their recording.
+                     Any such terminology would, however, appear dubious since, on the one
+
+                 8       Theory of Observation in Quantum Mechanics, in Wheeler and Zurek, p.251
+                 9       Remarks on the Mind-Body Question, in Wheeler and Zurek, p.169
+                                                           Measurement                213
+
+     hand, it is hardly reasonable to endow nature with volition in the ordi-
+     nary sense, while, on the other hand, it is certainly not possible for the
+     observer to influence the events which may appear under the conditions
+     he has arranged. To my mind, there is no other alternative than to admit
+     that, in this field of experience, we are dealing with individual phenom-
+     ena and that our possibilities of handling the measuring instruments
+     allow us only to make a choice between the different complementary
+     types of phenomena we want to study.’ 10
+  Landau and Lifshitz said clearly that quantum physics was inde-
+pendent of any observer:
+     “In this connection the ‘classical object’ is usually called apparatus, and
+     its interaction with the electron is spoken of as measurement. However,
+     it must be most decidedly emphasised that we are here not discussing
+     a process of measurement in which the physicist-observer takes part.
+     By measurement, in quantum mechanics, we understand any process
+     of interaction between classical and quantum objects, occurring apart
+     from and independently of any observer.” 11
+  David Bohm agreed that what is observed is distinct from the
+observer:
+
+                                                                                        Chapter 18
+     “If it were necessary to give all parts of the world a completely quantum-
+     mechanical description, a person trying to apply quantum theory to the
+     process of observation would be faced with an insoluble paradox. This
+     would be so because he would then have to regard himself as something
+     connected inseparably with the rest of the world. On the other hand,the
+     very idea of making an observation implies that what is observed is
+     totally distinct from the person observing it.” 12
+   And John Bell said:
+     “It would seem that the [quantum] theory is exclusively concerned
+     about ‘results of measurement’, and has nothing to say about anything
+     else. What exactly qualifies some physical systems to play the role of
+     ‘measurer’? Was the wavefunction of the world waiting to jump for thou-
+     sands of millions of years until a single-celled living creature appeared?
+     Or did it have to wait a little longer, for some better qualified system...
+     with a Ph.D.? If the theory is to apply to anything but highly idealised
+     laboratory operations, are we not obliged to admit that more or less
+     ‘measurement-like’ processes are going on more or less all the time,
+     more or less everywhere? Do we not have jumping then all the time?” 13
+
+    10    Atomic Physics and Human Knowledge, Niels Bohr, p.51
+    11    Quantum Mechanics, Lev Landau and Evgeny Lifshitz, p.2
+    12    Quantum Theory, David Bohm, p.584
+    13    “Against Measurement,” in Speakable and Unspeakable in Quantum Mechanics,
+p. 216)
+         214       Great Problems in Philosophy and Physics - Solved?
+
+               Three Essential Steps in a “Measurement” and “Observation”
+                 We can distinguish three required elements in a measurement
+               that can clarify the ongoing debate about the role of a conscious
+               observer.
+                 1) In standard quantum theory, the first required element is the
+               collapse of the wave-function. This is the Dirac projection postulate
+               and von Neumann Process 1.
+                  However, the collapse might not leave a determinate record. If
+               nothing in the environment is macroscopically affected so as to
+               leave an indelible record of the collapse, we can say that no infor-
+               mation about the collapse is created. The overwhelming fraction of
+               collapses are of this kind. Moreover, information might actually be
+               destroyed. For example, collisions between atoms or molecules in a
+               gas that erase past information about their paths.
+                  2) If the collapse occurs when the quantum system is entangled
+Chapter 18
+
+               with a macroscopic measurement apparatus, a well-designed appa-
+               ratus will also “collapse” into a correlated “pointer” state.
+                  As we showed above for photons, the detector in the upper half of
+               a Stern-Gerlach apparatus will fire, indicating detection of an elec-
+               tron with spin up. As with photons, if the probability amplitude | up
+               > in the upper half does not collapse as the electron is detected, it
+               can still be recombined with the probability amplitude | down > in
+               the lower half to reconstruct the unseparated beam.
+                  When the apparatus detects a particle, the second required ele-
+               ment is that it produce a determinate record of the event. But this
+               is impossible without an irreversible thermodynamic process that
+               involves: a) the creation of at least one bit of new information (nega-
+               tive entropy) and b) the transfer away from the measuring apparatus
+               of an amount of positive entropy (generally much, much) greater
+               than the information created.
+                 Notice that no conscious observer need be involved. We can gen-
+               eralize this second step to an event in the physical world that was
+               not designed as a measurement apparatus by a physical scientist,
+               but nevertheless leaves an indelible record of the collapse of a quan-
+               tum state. This might be a highly specific single event, or the macro-
+               scopic consequence of billions of atomic-molecular level of events.
+                                                Measurement             215
+
+   3) Finally, the third required element is an indelible determinate
+record that can be looked at by an observer (presumably conscious,
+although the consciousness itself has nothing to do with the mea-
+surement).
+  When we have all three of these essential elements, we have what
+we normally mean by a measurement and an observation, both
+involving a human being.
+   When we have only the first two, we can say metaphorically that
+the “universe is measuring itself,” creating an information record
+of quantum collapse events. For example, every hydrogen atom
+formed in the early recombination era is a record of the time period
+when macroscopic bodies could begin to form. A certain pattern
+of photons records the explosion of a supernova billions of light
+years away. When recorded by the CCD in a telescope, it becomes
+a potential observation at a later time when an astronomer looks at
+the data.
+
+                                                                          Chapter 18
+   Craters on the back side of the moon have for billions of years
+recorded collisions with solar system debris. But that could become
+observations only when the first NASA Apollo mission circled the
+moon.
+Quantum Collapses Can Produce New Information
+  But they are not measurements, or even observations, until the
+existence of a semi-permanent record has been made first.
+  And that permanence requires positive entropy to be carried
+away from the event, whether in a physics lab, on the back of the
+moon, in a distant supernova, or a photon emitted by an atom in the
+cosmic microwave background.
+  If the positive entropy is not carried away, there is no permanent
+(or semi-permanent) record to be observed.
+   In that case, the new information is simply destroyed. The vast
+fraction of all quantum collapses do not produce lasting new infor-
+mation. Just as the vast fraction of negative entropy streams avail-
+able do not create any new information structures.14
+  14   See Appendix B for more details,
+

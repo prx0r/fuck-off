@@ -1,0 +1,434 @@
+# Causality and Complementarity
+
+**source:** pdf · **section:** solutions
+**file:** Causality_and_Complementarity
+---
+
+Author(s): Niels Bohr
+Source: Philosophy of Science, Vol. 4, No. 3 (Jul., 1937), pp. 289-298
+Published by: The University of Chicago Press on behalf of the Philosophy of Science Association
+Stable URL: http://www.jstor.org/stable/184445 .
+Accessed: 07/05/2013 16:28
+
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at .
+http://www.jstor.org/page/info/about/policies/terms.jsp
+
+.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+.
+
+                The University of Chicago Press and Philosophy of Science Association are collaborating with JSTOR to
+                digitize, preserve and extend access to Philosophy of Science.
+
+http://www.jstor.org
+
+                             This content downloaded from 128.103.149.52 on Tue, 7 May 2013 16:28:51 PM
+                                             All use subject to JSTOR Terms and Conditions
+phitosophi
+        of Science
+             VOL. 4                    July,             I937                       NO-       3
+
+   Causality and Complementarity'
+                                                   BY
+
+                                        NIELS BOHR
+                    N SEVERAL occasions2 I have pointed out that the
+                     lesson taught us by recent developments in physics
+                     regarding the necessity of a constant extension of
+                     the frame of concepts appropriate for the classifica-
+                     tion of new experiences leads us to a general epis-
+                     temological attitude which might help us to avoid
+                     apparent conceptual difficulties in other fields of
+science as well. Since, however, the opinion has been expressed from
+various sides that this attitude would appear to involve a mysticism
+incompatible with the true spirit of science, I am very glad to use the
+present opportunity of addressing this assembly of scientists working in
+quite different fields but united in their striving to find a common
+ground for our knowledge, to come back to this question, and above all
+to try to clear up the misunderstandings which have arisen.
+   Before entering into the problems to be discussed, I need recall only
+briefly how often the development of physics has taught us that a con-
+sistent application even of the most elementary concepts indispensable
+for the description of our daily experience, is based on assumptions
+initially unnoticed, the explicit consideration of which is, however,
+   1Address delivered before the Second International
+                                                      Congress for the Unity of Science,
+Copenhagen, June, I936.
+   2 "Atomic
+              Theory and Description of Nature", four essays and an introductory sur-
+vey; Cambridge, 1934; quoted in the text as AI, AII, AIII, AIV, and AE; further,
+"Light and Life" Nature I31, 421; 457, I933; and "Can Quantum Mechanical Descrip-
+tion of Physical Reality be Considered Complete?" Physical Review LXVIII, 696, 1935;
+quoted as B and C respectively.
+                                          289
+
+                 This content downloaded from 128.103.149.52 on Tue, 7 May 2013 16:28:51 PM
+                                 All use subject to JSTOR Terms and Conditions
+290         Causality and Complementarity
+ essential if we wish to obtain a classification of more extended domains
+ of experience as clear and as free from arbitrariness as possible. I also
+ hardly need to emphasize how much this development has contributed
+ to the general philosophical clarification of the presuppositions under-
+lying human knowledge. Even though these acquisitions are in many
+ respects of a lasting character, we have nevertheless received only
+ recently an incisive admonition that the analysis of new experiences is
+liable to disclose again and again the unrecognized presuppositions for
+ an unambiguous use of our most simple concepts, such as space-time
+description and causal connection.
+    It was in fact the clarification of the paradoxes connected with the
+finite velocity of propagation of light and the judgment of events by
+observers in relative motion which first disclosed the arbitrariness con-
+tained even in the concept of simultaneity, and thereby created a freer
+attitude toward the question of space-time co6rdination which finds
+expression in the theory of relativity. As is well known, this has made
+possible a unified formulation of the phenomena appearing in different
+frames of reference, and through this brought to light the fundamental
+equivalence of hitherto separate physical regularities. The recognition
+of the essential dependence of any physical phenomenon on the system
+of reference of the observer, which forms the characteristic feature of
+relativity theory, implies, however-as especially Einstein himself has
+emphasized-no abandonment whatever of the assumption underlying
+the ideal of causality, that the behavior of a physical object relative to a
+given system of co6rdinates is uniquely determined, quite independently
+of whether it is observed or not.
+   However, a still further revision of the problem of observation has
+since been made necessary by the discovery of the universal quantum of
+action, which has taught us that the whole mode of description of classi-
+cal physics, including the theory of relativity, retains its adequacy only
+as long as all quantities of action entering into the description are large
+compared to Planck's quantum. When this is not the case, as in the
+region of atomic physics, there appear new uniformities which cannot
+be fitted into the frame of the ordinary causal description (A,). This
+circumstance, at first sight paradoxical, finds its elucidation in the
+recognition that in this region it is no longer possible sharply to dis-
+tinguish between the autonomous behavior of a physical object and its
+inevitable interaction with other bodies serving as measuring instru-
+ments, the direct consideration of which is excluded by the very nature
+of the concept of observation in itself (An).
+
+               This content downloaded from 128.103.149.52 on Tue, 7 May 2013 16:28:51 PM
+                               All use subject to JSTOR Terms and Conditions
+                                      N. Bohr                                              291
+    Indeed this circumstance presents us with a situation concerning the
+ analysis and synthesis of experience which is entirely new in physics
+ and forces us to replace the ideal of causality by a more general view-
+ point usually termed "complementarity." The apparently incom-
+ patible sorts of information about the behavior of the object under
+ examination which we get by different experimental arrangements can
+ clearly not be brought into connection with each other in the usual way,
+ but may, as equally essential for an exhaustive account of all experience,
+ be regarded as "complementary" to each other. In particular, the
+ frustration of every attempt to analyse more closely the "individuality"
+of single atomic processes, symbolized by the quantum of action, by a
+subdivision of their course, is explained by the fact that each section
+in this course definable by a direct observation would demand a
+measuring arrangement which would be incompatible with the appear-
+ance of the uniformities considered. Notwithstanding all differences, a
+certain analogy between the postulate of relativity and the point of view
+of complementarity can be seen in this, that according to the former the
+laws which in consequence of the finite velocity of light appear in differ-
+ent forms depending on the choice of the frame of reference, are equiva-
+lent to one another, whereas, according to the latter the results obtained
+by different measuring arrangements apparently contradictory because
+of the finite size of the quantum of action, are logically compatible.
+    In order to give as clear an idea as possible of the new epistomological
+situation which we meet in atomic physics, we may briefly consider
+those measurements designed to obtain an account of the space-time
+course of some physical event. The account consists in the last analysis
+in the establishment of a series of unambiguous connections between the
+behavior of the object and the measuring rods and clocks which define
+the system of reference involved in the space-time description. It is
+thus only as long as we may completely ignore, in the description of all
+the important circumstances of the event, all interaction between the
+object and these measuring instruments, which unavoidably accompa-
+nies the establishment of any such connection, that we can speak of an
+autonomous space-time behavior of the object under observation,
+independent of the conditions of observation. In case, however-as
+in the region of quantum phenomena-this interaction plays an essential
+r61e for the appearance of the phenomena themselves, the situation is
+completely changed, and we are in particular forced to renounce the
+combination, characteristic of classical physical description, of the
+space-time co6rdination of the event with the general conservation
+
+              This content downloaded from 128.103.149.52 on Tue, 7 May 2013 16:28:51 PM
+                              All use subject to JSTOR Terms and Conditions
+292        Causality and Complementarity
+theorems of dynamics. For the use of rods and clocks to fix the system
+of reference makes it by definition impossible to take into account the
+energy of momentum which might be transferred to them in the course
+of the phenomenon. Conversely, those quantum laws whose formula-
+tion rests essentially on the application of the concept of energy or
+momentum can appear only under circumstances of investigation from
+which a detailed account of the space-time behavior of the object is
+excluded.
+   As is well known, a mode of description suitable to this situation has
+been found in the so-called quantum mechanics, in which sufficient
+freedom for the consistent co6rdination of the new regularities has been
+achieved by the substitution for the usual kinematical and dynamical
+quantities of symbols which obey laws of calculation of a novel type.
+There is also from the point of view an interesting formal analogy
+between quantum mechanics and the theory of relativity, in that it has
+been possible in both cases with the help of abstract concepts of arith-
+metic and geometry respectively, to build up strictly logical formalisms
+which allow a mastering of the new domains of experience. In con-
+nection with the often discussed question whether such formalisms can
+be regarded as an extension of our power of visualization, it must not be
+forgotten that the representation of the co6rdination of space and time
+in the theory of relativity by a four dimensional manifold, as also the
+connecting of kinematic and dynamic quantities in quantum mechanics
+by non-commutative algebra, rest essentially on the old mathematical
+artifice of the introduction of imaginary quantities; in fact the funda-
+mental constants, the velocity of light and the quantum of action, are
+introduced into the formalism as factors of the /- , the one in the
+definition of the fourth coordinate, the other in the commutation laws
+of canonically conjugate variables.
+   It is of course not my intention here to go deeper into such special
+points; I wished only to emphasize that in these fields the logical corre-
+lations can only be won by a far-reaching renunciation of the usual
+demands of visualization. It would in particular not be out of place
+in this connection to warn against a misunderstanding likely to arise
+when one tries to express the content of Heisenlerg's well known inde-
+terminacy relations-which play as important a role in the judgment
+of the consistency of the essentially statistical mode of description of
+quantum mechanics as the Lorentz transformation does in solving the
+paradoxes which appear in the theory of relativity-by such a state-
+ment as: "the position and momentum of a particle cannot simulta-
+
+              This content downloaded from 128.103.149.52 on Tue, 7 May 2013 16:28:51 PM
+                              All use subject to JSTOR Terms and Conditions
+                                      N. Bohr                                              293
+neously be measured with arbitrary accuracy." According to such a
+formulation it would appear as though we had to do with some arbitrary
+renunciation of the measurement of either the one or the other of the
+two well-defined attributes of the object, which would not preclude the
+possibility of a future theory taking both attributes into account on the
+lines of the classical physics. From the above considerations it should
+be clear that the whole situation in atomic physics deprives of all
+meaning such inherent attributes as the idealizations of classical physics
+would ascribe to the object. On the contrary, the proper role of the
+indeterminacy relations consists in assuring quantitatively the logical
+compatibility of apparently contradictory laws which appear when we
+use two different experimental arrangements, of which only one permits
+an unambiguous use of the concept of position, while only the other
+permits the application of the concept of momentum defined as it is,
+solely by the law of conservation.
+   We thus see that the impossibility of carrying through a causal
+representation of quantum phenomena is directly connected with the
+assumptions underlying the use of the most elementary concepts which
+come into consideration for the description of experience. In this
+connection the view has been expressed from various sides that some
+future more radical departure in our mode of description from the
+concepts adapted to our daily experience would perhaps make it possible
+to preserve the ideal of causality also in the field of atomic physics.
+Such an opinion would, however, seem to be due to a misapprehension
+of the situation. For the requirement of communicability of the cir-
+cumstances and results of experiments implies that we can speak of well
+defined experiences only within the framework of ordinary concepts.
+In particular it should not be forgotten that the concept of causality
+underlies the very interpretation of each result of experiment, and that
+even in the co6rdination of experience one can never, in the nature of
+things, have to do with well-defined breaks in the causal chain. The
+renunciation of the ideal of causality in atomic physics which has been
+forced on us is founded logically only on our not being any longer in a
+position to speak of the autonomous behavior of a physical object, due
+to the unavoidable interaction between the object and the measuring
+instruments which in principle cannot be taken into account, if these
+instruments according to their purpose shall allow the unambiguous use
+of the concepts necessary for the description of experience. In the last
+resort an artificial word like "complementarity" which does not belong
+to our daily concepts serves only briefly to remind us of the epistemo-
+
+              This content downloaded from 128.103.149.52 on Tue, 7 May 2013 16:28:51 PM
+                              All use subject to JSTOR Terms and Conditions
+ 294        Causality and Complementarity
+ logical situation here encountered, which at least in physics is of an
+ entirely novel character (AE).
+    The repeatedly expressed hopes of avoiding the essentially statistical
+ character of quantum mechanical description by the assumption of some
+ causal mechanism underlying the atomic phenomena and hitherto
+ inaccessible to observation would indeed seem to be as vain as any
+ project of doing justice to the increased profundity of the picture of the
+ world achieved by the general theory of relativity by means of the
+ ordinary conceptions of absolute space and time. Above all such hopes
+ would seem to rest upon an underestimate of the fundamental differences
+ between the laws with which we are concerned in atomic physics and
+ the every day experiences which are comprehended so completely by
+ the ideas of classical physics. Not only is the well known dilemma
+between the corpuscular and undulatory character of light and matter
+ avoidable only by means of the viewpoint of complementarity, but the
+peculiar stability properties of atomic structures which are in obvious
+contrast with the properties of any mechanical model, but which are so
+intrinsically connected with the existence of the quantum of action,
+form the very condition for the existence of the objects and measuring
+instruments, with the behavior of which classical physics is concerned.
+On closer consideration, the present formulation of quantum mechanics
+in spite of its great fruitfulness would yet seem to be no more than a first
+step in the necessary generalization of the classical mode of description,
+justified only by the possibility of disregarding in its domain of applica-
+tion the atomic structure of the measuring instruments themselves in
+the interpretation of the results of experiment. For a correlation of still
+deeper lying laws of nature involving not only the mutual interaction of
+the so-called elementary constituents of matter but also the stability of
+their existence, this last assumption can no longer be maintained, as we
+must be prepared for a more comprehensive generalization of the com-
+plementary mode of description which will demand a still more radical
+renunciation of the usual claims of so-called visualization.
+   I hope by these remarks to have conveyed the impression that in
+abandoning the causal description in atomic physics we are not con-
+cerned with a hasty assertion of the impossibility of comprehending
+the wealth of phenomena, but with a serious effort to account for the
+new type of laws here encountered in conformity with the general lesson
+of philosophy regarding the necessity of a balance between analysis and
+synthesis. Just in this connection it appeared to me to be of interest to
+point out that also in other regions of human knowledge we meet appar-
+
+               This content downloaded from 128.103.149.52 on Tue, 7 May 2013 16:28:51 PM
+                               All use subject to JSTOR Terms and Conditions
+                                      N. Bohr                                              295
+ent contradictions which might seem to be avoidable only from the
+point of view of complementarity. I am far from sharing, however, the
+widespread opinion that the recent development in the field of atomic
+physics could directly help us in deciding such questions as "mechanism
+or vitalism" and "free will or causal necessity" in favor of the one or the
+other alternative. Just the fact that the paradoxes of atomic physics
+could be solved not by a one sided attitude towards the old problem of
+"determinism or indeterminism," but only by examining the possibili-
+ties of observation and definition, should rather stimulate us to a re-
+newed examination of the position in this respect in the biological and
+psychological problems at issue.
+   In the first place, regarding the question of the extent to which we
+can hope to explain the characteristic features of living organisms with
+the sole help of the experience acquired from the study of inanimate
+nature, we must above all keep in mind that even a definition of life
+itself contains epistemological problems. When we usually refer to a
+machine as dead, we mean scarcely anything else than that we are able
+to describe the circumstances essential for its functioning by means of
+the conceptions of classical physics. Still in view of the insufficiency
+of the classical mode of description in atomic physics, such a definition
+of the inanimate would hardly any longer be adequate. Yet the newly
+recognized possibility of inducing macroscopic effects by individual
+atomic process, which plays an essential part in the functioning of organ-
+isms-in any case for the sensitiveness of sense perceptions (Aiv)-has
+been an incentive to the taking up anew of the question of a possible
+"explanation" of life. But at the same time the recognition of the fact
+that we must descend to the domain of atomic phenomena if we wish to
+bridge the gulf between the living and the inanimate, should bring before
+our eyes in a forceful way the practical and conceptual difficulties con-
+nected with this problem.
+    So far as we are at all in a position to follow the behavior of atoms in
+organisms under similar conditions of investigation as in the funda-
+mental experiments of atomic physics, of course we can only meet with
+the laws disclosed by these experiments which, in spite of their feature
+of individuality, foreign to classical mechanics, can give us clearly no
+immediate understanding of the so-called holistic or finalistic character-
+istics of the activities of life. The only logical possibility of avoiding
+any contradiction between the formulation of the laws of physics and
+the concepts suitable for the description of the phenomena of life ought
+therefore to be sought in the essentially different character of the condi-
+
+              This content downloaded from 128.103.149.52 on Tue, 7 May 2013 16:28:51 PM
+                              All use subject to JSTOR Terms and Conditions
+296        Causality and Complementarity
+tions of investigation concerned. On a previous occasion (B) I have
+tried to express this situation by saying that every experimental arrange-
+ment suitable for following the behavior of the atoms constituting an
+organism in as exhaustive a way as implied by the possibilities of
+physical observation and definition would be incompatible with the
+maintaining of the life of the organism. This would in fact be quite
+analogous to the circumstance that all observations obtained by experi-
+mental arrangements which allow of a space-time account of the
+behavior of the constituents of atoms and molecules stand in a com-
+plementary relation to those obtained under conditions permitting the
+study of the intrinsic stability of atomic structures so essential for the
+physical and chemical properties of matter.
+   To make this view clearer, it was pointed out in the article cited, that
+the continuous metabolism of organisms inseparably connected with life
+prevents us even from distinguishing strictly which atoms belong to a
+living organism, and that we are thus presented with a problem the
+treatment of which, quite apart from its complication, is beyond the
+scope of the methods of atomic mechanics. These methods, which
+govern our entire knowledge of physics and chemistry concern, just as
+do those of classical mechanics, in fact only systems for which it is
+possible in principle to specify what are to be regarded as the elementary
+constituents. This situation suggests that those essential features of
+living organisms which are brought to light only under circumstances
+which exclude an exact account of their atomic constituents are laws of a
+nature which stands in a complementary relationship to those with
+which we are concerned in physics and chemistry. Thus the existence
+of life itself would have to be regarded in biology, both as regards the
+possibilities of observation and of definition, as no more subject to
+analysis than the existence of the quantum of action in atomic physics.
+   I have endeavored to make it clear that in such considerations there is
+no question whatever-as has been sometimes feared by philosophers
+and biologists-of so-called purely metaphysical speculations or of an
+arbitrary renunciation of the possibility by continued research, of
+further increasing our knowledge of the functioning of organisms.
+Rather, they aim at avoiding futile controversies by an analysis of the
+presuppositions and of the appropriateness of the conceptual structures
+involved. Though the viewpoint of complementarity rejects every
+compromise with any anti-rationalistic vitalism, it ought at the same
+time to be suited for revealing certain prejudices in so-called mechanism.
+On the one hand, any violation of physico-chemical laws in organic
+
+              This content downloaded from 128.103.149.52 on Tue, 7 May 2013 16:28:51 PM
+                              All use subject to JSTOR Terms and Conditions
+                                      N. Bohr                                              297
+life-such as the often mistakenly maintained contradiction between
+ the activities of life and the fundamental theorems of thermo-dynamics
+-would be excluded from this point of view; on the other hand any
+insistence on an analogy between the existence of life itself and such
+laws should be rejected as irrational. As already emphasized in the
+ article mentioned, this situation therefore implies no limitation what-
+ever in the application to biology of the physico-chemical methods of
+description and investigation; in fact, the appropriate use of such
+methods-just as even in atomic physics all our experiences must rest
+upon experimental arrangements classically described-remains our
+sole and inexhaustible source of information about biological phenomena.
+   According to its tendency to make room for the phenomena of life
+within the conceptions suited to the description of material systems,
+the viewpoint discussed stands far removed from every attempt to
+exploit in a spiritual sense the failure of causal description in atomic
+physics. On the contrary, the viewpoint toward fundamental biological
+questions which we have here discussed, would rather seem suited to put
+the old problem of psycho-physical parallelism in a new light. The
+considerations which I have presented on previous occasions (A,I,, B)
+on questions of psychology in connection with problems of atomic
+physics followed indeed two essentially different aims. The one was by
+means of well-known examples of the difficulties of analysis and synthesis
+of psychic phenomena connected with introspection to remind ourselves
+that in this region of knowledge we had already been forced to face a
+situation presenting in several respects a formal similarity with that
+with which,to the great disquietude of many physicists and philosophers,
+we have met in atomic physics. The other aim was to express the hope
+that the epistemological attitude which had led to the clarification of
+the much simpler physical problems could prove itself helpful also in the
+discussion of psychological questions. In fact, the use which we make
+of words like "thought" and "feeling," or "instinct" and "reason" to
+describe psychic experiences of different types, shows the existence of
+characteristic relationships of complementarity conditioned by the
+peculiarity of introspection. Above all, just the impossibility in intro-
+spection of sharply distinguishing between subject and object as is
+essential to the ideal of causality would seem to provide the natural play
+for the feeling of free will.
+   I am afraid that the short indications to which I have been obliged
+to restrict myself with respect to the last and many other points of this
+lecture will remind you only too well that in the last resort the direct
+
+              This content downloaded from 128.103.149.52 on Tue, 7 May 2013 16:28:51 PM
+                              All use subject to JSTOR Terms and Conditions
+298        Causality and Complementarity
+use of any word must stand in a complementary relationship to an
+analysis of its meaning. I hope, however, that I have to some extent
+succeeded in giving you the impression that my attitude is in no way
+in conflict with our common endeavors to arrive at as great a unification
+of knowledge as possible by the combating of prejudices in every field
+of research.
+
+  Copenhagen.
+
+              This content downloaded from 128.103.149.52 on Tue, 7 May 2013 16:28:51 PM
+                              All use subject to JSTOR Terms and Conditions
+

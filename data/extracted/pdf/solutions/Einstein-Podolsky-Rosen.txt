@@ -1,0 +1,251 @@
+                            DESCRIPTION                 OF PHYSICAL                 REALITY                                  777
+
+of lanthanum is 7/2, hence the nuclear magnetic                      This investigation was carried out under the
+moment as determined by this analysis is 2.5                      supervision of Professor G. Breit, and I wish to
+nuclear magnetons. This is in fair agreement                      thank him for the invaluable advice and assis-
+with the value 2.8 nuclear magnetons deter-                       tance so freely given. I also take this opportunity
+mined from La III hyperfine structures by the                     to acknowledge the award of a Fellowship by the
+writer and N. S. Grace.9                                          Royal Society of Canada, and to thank the
+  9                                                               University of Wisconsin and the Department of
+    M. F . Crawford and N. S. Grace, Phys. Rev. 47, 536
+(1935).                                                           Physics for the privilege of working here.
+
+
+
+
+MAY     15, 1935                                 PHYSICAL          REVIEW                                       VOLUME         47
+
+
+Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?
+             A. EINSTEIN, B. PODOLSKY AND N. ROSEN, Institute for Advanced Study, Princeton, New Jersey
+                                                 (Received March 25, 1935)
+
+   In a complete theory there is an element corresponding         quantum mechanics is not complete or (2) these two
+to each element of reality. A sufficient condition for the        quantities cannot have simultaneous reality. Consideration
+reality of a physical quantity is the possibility of predicting   of the problem of making predictions concerning a system
+it with certainty, without disturbing the system. In              on the basis of measurements made on another system that
+quantum mechanics in the case of two physical quantities          had previously interacted with it leads to the result that if
+described by non-commuting operators, the knowledge of            (1) is false then (2) is also false. One is thus led to conclude
+one precludes the knowledge of the other. Then either (1)         that the description of reality as given by a wave function
+the description of reality given by the wave function in          is not complete.
+
+                              1.                     Whatever the meaning assigned to the term
+                                                  complete, the following requirement for a com-
+A    NY serious consideration of a physical
+      theory must take into account the dis-
+                                                  plete theory seems to be a necessary one: every
+                                                  element of the physical reality must have a counter-
+tinction between the objective reality, which is
+                                                  part in the physical theory. We shall call this the
+independent of any theory, and the physical
+concepts with which the theory operates. These condition of completeness. The second question
+concepts are intended to correspond with the is thus easily answered, as soon as we are able to
+objective reality, and by means of these concepts decide what are the elements of the physical
+we picture this reality to ourselves.             reality.
+   In attempting to judge the success of a           The elements of the physical reality cannot
+physical theory, we may ask ourselves two ques- be determined by a priori philosophical con-
+tions: (1) "Is the theory correct?" and (2) "Is siderations, but must be found by an appeal to
+the description given by the theory complete?" results of experiments and measurements. A
+It is only in the case in which positive answers comprehensive definition of reality is, however,
+may be given to both of these questions, that the unnecessary for our purpose. We shall be satisfied
+concepts of the theory may be said to be satis- with the following criterion, which we regard as
+factory. The correctness of the theory is judged reasonable. If, without in any way disturbing a
+by the degree of agreement between the con- system, we can predict with certainty {i.e., with
+clusions of the theory and human experience. probability equal to unity) the value of a physical
+This experience, which alone enables us to make quantity, then there exists an element of physical
+inferences about reality, in physics takes the reality corresponding to this physical quantity. It
+form of experiment and measurement. It is the seems to us that this criterion, while far from
+second question that we wish to consider here, as exhausting all possible ways of recognizing a
+applied to quantum mechanics.                     physical reality, at least provides us with one
+778                        EINSTEIN,         PODOLSKY          AND        ROSEN
+
+such way, whenever the conditions set down in           In accordance with quantum mechanics we can
+it occur. Regarded not as a necessary, but              only say that the relative probability that a
+merely as a sufficient, condition of reality, this      measurement of the coordinate will give a result
+criterion is in agreement with classical as well as     lying between a and b is
+quantum-mechanical ideas of reality.
+    To illustrate the ideas involved let us consider
+                                                                P(a,b)=    I Wdx=      I dx = l           (6)
+the quantum-mechanical description of the
+behavior of a particle having a single degree of
+freedom. The fundamental concept of the theory          Since this probability is independent of a, but
+is the concept of state, which is supposed to be        depends only upon the difference b — a, we see
+completely characterized by the wave function           that all values of the coordinate are equally
+t/', which is a function of the variables chosen to     probable.
+describe the particle's behavior. Corresponding            A definite value of the coordinate, for a par-
+to each physically observable quantity A there          ticle in the state given by Eq. (2), is thus not
+is an operator, which may be designated by the          predictable, but may be obtained only by a
+same letter.                                            direct measurement. Such a measurement how-
+    If \p is an eigenfunction of the operator A, that   ever disturbs the particle and thus alters its
+is, if                                                  state. After the coordinate is determined, the
+                     +'=A+ = ai,                  (1)   particle will no longer be in the state given by
+                                                        Eq. (2). The usual conclusion from this in
+where a is a number, then the physical quantity
+                                                        quantum mechanics is that when the momentum
+A has with certainty the value a whenever the
+                                                        of a particle is known, its coordinate has no physical
+particle is in the state given by \p. In accordance
+                                                        reality.
+with our criterion of reality, for a particle in the
+                                                           More generally, it is shown in quantum me-
+state given by \p for which Eq. (1) holds, there
+                                                        chanics that, if the operators corresponding to
+is an element of physical reality corresponding
+                                                        two physical quantities, say A and B, do not
+to the physical quantity A. Let, for example,
+                                                        commute, that is, if AB.j^BA, then the precise
+                    'J/
+                     =   0(2iri/A)?)o.T          (2)
+                                                        knowledge of one of them precludes such a
+                                                        knowledge of the other. Furthermore, any
+where h is Planck's constant, po is some constant attempt to determine the latter experimentally
+number, and x the independent variable. Since will alter the state of the system in such a way
+the operator corresponding to the momentum of as to destroy the knowledge of the first.
+the particle is                                            From this follows that either (1) the quantum-
+                                                        mechanical description of reality given by the wave
+                   p = (h/2iri)d/dx,             (3) function is not complete or (2) when the operators
+we obtain                                               corresponding to two physical quantities do not
+            t'=p*l,=(h/2in)dip/dx=poi'.           (4) commute the two quantities cannot have simul-
+                                                        taneous reality. For if both of them had simul-
+Thus, in the state given by Eq. (2), the momen- taneous reality—and thus definite values—these
+tum has certainly the value po. It thus has values would enter into the complete description,
+meaning to say that the momentum of the par- according to the condition of completeness. If
+ticle in the state given by Eq. (2) is real.            then the wave function provided such a complete
+   On the other hand if Eq. (1) does not hold, description of reality, it would contain these
+we can no longer speak of the physical quantity values; these would then be predictable. This
+A having a particular value. This is the case, for not being the case, we are left with the alter-
+example, with the coordinate of the particle. The natives stated.
+operator corresponding to it, say q, is the operator       In quantum mechanics it is usually assumed
+of multiplication by the independent variable. that the wave function does contain a complete
+Thus,                                                   description of the physical reality of the system
+                     q\p — x\l/^a\p.                (5) in the state to which it corresponds. At first
+                           DESCRIPTION              OF        PHYSICAL         REALITY                               779
+
+sight this assumption is entirely reasonable, for              infinite series (7) is reduced to a single term
+the information obtainable from a wave function
+seems to correspond exactly to w h a t can be                      T h e set of functions u„(xt) is determined b y
+measured without altering the s t a t e of the                 the choice of the physical q u a n t i t y A. If, instead
+system. We shall show, however, t h a t this as-               of this, we had chosen another q u a n t i t y , say B,
+sumption, together with t h e criterion of reality             having the eigenvalues 61, b%, bz, • • • and eigen-
+given above, leads to a contradiction.                         functions Vi(x{), Vz(xi), Vz(xi), • • • we should
+                                                               h a v e obtained, instead of Eq. (7), the expansion
+
+                                                                            •*-(xj, x2) = X) <Ps(xz)v,(xi),          (8)
+   For this purpose let us suppose t h a t we have
+two systems, I and I I , which we permit to inter-
+act from the time t = 0 to t = T, after which time             where <p„'s are the new coefficients. If now the
+                                                               q u a n t i t y B is measured a n d is found to have the
+we suppose t h a t there is no longer a n y interaction
+                                                               value br, we conclude t h a t after the measurement
+between the two parts. W e suppose further t h a t
+                                                               the first system is left in the state given by vr(xi)
+the states of the two systems before t = Q were
+                                                               a n d the second system is left in the s t a t e given
+known. W e can then calculate with the help of
+                                                               by <pr(Xi).
+Schrodinger's equation the s t a t e of t h e combined
+                                                                   We see therefore t h a t , as a consequence of two
+system I + 11 at any subsequent t i m e ; in par-
+                                                               different measurements performed upon the first
+ticular, for a n y t>T. Let us designate the cor-
+                                                               system, the second system m a y be left in states
+responding wave function by M*. We cannot,
+                                                               with two different wave functions. On the other
+however, calculate the s t a t e in which either one
+                                                               hand, since a t the time of measurement the two
+of the two systems is left after the interaction.
+                                                               systems no longer interact, no real change can
+This, according to q u a n t u m mechanics, can be
+                                                               t a k e place in the second system in consequence
+done only with the help of further measurements,
+                                                               of anything t h a t m a y be done to the first system.
+by a process known as t h e reduction of the wave
+                                                               This is, of course, merely a s t a t e m e n t of w h a t is
+packet. Let us consider the essentials of this                 meant by the absence of an interaction between
+process.                                                       the two systems. T h u s , it is possible to assign two
+   Let a 1, 02, a-3, • • • be the eigenvalues of some          different wave functions (in our example \pk a n d
+physical q u a n t i t y A pertaining to system I and          <pr) to the same reality (the second system after
+Wi(xi), Ui(xi), ut(xi),        • • • the corresponding         the interaction with the first).
+eigenfunctions, where Xi stands for the variables                   Now, it m a y happen t h a t the two wave func-
+used to describe the first system. T h e n ^ , con-            tions, ij/k and <pr, are eigenfunctions of two non-
+sidered as a function of x\, can be expressed as               commuting operators corresponding to some
+                                                               physical quantities P and Q, respectively. T h a t
+             * 0 l , Xi)= T,    lpn{Xl)un(Xl),         (7)     this m a y actually be the case can best be shown
+                                                               by an example. Let us suppose t h a t the two
+where x2 stands for the variables used to describe             systems are two particles, and t h a t
+the second system. Here ^ n (#a) are to be regarded                                     CO
+
+
+merely as the coefficients of the expansion of ^                                            eUrtlhHn-xt¥a»)Pdpt       (9)
+                                                                                     / —m
+into a series of orthogonal functions               un(xi).
+Suppose now t h a t the q u a n t i t y A is measured          where Xo is some constant. Let A be the momen-
+a n d it is found t h a t it has the value a*. It is then      t u m of the first particle; then, as we have seen
+concluded t h a t after the measurement the first              in Eq. (4), its eigenfunctions will be
+system is left in the state given by the wave
+                                                                                  up(xi)=ei2T     i!h)pxi           (10)
+function uk(xx), and t h a t the second system is
+left in the state given by t h e wave function                 corresponding to the eigenvalue p. Since we have
+tkXxi). This is the process of reduction of the                here the case of a continuous spectrum, Eq. (7)
+wave p a c k e t ; the wave packet given by the                will now be written
+780                                    EINSTEIN,          PODOLSKY         AND       ROSEN
+                                 CO
+                                                                    disturbing the second system, either the value
+                                      tl/p(xi)up(xi)dp,      (11)
+                            /                                       of the q u a n t i t y P (that is pk) or the value of the
+where                                                               q u a n t i t y Q (that is qr). In accordance with our
+                 i/'p(x2) = e~t-2lTilh) (a,*-a;^ ".          (12)   criterion of reality, in the first case we must
+                                                                    consider the q u a n t i t y P as being an element of
+This \pv however is the eigenfunction                     of the    reality, in the second case the q u a n t i t y Q is an
+operator                                                            element of reality. But, as we have seen, both
+                                                                    wave functions \j/k and <pr belong to the same
+                     P=(h/2iri)d/dx2,                        (13)
+                                                                    reality.
+corresponding to the eigenvalue — p of the                             Previously we proved t h a t either (1) the
+m o m e n t u m of the second particle. On the other                quantum-mechanical description of reality given
+hand, if B is the coordinate of the first particle,                 by the wave function is not complete or (2) when
+it has for eigenfunctions                                           the operators corresponding to two physical
+                                                                    quantities do not commute the two quantities
+                     Vx(xi) = 8(Xi — x),                     (14)   cannot have simultaneous reality. Starting then
+                                                                    with the assumption t h a t the wave function
+corresponding to the eigenvalue x, where
+                                                                    does give a complete description of the physical
+S(xi — x) is t h e well-known Dirac delta-function.
+                                                                    reality, we arrived a t the conclusion t h a t two
+Eq. (8) in this case becomes
+                                                                    physical quantities, with noncommuting oper-
+                                 CO                                 ators, can have simultaneous reality. T h u s the
+                                       (Px(x2)vx(xi)dx,      (15)   negation of (1) leads t o t h e negation of t h e only
+                            /
+where
+                                -co                                 other alternative (2). W e are t h u s forced to
+                                                                    conclude t h a t t h e quantum-mechanical descrip-
+           ~co
+                      1
+                                                                    tion of physical reality given by wave functions
+<Px(x2)=   I      e^*ilh) (x—Z2+zo)p,
+                                    dp                              is not complete.
+                                                           One could object to this conclusion on t h e
+                                        = h8(x — Xi-\-Xo).   (16)
+                                                       grounds t h a t our criterion of reality is not suf-
+This <px, however, is the eigenfunction of the ficiently restrictive. Indeed, one would not arrive
+operator                                               a t our conclusion if one insisted t h a t two or more
+                      Q=x2                        (17) physical quantities can be regarded as simul-
+                                                       taneous elements of reality only when they can be
+corresponding to t h e eigenvalue x-\-x0 of the simultaneously          measured or predicted. On this
+coordinate of the second particle. Since               point of view, since either one or the other, b u t
+                                                       not both simultaneously, of the quantities P
+                PQ-QP = h/2-Ki,                  (18)
+                                                       and Q can be predicted, they are not simultane-
+we have shown t h a t it is in general possible for ously real. This makes the reality of P a n d Q
+\pk and <pr to be eigenfunctions of two noncom- depend upon the process of measurement carried
+muting operators, corresponding to physical out on the first system, which does, not disturb
+quantities.                                            the second system in a n y way. No reasonable
+   Returning now to the general case contem- definition of reality could be expected to permit
+plated in Eqs. (7) and (8), we assume t h a t \j/k this.
+and <pT are indeed eigenfunctions of some non-             While we have t h u s shown t h a t the wave
+commuting operators P and Q, corresponding to function does not provide a complete description
+the eigenvalues pk and qr, respectively. T h u s , by of the physical reality, we left open the question
+measuring either A or B we are in a position to of whether or not such a description exists. W e
+predict with certainty, a n d without in any way believe, however, t h a t such a theory is possible.
+

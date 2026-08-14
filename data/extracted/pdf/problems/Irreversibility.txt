@@ -1,0 +1,478 @@
+                       The Origin of Irreversibility
+                                   Robert O. Doyle
+
+                   Department of Astronomy, Harvard University∗
+
+                               (Dated: January 13, 2014)
+   The path information required for microscopic reversibility of particle paths is
+destroyed or erased by local interactions with radiation and other particles.
+   Ludwig Boltzmann’s dynamical H-Theorem (his 1872 Stosszahlansatz ) correctly
+predicts the approach to equilibrium. But this apparent increase in entropy can be
+reversed, according to Josef Loschmidt’s time-reversibility objection and Ernst Zer-
+melo’s recurrence objection. We show that the addition of electromagnetic radiation
+adds an irreducible element of randomness to atomic and molecular motions, eras-
+ing classical path information, just as the addition of a small speck of material can
+thermalize a non-equilibrium radiation field. Path erasure prevents reversibility and
+maintains a high entropy state indefinitely. Statistical fluctuations from equilibrium
+are damped by path erasure.
+   Photon emission and absorption during molecular collisions is shown to destroy
+nonlocal molecular correlations, justifying Boltzmann’s assumption of “molecular
+chaos” (molekular ungeordnete) as well as Maxwell’s earlier assumption that molec-
+ular velocities are not correlated. These molecular correlations were retained in
+Willard Gibbs formulation of entropy. But the microscopic information implicit in
+classical particle paths (which would be needed to implement Loschmidt’s determin-
+istic motion reversal) is actually erased, justifying what N. G. van Kampen calls a
+“repeated randomness” assumption. Boltzmann’s physical insight was correct that
+his increased entropy is irreversible.
+   It has been argued that photon interactions can be ignored because radiation is
+isotropic and thus there is no net momentum transfer to the particles. The radiation
+distribution, like the distribution of particles, is indeed statistically isotropic, but, as
+we show, each discrete quantum of angular momentum exchanged during individual
+photon collisions alters the classical paths sufficiently to destroy molecular velocity
+correlations.
+   Path erasure is a strong function of temperature, pressure, and the atomic and
+molecular species of the gas. We calculate path erasure times over a range of con-
+ditions, from standard temperature and pressure to the extreme low densities and
+temperatures of the intergalactic medium.
+   Reversibility is closely related to the maintenance of path information forward in
+time that is required to assert that physics is deterministic. Indeterministic inter-
+actions between matter and radiation erase that path information. The elementary
+process of the emission of radiation is not time reversible, as first noted by Einstein
+in 1909. Macroscopic physics is only statistically determined. Macroscopic processes
+are adequately determined when the the mass m of an object is large compared to the
+Planck quantum of action h (when there are large numbers of quantum particles).
+But the information-destroying elementary processes of emission and absorption of
+radiation ensure that macroscopic processes are not reversible.
+                                                                                                2
+
+
+             I.   INTRODUCTION                       No treatment of the irreversibility problem
+                                                  limited to material particles has successfully
+    Macroscopic laws of physics, notably the      resolved the well-known objections raised
+phenomenological second law of thermody-          during Boltzmann’s lifetime These were
+namics, describe irreversible behavior. Mi-       the reversibility problem (Josef Loschmidt’s
+croscopic laws, however, are described by         “Umkehreinwand ”) and the recurrence prob-
+differential equations that are deterministic     lem (Ernst Zermelo’s “Wiederkehreinwand ”)
+and reversible, whether Newton’s classical        (Boltzmann [9], p.443). Boltzmann’s cal-
+dynamical laws or the quantum mechanical          culations of the extraordinary improbabil-
+equations of motion (e.g., the Schrödinger       ity of these two objections showed that they
+equation). Microscopic physics is time re-        can be ignored for practical purposes. For
+versible for conservative systems describable     a one-tenth liter of gas, Boltzmann cal-
+by a real Hamiltonian (Bohm [1], p.415, Mes-      culated the Poincaré recurrence time (the
+                                                                                               1
+siah [2], vol.II, p.673, Tolman [3], p.395).      “Wiederkehrsatz ”) as of the order of 1010 0
+A fundamental problem in statistical me-          years. But if Boltzmann’s H-theorem does
+chanics is how indeterministic macroscopic        not indefinitely maintain the monotonic in-
+irreversibility can result from deterministic     crease in entropy we observe in the universe,
+and reversible microscopic motions (Ehren-        what mechanism can explain the irreversibil-
+fest and Ehrenfest [4], Montroll and Green        ity? We show that it is the indeterministic
+[5], van Kampen [6]).                             and irreversible interaction of matter and ra-
+    Ludwig Boltzmann’s presumed proof of          diation.
+entropy increase (his H-Theorem) used a               In 1909, Einstein argued that the elemen-
+definition of statistical entropy that ig-        tary process of light radiation does not have
+nored molecular correlations [7]. This was        reversibility (“Umkehrbarkeit”). The reverse
+described as his hypothesis of “molecular         process (“umgekehrte Prozess”) does not ex-
+chaos” by the Ehrenfests [4]. When J.             ist as an elementary process, he said. ([10])
+Willard Gibbs included molecular correla-         H. Dieter Zeh says that the inverse process is
+tions between particles, he found that (his)      “never observed in nature.” ([11])
+total statistical entropy is a constant [8].
+Gibbs’ view was endorsed by many mathe-               When interactions with a thermal radi-
+matical physicists, including Albert Einstein,    ation field and rearrangement collisions are
+as compatible with a block-universe in which      taken into account, a quantum-mechanical
+total information is a conserved quantity. In     treatment of collisions between material par-
+the time evolution of a closed system started     ticles shows that a hypothetical reversal
+in a highly ordered state, the initial macro-     of all the velocities following a collision
+scopic order is lost (Boltzmann entropy in-       would only very rarely follow the original
+creases) as it becomes microscopic informa-       path backwards. Although the deterministic
+tion in the form of molecular correlations.       Schrödinger equation of motion for an iso-
+The Gibbs entropy conserves the path infor-       lated two-particle material system is time re-
+mation stored in molecular correlations. It is    versible (for conservative systems), the quan-
+these microscopic correlations that could re-     tum mechanics of radiation interactions dur-
+turn the system to its initially ordered state,   ing collisions does not preserve particle path
+if the momenta of all the material particles      information, as does classical dynamics. Par-
+could be reversed at any time (the physical       ticle interactions with photons in the thermal
+equivalent of time reversal).                     radiation field and rearrangement collisions
+                                                  that change the internal states of the colliding
+                                                  particles are shown to be microscopically ir-
+∗
+    rodoyle@fas.harvard.edu                       reversible for all practical purposes. We show
+                                                                                                 3
+
+that these quantum processes are equiva-          distribution, like the distribution of parti-
+lent to the irreversible “’measurements” that     cles, is indeed statistically isotropic, but, as
+John von Neumann showed increase the en-          we show, each discrete quantum of angular
+tropy ([12], p.379-387).                          momentum exchanged during individual pho-
+   Just as a material gas alone cannot pro-       ton collisions alters the classical paths suffi-
+duce a permanent approach to equilibrium,         ciently to destroy molecular velocity corre-
+a non-equilibrium radiation distribution can-     lations. Photon interactions (and rearrange-
+not by itself approach the equilibrium of Max     ment collisions) may therefore justify the “re-
+Planck’s radiation distribution law. Gustav       peated randomness assumption” of N. G. van
+Kirchhoff noted that in a perfectly reflecting    Kampen (van Kampen [6], pp.58-59, 449–
+cavity, there is no way for monochromatic         456). Van Kampen has criticized approxi-
+rays of one frequency to change to another        mation methods that claim to produce irre-
+frequency. But he said that a single speck of     versibility as lacking an underlying physical
+material would be enough to produce black-        explanation, i.e., a specific mechanism that
+body radiation. His student Planck said that      could justify the approach to equilibrium as
+a single carbon particle would be enough          a Markovian process (van Kampen [15], cited
+to change perfectly arbitrary radiation into      by van Vliet [16]).
+black radiation ([13], p.44). The time neces-        “Path erasure” of molecular correlation in-
+sary is not essential. We shall show that even    formation during collisions justifies “repeated
+a small amount of radiation has a similar ef-     randomness” assumptions and validates the
+fect on a material gas, helping it to maintain    Boltzmann assumption of molecular chaos.
+a Maxwell-Boltzmann distribution and max-
+imum Boltzmann entropy against significant
+                                                            II.   PATH ERASURE
+fluctuations from equilibrium.
+   Most texts on statistical mechanics say            At the standard temperature and pres-
+that the quantum treatment of statistical me-     sure of gases considered in classical statistical
+chanics reaches no conclusions different from     physics, interaction between matter and ra-
+the classical treatment. Richard Tolman           diation has usually been ignored. Electronic
+(Tolman [3], p.8) claimed that the “principle     transitions between atomic energy levels re-
+of dynamical reversibility” holds also in quan-   quire relatively high-energies (order of elec-
+tum mechanics in appropriate form, indicat-       tron volts), justifying the usual treatment of
+ing that quantum theory supplies no new           gas particles as not interacting with radia-
+kind of element for understanding the actual      tion. But excitation of vibrational and ro-
+irreversibility in the macroscopic behavior of    tational states in some molecules is possible
+physical systems. D. ter Haar (ter Haar [14],     with collision energies commonly present at
+p. 292) said “The transition from classical to    room temperatures (.03 eV). And free atoms
+statistical mechanics does not introduce any      close enough to collide are most accurately
+fundamental changes.” This is because both        described by the use of ”quasi-molecular”
+classical and quantum statistical mechanics       wave functions (Doyle [17]). During these
+describe ensembles of systems. The quantum        collisions, discrete atomic spectral lines are
+systems are in “mixed states,” disregarding       broadened into a continuum by the ”quasi-
+the interference terms in the density matrix      molecule” translational energy, which is not
+of the “pure states” density operator.            quantized. Low-energy photon emission (or
+   It has been argued that photon interac-        absorption) during a collision alters the an-
+tions can be ignored because radiation is         gular momentum of the quasi-molecule, de-
+isotropic and thus there is no net momen-         flecting the colliding atoms from the classical
+tum transfer to the particles. The radiation      paths they would have followed without ra-
+                                                                                                     4
+
+diation interaction.                                  ences a recoil momentum hν/c in a random
+    Assuming motion reversal of such atoms            direction [18].
+after a collision, the reversed collision is              At some time t after the collision, theo-
+highly unlikely to absorb a photon at ex-             retically (if not practically) we can reverse
+actly the right time and with the exact op-           the separating atoms, sending them back to-
+posite momentum required to produce the               ward the reverse collision. If there had been
+precise time-reversed trajectory assumed for          no photon emission, the most likely path
+classical particles. When the colliding atoms         is an exact traversal of the original path.
+emit a specific energy photon, for example,           But if a photon had been emitted, travers-
+one corresponding to a discrete vibrational-          ing the original path requires us to calcu-
+or rotational-state transition during the col-        late the probability that at precisely the right
+lision, the likelihood of an identical en-            time a photon of the same frequency is ab-
+ergy photon being available during the hy-            sorbed by the quasi-molecule, corresponding
+pothetical time-reversed collision, combined          to the reverse quantum jump back to the orig-
+with the small probability of the opposite            inal rotational-vibrational state (conserving
+quasi-molecular-state transition, is vanish-          energy), with the photon direction exactly
+ingly small.                                          opposite to the original absorption (conserv-
+    The energy of collision at standard tem-          ing overall momentum), allowing the collid-
+perature is more than enough to cause transi-         ing atoms to reverse its original path. While
+tions between rotational eigenstates, accom-          this is not impossible, it is extraordinarily im-
+panied by the emission (or absorption) of             probable. Detailed balancing ensures that on
+a photon. Rotational transitions which in-            average the reverse effect occurs in the gas.
+crease (or decrease) the particles’ combined          So there is no macroscopic ”net effect.” But
+angular momentum by ∆J, would cause the               it is extremely improbable for any given pair
+quasi-molecules to follow paths that diverge          of particles to experience the exact opposite
+from those of colliding atoms that experience         transition with an incoming photon.
+no photon interactions, as shown in Figure 1.
+                                                          Note that it was a two-particle original
+                                                      collision that emitted a photon, but the re-
+                                                      verse process is a three-body collision. Three-
+                             J’ = J - ΔJ
+                                                      and higher-number collisions are tradition-
+                                                      ally ignored in statistical mechanics.
+                                                          Furthermore, where particles can in prin-
+                                                      ciple be motion reversed, to produce a
+                J                                     time-reversed electromagnetic radiation field
+                                           hν         would involve advanced electromagnetic po-
+                                                      tentials, as Wheeler and Feynman consid-
+                                                      ered in their absorber theory of radiation
+FIG. 1. The emitted photon carries away one           (Wheeler and Feynman [19]), but later re-
+unit of angular momentum, so the path of the          jected. “A converging spherical wave is
+collision is altered, erasing its memory of the in-   mathematically possible, to be sure; but to
+coming path before the collision.                     approach its realization requires a vast num-
+                                                      ber of emitting entities. The elementary
+   The emission of the photon is described            process of emission is not reversible (Ein-
+by a spherical outgoing probability amplitude         stein [10]). The extraordinary initial condi-
+wave. But when that photon is absorbed, by            tions required for such advanced potentials
+collision with another particle or the wall of        are “never observed in nature,” as H.D. Zeh
+the container, the emitting particle experi-          says in his studies of the direction of time
+                                                                                                  5
+
+(Zeh [20]). Water waves, sound waves, elec-        H-theorem, that entropy always increases.
+tromagnetic waves, and quantum probability         Reversing all velocities is of course not the
+amplitude waves all share a “radiation arrow       same as reversing time. But unlike most ear-
+of time” whose direction coincides with the        lier research, we conclude that microscopic
+thermodynamic arrow of entropy and the cos-        quantum irreversibility would maintain the
+mological arrow of the expansion of the uni-       increased entropy in such hypothetical situa-
+verse. All of these arrows may find a shared       tions.
+basis in the irreversibility of quantum inter-
+actions between radiation and matter.
+                                                    III. THE CHARACTERISTIC TIME
+    Actual photons are not required. Many
+                                                    OF ERASURE OF CLASSICAL PATH
+types of “rearrangement collisions,” medi-
+ated by the exchange of virtual photons,                     INFORMATION
+are possible, in which more exotic transi-
+tions might occur. These are dependent on              The time scale for the erasure of classical
+the type of particle. For a hydrogen atom,         microscopic path information τP E depends on
+there is a probability that during a collision     the number of collisions per second and the
+one of the electrons might flip from parallel      efficiency of erasure (the cross-section for era-
+to the atom’s nuclear spin (triplet state) to      sure σP E ). The cross section is highly wave-
+anti-parallel. This hyperfine structure tran-      length and species dependent, reflecting the
+sition produces the long-wavelength 21-cm          internal quantum structure of the colliding
+line of radio astronomy. Nuclear spins might       atoms or molecules. The collision rate de-
+make a similar transition, changing the quasi      pends on the temperature (average particle
+molecule from ortho-H2 to para-H2 . Any of         velocity squared), volume, and pressure (par-
+these transitions might introduce the small        ticle density).
+quantum change of one unit of angular mo-
+mentum needed to deflect the colliding par-
+                                                   A.     Standard Temperature and Pressure
+ticles from their classical paths, erasing their
+memory of past positions and paths, and ef-
+                                                      Assuming that we have a gas in an isolated
+fectively invalidating deterministic statistical
+                                                   container with perfectly reflecting adiabatic
+physics.
+                                                   walls at standard temperature and pressure,
+    Even if we could prepare gas molecules         the number density of particles is
+with the exact opposite velocities - the con-
+dition that Loschmidt thought would be                           n ≈ 2.5 × 1019 /cm3            (1)
+equivalent to reversing the time (discussed
+by Boltzmann in Boltzmann [21]), the en-                From the equipartition theorem,
+tropy would decrease only for a short time
+                                                                  1 ¯2 3
+(as Boltzmann accepted). Statistically ir-                          mv = kT.                (2)
+reversible quantum-mechanical interactions                        2       2
+with the radiation field or rearrangement of         The mean velocity of typical atmospheric
+the internal quantum states of the colliding       molecules such as N2 (mass 5 × 10−23 g) is
+particles would slow the entropy decrease af-
+ter the characteristic path erasure time τP E                     v̄ ≈ 5 × 104 cm/s.            (3)
+of the gas.                                           The mean free path of molecules between
+    We find that quantum mechanics provides        collisions depends on the molecular diameter
+the molecular disorder or chaos that Boltz-        D and the effective scattering cross-section
+mann and some British physicists (Burbury          σ. For N2 , D ≈ 2 × 10−8 and the geometric
+[22]) thought might serve to guarantee his         cross-section σ ≈ 6 × 10−16 .
+                                                                                               6
+
+   The mean free path for hard inelastic                   B.    Photon absorptions
+spheres is
+                                                     An estimate of the photon interaction rate
+                    1                             can be made by calculating the number of
+           lmf p =    ≈ 3 × 10−5 cm.        (4)
+                   nσ                             photons that collide with the gas particles
+   Thus lmf p  D and the average molecule        while they are in a “quasi-molecular’ state
+travels thousands of molecular diameters be-      with rotational and vibrational levels in the
+tween collisions. If the angular deflection due   continuum.
+to quantum processes during the collision is         The density of photons in the equilibrium
+even one part in a thousand, the molecule         radiation field can be determined from the
+will completely miss the next collision on its    Planck radiation law for spectral energy den-
+classical path.                                   sity as a function of frequency,
+   The mean time τ between collisions is
+                                                                         8πhν 3    1
+                                                            u(ν, T ) =      3   hν           (7)
+                 lmf p                                                     c e kT − 1
+            τ=         ≈ 6 × 10−10 s,      (5)
+                   v̄                               The number density of photons of fre-
+   and the collision rate per molecule ≈ 2 ×      quency ν is therefore
+109 s−1 .
+   This was the source of Boltzmann’s esti-                     u(ν, T )  8πν 2  1
+mate for the ”relaxation time” for the ap-               nν =            = 3 hν       .      (8)
+                                                                  hν       c e kT − 1
+proach of the gas to equilibrium as 10−9 sec-
+onds..                                                 At room temperature and at ν = 3 × 1013
+   The path erasure time τP E for the loss        ( k·300 ), this gives us approximately
+                                                      h
+of classical path information is much longer
+than the Boltzmann relaxation time τB , be-                 nν = 8 × 10−4 cm−3 sec−1         (9)
+cause it depends on the fraction of collisions
+that involve a photon interaction (emission          as the number of photons per unit fre-
+or absorption) or a rearrangement collision.      quency interval near the maximum black-
+This depends on the quantum internal struc-       body radiation at 300K.
+ture of the specific atoms and molecules in          To calculate the flux of photons, we can
+the gas.                                          use the Stefan-Boltzmann law for the energy
+   Given the change in angular momentum           radiated from the surface, which in equilib-
+resulting from quantum transitions (some          rium is the amount falling on the surface.
+multiple of h̄), we can calculate the average                        P
+angular deflection ∆θ of the path after the                             = σT 4 .             (10)
+                                                                     A
+collision . An angular deflection ∆θ leads to
+the particle missing the next collision by a         where σ is the Stefan-Boltzmann constant,
+distance d,                                       5.67×10−5 erg cm−2 sec−1 K −4 . At 300K, the
+                                                  flux of thermal photons is of the order of 1017
+                                                  photons per cm2 .
+                d = ∆θ · lmf p .           (6)
+                                                     Multiplying the geometrical cross-section
+   When d is greater than the molecular di-       of a quasi-molecule (10−16 cm2 ) by the pho-
+ameter D, just one photon interaction is          ton flux, we find the number of photon inter-
+enough to invalidate the deterministic thesis     actions with the quasi-molecules is very low,
+that classical path information (like all in-     about one per second, compared to 108 parti-
+formation in classical dynamical physics) is      cle collisions per second, so the path erasure
+conserved.                                        rate must be very slow compared to Boltz-
+                                                                                                7
+
+mann’s relaxation time to equilibrium (order        the two particles to change. If internal an-
+of 10−9 sec).                                       gular momentum of the atoms (or molecules)
+   And not all of these photon interactions         is transferred to the quasi-molecule (conserv-
+result in absorption or Raman scattering be-        ing total angular momentum), the outgoing
+cause 1) the geometric cross-section is larger      paths of the particles are altered indetermin-
+than the cross-sections for absorption and for      istically from the expected classical paths, a
+Raman scattering, and 2) the cross sections         third example of irreversible path erasure.
+are strong functions of the photon frequency
+ν.
+   If the spectrum consists of discrete lines             IV.    DECOHERENCE AND
+and molecular bands, a large fraction of pho-                   IRREVERSIBILITY
+tons simply pass by. Fortunately, broadening
+of the spectral lines by relative motion of the         The “decoherence program” (Zeh [11],
+atoms (the translational energy between the         Joos and Zeh [23], Joos et al. [24], ? ],
+atoms is not quantized) means there is a con-       Tegmark and Wheeler [25]) describes “envi-
+tinuous absorption spectrum rather than the         ronmental monitoring” of entangled systems
+discrete lines of the individual atoms.             by photons (even cosmic microwave back-
+   Thermal photons have enough energy (≈            ground radiation) as the principal source of
+.03eV ) to excite the first few rotational en-      decoherence. For coherent systems, the ma-
+ergy levels of a typical quasi-molecule.            trix of the density operator contains signif-
+                                                    icant off-diagonal terms. These carry the
+                                                    phase information necessary for interference.
+           C.   Photon emissions                    In decohering, the “pure state” evolves into
+                                                    a “mixed state” for which the off-diagonal
+    We can also attempt to estimate the num-        terms can be neglected. Complex probability
+ber of collisions that excite internal energy       amplitudes (characteristic of quantum sys-
+levels during the collision, which are followed     tems) become real probabilities and this con-
+quickly (10−8 sec) by emission of photon, car-      stitutes the quantum-to-classical transition,
+rying away angular momentum. In thermal             they argue (Joos et al. [24]).
+equilibrium, these emissions are in detailed            These authors, with many colleague scien-
+balance, with absorptions equal to emissions.       tists (and philosophers of science) who pur-
+    With 109 collisions per second and the col-     sue the ”foundations of physics,” generally
+lision energy at 300K about .03 eV, we would        deny the indeterministic collapse of the wave
+expect many low-lying rotational states to          function. Following early work of Erwin
+be occupied after each collision. But if the        Schrödinger, David Bohm, and Hugh Ev-
+excited-state lifetimes are too long, the par-      erett, they accept Dirac’s principle of super-
+ticles will suffer another collision before emit-   position but deny his “projection postulate”
+ting a photon, and this perhaps accounts for        (von Neumann’s Process 1). They claim that
+the very low emission rate that would balance       collapses and “quantum jumps” are only ap-
+absorptions.                                        parent. They see collapses as branch points in
+                                                    which the “universal wave function,” evolving
+                                                    according to the deterministic Schrödinger
+      D.    Rearrangement collisions                equation, divides and creates multiple uni-
+                                                    verses instantaneously. It is “embarrassing
+   In a rearrangement collision no photons          that nobody has provided a testable deter-
+are emitted or absorbed but virtual photons         ministic equation specifying precisely when
+mediate the interaction between the collid-         the mysterious collapse is supposed to occur”
+ing particles, allowing the quantum states of       (Tegmark and Wheeler [25]).
+                                                                                                8
+
+    According to standard quantum mechan-          they increase global entropy.
+ics, there are many possibilities of jumping           Dirac and von Neumann described the
+into different eigenstates. The calculated         process of measurement as irreversible. We
+probabiities of such jumps are confirmed with      trace this irreversibility to the elemen-
+unparalleled accuracy by quantum experi-           tary process of radiation-matter interactions,
+ments. One of these eigenstates is selected        which as Einstein first saw was a proces in-
+at random. The new state is actualized or          volving pure chance. Even in the “no col-
+realized, at which moment all those proba-         lapse” deterministic many-worlds interpreta-
+bilities of the other possible states vanish in-   tion preferred by the “foundationists,” is it
+stantly. The ”collapse” of the wave function       not still a matter of chance which of the
+is nothing more than the vanishing of those        many universes we wind up in after per-
+abstract (immaterial) probabilities, wherever      forming a quantum measurement? John Bell
+they previously had non-zero values in con-        thought the many-worlds interpretation to
+figuration space. This Einstein saw as nonlo-      be “extravagant” and the anthropomorphism
+cal behavior that might violate his relativity     of universe behavior depending on measure-
+principle, perhaps as early as 1905 (Einstein      ments by scientists (with Ph.D’s) to be ex-
+[26]). In 1909, he saw that the elementary         treme.
+process of radiation emission is not reversible        The “decoherence program” finds the two
+(Einstein [26]).                                   laws for the evolution of quantum systems
+    Nothing irreversible ever happens in a uni-    - the deterministic Schrödinger equation on
+verse evolving deterministically. The total in-    the one hand ant the indeterministic “col-
+formation in the universe is a constant. The       lapse” on the other - to be logically incon-
+present is determined by the past and it com-      sistent. They choose to accept and exag-
+pletely determines the future. In the absence      gerate the reversible determinism and deny
+of radiation, collisions between material par-     the irreversible indeterminism. We show
+ticles are microscopically reversible, leading     that the proper view is to calculate the mo-
+to Loschmidt’s claim that if their motions         tion of material particles and light quanta
+could be instantly reversed, Boltzmann’s en-       with the information-conserving determinis-
+tropy would decrease. In the absence of            tic Schrödinger equation, but when light and
+matter, there is no interaction between pho-       matter interact we must calculate with scat-
+tons that could make a nonequilibrium radi-        tering matrices and Hamiltonians that are in-
+ation distribution approach equilibrium. In        deterministic and not conservative.
+a perfectly reflecting container (an unrealiz-         Even if just one photon in an elementary
+able idealization) there is no mechanism for       process erases the path information of a sin-
+photons to change frequencies.                     gle material particle, it means that the future
+                                                   is not completely determined by the past.
+   All this perfect reversibility and determin-    The future is not reversible. Unlike the de-
+ism disappears when photons interact with          coherence of “foundationists,” this is indeter-
+material particles, as Einstein was the first      ministic and irreversible decoherence.
+to see. The decoherence “foundationists” are
+correct that radiation interaction can deco-
+here entangled systems. But more impor-                        V.   CONCLUSION
+tantly, photon interactions can destroy path
+information, create Boltzmann’s molecular              Irreversible interactions of atoms and
+disorder, and irreversibly increase the en-        molecules with thermal radiation during col-
+tropy. They are also intimately involved in        lisions erase the classical or quantum path in-
+information-creating “measurements,” which         formation about previous paths of the parti-
+decrease local entropy at the same time as         cles, and make future (or time-reversed past)
+                                                                                                    9
+
+paths indeterminate. Although the average            ing individual collisions. The maintenance
+direction of photons is isotropic, individual        of molecular correlations needed for a deter-
+photon interactions are not isotropic. They          ministic, time-reversible microphysics is pre-
+are directed and alter particle paths indeter-       vented by path erasure in time scales con-
+ministically, destroying microscopic molecu-         sistent with observations. Boltzmann’s intu-
+lar velocity correlations. Rearrangement col-        ition about recurrence has also been shown
+lisions without the emission or absorption of        to be correct in a universe in which both
+radiation also erase past information. The           entropy and macroscopic information are in-
+characteristic time of this path erasure (τP E )     creasing. Both the Loschmidt reversibility
+is much longer than Boltzmann’s relaxation           objection and the Zermelo recurrence objec-
+time (τB ) for the approach to apparent equi-        tion to Boltzmann’s proof of the second law
+librium, but it is much shorter than the             that entropy always increases have been re-
+Poincaré recurrence time (τP ).                     moved.
+                                                         The indeterministic interactions of mat-
+    Even if an experimenter could reverse the        ter and radiation are the fundamental source
+motions of all the particles of an equilib-          of thermodynamic irreversibility. They also
+rium gas, the system would only evolve to-           may be involved in other “arrows of time”
+ward lower entropy states for times of order         like the radiation arrow and the cosmologi-
+τP E . Boltzmann knew this intuitively, but          cal arrow. Decoherence theorists are correct
+could not establish it without a physical ba-        that photons play a critical role, but it is pre-
+sis for his molecular disorder assumption. A         cisely because they cause the irreversible col-
+physical mechanism for molecular chaos (or           lapse of many possibilites to a single actual-
+a “repeated randomness” assumption) is pro-          ity, both in experimental measurements and
+vided by the erasure of path information dur-        in the largely unobserved universe.
+
+
+
+ [1] D. Bohm, Quantum Theory (Prentice-Hall,              mal equilibrium of gas molecules,” in The
+     NY, 1951).                                           Kinetic Theory of Gases, edited by S. G.
+ [2] A. Messiah, Quantum Mechanics (North-                Brush (Imperial College Press, London,
+     Holland Publishing, Amsterdam, 1962).                2003) pp. 262–349.
+ [3] R. C. Tolman, Statistical Mechanics (Dover       [8] J. W. Gibbs, Elementary Principles of
+     Publications, 1938).                                 Statistical Mechanics (Dover Publications,
+ [4] P. Ehrenfest and T. Ehrenfest, Concep-               New York, 1960).
+     tual Foundations of the Statistical Approach     [9] L. Boltzmann, Lectures on Gas Theory
+     in Mechanics (Cambridg University Press,             (Dover Publications, 1995).
+     Ithaca, NY, 1959).                              [10] A. Einstein, Phys. Zeit. 7, 817 (1909).
+ [5] E. W. Montroll and M. S. Green, Annual          [11] H. D. Zeh, Foundations of Physics 1, 69
+     Reviews of Physics and Chemistry 5, 449              (1970).
+     (1954).                                         [12] J. von Neumann, The Mathematical Foun-
+ [6] N. G. van Kampen, “Fundamental prob-                 dations of Quantum Mechanics (Princeton
+     lems in statistical mechanics of irreversible        University Press, Princeton, 1955).
+     processes,” in Fundamental Problems in          [13] M. Planck, The Theory of Heat Radiation
+     Statistical Mechanics, edited by E. G. D.            (Dover Publications, New York, 1991).
+     Cohen (North-Holland Pub. Co., Amster-          [14] D. ter Haar, Reviews of Modern Physics 27,
+     dam, 1961) pp. 173–202.                              289 (1955).
+ [7] L. Boltzmann, “Further studies on the ther-     [15] N. G. van Kampen, Physica Norvegica 5,
+                                                                                              10
+
+     279 (1971).                                       of Gases, edited by S. G. Brush (Imperial
+[16] C. M. van Vliet, Equilibrium and Non-             College Press, London, 2003) pp. 362–367.
+     equilibrium Statistical Mechanics, 1st ed.   [22] S. H. Burbury, Nature 51, 175 (1894).
+     (World Scientific, Singapore, 2008).         [23] E. Joos and H. D. Zeh, Zeitschrift fur
+[17] R. O. Doyle, Journal of Quantitative Spec-        Physik B 59, 223 (1985).
+     troscopy and Radiative Transfer 8, 1555      [24] E. Joos, H. D. Zeh, C. Kiefer, D. Giulini,
+     (1968).                                           J. Kupsch, and I.-O. Stamatescu, Deco-
+[18] A. Einstein, Phys. Zeit. 18, 121 (1917).          herence and the Appearance of a Classi-
+[19] J. A. Wheeler and R. Feynman, Reviews of          cal World in Quantum Theory, 2nd ed.
+     Modern Physics 17, 157 (1945).                    (Springer-Verlag, Berlin, 2003).
+[20] H. D. Zeh, The Physical Direction of Time,   [25] M. Tegmark and J. A. Wheeler, Scientific
+     5th ed. (Springer-Verlag, Berlin, 2010).          American , 68 (2001).
+[21] L. Boltzmann, “On the relation of a gen-     [26] A. Einstein, Ann. der Physik 17, 132
+     eral mechanical theorem to the second law         (1905).
+     of thermodynamics,” in The Kinetic Theory
+

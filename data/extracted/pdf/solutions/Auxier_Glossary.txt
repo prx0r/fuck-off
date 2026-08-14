@@ -1,0 +1,1499 @@
+ A GLOSSARY OF WHITEHEAD'S TERMS
+     IN RELIGION IN THE MAKING
+
+                     Randall E. Auxier
+
+                        INTRODUCTION
+
+
+In the past, the lack of a good index for Religion
+in the Making has made it difficult to analyze
+Whitehead's use of key terms in this formative
+book.1 This is a problem since, as Whitehead
+himself remarks, "The fate of a word has to the
+   1
+     1 would like to thank Donald Sherburne of Vanderbilt University,
+William Garland of the University of the South, Charles Hartshorne
+of the University of Texas, Lewis Ford of Old Dominion University,
+Judith Jones of Fordham University, and Phillip Lambovsky of Al-
+bertus Magnus College for looking at and making suggestions about
+this glossary. I thank my graduate and undergraduate students in the
+Process Philosophy seminar I taught in the fall of 1993 at Oklahoma
+City University. They provided the impetus and end for the project.
+I also must thank my Graduate Assistant Eric Reiss, and Todd Rust
+of the OCU Learning Enhancement Center for helping with the adap-
+tation of the glossary to the requirements of the Fordham University
+Press edition.
+
+                               [161]
+                   GLOSSARY                                                     GLOSSARY
+
+historian the value of a document" (p. 128). This      idea.2 Thus, it may at least be said that for
+glossary goes even further than an index can in        Whitehead the process of definition is not limited
+assisting the reader's understanding of the fate of    to the classic Aristotelian approach—that of dem-
+certain words in the present text. The major dif-      onstrating the essence of something, once for all,
+ficulty was in constructing a glossary entry for       from first principles. Most of Whitehead's defi-
+Whitehead's use of the term "God" (which is in-       nitions are best taken as open-ended attempts to
+definable in any strict or straightforward sense).    provide increasingly adequate metaphors for
+This has occasioned a "Note on Whitehead's            some fundamental relation. As Whitehead him-
+View of God" at the end of the glossary, as well      self says, the process of replacing less adequate
+as a substantive note at one important point in       metaphors with more adequate ones is the means
+the glossary. I have included in the glossary a       whereby human knowledge increases (cf.
+number of the more poignant and suggestive            RM 131).
+ "definitions" of God given in the book, but one         I have limited the glossary to those terms that
+ ought not to take these "definitions" very           could most reasonably be classified as definitions,
+strictly.                                             although some readers might take issue with par-
+   It is often difficult to determine whether some-   ticular entries. Many of the items in this glossary
+thing Whitehead says should be taken to have the      are defined functionally, by what they do rather
+force of a definition; nor is it always clear what    than by what they are. I do not think, however,
+peculiar force a "definition" should have for         that all Whitehead's definitions are simply func-
+Whitehead—at this stage of his thought or at any
+                                                        2
+other. He often uses what would now be called a          Cf. Whitehead's remarks about how he will gradually define
+                                                      "Reason" throughout a book-length discussion in The Function of
+"hermeneutic" technique of progressively refin-       Reason (Princeton: Princeton University Press, 1929; repr. Boston:
+                                                      Beacon Press, 1958), p. 4.
+ing his definitions each time he returns to an
+
+                                                                                    [163]
+                        [162]
+                   GLOSSARY                                                GLOSSARY
+tional; sometimes he does appear to be providing        of cases I have included in the glossary certain
+a demonstration of a thing's essence from first         key terms which Whitehead employs, but does
+principles. This dual mode of defining terms cer-       not explicitly define. In such entries, I provide
+tainly complicates editorial decisions. I have          the passage which comes closest to defining the
+striven for inclusiveness—listing what, in some         term, and then generally articulate a presumptive
+instances, only the specialist in Whitehead's          definition of my own based on that context. I
+thought and language might recognize as a defi-        have indicated this absence of explicit definition
+nition. In any case, this glossary is not suited for   by enclosing each such glossary entry in brackets.
+"stand-alone" usage; it is intended as a compan-       Along similar lines, I have also included entries
+ion text to the passages from which the defini-        on a few words which are not technical terms in
+tions are taken.                                       Whitehead's philosophy at this stage, but which
+   The items in the glossary are exhaustively          became such later (e.g., Beauty, Peace, etc.).
+cross-referenced. The terms that both are em-          Since this book represents a beginning in the de-
+ployed in definitions and have separate entries of     velopment of several ideas which later became
+their own appear in SMALL CAPITAL LETTERS.             important, it is worth noting the presence of these
+The documentation of each definition is compre-        terms in this work.
+hensive, and includes a listing of all pages on           Religion in the Making was written immedi-
+which it occurs, as well as those of any other         ately after Science and the Modern World. In the
+definitions with which it is virtually synonymous.     Preface to Religion in the Making, Whitehead
+Most of the definitions are nearly verbatim quo-       comments that the two books bring to bear the
+tations from the text.                                 same "train of thought" in different "applica-
+   Sometimes it is as valuable to know words           tions." Insofar as these two books "elucidate"
+which were not defined as it is to know words          each other, there is also a good bit of shared ter-
+which have been defined and how. In a number           minology. On a few occasions, this cross-applied
+                       [164]                                                  [165]
+                    GLOSSARY                                                        GLOSSARY
+terminology is defined only in Science and the          the entry for "forms, ideal." In generic entries, I
+Modern World. I identify each such item with            have generally provided a list of the page num-
+"SMW term" without further comment.                     bers on which the term occurs, and some indica-
+   The general format of this glossary is modeled       tion of the other terms it is used to modify.
+on Sherburne's glossary of Process and Reality.
+                                                                                     GLOSSARY
+The one major variation is that whereas Sher-
+burne often alphabetizes compound terms such           Abstract, Abstraction [SMW term. Cf. pp. 16,
+as "actual entity" or "eternal object" by the first    23 (abstract IDEA), 31 (abstract METAPHYSICS);
+letter of the modifier (e.g., "actual entity" is       57, 131 and 144 (abstract CONCEPTS); 78 (abstract
+found under " a " in his glossary), I have always      level of thought); 94, 156 and 160 (realm of ab-
+classified such words by the substantive. For ex-      stract FORM); 108, 116 (abstractions of physical
+ample, "epochal occasion" is to be found not           science), 131 (artificial abstractions), 143 (scheme
+under " e " in this glossary, but under " o " for      of abstractions), 145, 152 (abstract CREATIVITY),
+"occasion, epochal." I believe this to be a bit        159.]
+easier, if readers know in advance that it is con-
+sistently done, since it will not be necessary for     Actual, Actuality [Never explicitly defined.
+them to wonder whether a given adjective is im-        SMW term. 3 Whitehead indicates that it can be
+portant enough to the definition to have made it         3
+                                                           Since this term is so central to Whitehead's philosophy, its defini-
+into the glossary. Checking the noun will suffice,     tion, as far as Whitehead gives one prior to Religion in the Making,
+and if the adjective is important, it will appear in   ought to be included here. In Science and the Modern World White-
+                                                       head says that the "metaphysical status of an eterriaJ_object [cf.
+the entry. It has also been necessary to distin-       FORMS, IDEAL, which is a synonym for 'eternal objects'] is that of a
+                                                       possibility for an actuality. Every actual occasion is DEFINED as to its
+guish in many cases between the generic use of a       CHARACTER by how these possibilities are actualized for that OCCA-
+term and a specific use—for example, the term          SION. Thus actualisation is a selection among possibilities . . . a selec-
+                                                       tion issuing in a GRADATION of possibilities in respect to their realisa-
+"ideal" has a generic meaning not included in          tion in that OCCASION" (SMW 1S9).
+
+                       [166]                                                            [167]
+                         GLOSSARY                                                              GLOSSARY
+
+used as a synonym forFEELiNG in some contexts                       Cf. also pp. 14, 34, 36, 83, 89, 95, 127, 131,
+(p. 104). Cf. also p p . 25 (actual V I V I D FACT), 51;            136, 147.]
+53, 71, 112-113, 115, 151, 156-157 and 159 (ac-
+tual FACT); 59, 61, 69, 71, 8 8 - 9 1 , 104-105, 109,               Adjustment     [Never explicitly defined; closest is
+112-113, 119, 154-157 and 159 (actual W O R L D ) ;                 on p. 100. A TEMPORAL RELATION between (at
+60, 78, 80; 86 and 101 (actual U N I V E R S E ) , 87 (ac-          least) the present and the future, in which the
+tual passage of actual T H I N G S ) ; 88, 90, 92-94,               present is altered RELATIVE to the future, with
+98-102, 108 (actual E N T I T I E S ) , 91 (C»CCASIONS of           the aim of making other sorts of alterations possi-
+actualization, actual U N I T S , actual C O M M U N I T Y ) ,      ble in the future. The PURPOSE of all these alter-
+92 (actual CRJLATJURE); 94, 99-100,, 102, 112, 116,                 ations is to make VALUE possible. Cf. also pp. 18,
+157 and 160 (actual OCCASIONS); 103 (collapse of                    57,   59,   80,   104,    131,    143,   153,   158,   and   PUR-
+actuality, depths of actuality, importance of actu-                 POSE, A C T I V E . ]
+ality), 113; 114, 151 and 156 (actual G R O U N D ) ;
+114, 120 and 156 (actual A C H I E V E M E N T ) ; 119, 150         Aesthetic   See E X P E R I E N C E , A E S T H E T I C . Cf.
+(actual T H I N G ) , 151-153, 155 (actual E V I L ) , 156          also pp. 99, 113, 128, 143 (aesthetic VALUATION),
+(actual PROCESS), 159 (actual state of the                          and   ORDER.
+W O R L D ) , 159 (actual IDEAS), 160, F E E L I N G , E N -
+JOYMENT;       WORLD,      ACTUAL;       ENTITY,      ACTUAL;       Analysis   See REVERSION. Cf. also pp. 24, 57,
+COMMUNITY, ACTUAL; and T H I N G , ACTUAL.]                         78, 84, 89, 91, 101, 117-118, 131, 134, 143, 150.
+
+
+Adequacy, Adequate            [Never explicitly defined;            Apprehension            PERCEPTIVITY       (p. 101); does not
+closest is on p. 127. This term is used to describe                 depend upon FORMULATION or EXPRESSION. Cf.
+the extent to which a given verbal E X P R E S S I O N              also pp. 15, 25, 48, 61, 64, 80, 86, 119, 125-127,
+assists us in A P P R E H E N D I N G a G E N E R A L T R U T H .   132-133, 136-137, T R U T H , and CHARACTER.
+                             [168]                                                                   [169]
+                            GLOSSARY                                                       GLOSSARY
+     Attainment     The IMMORTAL fashioning of the                 the CHARACTERS of our friends (the term is simi-
+     ACTUAL IDEALS which are G O D in the W O R L D as             larly used on p. 127). On p. 109, the term is used
+     it is now, which leaves either a deeper or a fainter          in a different sense, meaning that which is com-
+     impress of G O D (pp. 158-159). [Evidently, attain-           mon to each OCCASION (whether PHYSICAL or
+     ment is accomplished via LIMITATION (cf. pp.                  M E N T A L ) on a given R O U T E . Cf. also pp. 15, 17,
+     158-159).] Cf. also pp. 37, 60, 61, 67, 94, 96,               48, 58-59, 61, 66-67, 71, 86, 89-92, 94-95, 102,
+     100,     104,   112,   DETERMINATION,        EVIL,     and    109, 115, 117-119, 124, 127, 135, 139, 157, 160.]
+     VALUE.
+                                                                   Community,   Actual       The ACTUAL W O R L D as
+     Beauty       [Never explicitly defined or used in such        composed of E P O C H A L OCCASIONS (p. 91). Cf. pp.
+     a way as to make its meaning clear; cf. pp. 48,               36, 43, 59, 84, 88, 109,      132, and   SOCIETY.
+     119.]
+                                                                   Concept     IDEAL     FORMS        SYNTHESIZED     into    a
+     Belief   A way of pre-RATiONALLV joining R I T -              M E N T A L OCCASION via the entry into R E A L I T Y of
+     UAL and E M O T I O N ; myth is a common F O R M of           the C O N S E Q U E N T of IDEAL N O V E L T Y which pos-
+     belief (pp. 23-24). Cf. also pp. 13-15, 18-19,                sesses an ANALYTIC force against the S Y N T H E T I C
+     26-28, 31-32, 38, 42, 58, 63, 77, 83-85, 110-111,             G R O U N D , i.e., blind E X P E R I E N C E (pp. 117-118).
+     125, 144.                                                     Cf. also pp. 19, 27, 31-32, 4 1 , 54-55, 57, 59, 66,
+                                                                   68-72, 74, 77, 78-79, 83, 95, 105-106, 131, 139,
+     Character   [Never explicitly defined; closest is             144, 150, 153-154, 156-157, REVERSION, and
+     on pp. 58-59, 61. The I N T U I T I O N of IMMEDIATE          E X P E R I E N C E , IMMEDIATE.
+1t   OCCASIONS, as failing or succeeding in reference
+     to the IDEAL RELEVANT to them, is a revelation                Concrete,    Concretion       SMW term. [Never ex-
+     of CHARACTER, A P P R E H E N D E D as we A P P R E H E N D   plicitly defined; closest is on p. 93, where concre-
+                               [170]                                                          [171]
+                            GLOSSARY                                                     GLOSSARY
+     tion is evidently a PROCESS whereby CREATURES                 Consciousness,       Religious    A moment which
+     are QUALIFIED by the IDEAL F O R M S , and con-               starts from SELF-VALUATION, but broadens into
+     versely the IDEAL F O R M S are QUALIFIED by the              the C O N C E P T of the W O R L D as a realm of A D -
+     CREATURES, giving E M E R G E N C E to an E P O C H A L       JUSTED VALUES, mutually I N T E N S I F Y I N G or mutu-
+
+0,   OCCASION. Cf. also pp. 38, 58, 92; 101 and 118                ally destructive (p. 59). Cf. also pp. 16, 42, 47,
+pj
+     (concrete FACT), 103 (mode of concretion), 116                124, 158.
+5    (concrete OCCASIONS), 118 (complete concretion
+     of PHYSICAL OCCASIONS).]
+                                                                   Consciousness, Self- [Never explicitly defined;
+                                                                   closest is on p. 59 in association with the S Y N T H E -
+     Conformity      [Never explicitly defined; closest is         SIS of three C O N C E P T S of levels of VALUE. Cf. also
+     on pp. 61-62 in its association with producing                pp. 16, 44, 48.]
+     H A R M O N Y in the ACTUAL W O R L D . Cf. also pp.
+     66-68, 94-95, and DIVERSITY.]
+                                                                   Consciousness, Social A notion of rightness of
+                                                                   conduct RELATIVE to the preservation of PERSONS
+     Consciousness, Immediate      [Never explicitly de-
+                                                                   whom you might K N O W and love; associated with
+     fined or used in a context which makes its mean-
+                                                                   pre-RATiONAL RELIGIOUS B E L I E F (p. 41; cf. C O N -
+     ing clear. Cf. also pp. 27, 48, 57, 85, 137, OCCA-
+                                                                   SCIOUSNESS, W O R L D ) . Cf. also pp. 33, 39, 42.
+     SIONS, IMMEDIATE; A P P R E H E N S I O N ;   IMMEDIATE;
+     and E X P E R I E N C E , IMMEDIATE.]
+                                                                   Consciousness,   World A notion of an E S S E N -
+     Consciousness,      Reflective T h a t which distin-          TIAL rightness of T H I N G S which is disengaged; its
+
+     guishes M E N T A L PERCEPTIVITY or A P P R E H E N S I O N   growth brings about RATIONAL R E L I G I O N (p. 41).
+     from non-MENTAL (pp. 101-102). Cf. also pp. 48,               Cf. also pp. 40, 158, UNIVERSALITY, and C O N -
+     52, 54.                                                       SCIOUSNESS, SOCIAL.
+
+                               [172]                                                        [173]
+                             GLOSSARY                                                              GLOSSARY
+    Consequent       In respect to one particular NEW                    OCHAL OCCASIONS; due to lack of D E T E R M I N A T E
+    birth of one center of E X P E R I E N C E , the N O V E L T Y       CHARACTER,   creativity cannot be C O N C E I V E D as
+    of the IDEAL F O R M S (p. 114) The consequent is                    an ACTUAL E N T I T Y [and hence, cannot be I D E N -
+    constituted by all the IDEAL F O R M S of possibility,               TIFIED with G O D ] (pp. 91-93). Cf. also pp. 94,
+    G R A D E D in their proportion (p. 151). Cf. also pp.               96, 98-99, 101-102, 104, 111-114, 116, 119, 133,
+    42, 93, 115-117,139-140,155-157.                                     150-152, 154, 156-157, 160, SYNTHESIS, and
+                                                                         PROCESS, CREATIVE.
+    Contrast          1. The whole I N T U I T I O N of C O N -
+    FORMITY and DIVERSITY which an INDIVIDUAL                            Creature(s)  See CREATIVITY. Cf. also                         pp.
+    item yields for RELIGIOUS E X P E R I E N C E (pp. 6 1 -             91-94, 102, 104, 109, 119, 154-155, 160.
+    62). 2. [By inference from pp. 115-116: the ex-
+    tent to which I D E N T I T Y between G R O U N D and                Definite, Definiteness, Definition      M E A S U R E of
+    C O N S E Q U E N T is not maintained in the CREATIVE                the depth of ACTUALITY wherein all E L E M E N T S of
+    P R O C E S S . ] Cf. also pp. 96-97, 99, 117, R E L E -             a complex whole contribute to some one effect, to
+    VANCE, and VIBRATION. 4                                              the exclusion of other effects (p. 113). Cf. also pp.
+                                                                         18, 20, 24, 59, 61, 66, 68, 79, 91-94, 108-109,
+    Creativity,Creation, Creative      One of the three                  112, 115, 135, 149, 151-152, 157, 159. 5
+    FORMATIVE E L E M E N T S of the all-inclusive U N I -
+    VERSE; the one whereby the ACTUAL W O R L D has                      Degrade, Degradation         The self-eliminating ac-
+    its CHARACTER of T E M P O R A L passage to N O V -                  tivity of E V I L ; the PROCESS whereby H I G H E R E X -
+y   ELTY (p. 90); not separable from w h a t it creates,                 PERIENCE becomes L O W E R E X P E R I E N C E (pp. 9 6 -
+    viz.,   its CREATURES (p.        92),   cf.   p. 95,   and   EP-     97). Cf. also pp. 17, 37, 155.
+
+       4                                                                    5
+         There are numerous non-technical occurrences of this term not        There are numerous non-technical occurrences of this term not
+    reflected in this entry.                                             reflected in this entry.
+
+                                  [174]                                                                [175]
+                        GLOSSARY                                               GLOSSARY
+     Derivate, Derivative, Derive In the CREATIVE         Determinism A simple METAPHYSIC which
+     PROCESS, that which includes the FUSION of the       holds the complete self-consistency of the TEMPO-
+     particular GROUND with the CONSEQUENT, SO far        RAL WORLD; the conclusion drawn by [overly
+     as the CONSEQUENT is GRADED by its RELEVANCE         credulous] thinkers who hold METAPHYSICAL
+     to that GROUND (p. 114). Cf. also pp. 32, 50-51,     CONCEPTS to be ADEQUATE (pp. 94-95). This
+                                                          view makes the problem of EVIL insoluble. Cf.         y/
+     57, 59, 68, 99-100, 102, 105, 109, 113, 115, 149,
+     156.                                                 also p. 99.
+
+                                                          Diversity [Never explicitly defined; closest is on
+y^   Determination, Determine [Never explicitly de-
+                                                          pp. 61-62 when used in comparison with CON-
+     fined; closest is on pp. 94-95. A word which de-
+                                                          FORMITY. It evidently means "failure to CON-
+     scribes what the FORMATIVE ELEMENTS do RELA-
+                                                          FORM fully," or "incomplete CONFORMITY." Di-
+     TIVE to any given EPOCHAL OCCASION in
+                                                          versity in this sense is apparently to be blamed
+     mutually LIMITING one another. The result is         for the presence of EVIL in the ACTUAL WORLD
+     that the EPOCHAL OCCASION becomes DEFINITE           (pp. 61-62). Cf. also pp. 21, 35, 59, 88, 93, 103.]
+     by having this "ORDERED balance" imposed
+     upon it. Determination can bring about CON-          Dogma, Dogmatic, Dogmatism 1. A precise
+     FORMITY, but Whitehead does not explicitly say
+                                                          enunciation of a GENERAL TRUTH, divested so far
+     whether it can also bring about DIVERSITY—           as possible from particular EXEMPLIFICATION (p.
+     which may, by implication, be a failure of deter-    126). Opposed to "empiric" which appeals only
+     mination, since "ORDERED balance" is absent.         to EXPERIENCE without such GENERAL TRUTHS
+     Determination is RELATED to DETERMINISM (cf.         (p. 129).   2. The EXPRESSION of a FACT as it ap-
+     p. 94). Cf. also pp. 60, 67, 78, 90, 92, 109, 129,   pears within a certain sphere of thought; a dogma
+     131, 142, 146, 153, 159-160.]                        has its being as one of a SYSTEM of IDEAS (pp.
+                           [176]                                                  [177]
+                      GLOSSARY                                                          GLOSSARY
+129-130), and is never final, but rather A D E -            103, 110, 112, 113, 123, 129, 135, 136 (element of
+                                                                                                6
+QUATE in its A D J U S T M E N T of certain ABSTRACT        NOVELTY), 150-152, 154-156, 158.
+C O N C E P T S (pp. 130-131). 3. Bits of the T R U T H ,
+E X P R E S S E D in terms which in some ways are           Elements, Formative         The FACTORS which are
+over-assertive and in other ways lose the E S -             either non-AcTUAL or non-TEMPORAL that are
+SENCE of T R U T H (p. 145). Cf. also pp. 13, 45,           disclosed in the ANALYSIS of what is both ACTUAL
+47-49, 52, 58, 60, 67-68, 76-77, 79, 83-85, 128,            and T E M P O R A L , i.e., disclosed by descriptive
+136-139, 144, 147-149, and D O G M A OF R E -               METAPHYSICS (p. 89). These formative elements
+LIGION.                                                     are: (1) CREATIVITY; (2) the realm of IDEAL E N T I -
+                                                            TIES; and, (3) G O D (p. 90). These elements stand
+Dogma of Religion             1. An attempt to FORMU-       in mutual isolation apart from the C O N C R E T I O N
+LATE in precise terms the T R U T H S disclosed in the      of E P O C H A L OCCASIONS, but              as R E L A T E D in       an
+RELIGIOUS E X P E R I E N C E of mankind (p. 58).           EPOCHAL OCCASION     the elements QUALIFY one
+2. Clarifying modes of external E X P R E S S I O N (p.     another (p. 93). Cf. also pp. 99, 101, 103-104,
+137). 3. STATEMENTS of how the complex W O R L D            152, 156,      158, and P E R C E P T I O N .
+is to be E X P R E S S E D in the light of the INTUITIONS
+fundamental to R E L I G I O N ; not necessarily simple
+                                                            Emergent,     Emergence     [Never explicitly de-
+in CHARACTER or L I M I T E D in number (p. 139).
+                                                            fined; closest is on pp. 93-94. Emergence appears
+4. The ark within which the church floats safely
+                                                            to be the PROCESS by which an E P O C H A L O C C A
+down the flood-tide of history (pp. 145-146). Cf.
+also pp. 147-148.                                              6
+                                                                 This term lies somewhere between a technical and a non-technical
+                                                            term. Whitehead commonly uses it to mean "basic part or constit-
+                                                            uent," but this slides easily into its technical usage in creative synthe-
+Element(s), Elementary    See E L E M E N T S , F O R -     sis—Whitehead's "elements of communion," if you will. I have listed
+                                                            all occurrences in this entry, excepting those that refer explicitly to
+MATIVE. Cf. pp. 13, 31, 39, 44, 47, 97, 100-101,            the "formative elements," which receives its own entry.
+                         [178]                                                               [179]
+                      GLOSSARY                                                            GLOSSARY
+SION comes to C O N C R E T I O N due to the LIMITA-          Entity,     Actual
+                                                                               1. The outcome of a CREATIVE
+                                                                                                                       7
+TIONS the three FORMATIVE E L E M E N T S impose              SYNTHESIS, INDIVIDUAL and passing (p. 93).
+upon one another. Cf. also pp. 17-18, 26, 33, 38,             2. T h a t which has a S E L F - I N T E R E S T (p. 100).
+47, 60, 65, 101-102, 133, and D E T E R M I N A T I O N . ]   3. A microcosmic arrangement of the whole U N I -
+
+                                                                 ' This may be a non-technical use of the term "actual entity,"
+Emotion, Emotional      T h e sensitizing of the or-           but the context makes it rather difficult to determine this with much
+                                                              certainty. Nowhere in Religion in the Making does Whitehead ex-
+ganism by RITUAL which issues in either R E L I -             plain the relationship between the terms "epochal occasion" and " a c -
+                                                              tual entity." Still, his use of them here points markedly in the direc-
+GION or play depending upon the Q U A L I T Y of the
+                                                              tion of the familiar use of the terms "actual entity" and "actual
+emotion F E L T (p. 21). Cf. also p p . 16, 18-20,            occasion" in Process and Reality. In spite of neglecting to define it,
+                                                              Whitehead does use the term "actual entity" in a very important con-
+22-26, 38, 42-43, 48-49, 54, 60, 64-65, 77, 83,               nection in Religion in the Making to define God. This creates the
+85, 100, 124-125.                                             following interesting combination of definitions: " G o d is the actual
+                                                              but non-temporal entity through which the indetermination of mere
+                                                              creativity is transmuted into a determinate freedom, and as an actual
+                                                              entity, God must also be the outcome of a creative synthesis, individ-
+Enjoyment     ACTUALITY; the E X P E R I E N C I N G of       ual and passing, since all actual entities a r e " (pp. 90, 92).
+                                                                 Note how this anticipates the systematic relations expounded in the
+VALUE (p. 100). Cf. also pp. 95, 98, 138, 155                 doctrine of the consequent nature of God, in spite of the indefiniteness
+(joy), 157, and S E L F - I N T E R E S T .                   of the term "actual entity" at this stage. Sherburne points out in his A
+                                                              Key to Whitehead's "Process and Reality" that the difference between
+                                                              "actual entity" and "actual occasion" in the later book is that the
+                                                              latter term is not applicable to God, who is non-temporal (pp. 2 0 6 -
+Entity, Entities [Never explicitly defined, but               207), and thus God is subject to change only as is consistent with
+                                                              God's complete nature—goodness or total self-consistency (RM
+used by Whitehead as a generic term incorporat-               97-99).
+ing    ACTUAL    ENTITIES,        IDEAL   ENTITIES     (or       Lewis Ford reads "actual entity" at this stage in Whitehead's de-
+                                                              velopment as more or less equivalent to "actual occasion" in PR,
+FORMS),   and G O D . Cf. pp. 68-71, 78, 88, 90,              there being as yet no genetic phases at this stage of Whitehead's
+92-94, 98-102, 104, 108, 137, 140, 152, 160                   thought. This is how Ford understands the statement, at RM 97-98,
+                                                              that God is " a n actual entity which enters into every creative phase,
+(non-entity).]                                                and yet is above change." Ford also doubts whether the consequent
+
+
+
+                          [180]                                                               [181]
+                                   GLOSSARY                                                         GLOSSARY
+        VERSE, ACTUAL and IDEAL, whereby there is con-                          Essence, Essential       [Never explicitly defined or
+        stituted that SELF-VALUE which is the entity itself                     used in a context which makes its meaning clear.
+        (p. 101). Cf. also pp. 88, 90, 92, 94, 98-99, 102,                      Cf. also pp. 23, 28, 40, 41 (essential Tightness of
+        108, and T H I N G , ACTUAL.                                            T H I N G S ) , 48, 92 (essential incompleteness of
+                                                                                TEMPORAL W O R L D ) , 103, 108, 113 (essence of
+jX
+     X Entity   (or Entities), Ideal             Used interchange-              depth of ACTUALITY), 145 (essence of T R U T H ) ,
+        ably with ' ' I D E A L F O R M S , " e.g., p. 93, and " A B -          152-153).]
+        STRACT F O R M S , "      e.g.,      pp.   94,   156,   160.     The
+        realm of ideal entities is one of the three FORMA-                      Evidence,    Evident   [Never explicitly defined;
+        TIVE E L E M E N T S of the all-inclusive U N I V E R S E ;             closest is p. 111. Special evidence apparently
+        they are not ACTUAL in themselves, but they are                         leads eventually to SYSTEMATIC theories, in isola-
+        such that they are E X E M P L I F I E D in everything                  tion of which it is much weaker. Surveying
+        that is ACTUAL, according to some proportion of                         Whitehead's use of this word throughout the
+        RELEVANCE (p. 90). As ideal, these entities are
+                                                                                book, one can conclude that " e v i d e n c e " is
+        " I N D E T E R M I N A T E " due to the "boundless wealth
+                                                                                clearly at least empirical in his view; whether he
+        of possibility" in the ideal realm (p. 94). These
+                                                                                is willing to use this term in direct connection
+        F O R M S or entities are the link between G O D and
+                                                                                with purely RATIONAL argumentation is an open
+        the ACTUAL W O R L D , but are not R E A L because in
+                                                                                question, but he does not generally use the term
+        themselves they represent no achievement of AC-
+                                                                                in that way here. Cf. also pp. 18, 21-22, 30, 48,
+        TUAL VALUE (pp. 156-157). Cf. also p p . 98, 108,
+                                                                                62, 65, 67, 70, 73, 76, 79, 83, 86, 125, 143.]
+        112, 114, 117, 151-154, and W O R L D , IDEAL.
+
+        nature of God is truly anticipated in this portion of RM. Cf. Ford's    Evil  1. The REALIZATION in FACT of something
+        The Emergence of Whitehead's Metaphysics, 1925-1929 (Albany:            with which there is a concurrent REALIZATION of
+        State University of New York Press, 1984); and "The Riddle of Reli-
+        gion in the Making," Process Studies, 22, No. 1 (Spring 1993), 42-50.   a PURPOSE toward the elimination of that some-
+                                          [182]                                                        [183]
+                            GLOSSARY                                                                 GLOSSARY
+thing. Evil is recognized in the presence of a PUR-                        Existence,    Existent,      Existing     [Never explicitly
+POSE, i.e., the promotion of the elimination of the                        defined; there are two distinct approximations of
+F O R M which made that sort of evil A C T U A L — b y                     a definition: 1. (p. 80): More than a succession of
+destruction, DEGRADATION, or elevation. Thus,                              bare FACTS, but living in a common W O R L D of
+evil is unstable, and its instability is the moral                         mutual ADJUSTMENTS, of intelligible RELATIONS,
+O R D E R in the W O R L D . Evil is G O O D RELATIVE to
+                                                                           of VALUATIONS, of Z E S T after PURPOSES, of joy
+itself, but a destructive agent in RELATION to ev-
+                                                                           and grief, of I N T E R E S T concentrated on S E L F , of
+erything greater than itself. Evil is a descent
+                                                                           I N T E R E S T directed beyond S E L F , of short-TiME
+toward nothingness, both positive and destruc-
+                                                                           and long-TiME failures and successes, of different
+tive, which causes the loss of F O R M S of ATTAIN-
+                                                                           layers of F E E L I N G , of LIFE-weariness and of L I F E
+M E N T , or H I G H E R E X P E R I E N C E (pp. 95-96). 2.
+                                                                           Z E S T . Evidently all of this is involved in exis-
+The note of evil is internal inconsistency (p. 98). 8
+Cf. also pp. 17, 26, 4 8 - 4 9 , 51-52, 62, 77, 87-88,                     tence. 2. (p. 143): According to R E L I G I O N , the
+97, 99, 119, 134, 153, 155-156.                                            discernment of RELATIONSHIPS F O R M S in itself the
+                                                                           very substance of existence. Cf. also pp. 16, 33
+Exemplification,     Exemplify    [Never explicitly                        (pre-existing), 34, 49, 59, 84 (COMMUNITY of exis-
+defined (an SMW term, cf. R M 89); closest is on                           tents), 85 (FACTS of existence, nature of exis-
+pp. 111-112. Here the enduring E X I S T E N C E of                        tence), 96, 100, 106, 111 (enduring existence of
+M A T T E R and of M I N D "exemplifies" the O R D E R                     MATTER),      124, 133 (existent INTUITION),              158
+immanent in the W O R L D . Exemplification seems                          (VALUES of existence, FACTS of existence), and
+related to particularity as opposed to G E N E R A L -
+                                                                           EXISTENCE OF G O D . ]
+ITY. Cf. also pp. 20, 36, 40, 48, 86, 90, 124, 126.]
+
+  8
+     This last comment about evil by Whitehead may be inconsistent         Existence    of God       See G O D and " N o t e on G o d . "
+with his earlier statements that evil is "good in itself" or relative to
+itself. This matter would require further investigation.                   Cf. also pp. 63, 68, 70-71, 106-108, 154, 158.
+                                [184]                                                                   [185]
+                         GLOSSARY                                                        GLOSSARY
+Experience    [Never explicitly defined as a ge-                   ANALYSIS   of physical experience by SYNTHESIS
+neric term or used in such a way as to make its                    with the C O N C E P T S involved in the M E N T A L I T Y
+generic meaning clear; types of experience are                     (p. 118). Cf. also pp. 80, 84 (immediacy), and IM-
+variously defined in entries below. Cf. also pp.                   MEDIATE.
+31-32, 49, 52, 63, 65-66, 71, 88, 100, 105, 112-
+114, 117, 118, 125, 129, 131-132, 134, 138, 140,                   Experience,    Lower [Never explicitly defined;
+147, 149, 154.]                                                    closest is on pp. 95f. This seems to be a kind of
+                                                                   experience which results from DEGRADATION, or
+                                                                   the self-eliminating activity of E V I L . Lower expe-
+Experience, Aesthetic     F E E L I N G arising out of
+                                                                   rience can only be called " E V I L " RELATIVE to
+the REALIZATION of C O N T R A S T under I D E N T I T Y
+                                                                   what might have been, i.e., some H I G H E R E X P E -
+(p. 115). Cf. also pp. 105, 116, and O R D E R .
+                                                                   RIENCE. Cf. also pp. 57 (lowest ABSTRACTIONS),
+                                                                   86 (lower F O R M S ) , 96 (below).]
+Experience,        Higher  See E X P E R I E N C E , V I V I D .
+Cf. also pp. 95, 27 (higher stages), 28 (higher
+                                                                   Experience,        Religious      A certain widespread,
+T H I N G S ) , 98 and 125 (higher level), E V I L , and
+                                                                   direct A P P R E H E N S I O N of a CHARACTER [presum-
+EXPERIENCE, LOWER.
+                                                                   ably, "Tightness"] E X E M P L I F I E D in the ACTUAL
+                                                                   U N I V E R S E (p. 86). Cf. also pp. 17, 32 (supernor-
+Experience,    Immediate      1. As referring to                   mal), 58, 60-62, 64, 89, 123, 136.
+PHYSICAL OCCASIONS: A complete C O N C R E T I O N
+of physical RELATIONSHIPS in the U N I T Y of a                    Experience, Vivid    Depth of ACTUALITY, D E F I -
+blind PERCEPTIVITY; an ultimate physical FACT                      NITENESS (p. 113). Cf. also p. 83 and VIVID.
+(p. 118). 2. As referring to a M E N T A L OCCASION:
+The CONSCIOUSNESS of physical E X P E R I E N C E ,                Expression  1. T h e one fundamental sacra-
+having the CHARACTER of being an incomplete                        ment; the outward, visible and INTERPRETABLE
+                            [186]                                                            [187]
+                       GLOSSARY                                                             GLOSSARY
+S I G N of an inward spiritual grace; an        expressive      ological facts, final fact), 92 and 99 ( M A T T E R of
+S I G N is CREATIVE and elicits the I N T U I T I O N which     fact), 95 and 151 (facts of the W O R L D , REALIZA-
+I N T E R P R E T S it, as a tuning fork elicits a sympa-       TION in fact), 101 ( C O N C R E T E fact, non-MENTAL
+thetic VIBRATION from a particular piano string                 facts), 143 (ANALYSIS of fact), 150, 152 (anteced-
+(pp. 131-132). 2. (Especially expression by                     ent facts, L I M I T E D fact), 155 (living fact), 157,
+D O G M A ) The return from solitariness to SOCIETY             PERCEPTION; G R O U N D ; FACT, ACTUAL; FACT, R E -
+(p. 137). Cf. also pp. 18, 23, 33 (self-expression),            LIGIOUS; and E X P E R I E N C E , IMMEDIATE. 9
+34, 38, 43, 48, 50, 54-55, 57, 67-68, 72, 75, 78,
+83, 115-116, 126-127, 129 (philosophy of), 130,
+                                                                Fact, Actual      1. An ACTUAL fact is a fact of A E S -
+133-134, 136, 138-139, 143-145, SIGN and R E L I -
+                                                                THETIC E X P E R I E N C E (p. 115). 2. An ACTUAL fact
+GION # 3 ,   #4.
+                                                                always means F U S I O N into one PERCEPTIVITY,
+                                                                G O D being one such CONCEPTUAL F U S I O N (p.
+Fact See FACT, ACTUAL. [Never explicitly de-
+                                                                157). Cf. also pp. 25, 53, 71, 151, 156-157, 159,
+fined as a generic term; closest is on p. 155:
+                                                                P E R C E P T I O N , G R O U N D , and   EXPERIENCE, IMME-
+Whitehead states that every fact is w h a t it is—a
+                                                                DIATE.
+fact of pleasure, joy, pain, or suffering—but no
+fact is a total loss in its union with G O D and its
+weaving together of mortal and IMMORTAL                         Fact,    Religious    [Never explicitly defined;
+rhythms. Cf. also pp. 15-17, 24, 25 (VIVID fact,                Whitehead twice contrasts religious facts with
+G E N E R A L fact), 37, 49-51 (historical fact, contin-        METAPHYSICAL doctrines in RELIGIONS (pp. 51,
+gent fact), 52 (elucidatory facts), 57, 59, 68                  72). Cf. also p. 86.]
+(METAPHYSICAL fact); 69, 96 and 154 (complete
+fact), 76-77, 80 (bare facts, fact of L I F E , IMMOR-             ' There are numerous non-technical occurrences of this term, for
+                                                                example, in transitional phrases such as "in fact," etc., which are not
+TAL fact), 85 and 158 (facts of E X I S T E N C E ) , 87 (bi-   reflected in this entry.
+
+                           [188]                                                                [189]
+                         GLOSSARY                                                            GLOSSARY
+Factors [Never explicitly defined or used in                       132, 134-135,          143,      145-146,        148,     151-152,
+such a way as to make its meaning clear. Cf. pp.                   160.]
+14, 18-19, 38, 40, 43, 60, 71, 73 ( G O D as a factor
+in the U N I V E R S E ) , 89, 138,   156, FACT, E L E M E N T ,   Forms, Abstract   See E N T I T I E S , IDEAL. Cf. also
+and E L E M E N T S , FORMATIVE.]                                  pp. 94, 156, 160.
+
+
+Feeling [Never explicitly defined; closest is on                   Forms, Ideal   See E N T I T I E S , IDEAL. Cf. also pp.
+p. 103: A U N I T of feeling arises out of a specific              93, 108, 112, 114, 117, 151-154.
+mode of C O N C R E T I O N of the D I V E R S E E L E M E N T S
+                                                                   Forms, Realm         of       See E N T I T I E S , I D E A L .   Cf.
+and CREATES a specific VALUE. Feeling is some-
+                                                                   also pp. 94, 98, 119, 154, 160.
+times used as a synonym for " A C T U A L I T Y " (p.
+104). Cf. also pp. 21, 80 (layers of feeling), 98 (un-
+                                                                   Formula, Formularization, Formulae,              Formulate,
+feeling), 100 (feeling of SELF-VALUATION), 102-
+                                                                   Formulation          One L I M I T E D way of E X P R E S S I N G
+103 (VALUE-feeling), 104 (ACHIEVED feeling), 112
+                                                                   an I N T U I T I O N which increases VIVIDNESS of A P -
+( U N I T Y or feeling), 115, 150 and 152 (feeling-
+                                                                   PREHENSION; the formula is secondary to its
+VALUE), and      EXPERIENCE, AESTHETIC]
+                                                                   meaning, like a literary device (pp. 136-137);
+                                                                   particularly R E L A T E D to the STATEMENT of D O G -
+Form, Forms, Formation,       Formative,      Form-                MAS and DOGMAS O F R E L I G I O N . Cf. also pp. 56,
+ing [Never explicitly defined or used in a con-                    58, 60, 63, 77, 126-128, 136 (unformularized),
+text that makes its meaning clear. See E N T I T I E S ,           138, 140 (reformulate), 143-144.
+I D E A L ; E L E M E N T S , FORMATIVE; and       FORMULA.
+Cf. also pp. 13, 17, 33, 35-37, 48, 57, 60, 62-64,                 Freedom, Free [Never explicitly defined or used
+67, 86-87, 89, 96, 98, 101, 107, 109, 112, 126,                    in such a manner as to suggest a clear meaning.
+                              [190]                                                               [191]
+                       GLOSSARY                                                             GLOSSARY
+Apparently related to CREATIVITY. Cf. also pp.                   eral T R U T H S ) ; 58, 60, 63 (general doctrine),
+34, 90 ( D E T E R M I N A T E freedom), 119 ( I N F I N I T E   64-65, 67; 83 and 150 (general C O N C E P T S ) ; 85,
+freedom), 157 (free urge).]                                      107, 115 (general type), 124, 134 (FORMATIVE
+                                                                 generalities), 149 (general E X P E R I E N C E ) , 149,
+Fusion, Fuse       A synonym for SYNTHESIS. In the               DOGMA;        TRUTH,        RELIGIOUS;         and      RELIGION,
+CREATIVE PROCESS, the bringing together of the                   DOCTRINAL.        10
+
+
+G R O U N D , which is ACTUAL, with the C O N S E -
+Q U E N T , which is not ACTUAL when the PROCESS
+                                                                 God [See the " N o t e " at the end of this glos-
+begins, but is ACTUAL when the PROCESS ends (p.                  sary.] 1. One of the three FORMATIVE E L E M E N T S
+114). Whitehead explicitly relates this term to
+                                                                 of the all-inclusive U N I V E R S E ; the ACTUAL but
+"confusion" on p. 104. Cf. also pp. 47 (confu-
+                                                                 non-TEMPORAL E N T I T Y whereby the I N D E T E R M I
+sion), 104 (PERCEPTIVE fusion), 153 (fusion of
+                                                                 NATION of mere CREATIVITY is transmuted into a
+G O O D and E V I L ) , 157 (CONCEPTUAL fusion, ex-
+                                                                 D E T E R M I N A T E F R E E D O M (p. 90). 2. The        ORDER-
+amples of types of fusions), DERIVATE, and FACT,
+                                                                 ING E N T I T Y (pp. 104-105; cf. also p. 150). 3.
+                                                                                                                 The
+ACTUAL.
+                                                                 G R O U N D antecedent to transition who includes all
+                                                                 possibilities of physical VALUE CONCEPTUALLY,
+Generality,        General, Generalization      T h e salt of    thus holding the IDEAL F O R M S apart in equal
+R E L I G I O N (p. 44). Distinct from UNIVERSAL (p.
+                                                                 CONCEPTUAL REALIZATION of                    KNOWLEDGE            (p.
+62). See I D E A , G E N E R A L . Cf. also pp. 14-15 (gen-
+                                                                 153); the one SYSTEMATIC, complete FACT condi-
+eral T R U T H S , general principles), 24 (general void
+                                                                 tioning every CREATIVE act (p. 154). 4. The com-
+of D E F I N I T I O N ) , 25 (general FACT), 31 (general
+STATEMENTS), 32, 33 (general progress), 34, (gen-                   10
+                                                                       There are numerous non-technical occurrences of this term not
+eral terms, generality of thought), 35; 48, 52, 84,              reflected in this entry. Also, various etymologically related forms of
+                                                                 this word, such as "generation," "generating," etc., are not docu-
+128 and 149 (general principles); 54 and 126 (gen-               mented here.
+
+                            [192]                                                               [193]
+                         GLOSSARY                                                           GLOSSARY
+plete CONCEPTUAL REALIZATION of the realm of                         passeth all understanding"; the stable self-pres-
+I D E A L F O R M S , or the   K I N G D O M O F H E A V E N (p.     ervation of that which is good RELATIVE to itself
+153). 5. The IDEAL companion who transmutes                          (pp. 97-98). Cf. also pp. 17-18, 37; 41, 70 and
+what has been lost into a living FACT within its                     153 (goodness of GOD); 52, 57; 76 and 138 (good
+own nature; the mirror which discloses to every                      tidings, good news), 87-88, 95, 148, 155, 157,
+CREATURE its own greatness (p. 154). 6. The A C -                    and E V I L .
+TUAL FACT in the nature of T H I N G S from which
+the other FORMATIVE E L E M E N T S cannot be torn                   Grade, Graded,               Grading,   Gradual,     Grada-
+apart (p. 156). 7. T h e REALIZATION of the IDEAL                    tions Proportion of RELEVANCE of the various
+CONCEPTUAL H A R M O N Y by R E A S O N of which                     E L E M E N T S , SO far as concerns their contribution
+there is an ACTUAL PROCESS in the total U N I -                      to the one ACTUAL FACT (pp. 150-151). Both A C -
+V E R S E — a n evolving W O R L D which is ACTUAL be-
+                                                                     TUAL FACTS and IDEAL F O R M S can be graded. The
+cause there is O R D E R (p. 156). 8. An ACTUAL
+                                                                     grading of the ACTUAL FACT arises from the C R E -
+fACT or CONCEPTUAL F U S I O N embracing the C O N -
+                                                                     ATIVITY of some ACTUAL FACT passing over into a
+CEPT of all other such possibilities G R A D E D in
+                                                                     N E W F O R M by R E A S O N of the FACT itself. This
+HARMONIOUS, RELATIVE subordination (p. 157).
+                                                                     CREATIVITY already has a D E F I N I T E status in the
+9. The    VALUATION of the             W O R L D (p.   159).   Cf.
+                                                                     W O R L D , and one can say that the grading arises
+pp. 157-160 for several more "definitions" of
+                                                                     from the status, or the status from the grading (it
+God. The word " G o d " appears on the following
+                                                                     amounts to the same T H I N G ) . The grading of
+pages: 16-17, 20, 28, 36, 39, 41, 4 8 - 4 9 , 53, 55,
+                                                                     IDEAL F O R M S arises from the grading of ACTUAL
+62-63, 66-79, 85, 87, 90, 93-95, 98-100, 104-
+                                                                     FACTS as the union of the IDEAL F O R M S with the
+108, 111, 119-120, 130, 139, 149-150, 153-160.
+                                                                     FACTS in such a M E A S U R E as to elicit a renewed
+
+Good, Goodness, Goods 1. T h a t which is posi-                      F E E L I N G - V A L U E of the type possible as a N O V E L
+
+tive and CREATIVE (p. 96). 2. The " P E A C E which                  outcome from the antecedent FACTS (p. 151). Cf.
+                               [194]                                                            [195]
+                          GLOSSARY                                                          GLOSSARY
+also pp. 18-19, 33, and 74 (gradual); 25, 60 (grad-                     VALUATION); 154 and 156 (CONCEPTUAL har-
+ing of VALUES), 103, 112, 114-115, 118, 157,                            mony), 157, DETERMINATION, and ELEMENTS,
+and    DEGRADE.                                                         FORMATIVE.
+
+
+Ground Any one ACTUAL FACT (p. 113). The                                Heaven (Kingdom of) 1. The Kingdom of
+ground is FORMED by all the FACTS of the                                Heaven is GOD (p. 154); 2. The overcoming of
+WORLD, already ACTUAL and GRADED in their                               EVIL by GOOD (p. 155). Cf. also pp. 37, 72 (King-
+proportion of RELEVANCE (p. 151). Cf. also pp.                          dom of Heaven is within you), 87-88, EVIL,
+103, 114-117, 152-154, 156-157, SYNTHESIS,                              GOD, GOOD.
+                                  11
+FUSION and        REVERSION.
+                                                                        Idea(s) [Never explicitly defined; two approxi-
+Harmony     (in the ACTUAL WORLD) 1. CON-                               mations of a definition are offered: 1. (p. 114) the
+FORMITY with the CHARACTER of permanent                                 lapse of TIME is the renovation of the WORLD
+Tightness (p. 61). 2. Harmony is LIMITATION, and                        with ideas. The context seems to imply a close
+Tightness of LIMITATION is ESSENTIAL for the                            connection (perhaps even an identification) be-
+growth of REALITY (p. 152). Cf. also pp. 61 (har-                       tween ideas and IDEAL FORMS. 2. (p. 129) No
+monious conditions, harmonious IDEAL), 104                              idea is DETERMINATE in a vacuum: it has its
+(harmonious ORDER), 119 (harmony of APPRE-                              being as one of a SYSTEM of ideas. Cf. also pp.
+HENSION), 120 (IDEAL harmony which is GOD),                             18, 30, 35 and 77 (RELIGIOUS idea); 23 (ABSTRACT
+152 (harmony in the GROUND), 153 (harmony of                            idea), 25, 33-34, 36, 39, 43-44, 51 (METAPHYSI-
+                                                                        CAL ideas), 56; 65 and 129 (distinct idea), 76 (sim-
+   11
+      There are a few non-technical occurrences of this term not re-    plicity of dominant ideas), 78 (profound ideas
+flected in this entry, in terms like "background," or when it is used
+in an historical context generally to mean "the basis of a position."   cloaked by LANGUAGE), 84-85, 130 (SYSTEM of
+
+                               [196]                                                           [197]
+                            GLOSSARY                                                            GLOSSARY
+ideas), 131 (set of ideas), 134, 141, 159 (particular                      (identity of type), 138, 144 (identical INTUITIONS),
+ideas, ACTUAL ideas). 12 ]                                                  147, NOVELTY, and     RELEVANCE.]
+
+
+
+Ideal      See E N T I T I E S , IDEAL; F O R M S , IDEAL; and             Idolatry   SPIRITUAL T R U T H which dominates,
+
+I D E A # 1 . Cf. also pp. 39, 51, 57 (supreme ideal),                     uncriticized by D O G M A or by recurrence to the
+60; 61, 120 and 156 (HARMONIOUS ideal, ideal                               primary sources of RELIGIOUS inspiration; the
+H A R M O N Y , and ideal CONCEPTUAL H A R M O N Y ) ;
+                                                                           necessary product of static DOGMAS (p. 147). Cf.
+63, 87, 99; 114 and 156-157 (ideal C O N S E Q U E N T ) ;                 also pp. 37, 148.
+116-117 (ideal N O V E L T Y ) , 119 (CONSCIOUSNESS
+of an ideal, P E R F E C T I O N of ideals), 141-142 (ide-                 Imagination,      Imaginary       [Never explicitly de-
+alism), 154 (ideal W O R L D ) ; 154 and 156 (ideal                        fined or used in a context so as to make its mean-
+companion, i.e., G O D as ideal), 155-157 (ideal vi-                       ing clear. Cf. pp. 19, 25, 27 (development of
+sion, ideals of G O D ) , 159 (ideal VALUES).                              imagination), 147 (imaginative representations of
+                                                                           spiritual T R U T H S ) , 160 (unimaginable past).]
+
+Identity    [Never explicitly defined; closest is p.
+                                                                           Immediacy, Immediate      See E X P E R I E N C E , IM-
+115: By implication, identity appears to be the
+                                                                           MEDIATE; and OCCASIONS, E P O C H A L . Cf. also pp.
+agreement between G R O U N D and C O N S E Q U E N T
+                                                                           27 (immediate objects, immediate sense and P E R -
+in the CREATIVE PROCESS; this agreement pre-
+                                                                           CEPTION), 40 (immediate social routine or set-
+serves D E F I N I T E N E S S . Cf. also pp. 115 (identity
+                                                                           ting); 47 and 135 (immediate surroundings or en-
+of CHARACTER, C O N T R A S T under identity), 116
+                                                                           vironment), 47 (immediate detail), 48 (immediate
+  12
+     It is difficult to be certain whether this is a technical term for    present), 57 (immediate pictures), 67 (immediate
+Whitehead at all in this book. In some cases, however, it is certain       ends), 84 (patch of immediacy), 85 (immediately
+that the term is being used in a purely ordinary way. Thus, there are
+some non-technical occurrences of this term not reflected in this entry.   CONSCIOUS), 89 (immediate comparison), 100,
+
+                                1198]                                                               [199]
+                        GLOSSARY                                                          GLOSSARY
+137 (immediate A P P R E H E N S I O N ) , 138 (immediate         NITENESS, or INTENSIVE Q U A N T I T Y of P E R C E P T I -
+conviction), and OCCASIONS, IMMEDIATE.                            VITY.   Contextually, Whitehead often associates
+                                                                   individuality with PERSONALITY. Cf. also pp. 16,
+Immortality         A B E L I E F (regarding which White-          17 (individual worth and CHARACTER), 20 (indi-
+head claims to be neutral) that a spiritual or                    vidual habits), 33 (isolated individuals), 36 (direct
+M E N T A L R O U T E might go on indefinitely without            individual Intuition, individual prayer, individ-
+its associate MATERIAL or PHYSICAL R O U T E (p.                  ual criticism, individualistic F O R M S of R E L I G I O N ,
+111). Cf. also pp. 80 (immortal FACT), 110, 1SS,                  individual I N S I G H T ) , 37, 3 9 - 4 1 , 47; 49 and 51 (in-
+                                                                  dividual PERSONALITY); 58, 59 (VALUE of individ-
+159.
+                                                                  uals for themselves and for each other), 6 0 - 6 1 ,
+                                                                  63 (individual PERSONAL E X P E R I E N C E ) , 68 (PER-
+Indetermination,       Indeterminate        See D E T E R M I -
+                                                                  SONAL G O D ) , 69, 78 (used with PERSONAL, im-
+NATION. Cf.     pp. 90, 94,     159.
+                                                                  PERSONAL, ACTUAL and E N T I T Y ) ; 87 and 88 (indi-
+                                                                  vidual and SOCIETY mutually FORMATIVE); 93;
+Individual, Individuality    [Never explicitly de-
+                                                                  105, 107-108 and 140 (individual substances);
+fined; there are two close approximations to a
+                                                                  128 (individual M I N D ) , 132-133; 134 and 137 (in-
+definition: 1. (pp. 108-109) The most individual
+                                                                  dividual primary I N T U I T I O N S , cf. p. 36), 136-
+ACTUAL E N T I T Y is a D E F I N I T E act of PERCEPTIV-
+                                                                  137, 140 (individual subject of E X P E R I E N C E ) , 141
+ITY; the further context suggests that individual-                (finite, enduring individuals), 158 (individual
+ity is to be understood in contrast to ABSTRACT-                  CONSCIOUSNESS          contrasted with UNIVERSAL
+NESS. If that is the case, individuality may be,                  CONSCIOUSNESS of G O D ,        and A D J U S T M E N T of   in-
+by implication, a species of C O N C R E T I O N . 2. (pp.        dividuality).]
+108-109) A second possible rendering of these
+passages is that the individuality of an ACTUAL                   Infinite [Never explicitly defined or used in a
+E N T I T Y is M E A S U R E D by the increase in the D E F I -   context which makes its meaning clear. Cf. pp.
+                            [200]                                                             [201]
+                      GLOSSARY                                                        GLOSSARY
+119 (infinite F R E E D O M , infinite possibilities), 141    impotent to achieve ACTUALITY apart from the
+(finite INDIVIDUALS), 142 (finite T R U T H S ) , 143 (fi-    completed IDEAL H A R M O N Y which is G O D (p.
+nite SYSTEMATIZED scheme), 153 (infinity of                   119). Cf. also E L E M E N T S , FORMATIVE.
+G O D ) , and   DEFINITE.]
+                                                              Intensiveness,     Intensify,    Intense,            Inten-
+Inheritance    An influence in the background of              sity Synonymous with QUANTITY, I N T E N S I V E .
+the (PHYSICAL or M E N T A L ) OCCASIONS in a given           Cf. also pp. 35, 59 ( W O R L D as R E A L M of A D -
+R O U T E which makes possible a R E A L transmis-            JUSTED VALUES, mutually intensifying, and mutu-
+sion of the common E L E M E N T along that R O U T E         ally destructive), 83 (intensity of E M O T I O N ) , 103
+(pp. 109-110). Cf. also p. 72.                                (intensiveness of VALUE).
+
+
+Insight   [Never explicitly defined or used in such           Interest   [Never explicitly defined or used in a
+a way as to make its meaning clear. Cf. pp. 31-32             context which suggests any clear definition. It
+(moments of insight), 36 (INDIVIDUAL insight), 56             seems related to VALUE. Cf. also pp. 18, 32 (spe-
+(direct insight), 148 (philosophic insight), 154              cialized interests), 38, 52, 84 (historical interest),
+(swift insight of suffering), and I N S I G H T , R E L I -   89 (SMW term), 124 (direction of interest), 125,
+GIOUS.]                                                       RELIGIOUS interest), 158, S E L F - I N T E R E S T , and
+                                                              SELF-VALUE.]
+
+Insight, Religious        The grasp of the T R U T H that
+nothing ACTUAL could be ACTUAL without some                   Interpretation      [Never explicitly defined; closest
+M E A S U R E of O R D E R ; the U N I V E R S E exhibits a   is on pp. 132-133. In the text, interpretation is
+CREATIVITY with I N F I N I T E F R E E D O M , and a         related to E X P R E S S I O N and I N T U I T I O N , and ap-
+realm of (IDEAL) F O R M S with I N F I N I T E possibili-    pears to be the way in which an INDIVIDUAL artic-
+ties, but this CREATIVITY and these F O R M S are             ulation of direct I N T U I T I O N contributes to the
+                             [202]                                                        [203]
+                      GLOSSARY                                                      GLOSSARY
+K N O W L E D G E of all PERSONS in a group. Cf.
+                                              also            Intuition, Religious     An awareness of a C H A R -
+pp. 47, 51 (SYSTEMATIC interpretation), 56, 62, 65            ACTER of permanent Tightness, whose inherence
+(psychological interpretation), 66 (RATIONAL in-              in the nature of T H I N G S modifies both efficient
+terpretation), 83-85 (interpretation of past and              and final cause, so that the former C O N F O R M S to
+present dependent on METAPHYSICS), 124-125,                   HARMONIOUS conditions, and the latter C O N -
+145 (strict interpretation), 149.]                            TRASTS itself with an HARMONIOUS IDEAL (p. 61).
+                                                              Whitehead explicitly says this is not a linguistic
+Intuition     [Never explicitly defined as a generic          discernment (p. 67). Cf. also pp. 29, 32, 36,
+term; closest is pp. 59 and 65. 1. Intuition into             56-57, 59-60, 62-65, 86, 132, 139, INTERPRETA-
+the ACTUAL W O R L D gives a particular D E F I N I T E       TION, and   EXPRESSION.
+content to the bare notion of a principle D E T E R -
+MINING the GRADING of VALUES (p. 59). This                    Judgment, Moral The way G O D , as condition-
+definition may be specific to a RELIGIOUS I N T U -           ing the CREATIVITY with his H A R M O N Y of A P P R E -
+ITION; the context does not make clear whether                HENSION, issues into the M E N T A L CREATURE ac-
+the term is being used generically. 2. Intuitions             cording to a perfection of IDEALS (p, 119). Cf. also
+may first E M E R G E as distinguished in CONSCIOUS-          pp. 32, 158, and G O D .
+NESS (p. 65). Here it is clear that the term is being
+used generically. Cf. also pp. 29, 32, 36, 57, 59,            Knowledge, Know              [Never explicitly defined as
+61-64 and 132 (direct intuition); 36 (direct ethical          a generic term; closest is on p. 143. Knowledge of
+intuition), 56 (first-hand intuition), 6 0 - 6 2 , 66-67,     a discernment of O R D E R E D RELATIONSHIPS, espe-
+132 ( C O M M U N I T Y of intuition), 133, 134 ( N O V E L   cially in A E S T H E T I C VALUATIONS (which stretches
+intuitions, primary intuitions), 135 ( D E F I N I T E in-    far beyond anything which has been E X P R E S S E D
+tuitions), 137 (INDIVIDUAL intuitions), 144, and              SYSTEMATICALLY in words), is one of the two
+INTUITION, RELIGIOUS.]                                        sources of E V I D E N C E which G R O U N D S the final
+                          [204]                                                        [205]
+                               GLOSSARY                                                          GLOSSARY
+       principle of R E L I G I O N , i.e., that there is wisdom           TER of the CREATIVITY into the CREATURE
+       in the nature of T H I N G S . Surveying Whitehead's                WtoRLi2Jpp. 118-119). Cf. also K N O W L E D G E .
+       use of this term, there are evidently at least two
+       kinds of knowledge: scientific knowledge, and                       Language    1. A L I M I T E D mode of EXPRESSING
+/ /   -some sort of knowledge more comprehensive and                       such IDEAS as have been frequently entertained,
+>                                                                          and urgently needed, by the group of human be-
+       C O N C R E T E than this. The latter involves A E S -
+       T H E T I C VALUATION, RELIGIOUS and moral dis-                     ings who developed that mode of speech (p. 34).
+       cernment, sensation, and I N T U I T I O N in some sort             2. Language cloaks the most profound IDEAS
+       of arrangement (perhaps this is to be understood                    under its simplest words (p. 78). Cf. also pp. 35
+       as KNOWLEDGE-VALUE (see below). Cf. also pp.                        (language and SOCIETY), 57, 133 (theological lan-
+       36 (our knowledge of G O D ) , 41 (unknown), 67, 70                 guage).
+       (LIMITS of knowledge), 75, 80 (circle of our
+       knowledge), 90, 104, 123 (knowledge acquired                        Life [Never explicitly defined; closest is p. 15.
+       via senses), 126 (RELIGIOUS knowledge), 127                         Life is an internal FACT for its own sake before it
+       (knowledge of CHARACTER), 132, 136, 138, 142,                       is an external FACT RELATING itself to others. Cf.
+                                                                           also pp. 15-16 and 49 (conduct of life); 18 and
+       149 ( D E F I N I T E knowledge), 153 (CONCEPTUAL
+                                                                            138 (human life); 21 (necessary work of life), 23
+       REALIZATION of knowledge); 154 and 156 ( G O D ' S
+                                                                           (life of the spirit), 24 (routine of life), 31 (coherent
+       knowledge), 160.13]
+                                                                           O R D E R I N G of life), 38, 39 (common life), 51,
+                                                                           5 6 - 5 7 (life of Buddha and Christ), 58 (life of
+      Knowledge-Value      T h e VALUE R E A L I Z E D in a                man), 60 (ATTAINMENT of life), 70 (daily life), 80
+      M E N T A L OCCASION: the issue of the full CHARAC-                  (life-weariness, life-ZEST, QUALITY of life), 98 (in-
+        13
+                                                                           terior life); 112 and 116 (life history), 119 ( Z E S T of
+           There are numerous non-technical occurrences of this term not
+      reflected in this entry.                                             life, P E A C E of life), 124 (INTERPRETATION of life);
+                                    [206]                                                            [207]
+                          GLOSSARY                                                      GLOSSARY
+
+137 and 147 (RELIGIOUS life); 139 (aim of life); 158            G O D , unlimited F U S I O N of G O O D with E V I L ) ,   159
+( G O D ' S RELATION to life), L I F E OF T H E B O D Y , and   (no D E F I N I T E , D E T E R M I N A T E limitation required
+L I F E OF T H E M I N D . ]                                    for ATTAINMENT), and T H I N G , ACTUAL.
+
+
+                                                                Magic Ritual hero-worship joined to E M O T I O N
+Life (of the Body), Physical Life See R O U T E ,
+                                                                by mythical B E L I E F wherein the object of hero
+PHYSICAL. Cf. also pp. 102, 116, and L I F E .
+                                                                worship is a T H I N G (p. 26). Cf. also R E L I G I O N
+                                                                #5.
+Life (of the Mind), Mental Life See R O U T E ,
+M E N T A L . Cf. also pp. 102-103, 116, 123, and               Matter, Material            A subordinate C O M M U N I T Y
+L I F E , and   MIND.                                           which is a R O U T E whose various [PHYSICAL] O C -
+                                                                CASIONS exhibit some C O M M U N I T Y of type of
+Limitation, Limit          1. In the CREATIVE PROCESS,          VALUE (pp. 108-109). Some bits of matter have
+the whole W O R L D presents both opportunities                 an associate R O U T E of M E N T A L I T Y , and these are
+and limitations, and the limitations are the op-                called " o r g a n i c , " while other bits of matter have
+portunities (pp. 112-113). 2. See QUALIFICATION.                a negligible associate M E N T A L R O U T E , and these
+3. H A R M O N Y is limitation, and Tightness of limi-          are called " i n o r g a n i c " (p. 110). Cf. also pp. 105
+tation is ESSENTIAL to the growth of R E A L I T Y (p.          and 107-108 (inorganic bits of matter); 107 (mat-
+ 152). Cf. also pp. 22, 32 (limited VALIDITY); 34               ter and M I N D ) , 111 (enduring E X I S T E N C E of mat-
+and 133 (limits of LANGUAGE); 39 (limited hori-                 ter), 131 (subject matter), 140 ( M I N D and matter
+zon), 91 ( D E F I N I T E limited PHYSICAL event), 93          as substance), M I N D , CREATIVITY, and O C C A
+( D E F I N I T E limited C R E A T U R E , mutual limita-      SION, PHYSICAL.
+tions), 118 (limitations of C O N C E P T S ) , 124, 130,
+136, 139, 145, 149, 150, 152 (unlimited possibil-               Measure      To count VIBRATIONS in the PHYSICAL
+ity, D E F I N I T E limited FACT), 153 (limitation of          W O R L D (p. 116). Cf. also pp. 57 (immeasurable
+
+                               [208]                                                        [209]
+
+ / ^ ^ y          ^       CKJt&Yr,*u)
+                       GLOSSARY                                                          GLOSSARY
+innocence), 61 (measure of C O N F O R M I T Y , mea-               tion which takes its direction from one select field
+sure of DIVERSITY), 94 (measure of D E T E R M I N A -             of I N T E R E S T (pp. 88-89). Cf. also pp. 31 ( A B -
+TION), 99 ( G O D as the measure), 119 (measure of                 STRACT metaphysics), 32, 36; 49 and 68 (meta-
+O R D E R ) , 145 (measure of T R U T H ) , 149 (measure           physical FACT); 50 (applied metaphysics, meta-
+of the UNIVERSE), 152 (measure of H A R M O N Y ) ,                physical          SYSTEM,    metaphysical          notion,
+160 (measures of T I M E ) .                                       metaphysical doctrine), 51 (metaphysical IDEAS),
+                                                                   52 (metaphysical theory), 70 (metaphysical R A -
+Media, Mediation,     Mediate    See IMMEDIATE.                    TIONALIZATION); 71 and 104 (metaphysical situa-
+Cf. also pp. 69, 132, 144, 147 (intermediate).                     tion); 72, 75, 79, 83, 84 (metaphysical principles,
+                                                                   metaphysical DOGMAS, metaphysical I N T E R P R E -
+Mental, Mentality        See M I N D ; R O U T E , M E N T A L ;   TATION), 85 (metaphysical B E L I E F S , primary
+
+L I F E O F T H E M I N D , and OCCASION, M E N T A L .     Cf.    metaphysical data), 86 (metaphysical presupposi-
+also pp. 43, 73, 95 (mental suffering), 101 (non-                  tions), 94, 95 (metaphysical C O N C E P T S ) , 104, 105,
+mental FACTS); 102 and 123 (mental L I F E ) ; 118,                108 (metaphysical scheme), 110 (metaphysical
+119 (mental CREATURE), 141 (Western mentality).                    theory), 141 (principles of metaphysics), 149, 150
+                                                                   (metaphysical SYSTEM, metaphysical descrip-
+Metaphysics,      Metaphysical  1. (rational) The                  tion), 159 (metaphysical function), D O G M A OF R E -
+attempt to E X P R E S S the most G E N E R A L C O N -            LIGION, and   DOGMA.
+
+CEPTS ADEQUATE for the all-inclusive U N I V E R S E ,
+and criticism of the meanings used in this attempt                 Mind      A subordinate C O M M U N I T Y which is a
+(p. 83). 2. The science which seeks to discover                    R O U T E whose various [ M E N T A L ] OCCASIONS ex-
+the G E N E R A L IDEAS which are indispensably                    hibit some C O M M U N I T Y of type of VALUE (pp.
+RELEVANT to the ANALYSIS of everything that                        108-109). Cf. also pp. 13, 54 (states of mind), 56,
+happens (p. 84«.). 3. Metaphysics is a descrip-                    67, 87, 105, 107-111, 114 (mind of space), 116,
+                           [210]                                                             [211]
+                      GLOSSARY                                                    GLOSSARY
+126, 128 (INDIVIDUAL mind), 140, M A T T E R , M E N -     ACTUAL C O M M U N I T Y are composed (p. 91). 2.         A
+TAL,    LIFE   OF   THE    MIND,     and     OCCASION,     DEFINITE LIMITED           physical event in the P H Y S I -
+MENTAL.                                                    CAL W O R L D , L I M I T E D both as to space and time,
+                                                           but with TiME-duration as well as with its full
+Novelty, Novel, New Synonymous with " I D E A L            spatial dimensions (p. 91) 3. CREATURES, but not
+novelty"; the birth of a new instance; the infor-          separable from CREATIVITY (pp. 91-92); cf. A C -
+mation of the ACTUAL W O R L D with a new set of           TUAL W O R L D . 4. A C O N C R E T I O N ; a mode in
+IDEAL F O R M S (pp. 113-114). Cf. also pp. 13, 26         which D I V E R S E E L E M E N T S come together into a
+(new FORMATIVE agent), 29; 33, 39 and 159 (new             R E A L U N I T Y (pp. 92-93). 5. A D E F I N I T E L I M -
+IDEAS); 35 (new     SYNTHESIS), 38 (new      FACTORS),     ITED CREATURE E M E R G E N T in C O N S E Q U E N C E    of
+39 (new virtues), 4 0 - 4 1 , 72, 90, 92 (new C R E A -    the LIMITATIONS mutually imposed by the F O R -
+TURE), 113 (new CREATION, passage into nov-                MATIVE E L E M E N T S upon one another (p. 93). 6. A
+elty), 114; 115, 151, 155 and 157 (novel C O N S E -       microcosm inclusive of the whole U N I V E R S E (p.
+QUENT); 115 (new     AESTHETIC EXPERIENCE),         116,   100). 7. The self-creating CREATURE (p. 102).
+117 (new dimension), 127 (new STATEMENT), 134              7. Epochal occasions, although a U N I T Y , have
+(novel INTUITIONS), 136 ( E L E M E N T of novelty,        two sides: (a) a mode of CREATIVITY bringing to-
+new    FORMULA, new       FACTS, new       EXPRESSION,     gether the U N I V E R S E , or the occasion as cause, its
+new circumstances), 146, 151 (new F O R M , new            own CREATIVE act; (b) occasion as C R E A T U R E , the
+CREATIVITY),          152 (novel outcome, renewed          one E M E R G E N T FACT which is the S E L F - V A L U E of
+F E E L I N G ) , 160 (new F O R M S , new CREATIVE con-   the CREATIVE act (pp. 101-102). In SMW and
+ditions), and C O N S E Q U E N T .                        PR, Whitehead uses the term " A C T U A L O C C A -
+                                                           S I O N " synonymously with what is here called the
+
+Occasion(s), Epochal       1. The primary ACTUAL           "epochal occasion" (cf. R M 102, 157). Cf. also
+U N I T S of which the T E M P O R A L W O R L D and the   pp. 60 (IMMEDIATE occasions), 91 (multiplicity of
+                          [212]                                                       [213]
+                            GLOSSARY                                                                   GLOSSARY
+occasions), 103, 112-113, 114 (antecedent occa-                            more fundamental than M E N T A L OCCASIONS. Ap-
+sion), 116 ( C O N C R E T E occasions), 151, 160                          parently physical occasion is synonymous with
+(slighter occasions of ACTUALITY), OCCASION,                               bodily occasion (p. 117) and blind occasion (p.
+M E N T A L ; and    OCCASION, P H Y S I C A L . 1 4                       153). Cf. also pp. 108-109, 116, 118, and E X P E -
+                                                                           RIENCE, IMMEDIATE.]
+Occasion(s),        Mental    1. The CHARACTER of a
+R E F L E C T I V E PERCEPTIVITY issuing into VALUE-                       Order All order (e.g., HARMONIOUS, p. 104,
+F E E L I N G ; DERIVATIVE from its physical counter-                      natural, p. 104, etc.) is A E S T H E T I C order D E -
+parts (p. 102). 2. An ultimate FACT in the SPIRI-                          RIVED from the immanence of G O D (p. 105). Cf.
+
+TUAL W O R L D (p. 103). Apparently synonymous                             also pp. 18 (order of E M E R G E N C E ) , 19 (inverse
+with R E F L E C T I V E occasion, p. 102. Cf. also pp.                    order), 31 (ordering of L I F E ) , 32 (ordering of all
+108-109, 116-118; OCCASIONS, PHYSICAL; and                                 E X P E R I E N C E ) ; 68 and 150 (imPERSONAL order,
+
+EXPERIENCE,          IMMEDIATE.                                            self-ordering W O R L D ) ; 80 (order which inFoRMS
+                                                                           the W O R L D ) , 94 (moral order, common order, or-
+Occasion(s), Physical [Never explicitly defined;                           dered balance), 99, 111 (order immanent in the
+closest is on pp. 102-103. From the remarks                                W O R L D , order laid upon the CREATIVITY), 112
+
+made on these pages, one would gather that a                               (stable order of the ACTUAL W O R L D ) , 119 (order
+physical occasion is any E P O C H A L OCCASION                            of the W O R L D , M E A S U R E of order), 132 (ordered
+which is non-MENTAL. Physical occasions are                                UNIVERSE), 143 (order of T H I N G S , ordered RELA-
+                                                                           TIONSHIPS),            156, 160 (order in the W O R L D ) ,
+  14
+     The epochal occasion seems to be the genus of which the mental        W O R L D , ACTUAL # 4 ,       and    FEELING.15
+and physical occasions are species. I have noted generic occurrences
+of the term "occasion" under "OCCASION, E P O C H A L , " excluding ref-
+                                                                             15
+erences to the two designated species of occasions, which are reflected         There are numerous non-technical occurrences of this term (in
+in the following entries.                                                  phrases like "in order to . . .") which are not reflected in this entry.
+
+
+                                [214]                                                                      [215]
+                               GLOSSARY                                                      GLOSSARY
+    Peace [Never explicitly defined or used in such                   perceptivity), 112 ( E X P E R I E N C E D perceptivity),
+    a way as to make its meaning clear; cf. pp. 40,                   117 (perceptive ANALYSIS); 118 and 153 (blind
+    97, 119 (peace of L I F E ) . ]                                   perceptivity); 125 (perceptive powers, perceptive
+                                                                      E X P E R I E N C E ) , 157, 160 (perceptive ACHIEVE-
+    Perception   A grasping of E L E M E N T S of the U N I -         MENTS),     EXPERIENCE,        IMMEDIATE;       OCCASION,
+    VERSE into the U N I T Y of one FACT (p. ISO). It is              EPOCHAL; OCCASION, PHYSICAL; and                OCCASION,
+    unclear what the relationship is between percep-                  MENTAL.
+    tion and PERCEPTIVITY. Cf. also pp. 27, 58
+    (sense-perception), 96.                                           Personality, Person, Personal            [Never explicitly
+                                                                      defined or used in a context such as to make its
+    Perceptivity, Perceptive   1. A P P R E H E N S I O N (p.         meaning clear. Related to INDIVIDUAL, and some-
+    101). 2. By inference, perceptivity is the E N J O Y -            times appears to be synonymous with it. Cf. p.
+    M E N T of   the   VALUE of     the   C O N C R E T E FACT   of   26, 27 (body of persons); 49 and 51 (INDIVIDUAL
+    one's ACTUALITY (pp. 100-101). There are at                       personality); 61 ( D E F I N I T E person); 62, 63, 66, 68,
+    least two sorts of perceptivity: M E N T A L and non-             73, 87 and 150 (personal God), 62 (personality
+    M E N T A L . Non-MENTAL perceptivity is: (a) the                 substantial to the U N I V E R S E ) , 63 (personal E X P E -
+    SELF-VALUE of its own microcosmic A P P R E H E N -               RIENCE, divine personality), 64 (divine persons,
+    SION; it is blind^jo^devoid of R E F L E C T I V E C O N -        personal being), 66 (personal SIGNIFICANCE); 68
+    SCIOUSNESS (p. 101); and (6) an ultimate C O N -                  and 150 (impersonal O R D E R ) ; 74 (three-fold per-
+    C R E T E FACT in    the    PHYSICAL W O R L D (p.       103).    sonality of G O D ) , 78, 140 (active personality).]
+    MENTAL          perceptivity, on the other hand, is not
+    devoid of R E F L E C T I V E CONSCIOUSNESS, but is a             Process [Never explicitly defined as a generic
+    R E F L E C T I V E perceaitiyity (p. 102). Cf. also pp.          term or used in such a way as to make its mean-
+9   104 (perceptive FUSKYN), 108 ( D E F I N I T E act of             ing clear. It is possible to distinguish between the
+                                 [216]                                                           [217]
+                        GLOSSARY                                                       GLOSSARY
+generic use of this term and its specific use in de-              cific purpose), 119 (CREATIVITY with a purpose),
+scribing the CREATIVE PROCESS (see below). Cf.                    PURPOSE, A C T I V E , and PURPOSE OF G O D .
+pp. 33 and 134 (process of development); 35, 48
+(process of R E F L E C T I V E FORMATION), 97 (process           Purpose, Active The ADJUSTMENT of the present
+of DEGRADATION), 132 (process of F O R M I N G a                  for the sake of further ADJUSTMENTS of VALUE in
+common E X P R E S S I O N of direct I N T U I T I O N ) , 156,   the IMMEDIATE or remote future (p. 100).
+and PROCESS, CREATIVE.]
+                                                                  Purpose of God 1. The ATTAINMENT of VALUE in
+Process,       Creative      1. The achievement of                the TEMPORAL W O R L D , which is a CREATIVE pur-
+ACTUALITY by the IDEAL C O N S E Q U E N T , in virtue            pose (pp. 100, 104). 2. The QUALITY of ATTAIN-
+of its union [ F U S I O N ] with the ACTUAL G R O U N D ;        MENT embodied in the particular IDEALS RELEVANT
+the F U S I O N of Jbeinxr_with not-being (p. 114).'              to the ACTUAL state of the W O R L D (p. 143). Cf. also
+2. Discerned in that transition by which one O C -                pp. 115, 119, 158-159, G O D and PURPOSE.
+CASION, already ACTUAL, enters into that of an-
+other instance of E X P E R I E N C E D VALUE. A process          Qualification, Qualify [Never explicitly defined;
+of exclusion and inclusion on the basis of elicited               closest is on pp. 92-93. Whitehead seems to use
+RELEVANCE to some A E S T H E T I C U N I T Y (p. 114).           this term to describe one of the most fundamental
+Cf. also pp. 111-113, 116, 152-153, PROCESS,                      RELATIONS of all, the RELATION between any given
+and   SYNTHESIS.                                                  EPOCHAL OCCASION or CONCRETION and the three
+                                                                  FORMATIVE E L E M E N T S from which the EPOCHAL
+Purpose(s)      Securing the avoidance of E V I L (p.             OCCASION "is thus E M E R G E N T . " The RELATION of
+95). Cf. also pp. 24, 25 (hidden purpose), 26 (ex-                qualification is the one whereby the EPOCHAL O C -
+planatory purpose), 31 (unified purpose), 55, 60,                 CASION has in its own nature the other CREATURES
+75, 79, 80 ( Z E S T after purposes), 85, 97, 118 (spe-           under the aspect of the IDEAL FORMS, and analo-
+                            [218]                                                          [219]
+                           GLOSSARY                                                             GLOSSARY
+gously includes the IDEAL FORMS in its own nature                        Quantity, Intensive    1. A M E A S U R E OF VALUE
+under the aspect of these CREATURES. Presumably                          used to G R A D E and compare SPECIFIC VALUE;
+(since Whitehead seems to use IDEAL FORMS as an                          zero intensive quantity means the collapse of
+example in this passage) this RELATION of qualifi-                       ACTUALITY. [Evidently, the greater the intensive
+cation also holds as a RELATION among EPOCHAL                            quantity, the greater the " d e p t h " and/or " i m -
+OCCASIONS and the other two FORMATIVE E L E -                            portance" of the E P O C H A L OCCASION (p. 103).]
+MENTS, G O D and CREATIVITY. This presumption is                         2. The contribution of some one E L E M E N T in the
+consistent with the use of the term "qualification"                      SYNTHESIS to this one intensiveness of VALUE
+on p. 98. This term may also be synonymous with                          [presumably in a given E M E R G E N C E of an E P -
+Whitehead's use of the term " L I M I T A T I O N . " Cf.                OCHAL OCCASION] (p. 103). Cf. also I N T E N S I V E .
+also pp. 72, 96.]
+
+Quality        [Never explicitly defined; SMW term.                      Quantity, Physical   Aggregates of physical V I -
+                                                                         BRATIONS, which are the E X P R E S S I O N among the
+This means something akin to VALUE, but of a
+                                                                         ABSTRACTIONS of physical science of the funda-
+sort which lies always beyond the mere FACT of
+L I F E , yet the quality is included in the FACT (p.                    mental principle of A E S T H E T I C E X P E R I E N C E (p.
+80). Cf. also pp. 16 (final quality), 21 (quality of                     116).
+E M O T I O N ) , 44, 115, 159 (quality of ATTAINMENT).
+This term does not seem to have any relation to                          Rationalism (in religion), Rationalization,       Ratio-
+QUALIFICATION. 16]                                                       nality    1. B E L I E F raised beyond itself by a note
+                                                                         of progressive solitariness (p. 30). 2. The safe-
+  16
+    In Science and the Modern World quality is called (along with        guard of the objectivity of R E L I G I O N which se-
+substance and simple location) "the most natural ideas for the human
+mind" without which "we could not get our ideas straight for daily       cures for it the G E N E R A L coherence denied to hys-
+use." However, these ideas are highly abstract, "elaborate logical
+constructions," rather than concrete. They are "simplified editions of
+                                                                         teria (p. 64). Cf. also pp. 18-19, 24, 28-33,
+immediate matters of fact" (p. 52).                                      35-36, 4 0 - 4 3 , 47, 49, 52, 54, 56-58, 63, 66-68,
+                                [220]                                                               [221]
+                         GLOSSARY                                                               GLOSSARY
+70, 77, 79, 83 (rational METAPHYSICS), 86, 90,                        Reason, Reasonable        [Never explicitly defined;
+138 (rational principle), 142, 157 (rational de-                      closest is pp. 76-77: Reason seems to be a disci-
+scription, rational explanation), and R E L I G I O N ,               pline for the discernment of T R U T H which cannot
+RATIONAL.                                                             be restricted a priori to approved outcomes and
+                                                                      F O R M S of conduct which are VALUED merely
+                                                                      EMOTIVELY (pp. 76-77). Whitehead also says that
+Real, Reality, Realization, Realize                [Never ex-
+                                                                      reason is the safeguard of objectivity in R E L I G I O N
+plicitly defined; seems to be synonymous with
+                                                                      which secures for R E L I G I O N the G E N E R A L coher-
+ACTUALITY when used as a noun, and with the
+                                                                      ence denied to hysteria (p. 64). Also, reason
+CREATIVE PROCESS when used as a verb or verbal
+                                                                      mocks at majorities (p. 66). Cf. also pp. 30, 42,
+noun. Cf. also pp. 16 (self-realization of E X I S -
+                                                                      47, 57, 64, 73, 91, 95, 104 (reason for the
+T E N C E ) , 17 (greater reality), 25, 69 (unreal, G O D ' S
+                                                                      W O R L D ) , 111, 119,    125,   132,   141, 151, 154,       155,
+reality), 93 (real U N I T Y ) , 95 (realization in FACT,
+                                                                      156,   158,     160, RATIONALISM, and R E L I G I O N , R A -
+realization of a PURPOSE); 100, 102 and 119 (real                                18
+                                                                      TIONAL. ]
+W O R L D ) ; 110 (real transmission), 115 (realization
+of C O N T R A S T under I D E N T I T Y ) , 117 (reality), 118
+                                                                      Reflection  See CONSCIOUSNESS, R E F L E C T I V E .
+(VALUE realized), 125, 126 (VIVID realization),
+                                                                      Cf. also pp. 48 (PROCESS of reflective FORMA-
+131 (root of reality), 141 (ultimate reality), 142,                   TION), 52, 54, 102 (reflective PERCEPTIVITY, re-
+146, 151, 152 (growth of reality), 153 (realization                   flective OCCASION).
+of K N O W L E D G E , PROCESS of realization), 154 (re-
+alization in the W O R L D , CONCEPTUAL realiza-                      Relation, Relationship, Relative   [Never explic-
+tion), 156, 158 (deeper realities). 17 ]                              itly defined or used in such a way as to make its
+   17                                                                    18
+      There are some non-technical occurrences of this term not re-         There are some non-technical occurrences of this term not re-
+flected in this entry.                                                flected in this entry.
+
+                              [222]                                                                 [223]
+                     GLOSSARY                                                            GLOSSARY
+meaning clear. Cf. pp. 16, 25 (GRADES of rela-                   Religion     1. The force of B E L I E F cleansing the
+tionship), 57, 59; 76 and 131 (interrelations); 80               inward parts (pp. 15, 58). 2. The art and the the-
+(intelligible relations), 89 (correlate), 96-97, 99,             ory of the internal L I F E of man, so far as it de-
+102 (various relationships, correlative), 103 (rela-             pends on the man himself and what is permanent
+tive depths of ACTUALITY), 108 (relatively A B -                 in nature (pp. 16, 58). 3. W h a t the INDIVIDUAL
+STRACT), 116, 118 (physical relationships), 125,                 does with his own solitariness (pp. 16-17, 47, 58).
+134, 143 ( O R D E R E D relationships), 145, 154, 157           4. RITUAL hero-worship joined to E M O T I O N by
+(relative subordination, complex of relation-                    mythical B E L I E F wherein the object of hero-wor-
+ships), 159, and R E L E V A N C E . ]                          ship is a P E R S O N (pp. 26-27; cf. M A G I C ) . 5. The
+                                                                last refuge of human savagery, and the main in-
+Relevance      [Never explicitly defined; closest is            strument for progress (p. 37). 6. W O R L D - L O Y -
+                                                                ALTY (p. 60). 8. The direct A P P R E H E N S I O N that,
+on p . 112. It seems that relevance is the M E A S U R E
+of how much I D E N T I T Y is maintained between an            beyond the happiness and pleasure induced by
+                                                                the QUALITIES of human E X P E R I E N C E S , there re-
+ACTUAL G R O U N D and   its N O V E L C O N S E Q U E N T in
+                                                                mains the function of what is ACTUAL and pass-
+the CREATIVE PROCESS. The greater the M E A S U R E
+                                                                ing, that it contributes its QUALITY as an IMMOR-
+of I D E N T I T Y between G R O U N D and C O N S E -
+                                                                TAL FACT to the O R D E R which inFoRMS the
+Q U E N T , the greater the relevance of G R O U N D to
+                                                                W O R L D (p. 80). 9. The longing of the spirit that
+C O N S E Q U E N T , and similarly with irrelevance. Ir-
+                                                                the FACTS of E X I S T E N C E should find their justifi-
+relevance seems sometimes synonymous with
+                                                                cation in the nature of E X I S T E N C E (p. 85). 19
+C O N T R A S T (e.g., p. 115). Cf. also pp. 14, 20, 31,
+43; 90 and 151 (proportion of relevance); 113-
+                                                                Religion,   Communal          Generic term for all pre-
+114, 117 (degree of relevance), 118 (relevance of
+                                                                RATIONAL religion; leads to morbid        exaggeration
+C O N C E P T S ) , 150 (relevance of various E L E -
+MENTS), and    GRADE.]                                           " This term occurs on over 80% of the pages in the book.
+
+                          [224]                                                              [225]
+                         GLOSSARY                                                          GLOSSARY
+of national self-CoNSCiousNESS (cf. pp. 41-43).                      as one finds in mysticism), or the E M O T I O N A L B E -
+Cf. also p p . 36, 38, 68, and R E L I G I O N .                     LIEF in direct contact with a divine PERSONALITY
+                                                                     (such as one finds in COMMUNAL R E L I G I O N ) . Cf.
+Religion,    Doctrinal       A SYSTEM of G E N E R A L               pp. 63-64. 4. Interdependent with descriptive
+T R U T H S which have the effect of transFoRMiNG                    METAPHYSICS in order to scrutinize and fix the
+CHARACTER when they are sincerely held and                           meanings of its terms (pp. 79, 83) [It would seem
+VIVIDLY A P P R E H E N D E D (p. 15). Cf. also pp.                  that recognition of religion's dependence upon
+13-14, 16, 30, 32, 50-52, 56, 61-63, 68-69,                          descriptive METAPHYSICS is the RELATION that
+73_74 ( 77; 86 and 104 (METAPHYSICAL doctrines),                     rationalizes religion (cf. pp. 82-85).] Cf. also pp.
+124,    144,   150,    RELIGION,       and   TRUTH,       RELI-      32-33, 40, 47, 52, 54, 58, 142.
+GIOUS.
+                                                                     Religion, Topic of INDIVIDUALITY in COMMU-
+                                                                     NITY (p. 88). Cf. also p. 125.
+Religion, Rational          1. R E L I G I O N whose B E L I E F S
+and RITUALS have been reorganized with the aim
+                                                                     Reversion,    Reverse, Revert   T h e undoing of the
+of making R E L I G I O N the central E L E M E N T in a
+                                                                     SYNTHESIS exhibited in the G R O U N D ; reversion is
+coherent O R D E R I N G of L I F E both in the elucida-
+                                                                     the PROCESS whereby PHYSICAL OCCASIONS come
+tion of its thought and in the direction of conduct
+                                                                     to be M E N T A L OCCASIONS in the next phase of the
+toward a U N I F I E D PURPOSE commanding ethical
+                                                                     CREATIVE PROCESS due to an exhibition of IDEAL
+approval (p. 31). 2. T h e wider CONSCIOUS reac-
+                                                                     NOVELTY in the     C O N S E Q U E N T ' S RELATION to   its
+tion of men to the U N I V E R S E in which they find
+                                                                     GROUND     (pp. 116-117). A synonym for ANALY-
+themselves (p. 42). 3. Religion centered upon
+                                                                     SIS. Cf. also pp. 43, 101, and C O N C E P T . . h^^7 fj
+RELIGIOUS I N T U I T I O N in which divine PERSONAL-
+ITY is an inference —as distinct from the direct,                    Ritual   1. The habitual performance of D E F I -
+private I N T U I T I O N of a divine PERSONALITY (such              NITE actions which have no direct RELEVANCE to
+                              [226]                                                           [227]
+                   GLOSSARY                                              GLOSSARY
+the preservation of the physical organisms of the    its definition is given; its EXISTENCE may be in-
+actors (p. 20). 2. The primitive outcome of su-      ferred from what is called "the other route" on
+perfluous energy and leisure (p. 20). Cf. also pp.   p. 102, as contrasted with the PHYSICAL ROUTE.
+ 17-19, 21-26, 28, 31-32, 42, MAGIC, and             Whitehead speaks of the route of MIND later on
+EMOTION.
+                                                     pp. 108-110.] That which links this bodily LIFE
+                                                     with a corRELATiVE mental LIFE (p. 102),
+Route [Never explicitly defined as a generic         ROUTE, PHYSICAL, and ROUTE.
+term; closest is on pp. 102-103. This seems to be
+a general name for the various possible modes of     Route,   Physical   That which links together
+TEMPORAL succession. Whitehead says that from        PHYSICAL OCCASIONS as successive TEMPORAL in-
+any given PHYSICAL OCCASION, there are two           cidents in the LIFE OF A BODY (p. 102). Cf. also
+basic routes of CREATIVE passage: one toward an-     pp. 108-110, ROUTE, MENTAL, and ROUTE.
+other PHYSICAL OCCASION; the other toward a
+DERIVATIVE, REFLECTIVE OCCASION. A physical
+                                                     Self-interest The FEELING or EMOTIONAL tone
+route apparently tends to remain physical, and a     of SELF-VALUATION possessed by an ACTUAL EN-
+MENTAL route remains MENTAL by "INHERI-
+                                                     TITY. The INTEREST of what one's EXISTENCE, as
+ TANCE from the antecedent members of the
+                                                     in that of an EPOCHAL OCCASION, comes to; the
+ route," an INHERITANCE which may be either fa-
+                                                     ultimate ENJOYMENT of being ACTUAL (p. 100).
+ vored or obstructed by the "environment" (pp.
+                                                     Cf. also pp. 80, VALUE, and SELF-VALUE.
+ 109-110). Cf. also pp. 89 (route of ANALYSIS), 92
+ (route of TEMPORAL succession), ROUTE, PHYSI-
+                                                     Self-Value The UNIT FACT which EMERGES (p.
+CAL, and ROUTE, MENTAL.]
+                                                     101). [Also, this is apparently a type of SELF-IN-
+Route, Mental [The term "mental route" is not        TEREST (p. 100).] Cf. also pp. 59, 98 (self-preser-
+
+explicitly employed in the text in the place where   vation), pp. 99 (self-CoNTRAST), 102, 106 (self-
+                       [228]                                                [229]
+                      GLOSSARY                                                     GLOSSARY
+sustaining), 146 (self-sufficient), 146 (self-satis-        G E N E R A L statements (e.g., pp. 31, 78, 127),
+                                                                                                      and
+fied), 156 (self-destruction), 158, and S E L F - I N -     is synonymous with "precise statements" (e.g.,
+TEREST.                                                     pp. 130). Cf. also pp. 139, 149.
+
+Sign,  Signification, Significance See E X P R E S -        Synthesis     The U N I O N of w h a t is already A C -
+SION. Cf. pp. 129, 131-132, 133 (EXPRESSIVE                 TUAL with what is, for that OCCASION, N E W for
+sign).                                                      that OCCASION; the U N I O N of the ACTUAL
+                                                            G R O U N D with the N O V E L C O N S E Q U E N T (p. 151).
+Society          [Never explicitly defined; closest is on   A synonym for F U S I O N . Cf. also pp. 35, 93-94,
+p. 108, where it evidently means the totality of            98, 103, 117-118, 153, G O D , CREATIVITY, LIMI-
+E N T I T I E S , both ACTUAL and I D E A L , considered    TATION, and F O R M S , IDEAL.
+together. It seems to be used interchangeably
+with COMMUNITY, except that a C O M M U N I T Y             System      [Never explicitly defined or used in a
+may also be a subset of the SOCIETY (p. 110).               context which makes its meaning clear. It most
+Since it is unclear what the relationship is be-            often is applied to arrangements of IDEAS and
+tween the ordinary use of the term "society" and            thoughts, but is curiously applied to G O D on p.
+this metaphysical definition, all occurrences of             154: " G O D is the one systematic, complete FACT,
+the term are given below. Cf. also pp. 16, 23, 35,          which is the antecedent G R O U N D conditioning
+39, 48, 75, 87, 97, 108, 137.]                              every CREATIVE act.'' It seems that if an E N T I T Y
+                                                            can be a systematic FACT, then the term "sys-
+Statements,   Exact T h e M E D I A by which I D E N -      t e m " must have more than merely descriptive
+TICAL INTUITIONS into the W O R L D can be I D E N T I -    force. Cf. pp. 15 (system of G E N E R A L T R U T H S ) ,
+FIED amid a wide variety of circumstances (p.               18 (system of B E L I E F S ) , 35 (social system); 50 and
+144). Presumably this is to be contrasted with              150 (METAPHYSICAL system), 51 (systematic I N -
+                          [230]                                                        [231]
+                        GLOSSARY                                                                GLOSSARY
+
+TERPRETATION),  56, 101 (systematic theory), 124                    plicity of things); 16-17, 43, 49, 56, 58, 61, 63,
+(coherent system); 129 and 130 (system of IDEAS);                   64, 67, 124, 143, and 156 (nature of things); 25,
+50, 130 and 141 (system of thought), 143 (system-                  26 (hero-thing), 28 (higher things); 41, 66, and
+atized scheme), 145 (exact system, system of                        134 (rightness of/in things); 87 (ACTUAL things),
+philosophic thought, philosophic system, system                    95, 97, 100, 101 ( E M E R G E N T thing), 103, 105
+of DOGMAS), 149 (DOGMATIC systems).]                               (scheme of things), 106 ( E X I S T E N T thing, C R E -
+                                                                   ATED thing), 124, 137, 143 ( O R D E R of things),
+
+Temporality,     Temporal       See T I M E , and W O R L D ,      143-144 (disposition of things), 155 (mortal
+TEMPORAL.                                                          things), P E R C E P T I O N , RELEVANCE, and E N -
+                                                                   JOYMENT. 2 0
+
+Thing       (Actual)  A L I M I T E D , elicited F E E L I N G -
+VALUE, which is ANALYZABLE as the outcome of                       Time       (Lapse of) 1. The renovation of the
+G R A D E D grasping of the E L E M E N T S of the U N I -         W O R L D with IDEAS (p. 114). Cf. also NOVELTY.
+VERSE into the U N I T Y of one FACT (p. 150). [This               2. The M I N D of space (p. 114 [quoted approv-
+technical use of the term " t h i n g " seems distinct             ingly from Samuel Alexander]). 3. (Passage of
+from its generic use in the text—often to distin-                  time) The journey toward the gathering of N E W
+guish inanimate from animate beings. T h a t dis-                  IDEAS into ACTUAL FACT (p. 159). [Presumably,
+tinction is not ultimate for Whitehead, and it                     " t i m e " and "temporal passage," "temporal suc-
+would seem that both animate and inanimate                         cession," and a number of other words White-
+E N T I T I E S are "actual things" in the technical
+                                                                   head uses in this manner are at this point inter-
+sense of the term. Nevertheless, all generic occur-
+                                                                     20
+rences of the term " t h i n g " are given below. The                   There are numerous non-technical occurrences of the word
+                                                                   "thing" not reflected in this entry. I have also omitted all occurrences
+reader may decide which are technical and which                    of terms such as "something," "nothing," "anything," and "every-
+are generic occurrences.] Cf. also pp. 15 (multi-                  thing."
+
+                             [232]                                                                 [233]
+                         GLOSSARY                                                          GLOSSARY
+
+changeable.] Cf. also pp. 53-54, 89, 91, 160                         mentary truths, proportion of truth), 153 and
+(MEASURES of time), and W O R L D , T E M P O R A L . 2 1            T R U T H , RELIGIOUS.]
+
+
+                                                                     Truth, Religious (or Spiritual)         1. T R U T H deal-
+Truth, True [Never explicitly defined; closest is
+                                                                     ing explicitly with VALUES, bringing to C O N -
+on p. 124. By implication, truth here seems to
+                                                                     SCIOUSNESS that permanent side of the U N I V E R S E
+mean something like "success in INTERPRETA-
+                                                                     we care for and thus providing a meaning, in
+T I O N . " Our A P P R E H E N S I O N of a G E N E R A L truth
+                                                                     terms of VALUE, for our own E X I S T E N C E . Devel-
+is not dependent upon its accurate verbal E X -
+                                                                     oped from K N O W L E D G E acquired when our ordi-
+PRESSION (p. 126). Also, truth progresses in evolv-
+                                                                     nary senses and intellectual operations are at
+ing notions and framing C O N C E P T S which strike
+                                                                     their highest pitch of discipline (p. 124); the G E N -
+more deeply into the root of REALITY, and dis-
+                                                                     ERALIZATION of final truths first P E R C E I V E D as
+carding artificial ABSTRACTIONS and partial met-
+                                                                     E X E M P L I F I E D in particular instances (p. 124).
+aphors (p. 131). Cf. also pp. 13 (ELEMENTARY                         The conversion of the Gentiles is both the test of
+truths); 14-15, 54 and 126 ( G E N E R A L truths); 23,              truth and the effect of truth. 2. Intermediate rep-
+25 (symbolic truth), 28, 32, 43 (true description),                  resentations enshrined in modes of worship, pop-
+58, 61, 63 ( G O D as a truth); 65 and 124 (arithmeti-               ular RELIGIOUS literature, and art which play a
+cal truth); 71, 75, 77 (discernment of truth),                       great part in RELIGIOUS L I F E (p. 147). Cf. also
+78-80, 95, 106, 119,125,127-128, 130-131,133,                        pp. 14-15, 63, 76, 123, 136, 147 and R E L I G I O N ,
+138 (effect of truth, test of truth), 142 (finite                    DOCTRINAL.
+truths), 145 ( E S S E N C E of truth, exact truth, M E A -
+SURE of truth), 149 (STATEMENT of truth, comple-                     Unit, Unity, United, Unified, Unify,        Union,
+  21
+                                                                     Unison     [Never explicitly defined as a generic
+     There are numerous non-technical occurrences of this term not
+reflected in this entry.                                             cluster of terms or used in such a way as to make
+                              [234]                                                            [235]
+                        GLOSSARY                                                         GLOSSARY
+its meaning clear. However, it is often associated                ligible by which to I N T E R P R E T the confusion of
+with the PROCESS of CREATIVE SYNTHESIS. Cf.                       IMMEDIATE detail (p. 47). Cf. also pp. 32 (univer-
+pp. 31 (unified PURPOSE), 36 (INDIVIDUAL as R E -                 sal VALIDITY), 34, 54, 60, 62, 67,        135,   138,   158,
+LIGIOUS unit), 38 (social unity), 39 (tribal unit), 73            and solitariness in R E L I G I O N # 3 , #4).
+(PERSONAL unity), 93 ( R E A L unity), 100 (unifica-
+tion of the U N I V E R S E , atomic unit), 101 (unit
+                                                                  Universe     1. T h a t which is comprehensive of all
+FACT), 103 (CREATED unit of F E E L I N G ) , 112 (unity
+                                                                  there is (p. 89). 2. T h a t which is constituted by
+of F E E L I N G ) , 113 ( A E S T H E T I C unity), 114 (union
+                                                                  the   TEMPORAL W O R L D and      its FORMATIVE E L E -
+with the ACTUAL G R O U N D ) , 118 (unity of a blind
+                                                                  MENTS     (p. 90). 3. The all-inclusive SOCIETY
+PERCEPTIVITY), 145, 150 (unity of one FACT), 151
+                                                                  which every E N T I T Y requires in order to E X I S T ,
+(SYNTHESIS as union), 152 (union of the F O R M S ,
+                                                                  because every E N T I T Y is social (p. 108). 4. A
+unison), 155 (union with G O D ) , and U N I T S ,
+                                                                  PROCESS of ATTAINING instances of D E F I N I T E E X -
+PRIMARY.]
+                                                                  PERIENCE out of its own E L E M E N T S , each of
+                                                                  which embraces the whole—both ACTUAL FACT
+Units,    Primary       T h e E P O C H A L OCCASIONS
+which compose the ACTUAL C O M M U N I T Y ; each                 and IDEAL F O R M (p. 112). Cf. also pp. 24, 42, 55,
+has in its nature a reference to every other mem-                 59, 60 (objective universe), 61-62, 64, 70, 73, 79
+ber of the C O M M U N I T Y ; each unit is a microcosm           (description of the universe); 83, 90-91 and 108
+representing in itself the entire all-inclusive U N I -           (all-inclusive universe); 86 (ACTUAL universe), 87;
+VERSE (p.    91).                                                 98 and 156 (total universe); 100-101 (whole uni-
+                                                                  verse, UNIFICATION of the universe), 119, 124
+Universality,   Universal,  Universalization A                    (permanent side of the universe), 132 ( O R D E R E D
+disconnection from IMMEDIATE surroundings; an                     universe), 149 (MEASURE of the Universe), 150,
+endeavor to find something permanent and intel-                   160.
+                            [236]                                                           [237]
+                        GLOSSARY                                                           GLOSSARY
+
+Validity, Objective               Whatever has objective va-      109,      113     (EXPERIENCED       value),   118-119
+lidity is capable of partial E X P R E S S I O N in terms of     ( K N O W L E D G E value, value of the W O R L D ) , 124,
+
+ABSTRACT C O N C E P T S , SO that a coherent doctrine            128, 143 ( A E S T H E T I C valuations), 144; 150 and
+arises which elucidates the W O R L D beyond the                  152 ( F E E L I N G value); 152 (depth of value), 153
+locus of the DOGMAS in question (p. 144). [It is                 (HARMONY of valuation, possibility of value), 154
+
+unclear whether all validity is "objective" valid-               (modes of value, E L E M E N T S of value), 157 (AC-
+ity in the text, but it seems not to be, given                   TUAL value), 158 (values of E X I S T E N C E ) , 159
+
+Whitehead's willingness to also speak of a " L I M -             (IDEAL values, valuation of the W O R L D ) , PUR-
+
+I T E D " validity.] Cf. also pp. 14 (valid RELIGIOUS            POSE, G O O D , S E L F - I N T E R E S T , SELF-VALUE,        and
+
+B E L I E F S ) , 32 ( L I M I T E D validity, UNIVERSAL va-     QUANTITY, INTENSIVE.
+
+lidity), 66 (objective validity), 130 (validity of a
+DOGMA).                                                          Value, Specific             As opposed to " b a r e v a l u e , "
+                                                                 which does not E X I S T , this is the C R E A T E D U N I T
+Valuation,     Value, Valuable          1. T h a t which it is   of F E E L I N G arising out of the specific mode of
+G O D ' S PURPOSE      to      ATTAIN   in   the   TEMPORAL      C O N C R E T I O N of the D I V E R S E E L E M E N T S . Specific
+
+WORLD;       inherent in ACTUALITY itself. All value             V A L U E - F E E L I N G S can be compared with one an-
+
+is DERIVATIVE of the SELF-VALUATION of ACTUAL                    other (p. 103). Cf. Value # 2 , and QUANTITY, I N -
+E N T I T I E S (p. 100). 2.
+                       The G R O U N D for the com-              TENSIVE.
+
+parability of SPECIFIC V A L U E - F E E L I N G S as M E A -
+SURED by their INTENSIVENESS (p. 103). Cf. also                  Vibration    A physical law which EXPRESSES the
+pp. 35, 56, 59 (ADJUSTMENT of values), 60 (GRAD-                 principle of C O N T R A S T under I D E N T I T Y ; this law
+ING of values, E M E R G E N C E of value), 80, 85               EXPRESSES the recurrence of C O N T R A S T within
+(pragmatic value), 88 (common value), 102                        IDENTITY type which enters into the ultimate na-
+(value-FEELiNG), 104 (ATTAINMENT of value),                      ture of atomic organisms. The possibility of M E A -
+                                [238]                                                          [239]
+                      GLOSSARY                                                      GLOSSARY
+SUREMENT     in the PHYSICAL W O R L D depends on              tian world), 76 (simple world), 80 (common world
+vibration (pp. 115-116).                                       of mutual A D J U S T M E N T ) , 85, 88 (natural world,
+                                                               world of E X P E R I E N C I N G ) , 94, 95 (FACTS of the
+Vivid   See E X P E R I E N C E , VIVID. Cf. also pp. 15       world, moral O R D E R of the world), 96, 98 (QUALI-
+and 137 (vivid A P P R E H E N S I O N ) , 24 and 25 (vivid    FIED by the world), 99 (consistency and inconsis-
+fancy, vivid effects, vivid acts, vivid FACT), 56             tency of the world), 104 ( R E A S O N for the world),
+(vivid record), 115 (vividness), 126 (vivid R E A L -          105 (foundations of the world), 106, 111 ( O R D E R
+IZATION).                                                     immanent in the world), 114, 119 (CREATURE
+                                                              world, O R D E R of the world, R E A L I T Y of the
+World    1. At once a passing shadow and a final              world, VALUE of the world, BEAUTY of the
+FACT, the shadow passing into the FACT, while                 world), 133, 135-136, 138 (objective world), 139
+yet the FACT is prior to the shadow (p. 87). 2. A             (complex world); 141 and 142 (world of appear-
+scene of solitariness in C O M M U N I T Y (p. 88).           ances, picture of the world), 143-144, 151 (FACTS
+3. (according to R E L I G I O N ) A mutually A D -           of the world, status in the world), 154 (IDEAL
+JUSTED disposition of T H I N G S , issuing in VALUE          world), 156 (saving the world, G O D sustains the
+for its own sake (pp. 143-144). Cf. also pp. 17               world, DERIVATIVE from the world, evolving
+(texture of the world); 22, 43, 64, 74 and 76 (mod-           world), 157-160, and all subsequent entries
+ern world); 24 (unfathomed world); 39, 87 and                 under " w o r l d . "
+113 (world as a whole); 40-42 (world-CoNSCious-
+NESS), 41 (world-CoNCEPT), 44, 48 (possible                   World, Actual   1. A world of E X P E R I E N C I N G ,
+worlds); 49, 62, 88, 95, 97, and 99 ( E V I L in the          thinking, and physical activity made up of a
+world); 50 (EXPRESSION of the world), 5 1 , 54-57,            COMMUNITY of many D I V E R S E E N T I T I E S which
+59 (objective world, C O N C E P T of the world); 62          contribute to or derogate from the common
+and 137 (civilized world); 68-69, 71, 75 (Chris-              VALUE of the total C O M M U N I T Y (p. 88). 2. The
+
+                           [240]                                                       [241]
+                       GLOSSARY                                                         GLOSSARY
+
+T E M P O R A L W O R L D (pp. 89-90); a C O M M U N I T Y of    spiritual world is to be thought of as DERIVATIVE
+E P O C H A L OCCASIONS (pp. 91-92). 3.   There is an            from the PHYSICAL W O R L D , although all that is
+actual world because there is an O R D E R in na-               said in the text (at the point where the "spiritual
+ture, and the actual world's E X I S T E N C E is the           w o r l d " is mentioned) is that there is an " E S S E N -
+way human beings K N O W that there is an O R D E R             TIAL reference" from one world to the other (p.
+
+in nature (p. 104). 4. The outcome of A E S T H E T I C          103). The spiritual world is later compared (as
+O R D E R D E R I V E D from the immanence of G O D (p.         that which " a s c e n d s " or preserves itself) with
+105). Cf. also pp. 59, 61, 69, 71, 100 ( R E A L                the PHYSICAL W O R L D (as that which " d e c a y s , "
+world), 109, 112-113, 119, 154-157, 159,                        or fails to preserve itself, p. 160). Together the
+W O R L D , and E L E M E N T S , FORMATIVE.                    spiritual world and PHYSICAL W O R L D make up
+                                                                the two aspects of the U N I V E R S E (p. 160).]
+World, Physical      [Never explicitly defined in the
+text; closest is on pp. 8 9 - 9 1 . This seems to be the        World, Temporal An ESSENTIAL incompleteness
+place where PHYSICAL OCCASIONS occur, and the                   (p. 92), beyond which we K N O W nothing, and
+place which provides conditions for the E M E R -               which, with its FORMATIVE E L E M E N T S , consti-
+GENCE of both the SPIRITUAL W O R L D and its                   tutes for us the all-inclusive U N I V E R S E (p. 90). Cf.
+M E N T A L OCCASIONS. Cf. also pp. 49, 76, 103,                also pp. 91, 95, 99, 100, 107, 152, 156-157,
+115-116, 153, 160.]                                             T I M E , P U R P O S E O F G O D , and W O R L D , ACTUAL.
+
+
+
+World, Spiritual    [Never explicitly defined; clos-            World-Loyalty    1. R E L I G I O N (p. 60). 2. The
+est is on pp. 102-103. It appears to be the realm               self-surrender to, and self-appropriation of, the
+in which M E N T A L OCCASIONS occur, as distinct               UNIVERSAL claim of R E L I G I O N by the spirit (p.
+
+from the PHYSICAL W O R L D in which PHYSICAL                   60). 2.   The   I N T U I T I O N of IMMEDIATE OCCASIONS
+
+OCCASIONS occur. There is little doubt that the                 as failing or succeeding in reference to the IDEAL
+                            [242]                                                           [243]
+                    GLOSSARY                                                     GLOSSARY
+RELEVANT to them (pp. 60-61; cf. CHARACTER).            still give an incomplete "definition" of God in a
+3. An APPREHENSION of CHARACTER perma-                  glossary of Whitehead's technical terms. Yet,
+nently inherent in the nature of THINGS (p. 61).        Whitehead said only few years after Religion in
+                                                        the Making that relating God and the world
+Zest (of/for Life), and perhaps Zeal [Never ex-         (which is what we do in the act of defining God) is
+plicitly defined; both seem to anticipate White-        a matter for "interpretation," 22 and this I believe
+head's later term "adventure." Cf. pp. 80, 87,          stands in the place of a definition (for one would
+119, 128, 146.]                                         certainly feel more secure in one's knowledge of
+                                                        something with a definition than with an inter-
+   A N O T E ON WHITEHEAD'S VIEW OF GOD IN
+                                                        pretation). Using an interpretation instead of a
+            RELIGION IN THE     MAKING
+                                                        definition indicates an admission of greater falli-
+                                                        bility on the part of the thinker (although a defi-
+                                                        nition is certainly not itself beyond all ques-
+While there is a glossary entry under the term
+                                                        tioning).
+" G o d " above, it is not a "definition" of God, for
+several reasons. First of all, Whitehead says so           In any case, Whitehead's concept of God is not
+many different things about God which might de-         finished developing (which is ironically appro-
+fensibly be included in a definition that the task      priate) in Religion in the Making, and arguably,
+of defining God becomes impractical. Second,            for the human mind at least, cannot ever be fin-
+and more important (for Whitehead), God is not          ished developing, even in principle. A more "ma-
+the sort of thing one defines after the manner of a     ture" account of God was to be published by
+glossary. God is incompletely known by us, al-          Whitehead only a few years after Religion in the
+though we do strive for increasingly adequate           Making, and, according to some, God plays less
+metaphors as our religious understanding grows            22
+                                                           Cf. Whitehead, Process and Reality, ed. Donald W. Sherburne and
+(cf. RM 38ff., 131-132). For all that, one might        David Ray Griffin, corr. ed. (New York: Free Press, 1978), p. 341.
+
+                        [244]                                                        [245]
+                        GLOSSARY                                                         GLOSSARY
+of a central role in Process and Reality than in                       For whatever else it may be, a definition is a
+this earlier book. Thus, it can be (and has been)                   linguistic articulation of some intuition, and as an
+argued that Religion in the Making gives God a                      articulation, it always remains partial and incom-
+more exaggerated role than Whitehead's "ma-                         plete. As Whitehead puts it, language is " a lim-
+ture" (by about three, albeit important, years)                     ited mode of expressing such ideas as have been
+judgment would allow. It would be difficult to                      frequently entertained, and urgently needed, by
+show convincingly that Whitehead thought God                        the group of human beings who developed that
+less important to the cosmos in 1929 than he did                    mode of speech" (RM 34). Taken to heart, this
+in 1925. But perhaps it would be easier to show
+                                                                    alone might prevent us from attempting a "defi-
+that by the later date he realized that he knew
+                                                                    nition" of God, but there is no reason it should
+less about the nature of God than he believed he
+                                                                    prevent us from talking about God. The key is to
+knew three years earlier; certainly he made fewer
+                                                                    keep our various levels of meaning ever before
+direct, unqualified claims about God in the later
+                                                                    us. Whitehead says:
+book. His increased caution (and humility) would
+be in some ways explained by the fact that he had                        . . . in expressing our conception of God, words
+undertaken a study of language and its limita-                          such as "personal" and "impersonal," "en-
+tions in the interim.23 In any case, Whitehead's                        tity," "individuality," "actual," require the
+humility is itself legendary, and one would expect                      closest careful watching, lest in different connec-
+that the greatest minds come to know their own                          tions we should use them in different senses, not
+limitations better with the passage of time—to                          to speak of the danger of failing to use them in
+which the appropriate response is greater hu-                           any determinate sense.
+mility.                                                                      But it is impossible to fix the sense of funda-
+                                                                        mental terms except by reference to some definite
+ 23
+    Cf. Whitehead, Symbolism: Its Meaning and Effect (New York:         metaphysical way of conceiving the most pene-
+Macmillan, 1927; repr. New York: Fordham University Press, 1958).       trating description of the universe [RM 78-79].
+                             [246]                                                          [247]
+                         GLOSSARY                                                              GLOSSARY
+This has been, to say the least, a very influential                 come actual in Religion in the Making. White-
+idea (although hardly new—it can be found in vari-                  head's triad of "formative elements" is unusual,
+ous mutations in Erasmus, St. Bonaventure, Nich-                    insofar as his "trinity" contains only one divine
+olas of Cusa, Moses Maimonides, Duns Scotus,                        member.25 The formative elements are God, the
+Giambattista Vico, Joseph Butler, and others who                    realm of ideal forms or ideal entities,26 and creativ-
+employ theories of indirect speech about God). Yet,                ity. These three formative elements bring epochal
+somehow this bit of wisdom seems to have been                      occasions into actuality by their mutual limitation;
+lost at some time in the early nineteenth century                  this relation of mutual limitation is called "qualifi-
+(perhaps due to the influence of Fichte, or his brand              cation" by Whitehead, and when it results in an
+of Kantians, or other absolute idealists such as                   epochal occasion, he calls the process "creative
+Hegel and Schelling). Whitehead has been instru-                   synthesis." The qualification relation is the one
+mental in recovering the wisdom of clear but indi-                 whereby the epochal occasion has all the other ep-
+rect speech about God.                                             ochal occasions as a part of its own nature under
+   An excellent example of Whitehead's influence                   the aspect of the ideal forms, creativity, and God.
+in this regard is that Charles Hartshorne (while                   In this way at least, God is in everything, and "the
+certainly not a negative theologian or firm advo-                  inclusion of God in every creature shows itself in
+cate of indirect speech) built his entire argument
+                                                                      25
+for the "divine relativity" on this insight about                        Whitehead does later work out the threefold nature of creative
+                                                                   synthesis and the role of the deity itself therein in Process and Reality
+keeping levels of meaning (or "abstraction")                       (cf. pp. 87-88), but not in Religion in the Making.
+                                                                      26
+clearly separated and well-specified.24                                  It is peculiar, and has been noted by scholars before, that White-
+                                                                   head should have referred to "ideal forms" or "ideal entities" as
+  A word should also be said about the triadic ac-                 "eternal objects" both before Religion in the Making (in Science and
+                                                                   the Modem World, 1925), and after it (in Process and Reality). Yet
+count of how "epochal occasions" emerge and be-                    the term "eternal object" never occurs in Religion in the Making. I
+                                                                   suspect that there is no important difference between what Whitehead
+  24
+     Cf. Hartshorne, The Divine Relativity (New Haven: Yale Uni-   means by "eternal objects" in other works, and what he means by
+versity Press, 1948), pp. 2-6.                                     "ideal forms" in RM.
+
+                             [248]                                                                  [249]
+                       GLOSSARY                                                              GLOSSARY
+the determination whereby a definite result is emer-              hensive than the third conception alone. It might
+gent. God is that non-temporal actuality which has                be said, however, that Whitehead's God is suffi-
+to be taken account of in every creative phase"                   ciently different from the three historical versions
+(RM 94). Here we have the basis of what some                      he discusses to constitute a fourth option which
+scholars (e.g., Hartshorne) say is Whitehead's pa-               demonstrates the partialness of the other three.
+nentheism.                                                          In a synthetic philosophy such as Whitehead's,
+   Other scholars, such as William Christian,                    partial truths are not so much falsified by being re-
+argue that Whitehead never was a panentheist,                    placed by other, incompatible accounts, as shown to
+in that the fact that God must be taken account                  be false due only to incompleteness. Thus, in Hege-
+of in every occasion is not the same as the idea                 lian fashion, the partial truth is taken up as a special
+that God must take account of every occasion.27                  case into newer, more complete truths. If Whitehead
+   Whitehead holds that history had produced, up                 leans toward the third, pantheistic conception, then,
+to his day, three distinctly different notions of God:           this is because of its greater inclusiveness and com-
+the Eastern Asiatic, the Semitic, and the Pantheis-              prehensiveness. Much more than this cannot be said
+tic. The first is impersonal and immanent; the sec-              about Whitehead's conception/definition of God
+ond is personal and transcendent; and the third is               without a full-scale study, and of course this has been
+like the second "except that the actual world is a               done before by many excellent scholars.28
+phase within the complete fact which is the ulti-                   28
+                                                                       In particular I would recommend two essays by Charles
+mate individual entity" (RM 68; cf. also ISO). Inso-             Hartshorne: "Is Whitehead's God the God of Religion?" and
+far as he chooses among these at all, Whitehead                  "Whitehead's Idea of God." Although Hartshorne himself expresses
+                                                                 some later dissatisfaction with "Whitehead's Idea of God," the diffi-
+chooses the third, and supplements it with elements              culties with it do not greatly reduce its value. Both these essays have
+of the first and second, rendering it more compre-               been reprinted in an accessible volume by Hartshorne, Whitehead's
+                                                                 Philosophy: Selected Essays (Lincoln: University of Nebraska Press,
+                                                                 1972), pp. 63-110. As background material for Religion in the Mak-
+  27
+   Cf. Christian, An Interpretation of Whitehead's Metaphysics   ing, Whitehead's chapter on God in Science and the Modern World
+(New Haven: Yale University Press, 1959), pp. 404ff.             should be consulted (pp. 173-179).
+
+                            (250]                                                                [251]
+

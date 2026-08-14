@@ -1,0 +1,468 @@
+# 8
+
+**source:** pdf · **section:** solutions
+**file:** Impossible_Pilot_Wave
+---
+
+
+    Reprinted from F oundations of P hysics                                            Vol. 12, No. 10, October 1982
+                                                                                                  Printed in Belgium
+
+    On the Impossible Pilot Wave
+                    J. S. Bell1
+                    Received April 13, 1982
+
+                    The strange story o f the von Neumann impossibility proof is recalled, and the
+                    even stranger story o f later impossibility proofs, and how the impossible was
+                    done by de Broglie and Bohm. Morals are drawn.
+
+    1. INTRODUCTION
+
+    When I was a student I had much difficulty with quantum mechanics. It was
+    comforting to find that even Einstein had had such difficulties for a long
+    time. Indeed they had led him to the heretical conclusion that something was
+    missing in the theory(1): “I am, in fact, rather firmly convinced that the
+    essentially statistical character of contemporary quantum theory is solely to
+    be ascribed to the fact that this (theory) operates with an incomplete
+    description of physical systems.”
+          More explicitly,<2) in “a complete physical description, the statistical
+    quantum theory would ... take an approximately analogous position to the
+    statistical mechanics within the framework of classical mechanics . . . . ”
+          Einstein did not seem to know that this possibility, of peaceful coex­
+    istence between quantum statistical predictions and a more complete
+    theoretical description, had been disposed of with great rigor by J. von
+    Neumann.(3) I myself did not know von Neumann’s demonstration at first
+    hand, for at that time it was available only in German, which I could not
+    read. However I knew of it from the beautiful book by Born,<4) Natural
+    Philosophy o f Cause and Chance, which was in fact one of the highlights of
+
+    ' CERN, Geneva.
+
+                                                          989
+                                              0015-9018/82/1000-0989S03.00/0 <E) 1982 Plenum Publishing Corporation
+990                                                                        Bell
+
+my physics education. Discussing how physics might develop Born wrote: “I
+expect ... that we shall have to sacrifice some current ideas and to use still
+more abstract methods. However these are only opinions. A more concrete
+contribution to this question has been made by J. v. Neumann in his brilliant
+book, Mathematische Grundlagen der Quantenmechanik. He puts the theory
+on an axiomatic basis by deriving it from a few postulates of a very plausible
+and general character, about the properties of “expectation values”
+(averages) and their representation by mathematical symbols. The result is
+that the formalism of quantum mechanics is uniquely determined by these
+axioms; in particular, no concealed parameters can be introduced with the
+help of which the indeterministic description could be transformed into a
+deterministic one. Hence if a future theory should be deterministic, it cannot
+be a modification of the present one but must be essentially different. How
+this could be possible without sacrificing a whole treasure of well established
+results I leave to the determinists to worry about.”
+       Having read this, I relegated the question to the back of my mind and
+got on with more practical things.
+       But in 1952 I saw the impossible done. It was in papers by David
+Bohm.<5) Bohm showed explicitly how parameters could indeed be
+introduced, into nonrelativistic wave mechanics, with the help of which the
+indeterministic description could be transformed into a deterministic one.
+More importantly, in my opinion, the subjectivity of the orthodox version,
+the necessary reference to the “observer,” could be eliminated.
+       Moreover, the essential idea was one that had been advanced already by
+de Broglie(6) in 1927, in his “pilot wave” picture.
+       But why then had Born not told me of this “pilot wave?” If only to
+point out what was wrong with it? Why did von Neumann not consider it?
+More extraordinarily, why did people go on producing “impossibility”
+proofs,<7~12) after 1952, and as recently as 1978(I3,14)? When even Pauli,<l5)
+Rosenfeld,'16’ and Heisenberg,<17) could produce no more devastating
+criticism of Bohm’s version than to brand it as “metaphysical” and
+“ideological?” Why is the pilot wave picture ignored in text books? Should it
+not be taught, not as the only way, but as an antidote to the prevailing
+complacency? To show that vagueness, subjectivity, and indeterminism, are
+not forced on us by experimental facts, but by deliberate theoretical choice?
+       I will not attempt here to answer these questions. But, since the pilot
+ wave picture still needs advertising, I will make here another modest attempt
+to publicize it, hoping that it may fall into the hands of a few of the many to
+ whom even now it will be new. I will try to present the essential idea, which
+ is trivially simple, so compactly, so lucidly, that even some of those who
+ know they will dislike it may go on reading, rather than set the matter aside
+for another day.
+On the Impossible Pilot Wave                                               991
+
+2. A SIMPLE MODEL
+
+    Consider a system whose wavefunction has one discrete argument, a,
+and one continuous argument, x, as well as time, t:
+
+                                     ¥(a, x, t)
+                                     0 = 1 , 2,... N
+                                     — 00 < X < + 0 0
+
+It might be a particle free to move in one-dimension and having an “intrinsic
+spin.” Consider “observables” O which involve only the spin, and so can be
+represented by finite matrices:
+
+                           O'Pia, x) = Y , 0(a, b) V(b, x)
+
+To “measure” such an observable, suppose that we can contrive an
+interaction, with some external field, which is represented by the addition to
+the Hamiltonian of a term<3>
+                                     gO(fi/i)(8/8x)
+
+where g is a coupling constant. Suppose for simplicity that the particle is
+infinitely massive, so that this interaction Hamiltonian is the complete
+Hamiltonian.(3) Then the Schrodinger equation is readily solved. It is
+convenient to introduce the eigenvectors of 0
+
+                                          a„(a)
+
+and corresponding eigenvalues
+
+                                            On
+
+defined by
+
+                                   0a„(a) = 0 „an(a)
+
+Then the initial state can be expanded
+
+                               '{'(a, x,o) = X          «„(«)
+                                             n
+
+and the solution of the Schrodinger equation is
+
+                        ^(a, x, I) = X 0 n(x ~ g O „ t ) a n ( a )
+992                                                                         Bell
+
+That is to say, the various wavepackets <P move apart from one another, and
+after a sufficiently long time, whatever may have been the case initially,
+overlap very little. Then any probable result of a position measurement on
+the particle will correspond to a particular eigenvalue On, a particular On
+being obtained with probability given by the norm of the corresponding
+wavepacket <Pn, i.e., by the strength of the corresponding eigenvector in the
+expansion of the initial state. We have here a model of something like a
+Stern-Gerlach experiment. Conventionally the process is said “to measure
+observable O with result On."
+     To complete this picture, a la de Broglie and Bohm, we add to the
+wavefunction      a particle position
+
+                                         m
+
+If a position measurement is made at time t, then the result is X(t), but even
+when no measurement is made X(t) exists. The particle, in this picture,
+always has a definite position. The time evolution of particle position is
+determined by
+                       {d/dt)X(t) = j(X(t), t)/p(X(t), t)
+
+where
+                   p{x, t) = y            x, t) ^ a , x, t)
+                             a
+
+                   j(x, t ) = y ¥'*(a, x, t) gO{a, b) !P(b, x, /)
+                             a ,b
+
+Note that the Schrodinger equation implies the continuity equation
+
+                             (8/dt)p + (d/8x)j = o
+
+It is assumed that, over many repetitions of the experiment, various X(o)
+occur with the probability distribution
+
+                                    p(X(o), o)dX(o)
+
+where p is given as above in terms of the initial wavefunction. Then it is a
+theorem that the probability distribution over X{t) is
+
+                                    p(X(t), t) dX(t)
+
+This is the conventional quantum distribution for position, and so we have
+the conventional predictions for the result of the Stern-Gerlach experiment.
+For the experiment, despite all the talk about “spin,” is finally about position
+observations.
+On the Impossible Pilot Wave                                                993
+
+      Note that in this theory probability enters once only, in connection with
+initial conditions, as in classical statistical mechanics. Thereafter the joint
+evolution of P and X is perfectly deterministic.
+      Note that in this theory the wavefunction P has the role of a physically
+real field, as real here as Maxwell’s fields were for Maxwell. Quantum
+mechanics students sometimes have difficulty with the fact that in the pilot
+wave picture the particle position X and the argument of the wavefunction x
+are separate variables. But the situation, in this respect, is just that of
+Maxwell. He also had fields extending over space, and particles located at
+particular points. Of course the field at the particular point is that most
+immediately relevant for the motion of the particular particle.
+      Although P is a real field it does not show up immediately in the result
+of a single “measurement,” but only in the statistics of many such results. It
+is the de Broglie-Bohm variable X that shows up immediately each time.
+That X rather than P is historically called a “hidden” variable is a piece of
+historical silliness.
+      Note that from the present point of view the description of the
+experiment as “measurement” of “spin observable” O is an unfortunate one.
+Our particle has no internal degrees of freedom. It is guided however by a
+multicomponent field, and when this suffers the analogue of optical multiple
+refraction, the particle is dragged one way or another depending only on its
+initial position. We have here a very explicit illustration of the lesson taught
+by Bohr. Experimental results are products of the complete set-up, “system”
+plus “apparatus,” and should not be regarded as “measurements” of preex­
+isting properties of the “system” alone.
+
+3. THE HOLES IN THE NETS
+
+     It is easy to find good reasons for disliking the de Broglie-Bohm
+picture. Neither de Broglie(18) nor Bohm<19) liked it very much; for both of
+them it was only a point of departure . Einstein also<20) did not like it very
+much. He found it “too cheap,” although, as Born<20> remarked, “it was quite
+in line with his own ideas”.(21,22) But like it or lump it, it is perfectly
+conclusive as a counter example to the idea that vaguenes, subjectivity, or
+indeterminism, are forced on us by the experimental facts covered by
+nonrelativistic quantum mechanics. What then is wrong with the
+impossibility proofs? Here I will consider only three of them, the most
+famous (incontestably), the most instructive (in my opinion), and the most
+recently published (to my knowledge). More, and more details, can be found
+elsewhere. (9,23~25)
+                                                                                        153
+
+994                                                                              Bell
+
+      It will be useful to denote by
+
+                                  R (0, n o ),X (o ))
+
+the result of “measuring” O in the above way, for given initial X and     This
+function can be calculated in principle by solving first the Schrodinger
+equation for P and then solving the guiding equation for X. For some cases
+this has even been done explicitly/26,27> Note well that the values taken by R
+are the eigenvalues of O.
+     The vital assumption in the famous proof of von Neumann is that, for
+operators connected by a linear relation,
+
+                                    0 = pP + qQ
+
+the results R are similarly related:
+
+          r (o , n o ) , x(o ) ) = pr (p , n o ) , *(o)) + qR{Q, n o ) , *(o))
+
+Now this must certainly hold when averaged over X(o) to give quantum
+expectation values. But it cannot possibly hold before averaging, for the
+individual results R are eigenvalues, and eigenvalues of linearly related
+operators are not linear related. For example let P and Q be components of
+spin angular momentum in perpendicular directions
+
+                                P = S X,       Q —S y
+
+and let O be the component along an intermediate direction
+
+                                  0 = (P + Q) / ^ 2
+
+In the simple case of spin-1/2, the eigenvalues of O, P, Q, are all of
+magnitude 1/2, and the von Neumann requirement would read
+
+                             ±1/2 = (±1/2 ± l/2)A /2
+
+—which is impossible indeed. Because the de Broglie-Bohm picture agrees
+with quantum mechanics in having the eigenvalues as the results of
+individual measurements—it is excluded by von Neumann. His “very general
+and plausible” postulate is absurd.
+     More instructive is the Gleason-Jauch proof. I was told of it by J. M.
+Jauch in 1963. Not all of the powerful mathematical theorem of Gleason128’
+is required, but only a corollary which is easily proved by itself/9’ (The idea
+was later rediscovered by Kochen and Specker'11’; see also Belinfante'24’
+and Fine and Teller'29’.) Jauch saw that Gleason’s theorem implied a result
+On the Impossible Pilot Wave                                              995
+
+like that of von Neumann but with a weaker additivity assumption- -for
+commuting operators only
+
+                                     [p ,Q \
+Since the eigenvalues of commuting operators are additive, additivity of the
+“measurement” results is not manifestly absurd. Perhaps it seems
+particularly plausible when the commuting “observables” involved are
+“measured” at the same time. So let us go immediately to that case. It is
+sufficient to consider a complete set of orthogonal spin projection operators
+P„, i.e., a set such that
+                               Pn Pm - P mP n- P n $nm
+
+and
+
+                                      y p n= i
+                                       n
+The eigenvalues of such projection operators are all either zero or unity and,
+because the operators add to unity, the additivity hypothesis for
+“measurement” results means simply that on “measurement” one and only
+one of the operators will give unity, the others giving zero. It is easy to
+model this situation by an adaptation of the model described above. In the
+interaction Hamiltonian, gO is replaced by
+
+                                      y    g5 n Ap n
+                                       n
+
+The solution of the Schrodinger equation goes through as before in terms of
+simultaneous eigenvectors a of all the Pn. The various final wavepackets are
+displaced by distances gn. The particle is found finally in one of these
+wavepackets; and, if the gn are all different, this singles out one of the
+operators Pn as that for which the result of the “measurement” is unity
+rather than zero. However the Gleason-Jauch argument depends also on
+another assumption. For a given operator P, it is possible (when the
+dimension N of the spin space exceeds 2) to find more than one set of other
+orthogonal projection operators to complete it:
+
+                                 1 = P , + P 2 + P3...
+                                   = P, + P '+ P ( ...
+
+where P2... commute with P ,, and with one another, but not with P 2.... And
+the extra assumption is this: the result of “measuring” P, is independent of
+996                                                                          Bell
+
+which complementary set, P2... or P'2..., is “measured” at the same time. The
+de Broglie-Bohm picture does not respect this. Even though the two sets of
+operators have P, in common, the eigenvectors a are different, and the
+particle orbits X (t) are different, as well as P{t), for given X(o) and P(o).
+There is nothing unacceptable, or even surprising, about this. The
+Hamiltonians are different in the two cases. We are doing a different
+experiment when we arrange to “measure” P2... rather than P2... along with
+P{. The apparent freedom of the Gleason-Jauch argument from implausible
+assumptions about incompatible “observables” is illusory. In denying the
+Gleason-Jauch independence hypothesis, the de Broglie-Bohm picture
+illustrates rather the importance of the experimental set-up as a whole, as
+insisted on by Bohr. The Gleason-Jauch axiom is a denial of Bohr’s insight.
+      The proof of Jost(13) concerns unstable “identical” particles. He
+remarks that if decay times of similar nuclei were somehow determined in
+advance, by some parameters additional to the quantum wavefunction, then
+the nuclei would not be really identical and could not show the appropriate
+Fermi or Bose statistics. But again the difficulty disappears in the light of the
+pilot wave picture. The existing nonrelativistic version could not cope with
+beta decay. But it has no difficulty with alpha decay or fission (or even
+gamma decay<5)) when the unstable nuclei are regarded as composites of
+stable protons and neutrons. There is no problem in generalizing the de
+Broglie-Bohm picture to many particle systems.<5) The wavefunction is just
+that of ordinary quantum mechanics, and respects the usual symmetry or
+antisymmetry requirements. The added variables (in the simplest version of
+the theory(9,30,3l)) are just particle positions, and the measured probability
+distributions of these will be those of quantum mechanics. Recognizing that
+it is always positions that we are in the end concerned with, all the statistical
+predictions of quantum mechanics are reproduced. This includes those
+phenomena associated with “identity of particles”.<5) The anticipated
+difficulty does not arise.
+
+3. MORALS
+
+     The first moral of this story is just a practical one. Always test your
+general reasoning against simple models.
+     The second moral is that in physics the only observations we must
+consider are position observations, if only the positions of instrument
+pointers. It is a great merit of the de Broglie-Bohm picture to force us to
+consider this fact. If you make axioms, rather than definitions and theorems,
+about the “measurement” of anything else, then you commit redundancy and
+risk inconsistency.
+On the Impossible Pilot Wave                                               997
+
+      A final moral concerns terminology. Why did such serious people take
+so seriously axioms which now seem so arbitrary? I suspect that they were
+misled by the pernicious misuse of the word “measurement” in contenporary
+theory. This word very strongly suggests the ascertaining of some preexisting
+property of some thing, any instrument involved playing a purely passive
+role. Quantum experiments are just not like that, as we learned especially
+from Bohr. The results have to be regarded as the joint product of “system”
+and “apparatus,” the complete experimental set-up. But the misuse of the
+word “measurement” makes it easy to forget this and then to expect that the
+“results of measurement” should obey some simple logic in which the
+apparatus is not mentioned. The resulting difficulties soon show that any
+such logic is not ordinary logic. It is my impression that the whole vast
+subject of “Quantum Logic” has arisen in this way from the misuse of a
+word. I am convinced that the word “measurement” has now been so abused
+that the field would be significantly advanced by banning its use altogether,
+in favor for example of the word “experiment.”
+      There are surely other morals to be drawn here, if not by physicists then
+by historians and sociologists.132,33*
+      Of the various impossibility proofs, only those concerned with local
+causality*34"37* seem now to retain some significance outside special
+formalisms. The de Broglie-Bohm theory is not a counter example in this
+case. Indeed it was the explicit representation of quantum nonlocality in that
+picture which started a new wave of investigation in this area. Let us hope
+that these analyses also may one day be illuminated, perhaps harshly, by
+some simple constructive model.
+      However that may be, long may Louis de Broglie continue to inspire
+those who suspect that what is proved by impossibility proofs is lack of
+imagination.
+
+ACKNOWLEDGEMENTS
+
+     I have profited from comments by M. Bell, E. Etim, K. V. Laurikainen,
+J. M. Leinaas, and J. Kupsch.
+
+NOTE ADDED IN PROOF
+
+     I am sorry to have missed, before writing the above, an early paper by
+E. Specker [Dialectia 14, 239 (1960), or in C. A. Hooker, ed., The Logico-
+Algebraic Approach to Quantum Mechanics (Reidel, Dordrecht, 1975),
+p. 135]. It announced already what I have called the Gleason-Jauch result.
+                                                                                                 157
+
+998                                                                                       Bell
+
+Specker did not know of the work of Gleason, but mentioned rather the
+possibility of an “elementary geometrical argument”—presumably of the
+kind that I myself gave later<9) as a preliminary to criticism of the axioms.
+
+REFERENCES
+
+ 1. P. A. Schilp, Ed., Albert Einstein, Philosopher Scientist (Tudor, New York, 1949), p. 666.
+ 2. P. A. Schilp, Ed., Albert Einstein, Philosopher Scientist (Tudor, New York, 1949), p. 672.
+ 3. J. von Neumann, Mathematisch Grundlagen der Quantenmechanik (Springer Verlag,
+    Berlin, 1932); English translation: Princeton University Press, 1955.
+ 4. M. Born, Natural Philosophy o f Cause and Chance (Clarendon, Oxford, 1949).
+ 5. D. Bohm, Phys. Rev. 85, 165, 180 (1952).
+ 6. L. de Broglie, in Rapport au Vie me Congres de Physique Solvay (Gauthier-Villars, Paris,
+    1930).
+ 7. J. M. Jauch and C. Piron, Helvetica Physica Acta 36, 827 (1963); Rev. Mod. Phys. 40,
+    228 (1966).
+ 8. J. M. Jauch, private communication (1963).
+ 9. J. S. Bell, SLAC-PUB-44, Aug. 1964; Rev. Mod. Phys. 38, 447 (1966).
+10. B. Misra, Nuovo Cimento 47, 843 (1967).
+11. S. Kochen and E. P. Specker, J. Math. Mech. 17, 59 (1967).
+12. S. P. Gudder, Rev. Mod. Phys. 40, 229 (1968); J. Math. Phys. 9, 1411 (1968).
+13. R. Jost, in Some Strangeness in the Proportion (Addison-Wesley, Reading, 1980), p. 252.
+14. H. Woolf, ed., Some Strangeness in the Proportion (Addison-Wesley, Reading, 1980).
+15. W. Pauli, in A. George, ed., Louis de Broglie, physicien et penseur (Albin Michel, Paris,
+    1953).
+16. L. Rosenfeld, in A. George, ed., Louis de Broglie, physicien et penseur (Albin Michel,
+    Paris, 1953), p. 43.
+17. W. Heisenberg, in W. Pauli, ed., Niels Bohr and the Development of Physics (Pergamon,
+    London, 1955).
+18. L. de Broglie, Found. Phys. 1, 5 (1970).
+19. D. Bohm, Wholeness and the Implicate Order (Routledge and Kegan Paul, London,
+     1980).
+20. M. Born, ed., The Born-Einstein Letters (Macmillan, London, 1971), p. 192, and letters
+    81, 84, 86, 88, 97, 99, 103, 106, 108, 110, 115, and 116.
+21. E. P. Wigner, in Some Strangeness in the Proportion (Addison-Wesley, Reading, 1980),
+    p. 463.
+22. J. S. Bell, in Proc. Symposium on Frontier Problems in High Energy Physics, in honor of
+    Gilberto Bernardini on his 70th birthday (Scuola Normale Superiore, Pisa, 1976).
+23. M. Mugur-Schachter, Etude du charactere complet de la theorie quantique (Gauthier-
+    Villars, Paris, 1964).
+24. F. J. Belinfante, A Survey o f Hidden Variable-Theories (Pergamon, London, 1973).
+25. M. Jammer, The Philosophy o f Quantum Mechanics (Wiley, New York, 1974).
+26. C. Phillipidas, C. Dewdney, and B. J. Hiley, Nuov. Cim. 52B, 15 (1979).
+27. C. Dewdney and B. J. Hiley, Found. Phys. 12, 27 (1982).
+28. A. M. Gleason, J. Math. Mech. 6, 885 (1957).
+29. A. Fine and P. Teller, Found. Phys. 8, 629 (1978).
+30. J. S. Bell, Inter. J. o f Quantum Chem., Quantum Chemistry Symposium No. 14 * e
+    New York, 1980).
+On the Impossible Pilot Wave                                                           999
+
+31. C. J. Isham, R. Penrose, and D. W. Sciama, eds., Quantum Gravity 2 (Clarendon,
+    Oxford, 1980), p. 611.
+32. P. Forman, “Weimar Culture, Causality, and Quantum Theory 1918-1927,” in R.
+    McCormmach, ed.. Historical Studies in the Physical Sciences 3 (Univ. of Pennsylvania
+    Press, Philadelphia, 1971), pp. 1-115.
+33. T. J. Pinch, “What Does a Proof Do if it Does Not Prove?, A Study of the Social
+    Conditions and Metaphysical Divisions Leading to David Bohm and John von Neumann
+    Failing to Communicate in Quantum Physics,” in E. Mendelsohn, P. Weingart, and R.
+    Whitly, eds., The Social Production o f Scientific Knowledge (Reidel, Dordrecht, 1977),
+    pp. 171-215.
+34. J. Clauser and A. Shimony, Rep. Prog. Phys. 41, 1881 (1978).
+35. F. M. Pipkin, Advances in Atomic and Molecular Physics 14 (Academic Press, New
+    York, 1979), p. 281.
+36. F. Selleri and G. Tarozzi, Riv. Nuov. Cim. 4 (2) (1981).
+37. B. d’Espagnat, A la Recherche du Reel (Gauthier Villars, Paris, 1979).
+
+                     Printed by the St. Catherine Press Ltd., Tempelhof 41, Bruges, Belgium
+

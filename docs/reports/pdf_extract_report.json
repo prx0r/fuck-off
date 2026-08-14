@@ -1,0 +1,2097 @@
+[
+ {
+  "ok": true,
+  "size": 71486,
+  "path": "articles/AMB.pdf"
+ },
+ {
+  "ok": true,
+  "size": 38665,
+  "path": "articles/Continuous_Spectrum.pdf"
+ },
+ {
+  "ok": true,
+  "size": 7067,
+  "path": "articles/Doyle-Nature-25June2009.pdf"
+ },
+ {
+  "ok": true,
+  "size": 322915,
+  "path": "articles/Neuringer_Jensen.pdf"
+ },
+ {
+  "ok": true,
+  "size": 24650,
+  "path": "articles/PhysRev.pdf"
+ },
+ {
+  "ok": true,
+  "size": 77613,
+  "path": "articles/Physics_of_Mind.pdf"
+ },
+ {
+  "ok": true,
+  "size": 62831,
+  "path": "articles/STI-Springer-Doyle.pdf"
+ },
+ {
+  "ok": true,
+  "size": 28677,
+  "path": "books/Actual.pdf"
+ },
+ {
+  "ok": true,
+  "size": 17924,
+  "path": "books/Arrow_of_time.pdf"
+ },
+ {
+  "ok": true,
+  "size": 7560,
+  "path": "books/BKS.pdf"
+ },
+ {
+  "ok": true,
+  "size": 38501,
+  "path": "books/Bell.pdf"
+ },
+ {
+  "ok": true,
+  "size": 28671,
+  "path": "books/Bibliography.pdf"
+ },
+ {
+  "ok": true,
+  "size": 35885,
+  "path": "books/Bibliography_Problems.pdf"
+ },
+ {
+  "ok": true,
+  "size": 17078,
+  "path": "books/Biology.pdf"
+ },
+ {
+  "ok": true,
+  "size": 6728,
+  "path": "books/Biosemiotics.pdf"
+ },
+ {
+  "ok": true,
+  "size": 13759,
+  "path": "books/Bohm.pdf"
+ },
+ {
+  "ok": true,
+  "size": 23168,
+  "path": "books/Bohr_Atom.pdf"
+ },
+ {
+  "ok": true,
+  "size": 12103,
+  "path": "books/Bohr_Complementarity.pdf"
+ },
+ {
+  "ok": true,
+  "size": 13565,
+  "path": "books/Born.pdf"
+ },
+ {
+  "ok": true,
+  "size": 6680,
+  "path": "books/Bose.pdf"
+ },
+ {
+  "ok": true,
+  "size": 8418,
+  "path": "books/Brownian-motion.pdf"
+ },
+ {
+  "ok": true,
+  "size": 16205,
+  "path": "books/Chance.pdf"
+ },
+ {
+  "ok": true,
+  "size": 43383,
+  "path": "books/Cogito.pdf"
+ },
+ {
+  "ok": true,
+  "size": 15608,
+  "path": "books/Collapse.pdf"
+ },
+ {
+  "ok": true,
+  "size": 12453,
+  "path": "books/Compatibilism.pdf"
+ },
+ {
+  "ok": true,
+  "size": 16519,
+  "path": "books/Comprehensive_Compatibilism.pdf"
+ },
+ {
+  "ok": true,
+  "size": 12759,
+  "path": "books/Consciousness.pdf"
+ },
+ {
+  "ok": true,
+  "size": 8420,
+  "path": "books/Contents.pdf"
+ },
+ {
+  "ok": true,
+  "size": 7106,
+  "path": "books/Continuum.pdf"
+ },
+ {
+  "ok": true,
+  "size": 28671,
+  "path": "books/Copenhagen.pdf"
+ },
+ {
+  "ok": true,
+  "size": 20883,
+  "path": "books/Cosmic_Creation.pdf"
+ },
+ {
+  "ok": true,
+  "size": 12427,
+  "path": "books/Cosmology.pdf"
+ },
+ {
+  "ok": true,
+  "size": 5924,
+  "path": "books/Covers.pdf"
+ },
+ {
+  "ok": true,
+  "size": 12719,
+  "path": "books/Creativity.pdf"
+ },
+ {
+  "ok": true,
+  "size": 7515,
+  "path": "books/DeBroglie.pdf"
+ },
+ {
+  "ok": true,
+  "size": 27863,
+  "path": "books/Decoherence.pdf"
+ },
+ {
+  "ok": true,
+  "size": 32122,
+  "path": "books/Dennett.pdf"
+ },
+ {
+  "ok": true,
+  "size": 17296,
+  "path": "books/Determinism.pdf"
+ },
+ {
+  "ok": true,
+  "size": 22319,
+  "path": "books/Determinisms.pdf"
+ },
+ {
+  "ok": true,
+  "size": 37094,
+  "path": "books/Dirac_Principles.pdf"
+ },
+ {
+  "ok": true,
+  "size": 22511,
+  "path": "books/EPR.pdf"
+ },
+ {
+  "ok": true,
+  "size": 29386,
+  "path": "books/ERR.pdf"
+ },
+ {
+  "ok": true,
+  "size": 992676,
+  "path": "books/Einstein.pdf"
+ },
+ {
+  "ok": true,
+  "size": 32462,
+  "path": "books/Emergence.pdf"
+ },
+ {
+  "ok": true,
+  "size": 41826,
+  "path": "books/Entanglement.pdf"
+ },
+ {
+  "ok": true,
+  "size": 31883,
+  "path": "books/Entropy.pdf"
+ },
+ {
+  "ok": true,
+  "size": 38147,
+  "path": "books/Epistemology.pdf"
+ },
+ {
+  "ok": true,
+  "size": 22808,
+  "path": "books/Everett.pdf"
+ },
+ {
+  "ok": true,
+  "size": 19377,
+  "path": "books/Feynman_Two_Slit.pdf"
+ },
+ {
+  "ok": true,
+  "size": 13113,
+  "path": "books/Field_Theory.pdf"
+ },
+ {
+  "ok": true,
+  "size": 34882,
+  "path": "books/Free_Will.pdf"
+ },
+ {
+  "ok": true,
+  "size": 1238057,
+  "path": "books/Free_Will_2016.pdf"
+ },
+ {
+  "ok": true,
+  "size": 21390,
+  "path": "books/Freedom.pdf"
+ },
+ {
+  "ok": true,
+  "size": 27679,
+  "path": "books/Front_Matter.pdf"
+ },
+ {
+  "ok": true,
+  "size": 96795,
+  "path": "books/Glossary.pdf"
+ },
+ {
+  "ok": true,
+  "size": 11696,
+  "path": "books/God.pdf"
+ },
+ {
+  "ok": true,
+  "size": 10470,
+  "path": "books/Good.pdf"
+ },
+ {
+  "ok": true,
+  "size": 1055684,
+  "path": "books/Great_Problems.pdf"
+ },
+ {
+  "ok": true,
+  "size": 22710,
+  "path": "books/Help_End.pdf"
+ },
+ {
+  "ok": true,
+  "size": 157853,
+  "path": "books/History.pdf"
+ },
+ {
+  "ok": true,
+  "size": 41919,
+  "path": "books/Honderich.pdf"
+ },
+ {
+  "ok": true,
+  "size": 20180,
+  "path": "books/I-Phi.pdf"
+ },
+ {
+  "ok": true,
+  "size": 70502,
+  "path": "books/Index.pdf"
+ },
+ {
+  "ok": true,
+  "size": 18753,
+  "path": "books/Induction.pdf"
+ },
+ {
+  "ok": true,
+  "size": 42505,
+  "path": "books/Info-Life.pdf"
+ },
+ {
+  "ok": true,
+  "size": 28991,
+  "path": "books/Information.pdf"
+ },
+ {
+  "ok": true,
+  "size": 27030,
+  "path": "books/Interpretation.pdf"
+ },
+ {
+  "ok": true,
+  "size": 14844,
+  "path": "books/Introduction.pdf"
+ },
+ {
+  "ok": true,
+  "size": 17593,
+  "path": "books/Irreversibility.pdf"
+ },
+ {
+  "ok": true,
+  "size": 79491,
+  "path": "books/Kane.pdf"
+ },
+ {
+  "ok": true,
+  "size": 12800,
+  "path": "books/Libertarianism.pdf"
+ },
+ {
+  "ok": true,
+  "size": 30721,
+  "path": "books/Light.pdf"
+ },
+ {
+  "ok": true,
+  "size": 17539,
+  "path": "books/Light_Quantum.pdf"
+ },
+ {
+  "ok": true,
+  "size": 19879,
+  "path": "books/Matrix.pdf"
+ },
+ {
+  "ok": true,
+  "size": 15087,
+  "path": "books/Matter.pdf"
+ },
+ {
+  "ok": true,
+  "size": 16756,
+  "path": "books/Meaning.pdf"
+ },
+ {
+  "ok": true,
+  "size": 36279,
+  "path": "books/Measurement.pdf"
+ },
+ {
+  "ok": true,
+  "size": 43216,
+  "path": "books/Mele.pdf"
+ },
+ {
+  "ok": true,
+  "size": 23061,
+  "path": "books/Mental_Causation.pdf"
+ },
+ {
+  "ok": true,
+  "size": 98490,
+  "path": "books/Metaphysics.pdf"
+ },
+ {
+  "ok": true,
+  "size": 21805,
+  "path": "books/Mind-Body.pdf"
+ },
+ {
+  "ok": true,
+  "size": 17024,
+  "path": "books/Mind.pdf"
+ },
+ {
+  "ok": true,
+  "size": 10225,
+  "path": "books/Mistakes.pdf"
+ },
+ {
+  "ok": true,
+  "size": 17700,
+  "path": "books/Moral_Responsibility.pdf"
+ },
+ {
+  "ok": true,
+  "size": 32380,
+  "path": "books/Naturalism.pdf"
+ },
+ {
+  "ok": true,
+  "size": 22581,
+  "path": "books/Neumann_Measurement.pdf"
+ },
+ {
+  "ok": true,
+  "size": 11177,
+  "path": "books/Neuroscience.pdf"
+ },
+ {
+  "ok": true,
+  "size": 6755,
+  "path": "books/Nobel_Prize.pdf"
+ },
+ {
+  "ok": true,
+  "size": 30559,
+  "path": "books/Nonlocality.pdf"
+ },
+ {
+  "ok": true,
+  "size": 7752,
+  "path": "books/Nonseparability.pdf"
+ },
+ {
+  "ok": true,
+  "size": 46384,
+  "path": "books/Objections.pdf"
+ },
+ {
+  "ok": true,
+  "size": 12754,
+  "path": "books/Objective_Reality.pdf"
+ },
+ {
+  "ok": true,
+  "size": 18137,
+  "path": "books/Ontology.pdf"
+ },
+ {
+  "ok": true,
+  "size": 32653,
+  "path": "books/Physics.pdf"
+ },
+ {
+  "ok": true,
+  "size": 37747,
+  "path": "books/Preface.pdf"
+ },
+ {
+  "ok": true,
+  "size": 12747,
+  "path": "books/Principles.pdf"
+ },
+ {
+  "ok": true,
+  "size": 16117,
+  "path": "books/Problems.pdf"
+ },
+ {
+  "ok": true,
+  "size": 31925,
+  "path": "books/Problems_Solved.pdf"
+ },
+ {
+  "ok": true,
+  "size": 35728,
+  "path": "books/Quantum_Physics.pdf"
+ },
+ {
+  "ok": true,
+  "size": 38793,
+  "path": "books/Quantum_Theory.pdf"
+ },
+ {
+  "ok": true,
+  "size": 7248,
+  "path": "books/Quantum_information.pdf"
+ },
+ {
+  "ok": true,
+  "size": 6724,
+  "path": "books/Recurrence.pdf"
+ },
+ {
+  "ok": true,
+  "size": 10782,
+  "path": "books/Requirements.pdf"
+ },
+ {
+  "ok": true,
+  "size": 12455,
+  "path": "books/Scandal.pdf"
+ },
+ {
+  "ok": true,
+  "size": 20566,
+  "path": "books/Schrodinger.pdf"
+ },
+ {
+  "ok": true,
+  "size": 11882,
+  "path": "books/Self.pdf"
+ },
+ {
+  "ok": true,
+  "size": 20409,
+  "path": "books/Separability.pdf"
+ },
+ {
+  "ok": true,
+  "size": 12376,
+  "path": "books/Specific_Heat.pdf"
+ },
+ {
+  "ok": true,
+  "size": 67601,
+  "path": "books/Standard_Argument.pdf"
+ },
+ {
+  "ok": true,
+  "size": 18348,
+  "path": "books/Stat_Mech.pdf"
+ },
+ {
+  "ok": true,
+  "size": 7678,
+  "path": "books/Statistics.pdf"
+ },
+ {
+  "ok": true,
+  "size": 26186,
+  "path": "books/Taxonomy.pdf"
+ },
+ {
+  "ok": true,
+  "size": 13261,
+  "path": "books/Transitions.pdf"
+ },
+ {
+  "ok": true,
+  "size": 70394,
+  "path": "books/Two-Stage_Models.pdf"
+ },
+ {
+  "ok": true,
+  "size": 13285,
+  "path": "books/Uncertainty.pdf"
+ },
+ {
+  "ok": true,
+  "size": 23695,
+  "path": "books/Universals.pdf"
+ },
+ {
+  "ok": true,
+  "size": 27987,
+  "path": "books/Value.pdf"
+ },
+ {
+  "ok": true,
+  "size": 389211,
+  "path": "books/WWAF3_Interactive_0417.pdf"
+ },
+ {
+  "ok": true,
+  "size": 15311,
+  "path": "books/Wave-Particle.pdf"
+ },
+ {
+  "ok": true,
+  "size": 6460,
+  "path": "books/Wave_Mechanics.pdf"
+ },
+ {
+  "ok": true,
+  "size": 21984,
+  "path": "books/What_If.pdf"
+ },
+ {
+  "ok": true,
+  "size": 37507,
+  "path": "books/index-february.pdf"
+ },
+ {
+  "ok": true,
+  "size": 20048,
+  "path": "images/AMB_Reoort.pdf"
+ },
+ {
+  "ok": true,
+  "size": 20048,
+  "path": "images/AMB_Report.pdf"
+ },
+ {
+  "ok": true,
+  "size": 27554,
+  "path": "introduction/Heisenberg_Copenhagen_Interpretation.pdf"
+ },
+ {
+  "ok": true,
+  "size": 26454,
+  "path": "introduction/Heisenberg_History_of_QT.pdf"
+ },
+ {
+  "ok": false,
+  "size": 19,
+  "path": "introduction/Stapp_Copenhagen_Interpretation.pdf"
+ },
+ {
+  "ok": true,
+  "size": 25145,
+  "path": "introduction/Waddington.pdf"
+ },
+ {
+  "ok": true,
+  "size": 132657,
+  "path": "introduction/arxiv.1008.1066.pdf"
+ },
+ {
+  "ok": true,
+  "size": 59489,
+  "path": "mind/Crick_Koch_Consciousness.pdf"
+ },
+ {
+  "ok": true,
+  "size": 10579,
+  "path": "mind/Koch_Chalmers_Leading_Theories-of-Consciousness.pdf"
+ },
+ {
+  "ok": true,
+  "size": 7812,
+  "path": "mind/Panpsychism_MS_Resources.pdf"
+ },
+ {
+  "ok": true,
+  "size": 77613,
+  "path": "mind/Two-Step_Process.pdf"
+ },
+ {
+  "ok": true,
+  "size": 74307,
+  "path": "presentations/Atmanspacher-Bishop_Contextual_Emergence.pdf"
+ },
+ {
+  "ok": true,
+  "size": 53399,
+  "path": "presentations/Atmanspacher-Contextual_Emergence.pdf"
+ },
+ {
+  "ok": true,
+  "size": 56242,
+  "path": "presentations/Atmanspacher-Pauli-Jung.pdf"
+ },
+ {
+  "ok": true,
+  "size": 68148,
+  "path": "presentations/Atmanspacher.pdf"
+ },
+ {
+  "ok": true,
+  "size": 53315,
+  "path": "presentations/Barrett_quantum_argument_for_dualism.pdf"
+ },
+ {
+  "ok": true,
+  "size": 71361,
+  "path": "presentations/Dual-aspect-Atmanspacher.pdf"
+ },
+ {
+  "ok": true,
+  "size": 16764,
+  "path": "presentations/McCall-Lowe-Levy.pdf"
+ },
+ {
+  "ok": true,
+  "size": 27003,
+  "path": "presentations/McCall-Lowe.pdf"
+ },
+ {
+  "ok": true,
+  "size": 10551,
+  "path": "presentations/McCall-Lowe2.pdf"
+ },
+ {
+  "ok": true,
+  "size": 1534,
+  "path": "presentations/Meixner-Two-Sides.pdf"
+ },
+ {
+  "ok": true,
+  "size": 71134,
+  "path": "presentations/Meixner.pdf"
+ },
+ {
+  "ok": true,
+  "size": 74881,
+  "path": "presentations/Mohrhoff.pdf"
+ },
+ {
+  "ok": true,
+  "size": 65486,
+  "path": "presentations/Mohrhoff_objective.pdf"
+ },
+ {
+  "ok": true,
+  "size": 132250,
+  "path": "presentations/Mohrhoff_on_Stapp.pdf"
+ },
+ {
+  "ok": true,
+  "size": 87894,
+  "path": "presentations/Pauri-Physics_and_Nihilism.pdf"
+ },
+ {
+  "ok": true,
+  "size": 96534,
+  "path": "presentations/Pauri-Quantum-Evolution.pdf"
+ },
+ {
+  "ok": true,
+  "size": 13911,
+  "path": "presentations/QB_Salzburg_jedlicka.pdf"
+ },
+ {
+  "ok": true,
+  "size": 42595,
+  "path": "presentations/STI-2020-05-10.pdf"
+ },
+ {
+  "ok": true,
+  "size": 31930,
+  "path": "presentations/Stapp_Mohrhoff.pdf"
+ },
+ {
+  "ok": true,
+  "size": 98777,
+  "path": "presentations/Stapp_Role_of_Mind.pdf"
+ },
+ {
+  "ok": true,
+  "size": 73264,
+  "path": "presentations/Stapp__Free_Will.pdf"
+ },
+ {
+  "ok": true,
+  "size": 5644,
+  "path": "presentations/Two-stage_handout.pdf"
+ },
+ {
+  "ok": true,
+  "size": 44121,
+  "path": "presentations/WJS-2010.pdf"
+ },
+ {
+  "ok": true,
+  "size": 3652,
+  "path": "presentations/WJS-handout.pdf"
+ },
+ {
+  "ok": true,
+  "size": 30095,
+  "path": "problems/DisentanglingEPR.pdf"
+ },
+ {
+  "ok": true,
+  "size": 40699,
+  "path": "problems/Irreversibility.pdf"
+ },
+ {
+  "ok": true,
+  "size": 11445,
+  "path": "problems/Tolman_Principle.pdf"
+ },
+ {
+  "ok": true,
+  "size": 93534,
+  "path": "solutions/1008.1229v1.pdf"
+ },
+ {
+  "ok": true,
+  "size": 34276,
+  "path": "solutions/1905_radiation.pdf"
+ },
+ {
+  "ok": true,
+  "size": 14641,
+  "path": "solutions/1906_Light_Production.pdf"
+ },
+ {
+  "ok": true,
+  "size": 14438,
+  "path": "solutions/1916_A-B.pdf"
+ },
+ {
+  "ok": true,
+  "size": 32329,
+  "path": "solutions/1917_Radiation.pdf"
+ },
+ {
+  "ok": true,
+  "size": 50718,
+  "path": "solutions/AJP72.pdf"
+ },
+ {
+  "ok": true,
+  "size": 50006,
+  "path": "solutions/AJP_1905_photon.pdf"
+ },
+ {
+  "ok": true,
+  "size": 70353,
+  "path": "solutions/Against_Measurement.pdf"
+ },
+ {
+  "ok": true,
+  "size": 3403,
+  "path": "solutions/AmJPhys-Measurement.pdf"
+ },
+ {
+  "ok": true,
+  "size": 103908,
+  "path": "solutions/Arrow_of_Time.pdf"
+ },
+ {
+  "ok": true,
+  "size": 50832,
+  "path": "solutions/Autobiography.pdf"
+ },
+ {
+  "ok": true,
+  "size": 141913,
+  "path": "solutions/Auxier_Glossary.pdf"
+ },
+ {
+  "ok": true,
+  "size": 46642,
+  "path": "solutions/BKS.pdf"
+ },
+ {
+  "ok": true,
+  "size": 114768,
+  "path": "solutions/BarandesQM.pdf"
+ },
+ {
+  "ok": true,
+  "size": 36596,
+  "path": "solutions/Barcan_Calculus.pdf"
+ },
+ {
+  "ok": true,
+  "size": 12510,
+  "path": "solutions/Barcan_Deduction.pdf"
+ },
+ {
+  "ok": true,
+  "size": 12563,
+  "path": "solutions/Barcan_Identity.pdf"
+ },
+ {
+  "ok": true,
+  "size": 53822,
+  "path": "solutions/Bateson_Difference.pdf"
+ },
+ {
+  "ok": true,
+  "size": 19326,
+  "path": "solutions/Beables_for_QFT.pdf"
+ },
+ {
+  "ok": true,
+  "size": 37096,
+  "path": "solutions/Bell_1966.pdf"
+ },
+ {
+  "ok": true,
+  "size": 36570,
+  "path": "solutions/Bell_Davies.pdf"
+ },
+ {
+  "ok": true,
+  "size": 16864,
+  "path": "solutions/Bell_On_EPR.pdf"
+ },
+ {
+  "ok": true,
+  "size": 8581,
+  "path": "solutions/Bell_Quantum_Jumps.pdf"
+ },
+ {
+  "ok": true,
+  "size": 68674,
+  "path": "solutions/Biosemiotics_Science.pdf"
+ },
+ {
+  "ok": true,
+  "size": 49487,
+  "path": "solutions/Bohm_Aharonov-.pdf"
+ },
+ {
+  "ok": true,
+  "size": 32266,
+  "path": "solutions/Bohr-Schrodinger.pdf"
+ },
+ {
+  "ok": true,
+  "size": 89631,
+  "path": "solutions/Bohr_Einstein_Schilpp.pdf"
+ },
+ {
+  "ok": true,
+  "size": 91725,
+  "path": "solutions/Bondi-Gold_1948.pdf"
+ },
+ {
+  "ok": true,
+  "size": 36265,
+  "path": "solutions/Born-Einstein_Schilpp.pdf"
+ },
+ {
+  "ok": true,
+  "size": 10441,
+  "path": "solutions/Bose_1924.pdf"
+ },
+ {
+  "ok": true,
+  "size": 60956,
+  "path": "solutions/CH.pdf"
+ },
+ {
+  "ok": true,
+  "size": 30270,
+  "path": "solutions/CHSH.pdf"
+ },
+ {
+  "ok": true,
+  "size": 8013,
+  "path": "solutions/Cahn.pdf"
+ },
+ {
+  "ok": true,
+  "size": 28258,
+  "path": "solutions/Causality_and_Complementarity.pdf"
+ },
+ {
+  "ok": true,
+  "size": 32372,
+  "path": "solutions/Classical-Quantum.pdf"
+ },
+ {
+  "ok": true,
+  "size": 25180,
+  "path": "solutions/Clausius.pdf"
+ },
+ {
+  "ok": true,
+  "size": 34355,
+  "path": "solutions/Cognitive_Biology.pdf"
+ },
+ {
+  "ok": true,
+  "size": 76384,
+  "path": "solutions/Como_Nature.pdf"
+ },
+ {
+  "ok": true,
+  "size": 97634,
+  "path": "solutions/Complexity_Simon_1962.pdf"
+ },
+ {
+  "ok": true,
+  "size": 16443,
+  "path": "solutions/Consciousness.pdf"
+ },
+ {
+  "ok": true,
+  "size": 62854,
+  "path": "solutions/Constitution_of_Atoms_I.pdf"
+ },
+ {
+  "ok": true,
+  "size": 101147,
+  "path": "solutions/Copenhagen_Interpretation.pdf"
+ },
+ {
+  "ok": true,
+  "size": 44145,
+  "path": "solutions/Copenhagen_Myth.pdf"
+ },
+ {
+  "ok": true,
+  "size": 37291,
+  "path": "solutions/Cosmic_Evolution.pdf"
+ },
+ {
+  "ok": false,
+  "size": 1,
+  "path": "solutions/Culverwell1890.pdf"
+ },
+ {
+  "ok": false,
+  "size": 33,
+  "path": "solutions/Culverwell1894.pdf"
+ },
+ {
+  "ok": true,
+  "size": 42106,
+  "path": "solutions/DeWitt_QM_Reality.pdf"
+ },
+ {
+  "ok": true,
+  "size": 67177,
+  "path": "solutions/Deacon_Complexity_Dynamical_Depth.pdf"
+ },
+ {
+  "ok": true,
+  "size": 69134,
+  "path": "solutions/Deacon_Constraint_Regulation.pdf"
+ },
+ {
+  "ok": true,
+  "size": 59380,
+  "path": "solutions/Deacon_Exploring_Constraint.pdf"
+ },
+ {
+  "ok": true,
+  "size": 76375,
+  "path": "solutions/Deacon_Information_Complexity_Depth.pdf"
+ },
+ {
+  "ok": true,
+  "size": 10937,
+  "path": "solutions/Deacon_Prolegomenon.pdf"
+ },
+ {
+  "ok": true,
+  "size": 74057,
+  "path": "solutions/Deacon_Redefining_I.pdf"
+ },
+ {
+  "ok": true,
+  "size": 75618,
+  "path": "solutions/Deacon_Redefining_II.pdf"
+ },
+ {
+  "ok": true,
+  "size": 73088,
+  "path": "solutions/Deacon_What_Missing.pdf"
+ },
+ {
+  "ok": true,
+  "size": 20831,
+  "path": "solutions/Deacon_information_to semiosis.pdf"
+ },
+ {
+  "ok": true,
+  "size": 118577,
+  "path": "solutions/Decoherence.pdf"
+ },
+ {
+  "ok": true,
+  "size": 155224,
+  "path": "solutions/DespagnatSciAm.pdf"
+ },
+ {
+  "ok": true,
+  "size": 12338,
+  "path": "solutions/Dialectica.pdf"
+ },
+ {
+  "ok": true,
+  "size": 43663,
+  "path": "solutions/Die_Situation-2.pdf"
+ },
+ {
+  "ok": true,
+  "size": 46133,
+  "path": "solutions/Die_Situation-3.pdf"
+ },
+ {
+  "ok": true,
+  "size": 48327,
+  "path": "solutions/Die_Situation.pdf"
+ },
+ {
+  "ok": true,
+  "size": 42397,
+  "path": "solutions/Dirac_1930.pdf"
+ },
+ {
+  "ok": true,
+  "size": 118220,
+  "path": "solutions/Dynamical_Theory_Gases_1.pdf"
+ },
+ {
+  "ok": true,
+  "size": 36726,
+  "path": "solutions/Dynamical_and_Statistical_Laws.pdf"
+ },
+ {
+  "ok": true,
+  "size": 36545,
+  "path": "solutions/EPRBohr.pdf"
+ },
+ {
+  "ok": true,
+  "size": 28536,
+  "path": "solutions/EPR_Experiments.pdf"
+ },
+ {
+  "ok": true,
+  "size": 24900,
+  "path": "solutions/Einstein-EhrenfestB.pdf"
+ },
+ {
+  "ok": true,
+  "size": 21911,
+  "path": "solutions/Einstein-Podolsky-Rosen.pdf"
+ },
+ {
+  "ok": true,
+  "size": 70497,
+  "path": "solutions/Einstein_Development_QM.pdf"
+ },
+ {
+  "ok": true,
+  "size": 49862,
+  "path": "solutions/Einstein_Phil-Sci.pdf"
+ },
+ {
+  "ok": true,
+  "size": 40542,
+  "path": "solutions/Einstein_critique.pdf"
+ },
+ {
+  "ok": true,
+  "size": 62606,
+  "path": "solutions/Entanglement_Measurement.pdf"
+ },
+ {
+  "ok": true,
+  "size": 81346,
+  "path": "solutions/Entropic_Gravity.pdf"
+ },
+ {
+  "ok": true,
+  "size": 32801,
+  "path": "solutions/Epiphenomenal_Qualia.pdf"
+ },
+ {
+  "ok": true,
+  "size": 67480,
+  "path": "solutions/Evol_Code_2014.pdf"
+ },
+ {
+  "ok": true,
+  "size": 77916,
+  "path": "solutions/Evolutionary_Love.pdf"
+ },
+ {
+  "ok": true,
+  "size": 18194,
+  "path": "solutions/Exist_Human.pdf"
+ },
+ {
+  "ok": true,
+  "size": 30153,
+  "path": "solutions/Explanatory_Gap.pdf"
+ },
+ {
+  "ok": true,
+  "size": 42171,
+  "path": "solutions/Feigl_Empiricism.pdf"
+ },
+ {
+  "ok": true,
+  "size": 1008768,
+  "path": "solutions/Foerster_Memory.pdf"
+ },
+ {
+  "ok": true,
+  "size": 66273,
+  "path": "solutions/Frautschi_Science_1982.pdf"
+ },
+ {
+  "ok": true,
+  "size": 74640,
+  "path": "solutions/Free_Will.pdf"
+ },
+ {
+  "ok": true,
+  "size": 102855,
+  "path": "solutions/Free_Will_As_A_Scientific_Problem.pdf"
+ },
+ {
+  "ok": true,
+  "size": 202261,
+  "path": "solutions/Frege_Begriffsschrift.pdf"
+ },
+ {
+  "ok": true,
+  "size": 65808,
+  "path": "solutions/Frege_Sense_Reference.pdf"
+ },
+ {
+  "ok": true,
+  "size": 70795,
+  "path": "solutions/Frogs_Eye.pdf"
+ },
+ {
+  "ok": true,
+  "size": 30808,
+  "path": "solutions/Fund_QM_1925.pdf"
+ },
+ {
+  "ok": true,
+  "size": 6705,
+  "path": "solutions/Genetic_Code_II.pdf"
+ },
+ {
+  "ok": true,
+  "size": 15036,
+  "path": "solutions/Genetic_Code_III.pdf"
+ },
+ {
+  "ok": true,
+  "size": 98204,
+  "path": "solutions/Gibbs_Graphical.pdf"
+ },
+ {
+  "ok": true,
+  "size": 64260,
+  "path": "solutions/H_Spectrum_Pauli.pdf"
+ },
+ {
+  "ok": true,
+  "size": 25265,
+  "path": "solutions/Hartman_Code.pdf"
+ },
+ {
+  "ok": true,
+  "size": 38577,
+  "path": "solutions/Hartman_Eukaryote.pdf"
+ },
+ {
+  "ok": true,
+  "size": 66819,
+  "path": "solutions/Heisenberg_Uncertainty.pdf"
+ },
+ {
+  "ok": true,
+  "size": 11816,
+  "path": "solutions/Herschel.pdf"
+ },
+ {
+  "ok": true,
+  "size": 117044,
+  "path": "solutions/Herschel_Quetelet_Probabilities.pdf"
+ },
+ {
+  "ok": true,
+  "size": 29123,
+  "path": "solutions/History_of_Materialism.pdf"
+ },
+ {
+  "ok": true,
+  "size": 26454,
+  "path": "solutions/History_of_QT.pdf"
+ },
+ {
+  "ok": true,
+  "size": 66052,
+  "path": "solutions/Howard-Fine.pdf"
+ },
+ {
+  "ok": true,
+  "size": 64758,
+  "path": "solutions/Idea_Teleology.pdf"
+ },
+ {
+  "ok": true,
+  "size": 33324,
+  "path": "solutions/Identity.pdf"
+ },
+ {
+  "ok": true,
+  "size": 23133,
+  "path": "solutions/Identity_possible_worlds.pdf"
+ },
+ {
+  "ok": true,
+  "size": 45114,
+  "path": "solutions/Impossibility.pdf"
+ },
+ {
+  "ok": true,
+  "size": 25755,
+  "path": "solutions/Impossible_Pilot_Wave.pdf"
+ },
+ {
+  "ok": true,
+  "size": 44557,
+  "path": "solutions/IndeterminismInPhysics.pdf"
+ },
+ {
+  "ok": true,
+  "size": 912130,
+  "path": "solutions/Info_Entropy.pdf"
+ },
+ {
+  "ok": true,
+  "size": 67478,
+  "path": "solutions/Intentional_Primacy.pdf"
+ },
+ {
+  "ok": true,
+  "size": 64853,
+  "path": "solutions/Interpretation_Transformation.pdf"
+ },
+ {
+  "ok": true,
+  "size": 57377,
+  "path": "solutions/Jaynes_Gibbs_Boltzmann.pdf"
+ },
+ {
+  "ok": true,
+  "size": 74118,
+  "path": "solutions/Jaynes_Gibbs_Paradox.pdf"
+ },
+ {
+  "ok": true,
+  "size": 40093,
+  "path": "solutions/KWIL.pdf"
+ },
+ {
+  "ok": true,
+  "size": 68516,
+  "path": "solutions/Klein-Einstein-Light-Quanta.pdf"
+ },
+ {
+  "ok": true,
+  "size": 128303,
+  "path": "solutions/Klein-Einstein-Wave-Particle.pdf"
+ },
+ {
+  "ok": true,
+  "size": 157497,
+  "path": "solutions/Klein_Einstein_Bohr_1.pdf"
+ },
+ {
+  "ok": true,
+  "size": 77678,
+  "path": "solutions/Klein__Einstein_Specific_Heats_QT.pdf"
+ },
+ {
+  "ok": true,
+  "size": 50927,
+  "path": "solutions/Knowledge_Belief.pdf"
+ },
+ {
+  "ok": true,
+  "size": 62577,
+  "path": "solutions/LOWIL.pdf"
+ },
+ {
+  "ok": true,
+  "size": 19977,
+  "path": "solutions/Lagrangian_1933.pdf"
+ },
+ {
+  "ok": true,
+  "size": 59624,
+  "path": "solutions/Landauer-1961.pdf"
+ },
+ {
+  "ok": true,
+  "size": 59624,
+  "path": "solutions/Landauer_1961.pdf"
+ },
+ {
+  "ok": true,
+  "size": 46777,
+  "path": "solutions/Language_as_Information.pdf"
+ },
+ {
+  "ok": true,
+  "size": 98476,
+  "path": "solutions/Law_of_Mind.pdf"
+ },
+ {
+  "ok": true,
+  "size": 95749,
+  "path": "solutions/Layzer_1976_AoT.pdf"
+ },
+ {
+  "ok": true,
+  "size": 13308,
+  "path": "solutions/Leibniz_Freedom.pdf"
+ },
+ {
+  "ok": true,
+  "size": 5388,
+  "path": "solutions/Leibniz_Metaphysics.pdf"
+ },
+ {
+  "ok": true,
+  "size": 23684,
+  "path": "solutions/Leibniz_Necessary_Contingent.pdf"
+ },
+ {
+  "ok": true,
+  "size": 14399,
+  "path": "solutions/Lewis_Reversibility.pdf"
+ },
+ {
+  "ok": true,
+  "size": 109968,
+  "path": "solutions/Locality-Separability-1985.pdf"
+ },
+ {
+  "ok": true,
+  "size": 54570,
+  "path": "solutions/Matter_Energy__Information.pdf"
+ },
+ {
+  "ok": true,
+  "size": 41810,
+  "path": "solutions/Max_Planck_Menselssohn.pdf"
+ },
+ {
+  "ok": true,
+  "size": 16373,
+  "path": "solutions/Maxwells_Influence.pdf"
+ },
+ {
+  "ok": true,
+  "size": 43548,
+  "path": "solutions/McCulloch-Pitts.pdf"
+ },
+ {
+  "ok": true,
+  "size": 23539,
+  "path": "solutions/Mele_Lexicon.pdf"
+ },
+ {
+  "ok": true,
+  "size": 73068,
+  "path": "solutions/Mental_Problem_of_Many.pdf"
+ },
+ {
+  "ok": true,
+  "size": 62527,
+  "path": "solutions/Mermin_Cushing.pdf"
+ },
+ {
+  "ok": true,
+  "size": 31834,
+  "path": "solutions/Mermin_Device1981.pdf"
+ },
+ {
+  "ok": true,
+  "size": 56284,
+  "path": "solutions/Mermin_IthacaIQM.pdf"
+ },
+ {
+  "ok": true,
+  "size": 97487,
+  "path": "solutions/Mermin_Making_Sense.pdf"
+ },
+ {
+  "ok": true,
+  "size": 75080,
+  "path": "solutions/Mermin_Moon.pdf"
+ },
+ {
+  "ok": true,
+  "size": 31035,
+  "path": "solutions/Mermin_Mysteries_Anyone.pdf"
+ },
+ {
+  "ok": true,
+  "size": 29646,
+  "path": "solutions/Mermin_Mysteries_Revisited.pdf"
+ },
+ {
+  "ok": true,
+  "size": 75080,
+  "path": "solutions/Mermin_Phys.Today.38.38.pdf"
+ },
+ {
+  "ok": true,
+  "size": 109967,
+  "path": "solutions/Mermin_QM_Tell_Us.pdf"
+ },
+ {
+  "ok": true,
+  "size": 32242,
+  "path": "solutions/Metabolism.pdf"
+ },
+ {
+  "ok": true,
+  "size": 17378,
+  "path": "solutions/Method_of_Theoretical_Physics.pdf"
+ },
+ {
+  "ok": true,
+  "size": 40358,
+  "path": "solutions/Mind-1905-On_Denoting.pdf"
+ },
+ {
+  "ok": true,
+  "size": 64132,
+  "path": "solutions/Mind-Body-MCGINN.pdf"
+ },
+ {
+  "ok": true,
+  "size": 47982,
+  "path": "solutions/Mind-Body_Problem.pdf"
+ },
+ {
+  "ok": true,
+  "size": 62269,
+  "path": "solutions/Mind_And_Illusion.pdf"
+ },
+ {
+  "ok": true,
+  "size": 86621,
+  "path": "solutions/Mind_Cosmos.pdf"
+ },
+ {
+  "ok": true,
+  "size": 21568,
+  "path": "solutions/MisesR.pdf"
+ },
+ {
+  "ok": true,
+  "size": 13006,
+  "path": "solutions/Nature_14_May_2009.pdf"
+ },
+ {
+  "ok": true,
+  "size": 39915,
+  "path": "solutions/Nature_of_Light.pdf"
+ },
+ {
+  "ok": true,
+  "size": 209147,
+  "path": "solutions/Nicht_Sein_Kann.pdf"
+ },
+ {
+  "ok": true,
+  "size": 115064,
+  "path": "solutions/No_Particles.pdf"
+ },
+ {
+  "ok": true,
+  "size": 17053,
+  "path": "solutions/No_Quantum_Jumps.pdf"
+ },
+ {
+  "ok": true,
+  "size": 85354,
+  "path": "solutions/Nobel.pdf"
+ },
+ {
+  "ok": true,
+  "size": 31756,
+  "path": "solutions/Nobel_Lecture.pdf"
+ },
+ {
+  "ok": true,
+  "size": 23648,
+  "path": "solutions/Notions_of_Causality_and_Complementarity.pdf"
+ },
+ {
+  "ok": true,
+  "size": 1660,
+  "path": "solutions/On_Theory_1926a.pdf"
+ },
+ {
+  "ok": true,
+  "size": 81563,
+  "path": "solutions/Origin_2008.pdf"
+ },
+ {
+  "ok": true,
+  "size": 86116,
+  "path": "solutions/PNAS-2012-Schurger-1210467109.pdf"
+ },
+ {
+  "ok": true,
+  "size": 172583,
+  "path": "solutions/PR70.pdf"
+ },
+ {
+  "ok": true,
+  "size": 45272,
+  "path": "solutions/Panpsychism.pdf"
+ },
+ {
+  "ok": true,
+  "size": 10793,
+  "path": "solutions/Paradox.pdf"
+ },
+ {
+  "ok": true,
+  "size": 35122,
+  "path": "solutions/Pattee_life_quantum.pdf"
+ },
+ {
+  "ok": true,
+  "size": 35504,
+  "path": "solutions/Pauli1923.pdf"
+ },
+ {
+  "ok": true,
+  "size": 29840,
+  "path": "solutions/Pauli_Handbuch1933.pdf"
+ },
+ {
+  "ok": true,
+  "size": 109903,
+  "path": "solutions/Peirce_Logic.pdf"
+ },
+ {
+  "ok": true,
+  "size": 45272,
+  "path": "solutions/Peirce_Logic1.pdf"
+ },
+ {
+  "ok": true,
+  "size": 17004,
+  "path": "solutions/Peirce_Logic2.pdf"
+ },
+ {
+  "ok": true,
+  "size": 89151,
+  "path": "solutions/Physics_and_Reality.pdf"
+ },
+ {
+  "ok": true,
+  "size": 81359,
+  "path": "solutions/Physik_und_Realitat.pdf"
+ },
+ {
+  "ok": true,
+  "size": 54394,
+  "path": "solutions/Planck-Kangro.pdf"
+ },
+ {
+  "ok": true,
+  "size": 5477,
+  "path": "solutions/Planck_1900a.pdf"
+ },
+ {
+  "ok": true,
+  "size": 17741,
+  "path": "solutions/Planck_1900b.pdf"
+ },
+ {
+  "ok": true,
+  "size": 25415,
+  "path": "solutions/Planck_1901a.pdf"
+ },
+ {
+  "ok": true,
+  "size": 44256,
+  "path": "solutions/Polanyi_Life_Structures.pdf"
+ },
+ {
+  "ok": true,
+  "size": 18223,
+  "path": "solutions/Popescu_Rohrlich.pdf"
+ },
+ {
+  "ok": true,
+  "size": 43521,
+  "path": "solutions/Preface_to_Cosmogony.pdf"
+ },
+ {
+  "ok": true,
+  "size": 84029,
+  "path": "solutions/Present-Status.pdf"
+ },
+ {
+  "ok": true,
+  "size": 54094,
+  "path": "solutions/PresidentialAddressDennett.pdf"
+ },
+ {
+  "ok": true,
+  "size": 2232,
+  "path": "solutions/Principia_Identity.pdf"
+ },
+ {
+  "ok": true,
+  "size": 40512,
+  "path": "solutions/QBism_Mermin.pdf"
+ },
+ {
+  "ok": true,
+  "size": 78232,
+  "path": "solutions/QMCollisions1_1926.pdf"
+ },
+ {
+  "ok": true,
+  "size": 15867,
+  "path": "solutions/QuantumJumps.pdf"
+ },
+ {
+  "ok": true,
+  "size": 80693,
+  "path": "solutions/Quantum_Darwinism.pdf"
+ },
+ {
+  "ok": true,
+  "size": 43122,
+  "path": "solutions/Quantum_Jumps_2.pdf"
+ },
+ {
+  "ok": true,
+  "size": 43122,
+  "path": "solutions/Quantum_Jumps_I.pdf"
+ },
+ {
+  "ok": true,
+  "size": 29466,
+  "path": "solutions/Quantum_Jumps_II.pdf"
+ },
+ {
+  "ok": false,
+  "size": 12,
+  "path": "solutions/Quantum_Mechanics_Thermodynamics_Strong_Cosmological_Principle.pdf"
+ },
+ {
+  "ok": true,
+  "size": 37004,
+  "path": "solutions/Quantum_Theory.pdf"
+ },
+ {
+  "ok": true,
+  "size": 12547,
+  "path": "solutions/Quantum_measurements.pdf"
+ },
+ {
+  "ok": true,
+  "size": 41298,
+  "path": "solutions/Quine_Existence_Necessity.pdf"
+ },
+ {
+  "ok": true,
+  "size": 66339,
+  "path": "solutions/Radiation_A-B_1927.pdf"
+ },
+ {
+  "ok": true,
+  "size": 29429,
+  "path": "solutions/Realistic_Materialist_Monism.pdf"
+ },
+ {
+  "ok": true,
+  "size": 68473,
+  "path": "solutions/Rechnender_Raum.pdf"
+ },
+ {
+  "ok": true,
+  "size": 60615,
+  "path": "solutions/Reduction-and-Emergence-in-Physics.pdf"
+ },
+ {
+  "ok": true,
+  "size": 47960,
+  "path": "solutions/Rel_QM_1926.pdf"
+ },
+ {
+  "ok": true,
+  "size": 68843,
+  "path": "solutions/Relative_State.pdf"
+ },
+ {
+  "ok": true,
+  "size": 3850,
+  "path": "solutions/Response_van_Kampen.pdf"
+ },
+ {
+  "ok": true,
+  "size": 129109,
+  "path": "solutions/Rosen_H2.pdf"
+ },
+ {
+  "ok": true,
+  "size": 53816,
+  "path": "solutions/Rosenblatt_Research_Trends.pdf"
+ },
+ {
+  "ok": true,
+  "size": 40862,
+  "path": "solutions/Ryle_KnowHow.pdf"
+ },
+ {
+  "ok": true,
+  "size": 29562,
+  "path": "solutions/SDFW.pdf"
+ },
+ {
+  "ok": true,
+  "size": 43444,
+  "path": "solutions/SMW_ch_VI_Nineteenth_Century.pdf"
+ },
+ {
+  "ok": true,
+  "size": 25918,
+  "path": "solutions/Schrodinger-1935.pdf"
+ },
+ {
+  "ok": true,
+  "size": 19685,
+  "path": "solutions/Schrodinger-1936.pdf"
+ },
+ {
+  "ok": true,
+  "size": 73615,
+  "path": "solutions/Schrodinger_Cat.pdf"
+ },
+ {
+  "ok": true,
+  "size": 151948,
+  "path": "solutions/Self.pdf"
+ },
+ {
+  "ok": true,
+  "size": 104494,
+  "path": "solutions/Shimony_Fest.pdf"
+ },
+ {
+  "ok": true,
+  "size": 153649,
+  "path": "solutions/Simonton_Free_Will.pdf"
+ },
+ {
+  "ok": true,
+  "size": 37759,
+  "path": "solutions/Simplicity_Soul.pdf"
+ },
+ {
+  "ok": false,
+  "size": 6,
+  "path": "solutions/Sperry1966Chicago.pdf"
+ },
+ {
+  "ok": true,
+  "size": 77952,
+  "path": "solutions/Sperry1980.pdf"
+ },
+ {
+  "ok": true,
+  "size": 22426,
+  "path": "solutions/Sperry_Modified_Consciousness.pdf"
+ },
+ {
+  "ok": true,
+  "size": 91464,
+  "path": "solutions/Strawson_JCS_Why_Panpsychism.pdf"
+ },
+ {
+  "ok": true,
+  "size": 24433,
+  "path": "solutions/Strong_Cosmological_Principle.pdf"
+ },
+ {
+  "ok": true,
+  "size": 90484,
+  "path": "solutions/Stuckey.pdf"
+ },
+ {
+  "ok": true,
+  "size": 42881,
+  "path": "solutions/Szilard_Entropy_1964.pdf"
+ },
+ {
+  "ok": true,
+  "size": 371939,
+  "path": "solutions/TNETIT.pdf"
+ },
+ {
+  "ok": true,
+  "size": 38332,
+  "path": "solutions/Tegmark.pdf"
+ },
+ {
+  "ok": true,
+  "size": 40308,
+  "path": "solutions/Ten_Theorems.pdf"
+ },
+ {
+  "ok": true,
+  "size": 34360,
+  "path": "solutions/Theory_Heat.pdf"
+ },
+ {
+  "ok": true,
+  "size": 39993,
+  "path": "solutions/TimeReallyPasses.pdf"
+ },
+ {
+  "ok": true,
+  "size": 19342,
+  "path": "solutions/Tsirelson.pdf"
+ },
+ {
+  "ok": true,
+  "size": 66660,
+  "path": "solutions/Tsirelson_Bound.pdf"
+ },
+ {
+  "ok": true,
+  "size": 47841,
+  "path": "solutions/Turing_Test.pdf"
+ },
+ {
+  "ok": true,
+  "size": 13297,
+  "path": "solutions/Unity_of_Nature.pdf"
+ },
+ {
+  "ok": true,
+  "size": 40830,
+  "path": "solutions/Universe_Quantum_Computer.pdf"
+ },
+ {
+  "ok": true,
+  "size": 50605,
+  "path": "solutions/Unreality_Time.pdf"
+ },
+ {
+  "ok": false,
+  "size": 6,
+  "path": "solutions/Watson_Behaviorism.pdf"
+ },
+ {
+  "ok": true,
+  "size": 44807,
+  "path": "solutions/Weber_DePew.pdf"
+ },
+ {
+  "ok": true,
+  "size": 8850,
+  "path": "solutions/What_Is_Life-3.pdf"
+ },
+ {
+  "ok": true,
+  "size": 24858,
+  "path": "solutions/What_Is_Life-4.pdf"
+ },
+ {
+  "ok": true,
+  "size": 26332,
+  "path": "solutions/What_Is_Life-7.pdf"
+ },
+ {
+  "ok": true,
+  "size": 40447,
+  "path": "solutions/What_its_like.pdf"
+ },
+ {
+  "ok": false,
+  "size": 40,
+  "path": "solutions/Wheeler.pdf"
+ },
+ {
+  "ok": true,
+  "size": 20629,
+  "path": "solutions/Wheeler_Assessment.pdf"
+ },
+ {
+  "ok": true,
+  "size": 163232,
+  "path": "solutions/Why_No_People.pdf"
+ },
+ {
+  "ok": true,
+  "size": 151013,
+  "path": "solutions/Wicken_Egel.pdf"
+ },
+ {
+  "ok": true,
+  "size": 38618,
+  "path": "solutions/Wigner_Remarks.pdf"
+ },
+ {
+  "ok": true,
+  "size": 72640,
+  "path": "solutions/ZfP-Uncertainty.pdf"
+ },
+ {
+  "ok": true,
+  "size": 64329,
+  "path": "solutions/against_narrativity.pdf"
+ },
+ {
+  "ok": true,
+  "size": 11622,
+  "path": "solutions/banishing_consciousness.pdf"
+ },
+ {
+  "ok": true,
+  "size": 48489,
+  "path": "solutions/entropy.pdf"
+ },
+ {
+  "ok": false,
+  "size": 29,
+  "path": "solutions/gabor1946.pdf"
+ },
+ {
+  "ok": true,
+  "size": 223202,
+  "path": "solutions/identity.pdf"
+ },
+ {
+  "ok": true,
+  "size": 72326,
+  "path": "solutions/illustrations_dynamical_theory_gases_1.pdf"
+ },
+ {
+  "ok": true,
+  "size": 28229,
+  "path": "solutions/leibniz1697b.pdf"
+ },
+ {
+  "ok": true,
+  "size": 57482,
+  "path": "solutions/lucretian_swerve.pdf"
+ },
+ {
+  "ok": true,
+  "size": 33848,
+  "path": "solutions/measurement.pdf"
+ },
+ {
+  "ok": true,
+  "size": 62527,
+  "path": "solutions/mermin2.pdf"
+ },
+ {
+  "ok": true,
+  "size": 79631,
+  "path": "solutions/modern_theory.pdf"
+ },
+ {
+  "ok": true,
+  "size": 135264,
+  "path": "solutions/nature.pdf"
+ },
+ {
+  "ok": true,
+  "size": 17160,
+  "path": "solutions/same_place_time.pdf"
+ },
+ {
+  "ok": true,
+  "size": 74530,
+  "path": "solutions/sameness_substance.pdf"
+ },
+ {
+  "ok": true,
+  "size": 279631,
+  "path": "solutions/thesis.pdf"
+ }
+]

@@ -1,0 +1,831 @@
+The Impossibility of Moral Responsibility
+Author(s): Galen Strawson
+Reviewed work(s):
+Source: Philosophical Studies: An International Journal for Philosophy in the Analytic
+Tradition, Vol. 75, No. 1/2, Free Will, Determinism, and Moral Responsibility (Aug., 1994), pp.
+5-24
+Published by: Springer
+Stable URL: http://www.jstor.org/stable/4320507 .
+Accessed: 20/08/2012 03:46
+
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at .
+http://www.jstor.org/page/info/about/policies/terms.jsp
+
+.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+.
+
+
+
+
+                Springer is collaborating with JSTOR to digitize, preserve and extend access to Philosophical Studies: An
+                International Journal for Philosophy in the Analytic Tradition.
+
+
+
+
+http://www.jstor.org
+                           GALEN STRAWSON
+
+
+
+       THEIMPOSSIBILITY
+                      OFMORALRESPONSIBILITY
+
+
+                        (Received 15 September1993)
+
+
+                                     I
+
+Thereis an argument,which I will call the Basic Argument,which
+appearsto provethatwe cannotbe trulyor ultimatelymorallyrespon-
+sible for our actions. Accordingto the Basic Argument,it makesno
+differencewhetherdeterminism     is trueor false. Wecannotbe trulyor
+ultimatelymorallyresponsibleforouractionsin eithercase.
+    TheBasicArgumenthasvariousexpressionsin theliterature      of free
+will, andits centralideacanbe quicklyconveyed.(1) Nothingcanbe
+causa sui - nothingcan be the causeof itself. (2) In orderto be truly
+morallyresponsiblefor one'sactionsone wouldhaveto be causa sui,
+at leastin certaincrucialmentalrespects.(3) Thereforenothingcanbe
+trulymorallyresponsible.
+    InthispaperI wanttoreconsider   theBasicArgument,  in thehopethat
+anyonewhothinksthatwe canbetrulyorultimatelymorallyresponsible
+forouractionswill be prepared    to say exactlywhatis wrongwithit. I
+thinkthatthe pointthatit has to makeis obvious,andthatit hasbeen
+underrated  in recentdiscussionof freewill - perhapsbecauseit admits
+of no answer.I suspectthatit is obviousin sucha waythatinsistingon
+it too muchis likelyto makeit seemless obviousthanit is, giventhe
+innatecontrasuggestibility  of humanbeingsingeneralandphilosophers
+in particular. But I amnot worriedaboutmakingit seemless obvious
+thanit is so long as it gets adequateattention.As faras its validityis
+concerned,it canlookafteritself.
+    A more cumbersomestatementof the Basic Argumentgoes as
+follows.1
+
+
+
+
+Philosophical Studies 75: 5-24, 1994.
+? 1994 KluwerAcademicPublishers. Printedin the Netherlands.
+6                        GALENSTRAWSON
+
+    (1)                                              interestedin
+          Interestedin free action,we are particularly
+          actionsthatareperformed fora reason(asopposedto 'reflex'
+          actionsor mindlesslyhabitualactions).
+    (2)   Whenone actsfor a reason,whatone does is a functionof
+          howone is, mentallyspeaking.(Itis alsoa functionof one's
+          height,one'sstrength,one'splaceandtime,andso on. But
+          thementalfactorsarecrucialwhenmoralresponsibility   is in
+          question.)
+    (3)                                    forhowoneacts,onemust
+          So if oneis to be trulyresponsible
+          be trulyresponsiblefor how one is, mentallyspeaking- at
+          leastin certainrespects.
+    (4)   Butto be trulyresponsibleforhowoneis, mentallyspeaking,
+          in certainrespects,onemusthavebroughtit aboutthatoneis
+          thewayoneis, mentallyspeaking,in certainrespects.Andit
+          is notmerelythatonemusthavecausedoneselfto betheway
+          one is, mentallyspeaking.Onemusthaveconsciouslyand
+          explicitlychosento be thewayoneis, mentallyspeaking,in
+          certainrespects,andone musthavesucceededin bringingit
+          aboutthatone is thatway.
+    (5)   But one cannotreallybe said to choose, in a conscious,
+          reasoned,fashion,to be the way one is mentallyspeaking,
+          in any respectat all, unless one alreadyexists, mentally
+          speaking,alreadyequippedwithsomeprinciplesof choice,
+          'P1'- preferences,
+                           values,pro-attitudes,ideals- in thelight
+          of whichonechooseshowto be.
+    (6)   Butthentobe trulyresponsible, on accountof havingchosen
+          to be theway one is, mentallyspeaking,in certainrespects,
+          onemustbe trulyresponsibleforone'shavingtheprinciples
+          of choiceP1 in thelightof whichonechosehowto be.
+    (7)   Butforthisto be so onemusthavechosenP1, in a reasoned,
+          conscious,intentionalfashion.
+    (8)   Butforthis,i.e. (7), to be so onemustalreadyhavehadsome
+          principlesof choiceP2, in thelightof whichone choseP1.
+             THEIMPOSSIBILITY
+                           OFMORALRESPONSIBILITY                  7
+
+   (9)    And so on. Herewe are settingout on a regressthatwe
+          cannotstop.Trueself-determinationis impossiblebecauseit
+          requirestheactualcompletionof aninfiniteseriesof choices
+          of principlesof choice.2
+   (10)   So truemoralresponsibility
+                                   is impossible,becauseitrequires
+          trueself-determination,
+                               as notedin (3).
+   Thismayseemcontrived,butessentiallythe sameargument        canbe
+givenin a morenaturalform. (1) It is undeniablethatone is the way
+one is, initially,as a resultof heredityandearlyexperience,andit is
+undeniablethatthesearethingsfor whichone cannotbe heldto be in
+any responsible(morallyor otherwise). (2) One cannotat any later
+stageof life hopeto accedeto truemoralresponsibility  forthewayone
+is by tryingto changethe way one alreadyis as a resultof heredity
+andpreviousexperience.For(3) boththe particular     way in whichone
+is movedto try to changeoneself,andthe degreeof one's successin
+one'sattemptat change,will be determined    by howone alreadyis as a
+resultof heredityandpreviousexperience.And(4) anyfurtherchanges
+thatone canbringaboutonlyafteronehasbroughtaboutcertaininitial
+changeswill in turnbe determined,   via theinitialchanges,by heredity
+andpreviousexperience.(5) Thismay not be the wholestory,for it
+maybe thatsomechangesin thewayoneis aretraceablenotto heredity
+andexperiencebutto theinfluenceof indeterministic   orrandomfactors.
+But it is absurdto supposethatindeterministic   or randomfactors,for
+whichone is ex hypothesiin no way responsible,can in themselves
+contribute in anywayto one'sbeingtrulymorallyresponsibleforhow
+one is.
+  Theclaim,then,is not thatpeoplecannotchangethe waytheyare.
+Theycan, in certainrespects(whichtendto be exaggerated by North
+Americansandunderestimated,  perhaps,by Europeans).Theclaimis
+only thatpeoplecannotbe supposedto changethemselvesin such a
+way as to be or becometrulyor ultimatelymorallyresponsibleforthe
+waytheyare,andhencefortheiractions.
+8                         GALENSTRAWSON
+
+                                 II
+
+
+I have encounteredtwo mainreactionsto the Basic Argument.On
+the one handit convincesalmostall the studentswith whomI have
+discussedthetopicof freewill andmoralresponsibility.3    On theother
+handit oftentendsto be dismissed,in contemporary    discussionof free
+will andmoralresponsibility, as wrong,or irrelevant, orfatuous,or too
+rapid,or anexpressionof metaphysical   megalomania.
+   I thinkthattheBasicArgument    is certainlyvalidin showingthatwe
+cannotbe morallyresponsiblein the way thatmanysuppose. And I
+thinkthatit is thenaturallight,notfear,thathasconvincedthestudents
+I havetaughtthatthisis so. Thatis whyit seemsworthwhileto restate
+the argumentin a slightly different- simplerand looser - version, and
+to askagainwhatis wrongwithit.
+    Some may say thatthereis nothingwrongwith it, but thatit is
+not very interesting,and not very centralto the free will debate. I
+doubtwhetherany non-philosopher      or beginnerin philosophywould
+agreewiththis view. If one wantsto thinkaboutfree will andmoral
+responsibility, considerationof someversionof theBasicArgument   is an
+overwhelmingly    naturalplaceto start.It certainlyhasto be considered
+at somepointin a full discussionof freewill andmoralresponsibility,
+evenif thepointit hasto makeis obvious.Beliefin thekindof absolute
+moralresponsibility  thatit showsto be impossiblehasfor a long time
+beencentralto theWesternreligious,moral,andculturaltradition,    even
+if it is now slightlyon the wane(a disputableview). It is a matterof
+historicalfactthatconcernaboutmoralresponsibility     hasbeenthemain
+motor - indeed the ratio essendi- of discussion of the issue of free
+will. Theonlywayin whichone mighthopeto show(1) thattheBasic
+Argumentwasnotcentralto thefreewill debatewouldbe to show(2)
+thatthe issue of moralresponsibilitywas not centralto the free will
+debate.Thereare,obviously,waysof takingthe word'free'in which
+(2) canbe maintained.But(2) is clearlyfalsenonetheless.4
+    In sayingthatthe notionof moralresponsibilitycriticizedby the
+BasicArgumentis centralto theWesterntradition,      I amnotsuggesting
+thatit is some artificialandlocal Judaeo-Christian-Kantian   construct
+thatis foundnowhereelse in the historyof the peoplesof the world,
+             THE IMPOSSIBILITYOF MORALRESPONSIBLITY              9
+
+althougheven if it were thatwould hardlydiminishits interestand
+importance  forus. It is naturalto supposethatAristotlealsosubscribed
+to it,5andit is significantthatanthropologists
+                                             havesuggestedthatmost
+humansocietiescanbe classifiedeitheras 'guiltcultures'or as 'shame
+cultures'.It is truethatneitherof thesetwo fundamental    moralemo-
+tionsnecessarilypresupposesa conceptionof oneselfas trulymorally
+responsible forwhatonehasdone.Butthefactthatbotharewidespread
+doesatleastsuggestthata conceptionof moralresponsibility    similarto
+ourownis a naturalpartof thehumanmoral-conceptual       repertoire.
+    In factthenotionof moralresponsibility  connectsmoretightlywith
+the notionof guilt thanwith the notionof shame. In manycultures
+shamecanattachto onebecauseof whatsomememberof one'sfamily
+- or government- has done, and not because of anythingone has done
+oneself; and in such cases the feeling of shameneed not (although
+it may)involvesome obscure,irrationalfeelingthatone is somehow
+responsibleforthebehaviourof one'sfamilyor government.Thecase
+of guiltis less clear. Thereis no doubtthatpeoplecan feel guilty(or
+can believethatthey feel guilty)aboutthingsfor whichthey arenot
+responsible,let alonemorallyresponsible.Butit is muchless obvious
+thatthey can do this withoutany sense or belief thatthey are in fact
+responsible.
+
+
+                                III
+
+
+Suchcomplications   aretypicalof moralpsychology,andtheyshowthat
+it is importantto tryto be preciseaboutwhatsortof responsibility  is
+underdiscussion.Whatsortof 'true'moralresponsibility    is beingsaid
+to be bothimpossibleandwidelybelievedin?
+    An old storyis veryhelpfulin clarifyingthis question.Thisis the
+storyof heavenandhell. As I understand it, truemoralresponsibilityis
+responsibilityof sucha kindthat,if we haveit, thenit makessense,at
+least,to supposethatit couldbejustto punishsomeof us with(eternal)
+tormentin hell andrewardotherswith (eternal)bliss in heaven. The
+stresson the words'makessense' is important,   for one certainlydoes
+not have to believe in any versionof the storyof heavenandhell in
+10                        GALENSTRAWSON
+
+orderto understand    the notionof truemoralresponsibilitythatit is
+beingusedto illustrate.Nordoesone haveto believein anyversionof
+the storyof heavenandhell in orderto believein the existenceof true
+moralresponsibility.On the contrary:manyatheistshavebelievedin
+theexistenceof truemoralresponsibility.   Thestoryof heavenandhell
+is usefulsimplybecauseit illustrates,in a peculiarlyvividway,thekind
+of absoluteor ultimateaccountability  or responsibilitythatmanyhave
+supposedthemselvesto have,andthatmanydo stillsupposethemselves
+to have.It veryclearlyexpressesits scopeandforce.
+    Butonedoes nothaveto referto religiousfaithin orderto describe
+the sortsof everydaysituationthatareperhapsprimarilyinfluentialin
+givingriseto ourbeliefin trueresponsibility.  Supposeyou set off for a
+shopon theeveningof a nationalholiday,intendingto buya cakewith
+yourlasttenpoundnote. Onthe stepsof the shopsomeoneis shaking
+an Oxfamtin. Youstop,andit seemscompletelyclearto you thatit is
+entirelyupto youwhatyoudo next.Thatis, it seemsto youthatyouare
+truly,radicallyfreeto choose,in sucha waythatyouwill be ultimately
+morallyresponsiblefor whateveryou do choose. Evenif you believe
+thatdeterminism  is true,andthatyouwill in fiveminutestimebe ableto
+lookbackandsaythatwhatyoudidwasdetermined,           thisdoesnotseem
+to undermine  yoursenseof theabsoluteness    andinescapabilityof your
+freedom,andof yourmoralresponsibility      for yourchoice. The same
+seemsto be trueeven if you acceptthe validityof theBasicArgument
+statedin sectionI, which concludesthatone cannotbe in any way
+ultimatelyresponsiblefor the way one is anddecides. In bothcases,
+it remainstruethatas one standsthere,one'sfreedomandtruemoral
+responsibilityseemobviousandabsoluteto one.
+    Largeandsmall,morallysignificantor morallyneutral,suchsitua-
+tionsof choiceoccurregularlyin humanlife. I thinktheylie attheheart
+of the experienceof freedomand moralresponsibility.Theyare the
+fundamental  sourceof ourinabilityto give upbeliefin trueor ultimate
+moralresponsibility.  Therearefurtherquestionsto be askedaboutwhy
+humanbeingsexperiencethese situationsof choiceas they do. It is
+aninterestingquestionwhetheranycognitivelysophisticated,     rational,
+self-consciousagentmustexperiencesituationsof choicein thisway.6
+              THEIMPOSSIBILITY
+                            OFMORALRESPONSIBILITY                     1I1
+
+But they are the experientialrock on whichthe belief in truemoral
+responsibility
+             is founded.
+
+
+                                   Iv
+
+I will restatethe Basic Argument. First, though,I will give some
+examplesof peoplewhohaveacceptedthatsomesortof trueorultimate
+responsibilityfor the way one is is a necessaryconditionof trueor
+ultimatemoralresponsibility forthewayoneacts,andwho,certainthat
+theyaretrulymorallyresponsiblefor the way theyact,havebelieved
+theconditionto be fulfilled.7
+   E.H. Carr held that "normaladult humanbeings are morally
+responsiblefor theirown personality".  Jean-PaulSartretalkedof "the
+choicethateachmanmakesof his personality",     andheldthat"manis
+responsible forwhathe is". Ina laterinterviewhejudgedthathisearlier
+assertionsaboutfreedomwereincautious;buthe stillheldthat"inthe
+endoneis alwaysresponsible   forwhatis madeof one"in someabsolute
+sense. Kantdescribedthe positionveryclearlywhenhe claimedthat
+"manhimselfmustmakeorhavemadehimselfintowhatever,         in a moral
+sense,whethergoodor evil, he is to become.Eitherconditionmustbe
+aneffectof his freechoice;forotherwisehe couldnotbe heldrespon-
+sibleforit andcouldthereforebe morallyneithergoodnorevil."Since
+he was committedto belief in radicalmoralresponsibility, Kantheld
+thatsuchself-creationdoes indeedtakeplace, andwroteaccordingly
+of "man'scharacter, whichhe himselfcreates".andof "knowledgeof
+oneself as a person who ... is his own originator". John Patten, the
+currentBritishMinisterfor Education,a Catholicapparently
+                                                       preoccu-
+pied by the idea of sin, has claimed that "itis ... self-evidentthatas we
+growupeachindividualchooseswhetherto be goodor bad."It seems
+clearenoughthathe,sees suchchoiceas sufficientto give us truemoral
+             of theheaven-and-hell
+responsibility                     variety.8
+   The rest of us are not usuallyso reflective,but it seems that we
+do tend,in somevagueandunexamined     fashion,to thinkof ourselves
+as responsiblefor - answerablefor - how we are. The point is quite a
+12                         GALENSTRAWSON
+
+delicateone,forwe donotordinarilysupposethatwe havegonethrough
+somesortof activeprocessof self-determination
+                                           at someparticular
+                                                           past
+time. Neverthelessit seemsaccurateto say thatwe do unreflectivcly
+experienceourselves,in manyrespects,ratheras we mightexperience
+ourselvesif we didbelievethatwe hadengagedin somesuchactivity
+of self-determination.
+     Sometimes a part of one's character- a desire or tendency - may
+strikeoneasforeignoralien.Butit candothisonlyagainstabackground
+of charactertraitsthatare not experiencedas foreign,but are rather
+'identified'with(it is a necessarytruththatit is only relativeto such
+a background  thata character traitcan standout as alien). Somefeel
+tormentedby impulsesthatthey experienceas alien, but in manya
+sense of generalidentification with theircharacterpredominates,    and
+                 seemsto carrywithinitselfanimplicitsensethatone
+thisidentification
+is, generally,somehowin controlof and answerablefor how one is
+(even,perhaps,for aspectsof one'scharacterthatone does not like).
+Here,then,I suggestthatwe find,semi-dormant     in commonthought,an
+implicitrecognitionof the ideathattruemoralresponsibility     for what
+one does somehowinvolvesresponsibility      for how  one is.  Ordinary
+thoughtis readyto movethiswayunderpressure.
+    Thereis, however,anotherpowerfultendencyin ordinary      thoughtto
+thinkthatone can be trulymorallyresponsibleeven if one'scharacter
+is ultimatelywhollynon-self-determined   - simplybecauseone is fully
+self-consciouslyawareof oneself as an agentfacingchoices. I will
+returnto thispointlateron.
+
+
+                                  v
+
+LetmenowrestatetheBasicArgument   in veryloose- asit wereconver-
+sational- terms.New formsof wordsallowfornewformsof objection,
+buttheymaybe helpfulnonetheless.
+
+     (1)    You do what you do, in any situationin which you find
+            yourself,becauseof thewayyou are.
+              THEIMPOSSIBILITY
+                            OFMORALRESPONSIBILITY               13
+So
+
+     (2)   To be trulymorallyresponsiblefor whatyou do you must
+           be trulyresponsibleforthe way you are- at leastin certain
+           crucialmentalrespects.
+Or:
+
+     (1)   Whatyouintentionally do, giventhecircumstances in which
+           you (believeyou) findyourself,flowsnecessarilyfromhow
+           you are.
+Hence
+
+     (2)   you haveto get to havesomeresponsibility
+                                                  forhowyou are
+           in orderto gettohavesomeresponsibility
+                                               forwhatyouinten-
+           tionallydo, giventhe circumstances
+                                           in whichyou (believe
+           you)findyourself.
+Comment.Onceagainthequalification     about'certainmentalrespects'
+is oneI will takeforgranted.Obviouslyoneis notresponsibleforone's
+sex,one'sbasicbodypattern,   one'sheight,andso on. Butif onewerenot
+responsible foranythingaboutoneself,howonecouldberesponsible    for
+whatone did,giventhetruthof (1)? Thisis thefundamental     question,
+andit seemsclearthatif one is goingto be responsiblefor anyaspect
+of oneself,it hadbetterbe someaspectof one'smentalnature.
+    I takeit that(1) is incontrovertible,
+                                       andthatit is (2) thatmustbe
+resisted.Forif (1) and(2)) areconcededthe case seemslost,because
+thefull argument  runsas follows.
+
+     (1)   Youdo whatyoudo becauseof thewayyou are.
+
+So
+
+     (2)   Tobe trulymorallyresponsibleforwhatyoudo you mustbe
+           trulyresponsiblefor theway are- at leastin certaincrucial
+           mentalrespects.
+14                           GALENSTRAWSON
+
+But
+
+     (3)   Youcannotbe trulyresponsibleforthewayyou are,so you
+           cannotbe trulyresponsibleforwhatyoudo.
+Whycan'tyoube trulyresponsibleforthewayyouare?Because
+
+     (4)   To be trulyresponsiblefor the way you are,you musthave
+                       broughtit aboutthatyou arethe way you are,
+           intentionally
+           andthisis impossible.
+Whyis it impossible?Well,supposeit is not. Supposethat
+
+     (5)  Youhave somehowintentionally   broughtit aboutthatyou
+          are the way you now are, and thatyou have broughtthis
+          aboutin sucha way thatyou can now be said to be truly
+          responsibleforbeingthewayyou arenow.
+Forthisto be true
+
+     (6)   Youmustalreadyhavehada certainnatureN in thelightof
+                                broughtit aboutthatyouareas you
+           whichyou intentionally
+           noware.
+Butthen
+
+     (7)   Forit to be trueyou andyou alonearetrulyresponsiblefor
+           how you now are,you mustbe trulyresponsiblefor having
+           had the natureN in the light of which you intentionally
+           broughtit aboutthatyouarethewayyounoware.
+So
+
+     (8)   Youmusthave intentionally   broughtit aboutthatyou had
+           thatnatureN, in whichcase you musthaveexistedalready
+           with a priornaturein the light of whichyou intentionally
+           broughtit aboutthatyou hadthe natureN in the light of
+           whichyouintentionally broughtit aboutthatyouaretheway
+           you now are ...
+                 THEIMPOSSIBLITY
+                               OFMORALRESPONSIBLITY                               15
+    Hereone is settingoff on the regress. Nothingcan be causa sui
+in the requiredway. Evenif suchcausal'aseity'is allowedto belong
+unintelligiblyto God, it cannotbe plausiblybe supposedto be pos-
+sessedby ordinaryfinitehumanbeings."Thecausasui is thebestself-
+contradictionthathasbeenconceivedso far",as Nietzscheremarked  in
+1886:
+it is a sort of rape and perversionof logic. But the extravagantpride of man has
+managed to entangle itself profoundly and frightfully with just this nonsense. The
+desire for "freedomof the will" in the superlativemetaphysicalsense, which still holds
+sway, unfortunately,in the minds of the half-educated;the desire to bear the entire
+and ultimate responsibilityfor one's actions oneself, and to absolve God, the world,
+ancestors,chance, and society involves nothingless than to be precisely this causa sui
+and, with more than BaronMiinchhausen'saudacity,to pull oneself up into existence
+by the hair,out of the swamps of nothingness... (BeyondGood and Evil, ? 21).
+
+    The rephrasedargumentis essentiallyexactlythe sameas before,
+ althoughthe firsttwo stepsarenow moresimplystated.It mayseem
+ pointlessto repeatit, butthequestionsremain.CantheBasicArgument
+ simplybe dismissed?It is reallyof no importance   in thediscussionof
+freewill andmoralresponsibility?     (No andNo) Shouldn'tanyserious
+defenseof free will andmoralresponsibility     thoroughlyacknowledge
+therespectin whichtheBasicArgumentis validbeforegoingon to try
+to give its own positiveaccountof the natureof free will andmoral
+responsibility?Doesn'tthe argumentgo to the heartof thingsif the
+heartof thefreewill debateis a concernaboutwhetherwe canbe truly
+morallyresponsiblein the absoluteway thatwe ordinarilysuppose?
+(YesandYes)
+    Wearewhatwe are,andwecannotbethoughttohavemadeourselves
+in sucha way thatwe can be heldto be free in ouractionsin sucha
+way thatwe can be held to be morallyresponsiblefor our actionsin
+sucha waythatanypunishment        or rewardforouractionsis ultimately
+just or fair. Punishments  andrewardsmayseemdeeplyappropriate      or
+intrinsically'fitting'to us in spite of this argument,andmanyof the
+variousinstitutions of punishment   andrewardin humansocietyappear
+to be practicallyindispensable  in boththeirlegalandnon-legalforms.
+Butif onetakesthenotionofjusticethatis centralto ourintellectual and
+culturaltraditionseriously,thenthe evidentconsequenceof the Basic
+16                        GALENSTRAWSON
+
+Argumentis thatthereis a fundamental    sensein whichno punishment
+orrewardis everultimately just. Itis exactlyasjustto punishorreward
+peoplefortheiractionsas it is to punishorrewardthemforthe(natural)
+colourof theirhair or the (natural)shapeof theirfaces. The point
+seemsobvious,andyet it contradicts   a fundamental partof ournatural
+self-conception,and thereare elementsin humanthoughtthatmove
+verydeeplyagainstit. Whenit comesto questionsor responsibility,
+we tendto feel thatwe aresomehowresponsiblefor the way we are.
+Evenmoreimportantly,   perhaps,we tendto feel thatourexplicitself-
+consciousawarenessof ourselvesas agentswho areableto deliberate
+aboutwhatto do, in situationsof choice, sufficesto constituteus as
+morallyresponsiblefree agentsin the strongestsense, whateverthe
+conclusionof theBasicArgument.
+
+
+                                 VI
+
+I havesuggestedthatit is step(2) of the restatedBasicArgumentthat
+mustbe rejected,andof courseit canbe rejected,becausethe phrases
+'trulyresponsible'and 'trulymorallyresponsible'can be definedin
+manyways. I will brieflyconsiderthreesortsof responseto theBasic
+Argument,andI will concentrate   on theirmoresimpleexpressions,in
+thebeliefthattruthin philosophy,especiallyin areasof philosophylike
+thepresentone,is almostneververycomplicated.
+   (I)Thefirstis compatibilist.Compatibilists  believethatonecanbe a
+freeandmorallyresponsible   agentevenif determinism   is true.Roughly,
+theyclaim,withmanyvariations    of detail,thatonemaycorrectlybe said
+to be trulyresponsiblefor whatone does, whenone acts,just so long
+as one is notcausedto actby anyof a certainset of constraints  (klepto-
+maniacimpulses,obsessionalneuroses,desiresthatareexperiencedas
+alien,post-hypnotic commands,threats,instancesofforcemajeure,and
+so on). Clearly,thissortof compatibilistresponsibility doesnotrequire
+thatone shouldbe trulyresponsiblefor how one is in any way at all,
+andso step(2) of theBasicArgumentcomesoutas false. Onecanhave
+compatibilist responsibilityevenif thewayone is is totallydetermined
+by factorsentirelyoutsideone'scontrol.
+              THEIMPOSSIBILITY
+                            OFMORALRESPONSIBILITY                  17
+   It is for this reason, however, that compatibilistresponsibility
+famouslyfails to amountto anysortof truemoralresponsibility,      given
+the natural,strongunderstanding  of the notionof truemoralresponsi-
+bility(characterizedaboveby referenceto thestoryof heavenandhell).
+Onedoes whatone doesentirelybecauseof the wayone is, andone is
+in no way ultimatelyresponsiblefor the way one is. So how can one
+be justlypunishedfor anythingone does? Compatibilists       have given
+increasingly refinedaccountsof thecircumstances  in whichpunishment
+maybe saidto be appropriate  or intrinsicallyfitting.But theycan do
+nothingagainstthisbasicobjection.
+   Manycompatibilists  haveneversupposedotherwise.Theyarehappy
+to admitthepoint.Theyobservethatthenotionsof truemoralresponsi-
+bilityandjusticethatareemployedintheobjectioncannotpossiblyhave
+applicationto anythingreal,andsuggestthattheobjectionis therefore
+notworthconsidering.In response,proponents     of theBasicArgument
+agreethatthenotionsof truemoralresponsibility   andjusticeinquestion
+cannothaveapplicationto anythingreal;buttheymakeno apologies
+for consideringthem. They considerthembecausethey are central
+to ordinarythoughtaboutmoralresponsibility     andjustice. So far as
+mostpeopleareconcerned,theyarethe subject,if the subjectis moral
+responsibilityandjustice.
+    (II)Thesecondresponseis libertarian.Incompatibilists    believethat
+freedomandmoralresponsibilityareincompatible        withdeterminism,
+and some of themare libertarians,   who believethatthatwe are free
+andmorallyresponsibleagents,andthatdeterminism        is thereforefalse.
+Inaningeniousstatementof theincompatibilist-libertarian    case,Robert
+Kanearguesthatagentsin anundetermined      worldcanhavefreewill,for
+theycan"havethepowerto makechoicesforwhichtheyhaveultimate
+responsibility".Thatis, they can "havethe powerto makechoices
+whichcanonlyandfinallybe explainedin termsof theirownwills (i.e.
+character,motives,andeffortsof will)".9Roughly,Kaneseesthispower
+as groundedin thepossibleoccurrence,    in agents,of effortsof will that
+have two mainfeatures:first,they arepartlyindeterministic       in their
+nature,andhenceindeterminate    in theiroutcome;second,theyoccurin
+casesin whichagentsaretryingto makea difficultchoicebetweenthe
+optionsthattheircharacters disposethemto consider.(Theparadigm
+18                       GALENSTRAWSON
+
+caseswillbe casesin whichtheyfacea conflictbetweenmoraldutyand
+non-moraldesire.)
+   But the old objectionto libertarianism  recurs.How can this inde-
+terminismhelp with moral responsibility?Grantedthatthe truthof
+determinism   rulesout truemoralresponsibility, how can the falsityof
+determinism   help? How canthe occurrenceof partlyrandomor inde-
+terministiceventscontributein any way to one's beingtrulymorally
+responsible  eitherforone'sactionsorforone'scharacter?   If myefforts
+of will shapemy characterin an admirableway,andin so doingare
+partlyindeterministic innature,whilealsobeingshaped(asKanegrants)
+by my alreadyexistingcharacter,   whyamI notmerelylucky?
+   The generalobjectionappliesequallywhetherdeterminism        is true
+orfalse,andcanbe restatedas follows.Wearebornwitha greatmany
+geneticallydetermined  predispositionsforwhichwearenotresponsible.
+Wearesubjecttomanyearlyinfluencesforwhichwearenotresponsible.
+Thesedecisivelyshapeourcharacters,    ourmotives,thegeneralbentand
+strengthof ourcapacityto makeeffortsof will. Wemaylaterengagein
+consciousandintentionalshapingprocedures     - call themS-procedures
+- designedto affectandchangeourcharacters,      motivationalstructure,
+andwills. Supposewe do. Thequestionis thenwhy we engagein the
+particular S-procedures  thatwe do engagein, andwhy we engagein
+themin the particular  way thatwe do. The generalansweris thatwe
+engagein the particular  S-procedures thatwe do engagein, giventhe
+circumstances   in whichwe findourselves,becauseof certainfeatures
+of the way we alreadyare. (Indeterministic    factorsmay also play a
+partin whathappens,but these will not help to makeus responsible
+for whatwe do.) Andthesefeaturesof the way we alreadyare- call
+themcharacter    features,or C-features- areeitherwhollythe products
+of geneticor environmental    influences,deterministic or random,for
+whichwe arenotresponsible,or areat leastpartlythe resultof earlier
+S-procedures,   whicharein turneitherwhollytheproductof C-features
+forwhichwe arenotresponsible,     orareatleastpartlytheproductof still
+earlierS-procedures,  whichareturneithertheproductsof C-features   for
+whichwe arenotresponsible,ortheproductof suchC-features      together
+with still earlierS-procedures  - andso on. In the end, we reachthe
+firstS-procedure,  andthis will havebeenengagedin, andengagedin
+                            OFMORALRESPONSIBLITY
+              THEIMPOSSIBILITY                                    19
+theparticular way in whichit was engagedin, as a resultof geneticor
+environmental                      or random,forwhichwe werenot
+               factors,deterministic
+responsible.
+   Movingaway fromthe possiblerole of indeterministic      factorsin
+characteror personalityformation,we canconsidertheirpossiblerole
+            instancesof deliberation
+in particular                        anddecision.Heretoo it seems
+clearthatindeterministic  factorscannot,in influencingwhathappens,
+contributeto truemoralresponsibility in anyway.Intheend,whatever
+we do, we do it eitheras a resultof randominfluencesfor whichwe
+arenot responsible,or as a resultof non-random  influencesfor which
+we are not responsible,or as a resultof influencesfor whichwe are
+proximallyresponsible   butnotultimatelyresponsible.Thepointseems
+obvious.Nothingcanbe ultimatelycausa sui in anyrespectatall. Even
+if Godcanbe, we can'tbe.
+    Kane says little aboutmoralresponsibilityin his paper,but his
+positionseemsto be thattruemoralresponsibility    is possibleif inde-
+terminismis true. It is possiblebecausein casesof "moral,prudential
+andpracticalstrugglewe . .. are truly 'makingourselves' in such a way
+thatwe are ultimatelyresponsiblefor the outcome".This 'makingof
+ourselves'meansthat"wecanbe ultimatelyresponsible      forourpresent
+motivesandcharacterby virtueof pastchoiceswhichhelpedto form
+themandfor whichwe wereultimatelyresponsible"       (op. cit., p. 252).
+It is for this reasonthatwe canbe ultimatelyresponsibleandmorally
+responsiblenot onlyin casesof strugglein whichwe are'makingour-
+selves',butalsoforchoicesandactionswhichdo notinvolvestruggle,
+flowingunopposedfromourcharacter     andmotives.
+    In claimingthatwe can be ultimatelyresponsiblefor our present
+motivesand character,Kaneappearsto accept step (2) of the Basic
+Argument.He appearsto acceptthatwe have to 'makeourselves',
+andso be ultimatelyresponsiblefor ourselves,in orderto be morally
+responsiblefor whatwe do.10Theproblemwiththis suggestionis the
+old one. In Kane'sview, a person's'ultimateresponsibility'for the
+outcomeof an effortof will dependsessentiallyon the partlyindeter-
+ministicnatureof the outcome.Thisis becauseit is only the element
+of indeterminism   thatpreventspriorcharacterandmotivesfromfully
+explainingthe outcomeof the effortof will (op. cit, p. 236). Buthow
+20                        GALENSTRAWSON
+
+canthisindeterminism  helpwithmoralresponsibility?
+                                                 Howcanthefact
+thatmy effortof will is indeterministic
+                                     in sucha waythatits outcome
+is indetenninate
+               makeme trulyresponsibleforit, orevenhelpto make
+metrulyresponsible forit? Howcanit helpin anywayatall withmoral
+responsibility? How can it make punishment- or reward- ultimately
+just?
+    Thereis a further,familiarproblemwiththeviewthatmoralrespon-
+sibilitydependson indeterminism.If one acceptsthe view, one will
+haveto grantthatit is impossibleto knowwhetherany humanbeing
+is evermorallyresponsible.Formoralresponsibility      now dependson
+the falsityof determinism,  anddeterminism    is unfalsifiable.Thereis
+no morereasonto thinkthatdeterminism      is falsethanthatit is true,in
+spite of the impressionsometimesgivenby scientistsandpopularizers
+of science.
+    (III)Thethirdoptionbeginsbyacceptingthatonecannotbeheldtobe
+ultimatelyresponsible  forone'scharacter orpersonality  ormotivational
+structure.It acceptsthatthisis so whetherdeterminism    is trueorfalse.
+It thendirectlychallengesstep(2) of theBasicArgument.It appealsto
+a certainpictureof the self in orderto arguethatone canbe trulyfree
+andmorallyresponsiblein spiteof thefactthatonecannotbe heldto be
+ultimatelyresponsibleforone'scharacter   orpersonality  ormotivational
+structure.Th}ispicturehas some supportin the 'phenomenology'         of
+               -
+humanchoice we sometimesexperienceourchoicesanddecisionsas
+if thepicturewereanaccurateone. Butit is easyto showthatit cannot
+be accuratein sucha way thatwe canbe saidto be trulyor ultimately
+morallyresponsibleforourchoicesoractions.
+    Itcanbe setoutas follows.Oneis freeandtrulymorallyresponsible
+becauseone'sself is, in a crucialsense,independent   of one'scharacter
+orpersonality  ormotivational         - one'sCPM,forshort.Suppose
+                              structure
+oneis in a situationwhichoneexperiencesas a difficultchoicebetween
+A, doingone'sduty,andB, followingone'snon-moraldesires.Given
+one'sCPM,one respondsin a certainway. One'sdesiresandbeliefs
+developand interactandconstitutereasonsfor bothA andB. One's
+CPMmakesonetendtowardsA orB. So fartheproblemis thesameas
+ever:whateveronedoes,onewilldo whatonedoesbecauseof theway
+one'sCPMis, andsinceoneneitheris norcanbe ultimatelyresponsible
+                            OFMORALRESPONSIBLITY
+              THEIMPOSSIBILITY                                     21
+
+forthewayone'sCPMis, onecannotbe ultimatelyresponsible   forwhat
+onedoes.
+   Enterone'sself, S. S is imaginedto be in someway independent
+                                                              of
+one'sCPM.S (i.e. one) considersthe deliverancesof one'sCPMand
+decides in the light of them,butit - S - incorporatesa powerof decision
+thatis independent of one's CPMin sucha way thatone can afterall
+countas trulyandultimatelymorallyresponsiblein one'sdecisionsand
+actions,eventhoughone is not ultimatelyresponsiblefor one'sCPM.
+Step(2) of theBasicArgumentis falsebecauseof theexistenceof S."
+    The troublewith the pictureis obvious. S (i.e. one) decideson
+the basisof the deliverancesof one's CPM.But whateverS decides,
+it decidesas it does becauseof the way it is (orelse becausepartlyor
+whollybecauseof theoccurrence   in thedecisionprocessof indetermin-
+istic factors for which it - i.e. one - cannotbe responsible,and which
+cannotplausiblybe thoughtto contribute   to one'struemoralresponsi-
+bility).Andthisreturnsus to wherewe started.Tobe a sourceof true
+orultimateresponsibility, S mustbe responsibleforbeingthewayit is.
+Butthisis impossible,forthereasonsgivenin theBasicArgument.
+   Thestoryof S andCPMaddsanotherlayerto thedescription       of the
+humandecisionprocess,butit cannotchangethefactthathumanbeings
+cannotbe ultimatelyself-determining  in sucha wayas to be ultimately
+morallyresponsibleforhowtheyare,andthusforhowtheydecideand
+act. Thestoryis crudelypresented,butit shouldsufficeto makeclear
+thatno moveof thissortcansolvetheproblem.
+    'Characteris destiny',as Novalisis oftenreportedas saying.12The
+remarkis inaccurate, becauseexternalcircumstances  arepartof destiny,
+but the point is well takenwhen it comes to the questionof moral
+responsibility.Nothingcan be causa sui, and in orderto be truly
+morallyresponsible  forone'sactionsonewouldhaveto be causa sui, at
+leastin certaincrucialmentalrespects.Onecannotinstituteoneselfin
+sucha waythatone cantakeovertrueor assumemoralresponsibility
+for how one is in such a way thatone can indeedbe trulymorally
+responsibleforwhatone does. Thisfactis notchangedby thefactthat
+we maybe unablenotto thinkof ourselvesas trulymorallyresponsible
+in ordinarycircumstances.Nor is it changedby the fact thatit may
+be a very good thingthatwe have this inability- so thatwe might
+22                                 GALEN STRAWSON
+
+wishto takestepsto preserveit, if it lookedto be in dangerof fading.
+As alreadyremarked,   manyhumanbeingsareunableto resistthe idea
+                                                                  in
+thatit is theircapacityfor fully explicitself-consciousdeliberation,
+a situationof choice,thatsufficesto constitutethemas trulymorally
+responsibleagentsin thestrongestpossiblesense. TheBasicArgument
+showsthatthisis a mistake.Howeverself-consciously    awarewe are,as
+we deliberateandreason,everyactandoperationof ourmindhappens
+as it does as a resultof featuresfor which we are ultimatelyin no
+way responsible.But the convictionthatself-consciousawarenessof
+one's situationcan be a sufficientfoundationof strongfree will is
+verypowerful.It runsdeeperthanrationalargument,andit survives
+untouched,  in theeverydayconductof life, evenafterthevalidityof the
+BasicArgument    hasbeenadmitted.
+
+                                           VII
+
+Thereis nothingnew in the somewhatincantatoryargumentof this
+paper. It restatescertainpointsthatmay be in need of restatement.
+"Everything hasbeensaidbefore",saidAndreGide,echoingLaBruyere,
+"butsince nobodylistenswe have to keepgoingbackandbeginning
+all over again." This is an exaggeration,but it may not be a gross
+exaggeration,                            aboutthehumancondition
+              so faras generalobservations
+areconcerned.
+   Thepresentclaim,in anycase,is simplythis:timewouldbe saved,
+anda greatdealof readilyavailableclaritywouldbe introduced intothe
+discussionof thenatureof moralresponsibility,
+                                           if thesimplepointthatis
+establishedby theBasicArgument   weremoregenerallyacknowledged
+andclearlystated.Nietzschethoughtthatthoroughgoing   acknowledge-
+mentof the pointwas long overdue,and his belief thattheremight
+be moraladvantagesin suchan acknowledgement     maydeservefurther
+consideration.13
+
+                                          NOTES
+
+l    Adaptedfrom G. Strawson,1986, pp. 28-30.
+2
+     Thatis, the infinite series must have a beginningand an end, which is impossible.
+                               OFMORALRESPONSIBILITY
+                 THEIMPOSSIBILITY                                                 23
+3 Two have rejectedit in fifteen years. Both had religious commitments,and argued,
+on general andradicalsceptical grounds,thatwe can know almost nothing,and cannot
+thereforeknow thattruemoralresponsibilityis not possible in some way thatwe do not
+understand.
+4 It is notablethatboth RobertKane (1989) and Alfred Mele (forthcoming),in two of
+the best recent incompatibilistdiscussions of free will and autonomy,have relatively
+little to say aboutmoralresponsibility.
+S Cf. NichomacheanEthics III. 5.
+6 Cf. MacKay(1960), and the discussion of the 'GenuineIncompatibilistDeterminist'
+in G. Strawson(1986, pp. 281-6).
+7 I suspect that they have startedout from their subjective certaintythat they have
+true moralresponsibility.They have then been led by reflectionto the realizationthat
+they cannot really have such moral responsibilityif they are not in some crucial way
+responsiblefor being the way they are. They have accordinglyconcludedthatthey are
+indeed responsiblefor being the way they are.
+8 Carrin WhatIs History?,p. 89; Sartrein Being and Nothingness,Existentialismand
+Humanism,p. 29, and in the New Left Review 1969 (quotedin Wiggins, 1975); Kant
+in Religion withinthe Limitsof ReasonAlone, p. 40, The Critiqueof Practical Reason,
+p. 101 (Ak. V. 98), and in Opus Postumum,p. 213; Pattenin The Spectator,January
+1992.
+     These quotationsraise manyquestionswhich I will not consider. It is often hard,for
+example, to be sure what Sartreis saying. But the occurrenceof the quotedphrasesis
+significanton any plausibleinterpretationof his views. As for Kant,it may be thought
+to be odd thathe says whathe does, in so faras he groundsthepossibilityof ourfreedom
+in our possession of an unknowable,non-temporalnoumenal nature. It is, however,
+plausibleto supposethathe thinksthatradicalor ultimateself-determinationmust take
+place even in the noumenalrealm,in some unintelligiblynon-temporalmanner,if there
+is to be true moralresponsibility.
+9 Kane (1989) p. 254. I have omitted some italics.
+10 He cites VanInwagen (1989) in supportof this view.
+1' Cf. C.A. Campbell(1957).
+12
+     e.g. by George Eliot in The Mill on the Floss, book 6, chapter6. Novalis wrote
+"Oft fiihl ich jetzt ... [und]je tiefer einsehe, dass Schicksal und Gemut Namen eines
+Begriffes sind"- "I often feel, andever moredeeply realize, thatfate andcharacterare
+the same concept". He was echoing Heracleitus,Fragment119 DK.
+13 Cf. R. Schacht(1983) pp. 304-9. The idea thatthere mightbe moraladvantagesin
+
+the clear headed admissionthattrue or ultimatemoralresponsibilityis impossible has
+recentlybeen developed in anotherway by Saul Smilansky(1994).
+24                             GALENSTRAWSON
+
+                                  REFERENCES
+
+Aristotle,1953.Nichomachean  Ethics,trans.J. A. K. Thomson,Allen andUnwin,
+   London.
+Campell,C.A., 1957.'Hasthe Self "FreeWill"?',in C.A.Campbell,OnSel hoodand
+   Godhood,AllenandUnwin,London.
+Caff,E.H.,1961.WhatIs History?,Macmillan, London.
+Kane,R., 1989. 'Twvo Kindsof Incompatibilism',PhilosophyandPhenomenological
+   Research50, pp.219-254.
+Kant, I., 1956. Critiqueof PracticalReason,trans.L. W. Beck, Bobbs-Merrill,
+   Indianapolis.
+Kant,I., 1960. Religion within the Limitsof ReasonAlone, trans.T. M. Greene and H.
+  H. Hudson,HarperandRow,NewYork.
+                          trans.E. F6rsterandM. Rosen,Cambridge
+Kant,I., 1993.Opuspostumum,                                     University
+  Press,Cambridge.
+MacKay,D.M.,1960.'OntheLogicalIndeterminacy  of FreeChoice',Mind69, pp.31-
+  40.
+Mele, A., 1995. AutonomousAgents: FromSelf-Controlto Autonomy,OxfordUniver-
+   sityPress,NewYork.
+Nietzsche,F., 1966.BeyondGoodandEvil,trans.WalterKaufmann,
+                                                        RandomHouse,
+   New York.
+Novalis, 1802. Heinrichvon Ofterdingen.
+Sartre,J.-P.,1969.BeingandNothingness,trans.HazelE. Barnes,Methuen,London.
+Sartre,J.-P., 1989. Existentialism
+                                 and Humanism,trans.Philip Mairet,Methuen,
+   London.
+Schacht,R., 1983.Nietzsche,RoutledgeandKeganPaul,London.
+Smilansky, S., 1994. 'TheEthicalAdvantages
+                                         of HardDeterminism',Philosophyand
+     PhenomenologicalResearch.
+Strawson,G., 1986.FreedomandBelief,ClarendonPress,Oxford.
+VanInwagen,P.,1989.'WhenIstheWillFree?',PhilosophicalPerspectives
+                                                                3, pp.399-
+   422.
+Wiggins,D., 1975.'Towards
+                        a Reasonable              inT.Honderich,
+                                    Libertarianism',            ed.,Essays
+     on Freedomof Action, Routledge,London.
+
+
+JesusCollege,Oxford
+OxfordOXI3DW
+England
+

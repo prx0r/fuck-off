@@ -1,0 +1,233 @@
+# Towards a Theoretical Biology
+
+**source:** pdf · **section:** introduction
+**file:** Waddington
+---
+
+ NATURE. VOL. 218. MAY          1 1. 1968                                                                              525
+
+Towards a Theoretical Biology
+by                                                Two symposia on theoretical biology were held in 1966 and 1967
+C. H. WADDINGTON                                  at the instigation of the International Union of Biological Sciences.
+                                                  The meetings were organized by Professor Waddington, and in this
+Institute of Animal Genetics,
+Edinburgh                                         article he outlines some of the points discussed at the meetings.
+                                                  The essays arising from the first symposium have recently been pub-
+                                                  lished under the title Towards a Theoretical Biology.
+
+THEORETICAL physics is a well recognized discipline, and        by Cairns Smith, and tactic copolymers by Pattee. The
+there are departments and professorships devoted to the         reason why one is not tempted to apply the word living
+subject in many universities. Moreover, it is widely            to the product of such processes is, I claimed, that they
+accepted that theories of the nature of the physical            are not even potentially interesting enough; they do not,
+universe have profound consequences for problems of             that is to say, suffice to provide any way in which one can
+general philosophy. In contrast to this situation, theoreti-    hope to comprehend the complexity and elaboration
+cal biology can hardly be said to exist as an academic          which living systems are so obviously capable of produc-
+discipline. There is even little agreement as to what           ing. The reduction of the biological system to mutable
+topics it should deal with, or in what manner it should         hereditary information therefore leaves out a feature which
+proceed.                                                        is essential for any theory which is to be applicable to
+   The International Union of Biological Sciences has felt      biology as a whole. We need a hereditary system which
+that it is its duty, as the central focus of international      does not merely contain information, but which acts as
+organizations of all the branches of biology, to explore the    algorithms or programmes and thus leads to the produc-
+possibility of formulating some skeleton of concepts and        tion of a phenotype which takes its place between the
+methods around which theoretical biology can grow. I t          genotype and the envirorunent. I t is the phenotype which
+was clear that the task would not be easy; and it was           acts on the environrnent (for example, in metabolism) and
+therefore arranged that a series of three symposia should       it is on phenotypes that the environment exerts its natural
+be held at yearly intervals. The intention was that the         selective forces.
+discussions would be concerned, not with the theory of             The fact that phenotypes are essential features of
+particular biological processes, such as membrane permea-       biological systems, which cannot be omitted from any
+bility, genetics, neural activity, and so on, but rather with   general theory, and the consequential implication that
+an attempt to discover and formulate general concepts           information theory is inadequate for biology and needs
+and logical relations characteristic of living as contrasted    to be replaced by a theory of algorithms or prograrnmes,
+with inorganic systems; and further, with a consideration       was emphasized by several other speakers approaching
+of any implications these might have for general philo-         the matter from different, and in many cases more formally
+sophy. I was asked to invite suitable speakers and to           mathematical or physical, points of view. Thus Michie
+organize the meetings.                                          and Longuet-Higgins, discussing biological replication
+   Two symposia have so far been held, in 1966 and 1967,        in terms of computer programming, emphasized the
+both at the Villa Serbelloni, Bellagio, Lake Como, at the       practical necessity of segregating the prograrnme and the
+kind invitation of the Rockefeller Foundation. Essays           operating rnachinery of the computer, which corresponds
+arising from the first meeting have been published under        in biological terms to the separation of genome and
+the title Towards a Theoretical Biology—I. Prologomena          phenotype. As Pattee remarked, the logic of this neces-
+(Edinburgh University Press and the Aldine Press,               sity has been discussed by von Neumann in Theory of
+Chicago). The volume arising from the second meeting            Self Reproducing Automata (University of Illinois Press,
+will appear during the summer.                                  1966). Pattee put the same point in another way when he
+   In an introductory precirculated paper I pointed out         emphasized that an effective hereditary system requires
+that at the beginning of this century it was usually con-       both a memory store, which must be constructed of rather
+sidered that the most characteristic feature of life is its     inactive materials if it is to be stable enough and a
+metabolism. "The constant synthesis, then, of specific          mechanism not only for being replicated but also for
+material from simple compounds of a non-specific charac-        affecting its surroundings. Whether it is theoretically
+ter is the chief feature by which living matter differs from    possible to conceive of a substance which is sufficiently
+non-living matter", was the way it was expressed by             unreactive to be an efficient store and also sufficiently
+Jacques Loeb in 1916. At that time, there was a good deal       reactive to affect the environment is perhaps debatable.
+of discussion about whether living systems presented us         In practice, however, it is clear that living things on this
+with real or only apparent and local exceptions to the          Earth have not discovered such a material. They have
+Second Law of Thermodynamics.                                   in general settled on the rather unreactive DNA as the
+                                                                memory store and on RNA and proteins to decode this
+   About 40 years ago, however, it began to be realized         into enzymes which participate both in the replication
+that such views gave insufficient attention to the over-        of the store and in interactions with the environment.
+whelmingly important phenomenon of evolution and the
+increase in complexity of living things. The view gradu-           Following this line of thought, Pattee raised a question
+ally gained ground, particularly under the urging of H. J.      from the point of view of quantum mechanics, which
+Muller, that the essential feature of life resides in its       seemed perhaps rather recondite to many of the biologists
+possession of a hereditary system capable of mutation, and      present. The stability of the algorithms stored in DNA is
+thus of being affected by the process of natural selection.     ensured by quantum mechanical processes which define
+The orthodox view became, and in many quarters perhaps          the configuration of single DNA molecules. Their replica-
+still remains, that the basic elements of life are the genes    tion and decoding depend on the actions of enzymes,
+as units of information. I argued that the older view           such as the polymerases, which ensure that the bases in a
+should not be completely abandoned. One can find                single strand of DNA are paired up correctly with the
+examples of mutable hereditary information in extremely         complementary bases to form the second strand or the
+simple systems that no one would consider alive. Two            corresponding RNA. The existence of such enzymes
+examples were fairly thoroughly discussed; irregularities       cannot, he claims, be deduced from the fundamental
+in the crystal lattices of complex materials such as clays      laws of physics. They are acting as "non-holonomic"
+
+                                                     ) 1968 Nature Publishing Group
+ 526                                                                                 NATURE, VOL. 218. MAY 1 I. 1968
+
+ constraints to limit the degrees of freedom of the whole        higher organisnis. There was little realization among
+ system. Their origin at some very early stage of evolution      embryologists of the enormous complexities of such
+ is one of the major problems. Moreover, the stability of        objects, as revealed by genetics. The focus of attention
+ the algorithms stored in DNA is ensured by quantum             was on the cell as a unified entity, and its differentiation
+ mechanical processes, but the polymerases decode this           was considered in terms of such vaguely formulated
+ into quantities of proteins and other cell constituents        concepts as "potentiality", "organizers", and the like.
+ sufficiently large to operate according to the laws of         In recent times attention has shifted to the other end of
+ classical physics. We are confronted therefore With an         the spectrum of possible types of theory. Any writer of
+example of a "quantum measurement", a matter which              today about the general principles of differentiation will
+seems to cause theoretical physicists many headaches.           almost inevitably begin (and very often end) with the
+    The essential dependence of a hereditary system on the      Jacob—Monod repressor-operon story of the control of the
+existence of non-holonomic constraints on the degrees of        action of a single gene (or small group of genes) in
+freedom is one example of a class of problems which             prokaryotic organisms in the chromosomes of which the
+appeared in several different guises during the discussions.    DNA is not usually complexed with protein. This is, of
+A non-holonomic constraint may be regarded as a part            course, to trace the alphabet of possible control mechan-
+of a physical system which has a very long relaxation           isms in cell differentiation no further than from A to
+time in comparison with the remainder of the system (as         perhaps C; but it does certainly provide a line of approach
+the polymerase molecules persist for a much longer time         to the much more sophisticated mechanisms which we
+than it takes them to perform one base pairing). Bastin,        must expect to find in more highly evolved organisms
+considering the nature of the concept of a hierarchy of         in which the DNA is normally combined with protein,
+levels of organization, which plays such an important           and in which, the evidence suggests, at least at a crude
+part in biology, argued that the only logical way in whioh      level, the control is exerted on quite large batteries of
+it is possible to discriminate a number of activities into a    genes rather than on single ones.
+hierarchy is by considering their reaction times, a higher         On the other hand, there is a real intellectual task to be
+level in the hierarchy always having a much longer reac-        carried out by theoretical biologists in formulating a
+tion time than a level classified as lower. Again, Bohm         scheme of thought adequate for discussion of the global
+discussed the concept of order as basic both to quantum         epigenetic properties of entities as complex as higher
+mechanics and to fundamental biology, and argued that a         organism cells. The distinctions between a nerve cell, a
+hierarchical order or orders must eventually imply the          muscle cell and a liver cell must involve differences in the
+existence of a "timeless order", thus emphasizing the           activities of a large number of genes (at least several
+importance of gross differences in reaction time.               hundred, possibly an order of magnitude more). The
+    On a more down to earth biological level I have often       facts that in normal development only a limited number
+emphasized that no conceptualization of a living system is      of different cell types put in an appearance, and that each
+adequate unless it includes at least four importantly           of them shows some power of "regulation" or resistance
+different time scales, those of metabolism, development,        to disturbing effects of the environment, indicate that we
+heredity and evolution. In those parts of the discussion        are dealing with a number of domains of phase space,
+more concerned with biology than the deeper philosophical       each containing a vector field dominated by a particular
+questions of quantum theory and the like, all these four        attractor. In the context of development we have to
+levels came in for some consideration. The processes of         think of these attractors as extended in the time dimen-
+metabolism were considered mainly in their more funda-         sion. The fact that the vector fields converge on to the
+mental aspects, that is to say, in connexion with the          attractors gives rise to a process of "homeorhesis", which
+synthesis of new compounds, particularly proteins. The         can be contrasted with the more conventional idea of
+discussions started from the two basic points; that even       homeostasis in which the vector fields converge on to a
+the simplest living systems are exceedingly complex, so        static point which is not time-extended. I have proposed
+that many synthetic processes are proceeding simultane-        the name "chreod" for such a multidimensional domain
+ously; and that each of these processes is subject to          which contains a vector field converging on to a time-
+control mechanisms, often of the type loosely referrred to     extended attractor.
+as negative feedback. One of the major methods used in             This notion was developed in a way which was both
+the physical sciences for the handling of complex systems      more generalized and more precisely formulated by the
+is statistical mechanics. At the second symposium in           French topologist, Rene Thom. He pointed out that the
+particular, there was an extended discussion of the            concept can be used over a much wider field than that of
+applications of statistical mechanics to a variety of bio-     embryonic development; for example, the field of the
+logical problems, not all at the level of metabolism.          shades of meaning of a word can be regarded as a chreod
+Kerner was one of the first to discover a way of handling      dominated by the attractor which is its "concise diction-
+the non-linear Volterra equations, which were originally       ary" meaning. Again, at the second meeting Richard
+formulated in connexion with competition between species       Gregory discussed a theory of perception under the pro-
+in ecology, in such a way as to make them amenable to          vocative title "How so little information controls so
+statistical mechanical techniques. Goodwin showed that         much behaviour". His answer was, roughly, that a small
+the same equations can be applied to metabolic synthetic       amount of information arriving through the sense organs
+systems involving feed-back, and discussed at length the       activates "pre-existing" models in the brain—which can
+oscillatory behaviour to be expected in cells on this basis    be otherwise expressed by saying that the incoming,
+(see his book, Temporal Organisation in Cells, Academic        information falls within the domain of a certain chreod
+Press, 1964). This is one of the fields in which mathemati-    and thus converges on to its attractor.
+cal theory has led to a considerable amount of experimenta-        The main feature of the discussions in this area, however,
+tion, which has on the whole confirmed the theoretical         was an analysis by Thorn of the "catastrophes" at which
+predictions. Cowan has applied a similar mathematical          the organization controlling one domain breaks down and
+treatment to complex neural networks, while Ibberal            the system becomes switched into one or more alterna-
+has studied a whole spectrum of oscillatory physiological      tives. Physical examples are a shock wave, a liquid jet
+phenomena, with periods varying from a few seconds to          breaking up into drops, a wave breaking. He claims to
+several days, presumably arising from control systems with     have shown that in real four dimensional space there are
+a similar mathematical structure.                              only seven possible types of elementary catastrophe.
+  In the field of development or epigenesis the last two          Evolution was perhaps the most central theme through-
+decades have again seen great changes in the general           out the whole discussions. Many physicists seem ready
+tenor of biological theory. Up till about the mid-thirties     to concede that the principle of natural selection imparts
+the emphasis was on the differentiation of the cells of        to the biological world a type of logical structure, which
+
+                                                   ) 1968 Nature Publishing Group
+ NATURE, VOL. 2 1 8 . MAY 1 1, 1 9 6 8                                                                                   527
+
+ they scarcely meet in their own field of interest. Biologists,    not uniforrn, is both unrealistic and so lirniting as to be
+ however, while gratified to be told that physicists admit         intellectually boring. What if year n + 1 or even n + X
+ that biology offers problems which actually need thinking         brings a new predator, a new parasite, a new virus or a
+ about, still remain doubtful whether physicists have              new ice age ? Evolution is really about the ability to
+ realized just how challenging these problems really are.          cope with futures which cannot be entirely known but
+ The most precisely formulated statements of evolutionary         may not be wholly unforecastable. Evolutionary theory
+ theory are enshrined in the mathematical theories of             has to be bold enough to face up to the intellectually
+ Haldane, Fisher and Wright. The equations which these            challenging problems of "the strategy of the genes"
+ authors put down in the years around 1930 have, of course,        (I wrote a book of the same name, Allen and Unwin,
+ been greatly expanded and developed since then. The               1957). In what circumstances does it pay off in long
+ basic abstractions or simplifications of reality, however,       term survival of the species to operate like the mouse,
+ which they used to enable them to cast the problem into a        which concedes to the difference between living in a tropi-
+ particular set of differential equations still underlie and      cal environment or in a cold storage depot no more than a
+ limit all the more recent developments. Very few physi-          fractional increase in the length of its tail in the former
+ cists and not many more biologists realize just how limiting     and in thickness of its coat in the latter ? And, anyhow,
+ these simplifications are. For reasons which it would be         how does a species fix it that natural selection brings this
+ invidious to go into in any historical detail, Neo-Darwinism     situation to reality 7 Or, alternatively, when is it a "good
+ has become an established orthodoxy, any criticism of            thing" to be as developmentally flexible as Artemia and
+ which is regarded as little less than lese-majesti.              other Crustacea, which allow their development to be
+   I made the point, however, that mathematical Neo-              mooUfied by the immediate environment to the extent
+Darwinism attaches coefficients of selection to genotypes,        that the population of almost every ephemeral pond can
+whereas actually natural selection impinges in the first          be recognized as distinct ? When, and how, does an
+place on phenotypes. For theoretical Neo-Darwinism,               evolving species develop a blunderbuss defence mechanism
+evolutionary effectiveness is reduced to a one dimensional        against a whole category of threats that cannot be
+array of fitnesses, fitness being defined as the probability      specified in advance—as the higher vertebrates have done
+of leaving offspring in the next generation. I argued that        in evolving an antibody producing mechanism ? When,
+in order to get back from this array of fitnesses to geno-        again, is it the best line to evolve a mechanism which
+types you have to take the following logical steps: (1)           allows you to avoid a nasty selective threat by either
+accept that there is some validity in averaging, or other-        moving elsewhere (as some fish must have done when
+wise compounding, the fitnesses of various phenotypes             they colonized the extremely uninviting environment of
+over the whole range of environments which the popula-            the oceanic abysses) or by changing your behaviour and
+tion may encounter; (2) from each fitness value you have          food habits (as London sparrows must have done when
+to make a one-to-many mapping into a space of pheno-              the streets were taken over by pollution-producing auto-
+types; (3) from each phenotype you have to map back               mobiles, instead of horses with all those delicious seeds in
+to a genotype, passing through a space of "epigenetic             their dung).
+operators" which is not wholly constituted by the active             The discussion of questions like these brings one face
+genes, but in which environmental influences may act              to face with problems which offer as much intellectual
+as programme modifiers (thus again the mapping is not             challenge as quantum indeterminacy or Bohr's comple-
+essentially one-to-one). One has, then, the converse of           mentarity. Theorists in general science have staked out
+Gregory's situation "How does so little information               claims for a variety of fields in this area—games theory,
+control so much behaviour ?", namely, "What effect does           decision theory, systems theory, and the like. I t is not
+so much behaviour have on so little information ?"                clear to the biologists wrestling with actual situations
+   The Neo-Darwinist mathematical formulations were               that many of these "disciplines" amount to anything
+acceptable a third of a century ago when the chief point          more than the formulation of a lot of problems for which
+at issue was whether Mendelism could rescue Darwinian             no solutions can be provided; there seems to be a singular
+natural selection from the doldrums into which it had             dearth of actually proved theorems which the biologists
+fallen. They are patently inadequate, however, in                 can take over and employ. Possibly the people who are
+connexion with the much deeper ecological and population          trying to discover how to set up a computer to learn to
+genetical knowledge which we possess today.                       play good chess, or bridge, are among those most likely
+   To define fitness as the ability to leave offspring in the     to make a major contribution to the fundamental theory
+next generation, in an environment treated as static if           of evolution.
+
+Upper Miocene Primates from Kenya
+by                                                Specimens of Kenyapithecus wickeri representing the family Hominidae
+L. S. B. LEAKEY                                   have already been described from the Upper Miocene site at Fort
+                                                  Ternan, Kenya. The site has also yielded fossil remains of a member
+National Museum Centre for Prehistory
+and Palaeontology,                                of the Hylobatidae resembling Limnopithecus; teeth of a primate
+Nairobi                                           closely resembling Oreopithecus; teeth of a species of Proconsul;
+                                                  part of a jaw which suggests the genus Dryopithecus and some teeth
+                                                  of the family Cercopithecoidea.
+
+THE importance1 of  the discovery of Kenyapithecus wickeri        record information about the presence of other primate
+at Fort Ternan ' 2 attracted much attention, but so far,          material from this site.
+only passing reference has been made to the fact that the
+same site has yielded  evidence of a number of other con-         Hylobatidae c.f. Limnopithecus
+temporary primates3-4. I wish to rectify this position and         Parts of two mandibles, as well as a number of isolated
+
+                                                     ) 1968 Nature Publishing Group
+

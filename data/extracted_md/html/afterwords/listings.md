@@ -1,0 +1,1088 @@
+# Adams,
+
+**source:** html · **section:** afterwords
+**file:** listings
+---
+
+M. M. and R. M. Adams (1990). The Problem of evil. Oxford ; New York,
+Oxford University Press.
+Anderson,
+A. R. (1964). Minds and machines. Englewood Cliffs, N.J.,,
+Prentice-Hall.
+Andreasen,
+N. C. (2005). The creating brain : the neuroscience of genius. New York,
+Dana Press.
+Angrist,
+S. W. and L. G. Hepler (1967). Order and chaos; laws of energy and entropy.
+New York,, Basic Books.
+Arbib,
+M. A. (1972). The metaphorical brain; an introduction to cybernetics as
+artificial intelligence and brain theory. New York,, Wiley-Interscience.
+Arnheim,
+R. (1971). Entropy and art; an essay on disorder and order. Berkeley,, University of California Press.
+Atkins,
+P. W. (1984). The second law. New York, Scientific American Library :
+distributed by W.H. Freeman.
+Audi,
+R. (1995). The Cambridge Dictionary of Philosophy. Cambridge ; New York,
+Cambridge University Press: xxviii, 882.
+Augustine,
+A. S. Benjamin, et al. (1964). On free choice of the will.
+Indianapolis,, Bobbs-Merrill.
+Axelrod,
+R. M. (1984). The evolution of cooperation. New York, Basic Books.
+Barbour,
+I. G. (1966). Issues in science and religion. London,, S. C. M. Press.
+Barkow,
+J. H., L. Cosmides, et al. (1992). The Adapted mind : evolutionary
+psychology and the generation of culture. New York, Oxford University
+Press.
+Barnes,
+H. E. (1978). Existentialist ethics. Chicago, University of Chicago
+Press.
+Barrow,
+J. D. and F. J. Tipler (1986). The anthropic cosmological principle.
+Oxford Oxfordshire ; New York, Oxford University Press.
+Beauchamp,
+T. L. and J. F. Childress (1983). Principles of biomedical ethics. New
+York, Oxford University Press.
+Bent,
+H. A. (1965). The second law; an introduction to classical and statistical
+thermodynamics. New York,, Oxford University Press.
+Bernstein,
+J. (1976). Einstein. New York, Penguin Books.
+Bernstein,
+M. H. (1992). Fatalism. Lincoln, University of Nebraska Press.
+Berofsky,
+B. (1966). Free will and determinism. New York,, Harper & Row.
+Blackburn,
+S. (1996). The Oxford dictionary of philosophy. Oxford ; New York, Oxford
+University Press: ix, 418.
+Blackmore,
+S. J. (2006). Conversations on consciousness : what the best minds think
+about the brain, free will, and what it means to be human. Oxford ; New
+York, Oxford University Press.
+Blakemore,
+C. (1977). Mechanics of the mind. Cambridge ; New York, Cambridge
+University Press.
+Blum,
+H. F. (1968). Time's arrow and evolution. Princeton, N.J.,, Princeton
+University Press.
+Bohm,
+D. (1957). Causality and chance in modern physics. Princeton, N.J.,, Van
+Nostrand.
+Bohm,
+D. (1965). The special theory of relativity. New York,, W.A. Benjamin.
+Bohm,
+D. (1989). Quantum theory. New York, Dover Publications.
+Bohm,
+D. (2002). Wholeness and the implicate order. London ; New York,
+Routledge.
+Bohr,
+N. H. D. (1958). Atomic physics and human knowledge. New York,, Wiley.
+Bohr,
+N. H. D. (1987). The philosophical writings of Niels Bohr. Woodbridge,
+Conn., Ox Bow Press.
+Bohr,
+N. H. D., A. P. French, et al. (1985). Niels Bohr : a centenary volume.
+Cambridge, Mass., Harvard University Press.
+Borel,
+E. (1962). Probabilities and life. New York,, Dover Publications.
+Born,
+M. (1964). Natural philosophy of cause and chance; being the Waynflete
+lectures, delivered in the College of St. Mary Magdalen, Oxford, in Hilary
+Term, 1948, together with a new essay, Symbol and reality. New York,, Dover
+Publications.
+Born,
+M. (1969). Physics in my generation. New York,, Springer-Verlag.
+Born,
+M. (1978). My life : recollections of a Nobel laureate. New York,
+Scribner.
+Born,
+M., W. M. Deans, et al. (1936). The restless universe. New York,
+London,, Harper and brothers.
+Bourke,
+V. J. (1968). History of ethics. Garden City, N.Y.,, Doubleday.
+Boyle, J. M., G. G. Grisez, et al. (1976). Free choice : a self-referential
+argument. Notre Dame, Ind., University of Notre Dame Press.
+Bradley, F. H. (1927). Ethical Studies, second edition. Oxford
+England, Oxford University Press.
+Braginskiæi,
+V. B., F. Y. Khalili, et al. (1992). Quantum measurement. Cambridge
+England ; New York, NY, Cambridge University Press.
+Brandt,
+R. B. (1959). Ethical theory; the problems of normative and critical ethics.
+Englewood Cliffs, N.J.,, Prentice-Hall.
+Brandt,
+R. B. (1961). Value and obligation; systematic readings in ethics. New
+York,, Harcourt Brace & World.
+Brillouin,
+L. (1962). Science and information theory. New York,, Academic Press.
+Brillouin,
+L. (1964). Scientific uncertainty and information. New York,, Academic
+Press.
+Broad,
+C. D. and Tarner lecture 1923. [from old catalog] (1925). The mind and its
+place in nature. New York,, Harcourt Brace & company inc.
+Broda,
+E. (1957). Ludwig Boltzmann; Mensch, Pyhsiker, Philosoph. Berlin,,
+Deutscher Verlag der Wissenschaften.
+Bronowski,
+J. (1965). Science and human values. New York,, Harper & Row.
+Brown,
+J. R. (1976). Ergodic theory and topological dynamics. New York,
+Academic Press.
+Bruner,
+J. S. (1983). In search of mind : essays in autobiography. New York,
+Harper & Row.
+Bryson,
+L., L. Finkelstein, et al. (1950). Perspectives on a troubled decade:
+science, philosophy, and religion, 1939-1949; tenth symposium. New York;,
+Distributed by Harper.
+Byron,
+F. W. and R. W. Fuller (1992). Mathematics of classical and quantum physics.
+New York, Dover Publications.
+Calder,
+N. (1970). The mind of man; an investigation into current research on the
+brain and human nature. New York,, Viking Press.
+Calder,
+N. (1979). Spaceships of the mind. Harmondsworth, Eng. New York, Penguin
+Books.
+Campbell,
+K. (1970). Body and mind. Garden City, N.Y.,, Anchor Books.
+Carnap,
+R. and A. Shimony (1977). Two essays on entropy. Berkeley, University of
+California Press.
+Carter,
+R. and C. D. Frith (1998). Mapping the mind. Berkeley, CA., University
+of California Press.
+Cassirer,
+E. (1950). The problem of knowledge; philosophy, science, and history since
+Hegel. New Haven,, Yale University Press.
+Cassirer,
+E. (1955). The philosophy of the enlightenment. Boston,, Beacon Press.
+Cassirer,
+E. (1956). Determinism and indeterminism in modern physics; historical and
+systematic studies of the problem of causality. New Haven,, Yale University
+Press.
+Cassirer,
+E. (1964). The individual and the cosmos in Renaissance philosophy. New
+York,, Harper & Row.
+Cassirer,
+E. and C. W. Hendel (1946). The myth of the state. New Haven,
+London,,
+Yale University Press;
+G.
+Cumberlege Oxford University Press.
+Cassirer,
+E., P. O. Kristeller, et al. (1967). The Renaissance philosophy of man.
+Selections in translation. Chicago,, University of Chicago Press.
+Cassirer,
+E. and Yale university. Louis Stern memorial fund. (1944). An essay on man;
+an introduction to the philosophy of human culture. New Haven,
+London,,
+Yale university press;
+H.
+Milford Oxford university press.
+Chappell,
+V. C. (1962). The philosophy of mind. Englewood Cliffs, N.J.,,
+Prentice-Hall.
+Chomsky,
+N. (1971). Problems of knowledge and freedom. New York,, Pantheon Books.
+Churchland,
+P. M. (1979). Scientific realism and the plasticity of mind. Cambridge ;
+New York, Cambridge University Press.
+Churchland,
+P. M. (1988). Matter and consciousness : a contemporary introduction to the
+philosophy of mind. Cambridge, Mass., MIT Press.
+Churchland,
+P. S. (1986). Neurophilosophy : toward a unified science of the mind-brain.
+Cambridge, Mass., MIT Press.
+Clarke,
+R. (2003). Libertarian Accounts of Free Will, Oxford University Press.
+Comfort,
+A. (1966). The nature of human nature. New York,, Harper & Row.
+Compton,
+A. H. (1969). The freedom of man. New York,, Greenwood Press.
+Cosslett,
+T. (1984). Science and religion in the nineteenth century. Cambridge
+Cambridgeshire ; New York, Cambridge University Press.
+Crick,
+F. (1994). The astonishing hypothesis : the scientific search for the soul.
+New York
+New
+York, Scribner ;
+Maxwell
+Macmillan International.
+Cuddihy,
+J. M. (1987). The ordeal of civility : Freud, Marx, Lâevi-Strauss, and the
+Jewish struggle with modernity. Boston, Beacon Press.
+Damasio,
+A. R. (2003). Looking for Spinoza : joy, sorrow, and the feeling brain.
+Orlando, Fla., Harcourt.
+Davies,
+P. C. W. (1974). The physics of time asymmetry. Berkeley, University of
+California Press.
+Dawkins,
+R. (2003). A devil's chaplain : reflections on hope, lies, science, and love.
+Boston, Houghton Mifflin Co.
+Dawkins,
+R. and D. C. Dennett (1999). The extended phenotype : the long reach of the
+gene. Oxford ; New York, Oxford University Press.
+Deacon,
+T. W. (1997). The symbolic species : the co-evolution of language and the
+brain. New York, W.W. Norton.
+Delbrèuck,
+M. and G. S. Stent (1986). Mind from matter? : an essay on evolutionary
+epistemology. Palo Alto, Calif., Blackwell Scientific Publications.
+Dennett,
+D. C. (1978). Brainstorms : philosophical essays on mind and psychology.
+Montgomery, Vt., Bradford Books.
+Dennett,
+D. C. (1984). Elbow room : the varieties of free will worth wanting.
+Cambridge, Mass., MIT Press.
+Dennett,
+D. C. (1986). Content and consciousness. London ; Boston, Routledge
+& Kegan Paul.
+Dennett,
+D. C. (1987). The intentional stance. Cambridge, Mass., MIT Press.
+Dennett,
+D. C. (1991). Consciousness explained. Boston, Little Brown and Co.
+Dennett,
+D. C. (1995). Darwin's dangerous idea : evolution and the meanings of life.
+New York, Simon & Schuster.
+Dennett,
+D. C. (1996). Kinds of minds : toward an understanding of consciousness.
+New York, NY, Basic Books.
+Dennett,
+D. C. (1998). Brainchildren : essays on designing minds. Cambridge,
+Mass., MIT Press.
+Dennett,
+D. C. (2003). Freedom evolves. New York, Viking.
+Dennett,
+D. C. (2005). Sweet dreams : philosophical obstacles to a science of
+consciousness. Cambridge, Mass., MIT Press.
+Deutsch,
+D. (1997). The fabric of reality : the science of parallel universes-- and
+its implications. New York, Allen Lane.
+Dirac,
+P. A. M. (1964). Lectures on quantum mechanics. New York,, Belfer
+Graduate School of Science Yeshiva University.
+Dobzhansky,
+T. G. and Page-Barbour Foundation. (1956). The biological basis of human
+freedom. New York,, Columbia University Press.
+Dolloff,
+N. H. (1975). Heat death and the phoenix : entropy, order, and the future of
+man. Hicksville, N.Y., Exposition Press.
+Douglas,
+A. V. (1956). The life of Arthur Stanley Eddington. London,, Nelson.
+Dretske,
+F. I. (1981). Knowledge & the flow of information. Cambridge, Mass.,
+MIT Press.
+Dretske,
+F. I. (1981). Knowledge & the flow of information. Cambridge, Mass.,
+MIT Press.
+Dworkin,
+G. (1970). Determinism, free will, and moral responsibility. Englewood
+Cliffs, N.J.,, Prentice-Hall.
+Eccles,
+J. C. (1973). The understanding of the brain. New York,, McGraw-Hill.
+Eccles,
+J. C., Ed. (1982). Mind and brain : the many-faceted problems : selected
+readings from the proceedings of the International Conferences on the Unity of
+the Sciences. Washington, Paragon House.
+Eccles,
+J. C. (1989). Evolution of the brain : creation of the self. London ;
+New York, Routledge.
+Eddington,
+A. S. (1929). The nature of the physical world. New York,
+Cambridge,
+Eng.,, The Macmillan company;
+The
+University press.
+Eddington,
+A. S. (1929). Science and the unseen world. New York,, Macmillan.
+Eddington,
+A. S. (1935). New pathways in science. New York,
+Cambridge,
+Eng.,, The Macmillan Company;
+The
+University Press.
+Eddington,
+A. S. (1939). The philosophy of physical science. New York,
+Cambridge,
+Eng.,, The Macmillan Company;
+The
+University Press.
+Eddington,
+A. S. (1955). The nature of the physical world. London,, Dent.
+Eddington,
+A. S. (1958). The expanding universe. Ann Arbor, University of Michigan
+Press.
+Eddington,
+A. S. (1958). The philosophy of physical science. Ann Arbor, University
+of Michigan Press.
+Eddington,
+A. S. (1959). Space, time, and gravitation; an outline of the general
+relativity theory. New York,, Harper.
+Edelman,
+G. M. (2006). Second nature : brain science and human knowledge. New
+Haven, Yale University Press.
+Einstein,
+A. (1954). Ideas and opinions. Based on Mein Weltbild. New York,, Crown
+Publishers.
+Ekstrom,
+L. W. (1999). Free will : a philosophical study. Boulder, Colo.,
+Westview Press.
+Ekstrom,
+L. W. (2001). Agency and responsibility : essays on the metaphysics of
+freedom. Boulder, Colo., Westview Press.
+Elvee,
+R. Q. and J. A. Wheeler (1982). Mind in nature. San Francisco, Harper
+& Row.
+Fast,
+J. D. (1968). Entropy. The significance of the concept of entropy and its
+applications in science and technology. Eindhoven,, Centrex.
+Fermi,
+E. (1956). Thermodynamics. New York,, Dover Publications.
+Feynman,
+R. P. (1985). QED, Princeton, NJ, Princeton University Press.
+Feynman,
+R. P. (1994). Six easy pieces, Addison-Wesley Publishing Co.
+Feynman,
+R. P. (1998). The meaning of it all : thoughts of a citizen scientist.
+Reading, Mass., Addison-Wesley.
+Finkelstein,
+R. J. (1970). Thermodynamics and statistical physics. San Francisco,, W.
+H. Freeman.
+Fischer,
+J. M. (1989). God, foreknowledge, and freedom. Stanford, Calif.,
+Stanford University Press.
+Fischer,
+J. M. and M. Ravizza (1998). Responsibility and control : a theory of moral
+responsibility. Cambridge ; New York, Cambridge University Press.
+Fisher,
+R. B. (1982). Brain games : 134 original scientific games that reveal how
+your mind works. New York, Schocken Books.
+Flew,
+A. (1984). God, freedom, and immortality : a critical analysis. Amherst,
+N.Y., Prometheus Books.
+Fodor,
+J. A. (2000). The mind doesn't work that way : the scope and limits of
+computational psychology. Cambridge, Mass., MIT Press.
+Foot,
+P. (1967). Theories of ethics. London,, Oxford U.P.
+Frank,
+J. (1945). Fate and freedom : a philosophy for free Americans. New York,
+Simon and Schuster.
+Frankena,
+W. K. (1973). Ethics. Englewood Cliffs, N.J.,, Prentice-Hall.
+Franklin,
+R. L. (1968). Freewill and determinism; a study of rival conceptions of man.
+New York,, Humanities Press.
+Freeman,
+W. J. (2000). How brains make up their minds. New York, Columbia
+University Press.
+Fromm,
+E. and R. Xirau (1968). The nature of man; readings. New York,,
+Macmillan.
+Furley,
+D. J. (1987). The Greek cosmologists. Cambridge ; New York, Cambridge
+University Press.
+Gardner,
+J. (1978). On moral fiction. New York, Basic Books.
+Gazzaniga,
+M. S. (1985). The social brain : discovering the networks of the mind.
+New York, Basic Books.
+Gazzaniga,
+M. S. (2005). The ethical brain. New York, Dana Press.
+Georgescu-Roegen,
+N. (1966). Analytical economics: issues and problems. Cambridge,,
+Harvard University Press.
+Georgescu-Roegen,
+N. (1971). The entropy law and the economic process. Cambridge, Mass.,,
+Harvard University Press.
+Gibbs,
+J. W. (1993). The scientific papers of J. Willard Gibbs : in two volumes.
+Woodbridge, Conn., Ox Bow Press.
+Glass,
+B. (1965). Science and ethical values. Chapel Hill,, University of North
+Carolina Press.
+Gold,
+T., H. Bondi, et al. (1967). The nature of time. Ithaca, N.Y.,, Cornell
+University Press.
+Goldberg,
+E. (2001). The executive brain : frontal lobes and the civilized mind.
+Oxford ; New York, Oxford University Press.
+Goldberg,
+E. (2005). The wisdom paradox : how your mind can grow stronger as your
+brain grows older. New York, Gotham Books.
+Goodman,
+P. (1988). Towards a Christian republic : Antimasonry and the great
+transition in New England, 1826-1836. New York, Oxford University Press.
+Graham,
+L. R. (1981). Between science and values. New York, Columbia University
+Press.
+Groot,
+S. R. d. and P. Mazur (1984). Non-equilibrium thermodynamics. New York,
+Dover Publications.
+Gurowitz,
+E. M. (1969). The molecular basis of memory. Englewood-Cliffs, N.J.,,
+Prentice-Hall.
+Haken,
+H. and M. Wagner (1973). Cooperative phenomena. Berlin, Heidelberg, New
+York,, Springer.
+Hall,
+E. W. (1956). Modern science and human values; a study in the history of
+ideas. Princeton, N.J.,, D. Van Nostrand Co.
+Hampden-Turner,
+C. (1981). Maps of the mind. New York, Macmillan.
+Hare,
+R. M. (1963). Freedom and reason. Oxford,, Clarendon Press.
+Haugeland,
+J. (1981). Mind design : philosophy, psychology, artificial intelligence.
+Cambridge, Mass., MIT Press.
+Hauser,
+M. D. (2006). Moral minds : how nature designed our universal sense of right
+and wrong. New York, Ecco.
+Hausman,
+C. R. (1984). A discourse on novelty and creation. Albany, State
+University of New York Press.
+Hayek,
+F. A. v. (1979). The counter-revolution of science : studies on the abuse of
+reason. Indianapolis, Liberty Press.
+Heisenberg,
+W. (1952). Philosophic problems of nuclear science. New York, Pantheon.
+Heisenberg,
+W. (1958). Physics and philosophy; the revolution in modern science. New
+York,, Harper.
+Heisenberg,
+W. (1971). Physics and beyond; encounters and conversations. New York,,
+Harper & Row.
+Heisenberg,
+W. (1974). Across the frontiers. New York,, Harper & Row.
+Heisenberg,
+W. (1981). Tradition in science. New York, Continuum.
+Heisenberg,
+W., C. H. Eckart, et al. (1930). The physical principles of the quantum
+theory. Chicago, Ill.,, The University of Chicago Press.
+Highet,
+G. (1954). Man's unconquerable mind. New York,, Columbia University
+Press.
+Hobbes,
+T., J. Bramhall, et al. (1999). Hobbes and Bramhall : on liberty and
+necessity. Cambridge, U.K. ; New York, Cambridge University Press.
+Hodgson,
+D. (1991). The mind matters : consciousness and choice in a quantum world.
+Oxford
+New
+York, Clarendon Press ;
+Oxford
+University Press.
+Hofstadter,
+D. R. and D. C. Dennett (1981). The mind's I : fantasies and reflections on
+self and soul. New York, Basic Books.
+Hofstadter,
+D. R. and D. C. Dennett (1981). The mind's I : fantasies and reflections on
+self and soul. New York, Basic Books.
+Holland,
+J. H. (1995). Hidden order : how adaptation builds complexity. Reading,
+Mass., Addison-Wesley.
+Holland,
+J. H. (1998). Emergence : from chaos to order. Reading, Mass.,
+Addison-Wesley.
+Honderich,
+T. (1973). Essays on freedom of action. London, Boston,, Routledge and
+Kegan Paul.
+Honderich,
+T. (1984). Philosophy through its past. Harmondsworth, Middlesex,
+England ; New York, N.Y.
+Honderich,
+T. (1995). The Oxford companion to philosophy. Oxford ; New York, Oxford
+University Press.
+Honderich,
+T. (2002). How free are you? : the determinism problem. Oxford ; New
+York, Oxford University Press.
+Honderich,
+T. and M. Burnyeat (1979). Philosophy as it is. Harmondsworth ; New
+York, Penguin Books.
+Hook,
+S. and New York University. (1958). Determinism and freedom in the age of
+modern science; a philosophical symposium. New York, New York University
+Press.
+Hook,
+S. and New York University. (1960). Dimensions of mind; a symposium. New
+York, New York University Press.
+Hospers,
+J. (1967). An introduction to philosophical analysis. Englewood Cliffs,
+N.J.,, Prentice-Hall.
+Hudson,
+W. D. (1969). The is-ought question: a collection of papers on the central
+problems in moral philosophy. London,, Macmillan.
+Hundert,
+E. M. (1989). Philosophy, psychiatry, and neuroscience : three approaches to
+the mind : a synthetic analysis of the varieties of human experience.
+Oxford
+New
+York, Clarendon Press ;
+Oxford
+University Press.
+Hunter,
+I. M. L. (1968). Memory. Harmondsworth,, Penguin.
+Inge,
+W. R. (1933). God and the astronomers. London, New York etc., Longmans
+Green and co.
+Jaki,
+S. L. (1969). Brain, mind, and computers. New York, Herder and Herder.
+Jeans,
+J. H. (1930). The mysterious universe. New York,
+Cambridge,
+Eng.,, The Macmillan Company;
+The
+University Press.
+Jeans,
+J. H. (1942). Physics & philosophy. Cambridge Eng., The University
+Press.
+Jeans,
+J. H. (1981). Physics and philosophy. New York, Dover Publications.
+Jeans,
+J. H. (1981). Physics and philosophy. New York, Dover Publications.
+Joyce,
+R. (2006). The evolution of morality. Cambridge, Mass., MIT Press.
+Kane,
+R. (1985). Free will and values. Albany, State University of New York
+Press.
+Kane,
+R. (1996). The significance of free will. New York, Oxford University
+Press.
+Kane,
+R. (2001). The Oxford handbook of free will. Oxford ; New York, Oxford
+University Press.
+Kane,
+R. (2002). Free will. Malden, MA, Blackwell Publishers.
+Kane,
+R. (2005). A contemporary introduction to free will. Oxford ; New York,
+Oxford University Press.
+Kashap,
+S. P. (1987). Spinoza and moral freedom. Albany, State University of New
+York Press.
+Katz,
+L. D. (2000). Evolutionary origins of morality : cross-disciplinary
+perspectives. Thorverton, UK ; Bowling Green, OH, Imprint Academic.
+Kauffman,
+S. A. (1993). The origins of order : self-organization and selection in
+evolution. New York, Oxford University Press.
+Kauffman,
+S. A. (1995). At home in the universe : the search for laws of
+self-organization and complexity. New York, Oxford University Press.
+Kauzmann,
+W. (1966). Thermal properties of matter. New York,, W. A. Benjamin.
+Kennedy,
+G. (1957). Evolution and religion; the conflict between science and theology
+in modern America. Boston,, Heath.
+Kèohler,
+W. (1959). The place of value in a world of facts. New York,, Meridian
+Books.
+Khinchin,
+A. ë. (1949). Mathematical foundations of statistical mechanics. New
+York,, Dover Publications.
+Kittel,
+C. (1958). Elementary statistical physics. New York,, Wiley.
+Krauss,
+L. M. (2005). Hiding in the mirror : the mysterious allure of extra
+dimensions, from Plato to string theory and beyond. New York, Viking.
+La
+Mettrie, J. O. d., G. C. Bussey, et al. (1912). Man a machine. Chicago,,
+The Open court publishing co.
+Lamont,
+C. (1967). Freedom of choice affirmed. New York,, Horizon Press.
+Landé,
+A. (1965). New foundations of quantum mechanics. Cambridge Eng., University
+Press.
+Larrimore,
+M. J. (2001). The problem of evil : a reader. Oxford ; Malden, Mass.,
+Blackwell.
+LeDoux,
+J. E. (1996). The emotional brain : the mysterious underpinnings of
+emotional life. New York, Simon & Schuster.
+LeDoux,
+J. E. (2002). Synaptic self : how our brains become who we are. New
+York, Viking.
+Leff,
+H. S. and A. F. Rex (1990). Maxwell's demon : entropy, information,
+computing. Princeton, N.J., Princeton University Press.
+Lehrer,
+K. (1966). Freedom and determinism. New York,, Random House.
+LeShan,
+L. L. and H. Margenau (1982). Einstein's space and Van Gogh's sky : physical
+reality and beyond. New York, Macmillan.
+Lestienne,
+R. (1995). The children of time : causality, entropy, becoming. Urbana,
+University of Illinois Press.
+Lewis,
+A. O. (1963). Of men and machines. New York,, E.P. Dutton.
+Libet,
+B. (2004). Mind time : the temporal factor in consciousness. Cambridge,
+Mass., Harvard University Press.
+Libet,
+B., A. Freeman, et al. (1999). The volitional brain : towards a neuroscience
+of free will. Thorverton, Imprint Academic.
+Lindsay,
+R. B. and H. Margenau (1957). Foundations of physics. New York,, Dover
+Publications.
+Lloyd,
+S. (2006). Programming the universe : a quantum computer scientist takes on
+the cosmos. New York, Knopf.
+Lorenz,
+E. N. (1993). The essence of chaos. Seattle, University of Washington
+Press.
+MacIntyre,
+A. C. (1966). A short history of ethics. New York,, Macmillan.
+MacKay,
+D. M. (1969). Information, mechanism and meaning. Cambridge,, M.I.T.
+Press.
+Mackie,
+J. L. (1977). Ethics : inventing right and wrong. Harmondsworth ; New
+York, Penguin.
+Malcolm,
+N. (1971). Problems of mind; Descartes to Wittgenstein. New York,,
+Harper & Row.
+Margenau,
+H. (1977). The nature of physical reality : a philosophy of modern physics.
+Woodbridge, Conn., Ox Bow Press.
+Margenau,
+H. and G. M. Murphy (1956). The mathematics of physics and chemistry.
+Princeton,, Van Nostrand.
+Margenau,
+H. and R. A. Varghese (1992). Cosmos, bios, theos : scientists reflect on
+science, God, and the origins of the universe, life, and homo sapiens. La
+Salle, Ill., Open Court.
+Marnell,
+W. H. (1966). Man-made morals; four philosophies that shaped America.
+Garden City, N.Y.,, Doubleday.
+Marx,
+K., F. Engels, et al. (1975). Karl Marx, Frederick Engels : collected works.
+New York, International Publishers.
+McCulloch,
+W. S. (1965). Embodiments of mind. Cambridge, Mass.,, M. I. T. Press.
+Melden,
+A. I. (1967). Ethical theories; a book of readings. Englewood Cliffs,
+N.J.,, Prentice-Hall.
+Messiah,
+A. (1961). Quantum mechanics. Amsterdam, New
+York,, North-Holland Pub. Co.; Interscience
+Publishers.
+Minsky,
+M. L. (1986). The society of mind. New York, Simon and Schuster.
+Monson,
+C. H. (1963). Philosophy, religion and science; an introduction to
+philosophy. New York,, Scribner.
+Moore,
+G. E. (1965). Ethics. New York,, Oxford University Press.
+Moore,
+R. E. (1985). Niels Bohr, the man, his science & the world they changed.
+Cambridge, Mass., MIT Press.
+Morgenbesser,
+S. and J. J. Walsh (1962). Free will. Englewood Cliffs, N.J.,,
+Prentice-Hall.
+Morowitz,
+H. J. (1968). Energy flow in biology; biological organization as a problem
+in thermal physics. New York,, Academic Press.
+Morris,
+R. (1985). Time's arrows : scientific attitudes toward time. New York,
+Simon and Schuster.
+Nash,
+L. K. (1962). Elements of chemical thermodynamics. Reading, Mass.,,
+Addison-Wesley Pub. Co.
+Nash,
+L. K. (1972). Chemthermo: a statistical approach to classical chemical
+thermodynamics. Reading, Mass.,, Addison-Wesley Pub. Co.
+Needham,
+J. (1928). Man a machine; in answer to a romantical and unscientific
+treatise written by Sig. Eugenio Rignano & entitled "Man not a
+machine". New York,, W. W. Norton.
+Needham,
+J. (1930). The sceptical biologist. New York,, W.W. Norton.
+Needham,
+J. (1936). Order and life. New Haven, Cambridge,
+Eng.,, Yale university press;
+Needham,
+J. (1943). Time: the refreshing river (essays and addresses, 1932-1942).
+London,, G. Allen & Unwin ltd.
+Needham,
+J. (1943). Time: the refreshing river (essays and addresses, 1932-1942).
+London,, G. Allen & Unwin ltd.
+Neyman,
+J. (1950). First course in probability and statistics. New York,, Holt.
+Nicolis,
+G. and I. Prigogine (1989). Exploring complexity : an introduction. New
+York, W.H. Freeman.
+Oatley,
+K. (1972). Brain mechanisms and mind. London,, Thames and Hudson.
+O'Connor,
+D. J. (1971). Free will. Garden City, N.Y.,, Anchor Books.
+O'Connor,
+J. (1969). Modern materialism; readings on mind-body identity. New
+York,, Harcourt Brace & World.
+O'Connor,
+T. (1995). Agents, causes, and events : essays on indeterminism and free
+will. New York, Oxford University Press.
+O'Connor,
+T. (2000). Persons and causes : the metaphysics of free will. New York,
+Oxford University Press.
+Otto,
+M. C. (1949). Science and the moral life; selected writings. New York,
+New American Library.
+Pagels,
+H. R. (1988). The dreams of reason : the computer and the rise of the
+sciences of complexity. New York, Simon and Schuster.
+Pais,
+A. (1991). Niels Bohr's times : in physics, philosophy, and polity.
+Oxford,New York, Clarendon Press ;
+Penfield,
+W. (1975). The mystery of the mind : a critical study of consciousness and
+the human brain. Princeton, N.J., Princeton University Press.
+Penrose,
+R. (1991). The emperor's new mind : concerning computers, minds, and the
+laws of physics. New York, N.Y., Penguin Books.
+Penrose,
+R. (1994). Shadows of the mind : a search for the missing science of
+consciousness. Oxford ; New York, Oxford University Press.
+Penrose,
+R. (2004). The road to reality : a complete guide to the laws of the
+universe. London, Jonathan Cape.
+Penrose,
+R. and M. S. Longair (1999). The large, the small, and the human mind.
+Cambridge ; New York, Cambridge University Press.
+Pierce,
+J. R. (1967). Waves and messages. Garden City, N.Y.,, Anchor Books.
+Pierce,
+J. R. (1980). An introduction to information theory : symbols, signals &
+noise. New York, Dover Publications.
+Pinker,
+S. (1994). The language instinct. New York, W. Morrow and Co.
+Pinker,
+S. (1997). How the mind works. New York, Norton.
+Pinker,
+S. (1999). Words and rules : the ingredients of language. New York,
+Basic Books.
+Pinker,
+S. (2002). The blank slate : the modern denial of human nature. New
+York, Viking.
+Planck,
+M. (1977). Where is science going? New York, AMS Press.
+Platt,
+J. R. (1965). New views of the nature of man. Chicago,, University of
+Chicago Press.
+Poincaré,
+H. (1952). Science and hypothesis. New York, Dover Publications.
+Poincaré,
+H. (1958). The value of science. New York,, Dover Publications.
+Popper, Karl R. (1963). Conjectures and refutations. New York,
+Harper.
+Popper, Karl R.(1972). Objective Knowledge. Oxford,
+Clarendon Press.
+Popper,
+K. R. and J. C. Eccles (1977). The self and its brain. New York,
+Springer International.
+Porter, Theodore M. (1986). The rise of statistical thinking. Princeton,
+Princeton University Press.
+Prigogine,
+I. (1968). Introduction to thermodynamics of irreversible processes. New
+York,, Interscience Publishers.
+Prigogine,
+I. (1980). From being to becoming : time and complexity in the physical
+sciences. San Francisco, W. H. Freeman.
+Prigogine,
+I. and I. Stengers (1997). The end of certainty : time, chaos, and the new
+laws of nature. New York, Free Press.
+Prigogine,
+I., I. Stengers, et al. (1984). Order out of chaos : man's new dialogue with
+nature. Toronto ; New York, N.Y., Bantam Books.
+Prince,
+G. M. (1970). The practice of creativity; a manual for dynamic group problem
+solving. New York,, Harper & Row.
+Raisbeck,
+G. (1964). Information theory, an introduction for scientists and engineers.
+Cambridge, Mass.,, M.I.T. Press.
+Raphael,
+D. D. (1981). Moral philosophy. Oxford ; New York, Oxford University
+Press.
+Redwood,
+J. (1976). Reason, ridicule, and religion : the age of enlightenment in
+England, 1660-1750. London, Thames & Hudson.
+Ridley,
+M. (1997). The origins of virtue : human instincts and the evolution of
+cooperation. New York, Viking.
+Ridley,
+M. (2000). Mendel's demon : gene justice and the complexity of life.
+London, Weidenfeld & Nicolson.
+Ridley,
+M. (2001). The cooperative gene : how Mendel's demon explains the evolution
+of complex beings. New York, Free Press.
+Rifkin,
+J. and T. Howard (1980). Entropy : a new world view. New York, Viking
+Press.
+Robertson,
+H. P. and T. W. Noonan (1968). Relativity and cosmology. Philadelphia,,
+Saunders.
+Rorvik,
+D. M. (1971). As man becomes machine; the evolution of the cyborg.
+Garden City, N.Y.,, Doubleday.
+Russell,
+B. (1931). The scientific outlook. New York,, W.W. Norton & Company
+inc.
+Sahakian,
+W. S. (1974). Ethics: an introduction to theories and problems. New
+York,, Barnes & Noble.
+Satinover,
+J. (2001). The quantum brain : the search for freedom and the next
+generation of man. New York, J. Wiley.
+Savitt,
+S. F. (1995). Time's arrows today : recent physical and philosophical work
+on the direction of time. Cambridge ; New York, Cambridge University Press.
+Scheffler,
+S. (1992). Human morality. New York, Oxford University Press.
+Scheler,
+M. (1961). Man's place in nature. Boston, Beacon Press.
+Schlick,
+M. and D. Rynin (1939). Problems of ethics. New York,, Prentice-Hall
+Inc.
+Schopenhauer,
+A. (1965). On the basis of morality. Indianapolis,, Bobbs-Merrill.
+Schopenhauer,
+A. (1966). The world as will and representation. New York,, Dover
+Publications.
+Schopenhauer,
+A. (1974). On the fourfold root of the principle of sufficient reason.
+La Salle, Ill.,, Open Court.
+Schopenhauer,
+A. (1985). On the freedom of the will. Oxford, OX, UK ; New York, NY,
+Blackwell.
+Schrödinger,
+E. (1956). Expanding universes. Cambridge Eng., University Press.
+Schrödinger,
+E. (1989). Statistical thermodynamics. New York, Dover Publications.
+Schrödinger,
+E. (1992). What is life? : the physical aspect of the living cell ; with,
+Mind and matter ; & Autobiographical sketches. Cambridge ; New York,
+Cambridge University Press.
+Schrödinger,
+E., J. V. Murphy, et al. (1935). Science and the human temperament. New
+York,, W. W. Norton & company inc.
+Schwartz,
+S. P. (1977). Naming, necessity, and natural kinds. Ithaca N.Y., Cornell
+University Press.
+Searle,
+J. R. (1984). Minds, brains, and science. Cambridge, Mass., Harvard
+University Press.
+Searle,
+J. R. (1995). The construction of social reality. New York, Free Press.
+Searle,
+J. R. (1998). Mind, language, and society : philosophy in the real world.
+New York, NY, Basic Books.
+Searle,
+J. R. (2007). Freedom and neurobiology : reflections on free will, language,
+and political power. New York, Columbia University Press.
+Searle,
+J. R., D. C. Dennett, et al. (1997). The mystery of consciousness. New
+York, New York Review of Books.
+Seife,
+C. (2006). Decoding the universe : how the new science of information is
+explaining everything in the cosmos, from our brains to black holes. New
+York, Viking.
+Sellars,
+W. (1952). Readings in ethical theory. New York,,
+Appleton-Century-Crofts.
+Sellars,
+W. and J. Hospers (1970). Readings in ethical theory. New York,,
+Appleton-Century-Crofts.
+Shannon,
+C. E. and W. Weaver (1949). The mathematical theory of communication.
+Urbana,, University of Illinois Press.
+Shermer,
+M. (2004). The science of good and evil : why people cheat, gossip, care,
+share, and follow the golden rule. New York, Times Books.
+Sidgwick,
+H. (1981). The methods of ethics. Indianapolis, Hackett Pub. Co.
+Simon,
+H. A. (1981). The sciences of the artificial. Cambridge, Mass., MIT
+Press.
+Singer,
+P. (1979). Practical ethics. Cambridge ; New York, Cambridge University
+Press.
+Singer,
+P. (1991). A Companion to ethics. Oxford, UK ; Cambridge, Mass.,
+Blackwell Reference.
+Singh,
+J. (1966). Great ideas in information theory, language and cybernetics.
+New York,, Dover Publications.
+Skinner,
+B. F. (1971). Beyond freedom and dignity. New York,, Knopf.
+Skyrms,
+B. (1980). Causal necessity : a pragmatic investigation of the necessity of
+laws. New Haven, Yale University Press.
+Skyrms,
+B. (1980). Causal necessity : a pragmatic investigation of the necessity of
+laws. New Haven, Yale University Press.
+Skyrms,
+B. (1984). Pragmatics and empiricism. New Haven, Yale University Press.
+Smolin,
+L. (1997). The life of the cosmos. New York, Oxford University Press.
+Smolin,
+L. (2006). The trouble with physics : the rise of string theory, the fall of
+a science, and what comes next. Boston, Houghton Mifflin.
+Sobel,
+J. H. (1998). Puzzles for the will : fatalism, Newcomb and Samarra,
+determinism and omniscience. Toronto, University of Toronto Press.
+Sorabji,
+R. (2006). Necessity, cause, and blame : perspectives on Aristotle's theory.
+Chicago, University of Chicago Press.
+Stapp,
+H. P. (2004). Mind, matter, and quantum mechanics. Berlin ; New York,
+Springer.
+Stebbing,
+L. S. (1937). Philosophy and the physicists. London,, Methuen & Co.
+ltd.
+Stent,
+G. S. (1980). Morality as a biological phenomenon : the pre-suppositions of
+sociobiological research. Berkeley, University of California Press.
+Stevenson,
+C. L. (1963). Facts and values; studies in ethical analysis. New Haven,,
+Yale University Press.
+Stevenson,
+L. F. (1974). Seven theories of human nature. Oxford, Clarendon Press.
+Susskind,
+L. (2005). Cosmic landscape : string theory and the illusion of intelligent
+design. New York, Little Brown and Co.
+Tancredi,
+L. R. (2005). Hardwired behavior : what neuroscience reveals about morality.
+New York, Cambridge University Press.
+Teilhard
+de Chardin, P. (1959). The phenomenon of man. New York,, Harper.
+Teilhard
+de Chardin, P. (1964). The future of man. New York,, Harper & Row.
+Teilhard
+de Chardin, P. (1966). Man's place in nature; the human zoological group.
+London,, Collins.
+Thorp,
+J. (1980). Free will : a defence against neurophysiological determinism.
+London ; Boston, Routledge & Kegan Paul.
+Tolman,
+R. C. (1934). Relativity, thermodynamics and cosmology. Oxford,, The
+Clarendon Press.
+Toulmin,
+S. E. (1950). An examination of the place of reason in ethics. Cambridge
+Eng., University Press.
+Trusted,
+J. (1984). Free will and responsibility. Oxford Oxfordshire ; New York,
+Oxford University Press.
+Van
+Inwagen, P. (1983). An essay on free will. Oxford Oxfordshire, New
+York, Clarendon Press
+Van
+Inwagen, P. (2006). The problem of evil : the Gifford lectures delivered in
+the University of St. Andrews in 2003. Oxford, New
+York, Clarendon Press ;
+Von
+Neumann, J. (1955). Mathematical foundations of quantum mechanics.
+Princeton N.J., Princeton University Press.
+Von
+Neumann, J., P. M. Churchland, et al. (2000). The computer and the brain.
+New Haven, CT, Yale University Press.
+Waerden,
+B. L. v. d. (1967). Sources of quantum mechanics. Amsterdam,,
+North-Holland Pub. Co.
+Waldrop,
+M. M. (1992). Complexity: the emerging science at the edge of order and
+chaos. New York, Simon & Schuster.
+Warnock,
+G. J. (1967). Contemporary moral philosophy. London, Melbourne etc., New
+York,, Macmillan;
+Watson,
+G. (1982). Free will. Oxford Oxfordshire ; New York, Oxford University
+Press.
+Watson,
+G. (2003). Free will. Oxford ; New York, Oxford University Press.
+Wegner,
+D. M. (2002). The illusion of conscious will. Cambridge, Mass., MIT Press.
+Weinberg,
+S. (1977). The first three minutes : a modern view of the origin of the
+universe. New York, Basic Books.
+Weiss,
+P. (1950). Man's freedom. New Haven,, Yale University Press.
+Weyl,
+H. (1949). Philosophy of mathematics and natural science. Princeton,,
+Princeton University Press.
+Weyl,
+H. (1989). The open world : three lectures on the metaphysical implications
+of science. Woodbridge, Conn., Ox Bow Press.
+Weyl,
+H. and H. L. Brose (1922). Space-time-matter. London,, Methuen & co.
+ltd.
+Wheeler,
+J. A. and W. H. Zurek, Eds. (1983). Quantum theory and measurement.
+Princeton series in physics. Princeton, N.J., Princeton University Press.
+White,
+A. D. (1932). A history of the warfare of science with theology in
+Christendom. New York, London,, D. Appleton and company.
+Whitrow,
+G. J. (1973). The nature of time. New York,, Holt Rinehart and Winston.
+Whitrow,
+G. J. (1980). The natural philosophy of time. Oxford, New
+York, Clarendon Press ;
+Whittaker,
+E. T. (1949). From Euclid to Eddington, a study of conceptions of the
+external world. Cambridge Eng., University Press.
+Wicken,
+J. S. (1987). Evolution, thermodynamics, and information : extending the
+Darwinian program. New York, Oxford University Press.
+Widerker,
+D. and M. McKenna (2003). Moral responsibility and alternative possibilities
+: essays on the importance of alternative possibilities. Burlington, VT,
+Ashgate.
+Wiener,
+N. (1961). Cybernetics; or, Control and communication in the animal and the
+machine. New York,, M.I.T. Press.
+Wiener,
+N. (1988). The human use of human beings : cybernetics and society. New
+York, N.Y., Da Capo Press.
+William,
+M. M. Adams, et al. (1983). Predestination, God's foreknowledge, and future
+contingents. Indianapolis, Hackett Pub. Co.
+Williams,
+B. A. O. (1972). Morality: an introduction to ethics. New York,, Harper
+& Row.
+Williams,
+C. (1980). Free will and determinism : a dialogue. Indianapolis, Hackett
+Pub. Co.
+Williams,
+G. (1951). Humanistic ethics. New York,, Philosophical Library.
+Winter,
+E. F., D. Erasmus, et al. (2005). Discourse on free will. London ; New
+York, Continuum.
+Wisdom,
+J. (1934). Problems of mind and matter. Cambridge Eng., The University
+press.
+Wisdom,
+J. (1966). Other minds. Oxford,, Blackwell.
+Woit,
+P. (2006). Not even wrong : the failure of string theory and the search for
+unity in physical law. New York, Basic Books.
+Wolf,
+F. A. (1984). Star wave : mind, consciousness, and quantum physics. New
+York, Macmillan.
+Wolf,
+S. R. (1990). Freedom within reason. New York, Oxford University Press.
+Wooldridge,
+D. E. (1968). Mechanical man; the physical basis of intelligent life.
+New York,, McGraw-Hill.
+Wright,
+R. (1994). The moral animal : the new science of evolutionary psychology.
+New York, Pantheon Books.
+Young,
+J. Z. (1960). Doubt and certainty in science; a biologist's reflections on
+the brain. New York,, Oxford University Press.
+Young,
+J. Z. (1978). Programs of the brain : based on the Gifford lectures, 1975-7.
+Oxford Eng. ; New York, Oxford University Press.

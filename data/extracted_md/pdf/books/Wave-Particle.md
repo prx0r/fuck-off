@@ -1,0 +1,149 @@
+# 64   My God, He Plays Dice!                                                    Wave-Particle Duality          65
+
+**source:** pdf · **section:** books
+**file:** Wave-Particle
+---
+
+
+                                           Wave-Particle Duality
+                                              Einstein greatly expanded his light-quantum hypothesis in
+                                           his presentation at the Salzburg conference in September, 1909.
+                                           He argued that the interaction of radiation and matter involves
+                                           elementary processes that have no inverse, a deep insight into the
+Chapter 9
+
+                                                                                                                       Chapter 9
+                                           irreversibility of natural processes. While incoming spherical waves
+                                           of radiation are mathematically possible, they are not practically
+                                           achievable. Nature appears to be asymmetric in time. Einstein
+                                           speculates that the continuous electromagnetic field might be
+                                           made up of large numbers of light quanta - singular points in a
+                                           field that superimpose collectively to create the wavelike behavior.
+                                              Although Einstein could not yet formulate a mathematical
+                                           theory that does justice to both the continuous oscillatory and
+
+                           a r t i c l e   discrete quantum structures - the wave and particle pictures, he
+
+                      e - P                argued that they are compatible. This was more than fifteen years
+
+                   Wav uality
+                                           before Werner Heisenberg’s particle matrix mechanics and
+                                           Erwin Schrödinger’s wave mechanics in the 1920’s. Because
+
+                      D                    gases behave statistically, Einstein thought that the connection
+                                           between waves and particles may involve probabilistic behavior.
+                                                 Once it had been recognized that light exhibits the phenomena
+                                                 of interference and diffraction, it seemed hardly doubtful any
+                                                 longer that light is to be conceived as a wave motion. Since light
+                                                 can also propagate through vacuum, one had to imagine that
+                                                 vacuum, too, contains some special kind of matter that mediates
+                                                 the propagation of light waves. [the ether] However, today we
+                                                 must regard the ether hypothesis as an obsolete standpoint.
+                                                 It is even undeniable that there is an extensive group of facts
+                                                 concerning radiation that shows that light possesses certain
+                                                 fundamental properties that can be understood far more readily
+                                                 from the standpoint of Newton’s emission theory of light than
+                                                 from the standpoint of the wave theory. 1
+                                              Einstein’s 1905 relativity theory requires that the inertial mass
+                                           of an object decreases by L/c2 when that object emits radiation
+
+                                             1       CPAE, vol.2. p. 379
+        66         My God, He Plays Dice!                                                                                                    Wave-Particle Duality    67
+
+             of energy L. The inertial mass of an object is diminished by the                entropy of the second law of thermodynamics. Planck thought a
+             emission of light. Einstein now says in 1909,                                   plane wave might be converted to a spherical wave going outward
+                   The energy given up was part of the mass of the object. One can           from the oscillator. But Boltzmann had talked him out of the idea,
+                   further conclude that every absorption or release of energy brings        because time reversal would produce the incoming wave that
+                   with it an increase or decrease in the mass of the object under           Einstein here says is impossible. We shall see that Einstein’s insight
+                   consideration. Energy and mass seem to be just as equivalent as           can explain the origin of microscopic irreversibility. See chapter 12.
+                   heat and mechanical energy.
+Chapter 9
+
+                                                                                                                                                                       Chapter 9
+                                                                                             From Matter to Light to Matter
+                Indeed, in 1905, Einstein had shown that E = mc2. He had found
+             a symmetry between light and matter. They are both particles. But
+             in 1909 Eintsein finds the wave nature of light emerging from his
+             equations and suggests a “fusion” of wave and particle theories
+                   It is therefore my opinion that the next stage in the development
+                   of theoretical physics will bring us a theory of light that can be
+                   understood as a kind of fusion of the wave and emission theories
+                   of light. To give reasons for this opinion and to show that a
+                   profound change in our views on the nature and constitution of
+                   light is imperative is the purpose of the following remarks.2
+               On the other hand, Einstein identified an important asymmetry.
+                   In the kinetic theory of molecules, for every process in which only
+                   a few elementary particles participate (e.g., molecular collisions),
+                   the inverse process also exists. But that is not the case for the
+                   elementary processes of radiation. In the foregoing it has been
+                   assumed that the energy of at least some of the quanta of the
+                   incident light is delivered completely to individual electrons.
+                   According to our prevailing theory, an oscillating ion generates
+                   a spherical wave that propagates outwards. The inverse process
+                   does not exist as an elementary process. A converging spherical
+                   wave is mathematically possible, to be sure; but to approach
+                                                                                                Figure 9-9. Einstein’s picture of waves and particles.
+                   its realization requires a vast number of emitting entities. The
+                   elementary process of emission is not invertible. In this, I believe,
+                   our oscillation theory does not hit the mark. Newton’s emission
+                   theory of light seems to contain more truth with respect to this             Einstein imagined an experiment in which the energy of an
+                   point than the oscillation theory since, first of all, the energy given   electron (a cathode ray) is converted to a light quantum and back.
+                   to a light particle is not scattered over infinite space, but remains        Consider the laws governing the production of secondary cathode
+                   available for an elementary process of absorption.3                          radiation by X-rays. If primary cathode rays impinge on a metal
+                Recall from chapter 4 that Planck had argued the interaction of                 plate P1, they produce X-rays. If these X-rays impinge on a second
+                                                                                                metal plate P2, cathode rays are again produced whose speed is of
+             light with matter might explain the irreversibility of the increase in
+                                                                                                the same order as that of the primary cathode rays.
+               2       ibid., p.379
+               3       ibid., p.387
+        68          My God, He Plays Dice!                                                                                            Wave-Particle Duality           69
+
+                   As far as we know today, the speed of the secondary cathode                This important conjecture by Einstein, that light is emitted and
+                   rays depends neither on the distance between P1 and P2, nor on          absorbed in units of hν, is often misattributed to Max Planck, who
+                   the intensity of the primary cathode rays, but rather entirely on       never fully accepted Einstein’s “very revolutionary” hypothesis..
+                   the speed of the primary cathode rays. Let’s assume that this is
+                   strictly true. What would happen if we reduced the intensity of            Einstein found theoretical evidence for his “fusion of wave and
+                   the primary cathode rays or the size of P1 on which they fall, so       emission theories of light” in his study of statistical fluctuations of
+                   that the impact of an electron of the primary cathode rays can be       the gas pressure (collisions with gas particles) and the radiation
+Chapter 9
+
+                                                                                                                                                                       Chapter 9
+                   considered an isolated process?                                         pressure (collisons with light quanta) on a metal plate suspended
+                                                                                           in a cavity.
+                   If the above is really true then, because of the independence of
+                   the secondary cathode rays’ speed on the primary cathode rays’             Using results from his years deriving the laws of statistical
+                   intensity, we must assume that an electron impinging on P1 will         mechanics, and assuming the plate, the cavity walls, the gas and the
+                   either cause no electrons to be produced at P2, or else a secondary     light particles are all in equilibrium at temperature T, he derived
+                   emission of an electron whose speed is of the same order as             an expression for the fluctuations in the radiation pressure in the
+                   that of the initial electron impinging on P1. In other words, the       frequency interval dν as containing two terms.
+                   elementary process of radiation seems to occur in such a way               <ε2> = (Vdv) {hvρ + (c3/8πν2) ρ2}.
+                   that it does not scatter the energy of the primary electron in a
+                   spherical wave propagating in every direction, as the oscillation             The wave theory provides an explanation only for the second
+                   theory demands.4                                                              term... That the expression for this fluctuation must have the
+                                                                                                 form of the second term of our formula can be seen by a simple
+                Extending his 1905 hypothesis, Einstein shows energy can not                     dimensional analysis.
+             spread out like a wave continuously over a large volume, because it
+             is absorbed in its entirety to produce an ejected electron at P2, with              But how to explain the first term of the formula?... If radiation
+             essentially the same energy as the original electron absorbed at P1.                consisted of very small-sized complexes of energy hν,... a
+                                                                                                 conception that represents the very roughest visualization of the
+                   Rather, at least a large part of this energy seems to be available at         hypothesis of light quanta—then the momenta acting on our plate
+                   some place on P2, or somewhere else. The elementary process of                due to fluctuations of the radiation pressure would be of the kind
+                   the emission of radiation appears to be directional. Moreover, one            represented by the first term alone. 6
+                   has the impression that the production of X-rays at P1 and the
+                   production of secondary cathode rays at P2 are essentially inverse         In a second independent analysis using Boltzmann’s principle
+                   processes...Therefore, the constitution of radiation seems to be        to calculate the mean squared energy fluctuation in terms of the
+                   different from what our oscillation theory predicts.                    density of radiation ρ with frequency ν, and substituting Planck’s
+                                                                                           radiation law for ρ (ν), Einstein once again derived the two-term
+                   The theory of thermal radiation has given important clues about
+                                                                                           expression for fluctuations in the radiation pressure. 7
+                   this, mostly by the theory on which Planck based his radiation
+                   formula...Planck’s theory leads to the following conjecture. If it         Einstein can again see the first (particle) term with light quanta
+                   is really true that a radiative resonator can only assume energy        hv and the second (wave) term with the classical expression for the
+                   values that are multiples of hν, the obvious assumption is that         number of modes 8πν2/c3 in the radiation field with frequency ν.
+                   the emission and absorption of light occurs only in these energy        The first term describes light with high frequencies (Wien’s Law),
+                   quantities.5                                                            the second light with long wavelengths (Rayleigh-Jeans Law).
+               4       ibid., p.387
+                                                                                             6       ibid,, p.393
+               5       ibid,, p.390
+                                                                                             7       See Klein, 1964, p.11
+

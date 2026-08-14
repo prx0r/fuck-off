@@ -1,0 +1,1635 @@
+            14   Great Problems of Philosophy and Physics - Solved?
+Chapter 2
+
+
+
+
+                                    ys i c s
+                          M    etaph
+
+
+
+
+                                                                    This chapter on the web
+                                                                          metaphysicist.com
+                                          informationphilosopher.com/problems/metaphysics
+                                                           Metaphysics          15
+
+
+ Metaphysics
+   We apply methods of information philosophy to metaphysics
+
+
+
+
+                                                                                     Chapter 2
+and find solutions to several classic problems, puzzles and para-
+doxes. You can find them all on our new website metaphysicist.
+com and in our forthcoming book Metaphysics. In this chapter,
+we discuss just a few of them, absolute and relative identity, the
+problem of composition (parts/wholes), coinciding objects (colo-
+cation), Aristotelian essentialism, the need for metaphysical pos-
+sibility, and the semantics and modal logic of "possible worlds."
+   Many ancient puzzles are variations on the problem of coincid-
+ing objects, including Dion and Theon, the Growing Argument,
+and the Statue and the Clay. We solve these puzzles.
+  A central problem in information philosophy is the existential
+or ontological status of ideas. The creation of new ideas requires
+the existence of ontological chance. Metaphysical possibility must
+therefore be a fundamental aspect of metaphysical reality.
+  Information provides a unique explanation of self-identity and
+the relative identity of numerically distinct objects. It also explains
+the existential status of abstract entities.
+   Metaphysics is an abstract human invention about the nature
+of concrete reality – immaterial thoughts about material things.
+Information philosophy explains the metaphysics of chance and
+possibilities, which always underlie the creation of new informa-
+tion. Without metaphysical possibilities, there can be no human
+creativity and no new knowledge.
+  A materialist metaphysics asks questions about the underly-
+ing substrate presumed to constitute all the objects in the uni-
+verse. Unfortunately, most modern philosophers are eliminative
+materialists and determinists who think there is "nothing but" the
+substrate of matter. As Jaegwon Kim puts it,
+      “bits of matter and their aggregates in space-time exhaust the contents
+      of the world. This means that one would be embracing an ontology
+      that posits entities other than material substances — that is, imma-
+      terial minds, or souls, outside physical space, with immaterial, non-
+      physical properties.”1
+  1       Physicalism, or Something Near Enough. p.71
+            16      Great Problems of Philosophy and Physics - Solved?
+
+                    A formalist or idealist metaphysics asks about the arrangement
+                 and organization of matter that shapes material objects, what
+                 brings their forms into existence, and what causes their changes
+Chapter 2
+
+
+
+
+                 in space and time. Information philosophy defends a Platonic
+                 realm of immaterial ideas in a property dualism with the realm
+                 of matter. The information realm is physical and natural. It is not
+                 supernatural and “outside space and time.” Ideas are embodied
+                 in matter and use energy for their communication. But they are
+                 neither matter nor energy. They are forms that inform.
+                    The total amount of matter (and energy) in the universe is a
+                 conserved quantity. Because of the universe expansion, there is
+                 ever more room in space for each material particle, ever more
+                 ways to arrange the material, ever more possibilities. The total
+                 information in the universe is constantly increasing. This is the
+                 first contribution of information philosophy to metaphysics.
+                    The second contribution is to restore a dualist idealism, based
+                 on the essential importance of information communication in
+                 all living things. Since the earliest forms of proto-life, informa-
+                 tion stored in each organism has been used to create the following
+                 generations, including the variations that have evolved to become
+                 thinking human beings who have invented the world of ideas
+                 that contains metaphysics. Abstract information is an essential, if
+                 immaterial, part of reality. Plato was right that his “ideas” (ἰδέας)
+                 are real. Plato's forms inform.
+                    A third contribution from information philosophy adds biology
+                 to the analysis of metaphysical problems which began in puzzles
+                 over change and growth. The parts of living things – we call them
+                 biomers – are communicating with one another, which integrates
+                 them into their “wholes” in a way impossible for mere material
+                 parts – we find a biomereological essentialism.
+                    The arrangement of individual material particles and their
+                 interaction is abstract immaterial information. The metaphysics
+                 of information can explain the cosmic creation process underly-
+                 ing the origin of all information structures in the universe and the
+                 communication of information between all living things, which
+                                                  Metaphysics           17
+
+we will show use a meaningful biological language, consisting of
+arbitrary symbols. Biological communications have evolved to
+become human language.
+
+
+
+
+                                                                             Chapter 2
+  Ontology asks the question “what is there?”
+   Eliminative materialism claims that nothing exists but mate-
+rial particles, which makes many problems in ancient and modern
+metaphysics difficult if not insoluble. To be sure, we are made
+of the same material as the ancient metaphysicians. With every
+breath we take, we inspire 10 or 20 of the fixed number of mol-
+ecules of air that sustained Aristotle. We can calculate this because
+the material in the universe is a constant.
+   But information is not a fixed quantity. The stuff of thought and
+creativity, information has been increasing since the beginning of
+the universe. There is ever more knowledge (but relatively little
+increase in wisdom?) With hundreds if not thousands of times as
+many philosophers as ancient Greece, can we still be debating the
+same ancient puzzles and paradoxes?
+   Information philosophy restores so-called “non-existent
+objects” to our ontology. Abstract entities consist of the same kind
+of information that provides the structure and process informa-
+tion of a concrete object. What we call a “concept” about an object
+is some subset of the immaterial information in the object, accu-
+rate to the extent that the concept is isomorphic to that subset.
+  Epistemology asks, “how do we know what there is?”
+   Immaterial information provides a new ground for epistemol-
+ogy, the theory of knowledge. We know something about the
+“things themselves” when we discover an isomorphism between
+our abstract ideas and concrete objects in the material world. But
+words and names are not enough. Information philosophy goes
+beyond the logical puzzles and language games of analytic phi-
+losophy. It identifies knowledge as information in human minds
+and in the external artifacts of human culture.
+            18       Great Problems of Philosophy and Physics - Solved?
+
+                     Abstract information is the foundation – the metaphysical
+                 ground – of both logic and language as means of communication.
+                 It is a dual parallel to the material substrate that the Greeks called
+Chapter 2
+
+
+
+
+                 ὑποκείμενον - the “underlying.” It gives matter its form and shape.
+                 Form informs.
+                    Much of formal metaphysics is about necessary relationships
+                 between universal ideas, certain knowledge that we can believe
+                 independent of any experience, knowledge that is “a priori” and
+                 “analytic” (true by logic and reason alone, or by definition). Some
+                 of these ideas appear to be unchanging, eternal truths in any pos-
+                 sible world.
+                    Information philosophy now shows that there is no necessity
+                 in the natural world. Apodeictic certainty is just an idea. There
+                 is no a priori knowledge that was not first discovered empirically
+                 (a posteriori). Only after a fact is discovered do
+                                                                          There is no
+                 we see how to demonstrate it logically as a priori.
+                                                                     necessity in the
+                 And everything analytic is part of a humanly con-
+                                                                       natural world
+                 structed language, and thus synthetic. All such
+                 “truths” are philosophical inventions, mere con-
+                 cepts, albeit some of the most powerful ideas ever to enter the
+                 universe.
+                    Most important, a formal and idealistic metaphysics is about
+                 abstract entities, in logic and mathematics, some of which seem to
+                 be true independent of time and space. Aristotle, the first metaphy-
+                 sician, called them “first principles” (archai, axioma). Gottfried
+                 Leibniz said they are true in all possible worlds, which is to say
+                 their truth is independent of the world.
+                    But if these abstract metaphysical truths are not material,
+                 where are these ideas in our world? Before their discovery, they
+                 subsisted as unknown properties. Once invented and discovered
+                 to be empirical facts, they are embedded in material objects, arti-
+                 facts, and minds – the software in our hardware. Those ideas that
+                 are invented but not found empirically “real” (imagined fictions,
+                 flawed hypotheses, round squares) are also added to the sum of
+                 human knowledge, even if never embodied.
+                                                 Metaphysics            19
+
+   Many unchanging abstract entities share a property that the
+early philosophers Parmenides, Plato, and Aristotle called “Being,”
+to distinguish its nature from “Becoming,” the property of all
+material objects that change with time. Certain truths cannot pos-
+
+
+
+
+                                                                             Chapter 2
+sibly change. They are eternal, “outside space and time.”
+   It is unfortunate that information philosophy undermines the
+logical concepts of metaphysical necessity, certainty, the a priori
+and analytic, even truth itself, by limiting their analyticity to the
+unchanging abstract entities in the realm of Being. But, on the
+positive side, information philosophy now establishes the meta-
+physical possibility of ontological possibilities.
+   Possibilities depend on the existence of irreducible ontological
+chance, the antithesis of necessity. Without metaphysical possi-
+bilities, no new information can be created.
+   Information philosophy and metaphysics restore an immate-
+rial mind to the impoverished and deflated metaphysics that we
+have had since empiricism and naturalism rejected the dualism of
+René Descartes and its troublesome mind-body problem.
+  Naturalism is a materialism. Just as existentialism is a human-
+ism. Even stronger, naturalism is an eliminative materialism. It
+denies the immaterial and particularly the mental.
+  While information philosophy is a form of the great dualism
+of idealism versus materialism, it is not a substance dualism.
+Information is a physical, though immaterial, property of matter.
+Information philosophy is a property dualism.
+   Abstract information is neither matter nor energy, although it
+needs matter for its embodiment and energy for its communica-
+tion.
+  Information is immaterial. It is the modern spirit, the ghost in
+the machine. It is the mind in the body. It is the soul. And when
+we die, our personal information and its communication perish.
+The matter remains.
+  Information is the underlying currency of all communication
+and language. Passive material objects in the universe contain
+            20         Great Problems of Philosophy and Physics - Solved?
+
+                 information, which metaphysicians and scientists analyze to
+                 understand everything material. But passive material objects do
+                 not create, actively communicate, and process information, as do
+Chapter 2
+
+
+
+
+                 all living things.
+                   Realism is the ontological commitment to the existence of
+                 material things. Information realism is equally committed to the
+                 existence or subsistence of immaterial, but physical, ideas.
+                    Human language is the most highly evolved form of informa-
+                 tion communication in biology. But even the simplest organisms
+                 signal their condition and their needs, both internally among
+                 their smallest parts and externally as they compete with other
+                 living things in their environment.
+                    Biosemioticians convincingly argue that all the messages in
+                 biology, from the intracellular genetic codes sent to the ribosomes
+                 to produce more of a specific protein, to the words in sentences
+                 like this one, are a meaningful part of one continuously evolv-
+                 ing semantic system. All messaging is as purposeful as a human
+                 request for food, so biology is called teleonomic, though not teleo-
+                 logical. This “telos” or purpose in life did not pre-exist life.2
+                    Like human language, the signs used in biological messages can
+                 be symbolic and arbitrary, having no iconic or indexical or any
+                 other intrinsic relation between a signifier and the signified con-
+                 cept or object. Like human signs, the meaning of a biological sign
+                 is highly dependent on the context. Only four neurotransmitters
+                 act as primary messengers sent to a cell, inside of which one of
+                 dozens of secondary messengers may be activated to determine
+                 the use inside the particular cell - the ultimate Wittgensteinian
+                 “meaning as use” in the message.
+                    Modern Anglo-American metaphysicians think problems in
+                 metaphysics can be treated as problems in language, potentially
+                 solved by conceptual analysis. They are analytical language phi-
+                 losophers. But language is too flexible, too ambiguous and full
+                 of metaphor, to be a diagnostic tool for metaphysics. We must
+                 go beyond language games and logical puzzles to the underlying
+                 information contained in a concept or object.
+                   2     See Appendix G on Biosemiotics.
+                                                  Metaphysics             21
+
+   Information philosophy restores the metaphysical existence of
+a realm that is “beyond the natural” in the sense since at least
+David Hume and Immanuel Kant that the “laws of nature”
+
+
+
+
+                                                                               Chapter 2
+completely determine everything that exists, everything that hap-
+pens, in the phenomenal and material world.
+   Although the immaterial realm of information is not “super-
+natural” in any way, the creation of information throws consider-
+able light on why so many humans, though few scientists, believe
+– correctly as it turns out – that there is a providential force in the
+universe.3
+   Martin Heidegger, the philosopher of “Being,” called
+Friedrich Nietzsche the “last metaphysician.” Nietzsche
+thought that everything in his “lebensphilosophie” was the cre-
+ation of human beings. Indeed, when we are creative, what we
+create is new information.
+   Did we humans “discover” the abstract ideas, or did we “invent”
+them and then find them to be true of the world, including those
+true in any possible world?
+  As opposed to an analytic language metaphysician, a meta-
+physicist searches for answers in the analysis of immaterial (but
+physical) information that can be seen when it is embodied in
+external material information structures. Otherwise it can only
+be known – in minds.
+   Metaphysical truths are pure abstract information, subsisting
+in the realm of ideas.
+  Metaphysical facts about the world are discovered when there
+are isomorphisms between abstract ideas and the concrete struc-
+tures in the external world that embody those ideas.
+   Information philosophy bridges the ideal and material worlds
+of Plato and Aristotle and the noumenal and phenomenal worlds
+of Kant. It demonstrates how immaterial minds are a causal force
+in the material world, connecting the psychological and phe-
+nomenological with the “things themselves,” which are seen as
+embodiments of our ideas.
+
+  3     See chapter 7.
+            22       Great Problems of Philosophy and Physics - Solved?
+
+                    The causal force of ideas, combined with the existence of alter-
+                 native possibilities, is the information philosophy basis for human
+                 free will.
+Chapter 2
+
+
+
+
+                    What are we to say about a field of human inquiry whose major
+                 problems have hardly changed over two millennia? Information
+                 philosophy looks at a wide range of problems in metaphysics,
+                 situating each problem in its historical framework and providing
+                 accounts of the best work by today’s metaphysicians. Metaphy-
+                 sicians today are analytic language philosophers, some of whom
+                 work on a surprisingly small number of metaphysical problems
+                 that began as puzzles and paradoxes over two thousand years ago.
+                    The metaphysicist adds biological knowledge and quantum
+                 physics to help investigate the fundamental nature of reality.
+                 David Wiggins called for the former and E. Jonathan Lowe
+                 called for the latter. David Chalmers thinks information may
+                 help solve the "hard problem" of consciousness.
+                    An information-based metaphysics provides a single explana-
+                 tion for the origin and evolution of the universe as well as life on
+                 Earth. Since the beginning, it is the creation of material infor-
+                 mation structures that underlies all possibilities. From the first
+                 living thing, biological communication of information has played
+                 a causal role in evolution.
+                   Metaphysics must include both the study of matter and its
+                 immaterial form. A quantum particle is pure matter. The quantum
+                 wave function is pure abstract information about possibilities.
+                   The metaphysics of possibility grounds the possibility of meta-
+                 physics.
+                 Possibility and Possible Worlds
+                    In the “semantics of possible worlds,” necessity and possibil-
+                 ity in modal logic are variations of the universal and existential
+                 quantifiers of non-modal logic. Necessary truth is defined as
+                 “truth in all possible worlds.” Possible truth is defined as “truth
+                 in some possible worlds.” These abstract notions about “worlds” –
+                 sets of propositions in universes of discourse – have nothing to do
+                 with physical possibility, which depends on the existence of real
+                                                 Metaphysics            23
+
+contingency. Propositions in modal logic are required to be true or
+false. Contingent statements that are neither true or false are not
+allowed. So much for real possibilities in modal logic!
+
+
+
+
+                                                                             Chapter 2
+   Historically, the opposition to metaphysical possibility has
+come from those who claim that the only possible things that can
+happen are the actual things that do happen. To say that things
+could have been otherwise is a mistake, say the eliminative mate-
+rialists and determinists. Those other possibilities simply never
+existed in the past. The only possible past is the past we have actu-
+ally had.
+  Similarly, there is only one possible future. Whatever will
+happen, will happen. The idea that many different things can
+happen, the reality of modality and words like “may” or “might”
+used in everyday conversation, have no place in metaphysical
+reality. The only “actual” events or things are what exists. For
+“presentists,” even the past does not exist. Everything we remem-
+ber about past events is just a set of “Ideas.” And philosophers
+have always been troubled about the ontological status of Plato’s
+abstract “Forms,” entities like the numbers, geometric figures,
+mythical beasts, and other fictions.
+  Traditionally, those who deny alternative possibilities in this
+way have been called “Actualists.”
+   Reading the last half-century with the development of modal
+logic, one might think that metaphysical possibilities have been
+restored. So-called modal operators like “necessarily” and “pos-
+sibly” have been added to the structurally similar quantification
+operators “for all” and “for some.” The metaphysical literature is
+full of talk about “possible worlds.”
+   The most popular theory of possible worlds is David Lewis’s
+“modal realism,” an infinite number of worlds, each of which
+is just as actual (eliminative materialist and determinist) for its
+inhabitants as our world is for us.
+   There are no genuine possibilities in Lewis’s “possible worlds”!
+It comes as a shock to learn that every “possible world” is just
+as actual, for its inhabitants, as our world is for us. There are no
+alternative possibilities, no contingency, no things that might
+            24       Great Problems of Philosophy and Physics - Solved?
+
+                 have been otherwise, in any of these possible worlds. Every world
+                 is as physically deterministic as our own.
+                                         Modal logicians now speak of a “rule of
+Chapter 2
+
+
+
+
+                   There are no
+                   possibilities in necessitation” at work in possible world
+                   David Lewis's      semantics. The necessarily operator and the
+                   possible worlds possibly operator are said to be “duals” - either
+                                      one can be defined in terms of the other, so
+                 either can be primitive. But most axiomatic systems of modal
+                 logic appear to privilege necessity and de-emphasize possibility.
+                 They rarely mention contingency, except to say that the necessity
+                 of identity appears to rule out contingent identity statements.
+                    The rule of necessitation is that “if p, then necessarily p.” It
+                 gives rise to the idea that if anything exists, it exists necessarily.
+                 This is called “necessitism.” The idea that if two things are identi-
+                 cal, they are necessarily identical. The “necessity of identity” was
+                 “proved” by Ruth Barcan Marcus in 1947, by her thesis adviser
+                 F. B. Fitch in 1952, and by Willard Van Orman Quine in 1953.
+                 David Wiggins in 1965 and Saul Kripke in 1971 repeated the
+                 arguments, with little or no reference to the earlier work.
+                 Naming and Necessity
+                    Perhaps Kripke's most famous work is his idea that proper
+                 names are "rigid designators" that are necessarily true in all pos-
+                 sible worlds. That is to say, the same individual in other possible
+                 worlds must have exactly the same name. This raises the ques-
+                 tion of "trans-world identity." Must every possible property of
+                 any individual be exactly the same? According to Leibniz's Law,
+                 which Kripke uses, two entities are only identical if every prop-
+                 erty they have is identical. So far, so good. But what about the
+                 property of being in two different worlds, two different places?
+                 If that one property differs, why shouldn't many other propeties,
+                 including their names?
+                    Kripke and Hilary Putnam famously asked whether the word
+                 "water" and the molecular formula H2O are necessarily the same
+                 in all possible worlds, because water is a "natural kind?"
+                                                 Metaphysics            25
+
+
+   There is simply no necessity in the physical world, neither the
+actual world nor "possible" other worlds. Necessitism exists only
+in the ideal worlds of logic and mathenatics.
+
+
+
+
+                                                                             Chapter 2
+   The emphasis on necessitation in possible-world semantics
+leads to a flawed definition of possibility, one that has no connec-
+tion with the ordinary and scientific meanings of possibility.
+   Modal logicians know little if anything about real possibilities
+and nothing at all about possible physical worlds. Their possible
+worlds are abstract universes of discourse, sets of propositions that
+are true or false. Contingent statements, that may be either true or
+false, like statements about the future, are simply not allowed in
+systems of formal logic.
+   Modal logicians define necessary propositions as those that are
+“true in all possible worlds.” Possible propositions are those that
+are only “true in some possible worlds.” This is the result of forc-
+ing the modal operators ‘necessarily’ and ‘possibly’ to correspond
+to the universal and existential quantification operators ‘for all’
+and ‘for some.’ But the essential nature of possibility is the con-
+junction of contingency and necessity. Contingency is defined as
+the not impossible and the not necessary.
+   We propose the existence of a metaphysical possibilism along-
+side the notion of necessitism.
+   “Actual possibilities” exist in minds and in quantum-mechan-
+ical “possibility functions” It is what we might call “actual possi-
+bilism,” the existence in our actual world of possibilities that may
+never become actualized, but that have a presence as abstract enti-
+ties that have been embodied as ideas in minds. In addition, we
+include the many possibilities that occur at the microscopic level
+when the quantum-mechanical probability-amplitude wave func-
+tion collapses, making one of its many possibilities actual.
+Actual Possibles
+  Although there are no genuine possibilities in Lewis’s “possible
+worlds,” we can explain the existence of “actual possibles” in meta-
+physical terms using the possible world semantics of Saul Kripke,
+            26         Great Problems of Philosophy and Physics - Solved?
+
+                 who maintained that his semantics could be used to describe vari-
+                 ous ways our actual world might have been. Unlike many other
+                 “possible world” interpretations, Kripke accepts that empirical
+Chapter 2
+
+
+
+
+                 facts in the physical world are contingent, that many things might
+                 have been otherwise. Kripke’s counterfactuals are genuinely dif-
+                 ferent ways the actual world might have been or might become.
+                       I will say something briefly about ‘possible worlds’. (I hope to elab-
+                       orate elsewhere.) In the present monograph I argued against those
+                       misuses of the concept that regard possible worlds as something like
+                       distant planets, like our own surroundings but somehow existing in a
+                       different dimension, or that lead to spurious problems of ‘transworld
+                       identification’. Further, if one wishes to avoid the Weltangst and phil-
+                       osophical confusions that many philosophers have associated with
+                       the ‘worlds’ terminology, I recommended that ‘possible state (or his-
+                       tory) of the world’, or ‘counterfactual situation’ might be better. One
+                       should even remind oneself that the ‘worlds’ terminology can often be
+                       replaced by modal talk—’It is possible that . . .’
+                       ‘Possible worlds’ are total ‘ways the world might have been’, or states or
+                       histories of the entire world.4
+                    Following Kripke, we build a model structure M as an ordered
+                 triple <G, K, R>. K is the set of all “possible worlds,” G is the
+                 “actual world,” R is a reflexive relation on K, and G ε K.
+                   If H1, H2, and H3 are three possible worlds in K, H1RH2 says
+                 that H2 is “possible relative to” or “accessible from” H1, that every
+                 proposition true in H2 is possible in H1.
+                    Indeed, the H worlds and the actual world G are all mutually
+                 accessible and each of these is possible relative to itself, since R is
+                 reflexive.
+                   Now the model system M assigns to each atomic formula
+                 (propositional variable) P a truth-value of T or F in each world
+                 H ε K.
+                    Let us define the worlds H1, H2, and H3 as identical to the real
+                 world G in all respects except the following statements describing
+                 actions of a graduating college student Alice deciding on her next
+                 step.
+
+                   4       Naming and Necessity, p. 15, 18
+                                                  Metaphysics             27
+
+ In H1, the proposition “Alice accepts admission to Harvard
+Medical School” is true, but false in other worlds, so “possible.”
+  In H2, the proposition “Alice accepts admission to MIT” is true.
+
+
+
+
+                                                                               Chapter 2
+   In H3, the proposition “Alice postpones her decision and takes
+a ‘gap year’” is true.
+  At about the same time, in the actual world K, the statement
+“Alice considers graduate school” is true.
+   Note that the abstract information that corresponds to the three
+possible worlds H is embodied physically in the matter (the neu-
+rons of Alice’s brain) in the actual world and in the three possible
+worlds. There is no issue with the “transworld identity” of Alice
+as there would be with Lewis’s “modal realism,” because all these
+possible worlds are in the same spatio-temporal domain.
+   The metaphysical question is which of the three possible worlds
+becomes the new actual world, say at time t. What is the funda-
+mental structure of reality that supports the simultaneous exis-
+tence of alternative possibilities?
+   Just before time t, we can interpret the semantics of the model
+structure M as saying that the above statements were “merely pos-
+sible” thoughts about future action in Alice’s mind.
+   Note also that just after the decision at time t, the three possible
+alternatives remain in Alice’s experience recorder and reproducer
+as memories.
+  Some consequences of Alice’s alternative possible decisions.
+   In the future of world H1, Alice’s research discovers the genetic
+signals used in messaging by cancer cells and cancer is eliminated.
+Several hundred million lives are saved (extended) in Alice’s life-
+time.
+   In the future of world H2, Alice engineers the miniaturization
+of nuclear weapons so they are small enough to be delivered by
+tiny drones. One is stolen from an air force base by a terrorist and
+flown to an enemy country where millions of lives are lost. Alice
+kills herself the next day.
+            28       Great Problems of Philosophy and Physics - Solved?
+
+                    In the future of world H3, a mature Alice returns to school,
+                 completes her Ph.D. in Philosophy at Princeton and writes a book
+                 titled Free Will and Moral Responsibility.
+Chapter 2
+
+
+
+
+                 Actualism
+                   Actualism appeals to philosophers who want the world to be
+                 determined by physical laws and by theologians who want the
+                 world to be in the hands of an omnipotent, omniscient, and
+                 benevolent god.
+                    Some physicists think the future is causally closed under deter-
+                 ministic laws of nature and the “fixed past.” If the knowledge that a
+                 Laplacian “super-intelligence” could gather about all the motions
+                 of material particles at a single instant is fixed for all time, then
+                 everything today might have been pre-determined from the earli-
+                 est moments of the physical universe.
+                   The special theory of relativity, for example, describes a four-
+                 dimensional “block universe” in which all the possible events of
+                 the future already exist alongside those of the past. It makes “fore-
+                 knowledge” of the future conceivable.
+                   Diodorus Cronus dazzled his contemporaries in the fourth
+                 century BCE with sophisticated logical arguments, especially par-
+                 adoxes, that “proved” there could be only one possible future.
+                    Diodorus’ Master Argument is a set of propositions designed
+                 to show that the actual is the only possible and that some true
+                 statements about the future imply that the future is already deter-
+                 mined. This follows logically from his observation that if some-
+                 thing in the future is not going to happen, it must have been that
+                 statements in the past that it would not happen must have been
+                 true.
+                    Modern day “actualists” include Daniel Dennett, for whom
+                 determinism guarantees that the actual outcome is and always
+                 was the only possible outcome. The notion that we can change the
+                 future is absurd, says Dennett, change it from what to what?
+                   The ancient philosophers debated the distinction between
+                 necessity and contingency (between the a priori and the
+                                                  Metaphysics             29
+
+a posteriori). For them, necessity included events or concepts
+that are logically necessary and physically necessary, contingency
+those that are logically or physically possible. In the middle ages
+
+
+
+
+                                                                               Chapter 2
+and the enlightenment, necessity was often contrasted with free-
+dom. In modern times it is often contrasted with mere chance.
+   Causality is often confused with necessity, as if a causal chain
+requires a deterministic necessity. But we can imagine chains
+where the linked causes are statistical, and modern quantum
+physics tells us that all events are only statistically caused, even if
+for large macroscopic objects the statistical likelihood approaches
+certainty for all practical purposes. The apparent deterministic
+nature of physical laws is only an “adequate” determinism.
+  In modern philosophy, modal theorists like David Lewis dis-
+cuss counterfactuals that might be true in other “possible worlds.”
+Lewis’ work at Princeton may have been inspired by the work of
+Princeton scientist Hugh Everett III. Everett’s interpretation of
+quantum mechanics replaces the “collapse” of the wave function
+with a “splitting” of this world into multiple worlds.
+   According to the Schrödinger equation of motion, the time evo-
+lution of the wave function describes a “superposition” of possible
+quantum states. Standard quantum mechanics says that interac-
+tion of the quantum system with other objects causes the system
+to collapse into one of these possible states, with probability given
+by the square of the “probability amplitude.”
+   One very important kind of interaction is a measurement by a
+“conscious observer.”5
+  In standard quantum theory, when a measurement is made,
+the quantum system is “projected” or “collapsed” or “reduced”
+randomly into a single one of the system’s allowed states. But if
+the system was “prepared” in one of these “eigenstates,” then the
+measurement will find it in that state with probability one (that is,
+with certainty).
+  So modern physics does not deny the possibility of a certain
+measurement outcome, with probability equal to one, or even an
+impossible one, with probability equal to zero. But these are very
+special physical circumstances.
+  5     See chapter 18
+            30       Great Problems of Philosophy and Physics - Solved?
+
+                 Identity
+                  In information philosophy, identity depends on the total infor-
+                 mation in an object or concept.
+Chapter 2
+
+
+
+
+                    We distinguish the intrinsic information inside the object (or
+                 concept) from any relational information with respect to other
+                 objects that we call extrinsic or external. We can “pick out” the
+                 intrinsic information as that which is “self-identical” in an object.
+                 The Greeks called this the πρὸς ἑαυτο - self-relation. or ἰδίος
+                 ποιὸν, “peculiar qualifications” of the individual.
+                    Self-identity, then, is the fact that the intrinsic information as
+                 well as the extrinsic relational or dispositional information are
+                 unique to this single object. No other object can have the same
+                 disposition relative to other objects. This is an absolute kind of
+                 identity. Some metaphysicians say that such identity is logically
+                 necessary. Some say self-identity is the only identity, but we can
+                 now support philosophers who argue for a relative identity.
+                    To visualize our concept of information identity, imagine put-
+                 ting yourself in the position of an object. Look out at the world
+                 from its vantage point. No other object has that same view, that
+                 same relation with the objects around you, especially its relation
+                 with you. Now another object could have intrinsic information
+                 identicality. We will in fact identify a very large number of objects
+                 and concepts in the world that are intrinsically identical, includ-
+                 ing natural and artifactual kinds, which we may call digital kinds,
+                 since they are identical, bit for bit.
+                   We can now offer three fundamental facts about identity:
+                   Id1. Everything is identical to everything else in some respects.
+                    Id2. Everything is different from everything else in some other
+                 respects.
+                    Id3. Everything is identical to itself in all respects at each
+                 instant of time, but different in some respects from itself at any
+                 other time.
+                                                  Metaphysics            31
+
+   We can rewrite these observations in terms of information phi-
+losophy
+  I1. Any two things have some information in common.
+
+
+
+
+                                                                              Chapter 2
+  I2. Any two things have some different information.
+   I3.The identity of anything over time is changing because the
+information in it (and about it) is changing with time.
+   These three observations might be called information axioms.
+Armed with them, we are in a position to “dis-solve” or decon-
+struct some of the most famous metaphysical puzzles and para-
+doxes.
+A Criterion for Identity
+   After accepting the fundamental fact that nothing is perfectly
+identical to anything but itself, the criterion for relative identity,
+for identical “in some respect,” or qua that respect, is that some
+subset of the information in two different things must be the same
+information, bit for bit.
+   Relative identity means that a can be the same I as b, but not
+the same E as b, where I is the sum of all the intrinsic properties
+and relations - internal self-relations between an object’s differ-
+ent parts. For physical objects, these could be within some physi-
+cal boundary, subject to conditions of vagueness. In a biological
+entity, it also includes the vast communications going on inside
+and between the cells, which makes it much more than a mereo-
+logical sum of its parts.
+  The E for an object is the sum of extrinsic relations an object has
+with things outside, including its disposition in space and time.
+  Mathematically, ∫iF(x) = ∫iG(x) , but ∫eF(x) ≠ ∫eG(x) , which says
+that F(x) and G(x) are identical over their intrinsic domains (i)
+but differ over their extrinsic domains (e) .
+  Set theoretically, in classical propositional calculus, we can say
+that Ia is the set of intrinsic properties and internal relations that
+            32       Great Problems of Philosophy and Physics - Solved?
+
+                 can be predicated in propositions about an object a. Ea is the set of
+                 extrinsic relations. We can now describe why absolute identity is
+                 limited to self-identity.
+Chapter 2
+
+
+
+
+                   If Ia + Ea = Ib + Eb, then a and b are one and the same object.
+                    And, if Ia = Ib, then a and b are relatively identical, qua their
+                 information content.
+                   Note that while self-identity is reflexive, symmetric, and an
+                 equivalence self-relation, relative identity is often none of these.
+                 This is because, unlike Max Black’s identical spheres, Saul
+                 Kripke’s natural kinds, and our many digital clones, some part of
+                 the information in a and b may be identical, but the information
+                 that is not identical may also differ in quantity. We can say that if
+                 aRb is 60% identical, bRa may be only 10% identical.
+                    Extensional quantification over things in analytic language
+                 philosophy is about their set membership, which is dependent on
+                 language references to the properties of objects.
+                    By contrast, quantification in information philosophy is a cal-
+                 culation of the total information content in the entities, in prin-
+                 ciple, free of language ambiguities, in practice, very difficult.
+                 A Criterion for Essence
+                    Information identity suggests a possible definition of the
+                 “essence” of an object, what is “essential” about it. Furthermore, if
+                 two objects are considered “essentially” the same, we can pick out
+                 the subset of information that corresponds to that “essence.”
+                    A subset of the intrinsic information may be essential with
+                 respect to (qua) some concept of the object. As Edmund Husserl
+                 emphasized, our concepts about objects depend on our intentions,
+                 our intended uses of the object, which give it different (pragmatic)
+                 meanings. We can say that an essence is the subset of an object’s
+                 information that is isomorphic to the information in the concept.
+                   What we call a “concept” about a material object is usually some
+                 subset of the information in the object, accurate to the extent that
+                                                Metaphysics            33
+
+the concept is isomorphic to that subset. By “picking out” differ-
+ent subsets, we can sort objects. We can compare objects, finding
+them similar qua one concept and different qua another concept.
+
+
+
+
+                                                                            Chapter 2
+We can say that “a = b” qua color but not qua size.
+   But there are concepts that may have little to do with the
+intrinsic peculiar information about an object. They are concepts
+imposed on the object by our intended uses of it.
+   We must distinguish these extrinsic essences – our external
+ideas and concepts about what the object is – from the intrinsic
+essences that depend only on the object itself and its own pur-
+poses, if any. The essences we see in an object are subjective, but
+we may define an objective essence as the total intrinsic informa-
+tion, including internal messaging, in the object.
+   Husserl and Gottlob Frege both pointed out that our ideas
+are dependent on our personal experience. Experience constrains
+and amplifies our possible concepts. Two persons may get the
+general “sense” or “meaning” of something referred to, but Frege
+said the “idea” or representation (Vorstellung) in each mind can be
+very different, based on that individual’s experience. Information
+philosophy locates the creation of meaning in the responses of the
+experience recorder and reproducer (ERR) to different stimuli.
+   The relation “identical to,” between two numerically distinct
+concrete or abstract entities, is the source of logical puzzles and
+language games through the ages that are little more than verbal
+disputes. Most such disputes are easily resolved or “dis-solved” by
+paying careful attention to all the information, all the particular
+properties, intrinsic and extrinsic, of the two entities that may be
+identical qua some particular properties.
+Coinciding Objects
+   The problem of coinciding objects (sometimes called coloca-
+tion) is whether two things can be in the same place at the same
+time. Common sense says that they cannot.
+  John Locke described the impossibility that two things of the
+same kind should exist in the same place at the same time.
+            34       Great Problems of Philosophy and Physics - Solved?
+
+                     ANOTHER occasion the mind often takes of comparing, is the very
+                     being of things, when, considering anything as existing at any deter-
+                     mined time and place, we compare it with itself existing at another
+Chapter 2
+
+
+
+
+                     time, and thereon form the ideas of wherein identity and diversity.
+                     When we see anything to be in any identity place in any instant of
+                     time, we are sure (be it what it will) that it is that very thing, and not
+                     another which at that same time exists in another place, how like and
+                     undistinguishable soever it may be in all other respects: and in this
+                     consists identity, when the ideas it is attributed to vary not at all from
+                     what they were that moment wherein we consider their former exis-
+                     tence, and to which we compare the present. For we never finding, nor
+                     conceiving it possible, that two things of the same kind should exist in
+                     the same place at the same time, we rightly conclude, that, whatever
+                     exists anywhere at any time, excludes all of the same kind, and is there
+                     itself alone. 6
+                   In modern metaphysics, the problem of coinciding objects
+                 should be the question of whether one mass of material – what the
+                 Greeks called substrate or ὑποκείμενον (“the underlying”) – could
+                 contain the whole of two (or more) separate objects containing
+                 that same mass.
+                   It is now common for many identity theorists to claim that the
+                 whole of one object and the whole of another can occupy just
+                 the same place at just the same time. Among them, according to
+                 Michael Burke, are Roderick Chisholm, E. Jonathan Lowe,
+                 Saul Kripke, and David Wiggins.
+                    But it is not clear that this was the ancient problem in debates
+                 between the Academic Skeptics and the Stoics. In modern times,
+                 multiple ancient puzzles are used to pose the problem of coin-
+                 ciding objects. One is the Statue and the Clay from which it is
+                 sculpted. Another is Dion and Theon, known as the “body-minus”
+                 problem. Another is Tibbles, the Cat and a similar cat missing his
+                 tail. A third is the Stoic Chrysippus’s so-called “Growing Argu-
+                 ment.”
+                   All these modern claims that there can be two “coinciding
+                 objects” can be shown to be distinguishing between different
+                 aspects, in particular, the matter and form, of a single object,
+
+                    6     Essay Concerning Human Understanding, Of Identity and Diversity, Book II,
+                 ch xxvii
+                                                              Metaphysics            35
+
+giving them different names, and then arguing that they have dif-
+ferent persistence conditions.
+  Aristotle’s Metaphysics makes perhaps the earliest and clearest
+
+
+
+
+                                                                                          Chapter 2
+such distinction, using the example of a statue and its matter.
+      The term “substance” (οὐσία) is used, if not in more, at least in
+      four principal cases; for both the essence and the universal and the
+      genus are held to be the substance of the particular (ἑκάστου), and
+      fourthly the substrate (ὑποκείμενον). The substrate is that of which
+      the rest are predicated, while it is not itself predicated of anything else.
+      Hence we must first determine its nature, for the primary substrate
+      (ὑποκείμενον) is considered to be in the truest sense substance.
+      Now in one sense we call the matter (ὕλη ) the substrate; in another,
+      the shape (μορφή); and in a third, the combination Both matter and
+      form and their combination are said to be substrate of the two. By
+      matter I mean, for instance, bronze; by shape, the arrangement of the
+      form (τὸ σχῆμα τῆς ἰδέας); and by the combination of the two, the
+      concrete thing: the statue (ἀνδριάς). Thus if the form is prior to the
+      matter and more truly existent, by the same argument it will also be
+      prior to the combination.7
+  Aristotle clearly sees the statue as a combination of its form/
+shape and its matter/clay.
+   Of course Aristotle sees no problem with the body and soul of
+a person being combined in one substance (οὐσία), but a hundred
+or so years after Aristotle, the Academic Skeptics attacked the
+Stoics, saying Stoics were making single things into dual beings,
+two objects in the same place at the same time, but indistinguish-
+able. And this may have been the beginning of the modern prob-
+lem.
+   The “two things” that bothered the Skeptics appeared first in the
+“growing argument” described by the later second century BCE
+Stoics, Posidonius and Mnesarchus, as reported by Stobaeus in
+the fifth century CE. What is it that grows, they asked, the mate-
+rial substance or the peculiar qualities of the individual? But note
+that this is still matter versus form. The substance (matter) does
+not grow. It is the individual that grows.
+      The substance neither grows nor diminishes through addition or sub-
+      traction, but simply alters, just as in the case of numbers and mea-
+      sures. And it follows that it is in the case of peculiarly qualified indi-
+
+  7       Metaphysics, Book VII, § iii, 1-2
+            36        Great Problems of Philosophy and Physics - Solved?
+
+                     viduals, such as Dion and Theon, that processes of both growth and
+                     diminution arise.
+                     Therefore each individual’s quality actually remains from its genera-
+Chapter 2
+
+
+
+
+                     tion to its destruction, in the case of destructible animals, plants and
+                     the like. In the case of peculiarly qualified individuals they say that
+                     there are two receptive parts, the one pertaining to the presence of the
+                     substance, the other to that of the qualified individual...
+                     The peculiarly qualified thing is not the same as its constituent sub-
+                     stance. Nor on the other hand is it different from it, but is all but the
+                     same, in that the substance both is a part of it and occupies the same
+                     place as it, whereas whatever is called different from something must
+                     be separated from it and not be thought of as even part of it...8
+                    Like Aristotle, the Stoics were distinguishing the individual’s
+                 “constituent substance” from the “peculiar qualifications” of the
+                 individual.
+                    The Stoic term for “constituent substance” or substrate, follow-
+                 ing Aristotle, was ὑποκείμενον. Their term for the unique person,
+                 possibly separate from the material body, was ἰδίος ποιὸν - a par-
+                 ticular individual “who,” for example, Socrates, as opposed to
+                 κοινός ποιὸν, a general “whoness,” for example, a human being.
+                   But in the vehement debates of the third century BCE the Aca-
+                 demic skeptics laughed at the Stoics for seeing a dual nature in
+                 man. Their most famous puzzle was the coinciding objects of Dion
+                 and Theon (reframed by Peter Geach as the puzzle of Tibbles,
+                 the Cat and a similar cat lacking a tail).
+                    Plutarch, writing in the first century CE, accused the Stoics
+                 of “crazy arithmetic” and absurdity, that “each of us is a pair of
+                 twins, two-natured and double, joined in some parts but separate
+                 in others, two bodies sharing the same color, the same shape, the
+                 same weight, the same place,”
+                     Yet this difference and distinction in us no one has marked off or dis-
+                     criminated, nor have we perceived that we are born double, always in
+                     flux with one part of ourselves, while remaining the same people from
+                     birth to death with the other...
+                    8     Stobaeus (I,177,21 - 179,17, in The Hellenistic Philosophers, A.A.Long and
+                 D.N.Sedley, v.1, p.168
+                                                           Metaphysics                37
+
+    If when we hear Pentheus in the tragedy say that he sees two suns and
+    a double Thebes we say he is not seeing but mis-seeing, going crazy in
+    his arithmetic, then when these people propose that, not one city, but
+
+
+
+
+                                                                                           Chapter 2
+    all men, animals, trees, furniture, implements and clothes are double
+    and two-natured, shall we not reject them as forcing us to misthink
+    rather than to think?9
+   Another early statement is in the first century BCE.
+    That what concerns the peculiarly qualified is not the same as what
+    concerns the substance, Mnesarchus says is clear. For things which are
+    the same should have the same properties. For if, for the sake of argu-
+    ment, someone were to mould a horse, squash it, then make a dog, it
+    would be reasonable for us on seeing this to say that this previously
+    did not exist but now does exist. So what is said when it comes to the
+    qualified thing is different.
+    So too in general when it comes to substance, to hold that we are
+    the same as our substances seems unconvincing. For it often comes
+    about that the substance exists before something’s generation, before
+    Socrates’ generation, say, when Socrates does not yet exist, and that
+    after Socrates’ destruction the substance remains although he no
+    longer exists.10
+An Information Analysis of “Coinciding Objects”
+   Most of these metaphysical puzzles start with a single object,
+then separate it into its matter and its form, giving each of them
+names and declaring them to be two coinciding objects. Next we
+postulate a change in either the matter or the form, or both. It is
+of course impossible to make a change in one without the other
+changing, since we in fact have only one object.
+   But our puzzle maker asks us to focus on one and insist that the
+change has affected the status of only that one, usually claiming
+that the change has caused that one to cease to exist. This follows
+an ancient view that any change in material constitutes a change
+in identity. But the modern metaphysicist knows that all objects
+are always changing and that a change in identity may always pre-
+serve some information of an entity. The puzzle claims that an
+   9      “Against the Stoics on Common Conceptions” 1083, The Hellenistic Philoso-
+phers, A.A.Long and D.N.Sedley, v.1, p.166-7
+   10     ibid, p.168
+            38       Great Problems of Philosophy and Physics - Solved?
+
+                 aspect of the object persists if the relative identity, or identity “in
+                 some respect” has not changed.
+                   To create a paradox, we use two of our axioms about identity,
+Chapter 2
+
+
+
+
+                   Id1. Everything is identical to everything else in some respects.
+                    Id2. Everything is different from everything else in some other
+                 respects.
+                    We (in our minds) “pick out” one respect whose identity per-
+                 sists over time because of Id1 and a second respect which changes
+                 in time because of Id2.
+                    We now have one object that both persists and does not persist
+                 (in different respects, of course), the very essence of a paradox.
+                 We call them different objects to create the puzzle.
+                    For example, in the case of the statue and the clay, Mnesarchus’s
+                 original version assumed that someone moulds a horse, then
+                 squashes it. We are asked to pick out the horse’s shape or form.
+                 The act of squashing changes that shape into another relatively
+                 amorphous shape. The object changes its identity with respect
+                 to its shape. Mnesarchus said it would be reasonable to see this
+                 sequence of events as something coming into existence and then
+                 ceasing to exist. The most obvious thing changing is the horse
+                 shape that we name “statue.”
+                    By design of the puzzle, there is no change in the amount of
+                 clay, so the matter is considered identical over time with respect
+                 to the amount of clay. The clay persists.
+                    We now claim to have seen a difference in persistence condi-
+                 tions. The object qua clay persists. The object qua statue goes in
+                 and out of existence.
+                   But this is just a way of talking about what has happened because
+                 a human observer has “picked out” two different aspects of the
+                 one object. As the statue is being smashed beyond recognition,
+                 every part of the clay must move to a new position that accom-
+                 modates the change in shape of the statue. There are changes in
+                                                  Metaphysics            39
+
+the clay with identical information to the change in the shape of
+the statue. These we ignore to set up the puzzle.
+   In more modern versions of the statue and clay puzzle, we can
+
+
+
+
+                                                                              Chapter 2
+make a change in the matter, for example by breaking off an arm
+and replacing it with a new arm made of different material but
+restoring the shape. We ignore the change in form, although it
+was obviously a drastic change until the restoration, and we focus
+on the clay, making the claim that the original clay has ceased to
+exist and new clay come into existence.
+  In either case, the claim to see different persistence conditions is
+the result of focusing on different subsets of the total information.
+   When identity theorists say that the whole of one object and
+the whole of another can occupy just the same place at just the
+same time, they are never talking about two objects of the same
+type, kind, or sort. They are always “picking out” different aspects
+of a single object and giving them differing existential status.
+Composition (Parts and Wholes)
+   Debates about the relation of parts to wholes is a major part
+of modern metaphysics. Many puzzles have to do with different
+persistence conditions of the “parts” of a composited whole, as we
+saw with the idea of coinciding objects.
+   “Mereological universalism” or extensional mereology is an
+abstract idea, defined in 1937 by Stanislaw Leśniewski and later
+by Henry Leonard and Nelson Goodman (1940). It claims that
+any collection of things, for example the members of a set in sym-
+bolic logic, can be considered as the parts of a whole, a “fusion”
+or “mereological sum,” and thus can compose an object. Critics
+of this idea says that such arbitrary collections are just “scattered
+objects.” A mind-independent connection between things is
+needed for them to be considered integral “parts.”
+  That connection is to be found in the information that led to the
+whole in the first place and/or is now maintaining that integrity.
+            40       Great Problems of Philosophy and Physics - Solved?
+
+                    “Mereological essentialism” is Roderick Chisholm’s radical
+                 idea that every whole has its parts necessarily and in every pos-
+                 sible world. This goes too far. No physical object can maintain its
+Chapter 2
+
+
+
+
+                 parts indefinitely and freeze its identity over time. Recall our third
+                 axiom of identity:
+                    Id3. Everything is identical to itself in all respects at each
+                 instant of time, but different in some respects from itself at any
+                 other time.
+                    “Mereological nihilism” is the opposite extreme. Peter van
+                 Inwagen and the early Peter Unger denied the existence of
+                 composites, seeing them as simples (partless entities) arranged to
+                 look like a composite object. For van Inwagen, a table is “simples
+                 arranged table-wise.”
+                    It is the information in the process that is doing the arranging is
+                 responsible for the composite whole.
+                   Van Inwagen made a surprising exception for living objects. He
+                 bases the composite nature of biological entities on the Cartesian
+                 dualist view that humans are thinking beings!
+                   Van Inwagen’s says that his argument for living beings as
+                 composite objects is based on the Cartesian “Cogito,” I think,
+                 therefore I am.
+                     My “reasons for believing in organisms,” therefore, are reasons for
+                     stopping where I do and not going on to maintain that there are no
+                     organisms but are only simples arranged organically. My argument
+                     for the existence of organisms, it will be remembered, involved in an
+                     essential way the proposition that I exist.11
+                   With van Inwagen’s exception of living things, and now that
+                 Unger has abandoned his own form of nihilism in recent years,
+                 both philosophers now accept that they themselves exist (sic).
+                   Van Inwagen could see no obvious demarcation level at which
+                 even the simplest living things should not be treated as composite
+                 objects. We shall see that it is biological information that makes a
+                 whole being out of just matter and energy.
+                   Information philosophy and metaphysics ask who or what is
+                 doing the arranging? Information provides a more fundamental
+                   11    Material Beings, p.213
+                                                  Metaphysics            41
+
+reason than van Inwagen’s for treating living things as integrated
+composites and not simply mereological sums of scattered objects.
+Furthermore, it extends a true composite nature to artifacts and
+
+
+
+
+                                                                              Chapter 2
+to groupings of living things because they share a teleonomic
+property – a purpose. And it shows how some “proper parts” of
+these composites can have a holistic relation with their own parts,
+enforcing transitivity of part/whole relations.
+   A process that makes a composite object an integrated whole
+we call teleonomic (following Colin Pittendrigh, Jacques
+Monod, and Ernst Mayr) to distinguish it from a teleological
+cause with a “telos” pre-existing all life. Teleonomy is the explana-
+tory force behind van Inwagen’s “arrangement” of simple parts.
+  Biological parts, which we can call biomers, are communicat-
+ing systems that share information via biological messaging with
+other parts of their wholes, and in many cases communicate with
+other living and non-living parts of their environments. These
+communications function to maintain the biological integrity (or
+identity) of the organism and they control its growth. Artifacts
+have their teleonomy imposed by their creators. For example,
+when a carpenter cuts the wood for a table, it is the “telos,” the
+end or purpose for the table, that “arranges it table-wise.”
+   Biocommunications are messages transferring information,
+inside the simplest single-cell organisms. For the first few bil-
+lion years of life these were the only living things, and they still
+dominate our planet. Their messages are the direct ancestors of
+messages between cells in multicellular organisms. They evolved
+to become all human communications, including the puzzles and
+problems of metaphysics. A straight line of evolution goes from
+the first biological message to this book of Great Problems.
+   Like many metaphysical problems, composition arose in the
+quarrels between Stoics and Academic skeptics that generated
+several ancient puzzles still debated today. But it has roots in Aris-
+totle’s definition of the essence (ουσία), the unchanging “Being”
+of an object. We will show that Aristotle’s essentialism has a bio-
+logical basis that is best understood today as a biomereological
+            42       Great Problems of Philosophy and Physics - Solved?
+
+                 essentialism. It goes beyond mereological sums of scattered
+                 objects because of the teleonomy shared between the parts,
+                 whether living or dead, of a biomeric whole.
+Chapter 2
+
+
+
+
+                    The essence of an object, the “kind” or “sort” of object that it
+                 “is”, its “constitution,” its “identity,” includes those “proper” parts
+                 of the object without which it would cease to be that sort or kind.
+                 Without a single essential part, it loses its absolute identity.
+                    While this is strictly “true,” for all practical purposes most
+                 objects retain the overwhelming fraction of the information that
+                 describes them from moment to moment, so that information
+                 philosophy offers a new and quantitative measure of “sameness”
+                 to traditional philosophy, a measure that is difficult or impossible
+                 to describe in ordinary language.
+                    Nevertheless, since even the smallest change in time does make
+                 an entity at t + Δt different from what it was at t, this has given rise
+                 to the idea of “temporal parts.”
+                 Temporal Parts
+                   Philosophers and theologians, e.g., Alfred North Whitehead
+                 and Jonathan Edwards, have argued for distinct temporal parts,
+                 with the idea that each new part is a completely new creation ex
+                 nihilo. The world is newly created at every instant! Even modern
+                 physicists (e.g., Hugh Everett III) talk as if parallel universes are
+                 brought into existence at an instant by quantum experiments that
+                 collapse the wave function.
+                    David Lewis, who claims there are many possible worlds,
+                 is a proponent of many temporal parts. His theory of “perdur-
+                 ance” asserts that the persistence through time of an object is as a
+                 series of completely distinct entities, one for every instant of time.
+                 Lewis’s work implies that the entire infinite number of his possible
+                 worlds (as “real” and actual as our world, he claims), must also be
+                 entirely created anew at every instant.
+                   While this makes for great science fiction and helps to pop-
+                 ularize metaphysics, at some point attempts to understand the
+                                                Metaphysics            43
+
+fundamental nature of reality must employ Occam’s Razor and
+recognize the fundamental conservation laws of physics. If a new
+temporal part is created ab initio, why should it bear any resem-
+
+
+
+
+                                                                            Chapter 2
+blance at all to its earlier version?
+  It is extravagant in the extreme to suggest that all matter dis-
+appears and reappears at every instant of time. It is astonishing
+enough that matter can spontaneously be converted into energy
+and back again at a later time.
+   Most simple things (the elementary particles, the atoms and
+molecules of ordinary matter, etc.) are in stable states that exist
+continuously for long periods of time, and these compose larger
+objects that persist through “endurance,” as Lewis describes the
+alternative to his “perdurance.” Large objects are not absolutely
+identical to themselves at earlier instants of time, but the differ-
+ences are infinitesimal in terms of information content.
+   The doctrine of temporal parts ignores the physical connec-
+tions between all the “simples” at one instant and at the follow-
+ing moment. It is as if this is an enormous version of the Zeno
+paradox of the arrow. The arrow cannot possibly be moving when
+examined at an instant. The basic laws of physics describe the con-
+tinuous motions of every particle. They generally show very slow
+changes in configuration – the organizational arrangement of the
+particles that constitutes abstract information about an object.
+   One might charitably interpret Lewis as admitting the endur-
+ance of the elementary particles (or whatever partless simples he
+might accept) and that perdurance is only describing the con-
+stant change in configuration, the arrangement of the simples, the
+information, that constitute or compose the whole.
+   Then Lewis’s temporal parts would be a series of self-identical
+objects that are not absolutely identical to their predecessors and
+successors, just a temporal series of highly theoretical abstract
+ideas, perhaps at the same level of (absurd) abstraction as his pos-
+sible worlds?.
+            44       Great Problems of Philosophy and Physics - Solved?
+
+                   Is a temporal part a reasonable concept? What exactly is a part?
+                 And what constitutes a whole? For each concept, there is a strict
+                 philosophical sense, an ordinary sense, and a functional or teleo-
+Chapter 2
+
+
+
+
+                 nomic sense.
+                   In the strict sense, a part is just some subset of the whole. The
+                 whole itself is sometimes called an “improper part.”
+                    In the ordinary sense, a part is distinguishable, in principle sep-
+                 arable, from other neighboring parts of some whole. The small-
+                 est possible parts are those that have no smaller parts. In physics,
+                 these are the atoms, or today the elementary particles, of matter.
+                   In the functional sense, we can say that a part serves some pur-
+                 pose in the whole. This means that it has may be considered a
+                 whole in its own right, subordinate to any purpose of the whole
+                 entity. Teleonomic examples are the pedals or wheel of a bicycle,
+                 the organs of an animal body, or the organelles in a cell.
+                    The teleonomic sense of an object is that it seems to have a
+                 purpose, the Greeks called it a telos, either intrinsic as in all living
+                 things, or extrinsic as in all artifacts, where the purpose was
+                 invented by the object’s creator.
+                   The most important example of a teleonomic process is of
+                 course biology. Every biological organism starts with a first cell
+                 that contains all the information needed to accomplish its “pur-
+                 pose,” to grow into a fully developed individual, and, for some, to
+                 procreate others of its kind.
+                   By contrast, when a philosopher picks out an arbitrary part of
+                 something, declaring it to be a whole something for philosophical
+                 purposes, perhaps naming it, the purpose is simply the philoso-
+                 pher’s intention of analyzing it further.
+                    For example, something that has no natural or artifactual basis,
+                 that does not “carve nature at the joints,” as Plato described it, that
+                 arbitrarily and violently divides the otherwise indivisible, may be
+                 a perfectly valid philosophical “idea,” an abstract entity.
+                                                      Metaphysics          45
+
+  But temporal parts do not “carve nature at the joints.” They do
+not capture the fundamental nature of reality.
+  Temporal parts are bad metaphysics.
+
+
+
+
+                                                                                Chapter 2
+  Aristotelian Essentialism
+  Aristotle knew that most living things can survive the loss of
+various parts (limbs, for example), but not others (the head). By
+analogy, he thought that other objects (and even concepts) could
+have parts (or properties) that are essential to its definition and
+other properties or qualities that are merely accidental.
+  Aristotelian essentialism is the study of those essential parts.
+   For Aristotle, and in ordinary use, not every part of a whole
+is a necessary part (let alone in all possible worlds). Much of the
+verbal quibbling in metaphysical disputes is about objects that are
+defined by language conventions as opposed to “natural kinds”
+that we can recognize by their information contents.
+   When we can identify the origin and current processing of that
+information, we have the deep metaphysical sense of essence.
+Aristotle called the arrangement “the scheme of the ideas.”
+   By matter I mean, for instance, bronze; by shape, the arrangement of
+   the form (τὸ σχῆμα τῆς ἰδέας); and by the combination of the two, the
+   concrete thing: the statue (ἀνδριάς)12
+  Information philosophy provides the deep reason behind
+Aristotle’s essentialism for living things and artifacts.
+   The “parts” of biological organisms are created and maintained
+(arranged) by anti-entropic processes that distribute matter and
+energy to all the vital parts. There is a purpose or “telos.” Aris-
+totle called it a built-in telos or “entelechy” (loosely translated
+as “having the final cause within”). The telos is implemented by
+messaging between all the vital parts or “proper parts.” A bio-
+mereological essentialism notes that every biomer (a biological
+part) is normally in direct or indirect communication with vast
+numbers of other biomers in the living organism and with the
+extra-cellular environment. Communication is information that
+
+  12   Metaphysics, Book VII, § vii
+            46       Great Problems of Philosophy and Physics - Solved?
+
+                 is neither matter nor energy. It is the ideal content of the message
+                 that implements the organism’s “telos.” Some examples...
+                   • Human artifacts. Here the “telos” comes from the creator.
+Chapter 2
+
+
+
+
+                 The leg of a table is an essential part of the original design. Such
+                 proper parts often have recognizable functions, so when they are
+                 missing the whole is no longer functional.
+                   • Physical combinations of elementary particles into nuclei and
+                 chemically emergent combinations of atoms – water from hydro-
+                 gen and oxygen and salt from sodium and chlorine.
+                    • Cosmological and other material objects formed with an
+                 anti-entropic process that created their information. Astronomi-
+                 cal bodies were pulled together by gravity into information struc-
+                 tures. Crystals grow information rich structures (e.g., snowflakes).
+                   Many of these “wholes” can survive the loss of some parts. But
+                 we are back quibbling. When their efficient/material causes and
+                 their formal and final causes are “teleonomic” and not simply
+                 arbitrary human conventions, we can say these are “natural kinds.”
+                    The problem of composition becomes more severe when some
+                 metaphysicians consider matter to be infinitely divisible, just as
+                 the real number line contains an infinite number of numbers
+                 between any two numbers (and a higher order of infinity of irra-
+                 tional numbers!).
+                    By contrast, the metaphysicist’s view is that matter is discrete,
+                 not infinitely divisible like the continuous spatial and tempo-
+                 ral dimensions. The Greek materialists argued for simple atoms
+                 separated by a void. Ludwig Boltzmann and Albert Einstein
+                 showed that the atoms of nineteenth-century chemistry really
+                 exist. In modern physics the simplest elementary particles are
+                 quarks, leptons, and bosons. So let’s suppose that we have a region
+                 of space with two oxygen atoms in it. It seems reasonable to say
+                 that it contains two simple things (the atoms).
+                   Peter van Inwagen denies the mereological sum. David
+                 Lewis defends it. Recent mereological debates in metaphysics
+                 have taken this form:
+                                                  Metaphysics            47
+
+  Mereological nihilist: There are two things in this region.
+   Mereological universalist: There are three things in this region
+(the two simples and the mereological sum).
+
+
+
+
+                                                                              Chapter 2
+   Now a metaphysicist can still argue cleverly and cogently about
+the proper number of parts and the choice of the proper whole.
+The oxygen atoms each contain eight protons, eight neutrons, and
+eight electrons. So one possible count is the 48 sub-atomic par-
+ticles that are visible. We can go deeper by noting that the nuclear
+particles are each made up of three quarks, which are not observ-
+able. We then can count 112 parts to the whole?
+   And the metaphysicist has a strong argument for the two
+simple atoms to be considered a whole. If the two atoms are very
+close, they can form an oxygen molecule. Even when disassoci-
+ated, quantum mechanics that treats them as a quasi-molecule is
+more accurate than a description as two independent atoms.
+Why Modal Logic Is Not Metaphysics
+   Modal logicians from Ruth Barcan Marcus to Saul Kripke,
+David Lewis, and the necessicist Timothy Williamson are right
+to claim metaphysical necessity as the case in the purely abstract
+informational world of logic and mathematics. But when infor-
+mation is embodied in concrete matter, which is subject to the
+laws of quantum physics and ontological chance, the fundamental
+nature of material reality is possibilist.
+   There are two reasons for the failure of modal logic to represent
+metaphysical reality. The first is that information is vastly superior
+to language as a representation of reality. The second is that truths
+and necessity cannot be the basis for metaphysical possibility.
+   Possible world semantics is a way of talking about universes
+of discourse - sets of true propositions - that considers them
+“worlds.” It may be the last gasp of the attempt by logical positiv-
+ism and analytic language philosophy to represent all knowledge
+of objects in terms of words.
+            48       Great Problems of Philosophy and Physics - Solved?
+
+                   Ludwig Wittgenstein’s core idea from the Tractatus had the
+                 same goal as Gottfried Leibniz’s ambiguity-free universal lan-
+                 guage,
+Chapter 2
+
+
+
+
+                    “The totality of true propositions is the whole of natural science
+                 (or the whole corpus of the natural sciences)”13
+                    Information philosophy has shown that the meaning of words
+                 depends on the experiences recalled in minds by the experience
+                 recorder and reproducer (ERR).14 Since every human being has
+                 a different set of experiences, there will always be variations in
+                 meaning about words between different persons.
+                    The goal of intersubjective agreement in an open community of
+                 inquirers hopes to eliminate those differences, but representation
+                 of knowledge in words will always remain a barrier and source of
+                 philosophical confusion. The physical sciences use analytic differ-
+                 ential equations to describe the deterministic and continuous time
+                 evolution of simple material objects, which is a great advance over
+                 ambiguous words. But these equations fail at the quantum level
+                 and where discrete digital messages are being exchanged between
+                 biological interactors. Moreover, while mathematical methods are
+                 precise, their significance is not easily grasped.
+                    The very best representation of knowledge is with a dynamic
+                 and interactive model of an information structure, what Ludwig
+                 Wittgenstein may have seen as a model and “picture of reality.”
+                 Today that is a three-dimensional model implemented in a digi-
+                 tal computer with a high-resolution display, even a virtual reality
+                 display, some day visible on the Internet. While computer models
+                 are only “simulations” of reality, they incorporate the best “laws”
+                 of physics, chemistry, and biology.
+                    Sadly, modal logicians have never proposed more than a hand-
+                 ful of specific propositions for their possible worlds, and many
+                 of these generated controversies, even paradoxes, about sub-
+                 stitutivity of presumed identicals in modal contexts. Word and
+                 object have degenerated to words and objections. By comparison,
+                 molecular models of the extraordinary biological machines that
+                   13   Tractatus Logico-Philosophicus, 4.11
+                   14   See Appendix E.
+                                                  Metaphysics            49
+
+have evolved to keep us alive and let us think can be “shown,” not
+said, just as Wittgenstein imagined.
+   His later work can be summed up as the failure of language
+
+
+
+
+                                                                              Chapter 2
+to be a picture of reality. Information philosophy gives us that
+picture, not just a two-dimensional snapshot, but a lifelike anima-
+tion and visualization of the fundamental nature of metaphysical
+reality.
+   Our information model incorporates the irreducible onto-
+logical chance and future contingency of quantum physics. The
+claimed “necessity of identity,” and the “necessary a posteriori” of
+natural and artificial digital “kinds” with identical intrinsic infor-
+mation content are just more “ways of talking.” There is no neces-
+sity in the physical world.
+  Truths and necessity are ideal concepts “true in all possible
+worlds,” because they are independent of the physical world. They
+have great appeal as eternal ideas “outside space and time.”
+   Possible worlds semantics defines necessity as “propositions
+true in all possible worlds” and possibility as “propositions true
+in some possible worlds.” There is no contingency here, as the
+only allowed propositions are either true or false. Modal logicians
+have little knowledge of our actual physical world and zero factual
+knowledge, by definition, of other possible worlds. The possible
+worlds of “modal realism” are all actual worlds, deterministic and
+eliminatively materialist. There are no possibilities in possible
+worlds, even the equally deterministic “many worlds” of physics.
+  A necessicist metaphysics is only a half-truth. Without meta-
+physical possibility, we cannot account for the information in the
+universe today, nor can we explain the cosmic, biological, and
+human creation of new information in our free and open future.
+  Necessitism and possibilism are another variation of the great
+duals of idealism and materialism.15 See possibilist.com.
+  History of Metaphysics
+   Metaphysics has signified many things in the history of phi-
+losophy, but it has not strayed far from a literal reading of “beyond
+
+  15    See the table of dualisms in chapter 9.
+            50       Great Problems of Philosophy and Physics - Solved?
+
+                 the physical.” The term was invented by the first-century BCE
+                 head of Aristotle’s Peripatetic school, Andronicus of Rhodes,
+                 who edited and arranged Aristotle’s works, giving the name Meta-
+Chapter 2
+
+
+
+
+                 physics (τα μετα τα φυσικα βιβλια), literally “the books beyond
+                 the physics,” perhaps the books to be read after reading Aristotle’s
+                 books on nature, which he called the Physics.
+                     Aristotle never used the term metaphysics. For Plato, Aristo-
+                 tle’s master, the realm of abstract ideas was more “real” than that
+                 of physical objects, because ideas could be more permanent (the
+                 Being of Parmenides), whereas material objects are constantly
+                 changing (the Becoming of Heraclitus). Neoplatonists like
+                 Porphyry worried about the existential status of the Platonic
+                 ideas. Does Being exist? What does it mean to say “Being Is”?
+                   Aristotle’s original concerns in his “First Philosophy” were
+                 ontology (the science of being), cosmology (the fundamental pro-
+                 cesses and original causes of physical things), and theology (is a
+                 god required as a "first mover" or “first cause?”).
+                    Aristotle’s Physics describes four “causes” or “explanations”
+                 (aitia) of change and movement of objects already existing in
+                 the universe (the ideal formal and final causes, vs. the efficient
+                 and material causes). Aristotle’s metaphysics can then be seen as
+                 explanations for existence itself. What exists? What is it to be?
+                 What processes can bring things into (or out of) existence? Is
+                 there a cause or explanation for the universe as a whole?
+                    In critical philosophical discourse, metaphysics has perhaps
+                 been tarnished by its Latinate translation as “supernatural,” with
+                 its strong theological implications. But from the beginning, Aris-
+                 totle’s books on “First Philosophy” considered God among the
+                 possible causes of the fundamental things in the universe. Tracing
+                 the regress of causes back in time as an infinite chain, Aristotle
+                 postulated a first cause or “uncaused cause.” Where every motion
+                 needs a prior mover to explain it, he postulated an “unmoved first
+                 mover.” These postulates became a major element of theology
+                 down to modern times.
+                                                       Metaphysics          51
+
+
+   Metaphysics is the division of philosophy which includes ontol-
+ogy, or the science of being, and cosmology, or the science of the
+fundamental causes and processes of things. The primary mean-
+
+
+
+
+                                                                                 Chapter 2
+ing of metaphysics is derived from those discussions by Aristotle
+which later commentators suggested should be read before Aris-
+totle's great works on Physics and other subjects.
+   For medieval philosophers, metaphysics was understood as the
+science of the supersensible. Albertus Magnus called it sci-
+ence beyond the physical. Thomas Aquinas narrowed it to the
+cognition of God. Aquinas argued that 1) God had given man the
+power of reason, 2) God had used reason to create the universe, so
+that 3) man can use reason alone to understand the world.
+  John Duns Scotus disagreed with Aquinas, arguing that God’s
+omnipotence is not constrained by reason. God has freedom of
+the will, so only study of the world as it has been created can yield
+knowledge of the world and thus God. Scotus was arguably the
+origin of British empiricism, just as Aquinas was the source of
+Continental rationalism.
+   René Descartes began a turn from what exists to knowledge
+of what exists. He changed the emphasis from a study of being to a
+study of the conditions of knowledge or epistemology. For empir-
+icists in England like John Locke and David Hume, metaphysics
+includes the “primary” things beyond psychology and “second-
+ary” sensory experiences. They denied that any knowledge was
+possible apart from experimental and mathematical reasoning.
+Hume thought metaphysics is sophistry and illusion.
+   If we take in our hand any volume; of divinity or school metaphysics,
+   for instance; let us ask, Does it contain any abstract reasoning con-
+   cerning quantity or number? No. Does it contain any experimental
+   reasoning concerning matter of fact and existence? No. Commit it
+   then to the flames: for it can contain nothing but sophistry and illu-
+   sion.16
+
+  16   (Enquiry Concerning Human Understanding, section XII)
+            52       Great Problems of Philosophy and Physics - Solved?
+
+                   In Germany, Immanuel Kant’s Critiques of Reason claimed
+                 a transcendental and noumenal realm for pure, or a priori, reason
+                 beyond the merely phenomenal. The phenomenal realm is deter-
+Chapter 2
+
+
+
+
+                 ministic, matter governed by Newton’s laws of motion. The nou-
+                 menal is the metaphysical realm of the “things themselves” along
+                 with freedom, God, and immortality. Kant also identified ontol-
+                 ogy not with the inaccessible things themselves but what we can
+                 think - and reason - about the things themselves. In either case, he
+                 thought metaphysical knowledge might be impossible for “finite”
+                 minds.
+                    The notion that metaphysics transcends experience and the
+                 material world led to nineteenth-century positivists like August
+                 Comte and Ernst Mach, and twentieth-century empiricists
+                 like Rudolf Carnap and Moritz Schlick, also denying the
+                 possibility of metaphysical knowledge.
+                    Naturalism is the anti-metaphysical claim that there is nothing
+                 in the world beyond the material (including energy), that every-
+                 thing follows “laws of nature,” and that these laws are both causal
+                 and deterministic. So “supernatural” appears to imply the free-
+                 dom to break the laws of nature. Information philosophy denies
+                 the supernatural. But it defends immaterial information as that
+                 which constitutes the human spirit, or soul, the “ghost in the
+                 machine.” And it defends ontological chance as the generator of
+                 novel possibilities that are not determined by the “fixed past.”
+                    Positivism is the claim that the only valid source of knowledge
+                 is sensory experience, reinforced by logic and mathematics.
+                 Together these provide the empirical evidence for science. Com-
+                 tean positivism rejected metaphysics and theology as obsolete
+                 earlier phases in the development of knowledge.
+                    Mach’s positivism claimed that science consists entirely of
+                 “economic summaries” of the facts (the results of experiments).
+                 He rejected theories about unobservable things like Ludwig
+                 Boltzmann’s atoms, just a few years before Albert Einstein
+                 used Boltzmann’s work to prove that atoms exist.
+                                               Metaphysics           53
+
+  The logical positivism of Bertrand Russell and Ludwig
+Wittgenstein claims that all valid knowledge is scientific
+knowledge, though science is often criticized for “reducing” all
+
+
+
+
+                                                                          Chapter 2
+phenomena to physical or chemical events. The logical positivists
+may have identified ontology not with the things themselves but
+what we can say - using concepts and language - about the things
+themselves. Logical positivists and the logical empiricists of the
+Vienna Circle asserted that all knowledge is scientific knowledge,
+that it is derived from experience, i.e., from verifiable observa-
+tions. They added the logical analysis of language as a tool for
+solving philosophical problems. They divided statements into
+those reducible to simpler statements about experience and those
+with no empirical basis, which they called “metaphysical” and
+“meaningless.”
+   Most analytic language philosophers of the mid-twentieth
+century continued to deny traditional metaphysics, which P. F.
+Strawson famously called “obscure and panicky.” But starting
+in the 1970’s a new group of analytic-language metaphysicians
+defended a new materialist and determinist metaphysics grounded
+in modal thinking about possible worlds.
+  See metaphysicist.com for discussions of the work of David
+Armstrong, Michael Burke, David Chalmers, Rod Chisholm,
+Peter Geach, David Lewis, E. Jonathan Lowe, Trenton Merricks,
+Huw Price, Willard van Orman Quine, Michael Rea, Nicholas
+Rescher, Alan Sidelle, Ted Sider, Richard Taylor, Peter Unger,
+Peter van Inwagen, David Wiggins, and Timothy Williamson.
+

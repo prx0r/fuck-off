@@ -1,0 +1,287 @@
+# 84   My God, He Plays Dice!
+
+**source:** pdf · **section:** books
+**file:** Irreversibility
+---
+
+Chapter 12
+
+                                 i b i l i t y
+                           e r s
+                      Irrev
+
+                                                         This chapter on the web
+                                informationphilosopher.com/problems/reversibility
+                                                Irreversibility      85
+
+Microscopic Irreversibility
+   In the 1870’s, Ludwig Boltzmann developed his transport
+equation and his dynamical H-theorem to show exactly how gases
+with large numbers of particles have macroscopic irreversibility.
+   We see this fact every day when things mix but never unmix.
+Imagine putting 50 white and 50 black balls into a box and shaking
+them, now pour out 50 each into two smaller boxes and consider
+
+                                                                      Chapter 12
+the possibility that one contains all black, the other all white.
+   In 1876, Josef Loschmidt criticized his younger colleague
+Boltzmann’s attempt to derive from classical dynamics the increas-
+ing entropy required by the second law of thermodynamics. Los-
+chmidt's criticism was based on the simple idea that the laws of
+classical dynamics are time reversible. Consequently, if we just
+turn the time around, the time evolution of the system should lead
+to decreasing entropy.
+   But we cannot turn time around. This is the intimate connection
+between time and the increasing entropy of the second law of
+thermodynamics that Arthur Stanley Eddington later called
+the Arrow of Time.1
+   We saw in chapter 4 that Max Planck hoped for many years to
+show that the second law of thermodynamics and its irreversible
+increase in entropy are universal and absolute laws. Planck hoped
+some irreversibility might emerge from a study of the interaction
+of matter and radiation. We now know his intuition was correct
+about that interaction, but wrong about the absolute nature of the
+second law. Irreversibility is a statistical phenomenon.
+   Microscopic time reversibility remains one of the foundational
+assumptions of classical mechanics. This is because the classical
+differential equations (Newton’s laws) that describe the motion
+are time reversible. So are Maxwell’s laws of electromagnetism.
+   Our first problem in the preface, known since the nineteenth
+century, is how can we reconcile macroscopic irreversibility
+with microscopic reversibility? The short answer is quantum
+mechanics. The laws of classical mechanics are adequate only for
+statistical averages over a large number of quantum particles.
+
+  1    See Doyle, 2016a, chapter 23.
+         86     My God, He Plays Dice!
+
+                 A careful quantum analysis shows that microscopic reversibility
+              fails in the case of two particles in collision - provided the quantum
+              mechanical interaction with radiation is taken into account.
+              Planck was looking in the right place.
+                 As we saw in the last chapter, Einstein found that when a light
+              quantum is emitted (or absorbed) there is a transfer of momentum
+              hν/c to the particle. Since the direction of emission is random, the
+              gas particle suffers a random and irreversible change in direction,
+Chapter 12
+
+              because the outgoing radiation is irreversible. Einstein’s discovery
+              of ontological chance, despite the fact that he did not like it, is the
+              basis for understanding microscopic irreversibility.
+                 Some scientists still believe that microscopic time reversibility
+              is true because the deterministic linear Schrödinger equa-
+              tion itself is time reversible. But the Schrödinger equation only
+              describes the deterministic time evolution of the probabilities of
+              various quantum events. It does not determine individual events.
+              As Einstein knew, quantum mechanics is statistical. Max Born
+              put this distinction concisely
+                    The motion of the particle follows the laws of probability, but
+                    the probability itself propagates in accord with causal laws. 2
+                  When a quantum event occurs, if there is a record of the event
+              (if new information enters the universe), the previous probabilities
+              of multiple possible events collapse to the occurrence of just one
+              actual event. This is the collapse of the wave function that John
+              von Neumann called process 1.3
+                  An irreversible event that leaves a record (stable new
+              information) may become a measurement, if and when the new
+              information is observed. Measurements are fundamentally and
+              irreducibly irreversible, as many quantum physicists believed.
+                  When particles collide, even structureless particles should
+              not be treated as individual particles with single-particle wave
+              functions, but as a single system with a two- or multiple-particle
+              wave function, because particles are now entangled.4
+                  Treating two atoms in collision as a temporary molecule means
+              we must use molecular, rather than atomic, wave functions. The
+                2       “Quantum mechanics of collision processes,” Zeit. Phys., 38, 804 (1927)
+                3       See chapter 23.
+                4       See chapter 27.
+                                                  Irreversibility       87
+
+quantum description of the molecule now transforms the six
+independent degrees of freedom for two atoms into three for the
+molecule's center of mass and three more that describe vibrational
+and rotational quantum states.
+   The possibility of quantum transitions between closely spaced
+vibrational and rotational energy levels in the "quasi-molecule'
+introduces indeterminacy in the future paths of the separate atoms.
+The classical path information needed to ensure the deterministic
+
+                                                                         Chapter 12
+dynamical behavior has been partially erased. The memory of the
+past needed to predict the future has been lost.
+   Quantum transitions, especially the random emission of
+radiation. erases information about the particle’s past motions.
+   Even assuming the practical impossibility of a perfect classical
+time reversal, in which we simply turn the two particles around,
+quantum physics requires two measurements to locate the two
+particles, followed by two state preparations to send them in the
+opposite direction.
+   Heisenberg indeterminacy puts calculable limits on the
+accuracy with which perfect reversed paths could be achieved.
+   Let us assume this impossible task can be completed, and it
+sends the two particles into the reverse collision paths. But on
+the return path, there is still only a finite probability that a "sum
+over histories" calculation will produce the same (or reversed)
+quantum transitions between vibrational and rotational states that
+occurred in the first collision. Reversibility is not impossible, but
+extremely improbable,
+   Thus a quantum description of a two-particle collision
+establishes the microscopic irreversibility that Boltzmann
+sometimes described as his assumption of "molecular disorder."
+In his second (1877) statistical derivation of the H-theorem,
+Boltzmann used a statistical approach and the molecular disorder
+assumption to get away from the time-reversibility assumptions of
+classical dynamics.
+The Origin of Microscopic Irreversibility
+   The path information required for microscopic reversibility
+of particle paths is destroyed or erased by local interactions with
+radiation and other particles in the environment. This is the origin
+of microscopic irreversibility.
+         88       My God, He Plays Dice!
+
+                 Photon emission and absorption during molecular collisions
+              is shown to destroy nonlocal molecular correlations, justify-
+              ing Boltzmann’s assumption of “molecular chaos” (molekular
+              ungeordnete) as well as Maxwell’s earlier assumption that molecular
+              velocities are not correlated. These molecular correlations were
+              retained in Willard Gibbs’ formulation of entropy. But the
+              microscopic information implicit in classical particle paths (which
+              would be needed to implement Loschmidt’s deterministic motion
+Chapter 12
+
+              reversal) is actually erased. Boltzmann’s physical insight was correct
+              that his increased entropy is irreversible, not just macroscopically
+              but microscopically.
+                 It has been argued that photon interactions can be ignored because
+              radiation is isotropic and thus there is no net momentum transfer
+              to the particles. The radiation distribution, like the distribution of
+              particles, is indeed statistically isotropic, but, as Einstein showed
+              in 1916, each discrete quantum of angular momentum exchanged
+              during individual photon collisions alters the classical paths
+              sufficiently to destroy molecular velocity correlations.
+                 Reversibility is closely related to the maintenance of path
+              information forward in time that is required to assert that physics
+              is deterministic. Indeterministic interactions between matter and
+              radiation erase that information. The elementary process of the
+              emission of radiation is not time reversible, as first noted by Einstein
+              in 1909. He argued that the elementary process of light radiation
+              does not have reversibility (“Umkehrbarkeit”). The reverse process
+              (“umgekehrte Prozess”) does not exist as an elementary process.
+                 Macroscopic physics is only statistically determined. Macroscopic
+              processes are adequately determined when the mass m of an object
+              is large compared to the Planck quantum of action h (when there
+              are large numbers of quantum particles).
+                 But the information-destroying elementary processes of emission
+              and absorption of radiation ensure that macroscopic processes are
+              not individually reversible.
+                                                   Irreversibility         89
+
+   When interactions with a thermal radiation field and
+rearrangement collisions are taken into account, a quantum-
+mechanical treatment of collisions between material particles shows
+that a hypothetical reversal of all the velocities following a collision
+would only extremely rarely follow the original path backwards.
+   A rearrangement collision is one in which the internal energy of
+one or both of the colliding particles changes because of a quantum
+jump between its internal energy levels. These internal energy levels
+
+                                                                            Chapter 12
+and jumps between them were first seen by Einstein in his 1907
+work on specific heats (chapter 8).
+   Although the deterministic Schrödinger equation of motion
+for an isolated two-particle material system is time reversible
+(for conservative systems), the quantum mechanics of radiation
+interactions during collisions does not preserve particle path
+information, as does classical dynamics. Particle interactions with
+photons in the thermal radiation field and rearrangement collisions
+that change the internal states of the colliding particles are shown
+to be microscopically irreversible for all practical purposes. These
+quantum processes are involved in the irreversible “measurements”
+that von Neumann showed increase the entropy.
+         90         My God, He Plays Dice!
+
+                 Consider a collision between two atoms that results in the
+              emission of a photon.
+                 At some time t after the collision, let’s assume we can reverse the
+              separating atoms, sending them back toward the reverse collision. If
+              there had been no photon emission, the most likely path is an exact
+              traversal of the original path back before the collision.
+                 But since a photon was emitted, traversing the original path
+              requires us to calculate the probability that at precisely the moment
+Chapter 12
+
+              of a reversed collision a photon of exactly the same frequency is
+              absorbed by the quasi-molecule, corresponding to a quantum jump
+              back to the original rotational-vibrational state, with the photon
+              absorption direction exactly opposite to the original emission,
+              allowing the colliding atoms to reverse their original paths. While
+              this is not impossible, it is extraordinarily improbable.
+                 The uncertainty principle would prevent an experimenter from
+              preparing the two material particles with the precise positions and
+              reverse momenta needed to follow the exact return paths to the
+              collision point. Moreover, the Schrödinger equation of motion for
+              the two particles would only provide a probability that the particles
+              would again collide.
+                 As to the photon, let us assume with Einstein that a light quantum
+              is “directed” and so could be somehow aimed perfectly at the
+              collision point. Even so, there is only a probability, not a certainty,
+              that the photon would be absorbed.
+                 We conclude that collisions of particles that involve radiation are
+              not microscopically reversible.
+              Detailed Balancing
+                 It is mistakenly believed that the detailed balancing of forward
+              and reverse chemical reactions in thermal equilibrium, including
+              the Onsager reciprocal relations, for example, depend somehow on
+              the principle of microscopic reversibility.
+                 Einstein’s work is sometimes cited as proof of detailed balancing
+              and microscopic reversibility. The Wikipedia article is an example. 5
+              In fact, Einstein started with Boltzmann’s assumption of detailed
+              balancing, along with the assumption that the probability of states
+              with energy E is reduced by the exponential “Boltzmann factor,”
+              f(E) ~ e-E/kT, to derive the transition probabilities for emission and
+                5     https://en.wikipedia.org/wiki/detailed_balance
+                                                           Irreversibility             91
+
+absorption of radiation. Einstein then derived Planck’s radiation law
+and Bohr’s “quantum postulate” that Em - En = hν. But Einstein denied
+symmetry in the elementary processes of emission and absorption.
+   As early as 1909, he noted that the elementary process is not
+“invertible.” There are outgoing spherical waves of radiation, but
+incoming spherical waves are never seen.
+    “In the kinetic theory of molecules, for every process in which
+    only a few elementary particles participate (e.g., molecular
+
+                                                                                        Chapter 12
+    collisions), the inverse process also exists. But that is not the
+    case for the elementary processes of radiation. According to our
+    prevailing theory, an oscillating ion generates a spherical wave
+    that propagates outwards. The inverse process does not exist as an
+    elementary process. A converging spherical wave is mathemati-
+    cally possible, to be sure; but to approach its realization requires
+    a vast number of emitting entities. The elementary process of
+    emission is not invertible.” 6
+   The elementary process of the emission and absorption of
+radiation is asymmetric, because the process is “directed.” The
+apparent isotropy of the emission of radiation, when averaged over
+a large number of light quanta, is only what Einstein called “pseudo-
+isotropy” (Pseudoisotropie), a consequence of time averages over
+large numbers of events. Einstein often substituted time averages
+for space averages, or averages over the possible states of a system in
+statistical mechanics.
+   Detailed balancing is thus a consequence of averaging over
+extremely large numbers of particles in equilibrium. This is the same
+limit that produces the so-called “quantum-to-classical” transition.
+And it is the same condition that gives us the “adequate” statistical
+determinism in the macroscopic, everyday world.
+   Neither detailed balancing nor the adequate determinism that we
+see in classical Newtonian experiments does anything to deny that,
+at the microscopic quantum level, events are completely statistical,
+involving ontological chance. The interaction of radiation with
+matter has “a ‘chance’-dependent value and a ‘chance’-dependent
+sign” (emission or absorption), said Einstein in 1917.7
+   Reversibility is remotely possible, but extraordinarily improbable.
+
+  6       “On the Development of Our Views Concerning the Nature and Constitution of
+Radiation,” 1909, CPAE, vol.2, p.387
+  7       “On the Quantum Theory of Radiation,” CPAE, vol.6, p.213
+

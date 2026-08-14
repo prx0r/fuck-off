@@ -1,0 +1,255 @@
+# 2   My God, He Plays Dice!
+
+**source:** pdf · **section:** books
+**file:** Introduction
+---
+
+Chapter 1
+
+                              c t i o n
+                  Int    rodu
+                                                                Introduction              3
+
+Introduction
+
+                                                                                          Chapter 1
+   This book is the story of how Albert Einstein analyzed what
+goes on when light interacts with matter and how he discovered
+ontological chance in the process. We can show that Einstein’s
+chance explains the metaphysical possibilities underlying the
+creation of all of the information structures in the universe.
+   But the story begins with a deck of cards, a pair of dice, and the
+multiple flips of a coin.
+    Around 1700, Abraham de Moivre, a French Huguenot,
+emigrated to England to escape religious persecution. A brilliant
+mathematician, he worked with Isaac Newton and other great
+English scientists, but he could never get an academic post, despite
+their excellent recommendations. To support himself, de Moivre
+wrote a handbook for gamblers called The Doctrine of Chances.
+   This was not the first book that calculated the odds for different
+hands of cards or rolls of the dice. But when de Moivre considered
+the flipping of a fair coin (with 50-50 odds of coming up heads and
+tails) he showed that as the number of flips gets large, the discrete
+binomial distribution of outcomes approaches a continuous curve
+we call the Gaussian distribution (after the great mathematician
+Carl Friedrich Gauss), the “normal” distribution, or just the
+“bell curve,” from its familiar shape.
+
+   Figure 1-1. De Moivre’s discovery of the continuous bell curve as a limit to a large
+number of discrete, discontinuous events. Each discrete event is the probability of
+m heads and n-m tails in n coin tosses. The height is the coefficient in the binomial
+expansion of (p + q)n where p = q = ½.
+        4       My God, He Plays Dice!
+
+              In mathematics, we can say that a finite number of discrete points
+            approaches a continuum as we let the number approach infinity.
+Chapter 1
+
+            This is the “law of large numbers” and the “central limit theorem.”
+               But in physics, the continuous appearance of material things is
+            only because the discrete atoms that make it up are too small to see.
+            The analytic perfection of the Gaussian curve cannot be realized by
+            any finite number of events.
+
+              Figure 1-2. The appearance of a continuous curve and actual finite events.
+
+            Is the Nature of Reality Continuous or Discrete?
+               Is it possible that the physical world is made up of nothing but
+            discrete discontinuous particles? Are continuous fields with well-
+            defined values for matter and energy at all places and times simply
+            theoretical constructs, averages over large numbers of particles?
+               Space and time themselves have well-defined values everywhere,
+            but are these just the abstract information of the ideal coordinate
+            system that allows us to keep track of the positions and motions of
+            particles? Space and time are physical, but they are not material.
+               We use material things, rulers and clocks, to measure space and
+            time. We use the abstract mathematics of real numbers and assume
+            there are an infinite number of real points on any line segment and
+            an infinite number of moments in any time interval. But are these
+            continuous functions of space and time nothing but immaterial
+            ideas with no material substance?
+               The two great physical theories at the end of the nineteenth
+            century, Isaac Newton’s classical mechanics and James Clerk
+            Maxwell’s electrodynamics, are continuous field theories.
+               Solutions of their field equations determine precisely the exact
+            forces on any material particle, providing complete information
+                                                            Introduction      5
+
+about their past and future motions and positions. Field theories
+are generally regarded as deterministic and certain.
+
+                                                                              Chapter 1
+   Although the dynamical laws are “free inventions of the human
+mind,” as Einstein always said, 1 and although they ultimately
+depend on experimental evidence, which is always statistical, the
+field theories have been considered superior to merely statistical
+laws. Dynamical laws are thought to be absolute, based on principles.
+   We will find that the continuous, deterministic, and analytical
+laws of classical dynamics and electromagnetism, expressible as
+differential equations, are idealizations that “go beyond experience.”
+   These continuous laws are to the discontinuous and discrete
+particles of matter and electricity (whose motions they describe
+perfectly) as the analytical normal distribution above is to the finite
+numbers of heads and tails. A continuum is approached in the limit
+of large numbers of particles, when the random fluctuations of
+individual events can be averaged over.
+   Experiments that support physical laws are always finite in
+number. Experimental evidence is always statistical. It always
+contains errors distributed randomly around the most probable
+result. And the distribution of those errors is often normal.
+
+  Figure 1-3. Random errors are normally distributed around the mean value.
+
+  1     EInstein, 1934, p.234
+        6       My God, He Plays Dice!
+
+            The Absolute Principles of Physics
+               There are of course absolute principles in physics, such as the
+Chapter 1
+
+            conservation laws for mass/energy, momentum, angular momentum,
+            and electron spin. The constant velocity of light is another.
+               The great mathematician Emmy Noether proposed a theorem
+            that conservation principles are the consequence of deep symmetry
+            principles of nature. She said for any property of a physical system
+            that is symmetric, there is a corresponding conservation law.
+               Noether’s theorem allows physicists to gain insights into any
+            general theory in physics, by analyzing the various transformations
+            that would make the form of the laws involved invariant.
+               For example, if a physical system is symmetric under rotations,
+            its angular momentum is conserved. If it is symmetric in space, its
+            momentum is conserved. If it is symmetric in time, its energy is
+            conserved. Now locally there is time symmetry, but cosmically the
+            expansion of the universe gives us an arrow of time connected to the
+            increase of entropy and the second law of thermodynamics.
+               The conservation of energy was the first law of thermodynamics.
+               The famous second law says entropy rises to a maximum at thermal
+            equilibrium. It was thought by most scientists to be an absolute law,
+            but we shall see in chapter 3 that Maxwell and Ludwig Boltzmann
+            considered it a statistical law. Boltzmann thought it possible that
+            a system that had reached equilibrium might spontaneously back
+            away, if only temporarily, from the maximum. Assuming that the
+            universe had an infinite time to reach equilibrium, he thought it
+            might be that the non-equilibrium state we find ourselves in might
+            be a giant fluctuation. Given his assumption of infinite time, even
+            such an extremely improbable situation is at least possible.
+               In his early work on statistical mechanics, Einstein showed that
+            small fluctuations in the motions of gas particles are constantly leading
+            to departures from equilibrium. Somewhat like the departures from
+            the smooth analytic bell curve for any finite number of events, the
+            entropy does not rise smoothly to a maximum and then stay there
+            indefinitely. The second law is not continuous and absolute.
+                                                   Introduction           7
+
+ The second law of thermodynamics is unique among the laws
+of physics because of its irreversible behavior. Heat flows from
+
+                                                                          Chapter 1
+hot into cold places until they come to the same equilibrium
+temperature. The one-direction nature of macroscopic
+thermodynamics (with its gross “phenomenological” variables
+temperature, energy, entropy) is in fundamental conflict with the
+assumption that microscopic collisions between molecules, whether
+fast-moving or slow, are governed by dynamical, deterministic laws
+that are time-reversible. But is this correct?
+   The microscopic second law suggests the “arrow of time” does
+not apply to the time-reversible dynamical laws. At the atomic and
+molecular level, there appears to be no arrow of time, but we will see
+that Einstein’s work shows particle collisions are not reversible
+   The first statistical “laws” grew out of examples in which there are
+very large numbers of entities. Large numbers make it impractical
+to know much about the individuals, but we can say a lot about
+averages and the probable distribution of values around the averages.
+Probability, Entropy, and Information
+   Many scientists and philosophers of science say that the concept
+of entropy is confusing and difficult to understand, let alone
+explain. Nevertheless, with the help of our diagrams demonstrating
+probability as the number of ways things have happened or been
+arranged, divided by the total number of ways they might have
+happened or been arranged, we can offer a brief and visual picture
+of entropy and its important connection to information.
+   We begin with Ludwig Boltzmann’s definition of the entropy
+S in terms of the number of ways W that gas particles can be
+distributed among the cells of “phase space,” the product of ordinary
+coordinate space and a momentum space.
+  S = k log W
+  Let’s greatly simplify our space by imagining just two cubicle
+bins separated by a movable piston. Classical thermodynamics was
+developed studying steam engines with such pistons.
+  Now let’s imagine that a thousand molecules are dropped
+randomly into the two bins. In this very artificial case, imag-
+ine that they all land up on the left side of the piston. Assuming
+        8       My God, He Plays Dice!
+
+            the probabilities of falling into the left or right bin are equal, this
+            is again the binomial expansion with (p + q)1000 with p = q = ½.
+Chapter 1
+
+            All molecules on the left would have probability (1/2)1000. This is of
+            course absurdly improbable if each events were random, but steam
+            engines do this all the time, and calculating the improbability gives
+            us a measure of the machine’s available energy.
+              Figure 1-4. An ideal piston with gas on the left and a perfect vacuum on the right.
+              To see how this very improbable situation corresponds to very low
+            entropy, how low entropy corresponds to maximum information,
+
+            and how low entropy means energy available to do work, let’s con-
+            sider the number of yes/no questions needed to figure out the chess-
+            board square where a single pawn is located.
+
+               1) Is it in the top half? No.
+                 Of the remaining half,
+               2) is it in the left half? No.
+                 Of the remaining half,
+               3) Is it in the right half? No.
+                 Of the remaining half,
+               4) Is it in the top half? Yes.
+                 Of the remaining half,
+               5) Is it in the left half? Yes.
+                 Of the remaining half,
+               6) Is it in the top half? Yes.
+
+               In Claude Shannon’s 1948 theory of the communication of
+            information, the answer to a yes/no question communicates one bit
+            (a binary digit can be 1 or 0) of information. So, as we see, it takes
+                                                                    Introduction   9
+
+6 bits of information to communicate the particular location of the
+pawn on one of the 64 possible squares on the chessboard.
+
+                                                                                   Chapter 1
+   Shannon and his mentor, the great mathematical physicist John
+von Neumann, noticed that the information I is the logarithm of
+the number of possible ways W to position the pawn. Two raised to
+the 6th power is 64 and the base 2 logarithm of 64 is 6. Thus
+  I = log2 W and 6 = log2 64
+   The parallel with Boltzmann’s entropy formula is obvious. His
+formula needs a constant with the physical dimensions of energy
+divided by temperature (ergs/degree). But Shannon’s information
+has no physical content and does not need Boltzmann’s constant k.
+Information is just a dimensionless number.
+   For Shannon, entropy is the number of messages that can be
+sent through a communications channel in the presence of noise.
+For Boltzmann, entropy was proportional to the number of ways
+individual gas particles can be distributed between cells in phase
+space, assuming that all cells are equally probable.
+   So let’s see the similarity in the case of our piston. How many
+ways can all the 1000 gas particles be found randomly on the left side
+of the piston, compared to all the other ways, for example only 999
+on the left, 1 on the right, 998 on the left, 2 on the right, etc.
+   Out of 21000 ways of distributing them between two bins, there
+is only one way all the particles can be on the left.  2 The logarithm
+of 1 is zero (20 = 1). This is the minimum possible entropy and the
+maximum of available energy to do work pushing on the piston.
+   Boltzmann calculated the likelihood of random collisions
+resulting in the unmixing of gases, so that noticeably fewer are in
+                                                                 10
+the left half of a 1/10 liter container, as of the order of 1010 years. 3
+Our universe is only of the order of 1010 years old.
+   It seems most unlikely that such chance can lead to the many
+interesting information structures in the universe. But chance will
+play a major role in Einstein’s description of what he called “objective
+reality,” as we shall see.
+  2     1000! (factorial) is 1000 x 999 x 998 ... x 2 x 1. (really big)
+  3     Boltzmann, 2011, p.444
+

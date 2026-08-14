@@ -1,0 +1,1257 @@
+# Found Phys
+
+**source:** pdf · **section:** presentations
+**file:** Pauri-Quantum-Evolution
+---
+
+DOI 10.1007/s10701-011-9581-0
+
+Epistemic Primacy vs. Ontological Elusiveness
+of Spatial Extension: Is There an Evolutionary Role
+for the Quantum?
+
+Massimo Pauri
+
+Received: 1 April 2011 / Accepted: 25 June 2011
+© Springer Science+Business Media, LLC 2011
+
+Abstract A critical re-examination of the history of the concepts of space (includ-
+ing spacetime of general relativity and relativistic quantum field theory) reveals a
+basic ontological elusiveness of spatial extension, while, at the same time, highlight-
+ing the fact that its epistemic primacy seems to be unavoidably imposed on us (as
+stated by A.Einstein “giving up the extensional continuum . . . is like to breathe in
+airless space”). On the other hand, Planck’s discovery of the atomization of action
+leads to the fundamental recognition of an ontology of non-spatial, abstract enti-
+ties (Quine) for the quantum level of reality (QT), as distinguished from the nec-
+essarily spatio-temporal, experimental revelations (measurements). The elementary
+quantum act (measured by Planck’s constant) has neither duration nor extension,
+and any genuinely quantum process literally does not belong in the Raum and time
+of our experience. As Heisenberg stresses: “Während also die klassische Physik ein
+objectives Geschehen in Raum and Zeit zum Gegenstand hat, für dessen Existenz
+seine Beobachtung völlig irrelevant war, behandelt die Quantentheorie Vorgänge, die
+sozusagen nur in den Momenten der Beobachtung als raumzeitliche Phänomene auf-
+leuchten, und über die in der zwischenzeit anschaulische physikalische Aussagen sin-
+loss sind”. An admittedly speculative, hazardous conjecture is then advanced con-
+cerning the relation of such quantum ontology with the role of the pre-phenomenal
+continuum (Husserl) in the perception of macroscopically distinguishable objects in
+the Raum and time of our experience. Although rather venturesome, it brings together
+important philosophical issues. Coherently with recent general results in works on the
+foundations of QT, it is assumed that the linearity of quantum dynamical evolution
+does not apply to the central nervous system of living beings at a certain level of the
+evolutionary ramification and at the pre-conscious stage of subjectivity. Accordingly,
+
+In the Honor of Evandro Agazzi, most affectionately, as ever, and with gratefulness to the Referee for
+his insightful remarks and additional bibliographic information.
+M. Pauri ()
+Physics Department, University of Parma, Parma, Italy
+e-mail: massimo.pauri@unipr.it
+                                                                                           Found Phys
+
+corresponding to the onset of a non-linear dynamic evolution, a ‘primary spatial’ re-
+duction is ‘continually’ taking place, thereby constituting the neural precondition for
+the experience of distinguishable macroscopic objects in the continuous spatial exten-
+sion. While preventing the theoretically possible quantum superpositions of macro-
+scopic objects from being perceivable by living beings, the ‘primary reduction’ has no
+effect on the standard processes concerning quantum level entities involved in labora-
+tory man-made experiments. In this connection, an experimental check which might
+falsify the conjecture is briefly discussed. The approach suggested here, if sound,
+leads to a naturalization of that part of Kant’s Transcendental Aesthetics than can
+survive the Euclidean catastrophe. According to such naturalized transcendental-
+ism, “space can well be transcendental without the axioms being so”, in agreement
+with a well-known statement by Boltzman. Finally, as far as QT is concerned, the
+conjecture entails that a scheme for quantum measurement of the von Neumann type
+cannot even ‘leave the ground’, vindicating Bohr’s viewpoint. A quantum theory of
+measurement, in a proper sense, turns out to be unnecessary and in fact impossible.
+
+Keywords Spatial extension · Perception of macroscopic objects in space ·
+Quantum ontology · Superposition principle · Macro-objectification · Violation of
+linearity of quantum evolution · Naturalized transcendentalism
+
+Personne n’est exempt de dire de fadaises
+Le malheur est de le dire courieusement.
+Michel de Montaigne1
+
+1 Introduction
+
+The core view inspiring the present paper is the recognition that the discovery of
+the quantum of action and the atomization of processes by Planck is the deepest and
+most far-reaching acquisition in the whole history of knowledge. Nevertheless, the
+radical ontological ‘diminution’ implied by the atomization of action for the concept
+of object, as a perceived entity within the extensional Raum of our experience, has
+not explicitly affected yet our notions of space and time. On the other hand, we have
+historical evidence of a significant correlation between the ontological notions of
+space and time, on the one hand, and those of objects and processes, on the other.
+   In the present paper I intend to analyze from various perspectives the nature of
+this missing correlation on the basis of both a critical re-examination of the histori-
+cal concept of space and a re-analysis of the main open problems in quantum theory
+(QT). Admittedly, the paper does not belong to the main stream of contemporary phi-
+losophy of science. In some places, I shall present viewpoints that deviate sensibly
+
+1 Essays, Troisième Livre, chapitre 1. Note that in 16th century French the word ‘courieusement’ had
+the same meaning as the contemporary word ‘pretentieusement’. Yet, the first English translation of the
+Essays, by Charles Cotton Esq, can be found in the E.H.W. Meyerstein Collection of the English Faculty
+Library, Oxford, 1711. The quoted passage sounds like “No Man is free from speaking foolish things: but
+the worst on’t is when a Man studies to play the Fool”.
+Found Phys
+
+from what could be considered accepted wisdom in present literature, at least outside
+the so-called ‘continental’ camp. In particular, the final sections contain a main ven-
+turesome conjecture about the role of quantum theory concerning our macroscopic
+experience of spatial objects. On the other hand, given the lasting situation of QT,
+especially concerning the so-called measurement problem or macro-objectification
+issue, it seems that one either has to admit to total ignorance or is authorized to en-
+gage in some speculation. I do believe that any suggestion about such problems which
+is not absolutely crazy or evidently contradictory, and brings together some important
+correlated issues should be made explicit. Thus, I acknowledge from the beginning
+that my presentation contains a good deal of provocative speculation and that my
+main proposal can be defended by plausible arguments only. I would consequently
+like to define this paper as a (risky) adventure in empirical metaphysics, where the
+oxymoron is justified by the fact that, although not positively supported by any direct
+empirical evidence, my conjecture will however be shown to admit falsifiability in a
+definite and concrete sense by experimental check, a test which is becoming techno-
+logically feasible in quantum optics. Finally, I must apologize for the fact that due to
+the variety and complexity of the subject matter, the presentation of the paper may
+appear to be rather sketchy.
+    In conclusion, the reader is invited to take my present proposal in the spirit of
+Montaigne’s statement quoted in the epigraph.
+
+2 Space
+
+2.1 A Brief Account of the Classical Debate and Its Current Relevance2
+
+I assume that the reader is well aware of the historical main distinctions between the
+so-called absolutist or, better, substantivalist, and the relational view of space, the
+former being roughly identified with Newton’s position and the latter with Leibniz’s
+position. A simplified yet remarkably clear account of the various senses of ‘abso-
+lute’ in Newton’s Principia (Scholium) can be found in [13]. Such senses of absolute
+mainly concern the concept of motion whilst I am here interested in the question
+of the ontological consistency of the concept of space. Thus I will limit myself to
+quoting the points relevant to the latter issue, together with its relational counterpart.
+   Newton substantivalism.3 A1 : “Space (or Space-time) is a substance in that it
+forms a substratum that underlies physical events and processes, and spatiotempo-
+
+2 In this paper I will focus primarily on the concept of space rather than on the whole space-time. In
+spite of the formal operational unification of time and space within the special theory of relativity (STR),
+time and space maintain a deep ontological difference. Also, in General Theory of Relativity (GTR), once
+examined from the dynamical (Hamiltonian) point of view, time plays a special role (see [30, 31]). Even
+more, time has a substantially different status from space in quantum theory. Time (unlike the position of
+something in space) is not observable at any level of the theory and, furthermore, it plays a privileged role
+in the foundations of the very concept of probability. It is nevertheless true that many assertions concerning
+space scattered throughout this paper could be plainly attributed to the time continuum and the relativistic
+concept of space-time too.
+3 As a matter of fact, Newton’s absolutist position is much more articulated. A is an oversimplification
+                                                                               1
+based on the Leibnizian tradition. See later.
+                                                                                               Found Phys
+
+ral relations among such events and processes are parasitic on the spatiotemporal
+relations inherent in the substratum of space-time points and regions”.
+    Leibniz relationism. Though Earman recognizes that there is no direct (Leib-
+nitzian) relationist counterpart to Newton’s Scholium, which is the locus classicus of
+absolutism and also that there are almost as many versions of relationism as there are
+relationists, for simplicity he proposes the following statements to define relationism;
+R1 : “All motion is the relative motion of bodies, and consequently, space-time does
+not have, and cannot have, structures that support absolute quantities of motion”; and,
+above all: R2 : “Spatiotemporal relations among bodies and events are direct; that is
+they are not parasitic on relations among a substratum of space points that underlie
+bodies or space-time points that underlie events.”
+    As Earman himself warns, the philosophical discussion about the nature of space
+and time has the character of a Tower of Babel. I believe that the following quota-
+tions [4, 11] are instructive in this connection: (i) John Earman: ‘Why Space is not a
+Substance (at Least Not to First Degree)’, (ii) Andreas Bartels: “What is Spacetime if
+not a Substance? Conclusions from the New Leibnizian Argument”. Moreover, there
+is also disagreement over what the debate is about; some authorities see the issue of
+whether space or space-time is a substance as central to the debate [47] while others
+are skeptical that the issue admits a clear and interesting formulation [32]. Finally,
+some authors have begun to suggest that the absolute-relational dichotomy is not the
+best way to parse the issues and that a tertium quid needs to be articulated [10, 50]. On
+the other hand, the tentative conclusion of Earman himself is that ‘a correct account
+of space and time may lie outside of the ambit of the traditional absolute-relational
+controversy’. So I will skip all the subtleties of the various accounts to center my
+attention to what seems to me the main issue, namely the ontological elusiveness of
+the concept of space itself.
+    Prima facie, according to Earman (A1 ), the Newtonian tradition of absolute space
+would therefore appear to include a substantivalist, or more generically, a realistic
+conception too. However, some of Newton’s works themselves reveal some signifi-
+cant vagueness in relation to the notion of space. Therefore, the widespread opinion,
+mainly due to the Leibnizian tradition, which considers Newton’s absolutism as nec-
+essarily implying an ontological substantivalism of points in space, in accordance
+with Earman’s A1 definition, does not appear to be justified. I shall quote some ex-
+tracts taken from De Gravitatione et Aequipondio Fluidorum4 which, while exempli-
+fying the revolutionary role played by the concept of space in the process of eman-
+cipation from classical ontology, contextually and enigmatically entail some specific
+ontological elusiveness of the concept itself.
+   Perhaps now it may be expected that I should define extension as substance, or
+   accident, or else nothing at all. But by no means, for it has its own manner of
+   existing which is proper to it and which fits neither substances nor accidents. It
+   is not a substance: on the one hand, because it is not absolute in itself, but is
+   as it were an emanative effect of God and an affection of every kind of being;
+
+4 Beth Jo Teeter Dobbs proposes that it was written in 1684 or 1685 while Newton was preparing the first
+edition of the Principia (1687). (I am indebted to the Referee for this information). See also Janiak [24]:
+21,22 and 25 (italics mine).
+Found Phys
+
+   on the other hand, because it is not among the proper affections that denote
+   substance, namely actions, such as thoughts in the mind and motions in body.
+   . . . Moreover, since we can cleanly conceive extension existing without any
+   subject, as when we may imagine spaces outside the world or places empty of
+   any body whatsoever, and we believe [extension] to exist wherever we imagine
+   there are no bodies and we cannot believe that it would perish with the body
+   if God should annihilate a body, it follows that [extension] does not exist as an
+   accident inhering in some subject. And hence it is not an accident. And much
+   less may it be said to be nothing, since it is something more than an accident,
+   and approaches more nearly to the nature of substance. There is no idea of
+   nothing, nor has nothing any properties, but we have an exceptionally clear
+   idea of extension by abstracting the dispositions and properties of a body so that
+   there remains only the uniform and unlimited stretching out of space in length,
+   breadth and depth. And furthermore, many of its properties are associated with
+   this idea; these I shall now enumerate not only to show that it is something, but
+   also to show what it is . . . Space is an affection of a being just as a being.
+   On the other hand, five pages later, Newton writes:
+   For just as the parts of duration are individuated by their order, so that (for
+   example) if yesterday could change places with today and become the later of
+   the two, it would lose its individuality and would no longer be yesterday, but
+   today; so the parts of space are individuated by their positions, so that if any two
+   could change their positions, they would change their individuality at the same
+   time and each would be converted numerically into the other as individuals.
+   The parts of duration and space are understood to be the same as they really
+   are only because of their mutual order and position [‘propter solum ordinem et
+   positiones inter se’]; nor do they have any principle of individuation apart from
+   that order and position, which consequently cannot be altered.
+   As can be seen, the only ontological characterization explicitly adopted by New-
+ton is space as ‘emanative effect of God and an affection of every kind of being’.5
+Such theistic characterization has understandably provoked an interesting and lively
+historical-epistemological debate which may lie outside the scope of the present pa-
+per, but reveals the extraordinary nature of the problems raised by the conceptual-
+ization of space. The relevance of the issue to my discussion forces me to further
+
+5 In this connection, Howard Stein’s comments are very interesting (see [48, 49]). “I confess that, until
+recently, this did indeed seem to me a quaint, even bizarre-sounding doctrine”. Bearing in mind the no-
+tion of spacetime of GTR, thus within the current scientific image, he then refers to Newton’s view as an
+‘objective structural characteristic of the world’ and adds ‘I believe we may reasonably understand ema-
+native effect to signify something that is not created or produced by causal agency, in accordance with
+causal laws, but that entailed by (or ‘flows from’) the nature of something’. However, he is afterwards
+forced to specify that “space is a non-causally generated fact, with little or no ontological associations”
+i.e. almost nothing. Again, from a modern perspective, DiSalle [8] defined Newton’s position as an exem-
+plification of proto-structuralism. Yet, I must object that space—as conceived by Newton—was uniform,
+or homogeneous, and strictly speaking it has no structure at all! I suggest a comparison with the rich phys-
+ical (gravitational) structure of certain general-relativistic spacetimes (see [30, 31, 35] and Sect. 2.2). Of
+course, once formalized, Newton’s space is characterized by a well-defined mathematical structure.
+                                                                                                 Found Phys
+
+expand on the topic. We can now state that Newtonian space is an unlimited and im-
+material entity in which any Euclidean construction can be implemented. However,
+it clearly lies outside the categories of traditional ontology. Spatial points need to
+be conceived as specific entia per se in order to be in some way ‘realistically’ in-
+terpreted. Certainly, they ought to be individuated solo numero and not—given their
+uniformity—according to distinctive qualities. Yet Newton explicitly excludes any
+‘principle of individuation apart from that order and position’. Therefore the points
+in space are not intrinsically individuated at all apart from in a merely verbal way.
+It is like suggesting some kind of internal relationism in space, if that. Any true re-
+lationism indeed presupposes the independent existence of the entities to be put into
+relation. In this case, however, the distinguishability of the entities is actually only
+and already spatial. Therefore all we have is a mere principle of distinguishability.
+Actually, the most crucial, meaningful property of Newtonian space, which emerges
+in any debate on its nature, mainly consists in its uniformity, or homogeneity,6 and
+this is precisely the basis of Leibniz’s subsequent criticism, which is very difficult to
+object to.
+    In conclusion, the extracts quoted above from De Gravitatione prove the difficulty
+to find an ontological grounding for space in any case. Therefore, the thesis of space
+having the nature of a substance or accident appears to be untenable. On the other
+hand, this situation does not jeopardize the validity of the spatial-temporal foundation
+of mechanics at all, since it is based on the methodological components of Newton’s
+thought rather than on his ontology.
+    Leibniz: Leibniz’s conception is the only fully relational position ever articulated.
+As well known Leibniz identified the foundation of Being, both physical and ideal, in
+an infinite continuity of substantial units, intrinsically single and isolated (‘monads’),
+a kind of ‘metaphysical points’, whose essence is a ‘force’ or ‘activity of represen-
+tation’, i.e. essentially a process. Space and time become phenomena, i.e. modes of
+appearance of reality, generated by the process of monadic representation, and their
+unit only consists in the hypostatization of order relations. According to Leibniz,
+space (and time) do not possess any substantiality, or objective extensionality in the
+Cartesian sense: they are not real entities, i.e. they do not include the principle of
+their own reality. Therefore, in addition to its relational perspective, Leibniz’s view
+is fundamental precisely because for the first time space and time are conceived as
+idealities, i.e.—in current terms, perhaps a little far-fetched—as essential features of
+subjectity. Obviously, the fact that Leibniz’s conception can be purely relational is
+due to the non-spatiotemporal nature of the monads. This involves a price to pay:
+
+6 It is well known, however, that the points of an n-dimensional homogeneous space cannot have any
+intrinsic individuality. As Hermann Weyl puts it (see [52], mine emphasis): “There is no distinguishing
+objective property by which one could tell apart one point from all others in a homogeneous space. At
+this level, fixation of a point is possible only by a demonstrative act as indicated by terms like ‘this’ and
+‘there’.” Quite aside from the phenomenological stance implicit in Weyl’s words, there is only one way to
+individuate points at the mathematical level: namely by coordinatization, which transfers the ‘individual-
+ity’ of n-tuples of real numbers to the elements (points) of the topological set. It should be clear, however,
+that what is about here is a purely mathematical individuation rather than a physical one, an operation that,
+by its very nature, is quite arbitrary. This problem becomes a fundamental issue for the non-homogeneous
+and structurally very rich space-time of (GTR) in certain cases (see Sect. 2.2, Hole Argument).
+Found Phys
+
+namely that it is purely metaphysical and was never translated by Leibniz, or any-
+one else, in a concrete scientific programme. I report here two significant glances at
+Leibniz’s views:
+   Space, like time, is something not substantial, but ideal, and consists in pos-
+   sibilities, or in order of co-existents, that is, in some way, possible. And thus
+   there are no divisions in it, but such as are made by the mind, and the part
+   is posterior to the whole. In real things, on the contrary, units are prior to the
+   multitude, and multitudes exist only through units. The same holds for changes,
+   which are not really continuous’ ([29], italics mine).
+   And also
+   Space being uniform, no reason whatsoever can exist, external or internal, for
+   distinguishing among its parts and for making any choice whatsoever among
+   them. Indeed, any external reason for distinguishing among the parts of space
+   can only be founded upon some internal reason. Otherwise we should discern
+   what is indiscernible, or choose without discerning ([2], italics mine).
+From the perspective of the problem of objectity and realism (in the sense of Aga-
+zzi) [1]. Leibniz’s position is undoubtedly anomalous. We are dealing with strong
+metaphysical realism according to which space and time are not real, and at the
+same time with maximum objectivity in the sense of intersubjectivity or invariance of
+possible descriptions according to the current meaning of the term. Indeed, Leibniz
+is an important forerunner of relativistic thought. Let us note that invariance with
+respect to possible descriptions, referred to Leibniz, is based on the uniformity of
+space, that is, according to his own point of view, on the characteristic itself which
+guarantees its metaphysical irreality.
+    There exists extensive contemporary literature which refers to Leibniz to support
+relational theories in connection with relativistic theories (GTR mainly). Such liter-
+ature, however, actually refers to the ‘Leibniz of positivists’, as correctly defined by
+Michael Friedman, and gives rise to a falsification of the terminology of Leibniz’s re-
+lationism. Apart from some structural analogies, the argumentations made by current
+Leibnizians are (obviously) unrelated to Leibniz’s original metaphysical premises
+and lead to a kind of incomplete or impure reduction of spatial ontology. Their rela-
+tional theses are actually forced to consider relationships between (real or possible)
+empirical objects which are already extended and, above all, already distinguish-
+able as regards extension. Such theses cannot therefore avoid elements of ‘spatiality’
+amongst the primitive ideas which the reduction should lead to. Incidentally, this lim-
+itation of the relationist viewpoint shows the specific resilience of the extensionality
+of space. Similarly, current substantivalist theses ([4, 12] and bibliography therein)
+are criticizable when they expect to transfer Newtonian absolutism into the so-called
+‘manifold substantivalism’, i.e. the thesis according to which relativistic points in
+spacetime void of matter and fields be ‘substances’.
+    Since the Euclidean catastrophe caused by the disgregation of Kantian a priori, a
+profound divergence has taken place between the levels of the ontological grounding
+of the concepts of space and time, and the physical-mathematical description of such
+concepts. Riemann’s [42] fundamental works gave rise to a crucial generalization of
+                                                                               Found Phys
+
+the concept of space, from the tridimensional Raum of our experience to the multi-
+dimensional space as abstract Mannigfaltigkeit which, being the basis of differential
+geometry, constitutes an essential premise for relativistic theories. For my subsequent
+argument, it is important to realize that the concept of space as Mannigfaltigkeit in-
+troduces a complexification of the scientific image in which axiomatization acquires
+increasing relevance. Actually, the new notion of space includes a whole stratifica-
+tion of polyadic predicates which cannot be reduced to extensional ones, such as, e.g.
+(local and global) topology, with its companions of orientability, connectivity, enan-
+tiomorphisms, orientation-entanglement, non-commutative geometry, which would
+be better defined as intensional and require a base of axiomatic structures. However,
+as Weyl stressed [53] the transition to the new conception of space, which gives rise
+to the modern scientific image of spatiotemporality, entails overcoming a philosoph-
+ical ‘abyss’:7 precisely the jump from the notion of space as an external continuum,
+understood as real and sensed intuition (just the ‘Raum’ of experience), to the ab-
+stract set-theoretical notion of it, by means of which theoretical physics reconstructs
+the continua of space and time.
+    On the basis of an objective current analysis of the classical debate, we should
+conclude that—setting aside the level of supernatural explanations inherited by New-
+ton from Cambridge Neo-Platonism—neither the absolutist viewpoint, nor the rela-
+tional one can provide a satisfactory ontological grounding to the notion of space.
+The concept of space does appear to have a peculiar fate: it has the strength to gen-
+erate emancipation from Platonian-Aristotelian ontology, yet it does not have the so-
+lidity to stand metaphysically. I do believe, in fact, that a metaphysical issue of space
+remains open.
+
+2.2 Remarks on the Status of Space-Time in the Scientific Image (GTR)
+
+The structure of spacetime in the scientific image provided by the General Theory of
+Relativity (GTR) is by far more complex than one could believe on the basis of the
+historical view based on the manifestly covariant scenario expressed by the invari-
+ance under arbitrary transformations of coordinates (passive diffeomorphisms). We
+have shown ([30, 31, 35] and bibliography therein, also [9]). that ‘the last remnant
+of physical objectivity of space-time’ that Einstein thought (in 1916) [14] was ‘taken
+away by the requirement of general covariance’ (essentially on the basis of the fa-
+mous ‘Hole Argument’ or Lochbetrachtung) can indeed be recovered, at least in a
+continuous family of models of GTR, by exploiting the intrinsic degrees of freedom
+of the gravitational field in vacuum (viz. the so-called Dirac Observables (DO)). The
+remaining functional part of the metric field (viz. the gauge variables) identifies a
+global non-inertial extended space-time laboratory (NIF) playing the function of a
+global Observer. The resultant physical individuation of point-events is obtained in
+terms of non-local functionals of the DO which show a rich structure of spacetime so
+that the latter—unlike Newton’s space—maintains ‘its own way of existence’. Such
+individuation, however, turns out to be NIF-dependent so that it can only be con-
+strued as a weak form of objectivity. Correspondingly, one could interpret the result-
+ing ontology of spacetime in the scientific image as a weak kind of structuralism
+
+7 Often defined as Platonic Gap.
+Found Phys
+
+that inherits some elements of both substantivalism and relationism. In any case any
+form of substantivalism turns out to be falsified. Our position has been examined by
+other authors within a more general philosophical context and redefined as moderate
+structural realism [16]. However, apart from the lack of generality of our results, I do
+not believe that the analysis of the ontology of spacetime of GTR can be confined
+to this level. In any case we have admittedly solved a problem about the characteri-
+zation of the intrinsic spacetime structure rather than an ontological issue about the
+existence of spacetime. I shall limit myself to making the following remarks: (1) The
+very fact that GTR predicts singularities—in which the equivalence principle does
+not hold—indicates that it cannot be a universal theory of spacetime. (2) The non-
+locality shown by our individuation procedure is an unclear, yet profound feature of
+the theory: for example the total energy is a non-local thing and resides non-locally
+through space. The same gravitational energy is a rather elusive thing.8 (3) Many
+authors believe now that the incompatibility between GTR and QT could only be
+resolved by abandoning the idea that space is a fundamental entity and that, corre-
+spondingly, the debated issue of Quantum Gravity must be dealt with by forgetting
+in the first place about space and movements within it, and by starting from a purely
+quantum core. From this point of view space itself should be viewed as an emerging
+entity and the same GTR should be considered as a purely effective theory arising
+from a quantum substrate. Thus gravity should turn out to be a non-fundamental,
+rather an induced, residual, emergent and intrinsically classical interaction, and the
+quantization of GTR would not lead to any fundamental theory. Of course, the ex-
+planatory power of GTR or its experimental success are not at stake here. The point
+is that all these features provide some indication that the ontological elusiveness of
+the concept of space infects—as it were—even the spacetime representation in the
+current scientific image.
+
+2.3 The Kantian Legacy
+
+Why we cannot exercise the intellect on any object
+absolutely apart from the continuous, or apply it
+even to non-temporal things unless in connexion
+with time, is another question.
+Aristotle9
+
+The philosophical configuration characterizing the unsolved classical opposition of
+absolutism and relationism also justifies the strength of the lasting suggestion ex-
+ercised by Kant concerning the conceptions of space and time in spite of the dis-
+gregation of the a priori and even in spite of the fact that the Kantian notion of
+pure intuition as necessary intermediate element between sensation and intellect has
+
+8 It should be stressed, however, that this non-locality has nothing to do, at least at our present level of
+knowledge, with the quantum non-locality discussed later.
+9 In Aristotle: On Memory and Reminiscence, written 350 B.C. (translated by J.I. Beare): 450a 7–9 of the
+standard Bekker edition.
+                                                                                                   Found Phys
+
+been empirically reduced in terms of the theory of vision10 or absorbed within the
+constructive symbolic forms of neo-Kantians. The strength of the Kantian position
+concerning space and time, resides in the evidence of the fact that, within any criti-
+cal formulation concerning such issues, an intuitive representation of extension and
+duration is always in some way already epistemically presupposed. The scientific ir-
+relevance of Leibniz’s fully relational view can in fact be traced to the impossibility of
+deriving or constructing space and time starting from elements that are—as it were—
+completely ‘isolated’. In other words, spatial and temporal relations seem unable to
+take shape starting from the union of simple elements.11 Of course Kant’s notion of
+intuition cannot be re-proposed today with all its implications, in particular in rela-
+tionship to its connection with intellectual schemata, as generating a priori synthetic
+judgments, which, as such, are apodictic and constitutive of the mathematical struc-
+ture of space and time. Nevertheless, I do believe that the legacy of the Kantian notion
+of pure intuition of homogeneous extension, as an essential feature of the real (sen-
+sible) notion of space-and-time should not be jettisoned altogether. In the first place
+I observe that this legacy actually survives in various forms within phenomenologi-
+cal thinking.12 On the other hand, the universal form of the homogeneous intuition
+has the nature of an epistemic substrate for all the particular sensible intuitions and
+is essentially characterized by the fact that the sensible spatial continuum cannot be
+linguistically coded.13 In conclusion it should be clear that we must not confuse the
+vague continuity of perceptual wholes (let me call this the psychological continuum)
+with the ideal continuum of homogeneous extension, which is a presupposition of our
+notion of the continuum in general, before its bifurcation in spatial and temporal con-
+tinuity. Surely, we cannot think of space and time, hence of the external continua, as
+‘objects’. As a matter of fact, we do not perceive space or time; we perceive and think
+of inhomogeneities and variations over an extended homogeneous background. The
+
+10 I would like to stress that, lacking a true causal theory of perception, this move only amounts to a shift
+of the surviving problem of the intuition of extension.
+11 The essential point being the unrestrainable and spontaneous nature of the intuition of the continuous
+extensionality. Recall what Einstein said in this connection: ‘to give up the continuous . . . is like to breath
+in airless space’.
+12 As a first instantiation I would like to mention Husserl’s notion of pre-phenomenal continuum as a
+primary, non-inferential grasp of pure extension, which is neither based on nor reducible to perception,
+let alone memory or introspection. In Husserl’s words: (see [23]) “There exists a Primacy of Extension”,
+and “Pure spatiality can be acquired as a fundamental form of thingness”. Also “Pure extension is con-
+ceived as a singular substratum for all intuitions and perceptions of particular objects”. Analogous notions
+concerning the continuum as perfect qualitative, non-compositional homogeneity, can be found in Peirce,
+Brentano, Stumpf, Salanskis, Weyl and Poincarè too. See [40].
+13 All efforts to represent an abstract entity through a schematization unavoidably lead to the visualization
+of something prominent over a continuous background (or memory of a process acting in space). The
+points which are ideally introduced into the homogeneous extension are only preliminary elements for the
+axiomatic categorization of space. Only within the axiomatic structure do they become monadic referents
+of symbols and objects of quantification, and thereby ‘individuals’ in that they are ‘numbered’ (though
+almost all non computable in the algorithmic sense of the word). It is only within this construction that we
+can pose the problem of the potential or actual infinity of elements, while the pure intuition of the homo-
+geneous extension appears to be necessary ‘in act’ only as a singular datum. We can conclude with [40]
+that the continuum possesses an intrinsic bi-modality, that of the homogeneous pre-phenomenal intuition
+and that of the axiomatic structure, both fundamental.
+Found Phys
+
+latter—as singular intuition—realizes the idea of a homogeneous spatial extension
+with no body positioned in it. The pre-Cartesian synthetic continuum of geometry is
+just a conceptual abstraction of this intuition.
+    Finally, I wish to close this survey of Kantian legacy by emphasizing that we
+are transparently reminded of the unique way in which the conception of space is
+strictly connected to the issues of subjectivity by the following passages in the Cri-
+tique of Pure Reason: ([26], italics mine). “In order that certain sensations be referred
+to something outside me (that is, to something in another region of space from that in
+which I find myself), and similarly, in order that I may be able to represent them as
+outside and alongside one another, and accordingly not only as different but as in dif-
+ferent places, the representation of space must be presupposed”. Thus, not only is the
+presupposition of the representation of space necessary to recognize things as spa-
+tial, distinct and next to each other but, above all, to recognize them as “outside the
+subject”. Furthermore, “I am conscious of my own existence as determined in time.
+All determination of time presupposes something permanent in perception. This per-
+manent cannot, however, be something in me, since it is only through this permanent
+that my existence in time can itself be determined. Thus perception of this permanent
+is possible only through a thing outside me and not through the mere representation
+of a thing outside me; and consequently the determination of my existence in time is
+possible only through the existence of actual things which I perceive outside me. . . .
+In other words, the consciousness of my existence is at the same time an immediate
+consciousness of the existence of other things outside me.” ([26], added in the 2nd
+edition p. 245.)
+    The representation of space is therefore essential even to the self-individuation of
+the subject and to recognize the plurality of conscious subjects. I cannot disentangle
+such considerations from the well-known fact that conscious states themselves do
+not belong to the spatial order. They are per sé metaphysically irrepresentable and,
+in order to be referred to, they require linguistic reference to space (note that ‘inner
+sense’, referring to time, is a spatial locution, like outer sense). What matters for my
+subsequent argument is that it clearly appears that perceptibility of distinguishable
+objects in spatial extension must be seen as a necessary precondition of subjectivity.
+
+3 The Quantum
+
+3.1 Essential Quantum Physics
+
+I believe that the great majority of people belonging to the science community at
+large, mainly influenced by the complexity and operational efficacy of the formal-
+ism of QT, may not be fully aware of the philosophical radicality of the historical
+event represented by Planck’s discovery. Namely the physical fact that the action
+is made up of indivisible units (quantum), measured by the Planck constant h. It is
+important to realize in the first place that the action is a theoretical entity (of the
+classical description) which is neither a spatial nor a temporal quantity, nor is it a
+property of things, yet it encodes both spatiotemporal and dynamic components. In
+other words, what turned out to be atomized are processes instead of things: the true
+                                                                                                     Found Phys
+
+atom (‘indivisible’) of contemporary physics is then the quantum of action. Thus we
+have a dramatic shift from the naïve or spatio-temporal atomism (atoms as simple and
+indivisible spatial entities) to action-atomism (atoms as indivisible elementary pro-
+cesses). The consequence is that it is not the small physical size (i.e. a spatiotemporal
+characterization) that defines the quantum level, but something more subtle concern-
+ing processes in terms of time and energy differences (see later).
+    Let me stress the main immediate outcomes of this revolution. Let us consider a
+whole as an aggregate of putative parts and an inner dynamical process of interac-
+tions among such putative parts. In traditional classical terms, this process would be
+conceived as a variety of exchanges of energy E at some intervals of time t, as
+well as transfers of linear momentum P along some intervals of space x. The
+expression A = Et − P x = μ x μ is just the relativistic invariant expres-
+sion14 of the action phase, and the putative parts of the whole are then thought of
+as exchanging action among themselves. Now, the atomization of the action entails
+that there cannot exist real processes corresponding to exchanges of action smaller
+than the Planck constant. Even more, the elementary quantum act (corresponding to
+a single quantum of action exchanged between two putative parts of a whole) is sim-
+ple: literally it has no spatial extension nor duration. More generally, all the genuine
+quantum processes, in a deep sense do not belong in the extensional space and time
+(I mean in the sense of the Raum and clock time of our real macroscopic experi-
+ence),15 so that they cannot be represented as taking place in spatial extension during
+lapses of time. Since the action is, classically, a continuous functional of the physical
+system’s configuration, were a continuous spatiotemporal description of the interact-
+ing parts conceivable, there would be real intermediate states, and one would be able
+to reconstruct processes corresponding to actions of arbitrary measure. In conclusion,
+stricto sensu: (i) the parts cannot be described in any local way as entities in the ex-
+tension (and time) of our experience so that they simultaneously lose their traditional
+individuality. In fact, the parts can no longer be conceived as distinguishable individ-
+uals, i.e., they are no longer objects in the ordinary sense of perceivable things. If the
+parts were objects, the action could not be atomized! Furthermore (ii) any genuine
+quantum phenomenon is an undivided whole and cannot be broken up into physically
+well-defined steps; (iii) ‘Quantum ontology is one of abstract entities, though not of
+mental ones’ (as stressed by Quine). Only the revelations or measurements of the ef-
+fects of quantum processes are phenomena in the Raum and time of our experience.16
+Revelations, however, are not genuine quantum processes. They are highly compli-
+cated semi-macroscopic processes magnifying quantum events to the classical level
+by producing irreversible traces in ordinary Raum and time so that they are indeed
+characterized by quantitative measures of extension and duration and are perceived
+
+14 Note that, unlike action, energy is not a relativistic invariant and its quantization is derivative.
+15 It is essential to be clear on this point. To assert that quantum processes do not belong to the extensional
+Raum and time of our experience does not mean that they remain within an unphysical realm or a blurred
+metaphysical Nothing at all. Simply, due to action atomization, they cannot be described in the Raum and
+time of our macroscopic experience. See Sect. 4.1.
+16 It is important to stress, with John Bell [5], that at the end in physics, and in quantum theory in particular,
+the only measurements we must consider are position observations in space.
+Found Phys
+
+as actual occurrences. However, they fail to be describable by quantum theory. At
+this point I must assume that the reader is sufficiently aware of the main technical
+elements of QT, in particular (according to a rather rough description): (A) (1) An
+individual quantum system S is described by a state vector V (or wave function)
+belonging to a complex vector space H (Hilbert Space); (2) The physical observ-
+ables are described by suitable operators acting on V and furnishing the a priori
+possible values (‘eigenvalues’) of the properties of S, as described by V ; (3) A typ-
+ical textbook description17 of a measurement cycle concerning a process of S is a
+man-made laboratory procedure defined by the following operations: (3a) ‘prepara-
+tion’ of the state of the system at time t0 , as represented by a V constructed after
+the determination of the values of the measured properties of a so-called ‘maximal
+set of commuting observables: A, B, C, . . . , P ’. Note that V , as interpreted in the
+standard view I am sharing here,18 is a pure informational entity (a “probability cat-
+alogue”, according to Schrödinger) and does not represent directly a real physical
+quantity in space and time. It is a mathematical device that collects all the theoret-
+ically possible information that we have about the state of the individual system S
+(‘pure state’ V ); (3b) temporal development of the process, as described in a purely
+symbolic and abstract way by means of a linear, deterministic and unitary evolution
+‘operator’ U in terms of the standard time indicated by a macroscopic clock T (time
+dependent Schrödinger equation in the so-called Schrödinger representation) until a
+given time t; (3c) ‘measurement’ M of a physical property ‘p’ of S at time t, which
+must be one among the a priori possible ‘eigenvalues’ of an operator observable P .
+The rules of QT then furnish the a priori probabilities for finding a given real ‘eigen-
+value’ ‘p’ among the possible ones. Note that, by embodying the completeness of
+the information inscribed in V , such probabilities are ontological or intrinsic, and
+not epistemic probabilities that could follow, e.g., from some ignorance about the
+definition of V . Such intrinsic probabilities emerge from the fact that, in order to be
+measured, any genuine quantum entity (like S) is forced to assume manifest object-
+like appearances (i.e. a spatial and temporal shape, e.g. as ‘particle’ or ‘wave’) in the
+extensional Raum and time. Corresponding to the measurement M, the state vector V
+‘jumps’ and coincides by definition with the ‘eigenvector’ of the observable P corre-
+sponding to a definite ‘eigenvalue’ or property ‘p’ of the system S. Note that M (also
+called reduction of the state vector or wave function collapse) is a pragmatic ad hoc
+operation (Postulate of the ‘Wave Packet Reduction’: WPR) which instantaneously
+redefines the state as represented by the State Vector Vp , which embodies the new
+information about the system.
+   Here is where a main issue lies, however. For, if taken outside the formal set of
+postulates of QT, it is not clear in the first place what the difference is between a
+‘measurement’ belonging to the list of postulates or to the set of highly idealized lab-
+oratory man-made operations, on the one hand, and the ‘measurement-like’ processes
+that are going on, more or less all the time, more or less everywhere [6], on the other
+hand. In the latter case, the state vector V (or the wave function) should be better
+interpreted as representing something physically real, and the variation of the state
+
+17 I am obviously describing a typical but simplified situation.
+18 The choice of this interpretation—-at least in certain definite circumstances—will be justified later on.
+                                                                                               Found Phys
+
+vector under such generalized ‘measurement’ should be intended as describing a real
+physical process as ruled by a second kind of evolution law (called R by Penrose).
+R would enter into play when different macroscopic effects are triggered by different
+microscopic situations, and—in the current status of the theory—is supposed to be
+described (in principle and only elliptically) in a pure phenomenological way by a
+non-linear and stochastic process (still reduction of the state vector or wave func-
+tion collapse). However, for reasons that will become clear at the end, from here on
+I shall stick to the standard interpretation. Thus, the laboratory quantum theoretical
+description of any genuine quantum process begins and ends with a spatio-temporal
+revelation.The Heisenberg inequalities then enforce the necessary linguistic compro-
+mise between the description of the unavoidable object-like nature of the revelations
+in extensional Raum and time, and the fact that quantum entities or processes are
+not object-like (neither ‘particles’ nor ‘wave’, nor any other spatio-temporal model
+of object whatsoever). I believe that nothing better than the following passage by
+Werner Heisenberg can render the essence of the whole state of affairs: “Während
+also die klassische Physik ein objectives Geschehen in Raum und Zeit zum Gegen-
+stand hat, für dessen Existenz seine Beobachtung völlig irrelevant war, behandelt
+die Quantentheorie Vorgänge, die sozusagen nur in den Momenten der Beobachtung
+als raumzeitliche Phänomene aufleuchten, und über die in der ‘Zwischenzeit’ an-
+schauliche physikalische Aussagen sinloss sind” ([21], italics mine).
+    There are two important instantiations of quantum states, namely: (B) A ‘pure’
+state , defined by the so-called ‘coherent superposition’ of two distinct ‘pure’ states
+ = c1 V1 (+) c2 V2 , (c1 , c2 complex numbers with fixed relative phase), is called a
+superposition state and has the following fundamental property: if an observable A
+possesses with certainty the distinct values a1 in V1 and a2 in V2 , the observable A
+for the state  does not possesses an a priori definite value, i.e. no intrinsic property
+qualified by A. The value of A in  is mere potentiality which is actualized only by
+means of a measurement, that furnishes the values a1 or a2 with probabilities given
+by the squared moduli of c1 , or c2 , respectively. The fundamental point is that the
+operation (+) can never be translated into a logical disjunction, so that it is incom-
+patible with assertions like ‘the observable A possesses (before the measurement) one
+or the other of the properties associated with the pure states V1 and V2 . The so-called
+Principle of Superposition shows the most direct consequences of the atomicity of
+the action and the intrinsic limitations of the role played by spatiotemporal concepts
+at the quantum level. Indeed, it provides the technical representation of the fact that
+a transition to actuality is never spatiotemporally described since the formalism fur-
+nishes only the probability P (t) that at time t the actualization has taken place, and
+the probability 1 − P (t) that it has not taken place.19 (C) A state E which is an en-
+tangled state (firstly defined in [45]) of a compound quantum system S = S1 [+] S2 ,
+
+19 Correspondingly, in the case of a spatial superposition of two possible paths, p and p , followed by,
+                                                                                   1     2
+say, a photon γ in an interferometer, the condition of γ being in a state of superposition is incompatible
+with the following statements (which exhaust all the logical possibilities according to a standard spa-
+tiotemporal representation of the process): (1) γ does follow p1 , or p2 ; (2) γ does follow both p1 and
+p2 ; (3) γ does follow neither of the two. In this connection, one also realizes the fundamental fact that,
+unlike the mere auxiliary role played in classical physics, complex numbers have an essential, irreplaceable
+role at the quantum level of reality.
+Found Phys
+
+where S1 and S2 are non interacting and (arbitrarily) space-like separated, is such
+that the potentialities of the component subsystems are interconnected, so that the
+potentiality of one subsystem is instantaneously actualized as soon as the transition
+to actuality is induced in the other subsystem (for a brief and clear presentation of
+the issue see [36, pp. 279–299]). In other words, the subsystems cannot be consid-
+ered as separate and independent entities until they are eventually disentangled by
+a measurement.20 The entanglement lies at the basis of the so-called EPR type phe-
+nomena21 and expresses an intrinsic non-locality of quantum theory. What matters
+here is that not only has such phenomenon actually been experimentally verified up
+to a distance of 144 km [51], but that nothing exists in quantum theory that could
+in principle introduce any limitation concerning such kind of extensional separation!
+From this lack of limitations22 it further follows that even the temporal order of the
+disentangling measurements is observer dependent. We can conclude that, provided
+a so-called realistic interpretation of the state vector is excluded [38, pp. 290–296,
+388–391], neither entanglement or disentanglement heed spatial extension or tempo-
+ral ordering. In other words: no story in space as a function of time can tell us how
+nonlocal correlations happen, hence nonlocal quantum correlations seem to emerge
+somehow from outside space. Note that the essence of the entanglement is strictly
+ontological and cannot be explained epistemically by saying e.g. that our knowledge
+of S1 is inseparable from that of S2 .
+    G.C. Ghirardi [20] has recently shown that any theory which (a) reproduces the
+experimental consequences of quantum theory, and (b) satisfies certain very general
+conditions concerning the composition of probabilities, is necessarily non-local (ba-
+sically the probabilities must be defined before the experiments take place). Quantum
+nonlocality then holds independently of the specific formal structure of the theory and
+follows uniquely from the atomicity of action. This means, however, that Nature itself
+is essentially non local, even if this fundamental property only surfaces when few
+action quanta are exploited in entanglement type conditions. In other words, there
+is necessarily some kind of ‘influence’ that connects quantum microentities across
+spatiotemporal unlimited space-like separations. Nonlocality, however, taken at face
+value, is only a technical way of speech which, in my reading, is a sign of the fact
+that although our intuitive representation of the underlying spatial continuum has an
+epistemic primacy for the sensory experience and ordinary perception in the Raum,
+it fails to possess a sound ontological basis. This should be read as a confirmation
+of its already historically recognized elusiveness. It is also important to stress that
+non-locality and process atomization only clash with the intuition of pre-phenomenal
+continuum, and not with all the axiomatic structures which constitute the concept
+of physical space-time of the contemporary scientific image. Finally, although there
+is no operational conflict between quantum theory and, e.g., STR, still—as Penrose
+thinks—there is a conflict with the ‘spatiotemporal spirit’ of STR.
+
+20 Note that it is not correct to characterize the transition from potentiality to actuality occurring in a
+subsystem as an ‘event’, just because it fails to share one or more of the classical properties of events,
+notably that of being loci of permanent actuality.
+21 The possibility of such phenomena was indeed suggested by Einstein, Podolski and Rosen in a famous
+paper. See [15].
+22 In a more general, relativistic, context, from the space-like character of the relation between S and S .
+                                                                                                    1     2
+                                                                               Found Phys
+
+3.2 Remarks on the Status of Spacetime in Relativistic Quantum Field Theory
+
+The difficulties of Relativistic Quantum Field Theory (RQFT) are well known. Above
+all, for our purposes, we must stress that a consistent relativistic interpretation of the
+quantum collapse of the vector state has not even been touched in RQFT. Quite in-
+dependently of these important limitations, however, one should ask how it is that, if
+extensionality of spacetime is so elusive, background relativistic space-time is thor-
+oughly been used so successfully for the phenomenological description of elementary
+particles. Let me call the spacetime utilized in RQFT ‘micro-space time’. My answer
+is that, although quantum theory imposes no limitations on the utilization of space-
+time continuum, its epistemological status has been already substantially altered in
+a peculiar way. From the chrono-geometric point of view, the micro-space-time is
+a universal classical deterministic macro space-time (actually Minkowski’s space-
+time) used without any scale limitation from below. As a matter of fact, however, it
+is introduced into the theory through the group-theoretical requirement of relativis-
+tic invariance of the statistical results of measurements as regards the choice of the
+macro reference frames. Therefore, this micro space-time is anchored, so to speak,
+to the macroscopic medium-sized objects that asymptotically define the experimental
+laboratory conditions so that its concept is parasitic of the perception of distinguish-
+able macroscopic objects in the Raum. It is in fact in this asymptotic sense that a
+physical meaning is attributed to the classical space-time coordinates on which the
+quantum fields’ operators depend as parameters. Thus, the spatiotemporal properties
+of the micro Minkowski manifold, including its basic causal structure, are, as it were,
+projected on it from outside. Also, the limitations posed by quantum theory on the
+procedures for measuring microscopic space-time intervals (easily reducible to time
+intervals) are very strong indeed. Actually, it can be shown that every possible kind
+of clock is necessarily a non-microscopic object and, in particular, that even the so-
+called atomic clocks can be considered microscopic devices only on the basis of a
+rough idealization which conflicts with the fundamental concepts of measurability.
+There exists no way of measuring microscopic intervals (e.g. intra-atomic)23 in a di-
+rect operational manner. All measurements are then based on indirect procedures that
+involve a theoretical interpolation. However, while this is true of nearly all physical
+measurements, the special aspect of the microscopic case is that the theory involved
+is precisely the quantum theory with its inherent spatio-temporal limitations. In this
+connection see [39, 43].
+    Thus, we are led to distinguish between physical space-time, on the one hand, and
+physical ‘analogical’ micro-space-time, on the other. The former as operationally
+founded on the behavior of (macroscopic) clocks, the latter as a purely mathemati-
+cal structure whose empirical meaning rests on a theory that in principle excludes a
+spatiotemporal representation of its ontology. Far from worrying about a direct and
+operational justification, what I wish to emphasize is that the empirical meaning of
+the ‘analogical’ micro-space-time is conferred on it solely by the macroscopic (clas-
+sical) level of control of quantum theory on the basis of an abstract extrapolation
+
+23 Not to mention “cosmological” intervals!
+Found Phys
+
+from the ‘macro’ space-time of STR.24 In conclusion, the role of this ‘analogical’
+micro-space-time seems essentially that of a translator from the symbolic and ab-
+stract structure of the theory into the language of the macroscopic irreversible traces
+that constitute the experimental findings within the Raum and time of our experi-
+ence.25 The conceptual status of this external translator then fits in very well with
+the role of an epistemic precondition for the formulation of relativistic quantum field
+theory in Bohr’s sense. Finally, a further sign of the uncertain status of the ‘ana-
+logical’ micro spacetime in RQFT comes from the so-called ‘peaceful coexistence’
+between the latter and the STR, but I will not elaborate on this point further. I will
+simply conclude with Penrose [36, p. 290] that: “Despite the undoubted power and
+impressive accuracy of quantum field theory (in those few cases where the theory
+can be fully carried through), one is left with a feeling that deeper understandings are
+needed before one can be confident of any ‘picture of physical reality’ that it may
+seem to lead to”.
+
+3.3 The Z-Mysteries and the X-Mysteries of Quantum Theory
+
+On May 15, 2010, seventy five years had elapsed since the publication of the Einstein-
+Podolsky-Rosen paper in Physical Review (vol. 47, May 15, 1935). From then on-
+wards, foundational debates about quantum theory essentially centered around two
+distinct issues. The former deals with questions such as non-locality, non-separability,
+indefiniteness of property attributions, and the EPR phenomenon, with the con-
+nected idiosyncratic debate about the so-called ‘spacetime realism’. It concerns the
+quantum behavior of entangled systems involving only quantum-level entities, such
+as electrons, photons, atoms or molecules.The latter is about the so-called macro-
+objectification problem, that is the formulation of a quantum theory of measurement,
+and a resolution of related paradoxes (Schrödinger Cat and the like). Roger Penrose
+[38, pp. 237–240] called these two classes of problems and paradoxes Z-mysteries
+and X-mysteries, respectively, and I will adopt his terminology throughout. The Z-
+mysteries, which are directly experimentally supported, depend on the action atom-
+ization together with the linearity of the theory at the underlying quantum level.
+
+24 Note, furthermore, that in the literature about classical field theories space-time points are usually taken
+to play the role of individuals, but it is often implicit that they can be distinguished only by the physical
+fields they carry. No such possibility, however, is consistently left open in a non-metaphorical way in
+RQFT. From this point of view, Minkowski’s micro-space-time is in a worse position than the space-time
+of GTR: it lacks the existence of the Riemannian intrinsic pseudo-coordinates exploited in GTR, not to
+mention all the non-dynamical (better, operational and pragmatic) additional elements that have often been
+used for the individuation of its points, like rigid rods and clocks in rigid and un-accelerated motion, or
+various combinations of genidentical world-lines of free test particles, light rays, clocks, and other devices
+in macroscopic STR. The instrumental nature of micro-space-time seems to be further confirmed by the
+fact that the quantum field physical observables are not defined in terms of point-events but over extended
+regions of space-time and that the interacting quantum fields are essentially quantities that interpolate
+asymptotically defined states.
+25 Furthermore, it is true that this micro-space-time appears to be ‘really’ classically Minkowskian with
+
+respect to all non-gravitational interactions up to the length scale of ≈ 10−16 cm; yet, it should be noted
+that this fact is checked by collision experiments that involve only a limited number of real micro-entities.
+                                                                                               Found Phys
+
+They refer to counterintuitive and unavoidable features of microprocesses26 which—
+I believe—should be incorporated in any future possible theory. The X-mysteries,
+instead, call into play the fundamental problem of the objectivity of the macroworld
+as would be described by quantum theory. For the rules of QT imply that not only
+must there be indefiniteness of property attributions to the microstructure in case of
+superpositions, but also that—if no additional and pragmatic assumptions are made
+(viz. WPR)—this lack of definiteness should be propagated to the macro-realm. As a
+matter of fact, the main difficulty lies in the attempt to find—within the theory as it
+stands—a definite scale at which the quantum level of activity, characterized by the
+persistence of quantum superpositions of different alternatives, actually gives way to
+the classical level. Thus, besides the atomization of the action, the X-mysteries follow
+from the requirement that the present structure of the quantum formalism, which was
+invented for the level of molecules, atoms and the subatomic level, be valid without
+modifications even at the level of macroscopic extensional world, and, in particular,
+for the description of the very macroscopic measuring detectors.27 If, on the other
+hand, the measuring detectors are excluded from the quantum theoretical description
+without further qualification, and the informational interpretation of the state vector
+is refuted toward a ‘realistic’ view, it seems difficult to explain how the apparatuses
+can behave as required by WPR itself, an issue which appears to admit a pragmatic
+solution only. Finally, there exists Bohr’s original solution which assumes the purely
+classical behavior of the apparatuses and a strict informational interpretation of the
+state vector. This view, however, does not resolve in a transparent way the question
+of why, and at what stage, ‘classical’ behavior might arise for large and complicated
+structures such as detecting apparatuses.28
+    A conclusive and very general result about the restrictions following from the lin-
+earity of quantum evolution for the measurement process, was obtained by Bassi and
+Ghirardi [3], who showed that such linearity necessarily entails that, at the end of any
+measurement process on an individual quantum system, there must be ‘superpositions
+of macroscopically distinct states of the detector, and, in general, of a macro-system’,
+with the consequence that the result cannot match our definite spatial perceptions.
+This in turn implies that ‘the reality of definite perceptions in spatial extensionality
+requires that linearity of QT must be broken somehow and somewhere’. It is essential
+to stress the generality of this result, which is immunized against all criticisms based,
+e.g., on the so-called quantum decoherence argument, as well as against subtleties
+concerning technical details of measurements.
+    It is impressive that decades of debate about the X-mysteries have not yielded
+any agreed upon, satisfactory solution. Therefore I shall end this section by stressing
+
+26 More precisely, not only processes at the underlying quantum level, but also processes such as the
+EPR phenomena involving revelations of microentities in extension at macrodistances, so long as energy
+differences E between alternative possibilities remain very small (in terms of /T , where T is the
+time scale of the phenomenon).
+27 Whose accurate theoretical description is an almost impossible task due to the number of degrees of
+freedom involved and the unavoidable entanglement with the environment which is out of control.
+28 Yet Bohr asserted very explicitly that: ‘For the discussion of the quantum description problem it is not
+relevant that the existence of the quantum of action is ultimately responsible for the properties of the
+materials of which the measuring instruments are built and on which the functioning of the recording
+devices depends’, see [7].
+Found Phys
+
+(with Shimony) [45] that “if sustained efforts to provide a realistic account of the
+actualization of quantum mechanical potentialities should prove to be unsuccessful,
+then there would be a posteriori reasons to conclude that the program itself is mis-
+conceived and to return via some new route to Bohr, by justifying a dualistic picture
+of the world: quantum and classical”.
+
+4 The Quantum and Space
+
+4.1 The Main Conjecture: Is There a Primary ‘Spatial’ Reduction
+    on an Evolutionary Basis?
+
+Est aliquid praeter extensionem, imo extensione prius.
+G.W. Leibniz [28]
+
+Let me first summarize the relevant conclusions reached in the previous sections:
+
+ (1) The ontological elusiveness or, rather, inconsistency of spatial extensionality
+     resulting from the classical debate; also, the very ontological vagueness of the
+     extensionality of spacetime in GTR.
+ (2) The Kantian legacy within the phenomenological tradition, concerning the epis-
+     temic primacy and unavoidability of the pre-phenomenal extensional contin-
+     uum.
+ (3) The relevance of perception of distinct material objects in the extensional Raum
+     of our experience, and its role as a precondition for subjectivity and self-
+     consciousness in particular.
+ (4) The suggestions according to which the spacetime of the classical scientific im-
+     age could be an emergent reality from a quantum substrate.
+ (5) The fact that micro entities lack object-like properties and that genuine quantum
+     processes do not belong to the spatial extension of the Raum, except for the re-
+     sults of specific ‘measurement procedures’ which take place according to large
+     scale irreversible amplifications.
+ (6) The intrinsic non-locality of Nature at the quantum level independently of the
+     specific formalism of the theory; a property that, extending at macroscopic dis-
+     tances, gives a further impressive blow against the ontological robustness of
+     the extensionality of space: non-local quantum correlations somehow seem to
+     emerge from outside space and time.
+ (7) The nature of the X-mysteries and the conflicting views about their clarification.
+ (8) The fact that linearity of quantum evolution is a very well confirmed phe-
+     nomenon only at the quantum level.
+ (9) The generality of the implications of Bassi and Ghirardi’s results concerning the
+     X-mystery of macro-objectification.
+                                                                                                    Found Phys
+
+(10) Some heterodox suggestions made by physicists like Wigner,29 Shimony [45,
+     46], and in a certain sense even Roger Penrose30 about the special role that
+     conscious or, more generally, living beings could play in the quantum riddle.31
+(11) Finally, the fundamental recognition that ‘quantum ontology is one of abstract
+     entities’ (Quine), which I take mainly to mean that quantum ontology is a non-
+     spatial ontology (again, in the sense of the Raum of our experience) and, there-
+     fore, in some sense inscrutable. This entails, however, in my opinion, that the
+     macro-objectification problem, far from being a purely technical case, has all
+     the marks of a deep technical and philosophical issue concerning the human
+     (and animal) forms of acquaintance of ‘material’ reality.
+    To summarize, at this point, I will accordingly make the following assumptions:
+(a) The linearity of the quantum dynamical evolution U does not apply in the central
+    nervous system of living beings at a certain level of the evolutionary ramification,
+    even very low.32 For the sake of clarity, I assume that this happens in the human
+    brain at a level that—from the point of view of subjectivity—corresponds to a
+    pre-conscious or unconscious stage. From my point of view—which is neither
+    trivially subjectivistic nor instrumentalist—it is essential to exclude any active
+    role of consciousness or, more generally, subjectivity, in this mechanism. The ba-
+    sic justification of this conjecture is that, since we perceive distinct macroscopic
+    objects in the extensional Raum, the linear nature of U somewhere and somehow
+    must be broken. Thus, apart from realistic collapse theories like GRW, the choice
+    of locating the violation within the neural system of living organisms seems to
+    be the most natural one. Obviously, I will not even try to sketch the concrete
+    quantum action on neural or subneural structures of living organisms in order to
+    ‘understand’ perception.
+(b) Corresponding to the onset of a non-linear dynamic evolution, a primary ‘spatial’
+    reduction is ‘continually’ taking place33 to the effect that, starting from the non-
+    extensional and abstract structure of the quantum world, the result be that of
+
+29 See [54]: ‘The way out of the difficulties of the measurement problem is to postulate that the equations
+of motion of QT cease to be linear, in fact they are grossly non-linear if conscious beings enter the picture
+. . . it follows that the being with a consciousness must have a different role in quantum mechanics than the
+inanimate measuring devices.’
+30 Penrose has repeatedly suggested that a fundamental link should exist between the possible violation of
+the linear Schroedinger evolution and perception processes (see [37, 38]).
+31 More specifically, Shimony [46] writes: ‘The scientific community is contemplating seriously the idea
+that one should give up the unrestricted validity of the linear nature of the dynamical evolution. If this is the
+case, the physical processes which present themselves as the most natural candidates . . . are mesoscopic
+processes, processes involving the neural structure of the brain and processes in which definite perceptions
+seem to require for fundamental reasons that reductions actually take place’.
+32 It is not relevant here to identify a limit or scale of complexity concerning the gradation of subjectivity
+that is distributed almost with continuity within the living world. I am prepared to believe that subjectivity
+and even consciousness are a matter of degree, and not simply something that exists or does not. As
+Penrose notes, ’what evidence do we have that lizards and codfish do not possess some low level form of
+subjectivity? . . . After all, all I ask is that they sometimes simply feel!’ (See [37, p. 383].)
+33 Technically, this unorthodox reduction model could mimic what has been called continual observation
+within the formalism of the so-called measurements with ‘effect’ values of Ludwig. See [41].
+Found Phys
+
+    constituting the neural precondition for the intuition of extensional space and for
+    the experience of distinguishable macroscopic objects (as well as of any other
+    spatially distinguishable source of perception), at the subjective level.
+(c) At this point, my further and consequent suggestion is that—as perceived by
+    living organisms—all quantum superpositions of alternative ‘macroscopically’
+    distinguishable states are accordingly suppressed. Therefore, one or the other
+    alternative would be resolved out, explaining the fact that events do actually
+    occur, whether or not they had done so before the existence of living beings (the
+    gain of using the inverted commas here and before will be explained shortly). In
+    this way, consequently, the X-mysteries of QT should be crossed out, at least for
+    what concern effects which are in principle perceivable by living organisms.
+(d) This primary reduction would concern the state of affairs of physical processes
+    (including the so-called ‘measurement-like’ processes) which ‘are going on more
+    or less all the time, more or less everywhere’ in Bell’s sense, though, of course,
+    always as perceivable in principle by living organisms. The important point is,
+    however, that such primary reduction would have no effect on the standard quan-
+    tum processes concerning micro-entities which are the object of laboratory man-
+    made experiments. So far no isolated microscopic system has been observed as
+    not behaving in accordance with the linear U evolution, and correspondingly as
+    undergoing wave function collapses. In other words, all the standard reduction
+    processes of QT—which we could rename as secondary or z-reductions—will
+    continue to take place, in connection with the standard informational interpreta-
+    tion of the wave function. In this way, all the Z-mysteries of QT would survive
+    unaltered. Accordingly, “the procedures of measurements will maintain an essen-
+    tial influence on the conditions on which the very definition of the physical quan-
+    tities in question rests” (à la Bohr). Note, moreover, that the distinction between
+    genuine quantum measurements and the rest of the state of affairs is accordingly
+    established in principle.
+    It is now time to try to redress and clarify some evident ‘lop-sidedness’ of this con-
+jecture with some important qualifications. Beforehand, however, while once again
+acknowledging that my conjecture is rather hazardous, I wish to point out that, when
+confronted with the ‘oddness’ of QT, Heisenberg himself was prepared to admit
+something analogous when he wrote: “The a priori character of the classical con-
+cepts may be similar to that of the forms of behavior that in animal psychology are
+called inherited or innate schemes. It is quite plausible that for some primitive ani-
+mals space and time are different from those of the species man and, above all, may
+not belong to the world independently of man” [22, p. 91].
+    In a series of works on the issue of Emergence, Herbert Feigl, Wilfrid Sellars
+and Paul Meehl [17, 33] introduced a remarkable distinction concerning physical
+language. Precisely: (1) Physical-1: an event, entity or process is physical-1 if it be-
+longs in the coherent and adequate descriptive and explanatory account of our spatio-
+temporal causal world. (2) Physical-2: an event, entity or process is physical-2 if
+it is definable in terms of theoretical primitives adequate to completely describe the
+actual states, though not necessarily the potentialities, of the universe before the ap-
+pearance of life (say, perhaps, our world in the pre-Cambrian period). It is evident
+that although useful for examining the logical structure of the concept of Emergence,
+                                                                                                Found Phys
+
+the physical-2 language is a purely metaphoric instrument in the present case since
+its semantical content is empirically beyond reach in principle.34 It can nevertheless
+be instrumental for some comments on my conjecture. First of all, although we are
+doomed to using the physical-1 language, even in the formulation of a modified QT,
+an implicit use of language physical-2 would be obligatory for the very formulation
+of my conjecture, and the use of ‘inverted commas’ (in ‘b’ and ‘c’) had the very pur-
+pose of hiding this impossibility. Let us denote with SQ and TQ the notions of space
+and time, respectively, which in language physical-2 are the necessarily abstract and
+symbolic precursors of the corresponding concept in our physical-1 scientific image.
+We are assuming that the latter emerge in some way from the former as the concept of
+macroscopic body emerges from its quantum structure. In this sense, ‘spatial’, ‘con-
+tinually’ and ‘macroscopic’ in ‘b’ and ‘c’ above are the physical-2 counterparts of
+what becomes physically-1 describable after the primary reduction has taken place.35
+It should be recognized and stressed that we here have a huge explanatory gap. An
+explanatory gap of some sort, however, is present whenever one tries to lay a bridge
+from the scientific image to subjectivity in any of its forms. The specific philosophical
+content of such explanatory gap, however, is just a matter of dispute. Yet, I will not
+elaborate on this topic further in the present paper.
+
+4.2 The Main Conjecture is Falsifiable: A Possible Negative Experimental Test
+
+Of course, we cannot practically obtain quantum superpositions of macroscopic
+states to put the conjecture to the empirical test. However, an experimental test could
+be imagined if the following situation could be realized. Assume that at the neu-
+ronal or subneuronal level of the central nervous system a perceptual process could
+be triggered by a purely quantum, and sufficiently persistent, coherent superposition
+of different microscopic states36 which, emerging from macroscopic different spatial
+locations, when considered by themselves would be mutually exclusive and would
+give rise to distinguishable spatial perceptions. Such a situation could indeed put the
+conjecture to the test, as we shall presently see. It is very interesting to find that a situ-
+ation of this kind has been proposed in literature [19] and declared37 actually feasible
+by quantum optics techniques. I shall limit myself to the essential, inviting the reader
+to see Ghirardi’s paper [19]. First of all, it is known that the threshold for human vi-
+sual perception is approx 7 photons. According to the accepted physiological knowl-
+edge, this is the only firmly established case in which a truly microscopic system can
+
+34 Imagine that a physical process that occurred on a planet at a distance corresponding in time to our pre-
+Cambrian period had been generated by amplification of a true quantum event and (possibly?) involved a
+physical-2 “macroscopic” superposition. That physical process would be humanly unobservable in prin-
+ciple, yet no differently from to an analogous process that had occurred on a planet at a distance in time of
+four light years.
+35 It is worth noting that it is not by chance that, e.g., in the GRW model, the (real) reduction can be made
+only on spatial observables; a circumstance that enlights the essential role played by space within the
+problematic transition from the shifty quantum level to the classical one. See [18].
+36 Microscopic states here means states describing a few quantum entities (e.g. photons, electrons); see
+later.
+37 I hereby thank prof. Francesco De Martini for an illuminating discussion on the experimental aspects of
+the problem.
+Found Phys
+
+trigger a definite perception directly. We then consider a bunch of say 10 photons
+coming from a definite spatial region A and another bunch of 10 photons coming
+from a macroscopically distinct region B. Each of the two bunches propagate inde-
+pendently at different times towards the eye of a human observer O who will have
+two different perceptions, seeing a luminous spot in A and one in B, even though
+the states refer to microscopic systems. At this point, the experimentalist prepares a
+quantum state which is the coherent superposition of the two states considered and
+which is assumed to persist up to the moment in which O ‘looks’ at it. Using a pho-
+tomultiplier, we can firstly test that the superposition is still there; this is a test that,
+‘making a measurement’, will reduce the superposition into a 50% result of photons
+coming from A or from B. We then replicate the experiment with O replacing the
+photomultiplier. We will have two different possibilities: either (i) O replicates the
+behavior of the photomultiplier seeing a luminous spot in A or a luminous spot in B,
+each with 1/2 probability and reducing the superposition; or, (ii) O will end up with
+a confused spatial perception and unable to distinguish the macroscopically separate
+regions A and B, a result that would prove that O’s neural system does not reduce the
+superposition. The conclusion is that even if case (i) does not obviously constitute per
+sé a proof of the main conjecture, case (ii) will blatantly disprove it. The existential
+and philosophical import of this experience, however, will be incalculably disrupting!
+
+5 Concluding Remarks: A Naturalized Transcendentalism
+
+What results from my conjecture, if sound, is a naturalization of that part of Kant’s
+Transcendental Aesthetics that can survive the Euclidean catastrophe.38 The result is
+a new kind of transcendentalism to which a famous statement by Boltzmann aptly ap-
+plies, namely [25]: “Space can well be transcendental without the axioms being so”.
+It is a benign form of transcendentalism which, unlike Kant’s, is open to include liv-
+ing organisms as entities having an internality and therefore a ‘unity per sé’, whereas
+Kant can only admit a ‘unity’ depending on the human transcendental Self, i.e. organ-
+isms as ‘entia rationis’ like machines.39 Living organisms, however, act immediately
+and ontologically in nature without waiting to be ‘constructed’ by the intellect.
+    Another gain is the understanding of the ontological elusiveness of the concept
+of space. In conclusion, we could rephrase Kant’s fundamental question upon the
+
+38 For the sake of comparison, it is worth recalling here, freely quoting from [34], some well-known Kan-
+tian theses in terms that appear particularly adjusted to my previous quantum argument: (1) space is a pure
+form of perception which we bring to the matter of appearances and impose on it. (2) Only by making
+appearances spatial can we experience them as objective, outer and interrelated, but we make them spa-
+tial without the aid of empirical instruction from the appearances. (3) Appearances come from ‘things in
+themselves’ and what they instruct in us is always a-posteriori; therefore, if space is a priori, it does not
+come from things. (4) Things themselves are not spatial, they are not extended and they have no spatial
+relationship to each other. In conclusion, space is purely a gift of the mind, not of things. It is ideal, not
+real.
+39 See Kant’s frustrated efforts in this direction (‘the phenomenon of a phenomenon’) in Opus Postumum
+(1936–1938) [27].
+                                                                                              Found Phys
+
+synthetic a priori judgments by asking ‘How is QT possible (as a theory of atom-
+ized processes) if our sensible experience presupposes the intuition of the phenome-
+nal continuum as epistemic precondition?’ Answer: ‘QT is possible because—as far
+as we know—it concerns an ontology of abstract entities (Quine) which can be de-
+scribed only in symbolic terms, together (of course) with well-experienced physical
+correspondence rules’. The specific nature of this transcendentalism depends on its
+being generated by a natural process like the suggested primary reduction. Of course,
+in my conjecture, a fundamental role is played by Natural Evolution.
+   From the point of view of QT, the conjecture, if sound, entails that a scheme for
+quantum measurement of the von Neumann type cannot even ‘leave the ground’. As
+a matter of fact, macroscopic apparatuses are continuously being reduced40 so that
+their effectiveness, as measuring quantum devices interacting with the quantum sys-
+tem to be measured, cannot be described by a WPR of entangled states in a Hilbert
+space. In other words, the conjecture supports—on a different basis41 —Bohr’s atti-
+tude concerning the measurement process.42 A quantum theory of measurement, in
+this sense, turns out to be unnecessary and in fact impossible.
+
+Acknowledgements I thank warmly my friends Profs. Mario Casartelli and Antonio Scotti for many
+stimulating discussions.
+
+References
+
+ 1. Agazzi, E.: Temi e Problemi di Filosofia della Fisica. Abete, Roma (1974)
+ 2. Alexander, H. (ed.): The Leibniz-Clarke correspondence. Fourth paper. Manchester University Press,
+    Manchester (1956)
+ 3. Bassi, A., Ghirardi, G.C.: A general argument against the universal validity of the superposition prin-
+    ciple. Phys. Lett. A 275, 373–381 (2000)
+ 4. Bartels, A.: What is spacetime if not a substance? Conclusions from the new Leibnizian argument.
+    In: Mayer, U., Schmidt, H.J. (eds.) Semantical Aspects of Spacetime Theories, pp. 41–51. B.I. Wis-
+    senshaftverlag, Mannheim (1994)
+ 5. Bell, J.S.: Speakable and Unspeakable in Quantum Mechanics: Collected Papers in Quantum Philos-
+    ophy, p. 166. Cambridge University Press, Cambridge (1987)
+ 6. Bell, J.S.: Against ‘Measurement. In: Milled, A. (ed.) Sixty-Two Years of Uncertainty, pp. 17–31.
+    Plenum, New York (1990)
+ 7. Bohr, N.: Discussion with Einstein on epistemological problems in atomic physics. In: Schillp, P.A.
+    (ed.) Albert Einstein, Philosopher-Scientist, p. 199. The Library of Living Philosophers, Evanston
+    (1949)
+ 8. DiSalle, R.: On dynamics, indiscernibility, and spacetime ontology. Br. J. Philos. Sci. 45, 265–287
+    (1994)
+
+40 One should be careful in not misunderstanding this sentence as a nonsensical assertion preventing the
+description of macroscopic bodies as having a quantum structure in terms of molecules, atoms, elementary
+particles etc. Fundamental scientific advancements as the formulations of Bose-Einstein condensation and
+Superfluidity are a impressive vindication of the quantum nature of macroscopic bodies. Their description,
+however, is not a purely quantum one and is based on skilled theoretical treatments which in any case
+involve a semi-classical approximation. So they are not literally ‘macroscopic quantum objects’.
+41 Note that my conjecture is immunized against the critique raised by Shimony [46, Vol. 1] against Bohr’s
+implicit renunciation to the traditional program of mutual support between epistemology and metaphysics.
+42 Note that even the intrinsic distinction between true measurements and ‘measurement-like’ processes
+reinforces Bohr’s attitude.
+Found Phys
+
+ 9. Dorato, M., Pauri, M.: Holism and structuralism in classical and quantum general relativity. In: Rick-
+    les, D., French, S., Saatsi, J.T. (eds.) The Structural Foundations of Quantum Gravity, pp. 121–151.
+    Clarendon, Oxford (2005)
+10. Earman, J.: Was Leibniz a relationist. In: French, P., Wettstein, H. (eds.) Studies in Metaphysics.
+    Midwest Studies in Philosophy, vol. 4. University of Minnesota Press, Minneapolis (1979)
+11. Earman, J.: Why space is not a substance (at least not to first degree). Pac. Philos. Q., 67, 225–244
+    (1986)
+12. Earman, J., Norton, J.: What price spacetime substantivalism? The hole story. Br. J. Philos. Sci. 38,
+    515–525 (1987)
+13. Earman, J.: World Enough and Space-Time. MIT Press, Cambridge (1989)
+14. Einstein, A.: Die Grundlage der allgemeinen Relativitätstheorie. Ann. Phys. 49, 769–822 (1916)
+15. Einstein, A., Podolsky, B., Rosen, N.: Can quantum-mechanical description of physical reality be
+    considered complete?. Phys. Rev. 47, 777 (1935)
+16. Esfeld, M., Lam, V.: Moderate structural realism about spacetime. Synthèse, 160, 27–46 (2006)
+17. Feigl, H.: The ‘Mental’ and the ‘Physical. In: Feigl, H., Scriven, M., Maxwell, G. (eds.) Minnesota
+    Studies in the Philosophy of Science, vol. 2, pp. 370–497. University of Minnesota Press, Minneapolis
+    (1958)
+18. Ghirardi, G.C., Rimini, A., Weber, T.: Unified dynamics for microscopic and macroscopic systems.
+    Phys. Rev. D 34, 470 (1986)
+19. Ghirardi, G.C.: Quantum superpositions and definite perceptions: envisaging new feasible experimen-
+    tal tests. Phys. Lett. A 262(1), 1–4 (1999). Erratum: ibid. 263, 465 (1999)
+20. Ghirardi, G.C.: Does quantum nonlocality irremediably conflict with special relativity? Found. Phys.
+    40, 1379 (2010)
+21. Heisenberg, W.: Atomtheorie und Naturerkenntnis. Mitt. Univ. Bundes, Gött. 16(1), 9–20 (1934)
+22. Heisenberg, W.: Physics and Philosophy. Dover, New York (1958)
+23. Husserl, E.: Ding und Raum: Vorlesungen 1907. Husserliana, vol. 16. Nijhoff, The Hague (1973).
+    Edited by U. Claesges
+24. Janiak, A.: Newton: Philosophical Writings: De Gravitatione. Cambridge University Press, Cam-
+    bridge (2004)
+25. Kahl, R.: Selected Writings of Hermann von Helmholtz. Wesleayan Press, Middletown (1971)
+26. Kant, I.: Kritik der reinen Vernunft. Johann Friedrich Hartknoch, Riga (1781); 2nd edn. 1787. English
+    translation by N.K. Smith: The Critique of Pure Reason. Macmillan, London (1963)
+27. Kant, I.: Opus Postumum, Handschriftlicher Nachlass, vols. VIII, IX. de Gruyter, Berlin (1936–1938).
+    Sez III
+28. Leibniz, G.W.: Specimen dynamicum. In: Gerhardt, C.J. (ed.) Leibnizens Mathematische Schriften,
+    vol. VI, p. 235. Halle (1850–1863)
+29. Leibniz, G.W.: Philosophical Papers and Letters. Reidel, Dordrecht (1956). Edited by L.E. Loemker
+30. Lusanna, L., Pauri, M.: Explaining Leibniz equivalence as difference of non-inertial appearances: dis-
+    solution of the hole argument and physical individuation of point-events. Stud. Hist. Philos. Mod.
+    Phys., 37(4), 692–725 (2006)
+31. Lusanna, L., Pauri, M.: Dynamical emergence of instantaneous 3-spaces in a class of models of gen-
+    eral relativity. In: Petkov, V. (ed.) Relativity and Dimensionality of the World. Springer, Berlin (2007)
+32. Malament, D.: Review of Sklar 1976. J. Philos. 73, 306–323 (1976)
+33. Meehl, P.E., Sellars, W.: The concept of emergence. In: Feigl, H., Scriven, M. (eds.) Minnesota Studies
+    in the Philosophy of Science, vol. I, pp. 239–252, University of Minnesota Press, Minneapolis (1956)
+34. Nerlich, G.: The Shape of Space. Cambridge University Press, London (1976)
+35. Pauri, M., Vallisneri, M.: Ephemeral point-events: is there a last remnant of spatiotemporal objec-
+    tivity? Festschrift in honor of Roberto Torretti on his 70th Birthday. Dialogos, 79, 263–303 (2002).
+    Special Issue
+36. Penrose, R.: The Emperor’s New Mind—Concerning Computers, Minds, and the Laws of Physics.
+    Oxford University Press, New York (1989)
+37. Penrose, R.: The Emperor’s new mind—concerning computers, minds, and the laws of physics. In: Be-
+    havioural and Brain Sciences, vol. 13, pp. 643–705. Cambridge University Press, Cambridge (1990).
+    With Open Peer Commentary by other authors. ‘The nonalgorithmic mind’, author’s response to crit-
+    icisms of the Précis, in Behavioural and Brain Sciences, ibid., 692–705 (1990)
+38. Penrose, R.: Shadows of the Mind—A Search for the Missing Science of Consciousness. Oxford
+    University Press, Oxford (1994)
+39. Peres, A.: Measurement of time by quantum clocks. Am. J. Phys., 48(7), 552 (1980)
+                                                                                                Found Phys
+
+40. Petitot, J.: Continu et objectivité. La bimodalité objective du continu et le platonisme transcendental.
+    In: Salanskis, J.-M., Sinaceur, H. (eds.) Le Labyrinthe du Continu (Colloque de Cerisy). Springer,
+    Berlin (1993)
+41. Prosperi, G.M.: Theory of measurement in quantum mechanics and macroscopic description. Int. J.
+    Theor. Phys. 33, 115 (1994)
+42. Riemann, B.: Über die Hypothesen, welche die geometrie zu grunde liegen. In: Weber, H. (ed.)
+    Gesammelte Mathematische Werken. Dover, New York (1953)
+43. Salecker, H., Wigner, E.P.: Quantum limitations of the measurement of spacetime distances. Phys.
+    Rev. 109, 571 (1958)
+44. Schrödinger, E.: Die gegenwärtige Situation in der Quantemmechanik. Naturwissenschaften 23, 807–
+    812, 823–828, 844–849 (1935). English translation by Trimmer, J.D.: The present situation in Quan-
+    tum Mechanics. Proc. Am. Phillos. Soc. 124, 3–338 (1980)
+45. Shimony, A.: Search for a Naturalistic World View, vol. 1 and vol. 2, pp. 291–309. Cambridge Uni-
+    versity Press, Cambridge (1993)
+46. Shimony, A.: On mentality, quantum mechanics and the actualization of potentialities. In: The Large,
+    the Small and the Human Mind, Reply to Penrose, pp. 144–160. Cambridge University Press, Cam-
+    bridge (1997)
+47. Sklar, L.: Incongruous counterparts, intrinsic features, and the substantiality of space. J. Philos. 71,
+    187–215 (1976)
+48. Stein, H.: Newtonian space-time. Tex. Q. 10, 174–200 (1967)
+49. Stein, H.: Newton’s metaphysics. In: Cohen, I.B., Smith, G.E. (eds.) The Cambridge Companion to
+    Newton, pp. 256–307. Cambridge University Press, Cambridge (2002)
+50. Teller, P.: Space-time as a physical quantity. In: Aichinstein, P., Kagon, M.P. (eds.) Kelvin’s Baltimore
+    Lectures and Modern Theoretical Physics. MIT Press, Cambridge (1987)
+51. Ursin, R., et al.: Entanglement-based quantum communication over 144 K. Nat. Phys. 3, 481–486
+    (2007) www.nature.com/naturephysics
+52. Weyl, H.: Groups, Klein’s Erlangen program. Quantities. In: The Classical Groups, Their Invariants
+    and Representations, 2nd edn. pp. 13–23. Princeton University Press, Princeton (1946). Chap. I, §4
+53. Weyl, H.: Das Kontinuum. Kritische Untersuchungen über die Grundlagen der Analysis. de Gruyter,
+    Berlin (1932)
+54. Wigner, E.P.: Remarks on the mind-body question. In: Good, I.J. (ed.) The Scientist Speculates.
+    Heinemann, London (1961). Reprinted in J.A. Wheeler, W.H. Zurek (eds) Quantum Theory and Mea-
+    surement. Princeton University Press, Princeton (1983)
+

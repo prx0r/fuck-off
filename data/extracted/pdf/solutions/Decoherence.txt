@@ -1,0 +1,1504 @@
+    Decoherence and the Transition
+           from Quantum
+       to Classical—Revisited
+                                                                   Wojciech H. Zurek
+
+
+
+
+            This paper has a somewhat unusual origin and, as a consequence, an unusual struc-
+         ture. It is built on the principle embraced by families who outgrow their dwellings and
+         decide to add a few rooms to their existing structures instead of starting from scratch.
+         These additions usually “show,” but the whole can still be quite pleasing to the eye,
+         combining the old and the new in a functional way.
+            What follows is such a “remodeling” of the paper I wrote a dozen years ago
+         for Physics Today (1991). The old text (with some modifications) is interwoven with
+         the new text, but the additions are set off in boxes throughout this article and serve as a
+         commentary on new developments as they relate to the original. The references appear
+         together at the end.
+            In 1991, the study of decoherence was still a rather new subject, but already at that
+         time, I had developed a feeling that most implications about the system’s “immersion”
+         in the environment had been discovered in the preceding 10 years, so a review was in
+         order. While writing it, I had, however, come to suspect that the small gaps in the land-
+         scape of the border territory between the quantum and the classical were actually not
+         that small after all and that they presented excellent opportunities for further advances.
+            Indeed, I am surprised and gratified by how much the field has evolved over the last
+         decade. The role of decoherence was recognized by a wide spectrum of practicing
+         physicists as well as, beyond physics proper, by material scientists and philosophers.
+
+
+
+
+2                                                                     Los Alamos Science Number 27 2002
+The study of the predictability sieve, investigations of the interface between
+chaotic dynamics and decoherence, and most recently, the tantalizing glimpses of
+the information-theoretic nature of the quantum have elucidated our understanding
+of the Universe. During this period, Los Alamos has grown into a leading center
+for the study of decoherence and related issues through the enthusiastic participation
+of a superb group of staff members, postdoctoral fellows, long-term visitors, and
+students, many of whom have become long-term collaborators. This group includes,
+in chronological order, Andy Albrecht, Juan Pablo Paz, Bill Wootters, Raymond
+Laflamme, Salman Habib, Jim Anglin, Chris Jarzynski, Kosuke Shizume,
+Ben Schumacher, Manny Knill, Jacek Dziarmaga, Diego Dalvit, Zbig Karkuszewski,
+Harold Ollivier, Roberto Onofrio, Robin Blume-Kohut, David Poulin, Lorenza
+Viola, and David Wallace.
+   Finally, I have some advice to the reader. I believe this paper
+should be read twice: first, just the old text alone; then—and
+only then—on the second reading, the whole thing. I would also
+recommend to the curious reader two other overviews: the draft
+of my Reviews of Modern Physics paper (Zurek 2001a) and
+Les Houches Lectures coauthored with Juan Pablo Paz
+(Paz and Zurek 2001).
+
+
+
+
+Number 27 2002 Los Alamos Science                                                        3
+Decoherence and the Transition from Quantum to Classical—Revisited
+
+
+
+                                                                   Introduction
+
+                                 Quantum mechanics works exceedingly well in all practical applications. No example
+                              of conflict between its predictions and experiment is known. Without quantum physics,
+                              we could not explain the behavior of the solids, the structure and function of DNA,
+                              the color of the stars, the action of lasers, or the properties of superfluids. Yet nearly
+                              a century after its inception, the debate about the relation of quantum physics to the
+                              familiar physical world continues. Why is a theory that seems to account with precision
+                              for everything we can measure still deemed lacking?
+                                 The only “failure” of quantum theory is its inability to provide a natural framework
+                              for our prejudices about the workings of the Universe. States of quantum systems evolve
+                              according to the deterministic, linear Schrödinger equation
+
+                                      d                                                                                (1)
+                                 ih      ψ =Hψ .
+                                      dt
+
+                              That is, just as in classical mechanics, given the initial state of the system and its
+                              Hamiltonian H, one can, at least in principle, compute the state at an arbitrary time.
+                              This deterministic evolution of |ψ〉 has been verified in carefully controlled experiments.
+                              Moreover, there is no indication of a border between quantum and classical at which
+                              Equation (1) would fail (see cartoon on the opener to this article).
+                                  There is, however, a very poorly controlled experiment with results so tangible and
+                              immediate that it has enormous power to convince: Our perceptions are often difficult to
+                              reconcile with the predictions of Equation (1). Why? Given almost any initial condition,
+                              the Universe described by |ψ〉 evolves into a state containing many alternatives that are
+                              never seen to coexist in our world. Moreover, while the ultimate evidence for the choice
+                              of one alternative resides in our elusive “consciousness,” there is every indication that
+                              the choice occurs much before consciousness ever gets involved and that, once made, the
+                              choice is irrevocable. Thus, at the root of our unease with quantum theory is the clash
+                              between the principle of superposition—the basic tenet of the theory reflected in the
+                              linearity of Equation (1)—and everyday classical reality in which this principle appears
+                              to be violated.
+                                  The problem of measurement has a long and fascinating history. The first widely
+                              accepted explanation of how a single outcome emerges from the multitude of potentiali-
+                              ties was the Copenhagen Interpretation proposed by Niels Bohr (1928), who insisted
+                              that a classical apparatus is necessary to carry out measurements. Thus, quantum theory
+                              was not to be universal. The key feature of the Copenhagen Interpretation is the dividing
+                              line between quantum and classical. Bohr emphasized that the border must be mobile so
+                              that even the “ultimate apparatus”—the human nervous system—could in principle be
+                              measured and analyzed as a quantum object, provided that a suitable classical device
+                              could be found to carry out the task.
+                                  In the absence of a crisp criterion to distinguish between quantum and classical,
+                              an identification of the classical with the macroscopic has often been tentatively accepted.
+                              The inadequacy of this approach has become apparent as a result of relatively recent
+                              developments: A cryogenic version of the Weber bar—a gravity-wave detector— must
+                              be treated as a quantum harmonic oscillator even though it may weigh a ton (Braginsky
+                              et al. 1980, Caves et al. 1980). Nonclassical squeezed states can describe oscillations of
+                              suitably prepared electromagnetic fields with macroscopic numbers of photons (Teich
+                              and Saleh 1990). Finally, quantum states associated with the currents of superconducting
+                              Josephson junctions involve macroscopic numbers of electrons, but still they can tunnel
+                              between the minima of the effective potential corresponding to the opposite sense of
+                              rotation (Leggett et al. 1987, Caldeira and Leggett 1983a, Tesche 1986).
+
+
+
+4                                                                                        Los Alamos Science Number 27 2002
+                                                      Decoherence and the Transition from Quantum to Classical—Revisited
+
+
+
+    If macroscopic systems cannot be always safely placed on the classical side of the
+boundary, then might there be no boundary at all? The Many Worlds Interpretation (or
+more accurately, the Many Universes Interpretation), developed by Hugh Everett III with
+encouragement from John Archibald Wheeler in the 1950s, claims to do away with the
+boundary (Everett 1957, Wheeler 1957). In this interpretation, the entire universe is
+described by quantum theory. Superpositions evolve forever according to the Schrödinger
+equation. Each time a suitable interaction takes place between any two quantum systems,
+the wave function of the universe splits, developing ever more “branches.”
+    Initially, Everett’s work went almost unnoticed. It was taken out of mothballs over a
+decade later by Bryce DeWitt (1970) and DeWitt and Neill Graham (1973), who man-
+aged to upgrade its status from “virtually unknown” to “very controversial.” The Many
+Worlds Interpretation is a natural choice for quantum cosmology, which describes the
+whole Universe by means of a state vector. There is nothing more macroscopic than the
+Universe. It can have no a priori classical subsystems. There can be no observer “on the
+outside.” In this universal setting, classicality must be an emergent property of the
+selected observables or systems.
+    At first glance, the Many Worlds and Copenhagen Interpretations have little in
+common. The Copenhagen Interpretation demands an a priori “classical domain” with a
+border that enforces a classical “embargo” by letting through just one potential outcome.
+The Many Worlds Interpretation aims to abolish the need for the border altogether.
+Every potential outcome is accommodated by the ever-proliferating branches of the
+wave function of the Universe. The similarity between the difficulties faced by these two
+viewpoints becomes apparent, nevertheless, when we ask the obvious question, “Why do
+I, the observer, perceive only one of the outcomes?” Quantum theory, with its freedom
+to rotate bases in Hilbert space, does not even clearly define which states of the
+Universe correspond to the “branches.” Yet, our perception of a reality with alterna-
+tives—not a coherent superposition of alternatives—demands an explanation of when,
+where, and how it is decided what the observer actually records. Considered in this
+context, the Many Worlds Interpretation in its original version does not really abolish
+the border but pushes it all the way to the boundary between the physical Universe and
+consciousness. Needless to say, this is a very uncomfortable place to do physics.
+    In spite of the profound nature of the difficulties, recent years have seen a growing con-
+sensus that progress is being made in dealing with the measurement problem, which is the
+usual euphemism for the collection of interpretational conundrums described above. The
+key (and uncontroversial) fact has been known almost since the inception of quantum the-
+ory, but its significance for the transition from quantum to classical is being recognized
+only now: Macroscopic systems are never isolated from their environments. Therefore—as
+H. Dieter Zeh emphasized (1970)—they should not be expected to follow Schrödinger’s
+equation, which is applicable only to a closed system. As a result, systems usually
+regarded as classical suffer (or benefit) from the natural loss of quantum coherence, which
+“leaks out” into the environment (Zurek 1981, 1982). The resulting “decoherence” cannot
+be ignored when one addresses the problem of the reduction of the quantum mechanical
+wave packet: Decoherence imposes, in effect, the required “embargo” on the potential out-
+comes by allowing the observer to maintain records of alternatives but to be aware of only
+one of the branches—one of the “decoherent histories” in the nomenclature of Murray
+Gell-Mann and James Hartle (1990) and Hartle (1991).
+    The aim of this paper is to explain the physics and thinking behind this approach.
+The reader should be warned that this writer is not a disinterested witness to this devel-
+opment (Wigner 1983, Joos and Zeh 1985, Haake and Walls 1986, Milburn and Holmes
+1986, Albrecht 1991, Hu et al. 1992), but rather, one of the proponents. I shall, neverthe-
+less, attempt to paint a fairly honest picture and point out the difficulties as well as the
+accomplishments.
+
+
+
+Number 27 2002 Los Alamos Science                                                                                     5
+Decoherence and the Transition from Quantum to Classical—Revisited
+
+
+
+
+                               Decoherence in Quantum Information Processing
+
+    Much of what was written in the introduction              science of quantum information processing. This last
+    remains valid today. One important development is         development is discussed elsewhere in this issue, so
+    the increase in experimental evidence for the validity    I shall not dwell on it here.
+    of the quantum principle of superposition in various
+    contexts including spectacular double-slit experi-        The application of quantum physics to information
+    ments that demonstrate interference of fullerenes         processing has also transformed the nature of interest
+    (Arndt et al. 1999), the study of superpositions in       in the process of decoherence: At the time of my orig-
+    Josephson junctions (Mooij et al.1999, Friedman et        inal review (1991), decoherence was a solution to the
+    al. 2000), and the implementation of Schrödinger’s        interpretation problem—a mechanism to impose an
+    “kittens” in atom interferometry (Chapman et al.          effective classicality on de facto quantum systems. In
+    1995, Pfau et al. 1994), ion traps (Monroe et al.         quantum information processing, decoherence plays
+    1996) and microwave cavities (Brune et al. 1996).         two roles. Above all, it is a threat to the quantumness
+     In addition to confirming the superposition principle    of quantum information. It invalidates the quantum
+    and other exotic aspects of quantum theory (such as       superposition principle and thus turns quantum com-
+    entanglement) in novel settings, these experiments        puters into (at best) classical computers, negating the
+    allow—as we shall see later—for a controlled              potential power offered by the quantumness of the
+    investigation of decoherence.                             algorithms. But decoherence is also a necessary
+                                                              (although often taken for granted) ingredient in quan-
+    The other important change that influenced the per-       tum information processing, which must, after all, end
+    ception of the quantum-to-classical “border territory”    in a “measurement.”
+    is the explosion of interest in quantum information
+    and computation. Although quantum computers were          The role of a measurement is to convert quantum
+    already being discussed in the 1980s, the nature of the   states and quantum correlations (with their
+    interest has changed since Peter Shor invented his        characteristic indefiniteness and malleability) into
+    factoring algorithm. Impressive theoretical advances,     classical, definite outcomes. Decoherence leads to
+    including the discovery of quantum error correction       the environment-induced superselection (einselection)
+    and resilient quantum computation, quickly followed,      that justifies the existence of the preferred pointer
+    accompanied by increasingly bold experimental for-        states. It enables one to draw an effective border
+    ays. The superposition principle, once the cause of       between the quantum and the classical in straightfor-
+    trouble for the interpretation of quantum theory, has     ward terms, which do not appeal to the “collapse of
+    become the central article of faith in the emerging       the wave packet” or any other such deus ex machina.
+
+
+
+
+                                                         Correlations and Measurements
+
+                                   A convenient starting point for the discussion of the measurement problem and, more
+                                generally, of the emergence of classical behavior from quantum dynamics is the analysis
+                                of quantum measurements due to John von Neumann (1932). In contrast to Bohr, who
+                                assumed at the outset that the apparatus must be classical (thereby forfeiting claims that
+                                quantum theory is universal), von Neumann analyzed the case of a quantum apparatus.
+                                I shall reproduce his analysis for the simplest case: a measurement on a two-state sys-
+                                tem S (which can be thought of as an atom with spin 1/2) in which a quantum two-state
+                                (one bit) detector records the result.
+                                   The Hilbert space HS of the system is spanned by the orthonormal states |↑〉 and |↓〉,
+                                while the states |d↑〉 and |d↓〉 span the HD of the detector. A two-dimensional HD is the
+                                absolute minimum needed to record the possible outcomes. One can devise a quantum
+
+
+
+6                                                                                          Los Alamos Science Number 27 2002
+                                                      Decoherence and the Transition from Quantum to Classical—Revisited
+
+
+
+(a)                                                                                              Figure 1. A Reversible
+                                                                                                 Stern-Gerlach Apparatus
+                                                                                                 The “gedanken” reversible
+                       S                         N                                  S            Stern-Gerlach apparatus in (a)
+                                                                                                 splits a beam of atoms into two
+      A                                                                                    B     branches that are correlated
+                       N                         S       z                          N            with the component of the spin
+                                                                 y                               of the atoms (b) and then
+                                                             x                                   recombines the branches
+                                                                                                 before the atoms leave the
+(b)                                                                                              device. Eugene Wigner (1963)
+                                                                                                 used this gedanken experiment
+                                                                         Detector
+                                                                                                 to show that a correlation
+                                                                     *                           between the spin and the loca-
+                                                                                                 tion of an atom can be
+                                                                                                 reversibly undone. The intro-
+      A                                                                                    B     duction of a one-bit (two-state)
+                                                                                                 quantum detector that changes
+                                                                                                 its state when the atom passes
+                                                                                                 nearby prevents the reversal:
+                                                                                                 The detector inherits the corre-
+                                                                                                 lation between the spin and the
+                                                                                                 trajectory, so the Stern-Gerlach
+                                                                                                 apparatus can no longer undo
+                                                                                                 the correlation. (This illustration was
+                                                                                                 adapted with permission from Zurek
+detector (see Figure 1) that “clicks” only when the spin is in the state |↑〉, that is,           1981.)
+
+
+
+   |↑〉 |d↓〉 → |↑〉 |d↑〉 ,                                                                   (2)
+
+and remains unperturbed otherwise (Zeh 1970, Wigner 1963, Scully et al. 1989).
+   I shall assume that, before the interaction, the system was in a pure state |ψS〉 given by
+
+   |ψS〉 = α|↑〉 + β|↓〉 ,                                                                    (3)
+
+with the complex coefficients satisfying |α|2 + |β|2 = 1. The composite system starts as
+
+   |Φi〉 = |ψS〉|d↓〉 .                                                                       (4)
+
+Interaction results in the evolution of |Φi〉 into a correlated state |Φc〉:
+
+   |Φi〉 = (α|↑〉 + β|↓〉)|d↓〉 ⇒ α|↑〉|d↑〉 + β|↓〉|d↓〉 = |Φc〉 .                                 (5)
+
+This essential and uncontroversial first stage of the measurement process can be accom-
+plished by means of a Schrödinger equation with an appropriate interaction. It might be
+tempting to halt the discussion of measurements with Equation (5). After all, the corre-
+lated state vector |Φc〉 implies that, if the detector is seen in the state |d↑〉, the system is
+guaranteed to be found in the state |↑〉. Why ask for anything more?
+    The reason for dissatisfaction with |Φc〉 as a description of a completed measurement
+is simple and fundamental: In the real world, even when we do not know the outcome of
+a measurement, we do know the possible alternatives, and we can safely act as if only
+one of those alternatives has occurred. As we shall see in the next section, such an
+assumption is not only unsafe but also simply wrong for a system described by |Φc〉.
+    How then can an observer (who has not yet consulted the detector) express his
+ignorance about the outcome without giving up his certainty about the “menu” of the
+
+
+
+Number 27 2002 Los Alamos Science                                                                                                     7
+Decoherence and the Transition from Quantum to Classical—Revisited
+
+
+
+                              possibilities? Quantum theory provides the right formal tool for the occasion: A density
+                              matrix can be used to describe the probability distribution over the alternative outcomes.
+                                 Von Neumann was well aware of these difficulties. Indeed, he postulated (1932) that,
+                              in addition to the unitary evolution given by Equation (1), there should be an ad hoc
+                              “process 1”—a nonunitary reduction of the state vector—that would take the pure, cor-
+                              related state |Φc〉 into an appropriate mixture: This process makes the outcomes inde-
+                              pendent of one another by taking the pure-state density matrix:
+
+                                 ρc = |Φc〉〈Φc| = |α|2|↑〉〈↑||d↑〉〈d↑| + αβ*|↑〉〈↓||d↑〉〈d↓|
+
+                                         + α∗β|↓〉〈↑|d↓〉〈d↑| + |β|2|↓〉〈↓||d↓〉〈d↓| ,                                      (6)
+
+                              and canceling the off-diagonal terms that express purely quantum correlations (entangle-
+                              ment) so that the reduced density matrix with only classical correlations emerges:
+
+                                 ρr = |α|2|↑〉〈↑||d↑〉〈d↑| + |β|2|↓〉〈↓||d↓〉〈d↓| .                                         (7)
+
+                              Why is the reduced ρr easier to interpret as a description of a completed measurement
+                              than ρc? After all, both ρr and ρc contain identical diagonal elements. Therefore, both
+                              outcomes are still potentially present. So what—if anything—was gained at the substan-
+                              tial price of introducing a nonunitary process 1?
+
+
+                                       The Question of Preferred Basis: What Was Measured?
+
+                                 The key advantage of ρr over ρc is that its coefficients may be interpreted as classical
+                              probabilities. The density matrix ρr can be used to describe the alternative states of a
+                              composite spin-detector system that has classical correlations. Von Neumann’s
+                              process 1 serves a similar purpose to Bohr’s “border” even though process 1 leaves all
+                              the alternatives in place. When the off-diagonal terms are absent, one can nevertheless
+                              safely maintain that the apparatus, as well as the system, is each separately in a definite
+                              but unknown state, and that the correlation between them still exists in the preferred
+                              basis defined by the states appearing on the diagonal. By the same token, the identities
+                              of two halves of a split coin placed in two sealed envelopes may be unknown but are
+                              classically correlated. Holding one unopened envelope, we can be sure that the half it
+                              contains is either “heads” or “tails” (and not some superposition of the two) and that the
+                              second envelope contains the matching alternative.
+                                 By contrast, it is impossible to interpret ρc as representing such “classical ignorance.”
+                              In particular, even the set of the alternative outcomes is not decided by ρc! This circum-
+                              stance can be illustrated in a dramatic fashion by choosing α = –β = 1/√2 so that the
+                              density matrix ρc is a projection operator constructed from the correlated state
+
+                                 |Φc〉 = (|↑〉|d↑〉 – |↓〉|d↓〉)/√2 .                                                        (8)
+
+                              This state is invariant under the rotations of the basis. For instance, instead of the eigen-
+                              states of |↑〉 and |↓〉 of σ̂z one can rewrite |Φc〉 in terms of the eigenstates of σ̂x:
+
+                                 |〉 = (|↑〉 + |↓〉)/√2 ,                                                                (9a)
+
+                                 |⊗〉 = (|↑〉 – |↓〉)/√2 .                                                                (9b)
+
+
+
+
+8                                                                                         Los Alamos Science Number 27 2002
+                                                     Decoherence and the Transition from Quantum to Classical—Revisited
+
+
+
+This representation immediately yields
+
+   |Φc〉 = – (|〉|d〉 – |⊗〉|d⊗〉)/√2 ,                                             (10)
+
+   where
+
+   |d〉 = (|d↓〉 – |d↑〉)/√2 and |d⊗〉 = (|d↑〉 + |d↓〉)/√2                           (11)
+
+are, as a consequence of the superposition principle, perfectly “legal” states in the
+Hilbert space of the quantum detector. Therefore, the density matrix
+
+   ρc = |Φc〉〈Φc|
+
+could have many (in fact, infinitely many) different states of the subsystems on the
+diagonal.
+   This freedom to choose a basis should not come as a surprise. Except for the
+notation, the state vector |Φc〉 is the same as the wave function of a pair of maxi-
+mally correlated (or entangled) spin-1/2 systems in David Bohm’s version (1951)
+of the Einstein-Podolsky-Rosen (EPR) paradox (Einstein et al. 1935). And the
+experiments that show that such nonseparable quantum correlations violate Bell’s
+inequalities (Bell 1964) are demonstrating the following key point: The states of
+the two spins in a system described by |Φc〉 are not just unknown, but rather they
+cannot exist before the “real” measurement (Aspect et al. 1981, 1982). We con-
+clude that when a detector is quantum, a superposition of records exists and is a
+record of a superposition of outcomes—a very nonclassical state of affairs.
+
+
+                   Missing Information and Decoherence
+
+    Unitary evolution condemns every closed quantum system to “purity.” Yet, if the
+outcomes of a measurement are to become independent events, with consequences
+that can be explored separately, a way must be found to dispose of the excess infor-
+mation and thereby allow any orthogonal basis—any potential events and their
+superpositions—to be equally correlated. In the previous sections, quantum correla-
+tion was analyzed from the point of view of its role in acquiring information. Here,
+I shall discuss the flip side of the story: Quantum correlations can also disperse
+information throughout the degrees of freedom that are, in effect, inaccessible
+to the observer. Interaction with the degrees of freedom external to the system—
+which we shall summarily refer to as the environment—offers such a possibility.
+    Reduction of the state vector, ρc ⇒ ρr, decreases the information available to
+the observer about the composite system SD. The information loss is needed if
+the outcomes are to become classical and thereby available as initial conditions to
+predict the future. The effect of this loss is to increase the entropy H = –Trρ lgρ
+by an amount
+
+   ∆H = H(ρr) – H(ρc) = – (|α|2 lg|α|2 + |β|2 lg|β|2) .                          (12)
+
+   Entropy must increase because the initial state described by ρc was pure,
+H(ρc) = 0, and the reduced state is mixed. Information gain—the objective of the
+measurement—is accomplished only when the observer interacts and becomes
+correlated with the detector in the already precollapsed state ρr.
+
+
+
+
+Number 27 2002 Los Alamos Science                                                                                    9
+Decoherence and the Transition from Quantum to Classical—Revisited
+
+
+
+                                 To illustrate the process of the environment-induced decoherence, consider a
+                              system S, a detector D, and an environment E. The environment is also a quantum
+                              system. Following the first step of the measurement process—establishment of a
+                              correlation as shown in Equation (5)—the environment similarly interacts and
+                              becomes correlated with the apparatus:
+
+                                 |Φc〉| E0〉 = (α|↑〉|d↑〉 + β|↓〉|d↓〉)| E 0〉 ⇒ α|↑〉|d↑〉| E ↑〉 + β|↓〉|d↓〉| E ↓〉 = |Ψ〉 .      (13)
+
+                                 The final state of the combined SDE “von Neumann chain” of correlated systems
+                              extends the correlation beyond the SD pair. When the states of the environment |Ei〉
+                              corresponding to the states |d↑〉 and |d↓〉 of the detector are orthogonal, 〈Ei|Ei′〉 = δii′,
+                              the density matrix for the detector-system combination is obtained by ignoring (tracing
+                              over) the information in the uncontrolled (and unknown) degrees of freedom
+
+                                 ρDS = TrE |Ψ〉〈Ψ| = Σ i〈Ei|Ψ〉〈Ψ|Ei′〉 = |α|2|↑〉〈↑||d↑〉〈d↑| + |β|2|↓〉〈↓||d↓〉〈d↓| = ρr .   (14)
+
+                                 The resulting ρr is precisely the reduced density matrix that von Neumann called for.
+                              Now, in contrast to the situation described by Equations (9)–(11), a superposition of the
+                              records of the detector states is no longer a record of a superposition of the state of the
+                              system. A preferred basis of the detector, sometimes called the “pointer basis” for obvi-
+                              ous reasons, has emerged. Moreover, we have obtained it—or so it appears—without
+                              having to appeal to von Neumann’s nonunitary process 1 or anything else beyond the
+                              ordinary, unitary Schrödinger evolution. The preferred basis of the detector—or for that
+                              matter, of any open quantum system—is selected by the dynamics.
+                                 Not all aspects of this process are completely clear. It is, however, certain that the
+                              detector–environment interaction Hamiltonian plays a decisive role. In particular, when
+                              the interaction with the environment dominates, eigenspaces of any observable Λ that
+                              commutes with the interaction Hamiltonian,
+
+                                     [Λ, Hint] = 0 ,                                                                    (15)
+
+                              invariably end up on the diagonal of the reduced density matrix (Zurek 1981, 1982).
+                              This commutation relation has a simple physical implication: It guarantees that the
+                              pointer observable Λ will be a constant of motion, a conserved quantity under the evolu-
+                              tion generated by the interaction Hamiltonian. Thus, when a system is in an eigenstate
+                              of Λ, interaction with the environment will leave it unperturbed.
+                                 In the real world, the spreading of quantum correlations is practically inevitable. For
+                              example, when in the course of measuring the state of a spin-1/2 atom (see Figure 1b), a
+                              photon had scattered from the atom while it was traveling along one of its two alterna-
+                              tive routes, this interaction would have resulted in a correlation with the environment
+                              and would have necessarily led to a loss of quantum coherence. The density matrix of
+                              the SD pair would have lost its off-diagonal terms. Moreover, given that it is impossible
+                              to catch up with the photon, such loss of coherence would have been irreversible. As we
+                              shall see later, irreversibility could also arise from more familiar, statistical causes:
+                              Environments are notorious for having large numbers of interacting degrees of freedom,
+                              making extraction of lost information as difficult as reversing trajectories in the
+                              Boltzmann gas.
+
+
+
+
+10                                                                                         Los Alamos Science Number 27 2002
+                                                    Decoherence and the Transition from Quantum to Classical—Revisited
+
+
+
+
+                                    Quantum Discord—A Measure of Quantumness
+
+    The contrast between the density matrices in               tumness: In quantum physics, the state collapses into
+    Equations (6) and (7) is stark and obvious. In particu-    one of the eigenstates of the measured observable.
+    lar, the entanglement between the system and the           Hence, a state of the object is redefined by a measure-
+    detector in ρc is obviously quantum—classical sys-         ment. Thus, the joint entropy can be defined in terms
+    tems cannot be entangled. The argument against the         of the conditional entropy only after the measurement
+    “ignorance” interpretation of ρc still stands. Yet we      used to access, say, D, has been specified. In that
+    would like to have a quantitative measure of how           case,
+    much is classical (or how much is quantum) about the
+    correlations of a state represented by a general density   H |dk〉(S, D) = (H(D) + H(S|D))|dk〉 .
+    matrix. Such a measure of the quantumness of corre-
+    lation was devised recently (Ollivier and Zurek 2002).     This type of joint entropy expresses the ignorance
+    It is known as quantum discord. Of the several closely     about the pair (S, D) after the observable with the
+    related definitions of discord, we shall select one that   eigenstates {|dk〉} has been measured on D. Of course,
+    is easiest to explain. It is based on mutual informa-      H |dk〉(S, D) is not the only way to define the entropy
+    tion—an information-theoretic measure of how much          of the pair. One can also compute a basis-independent
+    easier it is to describe the state of a pair of objects    joint entropy H (S, D), the von Neumann entropy of
+    (S, D) jointly rather than separately. One formula for     the pair. Since these two definitions of joint entropy
+    mutual information I(S:D) is simply                        do not coincide in the quantum case, we can define a
+                                                               basis-dependent quantum discord
+    I(S:D) = H(S) + H(D) – H(S, D),
+                                                               δ |dk〉(S|D) = I – J = (H (D) + H (S|D))|dk〉 – H (S,D)
+    where H(S) and H(D) are the entropies of S and D,
+    respectively, and H(S, D) is the joint entropy of the      as the measure of the extent by which the underlying
+    two. When S and D are not correlated (statistically        density matrix describing S and D is perturbed by a
+    independent),                                              measurement of the observable with the eigenstates
+                                                               {|dk〉}. States of classical objects—or classical corre-
+    H(S, D) = H(S) + H(D),                                     lations—are “objective:” They exist independent of
+                                                               measurements. Hence, when there is a basis {|d̂k〉}
+    and I(S:D) = 0. By contrast, when there is a perfect       such that the minimum discord evaluated for this basis
+    classical correlation between them (for example, two       disappears,
+    copies of the same book), H(S, D) = H(S) = H(D)
+    = I(S:D). Perfect classical correlation implies that,      δ̂ (S|D) = min{|dk〉}(H(S,D) – (H(D) + H(S|D))|dk〉 = 0,
+    when we find out all about one of them, we also know
+    everything about the other, and the conditional            the correlation can be regarded as effectively classical
+    entropy H(S|D) (a measure of the uncertainty about         (or more precisely, as “classically accessible through
+    S after the state of D is found out) disappears.           D”). One can then show that there is a set of probabil-
+    Indeed, classically, the joint entropy H (S, D) can        ities associated with the basis {|dk〉} that can be treat-
+    always be decomposed into, say H (D), which meas-          ed as classical. It is straightforward to see that, when
+    ures the information missing about D, and the condi-       S and D are entangled (for example, ρc = |φc 〉〈φc|),
+    tional entropy H (S|D). Information is still missing       then δ̂ > 0 in all bases. By contrast, if we consider ρr,
+    about S even after the state of D has been deter-          discord disappears in the basis {|d↑〉, |d↓〉} so that the
+    mined: H(S, D) = H(D) + H(S|D). This expression            underlying correlation is effectively classical.
+    for the joint entropy suggests an obvious rewrite of
+    the preceding definition of mutual information into a      It is important to emphasize that quantum discord is
+    classically identical form, namely,                        not just another measure of entanglement but a gen-
+                                                               uine measure of the quantumness of correlations. In
+    J(S:D) = H(S) + H(D) – (H(D) + H(S|D)).                    situations involving measurements and decoherence,
+                                                               quantumness disappears for the preferred set of states
+    Here, we have abstained from the obvious (and per-         that are effectively classical and thus serves as an
+    fectly justified from a classical viewpoint) cancella-     indicator of the pointer basis, which as we shall see,
+    tion in order to emphasize the central feature of quan-    emerges as a result of decoherence and einselection.
+
+
+
+
+Number 27 2002 Los Alamos Science                                                                                          11
+Decoherence and the Transition from Quantum to Classical—Revisited
+
+
+
+                                                          Decoherence: How Long Does It Take?
+
+                                        A tractable model of the environment is afforded by a collection of harmonic oscilla-
+                                    tors (Feynman and Vernon 1963, Dekker 1981, Caldeira and Leggett 1983a, 1983b,
+                                    1985, Joos and Zeh 1985, Paz et al. 1993) or, equivalently, by a quantum field (Unruh
+                                    and Zurek 1989). If a particle is present, excitations of the field will scatter off the parti-
+                                     cle. The resulting “ripples” will constitute a record of its position, shape, orientation,
+                                     and so on, and most important, its instantaneous location and hence its trajectory.
+               ∆x
+                                         A boat traveling on a quiet lake or a stone that fell into water will leave such an
+     χ+                        χ–    imprint on the water surface. Our eyesight relies on the perturbation left by the objects
+                                     on the preexisting state of the electromagnetic field. Hence, it is hardly surprising that
+                         δ
+                                     an imprint is left whenever two quantum systems interact, even when “nobody is
+                                     looking,” and even when the lake is stormy and full of preexisting waves, and the field
+                                     is full of excitations—that is, when the environment starts in equilibrium at some finite
+                                     temperature. “Messy” initial states of the environment make it difficult to decipher the
+Figure 2. A “Schrödinger             record, but do not preclude its existence.
+Cat” State or a Coherent                A specific example of decoherence—a particle at position x interacting with a scalar
+Superposition                       field ϕ (which can be regarded as a collection of harmonic oscillators) through the
+This cat state ϕ (x), the coher-
+                                    Hamiltonian
+ent superposition of two
+Gaussian wave packets of
+Equation (18), could describe          Hint =  x dφ/dt                                                                        (16)
+a particle in a superposition
+of locations inside a Stern-
+Gerlach apparatus (see              has been extensively studied by many, including the investigators just referenced. The
+Figure 1) or the state that         conclusion is easily formulated in the so-called “high-temperature limit,” in which only
+develops in the course of           thermal-excitation effects of the field φ are taken into account and the effect of zero-
+a double-slit experiment.           point vacuum fluctuations is neglected.
+                                       In this case, the density matrix ρ(x, x′) of the particle in the position representation
+The phase between the two
+components has been chosen
+to be zero.
+                                    evolves according to the master equation
+
+
+                            Von Neumann Equation   6444   Relaxation
+                                                               74448              Decoherence
+                              644474448                                      6444      4744448
+                                    i                          ∂    ∂            γ kBT
+                                                 − γ ( x − x′) −                        ( x − x′) 2 ρ ,
+                                                                               2 m
+                                   − [ H , ρ]
+                          .
+                         ρ=                                             ρ −                                                   (17)
+                                    h 24
+                                   14     3                     ∂x ∂x′       144
+                                                                                    2
+                                                                                  h 42444          3
+                               .                   1444        24443
+                              p = −FORCE = ∇V                .
+                                                            p = −γ p         Classical Phase Space
+
+
+                                    where H is the particle’s Hamiltonian (although with the potential V(x) adjusted because
+                                    of Hint), γ is the relaxation rate, kB is the Boltzmann constant, and T is the temperature
+                                    of the field. Equation (17) is obtained by first solving exactly the Schrödinger equation
+                                    for a particle plus the field and then tracing over the degrees of freedom of the field.
+                                        I will not analyze Equation (17) in detail but just point out that it naturally separates
+                                    into three distinct terms, each of them responsible for a different aspect of the effectively
+                                    classical behavior. The first term—the von Neumann equation (which can be derived
+                                    from the Schrödinger equation)—generates reversible classical evolution of the expecta-
+                                    tion value of any observable that has a classical counterpart regardless of the form of ρ
+                                    (Ehrenfest’s theorem). The second term causes dissipation. The relaxation rate γ = η/2m
+                                    is proportional to the viscosity η = 2/2 due to the interaction with the scalar field. That
+                                    interaction causes a decrease in the average momentum and loss of energy. The last term
+                                    also has a classical counterpart: It is responsible for fluctuations or random “kicks” that
+                                    lead to Brownian motion. We shall see this in more detail in the next section.
+
+
+
+12                                                                                               Los Alamos Science Number 27 2002
+                                                      Decoherence and the Transition from Quantum to Classical—Revisited
+
+
+     (a)                                                               (b)
+
+
+
+
+                                                      x1                                                              x1
+                         x                                                             x
+
+
+   For our purposes, the effect of the last term on quantum superpositions is of great-           Figure 3. Evolution of the
+est interest. I shall show that it destroys quantum coherence, eliminating off-diagonal           Density Matrix for the
+terms responsible for quantum correlations between spatially separated pieces of the              Schrödinger Cat State in
+wave packet. It is therefore responsible for the classical structure of the phase space,          Figure 2
+                                                                                                  (a)This plot shows the density
+as it converts superpositions into mixtures of localized wave packets which, in the
+                                                                                                  matrix for the cat state in
+classical limit, turn into the familiar points in phase space. This effect is best illus-         Figure 2 in the position repre-
+trated by an example. Consider the “cat” state shown in Figure 2, where the wave                  sentation ρ(x, x′) = ϕ(x)ϕ*(x).
+function of a particle is given by a coherent superposition of two Gaussians:                     The peaks near the diagonal
+ϕ (x) = (χ+(x) + χ– (x))/21/2 and the Gaussians are                                               (green) correspond to the two
+                                                                                                  possible locations of the parti-
+                                                                                                  cle. The peaks away from the
+                              ∆x  2                                                           diagonal (red) are due to quan-
+                          x ±                                                                  tum coherence. Their existence
+                                2  
+   χ ± ( x ) = x ± ~ exp −              .                                                        and size demonstrate that the
+                             4δ 2                                                        (18)
+                                                                                                  particle is not in either of the
+                                      
+                                                                                                two approximate locations but
+                                                                                                  in a coherent superposition of
+                                                                                                  them. (b) Environment-induced
+    For the case of wide separation (∆x > > δ), the corresponding density matrix                  decoherence causes decay of
+ρ(x, x′) = ϕ (x) ϕ*(x′) has four peaks: Two on the diagonal defined by x = x′, and two            the off-diagonal terms of
+off the diagonal for which x and x′ are very different (see Figure 3). Quantum coherence          ρ(x, x′). Here, the density matrix
+is due to the off-diagonal peaks. As those peaks disappear, position emerges as an                in (a) has partially decohered.
+                                                                                                  Further decoherence would
+approximate preferred basis.
+                                                                                                  result in a density matrix with
+    The last term of Equation (17), which is proportional to (x – x′)2, has little effect on
+                                                                                                  diagonal peaks only. It can then
+the diagonal peaks. By contrast, it has a large effect on the off-diagonal peaks for which        be regarded as a classical
+(x – x′)2 is approximately the square of the separation (∆x)2. In particular, it causes the       probability distribution with an
+
+                                               ( )
+                                                                                                  equal probability of finding the
+                                                  ~ 2γ mk BT h 2 (∆x ) ρ +− = τ D−1ρ + .
+                                             d +−                     2
+off-diagonal peaks to decay at the rate         ρ                                                 particle in either of the loca-
+                                             dt                                                   tions corresponding to the
+It follows that quantum coherence will disappear on a decoherence time scale (Zurek 1984).        Gaussian wave packets.
+
+
+
+              λ  2             h     2
+    τ D ≅ γ −1 dB  = τ R             ,
+                                        
+               ∆x          ∆x 2mk BT 
+                                                                                           (19)
+
+
+where λdB = h/(2mkBT )–1/2 is the thermal de Broglie wavelength. For macroscopic
+objects, the decoherence time τD is typically much less than the relaxation time τR = γ –1.
+
+
+
+Number 27 2002 Los Alamos Science                                                                                                13
+Decoherence and the Transition from Quantum to Classical—Revisited
+
+
+
+                              For a system at temperature T = 300 kelvins with mass m = 1 gram and separation
+                              ∆x = 1 centimeter, the ratio of the two time scales is τD/τR ~ 10–40! Thus, even if the
+                              relaxation rate were of the order of the age of the Universe, ~1017 seconds, quantum
+                              coherence would be destroyed in τD ~ 10–23 second.
+                                  For microscopic systems and, occasionally, even for very macroscopic ones, the deco-
+                              herence times are relatively long. For an electron (me = 10–27 grams), τD can be much
+                              larger than the other relevant time scales on atomic and larger energy and distance scales.
+                              For a massive Weber bar, tiny ∆x (~10–17 centimeter) and cryogenic temperatures sup-
+                              press decoherence. Nevertheless, the macroscopic nature of the object is certainly crucial
+                              in facilitating the transition from quantum to classical.
+
+
+
+                                                          Experiments on Decoherence
+
+                                   A great deal of work on master equations and their derivations in different
+                                   situations has been conducted since 1991, but in effect, most of the results
+                                   described above stand. A summary can be found in Paz and Wojchiech Zurek
+                                   (2001) and a discussion of the caveats to the simple conclusions regarding
+                                   decoherence rates appears in Anglin et al. (1997).
+
+                                   Perhaps the most important development in the study of decoherence is on the
+                                   experimental front. In the past decade, several experiments probing decoher-
+                                   ence in various systems have been carried out. In particular, Michel Brune,
+                                   Serge Haroche, Jean-Michel Raimond, and their colleagues at École Normale
+                                   Supérieure in Paris (Brune et al. 1996, Haroche 1998) have performed a series
+                                   of microwave cavity experiments in which they manipulate electromagnetic
+                                   fields into a Schrödinger-cat-like superposition using rubidium atoms. They
+                                   probe the ensuing loss of quantum coherence. These experiments have con-
+                                   firmed the basic tenets of decoherence theory. Since then, the French scientists
+                                   have applied the same techniques to implement various quantum information-
+                                   processing ventures. They are in the process of upgrading their equipment
+                                   in order to produce “bigger and better” Schrödinger cats and to study their
+                                   decoherence.
+
+                                   A little later, Wineland, Monroe, and coworkers (Turchette et al. 2000) used
+                                   ion traps (set up to implement a fragment of one of the quantum computer
+                                   designs) to study the decoherence of ions due to radiation. Again, theory was
+                                   confirmed, further advancing the status of decoherence as both a key ingredi-
+                                   ent of the explanation of the emergent classicality and a threat to quantum
+                                   computation. In addition to these developments, which test various aspects of
+                                   decoherence induced by a real or simulated “large environment,” Pritchard
+                                   and his coworkers at the Massachusetts Institute of Technology have carried
+                                   out a beautiful sequence of experiments by using atomic interferometry in
+                                   order to investigate the role of information transfer between atoms and
+                                   photons (see Kokorowski et al. 2001 and other references therein). Finally,
+                                   “analogue experiments” simulating the behavior of the Schrödinger equation in
+                                   optics (Cheng and Raymer 1999) have explored some of the otherwise diffi-
+                                   cult-to-access corners of the parameter space.
+
+                                   In addition to these essentially mesoscopic Schrödinger-cat decoherence
+                                   experiments, designs of much more substantial “cats” (for example,
+                                   mirrors in superpositions of quantum states) are being investigated in
+                                   several laboratories.
+
+
+
+
+14                                                                                       Los Alamos Science Number 27 2002
+                                                                 Decoherence and the Transition from Quantum to Classical—Revisited
+
+
+
+                             Classical Limit of Quantum Dynamics
+
+   The Schrödinger equation was deduced from classical mechanics in the Hamilton-
+Jacobi form. Thus, it is no surprise that it yields classical equations of motion when h
+can be regarded as small. This fact, along with Ehrenfest’s theorem, Bohr’s correspon-
+dence principle, and the kinship of quantum commutators with the classical Poisson
+brackets, is part of the standard lore found in textbooks. However, establishing the quan-
+tum–classical correspondence involves the states as well as the equations of motion.
+Quantum mechanics is formulated in Hilbert space, which can accommodate localized
+wave packets with sensible classical limits as well as the most bizarre superpositions.
+By contrast, classical dynamics happens in phase space.
+   To facilitate the study of the transition from quantum to classical behavior, it is con-
+venient to employ the Wigner transform of a wave function ψ(x):
+
+                             ∞                               
+   W ( x , p) =
+                    1
+                   2πh
+                         ∫−∞ e ipy hψ ∗ x + 2y  ψ  x − 2y  dy ,                         (20)
+
+which expresses quantum states as functions of position and momentum.
+   The Wigner distribution W(x, p) is real, but it can be negative. Hence, it cannot be
+regarded as a probability distribution. Nevertheless, when integrated over one of the two vari-
+ables, it yields the probability distribution for the other (for example, ∫ W(x, p)dp = |ψ (x)|2.
+For a minimum uncertainty wave packet, ψ (x) = π –1/4δ –1/2exp{– (x – x0)2/2δ 2 + ip0 x/h},
+the Wigner distribution is a Gaussian in both x and p:
+
+                          
+    W ( x , p) =
+                   1
+                      exp −
+                              ( x − x 0 ) 2 − ( p − p0 ) 2δ 2  .                             (21)
+                   πh           δ2                h2          
+
+    It describes a system that is localized in both x and p. Nothing else that Hilbert space
+has to offer is closer to approximating a point in classical phase space. The Wigner dis-
+tribution is easily generalized to the case of a general density matrix ρ (x, x′):
+
+                          −∞                         y
+   W ( x , p) =          ∫ e
+                    1            ipy h          y
+                                         ρ  x − , x +  dy ,
+                   2πh   −∞                    2     2 
+                                                                                                (22)
+
+where ρ(x, x′) is, for example, the reduced density matrix of the particle discussed before.
+   The phase-space nature of the Wigner transform suggests a strategy for exhibiting
+classical behavior: Whenever W (x, p) represents a mixture of localized wave packets—
+as in Equation (21)—it can be regarded as a classical probability distribution in the
+phase space. However, when the underlying state is truly quantum, as is the superposi-
+tion in Figure 2, the corresponding Wigner distribution function will have alternating
+sign—see Figure 4(a). This property alone will make it impossible to regard the function
+as a probability distribution in phase space. The Wigner function in Figure 4(a) is
+
+
+
+   W ( x , p) ~
+                ( W+ + W−)
+                           +
+                             1      p 2δ 2 x 2 
+                               exp −       −      ⋅ cos
+                                                           ∆x p ,                             (23)
+                         2                  πh       h2       δ 2      h   
+
+where the Gaussians W+ and W – are Wigner transforms of the Gaussian wave packets
+χ+ and χ–. If the underlying state had been a mixture of χ+ and χ– rather than a super-
+position, the Wigner function would have been described by the same two Gaussians
+W+ and W –, but the oscillating term would have been absent.
+
+
+
+Number 27 2002 Los Alamos Science                                                                                               15
+Decoherence and the Transition from Quantum to Classical—Revisited
+
+
+Figure 4. Wigner                            (a)                                               (a′)
+Distributions and Their                   Positive peak       Interference term
+Decoherence for Coherent
+Superpositions                                                                  p
+(a) The Wigner distribution
+W (x, p ) is plotted as a function
+of x and p for the cat state of
+Figure 2. Note the two separate
+                                                                                                                            x
+positive peaks as well as the         Negative contribution             x
+oscillating interference term
+in between them. This distribu-             (b)                                               (b′)
+tion cannot be regarded as a                                                    t = 0.001
+classical probability distribu-                                              p                                           p
+tion in phase space because it
+has negative contributions.
+(b–e) Decoherence produces
+diffusion in the direction of the
+momentum. As a result, the
+negative and positive ripples                                               x                                           x
+of the interference term in
+                                            (c)                                               (c′)
+W (x, p ) diffuse into each other
+and cancel out. This process is                                                 t = 0.02
+almost instantaneous for open
+macroscopic systems. In the
+appropriate limit, the Wigner
+function has a classical
+structure in phase space and
+evolves in accord with the
+equations of classical dynam-               (d)                                               (d′)
+ics. (a′–e′) The analogous
+                                                                                    t = 0.1
+initial Wigner distribution and
+its evolution for a superposi-
+tion of momenta are shown.
+The interference terms disap-
+pear more slowly on a time
+scale dictated by the dynamics
+of the system: Decoherence is               (e)                                               (e′)
+caused by the environment                                                           t = 0.4
+coupling to (that is, monitor-
+ing) the position of the
+system—see Equation(16).
+So, for a superposition of
+momenta, it will start only after
+different velocities move
+the two peaks into different
+locations.                              The equation of motion for W(x, p) of a particle coupled to an environment can be
+                                     obtained from Equation (17) for ρ(x, x′):
+
+                                        ∂W      p ∂       ∂V ∂         ∂          ∂ 2W
+                                            = −      W+         W + 2γ     pW + D 2       ,                                       (24)
+                                         ∂t     m ∂x      ∂x ∂p        ∂p         ∂p
+                                              144424443             14243       12
+                                                                                4 4  3
+                                               Liouville Equation    Friction Decoherence
+
+
+
+                                     where V is the renormalized potential and D = 2mγ kBT = ηkBT. The three terms of this
+                                     equation correspond to the three terms of Equation (17).
+                                        The first term is easily identified as a classical Poisson bracket {H, W}. That is,
+
+
+
+16                                                                                                   Los Alamos Science Number 27 2002
+                                                      Decoherence and the Transition from Quantum to Classical—Revisited
+
+
+
+
+                                                 The Predictability Sieve
+    Since 1991, understanding the emergence of preferred          time, the set of preferred states is reasonably insensitive
+    pointer states during the process of decoherence has          to the precise value of t), one can consider them as good
+    advanced a great deal. Perhaps the most important             candidates for the classical domain. Figure A illustrates
+    advance is the predictability sieve (Zurek 1993, Zurek        an implementation of the predictability sieve strategy
+    et al. 1993), a more general definition of pointer states     using a different, simpler measure of predictability—
+    that obtains even when the interaction with the envi-         purity (Trρ2)—rather than the von Neumann entropy,
+    ronment does not dominate over the self-Hamiltonian           which is much more difficult to compute.
+    of the system. The predictability sieve sifts through
+    the Hilbert space of a system interacting with its envi-                                        –1
+                                                                                                                 Lo
+    ronment and selects states that are most predictable.                                                  0       g
+                                                                                                                    10 Ω
+                                                                                                                         t
+    Motivation for the predictability sieve comes from the                                                           1
+    observation that classical states exist or evolve pre-                                                                              2
+    dictably. Therefore, selecting quantum states that                                                                                  1.0
+    retain predictability in spite of the coupling to the                                                                           0.8
+    environment is the obvious strategy in search of clas-
+                                                                                                                               0.8
+    sicality. To implement the predictability sieve, we
+
+
+
+
+                                                                                                                                    Tr ρ 2
+                                                                                                                              0.8
+    imagine a (continuously infinite) list of all the pure                                                                  0.8
+    states {|ψ〉} in the Hilbert space of the system in                                                                    0.8
+
+
+
+
+                                                                                                                      4
+    question. Each of them would evolve, after a time t,
+    into a density matrix ρ|ψ〉(t). If the system were isolat-
+
+
+
+
+                                                                                                           2
+                                                                                                             s
+
+
+
+
+                                                                                                     0
+    ed, all the density matrices would have the form                                                     g 10
+                                                                                                     Lo
+
+
+
+
+                                                                                              –2
+    ρ|ψ〉(t) = |ψ(t)〉〈ψ(t)| of projection operators, where
+
+
+
+
+                                                                                        –4
+    |ψ(t)〉 is the appropriate solution of the Schrödinger
+    equation. But when the system is coupled to the
+                                                                  Figure A. The Predictability Sieve for the
+    environment (that is, the system is “open”), ρ|ψ〉(t)          Underdamped Harmonic Oscillator
+    is truly mixed and has a nonzero von Neumann                  One measure of predictability is the so-called purity
+    entropy. Thus, one can compute                                Trρ2, which is plotted as a function of time for mix-
+    H(ρ|ψ〉(t)) = –Trρ|ψ〉(t) logρ|ψ〉(t), thereby defining a        tures of minimum uncertainty wave packets in an
+    functional on the Hilbert space HS of the system,             underdamped harmonic oscillator with γ/ω = 10–4. The
+    |ψ〉 → H(|ψ〉, t).                                              wave packets start with different squeeze parameters
+                                                                  s. Trρ2 serves as a measure of the purity of the
+    An obvious way to look for predictable, effectively clas-     reduced density matrix ρ. The predictability sieve
+                                                                  favors coherent states (s = 1), which have the shape
+    sical states is to seek a subset of all {|ψ〉} that minimize   of a ground state, that is, the same spread in position
+    H(|ψ〉, t) after a certain, sufficiently long time t. When     and momentum when measured in units natural for
+    such preferred pointer states exist, are well defined (that   the harmonic oscillator. Because they are the most
+    is, the minimum of the entropy H(|ψ〉,t) differs signifi-      predictable (more than the energy eigenstates), they
+    cantly for pointer states from the average value), and are    are expected to play the crucial role of the pointer
+    reasonably stable (that is, after the initial decoherence     basis in the transition from quantum to classical.
+
+
+
+
+if ρ(x, p) is a familiar classical probability density in phase space, then it evolves
+according to:
+   ∂w    ∂w ∂H ∂w ∂H
+      =−      +      = { H ,w} = Lw                                                          (25)
+   ∂t    ∂x ∂p ∂p ∂x
+
+where L stands for the Liouville operator. Thus, classical dynamics in its Liouville
+form follows from quantum dynamics at least for the harmonic oscillator case,
+which is described rigorously by Equations (17) and (24). (For more general V(x),
+the Poisson bracket would have to be supplemented by quantum corrections of order
+h.) The second term of Equation (24) represents friction. The last term results in the
+diffusion of W(x, p) in momentum at the rate given by D.
+
+
+
+Number 27 2002 Los Alamos Science                                                                                                             17
+           Quantum Chaos and Phase-Space Aspects of the Quantum-Classical Correspondence
+
+Classical mechanics “happens” in phase space. It is
+therefore critically important to show that quantum                           (a)
+theory can—in the presence of decoherence—reproduce
+the basic structure of classical phase space and that it            20
+can emulate classical dynamics. The argument put
+forward in my original paper (1991) has since been
+amply supported by several related developments.
+
+The crucial idealization that plays a key role in classi-
+cal physics is a “point.” Because of Heisenberg’s prin-
+ciple, ∆x ∆p ≥ h/2, quantum theory does not admit                       0
+
+
+
+
+                                                                    p
+states with simultaneously vanishing ∆x and ∆p.
+However, as the study of the predictability sieve has
+demonstrated, in many situations relevant to the classi-
+cal limit of quantum dynamics, one can expect decoher-
+ence to select pointer states that are localized in both
+∆x and ∆p, that is, approximate minimum uncertainty
+wave packets. In effect, these wave packets are a quan-             –20
+                                                                      –6                       0                            6
+tum version of points, which appear naturally in the                                          x
+underdamped harmonic oscillator coupled weakly to the
+environment (Zurek et al. 1993, Gallis 1996). These
+results are also relevant to the transition from quantum
+to classical in the context of field theory with the added
+twist that the kinds of states selected will typically dif-   sions of classically chaotic systems (refer to Figure A).
+fer for bosonic and fermionic fields (Anglin and Zurek        This outcome was expected. In order for the quantum to
+1996) because bosons and fermions tend to couple dif-         classical correspondence to hold, the coherence length
+ferently to their environments. Finally, under suitable       lC of the quantum state must satisfy the following
+circumstances, einselection can even single out energy        inequality: lC = h/(2Dλ)1/2 << χ, where λ is the
+eigenstates of the self-Hamiltonian of the system, thus       Lyapunov exponent, D is the usual coefficient describ-
+justifying in part the perception of “quantum jumps”          ing the rate of decoherence, and χ is the scale on which
+(Paz and Zurek 1999).                                         the potential V(x) is significantly nonlinear:
+
+Quantum chaos provides an intriguing arena for the dis-             V′
+cussion of the quantum-classical correspondence. To             ≅         .
+                                                                    V ′′′
+begin with, classical and quantum evolutions from the
+same initial conditions of a system lead to very different
+phase-space “portraits.” The quantum phase-space por-         When a quantum state is localized on scales small com-
+trait will depend on the particular representation used,      pared to χ (which is the import of the inequality above),
+but there are good reasons to favor the Wigner distribu-      its phase space evolution is effectively classical, but
+tion. Studies that use the Wigner distribution indicate       because of chaos and decoherence, it becomes irre-
+that, at the moment when the quantum-classical corre-         versible and unpredictable. Nevertheless—as argued in
+spondence is lost in chaotic dynamics, even the averages      this volume by Tanmoy Bhattacharya, Salman Habib,
+computed using properties of the classical and quantum        and Kurt Jacobs (on page XX)—one can even recover
+states begin to differ (Karkuszewski et al. 2002).            more or less classical trajectories by modeling a contin-
+                                                              uous measurement. However, this is an extra ingredient
+Decoherence appears to be very effective in restoring         not in the spirit of the decoherence approach as it
+correspondence. This point, originally demonstrated           invokes the measurement process without explaining it.
+almost a decade ago (Zurek and Paz 1994, 1995) has
+since been amply corroborated by numerical evidence           A surprising corollary of this line of argument is the
+(Habib et al. 1998). Basically, decoherence eradicates        realization (Zurek and Paz 1994) that the dynamical
+the small-scale interference accompanying the rapid           second law—entropy production at the scale set by the
+development of large-scale coherence in quantum ver-          dynamics of the system and more or less independent of
+
+
+
+
+18                                                                                      Los Alamos Science Number 27 2002
+                                                                Decoherence and the Transition from Quantum to Classical—Revisited
+
+
+
+
+           (b)                                                                 (c)
+
+
+20                                                                    20
+
+
+
+
+                                                                         0
+
+
+
+
+                                                                     p
+p
+
+
+
+
+    0
+
+
+
+
+–20                                                                  –20
+  –6                             0                          6          –6                          0                          6
+                                 x                                                                 x
+
+
+
+
+        Figure A. Decoherence in a Chaotic Driven Double-Well System
+        This numerical study (Habib et al. 1998) of a chaotic driven double-well system described by the Hamiltonian H = p2/2m – Ax2 +
+        Bx4+ Fx cos(ωt) with m = 1, A = 10, B = 0.5, F = 10, and ω = 6.07 illustrates the effectiveness of decoherence in the transition
+        from quantum to classical. These parameters result in a chaotic classical system with a Lyapunov exponent λ ≅ 0.5. The three
+        snapshots taken after 8 periods of the driving force illustrate phase space distributions in (a) the quantum case, (b) the classical
+        case, and (c) the quantum case but with decoherence (D = 0.025). The initial condition was always the same Gaussian, and in
+        the quantum cases, the state was pure. Interference fringes are clearly visible in (a), which bears only a vague resemblance to
+        the classical distribution in (b). By contrast, (c) shows that even modest decoherence helps restore the quantum-classical corre-
+        spondence. In this example the coherence length lC is smaller than the typical nonlinearity scale, so the system is on the bor-
+        der between quantum and classical. Indeed, traces of quantum interference are still visible in (c) as blue “troughs,” or regions
+        where the Wigner function is still slightly negative. The change in color from red to blue shown in the legends for (a) and (c) cor-
+        responds to a change from positive peaks to negative troughs. In the ab initio classical case (b), there are no negative troughs.
+
+
+        the strength of the coupling to the environment—is a                 This point was to some extent anticipated by the plots of
+        natural and, indeed, an inevitable consequence of deco-              the Wigner functions of Schrödinger cats (see
+        herence. This point has been since confirmed in numeri-              Figures 4a and 4a′ in this article)a version of which
+        cal studies (Miller and Sarkar 1999, Pattanayak 1999,                appeared in the 1991 Physics Today version of this
+        Monteoliva and Paz 2000).                                            paper—the interference term of the Wigner function has
+                                                                             a sub-Planck structure.
+        Other surprising consequences of the study of Wigner
+        functions in the quantum-chaotic context is the realiza-             A lot has happened in establishing phase-space aspects
+        tion that they develop phase space structure on the scale            of quantum-classical correspondence, but a lot more
+        associated with the sub-Planck action a = h2/A << h,                 remains to be done. (A more thorough summary of the
+        where A is the classical action of the system, and that this         past accomplishments and remaining goals can be found
+        Planck action is physically significant (Zurek 2001b).               in Zurek 2001b).
+        This can be seen in Figure A part (a), where a small black
+        square with the area of h is clearly larger than the small-
+        est “ripples” in the image.
+
+
+
+
+        Number 27 2002 Los Alamos Science                                                                                               19
+Decoherence and the Transition from Quantum to Classical—Revisited
+
+
+
+                                  Classical equations of motion are a necessary but insufficient ingredient of the classical
+                              limit: We must also obtain the correct structure of the classical phase space by barring all but
+                              the probability distributions of well-localized wave packets. The last term in Equation (24)
+                              has precisely this effect on nonclassical W(x, p). For example, the Wigner function for the
+                              superposition of spatially localized wave packets—Figure 4(a)—has a sinusoidal modulation
+                              in the momentum coordinate produced by the oscillating term cos((∆x/h)p). This term, how-
+                              ever, is an eigenfunction of the diffusion operator ∂ 2/∂p 2 in the last term of Equation (24).
+                              As a result, the modulation is washed out by diffusion at a rate
+                                                      ∂2 
+                                                      D 2 W 
+                                                                        2 mγ kBT (∆x )
+                                         .                                               2
+                                   −1    W             ∂p     
+                                  τD = −         =                  =                        .
+                                         W               W                    h2
+                                  Negative valleys of W(x, p) fill in on a time scale of order τD, and the distribution
+                              retains just two peaks, which now correspond to two classical alternatives—see Figures 4(a)
+                              to 4(e). The Wigner function for a superposition of momenta, shown in Figure 4(a′), also
+                              decoheres as the dynamics causes the resulting difference in velocities to damp out the
+                              oscillations in position and again yield two classical alternatives—see Figures 4(b′) to 4(e′).
+                                  The ratio of the decoherence and relaxation time scales depends on h2/m—see
+                              Equation (19). Therefore, when m is large and h small, τD can be nearly zero—decoher-
+                              ence can be nearly instantaneous—while, at the same time, the motion of small patches
+                              (which correspond to the probability distribution in classical phase space) in the smooth
+                              potential becomes reversible. This idealization is responsible for our confidence in classi-
+                              cal mechanics, and, more generally, for many aspects of our belief in classical reality.
+                                  The discussion above demonstrates that decoherence and the transition from quantum
+                              to classical (usually regarded as esoteric) is an inevitable consequence of the immersion of
+                              a system in an environment. True, our considerations were based on a fairly specific
+                              model—a particle in a heat bath of harmonic oscillators. However, this is often a reason-
+                              able approximate model for many more complicated systems. Moreover, our key conclu-
+                              sions—such as the relation between the decoherence and relaxation time scales in
+                              Equation (19)—do not depend on any specific features of the model. Thus, one can hope
+                              that the viscosity and the resulting relaxation always imply decoherence and that the tran-
+                              sition from quantum to classical can be always expected to take place on a time scale of
+                              the order of the above estimates.
+
+                                                     Quantum Theory of Classical Reality
+
+                                  Classical reality can be defined purely in terms of classical states obeying classical laws.
+                              In the past few sections, we have seen how this reality emerges from the substrate of quan-
+                              tum physics: Open quantum systems are forced into states described by localized wave
+                              packets. They obey classical equations of motion, although with damping terms and fluctu-
+                              ations that have a quantum origin. What else is there to explain?
+                                  Controversies regarding the interpretation of quantum physics originate in the clash
+                              between the predictions of the Schrödinger equation and our perceptions. I will therefore
+                              conclude this paper by revisiting the source of the problem—our awareness of definite out-
+                              comes. If these mental processes were essentially unphysical, there would be no hope of
+                              formulating and addressing the ultimate question—why do we perceive just one of the
+                              quantum alternatives?—within the context of physics. Indeed, one might be tempted to fol-
+                              low Eugene Wigner (1961) and give consciousness the last word in collapsing the state vec-
+                              tor. I shall assume the opposite. That is, I shall examine the idea that the higher mental
+                              processes all correspond to well-defined, but at present, poorly understood information-pro-
+                              cessing functions that are being carried out by physical systems, our brains.
+
+
+
+20                                                                                               Los Alamos Science Number 27 2002
+                                                       Decoherence and the Transition from Quantum to Classical—Revisited
+
+
+
+    Described in this manner, awareness becomes susceptible to physical analysis. In partic-
+ular, the process of decoherence we have described above is bound to affect the states of the
+brain: Relevant observables of individual neurons, including chemical concentrations and
+electrical potentials, are macroscopic. They obey classical, dissipative equations of motion.
+Thus, any quantum superposition of the states of neurons will be destroyed far too quickly
+for us to become conscious of the quantum “goings on.” Decoherence, or more to the point,
+environment-induced superselection, applies to our own “state of mind.”
+    One might still ask why the preferred basis of neurons becomes correlated with the clas-
+sical observables in the familiar universe. It would be, after all, so much easier to believe in
+quantum physics if we could train our senses to perceive nonclassical superpositions. One
+obvious reason is that the selection of the available interaction Hamiltonians is limited and
+constrains the choice of detectable observables. There is, however, another reason for this
+focus on the classical that must have played a decisive role: Our senses did not evolve for
+the purpose of verifying quantum mechanics. Rather, they have developed in the process in
+which survival of the fittest played a central role. There is no evolutionary reason for per-
+ception when nothing can be gained from prediction. And, as the predictability sieve illus-
+trates, only quantum states that are robust in spite of decoherence, and hence, effectively
+classical, have predictable consequences. Indeed, classical reality can be regarded as nearly
+synonymous with predictability.
+    There is little doubt that the process of decoherence sketched in this paper is an impor-
+tant element of the big picture central to understanding the transition from quantum to clas-
+sical. Decoherence destroys superpositions. The environment induces, in effect, a superse-
+lection rule that prevents certain superpositions from being observed. Only states that sur-
+vive this process can become classical.
+    There is even less doubt that this rough outline will be further extended. Much work
+needs to be done both on technical issues (such as studying more realistic models that could
+lead to additional experiments) and on problems that require new conceptual input (such as
+defining what constitutes a “system” or answering the question of how an observer fits into
+the big picture).
+    Decoherence is of use within the framework of either of the two interpretations: It can
+supply a definition of the branches in Everett’s Many Worlds Interpretation, but it can also
+delineate the border that is so central to Bohr’s point of view. And if there is one lesson to
+be learned from what we already know about such matters, it is that information and its
+transfer play a key role in the quantum universe.
+    The natural sciences were built on a tacit assumption: Information about the universe can
+be acquired without changing its state. The ideal of “hard science” was to be objective and
+provide a description of reality. Information was regarded as unphysical, ethereal, a mere
+record of the tangible, material universe, an inconsequential reflection, existing beyond and
+essentially decoupled from the domain governed by the laws of physics. This view is no
+longer tenable (Landauer 1991). Quantum theory has put an end to this Laplacean dream
+about a mechanical universe. Observers of quantum phenomena can no longer be just pas-
+sive spectators. Quantum laws make it impossible to gain information without changing the
+state of the measured object. The dividing line between what is and what is known to be has
+been blurred forever. While abolishing this boundary, quantum theory has simultaneously
+deprived the “conscious observer” of a monopoly on acquiring and storing information: Any
+correlation is a registration, any quantum state is a record of some other quantum state.
+When correlations are robust enough, or the record is sufficiently indelible, familiar classical
+“objective reality” emerges from the quantum substrate. Moreover, even a minute interaction
+with the environment, practically inevitable for any macroscopic object, will establish such a
+correlation: The environment will, in effect, measure the state of the object, and this suffices
+to destroy quantum coherence. The resulting decoherence plays, therefore, a vital role in
+facilitating the transition from quantum to classical.
+
+
+
+Number 27 2002 Los Alamos Science                                                                                     21
+Decoherence and the Transition from Quantum to Classical—Revisited
+
+
+                                              The Existential Interpretation
+The quantum theory of classical reality has developed sig-         In particular one can show that the predictability sieve also
+nificantly since 1991. These advances are now collectively         works in this setting (Dalvit et al. 2001).
+known as the existential interpretation (Zurek 2001a). The
+basic difference between quantum and classical states is           The overarching open question of the interpretation of quan-
+that the objective existence of the latter can be taken for        tum physics—the “meaning of the wave function”—appears
+granted. That is, a system’s classical state can be simply         to be in part answered by these recent developments.
+“found out” by an observer originally ignorant of any of           Two alternatives are usually listed as the only conceivable
+its characteristics. By contrast, quantum states are hope-         answers. The possibility that the state vector is purely epis-
+lessly “malleable”—it is impossible in principle for an            temological (that is, solely a record of the observer’s knowl-
+observer to find out an unknown quantum state without              edge) is often associated with the Copenhagen Interpretation
+perturbing it. The only exception to this rule occurs when         (Bohr 1928). The trouble with this view is that there is no
+an observer knows beforehand that the unknown state is             unified description of the Universe as a whole: The classical
+one of the eigenstates of some definite observable. Then           domain of the Universe is a necessary prerequisite, so both
+and only then can a nondemolition measurement                                classical and quantum theory are necessary and
+(Caves et al. 1980) of that observable be                                         the border between them is, at best, ill-defined.
+devised such that another observer who                                               The alternative is to regard the state vector
+knew the original state would not notice                                               as an ontological entity—as a solid
+any perturbations when making a con-                                                    description of the state of the Universe
+firmatory measurement.                                                                    akin to the classical states. But in this
+                                                                                          case (favored by the supporters of
+                                                          
+If the unknown state cannot be found                                                      Everett’s Many Worlds Interpretation),
+out—as is indeed the case for isolated                                                   everything consistent with the universal
+                                                        
+quantum systems—then one can make a                                                      state vector needs to be regarded as
+                                                         
+persuasive case that such states are sub-                                               equally “real.”
+jective, and that quantum state vectors are                
+                                                            
+merely records of the observer’s knowledge                                          The view that seems to be emerging from
+about the state of a fragment of the Universe                                     the theory of decoherence is in some sense
+(Fuchs and Peres 2000). However, einselection is                              somewhere in between these two extremes.
+capable of converting such malleable and “unreal”                       Quantum state vectors can be real, but only when the
+quantum states into solid elements of reality. Several ways to     superposition principle—a cornerstone of quantum behav-
+argue this point have been developed since the early discus-       ior—is “turned off” by einselection. Yet einselection is
+sions (Zurek 1993, 1998, 2001a). In effect, all of them rely       caused by the transfer information about selected observ-
+on einselection, the emergence of the preferred set of pointer     ables. Hence, the ontological features of the state
+states. Thus, observers aware of the structure of the              vectors—objective existence of the einselected states—is
+Hamiltonians (which are “objective,” can be found out with-        acquired through the epistemological “information transfer.”
+out “collateral damage”, and in the real world, are known
+well enough in advance) can also divine the sets of preferred      Obviously, more remains to be done. Equally obviously,
+pointer states (if they exist) and thus discover the preexisting   however, decoherence and einselection are here to stay. They
+state of the system.                                               constrain the possible solutions after the quantum–classical
+                                                                   transition in a manner suggestive of a still more radical view
+One way to understand this environment-induced objective           of the ultimate interpretation of quantum theory in which
+existence is to recognize that observers—especially human          information seems destined to play a central role. Further
+observers—never measure anything directly. Instead, most           speculative discussion of this point is beyond the scope of
+of our data about the Universe is acquired when information        the present paper, but it will be certainly brought to the fore
+about the systems of interest is intercepted and spread            by (paradoxically) perhaps the most promising applications
+throughout the environment. The environment preferentially         of quantum physics to information processing. Indeed,
+records the information about the pointer states, and hence,       quantum computing inevitably poses questions that probe
+only information about the pointer states is readily available.    the very core of the distinction between quantum and classi-
+This argument can be made more rigorous in simple mod-             cal. This development is an example of the unpredictability
+els, whose redundancy can be more carefully quantified             and serendipity of the process of scientific discovery:
+(Zurek 2000, 2001a).                                               Questions originally asked for the most impractical of
+                                                                   reasons—questions about the EPR paradox, the quantum-
+This is an area of ongoing research. Acquisition of informa-       to-classical transition, the role of information, and the
+tion about the systems from fragments of the environment           interpretation of the quantum state vector—have become
+leads to the so-called conditional quantum dynamics, a sub-        relevant to practical applications such as quantum cryptogra-
+ject related to quantum trajectories (Carmichael 1993).            phy and quantum computation.
+
+
+22                                                                                              Los Alamos Science Number 27 2002
+                                                                Decoherence and the Transition from Quantum to Classical—Revisited
+
+
+                                         Acknowledgments
+
+   I would like to thank John Archibald Wheeler for many inspiring and enjoyable
+discussions on “the quantum” and Juan Pablo Paz for the pleasure of a long-standing
+collaboration on the subject.
+
+
+                                          Further Reading
+Albrecht, A., 1992. Investigating Decoherence in a Simple System. Phys. Rev. D 46 (12): 5504.
+Anglin, J. R., and W. H. Zurek. 1996. Decoherence of Quantum Fields: Pointer States and Predictability.
+    Phys. Rev. D 53 (12): 7327.
+Anglin, J. R., J. P. Paz, and W. H. Zurek. 1997. Deconstructing Decoherence. Phys. Rev. A 55 (6): 4041.
+Arndt, M., O. Nairz, J. VosAndreae, C. Keller, G. van der Zouw, A. Zeilinger. 1999. Wave-Particle Duality of
+    C-60 Molecules. Nature 401 (6754): 680.
+Aspect, A., J. Dalibard, and G. Roger. 1982. Experimental Test of Bell’s Inequalities Using Time-Varying
+    Analyzers. Phys. Rev. Lett. 49: 1804.
+Aspect, A., P. Grangier, and G. Rogier. 1981. Experimental Tests of Realistic Local Theories via Bell’s
+    Theorem. Phys. Rev. Lett. 47: 460.
+Bell. J. S. 1964. On the Einstein Podolsky Rosen Paradox. Physics 1: 195.
+Bohm, D. 1951. In Quantum Theory. Chap. 22, p. 611. Englewood Cliffs, NJ: Prentice Hall.
+Bohr, N. 1928. The Quantum Postulate and Recent Development of Atomic Theory. Nature 121: 580.
+    Reprinted in Quantum Theory and Measurement. Edited by Wheeler, J. A., and W. H. Zurek. Princeton,
+    NJ: Princeton University Press.
+Braginsky, V. B., Y. I. Vorontsov, and K. S. Thorne. 1980. Quantum Nondemolition Measurements. Science 209: 547.
+Brune, M., E. Hagley, J. Dreyer, X. Maitre, C. Wunderlich, J. M. Raimond, and S. Haroche. 1996.
+    Observing the Progressive Decoherence of the “Meter” in a Quantum Measurement. Phys. Rev. Lett.
+    77: 4887.
+Caldeira, A. O., and A. J. Leggett. 1983a. Path Integral Approach to Quantum Brownian Motion. Physica A.
+    121: 587.
+———. 1983b. Quantum Tunneling in a Dissipative System. Ann. Phys. (N. Y.) 149 (2): 374.
+———. 1985. Influence of Damping on Quantum Interference: An Exactly Soluble Model. Phys. Rev. A 31:
+    1059.
+Carmichael, H. J. 1993. An Open Systems Approach to Quantum Optics. Berlin: Springer Verlag.
+Caves, C. M., K. S. Thorne, R. W. P. Drewer, V. D. Sandberg, and M. Zimmerman. 1980. On the Measurement
+    of a Weak Classical Force Coupled to a Quantum-Mechanical Oscillator. 1. Issues of Principle.
+    Rev. Mod. Phys. 52: 341.
+Chapman, M. S., T. D. Hammond, A. Lenef, J. Schmiedmayer, R. A. Rubenstein, E. Smith , and D. E.
+    Pritchard. 1995. Photon Scattering from Atoms in an Atom Interferometer. Phys. Rev. Lett. 75 (21): 3783.
+Cheng, C. C., and M. G. Raymer. 1999. Long-Range Saturation of Spatial Decoherence in Wave-Field
+    Transport in Random Multiple-Scattering Media. Phys. Rev. Lett. 82 (24): 4807.
+Dalvit, D. A. R., J. Dziarmaga, W. H. Zurek. 2001. Unconditional Pointer States from Conditional Master
+    Equations. Phys. Rev. Lett. 86 (3): 373.
+Dekker, H. 1981. Classical and Quantum Mechanics of the Damped Harmonic Oscillator. Phys. Rep. 80: 1.
+DeWitt, B. S. 1970. Quantum Mechanics and Reality. Phys. Today 23: 30.
+DeWitt, B. S., and N. Graham, eds. 1973. The Many-Worlds Interpretation of Quantum Mechanics. Princeton:
+    Princeton University Press.
+Einstein, A., B. Podolsky, and N. Rosen. 1935. Can Quantum-Mechanical Description of Physical Reality Be
+    Considered Complete? Phys. Rev. 47: 777.
+Everett III, H. 1957. “Relative State” Formulation of Quantum Mechanics. Rev. Mod. Phys. 29: 454.
+Feynman, R. P., and F. L.Vernon. 1963. The Theory of a General Quantum System Interacting with a Linear
+    Dissipative System. Ann. Phys. 24: 118.
+Friedman, J. R., V. Patel, W. Chen, S. K. Tolpygo, and J. E. Lukens. 2000. Quantum Superposition of Distinct
+    Macroscopic States. Nature 406 (6791): 43.
+Fuchs, C. A., and A. Peres. 2000. Quantum Theory Needs No “Interpretation”. Phys. Today 53 (3): 70.
+Gallis, M. R. 1996. Emergence of Classicality via Decoherence Described by Lindblad Operators. Phys. Rev.
+    A 53 (2): 655.
+Gell-Mann, M., and J. B. Hartle. 1990. Quantum Mechanics in the Light of Quantum Cosmology. In
+    Complexity, Entropy, and the Physics of Information. p. 425. Edited by W. H. Zurek. Redwood City:
+    Addison-Wesley.
+Griffiths, R. B. 1984. Consistent Histories and the Interpretation of Quantum Mechanics. J. Stat. Phys. 36:
+    219.
+
+
+
+
+Number 27 2002 Los Alamos Science                                                                                              23
+Decoherence and the Transition from Quantum to Classical—Revisited
+
+
+                              Haake, F., and D. F. Walls. 1986. In Quantum Optics IV. Edited by J. D. Harvey, and D. F. Walls. Berlin:
+                                  Springer Verlag.
+                              Habib, S., K. Shizume, and W. H. Zurek. 1998. Decoherence, Chaos, and the Correspondence Principle.
+                                  Phys. Rev. Lett. 80 (20): 4361.
+                              Haroche, S. 1998. Entanglement, Mesoscopic Superpositions and Decoherence Studies with Atoms and
+                                  Photons in a Cavity. Physica Scripta T76: 159.
+                              Hartle, J. B. 1991. The Quantum Mechanics of Cosmology. In Quantum Cosmology and Baby Universes:
+                                  Proceedings of the 1989 Jerusalem Winter School. Edited by S. Coleman, J. B. Hartle, T. Piran, and
+                                  S. Weinberg. Singapore: World Scientific.
+                              Hu, B. L., J. P. Paz, and Y. Zhang. 1992. Quantum Brownian Motion in a General Environment: Exact Master
+                                  Equation with Nonlocal Dissipation and Colored Noise. Phys. Rev. D 45: 2843.
+                              Joos, E., and H. D. Zeh. 1985. The Emergence of Classical Properties Through Interaction with the
+                                  Environment. Z. Phys. B 59: 223.
+                              Karkuszewski, Z. P., J. Zakrzewski, and W. H. Zurek. 2002. Breakdown of Correspondence in Chaotic
+                                  Systems: Ehrenfest Versus Localization Times. Phys. Rev. A 65 (4): 042113.
+                              Kokorowski, D. A., A. D. Cronin, T. D. Roberts, and D. E. Pritchard. 2001. From Single-to Multiple-Photon
+                                  Decoherence in an Atom Interferometer. Phys. Rev. Lett. 86 (11): 2191.
+                              Landauer, R. 1991. Information is Physical. Phys. Today 44 (5): 23.
+                              Leggett, A. J., S. Chakravarty, A. T. Dorsey, M. P. A. Fisher, A. Garg, and W. Zwerger. 1987. Dynamics of
+                                  the Dissipative System. Rev. Mod. Phys. 59: 1.
+                              Milburn, G. J., and C. A. Holmes. 1986. Dissipative Quantum and Classical Liouville Mechanics of the
+                                  Unharmonic Oscillator. Phys. Rev. Lett. 56: 2237.
+                              Miller, P. A., and S. Sarkar. 1999. Signatures of Chaos in the Entanglement of Two Coupled Quantum Kicked
+                                  Tops. Phys. Rev. E 60: 1542.
+                              Monroe, C., D. M. Meekhof, B. E. King, and D. J. Wineland. 1996. A “Schrodinger Cat” Superposition State
+                                  of an Atom. Science 272 (5265): 1131.
+                              Monteoliva, D., and J. P. Paz. 2000. Decoherence and the Rate of Entropy Production in Chaotic Quantum
+                                  Systems. Phys. Rev. Lett. 85 (16): 3373.
+                              Mooij, J. E., T. P. Orlando, L. Levitov, L. Tian, C. H. van der Wal, and S. Lloyd. 1999. Josephson Persistent-
+                                  Current Qubit. Science 285 (5430): 1036.
+                              Myatt, C. J., B. E. King, Q. A. Turchette, C. A. Sackett, D. Kielpinski, W. M. Itano, et al. 2000. Decoherence
+                                  of Quantum Superpositions Through Coupling to Engineered Reservoirs. Nature 403: 269.
+                              Ollivier, H., and W. H. Zurek. 2002. Quantum Discord: A Measure of the Quantumness of Correlations.
+                                  Phys. Rev. Lett. 88 (1): 017901.
+                              Omnès, R. 1990. From Hilbert Space to Common Sense. Ann. Phys. 201: 354.
+                              ———. 1992. Consistent Interpretation of Quantum Mechanics. Rev. Mod. Phys. 64: 339.
+                              Pattanayak, A. K. 1999. Lyapunov Exponents Entropy Production and Decoherence. Phys. Rev. Lett. 83 (22):
+                                  4526.
+                              Paz, J. P., and W. H. Zurek. 1993. Environment-Induced Decoherence, Classicality, and Consistency of
+                                  Quantum Histories. Phys. Rev. D 48 (6): 2728.
+                              ———. 1999. Quantum Limit of Decoherence: Environment Induced Superselection of Energy Eigenstates.
+                                  Phys. Rev. Lett. 82 (26): 5181.
+                              ———. 2001. In Coherent Atomic Matter Waves, Les Houches Lectures. Edited by R. Kaiser, C. Westbrook,
+                                  and F. Davids. Vol. 72, p. 533. Berlin: Springer.
+                              Paz, J. P., S. Habib, and W. H. Zurek. 1993. Reduction of the Wave Packet: Preferred Observable and
+                                  Decoherence Time Scale. Phys. Rev. D 47: 488.
+                              Pfau, T., S. Spälter, Ch. Kurtsiefer, C. R. Ekstrom, and J. Mlynek. 1994. Loss of Spatial Coherence by a
+                                  Single Spontaneous Emission. Phys. Rev. Lett. 73 (9): 1223.
+                              Scully, M. O., B. G. Englert, and J. Schwinger. 1989. Spin Coherence and Humpty-Dumpty. III. The Effects of
+                                  Observation. Phys. Rev. A 40: 1775.
+                              Teich, M. C., and B. E. A. Saleh. 1990. Squeezed and Antibunched Light. Phys. Today 43 (6): 26.
+                              Tesche, C. D. 1986. Schroedinger’s Cat: A Realization in Superconducting Devices. Ann. N. Y. Acad. Sci.
+                                  480: 36.
+                              Turchette, Q. A., C. J. Myatt, B. E. King, C. A. Sackett, D. Kielpinski, W. M. Itano, et al. 2000. Decoherence
+                                  and Decay of Motional Quantum States of a Trapped Atom Coupled to Engineered Reservoirs.
+                                  Phys. Rev. A 62: 053807.
+
+
+
+
+24                                                                                                  Los Alamos Science Number 27 2002
+                                                              Decoherence and the Transition from Quantum to Classical—Revisited
+
+
+Unruh, W. G., and W. H. Zurek. 1989. Reduction of a Wave Packet in Quantum Brownian Motion.
+   Phys. Rev. D.40:1071.
+Von Neumann, J. 1932. Mathematische Grundlagen der Quanten Mechanik. Berlin: Springer-Verlag. English
+   translation by R. T. Beyer. 1955. Mathematical Foundations of Quantum Mechanics. Princeton:
+   Princeton University Press.
+Wheeler, J. A. 1957. Assessment of Everett’s “Relative State” Formulation of Quantum Theory.
+   Rev. Mod. Phys. 29: 463.
+Wheeler, J. A., and W. H. Zurek, eds. 1983. Quantum Theory and Measurement. Princeton: Princeton
+   University Press.
+Wigner, E. P. 1932. On the Quantum Correction for Thermodynamic Equilibrium. Phys. Rev. 40: 749.
+———. 1961. Remarks on the Mind-Body Question. In The Scientist Speculates. p. 284. Edited by I. J. Good.
+   London: Heineman.
+———. 1963. The Problem of Measurement. Am. J. Phys. 31: 615.
+———. 1983. In Quantum Optics, Experimental Gravitation, and the Measurement Theory. Edited by
+   P. Meystre, and M. O. Scully. p. 43. New York: Plenum Press.                                                Wojciech Hubert Zurek was
+Zeh, H. D. 1970. On the Interpretation of Measurement in Quantum Theory. Found. Phys. 1: 69.                   educated in Kraków, in his native
+Zurek, W. H. 1981. Pointer Basis of Quantum Apparatus: Into What Mixture Does the Wave Packet Collapse?        Poland (M. Sc., 1974) and in Austin,
+   Phys. Rev. D 24: 1516.                                                                                      Texas (Ph. D. in physics, 1979).
+———. 1982. Environment-Induced Superselection Rules. Phys. Rev. D 26: 1862.                                    He was a Richard Chace Tolman
+———. 1984. Reduction of the Wave Packet: How Long Does It Take? In Frontiers of Nonequilibrium                 Fellow at the California Institute
+   Statistical Physics. Edited by P. Meystre, and M. O. Scully. New York : Plenum.                             of Technology and a J. Robert
+———. 1991. Decoherence and the Transition From Quantum to Classical. Phys. Today 44 (10): 36.                  Oppenheimer Fellow at the
+———. 1993. Preferred States, Predictability, Classicality, and the Environment-Induced Decoherence.            Los Alamos National Laboratory.
+   Prog. Theor. Phys. 89 (2): 281.                                                                             In 1996, Wojciech was selected as
+———. 1998. Decoherence, Chaos, Quantum-Classical Correspondence, and the Algorithmic Arrow of Time.            a Los Alamos National Laboratory
+   Physica Scripta T76: 186.                                                                                   Fellow. He is a Foreign Associate
+———.2000. Einselection and Decoherence from an Information Theory Perspective. Ann. Phys. (Leipzig)            of the Cosmology Program of the
+   9 (11–12): 855.                                                                                             Canadian Institute of Advanced
+———. 2001a. Decoherence, Einselection, and the Quantum Origins of the Classical. http://eprints.lanl.gov.      Research and the founder of the
+   quant-ph/0105127                                                                                            Complexity, Entropy, and Physics
+———. 2001b. Sub-Planck Structure in Phase Space and its Relevance for Quantum Decoherence.                     of Information Network of the
+   Nature 412: 712.                                                                                            Santa Fe Institute. His research
+Zurek, W. H., and J. P. Paz. 1994. Decoherence, Chaos, and the Second Law. Phys. Rev. Lett. 72 (16): 2508.     interests include decoherence,
+———. 1995. Quantum Chaos: A Decoherent Definition. Physica D 83 (1–3): 300.                                    physics of quantum and classical
+Zurek, W. H., S. Habib, and J. P. Paz. 1993. Coherent States via Decoherence. Phys. Rev. Lett. 70 (9): 1187.   information, foundations of statisti-
+                                                                                                               cal and quantum physics and
+                                                                                                               astrophysics.
+
+
+
+
+Number 27 2002 Los Alamos Science                                                                                                               25
+

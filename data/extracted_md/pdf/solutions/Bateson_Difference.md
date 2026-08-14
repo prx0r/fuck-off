@@ -1,0 +1,483 @@
+# Steps to an Ecology of Mind                  449
+
+**source:** pdf · **section:** solutions
+**file:** Bateson_Difference
+---
+
+                                                                   are still unable to think clearly about the relations between an
+                                                                   organism and its environment. What sort of a thing is this,
+                                                                   which we call "organism plus environment"?
+                                                                      Let us go back to the original statement for which Korzyb-
+                                                                   sld is most famous—the statement that the map is not the
+                                                                   territory. This statement came out of a very wide range of
+                                                                  philosophic thirikrng, going back to Greece, and wriggling
+                                                                  through the history of European thought over the last 2000
+                                                                  years. In this history, there has been a sort of rough dichot-
+                                                                  omy and often deep controversy. There has been a violent
+          Form, Substance, and Difference*                        enmity and bkodshed. It all starts, I suppose, with the
+                                                                  Pythagoreans versus their predecessors, and the argument
+                                                                  took the shape of "Do you ask what it's made of—earth,
+                                                                  fire, water, etc?" Or do you ask, "What is its pattern?''
+   Let me say that it is an extraordinary honor to be here        Pythagoras stood for inquiry into pattern rather than inquiry
+tonight, and a pleasure. I am a little frightened of you all,     into substance.1 That controversy has gone through the ages,
+because I am sure there are people here who know every            and the Pythagorean half of it has, until recently, been on
+field of knowledge that I have touched much better than I         the whole the submerged half. The Gnostics follow the
+know it. It is true that I have touched a number of fields, and   Pythagoreans, and the alchemists follow the Gnostics, and
+I probably can face any one of you and say I have touched a       so on. The argument reached a sort of climax at the end of
+field that you have not touched. But I am sure that for every     the eighteenth century when a Pythagorean evolutionary
+field I have touched, there are people here who are much          theory was built and then discarded—a theory which in-
+more expert than I. I am not a well-read philosopher, and         volved Mind.
+philosophy is not my business. I am not a very well-read
+anthropologist, and anthropology is not exactly my business.         The evolutionary theory of the late eighteenth century,
+                                                                  the Lamarckian theory, which was the first organized trans-
+   But I have tried to do something which Korzybsld was           forrnist theory of evolution, was built out of a curious his-
+very much concerned with doing, and with which the whole          torical background which has been described by Lovejoy in
+semantic movement has been concerned, namely, I have              The Great Chain of Being. Before Lamarck, the organic
+studied the area of impact between very abstract and formal       world, the living world, was believed to be hierarchic in
+philosophic thought on the one hand and the natural history       structure, with Mind at the top. The chain, or ladder, went
+of man and other creatures on the other. This overlap be-         down through the angels, through men, through the apes,
+tween formal premises and actual behavior is, I assert, of        down to the infusoria or protozoa, and below that to the
+quite drearlful importance today. We face a world which is        plants and stones.
+threatened not only with disorganization of many kinds, but
+                                                                     What Lamarck did was to turn that chain upside down.
+also with the destruction of its environment, and we, today,
+                                                                  He observed that animals changed under environmental pres-
+                                                                  sure. He was incorrect, of course, in believing that those
+            *This was the Nineteenth Annual Korzybski Memorial    changes were inherited, but in any case, these changes were
+         Lecture, delivered January 9, 1970, under the auspices
+         of the Institute of General Semantics. It is here re-    for him the evidence of evolution. When he turned the lad-
+         printed from the General Semantics Bulletin, No. 37,
+                                                                             1
+         1970, by permission of the Institute of General Seman-               R . G. Collingwood has given a clear account of the
+         tics.                                                             Pythagorean position in Tht lata of Nature, Oxford,
+                              448                                          1945.
+450             Steps to an Ecology of Mind                                         Steps to an Ecology of Mind
+der upside down, what had been the explanation, namely,               crucial and around which the theory was set up «
+the Mind at the top, now became that which had to be                  the breeding individual or the family line or Mi.
+explained. His problem was to explain Mind. He was con-               species or some similar homogeneous set of conspeciliiv Now
+vinced about evolution, and there his interest in it stopped.         I suggest that the last hundred years have demolish
+So that if you read the Philosophic Zoologique (1809), you            empirically that if an organism or aggregate of organiimi
+will find that the first third of it is devoted to solving the       sets to work with a focus on its own survival and thinks that
+problem of evolution and the turning upside down of the              that is the way to select its adaptive moves, its "progress"
+taxonomy, and the rest of the book is really devoted to com-         ends up with a destroyed environment. If the organism ends
+parative psychology, a science which he founded. Mind was            up destroying its environment, it has in fact destroyed itself.
+what he was really interested in. H e had used habit as one          And we may very easily see this process carried to its
+of the axiomatic phenomena in his theory of evolution, and           ultimate reductio ad absurdum in the next twenty years.
+this of course also took him into the problem of comparative         The unit of survival is not the breeding organism, or the
+psychology.                                                          family line, or the society.
+   Now mind and pattern as the explanatory principles which,            The old unit has already been partly corrected by the
+above all, required investigation were pushed out of biologi-        population geneticists. They have insisted that the evolution-
+cal thinking in the later evolutionary theories which were           ary unit is, in fact, not homogeneous. A wild population
+developed in the mid-nineteenth century by Darwin, Huxley,          of any species* consists always of individuals whose genetic
+etc. There were still some naughty boys, like Samuel Butler,        constitution varies widely. In other words, potentiality and
+who said that mind could not be ignored in this way—but             readiness for change is already built into the survival unit.
+they were weak voices, and incidentally, they never looked          The heterogeneity of the wild population is already one-
+at organisms. I don't think Butler ever looked at anything          half of that trial-and-error system which is necessary for
+except his own cat, but he still knew more about evolution          dealing with environment.
+than some of the more conventional thinkers.
+                                                                        The artificially homogenized populations of man's domestic
+   Now, at last, with the discovery of cybernetics, systems         animals and plants are scarcely fit for survival.
+theory, information theory, and so on, we begin to have a              And today a further correction of the unit is necessary.
+formal base enabling us to think about mind and enabling us         The flexible environment must also be included along with
+to think about all these problems in a way which was totally        the flexible organism because, as I have already said, the
+heterodox from about 1850 through to World War II. What             organism which destroys its environment destroys itself. The
+I have to talk about is how the great dichotomy of episte-          unit of survival is a flexible organism-in-its-environment.
+mology has shifted under the impact of cybernetics and
+                                                                       Now, let me leave evolution for a moment to consider
+information theory.
+                                                                   what is the unit of mind. Let us go back to the map and
+   We can now say—or at any rate, can begin to say—what            the territory and ask: "What is it in the territory that gets
+we think a mind is. In the next twenty years there will be         onto the map?" We know the territory does not get onto the
+other ways of saying it and, because the discoveries are           map. That is the central point about which we here are all
+new, I can only give you my personal version. The old ver-         agreed. Now, if the territory were uniform, nothing would
+sions are surely wrong, but which of the revised pictures will     get onto the map except its boundaries, which are the points
+survive, we do not know.                                           at which it ceases to be uniform against some larger
+                                                                   matrix. What gets onto the map, in fact, is difference, be it
+   Let us start from the evolutionary side. It is now em-
+                                                                   a difference in altitude, a difference in vegetation, a dif-
+pirically clear that Darwinian evolutionary theory contained
+                                                                   ference in population structure, difference in surface, or what-
+a very great error in its identification of the unit of survival   ever. Differences are the things that get onto a map.
+under natural selection. The unit which was believed to be
+                                                                       But what is a difference? A difference is a very peculiar
+452            Steps to an Ecology of Mind
+                                                                                   Steps to an Ecology of Mind                  453
+and obscure concept. It is certainly not a thing or an event.
+                                                                     which they try to build theories about psychology and be-
+This piece of paper is different from the wood of this lec-
+                                                                     havior—that entire Procrustean structure—is non-sense. It is
+tern. There are many differences between them—of color,              in error.
+texture, shape, etc. But if we start to ask about the localiza-
+                                                                        I suggest to you, now, that the word "idea," in its most
+tion of those differences, we get into trouble. Obviously the
+                                                                     elementary sense, is synonymous with "difference." Kant, in
+difference between the paper and the wood is not in the              the Critique of Judgment—if I understand him correctly—
+paper; it is obviously not in the wood; it is obviously not In       asserts that the most elementary aesthetic act is the selection
+the space between them, and it is obviously not in the              of a fact. He argues that in a piece of chalk there are an
+time between them. (Difference which occurs across time is          infinite number of potential facts. The Ding an sich, the piece
+what we call "change.")                                             of chalk, can never enter into communication or mental pro-
+   A difference, then, is an abstract matter.                       cess because of this infinitude. The sensory receptors cannot
+   In the hard sciences, effects are, in general, caused by         accept it; they filter it out. What they do is to select certain
+rather concrete conditions or events—impacts, forces, and so        facts out of the piece of chalk, which then become, in mod-
+forth. But when you enter the world of communication, or-           ern terminology, information.
+ganization, etc., you leave behind that whole world in
+                                                                       I suggest that Kant's statement can be modified to say
+which effects are brought about by forces and impacts and
+                                                                    that there is an infinite number of differences around and
+energy exchange. You enter a world in which "effects"—             within the piece of chalk. There are differences between the
+and I am not sure one should still use the same word—are           chalk and the rest of the universe, between the chalk and the
+brought about by differences. That is, they are brought            sun or the moon. And within the piece of chalk, there is for
+about by the sort of "thing" that gets onto the map from the       every molecule an infinite number of differences between its
+territory. This is difference.                                     location and the locations in which it might have been. Of
+   Difference travels from the wood and paper into my retina.      this infinitude, we select a very limited number, which be-
+It then gets picked up and worked on by this fancy piece           come information. In fact, what we mean by information—the
+of computing machinery in my head.                                 elementary unit of information—is a difference which makes
+   The whole energy relation is different. In the world of         a difference, and it is able to make a difference because the
+mind, nothing—that which is not—can be a cause. In the            neural pathways along which it travels and is continually
+hard sciences, we ask for causes and we expect them to             transformed are themselves provided with energy. The path-
+exist and be "real." But remember that zero is different from     ways are ready to be triggered. We may even say that
+one, and because zero is different from one, zero can be a         the question is already implicit in them.
+cause in the psychological world, the world of communica-              There is, however, an important contrast between most of
+tion. The letter which you do not write can get an angry
+                                                                  the pathways of information inside the body and most of the
+reply; and the income tax form which you do not fill in can
+                                                                  pathways outside it. The' differences between the paper
+trigger the Internal Revenue boys into energetic action, be-
+cause they, too, have their breakfast, lunch, tea, and dinner     and the wood are first transformed into differences in the
+and can react with energy which they derive from their            propagation of light or sound, and travel in this form to my
+metabolism. The letter which never existed is no source of        sensory end organs. The first part of their journey is ener-
+energy.                                                           gized in the ordinary hard-science way, from "behind." But
+                                                                  when the differences enter my body by triggering an end
+   It follows, of course, that we must change our whole way       organ, this type of travel is replaced by travel which is
+of thinking about mental and communicational process. The         energized at every step by the metabolic energy latent in
+ordinary analogies of energy theory which people borrow
+                                                                  the protoplasm which receives the difference, recreates or
+from the herd sciences to provide a conceptual frame upon
+                                                                  transforms it, and passes it on.
+                                                                                           Steps to an Ecology of Mind                   455
+454              Steps to an Ecology of Mind
+                                                                                                          8
+    When I strike the head of a nail with a hammer, an im-                  maps of maps, ad infixutum. All "phenomena" are literally
+                                                                            "appearances."
+pulse is transmitted to its point. But it is a semantic error,
+                                                                               Or we can follow the chain forward. I receive various
+a misleading metaphor, to say that what travels in an axon is               sorts of mappings which I call data or information. Upon
+an "impulse." It could correctly be called "news of a dif-                  receipt of these I act. But my actions, my muscular con-
+ference."                                                                   tractions, are transforms of differences in the input material.
+    Be that as it may, this contrast between internal and ex-               And I receive again data which are transforms of my actions.
+ternal pathways is not absolute. Exceptions occur on both                   We get thus a picture of the mental world which has some-
+sides of the line. Some external chains of events are ener-                 how jumped loose from our conventional picture of the phys-
+gized by relays, and some chains of events internal to the                  ical world.
+body are energized from "behind." Notably, the mechanical                      This is not new, and for historic background we go again
+ interaction of muscles can be used as a computational model. 2             to the alchemists and Gnostics. Carl Jung once wrote a very
+     In spite of these exceptions, it is still broadly true that            curious little book, which I recommend to all of you. It is
+ the coding and transmission of differences outside the body                called Septem Sermones ad Mortuos, Seven Sermons to the
+ is very different from the coding and transmission inside, and             Dead. 4 In his Memoirs, Dreams and Reflections, Jung tells
+ this difference must be mentioned because it can lead us into              us that his house was full of ghosts, and they were noisy.
+ error. We commonly think of the external "physical world"                  They bothered him, they bothered his wife, and they both-
+ as somehow separate from an internal "mental world." I be-                 ered the children. In the vulgar jargon of psychiatry, we
+ lieve that this division is based on the contrast in coding and            might say that everybody in the house was as psychotic as
+  transmission inside and outside the body.                                 hooty owls, and for quite good reason. If you get your
+     The mental world—the mind—the world of information                     epistemology confused, you go psychotic, and Jung was going
+  processing—is not limited by the skin.                                    through an epistemological crisis. So he sat down at his desk
+      Let us now go back to the notion that the transform of                and picked up a pen and started to write. When he started
+                                                                            to write the ghosts all disappeared, and he wrote this little
+  a difference traveling in a circuit is an elementary idea. If
+                                                                            book. From this he dates all his later insight. He signed it
+  this be correct, let us ask what a mind is. We say the map is
+                                                                            "Basilides," who was a famous Gnostic in Alexandria in the
+  different from the territory. But what is the territory? Opera-            second century.
+  tionally, somebody went out with a retina or a measuring
+   stick and made representations which were then put upon                    He points out that there are two worlds. W e might call
+   paper. What is on the paper map is a representation of
+                                                                                        * Or we may spell the matter out and say that at every
+   what was in the retinal representation of the man who made                        step, as a difference is transformed and propagated
+   the map; and as you push the question back, what you find                         along its pathway, the embodiment of the difference be-
+   is an infinite regress, an infinite series of maps. The territory                 fore the step is a "territory" of which the embodiment
+   never gets in at all. The territory is Ding an sick and you                       after the step is a "map." The map-territory relation ob-
+                                                                                     tains at every step.
+   can't do anything with it. Always the process of representa-                         * Written in 1916, translated by H. G. Baynes and pri-
+   tion will filter it out so that the mental world is only maps of                  vately circulated in 1925. Republished by Stuart & Wat-
+                * It is interesting to note that digital computers depend            kins, London, and by Random House, 1961. In later
+             upon transmission of energy "from behind" to send                       work, Jung seems to have lost the clarity of the Seven
+             "news" along wire from one relay to the next. But each                  Sermons. In his "Answer to Job," the archetypes are
+             relay has its own energy source. Analogic computers,                    said to be "pleromatic." It is surely true, however, that
+             e.g., tide machines and the like, are commonly entirely                 constellations of ideas may seem subjectively to resem-
+             driven by energy ''from behind." Either type of energi-                 ble "forces" when their ideational character is unrecog-
+              zation can be used for computational purposes.                         nized.
+456            Steps to an Ecology of Mind                                         Steps to an Ecology of Mind                 457
+them two worlds of explanation. H e names them the pleroma         ences which can activate some sense organ. For him, any such
+and the creatura, these being Gnostic terms. The pleroma is         difference is "negative entropy."
+the world in which events are caused by forces and impacts             Or consider the phenomenon which the neurophysiologists
+and in which there are no "distinctions." Or, as I would say,      call "synaptic summation." What is observed is that in cer-
+no "differences." In the creatura, effects are brought about       tain cases, when two neurons, A and B, have synaptic connec-
+precisely by difference. In fact, this is the same old dichotomy   tion to a third neuron, C, the firing of neither neuron by it-
+between mind and substance.                                        self is sufficient to fire C; but that when both A and B fire
+   We can study and describe the pleroma, but always the           simultaneously (or nearly so), their combined "impulses" will
+distinctions which we draw are attributed by us to the              cause C to         fire.      *-
+pleroma. The pleroma knows nothing of difference and dis-              In pleromatic language, this combining of events to sur-
+tinction; it contains no "ideas" in the sense in which I am        mount a threshold is called "summation."
+using the word. When we study and describe the creatura,              But from the point of view of the student of creatura (and
+we must correctly identify those differences which are ef-         the neurophysiologist must surely have one foot in the ple-
+fective within it.                                                 roma and the other in creatura), this is not summation at all.
+   I suggest that "pleroma" and "creatura" are words which         What happens is that the system operates to create dif-
+we could usefully adopt, and it is therefore worthwhile to         ferences. There are two differentiated classes of firings by A:
+look at the bridges which exist between these two "worlds."        those firings which are accompanied by B and those which
+It is an oversimplification to say that the "hard sciences" deal   are unaccompanied. Similarly there are two classes of firings
+only with the pleroma and that the sciences of the mind
+ deal only with the creatura. There is more to it than that.          The so-called "summation," when both fire, is not an ad-
+    First, consider the relation between energy and negative       ditive process from this point of view. It is the formation of
+ entropy. The classical Camot heat engine consists of a cylin-     a logical product—a process of fractionation rather than sum-
+ der of gas with a piston. This cylinder is alternately placed     mation.
+ in contact with a container of hot gas and with a container          The creatura is thus the world seen as mind, wherever
+ of cold gas. The gas in the cylinder alternately expands          such a view is appropriate. And wherever this view is ap-
+ and contracts as it is heated or cooled by the hot and cold       propriate, there arises a species of complexity which is ab-
+ sources. The piston is thus driven up and down.                   sent from pleromatic description: creatural description is al-
+    But with each cycle of the engine, the difference be-          ways luerarchic.
+ tween the temperature of the hot source and that of the              I have said that what gets from territory to map is trans-
+ cold source is reduced. When this difference becomes zero,        forms of difference and that these (somehow selected) dif-
+ the engine will stop.                                             ferences are elementary ideas.
+    The physicist, describing the pleroma, will write equations       But there are differences between differences. Every ef-
+ to translate the temperature difference into "available ener-     fective difference denotes a demarcation, a line of classifica-
+ gy," which he will call "negative entropy," and will go on        tion, and all classification is hierarchic. In other words, dif-
+ from there.                                                       ferences are themselves to be differentiated and classified.
+                                                                   In this context I will only touch lightly on the matter of
+   The analyst of the creatura will note that the whole sys-
+                                                                   classes of difference, because to carry the matter further
+tem is a sense organ which is triggered by temperature dif-
+                                                                   would land us in problems of Principle Mathematica.
+ference. He will call this difference which makes a difference
+                                                                      Let me invite you to a psychological experience, if only to
+"information" or "negative entropy." For him, this is only a
+                                                                   demonstrate the frailty of the human computer. First note
+special case in which the effective difference happens to be
+                                                                   that differences in texture are different (a) from differ-
+a matter of energetics. He is equally interested in all differ-
+                                                                   ences in color. Now note that differences in size are different
+458             Steps to an Ecology of Mind                                         Steps to an Ecology of Mind                 459
+(o) from differences in shape. Similarly ratios are different         cerned with differences in the cut face of the tree, differ-
+(c) from subtractive differences.                                     ences in the retina of the man, differences in his central
+   Now let me invite you, as disciples of Korzybski, to define        nervous system, differences in his efferent neural messages,
+the differences between "different (a)," "different ( b ) , " and     differences in the behavior of his muscles, differences in how
+"different ( c ) " in the above paragraph.                            the axe flies, to the differences which the axe then makes
+   The computer in the human head boggles at the task.               on the face of the tree. Our explanation (for certain pur-
+   But not all classes of difference are as awkward to handle.       poses) will go round and round that circuit. In principle,
+   One such class you are all familiar with. Namely, the class       if you want to explain or understand anything in human
+of differences which are created by the process of trans-            behavior, you are always dealing with total circuits, completed
+formation whereby the differences immanent in the territory          circuits. This is the elementary cybernetic thought.
+become differences immanent in the map. In the corner of                The elementary cybernetic system with its messages in
+every serious map you will find these rules of transformation        circuit is, in fact, the simplest unit of mind; and the trans-
+spelled out—usually in words. Within the human mind, it is           form of a difference traveling in a circuit is the elementary
+absolutely essential to recognize the differences of this class,    idea. More complicated systems are perhaps more worthy to
+and, indeed, it is these that form the central subject matter        be called mental systems, but essentially this is what we are
+of "Science and Sanity."                                            talking about. The unit which shows the characteristic of
+    An hallucination or a dream image fs surely a transforma-        trial and error will be legitimately called a mental system.
+tion of something. But of what? And by what rules of trans-             But what about "me"? Suppose I am a blind man, and I
+formation?                                                          use a stick. I go tap, tap, tap. Where do I start? Is my mental
+    Lastly there is that hierarchy of differences which biolo-      system bounded at the handle of the stick? Is ,it bounded by
+ gists call "levels." I mean such differences as that between a     my skin? Does it start halfway up the stick? Does it start at
+cell and a tissue, between tissue and organ, organ and or-          the tip of the stick? But these are nonsense questions. The
+ ganism, and organism and society.                                  stick is a pathway along which transforms of difference are
+ • These are the hierarchies of units or Gestalten, in which        being transmitted. The way to delineate the system is to
+ each subunit is a part of the unit of next larger scope. And,      draw the limiting line in such a way that you do not cut any
+ always in biology, this difference or relationship which I call    of these pathways in ways which leave things inexplicable.
+ "part of" is such that certain differences in the part have        If what you are trying to explain is a given piece of be-
+ informational effect upon the larger unit, and vice versa          havior, such as the locomotion of the blind man, then, for
+    Having stated this relationship between biological part and     this purpose, you will need the street, the stick, the man;
+ whole, I can now go on from the notion of creatura as Mind         the street, the stick, and so on, round and round.
+ in general to the question of what is a mind.                         But when the blind man sits down to eat his lunch, his
+    What do I mean by "my" mind?                                    stick and its messages will no longer be relevant—if it is his
+    I suggest that the delimitation of an individual mind must      eating that you want to understand.
+ always depend upon what phenomena we wish to under-                   And in addition to what I have said to define the in-
+ stand or explain. Obviously there are rots of message path-
+                                                                    dividual mind, I think it necessary to include the relevant
+ ways outside the skin, and these and the messages which
+ they carry must be included as part of the mental system           parts of memory and data "banks." After all, the simplest
+ whenever they are relevant.                                        cybernetic circuit can be said to have memory of a dynamic
+    Consider a tree and a man and an axe. We observe that           kind—not based upon static storage but upon the travel of
+ the axe flies through the air and makes certain sorts of           information around the circuit. The behavior of the governor
+ gashes in a pre-existing cut in the side of the tree. If now       of a steam engine at Time 2 is partly determined by what it
+ we want to explain this set of phenomena, we shall, be con-        did at Time 1—where the interval between Time 1 and
+460            Steps to an Ecology of Mind                                           Steps to an Ecology of Mind                461
+Time 2 is that time necessary for the information to complete        contrast, informational or entropic ecology deals with the
+the circuit.                                                         budgeting of pathways and of probability. The resulting bud-
+    W e get a picture, then, of mind as synonymous with              gets are fractionating (not subtractive). The boundaries
+cybernetic system—the relevant total information-processing,         must enclose, not cut, the relevant pathways.
+trial-and-error completing unit. And we know that within                Moreover, the very meaning of "survival" becomes dif-
+Mind in the widest sense there will be a hierarchy of sub-           ferent when we stop talking about the survival of something
+                                                                     bounded by the skin and start to trunk of the survival of the
+systems, any one of which we can call an individual mind.
+                                                                     system of ideas in circuit. The contents of the sldh are
+     But this picture is precisely the same as the picture which
+                                                                     randomized at death and the pathways within the skin are
+ I arrived at in discussing the unit of evolution. I believe that
+                                                                     randomized. But the ideas, under further transformation,
+ this identity is the most important generalization which I
+                                                                     may go on out in the world in books or works of art. Socrates
+ have to offer you tonight.
+                                                                     as a bioenergetic individual is dead. But much of him still
+      In considering units of evolution, I argued that you have
+                                                                     lives as a component in the contemporary ecology of ideas. 6
+ at each step to include the completed pathways outside the
+                                                                        It is also clear that theology becomes changed and per-
+ protoplasmic aggregate, be it DNA-in-fhe-cell, or cell-in-fhe-
+                                                                     haps renewed. The Mediterranean religions for 5000 years
+ body, or body-in-the-enviromnent. The hierarchic structure is
+                                                                     have swung to and fro between immanence and transcen-
+  not new. Formerly we talked about the breeding individual
+                                                                     dence. In Babylon the gods were transcendent on the tops
+  or the family line or the taxon, and so on. Now each step
+                                                                     of hills; in Egypt, there was god immanent in Pharoah; and
+  of the hierarchy is to be thought of as a system, instead of a
+                                                                     Christianity is a complex combination of these two beliefs.
+  chunk cut off and visualized as against the surrounding
+                                                                        The cybernetic epistemology which I have offered you
+  matrix.
+                                                                     would suggest a new approach. The individual mind is
+       This identity between the unit of mind and the unit of
+                                                                     immanent but not only in the body. It is immanent also in
+  evolutionary survival is of very great importance, not only        pathways and messages outside the body; and there is a
+  theoretical, but also ethical.                                     larger Mind of which the individual mind is only a sub-
+       It means, you see, that I now localize something which I      system. This larger Mind is comparable to God and is per-
+   am calling "Mind" immanent in the large biological system—        haps what some people mean by "God," but it is still im-
+   the ecosystem. Or, if I draw the system boundaries at a dif-      manent in the total interconnected social system and planetary
+   ferent level, then mind is immanent in the total evolutionary     ecology.
+   structure. If this identity between mental and evolutionary
+   units is broadly right, then we face a number of shifts in          Freudian psychology expanded the concept of mind in-
+   our thinking.                                                     wards to include the whole communication system within the
+        First, let us consider ecology. Ecology has currently two    body—the autonomic, the habitual, and the vast range of
+   faces to it: the face which is called bioenergetics—the eco-      unconscious process. What I am saying expands mind out-
+    nomics of energy and materials within a coral reef, a red-       wards. And both of these changes reduce the scope of the
+    wood forest, or a city—and, second, an economics of infor-       conscious self. A certain humility becomes appropriate, tem-
+    mation, of entropy, negentropy, etc. These two do not fit
+    together very well precisely because the units are differently             • For the phrase "ecology of ideas," I am indebted to
+    bounded in the two sorts of ecology. In bioenergetics it is              Sir Geoffrey Vickers' essay "The Ecology of Ideas" in
+    natural and appropriate to think of units bounded at the cell            Value Systems and Social Process, Basic Books, 1968.
+    membrane, or at the skin; or of units composed of sets of                For a more formal discussion of the survival of ideas,
+                                                                             see Gordon Pasks' remarks in Wenner-Gren Conference
+     nonspecific individuals. These boundaries are then the frotv            on "Effects of Conscious Purpose on Human Adaptation,"
+     tiers at which measurements can be made to determine the                1968.
+     additive-subtractive budget of energy for the given unit. In
+462            Steps to an Ecology of Mind                                            Steps to an Ecology of Mind                463
+pered by the dignity or joy of being part of something much                And, quite seriously, I suggest to you that we should
+bigger. A part—if you will—of God.                                      trust no policy decisions which emanate from persons who do
+     If you put God outside and set him vis-a-vis his creation          not yet have that habit.
+and if you have the idea that you are created in his image,                There are experiences and disciplines which may help
+you will logically and naturally see yourself as outside and            me to imagine what it would be like to have this habit of
+against the things around you. And as you arrogate all mind             correct thought. Under LSD, I have experienced, as have
+to yourself, you will see the world around you as mindless              many others, the disappearance of the division between self
+and therefore not entitled to moral or ethical consideration.           and the music to which I was listening. The perceiver and
+The environment will seem to be yours to exploit. Your                  the thing perceived become strangely united into a single
+survival unit will be you and your folks or conspecifics                entity. This state is surely more correct than the state in
+                                                                        which it seems that "I hear the music." The sound, after all,
+against the environment of other social units, other races
+                                                                       is Ding an sich, but my perception of it is a part of mind.
+ and the brutes and vegetables.
+     If this is your estimate of your relation to nature and you           It is told of Johann Sebastian Bach that when somebody
+have an advanced technology, your likelihood of survival                asked him how he played so divinely, he answered, "I play
+will be that of a snowball in hell. You will die either of the •       the notes, in order, as they are written. It is God who makes
+ toxic by-products of your own hate, or, simply, of over-              the music." But not many of'us can claim Bach's correctness
+ population and overgrazing. The raw materials of the world            of epistemology—or that of William Blake, who knew that
+                                                                       the Poetic Imagination was the only reality. The poets have
+ are finite.                                                       ™
+                                                                       known these things all through the ages, but the rest of us
+      If I am right, the whole of our thinking about what we           have gone astray into all sorts of false reifications of the
+ are and what other people are has got to be restructured.             "self" and separations between the "self" and "experience."
+ This is not funny, and I do not know how long we have
+ to do it in. If we continue to operate on the premises that              For me another clue—another moment when the nature
+ were fashionable in the precybernetic era, and which were             of mind was for a moment clear—was provided by the
+  especially underlined and strengthened during the Indus-             famous experiments of Adelbert Ames, Jr. These are optical
+  trial Revolution, which seemed to validate the Darwinian             illusions in depth perception. As Ames' guinea pig, you dis-
+  unit of survival, we may have twenty or thirty years before          cover that those mental processes by which you create the
+  the logical reductio ad absurdum of our old positions de-            world in three-dimensional perspective are within your mind
+  stroys us. Nobody knows how long we have, under the pres-            but totally unconscious and utterly beyond voluntary con-
+  ent system, before some disaster strikes us, more serious            trol. Of course, we all know that this is so—that mind
+  than the destruction of any group of nations. The most im-           creates the images which "we" then see. But still it is a pro-
+  portant task today is, perhaps, to learn to think in the new
+   way. Let me say that I don't know how to think that way.
+                                                                   I   found epistemological shock to have direct experience of
+                                                                       this which we always knew.
+   Intellectually, I can stand here and I can give you a rea-             Please do not misunderstand me. When I say that the
+   soned exposition of this matter; but if I am cutting down a         poets have always known these things or that most of mental
+   tree, I still think "Gregory Bateson" is cutting down the tree.     process is unconscious, I am not advocating a greater use of
+   I am cutting down the tree. "Myself" is to me still an ex-          emotion or a lesser use of intellect. Of course, if what I am
+   cessively concrete object, different from the rest of what I        saying tonight is approximately true, then our ideas about
+   have been calling "mind."                                           the relation between thought and emotion need to be re-
+       The step to realizing—to making habitual—the other way          vised. If the boundaries of the "ego" are wrongly drawn or
+   of thinking—so that one naturally thinks that way when              even totally fictitious, then it may be nonsense to regard
+   one reaches out for a glass of water or cuts down a tree—           emotions or dreams or our unconscious computations of per-
+    that step is not an easy one.                                      spective as "ego-alien."
+464              Steps to an Ecology of Mind                                                Steps to an Ecology of Mind
+      We live in a strange epoch when many psychologists try             of the mind. It is when we recognize the opei
+ to "humanize" their science by preaching an anti-intellectual           creatura in the external world that we are aware of
+ gospel. They might, as sensibly, try to physicalize physics by          or "ugliness." The "primrose by the river's brim" is beautiful
+ discarding the took of mathematics.                                     because we are aware that the combination of dill<i<
+      It is the attempt to separate intellect'from emotion that is       which constitutes its appearance could only be achieved l>v
+ monstrous, and I suggest that it is equally monstrous—and               information processing, i.e., by thought. We recognize an
+ dangerous—to attempt to separate the external mind from                 other mind within our own external mind.
+  the internal. Or to separate mind from body.                              And last, there is death. It is understandable that, in a
+      Blake noted that "A tear is an intellectual thing," and           civilization which separates mind from body, we should
+  Pascal asserted that "The heart has its reasons of which the          either try to forget death or to make mythologies about the
+  reason knows nothing." We need not be put off by the fact             survival of transcendent mind. But if mind is immanent not
+  that the reasonings of the heart (or of the hypothalamus) are         only in those pathways of information which are located in-
+  accompanied by sensations of joy or grief. These computa-             side the body but ako in external pathways, then death
+  tions are concerned with matters which are vital to mam-              takes on a different aspect. The individual nexus of pathways
+  mals, namely, matters of relationship, by which I mean love,          which I call "me" is no longer so precious because that
+  hate, respect, dependency, spectatorship, performance, dom-           nexus is only part of a larger mind.
+  inance, and so on. These are central to the life of any                  The ideas which seemed to be me can also become im-
+  mammal and I see no objection to calling these computations           manent in you. May they survive—if true.
+  "thought," though certainly the units of relational computa-
+   tion are different from the units which we use to compute
+   about isolable things.                                                                    COMMENT ON PART V
+       But there are bridges between the one sort of thought and
+   the other, and it seems to me that the artists and poets are            In the final essay of this part, 'Torm, Substance and Difference,"
+   specifically concerned with these bridges. It is not that art        much of what has been said in earlier parts of the book falk into
+                                                                        place. In sum, what has been said amounts to this: that in addi-
+   is the expression of the unconscious, but rather that it is con-
+                                                                        tion to (and always in conformity with) the familiar physical
+   cerned with the relation between the levels of mental pro-           determinism which characterises our universe, there is a mental
+   cess. From a work of art it may be possible to analyze out           deterrruhism. This mental determinism is in no sense supernatural.
+   some unconscious thoughts of the artist, but I believe that,         Rather it is of the very nature of the macroscopic* world that it
+   for example, Freud's analysis of Leonardo's Virgin on the            exhibit mental characteristics. ' The mental detenninism is not
+   Knees of St. Anne precisely misses the point of the whole           transcendent but immanent and is especially complex and evident
+    exercise. Artistic skill is the combining of many levels of mind   in those sections of the universe which are alive or which include
+   —unconscious, conscious, and external—to make a statement           living things.
+    of their combination. It is not a matter of expressing a single       But so much of occidental toinldng is shaped on the premise
+, level.                                                               of transcendent deity that it is difficult for many people to rethink
+        Similarly, Isadora Duncan, when she said, "If I could say      their theories in terms of immanence. Even Darwin from time to
+    it, I would not have to dance it," was talking nonsense, be-       time wrote about Natural Selection in phrases which almost
+                                                                       ascribed to this process the characteristics of transcendence and
+    cause her dance was about combinations of saying and mov-
+                                                                       purpose.
+    ing.
+        Indeed, if what I have been saying is at all correct, the         * I do not agree with Samuel Butler, Whitehead, or Teilhard de Chardin
+    whole base of aesthetics will need to be re-examined. It           that it follows from this mental character of the macroscopic world that the
+                                                                       single atomies must have mental character or potentiality. I see the mental
+    seems that we link feelings not only to the computations of        as a function only of complex relationship.
+    the heart but also to computations in the external pathways
+466              Steps to an Ecology of Mind
+   It may be worthwhile, therefore, to give an extreme sketch of
+ the difference between the belief in transcendence and that in
+ immanence.
+   Transcendent mind or deity is imagined to be personal and
+ omniscient, and as receiving information by channels separate from
+ the earthly. He sees a species acting in ways which must disrupt
+its ecology and, either in sorrow or in anger, He sends the wars,
+the plagues, the pollution, and the fallout.
+   Immanent mind would achieve the same final result but without
+either sorrow or anger. Immanent mind has no separate and un-
+earthly channels by which to know or act and, therefore, can have
+no separate emotion or evaluative comment. The immanent will
+differ from the transcendent in greater determinism.
+   St. Paul (Galatians VI) said that "God is not mocked," and
+immanent mind similarly is neither vengeful nor forgiving. It is
+of no use to make excuses; the irmnanent mind is not "mocked."        Part VI Crisis in the Ecology
+   But since our minds—and this includes our tools and actions—
+are only parts of the larger mind, its computations can be con-
+fused by our contradictions and confusions. Since it cuntains our              of Mind
+insanity, the immanent mind is inevitably subject to possible in-
+sanity. It is in our power, with our technology, to create insanity
+in the larger system of which we are parts.
+   In the final section of the book, I shall consider some of these
+mentally pathogenic processes.
+

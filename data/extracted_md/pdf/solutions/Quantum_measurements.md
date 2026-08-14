@@ -1,0 +1,123 @@
+# QUANTUM MEASUREMENTS
+
+**source:** pdf · **section:** solutions
+**file:** Quantum_measurements
+---
+
+Art Hobson
+
+Citation: American Journal of Physics 85, 5 (2017); doi: 10.1119/1.4967925
+View online: https://doi.org/10.1119/1.4967925
+View Table of Contents: https://aapt.scitation.org/toc/ajp/85/1
+Published by the American Association of Physics Teachers
+
+ARTICLES YOU MAY BE INTERESTED IN
+
+RICHARD FEYNMAN AND BELL'S THEOREM
+American Journal of Physics 84, 493 (2016); https://doi.org/10.1119/1.4948268
+
+Entanglement isn't just for spin
+American Journal of Physics 85, 812 (2017); https://doi.org/10.1119/1.5003808
+
+The geometry of relativity
+American Journal of Physics 85, 683 (2017); https://doi.org/10.1119/1.4997027
+
+The Quantum Handshake: Entanglement, Nonlocality, and Transactions
+American Journal of Physics 85, 158 (2017); https://doi.org/10.1119/1.4966111
+
+Gauge transformations and conserved quantities in classical and quantum mechanics
+American Journal of Physics 84, 616 (2016); https://doi.org/10.1119/1.4955153
+
+AN APOLOGY FROM THE FORMER ASSOCIATE EDITOR
+American Journal of Physics 85, 405 (2017); https://doi.org/10.1119/1.4981790
+LETTERS TO THE EDITOR
+The downloaded PDF for any Letter in this section contains all the Letters in this section.
+         Letters are selected for their expected interest for our readers. Some letters are sent to reviewers for advice;
+         some are accepted or declined by the editor without review. Letters must be brief and may be edited,
+         subject to the author’s approval of significant changes. Although some comments on published articles and
+         notes may be appropriate as letters, most such comments are reviewed according to a special procedure
+         and appear, if accepted, in the Notes and Discussions section. (See the “Statement of Editorial Policy”
+         at http://ajp.dickinson.edu/edPolicy.html.) Running controversies among letter writers will not be
+         published.
+
+QUANTUM MEASUREMENTS                                       These criticisms have for decades led                    44, 222–230 (2013); M. Schlosshauer, Elegance
+                                                        the quantum foundations community to                        and Enigma: The Quantum Interviews
+   I congratulate Kincaid et al. on their                                                                           (Springer, Berlin, 2011).
+                                                        reject analyses such as that of Kincaid                   4
+                                                                                                                    G. Ghirardi, A. Rimini, and T. Weber, “Unified
+recent article,1 which nicely spells out                et al., and to declare instead that the                     dynamics for microscopic and macroscopic sys-
+the details of the measurement process                  measurement problem has no resolution                       tems,” Phys. Rev. D 34, 470–491 (1986).
+for the important case of the double-slit               within standard quantum theory. The                       5
+                                                                                                                    H. Everett, “Relative state formulation of quan-
+experiment. I was impressed that the                    measurement problem is widely                               tum mechanics,” Rev. Mod. Phys. 29, 454–462
+authors were able to carry out explicit                 regarded as a stumbling block in the                        (1957).
+                                                                                                                  6
+                                                                                                                    D. Bohm, “A suggested interpretation of the
+calculations all the way through.                       foundations of quantum physics.3 This
+                                                                                                                    quantum theory in terms of ‘hidden’ variables, I
+   I agree entirely with the article’s                  circumstance has led to a plethora of                       and II,” Phys. Rev. 85, 166–193 (1952).
+analysis, but it should be noted that the               hypothesized alterations and re-                          7
+                                                                                                                    J. Jauch, Foundations of Quantum Mechanics
+reduced state given in Eq. (11) is con-                 interpretations of the theory, such as the                  (Addison-Wesley, Reading, MA, 1968), pp.
+troversial among quantum foundations                    GRW spontaneous collapse hypothesis,4                       183–191. For an especially clear presentation,
+experts who debate the “quantum mea-                    the many-worlds interpretation,5 and the                    see S. Rinner and E. K. Werner, “On the role of
+                                                                                                                    entanglement in Schrodinger’s cat paradox,”
+surement problem,” which is primarily                   de Broglie/Bohm pilot-wave theory.6                         Cent. Eur. J. Phys. 6, 178–183 (2008).
+the problem of how to think about the                      These criticisms have been leveled                     8
+                                                                                                                    A. Hobson, “Two-photon interferometry and
+entangled post-measurement state of                     ever since Jauch’s 1968 proposal that                       quantum state collapse,” Phys. Rev. A 88, 022105
+Eq. (7). If the detection apparatus A is                Eq. (11) actually does resolve the mea-                     (2013); A. Hobson, “Resolving Schrodinger’s
+Schrodinger’s cat in an arrangement                     surement problem since it says that,                        cat,” <http://arxiv.org/abs/1607.01298>.
+designed to poison the cat when a                       when S and A are in the composite state
+radioactive nucleus decays, and if the                  given by Eq. (7), a “local” observer of
+quantum system S is that nucleus, then                  the nucleus alone must observe the
+                                                        nucleus to be either decayed or unde-                     FEYNMAN AND BELL’S
+Eq. (7) appears to be a superposition of
+a dead and alive cat, in contradiction                  cayed; thus, the expected conclusion                      THEOREM, AND THE
+with reality.                                           (decayed or undecayed nucleus, dead or                    PRONUNCIATION OF “QUARK”
+   The reduced state Eq. (11) is criti-                 alive cat) cannot be inconsistent with
+                                                                                                                     In his Letter to the Editor in the July
+cized on at least three grounds.2 First,                Eq. (7).7 These criticisms can all be
+                                                                                                                  2016 issue of AJP,1 Andrew Whitaker
+it is said to be an “improper density                   answered within the framework of stan-
+                                                                                                                  gives the wrong citation for the article
+operator” because it does not represent                 dard quantum physics, and in fact, non-
+                                                                                                                  that Richard Feynman wrote to me about
+uncertainty about which state S is in                   local experiments with entangled
+                                                                                                                  in 1984. Whitaker’s Ref. 13 should be to
+but is instead a reduction from the                     photons demonstrate that Eq. (7) is
+                                                                                                                  N. David Mermin, “Bringing home the
+known pure state Eq. (7). Second, this                  non-problematic.8 Nevertheless, these
+                                                                                                                  atomic world: Quantum mysteries for
+reduced density operator is thought to                  criticisms represent the consensus of                     anybody,” Am. J. Phys. 49, 940–943
+be ambiguous because it has no                          the quantum foundations community,                        (1981).
+“preferred basis”; it is simply 1/2 times               and should be noted in any analysis that                     And in the November 2016 issue
+the identity operator in S’s Hilbert                    derives the reduced state Eq. (11) from                   John Cramer, reviewing my new book
+space so that any basis of S’s Hilbert                  the composite state Eq. (7).                              of essays,2 wonders why I chose to
+space forms a basis for this operator.                                                                            name the whole collection after the
+                                                                                     Art Hobson
+Third, and most importantly, the pure                                                                             one on how to pronounce “quark.” The
+                                                             University of Arkansas Fayetteville,
+state of Eq. (7) appears to be a state                                          Arkansas 72701                    reason is that, unlike Cramer, I regard
+with no “definite outcomes” because it                                                                            it as the most amusing of the columns I
+is a superposition, rather than a mix-                                                                            published in Physics Today between
+ture, of two composite states (decayed                  1
+                                                          J. Kincaid, K. McLelland, and M. Zwolak,                1988 and 2014. De gustibus.
+nucleus/dead cat; undecayed nucleus/                      “Measurement-induced decoherence and infor-
+                                                                                                                                            N. David Mermin
+live cat) that themselves do represent                    mation in double-slit interference,” Am J. Phys.
+definite outcomes so that the compos-                     84, 522–530 (2016).                                      Cornell University, Ithaca, NY 14853-2501
+                                                        2
+ite system SA appears to be in both of                    M. Schlosshauer, Decoherence and the
+                                                                                                                  1
+                                                          Quantum-to-Classical Transition (Springer,                A. Whitaker, “Richard Feynman and Bell’s the-
+these macroscopic states at the same                      Berlin, 2007).                                            orem,” Am. J. Phys. 84, 493–494 (2016).
+time, implying that the two definite                    3
+                                                          M. Schlosshauer, J. Kofler, and A. Zeilinger, “A        2
+                                                                                                                    J. Cramer, “Why quark rhymes with pork, and
+outcomes indicated by Eq. (11) must                       snapshot of foundational attitudes toward quan-           other scientific diversions; by N. David
+be spurious.                                              tum mechanics,” Stud. Hist. Philos. Mod. Phys.            Mermin,” Am. J. Phys. 84, 894–895 (2016).
+
+5            Am. J. Phys. 85 (1), January 2017                  http://aapt.org/ajp                C 2017 American Association of Physics Teachers
+                                                                                                   V                                                              5
+

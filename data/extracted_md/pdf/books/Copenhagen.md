@@ -1,0 +1,463 @@
+# 182   My God, He Plays Dice!
+
+**source:** pdf · **section:** books
+**file:** Copenhagen
+---
+
+Preface
+Chapter 24
+
+                              h a g e n
+                        p e n
+                   Co retation
+                   I nte r p
+                                   Copenhagen Interpretation 183
+
+Copenhagen Interpretation
+   The idea that there was a Copenhagen way of thinking was
+christened as the “Kopenhagener Geist der Quantentheorie” by
+Werner Heisenberg in his 1930 textbook The Physical Principles
+of Quantum Theory, based on his 1929 lectures in Chicago (given
+at the invitation of Arthur Holly Compton).
+   The basic ideas of Copenhagen thinking were presented by
+Niels Bohr and Heisenberg at the 1927 Solvay conference on
+physics entitled “Electrons and Photons.”
+   It is a sad fact that Albert Einstein, who had discovered more
+than any other scientist on the quantum interaction of electrons
+and photons, was largely ignored or misunderstood when he
+clearly described nonlocality at the 1927 conference. As we saw
+in the previous chapter, Bohr said he could not understand what
+
+                                                                         Chapter 24
+Einstein was talking about.
+   At the Solvay conference, Bohr and Heisenberg consolidated
+their Copenhagen view as a “complete” picture of quantum
+physics, despite the fact that they could not, or would not, visualize
+or otherwise explain exactly what is going on in the microscopic
+world of “quantum reality.” Electron paths (especially orbits) that
+cannot be observed, they said, simply do not exist!
+   Bohr and Heisenberg opposed Einstein’s concept of an
+underlying “objective reality,” but they clearly knew and said that
+the physical world is largely independent of human observations.
+In classical physics, the physical world is assumed to be completely
+independent of the act of observing the world.
+   In quantum physics however, Heisenberg said that the result of
+an experiment depends on the “free choice” of the experimenter as
+to what to measure. The quantum world of photons and electrons
+might look like waves or look like particles depending on what
+we look for, rather than what they “are” as “things in themselves.”
+   Copenhageners were proud of their limited ability to know
+what is going on in the microscopic world.
+         184         My God, He Plays Dice!
+
+                 According to his friend Aage Petersen, Bohr said:
+                     There is no quantum world. There is only an abstract quantum
+Preface
+
+                     physical description. It is wrong to think that the task of
+                     physics is to find out how nature is. Physics concerns what we
+                     can say about nature. 1
+                  Bohr thus put severe epistemological limits on knowing the
+               “things in themselves,” just as Immanuel Kant had put limits
+               on reason in the phenomenal world. The British empiricist
+               philosophers John Locke and David Hume had put the “primary”
+               objects beyond the reach of our “secondary” sensory perceptions.
+               In this respect, Bohr shared the positivist views of many other
+               empirical scientists and philosophers, Ernst Mach for example.
+                  Twentieth-century analytic language philosophers like
+               Bertrand Russell and Ludwig Wittgenstein thought
+               that philosophy (and even physics) could not solve some basic
+Chapter 24
+
+               problems, but only “dis-solve” them by showing them to be
+               conceptual errors resulting from the misuse of language.
+                  Neither Bohr nor Heisenberg thought that macroscopic
+               objects actually are classical. They both saw them as composed
+               of microscopic quantum objects. The information interpretation
+               of quantum mechanics says there is only one world, the quantum
+               world. Averaging over large numbers of microscopic quantum
+               objects explains why macroscopic objects appear to be classical.
+                  On the other hand, Bohr and Heisenberg insisted that the
+               language of classical physics is essential as a tool for knowledge.
+                  Heisenberg wrote:
+                     The Copenhagen interpretation of quantum theory starts
+                     from a paradox. Any experiment in physics, whether it refers
+                     to the phenomena of daily life or to atomic events, is to be
+                     described in the terms of classical physics. The concepts of
+                     classical physics form the language by which we describe the
+                     arrangement of our experiments and state the results. We
+                     cannot and should not replace these concepts by any others.
+                     Still the application of these concepts is limited by the relations
+                     of uncertainty. We must keep in mind this limited range of
+                     applicability of the classical concepts while using them, but we
+                     cannot and should not try to improve them. 2
+                 1       Bulletin of the Atomic Scientists. Sep 1963, Vol. 19 Issue 7, p.12
+                 2       Heisenberg, 1955, p. 44
+                                  Copenhagen Interpretation 185
+
+   Einstein wanted us to get beyond questions of logic and language
+to get to an “objective reality” he saw as independent of the mind
+of man. Logic alone tells us nothing of the physical world, he said.
+   But since language has evolved to describe the familiar world
+of “classical” objects in space and time, Bohr and Heisenberg
+insisted that somewhere between the quantum world and the
+classical world there must come a point where our observations
+and measurements can be expressible in classical concepts. They
+argued that a measurement apparatus and a particular observation
+must be describable classically in order for it to be understood and
+become knowledge in the mind of the observer.
+   The exact location of that transition from the quantum to the
+classically describable world was arbitrary, said Heisenberg. He
+called it a “cut” (Schnitt). Heisenberg’s and especially John von
+Neumann’s and Eugene Wigner’s insistence on a critical role
+
+                                                                       Chapter 24
+for a “conscious observer” has led to a great deal of nonsense
+being associated with the Copenhagen Interpretation and in the
+philosophy of quantum physics. Heisenberg may only have been
+trying to explain how knowledge reaches the observer’s mind. But
+for von Neumann and Wigner, the mind was actually considered
+a causal factor in the behavior of the quantum system. It is not.
+   Today, a large number of panpsychists, some philosophers,
+some scientists, still believe that the mind of a conscious observer
+is needed to cause the “collapse of the wave function.” We explore
+von Neumann’s “psycho-physical parallelism” in the next chapter.
+   In the mid-1950’s, Heisenberg reacted to David Bohm’s 1952
+“pilot-wave” interpretation of quantum mechanics by calling his
+work with Bohr the “Copenhagen Interpretation” and indeed
+insisted it is the only correct interpretation of quantum mechanics.
+A significant fraction of working quantum physicists today say they
+agree with Heisenberg, though few have ever looked carefully into
+the fundamental assumptions of the Copenhagen Interpretation.
+   We’ll see that much of the Copenhagen interpretation is
+standard quantum physics and correct. But it also contains a lot of
+nonsense that has made understanding quantum physics difficult
+and spawned several quantum mysteries that we hope to resolve.
+         186       My God, He Plays Dice!
+
+               What Exactly Is in the Copenhagen Interpretation?
+                  There are several major components to the Copenhagen
+Preface
+
+               Interpretation, which most historians and philosophers of science
+               agree on:
+                  No Observer-Independent Quantum Reality. The most radical
+               concept of the Copenhagen school is that because the wave function
+               gives us only probabilities about quantum properties, that these
+               properties do not exist in the sense of Einstein’s “objective reality.”
+                  No Path? Bohr, Heisenberg, and others said we cannot describe a
+               particle as having a path, or a definite position before a measurement.
+               Indeed, it is said a particle can be in two places at once, like going
+               through the two slits in the two-slit experiment.
+                  But just because we cannot know the path does not mean it
+               cannot exist. Einstein’s “objective reality” hoped for a deeper level
+Chapter 24
+
+               of physics in which particles do have paths (even if we cannot know
+               them) and, in particular, the paths obey conservation principles.
+                  Conscious Observer. This is the claim that quantum systems
+               cannot change their states without an observation being made
+               by a conscious observer. Does the collapse only occur when an
+               observer “looks at” the system? How exactly does the mind of the
+               observer have causal power over the physical world? (the mind-
+               body problem). John Bell asked sarcastically, “does the observer
+               need a Ph.D.?”
+                  Einstein objected to the absurd idea that his bed had diffused
+               throughout the room and only gathered itself back together when
+               he opened the bedroom door and looked in. Does the moon only
+               exist when somoone is looking at it?, he asked.
+                  John von Neumann and Eugene Wigner seemed to believe
+               that the mind of the observer was essential, but it is not found in the
+               original work of Bohr and Heisenberg, so should perhaps not be a
+               part of the Copenhagen Interpretation? It has no place in standard
+               quantum physics today.
+                  Wave-particle duality. Einstein’s 1909 insight into this dual
+               aspect of quantum mechanics led to Bohr’s deep philosophical
+               notion of complementarity, though Bohr did not mention Einstein.
+                                  Copenhagen Interpretation 187
+
+   Bohr wanted a synthesis of the particle-matrix mechanics theory
+of Heisenberg, Max Born, and Pascual Jordan, with the wave
+mechanical theory of Louis de Broglie and Erwin Schrödinger,.
+Wave theory became critical to Bohr’s concept of complementarity,
+which we sw in chapter 22.
+   Heisenberg had to have his arm twisted by Bohr in 1927 to accept
+the equal importance of the wave description.
+   Copenhagen says quantum objects are both waves and
+particles, that what you see depends on how you look at them. In
+Einstein’s “objective reality,” physical objects are particles. Waves
+are mathematical theories about their behavior, giving us the
+probabilities of where they will be found, and with what properties.
+   No Visualizability? Bohr and Heisenberg both thought we could
+not produce models of what is going on at the quantum level. Bohr
+thought that since the wave function cannot be observed we can’t
+
+                                                                         Chapter 24
+say anything about it. Heisenberg said it was a probability and the
+basis for the statistical nature of quantum mechanics.
+   Whenever we draw a diagram of waves impinging on the two-slits,
+we are in fact visualizing the wave function as possible locations for
+a particle, with calculable probabilities for each possible location.
+   The Quantum Postulates. Bohr postulated that quantum
+systems (beginning with his “Bohr atom” in 1913) have “stationary
+states” which make discontinuous “quantum jumps” between the
+states with the emission or absorption of radiation. Until at least
+1925 Bohr insisted the radiation itself is continuous. Einstein had
+said radiation is a discrete localized “light quantum” (later called a
+photon) as early as 1905.
+   Ironically, ignorant of the history (dominated by Bohr’s account),
+most of today’s physics textbooks teach the “Bohr atom” as emitting
+or absorbing photons - Einstein’s light quanta!
+   Indeterminacy principle. Heisenberg sometimes called it
+his “uncertainty” principle, which implies human ignorance,
+making it an epistemological (knowledge) problem rather than an
+ontological (reality) problem. Indeterminacy is another example of
+complementarity, between the non-commuting conjugate variables
+         188       My God, He Plays Dice!
+
+               momentum and position, for example, Δp Δx ≥ h. Energy and time,
+               as well as action and the angle variables, are also complementary.
+Preface
+
+                   Completeness. Copenhageners claim that Schrödinger’s wave
+               function ψ provides a “complete” description of a quantum system,
+               despite the fact that conjugate variables like position and momentum
+               cannot both be known with arbitrary accuracy, as they can in classical
+               systems. There is less information in the quantum world than
+               classical physics requires. The wave function ψ evolves according
+               to the unitary deterministic Schrödinger equation of motion,
+               conserving that information. When one possibility discontinuously
+               becomes actual, new information may be irreversibly created and
+               recorded by a measurement apparatus.
+                   Einstein, however, maintained that quantum mechanics is
+               incomplete, because it provides only statistical information derived
+               from ensembles of quantum systems.
+Chapter 24
+
+                   Correspondence principle. Bohr maintained that in the limit of
+               large quantum numbers, the atomic structure of quantum systems
+               approaches the behavior of classical systems. Bohr and Heisenberg
+               both described this case as when Planck’s quantum of action h can
+               be neglected. They mistakenly described this as h -> 0.
+                   Planck’s h is a constant of nature, like the velocity of light. The
+               quantum-to-classical transition is when the action of a macroscopic
+               object is large compared to h. Bohr compared it to non-relativistic
+               physics when the velocity v is small compared to the velocity of light.
+               It is not an apt comparison because h never becomes small. It is when
+               the number of quantum particles increases (as mass increases) that
+               large macroscopic objects behave like classical objects. Position and
+               velocity become arbitrarily accurate as h / m -> 0 .
+                   Δv Δx ≥ h / m.
+                   The correspondence between classical and quantum physics
+               occurs for large numbers of particles that can be averaged over and
+               for large quantum numbers. This is known as the quantum-to-
+               classical transition.
+                   Standard Quantum Physics. Paul Dirac formalized quantum
+               mechanics with three fundamental concepts, all very familiar and
+               accepted by Bohr, Heisenberg, and the other Copenhageners:
+                                    Copenhagen Interpretation 189
+
+   Axiom of measurement. Bohr’s stationary quantum states have
+eigenvalues with corresponding eigenfunctions (the eigenvalue-
+eigenstate link).
+   Superposition principle. According to Dirac’s transformation
+theory, ψ can be represented as a linear combination of vectors that
+are a proper basis for the combined target quantum system and the
+measurement apparatus.
+   Projection postulate. The collapse of the wave function ψ, which is
+irreversible, upon interacting with the measurement apparatus and
+creating new information.
+   Irreversibility. Without irreversible recording of information
+in the measuring apparatus (a pointer reading, blackened photo-
+graphic plate, Geiger counter firing, etc.), there would be nothing
+for observers to see and to know.
+
+                                                                              Chapter 24
+   All the founders of quantum mechanics mention the need for
+irreversibility. The need for entropy transfer to stabilize irreversibly
+recorded information so it could be observed was first shown by Leo
+Szilard in 1929, later by Leon Brillouin and Rolf Landauer.
+   Classical apparatus. Bohr’s requirement that the macroscopic
+measurement apparatus be described in ordinary “classical”language
+is a third kind of “complementarity,” between the microscopic
+quantum system and the macroscopic “classical apparatus.”
+   But Born and Heisenberg never actually said the measuring
+apparatus is “classical.” They knew that everything is fundamentally
+a quantum system.
+   Statistical Interpretation (probability and acausality). Born
+interpreted the squared modulus of Schrödinger’s complex wave
+function as the probability of finding a particle. Einstein’s “ghost field”
+or “guiding field,” de Broglie’s pilot or guide wave, and Schrödinger’s
+wave function as the distribution of the electric charge density were
+similar views in earlier years.
+   All the predicted properties of physical systems and the “laws of
+nature” are only probabilistic (acausal). All the results of physical
+experiments are purely statistical information.
+   Theories give us probabilities. Experiments give us statistics.
+   Large numbers of identical experiments provide the statistical
+evidence for the theoretical probabilities predicted by quantum
+mechanics. We know nothing about paths of individual particles.
+         190       My God, He Plays Dice!
+
+                  Bohr’s emphasis on epistemological questions suggests he thought
+               that the statistical uncertainty may only be in our knowledge. It
+Preface
+
+               may not describe nature itself. Or at least Bohr thought that we
+               can not describe a “reality” for quantum objects, certainly not with
+               classical concepts and language. But we shall see that the concept of
+               an abstract and immaterial wave function (ψ as pure information
+               moving through space, determined by boundary conditions) makes
+               quantum phenomena “visualizable.”
+                  Ontological acausality, chance, and a probabilistic or statistical
+               nature were first seen by Einstein in 1916, as Born acknowledged.
+               He knew that “his statistical interpretation” was based entirely
+               on the work of Einstein, who generously gave Born credit, partly
+               because of his doubts about any theory in which “God plays dice!”
+                  Two-slit experiment. A “gedanken” experiment in the 1920’s,
+               but a real experiment today, exhibits the combination of wave and
+Chapter 24
+
+               particle properties.
+                  Note that what the two-slit experiment really shows is
+                  • first, the wave function deterministically and continuously
+                      exploring all the possibilities for interaction, its values
+                      determined by the boundary conditions of the experiment.
+                  • second, the particle randomly and discontinuously chooses
+                      one of those possibilities to become actual. In Einstein’s
+                      “objective reality” view, the particle goes through one slit, and
+                      the wave function, being different when two slits are open,
+                      guides the particle to display the two-slit interference pattern.
+                  Measurement problem. There are actually at least three
+               definitions of the measurement problem not normally associated
+               with the Copenhagen Interpretation..
+                  1) The claim that the two dynamical laws, unitary deterministic
+               time evolution according to the Schrödinger equation and
+               indeterministic collapse according to Dirac’s projection postulate
+               are logically inconsistent. They cannot both be true, it’s claimed.
+                  The proper interpretation is simply that the two laws apply
+               at different times in the evolution of a quantum object, one for
+               possibilities, the other for an actuality (as Heisenberg knew):
+                                  Copenhagen Interpretation 191
+
+  •    first, the unitary deterministic evolution moves through space
+       exploring all the possibilities for interaction, or may simply
+       be defined at all positions by the boundary conditions of an
+       experiment.
+  • second, the indeterministic collapse randomly (acausally)
+       selects one of those possibilities to become actual.
+  2) The original concern that the “collapse dynamics” (von
+Neumann Process 1) is not part of the formalism (von Neumann
+Process 2) but an ad hoc element, with no rules for when to apply it.
+  If there was a deterministic law that predicted a collapse, or the
+decay of a radioactive nucleus, it would not be quantum mechanics!
+  3) Decoherence theorists (chapter 34) define the measurement
+problem as the failure to observe macroscopic superpositions, for
+example, Schrödinger’s Cat (chapter 28).
+
+                                                                         Chapter 24
+Opposition to the Copenhagen Interpretation
+   Einstein, de Broglie, and especially Schrödinger insisted on a
+more “complete” picture, not merely what can be said, but what we
+can “see,” a visualization (Anschaulichkeit) of the microscopic world.
+But de Broglie and Schrödinger’s emphasis on the wave picture made
+it difficult to understand material particles and their “quantum
+jumps.” Indeed, Schrödinger and more recent physicists like John
+Bell and the decoherence theorists H. D. Zeh and Wojciech Zurek
+deny the existence of particles and the collapse of the wave function.
+   Perhaps the main claim of those today denying the Copenhagen
+Interpretation (as well as standard quantum mechanics) is that
+“there are no quantum jumps.” Decoherence theorists and others
+favoring Hugh Everett’s Many-Worlds Interpretation reject
+Dirac’s projection postulate, a cornerstone of quantum theory.
+   Heisenberg had initially insisted on his own “matrix mechanics” of
+particles and their discrete, discontinuous, indeterministic behavior,
+the “quantum postulate” of unpredictable events that undermine
+the classical physics of causality. But Bohr told Heisenberg that
+his matrix mechanics was too narrow a view of the problem. The
+“complementary” wave picture must be included, Bohr insisted.
+This greatly disappointed Heisenberg and almost ruptured their
+         192       My God, He Plays Dice!
+
+               relationship. But Heisenberg came to accept the criticism and he
+               eventually endorsed all of Bohr’s deeply philosophical view that
+Preface
+
+               quantum reality is unvisualizable.
+                  In his September Como Lecture, a month before the 1927 Solvay
+               conference, Bohr introduced his theory of “complementarity”
+               as a “complete” theory. It combines the contradictory notions of
+               wave and particle. Since both are required, they complement (and
+               “complete”) one another, he thought.
+                  Although Bohr is often credited with integrating the dualism
+               of waves and particles, it was Einstein who predicted a “fusion”
+               of these would be necessary as early as 1909. But in doing so,
+               Bohr obfuscated further what was already a mysterious picture.
+               How could something possibly be both a discrete particle and a
+               continuous wave? Did Bohr endorse the continuous deterministic
+               wave-mechanical views of Schrödinger? Not exactly, but that Bohr
+Chapter 24
+
+               accepted Schrödinger’s wave mechanics as equal to and comple-
+               menting his matrix mechanics was most upsetting to Heisenberg.
+                  Bohr had astonished Heisenberg by deriving (in Bohr’s Como
+               Lecture) the uncertainty principle from the space-time wave picture
+               alone, with no reference to the causal dynamics of Heisenberg’s
+               picture! After this, Heisenberg did the same derivation in his
+               1930 text and subsequently completely accepted complementarity.
+               Heisenberg spent the next several years widely promoting Bohr’s
+               views to scientists and philosophers around the world.
+                  Bohr said these contradictory pictures were “complementary”
+               and that both were needed for a “complete” picture. He vigorously
+               denied Einstein’s claim that quantum mechanics is “incomplete,”
+               despite Bohr’s acceptance of the fact that simultaneous knowledge
+               of exact position and momentum is impossible. Classical physics
+               has twice the number of precisely knowable variables (and thus
+               twice the information) as quantum physics. In this sense, classical
+               physics seems more “complete,” quantum physics “incomplete.”
+                  Many critics of Copenhagen thought that Bohr deliberately
+               embraced logically contradictory notions - of continuous
+               deterministic waves and discrete indeterministic particles - perhaps
+               as evidence of the Kantian “antinomies” that put limits on reason and
+               human knowledge. These “contradictions” only strengthened Bohr’s
+                                      Copenhagen Interpretation 193
+
+epistemological resolve and his insistence that physics requires a
+subjective view unable to reach Einstein’s “objective reality” - the
+Kantian “things in themselves.”
+   Subject and object were prominent examples of Bohr’s
+complementarity. As Heisenberg described it in his 1955 explanation
+of the Copenhagen Interpretation
+      This again emphasizes a subjective element in the description of
+      atomic events, since the measuring device has been constructed
+      by the observer, and we have to remember that what we observe
+      is not nature in itself but nature exposed to our method of
+      questioning. 3
+    Some critics object to the idea that the “free choice” of the
+experimenter determines what properties appear, but this is correct.
+If we measure the z-component of spin, we get a definite answer for
+z, and know nothing about x- or y-components.
+
+                                                                            Chapter 24
+    Key objections to the Copenhagen Interpretation include:
+    • The many unreasonable philosophical claims for
+        “complementarity,” e.g., that it solves the mind-body problem?
+    • The basic “subjectivity” of the Copenhagen interpretation. It
+        deals with epistemological knowledge of things, rather than
+        the objectively real “things themselves.”
+    • Bohr’s strong claim that there is no quantum world, or at least
+        that we can know nothing about it.
+    • The idea that nothing exists until an observer measures it.
+    There is in fact only one world. It is a quantum world. Ontologically
+it is indeterministic, but epistemically, common sense and everyday
+experience inclines us to see it as only adequately deterministic.
+    Bohr and Heisenberg’s Copenhagen Interpretation insists we
+use classical (deterministic?) concepts and everyday language to
+communicate our knowledge about quantum processes.
+    This may be a desirable goal when we begin to teach lay persons
+about the mysteries of quantum mechanics, but there comes a time
+when our deeper goal is for them to learn about the nature of the
+“objective reality” that Einstein wanted us to see.
+
+  3       Heisenberg, 1955, p. 58
+

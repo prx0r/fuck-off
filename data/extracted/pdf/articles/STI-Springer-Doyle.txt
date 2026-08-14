@@ -1,0 +1,948 @@
+Chapter 16
+The Two-Stage Model to the Problem
+of Free Will
+How Behavioral Freedom in Lower Animals
+Has Evolved to Become Free Will in Humans
+and Higher Animals
+
+Robert O. Doyle
+
+
+Abstract Random noise in the neurobiology of animals allows for the generation of
+alternative possibilities for action. In lower animals, this shows up as behavioral
+freedom. Animals are not causally predetermined by prior events going back in a
+causal chain to the origin of the universe. In higher animals, randomness can be
+consciously invoked to generate surprising new behaviors. In humans, creative new
+ideas can be critically evaluated and deliberated. On reflection, options can be
+rejected and sent back for “second thoughts” before a final responsible decision
+and action.
+   When the indeterminism is limited to the early stage of a mental decision, the
+later decision itself can be described as adequately determined. This is called
+the two-stage model, first the “free” generation of ideas, then an adequately deter-
+minism evaluation and selection process we call “will.”
+
+Keywords Free will • Determinism • Two-stage model • Chance • Randomness
+
+
+16.1     Introduction
+
+In the May 14, 2009 issue of Nature Magazine, Heisenberg Martin (Heisenberg
+2009) challenged the idea, popular in the recent psychology and philosophy litera-
+ture, that human free will is an free will illusion (Wegner 2002). Heisenberg
+suggested that a lot could be learned by looking at animals, to see how they initiate
+behavior. The behaviorist idea that actions are deterministic causal responses to
+external stimuli has been discredited. For decades, Watson–Skinner behaviorism
+focused on stimulus and response. They ignored the existence of internal states in
+
+
+
+R.O. Doyle (*)
+Astronomy Department, Harvard University, Cambridge, MA, USA
+e-mail: rodoyle@fas.harvard.edu; bobdoyle@informationphilosopher.com
+
+A. Suarez and P. Adams (eds.), Is Science Compatible with Free Will?: Exploring Free   235
+Will and Consciousness in the Light of Quantum Physics and Neuroscience,
+DOI 10.1007/978-1-4614-5212-6_16, # Springer Science+Business Media, LLC 2013
+236                                                                                       R.O. Doyle
+
+
+the mind, but today such internal mental states are accepted as the causes of actions,
+in animals and humans. Can these mental states themselves be only statistically
+“caused?” Can mental states—thoughts and ideas—involve an indeterminism
+which breaks the deterministic causal chain to all events in the “fixed” past, but
+which does not make our actions themselves “random?”
+   In my own correspondence with Nature in their June 25, 2009 issue (Doyle
+2009), I connected Heisenberg’s thinking with James, William’s 1884 two-stage
+model of free will (James 1956, p. 145). The first stage is the chance generation of
+possibilities, alternative (ideas just “pop into our heads”). The second stage is a
+“willed” decision “caused” by our reasons, motives, and feelings that help an agent
+evaluate and “select” among the first-stage alternative possibilities. In the second
+stage, the agent evaluates the options in a “determined” way, but not one that
+was “predetermined” from the time before the new possibilities were generated
+(Doyle 2010).
+   Long before twentieth-century behaviorism and logical empiricism had limited
+the study of the mind to externally observable phenomena, James had argued in The
+Dilemma of Determinism, that random chance played a role in generating alterna-
+tive possibilities.
+   The stronghold of the determinist argument is the antipathy to the idea of chance. . .This
+   notion of alternative possibility, this admission that any one of several things may come to
+   pass is, after all, only a roundabout name for chance. (James 1956, p. 153, Doyle 2010)
+
+  And James explicitly connected spontaneous variations in the evolution gene
+pool with random images and thoughts in the human brain.
+   [In mental evolution], if anywhere, it would seem at first sight as if that school must be right
+   which makes the mind passively plastic, and the environment actively productive of the
+   form and order of its conceptions; which, in a word, thinks that all mental progress must
+   result from a series of adaptive changes, in the sense already defined of that word. . .It
+   might, accordingly, seem as if there were no room for any agency other than this; as if the
+   distinction we have found so useful between “spontaneous variation,” as the producer of
+   changed forms, and the environment, as their preserver and destroyer, did not hold in the
+   case of mental progress; as if, in a word, the parallel with Darwinism might no longer
+   obtain. . .And I can easily show. . .that as a matter of fact the new conceptions, emotions,
+   and active tendencies which evolve are originally produced in the shape of random images,
+   fancies, accidental out-births of spontaneous variation in the functional activity of the
+   excessively instable human brain. (James 1880)
+
+   Heisenberg, Martin thus became the latest in a long list of philosophers and
+scientists who sought a “two-stage” model (see http://informationphilosopher.com/
+freedom/two-stage_models.html), a temporal sequence of first acausal randomness,
+then causal law-like selection, as the basis for human freedom. Before Heisenberg,
+the question always was how to free the human brain from deterministic worries.
+Now that Heisenberg has extended the concept of randomly generated alternative
+possibilities for action throughout the animal kingdom, he has liberated all life from
+the complete predeterminism implied by the Newtonian and Laplacian world view
+of William James’s time.
+16    The Two-Stage Model to the Problem of Free Will                                                 237
+
+
+16.2       Antipathy to Chance and the Standard Argument
+           against free will
+
+What James, William called the “antipathy to chance” goes back 2,300 years to the
+Stoic and Academic philosophers’ attack on Epicurus’ notion of an atomic
+“swerve.” Epicurus said such a random swerve was needed to break the bonds of
+his materialist and atomist colleague Democritus, whose strict causal physical
+determinism denied human freedom (Lucretius 1982). Stoics and Academics
+attacked Epicurus for suggesting that human freedom was the result of chance.
+That, they said, would make our actions random and deny human responsibility
+(Cicero 1951). For the Stoics, Nature was identical to God and Reason (Long 1986).
+To suggest that chance really exists in Nature invites the atheistic thought that God
+is either irrational or ignorant of future events.
+    The standard argument against free will is the very simple and logical claim that
+either determinism or indeterminism is true. If determinism is “true,” we are not free,
+if indeterminism is “true,” we are not responsible (Ayer 1954; Doyle 2011, Chap. 4).
+    Our free-will model of two stages in a temporal sequence is motivated by the need
+to answer the two objections to free will in the standard argument against it. Limiting
+indeterminism to the first stage prevents it from making our decisions themselves
+random, which would threaten our responsibility. The “determinism adequate” of
+the second stage defeats the problem of predeterminism from the Big Bang that
+threatens our freedom. By “adequate” determinism we mean that there may be some
+low level of indeterminism in the second stage but it is statistically irrelevant.
+    In the logical choice between the “truth” of determinism or indeterminism, it is
+indeterminism that is “true” in the universe, but many microscopic random events
+are averaged over and irrelevant in the macroscopic world. Nevertheless, most
+philosophers today are determinist and compatibilist, unless they embrace a meta-
+physical dualism (Swinburne 2011). And many scientists claim that the brain is
+determined (cf. Gazzaniga 2011).
+    We can see why so many philosophers accept the idea that determinism is
+“compatibilism” with free will. It is because given the forced choice between the
+determinism and indeterminism in the standard argument, determinism at least makes
+our actions responsive to reasons. They can be caused by our motives, feelings, and
+desires. They result from a nonrandom deliberation that evaluates our options.
+    What Heisenberg, Martin and many other thinkers have established is that
+randomness at some level or stage (the generation of alternative possibilities)
+need not jeopardize adequate law-like behavior at another level or stage (the
+adequately determined evaluation of those possibilities).
+    As long ago as 1690, Locke, John insisted on the separation of “free” and “will.”
+He hoped
+     to put an end to that long agitated, and, I think, unreasonable, because unintelligible, question,
+     viz. Whether man’s will be free or no? For if I mistake not, it follows from what I have said,
+     that the question itself is altogether improper. . .This way of talking, nevertheless, has
+     prevailed, and, as I guess, produced great confusion. . .I think the question is not proper,
+     whether the will be free, but whether a man be free. (Locke 1959) [Locke’s emphasis.]
+238                                                                                        R.O. Doyle
+
+
+   A century later, Hume, David “reconciled” man’s freedom with determinism in
+the notion we now call “compatibilism.” He properly insisted that our will is
+determined by our motives and inclinations.
+   to proceed in this reconciling project with regard to the question of liberty and necessity;
+   the most contentious question of metaphysics, the most contentious science; it will not
+   require many words to prove, that all mankind have ever agreed in the doctrine of liberty as
+   well as in that of necessity, and that the whole dispute, in this respect also, has been hitherto
+   merely verbal.
+       By liberty, then, we can only mean a power of acting or not acting, according to the
+   determinations of the will; this is, if we choose to remain at rest, we may; if we choose to
+   move, we also may. Now this hypothetical liberty is universally allowed to belong to every
+   one who is not a prisoner and in chains. Here, then, is no subject of dispute. (Hume 1975, p. 95)
+
+   But Hume denied that liberty depended on chance. For Hume and the great
+mathematicians who developed the calculus of probabilities—Abraham de Moivre
+before Hume and Laplace, Pierre-Simon after him, chance was merely human
+ignorance.
+   liberty, when opposed to necessity, not to constraint, is the same thing with chance; which
+   is universally allowed to have no existence. (Hume 1975, p. 56)
+       Though there be no such thing as Chance in the world; our ignorance of the real cause of
+   any event has the same influence on the understanding, and begets a like species of belief or
+   opinion. (Hume 1975, p. 96)
+
+   Nevertheless, Hume recognized a serious objection to his theory, that everything
+might be predeterminism. Most compatibilists and determinists since Hobbes and
+Hume never mention the fact that a causal chain of events going back before our
+birth would not provide the kind of liberty they are looking for. But Hume frankly
+admits that such a causal chain would be a serious objection to his theory.
+   I pretend not to have obviated or removed all objections to this theory, with regard to
+   necessity and liberty. I can foresee other objections, derived from topics which have not
+   here been treated of. It may be said, for instance, that, if voluntary actions be subjected to
+   the same laws of necessity with the operations of matter, there is a continued chain of
+   necessary causes, pre-ordained and pre-determined, reaching from the original cause of all
+   to every single volition, of every human creature. No contingency anywhere in the
+   universe; no indifference; no liberty. While we act, we are, at the same time, acted upon.
+   (Hume 1975, p. 99)
+
+  Today we can finally reconcile free will with chance, randomness, and Indeter-
+minism, which alone can break this “continued chain of necessary causes.”
+
+
+
+16.3     Chance and Randomness in Cosmology and Biology
+
+Randomness has been present in cosmology since the origin of the universe, a state of
+total chaos (minimal information) nearly 14 billion years ago. But mathematicians
+and physicists sought deterministic explanations that attempt to avoid randomness.
+The most famous was Pierre-Simon Laplace, who in 1815 postulated a super-
+intelligence that could know the positions, velocities, and forces on all the particles
+16   The Two-Stage Model to the Problem of Free Will                              239
+
+
+in the universe at one time, and thus know the universe for all past and future times.
+This implies that information is a constant of nature. Some mathematicians think that
+information is a conserved quantity—like matter and energy.
+    But midway through the nineteenth century, Kelvin, Lord (William Thomson)
+realized that the newly discovered second law of thermodynamics required that
+information could not be constant, but would be destroyed as the entropy (disorder)
+increased. Hermann Helmholtz described this as the heat death of the universe.
+    Kelvin’s claim would be correct if the universe were a closed system. But in our
+open and expanding universe, Layzer, David showed that the maximum possible
+entropy is increasing faster than the actual entropy (Layzer 1975). The difference
+between maximum possible entropy and the current entropy is called negative
+entropy, opening the possibility for complex and stable information structures.
+    Despite the second law of thermodynamics, stable and law-like information
+structures evolved out of the chaos, first, in the form of microscopic particulate
+matter—quarks, baryons, nuclei, and electrons, then later, under the influence of
+gravitation—macroscopic galaxies, stars, and planets. Every new Information
+structure reduces the entropy locally, so the second law requires an equal (or
+generally much greater) amount of entropy to be carried away. Without the
+expansion of the universe, this would be impossible.
+    Whether the newly formed stable structure is a baryon or a planet, the new “bits”
+of information can be regarded as physical “measurements” that involve the
+collapse of quantum mechanical wave functions. Ludwig, Gunter (Ludwig 1953)
+and Landauer, Rolf (Landauer 1961) showed that any such measurement that
+increases the number of information bits must involve a compensating increase in
+the entropy or randomness elsewhere. For Ludwig, it was in the measurement
+apparatus. For Landauer, it was the energy dissipated by a computer’s power
+supplies.
+    Because of the “Law of Large Numbers” in statistics, and the Correspondence
+Principle of Quantum mechanics (which says that quantum physics approaches
+classical physics for large quantum numbers), the Newtonian laws of classical
+mechanics, discovered in the stable and regular motions of the planetary orbits,
+are “Determinism, Adequate. Events are normally determined by immediate prior
+events, but not strictly predeterminism from the origin of the universe. This is
+despite the residue of real originary chaos in many parts of the universe, especially
+in the quantum-mechanical microcosmos. The effects of Quantum Indeterminacy
+can thus normally be ignored in the macroscopic world of classical physics. (The
+second stage of Two-stage Model assumes that microscopic indeterminacy can be
+ignored in the evaluation/selection stage.)
+    Whereas randomness can normally be ignored in macroscopic physics,
+randomness in biology plays a central role, in the evolution of species and in the
+life strategies of many organisms, not only animals. Darwin was circumspect and
+cautious about “mere chance,” because in his time chance still evoked strong atheistic
+sentiments.
+    In animals, Heisenberg, Martin cites the bacterium Escherichia coli (Heisenberg
+2009, p. 165). These tiny organisms are equipped with sensors and motion
+240                                                                         R.O. Doyle
+
+
+capability that let them make two-stage decisions about which way to go. They can
+move in the direction of nutrients and away from toxic chemicals. They do this with
+tiny flagella in their tails that rotate in two directions. Flagella rotating clockwise
+cause the bacterium to tumble and face random new directions. When the flagella
+rotate counter-clockwise, the bacterium moves forward and sensory receptors on
+the bacterium surface detect gradients of chemicals and temperatures. If the gradi-
+ent indicates “food ahead,” or perhaps “danger behind,” the bacterium continues
+straight ahead. The law-like decision to go forward is an adequately determined
+evaluation of sensors along the bacterium’s body. If the sensed gradients are
+unsuitable, the flagella reverse and the bacterium again tumbles.
+   We see that even the lowest forms of animal can recruit randomness to serve
+their teleonomic purposes. Mayr, Ernst has shown that evolution is conservative,
+reusing existing mechanisms rather than inventing new ones. So what Mayr calls
+the “two-step” process (Mayr 1988) of Darwinian evolution itself may have become
+a feature of living organisms up to higher animals and humans.
+   The mind’s “two-stage” ability to be creative and free is likely evolved indirectly
+from Mayr’s “two-step” process and then directly from the combination of random
+and law-like behavior in the lower animals. Free will is therefore not an ad hoc
+development in humans, as many philosophers (especially theologians) have
+thought. It is a normal biological property, not a gift of God or an inexplicable
+mystery. We may not have metaphysical free will, but we do have biophysical
+Behavioral Freedom. Our lives are not predeterminism.
+
+
+
+
+16.4    Four Evolving Selection Levels
+
+The development path from behavioral freedom in the lower animals to free will in
+humans has primarily involved significant changes in the complexity of the second
+stage—the evaluation and selection process.
+   Randomness in the first stage always has the same source—namely chaotic
+thermal and Quantum noise. It is the second-stage selection process itself that has
+significantly evolved. We can identify different levels of selection, but note that at
+each level organisms use all the earlier types of selection as well.
+Natural selection—for biological evolution, selection is reproductive success for a
+   population.
+Instinctive selection—by animals with little or no learning capability. Selection
+   criteria are transmitted genetically.
+Learned selection—for animals whose past experiences guide current choices.
+   Selection criteria are acquired environmentally, including instruction by parents
+   and peers.
+Predictive selection—using imagination and foresight to evaluate the future
+   consequences of choices.
+16   The Two-Stage Model to the Problem of Free Will                                   241
+
+
+Reflective and normative selection—in which conscious deliberation about cultural
+  values influences the choice of behaviors.
+   Evolution has added more and more features to selection over time, instinct,
+learning, prediction, and reflection. These eventually become the many factors at
+work in the fully conscious human will.
+
+
+
+
+16.5     Randomness in Psychology and Philosophy
+
+Real (ontological, not epistemological) chance was welcomed by at least one
+philosopher and psychologist of the nineteenth century, namely James, William.
+But since the twentieth-century discovery of real chance in the form of quantum
+indeterminacy by Heisenberg, Werner, chance and randomness have not fared well
+in psychology or philosophy.
+   In his Gifford Lecture of 1927, Eddington, Arthur Stanley had described himself
+as unable “to form a satisfactory conception of any kind of law or causal sequence
+which shall be other than deterministic.” (Eddington 1958). Yet just a year later, in
+response to Heisenberg’s indeterminacy principle, Eddington revised his lectures for
+publication as The Nature of the Physical World. There he dramatically announced,
+“It is a consequence of the advent of the quantum theory that physics is no longer
+pledged to a scheme of Determinism law” (Eddington 1958, p. 295). He went even
+farther and enthusiastically identified indeterminism with freedom of the will.
+   But the critical reaction of philosophers was swift (see Stebbings 1958). A “free
+electron” has nothing to do with “free will,” they complained. A Brain, quantum
+event in, amplified to affect our reasoning, can only make our decisions random.
+Quantum events simply happen to us. They are not “up to us.” We are not responsi-
+ble for them. Late in life, Eddington yielded to the criticism, saying that he could find
+no “half-way house” between determinism and indeterminism (Eddington 1938).
+   [“Up to us” or “depends on us” (ej 0 Zm
+                                          ~I n) was for the Greeks, and particularly for
+Aristotle, the term closest to the modern complex idea of free will (which combines
+freedom and determination in an apparent internal contradiction). Aristotle and
+Epicurus both said something “up to us” was a “third thing” that was neither chance
+nor necessity. The idea was a kind of “agent causality” that provides accountability
+or moral responsibility. Because our actions originate “within ourselves” (en       ~I n),
+                                                                                 Zm
+they say that as “agents” we are “causes.”]
+   A number of prominent philosophers and scientists struggled to include quantum
+indeterminacy in a model of free will, including Compton, Arthur Holly (Compton
+1931), Margenau, Henry (Margenau 1968), and Popper, Karl (Popper 1977). But
+their efforts were not convincing to the philosophical community and are rarely
+referenced in the free will debates.
+   The one living philosopher who has spent his adult career trying to explain free
+will as involving quantum events is Kane, Robert. Kane has had some significant
+success showing that we can be Responsibility for an event even if it happens
+242                                                                          R.O. Doyle
+
+
+indeterministically. He considers the case of a businesswoman on the way to an
+important meeting when she observes an assault in an alley (Kane 1999). She has
+excellent (moral and humanitarian) reasons to help the victim. She has equally
+important (practical and self-interested) reasons to continue on and advance her career.
+    Kane argues that whichever way the businesswoman decides, and even if the
+“torn decision,” as he calls it, is undetermined as a result of neural noise, she has
+excellent reasons to take responsibility either way. But Kane himself has not found
+two-stage free will models everything that is needed (Kane 2005), and other
+prominent libertarian philosophers like van Inwagen, Peter have said that “free
+will remains a mystery (van Inwagen 2000).”
+    Some philosophers have been critical of Kane and argue that the agent cannot
+claim responsibility if the decision was at all random and thus a matter of “luck.”
+The idea of “Luck, Moral” is the source of many moral paradoxes and dilemmas
+(Nagel 1979; Williams 1981). If something happens entirely by luck, good or bad
+luck, it appears to be not our responsibility. But Kane’s solution to the problem of
+an indeterministic decision between multiple alternatives, each supported by excel-
+lent reasons and motives, solves this problem of luck. The agent can take full
+responsibility, however she decides. And the specific “cause” of the resulting action
+is the excellent reason she has for doing it, says Kane.
+    Mele, Alfred considered a two-stage model of free will in which indeterminism
+(he called it incompatibilism) is confined to the early stage (Mele 1995). The latter
+stage he describes as “compatibilist” (effectively and adequately determined).
+Mele’s model is similar to one proposed much earlier by Dennett, Daniel (Dennett
+1978). Dennett’s work incorporated the still earlier ideas of Wiggins, David
+(Wiggins 1973), Popper, Karl, and Compton, Arthur Holly.
+    Dennett did not endorse his own two-stage decision model because he could not
+imagine a plausible location for quantum events in the brain, one exquisitely timed
+to be of help in the decision process. How could a randomly timed event be of any
+help? He settled instead for pseudo-random number sequences (like those generated
+by a completely deterministic computer program) as all that is needed in his
+decision-making model.
+    In a recent book, Mele considered the problem of free will and luck (Mele 2006),
+comparing the indeterministic early stage of his model to a neural roulette wheel in
+the head, with a tiny neural ball whose probabilities may be high for landing in the
+wheel segment for action A, but it is still luck that it did not land in the segment for
+action B. In the end Mele, like Dennett, could not endorse a two-stage model.
+
+
+
+16.6    The Basic Freedom, Requirements for Human
+
+Freedom requires the randomness of absolute chance to break the causal chain of
+determinism (actually predeterminism), yet it must provide the conscious knowl-
+edge that we are adequately determined to be responsible for our choices, that our
+decisions and actions are “up to us.”
+16   The Two-Stage Model to the Problem of Free Will                               243
+
+
+    Freedom requires some events that are not causally determined by immediately
+preceding events, events that are unpredictable by any agency, events involving
+quantum indeterminacy.
+    These random events can generate alternative possibilities for action. They are
+the source of the creativity that adds new information to the universe. Randomness
+is the “free” in free will.
+    Freedom also requires an adequately determined will that chooses or selects
+from those alternative possibilities. There is effectively nothing uncertain about this
+choice. “Adequate” determinism is the determination, the “will” in free will.
+    Determinism, Adequate means that randomness in our thoughts about alternative
+possibilities does not directly cause our actions.
+    Random thoughts can therefore lead to intentions, evaluations, and decisions
+that are adequately determined to produce actions, for which we can take moral
+responsibility.
+    Thoughts come to us freely. Actions go from us willfully.
+    We must admit indeterminism, but not permit it to produce random actions as
+determinists mistakenly fear.
+    We must also limit determinism, but not eliminate it as libertarians mistakenly
+think necessary.
+    Evaluation and careful deliberation of all the available possibilities, both
+ingrained habits and creative new ideas, must help us to “determine” and thus
+“cause” our actions.
+    But event acausality somewhere is a prerequisite for any kind of agent causality
+that is not predetermined.
+    We thus define “free will” as a two-stage creative process in which a human or
+higher animal freely generates alternative possibilities, some caused by prior events,
+some uncaused, following which the possibilities are evaluated and one is “willed,”
+i.e., selected or chosen for adequately determined reasons, motives, or desires.
+
+
+
+
+16.7     How Quantum Noise Can Help Free Will
+         and Not Compromise Responsibility
+
+In my two-stage model of free will and creativity, randomness is not (normally) the
+direct cause of our actions, but rather simply the free generator of Possibilities,
+alternative for the Determinism, Adequate will to evaluate and select. I call this
+noisy generator of creative ideas the “Micro Mind.”
+   An important additional requirement is that the adequately determined will,
+which I call the “Macro Mind,” must have the power to invoke the generation of
+alternative possibilities (turn it on when needed and off when it is simply interfering
+with thought processes). For example, the bacterium in Heisenberg’s example can
+turn on randomness by reversing the direction of flagella rotation. This is some-
+times called “downward causation (Murphy et al. 2009).” It is not that the mind is
+244                                                                         R.O. Doyle
+
+
+actually controlling specific quantum events. Quantum events are uncontrollable.
+But the mind can turn access to quantum randomness off, and on again when chance
+is needed to produce new ideas.
+    The Micro Mind is different from the early stage in previous two-stage models
+because it does not depend on a single quantum event in the brain that gets amplified
+to the Macro Mind. The insoluble problem for previous two-stage models has been
+to explain how a random event in the brain can be timed and located —perfectly
+synchronized!—so as to be relevant to a specific decision. The answer is it cannot
+be, for the simple reason that quantum events are totally unpredictable. The mind,
+like all biological systems, has evolved in the presence of constant noise and is able
+to ignore that noise when it is unhelpful. It can utilize that noise when it provides a
+significant competitive advantage, which it clearly does as the basis for freedom
+and creativity in the first stage of my two-stage model.
+    Rather than search for a single cause behind a decision, we assume that there are
+always many contributing causes for any event, and in particular for a mental
+decision. The two-stage model does not depend on single random events, one per
+decision. It recruits many random events in the brain as a result of ever-present
+noise, both quantum and thermal noise, that is inherent in any information storage
+and communication system.
+    In the Newell-Simon “Blackboard” mind model (Newell and Simon 1972) and
+Bernard Baars’ “Theater of Consciousness” and “Global Workspace” models
+(Baars 1997), there are always many competing possibilities for our next thought
+or action. Some of these possibilities may be traceable to causal chains that we
+ourselves did not initiate. Many possibilities are the result of genetic inheritance or
+environmental conditioning, for example. Some are well-established habits that are
+the result of what Robert Kane calls “self-forming actions” (Kane 1984) that
+happened long ago.
+    Each of these possibilities is the result of a sequence of events that goes back in
+an assumed causal chain until its beginning in an uncaused event.
+    If we could trace any particular sequence of events back in time, it would come
+to one event whose major contributing cause (or causes) was itself uncaused
+(a causa sui).
+    For Aristotle, every series of causes “goes back to some starting-point (arw    ·
+                                                                                  Z),
+which does not go back to something else. This, therefore, will be the starting-point
+of the fortuitous, and nothing else is the cause of its generation.” (Aristotle 1933a)
+    We can thus in principle assign times, or ages, to the starting points of the
+contributing causes of a decision. Some of these may in fact go back before the birth
+of an agent, hereditary causes for example. To the extent that such causes ade-
+quately determine an action, we can understand why hard determinists think that the
+agent has no control over such actions. (Of course, if we can opt out of a habitual
+action at the last moment, we retain a kind of control. We can always just say no!)
+    Other contributing causes may be traceable back to environmental and develop-
+mental events, perhaps education, perhaps simply life experiences, that were
+"character-forming" events. These and hereditary causes would be present in the
+16   The Two-Stage Model to the Problem of Free Will                                  245
+
+
+mind of the agent as fixed habits, with a very high probability of “adequately
+determining” the agent’s actions in many well-understood situations.
+    But other contributing causes of a specific action may have been undetermined
+up to the very near past, even fractions of a second before an important decision and
+moments after the “circumstances” mistakenly thought by some compatibilists to
+determine the action. The causal chains for these contributing causes originate in
+the noisy brain. They include the free generation of new alternative possibilities
+for thought or action during the agent’s deliberations. They fit Aristotle’s criteria
+for causes that “depend on us” (ej    0 Zm
+                                          ~I n) and originate “within us” (en     ~I n).
+                                                                                Zm
+(Aristotle 1933b)
+    Causes with these most recent starting points are the fundamental reason why an
+agent can do otherwise in what are essentially the same circumstances (up to the
+starting point of considering options).
+    These alternatives are likely generated from our internal knowledge of practical
+possibilities based on our past experience. Those that are handed up for consider-
+ation to Baars’ “executive function” may be filtered to some extent by unconscious
+processes to be “within reason.” They likely consist of random variations of past
+actions we have willed many times in the past.
+    Note that the random events that generate a new possibility need not be located
+in the brain itself, nor even be contemporaneous with the immediate decision.
+It could have been an idea first generated years ago and only now acted upon.
+And it could have had its origin external to the brain, in the ideas of other persons or
+in environmental accidents. It need only “come to mind” during deliberations,
+which itself is partly a matter of luck. But as with the “problem of luck” discussion
+above, the chance element in the first stage does not make the second-stage decision
+itself random.
+    Note also that the evaluation and selection of one of these possibilities by the
+will in the second stage is as deterministic and causal a process as anything that a
+determinist or compatibilist could ask for, consistent with our current knowledge of
+the physical world.
+    But remember that instead of strict causal determinism, the second stage offers
+only adequate determinism. The random origins of possibilities in the first stage
+provide freedom of thought and action. As long as the Micro Mind can create new
+alternative possibilities, we can be free.
+
+
+
+16.8     A More Detailed Look at the Micro Mind
+
+Imagine a Micro Mind with a randomly assembled “agenda” of possible things to
+say or to do. These are drawn from our memory of past thoughts and actions, but
+randomly varied by unpredictable negations, associations of a part of one idea with
+a part or all of another, and by substitutions of words, images, feelings, and actions
+drawn from our experience. In information communication terms, there is cross-
+talk and noise in our neural circuitry.
+246                                                                          R.O. Doyle
+
+
+    In a “content-addressable” information model, memories are stored based on
+their content—typically bundles of simultaneous images, sounds, smells, feelings,
+etc. So a new experience is likely to be stored in neural pathways alongside closely
+related past experiences. A fresh experience, or active thinking about an experience
+that presents a decision problem, is likely to activate nearby brain circuits, ones that
+have strong associations with our current circumstances. These are likely to begin
+firing randomly, to provide unpredictable raw material for actionable possibilities.
+    The strong feeling that sometimes “we don’t know what we think until we hear
+what we say” reflects our capability for original and creative thoughts, different
+from anything we have consciously learned or thought before. A new idea may be
+something as simple as substituting a synonymous word, or more complex
+replacements with associated words (metonyms) or wild leaps of fancy (metaphor)
+are examples of building unpredictable thoughts. Picturing ourselves doing some-
+thing we have seen others do, from “monkey see, monkey do” childhood mimicry
+to adult imitations, is a source for action items on the agenda, with the random
+element as simple as if and when we choose to do them.
+    But how exactly is the required randomness recruited to build these alternative
+possible thoughts and actions?
+    Some critics argue that brain structures are too large to be affected at all by
+quantum events. But there is little doubt that the brain has evolved to the point
+where it can access quantum phenomena. The evolutionary advantage for the mind
+is freedom and creativity. Biophysics tells us the eye can detect a single quantum of
+light (a photon), and the nose can smell a single molecule. It seems clear that the
+brain has evolved to the quantum limit and thus has access to quantum noise—when
+randomness is helpful, when it enhances reproductive success.
+    If the Micro Mind is a random generator of frequently outlandish and absurd
+possibilities, the complementary Macro Mind is a macroscopic structure so large
+that quantum effects are negligible. It is the critical apparatus that makes adequately
+determined decisions based on our character and values. It can suppress quantum
+noise, by averaging over many such effects to achieve statistical regularity, or
+perhaps even with the kinds of error detection and correction techniques designed
+into modern computers.
+    Note that information about our character and values is probably stored in the
+same noise-susceptible neural circuits of our brain cortex. Macro Mind and Micro
+Mind are not necessarily in different locations in the brain. Instead, their difference
+is probably the consequence of different information processing methods. The
+Macro Mind must suppress the noise when it makes an adequately determined
+decision. But it also can turn on the sensitivity to noise in the Micro Mind when new
+possibilities are needed.
+    Normally noise is the enemy of information, but it can be the friend of freedom
+and creativity.
+    The Macro Mind has very likely evolved to add enough redundancy to reduce
+the noise to levels required for an adequate determinism. This means that our
+decisions are in principle predictable, given knowledge of all our past actions and
+given the randomly generated possibilities in the instant before decision. However,
+16   The Two-Stage Model to the Problem of Free Will                                 247
+
+
+only we know the contents of our minds. New possibilities exist only within our
+minds. So other persons could not predict our actions, and until neuroscientists can
+resolve the finest details of information storage in our brains, they too could not
+predict our thoughts and decisions.
+    The two-stage model accounts not just for freedom but also for creativity, original
+thoughts and ideas never before expressed. Unique and new information may come
+into the world with each new thought and action. We are the originators of the new
+information, the authors of our lives, and in this respect we are co-creators of our
+universe (Doyle 2011; Chap. 22).
+    Biologists will note that the Micro Mind corresponds to random variation
+(mutations) in the gene pool (often the direct result of quantum accidents). The
+Macro Mind corresponds to natural selection by highly determined organisms. Karl
+Popper may have been the first to point this out (Popper 1977).
+    Psychologists will see the resemblance of Micro Mind and Macro Mind to the
+Freudian id and super-ego (das Es und das Über-ich).
+    Note that the two-stage model accounts quantitatively for the concept of wisdom.
+The greater the amount of knowledge and experience, the more likely that the
+random Agenda will contain more useful and “intelligent” thoughts and actions as
+alternative possibilities. It also implies that an educated mind is “more free” because
+it can generate a wider Agenda and options for action. It suggests that “narrow” and
+“closed” minds may simply be lacking the capabilities for generating new ideas of
+the Micro Mind. And if the Macro Mind were weak, it might point to the high
+correlation between creativity and madness suggested by a Micro Mind out of
+control, or it might be an indicator for Aristotle’s “weakness of will” (akrasia).
+    Philosophers of mind, whether determinist or compatibilist, should recognize
+that the second-stage Macro Mind has everything they say is needed to make a
+carefully reasoned and responsible free choice. But now our choices include self-
+generated random possibilities for thought and action that no external agent can
+predict. Thus the choice of the will and the resulting willed action are unpredictable.
+The origin of the chosen causal chain is entirely within the agent, a condition
+noted first by Aristotle for voluntary action, the causes are “in us” (en         ~I n).
+                                                                               Zm
+The two-stage model clearly describes “self-determination.”
+
+
+
+
+16.9     Decisions are a Multistep, Even Continuous, Process
+
+The two-stage model is not limited to a single stage of generating alternative
+possibilities followed by a single stage of determination by the will.
+   It is better understood as a continuous process of possibilities generation by the
+Micro Mind (the parts of the brain that leave themselves open to noise) and
+adequately determined choices made from time to time by the Macro Mind (the
+same brain parts, perhaps, but now averaging over and filtering out the noise that
+might otherwise make the determination random).
+248                                                                             R.O. Doyle
+
+Fig. 16.1 The two-stage
+                                                                         Decision
+model of free will
+                                                  Generate        Evaluate
+                              Fixed Past         Possibilities   Alternatives     Future
+                                                          Think Again!
+
+
+
+   In particular, note that a special kind of decision might occur when the Macro
+Mind finds that none of the current options are good enough for the agent’s
+character and values to approve. The Macro Mind then might figuratively say to
+the Micro Mind, "Think again!"
+   Many philosophers have puzzled how an agent could do otherwise in exactly the
+same circumstances. Given the myriad of possible circumstances, it is impossible
+that an agent is ever in exactly the same circumstances. The agent’s memory (stored
+information) of earlier similar circumstances guarantees that.
+   But given the "laws of nature" and the "fixed past" just before a decision,
+philosophers wonder how a free agent can have any possible alternatives. This is
+partly because they imagine a timeline for the decision that shrinks the decision
+process to a single moment.
+   Collapsing the decision to a single moment between the closed fixed past and the
+open ambiguous future makes it difficult to see the free thoughts of the mind
+followed by the willed and adequately determined action of the mind and body.
+   The view of two stages in a temporal sequence makes a somewhat artificial
+separation between the creative randomness of the Micro Mind and the deliberative
+evaluation of the Macro Mind. These two capabilities of the mind can be going on
+at the same time. As Fig.16.1 shows, this can be visualized by the occasional
+decision to go back and think again, when the available alternatives are not good
+enough to satisfy the demands of the agent’s character and values.
+   Our thoughts are free and often appear to come to us. Our actions are adequately
+determined for moral responsibility and appear to come from us. They are up to us
+              0 Zm
+(Aristotle’s ej    ~I n).
+   What then are the sources of alternative possibilities? To what extent are they
+our creations? We can distinguish three important sources, all of them capable of
+producing indeterministic options for thoughts and actions. Two come in from
+outside the mind, the third is internal.
+   The first source is the external world that arrives through our perceptions. It is
+perhaps the major driving force in our lives, constantly requiring our conscious
+attention. Indeed, consciousness can be understood in large part as the exchange of
+actionable information between organism and environment. Although the indeter-
+ministic origin of such ideas is outside us, we can take full responsibility for them if
+they become one of our adequately determined willed actions.
+   The second source of options is other persons. The unique human ability to
+communicate information means that alternative possibilities for our actions are
+being generated by our reactions to other minds.
+16   The Two-Stage Model to the Problem of Free Will                                249
+
+
+   Finally, and most importantly, the Micro Mind generates possibilities internally.
+                                                                     ~I n). In the two-
+                                                                  Zm
+Alternative possibilities truly originate within us (Aristotle’s en
+stage model, the agent is a creative source, the author and originator of her ideas.
+
+
+
+16.10     Six Ways Chance Contributes to Free Will
+
+1. Chance exists in the universe. Quantum mechanics is correct. Indeterminism is
+   true, etc.
+2. Chance is necessary for free will. It breaks the causal chain of predeterminism.
+3. Chance does not directly cause our actions. We can only be responsible for
+   random actions if we flip a coin and claim responsibility “either way.”
+4. Chance can only generate random (unpredictable) alternative possibilities for
+   action or thought. The choice or selection of one action must be adequately
+   determined, so that we can take responsibility. And once we choose, the connec-
+   tion between mind/brain and motor control must be adequately determined to
+   see that "our will be done."
+5. Chance, in the form of noise, both quantum and thermal, must be ever present.
+   The naive model of a single random microscopic quantum event, amplified to
+   affect the macroscopic brain, never made sense. Under what ad hoc circum-
+   stances, at what time, at what place in the brain, would it occur to influence a
+   decision?
+6. Chance must be overcome or suppressed by the adequately determined will
+   when it decides to act, de-liberating the prior free options that “one could have
+   done.”
+Earlier two-stage models have embraced the first two of these roles for chance, but
+very few thinkers, if any, appear to have considered all six essential requirements
+for chance to contribute to libertarian free will.
+
+
+
+16.11     How Does the Two-Stage Model Improve
+          on Other Recent Free-Will Views?
+
+The two-stage model lies between the work of libertarians and compatibilists, who
+believe that free will is compatible with determinism.
+   Apart from religious thinkers, who think free will is a gift of God, and meta-
+physical dualists, who think freedom lies in an immaterial noumenal realm, the
+leading libertarian model is that of Robert Kane and his followers Laura Waddell
+Ekstrom (Ekstrom 2000) and Mark Balaguer (Balaguer 2010). They and Kane’s
+critic Richard Double (Double 1991) have all reached for the dream of genuine
+indeterminacy “centered” in the “moment of choice,” while nevertheless achieving
+agential control over actions.
+250                                                                        R.O. Doyle
+
+
+    Kane calls it “dual voluntary control” when an agent has good reasons for
+deciding either way in a “torn” decision. So the choice can be random and yet the
+agent still can feel responsible. We accept Kane’s clever argument for responsibil-
+ity “either way.” But it seems confusing to describe this as “control” at the moment
+of choice when the final choice is avowedly random, and Kane’s critics have
+strongly objected.
+    Double started out trying to justify three Kane conditions for free will—control,
+rationality, and dual/plural alternative possibilities that allow the agent to choose
+otherwise in exactly the same circumstances.
+    But in the end Double concluded that these three conditions could not be met
+simultaneously by Kane’s model and said so in his 1990 book The Non-Reality of
+Free Will. To be sure, Double may simply share the goal of “Impossibilists” like Galen
+Strawson (Strawson 1994), or “Hard Incompatibilists” like Derk Pereboom (Pereboom
+2001) or “Illusionists” like Saul Smilansky (Smilansky 2000). All these thinkers
+share a goal. They want to deny moral responsibility in order to eliminate moral
+“desert” and retributive punishment. But responsibility can be separated from punish-
+ment (see http://www.informationphilosopher.com/freedom/separability.html).
+    Let’s see how my two-stage model can improve on Kane’s example of the
+businesswoman mentioned above. Recall that she is “torn” between helping
+the victim in the alley and continuing to her important business meeting. Before
+she decides (randomly) between the given choices, she can activate her alternative
+possibilities generator and the Micro Mind might come up with additional alterna-
+tive possibilities. She might for example continue on to her meeting but get out her
+cell phone to report the crime and call for assistance. On her way she might tell any
+passersby to go to the victim’s aid. Note that these creative new options can “come
+to her” up to and even beyond the moment of choice in this case (she is on her
+way to the office).
+    So my two-stage model with the generation of alternative possibilities appears to
+provide real freedom beyond earlier two-stage models that Kane properly found
+unacceptable.
+    The leading thinkers to have proposed but not endorsed a two-stage model are
+the compatibilist Daniel Dennett (Dennett 1978, p. 286) and the agnostic Albert
+Mele (Mele 1995, p. 212). Neither of them could see how quantum events could
+provide an intelligible explanation. But they both saw benefits. Dennett said his
+decision model could “give libertarians what they say they want.” He was right, and
+it is surprising that more libertarians did not adopt Dennett’s model and try to
+improve upon it, perhaps finding the proper role for quantum events, as the two-
+stage model has now done.
+    Mele’s “agnostic autonomism” and “modest libertarianism” were designed to
+take the best parts of libertarian and compatibilist positions, and make them
+defensible whether determinism or indeterminism was “true.”
+    Like Mele’s models, the two-stage model is less “free” than extreme libertarian
+views, but more responsible. As Mele has said, in the second stage, the will is as
+adequately determined as any compatibilist could desire.
+    The two-stage model is also less “determined” than some extreme Compatibilist
+views, because it is not predetermined in the sense of a causal chain back to the
+16   The Two-Stage Model to the Problem of Free Will                                251
+
+
+universe origin. But it is more creative than standard compatibilist views. It provides
+for adequate determination of the will by the agent’s reasons, motives, feelings, and
+desires. But it also provides the limited indeterminism needed for the generation of
+new ideas that allow the agent to be the originator and author of her life.
+    David Hume reconciled freedom with determinism. We believe that the two-
+stage model reconciles free will with indeterminism.
+    Might compatibilists find this a satisfactory model for a more comprehensive
+compatibilism, one compatible both with adequate determinism and with indeter-
+minism that is limited to the generation of alternative possibilities?
+    Of course the model is still incompatible with predeterminism, and it is distinct
+from the indeterminism after or centered at the moment of choice, including Kane’s
+cases of "torn decisions.”
+    The two-stage model is perhaps less “event-causal” and more “agent causal,”
+because the agent has creative powers during the extended "moment of choice."
+These are the kind of powers sought by agent-causalist libertarians like Roderick
+Chisholm (Chisholm 1995), Richard Taylor (Taylor 1966), and Keith Lehrer
+(Lehrer 1966). These philosophers called for an absolute freedom, even from causes
+like reasons, motives, feelings, and desires. This shocked compatibilists at the time.
+Could such agent causalists be satisfied with the agent’s ability to generate totally
+unconstrained new ideas right up to and including the “moment of choice,” ideas
+that are not caused by anything prior to their generation?
+    Nothing in the events of the “fixed past” (and the laws of nature, as compatibilists
+like to say) up to the “moment of choice” predetermines the agent’s decision.
+Because the first stage generates new alternative possibilities, the two-stage model
+lets the agent choose otherwise in exactly the same circumstances that obtained
+before the beginning of deliberation. Kane calls this the “Indeterminist Condition,”
+he says “the agent should be able to act and act otherwise (choose different possible
+futures), given the same past circumstances and laws of nature” (Kane 2005).
+    This ability to do otherwise is often considered the most extreme requirement for
+libertarianism. The two-stage model now provides a credible explanation for this
+very important ability to do otherwise in exactly the same circumstances before the
+decision process began.
+    Discussions with Robert Kane at the Social Trends Institute’s Experts Meeting
+in Barcelona and later have led to a convergence of views between Kane and the
+author. We both embrace indeterminism as an essential part of free will, the author
+in the first stage of my two-stage model, Kane in the late stage of a decision, where a
+choice between different options in a “torn decision” can involve indeterminism but
+without loss of responsibility.
+
+
+
+16.12     Conclusion
+
+Although the problem of free will is nearly twenty-three centuries old, it is time to
+acknowledge that today we have a plausible, practical, and scientific two-stage
+solution to the problem. About 125 years ago, William James said that we must
+252                                                                            R.O. Doyle
+
+
+accept absolute chance as a part of that solution, comparing the role of chance
+explicitly to its role in evolution that Darwin had announced a quarter century
+earlier.
+   It has been a hundred years since William James’s death, time for recognition of
+his great achievement, bravely proclaimed to an audience of Harvard Divinity
+School students in an age when chance was still considered atheistic and an affront
+to God’s foreknowledge.
+   Seventy-five years ago, James’s most important student, Dickinson Miller,
+writing under the pseudonym R.E. Hobart and just a few years after quantum
+indeterminacy was discovered, reminded us that determination by the will was
+also required (Hobart 1934). Unfortunately, Hobart’s work was misread by many
+compatibilist philosophers as requiring determinism, not simply determination.
+Hobart explicitly denied predeterminism.
+   Fifty years ago, A.J. Ayer (Ayer 1954) and J.J.C. Smart (Smart 1961) perfected
+the standard logical argument against free will, that either determinism or indeter-
+minism must be true, and that free will was impossible either way. If we are
+determined, we are not free. If we are undetermined, our will is random.
+   Just over a quarter century ago, Karl Popper, Henry Margenau, and Daniel
+Dennett discussed two-stage models for free will that connected random events to
+our decisions, but the general philosophical community remained determinist and
+compatibilist. This was despite Peter van Inwagen’s Consequence Argument (van
+Inwagen, 1983), which denies free will if all our actions are traceable in a causal
+chain to events back long before we were born. And it was despite Robert Kane’s
+book Free Will and Values (Kane 1984) which launched his campaign to find some
+intelligible way to make quantum indeterminacy the key to free will.
+   Now Martin Heisenberg has identified chance as generating alternative
+possibilities for action in the lowest animals. Evolution has no doubt conserved
+this ability to recruit chance, since it provides the significant biological advantage
+of creativity. Behavioral freedom in lower animals has evolved to become free will
+in higher animals and humans.
+   The two-stage model of first “free” and then “will” is simple, intuitive, and the
+common sense view of the layperson. Our thoughts come to us freely. Our actions
+go from us willfully.
+   We conclude that science is indeed compatible with our desire for human
+freedom.
+
+
+
+References
+
+Aristotle. (1933a). Metaphysics, Book VI, 1027b12-14. Cambridge, MA: Harvard Loeb Library.
+Aristotle. (1933b). Nichomachean ethics, Book III, v.6, 1113b19-22. Cambridge, MA: Harvard
+   Loeb Library.
+Ayer, A. J. (1954). Philosophical essays (p. 275). New York: St. Martin’s Press.
+Baars, B. (1997). In the theater of consciousness. New York: Oxford University Press.
+Balaguer, M. (2010). Free will as an open scientific problem. Cambridge, MA: MIT Press.
+16   The Two-Stage Model to the Problem of Free Will                                           253
+
+Chisholm, R. (1995). Agents, causes, and events: The problem of free will. In T. O’Connor (Ed.),
+   Agents, causes, and events: Essays on indeterminism and free will (p. 95). Oxford: Oxford
+   University Press.
+Cicero, M. T. (1951). De Natura Deorum. Cambridge, MA: Harvard Loeb Library.
+Compton, A. H. (1931). The uncertainty principle and free will. Science, 74, 1911.
+Dennett, D. (1978). On Giving Libertarians What They Say They Want. In Brainstorms (p. 295).
+   Montgomery, VT: Bradford Books.
+Double, R. (1991). The non-reality of free will. New York: Oxford University Press.
+Doyle, R. O. (2009). Free will: It’s a normal biological property, not a gift or a mystery. Nature,
+   459, 1052.
+Doyle, R. O. (2010). Jamesian free will. William James Studies, 5, 1–28.
+Doyle, R. O. (2011). Free will: The scandal in philosophy. Cambridge, MA: I-PHI Press.
+Eddington, A. S. (1958). The nature of the physical world (p. 294). Ann Arbor: University of
+   Michigan Press.
+Eddington, A. S. (1938). The philosophy of physical science (p. 182). New York: Macmillan.
+Ekstrom, L. W. (2000). Free will. Boulder, CO: Westview Press.
+Gazzaniga, M. (2011). Who’s in charge? Free will and the science of the brain. New York:
+   Harper-Collins.
+Heisenberg, M. (2009). Is free will an illusion? Nature, 459, 164–165.
+Hobart, R. E. (1934). Free will as requiring determination, and inconceivable without it. Mind, Vol
+   XLIII, 169, 2.
+Hume, D. (1975). Enquiries concerning Human Understanding, Section VI. In Of liberty and
+   necessity (p. 95). Oxford: Clarendon Press.
+James, W. (1880). Great Men, Great Thoughts, and the Environment. Atlantic Monthly, 46(276),
+   441–459.
+James, W. (1956). The dilemma of determinism. In The Will to Believe. New York: Dover Press.
+Kane, R. (1984). Free will and values. Albany, NY: SUNY Press.
+Kane, R. (1999). Responsibility, luck, and chance. The Journal of Philosophy, 96(5), 225.
+Kane, R. (2005). A contemporary introduction to free will (p. 265). New York: Oxford Press.
+Landauer, R. (1961). Irreversibility and heat generation in the computing process. IBM Journal of
+   Research and Development, 5, 183–191.
+Layzer, D. (1975). The arrow of time. Scientific American, 233(6), 56–69.
+Lehrer, K. (1966). An empirical disproof of determinism. In K. Lehrer (Ed.), Freedom and
+   determinism (p. 175). New York: Random House.
+Locke, J. (1959). Essay concerning human understanding. Book II. Chapter XXI. Of power,
+   Sections 14–21 (pp. 319–324). New York: Dover Press.
+Long, A. A. (1986). Hellenistic philosophy (p. 149). Berkeley, CA: University of California Press.
+Lucretius, T. (1982). De Rerum Natura. Book 2, lines 251–262. Cambridge, MA: Harvard Loeb
+   Library.
+Ludwig, G. (1953). Der Messprozess (The Process of Measurement). Zeitschrift für Physik, 135,
+   483.
+Margenau, H. (1968). Scientific indeterminism and human freedom. Latrobe, PA: Archabbey
+   Press.
+Mayr, E. (1988). Toward a new philosophy of biology (p. 150). Cambridge, MA: Harvard Belknap
+   Press.
+Mele, A. (1995). Autonomous agents (pp. 212–213). New York: Oxford University Press.
+Mele, A. (2006). Free will and luck (p. 9). Oxford: Oxford University Press.
+Murphy, N., Ellis, G. F. R., & O’Connor, T. (2009). Downward causation and the neurobiology of
+   free will. New York: Springer.
+Nagel, T. (1979). Moral luck. In Mortal Questions (p. 24). Cambridge: Cambridge University
+   Press.
+Newell, A., & Simon, H. A. (1972). Human problem solving. Englewood Cliffs, NJ: Prentice Hall.
+Pereboom, D. (2001). Living without free will. Cambridge: Cambridge University Press.
+254                                                                                R.O. Doyle
+
+
+Popper, K. (1977). Natural selection and the emergence of mind. Cambridge: Darwin College.
+Smart, J. J. C. (1961). Free-will, praise and blame. Mind, LXX, 279.
+Smilansky, S. (2000). Free will and illusion. Oxford: Clarendon.
+Stebbings, L. S. (1958). Philosophy and the physicists (p. 185). New York: Dover Press.
+Strawson, G. (1994). The impossibility of moral responsibility. Philosophical Studies, 75(1–2),
+    5–24.
+Swinburne, R. (2011). Dualism and the determination of action. In R. Swinburne (Ed.), Free will
+    and modern science. New York: Oxford University Press.
+Taylor, R. (1966). Action and purpose. Englewood Cliffs, NJ: Prentice-Hall.
+Van Inwagen, P. (2000). Free will remains a mystery. Philosophical Perspectives, 14, 14.
+Wegner, D. (2002). The illusion of conscious will. Cambridge, MA: MIT Press.
+Wiggins, D. (1973). Towards a reasonable libertarianism. In T. Honderich (Ed.), Essays on
+    freedom of action (p. 33). London: Routledge & Kegan Paul.
+Williams, B. (1981). Moral luck (p. 20). Cambridge: Cambridge University Press.
+

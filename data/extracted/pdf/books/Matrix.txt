@@ -1,0 +1,332 @@
+         108   My God, He Plays Dice!
+Chapter 17
+
+
+
+
+                               a t
+                            M nics r i x
+                             e c h a
+                           M
+                                               Matrix Mechanics 109
+
+
+Matrix Mechanics
+    What the matrix mechanics of Werner Heisenberg, Max
+Born, and Pascual Jordan did was to find another way to
+determine the “quantum conditions” that had been hypothesized
+by Niels Bohr, who was following J.W.Nicholson’s suggestion
+that the angular momentum is quantized. These conditions
+correctly predicted values for Bohr’s “stationary states” and
+“quantum jumps” between energy levels.
+    But they were really just guesses in Bohr’s “old quantum theory,”
+validated by perfect agreement with the values of the hydrogen
+
+
+
+
+                                                                        Chapter 17
+atom’s spectral lines, especially the Balmer series of lines whose
+1880’s formula for term differences first revealed the existence of
+integer quantum numbers for the energy levels,
+    1/λ = RH (1/m2 - 1/n2).
+    Heisenberg, Born, and Jordan recovered the same quantization
+of angular momentum that Bohr had used, but we shall see that
+it showed up for them as a product of non-commuting matrices.
+    Most important, they discovered a way to calculate the energy
+levels in Bohr’s atomic model as well as determine Albert
+Einstein’s 1916 transition probabilities between levels in a
+hydrogen atom. They could explain the different intensities in the
+resulting spectral lines.
+    Before matrix mechanics, the energy levels were empirically
+“read off ” the term diagrams of spectral lines. Matrix mechanics is
+a new mathematical theory of quantum mechanics. The accuracy
+of the old quantum theory came from the sharply defined spectral
+lines, with wavelengths measurable to six significant figures.
+    The new quantum theory did not try to interpret or visualize
+what is going on in transitions. Indeed, it strongly discouraged
+any visualizations. It even denied the existence of electron orbits,
+a central concept in the Rutherford-Bohr-Sommerfeld atom.
+    Heisenberg had worked with Hendrik A. Kramers at Bohr’s
+Institute for Physics in Copenhagen to analyze electronic orbits as
+Fourier series. Kramers had hoped to identify the higher harmonic
+         110     My God, He Plays Dice!
+
+               frequencies in the series expansion of orbital frequencies with
+               those of electronic transitions, but Kramer’s predictions only
+               worked for large quantum numbers where Bohr’s correspondence
+               principle applies.
+                  Kramers’ work began with estimates of what were called
+               “dispersion laws” by Rudolf Ladenberg. The work culminated
+               in the Kramers-Heisenberg dispersion formula in 1925. Based on
+               Bohr’s correspondence principle, these led to accurate estimates
+               of the intensities of spectral lines in the hydrogen atom for high
+               quantum numbers. But the assumed orbital frequencies for low
+               quantum numbers did not agree with observations.
+Chapter 17
+
+
+
+
+                  Until Heisenberg in 1925, most of the work in the “old quan-
+               tum theory” focused on models of elementary particles. For
+               example, electrons were visualized as going around Ernest
+               Rutherford’s nucleus in orbits, like planets circling the sun.
+               Arnold Sommerfeld extended the Bohr analogy to include
+               Keplerian elliptical orbits with differing angular momentum.
+                  Heisenberg’s great breakthrough was to declare that his theory
+               is based entirely on “observable” quantities like the intensities and
+               frequencies of the visible spectral lines.
+                   The attempts by Kramers to predict observed spectral lines as
+               higher harmonics in a Fourier analysis of the assumed electronic
+               orbit frequencies ended in failure. But the methods he had
+               developed with Heisenberg’s help were adapted by Heisenberg
+               to a Fourier analysis of the observed spectral line frequencies.
+               Heisenberg assumed they originate in virtual oscillators like the
+               simple harmonic motion of a vibrating string pinned at the ends
+               or the more complex anharmonic oscillator.
+                  As Kramers had done, Heisenberg identified line intensities with
+               the square of the amplitude of vibrations, which was the classical
+               expression for an oscillating electron. But now Heisenberg’s major
+               insight was to calculate values for the position and momentum
+               of the particle using two states rather than one, the initial and
+               final stationary states or energy levels, which we suggested in the
+               chapter on the Bohr atom could simply be “read off ” the empirical
+               term diagrams.
+                  Heisenberg’s requirement for two states led to an arrangement
+               of transitions in a two-dimensional square array. One dimension
+                                                    Matrix Mechanics 111
+
+was the initial states, the other the final. The array element for i=3
+and f=2 represents the transition from level 3 to level 2 with the
+emission of a light quantum.
+    When his mentor Max Born looked at Heisenberg’s draft
+paper in July of 1925, he recognized the square arrays as matrices,
+a powerful mathematical tool with some unusual properties that
+played a decisive role in the new quantum mechanics.
+   Born and his assistant Pascual Jordan submitted a paper within
+weeks about the strange “non-commuting” of some dynamical
+variables in quantum mechanics. Normally the order of multiplication
+makes no difference, ab = ba. But the matrices for the position and
+
+
+
+
+                                                                          Chapter 17
+momentum operators x and p exhibit what was to become the new
+“quantum condition,” a defining characteristic of the new quantum
+mechanics.
+   As Born describes the array,
+      If we start from the frequencies,
+                  νnm = En/h - Em/h,
+      it is a natural suggestion that we arrange them in a square array
+         ν11 =        ν12          ν13     ...
+         ν21          ν22 =        ν23     ...
+         ν31          ν23          ν33 =   ...
+         ...          ...          ...     ...
+      We can proceed to define the product of two such arrays.The
+      multiplication rule, which Heisenberg deduced solely from ex-
+      perimental facts, runs:
+                  (anm)(bnm) = (Σk ankbkm).1
+       The central idea of matrix mechanics is that every physical
+      magnitude has such a matrix, including the co-ordinate position
+      and the momentum. However, the product of momentum and
+      position is no longer commutative as in classical mechanics,
+      where the order of multiplication does not matter.
+             pkqk = qkpk.
+  Instead, Heisenberg found that
+             pkqk - qkpk.= h/2πi.
+
+
+  1       Born Atomic Physics, p.116
+         112       My God, He Plays Dice!
+
+                  It is this purely mathematical non-commutation property that is
+               the “quantum condition” for the new quantum mechanics, especially
+               for Paul Dirac, see chapter 19.
+                  But notice that Heisenberg’s product of momentum and position
+               has the dimensions of angular momentum. So we are back to
+               Planck’s original fortuitive but most insightful guess, and can now
+               add to the answer to our opening question “what is quantized?”
+               This Heisenberg-Born-Jordan discovery that the product of non-
+               commuting quantities p and q leads directly to Planck’s constant
+               h, his “quantum” of action, gives us a great insight into what is going
+               on in quantum reality.
+Chapter 17
+
+
+
+
+                  It is always angular momentum or spin that is quantized, just
+               as Nicholson had suggested to Bohr, including the dimension-
+               less isospin of the neutrons and protons and other sub-elementary
+               particles, which obey the same mathematics as spin and orbital
+               angular momentum for electrons.
+                  And it is the possible projections of the spin or angular
+               momentum onto any preferred directions, such as an external field,
+               that determines possible quantum states. The field is the average over
+               all the dipole and quadrupole moments of other nearby spinning
+               particles.
+               Heisenberg on Einstein’s Light Quanta
+                  Although his matrix mechanics confirmed discrete states and
+               “quantum jumps” of electrons between the energy levels, with
+               emission or absorption of radiation, Heisenberg did not yet accept
+               today’s standard textbook view that the radiation is also discrete and
+               in the form of Einstein’s spatially localized light quanta, which had
+               been renamed “photons” by American chemist Gilbert Lewis in
+               late 1926.
+                  Heisenberg must have known that Einstein had introduced
+               probability and causality into physics in his 1916 work on the
+               emission and absorption of light quanta, with his explanation of
+               transition probabilities and prediction of stimulated emission.
+                  But Heisenberg gives little credit to Einstein. In his letters to
+               Einstein, he says that Einstein’s work is relevant to his, but does
+               not follow through on exactly how it is relevant. And as late as the
+                                                       Matrix Mechanics 113
+
+Spring of 1926, perhaps following Niels Bohr, he is not convinced
+of the reality of light quanta. “Whether or not I should believe in
+light quanta, I cannot say at this stage,” he said. After Heisenberg’s
+1926 talk on matrix mechanics at the University of Berlin, Einstein
+invited him to take a walk and discuss some basic questions.
+   We only have Heisenberg’s version of this conversation, but it is
+worth quoting at length to show how little the founders appreciated
+Einstein’s work over the previous two decades on the fundamental
+concepts of quantum mechanics.:
+    I apparently managed to arouse Einstein’s interest, for he invited me to
+   walk home with him so that we might discuss the new ideas at greater
+
+
+
+
+                                                                                 Chapter 17
+   length. On the way, he asked about my studies and previous research.
+   As soon as we were indoors, he opened the conversation with a
+   question that bore on the philosophical background of my recent work.
+   “What you have told us sounds extremely strange. You assume the
+   existence of electrons inside the atom, and you are probably quite right
+   to do so. But you refuse to consider their orbits, even though we can
+   observe electron tracks in a cloud chamber. I should very much like to
+   hear more about your reasons for making such strange assumptions.”
+    “We cannot observe electron orbits inside the atom,” I must have
+   replied, “but the radiation which an atom emits during discharges
+   enables us to deduce the frequencies and corresponding amplitudes
+   of its electrons. After all, even in the older physics wave numbers and
+   amplitudes could be considered substitutes for electron orbits. Now,
+   since a good theory must be based on directly observable magnitudes,
+   I thought it more fitting to restrict myself to these, treating them, as it
+   were, as representatives of the electron orbits.”
+    “But you don’t seriously believe,” Einstein protested, “that none but
+   observable magnitudes must go into a physical theory?”
+    “Isn’t that precisely what you have done with relativity?” I asked in
+   some surprise. “After all, you did stress the fact that it is impermissible
+   to speak of absolute time, simply because absolute time cannot be
+   observed; that only clock readings, be it in the moving reference system
+   or the system at rest, are relevant to the determination of time.”
+    “Possibly I did use this kind of reasoning,” Einstein admitted, “but it
+   is nonsense all the same. Perhaps I could put it more diplomatically
+   by saying that it may be heuristically useful to keep in mind what
+   one has actually observed. But on principle, it is quite wrong to try
+   founding a theory on observable magnitudes alone. In reality the very
+   opposite happens. It is the theory which decides what we can observe.
+         114   My God, He Plays Dice!
+
+               You must appreciate that observation is a very complicated process.
+               The phenomenon under observation produces certain events in our
+               measuring apparatus. As a result, further processes take place in the ap-
+               paratus, which eventually and by complicated paths produce sense im-
+               pressions and help us to fix the effects in our consciousness. Along this
+               whole path - from the phenomenon to its fixation in our consciousness
+               — we must be able to tell how nature functions, must know the natural
+               laws at least in practical terms, before we can claim to have observed
+               anything at all. Only theory, that is, knowledge of natural laws, enables
+               us to deduce the underlying phenomena from our sense impressions.
+               When we claim that we can observe something new, we ought really
+               to be saying that, although we are about to formulate new natural laws
+               that do not agree with the old ones, we nevertheless assume that the
+Chapter 17
+
+
+
+
+               existing laws — covering the whole path from the phenomenon to our
+               consciousness—function in such a way that we can rely upon them and
+               hence speak of ’observations’...
+                “We shall talk about it again in a few years’ time. But perhaps I may
+               put another question to you. Quantum theory as you have expounded
+               it in your lecture has two distinct faces. On the one hand, as Bohr
+               himself has rightly stressed, it explains the stability of the atom; it
+               causes the same forms to reappear time and again. On the other hand,
+               it explains that strange discontinuity or inconstancy of nature which we
+               observe quite clearly when we watch flashes of light on a scintillation
+               screen. These two aspects are obviously connected. In your quantum
+               mechanics you will have to take both into account, for instance when
+               you speak of the emission of light by atoms. You can calculate the
+               discrete energy values of the stationary states. Your theory can thus
+               account for the stability of certain forms that cannot merge continu-
+               ously into one another, but must differ by finite amounts and seem
+               capable of permanent re-formation. But what happens during the emis-
+               sion of light?
+                “As you know, I suggested that, when an atom drops suddenly from
+               one stationary energy value to the next, it emits the energy difference
+               as an energy packet, a so-called light quantum. In that case, we have
+               a particularly clear example of discontinuity. Do you think that my
+               conception is correct? Or can you describe the transition from one
+               stationary state to another in a more precise way?”
+                In my reply, I must have said something like this: “Bohr has taught
+               me that one cannot describe this process by means of the traditional
+               concepts, i.e., as a process in time and space. With that, of course,
+               we have said very little, no more, in fact, than that we do not know.
+               Whether or not I should believe in light quanta, I cannot say at this
+               stage. Radiation quite obviously involves the discontinuous elements
+               to which you refer as light quanta. On the other hand, there is a
+                                                            Matrix Mechanics 115
+
+      continuous element, which appears, for instance, in interference
+      phenomena, and which is much more simply described by the wave
+      theory of light. But you are of course quite right to ask whether
+      quantum mechanics has anything new to say on these terribly difficult
+      problems. I believe that we may at least hope that it will one day.
+       “I could, for instance, imagine that we should obtain an interesting
+      answer if we considered the energy fluctuations of an atom during
+      reactions with other atoms or with the radiation field. If the energy
+      should change discontinuously, as we expect from your theory of light
+      quanta, then the fluctuation, or, in more precise mathematical terms,
+      the mean square fluctuation, would be greater than if the energy
+      changed continuously. I am inclined to believe that quantum mechan-
+      ics would lead to the greater value, and so establish the discontinuity.
+
+
+
+
+                                                                                       Chapter 17
+      On the other hand, the continuous element, which appears in interfer-
+      ence experiments, must also be taken into account. Perhaps one must
+      imagine the transitions from one stationary state to the next as so many
+      fade-outs in a film. The change is not sudden—one picture gradually
+      fades while the next comes into focus so that, for a time, both pictures
+      become confused and one does not know which is which. Similarly,
+      there may well be an intermediate state in which we cannot tell whether
+      an atom is in the upper or the lower state.”
+       “You are moving on very thin ice,” Einstein warned me. “For you are
+      suddenly speaking of what we know about nature and no longer about
+      what nature really does. In science we ought to be concerned solely
+      with what nature does. It might very well be that you and I know quite
+      different things about nature. But who would be interested in that?
+      Perhaps you and I alone. To everyone else it is a matter of complete
+      indifference. In other words, if your theory is right, you will have to
+      tell me sooner or later what the atom does when it passes from one
+      stationary state to the next”
+       “Perhaps,” I may have answered. “But it seems to me that you are
+      using language a little too strictly. Still, I do admit that everything that I
+      might now say may sound like a cheap excuse. So let’s wait and see how
+      atomic theory develops.”
+       Einstein gave me a skeptical look. “How can you really have so much
+      faith in your theory when so many crucial problems remain completely
+      unsolved?”2
+   Heisenberg (with Bohr) “cannot say at this stage” (1926) whether
+or not they can “believe in light quanta.” Nor do they understand at
+all Einstein’s hope of understanding “objective reality,” what nature
+really does and not just what we can say about it.
+  2       Physics and Beyond, p. 67
+

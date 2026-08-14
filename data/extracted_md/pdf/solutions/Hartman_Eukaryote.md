@@ -1,0 +1,380 @@
+# J Mol Evol (2004) 59:695–702
+
+**source:** pdf · **section:** solutions
+**file:** Hartman_Eukaryote
+---
+
+DOI: 10.1007/s00239-003-0085-1
+
+What Does the Microsporidian E. cuniculi Tell Us About the Origin of the
+Eukaryotic Cell?
+
+Alexei Fedorov,1 Hyman Hartman2
+
+1
+    Department of Medicine, Medical College of Ohio, Toledo OH 43614, USA
+2
+    Center for Biomedical Engineering NE47-377, MIT, Cambridge, MA 02139, USA
+
+Received: 19 August 2003 / Accepted: 1 July 2004 [Reviewing Editor: Dr. Manyuan Long]
+
+Abstract. The relationship among the three cellular                Introduction
+domains Archaea, Bacteria, and Eukarya has become
+a central problem in unraveling the tree of life. This             The microsporidia were once considered to be the
+relationship can now be studied as the completely                  deepest-branching eukaryote taxon. Carl Woese and
+sequenced genomes of representatives of these cellu-               his team found the microsporidia to be very close to
+lar domains become available. We performed a bio-                  the root of the Eukarya based on their ribosomal
+informatic investigation of the Encephalitozoon                    RNA phylogeny (Vossbrinck et al. 1987). However,
+cuniculi proteome. E. cuniculi has the smallest se-                this deep divergence was due to a long-branch
+quenced eukaryotic genome, 2.9 megabases coding                    attraction artifact resulting from rapid evolution of
+for 1997 proteins. The proteins of E. cuniculi were                the microsporidia (Gribaldo and Phillippe 2002). The
+compared with a previously characterized set of                    recent analyses of combined protein data resulted in
+eukaryotic signature proteins (ESPs). ESPs are found               the identiﬁcation of the microsporidian Encephalito-
+in a eukaryotic cell, whether from an animal, a plant,             zoon cuniculi as a member of the fungal kingdom
+a fungus, or a protozoan, but are not found in the                 (Baldauf et al. 2000). In fact, E. cuniculi is an intra-
+Archaea and the Bacteria. We demonstrated that                     cellular fungal parasite. This lifestyle has caused the
+85% of the ESPs have signiﬁcant sequence similarity                shrinking of its genome. E. cuniculi is thus a candi-
+to proteins in E. cuniculi. Hence, E. cuniculi, a mini-            date for the ‘‘minimal’’ eukaryotic cell. It has the
+mal eukaryotic cell that has removed all inessential               added virtue to have had its genome fully sequenced.
+proteins, still preserves most of the ESPs that make it               Let us examine the concept of a minimal cell. The
+a member of the Eukarya. The locations and func-                   search for the minimal cell began in the cellular do-
+tions of these ESPs point to the earliest history of               main of the Bacteria with the investigation of the
+eukaryotes.                                                        Mycoplasma, a group of small parasitic bacteria
+                                                                   (Razin 1997). Mycoplasma genitalium, an intracellu-
+Key words: Eukaryote — Giardia — Encephalito-                      lar parasite, has one of the smallest known bacterial
+zoon cuniculi — Microsporidia — Minimal cell —                     genomes. Because of its small size, it was among the
+Nucleus — Endosymbiosis                                            ﬁrst bacterial genomes to be sequenced. The genome
+                                                                   of M. genitalium has only 580,000 base pairs (bp),
+                                                                   which codes for 468 proteins (Fraser et al. 1995). The
+                                                                   characterization of the minimal cell began by com-
+                                                                   paring the proteins found in M. genitalium to those
+                                                                   found in Haemophilus inﬂuenzae, an early sequenced
+                                                                   gram-negative bacteria causing ear infections
+Correspondence to: Hyman Hartman; email: hhartman@mit.edu          (Mushegian and Koonin 1996). Computer analysis
+696
+
+produced a set of 240 proteins of M. genitalium that        cell of E. cuniculi. The surprising result is the over-
+have orthologs in H. inﬂuenzae. This set was ex-            whelming agreement (85%) between the eukaryote-
+panded by the addition of 16 other ‘‘gene displace-         speciﬁc proteins of E. cuniculi and the previously
+ment’’ proteins. Thus the genome of a minimal cell          characterized set of Giardia ESPs. What can the
+would code for the 256 proteins that would carry out        genome of the intracellular microsporidian parasite
+the bare essential cellular functions such as DNA           E. cuniculi tell us about the origin of the eukaryotic
+replication, protein synthesis (translation and tran-       cell? The answer is a great deal as we investigate a
+scription), metabolism (glycolysis), and various            minimal eukaryotic cell, which has eliminated all but
+membrane related functions. It was assumed that the         the most essential functions.
+minimal bacterial cell would be a minimal cell for the
+other cellular domains. However, when Mushegian
+and Koonin compared these 256 proteins with those           Materials and Methods
+from other domains, a lack of correspondence
+                                                            Protein sequence databases of S. cerevisiae, D. melanogaster, A.
+unexpectedly appeared. For example, they found that
+                                                            thaliana, G. lamblia, and 44 bacteria and archaea were downloaded
+diﬀerent sets of proteins were involved in Eukarya          as previously described (Hartman and Fedorov 2002). Protein se-
+and Archaea DNA replication. The authors con-               quences of E. cuniculi (1997 entries) were downloaded from Gen-
+cluded that the last common ancestor of the three           Bank (Benson et al. 1999).
+cellular domains ‘‘had an RNA genome’’ and that
+DNA replication had evolved twice: once in Bacteria             ESPs of Giardia. In our previous paper (Hartman and
+and independently in Archaea and Eukarya.                   Fedorov 2002) we performed consecutive BLAST2.0 alignments of
+                                                            S. cerevisiae proteins with proteins of D. melanogaster, C. elegans,
+(Mushegian and Koonin 1996). Hence, a minimal               A. thaliana, and G. lamblia and those of 44 bacteria and archaea
+eukaryotic cell or a minimal archaeal cell would diﬀer      species. We used a blast score of 55 bits. This score was based on
+from a minimal bacterial cell.                              our consultation with experts in bioinformatics, as the Giardia
+   To characterize a ‘‘minimal’’ eukaryotic cell we         database was in contigs only and was not assembled or annotated.
+began our study with E. cuniculi. The genome of             As a result, 347 yeast proteins that have signiﬁcant sequence sim-
+                                                            ilarity to proteins of all studied eukaryotes, but not to any bacteria
+microsporidian E. cuniculi has been sequenced (Kat-         or archaea (identity threshold of 55 blast score bits), were selected.
+inka et al. 2001). Its length is 2.9 million bp, close to   We call this set ESPs of G. lamblia, since Giardia represents the
+the median size of sequenced prokaryotic genomes            most divergent eukaryotic proteins in the studied group.
+(2.6 million bp). E. cuniculi has 1997 predicted genes,
+44% of which have known functions (Katinka et al.               ESPs of E. cuniculi. The comparison of G. lamblia and
+2001). These data imply that E. cuniculi is                 E. cuniculi proteins began with collecting ESPs of E. cuniculi which
+approaching the size of a minimal eukaryotic cell. To       followed our previous approach for gathering ESPs of Giardia. We
+                                                            started from 6271 S. cerevisiae proteins and compared them with
+understand the diﬀerences between minimal cells of          proteins of D. melanogaster, C. elegans, A. thaliana, E. cuniculi, and
+Eukarya and Bacteria, we need to characterize the set       44 sequenced bacteria and archaea using BLAST 2.0 alignment
+of proteins in E. cuniculi that is unique to the            program (Altschul et al. 1997). This resulted in 401 S. cerevisiae
+eukaryotes but absent from other cellular domains.          sequences with signiﬁcant similarity to all sequenced eukaryotes
+Previously, we collected a set of proteins that were        but not to any bacteria or archaea. The same similarity threshold of
+                                                            55 blast score bits (used in our previous paper on Giardia ESPs
+found in all sequenced eukaryotic cells and absent in       [Hartman and Fedorov 2002]) has been employed in the present
+Bacteria or Archaea (Hartman and Fedorov 2002).             study which approximately corresponds to a P-value of 10)6. This
+We called this set eukaryotic signature proteins            threshold is suﬃciently stringent and, thus, allows us to assume
+(ESPs). Each protein from the ESP set has homologs          that matched proteins share a common origin. We were also ob-
+in all main eukaryotic branches—animals (Drosophila         liged to use the same 55 blast score as we were about to compare
+                                                            the E. cuniculi ESP results with those of G. lambia. We then com-
+melanogaster and Caenorhabditis elegans), plants            pared the 347 ESPs of Giardia with the 401 ESPs of E. cuniculi. It
+(Arabidopsis thaliana), fungi (Saccharomyces cerevi-        was found that 238 proteins are common to the ESPs of G. lamblia
+siae), and protists (Giardia lamblia)—but does not          and E. cuniculi, while 109 ESPs are unique to G. lamblia and 163
+have homologs in the Archaea and Bacteria. The              are unique to ESP of E. cuniculi. These unique sets were studied
+extracellular eukaryotic parasite G. lamblia was spe-       further using PSI-BLAST programs.
+ciﬁcally chosen for the characterization of these
+ESPs, because it is still considered to be one of the          PSI-BLAST. For each unique protein from the ESP set
+                                                            of G. lamblia that does not match an E. cuniculi ESP, we found the
+deepest-branching taxon of the eukaryotes (i.e., the        best-matched protein from D. melanogaster and A. thaliana pro-
+diplomonads). The numbers and composition of the            teome using the BLAST 2.0 program. These three protein se-
+proteins from the ESP set of Giardia led us to con-         quences were aligned with each other by CLUSTALW 1.8 (Higgins
+clude that the origin of eukaryotes involved the for-       and Sharp 1988) and the multiple alignments obtained was used as
+                                                            input for the PSI-BLAST program (Altschul et al. 1997) in the
+mation of the nucleus from prokaryotic
+                                                            search of the E. cuniculi protein database. The results of the round
+endosymbionts in an RNA-based cell (Hartman and             2 PSI-BLAST output were analyzed automatically by our PERL
+Fedorov 2002). Here we compare the ESPs with                program (prog_PSI_401_2). When a protein from the G. lamblia
+proteins of a minimal and highly diverged eukaryotic        ESP set had a PSI-BLAST alignment score with the E. cuniculi
+                                                                                                                               697
+
+Table 1. Comparison of ESP sets of G. lamblia and E. cuniculi
+
+                                                     BLAST 2.0                                     PSI-BLAST (round 2)
+
+Protein                           No. common                   No. unique               No. weak-homolog           unique
+set                               (‡55 score bits)             (<55 score bits)         (>88 score bits)           (<40 score bits)
+
+347 ESPs, G. lamblia              238                          109                      57                         52
+401 ESPs, E. cuniculi             238                          163
+
+database higher than 88 bits, (in 98% of the cases it was >100 bits),    with the entire set of E. cuniculi proteins using PSI-
+the protein was called a ‘‘putative homolog’’ and is shown in green      BLAST alignment, 57 of these proteins showed weak,
+in Fig. 1. Otherwise, the protein was called ‘‘unique’’ and is shown
+in red on in Fig. 1. At round 2 of PSI-BLAST all ‘‘unique’’ proteins
+                                                                         yet signiﬁcant, similarity to the microsporidian
+had a psi-blast score of <50 bits. We did not perform the re-            (shown in green in Fig. 1). The other 52 proteins re-
+ciprocal procedure for the PSI-BLAST comparison of unique E.             mained speciﬁc to Giardia (shown in red in Fig. 1).
+cuniculi ESPs with the Giardia database because the G. lamblia           Reciprocal psi-blast of E. cuniculi unique ESPs was
+database consists of multiple short nucleotide sequences translated      not performed for reasons outlined under Materials
+in six possible reading frames. This would lead to false negative
+results. All computational procedures were performed automati-
+                                                                         and Methods.
+cally by the PERL script prog_PSI_401_2. The program and all                The ESP sets have some redundancy because of
+described protein sets are available at our web page, www.mco.edu/       recent evolutionarily duplication of a substantial part
+medicine/fedorov/E_cuniculi.                                             of the S. cerevisiae genome. In order to take this
+                                                                         redundancy into account, we divided the ESPs into
+    Protein Groups. All 401 proteins were compared with                  unique protein groups. The similarity threshold of a
+each other by BLAST 2.0 binaries (Altschul et al. 1997). Next we         blast score equaling 55 bits was used for grouping
+performed the simplest grouping procedure: (1) two proteins were
+considered similar and put in the same group if they had a simi-
+                                                                         procedure. As a result, 401 ESPs of E. cuniculi were
+larity score >55 bits, and (2) groups were pooled together if any        divided into 214 unique groups, while 347 ESPs of G.
+member of one had sequence similarity (‡55 bits) to any protein of       lamblia were divided into 180 unique groups. Com-
+another group. This procedure yielded 214 diﬀerent protein groups.       parison of these groups demonstrated that 108 of the
+                                                                         180 Giardia ESP groups are common to E. cuniculi
+                                                                         ESPs (55-bit threshold of BLAST 2.0). When
+Results
+                                                                         ‘‘putative homologs’’ revealed by psi-blast were tak-
+                                                                         ing into account, the number of common groups in-
+Since Giardia proteins (open reading frames) are still
+                                                                         creased to 142.
+not assembled or annotated, we cannot compare
+eukaryote-speciﬁc proteins of G. lamblia with those of
+E. cuniculi directly. In our previous paper, 914 pro-
+teins of S. cerevisiae which have sequence similarity                    Discussion
+to D. melanogaster, C. elegans, and A. thaliana (blast
+score, 55 bits) and no sequence similarity to Bacteria                   There are three groups of proteins in the ESPs of E.
+and Archaea were compared with the fragmented                            cuniculi: (1) those that can be matched to the ESPs of
+Giardia database. That comparison resulted in a set                      G. lamblia by means of a blast score of 55 bits, (2)
+of 347 proteins comprised of 180 unrelated protein                       those that can be matched to the ESPs of G. lamblia
+groups. We called these proteins ESPs of G. lamblia.                     by means of psi-blast, and (3) those that have no
+   Here we used the same set of 914 eukaryote-spe-                       sequence similarity to the ESPs of Giardia. We dis-
+ciﬁc proteins of S. cerevisiae and aligned it with the                   cuss the relevance of these three groups to the
+entire set of 1997 E. cuniculi proteins. This analysis of                structures of the eukaryotic cell.
+401 budding yeast proteins showed signiﬁcant se-
+quence similarity to the microsporidian proteome                            The Plasma Membrane and the Cytoskeleton. As
+(similarity level, >55 blast score bits). We called the                  we discussed in our previous paper, one of the deepest
+401 proteins that were obtained E. cuniculi ESPs. The                    distinctions between prokaryotes and eukaryotes is
+401 ESPs of E. cuniculi were compared to the 347                         found in the plasma membrane (Hartman and Fe-
+ESPs of G. lamblia. The main results of this com-                        dorov 2002). There is a lack of clathrin and associ-
+parison are summarized in Table 1 and the entire                         ated proteins in the ESPs of E. cuniculi (see Fig. 1).
+comparison is presented in Fig. 1. Two hundred                           Since E. cuniculi is an intracellular parasite, it possi-
+thirty-eight proteins are common in the two sets,                        bly has a diminished need for clathrin-based endo-
+while 109 are unique to G. lamblia ESPs and 163 to                       cytosis. This conjecture points out a diﬀerence
+ESPs of E. cuniculi (see Table 1). However, when the                     between being an intracellular parasite (E. cuniculi)
+109 unique ESP G. lamblia proteins were compared                         and being an extracellular parasite (Giardia).
+698
+
+Fig. 1. Continued.
+                                                                                                                                        699
+
+Fig. 1. Comparison of proteins from the 347-ESP set of G.             that this protein is missing from the 401-ESP set of E. cuniculi,
+lamblia and 401-ESP set of E. cuniculi. The unique identiﬁer sym-     however, its ‘‘putative homolog,’’ detected by psi-blast, is present in
+bols for the proteins are from the Saccharomyces Genome Data-         the E. cuniculi proteome. The red color of a protein identiﬁer from
+base (http://genome-www.stanford.edu/Saccharomyces) and are           the 347-ESP set of G. lamblia shows that this protein does not have
+shown in parentheses in diﬀerent colors. The black color of a         any sequential similarity to E. cuniculi proteins. The red color of a
+protein identiﬁer from the ESP set of G. lamblia shows that this      protein identiﬁer from the 401-ESP set of E. cuniculi means that
+protein is also present among 401 ESPs of E. cuniculi or has a        this protein does not show sequence similarity above 55 bits
+‘‘putative homolog’’ in the E. cuniculi proteome revealed by PSI-     (BLAST 2.0 score) while screening the G. lamblia contig database.
+BLAST. The black color of a protein identiﬁer from the ESP set of     The sum of all black and red identiﬁers for G. lamblia is equal to
+E. cuniculi means that this protein is also present among the 347-    347, and that for E. cuniculi is equal to 401.
+ESP set of G. lamblia. The green color of a protein identiﬁer shows
+700
+
+   The ESPs most closely associated with the plasma       addition to the evolving eukaryotic cell, as fungi
+membrane are cytoskeletal proteins, such as actin and     branched much later in the phylogenetic tree than the
+associated proteins. G. lamblia and E. cuniculi have a    diplomonads. The absence of dynein in the ESPs of
+full complement of actin and actin-related proteins       both E. cuniculi and G. lamblia is due to its rela-
+(see Fig. 1). The three-dimensional structure of actin    tionship to AAA proteins which are widely dispersed
+showed unexpected structural similarities to hexoki-      among the bacteria (Vale 2000). The motor proteins
+nase and HSP 70 (Kabsch and Holmes 1995). These           myosin and kinesin have a common structural motif
+three proteins have a common nucleotide-binding           with the G proteins (Kull et al. 1998). The similarity
+motif, as they all bind ATP in the presence of calcium    of these proteins is due to a common nucleotide-
+or magnesium ions. The ‘‘actin fold’’ was also found      binding motif, which diﬀers from that of actin or
+in the bacterial proteins FtsA and MreB (Kabsch and       tubulin.
+Holmes 1995). What is the evolutionary relationship          The fact that many ESPs have structural similarity
+between actin and bacterial proteins that have the        to the bacterial proteome is not surprising because,
+‘‘actin fold’’? The role of MreB ﬁlaments in the cell     likely, all cells share a common origin. However, the
+shape of bacteria has suggested that the actin cyto-      lack of sequential similarity of the discussed conser-
+skeleton evolved from MreB ﬁlaments (van den Ent          vative structural proteins with their prokaryotic
+et al. 2001). However, a careful sequence comparison      counterparts gave us a foundation to conjecture that
+of MreB and actin demonstrated that MreB and actin        the cytoskeleton including the motor proteins of the
+most likely had a common ancestor in the very dis-        eukaryotic cell evolved out of a set of nucleotide-
+tant past but that MreB was not an evolutionary           binding proteins from a primitive RNA-based cell
+precursor of actin (Doolittle and York 2002). Pre-        and not out of a bacterial or an archaeal cell (Hart-
+sumably, actin and all the related nucleotide-binding     man and Fedorov 2002).
+proteins evolved from a common ancestor which
+bound a nucleotide. This gene may have undergone              The Endoplasmic Reticulum and Protein Synthe-
+gene doubling and various insertions, eventually          sis. The cytoskeleton of the eukaryotic cell is
+evolving into MreB and, independently, actin pro-         closely associated with the endoplasmic reticulum
+teins (Kabsch and Holmes 1995). Finally, in all such      (ER). E. cuniculi has a signiﬁcantly larger number of
+cases there is an alternative explanation of an inde-     ER and Golgi ESPs than found in G. lamblia (16 and
+pendent origin of proteins with very little or without    6 proteins, respectively). This diﬀerence implies that
+sequence similarity due to convergent evolution. Both     the ER and Golgi of the parasitic fungus E. cuniculi
+G. lamblia and E. cuniculi have a full set of actin-      are more complex than those of G. lamblia. The
+related proteins (abbreviated Arp in Fig. 1). Arp1 is     evolutionary study of the ER and Golgi complex is
+involved in spindle alignment. Arp2 and Arp3 are          still in its infancy (Beznoussenko and Mironov 2002).
+involved in actin polymerization. Arp4, Arp5, and         We need a much larger sample of ER and Golgi
+Arp7 are involved in chromatin remodeling. Arp6 is        proteins from single-celled protozoans, which are not
+localized to heterochromatin (Goodson and Hawse           parasitic, to infer the origin and evolution of these
+2002).                                                    membranes.
+   Both G. lamblia and E. cuniculi have tubulins              Prominent among the ESPs of E. cuniculi and G.
+among their ESPs. The three-dimensional structure         lamblia are ubiquitin, ubiquitin ligases, and proteases
+of tubulin showed structural similarities to glyceral-    (Fig. 1). Some proteins of Archaea and Bacteria have
+dehyde–3-phosphate dehydrogenase and bacterial            a 3D structural fold similar to that of ubiquitin and
+protein FtsZ (Nogales et al. 1998). These three types     are involved in the biosynthesis of sulfur-containing
+of proteins have a common nucleotide-binding motif        coenzymes (Wang et al. 2001). These prokaryotic
+which is similar to the Rossmann fold, distinct from      proteins and ubiquitin might have diverged from a
+the actin fold (Doolittle 1995). As in the case with      common ancestor, yet they have evolved indepen-
+actin, we consider the existence of a deep ancestor to    dently in prokaryotes and eukaryotes. We found
+tubulin and FtsZ rather than bacterial FtsZ as the        several proteasome-associated proteins from the 19S
+possible precursor to tubulin.                            proteasome regulatory particle in the ESP sets of
+   In close association with cytoskeleton composed of     both G. lamblia and E. cuniculi (Fig. 1). There are
+actin and tubulin, there are the motor proteins dy-       more proteins associated with the proteasome regu-
+nein, myosin, and kinesin. This association allows the    latory particle of E. cuniculi than that of G. lamblia
+eukaryotic cell to move, phagocytize, and divide. The     (eight and four proteins, respectively). This might
+control of this structure is modulated through inter-     point to an evolution from the simpler regulatory
+action with calcium ions. Both E. cuniculi and G.         system of G. lamblia to that of the fungi. We
+lamblia have kinesins in their ESPs (Fig. 1). E. cuni-    hypothesize that the eukaryotic protein degradation
+culi has four myosins among its ESPs, whereas none        complex composed of the ubiquitin, ubiquitin ligases,
+exists in G. lamblia. It appears that myosin is a later   ubiquitin proteinases, and 19S regulatory proteasome
+                                                                                                               701
+
+particle did not originate from prokaryotes. At the         complete agreement between these two cells. How-
+same time, the ancient proteasome likely came from          ever, when we compare the ESPs representing kinases
+an archaeal endosymbiont (Bouzat et al. 2000).              and phosphatases of these two groups, we get a dif-
+                                                            ferent picture. There is a signiﬁcantly higher number
+   The Nucleus. Using the relatively strong thresh-         of kinases and phosphatases in G. lamblia than in E.
+old for protein similarity of 55 blast score bits (10)6    cuniculi (24 versus 10 proteins). This must be due to
+e-values), we revealed four histones (H2A, H2B, H3,         the diﬀerence in intracellular versus extracellular
+and H4) in the nuclear ESPs of G. lamblia and only          lifestyles.
+two histones (H3 and H4) in E. cuniculi. However, if            The GTP-binding proteins ras (plasma mem-
+we search for sequence similarity using psi-blast, as       brane), rho (cytoskeleton), rab (endoplasmic reticu-
+opposed to blast, then we pick up highly diverged           lum), arf (Golgi), and ran (nucleus–cytoplasm) are
+histones H2A and H2B of E. cuniculi. The eukaryotic         very prominent among the ESPs of E. cuniculi and
+histones share the same 3D structure with the ar-           Giardia. We hypothesize that these proteins ras, rho,
+chaeal histone-like proteins of the Euryarchaeota           rab, and arf have evolved from the membrane-protein
+(methanogens, etc.) (Arents and Moudrianakis 1995).         synthesizing machinery and the cytoskeleton of the
+Unlike actin, tubulin, ubiquitin, and the GTP-bind-         host cell. They are now localized on the cytoskeleton
+ing proteins whose 3D counterparts are found                and membranes (the plasma, endoplasmic reticulum,
+throughout the Archaea and Bacteria, the histone            and Golgi) of the eukaryotic cell (Hartman and Fe-
+fold is only found in the Euryarchaeota, and not in         dorov 2002).
+the Crenarchaeota or the Bacteria. Presently, the
+simplest explanation for the evolution of histones is          Enzymes. There are 10 enzymes found in E. cu-
+that a histone-like protein came from an ancient ar-        niculi that are not found in the ESPs of G. lamblia.
+chaeal cell and subsequently evolved into the full          This may be due to the fact that E. cuniculi, as a
+eukaryotic complement of histones. As for other             fungus, belongs to the crown of the eukaryotic tree
+proteins connected to the DNA structure, there are          (Katinka et al. 2001), while G. lamblia, as a dip-
+two topoisomerase I ESPs (Trf4 and Trf5) found in           lomonad, branched earlier. Finally, there are 108 and
+both E. cuniculi and G. lamblia. There are eight E.         91 of ESPs of E. cuniculi and G. lamblia, respectively,
+cuniculi ESPs involved with DNA repair that are not         that have no assigned function. Among them, 57
+found in G. lamblia.                                        proteins were found in both E. cuniculi and G.
+   The ESPs found in the nucleus are dominated by           lamblia.
+proteins involved in the synthesis, processing, and
+transport of RNAs out of the nucleus into the cyto-
+plasm. There are two ESPs (Rpc19 and Rpb8) asso-            Conclusions
+ciated with the RNA polymerases of G. lamblia. We
+could only detect by psi-blast one diverged ESP             We found 401 ESPs in E. cuniculi. These ESPs rep-
+(Rpc19) in E. cuniculi. The ESPs representing tran-         resent 214 unique protein groups. Comparison of the
+scription factors are much more diverse in E. cuniculi      ESPs of G. lamblia with the proteins of E. cuniculi
+(29 proteins) than in G. lamblia (9 proteins). They         demonstrated that 85% of the 347 ESPs of G. lamblia
+share only four transcription factors in common.            have sequence similarity to ESPs found in E. cuniculi.
+These deep distinctions show that transcriptional           Proteins from the ESP sets fall into two main cate-
+factors play a major role in the evolution of eukary-       gories: (1) proteins related to the observable struc-
+otes. However, when we compare groups of zinc               tures in the cytoplasm of the eukaryotic cell such as
+ﬁnger ESPs between these two cells, we ﬁnd more             the plasma membrane (clathrin), the cytoskeleton
+than 70% identity. The groups of nucleolar proteins         (actin and arps, tubulin, and associated kinesins), the
+ESPs associated with the synthesis and transport of         endoplasmic reticulum, the Golgi, and the nucleus
+ribosomal RNA are very similar in both E. cuniculi          (histones, etc.), and (2) proteins involved in the
+and G. lamblia. There are more ESP spliceosomal             coordination of the eukaryotic cell such as GTP-
+proteins in E. cuniculi (10) than in G. lamblia (4). The    binding proteins (i.e., ras, rho, rab, arf, and ran),
+ESPs involved in the transport proteins and the nu-         calmodulin, ubiquitin, cyclin, serine–threonine kin-
+clear pore proteins are found in equal abundance in         ases, and phosphatases, 14–3–3 proteins, and en-
+E. cuniculi and G. lamblia.                                 zymes modulating PIP (phospatidyl inositol
+                                                            phosphates). These cellular structures and their
+   The Cell Cycle and Cellular Coordination. The            deﬁning proteins are unique to the eukaryotic cell and
+regulators of the eukaryotic cell cycle (cyclins, serine/   so are the control proteins.
+threonine kinases, and ubiquitin proteins) are present         A signiﬁcant number of ESP sets prominent in the
+among ESPs (Fig. 1). When we compare the cyclin             cytoplasm, such as actin, tubulin, kinesins, ubiquitin,
+ESPs of E. cuniculi with those of G. lamblia, we see        and GTP-binding proteins, all have counterparts in
+702
+
+prokaryotes with similar 3D folds but no signiﬁcant                   some gene family from early-diverging eukaryotes. J Mol Evol
+sequential similarity. These proteins are also found                  51:532–543
+                                                                   Copley RR, Schultz J, Ponting CP, Bork P (1999) Protein fam-
+among the most conserved proteins in the eukaryotic                   ilies in multicellular organisms. Curr Opin Struct Biol 9:408–
+cell (Copley et al. 1999). The best that can be inferred              415
+from these facts is that prokaryotic proteins and their            Doolittle RF (1995) The origins and evolution of eukaryotic pro-
+ESP counterparts had a common ancestor, and that                      teins. Philos Trans R Soc Lond B Biol Sci 349:235–240
+ancestor was a more primitive RNA-based cell                       Doolittle RF, York AL (2002) Bacterial actins? An evolutionary
+                                                                      perspective. Bioessays 24:293–296
+(Doolittle and York 2002; Nogales et al. 1998).                    Fraser CM, Gocayne JD, White O, et al. (1995) The minimal gene
+   The large number and diversity of ESPs point to a                  complement of Mycoplasma genitalium. Science 270:397–403
+very ancient origin of the eukaryotic cell. These                  Goodson HV, Hawse WF (2002) Molecular evolution of the actin
+proteins are congruent with the recent hypothesis                     family. J Cell Sci 115:2619–2622
+which places eukaryotes at the root of the universal               Gribaldo S, Phillippe H (2002) Ancient phylogenetic relationships.
+                                                                      Theor Population Biol 61:391–408
+tree of life (Gribaldo and Phillippe 2002; Penny and               Hartman H, Fedorov A (2002) The origin of the eukaryotic cell: A
+Poole 1999). The data presented here are also con-                    genomic investigation. Proc Natl Acad Sci USA 99:1420–
+sistent with our previous hypothesis that the                         1425
+eukaryotic cell had an RNA-based cell as one of its                Higgins DG, Sharp PM (1988) CLUSTAL: A package for per-
+ancestors (chronocyte) and that the nucleus was                       forming multiple sequence alignment on a microcomputer.
+                                                                      Gene 73:237–244
+formed by the engulﬁng of prokaryotic cells that                   Kabsch W, Holmes KC (1995) The actin fold. FASEB J 9:167–
+became the nuclear endosymbiont (Hartman and                          174
+Fedorov 2002).                                                     Katinka MD, Duprat S, Cornillot E, Metenier G, Thomarat F,
+                                                                      Prensier G, Barbe V, Peyretaillade E, Brottier P, Wincker P,
+                                                                      Delbac F, El Alaoui H, Peyret P, Saurin W, Gouy M, Weiss-
+Acknowledgments.    This research was supported in part by NSF        enbach J, Vivares CP (2001) Genome sequence and gene com-
+Grandt DBI-0205512. Support for this work was provided by the         paction of the eukaryote parasite Encephalitozoon cuniculi.
+Medical College of Ohio Foundation. We would also like to thank       Nature 414:450–453
+Ms. Lisa Johnston for her excellent secretarial assistance.        Kull FJ, Vale RD, Fletterick RJ (1998) The case for a common
+                                                                      ancestor: Kinesin and myosin motor proteins and G proteins. J
+                                                                      Muscle Res Cell Motil 19:877–886
+                                                                   Mushegian AR, Koonin EV (1996) A minimal gene set for cellular
+References                                                            life derived by comparison of complete bacterial genomes. Proc
+                                                                      Natl Acad Sci USA 93:10268–10273
+Altschul SF, Madden TL, Schaﬀer AA, Zhang J, Zhang Z, Miller       Nogales E, Downing KH, Amos LA, Lowe J (1998) Tubulin and
+   W, Lipman DJ (1997) Gapped BLAST and PSI-BLAST: A new              FtsZ form a distinct family of GTPases. Nat Struct Biol 5:451–
+   generation of protein database search programs. Nucleic Acids      458
+   Res 25:3389–3402                                                Penny D, Poole A (1999) The nature of the last universal common
+Arents G, Moudrianakis EN (1995) The histone fold: A ubiquitous       ancestor. Curr Opin Genet Dev 9:672–677
+   architectural motif utilized in DNA compaction and protein      Razin S (1997) The minimal cellular genome of mycoplasma. In-
+   dimerization. Proc Natl Acad Sci USA 92:11170–11174                dian J Biochem Biophys 34:124–130
+Baldauf SL, Roger AJ, Wenk-Siefert I, Doolittle WF (2000) A        Vale RD (2000) AAA proteins: Lords of the ring. J Cell Biol
+   kingdom-level phylogeny of eukaryotes based on combined            150:F13–F19
+   protein data. Science 290:972–976                               Van den Ent F, Amos L, Lowe J (2001) Prokaryotic origin of the
+Benson DA, Boguski MS, Lipman DJ, Ostell J, Ouellette BF, Rapp        actin cytoskeleton. Nature 413:39–44
+   BA, Wheeler DL (1999) GenBank. Nucleic Acids Res 27:12–17       Vossbrinck CR, Maddox JV, Friedman S, Debrunner-Vossbrinck
+Beznoussenko GV, Mironov AA (2002) Models of intracellular            BA, Woese CR (1987) Ribosomal RNA sequence suggests mi-
+   transport and evolution of the Golgi complex. Anat Rec             crosporidia are extremely ancient eukaryotes. Nature 326:411–
+   268:226–238                                                        414
+Bouzat JL, McNeil LK, Robertson HM, Solter LF, Nixon JE,           Wang C, Xi J, Begley TP, Nicholson LK (2001) Solution structure
+   Beever JE, Gaskins HR, Olsen G, Subramaniam S, Sogin ML,           of ThiS and implications for the evolutionary roots of ubiquitin.
+   Lewin HA (2000) Phylogenomic analysis of the alpha protea-         Nat Struct Biol 8:47–51
+

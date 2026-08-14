@@ -1,0 +1,1244 @@
+Exploring Constraint: Simulating Self-Organization
+  and Autogenesis in the Autogenic Automaton
+           Stefan Leijnen∗,∗∗ , Tom Heskes† , Terrence W. Deacon‡
+
+
+
+     Abstract      Origin of life theories often argue that molecular self-organization
+
+     explains the spontaneous emergence of structural and dynamical constraints. How-
+     ever, the preservation of these constraints over time is not well-explained because
+     of the self-undermining and self-limiting nature of these same processes. A pro-
+
+     cess called autogenesis has been proposed in which negative structural coupling
+     between self-organized processes preserves the constraints thereby accumulated.
+     This paper presents a computer simulation of this process (the Autogenic Automa-
+
+     ton) and compares its behavior to the same self-organizing processes when uncou-
+     pled. We demonstrate that this coupling produces a second-order constraint that
+     can both resist dissipation and become replicated in new substrates over time.
+
+     Keywords       Self-organization, origin of life, autogenesis, constraint, simulation,
+
+     artificial chemistry
+
+
+
+
+∗
+  Corresponding author
+∗∗
+   Institute for Computing and Information Sciences, Radboud University Nijmegen, Heijendaalseweg 135,
+6525 AJ Nijmegen, Netherlands. E-mail: stefan@leijnen.org, phone: +31.624375294.
+†
+  Institute for Computing and Information Sciences, Radboud University Nijmegen, Heijendaalseweg 135,
+6525 AJ Nijmegen, Netherlands. E-mail: t.heskes@science.ru.nl, phone: +31.243652696.
+‡
+  Department of Anthropology, University of California, 232 Kroeber Hall, Berkeley, CA 94720, USA. E-mail:
+deacon@berkeley.edu, phone: +1.5106423392.
+
+                                                  1
+1    Introduction
+
+How could life have emerged? Although understanding life’s origins does not necessarily imply
+understanding life as we find it around us today [6], it promises far reaching consequences for
+
+scientific fields such as cognitive science [31] and artificial intelligence [23] as the emergent
+dynamics that created life may have also shaped mind, machine and society.
+    Theories explaining the possible origins of life are as numerous as the properties that are
+
+claimed to define it. Some define life based on a general capacity for replication [34] or the
+exchange of energy and matter with an external environment [24, 29]. Others characterize life
+as systems using template-based encoding (e.g. RNA) [19] or being composed of autocatalytic
+
+sets [26]. Although each of these theories has its own flavor in explaining life’s possible origins
+[21], many assume the involvement of the structure forming dynamics of self-organization.
+    Despite their often pivotal role in explaining the emergence of life, self-organizing processes
+
+are limited in their capacity to maintain structure [28]. A recently proposed theory suggests
+that, beyond mere self-organization, a synergetic coupling between self-organizing processes
+is a minimal requirement for life [11]. Through this higher-order linkage, the processes that
+
+generate structure may persistently recreate a capacity for self-creation, leading to robustness
+and a potential capacity for long-term sustenance and natural selection. As an example of such
+an autogenic process, a proto-life model system called the autogen is described to illustrate how
+
+two self-organizing processes – reciprocal catalysis and self-assembly – maintain each other’s
+boundary conditions and thereby mutually increase the probability of persistence over time [10].
+    Currently, the autogen model is a theoretical proposition that remains to be validated exper-
+
+imentally. As a step toward validation, this paper describes a series of simulation experiments
+that investigate the self-organizing and autogenic properties of the autogen model. A simpli-
+fied particle system simulation called the Autogenic Automaton models the synergetic linkage
+
+
+
+                                                2
+of self-organizing processes that leads to the emergence of autogens. In the next section this
+higher-order linkage is described in more detail, followed by a description of the computa-
+
+tional model and the methods used to simulate and quantify the self-organizing and autogenic
+processes that generate, eliminate, and preserve constraint.
+
+
+2     Autogenesis
+
+Life’s ability to resist degradation and persist in hostile environments is both ubiquitous and
+astonishing. Generation of structure, preservation by repair, and trait persistence through repro-
+
+duction are perpetually organized in a continuous struggle against the destabilizing mechanisms
+of the second law of thermodynamics. In this section, autogenesis is introduced in three parts:
+first, how the inevitable increase of thermodynamic entropy poses a problem for models of life
+
+based on self-organization. Then autogenesis is presented as a three-tiered process hierarchy of
+constraint elimination, constraint generation and constraint preservation (and ensuing constraint
+selection), after which this hierarchy is exemplified by the autogen model, to be used for the
+
+subsequent simulation experiments.
+
+2.1    Second-Order Self-Organization
+
+Self-organization may occur in open systems that are continually perturbed toward a far-from-
+equilibrium state through incessant nonlinear amplification of local fluctuations [28]. These
+
+systems tend to reduce their statistical entropy, i.e. their variety of potential states, thereby
+becoming statistically less complex; for this reason, self-organization may also be regarded as
+self-simplification [1].
+
+    A typical example is the formation of Rayleigh–Bénard convection cells, which may emerge
+if a fluid is heated from below, causing fast-moving molecules in the bottom to rise upward
+while slow molecules simultaneously move downwards. These two vertical motions lead to
+
+
+                                                3
+horizontal heat exchange between upward and downward moving molecules, obstructing the
+dissipation of heat from its source to the surface. Under certain conditions (e.g. temperature,
+
+viscosity, shape and size of the surface) hexagonal convection cells develop that minimize the
+horizontal heat exchange and thereby maximize vertical heat dissipation [15]. As the number
+of potential system states is reduced by the emergence of these cells, the system becomes more
+
+ordered. Other examples include laser beams [16], where optical amplification results in spatial
+coherence; vortices, such as whirlpools and tornadoes; and autocatalytic chemical reactions,
+where the product of a reaction is also a catalyst for it, leading to a nonlinear reaction increase
+
+under particular proximity conditions [32].
+   The nonlinear amplification that is typical for self-organization tends to push the thermo-
+dynamic conditions for further propagation toward the unfavorable. This may occur up to a
+
+point where the system is no longer far-from-equilibrium and the local thermodynamic entropy
+increase comes to a halt. For example, in a reciprocally catalytic set reaction rates may increase
+exponentially as more and more catalysts are produced, up until the point when not enough
+
+reactants are available for further propagation, and the self-organizing process ends. Given the
+universal presence of self-organization in living systems, how can it be possible that order per-
+sists long enough for complex organisms to come about? It has been suggested that the answer
+
+may lie in the hierarchical organization of self-organizing processes [11].
+   When the product of an autocatalytic reaction enables a second autocatalytic reaction, which
+produces a reactant that enables the first (or a third, etc., as long as the causal chain is eventually
+
+closed), a so-called hypercycle emerges [13]. Hypercycles represent one possible way in which
+self-organizing processes, autocatalytic cycles in this case, may be linked together in a dynam-
+ical process hierarchy. However, with respect to preventing self-undermining this particular
+
+type of second-order self-organization does not provide a sufficient solution: each autocatalytic
+cycle that the hypercycle consists of represents a potential weakest link, which may cause the
+
+
+                                                  4
+fragile hypercycle to break down entirely when reactants or energy for this particular cycle are
+no longer available.
+
+   Autogenesis requires another type of second-order self-organization where two (or more)
+self-organizing processes not only promote each other, but also where they act as a support-
+ive environment if one of them breaks down, such that their self-undermining tendencies are
+
+reciprocally counteracted.
+
+2.2    Constraint
+
+The formation of crystals through self-assembly is a self-organizing process. The probability
+of particle detachment decreases with the number of adjacent crystal cells that keep a particle
+
+in place, causing a spatial difference between particle positions, such that at some locations
+there are many particles present while at other locations there are few particles to none. This
+difference, maintained by the attachment and detachment rates of the assembly process, may be
+
+viewed as a constraint on the spatial distribution of particles. More generally, a reduction of the
+variety of macroscopic states can be understood as a constraint producing process [9].
+   From a constraint-centric perspective, the global increase of entropy predicted by the sec-
+
+ond law of thermodynamics appears to run counter to the production of constraint caused by
+self-organization. Thermodynamic entropy increase spontaneously introduces noise into the
+system, as the probability of a random microscopic event inducing more order is lower than
+
+the probability of an event inducing less order (there are relatively few ordered states), thereby
+increasing the variety of macroscopic states. An example of such a constraint eliminating, noise
+inducing process is an ice cube melting in a soda drink: considering the possible states of water
+
+molecules in the glass, the number of states where only some of the molecules are arranged in
+a solid ice-cube is by far outnumbered by the number of states where they are all mixed up.
+   Living systems tend to produce constraint as well as preserve it against elimination. This
+
+
+                                                5
+capacity allows organisms, and lineages of organisms, to persist over long stretches of time.
+Following the type of second-order self-organization described above as autogenesis, constraint
+
+preservation is enabled by a juxtaposition of constraint producing processes, such that they ac-
+tively support each other’s persistence [8]. Whereas self-promoting self-organizing processes
+(e.g. hypercycles) tend toward self-undermining and ultimately a breakdown of the causal cy-
+
+cle, this reciprocally counteracting juxtaposition actively prevents self-undermining from taking
+place.
+   The relatively stability of these structural synergies allows for a simple type of natural se-
+
+lection to occur, as different kinds of synergies may co-exist within the same system. Some
+will be better suited to prevailing conditions than others and therefore have a better chance of
+sustaining themselves. This eventually leads to an elimination of noise (or reduction of variety)
+
+on a higher level, as unsuccessful noise-reducing synergies are removed. In this selection logic
+a discontinuity becomes apparent again, as the structured parts are separated in a competition
+caused by the dissipative potential of the whole. This transition represents a shift in logic com-
+
+parable but opposite to the emergence of ordered structure from chaos: it could be argued that
+this shift constitutes a secondary kind of emergent transition between dynamical regimes.
+
+2.3      Autogen
+
+The three-tiered constraint hierarchy of autogenesis is exemplified by a minimal model system
+
+of life, the so-called autogen. In earlier publications (e.g. [10]) this model system was re-
+ferred to as ’autocell’. However, since it exemplifies a general class of self-generating systems
+(rather than being typically cellular) ’autogen’ is the preferred term. Autogens are formed by a
+
+synergistic relation between self-assembly and reciprocal catalysis, both being self-organizing
+processes.
+
+
+
+
+                                                6
+Figure 1: Illustration of autogen formation (left) and the reactions involved (right). Autogens
+constitute a dynamical linkage between self-assembly and reciprocal catalysis. In this model
+system, self-assembly is a self-organizing process where G particles attach to one another, form-
+ing Gn crystals of size n. These crystals may break up due to detachment. G particles are
+generated by a reciprocally catalytic set of six different particle types (A to F ). In turn, crystals
+may contain C and F particles, isolating these catalysts from potential reactants.
+
+
+In a reciprocally catalytic system, each reaction initially leads to an increased probability for an-
+other reaction to take place as more and more catalysts are created. Exponential growth ensues
+until the reactants are depleted. Reciprocal catalysis leads to exponential increase of reactions
+
+that is limited solely by the number of available reactants. A boundary or container would
+prevent the exhaustion of reactants by removing them from the environment, thereby preserv-
+ing a chemical potential for further dissipation [24]. Such a container may itself be formed by
+
+a self-organizing process, e.g. crystal growth through self-assembly [14]. Autogenesis, then,
+suggests that the form and function of a self-assembled container is dynamically linked to the
+autocatalytic process as it prevents the reactants from being depleted. Similarly, it explains how
+
+                                                  7
+the autocatalytic process dynamically shapes the form and function of the crystals as it affects
+the process of self-assembly.
+
+   The autogen model is illustrated in figure 1. Particles of type A and B react to form a C
+particle, catalyzed by particles of type F . A similar reaction takes place for particles of type D
+and E, which form F and G particles, catalyzed by C particles. In the same system, G particles
+
+attach to one another creating self-assembled crystals of type Gn , with n for the number of
+G particles the crystal consists of. Due to their particular form, these crystals may contain
+catalysts, thereby negatively affecting the immediate production of G particles but ensuring a
+
+potential for G-particle production over time. The negative structural coupling ensures that self-
+assembly stops before the catalysts are depleted, even though they are contained and therefore
+not readily available in the environment. This reaction potential is employed when a crystal
+
+opens up after detachment: contained catalysts are released, initiating a new chain of catalytic
+reactions that provides new G particles used to repair the container, after which it may close
+again, thereby completing the work cycle.
+
+   The autogenic process as a whole then gains a minimal form of autonomy: as it is able
+to do work on its own conditions for sustenance, it grows independent from the conditions
+of its environment and becomes more dependent on its own internalized constraint. Under
+
+some conditions that are strived to be maintained, probability of growth and sustainment is
+higher than that of breakdown. When the autogen is damaged, it likely begins to repair itself.
+Autogenesis is about the higher-order constraint on the constraint generating processes of which
+
+it is constituted, such that a self is reproduced. It is a dynamic for the maintenance of itself as it
+maintains an implicit description of its units of preservation.
+
+
+
+
+                                                  8
+3     The Autogenic Automaton
+
+The logical steps building up to autogenesis, exemplified by the autogen model described above,
+are simulated with the Autogenic Automaton. Other computational proto-life models have sim-
+
+ulated the formation of containers, the emergence of collectively autocatalystic sets, or both
+[25, 33]. Although this simulation falls into the latter category, the goal here is not to provide a
+physically accurate model of either self-organizing process, nor of their synergy, but rather on
+
+demonstrating the viability of the logical hierarchy leading up this synergy.
+
+
+
+
+Figure 2: A continuous, closed particle system (left) is modeled in the Autogenic Automaton
+as a discrete grid of 10 x 10 tiles (right).
+
+
+3.1    Model
+
+A two-dimensional 10 x 10 tile grid is used as a discrete model of a closed reaction-diffusion
+
+system (fig. 2). Particle movement and the reaction rules that govern particle attachment, de-
+tachment, and the creation and removal of particles are all computated locally per tile. In this
+sense, the system resembles a cellular automaton allowing for emergence [4], where tiles may
+
+                                                 9
+be occupied by multiple particles. Diffusion caused by particle-to-particle collisions is approx-
+imated by randomly directed movement to a horizontally or vertically neighboring tile with
+
+probability Pmovement = 0.1 at every time step, for each particle.
+   Particle-to-particle reactions and associated probabilities are modeled after crystallization
+and reciprocal catalysis. To this end, six particle types are defined and used for modeling
+
+reciprocal catalysis while a seventh type models the formation of crystals through self-assembly.
+
+3.2    Simulation
+
+The Autogenic Automaton is initialized by assigning random grid locations to a predefined
+quantity of particles of each type. Next, for a given number of time steps, new particle positions
+
+are computed and the reaction rules are applied to the particles at each tile.
+   One advantage of these localized reactions is that only small subsets of the total number of
+particles interact at each time step, reducing the computational complexity of the simulation.
+
+Another way to keep the model relatively simple and the simulation computationally tractable
+is to model only the aspects of self-organization that are necessary for showing the viability
+of autogenesis, which include nonlinear probability functions and reversible reactions. Other
+
+physical properties typical for particle systems (e.g. kinetic energy, dissipation of heat) are not
+modeled.
+   In order to show the generation and elimination of constraint (i.e. macroscopic change)
+
+over time, the simulation starts in non-equilibrium conditions. Due to the absence of heat and
+friction, the entropy potential necessary for far-from-equilibrium systems to be self-organizing
+is not defined with respect to thermodynamic equilibrium (when all movement and reactions
+
+have ceased to occur) but rather with respect to chemical equilibrium. Thus, the initial set of
+particles is not in chemical equilibrium since no crystallization has occured nor has a catalytic
+reaction taken place. So, the macrosopic change that is observed in the experiments that follow
+
+
+                                                10
+may be attributed to the system moving toward a chemical equilibrium.
+
+3.3    Quantifying Constraint
+
+Through the course of a simulation run, particles move and collide against one another to create
+
+new particles or crystals, or they fall apart. The system moves through various macroscopic
+states, caused or maintained by processes that generate, eliminate, preserve or select constraint;
+the quantification of statistical entropy described here yields an indirect observation of the un-
+
+derlying processes.
+   Constraint is expressed by means of the information entropy over the spatial probability
+distribution of particular event types in the tile grid [20, 17, 27]. Notable characteristics of
+
+the particle system surface by observing the (in-)homogeneity of the locations of events that
+correspond to these characteristics, such as the presence of a particle type or the occurrence of
+a specific reaction.
+                                                                                   P
+   Given a set of probabilities pi for i = 1, . . . , ntiles with 0 ≤ pi ≤ 1 and   i pi = 1, informa-
+
+tion entropy is defined as [30, 7]:
+
+                                               ntiles
+                                               X
+                                      H=−               pi log2 pi .
+                                               i=1
+
+Now, when we consider an event X, we substitute
+
+
+                                                  |Xi |
+                                            pi =        ,
+                                                  |X|
+                                                    P
+with |Xi | the number of events at tile i and |X| = i |Xi | the total number of events, to obtain
+
+                                              ntiles
+                                              X    |Xi |      |Xi |
+                                 H(X) = −                log2       .
+                                               i=1
+                                                   |X|        |X|
+For ease of interpretation we often consider the so-called normalized information entropy [18]
+
+
+                                                  11
+                                                    ntiles
+                                            1       X |Xi |      |Xi |
+                              Ĥ(X) = −                     log2       ,                        (3.1)
+                                        log2 ntiles i=1 |X|      |X|
+which normalizes the standard information entropy by its maximum value such that always
+0 ≤ Ĥ(X) ≤ 1. For a completely homogeneous distribution of events over tiles we now have
+
+Ĥ(X) = 1, whereas Ĥ(X) = 0 when all events X are concentrated at a single tile.
+
+3.4    Quantifying Multiple Constraint Types
+
+In some cases it is necessary to measure the spatial difference between two event types, X and
+Y , using the Kullback-Leibler divergence of their distributions over the grid tiles [22]:
+
+
+                                                  ntiles
+                                                  X                  pi
+                                 DKL (P ||Q) =             pi log2      .
+                                                   i=1
+                                                                     qi
+
+Substituting pi and qi with |X i|
+                             |X|
+                                  and |Y i|
+                                      |Y |
+                                            , respectively, would yield infinite divergence for a dis-
+tribution with a tile i such that |Xi | > 0 and |Yi | = 0. To resolve this problem, a smoothing
+function is used [3], where
+
+                                         (
+                                             α |Y i|
+                                               |Y |
+                                                     for |Yi | > 0
+                                  qi =                             ,                            (3.2)
+                                                    for |Yi | = 0
+with  = 10−5 and normalization coefficient α chosen such that the probabilities sum to 1.
+pi is substituted similarly with |X i|
+                                  |X|
+                                       . For ease of exposition, we will omit this smoothing in
+
+subsequent formulas.
+
+
+4     Constraint Generation
+
+The Autogenic Automaton is used to simulate the generation of constraint in two separate self-
+organizing processes: the formation of crystals through self-assembly, and the local amplifica-
+tion of reactions taking place in a reciprocally catalytic set.
+
+                                                   12
+4.1    Self-Assembly
+
+Self-assembly is modeled by a series of attachment and detachment reactions between G parti-
+cles and crystals Gn with reaction parameters γ + and γ − :
+
+
+
+                                        Gn + G  Gn+1 ,                                      (4.1)
+
+with n ≥ 1 and G1 ≡ G. If a G particle is located within the same tile as either another G
+particle or crystal, the probability of attachment is given by
+
+
+
+                                       Pg+ = γ + ∈ [0, 1] .
+
+Modelling detachment as the opposite of attachment, crystals have a probability Pg− of a G
+
+particle detaching from the crystal. Larger crystals are more tightly connected and less likely
+to break apart than smaller crystals due to a larger number of kinks holding the individual
+particles together [5]. An increased size yields a lower probability of detachment and therefore
+
+increases the probability for further growth. This introduces a nonlinearity in the crystal growth
+process, reflected in our model system by a detachment probability function that is negatively
+exponential to the crystal size n.
+
+
+
+                                     Pg− = (1 + exp[γ − ])−n ,
+
+with γ − ∈ R, n ≥ 2. Following equation (3.1), event Xi is defined with respect to self-assembly
+as the observation of a G particle at tile i, where Gn crystals are counted as n observations.
+Therefore, the generation of constraint during this process is examined using
+
+                                                ntiles
+                                        1       X |Gi (t)|      |Gi (t)|
+                       Ĥ(G, t) = −                        log2          ,
+                                    log2 ntiles i=1 |G(t)|       |G(t)|
+for the normalized information entropy of G at time t.
+
+                                                13
+                                  1
+
+                                 0.9
+Normalized Information Entropy
+
+
+
+
+                                 0.8
+
+                                 0.7
+
+                                 0.6
+
+                                 0.5
+
+                                 0.4
+
+                                 0.3
+
+                                 0.2
+
+                                 0.1
+
+                                  0
+                                       0   1000   2000          3000   4000     5000
+                                                         Time
+
+Figure 3: Decrease of normalized information entropy Ĥ(G, t) during self-assembly of 1000
+G particles with γ + = 1, for several detachment probabilities:                    γ − = −5,
+           γ − = −4,             γ − = −3,             γ − = −2,              γ − = −1. The
+images on the right depict how Ĥ(G, t) correlates with the distribution of G particles over the
+grid, ranging from an almost homogeneous distribution (top) to a few Gn crystals (bottom).
+Results are averaged over 100 trial runs.
+
+
+Figure 3 shows the development of Ĥ(G, t) over time, for different values of γ − . With γ − = −5
+
+the probability of detachment Pg− is relatively high, such that many crystals fall apart and the
+constraint on particle G locations is low. With γ − ∈ [−1, −2], Pg− is relatively low: once
+formed, crystals do not break apart, leaving no single G particles for attachment and no room
+
+for further growth. The G particle locations are maximally constrained for γ − = −4.
+
+
+
+
+                                                           14
+4.2    Reciprocal catalysis
+
+Particle types A to F are used to model self-organization through reciprocal catalysis. Particles
+of type A and type B may react to form a C particle when both are located in the same tile;
+
+similarly for particles D and E forming an F :
+
+
+                                                     F
+                                            A+B C ,                                         (4.2)
+
+
+                                                       C
+                                            D+E F .                                         (4.3)
+
+Particles F and C are catalysts for reactions (4.2) and (4.3), respectively. Reaction probability
+Pr+ increases exponentially with n, the number of catalysts present at the same tile i (i.e. n =
+
+|Fi | for the former reaction, and n = |Ci | for the latter)
+
+
+                                                                −2
+                                   Pr+ = (1 + exp[%+ ])−(1+n)        ,
+
+with %+ ∈ R. The reverse reactions (C particles splitting into A and B particles and F into D
+
+and E) occurs with probability Pr− for every C or F particle, at each time step
+
+
+                                         Pr− = %− ∈ [0, 1] .
+
+Similar to self-assembly, reciprocal catalysis is a locally nonlinear process: one catalytic reac-
+
+tion increases the likelihood of another catalytic reaction occuring. However, the observable
+artifacts of reciprocal catalysis (i.e. the produced catalysts) may cease to exist once this ampli-
+fication process no longer takes place, or they may diffuse to different locations. To quantify
+
+the amount of constraint generated, we therefore use the probability distribution of reaction
+locations as observed events, rather than the catalysts themselves.
+
+
+
+                                                  15
+                  Average Normalized Information Entropy
+       1
+
+
+                                                                               0.9
+     0.8
+
+                                                                               0.8
+
+     0.6
+                                                                               0.7
+l−
+
+
+
+
+     0.4                                                                       0.6
+
+
+                                                                               0.5
+     0.2
+
+                                                                               0.4
+
+       0
+       −10 −8        −6    −4     −2    0      2      4     6     8     10
+                                        l+
+
+Figure 4: Normalized information entropy during reciprocal catalysis, after initialization with
+1000 particles distributed equally among types A, B, D, and E. For given %+ and %− , Ĥ(R, t)
+is averaged over 5000 time steps and 10 trial runs. The right-side images depict the distribution
+of catalytic reactions over the grid.
+
+
+The constraint generated by reciprocal catalysis is quantified by a decrease in normalized infor-
+mation entropy over the distribution of catalytic reaction loci R at time t:
+
+                                                ntiles
+                                        1       X |Ri (t)|      |Ri (t)|
+                       Ĥ(R, t) = −                        log2          .
+                                    log2 ntiles i=1 |R(t)|      |R(t)|
+In order to investigate the effect of parameters %+ and %− on the normalized information entropy,
+Ĥ(R, t) is averaged over time:
+
+
+
+
+                                                16
+                                           tmax
+                                         1 X
+                                                  Ĥ(R, t) .
+                                       tmax t=1
+Results for tmax = 5000 are shown in figure 4. It is found that distribution R is most constrained
+
+for %+ ≈ 6 and %− > 0.5 (i.e. catalysts break up regularly) .
+
+
+
+
+Figure 5: Elimination of constraint: the Autogenic Automaton is initialized with 1000 G
+particles and γ + = 1, γ − = −2. At t = 1000, γ − is changed:                   γ − = −5,
+           γ − = −4,             γ − = −3,           γ − = −2,             γ − = −1. For
+ −
+γ ∈ [−3, −4] the eventual decrease in information entropy is preceded by an initial increase.
+Results are averaged over 100 trials.
+
+
+
+
+                                               17
+5     Constraint Elimination
+
+Self-organizing processes are enabled by specific conditions that promote local amplifications.
+Due to change initiated by self-undermining (or imposed externally) the boundaries of these
+
+conditions may be transgressed leading to an elimination of previously generated constraint.
+This process can be demonstrated by means of a so-called process spectometry: after an initial
+phase with conditions that enable self-assembly, the value of γ − is changed, and the effect on
+
+the normalized information entropy is observed (fig. 5).
+    The figure shows that after t = 1000 the normalized information entropy is (initially) higher
+for γ − ∈ [−5, −3]. After some time this value decreases as constraint grows: G particles that
+
+have previously detached from small crystals now attach to others, such that only large crystals
+remain. Within the 5000 time steps shown, this effect results in higher local concentrations of
+G particles, less homogeneity, a lower value of Ĥ(G, t) and more constraint for γ − ∈ [−4, −3].
+
+
+6     Constraint Preservation
+
+The higher-order linkage between self-assembly and reciprocal catalysis has been discussed in
+section 2.3, where a negative structural coupling is suggested that works in two directions:
+
+1. G particles generated by autocatalysis are created in close proximity to one another, due
+    to the locality of the catalytic amplifications, thereby increasing the likelihood of crystal
+    growth;
+
+2. crystals may act as containers for catalysts, preventing the reciprocally catalytic process from
+    undermining itself and preserving a potential for catalysis at a later point in time.
+
+Modeling this synergetic linkage, reaction 4.3 is changed as follows:
+
+
+                                                 C
+                                        D+E →F +G.
+
+                                                 18
+This increases the likelihood of G particles being produced in close proximity to a catalytic
+reaction. For the reverse linkage a crystal needs to be capable of containing catalysts upon
+
+formation, to be released again when the crystal breaks up. Therefore reaction 4.1 is changed,
+where a crystal of size n containing k C particles and m F particles is denoted as Gn (kC, mF ):
+
+
+
+                  Gn (kC, mF ) + G + pC + qF → Gn+1 ((k + p)C, (m + q)F ) ,
+
+                            Gn (kC, mF ) → Gn−1 + G + kC + mF ,
+
+with k, m, p, q ≥ 0 and n ≥ 2. The continuous addition of G particles is balanced by removing
+G particles at each time step with probability Pg− = (1 + exp[γ − ])−1 .
+
+6.1   Parametrization
+
+Thus far, four reaction parameters have been introduced: γ + , γ − , %+ and %− . The results in
+
+section 4.1 showed that a decrease in Ĥ(G, t) may occur when γ + is fixed at 1. Similarly,
+figure 4 shows that %− > 0.5 allows for relatively low values of Ĥ(R, t). Given these values,
+we investigate the ranges of γ − and %+ that allow for both types of self-organization to occur
+
+simultaneously.
+   The redundancy between the distributions of G particle locations and catalytic reactions
+is considered to be an indication of the amount of interaction between both processes, i.e. it
+
+measures whether crystals tend to be located in proximity to catalytic reactions, and vice versa.
+This is quantified using the Kullback-Leibler divergence with smoothing (eq. 3.2), which is
+symmetrized to obtain a commutative measure:
+
+
+                   SDKL (G, R, t) = DKL (G(t)||R(t)) + DKL (R(t)||G(t))
+                       ntiles 
+                       X |Gi (t)| |Ri (t)|          
+                                                       |Gi (t)| . |Ri (t)|
+                                                                           
+                     =                 −        log2                         ,
+                        i=1
+                                |G(t)|   |R(t)|         |G(t)|    |R(t)|
+
+
+
+                                                 19
+        10                                                                  10
+
+         8                                                  0.9              8
+                                                                                                                                0.9
+         6                                                                   6
+                                                            0.8
+         4                                                                   4                                                  0.8
+                                                            0.7
+         2                                                                   2
+                                                                                                                                0.7
+                                                            0.6
+   ρ+
+
+
+
+
+                                                                       ρ+
+         0                                                                   0
+
+        −2                                                  0.5             −2                                                  0.6
+        −4                                                                  −4
+                                                            0.4
+                                                                                                                                0.5
+        −6                                                                  −6
+                                                            0.3
+        −8                                                                  −8
+                                                                                                                                0.4
+                                                            0.2
+        −10                                                                 −10
+          −10 −8   −6   −4   −2   0    2   4   6   8   10                     −10 −8   −6   −4   −2   0    2   4   6   8   10
+                                  γ−                                                                  γ−
+
+
+        10                                                                  10
+                                                            30
+         8                                                                   8
+
+         6                                                                                                                      3.5
+                                                                             6
+                                                            25
+         4                                                                   4
+                                                                                                                                3
+         2                                                  20               2
+   ρ+
+
+
+
+
+                                                                       ρ+
+
+
+
+
+         0                                                                   0
+                                                                                                                                2.5
+        −2                                                  15              −2
+
+        −4                                                                  −4
+                                                                                                                                2
+                                                            10
+        −6                                                                  −6
+
+        −8                                                                  −8                                                  1.5
+                                                            5
+        −10                                                                 −10
+          −10 −8   −6   −4   −2   0    2   4   6   8   10                     −10 −8   −6   −4   −2   0    2   4   6   8   10
+                                  γ−                                                                  γ−
+
+
+Figure 6: After initializing the simulation with 1000 particles evenly distributed among types A,
+B, D and E, it is run for 5000 time steps with γ + = 1, %− = 0.5 and γ − , %+ ∈ [−10, 10]. The
+four figures above show the average normalized information entropy of G particle locations (top
+left), the average normalized information entropy of catalytic reaction locations (top right), the
+average symmetrized Kullback-Leibler divergence with smoothing, where SDKL (γ − , %+ ) =
+max(SDKL ) if no occurences are found (bottom left), and the sum of these three figures, where
+SDKL has been normalized using scaling coefficient β (bottom right).
+
+
+
+
+                                                                  20
+with smoothing (eq. 3.2) applied if necessary. Running constraint preservation experiments
+requires parametrization of γ − and %+ such that
+
+
+(a) self-assembly takes place (i.e. Ĥ(G, t) is low);
+
+(b) reciprocal catalysis takes place (i.e. Ĥ(R, t) is low);
+
+(c) both processes take place in each other’s proximity (i.e. SDKL (G, R, t) is low).
+
+
+Figure 6 shows these three measurements averaged over 5000 time steps for different values of
+γ − and %+ . The desired parameter values are estimated by minimizing
+
+
+
+                            Ĥ(G, t) + Ĥ(R, t) + β SDKL (G, R, t) ,
+
+where coefficient β scales SDKL (G, R, t) to [0, 2]
+
+                                                                        −1
+                           β=2             max             SDKL (G, R, t)    ,
+                                      γ − , ρ+ ∈[−10,10]
+
+such that the normalized informaties entropies and the divergence between the distributions
+contribute equally to the sum.
+
+6.2    Preservation
+
+Using the parameter values found, a process spectrometry is generated (fig. 7). For γ − ∈
+[−5, −4] after t = 1000, the high probability of detachment is not conducive for the prolonged
+
+persistence of crystals, and they fall apart. For γ − remaining at 0, Ĥ(G, t) continues to develop
+unperturbed. Changing γ − to −1 results in a lower normalized information entropy, as more
+G particles detach and subsequently attach to larger crystals (cf. fig. 3). With γ − changed to
+
+−2, Ĥ(G, t) initially drops, but eventually finds a new equilibrium at a higher value than with
+γ − ∈ [−1, 0].
+
+                                                      21
+Figure 7: Normalized information entropy Ĥ(G, t) during autogenesis (left) and self-assembly
+without reciprocal catalysis where instead of being generated by a catalytic reaction, G particles
+are added to random grid locations with the same rate as in the previous simulation (right).
+With γ + = 1, %+ = 6, %− = 0.5, and γ − = 0 for t ∈ [0, 1000], and 1000 particles evenly
+distributed among types A, B, D and E initially. For t ∈ [1001, 5000],                 γ − = −4,
+           γ − = −3,            γ − = −2,             γ − = −1,             γ − = 0. Results are
+averaged over 1000 trials.
+
+
+By itself, this figure provides limited insight into the processes that underly the production,
+elimination and preservation of constraint. However, it may be compared against a similar
+
+experiment that lacks a higher-order linkage. Since Ĥ(G, t) only measures the constraint of the
+distribution of G particles, the experiment is repeated without the set of particles necessary for
+reciprocal catalysis. During the process spectometry of figure 7 (left), the number of G particles
+
+that were added at each time step is stored. In this second experiment, G particles are created
+at random grid locations at exactly the same rate. This allows for self-assembly to take place
+under similar circumstances, but decoupled from reciprocal catalysis. G particle creation occurs
+
+at the same rate, although spatial proximity is no longer biased by reciprocal catalysis, and the
+absence of catalysts excludes the possibility of containment.
+   The results of this self-assembly experiment are shown in figure 7 (right). Comparing both
+
+
+                                               22
+figures, it is found for γ − = −2 that constraint is preserved when a synergetic linkage between
+self-assembly and reciprocal catalysis is present while it largely falls apart in the case of mere
+
+self-assembly. Also for γ − = −1, the value of Ĥ(G, t) remains lower with this linkage than
+without. This is not the case when γ − remains at 0. Here, self-assembly results in a more
+constrained system than when combined with reciprocal catalysis.
+
+                                     15
+                                                                            Autogenesis
+                                                                            Self−assembly
+     Average size (n) of G crystal
+
+
+
+
+                                     10
+
+
+
+
+                                     5
+
+
+
+
+                                     0
+                                          1   2           3             4          5
+                                               Capacity (c) of G crystal
+
+Figure 8: Fixing γ − at −0.5 and γ + = 1, %+ = 6, and %− = 0.5, the grid is again initialized
+with 1000 particles of types A, B, D and E. For 1000 trial runs over 5000 time steps, the
+mean crystal size and standard error of the mean are reported for the five different containment
+capacities.
+
+
+
+
+                                                       23
+7    Constraint Selection
+
+The preservation of constraint is a higher-order process: not only is noise reduced as the spatial
+distribution of events becomes more constrained, but the distribution over specific constraint
+
+types, e.g. the specific form of crystals, is itself also reduced.
+
+
+
+
+Figure 9: Due to the way G particles attach to one another, crystals with specific topologies
+may come about. This illustration shows several crystals Gnc of equal size (i.e. n = 5) but with
+different capacities (c) for containing catalysts, due their specific form.
+
+
+In order to experimentally show the emergence of such higher-order constraint, the containment
+capacity of crystals is limited by their specific form (fig. 9). This is reflected in the Autogenic
+
+Automaton by initializing each new crystal with property c, a random value ranging from 1 to
+5 that indicates the maximum number of catalysts a crystal may contain.
+    Figure 8 shows the average size of crystals compared against their maximum containment
+
+capacity, for both autogenesis and self-assembly without reciprocal catalysis. The results reveal
+two differences. First, a difference in crystal size between autogenesis and self-assembly, which
+could have been inferred from the results of the previous constraint preservation experiments.
+
+    The second difference is that, for autogenesis, a crystal’s containment capacity is correlated
+with its average size. In our model system the removal probability Pg− is independent of the
+specific crystal form, so the maximum containment of a crystal does not affect its size directly.
+
+Rather, the value of c indirectly affects the growth of crystals, as the numbers of catalysts
+present at a tile will affect the production of new G particles, and thereby a crystal’s capacity for
+formation (or reconstitution) if those catalysts are released upon detachment. This work cycle
+
+
+                                                 24
+creates a difference in size between the different crystal topologies, which is maintained despite
+the independence between crystal topology and the underlying self-organizing processes.
+
+                                                                     0.995
+      Average Normalized Information Entropy
+
+
+
+
+                                                 0.649
+
+
+
+
+                                               Autogenesis        Self−assembly
+
+Figure 10: Higher-order constraint: the average normalized information entropy over the dis-
+tribution of crystal capacities Ĥ(Gnc , t) is substantially lower for autogenesis than for self-
+assembly without reciprocal catalysis. Results averaged over 1000 trial runs.
+
+
+This higher-order constraint may be quantified using the normalized information entropy over
+
+the distribution of the containment capacities of crystals. With pc the probability that a crystal
+has a containment capacity c, |Gnc | the number of crystals with capacity c and |Gn | = c |Gnc |
+                                                                                         P
+
+the total number of crystals,
+
+
+
+
+                                                             25
+                                                   |Gnc |
+                                            pc =          ,
+                                                   |Gn |
+
+                                                 5
+                                           1 X |Gnc (t)|           |Gnc (t)|
+                       Ĥ(Gnc , t) = −                       log 2           .
+                                         log2 5 c=1 |Gn (t)|       |Gn (t)|
+
+
+
+
+Figure 10 shows the average Ĥ(Gnc , t) over the simulation runs of the previous experiment for
+
+self-assembly and autogenesis. Selection of crystal topologies induced by specific conditions
+accounts for the relatively low normalized information entropy over containment capacities
+during autogenesis.
+
+
+8    Conclusions
+
+Constraint generation, elimination, preservation and selection have been shown to occur in the
+
+Autogenic Automaton simulation under particular conditions. Taken together, these processes
+constitute self-organization and autogenesis, albeit in a minimal sense. The self-undermining
+
+tendency of self-assembly and reciprocal catalysis is limited by virtue of their second-order
+synergy – a higher-order constraint on these constraint generating processes – leading to preser-
+vation of autogens and ultimately selection of crystal topology.
+
+    The experimental explorations described in this paper are not intended to quantify autoge-
+nesis, or to give a full account of autogenic properties and phenomena. Rather, they serve to
+demonstrate (1) the dynamics reversal that takes place in second-order self-organization, and
+
+(2) the higher-order noise reduction constituted by formal type selection that may emerge from
+competition between simple autogens. Those properties are what sets autogenic systems apart
+from other models of the emergence of proto-life.
+
+
+                                                 26
+The hierarchical distinction between different types of constraint is reminiscent of a logical-
+type distinction. Although the three statistical distributions used here (G particle locations, R
+
+reaction locations, and Gnc containment capacities) are all subject to quantification in terms of
+information entropy, this quantification does not distinguish between physico-chemical con-
+straints expressed by the former two, and substrate independent, formal constraint expressed
+
+by the latter. Since the physics underlying the maintenance of far-from-equilibrium states have
+largely been ignored in this simulation (cf. [2]), further research and simulation is required to
+develop tools capable of expressing this dynamical difference [12].
+
+
+References
+
+ 1. Ashby, W. R. (1957). An introduction to cybernetics. London: Chapman & Hall Ltd.
+
+ 2. Beer, R. D. (2004). Autopoiesis and cognition in the Game of Life. Artificial Life, 10(3),
+    309–326.
+
+ 3. Bigi, B. (2003). Using Kullback-Leibler distance for text categorization. In Proceedings
+    of the 25th European Conference on IR Research, ECIR’03. Berlin, Heidelberg: Springer-
+
+    Verlag, (pp. 305–319).
+
+ 4. Bilotta, E., & Pantano, P. (2005). Emergent patterning phenomena in 2D cellular automata.
+    Artificial life, 11(3), 339–362.
+
+ 5. Burton, W. K., & Cabrera, N. (1949). Crystal growth and surface structure. Part I. Discuss.
+    Faraday Soc., 5, 33–39.
+
+ 6. Cleland, C. E. (2013). Conceptual challenges for contemporary theories of the origin(s) of
+
+    life. Current Organic Chemistry, 17, 1704–1709.
+
+ 7. Cover, T. M., & Thomas, J. A. (1991). Elements of Information Theory. Wiley.
+
+                                               27
+ 8. Deacon, T. W. (2003). The hierarchic logic of emergence: Untangling the interdependence
+    of evolution and self-organization. In B. H. Weber, & D. J. Depew, eds., Evolution and
+
+    Learning: The Baldwin Effect Reconsidered. Cambridge, MA: MIT Press, (pp. 273–308).
+
+ 9. Deacon, T. W. (2006). Emergence: The hole at the wheel’s hub. In P. Clayton, & P. Davies,
+    eds., The Re-Emergence of Emergence. Boston, MA: MIT Press, (pp. 111–150).
+
+10. Deacon, T. W. (2006). Reciprocal linkage between self-organizing processes is sufficient
+    for self-reproduction and evolvability. Biological Theory, 1(2), 136–149.
+
+11. Deacon, T. W. (2012). Incomplete Nature: How Mind Emerged from Matter. New York,
+
+    NY: W.W. Norton and Company.
+
+12. Deacon, T. W., & Koutroufinis, S. A. (forthcoming). Information, complexity and dynamic
+    depth. Information.
+
+13. Eigen, M., & Schuster, P. (1979).       The Hypercycle - A Principle of Natural Self-
+    Organization. Heidelberg: Springer.
+
+14. Fellermann, H., Rasmussen, S., Ziock, H.-J., & Solé, R. V. (2007). Life cycle of a minimal
+
+    protocell—a dissipative particle dynamics study. Artificial Life, 13(4), 319–345.
+
+15. Getling, A. V. (1998). Rayleigh-Bénard convection: structures and dynamics, vol. 11.
+    World Scientific.
+
+16. Haken (2006). Information and self-organization: a macroscopic approach to complex
+    systems. Springer.
+
+17. Harder, M., & Polani, D. (2013). Self-organizing particle systems. Advances in Complex
+
+    Systems, 16.
+
+
+                                              28
+18. Jost, L. (2006). Entropy and diversity. Oikos, 113, 363–375.
+
+19. Joyce, G. F. (1989). RNA evolution and the origins of life. Nature, 338, 217–224.
+
+20. Kauffman, S. A. (1993). Origins of Order: self-organization and selection in evolution.
+    New York, NY: Oxford University Press.
+
+21. Kauffman, S. A. (2011). Approaches to the origin of life on earth. Life, 1(1), 34–48.
+
+22. Kullback, S., & Leibler, R. (1951). On information and sufficiency. The Annals of Mathe-
+
+    matical Statistics, 22(1), 79–86.
+
+23. Langton, C. G. (1986). Studying artificial life with cellular automata. Physica D, 22,
+    120–149.
+
+24. Maturana, H. R., & Varela, F. J. (1980). Autopoiesis and cognition. Boston, MA: Reidel.
+
+25. McMullin, B., & Varela, F. J. (1997). Rediscovering computational autopoiesis. In P. Hus-
+    bands, & I. Harvey, eds., Fourth European Conference on Artificial Life. Cambridge, MA:
+
+    MIT Press, (pp. 38–48).
+
+26. Plasson, R., Brandenburg, A., Jullien, L., & Bersini, H. (2011). Autocatalysis: At the root
+    of self-replication. Artificial Life, 17(3), 219–236.
+
+27. Polani, D. (2008). Foundations and formalizations of self-organization. Advances in Ap-
+    plied Self-Organizing Systems, 19–37.
+
+28. Prigogine, I., & Stengers, I. (1984). Order Out of Chaos. New York, NY: Bantam Books.
+
+29. Rosen, R. (1991). Life itself: A Comprehensive Inquiry into the Nature, Origin, and Fabri-
+    cation of Life. New York: Columbia University Press.
+
+
+                                                29
+30. Shannon, C. E. (1948). A mathematical theory of communication. Bell Systems Technical
+    Journal, 27, 379–423.
+
+31. Thompson, E. (2010). Mind in Life. Cambridge, MA: Harvard University Press.
+
+32. Tyson, J. L. (1976). The Belousov-Zhabotinski Reaction. Berlin: Springer-Verlag.
+
+33. Varela, F. J., Maturana, H. R., & Uribe, R. (1974). Autopoiesis: The organization of living
+
+    systems, its characterization and a model. BioSystems, 5, 187–196.
+
+34. von Neumann, J. (1966). The Theory of Self-Reproducing Automata. Chicago, IL: Univer-
+    sity of Illinois Press.
+
+
+
+
+                                              30
+Appendix: Model Description
+
+A non-toroidal two-dimensional 10 x 10 tile grid is used as a discrete model of a reaction-
+diffusion system containing seven different types of particles (A to G). At the start of a simu-
+
+lation run, the particles are distributed randomly over the grid. Then, for each time step, each
+particle may
+
+   1. move to a neighboring tile;
+
+   2. collide and react with other particles in the same tile;
+
+   3. break up.
+
+These steps are described in more detail below.
+
+Movement
+
+Random movement caused by bouncing agains the edges of the grid, or particle-to-particle col-
+lision, is approximated by randomly directed movement to a horizontally or vertically neigh-
+
+boring tile with Pmovement = 0.1 for each particle or crystal.
+
+Collision
+
+Self-assembly of Gn crystals:
+
+
+
+                                        Gn + G → Gn+1 ,
+
+with reaction probability Pg+ = γ + ∈ [0, 1] with n ≥ 1. Reciprocal catalysis of particle types
+A to F
+
+
+                                                   F
+                                          A+B →C ,
+
+                                                31
+and
+
+
+                                                     C
+                                           D+E →F ,
+                                 −2
+with Pr+ = (1 + exp[%+ ])−(1+n) , %+ ∈ R and n the number of catalysts present at tile i (i.e.
+n = |Fi | for the former reaction, and n = |Ci | for the latter). For the experiments in sections 6
+and 7, self-assembly and reciprocal catalysis are combined:
+
+
+                                                C
+                                          D+E →F +G.
+
+Containment is modeled by modifying the attachment reaction for self-assembly:
+
+
+
+                Gn (kC, mF ) + G + pC + qF → Gn+1 ((k + p)C, (m + q)F ) .
+
+The experiments in section 7 feature a containment capacity c, representing the maximum num-
+ber of catalysts a crystal may contain:
+
+
+
+               Gnc (kC, mF ) + G + pC + qF → Gn+1
+                                              c   (k 0 C, m0 F ) + p0 C + q 0 F ,
+
+with k 0 + m0 ≤ c, k 0 + p0 = k + p and m0 + q 0 = m + q. If k + m + p + q > c, the order in
+which catalyst are contained is determined at random.
+
+Breakup
+
+Particles types G, Gn , C and F have a probability of breaking up:
+
+
+                                          Gn → Gn−1 + G ,
+
+with γ − ∈ R and Pg− = (1 + exp[γ − ])−n . If the crystal contains catalysts, they are released
+
+upon detachment (irrespective of the containment capacity c):
+
+                                                32
+                           Gn (kC, mF ) → Gn−1 + G + kC + mF .
+
+Furthermore,
+
+
+
+                                          C →A+B,
+
+and
+
+
+
+                                          F →D+E,
+
+with reaction probability Pr− = %− ∈ [0, 1]. In sections 6 and 7, G particles are removed from
+the grid with Pg− = (1 + exp[γ − ])−1 .
+
+
+
+
+                                             33
+

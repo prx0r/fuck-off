@@ -1,0 +1,1122 @@
+# Introduction
+
+**source:** pdf · **section:** solutions
+**file:** Planck-Kangro
+---
+
+
+The following two papers of Planck represent only a very small
+part of the historical development of our knowledge about the
+spectral energy distribution of electromagnetic radiation. They
+are the result of a long series of investigations undertaken not
+only by Planck (in his work on irreversible processes since
+1878, and—stimulated by Maxwell's theory as developed
+especially by H. Hertz—on the application of thermodynamics
+to electromagnetic processes, from about 1891) but also by
+many other scientists who contributed to these experimentally
+and theoretically in the 19th century or earlier. Planck did not
+work in a vacuum. On the theoretical side, his formulations
+were most directly preceded by the theoretical research of
+Wilhelm Wien, who not only introduced the entropy of
+(resonator-free) radiation in 1894, but also in 1893 and 1894
+discovered several regularities governing the form of the
+black-body radiation function introduced in 1860 by Gustav
+Robert Kirchhoff; in 1896 Wien found, simultaneously and
+independently with Friedrich Paschen, what is now called
+Wien's distribution law. But Planck also drew on J. H.
+Poynting's theorem on energy flux, as well as on the law for
+total radiation obtained by Josef Stefan in 1879 from measure-
+ments of earlier authors and derived theoretically in 1884 by
+ L. Boltzmann. Indeed, Planck may have retained as "youthful
+memories" his intense preoccupation, in his 19th year, with
+John Tyndall's works on heat radiation.
+    On the other hand the results, as they become evident in these
+ two papers, are only the initial steps in the direction of the
+ quantum theory to be developed later. In the years 1900 and
+ 1901 Planck still had no conception of an essentially new
+ hypothesis, later known as the quantum hypothesis. In 1900
+ in more than one regard he still relied strictly on Boltzmann's
+ statistics of discrete kinetic energies and had no inkling, for
+ example, of a "Bose statistics". He saw his radiation function—
+known to contemporaries as the "Wien-Planck" equation—as
+ only a suggestion, which needed to be experimentally tested.
+ This testing, undertaken in the long-wave region especially by
+ Heinrich Rubens, would take two more decades. Such signs of
+ incompleteness of the theory itself and of its relation to ex-
+ periment affect in general, by the way, every physical problem.
+    In the history of physics these two papers are considered
+ "milestones", since in the 20th century it has turned out that
+                                33
+they opened up a new field of physics—one field among others
+that were becoming important around this time (e.g. the nature
+of the electron, X-rays, relativity theory and nuclear radiation).
+   Sources of information in which the individual thought-steps
+of Planck toward the radiation equation and its statistical
+foundation can be found are almost non-existent. The collection
+of Planck's manuscripts in Berlin was almost completely
+burned in the second World War. Thus one is limited essentially
+to a careful study of the publications of Planck and his con-
+temporaries and predecessors as well as of reports of meetings.
+If one takes proper account also of the writings of the experi-
+menters and does not neglect to check numerical values, one
+can construct at least a rough picture of the possibilities, up to
+and around 1900, which physicists had for obtaining knowledge
+and confirming it. This picture comes close to the actual
+events. Later retrospective accounts of Planck and other
+authors do not—it is demonstrable—in general possess this
+validity.
+
+                               34
+                                6. On an improvement of
+                        Wien's equation for the spectrum1
+                                                  by M. Planck
+(read at the meeting of 19 October 1900)
+(cf. above p. 181)la
+
+The interesting results of long wave length spectral energy
+measurements which were communicated by Mr. Kurlbaum at
+today's meeting,2 and which were obtained by him and Mr.
+Rubens, confirm the statement by Mr. Lummer and Mr.
+Pringsheim, which was based on their observations that Wien's
+energy distribution law is not as generally valid as many have
+supposed up to now,3 but that this law at most has the character
+of a limiting case,4 the exceedingly simple form of which was
+due only to a restriction to short wave lengths and low tem-
+peratures.* Since I myself even in this Society have expressed
+the opinion that Wien's law must be necessarily true, 5 I may
+perhaps be permitted to explain briefly the relationship between
+the electromagnetic radiation theory developed by me and the
+experimental data.
+   The energy distribution law is according to this theory deter-
+mined as soon as the entropy S of a linear6 resonator which
+interacts with the radiation is known as a function of its vibra-
+tional energy7 U. I have, however, already in my last paper
+on this subject! stated that the law of increase of entropy is
+by itself not yet sufficient to determine this function com-
+pletely;8 my view that Wien's law would be of general validity,
+was brought about rather by special considerations, namely by
+the evaluation of an infinitesimal increase of the entropy of a
+system of n identical resonators in a stationary radiation field
+by two different methods which led to the equation!
+
+               dUH. AU„. /([/„) = « dU . AU ./(£/"),
+                                              3 d2S
+where             U„ = n(J and             f(U)=---y^.
+                                              5dU~2
+
+  * Mr. Paschen has written to me that he also has recently found
+appreciable deviations from Wien's law.
+  t M. Planck, Ann. Phys. 1 [ = 306], 730 (1900).
+  I l.c.p. 732.
+                                  35
+From this equation Wien's law follows in the form9
+                            d2S const
+                           dU2      U '
+   The expression on the right-hand side of this functional
+equation is certainly the above-mentioned change in entropy
+since n identical processes occur independently, the entropy
+changes of which must simply add up. However, 1 could
+consider the possibility, even if it would not be easily under-
+standable and in any case would still be difficult to prove, that
+the expression on the left-hand side would not have the general
+meaning which I attributed to it earlier, in other words:
+that the values of U„, dU„ and AC/,, are not by themselves
+sufficient to determine the change of entropy under considera-
+tion, but that V itself must also be known for this. 10 Following
+this suggestion I have finally started to construct completely
+arbitrary expressions for the entropy which although they are
+more complicated than Wien's expression still seem to satisfy
+just as completely all requirements of the thermodynamic and
+electromagnetic theory.
+   I was especially attracted by one of the expressions thus
+constructed which is nearly as simple as Wien's expression11
+and which would deserve to be investigated since Wien's
+expression is not sufficient to cover all observations. We get
+this expression by putting*
+                         d2S_      a     12
+
+                              2
+                         d~U~ ~U(B+U)'
+  It is by far the simplest of all expressions which lead to S
+as a logarithmic function of U—which is suggested from
+probability considerations14—and which moreover for small
+values of U reduces to Wien's expression mentioned above.
+Using the relation
+                             dS_]
+                            ~d!j~T
+and Wien's "displacement" lawj one gets a radiation formula
+with two constants: 15, 16
+
+  * I use the second derivative of S with respect to U since this quantity
+has a simple physical meaning13 (l.c.p. 731).
+  t The expression of Wien's displacement law is simply19 S=f(U/v),
+where v is the frequency of the resonator, as I shall show elsewhere.
+                                   36
+                              £=^LL___
+                                   ec'AT-V
+which, as far as I can see at the moment, fits the observational
+data, published up to now, as satisfactorily as the best equations
+put forward for the spectrum, namely those of Thiesen,*17
+Lummer-Jahnke,f and Lummer-Pringsheim.J (This was
+demonstrated by some numerical examples.18) 1 should
+therefore be permitted to draw your attention to this new
+formula which I consider to be the simplest possible, apart
+from Wien's expression, from the point of view of the electro-
+magnetic theory of radiation.
+
+   * M. Thiesen, Verh. Deutsch. Phys. Ges. 2, 67 (1900).
+   One can see there that Mr. Thiesen had put forward his formula before
+Mr. Lummer and Mr. Pringsheim had extended their measurements to
+longer wave lengths. I emphasise this point as I have made a somewhat
+different statement before this paper was published. (M. Planck, Ann. Phys.
+1 [ = 306], 719(1900).)
+   t O. Lummer and E. Jahnke, Ann. Phys. 3 [ = 308], 288 (1900).
+   i O. Lummer and E. Pringsheim, Verh. Deutsch. Phys. Ges. 2, 174
+(1900).
+
+                                    37
+7. On the theory of the 20
+                        Energy Distribution Law
+of the Normal Spectrum
+by M. Planck
+(read at the meeting of 14 December 1900)
+(cf. above p. 235)20a
+
+Gentlemen: when some weeks ago 1 had the honour to draw
+your attention to a new formula which seemed to me to be
+suited to express the law of the distribution of radiation energy
+over the whole range of the normal spectrum,* 1 mentioned
+already then that in my opinion the usefulness of this equation
+was not based only on the apparently close agreement of the
+few numbers, which I could then communicate to you, with
+the available experimental data,t but mainly on the simple21
+structure of the formula and especially on the fact that it
+gave a very simple logarithmic expression22 for the dependence
+of the entropy of an irradiated monochromatic vibrating
+resonator on its vibrational energy. This formula seemed to
+promise in any case the possibility of a general interpretation
+much better than other equations which have been proposed,
+apart from Wien's formula which, however, was not confirmed
+by experiment.
+   Entropy means disorder, and 1 thought that one should find
+this disorder in the irregularity with which even in a completely
+stationary radiation field the vibrations of the resonator change
+their amplitude and phase, as long as one considers time inter-
+vals long compared to the period of one vibration, but short
+compared to the duration of a measurement. The constant
+energy of the stationary vibrating resonator can thus only be
+considered to be a time average,24 or, put differently, to be an
+instantaneous average of the energies of a large number of
+identical resonators which are in the same stationary radiation
+field, but far enough from one another not to influence each
+other directly. Since the entropy of a resonator is thus deter-
+mined by the way in which the energy is distributed at one
+time over many resonators, I suspected that one should evaluate
+
+   * M. Planck, Verh. D. Phys. Ges. 2, 202 (1900).
+   t In the meantime Mr. H. Rubens and Mr. F. Kurlbaum have given a
+direct confirmation for very long wave lengths. (S.B. Kdnigl. Preuss. Akad.
+Wiss. of 25 October, p. 929 (1900).)23
+                                   38
+this quantity by introducing probability considerations into
+the electromagnetic theory 25 of radiation, the importance of
+which for the second law of thermodynamics was originally
+discovered by Mr. L. Boltzmann.* This suspicion has been
+confirmed; 1 have been able to derive deductively an expression
+for the entropy of a monochromatically vibrating resonator
+and thus for the energy distribution in a stationary radiation
+state, that is, in the normal spectrum. To do this it was only
+necessary to extend somewhat the interpretation of the
+hypothesis of "natural 26 radiation" which has been introduced
+by me into electromagnetic theory. Apart from this I have
+obtained other relations which seem to me to be of considerable
+importance for other branches of physics and also of chemistry.
+   1 do not wish to give today this deduction—which is based
+on the laws of electromagnetic radiation, thermodynamics and
+probability calculus—systematically in all details, but rather to
+explain to you as clearly as possible the real core of the theory.
+This can probably be done most easily by describing to you a
+new, completely elementary treatment through which one can
+evaluate—without knowing anything about a spectral formula
+or about any theory—the distribution of a given amount of
+energy over the different colours of the normal spectrum using
+one constant of nature only and after that also the value of the
+temperature of this energy radiation using a second constant of
+nature. You will find many points in the treatment to be
+presented arbitrary and complicated, but as I said a moment
+ago I do not want to pay attention to a proof of the necessity
+and the possibility to perform it easily and practically, but to
+the clarity and uniqueness of the given prescriptions for the
+solution of the problem.
+   Let us consider a large number of linear, monochromatically
+vibrating resonators—N of frequency v (per second), 28 N' of
+frequency v, N" of frequency v"',..., with all N large numbers—
+which are properly separated and are enclosed in a diathermic 27
+medium with light velocity c and bounded by reflecting walls.
+Let the system contain a certain amount of energy, the total
+energy £",(erg) which is present partly in the medium as
+travelling radiation and partly in the resonators as vibrational
+
+ * L. Boltzmann, especially S.B. Kais. Ak. Wiss. Wien II, 76, p. 373 (1877
+ = 1878]).
+                                  39
+energy. The question is how in a stationary state this energy is
+distributed over the vibrations of the resonators and over the
+various colours of the radiation present in the medium, and
+what will be the temperature of the total system.
+  To answer this question we first of all consider the vibrations
+of the resonators 29 and try to assign to them certain arbitrary
+energies, for instance, an energy E to the N resonators v, E' to
+the N' resonators v , ... . The sum
+                      E+E' + E" + ... = E0
+must, of course, be less than Et. The remainder Et — E0
+pertains then to the radiation present in the medium. We must
+now give the distribution of the energy over the separate
+resonators of each group, first of all the distribution of the
+energy E over the N resonators of frequency v. If E is con-
+sidered to be a continuously divisible quantity, this distribution
+is possible in infinitely many ways. We consider, however—
+this is the most essential point of the whole calculation—E to
+be composed of a well-defined number of equal parts and use
+thereto the constant of nature /? = 6-55 x 10~ 27 erg sec. 30 This
+constant multiplied by the common frequency v of the
+resonators gives us the energy element31 e in erg, and dividing
+E by e we get the number P of energy elements which must be
+divided over the TV resonators. If the ratio thus calculated is
+not an integer, we take for P an integer in the neighbourhood. 32
+   It is clear that the distribution of P energy elements over N
+resonators can only take place in a finite, well-defined number
+of ways. Each of these ways of distribution we call a "com-
+plexion", 33 using an expression introduced by Mr. Boltzmann
+for a similar concept. If we denote the resonators by the
+numbers 1, 2, 3, ..., N, and write these in a row, and if we
+under each resonator put the number of its energy elements,
+we get for each complexion a symbol of the following form
+
+             1 2      3 4 5 6 7 8 9   10
+             7 38     11 0 9 2 20 4 4 5
+We have taken here 7V= 10, P = 100. The number of all possible
+complexions is clearly equal to the number of all possible sets of
+numbers which one can obtain in this way for the lower
+sequence for given N and P. To exclude all misunderstandings,
+we remark that two complexions must be considered to be
+                               40
+different if the corresponding sequences contain the same
+numbers, but in different order. From the theory of permuta-
+tions we get for the number of all possible complexions
+         N(N+l).(N+2)       ... (N+P-\)_(N      + P-1)\
+                    1 . 2 . 3 ...P             (/V-1)LP!
+or to a sufficient approximation, 34
+                         __(N+P)N+P
+                             NNPP '
+   We perform the same calculation for the resonators of the
+other groups, by determining for each group of resonators the
+number of possible complexions for the energy given to the
+group. The multiplication of all numbers obtained in this
+way gives us then the total number R of all possible com-
+plexions for the arbitrarily assigned energy distribution over all
+resonators.
+   In the same way any other arbitrarily chosen energy distri-
+bution 35 E, E', E", ... will correspond to the number R of all
+possible complexions which must be evaluated in the above
+manner. Among all energy distributions which are possible
+for a constant E0=E+E' + E"+... there is one well-defined
+one for which the number of possible complexions R0 is larger
+than for any other distribution. We then look for this energy
+distribution, if necessary by trial, since this will just be the
+distribution taken up by the resonators in the stationary
+radiation field, if they together possess the energy E0. The
+quantities E, E', E", ... can then be expressed in terms of one
+single quantity E0. Dividing E by N, E' by N', ... we obtain
+the stationary value of the energy U„, Uv', [/,/', ... of a single
+resonator 36 of each group, and thus also the spatial density of
+the corresponding radiation energy in a diathermic medium
+in the spectral range v to v + dv,31
+
+                       uv dv =    — . Uv dv,
+                                 c6
+so that the energy of the medium is also determined.
+  Of all quantities which occur only E0 seems now still to be
+arbitrary. One sees easily, however, how one can finally
+evaluate E0 from the given total energy E„ since if the chosen
+value of E0 leads, for instance, to too large a value of E„ we
+must decrease it appropriately, and the other way round. 38
+                                 41
+   After the stationary energy distribution is thus determined
+using a constant h, we can find the corresponding temperature
+i? in degrees absolute* using a second constant of nature
+k= 1-346 x 10" 1 6 erg degree - 1 through the equation
+                             1                   d In R0
+                             &                       dE0            '
+                                                           39
+The product k In R0 is the entropy of the system of resona-
+tors; it is the sum of the entropy of all separate resonators.
+  It would, to be sure, be very complicated to perform
+explicitly the above-mentioned calculations, although it would
+not be without some interest to test the truth of the attainable
+degree of approximation in a simple case. A more general
+calculation which is performed very simply, using exactly the
+above prescriptions shows much more directly40 that the
+normal energy distribution determined in this way for a medium
+containing radiation is given by the expression41
+                                                     3
+                                 8   T   7   «   V              d   v     •
+
+                       uvdv = -
+
+which corresponds exactly to the spectral formula which I
+gave earlier
+                                                 CjA"5
+                        Ex dX = —                                       dX.
+
+The formal differences are due to the differences in the
+definitions of uv and Ex.. The first formula is somewhat more
+general inasfar as it is valid for an entirely arbitrary diathermic
+medium with light velocity c. I calculated the numerical values
+of h and k which I mentioned from that formula using the
+measurements by F. Kurlbaum and by O. Lummer and
+E. Pringsheim.t
+  I shall now make a few short remarks about the question of
+the necessity of the above given deduction. The fact that the
+chosen energy element c for a given group of resonators must
+be proportional to the frequency v follows immediately from
+
+  * The original states "degrees centigrade" which is clearly a slip
+[D. t. H.].
+  t F. Kurlbaum {Ann. Phys. 65 [ = 301], 759 (1898)) gives       SlQo~S0
+= 0-0731 Watt c m - 2 , while O. Lummer and E. Pringsheim (Verh. Deutsch.
+Physik Ges. 2, 176 (1900)) give A,„r> = 2940 /* degree.
+
+                                             42
+the extremely important so called Wien displacement law.42
+The relation between u and U is one of the basic equations of
+the electromagnetic theory of radiation. Apart from that, the
+whole deduction is based upon the single theorem that the
+entropy of a system of resonators with given energy is pro-
+portional to the logarithm of the total number of possible
+complexions for the given energy. This theorem can be split
+into two other theorems: (1) The entropy ol the system in a
+given state is proportional to the logarithm of the probability
+of that state, and (2) The probability of any state is proportional
+to the number of corresponding complexions, or, in other
+words, any given complexion is equally probable as any other
+given complexion. The first theorem is, as far as radiative
+phenomena are concerned, just a definition of the probability
+of the state, insofar as we have for energy radiation no other
+a priori way to define the probability than the determination
+of its entropy. We have here one of the distinctions 43 from
+the corresponding situation in the kinetic theory of gases. The
+second theorem is the core of the whole of the theory presented
+here: in the last resort its proof can only be given empirically.
+It can also be understood as a more detailed definition of the
+hypothesis of natural radiation which I have introduced. This
+hypothesis I have expressed before only in the form that the
+energy of the radiation is completely "randomly" distributed
+over the various partial vibrations present in the radiation.*
+I plan to communicate elsewhere in detail the considerations,
+which have only been sketched here, with all calculations and
+with a survey of the development of the theory up to the
+ present.
+
+   * M. Planck, Ann. Phys. 1 [ = 306], 73 (1900). When Mr. W. Wien in
+his Paris report (Rapports II, p. 38, 1900) about the theoretical radiation
+laws did not find my theory on the irreversible radiation phenomena
+satisfactory since it did not give the proof that the hypothesis of natural
+radiation is the only one which leads to irreversibility, he surely demanded,
+in my opinion, too much of this hypothesis. If one could prove the
+hypothesis, it would no longer be a hypothesis, and one did not have to
+formulate it at all. However, one could then not derive anything
+essentially new from it. From the same point of view one should also
+declare the kinetic theory of gases to be unsatisfactory since nobody has
+yet proved that the atomistic hypothesis is the only one which explains
+irreversibility. A similar objection could with more or less justice be
+raised against all inductively obtained theories.
+
+                                     43
+   To conclude I may point to an important consequence of
+this theory which at the same time makes possible a further
+test of its admissibility. Mr. Boltzmann* has shown that the
+entropy of a monatomic gas in equilibrium is equal to coRlnP0,
+where P0 is the number of possible complexions (the "permut-
+ability") corresponding to the most probable velocity distri-
+bution, R being the well known gas constant (8-31 x 107 for
+0 = 16), w the ratio of the mass of a real molecule to the mass
+of a mole, which is the same for all substances. If there are any
+radiating resonators present in the gas, the entropy of the
+total system must according to the theory developed here be
+proportional to the logarithm of the number of all possible
+complexions, including both velocities and radiation. Since,
+however, according to the electromagnetic theory of radiation
+the velocities of the atoms are completely independent of the
+distribution of the radiation energy, the total numbers of
+complexions is simply equal to the product of the numbers
+relating to the velocities and the number relating to the
+radiation. For the total entropy we have thus
+                 f In (P0R0) = f In P0 + f In R0,
+where/is a factor of proportionality. The first part of the sum
+is the kinetic, the second part the radiation entropy. Com-
+paring this with the earlier expressions we find
+                          f=<aR=k,
+                              k
+or                        co = - = l - 6 2 x l 0 - 2 4 ,
+
+that is, a real molecule is 1 -62 x 10~ 24 of a mole, or, a hydrogen
+atom weighs44 T64x 10~ 24 g, since H = 1-01, or, in a mole of
+any substance there are l/cu = 6T75 x 10 23 real molecules.45
+Mr. O. E. Meyerf gives for this number 640 xlO 2 1 which
+agrees closely.45
+   Loschmidt's number L, that is, the number of gas molecules
+in 1 cm 3 at 0°C and 1 atm is 46
+                    ,   1 013 200
+                                    = 2-76 xlO 1 9 .
+                       R . 273 . to
+Mr. Drudet finds L = 2-l x 1019
+
+     * L. Boltzmann, S.B. Kais. Akad. Wiss. Wien II, 76,428 (1877 [= 1878]).
+     t O. E. Meyer, "Die kinetische Theorie der Gase" 2nded.,p. 337(1899).
+     X P. Drude, Ann. Phys. 1 [=306], 578 (1900).
+                                       44
+  The Boltzmann-Drude constant a, that is, the average kinetic
+energy of an atom at the absolute temperature 1 is
+                   a = fa)jK = fAi = 2-02x         \0~i6.
+Mr. Drude* finds a = 2-65x lO" 1 6 .
+   The elementary quantum of electricity e, that is, the electrical
+charge of a positive monovalent ion or of an electron is, if
+e is the known charge of a monovalent mole, 47
+                                            !O
+                    e = e a j = 4-69xl0-         e.s.u.
+                                       10
+Mr. F. Richarzf finds l-29x l f r          and Mr. J. J. Thomson:!
+recently 6-5 x l O " 1 0 .
+   If the theory is at all correct, all these relations should be not
+approximately, but absolutely, valid.48 The accuracy of the
+calculated numbers is thus essentially the same as that of the
+relatively worst known, the radiation constant k, and is thus
+much better than all determinations of those quantities up to
+now. To test it by more direct methods should be both an
+important and a necessary task for further research.
+
+* loc. cit.
+t F. Richarz, Ann. Phys. 52 [=288], 397 (1894).
+X J. J. Thomson, Phil. Mag. (5)46, 528 (1898).
+                                  45
+8. Notes
+
+1. In June 1896, Wilhelm Wien proposed for the energy-
+distribution function the equation
+
+                    ?A=CA-5exp^--
+
+In deriving this equation he used the transformation equation
+obtained from the Doppler principle,
+
+(where r>, &0 are temperatures and A, A0 are wavelengths) and
+the Stefan-Boltzmann law for the total radiation (Wien 1896).
+Planck, by systematic consideration of the energy of a Hertzian
+resonator and of the energy and entropy of the radiation field,
+gave Wien's function the alternative form
+                        %-nbv3        I   av
+                    u=—r— exp —
+
+(M = energy density, v = frequency, c = speed of light, a, b =
+radiation constants) (Planck 1899, p. 471).
+   Independently of Wien, Friedrich Paschen in June 1896
+obtained from experimental data an equation similar to the
+first one mentioned above,
+
+                     ?,A = c 1 A-«expf- A -|;
+
+(77= temperature, a = 5-660). These and other energy
+distribution functions obtained before 1896 by W. A
+Michelson (1887), H. F. Weber (1888), and R. von Kovesligethy
+(1890) have been discussed by H. Kangro (1970).
+  la. Reference to the first notice in this Journal on Planck's
+speech of 19 October 1900.
+   2. Ferdinand Kurlbaum presented the results of measure-
+ments by himself and Heinrich Rubens of the radiation energy
+of a black body by spectral decomposition through "Rest-
+strahlen" (residual rays) of fluorspar (A = 24 v. and 3T6[x)
+and of rock salt (A=51-2 y.) (soon afterwards also of quartz,
+A = 8-5 u). Rubens had already communicated these results
+verbally to Planck on 7 October 1900. By the evening of the
+                                 46
+very same day Planck found the new equation characteristic
+of the beginning of the quantum hypothesis. One or two days
+later Rubens reconfirmed its agreement with the results of his
+observations. On that 7 October, Rubens told Planck, "that for
+the longest waves measured by him the law recently proposed
+by Lord Rayleigh ... is valid" (G. Hettner 1922, p. 1036).
+   Later, after W. Nernst and Th. Wulf (1919) doubted the
+validity of the Planck radiation law, Rubens acknowledged
+that in 1900 he was pretty satisfied that the test was successful
+to within a few percent. (Rubens and Michel 1921, p. 577)
+Rubens made more exact measurements in 1920. It seems to be
+the sign of an historical process that knowledge must be gained
+in steps, if one does not wish to be drowned in the flood of
+ new phenomena.
+3. Lummer and Pringsheim 1900 (circa September), 163-180;
+both speak simply of an invalidity of the Wien law, not of a
+partial validity. Therefore they suggest a new form, most
+probably influenced by knowledge of the Rayleigh equation:
+
+            £=CrA-4exp        - —— , l - 2 < r < l - 3
+                             V (AT)"/1'
+In the preceding year, despite systematic deviations of the
+measured values of c from each other and from the theoretical
+value, they still did not dare to make this decision. (Lummer
+& Pringsheim 1899, February and November) History teaches
+above all the important principle that a problem consists in
+distinguishing between errors of measurement and real dis-
+agreement of experimental results and valid theories.
+4. Planck speaks here of Wien's law as a "limiting law".
+Lummer and Pringsheim had recently conceded that even for
+the energies measured by them at long wavelengths
+(12 u,^A:gl8 u) for low temperature the "Wien formula can
+still represent our observations" (Lummer & Pringsheim 1900,
+pp. 179-80; cf. 1899, p. 224).
+5. Date unknown.
+6. I.e., one-dimensional oscillator (Planck 1895, p. 290).
+7. U is more precisely the energy in the vicinity of the resonator
+out to distances that are "infinite" compared to the size of the
+resonator (Planck 1896, p. 161).
+                               47
+8. Planck knew very well in 1899 and March 190Q that he could
+make only the negative assertion: he said he did not find any
+other function (other than Wien's) which would satisfy his
+entropy equation (Planck 1899, p. 476; 1900, p. 730).
+
+9.       ndU .nAU .f{Un) = n.dUAUf(U)
+         (1)        nf(nU)=f(U).
+Differentiating this functional equation with respect to n gives:
+                   M»v)         1
+                   d(nU)       —J   \ v >•>
+                               n
+using (1),
+                   f'(nU)  1
+                    AnU) ~nU
+and integrating,
+                            const
+                    AnU)' nU
+from (1) again:
+                             const d2S      a
+                    Auy-       V
+                                  >
+                                    dU2~~ ~ u
+                      dS
+                         = -a{ln U+C},           C=(ln/8+l)
+                      dU
+
+since a, /3 must be, according to W. Wien, functions of A,
+which again depends on the velocity of Maxwell's distribution
+(Planck 1900, 732; Wien, Ann. Phys. 1896, 294, 665), Planck
+got with a = (av) ~1 and jS = (ebv) ~1:
+
+                        I& = - lavf l\ n -bv1J
+                                   / av
+                        U=bv . exp I ——
+
+(Planck 1900, p. 732-3. See note 19.)
+
+10. This discerning remark was justified in 1906 (Planck 1906,
+p. 218):
+                     (S„ 2, total entropy)
+                                   48
+for one resonator:
+                                   ,.    dU.AU
+                       dS, = - 4/f
+                               5
+                                        U(U+hv)
+for n resonators:
+
+                                        Un l^ + hv
+                                            n
+                                                d2S
+and with              dzZt = f dU„. AU„ .           2      (Planck 1906)
+                                                dUn2
+                     d2Sn             nk
+                     dUn2         Un{Un + nhv)
+                      d2S„            nk
+                      dU2          Un(U+hv)             U(U+hv)
+           (assumed in 1900) nf(U„, U)=f(U)
+           (1901, 555)       nf(U„, n) =f(U)
+   Planck acknowledged in 1901 that he had already called
+attention to the problem at the Physics Congress at the
+beginning of August 1900 in Paris, where Otto Lummer and
+Wilhelm Wien had criticized his conclusion for n resonators
+based on a single resonator (Planck 1901, p. 554-5; cf. Kangro
+1970. p. 220).
+
+11. The principle of "simplicity" is for Planck an important
+support for his argument; cf. his remarks at the end of the first
+paper and beginning of the second paper.
+
+12. For small /S the expression obviously reduces to
+                             d2S     a
+                             dU2 = + U2'
+This corresponds to the case of large values of AT and
+becomes:
+                        dS     a.
+                        _ = _ _ ( + const.)
+
+                            _1
+                            =
+                             'f
+                                   49
+=>                      U~T
+For large values /?> V we have:
+                     d2S        a
+                     dU2      U(P+U)
+                           a 1
+
+which is equivalent to Wien's law.
+In December 1900 Planck changed, in consequence of his
+statistics, the sign:
+                     d2S          oc
+                     ——-=                 (cf. notes 16 and 41)
+                     dU2         U(P+U)
+13. d2S\d\J2 is the change in entropy increase. Only to the
+latter did Planck ascribe a physical meaning (March 1900):
+"the numerical measure of the irreversibility of the process or
+for the uncompensated transformation of work into heat"
+(Planck 1900, p. 731). The entropy itself, however—he argued
+—has no physical meaning.
+
+14. By the time of publication of this paper (October 1900)
+Planck thus had clearly made the connection with the
+probability concept, as he confirmed in December (second
+paragraph of the second paper). Perhaps he never lost sight of
+this concept, he who is known to have remained in communi-
+cation with Boltzmann every year previously, for example at
+the Naturforschertagung in Munich in September 1899.
+   Already in 1898 Planck had obtained, for the entropy of a
+resonator vibrating with frequency v0, the equation
+                           5 = In U0
+(Planck 1898, p. 472). Yet this equation had not appeared
+again. It would have led to the "Rayleigh term":
+                           d2S        1
+                           dlP^Uo2
+Apart from this, logarithmic expressions for the entropy in
+terms of the variables (T, V) were already common in thermo-
+dynamics as was familiar to Planck.
+                                 50
+15. The fact that there are two constants (corresponding to the
+two variables A and T) was emphasized by Planck especially in
+his December paper and even earlier, 1898, when he viewed the
+damping constant a and the resonator proper frequency v0
+as characteristic in the expression for the resonator energy
+(Planck 1898, p. 474).
+
+16.                   dS a
+                     - =                   -{lnU-ln(P+U)}
+
+                           = 1_
+                          =
+                              f
+                         ^{exp^-ir 1
+  Planck can apply his 1899 expressions for the energy-
+radiation of the field in any direction:
+                                  •» 00          /» c
+                        K=2  Kdv== | ExdX
+                             Kdv
+                            o      Joo
+                        2c -
+                   EX=^.K2
+                         A"
+where K = intensity per unit frequency interval of mono-
+chromatic polarized radiation in one direction, Ex = intensity
+per unit wavelength of monochromatic polarized radiation in
+one direction, rfV~(c/A2) dX.
+  On the other hand, K is connected in the stationary state with
+the energy U of one resonator by the equation
+                         K = (v2lc2)U=UIX2.
+Since according to the relation S= f(Ulv) = af1(Ulf}) we have
+                                  B~v = cl\
+it follows that
+
+          Ex ~ (2c2/A5) e_^aT_x                (c = speed of light)
+
+and by analogy to the 1899 theory [£A = (2c2o/A5)exp( — acjXT)]:
+                              1
+      £A = (2c26/A5).
+                    e-bc/(lT\_        J
+
+        = CA~5{exp (c/AT)- l}~i.                (c = radiation constant)
+                                          51
+The total energy density (taking all resonances together) would
+be (1899):
+                      £ = (4VC).£A
+
+                          877C0         1
+                            \5         e-bc/aTA_\
+
+(Planck 1899, p. 458, 461, 475; cf. 1901, p. 561).
+
+17. Max Thiesen first modified the Wien distribution equation
+on the basis of deviations which the values measured up to
+that date had given (February 1900):
+               Ex = cx VATA- 5 exp (-c 2 'j\T).
+If one retrospectively combines the Wien form (E2) with the
+form first proposed in June 1900 by Lord Rayleigh,
+                 [EA] = cx . A- 4 exp(-c 2 /AT)
+by taking the geometric mean, then one obtains (including the
+various constants cx, c2, cx, c2, cx, c2 as determined by the
+Stefan-Boltzmann law and the displacement law) exactly:
+                          El=VE2E3.
+For this reason Planck, Lummer and Pringsheim as well as
+Rubens emphasized correctly the relatively good agreement of
+Thiesen's formula with the observed values in the intermediate
+region.
+
+18. Not yet discovered.
+
+19. With the help of this form (derivation: Planck 1901,
+pp. 559-61) of the so-called displacement law Planck could
+make the comparison fi~v. The name "displacement law"
+[Verschiebungsgesetz] was introduced for the first time in 1899
+by Lummer and Pringsheim, but the law itself is older. In
+1887 W. A. Michelson first attempted to give a form A,„2r> =
+constant (& = temperature); in 1888 H. F. Weber wrote
+A,„=l/br (where b in general depends on the nature of the
+substance). W. Wien appealed to this law in his derivation of
+the transformation formula
+                           &\ = &0\0
+(1893; and 1894, without assuming equal distribution). Earlier
+(1890) R. v. Kovesligethy had already published such a form.
+                                  52
+  Planck's original form,
+                        EdX = Ts<f>(XT)dX
+(Planck 1901, p. 559) can first be found in a paper of Lord
+Rayleigh (1898), and then, independently, in a paper of Max
+Thiesen (1900). Both emphasize that in it i/> depends only on
+the single variable XT (Rayleigh 1898, p. 522). The form
+/ . A5 = 9(AT) appeared first in October 1900 in a paper of
+Joseph Larmor (cf. Kangro 1970, passim).
+20. By "Normalspectrum" Planck means the blackbody spec-
+trum: this must be distinguished from the term "normales
+Spectrum" then also in use, to mean the graph of the energy
+of a spectrum as a function of the wavelength.
+20a. Reference to the announcement in this journal of
+Planck's speech on December 14, 1900.
+21. Cf. note 11. The principle of simplicity can be traced
+throughout the entire history of physics. Thus for example
+Lord Rayleigh in 1889 gave on the ground of simplicity the
+energy distribution function of H. F. Weber preference over
+other functions (Rayleigh 1889, p. 460). Also J. P. Joule in
+1848 used this principle to justify his hypothesis of the recti-
+linear movement of "atoms", R. E. Clausius in 1879 to support
+the one fluid hypothesis in electricity.
+
+22. This refers to the equation
+
+      S= a ./ l( ^) = a {(U? l nU- - (I l + _U\) l nI( l + -u
+October 1900 derived from:
+                          d2S        a
+                          dU2      U($+U)
+23. The detailed report on the results of measurements of the
+energy of very long wave radiation contained of course the
+values already communicated orally to Planck by Rubens on
+7 October (note 2).
+24. In the 1897 theory for radiation intensity in the medium
+Planck introduced the average values—in reference to W.
+Wien—arguing that only these are accessible to physical
+measurements (Planck 1897, p. 1130). Already in 1898 he
+                                  53
+used the time average of the energy U in the neighborhood
+of a resonator (Planck 1898, p. 459). In 1899, J. Konigsberger
+attempted to save W. Wien's statistics of the velocities of many
+molecules agitated by radiation against objections by replacing
+these statistics in the same way by the time-average for a single
+molecule (Konigsberger 1899, pp. 249-50).
+25. Several (N) resonators of the same vibration frequency are
+treated statistically later (see below).
+
+26. Planck called the radiation "natural" since—as he argued
+—the phenomena of absorption and emission of heat rays
+indicate that the exciting waves of the radiation field in nature
+are not without connection with the energy U of the resonators.
+Mathematically this connection will not be guaranteed since
+certain coefficients of the partial vibrations in the Fourier
+decomposition of the resonator energy as a function of the field
+intensity are unknown. So the partial vibrations—as many as
+possible—(of small amplitude) ought to be reduced on the
+average to zero. The field radiation should therefore not be
+considered "synchronized with the resonator", but rather dis-
+ordered (Planck 1898, p. 469; 1897, pp. 1132-3). "Nature", a
+favorite concept of Planck, demonstrates the existence of
+irreversible processes. Nature, he said, decides which con-
+nection between the properties (wavelength, amplitude, phase)
+of the exciting wave and of the "secondary conductor"
+( = Hertzian resonator) exist (Planck 1895, p. 295).
+
+27. Penetrable by heat.
+28. Planck, like earlier theoreticians (e.g. E. Lommel, 1871)
+but unlike the experimentalists, uses the frequency instead of
+the wavelength (cf. also J. Stoney, 1871).
+29. I.e., without considering the energy in the "medium of
+the propagating radiation".
+30. Modern value: « = 6-626x 1 0 - 2 7 erg sec.
+   Planck's calculation: The difference between the two
+measured values Stl, S,2 of the energy radiated per second into
+the air by the same cubic centimeter of a black body at two
+different temperatures, say / 2 =100° a r | d ti=0°, is compared
+with the total energy density in space,
+                               54
+                                  iirhv3       dv
+                      Uv dv-              3
+                  0                   c       ehvlkT-\
+which gives:
+  n               4(S100-S0)_48irfc«^ 1
+                  c(T2*-TS)    c3h3 f-F 4
+(c = speed of light).
+   From the transcendental equation obtained by calculating
+the energy u at the wavelength where it is a maximum, he finds
+                                ch
+   (2)                     Am = —
+where /3 = 4-9651 ... From (1) and (2) and from a measured
+value of AT there follows:
+                   // = 6-55x 1 0 - 2 7 erg sec
+                  /c= 1-346 x 10- 16 erg/deg
+(Planck 1901, pp. 561-63). The modern value of k is
+ l-3805x 10- 16 erg/deg.
+   Theoretically one must have—contrary to Planck's lifelong
+opinion (first stated in 1901, pp. 822-23)—
+                       h + b and k ^ bja
+(cf. Kangro 1970, pp. 144-47; for b, a see note 1).
+
+31. This states in words the equation:
+                               e = hv.
+  The expression "energy quantum" for e was first coined by
+Einstein (1905). Planck first spoke of a quantum of action h in
+1906, yet there was still no mention of a "quantum hypothesis"
+even at this time, to say nothing of a "quantum theory". In
+the following years Planck, referring to the phase space of
+J. W. Gibbs, emphasized the quantity of action, whereas
+Einstein preferred to speak of energy.
+
+32. This postulate was never used again. L. Boltzmann had
+suggested a similar approximation in 1877 in order to approxi-
+mate a continuum by the statistics of a set of discrete energy
+values (L. Boltzmann 1878, pp. 393-94).
+   He used discrete energy values as early as 1872 and pointed
+explicitly to the fact that the method of approximating con-
+tinuous quantities by discrete quantities is based on a
+                                 55
+well-established tradition (Lagrange, Stefan, and Riemann)
+(Boltzmann 1909, vol. 1, p. 347; for English translation see
+S. G. Brush, "Kinetic Theory", Oxford, 1966, vol. 2, pp. 117-
+132). The idea is even older; it is found for example in the geo-
+metric derivation of the law of gravity by Isaac Beeckman
+(1618).
+
+33. "Complexion", according to Boltzmann, is a method of
+distributing integer multiples/) of the energy e which belong to
+a given total energy E=Xe among n molecules. Boltzmann
+considered the distribution of energy elements e, 2e ... pe in
+such a way that w0 ... wp molecules have 0 ... pe energy. A
+particular distribution k has
+                                     n
+                         P-           '
+                               (w0)!(Hq)!
+
+permutations. For this distribution of states the probability is
+defined by Boltzmann as PJJ, where J is the sum £ Pk of all
+possible distributions:                              *
+                           (A + w - 1 ) !
+                         / =
+                           1 TT7TT- (Boltzmann)
+                           (n— \)\ A!
+  In contrast to Boltzmann, Planck left out the first step and
+defined at once the number of complexions of all state distri-
+butions as the "number of all possible complexions":
+                          (N+P-l)\
+                          (N-1)1 PI
+this expression corresponding to Boltzmann's J (cf. Klein
+1962, p. 473).
+
+34. Planck applied Stirling's formula in first approximation.
+If one wished to take account of e~" as well as n1'2, then under
+the assumption NpP there would be no change in Planck's
+approximation. N>P is valid for AT<20760 p. deg, and thus
+even for all the energies of quartz residual rays measured by
+Rubens and Kurlbaum (A = 8-5/x, 77< 1800°K). However,
+Boltzmann himself used a simplification to calculate his J just
+for the opposite assumption, namely A>« (Boltzmann 1878,
+399).
+                                56
+35. After the distribution of the other Ek among the individual
+groups of resonators k with frequency vk, the statistics must be.
+according to Planck's idea, determined anew for each group
+of resonators.
+
+36. Therefore he did not—as later, in 1901—average the total
+energy of all resonators but only that of each group of
+resonators.
+
+37. See note 16; according to this set
+                            _4nK
+                               c
+
+                                       u dv
+                                 / o
+38. Thus the energy of the radiation field is included as part
+of the energy U in the neighbourhood of the resonator and is
+""analyzed" by the resonator (Planck 1898, p. 461).
+
+39. Boltzmann writes the entropy, which he defines as j* dQjT
+iwhere "7" is the average kinetic energy of a gas molecule"),
+in the form
+
+       Q, the measure of permutability, is proportional to the
+logarithm of the permutability P (essentially to its denomi-
+nator), and therefore to
+                       —
+                          2_, Wabc- l n   w
+                                           abc--
+                        a,b,c...
+Planck reduces it to the entropy as he has defined it:
+                            dQ
+                               -= flnP
+                             T
+                            dQ
+                                   RuAr\P=k\nP
+
+where 7"= 4 R&ui, f> = temperature,aj = matom/Az"gram_atom(Planck
+1901. p. 564-65).
+
+ 40. Avoiding the procedure of maximization.
+                                  57
+41. This expression for uv dv has probably been obtained from
+the form statistically calculated for U before (cf. 1901, 556-
+558):
+   Usin          R y
+                       f/v+p)*H   and
+       §          * '\TV'pp r                 U„ = Pe = NU
+^ ^ ^ ^ ^ ^ ^          N" .P
+ the equation SN = k In R leads to:
+
+             SN=kN{ ( 1 + - J lnfl + - J -— In -
+which implies:
+                         s = ^ ( e=fe )
+                        rfS_l
+                        oT/ = ?
+                         f7=Mexp(fe/ki>)-l)}- 1
+(Planck 1901, p. 561). Thus it is certain that Planck knew U
+in December 1900; in October, however, he knew it only up
+to a constant factor k (and h).
+
+42. Therefore known already in October to Planck (see note
+19).
+
+43. Not until 1913 did Planck refer back again to Boltzmann's
+logarithm of the denominator of the permutation number, i.e.
+to the quantity which Boltzmann essentially had equated to
+the entropy
+                         -^w„\nw„,
+in order to compute from it by two different constraints first
+the Maxwell velocity distribution, then the radiation energy
+distribution function:
+  Constraints:                            x
+     1. Gas and radiation                VSM'„ = 0
+                                          I
+                                   00
+
+     2. Ideal gas:                ]T £kin(n) Sw* = 0
+                                   i
+                                   CO
+
+          Radiation:              ^ (" — 2) §w„ = 0
+                                   1
+
+(Boltzmann 1878, p. 402, 427-8; Planck 1919, pp. 122-3. 127
+139).
+                                  58
+44. Modern value (1971): mH+ = 1-67x 10~ 24 g.
+
+45. Modern value (1971): 6-022 x 1023 mol" 1 . Planck inter-
+preted Meyer's results incorrectly. For Meyer spoke of "640
+trillion molecules per mg" of hydrogen. This number, however,
+corresponds to
+                 N= 640 x l 0 1 8 x l 0 3 x 2-016
+                  = 1-29 x 1024 molecules m o l " l .
+Others in Meyers' time also used such nearly doubled values
+for the molecule number.
+
+46.             #=•£=-
+
+                  _p   M
+                 ~RT~m
+                   n
+                 =
+                  ~V
+
+                 = 76. 13-595. 981 gem" 1 s" 2
+                 = 1013 500 gem" 1 s- 2
+where a> = mjM (see above), pV=RT, V= molar volume,
+n = number of molecules in a mol, p = 1 at. of pressure at 0°C,
+lHg = length of the corresponding mercury column, pHs = specific
+gravity ( = dHs: g), g acceleration of gravity at earth's surface.
+
+4". e (Faraday's constant) = 1-29 x 1010 c.g.s. (Richarz and
+Thomson)
+                          [ = 96,100 coulombs mol - 1 ]
+Modern value (1971): 96,487 coulombs m o l - 1 .
+  The modern value (1971) for e is 4-803 x 1010 c.g.s.; thus
+Planck's value was by far the most accurate one known up to
+1900.
+
+48. Planck referred to the mass of the hydrogen atom m and
+the elementary quantum of electricity e by the collective names
+"elementary quanta of matter and electricity" (1901).
+
+                               59
+                                                                Sources
+(See pp. 30-31, "Quellen", for full titles of German-language articles)
+
+Boltzmann, L., Sitzungsber. Akad. Wiss. Wien 1878, 76 (2. Abt.), 373-435.
+    , "Wissenschaftliche Abhandlungen", 3 vols., Leipzig, 1909, reprinted
+    by Chelsea Pub. Co., New York, 1968.
+Haar, D. ter, "The Old Quantum Theory", Oxford: Pergamon Press, 1967.
+Hettner, G., Naturwissenschaften, 1922, 10, 1033-38.
+Kangro, H., "Vorgeschichte des Planckschen Strahlungsgesetzes",
+     Wiesbaden: F. Steiner, 1970. English language version in the press.
+    London: Taylor & Francis Ltd, 1973.
+Klein, M. J., Max Planck and the beginnings of the quantum theory,
+    Archive for History of Exact Sciences, 1962, 1, 459^179.
+    , Planck, entropy, and quanta 1901-1906, The Natural Philosopher,
+     1963 1 83-108.
+    , Thermodynamics and quanta in Planck's work, Physics Today,
+    November 1966, 19, 11, 23-32.
+Konigsberger, J., Verhandlungen der Deutschen Physikallschen Gesellschaft,
+     1899, 1, 247-252.
+Lummer, O., and Pringsheim, E., Verhandlungen der Deutschen Physikall-
+    schen Gesellschaft, February 1899, 1, 23-41.
+     , and       , Verhandlungen der Deutschen Physikallschen Gesellschaft,
+     November 1899, 1, 215-235.
+     , and       , Verhandlungen der Deutschen Physikallschen Gesellschaft,
+     1900, 2, 163-180.
+Planck, M., Sitzungsberichte der Preuss. Akad. Wiss., 1895, 289-301.
+     , Sitzungsberichte der Preuss. Akad. Wiss., 1896, 151-170.
+     , Sitzungsberichte der Preuss. Akad. Wiss., 1897, 1122^15.
+     , Sitzungsberichte der Preuss. Akad. Wiss., 1898, 449-476.
+     , Sitzungsberichte der Preuss. Akad. Wiss., May 1899, 440^180.
+     , Annalen der Physik, March 1900, 306 [ = series 4, vol. 1], 719-737.
+     , Verhandlungen der Deutschen Physikallschen Gesellschaft, October
+     1900, 2, 202-204.
+     , Verhandlungen der Deutschen Physikallschen Gesellschaft, December
+      1900, 2, 237-245.
+     , Annalen der Physik, January 1901, 309 [ = series 4, vol. 4], 553-563.
+     , Annalen der Physik, January 1901, 309 [ = series 4, vol. 4], 564-566.
+     , Annalen der Physik, October 1901, 311 [ = series 4, vol. 6], 818-831.
+     , "Vorlesungen iiber die Theorie der Warmestrahlung", Leipzig:
+     J. A. Barth, 1906.
+     , "Vorlesungen iiber die Theorie der Warmestrahlung", 3rd ed.
+     corresponding to the 2d., Leipzig: J. A. Barth, 1919. [English
+     translation: "The Theory of Heat Radiation", New York: Dover
+     Pub., Inc., 1959.]
+Lord Rayleigh, On the character of the complete radiation at a given
+     temperature, Phil. Mag. [series 5], 1889, 27, 460-469; reprinted in
+     his "Scientific Papers", New York: Dover Pubs., Inc., 1964, vol. Ill,
+     268-276.
+Rubens, H., and Michel, G., Physikalische Zeitschrift, 1921, 22, 569-577.
+                                    60
+

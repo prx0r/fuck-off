@@ -1,0 +1,804 @@
+   Knowing How and Knowing That: The Presidential Address
+   Author(s): Gilbert Ryle
+   Source: Proceedings of the Aristotelian Society, New Series, Vol. 46 (1945 - 1946), pp. 1-16
+   Published by: Wiley on behalf of The Aristotelian Society
+   Stable URL: http://www.jstor.org/stable/4544405
+   Accessed: 22-05-2015 18:36 UTC
+
+
+
+   Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at http://www.jstor.org/page/
+   info/about/policies/terms.jsp
+
+   JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content
+   in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship.
+   For more information about JSTOR, please contact support@jstor.org.
+
+
+
+
+            The Aristotelian Society and Wiley are collaborating with JSTOR to digitize, preserve and extend access to Proceedings of the
+            Aristotelian Society.
+
+
+http://www.jstor.org
+
+
+
+                                    This content downloaded from 128.103.149.52 on Fri, 22 May 2015 18:36:00 UTC
+                                                    All use subject to JSTOR Terms and Conditions
+PAPERS READ BEFORE THE SOCIETY
+                                 I945-46
+
+
+
+
+Meetingof the AristotelianSocietyat the Universityof London
+          Club on November5th, 1945, at 8 p.m.
+
+
+      KNOWING            HOW AND KNOWING                     THAT
+
+
+                    THE     PRESIDENTIAL       ADDRESS
+
+
+                          By GILBERT RYLE
+
+Preamble
+
+IN this paper, I try to exhibit part of the logical behaviour
+of the several concepts of intelligence, as these occur when
+we characterise either practical or theoretical activities as
+clever, wise, prudent, skilful, etc.
+   The prevailing doctrine (deriving perhaps from Plato's
+account of the tripartite soul) holds:       (1) that Intelligence
+is a special faculty, the exercises of which are those specific
+internal acts which are called acts of thinking, namely, the
+operations of considering propositions ; (2) that practical
+activities merit their titles " intelligent," " clever," and the
+rest only because they are accompanied by some such
+internal acts of considering propositions (and particularly
+" regulative " propositions). That is to say, doing things
+is never itself an exercise of intelligence, but is, at best,
+a process introduced and somehow steered by some ulterior
+act of theorising. (It is also assumed that theorising is not
+a sort of doing, as if " internal doing " contained some
+contradiction.)
+  To explain how thinking affects the course of practice,
+one or more go-between faculties are postulated which are,
+by definition, incapable of considering regulative pro-
+positions, yet are, by definition, competent correctly to
+execute them.
+                                                                        A
+
+
+
+ This content downloaded from 128.103.149.52 on Fri, 22 May 2015 18:36:00 UTC
+                 All use subject to JSTOR Terms and Conditions
+2                            GILBERT RYLE.
+
+
+   In opposition to this doctrine, I try to show that intelli-
+gence is directly exercised as well in some practical
+performances as in some theoretical performancesand that
+an intelligent performance need incorporate no " shadow-
+act " of contemplating regulative propositions.
+   Hence there is no gap between intelligence and practice
+corresponding to the familiar gap between theory and
+practice. There is no need, therefore, to postulate any
+Janus-headed go-between faculty, which shall be both
+amenable to theory and influential over practice.
+   That thinking-operations can themselves be stupidly or
+intelligently performed is a notorious truth which by
+itself upsets the assumed equation of " exercising intelli-
+gence " with ' thinking." Else " stupid thinking " would
+be a self-contradictoryexpressionand " intelligent thinking "
+would be a tautology. It also helps to upset the assumed
+type-difference between thinking and doing, since only
+subjects belonging to the same type can share predicates.
+But thinking and doing do share lots of predicates, such as
+    clever," " stupid," " careful," " strenuous," "attentive,"
+etc.
+   To bring out these points I rely largely on variations of
+one argument. I argue that the prevailing doctrine leads
+to vicious regresses,and these in two directions. (1) If the
+intelligence exhibited in any act, practical or theoretical,
+is to be credited to the occurrence of some ulterior act of
+intelligently considering regulative propositions, no intelli-
+gent act, practical or theoretical, could ever begin. If no
+one possessed any money, no one could get any money on
+loan. This is the turn of the argument that I chiefly use.
+(2) If a deed, to be intelligent, has to be guided by the
+consideration of a regulative proposition, the gap between
+that consideration and the practical application of the
+regulation has to be bridged by some go-between process
+which cannot by the pre-supposed definition itself be
+an exercise of intelligence and cannot, by definition,
+be the resultant deed. This go-between application-
+process has somehow to marry observance of a con-
+templated maxim with the enforcement of behaviour.
+So it has to unite in itself the allegedly incompatible
+properties of being kith to theory and kin to practice,
+
+
+ This content downloaded from 128.103.149.52 on Fri, 22 May 2015 18:36:00 UTC
+                 All use subject to JSTOR Terms and Conditions
+              KNOWING      HOW    AND    KNOWING      THAT.                3
+
+else it could not be the applying of the one in the
+other. For, unlike theory, it must be able to influence
+action, and, unlike impulses, it must be amenable to
+regulative propositions. Consistency requires, therefore,
+that this schizophrenic broker must again be subdivided
+into one bit which contemplates but does not execute, one
+which executes but does not contemplate and a third which
+reconciles these irreconcilables. And so on for ever.
+   (Some philosophers postulate a special class of acts,
+known as " volitions," to perform this desperate task.
+Others postulate some special impulses which can both
+motivate action and lend docile ears to regulative
+propositions.) In fact, of course, whatever " applying"
+may be, it is a proper exercise of intelligence and it is not a
+process of considering propositions.
+   Regresses of this pattern show, I suggest, not only that
+the prevailing doctrine is mistaken in equating exercises of
+intelligence with acts of theorising, but also what sort of a
+mistake it is. It is that radical sort of mistake which can
+be labelled a " type-mistake." I shall here content myself
+with stating summarily what this mistake is. I do not
+develop this logicians' moral in the remainder of this
+paper.
+   Adverbs expressing intelligence-concepts (such as
+  shrewdly,"     " wittily," " methodically,"           " scrupulously,"
+etc.) have hitherto been construed in the wrong logical type
+or category, namely, as signalising the occurrence of special
+internal acts of that proprietary brand which we call
+  thought" or " theory."
+  But in fact they signalise not that a performance incor-
+porates extra acts, whether of this brand or of any other
+brand, but that the performance itself possesses a certain
+style, method or modusoperandi. Intelligently to do some-
+thing (whether internally or externally) is not to do
+two things, one "in our heads " and the other perhaps
+in the outside world ; it is to do one thing in a certain
+manner. It is somewhat like dancing gracefully, which
+differs from St. Vitus' dance, not by its incorporation of
+any extra motions (internal or external) but by the way in
+which the motions are executed. There need be no more
+moves in a job efficientlyperformedthan in one inefficiently
+                                                                      A2
+
+
+This content downloaded from 128.103.149.52 on Fri, 22 May 2015 18:36:00 UTC
+                All use subject to JSTOR Terms and Conditions
+4                              GILBERT RYLE.
+
+
+performed, though it is patent that they are performed in
+very different ways.      Nor need a tidy room contain an
+extra article of furniture to be the real nominee of the
+adjective " tidy."
+   Phrases such as " teclhnical skill," " scrupulous conduct "
+and even " practical reason" denote capacities to execute
+not tandem operations but single operations with special
+procedures.
+   This is why ordinary language does not provide specific
+verbs corresponding to our specific intelligence-adverbs and
+adjectives.
+   (This is not quite true of the adverb " voluntarily,"
+since here philosophers have coined the specific verb " to
+will."   But this verb has no ingenuous employment.
+If it was ever employed, it would be a proper question to
+ask, " When we will, do we always, sometimes or ever will
+voluntarily? " Attempts to answer this question would
+quickly get the verb relegated to its proper place, on the
+shelf tenanted by " phlogiston.")
+   To put it in Aristotelian terms, intelligence-concepts
+belong to the category not of 7TOlEZV or of Ta'XEav but of
+wr65s%This is why we, like Aristotle, squirm when we
+hear intelligence-criteria addressed as " Values " or " The
+Good." For these locutions and associated courtesies
+suggest that they are superior but occult substances, which
+is an even worse type-mistake than treating them as superior
+but occult activities or occurrences.
+
+
+   Philosophers have not done justice to the distinction
+which is quite familiar to all of us between knowing that
+something is the case and knowing how to do things. In
+their theories of knowledge they concentrate on the dis-
+covery of truths or facts, and they either ignore the
+discovery of ways and methods of doing things or else they
+try to reduce it to the discovery of facts. They assume that
+intelligence equates with the contemplation of propositions
+and is exhausted in this contemplation.
+   I want to turn the tables and to prove that knowledge-how
+cannot be defined in terms of knowledge-that and further,
+that knowledge-how is a concept logically prior to the
+
+
+    This content downloaded from 128.103.149.52 on Fri, 22 May 2015 18:36:00 UTC
+                    All use subject to JSTOR Terms and Conditions
+               KNOWING      HOW    AND    KNOWING      THAT.                5
+
+
+concept of knowledge-that. I hope to show that a number
+of notorious cruces and paradoxes remain insoluble if
+knowing-that is taken as the ideal model of all operations
+of intelligence. They are resolved if we see that a man's
+intelligence or stupidity is as directly exhibited in some
+of his doings as it is in some of his thinking.
+   Consider, first, our use of the various intelligence-predi-
+cates, namely, " wise," " logical," " sensible," " prudent,"
+" cunning," " skilful," " scrupulous," " tasteful," " witty,"
+etc., with their converses " unwise," " illogical," " silly,"
+" stupid," " dull," " unscrupulous," " without taste,"
+" humourless," etc. What facts or what sorts of facts
+are known to the sensible which are not known to the
+silly? For example, what truths does the clever chess-
+player know which would be news to his stupid opponent ?
+Obviously there is no truth or set of truths of which we could
+say " If only the stupid player had been informed of them,
+he would be a clever player," or " When once he had been
+apprised of these truths he would play well." We can
+imagine a clever player generously imparting to his stupid
+opponent so many rules, tactical maxims, " wrinkles," etc.,
+that he could think of no more to tell him ; his opponent
+might accept and memorise all of them, and be able and
+ready to recite them correctly on demand. Yet he might
+still play chess stupidly, that is, be unable intelligently to
+apply the maxims, etc.
+   The intellectualist (as I shall call him) might defend his
+case by objecting that the stupid player did not " really"
+or "fully" know these truths. He had them by heart;
+but this was perhaps just a set of verbal habits, like the
+school-boy's rote-knowledge of the multiplication-table.
+If he seriously and attentively considered these truths he
+would then be or become a clever player. Or, to modify
+the suggestion to avert an obvious rejoinder, if he seriously
+and attentively considered these truths not just while in
+bed or while in church but while playing chess, and
+especially if he considered the maxim relevant to a tactical
+predicament at the moment when he was involved in that
+predicament, then he would make the intelligent move.
+But, unfortunately,if he was stupid (a) he would be unlikely
+to tell himself the appropriate maxim at the moment when
+
+
+ This content downloaded from 128.103.149.52 on Fri, 22 May 2015 18:36:00 UTC
+                 All use subject to JSTOR Terms and Conditions
+6                              GILBERT RYLE.
+
+
+it was needed and (b) even if by luck this maxim did occur
+to him at the moment when it was needed, he might be
+too stupid to follow it. For he might not see that it was
+the appropriate maxim or if he did, he might not see how
+to apply it. In other words it requires intelligence not
+only to discover truths, but also to apply them, and knowing
+how to apply truths cannot, without setting up an infinite
+process,be reduced to knowledgeof some extra bridge-truths.
+The application of maxims, etc., is certainly not any
+mere contemplation of them. Equally certainly it can be
+intelligently or stupidly done. (This is the point where
+Aristotle's attempted solution of Socrates' puzzle broke
+down. " How can the back-slider know moral and
+prudential maxims and still fail to behave properly? "
+This is only a special case of the general problem. " How
+can a man be as well-informed as you please and still be a
+fool ? " " Why is a fool not necessarily an ignoramus ? ")
+   To switch over to a different example. A pupil fails to
+follow an argument. He understands the premisses and he
+understands the conclusion. But he fails to see that the
+conclusion follows from the premisses. The teacher thinks
+him rather dull but tries to help. So he tells him that there
+is an ulterior proposition which he has not considered,
+namely, that if thesepremissesare true, the conclusionis true.
+The pupil understands this and dutifully recites it along-
+side the premisses, and still fails to see that the conclusion
+follows from the premisses even when accompanied by the
+assertion that these premisses entail this conclusion. So a
+second hypothetical proposition is added to his store;
+namely, that the conclusion is true if the premisses are true
+as well as the first hypothetical proposition that if the
+premisses are true the conclusion is true. And still the
+pupil fails to see. And so on for ever. He accepts rules
+in theory but this does not force him to apply them in
+practice. He considers reasons, but he fails to reason.
+ (This is Lewis Carroll's puzzle in " What the Tortoise said
+to Achilles." I have met no successful attempt to solve it.)
+   What has gone wrong ? Just this, that knowing how to
+reason was assumed to be analysable into the knowledge or
+supposal of some propositions, namely, (1) the special pre-
+misses, (2) the conclusion, plus (3) some extra propositions
+
+
+    This content downloaded from 128.103.149.52 on Fri, 22 May 2015 18:36:00 UTC
+                    All use subject to JSTOR Terms and Conditions
+              KNOWING      HOW    AND    KNOWING      THAT.                7
+
+
+about the implication of the conclusion by the premisses,
+etc., etc., ad infinitum.
+   " Well but surely the intelligent reasoner is knowing
+rules of inference whenever he reasons intelligently." Yes,
+of course he is, but knowing such a rule is not a case of
+knowing an extra fact or truth ; it is knowing how to move
+from acknowledging some facts to acknowledging others.
+Knowing a rule of inference is not possessing a bit of extra
+information but being able to perform an intelligent
+operation. Knowing a rule is knowing how. It is realised
+in performanceswhich conform to the rule, not in theoretical
+citations of it.
+  It is, of course, true that when people can reason intelli-
+gently, logicians can then extract the nerve of a range of
+similar inferences and exhibit this nerve in a logicians'
+formula. And they can teach it in lessons to novices who
+first learn the formula by heart and later find out how to
+detect the presenceof a common nerve in a variety of formally
+similar but materially different arguments. But arguing
+intelligently did not before Aristotle and does not after
+Aristotle require the separate acknowledgment of the truth
+or " validity" of the formula. " God hath not .....
+left it to Aristotle to make (men) rational." Principles of
+inference are not extra premisses and knowing these
+principles exhibits itself not in the recitation of formulza
+but in the execution of valid inferencesand in the avoidance,
+detection and correction of fallacies, etc. The dull reasoner
+is not ignorant ; he is inefficient. A silly pupil may know by
+heart a great number of logicians' formulae without being
+good at arguing. The sharp pupil may argue well who has
+never heard of formal logic.
+   There is a not unfashionable shuffle which tries to
+circumvent these considerations by saying that the intelli-
+gent reasoner who has not been taught logic knows the
+logicians' formulac " implicitly " but not " explicitly ";
+or that the ordinary virtuous person has " implicit" but
+not " explicit" knowledge of the rules of right conduct
+the skilful but untheoretical chess-player " implicitly"
+acknowledges a lot of strategic and tactical maxims, though
+he never formulates them and might not recognise them if
+they were imparted to him by some Clausewitz of the game.
+
+
+This content downloaded from 128.103.149.52 on Fri, 22 May 2015 18:36:00 UTC
+                All use subject to JSTOR Terms and Conditions
+8                           GILBERT RYLE.
+
+
+This shuffle assumes that knowledge-how must be reducible
+to knowledge-that, while conceding that no operations of
+acknowledging-that need be actually found occurring. It
+fails to explain how, even if such acknowledgements did
+occur, their maker might still be a fool in his performance.
+   All this intellectualist legend must be rejected, not merely
+because it tells psychological myths but because the myths
+are not of the right type to account for the facts which they
+are invented to explain. However many strata of know-
+ledge-that are postulated, the same crux always recurs that
+a fool might have all that knowledge without knowing how
+to perform, and a sensible or cunning person might know
+how to perform who had not been introduced to those
+postulated facts ; that is, there still remains the same gulf,
+as wide as ever, between having the postulated knowledge
+of those facts and knowing how to use or apply it; between
+acknowledging principles in thought and intelligently
+applying them in action.
+    I must now try to speak more positively about what it is
+like to know-how. (a) When a person knows how to do
+things of a certain sort (e.g., make good jokes, conduct
+battles or behave at funerals), his knowledge is actualised
+or exercised in what he does. It is not exercised (save per
+accidens)in the propounding of propositions or in saying
+ " Yes " to those propounded by others. His intelligence
+ is exhibited by deeds, not by internal or external dicta.
+ A good experimentalist exercises his skill not in reciting
+ maxims of technology but in making experiments. It is a
+ ruinous but popular mistake to suppose that intelligence
+ operates only in the production and manipulation of
+ propositions, i.e., that only in ratiocinating are we rational.
+ (b) When a person knows how to do things of a certain sort
+(e.g., cook omelettes, design dresses or persuade juries), his
+performance is in some way governed by principles,
+rules, canons, standards or criteria.          (For most pur-
+poses it does not matter which we say.) It is always
+possible in principle, if not in practice, to explain
+why he tends to succeed, that is, to state the reasons
+for his actions.      It is tautology to say that there is
+a method in his cleverness. But his observance of
+rules, principles, etc., must, if it is there at all, be realised
+
+
+ This content downloaded from 128.103.149.52 on Fri, 22 May 2015 18:36:00 UTC
+                 All use subject to JSTOR Terms and Conditions
+              KNOWING HOW AND KNOWING THAT.                                 9
+
+
+in his performance of his tasks. It need not (though it can)
+be also advertised in an extra performance of paying some
+internal or external lip-service to those rules or principles.
+He mustwork judiciously; he may also propound judgments.
+For propounding judgments is just another special activity,
+which can itself be judiciously or injudiciously performed.
+Judging (or propositional thinking) is one (but only one)
+ way of exercising judiciousness or betraying silliness ; it has
+its own rules, principles and criteria, but again the
+intelligent application of these does not pre-require yet
+another lower stratum of judgments on how to think
+correctly.
+    In short the propositional acknowledgement of rules,
+reasons or principles is not the parent of the intelligent
+application of them ; it is a step-child of that application.
+    In some ways the observance of rules and the using of
+ criteria resemble the employment of spectacles. We look
+ through them but not at them. And as a person who looks
+ much at his spectacles betrays that he has difficulties in
+ looking through them, so people who appeal much to
+principles show that they do not know how to act.
+    There is a point to be expounded here. I have been
+arguing in effect that ratiocination is not the general
+condition of rational behaviour but only one species of it.
+ Yet the traditional associations of the word " rational "
+ are such that it is commonly assumed that behaviour can
+ only be rational if the overt actions taken are escorted by
+ internal operations of considering and acknowledging the
+ reasons for taking them, i.e., if we preach to ourselves before
+ we practise. " How else " (it would be urged) " could
+ principles, rules, reasons, criteria, etc., govern performances,
+ unless the agent thought of them while or before acting ? "
+ People equate rational behaviour with premeditated or
+ reasoned behaviour, i.e., behaviour in which the agent
+ internally persuades himself by arguments to do what he
+ does. Among the premisses of these postulated internal
+ arguments will be the formule expressing the principles,
+ rules, criteria or reasons which govern the resultant intelli-
+ gent actions. This whole story now seems to me false in
+ fact and refutable in logic. We do not find in fact that we
+ persuade ourselves by arguments to make or appreciate
+
+
+
+ This content downloaded from 128.103.149.52 on Fri, 22 May 2015 18:36:00 UTC
+                 All use subject to JSTOR Terms and Conditions
+10                           GILBERT RYLE.
+
+
+jokes. What sorts of arguments should we use ? Yet it
+certainly requires intelligence or rationality to make and
+ see jokes. But worse than this, when we do, as often
+happens, go through the process of persuading ourselves to
+do things, this process is itself one which can be intelligently
+or stupidly executed. So, if the assumption were correct,
+ it would be necessary for us to start one stage further back
+and to persuade ourselves with second-order arguments
+to employ first-order persuasions of a cogent and not of a
+silly type. And so on ad infinitum. The assumption, that is,
+credits the rationality of any given performance to the
+rational execution of some anterior performance, which
+would in its turn require exactly the same treatment.         So
+no rational performance could ever be begun. Aristotle's
+Practical Syllogism fails to explain intelligent conduct,
+since its explanation is circular. For the postulated
+syllogising would itself need to be intelligently conducted.
+    What has happened once again is that intellectualists
+have tried to explain prudence, say, or skill by reference to
+a piece of acknowledging-that, leaving unexplained the
+fact that this internal operation would itself have to be
+cannily executed. They have tried to explain, e.g., practical
+flair by reference to an intellectual process which, unfor-
+tunately for their theory, again requires flair.
+    We should, before leaving this side of the matter, notice
+one variant of the doctrine that knowing-how is reducible
+to a set of knowings-that. It could be argued that as
+knowing-how always involves the knowing of a rule (in
+some broad sense of " rule "), this could be equated with
+the knowing not of any sort of truth, but of the truth of a
+general hypothetical of the pattern " whenever so and so,
+then such and such."      For much, though not all, intelligent
+behaviour does consist in taking the steps likely to lead to
+desired results. The knowledge involved might therefore be
+knowing that when actions of a certain sort are taken in
+certain situations, results of a certain sort tend to occur.
+   The answer to this is two-fold: (i) a man might accept
+any set of such hypothetical propositions and still not know
+how to cook or drive a car. He might even know them well
+enough to be a good teacher and still be stupid in his own
+performances. Conversely a girl might be a clever cook
+
+
+ This content downloaded from 128.103.149.52 on Fri, 22 May 2015 18:36:00 UTC
+                 All use subject to JSTOR Terms and Conditions
+               KNOWING      HOW     AND   KNOWING       THAT.               11
+
+
+ who had never considered any such general hypothetical
+propositions. If she had the knack or flair, she could do
+without news of the inductive generalisation.
+   (ii) The suggested general hypotheticals are inductive
+generalisations. But making sound, as distinct from rash
+inductions is itself an intelligent performance. Knowing
+how to make inductions cannot await news of this higher-
+order induction, that when people assemble certain
+quantities of evidence in certain ways and produce con-
+clusions of certain sorts, those conclusions tend to be true.
+ Else induction could never begin ; nor could the suggested
+higher-order induction have any data.
+   There is another difficulty. Sometimes we do go through
+the internal operation of persuading ourselves to do things,
+just as we often go through the external operation of
+persuading other people to do things. Let us suppose that
+ the persuasion is cogent, i.e., that the recipient is convinced
+by it. What happens then ? Does he necessarily do what
+he has been persuaded to do ? Does he necessarily practise
+what he preaches ? Notoriously not. I frequently per-
+suade myself to smoke less, filling and lighting my pipe at
+the very moment when I am saying " yes" to the conclusion
+of the argument. Like Medea, I listen and am convinced,
+but I do not obey. You say " Ah, but you weren't ' really'
+or ' effectively' convinced. You said ' yes ' in some
+theoretical or academic way, but you were not wise enough
+to say ' yes ' in the practical way of putting your pipe back
+in your pocket."      Certainly. This proves that unwisdom
+in conduct cannot be defined in terms of the omission of
+any ratiocinations and consequently that wisdom in conduct
+cannot be defined solely in terms of the performance of any
+ratiocinations. The intelligent application in practice of
+principles, reasons, standards, etc., is not a legatee of the
+consideration of them in theory ; it can and normally does
+occur without any such consideration. Indeed we could
+not consider principles of method in theory unless we or
+others already intelligently applied them in practice.
+Acknowledging the maxims of a practice presupposes
+knowing how to perform it. Rules, like birds, must live
+before they can be stuffed.
+   (c) We certainly can, in respect of many practices, like
+
+
+
+ This content downloaded from 128.103.149.52 on Fri, 22 May 2015 18:36:00 UTC
+                 All use subject to JSTOR Terms and Conditions
+12                           GILBERT    RYLE.
+
+
+
+ fishing, cooking and reasoning, extract principles from their
+ applications by people who know how to fish, cook and
+ reason. Hence Izaak Walton, Mrs. Beeton and Aristotle.
+ But when we try to express these principles we find that they
+ cannot easily be put in the indicative mood. They fall
+ automatically into the imperative mood. Hence comes the
+ awkwardness for the intellectualist theories of stating what
+ are the truths, or facts which we acknowledge when we
+ acknowledge a rule or maxim. We cannot call an impera-
+ tive a truth or falsehood. The Moral Law refuses to
+ behave like a fact. You cannot affirm or deny Mrs.
+Beeton's recipes. So, in the hope of having it both ways,
+ they tend to speak guardedly of the " validity " rather than
+ the " truth " of such regulative propositions, an idiom which
+ itself betrays qualms about the reduction of knowing-how
+ to knowing-that.
+    What is the use of such formule if the acknowledgement
+of them is not a condition of knowing how to act but a
+derivative product of theorising about the nerves of such
+knowledge ? The answer is simple. They are useful
+pedagogically, namely, in lessons to those who are still
+learning how to act. They belong to manuals for novices.
+They are not quasi-premisses in the postulated self-per-
+suasions of those who know how to act; for no such self-
+persuasions occur. They are imperative because they are
+disciplinary, because they are in the idiom of the mentor.
+They are banisters for toddlers, i.e., they belong to the
+methodology and not to the methods of intelligent practices.
+ What logicians have long half-realised about the venue and
+functions of their rule-formulx has yet to be learned by
+moral philosophers about their imperatives and ought-
+statements. When they have learned this they will cease
+to ask such questions as whether conscience is an intuitive
+or discursive faculty. For knowing how to behave is not
+a sort of knowing-that, so it is neither an intuitive nor a
+discursive sort of knowing-that.. The question itself is as
+nonsensical as would be the corresponding question about
+the sense of humour or the ability to infer. Other bogus
+ethico-epistemological    questions also vanish, like the
+question whether imperatives or ought-statements are
+synthetic or analytic, a priori or a posteriori truths. How
+
+
+ This content downloaded from 128.103.149.52 on Fri, 22 May 2015 18:36:00 UTC
+                 All use subject to JSTOR Terms and Conditions
+               KNOWING      HOW    AND    KNOWING      THAT.               13
+
+
+should we deal with such questions if posed about Mrs.
+Beeton's recipes ?
+  Another ethical muddle is also cleared up. Philosophers
+sometimes say that conscience issues imperatives or dictates.
+Now " conscience" is an old-fashioned faculty-word, but
+if the assertion means that the conscientious man exercises
+his conscientiousness by issuing propositions or prescriptions,
+then this is false. Knowing how to behave is exhibited by
+correct behaviour, just as knowing how to cook is exhibited
+by palatable dishes. True, the conscientious man may be
+asked to instruct other agents how to behave, and then he
+will, if he knows how, publish maxims or specific
+prescriptions exemplifying maxims. But a man might know
+how to behave without knowing how to give good advice.
+   Sometimes a man might give good advice who did not
+know how to behave. Knowing how to advise about
+behaviour is not the same thing as knowing how to behave.
+It requires at least three extra techniques: ability to abstract,
+ability to express and ability to impress. In another class
+of cases, a generally conscientious man might, in certain
+interference-conditions, not know how to behave, but be
+puzzled and worried about his line of action. He might
+then remind himself of maxims or prescriptions, i.e., he might
+resume, for the moment, the adolescent's task of learning
+how to behave. He would be issuing imperatives or ought-
+propositions to himself, but he would be doing so just
+because he did not know how to behave. He would be
+patching up a gap in his knowledge-how. And he might be
+bad at self-counsel without being a bad man. He might
+have a correct " hunch " that his self-suasions were invalid,
+though he could detect no fallacy in them. There would
+ be a circle in the attempted description of conscience as a
+ faculty which issues imperatives ; for an imperative is a
+formula which gives a description or partial definition of
+ what is known when some one knows how to behave. You
+ couldn't define a good chef as one who cites Mrs. Beeton's
+ recipes, for these recipes describe how good chefs cook, and
+ anyhow the excellence of a chef is not in his citing but in his
+ cooking. Similarly skill at arguing is not a readiness to
+ quote Aristotle but the ability to argue validly, and it is
+just this ability some of the principles applied in which were
+
+
+This content downloaded from 128.103.149.52 on Fri, 22 May 2015 18:36:00 UTC
+                All use subject to JSTOR Terms and Conditions
+14                          GILBERT    RYLE.
+
+
+
+extracted by Aristotle. Moral imperatives and ought-
+statements have no place in the lives of saints or complete
+sinners. For saints are not still learning how to behave
+and complete sinners have not yet begun to learn. So
+neither experiences scruples. Neither considers maxims.
+   Logical rules, tactical maxims and technical canons are
+in the same way helpful only to the half-trained. When a
+person knows how to do things of a certain sort, we call him
+  acute,"       " shrewd,"         " scrupulous,"           " ingenious,"
+"discerning," " inventive," " an expert cook," " a good
+general," or " a good examiner," etc. In doing so we
+are describing a part of his character, or crediting him with
+a certain dispositional excellence. Correspondingly when
+we describe some particular action as clever, witty or wise,
+we are imputing to the agent the appropriate dispositional
+excellence. The way in which rules, standards, techniques,
+criteria, etc., govern his particular performancesis one with
+the way in which his dispositionalexcellencesare actualised
+in those performances. It is second nature in him to behave
+thus and the rules, etc., are the living nerves of that second
+nature. To be acute and consistentin reasoningis certainly
+to apply rules of inference to the propositions considered.
+But the reasoner does not have both to consider propositions
+and to cast sidelong glances at a formula ; he just considers
+the propositions efficiently. The rules are the rails of his
+thinking, not extra termini of it. The good chess player
+observes rules and tactical principles, but he does not think
+of them ; he just plays according to them. We observe
+rules of grammar, style and etiquette in the same way.
+Socrates was puzzled why the knowledge which constitutes
+human excellence cannot be imparted. We can now reply.
+Learning-how differs from learning-that. We can be
+instructed in truths, we can only be disciplined in methods.
+Appropriate exercises (corrected by criticisms and inspired
+by examples and precepts) can inculcate second natures.
+But knowledge-how cannot be built up by accumulation of
+pieces of knowledge-that.
+  An explanatory word is necessary here. "Discipline"
+covers two widely disparate processes, namely, habituation
+and education, or drill and training. A circus-seal can be
+drilled or " conditioned " into the performance of compli-
+
+
+This content downloaded from 128.103.149.52 on Fri, 22 May 2015 18:36:00 UTC
+                All use subject to JSTOR Terms and Conditions
+              KNOWING HOW AND KNOWING THAT.                                15
+
+
+cated tricks, much as the recruit is drilled to march and slope
+arms. Drill results in the production of automatisms, i.e.,
+performances which can be done perfectly without
+exercising intelligence.   This is habituation, the formation
+of blind habits. But education or training produces not
+blind habits but intelligent povers.      In inculcating a skill
+I am not training a pupil to do something blindly but to
+do something intelligently. Drill dispenses with intelli-
+gence, training enlarges it. (It is a pity that Aristotle's
+sensible account of the formation of wise characters has
+been vitiated by the translator's rendering of                       eS'aGuo's
+as " habituation."       Aristotle was talking about how
+people learn to behave wisely, not how they are drilled into
+acting mechanically.)     When the recruit reaches the stage
+of learning to shoot and read maps he is not drilled, but
+taught. He is taught to perform in the right way, i.e., to
+shoot and to use maps with " his head."         Unlike the seal
+he becomes a judge of his own performance-he             learns
+what mistakes are and how to avoid or correct them. He
+learns how to teach himself and so to better his instructions.
+He acquires not a habit but a skill (though naturally skills
+contain habits). (Neglect of this distinction between
+conditioning and training is what vitiates Hume's account
+of Induction.) The fact that mathematics, philosophy,
+tactics, scientific method and 'literary style cannot be
+imparted but only inculcated reveals that these too are not
+bodies of information but branches of knowledge-how.
+They are not sciences but (in the old sense) disciplines.
+The experts in them cannot tell us what they know, they
+can only show what they know by operating with cleverness,
+skill, elegance or taste. The advance of knowledge does not
+consist only in the accumulation of discovered truths, but
+also and chiefly in the cumulative mastery of methods.
+   One last point. I have, I hope, proved that knowing-how
+is not reducible to any sandwich of knowings-that, and that
+our intelligence-predicates are definable in terms of knowing-
+how. I now want to prove that knowing-that presupposes
+knoving-how.
+   (1) To know a truth, I must have discovered or established
+it. But discovering and establishing are intelligent
+operations, requiring rules of method, checks, tests, criteria,
+
+
+This content downloaded from 128.103.149.52 on Fri, 22 May 2015 18:36:00 UTC
+                All use subject to JSTOR Terms and Conditions
+16                           GILBERT RYLE.
+
+
+etc. A scientist or an historian is primarily a man who
+knows how to decide certain sorts of questions. Only
+secondarily is he a man who has discovered a lot of facts,
+i.e., has achieved successes in his application of these rules,
+etc. (though of course he only learns how to discover through
+exercises in discovery. He does not begin by perfecting
+his method and only later go on to have successesin applying
+it.) A scientist, that is, is primarily a knower-how and only
+secondarily a knower-that. He couldn't discover any
+particular truths unless he knew how to discover. He
+could know how to discover, without making this or that
+particular discovery.
+    (2) But when I have found out something, even then
+irrespective of the intelligence exercised in finding it out,
+I can't be said to have knowledge of the fact unless I can
+intelligently exploit it. I mean this. I might once have
+satisfied myself of something, say the distance between
+Oxford and Henley; and I might have enshrined this in
+a list of road distances, such that I could on demand reel
+off the whole list, as I can reel off the multiplication table.
+So in this sense I have not forgotten what I once found out.
+But if, when told that Nettlebed is so far out from Henley,
+I cannot tell you how far Nettlebed is from Oxford, or if,
+when shown a local map, I can see that Oxford to Banbury
+is about as far as Oxford to Henley but still cannot tell you
+how far Oxford is from Banbury or criticise false estimates
+given by others, you would say that I don't know the
+distance any longer, i.e., that I have forgotten it or that I
+have stowed it away in a corner where it is not available.
+   Effective possession of a piece of knowledge-that involves
+knowing how to use that knowledge, when required, for
+the solution of other theoretical or practical problems.
+There is a distinction between the museum-possession and
+the workshop-possession of knowledge. A silly person can
+be stocked with information, yet never know how to answer
+particular questions.
+   The uneducated public erroneously equates education
+with the imparting of knowledge-that.        Philosophers have
+not hitherto made it very clear what its error is. I hope I
+have provided part of the correction.
+
+
+
+
+ This content downloaded from 128.103.149.52 on Fri, 22 May 2015 18:36:00 UTC
+                 All use subject to JSTOR Terms and Conditions
+

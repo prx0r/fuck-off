@@ -1,0 +1,439 @@
+# 408   My God - He Plays Dice!
+
+**source:** pdf · **section:** books
+**file:** Bibliography
+---
+
+
+                                         ra p hy
+                               ib l i o g
+                            B
+Bibliography
+                                                           Bibliography             409
+
+References
+Afriat, A., & Selleri, F. (1998). The Einstein, Podolsky, and Rosen Paradox in
+         Atomic, Nuclear, And Particle Physics New York: Plenum Press.
+Albert, D. Z. (2015). After Physics. Harvard University Press.
+Ananthaswamy, A. (2018). Through Two Doors at Once. Dutton.
+Aspect, A. (1999). “Bell’s Inequality Test: More Ideal Than Ever.” Nature,
+         398(6724), 189.
+Aspect, A., Grangier, P., & Roger, G. (1982). “Experimental Realization of
+         Einstein-Podolsky-Rosen-Bohm Gedankenexperiment: a New Violation
+         of Bell’s Inequalities.” Physical Review Letters, 49(2), 91.
+Bacciagaluppi, G, and A. Valentini. (2009) Quantum Theory at the Crossroads:
+         Reconsidering the 1927 Solvay Conference. Cambridge: Cambridge
+         University Press.
+Ball, P. (2018). Beyond Weird. Random House.
+Ballentine, L. E. (1972). “Einstein’s Interpretation of Quantum Mechanics.”
+         American Journal of Physics, 40(12), 1763-1771.
+———. (1970). “The Statistical Interpretation of Quantum Mechanics.”
+         Reviews of Modern Physics, 42(4), 358.
+Barrett, J. A. (1999). The Quantum Mechanics of Minds and Worlds. Oxford.
+Barrett, J. A., & Byrne, P. (Eds.). (2012). The Everett Interpretation Of Quantum
+         Mechanics: Collected Works 1955-1980. Princeton University Press.
+Becker, A. (2018) What Is Real? Basic Books
+Belinfante, F. J. (1973) A Survey of Hidden-Variable Theories, Pergamon Press.
+Bell, J. S. (1964) “On the Einstein-Podolsky-Rosen Paradox,” Physics, 1.3, p.195
+———. (1990) “Against Measurement”. In Miller (1989)..
+Bell, J. S., & A. Aspect. (1987) Speakable and Unspeakable in Quantum
+         Mechanics: Collected Papers on Quantum Philosophy. Cambridge
+         University Press.
+Bell, J. S., Bell, M., Gottfried, K., & Veltman, M. (2001). John S. Bell on the
+         Foundations of Quantum Mechanics. World Scientific.
+Beller, M, (1999) Quantum Dialogues, University of Chicago Press.
+Bernstein, J. (1979) Einstein. Penguin.
+———. (1991). Quantum Profiles. Princeton Univ. Press.
+———. (2005) Secrets of the Old One: Einstein, 1905. New York: Copernicus.
+                                                                                      Bibliography
+
+Bitbol, M. (2007). Schrödinger Against Particles and Quantum Jumps. In
+         Bacciagaluppi & Valentini (81-106)
+Bricmont, J. (2016). Making Sense Of Quantum Mechanics. Springer.
+———. (2017). Quantum Sense And Nonsense. Springer.
+Brillouin, L. (2013) Science and Information Theory: 2nd Edition. Mineola,
+         New York: Dover Publications.
+Bohm, D. (1951) Quantum Theory. Prentice-Hall.
+———. (1952) “A Suggested Interpretation of the Quantum Theory in Terms
+         of ‘Hidden’ Variables. I,” Physical Review, 85, p.166. “II,” Physical
+         Review, vol.85, p.180.
+           410      My God - He Plays Dice!
+
+                 Bohm, D., & Aharonov, Y. (1957). “Discussion of Experimental Proof for the
+                         Paradox of Einstein, Rosen, and Podolsky.” Physical Review, 108(4),
+                         1070.
+                 Bohr, N. (2010) Atomic Physics and Human Knowledge. Mineola, N.Y: Dover.
+                 Bohr, N., & Rosenfeld, L. (1972). Collected Works: 13 Volumes1.
+                         North-Holland Publishing Company.
+                 Bohr, N., French, A. P., & Kennedy, P. J. (1985). Niels Bohr, A Centenary
+                         Volume. Cambridge, MA: Harvard University Press.
+                 Boltzmann, L. (2011) Lectures on Gas Theory. New York: Dover..
+                 Bolles, E. B. (2004). Einstein Defiant: Genius Versus Genius in the Quantum
+                         Revolution. Joseph Henry Press.
+                 Born, M. (1926) “Quantum Mechanics Of Collision Processes,” Zeitschrift für
+                         Physik, 38, 803-827.
+                 ———. (1936) Atomic Physics.
+                 ———. (1964) Natural Philosophy of Cause and Chance. New York: Dover
+                 ———. Born, M. (1971). The Born-Einstein Letters. Macmillan, New York.
+                 ———. (1978). My Life: Recollections of a Nobel Laureate. Taylor & Francis.
+                 Bricmont, J. (2016). Making Sense Of Quantum Mechanics. Berlin: Springer.
+                 Broda, E., & Gay, L. (1983). Ludwig Boltzmann Man, Physicist, Philosopher.
+                         Ox Bow Press.
+                 Bub, J. (1999). Interpreting the Quantum World. Cambridge University Press.
+                 Byrne, P. (2010). The Many Worlds Of Hugh Everett Iii: Multiple Universes,
+                         Mutual Assured Destruction, And The Meltdown Of A Nuclear Family.
+                         Oxford University Press.
+                 Cassidy, D. C. (1993) Uncertainty: The Life and Science of Werner Heisenberg.
+                         W. H. Freeman.
+                 Cassirer, E. (1956) Determinism and Indeterminism in Modern Physics. Yale.
+                 Cercignani, C. (2006) Ludwig Boltzmann: The Man Who Trusted Atoms.
+                         Oxford University Press.
+                 Clarke, N. (Ed.). (1960). A Physics Anthology. Chapman and Hall.
+                 Clauser, J. F., Horne, M. A., Shimony, A., & Holt, R. A. (1969). “Proposed
+                         Experiment To Test Local Hidden-Variable Theories.” Physical Review
+                         Letters, 23(15), 880.
+                 Compton, A. H., & Johnston, M. (1915). The Cosmos of Arthur Holly
+                         Compton. Knopf.
+Bibliography
+
+                 Darrigol, O. (2014). “The Quantum Enigma,” in Janssen & Lehner. 2014, 117.
+                 Davies, P. C. W., and Julian R. Brown, eds. (1993) The Ghost in the Atom: A
+                         Discussion of the Mysteries of Quantum Physics. Cambridge.
+                 De Broglie, L. (1929) Wave Nature of the Electron, Nobel lecture.
+                 Dedekind, R. (1901) “The Nature and Meaning of Numbers,” in Essays on the
+                         Theory of Numbers, Dover (1963)
+                 d’Espagnat, B. (1979). “The Quantum Theory And Reality.” Scientific
+                         American, 241(5), 158-181.
+                 DeWitt, B. S., & Graham, N. (Eds.). (1973). The Many Worlds Interpretation of
+                         Quantum Mechanics. Princeton University Press.
+                 Dirac, P. A. M. (1930 ) Principles of Quantum Mechanics. 1st edition. Oxford.
+                                                         Bibliography            411
+
+Doyle, B. (2011). Free Will: The Scandal in Philosophy. I-Phi Press.
+———. (2016a) Great Problems in Philosophy and Physics Solved? I-Phi Press.
+———. (2016b) Metaphysics: Problems, Paradoxes, and Puzzles Solved?: I-Phi
+       Press.
+Dresden, M. (1987) H.A.Kramers Between Tradition and Revolution, Spring-
+       er-Verlag.
+Dürr, D., & Teufel, S. (2009). Bohmian Mechanics. Berlin: Springer
+Eddington, A. S. (1927) The Nature of the Physical World. Cambridge
+       University Press.
+———. (1936) New Pathways In Science. Cambridge University Press.
+Ehrenfest, P., & Ehrenfest, T. (1959). The Conceptual Foundations Of The
+       Statistical Approach In Mechanics. Cornell University Press.
+Einstein, A. The Collected Papers of Albert Einstein, vols 1-15. Online at
+       https://einsteinpapers.press.princeton.edu/
+———. (1905a) “On a Heuristic Point of View Concerning the Production
+       and Transformation of Light,” CPAE vol. 2, Doc.14.
+———. (1905b) “On the Movement of Small Particles Suspended in Statioary
+       Liquids Required by the Molecular Theory of Heat,” CPAE vol. 2,
+       Doc.16.
+———. (1905c) “On the Electrodnamics of Moving Bodies” CPAE vol. 2,
+       Doc.23.
+———. (1906a) “On the Theory of Light Production and Light Absorption”
+       CPAE vol. 2, Doc.34.
+———. (1907) “Planck’s Theory of Radiation and the Theory of Specific
+       Heat” CPAE vol. 2, Doc.38.
+———. (1909) “On the Present Status of the Radiation Problem,” CPAE vol. 2,
+       Doc.56.
+———. (1909) “On the Development of Our Views Concerning the Nature
+       and Constitution of Radiation,” CPAE vol. 2, Doc.60.
+———. (1916) “Emission and Absorption of Rsdiation in Quantum Theory,”
+       CPAE vol. 6, Doc.34.
+———. (1917) “On the Quantum Theory of Radiation,” CPAE vol. 6, Doc.38.
+———. (1922) The Meaning of Relativity, 5th edition. Princeton University
+       Press
+———. (1931) “Maxwell’s Influence on the Evolution of the Idea of Physical
+                                                                                   Bibliography
+
+       Reality,” in James Clerk Maxwell: A Commemoration Volume,
+       Cambridge University Press.
+———. (1934) Ideas And Opinions, New York: Bonanza Books, 1954.
+———. (1936) “Physics and Reality,” Journal of the Franklin Institute, Vol.221,
+       No.3, March.
+———. (1948) “Quantum Mechanics and Reality,” Dialectica, 2, issue 3-4,
+       pp.320-324.
+———. (1949a) “Autobiography,” in Albert Einstein, Philosopher-Scientist,
+       Library of Living Philosophers, Ed. Paul Arthur Schilpp, pp.81-89
+———. (1949b) “Reply to Criticisms,” in Schilpp, pp.665-688
+           412        My God - He Plays Dice!
+
+                 Einstein, ., B. Podolsky, and N. Rosen. (1935) “Can Quantum-mechanical De-
+                          scription of Physical Reality Be Considered Complete?,” Physical Review,
+                          47, 777-80
+                 Einstein, A., and M.Born. (2005) The Born-Einstein Letters: Friendship, Politics
+                          and Physics in Uncertain Times. Macmillan.
+                 Einstein, A., and L. Infeld. (1961). The Evolution of Physics: The Growths of Ideas
+                          from Early Concepts to Relativity and Quanta. Cambridge University
+                          Press.
+                 Einstein, A. and R. Penrose. (2005) Einstein’s Miraculous Year: Five Papers That
+                          Changed the Face of Physics. Edited by John Stachel. Princeton, NJ: Princ-
+                          eton University Press.
+                 Ellis, J., & Amati, D. (Eds.) (2000). Quantum Reflections. Cambridge.
+                 Enz, C. P. (2010). No Time To Be Brief: A Scientific Biography Of Wolfgang Pauli.
+                          Oxford University Press
+                 Farmelo, G. (2009). The Strangest Man: The Hidden Life Of Paul Dirac, Quantum
+                          Genius. Basic Books.
+                 Feynman, R. P., & Brown, L. M. (2005). Feynman’s Thesis: A New Approach to
+                          Quantum Theory. World Scientific.
+                 Feynman, R. (1967). The Character Of Physical Law. MIT press.
+                 Fine, A. (1996) The Shaky Game. Einstein Realism and the Quantum Theory. 2nd
+                          ed., University of Chicago Press.
+                 Fölsing, A. (1997). Albert Einstein: a Biography. Viking.
+                 Frank, P,. (2002) Einstein: His Life And Times. Cambridge, Mass.: Da Capo Press:
+                          Da Capo Press.
+                 French, A. P. (1979). Einstein. A Centenary Volume. Harvard University Press.
+                 Galison, P. (2004). Einstein’s Clocks and Poincaré’s Maps: Empires of Time. WW
+                          Norton
+                 Galison, P., Holton, G. J., & Schweber, S. S. (2008). Einstein for the 21st Century:
+                          His Legacy in Science, Art, and Modern Culture. Princeton.
+                 Gamow, G. (1970). My World Line (Viking, New York).
+                 Ghirardi, G. (2005). Sneaking a Look At God’s Cards: Unraveling the Mysteries of
+                          Quantum Mechanics. Princeton University Press.
+                 Gilder, L. (2008) The Age of Entanglement: When Quantum Physics Was Reborn.
+                          Knopf: New York.
+                 Gisin, N. (2014). Quantum Chance: Nonlocality, Teleportation and Other
+Bibliography
+
+                          Quantum Marvels. Springer.
+                 Gottfried, K., & Yan, T. M. (2013). Quantum Mechanics: Fundamentals. Springer
+                 Greenspan, N. T. (2005) The End of the Certain World: The Life and Science of
+                          Max Born.
+                 Gribbin, J. R., Gribbin, M., & Einstein, A. (2005). Annus Mirabilis: 1905, Albert
+                          Einstein, and the Theory of Relativity. Chamberlain Bros., Penguin.
+                 Hacking, I. (2006) The Emergence of Probability: A Philosophical Study of Early
+                          Ideas about Probability, Induction and Statistical Inference. 2nd edition.
+                          Cambridge ; New York: Cambridge University Press.
+                 Halpern, P. (2015). Einstein’s Dice and Schrödinger’s Cat. Basic Books.
+                                                          Bibliography              413
+
+Heisenberg, W. (1927) The Physical Content of Quantum Kinematics and
+        Mechanics, English translation in Wheeler and Zurek (1984)
+_____, (1930). The Physical Principles Of Quantum Mechanics. U. Chicago Press.
+_____, (1955) “The Copenhagen Interpretation of Quantum Mechanics,” in
+        Physics and Philosophy.
+_____, (1958). Physics and Philosophy. The Revolution in Modern Science.
+        Harper and Row.
+_____, (1971). Physics and Beyond. London: Allen & Unwin.
+_____, (1989). Encounters with Einstein: And Other Essays on People, Places, and
+        Particles. Princeton University Press.
+Hermann, A. (1973) The Genesis of the Quantum Theory, MIT Press.
+Holt, J. (2018) When Einstein Walked with Gödel, Farrar. Straus, Giroux
+Holton, G. J. (1988). Thematic Origins Of Scientific Thought: Kepler To Einstein.
+        Harvard University Press.
+_____, (2000). Einstein, History, and Other Passions: The Rebellion Against
+        Science at the End of the Twentieth Century. Harvard University Press.
+Holton, G. and Y. Elkana. (1982) Albert Einstein: Historical and Cultural
+        Perspectives. Princeton University Press.
+Howard, D. (1985) “Einstein on Locality and Separability.” Studies in History and
+        Philosophy of Science 16, 171-201.
+_____, (1990) “‘Nicht sein kann was nicht sein darf,’ or the Prehistory of EPR,
+        1909-1935: Einstein’s Early Worries about the Quantum Mechanics of
+        Composite Systems.” In Sixty-Two Years of Uncertainty, ed. Arthur Miller.
+_____, (2007) “Revisiting the Einstein-Bohr Dialogue.” Iyyun: The Jerusalem
+        Philosophical Quarterly 56, 57-90. Special issue dedicated to the memory
+        of Mara Beller.
+_____, (2014). “Einstein and The Development of Twentieth-Century
+        Philosophy of Science,” in Janssen & Lehner. 2014, 354-376.
+Howard, D. and J. Stachel (Eds.) (2000). Einstein: The Formative Years, 1879-
+        1909. Springer Science & Business Media.
+Isaacson, W. (2008) Einstein: His Life and Universe. New York, NY: Simon &
+        Schuster.
+Jaeger, G. (2009) Entanglement, Information, and the Interpretation of Quantum
+                                                                                      Bibliography
+
+        Mechanics. 2009 edition. Berlin: Springer.
+Jammer, M. (1966) The Conceptual Development of Quantum Mechanics. Mc-
+        Graw Hill.
+———. (1974) The Philosophy of Quantum Mechanics: The Interpretations of
+        Quantum Mechanics in Historical Perspective. New York: Wiley.
+———. (2000). Einstein and Religion: Physics and Theology. Princeton.
+Janssen, M., & Lehner, C. (Eds.). (2014). The Cambridge Companion to Einstein.
+        Cambridge University Press.
+Jauch, J. M. (1989). Are Quanta Real?: a Galilean Dialogue. Indiana.
+Jauch, J. M., & Baron, J. G. (1990). Entropy, Information and Szilard’s Paradox.
+        in Leff & Rex, 160-172.
+           414        My God - He Plays Dice!
+
+                 Joos, E, H. D. Zeh, C. Kiefer, D. J. W. Giulini, J. Kupsch, and I-O. Stamatescu.
+                         (2013) Decoherence and the Appearance of a Classical World in Quantum
+                         Theory. 2nd ed. Berlin, Heidelberg: Springer.
+                 Kaiser, D. (2011). How The Hippies Saved Physics: Science, Counterculture, and
+                         the Quantum Revival. WW Norton & Company.
+                 Kastner, R. E. (2012). The Transactional Interpretation of Quantum Mechanics:
+                         The Reality of Possibility. Cambridge University Press.
+                 ———. (2015). Understanding Our Unseen Reality: Solving Quantum Riddles.
+                         Imperial College Press.
+                 Klein, M. J. (1964) “Einstein and the Wave-Particle Duality,” The Natural Phi-
+                         losopher, vol.3, p.1-49
+                 ———. (1965). “Einstein, Specific Heats, and the Early Quantum Theory.”
+                         Science, 148 (3667), 173-180.
+                 ———. (1967). “Thermodynamics in Einstein’s Thought.” Science, 157(3788),
+                         509-516.
+                 ———. (1970). “The First Phase of the Bohr-Einstein Dialogue.” Historical Stud-
+                         ies in the Physical Sciences, 2, iv-39.
+                 ———. (1979). “Einstein and the Development of Quantum Physics.” Einstein:
+                         A Centenary Volume, 133-151.
+                 Kox, A.J. (2014) “Einstein on Statistical Physics. Fluctuations and Atomism,” in
+                         Janssen & Lehner. 2014,
+                 Kramers, H. A. (1923) The Atom and the Bohr Theory of Its Structure. London:
+                         Gyldendal.
+                 Krauss, L. M., and R. Dawkins. (2013) A Universe from Nothing: Why There Is
+                         Something Rather than Nothing. New York: Atria Books.
+                 Kuhn, T. S. (1978) Black-Body Theory and the Quantum Discontinuity, 1894-
+                         1912. Oxford University Press.
+                 Kwiat, P. G., Mattle, K., Weinfurter, H., Zeilinger, A., Sergienko, A. V., & Shih,
+                         Y. (1995). “New High-Intensity Source of Polarization-Entangled Photon
+                         Pairs.” Physical Review Letters, 75(24), 4337.
+                 Lahti, P, and P. Mittelstaedt. (1985) Symposum on the Foundations of Modern
+                         Physics: 30 Years of the Einstein-Podolsky-Rosen Gedankenexperiment,
+                         World Scientific Publishing.
+                 Lanczos, C.. (1974) The Einstein Decade, 1905-1915. New York: Academic Press.
+                 Layzer, D. (1975). “The Arrow of Time.” Scientific American, 233(6), 56-69.
+Bibliography
+
+                 ———. (1991) Cosmogenesis: The Growth of Order in the Universe. New York:
+                         Oxford University Press.
+                 Leff, H., & Rex, A. F. (2002). Maxwell’s Demon 2 Entropy, Classical and Quantum
+                         Information, Computing. CRC Press.
+                 Lehner, C. (2014). “Einstein’s Realism snd His Critique of Quantum Mechanics.”
+                         in Janssen & Lehner. 2014, 306-353..
+                 Lestienne, Remy, and E C Neher. (1998) The Creative Power of Chance.
+                         University of Illinois Press.
+                 Levenson, T. (2017). Einstein in Berlin. Random House.
+                                                          Bibliography              415
+
+Lifshitz, L. D, and E. M. Landau (1958) Quantum Mechanics: Non-Relativistic
+        Theory. Addison-Wesley Publishing Company.
+Lindley, D.. (1996) Where Does the Weirdness Go? Basic Books
+———. (2001) Boltzmann’s Atom: The Great Debate That Launched a Revolution
+        in Physics. 1st ed. Free Press.
+———. (2007) Uncertainty: Einstein Heisenberg Bohr and the Struggle for the
+        Soul of Science. New York; Anchor Books:, Random House.
+Ludwig, G. (1968). Wave Mechanics. Pergamon.
+Mahon, B. (2004). The Man Who Changed Everything: The Life of James Clerk
+        Maxwell. John Wiley & Sons.
+Maudlin, T. (2011). Quantum Non-Locality and Relativity: Metaphysical
+        Intimations of Modern Physics. John Wiley & Sons.
+McEvoy, J. P., & Zarate, O. (2014). Introducing Quantum Theory: A Graphic
+        Guide. Icon Books Ltd.
+Mehra, J.. (1975) The Solvay Conference in Physics, D. Reidel Publishing.
+———. (1999) Einstein, Physics and Reality. World Scientific Publishing.
+Mehra, J., and H. Rechenberg. (2001) The Historical Development of Quantum
+        Theory Volumes 1-6. New York: Springer.
+Mermin, N. D. (2018). “Hidden Variables and the Two Theorems of John Bell.”
+        arXiv:1802.10119v1 [quant-ph] 27 Feb 2018
+Messiah, A. (1961) Quantum Mechanics, North-Holland, John Wiley & Sons.
+Miller, A. I. (Ed.) (1989) Sixty-Two Years of Uncertainty, Springer.
+———. (2002). Einstein, Picasso: Space, Time and the Beauty That Causes Havoc:
+        Basic Books, Perseus.
+Monod, J.. (1972 ) Chance and Necessity: An Essay on the Natural Philosophy of
+        Modern Biology. Translated by Austryn Wainhouse. New York: Vintage
+        Books.
+Moore, R. E. (1966). Niels Bohr: The Man, His Science, And The World They
+        Changed. MIT Press.
+Moore, W. J. (1992) Schrödinger: Life and Thought. Cambridge University Press.
+Musser, G.. (2015) Spooky Action At A Distance. Scientific American/ Farrar,
+        Straus, Giroux.
+Myrvold, W. C., & Christian, J. (Eds.). (2009). Quantum Reality, Relativistic
+        Causality, and Closing the Epistemic Circle: Essays in Honour of Abner
+        Shimony. Springe
+                                                                                      Bibliography
+
+Ne’Eman, Y. (1981). To Fulfill a Vision: Jerusalem Einstein Centennial Symposium
+        on Gauge Theories and Unification of Physical Forces. Addison Wesley.
+Neumann, J. von. (1955) Mathematical Foundations of Quantum Mechanics.
+        Princeton: Princeton University Press.
+Nielsen, M. and I. Chuang. (2010) Quantum Computtion and Quantum Informa-
+        tion. Cambridge Universuty Press.
+Pais, A.. (1982) Subtle Is the Lord: The Science and the Life of Albert Einstein.
+        Oxford University Press.
+———. (1991) Niels Bohr’s Times,: In Physics, Philosophy, and Polity. Oxford
+        University Press.
+           416        My God - He Plays Dice!
+
+                 ———. (1994). Einstein Lived Here. Clarendon Press.
+                 Pais, A., M. Jacob, D. I. Olive, and M. F. Atiyah. (2005) Paul Dirac: The Man and
+                         His Work. Cambridge University Press.
+                 Pauli, W., Rosenfeld, L., & Weisskopf, V. (1957). Niels Bohr And The Development
+                         Of Physics. McGraw-Hill.
+                 Pauli, W.. (1980) General Principles of Quantum Mechanics, Springer-Verlag,
+                         Berlin
+                 Pauli, W., L. Rosenfeld, and V. Weisskopf. (1955) eds. Niels Bohr and the
+                         Development of Physics; Essays Dedicated to Niels Bohr on the Occasion of
+                         His Seventieth Birthday. McGraw-Hill.
+                 Penrose, R. (1989). The Emperor’s New Mind: Concerning Minds and the Laws of
+                         Physics. Oxford University Press.
+                 Planck, M. (1949) Scientific Autobiography. Philosophical Library,
+                 ———. (1959). The New Science. Meridian Books.
+                 ———. (1981). Where Is Science Going? Ox Bow Press.
+                 ———. (1991). The Theory Of Heat Radiation. Dover.
+                 ———. (1993) A Survey Of Physical Theory. Dover.
+                 Price, H. (1997). Time’s Arrow & Archimedes’ Point: New Directions For The
+                         Physics Of Time. Oxford University Press.
+                 Prigogine, Il... (1984) Order Out of Chaos. Shambhala.
+                 Poincaré, H. (1952). Science And Hypothesis. Dover.
+                 Porter, T. M. (1988) The Rise of Statistical Thinking, 1820-1900. Princeton
+                         University Press.
+                 Price, W., & Chissick, S. (1979). The Uncertainty Principle and Foundations of
+                          Quantum Mechanics: A Fifty Years’ Survey. John Wiley & Sons.
+                 Reif, F.. Fundamentals of Statistical and Thermal Physics. (1965) McGraw-Hill
+                         Science/Engineering/Math.
+                 Rigden, J. S. (2005). Einstein 1905. Harvard University Press.
+                 Rukeyser, M., & Gibbs, J. W. (1942). Willard Gibbs. Ox Bow Press.
+                 Scarani, V. (2006). Quantum Physics: A First Encounter: Interference,
+                         Entanglement, and Reality. Oxford University Press.
+                 Schilpp, P. A. (1949). Albert Einstein: Philosopher-Scientist, Library of Living
+                         Philosophers. Evanston, Illinois.
+                 Schlosshauer, M.A. (2008 ) Decoherence and the Quantum-to-Classical
+                         Transition. Berlin; London: Springer.
+Bibliography
+
+                 Schrödinger, E. (1935) “Discussion of Probability between Separated Systems”,
+                         Proceedings of the Cambridge Physical Society 31, issue 4, 32 issue 1
+                 ———. (1936) “Probability Relations between Separated Systems,” Proceedings
+                         of the Cambridge Physical Society. 32 issue 2.
+                 ———. (1952). “Are There Quantum Jumps?” Part I. The British Journal for the
+                         Philosophy of Science, 3(10), 109-123. Part II 3(11) 233-242.
+                 ———. (1989). Statistical Thermodynamics. Dover
+                 ———. (1995). The Interpretation Of Quantum Mechanics: Dublin Seminars
+                         (1949-1955) And Other Unpublished Essays. Ox Bow Press.
+                                                          Bibliography             417
+
+Schrödinger, E., & Murphy, J. (1935). Science and the Human Temperament.
+        Norton and Company
+Selleri, F. (Ed.). (1998). Quantum Mechanics Versus Local Realism: The Einstein-
+        Podolsky-Rosen Paradox. Plenum Press
+Shannon, C. E., and W. Weaver. (1948) The Mathematical Theory of
+        Communication. University of Illinois Press.
+Sommerfeld, A.. (1923) Atomic Structure and Spectral Lines. 3rd ed. London:
+        Methuen & Co.
+Stachel, J.. (1986) “Einstein and the Quantum: Fifty Years of Struggle,” in From
+        Quarks to Quasars: Philosophical Problems of Modern Physics,” R.G.
+        Colodny, ed.
+———. (2002) Einstein from “B” to “Z.” Birkhäuser Boston.
+———. (2005). Einstein’s Miraculous Year: Five Papers That Changed the Face of
+        Physics. Princeton University Press.
+———. (2009) “Bohr and the Photon,” In: Quantum Reality, Relativistic
+        Causality, and Closing the Epistemic Circle. Springer, Dordrecht.
+Stuewer, R. H. (1975). The Compton Effect. Turning Points In Physics. Science
+        History Publications (Neale Watson)
+Stone, A. D.. (2013) Einstein and the Quantum. Princeton University Press.
+Ter Haar, D. (1967). The Old Quantum Theory. Pergamon.
+Van der Waerden, B. L. (1968) ed. Sources of Quantum Mechanics. New York,
+        N.Y: Dover Publications.
+Vedral, V. (2018). Decoding Reality: The Universe As Quantum Information.
+        Oxford University Press.
+Weinberg, S. (1993) The First Three Minutes: A Modern View Of The Origin Of
+        The Universe. New York: Basic Books.
+———. (2008) Cosmology. Oxford University Press.
+Wheeler, J. A., and W. H.Zurek. (1984) Quantum Theory and Measurement.
+        Princeton University Press,
+Whitrow, G. J. (1973). Einstein, the Man and his Achievement. Dover.
+Wigner, E. P.. (1967) Symmetries and Reflections. Indiana.
+———. (1970). “On Hidden Variables and Quantum Mechanical Probabilities.”
+        American Journal of Physics, 38(8), 1005-1009.
+Woolf, H. (1980). Some Strangeness In The Proportion. A Centennial Symposium
+        To Celebrate The Achievements Of Albert Einstein. Addison-Wesley
+                                                                                     Bibliography
+

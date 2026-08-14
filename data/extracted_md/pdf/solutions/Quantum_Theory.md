@@ -1,0 +1,307 @@
+# The Origin and Development of the Quantum Theory        103
+
+**source:** pdf · **section:** solutions
+**file:** Quantum_Theory
+---
+
+
+                                                                                of a deeper understanding of the relationship of energy to tem-
+                                                                                perature, which forms the chief problem of thermo-dynamics,
+                                                                                and, therefore, also of all molecular physics. There is no way at
+   The Origin and Development                                                   present available for obtaining this function but to select from
+                                                                                all the various kinds of bodies occurring in Nature any one of
+   of the Quantum Theory                                                        known emission and absorption coefficients, and to calculate the
+                                                                                heat radiation when the exchange of energy is stationary.
+                                                                                According to KirchhofF's theorem, this must be independent of
+                                                                                the constitution of the body.
+    I n this lecture I will endeavour to give a general account of                 A body especially suited for this purpose appears to be
+ the origin of the q u a n t u m theory, to sketch concisely its de-            Heinrich Hertz's oscillator, the laws of emission of which, for a
+velopment u p to the present, and to point out its immediate                    given frequency, have recently been fully developed by Hertz
+significance in physics.                                                        (2). If a n u m b e r of such oscillators be placed in a space enclosed
+    Looking back over the last twenty years to the time when the                by reflecting walls, they will exchange energy one with another
+conception and magnitude of the physical q u a n t u m of action                by taking up or emitting electro-magnetic waves, analogous
+first emerged from the mass of experimental facts, and looking                  with a sound source and resonators, until finally stationary
+back at the long and complicated p a t h which finally led to an                black radiation, so-called, obtains in the enclosure according
+appreciation of its importance, the whole history of its develop-               to KirchhofF's law. At one time I fostered the hope which seems
+ment reminds me of the well-proved adage that " t o err is                      to us rather naive in these days, that the laws of classical electro-
+h u m a n . " And all the hard intellectual work of an industrious              dynamics, if applied sufficiently generally, and extended by
+thinker must often appear vain and fruitless, but that striking                 suitable hypotheses, would be sufficient to explain the essential
+occurrences sometimes provide him with an irrefutable proof                     points of the phenomenon looked for, and to lead to the desired
+of the fact that at the end of all his attempts, he does ultimately             goal. T o this end, I first of all developed the laws of emission and
+get one step nearer the truth. An indispensable hypothesis,                     absorption of a linear resonator in the widest possible way, in
+though it does not guarantee a result, often arises from the                    fact, by a roundabout way which I could have avoided by
+pursuit of a definite object, the importance of which is not                    using H . A. Lorentz's electron theory then complete in all
+lessened by initial ill-success.                                                fundamental points. But since I did not then fully believe in
+                                                                                the electron hypothesis, I preferred to consider the energy flow-
+   For me, such an object has, for a long time, been the solution
+                                                                                ing across a spherical surface of a certain radius enclosing
+of the problem of the distribution of energy in the normal
+                                                                                the resonator. This only -deals with phenomena in vacuo,
+spectrum of radiant heat. Gustav Kirchhoff showed that, in a
+                                                                                but the knowledge of these is enough to enable us to draw
+space bounded by bodies at equal temperatures, but of arbi-
+                                                                                the necessary conclusions about the energy changes of the
+trary emissive and absorptive powers, the nature of the heat of
+                                                                                resonator.
+radiation is completely independent of the nature of t h e
+bodies ( i ) . * Later, a universal function was proved to exist,                  T h e result of this long series of investigations was the estab-
+which depended only on temperature and wave-length, and                         lishment of a general relation between the energy of a resonator
+was in no way related to the properties peculiar to any sub-                    of given period and the radiant energy of the corresponding
+stance. T h e discovery of this remarkable function gave promise                region of the spectrum in the surrounding field when the energy
+ * T h e numbers in parentheses refer to the notes at the end of the lecture.   exchange is stationary (3). Some of these investigations could
+                                    102
+104      -^ Survey of Physical Theory                                                  The Origin and Development of the Quantum Theory      105
+
+ be proved by comparison with available observations, particu-             lem from the opposite direction, namely, through thermo-
+ larly the damping measurements of V. Bjerknes, and this is a              dynamics, with which I felt more familiar. Here I was helped
+verification of the results (4). Thus t h e remarkable conclusion          by my previous researches into the second law of thermo-
+is reached that the relation does not depend on the nature of the          dynamics, and I straightway conceived the idea of connecting
+ resonator, in particular, not upon its damping coefficient—a              the entropy and not the temperature of the resonator with the
+very gratifying and welcome circumstance to me, since it                   energy, indeed, not the entropy itself, but its second differential
+ allowed the whole problem to be simplified in so far that the             coefficient with respect to energy, since this has a direct
+ energy of radiation could be replaced by the energy of the                physical meaning for the irreversibility of the exchange of
+ resonator. Thereby a system with one degree of freedom could              energy between resonator and radiation. Since at that time I did
+be substituted for a complicated system with many degrees of               not see my way clear to go any further into the dependence of
+ freedom.                                                                  entropy and probability, I could, first of all, only refer to results
+    Indeed, this result was nothing but a step preparatory to              that had already been obtained. Now, in 1899, the most in-
+ starting on the real problem, which now appeared more for-                teresting result was the law of energy distribution which had
+ midable. T h e first attempt at solving the problem miscarried;           just been discovered by W. Wien (6). T h e experimental proof
+ for my original hope proved false, namely, that the radiation             of this was undertaken by F. Paschen at the Hochschule, Hanover,
+emitted from the resonator would, in some characteristic                   and by O . L u m m e r and E. Pringsheim at the Reichsanstalt,
+ way, be distinct from the absorbed radiation and thus give                 Charlottenburg. This law represents the dependence of the
+ a differential equation, by solving which it would be possible to         intensity of radiation on temperature by means of an exponen-
+derive a condition for the state of stationary radiation. T h e            tial function. Using this law to calculate the relation between
+resonator only responded to the same rays as it emitted, and was           the entropy and energy of a resonator, the remarkable result is
+ not at all sensitive to neighbouring regions of the spectrum.             obtained, that R, the reciprocal of the differential coefficient
+    M y assumption that the resonator could exert a one-sided,             referred to above, is proportional to the energy (7). This
+i.e. irreversible, effect on the energy of the surrounding field of         exceedingly simple relation is a complete and adequate ex-
+ radiation, was strongly contradicted by Ludwig Boltzmann (5).              pression of Wien's law of distribution of energy; for the depend-
+ His mature experience led him to conclude that, according to               ence upon wave-length is always given immediately as well as
+ the laws of classical mechanics, each phenomenon which I had               the dependence upon energy by Wien's generally accepted law
+considered, could operate in exactly the reverse direction.Thus,            of displacements (8).
+a spherical wave sent out from a resonator may be reversed and                Since the whole problem deals with one of the universal laws
+proceed in ever-diminishing concentric spheres until it shrinks            of Nature, and since I believed then, as I do now, that the
+up at the resonator and is absorbed by it, and causes again the            more general a natural law is, the simpler is its form (though it
+energy previously absorbed to be emitted once more into space              cannot always be said with certainty and finality which is the
+in the directions along which it had come. Even if, by intro-              simpler form), I thought for a long time that the above relation,
+ducing suitable limits, I could exclude from the hypothesis of             namely, that R is proportional to the energy, should be con-
+" n a t u r a l r a d i a t i o n " such singular phenomena as spherical   sidered as the foundation of the law of distribution of energy (9).
+waves travelling inwards, all these analyses show clearly that an          This idea soon proved to be untenable i n the light of more
+essential connecting link is still missing for the complete under-         recent results. While Wien's law was confirmed for small values
+standing of the problem.                                                   of energy, i.e. for short waves, O . L u m m e r and E. Pringsheim
+   No other course remained open to me but to attack the prob-             found large deviations in the case of long waves (10). Finally,
+ 106     A Survey of Physical Theory                                                The Origin and Development of the Quantum Theory     107
+
+  the observations made by G. Rubens and F. K u r l b a u m , with      cannot be measured, but only a difference of energy. Therefore,
+  infra-red rays after transmission through fluorspar and rock          one did not previously deal with energy, but with work, and
+  salt ( n ) , showed a totally different relation, which, under cer-   Ernst Mach, who was concerned to a great extent with the con-
+ tain conditions, was still ver^ simple. I n this case, R is propor-    servation of energy, but avoided all speculations outside the
+ tional, not to the energy, but to the square of the energy, and        domain of observation, has always refrained from talking of
+  this relation is more accurate the larger the energies and wave-      energy itself. Similarly, at first in thermo-chemistry, one con-
+ lengths considered (12).                                               sidered heat of reaction, i.e. difference of energy, until William
+     Thus, by direct experiment, two simple limits have been            Ostwald emphatically showed that many involved considera-
+ fixed for the function R, i.e. for small values of the energy it is    tions could be very much simplified, if one dealt with energy
+ proportional to the energy, for large values it is proportional to     itself instead of calorimetric values. T h e undetermined addi-
+ the square of the energy. It was obvious that in the general case      tive constant in the expression for energy was fixed later by the
+ the next step was to express R to the sum of two terms, one            relativity theorem of the relation between energy and inertia
+ involving the first power, the other the second power of the
+                                                                        (i5)-
+ energy, so that the first term was the predominating term for             As in the case of energy, we can define absolute value for
+ small values of the energy, the second term for large values.          entropy and consequently for physical probability, if the addi-
+ This gave a new formula for the radiation (13), which has stood        tive constant is fixed so that entropy and energy vanish simul-
+ the test of experiment fairly satisfactorily so far. No final exact    taneously. (It would be better to substitute temperature for
+ experimental verification has yet been given and a new proof is        energy here.) O n this basis a comparatively simple combinatory
+badly needed (14).                                                      method was derived for calculating the physical probability of a
+    If, however, the radiation formula should be shown to be            certain distribution of energy in a system of resonators. This
+ absolutely exact, it would possess only a limited value, in the        method leads to the same expression for entropy as was obtained
+ sense that it is a fortunate guess at an interpolation formula.        from the radiation theory (16). As an offset against m u c h dis-
+ Therefore, since it was first enunciated, I have been trying to        appointment, I derived much satisfaction from the fact that
+give it a real physical meaning, and this problem led me to             Ludwig Boltzmann, in a letter acknowledging my paper, gave
+consider the relation between entropy and probability, along the        me to understand that he was interested in, and fundamentally
+lines of Boltzmann's ideas. After a few weeks of the most               in agreement with, my ideas.
+strenuous work of my life, the darkness lifted and an unexpected           For numerical applications of this method of probability we
+vista began to appear.                                                  require two universal constants, each of which has an independ-
+    I will digress a little. According to Boltzmann, entropy is a       ent physical significance. The supplementary calculation of
+measure of physical probability, and the essence of the second          these constants from the radiation theory shows whether the
+law of thermo-dynamics is that in Nature, the more often a              method is merely a numerical one or has an actual physical
+condition occurs, the more probable it is. I n Nature, entropy          meaning. T h e first constant is of a more or less formal nature, it
+itself is never measured, but only the difference of entropy, and       depends on the definition of temperature. T h e value of this
+to this extent one cannot talk of absolute entropy without a            constant is § if temperature be defined as the m e a n kinetic
+certain arbitrariness. Yet, the introduction of an absolute             energy of a molecule in an ideal gas, and is, therefore, a very
+magnitude of entropy, suitably defined, is allowed, since certain       small quantity (17). With the conventional measure of tem-
+general theorems can be expressed very simply by doing so. As           perature, however, this constant has an extremely small value,
+far as I can see, it is exactly the same with energy. Energyitself      which is naturally closely dependent upon the energy of a single
+ 108     A Survey of Physical Theory                                                   The Origin and Development of the Quantum Theory      109
+ molecule, and an exact knowledge of it leads, therefore, to the            attempts to bridge this gap soon showed that undoubtedly one
+ calculation of the mass of a molecule and the quantities depend-           of two alternatives must obtain. Either the q u a n t u m of action
+ ing upon it. This constant is frequently called Boltzmann's                was a fictitious quantity, in which case all the deductions from
+ constant, though Boltzmann himself, to my knowledge, never                 the radiation theory were largely illusory and were nothing
+ introduced it—a curious circumstance, explained by the fact                more than mathematical juggling. O r the radiation theory is
+ that Boltzmann, as appears from various remarks by him (18),               founded on actual physical ideas, and then the q u a n t u m of
+ never thought of the practicability of measuring this constant            action must play a fundamental role in physics, and proclaims
+ exactly. Nothing can better illustrate the impetuous advance               itself as something quite new and hitherto unheard of, forcing us
+ made in experimental methods in the last twenty years than the             to recast our physical ideas, which, since the foundation of the
+ fact that since then, not one only, but a whole series of methods          infinitesimal calculus by Leibniz and Newton, were built on the
+ have been devised for measuring the mass of a single molecule             assumption of continuity of all causal relations.
+with almost the same accuracy as that of a planet.
+                                                                               Experience has decided for the second alternative. T h a t this
+   While, at the time that I carried out the corresponding cal-            decision should be m a d e so soon and so certainly is not due to
+ culations from the radiation theory, it was impossible to verify          the verification of the law of distribution of energy in heat
+ exactly the figure obtained, and all that could be achieved was           radiation, much less to my special derivation of this law, but to
+to check the order of magnitude; shortly afterwards, E.                    the restless, ever-advancing labour of those workers who have
+Rutherford and H . Geiger (19), succeeded in determining the               m a d e use of the q u a n t u m of action in their investigations.       |V
+value of the elementary electric charge to be 4-65 x i o - 1 0                 T h e first advance in this work was made by A. Einstein, who S*
+electro-static units, by directly counting a-particles. T h e agree-       proved, on the one hand, that the introduction of the energy ^
+ment of this figure with that calculated by me, 4-69 x i o " 1 0 ,         quanta, required by the q u a n t u m of action, appeared suitable
+was a definite confirmation of the usefulness of my theory. Since          for deriving a simple explanation for a series of remarkable
+then, more perfect methods have been developed by E. Regener,              observations of light effects, such as Stokes's rule, emission of
+R. A. Millikan, and others (20), and have given a value slightly           electrons, and ionization of gases (22). O n the other hand, by
+higher than this.                                                          identifying the energy of a system of resonators with the energy
+    T h e interpretation of the second universal constant of the           of a rigid body, he derived a formula for the specific heat of a
+radiation formula was much less simple. I called it the elemen-            rigid body, which gives again quite correctly the variation of
+ tary q u a n t u m of action, since it is a product of energy and time,   specific heat, particularly its decrease with decrease of tempera-
+and was calculated to be 6-55 x i o " 2 7 erg. sec. Though it was          ture (23). It is not my duty here to give even an approximately
+indispensable for obtaining the right expression for entropy—              complete account of this work. I can only point out the most
+for it is only by the help of it that the magnitude o f the standard       important characteristic stages in the progress of knowledge.
+element of probability could be fixed for the probability calcu-
+                                                                               We will now consider problems in heat and chemistry. As far
+lations (21)—it proved itself unwieldy and cumbrous in all
+                                                                           as the specific heat of a solid body is concerned, Einstein's
+attempts to make it fit in with classical theory in any form. So
+                                                                           method, based on the assumption of a single characteristic
+long as this constant could be considered infinitesimal, as when
+                                                                           oscillation of the atom, has been extended by M . Born and
+dealing with large energies or long periods of time, everything
+                                                                           T h . von K a r m a n to the case of various characteristic oscillations,
+was in perfect agreement, but in the general case, a rift
+                                                                           more in agreement with practice (24). By greatly simplifying
+appeared, which became more and more pronounced the weaker
+                                                                           the assumptions regarding the nature of the oscillations, P. A ^
+and more rapid the oscillations considered. T h e failure of all
+                                                                           Debye obtained a comparatively simple formula for the specific ^           jf
+11 o    A Survey of Physical Theory                                                   The Origin and Development of the Quantum Theory          111
+
+heat of a solid body (25). This not only corroborates, particu-          collision with a neutral atom, is as direct a method of measuring
+larly for low temperatures, the experimental values obtained             the q u a n t u m of action as can be desired (30). Also, in the case of
+by W . Nernst and his school, but also is in good agreement with         the characteristic radiation of the Rontgen spectrum discovered
+the elastic and optical properties of the body. Further, q u a n t u m   by C. G. Barkla, similar methods which gave very good results
+effects are very noticeable when considering the specific heat of        were developed by D. L. Webster, E. Wagner, and others.
+gases. W. Nernst had shown at an early stage (26) that the                  T h e liberation of q u a n t a of light by electronic impulses is the
+q u a n t u m of energy of an oscillation must correspond to the         converse of the emission of electrons by projection of light,
+q u a n t u m of energy of a rotation, and accordingly expected that     Rontgen or G a m m a rays, and here, again, the quanta of energy
+the energy of rotation of a gas molecule would decrease with             determined from the q u a n t u m of action and the frequency of
+temperature. A. Eucken's measurements of the specific heat of            oscillations play a characteristic part in the same way as we have
+hydrogen verified this deduction (27), and the fact that the             seen above, in that the velocity of the electrons emitted does not
+calculations of A. Einstein and O . Stern, P. Ehrenfest, and             depend on the intensity of the radiation (31), but on the wave-
+others have not yet been in satisfactory agreement can be                length of the light emitted (32). From a quantitative point of
+ascribed to our incomplete knowledge of the form of the                  view, also, Einstein's relations for light q u a n t a mentioned above
+hydrogen molecule. T h e work of N. Bjerrum, E. v. Bahr, H .             have been verified in every way, particularly by R. A. Millikan,
+Rubens, and G. Hettner, etc., on absorption bands in the infra-          who determined the initial velocities of the emitted electrons
+red rays, shows that there can be no doubt that the rotations of         (33), while the significance of the light q u a n t u m in causing
+the gas molecules indicated by the q u a n t u m conditions do           photo-chemical reactions has been made clear by E. W a r b u r g
+actually exist. However, no one has yet succeeded in giving a            (34)-
+complete explanation of these remarkable rotations.                         T h e results quoted above, collected from the most varied
+    Since all the affinity of a substance is ultimately bound up         branches of physics, present an overwhelming case for the
+with its entropy, the theoretical calculation of entropy by means        existence of the q u a n t u m of action, and the q u a n t u m hypothesis
+of q u a n t a gives a method of attacking all problems in chemical      was p u t on a very firm foundation by Niels Bohr's theory of the
+affinity. Nernst's chemical constant is a characteristic for the         atom. This theory was destined, by means of the q u a n t u m of
+absolute value of the entropy of a gas. O . Sackur calculated this       action, to open a door into the wonderland of spectroscopy,
+constant directly (28) by a combinatory method similar to my             which had obstinately defied all investigators since the discovery
+method with oscillators, while O . Stern and H . Tetrode, by             of spectral analysis. Once the way was made clear, a mass of new
+careful examination of experimental data of evaporation, deter-          knowledge was obtained concerning this branch of science, as
+mined the difference of the entropies of gaseous and non-gaseous         well as allied branches of physics and chemistry. T h e first
+substances (29).                                                         brilliant result was Balmer's series for hydrogen and helium,
+    T h e cases considered so far deal with thermo-dynamical             including the reduction of the universal Rydberg constants to
+equilibrium, which only give statistical mean values for a               pure numbers (35), by which the small difference between
+number of particles and long periods of time. This observation           hydrogen and helium was found to be due to the slower motion
+of electronic impulses, however, leads directly to the dynamical         of the heavier atomic core. This led immediately to the investi-
+details of the phenomena considered. T h e determination by              gation of other series in the optical and Rontgen spectra by
+J . Franck and G. Hertz of the so-called resonance potential, or         means of Ritz's useful combination principle, the fundamental
+that critical velocity, the minimum velocity which an electron           meaning of which was now demonstrated for the first time.
+must have to bring about the emission of a q u a n t u m of light by        In the face of these numerous verifications (which could be
+112      A Survey of Physical Theory                                                   The Origin and Development of the Quantum Theory     113
+
+considered as very strong proofs in view of the great accuracy            classical theory from the beginning have been mentioned above.
+of spectroscopic measurements), those who had looked on the               As years have elapsed, these difficulties have increased rather
+problem as a game of chance were finally compelled to throw               than diminished, and although the impetuous advance of
+away all doubt when A. Sommerfeld showed that—by extend-                  research has dealt with some of them, yet the inevitable gaps
+ing the laws of distribution of quanta to systems with several            remaining in any extension are all the more painful to the con-
+degrees of freedom (and bearing in mind the variability of mass           scientious and systematic worker. T h a t which serves as the
+according to the theory of relativity)—an elegant formula                 foundation of the law of action in Bohr's theory is made u p of
+follows which must, so far as can be determined by the most               certain hypotheses which were flatly rejected, without any
+delicate measurements now possible (those of F. Paschen (36)),            question, a generation ago by physicists. T h a t quite definite
+solve the riddle of the structure of hydrogen and helium spectra          orbits determined by q u a n t a are a special feature of the atom
+(37). This is an accomplishment in every way comparable with              may be considered admissible, but it is less easy to assume that
+the famous discovery of the planet Neptune, whose existence               the electrons, moving in these paths with a definite acceleration,
+and position had been calculated by Leverrier before it had been          radiate no energy. But that the quite sharply defined frequency
+seen by h u m a n eye. Proceeding further along the same lines,           of an emitted light q u a n t u m should be different from the fre-
+P. Epstein succeeded in giving a complete explanation of the              quency of the emitted electrons must seem, at first sight, to a
+Stark effect of the electrical separation of the spectral lines (38),     physicist educated in the classical school, an almost unreason-
+and P. Debye in giving a simple meaning to the K-series of the            able demand on his imagination.
+Rontgen spectrum, investigated by M a n n e Siegbahn (39).
+                                                                             However, figures are decisive, and the conclusion is that
+Moreover, there followed a large number of wider investiga-
+                                                                          things have been gradually reversed. At first a new foreign
+tions, which explained more or less successfully the mystery of
+                                                                          element was fitted into a structure, generally considered fixed,
+the structure of the atom.
+                                                                          with as little change as possible; but now the intruder, after
+   In view of all these results—a complete explanation would              gaining a secure place for itself, has taken the offensive, and
+involve the inclusion of many more well-known names—an                    to-day it is almost certain that it will undermine the old struc-
+unbiased critic must recognize that the q u a n t u m of action is a      ture in some way or other. T h e question is at what place and to
+universal physical constant, the value of which has been found            w h a t degree this will happen.
+from several very different phenomena to be 6-54 x io~ 2 7                   If a surmise be allowed as to the probable outcome of this
+ergs. sees. (40). It must seem a curious coincidence that at the          struggle, everything seems to indicate that the great principles
+time when the idea of general relativity is making headway and            of thermo-dynamics, derived from the classical theory, will not
+leading to unexpected results, Nature has revealed, at a point            only maintain their central position in the q u a n t u m theory, but
+where it could be least foreseen, an absolute invariable unit, by         will be greatly extended. The adiabatic hypothesis of P.
+means of which the magnitude of the action in a time space                Ehrenfest (41) plays the same part in the q u a n t u m theory as the
+element can be represented by a definite number, devoid of                original experiments played in the founding of classical thermo-
+ambiguity, thus eliminating the hitherto relative character.              dynamics. Just as R. Clausius introduced, as a basis for the
+   Yet no actual q u a n t u m theory has been formed by the intro-       measure of entropy, the theorem that any two conditions of a
+duction of the q u a n t u m of action. But perhaps this theory is not    material system are transformable one to the other by reversible
+so far distant as the introduction of Maxwell's light theory was          processes, so Bohr's new ideas showed the corresponding way to
+from the discovery of the velocity of light by Olaf Romer. T h e          explore the problems opened up by him.
+difficulties in the way of introducing the q u a n t u m of action into      A question, from the complete answer to which we may
+ii4     A- Purvey of Physical Theory
+
+expect far-reaching explanations, is what becomes of the
+energy of a light q u a n t u m after perfect emission? Does it
+spread out, as it progresses, in all directions, as in Huygens's
+wave theory, and while covering an ever-larger amount of
+                                                                          Notes
+space, diminish without limit? O r does it travel along as in                    (The Bibliography is by no means complete, but serves
+Newton's emanation theory like a projectile in one direction?                    as an indication of the papers which bear on the subject.)
+In the first case the q u a n t u m could never concentrate its energy
+in a particular spot to enable it to liberate an electron from the
+atomic influences; in the second case we would have the com-
+plete triumph of Maxwell's theory, and the continuity between            i. G. Kirchhoff. U b e r das Verhaltnis zwischen dem Emissions-
+static and dynamic fields must be sacrificed, and with it the                  vermogen und dem Absorptionsvermogen der Korper
+present complete explanation of interference phenomena, which                  fur W a r m e und Licht. Gesammelte Abhandlungen.
+have been investigated in all details. Both these alternatives                 Leipzig, J . A. Barth, 1882, p . 597 (§17).
+would have very unpleasant consequences for the modern                   2. H . Hertz. Ann. d. Phys., 36, p . 1, 1889.
+physicist.                                                               3. Sitz.-Ber. d. Preuss. Akad. d. Wiss., 18 May, 1899, P- 455-
+   I n each case there can be no doubt that science will be able         4. Sitz.-Ber. d. Preuss. Akad. d. Wiss., 20 Feb., 1896. Also
+to overcome this serious dilemma, and that what seems now to be                Ann. d. Phys., 60, p . 577. 1897.
+incompatible may later be regarded as most suitable on account           5. L. Boltzmann. Sitz.-Ber. d. Preuss. Akad. d. Wiss., 3 March,
+of its harmony and simplicity. Until this goal is attained the                 1898, p . 182.
+problem of the q u a n t u m of action will not cease to stimulate       6. W . Wien. Ann. d. Phys., 58, p . 662, 1896.
+research and to yield results, and the greater the difficulties          7. According to Wien's Law of Energy Distribution, the rela-
+opposed to its solution, the greater will be its significance for the          tion between the energy U of a resonator and the tem-
+extension and deepening of all our knowledge of physics.                       perature is given by
+
+                                                                                                  U = ae—i.
+                                                                              If S denote the entropy, then
+
+                                                                                                       1      dS
+                                                                                                       T
+
+                                                                              and R of the text = 1                      bV.
+
+                                                                         8. Wien's law of displacements shows that the energy U of a
+                                                                              resonator = vfi— I where v is the frequency of the
+
+                                                                             oscillations.
+                                                                         9. Ann. d. Phys., 1, p. 719, 1900.
+                                                                                                       "5
+

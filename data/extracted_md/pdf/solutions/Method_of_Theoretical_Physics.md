@@ -1,0 +1,293 @@
+# On the Method of Theoretical Physics
+
+**source:** pdf · **section:** solutions
+**file:** Method_of_Theoretical_Physics
+---
+
+Author(s): Albert Einstein
+Source: Philosophy of Science, Vol. 1, No. 2 (Apr., 1934), pp. 163-169
+Published by: The University of Chicago Press on behalf of the Philosophy of Science Association
+Stable URL: http://www.jstor.org/stable/184387 .
+Accessed: 22/05/2013 11:58
+
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at .
+http://www.jstor.org/page/info/about/policies/terms.jsp
+
+.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+.
+
+                The University of Chicago Press and Philosophy of Science Association are collaborating with JSTOR to
+                digitize, preserve and extend access to Philosophy of Science.
+
+http://www.jstor.org
+
+                            This content downloaded from 128.103.149.52 on Wed, 22 May 2013 11:58:00 AM
+                                            All use subject to JSTOR Terms and Conditions
+   On        the             Method                          of        Theoretical
+                                          Physics*
+                                                     BY
+
+                                  ALBERT EINSTEIN
+                   'FYOU wish to learn from the theoretical physi-
+                    cist anything about the methods which he uses,
+       ~ 5'K        I would give you the following piece of advice:
+                    Don't listen to his words, examine his achieve-
+                   ments. For to the discoverer in that field, the
+                    constructions of his imagination appear so
+necessary and so natural that he is apt to treat them not as the
+creations of his thoughts but as given realities.
+   This statement may seem to be designed to drive my audience
+away without more ado. For you will say to yourselves, 'The
+lecturer is himself a constructive physicist; on his own showing
+therefore he should leave the consideration of the structure of
+theoretical science to the epistemologist'.
+   So far as I personally am concerned, I can defend myself against
+an objection of this sort by assuring you that it was no suggestion
+of mine but the generous invitation of others which has placed
+me on this dais, which commemorates a man who spent his life
+in striving for the unification of knowledge.
+   But even apart from that, I have this justification for my pains,
+that it may possibly interest you to know how a man thinks about
+his science after having devoted so much time and energy to the
+clarification and reform of its principles.
+   *The Herbert Spencer Lecture, delivered at Oxford, June Io, I933.                             Reprinted by
+permission of the Oxford University Press, New York, Inc.
+                                                     163
+
+                   This content downloaded from 128.103.149.52 on Wed, 22 May 2013 11:58:00 AM
+                                   All use subject to JSTOR Terms and Conditions
+164                     Theoretical Physics
+   Of course his view of the past and present history of his subject
+is likely to be unduly influenced by what he expects from the
+future and what he is trying to realize to-day. But this is the
+common fate of all who have adopted a world of ideas as their
+dwelling-place.
+   He is in just the same plight as the historian, who also, even
+though unconsciously, disposes events of the past around ideals
+that he has formed about human society.
+   I want now to glance for a moment at the development of the
+theoretical method, and while doing so especially to observe the
+relation of pure theory to the totality of the data of experience.
+Here is the eternal antithesis of the two inseparable constituents
+of human knowledge, Experience and Reason, within the sphere
+of physics. We honour ancient Greece as the cradle of western
+science. She for the first time created the intellectual miracle of a
+logical system, the assertions of which followed one from another
+with such rigor that not one of the demonstrated propositions
+admitted of the slightest doubt-Euclid's geometry. This mar-
+vellous accomplishment of reason gave to the human spirit the
+confidence it needed for its future achievements. The man who
+was not enthralled in youth by this work was not born to be a
+scientific theorist. But yet the time was not ripe for a science
+that could comprehend reality, was not ripe until a second ele-
+mentary truth had been realized, which only became the common
+property of philosophers after Kepler and Galileo. Pure logical
+thinking can give us no knowledge whatsoever of the world of
+experience; all knowledge about reality begins with experience
+and terminates in it.
+   Conclusions obtained by purely rational processes are, so far
+as Reality is concerned, entirely empty. It was because he
+recognized this, and especially because he impressed it upon the
+scientific world that Galileo became the father of modern physics
+and in fact of the whole of modern natural science.
+   But if experience is the beginning and end of all our knowledge
+about reality, what role is there left for reason in science? A
+complete system of theoretical physics consists of concepts and
+basic laws to interrelate those concepts and of consequences to
+
+             This content downloaded from 128.103.149.52 on Wed, 22 May 2013 11:58:00 AM
+                             All use subject to JSTOR Terms and Conditions
+                            Albert Einstein                                               I65
+be derived by logical deduction. It is these consequences to
+which our particularexperiencesare to correspond,and it is the
+logical derivation of them which in a purely theoretical work
+occupies by far the greater part of the book. This is really
+exactly analogous to Euclidean geometry, except that in the
+latter the basic laws are called 'axioms';and, further,that in this
+field thereis no questionof the consequenceshaving to correspond
+with any experiences. But if we conceiveEuclideangeometryas
+the science of the possibilities of the relative placing of actual
+rigid bodiesand accordinglyinterpretit as a physicalscience,and
+do not abstract from its original empirical content, the logical
+parallelismof geometryand theoreticalphysics is complete.
+   We have now assigned to reason and experience their place
+within the system of theoretical physics. Reason gives the
+structureto the system; the data of experienceand their mutual
+relationsare to correspondexactly to consequencesin the theory.
+On the possibility alone of such a correspondencerests the value
+and the justification of the whole system, and especially of its
+fundamentalconcepts and basic laws. But for this, these latter
+would simply be free inventions of the human mind which ad-
+mit of no a priori justification either through the nature of the
+human mind or in any other way at all.
+   The basic concepts and laws which are not logically further
+reducibleconstitutethe indispensableandnot rationallydeducible
+part of the theory. It can scarcely be denied that the supreme
+goal of all theory is to make the irreduciblebasic elements as
+simple and as few as possible without having to surrenderthe
+adequaterepresentationof a singledatumof experience.
+   The conceptionhere outlined of the purely fictitious character
+of the basic principlesof theory was in the eighteenth and nine-
+teenth centuriesstill far from being the prevailingone. But it
+continues to gain more and more ground because of the ever-
+wideninglogical gap between the basic concepts and laws on the
+one side and the consequencesto be correlatedwith our experi-
+ences on the other-a gap which widens progressivelywith the
+developing unificationof the logical structure, that is with the
+reductionin the numberof the logically independentconceptual
+elements requiredfor the basis of the whole system.
+
+            This content downloaded from 128.103.149.52 on Wed, 22 May 2013 11:58:00 AM
+                            All use subject to JSTOR Terms and Conditions
+166                     Theoretical Physics
+   Newton, the first creator of a comprehensive and workable
+system of theoretical physics, still believed that the basic concepts
+and laws of his system could be derived from experience; his
+phrase 'hypotheses non fingo' can only be interpreted in this
+sense. In fact at that time it seemed that there was no problem-
+atical element in the concepts, Space and Time. The concepts of
+mass, acceleration, and force and the laws connecting them,
+appeared to be directly borrowed from experience. But if this
+basis is assumed, the expression for the force of gravity seems to
+be derivable from experience; and the same derivability was to
+be anticipated for the other forces.
+   One can see from the way he formulated his views that Newton
+felt by no means comfortable about the concept of absolute space,
+which embodied that of absolute rest; for he was alive to the fact
+that nothing in experience seemed to correspond to this latter
+concept. He also felt uneasy about the introduction of action
+at a distance. But the enormous practical success of his theory
+may well have prevented him and the physicists of the eighteenth
+and nineteenth centuries from recognizing the fictitious character
+of the principles of his system.
+   On the contrary the scientists of those times were for the most
+part convinced that the basic concepts and laws of physics were
+not in a logical sense free inventions of the human mind, but
+rather that they were derivable by abstraction, i.e. by a logical
+process, from experiments. It was the general Theory of Rela-
+tivity which showed in a convincing manner the incorrectness of
+this view. For this theory revealed that it was possible for us,
+using basic principles very far removed from those of Newton,
+to do justice to the entire range of the data of experience in a
+manner even more complete and satisfactory than was possible
+with Newton's principles. But quite apart from the question of
+comparative merits, the fictitious character of the principles is
+made quite obvious by the fact that it is possible to exhibit two
+essentially different bases, each of which in its consequences leads
+to a large measure of agreement with experience. This indicates
+that any attempt logically to derive the basic concepts and laws
+of mechanics from the ultimate data of experience is doomed to
+failure.
+
+             This content downloaded from 128.103.149.52 on Wed, 22 May 2013 11:58:00 AM
+                             All use subject to JSTOR Terms and Conditions
+                            Albert Einstein                                               167
+   If then it is the case that the axiomatic basis of theoretical
+physics cannot be an inference from experience, but must be
+free invention, have we any right to hope that we shall find the
+correctway? Still more-does this correctapproachexist at all,
+save in our imagination? Have we any right to hope that ex-
+periencewill guideus aright,when thereare theories(like classical
+mechanics)which agree with experienceto a very great extent,
+even without comprehendingthe subjectin its depths? To this I
+answerwith complete assurance,that in my opinion there is the
+correct path and, moreover, that it is in our power to find it.
+Ourexperienceup to datejustifiesus in feelingsurethat in Nature
+is actualized the ideal of mathematical simplicity. It is my
+conviction that pure mathematical construction enables us to
+discoverthe conceptsand the laws connectingthem which give us
+the key to the understanding of the phenomena of Nature.
+Experience can of course guide us in our choice of serviceable
+mathematical concepts; it cannot possibly be the source from
+which they are derived; experience of course remains the sole
+criterionof the serviceabilityof a mathematicalconstructionfor
+physics, but the truly creative principleresides in mathematics.
+In a certainsense, therefore,I hold it to be true that pure thought
+is competentto comprehendthe real, as the ancientsdreamed.
+   To justify this confidence of mine, I must necessarily avail
+myself of mathematicalconcepts. The physical world is repre-
+sented as a four-dimensionalcontinuum. If in this I adopt a
+Riemannianmetric, and look for the simplest laws which such a
+metric can satisfy, I arrive at the relativistic gravitation-theory
+of empty space. If I adopt in this space a vector-field, or in
+other words, the antisymmetricaltensor-fieldderived from it,
+and if I look for the simplest laws which such a field can satisfy,
+I arriveat the Maxwellequationsfor free space.
+   Having reached this point we have still to seek a theory for
+those parts of space in which the electricaldensity does not van-
+ish. De Broglie surmised the existence of a wave-field, which
+could be used to explain certain quantum propertiesof matter.
+Dirac found in the 'spinor-field'quantities of a new kind, whose
+simplestequationsmake it possibleto deducea great many of the
+propertiesof the electron, including its quantum properties. I
+
+            This content downloaded from 128.103.149.52 on Wed, 22 May 2013 11:58:00 AM
+                            All use subject to JSTOR Terms and Conditions
+i68                     Theoretical Physics
+and my colleague discovered that these 'spinors' constitute a
+special case of a field of a new sort which is mathematically con-
+nected with the metrical continuum of four dimensions, and it
+seems that they are naturally fitted to describe important prop-
+erties of the electrical elementary particles.
+   It is essential for our point of view that we can arrive at these
+constructions and the laws relating them one with another by
+adhering to the principle of searching for the mathematically
+simplest concepts and their connections. In the paucity of the
+mathematically existent simple field-types and of the relations
+between them, lies the justification for the theorist's hope that
+he may comprehend reality in its depths.
+   The most difficult point for such a field-theory at present is
+how to include the atomic structure of matter and energy. For
+the theory in its basic principles is not an atomic one in so far as
+it operates exclusively with continuous functions of space, in
+contrast to classical mechanics whose most important feature,
+the material point, squares with the atomistic structure of matter.
+   The modern quantum theory, as associated with the names of
+de Broglie, Schr6dinger, and Dirac, which of course operates
+with continuous functions, has overcome this difficulty by means
+of a daring interpretation, first given in a clear form by Max
+Born:-the space functions which appear in the equations make
+no claim to be a mathematical model of atomic objects. These
+functions are only supposed to determine in a mathematical way
+the probabilities of encountering those objects in a particular
+place or in a particular state of motion, if we make a measure-
+ment. This conception is logically unexceptionable, and has
+led to important successes. But unfortunately it forces us to
+employ a continuum of which the number of dimensions is not
+that of previous physics, namely 4, but which has dimensions
+increasing without limit as the number of the particles consti-
+tuting the system under examination increases. I cannot help
+confessing that I myself accord to this interpretation no more
+than a transitory significance. I still believe in the possibility of
+giving a model of reality, a theory, that is to say, which shall
+represent events themselves and not merely the probability of
+
+             This content downloaded from 128.103.149.52 on Wed, 22 May 2013 11:58:00 AM
+                             All use subject to JSTOR Terms and Conditions
+                            Albert Einstein                                               1 69
+their occurrence. On the other hand, it seems to me certain
+that we have to give up the notion of an absolute localization of
+the particles in a theoretical model. This seems to me to be the
+correct theoretical interpretation of Heisenberg's indeterminacy
+relation. And yet a theory may perfectly well exist, which is in a
+genuine sense an atomistic one (and not merely on the basis of a
+particular interpretation), in which there is no localizing of the
+particles in a mathematical model. For example, in order to
+include the atomistic character of electricity, the field equations
+only need to involve that a three-dimensional volume of space on
+whose boundary the electrical density vanishes everywhere,
+contains a total electrical charge of an integral amount. Thus in
+a continuum theory, the atomistic character could be satisfac-
+torily expressed by integral propositions without localizing the
+particles which constitute the atomistic system.
+  Only if this sort of representation of the atomistic structure
+be obtained could I regard the quantum problem within the frame-
+work of a continuum theory as solved.
+
+            This content downloaded from 128.103.149.52 on Wed, 22 May 2013 11:58:00 AM
+                            All use subject to JSTOR Terms and Conditions
+

@@ -1,0 +1,293 @@
+        10   My God - He Plays DIce!
+Chapter 2
+
+
+
+
+                       a n ce
+                    Ch
+
+
+
+
+                                                   This chapter on the web
+                                       informationphilosopher.com/chance
+                                                                    Chance           11
+
+
+Chance
+    We hope to develop your ability to visualize actual chance events
+
+
+
+
+                                                                                      Chapter 2
+and distinguish them clearly from the continuous mathematical
+equations that predict very large numbers of them so perfectly.
+This will be critical if you are to visualize the quantum wave
+function and see it the way Einstein saw it.
+    A continuous “bell curve” is an ideal analytic function with
+values for each of the infinite number of points on the horizontal
+axis. In the real material world of particles, a discrete histogram
+approaches that ideal curve in the limit of large numbers of events.
+A finite number of particles never gets there.
+    The “binomial coefficients” in figure 1.1 were arranged by
+Blaise Pascal in what is known as Pascal’s triangle. Each number
+is the sum of the two numbers above, giving us the number of ways
+from the top to reach each point in the lower rows.
+
+
+
+
+  Figure 2-1. Pascal’s triangle. Plotting the numbers in the bottom row would show
+how sharp and peaked the normal distribution is for 16 coin flips.
+   To illustrate physically how random events approach the normal
+distribution in the limit of large numbers, the sociologist and
+statistician Francis Galton designed a probability machine, with
+balls bouncing randomly left or right in an array of pins.
+        12      My God - He Plays DIce!
+Chapter 2
+
+
+
+
+                Figure 2-2. Galton’s “Quincunx.” The number of ways to a bin in the bottom row is
+             the binomial coefficient.
+                The probability of reaching a bin is the number of ways to the
+             bin divided by the total number of ways, 210 = 1024.
+                Generalizing now to the cases of shuffling decks of cards, or
+             throwing pairs of dice, the most probable outcomes are those that
+             can be accomplished in the largest number of ways.
+                Now we test your physical understanding of probability. Do
+             you consider each bounce of a ball above as random? As really
+             random? Or is it determined by the laws of nature, by the laws of
+             classical mechanics?
+                Is the use of probability just because we cannot know the exact
+             details of the initial conditions, as the proponents of deterministic
+             chaos maintain? Is the randomness only human ignorance, thus
+             subjective and epistemological? Or is it objective and ontological?
+                                                               Chance     13
+
+   You may be surprised to learn that many physicists, and perhaps
+most philosophers of science, think physics is deterministic, despite
+the evidence for quantum indeterminism, following centuries of
+
+
+
+
+                                                                           Chapter 2
+tradition which were deep beliefs of Albert Einstein.
+   To deny ontological chance is to commit to just one possible
+future and to the belief that if we could reverse the velocities and
+directions of all material particles from their current positions,
+Newton’s laws say that all the particles would retrace their paths
+back in time to the beginning of the universe.
+The History of Chance
+  For most of the history of philosophy and physics, ontological
+chance has been strictly denied. Leucippus (440 B.C.E.) stated
+the first dogma of determinism, an absolute necessity.
+      “Nothing occurs by chance (maton), but there is a reason (logos)
+      and necessity (ananke) for everything.”1
+   Chance is regarded as inconsistent with reasons and causes.
+   The first thinker to suggest a physical explanation for chance
+in the universe was Epicurus. Epicurus was influenced strongly
+by Aristotle, who regarded chance as a possible fifth cause.
+Epicurus said there must be cases in which the normally straight
+paths of atoms in the universe occasionally bend a little and the
+atoms “swerve” to prevent the universe and ourselves from being
+completely determined by the mechanical laws of Democritus.
+   For Epicurus, the chance in his atomic swerve was simply a
+means to deny the fatalistic future implied by determinism. As the
+Epicurean Roman Lucretius explained the idea,
+      “...if all motion is always one long chain, and new motion arises
+      out of the old in order invariable, and if the first-beginnings
+      do not make by swerving a beginning of motion such as to
+      break the decrees of fate, that cause may not follow cause from
+      infinity, whence comes this freedom in living creatures all over
+      the earth.”2
+  Epicurus did not say the swerve was directly involved in
+decisions so as to make them random. His critics, ancient and
+  1       Fragment 569 - from Fr. 2 Actius I, 25, 4
+  2       De Rerum Natura, Book 2, lines 251-256
+        14         My God - He Plays DIce!
+
+             modern, have claimed mistakenly that Epicurus did assume “one
+             swerve - one decision.” Some recent philosophers call this the
+             “traditional interpretation” of Epicurean free will.
+Chapter 2
+
+
+
+
+                On the contrary, following Aristotle, Epicurus thought human
+             agents have an autonomous ability to transcend the necessity
+             and chance of some events. This special ability makes us morally
+             responsible for our actions.
+                Epicurus, clearly following Aristotle, finds a tertium quid, beyond
+             the other two options, necessity (Democritus’ and Leucippus’
+             determinism) and chance (Epicurus’ swerve).
+                The tertium quid is agent autonomy. Epicurus wrote:
+                    “...some things happen of necessity (ἀνάγκη), others by chance
+                   (τύχη), others through our own agency (παρ’ ἡμᾶς)...necessity
+                   destroys responsibility and chance is uncertain; whereas our own
+                   actions are autonomous, and it is to them that praise and blame
+                   naturally attach.”3
+               Despite abundant evidence, many philosophers deny that real
+             chance exists. If a single event is determined by chance, then
+             indeterminism would be true, they say, undermining the very
+             possibility of reasoning to certain knowledge. Some go to the
+             extreme of saying that chance makes the state of the world totally
+             independent of any earlier states, which is nonsense, but it shows
+             how anxious they are about chance.
+               The Stoic Chrysippus (200 B.C.E.) said a single uncaused cause
+             could destroy the universe (cosmos), a concern shared by some
+             modern philosophers, for whom reason itself would fail. He wrote:
+                   “Everything that happens is followed by something else which
+                   depends on it by causal necessity. Likewise, everything that
+                   happens is preceded by something with which it is causally
+                   connected. For nothing exists or has come into being in the
+                   cosmos without a cause. The universe will be disrupted and
+                   disintegrate into pieces and cease to be a unity functioning as a
+                   single system, if any uncaused movement is introduced into it.” 4
+               The core idea of chance and indeterminism is closely related
+             to the idea of causality. Indeterminism for some is simply an
+             event without a cause, an uncaused cause or causa sui that starts
+               3       Letter to Menoeceus, §133
+               4       Plutarch, Stoic. Rep., 34, 1050A
+                                                                Chance       15
+
+a new causal chain. If we admit some uncaused causes, we can
+have an adequate causality without the physical necessity of strict
+determinism - which implies complete predictability of events and
+
+
+
+
+                                                                              Chapter 2
+only one possible future.
+   An example of an event that is not strictly caused is one that
+depends on chance, like the flip of a coin. If the outcome is only
+probable, not certain, then the event can be said to have been caused
+by the coin flip, but the head or tails result itself was not predictable.
+So this “soft” causality, which recognizes prior uncaused events as
+causes, is undetermined and to some extent the result of chance.
+   Even mathematical theorists of games of chance found ways to
+argue that the chance they described was somehow necessary and
+chance outcomes were actually determined. The greatest of these,
+Pierre-Simon Laplace, preferred to call his theory the “calculus
+of probabilities.” With its connotation of approbation, probability
+was a more respectable term than chance, with its associations of
+gambling and lawlessness. For Laplace, the random outcomes were
+not predictable only because we lack the detailed information to
+predict. As did the ancient Stoics, Laplace explained the appearance
+of chance as the result of human ignorance. He said,
+      “The word ‘chance,’ then expresses only our ignorance of the
+      causes of the phenomena that we observe to occur and to succeed
+      one another in no apparent order.” 5
+   As we have seen, decades before Laplace, Abraham de Moivre
+discovered the normal distribution (the bell curve) of outcomes for
+ideal random processes, like the flip of a coin or throw of dice. But
+despite this de Moivre did not believe in chance. It implies events
+that God can not know. De Moivre labeled it atheistic.
+      Chance, in atheistical writings or discourse, is a sound utterly
+      insignificant: It imports no determination to any mode of existence;
+      nor indeed to existence itself, more than to non existence; it can
+      neither be defined nor understood...it is a mere word. 6
+   We have seen that random processes produce a regular distribution
+pattern for many trials (the law of large numbers). Inexplicably, the
+discovery of these regularities in various social phenomena led
+Laplace and others to conclude that the phenomena are determined,
+not random. They simply denied chance in the world.
+  5       Memoires de l’Academie des Sciences 1783, p. 424.
+  6       The Doctrine of Chances, 1756, p.253.
+        16         My God - He Plays DIce!
+
+               A major achievement of the Ages of Reason and Enlightenment
+             was to banish absolute chance as unintelligible and atheistic.
+             Newton’s Laws provided a powerful example of deterministic
+Chapter 2
+
+
+
+
+             laws governing the motions of everything. Surely Leucippus’ and
+             Democritus’ original insights had been confirmed.
+               As early as 1784, Immanuel Kant had argued that the
+             regularities in social events from year to year showed that they must
+             be determined.
+                   “Thus marriages, the consequent births and the deaths, since the
+                   free will seems to have such a great influence on them, do not
+                   seem to be subject to any law according to which one could cal-
+                   culate their number beforehand. Yet the annual (statistical) tables
+                   about them in the major countries show that they occur accord-
+                   ing to stable natural laws.” 7
+                In the early 1800’s, the social statisticians Adolphe Quételet
+             and Henry Thomas Buckle argued that these regularities in social
+             physics proved that individual acts like marriage and suicide are
+             determined by natural law. Quételet and Buckle thought they had
+             established an absolute deterministic law behind all statistical laws.
+             Buckle went so far as to claim it established the lack of free will.
+                The argument for determinism of Quételet and Buckle is quite
+             illogical. It appears to go something like this:
+                • As we saw above, random, unpredictable individual events (like
+                     the throw of dice in games of chance or balls in a probability
+                     machine) have a normal distribution that becomes more and
+                     more certain with more events (the law of large numbers).
+                • Human events are normally distributed.
+                • Therefore, human events are determined.
+                They might more reasonably have concluded that individual
+             human events are unpredictable and random. Were they in fact
+             determined, the events might show a non-random pattern, perhaps
+             a signature of the Determiner?
+                In the next chapter, we shall see that Quételet and Buckle had a
+             major influence on the development of statistical physics.
+                 In the nineteenth century in America, Charles Sanders Peirce
+             coined the term “tychism” for his idea that absolute chance is the
+             first step in three steps to “synechism” or continuity.
+               7       Idea for a Universal History, introduction
+                                                           Chance           17
+
+   Peirce was influenced by Buckle and Quételet, by the French
+philosophers Charles Renouvier and Alfred Fouillee, who
+also argued for some absolute chance, but most importantly Peirce
+
+
+
+
+                                                                             Chapter 2
+was influenced by Kant and Georg W. F. Hegel, who saw things
+arranged in the triads that Peirce so loved.
+   Renouvier and Fouillee introduced chance or indeterminism
+simply to contrast it with determinism, and to discover some way,
+usually a dialectical argument like that of Hegel, to reconcile the
+opposites. Renouvier argues for human freedom, but nowhere
+explains exactly how chance might contribute to that freedom,
+other than negating determinism.
+   Peirce does not explain much with his tychism, and with his
+triadic view that adds continuity, then evolutionary love, which is
+supreme, he may have had doubts about the importance of chance.
+Peirce did not propose chance as directly or indirectly providing
+free will. He never mentions the ancient criticisms that we cannot
+accept responsibility for chance decisions. He does not really care for
+chance as the origin of species, preferring a more deterministic and
+continuous lawful development, under the guidance of evolutionary
+love. Peirce called Darwinism “greedy.” But he does say clearly that
+the observational evidence simply does not establish determinism.
+   It remained for William James, Peirce’s close friend, to assert that
+chance can provide random unpredictable alternatives from which
+the will can choose or determine one alternative. James was the
+first thinker to enunciate clearly a two-stage decision process, with
+chance in a present time generating random alternatives, leading to
+a choice which selects one alternative and transforms an equivocal
+ambiguous future into an unalterable determined past. There are free
+and undetermined alternatives followed by adequately determined
+choices made by the will.
+   Chance allows alternative futures. The deep question is how the
+one actual present is realized from potential alternative futures.
+   Claude Shannon, creator of the mathematical theory of the
+communication of information, said the information in a message
+depends on the number of possibilities. If there is only one possibility,
+there can be no new information. If information in the universe is
+a conserved constant quantity, like matter and energy, there is only
+one possible future.
+

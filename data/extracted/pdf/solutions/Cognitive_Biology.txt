@@ -1,0 +1,460 @@
+J. Social Biol. Struct. 1978 1, 117-125
+
+
+
+
+             A cognitive view of biological process
+                                        B. C. G o o d w i l l
+                      School of Biological Sciences, University of Sussex, UK
+
+       From the study of biological pattern formation, formal rules have begun to emerge
+       which allow one to generate structures representing characteristic biological forms
+       such as limbs, eyes, and plant leaves. These rules are phenomenological, providing a
+       structuralist, non-reductionist approach to the problem of biological form. This
+       approach is developed in relation to a cognitive view of biological process which sees
+       organisms as systems which operate on the basis of knowledge. This knowledge is
+       expressed in the form of rules or constraints which generate behaviour useful to the
+       organism or the species for survival, reproduction and evolution.
+          Organisms, defined as cognitive (knowledge using) systems, are characterised by
+       generative processes which involve both constraint and innovation, properties which
+       are taken to define creative behaviour. Both development and evolution are then seen
+       to be aspects of a creative process. Such a concept of creative becoming is basic to a
+       philosophy of organism such as Whitehead's, but is problematic to a philosophy of
+       substance such as Descartes'. It is argued that the dualistic and positivistic aspects of
+       contemporary science, deriving from philosophies of substance, are detrimental to an
+       understanding of biological process, and that a cognitive view is helpful in con-
+       ceptualizing biological problems in terms of creative process.
+
+
+
+
+                                           Introduction
+M y intention in this essay is to describe the emergence of a new view of biological
+pattern f o r m a t i o n which links this area of study very m u c h m o r e closely to h u m a n
+pattern-forming activities than has been the case in the past. D u r i n g most of this
+century, biologists have tended to make the assumption that, somehow or other,
+detailed studies in genetics, biochemistry and biophysics would eventually provide
+explanations of the processes which generate limbs in insects, feathers on birds,
+spiral patterns in the arrangement of leaves on plants, and spots on ladybirds' backs.
+T h i s expresses a reductionist belief which is now foundering badly and is being
+replaced b y a view of biological process which seeks to understand pattern forma-
+tion in t e r m s of rules or laws operating at levels above the molecular and the genetic
+(in the sense of products of the p r i m a r y genetic material, D N A ) . Furthermore,
+these rules are biological, not physical, although they in no sense violate the laws
+of physics and chemistry. I t is here that this new approach to morphogenesis differs
+quite sharply f r o m the view of the m o s t outstanding student of biological f o r m
+in this century, D ' A r c y W e n t w o r t h T h o m p s o n . His study On Growth and Form,
+published in 1917, sets forth the thesis that form can only be understood through
+mathematics and that the forces which operate in the genesis of biological structure
+are essentially physical. T h a t mathematics and f o r m or order belong together few
+
+0140-1750/78/0401-0117 $02.00/0                      ~) 1978 Academic Press Inc. (London) Limited
+   9
+118                                  B. C. Goodwin
+
+would dispute, but D'Arcy Thompson's view tends to eliminate the biological as
+a distinct and autonomous realm of nature; i.e. his reduction of biological structure
+to the operation of mathematical and physical laws fails to recognise the biological
+origins of the constraints which generate this structure. It is biological process
+which 'discovers' rules, expressible in mathematical form, these rules giving rise
+to order and pattern. This process is both orderly and creative. Furthermore, I will
+argue that it may also be seen to be cognitive. Thus biological pattern formation
+assumes characteristics which link it closely with the processes which generate
+pattern and order in human society. However, this similarity is not an identity:
+I do not wish to imply any reduction of the social order to biological order, which
+would simply commit again the reductionist fallacy at another level. The creativity
+of Nature is not the same as the creativity of Mind. But I will argue that they are
+much more akin than current thinking allows.
+
+
+           The failure of the reductionist view o f pattern formation
+One of the most distinctive characteristics of biological process is its capacity to
+generate a great diversity of structures, forms and patterns. The evolutionary process
+produces species of distinct morphology and behaviour, the developmental process
+generates individuals of characteristic form from eggs or buds, the process of living
+manifests itself in behaviour patterns such as hunting, feeding, talking, building,
+etc., typical of the individual and its species. In recent decades, the dramatic success
+of such subjects as genetics, molecular biology and neurophysiology in analysing
+biological activities in terms of units such as genes, molecules and neurons encour-
+aged the view that a satisfactory understanding of biological pattern formation
+would arise from the detailed study of the properties and behaviour of these units,
+order and complexity arising from their interaction. However, this analytical pro-
+gramme of reduction and resynthesis works satisfactorily only when there is an
+extremely simple and direct relationship between the units of a system and its
+higher level behaviour, as in a gas where the momentum or the kinetic energy of
+the molecules can be averaged to determine the pressure or the temperature of
+the gas. Of course there must always be some relationship between the properties
+of the units which are construed to exist within a complex system and the behaviour
+of the system itself. The problem is that if the units themselves are complex, in
+the sense that macromolecules or neurons are complex, then there are very many
+different ways in which higher order behaviour can arise. The reductionist pro-
+gramme is then faced with the virtually impossible task of exploring all the possible
+interaction patterns available and selecting those which conform to observed higher
+order behaviour. Given that one never has complete knowledge of the properties
+of the units, so that the relevant behaviour may well be missing from the computa-
+tion to begin with, it is clear that this is not a very reliable strategy to pursue in the
+study of biological pattern formation at the macroscopic level, that of the species,
+the individual and its behaviour.
+   An alternative approach, which has always been an important strategy in science,
+is to observe the behaviour of the system of interest, to record its regularities and
+then to see if it is possible to devise simple formal rules which act as axioms from
+which the behaviour of the system may be deduced. These formal rules then repre-
+sent the constraints within the system which underly its orderly behaviour. It may
+happen that they can never be reduced to certain categories of behaviour of simpler
+                         tl cognitive vie~ of biological process                    119
+
+units, as the inverse square rule or law of gravitational attraction could never be
+reduced to the mechanical properties of matter, much to the discomfiture of seven-
+teenth-century mechanical philosophers. However, scientists rapidly accommodate
+themselves to such eventualities and quite soon even go so far as to believe that
+a phenomenon such as gravitational attraction is in some sense explain.ed by the
+law, whereas it is only described. What is explained by the use of the rule is, for
+example, planetary motion. Newtonian mechanics is a generative theory in the
+sense that it allows one to generate patterns (trajectories which are conic sections,
+e.g. ellipses, parabolae or hyperbolae) by means of formal operations constrained
+by rules (the calculus, with the inverse square law of attraction) and these patterns
+fit the observed behaviour of the planets. This is not a reductionist theory, since
+the phenomena can be explained in terms of units and rules which correspond to
+the level of the observables themselves. Reductionism entered science largely with
+the adoption of the atomic hypothesis in the seventeenth century. It is an extremely
+useful hypothesis for the explanation of certain microscopic phenomena in physics,
+chemistry and biology; but not, I submit, for the understanding of biological
+pattern formation.
+
+                                 Cognitive biology
+In facing the problem of pattern and order in biological process, I believe that
+biologists will be induced to adopt a very different view of organisms and their
+evolution from the reductionist and materialist one which has prevailed throughout
+this century. This will bring biology much closer to the ideas expressed by White-
+head in his philosophy of organism and the idealist approach to the understanding
+of form which originated in the West with Pythagoras. Developmental biologists
+are now beginning to describe the appearance of characteristic structures such
+as limbs and eyes in terms of systems obeying formal rules whose molecular inter-
+pretation is left undescribed and is irrelevant for the explanation of the phenomena
+of interest (French, Bryant & Bryant, 1976; MacDonald, 1977). These rules are
+not in the category of natural law, as the physicist tends to regard the law of gravita-
+tional attraction. They are rules which have been arrived at by the evolutionary
+process as a solution to the problem of reliably and repeatedly generating particular
+types of form. And they are of course inherited, passed on from generation to
+generation.
+   What sort of system is this which employs rules to generate useful structures
+and behaviour patterns and which can transmit the rules to its progeny ? I have
+argued that such rules constitute knowledge and that a system which uses know-
+ledge is a cognitive system (Goodwin, 1976a, 1977). This comes from an extension
+of an argument presented by Chomsky (1972) in a linguistic context. In his analysis
+of linguistic competence, Chomsky presents evidence for an instinctive, unlearned
+capacity for generating correct sentence structure or syntax, a capacity which emerges
+in the course of the human developmental process. The rules or constraints which
+constitute linguistic competence define the processes which generate the correct
+surface structure of sentences from their deep structure, such as structure-dependent
+operations in sentence transformation. Possession of these rules, i.e. possession of
+the structural (anatomical) and functional (physiological) constraints which are
+the embodiments of the rules, is equivalent to having the knowledge required for
+speaking correct sentences. This knowledge is not learned, but is innate, inherited
+as part of the human phenotype. Chomsky's (1972) contention is that: 'knowledge of
+120                                  B. C. Goodndn
+
+ language results from the interplay of initially given structures of mind, matura-
+ tional processes, and interaction with the environment.' Innate structures are thus
+ seen to constitute elements of knowledge. I have simply used this proposition in
+ a more extended form to suggest that the basic attribute of living organisms is their
+ possession of knowledge about aspects of the world, knowledge which renders
+ them competent to survive and to reproduce in the environment to which they
+ are adapted or which they know.
+    I have defined knowledge as a useful description of some aspect of the world,
+ giving the possessor the competence to behave in a manner which contributes to
+its survival and reproduction (Goodwin, 1976a). The fact that we are dealing with
+ descriptions means that there are codes or sets of codes which relate them to that
+which is described. The unravelling of such codes, which is the equivalent of
+learning to read an unknown language, together with the solution of the problem
+how the knowledge is transmitted reliably from generation to generation, has been
+a major preoccupation of contemporary biology: coded knowledge is located largely
+in the DNA, which acts as a primary memory store for the organism, this know-
+ledge being in the form of hypotheses which need to be translated into active form
+for testing. However, there is a great deal of 'tacit' knowledge in other structures.
+The elucidation of the translation and assembly process from the coded linear
+sequences in the DNA to active three-dimensional proteins, which function as
+tests of genetic hypotheses by revealing their meaning, constitutes one of the
+triumphs of twentieth-century biology.
+    I used the term 'meaning' above in relation to the translation and testing of genetic
+hypotheses and it needs some clarification in this context. In coded form as it occurs
+in the DNA, the information for a particular protein such as the enzyme fl-galacto-
+sidase (required for the catabolism of the nutrient lactose in micro-organisms) or a
+crystallin (a protein which forms the transparent lens of the eye) cannot be tested
+because it exerts no action upon the organism or its environment. Before it can
+be tested, the information in the DNA must be translated into a form in which it
+exerts a particular type of force and acts within a particular context. Thus the fl-
+galactosidase converts lactose into glucose and galactose when it operates within
+the context of the bacterial cell (which defines particular conditions of pH, osmotic
+concentration, substrate level, etc.); while a crystallin transmits light rays in a
+particular way within the context of the eye. These activities may be said to consti-
+tute tests of meaning of the coded hypotheses in the hereditary material, involving
+the interpretation of the information. This interpretation takes place within a partic-
+ular context, which in part determines the pattern of forces which operate during
+the testing operation. We then arrive at a distinction between information and
+knowledge. The technical definition of information involves only selection (e.g.
+specifying one out of a set of possibilities), but says nothing about meaning, which
+I take always to involve activity in real space-time. Thus knowledge differs from
+information in that it not only involves selection of alternative possibilities, but
+also includes instruction for action which, operating in a particular context, conveys
+meaning.
+
+                              Generative processes
+In the rather detailed discussion given above, it is clear that every aspect of the
+behaviour of what I have called a cognitive system is compatible with physical
+and chemical laws. However, such a system transcends the rules of physics and
+                         A cognitive view of biological process                    121
+
+ chemistry in that, besides obeying these, its behaviour is constrained by other rules
+which are the embodiment of particular types of knowledge of which it makes use.
+This allows such systems to operate in domains which, while available to systems
+obeying the laws of physics and chemistry, are relatively improbable; i.e. cognitive
+systems can stabilize behaviour in physically and chemically improbable states by
+means of particular rules of action which they have embodied in parts of their own
+structure, such as catalysis of chemical reactions by enzymes so that relatively high
+rates of metabolic transformation can occur at low temperatures. By thus regulating
+their own activities through the imposition upon themselves of specific rules or
+ constraints, biological systems have managed to discover and exploit an immense
+ range of behavioural and morphological patterns. To give an architectural example,
+although rectangular stones occur in nature they are very rare; and structures in
+which they are piled on top of one another are much rarer still. However, the art
+of the stone-mason and the builder consists in following some very simple rules
+about shaping stone and assembling it and these rules then permit the construction
+of an immense variety of highly improbable structures, from Stonehenge to Chartres
+ Cathedral.
+   The essence of order and pattern is adherence to laws or rules; and the charac-
+teristic of cognitive systems is that they operate in terms of rules which stabilize
+useful temporal and spatial patterns. The process whereby such rules and the
+variety of their applications is discovered is described as creative in a human context
+and I would suggest that the evolutionary process shares this property. We do
+not yet know how to describe this creative potential of evolution, which generates
+organisms of greater and greater complexity constrained by the necessity that this
+be relevant, meaningful in its context; i.e. that it be biologically successful. (But
+see Saunders & Ho, 1976, for a very thoughtful and interesting paper on this subject.)
+Such generative processes appear to have the property of proceeding from sym-
+metry to asymmetry, which involves an increase in complexity; but then a new
+symmetry is generated which resolves the complexity into higher order simplicity
+without, however, losing the lower-level complexity. Thus in the evolution of the
+human hand, the development of the opposable thumb involved the breaking of a
+structural and dynamic symmetry in the organization and behaviour of primate
+digits. The grasping action of the primate hand wherein all the digits act in unison,
+so well adapted to swinging in trees and grasping certain types of object, is trans-
+formed into a much more complex structure with great independence of action
+of the thumb. However, the human uses a series of co-ordinating activities for the
+hand which involve higher order symmetries such as the coming together of the
+first finger and thumb in the typical action of picking up a small object, or the
+opposed wrapping of thumb and fingers around a stick. These symmetries have a
+bilateral element rather than the simpler unilateral action of the primate, giving
+a unity of movement and action to the more complex structure.
+   Alternatively, asymmetry can arise as a functional adaptation within a system
+with higher order symmetry as in the breaking of symmetry of the aortic arches
+in the evolution of the circulatory system in vertebrates, which retain a bilaterally
+symmetric overall body plan. Thus the hierarchical organisation of biological sys-
+tems, both structural and functional, allows for the appearance of asymmetry at
+one level and symmetry at another. However, the general tendency is for symmetry
+to evolve into asymmetry, as in the phenomenon of cerebral dominance and handed-
+ness in human beings, which breaks the bilateral body symmetry of the vertebrate
+122                                B. C. Goodzoin
+
+line; and then for a higher level symmetry to appear. In relation to human evolu-
+tion, the higher level symmetry which transcends the asymmetry of cerebral domi-
+nance is not yet evident. It is, however, clear that the biosphere needs a more
+balanced dominant being than the one currently with us, and we may look forward
+hopefully to its emergence.
+   It is of some interest to pursue this line of thinking in a little more detail, and
+to see if there is an analytical foundation for the ideas presented above, since in
+certain respects they appear to be at variance with some basic generalisations about
+'natural' process as described by physics and chemistry. What I am suggesting is
+that there is a natural tendency for systems to break their symmetries and become
+asymmetric, thus becoming more complex. On the other hand, physics says that,
+for a system with given constraints, there is a natural tendency for asymmetry to
+disappear and for entropy (disorder) to increase. Thus if a thermally isolated gas
+or liquid starts with a temperature gradient, then the natural tendency is for this
+to disappear and for the initial heterogeneity of state (asymmetry) to decay into
+homogeneity (symmetry), with a uniform temperature throughout the system.
+This is a fundamental property of thermodynamically isolated systems, and is
+expressed in the second law of thermodynamics. However, observe that the state-
+ment of the law depends upon the assumption of fixed constraints: entropy increases
+to the maximum, subject to given constraints, in a thermodynamically closed system.
+If we are concerned with systems whose constraints can change, then the law no
+longer applies, and this is the situation for developing or evolving organisms. The
+problem then is to formulate a 'law' which describes the general tendency for com-
+plexity to increase in systems which can undergo this more general change, and
+which suggests why such a process is 'natural'. By 'natural' one usually means
+that increased complexity is, on the whole, more stable than decreased complexity.
+One way of looking at this problem is in terms of structural stability, a concept
+used to describe the properties of dynamical systems whose parameters ('constraints')
+are subject to change. In this context, it is the case that asymmetry is more stable
+than symmetry; i.e. systems with symmetry transform into asymmetric systems
+under a perturbation (variation) of parameters. Particular examples are the trans-
+formations of periodic systems undergoing simple harmonic motion, such as an
+ideal pendulum, into either a damped oscillation (a real pendulum with friction
+which eventually comes to rest) or into a limit cycle (a child on a swing); the emer-
+gence of spiral motion in water running down a plug-hole, from an initially sym-
+metric flow; or the appearance of coherent light emission from a laser when the
+external 'pump' exceeds a particular energy level. All these asymmetrics arise spon-
+taneously in systems which are displaced from thermodynamic equilibrium and are
+subject to parametric perturbations. Thus the transition from symmetry to asym-
+metry, i.e. the breaking of symmetry, is a natural process in systems whose constraints
+are subject to change, and this provides a description of the general tendency of
+such systems to increase this complexity (asymmetry is more complex than
+symmetry; it requires more terms to describe it). However, this is a long way
+from giving us a theory of the evolution of living systems. These are not simply
+ complex; they show ordered complexity or organisation. The way one represents
+this central property of organisms is crucial to any attempt at a formal analysis
+of generative processes, ones which operate on the basis of knowledge or
+useful descriptions, seen as ordering or organising constraints. I do not wish to
+ pursue these technical problems here, but rather to take up the more general
+                         A cognitive view of biological process                     123
+
+discussion of the implications of such a view regarding the creativity of the
+biological process.
+
+
+                      Biological process as creative becoming
+ To obtain some initial focus on the concept of creativity, let us start with Descartes'
+ description of speech and language as creative expression, as discussed by Chomsky
+ (1968). There are three essential ideas here: unlimited variety, freedom from
+stimulus control and relevance or appropriateness. A competent language user can
+generate an unlimited variety of sentences, each of which is relevant or appropriate
+ to some situation; and the particular one selected is not dictated by any obvious
+ controlling stimulus. Grammatical and syntactical rules determine sentence struc-
+ture, these constraints arising from the demands of communication: the hearer
+must be able to recover the meaning of the sentence. These rules and constraints
+ constitute part of the knowledge required for linguistic competence as described
+by Chomsky (1968). It is this view of knowledge, extended to the basic organisation
+of living systems, which provides the basis for the cognitive biology which I have
+ described in previous sections. The question we now face is whether biological
+processes at levels below that of the human mind, with linguistic behaviour as one
+example, can be said to reveal creative expression in the terms defined above.
+   An example of behaviour conforming to these general criteria is embryonic
+development. The developing embryo certainly defines its own goals, so that its
+behaviour is free from a wide range of stimulus control. Furthermore, it is capable
+of making an unlimited variety of appropriate responses to situations which demand
+an altered strategy of development from the normal one. Thus, for example, damage
+to an amphibian embryo, such as removal of part of the tissue which would normally
+form the tail, results in a compensatory response in which other tissue which would
+have become part of the mid-back musculature, say, becomes tail. And such a
+regulatory response occurs irrespective of the nature of the damaging stimulus,
+whether surgery, cauterization, focussed ultrasound or any other method of removing
+tissue. Within certain defined tolerance limits, the response is always appropriate
+to the goal, which is the formation of a complete organism and is independent of
+the type of stimulus acting on the system. It is the property of appropriateness
+relative to an internally defined goal which I take to be the essence of creative
+response, together with the other features of unlimited variety and independence
+of stimuli which do not constitute part of the internal goal-seeking process. Embryos
+have this capacity and so do organisms in their behaviour.
+   Animal behaviour was, in fact, something which Cartesians assumed could be
+explained in strictly mechanical terms, which for them meant the absence of creative
+expression. Therefore in using Cartesian criteria for creativity and concluding that
+organismic behaviour reveals this property, I am contradicting their conclusions.
+It will become evident that I also reject the basic metaphysical dualism of the Car-
+tesians regarding mind and body and it is precisely this dualism which underlies
+their sharp division between creative human expression as revealed in language,
+and organismic behaviour below the human level. My extension of cognitive process
+to the lower levels is consistent with a parallel extension of the concept of creative
+expression; and this requires a concept of perception which is similarly extended
+over the Cartesian one which associates it with thinking, hence with human con-
+sciousness. The abandonment of the Cartesian criteria for identifying the distinctive
+124                                  B. C. Goodwin
+
+features of humafi cognition in terms of creative self-expression does not eliminate
+the problem of accounting for the discontinuity of creative level between the human
+and the biological spheres; it means only that I choose to characterize this dis-
+continuity in other terms. This involves primarily an analysis of symbol use and
+function, of imagination and morality, but I am unable to undertake this here.
+   If the above propositions regarding the creative behaviour of organisms are
+accepted, then the evolutionary process itself, involving the discovery of rules or
+constraints which generate new and successful organisms, is also seen to be creative.
+This involves the process described above, the transformation of symmetry to
+asymmetry by parametric perturbation, subject to the constraint of survival or
+relevance which tends to require the emergence of a higher order symmetry.
+Expressed less technically, this is the process of generating new organisms as a
+creative response to new opportunities which emerge from the on-going nexus of
+organic evolution. In order to make a full transition to the description of biology
+as a creative process, one needs a philosophy which takes the essence of being to
+be creative becoming and which is free of the positivistic and dualistic elements
+which permeate contemporary science. There can be no atoms of substance or
+meaning in a creative process where every element of structure or function is sensi-
+tive to its context, a property which I have elsewhere argued is characteristic of
+biological systems (Goodwin, 1976a, b); and a cognitive biology which assumes
+that organisms have real knowledge of the world requires that the 'subject' possessing
+this knowledge and the 'object' whose properties the knowledge expresses be essen-
+tially similar in nature, not distinct. It is here that one needs definitions of perception
+and experience which describe a continuity of relationship between subject and
+object. A philosophy which satisfies these requirements is that of A. N. Whitehead.
+What I shall do finally in this essay is to explore what I regard as some of the impli-
+cations of an organic philosophy of Whitehead's type, particularly those relating
+to his manner of resolving the body-mind or substance-quality dualism which is
+a prominent feature of contemporary scientific thought, and is a severe hindrance
+to the development of an adequate theory of organism.
+
+
+                          Cognition and creative process
+My own definition of knowledge as a useful description of an aspect of the world
+has itself dualistic overtones, since it can be taken to mean that the description
+need not reproduce the essence of that described, but only represent it in some
+formal sense. My meaning is that knowledge is manifest when there is a re-enact-
+ment of the process which is described, as the biological clock re-enacts the cyclic
+process of the night-day-night transition. The evolutionary history of the organism,
+which includes the experience of these day-night cycles, is embodied in the organ-
+ism's activity. Therefore its knowledge is in its process; it is not something static,
+set aside from this process. Thus instead of a description of the organism's world
+emerging from the organism as subject, which is the Cartesian or the Kantian way
+of looking at knowledge, we have the organism emerging from the world as an
+organised, coherent whole in which knowledge is a constituent of activity: a con-
+straining, ordering constituent, as described above. As Whitehead (1929) has put
+it: 'Descartes in his philosophy conceives the thinker as creating the occasional
+thought. The philosophy of organism inverts the order, and conceives the thought
+as a constituent operation in the creation of the occasional thinker . . . .  In this
+                         A cognitive view of biological process                      125
+
+inversion we have the final contrast between a philosophy of substance and a philo-
+sophy of organism.' The creative process thus realises itself through the organised
+activities of beings. For Whitehead this description applies not only to organisms,
+but to Nature in general, thus avoiding a physical-biological dualism. But we then
+find ourselves in the position of asking what is the nature of these beings if they
+are other than biological organisms; i.e. how are we to recognise other 'actual
+entities' apart from ourselves and other organisms ? We are faced with some kind
+of distinction between the organic and the inorganic, between animate and inanimate.
+Whitehead regards this distinction as fictitious, arising from an abstraction. He also
+appears to deny that there is any significant distinction between organic order and
+mind. This denial results in the important assertion of continuity, of a basic unity
+in the world; but it fails to recognise different levels of creative organisation, and
+to distinguish between them. I have suggested a distinction between biological and
+physical process in terms of the concept of a cognitive system (Goodwin, 1976a);
+but a distinction between organisms and minds requires, I believe, a theory of sym-
+bolic and moral processes which characterises human intelligence and contrasts it
+sharply with the constrained knowledge which operates in organisms. Symbolic
+thought has degrees of freedom not available to processes which employ fixed
+relationships of interpretation and meaning between structures and their descrip-
+tions (reproductions or re-enactments). A brilliant beginning for such a theory of
+symbolism is provided by Sperber (1975).
+   However, despite the necessity for clear distinctions between levels of organisa-
+tional complexity in Nature, I believe that a major consequence of Whitehead's
+philosophy of organism is the resolution of the Cartesian duality in his vision of the
+world as creative process. The fundamental category of being is activity, creative
+activity. In relation to organismic process, knowledge is an essential ordering
+ingredient. Man as an actual entity interacts with every other actual entity, i.e. the
+rest of the universe, and this is how the world can be known, why it is intelligible.
+Knowledge cannot be obtained without this union and the way of science is the
+way of experience. Knowledge comes through the resolution of complication into
+greater and greater simplicity and the art of resolution is the art of life. A cognitive
+biology seeks to bring this vision into clearer perspective. The way is made infinitely
+easier by the extraordinarily penetrating insights of Whitehead.
+
+
+                                        References
+Chomsky, N. (1968). Language and Mind. New York: Harcourt, Brace and World.
+Chomsky, N. (1972). Problems of Knowledge and Freedom. London: Fontana.
+French, V., Bryant, P. J. & Bryant, S. V. (1976). Science 193, 969.
+Goodwin, B. C. (1976a). Analytical Physiology of Cells and Developing Organisms. London:
+  Academic Press.
+Goodwin, B. C. (1976b). Theoria to Theory 10, 33.
+Goodwin, B. C. (1977). In International Workshop on the Cognitive Viewpoint (M. deMey, R.
+  Pinxten, M. Poriau & F. Vandamme, Eds). Belgium: University of Ghent Press, pp. 396-400.
+MacDonald, N. (1977).ff. theoret. Biol. 69, 153.
+Saunders, P. T. & Ho, M. W. (1977).j~. theoret. Biol. 63, 375.
+Sperber, D. (1975). Rethinking Symbolism. Cambridge University Press.
+Whitehead, A. N. (1929). Process and Reality. Cambridge University Press, p. 210.
+

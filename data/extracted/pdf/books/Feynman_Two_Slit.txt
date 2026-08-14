@@ -1,0 +1,358 @@
+         262   My God, He Plays Dice!
+
+
+
+
+                                   o - Sl i t
+                         a n   Tw
+                 Fey n m        m e n t
+                        p e r i
+                     Ex
+Chapter 33
+
+
+
+
+                                                                 This chapter on the web
+                   informationphilosopher.com/solutions/experiments/two-slit_experiment/
+                                                 Feynman’s Two Slits 263
+
+
+Feynman Two-Slit Experiment
+   Richard Feynman said that the two-slit experiment contains
+“all of the mystery” of quantum mechanics.
+      I will take just this one experiment, which has been designed
+      to contain all of the mystery of quantum mechanics, to put you
+      up against the paradoxes and mysteries and peculiarities of
+      nature one hundred per cent. Any other situation in quantum
+      mechanics, it turns out, can always be explained by saying,
+      ‘You remember the case of the experiment with the two holes?
+      It’s the same thing’ I am going to tell you about the experiment
+      with the two holes. It does contain the general mystery; I am
+      avoiding nothing; I am baring nature in her most elegant and
+      difficult form. 1
+   We will show that the two-slit experiment does contain the key
+mystery of quantum mechanics, but it’s not exactly what Feyn-
+man described in 1964. It is connected to the new mystery of
+“entanglement.” Feynman’s mystery was simply how a particle can
+interfere with itself if it goes through only one slit. Our view is that
+the particle goes through one slit. We show that it is the probability
+
+
+
+
+                                                                           Chapter 33
+amplitude of the wave function that is interfering with itself.
+   We are making use of Einstein’s vision of an “objective reality.”
+We say the motion of an individual particle of matter or energy
+obeys fundamental conservation principles - conservation of all
+a particle’s properties. This means the particle path exists and it is
+smooth and continuous in space and time, even if it impossible to
+measure the path, to determine its position without disturbing it.
+   This claim is very controversial, because Werner Heisenberg’s
+description of the Copenhagen Interpretation insists that “the
+path only comes into existence when we measure it.”
+   Einstein said that claiming a particle has no position just before
+we measure it is like saying the moon only exists when we are
+looking at it! That it is impossible to know the path of a particle
+without measuring it does not mean that a path does not exist.
+
+
+  1       Feynman, 1967, chapter 6
+         264     My God, He Plays Dice!
+
+                  We are left with the mystery as to how mere “probabilities” can
+               influence (statistically control) the positions of material particles
+               - how immaterial information can affect the material world. This
+               remains the deep metaphysical mystery in quantum mechanics.
+                  There is something similar in quantum entanglement, where
+               measurement of one particle appears to transmit something to
+               the other “entangled” particle. In the two-slit experiment it is the
+               value of the wave function at one place “influencing” the location
+               where the particle appears. In entanglement, the collapse of the
+               two-particle wave function leaves the spin components ot the two
+               particles correlated perfectly.
+                  Like Einstein’s 1927 description of nonlocality, both of these
+               involve the “impossible” simultaneity of events in a spacelike
+               separation.
+                  In the two-slit experiment, just as in the Dirac Three Polarizers
+               experiment,2 the critical case to consider is just one photon or
+               electron at a time in the experiment.
+                  With one particle at a time (whether photon or electron), the
+               quantum object is mistakenly described as interfering with itself,
+Chapter 33
+
+
+
+
+               when interference is never seen in a single event. It only shows
+               up in the statistics of large numbers of experiments. Indeed,
+               interference fringes are visible even in the one-slit case, although
+               this is rarely described in the context of the quantum mysteries.
+                  It is the fundamental relation between a particle and the
+               associated wave that controls its probable locations that raises the
+               “local reality” question first seen in 1905 and described in 1909 by
+               Einstein. Thirty years later, the EPR paper and Erwin Schrödinger’s
+               insights into the wave function of two entangled particles, first
+               convinced a few physicists that there was a deep problem .
+                  It was not for another seventeen years that David Bohm
+               suggested an experimental test of EPR and thirty years before
+               John Stewart Bell in 1964 imagined an “inequality” that could
+               confirm or deny quantum mechanics. Ironically, the goal of Bell’s
+               “theorem” was to invalidate the non-intuitive aspects of quantum
+               mechanics and restore Einstein’s hope for a more deterministic
+               picture of an “objective reality” at, or perhaps even underlying
+               below, the microscopic level of quantum physics.
+                 2    See chapter 19.
+                                            Feynman’s Two Slits 265
+
+   At about the same time, in his famous Lectures on Physics at Cal
+Tech and the Messenger Lectures at Cornell, Feynman described
+the two-slit experiment as demonstrating what has since been
+described as the “only mystery” of quantum mechanics.
+   How, Feynman asked, can the particle go through both slits?
+We will see that if anything goes through both slits it is only
+immaterial information - the probability amplitude wave function.
+The particle itself always goes through just one slit. A particle
+cannot be divided and in two places at the same time. It is the
+probability amplitude wave function that interferes with itself.
+   A highly localized particle can not be identified as the wave
+widely distributed in space. We will show that the wave function
+is determined by the boundary conditions of the measuring
+apparatus. It has nothing to do with whether or not a particle is in
+the apparatus, though it depends on the wavelength of the particle.
+   The immaterial wave function exerts a causal influence over the
+particles, one that we can justifiably call “mysterious.” It results
+in the statistics of many experiments agreeing with the quantum
+mechanical predictions with increasing accuracy as we increase
+the number of identical experiments.
+
+
+
+
+                                                                          Chapter 33
+   It is this “influence,” no ordinary “force,” that is at the heart of
+Feynman’s “mystery” in quantum mechanics.
+   We will show that the probability of finding particles at different
+places in the two-slit experiment is determined by solving the
+Schrödinger equation for its eigenvalues and eigenfunctions
+(wave functions and probability amplitudes), given the boundary
+conditions of the experiment.
+   The wave function and its probabilities depend on the boundary
+conditions, such as whether one slit is open or two. They do not
+depend on whether a particle is actually present, though the
+calculations depend on the wavelength of a particle.
+   The two-slit experiment shows better than any other experiment
+that a quantum wave function is a probability amplitude that
+interferes with itself, producing some places where the probability
+(the square of the absolute value of the complex probability
+amplitude) of finding a quantum particle is actually zero.
+         266       My God, He Plays Dice!
+
+                  Perhaps the most non-intuitive aspect of the two-slit experiment
+               is this. When we see the pattern of light on the screen with just one
+               slit open, then open the second slit - admitting more light into the
+               experiment - we observe that some places on the screen where there
+               was visible light, have now gone dark! And this happens even when
+               we are admitting only one particle of light at a time.
+                  Let’s remind ourselves about how the crests and troughs of water
+               waves interfere, and then how Feynman presented the two-slit
+               experiment to students in his famous Lectures on Physics.
+                  Let’s look first at the one-slit case. We prepare a slit that is about
+               the same size as the wavelength of the light in order to see the
+               interference of waves most clearly. Parallel waves from a distant
+               source fall on the slit from
+               below. The diagram shows
+               how the wave from the left
+               edge of the slit interferes with
+               the one from the right edge.
+               If the slit width is d and the
+               photon wavelength is λ, at an
+               angle α ≈ λ/2d there will be
+Chapter 33
+
+
+
+
+               destructive interference.
+                  At an angle α ≈ λ/d, there is constructive interference (which
+               shows up as the fanning out of light areas in the interfering waves
+               in the illustration). The diagram indicates constructive interference
+               between the 7th and 8th waves from the left and right sides of the
+               slit.
+                  Feynman began with a description of bullets fired at a screen with
+               two holes, arguing
+               that bullets do not
+               interfere,          he
+               showed that the
+               pattern with two
+               holes      open      is
+               simply the sum of
+               the results from
+               one hole or the
+               other hole open.
+               P12 = P1 + P2
+                                             Feynman’s Two Slits 267
+
+  He then described the results for water waves.
+
+
+
+
+   Here the individual results I1 and I2 for one or the other hole
+open do not simply add up. The individual wave intensities are the
+squares of the amplitudes - I1 = |h1|2, I2 = |h2|2. Instead they show
+the cancellation of crests and troughs that produce constructive and
+destructive interference. The formula is I12 = |h1 + h2|2. This has the
+same pattern of bright and dark areas that are found in the “fringes”
+
+
+
+
+                                                                          Chapter 33
+of light at the sharp edges of an object.
+   Feynman next shows how a two-slit experiment using electrons
+does not behave like bullets, but instead looks just like water waves,
+or light waves. He then shows that the mathematics is the same as
+for water waves. But he says “It is all quite mysterious. And the more
+         268       My God, He Plays Dice!
+
+               you look at it the more mysterious it seems.” “How can such an
+               interference come about?”, he asks. “Perhaps...it is not true that the
+               lumps go either through hole 1 or hole 2.” He says
+                  We conclude the following: The electrons arrive in lumps,
+                  like particles, and the probability of arrival of these lumps is
+                  distributed like the distribution of intensity of a wave. It is in this
+                  sense that an electron behaves “sometimes like a particle and
+                  sometimes like a wave”...
+                  The only answer that can be given is that we have found from
+                  experiment that there is a certain special way that we have to
+                  think in order that we do not get into inconsistencies. What we
+                  must say (to avoid making wrong predictions) is the following.
+                  If one looks at the holes or, more accurately, if one has a piece
+                  of apparatus which is capable of determining whether the
+                  electrons go through hole 1 or hole 2, then one can say that it
+                  goes either through hole 1 or hole 2. But, when one does not try
+                  to tell which way the electron goes, when there is nothing in the
+                  experiment to disturb the electrons, then one may not say that
+                  an electron goes either through hole 1 or hole 2. If one does say
+                  that, and starts to make any deductions from the statement, he
+                  will make errors in the analysis. This is the logical tightrope on
+Chapter 33
+
+
+
+
+                  which we must walk if we wish to describe nature successfully.
+                  Einstein was deeply bothered by this Copenhagen thinking that
+               claims that we cannot know the particle path, that a path does not
+               even exist until we make a measurement, that the particle may be
+               in more than one place at the same time, maybe dividing and going
+               through both slits, etc.
+                  So let’s combine conservation principles with Einstein’s view that
+               it is the wave function that determines the probability and the
+               statistics of particle positions for a large number of experiments (he
+               called it an “ensemble”).
+                  We can then argue, corresponding to Einstein’s idea of an
+               “objective reality,” that the particle of matter or energy always goes
+               through just one slit in a continuous, though unknown path.
+                  But whichever slit the particle enters, the probability of finding
+               it at a specific location inside the apparatus is determined by the
+               square of the absolute value |Ψ|2 of the complex probability ampli-
+               tude at that location.
+                                            Feynman’s Two Slits 269
+
+   The probability amplitude is the solution to the Schrödinger
+equation given the boundary conditions. And the boundary
+conditions depend on whether one or two slits are open!
+   We can thus overcome Feynman’s difficulties, his inconsistencies,
+his “special way to think,” and his “logical tightrope.” Mostly,
+Einstein’s reality view denies an electron behaves “sometimes like a
+particle and sometimes like a wave.” The particle is real. The wave is
+an accurate theory about the particle’s behavior.
+   We may never be able to measure the specific location of an
+electron in an atomic orbit. But the wave function gives us all the
+information we need about atomic orbitals to do the quantum
+mechanics of atoms and possible molecules, with their nodal
+surfaces, just like the nodes in the two-slit interference pattern.
+   Let’s compare the wave functions inside the two-slit apparatus
+when one slit or two slits are open.
+   With one slit open we see the classic Fraunhofer pattern with
+their light zones of constructive interference and dark zones where
+the waves are one-half wavelength different, so the crest of one
+wave cancels the trough of the other. Many texts mistakenly say that
+
+
+
+
+                                                                         Chapter 33
+interference is only possible with two slits open.
+         270         My God, He Plays Dice!
+
+                  With two slits open we can still see the overall shape of the single-
+               slit Fraunhofer pattern with its broad central maximum, but now
+
+
+
+
+               multiple interference fringes appear.
+                  We claim that this interference pattern does not depend
+               on which slit the particle enters, but only on the probability
+Chapter 33
+
+
+
+
+               amplitude of the wave function that solves the Schrödinger equation
+               inside the experimental apparatus, given the boundary conditions,
+               viz., which slits are open. 3
+                  While this picture eliminates the question of which slit the par-
+               ticle enters, it does not eliminate the deeper metaphysical mystery of
+               how the immaterial information in the wave function can influence
+               the particle paths and positions, one particle at a time, to produce
+               the distribution of particles observed in the statistics of large num-
+               bers of particles.
+                  But Einstein always said quantum mechanics is a statistical
+               theory. And he was first to say very clearly that the waves, later the
+               wave functions, are guiding the particles. He said the waves are a
+               guiding field - a Führungsfeld.
+                  It is this mystery, how abstract information can control con-
+               crete objects, not Feynman’s worry about how a single particle
+               can go through both slits, that is the deepest mystery in quantum
+               mechanics.
+                 3     David Bohm had a similar view. See chapter 30.
+                                             Feynman’s Two Slits 271
+
+Feynman’s Path-Integral Formulation of Quantum Mechanics
+   In 1948 Feynman developed his “sum over paths” approach to
+quantum mechanics. It was based on a 1933 article by P. A. M. Dirac
+to formulate quantum mechanics using a Lagrangian function rather
+than the standard Hamiltonian, and to use a variational method to
+solve for the least action. It involves calculations over all space.
+   The idea of a single path for a quantum system (for example, the
+path of an electron or photon in the two-slit experiment) is replaced
+with a sum over an infinity of quantum-mechanically possible paths
+to compute the probability amplitude. The path-integral method is
+equivalent to the other formalisms of quantum mechanics but its
+visualization shows how it can sense when both slits are open.
+   Feynman’s calculation of the probability amplitude for a particle
+entering say the left slit, and arriving at a specific point on the
+detector screen, is the result of adding together contributions from
+all possible paths in configuration space, however strange the paths.
+   Each path contributes a function of the time integral of the
+Lagrangian along the path. In Feynman’s approach and in the
+transaction interpretations of quantum mechanics by John Cramer
+
+
+
+
+                                                                           Chapter 33
+and Ruth Kastner, some paths explore the open slits.
+   The resulting probability amplitude is different at the back screen
+when one or both slits are open, just as we see in Einstein’s “objective
+reality” way of analyzing the problem.
+   In order for the state of the slits to “influence” the motion of each
+individual particle to produce the statistical interference pattern
+that shows up for many particles, the wave function has to “know”
+its value at every point inside the two-slit experiment.
+

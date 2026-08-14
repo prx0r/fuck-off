@@ -1,0 +1,538 @@
+# AMERICAN
+
+**source:** pdf · **section:** solutions
+**file:** Jaynes_Gibbs_Boltzmann
+---
+
+                                  JOURNAL
+                       RnttKuili of PHYSICS
+
+             Gibbs vs Boltzmann Entropies
+             E. T.Jaynes
+
+             Citation: American Journal of Physics 33, 391 (1965); doi: 10.1119/1.1971557
+             View online: http://dx.doi.Org/10.1119/1.1971557
+             View Table of Contents: http://scitation.aip.org/content/aapt/journal/ajp/33/5?ver=pdfcov
+             Published by the American Association of Physics Teachers
+
+             Articles you may be interested in
+             Gibbs, Boltzmann, and negative temperatures
+             Am. J. Phys. 83, 163(2015); 10.1119/1.4895828
+
+             Communication: System-size scaling of Boltzmann and alternate Gibbs entropies
+             J. Chem. Phys. 140, 201101 (2014); 10.1063/1.4879553
+
+             Gibbs entropy and dynamics
+             Chaos 18, 023116 (2008); 10.1063/1.2907731
+
+             Two-parameter generalization of the logarithm and exponential functions and Boltzmann-Gibbs-Shannon
+             entropy
+             J. Math. Phys. 48, 113301 (2007); 10.1063/1.2801996
+
+             Forces, Uncertainty, and the Gibbs Entropy
+             Am. J. Phys. 36, 625(1968); 10.1119/1.1975035
+
+                                                                       American Association of Physics Teachers
+                       I AAPT >
+                                                                        Explore the AAPT C a r e e r Center -
+                                                                        access hundreds of physics education and
+                                                                        other STEM teaching jobs ot two-year and
+                                                                         four-year colleges and universities.
+
+                                                                          http://job        :KIIIHIII
+
+This article is copyrighted as indicated in the article. Reuse of AAPT content is subject to the terms at: http://scitation.aip.org/termsconditions. Downloaded to IP:
+                                                            128.103.149.52 On: Tue, 04 Aug 2015 18:58:03
+                                                CURVED           SPACE           AND     GRAVITATION.                I                         391
+
+                     theory implies only a space dependence. If it is                  fact does appear through the application of
+                     discovered that there should indeed be a velocity                 special relativity, which requires that no object
+                     dependence in the acceleration, then we are led                   accelerate beyond the speed of light. In Part II
+                     to the curved space-time idea as a possible way                   of this paper, we investigate the incorporation
+                     of describing the motion. This dependency in                      of special relativity.
+
+                                                            Gibbs vs Boltzmann Entropies*
+                                                                            E.   T.   JAYNES
+                                                 Department of Physics, Washington University, St. Louis, Missouri
+                                                    (Received 27 March 1964; in final form, 5 November 1964)
+
+                                     The status of the Gibbs and Boltzmann expressions for entropy has been a matter of some
+                                  confusion in the literature. We show t h a t : (1) the Gibbs Hfunction yields the correct entropy
+                                  as defined in phenomenological thermodynamics; (2) the Boltzmann H yields an "entropy" that
+                                  is in error by a nonnegligible amount whenever interparticle forces affect thermodynamic
+                                  properties; (3) Boltzmann's other interpretation of entropy, S = k log W, is consistent with the
+                                  Gibbs H, and derivable from it; (4) the Boltzmann H theorem does not constitute a demon-
+                                  stration of the second law for dilute gases; (5) the dynamical invariance of the Gibbs H gives
+                                  a simple proof of the second law for arbitrary interparticle forces; (6) the second law is a special
+                                  case of a general requirement for any macroscopic process to be experimentally reproducible.
+                                  Finally, the "anthropomorphic" nature of entropy, on both the statistical and phenomeno-
+                                  logical levels, is stressed.
+
+                                       I. INTRODUCTION                                    While it takes very little thought to see that
+                                                                       1               objections to the Gibbs II are immediately re-
+                     T N the writer's 1962 Brandeis lectures on sta-
+                                                                                       futed by the fact that the Gibbs canonical en-
+                     -*• tistical mechanics, the Gibbs and Boltzmann
+                                                                                       semble does yield correct thermodynamic pre-
+                     expressions for entropy were compared briefly,
+                                                                                       dictions, discussion with a number of physicists
+                     and it was stated that the Gibbs formula gives
+                                                                                       has disclosed a more subtle, but more wide-
+                     the correct entropy, as defined in phenomeno-
+                                                                                       spread, misconception. The basic inequality of the
+                     logical thermodynamics, while the Boltzmann H
+                                                                                       Gibbs and Boltzmann H functions, to be derived
+                     expression is correct only in the case of an ideal
+                                                                                       in Sec. II, was accepted as mathematically cor-
+                     gas. However, there is a school of thought which
+                                                                                       rect ; but it was thought that, in consequence of
+                     holds that the Boltzmann expression is directly
+                                                                                       the "laws of large numbers" the difference be-
+                     related to the entropy, and the Gibbs' one simply
+                                                                                       tween them would be practically negligible in
+                     erroneous. This belief can be traced back to the
+                                                                                       the limit of large systems.
+                     famous Ehrenfest review article, 2 which severely
+                     criticized Gibbs' methods.                                           Now it is true that there are many different
+                                                                                       entropy expressions that go into substantially
+                        * Supported by the National Science Foundation Grant           the same thing in this limit; several examples
+                     NSF G23778.                                                       were given by Gibbs. However, the Boltzmann
+                        1
+                          Statistical Physics (1962 Brandeis Theoretical Physics
+                     Lectures, Vol. 3), edited by K. W. Ford (W. A. Benjamin,          expression is not one of them; as we prove in
+                      Inc., New York, 1963), Chap. 4. Note t h a t typographical       Sec. I l l , the difference is a direct measure of the
+                     errors occur in Eqs. 20, 49, 74, 78, 94, and the inequality
+                     preceding Eq. 90.                                                 effect of interparticle forces on the potential
+                        2
+                          P. Ehrenfest and T. Ehrenfest, Encykl. Math. Wiss.,          energy and pressure, and increases proportionally
+                     IV 2, II, Issue 6 (1912). Reprinted in Paul Ehrenfest,
+                     Collected Scientific Papers, edited by M. J. Klein (North-        to the size of the system.
+                     Holland Press, Amsterdam, 1959). English translation by              Failure to recognize the fundamental role of
+                     M. J. Moravcsik, The Conceptual Foundations of the
+                     Statistical Approach in Mechanics (Cornell University             the Gibbs H function is closely related to a much
+                     Press, Ithaca, New York, 19591,                                   deeper confusion about entropy, probability,
+
+This article is cc                    ted in the article. Reuse of AAPT content is subject to the terms at: http://scitation.aip.orgAermsconditions. Dow
+                                                             128.103.149.52 On: Tue, 04 Aug 2015 18:58:03
+                     392                                             E.   T.     JAYNES
+
+                     and irreversibility in general. For example, the             established proposition that the Gibbs canonical
+                      Boltzmann H theorem is almost universally                   ensemble does yield the correct equilibrium
+                     equated to a demonstration of the second law of              thermodynamics, then there is logically no room
+                     thermodynamics for dilute gases, while ever                  for any assumption about which quantity repre-
+                     since the Ehrenfest criticisms, it has been                  sents entropy; it is a question of mathematically
+                     claimed repeatedly that the Gibbs H cannot be                demonstrable fact. But as soon as we have under-
+                     related to the entropy because it is constant in             stood the relation between Gibbs' H and the
+                     time.                                                        experimental entropy, Eq. (17) below, it is
+                        Closer inspection reveals that the situation is           immediately obvious that the constancy of
+                     very different. Merely to exhibit a mathematical             Gibbs' H, far from creating difficulties, is pre-
+                     quantity which tends to increase is not relevant             cisely the dynamical property we need for the
+                     to the second law unless one demonstrates that               proof.
+                     this quantity is related to the entropy as meas-                It is interesting that, although this field has
+                     ured experimentally. But neither the Gibbs nor               long been regarded as one of the most puzzling
+                     the Boltzmann H is so related for any distribu-              and controversial parts of physics, the difficulties
+                     tion other than the equilibrium (i.e., canonical)            have not been mathematical. Each of the above
+                     one. Consequently, although Boltzmann's H                    assertions is proved below or in the Brandeis
+                     theorem does show the tendency of a gas to go                lectures, using only a few lines of elementary
+                     into a Maxwellian velocity distribution, this is             mathematics, all of which was given by Gibbs.
+                     not the same thing as the second law, which is a             It is the enormous conceptual difficulty of this
+                     statement of experimental fact about the direc-              field which has retarded progress for so long.
+                     tion in which the observed macroscopic quantities            Readers not familiar with recent developments
+                      (P,V,T) change.                                             may, I hope, be pleasantly surprised to see how
+                        Past attempts to demonstrate the second law               clear and basically simple these problems have
+                     for systems other than dilute gases have generally           now become, in several respects. However, as we
+                     tried to retain the basic idea of the Boltzmann              will see, there are still many complications and
+                     H theorem. Since the Gibbs H is dynamically                  unsolved problems.
+                     constant, one has resorted to some kind of coarse-              Inspection of several statistical mechanics
+                     graining operation, resulting in a new quantity              textbooks showed that, while most state the
+                     H, which tends to decrease. Such attempts can-               formal relations correctly, their full implications
+                     not achieve their purpose, because (a) mathe-                are never noted. Indeed, while all textbooks give
+                     matically, the decrease in H is due only to the              extensive discussions of Boltzmann's H, some
+                     artificial coarse-graining operation and it cannot,          recent ones fail to mention even the existence of
+                     therefore have any physical significance; (b) as             the Gibbs H.d I was unable to find any explicit
+                     in the Boltzmann H theorem, the quantity whose
+                                                                                  mathematical demonstration of their difference.
+                     increase is demonstrated is not the same thing
+                                                                                  It appeared, therefore, that the following note
+                     as the entropy. For the fine-grained and coarse-
+                                                                                  might be pedagogically useful.
+                     grained probability distributions lead to just the
+                     same predictions for the observed macroscopic
+                     quantities, which alone determine the experi-                              II. THE BASIC INEQUALITY
+                     mental entropy; the difference between H and H
+                     is characteristic, not of the macroscopic state,                We consider, as usual, a monoatomic fluid of N
+                     but of the particular way in which we choose to              particles. The ensemble is defined by the N-
+                     coarse-grain. Any really satisfactory demonstra-             particle distribution function, or Liouville func-
+                     tion of the second law must therefore be based on            tion, WN(XI,PI; Xz,p2', • • •; XN,PN\ t) which gives
+                     a different approach than coarse-graining.                   the probability density in the full phase space of
+                        Actually, a demonstration of the second law,                 3
+                                                                                       A notable exception is the monumental work of R. C.
+                     in the rather specialized situation visualized in            Tolman, The Principles of Statistical Mechanics (Oxford
+                                                                                  University Press, London, 1938). Tolman repeatedly
+                     the aforementioned attempts, is much simpler                 stresses the superiority of Gibbs' approach, although he
+                     than any H theorem. Once we accept the well-                 still attempts to base the second law on coarse-graining.
+
+This article is cc                  ted in the article. Reuse of AAPT content is subject to the terms at: http://scitation.aip.orgAermsconditions. Dow
+                                                           128.103.149.52 On: Tue, 04 Aug 2015 18:58:03
+                                                        GIBBS          VS BOLTZMANN                       ENTROPIES                                      393
+
+                 t h e system. T h e Gibbs II is t h e n                                        equality if a n d only if x= 1. Therefore
+
+                                                                                                                           -Wi(l)- • -Wi(rv)
+                                       HG=      \WN\ogWNdr                               (1)       H*-HQ<           WN                             •1   = 0,
+                                                                                                                             WN(l---N)
+
+                 a n d t h e corresponding B o i t z m a n n II is                              a n d we have proved
+                                                                                                    Theorem 1: T h e Gibbs a n d B o i t z m a n n II func-
+                                      HB = N I W\ \o%W\dr\,                               (2)   tions satisfy t h e inequality
+
+                                                                                                                           HB<HQ,                        (5)
+                 where W\{x\,px\i)             is t h e single-particle proba-                  with equality if a n d only if WN factors " a l m o s t
+                 bility d e n s i t y                                                           e v e r y w h e r e " into a p r o d u c t of single-particle
+                                                                                                functions
+                                    Wi(xi,pi\t)=          / WNCLT-.!                     (3)
+                                                                                                            WN(l---N)        =        w1(l)---w1(N).
+                 H e r e a n d in t h e following, we use t h e n o t a t i o n :
+                 d,T = d3xi- • •d3pN,dTi = d3x1(Ppi,dT-i = ddX2- • -d3pN                                     III. CANONICAL ENSEMBLE
+                 to s t a n d for phase-volume elements in t h e full                              T h e o r e m 1 holds for a n y symmetrical WN. T h e
+                 phase space, t h e space of one particle, a n d t h e                          m a g n i t u d e of t h e difference (HQ — HB) depends
+                 space of all particles except one, respectively.                               on t h e distribution function, a n d we a r e particu-
+                     B o t h t h e Gibbs a n d B o i t z m a n n H functions                    larly interested in t h e case of t h e r m a l equilib-
+                 are often defined in slightly different w a y s , in                           rium, represented b y t h e canonical distribution
+                 which one uses distribution functions with differ-                             TTy/~exp( — BIT), where /3= (kT)"1 a n d H is t h e
+                 e n t normalizations. T h i s changes t h e numerical                          H a m i l t o n i a n , t a k e n of t h e form
+                 values b y additive c o n s t a n t s which, for fixed N,
+                                                                                                                     iv pp
+                 are i n d e p e n d e n t of t h e t h e r m o d y n a m i c s t a t e a n d
+                                                                                                               H=Z                  +V(Xl---xN),          (6)
+                 therefore n o t r e l e v a n t t o t h e present discussion.
+                                                                                                                     •i=i 2m
+                 T h e s e additive c o n s t a n t s are i m p o r t a n t , however,
+                 in connection with t h e " G i b b s p a r a d o x " a b o u t                 where t h e potential-energy function V(xi- xN)
+                 e n t r o p y of mixing, a n d t h e resolution of this                        is a symmetrical function of t h e particle coordi-
+                 p a r a d o x b y q u a n t u m statistics is well known.                      nates, which we suppose for simplicity d e p e n d s
+                 T h e distribution functions used a b o v e a r e under-                       only t h e relative coordinates (relaxing this
+                 stood t o b e probability densities; i.e., normalized                          restriction b y adding gravitational potential
+                 according t o J'WNdr = fwldr1                    = l.                          energy leads t o a n u m b e r of interesting results,
+                                                                                                b u t does n o t change t h e conclusions of this
+                     Using (3) a n d t h e fact t h a t WN is s y m m e t r i c
+                                                                                                section). M o r e explicitly, we h a v e
+                 u n d e r p e r m u t a t i o n s of particle labels, we c a n
+                 write H-B in a more symmetrical form
+                                                                                                WN=[                C2-i
+                           HB = N          WN logWi (x-L,pi)dT
+
+                                                                                                            Xexp\-pV(x1---xir)-8               2Z— .     (7)
+                                                                                                                                                i 2ml
+                                 = / WN l o g [ > i ( l ) • • -wi(N)~\dT,
+                                                                                                where
+
+                 where we use t h e a b b r e v i a t i o n : (i) = (xi,pi).. W e                        <2(fi,0)= J         exp(-8V)d3Xi- •d3xu
+                 have, t h e n ,
+                                                     - w i ( l ) - • •w 1 (iV)-
+                     HB~HQ,              BGlog                                    dr.    (4)                     = 0 / e x p ( - 8 V)dsx2 • • • d3xN      (8)
+                                                        WN(1---N)                                                   Ja
+
+                 N o w on t h e positive real axis, l o g x < (x—1),                    with    is t h e "configuration integral," a n d in t h e last
+
+This article is cc                      ted in the article. Reuse of AAPT content is subject to the terms at: http://scitation.aip.orgAermsconditions. Dow
+                                                                  128.103.149.52 On: Tue, 04 Aug 2015 18:58:03
+                     394                                                      T.      JAYNES
+
+                     expression we have made use of the fact that V                       Over the reversible path (13) the Boltzmann
+                     depends only on relative coordinates, and                            entropy therefore varies according to
+                     supposed the range of interparticle forces negli-
+                     gibly small compared to the size of the container,                                                     d(K)+PodQ
+                                                                                                  (5B)*-(5B)I =                          I      (14)
+                     so that the final integration supplies only a                                                              T
+                     factor 12. From (3), the corresponding single-
+                     particle function is then                                        and from (13), (14) we finally have for the Gibbs
+                                                                                      entropy
+                           ii>i(x,p) = (j8/27rw)3'2fi-1 exp(-pkp 2 /2m).        (9)                          r*d(K+V)+(P}dV
+                                                                                                (5Q)2-(5Q)1=/
+                     We therefore have                                                                            JI             T
+                                                                                      7                                 2
+                           |>i(l) • • • Wi(JV)]/Wv(l • • -N) = oar"/* ,                                                  dQ
+                                                                                                                                                (15)
+                     and (4) reduces to                                                                             i       T
+
+                               i J B - i ? G = log(2-iVlogn+/3(F>,            (10)       Equations (14), (15) are the main results
+                                                                                      sought. From them it is clear that (a) the
+                     where the angular brackets ( ) denote the                        "Boltzmann entropy" is the entropy of a fluid
+                     canonical ensemble average. It is also true that                 with the same density and temperature, but
+                                           (V)=-dlogQ/d0,                    (11a)    without interparticle forces; it completely ne-
+                                                                                      glects both the potential energy and the effect of
+                                      0(P) = dlogQ/dQ,                       (lib)    interparticle forces on the pressure; (b) the
+                     where P is the pressure; Eq. (11) are well-known                 Gibbs entropy is the correct entropy as defined
+                     identities of the canonical ensemble. From (10),                 in phenomenological thermodynamics, which
+                     (11), we thus find that on an infinitesimal change               takes into account all the energy and the total
+                     of state,                                                        pressure, and is therefore equally valid for the
+                                                                                      gas or condensed phases; (c) the difference be-
+                            d(HB-HQ)=pd(V}+p£(P)-P0-](m,                      (12)    tween them is not negligible for any system in
+                                                                                      which interparticle forces have any observable
+                     where P0=NkT/Q is the pressure of an ideal gas                   effect on the thermodynamic properties. If the
+                     with the same temperature and density. Intro-                    system exhibits an equation of state or heat
+                     ducing the "entropies" Si= —kHi and integrat-                    capacity different from those of an ideal gas, the
+                     ing (12) over a reversible path (i.e., a locus of                Boltzmann entropy will be in error by a corre-
+                     equilibrium states), we see that the difference                  sponding amount.
+                     varies according to
+
+                     (5)} — SB)2    (SG    — OB) I                                                     IV. THE SECOND LAW
+
+                                              "id(V) +        l{P)-Po]dU                 We can now demonstrate the second law very
+                                                                              (13)    easily, for the specialized case usually considered.
+                                                              T
+                                                                                      The following argument can be greatly general-
+                     Now from (9), using (p2) = 2>mkT, we find that                   ized, although we do not do so here.
+                                                                                         It is well known 1 that the canonical distribu-
+                           SB = §Nk log(2TrmkT)+Nk                logQ+^Nk,           tion (7) is uniquely determined by a variational
+                     from which                                                       property; over all distributions WN that agree
+                                                                                      with the experimental energy U, in the sense that
+                                   /dSB\             3 NkdT           d(K)            the mean value of the Hamiltonian is
+                                   \dT/a             I T              T
+                                   /dSB              Nk       P0dQ                                      (H}= /          WNHdr=U,                (16)
+                                           ) da = — d Q =              ,
+                                   \ dQ IT           12           T
+                                                                                          the Gibbs H attains an absolute minimum for the
+                     where (K) = %NkT is the total kinetic energy.                        canonical distribution. For this case, we have
+
+This article is cc                     ted in the article. Reuse of AAPT content is subject to the terms at: http://scitation.aip.orgAermsconditions. Dow
+                                                              128.103.149.52 On: Tue, 04 Aug 2015 18:58:03
+                                                GIBBS        VS     BOLTZMANN                ENTROPIES                                       395
+
+                     just shown that, if the arbitrary additive con-              mann's Interpretation S = klog W is to be com-
+                     stant is properly adjusted at a single point, then           patible with Gibbs' S——kHQ, it must be true
+                     the Gibbs entropy SQ = — kHa will be the same                that the quantity B y =exp(— HQ) measures, in
+                     as the experimental entropy at all points. There-            some sense, the phase volume of "reasonably
+                     fore, the general relation between SQ and the                probable" microstates.
+                     experimental entropy Se is: over all distributions              Such a connection can be established as
+                     WN that agree with the experimental energy in                follows. Define a "high-probability" region R of
+                     the sense of (16), we have                                   phase space, consisting of all points where
+                                                                                  WN > C, and choose the constant C so that the
+                                           Sa^Se                          (17)    total probability of finding the system somewhere
+                                                                                  in this region is (1—e), where 0 < e < l . Call the
+                     with equality if, and only if, ofo is computed from
+                                                                                  phase volume of this region W{t); in equations,
+                     the canonical distribution (7).
+                        At time t~Q, let our system be in complete
+                     thermal equilibrium so that all its reproducible                                      Wifdr   = 1—6,
+                     macroscopic properties are represented by the
+                     canonical distribution; then the equality holds
+                     in (17). Now force the system to carry out an                                           I dr= TT(e).
+                     adiabatic change of state (i.e., one involving no                                      JR
+                     heat flow to or from its environment), by appyl-             Evidently, with a continuously varying proba-
+                     ing some time-dependent term in the Hamil-                   bility density WN, it is not strictly meaningful
+                     tonian (such as moving a piston or varying a                 to speak of the "phase volume of an ensemble,"
+                     magnetic field). It is well known that the TV-               without qualifications; but the "minimum phase
+                     particle distribution function varies according              volume of 50% probability" or the "minimum
+                     to the Liouville equation WN = {H(}),WN}      where          phase volume of 99% probability" do have
+                     the right-hand side is the Poisson bracket; and              precise meanings.
+                     in consequence HQ remains constant.
+                                                                                     A remarkable limit theorem first noted by
+                   At a later time t', the system is allowed to come              Shannon 6 shows that for most purposes the
+                 once more, but still adiabatically, to equilibrium               particular probability level e is unimportant. We
+                 (which means experimentally that macroscopic                     quote the result without proof; it is an adapta-
+                 quantities such as pressure or magnetization are                 tion of the fundamental "asymptotic equi-
+                 no longer varying), so that a new experimental                   partition property" (AEP) of Information
+                 entropy SJ can be defined. If the time-developed                 Theory. 6 We suppose that the distribution func-
+                 distribution function Wtf(t') leads to a correct                 tion Wn from which HQ and W{t) are computed
+                 prediction of the new energy U' in the sense of                  is either a canonical distribution or a time-
+                 (16), then the inequality (17) still holds. The                  developed version of one resulting from some
+                 fact that HQ is a constant of the motion then                    dynamical perturbation; and that the system is
+                 gives Se<Se', which is the second law.                           such that the canonical ensemble predicts rela-
+                                                                                  tive fluctuations in energy which tend to zero as
+                      V. INTUITIVE MEANING OF T H E SECOND LAW                    N~112 in the "thermodynamic limit" as IV—> oo
+                    The above proof has the merit of being almost                 at constant density. The Gibbs H per particle,
+                 unbelievably short, but partly for that reason,                  HQ/N, then approaches a definite limit, and
+                 the physical basis of the second law is not made
+                                                                                               lim      {[Ha+logW(e)yN} = 0                 (18)
+                 clear. In the following we are not trying to give                             JV-»oo
+                 a rigorous mathematical demonstration; that has                    4
+                                                                                      E . T. Jaynes, Phys. Rev. 108, 171 (1957).
+                 just been done. We are trying rather to exhibit                     5
+                                                                                      C. E. Shannon, Bell Syst. Tech. J. 27, 379, 623 (1948);
+                 the basic intuitive reason for the second law. We                reprinted in C. E. Shannon and. W. Weaver, The Mathe-
+                                                                                  matical Theory of Communication (University of Illinois
+                 recall Boltzmann's original conception of entropy                Press, Urbana, Illinois, 1949). See, particularly, Sec. 21.
+                                                                                    6
+                 as measuring the logarithm of phase volume                           A. Feinstein, Foundations of Information           Theory
+                                                                                  (McGraw-Hill Book Company, Inc., New York, 1958),
+                 associated with a macroscopic state. If Boltz-                   Chap. 6.
+
+This article is cc                  ted in the article. Reuse of AAPT content is subject to the terms at: http://scitation.aip.orgAermsconditions. Dow
+                                                         128.103.149.52 On: Tue, 04 Aug 2015 18:58:03
+                     396                                             E. T .     JAYNES
+
+                     provided e is not zero or unity. The principal either the constancy of HQ, or directly from
+                     feature of this theorem, at first sight astonishing, Liouville's theorem, the phase volume remains
+                     is that the result is independent of e. Changing e unchanged; Wt = WB. Each possible initial micro-
+                     does, of course, change W(e); and generally by state in Ro uniquely determines a possible final
+                     an enormous factor. But the change in logW(t) one in Rt, and on successive repetitions of the
+                     grows less rapidly than N, and in the limit it experiment, the final state varies over Rt at
+                     makes no difference.                                  random.
+                        The intuitive meaning of this theorem is that        At the end of this experiment, under the new
+                     the Gibbs H does measure the logarithm of phase equilibrium conditions, we note the new values
+                     volume of reasonably probable microstates and, {X)(fj,- • • ,Xn(t)} of the thermodynamic quanti-
+                     remarkably, for a large system the amount per ties. Now consider the region R', consisting of all
+                     particle, logW(e)/N,      becomes independent of microstates that are compatible with these new
+                     just what we mean by "reasonably probable." Xi(t), whether or not they could have resulted
+                     We are thus able to retain Boltzmann's original from the experiment just described; i.e., whether
+                     formula, S — k log IT, which is seen to be precisely or not they also lie in Rt. By (17) and (18), the
+                     related to the Gibbs H, not the Boltzmann one. final experimental entropy is Sf = k logW, where
+                        With this interpretation of entropy, let us re- W is the phase volume of R'; the experimental
+                     consider the above experiment. At time t = 0, we entropy is a measure of all conceivable ways in
+                     measure a number of macroscopic parameters which the final macrostate can be realized, and
+                     {Xi(0),- • • ,Xn(0)} adequate to define the ther- not merely of all ways in which it could be
+                     modynamic state. The corresponding canonical produced in one particular experiment.
+                     distribution determines a high-probability region        Now it is obvious that, if the observed change
+                     Ro, of phase volume Wo. The aforementioned of state Xi (0) —> Xt (t) is to be experimentally
+                     variational property of the canonical ensemble reproducible, the region Rt resulting from the
+                     now implies that, of all ensembles agreeing with experiment must be totally contained in R'. But
+                     this initial data in the sense of (16), the canonical this is possible only if the phase volumes satisfy
+                     one defines the largest high-probability region. Wt< W, which is again the second law!
+                     The phase volume Wt> therefore describes the full       At this point, we finally see the real reason for
+                     range of possible initial microstates; and not the second law; since phase volume is conserved
+                     some arbitrary subset of them; this is the basic in the dynamical evolution, it is a fundamental
+                     justification for using the canonical distribution requirement on any reproducible process that the
+                     to describe partial information.                      phase volume W compatible with the final state
+                        On the "subjective" side, we can therefore say cannot be less than the phase volume Wo which de-
+                     that Wo measures our degree of ignorance as to the scribes our ability to reproduce the initial state.
+                     true unknown microstate, when the only in-               But this argument has given us more than the
+                     formation we have consists of the macroscopic second law; in the past the notion "experimental
+                     thermodynamic parameters; a remark first made entropy" has been defined, in conventional
+                     by Boltzmann.                                         thermodynamics, only for equilibrium states. It
+                        But, and perhaps more pertinent, we can also is suddenly clear that the second law is only a
+                     say on the "objective" side, that Wo measures very special case of a general restriction on the
+                     the degree of control of the experimenter over the direction of any reproducible process, whether
+                     microstate, when the only parameters he can or not the initial and final states are describable
+                     manipulate are the usual macroscopic ones. On in the language of thermodynamics; the expres-
+                     successive repetitions of the experiment, the sion S=k log FT gives a generalized definition of
+                     initial microstate will surely not be repeated; it entropy applicable to arbitrary nonequilibrium
+                     will vary at random over the high-probability states, which still has the property that it can
+                     region Ro.                                            only increase in a reproducible experiment. This
+                        When we carry out an adiabatic change of can be shown directly from Liouville's theorem,
+                     state, the region RB is transformed, by the equa- without any consideration of canonical distribu-
+                     tions of motion, into a new region Rt- From tions or the asymptotic equipartition theorem.
+
+This article is cc                  ted in the article. Reuse of AAPT content is subject to the terms at: http://scitation.aip.orgAermsconditions. Dow
+                                                           128.103.149.52 On: Tue, 04 Aug 2015 18:58:03
+                                                 GIBBS        VS BOLTZMANN                    ENTROPIES                                      397
+
+                 Finally, it is clear that this extension of the                   observe the system to be quiescent for a longer
+                 second law can be subjected to experimental                       and longer time, we become more and more
+                 tests.                                                            confident that it is not in an atypical microstate
+                    Returning to the case of equilibrium thermo-                   that will lead to "abnormal" behavior in the
+                 dynamics, these considerations (which are easily                  future. In Hahn's experiment 7 the spin system,
+                 extended 1 to quantum statistics) lead us to state                having no observable net magnetization at time
+                 the conventional second law in the form: The                      j = 0, is nevertheless able to develop, spontane-
+                 experimental entropy cannot decrease in a repro-                  ously and almost magically, a large and repro-
+                 ducible adiabatic process that starts from a state of             ducible magnetization at a later time only
+                 complete thermal equilibrium.                                     because it "remembers" some very atypical
+                    The necessity of the last proviso is clear from                things that were done to it before j = 0.
+                 a logical standpoint in our derivation of the                        In this observation lies the clue that shows how
+                 second law in Sec. IV; for if the preparation of                  to extend the mathematical methods of Gibbs to
+                 the system just before t = 0 imposes any con-                     a general formalism for predicting irreversible
+                 straints other than those implied by the canon-                   phenomena; we must learn how to construct
+                 ical distribution, the manifold of possible initial               ensembles which describe not only the present
+                 states will be reduced below Wo, and we shall not                 values of macroscopic quantities, but also what-
+                 have an equality in Eq. (17) initially. This                      ever information we have about their past
+                 necessity is also shown strikingly from an experi-                behavior. The details of this generalization will
+                 mental standpoint in the phenomenon of spin                       be given elsewhere.
+                 echos, 7,8 which is a gross violation of any state-
+                 ment of the second law that fails to specify                           VI. THE "ANTHROPOMORPHIC" NATURE
+                 anything about the past history of the system.                                     OF ENTROPY
+                 This proviso has not been particularly empha-                        After the above insistence that any demonstra-
+                 sized before, but it has always been obvious that                 tion of the second law must involve the entropy
+                 some such condition would be needed before we                     as measured experimentally, it may come as a
+                 had a really air-tight statement of the second                    shock to realize that, nevertheless, thermo-
+                 law, which could not be violated by a clever                      dynamics knows of no such notion as the "en-
+                 experimenter. The future behavior of the system                   tropy of a physical system." Thermodynamics
+                 is uniquely determined, according to the laws of                  does have the concept of the entropy of a thermo-
+                 mechanics, only when one has specified perhaps                    dynamic system; but a given physical system
+                 1024 microscopic coordinates and momenta; it                      corresponds to many different thermodynamic
+                 could not possibly be determined merely by the                    systems.
+                 values of the three or four quantities measured                      Consider, for example, a crystal of Rochelle
+                 in typical thermodynamic experiments.                             salt. For one set of experiments on it, we work
+                        Specifying "complete thermal equilibrium" is               with temperature, pressure, and volume. The
+                     still not as precise a statement as we might wish.            entropy can be expressed as some function
+                     Experimentally, the only criterion as to whether              Se(T,P). For another set of experiments on the
+                     it is satisfied seems to be that the system is                same crystal, we work with temperature, the
+                     "aged," i.e., that it is quiescent, the macroscopic           component exy of the strain tensor, and the
+                     quantities AC unchanging, for a sufficiently long             component P z of electric polarization; the en-
+                     time; and only experience can tell the experi-                tropy as found in these experiments is a function
+                     menter how long is "sufficiently long."                       Se(T,exy,Pf).  It is clearly meaningless to ask,
+                        Theoretically, we can understand this require-             "What is the entropy of the crystal?" unless we
+                     ment as meaning that, for purposes of prediction,             first specify the set of parameters which define
+                     lack of knowledge of the present microstate can               its thermodynamic state.
+                     be, in part, compensated by knowledge of the                     One might reply that in each of the experi-
+                     past history of the macroscopic state. As we                  ments cited, we have used only part of the
+                       ' E. L. Hahn, Phys. Rev. 80, 580 (1950).                    degrees of freedom of the system, and there is a
+                       'A. L. Bloom, Phys. Rev. 98, 1104 (1955).                   "true" entropy which is a function of all these
+
+This article is cc                   ted in the article. Reuse of AAPT content is subject to the terms at: http://scitation.aip.orgAermsconditions. Dow
+                                                            128.103.149.52 On: Tue, 04 Aug 2015 18:58:03
+                     398                                              E.    T.    JAYNES
+
+                     parameters simultaneously. However, we can           electric field strength present. It must always be
+                     always introduce as many new degrees of freedom      understood implicitly (because it is never stated
+                     as we please. For example, we might expand           explicitly) that this extra thermodynamic degree
+                     each element of the strain tensor in a complete      of freedom was not tampered with during the
+                     orthogonal set of functions <pk (x,y,z)              experiments on which the steam tables are based;
+                                                                          which means, in this case, that the electric field
+                                 eij{x,y,z) = Y,k aijk<Pk(x,y,z)          was not inadvertently varied from one measure-
+                                                                          ment to the next.
+                     and by a sufficiently complicated system of
+                     levels, we could vary each of the first 1000 ex-        Recognition that the "entropy of a physical
+                     pansion coefficients a,,* independently. Our         system"      is not meaningful without further quali-
+                     crystal is now a thermodynamic system of over        fications     is important in clarifying many ques-
+                     1000 degrees of freedom; but we still believe that   tions   concerning       irreversibility and the second
+                     the laws of thermodynamics would hold. So, the       law.   For     example,     I have been asked several
+                     entropy must be a function of over 1000 inde-        times    whether,       in   my opinion, a biological
+                     pendent variables. There is no end to this search    system,    say   a cat,  which   converts inanimate food
+                     for the ultimate "true" entropy until we have        into  a  highly    organized     structure and behavior,
+                     reached the point where we control the location      represents      a  violation    of  the second law. The
+                     of each atom independently. But just at that         answer    I   always   give  is that, until we specify the
+                     point the notion of entropy collapses, and we are    set of  parameters      which   define the thermodynamic
+                     no longer talking thermodynamics!                    state  of   the   cat,  no   definite  question  has been
+                                                                          asked!
+                        From this we see that entropy is an anthropo-
+                     morphic concept, not only in the well-known             It seems apparent, in view of complications
+                     statistical sense that it measures the extent of     which    we have encountered in the attempt to
+                     human ignorance as to the microstate. Even at        give  a complete     statement of the second law, that
+                     the purely phenomenological level, entropy is an     much    more     work    needs to be done in this field.
+                     anthropomorphic concept. For it is a property, not   Glib,   unqualified       statements to the effect that
+                     of the physical system, but of the particular        "entropy        measures      randomness" are in my
+                     experiments you or I choose to perform on it.        opinion   totally   meaningless,     and present a serious
+                                                                          barrier to any real understanding of these
+                        This points up still another qualification
+                                                                          problems. A full resolution of all the questions
+                     on the statement of the second law without
+                                                                          that can be raised requires a much more careful
+                     which it is, strictly speaking, no law at all. If we
+                                                                          analysis than any that has been attempted thus
+                     work with a thermodynamic system of n degrees
+                                                                          far. Perhaps the most difficult problem of all is
+                     of freedom, the experimental entropy is a func-
+                                                                          to learn how to state clearly what is the specific
+                     tion Se(Xf • -Xn) of n independent variables.
+                                                                          question we are trying to answer? However, I
+                     But the physical system has any number of
+                                                                          believe that in the above arguments we have been
+                     additional degrees of freedom Xn+i, Xn+2, etc.
+                                                                          able to report some progress in this direction.
+                     We have to understand that these additional
+                     degrees of freedom are not to be tampered with
+                                                                                          VII. ACKNOWLEDGMENTS
+                     during the experiments on the n degrees of
+                     interest; otherwise one could easily produce            I have profited from discussions of these
+                     apparent violations of the second law.               problems, over many years, with Professor E. P.
+                        For example, the engineers have their "steam Wigner, from whom I first heard the remark,
+                     tables," which give measured values of the en- "Entropy is an anthropomorphic concept." It is
+                     tropy of superheated steam at various tempera- a pleasure to thank Professor Wm. C. Band for
+                     tures and pressures. But the H 2 0 molecule has reading a preliminary draft of this article, and
+                     a large electric dipole moment; and so the en- suggesting an important clarification of the
+                     tropy of steam depends appreciably on the argument.
+
+This article is cc                   ted in the article. Reuse of AAPT content is subject to the terms at: http://scitation.aip.orgAermsconditions. Dow
+                                                            128.103.149.52 On: Tue, 04 Aug 2015 18:58:03
+

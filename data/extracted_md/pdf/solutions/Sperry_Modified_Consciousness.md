@@ -1,0 +1,257 @@
+# Psychological Review
+
+**source:** pdf · **section:** solutions
+**file:** Sperry_Modified_Consciousness
+---
+
+1969, Vol. 76, No. 6, 532-536
+
+              A MODIFIED CONCEPT OF CONSCIOUSNESS'
+                                              R. W. SPERRY 2
+                            Division of Biology, California Institute of Technology
+                 The long-standing assumption in the neurosciences that the subjective phe-
+                 nomena of conscious experiences do not exert any causal influence on the
+                 sequence of events in the physical brain process is directly challenged in this
+                 current view of the nature of mind and the mind-brain relationship. A the-
+                 ory of mind is suggested in which consciousness, interpreted to be a direct
+                 emergent property of cerebral activity, is conceived to be an integral com-
+                 ponent of the brain process that functions as an essential constituent of the
+                 action and exerts a directive holistic form of control over the flow pattern
+                 of cerebral excitation.
+
+   In studies involving surgical section of          to brain activity. This revised view has
+the cerebral commissures, we have been con-          continued to gain increasing support in the
+fronted repeatedly in recent years with ques-        author's thinking over the past 5 years
+tions concerning the quality and distribution         (Sperry, 1966, 1969a, 1969b) and is now
+of conscious awareness in the bisected brain,        favored over other alternatives. We deal
+particularly in work with human patients             here, of course, with the Number 1 problem
+ (Sperry, 1968a, 1968b; Sperry, Gazzaniga,           in brain research, for which the evidence at
+& Bogen, 1969). In the surgically sepa-              hand still falls far short of providing any
+rated state, the two hemispheres appear to be        full or final answer. Nevertheless, the su-
+independently and often simultaneously con-          preme importance of the problem for all
+scious, each quite oblivious of the mental           kinds of human value, as well as scientific
+experiences of the opposite hemisphere and           matters, prompts us to search ahead of the
+also of the incompleteness of its own aware-         evidence from time to time as science ad-
+ness. Many problems are raised in regard             vances, for any possible new insight. Even
+to the seeming unity of conscious experi-            a partial solution that would enable us to
+ence in both the normal and bisected condi-          decide between very broad and general al-
+tion and the relation of conscious unity to          ternatives—like whether consciousness is
+the neural process. How should we conceive           cosmic or individual, mortal or immortal,
+the unifying role of the corpus callosum             in possession of free will or subject to causal
+and the nature of the information it carries         determinism, and the like—could have pro-
+between the two domains of consciousness?            found and far reaching ideological implica-
+Do the conscious qualities extend from grey          tions. In any search for meaning, identity,
+matter into the corpus callosum? What is              ultimate goals and values, or new ideolo-
+the nature of the interface between the con-         gies, the nature of mind and its relation to
+scious and unconscious processes?                    physical reality becomes central and basic.
+   One of the things to come out of these                Most behavioral scientists today, brain
+and related concerns, as a somewhat corol-            researchers in particular, have little use for
+lary development, has been a modified con-           consciousness. From the objective experi-
+cept of the nature of mind and its relation           mental standpoint, it is difficult to see any
+          article is based on a paper presented to place in the material brain process for the
+the National Academy of Sciences, April 1969, in likes of conscious experience. Most investi-
+Washington, D. C. Work of the author and his
+associates is supported by Grant No. 03372 from gators of cerebral function will violently
+the National Institute of Mental Health and by the resist any suggestion that the causal se-
+F. P. Hixon Fund of the California Institute of quence of electro-physico-chemical events in
+Technology.                                          the brain, that they work with and are trying
+  * Requests for reprints should be sent to R. W.
+Sperry, Division of Biology, California Institute    to   analyze, could in any way be influenced
+of Technology, Pasadena, California 91109.           by conscious or mental forces. It is the
+                                                  532
+                              A CONCEPT OF CONSCIOUSNESS                                    533
+ working man's faith in the neurosciences—        with all its structural and physiological con-
+ that goes back to near the turn of the cen-      straints. At the same time the conscious
+ tury—that a complete objective explanation       properties of brain excitation are conceived
+ of brain function is possible in principle       to be something distinct and special in their
+ without any reference to the subjective          own right. They are "different from and
+ mental phenomena. Whatever the stuff of          more than" the collected sum of the neuro-
+ consciousness, it is generally agreed in neu-    physico-chemical events out of which they
+ roscience that it does not interact back        are built.
+ causally on the brain's electrophysiology or        Compared to the elemental physiological
+ its biochemistry.                                and molecular properties, the conscious
+    The current interpretation of conscious-     properties of the brain process are more
+ ness takes issue with this prevailing view of   molar and holistic in nature. They encom-
+ twentieth century science. In the present       pass and transcend the details of nerve
+ scheme the author postulates that the con-       impulse traffic in the cerebral networks in
+ scious phenomena of subjective experience       the same way that the properties of the
+ do interact on the brain process exerting an    organism transcend the properties of its
+active causal influence. In this view con-       cells, or the properties of the molecule trans-
+sciousness is conceived to have a directive      cend the properties of its atomic components,
+role in determining the flow pattern of ce-      and so on. Just as the holistic properties
+rebral excitation. It has long been the          of the organism have causal effects that
+custom in brain research to dispense with        determine the course and fate of its con-
+consciousness as just an "inner aspect" of       stituent cells and molecules, so in the same
+the brain process, or as some kind of parallel   way, the conscious properties of cerebral ac-
+passive "epiphenomenon" or "paraphenome-         tivity are conceived to have analogous causal
+non" or other impotent by-product, or even       effects in brain function that control subset
+to regard it as merely an artifact of se-        events in the flow pattern of neural excita-
+mantics, a pseudoproblem (Boring, 1942;          tion. In this holistic sense the present
+Eccles, 1966; Hook, 1961).                       proposal may be said to place mind over
+    The present interpretation by contrast       matter, but not as any disembodied or super-
+would make consciousness an integral part        natural agent.
+of the brain process itself and an essential        When it is inferred that conscious forces
+constituent of the action. Consciousness in      shape the flow pattern of cerebral excitation,
+the present scheme is put to work. It is         it is not meant to imply that the properties
+given a use and a reason for being, and for      of consciousness intervene, interfere, or in
+having been evolved. On these terms sub-         any way disrupt the physiology of brain cell
+jective mental phenomena can no longer be        activation. The accepted biophysical laws
+written off and ignored in objective ex-         for the generation and transmission of nerve
+planations and models of cerebral function,      impulses, for example, are in no way vio-
+and mind and consciousness become rein-          lated. The electrophysiologist, in other
+stated into the domain of science from which     words, does not need to worry about any
+they have been largely excluded since the        of this, provided that he restricts himself
+advent of behaviorism and dialectic mate-        to analytic neurophysiology. He does need
+rialism. Without going through all the           to be concerned, however, if he wishes to
+details, an attempt is made in the following     follow a sensory input to conscious levels
+to briefly outline the salient features of the   and to explain how a sensation or a percept
+hypothesis and some of the reasoning be-         is produced, or how the subsequent volitional
+hind the foregoing statements.                   response is generated.
+    First, conscious awareness, in the present      Although the mental properties in brain
+view, is interpreted to be a dynamic emer-       activity, as here conceived, do not directly
+gent property of cerebral excitation. As         intervene in neuronal physiology, they do
+such, conscious experience becomes insep-        supervene. This comes about as a result
+arably tied to the material brain process        of higher level cerebral interactions that
+534                                   R. W. SPERRY
+
+involve integration between large processes     sustaining physico-chemical processes and
+and whole patterns of activity. In the          the enveloping conscious qualities. The
+dynamics of these higher level interactions,    neurophysiology, in other words, controls
+the more molar conscious properties are seen    the mental effects, and the mental properties
+to supersede the more elemental physio-         in turn control the neurophysiology. One
+chemical forces, just as the properties of      should remember in this connection, how-
+the molecule supersede nuclear forces in        ever, that the conscious phenomena are in a
+chemical interactions.                          position of higher command, as it were,
+   To put this another way—the individual       located at the top of the organizational
+nerve impulses and associated elemental ex-     hierarchy.
+citatory events are obliged to operate within      The present hypothesis represents a mid-
+larger circuit-system configurations of which   way compromise between older extremes of
+they as individuals are only a part. These      mentalism on the one hand and materialism
+larger functional entities have their own       on the other. The present is mentalistic in
+dynamics in cerebral activity with their own    accepting the existence of potent mental
+qualities and properties. They interact caus-   forces that transcend the material elements
+ally with one another at their own level as     in cerebral function. It is materialistic in
+entities. It is the emergent dynamic proper-    denying that these mental forces can exist
+ties of certain of these higher specialized     apart from the brain process of which they
+cerebral processes that are interpreted to be   are a direct property. This "emergent in-
+the substance of consciousness. It would be     teractionism," or "idealistic materialism" as
+helpful if one could illustrate the foregoing   some would label the present compromise,
+with a few fluoroscopy-like film sequences of   permits proponents of both extremes to re-
+some of the higher cerebral activity patterns   tain some of their more important concepts.
+in action. As yet, however, the instrumenta-       Whereas the older interpretations of con-
+tion in brain research remains entirely in-     sciousness as inner aspect, epiphenomenon,
+adequate to record the pattern dynamics of      or semantic pseudoproblem have remained
+brain activity. About the only instrument       largely sterile, conceptually and experimen-
+known at present by which one brain can         tally (e.g., there is no place to go from an
+plug into and read out directly the conscious   epiphenomenon), the emergent interaction
+experience of another brain, is the corpus      scheme is by contrast potentially fruitful. It
+callosum.                                       suggests new problems, possible approaches,
+   The subjective mental phenomena are con-     and new leads to follow in working out the
+ceived to influence and to govern the flow of   nature of the mental properties, their inter-
+nerve impulse traffic by virtue of their en-    actions, and their relations to the sustaining
+compassing emergent properties. Individual      neurophysiology. For example, it follows
+nerve impulses and other excitatory com-        directly from the foregoing that the brain
+ponents of a cerebral activity pattern are      process must be able to detect and to react
+simply carried along or shunted this way        to the pattern properties of its own excita-
+and that by the prevailing overall dynamics     tion. It must detect the overall qualities
+of the whole active process (in principle—      of different kinds and different species of
+just as drops of water are carried along by     cerebral process and respond to these as
+a local eddy in a stream or the way the         entities rather than to their individual cellu-
+molecules and atoms of a wheel are carried      lar components. There exists considerable
+along when it rolls down hill, regardless of    indirect evidence, particularly from observa-
+whether the individual molecules and atoms      tions on perceptual and cognitive phenom-
+happen to like it or not). Obviously, it also   ena, that the brain does in fact do exactly
+works the other way around, that is, the con-   this. One may include here the extensive
+scious properties of cerebral patterns are      evidence on perception collected during the
+directly dependent on the action of the com-    1920s and 1930s by the Gestalt school of
+ponent neural elements. Thus, a mutual          psychology (Koffka, 1935; Kohler, 1929).
+interdependence is recognized between the       The present view rests largely on an ex-
+                                A CONCEPT OF CONSCIOUSNESS                                     535
+
+ tension of some of the same holistic princi-       cerebral design superimposed on the back-
+ ples extrapolated now to cerebral physiology.      ground of an already elaborately evolved
+ Earlier experiments in which the author's          central nervous system. There is reason to
+ findings had seemed to undermine Gestalt           think that the critical organizational features
+ field theory, along with the related concept       of the neural circuitry for generating con-
+ of psychoneural isomorphism (Sperry &              scious awareness are mainly genetic or in-
+ Miner, 1955; Sperry, Miner, & Myers,               herent and are activated through the brain-
+  1955), do not apply to the present inter-         stem arousal system, and once activated,
+ pretation. The conscious properties are            become exquisitely responsive to changing
+ here conceived quite differently in terms of       sensory as well as centrally generated input.
+ operational effects of specialized neural cir-        This present interpretation implies some
+ cuitry (Sperry, 1952) rather than in terms         revision in traditional stimulus-response con-
+ of isomorphic correspondence based on elec-        cepts of central nervous control.          Any
+ tric field effects or volume conduction.           scheme, regardless of its complexity, in
+    Among other implications of the current         which sensory impulses are conceived to be
+ view for brain research is the conclusion          routed through a central network system
+ that a full explanation of the brain process       into a motor response becomes misleading.
+ at the conscious level will not be possible        The present view suggests the presence of
+ solely in terms of the biochemical and physi-      ongoing central processes specifically organ-
+ ological data such as we are now perforce          ized for conscious awareness around the
+ engaged in gathering. Important as these           different sensory modalities. These central
+ analytic data are for understanding cerebral       mechanisms have their own intrinsic organi-
+activity, they must fall short of providing         zation and special dynamics that in large
+an account of mental phenomena like sensa-          part are determined centrally and autono-
+tions, percepts, ideas, images, illusions, feel-    mously. The sensory input becomes incor-
+ings, etc. For a full explanation of these         porated into the central process, altering the
+gnostic functions, we are going to need, in         dynamics of the system and thereby its
+addition, a further description and account        conscious properties. The initial train of
+of the higher order pattern activity in the         sensory inflow is largely absorbed and trans-
+cerebral process, the emergent properties of       formed within the higher level central mech-
+which are conceived to constitute the quali-       anism, and only indirectly through its per-
+ties of consciousness.                             turbation of the holistic properties of the
+    The foregoing points out also the specific     central process does the sensory input influ-
+problem of determining the nature of the           ence awareness or the volitional motor re-
+unifying forces that cause a pattern of exci-      sponse. The present view places greater
+tatory events to function as an entity in          emphasis on the central processes and their
+brain dynamics. It emphasizes further the          specialized organizational features that create
+need for new technology that will enable           out of neural excitation the higher order
+us to record the pattern aspects of cerebral       phenomena of mental experience.
+function which at present can only be extrap-         Returning to the primary thesis, it may
+olated from indirect or highly particulate         be taken to imply something like the follow-
+sampling procedures.                               ing : As we look around the room at different
+    To determine precisely how the more            objects in various shapes, shades, and colors,
+elemental physiological aspects of brain ac-       the colors and shapes we experience, along
+tivity are used to build the emergent quali-       with any associated smells and sounds, are
+ties of awareness becomes the central chal-        not really out where they seem to be. They
+lenge for the future. At present even the          are not part of the physical qualities of the
+general principles by which cerebral circuits      outside objects, but instead, like hallucina-
+produce conscious effects remain obscure.          tions or the sensations from an amputated
+Very possibly these will become under-             phantom limb, they are entirely inside the
+standable, not in terms of isolated circuit        brain itself. The perceived colors and
+principles, but only in terms of advances in       sounds, etc., exist within the brain not as
+536                                       R. W. SPERRY
+
+epiphenomena, but as real properties of the                Y, R. W. Mind, brain and humanist values.
+brain process. When the brain adjusts to              Bulletin of Atomic Science, 1966, 22(7), 2-6.
+                                                    SPERRY, R. W. Hemisphere deconnection and unity
+these perceived colors and sounds, the ad-            in conscious awareness. American Psychologist,
+justment is made not merely to an array               1968, 23, 723-733. (a)
+of neural excitations correlated with the           SPERRY, R. W. Mental unity following surgical
+                                                      disconnection of the cerebral hemispheres. In,
+colors and sounds but rather to the colors            The Harvey lectures. Series 62. New York:
+and sounds themselves. Many uncertainties             Academic Press, 1968. (b)
+obviously remain and the foregoing is only          SPERRY, R. W. Perception in the absence of the
+proposed on a tentative and speculative basis         neocortical commissures. Research Publications
+                                                      for the Association of Research in Nervous and
+for its consideration alongside the alterna-          Mental Disease, 1969, in press, (a)
+tive theories for explaining mind and con-          SPERRY, R. W. Toward a theory of mind. Pro-
+sciousness available to date.                         ceedings of the National Academy of Sciences,
+                                                       1969, 63, 230-231. (b)
+                                                    SPERRY, R. W., GAZZANIGA, M. S., & BOGEN, J. E.
+                 REFERENCES                           The neocortical commissures: Syndrome of hemi-
+BORING, E. G. Sensation and perception m the          sphere deconnection. In, Handbook of clinical
+  history of experimental psychology. New York:       neurology. Vol. 4. Amsterdam: North Holland,
+  Appleton-Century-Crofts, 1942.                      1969, in press.
+ECCLES, J. C. (Ed.) Brain and conscious experi-     SPERRY, R. W., & MINER, N. Pattern perception
+  ence. New York: Springer-Verlag, 1966.              following insertion of mica plates into visual
+HOOK, S. (Ed.) Dimensions of mind: A sympo-           cortex. Journal of Comparative and Physiologi-
+  sium. New York: Collier Books, 1961.                cal Psychology, 1955, 48, 463-469.
+KOFFKA, K. Principles of Gesialt psychology.        SPERRY, R. W., MINER, N., & MYERS, R. E. Vis-
+  New York: Harcourt, Brace, 1935.                    ual pattern perception following subpial slicing
+KOHLEB, W. Gestalt psychology. New York:              and tantalum wire implantation in the visual
+  Liveright, 1929.                                    cortex. Journal of Comparative and Physiologi-
+                                                      cal Psychology, 1955, 48, 50-58.
+SPERRY, R. W. Neurology and the mind-brain
+  problem. American Scientist, 1952, 40, 291-312.     (Received for early publication June 5, 1969)
+

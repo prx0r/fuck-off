@@ -1,0 +1,716 @@
+# Ridgeview Publishing Company
+
+**source:** pdf · **section:** solutions
+**file:** Simplicity_Soul
+---
+
+
+   On the Simplicity of the Soul
+   Author(s): Roderick M. Chisholm
+   Source: Philosophical Perspectives, Vol. 5, Philosophy of Religion (1991), pp. 167-181
+   Published by: Ridgeview Publishing Company
+   Stable URL: http://www.jstor.org/stable/2214094
+   Accessed: 09-02-2016 18:02 UTC
+
+   Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at http://www.jstor.org/page/
+   info/about/policies/terms.jsp
+
+   JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content
+   in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship.
+   For more information about JSTOR, please contact support@jstor.org.
+
+            Ridgeview Publishing Company and Wiley are collaborating with JSTOR to digitize, preserve and extend access to
+            Philosophical Perspectives.
+
+http://www.jstor.org
+
+                                    This content downloaded from 128.103.149.52 on Tue, 09 Feb 2016 18:02:15 UTC
+                                                    All use subject to JSTOR Terms and Conditions
+PhilosophicalPerspectives,5, Philosophyof Religion,1991
+
+     ON THE SIMPLICITYOF THE SOUL
+
+                       RoderickM. Chisholm
+                        BrownUniversity
+
+      "Gregory  ofNyssatellsus Platoassertedthattheintellectual
+    substancewhichis calledthesoulis unitedto thebodyby a kind
+    ofspiritualcontact;and thisis understood in thesensein whicha
+    thingthatmovesor actstouchesthethingthatis movedor is
+    passive,AndhencePlatousedto say,as theaforesaid     Gregory
+    relates,thatmanis notsomething  thatis composedofsouland body,
+    butis a soulusinga body,so thathe is understood  to be in a body
+    in somewhat  thesamewayas a sailoris in a ship."St. Thomas
+    Aquinas.1
+
+The Soul as Incorporeal
+
+   I willdefendthethesisaccordingto whichthereis somethingthat
+is metaphysically unique about persons:we have a naturewholly
+unlikeanythingthatis knownto be trueof thingsthatare known
+to be compoundphysicalthings.I willattemptto showhowthisthesis
+coheres withthe traditionaldoctrineof"thesimplicity    of the soul."
+And I willargue thatthe doctrineofthe simplicity   of the soul is, in
+WilliamJames'terms,very much of a live option.
+   I am using the word "soul" in the way in which St. Augustine,
+Descartes,Bolzano and manyothershave used it:to mean thesame
+thingas "person."In thisuse ofthe word,you and I and everyone
+else can be said to be souls. (This use of the term"soul" is one of
+two traditionalphilosophicaluses. The otheris theAristotelian   use,
+in whichtheterm"soul" designatesa power, orprinciple,by means
+of which certainsubstancesthinkand perceive.)
+
+  This content downloaded from 128.103.149.52 on Tue, 09 Feb 2016 18:02:15 UTC
+                  All use subject to JSTOR Terms and Conditions
+168 / RoderickM. Chisholm
+
+   Accordingto the thesis of "the simplicityof the soul," we are
+substancesbut not compounds of substances;we are, therefore,
+monads. We are not like pieces of furniture,  forsuch thingsare
+composed of othersubstances-as thischair is composed of back,
+seat and legs.Why,then,say thatyou and I are simplesubstances?
+    Usingthefirstperson,I willbeginwiththefamiliar question:"What
+is the relationbetween me and my body?" There are three pos-
+sibilities.The firstis thatI am identicalwithmybody. The second
+is thatI am identicalwitha properpartofmy body. And the third
+is thatI am notidenticalwithany body.(Surely,whateverelse I may
+be, I am not identicalwithany bodilythinghavingpartsthatare
+notsharedby thisbody.)Isn'tthehypothesis    thatI am identicalwith
+some properpart of thisbody more plausiblethan the hypothesis
+thatI am identicalwiththewhole ofthisgrossbody?This hand,say,
+is not an essentialpartof me. I could have lost it,afterall, just as
+I have lost otherparts,withouttherebyceasing to be.
+   What is an incorporealsubstance?It is a substancethatis not a
+bodilysubstance.What,then,is a bodilysubstance?St. Augustine
+raises thisquestionin Of theSoul and its Originand he tellsus that
+bodily substancesare compoundsubstances:
+   Ifthatis not"body"whichdoes notconsistoflimbsofflesh,then
+   theearthcannotbe a body,northesky,nora stone,norwater,
+   northestars,noranything  ofthekind.If,however,a "body"is
+   whateverconsistsofparts,whether greateror less,whichoccupy
+   greateror smallerlocalspaces,thenall thethingswhichI havejust
+   mentioned are bodies.2
+   The thesisthatwe are, in thissense,incorporealthingsis notthe
+same as the thesisthatwe are thingscomposedofincorporealstuff.
+If we are composed of incorporealstuff,then,of course, we are
+incorporeal.But we can be incorporealwithoutbeingcomposedof
+any stuffat all, as would be the case ifwe were simplesubstances.
+A simplesubstance,therefore,   does not requirea kindof stuffthat
+is foreignto theworldofphysics.Indeed,thereis verygood reason
+to believethateveryextendedphysicalbodycontainsinnerand outer
+boundariesand thereforehas constituents    thatare unextended.
+
+A Cartesian Approach
+
+  I propose thatwe treatthesedifficult
+                                    questionsfroma Cartesian
+pointof view.
+
+  This content downloaded from 128.103.149.52 on Tue, 09 Feb 2016 18:02:15 UTC
+                  All use subject to JSTOR Terms and Conditions
+                                                    oftheSoul/ 169
+                                     On theSimplicity
+
+   This means,first, thatwe beginby consideringthe natureof our
+mentalproperties.We shouldbegin here forthe verygood reason
+that our mental propertiesprovide us with the most assured in-
+formation  thatwe have aboutany individualthingor substance.On
+the basis ofwhatwe know about our own thinking,     we may derive
+certainconclusionsabout the natureof ourselves.
+   A Cartesianapproachis also rationalistic.We presupposethatwe
+are rationalbeings:we are able to "conceive thingsthatare purely
+intelligible,"such entia rationisas numbersand propertiesor at-
+tributes.3In conceivingthese things,we are able to tellthemapart
+and to see just what it is thattheylogicallyrequirein orderto be
+exemplified.We can see, forexample, thatthe propertyof being
+a body,ifitis to be exemplified,logicallyrequiresan individualthing
+that has otherindividualthingsas properparts.
+   We will considerthe natureof mentalproperties,then,and ask
+ourselves what kind of entitycould have such properties.
+
+The Qualitative Nature of Mental Properties
+
+   Our mentallife,as manyphilosophershave said, has theproperty
+of being qualitative. To explicate what the relevant sense of
+"qualitative"is, I will listcertainformalor structuralmarksof the
+propertyofthinking.   These marks,in combination, willdefinea type
+of propertywhich,so faras anyone knows,is exemplifiedonlyby
+thingsthatare capable of thinking.
+   (1) Ifthinkingis goingon, thenthereis a substance,or individual
+thing,thatis doingthethinking.    Considerany familiarmentalprop-
+erty-forexample, judging,wondering,wishing,hoping,enjoying
+oneself,beingsad, beingdepressed,havinga sensation,or dreaming.
+In graspingthe natureof such properties,we can see thattheyare
+propertiesthatcan be exemplifiedonlyby substances,or individual
+things.Judging,wondering,wishing,hoping cannot possibly be
+propertiesofstates of things,or ofprocesses. And theycannot be
+propertiesofabstractobjectssuchas properties,   numbers,and rela-
+tions.You can hope forrain,but no state or processor numberor
+propertyor relationcan hope forrain.
+   In otherwords,the factthata certainmentalpropertyis exem-
+plified-the fact, say, that the propertyof hoping for rain is
+exemplified-logicallyimpliesthatthereis a substancethathas that
+
+  This content downloaded from 128.103.149.52 on Tue, 09 Feb 2016 18:02:15 UTC
+                  All use subject to JSTOR Terms and Conditions
+170/ RoderickM. Chisholm
+
+property.  Thisis a factabouttheproperty    itself:theproperty  of
+hopingforrainisnecessarily   suchthattheonlythings   thatcan have
+it are substances. Andsimilarly  fortheothermentalproperties.
+   Thesefacts, ofcourse, shouldbe consideredtogether withtheunity
+ofconsciousness.   IfI can knowthatI see peoplewhoare running
+in timewiththemusicthatI hear,thenthesubstancethatknows
+thisfactis identicalwiththesubstance  thatseesthepeoplewhoare
+running  andis identical withthesubstance thathearsthemusicthat
+is beingplayed.4
+   Whatmoredoesa mentalproperty       requireinorderto be exem-
+plified?The answeris: verylittle-indeed   astonishingly little.This
+bringsus to a secondfeatureof thinking,    one thatpointsin the
+direction  ofthesimplicity  ofthesoul.
+   (2)So faras logicalrequirements areconcerned, mental properties
+aresuchthattheymaybe exemplified      bysimplesubstances.   Those
+ofouractivities  thatare notmentaldo nothave thisfeature.      The
+property  ofrowing  a boat,forexample,isnotlikethat.Theproperty
+ofrowinga boatlogically     requirestheexistenceofeverso many
+substances  inadditiontothepersonwhois rowing    theboat.Butthe
+property  ofthinking  aboutrowinga boat doesn'tlogicallyrequire
+a singlesubstanceotherthanthepersonwhois thinking.        Andthis
+meansthatitdoesn'tlogically   requirethatthepersonwhoisthinking
+haveanyproperparts.You couldthinkaboutrowinga boateven
+ifyou werea monad.
+   WhatI havejustsaidis trueoftherelatively   simplethought    that
+youhavewhenyouthink        aboutrowing a boat.Butthethought   may
+be as complexas youlikeandyetnotneeda morecomplex        substance
+in orderto be exemplified.   Letthecontentofthethought     be one
+thatwouldbe normally      expressedby a statement  thatis logically
+complex:a conditional,   say,havinga disjunctionas antecedent  and
+a conjunction  as consequent.  Thisthought,too,does notlogically
+requireanycomplexity     on thepartofthesubstance    thatthinks it.
+You couldthinkin sucha way even ifyou wereonlya simple
+substance.
+   Butthereare possiblemisunderstandings.
+   Presumably   nothing can thinkunlessithasa brain.Theproperty
+ofthinking,  therefore,maycausallyrequiretheexistence   ofa brain.
+Butthisfactis quiteconsistent   withwhathasjustbeensaid.When
+we say thatthinking    causallyrequiresa brain,we meanthatit is
+causallynecessary-or    physicallynecessary-that whateverthinks
+
+  This content downloaded from 128.103.149.52 on Tue, 09 Feb 2016 18:02:15 UTC
+                  All use subject to JSTOR Terms and Conditions
+                                                    of theSoul / 171
+                                     On theSimplicity
+
+has a brain.Butwhenwe say thatthepropertyofthinking      does not
+logicallyrequirethatthe thingsthathave it have properparts,we
+are saying only thatit is logicallypossible that the thinkeris an
+unextendedthing.Clearlyno logical contradictionis involved in
+saying thatthe thinkeris unextended.
+   Thereis an elementary pointherethatis sometimesmissed.I need
+a brainin orderto thinkjustas I need eyes in orderto see and ears
+in orderto hear.ButI see with,or bymeans of,myeyes and I hear
+with,or by means of myears. Those physicalorgansdo not do my
+seeingand hearingforme. As BishopButlersaid, I see withmyeyes
+in the same sense in whichI see withmyglasses.5And similarlyin
+the case of my brain.I may want to take a walk tomorrowand I
+may wonderwhetheryou are interestedin thisparticularpoint.But
+my brain doesn'twant to take a walk tomorrow.And it does not
+wonderwhetheryou are interestedin anythingthatI am asserting;
+unlike me it will not be in the least disappointedifyou are not.
+   Mentalproperties,in orderto be had, need no substancesother
+than a single simplesubstance.And yet such propertiesare open
+to any numberofsubstances.For any numberyou like,the mental
+propertiesthatwe have citedmaybe exemplified   byjustthatnumber
+of things.Let us say thatsuch propertiesare "open":
+    DI P is open =Df P is possiblysuch that,forany numbern,
+    there are n substancesthat have P and n substancesthatdo
+    not have P.
+  (3) Mentalpropertiesare repeatable in the followingsense:
+   D2 P is repeatable = Df P is possiblysuch thatthereis
+   somethingthat does not have it but did have it and will
+   have it.
+   I have recommendedthatwe take a Cartesianapproachto these
+questions.Butso faras repeatability   is concerned,I would say that
+Descarteswentwrong.He had held,somewhatimplausibly,        thatthe
+propertyofthinking-thepropertyofbeingconscious-is notrepeat-
+able. Once you lose it,accordingto him,you cease to be. Thispoint
+is quiteessentialto what is called Cartesianphilosophy,but itis not
+essentialto whatI have called a "Cartesianapproach"to themental.
+   Maywe say thatthepropertyofbeingable to thinkis repeatable?
+Notifwe use "x is able to think"to meanthatx is suchthatno logical
+contradiction is involvedin sayingthatitthinks.Butifone takes "x
+
+  This content downloaded from 128.103.149.52 on Tue, 09 Feb 2016 18:02:15 UTC
+                  All use subject to JSTOR Terms and Conditions
+172/ RoderickM. Chisholm
+
+isabletothink," as itisintended  here,tomeanthatx hasthepower
+orpotentiality ofthinking,  thenone maysay thattheproperty    it
+expressesis repeatable;fora personmaylose such a poweror
+potencyand thentakeit on again.
+  I now listtwo structural   features of some of the properties
+                                                              of
+compoundsubstances-twofeaturesthatare not sharedby any
+mentalproperty.  Thesehavetodo withpartsofsubstances-where
+theterm"part"is so understood     thatwe maysay thata partofa
+substanceis itselfa substance.
+  (4) One feature thatis knownto characterize   certainproperties
+ofcompound   things andthatisalsoknownnottoholdofanymental
+property is thatofbeingcompositive.6   Considersuchpropertiesas
+beingmagnetized,   beingwarm,beingheavy.Ifa physicalthingis
+composedoftwoparts,each ofwhichis magnetized          or warmor
+heavy,thenthatphysical  thing  itself
+                                    ismagnetizedorwarmorheavy.
+A compositive  property  is a property ofthisnature:
+    D3 P is compositive  = Df P is necessarily
+                                             suchthatwhatever
+    is composedofthingsthathaveP is itselfa thingthathas P.
+Being extendedand being greenare also propertiesthatare
+compositive.
+  Ofcourse,notall properties  ofcompounds are compositive.Ifa
+bodyis composedof twopartseach ofwhichweighsexactly10
+pounds,thenitwouldbe a mistaketo supposethatthatbodyitself
+weighsexactly10 pounds.Butalthough    somephysicalproperties
+arecompositive andsomearenot,no mental  propertyiscompositive.
+  Fromthefactthatan aggregate   iscomposedoftwopersonseach
+ofwhomisthinking,   itdoesnotfollowthattheaggregate isthinking.
+You couldwanttheweatherto be colderand I couldwantitto be
+warmer;  butthatheaporaggregate  whichisthepairofus(thatthing
+thatweighs300 poundsifyouand I each weigh150pounds)does
+notwantanything    at all.
+  (5) A closelyrelatedfeatureofmentalpropertiesis thatofbeing
+whatwe maycall "divisive":
+   D4 P is divisive= Df P is necessarily
+                                       suchthatany
+   compoundthingthathas it has a properpartthathas it.
+Anybodythatis extendedalso hasa properpartthatis extended.
+ButthefactthatI am hopingforraindoes notimplythatI havea
+properpartthatis hopingforrain.Thatis tosay,thefactthatI am
+
+  This content downloaded from 128.103.149.52 on Tue, 09 Feb 2016 18:02:15 UTC
+                  All use subject to JSTOR Terms and Conditions
+                                     On the Simplicityof the Soul / 173
+
+a substancethathopes forraindoes not implythatthereis another
+substancethatis a properpartof me and thatthatsubstancealso
+hopes forrain.
+   We now describethe finalpositivefeatureof mentalproperties.
+   (6) Mentalpropertiesare amongthosepropertiesthathave tradi-
+tionallybeen called internal,or nonrelational.Ifan individualhas
+propertiesthatconsistinrelatingthatindividualto otherindividuals,
+thenthatindividualalso has internalproperties,propertiesthatdo
+not consistin relatingit to otherindividuals.
+   Roughlyspeaking,we maysaythatmyinternal       propertiesare those
+ofmyproperties   thatwouldnottellyouanything    aboutanysubstance
+otherthan myself.If you know that I have the propertyof being
+married,thenyou are in a positionto know thatthereis a person
+who has a property thatI don'thave-namely,thatofhavingmarried
+me. But ifI tell you thatI feel well or thatI do not feel well, then
+what I tellyou does notlogicallyimplyanythingabout anyoneelse
+but me. We may putthispointa littlemorepreciselyby sayingthat
+an internalpropertyof a substancetellsyou somethingabout the
+substanceitselfbut doesn't tell you anythingabout the open and
+repeatable propertiesof any othersubstance.
+    D5 P is an internalpropertyof substances = Df (1) P is
+    necessarilysuch thatwhateverhas it is a substance;and (2)
+    eitherP is necessaryto whateverhas it or P is necessarily
+    such thatwhateverhas it has every open and repeatable
+    propertythat P implies.
+                                           maybe definedthis
+The sense of"imply"intendedin thisdefinition
+way:
+    PropertyP impliesQ = Df P is necessarilysuch that,if it is
+    exemplified,thenQ eitherwas, is or will be exemplified.
+(In sayingthatmentalpropertiesare internalto substances,we are
+takingaccount of the firstof the six featuresof the mentalthatwe
+singled out-namely, that mental propertiesare restrictedto
+substances.)
+   Withthisconceptofinternality,  we can assureourselvesthatsuch
+propertiesas thatof being in the vicinityof a thinkerwill not be
+countedas qualitative.Suchproperties, althoughtheyare exemplified
+by everythinker,are also exemplifiedby countlessthingsthatare
+not thinkers.
+
+  This content downloaded from 128.103.149.52 on Tue, 09 Feb 2016 18:02:15 UTC
+                  All use subject to JSTOR Terms and Conditions
+174/ RoderickM. Chisholm
+
+  Thesefivefeatures, whentakentogether,   yieldthephilosophical
+conceptofbeingqualitative. Theyprovideus witha senseof"quali-
+tativeproperty"whichis suchthat,so faras we know,onlysub-
+stancesthatarecapableofthinking  maybe saidto havequalitative
+          Butwe mustproceedwithcareinformulating
+properties.                                           justwhat
+the relevantsense of              is.
+                      "qualitative"   It willnot be enough, for
+example,to say thata qualitative property is a propertythathas
+thefeaturesjustsingledout.Theproperty    ofbeingeitherthinking
+ormovingfulfills                  butthisproperty,
+                all fiveconditions,                 ofcourse,is
+notrestrictedto thingsthatare capableofthinking.
+                                      ormoving,unlikecertain
+  Thereis good reasontosay thatthinking
+               maybe calleda "disjunctive
+otherproperties,                               Anddis-
+                                       property."
+junctive propertiesmay be distinguished from conjunctive
+           Thuswe couldsay:
+properties.7
+                            ofG and H = Df D is necessarily
+   D is a property-disjunction
+   suchthatitis exemplifiedifand onlyifeitherG or H is
+   exemplified;and G and H are suchthatneitherimpliesthe
+   otherand neitherimpliesthenegationoftheother.
+                             ofG and H = Df C impliesG; C
+   C is a property-conjunction
+   impliesH; everythingimpliedby C impliessomething that
+   eitherG or H implies;and G and H are suchthatneither
+   impliestheotherand neitherimpliesthenegationofthe
+   other.
+Our definition
+             of"qualitative       shouldnow go thisway:
+                          property"
+   D6 P is qualitative=Df Considertheproperty Q ofbeing
+   bothopenand repeatable,  beingneithercompositive nor
+   divisive,and beingan internal
+                               property               Q is
+                                         ofindividuals:
+   exemplifiedby P and by eitherall or noneofthedisjuncts
+   ofanydisjunctive propertythatis equivalentto P and by
+   each conjunctofanyconjunctive  property equivalentto P.
+                                            properties,
+                               to conjunctive
+                      pertaining
+The finalqualification,                                makes
+itclearthatsuchconjunctive          as walking
+                           properties         and(not-walking
+or thinking)are notqualitative.
+   Anything thathasa qualitative
+                               property,                 that
+                                        then,isa substance
+is capableofthinking.
+
+  This content downloaded from 128.103.149.52 on Tue, 09 Feb 2016 18:02:15 UTC
+                  All use subject to JSTOR Terms and Conditions
+                                     On the Simplicityof the Soul / 175
+
+Five Philosophical Arguments
+
+   Some philosophershave spoken about provingthe simplicityof
+the soul. But,as one mightreasonablyexpect,the attemptsat such
+proofsusuallypresupposesomethingthat is at least problematic.
+There are, however,philosophicalargumentsthatmay be said to
+bear upon the simplicityof the soul. I will consider five such
+arguments.
+   (A) The firstis the argumentthatKant presentsin the second of
+hissupposed"paralogismsoftranscendental  psychology."He formu-
+lates the argumentthisway:
+      That,theactionofwhichcan neverbe regardedas the
+    concurrence  ofseveralthings,is simple.Nowthesoul,or the
+           'I', is sucha thing.Therefore,
+    thinking                            etc.8
+  Kant statesthatthe argument"is no mere sophisticalplay...but
+an inferencethatappears to withstandeven the closest scrutiny"
+(A351). Then he goes on to say:
+   Supposea compound   thingwereto think.Theneverypartofthat
+   compoundwouldhavea partofthatthought.     The thoughtthatthe
+   compoundwouldthenhavewouldbe composedofthethoughts         of
+   thepartsofthatcompound.   Butthiswouldbe contradictory.For
+   thoughtsthatare distributed
+                             amongdifferent thinkers
+                                                   can never
+   constitute
+            a singlethought.Fromthefactthatthedifferent  words
+   ofa piece ofpoetryare thoughtofby differentthinkers
+                                                     it does not
+   followthattheaggregate ofthosethinkers has thought
+                                                    ofthepiece
+   ofpoetry.It is,therefore,
+                          impossibleforan aggregateto think.
+Giventheconclusion,itis a simplemattertocompletetheargument:
+I think;thereforeI am not a compound.
+   But considerwhat is expressedby the second sentence:"Every
+partof thatcompoundwould have a partof thatthought."What is
+the justificationforsayingthat,ifa compoundthinghas a certain
+thought,thenone partofthecompoundhas "a part"ofthatthought
+and anotherpartofthecompoundhas "anotherpart"ofthethought?
+One mustfinda sense fortheuse of"part"in theexpression"a part
+ofa thought," a sense thatenablesus to applytheexpressionto such
+a thought,say,as thatofnotingthata certainfaceis familiar.
+                                                         I would
+say that,havingso such sense, we have no reason to accept the
+statementin question.
+   (B) The second argumentis suggestedin Maimonides'Guide to
+thePerplexed.9In discussingtheincorporeality  ofGod,Maimonides
+
+  This content downloaded from 128.103.149.52 on Tue, 09 Feb 2016 18:02:15 UTC
+                  All use subject to JSTOR Terms and Conditions
+176 / RoderickM. Chisholm
+
+formulates-andrejects-an argumentwhich could readilybe re-
+stated as an argumentforthe simplicityof the soul. It is this:
+   IfGodwerecorporeal,  His trueessencewouldnecessarily either
+               in everypartofthebody,thatis to say,in each ofits
+   existentirely
+   atoms,or wouldbe confined  to one oftheatoms.In thelatter
+             theotheratomswouldbe superfluous,
+   alternative                                 andtheexistence
+   ofthecorporealbeing[withtheexceptionoftheone atom]would
+   be ofno purpose.If,on theotherhand,each atomfully
+   representedtheDivineBeing,thewholebodywouldnotbe one
+   deity,buta complexofdeities,and thiswouldbe contrary  to the
+   doctrineadoptedby thekalamthatGodis one.
+   Maimonidesrejectsthisargumenton thegroundthatithas a false
+presupposition-namely,   thatGod is composedofatoms.Butinappli-
+cation to souls otherthe deity,it has at least thisplausibility:
+   Considerthe hypothesis,  withrespectto thesoul and to some ex-
+tended properpart P of the gross physicalbody, thatthe soul is
+identicalwithP. HoweversmallP maybe, therewillbe no sufficient
+reason forsupposingthatP itself,ratherthansome properpartof
+P, is identicalwiththesoul.Andso, to thequestion,"How smallcould
+I be?", the answer would seem, "Smallerthan any dimensionthat
+one can specify."
+   (C) Bolzano's discussion,in the Athanasia, suggests a further
+possibility.'0
+   (1) All compoundsare necessarilysuch thattheyhave parts.
+   (2) No bearers of psychologicalpropertiesare necessarily
+       such thattheyhave parts.
+Therefore
+   (3) No bearers of psychologicalpropertiesare compounds.
+The firstpremise seems to me to be beyond question. And the
+argumentis formallyvalid. So what about the second premise?
+   A rationalanalysisofpropertiesshows us thatmentalproperties
+do not requirethattheirbearersbe compoundthings.Butfromthe
+factthatpsychologicalproperties  are possiblysuchthattheirbearers
+have no properparts,it does notfollowthatthe bearersofpsycho-
+logicalpropertiesare possiblysuch thattheyhave no properparts.
+   (D) The doctrineofmereologicalessentialism  mayseem to provide
+anotherargumentforthe simplicity     of the soul, but the argument,
+                                           thatwe have justfound
+I believe, is subjectto the same difficulties
+in Bolzano's argument.
+
+  This content downloaded from 128.103.149.52 on Tue, 09 Feb 2016 18:02:15 UTC
+                  All use subject to JSTOR Terms and Conditions
+                                     On theSimplicity
+                                                    of theSoul / 177
+
+   According totheprinciple ofmereological essentialism, ifa thing
+P is a partofa wholeW,thenW is necessarily   suchthatP is a part
+ofW. Fromthisprinciple    itfollowsthat,ifW is possiblysuchthat
+it has no parts,thenW has no partsand is,therefore,    simple."If
+thisconsequence  iscombined  withtheassumption  thatI ampossibly
+suchthatI am a simplesubstance,   thenityieldstheconclusion   that
+I ama simplesubstance.  Butunfortunately thisCartesian conclusion
+does notenableus to deducethatI am possiblysuchthatI am a
+simplesubstance.
+   (E)Thefinalargument,  whichissomewhat  moremodest,    hasthree
+premises. Thefirst isan empiricalproposition,
+                                            statingcertain  things
+aboutourpsychological    properties.
+                                   The secondand thirdpremises
+are Cartesian:theytellus whatrational beingscan knowaboutthe
+natureofthepsychological    propertiesthattheyhave.
+   I willstatetheargument   usingthefirst personplural.
+    (1) We have qualitativeproperties.
+    (2) Everyqualitativepropertythatwe are acquaintedwithis
+        knownto be possiblysuchthatitis exemplifiedby
+        simplesubstances.
+    (3) No qualitative
+                     propertyis knownto be suchthatitmay
+        be exemplifiedby compoundsubstances.
+Hence
+   (4) Some ofourpropertiesare knownto be suchthatsimple
+       substances
+                can have themand are notknownto be such
+       thatcompoundsubstances can havethem.
+Therefore
+   (5) We have a naturewhichis whollyunlikethenaturethat
+              knownto be a compoundphysicalthingis
+       anything
+       knownto have.
+  The conclusion ofthisargument   leavesus withtwopossibilities:
+either(a) thesoul is an unextended  substanceor (b) soulshave a
+typeofproperty  thatextendedphysicalsubstances   are notknown
+to have.The latteroptionis defended   bythosewho haveargued
+thatthefactofthinking   indicates
+                                thepresenceofa peculiartypeof
+"emergent  property"  in nature.12
+
+  This content downloaded from 128.103.149.52 on Tue, 09 Feb 2016 18:02:15 UTC
+                  All use subject to JSTOR Terms and Conditions
+178/ RoderickM. Chisholm
+
+Souls and Complete Human Beings
+
+   I havesaidthatwearesoulsandthatsoulsaresimplesubstances.
+Butitisalsosaid,evenbythosewhohaveheldthatthesoulissimple,
+thatpersonsare compoundthingshavingsoulsas parts.'3Can we
+have itbothways?Descartes,    although  he heldthatthesoulis an
+unextended   substance, feltcompelledtosaythata "complete  man"
+is a compoundconsisting    ofthesouland thebody.'4
+   Ifthesoulissimple  andthepersonisa compound   ofsoulandbody,
+whichwouldI be-the simplesubstancewhichis thesoul or the
+compoundsubstancewhichhas thesoul as one ofitsparts?
+   Ifwe say(1)thatI ama thinking beingand(2)thatthinking  things
+andsoulsarethesame,thenwe shouldalso say(3) thatI am a soul;
+andtherefore   (ifwe take"have"initsordinary  sense)we shouldsay
+(4) thatI do nothave a soul.Andthisis whatis suggestedin the
+reference  to Gregory  ofNyssa,withwhichwe began.
+   What,then,is thedistinction  betweena boundary     thathas no
+dimensions  anda monad?A boundary     is an entity
+                                                 thatdependsfor
+itsexistence uponbeinga boundary  ofanother        Itisnecessarily
+                                             entity.
+such thatthereis a three-dimensional      thingof whichit is a
+boundary.'5   But a monadis a simplesubstance.Thismeans,as
+Descarteshadnoted,thatitisnotontologically    dependent uponany
+othercontingent    thing.A substanceis an entitywhichis possibly
+suchthatthereis no otherentity   in whichit exists.16
+
+Notes
+
+1. The citationis frompages 35-6of the translationby M. C. Fitzpatrick
+   and J. C. Wellmuth,ofOn SpiritualCreatures;(Milwaukee:Marquette
+   University Press,1949).The translatorsnotethatanotherversionofthe
+   textreads:Plato "does notmean thatman is made up ofbodyand soul,
+   butthathe is a soul usinga body and, as itwere,clothedwitha body"
+   (P. 35n.).
+2. St. Augustine,Of the Soul and its Origin,Book IV, Ch. 17; in Marcus
+   Dobs,ed., TheAnti-Pelagian WritingsofSt.Augustine,Vol.II (Edinburgh:
+   T. & T. Clark, 1874), p. 315.
+3. See Rene Descartes,The Principlesof Philosophy,PartI, Section 32;
+   in E.S.Haldane and G.R.T.Ross,PhilosophicalWorksofDescartes,Vol.
+   I, p. 232.
+4. Compare Chapter IV ("On the Unity of Consciousness"),in Franz
+   Brentano,Psychologyfroman EmpiricalStandpoint(London:Routledge
+   & Kegan Paul, 1973); thiswork firstappeared in 1874.
+
+  This content downloaded from 128.103.149.52 on Tue, 09 Feb 2016 18:02:15 UTC
+                  All use subject to JSTOR Terms and Conditions
+                                    On the Simplicityof theSoul / 179
+
+ 5. JosephButler,  TheAnalogyofReligion,    PartI, Chapter1 ("Ofa Future
+    Life");in The WholeWorksofJosephButler,      LL.D. (London:Thomas
+    Tegg,1839),p. 7. CompareBernard      Bolzano,Athanasia: oderGrunde
+    furdie Unsterblichkeit  derSeele (Sulzbach:J.G. v. Seidleschen Buch-
+    handlung,  1838),p. 60.Bolzano'sdiscussion ofthesequestions  (esp.pp.
+    21-68)is thebestthatis knownto me.
+ 6. Theterm"compositive"     is suggested bythefollowing senseof"being
+    composedof."A compound        objectA maybe saidto be composedof
+    twocompound     objectsB andC,provided   onlythat(i)B andC areparts
+    ofA, (ii)B and C haveno partsin commonand (iii)everypartofA
+    hasa partincommoneitherwithB orwithC. Thisdefinition         was pro-
+    posed,in somewhat    different terms, byA. N. Whitehead,  TheOrgan-
+    isationof Thought  (London:Williams    and Norgate,1917),pp. 159-60.
+ 7. I havesuggested  a morerigiddefinition  of"disjunctive
+                                                         property"  inOn
+    Metaphysics  (Minneapolis: TheUniversity  ofMinnesota Press,1989),p.
+    146;butthatdefinition,  sinceitmakesuseofa mentalistic  concept, can-
+    notbe usedin thepresentcontext.
+ 8. Critique ofPureReason,A351.Fromthetranslation      byNorman    Kemp
+    SmithinImmanuel    Kant'sCritique  ofPureReason(London:Macmillan
+    and Company,    1933),p. 335.
+ 9. MosesMaimonides,    TheGuidetothePerplexed(London:Routledge        &
+    KeganPaul,Ltd.,1956),p. 142.
+10. I have discussedBolzano'sreasoningin detailin "Bolzanoon the
+    Simplicity oftheSoul,"inTraditionen  undPerspektiven deranalytischen
+    Philosophie,  editedbyW. Gombocz,H, Rutte,     andW. Sauer,Vienna:
+    Holder-Pichler-Tempsky,   1989),pp. 79-88.
+11. Thisconsequence   waspointed   outbyGaryRosenkrantz,   in"Reference,
+    Intentionality,andNonexistent            inPhilosophical
+                                    Entities,"               Studies,Vol.
+    58 (1990),pp.165-17  1,anddiscussed  bymein"Monads,  Nonexemplified
+    Individuals, and PossibleWorlds,"   in thesameissue,pp. 173-5.
+12. CompareJamesVanCleve,"Mind-Dust         orMagic?Panpsychism    versus
+    Emergence,"   Philosophical Perspectives,Vol.IV(1990),pp.215-226.A
+    usefuldiscussion  and bibliography  ofthedoctrine ofemergence    may
+    be foundinArthur    Pap,An Introduction  to thePhilosophy  ofScience
+    (Glencoe:The Free Press, 1962), pp. 364-72.CompareLeopold
+    Stubenberg,  "Chisholm, Fechner  unddasGeist-Korper Problem,"  Grazer
+    Philosophische  Studien,Vol. 28 (1986),pp. 187-210.
+13. Two recentdefensesof thisapproachmay be foundin: Richard
+    Swinburne,   TheEvolution   oftheSoul (Oxford:  The Clarendon  Press,
+    1986),p. 145ff.and JosefSeifert,     Das Leib-Seele-Problem  und die
+    gegenwartige   philosophische  Diskussion,SecondEdition,  (Darmstadt:
+    Wissenschaftliche  Buchgesellschaft, 1989),pp. 35-72,131-44.
+14. See, forexample,his replyto Gassendi'sobjectionsto the second
+    Meditation;  in E.S.Haldaneand G.R.T.Ross,   Philosophical  Worksof
+    Descartes,Vol. II, p. 207-8.Descartes'expression   was "hommetout
+    entier." St.Augustine notedthatwe haveherea usageinwhich"a part
+    is to be takenforthewhole.Forboththesoulandtheflesh,        thecom-
+    ponentpartsofman,can be usedtosignify      thewholeman;andso the
+
+  This content downloaded from 128.103.149.52 on Tue, 09 Feb 2016 18:02:15 UTC
+                  All use subject to JSTOR Terms and Conditions
+180 / RoderickM. Chisholm
+
+    animalmanandthecarnalmanare nottwodifferent     things,butone
+    andthesamething,  viz.,manlivingaccording to man."See TheCity
+    ofGod,BookIV,Ch.4; inWhitney    J.Oates,ed.,Basic Writings
+                                                             ofSt.
+    Augustine (NewYork:RandomHouse,1948),Vol. II, p. 244.
+15. I havediscussed
+                  thesepoints
+                            indetailinOnMetaphysics,pp.63-89,162-8.
+16. I amindebtedtoEarlConee,ErnestSosaandBarry   Smithforcriticisms
+    ofearlierversionsofthediscussion ofmentalproperties.
+
+References
+
+Aquinas,St.Thomas,OnSpiritual    Creatures,ed. M.C. FitzpatrickandJ.C.
+  Wellmuth (Milwaukee:  Marquette  UniversityPress,1949).
+Augustine,St.,TheAnti-Pelagian  WritingsofSt.Augustine, edMarcusDobs
+  (Edinburgh:T. & T. Clark,1874);andWhitney  J.Oates,ed.,BasicWritings
+  ofSt.Augustine   (NewYork:RandomHouse,1948).
+Bolzano,Bernard, Athanasia:  oderGrunde  furdieUnsterblichkeitderSeele
+  (Sulzbach:J.G. v. Seidleschen  Buchhandlung, 1838).
+Brentano,Franz,Psychology      froman EmpiricalStandpoint(London:
+  Routledge & KeganPaul,1973).
+Butler,Joseph,TheWholeWorks      ofJoseph Butler,LL.D.(London:Thomas
+  Tegg,1839).
+Chisholm,Roderick  M.,"BolzanoontheSimplicity oftheSoul,"inTraditionen
+  undPerspektiven   deranalytischen Philosophie, editedbyW. Gombocz,
+  H. Rutte,
+          andW.Sauer,Vienna:Holder-Pichler-Tempsky,     1989),pp.79-88.
+Chisholm, RoderickM.,On Metaphysics     (Minneapolis: The University of
+  Minnesota Press,1989).
+Chisholm,Roderick   M.,"Monads,  Nonexemplified            andPossible
+                                                Individuals,
+  Worlds,"Philosophical Studies,Vol. 58 (1990),pp. 173-5.
+Descartes,Rene,ThePhilosophical    Works ofDescartes, translatedbyE. S.
+  HaldaneandG. R. T. Ross,in twovolumes(Cambridge:       The University
+  Press,1931).
+Kant,Immanuel,    ImmanuelKant's Critiqueof Pure Reason (London:
+  Macmillan and Company,    1933).
+Maimonides,Moses,TheGuidetothePerplexed     (London: Routledge & Kegan
+  Paul,Ltd.,1956).
+Pap,ArthurAnIntroduction  tothePhilosophy  ofScience(Glencoe: TheFree
+  Press,1962).
+Rosenkrantz,Gary,"Reference,                andNonexistent
+                               Intentionality,                      in
+                                                            Entities,"
+ PhilosophicalStudies,Vol. 58 (1990),pp. 165-171.
+Seifert,    Das Leib-Seele-Problem
+       Josef,                       unddiegegenwartige  philosophische
+ Diskussion,SecondEdition, (Darmstadt:WissenschaftlicheBuchgesellschaft,
+  1989).
+Stubenberg,Leopold,"Chisholm,    Fechnerunddas Geist-Korper  Problem,"
+  GrazerPhilosophische  Studien,Vol. 28 (1986),pp. 187-210.
+Swinburne,Richard,  TheEvolution oftheSoul(Oxford: TheClarendon  Press,
+  1986).
+
+  This content downloaded from 128.103.149.52 on Tue, 09 Feb 2016 18:02:15 UTC
+                  All use subject to JSTOR Terms and Conditions
+                                     On the Simplicityof the Soul / 181
+
+VanCleve,James,"Mind-DustorMagic?Panpsychism    versusEmergence,"
+ Philosophical
+             Perspectives,
+                         Vol. IV (1990),pp. 215-226.
+Whitehead,A. N., The Organisation of Thought(London:Williamsand
+ Norgate,1917),pp. 159-60.
+
+  This content downloaded from 128.103.149.52 on Tue, 09 Feb 2016 18:02:15 UTC
+                  All use subject to JSTOR Terms and Conditions
+

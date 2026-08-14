@@ -1,0 +1,622 @@
+                     Molecular Theory.                    301
+
+ kind of action, there is another, depending on the evapora-
+tion from the surface of the little drops. The vapour of
+water is much rarer than air, and damp air is lighter than
+dry air at the same temperature and pressure. Hence the
+little drops make the air of the cloud damp, and if the
+mean density of the cloud is by this means made less than
+that of the surrounding air, the cloud will ascend.
+
+
+
+
+                    CHAPTER XXII.
+  ON THE MOLECULAR THEORY OF THE CONSTITUTION OF
+                           BODIES.
+
+ WE have already shown that heat is a form of energy—that
+ when a body is hot it possesses a store of energy, part at
+ least of which can afterwards be exhibited in the form oi
+visible work.
+    Now energy is known to us in two forms. One of these
+is Kinetic Energy, the energy of motion. A body in motion
+has kinetic energy, which it must communicate to some
+other body during the process of bringing it to rest. This
+is the fundamental form of energy. When we have acquired
+the notion of matter in motion, and know what is meant by
+the energy of that motion, we are unable to conceive that
+any possible addition to our knowledge could explain the
+energy of motion, or give us a more perfect knowledge of it
+than we have already.
+   There is another form of energy which a body may have,
+which depends, not on its own state, but on its position
+with respect to other bodies. This is called Potential
+Energy. The leaden weight of a clock, when it is wound
+up, has potential energy, which it loses as it descends. It
+is spent in driving the clock. This energy depends, not on
+the piece of lead considered in itself, but on the position of
+302                  Molecular     Theory.
+
+ the lead with respect to another body—the earth—which
+ attracts it.
+      In a watch, the mainspring, when wound up, has poten-
+ tial energy, which it spends in driving the wheels of the
+ watch. This energy arises from the coiling up of the
+ spring, which alters the relative position of its parts. In
+ both cases, until the clock or watch is set agoing, the
+ existence of potential energy, whether in the clock-weight
+ or in the watch-spring, is not accompanied with any visible
+ motion. We must therefore admit that potential energy can
+ exist in a body or system all whose parts are at rest.
+      It is to be observed, however, that the progress of science
+ is continually opening up new views of the forms and
+  relations of different kinds of potential energy, and that
+  men of science, so far from feeling that their knowledge of
+  potential energy is perfect in kind, and incapable of essential
+  change, are always endeavouring to explain the different
+  forms of potential energy; and if these explanations are in
+  any case condemned, it is because they fail to give a suffi-
+  cient reason for the fact, and not because the fact requires
+  no explanation.
+       We have now to determine to which of these forms of
+  energy heat, as it exists in hot bodies, is to be referred. Is
+  a hot body, like a coiled-up watch-spring, devoid of motion
+  at present, but capable of exciting motion under proper
+   conditions ? or is it like a fly-wheel, which derives all its
+   tremendous power from the visible motion with which it is
+   animated?
+       It is manifest that a body may be hot without any motion
+   being visible, either of the body as a whole, or of its parts
+j relatively to each other. If, therefore, the body is hot
+    in virtue of motion, the motion must be carried on by parts
+    of the body too minute to be seen separately, and within
+    limits so narrow that we cannot detect the absence of any
+     part from its original place.
+        The evidence for a state of motion, the velocity of which
+                     Heat is Motion.                     303
+ must far surpass that of a railway train, existing in bodies
+which we can place under the strongest microscope, and in
+which we can detect nothing but the most perfect repose,
+must be of a very cogent nature before we can admit that
+heat is essentially motion.                                     4
+   Let us therefore consider the alternative hypothesis—that
+the energy of a hot body is potential energy, or, in other
+words, that the hot body is in a state of rest, but that this
+state of rest depends on the antagonism of forces which
+                                                                 %
+are in equilibrium as long as all surrounding bodies are
+of the same temperature, but which as soon as this equi-
+librium is destroyed are capable of setting bodies in
+motion. With respect to a theory of this kind, it is to be
+observed that potential energy depends essentially on the
+relative position of the parts of the system in which it exists,
+and that potential energy cannot be transformed in any
+way without some change of the relative position of these
+parts. In every transformation of potential energy, therefore,
+motion of some kind is involved.
+   Now we know that whenever one body of a system is
+hotter than another, heat is transferred from the hotter to
+the colder body, either by conduction or by radiation. Let
+us suppose that the transfer takes place by radiation.
+Whatever theory we adopt about the kind of motion which
+constitutes radiation, it is manifest that radiation consists of
+motion of some kind, either the projection of the particles
+of a substance called caloric across the intervening space, or
+a wave-like motion propagated through a medium filling that
+space. In either case, during the interval between the time
+when the heat leaves the hot body and the time when it
+reaches the cold body, its energy exists in the intervening
+space in the form of the motion of matter.
+   Hence, whether we consider the radiation of heat as
+effected by the projection of material caloric, or by the
+undulations of an intervening medium, the outer surface of
+a hot body must be in a state of motion, provided any cold
+     304                  Molecular    Theory.
+
+     body is in its neighbourhood to receive the radiations which
+     it emits. But we have no reason to believe that the pre-
+J    sence of a cold body is essential to the radiation of heat by
+     a hot one. Whatever be the mode in which the hot body
+     shoots forth its heat, it must depend on the state of the hot
+     body alone, and not on the existence of a cold body at a
+      distance, so that even if all the bodies in a closed region
+     were equally hot, every one of them would be radiating
+     heat; and the reason why each body remains of the same
+      temperature is, that it receives from the other bodies exactly
+      as much heat as it emits. This, in fact, is the foundation of
+      Prevost's Theory of Exchanges. We must therefore admit
+      that at every part of the surface of a hot body there is a
+      radiation of heat, and therefore a state of motion of the
+      superficial parts of the body. Now this motion is certainly
+      invisible to us by any direct mode of observation, and
+      therefore the mere fact of a body appearing to be at rest
+/     cannot be taken as a demonstration that its parts may
+      not be in a state of motion.
+         Hence part, at least, of the energy of a hot body must be
+      energy arising from the motion of its parts, or kinetic energy.
+         The conclusion at which we shall arrive, that a very
+      considerable part of the energy of a hot body is in the form
+     of motion, will become more evident when we consider the
+     thermal energy of gases.
+         Every hot body, therefore, is in motion. We have next
+     to enquire into the nature of this motion. It is evidently
+     not a motion of the whole body in one direction, for how-
+     ever small we make the body by mechanical processes, each
+     visible particle remains apparently in the same place, how-
+    i ever hot it is. The motion which we call heat must there-
+     fore be a motion of parts too small to be observed separately;
+     the motions of different parts at the same instant must be
+     in different directions; and the motion of any one part must,
+     at least in solid bodies, be such that, however fast it moves,
+     it never reaches a sensible distance from the point from
+     which it started.
+                  Kinetic   Theory of Gases.               305
+   We have now arrived at the conception of a body as
+consisting of a great many small parts, each of which is in
+motion. We shall call any one of these parts a molecule of
+the substance. A molecule may therefore be denned as a
+small mass of matter the parts of which do not part com-
+pany during the excursions which the molecule makes when
+the body to which it belongs is hot.
+   The doctrine that visible bodies consist of a determinate
+number of molecules is called the molecular theory of matter.
+The opposite doctrine is that, however small the parts may
+                                                                  A
+be into which we divide a body, each part retains all the
+properties of the substance. This is the theory of the
+infinite divisibility of bodies. We do not assert that there
+is an absolute limit to the divisibility of matter : what we
+assert is, that after we have divided a body into a certain
+finite number of constituent parts called molecules, then
+any further division of these molecules will deprive them
+of the properties which give rise to the phenomena ob-
+served in the substance.
+   The opinion that the observed properties of visible bodies
+apparently at rest are due to the action of invisible mole-
+cules in rapid motion is to be found in Lucretius.
+— Daniel Bernoulli was the first to suggest that the pressure
+of air is due^ to the impact of its particles on the sides of
+the vessel containing it; but he made very little progress in
+the theory which he suggested.
+   Lesage and Prevost of Geneva, and afterwards Herapath
+in his ' Mathematical Physics/ made several important appli-
+cations of the theory.
+   Dr. Joule in 1848 explained the pressure of gases by the
+impact of their molecules, and calculated the velocity which
+they must have to produce the observed pressure.
+   Kronig also directed attention to this explanation of the
+phenomena of gases.
+   It is to Professor Clausius, however, that we owe the recerj
+development of me dynamical theory of gases.
+     3°6                Molecular    Theory.
+
+   took up the subject a great advance has been made by
+   many enquirers. I shall now endeavour to give a sketch of
+   the present state of the theory,
+ ^i All bodies consist of a finite number of small parts called
+& molecules. Every molecule consists of a definite quantity
+   of matter, which is exactly the same for all the molecules of
+   the same substance. The mode in which the molecule is
+   bound together is also the same for all molecules of the
+   same substance. A molecule may consist of several distinct
+   portions of matter held together by chemical bonds, and
+   may be set in vibration, rotation, or any other kind of
+   relative motion, but so long as the different portions do
+   not part company, but travel together in the excursions
+   made by the molecule, our theory calls the whole connected
+   mass a single molecule.
+      The molecules of all bodies are in a state of continual
+   agitation. The hotter a body is, the more violently are its
+   molecules agitated. In solid bodies, a molecule, though in
+   continual motion, never gets beyond a certain very small
+   distance from its original position in the body. The path
+   which it describes is confined within a very small region
+   of space.
+      In fluids, on the other hand, there is no such restriction
+   to the excursions of a molecule. It is true that the mole-
+   cule generally can travel but a very small distance before
+   its path is disturbed by an encounter with some other mole-
+   cule ; but after this encounter there is nothing which deter-
+   mines the molecule rather to return towards the place from
+   whence it came than to push its way into new regions.
+   Hence in fluids the path of a molecule is not confined
+   within a limited region, as in the case of solids, but may
+   penetrate to any part of the space occupied by the fluid.
+      The actual phenomena of diffusion both in liquids and
+   in gases furnish the strongest evidence that these bodies
+   consist of molecules in a state of continual agitation.
+      But when we apply the methods of dynamics to the
+              Encounters between Molecules.              3°7
+investigation of the properties of a system consisting of a
+great number of small bodies in motion the resemblance
+of such a system to a gaseous body becomes still more
+apparent.
+   I shall endeavour to give some account of what is known
+of such a system, avoiding all unnecessary mathematical
+calculations.
+
+            ON T H E KINETIC THEORY OF GASES.
+
+     A gaseous body is supposed to consist of a great number
+of molecules moving with great velocity. During the greater
+ part of their course these molecules are not acted on by any
+sensible force, and therefore move in straight lines with
+ uniform velocity. When two molecules come within a
+ certain distance of each other, a mutual action takes place
+ between them, which may be compared to the collision of
+ two billiard balls. Each molecule has its course changed,
+ and starts on a new path. I have concluded from some
+ experiments of my own that the collision between two hard
+ spherical balls is not an accurate representation of what
+ takes place during the encounter of two molecules. A
+ better representation of such an encounter will be obtained
+> by supposing the molecules to act on one another in a more
+ gradual manner, so that the action between them goes on for
+ a finite time, during which the centres of the molecules first
+ approach each other and then separate.
+     We shall refer to this mutual action as an Encounter
+ between two molecules, and we shall call the course of a
+ molecule between one encounter and another the Free Path
+ of the molecule. In ordinary gases the free motion of a
+ molecule takes up much more time than that occupied by an
+ encounter. As the density of the gas increases, the free path
+ diminishes, and in liquids no part of the course of a molecule
+ can be spoken of as its free path.
+     In an encounter between two molecules we know that,
+  since the force of the impact acts between the two bodies,
+    308                  Molecular    Theory.
+
+    the motion of the centre of gravity of the two molecules
+    remains the same after the encounter as it was before. We
+    also know by the principle of the conservation of energy that
+    the velocity of each molecule relatively to the centre of
+    gravity remains the same in magnitude, and is only changed
+    in direction.
+       Let us next suppose a number of molecules in motion
+    contained in a vessel whose sides are such that if any
+    energy is communicated to the vessel by the encounters of
+    molecules against its sides, the vessel communicates as
+    much energy to other molecules during their encounters
+    with it, so as to preserve the total energy of the enclosed
+    system. The first thing we must notice about this moving
+    system is that even if all the molecules have the same velo-
+    city originally, their encounters will produce an inequality
+/   of velocity, and that this distribution of velocity will go on
+    continually. Every molecule will then change both its
+    direction and its velocity at every encounter; and, as we
+    are not supposed to keep a record of the exact particulars
+    of every encounter, these changes of motion must appear to
+    us very irregular if we follow the course of a single molecule.
+    If, however, we adopt a statistical view of the system, and
+    distribute the molecules into groups, according to the
+    velocity with which at a given instant they happen to be
+    moving, we shall observe a regularity of a new kind in the
+    proportions of the whole number of molecules which fall into
+    each of these groups.
+       And here I wish to point out that, in adopting this
+    statistical method of considering the average number of
+    groups of molecules selected according to their velocities, we
+    have abandoned the strict kinetic method of tracing the
+    exact circumstances of each individual molecule in all its
+    encounters. It is therefore possible that we may arrive at
+    results which, though they fairly represent the facts as long
+    as we are supposed to deal with a gas in mass, would cease
+    to be applicable if our faculties and instruments were so
+                                             FXfoMJWqAt
+                                                   f<rtr\
+                 Distribution   of Energy.                 309
+
+sharpened that we could detect and lay hold of each mole-
+cule and trace it through all its course.
+   For the same reason, a theory of the effects of education
+deduced from a study of the returns of registrars, in which no
+names of individuals are given, might be found not to be
+applicable to the experience of a schoolmaster who is able
+to trace the progress of each individual pupil.
+   The distribution of the molecules according to their veloci-
+ties is found to be of exactly the same mathematical form as
+the distribution of observations according to the magnitude of        f
+their errors, as described in the theory of errors of observation. V\
+The distribution of bullet-holes in a target according to their     *
+distances from the point aimed at is found to be of the same
+form, provided a great many shots are fired by persons of
+the same degree of skill.
+   We have already met with the same form in the case of
+heat diffused from a hot stratum by conduction. Whenever
+in physical phenomena some cause exists over which we
+have no control, and which produces a scattering of the
+particles of matter, a deviation of observations from the truth,
+or a diffusion of velocity or of heat, mathematical expressions    ^A
+of this exponential form are sure to make their appearance.        ^T
+   It appears then that of the molecules composing the
+system some are moving very slowly, a very few are moving
+with enormous velocities, and the greater number with inter-
+mediate velocities. To compare one such system with
+another, the best method is to take the mean of the squares
+of all the velocities. This quantity is called the Mean Square
+of the velocity. The square root of this quantity is called
+the Velocity of Mean Square.                    /icref ^^ts S<AACU^C
+                                                             f
+    DISTRIBUTION OF KINETIC ENERGY BETWEEN TWO
+              DIFFERENT SETS OF MOLECULES.
+
+  If two sets of molecules whose mass is different are in
+motion in the same vessel, they will by their encounters
+326                 Molecular    Theory.
+
+be considered as depending on the coefficient of diffusion of
+the components through each other.
+           MOLECULAR THEORY OF RADIATION.
+
+   The phenomena already described are explained on the
+molecular theory by the motion of agitation of the molecules,
+a motion which is exceedingly irregular, the intervals between
+successive encounters and the velocities of a molecule
+during successive free paths not being subj ect to any law
+which we can express. The internal motion of a single
+molecule is of a very different kind. If the parts of the
+molecule are capable of relative motion without being
+altogether torn asunder, this relative motion will be some
+kind of vibration. The small vibrations of a connected sys-
+tem may be resolved into a number of simple vibrations, the
+law of each of which is similar to that of a pendulum. It is
+probable that in gases the molecules may execute many of
+such vibrations in the interval between successive encounters.
+At each encounter the whole molecule is roughly shaken.
+During its free path it vibrates according to its own laws,
+the amplitudes of the different simple vibrations being deter-
+mined by the nature of the collision, but their periods
+depending only on the constitution of the molecule itself.
+If the molecule is capable of communicating these vibrations
+to the medium in which radiations are propagated, it will
+send forth radiations of certain definite kinds, and if these
+belong to the luminous part of the spectrum, they will be
+visible as light of definite refrangibility. This, then, is the
+explanation, on che molecular theory, of the bright lines
+observed in the spectra of incandescent gases. They repre-
+sent the disturbance communicated to the luminiferous
+medium by molecules vibrating in a regular and periodic
+manner during their free paths. If the free path is long,
+the molecule, by communicating its vibrations to the ether,
+will cease to vibrate till it encounters some other molecule.
+  By raising the temperature we increase the velocity of
+                         Radiation.                       327
+
+the motion of agitation and the force of each encounter.
+The higher the temperature the greater will be the ampli-
+tude of the internal vibrations of all kinds, and the more
+likelihood will there be that vibrations of short period will
+be excited, as well as those fundamental vibrations which
+are most easily produced. By increasing the density we
+diminish the length of the free path of each molecule, and
+thus allow less time for the vibrations excited at each
+encounter to subside, and, since each fresh encounter dis-
+turbs the regularity of the series of vibrations, the radiation
+will no longer be capable of complete resolution into a
+series of vibrations of regular periods, but will be analysed
+into a spectrum showing the bright bands due to the regular
+vibrations, along with a ground of diffused light, forming a
+continuous spectrum due to the irregular motion introduced
+at each encounter.
+   Hence when a gas is rare the bright lines of its spectrum
+are narrow and distinct, and the spaces between them are
+dark. As the density of the gas increases, the bright lines
+become broader and the spaces between them more
+luminous.
+   There is another reason for the broadening of the bright
+lines and the luminosity of the whole spectrum in dense
+gases, which we have already stated at p. 245. There is
+this difference, however, between the effect there mentioned
+and that described here. At p. 245 the light from a
+certain stratum of incandescent gas was supposed to pene-
+trate through other strata, which absorbed the brighter rays
+faster than the less luminous ones. This effect depends
+only on the total quantity of gas through which the rays
+pass, and will be the same whether it is a mile of gas at
+thirty inches pressure, or thirty miles at one inch pressure.
+The effect which we are now considering depends on the
+absolute density, so that it is by no means the same whether
+a stratum containing a given quantity of gas is one mile or
+thirty miles thick.
+      328                 Molecular    Theory.
+
+         When the gas is so far condensed that it assumes the
+      liquid or solid form, then, as the molecules have no free
+      path, they have no regular vibrations, and no bright lines
+      are commonly observed in incandescent liquids or solids.
+      Mr, Huggins, however, has observed bright lines in the
+      spectrum of incandescent erbia and lime, which appear to
+      be due to the solid matter, and not to its vapour.
+
+       LIMITATION OF THE SECOND LAW OF THERMODYNAMICS.
+
+         Before I conclude, I wish to direct attention to an aspect
+      of the molecular theory which deserves consideration.
+          One of the best established facts in thermodynamics is
+      that it is impossible in a system enclosed in an envelope
+      which permits neither change of volume nor passage of heat,
+      and in which both the temperature and the pressure are every-
+      where the same, to produce any inequality of temperature or
+      of pressure without the expenditure of work.       This is the
+^     second law of thermodynamics, and it is undoubtedly true
+ ©    as long as we can deal with bodies only in mass, and have
+      no power of perceiving or handling the separate molecules
+      of which they are made up. But if we conceive a being
+^
+      whose faculties are so sharpened that he can follow every
+j     molecule in its course, such a being, whose attributes are still
+vJ    as essentially finite as our own, would be able to do what is
+  v   at present impossible to us. For we have seen that the
+J     molecules in a vessel full of air at uniform temperature are
+^      moving with velocities by no means uniform, though the
+ \     mean velocity of any great number of them, arbitrarily
+      selected, is almost exactly uniform. Now let us suppose
+      that such a vessel is divided into two portions, A and B, by
+      a division in which there is a small hole, and that a being,
+      who can see the individual molecules, opens and closes this
+       hole, so as to allow only the swifter molecules to pass
+       from A to B, and only the slower ones to pass from E to A.
+       H e will thus, without expenditure of work, raise the tern-
+               Statistical Knowledge of Bodies.            329
+   perature of B and lower that of A, in contradiction to the
+   second law of thermodynamics.
+      This is only one of the instances in which conclusions
+   which we have drawn from our experience of bodies con-
+   sisting of an immense number of molecules may be found
+   not to be applicable to the more delicate observations and
+   experiments which we may suppose made by one who can
+   perceive and handle the individual molecules which we deal
+   with only in large masses.
+      In dealing with masses of matter, while we do not perceive
+   the individual molecules, we are compelled to adopt what I
+   have described as the statistical method of calculation, and
+   to abandon the strict dynamical method, in which we follow      1*
+   every motion by the calculus.
+       It would be interesting to enquire how far those ideas
+   about the nature and methods of science which have been
+   derived from examples of scientific investigation in which
+   the dynamical method is followed are applicable to our
+   actual knowledge of concrete things, which, as we have seen,
+-^ is of an essentially statistical nature, because no one has
+   yet discovered any practical method of tracing the path
+   of a molecule, or of identifying it at different times.
+       I do not think, however, that the perfect identity which
+   we observe between different portions of the same kind of
+   matter can be explained on the statistical principle of the
+    stability of the averages of large numbers of quantities
+    each of which may differ from the mean. For if of the
+    molecules of some substance such as hydrogen, some were        *
+    of sensibly greater mass than others, we have the means
+    of producing a separation between molecules of different
+    masses, and in this way we should be able to produce two
+    kinds of hydrogen, one of which would be somewhat denser
+    than the other. As this cannot be done, we must admit that
+    the equality which we assert to exist between the molecules    ^
+    of hydrogen applies to each individual molecule, and not
+    merely to the average of groups of millions of molecules.
+
+
+
+                                                                   v
+          33°                  Molecular Theory.
+
+                     NATURE AND ORIGIN OF MOLECULES.
+
+             We have thus been led by our study of visible things to a
+          theory that they are made up of a finite number of parts or
+          molecules, each of which has a definite mass, and possesses
+          other properties. The molecules of the same substance are
+j?        all exactly alike, but different from those of other substances.
+          There is not a regular gradation in the mass of molecules
+          from that of hydrogen, which is the least of those known to
+          us, to that of bismuth ; but they all fall into a limited
+          number of classes or species, the individuals of each
+          species being exactly similar to each other, and no inter-
+
+T
+ \f
+      1   mediate links are found to connect one species with
+          another by a uniform gradation.
+             We are here reminded of certain speculations concerning
+          the relations between the species of living things. We find
+          that in these also the individuals are naturally grouped into
+          species, and that intermediate links between the species are
+          wanting. But in each species variations occur, and there is
+          a perpetual generation and destruction of the individuals of
+          which the species consist.
+              Hence it is possible to frame a theory to account for the
+          present state of things by means of generation, variation,
+          and discriminative destruction.
+_v            In the case of the molecules, however, each individual is
+ '         permanent; there is no generation or destruction, and no
+          variation, or rather no difference, between the individuals of
+          each species.
+              Hence the kind of speculation with which we have
+          become so familiar under the name of theories of evolution
+          is quite inapplicable to the case of molecules.
+              It is true that Descartes, whose inventiveness knew no
+          bounds, has given a theory of the evolution of molecules.
+           He supposes that the molecules with which the heavens
+           are nearly filled have received a spherical form from the
+           long-continued grinding of their projecting parts, so that,
+        Equality and Permanence of Molectdes.               331
+
+like marbles in a mill, they have ' rubbed each other's angles
+down.' The result of this attrition forms the finest kind of
+molecules, with which the interstices between the globular
+molecules are filled. But, besides these, he describes another
+elongated kind of molecules, the particula striata, which
+have received their form from their often threading the
+interstices between three spheres in contact. They have thus
+acquired three longitudinal ridges, and, since some of them
+during their passage are rotating on their axes, these ridges
+are not in general parallel to the axis, but are twisted like
+the threads of a screw. By means of these little screws
+he most ingeniously attempts to explain the phenomena of
+magnetism.
+    But it is evident that his molecules are very different from
+ours. His seem to be produced by some general break-up
+of his solid space, and to be ground down in the course of
+ages, and, though their relative magnitude is in some degree
+ determinate, there is nothing to determine the absolute
+magnitude of any of them.
+    Our molecules, on the other hand, are unalterable by any
+ of the processes which go on in the present state of things,
+and every individual of each species is of exactly the same
+magnitude, as though they had all been cast in the same
+ mould, like bullets, and not merely selected and grouped
+ according to their size, like small shot.
+    The individuals of each species also agree in the nature of
+ the light which they emit—that is, in their natural periods of
+ vibration. They are therefore like tuning-forks all tuned to
+concert pitch, or like watches regulated to solar time.
+    In speculating on the cause of this equality we are debarred
+from imagining any cause of equalization, on account of the
+immutability of each individual molecule. It is difficult, on the
+other hand, to conceive of selection and elimination of inter-
+mediate varieties, for where can these eliminated molecules
+have gone to if, as we have reason to believe, the hydrogen,
+&c, of the fixed stars is composed of molecules identical in
+       332                     Molecular    Theory.
+
+       all respects with our own ? The time required to eliminate
+       from the whole of the visible universe every molecule whose
+       mass differs from that of some one of our so-called elements,
+       by processes similar to Graham's method of dialysis, which
+       is the only method we can conceive of at present, would
+       exceed the utmost limits ever demanded by evolutionists
+       as many times as these exceed the period of vibration of a
+       molecule.
+ or^       But if we suppose the molecules to be made at all, or if
+y-
+       we suppose them to consist of something previously made,
+       why should we expect any irregularity to exist among them ?
+       If they are, as we believe, the only material things which
+       still remain in the precise condition in which they first
+       began to exist, why should we not rather look for some
+       indication of that spirit of order, our scientific confidence
+       in which is never shaken by the difficulty which we expe-
+        rience in tracing it in the complex arrangements of visible
+        things, and of which our moral estimation is shown in all
+        our attempts to think and speak the truth, and to ascertain
+        the exact principles of distributive justice ?
+
+                                                          1
+                                  APPENDIX.
+
+       Table of the Coefficients of Interdiffusion of Gases, from the Memoir oj
+          Professor Loschmidt {see p. 279), in square centimetres per second
+
+
+             Carbonic acid           . Air.                       •1423
+                 —                     Hydrogen                   •S6i4
+                 —-                    Oxygen .                   •1409
+                 —                     Marsh gas                  •1586
+                 —                     Carbonic oxide .           •1406
+                 —                     Nitrous oxide .            •0982
+             Oxygen                    Hydrogen                   •7214
+                 —                     Carbonic oxide .       ,   -1802
+             Carbonic oxide          . Hydrogen                   •6422
+             Sulphurous acid           Hydrogen                   •4800
+

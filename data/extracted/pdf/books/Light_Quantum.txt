@@ -1,0 +1,310 @@
+        46   My God, He Plays Dice!
+Chapter 6
+
+
+
+
+                            a nt u m
+                        Q u
+                  Lightpothesis
+                     Hy
+                                       Light Quantum Hypothesis                      47
+
+
+Light Quantum Hypothesis
+   In his “miracle year” of 1905, Einstein wrote four extraordinary
+papers, one of which won him the 1921 Nobel prize in physics.
+Surprisingly, the prize was not for his third paper, on the theory
+
+
+
+
+                                                                                      Chapter 6
+of relativity. Special relativity was accepted widely, but it remained
+controversial for some conservative physicists on the Nobel
+committee. Nor was it for the second paper, in which Einstein
+showed how to prove the existence of material particles. Nor even
+the fourth, in which the famous equation E = mc2 first appeared.
+   Einstein’s Nobel Prize was for the first paper of 1905. In it he
+hypothesized the existence of light particles. The prize was not for
+this hypothesis he called “very revolutionary.” The prize was for
+his explanation for the photoelectric effect (as quanta of light!).
+   The idea that light consists of discrete “quanta,” which today we
+call photons, was indeed so revolutionary that it was not accepted
+by most physicists for nearly two decades, and then reluctantly,
+because it leaves us with the mysterious dual aspect of light as
+sometimes a particle, and sometimes a wave.
+   A close reading of Einstein’s work will give us the tools to
+resolve this quantum mystery and several others. But we begin
+with trying to see today what Einstein already saw clearly in 1905.
+   We must keep in mind that the model of a physical theory for
+Einstein was a “field theory.” A field is a continuous function of four-
+dimensional space-time variables such as Newton’s gravitational
+field and Maxwell’s electrodynamics.
+   For Einstein, the theories and principles of physics are fictions
+and “free creations of the human mind.” Although they must
+be tested by experiment, one cannot derive the basic laws from
+experience, he said. And this is particularly true of field theories,
+like his dream of a “unified field theory.” They are thought to have
+continuous values at every point in otherwise empty space and
+time. Listen to Einstein’s concern in his first sentence of 1905...
+    There exists a profound formal distinction between the
+    theoretical concepts which physicists have formed regarding
+    gases and other ponderable bodies and the Maxwellian theory
+    of electromagnetic processes in so-called empty space. 1
+   1      “The Production and Transformation of Light from a Heuristic Viewpoint,”
+Collected Papers of Albert Einstein, Doc. 14. p.86
+        48         My God, He Plays Dice!
+
+                   According to the Maxwellian theory, energy is to be considered
+                   a continuous spatial function in the case of all purely
+                   electromagnetic phenomena including light, while the energy of
+                   a ponderable object should, according to the present conceptions
+                   of physicists, be represented as a sum carried over the atoms and
+Chapter 6
+
+
+
+
+                   electrons... 2
+                Here Einstein first raises the deep question that we hope to show
+             he struggled with his entire life. Is nature continuous or discrete?
+                Is it possible that the physical world is made up of nothing but
+             discrete discontinuous particles? Are continuous fields with well-
+             defined values for matter and energy at all places and times simply
+             fictional constructs, averages over large numbers of particles?
+                   The energy of a ponderable body cannot be subdivided into
+                   arbitrarily many or arbitrarily small parts, while the energy of a
+                   beam of light from a point source (according to the Maxwellian
+                   theory of light or, more generally, according to any wave theory)
+                   is continuously spread over an ever increasing volume.
+                    It should be kept in mind, however, that the optical observations
+                   refer to time averages rather than instantaneous values. In spite
+                   of the complete experimental confirmation of the theory as
+                   applied to diffraction, reflection, refraction, dispersion, etc., it
+                   is still conceivable that the theory of light which operates with
+                   continuous spatial functions may lead to contradictions with
+                   experience when it is applied to the phenomena of emission and
+                   transformation of light. 3
+                One should keep in mind, Einstein says, that our observations
+             apply to averages (over a finite number of particles) and that a
+             continuum theory leads to contradictions with emission and
+             absorption processes. In particular, the continuum has an infinite
+             number of “degrees of freedom,” while matter and energy quanta
+             are finite. We saw in chapter 3 that Ludwig Boltzmann had made
+             this point,
+                   “An actual continuum must consist of an infinite number
+                   of parts; but an infinite number is undefinable... Thus the
+                   mechanical foundations of the partial differential equations,
+                   when based on the coming and going of smaller particles, with
+                   restricted average values, gain greatly in plausibility.” 4
+               2       CPAE, Doc. 14. p.86
+               3       CPAE, Doc. 14. p.86-87
+               4       Lectures on Gas Theory, §1, p.27
+                                 Light Quantum Hypothesis                  49
+
+
+The Photoelectric Effect
+   Continuing his investigations into a single theory that would
+describe both matter and radiation, Einstein proposed his “very
+revolutionary” hypothesis to explain a new experiment that showed
+a direct connection between radiation and electrons.
+
+
+
+
+                                                                            Chapter 6
+   Before Einstein, it was thought that the oscillations of electrons in
+a metal are responsible for the emission of electromagnetic waves,
+but Einstein argued that it is the absorption of light that is causing
+the ejection of electrons from various metal surfaces.
+   It is called the photoelectric effect.
+   Heinrich Hertz had shown in 1889 that high-voltage spark gaps
+emit electromagnetic waves that are light waves obeying Maxwell’s
+equations. He also noticed that ultraviolet light shining on his spark
+gaps helped them to spark. In 1902, the Hungarian physicist Philipp
+Lenard confirmed that light waves of sufficiently high frequency ν
+shining on a metal surface cause it to eject electrons.
+   To Lenard’s surprise, below a certain frequency, no electrons
+are ejected no matter how strong he made the intensity of the
+light. Assuming that the energy in the light wave was simply being
+converted into the energy of moving electrons, this made no sense.
+   Furthermore, when Lenard increased the frequency of the
+incident light (above a critical frequency νc) the ejected electrons
+appeared to move faster for higher light frequencies.
+   These strange behaviors gave Einstein very strong reasons for
+imagining that light must be concentrated in a physically localized
+bundle of energy. He wrote:
+    The usual conception, that the energy of light is continuously
+    distributed over the space through which it propagates,
+                                   encounters very serious
+                                   difficulties when one attempts
+                                   to explain the photoelectric
+                                   phenomena, as has been pointed
+                                   out in Herr Lenard’s pioneering
+                                   paper.
+                                  According to the concept that the
+                                  incident light consists of energy
+                                  quanta of magnitude Rβν/N [hν],
+        50         My God, He Plays Dice!
+
+                   however, one can conceive of the ejection of electrons by light in
+                   the following way. Energy quanta penetrate into the surface layer
+                   of the body, and their energy is transformed, at least in part,
+                   into kinetic energy of electrons. The simplest way to imagine
+                   this is that a light quantum delivers its entire energy to a single
+Chapter 6
+
+
+
+
+                   electron; we shall assume that this is what happens...
+                   An electron to which kinetic energy has been imparted in the
+                   interior of the body will have lost some of this energy by the
+                   time it reaches the surface. Furthermore, we shall assume that in
+                   leaving the body each electron must perform an amount of work
+                   P characteristic of the substance...
+                   If each energy quantum of the incident light, independently of
+                   everything else, delivers its energy to electrons, then the velocity
+                   distribution of the ejected electrons will be independent of the
+                   intensity of the incident light; on the other hand the number of
+                   electrons leaving the body will, if other conditions are kept con-
+                   stant, be proportional to the intensity of the incident light... 5
+                Einstein shows here that the whole energy of an incident light
+             quantum is absorbed by a single electron.
+                Some of the energy absorbed by the electron becomes P, the work
+             needed to escape from the metal. The rest is the kinetic energy E =
+             ½ mv2 of the electron. Einstein’s “photoelectric equation” thus is
+                E = hν - P.
+                Einstein’s equation predicted a linear relationship between the
+             frequency of Einstein’s light quantum hν, and the energy E of the
+             ejected electron. It was more than ten years later that R. A. Millikan
+             confirmed Einstein’s photoelectric equation. Millikan nevertheless
+             denied that his experiment proved Einstein’s radical but clairvoyant
+             ideas about light quanta! He said in 1916
+                   Einstein’s photoelectric equation... cannot in my judgment be
+                   looked upon at present as resting upon any sort of a satisfactory
+                   theoretical foundation. 6
+
+               5       CPAE, vol.2, Doc. 14, p.99.
+               6       A Direct Photoelectric Determination of Planck’s “h”. Physical Review, 7(3), 355.
+                                          Light Quantum Hypothesis      51
+
+
+
+
+                                                                         Chapter 6
+  Figure 6-7. The Photoelectric Effect.
+
+The Entropies of Radiation and Matter
+   Einstein clearly recognized the well-established difference
+between matter and energy, but he hoped to find some kind of
+symmetry between them in a general theory that describes them
+both.
+   Within the 1905 year, he writes the most famous equation in
+physics that connects the two, E = mc2. But Einstein discovers
+a symmetry by calculating the entropy of matter and radiation,
+using the methods he developed in his three papers on statistical
+mechanics. 7
+   Einstein begins by asking for the probability W that a particular
+movable point (an abstract property of a molecule) would be
+randomly found in a small volume v in a large container with volume
+v0. He then asks “how great is the probability that at a randomly
+chosen instant of time all n independently movable points in a given
+volume v0 will be contained (by chance) in volume v?”
+   The probability of independent events is the product of the
+individual probabilities, so W = [v/ v0]n. Einstein then uses
+“Boltzmann’s Principle, that the entropy S = k log W.
+   S - S0 = k log [v/ v0]n = k n log [v/ v0]
+   Einstein derived a similar expression for the entropy of radiation
+with energy E and frequency ν as
+  7     See chapter 5.
+        52         My God, He Plays Dice!
+
+               S - S0 = k (E/hν) log [v/ v0]
+               If we compare the two expressions, it appears that E/hν is the
+             number of independent light particles. Einstein concluded
+                   Monochromatic radiation of low density (within the range of
+                   validity of Wien’s radiation formula) behaves thermodynamically
+Chapter 6
+
+
+
+
+                   as if it consisted of mutually independent energy quanta of
+                   magnitude hν [Einstein wrote Rβν/N]. 8
+               Einstein showed that thermodynamically, radiation behaves like
+             gas particles. It seems reasonable, he said,
+                   “to investigate whether the laws of generation and conversion of
+                   light are also so constituted as if light consisted of such energy
+                   quanta. Light can not be spread out continuously in all directions
+                   if individual energy quanta can be absorbed as a unit that ejects
+                   a photoelectron in the photoelectric effect.”
+
+             Nonlocality
+                How can energy spread out continuously over a large volume yet
+             later be absorbed in its entirety at one place, without contradicting
+             his principle of relativity? Einstein clearly describes here what is
+             today known as nonlocality, but he does not describe it explicitly
+             until 1927, and then only in comments at the fifth Solvay conference.
+             He does not publish his concerns until the EPR paper in 1935!
+                If the energy travels as a spherical light wave radiated into space
+             in all directions, how can it instantaneously collect itself together
+             to be absorbed into a single electron. Einstein already in 1905 sees
+             something nonlocal about the photon. What is it that Einstein sees?
+                It is events at two points in a spacelike separation occurring
+             “simultaneously,” a concept that his new special theory of relativity
+             says is impossible in any absolute sense.
+                 He also sees that there is both a wave aspect and a particle aspect
+             to electromagnetic radiation. He strongly contrasts the finite number
+             of variables that describe discrete matter with the assumption of
+             continuous radiation.
+                   While we consider the state of a body to be completely determined
+                   by the positions and velocities of a very large, yet finite, number of
+               8       CPAE, vol2. Doc.14, p.97.
+                                   Light Quantum Hypothesis             53
+
+   atoms and electrons, we make use of continuous spatial functions
+   to describe the electromagnetic state of a given volume, and a
+   finite number of parameters cannot be regarded as sufficient for
+   the complete determination of such a state.
+   The wave theory of light, which operates with continuous spatial
+
+
+
+
+                                                                         Chapter 6
+   functions, has worked well in the representation of purely optical
+   phenomena and will probably never be replaced by another
+   theory.
+   It seems to me that the observations associated with blackbody
+   radiation, fluorescence, the production of cathode rays by
+   ultraviolet light, and other related phenomena connected
+   with the emission or transformation of light are more
+   readily understood if one assumes that the energy of light is
+   discontinuously distributed in space.
+   In accordance with the assumption to be considered here, the
+   energy of a light ray spreading out from a point source is not
+   continuously distributed over an increasing space but consists of
+   a finite number of energy quanta which are localized at points
+   in space, which move without dividing, and which can only be
+   produced and absorbed as complete units.
+   We therefore arrive at the conclusion: the greater the energy
+   density and the wavelength of a radiation, the more useful do
+   the theoretical principles we have employed turn out to be; for
+   small wavelengths and small radiation densities, however, these
+   principles fail us completely. 9
+ As late as the Spring of 1926, perhaps following Niels Bohr,
+Werner Heisenberg could not believe in the reality of light quanta.
+   Whether or not I should believe in light quanta, I cannot say at
+   this stage. Radiation quite obviously involves the discontinuous
+   elements to which you refer as light quanta. On the other hand,
+   there is a continuous element, which appears, for instance,
+   in interference phenomena, and which is much more simply
+   described by the wave theory of light. But you are of course quite
+   right to ask whether quantum mechanics has anything new to
+   say on these terribly difficult problems. I believe that we may at
+   least hope that it will one day. 10
+  9    CPAE, vol.2, Document 14,
+  10   Physics and Beyond, p. 67
+

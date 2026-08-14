@@ -1,0 +1,1099 @@
+                   Dual-Aspect Monism
+                   à la Pauli and Jung
+
+                      Harald Atmanspacher
+
+    Institute for Frontier Areas of Psychology, Freiburg
+                Collegium Helveticum, Zürich
+
+
+
+
+                                    Abstract
+         Dual-aspect monism and neutral monism offer interesting alternatives
+     to mainstream positions concerning the mind-matter problem. Both as-
+     sume a domain underlying the mind-matter distinction, but they also
+     differ in definitive ways. In the 20th century, variants of both positions
+     have been advanced by a number of protagonists. One of these variants,
+     the dual-aspect monism due to Wolfgang Pauli and Carl Gustav Jung,
+     will be described and commented on in detail. As a unique feature in
+     the Pauli-Jung conception, the duality of mental and material aspects is
+     specified in terms of a complementarity. This sounds innocent, but en-
+     tails a number of peculiarities distinguishing their conjecture from other
+     approaches.
+
+
+
+
+Contents
+1 Dual-Aspect Monism                                                              1
+  1.1 Dual-Aspect Monism Versus Neutral Monism . . . . . . . . . . .              1
+  1.2 Varieties of Dual-Aspect Monism from Science . . . . . . . . . .            2
+  1.3 Complementary Dual Aspects . . . . . . . . . . . . . . . . . . . .          5
+
+2 The Pauli-Jung Conjecture                                                       7
+  2.1 Local Realism and Holism in the Material Domain . . . . . . . .             9
+  2.2 Consciousness and the Unconscious
+      in the Mental Domain . . . . . . . . . . . . . . . . . . . . . . . .        11
+  2.3 Archetypes and Unus Mundus . . . . . . . . . . . . . . . . . . . .          13
+  2.4 Mind-Matter Correlations and Synchronicity . . . . . . . . . . .            15
+
+
+       Published in Journal of Consciousness Studies 19(9-10) (2012)
+1     Dual-Aspect Monism
+1.1     Dual-Aspect Monism Versus Neutral Monism
+The classic starting point for most contemporary discussions of mind-matter
+relations is Descartes’ ontologically conceived dualism of the mental (res cogi-
+tans, thought) and the material (res extensa, extended matter). In the history
+of philosophy, Descartes’ position was immediately upgraded, criticized, or re-
+placed by essentially three forms of thought: (i) alternative dualistic approaches
+(occasionalism, parallelism), (ii) essentially monistic approaches (idealism, ma-
+terialism), and (iii) approaches combining (i) and (ii) by assuming a monistic
+domain underlying the mind-matter distinction. An early protagonist of this
+latter view is Baruch de Spinoza.
+    Spinoza’s monism provides an elegant and robust sense in which mind and
+matter are related to a “unity of essence”. It does so by concatenating an onto-
+logical monism with an epistemological dualism, yielding an overall worldview
+in which both philosophy and the sciences can find appropriate places and mu-
+tual relations. This framework began to be explicitly exploited in the mid 19th
+century, by both philosophers and scientists, and today we can recognize two
+main reactions to Spinozism, called dual-aspect monism1 and neutral monism.
+    Unfortunately, there is no authoritative delineation of the two – the many
+versions of dual-aspect monism and neutral monism that are around today have
+a tendency to blend into each other in ways that make clear assignments to one
+or the other problematic. This can be seen in Stubenberg’s (2010) excellent
+overview, see also Silberstein’s (2009) taxonomy and Seager’s (2009) discus-
+sion, among others. There are important commonalities but also key differences
+between dual-aspect monism and neutral monism:
+    1. For neutral monists both mind and matter reduce to an underlying, neu-
+       tral domain, while for dual-aspect monists mind and matter are two basic
+       and irreducible aspects of that underlying domain. In both frameworks,
+       the underlying, ontic domain (and its elements, respectively), is mostly
+       characterized as neither mental nor material.
+    2. For neutral monists mind and matter are separate insofar as particular
+       configurations of elements of the neutral domain underlie the mental while
+       other, distinct configurations of elements of the neutral domain underlie
+       the material. For dual-aspect monists the underlying, ontic domain man-
+       ifests itself generally and equally under both aspects, tied together insep-
+       arably. (There are different ways in which they are tied together, leading
+       to different types of duality, see Sec. 1.3.)
+   An interesting implication of these two criteria is that the aspects in dual-
+aspect monism are not a priori given, but depend on epistemic issues and
+   1 Other terms for dual-aspect monism are dual-aspect theory or dual-aspect approach, and
+
+frequently “dual” is replaced by “double”. It should also be mentioned that the restriction
+to two aspects is a matter of simplicity rather than canonical. For instance, for Spinoza the
+number of possible aspects is infinite.
+
+
+                                             1
+contexts. Distinctions of aspects are generated by “epistemic splits” of the
+distinction-free, unseparated underlying domain, and in principle there can be
+as many aspects as there are contexts. This is at variance with neutral monism
+where the mind-matter distinction is assumed to be preformed in the neutral
+domain: particular configurations of neutral elements underlie the mental while
+other, distinct configurations of neutral elements underlie the material.
+    Moreover, the two criteria entail an interesting further dividing line between
+prevalent philosophical inclications toward the underlying domain. For dual-
+aspect monists this domain is apprehensible only indirectly, through the as-
+pects, while neutral monists deny this restriction. Therefore, it is natural for
+dual-aspect monists to nurture metaphysical conceptions of the underlying do-
+main, while neutral monists typically refer to direct, basic, pure, raw modes of
+apprehending it, for instance experientially or phenomenologically.
+    Stubenberg’s (2010) review clearly supports this observation. Ernst Mach,
+William James, and Bertrand Russell, the forefront of neutral monism, refer to
+“sensation”, “pure experience”, and again “sensation”, respectively, concerning
+the neutral domain, and these notions are redigested by other neutral monists
+such as Avenarius, Petzoldt, Perry, Holt, Sayre etc. Their empirical, hence anti-
+metaphysical, inclination explains why their notions of the neutral domain all
+bear the risk of confusing the neutral with some mental capacity. Assuming
+that the neutral can be apprehended directly, how could it be apprehended if
+not mentally?
+    By contrast, dual-aspect monists do not hesitate to embrace ontology and
+metaphysics. Since their underlying domain (substantial or processual) is con-
+ceived of metaphysically, it cannot be apprehensible in any direct way but man-
+ifests itself in its aspects. Beyond the well-known historical representatives of
+dual-aspect monism such as Spinoza, Fechner, Schopenhauer, and others, a
+number of scientists, notably physicists and psychologists, have explored the
+dual-aspect route since the mid 20th century. Needless to say, none of their
+attempts has resolved all aspects of the mind-matter relation. In the follow-
+ing some of these approaches will be presented. The subsequent sections will
+elaborate on one of them, due to Pauli and Jung, and outline how it may be
+potentially viable.
+
+1.2    Varieties of Dual-Aspect Monism from Science
+Scientifically inspired versions of dual-aspect monism have been formulated,
+discussed and developed, largely unnoticed by philosophers, in the second half
+of the 20th century. One of them originated from the extensive collaboration of
+the physicist Wolfgang Pauli and the psychologist Carl Gustav Jung, reviewed
+in depth by Atmanspacher and Primas (2006, 2009). Another one was proposed
+by David Bohm, whose collaborators Basil Hiley and Paavo Pylkkänen continue
+working on it. Related, more recent ideas, are due to Bernard d’Espagnat, a
+French physicist, Hans Primas, a Swiss chemist, and Max Velmans, a British
+psychologist.
+    Remarkably, these approaches are, in one way or another, attached to ideas
+
+
+                                        2
+and notions that emerged during the development of quantum theory. In addi-
+tion to the names just mentioned, quite a number of other physicists have been
+interested in relating physical processes to mental acitivity. It is impossible to
+review all of them in this article, hence the reader should consult a review of
+quantum approaches to consciousness (Atmanspacher 2011) for more details.
+The present article deliberately focuses on dual-aspect kinds of thinking.
+    Apart from his unsatisfying attempts to formulate hidden variables for quan-
+tum theory, David Bohm also proposed a dual-aspect approach to mind and mat-
+ter. His ideas about explicate and implicate order (Bohm 1980) are particularly
+relevant in this context. While the notion of an explicate order characterizes an
+empirically and, thus, epistemically accessible reality, the notion of an implicate
+order refers to an ontic realm. Bohm refers to the mind-matter distinction at
+the level of an explicate order, which is based on an implicate order without
+that distinction (Bohm 1990):
+      At each level of subtlety there will be a “mental pole” and a “physical
+      pole” . . . But the deeper reality is something beyond either mind or mat-
+      ter, both of which are only aspects that serve as terms for analysis.
+
+    After Bohm’s death in 1992, Basil Hiley has further developed Bohm’s pro-
+posal using the formal apparatus of representations (in the mathematical sense)
+of algebraic structures which can be regarded as explications of an implicate
+order. Specifying the general idea laid out by Bohm and Hiley (1993), Hiley
+(2001) works with a pre-space (and pre-time) algebra and attempts to generate
+space and time by representations of this algebra. Paavo Pylkkänen, a Finnish
+philosopher, advances the idea that so-formulated implicate and explicate orders
+are always implicate or explicate relative to a “higher” or “lower” level order,
+respectively (Hiley and Pylkkänen 1996, Pylkkänen 2007).2
+    In his more recent contributions, Bernard d’Espagnat (1999, 2006) has made
+explicit indications with respect to the mind-matter problem. He uses the no-
+tion of “the Real”, an independent primordial reality that is neither mental
+nor material. It is “veiled” insofar as it is inaccessible to direct empirical ex-
+perience.3 But d’Espagnat (2006, p. 454) speculates about its influence on the
+experience of empirical reality:
+      I believe in the existence of an “extended causality” that acts, not between
+      phenomena but on phenomena from “the Real”. Clearly, since, due to
+      nonseparability, the said “Real” may in no sensible way be considered
+      constituted of localized elements embedded in spacetime, this causality
+      vastly differs, not only from Kantian causality but also from Einsteinian
+      causality. Of course it does not invoke eventlike efficient causes ... but
+      it may involve structural causes ... which vaguely bring to mind Plato’s
+      Ideas – structures of “the Real”. ...
+   2 This can be compared to an ontological relativity, where levels within reality are always
+
+ontic or epistemic relative to “higher” or “lower” levels, respectively (Quine 1969, Putnam
+1987, Atmanspacher and Kronz 1999).
+   3 For detailed comments and discussions of d’Espagnat’s “veiled reality” see Bitbol (1998)
+
+and Zwirn (2000), both in French.
+
+
+
+                                              3
+      According to the Veiled Reality conception, “the Real” is prior to mind-
+      matter splitting. This expression of course refers to the coemergence ...
+      of consciousness and empirical reality.
+
+So, “the Real” can be accessed indirectly and fragmentarily from conscious
+experience and physical empirical reality, with empirical tools of the mental
+and the material, by carving out unseparated structures of “the Real” (and
+altering them by this very act). We will see later on (in Secs. 2.2 and 2.3) how
+close d’Espagnat’s “extended causality of the Real” is to the picture developed
+by Pauli and Jung.
+    The interaction of Wolfgang Pauli and Carl Gustav Jung, from 1932 to 1958,
+is particularly fascinating because, in addition to its conceptual peculiarities, it
+demonstrates some practical problems of communication that arise if the mind-
+matter problem is addressed in concrete interaction among different disciplinary
+frameworks. I will come back to some of these differences in detail below. A
+most significant novel feature of the Pauli-Jung conjecture is the suggestion
+that the dual (mental and material) aspects of the underlying domain should
+be understood in terms of complementary aspects (Pauli 1952, p. 164):4
+      The general problem of the relation between psyche and physis, between
+      inside and outside, can hardly be regarded as solved by the term “psy-
+      chophysical parallelism” advanced in the last century. Yet, perhaps, mod-
+      ern science has brought us closer to a more satisfying conception of this
+      relationship, as it has established the notion of complementarity within
+      physics. It would be most satisfactory if physis and psyche could be con-
+      ceived as complementary aspects of the same reality.
+
+   And, in a letter to Rosenfeld of April 1, 1952 (von Meyenn 1996, p. 593),
+Pauli writes:
+      For the invisible reality, of which we have small pieces of evidence in
+      both quantum physics and the psychology of the unconscious, a symbolic
+      psychophysical unitary language must ultimately be adequate, and this
+      is the distant goal to which I actually aspire. I am quite confident that
+      the final objective is the same, independent of whether one starts from
+      the psyche (ideas) or from physis (matter). Therefore, I consider the old
+      distinction between materialism and idealism as obsolete.
+
+    In these quotations, Pauli indicates the conceptual framework that he devel-
+oped with Jung and at the same time rules out virtually all historical alterna-
+tives (cf. (i) and (ii) in Sec. 1.1) to dual-aspect monism. Among the approaches
+mentioned in this section, the Pauli-Jung conjecture is likely the one that offers
+most details, mainly in the extensive correspondence between the two and with
+others. That the Pauli-Jung framework of thinking might indeed be inspiring
+even for philosophers is testified by Seager (2009, p. 88):
+      The genesis of Pauli’s dual-aspect theory fundamentally stems from his ap-
+      preciation of certain insights provided by quantum theory rather than any
+   4 This and all other originally German quotations by Pauli and Jung have been translated
+
+by the author.
+
+
+                                            4
+      study of the history of philosophy. In fact, I think that Pauli’s quantum
+      approach adds a new and very interesting argument for the dual-aspect
+      account of the mind-matter relation which makes it of real philosophical
+      interest.
+
+    At present, there are at least two developments that might lead to genuine
+progress in the spirit of mind and matter as complementary dual aspects. One
+of them is the work of Hans Primas (2003, 2009), who discusses the mental
+and material in terms of complementary notions of mental and material time.
+The other one is the “reflexive monism” of Max Velmans (1991, 2009a,b), which
+explicitly introduced the complementarity of dual aspects for the first time in a
+psychologically based approach.
+
+1.3     Complementary Dual Aspects
+The notion of complementarity was originally coined by William James (1890,
+p. 206) and adopted by some psychologists, for instance referring to the bistable
+perception of ambiguous stimuli. Bohr imported it into physics, originally with
+the purpose of replacing the term wave–particle duality, in his “Como Lecture”
+in 1927 (Bohr 1928, p. 566). But his extensive later writings about comple-
+mentarity make it clear (cf. Kalckar 1985, 1996; Favrholdt 1999) that Bohr’s
+preeminent concern was to extend the idea of complementarity beyond physics.
+In the same spirit, Pauli (1950, p. 79) advanced the opinion that the “issue
+of complementarity within physics naturally leads beyond the narrow field of
+physics to analogous conditions of human knowledge”.
+    According to Bernays (1948), there are two different types of complementar-
+ity already in quantum physics. One of them refers to incompatible observables,
+formally grounded in the non-commutativity of corresponding operators acting
+on quantum states. This non-commutativity entails all kinds of typical quantum
+features such as superpositions, quantum probabilities, indeterminism, uncer-
+tainty relations, and the violation of Bell inequalities.5
+    The significant hallmark of this first kind of complementarity is that the
+sequence in which two operations A, B are carried out makes a difference. This
+is the case whenever the operation carried out first, A, changes the state on
+which it acts in such a way that the second operation, B, leads to a result
+different from what would have resulted had B been carried out first – briefly:
+    5 It is obvious that non-commuting operations abound in numerous situations beyond quan-
+
+tum physics. An example is the combined effect of successive rotations of a rigid body with
+respect to different axes on the orientation of the rotated body. A number of studies of eye
+movement and body rotation, starting with Hepp (1990), explores this feature as a neuro-
+physiological application of non-commutative rotations.
+A “generalized quantum theory” in this spirit has been introduced by Atmanspacher et
+al. (2002), see also Atmanspacher et al. (2006). Within this framework, non-commutative
+operations have been successfully used to model the dynamics of bistable perception (At-
+manspacher et al. 2004, Atmanspacher and Filk 2010). Indeed, it is to be expected that
+mental systems, uncontrollably and irreproducibly changed by virtually every operation, are
+paradigm examples for non-commutative behavior (cf. Sec. 4.7 in Atmanspacher 2011).
+
+
+
+
+                                             5
+AB 6= BA. This is exactly the case for measurements of canonically conjugate
+observables in quantum physics.
+    The second kind of complementarity according to Bernays opens up a wider
+scope. It refers to conceptual issues such as the quantum physical complemen-
+tarity of wave and particle pictures: Two descriptions are complementary if
+they mutually exclude each other, yet are both necessary to describe a situa-
+tion exhaustively. Complementarity in this sense refers to incompatible aspects
+which cannot be combined in a single description based on a purely Boolean,
+two-valued logic. This limitation of Boolean descriptions, which is clearly rec-
+ognized in quantum theory, is also relevant beyond physics.6
+    In a logical system which is not Boolean, the complement of a proposition dif-
+fers from its negation. Pertinent examples are the complement of belief, namely
+doubt rather than disbelief (James), or the complement of benignity, namely
+justness rather than malignity (Bohr). Moroever, it is in principle possible that
+there is more than one single complement to a given proposition. For instance,
+one can discuss the theological figure of trinity in terms of three complementary
+entities. (The spin matrices in quantum theory are complementary in such a
+threefold fashion as well.)
+    Formally speaking, descriptions are systems of propositions, and in this sense
+descriptions can be complementary. Beim Graben and Atmanspacher (2009)
+have discussed an entire hierarchy of relations among descriptions from com-
+plementarity to incompatibility, incommensurability and incomparability (and
+their opposites). The key to this classification is a description of the behavior
+of a system based on partitions of its phase space. In this system-theoretical
+picture, incompatible descriptions arise if partitions are, in a well-defined sense,
+not chosen in a proper way. Atmanspacher and beim Graben (2007) speculated
+that the patchwork-kind of disunity of psychology as a science might have to do
+with this kind of incompatibility.
+    The feature of complementarity in a non-Boolean logic means that a proposi-
+tion and its complement pertain to two aspects of a situation that are incompat-
+ible. They are both together necessary to describe the situation exhaustively.
+Neither one of them alone is sufficient, yet observing one of them in a given
+empirical context excludes observing the other one in the same context. For a
+dual-aspect monism, where the underlying domain is neither physical nor men-
+tal (cf. Sec. 1.1), complementarity thus implies that either the physical or the
+mental aspect is accessible in a given empirical context, although both of them
+are necessary for a complete picture.
+    When Pauli (1952, p. 164) says that “it would be most satisfactory if physis
+and psyche could be conceived as complementary aspects of the same reality”,
+he proposes a dual-aspect monism precisely in this sense. Velmans (2009b), who
+expands on Pauli’s speculation, points out that there are two distinct ways in
+which events that we normally think of as physical relate to events that we nor-
+mally think of as mental. Viewed from an external observer’s third-person per-
+   6 First applications of this idea to concrete examples are due to Aerts et al. (1993, 1994).
+
+For a general account of partial Boolean algebras, i.e. Boolean subalgebras pasted together in
+a non-Boolean way, see Primas (2007).
+
+
+                                              6
+spective, phenomena in the external world can be thought of as physical, while
+from the first-person perspective of a given subject they can also be thought
+of as mental, being part of the subject’s experiential content – a relationship
+that can be described in neutral monist terms. In contrast, the relationship
+between the experiential content of a given subject’s mental state and an ex-
+ternal observer’s data about that same subject’s corresponding brain activity is
+considered to be complementary in the sense of dual-aspect monism.
+    As these relationships are explained in detail in Velmans (2012), I will not
+elaborate on them here. But I should mention that at the epistemic level,
+where first- and third-person perspectives are to be distinguished, Velmans’
+first (neutral monist) scenario leads to a dual account where empirical access to
+both physical and mental phenomena refers to the same “external” context. His
+second scenario, on the other hand, yields a complementary account where either
+physical or mental phenomena are empirically accessible due to the asymmetry
+of “external” and “interior” contexts.
+    The latter scenario clearly refers to Bernays’ second interpretation: two com-
+plementary descriptions mutually exclude each other although both together are
+needed to describe the situation exhaustively. As emphasized in Sec. 1.1, the
+underlying ontic level is conceived of as neither physical nor mental in both
+scenarios, irrespective of the epistemic distinction between duality and comple-
+mentarity.
+    Primas (2009) suggests replacing mind-matter complementarity as a general
+relationship with a more restricted focus on mental time and physical time. His
+picture consists of a timeless domain that splits into a domain with a tenseless
+physical time, merely a parameter for dynamics, and a second domain with a
+tensed mental time, with past, present and future. These time domains can be
+formalized in such a way that they are complementary. A recent article by Filk
+and von Müller (2007) indicates other interesting candidate topics, in addition
+to time, for specifying a complementarity of mind and matter.
+
+
+2    The Pauli-Jung Conjecture
+Pauli and Jung began to think about mind-matter relations fairly soon after
+they first met in 1932, but the intense interaction that led to their version of
+dual-aspect monism happened after Pauli’s return from Princeton to Zurich in
+1946. Their discussions were accompanied by an extensive exchange of ideas that
+Pauli had with his colleague Fierz at Basel. Fortunately much of this material
+is today accessible (in German) in von Meyenn’s masterful eight-volume edition
+of Pauli’s correspondence.
+    Although neither Pauli nor Jung nor Fierz were strongly inclined to discuss
+their ideas with contemporary academic philosophers (aside from only a few ex-
+ceptions), their discussions had a distinctly philosophical flavor. However, their
+usage of philosophical concepts and notions was unsystematic: It was typical
+for them to avail themselves of the history of philosophy as they saw something
+fit their position or intention. Nevertheless, their comprehensive letters yield
+
+
+                                        7
+valuable information, allowing a fairly detailed reconstruction of their approach
+in the landscape of philosophical positions. This applies in particular to how
+their version of dual-aspect monism differs from neutral monism.
+    Pauli compares his and Jung’s views to Mach’s in a letter to Jung of March
+31, 1953,7 and states “fundamental agreements” with Mach’s ideas. However,
+he also distinguishes Mach’s neutral monism from his and Jung’s approach (von
+Meyenn 1999, p. 96):
+      What Mach wanted, but what is not feasible, was the total elimination of
+      everything in the description of nature that is not detectable [feststellbar]
+      hic et nunc. But then one soon realizes that one does not understand any-
+      thing: neither that a psyche must be assigned to others as well (detectable
+      is always only one’s own) nor that different people talk about the same
+      (physical) object (Leibniz’s windowless monads). In order to satisfy the
+      requirements of both instinct and intellect, one must therefore introduce
+      structural elements of a cosmic order which are not detectable as such.
+
+Interpreting “detectable” as (a precondition for) “apprehensible”, the term used
+in Sec. 1.1 to delineate dual-aspect monism from neutral monism, this quotation
+yields an idea of why Pauli favors the former over the latter. As we will see
+below, the role of the postulated structural elements is then adopted by the
+psychophysically neutral archetypes.8
+    In his copy of Russell’s book Human Knowledge – Its Scope and Limits of
+1948, Pauli marked Russell’s credo (Russell 1948, p. 209):
+      My own belief is that the mental and the physical are not so disparate
+      as is generally thought. I should define mental occurrence as one which
+      someone knows otherwise than by inference; the distinction between men-
+      tal and the physical therefore belongs to the theory of knowledge and not
+      to metaphysics.
+
+This is a clear formulation of the epistemic nature of the mind-matter distinc-
+tion. Russell states that the mind-matter distinction does not exist in the ontic
+domain (metaphysics), so that it does not make sense to speak of mind and
+matter in this domain. And when, in The Analysis of Mind, Russell (1921,
+p. 144) says that “both mind and matter are composed of a neutral-stuff which,
+in isolation, is neither mental nor material”, he clearly expresses (cf. Sec. 1.1)
+that the mental and the material emerge only in particular configurations of the
+“neutral-stuff”.
+    In the following I will sketch the framework of dual-aspect monism à la Pauli
+and Jung in four parts: (1) the relation between local realism and holism in
+(quantum) physics, (2) the relation between consciousness and the unconscious
+in Jung’s psychology, (3) the common, psychophysically neutral ground of both
+  7 See von Meyenn (1999), pp. 94–102. See also Jung’s reply of May 4, pp. 130–136, and
+
+Pauli’s letter to Jaffé of April 1, pp. 104–105.
+  8 Here and for the rest of this paper, I will use the term “neutral” not only for the “neutral
+
+domain” in “neutral monism” (as I did so far), but also for the psychophysically “neutral”
+domain underlying the mind-matter distinction in Pauli’s and Jung’s dual-aspect monism.
+The reason is that Pauli and Jung frequently used this term themselves.
+
+
+                                               8
+the mental, conscious realm and the physical, local realm, and (4) the relation
+between these realms as a consequence of or as mediated by their common
+ground.
+
+2.1     Local Realism and Holism in the Material Domain
+One of the central problems, if not the problem, of quantum mechanics is the pro-
+cess of measurement. Although much progress has been achieved with respect
+to its understanding since the early days of quantum mechanics, the problem
+is still not completely solved. However, empirical results and modern formula-
+tions of quantum theory allow us to state it in a way that is more precise than
+ever before. From a conceptual point of view, measurement can be viewed as
+an intervention decomposing a system constituting an inseparable whole9 into
+locally separate parts.
+    The empirical cornerstone of our understanding of this decomposition in-
+volves so-called nonlocal correlations (Einstein et al. 1935, Bell 1964, Aspect
+et al. 1982). They are generic in any system requiring a description in terms
+of non-commuting observables. These correlations can be measured in suitable
+experiments and indicate post festum that the measured system was in a holis-
+tic state before measurement. Conceptually, this means that one can indirectly
+infer knowledge about an unmeasured state by the result of a controlled inter-
+vention into that state due to measurement. At the same time, this controlled
+intervention entails that the observed system changes its state in a basically
+uncontrollable way (Bohr 1935).
+    It is tempting to say that such nonlocal correlations correlate everything
+with everything else, thus suggesting a holistic concept of reality through and
+through. But this would be misleading without precise qualifications. Quantum
+holism is only one among two reality concepts that modern quantum theory
+requires. Equally important is the (“common sense”) concept of a local reality
+which was considered to be the reality for centuries of physicists from Newton
+to Einstein. As Bohr has emphasized over and over, local realism is unavoidable
+for a proper description of experiments and their results by Boolean (yes-no)
+propositions.
+    Today we know that both concepts together are necessary for a compre-
+hensive description of reality, neither of them is sufficient on its own.10 In the
+framework of algebraic quantum theory, the difference between them can be
+mathematically formalized and clearly understood by two different state con-
+cepts: those of ontic and epistemic states. This distinction, originally suggested
+    9 The notion of inseparability derives from the fact that, technically speaking, the state φ
+
+of the system as a whole cannot be represented as a tensor product of the separate states φ1
+and φ2 of the parts. A separation of φ into states φ1 and φ2 is possible, but this abolishes the
+former state φ of the system as a whole and entails nonlocal correlations between the parts.
+  10 The core of the well-known Bohr-Einstein discussions in the 1920s and 1930s (Jammer
+
+1974, Chaps. 5 and 6) can be traced down to the belief that only one of the mentioned concepts
+of reality can be relevant. As far as I know neither Bohr nor Einstein ever explicitly addressed
+the question of whether different concepts of reality might “simply” have different ranges of
+relevance.
+
+
+
+                                               9
+by Scheibe (1973), has turned out to be powerful and attractive for under-
+standing the differences and similarities of various interpretational schemes in
+quantum theory. A helpful source for more details in this regard is a compre-
+hensive account of epistemic and ontic quantum realities by Atmanspacher and
+Primas (2003).
+    While epistemic states are those states to which epistemic, i.e. empirical
+access is possible by measurement (and observation in general), ontic states
+are supposed to characterize the system independent of its observation and our
+resulting knowledge.11 One may wonder why it is useful to have an ontic level
+of description for which empirical (or operational) access is no option at all.
+However, a most appealing feature at this ontic level is the existence of first
+principles and universal laws that are unavailable in an epistemic description.
+From such an ontic level, it is possible to deduce proper epistemic descriptions
+given enough details – contexts as it were – about empirically given situations.
+    The distinction of ontic and epistemic states provides an important clue to
+understand the distinction between a holistic and a local concept of reality.
+Ontic states and associated intrinsic properties refer to the holistic concept of
+reality and are operationally inaccessible, whereas epistemic states and associ-
+ated contextual properties refer to a local concept of an operationally accessi-
+ble reality. The process of measurement represents the link between the two.
+Measurement suppresses the connectedness constituting a holistic reality and
+generates approximately separate local objects constituting a local reality.
+    Although this is a fairly modern picture, it also has a conservative aspect:
+Quantum theory as of today does not at any place refer to the mental world
+of human observers, to their cognitive capabilities or psychological condition
+in general. The standard view in quantum theory is that measurement should
+be treated in terms of an interaction between an observed system and its en-
+vironment, including the observing device(s). For instance, Heisenberg (1936)
+was very explicit about this, talking about a “cut between the system to be
+observed and the measuring devices”. And Pauli (1957) says: “As Heisenberg
+has emphasized, quantum mechanics rests on a sharp cut between observer or
+instrument of observation on one hand and the system observed on the other.”
+    In general, the idea is that any inanimate environment can be understood
+as a “measuring device”, though in a non-intentional manner. No consciousness
+is necessary for measuring a quantum state. On the other hand, as soon as
+controlled experiments are considered, it is clear that issues like the design of
+an experiment, the choice of observables of interest, or the interpretation of the
+results of a measurement play crucial roles. They depend on decisions based on
+the intentions of human observers and are not part of the formalism of quantum
+theory.
+    In this context, Pauli speculated in a letter to Fierz of August 10, 1954 (von
+Meyenn 1999, pp. 742–747):
+  11 In a more comprehensive picture, the concepts of epistemic and ontic states need to be
+
+considered relative to a chosen descriptive framework. This leads to the notion of relative
+onticity introduced by Atmanspacher and Kronz (1999).
+
+
+
+
+                                            10
+       It might be that matter, for instance considered from the perspective of
+       life, is not treated “properly” if it is observed as in quantum mechanics,
+       namely totally neglecting the inner state of the “observer”. (...) The well-
+       known “incompleteness” of quantum mechanics (Einstein) is certainly an
+       existing fact somehow-somewhere, but of course it cannot be removed
+       by reverting to classical field physics (that is only a “neurotic misunder-
+       standing” of Einstein), it has much more to do with holistic relationships
+       between “inside” and “outside” which contemporary science does not con-
+       tain.
+
+However, consciousness is not an ingredient of physical measurements, no mat-
+ter whether quantum or classical. In his privately distributed manuscript on
+“modern examples of background physics”, Pauli (1948) emphasized that the
+measurement problem “does not indicate an incompleteness of quantum the-
+ory within physics but an incompleteness of physics within the totality of life.”
+Pauli’s uneasiness with the status of science in general and physics in particular
+was not an odd idea but a serious criticism of great relevance. The question is
+how to turn it into viable research.
+
+2.2     Consciousness and the Unconscious
+        in the Mental Domain
+According to Pauli and Jung, the role which measurement plays as a link be-
+tween local and holistic realities in physics is mirrored by the act in which
+subjects become consciously aware of “local mental objects”, as it were, arising
+from holistic unconscious contents in psychology.12 In this sense, which will be
+discussed in detail below, they postulate a parallel transition from mental and
+material holistic realisms to mental and material local realisms. This idea is
+most clearly elaborated in Jung’s supplement to his On the Nature of the Psy-
+che (Jung 1969).13 Let me first quote from a letter by Pauli which Jung cites
+in footnote 130 in this supplement (Jung 1969, par. 439):14
+       ... the epistemological situation regarding the concepts of “consciousness”
+       and the “unconscious” seems to offer a close analogy to the situation of
+       “complementarity” in physics, sketched below. On the one hand, the un-
+       conscious can only be made accessible in an indirect way by its (ordering)
+       influence on conscious contents, on the other hand every “observation of
+  12 I use the term of “local mental objects” to emphasize the analogy with local material
+
+objects, meaning that neither of them are non-local in any holistic sense. More concretely, local
+mental objects should be understood as distinct mental representations or categories endowed
+with a Boolean structure. They can be formally defined in a phase space representation (van
+Gelder 1998, Fell 2004).
+  13 The German original was first published as “Der Geist der Psychologie” in 1946, and later
+
+revised and expanded (including the supplement) as “Theoretische Überlegungen zum Wesen
+des Psychischen” in 1954.
+  14 This letter is contained neither in the published Pauli-Jung correspondence (Meier 1992)
+
+nor in Pauli’s correspondence edition by von Meyenn. Since Jung presents the quotation with
+the remark that Pauli “was gracious enough to look over the manuscript of my supplement”,
+the letter is likely of 1954.
+
+
+
+                                               11
+      the unconscious”, i.e. every attempt to make unconscious contents con-
+      scious, has a prima facie uncontrollable reaction back onto these uncon-
+      scious contents themselves (as is well known, this precludes that the un-
+      conscious can be “exhaustively” brought to consciousness). The physicist
+      will per analogiam conclude that precisely this uncontrollable backlash of
+      the observing subject onto the unconscious limits the objective character
+      of its reality and, at the same time, provides it with some subjectivity. Al-
+      though, moreover, the position of the “cut” between consciousness and the
+      unconscious is (to a certain degree) up to the free choice of the “psycho-
+      logical experimenter”, the existence of this “cut” remains an inevitable
+      necessity. Thus, the “observed system” would, from the viewpoint of
+      psychology, not only consist of physical objects, but rather comprise the
+      unconscious as well, whereas the role of the “observing device” would be
+      ascribed to consciousness. The development of “microphysics” has unmis-
+      takably led to a remarkable convergence of its description of nature with
+      that of the new psychology: While the former, due to the fundamental sit-
+      uation known as “complementarity”, faces the impossiblity to eliminate
+      actions of observers by determinable corrections and must therefore in
+      principle relinquish the objective registration of all physical phenomena,
+      the latter could basically complement the merely subjective psychology
+      of consciousness by postulating the existence of an unconscious of largely
+      objective reality.
+
+    This commentary describes Pauli’s position in the framework of objective
+and subjective aspects of the mental, a distinction that he adopted from Jung
+quite early. Already in a letter to Kronig of August 3, 1934 (letter 380 in von
+Meyenn 1985, pp. 340–341), he talks about the “autonomous activity of the soul”
+as “something objectively psychical that cannot and should not be explained by
+material causes.” Hence, the “objective reality” at the end of the quote refers
+to the holistic reality, while the “subjective” relates to its contextual, epistemic
+appearances.
+    It is important to emphasize that the relation between holistic and local
+realms in both mental and material domains is conceived as bidirectional. Un-
+conscious contents can become conscious, and simultaneously this very transi-
+tion changes the unconscious left behind. Analogously, physical measurement
+necessitates a decomposition of the holistic realm, and simultaneously this very
+measurement changes the state of the system left behind. This picture, already
+outlined in Pauli’s letter to Fierz of October 3, 1951 (von Meyenn 1996, p. 377),
+represents a genuine interdependence between holistic and local domains. It can
+entail mind-matter correlations via the holistic realm that occur in addition to
+those correlations that are due to mere dual epistemic “manifestations” of that
+realm.
+    In order to give the reader a sense of how Jung embedded the cited Pauli
+quote in his text, here is the passage by Jung (1969, par. 439) in which it
+appears:
+      The application of statistical laws to processes of atomic dimensions in
+      physics has a remarkable correspondence in psychology insofar as it pur-
+      sues the foundations of consciousness to the point where they dim out
+
+
+                                           12
+      into the inconceivable and where only effects of ordering influences onto
+      conscious contents can be detected [here the above footnote (HA)]. The
+      study of these effects leads to the peculiar fact that they emerge from an
+      unconscious objective reality which, however, at the same time appears to
+      be subjective and conscious. This way, the reality underlying the effects
+      of the unconscious comprises also the observing subject and is therefore of
+      unimaginable constitution. It is in fact both most intimately subjective
+      and most universally true, something that does not apply to conscious
+      contents of personalistic nature. The elusiveness, capriciousness, haziness
+      and uniqueness, with which the layperson connects the conception of the
+      psyche, only applies to consciousness, but not to the absolute unconscious.
+      The efficacious elements of the unconscious, to be defined not quantita-
+      tively but only qualitatively, the so-called archetypes, can therefore not
+      with certainty be designated as psychic.
+
+“... can thereforer not with certainty be designated as psychic”: This peculiarly
+cautious formulation is understandable due to the shift that Jung’s concep-
+tion with respect to archetypes underwent from early ideas about (biological)
+hereditary instincts over (psychological) raw feelings and inner images to his
+final notion of psychophysically neutral, transcendental (or metaphysical) prin-
+ciples. The early 1950s were the time when this move became visible in Jung’s
+publications.15 Since his mature understanding of archetypes embraces both
+individual subjective consciousness and the impersonal objective unconscious,
+Jung invented the term “psychoid” to characterize them as structural principles
+beyond the conscious psyche alone.
+
+2.3     Archetypes and Unus Mundus
+While the preceding subsections described the way in which Pauli and Jung
+thought that epistemically accessible physical and mental domains refer to some-
+thing ontic behind the mind-matter distinction, the present subsection adresses
+this “background domain” itself. One of its key features is that empirical tools of
+observation and measurement, as far as they are capable of providing knowledge
+about it at all, can do this only in an indirect fashion.
+    From the point of view of physics this “background domain” refers to the
+holistic state of a system prior to the transition to a measured state. From
+the point of view of psychology it refers to the mentally unconscious prior to
+the transition to a conscious state. Both transitions can be described as transi-
+tions from a non-Boolean domain to domains with Boolean classifications based
+on binary alternatives (cf. Primas 2007). In physics these appear as classical
+states actualized due to measurements; in psychology they appear as actualized
+distinct mental representations.
+    The simple but radical idea proposed by Pauli and Jung suggests a non-
+Boolean background domain from which the mental and the material are sup-
+  15 The background of this development is an interesting topic in itself, which I cannot go
+
+into in detail here. See for instance Roesler (2010), who sketches the conversions and meta-
+morphoses of Jung’s ideas about archetypes.
+
+
+
+                                            13
+posed to emerge as epistemically distinguishable. Although physics and psychol-
+ogy point to their common basis in different ways, the basis itself is assumed to
+be of unitary nature: a psychophysically neutral domain that is neither material
+nor mental and describable by a non-Boolean neutral language. Of course, this
+should be understood as a “caricature” of a much more complicated scheme,
+with many unexplored details left open.
+   Already in 1948, Pauli expressed his predilection for such a psychophysically
+neutral domain beneath (or beyond) the mental and the material in a letter to
+Fierz:16
+      The ordering and regulating factors must be placed beyond the distinction
+      of “physical” and “psychic” – as Plato’s “ideas” share the notion of a
+      concept and of a force of nature (they create actions out of themselves). I
+      am very much in favor of referring to the “ordering” and “regulating” fac-
+      tors in terms of “archetypes”; but then it would be inadmissible to define
+      them as contents of the psyche. The mentioned inner images (“domi-
+      nant features of the collective unconscious” after Jung) are rather psychic
+      manifestations of the archetypes which, however, would also have to put
+      forth, create, condition anything lawlike in the behavior of the corporeal
+      world. The laws of this world would then be the physical manifestations
+      of the archetypes. . . . Each law of nature should then have an inner corre-
+      spondence and vice versa, even though this is not always directly visible
+      today.
+    Now, Jung’s psychology hosts quite a selection of archetypes, to which dif-
+ferent degrees of unconscious depth can be ascribed. Among Jungians there
+is agreement that the shadow and the anima/animus complex are the first,
+and therefore least deep-seated archetypes with whose manifestations individu-
+als typically become acquainted. Candidates for more fundamental archetypes
+are the self, as the goal of the individuation process, and maybe most basic the
+archetype of number, expressing qualitative principles like unity, duality, trinity,
+quaternity, and so forth.
+    The notion proposed for the ontic, psychophysically neutral domain is the
+unus mundus, the one world, a notion that Jung adopted from the physician
+and alchemist Gerardus Dorneus (late 16th century). In his Mysterium Coni-
+unctionis of 1955/56 Jung writes (Jung 1970, par. 767):
+      Undoubtedly the idea of the unus mundus is founded on the assumption
+      that the multiplicity of the empirical world rests on an underlying unity,
+      and that not two or more fundamentally different worlds exist side by side
+      or are mingled with one another. Rather, everything divided and different
+      belongs to one and the same world, which is not the world of sense but a
+      postulate ...
+   Replying to a letter with some quite private excursions by Pauli, Jung relates
+the unus mundus to an inner unity of an individual self with the following
+remarks (letter to Pauli of 15 December 1956; von Meyenn 2001, p. 800):
+  16 Letter by Pauli to Fierz of January 7, 1948, von Meyenn (1993), pp. 496–497. Note that
+
+this early account by Pauli of psychophysical neutrality emphasizes the “ordering” influence
+of archetypes and disregards the backreaction from the conscious onto the unconscious.
+
+
+                                            14
+      As soon as an individual has managed to unify the opposites within him-
+      self, nothing stands in the way of realizing both aspects of the world
+      objectively. The inner psychic dissection becomes replaced by a dissected
+      world view, which is unavoidable because without such discrimination no
+      conscious knowledge would be possible. In reality, however, there is no
+      dissected world: for a unified individual there is one “unus mundus”. He
+      must discriminate this one world in order to be capable of conceiving it,
+      but he must not forget that what he discriminates is always the one world,
+      and discrimination is a presupposition of consciousness.
+
+    In this sense, making a distinction is a primordial principle of every episte-
+mology, sometimes called an epistemic split.17 In line with Jung’s quote above,
+an entirely distinction-free state of affairs must indeed be associated with the
+radically unconscious, to which there is no conscious epistemic access at all.
+    When the holistic unus mundus is split, correlations emerge between the
+resulting domains. These correlations are remnants, as it were, of the wholeness
+that is lost due to the distinction made. Splitting the unus mundus as the
+holistic domain into mind and matter suggests ubiquitous correlations between
+mental and material states. The next section will be devoted to this topic.
+
+2.4     Mind-Matter Correlations and Synchronicity
+Conceiving the mind-matter distinction in terms of a splitting of a psychophys-
+ically neutral domain implies correlations between mind and matter as a direct
+and generic consequence. It is important, though, to stress right at the outset
+that these correlations are not due to causal interactions (in the sense of efficient
+causation as usually looked for in science) between the mental and the material.
+In a dual-aspect framework of thinking it would be wrong to interpret mind (or
+mental states) as directly caused by matter (or material states) or vice versa.
+    Pauli and Jung discussed such correlations extensively in their correspon-
+dence between June 1949 and February 1951 when Jung drafted his article on
+“synchronicity” for the book that he published jointly with Pauli (Jung and
+Pauli 1952). In a condensed form, two (or more) seemingly accidental, but not
+necessarily simultaneous events are called synchronistic if the following three
+conditions are satisfied.
+
+   1. Each pair of synchronistic events includes an internally conceived and an
+      externally perceived component.
+   2. Any presumption of a causal relationship between the events is absurd or
+      even inconceivable.
+  17 In somewhat more abstract terms, distinctions can be conceived as symmetry breakings.
+
+Symmetries in this parlance are invariances under transformations. For instance the curvature
+of a circle is invariant under rotations by any arbitrary angle. A circle thus exhibits complete
+rotational symmetry. Symmetry breakings are a powerful mathematical tool in large parts of
+theoretical physics, but we do not know better than by pure speculation which symmetries
+must be ascribed to the unus mundus.
+
+
+
+
+                                              15
+  3. The events correspond with one another by a common meaning, often
+     expressed symbolically.
+
+    The first criterion makes clear that synchronistic phenomena are psychophys-
+ical phenomena, intractable when dealing with mind or matter alone. The sec-
+ond criterion repeats the inapplicability of causation in the narrow sense of a
+conventional cause-and-effect-relation. And the third criterion suggests the con-
+cept of meaning as a constructive way to characterize mind-matter correlations.
+    Since synchronistic phenomena are not necessarily temporally “synchronous”
+(in the sense of “simultaneous”), synchronicity is a somewhat misleading term.
+For this reason Pauli preferred to speak of “meaningful correspondences” (“Sinn-
+korrespondenzen”) under the influence of an archetypal “acausal ordering”. He
+considered both Jung’s synchronicity and the old teleological idea of finality (in
+the general sense of a process oriented toward a goal) as particular instances of
+such an acausal ordering which cannot be set up intentionally. In contrast, the
+mathematical notion of “blind” chance (referring to stochastically accidental
+events) might be considered as the limiting case of a meaningless correspon-
+dence.
+    Similar to their idea of complementary notions of efficient causation and
+meaningful correspondence, Pauli and Jung discussed a possible complementar-
+ity of statistical limit theorems and singular synchronistic events. The upshot
+of this proposal is that synchronistic phenomena cannot be corroborated by
+statistical methods as they are usually applied. In a letter to Fierz of June 3,
+1952, Pauli wrote (von Meyenn 1996, pp. 634–635):
+     ... synchronistic phenomena ... elude being captured in natural “laws”
+     since they are not reproducible, i.e., unique, and are blurred by the statis-
+     tics of large numbers. By contrast, “acausalities” in physics are precisely
+     described by statistical laws (of large numbers).
+
+And in his “Lecture to the Foreign People” (Atmanspacher et al. 1995, p. 326),
+where he sketches some of his ideas about biological evolution, he states his
+impression that
+     external physical circumstances on the one hand and corresponding adap-
+     tive hereditary alterations of genes (mutations) on the other are not con-
+     nected causally-reproducibly, but occur – correcting the “blind” chance
+     fluctuations of the mutations – meaningfully and purposefully as insep-
+     arable wholes together with the external circumstances.
+     According to this hypothesis, which differs from both Darwin’s and La-
+     marck’s conception, we encounter the requested third type of natural laws,
+     consisting of corrections of the fluctuations of chance due to meaningful
+     or purposeful coincidences of non-causally connected events.
+
+   What Pauli here postulates is a kind of lawful regularity beyond both deter-
+ministic and statistical laws, based on the notion of meaning and, thus, entirely
+outside the natural sciences of his time and also, more or less, of today. It re-
+mains to be explored how this key issue of meaning can be implemented in an
+expanded worldview not only comprising but rather exceeding both psychology
+
+                                          16
+and physics. A comprehensive substantial account of psychophysical phenom-
+ena needs to address them beyond the distinction of the psychological and the
+physical.
+    For the mindset of a psychologist like Jung, the issue of meaning is of primary
+significance anyway. For a long time, Jung insisted that the concept of syn-
+chronicity should be reserved for cases of distinctly numinous character, when
+the experience of meaning takes on existential dimensions. With this under-
+standing synchronistic correlations would be extremely rare, thus contradicting
+their supposedly generic nature. Only in later years, Jung opened up toward
+the possibility that synchronicity might be a notion that should be conceived
+as ubiquitous as indicated above (Jung 1969, par. 440):
+      As soon as a psychic content transgresses the threshold to consciousness,
+      its synchronistic byproducts disappear. Space and time resume their ac-
+      customed sway, and consciousness is again isolated in its subjectivity. This
+      is one of those cases which can best be captured by the term “comple-
+      mentarity”, known from physics. When an unconscious content trespasses
+      into consciousness, its synchronistic manifestation ceases and, conversely,
+      synchronistic phenomena can be elicited by putting a subject into an
+      unconscious state (trance). The same relation of complementarity can
+      be observed in those frequent medical cases in which particular clinical
+      symptoms disappear when their corresponding unconscious contents be-
+      come conscious. We also know that a number of psychosomatic phenom-
+      ena, otherwise outside the control of volition, can be induced by hypnosis,
+      i.e. by an attenuation of consciousness.
+
+Meier (1975) has later amplified this idea in an article about psychosomatics
+from a Jungian perspective.
+    In this regard, the development of Pauli’s and Jung’s views about archetypes
+and their role in manifesting synchronicities suggests a distinction between two
+different kinds of synchronistic events which I suggest to denote as “structural”
+versus “induced”.18 Structural synchronicity refers to the role of archetypes
+as ordering factors with a strictly unidirectional influence on the material and
+the mental (Pauli’s letter to Fierz of 1948, see Sec. 2.3). Induced synchronicity
+refers to the uncontrollable backreaction that changes of consciousness induce
+in the unconscious and, consequently, in the physical world as well. This way,
+the picture is extended to a bidirectional relation (Pauli’s letter to Jung of 1954,
+see Sec. 2.2).
+    It is important to keep in mind that even in induced synchronicity, not only
+in structural synchronicity, there is no direct causal relation from the mental to
+the physical (i.e. no direct “mental causation”) or vice versa. The problem of an
+“interaction” between categorically distinct regimes is thus avoided. Moreover,
+I should stress that the “meaning” connecting synchronistic events, although
+being subjectively ascribed (by the experiencing subject), is not completely
+  18 One may ask whether the term “synchronicity” is the best choice for them; as mentioned
+
+above, Pauli proposed to replace it by “meaningful correspondence”. I am ready to adopt an
+improved terminology, should one come up in the future.
+
+
+
+                                            17
+arbitrary. It depends on the situation as a whole, including conditions that are
+not consciously available to the subject.
+    Insofar as structural synchronicity defines a baseline of ordinarily robust
+psychophysical correlations (such as mind-brain correlations or psychosomatic
+correlations), induced synchronicity may be responsible for alterations and im-
+pairments above or below this baseline (cf. Jung’s quote above). Correlations
+above the baseline could be characterized as “salience” phenomena (Kapur 2003,
+van Os 2009) where coincidences appear overemphasized, while correlations be-
+low the baseline are experienced as dissociative with respect to ordinary corre-
+lations.
+    The rich material of extraordinary psychophysiological correlations compre-
+hensively reviewed by Kelly (2007) suggests various concrete applications of this
+idea. Moreover, a recent statistical analysis of a huge body of documented cases
+of extraordinary human experiences (Fach 2011) provides significant evidence
+that such a framework of thinking fits existing empirical material surprisingly
+well. In the present article, space limitations prohibit a more detailed discussion
+of this direction of research. However, this will certainly be explored in more
+detail in the future.
+
+
+Acknowledgments
+I am grateful to Hans Primas, Max Velmans, Karl von Meyenn, and Jiri Wack-
+ermann for many inspiring and insightful discussions about the topics of this
+article.
+
+
+References
+ Aerts, D., and Aerts, S. (1994): Applications of quantum statistics in psychological
+     studies of decision processes. Foundations of Science 1, 85–97.
+ Aerts, D., Durt, T., Grib, A., Van Bogaert, B., and Zapatrin, A. (1993): Quantum
+     structures in macroscopical reality. International Journal of Theoretical Physics
+     32, 489–498.
+ Aspect, A., Dalibard, J., and Roger, G. (1982): Experimental test of Bell’s inequali-
+     ties using time-varying analyzers. Physical Review Letters 49, 1804–1807.
+ Atmanspacher, H. (2011): Quantum approaches to consciousness, in Zalta, E.N. (ed.),
+    Stanford Encyclopedia of Philosophy, http://plato.stanford.edu/entries/
+    qt-consciousness/.
+ Atmanspacher, H., and Filk, T. (2010): A proposed test of temporal nonlocality in
+    bistable perception. Journal of Mathematical Psychology 54, 314–321.
+ Atmanspacher, H., Filk, T., and Römer, H. (2004): Quantum Zeno features of
+    bistable perception. Biological Cybernetics 90, 33–40.
+ Atmanspacher, H., Filk, T. and Römer, H. (2006): Weak quantum theory: Formal
+    framework and selected applications, in Adenier, G., Khrennikov, A., Nieuwen-
+    huizen, T.M. (eds.) Quantum Theory: Reconsideration of Foundations–3, pp. 34–
+    46, New York: American Institute of Physics.
+
+
+                                         18
+Atmanspacher, H., and beim Graben, P. (2007): Contextual emergence of mental
+   states from neurodynamics. Chaos and Complexity Letters 2, 151–168.
+Atmanspacher, H., and Kronz, F. (1999): Relative onticity, in Atmanspacher, H.,
+   Amann, A., Müller-Herold, U. (eds.) On Quanta, Mind, and Matter. Hans
+   Primas in Context, pp. 273–294, Dordrecht: Kluwer.
+Atmanspacher, H., and Primas, H. (2003): Epistemic and ontic quantum realities. In
+   Castell, L., Ischebeck, O. (eds.) Time, Quantum, and Information, pp. 301–321,
+   Berlin: Springer.
+Atmanspacher, H., and Primas, H. (2006): Pauli’s ideas on mind and matter in the
+   context of contemporary science. Journal of Consciousness Studies 13(3), 5–50.
+Atmanspacher, H., and Primas, H., eds. (2009): Recasting Reality, Berlin: Springer.
+Atmanspacher, H., Primas, H., and Wertenschlag-Birkhäuser, E., eds. (1995): Der
+   Pauli-Jung-Dialog und seine Bedeutung für die moderne Wissenschaft, Berlin:
+   Springer.
+Atmanspacher, H., Römer, H., and Walach, H. (2002): Weak quantum theory: Com-
+   plementarity and entanglement in physics and beyond. Foundations of Physics
+   32, 379–406.
+Bell, J.S. (1964): On the Einstein Podolsky Rosen paradox. Physics 1, 195–200.
+Bernays, P. (1948): Über die Ausdehnung des Begriffes der Komplementarität auf
+    die Philosophie. Synthese VII, 66–70.
+Bitbol, M. (1998): L’Aveuglante proximité du Réel, Paris: Flammarion.
+Bohm, D. (1980): Wholeness and the Implicate Order, Routledge, London.
+Bohm, D. (1990): A new theory of the relationship of mind and matter. Philosophical
+   Psychology 3, 271–286.
+Bohm, D., and Hiley, B. (1993): The Undivided Universe, London: Routledge.
+Bohr, N. (1928): The quantum postulate and the recent development of atomic
+    theory. Nature (Supplement) 121, 580–590.
+Bohr, N. (1935): Can quantum-mechanical description of physical reality be consid-
+    ered complete? Physical Review 48, 696–702.
+Einstein, A., Podolsky, B., and Rosen, N. (1935): Can quantum-mechanical descrip-
+     tion of physical reality be considered complete? Phys. Rev. 47, 777–780.
+d’Espagnat, B. (1999): Concepts of reality: Primas’ nonstandard realism, in At-
+    manspacher, H., Amann, A., Müller-Herold, U. (eds.) On Quanta, Mind, and
+    Matter. Hans Primas in Context, pp. 249–272, Dordrecht: Kluwer.
+d’Espagnat, B. (2006): On Physics and Philosophy, Princeton: University Press.
+Fach, W. (2011): Phenomenological aspects of complementarity and entanglement in
+    exceptional human experiences. Axiomathes 21, 233–247.
+Favrholdt, D. (1999): Niels Bohr Collected Works. Volume 10. Complementarity
+    Beyond Physics (1928–1962). Amsterdam: Elsevier.
+Fell J. (2004): Identifying neural correlates of consciousness: the state space ap-
+     proach. Consciousness and Cognition 13, 709–729.
+Filk, T., and von Müller, A. (2007): Quantum physics and consciousness: The quest
+     for a common conceptual foundation. Mind and Matter 7, 59–80.
+
+
+                                       19
+beim Graben, P., and Atmanspacher, H. (2009): Extending the philosophical signif-
+    icance of the idea of complementarity, in Atmanspacher, H., Primas, H. (eds.)
+    Recasting Reality, pp. 99–113, Berlin: Springer.
+Heisenberg, W. (1936): Prinzipielle Fragen der modernen Physik, in Neuere Fort-
+     schritte in den exakten Wissenschaften, pp. 91–102, Leipzig, Franz Deuticke.
+Hepp, K. (1990): On Listing’s law. Communications in Mathematical Physics 132,
+    285–292.
+Hiley, B.J. (2001): Non-commutative geometry, the Bohm interpretation and the
+     mind-matter relationship, in Dubois, D. (ed.) Computing Anticipatory Systems
+     - CASYS 2000, pp. 77–88, Berlin: Springer.
+Hiley, B., and Pylkkänen, P. (1996): Representation and interpretation in quan-
+     tum physics, in Peterson, D.M. (ed.) Alternative Representations, pp. 180–197,
+     Exeter: Intellect Books.
+James, W. (1890): The Principles of Psychology. Volume One. New York: Holt.
+Jammer, M. (1974): The Philosophy of Quantum Mechanics. New York: Wiley.
+Jung, C.G. (1969): On the nature of the psyche, in The Structure and Dynamics of
+    the Psyche. Collected Works, Vol. 8, pp. 159–236, Princeton: University Press.
+Jung, C.G. (1970): Mysterium Coniunctionis, in Collected Works, Vol. 14, Princeton:
+    University Press.
+Jung, C.G., and Pauli, W. (1952): Naturerklärung und Psyche, Zürich: Rascher.
+Kalckar, J. (1985): Niels Bohr Collected Works. Volume 6. Foundations of Quantum
+    Physics I (1926–1932), Amsterdam: North-Holland.
+Kalckar, J. (1996): Niels Bohr. Collected Works. Volume 7. Foundations of Quan-
+    tum Physics II (1933–1958), Amsterdam: Elsevier.
+Kapur, S. (2003): Psychosis as a state of aberrant salience: A framework linking
+    biology, phenomenology, and pharmacology in schizophrenia. American Journal
+    of Psychiatry 160, 13–23.
+Kelly, E.W. (2007): Psychophysiological influence, in Kelly, E.F., Kelly, E.W. et al.
+     (eds.) Irreducible Mind, pp. 117–239, Lanham: Rowman and Littlefield.
+Meier, C.A. (1975): Psychosomatik in Jungscher Sicht, in Meier, C.A. (ed.) Experi-
+    ment und Symbol, pp. 138–156, Olten: Walter.
+Meier, C.A., ed. (1992): Wolfgang Pauli und C.G. Jung. Ein Briefwechsel 1932–1958,
+    Berlin: Springer.
+Meyenn, K. von (ed.) (1985): Wolfgang Pauli. Wissenschaftlicher Briefwechsel,
+    Band II: 1930–1939, Berlin: Springer.
+Meyenn, K. von (ed.) (1993): Wolfgang Pauli. Wissenschaftlicher Briefwechsel,
+    Band III: 1940–1949, Berlin: Springer.
+Meyenn, K. von (ed.) (1996): Wolfgang Pauli. Wissenschaftlicher Briefwechsel,
+    Band IV, Teil I: 1950–1952, Berlin: Springer.
+Meyenn, K. von (ed.) (1999): Wolfgang Pauli. Wissenschaftlicher Briefwechsel,
+    Band IV, Teil II: 1953–1954, Berlin: Springer.
+Meyenn, K. von, (ed.) (2001): Wolfgang Pauli. Wissenschaftlicher Briefwechsel,
+    Band IV, Teil III: 1955–1956, Berlin: Springer.
+
+
+                                        20
+Pauli, W. (1948): Moderne Beispiele zur Hintergrundsphysik, in Meier, C.A. (ed.)
+     Wolfgang Pauli und C.G. Jung. Ein Briefwechsel, pp. 176–192, Berlin: Springer.
+Pauli, W. (1950): Die philosophische Bedeutung der Idee der Komplementarität.
+     Experientia 6, 72–81. English translation in Enz, C.P., von Meyenn, K. (eds.)
+     Wolfgang Pauli. Writings on Physics and Philosophy, pp. 35–42, Berlin: Springer,
+     1994.
+Pauli, W. (1952): Der Einfluss archetypischer Vorstellungen auf die Bildung natur-
+     wissenschaftlicher Theorien bei Kepler, in Jung, C.G., Pauli, W. (eds.) Natur-
+     erklärung und Psyche, pp. 109–194, Zürich: Rascher.
+Pauli, W. (1957): Phänomen und physikalische Realität. Dialectica 11, 36–48. En-
+     glish translation in Enz, C.P., von Meyenn, K. (eds.) Wolfgang Pauli. Writings
+     on Physics and Philosophy, pp. 127–135, Berlin: Springer, 1994.
+Primas, H. (2003): Time-entanglement between mind and matter. Mind and Matter
+    1, 81–119.
+Primas, H. (2007): Non-Boolean descriptions of mind-matter systems. Mind and
+    Matter 5, 7–44.
+Primas, H. (2009): Complementarity of mind and matter, in Atmanspacher, H.,
+    Primas, H. (eds.) Recasting Reality, pp. 171–209, Berlin: Springer.
+Putnam, H. (1987): The Many Faces of Realism, LaSalle: Open Court.
+Pylkkänen, P. (2007): Mind, Matter, and the Implicate Order, Sec. 3, Berlin: Springer.
+Quine, W,V.O. (1969): Ontological relativity, in Ontological Relativity and Other
+    Essays, pp. 26–68. New York: Columbia University Press.
+Roesler, C. (2010): Analytische Psychologie heute, Freiburg: Karger.
+Russell, B. (1921): The Analysis of Mind, London: George Allen & Unwin.
+Russell, B. (1948): Human Knowledge: Its Scope and Limits, London: George Allen
+    & Unwin.
+Scheibe, E. (1973): The Logical Analysis of Quantum Mechanics, pp. 82–88, Oxford:
+     Pergamon.
+Seager, W. (2009): A new idea of reality: Pauli on the unity of mind and matter,
+    in Atmanspacher, H., Primas, H. (eds.) Recasting Reality, pp. 83–97, Berlin:
+    Springer.
+Silberstein, M. (2009): Why neutral monism is superior to panpsychism. Mind and
+     Matter 7, 239–248.
+Stubenberg, L. (2010): Neutral monism, in Zalta, E.N. (ed.) Stanford Encyclopedia
+    of Philosophy, http://plato.stanford.edu/entries/neutral-monism/.
+van Gelder T. (1998): The dynamical hypothesis in cognitive science. Behavioral and
+    Brain Sciences 21, 615–661.
+van Os, J. (2009): A salience dysregulation syndrome. British Journal of Psychiatry
+    194, 101–103.
+Velmans, M. (1991): Consciousness from a first person perspective. Behavioral and
+    Brain Sciences 14, 702–726.
+Velmans, M. (2009a): Understanding Consciousness, second edition, London: Rout-
+    ledge/Psychology Press.
+
+
+                                         21
+Velmans, M. (2009b): Psychophysical nature, in Atmanspacher, H., Primas, H. (eds.)
+    Recasting Reality, pp. 115–134, Berlin: Springer.
+Velmans, M. (2012): Reflexive monism: Psychophysical relations between mind, mat-
+    ter and consciousness, this issue.
+Zwirn, H. (2000): Les Limits de la Conaissance, Paris: Odile Jacob.
+
+
+
+
+                                       22
+

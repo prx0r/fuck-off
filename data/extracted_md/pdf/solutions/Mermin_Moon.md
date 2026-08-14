@@ -1,0 +1,608 @@
+# Physics Today
+
+**source:** pdf · **section:** solutions
+**file:** Mermin_Moon
+---
+
+       Is the Moon There When Nobody Looks? Reality and the Quantum Theory
+       N. David Mermin
+
+       Citation: Physics Today 38(4), 38 (1985); doi: 10.1063/1.880968
+       View online: http://dx.doi.org/10.1063/1.880968
+       View Table of Contents: http://scitation.aip.org/content/aip/magazine/physicstoday/38/4?ver=pdfcov
+       Published by the AIP Publishing
+
+This article is copyrighted as indicated in the article. Reuse of AIP content is subject to the terms at: http://scitation.aip.org/termsconditions.
+                                     Downloaded to IP: 128.104.46.206 On: Fri, 02 May 2014 20:20:12
+Is the moon there
+when nobody looks?
+Reality and the quantum theory
+ Einstein maintained that quantum metaphysics entails spooky actions
+ at a distance; experiments have now shown that what bothered Einstein
+ is not a debatable point but the observed behavior of the real world.
+
+ N. David Mermin
+
+          Quantum mechanics is magic1                ition expects to be there.                             in part of space A; it should also be
+                                                        Einstein didn't like this. He wanted                independent of whether or not any
+ In May 1935, Albert Einstein, Boris                 things out there to have properties,                   measurement at all is carried out
+ Podolsky and Nathan Rosen published2                whether or not they were measured4:                    in space A. If one adheres to this
+ an argument that quantum mechanics                     We often discussed his notions on                   program, one can hardly consider
+ fails to provide a complete description                objective reality. I recall that dur-               the quantum-theoretical descrip-
+ of physical reality. Today, 50 years                   ing one walk Einstein suddenly                      tion as a complete representation
+ later, the EPR paper and the theoreti-                 stopped, turned to me and asked                     of the physically real. If one tries
+ cal and experimental work it inspired                  whether I really believed that the                  to do so in spite of this, one has to
+ remain remarkable for the vivid illus-                 moon exists only when I look at it.                 assume that the physically real in
+ tration they provide of one of the most                The EPR paper describes a situation                 B suffers a sudden change as a
+ bizarre aspects of the world revealed to            ingeniously contrived to force the quan-               result of a measurement in A. My
+ us by the quantum theory.                           tum theory into asserting that proper-                 instinct for physics bristles at this.
+    Einstein's talent for saying memora-             ties in a space-time region B are the                Or, in March 1947,
+ ble things did him a disservice when he             result of an act of measurement in                     I cannot seriously believe in [the
+ declared "God does not play dice," for it           another space-time region A, so far                    quantum theory] because it cannot
+ has been held ever since that the basis             from B that there is no possibility of the             be reconciled with the idea that
+ for his opposition to quantum mechan-               measurement in A exerting an influ-                    physics should represent a reality
+ ics was the claim that a fundamental                ence on region B by any known dynami-                  in time and space, free from spooky
+ understanding of the world can only be              cal mechanism. Under these condi-                      actions at a distance.
+ statistical. But the EPR paper, his                 tions, Einstein maintained that the                    The "spooky actions at a distance"
+ most powerful attack on the quantum                 properties in A must have existed all                (spukhafte Fernwirkungen) are the ac-
+ theory, focuses on quite a different                along.                                               quisition of a definite value of a proper-
+ aspect: the doctrine that physical prop-                                                                 ty by the system in region B by virtue of
+ erties have in general no objective                 Spooky actions at a distance                         the measurement carried out in region
+ reality independent of the act of obser-               Many of his simplest and most explic-             A. The EPR paper presents a wave-
+ vation. As Pascual Jordan put it3                   it statements of this position can be                function that describes two correlated
+    Observations not only disturb                    found in Einstein's correspondence                   particles, localized in regions A and B,
+    what has to be measured, they                    with Max Born.5 Throughout the book                  far apart. In this particular two-parti-
+    produce it. . . . We compel [the elec-           (which sometimes reads like a Nabokov                cle state one can learn (in the sense of
+    tron] to assume a definite posi-                 novel), Born, pained by Einstein's dis-              being able to predict with certainty the
+    tion. . . . We ourselves produce the             taste for the statistical character of the
+    results of measurement.                          quantum theory, repeatedly fails, both              David Mermin is director of the Laboratory of
+ Jordan's statement is something of a                in his letters and in his later commen-             Atomic and Solid State Physics at Cornell
+ truism for contemporary physicists.                 tary on the correspondence, to under-               University. A solid-state theorist, he has
+ Underlying it, we have all been                     stand what is really bothering Ein-                 recently come up with some quasithoughts
+ taught, is the disruption of what is                stein. Einstein tries over and over                 about quasicrystals. He is known to PHYSICS
+ being measured by the act of measure-               again, without success, to make himself             TODAY readers as the person who made
+ ment, made unavoidable by the exis-                 clear. In March 1948, for example, he               "boojum" an internationally accepted scienti-
+ tence of the quantum of action, which               writes:                                             fic term. With N. W. Ashcroft, he is about to
+ generally makes it impossible even in                                                                   start updating the world's funniest solid-state
+                                                       That which really exists in B                     physics text. He says he is bothered by Bell's
+ principle to construct probes that can                should . . . not depend on what                   theorem, but may have rocks in his head
+ yield the information classical intu-                 kind of measurement is carried out                anyway.
+This article is copyrighted as indicated in the article. Reuse of AIP content is subject to the terms at: http://scitation.aip.org/termsconditions.
+ 38       PHYSICS TODAY / APRILDownloaded
+                                       1985         to IP: 128.104.46.206 On: Fri, 02 May 2014 20:20:12
+                                                                                      0031-9228 / 85 / 0400 38-10/$0,1.Q0 © 1985American Institute of Physios
+An EPR apparatus. The experimental setup consists of two detectors, A and B, and a source of something ("particles"
+or whatever) C. To start a run, the experimenter pushes the button on C; something passes from C to both detectors.
+Shortly after the button is pushed each detector flashes one of its lights. Putting a brick between the source and one of
+the detectors prevents that detector from flashing, and moving the detectors farther away from the source increases the
+delay between when the button is pushed and when the lights flash. The switch settings on the detectors vary randomly
+from one run to another. Note that there are no connections between the three parts of the apparatus, other than via
+whatever it is that passes from C to A and B. The photo below shows a realization of such an experiment in the
+laboratory of Alain Aspect in Orsay, France. In the center of the lab is a vacuum chamber where individual calcium
+atoms are excited by the two lasers visible in the picture. The re-emitted photons travel 6 meters through the pipes to
+be detected by a two-channel polarizer.                                                                           Figure 1
+
+  This article is copyrighted as indicated in the article. Reuse of AIP content is subject to the terms at: http://scitation.aip.org/termsconditions.
+                                       Downloaded to IP: 128.104.46.206 On: Fri, 02 May 2014 20:20:12  PHYSICS TODAY / APRIL 1985                 39
+                                                                                                       The result of a run. Shortly after the
+                                                                                                       experimenter pushed the button on the
+                                                                                                       source in figure 1, the detectors flash one
+                                                                                                       lamp each. The experimenter records the
+                                                                                                       switch settings and the colors of the lamps
+                                                                                                       and then repeats the experiment.
+                                                                                                       Here, for example, the record reads
+                                                                                                       32RG—the switches are in positions 3 and
+                                                                                                       2 and the lamps flashed R and G,
+                                                                                                       respectively.                         Figure 2
+
+  result of a subsequent measurement)                 question: "Is it rigorously deter-                  doned. I am therefore inclined to
+  either the position or the momentum of              ministic?"                                          believe that the description of
+  the particle in region B as a result of           Pauli goes on to state the real nature of             quantum mechanics . . . has to be
+  measuring the corresponding property              Einstein's "philosophical prejudice" to               regarded as an incomplete and
+  of the particle in region A. If "that             Born, emphasizing that "Einstein's                    indirect description of reality
+  which really exists" in region B does             point of departure is 'realistic' rather
+  not depend on what kind of measure-               than 'deterministic'." According to                A fact is found
+  ment is carried out in region A, then the         Pauli the proper grounds for challeng-                The theoretical answer to this chal-
+  particle in region B must have had both           ing Einstein's view are simply that                lenge to provide "any fact anywhere"
+  a definite position and a definite mo-              One should no more rack one's                    was given in 1964 by John S. Bell, in a
+  mentum all along.                                   brain about the problem of                       famous paper6 in the short-lived jour-
+     Because the quantum theory is in-                whether something one cannot                     nal Physics. Using a gedanken experi-
+  trinsically incapable of assigning val-             know anything about exists all the               ment invented7 by David Bohm, in
+  ues to both quantities at once, it must             same, than about the ancient ques-               which "properties one cannot know
+  provide an incomplete description of                tion of how many angels are able to              anything about" (the simultaneous
+  the physically real. Unless, of course,             sit on the point of a needle. But it             values of the spin of a particle along
+  one asserts that it is only by virtue of            seems to me that Einstein's ques-                several distinct directions) are required
+  the position (or momentum) measure-                 tions are ultimately always of this              to exist by the EPR line of reasoning,
+  ment in A that the particle in B                    kind.                                            Bell showed ("Bell's theorem") that the
+  acquires its position (or momentum):                Faced with spooky actions at a dis-              nonexistence of these properties is a
+  spooky actions at a distance.                     tance, Einstein preferred to believe               direct consequence of the quantitative
+     At a dramatic moment Pauli appears             that things one cannot know anything               numerical predictions of the quantum
+  in the Born-Einstein Letters, writing             about (such as the momentum of a                   theory. The conclusion is quite inde-
+  Born from Princeton in 1954 with his              particle with a definite position) do              pendent of whether or not one believes
+  famous tact on display:                           exist all the same. In April 1948 he               that the quantum theory offers a com-
+     Einstein gave me your manuscript               wrote to Born:                                     plete description of physical reality. If
+     to read; he was not at all annoyed               Those physicists who regard the                  the data in such an experiment are in
+     with you, but only said you were a               descriptive methods of quantum                   agreement with the numerical predic-
+     person who will not listen. This                 mechanics as definitive in princi-               tions of the quantum theory, then
+     agrees with the impression I have                ple would . . . drop the requirement             Einstein's philosophical position has to
+     formed myself insofar as I was                   for the independent existence of                 be wrong.
+     unable to recognize Einstein when-               the physical reality present in                     In the last few years, in a beautiful
+     ever you talked about him in either              different parts of space; they would             series of experiments, Alain Aspect and
+     your letter or your manuscript. It               be justified in pointing out that the            his collaborators at the University of
+     seemed to me as if you had erected               quantum theory nowhere makes                     Paris's Institute of Theoretical and
+     some dummy Einstein for yourself,                explicit use of this requirement. I              Applied Optics in Orsay provided8 the
+     which you then knocked down with                 admit this, but would point out:                 experimental answer to Einstein's
+     great pomp. In particular, Ein-                  when I consider the physical phe-                challenge by performing a version of
+     stein does not consider the concept              nomena known to me, and espe-                    the EPR experiment under conditions
+     of "determinism" to be as funda-                 cially those which are being so                  in which Bell's type of analysis applied.
+     mental as it is frequently held to be            successfully encompassed by quan-                They showed that the quantum-theore-
+    (as he told me emphatically many                  tum mechanics, I still cannot find               tic predictions were indeed obeyed.
+    times).... In the same way, he                    any fact anywhere which would                    Thirty years after Einstein's challenge,
+    disputes that he uses as criterion                make it appear likely that [the]                 a fact—not a metaphysical doctrine—
+    for the admissibility of a theory the             requirement will have to be aban-                was provided to refute him.
+This article is copyrighted as indicated in the article. Reuse of AIP content is subject to the terms at: http://scitation.aip.org/termsconditions.
+ 40       PHYSICS TODAY / APRIL      Downloaded
+                                        1985        to IP: 128.104.46.206 On: Fri, 02 May 2014 20:20:12
+                                                     .31 rCK           22 6G            33 66
+                                                     33 QQ             11 RR            216R
+                                                      33 RR            33 6G            136R
+                                                      188R             31GR             236R
+                                                      33 GQ            1266             22 RR
+                                                      eiQR             21GR             11 RR
+                                                      81 RR            33 G6            216R
+                                                      S2RR             21 RR            21 RR
+                                                      33 BB            12BR             23 GG
+                                                      11QQ             22 RR            32GR
+                                                      23 RR            13 RB            33 RR
+                                                      32GR             12 R6            33 GG
+                                                      12BR             23 66            33 GG
+                                                      12 RB            1166             23GR
+                                                      1166             13 RG            21 GR
+                                                      31 RB            21 RG            12 RR Data           produced by the apparatus of figure
+                                                                                                       1. This is a fragment of an enormous set
+                                                      12 R6            33 RR            32GR           of data generated by many, many runs:
+                                                      13GR             32 6R            32 6R          Each entry shows the switch settings and
+                                                      2266             3266             33 GG          the colors of the lights that flashed for a
+                                                                                                       run. The switch settings are changed
+                                                      12 RG            3366             31 RG          randomly from run to run.             Figure 3
+                                                      12GR             21 RR            13 RR
+                                                      2266              12 R6           13 RG
+                                                      236R             2266             32 R6
+                                                      33 RR             11G6            316R
+   Attitudes toward this particular 50-               3366             23 6R           23 RR           is an attitude I would characterize as
+year sequence of intellectual history                 31 R6            22 RR            33 RR          balanced.      This was expressed to me
+and scientific discovery vary widely.9                                                                 most succinctly by a distinguished
+From the very start Bohr certainly took               31 RR             1166            136R           Princeton physicist on the occasion of
+it seriously. Leon Rosenfeld describes10              33 RR            32 6R            11GG           my asking how he thought Einstein
+the impact of the EPR argument:                       32 R6             13RG            31 6R would have reacted to Bell's theorem.
+   This onslaught came down upon us                   31 R6             13GR            31 RG He said that Einstein would have gone
+   as a bolt from the blue. Its effect                                                                 home and thought about it hard for
+   on Bohr was remarkable. . . . A                    11RR             23 GG            136R           several weeks—that he couldn't guess
+   new worry could not have come at                   236R             33 RR            23 R6          what he would then have said, except
+   a less propitious time. Yet, as soon               12GG             31 GR            3166           that it would have been extremely
+   as Bohr had heard my report of                     11GG              13RG            23 RG          interesting. He was sure that Einstein
+   Einstein's argument, everything
+   else was abandoned.                                13RG             23 RR           21 RR would               have been very bothered by
+                                                                                                       Bell's theorem. Then he added,
+   Bell's contribution has become cele-               31 RG             12GR            23 RG             Anybody who's not bothered by
+brated in what might be called semi-                  23GR             31 R6            1166              Bell's theorem has to have rocks in
+popular culture. We read, for example,                316R             32  RG          2266               his  head.
+in The Dancing Wu Li Masters that 11                  23 R6            216R             1166              To this moderate point of view I
+   Some physicists are convinced that                                                                  would only add the observation that
+   [Bell's theorem] is the most impor-                22 RR            2266             11BG           contemporary physicists come in two
+   tant single work, perhaps, in the                  126R             22 RR           21 RB varieties. Type 1 physicists are both-
+   history of physics.                                32 6R            13RR             11RR           ered by EPR and Bell's theorem. Type
+And indeed, Henry Stapp, a particle                   22    RR         21G6             12   RG        2 (the majority) are not, but one has to
+theorist at Berkeley, writes that 12                  1266             236R            83 SR           distinguish     two subvarieties. Type 2a
+   Bell's theorem is the most pro-                                                                     physicists explain why they are not
+   found discovery of science.
+                                                      33 RR            2266            32 BR           bothered. Their explanations tend ei-
+   At the other end of the spectrum,                  11RR             2266            S1B6            ther to miss the point entirely (like
+Abraham Pais, in his recent biography                 2366             3166            21R6            Bom's to Einstein) or to contain phys-
+of Einstein, writes13 of the EPR arti-                2366             136R             13R6           ical assertions that can be shown to be
+cle—that "bolt from the blue," the                                                                     false. Type 2b are not bothered and
+basis for "the most profound discovery
+                                                      33RR             216R             13R6           refuse to explain why. Their position is
+of science":                                          236R             33RR             13R6           unassailable. (There is a variant of
+   The only part of this article which                2166             23RR             13BR           type 2b who say that Bohr straightened
+   will ultimately survive, I believe,                136R             22  RR          23RB            out14 the whole business, but refuse to
+   is . . . a phrase ["No reasonable de-                                                               explain how.)
+                                                      3366             12RR            22 BB
+   finition of reality could be expected
+   to permit this"] which so poignant-                1166             23 R6            11RR           A gedanken demonstration
+   ly summarizes Einstein's views on                  12RR             23 RG           31RB               To enable you to test which category
+   quantum mechanics in his later                     1266             326R            83RR            you belong to, I shall describe, in black-
+   years.                                             316G             31RG            83R6            box terms, a very simple version of
+   I think it is fair to say that more                                                                 Bell's gedanken experiment, deferring
+                                                      32RG             22GG             11RR           to the very end any reference whatever
+physicists would side with Pais than                  216R             1166             32RG
+with Stapp, but between the majority                                                                   either to the underlying mechanism
+position of near indifference and the                 2266             11GG             32BR           that makes the gadget work or to the
+minority position of wild extravagance                22RR             21RG             13BB           quantum-theoretic analysis that ac-
+    This article is copyrighted as indicated in the article.
+                                                      13RR   Reuse of AIP content is subject
+                                                                                        238R to the terms  at: http://scitation.aip.org/termsconditions.
+                                                                       11RR
+                                         Downloaded2166 to IP: 128.104.46.206
+                                                                       12RQ On: Fri,32BR02 May 2014 20:20:12
+                                                                                                           PHYSICS TODAY / APRIL 1985                41
+                                                                                                         31RR             22QQ            33 QQ
+                                                                                                        33 QQ             URR             £1GR
+                                                                                                        33 RR            33QQ             13GR
+                                                                                                        1£GR             31GR             £3GR
+                                                                                                        33 QQ            1£GG             22 RR
+                                                                                                        £1GR             £1GR              URR
+                                                                                                        21RR             33QQ             £1GR
+                                                                                                        22 RR            £1 RR            £1 RR
+                                                                                                        33 GG            1£GR             £3GG
+                                                                                                         UGG             22RR             3£GR
+                                                                                                        £3RR             13RG             33RR
+                                                                                                        3£GR             1£RG             33 GG
+                                                     Switches set the same: the data of figure
+                                                       3, but highlighted to pick out those runs in     1£GR             £3GG             33 GG
+                                                               which both detectors had the same        1£RG             11GB             £3GR
+                                                       switch settings as they flashed. Note that                        13RG             £1GR
+                                                           in such runs the lights always flash the      UGG
+                                                     same colors.                          Figure 4     31 RG            £1 RG            1£RR
+                                                                                                        1£RG             33RR             3£GR
+                                                                                                        133R             32GR             3£GR
+                                                                                                        22 QQ            3£GG             33 GQ
+   counts for the data. Perhaps this pressing of the button and the flashing                            1£RG             33GQ             31RG
+   backwards way of proceeding will make of the light on a detector can only be                         1£GR             £1RR             13RR
+   it easier for you to lay aside your provided by the passage of something                             22 QQ            1£RG             13RG
+   quantum theoretic prejudices and de- (which we shall call a "particle,"
+   cide afresh whether what I describe is though you can call it anything you                           £3GR             22 QQ            3£RG
+   or is not strange.15                      like) between the source and that                          33RR             USB              31GR
+      What I have in mind is a simple detector. This can easily be tested; for                          33 QQ            £3GR             £3RR
+   gedanken demonstration. The appara- example, by putting a brick between                              31RG             22 RR            33 RR
+   tus comes in three pieces. Two of them the source and a detector. In subse-
+   (A and B) function as detectors. They quent runs, that detector will not flash.                      31RR             11BG             13GR
+   are far apart from each other (in the When the brick is removed, everything                          33RR             3£GR             UGG
+   analogous Aspect experiments over 10 works as before.                                                3£RG             13RG             31GR
+   meters apart). Each detector has a           Typical data from a large number of                     31RG             13GR             31RG
+   switch that can be set to one of three runs are shown in figure 3. There are                                          £3GG             13GR
+   positions; each detector responds to an just two relevant features:                                  URR
+   event by flashing either a red light or a • If one examines only those runs in                       £3GR             33RR             £3RG
+   green one. The third piece (C), midway which the switches have the same                              1£GG             31GR             31GG
+   between A and B, functions as a source. setting (figure 4), then one finds that                      11GB             13RG             £3RG
+  (See figure 1.)                            the lights always flash the same colors.                   13RG             £3RR             £1RR
+     There are no connections between • If one examines all runs, without                               31RG
+  the pieces—no mechanical connec- any regard to how the switches are set                                                1£GR             £3RG
+  tions, no electromagnetic connections, (figure 5), then one finds that the                            £3GR             31RG             UGG
+  nor any other known kinds of relevant pattern of flashing is completely ran-                          31GR             3£RG             22QQ
+  connections. (I promise that when you dom. In particular, half the time the                           £3RG             £1GR             UGG
+  learn what is inside the black boxes you lights flash the same colors, and half                       22RR             22QG
+  will agree that there are no connec- the time different colors.                                                                         UGG
+  tions.) The detectors are thus incapa-        That is all there is to the gedanken                    1£GR             22RR             £1RG
+  ble of signaling to each other or to the demonstration.                                               3£GR             13RR             URR
+  source via any known mechanism, and           Should you be bothered by these data                    22RR             £1GG             1£RG
+  with the exception of the "particles" unless you have rocks in your head?                             1£GG             £3GR             £3GR
+  described below, the source has no way                                                                33RR
+  of signaling to the detectors. The How could it work?                                                                  22QG             3£GR
+  demonstration proceeds as follows:            Consider only those runs in which                       URR              22QQ             £1GG
+     The switch of each detector is inde- the switches had the same setting when                        £3GG             31GG             £1RG
+  pendently and randomly set to one of the particles went through the detec-                            £3GG             13GR             13RG
+  its three positions, and a button is tors. In all such runs the detectors                             33RR             £1GR             13RG
+  pushed on the source; a little after that, flash the same colors. If they could
+  each detector flashes either red or communicate, it would be child's play                             £3GR             33RR             13RG
+ green. The setting of the switches and to make the detectors flash the same                            £1GG             £3RR             13GR
+ the colors that flash are recorded, and colors when their switches had the                             13GR             22RR             £3RG
+ then the whole thing is repeated over same setting, but they are completely                            33GG             1£RR             22GG
+ and over again.                             unconnected. Nor can they have been
+     The data consist of a pair of numbers preprogrammed always to flash the                            UGG              £3RG             URR
+ and a pair of colors for each run. A run, same colors, regardless of what is going                       1£RR           £3RG               31RG
+ for example, in which A was set to 3, B on, because the detectors are observed                            1£GG          3£GR                £3RR
+ was set to 2, Aflashedred, and B flashed to flash different colors in at least some                      31GG           31RG               £3RG
+ green, would be recorded as "32RG," as of those runs in which their switches                             3£RG
+ shown in figure 2.                          are differently set, and the switch                                         22GQ                URR
+     Because there are no built-in connec- settings are independent random                                £1GR               UGG             3£RG
+ tions between the source C and the events.                                                               2&GG               UGG             3£GR
+ detectors A and B, the link between the        How, then, are we to account for the                      S2RR               £1RG            1366
+                                                                                                          13RR               URR
+This article is copyrighted as indicated in the article. Reuse of AIP content is subject to the terms at: http://scitation.aip.org/termsconditions.
+                                                                                                                                             £3GR
+ 42       PHYSICS TODAY / APRIL         1985
+                                     Downloaded     to IP: 128.104.46.206 On: Fri, 02 May 2014 20:20:12   £1GG               1£RG            3£GR
+                                                          31RR             ££66            33BB
+                                                          33QQ             11RR            £1BR
+                                                          33RR             3366             13BR
+                                                           1£GR            316R            £3QR
+                                                          33BQ             1£66            ££RR
+                                                          £1QR             £16R             11RR
+                                                          £1RR             3366            £1QR
+                                                          ££RR             £1RR            £1RR
+                                                          33BB             1£6R            £3Q6
+                                                           1166            ££RR            3£6R
+                                                          £3RR             13R6
+      Switches set any way: the data of figure            3£GR             1£R6            3366
+        3, but highlighted to emphasize only the           1£6R            £366            3366
+    colors of the lights that flashed in each run,
+    no matter how the switches were set when               1£R6            1166            £36R
+     the lights flashed. Note that the pattern of          1166            13R6            £16R
+   colors is completely random.           Figure 5        3 IRQ            £1R6             1£RR
+                                                           1£R6                            3£6R
+                                                           136R            3£6R            3£6R
+                                                          ££66             3£66            3366
+  first feature of the data? No problem at                 1£R6            3366            31R6 the requirement that each particle
+  all. Born, in fact, in a letter of May                                                                  should, in one way or another, carry to
+  1948, offers5 such an explanation to                     1£QR            £1RR             13RR          its detector a set of instructions for how
+  Einstein:,                                              ££66             1£R6             13R6 it is to flash for each of the three
+     It seems to me that your axiom of                    £38R             ££66            3£R8 possible switch settings, and that in any
+     the "independence of spatially                       33RR             1166            316R           run of the experiment both particles
+     separated objects A and B" is not                    3366             £36R            £3RR           should carry the same instruction sets:
+     as convincing as you make out. It                                                                    • A set of instructions that covers each
+     does not take into account the                       31R6             ££RR            33RR           of the three possible settings is required
+     fact of coherence; objects far                       31RR             1166             136R          because there is no communication
+     apart in space which have a com-                     33RR             3£6R             1166 between the source and the detectors
+     mon origin need not be indepen-                      3£RB             13R6            316R           other than the particles themselves. In
+     dent. I believe that this cannot be                                                                  runs in which the switches have the
+     denied and simply has to be ac-                      3 IRQ            136R            31R6           same setting, the particles cannot know
+     cepted. Dirac has based his whole                     11RR            £366            136R           whether that setting will be 11, 22, or
+     book on this.                                        £36R             33RR            £3R6           33. For the detectors always to flash
+  In our case the detectors are triggered                  1£66            316R            3166           the same colors when the switches have
+ by particles that have a common origin                    1166            13R6            £3R6 the same setting, the particles must
+  at the source C. It is then easy to dream                                                               carry instructions that specify colors
+  up any number of explanations for the
+                                                           13R6            £3RR            £1RR           for each of the three possibilities.
+ first feature of the data.                               31R6             1£6R            £3R6           • The absence of communication
+     Suppose, for example, that what each                 £36R             31R6            1166 between source and detectors also re-
+ particle encounters as it enters its                     316R             3£R6            ££66 quires that the particles carry such
+ detector is a target (figure 6) divided                  £3R6             £16R            1166 instruction sets in every run of the
+ into eight regions, labeled RRR, RRG,                    ££RR             ££66            1166 switches  experiment—even those in which the
+ RGR, RGG, GRR, GRG, GGR, and                                                                                         end up with different set-
+ GGG. Suppose each detector is wired                      1£6R             ££RR            £1R6 tings—because the particles always
+ so that if a particle lands in the GRG                   3£6R             13RR            11RR           have to be prepared: Any run may
+ bin, the detector flips into a mode in                   ££RR            £166             1£R6 turn out to be one in which the switches
+ which the light flashes G if the switch is               1£66             £36R            £36R           end up with the same settings.
+ set to 1, R if it is set to 2, and G if it is set                                                        This generic explanation is pictured
+ to 3; RGG leads to a mode with R for 1
+                                                          33RR            ££66             3£6R           schematically in figure 7.
+ and G for 2 and 3, and so on. We can                     11RR            ££66             £166             Alas, this explanation—the only one,
+ then easily account for the fact that the                £366            3166             £1R6 I maintain, that someone not steeped in
+ lights always flash the same colors                      £366             136R            13R6 quantum mechanics will ever be able to
+when the switches have the same                           33RR            £16R             13R6 come up with (though it is an entertain-
+settings by assuming that in each run
+the source always fires its particles into               £36R             33RR             13R6 ing           game to challenge people to try)—is
+                                                                                                         untenable. It is inconsistent with the
+bins with the same labels.                                £166            ci3RR            136R second feature of the data: There is no
+    Evidently this is not the only way.                   136R            ££RR             £3R6 conceivable way to assign such instruc-
+One could imagine that particles come                    3366              1£RR            ££66 tion sets to the particles from one run
+in eight varieties: cubes, spheres, te-                   1166            £3R6             11RR to          the next that can account for the fact
+                                                                                                         that in all runs taken together, without
+trahedra,.... All settings produce R
+when a cube is detected, a sphere                         1£RR            £3R6             31R6 regard to how the switches are set, the
+results in R for settings 1 and 2, G for                  1£66            3£6R             £3RR          same colors flash half the time.
+setting 3, and so forth. The first                       3166             31R6             £3R6             Pause to note that we are about to
+feature of the data is then accounted                    3£R6             ££66             11RR show that "something one cannot know
+for if the two particles produced by the                 £16R              1 166           3£R3 anything             about"—the third entry in an
+                                                                                                         instruction set—cannot exist. For even
+source in each run are always both of
+the same variety.                                        ££66              1166            3£QR          if instruction sets did exist, one could
+    Common to all such explanations is                   ££RR             £1R8             13BQ never learn more than two of the three
+                                                         13RR
+       This article is copyrighted as indicated in the article.           11RR
+                                                                Reuse of AIP               £3QR
+                                                                             content is subject to the terms at: http://scitation.aip.org/termsconditions.
+                                             Downloaded£1BB               1£R6 On: Fri, 3£QR
+                                                           to IP: 128.104.46.206           02 May 2014 20:20:12
+                                                                                                             PHYSICS TODAY / APRIL 1985              43
+                                                                         =• T ra D         ::DD
+                                                                                                        Model of a detector to produce data like
+                                                                                                        those in figure 4. Particles from the source
+                                                                                                        fall with equal probability into any of the
+                                                                                                        eight bins; for each bin the color flashed
+                                                                                                        depends on the switch as indicated on the
+                                                                                                        back of the box.                       Figure 6
+
+   entries (revealed in those runs where             the time. The data described above                   That's it. Clearly there are no con-
+   the switches ended up with two differ-            violate this Bell's inequality, and there-         nections between the source and the
+   ent settings). Here is the argument.              fore there can be no instruction sets.             detectors or between the two detectors.
+      Consider a particular instruction set,            If you don't already know how the               We can nevertheless account for the
+   for example, RRG. Should both parti-              trick is done, may I urge you, before              data as follows:
+   cles be issued the instruction set RRG,           reading how the gedanken demonstra-                  When the switches have the same
+   then the detectors will flash the same            tion works, to try to invent some other            setting, the spins of both particles are
+   colors when the switches are set to 11,           explanation for the first feature of the           measured along the same direction, so
+   22, 33, 12, or 21; they will flash                data that does not introduce connec-               the lights will always flash the same
+   different colors for 13, 31, 23, or 32.           tions between the three parts of the               colors if the measurements along the
+   Because the switches at each detector             apparatus or prove to be incompatible              same direction always yield opposite
+   are set randomly and independently,               with the second feature.                           values. But this is an immediate conse-
+   each of these nine cases is equally                                                                  quence of the structure of the spin
+   likely, so the instruction set RRG will           One way to do it                                   singlet state, which has the form
+   result in the same colors flashing % of              Here is one way to make such a
+   the time.                                         device:                                                                                          (1)
+      Evidently the same conclusion holds               Let the source produce two particles of
+   for the sets RGR, GRR, GGR, GRG and               spin V2 in the singlet state, flying apart          independent of the direction of the spin
+   RGG, because the argument uses only               toward the two detectors. (Granted, this            quantization axis, and therefore yields
+   the fact that one color appears twice             is not all that easy to do, but in the Orsay         + — or — 4- with equal probability,
+   and the other once. All six such                  experiments described below, the same               but never + + or — — , whenever the
+   instructions sets also result in the same         effect is achieved with correlated pho-             two spins are measured along any
+   colors flashing % of the time.                    tons.) Each detector contains a Stern-              common direction.
+      But the only instruction sets left are         Gerlach magnet, oriented along one of                 To establish the second feature of the
+   RRR and GGG, and these each result in             three directions (a(1), a(2), or a(3)), perpen-     data, note that the product mlm2 of the
+   the same colors flashing all of the time.         dicular to the line of flight of the                results of the two spin measurements
+      Therefore if instruction sets exist,           particles, and separated by 120°, as                (each of which can have the values
+   the same colors will flash in at least %          indicated in figure 8. The three settings            + V2 or - V2) will have the value - XU
+   of all the runs, regardless of how the            of the switch determine which orienta-              when the lights flash the same colors
+   instruction sets are distributed from             tion is used. The light on one detector             and + V4 when they flash different
+   one run of the demonstration to the               flashes red or green, depending on                  colors. We must therefore show that
+   next. This is Bell's theorem (also                whether the particle is deflected toward            the product vanishes when averaged
+   known as Bell's inequality) for the               the north (spin up) or south (spin down)            over all the nine distinct pairs of
+   gedanken demonstration.                           pole of the magnet as it passes between             orientations the two Stern-Gerlach
+      But in the actual gedanken demon-              them; the other detector uses the oppo-             magnets can have. For a given pair of
+   stration the same colors flash only \             site color convention.                              orientations, a<0 and a ° \ the mean
+This article is copyrighted as indicated in the article. Reuse of AIP content is subject to the terms at: http://scitation.aip.org/termsconditions.
+   44       PHYSICS TODAY / APRIL    Downloaded
+                                          1985      to IP: 128.104.46.206 On: Fri, 02 May 2014 20:20:12
+                ' 2 3
+
+               R6R
+
+ Instruction sets. To guarantee that the detectors of figure 6 flash the same color
+ when the switches are set the same, the two particles must in one way or another
+ carry instruction sets specifying how their detectors are to flash for each possible
+ switch setting. The results of any one run reveal nothing about the instructions
+ beyond the actual data; so in this case, for example, the first instruction (1R) is
+ "something one cannot know anything about," and I've only guessed at it,
+ assuming that "it exists all the same."                                       Figure 7
+
+ value of this product is just the expecta- instruction sets are the only way to                        The photon pairs are emitted by cal-
+ tion value in the state ip of the corre- account for the first feature of the data.                    cium atoms in a radiative cascade after
+ sponding g product
+              p      of (commuting)((1)g her-   Bell's analysis adds to the discussion                 suitable pumping by lasers. Because
+                            (0
+    iti
+ mitian       b b l
+             observables   a (0 • S(1) and those runs in which the switches have                       the initial and final atomic states have
+ &iJ) • S(2). Thus the second feature of different settings, extracts the second                       J=0, quantum theory predicts (and
+ the data requires:                           feature of the data as a further elemen-                 experiment confirms) that the photons
+                                              tary prediction of quantum mechanics,                    will be found to have the same polariza-
+                                          (2) and demonstrates that any set of data                    tions (lights flashing the same colors in
+                                              exhibiting this feature is incompatible                  the analogous gedanken experiment) if
+But equation 2 is an immediate conse-
+quence of the linearity of quantum            with  the existence of the instruction                   they are measured along the same
+mechanics, which lets one take the            sets apparently   required by the first                  direction—feature number 1. But if
+sums inside the matrix element, and feature, quite independently of the                                the polarizations are measured at 120°
+the fact that the three unit vectors formalism used to explain the data, and                          angles, then theory predicts (and exper-
+around an equilateral triangle sum to quite independently of any doctrines of                         iment confirms) that they will be the
+zero:                                         quantum theology.                                       same only a quarter of the time
+                                                                                                      [V4 = cos2( 120°)]. This is precisely what
+                 =2Ja(J)
+                                                   The experiments                                    is needed to produce the statistics of
+                            =0              (3)
+                                                     The experiments of Aspect and his                feature number 2 of the gedanken
+    This completely accounts for the               colleagues at Orsay confirm that the               demonstration: The randomly set
+ data. It also unmasks the gedanken                quantum-theoretic predictions for this             switches end up with the same setting
+ demonstration as a simple embellish-             experiment are in fact realized, and                (same polarizations measured) % of the
+ ment of Bohm's version of the EPR                that the conditions for observing the               time, so in all runs the same colors will
+ experiment. If we kept only runs in              results of the experiment can in fact be           flash V 3 xl +2/3X(V4) =V2 the time.
+ which the switches had the same set-             achieved. (A distinguished colleague                   The people in Orsay were interested
+ ting, we would have precisely the                once told me that the answer to the                in a somewhat modified version of
+ Bohm-EPR experiment. The assertion               EPR paradox was that correlations in               Bell's argument in which the angles of
+ that instruction sets exist is then bla-         the singlet state could never be main-             greatest interest were multiples of
+tant quantum-theoretic nonsense, for it           tained over macroscopic distances—                 22.5°, but they collected data for many
+amounts to the insistence that each               that anything, even the passage of a               different angles, and, except for EPR
+particle has stamped on it in advance             cosmic ray in the next room, would                 specialists, the conceptual differences
+the outcome of the measurements of                disrupt the correlations enough to des-            between the two cases are minor.16
+three different spin components corre-            troy the effect.)                                      There are some remarkable features
+sponding to noncommuting observables                 In these experiments the two spin-V2            to these experiments. The two polar-
+S-a ( '\ t = l,2, 3. According to EPR,            particles are replaced by a pair of                ization analyzers were placed as far as
+this is merely a limitation of the                photons and the spin measurements                  13 meters apart without producing any
+quantum-theoretic formalism, because              become polarization measurements.                  noticeable change in the results, there-
+     This article is copyrighted as indicated in the article. Reuse of AIP content is subject to the terms at: http://scitation.aip.org/termsconditions.
+                                          Downloaded to IP: 128.104.46.206 On: Fri, 02 May 2014 20:20:12PHYSICS TODAY / APRIL 1985               45
+   by closing the loophole that the strange           from one detector to the other. (This                 weather conditions....
+   quantum correlations might somehow                 corresponds to a refinement of the                    Heady stuff indeed! But just what is
+   diminish as the distance between re-               gedanken demonstration in which, to                this nonlocal effect? Using the lan-
+   gions A and B grew to macroscopic                  be absolutely safe, the switches are not           guage of the gedanken demonstration,
+   proportions. At such separations it is             given their random settings until after            let us talk about the 'W-color" of a
+   hard to imagine that a polarization                the particles have departed from their             particle (iVcan be 1, 2, or 3) as the color
+   measurement of photon # 1 could, in                common source.)                                    (red or green) of the light that flashes
+   any ordinary sense of the term, "dis-                                                                 when the particle passes through a
+   turb" photon #2. Indeed, at these                  What does it mean?                                 detector with its switch set to N.
+   large separations, a hypothetical dis-               What is one to make of all this? Are             Because instruction sets cannot exist,
+   turbance originating when one photon               there "spooky actions at a distance"?              we know that a particle cannot at the
+   passed through its analyzer could only             A few years ago I received the text of a           same time carry a definite 1-color, 2-
+   reach the other analyzer in time to                letter from the executive director of a            color and 3-color to its detector. On the
+   affect the outcome of the second polar-            California thinktank to the Under-                 other hand, for any particular N(say 3),
+   ization measurement if it traveled at a            secretary of Defense for Research and              we can determine the 3-color of the
+   superluminal velocity.                             Engineering, alerting him to the EPR               particle heading for detector A before it
+      In the third paper of the Orsay                 correlations:                                      gets there by arranging things so that
+   group's series, bizarre conspiracy the-              If in fact we can control the faster-            the other particle first reaches detector
+   ories are dealt a blow by an ingenious               than-light nonlocal effect, it would             B, where its 3-color is measured. If the
+   mechanism for rapidly switching the                  be possible... to make an untap-                 particle at B was 3-colored red, the
+   directions along which the polariza-                 pable and unjammable command-                    particle at A will turn out to be 3-
+   tions of each photon are measured.                   control-communication system at                  colored red, and green at B means green
+   Each photon passes to its detector                   very high bit rates for use in the               at A.
+   through a volume of water that sup-                  submarine fleet. The important                       Three questions now arise:
+   ports an ultrasonic standing wave.                   point is that since there is no                   • Did the particle at A have its 3-color
+   Depending on the instantaneous ampli-                ordinary electromagnetic signal                   prior to the measurement of the 3-color
+   tude of the wave, the photon either                  linking the encoder with the de-                  of the particle at B? The answer cannot
+   passes directly into a polarizer with one            coder in such a hypothetical sys-                be yes, because, prior to the measure-
+   orientation or is Bragg reflected into               tem, there is nothing for the enemy               ment of the 3-color at B, it is altogether
+   another with a different orientation.                to tap or jam. The enemy would                    possible that the roll of the dice at B or
+   The standing waves that determine the                have to have actual possession of                 the whim of the B-operator will result
+   choice of orientation at each detector               the "black box" decoder to inter-                 in the 2-color or the 1-color being
+   are independently driven and have                    cept the message, whose reliability               measured at B instead. Barring the
+   frequencies so high that several cycles              would not depend on separation                    most paranoid of conspiracy theories,
+   take place during the light travel time              from the encoder nor on ocean or                  "prior to the measurement of the 3-
+This article is copyrighted as indicated in the article. Reuse of AIP content is subject to the terms at: http://scitation.aip.org/termsconditions.
+   46       PHYSICS TODAY / APRIL          1985
+                                     Downloaded     to IP: 128.104.46.206 On: Fri, 02 May 2014 20:20:12
+A realization of the detector to produce the data of figure 3. The
+particles have a magnetic moment and can be separated into "spin
+up" and "spin down" particles by the Stern-Gerlach magnet inside
+the detector. Setting the switch to positions 1, 2, or 3 rotates the
+north pole of the magnet along the coplanar unit vectors a(1), a(2), or
+a(31, separated by 120°. The vector sum of the three unit vectors is, of
+course, zero. The switch positions on the two detectors correspond
+to the same orientations of the magnetic field. One detector flashes
+red for spin up, green for spin down; the other uses the opposite color
+convention.                                                       Figure 8
+
+ color at B" is indistinguishable from         This is a most curious state of affairs,               4. A. Pais, Rev. Mod. Phys. 51, 863 (1979).
+ "prior to the measurement of the 2- (or and while it is wrong to suggest that                        5. The Born-Einstein Letters, with com-
+ 1-) color at B." If the 3-color already EPR correlations will replace sonar, it                         ments by M. Born, Walker, New York
+ existed, so also must the 2- and 1-colors seems to me something is lost by                              (1971).
+ have existed. But instruction sets ignoring them or shrugging them off.                              6. J. S. Bell, Physics 1, 195 (1964).
+ (which consist of a specification of the The EPR experiment is as close to                           7. D. Bohm, Quantum Theory, Prentice-
+ 1-, 2-, and 3-colors) do not exist.         magic as any physical phenomenon I                          Hall, Englewood Cliffs, N.J. (1951) pp.
+ • Is the particle at A 3-colored red after know of, and magic should be enjoyed.                        614-619.
+ the measurement at B shows the color Whether there is physics to be learned                          8. A. Aspect, P. Grangier, G. Roger, Phys.
+ red? The answer is surely yes, because by pondering it is less clear. 17      The most                  Rev. Lett. 47, 460 (1981). A. Aspect, P.
+ under these circumstances it is invaria- elegant answer I have found to this                            Grangier, G. Roger, Phys. Rev. Lett. 49,
+ bly a particle that will cause the last question comes from one of the                                  91 (1982). A. Aspect, J. Dalibard, G.
+ detector at A to flash red.                 great philosophers of our time, whose                       Roger, Phys. Rev. Lett. 49, 1804 (1982).
+ • Was something (the value of its 3- view of the matter I have taken the                             9. For a discussion of the views of today's
+ color) transmitted to the particle at A as liberty of quoting in the form of the                        physicists toward the meaning of the
+                                             poetry it surely is:                                        quantum theory, see the interesting and
+ a result of the measurement at B?                                                                       provocative essay "Cognitive Repression
+    Orthodox quantum metaphysicians We have always had a great deal of difficulty                        in Contemporary Physics" by E. F. Kel-
+ would, I believe, say no, nothing has understanding the world view                                      ler, Am. J. Phys. 47, 718 (1977).
+ changed at A as the result of the that quantum mechanics represents.                                10. L. Rosenfeld in Niels Bohr, His Life and
+ measurement at B; what has changed is                                                                   Work as Seen by His Friends and Collea-
+ our knowledge of the particle at A. At          least I do,
+                                             because I'm an old enough man                               gues, S. Rozental, ed., North Holland,
+ (Somewhat more spookily, they might that I haven't got to the point                                     Amsterdam (1967) pp. 114-36.
+ object to the naive classical assumption that this stuff is obvious to me.                          11. G. Zukav, The Dancing Wu-Li Masters—
+ of localizability or separability implicit                                                              An Overview of the New Physics, Mor-
+ in the phrases "at A" and "at B.") This Okay, I still get nervous with it. .. .                         row, New York (1979) p. 282. On the
+ seems very sensible and very reassur- You know how it always is,                                        same page it is also said that "Bell's
+ ing: iV-color does not characterize the every new idea,                                                 theorem is a mathematical construct
+                                                                                                         which as such is indecipherable to the
+ particle at all, but only what we know it takes a generation or two                                     non-mathematician," a view that I hope
+ about the particle. But does that last until       it becomes obvious
+                                             that there's no real problem.                               the rest of this article will dispel.
+ sentence sound as good when "particle"
+                                                                                                     12. H. Stapp, Nuovo Cimento 40B, 191
+ is changed to "photon" and' W-color" to I cannot define the real problem,                               (1977).
+ "polarization"? And does it really help therefore I suspect there's no real problem,
+                                                                                                     13. A. Pais, "Subtle is the Lord..."     The
+you to stop wondering why the lights but I'm not sure                                                    Science and the Life of Albert Einstein,
+always flash the same colors when the there's no real problem.                                           Oxford U. P., New York (1982) p. 456.
+switches have the same settings?                Nobody in the 50 years since Ein-                    14. N. Bohr, Phys. Rev. 48, 696 (1935).
+    What is clear is that if there is spooky stein, Podolsky and Rosen has ever put                  15. What follows is a somewhat refined ver-
+action at a distance, then, like other it better than that.                                              sion of an argument I published a few
+spooks, it is absolutely useless except                                                                  years ago in Am. J. Phys. 49, 940 (1981),
+for its effect, benign or otherwise, on                                                                  incorporating some improvements sug-
+our state of mind. For the statistical Some of the views expressed above were                            gested by Richard Friedberg. For other
+                                             developed in the course of occasional techni-
+pattern of red and green flashes at cal         studies of EPR correlations supported by
+                                                                                                         elementary treatments see J. S. Bell's
+detector A is entirely random, however the National Science Foundation under                             beautiful essay, "Bertlemann's Socks
+the switch is set at detector B. Whether grant No. DMR 83-14625.                                         and the Nature of Reality," J. Phys.
+the particles arriving at A all come with                                                                (Paris) 42, C2-41 (1981), B. d'Espagnat's
+                                                                                                         article in the November 1979 Scientific
+definite 3-colors (because the switch at                                                                 American, or d'Espagnat's recent book,
+B was stuck at 3) or definite 2-colors References                                                        In Search of Reality, Springer-Verlag,
+(because the switch was stuck at 2) or 1. Daniel Greenberger, discussion remarks                         New York (1983).
+no colors at all (because there was a            at the Symposium on Fundamental                     16. For a survey of other attempts to realize
+brick in front of the detector at B)—all         Questions in Quantum Mechanics,                         the EPR experiment, and the variants of
+this has absolutely no effect on the             SUNY, Albany, April 1984.                               Bell's original argument used to inter-
+statistical distribution of colors ob- 2. A. Einstein, B. Podolsky, N. Rosen,                            pret experimental tests, see J. F.
+served at A. The manifestation of this           Phys. Rev. 47, 777 (1935).                              Clauser, A. Shimony, Repts. Prog. Phys.
+"action at a distance" is revealed only 3. Quoted by M. Jammer, The Philosophy                           41, 1881 (1978).
+through a comparison of the data                 of Quantum Mechanics, Wiley, New                    17. R. P. Feynman, Int. J. Theor. Phys. 21,
+independently gathered at A and at B.            York (1974) p. 151.                                     471 (1982).                              •
+   This article is copyrighted as indicated in the article. Reuse of AIP content is subject to the terms at: http://scitation.aip.org/termsconditions.
+                                        Downloaded to IP: 128.104.46.206 On: Fri, 02 May 2014 20:20:12  PHYSICS TODAY / APRIL 1985                47
+

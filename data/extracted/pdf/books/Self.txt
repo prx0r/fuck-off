@@ -1,0 +1,221 @@
+               170   Great Problems in Philosophy and Physics - Solved?
+Chapter
+  Chapter
+
+
+
+
+                                      e l f a n d
+                                    S
+        1515
+
+
+
+
+                                  e
+                                Th r Minds
+                                Othe
+
+
+
+
+                                                                   This chapter on the web
+                                                    informationphilosopher.com/mind/ego
+                                                           The Self 171
+
+
+The Self and Other Minds
+   Celebrating René Descartes, the first modern philosopher,
+and his famous phrase Ego cogito, ergo sum, we call our model for
+mind the Ego. It is implemented with our experience recorder and
+reproducer (ERR).
+   Our two-stage model for free will we call the Cogito. Our model
+for an objective value, independent of humanity and earthly bio-
+ethics, we call Ergo. And our model for knowledge we call the Sum.
+   The Ego is more or less synonymous with the Self, the Soul, or
+the Spirit - Gilbert Ryle’s “ghost in the machine.” We see it as
+immaterial information. An immaterial self with causal power is
+almost universally denied by modern philosophers as metaphysi-
+
+
+
+
+                                                                                   1515
+cal, along with related problematic ideas such as consciousness
+
+
+
+
+                                                                             Chapter
+and libertarian or indeterministic free will.
+
+
+
+
+                                                                           Chapter
+  Descartes illustrated a mechanical reflex path, from a foot feel-
+ing pain from a fire, up a nerve to the pineal gland in the mind,
+and back down to pull away the foot.
+   It is important to note that Descartes made that gland the
+                                      locus of undetermined freedom
+                                      in humans. For him, the body
+                                      was a deterministic mechani-
+                                      cal system of tiny fibres causing
+                                      movements in the brain (the
+                                      afferent sensations), which then
+                                      can pull on other fibres to acti-
+                                      vate the muscles (the efferent
+                                      nerve impulses). This is the basis
+                                      of stimulus and response theory
+                                      in modern physiology (reflexol-
+                                      ogy). It is also the basis behind
+                                      simple connectionist theories
+  Figure 15-8. Descartes’ reflex arc. of mind. An appropriate neural
+network (with all the necessary logical connections) need only
+connect afferent to efferent signals. No thinking mind is needed
+for animals. This “reflex arc” model is still common in biology.
+             172       Great Problems in Philosophy and Physics - Solved?
+
+                  Descartes’ suggestion that animals are machines included the
+               notion that man too is in part a machine - the human body obeys
+               deterministic causal laws. Although for Descartes man also has a
+               soul or spirit that is exempt from determinism and thus from what
+               is known today as “causal closure,” Cartesian dualism was the first
+               step to eliminative materialism.
+               Mind Over Matter?
+                 But as all critics of Descartes do, we must ask, how can the mind
+               both cause something physical to happen and yet itself be acausal,?
+               How is it exempt from causal chains coming up from the body?
+                  Descartes’ vision of undetermined freedom for the mind is real-
+               ized since our immaterial thoughts are free, whereas our actions
+               are adequately determined by our will. This combination of ideas
+Chapter 15
+
+
+
+
+               is the basis for our two-stage model of free will.1 It is a model of
+               agent causation. New causal chains originate as ideas in our minds.
+               Once evaluated and chosen they are adequately determined to lead
+               to willed actions. This is a model for self-determination.
+                  The “self ” or ego, the psyche or soul, is the self of this self-deter-
+               mination. Self-determination is of course limited by our control
+               over matter and energy, but within those physical constraints our
+               selves can consider ideas, decide to act on one and take full respon-
+               sibility for our actions.
+                  The Self is often identified with one’s “character.” This is the basis
+               for saying that our choices and decisions are made by evaluating
+               freely generated alternative possibilities in accordance with our rea-
+               sons, motives, feelings, desires, etc. These are in turn often the con-
+               sequence of our past experiences, along with inherited (biologically
+               built-in) preferences. And this bundle of motivating factors is essen-
+               tially what is known as our character. Someone familiar with all of
+               those preferences would be able to predict our actions with some
+               certainty, though not perfectly, when faced with particular options
+               and the circumstances. The self is the agent that is responsible for
+               those actions.
+                                                 173
+                   1     See chapter 4.
+                                                                      The Self 173
+   The self is also often described as the seat of consciousness. Infor-
+mation philosophy defines consciousness as attention to information
+coming in to the mind and the resulting actions that are responsive
+to the external stimuli (or bodily proprioceptions). Consciousness
+thus depends in part on past experiences which are recalled by the
+experience recorder and reproducer as responses to external stim-
+uli. In this way, what it’s like to be a conscious agent depends on the
+kinds of experiences that the agent can notice.
+   David Hume’s so-called “bundle theory” of the self is quite con-
+sistent with the information philosophy view. His fundamental
+ideas of causality, contiguity, and resemblance as the basis for the
+association of ideas are essential aspects of the experience recorder
+and reproducer. He said,
+      It is plain, that in the course of our thinking, and in the constant revolu-
+
+
+
+
+                                                                                     Chapter 15
+      tion of our ideas, our imagination runs easily from one idea to any other
+      that resembles it, and that this quality alone is to the fancy a sufficient
+      bond and association. It is likewise evident that as the senses, in chang-
+      ing their objects, are necessitated to change them regularly, and take
+      them as they lie contiguous to each other, the imagination must by long
+      custom acquire the same method of thinking, and run along the parts of
+      space and time in conceiving its objects.2
+    The frog’s eye famously filters out some visual events (moving
+concave images) while triggering strong reactions to others, like
+sticking out a tongue to capture moving convex objects. What it’s
+like to be a frog depends then on some experiences that are never
+recorded and thus not meaningful to the frog. Hume might say such
+perceptions have no resemblance to anything in the mind of the
+frog. The frog’s self is simply not conscious of any sensations that are
+filtered out of its perceptions.
+The Problem of Other Minds
+   The problem of other minds is often posed as just one more
+problem in epistemology, that is, how can we be certain about the
+existence of other minds, since we can’t be certain about anything
+in the external world. But it can also be seen as a problem about
+meaningful communications and agreement about shared concepts
+in two minds. This makes information philosophy an excellent tool
+for approaching the problem.
+                                         174
+  2       A Treatise of Human Nature. 4.1, 2
+             174   Great Problems in Philosophy and Physics - Solved?
+
+                  For some philosophers, the problem of other minds is dis-solved
+               by denying the existence of the mind in general - as merely an epi-
+               phenomenon with no causal powers. Other philosophers identify
+               the problem with Hume’s claim that when he looked inside he saw
+               no self. Our positing the self as the immaterial information about
+               stored past experiences clearly helps here.
+                 Still others admit that they have perceptions and sensations, but
+               how could they possibly know what another person is experiencing.
+               For example, I know when I feel pain, but I don’t know what is really
+               happening in another person who looks to be feeling pain.
+                  The standard answer here is that other persons seem in most
+               respect to be similar to ourselves, and so by analogy their experi-
+               ences must be similar to ours. This analogical inference is weak
+Chapter 15
+
+
+
+
+               because of its literal superficiality, because we don’t get an inside
+               view of the other mind.
+                  For information philosophy, the problem of knowledge can
+               solved by identifying partial isomorphisms in external information
+               structures with the pure information in a mind. This suggests the
+               solution of other minds. Looked at this way, the problem of other
+               minds is easier to solve than the general epistemological problem.
+               The general problem must compare different things, the pure infor-
+               mation of mental ideas with the information abstracted from con-
+               crete external information structures. The problem of other minds
+               compares concepts in minds about similar things.
+                  When, by interpersonal communications, we compare the pure
+               information content in two different minds, we are reaching directly
+               into the other mind in its innermost immaterial nature. To be sure,
+               we have not felt the same sensations nor had identical experiences.
+               We have not “felt the other’s pain.” But we can plant ideas in the other
+               mind, and then watch those ideas alter the other person’s actions in
+               a way totally identical to what that information, that knowledge, has
+               been used for in our own actions.
+                                                175
+                                                         The Self 175
+
+   This establishes the existence, behind the external bodily (mate-
+rial) behaviors of the other person, of the same immaterial, meta-
+physical mind model in the other mind, as the one in our own.
+  Charles Sanders Peirce offered us a vision of an open “com-
+munity of inquirers,” seeking “intersubjective agreement” to find
+common ground, common ideas, and common information struc-
+tures that are processing information in similar if not identical ways.
+   The very first item of intersubjective agreement in that commu-
+nity should be to accept the existence of minds in all the members
+of the community.
+
+
+
+
+                                                                          Chapter 15
+

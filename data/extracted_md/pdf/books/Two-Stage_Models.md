@@ -1,0 +1,1156 @@
+# 160      Free Will: The Scandal in Philosophy
+
+**source:** pdf · **section:** books
+**file:** Two-Stage_Models
+---
+
+
+                                                   m inis        m
+                                          De t e r
+
+                                                            t i b i l i s m
+                                                  Co    mpa                   ism
+                                                                   rmin
+                         ter  minism               Sof   t D e t e
+                  De
+             Hard                                                                   lism
+                                                                          atibi
+Chapter 12
+
+                                                                    o m p
+                                                              oft C
+                        p a t i b ilism
+                                  o d    e    l s           S
+          nco         m
+                             e M                                                           In
+        11
+
+        I
+H a r d
+                      St a g      ill
+                   wo- FreSeemW     p a t i bilism
+                 T             icom
+
+  Ill u s i o n ism  of                       sm
+                                                                 p atib ili
+                                                        In c o m
+                                                    w
+                        sm                 Narro
+   Impo         ssibili
+                                                                 p atib   ilism
+                                                      t In c o m
+                                                 Sof                                        y
+                         del                                                        Leewa
+                   an Mo
+             Valeri                                       p a t i b ilism            (Altern
+                                                                                             a
+                                          r c e I ncom nce)
+                                      Sou          l S e que
+                                        (Actu   a
+                                                                             i m i t e d
+                                                      e lw             ith L
+                                                  o d
+                                - S t      a ge M
+                           Tw o                     This chapter on the web
+                 informationphilosopher.com/freedom/two-stage_models.html
+                           m inis          m
+                  de t e r                                Two-Stage Models         161
+             In
+             Two-Stage Models
+                         rianisof Free Will
+                               m
+                                           a
+                                Libert
+                                                                                usal
+                In our history of the free will problem (Chapter 7), we found
+                                                                          - C a
+             several thinkers who developed two-stage solutions to thetclassical
+             problem of free will, among them William James         en Henri
+                                                                Ag(1884),
+                                    C a  u s al
+             Poincaré (about 1906), the physicist     Arthur Holly Compton
+             (1931, 1955), the   t-
+                          venphilosopher     Mortimer Adler (1961), the math-
+             ematician EJacques Hadamard, the philosopher Karl Popper
+             (1965, 1977), the physicist and philosopher Henry Margenau
+                                                                             - C a u sal
+             (1968, 1982), the philosophers Daniel Dennett N             on and
+                                                                      (1978)
+
+                                                                                               11
+                                                                                       Chapter 12
+             Robert Kane (1985), the classicists Anthony Long and David
+                            m               SFA(1989), Julia Annas (1990),
+        a t i b i lis
+             Sedley (1987), Roger Penrose
+
+    omp                                                                 lity
+             Alfred Mele (1995), Benjamin Libet and Stephen Kosslyn
+                                                                    s a
+nc                                                      oft C
+             (2004), John Searle (2007), and most recently,
+             cist and biologist Martin Heisenberg    S(2009).
+                                                               a  u
+                                                                the neurogeneti-
+
+                         a tibilism
+                My own Cogito      two-stage model has been in development
+                                                                                      m
+             In c
+             sinceo m
+                   the p
+                       1970’s, and  will be discussed in the next chapter.rtarianis
+   Broad                                                   Soft L
+                                                                     ibe
+             William James (1884)
+                                           m
+                                     nistwo-stage model of free will is that James ibertaria
+                                  iafirst
+                 The geniustof
+                          e r a r
+                                the
+            e s
+            makest L  ib
+                      indeterminism                                      g   S  o
+                                         the source for what he calls “alternativeft L
+     Mod possibilities” and “ambiguous futures.”               Darin
+                 The chance generation ofo
+                                          C  such o
+                                              gitalternative possibilities for action
+             t i b  is
+            doesilnot   min any way   limit his choice to one of them. For James,
+         p a
+ Incom chance       c e  s) the
+                      is not     direct cause of actions. James makes it clear that
+                                                                              n is     m
+         e qu
+            it  e
+               is n
+                  his  choice that “grants consent” to one of them.
+                                                                      e r m i
+ativ e S
+                                                   d In
+                 As James biographer Robert Richardson puts it,
+                                                 e                det
+                                             i t
+                                      nd Lim
+                 “Accepting the possibility of chance does not mean accepting a
+
+                     s m    a
+                 world that is random. It means realizing that chance is another
+                   i
+      t e r      n
+            mIni1884 James asked some Harvard Divinity School students to
+                 word for freedom.” 1
+  D e
+             consider his choice for walking home after his talk.
+
+             1       James (2010) p. 21.
+         162     Free Will: The Scandal in Philosophy
+
+                     “What is meant by saying that my choice of which way to walk
+                     home after the lecture is ambiguous and matter of chance?...It
+                     means that both Divinity Avenue and Oxford Street are called
+                     but only one, and that one either one, shall be chosen.” 2
+                  With this simple example, James was the first thinker to enun-
+               ciate clearly a two-stage decision process, with chance in a pres-
+               ent time of random alternatives, leading to a choice which grants
+               consent to one possibility and transforms an equivocal ambiguous
+               future into an unalterable and simple past. There is a temporal
+               sequence of undetermined alternative possibilities followed by an
+               adequately determined choice where chance is no longer a factor.
+Chapter 12
+
+                  James also asked the students to imagine his actions repeated
+               in exactly the same circumstances, a condition which is regarded
+               today as one of the great challenges to libertarian free will. In the
+        11
+
+               following passage, James anticipates much of modern philosophi-
+               cal modal reasoning and physical theories of multiple universes.
+                     “Imagine that I first walk through Divinity Avenue, and then
+                     imagine that the powers governing the universe annihilate ten
+                     minutes of time with all that it contained, and set me back at
+                     the door of this hall just as I was before the choice was made.
+                     Imagine then that, everything else being the same, I now make
+                     a different choice and traverse Oxford Street. You, as passive
+                     spectators, look on and see the two alternative universes,--one
+                     of them with me walking through Divinity Avenue in it, the
+                     other with the same me walking through Oxford Street. Now,
+                     if you are determinists you believe one of these universes to
+                     have been from eternity impossible: you believe it to have been
+                     impossible because of the intrinsic irrationality or accidental-
+                     ity somewhere involved in it. But looking outwardly at these
+                     universes, can you say which is the impossible and accidental
+                     one, and which the rational and necessary one? I doubt if the
+                     most ironclad determinist among you could have the slightest
+                     glimmer of light on this point.” 3
+                  James’s two-stage model effectively separates chance (the inde-
+               terministic free element) from choice (an arguably determinate
+               decision that follows causally from one’s character, values, and
+                 2       James (1056) “The Dilemma of Determinism,” p. 149.
+                 3       ibid., p. 155.
+                                   Two-Stage Models of Free Will           163
+
+especially feelings and desires at the moment of decision). In his
+1890 book The Principles of Psychology, James said there were five
+types of decision. In the first, the reasonable type,
+        “arguments for and against a given course seem to settle them-
+      selves in the mind and to end by leaving a clear balance in favor
+      of one alternative…. In this easy transition from doubt to as-
+      surance we seem to ourselves almost passive; the reasons which
+      decide us appearing to flow in from the nature of things, and to
+      owe nothing to our will. We have, however, a perfect sense of
+      being free, in that we are devoid of any feeling of coercion….
+      It may be said in general that a great part of every deliberation
+      consists in the turning over of all the possible modes of con-
+
+                                                                                     11
+                                                                             Chapter 12
+      ceiving the doing or not doing of the act in point. The moment
+      we hit upon a conception which lets us apply some principle of
+      action which is a fixed and stable part of our Ego, our state of
+      doubt is at an end.” 4
+   Where do the alternative possibilities for action come from?
+From past experiences - initially involuntary and later from ob-
+serving the experiences of others, all these the results of chance
+- we build up a stock of possibilities in our memory.
+      “We learn all our possibilities by the way of experience. When
+      a particular movement, having once occurred in a random, re-
+      flex, or involuntary way, has left an image of itself in the mem-
+      ory, then the movement can be desired again, proposed as an
+      end, and deliberately willed.
+      “A supply of ideas of the various movements that are possible left
+      in the memory by experiences of their involuntary performance is
+      thus the first prerequisite of the voluntary life.” 5
+   In the fifth kind of decision, James sees room for creativity that
+allows us to do something beyond what the given reasons would
+logically imply. Note that in a deterministic universe, there are
+no genuinely new creative acts. Determinism is “information-
+preserving.” There is “nothing new under the sun.”
+
+  4       James (2007) p. 531
+  5       James (2007) p. 487-8. The italics are in the original
+         164     Free Will: The Scandal in Philosophy
+
+                         “In the fifth and final type of decision, the feeling that the
+                     evidence is all in, and that reason has balanced the books, may
+                     be either present or absent. But in either case we feel, in decid-
+                     ing, as if we ourselves by our own wilful act inclined the beam;
+                     in the former case by adding our living effort to the weight of
+                     the logical reason which, taken alone, seems powerless to make
+                     the act discharge; in the latter by a kind of creative contribution
+                     of something instead of a reason which does a reason’s work.” 6
+                 James’ “mental evolution” was clearly inspired by Charles Dar-
+               win’s biological evolution.
+                     “A remarkable parallel, which I think has never been noticed,
+Chapter 12
+
+                     obtains between the facts of social evolution on the one hand,
+                     and of zoölogical evolution as expounded by Mr. Darwin on
+                     the other...
+        11
+
+                     [“In mental evolution], if anywhere, it would seem at first sight
+                     as if that school must be right which makes the mind passively
+                     plastic, and the environment actively productive of the form
+                     and order of its conceptions; which, in a word, thinks that all
+                     mental progress must result from a series of adaptive changes,
+                     in the sense already defined of that word...It might, accordingly,
+                     seem as if there were no room for any agency other than this;
+                     as if the distinction we have found so useful between “spon-
+                     taneous variation,” as the producer of changed forms, and the
+                     environment, as their preserver and destroyer, did not hold in
+                     the case of mental progress; as if, in a word, the parallel with
+                     Darwinism might no longer obtain...
+                     “But, in spite of all these facts, I have no hesitation whatever in
+                     holding firm to the Darwinian distinction even here...
+                     “And I can easily show...that as a matter of fact the new con-
+                     ceptions, emotions, and active tendencies which evolve are
+                     originally produced in the shape of random images, fancies,
+                     accidental out-births of spontaneous variation in the functional
+                     activity of the excessively instable human brain.” 7
+
+                 6       James (2007) p. 534.
+                 7       James (1880) p. 441.
+                              Two-Stage Models of Free Will              165
+
+Henri Poincaré (about 1906)
+   Henri Poincaré was called the “last universalist” because he
+was a great contributor to so many fields in mathematics, but his
+work was also broad in physics, philosophy, and psychology. Wil-
+liam James read Poincaré and the great thinker knew James work.
+There is some sign of direct influence.
+   Poincaré speculated on how his mind works when he is solving
+mathematical problems. He had the critical insight that random
+combinations and possibilities are generated, some in an uncon-
+scious way with chance involved, then they are selected among,
+perhaps initially also by an unconscious process, but then by a
+
+                                                                                   11
+                                                                           Chapter 12
+definite conscious process of validation.
+      “It is certain that the combinations which present themselves
+      to the mind in a kind of sudden illumination after a somewhat
+      prolonged period of unconscious work are generally useful and
+      fruitful combinations… all the combinations are formed as a
+      result of the automatic action of the subliminal ego, but those
+      only which are interesting find their way into the field of con-
+      sciousness… A few only are harmonious, and consequently at
+      once useful and beautiful, and they will be capable of affecting
+      the geometrician’s special sensibility I have been speaking of;
+      which, once aroused, will direct our attention upon them, and
+      will thus give them the opportunity of becoming conscious… In
+      the subliminal ego, on the contrary, there reigns what I would
+      call liberty, if one could give this name to the mere absence of
+      discipline and to disorder born of chance.” 8
+  Poincaré was thus the second thinker to propose the two-stage
+process of random alternatives followed by selection of one choice.
+Jacques Hadamard (1945)
+   In his 1945 book Psychology of Invention in the Mathemati-
+cal Field, Hadamard described the Synthèse conference in Paris
+in 1936 organized to study creativity. The conference focused on
+Henri Poincare’s two-stage approach to problem solving, in
+which the unconscious generates random combinations. In his
+book, Hadamard quoted the poet Valéry (as did Dennett later),
+  8       Poincaré (2003)
+         166     Free Will: The Scandal in Philosophy
+
+               summarizing the conference opinion. For Hadamard, it captured
+               Poincaré’s description of how the combination of random ideas is
+               followed by a choice of the best combination. Chance alone is not
+               enough.
+                     “...it is obvious that invention or discovery, be it in mathematics
+                     or anywhere else, takes place by combining ideas.
+                     “However, to find these, it has been necessary to construct the
+                     very numerous possible combinations, among which the useful
+                     ones are to be found.
+                     “It cannot be avoided that this first operation take place, to a
+Chapter 12
+
+                     certain extent, at random, so that the role of chance is hardly
+                     doubtful in this first step of the mental process.
+                     “It is obvious that this first process, this building up of numer-
+        11
+
+                     ous combinations, is only the beginning of creation, even, as we
+                     should say, preliminary to it...Invention is discernment, choice.
+                     “To Invent Is to Choose. This very remarkable conclusion appears
+                     the more striking if we compare it with what Paul Valéry writes
+                     in the Nouvelle Revue Française: “It takes two to invent any-
+                     thing. The one makes up combinations; the other one chooses,
+                     recognizes what he wishes and what is important to him in the
+                     mass of the things which the former has imparted to him.”
+                     “What we call genius is much less the work of the first one than
+                     the readiness of the second one to grasp the value of what has
+                     been laid before him and to choose it.” 9
+                 Although Valéry describes two persons, this is clearly William
+               James’ temporal sequence of random chance (“free”) followed by
+               a determining choice (“will”). For James, chance and choice are
+               part of a single mind.
+               Arthur Holly Compton (1931, 1955)
+                 In 1931, Nobel prize-winning physicist Compton championed
+               the idea of human freedom based on quantum uncertainty and
+               invented the notion of amplification of microscopic quantum
+               events to bring chance into the macroscopic world. In his rather
+                 9       Hadamard (1945) p. 30.
+                               Two-Stage Models of Free Will                167
+
+bizarre mechanism, he imagined sticks of dynamite attached to
+his amplifier, anticipating the Schrödinger’s Cat paradox.
+   Years later, Compton clarified the two-stage nature of his idea
+in an Atlantic Monthly article in 1955.
+      “A set of known physical conditions is not adequate to specify
+    precisely what a forthcoming event will be. These conditions,
+    insofar as they can be known, define instead a range of possible
+    events from among which some particular event will occur.
+    When one exercises freedom, by his act of choice he is himself
+    adding a factor not supplied by the physical conditions and is
+    thus himself determining what will occur. That he does so is
+    known only to the person himself. From the outside one can see
+
+                                                                                      11
+                                                                              Chapter 12
+    in his act only the working of physical law. It is the inner knowl-
+    edge that he is in fact doing what he intends to do that tells the
+    actor himself that he is free.” 10
+
+Mortimer Adler (1961)
+   In the second volume of his massive book The Idea of Freedom,
+Adler revisits the idea of a natural freedom of self-determination,
+which explicitly includes alternative possibilities and the self as
+a cause so our actions are “up to us.” Note that the uncaused self
+decides from prior alternative possibilities.
+   “We have employed the following descriptive formula to sum-
+marize the understanding of self-determination.” It is “only when
+at least two of the three following points are affirmed:
+       “(i) that the decision is intrinsically unpredictable, i.e., given
+perfect knowledge of all relevant causes, the decision cannot be
+foreseen or predicted with certitude;
+        “(ii) that the decision is not necessitated, i.e., the decision
+is always one of a number of alternative possible decisions any
+one of which it was simultaneously within the power of the self
+to cause, no matter what other antecedent or concurrent factors
+exercise a causal influence on the making of the decision;
+        “(iii) that the decision flows from the causal initiative of the
+self, i.e., on the plane of natural or finite causes, the self is the un-
+caused cause of the decision it makes.” 11
+  10    Compton (1967)
+  11    Adler (1961) p. 225.
+         168     Free Will: The Scandal in Philosophy
+
+               Karl Popper (1965, 1977)
+                  Compton’s work was no doubt closely read by philosopher
+               Karl Popper, especially when Popper was selected to give the
+               first Arthur Holly Compton Memorial Lecture in 1965.
+                  At first Popper dismissed quantum mechanics as being no help
+               with free will, but later he describes a two-stage model that par-
+               allels Darwinian evolution, with genetic mutations being proba-
+               bilistic and involving quantum uncertainty. In his Compton lec-
+               tures, he criticizes Compton’s amplifier idea
+                  “The idea that the only alternative to determinism is just sheer
+Chapter 12
+
+                  chance was taken over by Schlick, together with many of his
+                  views on the subject, from Hume, who asserted that
+                         ‘the removal’ of what he called ‘physical necessity’ must
+        11
+
+                     always result in ‘the same thing with chance. As objects must
+                     either be conjoin’d or not, . . . ‘tis impossible to admit of any
+                     medium betwixt chance and an absolute necessity’.
+                  “I shall later argue against this important doctrine according to
+                  which the alternative to determinism is sheer chance. Yet I must
+                  admit that the doctrine seems to hold good for the quantum-
+                  theoretical models which have been designed to explain, or at
+                  least to illustrate, the possibility of human freedom. This seems
+                  to be the reason why these models are so very unsatisfactory.
+                  “Compton himself designed such a model, though he did not
+                  particularly like it. It uses quantum indeterminacy, and the
+                  unpredictability of a quantum jump, as a model of a human
+                  decision of great moment. It consists of an amplifier which
+                  amplifies the effect of a single quantum jump in such a way that
+                  it may either cause an explosion or destroy the relay necessary
+                  for bringing the explosion about. In this way one single quan-
+                  tum jump may be equivalent to a major decision. But in my
+                  opinion the model has no similarity to any rational decision,
+                  being probabilistic and involving quantum uncertainty.
+                  “Hume’s and Schlick’s ontological thesis that there cannot exist
+                  anything intermediate between chance and determinism seems
+                  to me not only highly dogmatic (not to say doctrinaire) but
+                  clearly absurd; and it is understandable only on the assumption
+                                  Two-Stage Models of Free Will         169
+
+   that they believed in a complete determinism in which chance
+   has no status except as a symptom of our ignorance.” 12
+  Popper called for a combination of randomness and control to
+explain freedom, though not yet explicitly in two stages with ran-
+dom chance before the controlled decision.
+   “freedom is not just chance but, rather, the result of a subtle
+   interplay between something almost random or haphazard, and
+   something like a restrictive or selective control.” 13
+  In his 1977 book with John Eccles, The Self and its Brain, Pop-
+per finally formulates the two-stage model in a temporal sequence,
+and makes the comparison with evolution and natural selection,
+
+                                                                                  11
+                                                                          Chapter 12
+   “New ideas have a striking similarity to genetic mutations. Now,
+   let us look for a moment at genetic mutations. Mutations are,
+   it seems, brought about by quantum theoretical indeterminacy
+   (including radiation effects). Accordingly, they are also probabi-
+   listic and not in themselves originally selected or adequate, but
+   on them there subsequently operates natural selection which
+   eliminates inappropriate mutations. Now we could conceive of
+   a similar process with respect to new ideas and to free-will deci-
+   sions, and similar things.
+   “That is to say, a range of possibilities is brought about by a
+   probabilistic and quantum mechanically characterized set of
+   proposals, as it were - of possibilities brought forward by the
+   brain. On these there then operates a kind of selective proce-
+   dure which eliminates those proposals and those possibilities
+   which are not acceptable to the mind.”
+   In 1977 Popper gave the first Darwin Lecture, at Darwin Col-
+lege, Cambridge. He called it Natural Selection and the Emergence
+of Mind. In it he said he had changed his mind (a rare admission
+by a philosopher) about two things. First he now thought that nat-
+ural selection was not a “tautology” that made it an unfalsifiable
+theory. Second, he had come to accept the random variation and
+selection of ideas as a model of free will.
+   “The selection of a kind of behavior out of a randomly offered
+   repertoire may be an act of choice, even an act of free will. I am
+  12   Popper (1972) p. 227ff..
+  13   ibid.
+         170     Free Will: The Scandal in Philosophy
+
+                  an indeterminist; and in discussing indeterminism I have often
+                  regretfully pointed out that quantum indeterminacy does not
+                  seem to help us;1 for the amplification of something like, say,
+                  radioactive disintegration processes would not lead to human
+                  action or even animal action, but only to random movements.
+                  “I have changed my mind on this issue.2 A choice process may
+                  be a selection process, and the selection may be from some
+                  repertoire of random events, without being random in its turn.
+                  This seems to me to offer a promising solution to one of our
+                  most vexing problems, and one by downward causation.”
+                      1. Cf. my Objective Knowledge, chapter 6, pp. 226-29.
+Chapter 12
+
+                      2. See p. 540 of J. C. Eccles and K. R. Popper, The Self and Its Brain.
+
+               Henry Margenau (1968, 1982)
+                  In 1968, physicist Margenau was invited to give the Wimmer
+        11
+
+               Lecture at St. Vincent College in Pennsylvania. His topic was Sci-
+               entific Indeterminism and Human Freedom. Margenau embraced
+               indeterminism as the first step toward a solution of the problem
+               of human freedom.
+                  Then in 1982, with co-author Lawrence LeShan, Margenau
+               called his model of free will a “solution” to what had heretofore
+               had been seen as mere “paradox and illusion.” He very neatly sep-
+               arates “free” and “will” in a temporal sequence, as William James
+               had done, naming them simply “chance” followed by “choice.”
+                  “Our thesis is that quantum mechanics leaves our body, our
+                  brain, at any moment in a state with numerous (because of its
+                  complexity we might say innumerable) possible futures, each
+                  with a predetermined probability. Freedom involves two com-
+                  ponents: chance (existence of a genuine set of alternatives) and
+                  choice. Quantum mechanics provides the chance, and we shall
+                  argue that only the mind can make the choice by selecting (not
+                  energetically enforcing) among the possible future courses.” 14
+
+               Daniel Dennett (1978)
+                  While he is a confirmed compatibilist, in “On Giving Liber-
+               tarians What They Say They Want,” chapter 15 of his 1978 book
+                 14   Margenau and Leshan (1982) p. 240.
+                               Two-Stage Models of Free Will             171
+
+Brainstorms, Tufts philosopher Daniel Dennett articulated the
+case for a two-stage model of free will better than any libertarian.
+  Dennett named his model of decision-making “Valerian” after
+the poet Paul Valéry, who took part in a 1936 conference in Paris
+with Jacques Hadamard. He quotes Valéry,
+      “It takes two to invent anything. The one makes up combina-
+   tions; the other one chooses.” 15
+   Dennett makes his version of a two-stage model very clear. And
+he defends it with six excellent reasons. His arguments are more
+persuasive than any other philosopher or scientist, including Wil-
+liam James himself. Ironically, Dennett remains a firm believer in
+
+                                                                                   11
+                                                                           Chapter 12
+determinism and calls himself a compatibilist.
+      “The model of decision making I am proposing has the fol-
+   lowing feature: when we are faced with an important decision,
+   a consideration-generator whose output is to some degree
+   undetermined produces a series of considerations, some of
+   which may of course be immediately rejected as irrelevant by
+   the agent (consciously or unconsciously). Those considerations
+   that are selected by the agent as having a more than negligi-
+   ble bearing on the decision then figure in a reasoning process,
+   and if the agent is in the main reasonable, those considerations
+   ultimately serve as predictors and explicators of the agent’s final
+   decision.”16
+  Dennett gives strong reasons why this is the kind of free will
+that libertarians say they want.
+       1. “First...The intelligent selection, rejection, and weighing
+   of the considerations that do occur to the subject is a matter of
+   intelligence making the difference.”
+     2. “Second, I think it installs indeterminism in the right place
+   for the libertarian, if there is a right place at all.”
+      3. “Third...from the point of view of biological engineering, it
+   is just more efficient and in the end more rational that decision
+   making should occur in this way.”
+  15   Dennett (1978) p. 293
+  16   Dennett (1978) p. 295
+         172     Free Will: The Scandal in Philosophy
+
+                     4. “A fourth observation in favor of the model is that it per-
+                  mits moral education to make a difference, without making all
+                  of the difference.”
+                    5. “Fifth - and I think this is perhaps the most important thing
+                  to be said in favor of this model - it provides some account of
+                  our important intuition that we are the authors of our moral
+                  decisions.”
+                     6. “Finally, the model I propose points to the multiplicity of
+                  decisions that encircle our moral decisions and suggests that in
+                  many cases our ultimate decision as to which way to act is less
+                  important phenomenologically as a contributor to our sense of
+Chapter 12
+
+                  free will than the prior decisions affecting our deliberation pro-
+                  cess itself: the decision, for instance, not to consider any further,
+                  to terminate deliberation; or the decision to ignore certain lines
+                  of inquiry.
+        11
+
+                     “These prior and subsidiary decisions contribute, I think, to
+                  our sense of ourselves as responsible free agents, roughly in the
+                  following way: I am faced with an important decision to make,
+                  and after a certain amount of deliberation, I say to myself:
+                  “That’s enough. I’ve considered this matter enough and now I’m
+                  going to act,” in the full knowledge that I could have considered
+                  further, in the full knowledge that the eventualities may prove
+                  that I decided in error, but with the acceptance of responsibility
+                  in any case.” 17
+
+               Robert Kane (1985)
+                  In his 1985 book Free Will and Values Kane carefully consid-
+               ered the work of Compton, Popper, Eccles, and Dennett. He says
+               he developed his own two-stage model before Dennett, but in the
+               end he did not publish it or endorse Dennett because the two-
+               stage model “did not go far enough.”
+                  Kane was actually quite bleak about the possibilities for a
+               satisfactory libertarian model. He felt,
+                  “that any construction which escaped confusion and emptiness
+                  was likely to fall short of some libertarian aspirations - aspira-
+                  tions that I believe cannot ultimately be fulfilled.” 18
+                 17   Dennett (1978) p. 295-7.
+                 18   Kane (1985) p. 165.
+                             Two-Stage Models of Free Will                173
+
+  His first model was a choice between “relativistic alternatives.”
+The choice was in part rational and in part indeterministic. It
+could be explained by the agent giving his reasons. Even if the
+choice is by chance,
+    “the agent has agreed beforehand to accept the chance selected
+    outcome and to endorse reasons for it in a special way. That
+    is, the selection is going to be ‘willed to be so’ on a provisional
+    basis by the agent, whichever way it goes.” 19
+   Kane hoped to combine some rationality with some freedom in
+this model, so both determinists and libertarians would be happy.
+Unfortunately, neither was happy.
+
+                                                                                    11
+                                                                            Chapter 12
+   Although the two-stage model of earlier thinkers is an “essen-
+tial and important part” of any adequate libertarian conception
+of free will, it does not go far enough for Kane because it does
+not fully capture the notion of ultimate responsibility (UR) during
+“self-forming actions” (SFAs) which depend on the agent’s efforts.
+He has said that the two-stage model was merely a “significant
+piece in the overall puzzle of a libertarian freedom.” 20
+    “The reason is that the chance (“free”) part is not in the con-
+    trol of the agent and the “will” part is fully determined by a
+    combination of the chance part and other determining fac-
+    tors, so the final choice is determined by factors, none of which
+    the agent has control over at the time of choice. If all of our
+    choices are determined at the time of choice that would not
+    be libertarian freedom even if some chance events in the past
+    were responsible for forming some of the determining factors
+    that now determine our choice because however the determin-
+    ing factors were formed in the past, all of our choices would be
+    determined when they are made.” 21
+   Kane agrees that these choices would not have been pre-
+determined from before the chance events in the past (the gen-
+eration of possibilities in the first stage), so are libertarian free.
+   Kane had previously accepted that the two-stage model could
+provide enough freedom for everyday practical decisions (vanilla
+or chocolate), but did not play a role in moral or prudential “torn”
+  19    Kane (1985) p. 96.
+  20    Kane (1985) p. 104.
+  21    Personal communication.
+         174     Free Will: The Scandal in Philosophy
+
+               decisions between what the agent believes ought to be done and
+               what the agent wants or desires to do.
+                  Today Kane sees that two-stage models may generate the
+               alternatives of his SFAs, based on character and motives. So they
+               may explain the agent’s conflicting motives in moral and pruden-
+               tial choices. and they even explain the (reasons for the) agent’s
+               efforts. Kane now agrees that the agent has libertarian freedom
+               even when the two-stage model produces just one option and the
+               agent can be described as “self-determined.”
+                  But when the two-stage model does not narrow down the alter-
+               natives to a single act of self-determination, and when the choice
+Chapter 12
+
+               is moral or prudential, Kane says that his introduction of indeter-
+               minism into the decision itself provides “something more” than
+               the two-stage model, and I now agree with him.
+        11
+
+                  “Now I believe these undetermined self-forming actions or
+                  SFAs occur at those difficult times of life when we are torn
+                  between competing visions of what we should do or become.
+                  Perhaps we are torn between doing the moral thing or acting
+                  from ambition, or between powerful present desires and long-
+                  term goals, or we are faced with difficult tasks for which we have
+                  aversions.” 22
+                  “In all such cases, we are faced with competing motivations and
+                  have to make an effort to overcome temptation to do something
+                  else we also strongly want. There is tension and uncertainty
+                  in our minds about what to do at such times, I suggest, that
+                  is reflected in appropriate regions of our brains by movement
+                  away from thermodynamic equilibrium — in short, a kind of
+                  “stirring up of chaos” in the brain that makes it sensitive to
+                  micro-indeterminacies at the neuronal level. The uncertainty
+                  and inner tension we feel at such soul-searching moments of
+                  self-formation is thus reflected in the indeterminacy of our
+                  neural processes themselves. What we experience internally
+                  as uncertainty about what to do on such occasions would then
+                  correspond physically to the opening of a window of oppor-
+                  tunity that temporarily screens off complete determination by
+                  influences of the past. 23
+                 22   “Libertarianism,” in Fischer (2007) p. 26.
+                 23   ibid. p. 26.
+                               Two-Stage Models of Free Will             175
+
+  Kane agrees that the ever-present noise in the brain is enough
+to provide the indeterminism. But he emphasizes that the
+agent’s efforts are more the cause of the final decision than the
+indeterminism involved.
+   “If indeterminism is involved in a process so that its outcome
+   is undetermined, one might argue that the outcome must
+   merely happen and therefore cannot be somebody’s choice. But
+   there is no reason to assume such a claim is true. A choice is
+   the formation of an intention or purpose to do something. It
+   resolves uncertainty and indecision in the mind about what
+   to do. Nothing in such a description implies that there could
+   not be some indeterminism in the deliberation and neural
+
+                                                                                   11
+                                                                           Chapter 12
+   processes of an agent preceding choice corresponding to the
+   agent’s prior uncertainty about what to do. Recall from the pre-
+   ceding arguments that the presence of indeterminism does not
+   mean the outcome happened merely by chance and not by the
+   agent’s effort. Self-forming choices are undetermined, but not
+   uncaused. They are caused by the agent’s efforts. 24
+   To Kane’s critics, the SFA’s indeterminism raises the objection
+of loss of control, but Kane says the agent can decide to assume
+responsibility whichever way she chooses.
+     “Suppose we were to say to such persons: ‘But look, you didn’t
+   have sufficient or conclusive prior reasons for choosing as you
+   did since you also had viable reasons for choosing the other
+   way.’ They might reply. ‘True enough. But I did have good rea-
+   sons for choosing as I did, which I’m willing to stand by and
+   take responsibility for. If these reasons were not sufficient or
+   conclusive reasons, that’s because, like the heroine of the novel,
+   I was not a fully formed person before I chose (and still am not,
+   for that matter). Like the author of the novel, I am in the process
+   of writing an unfinished story and forming an unfinished char-
+   acter who, in my case, is myself.’” 25
+
+Anthony Long and David Sedley (1987)
+  Anthony Long and David Sedley speculated in their master-
+work The Hellenistic Philosophers that Epicurus’ swerve of the
+  24   “Libertarianism,” in Fischer (2007) p. 33
+  25   ibid, pp. 41-2.
+         176     Free Will: The Scandal in Philosophy
+
+               atoms might be limited to providing undetermined alternative
+               possibilities for action, from which the mind’s power of volition
+               could choose in a way that reflects character and values, desires
+               and feelings.
+                  “Here at last a significant role for the swerve leaps to the eye.
+                  For it is to answer just this question, according to Cicero, that
+                  the swerve was introduced. The evident power of the self and
+                  its volitions to intervene in the physical processes of soul and
+                  body would be inexplicable if physical laws alone were suffi-
+                  cient to determine the precise trajectory of every atom. There-
+                  fore physical laws are not sufficient to determine the precise
+                  trajectory of every atom. There is a minimal degree of physical
+Chapter 12
+
+                  indeterminism — the swerve. An unimpeded atom may at any
+                  given moment continue its present trajectory, but equally may
+                  `swerve’ into one of the adjacent parallel trajectories. 26
+        11
+
+                  Long and Sedley assume a non-physical (metaphysical) ability
+               of the volition to affect the atoms, which is implausible. But the
+               idea that a physical volition chooses - (consistent with and ad-
+               equately determined by its character and values and its desires and
+               feelings) from among alternative possibilities provided randomly
+               by the atoms - is quite plausible.
+                  “It does so, we may speculate, not by overriding the laws of
+                  physics, but by choosing between the alternative possibilities
+                  which the laws of physics leave open. In this way a large group of
+                  soul atoms might simultaneously be diverted into a new pattern
+                  of motion, and thus radically redirect the motion of the body.
+                  Such an event, requiring as it does the coincidence of numer-
+                  ous swerves, would be statistically most improbable according
+                  to the laws of physics alone. But it is still, on the swerve theory,
+                  an intrinsically possible one, which volition might therefore
+                  be held to bring about..(It may be objected that swerves are
+                  meant to be entirely uncaused; but...that was only an inference
+                  by Epicurus’ critics, made plausible by concentrating on the
+                  swerve’s cosmogonic function...for there it must indeed occur
+                  at random and without the intervention of volition.)” 27
+
+                 26   Long and Sedley (1987) p. 110.
+                 27   Long and Sedley (1987) p. 110.
+                                 Two-Stage Models of Free Will              177
+
+Roger Penrose (1989)
+   In his 1989 book The Emperor’s New Mind, Penrose suggests
+a two-stage process but is skeptical of the value of randomness in
+the first step. His thinking follows that of Jacques Hadamard
+and Henri Poincaré, who he has discussed in the previous pages.
+    “In relation to this, the question of what constitutes genuine
+    originality should be raised. It seems to me that there are two
+    factors involved, namely a ‘putting-up’ and a ‘shooting-down’
+    process. I imagine that the putting-up could be largely uncon-
+    scious and the shooting-down largely conscious. Without an
+    effective putting-up process, one would have no new ideas at
+
+                                                                                      11
+                                                                              Chapter 12
+    all. But, just by itself, this procedure would have little value. One
+    needs an effective procedure for forming judgements, so that
+    only those ideas with a reasonable chance of success will sur-
+    vive. In dreams, for example, unusual ideas may easily come to
+    mind, but only very rarely do they survive the critical judge-
+    ments of the wakeful consciousness. In my opinion, it is the
+    conscious shooting-down (judgement) process that is central to
+    the issue of originality, rather than the unconscious putting-up
+    process; but I am aware that many others might hold to a con-
+    trary view.” 28
+
+Julia Annas (1992)
+   In her 1992 book, The Hellenistic Philosophy of Mind, Annas
+finds it hard to see how random swerves can help to explain free
+action. But she sees clearly that randomness can provide alterna-
+tive possibilities for the will to choose from. She says, “there would
+be no point in having free will if there were no genuinely open
+possibilities between which to select,” anticipating the two-stage
+model of free will.
+   Perhaps influenced by her classicist colleagues Sedley and Long,
+or maybe just coming to the same conclusions from reading the
+ancients, especially Epicurus and his swerve, Annas says.
+    “...since swerves are random, it is hard to see how they help to
+    explain free action. We can scarcely expect there to be a random
+    swerve before every free action...random swerves would seem
+
+  28    Penrose (1989) p. 422.
+         178     Free Will: The Scandal in Philosophy
+
+                  to produce, if anything, random actions; we still lack any clue as
+                  to how they could produce actions which are free.
+                  “An influential modern line of thought avoids these problems
+                  by arguing that our evidence does not demand that there be a
+                  swerve for each free action [Furley]. Rather, swerves explain the
+                  fact that people have characters capable of change and reaction
+                  that goes beyond mechanical response to stimuli. We act freely
+                  because we have characters that are flexible and spontaneous,
+                  and this is because we are composed of atoms which swerve
+                  occasionally. On this account, swerves do not have to be fre-
+                  quent, since they are not part of any mechanism of action; one
+                  swerve in your soul is enough for the kind of character flex-
+Chapter 12
+
+                  ibility that is required. Such an account avoids the problems
+                  attaching to any account that brings swerves into free action,
+                  but at the cost of not answering very closely to the evidence; the
+        11
+
+                  Lucretius passage certainly suggests that swerves are in some
+                  way relevant at the point of action.
+                  “Another kind of suggestion is that swerves are not the causes of
+                  free actions at all. Rather, they come into the process whereby
+                  free actions are brought about. Swerves are supposed to explain
+                  something about the nature of free agency and how it works,
+                  but they do not cause free actions (by cutting across causal
+                  chains, for example). This suggestion can be developed in sev-
+                  eral ways...
+                  “The role of swerves is to provide alternative possibilities for
+                  volitions to choose between, for there would be no point in hav-
+                  ing free will if there were no genuinely open possibilities be-
+                  tween which to select.” 29
+
+               Albert Mele (1995)
+                  In 1995 Alfred Mele, clearly influenced by Daniel Dennett and
+               Robert Kane, proposed his “Modest Libertarianism,” a two-stage
+               process that combines an incompatibilist early phase followed by
+               a compatibilist control phase.
+                  “it might be worth exploring the possibility of combining a
+                  compatibilist conception of the later parts of a process issuing
+                  in full blown, deliberative, intentional action with an incom-
+                 29   The Hellenistic Philosophy of Mind, pp. 184-88
+                             Two-Stage Models of Free Will              179
+
+   patibilist conception of the earlier parts. For example, it might
+   be possible to gain “ultimate control” while preserving a consid-
+   erable measure of nonultimate agential control by treating the
+   process from proximal decisive better judgment through overt
+   action in a compatibilist way and finding a theoretically useful
+   place for indeterminacy in processes leading to proximal deci-
+   sive better judgments.” 30
+  Mele sees that chance need not be the direct cause of action.
+   “That a consideration is indeterministically caused to come to
+   mind does not entail that the agent has no control over how he
+   responds to it.” 31
+
+                                                                                  11
+                                                                          Chapter 12
+   Mele is very concerned about the location of any indetermin-
+ism, the problem of where and when indeterminism could occur
+in a way that helps and does not harm agent control.
+The Problem of Luck
+   Mele has written extensively about the question whether chance
+events in our causal history mean that many of our actions are a
+matter of luck. Since chance is very real, many things are the result
+of good or bad luck. This is a not a problem for free will, but it is
+one for moral responsibility.
+John Martin Fischer (1995)
+   Also in 1995, John Martin Fischer argued for a model based
+on Daniel Dennett’s 1978 work. Fischer is best known for the
+idea of semicompatibilism, the idea that moral responsibility is
+compatible with determinism. Fischer is agnostic on whether free
+will itself is compatible or incompatible with determinism.
+   Fischer is most concerned to establish the control needed for
+responsibility, especially given Frankfurt-style examples challeng-
+ing control. In any case, Fischer uses the Dennett idea - that the
+indeterminism comes at an early stage of the overall deliberation-
+decision process - to locate a Frankfurt-style “prior sign” needed
+by the hypothetical intervener at a place deterministically linked
+to the decision and subsequent action.
+
+  30   Mele (1995) p. 212.
+  31   Mele (2006) p. 10..
+         180     Free Will: The Scandal in Philosophy
+
+                  Fischer’s main criticism of alternative possibilities for action is
+               that it is implausible to suppose that one’s moral responsibility is
+               grounded on the possibility of forming a certain sort of judgment
+               about what is best: a judgment on behalf of doing something there
+               are no good reasons to do. The responsibility for doing good is
+               not grounded in the possibility of doing bad. Note that free will
+               is completely independent of, and merely a prerequisite to, moral
+               responsibility. Otherwise it would be an ethical fallacy.
+                  Fischer hopes to develop “another sort of libertarianism.” He
+               says he does not have the space to lay out his “second family of
+               libertarian accounts,” and gives us very little on how it differs from
+Chapter 12
+
+               Dennett. He says “Dennett argues that it is the only sort of lib-
+               ertarianism that is plausible, and I believe that it is at least min-
+               imally plausible. I also believe that it is libertarianism.” Fischer
+        11
+
+               may be simply constructing a libertarianism with a built-in place
+               for the Frankfurt intervener, in order to support the absence of
+               alternative possibilities and his own semicompatibilism. Here is
+               Fischer’s sketch of his main idea.
+                   “I wish to develop (in an extremely sketchy way) another sort
+                   of libertarianism; on this kind of approach, the relationship
+                   between the relevant “sign” or “signal” and the subsequent
+                   choice is causally deterministic, but there is nevertheless a lack
+                   of causal determination along the sequence that issues in the
+                   decision (and action). And I shall point out that this approach
+                   also seems to lead to the view that an agent can be morally
+                   responsible for making a choice even though he could not have
+                   (at any relevant time) made a different choice.
+                   “I do not have the space here to lay out this second family of
+                   libertarian accounts fully or carefully. But I shall simply sketch
+                   the main ideas and hope that enough of the content of the
+                   approach will emerge to convince the reader that this family
+                   of views constitutes a minimally plausible, serious libertarian
+                   approach - worth further elaboration and evaluation in the
+                   context of the issues under discussion here. In his article, “On
+                   Giving Libertarians What They Say They Want,” Daniel Dennett
+                   has presented this family of approaches; he does not necessarily
+                               Two-Stage Models of Free Will             181
+
+   endorse the view, but presents it as the most plausible and ap-
+   pealing version of libertarianism.
+   “What is crucial to Dennett’s view is that indeterminacy be
+   installed at the appropriate place, and Dennett argues that this
+   is not between the judgment that a particular act is the best
+   among one’s alternatives and the subsequent choice. He says,
+   “Clearly, what the libertarian has in mind is indeterminism at
+   some earlier point, prior to the ultimate decision or formation
+   of intention....” Rather, Dennett argues that there can be lack
+   of causal determinism (of a certain sort) within the process of
+   deliberation that leads to the agent’s judgment as to what is the
+   best option (under the circumstances).
+
+                                                                                   11
+                                                                           Chapter 12
+   “So Dennett’s picture suggested on behalf of the libertarian
+   involves some lack of causal determination in the process of
+   deliberation, but no such lack in the link between the judgment
+   as to what is best and the formation of an intention (or the mak-
+   ing of a decision). Let me emphasize that I am not in a position
+   here fully to lay out this view (or set of views) or to defend it.
+   Dennett argues that it is the only sort of libertarianism that is
+   plausible, and I believe that it is at least minimally plausible. I
+   also believe that it is libertarianism.” 32
+
+Benjamin Libet and Stephen Kosslyn (2004)
+   In 2004, Stephen Kosslyn wrote a foreword to Benjamin
+Libet’s book Mind Time. The book summarized Libet’s famous
+experiments, in which he claimed a Readiness Potential (RP)
+initiates an action well before the conscious will is aware of the
+decision to act. See Chapter 17 for the details. At one point in
+the book, Libet suggests the RP might include multiple initiatives,
+implying multiple possible alternative actions. 33
+   In a few brief paragraphs of the foreword, Kosslyn proposed a
+two-stage model of alternative choices that are constructed in part
+chaotically by nondeterministic processes, followed by decisions
+that are based on our character and values - “what one is.” He sees
+a role for a causa sui.
+  32   Fischer (1995) p. 125
+  33   Libet (2004), p. 148.
+         182     Free Will: The Scandal in Philosophy
+
+                  “The rationales and anticipated consequences — and even,
+                  depending on the situation, the alternative courses of action
+                  — are not simply “looked up” in memory, having been stashed
+                  away like notes in a file after previous encounters.
+                  Here Kosslyn considers a first stage of free creation of alterna-
+               tive courses of action,
+                  “Rather, one constructs rationales and anticipated consequenc-
+                  es, as appropriate for the specific situation at hand. This con-
+                  struction process may rely in part on chaotic processes. Such
+                  processes are not entirely determined by one’s learning history
+                  (even as filtered by one’s genes)... Depending on what one was
+Chapter 12
+
+                  just thinking about, the brain is in a different “start state” (i.e.,
+                  different information is partially activated, different associa-
+                  tions are primed) when one constructs rationales and anticipat-
+                  ed consequences — which will affect how one decides. (Note
+        11
+
+                  that this idea does not simply move the problem back a step:
+                  What one was just thinking itself was in part a result of nonde-
+                  terministic processes.) Our thoughts, feelings and behavior are
+                  not determined; we can have novel insights as well as “second
+                  thoughts.”
+                  “Given the choices, rationales, and anticipated consequences,
+                  one decides what do on the basis of “what one is” (mentally
+                  speaking, to use [Galen] Strawson’s term, which includes one’s
+                  knowledge, goals, values, and beliefs).” 34
+                 Here Kosslyn considers a second stage of willed decisions that
+               are determined by our goals, values, and beliefs -
+                  “What one is” consists in part of information in memory, which
+                  plays a key role in the processes that construct the alternatives,
+                  rationales, and anticipated consequences. In addition, “what
+                  one is” governs how one actually makes the decisions. And
+                  making that decision and experiencing the actual consequences
+                  in turn modifies “what one is,” which then affects both how one
+                  constructs alternatives, rationales and anticipated consequenc-
+                  es and how one makes decisions in the future. Thus, with time
+                  one’s decisions construct what one is.
+
+                 34   Kosslyn, in Libet (2005) p. xii-xii.
+                                Two-Stage Models of Free Will          183
+
+   “We are not simply accumulators of environmental events, fil-
+   tered by our genetic make-ups. We bring something novel and
+   unique to each situation — ourselves. Nietzsche (1886, as quot-
+   ed in Strawson, 1994, p. 15) commented, “The causa sui is the
+   best self-contradiction that has been conceived so far.” Maybe
+   not.” 35
+
+John Searle (2007)
+   John Searle has written extensively on the problem of con-
+sciousness and almost always reflects on the problem of free will.
+His position rarely changed over the decades, but in his recent
+short book Freedom and Neurobiology he has tackled the problem
+
+                                                                                 11
+                                                                         Chapter 12
+more directly and for the first time embraced indeterminism as a
+positive factor. Indeed, he goes as far as to say that quantum inde-
+terminism is a requirement for consciousness.
+   In a breakthrough of sorts, Searle admits that he could never
+see, until now, the point of introducing quantum mechanics into
+discussions of consciousness and free will. Now he says we know
+two things, which correspond to the two requirements for free
+will:
+     First we know that our experiences of free action contain both
+   indeterminism and rationality...Second we know that quantum
+   indeterminacy is the only form of indeterminism that is indis-
+   putably established as a fact of nature...it follows that quantum
+   mechanics must enter into the explanation of consciousness.” 36
+  Searle describes “open” alternative courses of action. It is very
+important to place the “gap” or causa sui before or during the
+generation of these alternative possibilities for deliberation to
+be followed by willed action. The result is a two-stage, temporal-
+sequence model.
+  Then in a 2007 lecture at Google (available on YouTube), Searle
+describes his “Hypothesis 2” for free will.
+  He says three things are necessary:
+  35   ibid., p. xiii-xiv.
+  36   Searle (2007) p. 74-75
+         184     Free Will: The Scandal in Philosophy
+
+                    1. some quantum indeterminism must be involved, but at “a
+                  lower level,”
+                      2. a quantum explanation of consciousness is needed,
+                   3. the higher-level of consciousness must inherit the indeter-
+                  minism, but without inheriting the randomness.
+                 Compare Karl Popper above,
+                  “A choice process may be a selection process, and the selection
+                  may be from some repertoire of random events, without being
+                  random in its turn.” [Popper’s italics]
+Chapter 12
+
+               Martin Heisenberg (2009)
+                  The most recent thinker to describe a two-stage model is
+               Martin Heisenberg (son of physicist Werner), chair of the
+        11
+
+               University of Würzburg’s BioZentrum genetics and neurobiology
+               section.
+                  Since the indeterminacy principle was his father’s work,
+               Heisenberg’s position that the physical universe is no longer de-
+               termined and that nature is inherently unpredictable comes as
+               no surprise. What is unusual is that Heisenberg finds evidence of
+               free behavior in animals, including some very simple ones such as
+               Drosophila, on which he is a world expert. Heisenberg argues for
+               some randomness even in unicellular bacteria, followed by more
+               lawful behaviors such as moving toward food.
+                  “Evidence of randomly generated action — action that is dis-
+                  tinct from reaction because it does not depend upon external
+                  stimuli — can be found in unicellular organisms. Take the way
+                  the bacterium Escherichia coli moves. It has a flagellum that
+                  can rotate around its longitudinal axis in either direction: one
+                  way drives the bacterium forward, the other causes it to tumble
+                  at random so that it ends up facing in a new direction ready for
+                  the next phase of forward motion. This ‘random walk’ can be
+                  modulated by sensory receptors, enabling the bacterium to find
+                  food and the right temperature.” 37
+                 37     Heisenberg (2009) p. 164
+                              Two-Stage Models of Free Will            185
+
+   In higher organisms, the brain still may include elements that
+do a random walk creating options for action. The capability to
+generate new and unpredictable behaviors would have great sur-
+vival value, and would likely be incorporated in higher organisms.
+   “the activation of behavioural modules is based on the inter-
+   play between chance and lawfulness in the brain. Insufficiently
+   equipped, insufficiently informed and short of time, animals
+   have to find a module that is adaptive. Their brains, in a kind
+   of random walk, continuously preactivate, discard and recon-
+   figure their options, and evaluate their possible short-term and
+   long-term consequences.
+
+                                                                                 11
+                                                                         Chapter 12
+      “The physiology of how this happens has been little investi-
+   gated. But there is plenty of evidence that an animal’s behaviour
+   cannot be reduced to responses. For example, my lab has dem-
+   onstrated that fruit flies, in situations they have never encoun-
+   tered, can modify their expectations about the consequences of
+   their actions. They can solve problems that no individual fly in
+   the evolutionary history of the species has solved before. Our
+   experiments show that they actively initiate behaviour.” 38
+  Heisenberg’s combination of some randomness followed by
+some “lawful” behavior looks very much like William James’
+two-stage model, but now we have evidence for it in many animals.
+James would have been pleased.
+
+   In the next chapter, I will explain how my Cogito two-stage
+model solves some of the problems that have been raised about
+earlier two-stage models of free will.
+   I also show how the model can be extended to include
+undetermined liberties and the Self-Forming Actions of the
+libertarian Robert Kane.
+
+  38   Heisenberg (2009) p. 165.
+

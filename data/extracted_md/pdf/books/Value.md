@@ -1,0 +1,444 @@
+# 78   Great Problems in Philosophy and Physics - Solved?
+
+**source:** pdf · **section:** books
+**file:** Value
+---
+
+Chapter 5
+
+                             Value
+
+                                                         This chapter on the web
+                                               informationphilosopher.com/value
+                                                              Value        79
+
+Value
+   Is the Good something that exists in the world? Existentialists
+thought not. They thought we have freedom, but saw freedom
+as absurd, because there are no values to help choose. Without
+values, no evaluations. Most religions place the origin of good in
+
+                                                                            Chapter 5
+a supernatural Being. Existentialists denied that Being. “God is
+dead,” they said, and thus denied any essential objective Good.
+   The traditional source of normative values, of morality, of ethics,
+of what one “ought to do,” has been religion. It is often said that
+science, the empirical study of the natural world, cannot possibly
+help us to define the good. David Hume is often cited as saying
+we cannot derive “Ought” from “Is.” This is sometimes called the
+“fact/value” dichotomy. Science, it is said, can help us to do what
+we decide to do. It can help with prudential or instrumental deci-
+sions about “means,” but not with moral decisions that depend on
+the intrinsic value of “ends.”
+  It is difficult to generalize about the thousands of religions
+invented over the ages by their prophets and founders, but most
+include a code of moral behavior. Some founders told their fol-
+lowers that they had simply discovered the correct moral codes.
+Some prophets claim to have been explicitly told the “truth” about
+good and evil in a conversation with God, or by a mystical vision.
+With founders and prophets mostly long gone today, moral codes
+are typically handed down by various traditions.
+   The power of the institutions that has grown up around world
+religions lies entirely in their ability to limit the knowledge of their
+members to their beliefs about the “truth.” Where these traditions
+vary in their beliefs, and they do disagree in fundamental ways,
+they cannot possibly all be right, unless all cultural beliefs are rela-
+tive, which they may well be at the present time.
+  Humanists think that good and evil are human inventions, that
+value systems are relative to a local community or society. “Man is
+the measure of all things.” Comparative ethics is the study of dis-
+parate value systems in the hope of finding come commonly held
+        80     Great Problems in Philosophy and Physics - Solved?
+
+             rules, for which one can claim some universal or objective sig-
+             nificance, for example, the golden rule, “Do unto others” or com-
+             mandments like “Thou shall not kill.” Some philosophers make
+             human life an objective good. Some make one own’s life the ulti-
+             mate good. Some think the good is the maximization of pleasure,
+             or happiness, or well-being, for all humans (or maybe just one
+Chapter 5
+
+             own’s family, tribe, community, or nation?),
+                Modern bioethicists hope to avoid all this relativism by situat-
+             ing value in all life, seeing humanism as short-sighted, if general-
+             ized, self-interest. A variety of ancient religions looked to the Sun
+             as the sustainer of all life and thus found an objective good outside
+             of human life. They anthropomorphized the sun or the “bright
+             sky” as God. Dark and night were stigmatized as evil and “fallen.”
+             Echoes of these ancient views persist in our metaphors of light, of
+             enlightenment, as good.
+                Philosophers have ever longed to discover a cosmic good. The
+             ideal source of a cosmic good is perhaps as remote as possible
+             from the Earth in space and as distant in time. Many theologians
+             and philosophers think it must be “outside space and time.” For
+             Plato, it was a timeless Good to be found in Being itself. For his
+             student Aristotle, it was a property of the first principles that
+             set the world in motion. For Kant, it was a transcendental and
+             “noumenal” God outside the everyday “phenomenal” world of
+             experience.
+               Information philosophy has found that the story of human
+             evolution does not start with Darwin and DNA. It starts much,
+             much earlier, at the very beginning of the universe. For those of
+             you thinking that your origins and place in the universe might be
+             found outside of animal evolution, beyond a mere material expla-
+             nation, you might be happy to learn that your most distant begin-
+             ning was in the primeval formation of immaterial, abstract infor-
+             mation, a kind of metaphysical spirituality you can tie directly to
+             the information content of your innermost thoughts.
+                Has information philosophy discovered the cosmic good? Does
+             it at least identify the prerequisite source of anything resembling
+                                                               Value        81
+
+the Good? Yes, it does. Does it resemble the Good anthropo-
+morphized as a God personally concerned about our individual
+goods? No, it does not. But it has one outstanding characteristic of
+such a God. It is Providence. Information philosophy has discov-
+ered the fundamental process in the universe that provides for our
+well-being. It provides the light, it provides life, it provides intelli-
+
+                                                                             Chapter 5
+gence. For all of these things, should we not be thankful and rever-
+ent toward such a creative process, attitudes humans normally feel
+towards a providential god?
+   Information philosophy replaces the difficult problem of “Does
+God exist?” with the more tractable problem “Does Goodness
+exist?” Humanists situate values in reason or human nature. Bio-
+ethicists seek to move the source of goodness to the biosphere. Life
+becomes the summum bonum. Information philosophers look out
+to the universe as a whole, beyond the obviously beneficent Sun to
+find a cosmos that grew from a chaos. The growth of that cosmos
+continues today, in a cosmic creative process that formed the gal-
+axies, stars, and planets, that led to life and then to the evolution
+of the information-processing minds that created language and
+logic. It is this process that we propose creates objective value.
+   Exactly how that is possible requires a subtle understanding
+of the second law of thermodynamics in an expanding and open
+universe. The second law is the tendency of isolated systems to
+become more disorderly, to increase the “entropy,” a quantitative
+measure of disorder. When entropy increases in a closed system,
+information is destroyed irreversibly.1
+   A very small number of processes that we call ergodic can
+reduce the entropy locally to create macroscopic information
+structures like stars and planets as well as microscopic ones like
+atoms and molecules. And most important to human beings, this
+creative process is not only responsible for our existence, it has
+made us creative individuals in its own image! In what sense? It
+is that we are creative beings. We are co-creators of the world we
+live in, wielding a power to create, for better or for worse, that is
+unparalleled in the history of the world.
+  1     See appendix B for entropy flows in the universe.
+        82         Great Problems in Philosophy and Physics - Solved?
+
+                Every living thing is an information processor and communica-
+             tor. But the handling of information suggests four different levels
+             of processing among the animals - instinctive, learning, predictive,
+             and normative (reflective).
+                • The lowest organisms are created with a fixed amount of infor-
+             mation that is essentially constant their entire lives. Their behav-
+Chapter 5
+
+             ioral repertoire is almost completely instinctive. They have little or
+             no learning capability. Their automatic reactions to environmental
+             conditions are “built in,” transmitted genetically. Information about
+             past experiences (by prior generations of the organism) is only pres-
+             ent implicitly in those inherited reactions.
+                • Animals with a learning capability can acquire new informa-
+             tion during their lifetimes. Their past experiences condition their
+             current choices. Mostly habitual reactions are developed through
+             experience, including instruction by parents and peers.
+                • The ability to predict the future evolved in animals with an expe-
+             rience recorder and reproducer (ERR) that can play back beyond the
+             current situation. These animals have foresight and imagination
+             that help them evaluate the future consequences of their choices.
+             They can generate alternative possibilities for future actions, based
+             on the playback of multiple past experiences in similar situations.
+                • Normative information appears in human societies that have
+             externalized and codified their past social experiences. Future
+             actions are evaluated based in part on ideas about the past, in addi-
+             tion to the individual’s actual experiences. Conscious deliberation
+             about community and universal values influences the choice of
+             behaviors.
+                All four levels are emergent,2 in the sense that they did not exist
+             in the lower, earlier levels of biological evolution. The emergence of
+             human beings also marks the emergence of information and infor-
+             mation processing that is going on outside of biological organisms.
+             The storage and retrieval of information in the form of writing, then
+             printing, and now the world-wide web, has enabled the transmis-
+             sion of knowledge to leap over vast distances in space and time.
+               2     See chapter 27 on emergence.
+                                                          Value         83
+
+   Francis Bacon saw clearly that knowledge is power. Information
+philosophy defines knowledge as information that has meaning3 for
+humans, in the sense that it expands the possible alternative actions
+to let us choose the best means to achieve our ends. The power of
+this knowledge is shown in the exponential growth of humanity on
+the planet. A mere ten thousand years ago the biomass of humans
+and their domesticated animals was less than one percent of the
+
+                                                                         Chapter 5
+biomass of terrestrial vertebrates. Today it is near ninety percent.
+Humans have taken over the planet.
+   The Sum of human knowledge will soon be accessible to anyone
+in the world with a tablet computer or smartphone. We estimate
+this will be nearly the entire human population by the year 2020. If
+this comes to be the case, there is an opportunity to expose young
+children to the most universal of human values, perhaps before they
+have been indoctrinated by their local cultural values.
+  This will be vehemently opposed by conservative governments
+and fundamentalist religious forces whose hold on power depends
+on keeping young minds closed to “outside” ideas.
+   A battle rages between cosmic ergodic processes and chaotic
+entropic processes that destroy structure and information. Anthro-
+pomorphizing these processes as good and evil gives us a dualist
+image that nicely solves the monotheistic problem of evil.” If God
+is the Good, God is not responsible for the Evil. Instead, we can
+clearly see an impersonal Ergod behind Providence – the cosmic
+source without which we would not exist and so a proper object
+of our reverence. And Entropy is the “devil incarnate,” as Norbert
+Wiener described it.
+   The fundamental moral guide to action found in information
+philosophy is then very simple – when faced with a moral dilemma,
+we ought to choose to preserve information structures against the
+entropy. Beyond moral standards, the discovery of a cosmic source
+of value suggests a basis for societal and legal norms.
+  Celebrating the first modern philosopher, René Descartes,
+we call our model for value the Ergo. For those who might want to
+anthropomorphize on the slender thread of discovering a natural
+  3    See chapter 11 on meaning.
+        84       Great Problems in Philosophy and Physics - Solved?
+
+             Providence, call it Ergod. No God can be God without being Ergo-
+             dic, standing in opposition to forces of darkness and destruction.
+                Ergodic processes are those that resist the terrible and universal
+             Second Law of Thermodynamics, which commands the increase
+             of chaos and entropy (disorder). Without violating the inviolable
+             second law overall, ergodic processes reduce the entropy locally,
+Chapter 5
+
+             producing pockets of cosmos and negative entropy (order and
+             information-rich structures). Ergo is the ultimate sine qua non.
+                The idea of a moral science has a long history. John Stuart Mill’s
+             Logic of the Moral Sciences was a major influence. Translated into
+             German as Geisteswissenschaft, or science of the spirit, Mill’s “moral
+             science” was then back-translated into English as the Human Sci-
+             ences or what has become the humanities in today’s universities. Of
+             course, David Hume and his great English colleague, Adam Smith,
+             a hundred years before Mill, had given us great insights into what
+             they saw as “natural” moral sentiments or feelings. Hume thought
+             he could make a science of human nature based on laws as definite
+             as Isaac Newton’s laws of motion. But this was to be a failure.
+                Maybe so, but we believe a moral society should be and can be
+             informed by the best scientific knowledge about human origins,
+             human capacities, and our current status in the universe.
+             An Information-based Moral Code?
+                The first rule of an information-based morality is that all choices
+             should be made so as to minimize the destruction of abstract
+             information and concrete information structures. All natural pro-
+             cesses increase the entropy. A very few (life, gravitation) decrease
+             the entropy locally. These we call ergodic. In principle, one should
+             calculate the entropy increase and the negative entropy gain for each
+             choice and maximize production and preservation of information.
+                Because abstract information can be duplicated and disseminated
+             at near-zero cost in the information age (“information wants to be
+             free”), our second rule is that we should share all information (our
+             knowledge Sum) to the maximum possible extent. Practically, this
+             means nourishing and educating all the world’s children, especially
+                                                            Value         85
+
+the females, who are more likely to assist in this project of nourish-
+ing and education than are the males.
+  By contrast, a concrete “information structure,” or “wealth” in
+the form of low-entropy information-rich matter and energy, is
+subject to the laws of economic scarcity. The natural distribution of
+wealth and income among individuals follows statistics like Pareto’s
+
+                                                                           Chapter 5
+“80/20” rule, where the largest percentage of wealth is “normally”
+concentrated in a minority of the population.
+   Some inequality is the unavoidable consequence of the “normal”
+distribution of human intelligence and capability due to chance. It is
+also the avoidable consequence of the historically random distribu-
+tion of opportunity, including the inheritance of material property.
+Redistribution of wealth through a progressive taxation system is
+the means to regulate income and wealth inequality to a societally
+acceptable norm that allows even the least capable humans to exer-
+cise their creative freedom to their limits.
+A Minimum Moral/Political Message?
+   Information philosophy has established that every human being
+is uniquely capable of creating new information. This includes the
+abstract ideas of our ancestors that have become the Sum of human
+knowledge. It also includes the creation of concrete information
+structures which add to the stock of material wealth, although
+material objects are subject to the laws of economic scarcity. From
+this, we can formulate our basic insight into human freedom and
+creativity,
+  Thoughts Are Free, Actions Are Willed, Self-Determined,
+  Limited Only by Creative Control Over Matter and Energy.
+  Everything we know and much of the material value that we enjoy
+today is the product of past and present creative human beings. It is
+therefore of vital interest, a core value, for human society to protect
+that free creative power for everyone.
+   We can say it is in the interest of future society that every human
+being should have the right to exercise their ergodic freedom to
+create new ideas to the maximum of their individual potential.
+        86         Great Problems in Philosophy and Physics - Solved?
+
+               This right requires a minimum standard of well-being and edu-
+             cation, and a minimum of constraints on self-expression so society
+             can hear those new ideas.
+                The right to exercise this creative freedom comes with a respon-
+             sibility, an obligation to protect that freedom and opportunity for
+             others, and to see that the fruits of that creativity are distributed as
+Chapter 5
+
+             fairly as possible to all humanity, while preserving adequate prop-
+             erty rights for the creator.
+                This is a kind of freedom that some philosophers have only
+             dreamed of. Sadly, many more have denied this creative freedom
+             as logically or physically impossible. We are finite beings, they say,
+             compared to the infinite powers that they mistakenly imagine are in
+             charge. It is their own limited imaginations that have sadly embraced
+             the idea of such infinite powers.
+                The fact is that human beings are the universe’s highest form
+             of pure information creator, a natural outgrowth of the universe’s
+             cosmic creative process. Humans are inferior to the cosmic process
+             in its power over useful matter and energy. That is the providential
+             gift of the negative entropy or Ergo in the form of incoming solar
+             radiation. But humans are superior to the cosmic process as the cre-
+             ators of ideas. Ideas are immaterial, potentially immortal if added to
+             the Sum of human knowledge.
+                Additions to human knowledge mean that the lives of our descen-
+             dants will almost always be richer and fuller than those of our ances-
+             tors, both materially and spiritually. As Albert Einstein knew, it
+             is our ideas that let us comprehend the almost incomprehensible
+             nature of the universe.
+                Unfortunately, as the material wealth and overall well-being of
+             humanity has greatly increased, and world poverty is nearing elimi-
+             nation, there is also an increase in anomie. As agricultural and
+             industrial productivity has soared, without the need to struggle
+             every day to provide our livelihood, we may face the danger of a life
+             of leisure that lacks a sense of meaningful purpose.
+               Beyond individual, family, tribe, and nation, can we develop the
+             sense of a universal telos, understanding why we live, love, and die?4
+               4     See the end of chapter 28 on the origins of information and life.
+                                                           Value         87
+
+An Information-based Social Contract?
+   With reference to past declarations of human rights, the discov-
+ery of a universal and objective standard of value by information
+philosophy suggests the following elements of a universal social
+contract, to be accepted by individuals reaching the age of consent,
+in order to have full participation in society.
+
+                                                                          Chapter 5
+  As a person coming of age in human society, I freely consent to
+the following limits on my natural free agency, in order to preserve
+a more perfect society.
+  As I seek maximum freedom and opportunity for myself, I will
+protect equal freedom and opportunity for all other human beings.
+   As I am free to think whatever thoughts come to my mind, my
+self-determined actions will be responsible, limited only by the
+equal rights of others.
+  As I seek to gain my maximum allowable share of economic
+wealth and personal well-being, I will do my best to help others earn
+their own maximal shares.
+   As I seek to acquire the knowledge that will ensure my own future
+well-being, I will help disseminate that knowledge to the world,
+insofar as knowledge is our common human creation and inher-
+itance from our ancestors, and since the cosmic creation process
+provides more than enough negative entropy for everyone.
+  I will do nothing to others, nor advocate such things, that I do not
+expect would be done to me in similar circumstances, according to
+the laws of society. Liberty consists of doing anything which does
+not harm others.
+   I respect the limited protection of an individual’s right to their
+created intellectual and material property, but eventually some ideas
+become common property. These include the laws that govern our
+social behaviors. Laws should forbid only actions harmful to society.
+Anything which is not forbidden by law should not be prevented.
+   All persons can contribute personally or through their represen-
+tatives to the formation of the laws. Laws must be the same for all,
+either as they protect, or as they punish.
+        88       Great Problems in Philosophy and Physics - Solved?
+
+                All persons, being equal in the eyes of the law, are equally admis-
+             sible to all public places and employments, according to their capac-
+             ity and without distinction other than that of their virtues and of
+             their talents.
+                Since the laws are our common property, I will not use my finan-
+             cial or political power to change those laws in order to advance my
+Chapter 5
+
+             own personal cause, or that of my family, my business, my commu-
+             nity, not even my nation. My power to change the laws I will limit
+             to my powers of persuasion and my power through the ballot box to
+             approve legislation.
+                I will respect the right of others to hold and to express conflicting
+             beliefs. But I will not impose my beliefs on others, for example, by
+             insisting they be encoded as laws of society. I will not allow others
+             to impose their own beliefs on me, other than by their powers of
+             public persuasion.
+               My right to think freely and to determine my own actions means
+             that I take responsibility for them, and will accept punishment for
+             my illegal acts which harm others.
+                No one can be punished except under a law approved by the leg-
+             islature, with information about the law published before the fact of
+             any particular offending action.
+                Punishment may include incarceration to prevent further physi-
+             cal harm to others. Government has a monopoly on the use of force
+             to prevent illegal behavior, because it is necessary for the common
+             good. But that force must be only that necessary and must minimize
+             harm to the offending person.
+                A person is presumed innocent until proven guilty, but if arrested
+             for cause, does not have the right to resist arrest by authorities.
+             Resistance is itself illegal. However, if the arrest is found to have
+             been unjustifiable, a person is deserving of appropriate compensa-
+             tion for the harm, the loss of abstract freedom, and possibly loss of
+             material value such as wages.
+                No one should face arrest for an act that does no physical harm
+             or dangerously threaten such harm to others. No law should prevent
+             behavior simply because others find that behavior objectionable.
+               No form of speech expressing unpopular opinions, however
+             harmful to the feelings of others, shall be cause for arrest.
+                                                                   Value    89
+
+Information and Negative Entropy as Objective Values
+   Perhaps the most radical suggestion of information philosophy
+is the idea that the negative entropy flows in the universe - which
+make possible the creation of all passive information structures as
+well as dynamic, interactive, purposeful living things - should be
+considered as an objective basis for the concept of value.
+
+                                                                             Chapter 5
+   The Nobel-prize-winning economist Nicolas Georgescu-
+Roegen once proposed negative entropy as the ultimate source of
+all economic value.5 Information philosophy agrees.
+   Critics may complain that there can be no single criterion for the
+good, that any tool can be both harmful and helpful, we ask them
+to look deeper.
+   A knife in the hands of a surgeon can save a life, in the hands of
+a killer take one. But just look at the information implications to
+judge the moral value of this example. Consider the evil in a single
+thermonuclear weapon, which can destroy information structures
+faster and more thoroughly than any other human invention. How
+can we have built and maintain thousands of these devices, each one
+capable of destroying all the lives in one of the world’s largest cities?
+   Imagine a panel of ethicists choosing the better alternative in
+cases of moral dilemmas. Then imagine a panel of scientists calcu-
+lating the increase in entropy (destructive disorder) versus the pres-
+ervation of information (negative entropy) in each case. We suggest
+there would be a high correlation between moralists and scientists
+on the better alternative.
+  For centuries, values were considered a theological question,
+something given to humanity. Then humanists began to make
+human life the ultimate basis. Some philosophers assign infinite
+worth to each life, to block any comparative worth analysis.
+  In recent decades, bioethics has shifted the locus of values to the
+earth’s biosphere and beyond to the overall environment.
+   Information philosophy hopes to enlarge the sphere of ethics to
+the cosmos itself, where the process of information creation appears
+as a sort of divine providence.
+
+  5     The Entropy Law and the Economic Process, Harvard, 1971.
+

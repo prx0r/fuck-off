@@ -1,0 +1,2032 @@
+# See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/265588770
+
+**source:** pdf · **section:** solutions
+**file:** Shimony_Fest
+---
+
+
+Space-Time and Separability: Problems of Identity and Individuation in
+Fundamental Physics
+
+Chapter · June 1997
+DOI: 10.1007/978-94-017-2732-7_9
+
+CITATIONS                                                                                                 READS
+15                                                                                                        104
+
+1 author:
+
+            Don Howard
+            University of Notre Dame
+            70 PUBLICATIONS 1,057 CITATIONS
+
+                SEE PROFILE
+
+ All content following this page was uploaded by Don Howard on 01 June 2015.
+
+ The user has requested enhancement of the downloaded file.
+                          Spacetime and Separability:
+         Problems of Identity and Individuation in Fundamental Physics
+
+                                          Don Howard
+                                    Department of Philosophy
+                                     University of Kentucky
+
+1. Introduction: Einstein, Separability, and a “Pauli Program” for Fundamental Physics
+
+       On 15 June 1935, shortly after the appearance of the Einstein-Podolsky-Rosen (EPR) paper
+
+(Einstein, Podolsky, and Rosen 1935), and before he knew that Bohr would himself be publishing
+
+a reply (Bohr 1935), Wolfgang Pauli wrote a long, worried letter to Werner Heisenberg complaining
+
+about the damage the paper might do: “Einstein has again expressed himself publicly on quantum
+
+mechanics, indeed in the 15 May issue of Physical Review (together with Podolsky and Rosen—no
+
+good company, by the way). As is well known, every time that happens it is a catastrophe.” Since
+
+the EPR paper was published in an American physics journal, there was a danger, Pauli said, of a
+
+“confusion” in American public opinion, and he urged Heisenberg to publish a “pedagogical” reply
+
+in the same journal.1 Pauli was most concerned that the reply elucidate what he, Pauli, took to be
+
+the major issue in the debate:
+
+               [Einstein] now understands this much, that one cannot simultaneously measure two
+       quantities corresponding to non-commuting operators and that one cannot simultaneously
+       ascribe numerical values to them. But where he runs into trouble in this connection is the
+       way in which, in quantum mechanics, two systems are joined to form a composite system.
+       ...
+               A pedagogical reply to [this] train of thought must, I believe, clarify the following
+       concepts. The difference between the following statements:
+               a) Two systems 1 and 2 are not in interaction with one another (= absence of any
+       interaction energy).
+               Definition. This is the case if, after a maximal observation on 1, the expectation
+       values of all quantities of 1 have the same temporal evolution as if 2 were not present. (NB.
+       Anyhow, for sufficiently short times the concept of an interaction plays no role.)
+               b) The composite system is in a state where the subsystems 1 and 2 are independent.
+       (Decomposition of the eigenfunction into a product.)
+                                                               Howard/Shimony Festschrift—Page 2
+
+                Definition. This is the case if, after a measurement of an arbitrary quantity F2 is
+        carried out on 2, with a known result F2 = (F2)0 (number), the expectation values of the
+        quantities F1 of 1 remain the same as without a measurement on 2 having been carried out.
+                Quite independently of Einstein, it appears to me that, in providing a systematic
+        foundation for quantum mechanics, one should start more from the composition and
+        separation of systems than has until now (with Dirac, e.g.) been the case. — This is
+        indeed—as Einstein has correctly felt—a very fundamental point in quantum mechanics,
+        which has, moreover, a direct connection with your reflections about the cut and the
+        possibility of its being shifted to an arbitrary place. (Pauli 1985, pp. 402-404)
+
+        This is a striking letter in many respects. Let me single out just three.
+
+        First, Pauli displays real prescience with his highlighting of the concept of “independence”
+
+in point b), for this is essentially the concept of independence that we now know to lie at the heart
+
+of the puzzles over quantum nonlocality and nonseparability that have come to the fore in the
+
+literature on the Bell argument and the Bell experiments of the last decade. More specifically, the
+
+concept of independence highlighted by Pauli is essentially the same as the concept of “outcome
+
+independence” that Abner Shimony introduced in his mid-1980s papers on the interpretation of the
+
+Bell experiments (see Shimony 1984, 1986), which concept is, in turn, equivalent to the condition
+
+that Jon Jarrett dubbed “completeness” in his 1983 University of Chicago dissertation (Jarrett 1983)
+
+and subsequent papers (Jarrett 1984, Ballentine and Jarrett 1987), which were the inspiration for
+
+Shimony’s own mid-1980s papers.           It is, therefore, also equivalent to what I have called
+
+“separability” in my own papers on the subject (Howard 1984, 1989, 1990, 1993).
+
+        As I will explain in more detail below, outcome independence or separability is to be
+
+distinguished from the logically independent concept of “parameter independence,” or “locality,”
+
+in my version of the argument (and Jon Jarrett’s original version), the conjunction of the two being
+
+logically equivalent to the Bell locality condition, and hence sufficient for the derivation of the Bell
+
+inequality, so that when the quantum mechanically predicted violations of the Bell inequality are
+                                                             Howard/Shimony Festschrift—Page 3
+
+confirmed in the laboratory we can trace the cause to a failure of either outcome independence
+
+(separability), or parameter independence (locality), or both. Thus isolating the cause of the
+
+violations is helpful, because parameter independence arguably encapsulates the relevant physical
+
+content of special relativistic prohibitions on superluminal signaling in the context of the Bell
+
+experiments (hence Jarrett’s and my dubbing it “locality” simpliciter), leaving a failure of outcome
+
+independence or separability as the likely culprit if, as resonable physicists, we do not too hastily
+
+abandon special relativity. What the physical significance of the outcome independence or
+
+separability condition might be is something of an open question, although, as I will argue, the
+
+recognition that outcome independence is equivalent to a separability condition opens one window
+
+on the understanding of its possible physical signficance.
+
+       The second striking feature of Pauli’s last-quoted paragraph is that it points backward to
+
+what was by 1935 an old debate over the nonseparable manner in which quantum mechanics
+
+describes interacting systems. The fact that this was the central issue in the pre-1935 debate over
+
+the adequacy of the quantum theory disappeared from the collective memory of the physics
+
+community after EPR. But this aspect of the quantum had bothered Einstein since his own first
+
+paper on the quantum hypothesis in 1905, and from the time in 1925 when his work on Bose-
+
+Einstein statistics convinced him that it would be an unavoidable feature of any eventual quantum
+
+formalism, Einstein had been trying in every which way to convince his colleagues that this was
+
+sufficient reason to abandon the quantum path. Einstein believed that the spatio-temporal mode of
+
+individuating physical systems, and hence the assumption of the separability of spatio-temporally
+
+separated systems, had virtually the status of a priori truths, that they are conditions for the very
+
+possibility of scientific knowledge, and that a nonseparable quantum mechanics was, therefore, at
+                                                                Howard/Shimony Festschrift—Page 4
+
+a very deep level, something fundamentally incoherent. Showing this was the point of his famous
+
+thought experiments at the Solvay meeting as well as the various proto-EPR arguments of the early
+
+1930s. Showing this was also the point of the EPR paper itself, although as a result of Podolsky’s
+
+having written the paper, this point got “buried by the erudition,” as Einstein put it in a letter to
+
+Erwin Schrödinger right after the paper’s publication. But it was not just Einstein who worried
+
+about quantum nonseparability in the years before 1935. It was also at the forefront of the thinking
+
+of Bohr and Schrödinger, and understanding better the quantitative phenomena associated with
+
+quantum nonseparability was also the point of what might be called the “proto-Bell” correlation
+
+experiments carried out by Walter Bothe and others during the 1920s.
+
+        Curiously, this pre-1935 debate about quantum nonseparability came to an end after EPR,
+
+largely, of course, because Bohr’s reply to EPR was thought by most to have settled the question.
+
+A shift of interest to nuclear physics and quntum field theory no doubt also helped to divert attention
+
+from the problem of quantum nonseparability, as did the personal, professional, and political
+
+dislocations of the late 1930s and the absorption of the physics community into the war effort.
+
+When Einstein himself tried to revive the question in the late 1940s, he found no audience. Only
+
+in the wake of Bell’s work have we once again realized that there is still something to be learned
+
+in connection with quantum nonseparability.
+
+        The third point of interest in the last-quoted paragraph of Pauli’s June 1935 letter to
+
+Heisenberg—perhaps the most important point of all— is the fact that it points forward to a program
+
+for fundamental physics quite different from the then ascendent quantum field theory program.
+
+Pauli’s reasoning is not spelled out in any detail, unfortunately, nor are the details of the alternative
+
+program he envisions. But recognizing that quantum nonseparability is the chief ontological novelty
+                                                                Howard/Shimony Festschrift—Page 5
+
+of the quantum theory, and the chief point of difference between it and “classical” theories,
+
+including general relativity, Pauli seems to be suggesting that rather than pursue a program of field
+
+quantization—the concept of the field having been introduced, after all, only as device for
+
+explaining interactions—we should instead start from the quantum mechanical description of
+
+interactions.
+
+        In what follows, I will follow out all three of the leads indicated by Pauli. I will first briefly
+
+sketch the pre-1935 history of debates over quantum nonseparability, emphasizing Einstein’s
+
+worries about the failure of separability and his careful disentangling of the relevant conception of
+
+separability from the properly special relativistic concept of locality. I will then just as briefly
+
+review the current state of the discussion of quantum nonseparability in light the recent literature
+
+on Bell’s theorem and the Bell experiments. But this is really only by way of settting the context
+
+for taking up Pauli’s last suggestion about an alternative program for fundamental physics. For the
+
+real aim of this paper is to ask what a program of fundamental physics would look like that took
+
+seriously the challenge of “start[ing] more from the composition and separation of systems,” a
+
+program that I will call a “Pauli program.”
+
+        Proceeding in this fahsion—history first, then contemporary theory and experiment, then
+
+speculative extrapolation—is determined by more than just the accident of Pauli’s having organized
+
+his letter to Heisenberg in this fashion. It is determined as well by the conviction that, with
+
+fundamental physics in the state it is in today, with ever more frequent bold claims that we are on
+
+the verge of a final unification, only a few small problems needing to be cleared up, the time is right
+
+for a revival of the Machian historical-critical analysis of concepts and theories in physics. My
+
+intuition is that we are a lot farther from final unification than many think, that what look like small
+                                                                 Howard/Shimony Festschrift—Page 6
+
+problems in quantum field theory, quantum gravity, cosmology, and other areas, may well be
+
+symptoms of deeper ills in our fundamental physics, much like the problems of black-body radiation
+
+and anomalous specific heats at the end of the last century were symptoms of deep problems in
+
+mechanics and electromagnetism. Mach’s historical-critical analysis of the received concepts and
+
+theories in areas like mechanics and the theory of heat helped to prepare the ground for the quantum
+
+and relativity revolutions; indeed, it was this part of Mach’s legacy, not his positivism, that Einstein
+
+praised in his 1916 obituary of Mach.
+
+        Received concepts and theories, what we learn from our textbooks and teachers, come to us
+
+with a certain fixity, almost an air of inevitability or necessity, not wholly the result of their
+
+empirical credentials or their logical power. They seem so inevitable in large part simply because
+
+they are so old and well-entrenched. But they often must be removed before a new understanding
+
+of nature can emerge, as was the case with the quantum and relativity theories, and one of the best
+
+ways—not the only way—to facilitate their removal is through a Machain historical-critical analysis
+
+that seeks to discover how and why those concepts and theories became entrenched in the first
+
+place. Concepts and theories have histories, such that understanding those concepts and theories
+
+requires understanding those histories. So, for that reason, a proper critique of those concepts and
+
+theories also requires a critical approach to their histories.
+
+2. Einstein’s Life-long Worries about Quantum Nonseparability
+
+        Already in this first paper on the light quantum hypothesis in 1905, Einstein realized that the
+
+full story of the quantum would involve some compromise with classical notions of particle
+
+independence. He remarked explicitly that the assumption that light quanta behave like independent
+                                                            Howard/Shimony Festschrift—Page 7
+
+particle-like carriers of electromagnetic energy would yield only the Wien end of the black-body
+
+spectrum. As to what kind of independence assumption we were making here, he was quite explicit.
+
+We are assuming, he said, that Boltzmann’s principle is valid for a collection of light quanta,
+
+meaning, as he again said explicitly, that the joint probability for two light quanta to occupy two
+
+specific cells of phase space factorizes as a product of the separate occupation probabilities
+
+(Einstein 1905, pp. 139-142). But again, this assumption yields only the Wien end of the black-body
+
+spectrum, to get the other end, by implication, we will have to assume something else.2
+
+       Einstein returned to this issue in 1909, in his masterful survey paper, “Zum gegenwärtigen
+
+Stand des Strahlungsproblems” (Einstein 1909a), in correspondence with H.A. Lorentz, and in his
+
+influential address to the Salzburg Naturforscherversammlung, “Über die Entwickelung unserer
+
+Anschauungen über das Wesen und die Konstitution der Strahlung” (Einstein 1909b). It was in
+
+these papers and this correspondence that the notion of wave-particle duality first made its
+
+appearance (as well as the idea of “ghost” or “guiding fields”), the wave conception being
+
+introduced by contrast with particles as a device for conceptualizing the interference effects and
+
+failure of classical assumptions about particle independence that are manifest in those aspects of
+
+the interaction between matter and radition that give rise both to the full black-body spectrum and
+
+to the mean-square fluctuations in energy and radiation pressure in black-body radiation. The issue
+
+came to the fore again in 1914 in some papers by Mieczys³aw Wolfke (1914a, 1914b) reporting the
+
+contents of conversations with Einstein about the kind of independence assumption made in the
+
+1905 light quantum paper, where Wolfke repeats the point about the factorizability of the
+
+probabilities being the essence of the independence assumption.
+                                                               Howard/Shimony Festschrift—Page 8
+
+        It was only in late 1924 and early 1925 that the issue became acute for Einstein, namely,
+
+when his own work on Bose-Einstein statistics convinced him that the failure of classical notions
+
+of particle independence would have to be a fundamental and ineliminable feature of the physics
+
+of the quantum. The nature of this non-independence was still quite obscure to Einstein at that time,
+
+as is evident from a letter to Schrödinger of 28 February 1925, where he writes:
+
+        In the Bose statistics employed by me, the quanta or molecules are not treated as being
+        independent of one another. . . . A complexion is characterized through giving the number
+        of molecules that are present in each individual cell. The number of the complexions so
+        defined should determine the entropy. According to this procedure, the molecules do not
+        appear as being localized independently of one another, but rather they have a preference
+        to sit together with another molecule in the same cell. One can easily picture this in the case
+        of small numbers. [In particular] 2 quanta, 2 cells:
+
+        Bose-statistics                                        independent molecules
+
+            1st cell      2nd cell
+                                                                 1st cell    2nd cell
+ 1st           #
+                            —
+ case          #                                   1st case        I II         —
+ 2nd           #             #                     2nd case          I          II
+ case
+                                                   3rd case         II           I
+ 3rd          —              #
+ case                        #                     4th case         —          I II
+
+        According to Bose the molecules stack together relatively more often than according to the
+        hypothesis of the statistical independence of the molecules. (EA 22-002)
+
+In a postscript, Einstein remarks that Bose-Einstein are not incompatible with the statistics
+
+employed in his 1916 papers on transition probabilities, where the standard Maxwell-Boltzmann
+
+distribution was employed (Einstein 1916a, 1916b), because it is really only in relatively dense gases
+
+where the difference between the statistics of independent particles and the Bose-Einstein statistics
+                                                             Howard/Shimony Festschrift—Page 9
+
+will be noticeable: “There the interaction between the molecules makes itself felt,) the interaction
+
+which, for the present, is accounted for statistically, but whose physical nature remains veiled.”
+
+        The problem here is simple. Boltzmann statistics, the statistics of independent particles,
+
+assume that, owing to their being spatially separated, the systems in question have separate,
+
+trackable identities, sufficient to enable us to name or label them and thus distinguish cases 2 and
+
+3, which are collapsed into a single case in Bose-Einstein statistics because the systems in question
+
+there lack separate, trackable identities. If we still assume equal prior probabilities for the
+
+distinguishable cases, then the probability of two particles occupying the same cell of phase space,
+
+and hence of being spatially close together, is 2/3 in Bose-Einstein statistics, whereas it was only
+
+1/2 in Boltzmann statistics, so that the failure of the classical mode of particle individuation
+
+manifests itself as a tendency for the systems in question to clump together. But how to explain this
+
+tendency to clump and this failure of the classical scheme of individuation is not at all clear to
+
+Einstein at this time.
+
+        The puzzles about the non-independence of systems obeying Bose-Einstein statistics became
+
+a prime focus of Einstein’s attention over the next few years, especially in his correspondence with
+
+Schrödinger. At every step, one finds Einstein worrying Schrödinger with the question whether or
+
+not the new wave-mechanical formalism he is developing will entail the same non-classical way of
+
+individuating interacting systems evinced in Bose-Einstein statistics. Indeed, when looked at
+
+through the window of his correspondence with Einstein in 1925-1926, Schrödinger’s development
+
+of wave mechanics can be described as being aimed primarily at constructing a formalism within
+
+which the Bose-Einstein scheme of individuation of interacting particles can be explained. The key
+
+move, of course, was Schrödinger’s realization that wave mechanics had to be done in configuration
+                                                            Howard/Shimony Festschrift—Page 10
+
+space, not physical space, because only in configuration space can we find an ontology of joint
+
+states rich enough to include non-factorizable joint states of the kind that are necessary for
+
+explaining why two bosons cannot be endowed with separate, trackable identities.
+
+       As late as the spring of 1927, Einstein was still trying to salvage separability in quantum
+
+mechanics be means of a hidden variables model of the theory, as he explained in a lecture to the
+
+Prussian Academy on 5 May of that year, “Bestimmt Schrödingers Wellenmechanik die Bewegung
+
+eines Systems vollständig oder nur im Sinne der Statistik?” But he discovered to his dismay, after
+
+the manuscript of the talk was already in proofs, that even his own hidden variables model suffered
+
+from the same nonseparability that afflicted wave mechanics. This is the point of the following
+
+remark added in proof:
+
+       I have found that the schema does not satisfy a general requirement that must be imposed
+       on a general law of motion for systems.
+               Consider, in particular, a system Ó that consists of two energetically independent
+       subsystems, Ó1 and Ó2; this means that the potential energy as well as the kinetic energy is
+       additively composed of two parts, the first of which contains quantities referring only to Ó1,
+       the second quantities referring only to Ó2. It is then well known that
+                                           Ø = Ø1 @ Ø2 ,
+       where Ø1 depends only on the coordinates of Ó1, Ø2 only on the coordinates of Ó2. In this
+       case we must demand that the motions of the composite system be combinations of possible
+       motions of the subsystems.
+               The indicated scheme does not satisfy this requirement. In particular, let ì be an
+       index belonging to a coordinate of Ó1, í an index belonging to a coordinate of Ó2. Then Øìí
+       does not vanish. (EA 2-100)
+
+The paper was never published. One might conjecture that it was because of the nonseparability
+
+of the model.3
+
+       From this time on Einstein ceased making positive contributions to the development of the
+
+quantum theory. He turned his own constructive efforts back to unified field theory, which did
+
+satisfy a spatiotemporal principle of separability. His future remarks on the quantum theory were
+                                                              Howard/Shimony Festschrift—Page 11
+
+to be confined to attempts to elucidate the paradoxical consequences of quantum nonseparability,
+
+chiefly via the series of thought experiments that began to develop at the Solvay meeting in
+
+September 1927. This was, for example, the real aim of the famous photon-box thought experiment
+
+that was the focus of Einstein’s debate with Bohr at the 1930 Solvay meeting. Contrary to Bohr’s
+
+reading of this as an attempt to disprove the indeterminacy relations (Bohr 1949, pp. 224-228), what
+
+Einstein was actually trying to show was that, if one assumed the separability of the box and the
+
+emitted photon, then one could ascribe two different state functions to the photon, even though, by
+
+virture of the separation between the box and the photon, there would be one and only one reality
+
+pertaining to the photon. One of these states would correspond to a definite energy or color, if one
+
+chose to weigh the box, and one would correspond to a definite time of return, after reflection at a
+
+distant mirror, if one chose to read the clock controlling the shutter. That means that each of the
+
+two different state functions must be at best only an incomplete description of the unitary real state
+
+of the photon.4
+
+        It was no doubt this long history of Einstein’s wrangles with Schrödinger, Bohr, and others
+
+that Pauli had in mind when he alluded to Einstein’s concern with the way we do the physics of
+
+interacting systems in the above-quoted letter to Heisenberg. The issue of separability is not
+
+obviously thematized in the published EPR paper, but Pauli had been arguing about separability with
+
+Einstein and other colleagues for long enough to know what Einstein intended.
+
+        Einstein himself explained his intentions in another series of letters with Schrödinger,
+
+initiated by a letter from Schrödinger to Einstein of 7 June 1935 congratulating Einstein on the EPR
+
+paper. Einstein wrote back on 19 June, explaining to Schrödinger that he, Einstein, had not written
+
+the paper and that he did not like the way it turned out: “I was very pleased with your detailed letter,
+                                                             Howard/Shimony Festschrift—Page 12
+
+which speaks about the little essay. For reasons of language, this was written by Podolsky after
+
+many discussions. But still it has not come out as well as I really wanted; on the contrary, the main
+
+point was, so to speak, buried by the erudition” (EA 22-047). Here goes on in this letter to explain
+
+what he had intended. In principle, the argument is the same as that sketched above in connection
+
+with the photon box thought experiment. Consider the two previously interacting but now widely
+
+spatially separated systems, A and B, in the EPR-type thought experiment. Depending upon the type
+
+of measurement we choose to perform on A, quantum mechanics has us assigning different
+
+theoretical states (different ø-functions) to B. Einstein says that if we assume a “separation
+
+princple” [“Trennungsprinzip”], according to which the separate real state of B cannot be influenced
+
+by events in the vicinity of A, then there will be one and only one reality pertaining to B, regardless
+
+of what we do in the vicinity of A. But that means that quantum mechanics has us assigning
+
+different theoretical states to the same real state. According to Einstein, it follows that these
+
+theoretical states must therefore be incomplete.5
+
+       The “separation principle” of the 19 June 1935 letter to Schrödinger conflates two issues,
+
+namely, the two systems possessing separate real physical states by virtue of their spatial separation
+
+and one of these state’s not being capable of being influenced by events in the vicinity of the other
+
+system. The first, which is what will now be designated more carefully than heretofore a
+
+“separability” principle, seems to require only a spatial separation between the two systems. The
+
+latter, which will be dubbed a “locality” condition, seems to require, beyond that, a spacelike
+
+separation between the measurements we perform on the two systems, since it is obviously
+
+motivated by special relativistic locality concerns. It is important that separability and locality be
+
+distinguished. Separability is denied by the quantum mechanical theory of interactions, which
+                                                               Howard/Shimony Festschrift—Page 13
+
+ascribes a non-factorizable joint state to previously interacting systems. It is invalid, indeed, for any
+
+theory that would incorporate the individuation schema implicit in Bose-Einstein statistics.
+
+Quantum mechanics does not, however, violate locality.
+
+        It was only in the late 1940s that Einstein clearly disentangled separability from locality.
+
+One of the most interesting discussions that evinces this clearer understanding is his 1948 essay,
+
+“Quanten-mechanik und Wirklichkeit,” which appeared in a special issue of the Swiss journal,
+
+Dialectica, that was edited by Pauli and entirely devoted to the interpretation of quantum
+
+mechanics. Here is the crucial passage:
+
+        If one asks what is characteristic of the realm of physical ideas independently of the
+        quantum-theory, then above all the following attracts our attention: the concepts of physics
+        refer to a real external world, i.e., ideas are posited of things that claim a “real existence”
+        independent of the perceiving subject (bodies, fields, etc.), and these ideas are, on the other
+        hand, brought into as secure a relationship as possible with sense impressions. Moreover,
+        it is characteristic of these physical things that they are conceived of as being arranged in
+        a space-time continuum. Further, it appears to be essential for this arrangement of the things
+        introduced in physics that, at a specific time, these things claim an existence independent
+        of one another, insofar as these things “lie in different parts of space.” Without such an
+        assumption of the mutually independent existence (the “being-thus”) of spatially distant
+        things, an assumption that originates in everyday thought, physical thought in the sense
+        familiar to us would not be possible. Nor does one see how physical laws could be
+        formulated and tested without such a clean separation. Field theory has carried out this
+        principle to the extreme, in that it localizes within infinitely small (four-dimensional) space
+        elements the elementary things existing independently of one another that it takes as basic,
+        as well as the elementary laws it postulates for them.
+                 For the relative independence of spatially distant things (A and B), this idea is
+        characteristic: an external influence on A has no immediate effect on B; this is known as the
+        “principle of local action,” which is applied consistently only in field theory. The complete
+        suspension of this basic principle would make impossible the idea of the existence of (quasi-
+        ) closed systems and, thereby, the establishment of empirically testable laws in the sense
+        familiar to us. (Einstein 1948, pp. 321-322)
+
+What Einstein here calls the “mutually independent existence of spatially distant things” is what I
+
+call separability. His “principle of local action” is what I call locality. Both are deemed necessary
+                                                             Howard/Shimony Festschrift—Page 14
+
+for the doing of science. Without separability, says Einstein, “physical thought in the sense familiar
+
+to us would not be possible.” Denying locality would make impossible “the establishment of
+
+empirically testable laws in the sense familiar to us.” Why locality is necessary to secure the
+
+existence of closed systems is clear. Why separability is necessary for physical thought is not, at
+
+least not immediately. I will return to this question in a moment.
+
+       What is most important in this passage for our purposes is what Einstein says about field
+
+theories and separability: “Field theory has carried out this principle to the extreme, in that it
+
+localizes within infinitely small (four-dimensional) space elements the elementary things existing
+
+independently of one another that it takes as basic, as well as the elementary laws it postulates for
+
+them.” What Einstein seems to be saying is that, in effect, a classical field theory like general
+
+relativity provides an extreme embodiment of the separability principle because it treats each point-
+
+event in the spacetime manifold as a separate physical system endowed with its own separate
+
+physical reality in the form of, presumably, the value of the metric tensor at that point.
+
+       If field theories like general relativity are privileged by their thus providing extreme
+
+embodiments of the separability principle that quantum mechanics denies, then it is all the more
+
+important that we understand why separability is thought to be necessary for “physical thought in
+
+the sense familiar to us.” An important clue is contained in comments that Einstein wrote in the
+
+margins of the manuscript version of Max Born’s 1949 Waynflete lectures (Born 1949), Born having
+
+sent the manuscript to Einstein early in 1948 to get his reaction to Born’s account of their debates
+
+over the foundations of quantum mechanics. Einstein returned his comments in March of 1948.
+
+At the end he added the following long remark:
+                                                             Howard/Shimony Festschrift—Page 15
+
+       I just want to explain what I mean when I say that we should try to hold on to physical
+       reality. We are, to be sure, all of us aware of the situation regarding what will turn out to be
+       the basic foundational concepts in physics: the point-mass or the particle is surely not among
+       them; the field, in the Faraday—Maxwell sense, might be, but not with certainty. But that
+       which we conceive as existing (“actual”) should somehow be localized in time and space.
+       That is, the real in one part of space, A, should (in theory) somehow “exist” independently
+       of that which is thought of as real in another part of space, B. If a physical system stretches
+       over the parts of space A and B, then what is present in B should somehow have an existence
+       independent of what is present in A. What is actually present in B should thus not depend
+       upon the type of measurement carried out in the part of space, A; it should also be
+       independent of whether or not, after all, a measurement is made in A.
+                If one adheres to this program, then one can hardly view the quantum-theoretical
+       description as a complete representation of the physically real. If one attempts, nevertheless,
+       so to view it, then one must assume that the physically real in B undergoes a sudden change
+       because of a measurement in A. My physical instincts bristle at that suggestion.
+                However, if one renounces the assumption that what is present in different parts of
+       space has an independent, real existence, then I do not at all see what physics is supposed
+       to describe. For what is thought to be a “system” is, after all, just conventional, and I do not
+       see how one is supposed to divide up the world objectively so that one can make statements
+       about the parts. (Born 1969, pp. 223-224)
+
+So separability is the key to understanding Einstein’s realism! But what is the argument for its
+
+necessity? The argument is found in the last paragraph. Give up separability and then “I do not at
+
+all see what physics is supposed to describe.” Why? Because “what is thought to be a ‘system’ is,
+
+after all, just conventional, and [without separability] I do not see how one is supposed to divide up
+
+the world objectively so that one can make statements about the parts.”
+
+       Separability seems to be necessary for the purpose of dividing the world up into parts, this
+
+being necessary in order for us to be able to make statements about the parts. We need some
+
+conventional specification of what is to count as a system, and Einstein can see no objective way
+
+to do this other than via the scheme of individuation implicit in the separability principle. Why?
+
+       In a recent paper, I have explored the broadly Kantian background to this aspect of Einstein’s
+
+thinking about separability, arguing that it was Einstein’s reading of Schopenhauer on space and
+                                                             Howard/Shimony Festschrift—Page 16
+
+time as the principium individuationis that probably taught Einstein this lesson and that by virtue
+
+of his adopting this view he stands in an old tradition regarding space as a ground for the
+
+individuation of physical systems, a tradition reaching back at least to Newton, if not beyond that
+
+to Pythagoras (see Howard 1996). But for now let us think about this question more from a physical
+
+than from an historical point of view.
+
+       The key word in Einstein’s succinct argument for the necessity of separability is surely
+
+“objective.” Without separability Einstein can see no “objective” way of dividing the world up into
+
+parts. In what sense does separability give an objective principle of individuation? This brings us
+
+back to the previously-quoted remark about field theories like general relativity providing an
+
+extreme embodiment of the separability principle.
+
+       As noted, a field theory like relativity gives embodiment to the separability principle by
+
+treating each point of the spacetime manifold as a separate physical system: “Field theory has
+
+carried out this principle to the extreme, in that it localizes within infinitely small (four-
+
+dimensional) space elements the elementary things existing independently of one another that it
+
+takes as basic, as well as the elementary laws it postulates for them.” On one reading of this
+
+passage, it would be the existence of a non-null spatiotemporal (metric) interval between two
+
+spacetime events that serves as a sufficient principle for individuating those events. If we
+
+understand the separabiltiy condition in this way, then we might have our answer to the question
+
+why it provides the only imaginable objective scheme of individuation, for the metric interval is the
+
+fundamental invariant of the general relativistic group, and, being an invariant, is objective in a way
+
+that most other features of general relativistic spacetime, like simple spatial separation, are not. So
+
+even though Einstein sometimes speaks, loosely, of the independence of “spatially distant things,”
+                                                             Howard/Shimony Festschrift—Page 17
+
+perhaps we should, nevertheless, interpret him as assuming that the relevant objective notion of
+
+separation is that of non-null spatiotemporal separation.
+
+       One might object that this could not have been Einstein’s intention, since if we take non-null
+
+spatiotemporal separation as a sufficient condition for individuation, that would mean that we would
+
+have no basis for designating two light-like related events as separable, such as two stages in the
+
+career of a photon or two events like the emission of a photon at one location and its absorption or
+
+reflection at another location. Surely, one might argue, Einstein did not intend to have us deny the
+
+independence of two such events.         Thus, in Einstein’s version of the photon-box thought
+
+experiment, mentioned above, would not the emission, reflection, and eventual detection of the
+
+reflected photon have to count as independent events? Frankly, I do not know what Einstein’s
+
+intention was in this respect; nowhere, to my knowledge, did he comment on it specifically. But
+
+in point of fact, it is not two or more events in the career of a single photon that have to be
+
+accounted independent by terms of the logic of the photon-box thought experiment or Einstein’s
+
+own intended version of the incompleteness argument. All that is required is the independence of
+
+typically spacelike related events such as, in the case of the photon-box thought experiment, the
+
+reflection of the photon at a distant mirror and the choice either to weigh the box or to check the
+
+time of emission on the clock.
+
+       What are the alternatives to taking non-null spatiotemporal separation as sufficient for
+
+individuation? Surely it is not enough to stipulate just spacelike separation as a sufficient condition
+
+for individuation, for while that is an invariant, and thus objective notion, we certainly want to
+
+designate as independent all manner of timelike related events. Indeed, outside of the context of
+
+the quantum mechanical account of interactions, it would be causally related, which is to say
+                                                              Howard/Shimony Festschrift—Page 18
+
+timelike related events (think of the collisions of molecules) that an Einstein would need most to
+
+mark as independent for the purpose of securing the applicability of the Boltzmann principle, S =
+
+kAlogW, which is to say, the factorizing of the cell-occupation probabilities, in classical statistical
+
+mechanics.
+
+        Yet another invariant, objective notion is the existence of a non-null spatial interval in at
+
+least one frame. That would comprise spacelike, timelike, and lightlike related events, thus marking
+
+any two events anywhere in spacetime as separable, which, as I suggested above, was meaning of
+
+Einstein’s characterizing classical field theories as providing the most extreme embodiment of the
+
+separability principle. Moreover, this is not at all an implausible reading of Einstein’s talk of the
+
+mutual independence of “spatially distant things.”
+
+        On the other hand, it was that same Albert Einstein who recognized, already at the time of
+
+his 1905 paper on the photon hypothesis, that the full Planck distribution formula for black-body
+
+radiation (as opposed to just the Wien end of the formula), could be derived only if one denied to
+
+the constituents of a photon gas the kind of independence possessed by molecules as described in
+
+classical, Boltzmann statistical mechanics. And it was the same Einstein who came to understand
+
+in 1924, inspired by the work of Satyendra Nath Bose, precisely how the denial of classical
+
+assumptions of particle independence in the case of photons could be turned into a positive program
+
+for the derivation of the Planck formula. Finallly, as shall be explained in more detail shortly, it was
+
+this same Einstein who in 1920 invented what is today, sadly, a too-little-known argument to the
+
+effect that general relativistic covariance considerations actually entail the indistinguishability and
+
+hence the non-independence of particles, like photons, that act as the carriers of a field. On the face
+
+of it, of course, it is one thing to deny the mutual independence of two photons and quite another
+                                                             Howard/Shimony Festschrift—Page 19
+
+to deny the independence of two events in the career of a single photon. Yet a closer considertion
+
+of Einstein’s mentioned argument from covariance to indistinguishability will show that there is
+
+less of a difference between these two denials of independence than might at first appear to be the
+
+case.
+
+        Thus, the first proposed reading of Einstein’s conception of separability, namely, as resting
+
+on the presence of a non-null spatiotemporal interval—rather than the existence of a non-null spatial
+
+interval in at least one frame—may well not be too far from the mark, even with its possibly
+
+paradoxical implication that two events in the career of a single photon are not independent of one
+
+another. In any case, even if one wants to argue for the weaker, more inclusive condition of the
+
+existence of a non-null spatial separation in at least one frame, the stronger condition of separation
+
+by a non-null spatiotemporal interval still works as a sufficient condition for individuation. The
+
+disagreement would be over whether or not it should also be a necessary condition. In section 4,
+
+below, this feature of the spatiotemporal interpretation of Einstein’s separability condition will be
+
+turned to advantage in my sketch of a “Pauli program” for fundamental physics.
+
+        It should now be possible to understand better why Einstein attacked the quantum theory
+
+with such conviction and tenacity. Separability is necessary because, in its infinitesimal, four-
+
+dimensional, classical field theoretic embodiment, it provides the only objective criterion of
+
+individuation. But quantum mechanics denies separability. Quantum mechanics is therefore not
+
+merely incomplete, it is downright incoherent for Einstein. All the more unfortunate for Einstein’s
+
+case then that precisely this feature of the quantum theory seems to be gain in credibility thanks to
+
+Bell’s theorem and the results of the Bell experiments, to which I now turn.
+                                                             Howard/Shimony Festschrift—Page 20
+
+3. Shimony, Jarrett and Bell: The Experimental Evidence for Quantum Nonseparability.
+
+       One of the reasons why Einstein’s disentangling the respective roles of the separability and
+
+locality assumptions was so important is because there is a way of telling the story of Bell’s theorem
+
+and the Bell experiments that places essentially those two principles at center stage. The crucial
+
+step toward this new understanding of Bell’s theorem was taken by Jon Jarrett in his 1983 University
+
+of Chicago dissertation, written under the direction of Howard Stein and David Malament (Jarrett
+
+1983). Let me summarize what I am now taking the separability and locality principles to assert,
+
+and then let me briefly outline what I like to call the Jarrett decomposition theorem.
+
+       Separability Principle: Regardless of their history of interaction, any two systems, A and B,
+       separated by a non-null spatiotemporal interval possess their own separate real states, of
+       such kind that the joint state is completely determined by the separate states.
+
+       Locality Principle: Given any two space-like separated systems, A and B, the separate real
+       state of B, say, cannot be influenced by events (such as the choice of an observable to
+       measure, say by rotating a Stern-Gerlach apparatus plus detectors) in the vicinity of system
+       A.
+
+(In the statement of both the separability and locality conditions, reference to separations between
+
+systems should be taken as shorthand for separation between the relevant events in which those
+
+systems figure, such as two measurement events or the “events” of the two systems’ merely being
+
+at specific spacetime points. )
+
+                             Figure 1 Schematic of Bell Experiment
+                                                                Howard/Shimony Festschrift—Page 21
+
+        To understand what Jarrett proved with his decomposition theorem, first recall the original
+
+Bell locality condition, which may be written in this form:6
+
+                                   pëAB(x,y*i,j) = pëA(x*i) @ pëB(y*j).                             (BL)
+
+The superscripts A and B refer to the two wings of the typical Bell experiment, as illustrated
+
+schematically in Figure 1. The joint state of the composite system is represented by ë. The symbols
+
+i and x represent, respectively, the observable to be measured in the A wing and its possible values,
+
+while j and y represent the observable measured in the B wing and its possible values. In this form,
+
+then, the Bell locality condition says that for a composite system in joint state ë the joint probability
+
+of outcomes x and y for measurements of observables i and j in the A and B wings, respecitvely, is
+
+equal to the prodouct of the separate probabilities.
+
+        Jarrett proved that the Bell locality condition is actually a conjunction of two logically
+
+independent conditions (Jarrett 1983, 1984; Ballentine and Jarrett 1987; Shimony 1986). Jarrett
+
+calls one of these the locality condition:7
+
+                                          pëA(x*i,j) = pëA(x*i),                                  (JL-A)
+
+                                          pëB(y*i,j) = pëB(y*j).                                  (JL-B)
+
+This condition says that the outcome in A wing is statistically independent of the choice of a
+
+parameter to measure in the B wing and, conversely, that the outcome in the B wing is independent
+
+of the choice of a parameter to measure in the A wing. Thus, Shimony call this condition
+
+“parameter independence.” Jarrett calls this the locality condition because it is supposed to capture
+
+the physical content of special relativistic locality constraints more precisely than the original Bell
+
+locality condition, and, indeed, special relativity would seem to require that the act of setting the
+                                                                 Howard/Shimony Festschrift—Page 22
+
+apparatus in , say, the B wing, if it were spacelike separated from a measurement event in the A
+
+wing, should not affect the outcome of that measurement.
+
+        Jarrett calls the other condition the completeness condition:
+
+                                         pëA(x*i,j,y) = pëA(x*i,j),                           (COM-A)
+
+                                         pëB(y*i,j,x) = pëB(y*i,j).                           (COM-B)
+
+From a mathematical point of view, the content of this condition is clear. It says that the outcome
+
+in each wing should be statistically independent of the outcome in the other wing, which is why Shi-
+
+mony calls it “outcome independence.” The physical content is much less clear, until we see that
+
+it is, essentially, identical to the separability condition.
+
+        The proof that the Bell locality condition is equivalent to the conjunction of Jarrett’s locality
+
+and completeness conditions is quite straightforward; for details, the reader is referred to standard
+
+presentations (see especially Jarrett 1984 and Ballantine and Jarrett 1987). Our interest is in the
+
+relation between Jarrett’s completeness condition and separability.
+
+        In order to prove to prove that outcome independence or completeness (COM) is equivalent
+
+to a separability condition, we must be careful about the state concept that we employ. I define a
+
+state ë as a conditional probability measure pë(x*m) assigning a probability to a measurement result
+
+x, conditional upon the presence of a measurement context m. This is, by intention, a very general
+
+state concept. Designed to facilitate the comparison of the ontologies of diverse theories, it is
+
+supposed to comprise the state concepts of both the quantum theory and general relativity. Thus,
+
+a ray in a Hilbert space can be made to generate such a probability measure, as can the metric tensor
+
+at a point of the spacetime manifold. For our purposes, it makes no difference that, in the latter
+
+case, which is a deterministic theory, the probabilities are all zero or one. I might also add that
+                                                               Howard/Shimony Festschrift—Page 23
+
+while it is not essential for the sake of the proof to follow, it is nevertheless natural, from a physical
+
+point of view, to interpret states as I have defined them here as corresponding to physical
+
+propensities, which is to say, real dispositions of physical systems to display certain properties in
+
+certain contexts.8
+
+        Systematic reference to the measurement context, m, is a crucial feature of the concept of
+
+a physical state. Failure to “contextualize” the state concept has historically, I think, obscured the
+
+difference between separability and locality conditions as well as the connection between a
+
+separability condition and outcome independence. Think of the context, for the moment as
+
+consisting of the whole universe in which a measurement event is located, including events outside
+
+of the measurement’s forward and backward light cones, events spacelike separated from the
+
+measurement event.       Conditionalizing thus on the context allows for the possibility that
+
+measurement results might be influenced by events that are spacelike separated from the
+
+measurement, this disposition to repsond differentially to events in spacelike separated regions of
+
+the universe being thus a part of the very reality that the state in question in supposed to represent,
+
+as opposed to being seen only as an influence on that reality. Omitting explicit reference to the
+
+context from the state concept, say by defining states simply as probability measures assigning
+
+probabilities to measurement outcomes, means that we are implicitly taking all states to be local
+
+states, which in turn makes it hard, both conceptually and mathematically, to distinghish the
+
+different varieties of possible influences on measurement outcomes. Make the context part of the
+
+state concept and then one can distinguish failures of locality or parameter independence from
+
+failures of outcome independence or separability.
+                                                                  Howard/Shimony Festschrift—Page 24
+
+        For our immediate purposes, we can think of the context as including only the observables
+
+to be measured in each wing. Thus, one should read an expression like pë(x*i,j) as representing a
+
+state ë that assigns a probability to measurement result x, in a context in which observable i is
+
+measured in the A wing, and observable j is measured in the B wing.9
+
+        To prove that outcome independence or completeness is equivalent to a separability
+
+condition, we must first formulate the latter in an appropriate manner. Thus, two systems A and B
+
+will be said to be separable if there exist separate states á and â for these systems, such that
+
+                                  pëAB (x,y*i,j) = páA(x*i,j) @ pâB(y*i,j),                       (SEP)
+
+with ë representing the joint state of A and B together. One can easily show that (SEP) is closely
+
+related to the ordinary quantum mechanical definition of separable systems, according to which the
+
+joint state is a tensor product of the separate states, i.e., øAB = øA q ø B, inasmuch a pairs of systems
+
+satisfying this latter condition satisfy (SEP) and pairs of systems that are nonseparable in the
+
+quantum mechanical sense violate (SEP). Furthermore, it should be evident that two systems
+
+satisfying the separability principle defined a few paragraphs earlier, which asserted that two
+
+spatiotemporally separated systems possess separate reals states of such a kind that their joint is
+
+exhaustively determined by the separated states, also satisfy (SEP) and that violating the separability
+
+principle would violate (SEP), given, that is, the state concept being employed here.
+
+        (SEP) is a factorizability condition, but it is not equivalent to Bell-locality (BL), for on the
+
+right-hand side of (SEP), unlike the right-hand-side of (BL), we conditionalizes on both i and j. For
+
+that reason, (SEP) makes no assumption about whether or not Jarrett locality holds.
+
+        To prove that (SEP) is equivalent to (COM), one first introduces the following
+
+identifications:
+                                                                    Howard/Shimony Festschrift—Page 25
+
+                                           páA(x*i,j) = pëA(x*i,j),                                  (1)
+
+                                           pâB(y*i,j) = pëB(y*i,j).                                  (2)
+
+From the definitions of joint and conditional probablity we have
+
+                                 pëAB(x,y*i,j) = pëA(x*i,j,y) @ pëB(y*i,j),                          (3)
+
+which, for the case where pëB(y*i,j)      0, can be rewritten in the form:
+
+                                 pëA (x*i,j,y) = pëAB(x,y*i,j) / pëB(y*i,j).                         (4)
+
+From equation (4) and (SEP) one gets immediately
+
+                           pëA (x*i,j,y) = [ páA (x*i,j) @ pâB (y*i,j) ] / pëB(y*i,j).               (5)
+
+(COM-A) follows from (5) with (1) and (2). An analogous derivation yields (COM-B) from (SEP).
+
+To complete the other half of the proof of equivalence, note that equation (3) and (COM-A) yield
+
+                                   pëAB(x,y*i,j) = pëA(x*i,j) @ pëB(y*i,j).                          (6)
+
+(SEP) follows directly from (6) together with (1) and (2). Since (SEP) and (COM) imply one
+
+another, they are logically equivalent.
+
+        We have already seen Einstein arguing that both the locality and separability principles, but
+
+especially the latter, are virtually a priori conditions for the very possibility of a physical science.
+
+Locality was said to be necessary to insure the existence of systems that are “closed,” or at least
+
+screened off from extraneous influences, in a manner sufficient to allow us to ascribe measurement
+
+results to the systems putatively undergoing measurement. Separability was said to be constitutive
+
+of the very concept of physical reality itself. Now we see that their conjunction—upon which
+
+Einstein based his incompleteness argument—also entail the Bell locality condition, meaning that
+
+the experimental confirmation of quantum-mechanically predicted violations of the Bell inequality
+
+now force us to abandon one or the other (or both) of locality and separability.
+                                                             Howard/Shimony Festschrift—Page 26
+
+        Quantum mechanics, we now understand, works in the context of the Bell experiments by
+
+virture of its being a local, nonseparable theory. Bohm-type hidden variable theories, which are
+
+empirically equivalent to quantum mechanics in the context of the Bell experiments, pull off the
+
+same trick by being separable—all systems at all times possess their own, individual states, such that
+
+joint states factorize—but nonlocal, the nonlocality being found in the quantum potential.
+
+        Which is the right choice? Bohr or Bohm? The answer seems simple: If we do not want
+
+to repudiate special relativistic locality constraints, then we must choose the quantum mechanical
+
+path, meaning locality but nonseparability. My guess is that even Einstein would have concurred
+
+in this choice, given the news about the results of the Bell experiments, because separability
+
+partakes more of the character of a constructive model, whereas locality has more the character of
+
+those high-level empirical generalizations that Einstein dubbed “principles” and that he thought
+
+should serve as regulative principles guiding our search for possible constructive models of the
+
+phenomena.10
+
+        What Einstein would have chosen is not, however, the important issue. We are the ones who
+
+must choose and what is imporant in that connection is our understanding the physical implications
+
+of our choice. Foremost among those is that, if we take the quantum mechanical path, then the
+
+spatiotemporal mode of individuation for physical systems that Einstein thought essential to the
+
+classical field theoretic approach of general relativity must be abandoned. That is to say that, the
+
+results of the Bell experiments do not threaten special relativity; they threaten, instead, general
+
+relativity.
+
+4. A “Pauli Program” Program for Fundamental Physics
+                                                               Howard/Shimony Festschrift—Page 27
+
+         So the situation is this. Einstein rightly believed that field theories like general relativity,
+
+which assign a determinate value of the fundamental field parameter—the metric tensor in general
+
+relativity—to every point of spacetime, represent an extreme embodiment of spatiotemporal
+
+separability, since, in effect, they treat each point of the spacetime manifold as a physical system
+
+endowed with its own well-defined physical state, separate from the physical states of all of its
+
+neighbors, near and far, excepting perhaps those with which it is lightlike related. Einstein thus
+
+takes any nonnull, even infinitesimal spatiotemporal separation as a sufficient condition for
+
+regarding two points or regions of spacetime as separate and separable physical systems, this latter
+
+possibility being secured by the fact that the infinitesimal metric interval is the fundamental
+
+invariant of the general relativistic class of transformations, and hence an objective feature of
+
+general relativistic spacetime.
+
+         On the other hand, Bell’s theorem and the results of the Bell experiments must be read as
+
+confirming the quantum mechanical violations of spatiotemporal separability, if, that is, we agree
+
+not to admit nonlocalities of the kind prohibited by special relativistic prohibitions on superluminal
+
+physical effects. But this means that we have discovered a fundamental incompatibility between
+
+general relativity and quantum mechanics at the level of the fundamental ontologies of the two
+
+theories: General relativity requires separability, quantum mechanics denies it, and experience, in
+
+the form of the Bell experiments, suggests that quantum mechanics is right and general relativity
+
+wrong.
+
+         The conflict between general relativity and quantum mechanics at the level of their
+
+fundamental ontologies suggests that any ontologically naive unification program is bound to fail,
+
+that gravitation will not be incorporated into a unified approach to fundamental physics by anything
+                                                             Howard/Shimony Festschrift—Page 28
+
+so simple as quantizing the gravitational field. Another approach is needed, one that begins with
+
+the lessons of quantum nonseparability at the level of fundamental ontology. In line with Pauli’s
+
+suggestion to Heisenberg, it is this alternative approach that I want to call a “Pauli program” for
+
+fundamental physics. What would such a program look like?
+
+       In an earlier paper, I deliberately urged an unblushingly metaphysical approach to the
+
+question of how quantum nonseparability might be incorporated into a fundamental understanding
+
+of nature, with special reference to the task of imagining alternatives to general relativistic
+
+spacetime as the context in which such a fundamental theory should be located. I toyed there with
+
+ideas like higher-dimensional spaces, where systems separated in ordinary four-dimensinal
+
+spacetime would be immediately adjacent in one or more higher dimensions, or miniature
+
+wormholes providing backdoor connections in spacetime (Howard 1989). Here, again, I want to
+
+focus on questions of spacetime structure, but I now want to pursue a different, more “Einsteinian”
+
+approach, and this in two respects.
+
+       First, Einstein was famous for arguing that progress is more likely to be made in a new
+
+theoretical domain not by seeking, too early, a constructive model of the phenomena, but instead
+
+by identifying a few well-confirmed, high-level empirical generalizations, like the light and
+
+relativity principles in special relativity or the Boltzmann principle in statistical physics, that can
+
+serve as regulative principles guiding the search for a constructive model (Einstein 1919). Newton
+
+advocated a similar approach, especially in his early work on the constitution of light, where he
+
+cautioned his critics, like Hooke, not to “mingle conjectures with certainties,” “conjecture” being
+
+hypothetical models for the constitution of light, “certainties” being high-level empirical
+
+generalizations about the constitution of light of the kind confirmed in Newton’s prism experiments
+                                                            Howard/Shimony Festschrift—Page 29
+
+(see Howard 1991). What would be the corresponding “principles” or “certainties” that might
+
+govern the search for conjectural, constructive models of a nonseparable quantum spacetime?
+
+       The obvious answer is nonseparability itself, understood first and foremost as a restriction
+
+on the kinds of statistical correlations between previously interacting systems that a Pauli program
+
+can admit, and by extension both as a constraint on the kind of joint state functions that are to be
+
+assigned to previously interacting systems, and as a constraint on the basic ontology itself, at the
+
+level of the method whereby we individuate the physical systems that are the possessors of those
+
+physical states. What kind of constraint on the joint state functions? If states are taken to be
+
+assignments of joint probabilities to ordered pairs of contexts and outcomes, as explained in section
+
+3 above, then the joint state functions must not be decomposable into separate state functions. What
+
+kind of constraint on the basic ontology itself? At least by way of example, non-null spatiotemporal
+
+separation may not be taken as a principle or ground for the individuation of otherwise identical
+
+fundamental physical systems.
+
+       The spacetime event ontology of general relativity does not satisfy these constraints. Let us
+
+pause to reflect, for a moment, on how it was that we nevertheless thought our way to a spacetime
+
+theory whose fundamental ontology now proves to be unacceptable. Newton invented spacetime
+
+as the ground against which systems interacting gravitationally and their states were to be
+
+individuated, space individuating the systems and time individuating the states of those systems.
+
+The gravitational field, which was a metaphysical puzzle for Newton, was invented as a device for
+
+explaining gravitational interactions without assuming either action-at-a-distance or some kind of
+
+mysterious, Leibnizian pre-established harmony.
+                                                              Howard/Shimony Festschrift—Page 30
+
+        Spacetime and the gravitational field were married by Einstein when he elevated the
+
+equivalence of inertial and gravitational mass to the level of principle, and thus was effected a
+
+considerable ontological economy, since, once the two were conjoined, we had one and the same
+
+structure doing both the mediating of gravitational interactions in a local fashion and the
+
+individuating of the interacting systems in a separable manner. Not only that, but with the
+
+relativistic merger of space and time into spacetime, we now had just one structure, spacetime,
+
+individuating both systems and their states, which is to say that the distinction between systems and
+
+states of systems also loses its fundamental siginificance in the event ontology of relativity. Further
+
+simplification came via Einstein’s choice to enlarge the relevant group from the Lorentz group to
+
+the general relativistic group, a move that was not only possible, but in a sense natural, since neither
+
+mediation nor individuation required the invariance of finite spatiotemporal intervals, the invariance
+
+of the infinitesimal metric interval in general relativity being all that was needed for either purpose.
+
+Electricity and magnetism had already been given a home in the relativistic spacetime framework
+
+when, with the development of special relativity, the Galilean group was replaced by the Lorentz
+
+group, the latter being the implicit invariance group for Maxwell’s equations.
+
+        Quantum mechanics was born out of the effort to understand the peculiar non-Boltzmannian
+
+statistics that emerge when we examine the interaction of electromagnetic radiation with ponderable
+
+matter, that is with systems having non-null gravitational mass, the photon eventually being invented
+
+as the massless carrier of electromagnetic energy. As long as we considered either electromagnetic
+
+interactions between charged particles (where inertial mass still plays a role in parameterizing a
+
+system’s resistance to changes in its state of motion due to electromagnetic forces) or purely
+
+gravitational interactions (with inertial mass here parameterizing a system’s resistance to changes
+                                                              Howard/Shimony Festschrift—Page 31
+
+in its state of motion due to gravitational forces), no quantum theory was needed. Again, quantum
+
+phenomena came to the fore only when we asked about what might be termed “mixed” interactions:
+
+electromagnetic effects on bodies capable also of feeling gravitational effects thanks to their
+
+gravitational mass. And what was found for those situations was that the non-Boltzmannian
+
+statistics were most naturally generated by adopting a non-classical scheme for the individuation
+
+of the relevant physical systems, with non-null spatiotemporal separation no longer being a
+
+sufficient condition for endowing two (or more) interacting systems with trackable identities, herein
+
+lying the germ of quantum nonseparability.
+
+        Quite apart from the nonseparability that emerges in quantum mechanics, there were already,
+
+as mentioned before, some puzzling features about the way the photon, the carrier of
+
+electromagnetic energy, lives in relativistic spacetime.        Most importantly, even though the
+
+infinitesimal metric interval is the fundamental invariant of general relativity, its objectivity thereby
+
+securing the possibility of the spatiotemporal mode of individuation of physical systems so prized
+
+by Einstein, nevertheless, there is a null separation between any two lightlike related events and
+
+hence between any two stages in the career of a single photon. The same will be true for any
+
+massless particle “traveling” at the speed of light. This is a consequence of our doing physics on
+
+a spacetime manifold with Lorentz signature.
+
+        Let’s stop and think for a moment about what this feature of photon trajectories entails. In
+
+particular, let’s think more systematically about the consequences of interpreting the existence of
+
+a non-null spatiotemporal separation as a necessary condition for individuation. Historically, of
+
+course, non-null spatiotemporal separation was read as both a sufficient and a necessary condition
+
+for individuation. Its role as a necessary condition for individuation is implicit in the classical
+                                                               Howard/Shimony Festschrift—Page 32
+
+definition of matter or a material body, according to which no two pieces of material substance
+
+could occupy the same place at the same time. For, in effect, this definition says that if two pieces
+
+of material substance do occupy the same place at the same time, that is, if they are separated by a
+
+null spatiotemporal interval, then they are not two, but one. Moreover, the idea that non-null
+
+spatiotemporal separation is a necessary condition for individuation also played, historically, a
+
+crucial, if not always clearly articulated role in our thinking about the distinguishability of particles.
+
+Because if we permitted two different pieces of matter to occupy the same portion of space at the
+
+same time, then two otherwise identical particles could interpenetrate and exchange identities in a
+
+“collision,” the only kind of purely mechanical interaction in classical mechanics. But if pariticle
+
+identities could be exhanged in a collision, we would no longer have trackable particle identities and
+
+so, for example, the Boltzmann principle would no longer be valid in statistical mechanics.
+
+        What was never contemplated classically was the existence of a non-null spatitemporal
+
+interval between lightlike related events in spacetimes with Lorentz signature. If non-null
+
+spatiotemporal separation is regarded as a necessary condition for individuating two systems, then
+
+two events lying on a lightlike trajectory will not be endowed with separate identities. However
+
+widely separated in space or time two such events may appear to some observer, if they represent
+
+two points on the world-line of a photon they would not then qualify as separable systems.
+
+        In general relativistic spacetime, there is one other circumstance under which two systems
+
+find themselves separated by a null interval, namely, when their worldlines intersect, as when a
+
+neutral particle scatters from another particle, a particle-antiparticle pair is produced by pair
+
+creation, or a particle decays, yielding two or more offspring particles as decay products. So here
+
+too, if the presence of a non-null spatiotemporal interval is supposed to be a necessary condition for
+                                                             Howard/Shimony Festschrift—Page 33
+
+individuating physical systems, two systems whose world-lines intersect would not be capable of
+
+being individuated, at least at the point where their world-lines intersect. But that means that if we
+
+discount purely gravitational interactions (and ignore, for the moment, strong and weak nuclear
+
+interactions), general relativistic spacetime already has within it structure that to some extent
+
+mimics the pattern of individuation typical of quantum mechanics for all interacting systems.
+
+       Can we build upon this insight in such a way as to elicit from general relativistic spacetime
+
+itself enough structure so as to reproduce the characteristic quantum mechanical pattern of
+
+individuation? I think that the answer may be yes, and this is the second respect in which I want to
+
+pursue here a more “Einsteinian” approach to spacetime and individuation.
+
+       Let me give a provisional formulation of the idea that I have in mind as a principle that I will
+
+dub the QM-GR principle of individuation:
+
+       I. Any two systems, A and B, that were anywhere separated by a non-null spatiotemporal
+       interval in their causal pasts are to be regarded as separable systems at all points in their
+       causal futures unless (1) their world-lines intersect, or (2) their world-lines are both
+       intersected by the world-line of a photon. In either of these cases, systems A and B are to
+       be regarded as nonseparable at all points in the causal future(s) of the intersection(s), unless
+       condition II obtains.
+
+                         Figure 2 Ways of Engendering Nonseparability
+                                                            Howard/Shimony Festschrift—Page 34
+
+       II. Any two nonseparable systems, A and B, are to be regarded as separable systems at all
+       points in the causal futures of any intersection of either A or B with a third system C, as in
+       I. (1) above, or with a photon emitted by a third system C, as in I. (2) above.
+
+                         Figure 3 Ways of Breaking the Nonseparability
+
+       Notice how this principle of individuation differs from Einstein’s way of using the point
+
+structure of the manifold. For Einstein, any non-null spatiotemporal interval was a sufficient
+
+condition for individuating two physical systems. Thus, even if the world lines of two systems
+
+intersected, from the moment after their intersection Einstein’s spatiotemporal individuation
+
+principle would count them as once again as separable systems. The proposal under consideration
+
+here would not.
+
+       At the root of the difference between Einstein’s spatiotemporal principle of individuation
+
+and the QM-GR principle of individuation is the fact that Einstein in effect wants to allow the
+
+individuation of physical systems in spacetime to be induced by the underlying individuation of the
+
+points of the manifold itself, each point corresponding to a separate physical system. By contrast,
+
+I am trying to tease a quantum mechanical scheme of individuation out of the worldline structure.
+
+That Einstein wanted to proceed as he did should come as no surprise. Newtonian space tacitly
+
+individuated systems in the same way, every point of space being, at least potentially, if God wills
+                                                             Howard/Shimony Festschrift—Page 35
+
+it, a point particle.11 The concept of the topological manifold is the descendent of Newtonian space,
+
+its more immediate ancestor being the n-dimensional Riemannian manifold ún. One can take away
+
+from ún all remnants of the idea of individuation via coordinatization, but that still leaves a bare
+
+manifold with a built-in notion of the individuation of its points via their separations, albeit not in
+
+any metrical sense, from their neighbors. Thus, Einstein’s wanting to use the point structure of the
+
+spacetime manifold as the basis for his scheme of individuation means that he is just being true to
+
+the Newtonian tradition on individuation, which I mentioned above had been passed on to Einstein
+
+through Kant and Schopenhauer.
+
+       The QM-GR principle of individuation, however, uses not the point structure of the
+
+manifold, but the worldline structure. It would therefore be desirable, perhaps, to try to free the
+
+formulation of that principle from all vestiges of notions borrowed from the point structure, such
+
+as talk of non-null spatiotemporal interval between two systems during their history prior to some
+
+interaction of interest, as in clause (I). Though I will not attempt such an explicit reformulation
+
+here, there should be no obstacle to our doing so, since all that we need from the point of view of
+
+the QM-GR principle of intervention is a more basic notion of non-coincidence. The reference to
+
+the metrical notion of the null interval between two events that are lightlike related, which led to
+
+our conferring special status on photon worldlines, can be replaced by a definition of photon
+
+worldlines that turns upon their role in determining the lightcone structure of general relativistic
+
+spacetime. We need the lightcone structure also to ground the notions of causal past and causal
+
+future. Thus, we should be able to succeed in the attempt to construct a QM-GR principle of
+
+individuation with nothing more than world lines, the concept of the intersection of world lines, and
+
+the lightcone structure.
+                                                             Howard/Shimony Festschrift—Page 36
+
+       There are independent reasons for trying to free ourselves from reliance on the point
+
+structure of the manifold in favor of the world line structure, reasons stemming from Einstein
+
+himself. They are to be found in the so-called point-coincidence argument that Einsetin developed
+
+in the effort to get around the error of the “hole argument,” the fallacious argument that contributed
+
+the three-year delay in Einstein’s affirmation of the correction general relativistic field equations.
+
+Einstein realized that the problem at the root of the hole argument was a confusion over the
+
+individuation of the points of the spacetime manifold. In 1912, at the time of the hole argument,
+
+Einstein wrongly believed that a coordinatization of the manifold was sufficient for individuating
+
+its points, overlook the fact that coordinatizations are not invariant.          When he rejected
+
+coordinatization as a principle of individuation in late 1915, he proposed that we instead take the
+
+points of the manifold to be defined implicity, and thus individuated as points of intersection of
+
+world lines. This is, to be sure, not the only way around the error of the hole argument, as John
+
+Norton has shown using the notion of “Leibniz equivalence” to construct equivalence classes of
+
+isomorphic physical spacetimes (see, for example, Norton 1989). On the other hand, John Stachel
+
+has taken the central idea of the point-coincidence argument as a reason for urging that we replace
+
+the point manifold with fiber bundles as the appropriate and natural framework within which to do
+
+general relativity (see Stachel 1986a, 1986b).12
+
+       Following up Einstein’s idea of defining spacetime events as points of intersection of world
+
+lines leads us to another feature of relativistic spacetime that turns out to have peculiar and
+
+surprising relevance to our worries about individuation and thus to provide yet another point of
+
+purchase for a “Pauli program” for fundamental physics. The central insight is, again, Einstein’s.
+
+In his 1920 lecture, Äther und Relativitäts-Theorie (Einstein 1920), Einstein came up with what at
+                                                             Howard/Shimony Festschrift—Page 37
+
+the time he believed was a relativistic argument agains any residual notion of substance in physics.
+
+He argued that the electromagnetic field (and the gravitational field, for that matter) could not be
+
+viewed as being carried by a sea of material particles, because such particles, having trackable
+
+identities, would therefore possess trajectories that would, in effect, define a privileged frame of
+
+reference, somewhat like an ether frame. Thus, covariance considerations ruled out the field’s being
+
+carried by material field particles.
+
+       As best I can tell, Einstein let this idea drop, never returning to in later publications or
+
+correspondence. That he did so is unfortunate, because had he taken the idea up again after the
+
+discovery in 1924 of the fundamental significance of the statistics of indistinguishable particles, he
+
+might have realized that the argument could be run in a different direction. For one can turn
+
+Einstein’s original insight around in the following way. One can argue that if there are to be
+
+material particles acting as carrier of electromagnetic (or any other species of) field energy, then
+
+covariance considerations alone require them to be indistinguishable particles as the only way to
+
+guarantee that their presence in spacetime does not pick out a privileged frame of reference. Their
+
+being indistinguishable means that there is no one uniquely correct way of connecting up different
+
+“photon- events,” if you will, into photon trajectories.
+                                                            Howard/Shimony Festschrift—Page 38
+
+       Curiously, this idea was taken up by Hans Reichenbach in his 1928 Philosophie der Raum-
+
+Zeit-Lehre. Reichenbach also failed to see that Einstein’s insight could be turned into a covariance
+
+argument for indistinguishability, or at least that is not how he presented the argument. His concern
+
+was to show merely that the existence of “material fields” carried by indistinguishable particles
+
+created problems for the concept of genidentity as the appropriate notion of identity for systems
+
+characterized by world lines in spacetime. This is because the indistinguishability of the field
+
+particles induces an underdetermination in the way we lay world lines into spacetime, an
+
+underdetermination that Reichenbach dubbed the “arbitrariness of striations” (“Willkürlichkeit der
+
+                                                          Zerspaltung”) (Reichenbach 1928, pp.
+
+                                                          270-271). Reichenbach illustrated this
+
+                                                          arbitrariness with a diagram that makes
+
+                                                          vivid the way indistinguishability blocks
+
+                                                          any univocal of photon-events into photon
+
+                                                          world lines.
+
+                                                                  An argument for the indistinguish-
+
+                                                          ability of photons (or the particle-like
+
+                                                          carriers of any other species of field
+
+         Figure 4 Arbitrariness of Striations             energy) from covariance considerations
+          (After Reichenbach 1928, p. 271)
+                                                          alone is remarkable. But for all that it
+
+promises new insights into the relation between spacetime structure and the individuation of
+
+physical systems, it also raises many new questions. Foremost among these would have to be the
+
+following: If there is no unique way of laying photon trajectories into spacetime, on pain of
+                                                            Howard/Shimony Festschrift—Page 39
+
+privileging an “ether frame,” then what happens to the notion of conformal or light cone structure?
+
+It may have been worries such as this that deterred Einstein from pursuing the argument himself.
+
+Instead of being deterred, however, we might ask whether or not an underdetermination of the
+
+causal structure of spacetime, as required for the purpose of accommodating indistinguishable
+
+particles in spacetime in a covariant way, might not itself offer yet deeper glimpses into the
+
+connection between spacetime structure and individuation. Thus one idea might be to try to
+
+interpret the multiplicity of different possible “striations,” as Reichenbach called them, as
+
+corresponding to a set of virtual trajectories.
+
+       Rather than follow this daunting line of thinking any further at the moment, let us return to
+
+a consideration of the consequences of taking the worldline and lightcone structure, as opposed to
+
+the point structure of the manifold, as ontologically basic in fundamental physics. Were we to do
+
+this, how might we begin to build the rest of our physics into this framework? Let’s confine our
+
+attention for the moment to the quantum mechanics of charged and chargeless, massive and
+
+massless particles and their interactions via electromagnetic forces. There is no reason why we
+
+could not associate quantum mechanical states with systems thus individuated in standard quantum
+
+mechanical fashion. What might be more difficult will be building gravitation back into this
+
+framework, the question being how to get something like a metrical notion of curvature in this
+
+scheme. One might conjecture that the right approach would be to let something like spatiotemporal
+
+probability densities, defined now on the worldlines, do the work formerly done by the stress-energy
+
+tensor, since, after all, the former are a kind of measure of the mass-energy content of regions of
+
+spacetime. But if we let something like the metrical structure be evolved out of the structure of the
+
+probability densities, then, in a sense, we would have a quantum theory of spacetime, rather than
+                                                               Howard/Shimony Festschrift—Page 40
+
+having a quantum theory that naively presupposes a spacetime background that, as we have seen,
+
+is not intrinsically congenial to having a quantum theory implanted within it, owing to the problem
+
+of the inherently different quantum mechanical and spatiotemporal modes of individuating physical
+
+systems.
+
+        Mention of the spatiotemporal probability densities brings to mind a possible worry, which
+
+is that worldlines as understood in general relativity represent definite trajectories, which would
+
+seem to be incompatible with Heisenberg indeterminacy. But if one were to take the worldlines
+
+themselves as ontologially basic, without regarding them as one-dimensional sets of spacetime
+
+points, then when would not be begging any questions about spatiotemporal definiteness. From the
+
+point of view of the worldlines themselves, there is no reason why they might not be taken to
+
+represent something that would look like a “fuzzy” path from the point of view of the spacetime
+
+structure we eventually evolve from quantum mechanical probability densities. In other words, to
+
+say that a worldline represents the career of a system is not, in and of itself, to say that that career
+
+corresponds to a definite trajectory in the classical sense.
+
+        I am not prepared to say anything at the moment about how the strong and week nuclear
+
+forces would be integrated into this picture, except to observe that the bosonic carriers of these other
+
+forces should be expected to play in this newly conceived quantum spacetime a role not unlike that
+
+of the photon, their mediation of interactions inducing connections between otherwise separate
+
+systems.
+
+        Finally, is there any sense in which the scheme being developed here represents a unification
+
+of gravity and electromagnetism? Pehaps so if one can get curvature from probability densities.
+
+That there should be a unification emerging here follows from the fact that we are taking as our
+                                                             Howard/Shimony Festschrift—Page 41
+
+ontological starting point the pattern of individuation that seems necessary to explain the peculiar
+
+statistics that emerge in the interaction between electromagnetic radiation and ponderable, that is,
+
+gravitational matter. This scheme of individuation was not necessary for either electromagnetism
+
+or gravitation considered alone. But it is the salient characteristic of what I called above “mixed
+
+interactions.”
+
+5. Conclusion
+
+       Twenty years ago, when talking with me about the puzzles of the quantum, Abner Shimony
+
+once ventured the observation that the ultimate solution to those puzzles might well require a radical
+
+revision in our understanding of spacetime structure. At the time, I had no idea what he might mean
+
+by that conjecture. Perhaps he had no definite idea in mind himself; it may have been just an idle
+
+Bieridee. But the remark has haunted me ever since. I would like to think that our understanding
+
+at least the fundamental difference in the way quantum mechanics and spacetime theories naturally
+
+individuate physical systems and states might give us a clue as to where, finally, we might look for
+
+new view of spacetime that could solve the quantum puzzles. I doubt that my musings here will lead
+
+directly to such a new view, their being, in the end, little more than Bierideen themselves. I hope,
+
+however, to have persuaded you that there is a deep and important problem to be explored in the
+
+cluster of issues surrounding spacetime and individuation.
+
+Acknowledgments. In other publications I have recorded many debts to many individuals whose
+
+conversation, criticism, friendship, and sometimes just logistical support have left their mark in my
+
+work. Many of them deserve mention here. But on this occasion I want to record just one, namely,
+                                                             Howard/Shimony Festschrift—Page 42
+
+to Abner Shimony himself, who has helped my work along in all the mentioned ways but who has
+
+also been for me an example of what it is to be a philosopher of science, especially one for whom
+
+the quest for understanding is the polestar of one’s professional life. In particular, I want to thank
+
+Abner for helpful comments on the present essay, while noting that such mistakes as there may be
+
+are still all mine.
+
+        I wish also to thank the Hebrew University of Jerusalem, which holds the copyright, for
+
+permission to quote from Einstein’s unpublished writings and correspondence. Quotations from
+
+unpublished material in the Einstein Archive are cited by their control number in the Archive, after
+
+the fashion: EA xx-xxx.
+
+                                             ENDNOTES
+
+1. See Pauli 1985, pp. 402-406. Heisenberg did write the suggested reply, enclosing a copy with his
+letter to Pauli of 2 July 1935; see Pauli 1985, pp. 409-418. Another copy is in the Einstein Archive,
+EA 5-207.
+
+2. For further details on the history that is summarized in this section, see Howard 1984 and 1990.
+
+3. For a thorough account of Einstein’s “Bestimmt” manuscript, including an interesting account
+of the historical background to the mathematical methods that it employs, but with a somewhat
+different reading of its place in the development of Einstein’s thinking about the quantum from the
+one suggested here, see Belousek 1996.
+
+4. That Einstein was trying to make a point about separability and not indeterminacy emerges from
+a letter from Paul Ehrenfest to Bohr of 9 July 1931, written immediately after Ehrenfest had visited
+with Bohr in Berlin. For more on the letter and the interpretation of the photon box thought
+experiment, see Howard 1990, pp. 98-101.
+
+5. For more detail on Einstein’s thinking about separability and locality from 1935 to 1955, see
+Howard 1984.
+
+6. The following discussion recapitulates an argument that I first published, in extenso, in Howard
+1992; see also Howard 1989. I borrow the especially lucid notation from James Cushing’s
+introductory essay (Cushing 1989) to the volume in which the latter is contained.
+                                                            Howard/Shimony Festschrift—Page 43
+
+7. Jarrett’s original formulation of the “locality” and “completeness” conditions was more
+complicated than that give here, taking into account the complete state of the analyzers. Only in
+reponse to criticism from Shimony (1984, section 2) did Jarrett adopt the present formulation.
+
+8. Interpreting states as physical propensities and thus according propensities a fundamental
+ontological status is not uncongenial to Shimony’s regarding “potentialities” as ontologically
+fundamental (see, for example, Shimony 1986, sections 2 and 5). But, in my opinion, something
+more than a simple distinction between “potentiality” and “actuality” is needed to make sense of
+the curiously complicated way in which, in quantum mechanics, what may or may not be accounted
+a definite property of a system can be argued to depend upon the experimental context in which the
+system finds itself; for more on the issue of context dependence, see Howard 1994.
+
+9. In other settings it proves helpful to think of a context as a set of comeasurable observables for
+the joint system. For a discussion of the role played by such a notion of context in Bohr’s thinking
+about the classical/quantum distinction and the concept of a “phenomenon” proper to the quantum
+domain, see Howard 1994.
+
+10. For a rather different reading of the bearing of this analysis on the choice between orthodox,
+Cophenhagen quantum mechanics and Bohm-type hidden variable theories, see Cushing 1994,
+which questions the usefulness of the distinction between locality and separability in the context of
+Bohmian hidden variable theories.
+
+11. As Newton explains in his unpublished manuscript, De Gravitatione et æquipondio fluidorum
+(Hall and Hall 1962, pp. 89-156), God can, by an act of will momentarily render and region of space
+a bounded atom, continuous motion coming about by his successively so rendering immediately
+adjacent regions thus so bounded. For more detail on this aspect of Newton’s theory of space, see
+Howard 1993 and the further references found there.
+
+12. See Stachel 1980 for more details on the history of the hole and point-coincidence arguments
+in Einstein’s work on general relativity.
+                                                         Howard/Shimony Festschrift—Page 44
+
+                                         REFERENCES
+
+Ballentine, L.E. and Jarrett, Jon (1987). “Bell’s Theorem: Does Quantum Mechanics Contradict
+               Relativity?” American Journal of Physics 55: 696-701.
+
+Belousek, Darrin (1996). “Einstein’s Unpublished 1927 Hidden-Variable Theory: Its Background,
+              Context, and Significance.” Typescript.
+
+Bohr, Niels (1935). “Can Quantum-Mechanical Description of Physical Reality Be Considered
+              Complete?” Physical Review 48: 696-702.
+
+Born, Max (1949). Natural Philosophy of Cause and Chance. Oxford: Oxford University Press.
+
+Born, Max, ed. (1969). Albert Einstein—Hedwig und Max Born. Briefwechsel, 1916-1955. Munich:
+               Nymphenburger.
+
+Cushing, James T. (1989). “A Background Essay.” In Cushing and McMullin 1989, pp. 1-24.
+
+)))) (1994). “Locality/Separability: Is this Necessarily a Useful Distinction?” In PSA 1994:
+              Proceedings of the 1994 Biennial meeting of the Philosophy of Science Association.
+              David Hull, Micky Forbes, and Richard Burian, eds. East Lansing, Michigan:
+              Philosophy of Science Association, pp. 107-116.
+
+Cushing, James T. and McMullin, Ernan, eds. (1989). Philosophical Consequences of Quantum
+             Theory: Reflections on Bell's Theorem. Notre Dame, Indiana: University of Notre
+             Dame Press
+
+Einstein, Albert (1905). “Über einen die Erzeugung und Verwandlung des Lichtes betreffenden
+               heuristischen Gesichtspunkt.” Annalen der Physik 17: 132-148.
+
+)))) (1909a). “Zum gegenwärtigen Stand des Strahlungsproblems.” Physikalische Zeitschrift 10:
+              185-193.
+
+)))) (1909b). “Über die Entwickelung unserer Anschauungen über das Wesen und die
+              Konstitution der Strahlung.” Deutsche Physikalishe Gesellschaft. Verhandlungen 11:
+              482-500; rpt. Physikalische Zeitschrift 10 (1909): 817-825.
+
+)))) (1916a). “Strahlungs-emission und -absorption nach der Quantentheorie.”          Deutsche
+              Physikalishe Gesellschaft. Verhandlungen 18: 318-323.
+
+)))) (1916b). “Zur Quantentheorie der Strahlung.” Physikalische Gesellschaft Zürich.
+              Mitteilungen 47-62; rpt. Physikalische Zeitschrift 18 (1917): 121128.
+                                                          Howard/Shimony Festschrift—Page 45
+
+)))) (1924). “Quantentheorie des einatomigen idealen Gases.” Preussische Akadamie der
+              Wissenschaften. Physikalish-mathematische Klasse. Sitzungsberichte 261-267.
+
+)))) (1925a). “Quantentheorie des einatomigen idealen Gases. Zweite Abhandlung.” Preussische
+              Akadamie der Wissenschaften. Physikalish-mathematische Klasse. Sitzungsberichte
+              3-14.
+
+)))) (1925b). “Quantentheorie des idealen Gases.” Preussische Akadamie der Wissenschaften.
+              Physikalish-mathematische Klasse. Sitzungsberichte 18-25.
+
+)))) (1916). “Ernst Mach.” Physikalische Zeitschrift 17: 101-104.
+
+)))) (1919). “Time, Space, and Gravitation.” Times (London). 28 November, p. 13.
+
+)))) (1920). Äther und Relativitäts-Theorie. Rede gehalten am 5. Mai 1920 an der Reichs-
+              Universität zu Leiden. Berlin: Julius Springer.
+
+Einstein, Albert; Podolsky, Boris; and Rosen, Nathan (1935). “Can Quantum-Mechanical
+              Description of Physical Reality Be Considered Complete?” Physical Review 47: 777-
+              780.
+
+Hall, A. Rupert, and Hall, Marie Boas, eds. and trans. (1962). Unpublished Scientific Papers of
+              Isaac Newton: A Selection from the Portsmouth Collection in the University Library,
+              Cambridge. Cambridge: Cambridge University Press.
+
+Howard, Don (1985). “Einstein on Locality and Separability.” Studies in History and Philosophy
+             of Science 16: 171-201.
+
+)))) (1989). “Holism, Separability, and the Metaphysical Implications of the Bell Experiments.”
+              In Cushing and McMullin 1989, pp. 224-253.
+
+)))) (1990). “‘Nicht sein kann was nicht sein darf,’ or the Prehistory of EPR, 1909-1935:
+              Einstein's Early Worries about the Quantum Mechanics of Composite Systems.” In
+              Sixty-two Years of Uncertainty: Historical, Philosophical, and Physical Inquiries
+              into the Foundations of Quantum Mechanics. Arthur I. Miller, ed. New York:
+              Plenum Press, pp. 61-111.
+
+)))) (1991). “‘And I Shall not Mingle Conjectures with Certainties.’ On the Intellectual
+              Background to Einstein's Distinction between Principle Theories and Constructive
+              Theories.” Paper delivered to the conference on “Albert Einstein: The Early Years,”
+              North Andover, Massachusetts, October 1991.
+                                                          Howard/Shimony Festschrift—Page 46
+
+)))) (1992). “Locality, Separability, and the Physical Implications of the Bell Experiments.” In
+              Bell’s Theorem and the Foundations of Modern Physics. A. van der Merwe, F.
+              Selleri, and G. Tarozzi, eds. Singapore: World Scientific, pp. 306-314.
+
+)))) (1994). “What Makes a Classical Concept Classical? Toward a Reconstruction of Niels
+              Bohr’s Philosophy of Physics.” In Niels Bohr and Contemporary Philosophy. Jan
+              Faye and Henry J. Folse, eds. Dordrecht, Boston, and London: Kluwer, pp. 201-229.
+
+)))) (1996). “A Peek behind the Veil of Maya: Einstein, Schopenhauer, and the Historical
+              Background of the Conception of Space as a Ground for the Individuation of
+              Physical Systems.” In The Cosmos of Science: Essays of Exploration. John Earman
+              and John Norton, eds. Pittsburgh: University of Pittsburgh Press. Forthcoming.
+
+Jarrett, Jon (1983). “Bell’s Theorem, Quantum Mechanics, and Local Realism.” Ph.D. Dissertation.
+                University of Chicago.
+
+)))) (1984). “On the Physical Significance of the the Locality Conditions in the Bell Arguments.”
+              Noûs 18: 569-589.
+
+Norton, John D. (1989). “Coordinates and Covariance: Einstein’s View of Space-Time and the
+             Modern View.” Foundations of Physics 19: 1215-1263.
+
+Pauli, Wolfgang (1985). Wissenschaftlicher Briefwechsel mit Bohr, Einstein, Heisenberg
+             u.a./Scientific Correspondence with Bohr, Einstein, Heisenberg a.o. Vol. 2, 1930-
+             1939. Karl von Meyenn, ed. Berlin: Springer-Verlag.
+
+Reichenbach, Hans (1928). Philosophie der Raum-Zeit-Lehre. Berlin: Julius Springer. Page
+             numbers and quotations from the English translation: The Philosophy of Space &
+             Time. Maria Reichenbach and John Freund, trans. New York: Dover, 1957.
+
+Shimony, Abner (1984). “Controllable and Uncontrollable Non-Locality.” In Foundations of
+            Quantum Mechanics in the Light of New Technology. S. Kamefuchi, et al., eds.
+            Tokyo: Physical Society of Japan, pp. 225-230. Reprinted in Shimony 1993, pp. 130-
+            139.
+
+)))) (1986). “Events and Processes in the Quantum World.” In Quantum Concepts in Space and
+              Time. R. Penrose and C. Isham, eds. Oxford: Oxford University Press, pp. 182-203.
+              Reprinted in Shimony 1993, pp. 140-162.
+
+)))) (1993). Search for a Naturalistic World View. Vol. 2, Natural Science and Metaphysics.
+              Cambridge: Cambridge University Press.
+                                                                      Howard/Shimony Festschrift—Page 47
+
+            Stachel, John (1980). “Einstein's Search for General Covariance, 1912-1915.” Paper delievered at
+                           the Ninth International Conference on General Relativity, Jena, German Democratic
+                           Republic, 17 July 1980. First published in Einstein and the History of General
+                           Relativity. Don Howard and John Stachel, eds. Boston: Birkhäuser, 1989, pp. 63-100.
+
+            )))) (1986a). “What a Physicist Can Learn from the History of Einstein's Discovery of General
+                           Relativity.” In Proceedings of the Fourth Marcel Grossmann Meeting on General
+                           Relativity. Remo Ruffini, ed. Amsterdam: Elsevier, pp. 1857-1862.
+
+            )))) (1986b). “How Einstein Discovered General Relativity: A Historical Tale with Some
+                           Contemporary Morals.” In General Relativity and Gravitation: Proceedings of the
+                           11th International Conference on General Relativity and Gravitation, Stockholm,
+                           July 6-12, 1986. M. A. H. MacCallum, ed. Cambridge: Cambridge University Press,
+                           1987, pp. 200-208.
+
+            Wolfke, Mieczsy³aw (1914a). “Welche Strahlungsformel folgt aus der Annahme der Lichtatome?”
+                         Physikalische Zeitschrift 15: 308.
+
+            )))) (1914c). “Antwort auf die Bemerkung Herrn Krutkows zu meiner Note: ‘Welche
+                           Strahlungsformel folgt aus den Annahme der Lichtatome?’” Physikalische Zeitschrift
+                           15: 463.
+
+View publication stats
+

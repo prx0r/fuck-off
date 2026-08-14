@@ -1,0 +1,1286 @@
+# Reduction and Emergence in the Physical Sciences:
+
+**source:** pdf · **section:** solutions
+**file:** Reduction-and-Emergence-in-Physics
+---
+
+Some Lessons from the Particle Physics–Condensed Matter
+Physics Debate
+Don Howard
+Department of Philosophy and
+History and Philosophy of Science Graduate Program
+University of Notre Dame
+
+Whence, then, do my errors arise? Only from the fact that the will is much more ample and far-
+reaching than the understanding, so that I do not restrain it within the same limits but extend it even
+to those things which I do not understand. Being by its nature indifferent about such matters, it very
+easily is turned aside from the true and the good and chooses the false and the evil. And thus it
+happens that I make mistakes and that I sin.
+
+                               René Descartes, Meditations on First Philosophy, Meditation Four,
+                                     “Of the True and the False”
+
+Introduction: A Note of Caution
+
+       The task that I set for myself today is a mundane philosophical one–getting clear about
+
+fundamental concepts, developing a taxonomy of viewpoints, assessing the validity of arguments for
+
+those views, and handicapping the odds for one or another of them to emerge triumphant. The arena
+
+is the much contested one of questions about reduction and emergence in the physical sciences, more
+
+specifically the relationship between particle physics and condensed matter physics. The main point
+
+that I wish to make is that we know so little about that relationship, and that what we do know
+
+strongly suggests that condensed matter phenomena are not emergent with respect to particle physics,
+
+that we should be wary of venturing hasty generalizations and of making premature extrapolations
+
+from physics to the biosciences, the neurosciences, and beyond.
+Don Howard. “Reduction and Emergence in the Physical Sciences.”                                Page 2
+San Francisco, October 2003
+
+       Caution is the byword. Caution is called for because the academy is yet again seized by an
+
+enthusiasm. Seventy years ago it was complementarity (Bohr 1933). Thirty years ago catastrophe
+
+theory (Thom 1975). Twenty years ago fractals (Mandelbrot 1983). Yesterday it was cellular
+
+automata (Wolfram 2002). Today it is complexity theory, cooperative phenomena, and non-linear
+
+dynamics (Scott 1999 and 2003). Enthusiasm is good. It promotes creativity. It stimulates
+
+imagination. It gives one strength to carry on in the face of dogmatic opposition. But Descartes
+
+–himself no intellectual wallflower–taught us in the Meditations that error is a consequence of the
+
+will outrunning the understanding. Like Faust, many of us want to know “was die Welt im Innersten
+
+zusammenhält.” Let’s just be sure that our desire to solve the riddle of the universe doesn’t get too
+
+far out in front of what we actually understand.
+
+       As mentioned, the specific place where I want today to make the case for caution is at the
+
+interface between particle physics and solid state or condensed matter physics. Here is where we find
+
+some of the boldest assertions that physics has demonstrated emergence. Various salient physical
+
+properties of the mesorealm, properties such as superconductivity and superfluidity are held to be
+
+emergent with respect to particle physics. Such properties are said to exemplify coherent states of
+
+matter or long-range cooperative phenomena of a kind often associated with systems obeying a non-
+
+linear dynamics. Such coherent states are said not to be explicable in terms of the properties of the
+
+molecular, atomic, or still more elementary constituents of superconductors or superfluids. I urge
+
+caution here for two reasons: (1) The physics of the mesorealm is not well enough established to
+
+license any inferences about the essential and distinguishing properties of matter at this intermediate
+
+scale. (2) That coherent states of matter are not to be explained at the level of particle physics has
+Don Howard. “Reduction and Emergence in the Physical Sciences.”                                Page 3
+San Francisco, October 2003
+
+simply not been demonstrated. On the contrary, it is precisely at the level of particle physics that we
+
+do find compelling physical arguments and empirical evidence of the holism said–wrongly, I
+
+think–to be distinctive of mesophysics. We’ve had a name for such microphysical holism since 1935.
+
+That name is entanglement. And at least superconductivity and superfluidity, if not also various other
+
+phenomena in the realm of condensed matter physics, find their proper explanation as mesoscopic
+
+manifestations of microscopic entanglement.
+
+       But I get ahead of myself. Let’s slow down and begin with some of the philosopher’s favorite
+
+tools or toys; let’s begin with some distinctions.
+
+Some Conceptual Preliminaries: Reduction, Supervenience, and Emergence
+
+       Contemporary discussions of emergent phenomena often start with a helpful distinction
+
+between two different relationships that might obtain between two different levels of description,
+
+intertheoretic reduction and supervenience.1
+
+       Intertheoretic reduction is a logical relationship between theories. In the classic
+
+       formulation owing to Ernest Nagel, theory TB, assumed correctly to describe or
+
+       explain phenomena at level B, reduces to theory TA, assumed correctly to describe or
+
+       explain phenomena at level A, if and only if the primitive terms in the vocabulary of
+
+       TB are definable via the primitive terms of TA and the postulates of TB are deductive
+
+       1
+           Batterma n 200 2 and S ilberstein 2002 are useful primers.
+Don Howard. “Reduction and Emergence in the Physical Sciences.”                                                    Page 4
+San Francisco, October 2003
+
+         consequences of the postulates of TA.2 As normally formulated, this definition of
+
+         reduction assumes a syntactic view of theories as sets of statements or propositions.
+
+         Supervenience is an ontic relationship between structures. A structure, Sx, is a set of
+
+         entities, Ex, together with their properties and relations, PRx. A structure, SB,
+
+         characteristic of one level, B, supervenes on a structure, SA, characteristic of another
+
+         level, A, if and only if the entities of SB are composed out of the entities of SA and the
+
+         properties and relations, PRB, of SB are wholly determined by the properties and
+
+         relations, PRA, of SA. One way to understand the relevant sense of “determination”
+
+         is as requiring that there be no differences at level B, say different values of a
+
+         parameter such as the temperature of a gas, without there being a corresponding
+
+         difference at level A, say in the mean kinetic energy of the molecules constituting the
+
+         gas.3
+
+         There is no straightforward relationship between reduction and supervenience. One might
+
+think that reduction implies supervenience, in the sense that, if theory TB reduces to theory TA, then
+
+the structures, SB, assumed correctly to be described or explained by TB, supervene on the structures,
+
+SA, assumed correctly to be described or explained by TA. This need not be the case, however, if some
+
+of the properties and relations constitutive of SB depend on boundary conditions. Not all structure
+
+         2
+           Nagel 1961, 345-366. Some details of Nagel’s formulation irrelevant for our purposes are suppressed.
+         3
+           Davidson 1970 is genera lly regard ed as first introducing this sp ecific no tion of supervenienc e, though it is
+implicit in many earlier literatures. For an overview, see Blackburn 1998.
+Don Howard. “Reduction and Emergence in the Physical Sciences.”                                                    Page 5
+San Francisco, October 2003
+
+is nomic. Think of global metrical structure in big-bang cosmology or “edge state” excitations in the
+
+fractional quantum Hall effect. That supervenience does not imply reduction should be even clearer,
+
+for the properties and relations, PRB, constitutive of structure SB can be wholly determined by the
+
+properties and relations, PRA, of SA without there being laws governing PRB that are deductive
+
+consequences of laws governing PRA, perhaps because there are no exceptionless laws governing
+
+PRB.
+
+         Emergence can be asserted either as a denial of intertheoretic reduction or as a denial of
+
+supervenience. There being no necessary relationship between reduction and supervenience, there
+
+will, in consequence, be no necessary relationship between the corresponding varieties of emergence,
+
+which must, therefore, be distinguished, the claim of what we might term R-emergence being a
+
+denial of reduction, and what we might terms S-emergence being a denial of supervenience.4
+
+         Thinking about the relationship between different levels of description in terms of
+
+intertheoretic reduction has the advantage of clarity, for while it might prove difficult actually to
+
+determine whether a postulate at level B is derivable from the postulates of level A–as is the case
+
+with the ergodic hypothesis, which is to be discussed shortly–, we at least know what we mean by
+
+derivability and definability as relationships between syntactic objects like terms and statements,
+
+since we know by what rules we are to judge. The chief disadvantage of this way of thinking about
+
+interlevel relationships is that one is hard pressed to find a genuine example of intertheoretic
+
+reduction outside of mathematics, so to assert emergence as a denial of reduction is to assert
+
+         4
+           Still finer distinctions among varieties o f emergence are encountered in various o ther literatures, esp ecially
+in the philosophy of mind. Silberstein 2002 is, a gain, a good place to start for a more comprehensive survey. The
+distinction between R-emergence and S-emergenc e suffices for present purp oses.
+Don Howard. “Reduction and Emergence in the Physical Sciences.”                                  Page 6
+San Francisco, October 2003
+
+something trivial and uninteresting. Yet another disadvantage is the restriction to theories
+
+represented syntactically as sets of statements or propositions, central among which are statements
+
+of laws, for there is reason to think that many important scientific theories–evolution is an often cited
+
+example–are not best understood in this way. Later on I will say a word or two about the possible
+
+advantages of a semantic view of theories, whereupon a theory is conceived as a set of models.
+
+        The chief advantage of thinking about interlevel relationships from the point of view of
+
+supervenience is that it seems to many to capture well our pre-analytic intuitions, such as those about
+
+the relationship between heat and agitated molecular motion. The chief disadvantage of so posing
+
+the question of interlevel relationships is that it is not always clear by what general rules we are to
+
+assess claims about supervenience and its denial, so in asserting emergence as a denial of
+
+supervenience one risks asserting something validated by little more than intuition. There are,
+
+however, some reasonably clear paradigm cases of emergence as a failure of supervenience, the most
+
+important for our purposes being quantum mechanical entanglement, which is shortly to be
+
+addressed.
+
+        Distinguishing intertheoretic reduction and supervenience along with the respective notions
+
+of emergence is a big step in the direction of clarity and understanding. For example, I will argue that
+
+while condensed matter physics does not obviously reduce to particle physics, phenomena
+
+characteristic of condensed matter physics such as superfluidity and superconductivity do supervene
+
+on physical properties at the particle physics level and hence are not emergent with respect to particle
+
+physics in the sense of S-emergence. But we might also find, as I think we do find in the case of
+
+condensed matter physics, that neither reduction nor supervenience is the most helpful analytical tool
+Don Howard. “Reduction and Emergence in the Physical Sciences.”                                                Page 7
+San Francisco, October 2003
+
+for explicating the truly important and interesting features–both structural and methodological–of
+
+interlevel relationships in the physical sciences.
+
+Ergodicity and Entanglement: Two Challenges to Our Presuppositions
+
+         That intertheoretic reduction might not be a helpful way to think about interlevel
+
+relationships is perhaps best shown by pointing out that everyone’s favorite example of a putatively
+
+successful reduction–that of macroscopic thermodynamics to classical statistical mechanics–simply
+
+does not work. Recall what is required for reduction: the definability of terms and the derivability
+
+of laws. Concede the former in this instance–as with the definition of temperature via mean kinetic
+
+energy–and focus on the latter. Foremost among the themodynamic laws that must be deriveable
+
+from statistical mechanical postulates is the second law, which asserts the exceptionless evolution
+
+of closed non-equilibrium systems from states of lower to states of higher entropy. Providing a
+
+statistical mechanical grounding of the second law was Boltzmann’s paramount aim in the latter part
+
+of the nineteenth century.5 Did he succeed?
+
+         The answer is no. For one thing, what Boltzmann derived was not the deterministic second
+
+law of thermodynamics but a statistical simulacrum of that law, according to which closed non-
+
+equilibrium systems are at best highly likely to evolve from states of lower to states of higher
+
+entropy. More importantly, even this statistical simulacrum of the second law is derived not from
+
+mechanical first principles alone but from those conjoined to what was early termed the ergodic
+
+         5
+          Still one of the most illuminating studies of the conceptual foundations of Boltzmann’s program is to be found
+in the Ehrenfests’s splendid monograph, Ehrenfest and Ehrenfest 1911.
+Don Howard. “Reduction and Emergence in the Physical Sciences.”                                                  Page 8
+San Francisco, October 2003
+
+hypothesis, which asserts that, regardless of its initial state, an isolated system will eventually visit
+
+every one of its microstates compatible with relevant macroscopic constraints, like confinement to
+
+a surface of constant energy in its phase space. The ergodic hypothesis can be given comparably
+
+opaque equivalent formulations, such as the assertion of the equality of time and ensemble averages,
+
+but the work that it does in the foundations of statistical mechanics is clear: The theory being a
+
+statistical one, it must work with averages. The ergodic hypothesis makes the averages come out
+
+right. The crucial fact is, however, that for all but a few cases special cases or for highly idealized
+
+circumstances, the ergodic hypothesis and its kin cannot be derived from mechanical first principles.
+
+On the contrary, we can demonstrate non-ergodic behavior for a large class of more realistic models.6
+
+        Are macroscopic thermodynamic phenomena, therefore, emergent with respect to the
+
+mechanical behavior of the individual molecular and atomic constituents of the systems of interest?
+
+Yes, if emergence means the failure of intertheoretic reduction. Is that an important fact? Yes, if our
+
+aim is to undermine dogmatic reductionist prejudices or to unsettle the presupposition that physics,
+
+generally, is a paradigmatically reductionist science. Otherwise, the significance of there not being
+
+a reduction of thermodynamics to statistical mechanics is not so clear. Does the lesson of the ergodic
+
+hypothesis generalize to other cases of interlevel relationships? I know of no reason to think that it
+
+does, though one should also not be surprised to encounter analogous situations elsewhere. Whether
+
+the relationship between particle physics and condensed matter physics is thus analogous will be
+
+discussed in a moment.
+
+        6
+            For a lucid survey of the curre nt state of opinion regarding the ergodic hypothesis, see Sklar 1993, 156-195.
+Don Howard. “Reduction and Emergence in the Physical Sciences.”                               Page 9
+San Francisco, October 2003
+
+       What about emergence in the sense of a failure of supervenience? Does the irreducibility of
+
+thermodynamics to statistical mechanics show that thermodynamic phenomena do not supervene on
+
+mechanical phenomena. Hard to say. The intuitions of many of us point in the opposite direction,
+
+to the conclusion that thermodynamic phenomena do supervene on mechanical ones. On the other
+
+hand, if we regard satisfaction of the ergodic hypothesis as a property of systems like a gas, perhaps
+
+we should regard that as emergent with respect to more narrowly mechanical properties of the
+
+molecular constituents of the gas. This is what some designate as nomic emergence. But recall my
+
+noting that the chief disadvantage of supervenience as a perspective on interlevel relations is
+
+precisely that, in the generic case, it is hard to know how to judge whether supervenience obtains.
+
+       One case where it is, however, not at all hard to make a judgment about supervenience, or
+
+rather its failure, is the case of quantum mechanical entanglement. Start with ordinary (non-
+
+relativistic) quantum mechanics. We represent the state of a system by means of a quantum
+
+mechanical state function, R, corresponding, technically, to a ray in some Hilbert space, which is a
+
+complex vector space. For many of us, a comfortable way of representing such a state function is as
+
+a Schrödinger wave function. The question now is how to represent the joint state, R12, of a
+
+composite system consisting of two (or more) previously interacting systems. Had the two systems
+
+not interacted, then quantum mechanics would represent the joint state just as, in effect, all
+
+“classical” theories do (think of Newtonian mechanics and Maxwellian electrodynamics), namely,
+
+as the product of two separate states:
+
+                                           R12 = R1 q R2
+Don Howard. “Reduction and Emergence in the Physical Sciences.”                              Page 10
+San Francisco, October 2003
+
+If, however, systems 1 and 2 have interacted, then, in general, quantum mechanics describes their
+
+joint state in such a way as to make it not equivalent to any product of separate states:
+
+                                           R12 =/ R1 q R2
+
+Such joint states are said to be entangled joint states, and it is an easy bit of mathematics to show
+
+how these entangled states necessarily yield different predictions than do factorizable joint states
+
+especially for certain types of correlations between two entangled systems, such as spin correlations.
+
+       The name, “entanglement,” has been around since Erwin Schrödinger coined it in 1935 when,
+
+in the wake of the famous Einstein, Podolsky, and Rosen argument for the incompleteness of
+
+quantum mechanics (Einstein, Podolsky, and Rosen 1935), he drafted the papers that for the first
+
+time presented in a systematic way what is now termed the quantum mechanical interaction
+
+formalism (Schrödinger 1935a, 1935b, 1936). That some such departure from classical assumptions
+
+about the mutual independence of interacting systems would be part of the full story of the quantum
+
+realm was already clear as early as Einstein’s first paper on the photon hypothesis in 1905 (Einstein
+
+1905). That entanglement is, in fact, an essential part of the quantum mechanical formalism and the
+
+most important distinguishing feature of the quantum mechanical description of nature was clear by
+
+1927, when Einstein ceased being a contributor to the further development of quantum mechanics
+
+after discovering that his own attempt at a hidden variables interpretation of quantum mechanics also
+
+required the employment of non-factorizable joint states (see Howard 1990) and when Niels Bohr
+
+made entanglement the centerpiece of his complementarity interpretation of quantum mechanics (see
+Don Howard. “Reduction and Emergence in the Physical Sciences.”                                          Page 11
+San Francisco, October 2003
+
+Howard 1994, 2004). It was entanglement, which Einstein could not abide, about which Einstein and
+
+Bohr (Bohr 1935) were really arguing at the time of the Einstein, Podolsky, and Rosen paper (see
+
+Howard 1985).
+
+        The fundamental significance of quantum mechanical entanglement has long been understood
+
+and appreciated by philosophers working on the foundations of quantum mechanics.7 Entanglement
+
+is a fact not only about non-relativistic quantum mechanics but about any quantum theory.
+
+Entanglement is ineluctably and deeply woven into the fabric of quantum electrodynamics, quantum
+
+chromodynamics, and all of the good candidates for a quantum theory of gravity, including string
+
+theory and loop quantum gravity.8 That its fundamental significance has not been so widely
+
+appreciated by the mainstream physics community is a historical puzzle that I won’t attempt to solve
+
+right now, though it is a fact pregnant with implications for the current debate over reduction and
+
+emergence in physics. One is cheered by the fact that recent interest in topics such as quantum
+
+computing, quantum cryptography, and quantum information theory has finally put entanglement
+
+on the mainstream agenda, for now, in effect, we find physicists doing engineering with
+
+entanglement.9
+
+        For our purposes, entanglement is important because it is the clearest example known to me
+
+from any domain of investigation of a failure of supervenience. How and why the properties of a pair
+
+of previously interacting and, therefore, entangled quantum systems fail to supervene on the
+
+        7
+           d’Espagnat 1976 is only one of many good sources one can consult on the role of entanglement in the
+foundations o f quantum m echanics.
+         8
+           On q uantum field theo ry, see Brown and Harré 1988; on quantum gravity, see Callender and Huggett 2001.
+         9
+           For an accessible recent review, see Terhal, Wolf, and Doherty 2003.
+Don Howard. “Reduction and Emergence in the Physical Sciences.”                                             Page 12
+San Francisco, October 2003
+
+properties of the two individual systems taken separately is perfectly well understood and today
+
+routinely demonstrated in the laboratory, as in experimental tests of Bell’s theorem. Even with
+
+perfect, complete knowledge of the states of the separate systems, one cannot account for the
+
+correlations between those systems characteristic of entangled joint states.10 That it must be so in the
+
+quantum domain is shown by a simple and straightforward mathematical demonstration set as an
+
+exercise for every graduate student in a foundations of quantum mechanics course. Here is holism
+
+of a very deep kind, and here is emergence in the sense of a failure of supervenience.11 By my lights,
+
+the quantum correlations characteristic of entangled joint states have a better claim to the status of
+
+emergent properties than do any of the other properties elsewhere in nature so far nominated for the
+
+prize.
+
+         Savor the significance of this point. It is at the most fundamental level of description in
+
+nature that the clearest instance of emergence is found. Emergence in the guise of entanglement is
+
+the most basic fact about the quantum realm. We will speak in a moment about the relationship
+
+between particle physics and condensed matter physics. Particle physics is quantum field theory.
+
+Entanglement is a fundamental fact about quantum field theory and, therefore, a fundamental fact
+
+about particle physics. It is, therefore, simply not true that holism, coherent states of matter, and
+
+long-range correlations occur first at the mesoscopic level of condensed matter physics. Nor is
+
+complexity the key. It’s hard to imagine anything simpler than two charged particles like a proton
+
+and an electron interacting electromagnetically, which is to say, the hydrogen atom, or a positron-
+
+         10
+           Healey 1989 is a helpful source on many of these issues, as are many of the papers collected in Cushing and
+McM ullin 1989, especially Teller 1989 and Howard 1989.
+        11
+           Silberstein and McGeever 1999 m ake this p oint ab out entanglem ent.
+Don Howard. “Reduction and Emergence in the Physical Sciences.”                                          Page 13
+San Francisco, October 2003
+
+electron pair resulting from pair creation, or two correlated optical photons. Generating an analytic
+
+solution of the Schrödinger equation for the hydrogen atom is so simple that it has long been a
+
+homework problem for first-semester students of quantum mechanics. Nor is non-linearity involved
+
+in any obvious way, unless one simply defines non-linearity as a species of holism.12 For the
+
+Schrödinger equation that governs the dynamics of these entangled quantum systems is a linear
+
+partial differential equation. It is linear Schrödinger evolution that carries the non-entangled pre-
+
+interaction joint state into the entangled post-interaction joint state. Far from non-linearity
+
+engendering the kind of holism evinced as entanglement, some famous attempts to evade puzzling
+
+consequences of the quantum theory associated with entanglement take the form of proposed non-
+
+linear variants of the Schrödinger equation. For example, in some “solutions” to the measurement
+
+problem the addition of a non-linear term to the Schrödinger equation serves to break the
+
+entanglement between instrument and object that is the basis of the measurement problem.13 What,
+
+then, is going on in the relationship between particle physics and condensed matter physics?
+
+Cooper Pairs and 4He: Evidence for Emergence in Condensed Matter Physics
+
+        With prophetic mien, prominent solid state physicists like Philip Anderson, Robert Laughlin,
+
+and David Pines have been heralding the appearance of a new paradigm of emergence in the physics
+
+of the mesorealm and arguing that, precisely because condensed matter physics has the conceptual
+
+tools for thinking about emergent properties, it is a way of doing physics more likely to hold the key
+
+        12
+          This is how I read Scott 2003.
+        13
+          Helpful surveys of this approach to the measurement problem can be found in G hirardi and Rimini 1990 and
+Pearle 1990.
+Don Howard. “Reduction and Emergence in the Physical Sciences.”                                                    Page 14
+San Francisco, October 2003
+
+to the future than inherently reductionistic particle physics (see, for example, Anderson 1972,
+
+Laughlin and Pines 2000, Laughlin et al. 2000). How sound is the prophecy?
+
+           If thermodynamics does not reduce to classical statistical mechanics, then we should not
+
+expect condensed matter physics to reduce to particle physics. If emergence is a failure of reduction,
+
+then condensed matter physics would be emergent with respect to particle physics. But I have argued
+
+that the question of intertheoretic reduction is not the right question. The right question is the
+
+question of supervenience, and what I now want argue is that there is good reason to think that
+
+condensed matter physics supervenes on particle physics, once the latter is understood properly as
+
+assuming quantum entanglement as the most fundamental physical property of microphysical
+
+systems.
+
+           Consider three more or less incontestable facts and consequences thereof.14
+
+           Fact 1 (incontestable): There is no unified, general theory of condensed matter physics.
+
+Some areas are in reasonably good shape, among them superfluidity and low-temperature
+
+superconductivity. Elsewhere the picture is spotty. In some important areas, most notably high-
+
+temperature superconductivity, few are so bold as to claim any adequate theoretical understanding.
+
+There are, to be sure, strong family resemblances among some of the techniques employed in
+
+different areas of condensed matter physics, effective Hamiltonian techniques being foremost among
+
+them.
+
+           14
+                Hoddeson et al. 1992 is a good historical introduction to the development of solid state and condensed matter
+physics.
+Don Howard. “Reduction and Emergence in the Physical Sciences.”                                 Page 15
+San Francisco, October 2003
+
+        Consequences: In the absence a more unified, general theoretical framework for condensed
+
+matter physics and a better understanding of how and when effective Hamiltonian techniques work
+
+it is hard to see how one can draw any general conclusion about emergence as a pervasive, essential,
+
+and distinctive feature of the mesorealm. Here the contrast with the microrealm as described by
+
+quantum mechanics and quantum field theory is striking, for it is precisely the fact that there we do
+
+have a unified, general theoretical framework that makes possible a strong conclusion about the
+
+pervasive, essential, and distinctive character of quantum entanglement.
+
+        Fact 2 (incontestable): In many non-linear systems one encounters striking coherent
+
+structures not obviously explicable in microphysical terms. We have all seen long-lived eddies on
+
+the surface of a fast-moving and in other respects seemingly turbulent stream. The generic term for
+
+such stable structures is “solitons.”
+
+        Consequences: Decidedly unclear. Don’t be misled by the suffix “-on,” which suggests a
+
+likeness in kind to leptons, baryons, and other elementary particles, for solitons are features mainly
+
+of classical, not quantum non-linear systems, though similar structures can emerge in a non-linear
+
+quantum setting. That such stable structures are emergent (in either sense of the term) with respect
+
+to classical particle mechanics is not worthy of dispute. But so what? Classical particle mechanics
+
+is not true of the microworld; quantum mechanics is. Whether classical non-linear phenomena
+
+supervene on microstructure as described quantum mechanically is, perhaps, not even a well posed
+
+question, given that we have no good story to tell about the relationship between quantum and
+
+classical descriptions. Glib talk of the correspondence principle or of taking a classical limit by
+
+letting Planck’s constant, h, go to zero just obscures the fact that, from a first-principles, conceptual
+Don Howard. “Reduction and Emergence in the Physical Sciences.”                                                  Page 16
+San Francisco, October 2003
+
+point of view quantum mechanics does not go over continuously to classical mechanics in the limit
+
+of small h. However small we let h become, the difference between quantum and classical
+
+descriptions is still the difference between non-commutative and a commutative algebraic structure,
+
+which is a big difference.
+
+         Don’t be misled either by the fact that stability of structure is a hallmark of the quantum
+
+realm, as in the existence of stable stationary atomic states. The kind of stability characteristic of the
+
+quantum realm, the stability of electron orbits and, therefore, the stability of chemical bonds and
+
+molecular structures is a consequence of the fundamental linearity of quantum dynamics, deeply
+
+associated with entanglement. The hydrogen atom is a stable structure because the proton and the
+
+electron form an entangled pair.
+
+         Fact 3 (more or less incontestable): In those areas of condensed matter physics where we
+
+do have a reasonably satisfactory theory–I have in mind mainly superfluidity and low-temperature
+
+superconductivity–there is also a reasonably clear connection to microphysical entanglement. This
+
+is especially so in the case of superfluidity, where the mechanism long thought to be in play, what
+
+is known as Bose-Einstein condensation, is a famous instance of entanglement, the atoms of a 4He
+
+superfluid, for example, being in an entangled joint state.15 Indeed, it was Einstein’s discovery of this
+
+phenomenon in 1925 (Einstein 1925) that set off the chain of events leading to his above-mentioned
+
+repudiation of quantum mechanics in 1927 after he discovered that his own hidden variables
+
+interpretation evinced the same entanglement that was central to Schrödinger’s wave mechanics. The
+
+         15
+            For helpful recent discussions of the physics of superfluidity and sup erconduc tivity, see Guénault 2003and
+Pitaevskii and S tringari 2003 . An interesting recent discussion o f the place of entanglem ent in quantum statistics will
+be found in Massimi 2001.
+Don Howard. “Reduction and Emergence in the Physical Sciences.”                            Page 17
+San Francisco, October 2003
+
+connection to entanglement is only a little less straightforward in the case of low-temperature
+
+superconductivity, where sets of fermion pairs like the electrons designated Cooper pairs in the BCS
+
+(Bardeen-Cooper-Schrieffer) theory are described by coherent macroscopic wave functions, the
+
+bosonic fermion pairs in effect forming a condensate.
+
+        Consequences: The examples of superfluidity and superconductivity suggest that success
+
+in explaining phenomena in condensed matter physics will typically depend upon our making clear
+
+precisely the connection to quantum mechanical entanglement. That means that, far from such
+
+phenomena being emergent with respect to particle physics, they are proven to supervene on particle
+
+physics. The properties of entangled composite systems do not supervene on the properties of the
+
+individual components, but the molar properties of mesoscopic condensed matter systems, properties
+
+like superfluidity and superconductivity do supervene on the most basic property of the quantum
+
+mechanical microrealm, namely, entanglement. The only emergence is, ironically, that found at the
+
+particle physics level itself.
+
+        The connection of superfluidity and superconductivity to Bose-Einstein condensation and the
+
+connection of the latter to entanglement is no secret. I’m not here asserting a radically heterodox
+
+point of view. How, then, could the idea that condensed matter physics is emergent with respect to
+
+particle physics have become so deeply entrenched in the community of condensed matter
+
+physicists? Frankly, I’m puzzled by this phenomenon. My best guess at an explanation is that folks
+
+have been misled by the particle analogy. Intuitively, we regard particles as inherently mutually
+
+independent structures of a kind that cannot be entangled with one another. When Einstein
+
+introduced the photon hypothesis in 1905 he said exactly that about the relevant respect in which
+Don Howard. “Reduction and Emergence in the Physical Sciences.”                                Page 18
+San Francisco, October 2003
+
+light quanta were corpuscular or particle-like. Indeed, he wrote explicitly that what he meant by the
+
+claim that light quanta behaved as if they were “mutually independent” corpuscles was that the joint
+
+probability for two such quanta to occupy specific cells of phase space factorizes:
+
+                                                  W12 = W1 @ W2.
+
+But Einstein was a smart guy, and he understood that photons would evince such quintessentially
+
+particle-like behavior, such mutual independence, only in what is termed the Wien regime, where
+
+the ratio of frequency to temperature is high: </T o 1. Otherwise, and in general, photons would not
+
+behave as mutually independent particle-like quanta of electromagnetic energy. Otherwise, and in
+
+general, as Einstein recognized from the start, photons would have to interfere with one another,
+
+which is to say that they would not behave like particles. Once de Broglie taught us to associate a
+
+similar wave-like aspect with material particles like electrons we understood that they too would not,
+
+in general, behave like particles. What this all means is that what we, today, call particle physics is,
+
+the name notwithstanding, not really a theory of particles.16 Were we all clear about the fact that
+
+particle physics takes entanglement as the most basic attribute of the systems it describes, then we
+
+would be unlikely to regard the phenomena of condensed matter physics as emergent with respect
+
+to particle physics.
+
+       A complete genealogy of the confusions rampant in the particle physics–condensed matter
+
+physics debate would also have to note that the entire argument was anyway just a proxy war, the
+
+       16
+            Footnote on other problems such as indefinite particle number.
+Don Howard. “Reduction and Emergence in the Physical Sciences.”                                Page 19
+San Francisco, October 2003
+
+real issue being not philosophical but monetary. Condensed matter physics was something of a
+
+backwater in the 1970s and the early 1980s, before the days of high-temperature superconductivity
+
+and Ronald Reagan’s infusion of star wars money into the field. The condensed matter community
+
+was especially resentful of the fact that oceans of money were to be spent on building the
+
+superconducting supercollider. If particle physics could legitimately promise to be a theory of
+
+everything, then, in the eyes of particle physicists like Steven Weinberg, solid state physicists should
+
+gratefully have served as mere underlaborers, designing the superconducting magnets necessary for
+
+generating the supercollider’s high-energy particle beams. But if condensed matter physics were truly
+
+emergent with respect to particle physics, then a dollar spent on the supercollider would be a dollar
+
+not spent on learning how the everyday world of the mesorealm really works. But I digress.
+
+Other Ways to Model Interlevel and Intertheory Relationships
+
+       In denying that condensed matter phenomena like superfluidity and superconductivity are
+
+emergent with respect to particle physics I don’t mean to deny that there are interesting and
+
+important questions about the relationship between the two theoretical realms. On contrary, that
+
+relationship is and should be even more so a fertile area of investigation in the foundations of
+
+physics. Moreover, I also don’t want to disparage the view that condensed matter physics enjoys a
+
+measure of explanatory autonomy vis-a-vis particle physics, this for two reasons. First, recall my
+
+noting above that supervenience does not imply reduction. Superfluidity can supervene on the
+
+entanglement fundamental to particle physics without condensed matter physics reducing to particle
+
+physics. Second, and more importantly, the manner in which condensed matter physics explains
+Don Howard. “Reduction and Emergence in the Physical Sciences.”                                Page 20
+San Francisco, October 2003
+
+phenomena like superfluidity and superconductivity is thought by some to differ in crucial respects
+
+from the way explanation proceeds in particle physics. Explanatory autonomy of this kind is, to me,
+
+far more interesting than dubious claims about emergence.
+
+        Philosophers of physics have overcome the logical empiricist prejudice according to which
+
+there is one and only one right method for all scientific domains. While the provision of unified
+
+explanations of disparate phenomena is still widely prized as a worthy epistemic ideal (see, for
+
+example, Kitcher 1981, but also Longino 1990 in the dissent), the methodological unity of science
+
+thesis finds rather less support today, the dominant tendency now being to emphasize the features
+
+distinctive of scientific practice in different domains (see, for example, Cartwright 1999). In that
+
+spirit, a small but growing number of philosophers of physics are studying carefully condensed
+
+matter physics as well as its relationship to particle physics, trying hard to make clear methodological
+
+sense out of the explanatory strategies characteristic of the former. My own main interest is in trying
+
+to understand how one does physics with effective Hamiltonians. But, time being short, let me talk
+
+instead about two other projects, both more relevant than mine to general questions about interlevel
+
+relations.
+
+        Margaret Morrison is a philosopher of physics at Toronto long interested in questions about
+
+unification. In earlier work she has argued that while unified theories are an appropriate ideal one
+
+should separate unification as a virtue from explanatory power (see Morrison 2000). Her central idea
+
+is that unification is to be found mainly in the employment of common mathematical tools or
+
+structures, but that the pieces of theoretical structure facilitating unification need not be and often
+
+are not themselves thereby explained. With respect to the wide employment of Lagrangian
+Don Howard. “Reduction and Emergence in the Physical Sciences.”                               Page 21
+San Francisco, October 2003
+
+techniques, she notes that “it becomes easy to see how explanatory detail is sacrificed for the kind
+
+of generality and abstraction that facilitate unification” (Morrison 2000, p. 5). Of late Morrison has
+
+turned her eye toward condensed matter physics, being especially interested in the role that models
+
+play in areas like the BCS theory of low-temperature superconductivity (Morrison 2003).
+
+       I noted above that a chief disadvantage of intertheoretic reduction as a perspective on
+
+emergence was a restriction to theories understood syntactically as sets of statements or propositions.
+
+This is not the only reason why many philosophers of science today regard the syntactic view of
+
+theories as being less helpful than what is termed the semantic view, wherein theories are regarded
+
+as sets of models (see van Fraassen 1980 for a now classic formulation of the semantic view).
+
+Morrison deploys a version of the semantic view in now representing the relations among different
+
+theories in condensed matter physics as one of partial isomorphism. Where explanatory structures
+
+coincide there is unification, but the parts of the models where isomorphism is found typically do
+
+not, by themselves, carry the explanatory burden. This is an interesting suggestion, one worth
+
+pursuing. But it does little, by itself, to illumine the relationship between condensed matter physics
+
+and particle physics.
+
+       Illuminating that relationship is, however, one of principle aims of Ang Wook Yi, a recent
+
+Ph.D. from the London School of Economics, who, like Morrison, finds the semantic view of
+
+theories more helpful in thinking about condensed matter physics. Yi suggests that we distinguish
+
+“global theories” from “substantial theories” (Yi 2001). The former–global theories–model structure
+
+common to systems in a wide phenomenal domain; the latter–substantial theories–fill in the
+
+structural details for specific phenomenal domains. In sharing the structure encoded in the relevant
+Don Howard. “Reduction and Emergence in the Physical Sciences.”                              Page 22
+San Francisco, October 2003
+
+global theory, different substantial theories would be related to one another, as on Morrison’s view,
+
+by partial isomorphism. But that global theory can and typically will be a theory at a deeper level of
+
+description, in which case it is not obvious that emergence is the most felicitous way to characterize
+
+the relationship between the substantial theories and the associated global theory. Think of my story
+
+about entanglement in particle physics and take entanglement–a fact about the microdomain–to be
+
+the global structure incorporated in the substantial theories that condensed matter physics proposes
+
+for different mesoscopic phenomena like superfluidity and superconductivity.
+
+In Conclusion: Extrapolations beyond Physics
+
+       I have argued that the case for emergence in condensed matter physics has not been made,
+
+partly because of confusion over what is being claimed, different meanings of the term,
+
+“emergence,” not always being clearly distinguished, and partly because of the lack of any overall
+
+theory of condensed matter physics upon which to base general assertions about distinctive features
+
+of the mesorealm. But my main argument is that the physical structure that seems actually to do the
+
+explaining in condensed matter physics–in those cases where we have good explanations–is the very
+
+structure, entanglement, that is the defining trait of the quantum microworld described by particle
+
+physics, the microworld upon which condensed matter physics is said not to supervene.
+
+       What does any of this have to do with the science/theology dialogue? I think that it has
+
+important implications. I warned at the outset that, in the current enthusiasm for viewing emergence
+
+as the hallmark of interlevel relations, the will might be outrunning the understanding. Claims for
+
+emergence in condensed matter physics constitute one of the most important premises in the
+Don Howard. “Reduction and Emergence in the Physical Sciences.”                                      Page 23
+San Francisco, October 2003
+
+argument. But if the case has not been made here, where we have a modicum of theoretical control
+
+over the relevant phenomena, then one should be wary of extrapolations to levels of description–to
+
+organic life, to the mind, to the soul, perhaps–where our theoretical control of the phenomena is
+
+orders of magnitude less secure.17
+
+       Patience, modesty, and humility are intellectual virtues as well as moral ones. Let us be
+
+patient, modest, and humble. Don’t let wishful thinking and vague analogies take the place of clear
+
+understanding. Let the science lead us where it will.
+
+       17
+            One among the authors whom I would thus caution is Nancey Murphey; see, for example, Murphy 1999.
+Don Howard. “Reduction and Emergence in the Physical Sciences.”                           Page 24
+San Francisco, October 2003
+
+REFERENCES
+
+Anderson, P. W. (1972). “More is Different.” Science 177, 393-396. Reprinted in Anderson 1994,
+      pp. 1-4.
+
+——— (1994). A Career in Theoretical Physics. Singapore: World Scientific.
+
+Batterman, Robert W. (2002). The Devil in the Details: Asymptotic Reasoning in Explanation,
+       Reduction and Emergence. Oxford: Oxford University Press.
+
+Blackburn, Simon (1998). “Supervenience.” In E. Craig, ed., Routledge Encyclopedia of Philosophy.
+      London: Routledge. Retrieved February 25, 2004, from http://www.rep.routledge.com/
+      article/N057SECT1.
+
+Bohr, Niels (1933). “Light and Life” Nature 131, 421-423; 457-459. Reprinted in Atomic Physics
+       and Human Knowledge. New York: John Wiley & Sons, 1961, pp. 3-12.
+
+——— (1935). “Can Quantum-mechanical Description of Physical Reality Be Considered
+   Complete?” Physical Review 48, 696-702.
+
+Brown, Harvey R. and Rom Harré, eds. (1988). Philosophical Foundations of Quantum Field
+      Theory. Oxford: Clarendon.
+
+Callender, Craig and Nick Huggett (2001). Physics Meets Philosophy at the Planck Scale:
+       Contemporary Theories in Quantum Gravity. Cambridge: Cambridge University Press.
+
+Cartwright, Nancy (1999). The Dappled World: A Study of the Boundaries of Science. Cambridge:
+       Cambridge University Press.
+
+Cushing, James T. and Ernan McMullin (1989). Philosophical Consequences of Quantum Theory:
+      Reflections on Bell’s Theorem. Notre Dame, IN: University of Notre Dame Press.
+
+Davidson, Donald (1970). “Mental Events.” In Lawrence Foster and J.W. Swanson, eds. Experience
+      and Theory. Amherst, MA: University of Massachusetts Press, 79-101. Reprinted in Essays
+      on Actions and Events. Oxford: Oxford University Press, 1988, pp. 207-225.
+
+d’Espagnat, Bernard (1976). Conceptual Foundations of Quantum Mechanics, 2nd ed. Reading,
+      MA: W. A. Benjamin.
+
+Ehrenfest, Paul and Tatiana Ehrenfest (1911). “Begriffliche Grundlagen der statistischen Auffassung
+       in der Mechanik.” In Encyklopädie der mathematischen Wissenschaften, mit Einschluss ihrer
+Don Howard. “Reduction and Emergence in the Physical Sciences.”                           Page 25
+San Francisco, October 2003
+
+       Anwendungen. Vol. 4, Mechanik, part 4. Felix Klein and Conrad Müller, eds. Leipzig:
+       Teubner, 1907-1914, pp. 1-90. English translation: The Conceptual Foundations of the
+       Statistical Approach in Mechanics. Michael J. Moravcsik, trans. Ithaca: Cornell University
+       Press, 1959.
+
+Einstein, Albert (1905). “Über einen die Erzeugung und Verwandlung des Lichtes betreffenden
+       heuristischen Gesichtspunkt.” Annalen der Physik 17, 132-148.
+
+——— (1925). “Quantentheorie des einatomigen idealen Gases. Zweite Abhandlung.” Preussische
+   Akademie der Wissenschaften (Berlin). Physikalisch-mathematische Klasse. Sitzungs-
+   berichte, 3-14.
+
+Einstein, Albert, Boris Podolsky, and Nathan Rosen (1935). “Can Quantum-mechanical Description
+       of Physical Reality Be Considered Complete?” Physical Review 47, 777-780.
+
+Ghirardi, Gian Carlo and Alberto Rimini (1990). “Old and New Ideas in the Theory of Quantum
+       Measurement.” In Miller 1990, pp. 167-191.
+
+Guénault, Tony (2003). Basic Superfluids. London: Taylor & Francis.
+
+Healey, Richard (1989). The Philosophy of Quantum Mechanics: An Interactive Interpretation.
+       Cambridge: Cambridge University Press.
+
+——— (1991). “Holism and Nonseparability.” Journal of Philosophy 88, 393-421.
+
+Hoddeson, Lillian et al., eds. (1992). Out of the Crystal Maze: Chapters from the History of Solid-
+      State Physics. New York: Oxford University Press.
+
+Howard, Don (1985). “Einstein on Locality and Separability.” Studies in History and Philosophy of
+      Science 6, 171-201.
+
+——— (1989). “Holism, Separability, and the Metaphysical Implications of the Bell Experiments.”
+   In Cushing and McMullin 1989, pp. 224-253.
+
+——— (1990). “‘Nicht sein kann was nicht sein darf,’ or the Prehistory of EPR, 1909-1935:
+   Einstein’s Early Worries about the Quantum Mechanics of Composite Systems.” In Miller
+   1990, pp. 61-111.
+
+——— (1994). “What Makes a Classical Concept Classical? Toward a Reconstruction of Niels
+   Bohr’s Philosophy of Physics.” In Niels Bohr and Contemporary Philosophy. Jan Faye and
+   Henry Folse, eds. Boston: Kluwer, pp. 201-229.
+Don Howard. “Reduction and Emergence in the Physical Sciences.”                              Page 26
+San Francisco, October 2003
+
+——— (2004). “Who Invented the Copenhagen Interpretation? A Study in Mythology.” PSA 2002.
+   Part II, Symposium Papers. Proceedings of the 2002 Biennial Meeting of the Philosophy of
+   Science Association, Milwaukee, Wisconsin, November 7-9, 2002. A special issue of
+   Philosophy of Science 71 (2004). (Forthcoming.)
+
+Kitcher, Philip (1981). “Explanatory Unification.” Philosophy of Science 48, 507-531.
+
+Laughlin, Robert B. and David Pines (2000). “The Theory of Everything.” Proceedings of the
+       National Academy of Sciences 97, 28-31.
+
+Laughlin, Robert B. et al. (2000). “The Middle Way.” Proceedings of the National Academy of
+       Sciences 97, 28-31.
+
+Longino, Helen (1990). Science as Social Knowledge. Princeton, NJ: Princeton University Press.
+
+Mandelbrot, Benoit B. (1983). The Fractal Geometry of Nature. New York: W. H. Freeman.
+
+Massimi, Michela (2001). “Exclusion Principle and the Identity of Indiscernibles: A Response to
+      Margenau’s Argument.” British Journal for the Philosophy of Science 52, 303-330.
+
+Miller, Arthur I., ed. (1990). Sixty-two Years of Uncertainty: Historical, Philosophical, and Physical
+        Inquiries into the Foundations of Quantum Mechanics. New York and London: Plenum.
+
+Morrison, Margaret (2000). Unifying Scientific Theories: Physical Concepts and Mathematical
+       Structures. Cambridge: Cambridge University Press.
+
+——— (2003). “Pragmatic Models and Unified Theories: A False Dichotomy.” Paper presented at
+   the conference, “Science and Values.” University of Bielefeld, July 9-12, 2003.
+
+Murphy, Nancey C. (1999). “Physicalism without Reductionism: Toward a Scientifically, Philo-
+      sophically, and Theologically Sound Portrait of Human Nature.” Zygon: Journal of Religion
+      and Science 34, 551-571.
+
+Nagel, Ernest (1961). The Structure of Science: Problems in the Logic of Scientific Explanation.
+       New York: Harcourt, Brace & World.
+
+Pearle, Philip (1990). “Toward a Relativistic Theory of Statevector Reduction.” In Miller 1990, pp.
+        193-214.
+
+Pitaevskii, Lev and Sandro Stringari (2003). Bose-Einstein Condensation. Oxford: Clarendon Press.
+Don Howard. “Reduction and Emergence in the Physical Sciences.”                           Page 27
+San Francisco, October 2003
+
+Schrödinger, Erwin (1935a). “Die gegenwärtige Situation in der Quantenmechanik.” Die
+       Naturwissenschaften 23, 807-812, 823-828, 844-849.
+
+——— (1935b). “Discussion of Probability Relations Between Separated Systems.” Proceedings
+   of the Cambridge Philosophical Society 31, 555-662.
+
+——— (1936). “Probability Relations Between Separated Systems.” Proceedings of the Cambridge
+   Philosophical Society 32, 446-452.
+
+Scott, Alwyn (1999). Nonlinear Science: Emergence and Dynamics of Coherent Structures. Oxford:
+        Oxford University Press.
+
+——— (2003). “Nonlinear Science and the Cognitive Hierarchy.” Paper presented at the conference,
+   “Reduction and Emergence: Implications for the Science/Theology Dialogue.” University
+   of San Francisco, October 7-11, 2003.
+
+Silberstein, Michael (2002). “Reduction, Emergence, and Explanation.” In The Blackwell Guide to
+        the Philosophy of Science. Peter Machamer and Michael Silberstein, eds. Oxford: Blackwell,
+        2002, pp. 80-107.
+
+Silberstein, Michael and John McGeever (1999). “The Search for Ontological Emergence.”
+        Philosophical Quarterly 49, 182-200.
+
+Sklar, Lawrence (1993). Physics and Chance: Philosophical Issues in the Foundations of Statistical
+        Mechanics. Cambridge: Cambridge University Press.
+
+Teller, Paul (1989). “Relativity, Relational Holism, and the Bell Inequalities.” In Cushing and
+        McMullin 1989, pp. 208-223
+
+Terhal, Barbara M., Michael M. Wolf, and Andrew C. Doherty (2003). “Quantum Entanglement:
+        A Modern Perspective.” Physics Today 56: 4 (April 2003), 46-52.
+
+Thom, René (1975). Structural Stability and Morphogenesis: An Outline of a General Theory of
+      Models. D. H. Fowler, trans. Reading, MA: W. A. Benjamin.
+
+van Fraassen, Bas C. (1980). The Scientific Image. Oxford: Clarendon.
+
+Wolfram, Stephen (2002). A New Kind of Science. Champaign, IL: Wolfram Media.
+
+Yi, Ang Wook (2000). How to Model Macroscopic Worlds: Towards the Philosophy of Condensed
+       Matter Physics. Ph.D. Dissertation. London School of Economics/University of London.
+Don Howard. “Reduction and Emergence in the Physical Sciences.”   Page 28
+San Francisco, October 2003
+
+Habe nun, ach! Philosophie[23],
+Juristerei und Medizin,
+Und leider auch Theologie
+Durchaus studiert, mit heißem Bemühn.
+Da steh ich nun, ich armer Tor!
+Und bin so klug als wie zuvor;
+Heiße Magister, heiße Doktor gar
+Und ziehe schon an die zehen Jahr
+Herauf, herab und quer und krumm
+Meine Schüler an der Nase herum-
+Und sehe, daß wir nichts wissen können!
+Das will mir schier das Herz verbrennen.
+Zwar bin ich gescheiter als all die Laffen,
+Doktoren, Magister, Schreiber und Pfaffen;
+Mich plagen keine Skrupel noch Zweifel,
+Fürchte mich weder vor Hölle noch Teufel-
+Dafür ist mir auch alle Freud entrissen,
+Bilde mir nicht ein, was Rechts zu wissen,
+Bilde mir nicht ein, ich könnte was lehren,
+Die Menschen zu bessern und zu bekehren.
+Auch hab ich weder Gut noch Geld,
+Noch Ehr und Herrlichkeit der Welt;
+Es möchte kein Hund so länger leben!
+Drum hab ich mich der Magie ergeben,
+Ob mir durch Geistes Kraft und Mund
+Nicht manch Geheimnis würde kund;
+Daß ich nicht mehr mit saurem Schweiß
+Zu sagen brauche, was ich nicht weiß;
+Daß ich erkenne, was die Welt
+Im Innersten zusammenhält,
+Schau alle Wirkenskraft und Samen,
+Und tu nicht mehr in Worten kramen.
+O sähst du, voller Mondenschein,
+Zum letzenmal auf meine Pein,
+Den ich so manche Mitternacht
+An diesem Pult herangewacht:
+Dann über Büchern und Papier,
+Trübsel'ger Freund, erschienst du mir!
+Ach! könnt ich doch auf Bergeshöhn
+In deinem lieben Lichte gehn,
+Um Bergeshöhle mit Geistern schweben,
+Don Howard. “Reduction and Emergence in the Physical Sciences.”       Page 29
+San Francisco, October 2003
+
+Auf Wiesen in deinem Dämmer weben,
+Von allem Wissensqualm entladen,
+In deinem Tau gesund mich baden!
+Weh! steck ich in dem Kerker noch?
+Verfluchtes dumpfes Mauerloch,
+Wo selbst das liebe Himmelslicht
+Trüb durch gemalte Scheiben bricht!
+Beschränkt mit diesem Bücherhauf,
+den Würme nagen, Staub bedeckt,
+Den bis ans hohe Gewölb hinauf
+Ein angeraucht Papier umsteckt;
+Mit Gläsern, Büchsen rings umstellt,
+Mit Instrumenten vollgepfropft,
+Urväter Hausrat drein gestopft-
+Das ist deine Welt! das heißt eine Welt!
+Und fragst du noch, warum dein Herz
+Sich bang in deinem Busen klemmt?
+Warum ein unerklärter Schmerz
+Dir alle Lebensregung hemmt?
+Statt der lebendigen Natur,
+Da Gott die Menschen schuf hinein,
+Umgibt in Rauch und Moder nur
+Dich Tiergeripp und Totenbein.
+Flieh! auf! hinaus ins weite Land!
+Und dies geheimnisvolle Buch,
+Von Nostradamus' eigner Hand,
+Ist dir es nicht Geleit genug?
+Erkennest dann der Sterne Lauf,
+Und wenn Natur dich Unterweist,
+Dann geht die Seelenkraft dir auf,
+Wie spricht ein Geist zum andren Geist.
+Umsonst, daß trocknes Sinnen hier
+Die heil'gen Zeichen dir erklärt:
+Ihr schwebt, ihr Geister, neben mir;
+Antwortet mir, wenn ihr mich hört!
+(Er schlägt das Buch auf und erblickt das Zeichen des Makrokosmus.)
+Ha! welche Wonne fließt in diesem Blick
+Auf einmal mir durch alle meine Sinnen!
+Ich fühle junges, heil'ges Lebensglück
+Neuglühend mir durch Nerv' und Adern rinnen.
+War es ein Gott, der diese Zeichen schrieb,
+Don Howard. “Reduction and Emergence in the Physical Sciences.”              Page 30
+San Francisco, October 2003
+
+Die mir das innre Toben stillen,
+Das arme Herz mit Freude füllen,
+Und mit geheimnisvollem Trieb
+Die Kräfte der Natur rings um mich her enthüllen?
+Bin ich ein Gott? Mir wird so licht!
+Ich schau in diesen reinen Zügen
+Die wirkende Natur vor meiner Seele liegen.
+Jetzt erst erkenn ich, was der Weise spricht:
+"Die Geisterwelt ist nicht verschlossen;
+Dein Sinn ist zu, dein Herz ist tot!
+Auf, bade, Schüler, unverdrossen
+Die ird'sche Brust im Morgenrot!"
+(er beschaut das Zeichen.)
+Wie alles sich zum Ganzen webt,
+Eins in dem andern wirkt und lebt!
+Wie Himmelskräfte auf und nieder steigen
+Und sich die goldnen Eimer reichen!
+Mit segenduftenden Schwingen
+Vom Himmel durch die Erde dringen,
+Harmonisch all das All durchklingen!
+Welch Schauspiel! Aber ach! ein Schauspiel nur!
+Wo fass ich dich, unendliche Natur?
+Euch Brüste, wo? Ihr Quellen alles Lebens,
+An denen Himmel und Erde hängt,
+Dahin die welke Brust sich drängt-
+Ihr quellt, ihr tränkt, und schmacht ich so vergebens?
+(er schlägt unwillig das Buch um und erblickt das Zeichen des Erdgeistes.)
+Wie anders wirkt dies Zeichen auf mich ein!
+Du, Geist der Erde, bist mir näher;
+Schon fühl ich meine Kräfte höher,
+Schon glüh ich wie von neuem Wein.
+Ich fühle Mut, mich in die Welt zu wagen,
+Der Erde Weh, der Erde Glück zu tragen,
+Mit Stürmen mich herumzuschlagen
+Und in des Schiffbruchs Knirschen nicht zu zagen.
+Es wölkt sich über mir-
+Der Mond verbirgt sein Licht-
+Die Lampe schwindet!
+Es dampft! Es zucken rote Strahlen
+Mir um das Haupt- Es weht
+Ein Schauer vom Gewölb herab
+Don Howard. “Reduction and Emergence in the Physical Sciences.”                        Page 31
+San Francisco, October 2003
+
+Und faßt mich an!
+Ich fühl's, du schwebst um mich, erflehter Geist
+Enthülle dich!
+Ha! wie's in meinem Herzen reißt!
+Zu neuen Gefühlen
+All meine Sinnen sich erwühlen!
+Ich fühle ganz mein Herz dir hingegeben!
+Du mußt! du mußt! und kostet es mein Leben!
+(Er faßt das Buch und spricht das Zeichen des Geistes geheimnisvoll aus. Es zuckt eine rötliche
+Flamme, der Geist erscheint in der Flamme.)
+

@@ -1,0 +1,816 @@
+# 5 Einstein and the development
+
+**source:** pdf · **section:** solutions
+**file:** Einstein_Development_QM
+---
+
+           of quantum physics
+
+                  Martin J. Klein
+
+i                                                                                The great discoverers can readily
+Towards the end of his life Albert Einstein wrote to his oldest friend that      be classed under two types of
+                                                                                 mentality: those who dig deep
+fifty long years of ‘conscious brooding’ over the question, ‘What are light      and those who range wide. Those
+quanta?’, had brought him no closer to its answer. As usual Einstein was         who possess the gift o f combining
+not exaggerating: the problem of understanding discreteness as well as           depth with breadth are rare
+continuity in the natural world occupied him throughout his career. That         indeed. Albert Einstein was one
+Einstein spent so much time and energy wrestling with the quantum theory         o f them’.
+                                                                                         (Frangois le Lionnais, ‘From
+may well surprise many, and even many physicists. His creation of the                   Plurality to Unity’, in Science
+special and general theories of relativity and his long series of attempts to                           and Synthesis)
+construct a still more general theory, a unified field theory, have over­
+shadowed his other achievements. Yet anyone who knows Einstein’s work
+is likely to agree with Max Born, one of the major figures in the develop­
+ment of quantum mechanics, who wrote: ‘In my opinion he would be one
+of the greatest theoretical physicists of all times even if he had not written
+a single line on relativity.’ That opinion is based mainly on the papers in
+which Einstein reported the remarkable results of his ‘conscious brooding’
+over the problems of quanta.
+   Einstein was the one who, in 1905, first proposed the idea of light quanta.
+It was simply heretical at that time to suggest that light sometimes behaved
+as though it consisted of localized particles of energy, and years went by
+before this suggestion won any acceptance. As Einstein probed further, and
+worked out the consequences of Max Planck’s radiation law, he saw that a
+new theory of light was needed, one in which the dual nature of light—wave
+and particle—would be accounted for. By 1908 he was already convinced
+that these problems were ‘so incredibly important and difficult’ that every
+physicist should devote his efforts to trying to solve them. Einstein was also
+the first to realize that a quantum theory of matter was needed, as well as a                                    133
+                                      new theory of radiation. His early effort in this direction—a quantum
+                                      theory of the specific heats of solids—led to new and unexpected connec­
+                                      tions among the thermal, optical, and elastic properties of solids, helping to
+                                      convince other physicists that the quantum theory must be taken seriously.
+                                      Einstein’s papers in this field over a period of twenty years influenced and
+                                      inspired Niels Bohr, Louis de Broglie, and Erwin Schrodinger, among
+                                      others, in their own contributions to the great synthesis that created a
+                                      quantum physics in the 1920s.
+                                         In this article I will sketch Einstein’s role in this development, describing
+                                      the works just mentioned, emphasizing the questions Einstein was trying
+                                      to answer, and the deep concern with the foundations of physics underlying
+‘I have greatly admired the papers all his efforts. But the story does not end there. When the new quantum
+published by Mr Einstein on
+questions dealing with modern         physics was developed, Einstein greeted it sceptically even though he had
+theoretical physics. Moreover, I      done as much as anyone to bring it into being. He recognized its great
+believe that the mathematical         successes, but he never accepted it as the new fundamental theory it claimed
+physicists all agree that these       to be. Einstein wrote relatively little on this subject during the second half
+works are of the highest order. . . . of his career, concentrating on his search for a unified field theory. His
+If one considers that Mr Einstein
+is still very young, one has every    critical comments during this period cannot, however, be ignored; they
+right to justify the greatest         were important to his opponents, especially to Bohr, in helping to clarify
+expectations from him, and to see just what the new quantum physics did mean. They are also important in
+in him one o f the leading            understanding Einstein’s own goals as a physicist for, as Born remarked,
+theoreticians of the future. . . .’   ‘Einstein’s conception of the physical world cannot be divided into water­
+                       (Marie Curie)
+                                      tight compartments’.
+
+                                   11
+                                   In June 1905, Annalen der Physik published an article by Einstein entitled
+                                   ‘On a Heuristic Viewpoint Concerning the Production and Transformation
+                                   of Light’. Physicists usually refer to this as ‘Einstein’s paper on the photo­
+                                   electric effect’, but that description does not do it justice. Einstein himself
+                                   characterized it at the time as ‘very revolutionary’, and he was right. This
+                                   is the paper in which he proposed that light can, and in some situations
+                                   must, be treated as a collection of independent particles of energy—light
+                                   quanta—that behave like the particles of a gas. Einstein was well aware that
+                                   a great weight of evidence had been amassed in the course of the previous
+                                   century showing light to be a wave phenomenon. He knew, in particular,
+                                   that Heinrich Hertz’s experiments, carried out less than twenty years earlier,
+                                   had confirmed Maxwell’s theoretical conclusion that light waves were
+                                   electromagnetic in character. Despite all this evidence Einstein argued that
+                                   the wave theory of light had its limits, and that many phenomena involving
+                                   the emission and absorption of light ‘seemed to be more intelligible’ if his
+                                   idea of quanta were adopted. The photoelectric effect was one of several
+                                   such phenomena which he analysed to show the power of his new hypo­
+                                   thesis. But even granting the success of that hypothesis, what prompted
+                                   Einstein to make this extraordinary suggestion?
+134                                   Einstein devoted the greater part of his paper to answering just this
+question, presenting the arguments that led him to his new ‘heuristic
+viewpoint’ of quanta. These arguments, at once simple and daring, embody
+some of the essential features of his whole approach to physics. His deepest
+concern, expressed in the opening sentences of his paper, was the very
+foundation of his science. Let us look briefly at the background for this
+concern.
+   When Einstein was a student at the Polytechnic in Zurich just before
+1900, working eagerly in the laboratory but skipping many of the lectures
+to read the works of the great physicists on his own, he absorbed the spirit
+that had guided the development of physics through three centuries. I refer
+to ‘the mechanical world view’, the conviction that all natural phenomena
+are to be explained in terms of a single underlying theory—mechanics. The          . . . he never hesitated to change
+                                                                                   his opinion when he found that
+successes of this approach were evident to the young Einstein. ‘What made          he had made a mistake and to say
+the greatest impression upon the student,’ he wrote many years later, ‘was         so. Indeed, there was an occasion
+. . . the achievements of mechanics in areas which apparently had nothing          when somebody accused him of
+to do with mechanics: the mechanical theory of light. . . and above all the        saying something different from
+kinetic theory of gases. . . . These results supported at the same time            what he had said a few weeks
+                                                                                   previously, and Einstein replied,
+mechanics as the foundation of physics and of the atomic hypothesis. . . . It      ‘O f what concern is it to the dear
+was also of profound interest that the statistical theory of classical mechanics   Lord what I said three weeks
+was able to deduce the basic laws of thermodynamics, something which               ago?’ It was just a way of saying
+was in essence already accomplished by Boltzmann.’ The vision of a single          that it did not matter. It was
+fundamental theory as the basis for all the diverse aspects of the world           wrong, and now he knew better.
+                                                                                        (Otto Frisch, in G. J. Whitrow,
+captured Einstein’s imagination, as it had captured the imagination of                       Einstein: The Man and His
+theorists long before him.                                                                                  Achievement)
+   By 1900, however, it was no longer possible to accept the goal of
+explaining all phenomena in mechanical terms, and Einstein recognized this
+too in his early years. He read Ernst Mach, whose criticism of the mechanical
+programme, carried out with ‘incorruptible scepticism and independence’,
+shook Einstein’s ‘dogmatic faith’. He also studied Maxwell’s theory of
+electromagnetism, finding it ‘the most fascinating subject at the time that
+I was a student’. This theory made a shift in basic concepts, a shift that
+Einstein called nothing less than ‘revolutionary’, from the idea of forces
+acting at a distance to that of fields acting locally. Although Maxwell and
+his immediate successors thought of the electromagnetic field as acting
+through a mechanical medium whose structure could eventually be deter­
+mined, all attempts to determine that structure proved fruitless. Electro­
+magnetism was not successfully explained in mechanical terms and, as
+Einstein put it: ‘One got used to operating with these fields as independent
+substances without finding it necessary to give one’s self an account of
+their mechanical nature; thus mechanics as the basis of physics was being
+abandoned, almost unnoticeably, because its adaptability to the facts
+presented itself finally as hopeless.’
+   Einstein was very conscious of this disturbing dualism in the foundations
+of physics, with two kinds of basic theories of quite different character—
+ mechanics, and the electromagnetic field theory. It was this dichotomy he                                        135
+                                       pointed to at the beginning of his 1905 paper, ‘On a Heuristic Viewpoint’:
+                                       ‘There is a profound formal difference between the theoretical ideas which
+                                       physicists have formed concerning gases and other ponderable bodies
+                                       and the Maxwell theory of electromagnetic processes in so-called empty
+                                       space.’ He referred to the contrast between the discrete mechanics of matter
+                                       which is atomic in structure and in which a finite number of mechanical
+                                       quantities specify the state of a system, and the continuous field theory of
+                                       electromagnetism in which a set of continuous functions are needed to
+                                       specify the state of the field. This dualism between particle and field,
+                                       between mechanics and electromagnetism, was the starting point of his
+                                       considerations. It was a disturbing dualism because it could lead to serious
+During one of the lectures, Paul       problems when the two disparate fundamental theories had to be brought
+Ehrenfest passed on a note to
+Einstein, saying ‘Don’t laugh!         to bear together. Einstein immediately gave an example of one of these
+There is a special section in          problems, so serious that his friend Paul Ehrenfest later gave it the dramatic
+purgatory for professors of            name, ‘the ultraviolet catastrophe’. Einstein’s example involved the black-
+quantum theory, where they will        body radiation recently studied in detail by Max Planck using quite another
+be obliged to listen to lectures on    approach. Let us examine Einstein’s treatment of this situation.
+classical physics for ten hours
+every day.’ To which Einstein             He considered a volume, enclosed by reflecting walls, that contained a gas
+replied, ‘I laugh only at their        and also a number of harmonically bound electrons. These electrons, acting
+naivete. W ho knows who would          as charged harmonic oscillators, would emit and absorb electromagnetic
+have the laugh in a few years?’        radiation and, when the system came to thermodynamic equilibrium, this
+               (J. Mehra, The Solvay would be identical with the blackbody radiation. The oscillating electrons
+               Conferences on Physics)
+                                       would also exchange energy with the freely moving molecules of the gas
+                                       through collisions. These oscillating electrons served, in effect, as the link
+                                       between the material system—the gas, described by mechanics—and the
+                                        electromagnetic system—the radiation, described by Maxwell’s theory.
+                                        Both theories could be used to determine the average energy u of an
+                                       oscillator of frequency v when the system is in equilibrium at absolute
+                                       temperature T. The statistical mechanics of the gas required an oscillator in
+                                       equilibrium with the gas molecules to have an average energy proportional
+                                        to T,
+                                                                        u= k T                                   (1)
+                                   where k is a universal constant, the gas constant per molecule (or Boltz­
+                                   mann’s constant as it is now called). The electromagnetic theory required
+                                   the average energy of the oscillator to be proportional to the energy density
+                                   of the surrounding radiation, if absorption and emission were to be equal
+                                   on the average. If p(v, T)dv is the energy of the radiation, per unit volume,
+                                   having frequencies in the interval v to v+di', then the average energy u of
+                                   the oscillator must be given by
+                                                                  u=(c3l$nv2)p(v, T)                              (2)
+                                    where c is the velocity of electromagnetic waves, or light.
+                                      Since equations (1) and (2) give two alternative expressions for the same
+136                                 quantity u, these expressions can be equated, giving the result
+                           p(v, T) = (8nV*lc°)kT                          (3)
+
+This equation ought to have fixed the distribution of energy in the spectrum
+of blackbody radiation by determining the function p(v, T). The result
+obtained, however, was not only in conflict with experiment, but it was
+intrinsically unacceptable. For if one tried to calculate the total energy of
+the radiation in a unit volume by integrating p(y, T) over all frequencies,
+the result obtained from equation (3) was proportional to 0J°° v2dv which is
+infinite. The result of combining the mechanical and electromagnetic
+equations was really no result at all. Einstein saw this as a clear sign that
+physics could not rest on its present divided foundations, and that in some
+way or other the foundations must be unified.                                   A physical theory, in Einstein’s
+   Since he saw no way of accomplishing that step at the time, what could       conception, springs from the free
+                                                                                creative activity o f a man who
+be done? Einstein proceeded to analyse the implications of the radiation        sets up axioms to start with and
+spectrum p(v, T) as it was then known. As long as the frequency of the          need only justify them by their
+radiation considered was not too low (or the temperature too high), the         results, which are sometimes
+spectrum could be described by the distribution law suggested by Wilhelm        rather distant, and by a conviction
+Wien in 1896:                                                                   o f internal coherence when the
+                                                                                proposed theory unites very wide
+                         p(v, T) = av3exp[ —flv/ T]                       (4)   areas of physics.
+                                                                                        (Andre Lichnerowicz, ‘From
+where a. and (8 are constants. To see the consequences of this distribution,           Plurality to Unity’, in Science
+                                                                                                       and Synthesis)
+Einstein treated the radiation as a thermodynamic system at equilibrium,
+a system having definite values of entropy as well as energy. He showed
+that if one considers the radiation of frequency v, and keeps the energy E
+of this radiation fixed while slowly changing the volume of the container
+from V0 to V, the entropy of this radiation changes from S0 to 5 according
+to the equation
+
+                          S —S0= (E/^v)log(V/V0)                          (5)
+
+  This result was strikingly similar to the entropy change of an ideal gas of
+N particles whose volume is changed from V0 to V at constant energy (or
+temperature),
+                         ( S - 5 0)gas = M log(F/K0)                      (6)
+
+where k is the same universal constant that appeared in equation (1). Was
+this a mere coincidence, or did it suggest something essential about the
+nature of radiation? The answer to that question depended on the signi­
+ficance of that logarithmic form for entropy. To explore this, Einstein
+turned to Ludwig Boltzmann’s statistical interpretation of the entropy,
+according to which the entropy difference S —S0 between two states of a
+macroscopic system is proportional to the relative probability W of the
+occurrence of those two states
+
+                              5 —5 0=M ogfF                              (7)                                   137
+                                        with the same constant k appearing. Now, regardless of the laws of motion
+                                        that describe the motions of the gas particles and regardless of the nature of
+                                        these particles, so long as they move independently of one another and
+                                        show no preference for one part of the available volume compared to
+                                        another, the probability of finding the N particles in a subvolume V of the
+                                        total volume V0 is clearly
+                                                                        W =(VIV0)N                                 (8)
+                                        In other words, the logarithmic dependence of the entropy of a gas on its
+                                        volume comes only from the independence of the gas particles.
+                                          Einstein’s next step was to turn the argument around and apply it to the
+‘All these fifty years o f conscious    radiation: since the entropy of the radiation has exactly the same form as
+brooding have brought me no             that of the gas, one can legitimately infer that the probability of finding all
+nearer to the answer to the             the radiation (of frequency v) in the subvolume V must be given by the
+question “W hat are light quanta?”      equation
+Nowadays every Tom, Dick, and
+Harry thinks he knows it, but he
+                                                                       WT&(i = {VlV0)»'                             (9)
+is mistaken.’                           where the exponent N ' is obtained by comparing equations (5) and (6),
+                      (A.E. to Besso,
+                  12 December 1951)                                      N '= (E/kfiv)                             (10)
+                                        Einstein drew what was, for him, the inescapable conclusion:
+                                          Monochromatic radiation of low density (within the region of validity
+                                          of the Wien distribution law) behaves with respect to thermal pheno­
+                                          mena as if it consisted of independent energy quanta of magnitude kfiv.
+                                           This was the chain of reasoning that led Einstein to suggest treating
+                                        radiation as if it were composed of a collection of independent particles of
+                                        energy. He took the suggestion very seriously himself, applying it im­
+                                        mediately to several phenomena, one of which was the photoelectric effect.
+                                        The experimental material on the emission of electrons from a metal
+                                        surface when the surface is irradiated by ultraviolet light was very limited
+                                        in 1905, but it was known that the energies of the electrons emitted were
+                                        independent of the intensity of the incident light. This was quite unintel­
+                                        ligible if the light were considered to be a wave, since the intensity of a
+                                        wave is always a measure of the energy carried by it. If one accepted
+                                        Einstein’s proposal, however, the process of photoelectric emission could be
+                                        thought of as a combination of independent events, the simplest of which
+                                        is the absorption of one quantum of energy by an electron in the metal
+                                        surface, and its conversion into the kinetic energy of the electron which is
+                                        thereby set free. The maximum energy of such a photoelectron would then
+                                        be determined by the energy of one light quantum, which is k/2v on
+                                        Einstein’s hypothesis. The maximum kinetic energy of the electron could
+                                        not be equal to k/3v because it would take a certain amount of work, P, to
+                                        remove the electron from the metal in which it was bound, and so the
+                                        equation for the maximum energy of the photoelectrons, (K.E.)max, would
+138                                     be
+                             (K.E.)maX= fe£v-P                             (« )
+   This argument immediately explains the independence of the electron
+energy from the intensity of the incident light, since increasing that intensity
+increases the number of incident quanta without affecting the energy kfiv of
+the individual light quantum. The energy of the emitted photoelectron
+would be less than the maximum predicted by equation (i i) if the energy
+of a quantum were shared among several electrons, or if the electron
+emerged from the interior of the metal rather than its surface. The maxi­
+mum energy can be measured by determining the electric potential Yst0p
+needed just to prevent any photoelectrons from reaching the collecting
+electrode. If e is the charge on an electron, equation (n ) can then be
+rewritten in the form
+                            Tstop=(fej3/e)v-(P/e)                          (12)
+The stopping potential should be a straight line when plotted against the
+frequency of the incident (monochromatic) light. The slope of that line
+(b/3/e) should be the same for all emitting surfaces, and this universal slope
+depends only on universal constants determinable from experiments on F'gure 22
+completely different phenomena. Only the work P is characteristic of the Millikan’s verification of
+particular metal surface used in the experiment.                               Einstein’s photoelectric equation
+
+                                                                                                            139
+                                          These predictions made by Einstein on the basis of his light quantum
+                                       hypothesis were almost as remarkable as the hypothesis itself, since prac­
+                                       tically nothing was known in 1905 about the frequency dependence of the
+                                       stopping potential for photoelectrons. It took a decade of difficult experi­
+                                       mentation before Einstein’s equation (12) was fully confirmed, especially
+                                       by the work of Robert A. Millikan. Even in 1916, although Millikan
+                                       announced that Einstein had predicted ‘exactly the observed results’, he
+                                       considered Einstein’s idea of light quanta to be a ‘bold, not to say reckless,
+                                       hypothesis’, which had ‘now been pretty generally abandoned’.
+
+                                       hi
+The year 1905 was Einstein’s
+annus mirabilis. Because of his        When Einstein proposed the usefulness, the ‘heuristic’ value, of light quanta
+contributions, volume 17 of the        on the basis of the arguments that have just been described, he had already
+Annalen der Physik of that year is     read Max Planck’s papers on the theory of blackbody radiation. Planck had
+now regarded as one of the most        been working on this problem since 1897 and in 1900 he announced a new
+remarkable volumes o f scientific      form for the radiation distribution, one which generalized Wien’s law
+literature ever published.
+       (G. J. Whitrow, Einstein: The   (equation (4) above) and claimed validity for all frequencies and
+            Man and His Achievement)   temperatures:
+
+                                                                                                                 <-3)
+                                       The constant h (Planck’s constant), which appears in this radiation law is
+                                       related to the constants introduced earlier by the equation
+
+                                                                           h = Pk                                (14)
+
+                                       as one can easily see by looking at the limiting form of equation (13) for
+                                       large values of (hv/kT), when it reduces to the Wien form. At the other
+                                       extreme, small values of (hv/kT)—low frequencies or high temperatures—
+                                       Planck’s result agrees with the inadequate result of mechanics and electro­
+                                       magnetic theory (equation (3) above) as Einstein pointed out in his 1905
+                                       paper.
+                                          Planck’s derivation of his distribution law was not easily disentangled,
+                                       however, and Einstein saw no direct connection between his own work and
+                                       Planck’s at that time. I say ‘no direct connection’ because Einstein had read
+                                       Planck’s work and thought about it; it had stimulated him to find his own
+                                       way of dealing with radiation, a way quite different from Planck’s. It was
+                                       only in 1906 that Einstein realized that Planck, too, had introduced a new
+                                       discreteness into physics. In Planck’s case it was not the energy of radiation
+                                       that was to be thought of as localized in particles or quanta, but rather the
+                                       energy of those charged harmonic oscillators, the vibrating electrons that
+                                       emitted and absorbed the radiation, that could only take on certain discrete
+                                       values rather than varying continuously. Planck had not been very clear
+                                       about this point; he introduced the discreteness as a device to make
+140                                    calculation possible, and did not insist on any physical significance of his
+ dements of energy’, as he called them, at the time he introduced them into
+rhysics in 1900.
+   Late in 1906, after Einstein had studied Planck’s book on the theory of
+radiation and pursued his own ideas more deeply, he was ready to set forth
+some more startling consequences of his thinking. Planck’s way of treating
+the charged oscillators in his theory was equivalent to saying that an oscil-
+.itor of frequency v could assume only the energies o, hv, 2hv, . . ., nhv, . . .
+and no others. The average energy u of such an oscillator in equilibrium at
+temperature T would no longer be given by equation (1), but instead by
+the equation
+                                       hv                                           The essence o f Einstein’s profundity
+                                  cxp(hvjkT) —1                             ^^      lay in his simplicity; and the
+                                                                                    essence of his science lay in his
+which reduces to the earlier result when (hv/kT) is very small. This meant          artistry—his phenomenal sense of
+a modification in the kinetic molecular theory of heat, or statistical              beauty. ‘This was sometime a
+mechanics as we would now call it, a modification with major implications,          paradox, but now the time gives
+                                                                                    it proof,’ as Hamlet said in a
+as Einstein pointed out:
+                                                                                    different connection.
+    While up to now molecular motions have been supposed to be subject                      (Banesh Hoffmann: Albert
+                                                                                           Einstein: Creator and Rebel)
+  to the same laws that hold for the motions of the bodies we perceive
+  directly . . ., we must now assume that, for ions which can vibrate at a
+  definite frequency and which make possible the exchange of energy
+  between radiation and matter, the manifold of possible states must be
+  narrower than it is for the bodies in our direct experience.
+But this was not all, for Einstein went on to write:
+    I now believe that we should not be satisfied with this result. For the
+  following question forces itself upon us: If the elementary oscillators that
+  are used in the theory of the energy exchange between radiation and
+  matter cannot be interpreted in the sense of the present kinetic molecular
+  theory, must we not also modify the theory for the other oscillators that
+  are used in the molecular theory of heat? There is no doubt about the
+  answer in my opinion. If Planck’s theory of radiation strikes to the heart
+  of the matter, then we must also expect to find contradictions between
+  the present kinetic molecular theory and experiment in other areas of the
+  theory of heat, contradictions that can be resolved in a similar fashion.
+  Einstein saw that what Planck had found was only the beginning, and
+that this unexpected discreteness of the energy would have to prevail in a
+variety of other situations. In other words, Einstein saw the need for a
+quantum theory which, when it was achieved, would clarify the properties
+of matter as well as those of radiation. He could not construct such a theory
+in general, but he could and did point to one of those ‘contradictions
+between the present kinetic molecular theory and experiment’ that already
+existed, and show how it could be resolved with the help of the new dis­
+creteness in energy. The contradiction concerned the specific heats of solids.                                     ITI
+                                           The calorimetric measurements made by Dulong and Petit early in the
+                                        nineteenth century had shown that the heat capacities of the elements in the
+                                        solid state had a common value, if each of these heat capacities were taken
+                                        for a gram atomic weight (or mole) of the substance in question. This
+                                        Dulong-Petit rule had provided a useful method for estimating atomic
+                                        weights, and it found a simple explanation in the kinetic molecular theory.
+                                        If the thermal motions of the atoms in a solid were taken to be simple
+                                        harmonic vibrations about positions of equilibrium, there would be three
+                                        independent motions per atom, or 3N 0 oscillations for one mole of the
+                                        substance. (N0 is Avogadro’s number, the number of atoms in a gram
+                                        atomic weight.) Each vibration in a solid at temperature T would have an
+During the first of my talks with
+                                        average energy of kT, as required by equation (1), and so the total thermal
+Einstein an amusing incident
+occurred. I was very nervous and        energy of one mole of the solid would have to be }N0kT, or 3R T, where R
+still very shy and after we had been    is the usual gas constant per mole. The rate of change of this thermal
+talking for about twenty minutes        energy with temperature is the specific heat per mole, and it has the value
+the maid came in with a huge            3R, or approximately 6 calories per degree, the Dulong-Petit value. So far
+bowl of soup. I wondered what
+                                        there is no contradiction. But this explanation of the Dulong-Petit rule
+was happening and I thought that
+this was probably a signal for me       proved too much, since the rule is only a rule and a number of elements
+to leave. But when the girl left        were known to have specific heats much smaller than the Dulong-Petit
+the room Einstein said to me in a       value. These exceptions occur particularly among the lightest elements such
+conspiratorial whisper: ‘That’s a       as boron and carbon, and it was also known before 1900 that their specific
+trick. If I am bored talking to
+                                        heats vary rapidly with temperature, approaching the Dulong-Petit value
+somebody, when the maid comes
+in I don’t push the bowl o f soup       well above room temperature.
+away and the girl takes whomever           There was also another problem, perhaps even more disturbing than
+I am with away and I am free.           these exceptions to the Dulong-Petit rule. By 1906 it was clear that atoms
+   (L. L. Whyte, in G. J. Whitrow,      had an internal structure and that they ‘contained’, in some way, electrons.
+           Einstein: The Man and His
+                                        The frequencies at which ultraviolet light was absorbed in solids had
+                         Achievement)
+                                        been associated with electronic motions, just as the infrared absorption
+                                        frequencies were associated with ionic vibrations. W hy did these elec­
+                                        tronic motions contribute nothing at all to the specific heat of the solid,
+                                        instead of the amount k per vibration that the classical theory seemed to
+                                        require?
+                                           Einstein resolved all these difficulties with one stroke. For if he was right
+                                        in thinking that all oscillations on the atomic scale had to have quantized
+                                        energies (‘if Planck’s theory strikes to the heart of the matter’), then each
+                                        oscillator has an average energy given by equation (15) instead of the classical
+                                        value kT. The electronic oscillations at ultraviolet frequencies can be seen
+                                        at once to make negligible contributions at any reasonable temperature,
+                                        since at such high frequencies (/iv/kT) is a large number and the average
+                                        energy given by equation (15) is, in effect, practically zero, as is its temper­
+                                        ature derivative. As for the atomic vibrations, Einstein made the simplest
+                                        possible assumption (recognizing explicitly that he might be oversimpli­
+                                        fying) : he took all these vibrations to be independent and of the same
+                                        frequency v. The energy U of one mole of the solid would then be given
+142                                     by the equation
+                                        3N0hv
+                                   exp(hvlkT)—i
+
+ The specific heat is obtained by differentiating U with respect to temper­
+ ature. If this specific heat is plotted as a function of temperature, or rather of
+  •eT/hv), one obtains a curve that rises smoothly and monotonically from
+zero at the origin and approaches the value 3R, the Dulong-Petit value,
+asymptotically when (kT/kv) becomes large. Roughly speaking, the
+specific heat is negligibly small when (kT/Ziv) is less than about 0.1, and it
+has about the full value of 3R when {kTjhv) is appreciably greater than one.
+Since light atoms would be expected to have higher vibration frequencies
+than heavier ones, other things being equal, this result already explained            It has been said that common
+                                                                                      sense is the prerogative of the good,
+qualitatively why the light elements have anomalously low specific heats              and the bad are destroyed by
+at room temperature.                                                                  their lack of it. W e may wonder
+   This theory of specific heats suggested an important and previously un­            if something similar does not
+suspected connection between the optical and thermal properties of solids.            apply to truth—that truth is the
+Einstein identified the vibration frequency of the atoms with the frequency           prerogative o f the simple, and
+                                                                                      only those who are in a certain
+of optical absorption, at least for those crystals in which such absorption           sense without guile are able to
+occurred. The data available to him were consistent with this relationship            recognize it. In the case of someone
+and in several cases he was able to make reasonably accurate predictions of           like Einstein we cannot but feel
+the absorption frequency from the measured specific heat and his equation             that there is indeed an inner and
+for its temperature dependence.                                                       necessary connection between the
+                                                                                      extraordinary theoretical
+   Even more important than this relationship between optical and thermal             simplicity o f his work and the
+properties was the general theorem implied by Einstein’s theory: the                  personal simplicity of the man
+specific heats of all solids must become vanishingly small at sufficiently low        himself. W e feel that only
+temperatures. The solids that had been labelled as exceptions because they            someone himself so simple could
+did not obey the Dulong-Petit rule were not to be thought of as exceptional           have conceived such ideas.
+                                                                                                 (Henry Le R oy Finch, in
+at all; they merely exhibited the universal decrease of specific heats with                     Conversations with Einstein)
+decreasing temperature at relatively high temperatures, because of their
+light atoms and correspondingly high vibrational frequencies. Carbon in the
+form of the diamond crystal, for example, did not acquire the full Dulong-
+Petit value of its specific heat unless it was heated above 1000 °C, and its
+specific heat was only about a tenth of that value when it was cooled to
+only —50 °C. Einstein used the data on diamond, whose specific heat had
+been measured as a function of temperature, for a test of his theoretical
+equation. He could not, however, test it on other materials, particularly
+those that did obey the Dulong-Petit rule at room temperature, because no
+data for the behaviour of specific heats at low temperatures were available.
+   Such experiments were made a few years later by Walther Nernst and his
+collaborators in Berlin, not in order to test Einstein’s theory of specific
+heats but to confirm Nernst’s own ideas on the thermodynamic properties
+of matter near the absolute zero of temperature. Nernst found in 1910 and
+1911 that all the many specific heats he measured did fall off at low enough
+temperatures, and learned that this had been predicted by Einstein’s
+quantum theory of specific heats. Nernst was properly impressed by this                                               143
+                                         and became a staunch advocate of the importance of the new quantum
+                                         theory of Planck and Einstein, even if he did refer to it as ‘a very odd rule
+                                         (for calculation), one might even say a grotesque one’.
+                                            The whole subject was discussed at the first of the famous Solvay Con­
+                                         ferences on Physics, initiated and funded by the Belgian industrial chemist,
+                                         Ernest Solvay. This first conference, held in 1911, had as its topic ‘Radiation
+                                         Theory and Quanta’. Lorentz, Planck, Nernst, and Einstein were among
+                                         those who presented papers; the title of Einstein’s paper was ‘The Present
+                                         State of the Problem of Specific Heats’.
+
+                                         IV
+The history o f physics offers many
+                                      Einstein later summed up his feelings about the state of physics during this
+classic cases where the non-
+scientific attitude of ‘disciples’ is period in these words: ‘It was as if the ground had been pulled out from
+quite unmistakable, and the study     under one’s feet, with no firm foundation on which to build to be seen
+of such cases might very well give    anywhere’. He devoted much of his effort to a continued probing of the
+the physicist a ‘feel’ for recognizingconsequences of Planck’s distribution law for blackbody radiation, searching
+similar patterns occurring in our
+                                      for what it implied about the structure of radiation and about the status of
+days. It was reflecting upon one
+such case—the difference of           the electromagnetic field theory. In 1909 he reported some results of this
+attitude between Newton and his       probing at the annual meeting of German scientists, held that year at
+successors—that made Einstein         Salzburg. It was his first address to a major scientific gathering, and the first
+remark: ‘Newton himself was           occasion for him to meet many of the physicists whose works he had
+better aware of the weaknesses
+                                      studied.
+inherent in his intellectual edifice
+than the generation of learned           In his address Einstein emphasized how much Planck had departed from
+scientists which followed him.        classical ideas on radiation in his theory of the distribution law for black-
+This fact has always aroused my       body radiation. Planck’s answer, the law expressed in equation (13), was
+deep admiration.’                     well confirmed by experiments over the whole accessible spectrum, but one
+   (Stanley L. Jaki, The Relevance of
+                                      might still have some doubts. ‘Would it not be conceivable,’ Einstein
+                             Physics)
+                                      asked, ‘that Planck’s radiation formula was indeed correct, but that it
+                                      could be derived by some method that was not based on such an apparently
+                                      monstrous assumption as Planck had used? Would it not be possible to
+                                      replace the hypothesis of light quanta by some other hypothesis by means
+                                      of which one could do equal justice to the familiar phenomena? If it is
+                                      necessary to modify the principles of the theory could one not at least
+                                      retain the equations for the propagation of radiation and interpret only the
+                                      elementary events of emission and absorption in a way different from that
+                                      used previously?’
+                                         To all these questions Einstein’s answer was ‘No’. It was not possible to
+                                      have Planck’s satisfactory distribution law without the new and disturbing
+                                      discreteness in nature. Einstein justified this assertion by extending his
+                                      earlier application of Boltzmann’s relation between entropy and prob­
+                                      ability (equation (7)). Given that the radiation was a thermodynamic
+                                      system whose equilibrium state was described by Planck’s law, one could
+                                      calculate the fluctuations in its energy. If one considers that part of the black-
+                                      body radiation in a volume V, whose frequencies lie in a small interval
+                                      between v and v + dv, the mean square fluctuation in its energy (dEj2 is
+ :: and to have the form
+                      (AE)2=Vdv[hvp+(c2l8nv2)p2],                           (17)
+  •mere p is given by Planck’s law (equation (13)). Einstein was able to
+  scentify these two terms individually. The first is just the fluctuation to be
+  expected in a collection of independent energy quanta, each of which has
+  nergy hv. The second is the fluctuation that would result from interfering
+  waves.
+     Einstein commented that it was as though there were two independent
+  muses producing the fluctuations, with their separate contributions being
+  simply additive. In the high frequency, low temperature region, where
+  Planck’s law goes over to Wien’s, the first or particle term predominates. In    . . . in spite of so many touches
+                                                                                   which show his friendliness there
+ the low frequency, high temperature region, where the classical distribution      is every sign that he was
+   5 found, the second or wave term predominates. Einstein concluded that          extraordinarily self-sufficient.
+ the particle-like behaviour in the high frequency region is a necessary con­      Only a man as self-sufficient as he,
+ sequence of Planck’s distribution law. One cannot hope to avoid it by a new       could have worked out his first
+                                                                                   epoch-making discoveries in
+ derivation of the distribution from alternative assumptions; the particle-like
+                                                                                   obscurity. But despite his
+ behaviour follows from the law itself. While Planck had introduced                friendships he was essentially a
+ quantization as a sufficient condition for deriving his distribution, Einstein    lonely figure. It was perhaps a
+ argued that it was a necessary implication of that distribution.                  penalty he had to pay for an
+    The fluctuation result with its two independent terms, which Einstein          endowment o f genius o f a
+                                                                                   magnitude which appears but
+ confirmed by other arguments of quite another sort, suggested something
+                                                                                   rarely in the whole o f recorded
+ turther. Einstein’s earlier heuristic proposal of light quanta never purported    history.
+ to be more than that; he had never claimed that he was offering it as a new                      (Christopher Sykes, in
+theory to replace Maxwell’s theory of the electromagnetic field. But now                   G .J. Whitrow, Einstein: The
+there was at least a hint as to the proper direction in which progress might                   Man and His Achievement)
+be made, since the wave and particle aspects of radiation appeared together
+in a single equation. ‘It is my opinion,’ Einstein announced, ‘that the next
+phase of the development of theoretical physics will bring us a theory of
+light that can be interpreted as a kind of fusion of the wave and emission
+ [particle] theories.’ The problem was to take the next step since, as he
+remarked, ‘the fluctuation properties . . . present small foothold for setting
+up a theory’. After all, if one had known nothing of interference or
+diffraction phenomena and had had only the second (wave) term in the
+fluctuations to go on, ‘Who would have enough imagination to construct
+the wave theory of light on this foundation?’
+    Difficult as the task was, Einstein certainly tried. During the years from
+1908 to 1911 he wrestled with the problem, trying to construct some sort
+of nonlinear equation that would allow him to introduce both the radiation
+constant it and the electronic charge e into the theory. He expected the
+discreteness of charge and the discreteness of energy to enter the theory
+together since the combination (e2//ic) is dimensionless. Although he
+published nothing but a few passing remarks on his work we know from his
+correspondence during those years how intensively he worked on the radi­
+ation problem. This is especially true of his correspondence with H. A.                                           145
+                                                                                                                                                                       Einstein: A centenary volume
+Photo Couprie, Bruxelles
+
+         GOLDSCHMIDT          PLANCK           RUBENS      LINDEMANN                 HASENOHRL
+
+            NERNST          BRILLOUIN               SOMMERFELD   M DE BROGLIE              HOSTELET
+
+                                           SOLVAY                               KNUDSEN          HERZEN      JEANS   RUTHERFORD
+
+                                                            LORENTZ              WARBURG         WIEN                                            EINSTEIN   LANGEVIN
+
+                                                                                      PERRIN          Madame CURIE      POINCARt   KAMERLINGH ONNES
+
+Figure 23         The First Solvay Conference on Physics, Brussels, 1911
+Lorentz, whose electron theory was then much in Einstein’s mind. In May
+.911 Einstein wrote to his closest friend, Michele Besso, that he was no
+ : nger trying to construct quanta, ‘because I now know that my brain is
+incapable of accomplishing such a thing’. It was at about this time that
+Einstein turned his full attention to the problem of gravitation, with
+historic consequences.
+
+Y
+ By the time Einstein took up the problem of radiation again in 1916, there
+ cad been major changes in the quantum theory. Niels Bohr’s papers had
+ shown that quantum concepts offered the possibility of understanding the
+ structure of the atoms and the characteristics of the spectra they emit.
+ Although Einstein did not work on these problems he was clearly influenced
+ by Bohr’s ideas, as Bohr had been by his. Einstein’s new work was, in the
+first instance, a fresh derivation of the Planck distribution law. Einstein
+referred to it in print as ‘astonishingly simple and general’, and in a letter to
+Besso as perhaps ‘the derivation’ of this important law. This new derivation
+avoided an inconsistency that marred Planck’s own treatment, namely, the
+use of the electrodynamic result expressed in equation (2) in a situation
+where the assumptions underlying this equation were violated. Einstein had
+been aware of this difficulty since 1906, and now he had found a way of
+avoiding it.
+   The new derivation was based on statistical assumptions about the
+processes of emission and absorption of radiation, assumptions chosen so as
+to follow the pattern of the classical theory without adopting it in detail. It
+also employed the basic assumption of Bohr’s theory, that atomic systems
+have a discrete set of possible stationary states. The proof then used the
+condition that the absorption and emission of radiation suffice to keep a gas
+of atoms in thermodynamic equilibrium. (This paper introduced the concept
+of stimulated emission into quantum physics and so is often referred to as
+having provided the basis for the laser.)
+   Einstein’s new approach to the radiation problem also included arguments
+for the directional character of the radiation emitted by an atom. He showed
+that in each individual emission process in which a quantum of frequency v
+is emitted, that quantum must carry away momentum hv/c in a definite
+direction; spherical waves were ruled out. Einstein considered his theoretical
+proof that all radiation must be sharply directional to be the most significant
+aspect of this paper. There was no real experimental support for this result
+at the time, but it came a few years later in the form of the Compton effect,
+the increase in wavelength of X-rays scattered by effectively free electrons.
+In 1923 Arthur Compton and Peter Debye showed independently that the
+Compton effect could be explained if the scattering were treated as a
+collision, obeying the conservation laws, between a free electron at rest and
+a light quantum of energy hv and momentum hv/c in the direction of the
+incident beam. This successful treatment of the Compton effect made the
+                                                                                    147
+                                      light quantum acceptable to many physicists who had previously refused to
+                                      take it very seriously.
+                                         During the 1920s the problems of applying the quantum theory to atomic
+                                      structure and atomic spectra were at the centre of interest in physics.
+                                      Einstein took no part in this development which was occupying so many of
+                                      his colleagues, from Niels Bohr, Arnold Sommerfeld, and Max Born to
+                                      their younger colleagues such as H. A. Kramers, Werner Heisenberg, and
+                                      Wolfgang Pauli. Although his major concern in those years was the
+                                      generalization of the theory of relativity, Einstein continued to think
+                                      about the problems of quanta.
+                                         In 1924 a new occasion for doing so arose when he received a paper in
+Einstein never liked his photon as
+                                      English from a young Indian physicist, S. N. Bose, setting forth a theory
+tenderly as his beloved relativity.
+The photon was a natural child, a     in which radiation was treated as a gas of light quanta. This approach had
+bastard bom out of wedlock;           been tried before, but if the gas of quanta were treated by the usual
+Einstein remained a strong            statistical methods one ended up with Wien’s distribution law rather than
+believer in differential equations    Planck’s. By changing the statistical procedure for counting the states of the
+in a continuous medium.
+Discontinuities and quanta seemed
+                                      gas Bose had been able to obtain the proper Planck distribution. Einstein
+to him unnatural.                     was   much taken with this paper. He translated it into German and saw
+          (Leon Brillouin, Relativity that it was published, and then applied Bose’s idea to a gas of material
+                          Reexamined) particles. This Bose-Einstein gas, as it came to be called, showed a variety
+                                      of novel and interesting properties.
+                                         While he was working out the behaviour of this gas Einstein received a
+                                      copy of a doctoral dissertation written in Paris. The author, Louis de
+                                      Broglie, inspired by Einstein’s earlier studies of the wave-particle duality
+                                      for radiation, had become convinced that this duality must hold for matter
+                                      as well. His thesis developed the idea that every material particle has a wave
+                                      associated with it, the frequency v and wavelength A of the wave being
+                                      related to energy E and momentum p of the particle through the equations
+
+                                                                E=hv           p = \t\\                        (18)
+
+                                   Since de Broglie had no experimental evidence for his matter waves, his
+                                   work did not impress most physicists. Einstein, however, was quite taken
+                                   with it, and realized that de Broglie had ‘lifted a comer of the great veil’.
+                                   He found that de Broglie’s ideas fitted in very well with his current work
+                                   on the new theory of the gas. Both were concerned with the parallels
+                                   between the gas of quanta and the gas of material particles. The fluctuations
+                                   in density of the Bose-Einstein gas, which Einstein calculated early in 1925,
+                                   showed exactly the same two-term structure as the fluctuations in blackbody
+                                   radiation. Einstein saw this as important evidence supporting de Broglie’s
+                                   matter waves, and went on to suggest a number of experimental possibilities
+                                   for detecting the de Broglie waves.
+
+                                   VI
+
+148                                In that same year, 1925, Heisenberg proposed a new approach to the
+                                                                                Figure 24
+                                                                                Einstein and Niels Bohr deep in
+                                                                                thought (taken by Ehrenfest in
+                                                                                about 1927)
+
+quantum theory, an approach quickly developed by him in collaboration
+with Born and Pascual Jordan into a quantum mechanics based on matrix
+algebra. Einstein was interested and impressed, but he was not convinced.
+‘The most interesting theoretical work produced recently is the Heisenberg-
+Born-Jordan theory of quantum states,’ he wrote to Besso. ‘It’s a real
+witches’ calculus, with infinite determinants (matrices) taking the place of
+Cartesian coordinates. Most ingenious, and adequately protected by its
+great complexity against being proved wrong.’ The following year he
+expressed his negative opinion to Born: ‘An inner voice tells me that it is
+still not the true Jacob,’ a judgement that Born took as ‘a hard blow’.
+   When Erwin SchrSdinger introduced an alternative to the algebraic
+quantum mechanics with his wave equation, Einstein reacted much more
+favourably. ‘I am convinced that you have made a decisive advance with
+your formulation of the quantum condition,’ he wrote to Schrodinger,
+just as I am equally convinced that the Heisenberg-Born route is off the
+track.’ This reaction of Einstein’s is not too surprising since Schrodinger’s
+work followed the direction pointed by de Broglie, and he had been much
+influenced by what he referred to as Einstein’s ‘short but infinitely far-
+seeing remarks’ on the implications of de Broglie’s thesis.
+   As it turned out, the two methods that seemed so different were
+mathematically equivalent, and both became part of the synthesis that
+constituted the new quantum mechanics. One of the key features of this
+synthesis was Born’s statistical interpretation of Schrodinger’s wave
+function. This meant that the new theory was intrinsically statistical and
+renounced as meaningless any attempt to go beyond the probabilities to
+obtain a deterministic theory. Bohr expressed the generally accepted opinion
+when he described quantum mechanics as a ‘rational generalization of                                        149
+      classical physics’, a generalization that resulted from the ‘singularly fruitful
+      cooperation of a whole generation of physicists’.
+         There was one great dissenter from this general agreement—Albert
+      Einstein. He never accepted the finality of the quantum mechanical re­
+      nunciation of causality, or its claim to be the new fundamental theory.
+      From the Solvay Conference of 1927, where the quantum mechanical
+      synthesis had its first major discussion, to the end of his life, Einstein never
+      stopped raising questions about this new approach to physics. At first he
+      tried to propose conceptual experiments that would prove the logical
+      inconsistency of quantum mechanics, but these attempts were all turned
+      aside successfully by Bohr and his collaborators. In 1935 Einstein began to
+      emphasize another basic limitation in quantum mechanics, as he saw it. He
+      argued that its description of physical reality was essentially incomplete,
+      that there were elements of physical reality that had no counterparts in the
+      theory. Bohr’s response to this was to reject Einstein’s criterion of physical
+      reality as ambiguous, and to claim that Only through his own principle of
+      complementarity could one arrive at an experimentally meaningful criterion
+      of completeness.
+         Einstein recognized the power of quantum mechanics, calling it ‘the most
+      successful physical theory of our time’, but he would not admit it as the
+      basis for theoretical physics. He refused to give up the idea that there was
+      such a thing as ‘the real state of a physical system, something that objectively
+      exists independently of observation and measurement, and which can, in
+      principle, be described in physical terms’. Einstein was convinced that when
+      a theory giving a complete physical description was developed, the position
+      of quantum mechanics in the framework of this future physics would be
+      analogous to that of statistical mechanics in the framework of classical
+      physics. It would be the theory to use when only incomplete information
+      was available or when only an incomplete description was wanted.
+         Einstein’s colleagues could only regret that he had chosen to follow a
+      path separate from the rest. As Born wrote: ‘Many of us regard this as a
+      tragedy—for him, as he gropes his way in loneliness, and for us, who miss
+      our leader and standard-bearer.’ To Einstein himself the choice was inevi­
+      table. He was prepared for the ‘accusation’ brought against him sometimes
+      ‘in the friendliest of fashions’, but sometimes not: he was accused o f ‘rigid
+      adherence to classical theory’. But, he wrote, it was not so easy to declare
+      guilt or innocence of this charge ‘because it is by no means immediately
+      clear what is meant by “classical theory” ’. Newtonian mechanics was a
+      classical theory, but it had not been an acceptable claimant as the funda­
+      mental theory underlying physics since the introduction of field theory.
+      Field theories were never completed—neither Maxwell’s theory of electro­
+      magnetism nor his own theory of gravitation—since they were never
+      extended to include the sources of the field in a non-singular way. Einstein
+      did plead guilty to adherence to the programme of field theory; for it was
+I50   his hope that a complete field theory would provide the basis for all of
+physics, giving th a t com plete description he missed in the q u an tu m
+m echanics he h ad helped so m u ch to develop. H e saw his w h o le career as
+striving to create a n e w unified fo u n d atio n fo r physics. T h a t was w h a t he
+m eant w h en he ended his scientific au to b io g rap h y b y w ritin g th a t h e had
+tried to show ‘h o w th e efforts o f a life han g to g e th er an d w h y th e y have
+led to expectations o f a definite fo rm ’.
+
+References
+Bernstein, Jeremy, Einstein (New York: Fontana, 1973).
+Einstein, A., Ideas and Opinions (New Y ork: Dell, 1954).
+------Out o f M y Later Years (New York: Dell, 1950).
+Einstein, A. and Besso, M., Correspondance 1903-1955 (Paris: Hermann, 1972).
+Frank, Philipp, Einstein. His Life and Times (New York: Knopf, 1947).
+Hermann, Armin, The Genesis o f Quantum Theory (1899-1913) (Cambridge, Mass.:
+   M IT Press, 1971).
+Hoffmann, Banesh and Dukas, Helen, Albert Einstein: Creator and Rebel (New
+   York: Viking Press, 1972).
+Jammer, Max, The Conceptual Development o f Quantum Mechanics (New York:
+   McGraw-Hill, 1966).
+Schilpp, P. A. (Editor), Albert Einstein: Philosopher-Scientist (Evanston, Illinois:
+   Library o f the Living Philosophers, 1949). See especially Einstein’s ‘Autobio­
+   graphical Notes’, pp. 1-95, and also the essays by Louis de Broglie, Wolfgang
+   Pauli, Max Born, and Niels Bohr.
+ Seelig, Carl, Albert Einstein. A Documentary Biography (London: Staples Press, 1956).
+
+e d i t o r ’s n o t e : o t h e r r e f e r e n c e s
+An English translation o f Einstein’s 1905 paper on light quanta was published by
+Arons, A. B., and Peppard, M. B., Am. J. Phys., 33, 367-74 (1965).
+   The following articles are also recommended:
+Klein, M. J., ‘Einstein’s first paper on quanta’ in The Natural Philosopher, Volume 2
+   (New York: Blaisdell, 1963).
+------‘Einstein, specific heats and the early quantum theory’, Science, 148, 173-80
+   (1965).
+------‘Einstein and the wave-particle duality’ in The Natural Philosopher, Volume 3
+   (New York: Blaisdell, 1964).
+
+                                                                                          151
+

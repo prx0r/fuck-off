@@ -1,0 +1,597 @@
+# Entropy in an Expanding Universe
+
+**source:** pdf · **section:** solutions
+**file:** Frautschi_Science_1982
+---
+
+Author(s): Steven Frautschi
+Reviewed work(s):
+Source: Science, New Series, Vol. 217, No. 4560 (Aug. 13, 1982), pp. 593-599
+Published by: American Association for the Advancement of Science
+Stable URL: http://www.jstor.org/stable/1688892 .
+Accessed: 20/12/2011 14:46
+
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at .
+http://www.jstor.org/page/info/about/policies/terms.jsp
+
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+                American Association for the Advancement of Science is collaborating with JSTOR to digitize, preserve and
+                extend access to Science.
+
+http://www.jstor.org
+          13 August 1982, Volume 217, Number 4560                    SCIE                            NCE
+
+                                                                                           Assumptionsand Basic Formulas
+
+                                                                                              We will adopt the following assump-
+                                                                                           tions and specializations:
+   Entropyin an ExpandingUniverse                                                             1) The present standardlaws of phys-
+                                                                                           ics remain valid into the indefinitepast
+                                                                                           and future.
+                                                     Steven Frautschi                         2) The universe remainsapproximate-
+                                                                                           ly homogeneousand isotropicand is thus
+                                                                                           describableby a Friedmannmodel (this
+                                                                                           assumption is not needed to establish
+  If gravity is neglected, matter in a        1) How can the observed evolution of         many of our conclusions, and it may fail
+closed box approachesequilibrium the        organizedstructuresfrom chaos be rec-          at late times, but we make it to establish
+state of maximumentropy. In the past        onciled with the second law of thermo-         a frameworkfor quantitativeestimates).
+century some people applied this de-        dynamics?                                         3) The universe expands without limit
+scription to the universe, arriving at a      2) Quantitatively,what are the main          [that is, in questions dealing with the
+gloomy picturecalled the "heat death of     sources of entropy increase in the uni-        future we consider the open (k= -1)
+the universe" in which the state of maxi-   verse?                                         and critical (k= O) Friedmann models
+                                                                                           but not the closed (k= +1) model,
+                                                                                           which presents a very diSerent set of
+  Summary.The questionof how the observed evolutionof organizedstructuresfrom              issues].
+initialchaos in the expanding universe can be reconciledwiththe laws of statistical           We will make repeated use of the
+mechanics is studied, with emphasis on effects of the expansion and gravity.Some           formulafor entropyin two limitingcases
+majorsources of entropyincrease are listed.An expanding"causal"regionis defined            where it is known exactly.
+in which the entropy,though increasing, tends to fall furtherand furtherbehind its            Case 1. For a gas of N free particles
+maximumpossible value, thus allowingfor the development of order. The related              with temperatureT in a volume V
+questions of whetherentropywillcontinue increasingwithout!imitin the future,and     S = kln (numberof N-particle states)
+whethersuch increase in the formof Hawkingradiationor radiationfrompositronium
+mightenable life to maintainitself permanently,are considered. Attemptsto find a        kln (numberof 1-particlestates)N
+scheme for preserving life based on solid structuresfail because events such as                                       (1)
+quantumtunnelingrecurrentlydisorganizematteron a very long butfixed time scale, Evaluatingthe one-particlephase space,
+whereas all energy sources slow down progressively in an expanding universe. one finds (7) for particles of mass m
+However, there remains hope that other modes of life capable of maintaining
+themselves permanentlycan be found.
+                                                                                       S = kMn V(2Xm2kT) e5/2 (2)
+
+mum entropy would eventually be                3) Will the heat death eventually oc-       where k is the Boltzmannconstant and h
+reached.A look at our presentpictureof      cur, and if so in what form?                   is Plancks constant, and a similar for-
+the history of the universe reveals a          4) If the heat death does not occur, is     mula for massless particles. I use the
+remarkablydifferentand more interest-       sufficientfree energy available to main-       simple approximation
+ing situation. In the beginningthere is a   tain life forever?
+                                               None of these questions could have                            S        kN                   (3)
+hot gas, nearlyhomogeneousand in ther-
+mal equilibrium.As it expands it breaks     been answered on the basis of physics          which is normally accurate within two
+into clumps of matter galaxies, stars,      known in the l9th century. Indeed, a           orders of magnitudebecause, as noted
+planets, rocks, dust, and gas with a        good deal of the picture could not be          by Fermi,all largelogs are < 100even in
+wide range of temperatures. Some of         filledin untilJ. D. Bekenstein and S. W.       cosmology.
+these objects develop highly organized      Hawking deduced the entropy of black             Case 2. For a black hole of mass MBH
+structuresand, on at least one planet,      holes, and their radiationproperties, in       (8, 9)
+self-replicatingstructures called "life"    the early 1970's.
+develop. Finally, a form of life emerges       As our topic is extremely speculative,                 S     4TrkG M2H
+with the capability to ask questions        it has been treatedin-onlya few research                              C
+                                                                                                                                           (4)
+about these systems.                        works (14). Two very interestinggener-
+  The questions we will consider in this    al references are a book by Davies (S)           The author is a professor in the Department of
+                                                                                           Physics, California Institute of Technology, Pasade-
+articleare:                                 and lectures by Dyson (6).                     na 91125.
+
+SCIENCE,VOL. 217, 13 AUGUST 1982                     0036-8075/8210813-0593$01.00/0 Copyrightt1982AAAS                               593
+length
+1019  billion
+         A RBH
+  S(Hawking    electron
+                  MBHand
+              radiation) volts
+                           energy
+                            kGMBH10-5
+                                  per
+                                  (g        (that is,S(cx,
+                                                      S(n,p
+                                                       kT 28/9
+                                                           gas)gas)
+                                                               MeV  in our
+                                                                k(Ncy  +   oversim-
+                                                                       kNNa)( 10)
+
+where G is the gravitationalconstantand   (12). Consider,for example, nucleosyn-         plicitly on an assumptionof short-range
+A = hl2w. Numerically, the black hole     thesis in the big bang. We adopt an            forces amongparticles. It is not, strictly
+entropyis of orderk for the Planckmass    oversimplifiedpictureof N free nucleons        speaking, valid in the presence of the
+MPlanckdefinedby                          coupledto photons in a box (leptons are        long-rangeunshieldedgravitationalforce
+                                          ignored).If the nucleons bind into alpha       (althoughit is valid to extremely good
+             GM21anck 1               (5)
+                                          particles,the numberof free particles is       approximationover times short com-
+                                          at first sight reduced by a factor of 4,       pared to the gravitational relaxation
+(The Planck mass, of magnitudeMplanck tendingto reducethe entropy.However,               time). For example, in the standardsta-
+                                          the 7-MeV energyrelease per nucleon is         tisticalmechanicsof a gas in equilibrium
+gram, is the smallest black hole mass availableto make new photons, tending              in a box, the intensive quantitiessuch as
+allowed by quantum mechanics.) The to raise the entropy. The quantitative                temperatureand pressure are uniform.
+entropyof a black hole with the mass of comparison,using Eq. 3, is                       But a sufficientlylarge box of galactic
+a star ( 1057GeV) or larger is thus                                                      gas, initially in equilibrium,eventually
+enormous.                                                                                clumps into stars under the action of
+   One way to think of these huge entro-                                                 gravity.The intensivequantitiesare now
+pies (8, 9) is as a measure of the total                                                 distributednonuniformly.One mightob-
+number of quantum levels inside the                                                      ject that if the box is big enough to
+black hole, which (being undetectable)                 kN+N(7MeV)                 (11)   contain many stars, at least a coarse-
+are all equally probable. From another                    4        3kT                   grained uniformity survives. But even
+point of view (9), the black hole eventu-                                                this is only temporary since the long-
+ally decays through Hawking radiation (Here n, p, cx, and w denote neutrons,             range gravitationalforce eventually in-
+(10, 11) into quantacharacterizedby the protons, alpha particles and photons,            troduces more clumpingon all distance
+Hawkingtemperature                        respectively.)At kT > 7 MeV, the entro-        scales.
+                                          py of dissociated nucleons is higher and          We can express this tendency quanti-
+            kTBH SiC/RBH              (6) few cx'sare formed. At a critical T deter-     tatively in the limiting case of black
+After decay the entropy of the radiated minedby                                          holes, where the entropy is exactly
+quanta can be estimated by means of                         1 7 MeV                      known. Using Eq. 4, w:e see that the
+case 1:                                                                                  entropy of one black hole of mass NM
+                                                            4     3 kT           (12)
+                                                                                         exceeds the entropy of N black holes
+S(Hawkingradiation) kN(quanta)                                                           each of mass M
+         kMBHC      kMBHCRBH          (7)
+                                          plified model) the photon number has
+          kTeH          'A
+                                          risen sufficiently to make cx formation
+                                          worthwhile-froman entropy standpoint.                      NS(M)                   (16)
+Since the black hole radius is given by    Thl us, as the universe cools by expan-       Thusentropyfavors one largeblack hole
+                                           Si0]n, the favored state changes from         overmany small ones no matterhowbig
+            ABH= 2MBH/C2              (8) frezz neutronsand protons to condensed         the box; the bigger the box, the more
+(from GMBH/ABH MBHC), we have nuevlei(cx,and later at a lower T, Fe) and                 extremethe nonuniformity.
+crudely                                    the change results in an entropy in-             Returningto the initial homogeneous
+                                           crease.                                       hot gas in the earlybig bang, we now see
+                                               Chequestion now arises: grantedthat       that it would have been unstableeven in
+                              c
+                                           coc ler, less dense states may have differ-   the absence of expansion because, al-
+Thusthe entropyin the black hole even- ent entropies,what guaranteesthat their           though its "thermal" and "chemical"
+tually appears in the directly detectable entropieswill be largerratherthan small-       entropy were maximized, its "gravita-
+form of a huge number of low-energy er?FA partialanswer, recently advocated              tionaI" entropy was very small (5, 14).
+quanta. The mass dependence has the by Bekenstein(13), is the following. If S            This goes far toward explaining the
+surprisingquadraticform S M2BHbe-             ,kN, the main way to increase S is to      seeming paradoxof how an initially ho-
+cause the emitted quanta have wave- make more quanta. Since                              mogeneousgas has been able to undergo
+                                                  N = E(total)/E(perquanta)      (13)such But
+                                                                                           extensive
+quanta MBH                                                                           ture.     it givesdevelopment   of struc-
+                                                                                                         rise to another ques-
+  Armedwith these formulasfor entro-        the way to make more quantais to split tion: why was the gravitationalentropy
+py, we proceed to tackle our list of        particles into lower energy particles-   so small at early times?
+physical questions.                         preferably massless, since otherwise the   At present we have no idea why the
+                                            prcycess terminates. But the minimum earlyuniversewas so homogeneousover
+                                            energy per massless particleis           distance scales which were not then
+How Can the livolution of-Structure
+                                                    Emin= cPmn ch/R              (14)    within each
+Be Reconciled with the Second Law?                         - l                           suppose  we other's
+                                                                                                      accept light
+                                                                                                              this horizons. But
+                                                                                                                   as given and
+                                         whl ere R is the radius of the volume           introducethe concept of a "causal re-
+  The universe differs from a closed unc Jerdiscussion. Thus                             gion," all parts of which can influence
+nongravitatingbox in three key respects:      max S kNmax k               2wkR           one anothercausally during(say) a dou-
+expansion,the long-rangenatureof grav-
+ity, and the interplayof relaxationtimes         E          E    E mln cSi 15            bling time
+                                                                                         doubling   of because
+                                                                                                  time the expansion.  We use
+                                                                                                                the temperature
+with the expansionrate.                                                        ( )       and density of a Friedmannmodel re-
+  Expansion. In general, entropy need whiich increases as the system expands.            mainroughlyfixed over this time scale.
+not be conserved during an expansion        L,ong-range nature of gravity. Stan-           By consideringthe entropyof a causal
+even if the system remainsin equilibrium darl d statistical mechanics is based im-       regionwe can gaina fresh perspectiveon
+     594                                                                                                        SCIENCE, VOL. 217
+the course of events. At any given time t,     ference between the universe and a            Thuscomovingvolume is convenient for
+the maximum entropy obtainable from            closed nongravitatingbox is that the          measuringthe actual growth of entropy,
+black hole formationin a causal region         universe falls out of equilibriumuhless       whereas the causal volume was useful
+1S                                             its relaxationtime is less than the dou-      for considering the maximum possible
+                                               bling time over which it expands appre-       rate of entropy growth.
+                 S (t) kGEC2(t)           (17) ciably. This condition becomes progres-         To get a feeling for the numbers in-
+                                               sively harderto fulfillas the system thins    volved, let us consider some major
+EC(t)and RC(t)are the energy and radius out.                                                 sources of entropy increase in a comov-
+of the causal volume. Since RC(t)grows            One well-known example is that the         ing volume. We adopt a simple Fried-
+as t and the energy density p(t) falls nucleon gas does not have time to nu-                 mann model in which the universe is
+as t-2 in the early universe, EC(t)grows cleosynthesize all the way to the nuclear           initially filled with radiationand devoid
+as                                             energy minimumat iron as it cools. The        of black holes. We start a second or so
+                                               process is cut short by the decay of the      after the big bang, when experimentally
+            EC(t) p(t)RC3(t) t            (18) free neutronsat 103 seconds, by the gap       well-establishedlaws of physics already
+Thusthe maximumgravitationalentropy at total nucleon numberA = 5, by thin-                   apply and the radiation is salted with
+in a causal region grows rapidly more ning densities, and by the Coulombbar-                 nucleons in the present ratio of about
+rapidlythan the energy contained in the rierin proton-protonreactions, leaving a
+                                                                                                         nwlnN    109               (23)
+region. This relentless growth of max mixtureof primarilyp's and 's . Nucleo-
+SB1]/EC    is a particularlygood example of    synthesis resumes only much later when        where nNis the numberof nucleons. We
+the Bekenstein relationmax S/E R.              matterreconcentratesin stars, and even        furtherassume that the eventual depar-
+   Turning this around, the maximum then it fails to achieve rapidor full com-               tures from homogeneity are limited to
+gravitationalentropy in a causal region pletion.                                             scales no largerthan, say, superclusters
+shrinks rapidly as we go backward in              The failureof black holes to form or, if   of galaxies, an assumption which limits
+time. Taking RC(t) ct and putting in preexistent, to grow at maximalrates is                 the size of the black holes that may form.
+nlimbers,we find                               another example. As long as the sur-            In the radiation-dominateduniverse,
+                                               roundinggas is ultrarelativistic,develop-     the scale of a comovingvolume grows as
+        max SBH- k(1o 43sec)              (19) mentandgrowthof local density fluctua-
+                                               tions that might lead to black holes is            VcomovingR3Omovingt3l2 (24)
+The reference time 10-43 second is the inhibited by the high pressure, which                 whereR is radius,while temperatureand
+time when the causal region contained tends to blow them apart. Preexistent                  entropy follow Eqs. 20 and 21. Thus Sl
+just 1019GeV of energy, corresponding blackholes decay throughHawkingradi-                   VcOmoving is essentially constant during
+to one Planckmass. If, insteadof a black ation and disappearwithin a time                    the radiation era (with modest incre-
+hole, the causal region contained free                                                       ments from nucleosynthesis and various
+particlesin thermalequilibrium,then the           THawking - 10    sec ( M       ) (22)      other events). The entropy is falling be-
+typical energy per particle was                                                              hind max SBH,however, throughoutthe
+                                               which is very slow for star-sized black       radiationera (up to 10ll seconds) at the
+                           (10-43    VI/2      holes, but is immediatefor black holes        rate impliedby Eqs. 19 and 21.
+                                               initially present on the scale of the
+andthe particleentropy withinthe caus- Planckmass. So rightfromthe beginning                     Slmax SBH (10-43 sec/t)l/2         (25)
+
+al region was                                  at 10-43 second, and certainly later at          The situation changes when photons
+                                               times when the physics is better under-       decoupleat about 10ll seconds, allowing
+                                               stood, gravitationalentropy in a causal       stars and galaxies to form. The clumping
+                                k( t ) RC3 region fails to keep pace with its maxi-
+                kNparticle
+  Sparticle                                                                                  into gravitationalpotential wells and the
+                                               mumpotentialvalue.                            resumption of nucleosynthesis within
+                        ( 10-43sec )      (21)    We have thus come to a conclusion          starsrelease energythat can be degraded
+                                               which stands the closed 19th-century          into largenumbersof low-energyquanta.
+A comparisonof Eqs. 21 and 19 reveals modelon its head. Far from approaching                 The resulting entropy gains for several
+two importantpoints. First, the particle equilibrium,the expanding universe as               significantprocesses are listed in Table 1
+entropy grows more slowly than the viewed in a succession of causal regions                  and discussed below.
+maximumentropy. Second, if we are so falls furtherandfurtherbehindachieving                     Entropyincrease in stars (5). Nucleo-
+bold as to extrapolate back to 10-43 equilibrium.This gives ample scope for                  synthesis near the center of a star re-
+second, when kT was of the order of the interestingnonequilibriumstructures to               leases about 7 MeV per nucleon. Part of
+Planck energy, we find that the particle develop out of initial chaos (15), as has           the energy goes into neutrinos (v's),
+entropy max SBH.At that moment a occurredin nature.                                          which escape immediately,resultingin a
+system of particles in thermal equilibri-                                                    modest entropy increase (several v's per
+um was only marginallyunstableagainst                                                        nucleon). The rest of the energy goes
+gravitationalcollapse;the entropy(while NumericalEstimatesof Entropy                         intoPy'sand positrons (e+'s), which anni-
+absolutelysmall) was of the same order Increasein a Model Universe                           hilate into Py's.These cannot escape im-
+as its possible maximum.Thus we have                                                         mediately, so their energy is therma-
+understoodwhy the initial gravitational          If a homogeneous, isotropic space           lized. The energy gradually flows out-
+entropy within a causal volume was filled with pure blackbody radiation or                   ward through zones of decreasing tem-
+small. The remainingquestion is: why pure pressureless nonrelativisticgas ex-                perature, with entropy steadily in-
+did the gravitationalentropyfail to grow pands, a comoving volume expanding                  creasing as the photons degrade in
+as fast as max SBH?                            with the space contains a constant num-       energy. Finally the energy reaches the
+  Relaxation times. The thirdmajordif- ber of quantawith constantentropy(16).                surface, where the temperatureis of or-
+13 AUGUST 1982                                                                                             ,,                 sss
+ergy balance,
+     SBH k (MBH/10I9MP)2
+              about 5000/300 17        ranges ,(BHof 1068 mp) 1098k
+                              (26)pho-alread                                                      Nucleon decay. In this case e mpc2
+
+Table 1. Majorentropy increases in a comoving volume at times greaterthan 1 second for a years for black holes of 1014M,3. At
+model in which gravitationalbindingdoes not extend beyond superclustersof gal;axies and these late times the emitted quanta sel-
+blackholes are initiallyabsent. The increase listed for positroniumformationand de
+minimumestimate of Page and McKee (4) and applies to a k = OFriedmannmodel cOanylyls the dom react further, so the entropy is
+                                                                                                   essentiallygiven by the numberof emit-
+                                                                                     Increase      ted quanta as stated in Eq. 9. On our
+                                                                                         e°tvOr very rough scale, the resulting entropy
+                          Event                                     Duration
+                                                                     (years)
+                                                                                        of black- increase iS of the same order as the
+                                                                                          body    parentblack hole entropy.
+                                                                                        radiation    Other major sources of entropy in-
+ Nucleosynthesis in stars                                               10
+                                                                                           lo-2   crease. The stars, planets, rocks, dust,
+ Formation of stellar black hole                                        1011             < 101°   and gas that escape the gravitational
+ Formation of galactic black hole                                    Slo20
+                                                                                         < 1024   bindingof galaxies and clusters of galax-
+ Collapse of supercluster of galaxies into black hole                Slo20
+
+ Nucleon decay                                                       zlo3l
+                                                                                         -103     ies by evaporation avoid incorporation
+ Flow of cold matter by quantum tunneling (if nucleons                  l o65
+                                                                                                  into black holes and remainavailablefor
+   stable)                                                                                        furtherevolution. One possible develop-
+ Black hole decay                                                    slOI0               < 1024   ment is decay of the nucleons at t > 103l
+ Positronium formation and decay (if nucleons unstable)            =;1n11
+                                                                   _ 1u
+                                                                                         21ol5    years. In the alternativecase that nucle-
+ Quantum tunneling of nuclei to iron (if nucleons stable)               lols
+
+ Quantum tunneling of matter into black holes                         1o10                        ons are stable, Dyson (6) lists a number
+     (if nucleons stable)                                                                         of events which would increase the en-
+                                                                                                  tropyat very late times: (i) liquidflow of
+                                                                                                  cold matterby quantumtunnelingat 1065
+                                                                                                  years, (ii) fusion or fission of all nuclei to
+der SOOO   K or about 1 eV per photon for            On ea longer time scale, thze entire iron by quantum tunneling at 101500
+a typical star such as our sun. Thus galaxy is thought to evolve into a large years, and (iii) quantumtunnelingof all
+5 x 106photons are radiated per original centralIblack hole. While the dbominant bodies largerthan 1019mp (the size of a
+nucleon, for an entropy gain of 5 x 106 mecha nism and time scale are ]not well dust grain) into black holes in 101°
+per nucleon.                                      underslitood, gravitational Rutherford years.
+   Entropy increase on the earth. The scatter]ing of stars is certain t o knock                      In processes (i) and (ii), or in nucleon
+entropy increase on the earth can be many sstarsout of the galaxy, and others decay, the energy release occurs in a
+estimated in a similar way. The main down iinto its center, within ablout 102° largenumberof independentlocal events
+energy source is solar radiation. Photons         years (.3, 17). The resultis evapolrationof distributedrandomlyover the interiorof
+arriving from the sun have energies cor- a large fraction [Dyson (6) estinnates 90 the body. These heat the body; the heat
+respondingtoT(solarsurface) SOOOK,                to 99 1percent]from the outer regions, is carried to the surface and radiated
+whereas photons radiated by the earth and ccollapse of the rest into a large away. As in the case of a normalstar, the
+have energies corresponding to T (earth centralIblack hole with mass ufz to 101l entropygaindependson the surfacetem-
+surface)       300 K. Since arriving and solar rrnasses(M9)                   1068mp.Thweentro- perature.
+departing radiation is in approximate en- py of tthe large galactic black hole thus                  At sufficientlylate times, outside ener-
+                                                          up to                                   gy inputs (includingthe flux of cosmic
+tons leave the earth per arriving photon                S                                     29) blackbody photons) become negligible.
+for an entropy gain of 17 per arriving                                                            A body will be in thermal equilibrium
+solar photon. Note that this increase, so an incrreaseof 103°per nucleon osna time when the power generatedwithin it bal-
+crucial for life on the earth, is very minor scale of 102° years. [This estiimate is ances radiationfrom the surface. For a
+on a cosmic scale.                                extremlely uncertain, because t .he frac- sphericalblackbodywith radiusR, con-
+   Blackholeformation. Much more sub- tion e vaporatedmay be much greater tainingN nucleons that undergo energy
+stantial entropy production, overshad-            and be cause other mechanisms may act release E per nucleon on a time scale ,
+owing for the first time the 109 photons          on a s ,hortertime s-cale. For e xample, the surfacetemperatureT is fixed by
+per nucleon in the blackbody radiation, there a lresuggestionsthat our ga.laxy has
+occurs in black hole formation. From alread)y developed a 106 M central
+                                                                                                                     -=      4 rrR2aT4 (30)
+Eqs. 4 and S, we found                            black 1hole (18), and some quas'lars may
+                                                          y have central black ho]les with where C is the Stefan-Boltzmanncon-
+                                                          sof 107to 109MC3(19).]                  stant.
+where mp is the proton mass. A typical               Sinc e we have assumed a maxlmum
+star contains about 1057 nucleons. In its scale <of gravitational binding-_-:or ln- (a fractionof the energy is lost to neutri-
+                                                                                     a    .
+
+youthful gaseous form it thus has an stance, , superclustersof galaxieq                s black nos, whichescape withoutthermalizing).
+entropy                                           hole fcormationeventually comews to an If we take v = 1031years, we find sur-
+                                                          ourmodel, with masses u]p to 1014 prisinglyhigh temperaturesfor degener-
+              SStar    1057k              (27)    endin
+                                                          1071mp and black hole e ntropies ate matter:T 50 K for neutronstars, 2
+If it later evolves into a black hole its up to 1 O4k.                                            K for a solarmass white dwarf,0.1 K for
+entropy becomes, according to Eq. 26,               Blac k hole deccly. When the t ;empera- the earth,and so forth(4, 20). The result-
+                                                          blackbodyor otherambient radia- ing entropyincrease per nucleon, of or-
+       S(BH of 1057 mp) 1076k             (28) tureof
+                                                          tllsbefow the Hawking t ;empera- der k(mpc2/5kl),comes out to 5 x 1010k
+an increase of 10l9 per nucleon. On a ture (6), the black hole becomzes a net for neutronstars, 1012kfor a solar mass
+time scale of 10l l years, a substantial radiato)r.According to Eq. 22, lthe time white dwarf, and so on: a substantial
+fraction of all stars (and thus all nucle- scale fz-orblack holes to radiate;away all increase, but not competitive with for-
+ons) may generate entropy increases in their e nergy ranges from 1064yzearsfor mationof large black holes.
+this manner.                                      black Iholes of one solar mass to 10l°6            Liquidfow of cold matter.In this case
+     596                                                                                                                  SCIENCE,VOL. 217
+                                                          -
+
+the energy release from chemical rear-      Table2. Timedependenceof the ratioof the entropyof a free gas to max S in a causalregionfor
+rangement, settling of heavy elements       a critical(k = O)universe. The late universeis takento remainmatter-dominatedbecause even
+                                            if nucleons decay, enough electron pairs remain to constitute a significantpart of the total
+towardthe core, and so on, is specific to   energydensity at almost all late times, accordingto Page and McKee (4).
+each type of body. It can never be more
+than a small fraction of Mc2, and for               Epoch
+                                                                                                        S           Vcausal      Sgas
+
+                                                                                                                                max        S
+objects of planetarymass or smallerone                                   Rcausal
+                                                                                       Rcomoving                    comoving
+
+can take 10 eV per nucleon as character-    Radiation-dominated                            t1/2
+                                                                                                                   t3/2           t-l/2
+
+istic (21). Inserting v 1065years into        (t < 103 years)
+                                            Matter-dominated               -t                                 -t                  t--- l
+Eq. 30, we obtain surface temperatures                                                      t2/3
+                                              (t < 103 years)
+about 10- 1l cooler than those estimated
+for nucleon decay and entropy increases
+per nucleon about 1000 times greater
+than in the case of nucleon decay.         max S. Surveyingthe results in Table 1, rate t. Once this happens, causal re-
+   Quantumtunneling of nuclei to iron.     we note that the entropy in a comoving gions grow essentially no faster than
+In this case e 1 MeV and v 10l5°°          volume approaches an asymptotic limit comovingvolumes on the largest scales,
+years. The equilibrium temperature         in our model, though only on an enor- so Sgasand the numberof particles in a
+comes out below the lowest phonon en-      mous time scale. The period of most causal region on the scale of the light
+ergy for any cold body small enough to     rapid entropy increase begins with the horizon stop growing. In this relatively
+be stable against gravitationalcollapse,   formation of stars and ends with the empty type of universe, black holes no
+so it is the lowest phonon energy rather   formationof black holes on the largest longer maximize the entropy. Matter
+than T that sets the scale of radiation    scales that are bound.                          dominanceis maintainedeven if nucle-
+fromthe surface.The lowest phonon has          It is also interesting to consider the ons decay, because free electron pairs
+wavelength R and energy hv/R,              ratio Slmax S in a causal region as a annihilateonly partiallyin an open uni-
+where v is the velocity of sound (about    function of time. In a critical (k = O) verse (3). Given these circumstances,
+ 105 cm/sec) and R is the radius of the    universe, max SBH grows as t2 at all the Bekensteinlimit max S 2TrkRE/ch
+body. Thus the entropygain per nucleon     times. The entropyof a free gas grows as of Eq. 15 apparentlycannot be realized.-
+iS                                         t3/2or t, dependingon whetherthe gas is As pointed out by Page (13), a more
+                                           ultrarelativistic(radiation dominant) or realistic bound is that which would be
+                                           nonrelativistic (matter dominant); the obtainedif all the mattercould suddenly
+              hv/R          km        (31)
+                                           behaviors are summarized in Table 2. be transmuted into radiation: max
+This is about 1026kfor the largest cold Addingin the variousentropy-generating S k(RE/ch)314.The actual matter-
+bodies such as Jupiter and 1024kfor processes in Table 1, especially black dominantS and E, on the other hand,
+blackdwarfs.This is a huge gain, though hole formation,we arriveat the approxi- become constant. Thus Slmax S falls
+still somewhat smaller than the gain at- mate curve for Slmax S displayedin Fig. asymptoticallyas R-314 t-3/4, yielding
+tainablein a galactic black hole.           1.                                             a curve qualitatively similar to, though
+   Quantum tunneling of matter into            In an open (k = 1) universe, the time less steep than, Fig. 1.
+black holes. The tunnelingtime is short- developmentis initiallythe same as in a              It is apparent from Fig. 1 that the
+est for the smallest black holes, of mass criticaluniverse. But later the radiusof a entropy in a causal region falls steadily
+ 1019mp. Once formed, these decay in- comoving volume starts expanding at a further behind max S during most of
+stantly(l0-43 second) into 1019-GeVpar-                                                    cosmic history. Slmax S does increase
+ticles. These relativistic particles shoot                                                 temporarilyduring the period of stellar
+theirway out of smallobjects, but will be                                                  and galactic black hole formation. Life
+stopped by large objects, resulting in               ol
+                                                                                           as we know it develops duringthe same
+local heating.The analysis for large bod-                                                  period, utilizing the much smaller but
+ies proceeds as in the previous case with                                                  conveniently arranged entropy genera-
+e     mpc2.The resulting entropy gain is             -20                                   tion on a planet or planets situated near
+ 1027kfor black dwarfs.                                                                    nucleosynthesizingstars.
+   Positronium formation and decay.
+Free positronsare createdin small quan-               -40
+tities by black hole decay and in large                                                    Heat Death
+quantitiesif the nucleons in gas and dust                     x
+
+decay. In an open (k = -1) Friedmann                -60cn
+                                                              -
+                                                                                              As we have seen, modern cosmology
+model many of them never recombine,                               o
+                                                                                           does not terminatein the classical heat
+but in a critical(k = O)Friedmannmodel           -80
+                                                                                           death of the l9th century. The classical
+they do eventually recombine into posi-                                                    heat death was characterizedby statisti-
+tronium(3). Page and McKee (4) pointed                                                     cal equilibrium of matter at constant
+out that in the k = 0 model recombina-                                                     temperatureand entropy. An expanding
+                                               -100
+tion occurs gradually, forming increas-              -40  -20  0      20     40 60 80  100 universe never achieves equilibriumand
+ingly loosely bound positronium,which                           In10 t (years)             never reaches a constant temperature.
+emits increasinglylarge numbersof pho- Fig. 1. Time development of Slmax S in a               Nevertheless, the conclusion reached
+tons in the course of cascading to the causal region of a critical (k= O) universe, in the previous section was equally
+ ground level. If nucleons are unstable, assumingthe model describedin the text and gloomy. With our assumptions the ex-
+ Page and McKee estimate that entropy no large entropy generation during the first pandinguniversedoes "die" in the sense
+                                            second. The development of Slmax S in an
+ increases of at least 1022kper parent open (k= -1) universe is qualitativelysimi- that the entropy in a comoving volume
+ nucleon occur.                             lar, with t-3'4ratherthan t- 1behaviorat large asymptotically approaches a constant
+    Summaryof entropyincreases and S/ t.                                                   limit.
+ 13 AUGUST 1982                                                                                                             ss7
+   Can this gloomy conclusion be avoid- order(submaximalentropy).Thus arises          shapingthe universe. A sufficiently re-
+ed? Whatcomes to mind immediatelyis the connection between the heat death,            sourcefulintelligenceinhabitinga critical
+our assumptionthat superclustersof gal- even in our modifiedversion where the         universelearns how to move black holes
+axies are the largest gravitationally entropyper comovingvolume approach-             (22), bringing them together from in-
+boundobjects. This limitedthe size scale es a low but changelesslimit, and the end    creasingly widely separated locations
+obtainedfor black hole formation.If the of life.                                      and mergingthem to increase the entro-
+sequence of gravitationallybound ob-         Following Dyson (6), we take as a        py. The region from which the black
+jects were to continue indefinitelyto all necessary condition for the immortality     holes are collected, which I will call the
+size scales, it seems possible that forma- of life                                    empire(E), has radius
+tion of progressively larger black holes
+                                                                                                       RE         tP          (33)
+might proceed indefinitely, causing the                                       (32)
+entropy per comoving volume to grow                         JdS
+                                                                -dt   = oo
+                                                                dtincrease must in-   and energy
+without limit, though never reachingits Naturally,the entropy
+maximum. In such a universe there volve realgrowthin a comovingvolume,                         EE    RE P          t
+would be no heat death.                    not just the counting of noninteracting    (we take p t-2, as appropriatein a(34)
+   Detailed analysis of this possibility quanta in larger and larger regions of       matter-dominated critical universe).
+must be left for the future. The black space. As we have seen, the only known         Thus, if black holes have a largefraction
+holes must amalgamateon a fairly pre- mechanismsfor unlimitedgrowth of en-            of the energy, an efficientcollection and
+cise time schedule, with sufficientspeed tropy in a comoving volume are contin-       towing system can concentratethe ener-
+andregularityto preventtheirdisappear- ued coalescence of black holes, or posi-       gy in a black hole with mass
+ance by Hawkingradiationat any stage. trons and electrons, on all scales.                                                     (35)
+                                                                                                 MBH        t P
+To bind on all scales without closing        The entropyrequirement(Eq. 32) is a
+appears-to require a nearly critical uni- necessary but not a sufficientcondition     at time t.
+verse with kinetic and gravitationalpo- for life. Dyson (6) entrusts the rest to a      In each doublingtime, the volume of
+tential energy nearly balanced on all sufficientlyresourcefulintelligence. The        the empire increases by 23Pso several
+scales. But it is far from clear that the challengesthis intelligencemust eventu-     new black holes come within its bound-
+universe would remain forever of the ally meet includethe requiredsearch for          aries. These must be moved over dis-
+Friedmanntype (homogeneous and iso- fresh free energy sources, the concomi-           tances RE tP within a time of order t,
+tropicon sufficientlylargescales) if bind- tant need for space travel, and the ad-    so the required towing velocity is of
+ing existed on all scales.                 justmentto progressivelylower tempera-     order
+   Page and McKee (4), in addition to tures and lower rates of activity necessi-
+                                                                                                v    RE/t         tP            (36)
+mentioning the possibility of limitless tated by the finiteness of all known free
+entropy generationby black hole amal- energysources. There is also a less obvi-       The energycost of towing, of orderMEV2
+gamation, pointed out that positronium ous problem:if kT fell below the lowest        per doublingtime, can be kept well be-
+formationon steadily increasing scales phononexcitationenergy zlE, all process        low the energy release by Hawkingradi-
+may generatea limitless supply of entro- rates, waste heat radiation, and infor-      ation (which can be as high as MEC2);
+py. Whetherthe numberof photons gen- mation accumulation would die as                 providedp < 1, the towing time is not
+erated by cascade decay per positron is exp(-ZlE/kt) whereas at AE < kT they          much less than t, and the lifetime for
+1022,the minimumused in Table 1, or fall only as a power of T. Thus any life          evaporationby Hawkingradiationis not
+limitless depends on details of the re- based on solid structuresmust eventual-       muchgreaterthan t (23). [In the detailed
+heating and redissociation of positroni- ly adjust to longer and longer length        scheme presentedbelow, only t-lX3of
+um by cascade photons and on the ener- scales to keep SE < kT.                        the Hawking radiation is captured by
+gy balance between positroniumand its        Thereare severalreasons why positro-     life, but v2 t-419(p = 7/9), so sufficient
+radiation(4). Actually, continued black nium formation would be a less useful         energyis availablefor towing.]
+hole formation and positroniumforma- perpetualfree energy source for life than           As already noted, the maintenanceof
+tion are related insofar as both involve black hole amalgamation:                     life involves a compromise:the entropy
+binding of ever-larger structures in a        1) Black hole amalgamation,if it oc-    must increase, but not so rapidly as to
+long-range potential, both require a curs, is capable of supplyinggreateren-          reachmaximum.In our scenarioone can
+nearly critical universe to keep po- tropy increases (4).                             be precise about the optimum rate of
+tential energy competitive with kinetic      2) Black holes providea concentrated     blackhole formation.In view of Eqs. 22
+energy, and both involve long-range source of free energy, whereas the pho-           and 35, the Hawking decay of the large
+multibodyinteractionswhich are hardto tons radiated by positronium, being             black holes created in the empire pro-
+estimate.                                  spreadevenly over space, are harderto      ceeds with a lifetime
+                                           collect.
+                                                                                                T    M3H           t9P - 6     (37)
+                                             3) To meet the need for expanding
+If Heat Death Does Not Occur, Is Free      lengthscales describedabove, life based    If v << t, the black holes evaporatebe-
+EnergyAvailableto MaintainLife?            on solid mattermust continually search     fore they can be merged,and the empire
+                                           out and bringtogethermore matter.This      dies for lack of a concentratedfree ener-
+   At root, discussions of the heat death requiresenergy. Hawkingradiationfrom        gy source. If T >> t, the black holes
+are driven by our curiosity or anxiety a black hole can yield enough energy to        radiatevery little of theirenergyduringa
+concerninglife, its eventual fate, and its meet this requirement,whereas positro-     doubling-time,and the empireis starved
+ significance.Life is notoriouslyresistant niumradiationcannot.                       for usableenergy. For sustaininglife, the
+to definition, let alone mathematical        We thereforeturnto black holes as the    optimum radiant lifetime (24) is X t;
+analysis. But it does appeargenerallyto free energysource, and envision how life      that is,
+requiregrowthand development(that is, might attempt to maintain itself indefi-
+changes in entropy)as well as form and nitely, and even play a major role in                            p = 7/9               (38)
+
+     sss                                                                                                          SCIENCE,VOL. 217
+                 MBH        t     (39)
+
+In this case                                 end, with the striking feature that life              11.         , Comman.Math. Phys. 43, 199 (1975).
+                                                                                                   12. R. C. Tolman,Relativity,Thermodynamics,      and
+                                             permanentlymodifies the overall envi-                     Cosmology (Oxford Univ. Press, New York,
+                                             ronmentto sustain itself, amalgamating                    1934),section 175.
+                                                                                                   13. J. D. Bekenstein,Phys. Rev. D 23, 287 (1981).
+and the entropy of the empire scales as black holes and raising the entropy                            Variousaspects of Bekensteins detailedformu-
+                                             above natural levels by a growing and                     lationhave been criticizedby W. G. Unruhand
+                  SE t                 (40) eventuallyinfinitefactor.                                  R. M. Wald [ibid. 25, 942 (1982)];D. N. Page
+                                                                                                       [ Commenton a universalupper bound on the
+                                                                                                       entropy-to-energyratio for bounded systems,
+    To collect the energy radiated by a        Canthis scenariosurvive closer scruti-                  PennsylvaniaState University preprint(1981)];
+ black hole with (from Eqs. 6, 8, and 39) ny? Without getting into biologicalj                         andJ. Ambj0rnand S. Wolfram[ Propertiesof
+                                                                                                       the vacuum: 1. Mechanicaland thermodynam-
+                                             chemical, or engineeringdetails, we can                   ic, CaliforniaInstituteof Technologypreprint
+        TBH RBH MBH t                  (41) find a fatal flaw in the system on basic                   68-855(1981)].
+                                                                                                   14. R. Penrose, in GeneralRelativity:An Einstein
+ intelligent life might inhabit a shell of physical grounds. ln discussing entropy                     Centenary,S. W. Hawkingand W. Israel, Eds.
+ radius Rs tl'3 surroundingthe black increasesin matterat very late times, we                          (CambridgeUniv. Press, Cambridge, 1979),
+                                                                                                    < chap. 12.
+ hole. Waste heat would be radiated to identifiedseveral nzechanismssuch as (i)                    15. D. Layzer, Sci. Am. 233 (No. 6), 56 (1975).
+                                                                                                   16. R. C. Tolman,Relativity,Thermodynamics,       and
+ outer space, which at blackbody tem- possible nucleondecay at t-1031 years,                           Cosmology (Oxford Univ. Press, New York,
+peratures TBB t-2/3 would always be (ii) liquidflow of cold matterby quantum                            1934),sections 168 and 169.
+                                                                                                   17. A. P. Lightmanand S. L. Shapiro,Rev. Mod.
+ colder. Mechahical stability requires a tllnneling at 1065years, (iii) nuclear                        Phys. 50, 437 (1978).
+ mininnum   thicknessfor the shell. A com- fusion by tunnelingat 1015°()          years, and       18. T. R. Geballe,Sci. Am. 241 (No. 1), 60 (1979j;J.
+                                                                                                       H. Lacy, C. H. Townes, T. R. Geballe, D. J.
+plete spherical shell would need an (iv) Suantuintunnelingto black holes in                            Hollenbach,Astrophys.J. 241, 132 (1980).
+amount of material proportional to 10102years. Even if the nucleon is sta-                         19. D. Lynden-Bell, Natare (London) 223, 690
+                                                                                                       (1969).
+RS2 t2/3,but the total mass in the em- ble, the otherprocesses are sure to occur                   20. G. Feinberg,Phys. Rev. D 23, 3075( 1981); D. A.
+                                                                                                       Dicus, J. R. Letaw, D. C. Teplitz,V. L. Teplitz,
+ pire grosvs only as tl'3. To hold the eventually.They recurrentlydisorganize                          Astrophys.J. 252, 1 (1982). It is interestingto
+ material requirements down to Ms            matter, necessitating repair work to                      trace out the decay of a cold neutron star at
+                                                                                                       times comparableto the nucleon lifetime and
+ tlX3,a Fulier dome constructionutilizing maintainlife, on a fixed time scale. Thus                    later.As it loses mass, it slowly moves alongthe
+ fixed-thicknessrods with length scaled the power requirementfor repairof the                          cold mattereguilibriumcurve down to the mini-
+                                                                                                       mum neutron star mass, where an explosive
+ as I tlX3might be employed.                 empiregoes as MS(t) tl'3. This is fatal                   expansionoccurs. Subsequently,the star settles
+    Equation40 tells us that                 because the power available from the                      down onto the white dwarf branchof the cold
+                                                                                                       matterequilibriumcurve, expandAalongit slow-
+                                             strongest enduring source, black hole                     ly until it reaches the size of Jupiter,and then
+                dSEIdt t-1/3            (42) radiation,scales down with time as dE/                    contracts to earth-sized, asteroid-sized, and
+                                                                                                       rock-sized objects before disappearing.Mean-
+ The materialin the shell would cover a dt t-213                                                       while the surface temperatureis falling; for
+                                                                                                       example,in the post-Jupiterstage of essentially
+fraction R-1 t-1/3 of the full solid            Although we have failed to find a                      constant density, N exp(-t/T), R exp(-t/
+ angle, so it could absorb a fraction viable scheme for preserving life based                          3T),and T exp(-t/12T) accordingto Eq. 30.
+                                                                                                   21. D. J. Stevenson, privatecommunication.
+     t-1/3 of the energy radiated by the on solid structures,other forms of orga-                  22. The first suggestionthat black holes be-towed
+ black hole and generate entropy at the nizationmay be possible, as emphasized                         and used as energy sources, albeit on a more
+                                                                                                       modest scale, was made by L. Wood,; T.
+ rate                                        by Dyson. It standsas a challengefor the                  Weaver,and J. Nuckolls [Ann.N. Y.Acad. Sci.
+                                             future to find dematerializedmodes of                     251, 623 (1975)].
+                dSSldt t-213           (43)                                                        23. In the case of positronium,the collectible mass
+                                             organization(based on dust clouds or an                   in a region ,!rowing as R tP is again
+                                                                                                       M R3p t3P-, and the towing energy re-
+    According to Dyson (6), life would e+e- plasma?) capable of self-replica-                          quirement per doubling time is again
+ hate problems of heat disposal which tion. If radiantenergyproductioncontin-                          Mv2 t5P-4.However, the radiantenergy col-
+                                                                                                        lectionper doublingtime by life based on a thin
+-would r@quireit to "hibernate" a frac- ues without limit, there remains hope                           sheet of solid mass with area A M t3P-2 is
+                                                                                                       only p (radiation)At t3P-3. For p 1/2, the
+ tion [1 - g(t)] of the time. In Dyson's thatlife capableof using it forever can be                    towing energy requirementexceeds the energy
+ formulationg(t) scales as the taempera- created.                                                      collection. Since the collection region must
+                                                                                                       grow faster than a comoving volume to supply
+ ture of the life zone, Tljfe(t).This would                  Referencesand Notes                       the necessaryperpetualgrowthin mass, p 2/3
+ preventlife fromgeneratingentropycon- 1. P. C. W. Davies, Mon. Not. R. Astron. Soc. 161               is requiredand energycollectioh is inadequate.
+                                                                                                   24. This optimumapplies independentof whether
+ tinuouslyat a rate as high as t-2/3. Nev-       1 rls73)                                               the black holes are broughttogetherby intelli-
+ ertheless, as one sees by taking, for 2. J.        N. Islam, Q.J.R. Astron. Soc. 18, 3 (1977)
+                                                 Sky Telesc. 57, 13 (1979).
+                                                                                                        gent interventionor coalesce spontaneously.In
+                                                                                                        the lattercase, life would still have to perform
+ exaruple,                                    3. J. D. Barrowand F. J. Tipler,Nature (London)           some towingof matterto engineerthe growthof
+                                                 276j 453 (1978).                                       the inhabitedshell, andin generalthe movement
+      g(t) Tljfe(t) TsH(t) t            (44) 4. D. N. Pageand M. R. McKee, Phys. Rev. D 24,             of the black holes would need to be accelerated
+                                                 1458(1-981);Nature (London) 291, 44 (1981).            or brakedto optimizetheir rate of coalescence.
+ life could produceentropy at a rate scal- 5. P. C. W. Davies The Physics of Time Asymme-          25. Supportedin partby U.S. Departmentof Ener-
+                                                 try (Univ. of CaiiforniaPress, Berkeley, 1974),       gy contractDE-AC-03-81-ER40050.Muchof the
+ ing as t-2/3 duringits active phases and        chaps. 4 and 7.                                       foregoingwork was done at the Aspen Center
+ t-1 overall, which would still allow its 7.  6. F. J. Dyson, Rev. Mod. Phys. 51, 447 (1979).           for Physics, where the interdisciplinaryatmo-
+                                                 K. Huang, Statistical Mechanics (Wiley, New            sphere played a vital role in stimulatingthis
+ integratedentropy generation to go to           York, 1963),p. 154.                                    study. I particularlythank D. Gross, P. Ra-
+ infinity in our model. Thus the model 8.        J. D. Bekenstein,Phys. Rev. D 7, 2333 (1973).
+                                              9. S. W. Hawking,ibid. 13 191 (1976).
+                                                                                                        mond, I. Redmount,K. Thorne, S. Wolfram,
+                                                                                                        and A. Zee for informativeand encouraging
+ seems to reach the goal of life without lo.            , Nature (Londonj 248, 30 (1974).               discussions.
+
+13 AUGUST 1982                                                                                                                                  599
+

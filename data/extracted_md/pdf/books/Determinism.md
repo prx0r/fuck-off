@@ -1,0 +1,286 @@
+# 216   Great Problems in Philosophy and Physics - Solved?
+
+**source:** pdf · **section:** books
+**file:** Determinism
+---
+
+
+                                      i n i s m
+                          De     term
+Chapter 19
+
+                                                                   This chapter on the web
+                                     informationphilosopher.com/freedom/determinism.html
+                                                 Determinism           217
+
+Determinism
+    The “problem of determinism” looms large in philosophy, where
+it appears as the powerful alternative to libertarian freedom in the
+“problem of free will.”1
+   But determinism is equally powerful in physics today. It appears
+to be the logical, the rational, even the metaphysical foundation of
+classical Newtonian physics. The alternative of chance is thought
+to be irrational. Chance cannot be a “reason” or an explanation,
+which the Greeks called a “logos.” Chance is “alogos,” illogical. An
+uncaused cause has long been considered oxymoronic by analytic
+language philosophers who, to be sure, placed too much explana-
+tory power in words.
+   Despite the fact that quantum physics seems to have shown that
+the microscopic world at least is ontologically indeterministic, the
+critics of quantum theory, who have developed several alternative
+“interpretations” of quantum mechanics, are equally divided into
+
+                                                                         Chapter 19
+those who accept the indeterminism and those, following Albert
+Einstein, Erwin Schrödinger, and many others, hope to show
+that determinism can be restored to quantum theory by discover-
+ing “hidden variables,” forces coming in “from outside space and
+time,” or that there is only the “appearance” of randomness.
+   Determinism is the philosophical idea that every event or state
+of affairs, including every human decision and action, is the inevi-
+table and necessary consequence of antecedent states of affairs.
+There is but one possible future.
+  More strictly, determinism should be distinguished from pre-
+determinism, the idea that the entire past (as well as the future)
+was determined at the origin of the universe.
+  Nor should determinism be confused with determination, the
+idea that events (including human actions) can be adequately
+determined by immediately prior events (such as an agent’s rea-
+sons, motives, desires), without being pre-determined back to
+before the agent’s birth or even back to the origin of the universe.
+  1    See chapter 4
+         218     Great Problems in Philosophy and Physics - Solved?
+
+                  Since modern quantum physics shows that the universe is inde-
+               terministic, with profound effects on microscopic processes at the
+               atomic scale, we will find it valuable to distinguish pre-determin-
+               ism from the adequate or statistical determinism that we have in
+               the real world. Adequate determinism, which may be arbitrarily
+               close to and indistinguishable from certainty, is the basis for the
+               classical physical laws that apply in the macrocosmos.
+                  Determinism is a modern name (coined in the nineteenth-cen-
+               tury) for the ancient idea of Democritus that causal determinis-
+               tic laws control the motion of atoms, and that everything - includ-
+               ing human minds - consists merely of atoms in a void.
+                 Democritus’ mentor and fellow materialist Leucippus said
+               absolute necessity leaves no room in the cosmos for chance.
+                  “Nothing occurs at random, but everything for a reason and by neces-
+                  sity.”
+                  Determinism, especially the variation of “soft” determinism (cf.
+               William James) or compatibilism, is supported as a theory of free
+Chapter 19
+
+               will by a majority of philosophers, each with special vested inter-
+               ests in one or more of the many determinisms.
+                  Compatibilists accept determinism but argue that man is free as
+               long as his own will is one of the steps in the causal chain, even if
+               his choices are completely predetermined for physical reasons or
+               preordained by God.
+                  And fatalism is a special form of determinism where every
+               event in the future is fated to happen. Fatalism does not normally
+               require that any causal laws or higher powers are involved. Que
+               sera, sera.
+                  The core idea of determinism is closely related to the idea of
+               causality. But we can have causality without determinism, espe-
+               cially the “soft” causality that follows an “uncaused” event (a causa
+               sui) that is not predictable from prior events.
+                 Aristotle called such events archai (ἀρχαί) - starting points
+               or “fresh starts” in new causal chains which break the bonds of
+               determinism.
+                                                                Determinism   219
+
+   Despite David Hume’s critical attack on the necessity of causes,
+many philosophers embrace causality and determinism strongly.
+Some even connect it to the very possibility of logic and reason.
+And Hume himself believed strongly, if inconsistently, in neces-
+sity. “‘tis impossible to admit any medium betwixt chance and
+necessity,”2 he said.
+  Bertrand Russell said causation may be a priori,
+      “The law of causation, according to which later events can theoreti-
+      cally be predicted by means of earlier events, has often been held to
+      be a priori, a necessity of thought, a category without which science
+      would not be possible.” 3
+Indeterminism
+  The idea of indeterminism appears to threaten causality and
+the basic idea of causal law. But it does not.
+   Indeterminism for some is simply an occasional event without
+a cause. We can have an adequate causality without strict deter-
+minism. Strict determinism means complete predictability (in
+
+                                                                                Chapter 19
+principle, if not in practice) of events and only one possible future.
+Adequate determinism provides statistical predictability, which in
+normal situations for physical objects approaches statistical cer-
+tainty.
+  An example of an event that is not strictly caused is one that
+depends on chance, like the flip of a coin. If the outcome is only
+probable, not certain, then the event can be said to have been
+caused by the coin flip, but the head or tails result itself was not
+predictable. So this causality, which recognizes prior events as
+causes, is undetermined and the result of chance alone.
+  We call this “soft” causality. Events are caused by prior
+(uncaused) events, but not determined by events earlier in the
+causal chain, which has been broken by the uncaused cause.
+   Determinism is critical for the question of free will. Strict deter-
+minism implies just one possible future. Chance means that the
+future is unpredictable. Chance allows alternative futures and the
+
+  2       Treatise of Human Nature, Book I, Part I, Section XIV, p.171
+  3       Our Knowledge of the External World, p.179
+         220         Great Problems in Philosophy and Physics - Solved?
+
+               question becomes how the one actual present is realized from these
+               alternative possibilities.
+                  The departure required from strict determinism is very slight
+               compared to the miraculous ideas associated with the “causa sui”
+               (self-caused cause) of the ancients.
+                 Even in a world that contains quantum uncertainty, macroscopic
+               objects are adequately, statistically determined to an extraordinary
+               degree. The macroscopic “laws of nature” are just statistical laws that
+               “emerge” when large numbers of atoms or molecules get together.
+               For large enough numbers, the probabilistic laws approach practical
+               certainty.
+                 Determinism is an emergent property.4
+                  Newton’s laws of motion are deterministic enough to send men
+               to the moon and back. Our two-stage model of free will5 is large
+               enough to ignore quantum uncertainty for the purpose of the
+               reasoning will. The neural system is robust enough to insure that
+Chapter 19
+
+               mental decisions are reliably transmitted to our limbs.
+                  We call this determinism, only ineffective for extremely small
+               structures, “adequate determinism.” It is adequate enough to pre-
+               dict eclipses for the next thousand years or more with extraordinary
+               precision.
+               Determination
+                 Unlike his compatibilist predecessors, R.E.Hobart (the pseud-
+               onym of Harvard philosopher Dickinson S. Miller, a student of Wil-
+               liam James) explicitly does not endorse strict logical or physical
+               determinism. He uses the word “determination,” not determinism.
+               And he explicitly endorses the existence of alternative possibilities,
+               which can depend on absolute chance. Hobart is writing about six
+               years after the discovery of quantum indeterminacy.
+                 He says:
+                     I am not maintaining that determinism is true...it is not here affirmed
+                     that there are no small exceptions, no slight undetermined swervings,
+                     no ingredient of absolute chance.6
+
+                 4       See chapter 26.
+                 5       See chapter 4.
+                 6       Mind, Vol XLIII, No. 169, January, 1934, p.2
+                                                           Determinism                221
+
+    “We say,” I can will this or I can will that, whichever I choose “. Two
+    courses of action present themselves to my mind. I think of their conse-
+    quences, I look on this picture and on that, one of them commends itself
+    more than the other, and I will an act that brings it about. I knew that I
+    could choose either. That means that I had the power to choose either.7
+  Much later, Phillipa Foot argued that because our actions are
+determined by our motives, our character and values, our feelings
+and desires, in no way leads to the conclusion that they are pre-
+determined from the beginning of the universe.
+    For instance, an action said to be determined by the desires of the man
+    who does it is not necessarily an action for which there is supposed to
+    be a sufficient condition. In saying that it is determined by his desires
+    we may mean merely that he is doing something that he wants to do, or
+    that he is doing it for the sake of something else that he wants. There is
+    nothing in this to suggest determinism.8
+   The presence of quantum uncertainty leads some philosophers to
+call the world undetermined. But indeterminism is somewhat mis-
+leading, with strong negative connotations, when most events are
+overwhelmingly “adequately determined.” Nevertheless, speaking
+
+                                                                                        Chapter 19
+logically, if a single event is undetermined, then indeterminism is
+true, and determinism false.
+   There is no problem imagining that the three traditional mental
+faculties of reason - perception, conception, and comprehension -
+are all carried on more or less deterministically in a physical brain
+where quantum events do not interfere with normal operations.
+   There is also no problem imagining a role for randomness in
+the brain in the form of quantum level noise. Noise can introduce
+random errors into stored memories. Noise could create random
+associations of ideas during memory recall. This randomness may
+be driven by microscopic fluctuations that are amplified to the mac-
+roscopic level.
+   Our macro mind needs the micro mind for the free action items
+and thoughts in an agenda of alternative possibilities to be de-liber-
+ated by the will. The random micro mind is the “free” in free will and
+the source of human creativity. The adequately determined macro
+   7      ibid, p.8
+   8      “Free Will as Involving Determinism,” The Philosophical Review, vol LXVI,
+(1957), p.441
+         222         Great Problems in Philosophy and Physics - Solved?
+
+               mind is the “will” in free will that de-liberates, choosing actions for
+               which we can be morally responsible.
+                  Determinism must be disambiguated from its close relatives cau-
+               sality, certainty, necessity, and predictability.
+               The Emergence of Determinism
+                  Since the physical world is irreducibly indeterministic at the base
+               level of atoms and molecules, there is actually no strict determinism
+               at any “level” of the physical world.
+                  With random motions at the base level, what emerges at the higher
+               level of the macroscopic physical world and the human mind is ade-
+               quate determinism. Determinism is an abstract theoretical idea that
+               simplifies physical systems enough to allow the use of logical and
+               mathematical methods on idealized abstract “objects” and “events.”
+               The apparent “determinism” of classical physics is the consequence
+               of averaging over extremely large numbers of microscopic particles.
+                 Adequate determinism “emerges” when we have large enough
+Chapter 19
+
+               objects to be averaging over vast numbers of atoms and molecules.
+                 Determinism is an emergent property, just as the concept of
+               determinism emerged historically.
+               The History of Determinism9
+                 The term (sic) determination is first attested in the late fourteenth
+               century, “to come to an end,” also “to settle, decide,” from O.Fr. deter-
+               miner (12c.), from L. determinare “set limits to,” from de- “off ” + ter-
+               minare “to mark the end or boundary,” from terminus “end, limit.”
+                 Its sense of “coming to a firm decision” (to do something) is from
+               1450. Determination as a “quality of being resolute” dates from 1822.
+                  Before the nineteenth century determinists were usually called
+               Necessarians. William Belsham contrasted them (favorably) with
+               the “incoherent” Libertarians in 1789. This was the first use of Lib-
+               ertarian. Libertarians were thought incoherent because liberty was
+
+                 9     Sources, OED, Webster’s Third International
+                                                           Determinism            223
+
+thought to be unruly, random, unlawful, and - in a related term of
+the day - libertine.
+ The noun “determinism” appears first in 1846 in Sir William
+Hamilton’s edition of Thomas Reid’s works as a note on p.87.
+   “There are two schemes of Necessity - the Necessitation by efficient - the
+   Necessitation by final causes. The former is brute or blind Fate; the latter
+   rational Determinism.”
+  At about the same time, determinism is used by theologians to
+describe lack of free will.
+  In 1855, William Thomson (later Lord Kelvin) wrote,
+   “The theory of Determinism, in which the will is determined or swayed
+   to a particular course by external inducements and forced habits, so that
+   the consciousness of freedom rests chiefly upon an oblivion of the ante-
+   cedents of our choice.”
+   Ernst Cassirer claimed (mistakenly?) that determinism in the
+philosophical sense of a “doctrine that everything that happens is
+determined by a necessary chain of causation” dates from the work
+
+                                                                                    Chapter 19
+of Emil du Bois-Reymond in 1876.
+   Note that many ancient philosophers worried about this causal
+chain (ἄλυσις), but those philosophers who allowed the existence
+of chance, (Aristotle, Epicurus, Lucretius, and Alexander of
+Aphrodisias), denied such a causal chain, while maintaining that
+human decisions were caused by neither chance nor necessity but
+by a tertium quid - our autonomous human agency.
+  The adjective “determinist” appeared first in the Contemporary
+Review of October 1874 - “The objections of our modern Deter-
+minists.” In the Contemporary Review of March 1885, R. H. Hutton
+described “The necessarian or determinist theory of human action.”
+   William James’s essay on “The Dilemma of Determinism”
+appeared at about the same time, in 1884. In it he coined the terms
+“soft determinism” (today’s compatibilism), and “hard determinism”
+(strict determinism, indeed, pre-determinism from the beginning
+of time).
+

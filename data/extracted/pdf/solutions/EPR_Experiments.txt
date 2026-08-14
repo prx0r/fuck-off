@@ -1,0 +1,451 @@
+Reprinted from Proceedings of the Symposium on Frontier Problems in
+High Energy Physics, Pisa, June 1976
+© A nnali Della Schola Normale Superiore di Pisa
+
+
+
+
+           E in s te in -P o d o ls k y -R o s e n E x p e r im e n ts
+
+                                       J. S. Bell
+                                     CERN, Geneva
+
+
+     I have been invited to speak on “foundations of quantum mechanics” — and to
+a captive audience of high energy physicists! How can I hope to hold the attention
+of such serious people with philosophy? I will try to do so by concentrating on an
+area where some courageous experimenters have recently been putting philosophy
+to experimental test.
+     The area in question is that of Einstein, Podolsky, and Rosen.1 Suppose for
+example,2,3 that protons of a few MeV energy are incident on a hydrogen target.
+Occasionally one will scatter, causing a target proton to recoil. Suppose (Fig. 1)
+that we have counter telescopes Xj and T2 which register when suitable protons are
+going towards distant counters C\ and C2. With ideal arrangements registering of
+both 7j and T2 will then imply registering of both C\ and C2 after appropriate time
+decays. Suppose next that C\ and C2 are preceded by filters that pass only particles
+of given polarization, say those with spin projection + | along the z axis. Then one
+or both of C\ and C2 may fail to register. Indeed for protons of suitable energy one
+and only one of these counters will register on almost every suitable occasion —
+i.e., those occasions certified as suitable by telescopes4 Ti and T2. This is because
+proton-proton scattering at large angle and low energy, say a few MeV, goes mainly
+in S wave. But the antisymmetry of the final wave function then requires the
+antisymmetric singlet spin state. In this state, when one spin is found “up” the
+other is found “down”. This follows formally from the quantum expectation value
+
+                           (singlet|<rz(l)cx2(2)|singlet) = -1
+
+where |<r2(l) and -erz(2) are the z component spin operators for the two particles.
+    Suppose now the source-counter distances are such that the proton going towards
+Ci arrives there before the other proton arrives at C2. Someone looking at counter
+Ci will not know in advance whether it will or will not register. But once he has
+noted what happens to Ci at the appropriate time, he immediately knows what will
+happen subsequently to C2, however far away C2 may be.
+    Some people find this situation5 paradoxical. They may, for example, have come
+to think of quantum mechanics as fundamentally indeterministic. In particular they
+may have come to think of the result of a spin measurement on an unpolarized
+
+                                            l
+                                    Spin filter 1
+                                                          Counter 1
+
+
+
+
+particle (and each particle, considered separately, is unpolarized here) as utterly
+indefinite until it has happened. And yet here is a situation where the result of
+such a measurement is perfectly definitely known in advance. Did it only become
+determined at the instant when the distant particle passed the distant filter? But
+how could what happens a long way off change the situation here? Is it not more
+reasonable to assume that the result was somehow predetermined all along?
+   I will discuss briefly three ways of responding to this situation, which may be
+respectively characterized by the following three questions:
+
+                   Why worry?
+                   But is not all this just like classical physics?
+                   But is it really true?
+
+                                   Why worry?
+
+It can be argued that in trying to see behind the formal predictions of quantum
+theory we are just making trouble for ourselves. Was not precisely this the lesson
+that had to be learned before quantum mechanics could be constructed, that it is
+futile to try to see behind the observed phenomena? Moreover we learn again from
+this particular example that we must consider the experimental arrangement as a
+whole. We must not try to analyze it into separate pieces, with separately localized
+quotas of indeterminacy. By resisting the impulse to analyze and localize, mental
+discomfort can be avoided.
+    This is, as far as I understand it, the orthodox view, as formulated by Bohr6 in
+his reply to Einstein, Podolsky, and Rosen. Many people are quite content with it.2
+
+                                            2
+                But is not all this just as in classical physics?
+Similar correlations do indeed exist in classical physics, and surprise nobody. Sup­
+pose I take from my pocket a coin and, without looking at it, split it somehow down
+the middle so that the head and tail are separated. Suppose then that, still with­
+out anyone looking, the two different pieces are pocketed by two different people
+who go on different journeys. The first to look, finding that he has head or tail,
+will know immediately what the other will subsequently find. Are the quantum
+mechanical correlations any different? Indeed they are not, according to Einstein,7
+if I have understood him correctly. In the example of the coin, the head and the
+tail were head and tail all along, even while hidden. The person who first looked
+was just the first to know. But in fact everything was determined from the handing
+over the pieces (and even before, in fully deterministic classical theory). It is by
+not explicitly containing the “hidden variables” reading already head or tail, (or
+“up” or “down”), before observation, that quantum mechanics makes a mystery of
+a perfectly simple situation. So for Einstein:8
+    The statistical character of the present theory would then have to be a necessary
+    consequence of the incompleteness of the description of the systems in quantum
+    mechanics, and there would no longer exist any ground for the supposition that
+    a future ... physics must be based upon statistics ...
+That the apparent indeterminism of quantum phenomena can be simulated deter­
+ministically is well known to every experimenter. It is now quite usual, in designing
+an experiment, to construct a Monte Carlo computer programme to simulate the
+expected behaviour. The running of the digital computer is quite deterministic —
+even the so-called “random” numbers are determined in advance. Every such pro­
+gramme is effectively an ad hoc deterministic theory, for a particular set-up, giving
+the same statistical predictions as quantum mechanics.
+   It is interesting to follow this up a little in the above case of counter correlations.
+Let A be a variable which takes the values ±1 according to whether counter 1 does
+or does not register. Let B = ±1 be a similar variable describing the response of
+counter 2. Let A and B be determined by variables X, fi, v , , some of which may
+be random numbers:                  j
+
+                                     A ( \ , n , v , ...)
+                                     B{\,n,v,...)
+
+There are infinitely many ways of choosing such variables and such functions so that
+B = —1 whenever A — +1, and vice versa. The quantum mechanical correlations
+are then reproduced.
+    Consider, however, a variation on the experiment. Instead of having both filters
+pass spins pointing in the z direction, let the two filters be rotated, to pass spins
+pointing in some other directions. Let the filter associated with the first counter
+pass spins pointing along some unit vector a, and that associated with the second
+counter pass spins pointing along some unit vector b. For given values of the hidden
+variables A, fi,      the response A of the first counter may well depend now on
+
+                                              3
+                                                                                         77
+
+
+the orientation a of its own filter. But one would not expect A to depend on the
+orientation b of the distant second filter. And one could expect the response B of
+the second counter to depend on the local condition b, but not on the condition a
+of the remote instrument:
+
+                                   A(a,        ...)
+                                   B(b,
+
+Let the correlation function P(a,b) be defined as the mean value of the product
+AB:                            ________________________
+                    P(a, b) = A(a,          )B{ b,                          (1)
+where the bar denotes averaging over some distribution of variables
+  For this more general situation the quantum prediction is
+
+                P(a, b) = (singlet|a • tr(l)b • <x(2)|singlet) = - cos 9           (2)
+
+where 9 is the angle between a and b. Can we, by some clever scheme of variables
+A,/x,z/,... and functions A, B, arrange that the average (1) has the value (2)? The
+answer is “no”.
+   Suppose, for example, we arrange that (1) equals (2) for a = b, i.e., 9 — 0:
+
+                             P(a, b) = —1 for a = b
+
+Then A and B must have opposite signs every where in the A, p, u,... space. Con­
+sider now what happens when a is varied to some new value a'. B (which is
+independent of a by hypothesis) does not change for given A, p, v , ... But A will
+change sign at certain points, and these points will contribute AB = +1 instead of
+AB = —1 in the average (1). So
+
+                               P(a',a) —P(a,a) = 2p
+
+where p is the total probability of the set of points A, p, v , ... at which A changes
+sign. Now this set of points, at which A changes sign when a is varied to a', in no
+way depends on b. It follows from (1), and from B — ±1, that
+
+                              \P(a',b)-P(a,b)\ < 2p
+
+So of all values b, b = a is that for which P varies most rapidly with a. Unlike the
+quantum correlation (2), which is stationary in 9 at 9 = 0, at the hidden variable
+correlation (1) must have a kink there (Fig. 2).
+   One could, of course, get the quantum mechanical result from a more general
+hidden variable representation in which A depends on b as well as a, or B on a as
+well as b:
+
+                                 A(a, b,
+                                 B (a,b,A ,/r,i/,...)
+
+
+                                           4
+                  Fig. 2. Behaviour of correlation P near 6 = 0, P = —1.
+
+
+But this would make the behaviour of a counter dependent on what is done at a
+distant place. This would seen strange enough with a and b constant, but suppose
+now that these settings vary with time. Then according to quantum mechanics the
+relevant values of a and b are those obtained when the particles pass through the
+corresponding filters. Suppose for example we arrange that the two passages are
+simultaneous. Then A (or B) would have to depend instantaneously on the setting
+b (or a) of the distant instrument. The causal dependence would have to propagate
+faster than light.
+    So all this is not at all just like classical physics. Einstein argued that the EPR
+correlations could be made intelligible only by completing the quantum mechanical
+account in a classical way. But detailed analysis shows that any classical account
+of these correlations has to contain just such a “spooky action at a distance”9 as
+Einstein could not believe in:
+    But on one supposition we should, in my opinion, absolutely hold fast: the
+    real factual situation of the system S 2 is independent of what is done with the
+    system 5Xwhich is spatially separated from the former.10
+If nature follows quantum mechanics in these correlations, then Einstein’s concep­
+tion of the world is untenable.
+                               But is it really true?
+Well, does nature follow quantum mechanics in these matters? It might be argued
+that the very general and very remarkable success of quantum mechanics makes it
+pointless to do special experiments on these correlations. We will just find, after a
+lot of trouble, that quantum mechanics is again right. But it can also be argued
+that the great success of quantum mechanics, in so far as it differs from classical
+mechanics, is on the microscopic scale. Here, on the other hand, we are concerned
+with specifically quantum phenomena on the macroscopic scale.
+    The present movement to check these things experimentally started with the
+key paper of Clauser, Holt, Horne, and Shimony.11 From the basic representation
+(1) they showed that
+
+                                            5
+                    |P(a, b) - P(a,6')| + |P(a', b) + P(a', 6')l ^ 2                  (3)
+Here P is the counting correlation already defined, a and a' are alternative settings
+of the first polarizer, and b and b’ alternative settings of the second. It is readily
+seen that the quantum mechanical P, (2), for well chosen a, a1, b, b1, violates (3)
+by a factor as large as ^2 . It is in terms of this very practical “locality inequality”
+that the various experiments have been interpreted.
+    Unfortunately it is not at present possible to approach the conditions of the ideal
+critical experiment. Real counters, real polarization analyzers, and real geometrical
+arrangements, are together so inefficient that the quantum mechanical correlations
+are greatly diluted. The counters seldom say “yes, yes”, usually say “no, no”, and
+say “yes no” with a frequency only weakly dependent on the polarizer settings. In
+these conditions
+                                P(a, 6) = 1 - (£(a, 6))2
+where S is small and weakly dependent on the arguments a, b. The inequality (3) is
+then trivially satisfied. So it is only by allowing (in effect) for various inefficiencies
+in conventional ways, and so extrapolating from the real results to hypothetical ideal
+results, that the various experiments can be said to “test” the inequality. But the
+results are nevertheless of great interest. Compensating failures could be imagined,
+of the conventional quantum mechanics of spin correlations and of the conventional
+phenomenology of the instruments, which would make the practiced experiments
+irrelevant. But that would seem an extraordinary conspiracy.
+    Of these experiments only one is concerned with the low energy pp scattering of
+the above gedanken experiment. It is that of Lamehi-Rachti and Mittig at Saclay.12
+Protons of 14 MeV lab energy are scattered at a lab angle of 45°, and spin correla­
+tion of scattered and recoil protons measured. They do not have the ideal yes-no
+polarization filters of the gedanken experiment. Instead they analyze polarization
+by secondary scattering on Carbon. Nor do they have the telescopes T) and T2 to
+tell when there are indeed suitable particles going towards the counters. This also
+lengthens the extrapolation from real to ideal experiment. Nevertheless if there
+were some tendency for the singlet spin state to dissipate somehow with macro­
+scopic separation of the particles, it should show up, barring conspiracy, in such an
+experiment. The preliminary results show no such effect. They agree with quantum
+mechanics and disagree (in the sense of a certain extrapolation) with the locality
+inequality.
+    All the other experiments have been done with pairs of photons rather than
+spin half particles. In the theory the two linear polarization states of each photon
+replace the two spin states of each spin | particle. Suitably correlated photon pairs
+arise in the annihilation of slow positrons with electrons. Again there are no very
+efficient polarization filters. The experimenters have to resort to Compton scatter­
+ing of the photons; according to quantum mechanics the polarization correlations
+are then translated into angular correlations. Such experiments have been done at
+Columbia13 (Kasday, Ullman, and Wu) and at Catania14 (Faraci, Gutkowski, Notar-
+rigo, and Pennisi). The Columbia result is in agreement with quantum mechanics,
+and (in the extrapolated sense) in significant disagreement with the inequality. The
+
+                                            6
+reverse is the case for the Catania experiment. The reasons for this discrepancy
+between the two experiments are not known, as far as I can tell.
+     For optical photons, in contrast with the energetic photons of positron annihi­
+lation, efficient polarization filters are available — namely birefringent crystals and
+ “piles-of-plates”. Moreover suitably correlated photon pairs are produced in certain
+atomic cascades. Consider for example a two photon cascade in which initial and
+final atomic states have zero angular momentum. When the two photons come
+off back to back their helicities must be so correlated that there is no net angu­
+lar momentum about their common direction of motion. There is a corresponding
+correlation of linear polarization states. Unfortunately the photons do not always
+come off back to back, for the residual atom can take up momentum. Very often
+then a “no” from a counter has no significance for polarization, but just means
+that no photon has gone that way. This problem could be eliminated in principle
+by suitable telescopes T to veto the uninteresting cases. But this has not been
+possible in practice. The significance of “no” from a counter is further diminished
+in these experiments by the very low efficiencies of the photon counters. So there
+is no question of actually realizing a system which violates the locality inequal­
+ity. But such experiments do test whether the quantum polarization correlations
+persist over macroscopic distances. Experiments have been done by Clauser and
+Freedman,15 on a cascade in Calcium, by Holt and Pipkin16 and by Clauser17 on a
+cascade in Mercury, and by Fry18 on another cascade in Mercury. Three of these
+four experiments confirm quantum mechanics very nicely and (in the sense of some
+extrapolation) disagree significantly with the locality inequality. But for Holt and
+Pipkin the reverse is true. It is not understood why this experiment disagrees with
+the very similar one of Clauser.
+    Now these experiments do not test at all what was said to be the most striking
+feature of the quantum correlations. This was their dependence only on the instan­
+taneous settings, during the passage of the particles, of the polarization filters. It
+is therefore of very great interest that an atomic cascade experiment is now under
+way in which the settings of the polarizers are changed while the photons are in
+flight. Clauser19 suggested that this might be done by the use of something like
+Kerr cells. But according to Aspect20 such cells heat up too quickly and are of too
+low transmission to be useful in practice. His idea is to replace each filter-counter
+combination by a pair of such combinations with differently oriented filters. He
+thinks that he can bring one or other orientation into play by a switching device
+that can rapidly redirect the incident photon from one filter to the other. He be­
+lieves that such switching can be effected by the generation of ultrasonic standing
+waves on which the photon undergoes Bragg reflection. If this experiment gives the
+expected result it will be a confirmation of what is, to my mind, in the light of the
+locality analysis,21 one of the most extraordinary predictions of quantum theory.
+    I think that future generations should be grateful to those who bring these
+matters out of the realm of gedanken experiment into that of real experiment.
+Moreover several of the real experiments are of great elegance. To hear of them
+
+                                          7
+(not in schematic terms from a theorist but in real terms from their authors) is, to
+borrow a phrase from Professor Gilberto Bernardini, a spiritual experience.
+
+Appendix. Einstein and Hidden Variables
+I had for long thought it quite conventional and uncontroversial to regard Einstein
+as a proponent of hidden variables, and indeed22 as “the most profound advocate
+of hidden variables”. And so I had on several occasions appealed to the authority
+of Einstein to legitimise an interest in this question. But in so doing I have been
+accused, by Max Jammer5 in his very valuable book: The Philosophy of Quantum
+Mechanics, of misleading the public:
+
+    One of the sources of erroneously listing Einstein among the proponents of
+    hidden variables was probably J. S. Bell’s widely read paper: On the Einstein-
+    Podolsky-Rosen Paradox, Physics 1, 195-200 (1964), which opened with the
+    statement: “The paradox ... was advanced as an argument that quantum
+    mechanics ... should be supplemented by additional variables.” ... Einstein’s
+    remarks in his “Reply to Criticisms” (Ref. 4-9, p. 672), quoted by Bell in
+    support of his thesis, are certainly no confession of the belief in the necessity of
+    hidden variables.
+
+The remark of Einstein which I had quoted was this:
+
+    But on one supposition we should, in my opinion, absolutely hold fast: the
+    real factual situation of the system S 2 is independent of what is done with the
+    system 5 1 , which is spatially separated from the former.
+
+The object of this quotation was to recall Einstein’s deep commitment to realism
+and locality, the axioms of the EPR paper. And the quotation was not from p. 672
+of Einstein’s “Reply to Criticisms”, but from p. 85 of his “Autobiographical Notes”
+in the same volume.23 But turning to p. 672, I find the following:
+
+    Assuming the success of efforts to accomplish a complete physical description,
+    the statistical quantum theory would, within the framework of future physics,
+    take an approximately analogous position to the statistical mechanics within
+    the framework of classical mechanics. I am rather firmly convinced that the
+    development of theoretical physics will be of this type; but the path will be
+    lengthy and difficult.
+
+This seems to me a rather clear commitment to what is usually meant by hidden
+variables.24
+   Other similarly clear statements are readily found:25
+
+   I am, in fact, firmly convinced that the essentially statistical character of con­
+   temporary quantum theory is solely to be ascribed to the fact that this (theory)
+   operates with an incomplete description of physical systems.
+
+                                           8
+   Moreover, the Einstein-Podolsky-Rosen paper did have the title: “Can Quan­
+tum Mechanical Description of Physical Reality be Considered Complete?” And it
+did end with:
+
+    While we have thus shown that the wave function does not provide a complete
+    description of the physical reality, we left open the question of whether or not
+    such a description exists. We believe, however, that such a theory is possible.
+
+    It seems to me then beyond dispute that there was at least one Einstein, that
+of the EPR paper and the Schilpp volume, who was fully committed to the view
+that quantum mechanics was incomplete and should be completed — which is the
+hidden variable programme. Max Jammer seems not to have found this Einstein,
+but claims to have found another. As evidence he cites phrases from private letters,
+an oral tradition, and Einstein’s well-known commitment to classical field theory.
+    Now the belief in classical field theory, in “Continuous functions in the four
+dimensional (continuum) as basic concepts of the theory26”, in no way excludes
+belief in “hidden” variables. It can be seen rather as a particular conception of
+those variables.
+    The oral tradition was that Einstein expected quantum mechanics ultimately to
+come in conflict with experiment. But if such an expectation were to exclude him
+from the list of proponents of hidden variables, I doubt it anyone could be left on it.
+If such a list were compiled I think it would be of people concerned to reproduce the
+experimentally confirmed aspects of quantum mechanics but eager to find in their
+investigations some hint as to where a critical experiment might be sought. Indeed
+few would expect the ultimate vindication of quantum mechanics (on the statistical
+level) so strongly as Einstein himself on one occasion:27 “The formal relations which
+are given in this theory — i.e., its entire mathematical formalism — will probably
+have to be contained, in the form of logical inferences, in every useful future theory”.
+    The quotations from private letters are of negative reactions by Einstein to the
+very particular 1952 hidden variables of Bohm. This scheme reproduced completely,
+and rather trivially, the whole of nonrelativistic quantum mechanics. It had great
+value in illuminating certain features of the theory, and in putting in perspective
+various “proofs” of the impossibility of a hidden variable interpretation. But Bohm
+himself did not think of it as in any way final. Jammer could have added to his
+quotations the following, from a letter from Einstein to Born:6
+    Have you noticed that Bohm believes (as de Broglie did, by the way, 25 years
+    ago) that he is able to interpret the quantum theory in deterministic terms?
+    That way seems too cheap to me.
+On which Born comments:
+   Although this theory was quite in line with his own ideas,...
+So Born also had listed Einstein as a proponent of hidden variables. I think he
+was right.
+
+                                           9
+                                                                                                 83
+
+
+Notes and References
+ 1. A. Einstein, B. Podolsky and N. Rosen, Phys. Rev. 47, 777 (1935).
+ 2. D. Bohm, Quantum Theory, Englewood Cliffe, N.J. (1951).
+ 3. A. Peres and P. Singer, Nuovo Cimento 15, 907 (1960); R. Fox, Lettere at Nuovo
+     Cimento 2, 656 (1971).
+ 4. It is assumed that these telescopes do not affect proton spin.
+ 5. M. Jammer, The Philosophy of Quantum Mechanics, Wiley, N.Y. (1974). Chapters 6
+    and 7 give a comprehensive account of the history (and prehistory) of the EPR
+    paradox.
+ 6. N. Bohr, Discussions with Einstein, in Ref. 23.
+ 7. Appendix.
+ 8. A. Einstein, in Ref. 23, p. 87.
+ 9. A. Einstein, in Ref. 28, p. 158.
+10. A. Einstein, in Ref. 23, p. 85.
+11. J. F. Clauser, R. A. Holt, M. A. Horne and A. Shimony, Phys. Rev. Lett. 23, 880
+    (1969).
+12. M. Lamehi-Rachti and W. Mittig, Phys. Rev. D14, 2543 (1976).
+13. L. R. Kasday, J. D. Ullman and C. S. Wu, Nuovo Cimento B25, 633 (1975).
+14. G. Faraci, D. Gutkowski, S. Notarrigo and A. R. Pennisi, Lettere al Nuovo Cimento
+    9, 607 (1974).
+15. J. F. Clauser and S. J. Freedman, Phys. Rev. Lett. 28, 938 (1972).
+16. F. M. Pipkin, Adv. Atomic and Mol. Phys. 14, 281 (1978).
+17. J. F. Clauser, Phys. Rev. Lett. 36, 1223 (1976).
+18. E. S. Fry and R. C. Thompson, Phys. Rev. Lett. 37, 465 (1976).
+19. As reported by A. Shimony, Ref. 22.
+20. A. Aspect, Phys. Lett. A54, 117 (1975); Phys. Rev. D14, 1944 (1976).
+21. For simplicity, in this paper we followed up the consequences of determinism, which
+    is required by locality only in the case of ideal perfect correlations. But (3) holds in a
+    much wider class of theories, local but indeterministic. See, for example, and references
+    therein: J. F. Clauser and M. A. Horne, Phys. Rev. DIO, 526 (1974); B. D’Espagnat,
+    Phys. Rev. D l l , 1424 (1975); and Conceptual Foundations of Quantum Mechanics,
+    Benjamin, new edition (1976); J. S. Bell, The Theory of Local Beables, CERN, TH
+    2053 (1975), in GIFT (1975) Proceedings and Epistemological Letters March 1976.
+22. A. Shimony, in Foundations of Quantum Mechanics, B. D’Espagnat, Ed. Academic
+    Press, N.Y., London (1971), p. 192, quoted with disapproval by M. Jammer, Ref. 5.
+23. P. A. Schilpp, Ed., Albert Einstein, Philosopher-Scientist, Tudor, N.Y. (1949).
+24. The usual nomenclature, hidden variables, is most unfortunate. Pragmatically minded
+    people can well ask why bother about hidden entities that have no effect on anything?.
+    Of course, every time a scintillation occurs on screen, every time an observation yields
+    one thing rather than another, the value of a hidden variable is revealed. Perhaps
+    uncontrolled variable would have been better, for these variables, by hypothesis, for
+    the time being, cannot be manipulated at will by us.
+25. Ref. 23, p. 666. See also Einstein’s introductory remarks in Louis de Broglie, Physicien
+    et Penseur, Albin Michel, Paris (1953), p. 5, and letters 81, 84, 86, 88, 97, 99, 103,
+    106, 108, 110, 115 and 116, in Ref. 28.
+26. Ref. 23, p. 675.
+27. Ref. 23, p. 667.
+28. M. Born, Ed., The Born-Einstein Letters, p. 192, Macmillan, London (1971).
+
+
+
+
+                                             10
+

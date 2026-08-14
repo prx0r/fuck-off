@@ -1,0 +1,7 @@
+300 Multiple Choices
+Multiple Choices
+The document name you requested (/solutions/philosophers/taylor/) could not be found on this server.
+However, we found documents with names similar to the one you requested.Available documents:
+/solutions/philosophers/taylorr/ (character missing)
+/solutions/philosophers/taylorc/ (character missing)
+Please consider informing the owner of the referring page http://www.informationphilosopher.com/freedom/two-stage_models.html about the broken link.

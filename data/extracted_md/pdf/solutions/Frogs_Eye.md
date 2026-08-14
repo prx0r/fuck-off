@@ -1,0 +1,662 @@
+# What the Frog's Eye Tells the Frog's Brain *
+
+**source:** pdf · **section:** solutions
+**file:** Frogs_Eye
+---
+
+1940                                                PROCEEDINGS OF THE IRE                                                  Novmber
+
+             What the Frog's Eye Tells the Frog's Brain *
+          J. Y. LETTVINt, H. R. MATURANAT, W. S. McCULLOCH||, SENIOR MEMBER, IRE,
+                                     AND W. H. PITTS|
+
+    Summary-In this paper, we analyze the activity of single fibers        it moves like one. He can be fooled easily not only by a
+in the optic nerve of a frog. Our method is to find what sort of stimu-    bit of dangled meat but by any moving small object.
+lus causes the largest activity in one nerve fiber and then what is the    His sex life is conducted by sound and touch. His choice
+exciting aspect of that stimulus such that variations in everything else
+cause little change in the response. It has been known for the past        of paths in escaping enemies does not seem to be gov-
+20 years that each fiber is connected not to a few rods and cones in       erned by anything more devious than leaping to where
+the retina but to very many over a fair area. Our results show that for    it is darker. Since he is equally at home in water and on
+the most part within that area, it is not the light intensity itself but   lanid, why should it matter where he lights after jumping
+rather the pattern of local variation of intensity that is the exciting    or what particular direction he takes? He does remember
+factor. There are four types of fibers, each type concerned with a dif-
+ferent sort of pattern. Each type is uniformly distributed over the        a moving thing providing it stays within his field of
+whole retina of the frog. Thus, there are four distinct parallel dis-      vision and he is not distracted.
+tributed channels whereby the frog's eye informs his brain about the
+                                                            A natomy of Frog Visual A pparatus
+visual image in terms of local pattern independent of average
+illumination. We describe the patterns and show the functional and
+                                                              The retina of a frog is shown in Fig. l(a). Between
+anatomical separation of the channels. This work has been done on
+the frog, and our interpretation applies only to the frog.  the rods and cones of the retina and the ganglion cells,
+                                                            whose axons form the optic nerve, lies a layer of con-
+                      INTRODUCTION                          necting neurons (bipolars, horizontals, and amacrines).
+Behavior of a Frog                                          In the frog there are about 1 million receptors, 21 to 31
+                                                            million conniecting neurons, and half a million ganglion
+   t FROG hunts on land by vision. He escapes cells [1]. The connections are such that there is a syn-
+        enemies mainly by seeing them. His eyes do not aptic path from a rod or cone to a great many ganglion
+        move, as do ours, to follow prey, attend suspi- cells, and a ganglion cell receives paths from a great
+cious events, or search for things of interest. If his body many thousand receptors. Clearly, such an arrangement
+changes its position with respect to gravity or the whole would not allow for good resolution were the retina
+visual world is rotated about him, then he shows coin- meant to map an image in terms of light intensity point
+pensatory eye movements. These movements enter his by point inito a distribution of excitement in the optic
+hunting and evading habits only, e.g., as he sits on a nerve.
+rocking lily pad. Thus his eyes are actively stabilized.      There is only one layer of ganglion cells in the frog.
+He has no fovea, or region of greatest acuity in vision, These cells are half a million in number (as against one
+upon which he must ceniter a part of the image. He also million rods and cones). The neurons are packed to-
+has only a single visual system, retina to colliculus, not gether tightly in a sheet at the level of the cell bodies.
+a double one such as ours where the retina send& Thbers Their denidrites, which may extend laterally from 50,u to
+not only to colliculus but to the lateral geniculatt; body 500 ,u, interlace widely into what is called the inner plexi-
+which relays to cerebral cortex. Thus, we chose to work forml layer, which is a close-packed neuropil containing
+oni the frog because of the uniformity of his retina, the the terminal arbors of those neurons that lie between re-
+normal lack of eye and head movements except for ceptors and ganglion cells. Thus, the amount of overlap
+those which stabilize the retinal image, and the relative of adjacent ganglioni cells is enormous in respect to
+simplicity of the connection of his eye to his brain1.      what they see. Morphologically, there are several types
+   The frog does not seem to see or, at any rate, is not of these cells that are as distinct ini their dendritic pat-
+conicerned with the detail of stationary parts of the terns as different species of trees, from which we infer
+world around him. He will starve to death surrounided that they work in different ways. The anatomy shown
+by food if it is not moving. His choice of food is deter- in the figures is that found in standard referenices. Fur-
+mined only by size and movement. He will leap to cap- ther discussion of anatomiiical questionis and additioinal
+ture any object the size of an insect or worm, providing original work on themn will appear in a later publicationi.
+
+   * Original manuscript received by the IRE, September 3, 1959.           Physiology as Known up to This Stutdy
+  This work was supported in part by the U. S. Army (Signal Corps),
+the U. S. Air Force (Office of Sci. Res., Air Res. and Dev. Command),
+                                                                              Hartline [21 first used the term receptive field for the
+and the U. S. Navy (Office of Naval Res.); and in part by Bell Tele-       region of retina within which a local change of bright-
+phone Labs., Inc.                                                          ness would cause the ganglion cell he xwas observing to
+    t Res. Lab. of Electronics and Dept. of Biology, Mass. Inst. Tech.,
+Cambridge, Mass.                                                           discharge. Such a region is sometimes surrounded by ani
+    $ Res. Lab. of Electronics, Mass. Inst. Tech., Cambridge, Mass.,
+on leave from the University of Chile, Santiago, Chile.
+                                                                           annulus, within which changes of brightness affect the
+    1 Res. Lab. of Electronics, Mass. Inst. Tech., Cambridge, Mass.        cell's response to what is occurring in the receptive field,
+1959                                  Lettvin, et al.: What the Frog's Eye Tells the Frog's Brain                                             1941
+
+              ,)
+
+                                      (a)                                                                    (b)
+
+                                      Tr. Opt. mod.
+
+       S
+                     *       II              i
+                                             l        Ur. sIb. ma.   Sty. at. ent
+                         _        _          ,             ,
+
+                                      (c)                                                                     (d)
+Fig. 1-(a) This is a diagram of the frog retina done by Ramon y Cajal over 50 years ago [9]. The rods and cones are the group of elements in
+    the upper left quarter of the picture. To their bushy bottom ends are connected the bipolar cells of the intermediate layer, for example, f, g,
+    and h. Lateral connecting neurons, called horizontal and amacrine cells, also occur in this layer, for example, i, j and m. The bipolars send
+    their axons down to arborize in the inner plexiform layer, roughly the region bounded by cell m above and the bodies of the ganglion cells,
+    o, p and q, below. In this sketch, Ramon has the axons of the bipolar cells emitting bushes at all levels in the plexiform layer; in fact, malny
+    of them branch at only one or two levels.
+        Compare the dendrites of the different ganglion cells. Not only do they spread out at different levels in the plexiform layer, but the pat-
+    terns of branching are different. Other ganglion cells, not shown here, have multiple arbors spreading out like a plane tree at two or three
+    levels. If the terminals of the bipolar cells are systematically arranged in depth, making a laminar operational map of the rods and cones
+    in terms of very local contrast, color, ON, OFF, etc., then the different shapes of the ganglion cells would correspond to different combina-
+    tions of the local operations done by the bipolars. Thus would arise the more complex operations of the ganglion cells as described in the
+    text. (b) This is Ramon y Cajal's diagram of the total decussation or crossing of the optic nerve fibers in the frog [9]. He made this picture
+    to explain the value of the crossing as preserving continuity in the map of the visual world. 0 is the optic nerve and C is the superior collicu-
+    lus or optic tectum (the names are synonymous). (c) This is Ariens-Kapper's picture of the cross section of the brain of a frog through the
+    collicUIus, which is the upper or dorsal part above the enclosed space. (d) This is Pedro Ramon Cajal's diagram of the nervous organization
+    of the tectum of a frog. The terminal bushes of the optic nerve fibers are labelled a, b, and c. A, B, C, D and E are tectal cells receiving from
+    the optic nerve fibers. Note that the axons of these cells come off the dendrites in stratum 7, which we call the palisade layer. The endings
+   discussed in this paper lie between the surface and that stratum.
+1942                                      PROCEEDINGS OF THE IRE                                                        NVovember
+
+although the cell does not discharge to any event oc-         shows (with a delay) where brightenini,g hias occurred.
+curring in the annulus alonie. Like Kuffler [4], we con-      To an unchanging visual pattern, the n-erve ought to
+sider the receptive field and its interacting annulus as a    become fairly silent after a while.
+single entity, with apologies to Dr. Hartline for the            Consider the retinal image as it appears in each ol the
+slight change in meaning. Hartline found three sorts of       three distributed channels. For both the OFF anid ON
+receptive field in the frog: ON, ON-OFF, and OFF. If          chainnels, we can treat the operation on the image by
+a small spot of light suddenly appears in the receptive       supposing that every point on the retina gives rise to a
+field of an ON-cell, the discharge soon begins, inicreases    blur about the size of a receptive field. Theni the OFF
+in rate to some limit determined by the intensity and         chaninel tells, with a long decay time, where the blurred
+area of the spot, and thereafter slowly declinies. Turniing   image is darkened, and the ON channel tells with a de-
+off the spot abolishes the discharge.                         lay and long decay where it is brightened. The third
+   lf the small spot of light suddenly appears or disap-      channel, ON-OFF, prinicipally registers imioving edges.
+pears within the field of an ON-OFF cell, the discharge       Having the mental picture of anl image as it appears
+is short anid occurs in both cases.                           through the three kinds of channel, we are still faced
+   If the spot of light disappears from the field of an       with the question of how the aniimal abstracts what is
+OFF cell, the discharge begins immediately, decreases         useful to him from his surroundings. At this poinlt, a
+slowly in frequency, and lasts a long time. It can be         safe position would be that a fair amounit of data re-
+abolished promptly by turning the spot of light on again.     duction has in fact beeni accomplished by the retinla anid
+   For all three sorts of field, sensitivity is greatest at   that the interpretation is the work of the braini, a yet-
+the center of each field and least at the periphery.          to-be unravelled mystery. Yet the niagging worries re-
+   Barlow [3] extended Hartline's observations. He ob-        main: why are there two complemlenitary projectionis of
+served that the OFF cells have an adding receptive            equally poor resolution? Why is the mosaic of receptors
+field, i.e., the response occurs always to OFF at both        so uselessly fine?
+center and periphery of that field, and that the effect
+of removinig light from the periphery adds to the effect      Initial A rgument
+of a reduction of light at the center, with a weight de-         The assumption has always been that the eye mainly
+creasing with distance.                                       senses light, whose local distribution is transmitted to
+   The ON-OFF cells, however, have differencing re-           the brain in a kind of copy by a mosaic of impulses.
+ceptive fields. A discharge of several spikes to the ap-      Suppose we held otherwise, that the nervous apparatus
+pearance of light in the center is much diminished if a       in the eye is itself devoted to detecting certain patterns
+light is turned on in the extreme periphery. The same         of light and their changes, corresponiding to particular
+interaction occurs when these lights are removed. Thus,       relations in the visible world. If this should be the case,
+ani ON-OFF cell seems to be measuring inequality of il-       the laws found by using small spots of light on the retina
+lumination within its receptive field. (Kuffler [4] at the    may be true and yet, in a sense, be misleadinig. Consider,
+same time showed a similar mutual antagonism be-              for example, a bright spot appearing in a receptive
+tween ceniter and periphery in each receptive field of        field. Its actual and sensible properties include niot
+ganglion cells in the eye of a cat, and later Barlow,         only inten-sity, but the shape of its edge, its size, curva-
+Kuffler and Fitzhugh [5] showed that the size of the          ture, contrast, etc.
+cat's receptive fields varied with general illumination.)        We decided then how we ought to work. First, we
+Barlow saw that ON-OFF cells were profoundly sensi-           should find a way of recording from single myeliniated
+tive to movement withini the receptive field. The ON          an-d untmyelinated fibers in the intact optic nerve. Sec-
+cells have niot been characterized by similar methods.        ond, we should present the frog with as wide a ranige of
+   These findings of Hartlinie and Barlow establish that      visible stimuli as we could, not only spots of light but
+optic nierve fibers (the axons of the ganglion cells) do      things he would be disposed to eat, other thinigs fromii
+nlot tranismit information only about light intensity at      which he would flee, sundry geometrical figures, sta-
+single poinlts in the retina. Rather, each fiber measures     tionary and moving about, etc. From the variety of
+a certain feature of the whole distribution of light in an    stimuli we should then try to discover what commonilioi
+area of the receptive field. There are three sorts of func-   features were abstracted by whatever groups of fibers
+tion, or areal operation, according to these authors, so      we could find in the optic nierve. Third, we should seek
+that the optic nierve looks at the image on the retina        the anatomical basis for the grouping.'
+through three distributed channels. In any one channel,
+the overlap of individual receptive fields is very great.           This program had started once before in our laboratory with A.
+Thus one is led to the notion that what comes to the          Andrew [61, 171 of Glasgow who unfortunately had to return to Scot-
+                                                              land before the work got well under way. However, he had reported
+brain of a frog is this: for any visual event, the OFF        in 1957 that he found elements in the colliculus of the frog that were
+channel tells how much dimming of light has occurred          sensitive to movement of a spot of light (a dot on an oscilloscope
+                                                              screen) even when the intensity of the spot was so low that turning it
+and where; the ON-OFF channel tells where the bound-          on and off produced no response. In particular, the elements he ob-
+aries of lighted areas are moving, or where local in-         served showed firing upon movement away from the centers of their
+                                                              receptive fields, but not to centripetal movements. As will appear
+equalities of illuminationi are forming; the ON channel       later, this sort of response is a natural property of OFF fibers.
+195.9                        Lettvin, et al.: What the Frog's Eye Tells the Frog's Brain                             1943
+                    (ACTUAL) METHODS                          a rectangle 300 long and 12° wide. However, in the
+   Using a variant of Dowben and Rose's platinum              textual report, we use a variety of other objects. As an
+                                                              indicator for the stimulus, we first used a phototube
+black-tipped electrode described in another paper of          looking at an image of the hemisphere taken through a
+this issue, we then began a systematic study of fibers        camera lens and focussed on the plane of a diaphragm.
+in the optic nerve. One of the authors (H. R. M.) had         (Later we used a photomultiplier, so connected as to
+completed the electron microscopy of optic nerve in           give us a logarithmic response over about 4 decades.)
+frogs [8], and with his findings we were able to under-       Thus we could vary how much of the hemisphere was
+stand quickly why certain kinds of record occurred.           seen by the stimulus detector and match that area in
+He had found that the optic nerve of a frog contains          position and size against the receptive field of the fiber
+about half a million fibers (ten times the earlier esti-      we were studying. The output of this arrangemeint is
+mates by light microscopy). There are 30 times as many        the stimulus line in the figures.
+unmyelinated axons as myelinated, and both kinids
+are uniformly distributed throughout the nerve. The                                   FINDINGS
+axons lie in small densely packed bundles of five to             There are four separate operations on the image in
+100 fibers with about 100 A between axons, each bundle        the frog's eye. Each has its result tranismitted by a par-
+surrounded by one or more glial cells [8]. But along the      ticular group of fibers, uniformly distributed across the
+nerve no bundle maintains its identity long, for the          retina, and they are all nearly independent of the gen-
+component fibers so braid between bundles that no two         eral illumination. The operations are: 1) sustained con-
+fibers stay adjacent. Thus the place a fiber crosses one      trast detection; 2) net convexity detection; 3) moving edge
+section of the nerve bears little relation to its origin in   detection; and 4) net dimming detection. The first two are
+the retina anid little relation to where it crosses another   reported by unmyelinated fibers, the last two by my-
+section some distance away.                                   eliinated fibers. Since we are now dealing with events
+   Fibers are so densely packed that one might suppose        rather than poinlt excitations as stimuli, receptive fields
+such braiding necessary to prevent serious interactions.      canl only be defined approximately, and one cannot nec-
+On the other hand, the density makes the recording            essarily distinguish concentric subdivisions. The fibers
+easier. A glial wall surrounds groups rather than single      reportinlg the different operations differ systematically
+fibers, and penetration of the wall brings the tip among      not only in fiber diameter (or conduction velocity) but
+really bare axons each surrounded by neighbors whose          also in rough size of receptive field, which ranges from
+effect is to increase the externial impedance to its action   about 2° diameter for the first operationi, to about 150
+currents, augmenting the external potential in propor-        for the last. The following description of these groups is
+tion. Thus, while we prefer to use platinum black tips        definite.
+to improve the ratio of signal to noise, we recorded
+much the same population with ordinary sharp micro-           1) Sustained Contrast Detectors
+electrodes of bright Pt or Ag. The method records                An unmyelinated axon of this group does not respond
+equally well from unmyelinated and myelinated fibers.         when the general illumination is turned on or off. If the
+   We used Rana pipiens in these experiments. We opened       sharp edge of an object either lighter or darker than the
+a small flap of bone either just behind the eye to expose
+the optic nerve, or over the brain to expose the superior     background moves into its field and stops, it discharges
+                                                              promptly and continues discharging, no matter what
+colliculus. No further surgery was done except to open        the shape of the edge or whether the object is smaller or
+the membranes of connective tissue overlying the nerv-        larger than the receptive field. The sustained discharge
+ous structure. The frog was held in extension to a cork       can be interrupted (or greatly reduced) in these axons
+platform and covered with moist cloth. An animal in           by switching all light off. When the light is then restored,
+such a position, having most of his body surface in           the sustained discharge begins again after a pause.
+physical contact with something, goes into a still re-        Indeed the response to turning on a distribution of light
+action-i.e., he will not even attempt to move save to         furnished with sharp contrast within the field is exactly
+ pain, and except for the quick small incision of the skin    that reported by Hartline for his ON fibers. In some
+at the start of the operation our procedure seems to be       fibers of this group, a contrast previously within the
+painless to him. With the animal mounted, we confront         field is "remembered" after the light is turned off, for
+his eye with an aluminum hemisphere, 20 mils thick            they will keep up a low mutter of activity that is not
+and 14 inches in diameter, silvered to a matte grey           present if no contrast was there before. That this is not
+finish on the inner surface and held concentric to the        an extraordinary sensitivity of such an element in al-
+eye. On the inner surface of this hemisphere, various         most complete darkness can be shown by importing a
+objects attached to small magnets can be moved about          contrast into its receptive field after darkening in the
+by a large magnet moved by hand on the outer surface.         absence of contrast. No mutter occurs then. This mem-
+On our hemisphere, 10 is slightly less than an eighth of      ory lasts for at least a minute of darkness in some units.
+an inch long. In the tests illustrated, we use as stimu-         In Fig. 2 we see the response of such a fiber in the op-
+lating objects a dull black disk almost 1° in diameter and    tic nerve. We compare these responses with full illumi-
+ 1944                                                 PROCEEDINGS OF THE IRE                                                             November
+
+                                                      (a)                              (b)
+
+                                                                             (I
+                                                                       11             .46v-
+
+                                                                            (C)
+
+                               ;.li--
+                                   i--
+                                                        I_ii                       -A I              L
+                                                                                                                 -m   mmi m m
+
+                                               (d)                                                   (e)
+
+                                 (f)                                   (g)                                      (h)
+
+                                          .           _~~~~~~~~~~AA
+
+                                                (i)                                            (i)
+Fig. 2-Operation 1)-contrast detectors. The records were all taken directly with a Polaroid camera. The spikes are clipped at the lower enid
+    just above the noise and brightened on the screen. Occasional spikes have been intensified by hand for purposes of reproduction. The resolu-
+    tion is not good but we think that the responses are not ambiguous. Our alternate recording method is by means of a device which displays
+    the logarithm of pulse interval of signals through a pulse height pick-off. However, such records would take too much explanation anld
+    would not add much to the substance of the present paper. (a) This record is from a single fiber in the optic nerve. The base line is the ouit-
+    put of a photocell watching a somewhat larger area than the receptive field of the fiber. Darkening is given by downward deflection. l he
+    response is seen with the nioise clipped off. The fiber discharge to movement of the edge of a 30 black disk passed in one direction but not to
+    the reverse movement. (Time marks, 20 per second.) (b) The same fiber shown here giving a continued response when the edge stops in the
+    field. The response disappears if the illumination is turned off and reappears when it is turned on. Below is shown again the asymmetry of
+    the response to a faster movement. (Time marks, 20 per second.) (c) The same fiber is stimulated here to show asymmetrical responise to
+    the 30 black object moved in one direction, then the reverse and the stimuli are repeated under a little less than a 3-decade change of il-
+    lumination in two steps. The bottom record is in extremely dim light, the top in very bright light. (Time marks, 20 per second.) (d) In the
+    bottom line, a group of endings from such fibers is shown recorded from the first layer in the tectum. A black disk 10 in diameter is moved
+    first through the field and then into the field and stopped. In the top line, the receptive field is watched by a photomultiplier (see text) anld
+    darkening is given by upward deflection. (Time marks, 5 per second for all tectal records.) (e) OFF and ON of general illumination has lno
+    effect on these fibers. (f) A 30 black disk is moved into the field and stopped. The response continues until the lights are turned OFF blut
+    reappears when the lights are turned ON. These fibers are nonerasable. (g) A very large black square is moved into the field and stopped.
+    The response to the edge continues so long as the edge is in the field. (h) The 3° disk is again moved into the field and stopped. When it
+    leaves, there is a slight after-discharge. (i) A 1° object is moved into the field, stopped, the light is then turned off, then on, and the re-
+    sponse comes back. The light is, however, a little less than 300 X dimmer than in the next frame. Full ON and OFF are given in the rectani-
+    gular calibration on the right. (j) The same procedure as in Fig. 2(i) is done under very bright light. The return of response after reini-
+    troducing the light seems more prolonged-but this is due only to the fact that, in Fig. 2(i), the edge was not stopped in optimal positioi.
+19.59                        Lettvin, et al.: Wi7hat the Frog's Eye Tells the Frog's Brain                           1945
+
+nation (a 60-watt bulb and reflector mounted a foot          moved as a whole produce less direct response to move-
+away from the plane of the opening of the hemisphere)        ment and much less sustained response on stopping than
+to those with less than 1/300 as much light (we put a        if the spots are coalesced to a single larger spot.
+variable resistance in series with the bulb so that the         A delightful exhibit uses a large color photograph of
+color changed also). We are struck by the smallness of       the natural habitat of a frog from a frog's eye view,
+the resulting change. In very dim light where we can         flowers and grass. We can move this photograph through
+barely see the stimulating object ourselves, we still get    the receptive field of such a fiber, waving it around at a
+very much the same response.                                 7-inch distance: there is no response. If we perch with a
+                                                             magnet a fly-sized object 10 large on the part of the pic-
+2) Net Convexity Detectors                                   ture seen by the receptive field and move only the ob-
+   These fibers form the other subdivision of the unmy-      ject we get an excellent response. If the object is fixed to
+elinated population, and require a number of conditions      the picture in about the same place and the whole moved
+to specify when they will respond. To our minds, this        about, then there is none.
+group contains the most remarkable elements in the               Finally, the response does not depend on how much
+optic nerve.                                                 darker the object is than its background, so long as it is
+   Such a fiber does not respond to change in general        distinguishably so anid has a clear-cut edge. If a disk has
+illumination. It does responid to a small object (30 or      a very dark center and merges gradually into the grey
+less) passed through the field; the response does not        of the background at the boundary, the response to it is
+outlast the passage. It continues responding for a lonig     very much less than to a uniform grey disk only slightly
+time if the object is imported and left in the field, but    darker than the background. Objects lighter than the
+the discharge is permanently turned off (erased) by a        background produce almost no response unless they
+transient general darkness lasting 1/10 second or            have enough relief to cast a slight shadow at the edge.
+loniger. We have not tried shorter obscurations.                 All the responses we have mentioned are relatively
+   The fiber will not respond to the straight edge of a      independent of illumination, and Fig. 3 takeen as de-
+dark object moving through its receptive field or brought    scribed in the caption shows the reactions to a 30 object
+there and stopped. If the field is about 71 in diameter,     and the large rectangle under some of the conditions
+then, if we move a dark square 80 on the side through        described.
+it with the edge in advance there is  no  response, but if
+the corner is in advance then there is a good one. Usu-      General Comments on Groups 1) and 2)
+ally a fiber will respond indefinitely only to objects          The two sorts of detectors mentioned seem to include
+which have moved into the field and then lie wholly or       all the unmyelinated fibers, with conduction velocities
+almost wholly interior to the receptive field. The dis-      of 20 to 50 cm. The two groups are not entirely distinict.
+charge is greater the greater the convexity, or positive     There are transition cases. On one hand, some conivexity
+curvature, of the boundary of the dark object until the      detectors respond well to very slightly curved edges,
+object becomes as small as about 2 the width of the re-      even so far as to show an occasional sustained response
+ceptive field. At this point, we get the largest response    if that edge is left in the field. They may also not be comii-
+on moving across that field, and a good, sustained re-       pletely erasable (though very markedly affected by atn
+sponse oni entering it and stopping. As one uses smaller     interruption of light) for small objects. Oni the other
+atnd smaller objects, the response to moving across the      hand, others of the same group will be difficult to set
+field begins to diminish at a size of about 10, although     into an indefinitely sustained response with any object,
+the sustained response to coming in and stoppinig re-        but only show a fairly long discharge, acting thereby
+mains. In this way we find the smallest object to which      more as detectors of edges although never reacting to
+these fibers respond is less than 3 minutes of arc. A        straight edges. Nevertheless the distribution of the un-
+smooth motion across the receptive field has less effect     myelinated axons into two groups is very marked. AIny
+ than a jerky one, if the jerks recur at intervals longer    fiber of either group may show a directionial responise-
+ than 1 second. A displacement barely visible to the ex-     i.e., there will be a direction of movement that may fail
+ perimenter produces a marked increase in response           to excite the cell. For the contrast fibers, this will also
+ which dies down slowly.                                     appear as a nonexciting angle of the boundary with
+    Any checked or dotted pattern (in the latter case,       respect to the axis of the frog. Such null directionis and
+ with dots no further apart than half the width of the re-   angles cancel out in the aggregate.
+ceptive field) moved as a whole across the receptive field
+produces little if any response. However, if any dot         3) Moving-Edge Detectors
+ withini the receptive field moves differentially with re-      These fibers are myelinated and conduct at a velocity
+spect to the background pattern, the response is to that     in the neighborhood of 2 meters per second. They are
+dot as if it were moving alone. A group of two or three      the same as Hartline's and Barlow's ON-OFF units.
+distiiict spots enclosed within the receptive field and      The receptive field is about 12° wide. Such a fiber re-
+1946                                                PROCEEDINGS OF THE IRE                                                             November
+
+                                     r,
+                                                                              lingii-                       ~(h
+                                                                   'k
+                                                   (a)                                           (b)
+
+                                                                              .   A                     _
+
+                                    | *Ai                                         -.Mmd.        -MiIIIII.,li
+                                                                                                    -             T   I
+
+                                                   (c)                                           (d)
+
+                                0
+                                                                              t
+
+                                                               i
+                                                                                                                      t
+
+                                                 (e)                                             (f)
+                                                                                           ~~~~~( f )
+                                          ~~A~I4         a*.
+
+                                                    (g)                                         (h)
+Fig. 3-Operation 2)-convexity detectors. The photomultiplier is used, and darkening is an upward deflection. (a) These records are all fromn
+    the second layer of endings in the tectum. In the first picture, a 10 black disk is imported into the receptive field and left there. (b) The
+    saiime event occurs as in Fig. 3(a), but now the light is tturned off then on again. The response is much diminished and in the longer record
+    v.taiishes. These fibers are erasable. (c) The 10 disk, is passed through the field first somewhat rapidly, then slowly, then rapidly. The light
+    is xvery bright. (d) The same procedure occurs as in Fig. 3(c), but now the light has been dimmed about 300X. The vertical line shows
+    the range of the photomultiplier which has been adjusted for about 3' decades of logarithmic response. (e) A 1° black disk is passed
+    through the field at three speeds. (f) A 150 black strip is passed through at two speeds edge leading. (g) A 15° black strip is passed throlugh
+    in various ways with corner leading. (h) The same strip as in Fig. 3(g) is passed throtugh, edge leading.
+
+sponids to any distinguishable edge moving through its                     clocked at 10 meters per second.2 One such fiber re-
+receptive field, whether black against white or the other                  sponids to sudden reduction of illum-iination by a pro-
+way around. Chaniging the extent of the edge makes                         longed anid regular discharge. Indeed, the rhythm is so
+little difference over a wide range, changing its speed a                  much the same fromi fiber to fiber that in recording from]
+great one. It responds to anl edge oiily if that edge                      several at onice after sudden darkening, the impulses as-
+moves, not otherwise. If an object wider thani about 50                    semlble in groups, which break up onily after many sec-
+moves smnoothly across the field, there are separate re-                   onds. Eveni then the activity from widely separated
+sponses to the leading and trailinig edges, as would be ex-                retinal areas seems to be related. We observe that the
+pected from Barlow's formulation. These fibers geni-                       surface potential of the colliculus shows a violeint and(I
+erally show two or three regularly spaced spikes, always                   proloiiged oscillation when the light is turned off. This
+synlchronous amiiong different fibers to turning the light                 oscillation, beginninig at about 18 per second aiid breakl-
+oni or off or both. The response to mnoving objects is                     ing into 3 to 5 per secon(l aIfter several seconds, seemiis to
+imtich greater than to changes in total illumination and                   arise from these fibers fromii the retina; the samne reco-d
+varies only slightly with general illumination over a                      is seen when the optic nerve is severed and the record-
+range of 1/300. The frequency of the discharge increases                   ing electrode placed on the retinial stumiip. See Fig. 5.
+with the velocity of the object withini certaini limits (see                  The receptive field is rather large about 15 -and
+Fig. 4).                                                                   works as Barlow describes. Darkeniing of a spot pro-
+                                                                           duces less responise wheni it is in the periphery of hlle
+4) Net Dimming Detectors                                                   field than when it is at the center. The effect of a milov-
+   These are Hartline's and Barlow's OFF fibers. But
+                                                              The even faster fibers, with velocities up to 20 mieters per secoiid,
+tlhey have some properties not observed before. They we 2presenitly    believe to be the efferents to the retina, but althouigh
+are imiyeliiiated anid the fastest conducting afferents, there is some evidence for this, we are not yet qtuite certaiui.
+1959                               Lettvin, et al.: What the Frog's Eye Tells the Frog's Brain                                              1947
+
+                                                       (a
+
+                                                       (a)                          (b)
+
+                                 --I I            I                                  __I
+                                                                                      I                    L
+
+                                                             6,-
+
+                                                 (c)                                           (d)
+
+                                                                                    _   .bL
+
+                                                 ()
+                                                 (e)                                           (f)
+
+                                                 (g)                                           (h)
+Fig. 4-Operation 3)-moving-edge detectors. The first two pictures are taken from a single fiber in the optic nerve. (a) Shows a 7° black
+    disk moving through the receptive field (the photocell was not in registration with the field). There is a response to the front and back
+    of the disk independent of illumination. There is about a 300,/1 shift of illumination between top and bottom of the record. Darkening is a
+    downward deflection with the photocell record. (Time marks, 5 per second.) (b) OFF and ON of general lighting. (Timie marks, 50 per
+    second.) Note double responses and spacing. (c) This and succeeding records are in the third layer of endings in the tectlum. Several endings
+    are recorded but not resolved. Darkening is an upward deflection of the photomultiplier record. The responise is shown to the edge of a 150
+    square moved into and out of the field by jerks in bright light. (d) The same procedure occurs as in Fig. 4(c), but in dim light. Calibra-
+    tion figure is at the right. (e) The response is shown to a 7° black disk passed through the receptive fields under bright light. The sweep is
+    faster, btut the time marks are the same. (f) The same procedure as for Fig. 4(e), but under dim light. The OFF and ON of the photo-
+    multiplier record was superimposed for calibration. (g) OFF and ON response with about half a second between ON and OFF. (h) Same as
+   Fig. 4(g), but with 2 seconds between OFF and ON.
+
+ing object is directly related to its size and relative dark-             terrupt the response gets less and less the longer onie
+ness. The response is prolonged if a large dark object                    waits. That is, the sensitivity of the OFF discharge to
+stops within the field. It is almost independent of il-                   the ON of light increases with time. If we darkein the
+lumination, actually increasing as the light gets dim-                    general lighting onlv by a factor of 100, we also get a
+mer. There is a kind of erasure that is complementary                     proloniged discharge. However, if we turn off the light
+to that of group 2). If the general lighting is sharply                   completely a few seconds after the 100/1 dimming and
+dimmed, but not turned off entirely, the consequent                       then turn it back on to the same dim level, the dis-
+prolonged response is diminished or abolished after a                     charge is increased by the second dimmintg and is com-
+dark object passes through the receptive field. In this                   pletely or almost completely abolished by the relight-
+case, the reasotns for erasure are apparent. Suppose one                  ing. The effect of moving a dark object through the field
+turns off the light and sets up a prolonged response.                     after dimming is to impose a second dimming pulse fol-
+Then the amounit of light which must be restored to in-                   lowed by brightening as the object passes.
+1948                                                    PROCEEDINGS OF THE IRE                                                                                      November
+
+                                                         (a)                                                                                  (b)
+
+                                                                                                                                -               r
+                                                                                                           ,
+                                                                                                                'I-
+                                                                                                               q-       -       -   T
+
+                                                        (c)                                                                                   (d)
+                                            I,;   1- 11.11
+
+                                                                                                                            I
+                                                             k
+                                                                  i   I
+                                                                                   priiii
+                                                                                                                                    -.L   ,
+                                                                                                                                                    . Ili I, bIL,
+                                                                          --
+                                      -lI-i--                    --
+                                      I
+                                                                                                       I                                               W
+
+                                                       (e)                                                                                    (f)
+                                                     "LiLl. I it, diall I i I ui   .,LI I" I, II Li ..L-       I.   A       JL L.
+                                                                                                    --
+                                                                                                           77--, 7--T, -'I T- --y- .
+
+                                                                                            (g)
+Fig. 5-Operation 4)-dimming detectors. (a) This and the next framne are taken from a single fiber in the optic ilerve. Here we see the
+    response to a 7° black disk passing through the receptive field. The three records are taken at three illuminatioll levels over a 300:1 range.
+    In the phototube record, darkening is a downward deflection. (Time marks, 5 per second.) (b) OFF and ON of light. The OFF was dolne
+    shortly after one sweep began, the ON occurred a little earlier on the next sweep. The fiber is silenced completely by the ON. (Time
+    marks, 5 per second.) (c) In this and the next three frames, we are recording from the fourth layer of endings in the tectum. This frame
+    shows the response to turning OFF the general illumination. (d) OFF and ON of light at regular intervals. (e) OFF then ON of the light
+    to a lesser brightness. (f) OFF then ON of the light to a still lesser brightness. The level to which the ON must come to abolish activity
+    decreases steadily with time. (g) The synchrony of the dimming detectors as described in the text. At the top are three or four fibers
+    recorded together in the optic nerve when the light is suddenly turned off. The fibers come from diverse areas on the retina. In the second
+    line are the oscillations recorded from the freshly cut retinal stunip of the optic nerve when the light is. suddenly turned off. In the third
+    line are the oscillations recorded on the surface of the tectum, the visual brain, before the nerve was cut. Again the light is suddenly
+    turned off. The last line is 20 cps. These records of synchrony were obviously not all made at the same time, so that comparing them in
+    detail is niot profitable.
+
+Others                                                           Suppose that an- object is miioved about in this coni-
+  Lastly, there is a small group of afferent fibers which        centric array:
+does not seem to have distinct receptive fields. They                1) The contrast detector tells, in the smiiallest area of
+each measure the absolute degree of darkness over a              all, of the presence of a sharp boundary, Imlovinlg or still,
+wide area with a long time constant. That is, the fre-           with much or little contrast.
+quency of discharge is greater the darker it is. They               2) The convexity detector iniformis us in a somnewhat
+have a complement in that somiie of the moving edge de-          larger area whether or not the object lhas a curved
+tectors have a resting discharge of very low frequenlcy if       bounidary, if it is darker than the backgrounid anid mlov-
+the illumination is extremely bright.                            inig oIn it; it remlemiibers the object whein it has stopped,
+                                                                 providing the boundary lies totally withini that area and
+                         DISCUSSION                              is sharp; it shows most activity if the eniclosed object
+   Let compress
+       us            all  of these findings the
+                                              in      following  moves intermittently with respect to a backgroun-d. The
+description.  Conisider  that we  have  four  fibers, one from   imiemiiory of the object is abolished if a shadoxv obscLnres
+each group,  which  are  conicentric in their receptive  fields. the   object for a moment.
+1959                          Lettvin, et al.: What the Frog's Eye Tells the Frog's Brain                             1949
+   3) The moving-edge detector tells whether or not             diameter. If the active elements in the upper layers are
+there is a moving boundary in a yet larger area within          cells (one will see about 20 to 30 active elemenits in one
+the field.                                                      electrode track before reaching the cell layer), which
+   4) The dimming detector tells us how much dimming            cells can they be? Or if they are dendrites, to what
+occurs in the largest area, weighted by distance from           neurons do they belong? We regard these considera-
+the center and by how fast it happens.                          tions as conclusive enough.
+   All of the operations are independent of general illu-          Figs. 2-5 show that the four operational groups of
+mination. There are 30 times as many of the first two de-       fibers terminate in four separate layers of terminals,
+tectors as of the last two, and the sensitivity to sharp-       each layer exhibiting a continuous map of the retina
+ness of edge or increments of movement in the first two         (we confirm Gaze's diagram of the projection [10]) and
+is also higher than in the last two.                            all four maps are in registration. Most superficial lie the
+                                                                endings for the contrast detectors, the slowest fibers.
+                  RESULTS IN THE TECTUM                         Beneath them, but not so distinctly separate, are the
+   As remarked earlier, the optic nerve fibers are all dis-     convexity detectors. Deeper, and rather well separated,
+ordered in position through the nerve. That is, the prob-       are the moving-edge detectors admixed with the rare
+ability that any two adjacent fibers look at the same           and ill-defined axons that measure the actual level of
+region in the retina is very small. However, when the           darkness. Deepest (and occasionally contaminated with
+fibers terminate in the superior colliculus they do so in       tectal cells or their axons) lie the dimming detectors.
+an orderly way such that the termini exhibit a continu-         Thus the depth at which these fibers end is directly re-
+ous map of the retina. Each optic nerve crosses the base        lated to their speed of conduction.
+of the skull and enters the opposite tectum [Fig. 1(b)]             Such an arrangement makes experiment easy, for all
+via two bundles-one rostromedial, the other caudalat-            the fibers of one operation performed on the same field
+eral. The fibers sweep out over the tectum in the super-        in the retina end in one place in the tectum and can be
+ficial neuropil in what grossly appears to be a laminated        recorded as a group. It is very useful to see them this
+way [Fig. 1 (c) ]. The detail of ending is not known, and        way, for then the individual variations among similar
+there is some reason to think Pedro Ramon's drawing              unlits cancel one another and only the common proper-
+ [9] is too diagrammatic [Fig. 1(d) ], hcwever well it fits      ties remain. We made the tectal records shown in the
+with our data.                                                   accompanying figures with a single electrode in two
+    In any case, the outer husk of neuropil, roughly about       penetrations (to get decent separation of contrast and
+half the thickness of the optic tectum, is formed of             convexity detectors which lie just below the pia), to
+the endings of the optic fibers mixed with dendrites of          show how clear-cut the arrangement is.
+the deeper lying cells, and in this felting lie few cell
+bodies.                                                                   CONFIRMATION OF SPERRY'S PROPOSAL
+    We have found it singularly easy to record from these          The existence of a fourfold map of the retina in the
+terminal bushes of the optic fibers. That is, if an elec-       tectal neuropil led us, naturally, to repeat Sperry's
+trode is introduced in the middle of one bush, the exter-       initial experiment on the regeneration of cut optic nerve
+nal potential produced by action currents in any                [11]. Since the nerve is as scrambled as it can be orig-
+branch increases in proportion to the number of                 inally, we saw no point in turning the eye around 1800
+bralnches niear the electrode. Since the bushes are             but simply cut one nerve in a few frogs, separated the
+densely initerdigitated everywhere, it is not difficult to      stumps to be sure of complete severance, an-d waited
+ record from terminlal arbors anywhere unless one kills         for about 3 months. At the end of this time, after it was
+or blocks them locally, as is easily done by pressure, etc.     clear that the cut nerves were functioning again, we
+    Onie may inquire how we can be sure of recording from       compared the tectal maps of the cut and unlcut nierves
+ terminial arbors, and not from cells and their dendrites.      in some of them. We confirmed (as did Gaze [12])
+ Thle argunment is this. First, there are about four layers     Sperry's proposal that the fibers grew back to the re-
+of cells in the depths of the tectum [Fig. 1(d) ], and only     gions where they originally terminated in mapping the
+ their denidrites issue into the superficial neuropil wherein   retina [13]. But we also found a restoration of the four
+ lie very few cells indeed. There are about 250,000 of          layers with no error or mixing. Ill one frog, after 90 days,
+ these cells in all, compared to 500,000 optic fibers. In       the fibers had grown back best at the enitrance of the two
+ the outer thickniess of the tectum, among the terminiat-       brachia to the colliculus, and least at the ceniter, yet
+ ing fibers, almost every elemenit we record performns onie     there were no serious errors. The total area of retinia
+ of the four operations characterizing the fibers in the        comnmunicatiing with one point of the collicular nieuropil
+ nerve, and has a corresponding receptive field. Now as         (i.e., the sum of the receptive fields of the fibers re-
+ the electrode moves down from the surface in one track,        corded from that point) had increased three or four
+ we record 5 to 10 cells in the deepest half of the tectum.     times, from a diameter of about 150 to a dianmeter of
+ Not a sinigle cell so recorded shows activity eveni re-        about 300. But there was no admnixture of fibers with
+ motely resembling what we find in the superficial neuro-       receptive fields in widely separated regionis. In another
+ pil. Amonig the cells, none show optic nerve operations,       frog, after 120 days, the area seeni from one point was
+ and the smcallest receptive fields we find are over 30° in     barely twice normal.
+1950                                        PROCEEDINGS OF1IIE IRE                                                    NYovember
+
+                  GENEI-RAL DIscUSSION                           here. The differeint denidritic distribution of the gan-
+   What are the colnsequenices of this work? Funida-             glion cells, as in Fig. 1(a), may sign-ify that they extract
+mnentally, it shows that the eye speaks to the brain in a        (lifferenitly weighted samiples of simiiple local operations
+language already highly organized and initerpreted, il-          done by the bipolars, anid it is oni this that we are niow
+stead of transsmittinig sonme imore or less accurate copy of     worki n1g.
+the distributioni of light oni the receptors. As a crude             BLut there is aniother reasoni for a reluctanice to niake
+analogy, suppose that we have a man watchinig the                accurate mieasuremienits on the activity of ganiglioni cells
+clouds and reportinig them to a weather stationi. If he is       in the intact animal. A significanit efferent outflow goes
+using a code, an-d onie can see his portion of the sky too,      to the retinia fromii the brain. We nlow know to a certaill
+then it is niot difficult to find out what he is saying. It is   extenit how the cells in the tectumii hanidle the four in-
+certainly true that he is watchin-g a distributioni of light;    ptuts to themii which are described in this paper. There
+nevertheless, local variations of light are not the termiis      aIre at least two distinct classes of these cells, aniid att
+in which he speaks nor the terms in which he is best un-         leatst onie of themii issues axonls back inito the optic nierve.
+(lerstood. Iindeed, if his vocabulary is restricted to types     We have recorded this atctivity there. Such axonis enlter
+of things that he sees in the sky, trying to find his lan-       the retinia Cand we think somiie effects of their atctivity
+guage by using flashes of light as stimuli will certainlly       on1 the senisitivity of gan-gliol1 cells are noticeable.
+fail. Now, sinice the purpose of a frog's vision is to get           TIhe way that the retinia projects to the tectumil sug-
+him food anid allow him to evade predators nlo miatter           gests a ninleteenith cenitury view of visual space. The
+how bright or dimii it is about himii, it is not eniough to      imaiiige oni the retinia, takeni at the grain of the rods anld
+know the reaction of his visual systemn to points of light.      cones, is ani array of regularly spaced points at each ol
+To get useful records from inidividual receptors (the rods       which there is a certaini amiiounit of light of a certaini
+and cones), assumiiing that they operate indepenidenltly         comllpositioni. If we know the positioIn of every poinlt
+and under no reflex control, this stimulus miay be ade-          anid the values of light at every point, we can-l physi-
+quate. But when onie inspects responises that are a few          cally reconistruct the image, anid looking at it unider-
+nervous transformiiations removed fromn the receptors, as        stand the picture. If, however, we are re(luire(I to estab-
+in the optic nerve, that same choice of stimulus is diffi-       lish conitinuities withini the picture onily fromi the iiinulner-
+cult to defend. It is equivalenit to assuminiiig that all of     ical data on position anid light at inidepenidenit poilnts, it
+the interpretation is donie further oni in the niervous          becomiies a very difficult task. The retinia projects oiito
+system. But, as we have seeni, this is lalse.                    the tectum in four parallel sheets of enidinigs, each sheet
+   One might attempt to mneasure numierically how the            mappinig continuously the retina in termls of a palrticLi-
+response of each kind of fiber varies with various prop-         lar areal operation, anid all four maps are in registratiol).
+erties of the successionis of patternis of light which evoke     Conisider the dendrite of a tectal cell extenidinig ul)
+them. But to characterize a succession of patterns in            through the four sheets. It is looking at a point in the
+space requires knowledge of so miianly independenit vari-        image on the retinia, but that point is nlow seen in termiis
+ables that this is hardly possible by experimiienital eniu-      of the properties of its nieighborhood as definied by the
+merationi of cases. To examine the effect of curvature           operationis. Since the overlap of receptive fields withill
+alone we should have to explore at least the response to         any operation is very great, it now seems reasonable to
+all configurations of three spots movinig in a large va-         erect simple criteria for findinig conitinuities. I or ex-
+riety of ways. We would prefer to state the operationis of       amiiple, if an area over which there is little chanige in thle
+ganglion cells as simply as possible in terms of whatever         fourfold signiature of a ilmoving object is bounided by
+quality they seem to detect anid, itnstead, examiinle the         regions of different signature, it seemiis likely that that
+bipolar cells in the retina, expecting to find there a dis-       area describes the image of a single object.
+section of the operationis inito combinations of simllpler           By transforminig the imiiage fromii at space of simple
+ones performed at intermediate stages. For example,               discrete points to a congruent spalce where each equival-
+suppose that there are at least two sorts of rods and             lenit point is described by the initersectioni of particular
+ cones, one increasin-g its voltage with the log of light         (lualities in its nieighborhood, we cani theni give the
+ at one color, the other decreasinig its voltage with the         image in terms of distributionis of combinations of those
+ log of light at somiie other color. If bipolars conniiect to     qualities. In short, every point is seeln inl definiite coni-
+ several conitiguous rods or conies of opposinig reactionis       texts. Trhe character of these conitexts, genietically buLilt
+ and simply add voltages, somiie bipolars will register- a        in, is the physiological synthetic a priori. The ol)era,-
+ large signal onily if an appropriate conitrast occurs. We        tionis found in the frog miakze unilikely later processes in
+ have in fact founid somiiething of the sort occurring, for       his systemll of the sort described by two of Us earlier [15 ],
+ it seems that the innier plexiform layer of the retina is        for example, dilatations; but those were adduced for
+ stratified to display several differenit local properties,       the sort of fornm recogniition which the frog does nlot
+ one layer indicatin-g local differeinces in initenisity of       have. This work is ail outgrowth of that earlier study
+ light. Somiie of Svaetichini's [141 data catn be adduced         xvhich set the questioni.
+1 959                        Lettvin, et al.: What the Frog's Eye Tells the Frog's Brain                                       1951
+                       CONCLUSION                            or still, is in the field. Could one better describe a sys-
+   The output from the retina of the frog is a set of four   tem for detecting an accessible bug?
+distributed operations on the visual mage. These opera-
+tions are independent of the level of general illumina-                         ACKNOWLEDGMENT
+tion and express the image in terms of: 1) local sharp         We are particularly grateful to 0. G. Selfridge whose
+edges and contrast; 2) the curvature of edge of a dark       experiments with mechanical recognizers of pattern
+object; 3) the movement of edges; and 4) the local dim-      helped drive us to this work and whose criticism in part
+mings produced by movement or rapid general darken-          shaped its course.
+ing. Each group of fibers serving one operation maps
+the retina continuously in a single sheet of endings in                                 BIBLIOGRAPHY
+the frog's brain. There are four such sheets in the brain,    [1] H. R. Maturana, "Number of fibers in the optic nerve and the
+corresponding to the four operations, and their maps              number of ganglion cells in the retina of Anurans," Nature, vol.
+are in registration. When all axonal connections be-              183, pp. 1406-1407; May 16, 1959.
+tween eye and brain are broken and the fibers grow            [21 H. K. Hartline, "The response of single optic nerve fibres of the
+                                                                  vertebrate eye to illumination of the retina," Amer. J. Physiol.,
+back, they reconstitute the original retinal maps and             vol. 121, pp. 400-415; February, 1938.
+                                                                  Also, "The receptive fields of the optic nerve fibers," Anmer. J.
+also arrange themselves in depth in the original order            Physiol., vol. 130, pp. 690-699; October, 1940.
+with no mistakes. If there is any randomness in the           [31 H. B. Barlow, "Summation and inhibition in the frog's retilna,"
+                                                                  J. Physiol., vol. 119, pp. 69-88; January, 1953.
+connections of this system it must be at a very fine level    [4] S. W. Kuffler, "Discharge patterns and functional organization
+indeed. In this, we consider that Sperry [11] is com-              of mammalian retina," J. Neurophysiol., vol. 16, pp. 37-68;
+                                                                   January, 1953.
+pletely right.                                                 [5] H. B. Barlow, R. Fitzhugh, and S. WV. Kuffler, "Change of or-
+   We have described each of the operations on the                 ganization in the receptive fields of the cat's retina during dark
+                                                                   adaptation," J. Physiol., vol. 137, pp. 338-354; August, 1957.
+retinal image in terms of what common factors in a             [6] A. M. Andrew, "Report on Frog Colliculus," Res. Lab. of Elec-
+large variety of stimuli cause response and what com-              tronics, Mass. Inst. Tech., Cambridge, Quarterly Progress Rept.,
+                                                                   pp. 77-78; July 15, 1955.
+mon factors have no effect. What, then, does a par-            [7] A. M. Andrew, "Action potentials from the frog colliculus,"
+ticular fiber in the optic nerve measure? We have con-             J. Physiol., vol. 130, p. 25P; September 23-24, 1955.
+sidered it to be how much there is in a stimulus of that       [81 H. R. Maturana, "The Fine Structure of the Optic Nerve and
+                                                                   Tectum of Anurans. An Electron Microscope Study," Ph.D. dis-
+quality which excites the fiber maxin'ally, naming that            sertation, Harvard University, Cambridge, Mass.; 1958.
+quality.                                                       [91 Pedro Ramon Cajal, "Histologie du Systeme Nerveux," Ramon
+                                                                   y Cajal, Maloine, Paris, France; 1909-1911.
+   The operations thus have much more the flavor of          [10] R. M. Gaze, "The representation of the retina on the optic lobe
+                                                                   of the frog," Quart. J. Exper. Physiol., vol. 43, pp. 209-214;
+perception than of sensation if that distinction has any           March, 1958.
+meaning now. That is to say that the language in which       [11] R. Sperry, "Mechanisms of neural maturation," in "Handbook
+                                                                   of Experimental Psychology," S. S. Stevens, Ed., John Wiley
+they are best described is the language of complex ab-             and Sons, Inc., New York, N. Y.; 1951.
+stractions from the visual image. XVe have been tempted,     [121 R. M. Gaze, "Regeneration of the optic nerve in Xenopus laevi,"
+                                                                   J. Physiol., vol. 146, p. 40P; February 20-21, 1959.
+for example, to call the convexity detectors "bug per-       [13] H. R. Maturana, J. Y. Lettvin, W. S. McCulloch, and W. H.
+ceivers." Such a fiber [operation 2] responds best when            Pitts, "Physiological evidence that cut optic nerve fibers in the
+                                                                   frog regenerate to their proper places in the tectum," Science;
+a dark object, smaller than a receptive field, enters that         1959 (in press).
+field, stops, and moves about intermittently thereafter.     [14] G. Svaetichin and E. F. NcNichol Jr., "Retinal mechanisms for
+                                                                   chromatic and achromatic vision," Ann. N. Y. Arad. Sci., vol.
+The response is not affected if the lighting changes or if         74, pp. 385-404; November, 1958.
+the background (say a picture of grass and flowers) is       [15] WV. S. McCulloch and W. H. Pitts, "How we know universals.
+                                                                   The perception of auditory anid visual forms," Bull. MIath. Bio-
+moving, and is not there if only the background, moving            physics, vol. 9, pp. 127-147; June, 1947.
+

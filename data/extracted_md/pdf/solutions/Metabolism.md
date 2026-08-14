@@ -1,0 +1,571 @@
+# J.Mol.Evol.4,359-370 (1975)
+
+**source:** pdf · **section:** solutions
+**file:** Metabolism
+---
+
+© by Springer-Verlag 1975
+
+Speculations on the Origin and Evolution
+of Metabolism
+Hyman Hartman
+Department of Molecular Biology, University of California, Berkeley, Calif.
+
+Received April 26, 1974
+
+Summary. An autotrophic origin of metabolism is described, which requires
+clays, transition state metals, disulfide and dithiols, U.V. and cyanide ion.
+A general scheme is proposed, involving the fixation of CO 2 and N2, for the
+evolution of intermediary metabolism based on the evolution of a complex
+system from a simple one. The basic conclusion is that metabolism could
+have evolved from a simple environment rather than from a complex one.
+
+Key words: Evolution of Metabolism - Autotrophic Origin of Life.
+
+In the speculations on the origin of life, the most difficult conceptual
+problems deal with the complexity of the first organism and the complexity
+of its environment. There are four possibilities: (I) the first organism
+was simple (e.g., RNA) and its environment was complex (heterotrophic
+origin); (2) the organism was simple (e.g., clays) and its environment was
+simple (autotrophic origin); (3) the organism was complex and its environ-
+ment was complex (heterotrophic panspermia); (4) the organism was complex
+and its environment was simple (autotrophic panspermia).
+
+The two panspermias will not be discussed in this paper; however, they can-
+not be ruled out. If the universe did have an origin, the first appearance
+of such organisms must have occurred on some planet, perhaps not the earth,
+and so the problem of the origin of life would be pushed back in time.
+
+The men who first proposed in some detail the heterotrophic origin of life
+were Haldane (1928) and Oparin (1924). Haldane (1928) proposed that, in the
+absence of oxygen, U.V. acting on a mixture of carbon dioxide, ammonia, and
+water would yield a large variety of organic compounds, including amino acids
+and   sugars. These   compounds   would have accumulated in the oceans until
+they reached the consistency of hot dilute soup. The first organisms were
+large molecules synthesized under the influence of sunlight and were capable
+of replication in this rich medium. By mutation and selection the first cell
+arose and then gradually evolved a photosynthetic capacity as the rich
+
+                                                                            359
+medium became used up. Photosynthesis led to the production of oxygen and
+thus accounted for the present level of oxygen in our    atmosphere.
+
+This picture is the dominant view held today. The only modification was made
+by the experiments of Miller (1955), where the atmosphere was methane,
+an~nonia, and hydrogen. The main problem which is left is the appearance of
+a molecule which is capable of self-reproduction. The best guess is that it
+was an RNA molecule (Crick,   1968; Orgel, 1968). This RNA molecule would
+then evolve by mutation and selection until it coupled with proteins by
+means of a primitive genetic code.   The evolution of metabolism, anabolic
+and catabolic, is one of a gradual development of autotrophy from the
+initial heterotrophy, again by a process of mutation and selection as the
+soup became depleted (Horowitz, 1945).
+
+A variant scheme has been proposed by Fox (1965). Thermal polymerization of
+amino   acids led to the formation of microspheres which reproduced by
+budding. Evolution of microspheres led to a coupling with polynucleotides
+and so the first cell was born. The evolution of metabolism would then
+follow a similar course as outlined above.
+
+The alternative hypothesis of an autotrophic origin has received far less
+attention than it deserves. The purpose of this paper is to consider     the
+possibilities which open up if one considers that both the environment and
+the first organism were simple. The proposal made by Cairns-Smith (1965)
+that clays were the first simple organisms would push neo-darwinian evol-
+ution further back into the earth's past. The evolution of the clays would
+occur as soon as the planet had differentiated into crust, mantle, and core.
+In the process of this diffentiation the loss of the primary atmosphere
+(CH4, NH3, H2) occurred and the evolution of a secondary atmosphere
+(C02, N2, H20) began due to the outgassing of the evolving earth. Atmosphere,
+hydrosphere, and lithosphere began their intimate couplings driven by sun
+and radioactivity, resulting in the appearance of the biosphere (clays).
+The process of differentiation were sufficiently destructive so that any
+living system would be destroyed. It, therefore, can be conjectured that
+life began in the secondary atmosphere rather than in the primary one
+(Abelson, 1966).
+
+This model of the secondary atmosphere has led geochemists to come into
+conflict with the present model of biopoiesis. In fact, the hypothesis of
+an early methane-ammonia atmosphere is contraindicated by the earliest
+sedimentary rocks which the geochemists have available (Abelson, 1966).
+
+ 360
+Since    the secondary    atmosphere would be dominated by carbon dioxide and
+nitrogen,     the capacity of this atmosphere         to sustain synthesis      of amino
+acids and other biomonomers        is limited. However,      all models of the primi-
+tive atmosphere     agree on the fact that no oxygen was present.              Therefore,       if
+the synthesis     of biomonomers      was severely    reduced,   it might be possible       to
+accumulate     a thin soup, given long times and no oxygen.           The geochemists
+however,    have come up with a greater objection          to the "myth of the pre-
+biotic soup". As a result of equilibrium calculations               Sillen    (1965) came
+to the conclusion     that "equilibrium conditions         seem to exclude      the for-
+mation of the 'thin soup' in normal          oceanic    conditions,   even under an an-
+oxygenic atmosphere"       (Rutten,    1971). The alternatives      are either the soup
+developed     in unusual circumstances      (e.g.,    lakes or lagoons)      or the primitive
+oceans    cannot be described by an equilibrium model.            The possibility    that
+there was no soup of any complexity must, ~owever,               also be considered.
+
+It is thus at least debatable whether or not the primitive                 atmosphere     and
+hydrosphere    with a random input of energy was able to build up and sustain
+a soup of biomonomers.
+
+If one does not assume a soup, one cannot do better than heed the advice
+of the biochemist,       Szent-Gyorgyi    (1972):    "Life has developed its processes
+gradually,    never rejecting what it has built, but building over what has
+already    taken place. As a result the cell resembles            the site of an
+archeological     excavation with the successive         strata on top of one another,
+the oldest one the deepest.        The older a process,      the more basic a role it
+plays and the stronger it will be anchored,             the newest processes      being
+dispensed with most easily."
+
+This idea was expanded by Bernal          (1960)    into a conceptual      tool for studying
+evolutionary    processes.     The method described how a complex system evolves
+from a simpler system.       "The pattern    ...is one of stages of increasing            inner
+complexity,    following one another in order of time, each one including                  in
+itself structure     and processes      evolved at the lower levels." The system
+thus grows more complex,       like an onion, and it must be possible            to strip
+back the later layers of the onion to expose the simpler earlier stages.
+
+It is, therefore,     useful    to look at the present-day building up of bio-
+monomers by the biosphere,        in other words,      to examine   intermediary    meta-
+bolism.    It was Lipmann(1965)       who suggested that,    in projecting backwards
+on the evolution of biosynthesis,          one should look more attentively         "for
+primitive    evolutionary    stages within    the metabolic      picture   in the hope
+
+                                                                                                 36 1
+to apprehend there surviving metabolic 'fossils'." In considering the
+various possibilities in a secondary atmosphere, Abelson (1966) came to the
+conclusion that HCN would be the dominant molecule produced; however, the
+resultant solution would be quite dilute. In order to facilitate the
+synthesis of the various building blocks, he appealed to the mechanisms
+of the present processes of biosynthesis. "The principal processes re-
+quired to synthesize the 14 amino acids are condensations (such as those
+involving pyruvate, carbonate, and acetate in the Krebs cycle), hydro-
+genation, and transfer of NH 3. Furthermore, given condensation and hydro-
+genation, one has a mechanism for producing fatty acids. Formate would be a
+convenient source of hydrogen. Simple receptors for solar radiation might
+have helped speed the condensation reactions. Thus one can visualize that
+natural conditions might have favored synthesis of increasingly complex
+molecules from the simple but versatile substances available."
+
+If we look at intermediary metabolism, in particular, anabolism, we are
+immediately struck by the cen~al role played by the citric acid cycle.
+In Fig. 1 we see the anabolic functions of the citric acid cycle. If we
+apply the method of Bernal, it can be conjectured that the citric acid
+cycle came first and was followed by the amino acids, lipids, nucleotides,
+and carbohydrates. From a more detailed examination of metablism it is
+evident that some amino acids require fewer steps in their biosynthesis
+from the citric acid cycle. Glutamic acid, glutamine, proline and arginine
+are closely linked metabolically to ketoglutarate. Aspartic acid, asparagine,
+threonine are similarly linked to oxalacetate. Alanine, cysteine, serine,
+glycine are linked to pyruvate. Glycine is also made from glyoxalate.
+
+There is a puzzle with respect to lysine for it is easier to make ornithine
+from the citric acid cycle. One might speculate that ornithine came into the
+biosphere first, later to be supplanted by arginine and lysine.
+
+The amino acid histidine is closely associated with the biosynthesis of
+purines (Greenberg,   1969).
+
+Purine rings are constructed from glycine, formate, glutamine, aspartic
+acid, and carbon dioxide (Buchanan,   1960). Pyrimidine rings are constructed
+from aspartic acid, carbon dioxide, and glutamine (Hartman,   1970). Thus it
+can be conjectured that the synthesis of purines and pyrimidines began as
+soon as glycine, formate, aspartic acid, and glutamine came into    the
+biosphere.
+
+ 362
+                                                                                                 CH3(CH2)nCO2-
+                                                                                                  Fatty acids
+
+                      Carbohydrates                                                     C O ~             NADP+
+                                       Olycine                                       /       C
+                                                                                             +~'//
+                              \\           ~,                                       /cosoo~
+                            j~        NADH ~ Valine*             Leucine*          / C~ 2
+                                                                                                                 Terpenes
+                                                                                                              Polyisoprenoid:
+Phenylalanine"-~ l ~ ~ ' ~ ~ ~ k ~ E~p~ A3P~'
+                                        r ! v~\\Alanine
+                                               aPP~Y
+                                                  ~ t ~ / i ~ff~ysteine/(//?~_
+                                                              e             .... i
+
+  Tyr!sine ~ C H ° ? T r y .p" t .o p h a ~"~
+
+                             •
+                                          n ,_~:~
+                                                \
+                                                '<i ~
+                                                    \C    O'
+                                                     ~k,:~k~
+                                                                           ~
+
+                                                                   Ao~tylCoA
+                                                                            _~/_~o'/
+                                                                                             'H'
+                                                                                             c.,co,-
+                                                                             / - g / ~ - n-methyl-n-OH
+                                                                           7"/<~o~-Xo~   -
+
+                                                                                   %oxa,a o, t
+                                                                                                      t
+                                                                                                          NADPH
+                                                                                                           A~
+
+                                                                                                                     I
+                                                                                                                  Steroids
+
+                    asparagme                                             /
+                        ~'                  ~      oxalacetate glycine citrate
+                    ATP|NH3~/~7                            /      /         ~k
+   Pyrimidine •~ATP~ aspartate ~                 "
+                                                A.
+                                                   - /    /C
+                                                         / "7CHO) f
+                                                                  ~
+                                                                            \
+   n.deo,de. "CO.              "~0~           L,-m~a~/ ~0-          ~ ,h,eo-O:~,-~socitrate
+                    ATP[ /'/~C4~-~               ~ ~        Yu2     (2)/       I ',.~NADP
+                                 ~ ~ ~-~.~t')    ~      glyoxylate*~        ~1 /_
+                     aspartyl P                     -         ~               / k~,,,
+                         I                          '~x    /RCOSC_oA / ~ ' NADPH
+                 NADPH|                          succinate t ,7 RCO2- a-ketoglutarate
+                 aspartic semialdehyde*                   GTP )- SuC°A'~             ~"*ff
+
+      /
+tminopimelate*
+                      rPJJCC~ADP
+                     ATP   ATP H
+                       ~/"N~
+                                                               °°"'iIif glycine          ~
+              • Threonine Methionine*                                  k
+                                                                       I*           " k ~        ~"          ATP
+                                                                          CoASH
+                   //      .                                           |                       L-glutamate > Glutamir
+ Lysine*         ~ pyruvate                                         t                                 ~.~H3-~ ~
+           Isoleucine*                                              * H3N+                             , ' " ~ ' ~ ROH
+                                                 intra-                    I                         RNHz (ATP)
+                                        extra-            -O2C--(CH2)~COCHCOz    -             L-glutamate
+                                                            a-amino-fl-ketoadipate            semialdehyde         ]> Prolin
+                                      mitochondrial,                                                        NADPH
+                                      compartment                          l-COl                     i
+                                                           -OzC--(CH2)2COCH2NHz
+                                                               8-aminolevulinate                 ornithine
+
+                                                                    Porphyrins                   citrulline       ~>Arginine
+  Fig. I. Biosynthetic functions of the c i t r i c acid cycle. From: Biological
+  chemistry, by H.R. Mahler and E.H. Cordes. Reprinted by permission of
+  Harper & Row Publishers Inc.
+
+                                                                                                                   363
+The amino acids valine, leucine, isoleucine, methionine, tryptophan,
+phenylalanine,   and tyrosine require many more metabolic steps for their
+synthesis and hence would have entered the biosphere later than the other
+amino acids.
+
+The first polymerization would have been the synthesis of fatty acids from
+acetyl-CoA.
+
+Thus, from the citric acid cycle, by counting the number of metabolic steps
+necessary for their biosynthesis,   the amino aeids would have entered the
+biosphere in three groups:
+(I) glycine, alanine, aspartate, glutamate;
+(2) glutamine, asparagine, proline, serine, cysteine, threonine, "ornithine",
+      arginine (histidine);
+(3) valine, leucine, isoleucine, methionine, tryptophan, phenylalanine,
+      tyrosine, "lysine".
+The synthesis of purines and pyrimidines would have started after the entry
+of the first two groups of amino acids into the metabolic scheme.
+
+It is also clear from biosynthetic pathways that "most of the consecutive
+reactions of intermediary metabolism involve the sequential transfer of
+amino, acyl, phosphate, methyl, formyl, or carboxyl groups, or of hydrogen
+atoms" (Lehninger, 1970).
+
+These transfers are carried out by co-enzymes in association with apo-
+enzymes (proteins). It is the co-enzymes which serve as carriers of specific
+functional groups such as hydrogen atoms, amino groups, methyl, formyl, and
+acetyl groups. The co-enzymes are listed in Table I.
+
+In the building up of the biomonomers the co-enzymes are the organic
+chemists of the cell. It was pointed out by Lipmann (1965) that "in at-
+tempting to map evolutionary steps, I prefer to assume that poly-nucleotides
+and proteins are late developments". The apo-enzymes being proteins might,
+therefore, have evolved after the proto-coenzymes. We might here speculate
+that the co-enzymes came before the enzymes. In fact, the co-enzymes must
+have had an evolutionary history of their own. In the various model studies
+of the co-enzymes, only fragments are used (e.g., nicotinamide,   flavin, or
+thiazolium ring) (Bruce & Benkovic,   1966). Much of the co-enzymes is not
+used in the actual reactions and must relate to their binding by proteins.
+
+It was pointed out by Snell (1965) that an area in prebiotic chemistry which
+had been neglected was the formation of "the primitive co-enzymes.., which
+
+364
+Table 14 Co-enzymes in group-transferring reactions
+
+Entity transferred                        Co-enzyme
+
+Electrons                                 Heme
+Hydrogen atoms                            Nicotinamide adenine denucleotide (NAD)
+Aldehydes                                 Thiamine pyrophosphate             (TPP)
+Acyl groups                               Co-enzyme A
+Acyl groups                               Lipoamide
+Alkyl groups                              Cobamide (corrinoid)
+Carbon dioxide                            Biocytin
+Amino groups                              Pyridoxal phosphate
+Methyl, methylene,
+ formyl, or
+ formimino groups                         Tetrahydrofolate
+
+might, by their presence, greatly reduce the activation energies needed for
+the formation of other essential compounds and, therefore, promote their
+formation under conditions much milder than those that have so far been
+used." This field, although it has been intensively studied by the organic
+chemist, has not been taken up by the prebiotic chemists.
+
+The start of the citric acid cycle comes from the condensation of acetyl-CoA
+and oxalacetate to form citrate. The main source of oxalacetate comes from
+the condensation of carbon dioxide and pyruvate mediated by biotin.
+
+(1)     pyruvate + CO 2         biotin+
+                                 ATP             oxalacetate
+
+The main source of acetyl CoA is NAD-lipoate-linked Pyruvate Dehydrogenase
+(Lowenstein,        1971).
+
+                                     ++
+(2)     CH3COCO ~ + TPP         Mg        > TPPCHOH - CH 3 + CO 2
+
+(3)     TPPCHOH - CH 3 + R - ~ +                 TPP + R        -
+                                                           O
+                                      i I                  li       J J
+                                      S    S            CH3C-       S   SH
+
+(4)     R       -    ~        + CoASH ÷ R -         ~( ~        + CH3COSCoA
+            O
+                     J I                            J J
+       CH3C-        S    SH                        SH    SH
+
+The reactions which follow are the oxidation of the dithiol by a Flavo-
+
+                                                                                     365
+protein and the oxidation of the Flavoprotein by a NAD-enzyme. The over-all
+reaction is
+
+(5)     CH3COCO0 ] + NAD + + CoSH l i p o i c CH3COSCoA + NADH + CO 2
+                                  TPP Mg ++
+
+In anaerobic organisms the over-all reaction is (Mortenson et al., 1962)
+
+(6)     CH3CoCOO- + Ferredoxinox + CoSH TP_~P CH3COSCo A + Ferredoxinre d + C02.
+
+In recent years the reverse reaction has been found in anaerobic bacteria
+(Buchanan,    1972).
+
+(7)     acetyl - CoA + CO 2 + Ferrodoxinre d +Pyruvate CoA + Ferrodoxinox
+
+Therefore, starting with acetyl-CoA by two carbon dioxide fixations, the
+citric acid cycle may begin. Furthermore, Ljungdahl & Wood (1969) have shown
+that carbon dioxide fixation can lead to the formation of acetate. The co-
+enzymes involved are tetrahydrofolate and a corrinoid (cobamide). This is a
+model system in which a C 2 skeleton is constructed in net fashion from two
+one-carbon units. If such a system were coupled to the citric acid cycle,
+the total carbon necessary for biosynthesis would come from carbon dioxide.
+Thus, if the proper proto-coenzymes      (e.g., Co-Chelates) were available, then
+Goldschmit's    (1952) hypothesis   that carbon dioxide was the main primary
+material in the origin of life would be satisfied.
+
+The problem, in general, of carbon dioxide fixation has not been elucidated.
+The reaction mechanisms have not been worked out by the organic chemists as
+carbon dioxide is not a molecule used by organic chemists in their synthesis
+of complex molecules. One suggestion that might be a starting point for
+further experimentation is the spontaneous reaction of carbon dioxide with
+ammonia to form carbamate. The reaction of carbon dioxide with anmonia and
+the primary and secondary amino groups of aliphatic amines and amino acids
+is rapid and requires no catalyst (Edsall & Wyman,      1958). This formation of
+carbamates might be a primitive mechanism for carbon dioxide fixation.
+Therefore,    if CO 2 were the dominant source of available carbon it would be
+possible by means of carbon dioxide fixation to build all the carbon skel-
+etons needed for metabolism.
+
+Given the carbon skeletons, the next problem is the source of nitrogen. If
+the atmosphere was dominated by molecular nitrogen, some method of nitrogen
+
+366
+fixation would be necessary. Today nitrogen fixation is mediated by a nitro-
+genase which consists of two metalloprotein components:
+(|) azoferrodoxin and (2) molybdoferredoxin      (Dalton & Mortenson,   1972). In
+model studies    Schrauzer et al. (1971) showed that molybdenum complexes with
+sulfur containing ligands, in the presence of Na2S204 as reducing agent,
+could serve as good models of nitrogenase. They suggested that the iron in
+nitrogenase would function as an electron transfer catalyst.
+
+Nitrogen fixation was therefore possible if the formation of molybdenum-
+thiol complexes occurred in the primitive organism and if a strong reductant
+was available.
+
+It was suggested by Bernal (]95]) that in the absence of 02 the main source
+of free energy needed to drive the metabolic machine would be provided by
+two inorganic reactions - ')the oxidation and reduction of ferrous to ferric
+iron and of sulphydryl - SH to disulfide - S - S -. Early life in the
+absence of atmospheric oxygen must have proceeded almost entirely by the
+enzymic utilization of these transformations".
+
+Today the metabolic machine is driven by two "high energy" compounds, ATP
+and acetyl - CoA, one a high-energy phosphate and the other a high-energy
+thiol ester. It has been pointed out by Racker (1965) that "in anaerobic
+glycolysis, probably a very primitive process of energy production, a thiol
+ester serves as a precursor of ATP. Thiol esters may possibly represent the
+evolutionary ancestors of    'high energy'   ATP."
+
+In the presence of oxygen the need for reducing power became necessary;         it
+is provided by NADH today.
+
+If one now puts together the ideas of Bernal and Racker and one looks at
+pyruvate dehydrogenase, one may propose the following scheme. Assuming that
+acetate is available and can be reduced to acetaldehyde      (see Ljungdahl &
+Wood,   1969), then the following reactions become possible.
+
+(8)      CH3CHO + CN- ÷CH^C - CN
+                         3H
+
+Here the use of CN- instead of TPP is suggested by the studies of Breslow
+(1959), who proposed that catalysis by thiazolium salts is analogous to
+catalysis by the cyanide ion.
+
+                                                                                     367
+                        OH
+                        I
+(9)      tit3   -       C -      CN          + S-S+
+                        I                      I      I
+                        H
+                            0
+                            II           H
+                CH3C - S                 S         +      CN
+                                     I
+The use of disulfide is suggested by the reaction of I - hydroxyethyl - TPP
+and lipoic acid. We now have a thiol ester which is a high-energy compound
+which can now be used along with carbon dioxide fixation to begin the citric
+acid cycle.
+
+The problem which now remains is the oxidation of the dithiol to a disulfide.
+This could be accomplished as follows.
+          H         H
+
+          S         S
+(I0)       I        I + Ferricyanide
+
+                            ~s--s
+                                 1       I + Ferrocyanide
+
+This is a reaction which has been studied by protein chemists (Herriott,
+1947).
+If, however, one assumes that there is no oxygen the dominant species of the
+iron cyanides would be ferrocyanide; however, a well-studied reaction in
+photochemistry is (Calvert & Pitts,                            1966):
+
+(II)      Ferrocyanide + U.V. light ÷ Ferricyanide + e-(aq)
+
+This reaction at a wave-lenght of 2537 ~ has a quantum yield of I. Thus, in
+U.V. light, which would be the dominant source of energy in an atmosphere
+which did not have an ozone layer, the ferrocyanide would be oxidized to
+ferricyanide.
+
+The fate of the solvated electron may have been to reduce a thio-molybd~u~.~
+chelate for the fixation of atmospheric nitrogen.
+
+Given these reactions or a similar set, it is thus possible to imagine the
+appearance of an early metabolism which, driven by light (U.V.), fixating
+N 2 and C02, eventually evolved into the metabolism which we know today.
+
+From the view of the autotrophic origin of life, it is not surprising that
+the paleontological record should show the early appearance of blue-green
+algae (Schopf,              1970). The blue-green algae are the most selfsufficient
+cells known. These organisms obtain their energy from sunlight, their car-
+bon from CO 2 and their nitrogen from atmospheric N 2.
+
+368
+The outstanding prob]em left is to justify the evolution of metabolism in
+terms of an advantage to an evolving living system. If one assumes that
+clays were the original living organisms, the ability to synthesize poly-
+carboxylic acids would be an advantage as "these kinds of molecule can in-
+crease the solubility of silicia - they might thus act on the surrounding
+rocks to provide an immediate source of food" (Cairns-Smith,    1971).
+
+An autotrophic origin thus requires clays, transition state metals (Fe, Co,
+Mo), disulfide and dithiols, U.V. and CN-. Given these ingredients a plaus-
+ible scheme for the fixation of C02, N2, and the evolution of metabolism
+can be conjectured.
+
+The final decision between the four possibilities concerning the origin of
+life must await further experimentation and a deeper understanding of the
+first billion years of the earth ~ history.
+
+References
+
+Abelson, P.H. (1966). Proc. Nat. Acad. Sci. V.S. 55, 1365
+Bernal, J.D. (1951). The physical basis of life, p. 45. London: Routledge
+Bernal, J.D. (1960). In: Aspects of the origin of life, M. Florkin, Ed.,
+  p. 30. New York: Pergamon Press
+Breslow, R., McNelis, E. (1959). J. Am. Chem. Soc. 81, 3080
+Bruce, T.C., Bencovic, S. (1966). In: Bioorganic mechanisms, Vol. II.
+  New York: Benjamin
+Buchanan, B.B. (1972). In: The enzymes, P.D. Boyer, Ed., Vol. VI, p. 195.
+ New York: Academic Press
+Buchanan, J°M. (1960). In: The nucleic acids, E. Chargaff, J.N. Davidson,
+ Eds., Vol° III, p. 303. New York: Academic Press
+Cairns-Smith, A.G. (1965). J. Theoret. Biol.    10, 53
+Cairns-Smith, A.G. (1971). The life puzzle, p. 134. Toronto: University of
+  Toronto Press
+Calvert, J.G., Pitts, J.N. (1966). Photochemistry, p. 269. New York: Wiley
+Crick, F.H.C. (1968). J. Mol. Biol. 38, 367
+Dalton, H., Mortenson, L.E. (1972). Bacteriol. Rev. 36, 231
+Edsall, J.T., Wyman, J. (1958). Biophysical chemistry, Vol. I, p. 571.
+ New York: Academic Press
+Fox, S.W. (;965). Nature, 205, 328
+Goldschmit, V.M. (]952). In: New biology, no.    12, p. 97. London: Penguin
+Greenberg, D.M. (1969). In: Metabolic pathways, D.M. Greenberg, Ed., Vol. III,
+  p. 268. New York: Academic Press
+
+                                                                              369
+Haldane, J.B.S.    (1967/1928). In: The origin of life, J.D. Bernal, Ed.,
+  pp. 242-51. Cleveland: World; also published in: Rationalist Ann.    148, 3
+Hartman, S.C. (1970). In: Metabolic pathways, D.M. Greenberg, Ed., Vol. IV,
+  p. 40. New York: Academic Press
+
+Herriott, R.M. (1947). Advances in protein chemistry, Vol. 3. New York:
+  Academic Press
+Horowitz, N.H. (1945). P.N. AS, 31, 153
+Lehninger, A.L. (1970). Biochemistry, p. 276. New York: Worth Publishers
+Lipmann, F.(1965). In: The origin of prebiological systems and of their
+  molecular matrices, S.W. Fox, Ed., p. 259. New York: Academic Press
+Ljungdahl, L.G., Wood, H.G. (1969). Ann. Am. Rev. Microbiol. 23, 515
+Lowenstein, J.M. (1971). In: Comprehensive biochemistry, M. Florkin, E.H.
+  Stotz, Eds., Vol. 18S, I. New York: Elsevier
+Miller, S.L. (1955). J. Am. Chem. Soc. 77, 2351
+Mortenson, L.E., Valentin, R.C., Carnahan, J.E. (;962). Biochem. Biophys.
+  Res. Cormn. 7, 448
+Oparin, A.I. (1967/1924). In: The origin of life, J°D. Bernal, Ed.
+  Cleveland: World; also published in: Proiskhozhdenie Zhizny. IZD
+  Moskovshii Rabochii, Moscow
+Orgel, L.E.    (1968). J. Mol. Biol. 38, 381
+Racker, E. (1965). Mechanisms in bioenergetics, p. 7. New York: Academic
+  Press
+Rutten, M.G.    (1971). The origin of life. New York: Elsevier
+Schopf, J.W. (1970). Biol. Rev. 45, 319
+Schrauzer, G.N., Schlesinger, G., Dolmeny, P.A. (1971). J. Am. Chem. Soc.
+  93, 1803
+Sillen, L.G. (1965). Arkiv. Kemi, 24, 431
+Snell, E. (;965). In: The origins of prebiological systems and of their
+  molecular matrices, S. Fox, Ed., p. 203. New York: Academic Press
+Szent-Gyorgyi, A. (1972). The living state, p. 6. New York: Academic Press
+
+Dr. Hyman Hartman
+Department of Molecular Biology
+University of California
+Berkeley, California 94720, USA
+
+  370
+

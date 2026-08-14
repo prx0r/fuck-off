@@ -1,0 +1,1613 @@
+   REVIEWS               OF      MODERN                PHYSICS                                    VOLUME        42,   NUMBER     4              O C T 0 B E R 19 7 0
+
+
+
+                     T h e Statistical In terp retatio n of Q u an tu m
+                     M echanics
+                     L. E. BALLENTINE
+                     Department of Physics, Simon Fraser University, Burnaby, B.C., Canada
+
+                        The Statistical Interpretation of quantum theory is formulated for the purpose of providing a sound interpretation
+                     using a minimum of assumptions. Several arguments are advanced in favor of considering the quantum state description
+                     to apply only to an ensemble of similarity prepared systems, rather than supposing, as is often done, that it exhaustively
+                     represents an individual physical system. Most of the problems associated with the quantum theory of measurement
+                     are artifacts of the attempt to maintain the latter interpretation. The introduction of hidden variables to determine the
+                     outcome of individual events is fully compatible with the statistical predictions of quantum theory. However, a theorem
+                     due to Bell seems to require that any such hidden-variable theory which reproduces all of quantum mechanics exactly
+                     (i.e., not merely in some limiting case) must possess a rather pathological character with respect to correlated, but spacially
+                     separated, systems.
+
+
+                                       CONTENTS                                                          pretive attempts is promised for a later volume.
+1. Introduction.................................................................................. 358    • • • pBut] even the cautious word ‘attempts’ may be
+   1.0 Preface and Outline............................................................. 358              too positive a description for what are only pro­
+   1.1 Mathematical Formalism of Quantum Theory............ 359                                          grams • • • that are not yet clear even in outline.”
+   1.2 Correspondence Rules......................................................... 360
+   1.3 Statistical Interpretation................................                                  360      If, as appears to be the case, the latter remarks by
+2. The Theorem of Einstein, Podolsky, and R osen...................362
+   2.1 A Thought Experiment and the Theorem..................... 362                                     Peierls refer to the models known as hidden-variable
+   2.2 Discussion of the EPR Theorem...................................... 364                           theories (see Sec. 6), we agree that these should be
+3. The Uncertainty Principle......................................................... 364
+   3.1 Derivation................................................................................. 364   treated as new theories, and that they are not new
+   3.2 Relation to Experiments.................................................... 365                   interpretations of quantum mechanics “any more than
+   3.3 Angular and Energy-Time Relations.............................. 367                               quantum mechanics is a new interpretation of classical
+4. The Theory of Measurement.................................................... 367
+   4.1 Analysis of the Measurement Process............................ 368                               physics.” However we shall show, contrary to the view
+   4.2 The Difficulties of the “Orthodox” Interpretation.. .. 368                                        expressed by Peierls, that the Copenhagen interpreta­
+   4.3 Other Approaches to the Problem of Measurement. . . 370                                           tion contains assumptions which are not “essential
+   4.4 Conclusion—Theory of Measurement............................ 371
+5. Joint Probability Distributions................................................ 372                   parts of the structure of quantum mechanics,” and that
+6. Hidden Variables......................................................................... 374         one such assumption is at the root of most of the
+   6.1 Von Neumann’s Theorem.................................................. 374
+   6.2 Bell’s Rebuttal...................................................................... 376         controversy surrounding “the interpretation of quantum
+   6.3 Bell’s Theorem..........................................                                    377   mechanics.” It is the assumption that the quantum
+   6.4 Suggested Experiments....................................................... 378                  state description is the most complete possible descrip­
+7. Concluding Remarks................................................................... 378
+   References..................................................................................... 380   tion of an individual physical system.
+                                                                                                             An interpretation which is more nearly minimal in the
+                                  INTRODUCTION                                                           sense of including all verifiable predictions of quantum
+                                                                                                         theory, but without the contestable features of the
+    1.0 Preface and Outline                                                                              Copenhagen interpretation, we shall call the Statistical
+                                                                                                         Interpretation. The distinction between these inter­
+  This article is not a historical review of how the
+                                                                                                         pretations (which share many features in common)
+quantum theory and its statistical interpretation came
+                                                                                                         will be made in the following sections. Suffice it to say,
+to be. That task has been admirably carried out by
+                                                                                                         for now, that if we identify the Copenhagen Inter­
+Max Jammer (1966) in his book The Conceptual
+                                                                                                         pretation with the opinions of Bohr, then the Statistical
+Development of Quantum Mechanics, and also by van
+                                                                                                         Interpretation is rather like those of Einstein. Contrary
+der Waerden (1967). Our point of departure can
+                                                                                                         to what seems to be a widespread misunderstanding,
+conveniently be introduced by considering the follow­
+                                                                                                         Einstein’s interpretation corresponds very closely with
+ing statement made by Peierls (1967) in a review of
+                                                                                                         the one which is almost universally used by physicists
+Jammer’s book:
+                                                                                                         in practice; the additional assumptions of the Copen­
+  “Chapter 7 • • • is headed ‘The Copenhagen Inter­                                                      hagen interpretation playing no real role in the applica­
+pretation.’ • • • the phrase suggests that this is only one                                               tions of quantum theory.
+of several conceivable interpretations of the same                                                           The outline of this paper is as follows. First we give a
+theory, whereas most physicists are today convinced                                                      brief summary of the mathematical formalism of
+that the uncertainty relations and the ideas of comple­                                                   quantum theory in order to distinguish the formalism,
+mentarity are essential parts of the structure of quan­                                                  which we accept, from the physical interpretation,
+tum mechanics • • •. A discussion of alternative inter­                                                   which we shall examine critically. We then consider
+                                                   L. E. B allentine   Statistical Interpretation of Quantum Mechanics        359
+
+different interpretations, and expound the Statistical       Here the numbers rn are the eigenvalues of R , and the
+Interpretation in detail.                                    parameter a labels the degenerate eigenvectors which
+   The Secs. 2, 3, and 4 could be prefaced by Appendix       belong to the same eigenvalue of R. The sums become
+*xi of Popper (1959) on the proper use of imaginary          integrals in the case of continuous spectra. Equation
+experiments, in which he points out that Gedanken            (1.1) is equivalent to the statement that an observable
+experiments can be used to criticize a theory but not to     must possess a complete orthogonal set of eigenvectors.
+justify or prove a theory. Our discussions of the Gedanken
+experiment of Einstein, Podolsky, and Rosen, of the          F2 A state is represented by a state operator (also
+uncertainty principle, and of the measurement process        called a statistical operator or density matrix) which
+are undertaken to criticize the assumption that a state      must be self-adjoint, nonnegative definite, and of unit
+vector provides a complete description of an individual      trace. This implies that any state operator may be
+system. Although arguments of this type can refute the       diagonalized in terms of its eigenvalues and eigenvectors,
+hypothesis being criticized, they cannot, of course,                               p —^L,Pn | 4*11) (<t>n Iy              (1.3a)
+“prove” the Statistical Interpretation but can only                                    n
+illustrate its advantages.                                   with
+   Sections 5 and 6 deal with two concepts (joint                                        0<P„<1                          (1.3b)
+probability distributions for position and momentum,         and
+
+
+
+
+                                                                                             H-*
+and hidden variables) which have often been thought
+
+
+
+
+                                                                                          ’ sM
+                                                                                                                          (1.3c)
+
+
+
+
+                                                                                              II
+                                                                                             3s
+to be incompatible with quantum theory. That belief,
+however, was based in an essential way upon the above        This state operator formalism is reviewed by Fano
+hypothesis which we criticize and reject. It turns out       (1957).
+that, within certain limits, the formalism of quantum
+theory can be extended (not modified) to include these       F3 A pure state can be defined by the condition p2=p.
+concepts within the Statistical Interpretation.              It follows that for a pure state there is exactly one
+   Finally we summarize our conclusions.                     nonzero eigenvalue of p, say,
+                                                                           p»=l,         pn' = 0 for n ^ n '.              (1.4)
+  1.1 Mathematical Formalism of Quantum Theory
+                                                             In this case we have
+   Quantum theory, and indeed any theory, can be
+divided [[see Prugovecki (1967), or Tisza (1963)]                                P^ i         I?               (1.5)
+into:                                                        and so a pure state may be represented by a vector in
+   (a) A mathematical formalism consisting of a set of       the Hilbert space. A general state which is not pure is
+primitive concepts, relations between these concepts         commonly called a mixed state.
+(either postulated or obtainable by given rules of           F4 The average value of an observable R in the state
+deduction), and a dynamical law.                             p is given by
+   (b) Correspondence rules which relate the theoretical                                                       ( R ) = Tr( ptf ),   (1.6)
+concepts of (a) to the world of experience.
+                                                             where Tr means the trace of the operator in parentheses.
+   This division is not absolute—'dearly one must have       For a pure state represented by the normalized vector
+a formalism in order to make correspondence rules, but       \xp), (1.6) reduces to (R)= (p | R | p). By introducing
+unless one has at least some partial idea of corre­          the characteristic function (e^'R)j we can obtain the
+spondence rules, one would not know what one was             entire statistical distribution of the observable R in the
+talking about while constructing the formalism—              state p. It follows that:
+nevertheless it is convenient for the present task.
+   The mathematical formalism of quantum theory is           F5 The only values which an observable may take on
+well known and can be abstracted from any of several         are its eigenvalues, and the probabilities of each of the
+textbooks (Dirac, 1958; Messiah, 1964). The primitive        eigenvalues can be calculated. In the case of a pure
+concepts are those of state and of observable.               state represented by the normalized vector \ p), the
+                                                             probability of eigenvalue rn of R is X) | (p | a, rn) |2.
+FI An observable is represented by a self-adjoint            This is a generalization of Born’s (1926) famous
+operator on a Hilbert space. It has a spectral repre­        postulate that the square of a wave function represents
+sentation,                                                   a probability density.
+                      R=ZrnPn,                  (1.1)           So far we have only given necessary, but not sufficient,
+                          n
+                                                             conditions for the mathematical representations of
+where the Pn are orthogonal projection operators             observables and of states. To complete the specification,
+related to the orthonormal eigenvectors of R by              the following is usually postulated:
+                  Pn = ’£ \ a , r n)(a,rn \.        (1.2)
+                        a                                    F6 The Hilbert space is a direct sum of coherent
+subspaces, within each of which (almost) every vector                 to arise in practice. We can, for example, unambiguously
+may represent a pure state. This is a formal statement                determine the Hamiltonian operator for any finite
+of the superposition principle with allowance being                   number of particles interacting through velocity-
+made for superselection rules.1 The set of all mixed                  independent potentials in the presence of an arbitrary
+states can be constructed from the set of all pure states             external electromagnetic field.
+using (1.3).                                                            The different interpretations of quantum theory are
+                                                                      most sharply distinguished by their interpretations of
+F7 Any self-adjoint operator which commutes with                      the concept of state. Although there are many shades of
+the generators of superselection rules, or equivalently,              interpretation (Bunge, 1956), we wish to distinguish
+all of whose eigenvectors lie within coherent subspaces               only two:
+of F6, represents an observable. This postulate may be
+criticized on the grounds that it is difficult to imagine a              (I) The Statistical Interpretation, according to which
+procedure for observing a quantity like (x2p^-\-pxzx2) ,              a pure state (and hence also a general state) provides
+which should be an observable according to this                       a description of certain statistical properties of an
+postulate. The general form of F7 is unnecessary                      ensemble of similarily prepared systems, but need not
+in most, if not all practical applications, but it is used            provide a complete description of an individual system.
+in Von Neumann’s theorem (Sec. 6.1).
+                                                                      This interpretation is upheld, for example, by Einstein
+F8 The dynamical law or equation of motion depends                    (1949), by Popper (1967), and by Blokhintsev (1968).
+in detail upon the physical system under consideration                Throughout this paper the capitalized name “Statistical
+ (i.e., number of degrees of freedom, whether relativistic            Interpretation” refers to this specific interpretation
+or nonrelativistic), but in every case it can be written              (described in detail in Sec. 1.3).
+in the form,
+                     pit) = Up(to) U~l             (1.7a)                (II) Interpretations which assert that a pure state
+in general, or                                                        provides a complete and exhaustive description of an
+                    I            *(*>)>            (1.7b)             individual system (e.g., an electron).
+for a pure state, where U —U(t, t0) is a unitary operator.            This class contains a great variety of members, from
+  The above is not intended to be an axiomatization of                Schrodinger’s original attempt to identify the electron
+quantum theory, but merely a compact summary of                       with a wave packet solution of his equation to the
+the mathematical formalism of the theory as it exists at              several versions of the Copenhagen Interpretation.2
+present and in practice. Except for the reservation                   Indeed many physicists implicitly make assumption II
+noted in F7 it should be noncontroversial. Such is not                without apparently being aware that it is an additional
+the case with the correspondence rules.                               assumption with peculiar consequences. It is a major
+                                                                      aim of this paper to point out that the hypothesis II is
+   1.2 Correspondence Rules                                           unnecessary for quantum theory, and moreover that it
+                                                                      leads to serious difficulties.
+   The correspondence rules must relate the primitive
+concepts of state and observable to empirical reality.                   1.3 The Statistical Interpretation
+In so doing they will provide a more specific inter­
+pretation for the averages and probabilities introduced                  The term, Statistical Interpretation, will be used
+in F4 and F5.                                                         throughout this paper in the specific sense here ex­
+   The natural requirement placed upon an observable                  pounded, and should not be confused with the less
+is that we should be able to observe it. More precisely,              specific usage of this term by other writers (e.g.,
+an observable is a dynamical variable whose value can,                Messiah, 1964, Chap. IV) who do not distinguish it
+in principle, be measured. For canonically conjugate                  from the Copenhagen interpretation.
+variables the corresponding operators are obtained                       Of primary importance is the assertion that a quantum
+through Dirac’s canonical commutation relation,
+                                                                         2 Bohr (1935, 1949) argued against Einstein, who rejected II.
+                          qp—pq=fii.                         (1.8)    Heisenberg’s position is somewhat unclear. One reference (1930,
+                                                                      p. 33) contains a statement fully in accord with the Statistical
+There is no general rule for constructing a unique                    Interpretation; however, in a later writing specifically in defense
+                                                                      of the Copenhagen interpretation (1955, p. 26) he states “an
+operator to represent an arbitrary function f(q ,p )                  individual atomic system can be represented by a wave func­
+because of the noncommutability of q and p (Shewell,                  tion . . . ” . His interpretation of probability (1958, Chap. 3) was
+1959). Fortunately the most general case does not seem                based on the Aristotelian notion of “potentia”, which is quite
+                                                                      different from the Statistical Interpretation. Messiah (1964) is
+                                                                      quite explicit (p. 152, 158) in favoring II over I. Although both
+   1A superselection rule (Wick et at., 1952; Galindo et at., 1962)   claim orthodoxy, there now seems to be a difference of opinion
+is a restriction on the superposition principle. For example, a       between what may be called the Copenhagen school represented
+vector which is a linear combination of integer and half-integer      by Rosenfeld, and the Princeton school represented by Wigner
+angular momentum eigenvectors cannot represent a physical             (see Rosenfeld, 1968 and references therein). But since both fac­
+state. A coherent space is one in which the superposition principle   tions appear to accept hypothesis II, our criticism will apply to
+has unrestricted validity.                                            both.
+                                                   L. E. B allentine   Statistical Interpretation of Quantum Mechanics   361
+
+
+state (pure or otherwise) represents an ensemble of          of the results of an ensemble of similar experiments.
+similarly prepared systems. For example, the system          Because this ensemble is not merely a representative or
+may be a single electron. Then the ensemble will be the      calculational device, but rather it can and must be
+conceptual (infinite) set of all single electrons which      realized experimentally, it does not inject into quantum
+have been subjected to some state preparation tech­          theory the same conceptual problems posed in statistical
+nique (to be specified for each state), generally by         thermodynamics.
+interaction with a suitable apparatus. Thus a momen­            In general quantum theory will not predict the result
+tum eigenstate (plane wave in configuration space)           of a measurement of some observable R. But the
+represents the ensemble whose members are single             probability of each possible result rn, calculated ac­
+electrons each having the same momentum, but dis­            cording to F5, may be verified by repeating the state
+tributed uniformly over all positions. A more realistic      preparation and the measurement many times, and
+example which occurs in scattering problems is a finite      then constructing the statistical distribution of the
+wave train with an approximately well-defined wave­          results. As pointed out by Popper (see Korner, 1957,
+length. It represents the ensemble of single electrons       p. 65, p. 88), one should distinguish between the
+which result from the following schematically described      probability, which is the relative frequency (or measure)
+procedure—acceleration in a machine, the output from         of the various eigenvalues of the observable in the
+which can take place in only some finite time interval       conceptual infinite ensemble of all possible outcomes of
+(due to a “chopper”), and collimation which rejects          identical experiments (the sample space), and the
+any particle whose momentum is outside certain limits.       statistical frequency of results in an actual sequence of
+We see that a quantum state is a mathematical repre­         experiments. The probabilities are properties of the
+sentation of the result of a certain state preparation       state preparation method and are logically independent
+procedure. Physical systems which have been subjected        of the subsequent measurement, although the statistical
+to the same state preparation will be similar in some of     frequencies of a long sequence of similar measurements
+their properties, but not in all of them (similar in          (each preceded by state preparation) may be expected
+momentum but not position in the first example).             to approximate the probability distribution. If hy­
+Indeed the physical implication of the uncertainty           pothesis I is adopted, we may say simply that the
+principle (discussed in detail in Sec. 3) is that no state   probabilities are properties of the state.
+preparation procedure is possible which would yield an          The various interpretations of a quantum state are
+ensemble of systems identical in all of their observable     related to differences in the interpretation of proba­
+properties. Thus it is most natural to assert that a         bility (see Popper, 1967 for a good exposition of this
+quantum state represents an ensemble of similarily           point). In contrast to the Statistical Interpretation,
+prepared systems, but does not provide a complete            some mathematicians and physicists regard probability
+description of an individual system.                         as a measure of knowledge, and assert that the use of
+   When the physical system is a single particle, as in      probability is necessitated only by the incompleteness
+the above examples, one must not confuse the ensemble,       of one’s knowledge. This interpretation can legitimately
+which is a conceptual set of replicas of one particle in     be applied to games like bridge or poker, where one’s
+its experimental surroundings, with a beam of particles,     best strategy will indeed be influenced by any knowledge
+which is another kind of (many-particle) system. A            (accidentally or illegally obtained) about an opponent’s
+beam may simulate an ensemble of single-particle             cards. But physics is not such a game, and as Popper
+systems if the intensity of the beam is so low that only     has emphasized, one cannot logically deduce new and
+one particle is present at a time.                           verifiable knowledge—statistical knowledge—literally
+   The ensembles contemplated here are different in          from a lack of knowledge.
+principle from those used in statistical thermodynamics,        Heisenberg (1958), Chap. 3, combined this “sub­
+where we employ a representative ensemble for cal­           jective” interpretation with the Aristotelian notion of
+culations, but the result of a calculation may be com­       “potentia.” He considers a particle to be “potentially
+pared with a measurement on a single system. Also            present” over all regions for which the wave function
+there is some arbitrariness in the choice of a repre­        p(r) is nonzero, in some “intermediate kind of reality,”
+sentative ensemble (microcanonical, canonical, grand         until an act of observation induces a “transition from
+canonical). But, in general, quantum theory predicts         the possible to the actual.” In contrast, the Statistical
+nothing which is relevant to a single measurement            Interpretation considers a particle to always be at some
+ (excluding strict conservation laws like those of charge,   position in space, each position being realized with
+energy, or momentum), and the result of a calculation        relative frequency | \p(r) |2 in an ensemble of similarily
+pertains directly to an ensemble of similar measure­         prepared experiments. The “subjective” and Aristotelian
+ments. For example, a single scattering experiment           ideas are primarily responsible for the suggestion that
+consists in shooting a single particle at a target and       the observer plays a peculiar and essential role in
+measuring its angle of scatter. Quantum theory does          quantum theory. Whether or not they can be con­
+not deal with such an experiment, but rather with the        sistently developed, the existence of the Statistical
+statistical distribution (the differential cross section)    Interpretation demonstrates that they are not necessary,
+and in my opinion they bring with them no advantages                  2. THE THEOREM OF EINSTEIN, PODOLSKY,
+to compensate for the additional metaphysical com­                                 AND ROSEN
+plication.
+                                                                         The tenability of hypothesis II, Sec. 1.2, was chal­
+   If the expression “wave-particle duality” is to be                 lenged in a paper by Einstein, Podolsky, and Rosen
+used at all, it must not be interpreted literally. In the              (1935) (abbreviated EPR) entitled “Can Quantum-
+above-mentioned scattering experiment, the scattered                  Mechanical Description of Reality Be Considered
+portion of the wave function may be equally dis­                      Complete?” Their argument is often referred to as the
+tributed in all directions (as for an isotropic scatterer),           Paradox of EPR, as though it ought to be capable of
+but any one particle will not spread itself isotropically;            resolution as, say, Zeno’s paradox. £Rosenfeld (1968)
+rather it will be scattered in some particular direction.             has scurrilously referred to it as the EPR fallacy.] We
+Clearly the wave function describes not a single scat­                shall show however that, properly interpreted, it is a
+tered particle but an ensemble of similarily accelerated              well defined theorem, paradoxical only to the extent
+and scattered particles. At this point the reader may                 that the reader may not have expected the conclusion.
+wonder whether a statistical particle theory can account                 In order to precisely answer the question posed in
+for interference or diffraction phenomena. But there is               their title, EPR introduce the following definitions:
+no difficulty. As in any scattering experiment, quantum
+theory predicts the statistical frequencies of the various            D 1 A necessary condition for a complete theory is that
+angles through which a particle may be scattered. For a               “every element of physical reality must have a counterpart
+crystal or diffraction grating there is only a discrete set           in the physical theory.”
+of possible scattering angles because momentum
+                                                                      D2 A sufficient condition for identifying an element of
+transfer to and from a periodic object is quantized by a
+                                                                      reality is, “//, without in any way disturbing a system,
+multiple of Ap = h/d, where Ap is the component of
+                                                                      we can predict with certainty (i.e., with probability equal
+momentum transfer parallel to the direction of the
+periodic displacement d. This result, which is obvious                to unity)4 the value of a physical quantity, then there
+                                                                      exists an element of physical reality corresponding to this
+from a solution of the problem in momentum repre­
+                                                                      physical quantity.”
+sentation, was first discovered by Duane (1923),
+although this early paper ha,d been much neglected                       Their argument then proceeds by showing, through
+until its revival by Lande (1955, 1965). There is no                  consideration of a thought experiment, that two non­
+need to assume that an electron spreads itself, wavelike,             commuting observables should, under suitable condi­
+over a large region of space in order to explain diffrac­             tions, both be considered elements of reality. Since no
+tion scattering. Rather it is the crystal which is spread             state vector can provide the value of both of these
+out, and the electron interacts with the crystal as a                 observables, they conclude that the quantum state
+whole through the laws of quantum mechanics. For a                    vector cannot completely describe an individual
+longer discussion of this and related problems such as                system, but only an ensemble of similarily prepared
+the two-slit experiment, see Lande (1965).3 In every                  systems.
+case a diffraction pattern consists of a statistical
+distribution of discrete particle events which are                      2.1 A Thought Experiment and the Theorem
+separately observable if one looks in fine enough detail.
+                                                                         The experiment described below was introduced by
+In the words of Mott (1964, p. 409), “Students should
+                                                                      Bohm (1951, p. 614ff). By considering measurements of
+not be taught to doubt that electrons, protons and the
+                                                                      spins rather than of particle positions and momenta
+like are particles • • • The wave cannot be observed in
+                                                                      (as in the original EPR experiment), we avoid any
+any way than by observing particles.”
+                                                                      unnecessary complications with the position-momentum
+   Although we shall discuss his work in greater detail
+                                                                      uncertainty principle which may arise from the mini­
+below, we should emphasize here the great contribution
+                                                                      mum degree of particle trajectory definition needed to
+of Einstein to this subject. His “Reply to Criticisms”
+                                                                      perform an experiment.
+(Einstein, 1949), expressed very clearly his reasons for
+                                                                         Two particles of spin one-half are prepared in an
+accepting a purely statistical (ensemble) interpretation
+                                                                      unstable initial state of total spin zero. The pair
+of quantum theory, and rejecting the assumption that
+                                                                      separates, conserving total spin, and one of the par­
+the state vector provided an exhaustive description of
+                                                                      ticles (which are chosen to be distinguishable, for
+the individual physical system.
+                                                                      convenience) passes through the inhomogeneous mag­
+                                                                      netic field of a Stern-Gerlach apparatus (see Fig. 1).
+   31 note in passing that Lande’s ambitious program to derive
+all of quantum theory from a few simple principles has not yet
+been completely successful. Reviewers of his book (Shimony,              4 As a nearly pedantic refinement, we would prefer to replace
+1966; Witten, 1966) have pointed out additional assumptions           this phrase by with probability 1—e, where e may be made arbi­
+implicit in his argument which are virtually equivalent to assum­     trarily small. This allows for arbitrarily accurate approximations
+ing some of the results he wishes to derive. However, these criti­    to problems which may not be formally solvable, and it allows
+cisms do not detract from his discussion of diffraction scattering.   one to avoid certain irrelevant criticisms. (See Footnote 5).
+                                                            L. E. B allEntine Statistical Interpretation of Quantum Mechanics     363
+
+The uncertainty principle is trivially satisfied since we                  At time t=r, after the particle has interacted with
+require only that px—pz —0 approximately, and that                       the magnetic field, the state vector will be
+Ay be small enough so we know which particle has
+                                                                         p(r) — {exp ( —iH,rz1/fb)u+(l)u-.(2)
+entered the magnetic field.
+   The translational motion of the particles can be                                    — exp (iH'rZi/fi)u^(l)u+(2) }/V2.        (2.6)
+treated classically, and the spin can be described by a
+spin Hamiltonian in which the magnetic field at the                      The result of the interaction is to produce a correlation
+position of the particle is treated as a function of time,               between s components of momentum and spin of
+                                                                         particle 1, and spin of particle 2. If p\z——H'r, then
+                           H= Viz+ V h -                         (2.1)   d\z= + 1, and cf2z——1; or if pu = H'r then criz= —1 and
+Here V\2—V (r12, Oi, or2) is the interaction between the                 (j2z—+ 1. It is only necessary to make the magnetic
+two particles, and Vh is the interaction with the                        field gradient H' large enough so that the two values of
+magnetic field.                                                          piz are unambiguously separated.
+                                                                            We have thus shown that the 2 component of the
+             Vn{t)=zH'(jiz, for 0 < t< ry                                spin of particle 2 can be determined to an arbitrarily
+                    = 0,          for /< 0 or t>r,               (2.2)   high degree of accuracy by a measurement which,
+                                                                         because of the spacial separation and negligible effect
+where t is the transit time of the particle through the
+                                                                         of V12, does not in any way disturb particle 2. Thus
+magnetic field which is of gradient H' and is directed                   according to definition D2, a2z is an element of reality.
+along the z axis.
+                                                                            However the initial singlet state is invariant under
+  Omitting the position-dependent factors, we can
+                                                                         rotation, and can equally be expressed as
+write the initial state vector, a spin singlet, as
+          P(0) = {*+(1)^(2) —«u.(l)«+(2) }/v2.                   (2.3)            *(0) = M l > - ( 2 ) —fl_(l)»+(2) }/V2,       (2.7)
+
+Here u+ and u._ are the two-component spinors corre­      where the spinors v+ and vu are eigenvectors of ax. If
+sponding to the eigenvalues ± 1 of crz, and the argu­     the Stern-Gerlach magnet were rotated so that the
+ments 1 or 2 refer to the two particles. Since            field was directed along the x axis, then by an identical
+                                                          argument we would conclude that a2x was an element
+                 m = exp { ( - - ) jT*        iZ'(O), (2.4)of reality. Since no state vector can provide a value for
+                                                          both of the noncommuting observables a2x and a2z,
+the effect of the interparticle interaction V\2 will be EPR conclude, in accordance with D l, that the state
+negligible if                                             vector does not provide a complete description of an
+                     I V1 2 1       1,              (2.5) individual system.
+                                                              One might try to avoid this conclusion by adopting
+a condition which can be realized by making the transit an extreme positivist philosophy, denying the reality
+time r short enough.5 By | V12 | we mean the modulus of both (j\z and a2z until the measurement has actually
+of the relevant matrix elements of Vi2 in (2.4).          been performed. But this entails the unreasonable,
+                                                          essentially solipsist position that the reality of particle
+                              ....^                       2 depends upon some measurement which is not con­
+                                                          nected to it by any physical interaction.
+                                                              In any case, the conclusion can be stated, as was
+                                                          first done by Einstein (1949, p. 682), as the following
+                       u            )                     theorem:
+                                                                           The following two statements are incompatable:
+                                                                           (1) The state vector provides a complete and
+                                                                         exhaustive description of an individual system;
+                                                                           (2) The real physical conditions of spatially separated
+                                                                         (noninteracting) objects are independent.
+      F ig. 1. Schematic illustration of the apparatus for the
+            Einstein, Podolsky, and Rosen experiment.                    Of course one is logically free to accept either one of
+                                                                         these statements (or neither). Einstein clearly accepted
+   8 This overcomes the objection of Sharp (1961) that any inter-        the second, while Bohr apparently favored the first.
+action (even gravitational) would prevent us from writing p(t)           The importance of the EPR argument is that it proved
+as a product of two factors; one for particle 1, and one for par­
+ticle 2. Such an objection is quite irrelevant because any state         for the first time that assuming the first statement
+vector can be expressed as a linear combination of product-type          above demands rejection of the second, and vice versa,
+basis vectors, and the interaction only affects the time depend­
+ence of the expansion coefficients which we treat to an arbitrary        a fact that was not at all obvious before 1935, and which
+degree of precision.                                                     may not be universally realized today.
+364    R eviews of M odern P hysics • October 1970
+
+    2,2 Discussion of the EPR Theorem                                emphasizes that there is nothing paradoxical about the
+    It should be emphasized that the result of the EPR               EPR experiment, which is a prototype for many
+experiment is in no way paradoxical. The implication                 coincidence experiments, but he seems to forget the
+of (2.6) in the Statistical Interpretation is that if the            original purpose of the EPR argument.
+experiment is repeated many times we should obtain                      Several people have proposed experiments similar in
+the result pu ——H't , ori2= + l, 0-2z= —1 in about                   principle to that of EPR (Day, 1961; Inglis, 1961;
+one-half of the cases, and the opposite result in the                Bohm and Aharonov, 1957). While these experiments
+other half of the cases. This correlation between the                are interesting in their own right, it should be em­
+spins of the two particles will be the same no matter                phasized that their results will not distinguish between
+which components are measured.                                       Einstein’s and Bohr’s interpretations of quantum
+    Another essential point, which has not always been               theory. If the results of experiments were to differ
+realized, is that the EPR theorem in no way contradicts              from the theoretical predictions, this would contradict
+the mathematical formalism of quantum theory. It was                 the formalism of quantum theory itself, not just one of
+only intended to exhibit the difficulties which follow               the interpretations.
+from the assumption that the state vector completely
+describes an individual system; an interpretive assump­                     3. THE UNCERTAINTY PRINCIPLE
+tion which is not an integral part of the theory. In his
+                                                                       3.1 Derivation
+famous reply to EPR, Bohr (1935) said, “Such an
+argumentation [as that of EPR], however, would                         To a given state there will, in general, correspond a
+hardly seem suited to affect the soundness of quantum-               statistical distribution of values for each observable.
+mechanical description, which is based on a coherent                 A suitable measure of the width of the distribution for
+mathematical formalism • • •.” It would appear that                  an observable A is the variance,
+Bohr failed to distinguish between the mathematical
+formalism of quantum theory, and the Copenhagen                                         (2L4)*=<64-<il»*>,                (3.1)
+interpretation of that theory. Einstein’s criticism was              where AA is known as the standard deviation of the
+directed only at the latter, not at the former. Con­                 distribution. Although states exist (at least as mathe­
+versely the self-consistency and empirical success of                matical idealizations) for which the variance of the
+the former are no defense against specific criticism of              distribution for any one observable is arbitrarily small,
+the latter. Such an erroneous perception of the EPR                  it can easily be shown, as was first done by Robertson
+paper as being an attack on quantum theory itself may                (1929) and Schrodinger (1930), that the product of
+explain (psychologically) the often repeated statement               the variances of the distributions of two observables
+that Bohr had successfully refuted their argument. In                A and B has a lower bound,
+fact Bohr’s paper offers no real challenge to the validity
+of the EPR theorem as stated above, nor does the EPR                 (A A )\U 3 Y > { h { A B + B A )-{ A ){B )y + \{ C )\ (3.2)
+theorem pose any “paradox” or threat to the validity of
+quantum theory.                                                      where A B —BA —iC. The first term may vanish, but
+    Bohr’s reply to EPR is really a criticism of their               for canonically conjugate observables [see Eq. (1.8)]
+definitions of completeness and physical reality, but it is          we must always have
+of a rather imprecise character. A satisfactory pursuit                                     AqAp>h/2.                      (3.3)
+of this line of attack should first admit the validity of
+ the EPR theorem with their definitions. Second it                      The meaning of these results is unambiguous. The
+ should propose alternative definitions with arguments in            averages of quantum theory (postulate F4) are realized
+favor of the superiority of the new definitions. Finally             by performing the same measurement on many similarly
+ it should show that the state vector provides a complete            prepared systems (or equivalently by performing the
+ description of physical reality in terms of the new                 measurement many times on the same system which
+ definitions. Bohr has done none of these.                           must be resubmitted to the same state preparation
+    In the succeeding years numerous comments on the                 before each measurement). In order to measure AA
+ EPR paper have been published, many of which are                    (or AB) one must measure A (or B) on many similarily
+ less than satisfactory. A discussion of a paper by Furry            prepared systems, construct the statistical distribution
+  (1936) is given in Footnote 13, Sec. 4.3 of this paper.            of the results, and determine its standard deviation.
+ Breitenberger (1965) has criticized many authors for                The results (3.2) and (3.3) assert that for any par­
+ contributing to confusion, including Bohr for suggesting            ticular state (i.e., state preparation) the product of the
+ that the observation of particle 1 “creates” the physi­             widths of the distributions of A measurements and of B
+ cally real state of particle 2—a position approaching               measurements may not be less than some lower limit.
+ the absurdity of solipsism.6 Breitenberger correctly                A term such as the statistical dispersion principle would
+                                                                     really be more appropriate for these results than the
+  61 have not found an explicit statement to this effect in Bohr’s
+writings, although essentially this position has been taken by       traditional name, uncertainty principle. A discussion
+some followers of Bohr.                                              similar to this is given by Margenau (1963).
+                                                            L. E. B allentine    Statistical Interpretation of Quantum Mechanics   365
+
+
+  3.2 Relation to Experiments
+  There exist many widespread statements of the
+uncertainty principle which are different from the one
+that is derived from statistical quantum theory. Very
+common is the statement that one cannot measure the
+two quantities q and p simultaneously without errors
+whose product is at least as large as fi/2. This statement
+is often supported by one or both of the following
+arguments:
+  (i) A measurement of q causes an unpredictable and
+uncontrollable disturbance of p, and vice versa. [This
+was first proposed by Heisenberg (1927) and is widely
+repeated in text books].                                                               X1                             x?
+   (ii) The position and momentum of a particle do not                    F ig . 3. An experimental arrangement designed to simultane­
+even exist with simultaneously and perfectly well                       ously measure y and py, such that the error product 8y8pv can
+defined (though perhaps unknown) values (Bohm,                          be arbitrarily small.
+1951, p. 100).
+                                                                        though it is not derivable from quantum theory.
+   Clearly the statistical dispersion principle and the                 Argument (ii) is easily seen to be unjustified. It is
+common statement of the uncertainty principle are not                   based on the obvious fact that a wave function with a
+equivalent or even closely related. The latter refers to                well defined wavelength must have a large spacial
+errors of simultaneous measurements of q and p on one                   extension, and conversely a wave function which is
+system, and it is plausible that one of these measure­                  localized in a small region of space must be a Fourier
+ments could cause an error in the other. On the other                   synthesis of components with a wide range of wave­
+hand, the former refers to statistical spreads in ensembles             lengths. Using de Broglie’s relation between momentum
+of measurements on similarily prepared systems. But                     and wavelength, p = h/ \ , it is then asserted that a
+only one quantity (either q or p) is measured on any                    particle cannot have definite values of both position
+one system, so there is no question of one measurement                  and momentum at any instant. But this conclusion
+interfering with the other. Furthermore the standard                    rests on the almost literal identification of the particle
+deviations Aq and Ap of the statistical distributions                   with the wave packet (or what amounts to the same
+cannot be determined unless the errors of the individual                thing, the assumption that the wave function provides
+measurements, 8q and 8p are much smaller than the                       an exhaustive description of the properties of the
+standard deviations (see Fig. 2). These points have been                particle). The untenable nature of such an identification
+emphasized by Margenau (1963) and by Popper                             is shown by the example of a particle incident upon a
+(1967). Prugovecki (1967) has pointed out that, far                     semitransparent mirror with detectors on either side.
+from restricting simultaneous measurements of non­                      The particle will either be reflected or transmitted
+commuting observables, quantum theory does not deal                     without loss of energy, whereas the wave packet is
+with them at all; its formalism being capable only of                   divided, half its amplitude being transmitted and half
+statistically predicting the results of measurements of                 reflected. A consistent application of the Statistical
+one observable (or a commutative set of observables).                   Interpretation yields the correct conclusion that the
+In order to deal with simultaneous measurements he                      division of the wavepacket yields the relative proba­
+proposes an extension of the mathematical formalism,                    bilities for transmission and reflection of particles. But
+to which we shall return in Sec. 5 of this paper.                       there is no justification for assertion (ii).
+   We now consider to what extent the common state­                        Argument (i) must be considered more seriously
+ment of the uncertainty principle may be true, even                     since Heisenberg (1930) and Bohr (1949) have given
+                        Aq
+                                                                        several examples for which it is apparently true. How­
+                                  —    -* ■       Ap
+                                                                        ever, Fig. 3 shows a simple experiment for which it is
+                      r~h   \                                           not valid. A particle with known initial momentum
+                       (    A,                /T 1
+                                 l\           r                         p passes through a narrow slit in a rigid massive screen.
+                  /
+                                                                        After passing through the hole, the momentum of the
+           J !t                                        k                particle will be changed due to diffraction effects, but
+                      k - 8q          — ►] Us— 5 p                      its energy will remain unchanged. When the particle
+  F ig . 2. Illustration of the uncertainty principle. The two histo­
+                                                                        strikes one of the distant detectors, its y coordinate is
+grams represent the frequency distributions of independent meas­        thereby measured with an error 8y. Simultaneously
+urements of q and p on similarly prepared systems. There are, in        this same event serves to measure the y component of
+principle, no restrictions on the precisions of individual measure­
+ments 8q and 8p, but the standard deviations will always satisfy        momentum, py—p sin 6, with an error 8py which may be
+A qA p> h/2.                                                            made arbitrarily small by making the distance L
+ arbitrarily large. Clearly the product of the errors 8py      famous microscope for measuring the position of an
+need not have any lower bound, and so the common               electron. If the angular aperture of the microscope is
+statement of the uncertainty principle given above             e and the wavelength of light used is X, then the accuracy
+ cannot be literally true. One may raise the objection         of the position measurement will be limited to
+ that py has not been measured, but only defined in the
+above equation. Plowever this method of measuring                                     8 x = \/sine,                  (3.4)
+momentum by means of geometrical inference from a              by the resolving power of the instrument. (We use the
+position measurement is universally employed in                symbol 8 to indicate the uncertainty or error in an
+scattering experiments. It rests upon the assumption of        individual measurement, while A refers to the standard
+linear motion in a field-free region (Newton’s First           deviation of an ensemble of similar measurements).
+Law), which remains valid in quantum mechanics                 Because the direction of the scattered photon is un­
+ (at least for L much greater than a de Broglie wave­          known within a cone of angle €, the x component of
+length) .                                                      momentum of the electron will be changed by some
+   The distinction between experiments which satisfy           unknown increment in the range d=sine(V^)- Note
+and which violate the uncertainty principle can be             that this experiment is not an example of simultaneous
+clarified with the help of the concepts of state preparation   measurement of x and px. Only x is measured here.
+and measurement; the distinction between these having             Suppose now that we have a state preparation
+been emphasized by Margenau (1958, 1963) and by                apparatus which will produce an ensemble of electrons
+Progovecki (1967).                                             with a negligible spread in momentum (i.e., Apxtt0 ).
+   State preparation refers to any procedure which will        Suppose that we try to select from this ensemble a
+yield a statistically reproducible ensemble of systems.        sub ensemble which has as small as possible a spread
+The concept of state in quantum theory (see Sec. 1.3)          Ax. We do this by measuring the x coordinate of each
+can be considered operationally as an abbreviation for a       particle and selecting those which fall within the
+description of the state preparation procedure.7 Of            minimum resolvable range 8x of a particular value, say,
+course there may be more than one experimental                 xr. Thus our sub ensemble will have a spread
+procedure which yields the same statistical ensemble,
+i.e., the same state. An important special case (which is                             Ax=X/sine.                     (3.5)
+sometimes incorrectly identified with measurement)
+is a filtering operation, which ensures that if a system       Because the recoil momentum absorbed by an electron
+passes through the filter it must immediately afterward        may vary, the spread in momentum among the members
+have a value of some particular observable within a            of this sub ensemble will be
+restricted range of its eigenvalue spectrum.                                       Apxt t sin e (h /\).              (3.6)
+   On the other hand, measurement of some quantity R
+for an individual system means an interaction between          Hence the ensemble which we have selected will have
+the system and a suitable apparatus, so that we may            statistical dispersion of magnitude AxApxtth .
+infer the value of R (within some finite limits of                Contrast the above result with the experiment
+accuracy) which the system had immediately before              illustrated in Fig. 3. In this case we are able to determine
+the interaction (or the value of R which the system            the values of the position and momentum of a particle
+would have had if it had not interacted, allowing for the      to an accuracy 8y8py<£h. But this information refers to
+possibility that the interaction will disturb the system).     the motion of the particle during a certain interval
+   The essential distinctions between the two concepts         before the measurement. We cannot use it to generate
+are that state preparation refers to the future, whereas       an ensemble of particles with statistical spreads
+measurement refers to the past; and equally important,         AyApy<<S%because the scattering of the particles by the
+that measurement involves detection of a particular            detector will cause a spread of momentum in the final
+system, whereas state preparation provides conditional         ensemble, ApfS>8py. If we try to avoid this scatter by
+information about a system if it passes through the            removing one of the detectors from the array at the
+apparatus.                                                     plane x= x2, and inferring from a negative response of
+   The statistical dispersion principle (3.2, 3.3), which      all the remaining detectors that the particle passed
+follows from the formalism of quantum theory, is a             through the hole, then the momentum spread of the
+statement about the minimum dispersion possible in             ensemble formed in this way will not be 8py (the error of
+any state preparation. It is significant that experiments      measurement described above). Rather it will be
+which satisfy the uncertainty principle can be employed        Apytt8y/% (due to diffraction effects). The spread of
+as state preparations, whereas experiments which               particle positions in the ensemble will be Ay£^<5y (the
+violate the uncertainty principle cannot.                      size of the hole), and so the statistical dispersion
+    Consider, for example, Heisenberg’s (1930, p. 21)          principle will be satisfied.
+                                                                  In conclusion, the uncertainty principle restricts the
+  7 Lamb (1969) has described an idealized method of preparing degree of statistical homogeneity which it is possible to
+an arbitrary single-particle state.                            achieve in an ensemble of similarly prepared systems,
+                                                       L. E. B allentine   Statistical Interpretation of Quantum Mechanics      367
+
+
+and thus it limits the precision which future predictions       (3.2) (Messiah, 1964, p. 319),
+for any system can be made. But it does not impose
+                                                                                   AA AE>^% | d(A)/dl |,                      (3.9)
+any restriction on the accuracy to which an event can
+be reconstructed from the data of both state preparation        where A is an arbitrary observable, and the averages
+and measurement in the time interval between these              are calculated for an arbitrary time-dependent state.
+two operations. Heisenberg (1930, p. 20) made nearly            If one defines a characteristic time for the system and
+this distinction in his statement, “ • • • the uncertainty      the state as
+relation does not refer to the past.” His subsequent                         t — min^) {AA | d(A)/dt |'_1},       (3.10)
+remark, “It is a matter of personal belief whether • • •
+the past history of the electron [as inferred from an           then one may write
+experiment like that of Fig. 3] can be ascribed any                                        rAE>yh.                           (3.11)
+physical reality or not,”—based on the fact that it
+cannot be reconfirmed by any other future measure­              Clearly this result does not imply that one cannot
+ment, seems unduely cautious. In fact, the majority of          measure the energy of a system exactly at an instant of
+real physical measurement are of just this type. Indeed         time, as is sometimes stated, but rather that the spread
+for every future oriented experimental operation which          of energies associated with any state is related to the
+yields verifiable information, there must be another            characteristic rate of change associated with the same
+past oriented operation whose function is not to be             state.8
+verifiable but to verify (Popper, 1967, pp. 25-28). It
+is just this essential fact which is emphasized by the                 4. THE THEORY OF MEASUREMENT
+distinction between state preparation and measurement.             The desirability of an analysis of the measurement
+                                                                process by means of quantum theory was perhaps first
+  3.3 Angular and Energy-Time Relations
+                                                                indicated through Bohr’s insistence that the “whole
+   An apparent contradiction of the uncertainty prin­           experimental arrangement,” (Bohr, 1949, p. 222),
+ciple, which is frequently rediscovered by bright               object plus all apparatus, must be taken into account
+students, concerns the polar angle ip and the z component       in order to specify well-defined conditions for an
+of angular momentum Lz. If Lz is represented by                 application of the theory. However he never carried
+—ihd/dipy then it would appear that \jp, Lz] = ifty from        this program to its logical conclusion; the description of
+which it would follow that                                      both the object and the measuring apparatus by the
+                                                                formalism of quantum theory. Such an analysis is
+                AipALz>%/2      (wrong).                (3.7)   useful for several reasons.
+                                                                   It has frequently been asserted that the acts of
+But (3.7) is obviously wrong since AL z can be arbitrarily      measurement or observation play a different role in
+small, and <phas a meaningful range of only 2w radians;         quantum theory than in the rest of physics. Such
+hence, A(p<2ir.                                                 claims should be critically analyzed.
+  The resolution of the apparent paradox, as pointed               Because the measurement apparatus usually
+out by Judge and Lewis (1963) and by Susskind and               (always?) contains a final stage to which classical
+Glogower (1964), lies in the observation that the               mechanics is applicable, the measurement of a auantal
+operator ~ifi(d/dip) is Hermitian only on the space of          (i.e., essentially nonclassical) object by such an
+functions of <pwhich have period 2t , and multiplication        apparatus involves the union of micro and macrophysics
+by ip destroys this periodicity property. In order to           in an essential way. Any proposed revisions at the
+deduce a correct uncertainty relation, one must replace         microscopic level, of the concept of physical reality or
+the coordinate ip by some periodic function. This can be        of the role of the observer will meet a critical test here.
+done in many ways but the most convenient seems to be           It is widely believed that Ehrenfest’s theorem (Messiah,
+the use of cos <p and sin ip (Carruthers and Nieto,             p. 216) proves the consistency of quantum theory with
+1968), from which it can be shown that                           the classical limit, but this is only partly true. Ehrenfest’s
+(AL^)2[(A cos ip)2+ (A sin ip)2]                                theorem demonstrates that the average values of
+                                                                observables obey the classical equations of motion
+                   > (ft/2)2((sin <p)2+ (cos <p)2) .    (3.8)   provided the quantum state function is such that
+                                                                statistical deviations of the basic observables (co­
+   The derivation of the energy-time uncertainty                ordinates and momenta) from their averages are
+relation cannot follow the standard form (3.2) because          negligible. But this leaves open the question of whether
+time is not usually represented by an operator. In fact         or not the state of a macroscopic object coupled to
+one can show (Susskind and Glogower, 1964) that, if the         microscopic objects, as calculated from the quantal
+energy spectrum has a lower bound, then there does              equation of motion for realistic but general initial
+not exist a Hermitian operator which is canonically
+conjugate to the Hamiltonian in the sense of (1.8).               8 After completion of this manuscript, a paper by Allcock (1969)
+However, the following result can be deduced from               containing a fuller discussion of energy-time relations appeared.
+conditions, will necessarily possess this property. As           thogonality of the final states corresponding to different
+will be shown, this appears not to be so in the case             r values is guaranteed by the fact that ar^ a r, for
+of measurement.
+   It is not the compatibility of the classical and quantal        Suppose now that the initial state of the object is
+equations of motion (in the appropriate limit) which             not an eigenvector of R, but rather some linear com­
+concerns us but rather the compatibility of the classical        bination
+and quantal concepts of state. Thus an analysis of                              |I;* > = E |I ;r > < r|* > .     (4.2)
+measurement will be very helpful in deciding the ques­                                        r
+
+tion raised in Sec. 1.2, that is whether a quantum state          From (4.1) and the linearity of the equation of motion,
+describes an individual system (object plus apparatus             the final state for the system must be
+in this case), or whether it must refer only to an                             U\I;t)\II; 0 > = X > | *> 11;      4>r)| II; a,)
+ensemble of systems.                                                                          r
+
+  4.1 Analysis of the Measurement Process                                                = | I + I I ;/ ) , say.        (4.3)
+                                                                 A specific illustration of this general analysis is provided
+  The essence of a measurement is an interaction                 by the EPR experiment discussed in Sec. 2.1. We may
+between the object to be measured and a suitable                 consider the measured quantity R to be the spin of
+apparatus so that a correspondence is set up between             particle 2, and the “pointer” of the apparatus to be the
+the initial state of the object and the final state of the       momentum of particle 1 (assuming that two detectors
+apparatus. This interaction may or may not change the            are placed so as to determine its sign).
+value of the observable being measured, the final state             According to the Statistical Interpretation and F5
+of the object being of no significance to the success of         of the formalism, the probability of the apparatus
+the measurement.                                                 “pointer” being ar at the end of an experiment is
+   Suppose we wish to measure the observable R of the            j (r | \p) |2. That is to say, if the experiment were
+object I, for which there must be a complete set of              repeated many times, always preceded by the same state
+eigenvectors,                                                    preparation for both object and apparatus, the relative
+                    R 11;r) = r | I;r>.                          frequency of the value ar would be | {r | \//) |2. That this
+Denote a set of states for the apparatus II by | II; a),         should be identical with the probability of the object
+where the eigenvalue a is the appropriate “pointer               having had the value r for the dynamical variable R
+position” of the apparatus, and | II; 0) is the initial          immediately before interacting with the apparatus II,
+premeasurement state. The interaction between the                is just the criterion that II functions as a measuring
+object and the apparatus ideally should, if it is to             apparatus for R.
+function as a measurement, set up a unique corre­
+spondence between the initial value of r and the final              4.2 The Difficulties of the “Orthodox” Interpretation
+value of a, ar, for example. That is, if the initial state              The discussion of the analysis of measurement
+for the system I + I I is | I; r) | II; 0), then the equation        according to the Statistical Interpretation was so simple
+of motion must lead to the final state                               and natural that further comment almost seems
+                                                                     redundant. But if instead of the basic assumption of the
+               U | I; r> | II; 0>= | I; r) | II; ar\        (4.1a) Statistical Interpretation that a state vector char­
+if the observable R is not changed by the interaction9-10; acterizes an ensemble of similarily prepared systems,
+or in the general case                                               one assumes that a state provides a complete description
+                                                                     of an individual system, then the situation is quite
+              J7 11; r> | II; 0>= | I; fr) | II; ar),       (4.1b) different. Unfortunately this assumption has been
+                                                                     made so frequently, more often tacitly than not, that
+where U is the time-development operator for the it and the resulting point of view have come to be
+duration of the interaction between I and II. Note that considered “orthodox”.
+the vectors |I;<£r) need not be orthogonal since or-                    The “orthodox” quantum theory of measurement
+                                                                     was formalized by J. Von Neumann (1955) and has
+   9 Many authors give the unwarranted impression that this
+highly special case is general.
+                                                                     been clearly reviewed by Wigner (1963). The first
+   10Araki and Yanase (1960) have shown that unless R com­           difficulty encountered is that if one tries to interpret the
+mutes with all universal additively conserved quantities, then       final-state vector (4.3) as completely describing one
+no interaction exists which could satisfy (4.1a). However, they
+also show that this equation can nevertheless be satisfied to an     system (object plus apparatus), then one is led to say
+arbitrary degree of accuracy, provided the apparatus is made         that the pointer of the apparatus has no definite posi­
+arbitrarily large. This fact is illustrated in the measurement of    tion, since (4.3) is a coherent superposition of vectors
+the z component of spin by a Stern-Gerlach apparatus (Sec.
+2. 1) , which used an external magnetic field to break the conser­   corresponding to different values of a. But the pointer
+vation of Sx and S y. The source of this magnetic field is rigidly   can be a quite classical object and it makes no sense to
+fixed to the earth, and so the apparatus is effectively infinite, as
+it must be to satisfy the theorem of Araki and Yanase. See also      say that it has no position at any instant of time,
+Yanase (1961).                                                       especially since the different values of ar are macro-
+                                                      L. E. B allentine   Statistical Interpretation of Quantum Mechanics   369
+
+
+scopically distinguishable. Thus if we attribute the                  Neumann introduced the observer III, who supposedly
+state vector to an individual system, we are inevitably               performs a “measurement” on I + I I (this “measure­
+led to classically meaningless states for a classical                 ment” however is merely an observation), and thus
+object.11                                                             reduces the state vector to (4.4) or (4.4'). He then
+   To circumvent this difficulty, the “orthodox” theory               shows that it makes no difference whether the apparatus
+assumes that, in addition to the continuous evolution                 II is considered to be part of the observer or part of the
+of the state vector according to the equation of motion,              object being observed.
+there is also an unpredictable discontinuous “reduction                  Von Neumann's theory of measurement is very
+of the state vector” upon “measurement,” from (4.3) to                unsatisfactory. It suggests that the passive act of
+                                                                      observation by a conscious observer is essential to the
+                         I !;<£>•') I I I ; oL
+                                             r') , ( 4 . 4 )          understanding of quantum theory. Such a conclusion is
+where aT> is the pointer position which is actually without foundation, for we have seen that the Statistical
+observed. Proponents of this point of view also usually Interpretation does not require any such considerations.
+assume that the value of the observable R is not Moreover, the atoms of the observer's body may, in
+changed by measurement, so that in place of (4.4) principle, be treated by quantum theory, and the
+they would obtain                                                     resulting state vector will be similar to (4.3) (with
+                                                                      I replaced by I + I I , and II replaced by III). Von
+                          11; O I ii; <*,')>                  (4.4')
+                                                                      Neumann's theory would require another hypothetical
+but this point is not essential. The word “measure­ observer IV to observe III, and so reduce the state
+ment” is enclosed in quotes because its use in this vector. But this can only lead to an infinite regression,
+peculiar context of the “orthodox” theory is not which, in an earlier era might have been taken as a
+equivalent to the more physical definition of measure­ proof of the existence of God (the Ultimate Observer) I
+ment given in Sec. 3.                                                 No one seems to have drawn this unfounded conclusion,
+    It should be emphasized that this reduction cannot but the equally unfounded conclusion that the con­
+arise from the equation of motion. The form of (4.3), sciousness of an observer should be essential to the
+involving a superposition of macroscopically distinct theory has, unfortunately, been taken seriously
+pointer positions, depends only upon the linearity of the (Heitler, 1949, p. 194; Wigner, 1962).
+equation of motion and not upon any of our simplifying                   Because of the difficulties inherent in the projection
+assumptions. For example, one might object that the postulate, we must critically examine the reasons given
+pointer position eigenvalue a is not sufficient to label a in support of its introduction. Dirac (1958, p. 36)
+unique state vector for the apparatus, since there are a argues that a second measurement of the same ob­
+huge number of commuting observables. But this servable immediately after the first measurement
+means only that each vector | II; a) must be replaced must always yield the same result. Clearly this could
+by a set of vectors, all the sets being mutually or­ be true at most for the very special class of measure­
+ thogonal. Komar (1962) has shown that even with ments that do not change the quantity being measured.
+ these extra degrees of freedom, a final state of the form A statement of such limited applicability is hardly
+ (4.4) is not possible.1     12 If the reduction of the state vector suitable to play any fundamental role in the foundations
+ is to enter the theory at all, it must be introduced as a of quantum theory. In fact this argument is based on
+ special postulate (often called the projection postulate). the implicit (and incorrect) assumption that measure­
+     If one merely applied the projection postulate to the ment is equivalent to state preparation, the contrasting
+ object I, one would say that upon “measurement” the definitions of which were given in Sec. 3. The necessity
+ state changes discontinuously from (4.2) to 11; r')y for distinguishing between these two concepts has been
+ where rf is the “measured” value of the observable R . pointed out by Margenau (1958; 1963). For example,
+ On the other hand, the analysis of the interaction a polaroid filter placed in the path of a photon beam
+ between the object I and the apparatus II leads to the constitutes a state preparation with respect to the
+ state (4.3). To avoid a direct contradiction, Von polarization of any transmitted photons. A second
+                                                                       Polaroid at the same angle has no further effect. But
+    11 This was first pointed out by Schrodinger (1935), who pro­      neither of these processes constitutes a measurement.
+ posed the following hypothetical experiment. A cat is placed in
+ a chamber together with a bottle of cyanide, a radioactive atom,      To measure the polarization of a photon one must also
+ and a device which will break the bottle when the atom decays.        detect whether or not the photon was transmitted
+ One half-life later the state vector of the system will be a super­   through the polaroid filter. Since the detector will
+ position containing equal parts of the living and dead cat, but
+ any time we look into the chamber we will see either a live cat       absorb  the photon, no second measurement is possible.
+ or a dead one. A literal translation of “Schrodinger’s cat paradox”,    It has also been claimed (Messiah, 1964, p. 140) that
+ as this is called, has been given by Jauch (1968, p. 185), but his    a discontinuous reduction of the state vector is a
+  discussion of the paradox is not adequate, and his volume and
+ page reference is incorrect.                                          consequence of an alleged uncontrollable perturbation
+    12 His conclusion that no theory consistent with quantum me­       of the object by the measuring apparatus. A counter
+  chanics can account for the occurrence of events in nature, how­
+  ever, is not true if one drops the assumption that a state vector    example to this claim is provided by the EPR experi­
+  describes completely an individual system.                           ment (Sec. 2.1), in which the spin of particle 2 is
+measured indirectly, without any disturbance of that interaction between the object I and .the apparatus II,
+particle whatsoever. In general the apparatus will the final state operator for the combined system I + I I
+interact with the object, but the effect of this is not will be the pure state
+such as to bring about the hypothetical reduction. We
+do not consider as credible the occasional statement                        p/= I i + H ; / ) ( i + i i ; / l >            (4.5)
+ (Dirac, 1958, p. 110) that a mere observation (i.e., an
+experimenter looking at his apparatus) could affect the                I i + H ; / ) = Z a 11; <£r> | II;            oir),(4.3')
+                                                                                       r
+state of the system in a manner incompatible with the
+equation of motion.                                       where cr= (r\\p) in the notation of (4.3). Now the
+   Although it is not essential to the theory, Popper mixed state formed f r o m v e c t o r s of the type (4.4),
+ (1967) has pointed out that the reduced state vector                    k |211; <!>,) | II; ar)(I; <f>r | <11; «r I (4.6)
+ (4.4) can be interpreted in a natural way. According                r
+to the Statistical Interpretation, the state vector (4.3) is not equivalent to p/. Even though they both yield the
+represents, not an individual system, but the ensemble same probability distribution for the position of the
+of all possible systems (object plus apparatus), each of apparatus “pointer” a, their predictions for other
+which has been prepared in a certain way and then observables may disagree.13 Because time development
+allowed to interact. The state vector (4.4) represents is effected by a unitary transformation (1.7a), which
+the subensemble whose definition includes the additional preserves the pure state condition p2= p, it is impossible
+specification that the result of the measurement (pointer for the pure state (4.5) ever to evolve into the mixed
+reading) be ar>. There is no question of reduction of the state (4.6).
+state vector being a physical process.                       Realizing this fact, many authors (Feyerabend, 1957;
+   Margenau (1963, p. 476) has taken a more sym­ Wakita, 1960, 1962; Daneri et al., 1962; Jauch, 1964)
+pathetic attitude toward Von Neumann’s theory of have proposed that, nevertheless, (4.5) and (4.6) may
+measurement on the grounds (gathered from personal be equivalent for all practical purposes. Specifically,
+conversation) that he regarded his projection postulate they suggest that if the macroscopic nature of the
+as convenient but not necessary. In reply I would say apparatus and its relevant observables are taken into
+that I find no evidence of this interpretation in Von account, then the average of any macroscopic ob­
+Neumann’s writings. Moreover, the great amount of servable M will be the same for these two states. With
+confusion generated, as well as the theoretical effort the abbreviated notation | <j>r, ck)= 11; <j>r) | II; a), these
+expended trying to explain the reduction of the state averages are, respectively,
+vector, suggest that the projection postulate has been
+much more of an inconvenience than a convenience.                 Tr (p/M) =                           cT-cr*{fa <v), (4.7)
+                                                                                        r ,r '
+  4.3 Other Approaches to the Problem of
+     Measurement                                                         Tr (pmM) = X) I Or |2k , 0LVI M I (hr, ar).          (4.8)
+                                                                                         r
+   An enormous number of papers have been written on             The problem is then whether these expressions are equal
+the problem of measurement in quantum theory.
+                                                                 under sufficiently general circumstances.
+Margenau (1963), lists over 60 separate articles, and
+                                                                    Now if M commutes with A (the pointer position,
+promises a list of about 200 on request. The reader can
+                                                                 whose eigenvalues are ar), it will be diagonalizable in
+shorten his task greatly by ignoring all papers which
+                                                                 this representation, and the interference terms (r^r')
+try, without modifying quantum theory, to accomodate
+                                                                 will be absent from (4.7). Hence the two expressions
+a reduction of the state vector, and which also assume the
+                                                                 will be equal. However, (contrary to Jauch’s assump­
+state vector to describe an individual system. The
+                                                                 tion) the set of macroscopic observables is not Abelian
+preceding arguments have demonstrated the impossi­
+                                                                 (consider the pointer momentum, which does not
+bility of such programs.
+                                                                 commute with A), so the macroscopic nature of M is
+   Bohm and Bub (1966) propose a nonlinear modifica­
+                                                                 not sufficient to guarantee equality of (4.7) with (4.8).
+tion of the Schrodinger equation of motion which is
+                                                                    In the case where the observable M belongs entirely
+supposed to be effective only during the measurement
+process, and which causes the reduction. However we                13 A proof of this fact is contained in a paper by Furry (1936).
+do not consider that the postulation of a new interaction        But his comments on the work of Einstein, Podolsky, and Rosen
+peculiar to measurement should be taken seriously.               (Sec. 2) are based upon a misconception. Furry interprets the
+                                                                 EPR conclusion that certain dynamical variables such as o-2Zin
+Moreover, the simplicity of the account of measure­              our Eq. (2.6) are elements of reality, as meaning that the state
+ment provided by the Statistical Interpretation under­           of the system after interaction between the object and the appa­
+mines the motivation for any drastic modification of             ratus is a mixture of eigenstates of the element of reality ; i.e , a
+                                                                 mixed state related to (2.6) in the same way as (4.6) is related
+the mathematical formalism.                                      to (4.5). But EPR do not claim that the equation of motion
+   To discuss the next approach it is convenient to              yields the wrong quantum state, as Furry has misinterpreted
+                                                                 them, but rather that no quantum state, pure or mixed, can
+restate the results of our analysis in the language of           provide a complete description of an individual system. This
+state operators (or statistical operators). After the            makes Furry’s argument irrelevant.
+                                                       L. E. B allentine    Statistical Interpretation of Quantum Mechanics     371
+
+to the measurement apparatus II (i.e.; if M= 1(8)Mu) ,14 (1968, p. 169), if the measuring device is a photographic
+then                                                         plate, then the essence of measurement may be per­
+                                                             formed by a single silver-halide complex. The am­
+(4>r, Oir I M | 4>r', 0Lr' )                                 plification process does not take place until the plate is
+              = (I; <#>r 11; <M<H; ar | M u | II; cv). (4.9) developed, which may be months later. Although
+                                                             interesting in its own right, the DLP theory does not
+Thus if the states |I;</v) are mutually orthogonal, answer the questions which lead us to study the theory
+which would be true, in particular, if the measurement of measurement.
+of R did not change the value of R, (| I; <j>r) then becomes
+| I; r )) , then there would be no difference between           4.4 Conclusion—Theory of Measurement
+ (4.7) and (4.9). Clearly a similar result holds for            This section on measurement theory is lengthy
+observables belonging entirely to the object I, but of because of the great length of the literature on this
+course no such result is valid for observables which subject. However, the conclusions are quite simple. The
+belong to I and II jointly.15                                formal analysis of a measurement has been undertaken
+   Daneri, Loinger, and Prosperi (1962, 1966) (DLP) not for its own sake, but only to test the consistency of
+consider the pure state (4.5) or equivalently (4.3) to alternative interpretations of quantum theory. Using
+be the final state of the combined system immediately only the linearity of the equation of motion and the
+after interaction between the object and the apparatus. definition of measurement, we see that the interaction
+They then concentrate on the amplification aspect of between the object and the measuring apparatus leads,
+the measurement necessary for a microscopic object to in general, to a quantum state which is a coherent
+trigger a macroscopic response in the apparatus, and superposition of macroscopically distinct “pointer
+invoke the ergodic theory of quantum statistical positions.” In the Statistical Interpretation this dis­
+mechanics in order to treat the transition of the appa­ persion of pointer positions merely represents the
+ratus from its initial “metastable”16 condition to frequency distribution of the possible measurement
+equilibrium. They claim, in essence, that the equilib­ results for a given state preparation.
+rium state can be represented by the mixed state                But if one assumes that the state vector completely
+operator (4.6).                                              describes an individual system, then the dispersion
+   The attitude of DLP is well expressed in the words of must somehow be a property of the individual system,
+ Rosenfeld (1965, p. 230), who endorses their approach: but it is nonsensical to suppose that a macroscopic
+ “The reduction of the initial state of the atomic system pointer has no definite position. None of the attempts
+has nothing to do with the interaction between this to solve this problem using some form of reduction of
+ system and the measuring apparatus: in fact, it is the state vector are satisfactory. No such problem arises
+ related to a process taking place in the latter apparatus in the Statistical Interpretation, in which the state
+ after all interaction with the atomic system has ceased.” vector represents an ensemble of similarily prepared
+ Rosenfeld also emphasizes the view that the presence or systems, so it must be considered superior to its rivals.
+ absence of a conscious human observer is irrelevant to         We have neglected the frankly subjective inter­
+ the problem.17                                              pretation (Sussmann, 1957; Heisenberg, 1958), ac­
+    The above remarks show that DLP and Rosenfeld cording to which the quantum state description is not
+ explicitly reject the “orthodox” interpretation discussed supposed to express the properties of a physical system
+ in Sec. 4.2 (as does the present author), but they do so or ensemble of systems but our knowledge of these
+ without actually confronting the question of whether properties, and changes of the state (such as the sup­
+ the state operator (or vector) represents a single system posed reduction of state during measurement) are
+ or an ensemble of similarily prepared systems.               identified with changes of knowledge, not so much
+    The analysis of generalized quantum amplification because it is wrong as because it is irrelevant.18One can,
+ devices by DLP is interesting and correct, at least to of course, study a person’s knowledge of physics rather
+ the extent that their ergodic hypothesis is valid. But it than studying physics itself, but such a study is not
+ does not constitute the essence of measurement in germane to this paper. For example, someone’s knowl­
+ general. To paraphrase an example given by Jauch edge of a certain system can change discontinuously as
+                                                              a result of a blow to the head which causes amnesia,
+   14The tensor product notation A ® B means that A operates
+ on the 11) vectors, and B operates on the | I I ) vectors.   as well as through the receipt of new information from a
+  15 This illustrates the fact that the state of a two-component
+system cannot be uniquely determined by measurements on each          18   Another area in which the subjective interpretation causes
+component separately. Jauch (1968, Secs. 11-7 and 8) gives a       confusion is the relationship between entropy and information.
+good discussion of the mathematical aspects of this problem, and   It is true that the aquisition of information requires a corre­
+in particular of the tensor product formalism.                     sponding increase of entropy (Brillouin, 1962); hence the associa­
+   16 As pointed out in DLP (1966), this is not necessarily the    tion of information with negative entropy is useful. But the con­
+thermodynamic definition of metastability.                         verse proposition that entropy is nothing but a measure of our
+   17 On this point Rosenfeld seems to have modified his earlier   lack of information is a fallacy. Entropy also has a thermody­
+views, as expressed in a discussion exchange with Viger (see       namic meaning, d S = d Q /T , which is valid regardless of the exist­
+Korner, 1957, pp. 183—6).                                          ence or nonexistence of Maxwell’s demon.
+  372     R eviews of M odern P hysics • October 1970
+
+ measurement, although the subjectivists tend to ignore                  from which, by a Fourier inversion, we obtain,
+ the former while stressing the latter.
+                                                                         P(<L P;t)
+        5. JOINT PROBABILITY DISTRIBUTIONS
+                                                                          = (27r)“2//M (0, X; \p) exp [ —i(6q-\-\p)] ddd\.     (5.7)
+    In contrast to the previous sections, which were
+ concerned entirely with interpretation of the existing                 As long as the moments (qn) and (pm) are given by
+ formalism (summarized in Sec. 1.1), this section and                    (5.5), then (5.7) will automatically satisfy (5.1) and
+  the next consider possible extensions of the formalism.                (5.2)•
+ These will not be modifications of the established                        The difficulty now evident is that that there is no
+ formalism, but additions to it which are compatible                    unique way in which to take products of noncommuting
+ with both the established formalism and the Statistical                operators. For example q2p2 may be represented by
+ Interpretation.                                                        h(q2p2+V2qr),     \ (qp+pq)2,U m p+pqpq), or any of
+    As discussed in Sec. 3 with regard to the uncertainty               several other forms. In these examples we have already
+ principle, quantum theory is not inconsistent with the                 used the additional plausible restrictions that the
+ supposition that a particle has at any instant both a                  product be a self-adjoint operator, and that it be sym­
+ definite position and a definite momentum, although                    metric under interchange of q and ft. Shewell (1959)
+ there is a widespread folklore to the contrary. Of course              has considered several correspondence rules which have
+ we are not compelled either to accept or to reject this                been proposed, and found none to be fully satisfactory.
+ supposition, but it is of interest to explore it on a                  Some of the rules do not yield a unique operator, while
+ tentative basis.                                                       others yield an operator for a power of the Hamiltonian,
+    Our first problem is to construct, for the noncom­                  [_H(q, p)~]n, which is not equal to (H )n. Each such
+ muting observables q and p, a joint probability dis­                   possible choice will yield a different joint probability
+ tribution P(q, p;\p) for any state | \p),19 such that the              distribution which satisfies (5.1) and (5.2).
+ single variable distributions constructed from it agree                   If one chooses
+ with the established formalism, i.e.,
+                                                                                    exp [‘i(6qA~Xp) ] —>exp (idq-\-iXft),    (5.8a)
+            SF (l> P'>P)                             dp=P(q; = |        |or equivalently
+                                                                             |2,   (5.1)
+            fP(q,P; *)         dq=P(p; = |             |2. (5.2)                                     n (n\
+ Additional conditions will be considered later.                                         qnpm_^2- n I )qn~lftmq\             (5.8b)
+                                                                                                    z=o \l 1
+    Let us first consider the method by which the single
+ observable probability distribution function can be                    then one obtains (Moyal, 1949)
+ constructed. The characteristic function for the dis­                   p(?, p a )
+ tribution of an arbitrary observable A is given by
+                                                                              = (2-n-)-1/(V' I q—hr%) exp (—        {q+\rh \ p) dr,
+                       M(£-,p) = p(ex (i£A))
+                                                                                                                      (5.9)
+                       = /e x p                      atA )P (A (5.3)
+                                                                    which was first introduced by Wigner (1932). Because
+hence P (A ; xp) is equal to the inverse Fourier transform
+                                                                    this expression may become negative it cannot be
+of M (£; p) . By expanding the exponential
+                                                                    interpreted as a genuine probability distribution, and
+                               00 (iP)n                             Wigner proposed it only as a calculational device.
+                                   M ( f , P ) = j : — (5.4) Another distribution which suffers from the same defect
+                             » -0   n\
+                                                                    has been derived by Margenau and Hill (1961) using
+we see that a knowledge of the characteristic function is
+                                                                    the correspondence
+equivalent to a knowledge of all the moments of the
+distribution. According to the formalism (see F4),                                   qnpm~*\ (qnftm+ftmqn) •        (5.10)
+these are given by20*
+                                                                      Since every correspondence rule which associates an
+   {An)= (p|                      A n|                     p).(5.5) operator with a classical function of q and p,
+  By analogy we may introduce a characteristic
+                                                                                            g(q,p)->6(q,p),                  (5.11)
+function for the joint probability distriubtion
+                                                                        provides a joint probability distribution, it is possible to
+            M{e, \-,p) =
+                             n,m=0    n\m\
+                                                 <<TPm>,       (5.6)    formulate the most general form of P(q> p;p) which
+                                                                        will satisfy (5.1) and (5.2). We refer to the original
+    19 We shall consider only pure states since these illustrate the    papers for details (Cohen, 1966; Margenau and Cohen,
+ essential problems. The generalization to mixed states is straight­    1967). These authors investigated the possibility of
+ forward.                                                               constructing a joint probability distribution such that
+    20 In this section it is necessary to distinguish between a phys­
+ical observable and the mathematical operator which represents
+it. The operators will be distinguished by a circumflex.                   (P\G(q,p) \P)=ffg(q,p)P(q,p;P) dqdp,              (5.12)
+                                                         L. E. B alt.entine   Statistical Interpretation of Quantum Mechanics   373
+
+and also such that for any function K                                  Here I is some constant with dimensions of length
+(* I          p) ) | *>= / / * ( ? ( ? , p)        fi; +) dqdp.        (interpreted by Bopp as the finest accuracy of a
+                                                                       position measurement).
+                                                            (5.13)        The problem of defining a satisfactory joint proba­
+In other words, they asked whether there exists a joint bility distribution for position and momentum may not
+probability distribution such that the averages of all be entirely mathematiced, for we must also decide on
+observables can be calculated by a phase-space average “the empirical definition of the concept ‘simultaneous
+as in classical statistical mechanics.21                               values of position and momentum/ ” according to
+   Their answer was negative. Although it is always Prugovecki (1967). To this end he studies various
+possible to satisfy (5.12), (5.13) could be simul­ operational methods of measuring both these observables
+taneously satisfied only if the correspondence                         simultaneously on the same individual system, not
+                                                                       merely on different individual systems representative of
+                                       K(g(q,p))-+K(.G(q,p))(5.14) the same state preparation. He suggests that the
+can be satisfied for all functions K with the same irreducible errors in individual measurements ought to
+correspondence rule as that leading to (5.11). This be taken into account in a generalized formalism (in
+they prove to be impossible.22 With the wisdom of addition to the statistical fluctuations in an ensemble of
+hindsight, we should not be surprised that (5.12) and similar measurements, which are treated in the estab­
+(5.13) cannot be satisfied, for if it were otherwise, then lished formalism). It should be emphasized that
+quantum mechanics could be expressed as a special simultaneous measurement of noncommuting ob­
+case of classical mechanics.                                           servables, even with a finite precision, has no counter­
+   To deal with simultaneous values of position and part in the established formalism which treats only
+momentum variables in a logically consistent fashion measurement of a single observable (or a commuting
+we need only require that a joint probability dis­ set of observables) .23 Now to experimentally determine
+tribution exists which satisfies (5.1) and (5.2), and                  a probability distribution, one must perform a number
+                                                                       of measurements and construct a histogram of the
+                        P(q,p-,t)>0                         (5.15) results (see Fig. 2). Each point on the curve will have a
+for all quantum states. These conditions are obviously vertical uncertainty due to the statistical uncertainty
+satisfied by the function                                              of using a finite sample, and a horizontal uncertainty
+                                                                       due to the error involved in a single measurement.
+                          P(q,P;t) =I <* I ?> I2 1 <>H          |2,(5.16)
+                                                                        (In the case of simultaneous measurement of q and p,
+but this form is probably not unique. Indeed, it cannot a single measurement would be a pair of numbers
+be applicable to scattering experiments (see Fig. 3), (q, p), and the error would be an area in the qp plane).
+where, merely by geometry, there must be a close If the latter cannot be reduced to zero, we cannot
+correlation between position and momentum at large determine a probability distribution exactly, even if we
+distances from the scattering center. The investigation eliminate statistical uncertainties by repeating the
+of possible joint probability distributions is clearly not measurement an arbitrarily large number of times.
+complete.                                                                 To deal with such a circumstance Prugovecki defines
+   Bopp (1956, 1957) has undertaken not only to a complex probability distribution, P^q'v{I{K h ), with
+represent quantum mechanics in terms of ensembles in the following properties: the real part of P represents
+phase space, but also to derive the statistical equations the probability that q will be in the interval, h and
+from simple principles—an a priori derivation—not simultaneously p will be in the interval 12, where
+merely a translation from the vector-operator formalism
+of quantum theory. Bopp’s work differs from the above                                     /i={X:gi<X<fc},
+in that his joint probability distribution does not satisfy                               /*= {v>'-pi<v<p2},                 (5.17)
+(5.1) and (5.2). Nevertheless, there is a definite relation
+between the averages calculated in Bopp’s theory and and the imaginary part of P represents the uncertainty
+those of quantum theory (denoted by subscripts B and associated with the previous statement. Certain
+Q). For example,                                                       conditions must be satisfied in order for this inter­
+                                                                       pretation to be sensible. Since q and p are certain to be
+                 {q)b = (q )q,        (p )b = (p )q,                   somewhere in their spectra, we must have R eP —»1,
+                (q2)B=(q*)Q+ l2/ 4,                                    and Im P—>0, as h and / 2 are enlarged to include the
+                                                                       entire spectra from —00 to + 00 . If / 1 and / 2 are smaller
+_________         (P2)b =(P*)q+W/P.                                    than the irreducible errors in a single measurement,
+  21 Because (5.1) and (5.2) are satisfied, this will clearly be
+true for any function of q only, or of p only.                        23 The naive interpretation (Matthews, 1968, Chap. 3) of the
+  22 It would seem inevitable that arbitrary functional relations   operator product      as corresponding to a measurement of B
+involving q and p cannot be preserved by any quantal operator       followed by a measurement of A is refuted by the example of the
+correspondence rule, since the equation qp—pq = 0 for classical     Pauli spin operators for which <rx(Ty—icrz. A measurement of <rv
+variables becomes qp—pq = ih in quantum theory. Clearly one         followed by a measurement of <rx is in no way equivalent to a
+cannot map zero onto ih in a consistent fashion.                    measurement of
+then Im P should be very large because one cannot            of quantum theory within its domain of definition (i.e.,
+determine whether or not a measured value of (q, p)          the calculation of statistical distributions of events)
+lies within such a small region of phase space, and          has no bearing on the existence of a broader theory
+therefore one cannot determine the relative frequency         (i.e., one which could predict individual events).
+(probability) of such an event. Of course the complex            The question of hidden variables has also been
+probability distribution must reduce to the real proba­      subject to a genuine confusion (i.e., not merely due to
+bility distribution of the established formalism in the      the conflicting personalities or metaphysical ideas of the
+case of commuting operators.                                 principal characters in the debate), for Von Neumann
+   The specific expression proposed by Prugovecki for        proved a theorem from which he concluded that no
+the complex probability distribution is                      hidden-variable theory could reproduce all of the
+                                                             statistical predictions of quantum theory. Although his
+         P ^ i E X h ) = (P | E ^ I M h ) | *>,    (5.18)    mathematical theorem is correct, his physical conclusion
+where E\ and E 2 are projection operators which project      is not, and the first example of a hidden-variable model
+onto the subspaces spanned by the eigenvectors of q          was published by Bohm (1952). However, a clear
+corresponding to the spectral interval / 1, and of p         analysis of the nature of Von Neumann’s theorem and
+corresponding to h, respectively. This form, although        its relation to hidden variables was not achieved until
+perhaps the most obvious choice, may not be satis­           much later (Bell, 1966), and the 14 year interval
+factory because he shows that for any nontrivial             between these papers yielded many inconclusive dis­
+intervals Ii and 12 there exist states for which Re P < 0,   cussions pro and con, as well as some “improved
+This would be tolerable if simultaneously we had a           proofs” of the impossibility of hidden variables. We
+large value for Im P , so that we could say that the         shall expound briefly the content of Von Neumann’s
+probability was not well defined in such a case. But in      theorem, and the reason why it does not rule out hidden
+fact one obtains Im P = 0 for that state which makes         variables in quantum theory. Other relevant theorems
+Re P most negative. Since a “well defined” but negative      will also be discussed.
+probability makes no sense, some modification of either          The Statistical Interpretation, which regards quan­
+(5.18) or the interpretation seems in order (such as,        tum states as being descriptive of ensembles of similarily
+perhaps, a restriction on the states \p which are to be      prepared systems, is completely open with respect to
+considered physically realizable). This objection does       hidden variables. It does not demand them, but it
+not necessarily invalidate the concept of a complex          makes the search for them entirely reasonable [this
+probability distribution, but the usefulness of such a       was the attitude of Einstein (1949)]. On the other
+distribution is yet to be determined.                        hand, the Copenhagen Interpretation, which regards a
+                                                             state vector as an exhaustive description of an in­
+               6. HIDDEN VARIABLES                           dividual system, is antipathetic to the idea of hidden
+                                                             variables, since a more complete description than that
+   Quantum theory predicts the statistical distribution      provided by a state vector would contradict that
+of events (i.e., the results of similar measurements         interpretation.
+preceded by a certain state preparation). But if the
+prepared state does not correspond to an eigenvector of      F" 6.1 Von Neumann’s Theorem
+the particular observable being measured, then the             Von Neumann’s mathematical theorem concerns the
+outcome of any individual event is not determined by         average of an observable, represented by a Hermitian
+quantum theory. Thus one is led to the conjecture that       operator, in a general ensemble subject only to a few
+the outcome of an individual event may be determined
+                                                             conditions. The original derivation (Von Neumann,
+by some variables which are not described by quantum         1955, pp. 305-325) is lengthier than necessary, and we
+theory, and which are not controllable in the state
+                                                             shall follow the more concise version given by Albertson
+preparation procedure. The statistical distributions of      (1961). Von Neumann makes the following essential
+quantum theory would then be averages over these
+                                                             assumptions which in his book are identified by the
+“hidden variables.”
+                                                             symbols in brackets:
+   The entirely reasonable question, “Are there hidden-
+variable theories consistent with quantum theory, and           (i) D] If an observable is represented by the
+if so, what are their characteristics?,” has been un­        operator P, then a function / of that observable is
+fortunately clouded by emotionalism. A discussion of         represented by f ( R ) .
+the historical and psychological origins of this attitude       (ii) [II] The sum of several observables represented
+would not be useful here. We shall only quote one ex­        by R, S, • • • is represented by the operator P + 5 + • • •,
+ample of an argument which is in no way extreme              regardless of whether these operators are mutually
+(Inglis, 1961, p. 4), “Quantum mechanics is so broadly       commutative.
+successful and convincing that the quest [for hidden            (iii) [p. 313, not identified] The correspondence
+variables] does not seem hopeful.” The vacuous charac­       between Hermitian operators and observables is one
+ter of this argument should be apparent, for the success     to one.
+                                                      L. E. B allentine       Statistical Interpretation of Quantum Mechanics   375
+
+    (iv) [A '] If the observable R is nonnegative, then            ensembles of systems with different values of the hidden
+ <*>>o.                                                            variables, but if all hidden variables were fixed, the
+   (v) [B'J For arbitrary observables R, S, • • • and              resultant subquantal ensemble would be dispersionless.
+ arbitrary real numbers a, b* • •, we must have                    That is,
+                                                                                         <(22-<*»*> = 0,                    (6.7a)
+            (aR+bS+ • • ) = a(R)+ b(S)+ • • •
+                        •                               ( 6 . 1)
+                                                                   or equivalently
+for all possible ensembles (or states) in which the                                          (R2)=(R)2,                    (6.7b)
+averages may be calculated.                                        for all observables R , since by hypothesis every quantity
+   An arbitrary Hermitian operator R may be written as             would have a unique value. Applying the result (6.5)
+                                                                   to (6.7b) for the case of R — | </>)(<£ |, where (<£ | <£)= 1,
+R= X I n)Rnm(m |                                                   yields
+    m,n
+                                                                                                           PPI
+                                                                                                           (<I <t>)= IPI <£)2          (6.8)
+    = Z U ^ R nn                                                   for all normalized vectors | 4>). This implies (4> | p j <£)= 1
+    n
+                                                                   or 0 for all | <£), and since this expression varies con­
+      + £        { V ^ R .e R „ m+ W ^ I m R mn}, (6.2)
+        m,n;m<.n                                                   tinuously with ! 4>), the constant—T or 0—must be the
+                                                                   same for all | <£). Hence we must have either
+where Rnm=Rmn* = (n | R | m) is a number, and
+                                                                                         p = l or p = 0                      (6.9)
+               EA»>= |»)< »|,
+                                                                for dispersion-free ensembles.
+             F (nm) = | n)(m | + |   |,                           The case p = 0 is ruled out because it would imply
+             W (nm)= —i(\n)(m\ — | m)(n |)              (6.3) (R) = 0 for all R in any subquantal ensemble, and so
+                                                                averages of these could never yield the correct averages
+ are Hermitian operators. According to assumption in quantum ensembles. The case p = 1 does not in fact
+  (iii) these operators are all to be regarded as observables, yield a dispersionless ensemble if the vector space is
+ and hence (ii) and (v) may be applied to obtain                greater than one dimensional. In this case
+  (R )= Z (U ^)R nn                                                                    (1)= Tr                         (6.10)
+         n
+      + £       {                (y&m)> ReRmn-)\- Im   (6.4) d being the dimensionality of the space (usually oo),
+                                                                and the left-hand side of (6.7a) becomes
+ This result may be rewritten as                                                   (R2)—2(R)2-\- (R)2(l)               (6.11)
+                (R)= £ pnJRmn= Tr (pi?),               (6.5) which is not zero. Thus Von Neumann concludes that,
+                        m,n
+                                                               provided his assumptions (i)-(v) are accepted, there
+ if we define the matrix elements of the statistical are no dispersion-free ensembles, and hence there can
+ operator p to be                                              be no hidden variables. Since these assumptions are
+           Pnn=(U^),                                           generally considered to be a part of quantum theory,
+                                                               he states “It is therefore not, as is often assumed, a
+           Pmn= h (v (nm))+ hi(W<»">)                          question of a reinterpretation of quantum mechanics,—•
+           Pnm=UV(nm)) - i i ( W ^ )       (m<n). (6.6) the present system of quantum mechanics would have
+Since the averages of observables are real, the operator to be objectively false •••,” in order for even hy­
+p is Hermitian by construction, and assumption (iv) pothetical hidden variables to beintroduced in a
+implies that it is nonnegative definite (($ | p | <£)>0 logically consistent fashion.
+for all <£).                                                      The above conclusion is incorrect, but before we dis­
+    This completes the theorem of Von Neumann, which           cuss   the reasons why, let us dispose of two minor
+may be summarized by saying that the statistical               points   of confusion. Albertson (1961, 1962) makes
+operator representation of states (F4 of our Sec. 1.1)         misleading    and incorrect statements to the effect that
+need not be introduced as a postulate, but may instead         Von   Neumann’s     theorem does not assume the existence
+be derived from assumptions (i) • • • (v). This theorem,       of noncommuting       observables, and that the theorem is
+which is clearly of interest outside of the question of        independent     of,  and   additional to, the uncertainty
+hidden variables, is discussed in more detail in Chapter       principle. But  the  assumption   (iii), which Von Neumann
+5 of Jordan (1969).                                            did  not distinguish   by any  symbol,   in effect assumes the
+    Hidden variables are, by definition, hypothetical          existence   of   an   infinite  number     of noncommuting
+variables whose values must be specified in addition to        observables,   and   this assumption     plays  a very central
+the values of a complete commuting set of observables role in the proof.24 If one assumed that all observables
+in order to uniquely determine the result of any meas­               24 Oddly enough, Jammer (1966) repeats Albertson’s incorrect
+                                                                   statement on p. 369, while on p. 370 he mentions Von Neumann’s
+urement on a system. Quantum states, with their                    assumption that every projection operator is an observable, with­
+characteristic statistical distributions, would represent          out being aware of the contradiction!
+were commutative, then a simultaneous eigenvector of        to construct a hidden-variable model which reproduces
+all the observables would represent a dispersion-free       the correct statistical distributions for quantum states,
+ensemble.                                                   as Bell showed by means of a simple example.
+   The second minor point concerns the observation             Bell also considers the relevance of some more recent
+that (iii) is trivially false if there are superselection   mathematical work by Jauch and Piron (1968) and by
+rules, which divide the full Hilbert space into coherent     Gleason (1957) to the problem of hidden variables, and
+subspaces such that no observable may have matrix           we refer the reader to his paper for very clear dis­
+elements between vectors of different subspaces and no      cussions. Although the mathematical theorems of Von
+physical state vector may be a superposition of vectors     Neumann and the above authors do not in fact exclude
+from different subspaces (Wick et al., 1952; Galindo        hidden variables from quantum theory, they are not
+et al.y 1962). But Von Neumann’s theorem can still be       entirely devoid of value. With proper analysis, such as
+proven in each coherent subspace individually, so the       Bell provided, they help to point out some of the
+question of superselection rules is irrelevant.             features which a successful hidden-variable model must
+                                                            possess.
+   6.2 BelPs Rebuttal                                          The work of Gleason (1957) is particularly interesting,
+  There is nothing wrong with the mathematics of            for he shows that the additivity assumption (6.1) for
+Von Neumann’s theorem. Nevertheless his conclusion          commuting observables only is incompatible with the
+that no hidden-variable model can be consistent with        requirement that every projection operator have a
+the statistical predictions of quantum theory is false—     unique value (either 0 or 1) in a dispersion-free state.
+for such models exist (Bohm, 1952). The difficulty lies     Bell shows that one may still introduce hidden variables
+in the relation between the mathematics and the             by invoking the dependence of a measurement result on
+physics, as was clearly analyzed by Bell (1966).            the “whole experimental arrangement” (Bohr, 1949,
+  The result of Von Neumann’s theorem [Eq. (6.5)]           p. 222) in a very strong way. In his model the particular
+seems to imply that any ensemble can be characterized       result obtained when measuring a certain observable
+by a statistical operator, whether this ensemble is a       may depend upon which other commuting observables
+quantum state or a subquantal hidden-variable state.        are being measured simultaneously.
+But since we know that a statistical operator char­            One undesirable feature of Gleason’s work, in common
+acterizes just a general quantum state, we should           with that of Von Neumann, is the assumption that every
+immediately become suspicious of the assumptions            projection operator represents an observable. Since
+which lead to this result. As Bell pointed out, it is       every Hermitian operator is a linear combination of
+(6.1) of assumption (v) which is at fault. At first sight   commuting projection operators, this is essentially
+the requirement that the average of the sum of two          equivalent to the assumption that every Hermitian
+observables be equal to the sum of the averages of the      operator represents an observable (see F7 of Sec 1.1).
+observables separately may seem reasonable. But the         We are not concerned with the comparatively trivial
+nontrivial nature of this additivity property becomes       restrictions on observability imposed by superselection
+apparent when we realize that it is not true for in­        rules, but with the question of whether an operator such
+dividual measurements of noncommuting observables.          as x2pxzx2 really represents an observable quantity.
+Consider for example the spin components of a particle.     One might conjecture, as this author has, that the
+The measurement of gx can be made with a suitably           restrictions Gleason’s theorem imposes on hidden
+oriented Stern-Gerlach magnet. The measurement of           variables might be met in a less drastic fashion than
+ay requires another orientation. There is no way of         that proposed by Bell, if only essential observables,
+relating a measurement of (Gx-\-ay]) to the results of      rather than all projection operators, were required to
+the first two measurements. This requires a third and       have unique values (eigenvalues) in a hypothetical
+different orientation of the magnet. Moreover, the          dispersion-free state. The problem of enumerating
+result of the measurement, an eigenvalue of (Gx+ay),        “essential observables” has not been seriously con­
+will not be the sum of an eigenvalue of ax plus an eigen­   sidered, but an important example due to Bell (1964),
+value of Gy. That the ensemble average of many              to be discussed, indicates that such a proposal would
+measurements of (gx+ gv), ((ovTov)), should be equal        not be adequate.
+to the sum of the averages of two other measurements           It seems appropriate to reply here to Jauch and
+involving different experimental arrangements,              Piron (1968) and Misra (1967), who have commented
+(gx)-\- fay)} is a peculiar and nontrivial property of      somewhat unfavorably on the work of Bell (1966).
+quantum states. But in a hypothetical dispersion-free       Misra (p. 845) states, “The quest for hidden variables
+state every observable would have a unique value equal      becomes a meaningful scientific pursuit only if states,
+to one of its eigenvalues, and since there is no linear     even physically unrealizable states, are somehow
+relationship between the eigenvalues of noncommuting        restricted by physical condition, • • •” with the implica­
+observables, in general, it is obvious that (6.1) could     tion that they have done this but that Bell’s analysis is
+not possibly be satisfied for dispersion-free states.       only “a drastic ad hoc modification of the notion of
+When this impossible condition is removed it is possible    state” (Jauch and Piron, 1968). While agreeing with
+                                                       L. E .\B allentine   Statistical Interpretation of Quantum Mechanics      377
+
+
+the first quoted statement above, I would contend that           close to the result of quantum theory (6.12). To avoid
+Misra’s abstract algebraic approach, and the proposi­            the possibility that the differences might occur only at
+tion-lattice theoretic approach of Jauch and Piron,              isolated points, he first averages (6.12) and (6.14)
+fail to meet this requirement in that they impose only           over small cones of angles about the mean directions
+abstract mathematical conditions whose physical im­              of a and b. We may write
+plications are obscured by their abstractness. The
+danger inherent in such an approach is underlined by                                    | a^b—a-b | <<$,                      (6.15)
+the 34 year interval between Von Neumann’s abstract
+attack on the hidden-variable problem and Bell’s                 where the bar denotes a smoothed function, with d
+demonstration that one of his assumptions was physi­             tending to zero with size of the range of angular aver­
+cally unreasonable, and even impossible.                         aging. Suppose that the difference between the smoothed
+                                                                 functions is bounded,
+  6.3 Bell’s Theorem
+                                                                                      | P ( a , b ) + r b | <€.               (6.16)
+  Although hidden-variable models which reproduce all
+the statistical predictions of quantum theory are known           From a straightforward argument based on (6.13)-
+to exist, they would be more interesting if they could            (6.16), Bell deduces the inequality
+be made to satisfy the very reasonable assumption
+(Einstein, 1949, p. 85) that the real factual situation of                              4 (e + $ )> v 2 -l,                   (6.17)
+a system is independent of what is done with some other
+system which is spacially separated from, and not                      from which it follows that as the range of angular
+interacting with, the former. Bell (1964)25 has con­                   smoothing, and hence 6, is made arbitrarily small, e
+sidered this problem for the experiment which we                       cannot be arbitrarily small. Hence (6.14) cannot be an
+discussed in connection with the EPR theorem, the                      arbitrarily accurate approximation to the quantum
+measurement of arbitrary components of the spins of                    theory result (6.12).
+two, spin one-half particles, which were initially                         Bell shows that it is easy to make a hidden-variable
+prepared in a singlet spin state, and which have                       model to agree with (6.12) if the result A (a, X) of the
+separated.                                                             measurement on particle 1 is allowed to depend also
+   The spin components o v a and ovb can both be                       upon the direction b of the other magnet. However, if
+measured by means of two Stern-Gerlach magnets                          Einstein’s hypothesis of independence of separated
+oriented along the directions of the unit vectors a and                noninteracting systems is accepted, then the above
+b. The results of these two measurements will exhibit a                 theorem demonstrates that no such hidden-variable
+statistical correlation, which for the singlet state is                model can agree with all the predictions of quantum
+given by                                                                theory. This result can be interpreted as an illustration
+                  ((ova) (ovb) )= ~ a -b ,          (6.12)              of Gleason’s theorem as analysed by Bell (1966),
+                                                                        according to which a hidden-variable model is possible
+according to quantum theory.                                            only if the result of a measurement of err a depends
+   We now suppose that the results of individual upon which one of the observables ovb (out of all the
+measurements, which are not determined by the quan­ possible directions b) is being measured simultaneously.
+tum state, are determined by some set of parameters This example appears to rule out the possibility, con­
+denoted X. The result A of measuring err a is deter­ jectured in the previous section, that one might avoid
+mined by a and X, and the result B of measuring ovb is the consequences of Gleason’s theorem by narrowing
+determined by b and X; these results necessarily being one’s attention from all Hermitian operators to only
+eigenvalues of the operators, i.e.,                                     “essential observables,” for there seems no doubt that
+                                                                        o v a and ovb for all a and b are genuine observables.
+              A (a, X) = =bl,       B (b,                X) = ± 1 . (6.13)Note added in proof: Recently Wigner (1970) has
+                                                                        given a somewhat simpler version of Bell’s argument,
+But in accordance with Einstein’s assumption, the which yields some insight into its mathematical nature.
+result A of measurement on particle 1 should not
+                                                                            We shall not discuss specific hidden-variable theories
+depend on the direction b of the magnet which acts on in detail because none seems to be at all definitive, and
+particle 2, and B should not depend on a. If p(X) is the any that reproduce all the results of quantum theory
+probability distribution of the hidden variables X,
+                                                                         exactly must, as a consequence of Bell’s theorem, be
+then the average of the product (ova) (ovb) will be physically unreasonable (though they may be logically
+given by
+                                                                         self-consistent). This remark would not apply to
+             P (a, b) = JA (a, X)2?(b, X)p(X) dX.            (6.14) theories which depart from the formalism of quantum
+    Bell then proves that (6.14) cannot be arbitrarily theory and only agree with it approximately in some
+                                                                         limit. For descriptions of specific hidden-variable
+   25 In spite of the publication dates, it is clear from the contexts theories we refer the reader to a review by Freistadt
+ that this paper was written later than Bell (1966).                      (1957), and an article by Bohm (1962).
+378    R eviews of M odern P hysics • October 1970
+
+   6.4 Suggested Experiments                               through two nearly crossed polaroid filters. According
+                                                           to the theory, the transmitted beam should then have
+    As emphasized by Bohm, the postulates of quantum       almost unique values for the hidden variables. These
+ theory can be tested only if we consider what it would    are presumed to relax once more to a uniform dis­
+ mean to contradict them. Therefore, at the very least,    tribution within some relaxation time r, but if the beam
+ the study of hidden variables will have served a useful   is incident on a third rotatable polarizer (whose axis is
+ purpose if it leads to the suggestion of interesting      at a variable angle 6 to the axis of the second), before
+ experiments, regardless of whether or not the outcome     this relaxation takes place the intensity transmitted
+ of those experiments is favorable to the hidden-variable  through it is predicted to deviate from the cos26 law in a
+ hypothesis.                                               definite fashion. In the experiment, the third polarizer
+    The additivity of averages of noncommuting ob­         was placed as close to the second as possible, but no
+ servables in quantum ensembles (6.1) is a very powerful   deviations from the cos26 law were observed. Papaliolios
+ assumption, as Von Neumann’s theorem shows, since         concludes that the hidden variables, if they exist, must
+ it and a few other postulates allow one to derive (6.5)   relax to a uniform distribution in a time r<2.4X10~14
+ from which all the statistical predictions of quantum     sec, which is two orders of magnitude smaller than the
+ theory flow. Von Neumann (1955, p. 309, Footnote          value suggested by Bohm and Bub.
+ 164) suggested an experiment based upon the fact that
+ the Hamiltonian operator is the sum of two non­                       7. CONCLUDING REMARKS
+ commuting terms, the kinetic and potential energies.         The central theme connecting all of the topics in this
+ For some suitable state, one should measure the average paper has been the superiority of a purely statistical
+kinetic energy by measurements of the momentum, interpretation of quantum theory, in which a state
+measure the average potential energy by measurements vector represents an ensemble of similarly prepared
+ of position, and measure the average energy by spec­ systems, as opposed to the stronger assumption that a
+ troscopic methods (each measurement being preceded state vector provides a complete description of an
+by the same state preparation). Then the additivity of individual system. By the criterion of logical economy,
+ the quantum averages (expectation values) could be the Statistical Interpretation is preferable because it
+directly tested. A similar experiment which would makes fewer assumptions. The stronger assumption
+probably be easier to perform could be based on the plays no role in any application of quantum theory,
+spin components trx, <ry, and (o-x+ay) =V2 (component and so Occam’s razor may be invoked to discard it.
+of o- at 45° to the x and y axes).                            A more serious argument against the stronger
+    The experiment involving the correlation of spin assumption above is that it leads to conceptual diffi­
+components of two particles from an initial singlet state culties. One such difficulty is exhibited by the Theorem
+is of interest because Bell (1964) showed that, while it of Einstein, Podolsky, and Rosen (Sec. 2) which
+is easy to construct a hidden-variable theory to repro­ demonstrates that this assumption is incompatible with
+duce the results of quantum theory for measurements the physical independence of spacially separated
+on a single spin, it is not possible to do so for two-spin objects which may have interacted in the past. Although
+correlations without violating Einstein’s assumption. from a purely logical point of view one could retain
+Moreover, from (6.17) we see that the hidden-variable either of these assumptions, it seems most unreasonable
+prediction must differ from the result of quantum to discard the independence of separated noninteracting
+theory by at least e>0.10, so a clear cut experimental objects.
+test is possible.                                            It used to be argued that the peculiarities consequent
+    A measurement of the correlation in the polarizations upon the assumption that a system is completely
+of photons emitted from the decay of singlet posi- characterized by a wave function were confined to the
+tronium, which is similar in principle to the experiment microscopic domain, and that these peculiarities were
+above, has been performed by Wu and Shaknov (1950), justified by “the unavoidable disturbance of the system
+but only for two angles. As Bell (1964) has pointed out, by the measuring apparatus.” The latter of these con­
+it is easy to make a hidden-variable theory agree with tentions is refuted by the example due to EPR, in
+quantum theory at certain fixed angles, but not at all which it is possible to measure some observable of an
+angles.                                                    elementary particle, without the apparatus interacting
+   The hidden-variable theory of Bohm and Bub with that particle in any way. It appears (see Witmer,
+ (1966) has been tested by Papaliolios (1967). Ac­ 1967, p. 45) that Bohr recognized this implication of the
+cording to the theory, when a photon from an arbitrarily EPR argument, for he subsequently cautioned against
+linearly polarized beam is incident on a Polaroid filter such phrases as “disturbing of phenomena by observa­
+(whose polarization axis is not exactly parallel to the tion” (Bohr, 1949, p. 237), but this lesson has been
+polarization vector of the beam), the photon is or is not forgotten by some modern authors (e.g., Messiah,
+transmitted depending upon the value of some hidden 1964, p. 140; Matthews, 1968, p. 27).
+variable. In a normal beam, the hidden variables are         The former contention is refuted by an analysis of a
+uniformly distributed, yielding the usual transmission measurement of a microscopic object by a macroscopic
+probability. In the experiment, the beam is first passed apparatus (Sec. 4). It follows from very simple con-
+                                                    L. E. B allentine   Statistical Interpretation of Quantum Mechanics      379
+
+
+siderations that the final state of the system (object         to Criticisms. In support of his thesis that a wave
+plus apparatus) must, in general, be a coherent super­         function must be considered to represent an ensemble
+position of macroscopically distinct “pointer positions.”      of systems, and cannot reasonably be assumed to
+If the state vector is assumed to completely describe the      provide a complete description of an individual system,
+individual system, i.e., if one assumes that the system        he considers the decay of a radioactive atom, with an
+simply does not have a value for any observable except         automatic recording detector to register the decay
+those for which the state is an eigenvector (or perhaps        time.26 This example is a prototype of the one used in
+those whose dispersion is very small), then one will be        the Theory of Measurement, and it embodies all the
+forced to the absurd conclusion that the “pointer” of          essential physical content of the more general argument.
+the apparatus (a macroscopic object) has no definite           In this Reply he also restated the conclusion of the EPR
+position. The supposed reduction of the state vector, and      argument in the form which we have called the Theorem
+all the difficulties and complications associated with it,     of EPR, and gave a brief discussion of the nontrivial
+are only artifacts of the vain attempt to retain the           aspect of the classical limit of the quantal state descrip­
+above assumption. But to what purpose? Under the               tion.
+more modest assumption that a state vector represents             A serious reading of Einstein’s Reply should clear up
+an ensemble of similarily prepared systems, the measure­       any misconceptions to the effect that he rejected
+ment process poses no particular problem.                      quantum theory or misunderstood its foundations. In
+    The criticisms above also apply to certain hidden-         fact, he understood the essentially statistical nature of
+variable theories in which a p field is associated with        quantum theory as well as any of his contemporaries,
+each individual system (Bohm, 1952; Bohm and Bub,              and better than many. His only objection was against
+ 1966). Like Von Neumann’s theory, these theories              the assumption that a wave function or state vector
+must also invoke a reduction of the p field upon meas­         could exhaustively describe an individual system, which
+urement, which in the example of the correlated but            we have seen to be an unwarranted and troublesome
+spacially separated systems considered by EPR, would            assumption. This fact, and the fact that Einstein
+necessitate a signal passing instantaneously across the         advocated a fully viable interpretation of quantum
+macroscopic distances between the systems. Since, as            theory (essentially the Statistical Interpretation of this
+we have seen, such a drastic assumption is not necessary       paper although he expressed himself more briefly), do
+for a satisfactory interpretation of quantum theory,           not seem to have been appreciated by his critics.27
+we see no reason for considering it further.                       The foundations of quantum theory are subject to
+    The Uncertainty Principle (Sec. 3) finds its natural        continuous discussion, and two almost coincident
+interpretation as a lower bound on the statistical dis­        papers in the American Journal of Physics, taking
+persion among similarily prepared system (this inter­           nearly opposite points of view, deserve comment.
+pretation being deduced, not introduced ad hoc), and            Hartle (1968) has made a novel attempt to derive the
+is not in any real sense related to the possible dis­           statistical assertions of quantum theory from a quantal
+ turbance of a system by a measurement. The dis­                description of individual systems. The conceptual basis
+ tinction between measurement and state preparation             of this attempt is questionable, for, as Hartle admits, a
+ is essential for clarity. It is possible to extend the         quantum state is not an objective property of an
+ formalism of quantum theory by the introduction of             individual system. That is to say, in the words of
+ joint probability distributions for position and momentum      Blokhintsev (1968, p. 50),
+  (Sec. 5). This demonstrates that there is no conflict with       “If [the wave function were a characteristic of a
+ quantum theory in thinking of a particle as having             single particle^ it would be of interest to perform such a
+ definite (but, in general, unknown) values of both             measurement on a single particle (say an electron)
+ position and momentum, contrary to an earlier inter­           which would allow us to determine its own individual
+ pretation of the uncertainty principle.                        wave function. No such measurement is possible.”
+    The Statistical Interpretation does not prejudice the
+                                                                But whereas Blokhintsev (and the present author)
+ possibility of introducing hidden variables which would
+                                                                regards the quantum state as describing an ensemble of
+ determine (in principle) the outcome of each individual
+                                                                similarily prepared systems, Hartle considers it to
+ measurement (Sec. 6). Although such models exist,
+                                                                describe the information possessed by some observer.
+ Bell (1964) showed that they cannot, in general, satisfy
+                                                                The irrelevance of that interpretation has already been
+ the requirement that measurements on spacially
+                                                                 commented upon (Sec. 4.4).
+ separated noninteracting objects should be independent.
+ It is ironic that this requirement which Einstein,               26 Messiah’s (1964,p. 158) reply to this argument is essentially
+                                                               that there are experimental arrangements from which it is im­
+ Podolsky, and Rosen first used to refute the belief that a    possible to determine a definite decay time. (His wording to the
+ wave function could completely describe an individual         effect that they are incompatible with the existence of a time of
+  system (a belief which stood opposed to hidden varia­        decay is an unjustified overstatement). But this is irrelevant.
+                                                               The point is that it is sometimes (i.e., with suitable apparatus)
+ bles), should also prove disasterous to at least the          possible to measure the decay time of a single atom, but this
+ simplest idea of hidden variables.                            decay time is never predicted by quantum theory.
+                                                                   27 See the articles by Pauli, Born, Heitler, Bohr, and Margenau
+    Many of the ideas expounded in this paper were             in the volume edited by Schilpp (1949). However, Margenau’s
+  expressed, in essence, by Einstein (1949) in his Reply        recent papers are more compatible with Einstein’s views.
+   On the other hand Park (1968) has carefully studied                   Duane, W., 1923, Proc. Natl. Acad. Sci. U.S. 9, 158.
+                                                                         Einstein, A., B. Podolsky, and N . Rosen, 1935, Phys. Rev. 47,
+the relations between ensembles and individual systems                       777.
+in statistical theories. He shows how one may proceed                    ------, 1949, in Albert Einstein: Philosopher-Scientist, edited by
+logically from the description of ensembles to individual                   P. A. Schilpp (Library of the Living Philosophers, Evanston,
+                                                                            111.), reprinted by Harper and Row, New York, p. 665.
+systems in classical statistical mechanics, and how the                  Fano, U., 1957, Rev. Mod. Phys. 29, 74.
+attempt to proceed similarily in quantum statistical                     Feyerabend, P. K., 1957, in Observation and Interpretation, edited
+                                                                            by S. Korner (Butterworths, London), p. 121.
+mechanics to an identification of a pure state operator                  Freistadt, H., 1957, Nuovo Cimento Suppl. 5, 1-70.
+with an individual system fails. The present paper is                    Furry, W. H. 1936, Phys. Rev. 49, 393.
+consistent with his conclusion; moreover we have shown                    Galindo, A., A. Morales, and R. Nunez-Lagos, 1962, J. Math.
+                                                                             Phys. 3, 324.
+that such an identification would lead to serious                         Gleason, A. M., 1957, J. Math & Mech. 6, 885.
+difficulties in principle.                                               Hartle, J. B., 1968, Am. J. Phys. 36, 704.
+   Although this article has been concerned primarily                    Heisenberg, W., 1927, Z. Physik 43, 172.
+                                                                         ------ , 1930, The Physical Principles of Quantum Theory (Univer­
+with a consistent interpretation of quantum theory as                        sity of Chicago Press, Chicago, 111.), reprinted by Dover, New
+it is presently formulated, one is naturally led to ask for                  York, 1950.
+                                                                         ------, 1955, in Neils Bohr and the Development of Physics, edited
+hints of future developments. Except for eliminating                         by W. Pauli (Pergamon, London), p. 12.
+some false starts, such as theories of wave function                     ----- , 1958, Physics and Philosophy (Harper & Brothers, New
+reduction, such hints are hard to find. Recognition that                     York), pp. 54-55.
+                                                                          Heitler, W., 1949, in Albert Einstein: Philosopher-Scientist, edited
+quantum states should refer to ensembles of similarily                       by P. A. Schilpp (Library of the Living Philosophers, Evanston,
+prepared systems would seem to open the door for                             111.), reprinted by Harper and Row, New York, p. 179.
+hidden variables to control individual events. On the                     Inglis, D. R., 1961, Rev. Mod. Phys. 33, 1.
+                                                                          Jammer, M., 1966, The Conceptual Development of Quantum
+other hand, Bell’s theorem seems to present a severe                         Mechanics (McGraw-Hill, New York).
+obstacle for any hidden-variable theory which repro­                      Jauch, J. M., 1964, Helv. Phys. Acta 37, 293.
+                                                                         ------ , 1968, Foundations of Quantum Mechanics (Addison-Wesley,
+duces exactly all of the predictions of quantum theory,                      Reading, M ass.).
+but this need not be so for a theory which departs from                  ------, and C. Piron, 1968, Rev. Mod. Phys. 40, 228.
+the formalism of quantum theory and recovers it only                     Jordan, T. F., 1969, Linear Operators for Quantum Mechanics
+                                                                             (Wiley, New York).
+in some limiting case. Presumably the next step must                     Judge, D., and J. T. Lewis, 1963, Phys. Letters 5, 190.
+be a bold departure from the familiar formalism, as                       Komar, A., 1962, Phys. Rev. 126, 365.
+                                                                         Korner, S., Ed., 1957, Observation and Interpretation (Butter­
+Einstein’s theory of gravitation departed from that                         worths, London).
+of Newton.                                                               Lamb, W. E., 1969, Phys. Today 22, No. 4, 23.
+                                                                         Lande, A., 1955, Foundations of Quantum Theory (Yale U. P.,
+                         REFERENCES                                         New Haven, Conn.).
+                                                                         ------ , 1965, New Foundations of Quantum Theory (Cambridge
+Albertson, J., 1961, Am. J. Phys. 29, 478.                                   U. P., Cambridge, England).
+------ , 1962, Brit. J. Phil. Sci. 13, 229.                              Margenau, H., 1958, Phil. Sci. 25, 23.
+Allcock, G. R., 1969, Ann. Phys. (N.Y.) 53, 253.                         ------ , 1963, Ann. Phys. (N.Y.) 23, 469.
+Araki, H., and M. M. Yanase, 1960, Phys. Rev. 120, 622.                  ------, and L. Cohen, 1967, in Quantum Theory and Reality, edited
+Bell, J. S., 1964, Physics (N.Y.) 1, 195.                                   by M. Bunge (Springer, New York), p. 71.
+ ------., 1966, Rev. Mod. Phys. 38, 447                                  ------ , and R. N. Hill, 1961, Progr. Theoret. Phys. (Kyoto) 26,
+Blokhintsev, D. I., 1968, The Philosophy of Quantum Mechanics,              722.
+     (Reidal, Dordrecht, Holland). Original Russian edition, 1965.       Matthews, P. T., 1968, Introduction to Quantum Mechanics
+Bohm, D., 1951, Quantum Theory (Prentice-Hall, Englewood                     (McGraw-Hill, London).
+    Cliffs, N .J.).                                                      Messiah, A., 1964, Quantum Mechanics (North-Holland, Amster­
+------ , 1952, Phys. Rev. 85, 166, 180.                                     dam).
+------ , 1953, Phys. Rev. 89, 458.                                       Misra, B., 1967, Nuovo Cimento 47A, 841.
+------ , 1962, in Quantum Theory, edited by D. R. Bates (Academic,       M ott, N. F., 1964, Contemporary Phys. 5, 401.
+    New York) Vol. 3.                                                    Moyal, J. E., 1949, Proc. Cambridge Phil. Soc. 45, 99.
+------ , and Y. Aharonov, 1957, Phys. Rev. 108, 1070.                    Papaliolios, C., 1967, Phys. Rev. Letters 18, 622.
+------ , and J. Bub, 1966, Rev. Mod. Phys. 38, 453.                      Park, J. L., 1968, Am. J. Phys. 36, 211.
+Bohr, N ., 1935, Phys. Rev. 48, 696.                                     Peierls, R. E., 1967, Sci. Am. 216, No. 1, 137.
+------, 1949, in Albert Einstein: Philosopher-Scientist, edited by       Popper, K. R., 1959, The Logic of Scientific Discovery (Basic
+    P. A. Schilpp (Library of Living Philosphers, Evanston, 111.),          Books, New York).
+    reprinted by Harper and Row, New York, p. 199.                      ------ , 1967, in Quantum Theory and Reality, edited by M. Bunge
+Bopp, F., 1956, Ann. Inst. Henri Poincard, 15, 81.                          (Springer, New York), p. 7.
+------ , 1957, in Observation and Interpretation, edited by S. Korner    Prugovecki, E., 1967, Can J. Phys. 45, 2173.
+    (Butterworths, London) , p. 189.                                     Robertson, H. P., 1929, Phys. Rev. 34, 163.
+Born, M., 1926, Z. Physik 37, 863.                                      Rosenfeld, L., 1965, Progr. Theoret. Phys. (Kyoto) Suppl., extra
+Brillouin, L.. 1962, Science and Information Theory (Academic,              number, p. 222 (Yukawa commemorative issue).
+    New York).                                                          ------ , 1968, Nucl. Phys. A108, 241.
+Breitenberger, E., 1965, Nuovo Cimento 38, 356.                          Schilpp, P. A., 1949, Ed. Albert Einstein: Philosopher-Scientist
+Bunge, M., 1956, Am. J. Phys. 24, 272.                                      (Library of the Living Philosophers, Evanston, 111.), reprinted
+Carruthers, P., and M. M. Nieto, 1968, Rev. Mod. Phys. 40, 411.             by Harper and Row, New York, 1959.
+Cohen, L., 1966, J. Math. Phys. 7, 781.                                 Schrodinger, E., 1930, Preuss. Akad. Wiss. Berlin, Ber. 19, 296.
+Daneri, A., A. Loinger, and G. M. Prosperi, 1962, Nucl. Phys.           -— —, 1935, Naturwiss, 23, 807.
+    33, 297.                                                            Sharp, D. H., 1961, Phil. Sci. 28, 225.
+------, A. Loinger, and G. M. Prosperi, 1966, Nuovo Cimento             Shewell, J. R. 1959, Am. J. Phys. 27, 16.
+    44B, 119.                                                           Shimony, A., 1966, Phys. Today 19, No. 9, 85.
+Day, T. B., 1961, Phys. Rev. 121, 1204.                                 Susskind, L., and J. Glogower, 1964, Physics (N.Y.) 1, 49.
+Dirac, P. A. M., 1958, The Principles of Quantum Mechanics              Sussman, G., 1957 in Observation and Interpretation, edited by
+    (Clarendon, Oxford), 4th edition.                                       S. Korner (Butterworths, London),p. 131.
+                                                                                          L. E. B allentine         Statistical Interpretation of Quantum Mechanics      381
+
+Tisza, L., 1963, Rev. Mod. Phys. 3$, 1S1.                                                                 Wick, G. C., A. S. Wightman, and E. P. Wigner, 1952, Phys.
+Van der Waerden, B. L., 1967, Sources of Quantum Mechanics                                                   Rev. 88, 101-
+    (North-Holland, Amsterdam).                                                                           Wigner, E. P., 1932, Phys. Rev. 40, 749,
+Von Neumann, J., 1955, Mathematical Foundations of Quantum                                                ------ , 1962, in The Scientist Speculates, edited by I. J. Good
+   Mechanics (Princeton U. P., Princeton, N .J.). This is a trans­                                            (Basic Books, New York), p. 284.
+   lation of Mathematische Grundlagen der Quantenimechanik                                                ------ , 1963, Am. J. Phys. 31, 6.
+    (Springer, Berlin, 1932).                                                                             ------ , 1970, Am. J. Phys. 38, 1005.
+Wakita, H., 1960, Progr. Theoret. Phys. (Kyoto) 23, 32.                                                   Witmer, E. E., 1967, Am. J. Phys. 35, 40.
+------ , 1962, Progr. Theoret. Phys. (Kyoto) 27, 139, 1156.                                               Wu, C. S., and I. Shaknov, 1950, Phys. Rev. 77, 136.
+Whitten, R. C., 1966, Am. J. Phys. 34, 1203.                                                              Yanase, M. M., 1961, Phys. Rev. 123, 666.
+
+
+
+  REVIEWS                OF      MODERN                PHYSICS                                    VOLUME         42,   NUMBER       4                OCTOBER          1970
+
+
+
+                     Charges an d G enerators o f Sym m etry
+                     T ransform ations in Q u an tu m Field Theory*
+                     CLAUDIO A. ORZALESIf
+                     Department of Physics, Columbia University, New York, New York
+
+                       Within the Wightman approach to quantum field theory, we review and clarify the properties of formal charges, defined
+                     as space integrals for the fourth component of a local current. The conditions for a formal charge to determine an operator
+                     (generator) are discussed, in connection with the well-known theorems of Goldstone and of Coleman. The symmetry
+                     transformations generated by this operator—given its existence—are also studied in some detail. For generators in a
+                     scattering theory, we prove their additivity and thus provide a simple way to characterize them from their matrix elements
+                     between one-particle states. This characterization allows an immediate construction of the unitary operators implementing
+                     the symmetry transformations, and implies that all internal symmetry groups are necessarily compact. We also indicate
+                     how to construct interacting fields having definite internal quantum numbers. The present status of the proof of Noether’s
+                     theorem and of its converse is discussed in the light    the rather delicate properties of formal charges.
+
+                                       CONTENTS                                                           of the zeroth component of a local four-vector current:
+1. Introduction.................................................................................. 381                           Q(x<>) = S dxjo(x).                    (1.1)
+2. Preliminaries................................................................................. 382
+   A. Some Preliminary Remarks on the Quantal Noether                                                        Quantities of this kind appear in the discussion of
+       Theorem................................................................................... 382
+   B. Some Basic Definitions and Theorems............................ 383                                 symmetries and broken symmetries in quantum field
+3. Properties of Formal Charges................................................... 385                    theory, and are one of the basic tools in the modern
+   A. Generalities............................................................................. 385
+   B. The Main Theorems............................................................ 385
+                                                                                                          “ current-algebraic” approach to elementary particle
+   C. What It All M eans............................................................... 387               physics (Gell-Mann, 1962; Adler and Dashen, 1968).
+   D. The Proofs................................................                                    388      It has been repeatedly emphasized (Kastler,
+   E. Additional Remarks.............................................................. 392
+4. Charges as Generators of Symmetry Transformations. . . . 393                                           Robinson, and Swieca, 1966; Schroer and Stichel, 1966;
+   A. Commutators Involving Charges and Definition of                                                     Dell’Antonio, 1967; Swieca, 1966; Katz, 1966; Fabri and
+       Generators.......................................................                            394   Picasso, 1966; Fabri, Picasso, and Strocchi, 1967; and
+   B. Symmetries and Spontaneously Broken Symmetries. . . 395
+   C. Symmetry Transformations Generated by a Charge. .. 397                                              De Mottoni, 1967) that equations of the type (1.1)
+5. Characterization of Charges and Symmetries in Scatter­                                                 have rather delicate convergence properties, and that a
+   ing Theory..................................................................................... 398
+   A. Characterization of Charges............................................... 399                      certain care has to be exercised when considering such
+   B. Generalizations and Applications...................................... 402                          expressions. This fact limits the extent to which Q can
+   C. Characterization of Internal Symmetries........................ 403                                 be thought of as a generator of symmetry or broken
+   D . Interpolating Helds With Definite Internal Quantum
+       Numbers.................................................................................. 404      symmetry transformations.1 The same convergence
+6. Summary and Conclusions........................................                                  405   properties are at the basis of Goldstone’s theorem
+   Appendix.....................                                                                    406
+   References. .................................................................................... 408
+                                                                                                           (Goldstone, 1961; Goldstone, Salam and Weinberg,
+                                                                                                          1962; Kastler, Robinson and Swieca, 1966), and of
+                                1. INTRODUCTION                                                           Coleman’s theorems (Coleman, 1965 and 1966;
+  Following the results of Goldstone et al. (Goldstone,                                                   Pohlmeyer, 1966; Schroer and Stichel, 1966; and
+1961; Goldstone, Salam, and Weinberg, 1962) and of                                                          1 The nomenclature as well as the mentioned restrictions will
+Coleman (1966), in recent years there has been a                                                          be clarified later on. For present purposes, a generator of sym­
+                                                                                                          metry transformations is to be identified with a self-adjoint
+continual interest in the properties of formal charges.                                                   operator which commutes with P, the momentum operator, and
+A formal charge Q is defined here as the space integral                                                   commutes with the 5 matrix. A conserved current leads to an
+                                                                                                          exact symmetry if the associated charge is a generator of symmetry
+  * Research supported in part by the U.S. Atomic Energy Com­                                             transformations. Spontaneously broken symmetries occur when
+mission.                                                                                                  current conservation does not imply the existence of a symmetry.
+  t Present address: Department of Physics, New York Uni­                                                 Intrinsically broken symmetries arise when the current is not
+versity, New York, N.Y. 10012.                                                                            conserved.
+

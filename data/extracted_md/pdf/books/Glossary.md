@@ -1,0 +1,1675 @@
+# 390      Free Will: The Scandal in Philosophy
+
+**source:** pdf · **section:** books
+**file:** Glossary
+---
+
+
+                                                 m inis        m
+                                        De t e r
+
+                                                          t i b i l i s m
+                                                Co    mpa                   m
+                                                                r minis
+                       ter  minism               S  oft D e t e
+                De
+           Hard                                                                 lism
+                                                                  o m p atibi
+                                                            oft C
+                        a t i b ilism
+                                                Te r m s  S
+
+H     ard In
+             co     m p
+                              a         r y o f                                        In
+                    G l o s s                  Se m i c
+                                                       ilism
+                                                        o mp     atib
+
+          n     ism
+  Illusio
+                                                               p atib ilism
+                                                      In c o m
+                                                  w
+                      sm                 Narro
+   Impo       ssibili
+                                                                p atib  ilism
+                                                     t In c o m
+                                               Sof                                      y
+                       del                                                      Leewa
+                 an Mo
+           Valeri                                                 ilism          (Altern
+                                                                                         a
+Glossary
+
+                                                        p a t i b
+                                        r c e I ncom nce)
+                                    Sou          l S e que
+                                      (Actu   a
+                                                                           i m i t e d
+                                                    e lw             ith L
+                                                o d
+                              - S t      a ge M
+                         Tw o                      This chapter on the web
+                       www.informationphilosopher.com/afterwords/glossary
+                           m inis           m
+                  de t e r                                Glossary of Terms - A             391
+              In
+             Glossary of Terms
+                                           a r  i a n ism
+                               L
+               On the Informationi b ert website, our glossary of terms uses
+                                    Philosopher
+             hyperlinks (with blue underlines) to provide recursive definitions from
+             within each entry. We cannot do this in print, of course.
+                                                                             - C au        sal
+                                                                    Ag e n t
+                Hyperlinks go to other pages in the I-Phi website and to external sites
+             such as the Stanford Encyclopedia of Philosophy and Wikipedia, where
+             available.
+                                 - C au     sal
+                        Ev e n t
+                The web version also offers “Search I-Phi” links to find all the pages
+             on the I-Phi website that refer to the given term. In this print version
+                                                                                 C a us          al
+                                                                          No n -
+             we provide an index. Some glosses also offer a click on “I-Phi Page” to
+             get a much more detailed description of the term in the Core Concepts
+             sections of the website.
+                      m                      SFA
+             atibilis
+                The website also links to other online glossaries of relevant philo-
+
+     p       sophical terms, such as:
+                                                                              ity
+ncom                                                           t C a
+                • Ted Honderich’s Determinism and Freedom Terminology
+                                                        S  o f       usal
+                • Alfred Mele’s Lexicon for the Big Questions in Free Will Project
+                                 ism
+         Ancompatibil                                                           a r ian     ism
+         I                                                                  r t
+   Broad                                                      Soft    Lib e
+             Actualism
+                           t aria   nism
+                Actualism is the idea that the events that do happen are the only pos-
+                         r                                                                i b erta           ria
+                tL i b e                                                       S  o f t L
+              s
+             sible events that could possibly have happened. Actualism denies the
+     Mode    existence of alternative possibilities.             Darin
+                                                                       g
+                                         Cogito
+                Other glosses - Alternative Possibilities, Alternative Sequences, Conse-
+             quence Argument, Direct Argument, Frankfurt-style cases, Indirect Argument,
+
+        p a t i b ilism
+             Standard Argument
+ Incom Actual          s)
+                    ceSequence                                                   n i s m
+        e q u  e n
+                                                                            m
+                                                                           r up
+                                                                      telead   i
+ative S                                                       In pastethat
+               The Actual Sequence is the sequence of events in thed
+                                                   d
+                                                                                                  Glossary
+
+                                         i m i t e
+                                    nd L
+             to the current moment of deliberation and decision. The term is used in
+
+                                 a
+             Direct Arguments, such as Peter van Inwagen’s Consequence Argument,
+               ism
+       r m i n
+             Frankfurt-style cases and John Martin Fischer’s Semicompatibilism.
+
+  Dete          It is contrasted with the Alternative Sequences that result from
+             Alternative Possibilities. Arguments for incompatibilism that consider
+             alternative possibilities are called Indirect Arguments.
+       392        Free Will: The Scandal in Philosophy
+
+                Other glosses - Alternative Possibilities, Alternative Sequences, Conse-
+             quence Argument, Direct Argument, Frankfurt-style cases, Indirect Argument,
+             Standard Argument, Tracing, Transfer Principle
+
+             Adequate Determinism
+                Adequate Determinism is the kind of determinism we have in the
+             world. It is also called “near determinism” (Ted Honderich), “almost
+             causal determinism” (John Fischer), and “micro-indeterminism” (John
+             Searle). Macroscopic objects are adequately determined in their mo-
+             tions, giving rise to the appearance of strict causal determinism.
+                Microscopic objects, on the other hand, show the probabilistic con-
+             sequences of indeterminism, due to quantum mechanics. These proba-
+             bilistic effects usually average out in large objects, leading to the illusion
+             of strict causal physical determinism, including the powerful and very
+             productive idea of deterministic laws of nature.
+                Other glosses -- Determination, Determinism, Indeterminism, Laws of Na-
+             ture, Quantum Mechanics
+
+             Agent Causal
+                Agent-causal libertarianism is the idea that an agent can originate
+             new causal chains, actions that are not predetermined to happen by
+             events prior to the agent’s deliberation (between alternative possibilities
+             perhaps) and decision. Some agent-causal theories are metaphysical, as-
+             suming that the agent’s mind is not bound by the physical laws that gov-
+             ern the body. Some philosophers claim mental events are “non-causal.”
+                Other glosses - Alternative Possibilities, Causality, Causa Sui, Event Causal,
+             Indeterminism, Origination
+
+             Agnostic
+                Most modern philosophers claim to be agnostic on the “truth” of de-
+             terminism or indeterminism. For example, Alfred Mele claims his argu-
+Glossary
+
+             ments for “Agnostic Autonomy” are valid whether or not determinism
+             is true. John Fischer says semicompatibilists are agnostic. And Derk
+             Pereboom has renamed “hard determinism” to “hard incompatibilism”
+             to remain agnostic.
+                Agnosticism ignores the great asymmetry between determinism and
+             indeterminism. Determinism is congenial to claims that freedom con-
+             sists of following the laws of nature and that God has foreknowledge of
+             our actions. Indeterminism is much more difficult to reconcile with a
+                                           Glossary of Terms - A                   393
+
+responsible freedom, since it has such negative implications - random-
+ness, chance, uncertainty, and contingency - leading to the randomness
+objection to free will.
+  Other glosses - Determinism, Foreknowledge, Indeterminism, Standard Ar-
+gument
+
+Akrasia
+   Akrasia, from the Greek a-kratos (no power), describes “weak-willed”
+actions taken against one’s better judgment. Rationalism assumes there
+is always a single best way to evaluate an agent’s options or alternative
+possibilities, so that weakness of will is fundamentally irrational.
+   Other glosses - Strongest Motive, Weakness of Will
+
+Alternative Possibilities
+   Alternative Possibilities for thought and action were thought to be a
+requirement for free will and moral responsibility until Harry Frankfurt
+extended John Locke’s “locked room” example of a person who freely
+chose to stay in a room, unaware that the doors had been locked, so that
+alternative possibilities did not exist for him.
+   Note that alternative possibilities should not be interpreted as prob-
+abilities for actions. This is a mistake made by many prominent philoso-
+phers who assume that indeterminism makes chance the direct cause of
+action.
+   Other glosses - Determination, Direct Argument, Frankfurt Examples, In-
+determinism, Indirect Argument, Undetermined Liberty
+
+Alternative Sequences
+   Alternative Sequences are hypothetical counterfactual sequences of
+events in the past that lead up to the current moment of deliberation
+and decision. They result from Alternative Possibilities. Arguments for
+incompatibilism that consider alternative possibilities are called Indi-
+                                                                                     Glossary
+
+rect Arguments.
+   Alternative Sequences are contrasted with the Actual Sequence that
+leads up to the current moment of deliberation and decision. The term
+is used in Frankfurt-style cases and John Fischer’s Semicompatibilism.
+  Other glosses - Alternative Possibilities, Frankfurt-style cases, Indirect Ar-
+gument
+       394        Free Will: The Scandal in Philosophy
+
+             Asymmetry
+                There are two important uses of this term in free will and moral re-
+             sponsibility.
+                The first is the great asymmetry between determinism and indeter-
+             minism in the standard argument against free will. Determinism is much
+             easier to reconcile with the will than is indeterminism (pure chance).
+                Susan Wolf has pointed out the strange asymmetry between praise
+             and blame. Those opposed to punishment for retributive reasons (as op-
+             posed to practical consequentialist reasons) are often in favor of praise
+             for good deeds. This reflects the ancient Platonic view that we are re-
+             sponsible only for the good we do. Our errors we blame on our igno-
+             rance, which is, unfortunately, no excuse before the law.
+               Other glosses - Illusion, Consequentialism, Determinism, Indeterminism,
+             Moral Responsibility, Revisionism, Retributivism
+
+             Authenticity
+                Authenticity (from Greek authentes, author) suggests that we are the
+             author of our actions, that we originate actions which are “up to us.”
+             But various forms of determinism claim other authors for many or all
+             actions.
+               Other glosses - Autonomy, Control, Determinism, Origination, Up To Us
+
+             Autonomy
+                Autonomy, (from auto + nomos) is literally self-lawful, self-govern-
+             ing, or self-rule, is often used in the free will debates as an alternative to
+             free will, freedom of choice, freedom of action, etc.
+                Like the term authentic, autonomy suggests that we are the author of
+             our actions, that our actions are “up to us.”
+                Other glosses - Authenticity, Control, Freedom, Free Will, Origination, Up
+             To Us
+Glossary
+
+             Avoidability
+                Avoidability is a synonym for “could have done otherwise.”
+                It is the libertarian condition that the agent has alternative possibili-
+             ties for action. Daniel Dennett defends avoidability as an evolved free-
+             dom even in a deterministic universe.
+               Other glosses - Alternative Possibilities, Done Otherwise, Yes-No Objection
+                                         Glossary of Terms - A                  395
+
+B
+Basic Argument
+   Galen Strawson developed a Basic Argument that denies the exis-
+tence of free will and moral responsibility. It is based on an infinite re-
+gress and denial of any causa sui or uncaused cause. Briefly stated, the
+regress says that you do what you do because of your character. To be
+responsible for your character, you must have done something to form
+that character. But that something was done by your character at an ear-
+lier time, and so on ad infinitum, or at least to when you were too young
+to be responsible.
+   Although Strawson is agnostic and says his argument works whether
+determinism or indeterminism is true, his denial of any causa sui ef-
+fectively cancels indeterminism and the Basic Argument resembles the
+Consequence Argument.
+  Other glosses - Agnostic, Consequence Argument, Direct Argument, Moral
+Responsibility, Standard Argument, Ultimacy
+
+Broad Incompatibilism
+   Broad Incompatibilism is Randolph Clarke’s synonym for traditional
+compatibilism. Clarke distinguishes it from his Narrow Incompatibil-
+ism, which is a synonym for John Martin Fischer’s concept of Semicom-
+patibilism.
+   Broad Incompatibilism is incompatible with both free will and moral
+responsibility.
+   Other glosses - Compatibilism, Incompatibilism, Moral Responsibility, Nar-
+row Incompatibilism, Semicompatibilism
+
+C
+                                                                                  Glossary
+
+Causality
+   Causality is the basic idea that all events have causes. When every
+event is caused completely by prior events and their causes, it leads to
+the idea of determinism. A causal chain links all events to earlier events
+in a limitless sequence. Theologians inconsistently imagine the chain to
+break with an uncaused cause (causa sui) which they identify with God
+and miracles.
+       396        Free Will: The Scandal in Philosophy
+
+                Quantum indeterminacy produces uncaused causes. There is still a
+             causal chain, but it no longer permits complete predictability. Events are
+             now merely probable, no longer certain, though the probability can be
+             arbitrarily close to certainty. Most macroscopic events are, for practical
+             purposes, as predictable as perfect determinism would have allowed.
+             Nevertheless, a break in the causal chain is a requirement for free will.
+               Other glosses - Adequate Determinism, Causa Sui, Determinism, Indeter-
+             minism
+
+             Causa Sui
+                Causa Sui describes an event that is self-caused or uncaused. The event
+             might be the product of an agent with metaphysical power. It might be a
+             random accident with only probabilistic outcomes. Theologians identify
+             the causa sui with miracles, saying that only God is a causa sui. Friedrich
+             Nietzsche famously called it “the best self-contradiction that has been
+             conceived so far, it is a sort of rape and perversion of logic “
+               Other glosses - Agent Causation, Causality, Indeterminism
+
+             Chance
+                Chance has been called an illusion by philosophers who argued that
+             probability is only the result of human ignorance. William James saw an
+             “antipathy to chance” in most philosophers.
+                Chance has historically been seen as a negative idea, associated with
+             gambling, for example. Chance has been regarded as atheistic, since it
+             appears to deny Foreknowledge.
+               Other glosses - Causa Sui, Randomness Objection, Undetermined Liberty
+
+             CNC
+               CNC is Robert Kane’s term for the Covert and Non-constraining
+             Control of the kind in Frankfurt-style cases and manipulation of agents.
+Glossary
+
+               Other glosses - Frankfurt-style cases, Manipulation Argument
+
+             Compatibilism
+                Classical compatibilism is the idea that free will exists in a world that
+             is deterministic. It was invented by the Stoic Chrysippus and developed
+             by Thomas Hobbes and David Hume.
+                Classical compatibilists are determinists. Immanuel Kant called com-
+             patibilism a “wretched subterfuge.” William James called compatibilism
+                                              Glossary of Terms - C                 397
+
+a “quagmire of evasion.” He called compatibilists “soft determinists,”
+who evade the fact of their “antipathy to chance.”
+   Most modern compatibilists, aware of modern quantum physics,
+avoid the determinist label, claiming to be agnostic about the “truth”
+of determinism or indeterminism. Alfred Mele defines “soft compati-
+bilism” as admitting that some indeterminism might be useful, since it
+breaks the causal chain beck to the Big Bang.
+   After P. F. Strawson, philosophers have changed the debate from free
+will to moral responsibility. Many now conflate free will and moral re-
+sponsibility.
+   Semicompatibilists, following John Martin Fischer, argue for the
+compatibilism of moral responsibility and determinism (or indeter-
+minism). Like Strawson, they say that even if determinism were true,
+we would not surrender the idea of moral responsibility implicit in our
+natural attitudes toward blame and praise, punishment and reward.
+  Other glosses - Agnostic, Determinism, Incompatibilism, Indeterminism,
+Semicompatibilism
+
+Consequence Argument
+   If our current actions are caused directly by and traceable to events
+long before our birth, we can not be morally responsible for them. Peter
+van Inwagen coined this term for his argument, which is simply a varia-
+tion on the standard Determinism Objection to free will. He developed
+this argument as an improvement on the Traditional Argument that had
+depended on avoidability or the ability to do otherwise, which implied
+the agent had alternative possibilities for action. Van Inwagen accepted
+the idea that Frankfurt-style cases had called alternative possibilities
+into question.
+   Other glosses - Alternative Possibilities,, Causality, Direct Argument, Frank-
+furt Examples, Moral Responsibility, Tracing, Traditional Argument
+                                                                                      Glossary
+
+Consequentialism
+   Consequentialism is a theory of moral responsibility that makes mor-
+al judgments based on the consequences of an action. Moritz Schlick
+argued that it is acceptable to punish agents despite their lack of free will
+because of the beneficial effects on behavior that result.
+   Consequentialism also describes theories of punishment that are
+justified because of the consequences, e.g., the deterrence of a certain
+       398         Free Will: The Scandal in Philosophy
+
+             crime, as opposed to a retributivist theory, that punishes because the
+             agent simply deserves the blame.
+               Other glosses - Consequence Argument, Moral Luck, Moral Responsibility,
+             Retributivism
+
+             Control
+                Control is what is needed for an agent to feel an action originates
+             with and is “up to her.”
+                Some (e.g, Harry Frankfurt) say control is found in a hierarchy of
+             desires. Some (e.g, John Fischer) say control is being “responsive to rea-
+             sons.” Fischer divides control into “guidance control” and “regulative
+             control,” the latter involving alternative possibilities.
+                Determinism undermines control, as do various manipulation
+             schemes including behavioral conditioning, hypnosis, brainwashing,
+             and the like, as well as physiological problems like addictions, obses-
+             sions, and other mental disorders. External coercion denies even the
+             freedom claimed by classical compatibilism.
+                In Frankfurt-style cases, hypothetical interveners exert control over
+             decisions if and only if the actions appear to be ones the intervener does
+             not want.
+               Other glosses - Agent Causation, Alternative Possibilities, Compatibilism,
+             Determinism, Frankfurt Examples, Guidance Control, Hierarchy Of Desires,
+             Origination, Reasons-Responsive, Up To Us
+
+             D
+             Degrees of Freedom
+                Degrees of Freedom is the idea that freedom is not an all-or-nothing
+             true/false question. Freedom is always limited by constraints on action,
+Glossary
+
+             whether simply physical constraints, external coercion, or internal dis-
+             abilities. Fewer constraints mean more degrees of freedom.
+                When freedom depends on the existence of viable alternative pos-
+             sibilities, an agent with greater intelligence, education, or experience is
+             qualitatively more free because she is more likely to generate workable
+             options, more ways to do otherwise. More alternatives mean more free-
+             dom.
+                 Other glosses - Alternative Possibilities, Done Otherwise
+                                         Glossary of Terms - C                 399
+
+Deliberation
+   Deliberation is the consideration of alternative possibilities and their
+evaluation according to the agent’s character, values, desires, and beliefs,
+with the aim of choosing one of the alternatives as a course of action.
+   Note that even determinists appear to believe they have alternative
+courses of action when they deliberate. That is, they must practically
+consider that their alternatives are undetermined before their choice is
+made, and that they are free to choose any of them. If the agent knew
+with certainty that only one alternative existed, she could no longer de-
+liberate.
+   Randolph Clarke uses “deliberative” to describe two-stage models of
+free will, which locate indeterminism in the first stage, to distinguish
+them from “centered” free will models like that of Robert Kane, that
+locate indeterminism in the decision stage. Clarke also calls deliberative
+freedom “indirect” freedom.
+   Other glosses - Alternative Possibilities, Determinism, Determined Delib-
+eration, Indeterminism
+
+Determination
+  Determination is the act of deciding, ending a process of deliberation
+and evaluation. It can include undetermined liberties, in which there is
+chance “centered” in the decision itself and determined deliberations, in
+which there is no chance in the decision.
+  Other glosses - Deliberation, Determined Deliberation, Determinism, Self-
+Determination
+
+Determined Deliberation
+  A decision that is adequately determined by the available alternative
+possibilities. There is no randomness in the decision itself. These are
+examples of Hobart determination. But they are not necessarily pre-
+                                                                                 Glossary
+
+determined before the generation of alternative possibilities began.
+  Other glosses - Deliberation, Determinism, Self-Determination, Undeter-
+mined Liberty
+
+Determinism
+   Determinism is the idea that there is but one possible future, and
+that it is determined by the “fixed” past and the (mistakenly presumed
+deterministic) Laws of Nature.
+       400        Free Will: The Scandal in Philosophy
+
+                There are many kinds of determinism. None of them are based on
+             sufficient evidence. Most have become mere dogmatic truths. Deter-
+             minism remains a hypothesis that is very popular among philosophers,
+             but it is entirely unjustified. Determinism is an illusion.
+                Aware of modern quantum physics, most philosophers admit the
+             world is indeterministic, but they say that free will would be compatible
+             with determinism, if determinism were true.
+                Other glosses - Causality, Compatibilism, Determination, Indeterminism,
+             Pre-Determinism
+
+             Determinism Objection
+                The Determinism Objection is the first horn in the traditional di-
+             lemma of free will. Either determinism is true or indeterminism is true.
+             In neither case can there be any moral responsibility. Note that the great
+             asymmetry between determinism and indeterminism has led philoso-
+             phers to favor the kind of deterministic or causal explanations that are
+             the apparent basis for laws of nature. But determinism is an illusion.
+             Many philosophers declare themselves agnostic on this objection to free
+             will. The determinism objection is the core idea behind Peter van Inwa-
+             gen’s Consequence Argument.
+                Other glosses - Agnostic, Consequence Argument, Determinism, Luck Ob-
+             jection, Illusion, Standard Argument, Randomness Objection
+
+             Direct Argument
+                The Direct Argument for the incompatibility of determinism and
+             moral responsibility does not depend on avoidability or the ability to do
+             otherwise. John Fischer developed it as an improvement on Peter van
+             Inwagen’s Consequence Argument, using a Transfer Principle of Non-
+             Responsibility which traces the causes of current decisions and actions
+             back in the causal chain of the “actual sequence.”
+Glossary
+
+                Other glosses - Actual Sequence, Alternative Possibilities, Consequence Ar-
+             gument, Indirect Argument, Done Otherwise, Standard Argument, Tracing,
+             Transfer Principle
+
+             Do Otherwise
+                The idea that an agent could have done otherwise was historically
+             seen as a requirement for free will. This idea is in clear conflict with the
+             deterministic idea that the past allows but one possible future.
+                                          Glossary of Terms - D                   401
+
+   G. E. Moore and others say that “could have done otherwise” sim-
+ply means “if the agent had chosen to, he could have done otherwise.”
+This obviously requires a different past (which implies past alternative
+possibilities). Some philosophers call this the “if-then” hypothetical or
+conditional analysis.
+   Harry Frankfurt developed sophisticated arguments to show that al-
+ternative possibilities need not exist to claim that an agent is free.
+   Nevertheless, if in the present an agent has alternative possibilities,
+she can say “I can do otherwise.” Change that to the past tense once the
+agent has chosen and she can say “I could have done otherwise.”
+   Other glosses - Alternative Possibilities, Fixed Past, Frankfurt Examples
+
+Downward Causation
+   Downward Causation is the idea that higher-level processes can exert
+a “downward” influence on lower levels. Examples include the dualist
+immaterial mind influencing the body, and macroscopic systems, such
+as the brain, influencing quantum-mechanical wave functions at the
+level of the atoms. Where reductionism assumes all causation is from
+the bottom up., downward causation works from the top down.
+   Other glosses - Quantum Mechanics
+
+Dual Control
+   Dual Control is the power of an agent to act or not to act, in exactly
+the same circumstances. That is given the Fixed Past and the Laws of
+Nature just before the action (or the lack thereof), the agent can either
+act or avoid performing the act.
+   Robert Kane and Richard Double call this “dual (or plural) rational
+control.” Double suggests that it may be impossible to act rationally in
+two different ways, given the same reasons to act. Kane also called it the
+“plurality condition” when there are many alternative possibilities for
+                                                                                    Glossary
+
+action, each of which has comparable good reasons.
+   Actions that have dual or plural rational control are Undetermined
+Liberties.
+   Other glosses - Alternative Possibilities, Compatibilism, Control, Determin-
+ism, Done Otherwise, Laws of Nature, Undetermined Liberty, Yes-No Objec-
+tion
+       402         Free Will: The Scandal in Philosophy
+
+             E
+             Epistemic Freedom
+                Epistemic Freedom is the idea that since we cannot know the future,
+             we have a kind of freedom even in a deterministic world.
+                It is closely related to epistemic probability, which says there is no
+             real (or ontological) chance. There is only human ignorance about the
+             complete details that would allow us to predict the future exactly. Reli-
+             gious thinkers credit this to our finite minds, whereas the infinite mind
+             of God has complete Foreknowledge.
+                 Other glosses - Foreknowledge, Ontological, Probability
+
+             Event Causal
+               Event-causal libertarianism denies strict causality, the idea that every
+             event has antecedent physical causes which completely determine all
+             subsequent events. Some causes must be uncaused to break the causal
+             chain of determinism. Uncaused causes include quantum events, whose
+             outcomes are only probable. Event-causal theories raise the randomness
+             objection in the standard argument against free will.
+                Other glosses - Agent Causal, Causality, Determinism, Indeterminism,
+             Standard Argument
+
+             F
+             Fixed Past
+                The Fixed Past refers primarily to the obvious fact that past events
+             are not changeable. But it appears often in determinist/compatibilist ac-
+             counts of whether an agent could have done otherwise. “One could only
+             have done otherwise if either the Fixed Past or the Laws of Nature had
+Glossary
+
+             been different,” goes the argument.
+                The conclusion is “There is but one possible future, and it is deter-
+             mined at each moment by the Fixed Past and the (deterministic) Laws
+             of Nature.”
+                G. E. Moore and others say that “could have done otherwise” sim-
+             ply means “if the agent had chosen to, he could have done otherwise.”
+             This obviously would have been a different past, one of the alternative
+             possibilities. Some philosophers call this the “if-then” hypothetical or
+             conditional analysis.
+                                         Glossary of Terms - E                 403
+
+  Other glosses - Alternative Possibilities, Compatibilism, Determinism, Do
+Otherwise, Laws of Nature
+
+Foreknowledge
+   Foreknowledge is the idea that the future is already known, usually to
+a supernatural being.
+   In classical Newtonian physics, a Laplacian super intelligence could
+in principle predict the future from the classical laws of physics, given
+knowledge of the positions and velocities of all the atoms in the uni-
+verse.
+  Other glosses - Determinism, Free Will, Laws of Nature
+
+Frankfurt Cases
+    Frankfurt-style case or examples claim that an agent can be respon-
+sible, can be said to act freely, even though no alternative possibilities
+exist. Harry Frankfurt attacked what he called the Principle of Alternate
+Possibilities (PAP). Alternative possibilities for thought and action were
+considered to be a requirement for free will and moral responsibility
+until Frankfurt extended John Locke’s “locked room” example of a per-
+son who freely chose to stay in a room, unaware that the doors had been
+locked, so that an alternative possibility did not exist. In Frankfurt-style
+thought experiments a hypothetical demon blocks all possibilities ex-
+cept the one that he wants the agent to choose.
+    Note that Frankfurt assumes that alternative possibilities do in fact
+exist, or there would be nothing for his hypothetical intervening demon
+to block. Since information about the agent’s decision does not exist un-
+til she makes her decision, Frankfurt’s hypothetical intervening demon
+(much like the similar Laplacian demon or God’s Foreknowledge) does
+not exist. This is the Information Objection to Frankfurt-style examples.
+  Other glosses - Alternative Possibilities, Indirect Argument, Information
+Objection, Kane-Widerker Objection, Leeway Incompatibilism
+                                                                                 Glossary
+
+Freedom of Action
+   Freedom of Action must be carefully distinguished from Freedom of
+the Will.
+   An action is said to be free by classical compatibilists like Thomas
+Hobbes and David Hume if the agent is not coerced by external forces.
+       404        Free Will: The Scandal in Philosophy
+
+                The action may be completely determined by causal chains going
+             back in time before the agent’s birth, but they are nevertheless free in
+             the compatibilist sense.
+                In his essay, Two Concepts of Liberty, Isaiah Berlin defined freedom
+             of action as “negative freedom,” and free will as “positive freedom.” It
+             is also known as Voluntarism, in contrast to Origination. And it is the
+             Liberty of Spontaneity rather than Liberty of Indifference.
+                 Other glosses - Causality, Compatibilism, Determinism, Free Will, Liberty
+             of Indifference, Liberty of Spontaneity, Origination, Voluntarism
+
+             Free Will
+                Free Will is sometimes called Freedom of Action. Libertarian Free
+             Will includes the availability of Alternative Possibilities and the ability
+             to Done Otherwise.
+                John Locke encouraged the separation of the adjective free, which
+             describes deliberation, from the (adequate) determination of the will.
+                Other glosses - Adequate Determinism, Alternative Possibilities, Delibera-
+             tion, Done Otherwise
+
+             Future Contingency
+                 The most famous Future Contingent is Aristotle’s Sea Battle (De
+             interpretatione 9). The Principle of Bivalence says that the statement
+             “There will be a sea battle tomorrow” is either true or false. And either
+             way necessarily binds the truth of the future contingent event.
+                 Diodorus Cronus’ “Master Argument” denied any future contingen-
+             cy.
+                 Aristotle, ever sensible, decided that there was no present truth or
+             falsity to a future contingent statement. He denied that the truth of a
+             proposition is a necessary truth, and thus denied Logical Determinism.
+             Indeed, contingency means that the event depends on the future, and so
+Glossary
+
+             does its truth.
+                 Many Stoics appear to have regarded the truth of future contingent
+             statements as predetermining all future events. But Chrysippus denied
+             necessity even as he affirmed fate and physical causal determinism.
+                 Modern philosophers (especially J. Łukasiewicz) have developed a
+             three-valued logic to handle such statements, but not with complete
+             success.
+                Other glosses - Determinism, Principle of Bivalence, Master Argument,
+             Standard Argument
+                                         Glossary of Terms - F                  405
+
+G
+Guidance Control
+    John Martin Fischer separates an agent’s control into two kinds. The
+first he calls “guidance control” - the kind of control needed to initiate
+or originate an action, by being “reasons-responsive” and taking owner-
+ship of the action, meaning the agent can say the action was “up to me.”
+For Fischer, this includes steering a vehicle which is on a fixed track and
+actually can only make determined turns.
+    Another kind of control is “regulative control” - the kind needed to
+choose between “alternative possibilities.” Fischer describes guidance
+control as happening in the “actual sequence,” where regulative control
+refers to “alternative sequences” of events. Derk Pereboom uses the re-
+lated terms source and leeway incompatibilism.
+  Other glosses - Actual Sequence, Alternative Possibilities, Alternative Se-
+quences, Control, Direct Argument, Leeway Incompatibilism, Origination,
+Reasons-Responsive, Source Incompatibilism
+
+H
+Hard Determinism
+   Hard Determinism was coined by William James to describe deter-
+minists who fully accept the negative implications of determinism. They
+reject any free will. They deny the voluntarism of Thomas Hobbes, the
+negative “freedom from” external constraints on our actions. They also
+deny any positive “freedom to” originate our actions, to be the authors
+of our lives, the claim that things “depend on us” (in Greek ἐφ ἡμῖν).
+   Other glosses - Compatibilism, Determinism, Hard Incompatibilism, Origi-
+nation, Up To Us, Voluntarism
+                                                                                  Glossary
+
+Hard Incompatibilism
+   Hard incompatibilists deny any indeterminism in the “actual se-
+quence” of events. No event “originates” in the agent. Since nothing is
+“up to us,” they argue for the incompatibility of determinism and moral
+responsibility.
+       406         Free Will: The Scandal in Philosophy
+
+                Hard incompatibilists deny both free will and moral responsibility.
+             They call free will an “illusion” and some call for revisionism. William
+             James called such thinkers “hard determinists.” Derk Pereboom coined
+             the new term for those who are agnostic on indeterminism and deny
+             free will and moral responsibility, whether determinism is true or not.
+                Other glosses - Actual Sequence, Agnostic, Illusion, Indeterminism, Origi-
+             nation, Revisionism, Source Incompatibilism, Up To Us
+
+             Hierarchy Of Desires
+                Harry Frankfurt formulated the idea of a Hierarchy Of Desires. First-
+             order desires or volitions are desires to act. Second-order desires are
+             desires to desire, for example, to want to act. The theory invites a regress
+             of willings, and recalls the comments of John Locke and Arthur Scho-
+             penhauer. “We are free to will, but can we will what we will?”
+                Frankfurt says moral responsibility requires a first-order desire with
+             which the agent “identifies,” which means she has a second-order desire
+             that is consistent with the first-order desire that moves her to action.
+                 Other glosses - Moral Responsibility
+
+             I
+             Illusion
+                 It is now common among hard incompatibilists to call free will an
+             illusion. this may be because of Frankfurt Examples that claim to prove
+             that Alternative Possibilities do not exist. Or it may be because of the
+             standard argument against free will. In any case, the real illusion is de-
+             terminism, in its many forms.
+                 Illusionists are often revisionists calling for an end to retributive pun-
+             ishment.
+                Other glosses - Alternative Possibilities, Frankfurt Examples, Hard Incom-
+Glossary
+
+             patibilism, Standard Argument, Retributivism, Revisionism
+
+             Incompatibilism
+                Incompatibilists come in two kinds. Both claim that determinism is
+             incompatible with free will. One kind were called “hard determinists”
+             by William James. They deny free will. The other are libertarians. They
+             deny determinism.
+                Today many incompatibilists declare themselves agnostic about the
+             “truth” of determinism and say the incompatibilities extend to indeter-
+             minism as well.
+                                         Glossary of Terms - H                   407
+
+   Derk Pereboom coined “hard incompatibilism” to describe agnostics
+on determinism who deny both free will and moral responsibility. They
+call free will an “illusion” and some call for revisionism.
+   The traditional argument for incompatibilism assumes alternative
+possibilities and the ability to do otherwise. The Consequence Argu-
+ment and Direct Argument do not.
+   Other glosses - Agnostic, Alternative Possibilities, Broad Incompatibilism,
+Consequence Argument, Determinism, Done Otherwise, Direct Argument,
+Hard Incompatibilism, Indeterminism, Illusion, Indeterminism, Illusion, Lee-
+way Incompatibilism, Semicompatibilism, Source Incompatibilism, Tradition-
+al Argument
+
+Indeterminism
+   Indeterminism is the idea that some events are uncaused, specifically
+that they are random accidents with only probabilistic outcomes. In an-
+cient times, Epicurus proposed that atoms occasionally swerve at ran-
+dom, breaking the causal chain of determinism and allowing for moral
+responsibility. In modern physics, we now know that atoms constantly
+swerve, or move indeterministically, whenever they are in the presence
+of other atoms. The universe is irreducibly random on the atomic scale.
+Laws of Nature are therefore probabilistic or statistical. Although for
+large objects, the departure from classical laws of motion is usually en-
+tirely insignificant, indeterministic quantum noise plays a role in the
+two-stage model of free will.
+  Other glosses - Causality, Causa Sui, Determinism, Laws of Nature, Moral
+Responsibility, Probability
+
+Indirect Argument
+   The Indirect Argument for the incompatibility of determinism and
+moral responsibility depends on avoidability or the ability to do other-
+wise. If the agent does not have alternative possibilities, she cannot do
+                                                                                   Glossary
+
+otherwise, and she cannot be morally responsible.
+  Other glosses - Alternative Possibilities, Basic Argument, Consequence Ar-
+gument, Direct Argument, Standard Argument
+
+Information Objection
+  The Information Objection claims that Frankfurt examples can not
+prove that Alternative Possibilities do not exist, because the information
+needed by an intervener to block alternatives does not exist until the
+moment of an agent’s decision.
+       408        Free Will: The Scandal in Philosophy
+
+                Other glosses - Alternative Possibilities, Frankfurt Examples, Kane-Widerk-
+             er Objection, Standard Argument, Yes-No Objection
+
+             Intellect
+                Intellect is often contrasted with Will, when the latter is identified
+             with the desires and passions and the former identified with reason.
+             From Aquinas to Hume, some philosophers argued that acts of will are
+             always based on emotions and desires, not the pure intellect that gener-
+             ates, evaluates, and deliberates the alternative possibilities.
+               Other glosses - Alternative Possibilities, Deliberation, Evaluation, Reasons-
+             Responsive
+
+             K
+             Kane-Widerker Objection
+                Robert Kane and later David Widerker objected to Frankfurt-style
+             examples that posit a demon or intervener who allows the agent to do
+             “freely” whatever the intervener wants her to do. The objection notes
+             that the intervener can not know what an agent is going to do without
+             assuming the agent is determined and the intervener has Foreknowl-
+             edge. This is an epistemic objection.
+                The intervener needs a “prior sign” of the causal chain. Such a sign is
+             an event that leads causally to the decision, and thus Frankfurt examples
+             “beg the question” by assuming determinism. Information about the
+             agent’s decision does not exist until she makes her decision (the onto-
+             logical Information Objection), so Frankfurt’s hypothetical intervening
+             demon (much like the similar Laplacian demon or God’s Foreknowl-
+             edge) can not exist.
+               Other glosses - Alternative Possibilities, Frankfurt Examples, Information
+             Objection, Yes-No Objection
+Glossary
+
+             L
+             Laws of Nature
+               The “Laws of Nature” are often cited in compatibilist arguments as
+             controlling events, together with the “Fixed Past.”
+               The idea appears often in determinist/compatibilist accounts of
+             whether an agent could have done otherwise. “One could only have
+                                           Glossary of Terms - K              409
+
+done otherwise if either the Fixed Past or the Laws of Nature had been
+different,” goes the argument. The Fixed Past refers primarily to the ob-
+vious fact that past events are not changeable.
+   The usual conclusion is “There is but one possible future, and it is
+determined at each moment by the Fixed Past and the (deterministic)
+Laws of Nature.”
+   However, the real Laws of Nature, beginning with the most funda-
+mental laws of physics, are indeterministic and probabilistic, reflecting
+the availability of alternative possibilities..
+  Other glosses - Alternative Possibilities, Compatibilism, Determinism,
+Done Otherwise, Fixed Past
+
+Leeway Incompatibilism
+   Leeway Incompatibilism requires indeterminism in the “alternative
+sequences” provided by alternative possibilities, to establish incompat-
+ibility of determinism and moral responsibility. By contrast, Source In-
+compatibilism depends on actions that originate within the agent in the
+“actual sequence.” Derk Pereboom coined this term, which is a variation
+on the Principle of Alternative Possibilities (PAP).
+  Other glosses - Alternative Possibilities, Source Incompatibilism
+
+Liberty of Indifference
+   Liberty of Indifference (liberum arbitrium indifferentiae) is an an-
+cient case of two options so similar that only a miniscule effort is needed
+to choose one over the other. This seemed to be a case where even an
+immaterial mind might move a material body. It was also argued that
+where options are identical, randomness would suffice to choose one.
+Some philosophers argued that this randomness was at the heart of free
+will, showing its absurdity and unintelligibility. In a famous example
+typical of philosophical test cases, the scholastic teacher Jean Buridan
+                                                                                Glossary
+
+placed an ass equidistant between identical bales of hay. Since animals
+lack our God-given liberty, Buridan argued, the ass would starve to
+death.
+  Other glosses - Alternative Possibilities,
+
+Liberty of Spontaneity
+  Liberty of Spontaneity was Descartes’ (and the Scholastics’) term for
+what Thomas Hobbes called Voluntarism. Spontaneity translates the
+Greek automaton (αủτóματον).
+       410        Free Will: The Scandal in Philosophy
+
+                Descartes contrasted it with Liberty of Indifference, but they are
+             not proper opposites. It is more properly contrasted with Libertarian
+             “Free Will” and with Berlin’s Positive Freedom, which is the “freedom
+             to” choose or act that comes with genuine Alternative Possibilities and
+             results in actions that are “up to us.,”that we originate.
+                Other glosses - Alternative Possibilities, Liberty of Indifference, Self-Real-
+             ization, Voluntarism
+
+             Logical Fallacy
+                The Logical Fallacy is to assume that purely logical (and linguistic)
+             analysis can yield “truths” about the world. Logical positivism was in
+             practical terms a logical fallacy. The hundreds of papers published on
+             Harry Frankfurt’s attacks on the idea of alternative possibilities are a
+             prime example. Nothing is logically true of the physical world. Modal
+             analyses using the idea of possible worlds shows that anything that is
+             not internally contradictory can be postulated of some possible world.
+                Other glosses - Alternative Possibilities, Frankfurt-style Examples,
+
+             Luck Objection
+                The Luck Objection to free will and moral responsibility arises be-
+             cause the world contains irreducible indeterminism and chance. As a
+             result, many unintended consequences of our actions are out of our
+             control.
+                We are often held responsible for actions that were intended as good,
+             but that had bad consequences. Similarly, we occasionally are praised
+             for actions that were either neutral or possibly blameworthy, but which
+             had good consequences.
+                In a deterministic world, it is hard to see how we can be held re-
+             sponsible for any of our actions. Counterintuitively, semicompatibilist
+             philosophers hold that whether determinism or indeterminism is true,
+Glossary
+
+             we can still have moral responsibility.
+                At the other end of the spectrum, some libertarians are critical of any
+             free will model that involves chance, because the apparent randomness
+             of outcomes would make such free will unintelligible, because it would
+             be a matter of luck.
+                Unfortunately, much of what happens in the real world contains a
+             good deal of luck, giving rise to many of the moral dilemmas that lead
+             to moral skepticism.
+                Whether determinist, compatibilist, semicompatibilist, or libertar-
+             ian, it seems unreasonable to hold persons responsible for the unin-
+                                        Glossary of Terms - L                411
+
+tended consequences of their actions, good or bad. In many moral and
+legal systems, it the person’s intentions that matter first and foremost.
+   And in any case, actions need not have moral consequences to be
+free, that would commit the moral restrictivism of restricting free deci-
+sions to moral decisions.
+   Other glosses - Agnostic, Consequentialism, Control, Determinism Objec-
+tion, Moral restrictivism, Indeterminism, Mind Argument, Moral Luck, Stan-
+dard Argument, Randomness Objection
+
+M
+Manipulation Argument
+   The Manipulation Argument grows out of the accepted loss of con-
+trol and moral responsibility for agents who are addicted or induced
+to act by hypnosis and the like. As with the hypothetical interveners
+in Frankfurt-style cases, these arguments often postulate counterfactual
+manipulators - such as evil neuroscientists who control the develop-
+ment of persons from the egg (as in Brave New World) or condition
+them in their formative years (like a “Skinner box” reinforcing selected
+behaviors). The argument says that if we deny responsibility when such
+manipulators have control, why not deny it when causal determinism
+(or random indeterminism) is in control?
+   The Manipulation Argument is only meant to enhance the intuition
+of lost control, in order to support the Consequence Argument and
+similar Determinism Objections in the standard argument against free
+will. Derk Pereboom’s Four-Case Argument is a well-known example of
+a Manipulation Argument.
+   Other glosses - Consequence Argument, Control, Moral Responsibility,
+Standard Argument
+
+Master Argument
+                                                                               Glossary
+
+   The Master Argument was first formulated by Diodorus Cronus, a
+late 4th-century philosopher of the Megarian School, who argued that
+the actual is the only possible and that some true statements about the
+future imply that the future is already determined. He formulated a
+“Master Argument” to show that if something in the future is not going
+to happen, it was true in the past that it would not happen.
+       412        Free Will: The Scandal in Philosophy
+
+                This is related to the problem of future contingency, made famous in
+             the example of Aristotle’s Sea-Battle in De Interpretatione 9. Aristotle
+             thought statements about the future lacked any truth value.
+                Note that the truth value of a statement made in the past can “actu-
+             ally” be changed if an event does or does not happen, showing that the
+             “fixed past” has some changeability.
+                Other glosses - Actualism, Basic Argument, Consequence Argument, Fu-
+             ture Contingency, Principle of Bivalence, Standard Argument
+
+             Mind Argument
+                The Mind Argument is Peter van Inwagen’s name for the Random-
+             ness Objection in the standard argument against free will. Alfred Mele
+             calls it the “Luck Objection.”
+                Van Inwagen named the Mind Argument for the journal Mind,
+             where most of the randomness objections were published, especially R.
+             E. Hobart’s 1934 classic “Free Will As Involving Determination And In-
+             conceivable Without It.”
+               Other glosses - Luck Objection, Randomness Objection, Standard Argu-
+             ment
+
+             Modal Fallacy
+                The Modal Fallacy usually involves possible or contingent statements
+             that are falsely claimed to be necessary. For example:
+                   This proposition is true. (contingent)
+                   If it is true, it cannot be false. (contingent)
+                   If it cannot be false, then it is true and necessarily true (modal fal-
+             lacy).
+                Ted Warfield clams that his colleague Peter van Inwagen’s Conse-
+             quence Argument contains contingent premises that make it a modal
+             fallacy. Warfield has reformulated a purely necessary form of the argu-
+Glossary
+
+             ment. Unfortunately, necessary arguments do not apply to the world.
+               Other glosses - Consequence Argument
+
+             Modest Libertarianism
+                Modest Libertarianism is a concept proposed by Alfred Mele for con-
+             sideration by Libertarians. It is a two-stage model of free will in which
+             indeterminism is limited to the early stages of the deliberation process
+                                         Glossary of Terms - M                   413
+
+which consider alternative possibilities that may or may not “come to
+mind.” Modest libertarianism is a variation of Daniel Dennett’s 1978
+two-stage “Valerian” decision model, in his provocative essay “Giving
+Libertarians What They Say They Want.”
+   Mele feels that randomness anywhere in the causal chain leads to his
+Luck Objection, a variation on the standard Randomness Objection.
+  Other glosses - Alternative Possibilities, Indeterminism, Luck Objection,
+Randomness Objection
+
+Moral Luck
+   Moral Luck is Thomas Nagel’s notion that since an action’s conse-
+quences are beyond the agent’s control, randomness makes moral re-
+sponsibility a matter of chance. This is often framed as the Luck Objec-
+tion, a variation on the randomness objection Since there is irreducible
+randomness in the universe, there are no doubt many cases where luck
+enters into moral situations, but not universally. Many actions are ad-
+equately determined and have reliable and predictable consequences,
+enough to establish the general concept of moral responsibility.
+  Other glosses - Adequate Determinism, Consequentialism, Control, Luck
+Objection, Moral Responsibility, Standard Argument, Randomness Objection
+
+Moral Restrictivism
+   Moral Restrictivism is to assume that free choices are restricted to
+moral decisions. Robert Kane does this, as did Plato and the Scholastics.
+This is not to deny that moral responsibility is historically intimately
+connected with free will and even dependent on the existence of free
+will (for libertarians and broad compatibilists). Any decision can be
+free. Our freedom to act also includes merely practical, financial, and
+fiduciary judgments, as well as occasional non-rational flip-of-the-coin
+decisions and even misjudgments.
+  Other glosses - Moral Responsibility, Restrictivism
+                                                                                   Glossary
+
+Moral Responsibility
+   Moral Responsibility is historically tightly connected to the problem
+of free will, but it is an moral restrictivism to require that free choices be
+moral decisions.
+  Other glosses - Moral Restrictivism
+       414         Free Will: The Scandal in Philosophy
+
+             Moral Sentiments
+                Moral Sentiments arguably would exist whether or not determin-
+             ism is “true.” David Hume first made this argument, but Peter Strawson
+             made it famous in current debates, with his agnosticism about deter-
+             minism vs. free will, in favor of a Humean Naturalism that takes our
+             moral sentiments as givens that are beyond the skepticism of logic and
+             critical thought.
+                Note that Hume the Naturalist had no problem “Deriving Ought
+             from Is” - something shown logically impossible by Hume the Skeptic.
+                 Other glosses - Agnostic, Moral restrictivism, Naturalism
+
+             Moral Skepticism
+                Moral Skepticism challenges the idea that there are always rational
+             and best answers to moral questions. Because there are various theories
+             of morality - deontic, pragmatic, utilitarian, etc, it is easy to construct
+             moral dilemmas and paradoxes. Moral skeptics like Walter Sinnott-
+             Armstrong believe these are real problems in life and cannot be ex-
+             plained away by clever arguments.
+                Note that moral skepticism tends to lead to relativism and moral ni-
+             hilism in the absence of objective values.
+                 Other glosses - Moral Responsibility
+
+             N
+             Narrow Incompatibilism
+                Narrow Incompatibilism is Randolph Clarke’s synonym for John
+             Martin Fischer’s concept of Semicompatibilism. Clarke distinguishes it
+             from his term Broad Incompatibilism.
+                Narrow Incompatibilism is incompatible with free will, but not with
+Glossary
+
+             moral responsibility.
+               Other glosses - Broad Incompatibilism, Compatibilism, Incompatibilism,
+             Moral Responsibility, Semicompatibilism
+
+             Naturalism
+                Naturalism is the position that the Laws of Nature (assumed to be de-
+             terministic) apply to human beings and their actions, because humans
+             are natural things, continuous with animals and other things that lack
+                                        Glossary of Terms - M                415
+
+free will. The position originated with David Hume and has been devel-
+oped in the moral responsibility debates by Paul Russell.
+   Naturalists tend to be revisionists on retributive punishment.
+   Assuming that free will is restricted to morally responsible agents is
+an example of the Moral restrictivism. One way of seeing the continu-
+ous nature between animals and humans is to recognize that animals,
+like children, have a will and freedom of action, they just lack moral
+responsibility.
+  Other glosses - Determinism, Moral restrictivism, Laws of Nature, Moral
+Responsibility, Restrictivism, Revisionism
+
+Naturalistic Fallacy
+   G. E. Moore in Principia Ethica claimed that ethics is human, not
+natural. So ethical claims can not be supported by appeals to natural
+properties, like pleasure or utility. Moore thinks “good” cannot be de-
+fined. It is an elemental essential property.
+   Moore’s ethical non-naturalism resembles David Hume”s denial that
+“ought” (human ethics) can be derived from “is” (nature).
+   Note the conflict with Naturalists for whom natural behaviors are
+moral behaviors, and “un-natural” behaviors are bad.
+  Other glosses - Moral restrictivism, Moral Responsibility, Naturalism
+
+O
+Ontological
+   Ontology is the study of real things existing in the world. A crisis in
+philosophy emerged when Locke and Hume, and later Kant, observed
+that all our knowledge comes to us through our perceptions. We cannot
+know the “things themselves” behind the perceptions. Moreover, our
+perceptions may be illusions.
+                                                                               Glossary
+
+   The existence of real ontological chance is often denied by those who
+claim that randomness and probability are merely the result of human
+ignorance. Chance, they say is an epistemic problem, not an ontological
+one.
+  Other glosses - Epistemic, Illusion, Probability, Randomness
+       416         Free Will: The Scandal in Philosophy
+
+             Origination
+                Origination is the idea that new causal chains can begin with an
+             agent, something that is not predetermined to happen by events prior to
+             the agent’s deliberation (between alternative possibilities) and decision.
+             Origination accounts for creativity.
+                Ted Honderich is “dismayed” because the truth of determinism re-
+             quires that we give up “origination” with its promise of an open future.
+             For him, limiting freedom to classical compatibilist voluntarism means
+             we are not the authors of our own actions. They are not up to us.
+               Other glosses - Agent Causal, Alternative Possibilities, Causa Sui, Up To Us,
+             Voluntarism
+
+             Ought From Is
+               David Hume famously criticized philosophers for talking about the
+             way things are and suddenly describing the way they ought (or ought
+             not) to be, as if the ought had been deduced from the is.
+               Moore’s naturalistic fallacy similarly denies that ethical rules can de-
+             pend on natural facts.
+               Other glosses - Moral restrictivism, Naturalistic Fallacy
+             Ought Implies Can
+                Ought Implies Can (sometimes abbreviated K) is the deontic prin-
+             ciple, usually attributed to Immanuel Kant, that an agent ought to do a
+             moral act only if she actually can do it, if she has control.
+                 Other glosses - Control, Done Otherwise, Voluntarism
+
+             P
+             Possible Worlds
+Glossary
+
+                 Gottfried Leibniz argued that necessary truths are true in all possible
+             worlds. David Lewis appears to have believed that the truth of his coun-
+             terfactuals was a result of believing that for every non-contradictory
+             statement there is a possible world in which that statement is true. This
+             is called modal realism. It implies the existence of infinitely many paral-
+             lel universes, an idea similar to the contraversial many-world interpre-
+             tations of quantum mechanics.
+                                         Glossary of Terms - O                 417
+
+   The astronomer David Layzer analyzes questions of free will in terms
+of many possible worlds.
+   It is a bit ironic that philosophers, who are skeptical about our abil-
+ity to obtain knowledge of the real external world, are optimistic about
+many possible worlds.
+Other glosses - Alternative Possibilities, Modal Fallacy, Quantum Mechanics
+
+Pre-Determinism
+   Pre-Determinism is the idea that a strict causal determinism is true,
+with a causal chain of events back to the origin of the universe, and one
+possible future.
+   It is what most philosophers mean when they say that free will is
+compatible with determinism, and when they use determinism in the
+standard argument against free will.
+  Other glosses - Causality, Compatibilism, Determinism, Standard Argu-
+ment
+
+Principle of Alternate Possibilities
+   The Principle of Alternate (sic) Possibilities (or PAP) was formulated
+as follows in 1961 by Harry Frankfurt in order to defend compatibilism
+from the apparent lack of alternative possibilities in the deterministic
+world of classical compatibilism.
+      PAP: A person is morally responsible for what he has done only if
+he could have done otherwise.
+   Frankfurt maintained that PAP was false, and that agents could be
+free and morally responsible without alternative possibilities and the ca-
+pability to do otherwise in the same circumstances.
+  Other glosses - Alternative Possibilities, Determinism, Done Otherwise,
+Moral Responsibility, Same Circumstances
+                                                                                 Glossary
+
+Principle of Bivalence
+    The Principle of Bivalence is that for any proposition p, either p is
+true or p is false. It is the reason the standard argument against free will
+is framed as two horns of a dilemma. Either determinism is true or false.
+Most philosophers do not want to give up the idea of causal determin-
+ism, so opt to be compatibilists.
+       418        Free Will: The Scandal in Philosophy
+
+                Bivalence is also known as “the law of the excluded middle.” There is
+             no middle term between true and false. This becomes the basis for the
+             idea that there is no tertium quid or middle between chance and neces-
+             sity, perceived as logical opposites.
+                The Principle of Bivalence is also the basis for Logical Determinism,
+             in which the present truth of a statement implies its truth in the future.
+                Other glosses - Determinism, Future Contingency, Standard Argument
+
+             Probability
+                 Probability has often been a way to deny real chance. The great math-
+             ematicians who invented the calculus of probabilities, which governs
+             games of chance, thought that there was nothing random really going
+             on. For them probability was merely a result of human ignorance. The
+             problem was epistemic, not ontological.
+                 Deterministic Laws of Nature guarantee we could predict the future,
+             if only we had all the information needed. Laplace’s demon, a supreme
+             intelligence, could know the future, as God foreknows it, if he knew the
+             positions and velocities of all the particles in the universe.
+                 Today we know that the Laws of Nature are not deterministic. Not
+             only are they probabilistic, but irreducibly random, due to the under-
+             lying quantum mechanics that has replaced classical mechanics as the
+             proper description of the universe’s fundamental particles.
+                 The laws become arbitrarily close to certain in the limit of large num-
+             bers of particles (billiard balls, planets), leading to the illusion of per-
+             fectly deterministic laws.
+                 Probability is the explanation for alternative possibilities and unpre-
+             dictable “uncaused” causes (causa sui) that are the “free” part of “free
+             will.”
+                Other glosses - Alternative Possibilities, Causa Sui, Determinism, Epistemic,
+             Foreknowledge, Illusion, Laws of Nature, Ontological, Quantum Mechanics
+Glossary
+
+             Q
+             Quantum Mechanics
+                The development of Quantum Mechanics in the late 1920’s marked
+             the end of physical determinism.
+                Quantum mechanics has replaced classical mechanics as the proper
+             description of the universe’s fundamental particles. But note that in the
+                                        Glossary of Terms - Q                  419
+
+limit of macroscopic objects with large numbers of particles, the quan-
+tum laws correspond exactly to (i.e., become the same as) the classical
+laws. This is Neils Bohr’s correspondence principle.
+   Deterministic Laws of Nature have been replaced with probabilistic
+laws. Quantum events can start new “causal chains” with events that are
+unpredictable from prior events, self-caused events that are causa sui.
+   Quantum phenomena are behind the generation of alternative pos-
+sibilities that are the “free” part of “free will.”
+  Other glosses - Alternative Possibilities, Causa Sui, Determinism, Laws of
+Nature, Probability
+
+R
+Randomness Objection
+   The Randomness Objection is the second horn in the traditional di-
+lemma of free will. Either determinism is true or indeterminism is true.
+In neither case can there be any moral responsibility. Note that the great
+asymmetry between determinism and indeterminism has led philoso-
+phers to favor the kind of deterministic or causal explanations that are
+the apparent basis for laws of nature. But determinism is an illusion.
+   Indeterminism is a greater threat to moral responsibility than deter-
+minism, since it is associated with many negative ideas, such as chance.
+Nevertheless, many philosophers declare themselves agnostic on this
+objection to free will. The randomness objection is the core idea behind
+Peter van Inwagen’s Mind Argument.
+  Other glosses - Agnostic, Determinism Objection, Illusion, Indeterminism,
+Luck Objection, Mind Argument, Standard Argument
+
+Reactive Attitudes
+                                                                                 Glossary
+
+   Reactive Attitudes were identified by Peter Strawson as feelings that
+we would naturally have even if we were convinced of the truth of deter-
+minism (or indeterminism). Strawson was an early agnostic, claiming
+he could not make sense of either). Reactive Attitudes include gratitude
+and resentment, and our normal tendency to praise or blame, punish or
+reward. Strawson modeled his naturalist claims in the face of skepticism
+about free will after David Hume, who overcame his own famous skepti-
+cal views to claim ethical truths could be found in naturalism.
+    Other glosses - Naturalism
+       420        Free Will: The Scandal in Philosophy
+
+             Reasons-Responsive
+                Reasons-Responsiveness describes an agent who has the kind of con-
+             trol needed to initiate or originate an action. Being “reasons-respon-
+             sive” and taking ownership of the action means the agent can say the
+             action was “up to me.” John Martin Fischer calls this “guidance control”
+             in the “actual sequence” of events that figure in the “Direct Argument”
+             for source incompatibilism. Fischer’s account of moral responsibility is
+             like Thomas Aquinas’ and Susan Wolf ’s account of free actions as those
+             guided by reasons.
+               Other glosses - Actual Sequence, Control, Direct Argument, Origination,
+             Source Incompatibilism, Up To Us
+
+             Regulative Control
+                 John Martin Fischer separates an agent’s control into two kinds. The
+             first he calls “guidance control” - the kind of control needed to initiate
+             or originate an action, by being “reasons-responsive” and taking owner-
+             ship of the action, meaning the agent can say the action was “up to me.”
+             The other kind of control is “regulative control” - the kind needed to
+             choose between “alternative possibilities.” Fischer describes these op-
+             tions as happening in the “actual sequence” or “alternative sequences”
+             of events. Derk Pereboom uses the related terms source and leeway in-
+             compatibilism.
+                Other glosses - Actual Sequence, Alternative Possibilities, Alternative Se-
+             quences, Control, Direct Argument, Guidance Control, Leeway Incompatibil-
+             ism, Origination, Reasons-Responsive, Source Incompatibilism
+
+             Restrictivism
+                Restrictivist theories claim that the number of “free” actions is a tiny
+             fraction of all actions. Robert Kane, for example limits them to rare “self-
+             forming actions” (SFAs) in which weighty and difficult moral decisions
+Glossary
+
+             are made. Limiting freedom to moral decisions is the moral restrictiv-
+             ism. Peter van Inwagen restricts free will to cases where the reasons that
+             favor either alternative are not clearly stronger. This is the ancient liberty
+             of indifference. Susan Wolf restricts free decisions to those made ratio-
+             nally according to “the True and the Good.”
+               Other glosses - Liberty of Indifference, Self-Forming Action
+
+             Retributivism
+               Retributivism describes punishment that is deserved because the
+             agent was morally responsible for the crime. Many hard incompatibilists
+                                            Glossary of Terms - R                 421
+
+who think free will is an illusion, and many naturalists, are revisionists
+calling for an end to retributive punishment.
+   Susan Wolf has pointed out the strange asymmetry between praise
+and blame. Those opposed to punishment for retributive reasons (as op-
+posed to practical consequentialist reasons) are often in favor of praise
+for good deeds. This reflects the ancient Platonic view that we are re-
+sponsible only for the good we do. Our errors we blame on our igno-
+rance, which is, unfortunately, no excuse before the law.
+    Other glosses - Illusion, Moral Responsibility, Naturalism, Revisionism
+
+Revisionism
+   Revisionists hope to change popular attitudes about free will and
+moral responsibility, bringing them more into line with the views of
+modern philosophy. A leading issue is the widely held view among
+current philosophers that free will is an illusion. Revisionists conclude
+there should be an end to retributive punishment.
+    Other glosses - Illusion, Moral Responsibility, Retributivism
+
+Rule Beta
+   Rule Beta is Peter van Inwagen’s “Third Argument” for incompatibil-
+ism. Van Inwagen argues against the compatibilism of determinism and
+moral responsibility. It is a Transfer Principle of unavoidability (one has
+no choices and can not do otherwise ).
+      p, and no one has, or ever had, any choice about that. If p then q,
+and no one has, or ever had, any choice about that. Hence, q, and no one
+has, or ever had, any choice about that.
+   Rule Beta wraps the ancient and physical dilemma of determinism
+in analytical logical window dressing. It is identical to the Determinist
+Objection in the standard argument against free will.
+   Other glosses - Done Otherwise, Logical Fallacy, Moral Responsibility, Stan-
+                                                                                    Glossary
+
+dard Argument, Transfer Principle
+
+S
+Same Circumstances
+    Determinists argue that, given the Laws of Nature and the Fixed Past,
+it is impossible for an agent to act differently in Exactly the Same Cir-
+cumstances. Libertarians demand such Dual Rational Control and the
+ability to Do Otherwise as a freedom condition.
+    Other glosses - Done Otherwise, Fixed Past, Laws of Nature
+       422        Free Will: The Scandal in Philosophy
+
+             Self-Determination
+                Self-Determination is the idea of a positive freedom, a freedom for
+             actions that we originate, actions that are “up to us.” Such acts constitute
+             the essence of Free Will. This is Mortimer Adler’s term, adopted also by
+             Robert Kane. Adler called it the Natural Freedom of Self-Determination.
+             to indicate it is a universal property. It is a Determined De-Liberation.
+                Other glosses - Determination, Determined De-Liberation, Origination,
+             Self-Perfection, Self-Realization, Up to Us
+
+             Self-Forming Action
+                Self-Forming Actions (SFAs) are Robert Kane’s idea of free actions in
+             the distant past that contribute to our character and values. When we act
+             out of habit today, we trace the Ultimate Responsibility (UR) for those
+             actions back to those SFAs. Although current habitual actions may seem
+             (adequately) determined, they are still self-determined and thus free.
+                We can be responsible for current actions that are essentially (viz. ad-
+             equately) determined by our character and values, as long as we formed
+             that character ourselves by earlier free Self-Forming Actions. For Kane,
+             SFAs in turn require brains that are not deterministically caused by any-
+             thing outside the agent.
+               Other glosses - Self-Determination, Tracing, Ultimate Responsibility
+
+             Self-Perfection
+                Self-Perfection is the idea from Plato to Kant that we are only free
+             when our decisions are for reasons and we are not slaves to our passions.
+             Mortimer Adler’ called it the Acquired Freedom of Self-Perfection. to
+             indicate it is acquired in moral development. It is also used by Robert
+             Kane. Adler cites many theologically minded philosophers who argue
+             that man is only perfect and free when following a divine moral law
+             (the moral restrictivism). Sinners, they say, do not have free will, which
+Glossary
+
+             is odd because on their account sinners are presumably responsible for
+             evil in the world despite an omniscient, omnipotent, and benevolent
+             God.
+                Other glosses - Moral Restrictivism, Restrictivism, Self-Determination,
+             Self-Realization
+
+             Self-Realization
+                Self-Realization is the idea of freedom as freedom from coercions
+             that make our actions not up to us. It is known as Freedom of Action.
+                                         Glossary of Terms - S                  423
+
+Mortimer Adler’ called it the Circumstantial Freedom of Self-Realiza-
+tion. to indicate it depends on external circumstances. Today this nega-
+tive freedom recognizes internal coercions as well, such as addictions or
+mental disabilities. This is the classical compatibilist definition of free-
+dom, also known as voluntarism. It is also used by Robert Kane.
+   Other glosses - Compatibilism, Self-Determination, Self-Perfection, Volun-
+tarism
+
+Semicompatibilism
+   Semicompatibilism is John Martin Fischer’s name for the compatibil-
+ism of moral responsibility and determinism (or indeterminism). It is
+contrasted with classical compatibilism, the broader idea that free will is
+compatible with determinism.
+   Randolph Clarke calls these respectively Narrow and Broad Incom-
+patibilism.
+   Classical compatibilists are determinists. Semicompatibilists avoid
+the determinist label, claiming to be agnostic about the “truth” of deter-
+minism or indeterminism. Semicompatibilism grew out of the apparent
+success of Harry Frankfurt’s attacks on the Principle of Alternate Pos-
+sibilities.
+   Other glosses - Agnostic, Compatibilism, Determinism, Frankfurt Exam-
+ples, Indeterminism, Narrow Incompatibilism
+
+Soft Causality
+   Soft Causality is the idea that most events are adequately determined
+by normal causes, but that some events are not precisely predictable
+from prior events.
+   Soft Causality includes occasional quantum events, which are only
+probabilistic and statistical. This means that they are not strictly caused
+by prior events, although they may be causes of subsequent events. They
+                                                                                  Glossary
+
+depend on chance in the form of irreducible quantum indeterminacy
+   Their unpredictability leads us to call them uncaused events, which
+in turn become uncaused causes (causa sui) that start new causal chains.
+   Other glosses - Adequate Determinism, Causality, Causa Sui, Determinism,
+Indeterminacy, Indeterminism
+
+Soft Compatibilism
+   Soft Compatibilism is one of Alfred Mele’s terms. Soft compatibilists
+know, as a result of quantum physics, that determinism is not true. They
+think that some indeterminism, in the right places, might be useful. For
+       424        Free Will: The Scandal in Philosophy
+
+             soft compatibilists, the right place is in what John Martin Fischer calls
+             the Actual Sequence, where it breaks the causal chain of determinism
+             back to the Big Bang. This position is also known as Source Incompati-
+             bilism.
+                Note that soft compatibilists accept the traditional Voluntarism of
+             Thomas Hobbes and David Hume. Even if determinism were true, they
+             say, there would still be Freedom of Action.
+               Other glosses - Compatibilism, Determinism, Freedom of Action, Free Will,
+             Hard Compatibilism, Origination, Source Incompatibilism, Voluntarism
+
+             Soft Determinism
+                Soft Determinism was coined by William James to describe compati-
+             bilists, who accepted the truth of determinism. They claimed free will
+             was the voluntarism of Thomas Hobbes, the negative “freedom from”
+             external constraints on our actions. This is called “Freedom of Action”
+             to distinguish it from Freedom of the Will
+               Other glosses - Compatibilism, Determinism, Freedom of Action, Free Will,
+             Hard Determinism, Origination, Voluntarism
+
+             Soft Incompatibilism
+                 Soft Incompatibilism says that free will is incompatible with pre-de-
+             terminism, and that pre-determinism is not true. It is preferable to the
+             loose usage of the plain “incompatibilist” to describe a libertarian, since
+             it is ambiguous and also used for determinists.
+                 Soft Incompatibilism stands in contrast to Hard Incompatibilism,
+             which maintains that pre-determinism is true and free will does not ex-
+             ist. It is not incompatible with an adequate determinism.
+                 Soft Incompatibilism involves Soft Causality. Soft Incompatibilists
+             accept occasional quantum events, which are only probabilistic and sta-
+             tistical, since they break strict causal chains back to the Big Bang with
+Glossary
+
+             uncaused causes (causa sui) that start new causal chains. It resembles Al
+             Mele’s Soft Libertarianism.
+                Other glosses - Adequate Determinism, Causa Sui, Soft Causality, Soft Lib-
+             ertarianism, Pre-Determinism
+
+             Soft Libertarianism
+                Soft Libertarianism is one of Alfred Mele’s terms. Soft libertarians
+             think that some indeterminism, in the right place is useful. For soft lib-
+                                         Glossary of Terms - S                 425
+
+ertarians , the right place is in what John Martin Fischer calls the Actual
+Sequence, where it breaks the causal chain of determinism back to the
+Big Bang. This position is also known as Source Incompatibilism.
+   Soft libertarianism differs from Mele’s modest libertarianism in that
+it does not require robust alternative possibilities (APs). APs produce
+what John Martin Fischer calls the Alternative Sequences.
+   Mele also develops a model for “Daring Soft Libertarians.” Daring
+soft libertarians, he says, especially value a power to make decisions that
+are not deterministically caused - a certain initiatory power. This model
+reaches out to Robert Kane’s idea of Ultimate Responsibility, in which
+we can be responsible for current actions, ones that are essentially de-
+termined by our character and values, as long as we formed that char-
+acter ourselves by earlier free actions that he calls Self-Forming Actions
+(SFA). SFA’s in turn require brains that are not deterministically caused
+by anything outside the agent.
+  Other glosses - Compatibilism, Determinism, Freedom of Action, Free Will,
+Hard Compatibilism, Origination, Source Incompatibilism, Voluntarism
+
+Source Incompatibilism
+    Source Incompatibilism or “Sourcehood” focuses on indeterminism
+in the “actual sequence” of events, an event that “originates” in the agent,
+to establish the incompatibility of determinism and moral responsibil-
+ity.
+    Hard incompatibilists deny this indeterminism. By contrast, Leeway
+Incompatibilism depends on the ability to do otherwise in “alternative
+sequences.”
+   Other glosses - Actual Sequence, Alternative Sequences, Consequence Ar-
+gument, Direct Argument, Hard Incompatibilism, Indirect Argument, Leeway
+Incompatibilism, Origination
+
+Standard Argument
+                                                                                 Glossary
+
+   The Standard Argument against Free Will is a dilemma with two
+horns, the Determinism Objection and the Randomness Objection.
+   If determinism is “true” all our actions are determined and we lack
+free will and moral responsibility. If indeterminism is “true” all our ac-
+tions are random and we are equally unfree and not responsible.
+   A subtle combination of randomness and adequate determinism is
+required for a two-stage model of free will.
+       426       Free Will: The Scandal in Philosophy
+
+               Other glosses - Basic Argument, Consequence Argument, Determinism
+             Objection, Direct Argument, Indirect Argument, Randomness Objection
+
+             Strongest Motive
+                Given the alternative possibilities for action, the agent might appear
+             to be determined to select the strongest motive. But given the complex-
+             ity of an agent’s character and values, motives and reasons, feelings and
+             desires, the idea of idea of an obvious “strongest motive” has been dis-
+             credited. Some philosophers say that the strongest motive was, after the
+             fact, whatever the agent chose, reducing it to a tautology.
+               Other glosses - Akrasia, Alternative Possibilities, Self-Forming Action,
+             Weakness of Will
+
+             Tracing
+                Tracing is the idea that an agent’s responsibility (or non-responsibil-
+             ity) for some action or the consequence of an action is not limited to
+             the agent’s thoughts or actions at the moment immediately prior to the
+             action or consequence, but can be traced back to earlier actions, from
+             which responsibility can be transferred. Difficulties arise establishing
+             that the consequences could reasonably have been foreseen by the agent.
+                Other glosses - Consequence Argument, Consequentialism, Moral Respon-
+             sibility, Transfer Principle
+
+             Traditional Argument
+                The Traditional Argument for the incompatibility of determinism
+             and moral responsibility has three steps:
+                 1. If determinism is true, no agent could have avoided acting as she
+             did act - could have done otherwise.
+                  2. An agent is only responsible for actions if she could have done
+             otherwise (the Principle of Alternative Possibilities).
+Glossary
+
+                  3. Thus, if determinism is true, no agent is morally responsible.
+               Other glosses - Alternative Possibilities, Consequence Argument, Done
+             Otherwise, Direct Argument, Incompatibilism, Moral Responsibility
+
+             Transfer Principle
+                A Transfer Principle says that an agent’s responsibility or non-
+             responsibility (or avoidability or unavoidability) for an action can be
+                                           Glossary of Terms - T            427
+
+transferred to the consequences of that action, or to the probable con-
+sequences (strong transfer), or to consequences that could reasonably
+have been foreseen by the agent (weak transfer). John Martin Fischer
+developed the Principle of Transfer of Non-Responsibility as a variation
+on Peter van Inwagen’s “Third Argument” or Rule Beta. Robert Kane’s
+Ultimate Responsibility is Transfer of Responsibility from Self-Forming
+Actions long ago to current actions, however automatic and habitual.
+   Other glosses - Consequence Argument, Moral Responsibility, Rule Beta,
+Self-Forming Actions, Ultimate Responsibility
+
+U
+Ultimacy
+   Ultimacy or the Ultimacy Condition is often used by determinists,
+hard incompatibilists, and illusionists to deny moral responsibility. Ga-
+len Strawson’s Basic Argument is a good example of denying Ultimacy
+by an infinite regress of responsibility for our character.
+   Other glosses - Basic Argument, Consequence Argument, Responsibility,
+Ultimate Responsibility
+
+Ultimate Responsibility
+   Ultimate Responsibility (UR) is Robert Kane’s concept that we can be
+responsible for current actions, ones that are essentially determined by
+our character and values, as long as we formed that character ourselves
+by earlier free actions that he calls Self-Forming Actions (SFA).
+    Other glosses - Responsibility, Self-Forming Action
+
+Undetermined Liberty
+   A decision that involves chance, which selects at random from a
+number of alternative possibilities that appear equally valuable or use-
+                                                                              Glossary
+
+ful. When the second stage of evaluation does not produce a Determined
+Deliberation, the agent can “flip a coin” and yet take responsibility for
+the decision, however it comes out.
+   Note that an undetermined liberty is not random in the absolute
+sense of having no connection with character, values, motives, feelings,
+       428       Free Will: The Scandal in Philosophy
+
+             desires, etc. It is randomly chosen from within a subset of alternative
+             possibilities that all are rational. An undetermined liberty is a liberty of
+             indifference, but it is still a determination that is adequately determined.
+             Robert Kane’s SFAs are undetermined liberties.
+                Other glosses - Adequate Determinism, Determination, Determined Delib-
+             eration, Liberty of Indifference, Up To Us
+
+             Up To Us
+                The idea that we are the originators of our actions was first described
+             by Aristotle in his Metaphysics and Nichomachean Ethics with the
+             Greek phrase ἐφ’ ἡμῖν, “up to us,’ or “depends on us.”
+                Agent causal libertarians insist that our actions begin with something
+             inside our minds. (Aristotle had also said some actions begin ἐφ’ ἡμῖν
+             - “in us”.) They describe this variously as non-occurrent causation, con-
+             tra-causal freedom, metaphysical freedom, a causa sui, or simply non-
+             causal freedom.
+                If our actions are not “up to us,” if we feel they “happen to us,” then we
+             cannot feel morally responsible for them.
+                 Other glosses - Agent Causal, Moral Responsibility, Origination,
+
+             V
+             Volition
+                Volition is another word for Will. It implies the moment of decision
+             or choice and commitment to a course of action, as distinguished from
+             earlier moments of deliberation and evaluation of alternative possibili-
+             ties. Aquinas, who identified five or more stages, called this moment the
+             electio or choice.
+                Other glosses - Alternative Possibilities, Deliberation, Free Will, Volun-
+             tarism
+Glossary
+
+             Voluntarism
+                Voluntarism is the classical compatibilist definition of freedom as
+             freedom from coercions that make our actions not up to us. Today this
+             negative freedom includes internal constraints as well, such as addic-
+             tions or mental disabilities.
+                                            Glossary of Terms - U                429
+
+   Mortimer Adler and Robert Kane call this self-realization, contrast-
+ing it with the libertarian positive freedom of self-determination. Hon-
+derich calls it voluntariness, contrasting it with the libertarian freedom
+of origination, without which, he says, we are not the authors of our own
+actions.
+   Other glosses - Liberty of Spontaneity, Origination, Self-Determination,
+Self-Realization, Up To Us
+
+W
+Weakness of Will
+   Weakness of Will (akrasia) describes actions taken against one’s bet-
+ter judgment. Rationalism assumes there is always a single best way to
+evaluate an agent’s options or alternative possibilities, so that weakness
+of will is fundamentally irrational.
+    Other glosses - Akrasia, Alternative Possibilities, Strongest Motive
+
+Y
+Yes-No Objection
+   The Yes-No Objection claims that Frankfurt examples can not prove
+that alternative possibilities do not exist, because the agent’s decision to
+act or not to act, to do or not to do, can always wait until the last possible
+moment, so a hypothetical intervener would have to block alternatives
+ahead of time and thus constitute an external coercion that denies the
+agent’s compatibilist voluntarism or negative freedom.
+  Other glosses - Alternative Possibilities, Frankfurt Examples, Information
+Objection, Kane-Widerker Objection, Voluntarism
+                                                                                   Glossary
+

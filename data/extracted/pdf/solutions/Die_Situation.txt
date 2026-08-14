@@ -1,0 +1,397 @@
+ DIE NATURWISSENSCHAFTEN
+ 23. J a h r g a n g                                             29. N o v e m b e r z935                                                     H e f t 48
+
+
+                             Die gegenw/irtige Situation in der Quantenmechanik.
+                                                        V o n 2 . SCHR~3DINGER, O x f o r d .
+                      Inhalts~bersicht.                                          Gebilde, das sich m i t der Zeit ver~ndert, das v e r -
+      § z. Die Pilysik der Modelle.                                              schiedene Zusti~nde a n n e h m e n k a n n ; und w e n n
+      § 2. Die Statistik der Modellvariablen in der Quan-                        ein Z u s t a n d d u r c h die n6tige Zahl yon B e s t i m -
+            tenmechanik.                                                         mungsstticken b e k a n n t g e m a c h t ist, so sind n i c h t
+      § 3- Beispiele fiir Wahrscheinlichkeitsvoraussagen.
+                                                                                 n u r alle a n d e r e n Stiicke in diesem A u g e n S l i c k m i t
+      § 4. Kann man der Theorie ideate Gesamtheiten
+            unterlegen ?                                                         gegeben (wie oben a m Dreieck erl~utert), sondern
+      § 5. Sind die Yariablen wirklich verwaschen?                               ganz ebenso alle Stficke, der genaue Zustand, zu
+      § 6. Der bewtlgte Wechsel des erkenntnistheoreti-                          jeder b e s t i m m t e n sp~teren Zeit; ~hnlich wie die
+            tischen Standpunktes.                                                Beschaffe~beit eines Dreiecks an der Basis seine
+      § 7- Die ~-Funktion Ms Katalog der Erwartung.                              Beschaffenheit an der Spitze b e s t i m m t . E s ge-
+      § 8. Theorie des Messens, erster Teil.                                     h S r t m i t z u m inneren Gesetz des Gebildes, sich in
+      § 9. Die v)-Funktion als Beschreibullg des Zll-                            b e s t i m m t e r Weise zu ver~ndern, das heiBt, w e n n
+            standes.
+     § IO. Theorie des Messens, zweiter Tell.                                    es in einem b e s t i m m t e n A n f a n g s z u s t a n d sich selbst
+     § I i. Die Aufhebung der Verschr~tnkung. ])as Er-                           iiberlassen wird, eine b e s t i m m t e Folge y o n Zu-
+            gebnis abhAngig vom W'illen des Experimen-                           st~nden kontinuierlich zu durchlaufen, d e r e n j e d e n
+            tarots.                                                              es zu ganz b e s t i m m t e r Zeit erreicht. Das ist seine
+     § 12. Eli1 Beispiel.                                                        N a t u r , das ist die t I y p o t h e s e , die man, wie ich
+     § 13. Fortsetzullg des Beispiels: alle mSglichen                            oben sagte, auf G r u n d i n t u i t i v e r I m a g i n a t i o n
+            Messungen sind eindeutig verschr~nkt.                                setzt.
+     § 14. Die Jknderung der VerschrXnkung mit der Zeit.                               Natiirlich ist m a n n i c h t so einf~ltig zu denken,
+            Bedenken gegen die Sonderstetlung der Zeit.
+     § 15. Natllrprinzip oder Rechenkunstgriff?                                  dab solchermat3en zu e r r a t e n sei, wie es auf d e r
+                                                                                W e l t wirklich zugeht, U m anzudeuten, dab m a n
+                     1. Die Physik der Modelle.                                  das nicht denkt, n e n n t m a n den pr~zisen D e n k -
+        I n der zweiten H~lfte des vorigen J a h r h u n d e r t s               behelI, den m a n sich geschaffen hat, g e r n ein
+w a r aus den grogen E r f o l g e n der kinetischen                            Bild oder ein t'Vlodell. 5 ~ t seiner nachsichtslosen
+Gastheorie und der mechanischen T h e o r i e der                                Klarheit, die ohne W'illkiir n i c h t herbeizuftihren
+W ~ r m e ein Ideal der e x a k t e n N a t u r b e s c h r e i b u n g         ist, h a t m a n es lediglich d a r a u f abgesehen, dab
+hervorgewachsen, das als K r 6 n u n g j a h r h u n d e r t e -                 eine ganz b e s t i m m t e H y p o t h e s e in ihren F o l g e n
+langen Forschens und Erffillung j a h r t a u s e n d e a l t e r               geprfi~t w e r d e n kann, ohne n e u e r ~ArilIktir R a u m
+H o f f n u n g einen H 6 h e p u n k t bildet u n d das klas-                  zu geben wg.hrend der langwierigen R e c h n u n g e n ,
+sische heiBt. Dieses sind seine Ztige.                                          d u t c h die m a n F o l g e r u n g e n ableitet. D a h a t m a n
+        Yon den N a t u r o b j e k t e n , deren beobachtetes                  gebundene Marschroute und e r r e c h n e t eigentlich
+V e r h a l t e n m a n erfassen m6chte, bildet man, ge-                        nut, was ein kluger H a n s aus den D a t e n d i r e k t
+sttitzt auf die e x p e r i m e n t e l l e n Daten, die m a n                  herauslesen wfirde! M a n weiB d a n n wenigstens,
+besitzt, a b e t ohne der i n t u i t i v e n I m a g i n a t i o n zu          wo die ~vViIlk/ir s t e c k t u n d wo m a n zu bessern hat,
+wehren, eine Vorsteltung, die in alien Details                                  wenn's m i t der E r f a h r u n g n i c h t s t i m m t : in der
+genau ausgearbeitet ist, viel genauer als irgend-                               Ausgangshypothese, i m 3/[odell. D a z u muB m a n
+welche E r f a h r u n g in A n s e h u n g ihres b e g r e n z t e n           stets bereit sein. W e n n bei vielen verschieden-
+Llmfangs je verbtirgen kann. Die Vorstellung in                                 artigen E x p e r i m e n t e n das N a t u r o b j e k t sich w i r k -
+ihrer a b s o l u t e n B e s t i m m t h e i t gleicht e i n e m m a t h e -   Hch so b e n i m m t wie das Modell, so f r e u t m a n sich
+m a t i s c h e n Gebilde oder einer geometrischen Figur,                       und denkt, dab nnser Bild in den wesentlichen
+welche aus einer A n z a h l y o n Bestimmungsstiiclcen                         Ztigen der W i r M i c h k e i t gem~B ist. S t i m m t es bei
+ganz nnd gar b e r e c h n e t w e r d e n k a n n ; wie z. ]3. an              einem n e u a r t i g e n E x p e r i m e n t o d e r bei Verfeine-
+e i n e m D r e i e c k eine Seite und die zwei ihr an-                         r u n g der MeBtechnik n i c h t mehr, so ist n i c h t ge-
+liegenden Winkel, als Bestimmungsstticke, den                                   sagt, dab m a n sich nicht freut. D e n n im G r u n d e
+d r i t t e n Winkel, die anderen zwei Seiten, die drei                         ist das die Art, wie allm~hlich eine i m m e r bessere
+H6hen, den R a d i u s des eingeschriebenen Kreises                             Anpassung des Bildes, das heiBt unserer Gedanken,
+usw. m i t b e s t i m m e n . V o n einer g e o m e t r i s c h e n            an die T a t s a c h e n gelingen kann.
+F i g u r n n t e r s c h e i d e t sich die Vorstellung i h r e m                    Die Massische ~<[ettlode des pr~zisen l~Iodelts
+W e s e n n a c h bloB d u r c h den wichtigen U m s t a n d ,                  h a t den H a u p t z w e c k , die u n v e r m e i d l i c h e W'illkfir
+dab sie auch noch in der Zeit Ms v i e r t e r D i m e n s i o n                in den A n n a h m e n sauber isoliert zu halten, ich
+ebenso klar b e s t i m m t ist wie jene in den drei                            m 6 c h t e fast sagen wie der K 6 r p e r das K e i m p l a s m a ,
+D i m e n s i o n e n des R a u m e s . Das h e i g t es h a n d e l t          ftir den historisehen AnpassungsprozeB an die
+sieh (was j a selbstverst~ndlich ist) stets u m ein                             fortschreitende E r f a h r u n g .          Vielleicht liegt der
+     Nw. I935                                                                                                                         52
+808                 SCHRODINGER:   Die   gegenwXrtige Situation in der Quantenmechanik.                             Die Natur-
+                                                                                                                   wissenschaften
+
+Methode der Glaube zugrunde, dab i~yendwie der          wir oben beispielsweise angeitihrt hatten, k o m m t
+Anfangszustand den AblauI wirlclich eindeutig           ate als siebentes vor. Auch wenn man den ersten
+bestimmt, oder dab ein vollkommenes Modell,             verwendet, ist r kein nnabh~ngiges dreizehntes,
+welches mit der Wirklichkeit ganz genau tiberein-       es l~13t sich ja aus den 6 rechtwinkeligen Koordi-
+stimmte, den Ausgang aller Experimente ganz             naten ausrechnen :
+genau vorausberechnen lassen wfirde. Vielleicht
+                                                               ~" =   I/(Xl   --   X2) 2 + (Yl - - Y2) 2 + (Z1 - - Z2) 2"
+auch grtindet sich umgekehrt dieser Glaube aui
+die Methode. Es ist aber ziemlich wahrscheinlich,       Die Zahl der Bestimmungsstficke (die oft auch
+dab die Anpassung des Denkens an die Erfahrung           Variable genannt werden im Gegensatz zu den
+ein infiniter ProzeB ist und dab ,,vollkommenes         Modellkonstcmten wie m, M, e) ist unbegrenzt.
+Model1" einen Widerspruch im Beiwort enthglt,           Zw51f passend ausgew~Mte bestimmen alle iibrigen
+etwa wie ,,grSgte gauze Zahl".                          oder den Zustand. Keine zwSlf haben das Privileg,
+      Eine klare Vorstellung davon, was unter einem     die 13estimmungsstticke zu sein. Beispiete anderer,
+klassischen Modell, seinen Bestimmur~sst~elcen,         besonders wichtiger Bestimmungsstficke sind: die
+seinem Zustand gemeint sei, ist die Grundlage ffir      Energie, die drei Komponenten des Impuls-
+alles Folgende, Vor allem darI e~;n bestimmtes          momentes beztiglich des Schwerpunktes, die
+Modell und ein bestimmter Zustand desselbe~ nicht       kinetische Energie der Schwerpunktsbewegung.
+vermengt werden. Am besten wird ein Beispiel            Die eben genannten haben noch eine besondere
+dienen. Das RUTHERVORDsche Modell des Wasser-           Eigenart. Sie sind zwar Variable, d. h. sie haben
+stoffatoms besteht aus zwei Massenpunkten. Als          in verschiedenen Zust~nden verschiedene Werte.
+Bestimmungsstticke kann man beispielsweise die          Abet in jeder Reihe yon Zust~tnden, die im Laufe
+zwei real drei rechtwinkeligen Koordinaten der          der Zeit wirklich durchlaufen wird, behalten sie
+zwei Punkte und die zweimM drei Komponenten             denselben W e f t bei. Sie heiBen d a t u m auch
+ihrer Geschwindigkeiten in Richtung der Koordi-         Konstante der Bewegung -- im Unterschied von den
+natenachsen verwenden - - also zw61f im ganzen.         Modetlkonstanten.
+S t a t t dessert k6nnte man auch w~hlen: die Ko-
+ordinaten und Geschwindigkeitskomponenten des           § 2.   D'ie  Statistik der Modellvariablen in der
+Schwerpunktes, dazu die Ent.fernung der zwei                              Quantenmechanik,
+Punkte, zwei Winkel, welche die Richtung ihrer              I m Angelpunkt der heutigen Quantenmechanik
+Verbindungslinie im R a u m festlegen, und die          (Q.M.) steht eine Lehrmeinnng, die vielleicht noch
+Gesehwindigkeiten ( = DifferentiMquotienten nach        manche U m d e u t u n g erfahren, aber, wie ich lest
+der Zeit), mit welchen die Entfernung und die           iiberzeugt bin, nicht aufh6ren wird, den Angel-
+zwei Winkel sich in dem betreffenden Augenblick         punkt zu bilden. Sie besteht darin, dab Modelle
+ver~ndern; das sind nattirlich wieder zwSlf. Es         mit Bestimmungsstficken, die einander, so wie
+gehSrt nieht mit zum Begriff ,,R.sches ModeU            die klassischen, eindeutig determinieren, der N a t u r
+des H - A t o m s " , dab die Bestimmungsstiicke be-    nicht gereeht werden kSnnen.
+stimmte Zahlwerte haben sollen. Indem man                   Man wiirde denken, dab fiir den, der das glaubt,
+ihnen solche zuschreibt, gelangt man zu einem           die klassischen Modelle ihre Rolle ausgespielt
+bestimmten Zustand des Modells. Die klare i)ber-        haben. Aber so i s t e s nicht. Vielmehr verwendet
+sicht fiber die Gesamtheit der mSglichen. ZustXnde      man gerade 8ie, nieht nur um das Negative der
+- - noch ohne Beziehung zueinander - - bildet           neuen Lehrmeinung auszndrtieken; sondern aueh
+,,das Modelt" oder ,,das ModelI in irgendeinem          die herabgeminderte gegenseitige Determinierung,
+Zustand". Aber zum Begriff des Modells geh6rt           die danach noch iibrigbleibt, wird so beschrieben,
+dann noch mehr als bloB: die zwei Punkte in be-         als bestehe sie zwischen denselben VariabIen der-
+liebiger Lage und m i t beliebigen Geschwindig-         selben Modelle, die friiher bentitzt wurden. FoI-
+keiten begabt. Es geh6rt dazu noch, dab fiir            gendermaBen.
+yeden Zustand bekannt ist, wie er sich mit der              A. Der klassische Begriff des Zustandes geht
+Zeit ver~ndern wird, solange kein ~uBerer Ein-          verloren, indem sich h6chstens einer wohlaus-
+griff stattfindet. (Ftir die eine H~lfte der Be-        gew~hlten Hdlfte eines vollst~ndigen Satzes yon
+stimmungsstficke gibt zwar die andere dartiber          Variablen bestimmte Zahlwerte zuweisen lassen;
+Auskunft, abet ffir die andere muB es e r s t gesagt    beim RUTHERFORDsChen Model1 beispielsweise den
+werden.) Diese Kenntnis ist latent in den Aus-          6 rechtwinkligen Koordinaten oder den Geschwin-
+sagen: die Punkte haben die Massen m bzw. M             digkeitskomponenten (es sind noch andere Grup-
+und die Ladungen - - e bzw. + e und ziehen sich         pierungen m6glich). Die andere H~lfte bleibt dann
+daher mit der Kraft e2/r~ an, wenn ihre Entfer-         v611ig unbestimmt, w~thrend fiberz~hlige Stficke
+nung r ist.                                             die verschiedensten Grade yon Unbestimmtheit
+      Diese Angaben, m i t bestimmten Zahlwerten        aufweisen k6nnen. I m Mlgemeinen werdeI1 in
+N r m, M und e (aber natiirlich ni&t ftir r), geh6ren   einem vollst~ndigen Satz (beim R.schen Modei1
+mit zur Beschreibung des Modell,~ (nicht erst zu        zw6If Stficke) alle nut unscharf bekannt sein.
+der eines bestimmten Zustands). m, M und e              ~lber den Grad der Unsch~rfe l~Bt sich am besten
+heiBen nicht Bestimmungsstticke. Dagegen ist die        Auskunft geben, wenn man, der klassischen Mecha-
+Entfernung r eines. In dem zweiten ,,Satz", den         nik folgend, bei der Auswahl der Variablen daftir
+  Heft 48, ]                SCHRODINGER: D i e         gegenwXrtige Situation in der Quantenmechanik.                                             809
+29. II, X935J
+
+Serge trXgt, dab sie sich zu Paaren sog. kanonisch                           scharf ist, d. h. nur einen kleinen W e r t e b e r e i c h Iiir
+k o n j u g i e r t e r ordnen, woftir das einfachste Beispiel:              i i b e r h a u p t m6glich erkl~rt. U m sie vollinhMtlich
+eine O r t s k o o r d i n a t e x eines M a s s e n p u n k t e s u n d     zu prtifen, muB m a n den ganzen Versuch ab eve
+die K o m p o n e n t e p~, in derselben R i c h t u n g ge-                  (d. h. einschliel31ich der o r i e n t i e r e n d e n oder pr~-
+schXtzt, seines linearen Impulses (d. i. Masse real                          p a r a t i v e n Messungen) sehr oft wiederholen und darf
+Geschwindigkeit). Solche zwei beschr~nken ein-                               bloB die F~lle verwenden, we die orientierende~ Mes-
+a n d e r in der Schgrfe, mifi der sie gleichzeitig be-                      snngen genau dieseIben R e s n l t a t e ergeben haben.
+k a n n t sein k6nnen, fndem das P r o d u k t ihrer                         An diesen F~llen soil sich d a n n die ftir eine b e s t i m m t e
+Toleranz- oder V a r i a t i o n s b r e i t e n (die m a n d u t c h        Variable aus den orientierenden Messungen voraus-
+ein der Gr6Be v o r a n g e s e t z t e s A zu bezeichnen                    berechnete S t a t i s t i k d u t c h Messnng b e s t ~ i g e n - -
+pflegt) n i c h t unter den B e t r a g einer gewissen uni-                  das ist die Meinung.
+versellen K o n s t a n t e ~ herabsinken kann, e t w a                             Man mul3 sich htiten, diese Meinung deshalb zu
+                              A x • A p.~h.                                  kritisieren, well sie so schwer auszusprechen ist;
+(HnlSENBnR~S Ungenauigkeitsbeziehung.)                                       das liegt an unserer Sprache. A b e r eine andere
+       t3. W e n n nicht e i n m a l . i n j e d e m A u g e n b l i c k      K r i t i k drSngt sich auf. K a u m ein P h y s i k e r der
+alle Variable d u t c h einige y o n ihnen b e s t i m m t                    klassischen E p o c h e h a t wohl b e i m A u s d e n k e n
+sind, d a n n nattirlich auch nicht in einem sp~teren                         eines Modells sich erdreistet zu glanben, dab dessen
+A n g e n b l i c k aus e r l a n g b a r e n D a t e n eines frfiheren.      B e s t i m m u n g s s t i i c k e a m N a t u r o b j e k t meBbar sind.
+Man k a n n das einen Jgruch m i t d e m Kausalit~its-                        N u r vie1 abgeleitetere F o l g e r u n g e n aus d e m Bild
+prinzip nennen, aber es ist gegeniiber A nichts                               w a r e n tats~chlich der e x p e r i m e n t e l l e n Prtifung
+wesentlich Neues. W e n n in keinem A u g e n b l i c k                       zug~ngtich. U n d m a n durfte n a c h aIler E r f a h r u n g
+ein klassischer Z u s t a n d feststeht, kann er sich                         iiberzeugt sein: lange b e v o r die fortschreitende
+auch nicht zwangsltiufig ver~tndern. W a s sich                               E x p e r i m e n t i e r k u n s t die weite K l u f t fiberbrfickt
+ver~ndert, sind die Statistike~ oder Wahrscheinlieh-                          h a b e n wtirde, wird das Modell d u t c h allm~hliche
+]~eiten, die iibrigens zwangsl~ufig. E i n z e l n e V a r i a b l e          A n p a s s u n g an neue T a t s a c h e n sich erheblich ver-
+k6nnen dabei sch~rfer, andere unsch~rfer werden.                              ~ndert haben. - - W ~ h r e n d nun die neue Theorie
+I m ganzen l~Bt sich b e h a u p t e n , dab sich die Ge-                     das klassische Modell ftir unzustXndig erkl~rt, den
+samtsch~rfe der Beschreibung m i t der Zeit nich~                             Zusammenhar~g der Bestimmungssti~eke unterein-
+~nder~, was d a r a u f beruht, dab die d u t c h A auf-                      ander wiederzugeben (woffir seine E r s i n n e r es
+erlegten B e s c h r ~ n k u n g e n in j e d e m A u g e n b l i c k         gemeint batten), h~lt sie es anderseits ffir geeignet,
+dieselben sind. - -                                                           uns dar/iber zu orientieren, was fiir Messungen
+       W a s b e d e u t e n n u n die Ausdriicke ,,unscharf",                an d e m b e t r e f f e n d e n N a t n r o b j e k t prinzipiell aus-
+,,Statistik", , , W a h r s c h e i n l i c h k e i t " ? Dartiber gibt       ftihrbar sind; was denen, die das t~ild ansgedacht,
+die Q.M. folgende Auskunf~. Sie e n t n i m m t die                           eine u n e r h 6 r t e 1)berspannung ihres Denkbehelfs,
+ganze unendliche M u s t e r k a r t e d e n k b a r e r V a r i a b l e n    eine leichtfertige V o r w e g n a h m e kiinftiger E n t -
+o d e r B e s t i m m u n g s s t f i c k e unbedenkIich d e m klas-          w i c M u n g geschienen hXtte. W ~ r ' das n i c h t pr~-
+sischen Modell nnd erklfi.rt jedes Sttick ftir direkt                         stabilierte H a r m o n i e y o n eigner Art, w e n n die
+mefibar, ja sogar mix beliebiger Genauigkeit mel3-                             Forscher der klassischen Epoche, die, wie m a n
+bar, w e n n es n u t auf es allein a n k o m m t . H a t m a n               h e u t e h6rt, damals noch gar nicht wuBten, was
+sich d u t c h eine passend ausgew~hlte beschr;tnkte                          Messen eigentlich ist, uns gleichwohl als V e r m ~ c h t -
+ Zahl y o n Messungen eine O b j e k t k e n n t n i s y o n                   his ihnen u n b e w u B t einen Orientierungsplan tiber-
+j e n e m m a x i m a l e n T y p u s verschafft, wie sie n a c h A            a n t w o r t e t h~tten, aus d e m zu e n t n e h m e n ist, was
+ gerade n o c h m6glich ist, d a n n gibt der m a t h e m a -                  m a n alles z. B. an einem W a s s e r s t o f f a t o m grund-
+ tische A p p a r a t der neuen Theorie die Mittel an die                      s~tzlich messen k a n n l ?
+ H a n d , u m ftir denselben Z e i t p u n k t oder fiir irgend-                     Ich h e l l e sp~iter k l a r z u m a c h e n , dab die herr-
+ einen sp~teren ~eder V a r i a b l e n eine ganz b e s t i m m t e            schende L e h r m e i n u n g ans 13edrXngnis geboren ist.
+ statistisehe Verteil~tng zuzuweisen, d. h. eine An-                           Vorl~ufig fahre ich in ihrer D a r l e g u n g fort.
+ gabe dartiber, in welchem B r u c h t e i l der F~lle sie
+ bei diesem oder j e n e m W e f t , oder in diesem oder                      b~ 3. Beispiele ji~r Wahrscheinlichkeitsvoraussagen.
+ j e n e m kleinen I n t e r v a l l angetroffen w e r d e n w i r d                Also Mle Voraussagen beziehen sich nach wie
+ (was m a n auch W a h r s c h e i n l i c h k e i t nennt). Es ist           v e t anf B e s t i m m u n g s s t t i c k e eines klassischen
+ die Meinung, dab dies in der T a t die W a h r s c h e i n -                 Modells, auf O r t e und Geschwindigkeiten yon
+ lichkeit sei, die betreffende Variable, w e n n m a n                        Massenpnnkten, auf Energien, I m p u l s m o m e n t e
+ sie in d e m b e t r e f f e n d e n Z e i t p u n k t miBt, bei diesem      u. dgl. m. Unklassisch ist blo13, dab n u r W a h r -
+ oder j e n e m W e r t anzutreffen. D u r c h einen ein-                     scheinliehkeiten v o r a u s g e s a g t werden. Sehen wir
+ zelnen V e r s u c h l g g t sich die R i c h t i g k e i t dieser           uns das genauer an. Offiziell h a n d e l t es sich stets
+  I~ahrsehein~iehl~eitsvorau~,~age h6chstens a n g e n ~ h e r t              darum, dab vermffctels einiger jetzt angestellter
+ prfifen, n~mlich dann, wenn sie einigermaBen                                 Messungen und ihrer R e s u l t a t e fiber die zu er-
+          h = 1,o41 • io -2~ ergsec. In der Literatur wird                    w a r t e n d e n R e s u l t a t e a n d e r e r Messungen, die ent-
+ meist das 2 e~-fache davon (6,542 • Io-~v ergsec) mit h                      weder augenblicklich oder zu b e s t i m m t e r Zeit
+ bezeichnet und ffir unser h ein h mit einem Quer-                            d a r a u f folgen sollen, die bestmSglichen W'ahrschein-
+ strichlein geschrieben.                                                      lichkeitsangaben gewonnen werden, welche die
+                                                                                                                                     5 2*
+810                                 SCI-IR6DINGER: Die gegenwXrtige Situation in der Quantenmechanik.                            [ Die Natur-
+                                                                                                                                 [wissenschaften
+
+N a t u r zul~13t. Wie sieht die Sache n u n a b e t wirk-                schiebt, nnd der Impulspfeil bleibt unge~tndert.
+lich aus? I n wichtigen a n d t y p i s c h e n FMlen                     W i r sehen an diesem Beispiel, wie die Q.M. das
+folgendermaBen.                                                           Modell zwar benfitzt, u m an i b m die Gr6Ben ab-
+        ~ e n n m a n die E n e r g i e eines PLANC~SChen                 zulesen, welche m a n messen kann a n d fiber welche
+Oszillators miBt, d a n n ist die Veahrscheinlichkeit,                    Voraussagen zu m a c h e n ffir sinnvotl gehaltem wird,
+daffir einen W e f t zwischen E n n d E" zu Iinden,                       w~hrend es ifir n n z u s t g n d i g erkl~rt w e r d e n m u g ,
+n u r d a n n m6glicherweise y o n N u l l verschieden,                   den Z u s a m m e n h a n g dieser Gr6Ben u n t e r e i n a n d e r
+wenn zwischen E a n d E ' ein W e r t aus der R e i h e                   z u m A u s d r u c k zu bringen.
+          3¢chv, 5 ~ h v , 7 ~ h v ,       9=l~v . . . . . . .                  H a t m a n nun nicht in beiden Fgllen das Geffihl,
+liegt. Ffir jedes Intervall, das keinen dieser W e r t e                  dab der wesentliche I n h a l t dessen, was gesagt
+enthMt, ist die W a h r s c h e i n l i e h k e i t Null. Auf             w e r d e n soil, sieh Ilur m i t einiger Miihe zwgngen
+d e u t s c h : andere 3/[eBwerte sind ausgeschlossen.                    lgBt in die spanischen Stiefel einer Voraussage
+Die Zahlen sind u n g e r a d e Multipla der ModelZ-                      fiber die Wahrscheinlichkeit, ffir eine VariabIe des
+konstante ~ h v (t~ ~ PLaNcxsche Zahl, v ~ Fre-                           klassischen Modells diesen oder j e n e n MeBwert
+q u e n z des Oszillators). Zwei Dinge fallen auL                         anzutreffen? H a t m a n nicht den E i n d r u c k , dab
+E r s t e n s fehlt die B e z u g n a h m e auf v o r a n g e h e n d e   hier yon g r u n d l e g e n d e n E i g e n s c h a f t e n neuer
+Messungen - - die sind gar n i e h t n6tig. Zweitens:                     M e r k m M g r u p p e n die R e d e ist, die n i t den klas-
+die Aussage leidet wirMich n i c h t an einem iiber-                      sischen n u r noch den N a m e n gemein h a b e n ?
+t r i e b e n e n Mangel an PrXzision, ganz i m Gegenteil,                Es h a n d e l t sieh keineswegs m n Ausnahmef~lle,
+sie ist schXrfer als eine wirkliche Messung je sein                       gerade die w a h r h a f t w e r t v o l l e n Aussagen der
+kann.                                                                     neuen Theorie h a b e n diesen Charakter. Es gibt
+        E i n anderes typisches Beispiel ist der B e t r a g              wohl auch Aufgaben, die sich d e m T y p u s n~hern,
+des I m p u l s m o m e i l t s . I n Fig. I sei M ein b e w e g t e r    auf den die Ausdrucksweise eigentlich zugeschnit-
+Massenpunkt, der Pfeit soil seinen I m p u t s (Masse                     t e n ist. Aber sie h a b e n nicht ann~thernd dieselbe
+mal Geschwindigkeit) nach Gr6Be und R i c h t u n g                       Wichtigkeit. U n d vollends die, die m a n sich
+darstellen. 0 ist irgendein fester P u i l k t im R a u m ,               naiverweise als Schulbeispiele konstruieren wfirde,
+sagen wir der K o o r d i n a t e n u r s p r u n g ; also nicht          die h a b e n gar keiile. ,,Gegeben der Ort des Elek-
+ein P u n k t n i t physikalischer B e d e u t u n g , sondern            trons im W a s s e r s t o f f a t o m zur Zeit t = 0; m a n
+ein geometrischer B e z u g s p u n k t . Als B e t r a g des             konstruiere seine O r t s s t a t i s t i k zu einer sp~teren
+I m p u I s m o m e n t s y o n M bezfiglich 0 bezeichnet die             Zeit." Das interessiert keiilen Menschen.
+ldassische M e c h a n i k das P r o d u k t aus tier L~tnge                    D e m ~ o r t l a u t n a c h beziehen sich alle Aus-
+des Impulspfeiles a n d der L~nge des Lores Oil.                          sagen auf das anschauIiche Modell. A b e t die w e r t -
+                                                                          vollen Anssagen sind an i h m wenig anschaulieh
+                                                                          a n d seine anschaulichen M e r k m a i e sind yon
+                                        Fig. I. Impulsmoment:             geringem W e f t .
+                                M i s t ein materieller Punkt, 0 ein
+                        t       geometrischer Bezugspunkt. Der PfeH          4,      K a n n m a n der Theorie ideale Ge~arathdten
+                       I        soil den Impuls ( = Masse real Ge-                                          unterlegen?
+ O                   /l         schwindigkeit) yon M darstellen.                Das klassische Modell spielt in der Q.M. eine
+ • ...."'---..      !/          Dann ist das Impulsmoment das Pro-        Proteus-Rolle. Jedes seiner Bestimmungsstficke
+             ..... ./~          dukt aus der L~nge des Pfeils und         k a n n n n t e r U m s t ~ n d e n Gegenstand des Interesses
+                  !                         der L/inge OF.
+                 /                                                        w e r d e n und eine gewisse R e a l i t ~ t erlangen. A b e r
+                I                                                         niemals alle zugleich - - bald sind es diese, bald
+I n der Q.M. gilt ffir den B e t r a g des I m p u l s m o m e n t s      sind es jene, und zwar i m m e r h6chstens die Hi~l]te
+ganz Nhnliches wie ffir die Energie des Oszillators.                      eines vollst~ndigeil Variablensatzes, der ein klares
+\~Tieder ist die W a h r s c h e i n l i c h k e i t Null ffir jedes      Bild y o n d e n angenblicklichen Z u s t a n d e r l a u b e n
+IntervaI1, das keinen \~Tert aus der ~oIgenden R e i h e                  wfirde. V~Tie s t e h t es jeweils m i t den fibrigen?
+enthMt                                                                    Haben die d a n n keine Realit~t, vielleieht (s. v. v.)
+                                                                          eine v e r s e h w o m m e n e R e a l i t ~ t ; oder h a b e n stets
+  O,      hf2,              h f ~ × 3,   hl/3x4,   1~g'4×5 . . . . . .    alle eine a n d ist bloB, nach Satz A yon § 2 ihre
+d. h. n u t einer dieser W e r t e k a n n h e r a u s k o m m e n .      gleichzeitige K e n n t n i s unm6glich?
+Das gilt wieder ganz ohne B e z u g auI vorangeheilde                            Die zweite Auffassung ist auBerordentlich
+Messungen. E n d m a n k a n n sich wohl vorstellen,                      naheliegend ftir den, der die ]3edeutung der
+wie wichtig diese pr~zise Anssage ist, vial wichtiger                     statistischen Betrachtungsweise kennt, die in der
+sis die Kenntilis, welcher y o n diesen W e r t e n oder                  zweiten H ~ l f t e des vorigen J a h r h u n d e r t s ent-
+welche W a h r s c h e i n l i c h k e i t f fir jeden voil ihnen im      standen ist; zumal w e n n er gedenkt, dab a m Vor-
+Einzelfall wirklich vorliegt. Aul3erdem ~Mlt hier                         abend des Illeueil an8 ihr, aus einem z e n t r a l e n
+aber n o c h anf, dab v o m B e z u g s p u n k t gar n i c h t           P r o b l e m der statistischenW~rmelehre, die Q u a n t e n -
+die R e d e ist: wie i m m e r m a n ihn w~hlt, m a n wird                theorie geboren w u r d e (MAx PLANCI~S Theorie der
+einen \~rert aus dieser R e i h e finden. A m ModelI ist                  \ ¥ ~ r m e s t r a h l u n g , D e z e m b e r 1899). Das W e s e n
+diese B e h a u p t u n g unsinnig, d e n n das L o t O f ver-            j e n e r D e n k r i c h t u n g b e s t e h t gerade darin, dab m a n
+~indert sich stetig, w e n n m a n den P u n k t 0 v e t -                p r a k t i s c h niemals alle B e s t i m m u n g s s t f i c k e des
+  Heft 48. ]                SCItRSDINGER: Die gegenwgrtige Situation in der Quantenmechanik.                        8II
+29. i i . x935J
+
+Systems kennt, sondern viel weniger. Zur Be-                  gen". Schon ffir den einzelnen Augenblick klappt
+schreibung eines wirklicheu K6rpers in eiuem ge-              es nicht. Es gibt in keinem Augenblick ein Kol-
+gebenen Augenblick zieht m a n darum nicht einen              lektiv klassischer Modellzustgnde, auf das die
+Zustand des Modells, sondern ein sog. Gibbs-                  Gesamtheit der quantenmechanischen Aussagen
+sehes Ensemble heran. D a m i t ist gemeint eine              dieses Augenblicks zutrifft. Dasselbe lgBt sich
+ideale, das heiBt MoB gedachte, Gesamtheit yon                aueh so ausdrficken: wenu ich dem Modell in jedem
+Zust~tnden, welche genau unsere beschrgnkte                   Angenblick einen bestimmten (mir bto13 nieht
+Kenntnis v o m wirklichen I~Srper widerspiegelt.              genau bekannten) Zustand zuschreiben wollte
+]Der KSrper soll sich dann so benehmen wie ein                oder (was dasseIbe ist) allen Bestimmungsstficken
+beliebig aus dieser Gescvmtheit herausgeg~'i]]ener            bestimmte (mir bloB nicht genan bekannte) Zahl-
+Zustand. ]Diese Auffassnng h a t die allergr6Bten             werte, so ist keine Annahme fiber diese Z a h l w e r t e
+Erfolge gehabt. Ihren hSchsten Triumph. bildeten              denkbar, die nicht mit einem Teil der quantentheo-
+solche F~lle, in denen nicht alle in der Gesamtheit           retischen Behauptungen im Widersprueh stiinde.
+vorkommenden Zustgnde dassdbe beobachtbare                        Das ist nicht ganz, was man erwartet, wend
+Verhalten des K6rpers erwarten lassen. ]Der                   man h6rt, dab die Angabeu der neuen Theorie
+K6rper b e n i m m t sich n~mlich dann wirklich bald          immer unseharf sind im Vergleich zu den klas-
+so, bald so, genau der Voraussicht entspreehend               sischen.
+ (thermodynamische Schwankungen). Es liegt nahe,
+dab man versuche, die stets unscharfe Aussage                          5. Sind die Variablen wira~lich verwaschen?
+der Q.M. anch zu beziehen auf eine ideale Gesamt-                   Die andere Alternative bestand darin, dab m a n
+heft yon Zustgnden, yon denen im konkreten                    bloB den jeweils scharfen Bestimmungsstticken
+Einzelfall ein ganz bestimmter vorliege - - abet              Realitgt zugestehe --- oder allgemeiner gesprochen
+man     weiB      nicht   welcher.                            ether jeden Variablen eine sotche A r t der ¥ e r -
+     DaB das nicht geht, zeigt uns das eine BeispieI          wirldichung, die genau der quantenmechanischen
+v o m Impulsmoment, als eines ffir viete. Man denke           Statistik dieser Variablen in dem betreffenden
+sieh in Fig. I den P u n k t 2~I in die verschiedensten       Augenblick entspricht.
+Lagen gegeniiber O gebracht und m i t den ver-                      ]DaB es nicht etwa unm6glich ist, Grad und A ~
+sehiedensten Impulspfeilen versehen und vereinige             der Verwaschenheit aller Variablen in e~nem voll-
+alle diese M6glichkeiten zu ether idealen Gesamt-             komrnen klaren Bilde z u m Ausdruck zu bringen,
+heft. Dann kann man wohl die Lagen und die                    geht schon daraus hervor, dab die Q.1K. ein solches
+Pfeile so ausw~ihlen, dab in jedem Fall das P r o d u k t     I n s t r u m e n t tats~clllich besitzt und verwendet, die
+aus der L~inge des Pfeils und der L~nge des Lotes OF          sog. Wellenfunktion oder y~-Funktion, auch System-
+einen oder den anderen yon den zul~issigen Werten             vektor genannt. Von ihr wird wetter untell noch
+h a t - - beztiglich des bestimmten Punktes O. Aber           viel die Rede sein. ]DaB sie eiu abstraktes, un-
+ffir einen beliebigen anderen P u n k t O' treten             anschauliches mathemafisches Gebilde set, ist ein
+selbstverstgndlich unzulgssige Werte auf. Das                 Bedenken, das gegenfiber neuen Denkbehelfen
+Heranziehen der Gesamtheit hilft also keinen                  fast framer auftaucht und nicht viel zu sagen h~itte.
+Schritt wetter. - - Ein anderes Beispiel ist die              Jedenfalls ist sie ein Gedankending, das die Ver-
+Energie des Oszillators. Es gibt den Fall, dab sie            waschenheit aller Variablen in jedem Augenblick
+einen scharf bestimmten W e f t hat, z. t3. den               ebenso klar und exakt kouterfeit, wie das klassische
+niedersten 3 ~hv-        Die Entfernung der zwei              iVIodell deren scharfe Zahlwerte. Auch ihr Be-
+Massenpunkte (die den Oszillator bilden) erweist              wegungsgesetz, das Gesetz ihrer zeitlichen ~nde-
+sieh dann Ms sehr unseharfl U m diese Aussage                 rung, solange das System sich selbst iiberlassen ist,
+auf ein statistisches Kollektiv yon Zust~nden be-             steht an Klarheit und Bestimmtheit hinter den
+ziehen zu k6nnen, mfiBte dann aber in diesem Fall             Bewegungsgleichungen des klassischen Modells
+die Statistik der Entfernungen wenigstens nach                u m kein Jota zurfick. 15~ithink6nnte die ~-Funk-
+oben hill scharf begrenzt sein durch diejenige                tion geradezu an desseu Stelle Irelen, solange die
+Entfernnng, bet der schon die potentielle Energie             Verwaschenheit sich auf atomare, der direkten
+den V~Tert 3 ~ h v erreicht bzw. fiberschreitet. So           Kontrolle entzogeue Dimensionen besehrgnkt. In
+ist es aber nicht, sogar beliebig groBe Entfernungen          der Ta~   hat   man   aus der Funktion    ganz   anschau-
+kommen vor, wenn auch m i t stark abuehmender                 liche und bequeme Vorstellungen abgeleitet, bei-
+Wahrscheinlichkeit. Und das ist nicht etwa ein                spielsweise die ,,'Wolke negativer Elektrlzit~it" a m
+nebens~ichliches Rechenergebnis, das irgendwie                den positiven Kern u. dgl. Ernste Bedenken
+beseitigt werden k6nnte, ohne die Theorie ins                 erheben sieh abet, wenn man bemerkt, dab die
+Herz zu treffen: neben vielem anderen grtindet                Unbestimmtheit grob tastbare und sichtbare Dinge
+sich auf diesen Sachverhalt die quantenmecha-                 ergreift, wo die t3ezeichnung Verwaschenheit dann
+nische Erkl~irung der Radioaktivit~tt (GAMow). - -            einfach falsch wird. Der Zusta.nd eines radio-
+Die t3eispiele lieBen sich ins Unbegrenzte vermeh-            aktiven Kerns ist vermutlich in solehem Grade
+ren. Man beachte, dab you zeitlichen Vergnde-                 und in solcher Art verwaschen, dab weder der Zeit-
+rungen gar nicht die Rede war. Es wtirde nichts               punlCc des Zerfalls noch die t~ichtung feststeht, in
+helfen, wenn m a n dem Modell erlauben wollte, sich           der die a-Partikel, die dabei austritt, den Kern
+ganz ,,unklassisch" zu wergndern, etwa zu ,,sprin-            verl/iBt. I m Innern des Atomkerns st6rt uns die
+8~2                                  R~CK: Der Ausbruchscyklus des Merapi in den J a h r e n I933/34.                                                          Die Natur-
+                                                                                                                                                              wissenschaften
+
+V e r w a s c h e n h e i t n i c h t . Die a u s t r e t e n d e P a r t i k e t         s i c h e r n m u g ) : in e i n e m G E m E a s c h e n Z g h I r o h r
+wird, w e n n m a n a n s c h a u l i e h d e u t e n will, als Kugel-                    b e f i n d e t sich eine winzige Menge r a d i o a k t i v e r
+welle b e s c h r i e b e n , die n a c h alien R i c h t u n g e n n n d                 S u b s t a n z , 8o wenig, daG i m L a u f e i n e r S t u n d e
+f o r t w ~ h r e n d v o m K e r n e m a n i e r t u n d e i n e n be-                   vielleicht eines y o n d e n A t o m e n zerfallt, e b e n s o
+nachbarten Lenchtschirm fortw~hrend in seiner                                             w a h r s c h e i n l i c h a b e r a u c h keines; g e s c h i e h t es, so
+g a n z e n A u s d e h n u n g trifft. D e r S c h i r m a b e r zeigt                   spricl~t d a s Z a h l r o h r a n n n d b e t a t i g t fiber ein
+n i c h t e t w a ein b e s t ~ n d i g e s m a t t e s F l ~ c h e n l e u c h t e n ,   Relais ein H ~ m m e r c h e n , d a s ein K 5 1 b c h e n m i t
+s o n d e r n b l i t z t in e i n e m A n g e n b l i c k a n einer Stelle               B l a u s g u r e z e r t r f i m m e r t . H a t m a n dieses g a n z e
+a u f - - oder, u m d e r W a h r h e i t die E h r e zu geben,                           S y s t e m eine S t u n d e l a n g sich s e l b s t fiberlassen,
+er b l i t z t b a l d hier, b a l d d o r t auf, weft es u n m 6 g l i c h               so w i r d m a n sich sagen, d a b die K a t z e n o c h lebt,
+ist, d e n V e r s u c h m i t bloB e i n e m e i n z i g e n r a d i o -                 vven:n i n z w i s c h e n k e i n A t o m zerfallen ist. D e r e r s t e
+a k t i v e n A t o m a u s z u f / i h r e n . ]3entitzt m a n s t a r t                 Atomzerfa11 wfirde sie v e r g i f t e t h a b e n .                          Die
+des L e u c h t s c h i r m s e i n e n r g u m l i c h a u s g e d e h n t e n           w - F u n k t i o n des g a n z e n S y s t e m s wfirde das so z u m
+D e t e k t o r , e t w a ein Gas, d a s v o n d e n c~-Teilchen                          A u s d r u c k b r i n g e n , d a b i n i h r die l e b e n d e u n d die
+i o n i s i e r t wird, so f i n d e t m a n die I o n e n p a a r e lgngs                t o t e K a t z e (s. v. v.) zu gleichen T e i l e n g e m i s c h t
+g e r a d l i n i g e r K o l o n n e n a n g e o r d n e t ~, die rfickw~rts             o d e r v e r s c h m i e r t sind.
+verlfi.ngert d a s r a d i o a k t i v e M a f e r i e k 6 r n c h e n fret-                     D a s T y p i s c h e a n diesen F ~ l l e n ist, d a b eine
+fen, y o n d e m die a - S t r a h l u n g a u s g e h t (C.T.R.                          ursprfinglich auf den Atombereich beschrgnkte
+WILSONsche B a h n s p u r e n , d u r c h N e b e l t r 6 p f c b e n                    U n b e s t i m m t h e i t sich in g r o b s i n n l i c h e U n b e s t i m m t -
+s i c h t b a r g e m a c h t , die a n t d e n I o n e n k o n d e n s i e r e n ) .     h e f t u m s e t z t , die sich d a n n d u r c h d i r e k t e B e o b -
+        M a n k a n n a u c h g a n z b u r l e s k e F~Ite k o n -                       a c h t u n g entscheide~ l~gt. D a s h i n d e ~ nns, in so
+s t r u i e r e n . E i n e K a t z e w i r d i n eine S t a h l k a m m e r              n a i v e r ~Veise ein , , v e r w a s c h e n e s M o d e l l " als A b -
+gesperrt, z u s a m m e n m i t f o l g e n d e r H511enmaschine                          bild d e r \ ¥ i r k l i c h k e i t g e l t e n zu lassen. A n sich
+(die m a n gegen d e n d i r e k t e n Zugriff d e r K a t z e                            e n t h i e l t e es n i c h t s U n k l a r e s o d e r \ ¥ i d e r s p r u c h s -
+      Zur Veranschaulichung kann Fig. 5 oder 6 a.uf                                       volles. E s ist ein U n t e r s c h i e d z w i s c h e n einer v e r -
+S. 375 des Jg. 1927 dieser Zeitschrift dienen; oder auch                                  wackelten oder unscharf eingestellten Photographie
+Fig. ~, S. 734 des vorigen Jahrganges (I934), da sind es                                  u n d e i n e r A u f n a h m e y o n W'olken n n d NebeI-
+aber B a h n s p u r e n yon \¥asserstoffkernen.                                          schwaden.                                               (Fortsetzung fotgt.)
+
+
+                           Der Ausbruchscyklus des Merapi in den Jahren I933/34.
+                                                                    V o n HANS RECK, Berlin.
+       S c h o n e i n m a i b a b e ich in dieser Z e i t s c h r i f t 1                reif g e w o r d e n e n M a g m a s ist. Diese P h a s e k e n n -
+fiber e i n e n d e r s t ~ r k s t e n A u s b r t i c h e dieses r e g s t e n          z e i c h n e n sowohl auf- wie a b s t e i g e n d e E r u p t i o n s -
+und gef~hrlichsten Vulkans NiederlXndisch-Indiens                                         w o l k e n ; sie ist d a d u r c h bet w e i t e m die g e f g h r l i c h s t e
+b e r i c h t e t , n~imlich fiber d e n des J a h r e s I93 o, m i t                     des g a n z e n Cyklus. Sie w i r k t z e r s t 6 r e n d u n d v e r -
+d e m n a c h l a n g e r P a u s e eine n e u e U n r u h e p e r i o d e                ausgabt stfirmisch den angesammelten f3berschug
+seines H e r d e s e i n g e l e i t e t w u r d e . D i e s e r P a r o x y s -          a n E n e r g i e i m H e r d . E i n e zweite P h a s e f f i h r t
+mus, dessert A b k l i n g e n n o c h w e f t i n d a s J a h r I93 i                    zghes, g a s g r m e r g e w o r d e n e s M a g m a d u r c h d e n
+h i n e i n r e i c h t e , ist v o m v u l k a n o l o g i s c h e n D i e n s t Nie-    S c h l o t e m p o r u n d s t a u t es zu d n e r K u p p e fiber
+derl. I n d i e n s s e h r grfindlich s t u d i e r t u n d i n z w i s c h e n          d e m A u s t r i t t s p u n k t auf. E i n e d r i t t e , m i t d e r
+in e i n e r s c h 6 n e n M o n o g r a p h i e y o n NEUMANN V&N                        v o r a n g e h e n d e n m e i s t eng v e r k n f i p f t e P h a s e e n d -
+PADANG ~ v e r 6 f f e n t l i c h t w o r d e n . D r e i V u l k a n o -                lich ffihrt, ebenfalls gas- u n d e x p l o s i o n s a r m , d e n
+l o g e n v o r a l l e m : S~rEHN, NEUS~ANN VAN PADANG                                   A n d r a n g d e r L a v a m a s s e n , die d e r s t e t s r e l a t i v
+u n d I-L~RT~ANN, v e r d a n k e n w i t die w e i t g e h e n d e                       klein b l e i b e n d e K u p p e n b a u n i c h t zu fassen v e r -
+K l g r u n g d e r E r s c h e i n u n g e n dieses A u s b r u c h e s                  mag, in S t r o m f o r m a n d e r g e e i g n e t s t e n Stelle
+u n d d a m i t eines A u s b r u c h s t y p s , d e r n i c h t y o n                   aus d e m K r a t e r b e r e i c h fiber die V u l k a n h g n g e ab.
+minderem allgemein vulkanologischem Interesse                                             Diese b e i d e n P h a s e n sind die A u f b a u p h a s e n des
+und nicht yon geringerer praktischer Bedeutung                                            V u l k a n s . E i n e v i e r t e P h a s e e n d l i c h i s t die s e h r
+i s t als e t w a d e r eines S t r a t o v u l k a n s , wie d e r                       verschieden tange Pause der Ersch6pfung, wghrend
+Vesuv, o d e r eines S c h i l d v u l k a n s , wie d e r S k j a l d -                  w e l c h e r d e r V u l k a n Stoff u n d Kr~ifte e r g / i n z t u n d
+b r e i d a u f I s l a n d einer ist.                                                     zu n e u e m D u r c h b r u c h s a m m e l t .
+       D i e s e r T y p l~tBt sich a l l g e m e i n d a h i n c h a r a k -                      E s ist s e l b s t v e r s t g n d l i c h , d a b bet d e m iiber-
+±erisieren, d a b eine e r s t e E x p l o s i v p h a s e TrXger d e r                   gewaltigen, v e r w i r r e n d e n K r g f t e s p i e l eines V u l k a n -
+B e f r e i u n g des i n d e r v o r a n g e g a n g e n e n R u h e z e i t              a u s b r u c h e s diese E i n z e l p h a s e n e b e n s o w e n i g s c h e m a -
+~uBerlich m e h r o d e r m i n d e r u n m e r k l i c h e r u p t i o n s -              t i s c h gleich a b l a u f e n wie die g a n z e n Cyklen. Die
+                                                                                           V a r i a b i l i t g t aller E i n z e l h e i t e n ist ftir u n s e r S c h a u e n
+     It. RECK, Der Merapi-Vulkan auI J a v a und sein
+                                                                                           u n d V e r s t e h e n f a s t u n b e g r e n z t ; sie k 6 n n e n die er-
+Ausbruch im Dezember I93 o. Naturwiss. 19, 369--373
+                                                                                           k a n n t e n G e s e t z m ~ G i g k e i t e n s o g a r zeitweise fiber-
+(~93~)-
+      2 1~. I~EUMAIN-N VAN PADANG, D e u i t b a r s t i n g                      van     w u c h e r n ; a b e r die G r u n d z f i g e des C y k l u s a b l a u f e s ,
+den Merapi (Midden Java) in de jaren I 9 3 o - - I 9 3 I.                                  d a s Typologische, schXlt sich d o c h bet j e d e m Ge-
+Vulkanol. en seismolog. Mededeel z933, Nr 12.                                              s a m t t i b e r b l i c k fiber eine solche E r u p t i o n s p e r i o d e
+

@@ -1,0 +1,513 @@
+# 364   My God, He Plays Dice!
+
+**source:** pdf · **section:** books
+**file:** Problems_Solved
+---
+
+
+                            l e m s
+                        Prob ed?
+                         Solv
+Chapter 45
+                                               Problems Solved? 365
+
+Problems Solved?
+   In the preface we posed thirteen problems for which a deep
+analysis of Einstein’s thinking, especially his idea of an “objective
+reality,” might lead to plausible solutions.
+   1. The 19th-century problem of microscopic irreversibility
+   2. Nonlocality, first seen by Einstein in 1905
+   3. Wave and particle “duality” (1909)
+   4. The metaphysical question of ontological chance (1916)
+   5. Nonlocality and “action-at-a-distance” (1927)
+   6. The “one mystery” of the two-slit experiment
+   7. The measurement problem (1930)
+   8. The role of a “conscious observer” (1930)
+   9. Entanglement and “spooky” action-at-a-distance (1935)
+   10. Schrödinger’s Cat - dead and alive? (1936)
+   11. No “hidden variables,” but hidden constants (1952)
+   12. Conflict between relativity and quantum mechanics?
+   13. Is the universe deterministic or indeterministic?
+   Our proposed solutions are radical, if only compared to decades
+of confusion and mystery surrounding quantum mechanics, but
+we hope that you find most of them visualizable and intuitive, not
+characteristics normally associated with the quantum.
+Microscopic Irreversibility
+   Problem: In classical mechanics, microscopic particle collisions
+                                                                        Chapter 45
+
+are time reversible, conserving entropy and information. Neither
+entropy, nor more importantly information, can increase in a
+deterministic, classical world. Ludwig Boltzmann showed that
+random collisions could increase the macroscopic entropy, but
+reversing the time would decrease it again.. Thus the puzzle, how
+to reconcile macroscopic entropy with microscopic reversibility.
+   Solution: Reversibility fails when any matter interacts with
+radiation, e.g., emission of a photon during the collision, or
+changes (quantum jumps) between internal energy levels, are
+         366     My God, He Plays Dice!
+
+               taken into account. Any quantum process with such transitions
+               involves ontological chance as discovered by Einstein in 1916.
+               Interaction with light introduces random changes in the energy
+               and momentum of either or both particles. If all particle motions
+               could be reversed, the absorption of a photon with the same energy
+               in the opposite direction at the correct moment is not impossible,
+               but statistically very unlikely to occur.
+                  Comment: As Einstein noted in 1909, emission processes are
+               not “invertible.” There are outgoing spherical waves, but incoming
+               spherical waves are never seen. Josef Loschmidt’s reversibility
+               paradox is removed. Ernst Zermelo’s recurrence objection is also
+               eliminated because the recurrence of original, low entropy states
+               is prevented by the expansion of the universe. The environment is
+               always different. See chapters 11 and 12.
+               Nonlocality
+                  Problem: When a light wave, possibly carrying energy, spreads
+               out in all directions, how can that energy be suddenly collected
+               together at one point to eject an electron in the photoelectric
+               effect? In 1909 Einstein feared this instantaneous “collapse” of the
+               light wave was a violation of his special theory of relativity?
+                  Solution: It took Einstein some years to see that the light wave
+               is really just the abstract probability of finding his light quanta
+               or material particles. One can think of the probability of find-
+               ing a particle somewhere other than where it is actually found as
+               suddenly going to zero, which gives the appearance of a “collapse.”
+               In any case no matter, energy, or even abstract information is
+Chapter 45
+
+               moving when a particle is found somewhere. Nonlocality is only
+               the appearance of change in spatially separated places. Nothing
+               objectively real is moving.
+                  Comment: Probabilities are solutions to the Schrödinger
+               equation, determined by the boundary conditions of the
+               experiment and the wavelength of incoming particles. Probabilities
+               for other particles in the space do not change when one particle is
+               detected. See chapters 6, 9, and 23.
+               Wave-Particle Duality
+                                                 Problems Solved? 367
+
+   Problem: Popular interpretations of quantum mechanics
+describe quantum objects as sometimes waves and sometimes
+particles, or perhaps both at the same time?
+   Solution: Particles are real objects. Einstein was first to see waves
+as imaginary, mathematical fictions, “ghostly” and “guiding” fields,
+that allow us to calculate probabilities for finding particles. These
+waves have a statistical power over the location of particles that is
+the one deep mystery of quantum mechanics.
+   Particles are discrete discontinuous localized quanta of matter
+or energy. It was Einstein in 1905 who proved the existence of
+matter particles and hypothesized light particles, the prototypes of
+the two families of elementary particles in the “standard model”
+- fermions and bosons. Twenty years later, he discovered their dif-
+ferent quantum statistics!
+   Waves, or wave functions, are mathematical solutions to the
+Schrödinger equation, with continuous values in all space, which
+provide probabilities for finding particles in a given place and in a
+specific quantum state.
+    Comment: The time evolution of the wave function is not
+the motion of the particle. It is only the best estimate of where
+the particle might be found. Continuous wave functions evolve
+deterministically. Particles are discrete and change their quantum
+states indeterministically.
+   As Max Born described it “The motion of the particle follows
+the laws of probability, but the probability itself propagates in
+accord with causal laws.“
+                                                                           Chapter 45
+
+   Particles are physics. Waves, and fields, are metaphysics.
+   See chapter 9.
+Ontological Chance
+   Problem: If every collision between material particles is
+controlled completely by the distribution and motions of all other
+particles together with the natural force laws of classical physics,
+then there is only one possible future.
+   Solution:     In modern physics, all interactions between
+material particles are mediated by the exchange of energy par-
+ticles. Einstein’s light quanta (photons) are the mediating par-
+         368       My God, He Plays Dice!
+
+               ticles for electro­magnetic radiation. In 1916, Einstein showed that
+               these energy particle exchanges always involve chance. Quantum
+               mechanics is statistical, opening the possibilities needed for free
+               will, the “free choice” of the experimenter, and “free creations of the
+               human mind.”
+                  Comment: The emergence of classical laws and apparent
+               deterministic causality occurs whenever the number of particles
+               grows large so quantum randomness can be averaged over. Bohr’s
+               “correspondence principle” claims classicality also occurs when
+               quantum numbers are large.
+                  The “quantum-to-classical transition” occurs when the mass of
+               an object m is very large compared to Planck’s constant h, so the
+               uncertainty Δv Δx ≥ h / m is very small. See chapters 1 and 11.
+               Nonlocality and Action-at-a-Distance
+                  Problem: Einstein’s 1927 presentation at the fifth Solvay conference
+               was his first public description of an issue that had bothered him
+               since 1905. He thought he saw events at two places in a spacelike
+               separation happening simultaneously. His special theory of relativity
+               claims to show the impossibility of simultaneity.
+                  Solution: Einstein’s blackboard drawing shows us that the
+               electron’s wave function propagates in all directions, but when the
+               particle appears, all of it is found at a single point.
+                  Using Einstein’s idea of “objective reality,” without any interactions
+               that could change the momentum, the particle must have traveled
+               in a straight line from the origin to the point where it is found. The
+               properties of the particle considered by Einstein in 1927 could have
+Chapter 45
+
+               evolved locally from the start of the experiment as what we called
+               “hidden constants” of the motion.
+                  Comment: There was no “action” by either particle on the other
+               in this case, so we call it “knowledge-at-a-distance.” See chapters 9,
+               17, 18, and 23.
+               Two-Slit Experiment
+                                               Problems Solved? 369
+
+   Problem: In experiments where a single particle travels to the
+screen at a time, large numbers of experiments show interference
+patterns when both slits are open, suggesting that a particle must
+move through both slits in order to “interfere with itself.”
+   Solution: Solutions to the time-independent Schrödinger equation
+for the given boundary conditions - two open slits, screen, particle
+wavelength - are different for the case of one slit open. In Einstein’s
+“objective reality,’ the particle conserves all its properties and goes
+through only one slit. Probability amplitudes of the wave function
+are different when two slits are open, explaining interference.
+   Comment: Feynman’s path integral formulation of quantum
+mechanics suggests the same solution. His “virtual particles” explore
+all space (the “sum over paths”) as they determine the variational
+minimum for least action, thus the resulting probability amplitude
+wave function can be said to “know” which holes are open. How
+abstract probabilities influence the particles’ motions is the one
+remaining mystery in quantum mechanics.
+   Bohmian mechanics also defends a particle that goes through
+one slit reacting to probabilities that are based on two slits being
+open. See chapter 33.
+Measurement Problem
+   Problem: John von Neumann saw a logical problem with two
+distinct (indeed, opposing) processes, the unitary, continuous, and
+deterministic time evolution of the Schrödinger equation versus
+the non-unitary, discontinuous, and indeterministic “collapse of
+the wave function.” Decoherence theorists and many-worlders are
+                                                                          Chapter 45
+
+convinced that quantum mechanics should be based on the wave
+function alone. There are no particles, they say. Schrödinger agreed.
+   Solution: We can think of the time evolution of a system as
+involving these two processes, but one after the other. First, the
+system evolves as a probability amplitude wave function according
+to the time-dependent Schrödinger equation. Then, at an unknown
+time (which bothers the critics), the particle appears somewhere.
+   The time of collapse may simply be the moment an experimenter
+makes a measurement. Measurement requires the recording of
+irreversible information about the location of the particle, as von
+         370        My God, He Plays Dice!
+
+               Neumann knew. It does not have to be in the mind of a conscious
+               observer.
+                  Comment: This problem shows why we need to get “beyond logic”
+               in the philosophy of science.
+               Conscious Observer
+                  Problem: The Copenhagen Interpretation and many of its
+               supporters, e.g., Werner Heisenberg, John von Neumann, Eugene
+               Wigner, considered a measurement not complete until it reaches
+               the mind of the observer. They asked where is the “cut” (Schnitt)
+               between the experiment and the mind?
+                  Solution: Information must be recorded irreversibly before any
+               observer can know the results of a measurement. Data recorded
+               (ontologically) by a measuring instrument creates new information
+               in the universe. But so does any newly created information structure
+               in nature without an observer. Einstein wanted objective reality to
+               be independent of observers, but there are measurements that are a
+               “free choice” of the experimenter, creating a new part of reality.
+                  Comment: We might say that information becomes known
+               (epistemological) when it is recorded in the world and then seen by
+               a human observer. But most new information created is ontological,
+               the universe is observing itself. See chapter 25.
+               Entanglement and “Spooky” Action-at-a-Distance
+                  Problem: In his 1935 EPR paper, Einstein discussed two particles
+               traveling away from the center. He used conservation principles to
+               show that measuring one particle gives information about the other
+Chapter 45
+
+               without measuring it directly. We have shown the two particles’
+               properties could have evolved locally from their original values
+               at the center no matter how far the particles are apart, as long as
+               no interaction with the environment has altered their values and
+               destroyed their “coherence.” But a true nonlocality appears in David
+               Bohm’s 1952 version the EPR experiment, in which electron spin
+               components are measured instead of linear momenta.
+                  Solution: As the electrons travel apart, each one stays in its state by
+               conservation laws. Their spins and linear momenta are conserved.
+               The left-moving particle electron is say -p. The other is p. The total
+                                              Problems Solved? 371
+
+linear momentum is zero. Similarly their total spin is zero. If one
+electron is spin ℏ/2, the other is exactly opposite. But the original
+process of entanglement has not left the electron spins with a
+definite spatial direction.
+   When Alice uses her “free choice” of which angle to measure
+the spin (or polarization) component, she adds new information
+which was not present at the original entanglement. Alice’s mea-
+surement decoheres and disentangles the two-particle wave func-
+tion. The particles now appear in a spacelike separation equidistant
+from the origin. The directionless and opposite spins are projected
+by her measurement into spin components, say z+ and z-. If Bob
+then measures at the same angle, he gets the perfectly correlated
+opposite value.
+   Comments: It is part of the deep mystery of quantum mechanics
+how the spatial directions of the two spins, created by a measurement
+of the two-particle wave function anywhere, come out in perfectly
+correlated directions. But had they not, something even worse
+would have happened. Symmetry and conservation laws would
+have been violated.
+Schrödinger’s Cat
+   Problem: Erwin Schrödinger imagined that the time evolution
+of his equation could start with a microscopic radioactive nucleus
+in a superposition of decayed and undecayed state, leading to a
+macroscopic cat in a similar superposition. When he suggested it,
+he was criticizing, really ridiculing, what he thought was an absurd
+consequence of Paul Dirac’s principle of superposition, with its
+                                                                        Chapter 45
+
+probabilities for a system to be in different states
+   Solution: Schrödinger was just criticizing superposition and its
+probabilities. There is never an individual cat simultaneously dead
+and alive. What the superposition of possible states in quantum
+mechanics gives us are only probabilities for the cat being dead or
+alive. The predicted probabilities are empirically confirmed by the
+statistics in large numbers of identical experiments, each one of
+which ends up with either a live or dead cat.
+         372       My God, He Plays Dice!
+
+                  Comment: The individual radioactive nucleus is never in a super-
+               position of decayed and not decayed. Quantum mechanics gives
+               us the probabilities of a decay or remaining undecayed. Once there
+               is a decay, the evolution results in a dead cat. If no decay, then a
+               live cat. Indeed, not only do macroscopic superpositions of cats not
+               exist, the radioactive nucleus is not in a superposition. There are
+               no macroscopic superpositions because there are no microscopic
+               superpositions either.
+               No “Hidden Variables,” but Hidden Constants
+                  Problem: David Bohm suggested that “hidden variables”
+               could instantaneously communicate information between
+               entangled particles to perfectly correlate their properties at great
+               distances, specifically the opposite +1/2 and -1/2 electron spins of a
+               two-electron system with total spin zero.
+                  Solution: In our adaptation of Einstein’s “objective reality,” the
+               particles are generated with individual properties, momenta,
+               angular momenta, spins, and they conserve these properties until
+               they are measured. These properties are carried along “locally” with
+               the particles, so do not violate special relativity as Einstein feared.
+                  While there might not be Bohmian “hidden variables,” we can
+               call these conserved quantities “hidden constants” (“constants of
+               the motion,” hidden in plain sight). They explain the appearance
+               of Einstein’s “spooky” action-at-a-distance. Our hidden constants
+               can explain the original EPR results, but they cannot explain the
+               measurements of electron spin components, which are created by
+               Alice’s measurement.
+Chapter 45
+
+                  Comment: The two spin components, say z+ and z-, are Alice’s
+               nonlocal projections of the opposing spins that traveled locally from
+               the origin. The nonlocal aspect is that these spin components have
+               perfectly opposing directions even though they are about to be
+               greatly separated, once the two-particle wave function has collapsed
+               into the product of two single-particle wave functions.
+                  Of course if the opposing spins of the electrons that travel locally
+               from the origin did not remain perfectly anti-correlated when
+                                               Problems Solved? 373
+
+measured and projected into a specific direction, that would be a
+violation of the conservation laws.
+Is the Universe Deterministic or Indeterministic?
+   Problem: Einstein was well known, especially in his younger years,
+for hoping quantum physics could be found to be a deterministic
+theory. When in 1916 he discovered the randomness in quantum
+physics, he called chance a “weakness in the theory.” And many times
+he insisted that “God does not play dice.” Many of the alternative
+“interpretations” of quantum mechanics are deterministic. See
+chapters 30, 31, 32, and 34.
+   Solution: Einstein had fully accepted the indeterministic nature of
+quantum mechanics by some time around 1930. But his colleagues
+paid little attention to his concerns, which had turned entirely to the
+nonlocal aspects of quantum mechanics.
+   Comment: Without indeterminism, we could not have a creative
+universe and Einstein’s “free creations of the human mind.”
+What Is Quantized?
+   The “quantum condition” describes the underlying deep reason
+for the existence of discrete objects.
+   For Bohr in 1913, it was the angular momentum of electrons in
+their orbits, as suggested by J.W.Nicholson. For Louis de Broglie in
+1924 it was that the linear momentum p = h/λ and that an integer
+number of wavelengths fits around an electron orbit. For Heisenberg
+in 1925, it was the non-commutation of momentum and position
+                                                                          Chapter 45
+
+operator matrices, and in 1927 his resulting uncertainty principle
+ΔpΔx = h. In Bohr’s otherwise obscure Como lecture of 1927, he
+showed that ΔνΔt = 1, thus deriving the uncertainty principle with
+no reference to measurements as “disturbances,” and embarrassing
+Heisenberg.
+   Multiplying ΔνΔt = 1 by Max Planck’s constant h, and noting
+E = hν, we have ΔEΔt = ΔpΔx = ΔJΔφ = h. All of these expressions
+have the same physical dimensions as angular momentum J.
+         374       My God, He Plays Dice!
+
+                  As Erwin Schrödinger explained, it is always action, or angular
+               momentum, that is being quantized. Momentum p, position x,
+               energy E, and time t, all take on continuous values. It is the angular
+               momentum or spin J that comes in integer multiples of h.
+                  Any interaction of radiation and matter involves at least one
+               unit of Planck’s quantum of action h, which first appeared in 1900,
+               though only as a heuristic mathematical device, not the radical
+               core idea of a new physics. That was seen first by Einstein, like so
+               many of the quantum mechanical concepts he saw long before the
+               “founders” developed their powerful quantum calculation methods.
+               The Bottom Line
+                   There is no microscopic reversibility.
+                   There is no nonlocality in the form of one event acting on another
+               in a spacelike separation. There are simultaneous synchronized
+               events in a spacelike separation, which Einstein feared violated his
+               special theory of relativity. They do not.
+                   Particles are real physics. Waves are imaginary. Fields are
+               metaphysics.
+                   Ontological chance exists. Without it, nothing ever happens.
+                   Nothing physically “collapses” when a possibility is actualized.
+                   The “one mystery” of quantum mechanics is how probability
+               waves control the statistical motions of particles to produce
+               interference effects.
+                   The measurement problem is explained as when new information
+               is irreducibly recorded in the measurement apparatus. Local entropy
+Chapter 45
+
+               is reduced. Global entropy increases.
+                   There is no nonseparability. Particles separate as soon one leaves
+               the other’s light cone. But two entangled particles retain their perfect
+               correlation of properties as required by the conservation laws, until
+               one interacts with something in the environment and decoheres.
+               A measurement begins with the properties of the particles still
+               correlated. It ends with decorrelation and disentanglement. The
+               mysterious power of the two-particle wave function separates into
+               single-particle functions with their new spatial spin direction also
+               perfectly correlated. But the particular spin component direction
+               chosen by Alice was not known at the origin. It can be viewed as
+                                               Problems Solved? 375
+
+new information appearing nonlocally, i.e. simultaneously in a
+spacelike separation.
+   “Spooky action-at-a-distance” is just the appearance of
+communication or interaction when entangled particles are
+measured at separation and found to remain perfectly corre-
+lated. There is no “action” by one particle on the other. It is simply
+“knowledge-at-a-distance.”
+   There is no conflict between special relativity and quantum
+mechanics, though there would have been if the probability waves
+had been carrying energy or matter.
+   Schrödinger’s cat will always be found as alive, dead, or dying if
+the nuclear decay has occurred. This is just as individual objects are
+never in a superposition, never in two places at the same time.
+   There is one world. It is a quantum world. The world appears
+classical for objects with large mass. And it is indeterministic, which
+opens alternative possibilities for an open, free, and creative future,
+for Einstein’s “free creations of the human mind.”
+   Einstein’s “objective reality” can explain the world with standard
+quantum mechanics, so much of which he discovered or created.
+   His many criticisms and objections did not prevent him from
+seeing the truly mysterious aspects of quantum physics well before
+his colleagues, who often get the credit that belongs to him.
+How to Restore Credit to Einstein
+   To correct this problem, historians of physics and especially
+teachers of quantum mechanics must change the way they discuss
+and especially to teach Einstein’s contributions to physics.
+                                                                          Chapter 45
+
+   His paper explaining Brownian motion should be taught as the
+first proof that matter is not continuous, but discrete. It consists
+of quanta. He thought he had proved Boltzmann’s controversial
+hypothesis of atoms.
+   His paper explaining the “photoelectric effect,” for which he was
+awarded the Nobel Prize, should be taught as the revolutionary
+hypothesis that light energy also comes in discrete quanta hν.
+   In these two 1905 papers, Einstein was the first to see the elements
+in today’s “standard model” of particle physics - the fermions
+         376       My God, He Plays Dice!
+
+               (matter) and the bosons (energy). For this work alone, Einstein
+               should be seen as the true founder of quantum mechanics
+                  His third paper in 1905, explaining relativity, should not
+               overshadow his quantization of matter and energy and his fourth
+               paper that year, showing their interchangeability - E = mc2.
+                  His 1907 paper explaining the anomalous specific heat of certain
+               atoms should be taught as the discovery of energy levels in atoms and
+               the “jumps” between them, six years before Niels Bohr’s quantum
+               jumps between his postulated energy levels in the atom.
+                  Einstein’s 1909 paper explaining wave-particle duality should be
+               taught as the continuous wave (and later the wave function ψ) giving
+               us the probability of finding a discrete particle. Quantum mechanics
+               is statistical!
+                  His 1916 paper on transition probabilities between energy levels,
+               which discovered the stimulated emission of radiation behind
+               today’s lasers, should be taught as the discovery of ontological chance
+               in nature whenever matter and radiation interact. The interactions
+               always involve at least one quantum of action h. They introduce
+               statistics and indeterminacy a decade before Werner Heisenberg’s
+               uncertainty principle.
+                  Arthur Holly Compton’s 1923 explanation of the “Compton
+               effect,” which confirmed Einstein’s 1916 prediction that particles of
+               light have momentum as well as energy, should be taught as Einstein’s
+               deep confidence in conservation principles, so that the motions
+               and paths of quantum particles objectively exist and at all times
+               are obeying those conservation laws for momentum and energy.
+Chapter 45
+
+               Einstein had used these fundamental principles to invalidate Niels
+               Bohr’s final attempt to deny Einstein’s light quantum hypothesis in
+               1924, in the Bohr-Kramers-Slater paper. This work should be taught
+               as the basis for Einstein’s belief in an “objective reality.”
+                  Particles don’t cease to exist, or appear simultaneously at multiple
+               places, as claimed by the Copenhagen Interpretation of quantum
+               mechanics. Just because we can’t continuously measure paths does
+               not mean that particles do not exist until we observe them.
+                  Einstein’s 1925 papers based on Satyendra Nath Bose’s very simple
+               quantum derivation of the Planck law in 1924, should be taught as
+                                                Problems Solved? 377
+
+Einstein’s discovery of the indistinguishability of elementary particles
+and their consequent strange and different statistics for half-spin
+“fermions”and unit-spin “bosons.”
+   Einstein’s misunderstood and ignored presentation at the Solvay
+conference of 1927 showing the nonlocal behavior in a single particle
+passing through a slit should be taught as the beginning of his 1935
+EPR paper, when he showed that two particles a great distance apart
+can acquire perfectly correlated properties instantaneously, his
+discovery of nonseparability and entanglement.
+    Poincaré and Einstein
+   Some historians of science have pointed out how much Einstein
+was inspired by Henri Poincaré’s great book Science and Hypothesis.
+   Many of Einstein’s biographers have described the young Einstein’s
+colleagues who met frequently to discuss new ideas in philosophy
+and physics. They called themselves the Olympia Academy. After a
+frugal evening meal of sausage, cheese, fruits, honey, and tea, they
+read and discussed the great works of David Hume, John Stuart
+Mill, Ernst Mach, and Karl Pearson. Several weeks were spent on
+Henri Poincare’s La Science et l’Hypothèse.
+    Recently a few scholars have shown that in his “miracle year” of
+1905 Einstein solved three great problems described by Poincaré,
+just one year after his book had been translated into German.
+Arthur I. Miller cited three problems he thought Poincaré felt were
+“pressing;” the failed attempts to detect the motion of Earth through
+the “ether,” the photoelectric effect, and Brownian motion. 1 A close
+reading of Poincaré’s book shows that great thinker suggested
+                                                                           Chapter 45
+
+several more problems to Einstein, most importantly the principle of
+relativity, but also the one-way increase of entropy with its problem
+of irreversibility, Maxwell’s demon, the question of determinism
+or indeterminism, and amazingly “action-at-a-distance.” We now
+realize that in quantum mechanics what Einstein discovered is only
+“knowledge-at-a-distance.”
+   We hope to have shown that the far-seeing Einstein grappled
+with all these problems, a few unsuccessfully but always creatively,
+between reading Poincaré in 1904 and his death five decades later.
+1       Miller, 2002, p.185. Rigden 2005, p.8, Holt, 2018, p.5
+

@@ -1,0 +1,183 @@
+# North-Holland
+
+**source:** pdf · **section:** solutions
+**file:** QuantumJumps
+---
+
+Physics LettersA 167 (1992) 315—318                                                                      PHYSICS LETTERS A
+North-Holland
+
+       Wave-function approach to dissipative processes:
+       are there quantum jumps?
+       Nicolas Gisin
+       Group ofApplied Physics, University of Geneva, 1211 Geneva 4, Switzerland
+
+       and
+
+       Ian C. Percival
+       Blackett Laboratory. Imperial College, Prince Consort Road, London SW7 2BZ, UK
+       and School of Mathematical Sciences, Queen Mary and Westfield College, University of London,
+       Mile EndRoad, London El 4NS, UK
+
+       Received 18 May 1992; accepted for publication 5 June 1992
+       Communicated by J.P. Vigier
+
+          In a recent Letter Dalibard and coworkers have presented an efficient method of computing the development of an open quan-
+       tum system based on stochastic evolution of the state vector, in which quantum jumps are represented explicitly. Independently
+       of this pragmatic approach, physicists interested in the “quantum measurement problem” have been led to consider continuous
+       stochastic diffusion equations for the state vector associated to any density operator evolution. We underline the remarkable
+       convergence of these two trends in physics, and argue that these recent developments may lead to new results and insights into
+       quantum phenomena.
+
+   In Einstein’s paper on the A- and B-coefficients                  relatively elaborate mathematical tools based on
+ [1], he assumed that an individual quantum system                   density operator evolution. For example Itano and
+like an atom was capable of a transition or jump from                coworkers based their analysis of their “Zeno para-
+one state to another with the absorption or emission                 dox” experiment on quantum jumps [4], although
+of radiant energy. Although Einstein’s paper stimu-                  the same experiment can also be interpreted without
+lated the development of modern quantum mechan-                      jumps by shifting the quantum-classical boundary
+ics, such jumps have no formal place in that theory,                  [5].
+for which the state vector represents the properties                    Now Dalibard, Castin and Molmer [61, and also
+of an ensemble of systems and not an individual                      Carmichael [71 and Teich and Mahler [81 have
+system.                                                              come up with an efficient method of computing the
+   Despite the success of the modern theory, many                    development of an open system based on stochastic
+physicists, particularly experimenters, have insisted                evolution of the state vector, in which quantum
+on treating quantum jumps of individual systems as                   jumps are represented explicitly. In addition to the
+if they were real, and the state vector as if it repre-              advantages listed in the above references, this
+sented the behaviour of an individual system, as ex-                 method, contrary to some others,as explained in ref.
+emplified by a single run of a laboratory experiment                  [9], has no problem with the uncertainty relations.
+(quantum optics provides many examples, see for                         Independently ofthese developments, Bohm, Bub,
+instance ref. [2]). And the experimenters’ picture                   Pearle [10], Gisin [11], Ghirardi, Rimini and We-
+has given them valuable physical insights [3], which                 ber, Diósi, and Bell [121 have proposed alternative
+have sometimes escaped the theoreticians with their                  quantum theories in which the state vector repre-
+
+0375-9601/92/s 05.00 © 1992 Elsevier Science Publishers B.V. All rights reserved.                                              315
+Volume 167, number 4                                  PHYSICS LETTERS A                                                                   27 July 1992
+
+sents an individual system and follows a stochastic                                   The theory is given in ref. [11, 15]. Equation (2) can
+dynamics.                                                                             be used, like those of Dalibard et al.. to provide an
+   In particular DiOsi, Gisin and Pearle have ob-                                     efficient Monte Carlo solution of problems that arc
+tamed continuous stochastic diffusion equations for                                   normally formulated in terms of the time evolution
+the state vector from any density operator evolution                                  of the density operator, and applications are already
+equation. Percival [13] has provided a natural sym-                                   in progress.
+metry condition under which this state vector equa-                                     This method has the following advantages over the
+tion is unique, and has suggested that the equations                                  methods of Dalibard and coworkers. Equation (2)
+should be used as a practical tool. Given Lindblad’s                                  is derived explicitly and uniquely from any Mar-
+[141 expression for the equation of motion for the                                    kovian density operator evolution equation and its
+density operator                                                                      solutions are continuous in time. Since tt uses the
+                                                                                      well developed Ito stochastic calculus, all the exist-
+j~=—i[H,p]    + ~ (2L,pL~—{L~L,,p}),                         (I)                      ingtools [16] fornumerical integrationsofsuch sto-
+                                                                                      chastic equations can be used. The uniqueness of the
+the differential form of the stochastic equation of                                   diffusion equation provides a one-to-one relation be-
+motion for the state vector 1w> is                                                    tween a distribution of pure states at an initial time,
+                                                                                      and the distribution at later times.
+dlw>=(_iHlw>_ ~ L~L~Iw>)dt                                                               Figure 1 illustrates an application of our method
+                                                                                      to the non-linear absorber:
+                                                                                             [(at_a).pl +2a2pat2_~at2a2,p~.               (4)
+              1w> dt)L~1w>.
+  +~ (d~+2<wIL~                                              (2)                      ~
+
+where d~,,represents the Ito form of the complex                                      This example has also been treated with the positive
+normalized Wiener process that satisfies                                              P-representation (an extension of the Wigner func-
+                                                                                      tion), but it suffers from runaway problems [17].
+Re(dc~~)
+      Re(d~,~)
+             =lm(di~,,)Im(d~,~)
+                             =5,,m dt                    ,                            The full line in fig. 1 is the direct solution of the den-
+
+Re(d~~)
+      Im(di~,,)=0             .                              (3)                      sity operator equation. The result based on eq. (2).
+
+                                  08
+
+                        ci)             -                                 / \
+                        n         0.6
+                        E                                             /                          .j•”\
+                        z                                                       /           ./                !         /   ~
+                        C                                         /                         /            \/       .~            .
+                        o
+                        .i:       0.4-                        /                     ‘\/7!
+                        0~                      /
+
+                                  0.2,
+
+                                        0           50                                    100                     150               200
+                                                                            Time
+
+Fig. I. Density operator (full line) and stochastic diffusion (dotted line) methods compared for the nonlinear absorber. eq. (4). The
+used time increment is dt= 0.02 and 100 samples are used for approximating the average.
+
+316
+Volume 167, number 4                                                  PHYSICS LETTERS A                                                           27 July 1992
+
+                                3>
+
+                              2.5~                            I
+
+                                 1                                I
+                               2/
+                       cli        =                       I
+                       .0                                                  I
+
+                       E
+                       C      1.5H                        I                                                                           II
+
+                       >        I -~                  ~                    -~           n                        ni             fl     II
+
+                                       H              I                                 ..~                                     II
+
+                                                                                                                      Ii        FF
+                                OH-—     L        .                            I.   ~
+
+                             -0.5 H
+
+                                  0        10   20                    30            40     50        60     70             80        90     100
+                                                                                      Time
+Fig. 2. A sample trajectory of the stochastic process associated to eq. (1) for a spin 3/2 (i.e. a four-level system) with a weak pump
+(h = i (S.f. — S_)), a weak spontaneous decay (L
+                                                 1 = 0.2S_) and a measurement like interaction (L., = 5S~).Note that the solutions of eq.
+(I) have many fine spikes that are not seen on the figure because ofthe time discretization.
+
+the dotted line, agrees for all times, without large                                               P. Grangier, 0. Roger and A. Aspect, Europhys. Lett. I
+fluctuations, contrary to the positive P-representa-                                               (1986) 173.
+tion. Other applications are investigated in ref. [18].                                        [31 HG. Dehmelt, Bull. Am. Phys. Soc. 20 (1974) 60.
+                                                                                               [4] W.M. Itano and al., Phys. Rev. Lett. 41(1990) 2295.
+In particular fast transitions between quasi-stable                                            [51V. Fredrichs and A. Schenzle, Phys. Rev. A 44 (1991) 1962.
+states appear naturally, as well as specific interac-                                          [6] J. Dalibard, Y. Castin and K. Molmer, Phys. Rev. Lett. 68
+tions with the environment leading to measurement                                                  (1992) 580; A Monte Carlo wave-function method in
+like reductions of the state vector, see fig. 2.                                                   quantum optics, preprint (1992).
+   There is thus a remarkable convergence of two                                               171 Hi. Carmichael, private communication.
+                                                                                               [8] W.G. Teich and G. Mahier, Phys. Rev. A 45 (t992) 3300.
+trends in physics that have previously been quite dis-                                         [9] M. Dörfle and A. Schenzle, Z. Phys. B 65(1986) 113.
+tinct: The quantum measurement ~problem” as con-                                              [10] D. Bohm and J. Bub, Rev. Mod. Phys. 38 (1966) 473;
+sidered by physicists worried by the foundations of                                                Ph. Pearle, Phys. Rev. D 13 (1976) 857; lot. J. Theor. Phys.
+quantum physics, and the quantum measurement                                                       18 (1979) 489; J. Stat. Phys. 41(1985) 7 t 9.
+process as treated pragmatically by experimenters                                             [II] N. Gisin, Phys. Rev. Lett. 52 (1984) 1657; Helv. Phys. Acta
+                                                                                                   62 (1989) 363.
+looking for intuitive pictures and rules for                                                  [12] G.-C. Ghirardi, A. Rimini and T. Weber, Phys. Rev. D 34
+computation.                                                                                       (1986) 470;
+   It can now be seen that the stochastic reduction                                                L. DiOsi, J. Phys. A 21(1988) 2885;
+picture of quantum mechanics provides both insight                                                 0.-C. Ghirardi, Ph. Pearle and A. Rimini, Phys. Rev. A 42
+and practical tools for the solution of physical                                                   (1990) 78;
+                                                                                                   iS. Bell, Sn: Schrodinger, centenary of a polymath
+problems.
+                                                                                                    (Cambridge Univ. Press, Cambridge, 1987); Phys. World
+                                                                                                   3 (1990) 33.
+                                                                                              [13] IC. Percival, in: NATO ASI Series, Vol. 357. Quantum
+References                                                                                         chaos, quantum measurement, eds. P. Cvitanovic, I. Percival
+                                                                                                   and A. Wirzba (Kiuwer, Dordrecht, 1992) pp. 199—204;
+ [11 A. Einstein, Phys. Z. 18 (1917) 121.                                                          Quantum records A and B, preprints QMW DYN 91-5 and
+ [2] T. Erberandal.,Ann. Phys. (NY) 190 (1989) 254;                                                91-6.
+     R.J. Cook, Phys. Scr. 21(1988) 49~                                                       [14] G. Lindblad, Commun. Math. Phys. 48 (1976)119.
+
+                                                                                                                                                          317
+Volume 167. number 4                                    PHYSICS LETTERS A                                         27 July 1992
+
+[IS] N. Gisin and M. Cibils. Quantum diffusions, quantum                 IT. Drummond, A. Hoch and R.R. Horgan, J. Phys. A 19
+     dissipation and spin relaxation. J. Phys. A. to be published        (1986) 3871.
+     (1992).                                                        [17]R.SchackandA.Schenzle,Phys.Rev.A44(l99l)682.
+[16] E. Helfand. Bell. Syst. Tech. J. 58 (1979) 2289:60 (1981)      [181 N. Gisin and 1. Percival, The quantum diffusion model
+     I 927:                                                              applied to open systems, preprint (1992).
+     W. Rilmelin. SlAM J. Numer. Anal. 19 (1982) 604:
+
+318
+

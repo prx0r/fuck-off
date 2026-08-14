@@ -1,0 +1,507 @@
+# 296   Great Problems in Philosophy and Physics - Solved?
+
+**source:** pdf · **section:** books
+**file:** Emergence
+---
+
+
+                               e n ce
+                       E  merg
+Chapter 27
+
+                                                                 This chapter on the web
+                                       informationphilosopher.com/knowledge/emergence
+                                                    Emergence           297
+
+Emergence
+   Information philosophy explains the reality of emergence,
+because what emerges is new information. The universe began
+with minimal information. For hundreds of thousands of years,
+the only information structures were fundamental particles.
+These were only the simplest matter and energy, and they are con-
+served quantitities. In a deterministic universe, that initial infor-
+mation would be all the information in the universe today and in
+the future, because information would be conserved.
+   But information is not conserved. Because it is neither matter
+not energy, information is immaterial. Matter can be converted to
+energy (E = mc2), but their total is a constant. The only thing that
+is new is information. Information is the only emergent.
+  A complex physical world of galaxies, stars, and planets has
+emerged, a diverse biological world has emerged, and a mental
+world of ideas has emerged, including the idea of emergence itself.
+Emergence is the result of the cosmic creation process.1
+   And this process is fundamentally a rearrangement and trans-
+formation of the fundamental particles of matter and energy.
+  The basic idea of emergence is that there are properties - per-
+haps even “laws” - at the upper hierarchical levels of nature that
+are not derivable from or reducible to the properties and laws of
+the lower levels. Thus chemistry has properties not derivable from        Chapter 27
+physics, biology has properties not derivable from chemistry, and
+psychology has properties not derivable from biology.
+Emergence or Reduction?
+   Reductionism, by contrast, argues that everything can be
+explained by (reduced to) the basic laws of physics. The world is
+said to be “causally closed.” “Physicalism” is the idea that every-
+thing that is caused has a physical cause, that everything that hap-
+pens is caused by material particles in motion
+  Causal control is assumed to work “bottom-up.” The motions
+and forces between the material particles are said to determine
+1      See appendix F.
+         298     Great Problems in Philosophy and Physics - Solved?
+
+               everything chemical, biological, and psychological. Information
+               theory would then require that the information content of every-
+               thing being done at the higher biological and mental levels is actu-
+               ally contained in the structure and motions of the atoms and mol-
+               ecules. We shall show that this reductionism is implausible
+                  Causal closure implies that every thought in the mind is some-
+               how present in the paths or positions of the atomic particles them-
+               selves. Mental causation is then redundant. Mental events are epi-
+               phenomenal, non-existent, just an illusion.
+                  Genuine emergence of new properties at the higher biological
+               and psychological levels, on the other hand, requires that those
+               properties can exert “top-down” causal control on the motions of
+               particles in lower levels. This is the notion of downward causa-
+               tion, the highest version of which is mental causation.2 It means
+               motions of the atomic particles must effectively be controlled by
+               the mind, which strikes many biologists and psychologists, who
+               are uncomfortable making claims about physics, as extravagant.
+                 If the laws of nature control everything in the visible universe,
+               they say, how can they fail to control the mind?
+                  Proving this “top-down” or mental causation is made doubly
+               difficult, since we would like to show that “bottom-up” causes on
+               the body and mind can somehow be blocked. It seems illogical or
+               even impossible to show that causation can flow downward but
+Chapter 27
+
+               not upward.
+                  But we can demonstrate emergent phenomena at the biological
+               and mental (neural) level that have exactly this emergent property
+               of what we can call “one-way causality.”
+               History of the Idea of Emergence
+                 The idea of emergence was implicit in the work of John Stuart
+               Mill and explicit in the work of “emergentists” like George
+               Henry Lewes, Samuel Alexander, C. Lloyd Morgan, and
+                 2    See chapter 15.
+                                                               Emergence         299
+
+C. D. Broad. Some wanted to explain the direct emergence of
+mind from matter, to solve the mind-body problem, but as Alex-
+ander put it, there are at least two distinct steps - mind emerges
+from life, just as life emerges from the physical-chemical.
+   Mill discusses the Laws of Nature in his System of Logic, Book
+III. Although Mill did not use the term “emergent,” he makes the
+concept clear enough:
+    The chemical combination of two substances produces, as is well
+    known, a third substance with properties different from those of either
+    of the two substances separately, or of both of them taken together.
+    Not a trace of the properties of hydrogen or of oxygen is observable
+    in those of their compound, water. The taste of sugar of lead is not
+    the sum of the tastes of its component elements, acetic acid and lead
+    or its oxide; nor is the colour blue vitriol a mixture of the colours of
+    sulphuric acid and copper...If this be true of chemical combinations, it
+    is still more true of those far more complex combinations of elements
+    which constitute organized bodies; and in which those extraordinary
+    new uniformities arise, which are called the laws of life... To whatever
+    degree we might imagine our knowledge of the properties of the sev-
+    eral ingredients of a living body to be extended and perfected, it is
+    certain that no mere summing up of the separate actions of those ele-
+    ments will ever amount to the action of the living body itself.3
+   Lewes also used Mill’s example of the properties of water not
+being reducible to those of oxygen and hydrogen. He coined the
+term “emergent” in 1875:
+    Although each effect is the resultant of its components, the product of
+                                                                                   Chapter 27
+    its factors, we cannot always trace the steps of the process, so as to see
+    in the product the mode of operation of each factor. In the latter case,
+    I propose to call the effect an emergent. It arises out of the combined
+    agencies, but in a form which does not display the agents in action.4
+   In his 1920 book Space, Time, and Deity, Samuel Alexander
+cited Lloyd Morgan as his source of emergentism, and wrote:
+    much of what I have to say has been already said by Mr. Lloyd Morgan
+    in the concluding chapter of his work on Instinct and Experience. The
+    argument is that mind has certain specific characters to which there is
+    or even can be no neural counterpart...
+
+3       A System of Logic, Book III, chapter VI
+4       Problems of Life and Mind,(1875), vol. 2, p. 412
+         300         Great Problems in Philosophy and Physics - Solved?
+
+                    Mind is, according to our interpretation of the facts, an ‘emergent’ from
+                    life, and life an emergent from a lower physico-chemical level of exis-
+                    tence.5
+                  Later, in his 1922 Gifford Lectures and 1923 book Emergent
+               Evolution, Lloyd Morgan saw even atoms and molecules as emer-
+               gent entities and introduced the related “top-down” concept of hier-
+               archical supervenience:
+                    ...in the physical world emergence is no less exemplified in the advent of
+                    each new kind of atom, and of each new kind of molecule. It is beyond
+                    the wit of man to number the instances of emergence. But if nothing
+                    new emerge - if there be only regrouping of pre-existing events and
+                    nothing more - then there is no emergent evolution.
+                    Under emergent evolution there is progressive development of stuff
+                    which becomes new stuff in virtue of the higher status to which it has
+                    become raised under some supervenient kind of substantial gotogeth-
+                    erness.6
+                  Vitalists like Henri Bergson and Hans Driesch may not have
+               used the term emergence, but they strongly supported the idea of
+               teleological (purposeful), likely non-physical, causes, without which
+               they thought that life and mind could not have emerged from physi-
+               cal matter.
+                   C. D. Broad’s view of the mind was emergentist and vitalist.
+                  But Broad distinguished between what he called “Substantial
+               Vitalism” (a dualist theory of an immaterial substance as a vital force,
+               for example, Bergson’s élan vital) and what Broad called “Emergent
+Chapter 27
+
+               Vitalism” (some kind of non-reductive materialism, in which the
+               vital property emerges from the body, and in the case of mind, from
+               the highest bodily level - the brain).
+                Broad says he borrowed the adjective “emergent” from Lloyd
+               Morgan and Alexander.
+                  Broad contrasted the two forms of Substantial and Emergent
+               Vitalism with what he called “Biological Mechanism,” which is
+               essentially a reduction of biology to physics and chemistry. All the
+               emergentists were of course anti-mechanists or anti-reductionists.
+               5        Space, Time, and Deity (1920), vol. 2, p. 14
+               6        Emergent Evolution (1923), pp. 1-6
+                                                     Emergence             301
+
+   Broad also mentioned Driesch, an anti-mechanist who developed
+a sophisticated form of vitalism that he called “neovitalism.”
+   Driesch saw clear evidence of a kind of teleology in the ability of
+lower organisms to rebuild their lost limbs and other vital parts. He
+used Aristotle’s term “entelechy” (loosely translated as “having the
+final cause in”) to describe the organism’s capacity to rebuild itself.
+Driesch said this disproved the theory of preformation from a single
+original cell. Driesch studied the original cells of a sea urchin, after
+they had divided into two cells, then four, then eight. At each of
+these stages, Driesch separated out single cells and found that the
+separated cells went on to develop into complete organisms. This is
+regarded as the first example of biological cloning.
+   Broad rejected Driesch’s idea of entelechy as a non-material, non-
+spatial agent that is neither energy nor a material substance of a spe-
+cial kind, but we should note that Driesch’s entelechy well describes
+the information content of any cell by which it develops into a
+complete organism. Driesch himself maintained that his entelechy
+theory was something very different from the substance dualism of
+older vitalisms. So what was Broad’s criticism of Driesch? Neither
+thinker could produce a clear description of their vital element.
+   Broad was sophisticated in his discussion of emergence. He saw
+that the kind of emergence that leads to water and its unique chemi-
+cal properties, when compared to the properties of its molecular
+components hydrogen and oxygen, has no element of purpose
+                                                                             Chapter 27
+or teleology. The emergence of life (and mind) from physics and
+chemistry, however, clearly introduces a kind of design or purpose.
+Modern biologists call it teleonomy, to distinguish it from a meta-
+physical telos that pre-exists the organism. It comes as an essential
+part of the organism.
+   It seems likely that both Driesch and Broad were trying to grasp
+this teleonomy, which can be simply described as the built-in pur-
+pose of each living cell to replicate its information. “The goal of
+every cell is to become two cells.”
+         302         Great Problems in Philosophy and Physics - Solved?
+
+               Three Kinds of Information Emergence
+                 Note there are three distinct kinds of emergence, at the material,
+               biological, and mental levels:
+                        1. the order out of chaos when the randomly distributed
+                     matter in the early universe first gets organized into informa-
+                     tion structures.
+                        This was not possible before the first atoms formed about
+                     400,000 years after the Big Bang. Information structures like the
+                     stars and galaxies did not exist before about 400 million years.
+                     As we saw, gravitation was the principal driver creating infor-
+                     mation structures.
+                        Nobel prize winner Ilya Prigogine discovered another
+                     ergodic process that he described as the “self-organization” of
+                     “dissipative structures.” He popularized the slogan “order out of
+                     chaos” in an important book.7 Unfortunately, the “self ” in self-
+                     organization led to some unrealizable hopes in cognitive psy-
+                     chology. There is no self, in the sense of a person or agent, in
+                     physical phenomena like convection cells and whirlpools.
+                        Both gravitation and Prigogine’s dissipative systems produce
+                     a purely physical/material kind of order. The resulting structures
+                     contain information, with a “steady state” flow of information-
+                     rich matter and energy through them. But they do not process
+                     or communicate information. They have no purpose, no “telos.”
+Chapter 27
+
+                        Order out of chaos can explain the emergence of downward
+                     causation on their atomic and molecular components. But this
+                     is a gross kind of downward causal control. Explaining life and
+                     mind as “complex adaptive systems” has not been successful.
+                     We need to go beyond “chaos and complexity” theories to teleo-
+                     nomic theories.
+                       2. the order out of order when the material information struc-
+                     tures form self-replicating biological information structures.
+                     Some become information processing systems.
+
+                 7      Order Out of Chaos. Shambhala, 1984.
+                                                      Emergence             303
+
+       In his famous essay, “What Is Life?,” Erwin Schrödinger noted
+    that life “feeds on negative entropy” (or information). He called
+    this “order out of order.”
+       This kind of biological processing of information first emerged
+    about 3.5 billion years ago on the earth. It continues today on
+    multiple emergent biological levels, e.g., single-cells, multi-cel-
+    lular systems, organs, etc., each level creating new information
+    structures and information processing systems not reducible to
+    (caused by) lower levels and exerting downward causation on
+    the lower levels.
+       And this downward causal control is extremely fine. Biologi-
+    cal systems control the motions and arrangements of individual
+    atoms and molecules.
+       Biological systems are cognitive systems, using internal “sub-
+    jective” knowledge to recognize and interact with their “objec-
+    tive” external environment, communicating meaningful mes-
+    sages to their internal components and to other individuals
+    of their species with a language of arbitrary symbols, taking
+    actions to maintain themselves and to expand their populations
+    by learning from experience.8
+       With the emergence of life, “purpose” also entered the uni-
+    verse. It is not the pre-existent “teleology” of many idealistic phi-
+    losophies (the idea of “essence” before “existence”), but it is the
+                                                                              Chapter 27
+    “entelechy” of Aristotle, who saw that living things have within
+    them a purpose, an end, a “telos.” To distinguish this evolved
+    telos in living systems from teleology, modern biologists use the
+    term “teleonomy.”
+      3. the pure information out of order when organisms with
+    minds generate, store (in the brain), replicate, utilize, and then
+    externalize some non-biological information, communicat-
+    ing it to other minds and storing it in the environment. Com-
+    munication can be by hereditary genetic transmission or by an
+    advanced organism capable of learning and then teaching its
+    contemporaries directly by signaling, by speaking, or indirectly
+    by writing and publishing the knowledge for future generations.
+
+8       See appendix G on Biosemiotics.
+         304       Great Problems in Philosophy and Physics - Solved?
+
+                      This kind of information can be highly abstract mind-stuff,
+                   pure Platonic ideas, the stock in trade of philosophers. It is nei-
+                   ther matter nor energy (though embodied in the material brain),
+                   a kind of pure spirit or ghost in the machine. It is a candidate for
+                   the immaterial dualist “substance” of René Descartes, though
+                   it is probably better thought of as a “property dualism,” since
+                   information is an immaterial property of all matter.
+                  The information stored in the mind is not only abstract ideas. It
+               contains a recording of the experiences of the individual. In princi-
+               ple every experience may be recorded, though not all may be repro-
+               ducible/recallable. Information philosophy claims that everything
+               created since the origin of the universe over thirteen billion years
+               ago has involved just two fundamental physical processes that com-
+               bine to form the core of all creative processes at all three levels.9
+                  This core creative process underlies the formation of microscopic
+               objects like atoms and molecules, as well as macroscopic objects like
+               galaxies, stars, and planets. (Note that the formation of self-orga-
+               nizing material systems in conditions far from equilibrium that are
+               the subjects of chaos and complexity theories are this basic, non-
+               teleonomic form of emergence.)
+                  With the emergence of teleonomic (purposive) information in
+               self-replicating systems, the same core process underlies all biologi-
+               cal creation. But now some random changes in information struc-
+Chapter 27
+
+               tures are rejected by natural selection, while others reproduce suc-
+               cessfully.
+                  Finally, with the emergence of self-aware organisms and the cre-
+               ation of extra-biological information stored in the environment, the
+               same information-generating core process underlies communica-
+               tion, consciousness, free will, and creativity.
+                 The physical processes in the core creative process are quantum
+               cooperative phenomena (involving the mysterious “collapse” of the
+               wave function necessary for the appearance of particles - see chapter
+               9       See appendix F for details on the cosmic creation process
+                                                       Emergence           305
+
+20) and thermodynamics, which requires the transfer of entropy
+away from newly emergent information structures to ensure their
+stability.10
+Emergence in the Body
+                                           When a ribosome assembles
+                                        330 amino acids in four sym-
+                                        metric polypeptide chains (glo-
+                                        bins), each globin traps an iron
+                                        atom in a heme group at the
+                                        center to form the hemoglo-
+                                        bin protein. This is downward
+                                        causal control of the amino
+   Figure 27-32. Four protein chains of
+                                        acids, the heme groups, and the
+ hemoglobin.                            iron atoms by the ribosome. The
+ribosome is an example of Erwin Schrödinger’s emergent “order
+out of order,” life “feeding on the negative entropy” of digested food.
+   When 200 million of the 25 trillion red blood cells in the human
+body die each second, in each of the new cells 100 million hemoglo-
+bins cell must be assembled. With the order of a few thousand bytes
+of information in each hemoglobin, this is 10 thousand x 100 mil-
+lion x 200 million = 2 x 1020 bits of information per second, a million
+times more information processing than today’s fastest computer
+CPU. Red blood cells are 25% of body weight. Twenty percent of
+                                                                             Chapter 27
+these are working in the brain to support mental information pro-
+cessing.
+   When a ribosome produces a protein that does not fold properly,
+a chaperone enzyme, shaped like a tiny trash can, opens its lid and
+captures the protein. It then closes the lid and squeezes the protein.
+Upon release, the protein then frequently folds properly. If it does
+not, the chaperone captures it again and disassembles it back to its
+amino acids. The chaperone is an emergent agent that is in no way
+the result of “bottom-up” processes from its amino acid compo-
+nents. It is also an extraordinary example of biological error detec-
+tion and correction.
+  10    See appendix B on entropy and the second law
+         306          Great Problems in Philosophy and Physics - Solved?
+
+               Emergence in the Brain
+                  When a single neuron fires, the active potential rapidly changes
+               the concentration of sodium (Na+) ions inside the cell and potas-
+               sium (K+) ions outside the cell. Within milliseconds, thousands
+               of sodium-potassium ion channels in the thin lipid bilayer of the
+               cell wall must move billions of those ions from one side to the
+               other. They do it with emergent biological machinery that exerts
+               downward causation on the ions, powered by ATP energy carriers
+               (feeding on negative entropy). Random quantum indeterministic
+               motions of the ions put some near the pump opening, where quan-
+               tum collaborative forces capture them in a lock-and-key structure.11
+                 When many motor neurons fire, innnervating excitatory post-
+               synaptic potentials (EPSPs) that travel down through the thalamus
+               and the spinal cord and cause muscles to contract, that is as literal as
+               downward causation gets in the body.
+                 When the emergent mind decides to move the body, that mental
+               causation is realized as downward causation.
+                  When an emergent philosopher rearranges and communicates
+               ideas, verbally in lectures, or as written words in a published paper,
+               or as the bits of information in a computer memory, this is “informa-
+               tion out of order,” ultimately dependent on the body digesting food,
+               producing energy with negative entropy (“order out of order”), but
+               in no way controlled “bottom-up” by the molecules of body or food
+Chapter 27
+
+               material, or by the energy consumed.
+               The Emergence of Immaterial Information Processing
+                 Can information provide the basis for a different kind of mental
+               substance, one that emerged?
+                  Abstract information is neither matter nor energy, yet it needs
+               matter for its concrete embodiment and energy for its communica-
+               tion. Information is immaterial.
+                 It is the modern spirit, the ghost in the machine.
+                  Immaterial information is perhaps as close as a physical or bio-
+               logical scientist can get to the idea of a soul or spirit that departs
+               the body at death. When a living being dies, it is the maintenance of
+               biological and mental information that ceases. The matter remains.
+                 11     See “Ion Pumps in Neurons Select Individual Atoms” on page 183
+                                                            Emergence     307
+
+  Information philosophy proposes a mind-body dualism in which
+thoughts (pure information processing) in our minds have genuine
+causal power over the body. This might be considered a metaphysical
+mind, but it is purely biological and entirely dependent on the brain.
+There are multiple realizations of physical/material “hardware” that
+can implement the “software” of our ideas.
+  For example, when one person teaches another some new tech-
+nique, or transmits some purely intellectual knowledge, the other
+person is another physical realization, different hardware now run-
+ning the same software.
+  To make this case, we need to establish the following:
+  • that the information in a mind can be regarded as an immaterial
+substance.12
+  • that the information in a mind, while dependent on the body,
+has genuine causal (adequately determined) power over the body.13
+   • that the information in a mind has not been pre-determined
+by the sum of genetic inputs and life experiences, but has at least in
+part been created by the agent, with inputs from some indetermin-
+istic processes.14
+The Emergence of Determinism
+   When small numbers of atoms and molecules interact, their
+motions and behaviors are indeterministic, governed by the rules
+of quantum mechanics. But when large numbers of particles gather            Chapter 27
+into large material objects, they are statistically determined. This is
+called the “quantum to classical transition.”
+   Werner Heisenberg’s principle of indeterminacy (mistakenly
+called “uncertainty,” as if the problem is epistemic/subjective and
+not ontological/objective) gives us the minimum error in simulta-
+neous measurements of position x and momentum p, for any object,
+large or small,
+  Δp Δx ≥ h,
+  where h is Planck’s constant of action.
+
+  12   See appendix A on information
+  13   See chapter 16 on mental causation
+  14   See chapter 4 on the two-stage model of free will.
+         308       Great Problems in Philosophy and Physics - Solved?
+
+                  To see how “adequate” determinism emerges for large numbers
+               of particles, note that the momentum p = mv (the product of mass
+               and velocity), so we can write the indeterminacy principle in terms
+               of velocities and positions as
+                 Δv Δx ≥ h / m.
+                  When large numbers of microscopic particles get together in
+               massive aggregates, the mass increases and h / m approaches zero,
+               the indeterminacy of the individual particles gets averaged over and
+               macroscopic “adequately” deterministic laws “emerge.” The posi-
+               tions and velocities of large massive objects can therefore be “deter-
+               mined” to a high degree of accuracy, in fact beyond our ability to
+               measure.
+                  Determinism is thus an emergent property for an object made up
+               of large numbers of material particles,.
+                  The “laws of nature,” such as Newton’s laws of motion, are all sta-
+               tistical in nature. They also “emerge” when large numbers of atoms
+               or molecules get together. For large enough numbers, the probabilis-
+               tic laws of nature approach practical certainty. But the fundamental
+               indeterminism of component atoms never completely disappears.
+               There Was a Time with No Determinism
+                  So determinism “emerges” today from microscopic quantum sys-
+               tems as they become a part of larger and more classical systems.
+Chapter 27
+
+               But we can say that determinism also emerged in time. In the earli-
+               est years of the universe, large massive objects did not yet exist. All
+               matter was microscopic and quantal.
+                  We can now identify that time in the evolution of the universe
+               when determinism first could have emerged. Before the so-called
+               “recombination era” at about 380,000 years, when the universe
+               cooled to a few thousand degrees Kelvin, a temperature at which
+               atoms could form out of sub-atomic particles (protons, helium
+               nuclei, and electrons), there were no “macroscopic objects” to
+               exhibit deterministic behavior.
+                                                                  Emergence            309
+
+   The early universe was filled with positive ions and negatively
+charge electrons. The electrons scattered light photons, preventing
+them from traveling very far. The universe was effectively opaque
+past very short distances. When the temperature fell to about 3000
+degrees K, the charged particles combined to form neutral atoms
+(hydrogen and helium). With the scattering electrons now bound
+into atoms, the photons suddenly could “see” (travel) to enormous
+distances. This produced the transparent universe that we take for
+granted today (on cloudless nights).
+   Those 3000 degrees K photons have been red-shifted as a result
+of the universe expansion and now appear to us as the 2.7 degree
+K “cosmic microwave background” radiation left over from the big
+bang. We are looking at a moment in time when “classical” objects
+obeying apparently deterministic causal laws did not yet exist.
+  After a few hundred million years, large material objects
+could begin to form. Only then could anything “classical”” or
+“deterministic” come into existence, could “emerge.”
+Emergence Denied
+   Some prominent philosophers of science, logical empiricists who
+were committed to the ability of physical science to explain every-
+thing as “unified science,” were confident that “emergence” would
+go the way of “holism” and “vitalism.”
+  For example, the former member of the Vienna Circle and lead-
+ing reductionist Herbert Feigl wrote in 1958:                                            Chapter 27
+     Inseparably connected with holism and the Gestalt philosophy is the
+     doctrine of emergence. This is indeed my own, admittedly risky and
+     speculative, guess; that is to say, I believe that once quantum dynamics
+     is able to explain the facts and regularities of organic chemistry (i.e. of
+     non-living, but complex compounds) it will in principle also be capable
+     of explaining the facts and regularities of organic life.15
+
+15       “The ‘Mental’ and the ‘Physical’”, in Concepts, Theories, and the Mind-Body
+Problem, Minnesota Studies in the Philosophy of Science, vol.2, p. 414
+

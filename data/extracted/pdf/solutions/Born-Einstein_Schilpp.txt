@@ -1,0 +1,593 @@
+XfW
+        EIN STEIN ’S STATISTICAL THEORIES
+
+      N E of the most remarkable volumes in the whole of scien­
+       tific literature seems to me Vol. 17 (4th series) of A nnalen
+der        Physik, 1905. It contains three papers by Einstein, each
+dealing with a different subject, and each to-day acknowledged
+to be a masterpiece, the source of a new branch of physics.
+These three subjects, in order of pages, are: theory of photons,
+Brownian motion, and relativity.
+   Relativity is the last one, and this shows that Einstein’s
+mind at that time was not completely absorbed by his ideas on
+space and time, simultaneity and electro-dynamics. In my
+opinion he would be one of the greatest theoretical physicists
+of all times even if he had not written a single line on rela­
+tivity—an assumption for which I have to apologise, as it is
+rather absurd. For Einstein’s conception of the physical world
+cannot be divided into watertight compartments, and it is im­
+possible to imagine that he should have by-passed one of the
+fundamental problems of the time.
+   H ere I propose to discuss Einstein’s contributions to statis­
+tical methods in physics. H is publications on this subject can
+be divided into two groups: an early set of papers deals with
+classical statistical mechanics, whereas the rest is connected with
+quantum theory. Both groups are intimately connected with
+Einstein’s philosophy of science. H e has seen more clearly than
+anyone before him the statistical background of the laws of
+physics, and he was a pioneer in the struggle for conquering
+the wilderness of quantum phenomena. Yet later, when out of
+his own work a synthesis of statistical and quantum principles
+emerged which seemed to be acceptable to almost all physicists,
+he kept himself aloof and sceptical. Many of us regard this as
+a tragedy—for him, as he gropes his way in loneliness, and for
+                                    163
+164                                MAX BORN
+us who miss our leader and standard-bearer. I shall not try to
+suggest a resolution of this discord. We have to accept the fact
+that even in physics fundamental convictions are prior to rea­
+soning, as in all other human activities. It is my task to give
+an account of Einstein’s work and to discuss it from my own
+philosophical standpoint.
+    Einstein’s first paper of 1902, “ Kinetische Theorie des
+Warmegleichgewichtes und des zweiten Hauptsatzes der
+Thermodynamik”1 is a remarkable example of the fact that
+when the time is ripe important ideas are developed almost
+simultaneously by different men at distant places. Einstein says
+in his introduction that nobody has yet succeeded in deriving the
+conditions of thermal equilibrium and of the second law of
+thermodynamics from probability considerations, although
+Maxwell and Boltzmann came near to it. W illard Gibbs is
+not mentioned. In fact, Einstein’s paper is a re-discovery of
+all essential features of statistical mechanics and obviously
+written in total ignorance of the fact that the whole matter
+had been thoroughly treated by Gibbs a year before (1901).
+The similarity is quite amazing. Like Gibbs, Einstein investi­
+gates the statistical behaviour of a virtual assembly of equal
+mechanical systems of a very general type. A state of the single
+ system is described by a set of generalised co-ordinates and
+velocities, which can be represented as a point in a 2«-dimen-
+sional “ phase-space;” the energy is given as function of these
+ variables. The only consequence of the dynamical laws used
+ is the theorem of Liouville according to which any domain in
+ the 2«-dimensional phase-space of all co-ordinates and momenta
+ preserves its volume in time. This law makes it possible to de­
+ fine regions of equal weight and to apply the laws of prob­
+ ability. In fact, Einstein’s method is essentially identical with
+ Gibb’s theory of canonical assemblies. In a second paper, of
+ the following year, entitled “ Eine Theorie der Grundlagen der
+ Thermodynamik,”2 Einstein builds the theory on another basis
+ not used by Gibbs, namely on the consideration of a single sys­
+ tem in course of time (later called “Zeit-Gesammtheit” time
+  1 Annalen der Physik (4 ) , 9, p. 477, (1 9 0 2 ).
+  * Annalen der Physik (4 ) ,       p. 170, (1 9 0 3 ).
+           EINSTEIN’S STATISTICAL THEORIES                            165
+
+assembly), and proves that this is equivalent to a certain virtual
+assembly of many systems, Gibb’s micro-canonical assembly.
+Finally, he shows that the canonical and micro-canonical distri­
+bution lead to the same physical consequences.
+    Einstein’s approach to the subject seems to me slightly less
+abstract than that of Gibbs. This is also confirmed by the fact
+that Gibbs made no striking application of his new method,
+while Einstein at once proceeded to apply his theorems to a case
+of utmost importance, namely to systems of a size suited for
+demonstrating the reality of molecules and the correctness of
+the kinetic theory of matter.
+    This was the theory of Brownian movement. Einstein’s papers
+on this subject are now easily accessible in a little volume edited
+and supplied with notes by R. Fiirth, and translated into Eng­
+lish by A. D. Cowper.3 In the first paper (1905) he sets out to
+show “that, according to the molecular-kinetic theory of heat,
+bodies of microscopically visible size suspended in a liquid will
+perform movements of such magnitude that they can be easily
+observed in a microscope, on account of the molecular motion
+of heat,” and he adds that these movements are possibly identi­
+cal with the “ Brownian motion” though his information about
+the latter is too vague to form a definite judgment.
+    The fundamental step taken by Einstein was the idea of raising
+the kinetic theory of matter from a possible, plausible, useful
+hypothesis to a matter of observation, by pointing out cases
+where the molecular motion and its statistical character can be
+made visible. It was the first example of a phenomenon of
+thermal fluctuations, and his method is the classical paradigma^
+for the treatment of all of them. H e regards the movement ^
+of the suspended particles as a process of diffusion under the
+action of osmotic pressure and other forces, among which
+ friction due to the viscosity of the liquid is the most important
+one. The logical clue to the understanding of the phenomenon
+ consists in the statement that the actual velocity of the suspended
+ particle, produced by the impacts of the molecules of the liquid
+ on it, is unobservable; the visible effect in a finite interval of
+  'Investigations on the Theory of the Brownian M ovem ent; Methuen & Co.,
+London, (1926).
+166                      MAX BORN
+time t consists of irregular displacements, the probability of
+which satisfies a differential equation of the same type as the
+equation of diffusion. The diffusion coefficient is nothing but
+the mean square of the displacement divided by 2T . In this
+way Einstein obtained his celebrated law expressing the mean
+square displacement for t in terms of measurable quantities
+(temperature, radius of the particle, viscosity of the liquid)
+and of the number of molecules in a gramme-molecule (Avo-
+gadro’s number TV). By its simplicity and clarity this paper is
+a classic of our science.
+   In the second paper (1906) Einstein refers to the work of
+Siedentopf (Jena) and Gouy (Lyons) who convinced them­
+selves by observations that the Brownian motion was in fact
+caused by the thermal agitation of the molecules of the liquid,
+and from this moment on he takes it for granted that the
+“irregular motion of suspended particles” predicted by him is
+identical with the Brownian motion. This and the following
+publications are devoted to the working out of details (e.g.,
+rotatory Brownian motion) and presenting the theory in other
+forms; but they contain nothing essentially new.
+   I     think that these investigations of Einstein have done more
+than any other work to convince physicists of the reality of
+atoms and molecules, of the kinetic theory of heat, and of the
+fundamental part of probability in the natural laws. Reading
+these papers one is inclined to believe that at that time the
+statistical aspect of physics was preponderant in Einstein’s
+mind; yet at the same time he worked on relativity where
+rigorous causality reigns. His conviction seems always to have
+been, and still is to-day, that the ultimate laws of nature are
+causal and deterministic, that probability is used to cover our
+ignorance if we have to do with numerous particles, and that
+only the vastness of this ignorance pushes statistics into the
+ fore-front.
+    Most physicists do not share this view to-day, and the reason
+ for this is the development of quantum theory. Einstein’s con­
+tribution to this development is great. His first paper of 1905,
+ mentioned already, is usually quoted for the interpretation
+ of the photo-electric effect and similar phenomena (Stokes law
+                           >
+
+
+/       (        E IN S T E IN ’S S T A T IS T IC A L T H E O R IE S   167
+
+    of photo-luminescence, photo-ionisation) in terms of light-
+    quanta (light-darts, photons). As a matter of fact, the main             /
+    argument of Einstein is again of a statistical nature, and the
+    phenomena just mentioned are used in the end for confirmation.
+    This statistical reasoning is very characteristic of Einstein, and
+    produces the impression that for him the laws of probability
+    are central and by far more important than any other law. H e
+    starts with the fundamental difference between an ideal gas and
+    a cavity filled with radiation: the gas consists of a finite number
+    of particles, while radiation is described by a set of functions
+    in space, hence by an infinite number of variables. This is the
+    root of the difficulty of explaining the law of black body radia­
+    tion; the monochromatic density of radiation turns out to be
+    proportional to the absolute temperature (later known as the
+    law of Rayleigh-Jeans) with a factor independent of frequency,
+    and therefore the total density becomes infinite. In order to
+    avoid this, Planck (1900) had introduced the hypothesis that
+    radiation consists of quanta of finite size. Einstein, however,
+    does not use Planck’s radiation law, but the simpler law of Wien,
+    which is the limiting case for low radiation density, expecting
+    rightly that here the corpuscular character of the radiation will
+    be more evident. H e shows how one can obtain the entropy S
+    of black body radiation from a given radiation law (mono­
+    chromatic density as function of frequency) and applies then
+    Boltzmann’s fundamental relation between entropy S and
+    thermodynamic probability W
+                               S = k log W
+    where k is the gas constant per molecule, for determining W .
+    This formula was certainly meant by Boltzmann to express
+    the physical quantity S in terms of the combinatory quantity
+    W , obtained by counting all possible configurations of the
+    atomistic elements of the statistical ensemble. Einstein inverts
+    this process: he starts from the known function S in order to
+    obtain an expression for the probability which can be used as
+    a clue to the interpretation of the statistical elements. (The
+    same trick has been applied by him later in his work on fluctua­
+    tions;4 although this is of considerable practical importance,
+      * Annalen der Physik ( 4 ) , ig , p. 373, ( 1 9 0 6 ) .
+i68                          MAX BORN
+I shall only mention it, since it introduces no new fundamental
+concept apart from that “ inversion.” )
+   Substituting the entropy derived from Wien’s law into Boltz­
+mann’s formula, Einstein obtains for the probability of finding
+the total energy E by chance compressed in a fraction aV of the
+total volume V                                   ..    . ,
+                              W — aE/by      <C4 tl     dh '
+that means, the radiation behaves as if it consisted of independ­
+ent quanta of energy of size and number n = E /h v . It is ob­
+vious from the text of the paper that this result had an over­
+whelming power of conviction for Einstein, and that it led
+him to search for confirmation of a more direct kind. This he
+found in the physical phenomena mentioned above (e.g., photo­
+electric effect) whose common feature is the exchange of energy
+between an electron and light. The impression produced on
+the experimentalists by these discoveries was very great. For
+the facts were known to many, but not correlated. At that time
+Einstein’s gift for intuiting such correlations was almost uncanny.
+It was based on a thorough knowledge of experimental facts
+combined with a profound understanding of the present state
+of theory, which enabled him to see at once where something
+strange was happening. H is work at that period was essentially
+empirical in method, though directed to building up a con­
+sistent theory—in contrast to his later work when he was more
+and more led by philosophical and mathematical ideas.
+   A second example of the application of this method is the
+work on specific heat.5 It started again with a theoretical con­
+sideration of that type which provided the strongest evidence
+in Einstein’s mind, namely on statistics. H e remarks that
+Planck’s radiation formula can be understood by giving up the
+continuous distribution of statistical weight in the phase-space
+which is a consequence of Liouville’s theorem of dynamics; in­
+stead, for vibrating systems of the kind used as absorbers and
+emitters in the theory of radiation most states have a vanish­
+ing statistical weight and only a selected number (whose
+energies are multiples of a quantum) have finite weights.
+  ‘ “Die Planck’sche Theorie der Strahlung und die Theorie der specifischen
+W arme,” Annalen der Phystk (4 ) , 22, p. 180, (1 907).
+           EINSTEIN’S STATISTICAL THEORIES                      169
+    Now if this is so, the quantum is not a feature of radiation
+but of general physical statistics, and should therefore appear
+in other phenomena where vibrators are involved. This argu­
+ment was obviously the moving force in Einstein’s mind, and
+it became fertile by his knowledge of facts and his unfailing
+judgment of their bearing on the problem. I wonder whether
+he knew that there were solid elements for which the specific
+heat per mole was lower than its normal value 5.94 calories,
+given by the law of Dulong-Petit, or whether he first had the
+theory and then scanned the tables to find examples. The law
+of Dulong-Petit is a direct consequence of the law of equiparti-
+tion of classical statistical mechanics, which states that each
+co-ordinate or momentum contributing a quadratic term to the
+energy should carry the same average energy, namely Yi R T
+per mole where R is the gas constant} as R is a little less than
+2 calories per degree and an oscillator has 3 co-ordinates and
+3 momenta, the energy of one mole of a solid element per
+degree of temperature should be 6 X Y zR T , or 5.94 calories.
+If there are substances for which the experimental value is
+essentially lower, as it actually is for carbon (diamond), boron,
+silicon, one has a contradiction between facts and classical theory.
+Another such contradiction is provided by some substances with
+poly-atomic molecules. Drude had proved by optical experi­
+ments that the atoms in these molecules were performing oscil­
+lations about each other; hence the number of vibrating units
+per molecule should be higher than 6 and therefore the specific
+heat higher than the Dulong-Petit value—but that is not always
+the case. Moreover Einstein could not help wondering about
+the contribution of the electrons to the specific heat. At that time
+vibrating electrons in the atom were assumed for explaining the
+ultra-violet absorption; they did apparently not contribute to
+the specific heat, in contradiction to the equipartition law.
+   All these difficulties were at once swept away by Einstein’s
+suggestion that the atomic oscillators do not follow the equi­
+partition law, but the same law which leads to Planck’s radia­
+tion formula. Then the mean energy would not be proportional
+to the absolute temperature but decrease more quickly with
+falling temperature in a way which still depends on the fre-
+    170                       MAX BORN
+    quencies of the oscillators. H igh frequency oscillators like the
+    electrons would at ordinary temperature contribute nothing
+    to the specific heat, atoms only if they were not too light and
+    not too strongly bound. Einstein confirmed that these conditions
+    were satisfied for the cases of poly-atomic molecules for which
+    Drude had estimated the frequencies, and he showed that the
+    measurements of the specific heat of diamond agreed fairly
+    well with his calculation.
+        But this is not the place to enter into a discussion of the
+    physical details of Einstein’s discovery. The consequences with
+    regard to the principles of scientific knowledge were far reach­
+    ing. It was now proved that the quantum effects were not a
+    specific property of radiation but a general feature of physical
+    systems. The old rule “natura non facit saltus” was disproved:
+    there are fundamental discontinuities, quanta of energy, not
+    only in radiation but in ordinary matter.
+        In Einstein’s model of a molecule or a solid these quanta
+    are still closely connected with the motion of single vibrating
+    particles. But soon it became clear that a considerable generalisa­
+    tion was necessary. The atoms in molecules and crystals are not
+$
+    independent but coupled by strong forces. Therefore the mo­
+    tion of an individual particle is not that of a single harmonic
+    oscillator, but the superposition of many harmonic vibrations.
+    The carrier of a simple harmonic motion is nothing material at
+    a ll; it is the abstract “normal mode,” well known from ordi­
+    nary mechanics. For crystals in particular each normal mode is
+    a standing wave. The introduction of this idea opened the way
+    to a quantitative theory of thermodynamics of molecules and
+    crystals and demonstrated the abstract character of the new
+    quantum physics which began to emerge from this work. It
+    became clear that the laws of micro-physics differed funda­
+    mentally from those of matter in bulk. Nobody has done more
+    to elucidate this than Einstein. I cannot report all his contribu­
+    tions, but shall confine myself to two outstanding investigations
+    which paved the way for the new micro-mechanics which
+    physics at large has accepted to-day—while Einstein himself
+    stands aloof, critical, sceptical, and hoping that this episode may
+    pass by and physics return to classical principles.
+           EINSTEIN’S STATISTICAL THEORIES                           171
+    The first of these two investigations has again to do with
+the law of radiation and statistics.6There are two ways of tackling
+problems of statistical equilibrium. The first is a direct one,
+which one may call the combinatory method: After having
+established the weights of elementary cases one calculates the
+number of combinations of these elements which correspond
+to an observable state; this number is the statistical probability
+W , from which all physical properties can be obtained (e.g.
+the entropy by Boltzmann’s formula). The second method
+consists in determining the rates of all competing elementary
+processes, which lead to the equilibrium in question. This is, of
+course, much more difficult; for it demands not only the count­
+ing of equally probable cases but a real knowledge of the
+mechanism involved. But, on the other hand, it carries much
+further, providing not only the conditions of equilibrium but
+also of the time-rate of processes starting from non-equilibrium
+configurations. A classical example of this second method is
+Boltzmann’s and Maxwell’s formulation of the kinetic theory
+of gases; here the elementary mechanism is given by binary
+encounters of molecules, the rate of which is proportional to
+the number-density of both partners. From the “ collision equa­
+tion” the distribution function of the molecules can be deter­
+mined not only in statistical equilibrium, but also for the case
+of motion in bulk, flow of heat, diffusion etc. Another example
+is the law of mass-action in chemistry, established by Guldberg
+and Waage; here again the elementary mechanism is provided                 a/
+by multiple collisions of groups of molecules which combine,
+split, or exchange atoms at a rate proportional to the number-
+density of the partners. A special case of these elementary
+processes is the monatomic reaction, where the molecules of one
+type spontaneously explode with a rate proportional to their
+number-density. This case has a tremendous importance in
+nuclear physics: it is the law of radio-active decay. Whereas
+in the few examples of ordinary chemistry, where monatomic
+reaction has been observed, a dependence of reaction velocity
+on the physical conditions (e.g. temperature) could be as­
+sumed or even observed, this was not the case for radio-activity:
+ *“Zur Quantentheorie der Strahlung,” Phys. Z. 18, p. 121, (1917).
+             7)ij{
+
+
+                          MAX BORN
+The decay constant seemed to be an invariable property of the
+nucleus, unchangeable by any external influences. Each in­
+dividual nucleus explodes at an unpredictable moment} yet if
+a great number of nuclei are observed, the average rate of dis­
+integration is proportional to the total number present. It looks
+as if the law of causality is put out of action for these processes.
+    Now what Einstein did was to show that Planck’s law of radia­
+tion can just be reduced to processes of a similar type, of a more
+or less non-causal character. Consider two stationary states of
+an atom, say the lowest state i and an excited state 2. Einstein
+assumes that if an atom is found to be in the state 2 it has a
+certain probability of returning to the ground state I, emitting
+a photon of a frequency which, according to the quantum law,
+corresponds to the energy difference between the two states}
+i.e. in a big assembly of such atoms the number of atoms in state
+2 returning to the ground state I per unit time is proportional
+to their initial number— exactly as for radio-active disintegra­
+tion. The radiation, on the other hand, produces a certain prob­
+ability for the reverse process I -» 2 which represents absorp­
+tion of a photon of frequency v12 and is proportional to the
+radiation density for the frequency.
+    Now these two processes alone balancing one another would
+not lead to Planck’s formula} Einstein is compelled to introduce
+a third one, namely an influence of the radiation on the emis­
+sion process 2 -» I, “induced emission,” which again has a prob­
+ability proportional to the radiation density for vi2.
+    This extremely simple argument together with the most
+elementary principle of Boltzmann’s statistics leads at once to
+Planck’s formula without any specification of the magnitude
+of the transition probabilities. Einstein has connected it with
+a consideration of the transfer of momentum between atom and
+radiation, showing that the mechanism proposed by him is not
+consistent with the classical idea of spherical waves but only with
+a dart-like behaviour of the quanta. H ere we are not concerned
+with this side of Einstein’s work, but with its bearing on his
+attitude to the fundamental question of causal and statistical
+laws in physics. From this point of view this paper is of particu­
+lar interest. For it meant a decisive step in the direction of non-
+               EINSTEIN’S STATISTICAL THEORIES                     173
+   causal, indeterministic reasoning. O f course, I am sure that
+   Einstein himself was—and is still— convinced that there are
+   structural properties in the excited atom which determine the
+   exact moment of emission, and that probability is called in
+ J only because of our incomplete knowledge of the pre-history
+ / of the atom. Yet the fact remains that he has initiated the
+ I spreading of indeterministic statistical reasoning from its
+   original source, radio-activity, into other domains of physics.
+                                                                         J
+      Still another feature of Einstein’s work must be mentioned
+   which was also of considerable assistance to the formulation
+   of indeterministic physics in quantum mechanics. It is the fact
+   that it follows from the validity of Planck’s law of radiation
+   that the probabilities of absorption (1 -> 2) and induced emis­
+   sion (2     1) are equal. This was the first indication that inter­
+   action of atomic systems always involves two states in a sym­
+   metrical way. In classical mechanics an external agent like
+   radiation acts on one definite state, and the result of the action
+   can be calculated from the properties of this state and the ex­
+   ternal agent. In quantum mechanics each process is a transition
+   between two states which enter symmetrically into the laws of
+   interaction with an external agent. This symmetrical property
+   was one of the deciding clues which led to the formulation of
+                                                                         i
+   matrix mechanics, the earliest form of modern quantum me­
+   chanics. The first indication of this symmetry was provided by
+I Einstein’s discovery of the equality of up- and down-ward
+I transition probabilities.
+      The last of Einstein’s investigations which I wish to discuss
+   in this report is his work on the quantum theory of monatomic
+   ideal gases.7 In this case the original idea was not his but came
+   from an Indian physicist, S. N. Bose; his paper appeared in a
+   translation by Einstein8 himself who added a remark that he re­
+   garded this work as an important progress. The essential point
+   in Bose’s procedure is that he treats photons like particles of
+   a gas with the method of statistical mechanics but with the dif­
+   ference that these particles are not distinguishable. H e does not
+   distribute individual particles over a set of states, but counts
+    1 Berl. Ber. 1924, p. 261, 1925, p. 318.
+    # S. N. Bose, Zeitschrijt fu r Physik, 26, 178, (1 924).
+      *74                        MAX BORN
+      the number of states which contain a given number of particles.
+      This combinatory process together with the physical conditions
+      (given number of states and total energy) leads at once to
+    . Planck’s radiation law. Einstein added to this idea the sug­
+      gestion that the same process ought to be applied to material
+      atoms in order to obtain the quantum theory of a monatomic
+      gas. The deviation from the ordinary gas laws derived from
+s'    this theory is called “ gas degeneracy.” Einstein’s papers ap-
+    v peared just a year before the discovery of quantum mechanics;
+      one of them contains moreover (p. 9 of the second paper) a
+      reference to de Broglie’s celebrated thesis, and the remark that
+      a scalar wave field can be associated with a gas. These papers
+      of de Broglie and Einstein stimulated Schroedinger to develop
+      his wave mechanics, as he himself confessed at the end of his
+      famous paper.9 It was the same remark of Einstein’s which a
+      year or two later formed the link between de Broglie’s theory
+      and the experimental discovery of electron diffraction; for,
+      when Davisson sent me his results on the strange maxima found
+      in the reflexion of electrons by crystals, I remembered Ein­
+      stein’s hint and directed Elsasser to investigate whether those
+      maxima could be interpreted as interference fringes of de
+       Broglie waves. Einstein is therefore clearly involved in the
+      foundation of wave mechanics, and no alibi can disprove it.
+          I cannot see how the Bose-Einstein counting of equally prob­
+       able cases can be justified without the conceptions of quantum
+       mechanics. There a state of equal particles is described not by
+      noting their individual positions and momenta, but by a sym­
+       metric wave function containing the co-ordinates as arguments;
+P '— this represents clearly only one state and has to be counted once.
+       A group of equal particles, even if they are perfectly alike, can
+      still be distributed between two boxes in many ways—you may
+       not be able to distinguish them individually but that does not
+       affect their being individuals. Although arguments of this kind
+      are more metaphysical than physical, the use of a symmetric
+       wave function as representation of a state seems to me prefer­
+       able. This way of thinking has morover led to the other case of
+         ’ “Quantisierung als Eigenwertproblem,” Annalcn der Physik ( 4 ) , 70, p. 361,
+       <19*6)5 «. p. 373.
+              EINSTEIN’S STATISTICAL THEORIES                        175
+gas degeneracy, discovered by Fermi and Dirac, where the
+wave function is skew, and to a host of physical consequences
+confirmed by experiment.
+   The Bose-Einstein statistics was, to my knowledge, Ein­
+stein’s last decisive positive contribution to physical statistics.
+H is following work in this line, though of great importance
+by stimulating thought and discussion, was essentially critical.
+H e refused to acknowledge the claim of quantum mechanics
+to have reconciled the particle and wave aspects of radiation.
+This claim is based on a complete re-orientation of physical
+principles: causal laws are replaced by statistical ones, deter­
+minism by indeterminism. I have tried to show that Einstein
+himself has paved the way for this attitude. Yet some principle
+of his philosophy forbids him to follow it to the end. W hat is
+this principle?
+   Einstein’s philosophy is not a system which you can read in
+a book 5 you have to take the trouble to abstract it from his
+papers on physics and from a few more general articles and
+pamphlets. I have found no definite statement of his about
+the question “W hat is Probability?” ; nor has he taken part in
+the discussions going on about von Mises’ definition and other
+such endeavours. I suppose he would have dismissed them as
+metaphysical speculation, or even joked about them. From the
+beginning he has used probability as a tool for dealing with
+nature just like any scientific device. H e has certainly very
+strong convictions about the value of these tools. His attitude
+toward philosophy and epistemology is well described in his
+obituary article on Ernst Mach:10
+Nobody who devotes himself to science from other reasons than super­
+ficial ones, like ambition, money making, or the pleasure of brain-sport,
+can neglect the questions, what are the aims of science, how far are its
+general results true, what is essential and what based on accidental
+features of the development?
+Later in the same article he formulates his empirical creed
+in these words:
+Concepts which have been proved to be useful in ordering things easily
+acquire such an authority over us that we forget their human origin
+  10Phys. Zeitschr. 17, p. 101, (1 9 1 6 ).
+176                          MAX BORN
+and accept them as invariable. Then they become “necessities of
+thought,” “given a ■priori,” etc. T he path of scientific progress is then,
+by such errors, barred for a long time. It is therefore no useless game
+if we are practising to analyse current notions and to point out on what
+conditions their justification and usefulness depends, how they have
+grown especially from the data of experience. In this way their exag­
+gerated authority is broken. They are removed, if they cannot properly
+legitimate themselves; corrected, if their correspondence to the given
+things was too negligently established; replaced by others, if a new system
+can be developed that we prefer for good reasons.
+
+That is the core of the young Einstein, thirty years ago. I am sure
+the principles of probability were then for him of the same kind
+as all other concepts used for describing nature, so impressively
+formulated in the lines above. The Einstein of to-day is
+changed. I translate here a passage of a letter from him which
+I received about four years ago (7th November, 1944): “ In
+our scientific expectation we have grown antipodes. You be­
+lieve in God playing dice and I in perfect laws in the world
+of things existing as real objects, which I try to grasp in a
+wildly speculative way.” These speculations distinguish in­
+deed his present work from his earlier writing. But if any man
+has the right to speculate it is he whose fundamental results
+stand like rock. W hat he is aiming at is a general field-theory
+which preserves the rigid causality of classical physics and re­
+stricts probability to masking our ignorance of the initial condi­
+tions or, if you prefer, of the pre-history, of all details of the
+system considered. This is not the place to argue about the
+possibility of achieving this. Yet I wish to make one remark,
+using Einstein’s own picturesque language: If God has made
+the world a perfect mechanism, he has at least conceded so much
+to our imperfect intellect that, in order to predict little parts
+of it, we need not solve innumerable differential equations but
+can use dice with fair success. That this is so I have learned,
+with many of my contemporaries, from Einstein himself. I
+think, this situation has not changed much by the introduction
+of quantum statistics 5 it is still we mortals who are playing
+dice for our little purposes of prognosis— God’s actions are as
+mysterious in classical Brownian motion as in radio-activity and
+quantum radiation, or in life at large.
+               E IN S T E IN ’S S T A T IS T IC A L T H E O R IE S        177
+
+   Einstein’s dislike of modern physics has not only been ex­
+pressed in general terms, which can be answered in a similarly
+general and vague way, but also in very substantial papers in
+which he has formulated objections against definite statements
+of wave mechanics. The best known paper of this kind is one
+published in collaboration with Podolsky and Rosen.11 That
+it goes very deep into the logical foundations of quantum me­
+chanics is apparent from the reactions it has evoked. Niels Bohr
+has answered in detail; Schroedinger has published his own
+sceptical views on the interpretation of quantum mechanics;
+Reichenbach deals with this problem in the last chapter of his
+excellent book, Philosophic Foundations of Quantum Mechan­
+ics, and shows that a complete treatment of the difficulties
+pointed out by Einstein, Podolsky, and Rosen needs an overhaul
+of logic itself. H e introduces a three-valued logic, in which
+apart from the truth-values “ true” and “ false,” there is an
+intermediate one, called “indeterminate,” or, in other words, he
+rejects the old principle of “tertium non d a t u r as has been
+proposed long before, from purely mathematical reasons, by
+Brouwer and other mathematicians. I am not a logician, and
+in such disputes always trust that expert who last talked to me.
+M y attitude to statistics in quantum mechanics is hardly affected
+by formal logics, and' I venture to say that the same holds for
+Einstein. That his opinion in this matter differs from mine is
+regrettable, but it is no object of logical dispute between us.
+It is based on different experience in our work and life. But
+in spite of this, he remains my beloved master.
+                                                             M ax B o rn
+  D epa r t m e n t of M a t h e m a t ic a l P hysics
+  U n iversity of E dinbu rg h
+  E d in bu rg h , Scotland
+
+   11 A. Einstein, B. Podolsky, N. Rosen: “ Can Quantum Mechanical Description
+of Physical Reality be Considered Complete?” Phys. Rev. 47, p. 777, (1 935).
+
+                                            V
+

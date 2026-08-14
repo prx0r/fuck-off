@@ -1,0 +1,214 @@
+# 156      Free Will: The Scandal in Philosophy
+
+**source:** pdf · **section:** books
+**file:** Compatibilism
+---
+
+
+                                                    m inis       m
+                                           De t e r
+
+                                                            t i b i l i s m
+                                                  Co    mpa                 ism
+                                                                   rmin
+                         ter  minism               Sof   t D e t e
+                  De
+             Hard
+Chapter 11
+
+                                                                          atibi   lism
+                                                                    o m p
+                                                            S oft C
+                                  ilism
+                        p a t i b
+                                                i l i s m
+                                          patib
+                 co   m
+Hard I
+       n                                                                                 In
+                        Com                      Semic
+                                                       om
+                                                         tibilismpa
+
+          n       ism
+  Illusio
+                                                                 p atib ilism
+                                                        In c o m
+                                                    w
+                        sm                  Narro
+   Impo         ssibili
+                                                                 p atib   ilism
+                                                      t In c o m
+                                                 Sof                                      y
+                         del                                                      Leewa
+                   an Mo
+             Valeri                                       p a t i b ilism          (Altern
+                                                                                           a
+                                          r c e I ncom nce)
+                                      Sou          l S e que
+                                        (Actu   a
+                                                                             i m i t e d
+                                                      e lw             ith L
+                                                  o d
+                                - S t       age M
+                           Tw o                       This chapter on the web
+                      informationphilosopher.com/freedom/compatibilism.html
+                             m inis         m
+                    de t e r                                   Compatibilism             157
+              In
+              Compatibilismrianism
+                                            a
+                                Libert
+                    Compatibilists argue that determinism is compatible with
+               human freedom, and that indeterminism is not compatible or at
+               best incoherent. They feel (correctly) that there must be aC
+                                                                                t -    a  usal
+                                                                                     deter-
+               ministic or causal connection between our willA           geour
+                                                                        and   n actions.
+               This allows us to take responsibility
+                                             a u s   l
+                                                   afor      for our actions, including
+                              vent-
+               credit for the good       C
+                                       and   blame      the bad.
+                    As longE as the agent is free from external coercion, they have
+               freedom of action. This is the compatibilist freedom we have,
+                                                                                      - C   a u sal
+               according to Thomas Hobbes and David Hume. It isN                on“nega-
+
+                                                                                             Chapter 11
+                                                                               the
+               tive freedom” of Isaiah Berlin.
+                             m                     SFA as they have been known
+        a t i b i lis
+                    Compatibilists (or “soft determinists”
+
+    omp                                                                            y -
+               since William James) identify free will with freedom oflitaction
+                                                                           s  a
+nc             the lack of external constraints. We are free,
+                                                            S  o ft C
+                                                                   and a
+                                                                       weu have  free
+               if we are not in physical chains. But freedom of the will is different
+                                                                                       will,
+
+               from freedomtib      lism
+                                 ofiaction.
+                 n  c o m p a
+                                                                                     a r i a n ism
+               I                                                                   t
+                                                                            ibeofr events
+      Broad Many compatibilists accept the view of aScausal
+                    And  our wills can   be  free, even if we are in physical chains.
+                                                                    oft Lchain
+               going back indefinitely inm     time, consistent with the laws of nature,
+                                   r i a n i s
+                                   an omniscient God, or with other determinisms. ibertar
+                                                                                                    ia
+               with the planrtof
+                           e     a                                                          L
+            d e       Libas our own will is included in that causal chain,
+                 stlong                                                      n g  Sweofaret
+          o    As
+        M free, they say. And they think causality in nature             r i
+                                                                     Dais related to the
+               very possibility of reason and
+                                              C      ito Without causality, they say, we
+                                                oglogic.
+              a t i     smbe certain of the truths of our arguments.
+               couldilinot
+                    b
+            p
+ Incom ueCompatibilistsc e s)                                                     is
+                                     don’t mind all their decisions being caused by
+                                                                                n            m
+                     n
+                                                                          r m i
+            eqa metaphysical chain of events, as long as they are not in physical
+                                                                        e
+a t i v e S    chains.
+                                                e d In              det
+                                            i t
+                                     nd Lim
+                    We think compatibilists should be classified according to the
+
+               ism                a
+               particular determinisms they think are compatible with human
+       r m i n freedom. It is one thing to claim compatibility with physics,
+  Dete         another to claim compatibility with God’s foreknowledge, etc.
+                    An increasing number of compatibilists, often reluctantly, ac-
+               cept the view that random quantum mechanical events occur in
+         158     Free Will: The Scandal in Philosophy
+
+               the world. Whether in the physical world, in the biological world
+               (where they are a key driver of genetic mutations), or in the mind,
+               randomness and uncaused events are real.
+                  Other compatibilists, Daniel Dennett, for example, simply
+               insist that such genuine irreducible randomness is not needed for
+               human freedom, or even for biological evolution. Others point
+               out that even if strict determinism were true (which it isn’t), com-
+               patibilist freedom of action, in David Hume’s sense, would still
+               exist. I agree. This would be so.
+                  Quantum events introduce the possibility of accidents, novelty,
+Chapter 11
+
+               and human creativity. Compatibilists who admit that such inde-
+               terminism exists might very likely be convinced of a stronger
+               argument for human freedom that still provides an adequately
+               determined will.
+                  I call this “comprehensive compatibilism,” in which free will
+               is compatible both with adequate determinism (limited to the
+               real determinism that we have in the world) and with indeter-
+               minism (constrained to not causing any of our actions directly,
+               but simply providing alternative possibilities for the adequately
+               determined will to choose from).
+                  Comprehensive compatibilism is developed in Chapter 28.
+               Giving Compatibilists What They Want
+                 1. They Want Determinism, especially determination of their
+               will by their motives and feelings, their character and values.
+                 So let us ask them two simple questions:
+                  “First, Do you agree that there is some physical indetermin-
+                  ism in the universe?” By which of course we mean quantum
+                  mechanical indeterminacy.
+                  “And second, do you agree that quantum mechanical indeter-
+                  minism normally has no observable effect on large physical
+                  structures?” By which we mean that the world is “adequately
+                  determined.”
+                                                           Compatibilism     159
+
+   2. They Want Intelligible Freedom. Let’s ask a third simple ques-
+tion,
+   “If the indeterminism only provided genuine possible alterna-
+   tives for action and thought, if it did not impair the adequately
+   determined will in any way, if it does not directly cause any
+   action, is such a freedom and element of unpredictability
+   acceptable?”
+  3. They Want Moral Responsibility. So finally, let’s ask one last
+question,
+   “Would you agree that the adequately determined will, making
+
+                                                                               Chapter 11
+   its selection from among such unpredictable actions or
+   thoughts, can be held morally responsible for its choices?”
+  If you are a compatibilist, what are your answers?
+Incompatibilism
+   Peter van Inwagen gave incompatibilism a new meaning in
+his 1983 Essay on Free Will. His new definition changed the tax-
+onomy of free will positions (see Chapter 6). Van Inwagen accepts
+the lack of alternative possibilities (in what he calls the Direct
+Argument and others describe as the Actual Sequence of events),
+as compatibilists have done, especially since the 1969 work of
+Harry Frankfurt.
+   Incompatibilists of many stripes now appear - Source Incom-
+patibilists, Leeway Incompatibilists, Hard and Soft Incompatibil-
+ists, and Broad and Narrow Incompatibilists. Libertarians - of
+many kinds as well - all get lumped together with Hard Determin-
+ists as Incompatibilists in van Inwagen’s new catch-all category.
+
+      Compatibilism                     Incompatibilism
+
+                       Hard Determinism                     Libertarianism
+  Figure 11-1. A compatibilist-incompatibilist taxonomy.
+

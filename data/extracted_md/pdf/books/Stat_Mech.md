@@ -1,0 +1,298 @@
+# 38   My God, He Plays Dice!
+
+**source:** pdf · **section:** books
+**file:** Stat_Mech
+---
+
+Chapter 5
+
+                               i s t i c a l
+                         St at             c s
+                              c h  a  n  i
+                         M e
+                                      Statistical Mechanics          39
+
+Statistical Mechanics
+   Statistical mechanics and thermodynamics are nineteenth-
+century classical physics, but they contain the seeds of the ideas
+
+                                                                      Chapter 5
+that Albert Einstein would use to create quantum theory in
+the twentieth, especially the work of his annus mirabilis of 1905.
+   Einstein wrote three papers on statistical mechanics between
+1902 and 1904 He put earlier ideas on a firmer basis. Einstein
+claimed that although James Clerk Maxwell’s and Ludwig
+Boltzmann’s theories had come close, they had not provided
+a foundation for a general theory of heat based on their kinetic
+theory of gases, which depend on the existence of microscopic
+atoms and molecules. In his 1902 paper, Einstein did so, deriving
+the equipartition theory of the distribution of energy among the
+degrees of freedom of a system that is in equilibrium with a large
+heat reservoir that maintains the system temperature.
+   But, Einstein said in his second paper (1903), a general theory
+of heat should be able to explain both thermal equilibrium and the
+second law of thermodynamics independent of the kinetic theory.
+The laws of macroscopic phenomenological thermodynamics
+do not depend on the existence of microscopic atoms and
+molecules. His second paper derived the second law based
+solely on the probability of distributions of states, Boltzmann’s
+entropy, S = k log W, which Einstein redefined, as the fraction
+of time the system spends in each state. This work, he said, bases
+thermodynamics on general principles like the impossibility of
+building a perpetual motion machine.
+   In his third paper (1904), Einstein again derived the second
+law and the entropy, using the same statistical method used
+by Boltzmann in his theory of the ideal gas and by Planck in
+his derivation of the radiation law. Einstein investigated the
+significance of what Planck had called Boltzmann’s constant
+k. With the dimensions of ergs/degeree, as a multiplier of the
+absolute temperature T, ½kT gives us a measure of the average
+energy in each degree of freedom. But Einstein showed that k is
+also a measure of the thermal stability of the system, how much it
+departs from equilibrium in the form of energy fluctuations.
+        40       My God, He Plays Dice!
+
+             What Did Statistics Mean for Einstein?
+                In 1904, Einstein was only 25 years old, but in two years he had
+             independently derived or rederived the work of the previous three
+             decades in the kinetic theory of gases and statistical mechanics.
+Chapter 5
+
+                As we saw in chapter 2 on chance, most scientists did not believe
+             that the appearance of randomly distributed events is any proof that
+             there is ontological chance in the universe. For them, regularities
+             in the “normal” distribution implied underlying unknown laws
+             determining events. And Einstein was no exception.
+                The use of “statistical” methods is justified by the apparent
+             impossibility of knowing the detailed paths of an incredibly large
+             number of particles. One might think that increasing the number
+             of particles would make their study increasingly complex, but
+             the opposite is true. The regularities that appear when averaging
+             over their large numbers gives us mean values for the important
+             quantities of classical thermodynamics like energy and entropy.
+                In principle, the motions of individual particles obey the laws of
+             classical mechanics. They are deterministic, and time reversible. In
+             1904, Einstein certainly subscribed to this view, until 1909 at least.
+                So when Boltzmann’s H-theorem had shown in 1872 that the
+             entropy in an isolated system can only increase, it was that the
+             increase in entropy is only statistically irreversible.
+                Before Boltzmann, we saw in chapter 3 it was Maxwell who
+             first derived a mathematical expression for the distribution of gas
+             particles among different velocities. He assumed the particles were
+             distributed at random and used probabilities from the theory of
+             errors to derive the shape of the distribution. There is some evidence
+             that Maxwell was a skeptic about determinism and may thus have
+             accepted that randomness as ontological chance.
+                But Boltzmann clearly accepted that his macroscopic irrevers-
+             ibility did not prove the existence of microscopic irreversibility. He
+             had considered the possibility of some “molecular chaos.” But even
+             without something microscopically random, Boltzmann’s statistical
+             irreversibility does explain the increase in entropy, despite his critics
+             Josef Loschmidt and Ernst Zermelo.
+                                        Statistical Mechanics             41
+
+What Then Are the Fluctuations?
+   In the last of his papers on statistical mechanics, Einstein
+derived expressions for expected fluctuations away from thermal
+equilibrium. Fluctuations would be examples of entropy decreasing
+
+                                                                           Chapter 5
+slightly, proving that the second law is not an absolute law, but only
+a statistical one, as both Maxwell and Boltzmann had accepted.
+   Boltzmann had calculated the size of fluctuations and declared
+them to be unobservable in normal gases. One year after his 1904
+paper, Einstein would demonstrate that molecular fluctuations
+are indirectly observable and can explain the Brownian motion.
+Einstein’s prediction and its experimental confirmation by Jean
+Perrin a few years later would prove the existence of atoms.
+   Einstein also expressed the possibility in his 1904 paper that a
+general theory of physical systems would apply equally to matter and
+radiation. He thought fluctuations would be even more important
+for radiation, especially for radiation with wavelengths comparable
+to the size of their container. He showed that the largest fluctuations
+in energy would be for particles of average energy.
+   Einstein argued that the general principle of equipartition of
+energy among all the degrees of freedom of a system should be
+extended to radiation. But he was concerned that radiation, as a
+continuous theory, might have infinite degrees of freedom. A system
+of N gas particles has a finite number of degrees of freedom, which
+determines the finite number of states W and the system’s entropy.
+   Einstein’s speculation that the kinetic-molecular theory of
+statistical mechanics should also apply to radiation shows us an
+Einstein on the verge of discovering the particulate or “quantum”
+nature of radiation, which most physicists would not accept for
+another one or two decades at least.
+   We saw in chapter 4 that the term “quantum” was introduced into
+physics in 1900 by Max Planck, who hypothesized that the total
+energy of the mechanical oscillators generating the radiation field
+must be limited to integer multiples of a quantity hν, where ν is the
+radiation frequency and h is a new constant with the dimensions
+of action (energy x time or momentum x distance). Planck did
+not think the radiation itself is quantized. But his quantizing the
+        42         My God, He Plays Dice!
+
+             energy states of the matter did allow him to avoid infinities and use
+             Boltzmann’s definition of entropy as disorder and probability.
+                Einstein saw that Planck had used Boltzmann’s probabilis-
+             tic and statistical methods to arrive at an equation describing the
+Chapter 5
+
+             distribution of frequencies in blackbody radiation. 1
+                But Einstein also saw that Planck did not think that the radiation
+             field itself could be described as particles. Nevertheless, Planck
+             clearly had found the right equation. His radiation law fit the
+             experimental data perfectly. But Einstein thought Planck had luckily
+             stumbled on his equation for the wrong physical reasons. Indeed, a
+             proper derivation would not be given for two more decades, when
+             Einstein himself finally explained it in 1925 as the result of quantum
+             statistics that have no place in classical statistical mechanics. 2
+             Had Gibbs Done Everything Before Einstein?
+              Some historians and philosophers of science think that Josiah
+             Willard Gibbs completed all the important work in statistical
+             mechanics before Einstein. Gibbs had worked on statistical physics
+             for many decades. Einstein had not read Gibbs, and when he finally
+             did, he said his own work added little to Gibbs. But he was wrong.
+                Gibbs earned the first American Ph.D. in Engineering from Yale
+             in 1863. He went to France where he studied with the great Joseph
+             Liouville, who formulated the theorem that the phase-space volume
+             of a system evolving under a conservative Hamiltonian function is a
+             constant along the system’s trajectory. This led to the conclusion that
+             entropy is a conserved quantity, like mass, energy, momentum, etc.
+                In his short text Principles in Statistical Mechanics, published the
+             year before his death in 1903, Gibbs coined the English term phase
+             space and the name for the new field - statistical mechanics. This
+             book brought him his most fame. But it was not his first work. Gibbs
+             had published many articles on thermodynamics and was well
+             known in Europe, though not by Einstein. Einstein independently
+             rederived much of Gibbs’s past work.
+                Einstein, by comparison, was an unknown developing his first
+             ideas about a molecular basis for thermodynamics. His readings
+             were probably limited to Boltzmann’s Lectures on Gas Theory.
+               1     See chapter 4.
+               2     See chapter 22.
+                                         Statistical Mechanics             43
+
+   Gibbs transformed the earlier work in “kinetic gas theory” by
+Boltzmann, making it more mathematically rigorous. Gibbs made
+kinetic gas theory obsolete, but he lacked the deep physical insight
+of either Boltzmann or Einstein.
+
+                                                                            Chapter 5
+   Perhaps inspired by the examples of other conservation laws
+in physics discovered during his lifetime, Gibbs disagreed with
+Boltzmann’s view that information is “lost” when the entropy
+increases. For Gibbs, every particle is in principle distinguishable and
+identifiable. For Boltzmann, two gases on either side of a partition
+with particles distinguishable from one another, but otherwise iden-
+tical, will increase their entropy when the partition is removed and
+they are allowed to mix.
+   For Gibbs, this suggested a paradox, what if the gases on both side
+were identical? On Boltzmann’s view, the entropy would not go up,
+because there would be no “mixing.” Entropy seems to depend on
+what we know about the particles? For Gibbs, complete information
+about every particle, their identities, their classical paths, would
+give us a constant entropy, essentially zero.
+   For Gibbs, information is conserved when macroscopic order
+disappears because it simply changes into microscopic (thus
+invisible) order as the path information of all the gas particles is
+preserved. As Boltzmann’s mentor Josef Loschmidt had argued
+in the early 1870’s, if the velocities of all the particles could be
+reversed at an instant, the future evolution of the gas would move
+in the direction of decreasing entropy. All the original order would
+reappear.
+   Nevertheless, Gibbs’s idea of the conservation of information
+is still widely held today by mathematical physicists. And most
+texts on statistical mechanics still claim that microscopic collisions
+between particles are reversible. Some explicitly claim that quantum
+mechanics changes nothing, because they limit themselves to the uni-
+tary (conservative and deterministic) evolution of the Schrödinger
+equation and ignore the collapse of the wave function.
+   So if Gibbs does not calculate the permutations of molecules in
+“microstates” and their combinations into the “complexions” of
+Boltzmann’s “macrostates,” what exactly is his statistical thinking?
+        44         My God, He Plays Dice!
+
+             It is the statistics of a large number of identical thermodynamic
+             systems that he calls “ensembles.” Boltzmann had also considered
+             such large numbers of identical systems, averaging over them and
+             assuming the averages give the same results as time averages over a
+Chapter 5
+
+             single system. Such systems are called ergodic.
+                Maxwell thought that Boltzmann’s ergodic hypothesis requires
+             that the time evolution of a system pass through every point
+             consistent with the energy. If the system is continuous, there are an
+             infinite number of such points.
+                Boltzmann relaxed the ergodic requirement, dividing what Gibbs
+             later called “phase space” into finite cells that Boltzmann described
+             as “coarse graining.” Quantum mechanics would later find reasons
+             for particles being confined to phase-space volumes equal to the
+             cube of Planck’s quantum of action h3. This is not because space is
+             quantized but because material particles cannot get closer together
+             than Heisenberg’s uncertainty principle allows. Δp Δx = h.
+                Both Boltzmann and Gibbs considered two kinds of ensembles.
+             Boltzmann called his ensembles monodes. Boltzmann’s ergode is
+             known since Gibbs as the microcanonical ensemble, in which
+             energy is constant. In Gibbs’s canonical ensemble energy may
+             change. Boltzmann called it a holode. Einstein’s focus was on the
+             canonical ensemble. For him, the canonical is one where energy
+             may be exchanged with a very large connected heat reservoir, which
+             helped Einstein to define the absolute temperature T.
+                Where Gibbs ignored the microscopic behavior of molecules,
+             Einstein followed Boltzmann in considering the motions and
+             behavior of molecules, atoms, even electrons, and then photons.
+                Gibbs’ statistical mechanics provided a formal basis for all the
+             classical results of thermodynamics. But he discovered nothing new
+             in atomic and molecular physics.
+                By contrast, Einstein’s statistical mechanics gave him insight
+             into things previously thought to be unobservable - the motions
+             of molecules that explain the Brownian motion, 3 the behavior
+             of electrons in metals as electrical and thermal conductors, the
+             existence of energy levels in solids that explains anomalies in their
+             specific heat, 4 and even let him discover the particle nature of light.  5
+               3     Chapter 7.
+               4     Chapter 8.
+               5     Chapter 6.
+                                                 Statistical Mechanics                    45
+
+   Einstein’s study of fluctuations let him see both the particle nature
+and the wave nature of light as separate terms in his analysis of
+entropy. In the final section of his 1904 paper, Einstein applied his
+calculations to radiation.
+
+                                                                                           Chapter 5
+   He thought that energy fluctuations would be extreme if the
+radiation is confined to a volume of space with dimensions of the
+same order of magnitude as the wavelength of the radiation.
+   While Einstein may or may not be correct about the maximum
+of fluctuations, he did derive the wavelength of the maximum of
+radiation λmax, showing it is inversely proportional to the absolute
+temperature T. Einstein estimated theoretically that
+   λmax = 0.42/T
+   Wien had discovered this relationship ten years earlier empirically
+as his displacement law. Wien had found
+   λmax = 0.293/T.
+   Einstein wrote
+    One can see that both the kind of dependence on the temperature
+    and the order of magnitude of λm can be correctly determined
+    from the general molecular theory of heat, and considering the
+    broad generality of our assumptions, I believe that this agreement
+    must not be attributed to chance. 6
+   Einstein’s work on statistical mechanics thus goes well beyond
+that of Boltzmann and Gibbs. The work of Gibbs did not depend
+on the existence of material particles and that of Boltzmann had
+nothing to do with radiation.
+   The tools Einstein developed in his three papers on statistical
+mechanics, especially his ability to calculate microscopic
+fluctuations, gave him profound insights into both matter and light.
+   All this work may be largely forgotten today, especially in many
+modern texts on quantum physics that prefer the conservative
+Gibbs formalism to that of Einstein. But Einstein’s next three
+papers, all published in just one year often called his annus mirabilis,
+were all based on his young ability to see far beyond his older
+colleagues.
+   In particular, Einstein had a knack for seeing what goes on at the
+microscopic level that he called an “objective reality.”
+   6      On the General Molecular Theory of Heat, §5 Application to Radiation, Annalen
+der Physik, 14 (1904) pp.354-362.
+

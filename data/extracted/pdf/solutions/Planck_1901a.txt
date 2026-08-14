@@ -1,0 +1,379 @@
+On the Law of Distribution of Energy in the Normal Spectrum
+                                           Max Planck
+
+                         Annalen der Physik, vol. 4, p. 553 ff (1901)
+
+This PDF file was typeset with LATEX based on the HTML file at
+http://dbhs.wvusd.k12.ca.us/webdocs/Chem-History/Planck-1901/Planck-1901.html.
+Please report typos etc. to Koji Ando at Kyoto University (ando@kuchem.kyoto-u.ac.jp).
+ On the Law of Distribution of Energy in the Normal Spectrum
+
+                                                    Max Planck
+
+                                Annalen der Physik, vol. 4, p. 553 ff (1901)
+
+
+    The recent spectral measurements made by O. Lummer and E. Pringsheim1 , and even more notable
+those by H. Rubens and F. Kurlbaum2 , which together confirmed an earlier result obtained by H. Beck-
+mann3 , show that the law of energy distribution in the normal spectrum, first derived by W. Wien from
+molecular-kinetic considerations and later by me from the theory of electromagnetic radiation, is not
+valid generally.
+    In any case the theory requires a correction, and I shall attempt in the following to accomplish
+this on the basis of the theory of electromagnetic radiation which I developed. For this purpose it will
+be necessary first to find in the set of conditions leading to Wien’s energy distribution law that term
+which can be changed; thereafter it will be a matter of removing this term from the set and making an
+appropriate substitution for it.
+    In my last article4 I showed that the physical foundations of the electromagnetic radiation theory,
+including the hypothesis of “natural radiation”, withstand the most severe criticism; and since to my
+knowledge there are no errors in the calculations, the principle persists that the law of energy distribution
+in the normal spectrum is completely determined when one succeeds in calculating the entropy S of an
+irradiated, monochromatic, vibrating resonator as a function of its vibrational energy U . Since one then
+obtains, from the relationship dS/dU = 1/θ, the dependence of the energy U on the temperature θ, and
+since the energy is also related to the density of radiation at the corresponding frequency by a simple
+relation5 , one also obtains the dependence of this density of radiation on the temperature. The normal
+energy distribution is then the one in which the radiation densities of all different frequencies have the
+same temperature.
+    Consequently, the entire problem is reduced to determining S as a function of U , and it is to this task
+that the most essential part of the following analysis is devoted. In my first treatment of this subject I
+had expressed S, by definition, as a simple function of U without further foundation, and I was satisfied
+to show that this from of entropy meets all the requirements imposed on it by thermodynamics. At that
+time I believed that this was the only possible expression and that consequently Wein’s law, which follows
+from it, necessarily had general validity. In a later, closer analysis6 , however, it appeared to me that there
+must be other expressions which yield the same result, and that in any case one needs another condition
+in order to be able to calculate S uniquely. I believed I had found such a condition in the principle, which
+at the time seemed to me perfectly plausible, that in an infinitely small irreversible change in a system,
+near thermal equilibrium, of N identical resonators in the same stationary radiation field, the increase in
+the total entropy SN = N S with which it is associated depends only on its total energy UN = N U and
+the changes in this quantity, but not on the energy U of individual resonators. This theorem leads again
+to Wien’s energy distribution law. But since the latter is not confirmed by experience one is forced to
+conclude that even this principle cannot be generally valid and thus must be eliminated from the theory7 .
+    Thus another condition must now be introduced which will allow the calculation of S, and to accom-
+plish this it is necessary to look more deeply into the meaning of the concept of entropy. Consideration
+  1 O. Lummer and E. Pringsheim, Transactions of the German Physical Society 2 (1900), p. 163
+  2 H. Rubens and F. Kurlbaum, U Proceedings of the Imperial Academy of Science, Berlin, October 25, 1900, p. 929.
+  3 H. Beckmann, Inaugural dissertation, Tübingen 1898. See also H. Rubens, Weid. Ann. 69 (1899) p. 582.
+  4 M. Planck, Ann. d. Phys. 1 (1900), p. 719.
+  5 Compare with equation (8).
+  6 M. Planck, loc. cit., pp. 730 ff.
+  7 Moreover one should compare the critiques previously made of this theorem by W. Wien (Report of the Paris Congress
+
+2, 1900, p. 40) and by O. Lummer (loc. cit., 1900, p. 92).
+
+
+
+
+                                                             1
+of the untenability of the hypothesis made formerly will help to orient our thoughts in the direction in-
+dicated by the above discussion. In the following a method will be described which yields a new, simpler
+expression for entropy and thus provides also a new radiation equation which does not seem to conflict
+with any facts so far determined.
+
+1      Calculations of the Entropy of a Resonator as a Function of its Energy
+§1. Entropy depends on disorder and this disorder, according to the electromagnetic theory of radiation
+for the monochromatic vibrations of a resonator when situated in a permanent stationary radiation
+field, depends on the irregularity with which it constantly changes its amplitude and phase, provided
+one considers time intervals large compared to the time of one vibration but small compared to the
+duration of a measurement. If amplitude and phase both remained absolutely constant, which means
+completely homogeneous vibrations, no entropy could exist and the vibrational energy would have to
+be completely free to be converted into work. The constant energy U of a single stationary vibrating
+resonator accordingly is to be taken as time average, or what is the same thing, as a simultaneous average
+of the energies of a large number N of identical resonators, situated in the same stationary radiation field,
+and which are sufficiently separated so as not to influence each other directly. It is in this sense that we
+shall refer to the average energy U of a single resonator. Then to the total energy
+                                                       UN = N U                                          (1)
+of such a system of N resonators there corresponds a certain total entropy
+                                                       SN = N S                                          (2)
+of the same system, where S represents the average entropy of a single resonator and the entropy SN
+depends on the disorder with which the total energy UN is distributed among the individual resonators.
+
+§2. We now set the entropy SN of the system proportional to the logarithm of its probability W , within
+an arbitrary additive constant, so that the N resonators together have the energy EN :
+                                               SN = k log W + constant                                   (3)
+In my opinion this actually serves as a definition of the probability W , since in the basic assumptions
+of electromagnetic theory there is no definite evidence for such a probability. The suitability of this
+expression is evident from the outset, in view of its simplicity and close connection with a theorem from
+kinetic gas theory8 .
+
+§3. It is now a matter of finding the probability W so that the N resonators together possess the
+vibrational energy UN . Moreover, it is necessary to interpret UN not as a continuous, infinitely divisible
+quantity, but as a discrete quantity composed of an integral number of finite equal parts. Let us call each
+such part the energy element ; consequently we must set
+                                                        UN = P                                          (4)
+where P represents a large integer generally, while the value of  is yet uncertain.
+                             (The above paragraph in the original German)
+           Es kommt nun darauf an, die Wahrscheinlichkeit W dafür zu finden, dass die N Res-
+       onatoren insgesamt die Schwingungsenergie UN besitzen. Hierzu ist es notwendig, UN nicht
+       als eine stetige, unbeschränkt teilbare, sondern als eine discrete, aus einer ganzen Zahl von
+       endlichen gleichen Teilen zusammengesetzte Grösse aufzufassen. Nennen wir einen solchen
+       Teil ein Energieelement , so ist mithin zu setzen
+                                                        UN = P 
+       wobei P eine ganze, im allgemeinen grosse Zahl bedeutet . . . .
+    8 L. Boltzmann, Proceedings of the Imperial Academy of Science, Vienna, (II) 76 (1877), p. 428.
+
+
+
+
+                                                            2
+    Now it is evident that any distribution of the P energy elements among the N resonators can result
+only in a finite, integral, definite number. Every such form of distribution we call, after an expression
+used by L. Boltzmann for a similar idea, a “complex”. If one denotes the resonators by the numbers 1,
+2, 3, ... N , and writes these side by side, and if one sets under each resonator the number of energy
+elements assigned to it by some arbitrary distribution, then one obtains for every complex a pattern of
+the following form:
+                                   1 2     3 4 5 6 7 8 9 10
+                                   7 38 11 0 9 2 20 4 4 5
+Here we assume N = 10, P = 100. The number R of all possible complexes is obviously equal to the
+number of arrangements that one can obtain in this fashion for the lower row, for a given N and P . For
+the sake of clarity we should note that two complexes must be considered different if the corresponding
+number patterns contain the same numbers but in a different order.
+   From combination theory one obtains the number of all possible complexes as:
+
+                                 N (N + 1)(N + 2) · · · ·(N + P − 1)   (N + P − 1)!
+                           R=                                        =
+                                           1 · 2 · 3 · · · ·P           (N − 1)!P !
+
+Now according to Stirling’s theorem, we have in the first approximation:
+
+                                                       N! = NN
+
+Consequently, the corresponding approximation is:
+
+                                                        (N + P )N +P
+                                                  R=
+                                                          NN · PP
+
+§4. The hypothesis which we want to establish as the basis for further calculation proceeds as follows:
+in order for the N resonators to possess collectively the vibrational energy UN , the probability W must be
+proportional to the number R of all possible complexes formed by distribution of the energy UN among
+the N resonators; or in other words, any given complex is just as probable as any other. Whether this
+actually occurs in nature one can, in the last analysis, prove only by experience. But should experience
+finally decide in its favor it will be possible to draw further conclusions from the validity of this hypothesis
+about the particular nature of resonator vibrations; namely in the interpretation put forth by J. v. Kries9
+regarding the character of the “original amplitudes, comparable in magnitude but independent of each
+other”. As the matter now stands, further development along these lines would appear to be premature.
+
+§5. According to the hypothesis introduced in connection with equation (3), the entropy of the system
+of resonators under consideration is, after suitable determination of the additive constant:
+
+                         SN = k log R = k{(N + P ) log(N + P ) − N log N − P log P }                        (5)
+
+and by considering (4) and (1):
+                                                                                   
+                                                    U               U        U    U
+                                SN = kN          1+         log 1 +         − log
+                                                                               
+
+Thus, according to equation (2) the entropy S of a resonator as a function of its energy U is given by:
+                                                                   
+                                           U            U       U     U
+                             S=k       1+      log 1 +       − log                                    (6)
+                                                                   
+  9 Joh. v. Kries, The Principles of Probability Calculation (Freiburg, 1886), p. 36.
+
+
+
+
+                                                             3
+2     Introduction of Wien’s Displacement Law
+§6. Next to Kirchoff’s theorem of the proportionality of emissive and absorptive power, the so-called
+displacement law, discovered by and named after W. Wien10 , which includes as a special case the Stefan-
+Boltzmann law of dependence of total radiation on temperature, provides the most valuable contribution
+to the firmly established foundation of the theory of heat radiation, In the form given by M. Thiesen11
+it reads as follows:
+                                          E · dλ = θ5 ψ(λθ) · dλ
+where λ is the wavelength, E · dλ represents the volume density of the “black-body” radiation12 within
+the spectral region λ to λ + dλ, θ represents temperature and ψ(x) represents a certain function of the
+argument x only.
+
+§7. We now want to examine what Wien’s displacement law states about the dependence of the entropy
+S of our resonator on its energy U and its characteristic period, particularly in the general case where the
+resonator is situated in an arbitrary diathermic medium. For this purpose we next generalize Thiesen’s
+form of the law for the radiation in an arbitrary diathermic medium with the velocity of light c. Since we
+do not have to consider the total radiation, but only the monochromatic radiation, it becomes necessary
+in order to compare different diathermic media to introduce the frequency n instead of the wavelength λ.
+    Thus, let us denote by u · dν the volume density of the radiation energy belonging to the spectral
+region ν to ν + dν; then we write: u · dν instead of E · dλ; c/ν instead of λ, and c · dν/ν 2 instead of dλ.
+From which we obtain                                       
+                                                  5 c      cθ
+                                            u=θ 2 ·ψ
+                                                   ν        ν
+Now according to the well-known Kirchoff-Clausius law, the energy emitted per unit time at the frequency
+ν and temperature θ from a black surface in a diathermic medium is inversely proportional to the square
+of the velocity of propagation c2 ; hence the energy density u is inversely proportional to c3 and we have:
+
+                                                   θ5
+                                                          
+                                                            θ
+                                             u= 2 3 ·f
+                                                  ν c       ν
+
+where the constants associated with the function f are independent of c.
+  In place of this, if f represents a new function of a single argument, we can write:
+
+                                                 ν3
+                                                         
+                                                          θ
+                                             u= 3 ·f                                                              (7)
+                                                 c        ν
+
+and from this we see, among other things, that as is well known, the radiant energy u · λ3 at a given
+temperature and frequency is the same for all diathermic media.
+
+§8. In order to go from the energy density u to the energy U of a stationary resonator situated in the
+radiation field and vibrating with the same frequency ν, we use the relation expressed in equation (34)
+of my paper on irreversible radiation processes13 :
+
+                                                           ν2
+                                                     K=       U
+                                                           c2
+(K is the intensity of a monochromatic linearly, polarized ray), which together with the well-known
+equation:
+                                                  8πK
+                                             u=
+                                                   c
+ 10 W. Wien, Proceedings of the Imperial Academy of Science, Berlin, February 9, 1893, p. 55.
+ 11 M. Thiesen, Transactions of the German Physical Society 2 (1900), p. 66.
+  12 Perhaps one should speak more appropriately of a “white” radiation, to generalize what one already understands by
+
+total white light.
+  13 M. Planck, Ann. D. Phys. 1 (1900), p. 99.
+
+
+
+
+                                                          4
+yields the relation:
+                                                       8πν 2
+                                                 u=          U                                        (8)
+                                                        c3
+From this and from equation (7) follows:
+                                                      
+                                                      θ
+                                              U =ν·f
+                                                      ν
+where now c does not appear at all. In place of this we may also write:
+                                                       
+                                                        U
+                                            θ =ν·f                                                    (9)
+                                                        ν
+
+§9.   Finally, we introduce the entropy S of the resonator by setting
+                                                    1   dS
+                                                      =
+                                                    θ   dU
+We then obtain:                                                      
+                                            dS  1                 U
+                                               = ·f
+                                            dU  ν                 ν
+and integrated:                                                  
+                                                              U
+                                                S=f                                                  (10)
+                                                              ν
+that is, the entropy of a resonator vibrating in an arbitrary diathermic medium depends only on the
+variable U/ν, containing besides this only universal constants. This is the simplest form of Wien’s
+displacement law known to me.
+
+§10. If we apply Wien’s displacement law in the latter form to equation (6) for the entropy S, we then
+find that the energy element  must be proportional to the frequency ν, thus:
+
+                                                      = hν
+
+and consequently:                                                                  
+                                           U                U               U      U
+                             S=k        1+          log 1 +               −    log
+                                           hν               hν              hν     hν
+here h and k are universal constants.
+   By substitution into equation (9) one obtains:
+                                                            
+                                           1    k         hν
+                                             =    log 1 +
+                                           θ   hν         U
+
+                                                           hν
+                                              U=                                                     (11)
+                                                     ehν/kθ − 1
+and from equation (8) there then follows the energy distribution law sought for:
+
+                                                8πhν 3      1
+                                         u=            · hν/kθ                                       (12)
+                                                  c3    e      −1
+or by introducing the substitutions given in 7, in terms of wavelength λ instead of the frequency:
+                                                8πch       1
+                                         E=        5
+                                                     · ch/kλθ                                        (13)
+                                                 λ    e       −1
+I plan to derive elsewhere the expressions for the intensity and entropy of radiation progressing in a
+diathermic medium, as well as the theorem for the increase of total entropy in nonstationary radiation
+processes.
+
+
+                                                       5
+3    Numerical Values
+§11. The values of both universal constants h and k may be calculated rather precisely with the aid of
+available measurements. F. Kurlbaum14 , designating the total energy radiating into air from 1 sq cm of
+a black body at temperature t◦ C in 1 sec by St , found that:
+                                                       watt                  erg
+                              S100 − S0 = 0.0731 ·        2
+                                                            = 7.31 · 105 ·
+                                                       cm                  cm2 · sec
+From this one can obtain the energy density of the total radiation energy in air at the absolute temperature
+1:
+                                 4 · 7.31 · 105                          erg
+                                                     = 7.061 · 10−15 ·
+                           3 · 1010 · (3734 − 2734 )                   cm3 · deg4
+On the other hand, according to equation (12) the energy density of the total radiant energy for θ = 1 is:
+                               Z ∞
+                                            8πh ∞ ν 3 dν
+                                                Z
+                       ∗
+                      u =          udν = 3
+                                0            c   0   ehν/k − 1
+                                   Z ∞
+                               8πh
+                           =            ν 3 (e−hν/k + e−2hν/k + e−3hν/k + · · ·)dν
+                                c3 0
+and by termwise integration:
+                                                   4                     
+                                 ∗       8πh        k         1   1   1
+                             u       =         ·6         1+    +   +   +···
+                                          c3        h        24 34 44
+                                         48πk 4
+                                     =           · 1.0823
+                                          c3 h3
+If we set this equal to 7.061 · 10−15 , then, since c = 3 · 1010 cm/sec, we obtain:
+                                                 k4
+                                                    = 1.1682 · 1015                                    (14)
+                                                 h3
+
+§12. O. Lummer and E. Pringswim15 determined the product λm θ, where λm is the wavelength of
+maximum energy in air at temperature θ, to be 2940 micron·degree. Thus, in absolute measure:
+                                                 λm = 0.294 cm · deg
+On the other hand, it follows from equation (13), when one sets the derivative of E with respect to θ
+equal to zero, thereby finding λ = λm
+                                                 
+                                             ch
+                                        1−          · ech/kλm θ = 1
+                                           5kλm θ
+and from this transcendental equation:
+                                                              ch
+                                                  λm θ =
+                                                           4.9651 · k
+consequently:
+                                  h    4.9561 · 0.294
+                                    =                 = 4.866 · 10−11
+                                  k       3 · 1010
+From this and from equation (14) the values for the universal constants become:
+                                            h = 6.55 · 10−27 erg · sec                                 (15)
+
+                                                          erg
+                                             k = 1.346 · 10−16 ·                                       (16)
+                                                          deg
+These are the same number that I indicated in my earlier communication.
+ 14 F. Kurlbaum, Wied. Ann. 65 (1898), p. 759.
+ 15 O. Lummer and Pringsheim, Transactions of the German Physical Society 2 (1900), p. 176.
+
+
+
+
+                                                           6
+

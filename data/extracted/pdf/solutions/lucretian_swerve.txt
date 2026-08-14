@@ -1,0 +1,453 @@
+                                                                                                                                                             INAUGURAL ARTICLE
+The Lucretian swerve: The biological basis of human
+behavior and the criminal justice system
+Anthony R. Cashmore1
+Department of Biology, University of Pennsylvania, Philadelphia, PA 19104-6018
+
+This contribution is part of the special series of Inaugural Articles by members of the National Academy of Sciences elected in 2003.
+
+Contributed by Anthony R. Cashmore, January 12, 2010 (sent for review September 09, 2009)
+
+It is widely believed, at least in scientiﬁc circles, that living systems,     motor neurons, joined to the muscles and the glands of the body,
+including mankind, obey the natural physical laws. However, it is              using a mechanism of both electrical and chemical transmission.
+also commonly accepted that man has the capacity to make “free”                Despite the essentially unlimited theoretical capacity of the brain to
+conscious decisions that do not simply reﬂect the chemical makeup              store and use information—enough to confer individual person-
+of the individual at the time of decision—this chemical makeup                 alities to multiple billions of individuals—one still hears a sense of
+reﬂecting both the genetic and environmental history and a degree              certainty that “surely I am more complicated than that!”
+of stochasticism. Whereas philosophers have discussed for centuries
+the apparent lack of a causal component for free will, many biolo-             Descartes and the Magic of the Soul
+gists still seem to be remarkably at ease with this notion of free will;       At least as long ago as the early Greek civilization, people have
+and furthermore, our judicial system is based on such a belief. It is          worried about the compatibility or otherwise of the laws of nature
+the author’s contention that a belief in free will is nothing other            and the apparent capacity of mankind to make conscious decisions
+than a continuing belief in vitalism—something biologists proudly              that are not simply a reﬂection of their makeup and the sur-
+believe they discarded well over 100 years ago.                                rounding environment. As noted by Dennett (2), the Epicureans,
+                                                                               in attempting to reconcile the phenomenon of cause and effect
+consciousness   | free will | stochasticism | criminal law | vitalism          that they saw to be characteristic of the physical world, with the
+                                                                               contrasting apparent freedom of individual behavior, posed the
+                                                                               following problem: “If all movement is always interconnected, the
+M       any discussions about human behavior center around the
+        relative importance of genes and environment, a topic often
+discussed in terms of nature versus nurture. In concentrating on
+                                                                               new arising from the old in a determinate order—if the atoms
+                                                                               never swerve so as to originate some new movement that will snap
+
+
+
+
+                                                                                                                                                             NEUROSCIENCE
+this question of the relative importance of genes and environment,             the bonds of fate, the everlasting sequence of cause and effect—
+a crucial component of the debate is often missed: an individual               what is the source of the free will possessed by living things
+cannot be held responsible for either his genes or his environment.            throughout the earth?” As described by Lucretius, their reconci-
+From this simple analysis, surely it follows that individuals cannot           liation of this problem was to propose that atoms occasionally
+logically be held responsible for their behavior. Yet a basic tenet of         exhibit “random swerves” (3). The causal component of these
+the judicial system and the way that we govern society is that we              random swerves could have been the Greek gods, of whom there
+hold individuals accountable (we consider them at fault) on the                was no shortage. Indeed, the self consistency of this line of thinking
+assumption that people can make choices that do not simply reﬂect              can be seen in early Greek literature, where the gods had a daily
+a summation of their genetic and environmental history. As de                  impact on the lives of individuals (4).
+Duve has written, “If . . . neuronal events in the brain determine                In the 17th century, Descartes, in addressing what is often
+behavior, irrespective of whether they are conscious or uncon-                 referred to as the mind—body problem, proposed that the body
+scious, it is hard to ﬁnd room for free will. But if free will does not        obeyed the laws of the physical world, however the soul (and hence
+exist, there can be no responsibility, and the structure of human              the mind), acting through the pineal gland, was not restricted by
+societies must be revised” (1).                                                these limitations (5). The mechanism by which this was achieved
+   It is my belief that, as more attention is given to the mechanisms          was, understandably, not understood, although Descartes offered
+that govern human behavior, it will increasingly be seen that the              some suggestions. In reference to this problem, Eccles, in an
+concept of free will is an illusion, and the fallacy of a basic premise        imaginative proposal, has suggested that the interaction between
+of the judicial system will become more apparent. Certainly, the               mind and soul could proceed via the uncertainty of quantum
+determination of the sequence of the human genome and the                      mechanics (6). He achieves the capacity to “swerve atoms” — a
+assignment of function to these genes is having a dramatic effect on           requirement for free will (as noted by Epicurus)—by taking the
+our understanding of the role of genetics in human behavior.                   “magic of the soul,” afforded by the dualism of Descartes, and
+Similarly, developments in imaging techniques, allowing changes                combining it with Heisenberg’s uncertainty principle.
+in neuronal activity to be correlated with thought processes, is                  Whereas this so-called Cartesian duality, at least superﬁcially,
+affecting our thinking about relationships between the functioning             provides a nice mechanism whereby one could entertain the concept
+of the mind and chemical activity in the brain. Here I propose that            of free will, belief in this mechanism among scientiﬁc circles has
+the time is opportune for society to reevaluate our thinking con-              ostensibly disappeared (7). However, if we no longer entertain the
+cerning the concept of free will, as well as the policies of the               luxury of a belief in the “magic of the soul,” then there is little else to
+criminal justice system.                                                       offer in support of the concept of free will. Whereas much is written
+                                                                               claiming to provide an explanation for free will, such writings are
+The Biological Basis of Behavior                                               invariably lacking any hint of molecular details concerning mecha-
+At birth, the brain of a child contains about 100 billion neurons, each
+one forming on average about 1,000 synapses. With time, the
+majority of these neurons are lost, and the properties of the                  Author contributions: A.R.C. wrote the paper.
+
+remaining neurons and their connections reﬂect a combination of                The author declares no conﬂict of interest.
+both the genetics and the experiences of the individual from the time          Freely available online through the PNAS open access option.
+of conception. This information is translated into action via the              1
+                                                                                 E-mail: cashmore@sas.upenn.edu.
+
+
+
+www.pnas.org/cgi/doi/10.1073/pnas.0915161107                                                        PNAS | March 9, 2010 | vol. 107 | no. 10 | 4499–4504
+nisms (8). Also, it is often suggested that individuals are free to        from the variability associated with stochasticism. For this reason,
+choose and modify their environment and that, in this respect, they        I believe that free will is better deﬁned as a belief that there is a
+control their destiny. This argument misses the simple but crucial         component to biological behavior that is something more than the
+point that any action, as “free” as it may appear, simply reﬂects the      unavoidable consequences of the genetic and environmental his-
+genetics of the organism and the environmental history, right up to        tory of the individual and the possible stochastic laws of nature.
+some fraction of a microsecond before any action.                          Here, in some ways, it might be more appropriate to replace
+                                                                           “genetic and environmental history” with “chemistry”—however,
+Genes, Environment, and Stochasticism: A Trinity of Forces                 in this instance these terms are likely to be similar and the former is
+Governing Biological Systems                                               the one commonly used in such discussions.
+If our genes and environment govern our actions, does this mean
+that our behavior is deterministic? Not necessarily. Rather, there         Biologists and Free Will
+is a trinity of forces —genes, environment, and stochasticism              Earlier I noted that, throughout history, philosophers have
+(GES)—that governs all of biology including behavior, with the             repeatedly questioned the validity of free will. However, in spite
+stochastic component referring to the inherent uncertainty of the          of this and the sparsity of evidence or credible models in support
+physical properties of matter. Schrodinger popularized the notion          of free will, it has been my experience that relatively few biolo-
+that the randomness that physicists were familiar with at the level        gists seriously question the concept of free will. This holds in
+of individual atoms, was apparently lacking in biological systems          spite of the fact that we live in an era when few biologists would
+(9). Whereas biological systems may have evolved mechanisms to             question the idea that biological systems are totally based on the
+minimize some features of randomness, it is my contention that in          laws of physics and chemistry. For example, in a beautifully lucid
+contrast to this philosophy, other aspects of the complexity of            account of the origin and complexity of life, de Duve (1) rather
+living systems actually reﬂect selection in favor of random events.        critically analyzes the attempts by others to rationalize a belief in
+   Examples in support of this notion are the process of mutation          free will, but ends with the rather noncommittal thought: “We
+(which Schrodinger was aware of), and genetic recombination and            still know too little about the human mind to afﬁrm categorically
+assortment; other examples are genetic rearrangement associated            that it is a mere animation of neuronal activity lacking the power
+with the development of the immune system, and the process of X-           to affect this activity.” Similarly, Edelman argues that, “. . . a
+chromosome inactivation. Recently there have been numerous                 human being has a degree of free will. That freedom is not
+reports demonstrating a stochastic response at the level of tran-          radical, however, and it is curtailed by a number of internal and
+scription (10). Variations among individuals of isogenic lines,            external events and constraints.” (16).
+often ascribed to developmental noise, also likely reﬂect this sto-           Wilson has argued that, “because the individual mind cannot
+chasticism; similarly, the phenomena of penetrance and expres-             be fully known and predicted, the self can go on passionately
+sivity are also likely due to stochastic processes that are normally       believing in its own free will.... Without it, the mind, imprisoned
+minimized in the wild type and are uncovered in mutants. Of
+                                                                           by fatalism, would slow and deteriorate” (17). Crick proposed a
+particular relevance to this article, the formation of neuronal
+                                                                           model for free will whereby he addressed the reality concerning
+connections reﬂects a degree of stochasticism, with no two indi-
+                                                                           our consciousness of free will (18). Concerning the reality of free
+viduals, even those that are genetically identical and under con-
+                                                                           will in reference to the way we use this concept in society, he
+stant environment, displaying the identical neuronal network (11).
+                                                                           contemplated, “....could it not be that our Will only appears to be
+Hence, the popular debate concerning the relative importance of
+                                                                           free?” (18). In an interview shortly before he died, Crick
+genes and environment on behavior, is commonly inadequate for
+two reasons: both because it ignores the question of responsibility        expanded on his disbelief in free will. When asked if “those
+(or lack of) and because of the additional stochastic component            decisions you’ve just told me about, concerning your scientiﬁc
+that inﬂuences biology (12). A common practice in behavioral               choices . . . were made by underlying mechanical deterministic
+studies involving genetically identical twins is to ascribe any dif-       processes, and the feeling of will is an illusion,” Crick replied,
+ferences (a lack of concordance) to environmental factors—                 “That’s right. I think it must be deterministic” (19).
+clearly, if one accepts a role for stochasticism, this conclusion is not      Darwin was aware of the implications of his theories concerning
+necessarily correct, as aptly noted by Goodman (13). Rather, dif-          evolution in reference to free will as indicated in these notes: “This
+ferences in genetically identical twins may reﬂect not only envi-          view should teach one profound humility, one deserves no credit
+ronmental factors but also biological stochasticism.                       for anything. Nor ought one to blame others” (20).
+   The introduction of stochasticism would appear to eliminate                A willingness, or lack of willingness, to accept the notion of free
+determinism. However there are three additional points that need to        will is likely to be inﬂuenced by several factors, including the
+be addressed here. The ﬁrst point is that, at least in some instances,     following: ﬁrst, a constant personal awareness of making decisions
+what at ﬁrst glance may appear to be stochastic might simply reﬂect        that have the appearance of being driven by free will; and second,
+microenvironmental differences and may not be the direct con-              an awareness of the apparent usefulness of the concept, and hence
+sequence of some inherent stochastic property of atomic particles.         a reluctance to disturb the status quo. In reference to this second
+The second point is that some physicists, for example ’t Hooft (14),       possibility, note again the writing of Darwin: “This view will not do
+do not necessarily accept the apparent unpredictability associated         harm, because no one can be really fully convinced of its truth,
+with the quantum mechanical view of matter (It was concern about           except man who has thought very much, and he will know his
+this unpredictability that prompted Einstein to offer the viewpoint        happiness lays in doing good and being perfect, and therefore will
+that “God does not play dice”). Finally, even if the properties of         not be tempted, from knowing every thing he does is independent
+matter are conﬁrmed to be inherently stochastic, although this may         of himself to do harm.” Robert Wright’s (20) description of this
+remove the bugbear of determinism, it would do little to support the       writing of Darwin’s is, “In other words: So long as this knowledge
+notion of free will: I cannot be held responsible for my genes and my      is conﬁned to a few English gentlemen, and doesn’t infect the
+environment; similarly, I can hardly be held responsible for any           masses, everything will be all right.”
+stochastic process that may inﬂuence my behavior!                             Some will argue that free will could be explained by emergent
+   Having now introduced the three forces that govern behavior, it         properties that may be associated with neural networks. This is
+is appropriate, at this rather late stage, to deﬁne what is meant by       almost certainly correct in reference to the phenomenon of con-
+“free will.” Searle has described free will as the belief “that we         sciousness. However, as admirably appreciated by Epicurus and
+could often have done otherwise than we in fact did” (15). A dif-          Lucretius, in the absence of any hint of a mechanism that affects
+ﬁculty with this deﬁnition is that it does not distinguish free will       the activities of atoms in a manner that is not a direct and
+
+4500 | www.pnas.org/cgi/doi/10.1073/pnas.0915161107                                                                                      Cashmore
+                                                                                                                                                             INAUGURAL ARTICLE
+unavoidable consequence of the forces of GES, this line of                             In keeping with this line of thinking, are studies that indicate
+thinking is not informative in reference to the question of free will.              that consciousness is something that follows, and does not pre-
+   I suspect that we inherit a belief that free will is perfectly                   cede, unconscious neural activity in the brain. In experiments
+logical, and therefore not worthy of questioning. Note that the                     performed by Libet et al., subjects were asked to move a ﬁnger (at
+way we think is inﬂuenced by the inheritance of both cultural                       “will”) and electrophysiological measurements were determined,
+ideas (memes) as well as genetic material (21), and in some                         both for the ﬁnger and the brain (22). Activity of the brain pre-
+cases, ways of thinking may survive, somewhat in contrast to the                    ceded ﬁnger movement by ≈500 ms. When the participants were
+logic, or lack of that is associated with that process. The way we                  asked to record the time of their conscious decision to move their
+in society think about free will (and religion) is likely to be an                  ﬁnger, this also preceded ﬁnger movement (in keeping with the
+example of such a process—the line of thinking may have sur-                        apparent causal relationship between will and behavior). How-
+vival value, despite the fact that it is nonsensical and unsup-                     ever, this conscious awareness followed in time, by a full 300 ms,
+ported by any evidence.                                                             the initial onset of neural activity. Although such experiments are
+                                                                                    certainly not proof that consciousness is nothing more than a
+Consciousness—Cause or Effect?                                                      mechanism of following the activity of the brain, the observations
+I have argued that one of the reasons that it is common to believe                  are in keeping with this line of thought (23, 24). Furthermore, a
+in free will is the constant awareness of the capacity to make                      more sophisticated version of these experiments has recently been
+conscious decisions that appear to causally affect one’s behavior.                  performed whereby neural activity was measured, not by elec-
+                                                                                    trophysiological means but by functional magnetic resonance
+This relationship is depicted in Fig. 1A, where consciousness,
+                                                                                    imaging (fMRI). In these experiments, brain activity was detected
+reﬂecting in part a force WILL, impacts in a causal way the
+                                                                                    in the prefrontal and parietal cortex up to 10 s before subjects
+unconscious neural activity of the brain and thus affects behavior.
+                                                                                    were conscious of any decision-making process (25).
+The dilemma here, stressed throughout this article and illumi-                         Another phenomenon that is consistent with the idea that
+nated in Fig. 1, is that WILL has causal properties (WILL affects                   consciousness plays only a peripheral role in behavior is that of
+behavior) and yet WILL arises in a noncausal way; society                           blindsight. Individuals who have suffered damage to the striate
+“demands” that WILL be “free”—we want to be able to hold                            cortex of the brain often show varying degrees of blindness; they
+people accountable for their actions. Some might argue that there                   are not aware of being able to see. However, when such patients
+should be an arrow indicating information ﬂow from “uncon-                          are asked to make decisions that are dependent on their visual
+scious neural activity” to WILL (Fig. 1B). This would provide a                     ability, they clearly demonstrate some capacity to see, even
+causal component for WILL; however, WILL would then lose its                        though they are not conscious of it (26). In reference to Fig. 1C,
+“freedom”—it would then simply be a product of GES.                                 for such blindsight individuals, the pathway from GES to behavior
+   One resolution for this dilemma is that consciousness, rather than               is at least partly functional, even though a lesion in the brain has
+being a means by which we inﬂuence behavior, is simply a mecha-
+
+
+
+
+                                                                                                                                                             NEUROSCIENCE
+                                                                                    disrupted the link between the neural basis of vision and conscious
+nism by which we follow unconscious neural activity and behavior.                   awareness. Other behavioral phenomena that indicate a non-
+This model is depicted in Fig. 1C, where the causal component of                    essential role for the conscious mind are sleepwalking and some
+consciousness is the unconscious neural activity of the brain, and this             forms of concussion.
+in turn reﬂects GES; consciousness has no independent impact on                        I am constantly struck by the anomaly associated with the com-
+behavior. If there is a ﬂow of information from consciousness to                    monly accepted model of consciousness (depicted in Fig. 1A)—
+unconscious neural activity of the brain (Fig. 1C, arrow 2), then the               namely, WILL lacks any causal component. This problem of cau-
+causal component of this information does not differ in any way                     sality was appreciated by the Greeks more than 2,000 years ago; and
+from the input information (Fig. 1C, arrow 1).                                      yet, as far as I can tell (and after “constant” conversations on this
+                                                                                    topic for more than two decades), this anomaly is appreciated by
+                                                                                    only a relatively small fraction of my professional colleagues. I have
+    A                        B                         C                            suggested earlier that one of the reasons for the popular acceptance
+     WILL                      WILL                                                 of the notion of free will is the constant awareness of conscious
+                                                                                    thought processes that seem to affect our behavior. Biologists may
+            Conscious                 Conscious                Conscious            have an additional reason for entertaining the possibility that there
+                                       thought                  thought
+             thought
+                                                                                    is a biological basis to free will. In the space of a few decades,
+                                                                                    biologists have been remarkably successful in providing a molecular
+        1                2        1               2        1               2        and cellular framework for most of the fundamental problems in
+                                                                                    their ﬁeld. Examples include the description of DNA as the genetic
+           Unconscious              Unconscious
+                                                             Unconscious            material, the diversity of the immune system, a molecular genetic
+                                                                neural
+              neural
+             activity
+                                       neural
+                                      activity
+                                                               activity             basis for development, and a molecular model for circadian
+                                                                                    behavioral rhythms. It occurs to me that the conﬁdence associated
+    GES                       GES                      GES                          with these successes may contribute to the notion that eventually a
+                                          Behavior                 Behavior         molecular basis for free will be forthcoming. However, as noted,
+                Behavior
+                                                                                    there are “causal” difﬁculties with this line of thinking, as appre-
+Fig. 1. Models for the ﬂow of information between unconscious neural                ciated by the early Greeks and as discussed by some philosophers
+activity and conscious thought. In A, the commonly accepted model is shown          and biologists.
+whereby WILL inﬂuences conscious thought and, in turn, unconscious neural              Concerned that, in reading this article, some may continue to
+activity, to direct behavior. The difﬁculty with this model is that there is no     believe that the viewpoints questioning the validity of free will that
+causal component directing WILL. In B, a causal component for WILL is intro-        I have expressed here are those of an uninformed minority, I
+duced; however WILL now simply reﬂects unconscious neural activity and GES          would like now to quote some thoughts by some of the preeminent
+(genes, environment, and stochasticism). That is, WILL loses its “freedom.” In C,
+                                                                                    thinkers of recent centuries. The famous Scottish philosopher
+WILL is dispensed with, and conscious thought is simply a reﬂection of
+unconscious neural activity and GES. Conscious thought is now primarily a
+                                                                                    David Hume, in his discussion of Liberty and Necessity, stated that
+means of following—more than a means of inﬂuencing—the direction of                 “whatever capricious and irregular actions we may perform, as the
+behavior by unconscious neural activity. This subservient role of conscious         desire of showing our liberty is the sole motive force of our
+thought in directing behavior in model C, is indicated by the dotted arrow 2        actions, we can never free ourselves from the bonds of necessity.”
+(contrasting with the solid line for the corresponding arrow in A and B).           (27). Thomas Huxley stated, “The feeling we call volition is not
+
+Cashmore                                                                                                  PNAS | March 9, 2010 | vol. 107 | no. 10 | 4501
+the cause of the voluntary act, but simply the symbol in con-               function. I believe it does, and from this I assume that it must
+sciousness of the stage of the brain which is the immediate cause           give rise to an evolutionary selective advantage. Consciousness
+of the act. Like the steam whistle which signals but doesn’t cause          confers the illusion of responsibility. No wonder the belief in free
+the starting of the locomotive” (28).                                       will is so prevalent in society—the very survival of those “selﬁsh
+   In a similar vein Albert Einstein said, “If the moon, in the act         free-will genes” is predicated on their capacity to con one into
+of completing its eternal way around the earth, were gifted with            believing in free will!
+self-consciousness, it would be fully convinced that it was trav-              A belief in free will is akin to religious beliefs. Indeed, I would
+eling its way of its own accord. . . So would a Being, endowed              argue that free will makes “logical sense,” as long as one has the
+with higher insight and more perfect intelligence, watching man             luxury of the “causal magic” of religion. Neither religious beliefs, nor
+and his doings, smile about man’s illusion that he was acting               a belief in free will, comply with the laws of the physical world.
+according to his own free will” (29).                                       However, despite this similarity, although in scientiﬁc circles a
+   When we add these quotations to those referred to earlier by             skeptical viewpoint is very common regarding religious forces and
+Darwin and Crick, it is clear that the willingness of many present-         their day-to-day impact on biological systems, it is my observation
+day biologists to rather uncritically accept the notion of free will        that similar skepticism is not widely held regarding a belief in free will.
+is not obviously in keeping with the lines of thought expressed by             If the existence of free will is so widely accepted and has strong
+some of the greatest minds of the last three centuries. Ques-               survival value, then why would we want to change it? Because, as a
+tioning the causal anomalies of the popular notions of human                consequence of the advance in our understanding of the molec-
+behavior is, thankfully, not restricted to the early Greeks!                ular basis of human behavior, it will become increasingly difﬁcult
+                                                                            to entertain this fallacy that currently has such a strong inﬂuence
+The Selective Advantage of Consciousness                                    in the way we govern society. As Crick has written in reference to
+In discussing free will, Susan Blackmore has noted that “many               the relationship between human values and scientiﬁc knowledge,
+scientists believe that the real causal factors are all those interacting   “To construct a New System of the World we need both inspira-
+neurons that do many things including creating a sense of self, and a       tion and imagination, but imagination building on ﬂawed foun-
+sense of free will—both of which are illusions” (19). She goes on to        dations will, in the long run, fail to satisfy. Dream as we may,
+say, “I think nature has played this enormous joke on us.” In               reality knocks relentlessly at the door. Even if perceived reality is
+addressing the same issue, Rita Carter has asked, “If free will is an       largely a construct of our brains, it has to chime with the real world
+illusion and each of our actions is determined by unconscious               or eventually we grow dissatisﬁed with it” (18).
+cognitive processes in response to external stimuli, why should our
+brains delude us into thinking otherwise?” (30). A variation on this        The Criminal Justice System
+question is: what is the evolutionary selective advantage of con-           Our understanding of the functioning of the brain and the
+sciousness? One answer to this question is that consciousness pro-          molecular details that result in individual acts of behavior has
+vides us with an apparent sense of responsibility: “Along with the          implications for the criminal justice system. Furthermore,
+illusion of control, our sense of agency brings the burdens of indi-        although it may be relatively easy to critically comment on the
+vidual responsibility. Though this may sometimes weigh heavily on           popular thinking about free will, it is not quite so easy to introduce
+us personally, for society as a whole it is hugely beneﬁcial. Our           alternatives to the notion of free will and responsibility that
+entire morality and judicial system is dependent on everyone                presently form an integral component of the judicial system. In
+accepting that they are agents of their own misdeeds, and those who         Anglo-American law, for a person to be found guilty of a crime, he
+don’t acknowledge this are—by legal deﬁnition—insane. We may                must be aware of his wrongdoing at the time of the crime—he must
+not consciously control our own actions, but the cognitive mecha-           display mens rea: that is, the mind must be guilty. In certain cir-
+nisms that create the illusion that we do keep society functioning”         cumstances, a defendant can be found not guilty by reason of
+(30). A similar argument has been made by Wegner: “The ability to           insanity. Rules governing this defense vary according to country
+know what one will do . . . would seem to be an important human             and state, but many are based on the M’Naghten rules, which for a
+asset. . .. This preview function could be fundamentally important          claim of insanity, required that: “the party accused was laboring
+for the facilitation of social interaction” (23).                           under such a defect of reason, from disease of the mind, as not to
+   I ﬁnd that the above are attractive explanations for the existence       know the nature and the quality of the act he was doing; or, if he did
+(the selective advantage) of consciousness. Furthermore, I believe          know it, that he did not know he was doing what was wrong” (32).
+that for these to be true, and somewhat in contrast to the above               In fact, the successful application of the insanity defense is quite
+conclusions derived from Libet’s “ﬁnger moving experiment,” there           rare, both in the United States and elsewhere. An example where
+must be a mechanism by which consciousness does inﬂuence                    such a defense was not successful concerned the case of Jeffrey
+behavior. There must be a ﬂow of information from consciousness             Dahmer, who was found guilty and sentenced to 957 years in
+to neural activity (Fig. 1C, arrow 2). However, in keeping with the         prison (where he was subsequently murdered) for the death of
+requirement for causality and the necessity to comply with the laws         seventeen young men from 1978 to 1991. Dahmer was a necro-
+of nature, this ﬂow of information provides nothing other than a            philiac, performing gross sexual acts on the dead bodies, as well as
+product of the input information (Fig. 1C, arrow 1). Although, like         performing frontal lobotomies and boiling their skulls in acid. The
+any biosynthetic process, the product may be quite distinct from the        rationale for the guilty verdict was that it was claimed that he knew
+input material, it is still a direct consequence of these materials.        what he was doing was wrong, as evidenced by the fact that he lied
+I suggest that consciousness acts on behavior in a similar manner,          to the police about his activities. I raise this case to illustrate two
+such as to commonly reinforce the negative effects that are asso-           points: First, the legal system assumes a capacity for individuals
+ciated with antisocial behavior. Similarly, for some of us, con-            not only to distinguish between right and wrong, but to act
+sciousness heightens our desire to listen to music, for example, or to      according to those distinctions—that is, an integral component of
+watch or participate in sporting activities. Whereas the impressions        the legal system is a belief in free will. Furthermore, the legal
+are that we are making “free” conscious decisions, the reality is that      system assumes that it is possible to distinguish those individuals
+consciousness is simply a state of awareness that reﬂects the input         who have this capacity of free will from those who lack it (32).
+signals, and these are an unavoidable consequence of GES. The                  To many there is clearly a difﬁculty—indeed, a disturbing
+mechanistic details of these conscious processes are unknown, and           degree of arbitrariness—associated with any decision that eval-
+remain the major unsolved problem in biology (31).                          uates the degree of mental and legal responsibility that accom-
+   In summary, then, I believe that free will is clearly an illusion.       panies such criminal acts. Indeed, there is extensive and ongoing
+However, this is not to say that consciousness does not have a              debate concerning this topic (32). As noted by Lady Barbara
+
+4502 | www.pnas.org/cgi/doi/10.1073/pnas.0915161107                                                                                          Cashmore
+                                                                                                                                                       INAUGURAL ARTICLE
+Wootton, the British criminologist, “If mental health and ill-             duced, include those expressed by Wootton (33), Menninger (36),
+health cannot be deﬁned in objective scientiﬁc terms that are free         and, more recently, Greene and Cohen (37). Also I note that I am
+of subjective moral judgments, it follows that we have no reliable         not the ﬁrst to propose that psychiatrists should be excluded from
+criterion by which to distinguish the sick from the healthy mind.          the initial court proceedings; Glueck (38) and Menninger (36), for
+The road is then wide open . . . to dispense with the concept of           example, who both had substantially more expertise than I have in
+responsibility altogether” (33). And, as argued by the New York            this ﬁeld, long ago made similar suggestions.
+psychiatrist Abraham Halpern, “There is no morally sound basis                Here, at this rather late stage, I should acknowledge that it has
+to select a mental disease or defect as a justiﬁcation for exculp-         been argued by Morse that the question of free will does not form
+ability while excluding other behavioral determinants, such as             part of the US legal system (39). This being the case, then even
+heredity, poverty, family environment, and cultural deprivation.”          though the law assumes that the brain can function as a responsible
+(34). And as noted by Wilson and Herrnstein, “The recurrent                decision-making machine in a manner that is not simply a reﬂec-
+theme for the concept of responsibility, hence for the appropri-           tion of the genetic and environmental input, this assumption is
+ateness of punishment, is behavior freely and intentionally                apparently made without actually using the term “free will.” In
+engaged in. The difﬁculty is that this conception places the legal         keeping with this line of thinking, Morse notes, “The law does not
+sanction against offensive behavior in direct confrontation with           treat people generally as non-intentional creatures or mechanical
+the sciences of human behavior. If society should not punish acts          forces of nature. It could not be otherwise.” In response to this,
+that science has shown to have been caused by antecedent con-              I provide another quotation of Thomas Huxley: “Volition . . . is
+ditions, then every advance in knowledge about why people                  an emotion indicative of physical changes, not a cause of such
+behave as they do may shrink the scope of criminal law” (35).              changes . . . The soul stands to the body as the bell of the clock to
+                                                                           the works, and consciousness answers to the sound which the bell
+A Proposal
+                                                                           gives out when struck. . .. We are conscious automata.” (28). That
+If free will is an illusion, then it becomes more difﬁcult to hold         is, Huxley believed (as I and many others do) that we are
+people responsible for their actions. I have argued that one of the        mechanical forces of nature and that, by some mechanism we have
+reasons that individuals have been so reluctant to question the            evolved the phenomenon of consciousness, which, I would argue,
+reality of free will is the belief that it would be difﬁcult for society   has conferred upon us the illusion of responsibility. Furthermore, I
+to function under a system in which this concept was abandoned.            believe that it is time for the legal system to confront this reality—
+However, this has not stopped people from speculating about the            increasingly indicated by studies in both genetics and neuro-
+inadequacies of the present system and alternative possibilities.          sciences—that we are indeed “mechanical forces of nature.”
+As argued by Wright, “All told, then, “free will” has been a fairly
+useful ﬁction, a rough proxy for utilitarian justice. But all of the       Concluding Thoughts
+time-wasting debates now in progress (Is alcoholism a disease?             I noted earlier that belief in what I refer to as the magic of the soul
+Are sex crimes an addiction? . . .) suggest that it is beginning to
+
+
+
+
+                                                                                                                                                       NEUROSCIENCE
+                                                                           and Cartesian dualism has ostensibly disappeared. The emphasis that
+outlive its usefulness. After another decade or two of biological
+                                                                           I now give to “ostensibly” reﬂects my belief that, in the absence of any
+research, it may be more trouble than it’s worth; and in the
+                                                                           molecular model accommodating the concept of free will, I have to
+meantime, the scope of “free will” may have shrunk considerably”
+                                                                           conclude that the dualism of Descartes is alive and well. That is, just
+(20). Wright then suggests, as one alternative, that we “....dispense
+                                                                           like Descartes, we still believe (much as we pretend otherwise) that
+with volition altogether and adopt explicit utilitarian criteria
+                                                                           there is a magic component to human behavior. Here I argue that the
+of punishment.”
+                                                                           way we use the concept of free will is nonsensical. The beauty of the
+   Progress in understanding the chemical basis of behavior will
+make it increasingly untenable to retain a belief in the concept of        mind of man has nothing to do with free will or any unique hold that
+free will. To retain any degree of reality, the criminal justice system    biology has on select laws of physics or chemistry. This beauty lies in
+will need to adjust accordingly. However, to retain a degree of            the complexity of the chemistry and cell biology of the brain, which
+orderliness in society it will still be necessary to incarcerate indi-     enables a select few of us to compose like Mozart and Verdi, and the
+viduals found guilty of certain criminal acts. This is rationalized in     rest of us to appreciate listening to these compositions. The reality is,
+various ways including the following: To a), protect society; b),          not only do we have no more free will than a ﬂy or a bacterium, in
+protect the offending individuals from society; c), provide such           actuality we have no more free will than a bowl of sugar. The laws of
+individuals with appropriate psychiatric help; d), act as a deterrent      nature are uniform throughout, and these laws do not accommodate
+(the act of incarceration and the presence of a criminal code              the concept of free will. Some will argue that once we understand
+forming part of the environment); and e), alleviate the pain of the        better the mechanistic details that underlie consciousness, then we
+victim. The proposal is a pragmatic one, based on the belief that          will understand free will. Whatever the complexities of the molecular
+the welfare of society at large is more important than the welfare of      details of consciousness are, they are unlikely to involve any new law
+the individual offender.                                                   in physics that would break the causal laws of nature in a non-
+   One might ask: How does this proposal differ from the present           stochastic way. If I am wrong on this point, then I eagerly await the
+system? Whereas in some ways, not signiﬁcantly; in other ways it           elucidation of this principle. In the meantime it would be prudent to
+differs fundamentally. The primary difference would be the                 assume (in keeping with the thoughts of William of Occam, where
+elimination of the illogical concept that individuals are in control       one always adopts the simplest of competing hypotheses) that any
+of their behavior in a manner that is something other than a               search for some new “Lucretian” law of physics, or some startlingly
+reﬂection of their genetic makeup and their environmental history.         novel emergent principle, will not be successful.
+Furthermore, psychiatrists and other experts on human behavior                Many believe that the consequences of a society lacking free
+should be eliminated from the initial judicial proceedings—the             will would be disastrous. In contrast, I argue that we do not
+role of the jury would be to simply determine whether or not the           necessarily need to be pessimistic about confronting a world
+defendant was guilty of committing the crime; the mental state of          lacking free will. Indeed, it is quite possible that progress in some
+the defendant would play no part in this decision. However, if a           of the more vexing sociological problems may be better achieved
+defendant were found guilty, then a court-appointed panel of               once we clarify our thinking concerning the concepts of free will
+experts would play a role in advising on matters of punishment and         and fault. Certainly, crime is a problem that society has much
+treatment. This is a system that would hopefully minimize the              difﬁculty dealing with, and in the United States we have the
+retributive aspect of criminal law; concerns about this aspect of          highest rate of incarceration in the world (40). For these and
+law, which have probably been around since laws were ﬁrst intro-           other reasons, surely it is inexcusable that in addressing these
+
+Cashmore                                                                                          PNAS | March 9, 2010 | vol. 107 | no. 10 | 4503
+problems we continue to entertain this fallacious assumption                                continuing belief in vitalism—a concept that we like to think we
+concerning the most basic feature of human behavior.                                        discarded well over 100 years ago! It is my concern, that this vital-
+   Finally, I would like to make the following point: In the intro-                         istic way of thinking about human behavior—a style of thinking that
+ductory chapter of many undergraduate texts dealing with biology                            is present throughout our scientiﬁc institutions—serves only to
+or biochemistry, it is common to stress (as I have in this article) that                    hinder what should be a major onslaught on determining the
+biological systems obey the laws of chemistry and physics; as living                        molecular genetic and chemical basis of human behavior.
+systems we are nothing more than a bag of chemicals. It is almost
+with a sense of pride that the authors of such texts may contrast this                      ACKNOWLEDGMENTS. I thank the many colleagues who have participated
+understanding with the alternative earlier belief in vitalism—the                           in discussions on this topic over the years. Particular thanks are given to Eran
+                                                                                            Pichersky (University of Michigan, Ann Arbor, MI) and to Nancy Bonini and
+belief that there are forces governing the biological world that are                        Sally Zigmond (University of Pennsylvania, Philadelphia, PA) for their com-
+distinct from those that determine the physical world. The irony                            ments and support. I also thank the reviewers of this manuscript for their
+here is that in reality, a belief in free will is nothing less than a                       many helpful comments.
+
+
+ 1. de Duve C (1995) Vital Dust (Basic Books, New York).                                    22. Libet B, Gleason CA, Wright EW, Pearl DK (1983) Time of conscious intention to act in
+ 2. Dennett DC (1984) Elbow Room: The Varieties of Free Will Worth Wanting (MIT Press,          relation to onset of cerebral activity (readiness-potential). The unconscious initiation
+    Cambridge, MA).                                                                             of a freely voluntary act. Brain 106:623–642.
+ 3. Lucretius (1951) On the Nature of the Universe (Penguin, Harmondsworth); trans          23. Wegner DM (2003) The Illusion of Conscious Will (MIT Press, Cambridge).
+    Latham RE.                                                                              24. Libet B (2005) The Temporal Factor in Consciousness (Harvard University Press,
+ 4. Homer (1990) The Iliad (Penguin Books, New York); trans Fagles R.                           Cambridge).
+ 5. Descartes R (2003) Discourse on Method and Meditations (Dover Publications); trans      25. Soon CS, Brass M, Heinze HJ, Haynes JD (2008) Unconscious determinants of free
+    Haldane ES and Ross GRT.                                                                    decisions in the human brain. Nat Neurosci 11:543–545.
+ 6. Eccles JC (1989) Evolution of the Brain (Routledge, London, New York).                  26. Weiskrantz L (1997) Consciousness Lost and Found (Oxford University Press, Oxford, UK).
+ 7. Damasio AR (1994) Descartes’ Error: Emotion, Reason, and the Human Brain (Avon          27. Hume D (1739) A Treatise of Human Nature (Oxford University Press, 2002, Oxford).
+    Books, New York).                                                                       28. Huxley T (1874) On the Hypothesis That Animls Are Automata, and Its History
+ 8. Dennett DC (2003) Freedom Evolves (Viking, New York).                                       (University Publications of America, 1978, Washington, DC).
+ 9. Schrodinger E (1944) What Is Life? The Physical Aspects of the Living Cell (Cambridge   29. Home D, Robinson A (1995) Einstein and Tagore: Man, Nature and Mysticism. J
+    University Press, Cambridge).                                                               Conscious Stud 2:167–179.
+10. Ford E, Thanos D (2009) Time’s up: Bursting out of transcription. Cell 138:430–432.     30. Carter R (2002) Exploring Consciousness (University of California Press, Berkeley).
+11. Macagno ER, Lopresti V, Levinthal C (1973) Structure and development of neuronal        31. Koch C (2004) The Quest for Consciouusness: A Neurobiological Approach (Roberts,
+    connections in isogenic organisms: Variations and similarities in the optic system of       Englewood, CO).
+    Daphnia magna. Proc Natl Acad Sci USA 70:57–61.                                         32. Reznek L (1997) Evil or Ill: Justifying the Insanity Defence (Routledge, London).
+12. Monod J (1971) Chance and Necessity (Knopf, New York).                                  33. Wootton B (1959) Social Science and Social Policy (Macmillan, New York).
+13. Goodman R (1991) Growing Togethor and Growing Apart: The Non-Genetic Forces on          34. Halpern A (1977) The insanity defence: A judicial anachronism. Psychiatr Ann 7:
+    Children in the Same Family. The New Genetics of Mental Illness, eds Mc Gufﬁn P,            398–409.
+    Murray R (Butterworth-Heinemann, Oxford), pp 212–224.                                   35. Wilson JQ, Herrnstein RJ (1985) Crime and Human Nature: The Deﬁnitive Study of the
+14. ‘t Hooft G (2005) A theory of everything? Nature 433:257.                                   Causes of Crime (Simon and Schuster, New York).
+15. Searle J (1984) Minds, Brains and Science (Harvard University Press, Cambridge, MA).    36. Menninger K (1968) The Crime of Punishment (Viking, New York).
+16. Edelman G (1992) Bright Air, Brilliant Fire: On the Matter of the Mind (Basic Books,    37. Greene J, Cohen J (2004) For the law, neuroscience changes nothing and everything.
+    New York).                                                                                  Philos Trans R Soc Lond B Biol Sci 359:1775–1785.
+17. Wilson EO (1998) Consilience: The Unity of Knowledge (Knopf, New York).                 38. Glueck G (1936) Crime and Justice (Little Brown, Boston).
+18. Crick F (1994) The Astonishing Hypothesis (Simon & Schuster, New York).                 39. Morse SJ (2007) The non-problem of free will in forensic psychiatry and psychology.
+19. Blackmore S (2006) Conversations on Consciousness (Oxford University Press, Oxford).        Behav Sci Law 25:203–220.
+20. Wright R (1994) The Moral Animal (Pantheon Books, New York).                            40. Walmsley R (2007) World Prison Population List (Internation Center for Prison Studies,
+21. Dawkins R (1989) The Selﬁsh Gene (Oxford University Press, Oxford).                         School of Law, King’s College, London), 7th Ed.
+
+
+
+
+4504 | www.pnas.org/cgi/doi/10.1073/pnas.0915161107                                                                                                                         Cashmore
+

@@ -1,0 +1,964 @@
+                                                                      T E R R E N C E W. D E A C O N
+                                                                 University of California, Berkeley
+
+
+                           8
+                           What is missing from theories
+                           of information?
+
+
+                          Theories of information that attempt to sort out problems con-
+                   cerning the status and efﬁcacy of its content – as it is understood
+                   in thoughts, meanings, signs, intended actions, and so forth – have
+                   so far failed to resolve a crucial dilemma: how what is represented
+                   could possibly have physical consequences. The legacy of this has
+                   been played out in various skeptical paradigms that either conclude
+                   that content is fundamentally relativistic, holistic, and ungrounded
+                   or else is merely epiphenomenal and ineffectual except for its arbi-
+                   trary correlation with the physical properties of the signs that convey
+                   it. In this chapter I argue that the apparent conundrums that make
+                   this notion controversial arise because we begin our deliberations
+                   with the fallacious assumption that in order for the content of infor-
+                   mation to have any genuine real world consequences it must have
+                   substantial properties, and so must correspond to something present
+                   in some form or other. By contrast, I will show that this assump-
+                   tion is invalid and is the ultimate origin of these absurd skeptical
+                   consequences.
+                          The crucial property of content that must be taken into account
+                   is exactly the opposite: its absence. But how is it possible for a speciﬁc
+                   absence to have deﬁnite causal consequences? A crucial clue is provided
+                   by Claude Shannon’s analysis of information in terms of constraint on
+                   the entropy (possible variety) of signs/signals (Shannon, 1948; Shannon
+                   and Weaver, 1949). In other words, the capacity to convey information
+                   is dependent on a relationship to something that is speciﬁcally not
+                   produced. But such a change in the Shannon entropy of a physical
+                   medium is also necessarily a physical change, and this must be a prod-
+                   uct of extrinsic work. In addition, contra Shannon, even when there is
+                   no change in Shannon entropy where a change is possible, this can be
+                   informative because it indicates the absence of some speciﬁc form of                    123
+
+
+
+
+9780521762250c08_p123-142.indd 123                                                                     4/26/2010 4:23:52 PM
+         124          Terrence W. Deacon
+
+
+                      extrinsic inﬂuence. Both conditions are determined with respect to a
+                      potential inﬂuence on the form of the semiotic medium that is extrin-
+                      sic to it. These explicit extrinsic sources of potential signal constraint
+                      constitute the ground of the referential capacity by which informa-
+                      tion is deﬁned. Moreover, I will argue that a process capable of inter-
+                      preting the reference implicit in such signal constraints depends on
+                      coupling the context-dependent signal generation process to a speciﬁc
+                      extrinsic source of that constraint that is relevant to the existence and
+                      maintenance of this interpretive process. Such a linking relationship
+                      is provided by a self-sustaining non-equilibrium thermodynamic pro-
+                      cess, such as that characterizing living organisms. Such a process is
+                      capable of interpreting something as information about something
+                      else because such systems are necessarily open to and dependent on
+                      a precise correlation between intrinsic dynamics and extrinsic condi-
+                      tions. Thus constraints exhibited in certain substrates, which are in
+                      some way correlated both with maintenance of this unstable condi-
+                      tion and with non-intrinsic or absent conditions that are relevant to
+                      this maintenance, can “matter” to its persistence. Failure to explain
+                      this relationship to absence is why past efforts to reduce information
+                      to a measurable physical substrate (Shannon information) or to treat it
+                      as a primitive nonphysical phenomenon (versions of phenomenology)
+                      both led to absurd consequences.
+
+
+                               8 .1 I N T R O D U C T I O N
+
+                      It is often said that we are living in the “information age,” but although
+                      we use the concept of information almost daily without confusion,
+                      and we build machinery (computers) and network systems to move,
+                      analyze, and store it, I believe that we still do not really know what
+                      it is. The ubiquity of the concept of information in our present age is
+                      largely a consequence of the invention, perfection, and widespread
+                      use of computers and related devices. In our everyday lives informa-
+                      tion is a necessity and a commodity. We routinely measure the infor-
+                      mation capacity of silicon, magnetic, or laser data-storage devices, and
+                      ﬁnd ourselves guarding, sharing, or selling information. The import-
+                      ance of understanding and managing information has penetrated to
+                      the most technical and most mundane realms of daily life. Molecular
+                      biologists have recently mapped the molecular information “con-
+                      tained” in the human genome, and the melding of computer technol-
+                      ogy with molecular biology has spawned an entirely new ﬁeld, dubbed
+                      bioinformatics, that promises radical new medical technologies and
+
+
+
+
+9780521762250c08_p123-142.indd 124                                                             4/26/2010 4:23:52 PM
+                                                 What is missing from theories of information?       125
+
+                   unprecedented threats to privacy. Even household users of internet
+                   communication are sensitive to the information bandwidth of the
+                   cable and wireless networks that they depend on for connection to
+                   the outside world.
+                          It is my contention, however, that we are currently working
+                   with a set of assumptions about information that are just barely sufﬁ-
+                   cient to handle the tracking of its most minimal physical and logical
+                   attributes, but which are insufﬁcient to understand either its deﬁning
+                   representational character or its pragmatic consequences. For more
+                   than half a century we have known how to measure the information-
+                   conveying capacity of any given communication medium, and yet we
+                   cannot give an account of how this relates to the content that this
+                   signal may or may not represent. These are serious shortcomings that
+                   impede progress in a broad range of endeavors, from the study of basic
+                   biological processes to the analysis of global economics.
+                          It is a disturbing fact that, despite the centrality of the concept
+                   in our daily lives, we are entirely lacking a clear physical account that
+                   explains how information about some abstract concept can have mas-
+                   sive and sometimes devastating physical consequences. Consider the
+                   concept of “patriotism.” Despite the fact that there is no speciﬁc phys-
+                   ical object or process that constitutes the content of this word, and
+                   nothing intrinsic to the sound of the word or its production by a brain
+                   that involves more than a tiny amount of energy, its use can contrib-
+                   ute to the release of vast amounts of energy unleashed to destroy life
+                   and demolish buildings (as in warfare). This is evidence that we are
+                   both woefully ignorant of a fundamental causal principle in the uni-
+                   verse and in desperate need of such a theory.
+                          In many ways, we are in a position analogous to the early-
+                   nineteenth-century physicists in the heyday of the industrial age (with
+                   its explosive development of self-powered machines for transporta-
+                   tion, industry, timekeeping, etc.), whose conception of energy was still
+                   framed in terms of ethereal substances, such as “caloric,” “phlogis-
+                   ton,” and the “élan vital” that were presumably transferred from place
+                   to place to animate machines and organisms. The colloquial notion
+                   of information is likewise conceived of in substance-like terms, as for
+                   example when we describe movement, storage, or sales of information.
+                   The development of the general concept of energy took many decades
+                   to clarify, even though the exploitation of energy was a deﬁning fea-
+                   ture of that era. The concept was ultimately demystiﬁed by recogniz-
+                   ing that energy was not a substance, but rather a constant dynamical
+                   parameter that was transformed and yet conserved in processes of
+
+
+
+
+9780521762250c08_p123-142.indd 125                                                               4/26/2010 4:23:53 PM
+         126          Terrence W. Deacon
+
+
+                      induced change. The conceptions of energy as ineffable ether or as
+                      special substance were abandoned for a dynamical relational account.
+                      With this reframing, many once-mysterious phenomena became sub-
+                      ject to exact analysis and the basis for myriad new technologies.
+                             Similarly, I argue that in order to develop a full scientiﬁc under-
+                      standing of information we will be required to give up thinking about
+                      it, even metaphorically, as some artifact or commodity. To make sense
+                      of the implicit representational function that distinguishes informa-
+                      tion from other merely physical relationships, we will need to ﬁnd a
+                      precise way to characterize its deﬁning non-intrinsic feature – its ref-
+                      erential content – and show how it can be causally efﬁcacious despite
+                      its physical absence. The enigmatic status of this relationship was elo-
+                      quently, if enigmatically, framed by Brentano’s use of the term “inex-
+                      istence” when describing mental phenomena.
+                               Every mental phenomenon is characterized by what the Scholastics
+                               of the Middle Ages called the intentional (or mental) inexistence of an
+                               object, and what we might call, though not wholly unambiguously,
+                               reference to a content, direction toward an object (which is not to be
+                               understood here as meaning a thing), or immanent objectivity.
+                                 This intentional inexistence is characteristic exclusively of mental
+                               phenomena. No physical phenomenon exhibits anything like it. We
+                               can, therefore, deﬁne mental phenomena by saying that they are those
+                               phenomena which contain an object intentionally within themselves
+                               (Brentano, 1874).
+
+                             As I will argue below, both the engineer’s identiﬁcation of infor-
+                      mation with the reduction of signal uncertainty and the intuitively
+                      attractive phenomenological conception of information as an irredu-
+                      cible “aboutness” relationship that is “always already there,” simply
+                      take this enigmatic relationship to something not-quite-existent for
+                      granted. The ﬁrst takes it for granted but then proceeds to bracket it
+                      from consideration to deal with physically measurable features of the
+                      informational medium. The second treats it as an unanalyzed primi-
+                      tive, and brackets its necessary physicality and efﬁcacy from consider-
+                      ation in order to focus on intrinsic attributes. Neither characterization
+                      provides criteria that explicitly distinguish merely physical or logical
+                      relationships from those that convey information.
+                             The concept of information is a central unifying concept in the
+                      sciences. It plays crucial roles in physics, computation and control the-
+                      ory, biology, cognitive neuroscience, and of course the social sciences.
+                      It is, however, employed somewhat differently in each ﬁeld, to the
+                      extent that the aspects of the concept that are most relevant to each
+
+
+
+
+9780521762250c08_p123-142.indd 126                                                                       4/26/2010 4:23:53 PM
+                                                 What is missing from theories of information?        127
+
+                   may be almost entirely non-overlapping. More seriously, the most
+                   precise and technical deﬁnition used in communication engineering,
+                   computational theory, and quantum physics completely ignores those
+                   features that distinguish information from any other causal relation-
+                   ship. This promiscuity threatens to make the concept of information
+                   either so amorphous that it provides no insight into the physical
+                   distinctiveness of living and mental relationships, or else licenses a
+                   retreat into a sort of methodological dualism.
+                          Ultimately, the concept of information has been a victim of a
+                   philosophical impasse that has a long and contentious history: the
+                   problem of specifying the ontological status of the representations
+                   or contents of our thoughts. The problem that lingers behind deﬁn-
+                   itions of information boils down to a simple question: How can the
+                   content (aka meaning, reference, signiﬁcant aboutness) of a sign or
+                   thought have any causal efﬁcacy in the world if it is by deﬁnition not
+                   intrinsic to whatever physical object or process represents it? In other
+                   words, there is a paradox implicit in representational relationships.
+                   The content of a sign or signal is not an intrinsic property of whatever
+                   physically constitutes it. Rather, exactly the opposite is the case. The
+                   property of something that warrants calling something information,
+                   in the usual sense, is that it is something that the sign or signal convey-
+                   ing it is not. I will refer to this as “the absent content problem.” Classic
+                   conundrums about the nature of thought and meaning all trace their
+                   origin to this simple and obvious fact.
+                          This relationship has often been framed as a mapping or corres-
+                   pondence between a sign or idea in the mind and this something else,
+                   which is not present. As countless critics have pointed out, however,
+                   this superﬁcially reasonable account fails to identify any features of
+                   this relationship that distinguish it from other merely physical rela-
+                   tionships. Consider the classic example of a wax impression left by
+                   a signet ring in wax. Except for the mind that interprets it, the wax
+                   impression is just wax, the ring is just a metallic form, and their con-
+                   junction at a time when the wax was still warm and malleable was
+                   just a physical event in which one object alters another when they are
+                   brought into contact. In these facts there is nothing to distinguish it
+                   from any other physical interaction. Something more makes the wax
+                   impression a sign that conveys information. It must be interpreted
+                   by someone. Unfortunately, this obvious answer is ultimately circular.
+                   What we invoke with an interpreting mind is just what we hope to
+                   explain. The process we call interpretation is the generation of men-
+                   tal signs interpreting extrinsic signs. So we are left with the same
+
+
+
+
+9780521762250c08_p123-142.indd 127                                                                4/26/2010 4:23:53 PM
+         128          Terrence W. Deacon
+
+
+                      problem inside as outside the mental world. The problem of specifying
+                      how a speciﬁc content is both not physically present and yet inheres
+                      in some way in the sign and interpretive process is no better grounded
+                      in neurological processes than it is outside of brains.
+
+
+                               8 .2 M E A N I N G S O F I N F O R M A T I O N
+
+                      There is, additionally, a troublesome ambiguity in the term “infor-
+                      mation” that tends to confuse the analysis. This term is used to talk
+                      about a number of different kinds of relationships, and often inter-
+                      changeably without discerning between them. It can refer to the
+                      sign or signal features themselves, irrespective of any meaning or
+                      reference, as in the information content in bits (binary digits) of the
+                      computer ﬁle encoding this chapter. This is sometimes called syn-
+                      tactic information. It can refer to what these bits refer to, as in the
+                      ideas I am hoping to communicate. This is sometimes called seman-
+                      tic information. And it can refer to that aspect of these ideas that is
+                      news to you the reader, and thus not merely redundant as it might be
+                      to experts in the ﬁeld. This is sometimes called pragmatic informa-
+                      tion. Currently, the ﬁrst of these meanings has grown in prominence,
+                      mostly as a result of our contemporary familiarity with, and depend-
+                      ence on, computing.
+                             This document was created on multiple computers, and in the
+                      process I have shared draft versions back and forth with colleagues
+                      by sending the information over the Internet. But what exactly was
+                      sent? The answer is: a series of high and low voltage values, crudely
+                      analogous to Morse code, organized into sets of eight 1s and 0s that
+                      together code for an alpha-numeric character or some operation with
+                      respect to these. The computers at each end of the process are set up
+                      to encode and decode this sequence of shifts in voltage in the same
+                      way. For the user, this is accomplished invisibly. All we see are letters
+                      arranged on the screen. Clearly using the terms above we can say that
+                      syntactic information is being exchanged back and forth, in the form
+                      of numbers of distinguishable signals, and hopefully these signals also
+                      convey semantic and pragmatic information as well.
+                             But would we still call it information in any of these senses if
+                      there were no people involved? And to make it a bit more like sci-
+                      ence ﬁction, would we still call it information if by wild coincidence
+                      a large collection of molecules just spontaneously came together to
+                      make two computers organized just this way, sending signals back
+
+
+
+
+9780521762250c08_p123-142.indd 128                                                            4/26/2010 4:23:53 PM
+                                                          What is missing from theories of information?               129
+
+                   and forth identical to those I have recently sent?1 This would certainly
+                   not qualify as semantic or pragmatic information. What if the signal
+                   was composed of randomly generated gibberish rather than English?
+                   Would this exclude it from even being described as syntactic informa-
+                   tion? Presumably, for any ﬁnite length of randomly generated signals
+                   a suitable code could be deﬁned that would change it into English
+                   text. Does this possibility change anything? Ultimately, there is noth-
+                   ing intrinsic to such a string of signals to distinguish it from encrypted
+                   English. Is the potential to be translated into a form that could be
+                   assigned a meaning sufﬁcient to make it information? If so, then any
+                   signal, from any source, however produced and sent, would qualify as
+                   syntactic information.
+                          In current computer technology, the rapidly ﬂipping voltages
+                   that constitute the operations of a computer can be translated to and
+                   from the pattern of microscopic pits burned into a plastic disk or to
+                   and from the magnetically modiﬁed pattern of iron particles embed-
+                   ded in the surface of a spinning hard disk. But what if we happened
+                   upon a naturally occurring pattern of burn pits or magnetized iron
+                   atoms in a rock corresponding exactly to these patterns. Would these
+                   constitute the same information? Although they might be described
+                   as identical syntactic information they would not be likely to con-
+                   vey identical semantic information. Can it be information at all if it
+                   derives from a random process? Actually, yes. The chemical reactions
+                   caused by unknown molecules in a water sample being tested for
+                   contamination, or the radio waves reaching Earth from an exploding
+                   star, are typical of the sorts of signals that scientists are able to use as
+                   information. Both the patterns that we deliberately create in order to
+                   convey an idea and those we discover in nature, can convey informa-
+                   tion. Ultimately, this demonstrates that almost anything can qualify as
+                   information in the syntactic sense, because this is only an assessment
+                   of the potential to inform.
+                          This most basic notion of information corresponds to the con-
+                   temporary theory of information, originally dubbed the “mathem-
+                   atical theory of communication” by its discoverer Claude Shannon
+                   (1948). As we will see, Shannon’s deﬁnition is more precise than this,
+                   but in essence it shows us why it is possible to treat any physical dis-
+                   tinction as potential information, whether made by humans or the
+                   product of some mindless natural process. It speciﬁes what features of
+
+                           1
+                               The absurdity of this happening should also tell us something about the complex-
+                               ity hiding behind the notion of information being used here.
+
+
+
+
+9780521762250c08_p123-142.indd 129                                                                                4/26/2010 4:23:53 PM
+         130          Terrence W. Deacon
+
+
+                      a physical material or process are necessary for it to serve as a medium
+                      for transmitting or storing information. So, in this sense, when we
+                      use the term “information” to refer to signals transmitted over a wire,
+                      or ink marks on paper, or the physical arrangement of objects at a
+                      crime scene, we are using a sort of shorthand. Without these physical
+                      features there is no information, but we are actually referring to some-
+                      thing more than the physical pattern; something not present to which
+                      these present features correspond.
+                            Identifying the features of physical processes that are the neces-
+                      sary conditions for something to be able to provide information helps
+                      to make sense of the enterprise of the natural sciences. Scientiﬁc
+                      observation and experiment are directed to the task of probing the
+                      patterns of things to discover information about how they came to
+                      have the properties they have. And the same physical objects or events
+                      can yield new information with each change of interpretive apparatus.
+                      This open-endedness is the result of there usually being vastly more
+                      information potential in natural phenomena than can ever be inter-
+                      preted. To a brilliant sleuth equipped with the latest tools for mater-
+                      ials analysis and DNA testing, almost everything at a crime scene can
+                      become a source of information. But being able to specify what phys-
+                      ical properties can potentially serve to provide information does not
+                      help us to discern how it is that they can be about something else.
+
+
+                               8 .3 L O C A T I N G T H E I N F O R M A T I O N I N I N F O R M A T I O N P R O C E S S I N G
+
+                      Shannon’s analysis of the logical properties that determine the infor-
+                      mation capacity of a physical medium helps make sense of the con-
+                      cept of information in computer theory. In the most general sense,
+                      the possibility of computing depends on being able to assign referen-
+                      tial value to some feature of a physical process and to map a speciﬁc
+                      logical operation to some physical manipulation of that feature with
+                      respect to others that have also been assigned reference. In this sense,
+                      one can even talk about arbitrary mechanical operations (or other
+                      physical processes) as potential computers. Just as one could come
+                      up with a coding scheme that could interpret an arbitrary sequence
+                      of signals as an English sentence, so it is possible to ﬁnd a mapping
+                      between an arbitrary physical process and some symbol manipulation
+                      process. Of course some physical processes and mechanical (or elec-
+                      tronic, or quantum) devices are better than others for this, especially
+                      when we desire ﬂexibility in possible mappings. This mapping rela-
+                      tionship – assigning reference – is crucial for distinguishing between
+
+
+
+
+9780521762250c08_p123-142.indd 130                                                                                              4/26/2010 4:23:53 PM
+                                                What is missing from theories of information?       131
+
+                   computing and other merely physical processes. All physical processes
+                   are potential computations, but no physical process is intrinsically a
+                   computation.
+                          It is in this most general sense that we can also describe men-
+                   tal processes as computing. And yet missing from this analogy is
+                   precisely the mapping relationship that distinguishes thought from
+                   computing. There is no separate homunculus external to the compu-
+                   tation that assigns reference to the relevant physical differences of
+                   neural dynamics. Computation is generally described in terms of a
+                   syntactic conception of information, and yet it implicitly presupposes
+                   a semantic conception, although it can give no account of it. It is some-
+                   times assumed that this referential mapping can be provided by the
+                   equivalent of robotic embodiment, so that the input and output of
+                   the computing is grounded in physical world constraints. But this can
+                   also be seen as an extension of the physical mechanism underlying
+                   the computation to include causal events “outside” some arbitrarily
+                   deﬁned boundary separating the “computing device” and the physical
+                   environment.
+                          Describing both physical and mental relationships in computa-
+                   tional terms is only problematic if this presupposition of mapping is
+                   ignored or assumed to be intrinsic. The result is either eliminative
+                   reduction or cryptic panpsychism, respectively. In either case, if any
+                   physical event is considered to be a computation and the mind is
+                   merely a special purpose computer, then the mind–body problem dis-
+                   solves. But there is a troubling implication to this collapse of the con-
+                   cept of information to its syntactic meaning only. In such a uniformly
+                   informational universe there is no meaning, purpose, value, or agency.
+                   In this informational cosmology, networks of informational causality
+                   are still just as blindly mechanical as in any Laplacian universe.
+                          To escape this deﬂationary view of an information universe
+                   blindly mechanistically computing us, many have turned to quan-
+                   tum physics to loosen the bonds of mechanistic determinism, both in
+                   discussions of consciousness and in terms of information processes.
+                   Quantum events appear postponable until they are observed, and
+                   quantum objects can be both independent and correlated (entangled)
+                   at the same time. Thus notions of causality and of information about
+                   that causality appear to be inextricably linked at this level of scale.
+                          For example, in the dominant (although not the only) interpret-
+                   ation of quantum mechanics, events in the world at the quantum level
+                   become real (in the sense of being susceptible to classical analysis)
+                   only when they are measured. Before such an intervention, no explicit
+
+
+
+
+9780521762250c08_p123-142.indd 131                                                              4/26/2010 4:23:53 PM
+         132          Terrence W. Deacon
+
+
+                      single state exists, only a ﬁeld of potentiality. This is exempliﬁed by
+                      the famous Schrödinger’s cat paradox, in which the prior death of a
+                      cat in a closed box is dependent on an as-yet-unmeasured quantum
+                      state. In this interpretation it is presumed that neither macroscopic
+                      state exists until the quantum event is later measured (that is, by an
+                      observer). Measurement information about this quantum state is thus
+                      treated as a fundamental causal determinant of the transition from
+                      quantum indeterminacy to classical determinism. Similarly, another
+                      strange quantum phenomenon – quantum entanglement – shares
+                      other features with the correspondence relationship associated with
+                      information. In simpliﬁed terms, this involves an apparent instant-
+                      aneous correspondence of measurement consequences between par-
+                      ticles that are separated and non-interacting. So one might also argue
+                      that it exempliﬁes a sort of intrinsic representation relationship.
+                             These are counterintuitive phenomena, which challenge our
+                      normal conceptions of causality, but do they explain the higher-order
+                      senses of information? Unfortunately, they do not actually resolve the
+                      paradox of the absent content. These features in the quantum realm
+                      (for example, superposition, entanglement) resemble correspondence-
+                      mapping relationships. Thus we might be tempted to see this as a
+                      referential relationship that is intrinsic to the quantum physical rela-
+                      tionship. But physical correlation is not aboutness. Whereas measure-
+                      ments of particles that affect measurements of other particles exist
+                      in something like a correspondence relationship, this alone does not
+                      make one about the other, except to an external observer interpreting
+                      it. The aboutness does not exist in the interstices between indeter-
+                      minate quantum events any more than between the gears of a clock,
+                      because it is not an intrinsic feature. So in both classical and quantum
+                      computation only the syntactic concept of information is invoked.
+                      There is nothing intrinsic to computation processes that distinguish
+                      them from other physical processes, and nothing intrinsic to the quan-
+                      tum or classical physical features that are manipulated in computa-
+                      tions that make them about other features of the world.
+
+
+                               8 .4 I S I N F O R M A T I O N P H Y S I C A L ?
+
+                      There is something correct about the link between information and
+                      the fabric of causal processes of the world – whether determinate or
+                      intrinsically statistical – but there is something missing too. There is
+                      something more that we assume when we describe something as infor-
+                      mation, and indeed something absent from the physical processes and
+
+
+
+
+9780521762250c08_p123-142.indd 132                                                           4/26/2010 4:23:53 PM
+                                                What is missing from theories of information?       133
+
+                   patterns that we recognize as conveying (though not fully constitut-
+                   ing) information.
+                           The search for a link between information and physical causality
+                   in general requires that we identify a precise physically measurable
+                   correlate of information. This is necessary in order to solve engineer-
+                   ing problems that involve information systems and to address scien-
+                   tiﬁc issues concerning the assessment of information processes in
+                   natural systems. A ﬁrst solution to these practical challenges was for-
+                   mally provided by a Bell Labs researcher in the 1940s: Shannon and
+                   Weaver (1949). His “mathematical theory of communication” demon-
+                   strated that the capacity of a communication medium to convey or
+                   store information could be precisely measured, and that even infor-
+                   mational error-correction can be accomplished without any reference
+                   to informational content. This laid the foundation for all of modern
+                   information technology, but it also left us with a deﬂationary theory
+                   of information, from which content, reference, and signiﬁcance are
+                   excluded and irrelevant.
+                           Claude Shannon’s introduction of a statistical approach to the
+                   analysis of signals and their capacity to carry information has stood
+                   the test of time with respect to any practical accounting of how much
+                   information a given medium can be expected to store or convey to an
+                   interpreter. Unfortunately, because this analysis excluded any refer-
+                   ence to problems of deﬁning content or signiﬁcance, it has led to the
+                   rather different uses of the term that we have been struggling to deﬁne
+                   and which are often a source of theoretical sleight of hand. By bracket-
+                   ing issues of reference and signiﬁcance Shannon was able to provide
+                   an unambiguous, interpretation-free measure of what might be called
+                   the information-bearing capacity (as distinguished from information
+                   itself ). Not only does this work for human-made communication proc-
+                   esses, it also usefully conveys the potentiality of any physical distinc-
+                   tion to provide information, such as might be discovered by scientiﬁc
+                   experiment or detective work. But for this purpose it had to stop short
+                   of conveying any sense of how information could come to be about
+                   something. And there is good reason to have avoided this. For different
+                   interpreters or for different scientiﬁc instruments the same physical
+                   distinction can provide information about different things, or can be
+                   irrelevant and uninformative. What something is about and how this
+                   relationship is mediated are explicitly a function of external relations
+                   and thus are not able to be mapped to any intrinsic properties.
+                           Information is by deﬁnition something in relation to something
+                   else, but in colloquial use the term can either refer to what is conveyed
+
+
+
+
+9780521762250c08_p123-142.indd 133                                                              4/26/2010 4:23:53 PM
+         134          Terrence W. Deacon
+
+
+                      or what provides the conveyance. If, as in Shannon’s sense, it refers
+                      only to the latter, then its aboutness and its signiﬁcance are assumed
+                      potentialities but are temporarily ignored. The danger of being inex-
+                      plicit about this bracketing of interpretive context is that one can treat
+                      the sign as though it is intrinsically signiﬁcant, irrespective of any-
+                      thing else, and thus end up reducing intentionality to mere physics, or
+                      else imagine that physical distinctions are intrinsically informational
+                      rather than informational only post hoc, that is, when interpreted.
+                             However, although Shannon’s conception of information totally
+                      ignores the issue of what information is about, or even that it is about
+                      anything, his analysis nevertheless provides an important clue for
+                      dealing with the absent-content problem, speciﬁcally by showing
+                      that absence could have a function at all. This clue is provided by
+                      Shannon’s negative characterization of information. Shannon’s meas-
+                      ure of the potential information conveyed by a given message received
+                      via a given communication channel is inseparable from the range of
+                      signals that could have been received but were not. More precisely,
+                      Shannon information is deﬁned as the amount of uncertainty that is
+                      removed with the receipt of a given signal. So to measure information
+                      requires comparing the potential variety of signals that could have
+                      been transmitted to what was transmitted. Perhaps the most import-
+                      ant contribution of this analysis was his recognition that measuring
+                      the potential signal variety was mathematically analogous to measur-
+                      ing the entropy of a physical system, such as an ideal gas. Following
+                      the advice of the mathematician John von Neumann, he decided to
+                      call this variety of possible states the “entropy” of the signal medium
+                      (or “channel,” as he described it, using the model of a communication
+                      channel between a sender and recipient of a message). This decision,
+                      like the decision to deﬁne information capacity with respect to signal
+                      constraint, has led to many confused debates about the physical cor-
+                      relates of information. But these analogies are also important hints for
+                      expanding the concept of information so that it can again embrace the
+                      very features that had to be excluded from this engineering analysis.
+
+
+                               8 .5 T W O E N T R O P I E S
+
+                      By deﬁning information in negative terms with respect to the poten-
+                      tial variety of what could have occurred, Shannon has inadvertently
+                      pointed us toward the relevant physical property of the signal or sign
+                      medium that provides access to what it is about, which is also a nega-
+                      tive attribute. The key to seeing this link is simply recognizing that the
+
+
+
+
+9780521762250c08_p123-142.indd 134                                                             4/26/2010 4:23:53 PM
+                                                 What is missing from theories of information?        135
+
+                   representing medium, whatever form it takes, is necessarily a phys-
+                   ical medium. It is something present that is taken to be about some-
+                   thing not immediately present. The reduction in signal entropy has
+                   the potential to carry information because it reﬂects the consequences
+                   of physical work and thus the openness of this physical signal medium
+                   to extrinsic inﬂuence. In thermodynamic terms (Boltzmann, 1866),
+                   a change in the state of a physical system that would not otherwise
+                   occur is inevitably characterized by a local reduction in its physical
+                   entropy (I will describe this as “Boltzmann entropy” to distinguish it
+                   from Shannon entropy) resulting from work done on that system from
+                   outside. According to Shannon, the information-bearing capacity of a
+                   signal is proportional to the improbability of its current physical state.
+                   But an information medium is a physical medium, and a physical sys-
+                   tem in an improbable state reﬂects the effects of prior physical work,
+                   which perturbed it from some more probable state or states. In this
+                   way, the Shannon information embodied in signal constraints impli-
+                   citly represents this work. It is in this sense that Shannon entropy is
+                   intimately related to Boltzmann entropy. It is explicitly the change in
+                   the Boltzmann entropy of the medium that is the basis of signal ref-
+                   erence, because this is necessarily a reﬂection of some extrinsic inﬂu-
+                   ence (Deacon, 2007, 2008).
+                          However, the relationship is more subtle than just the conse-
+                   quence of physical work to change a signal medium. Although this
+                   relation to work is fundamental, referential information can be con-
+                   veyed both by the effect of work and the evidence that no work has
+                   been done (Deacon, 2007, 2008). Thus, no news can be news that
+                   something anticipated has not yet occurred. This demonstrates that
+                   Shannon information and referential information are not equivalent.
+                   This is again because the signal constraint is not something located
+                   in the signal medium: it is rather a relationship between what is and
+                   what could have been its state at any given moment. A reduction in
+                   variability is a constraint, and a constraint is in this case not an intrin-
+                   sic property but a relational property. It is deﬁned with respect to what
+                   is not present. So implicitly, a physical system that exhibits constraint
+                   is in that conﬁguration because of extrinsic inﬂuences – but like-
+                   wise if the sign medium exhibits no constraint or change from some
+                   stable state, it can be inferred that there was no extrinsic inﬂuence
+                   doing work on it. The relationship of present to absent forms of a sign
+                   medium embodies the openness of that medium to extrinsic interven-
+                   tion, whether or not any interaction has occurred. Importantly, this
+                   also means that the possibility of change due to work, not its actual
+
+
+
+
+9780521762250c08_p123-142.indd 135                                                                4/26/2010 4:23:53 PM
+         136          Terrence W. Deacon
+
+
+                      effect, is the signal feature on which reference depends. This is what
+                      allows absence itself, absence of change, or being in a highly probable
+                      state to be informative.
+                             Consider, for example, a typo in a manuscript. It can be consid-
+                      ered a reduction of referential information because it reﬂects a lapse
+                      in the constraint imposed by the language that is necessary to convey
+                      the intended message, and yet it is also information about the proﬁ-
+                      ciency of the typist, information that might be useful to a prospective
+                      employer. Or consider a technician diagnosing the nature of a video
+                      hardware problem by observing the way the image has become dis-
+                      torted. What is signal and what is noise is not intrinsic to the sign
+                      medium, because this is a determination with respect to reference.
+                      But in either case the deviation from a predicted or expected state is
+                      taken to refer to an otherwise unobserved cause. Similarly, a sign that
+                      does not exhibit the effects of extrinsic inﬂuence – for example, set-
+                      ting a burglar alarm to detect motion – can equally well provide infor-
+                      mation that a possible event (a break-in) did not occur. Or consider
+                      the thank you note not sent, or the tax return not submitted on time.
+                      Here, even the absence of a communication is a communication that
+                      can carry signiﬁcance and have dire consequences.
+                             In all cases, however, the referential capacity of the informa-
+                      tional vehicle is dependent on physical work that has, or could have,
+                      altered the state of some medium open to extrinsic modiﬁcation.
+                      This tells us that the link between Shannon entropy and Boltzmann
+                      entropy is not mere analogy or formal parallelism. It is the ground of
+                      reference.
+
+
+                               8 .6 D A R W I N I S M A N D I N T E R P R E T A T I O N
+
+                      Up to this point of the analysis it has been assumed that the relation-
+                      ships being described have involved signs and signals, and not merely
+                      physical events chosen at random. But in fact, none of the criteria spe-
+                      ciﬁed thus far actually distinguishes events and objects that convey
+                      information from those that do not. They are requirements for some-
+                      thing to be information about something else, but they do not in
+                      themselves constitute it. Shannon described the necessary conditions
+                      for something to have the potential to convey information: providing
+                      a syntactical conception. Even the linkage to physical work, while a
+                      necessary requirement for referential capacity, is like Shannon’s cri-
+                      terion, only a necessary but not sufﬁcient feature of reference: that
+                      is, a semantic conception of information. But of course, not just any
+
+
+
+
+9780521762250c08_p123-142.indd 136                                                           4/26/2010 4:23:53 PM
+                                                What is missing from theories of information?       137
+
+                   alteration of entropy constitutes a reference relationship. Although
+                   any physical difference can be interpreted as information about some-
+                   thing else – whether it is the state of the mud on someone’s shoes or
+                   the presence and evenness of the microwave background radiation of
+                   the universe – this is not an intrinsic feature, but something entirely
+                   relative to how it is interpreted. This post-hoc dependency does not
+                   diminish the necessity of these attributes. It merely demonstrates that
+                   they are not sufﬁcient. And yet, as we have seen, reference depends on
+                   the responsiveness of the information medium to physical change.
+                          A physical difference becomes informational when it plays
+                   a modulatory role in a dynamic process. The potential to inform is
+                   dependent on the Shannon–Boltzmann criteria just discussed, but this
+                   potential is only actualized as it inﬂuences a speciﬁcally structured
+                   dynamical process. Although we commonly talk about this as an inter-
+                   pretive process, invoking folk psychological assumptions, this is still
+                   for the most part a mere promissory note for a missing theory about
+                   what dynamical organization is sufﬁcient to constitute such a pro-
+                   cess. And this heuristic immediately becomes problematic when we
+                   attempt to expand the usage to domains such as molecular biology, in
+                   which the presence of a homuncular interpreter cannot be invoked.
+                          A key insight into the conditions for interpretation was provided
+                   by Gregory Bateson in an oft-cited aphorism proposed as a charac-
+                   terization of information: Information is “a difference that makes a
+                   difference” (Bateson, 1972). It is no coincidence that this phrase also
+                   would be an apt description of mechanical or thermodynamic work.
+                   Implicit in this phrase is the notion that information can be used to
+                   change things. And in this sense it has the potential to control work.
+                   So putting this idea about the physical basis of interpretation together
+                   with the Boltzmannian criterion for referentiality we have: “a medium
+                   that is susceptible to being modiﬁed by physical work, which is used
+                   to modify the state of some other dynamical system because of that
+                   system’s sensitivity to changes of this medium, and which is differen-
+                   tially capable of performing work with respect to such a change.”
+                          This is a complicated deﬁnition, but even so it lacks detail con-
+                   cerning the nature of such a dynamical architecture, and so it is still
+                   incomplete in a couple of important respects. These have to do with
+                   informational relevance and the notion of function from which the
+                   normative aspect of information arises: that is, the pragmatic con-
+                   ception of information. Before trying to address these limitations,
+                   however, we need to ﬂesh out the requirements for a system with
+                   the capability to differentially perform work with respect to a given
+
+
+
+
+9780521762250c08_p123-142.indd 137                                                              4/26/2010 4:23:53 PM
+         138          Terrence W. Deacon
+
+
+                      signal state. This is because these requirements will ultimately pro-
+                      vide grounding for these additional features, and the basis upon which
+                      the possibility for speciﬁc reference can arise.
+                              It is a simple rule of thermodynamics that to be capable of per-
+                      forming work a system must be in a non-equilibrium state. So, any full
+                      explanation of what constitutes an interpretive process must include
+                      a central role for non-equilibrium dynamics. But non-equilibrium
+                      conditions are inherently transient and self-undermining. For a non-
+                      equilibrium process to persist, it must rely on supportive environmen-
+                      tal conditions (for example, a source of free energy and raw materials) to
+                      make up for this spontaneous degradation. In this sense, like the signal
+                      medium, it must be open to inﬂuences extrinsic to itself: for example,
+                      a larger thermodynamic context to which it is well ﬁtted. Thus the
+                      presence of a system maintaining a persistent non-equilibrium state
+                      capable of performing work with respect to a source of information
+                      entails the presence of environmental conditions that promote it.
+                              This is important for the constitution of an interpretive process
+                      for two additional reasons. First, the openness to context of an inter-
+                      preting system cannot merely be sensitivity, as is the case for an infor-
+                      mation medium. Persistence of a non-equilibrium thermodynamic
+                      system requires a quite speciﬁc matching of dynamical organization
+                      with extrinsic supportive conditions. In other words, there must be
+                      a necessary correspondence in form between system and context.
+                      Second, for a dynamical non-equilibrium system to be persistent there
+                      must be some maintenance of self-similarity and thus boundedness to
+                      it. It must have a unit identity in at least a loose sense.
+                              Understanding that a process capable of generating information
+                      necessarily involves non-equilibrium dynamics also provides a way to
+                      address the normativity issue that is implicit in a pragmatic concep-
+                      tion of information. Normativity in its various aspects has been a non-
+                      trivial problem for correspondence and mapping theories of reference.
+                      Following Bickhard (1998, 2000, 2003), I would argue that the norma-
+                      tivity that deﬁnes representational error is an emergent property of
+                      the relationship of the Shannon–Boltzmann referential relationship
+                      with respect to the organization of the non-equilibrium processes that
+                      interpret it. This follows because of the intrinsic dependence on spe-
+                      ciﬁc environmental conditions that are required for such a dynamical
+                      system to persist. To the extent that a particular signal interpretation
+                      effectively contributes to this end, and thus aids the successful main-
+                      tenance of this supportive correlation, then that particular interpret-
+                      ive response to that particular state of the signal medium will also
+
+
+
+
+9780521762250c08_p123-142.indd 138                                                             4/26/2010 4:23:53 PM
+                                                 What is missing from theories of information?       139
+
+                   persist. Of course, the opposite is also possible; hence the possibility
+                   of misinterpretation.
+                          But even in the simplest case this presupposes a non-equilibrium
+                   process that is precisely organized with respect to both supportive
+                   environmental conditions and to some feature of that environment
+                   that tends to correlate with those conditions. The establishment of
+                   such a reliable relationship is then the transformation of an incidental
+                   physical relationship into an information relationship. It is probably
+                   the case that this matching of speciﬁc referential relationship with a
+                   speciﬁc dynamical modiﬁcation of the capacity to perform work can
+                   be achieved spontaneously only by an evolutionary process. Not sur-
+                   prisingly, then, this analysis suggests that the generation of informa-
+                   tion in the full sense is an emergent property of life. Of course, this
+                   does not exclude the inﬁnitely many ways that information can be
+                   generated and manipulated, indirectly, with respect to living proc-
+                   esses. Yet these, too, must at least indirectly embody these same basic
+                   criteria. It is in this sense that both the syntactic (Shannon) and seman-
+                   tic (Shannon–Boltzmann) conceptions of information are ultimately
+                   dependent on a pragmatic (Shannon–Boltzmann–Darwin) conception
+                   (Deacon 2007, 2008). In this way, the process of evolution, in its most
+                   general form, can be understood as the necessary originative source
+                   for information. Where there is no evolutionary dynamic there is no
+                   information in the full sense of the concept.
+
+
+                           8.7 INFORMATION EVOLVES
+
+                   The claim that evolution itself constitutes an information creation
+                   process needs to be unpacked in order to complete this analysis. There
+                   is yet an additional curious – but in hindsight not unexpected – par-
+                   allel between the Shannonian determination of information cap-
+                   acity and the evolutionary determination of ﬁttedness. Both involve
+                   the relationship between a potential and a realized variety. Natural
+                   selection depends on the generation of functionally uncorrelated (aka
+                   “random”) variety of forms (genotypes and phenotypes) followed by
+                   the reduction of this variety due to death or the failure to reproduce.
+                   In our analysis of the Shannon–Boltzmann relationship, the referen-
+                   tial potential of a signal medium was shown to be a consequence of
+                   the way extrinsic factors reduce its potential variety (entropy). In the
+                   process of natural selection an analogous role is played by conditions
+                   in the environment that favor the reproduction and persistence of
+                   some variants and not others. It is in this sense that we feel justiﬁed
+
+
+
+
+9780521762250c08_p123-142.indd 139                                                               4/26/2010 4:23:53 PM
+         140          Terrence W. Deacon
+
+
+                      in claiming that the traits that are present in any given generation
+                      of organisms are adaptations to (favorably correlated with) certain of
+                      those conditions. Metaphorically speaking, they could be said to be
+                      “about” those conditions.
+                             There are deep disanalogies, however, that are crucial to explain-
+                      ing why this process generates new information. First, the initial
+                      variety is not signal variety, not merely variations of some passive sub-
+                      strate. The variety that is subject to the constraining inﬂuence of nat-
+                      ural selection involves variation of processes and structures associated
+                      with the interpretive system itself. Second, the non-equilibrium dynam-
+                      ics of organisms competing with one another to extract or sequester
+                      resources is the source of the work that is the basis for this reduction
+                      in population “entropy.” And third, the variety that is subject to selec-
+                      tion is being generated anew in each generation by virtue of what in
+                      Shannonian terms would be considered noise (that is, mutations and
+                      recombinations) introduced into the signal (that is, genetic inherit-
+                      ance). Thus what amounts to uncorrelated corruptions of the genetic
+                      signal and incidental physical attributes can become information to
+                      the extent that they result in variations of the interpretive–adaptive
+                      process that happen to embody correlated predictive correspondences
+                      between the dynamics of interpretation and the supportive conditions
+                      enabling this interpretation. The capability of the Darwinian process
+                      to generate new information about organism–environment (and by
+                      extension the interpreter–context) interdependency is the ultimate
+                      demonstration of the post-hoc nature of information. This evolution-
+                      ary transformation of noise into information is the ultimate demon-
+                      stration that what makes something information is not intrinsic to
+                      any features of the information-conveying medium itself. It is irredu-
+                      cibly relational and systemic, and at every level of analysis dependent
+                      on a relationship to something not present.
+
+
+                               8 .8 C O N C L U S I O N S
+
+                      The “intentional inexistence” of the content of a thought, the imagined
+                      signiﬁcance of a coincidental event, the meaning of a reading from a
+                      scientiﬁc instrument, the portent of the pattern of tea leaves, and so
+                      on, really is something that is not there. In this sense the Cartesian-
+                      derived notion that the content of mind is without extension, whereas
+                      the brain processes that realize this content do have extension, is at
+                      least partly correct. But to say that this absent content is extensionless
+                      is not quite right. The non-produced signal (that is, reduced entropy)
+
+
+
+
+9780521762250c08_p123-142.indd 140                                                             4/26/2010 4:23:53 PM
+                                                What is missing from theories of information?       141
+
+                   that is the basis for Shannonian informative capacity, the non-present
+                   work that was or was not the basis for the reference of this signal, and
+                   the interpretive options (organism trait variations) selected in an evo-
+                   lutionary process, all have a deﬁnite negative extension in the sense
+                   that something speciﬁc and explicit is missing. In other words, like the
+                   space within a container, these are absences that are useful because of
+                   the way what is present can exemplify them.
+                          The nearly universal tendency to attribute intentional phenom-
+                   ena to a disembodied realm is a reﬂection of this negative deﬁning
+                   feature, but the apparent paradoxes this creates with respect to the
+                   physical efﬁcacy of informational content is the result of misinterpret-
+                   ing this negative feature as though it is in some way substantial in
+                   a separate disembodied realm. The modern shift to abandoning all
+                   consideration of intentionality in deﬁnitions of information, as the
+                   concept has come to be used in the sciences, in order to focus entirely
+                   on the material–logical attributes of signal differences has corres-
+                   pondingly stripped the concept of its distinctive value and has led to
+                   a reduction of information relationships to relationships of physical
+                   difference. As a result this most common and undeniable feature of
+                   our existence is often treated as though it is epiphenomenal. Even
+                   the recent efforts to reframe intentionality with respect to its embodi-
+                   ment, effectively recapitulates a cryptic form of dualism in terms of
+                   a variant of dual aspect theory. But avoiding addressing the “inexist-
+                   ence” problem in these ways guarantees that the real-world efﬁcacy of
+                   information remains inexplicable.
+                          Like so many other “hard problems” in philosophy, I believe that
+                   this one, too, appears to have been a function of asking the wrong sort
+                   of questions. Talking about cognition in terms of the mind–brain –
+                   implying a metaphysically primitive identity – or talking about mind
+                   as the software of the brain – implying that mental content can be
+                   reduced to syntactic relationships embodied in and mapped to neural
+                   mechanics – both miss the point. The content that constitutes mind
+                   is not in the brain, nor is it embodied in neuronal processes in bodies
+                   interacting with the outside world. It is, in a precisely deﬁnable sense,
+                   that which determines which variations of neural signaling processes
+                   are not occurring, and that which will in a round-about and indirect
+                   way help reinforce and perpetuate the patterns of neural activity that
+                   are occurring. Informational content distinguishes semiosis from mere
+                   physical difference. And it has its inﬂuence on worldly events by virtue
+                   of the quite precise way that it is not present. Attempts to attribute a
+                   quasi-substantial quality to information or to reduce it to some speciﬁc
+
+
+
+
+9780521762250c08_p123-142.indd 141                                                              4/26/2010 4:23:53 PM
+         142          Terrence W. Deacon
+
+
+                      physical property are not only doomed to incompleteness, they ultim-
+                      ately ignore its most fundamental distinctive characteristic.
+
+
+                               REFERENCES
+
+                      Bateson, G. (1972). Steps to an Ecology of Mind: Collected Essays in Anthropology,
+                          Psychiatry, Evolution, and Epistemology. Chicago, IL: University of Chicago
+                          Press.
+                      Bickhard, M. H. (1998). Levels of representationality. Journal of Experimental and
+                          Theoretical Artiﬁcial Intelligence, 10(2): 179–215.
+                      Bickhard, M. H. (2000). Autonomy, function, and representation. Communication
+                          and Cognition – Artiﬁcial Intelligence, 17(3–4): 111–131.
+                      Bickhard, M. H. (2003). The biological emergence of representation. In Emergence
+                          and Reduction: Proceedings of the 29th Annual Symposium of the Jean Piaget Society,
+                          eds T. Brown and L. Smith. Hillsdale, NJ: Erlbaum, 105–131.
+                      Boltzmann, L. (1866). The Second Law of Thermodynamics. Reprinted in Ludwig
+                          Boltzmann: Theoretical Physics and Philosophical Problems, Selected Writings, ed.
+                          B. McGuinness, trans. P. Foulkes (1974). Dordrecht: Reidel Publishing Co.,
+                          13–32.
+                      Brentano, F. (1874). Psychology From an Empirical Standpoint. London: Routledge &
+                          Kegan Paul, 88–89.
+                      Deacon, T. (2007). Shannon-Boltzmann-Darwin: Redeﬁning information. Part 1.
+                          Cognitive Semiotics, 1: 123–148.
+                      Deacon, T. (2008). Shannon-Boltzmann-Darwin: Redeﬁning information. Part 2.
+                          Cognitive Semiotics, 2: 167–194.
+                      Shannon, C. (1948). A mathematical theory of communication. Bell System
+                          Technical Journal, 27: 279–423, 623–656.
+                      Shannon, C., and Weaver, W. (1949). The Mathematical Theory of Communication.
+                          Urbana, IL: University of Illinois Press.
+
+
+
+
+9780521762250c08_p123-142.indd 142                                                                          4/26/2010 4:23:53 PM
+

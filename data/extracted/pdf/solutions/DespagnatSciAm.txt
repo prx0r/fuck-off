@@ -1,0 +1,1594 @@
+ The               Quantum Theory and Reality
+       The doctrine that the world is made up of objects whose existence
+      is independent of human consciousness turns out to be in conflict
+
+       with quantum mechanics and with facts established by experiment
+
+
+                                                   by Bernard d 'Espagnat
+
+
+
+}t     y successful theory in the physical
+         sciences is expected to make ac­
+                                             nomena (the observed pOSi tIO n of the
+                                             pointer) and not with any underlying
+                                                                                                tic theories of nature. An argument de­
+                                                                                                riv ed from these premises leads to an
+         curate predictions. G iven some     physical state (the real position of the           explicit prediction for the results of a
+well- defined experiment, the theory         electron).                                         certain class of experiments in the phys­
+should correctly specify the outcome or                                                         ics of elementary particles. The rules
+should at least assign the correct prob­       t now turns out that even this renun­            of quantum mechanics can also be em­
+abilities to all the possible out comes.     I ciation is not entirely satisfactory.            ployed to calculate the results of these
+From this point of view quantum me­           Even if quantum mechanics is consid­              experiments. S ignificantly, the two pre­
+chanics must be j udged highly success­       ered t o be no m ore than a set of rules,         d ictions d iffer, and so e ither the local
+ful. As the fundamental modern theory         it is st ill in conflict with a view of           realistic theories or quantum mechanics
+of atoms, of molecules, of elementary        t he world many people would consider              must be wrong.
+particles, of electromagnetic radiation       obvious or natural. This world view is               The experiments in question were first
+and of the solid state it supplies meth­      based on three assumptions, or premises           proposed as "thought experiments," in­
+ods for calculating the results of experi­   t hat m ust be accepted without proof.            t ended for t he imagination only. In the
+ments in all these realms.                    O ne is realism ,t he doctrine that regular­      past few years, however, several ver­
+   Apart from experimental confirma­          ities in observed phenomena are caused            sions of them have been carried out with
+tion, however, something more is gener­       by som e physical reality whose exis­             real apparatus. Although not all the
+ally demanded of a theory. It is expected     tence is independent of h um an observ­           findings are consistent with one another,
+not only to determine the results of an       ers. The second premise holds that in­            most of them support the predictions of
+experiment but also to provide some un­       duct ive inference is a valid mode of             quantum mechanics, and it now seems
+derstanding of the physical events that       reasoning and can be applied freely, so           that unless some extraordinary coinci­
+are presumed to underlie the observed         that legit m
+                                                         i at e conclusions can be drawn        dence has distorted the results the quan­
+results. In other words, the theory           from consist ent observations. The third          tum- mechanical predictions will be con­
+should n ot only give the position of a       premise is called Einstein separability or        firmed . It follows that the local realistic
+pointer on a dial but also explain why        E instein locality, and ti states that no         theories are almost certainly in err or .
+the pointer takes up that position. When      influence of any k ind can propagate              The three premises on which those theo­
+one seeks information of this kind in the     faster t han the speed of light . The three       ries are founded are essential to a com­
+quantum theory, certain conceptual dif­       premises, which are often assumed to              mon-sense interpretation of the world,
+ficulties arise. For example, in quantum      have the status of well-established               and most people would give them up
+mechanics an elementary particle such         truths, or even self-evident truths, form         only with rel uctance; nevertheless, it ap­
+as an electron is represented by the          the basis of what I shall call local realis-      pears that at least one of them will have
+mathematical expression called a wave
+function, which often describes the elec­
+tron as if it were smeared out over a
+large region of space.                       CORRELATIONS BETWEEN DISTANT EVENTS can form the hasis of conclusions about
+   This representation is not in conflict    the structure of the world. Suppose a physicist sets up an experiment in which subatomic par­
+with experiment; on the contrary, the        ticles such as protons are fired one at a time into an instrument that can give only two possible
+
+wave fun ction yields an accurate esti­      readings, plus and minus (a). He finds that for some protons the reading is plus and for others
+                                             it is minus, but he cannot tell whether the instrument measures some real property of the pro­
+mate of the probability that the electron
+                                             tons or merely records random fluctuations. The physicist then arranges two identical instru­
+will be found in any given place. When
+                                             ments with a source that emits two protons simultaneously (b). He observes a strict negative
+the electron is actually detected, how­      correlation: whenever one instrument reads plus, the other reads minus. On the basis of this cor­
+ever, it is never smeared out but always     relation the physicist concludes that a real property of protons is responsible for the readings
+has a definite position. Hence it is not     and that its value is determined before the protons leave the source. If the sample of particles
+entirely clear what physical interpreta­     measured meets certain statistical tests, he can go on to infer that every pair of protons emitted
+tion should be given to the wave func­       by the source consists of one proton with the property plus and one with the property minus,
+tion or what p icture of the electron one    even if neither proton is submitted to a measurement (c). The conclusions are reasonable if
+                                             three premises are accepted as valid: that at least some properties of the world have an existence
+should keep in mind. Because of ambi­
+                                             independent of human observers, that inductive inference can be applied freely and that a mea­
+g uities such as this many physicists find
+                                             surement made with one instrument cannot influence the result of a measurement made with
+it most sensible to regard quantum me­
+                                             the other instrument. A more restrictive form of the last premise forbids such influences only
+chanics as merely a set of rules that pre­   if the two measurements are so nearly simultaneous that the influence would have to propagate
+scribe the outcome of experiments. Ac­       faster than light. The premises can be identified as realism, the free use of induction and sep­
+cording to this view the quantum theory      arability; the more restrictive version of the separability premise is called Einstain separabil­
+is concerned only with observable phe-       ity or Einstein locality. Any theory that incorporates them is called a local realistic theory.
+
+
+
+
+158
+
+                                                 © 1979 SCIENTIFIC AMERICAN, INC
+a
+                                                   ScoRE
+
+                                   i-                              +
+                         T-         +    +               +                  +
+                         i-              i-        +     +                  +
+                                                         i-        +        +
+                         -t-        +              i-                               INSTRUMENT
+                                                         i-        +
+                                    t
+                                         t               +         +
+                                    T    i-                        +
+
+
+
+
+                                                                                0
+                                                   SOURCE
+
+
+
+
+b                                                  5COR,E
+                          L        R.         L    R          L R...
+
+                          +                   -
+                                                   t-     t
+                          -
+                                   i-     +        -
+                                                          +
+                          -
+                                   +      -
+                                                   +               T
+        LEFT                                                                           RIGHT
+    INSTRUME NT
+                          +               +        -      -
+                                                                   t-               INSTRUMENT
+                          i-              t               T
+                                   +      +                        T
+                                   t-              t-    +
+
+
+                  O�---------L                 ____                �--����
+                                                   SOURCE
+
+
+
+
+C
+                                              INFER.ENCES
+                          L                   L    R.         L    R.
+                                   �
+                                    t-        -
+                                                    +         T
+                                    T-        t-              -
+                                                                   +
+                           +                  t                        +
+                                    i-              T         +        -
+
+
+
+                               t                    i-        i-
+                           T                  i-              -
+                                                                       i-
+                               +              +                        t-
+
+
+
+
+                                                   SOURCE
+
+
+
+
+                                                                                                 159
+
+
+                                   © 1979 SCIENTIFIC AMERICAN, INC
+to be abandoned or modified or in some              nation is called for. It would make no            h ave a common cause. Until such a link
+way constrained.                                    d ifference if the measured values were           has been d iscovered the mind cannot
+   The experiments are concerned with               always opposite instead of the same; the          rest satisfied. M oreover, it cannot do so
+correlations between d istant events and            correlation would then be a negative              even if empir ical rules for predicting fu­
+with the causes of those correlations.              one, but its magnitude would be j ust as          ture correlations are already k nown. A
+For example, suppose two particles a                great, and it would be j ust as unlikely to       correlation between the tides and the
+few meters apart are found to have iden­            arise by chance.                                  motion of the moon was observed in an­
+tical values of some property, such as                Whenever a consistent correlation be­           tiquity, and rules were formulated for
+electric charge. If this result is obtained         tween such events is said to be under­            pred icting future tides on the basis of
+once or a few times, it might be d is­              stood, or to have nothing mysterious              past experience. The tides could not be
+missed as coincidence, but if the corre­            about it, the explanation offered always           said to be understood, however, until
+lation is detected consistently in many             cites some link of causality. E ither one          Newton introd uced his theory of univer­
+measurements, a more systematic expla-              event causes the other or both events              sal gravitation.
+                                                                                                         The need to explain observed corre­
+                                                                                                       lations is so strong that a common
+                                                                                                      cause is sometimes postulated even
+                                                                                                      when there is no evidence for it beyond
+                                                                                                      the correlation itself. Whether or not
+       ?
+                              REALISM                                                                  this proced ure can always be j ustified is
+                                                                                                       a central issue in the conflict between
+                                                                                                       quantum mechanics and local realistic
+                                                                                                       theories. The correlations in question
+                                                                                                       are between observations of subatomic
+                                                                                                       particles, where a quantum-mechanical
+                                                                                                       description, with its attendant episte­
+                                                                                                       mological hazards, is indispensable. The
+                                                                                                       predictions of local realistic theories,
+                                                                                                      however, can be illustra ted by consider­
+                                                                                                                                        '
+                                                                                                       ing how correlations between d istant
+                                                                                                       events are explained in a more famil­
+                                                                                                       iar context, where quantum mechanics
+                                                                                                       need not be introd uced.
+
+                                                                                                        magine th at a psychologist has de­
+                                                                                                      I vised a simple test, which a subject
+                                                                                                      must either pass or fail, so that there
+                                                        (/)
+                                                        w                                             can be no ambiguity in the results. The
+                         LOCAL REALISTIC                a:                                            psychologist finds that some people
+                                                        o           QUANTUM MECHANICS
+                             THEORIES
+                                                        w                                             pass and some fail, but he does not
+                                                        I
+                                                        f-                                            know what d istinguishes the two groups
+                                                                                                      other than the ir performance on the test
+                                                                                                      itself. In other words, he cannot tell
+                                                                                                      whether the test measures some real ap­
+                                  \I
+                                                        (/)
+                                                                                                      titude or attrib ute of· the subjects or
+                                                        z                                             whether the results are haphazard .
+                                                        o
+                         BELL INEQUALITY                i=              BELL INEQUALITY                  It seems there is no general solution t o
+                                                        ()
+                              IS VALID                  o           IS SOMETIMES INVALID              this problem, but in a special c a s e it
+                                                        w
+                                                        a:
+                                                                                                      might be solved . Suppo se the test is ad­
+                                                        [L                                            ministered not to a series of individuals
+                                                                                                      but to a series of married couples and
+                                                                                                      that a strong correlation is detecr ed in
+                                                                                                      their answers. The proced ure might con­
+
+
+                                                t
+                                                                                                      sist in separating the husbands from the
+                                                                                                      wives before the test and then giving the
+                                                                                                      test to each of them in isolation. When
+                                                                                                      th e results are analyzed , it is found again
+                                                                                                      that part of the population has passed
+                                               EXPERIMENTAL                                           and part has failed, but in the case of
+                                                   TEST                                               each couple where the husband passed
+                                                                                                      so did the wife; similarly, whenever the
+                                                                                                      h usband failed so did the wife.
+                                                                                                         If this correlation persists after many
+                                                                                                       couples are tested, the psychologist is
+                                                                                                      almost sure to conclude that the re­
+                                                                                                      sponse of each subject is not determined
+                                                                                                      randomly at th e time of testing. On the
+                       RESULT
+                                                                                                      contrary, the test must reveal some real
+                                                                                                      property or attrib ute of the subjects.
+LOCAL REALISTIC THEORIES and quantum mechanics make conflicting predictions for
+                                                                                                      The property must already be present
+certain experiments in which distant events are correlated. In particular, local realistic theories
+                                                                                                       in the subjects before they are tested,
+predict that a relation called the Bell inequality will be obeyed, whereas quantum mechanics
+predicts a violation of the inequality. There is strong experimental evidence that the inequality
+                                                                                                      and indeed before they are separated.
+is violated in the way predicted by quantum mechanics. Local realistic theories therefore seem        Chance may have had some influence
+to be untenable, and at least one of the premises underlying those theories must be in error.         on the development of th e property,
+
+
+160
+
+                                                      © 1979 SCIENTIFIC AMERICAN, INC
+                                                        :>
+
+
+
+
+                                                        :>
+
+
+
+
+BELL INEQUALITY, formulated by John S. Bell of the European
+Organization for Nuclear Research (CERN), can be proved in two
+stages. The inequality applies to experiments with particles that have
+three stable properties, A, Band C, each of which can have the values
+plus and minus. Thus tbere are 23, or 8, possible classes of particles,
+corresponding to the eight regions of the diagrams shown here. If a
+particle has been found to have the properties A+ and B-, then it
+must be a member either of the class A+B-C+ or of the class A+B-C-.
+Hence if N(A+B-) represents the number of such particles, it must
+be equal to the sum N(A+B-C+) + N(A+B-C-). In a similar way it can
+be shown that N(A+C-) is equal to N(A+B+C-) + N(A+B-C-), from
+which it follows that N(A+C-) is greater than or at least equal to
+N(A+B-C-). The same reasoning leads to the conclusion that N(B-C+)
+must be greater than or equal to N(A+B-C+). These three relations
+can now be combined to yield a further inequality, wbich asserts that
+the number of A+B- particles cannot exceed the sum of the A+C­
+particles and the B-C+ particles. The same relation holds if all signs
+                                                                                        "7
+are reversed to give the inequality N(A-B+) � N(A-C+) + N(B+C-).
+The last two inequalities can be added to yield a relation among all
+individual particles for which two properties have opposite values.
+
+
+162
+
+                                                      © 1979 SCIENTIFIC AMERICAN, INC
+since not all the couples possess it, but
+that influence must have been exerted at
+some time before the husbands and the
+wives were separated. It was only then,
+while the husbands and the wives were
+still united, that they could have ac­
+quired any traits that would in duce
+them to respond consistently the same
+way. Thus the correlation is explained
+by attributing it to a common cause an­
+tecedent to the test.
+   One other explanation that must be
+excluded in deriving this conclusion is
+the possibility that husbands and wives
+could communicate with each other
+while they were taking the test. I f some
+means of communication were avail­
+able, there would be no need for any
+tested attribute to exist beforehand.
+Whichever spouse' was given the test
+first could choose a response at random
+and send instructions to the other, there­
+by creating the observed correlation. In
+giving a psychological test it would not
+be hard to guard against subterfuge of
+t his kind. In the extreme case the tests
+could be made so nearly simultaneous,
+or husbands and wives could be tested at
+sites so far apart, that a signal moving no
+faster than light could not arrive in time
+to be of any value.
+
+
+
+O    nce having decided that the test
+      measures some real property of in­
+dividuals, the psychologist can take a
+further step and make an inductive in­
+ference. If the couples already tested
+constitute an unbiased sample of some
+population of couples, and if the sample
+meets certain statistical standards, the
+psychologist can infer that any couple
+taken from the same population will be
+made up of a husband and a wife who
+e ither both possess or both do not pos­
+sess the property measured by the test.
+By the same prin ciple he can conclude
+that in any large, unbiased sample of
+couples who have not yet been tested
+some of the couples will have the prop­
+erty and some w ill not. The confidence
+of these assertions approaches certain­
+ty as the siz e of the sample increases.
+Hence both the correlation within cou­
+ples and the existence of d ifferences be­
+tween couples are inferred to exist even
+in the segment of the population that has
+not been submitted to any test.
+   These concl usions rest on the same
+three premises that form the basis of lo­
+cal realistic theories. Realism is a neces­
+sary assumption if one is to believe at
+least some tests measure stable proper­
+ties that exist independently of the ex­
+perimenter. It was necessary to assume
+the validity of inductive inference in or­
+der to extrapolate from the observed
+data to the segment of the population
+that had not yet been tested . Separabili­
+ty was incorporated in the assumption
+that husbands an d wives being tested
+cannot commun icate with each other. If
+the tests are given simu ltaneously, so
+that any signal passing between hus-
+
+                                                                                163
+
+
+                                              © 1979 SCIENTIFIC AMERICAN, INC
+bands and wives would h ave to propa­           an argument th at was somewh at similar          erty of th e protons or merely observing
+gate faster th an th e speed of ligh t, th e    to th e one I h ave attributed to th e psy­      random fl uctuations in h is apparatus.
+assumption is eq uivalent to Einstein           ch ologist. In 1935 Einstein publish ed a        He th erefore tries applying th e test not
+separability.                                   paper with two young colleagues, Boris           to individual protons but to pairs of
+   At first th e conclusions drawn from          Podolsky and Nath an Rosen, in wh ich           th em. Th e protons th at make up each
+thish ypoth etical experiment in psych ol­      h e stated h is objections explicitly. He        pair are initially in close proxim ity,
+ogy seem to follow q uite obviously from        did not maintain th at th e quantum th eo­       h aving been brough t togeth er by some
+the data. An epistemologist migh t none­        ry is wrong; on th e contrary ,h e assumed       well-defined procedure th at is th e same
+theless maintain th at th e conclusions are     that at least some of its predictions must       for all th e pairs. Th e protons are th en
+uncertain. In particular an epistemolo­         be correct. Wh at h e proposed was th at         allowed to separate, and wh en th ey
+gist trained in th e foundations of quan­       the quantum-mech anical description of           h ave moved some macroscopic distance
+tum mech anics migh t argue th at th ere is     nature is incomplete or approximate.              apart, th ey are tested, simultaneously
+no logical necessity for accepting th e         Th e motion of a particle must be de­            for some pairs and with an interval be­
+three premises of th e psych ologist's ar­      scribe d in terms of probabilities, h e ar­      tween th e tests for th e remaining pairs.
+gument; h ence neith er would it be neces­      gued, only because some of the parame­           The ph ysicist d iscovers a strict negative
+sary to conclude th at a correlation exist­     ters th at determine th e motion h ave not       corre lation: wh enever one proton in a
+ed between th e h usbands and wives be­         yet been specified. If th e values of th ese     pair passes th e test, th e oth er proton in­
+fore th ey were tested, or th at d ifferen­     h ypoth etical "h idden parameters" were         variably fails.
+ces existed between th e couples before          known, a fully deterministic trajectory             Th e situation of th e ph ysicist h as ob­
+any tests were given. The psych ologist is      could be defined.                                vious similarities to th at of th e psych ol­
+likely to find th ese objections laugh able,         A number of counterarg uments to             ogist giving a test to married couples,
+an expression of misplaced doubt or of a        Einstein's proposalh ave been formulat­           and th e same reasoning migh t be ap­
+very unscientific adh erence to paradox.        ed. For now I sh all mention only one of         plied to th e results of th e ph ysical exper­
+In th e literature of quantum mech anics,        th em, wh ich is based on th e criterion of      iment. If realism, th e free use of induc­
+however, th ere are numerous arguments           utility. It is immaterial, the argument          tion and Einstein separability are all ac­
+similar or e quivalent in form to th is one,    states, wh eth er or not hidden parame­           cepted as premises, th en th e ph ysicist is
+all p urporting to sh ow th at correlations     ters exist, or whether d ifferences be­          j ustified in concluding th at h is test does
+and differences need not exist until th ey      tween married couples exist in th e ab­          measure some real property of protons.
+are measured.                                   sence of a test. Even if th ey do exist, th ey   For th e correlation to be explained th e
+   A singular feature of quantum me­            sh ould not be incorporated into any th e­       property must exist before th e protons
+ch anics is th at its predictions generally     ory devised to explain th e observations,        in each pair are separated, and it must
+give only th e probability of an event, not     and so th ey can be said to h ave no sci­        h ave some definite value from th en until
+a deterministic statement that the event        entific existence. Th e exclusion of th e        th e measurement is made. Furth ermore,
+will happen or that it will not. Th e wave      hidden parameters is justified by th e           if add itional pairs of protons are pre­
+function employed to de scribe th e mo­         conjunction of three facts. F irst, th e         pared by th e same meth od, the ph ysicist
+tion of an elementary particle is often         mathematical formalism of th e th eory           knows th at in each case one proton will
+interpreted probabilistically: the proba­        is simpler if any hidden parameters are         h ave th e property and one will not, even
+bility of finding the particle at any given      ignored. Second, th is simple formalism          if neith er proton is actually tested .
+point is proportional to th e square of         predicts results that are confirmed by               Is th ere a n y r e a l t e s t th at c a n be car­
+the wave function at th at point. As I          experiment. Third, add ing th e h idden          ried out on s ubatomic particles with re­
+mentioned above, a wave function can            parameters to th e th eory would give rise       sults like th ese? There is. It is a measure­
+sometimes be spread out over a large            to no supplem entary pred ictions th at          ment of any one component, defined
+region, wh ich implies th at the probabili­      could be verified. Th us th e assertion th at   along some arbitrary axis, of th e spin of
+ty can also be broadly distributed. Of          h idden param eters exist is beyond th e         a particle. Th e spin attributed to a suba­
+course, wh en a measurement is actually         reach of experiment and is a proposition         tomic particle is analogous only in some
+made at some ch osen point, th e particle        not of ph ysics but of metaph ysics.            respects to th e spin angular momentum
+must eith er be detected or not be detect­           Th is defense of th e conventional in­      of a macroscopic body such as th e earth.
+ed; the wave function is th en said to col­      terpretation of q uantum mech anics dis­          For th e purposes of th is disc ussion,
+lapse. S uppose th e particle is detected.      m isses any h idden parameters as be ing         h owever, th ere is no need to introduce
+Th e question of epistemological interest         superfluous and ultimately, perh aps,          the details of h ow spin is treated in
+is th en: Did th e particle have th at defi­     meaningless. Recent th eoretical devel­          quantum mech anics. It will suffice to
+n ite position all along, even before th e      opments have sh own th at th e ir actual          note th at th e spin of a particle is repre­
+measurement was made?                            status is quite d ifferent. Th e h ypoth esis    sented by a vector, or arrow, th at can be
+   Th e conclusions of th e psych ologist,       th at hidden parameters exist does in fact       imagined as being attach ed to th e parti­
+if th ey could be transferred to this con­        lead to experimental pred ictions d iffer­     cle. A projection of th is vector onto any
+text, wo uld imply th at th e position of         ing from th ose of quantum mech anics.          axis in th ree-dimensional space is th e
+the particle was well defined from th e          Hidden-parameter theories, and local            cOl1l ponent of th e spin along th at axis. A
+start, j ust as th e attribute d iscovered in   realistic th eories in general, place a lim­      well-establish ed but nonetheless sur­
+some members of th e population was               it on th e extent to wh ich certain dis­        prising property of protons (and many
+deduced toh ave existed before any tests        tant events can be correlated; quantum            oth er particles) is th at no matter wh at
+were given. Accord ing to th is argument         mech anics, in contradistinction, predicts       axis is ch osen for a measurement of a
+the position of th e particle was never          th at under some circumstances th e limit        spin component th e result can take on
+indeterminate but was merely unknown             will be exceeded. Hence it sh ould be            only one of two values, wh ich I sh all
+to th e experimenter.                            possible, at least in principle, to devise       designate plus and minus. (A measure­
+                                                 an experimental test that will d iscrimi­        ment of a component of th e earth ' s spin
+      ost authorities on th e quantum th e­     nate between th e two th eories.                  would give very d ifferent results; de­
+M ory would d isagree. One excep­                                                                 pend ing on th e d irection of th e compo­
+                                                                                                  nent, it could h ave any value from zero
+t ion among ph ysicists was Einstein, wh o
+t hroughouth is life remained d issatisfied     S  uppose a ph ysicist h as devised a test
+                                                    that can be carried out on subatomic           up to th e total angular momentum of
+ with the probabilistic nature of th e in­      particles such as protons. After many             th e earth. )
+t erpretations generally given to quan­         trialsh e finds th at some protons pass th e         A strict negative correlation between
+t um mech anics. He based h is most inci­       test and oth ers fail, buth e does not k now      spin components is observed wh en any
+ sive criticism of th ose interpretations on    wh eth erh e is measuring some real prop-         two protons are brough t togeth er in
+
+
+                                                                                                                                                   165
+
+                                                      © 1979 SCIENTIFIC AMERICAN, INC
+the quantum -m echani cal configurati on           of a parti cle i s defined by com ponents           longer have the sam e spi n componentsi t
+called the si nglet state. In other words,i f      along three axes i n space, whi ch need             had when it entered the firsti nstrument.
+two protons i n the si nglet state are al­         not necessari ly be at ri ght angles to one            Although no i nstr um ent can m easure
+lowed to separate and the sam e com po­            another. For a vector associ ated wi th a           m ore than one spi n component at a
+nent of spi n i s subsequently m easured           m acroscopic objecti n everyday li fe, one          tim e , a devi ce can be built that i s capa­
+on both parti cles, i t will always be plus        would ass ume as a m atter of course,               ble of being adjusted to measure the spin
+for one proton and m inus for the other.           and with good reason, that all three                com ponent along any one of three ar­
+There i s no known means of predi cting            components have defini te values at all             bi trari ly chosen axes. I shall designate
+whi ch parti cle wi ll have the plus com po­       times; the value of a com ponent mi ght             these axes A, B and C and note the re­
+nent and whi ch the mi nus component,              be unknown, buti t cannot be undefined.             s ults of experiments as follows. If the
+but the negati ve correlation i s well es­         When this assumpti on i s appli ed to the           spi n component along axis A is found to
+tablished. It m akes no d ifference what           spin vector of a parti cle, however, i t            be plus, it is labeled A+ ; i f the compo­
+component of the spin the experi menter            becomes highly suspect, and i ndeed i n             nent along axis B is minus, it is given as
+chooses to m easure, provided the sam e            the conventi onali nterpretati on of quan­           B-, and so on. The physicist can now
+component i s m easured for b o th parti ­         tum mechani cs i t i s di smi ssed as an i n­       prepare a large batch of protons in the
+cles. It alsom akes no d ifference how far         stance of a hidden-param eter theory .              singlet state. He finds thati f he measures
+the protons travel before the m easure­            The problem i s that no experiment can              com ponent A for both protons in each
+ment i s m ade. as long as there are no            be devi sed, eveni n pri nci ple, that would         pair, some protons are A+ and others are
+perturbi ngi nfluences, such as other par­         provide i nform ation about the sim ulta­            A- , but whenever one member of a pai r
+ti cles or radi ation, along their paths.          neous values of all three com ponents. A            i s A+ , the other member is always A- . If
+                                                   single instrument can m easure only one              he deci de s i nstead to measure compo­
+  n this sim ple measurement there i s             spin component, and i n doi ng so i t gen­           nent B, he observes the same negative
+I no confli ct between the predi cti ons           erally alters the values of the com po­              correlati on: whenever one proton is B+ ,
+of quantum mechanics and those of                  nents. Hence i n order to learn the val­            i ts si nglet partner i s B- . Similarly, a C+
+local reali sti c theori es. A confli ct can       ues of three com ponents threem easure­              proton i s i nvari ably accompanied by a
+ari se, however, when the experi ment i s          m ents would have to be made i n succes­             C- one. These results hold no m atter
+made som ewhat m ore compli cated.                 si on. By the tim e the parti cle em erged           how the axes A, B and C are ori ented.
+   The vector that represents the spi n            from the third i nstrum ent i t would no                It i s i mportant to emphas ize that in
+                                                                                                        these experi ments no proton i s submit­
+                                                                                                        ted to a m eas urement of more than
+                                                                           PAI RS OF N EGATIVELY        one spi n com ponent. Neverthe less,i f the
+                                                                                CORRELATED              physi ci st accepts the three premises of
+                                                                                 PARTICLES              local realisti c theori es, he can draw con­
+                                                                                                        clusi ons from these findi ngs about the
+                                                                                                        values of all three com ponents, follow­
+                                                                                                       i ng an argum ent m uch l ike that of the
+                                                                               TEST RES ULTS            hypotheti cal psychologi st. Considering
+                                                                                                        a fresh batch of proton pai rs i n the sin­
+                                                                                                        glet state on whi ch no spi nm easurement
+                                                                                                        has yet been made (and perhaps on
+                                                                                                        whi ch no such measurement wi ll ever be
+                                                                                  DEDUC E D
+                                                                                PROPERTIES             m ade), he can i nfer that i n every pair
+                                                                                                        one proton has the property A+ and the
+                                                                                                        other has the property A - . S imilarly, he
+                                                                                N UMBER OF              can conclude that i n every pair one pro­
+                                                                               TEST RES ULTS            ton has the property B+ and one B- and
+                                                                           N UMBER OF PARTICLES         one has the property C+ and one C-.
+                                                                                   WITH
+                                                                           DEDUCED PROPERTIES
+
+                                                                                 INE QUALITY           T     hese conclusions require a subtle
+                                                                                                             butim portant extension of the mean­
+  N(A+B-) + N(A-B+) .;; N(A+C-) + N(A-C+) + N(B+C-) + N(B-C+)                 DEMONSTRATE D            i ng assi gned to a notation such as A +.
+                                                                               PREVIO USLY              W hereas previously A+ was merely one
+                            THEREFORE
+                                                                                                        possi ble outcome of a measurement
+                                                                              BELL INE QUALI TY        m ade on a particle, i t i s converted by
+                                                                                                        thi s argum ent i nto an attribute of the
+SECOND STAGE OF THE PROOF extrapolates from tbe case of single particles for wbicb                      parti cle i tself. To be explic it, if some
+two properties are known to tbat of pairs of particles, each particle of which is tested for one        unm easured proton has t he property
+property. The pairs are created in sucb a way that there is always a strict negative correlation        that a m eas urement along the axis A
+for any property considered separately, that is, if one particle in a pair has the property A +,
+                                                                                                        would give the definite result A+ , then
+the otber must bave tbe property A -. Because of this correlation, if one particle in a pair is
+                                                                                                        that proton is said to have the property
+found to be A + and the otber is found to be B+, it is possible to deduce both properties of both
+                                                                                                        A +. In other words, the ph ysicist has
+particles. The doubly positive test result can arise only if one particle has the two properties
+A + B - and the other has tbe properties   A -B +. Hence the number of sucb doubly positive test        been led to the concl us ion that both pro­
+results, which can be designated n[A +B+ 1, must be proportional to the total number of parti­         tonsi n each pair have definite spin com­
+cles with the properties A + B- and A - B +. Similar proportionalities can be derived for the num­     ponents at all times. The components
+ber of doubly positive results observed when pairs of particles are tested for properties Aand C       may be unknown, since the ph ysicist
+and for properties B and C; these are tbe quantities n[A +c+ 1 and n[B+C+ 1. Tbe constant of           cannot say which proton i n a pair has
+proportionality depends only on tbe number of pairs submitted to eacb set of tests and on the          the property A+ and which has th e prop­
+total number of pairs, and so tbe constant is the same in all three cases. It follows that the tbree
+                                                                                                       erty A - until a measurement along axis
+ratios of the number of doubly positive test results to tbe number of individual particles tbat
+                                                                                                       A has been made, but he can arg ue from
+can give rise to tbose results must also be equal. A relation has already been dem onstrated
+between tbe numbers of individual particles with tbe indicated properties; it is tbe inequali­
+                                                                                                       the premises of local real istic theories
+ty proved in the illustration on page 162. If that inequality is to hold, there must be a simi­        that the values are quite definite even in
+lar inequality between tbe numbers of doubly positive test results. This is the Bell inequality.       the absence of any measurements. This
+Tbe proof is valid only if tbe tbree premises of local realistic theories are assumed to be valid.     view i s contrary to the con ventional in-
+
+166
+
+
+                                                         © 1979 SCIENTIFIC AMERICAN, INC
+                                            AXIS OF MEASURED                                     AXIS OF MEASURED
+                                             SPIN COMPONENT                                       SPIN COMPONENT
+
+
+
+
+                                                                                                   ,�'-----<..
+                                                       I
+
+
+
+
+                                                                                                                                       ANALYZER
+
+
+
+
+                      ANALYZER
+
+
+
+
+                                                                                                                                DETECTOR
+
+
+
+
+THOUGHT EXPERIMENT would test the Bell inequality by m ea­                      suitable pair of protons bad been emitted. Each proton would then
+suring tbe components of tbe spin of protons or otber elem entary par­          enter an analyzer, wbere it would be deflected to one of two detectors
+ticles. A spin component is a projection along some axis of tbe pro­            depending on tbe value of its spin component along tbe axis defined
+ton's intrinsic angular mom entum; eacb component can bave only                 by tbe analyzer. If tbe analyzers were set to measure the spin compo­
+two possible values, wbicb can be designated plus and minus. Tbe                nents along tbe same axis, a strict negative correlation would be ob­
+experiment, wbicb assumes tbe availability of perfect instruments,              served. If one amllyzer were rotated, so that they measured different
+would bave a source wbere pairs of protons are brought together in a            components, local realistic tbeories predict that the correlation ob­
+quantum-mecbanical configuration called tbe singlet state. Tbe pairs            served would be no greater tban tbat allowed by the Bell inequality
+would tben be broken up, and the protons would fly apart in opposite            regardless of wbat tbe angle between the analyzers was. Quantum
+directions. "Event-ready" detectors would issue a signal wbenever a             mecbanics predicts a violation of the Bell inequality for some angles.
+
+
+
+
+terpretation of qu antu m mech anic s, but                I n 1964 J ohn S. Bell of the Eu rope­          gle p article. Supp ose th is imp ossib le ni ­
+it is not contradicted by any fact that has           an Organiz ation for N uclear Research             stru ment has revealed th at a p art icu lar
+yet been introdu ce d .                               (CE RN ) discovered such a relation. F or           proton has th e sp in comp onents At and
+   The strict negative corre lation for                any large sample of singlet proton pairs           B- . The third comp onent , C, h as not
+protons in th e singlet state is exp ect e d           Bell showed that the tenets of local real­         been measu re d , but ti can h ave only one
+only wh e n th e s a m e sp in comp onent is           istic th eories imp ose a limit on th e ex­        of two values, p lu s or minu s; h e nce th e
+measu re d on both p ro tons. What hap­                tent of correlation that can be exp ec t­          measu re d p roton mu st be a m e m be r of
+pens wh en th e instru ments are set to                ed whe n d ifferent spin components are            one of tw o se ts ofp rotons, e ithe r th e set
+measu re d ifferent comp onents? T o be                measured. The limit is exp ressed in th e         with sp in comp one nts A+ B- C I or th e
+precise, consider th e following exp eri­              form of an ine qu ality, which is now             set with comp onent s A r B-C . Th ere
+ment. Pairs of p rotons are brought t o­              called th e Bell inequ ality. G iven the ex­       are no oth er p ossibilities.
+geth er in th e singlet st at e by th e same          p eriment al conditions described above,               If manyp rot ons w ti h th e sp in comp o ­
+m e th od e mp loyed in th e earlier e xp eri­         it stat e s th at the nu m ber of A+B+ pairs      n e nts A+B- are dete ct e d, one can writ e
+ments and are allowed to sep arat e u nder            cannot exceed th e su m ofth e nu m ber of          an e qu at ion about th e ir nu m be r:
+exactly th e same conditions. Each p ro­              A+C+ p airs and the nu m ber of B+C+
+ton is th e n test e d for ju s t one sp in c o m ­   p a irs. Th e ineq ual ity can be exp re ssed in    N(A+ B-)=N(At B-C+)+N(A" B-C-).
+ponent, A , B or C, but wh ich o n e of th e           symbols as
+comp onents is measu re d in each case is                                                                I n order t o avoid confu s ion th e symbol
+determined entirely at random. Some­                       I/[A+B+].s I/[A+C+] + I/[B+C+] .              N( A + B-) h as been e mp l oye d t o rep re­
+times by coincidence th e same comp o­                                                                   sent th e nu m ber of individu al p rot on s
+nent will be measu re d on both prot ons               M any similar ine qu al ti ie s cou ld be con­    w ti h th e two sp in comp one n ts A r and
+in a pair; th ose r e s ults are discarded,            struct e d with the var ious symbols trans­        B-; th e symboll/[A+B-] give s the nu m ­
+since they p rovide no new information.               p osed or w ith the signs reverse d . Be­          b e r ofp rot onp a irs i n wh ich o n ep art icle
+T he remaining p airs mu st th en be made              cau se th e d irec tions along wh ich the         has th e comp onent A t an d th e oth er h a s
+up of e ither one proton tested along axis            sp in comp onents are defined were ch o­           th e comp onent B-. Th e equ at ion st at e s
+A and one tested along axis B, or one                 sen arbitrarily, all su ch formu lations           th e obviou s fact th at whe n a set ofp art i­
+tested along axis A and one along a x is C,           are interchange able, and I sh all d iscu ss       cles is divided intot wo su b se t s, th e t ot a l
+or one along axis B and one along axis e.             only th is one .                                   n u m ber of p art icles in th e origin al set
+For th e sak e of brevit y I sh all refer t o                                                            mu st be equ al t o th e su m of t he nu m ­
+the pairs in each of th ese th ree p opu la­
+tions as AB, AC and Be. A p a ir th at on             T   h e B e ll ine qu al it y can be prove d ,
+                                                           with in th e context of local realist ic
+                                                                                                         bers in th e su bset s.
+                                                                                                            Th e p rot ons foun d t o h a ve t he sp n
+                                                                                                                                                     i
+testing yields th e resu l ts A+ for one p ro­        th eories, throu gh a st raigh tforward ar­        comp onent s At C- can be ana lyze d ex­
+ton and B+ for th e oth er can be labeled             gu ment in th e mathe matical th eory of           act ly th e same way. Eve ry su ch p ro ton
+an A+B+p air. T he nu mber of su ch p a irs           set s. It is conve nient t o begin with an          mu st be a me m ber e ith er of th e set
+observed can be rep resent e d by th e no­            assump tion contrary to fact: th at some            At B+C- or ofth e set AT B- C-, and th e
+tation n[A +B + ] . Can any relat ion among           means exist for independe ntly measur­             t otal nu m ber N(A+C-) m u st be equ al
+these qu antit ie s be exp ect e d?                   ing t wo comp onent s of th e sp in of a sin-      t o th e su m N(A+B+C-) + N(A+B-C-).
+
+                                                                                                                                                       167
+
+                                                               © 1979 SCIENTIFIC AMERICAN, INC
+You can wait years for new                                               SCIENTIFIC AMERICAN Medicine is
+                                                                         the clinician's answer to the dif­
+
+developments to appear in
+                                                                         fuseness of the periodicals and
+                                                                         the prepublication obsolescence
+
+standard texts. spend
+                                                                         of the textbooks.
+                                                                            Because its authors update
+
+hundreds of hours extracting
+                                                                         SCIENTIFIC AMERICAN Medicine every
+
+                                                                         month, it is always current.
+
+them from journals. or                                                   Because the new information
+                                                                         that affects patient management
+
+you can subscribe to
+                                                                         appears in a single source, there
+                                                                         can be no loss through diffusion.
+                                                                            This 2,000-page, innovative
+SCIENTIFIC AMERICAN                                                      union of publishing and elec­
+
+Medicine.                                                                tronic technology is the work
+                                                                         of leading scholar-practitioners
+                                                                         from Harvard and Stanford. The
+                                                                         editors are Edward Rubenstein,
+                                                                         M.D., F.A.C.P, and Daniel D.
+                                                                         Federman, M.D., F.A.c.p
+                                                                            Each month as authors update
+                                                                         their contributions, revisions are
+                                                                         entered on the magnetic tape
+                                                                         on which the text and index are
+                                                                         stored. The tape drives high­
+                                                                         speed phototypesetting equip­
+                                                                          ment so that subscribers receive
+                                                                         about eight new chapters and a
+                                                                          new index every four weeks; a
+
+
+
+
+                                                    I
+-Adjuvant chemotherapy            -Lidocaine fails to control ven­       -Adenine arabinoside has been
+for breast cancer utilizing CMF   tricular arrhythmias in as many as     licensed for treatment of herpes
+enhances survival among pre­      20 percent of acute M.1. patients.     simplex encephalitis.
+menopausal women with axillary    Procainamide, given by a bolus
+lymph node involvement.           and continuous infusion method,
+                                  is effective in most of these cases.
+
+
+
+
+  �,Q
+  �A��
+
+           "/      ) �/           -Poorly ventilated recreational
+                                  vehicles are a new, significant car­
+
+-Posttransfusion hepatitis        bon monoxide poisoning hazard.
+is usually caused by "non-A,
+                                  -Cerebral embolism, producing
+non-B" viruses.
+                                  both transient ischemic attacks
+                                  and permanent strokes, is a com­
+                                  plication of mitral valve prolapse.
+
+                                  -Spectinomycin is effective
+                                  for disseminated gonococcal
+                                  disease caused by penicillinase­
+                                  producing organisms.
+
+
+
+
+                                       © 1979 SCIENTIFIC AMERICAN, INC
+                                                                             r-----------,
+bulletin highlights the new              This program is approved by
+
+                                                                               ���1��MEDICINE
+developments.                          the American Academy of Fam­
+  New material replaces old            ily Physicians for 32 Elective
+                                                                               415 Madison Avenue. New York. N.Y. 10017
+material in the living text, so        Hours of CME credit.
+that the information is there  -­
+                                                                               Please enroll me as a subscriber to SCIENTIFIC
+                                       Trial CHer                              AMERICAN Medidne. On receipt of this coupon
+up-to-date, at your fingertips.                                                you will send me the advanced two-volume text
+   A CME program of eight pa­          Please send us the card and             described in your announcement and update it
+                                                                               regularly by sending me new monthly subsec­
+tient management problems of­          you will receive over a period of
+                                                                               tions. I understand that the annual subscription
+fered over a 12-month period is        60 days at no cost, the two­            of $150 for SCIENTIFIC AMERICAN Medicine is tax­
+available at no extra cost.            volume text and two monthly             deductible. If I am not entirely satisfied. I may
+
+Authorities from first-line institu­   updates. You may also take a            cancel at any time during the first            60 days.
+                                                                               returning all materials for a complete refund.
+tions create the problems under        CME test for credit. At the end
+                                                                               o Please enter my subscription for SCIENTIFIC
+the direction of Stanford's Office     of 60 days, if you decide to con­            AMERICAN Medicine
+
+of Postgraduate Medical Educa­         tinue the subscription, we will         o I shall also enroll in the CME Program
+                                                                               o I enclose a check made out to SCIENTIFIC
+tion and the Educational Testing       bill you for $150 for the full 12         AMERICAN Medicine for $150
+
+Service.                               months; otherwise just return           o Please bill me
+                                                                               Please add sales tax for California. Illinois, Massachu­
+   As an organization accredited       the volumes to us.                      setts, Michigan, Ohio and New York
+
+for continuing medical educa­             We urge you to subscribe
+tion, the Stanford University          now. We anticipate a price in­          Name ___________________________
+School of Medicine designates          crease in January 1980 to $218
+                                                                                MD Specialty ______________________
+this continuing medical educa­         for the first year and $165 for the
+tion activity as meeting the cri­      annual renewal as of January            A ddress _________________________
+
+teria for 32 credit hours in Cate­     1981. If you subscribe in 1979 for
+                                                                                City ___________________________
+gory 1 for Educational Materials       $150, you will be able to renew
+for the Physician's Recognition        next year at $150, a saving of                                        Zip__
+                                                                                State ____________________--"'
+
+Award of the American Medical          $83 over two years.
+                                                                                Signature ______________________
+Association provided it has              So please mail the card today
+                                                                               Subscribers outside of the U.S. and the possessions will
+been completed according to in­        and let us take the hassle out of       be charged extra for shipping and handling; updates
+                                                                               will be sent by surface routes unless air mail delivery is
+structions.                            keeping up.
+                                                                             I requested.                                             lEI
+                                                                             L...   __________                                        -...I
+
+
+
+
+                          1            Magnetic tape file
+
+
+
+
+                                          © 1979 SCIENTIFIC AMERICAN, INC
+A further step can now be taken. If                num ber of such doubly positive pairs,
+the number of protons N(A + C- ) is equal          must be proportional to N(A + B - ), the
+to N(A + B + C- ) + N(A + B - C-), then it         number of individual protons with the
+must be greater than or at least equal to          spin components A + B - . In the same
+N(A + B- C-). (The two sets will be equal          way n[A + C+ ] must be proportional to
+if the B components of all the particles'          N(A + C- ) and n[B + C+] must be propor­
+spins happen to be minus, so that the              tional to N(B - C+ ) . The constant of pro­
+s ubset (A + B+ C - ) is empty; otherwise          portionality in all three cases is the
+N(A + C- ) will be larger. In other words,         same. For single protons each of which
+a part of the whole cannot be greater              is subjected to an imaginary double
+than the whole . ) The same reasoning              measurement an inequality has already
+can be applied once again to prove that            been proved, showing that N(A + B - ) can
+the number of protons with spin compo­             be no greater than the sum of two terms:
+nents B- C+ must be equal to the sum               N(A + C- ) +' N(B - C+ ). It is now possible
+N(A + B - C+ ) + N(A - B - C+ ) and hence          to replace each of these unmeasurable
+that N(B - C+ ) must be greater than or            quantities by the correspond ing num­                            Establishing
+eq ual to N(A + B- C+).
+  Consider again the first equation d e ­
+                                                   bers of doubly positive proton pairs.
+                                                   The resulting expression is
+                                                                                                                    A Vineyard
+rived above :                                                                                      m
+                                                                                                   ··           .     '. '    To produce wine grapes of
+                                                      n[A + B + ] � n[A + C+ ] + n[B + C+ ] .      :                          a truly premium nature,
+                                                                                                       " :. 0 : :
+                                                                                                       .    •        "1
+
+
+N(A + B - ) = N(A + B - C+ ) + N(A + B - C - ) .                                                                              you mus't begin with a
+                                                                                                   .: , .                 ;   properly    established
+                                                   This is the Bell inequality.
+                                                                                                                              vineyard.     We     recently
+  I t h a s j ust been demonstrated that               Of co urse the inequality is prove d by
+                                                                                                   added            80 acres to our Sonoma Valley
+N(B - C+ ) is greater than or at least equal       this argument only if the three premises        vineyard, a project that involved many
+to N(A + B - C+ ) , which is the first term        of local realistic theories are considered      steps over several months.
+on the right side of the equation. It has          valid. Indeed, it is here that the premises       We first cleared and contoured the
+also been shown that N(A + C� ) is greater         have their most important application           land. Next we " ripped" or loosened the
+than or e q ual to N(A + B - C- ), which is        and ultimately their most questionable          soil to a depth of 5 feet wi th a tractor and
+the second term on the r ight side of the          one. If the premises are granted, at least      deep-toothed ripper. We
+equation. It is therefore permissible to           for the sake of argument, it should be          smoothed the                 surface by
+                                                                                                   discing and then dragging
+make the appropriate substitutions in              clear that the Bell inequality must be
+                                                                                                   a heavy weight over the soil.
+the equation, changing the equals sign to          satisfied. M oreover, the orientation of
+one signifying "less than or equal to."            the axes A, B and C has nowhere been
+The result is the inequality                       specified, so that the inequality should
+                                                   be valid regardless of what axes are cho­
+  N(A + B - ) � N(A + C- ) + N( B - C+).           sen. The only possible violation of the
+                                                   inequality would result from a statisti­
+  Although this inequality is hereby               cal fluke, where many particles with the            A surveyor laid out a grid of 96 foot
+                                                                                                   squares and working within one square at
+formally derived, it cannot be tested di­          spin components A+ and B + happened
+                                                                                                   a rime, we laid out a row every 1 2 feet
+rectly by experiment because no instru­            to appear through random coincidence.
+                                                                                                   with vines spaced 8 feet apart. Vine loca­
+ment can independently measure two                 The probability of such a coincidence
+                                                                                                   tions were marked with chalk and a stake
+spin components of a single proton. The            approaches zero as the number of parti­         driven at each.
+experiments under consideration, how­              cles tested increases.                             Vines were planted by hand, the roots
+ever, are carried out not on individ ual               The Bell inequality constitutes an ex­      carefully spread and watered before cover­
+protons but on correlated pairs of them,           p l icit pred iction of the outcome of an       ing. The entire vine was then covered by a
+and there is no need to make such im­              experiment. The rules of quantum me­            mound of loose soil to prevent sun dam­
+possible measurements. Suppose one                 chanics can be employed to predict the          age while young. Trellis wires were strung
+                                                   results of the same experiment. I shall                       throughout the vineyard to
+proton in a pair is submitted to a mea­
+                                                                                                                              support future growth and
+surement of its spin component along               not give the details of how the predic­
+                                                                                                                               finally we installed a drip
+the A axis and is found to have the value          tion is derived from the mathematical
+                                                                                                                              irrigation system, a major
+A + . No other measurements are carried            formalism of the quantum theory; it can                                    project involving construc­
+out on this particle, but its singlet part­        be stated, however, that the proced ure is                                 tion of a new reservoir.
+ner is tested for the component along the          completely explicit and is objective in                                       A new vineyard such as
+B axis and the result is found to be B + .         the sense that anyone applying the rules                                    ours is a lot of work, but if
+The latter measurement, which might be             correctly will get the same result. Sur­                                    you ' re serious about consis­
+made at a d istant site after the protons          prisingly, the pred ictions of quantum                                      tent grape quality, it's
+                                                   mechanics differ from those of the lo­                                      worth the effort.
+have been moving apart for some time,
+                                                                                                                                 If you 'd enjoy hearing
+conveys additional information about               cal realistic theories. In partic ular, quan­
+                                                                                                                               more from the wine coun­
+the state of the first proton. To be ex­           tum mechanics pred icts that for some
+                                                                                                                               try, please write for our free
+plicit, the existence of a strict negative         choices of the axes A, B and C the Bell                                     monthly newsletter.
+correlation implies that the first proton,         inequality is violated , so that there are                                               Sam]. Sebastiani
+which is already known by d irect mea­             more A+ B+ pairs of protons than there
+surement to have the spin component                are A + C+ and B + C+ pairs combine d .
+                                                                                                                                      �/��,
+                                                                                                       Sebastiani
+A + , must also have the component B - .           Thus local realistic theories a n d quan­
+                                                   tum mechanics are in d irect conflict.
+   y this means the observation of a pair              The conflict raises two questions.
+B of protons one of which has the spin             F irst, what are the exper imental facts of             V I N EYAR D S
+component A+ and the other the compo­              the situation? Is the Bell inequality satis­
+nent B + can be employed as a signal               fied or is it violated? Whatever the out­                                  EST. 1825
+indicating the existence of a single pro­          come of an experimental test there must                          P.O. Box AA Sonoma CA 95476
+ton w ith the components A+ B - . F ur­            be a flaw of some kind e ither in the rules
+thermore, it can be demonstrated by a              of quantum mechanics or in local realis­
+statistical argument that n[A + B + ] , the        tic theories. The second question there-
+
+                                                                                                                                                           171
+
+                                                           © 1979 SCIENTIFIC AMERICAN, INC
+fore is: What premise underlying the re­        number of photons that pass through                  atomic ones, but the apparatus required
+futed theory is at fault?                       the filter. N either of these components             is quite different. In general detectors
+   The thought experiment proposed in           is perfect, so that the failure to register          are more efficient for high-energy pho­
+1935 by Einstein, Podolsky and Ro­              a photon does not necessarily mean that              tons, but polarization filters are more
+sen called for measurements of the posi­        it had the wrong polarization.                       efficient for low-energy ones.
+tion and momentum of particles. The                Experiments have also been done on                   One experiment has measured the
+experiment on spin components of pro­           the polarization of gamma rays, which                correlations of spin components of pro­
+tons was first discussed in 195 2 by Da­        are high-energy photons. The gamma                   tons and therefore closely resembles the
+vid Bohm of B irkbeck College in Lon­           rays were created by the m utual anni­               original thought experiment. The pairs
+don, but still in the context of a tho ught     hilation of electrons and the ir antipar­            of protons are created by inj ecting pro­
+experiment. It was not until 1969, after        ticles, positrons. S uch an annihilation             tons of comparatively low energy into a
+Bell had introduced his inequality, that        gives rise to two gamma rays, which are              target made up partly of hydrogen at­
+real experiments exploring these ques­          emitted in opposite d irections and have             oms. The nucleus of a hydrogen atom
+tions were contemplated. The feasibility        opposite polarization. The experiments               consists of a single proton. When an in­
+of such experiments was discussed by            are therefore formally eq uivalent to the            cident proton strikes a hydrogen nucle-
+J ohn F . Clauser of the University of
+California at Berkeley, R. A. Holt of the
+University of Western Ontario and Mi­                          EXPERIMENT                DATE       PARTICLES STUDIED                    RESULTS
+chael A. Horne and Abner Shimony of
+Boston University. They found that for
+                                                  Stuart J . Freedman and John F. Clauser,        Low-energy photons em itted       In agreement with
+a practical experiment the Bell inequali­
+                                                  University of California at Berkeley            during transitions in             quantum mechanics.
+ty would have to be generalized some­                                                             calcium atoms.
+what, but a meaningful test of the alter­
+native theories would still be possible.                                                 1 972
+  The technical d ifficulty of the experi­
+ments should not pass unmentioned. In
+a thought experiment both protons of              R. A. Holt and F. M. Pipkin,                    Low-energy photons emitted        In agreement with
+                                                                                                  during transitions                Bell inequality.
+every pair always reach the instruments           Harvard University
+                                                                                                  in atoms of mercury 1 98.
+and the instruments themselves always
+yield an unambiguous measurement of
+the spin component along the chosen
+                                                                                         1 973
+axis. Real apparatus cannot reproduce
+these results. The detectors are never                                                            Low-energy photons emitted        In agreement with
+                                                  John F. Clauser,
+perfectly efficient: many protons are             University of California at Berkeley            during transitions in atoms       quantum mechanics.
+simply not registered at all. Because of                                                          of mercury 202.
+the imperfections of the instruments the
+number of protons counted in e ach cate­                                                  1 976
+gory cannot be interpreted directly; in­
+stead an allowance must be made for the
+                                                  Edward S. Fry and Randall C . Thompson,         Low-energy photons emitted        In agreement with
+inefficiency of the detectors, which adds
+                                                  Texas A. & M. University                        during transitions in atoms       quantum mechanics.
+to the uncertainty of the results.                                                                of mercury 200.
+
+
+
+O    f seven experiments reported since
+       1 97 1 , six have not concerned mea­
+                                                                                          1 976
+
+surements of the spin components of
+protons but have instead measured the              G. Faraci, S. Gutkowski, S. Notarrigo          High-energy photons (gamma         In agreement with
+polarization of photons: the quanta of             and A. R. Pennisi,                             rays) from annihilation            Bell inequality.
+electromagnetic rad iation. Polarization           University of Catania                          of electrons and positrons.
+
+is the property of a photon that corre­
+                                                                                          1 974
+sponds to the spin of a material particle.
+In one series of experiments atoms of
+a particular element and isotope were              l. Kasday, J . Ullman and C. S. Wu,            High-energy photons (gamma         In agreement with
+raised to an excited state by the absorp­          Columbia University                            rays) from annihilation of         quantum mechanics.
+tion of laser light and then allowed to                                                           electrons and positrons.
+return to the ir original energy level in
+two steps. At each step a photon with a                                                   1 975
+characteristic energy or wavelength was
+emitted. The photons moved off in op­
+                                                   M. Lamehi-Rachti and W. Mittig,                Pairs of protons in the            In agreement with
+pos ite d irections, and they had opposite
+                                                   Saclay Nuclear Research Center                 singlet state.                     quantum mechanics.
+polarizations. In other words, if the po­
+larization of both ·photons was mea­
+                                                                                          1 976
+sured along any single direction, a strict
+negative correlation was observed .
+   The d ifferences between i d e a l instru­   REAL TESTS OF THE BELL INEQUALITY have been carried out by seven groups of in­
+ments and real ones are q uite plain in         vestigators. Only one of the experiments measured the spin components of protons; the others
+these experiments. There is no single de­       studied the polarization of photons, or quanta of electromagnetic radiation. In four experi­
+
+vice that can intercept a photon and re­        ments pairs of low-energy photons with opposite polarization were emitted by atoms that had
+                                                been raised to an excited state. Pairs of oppositely polarized gamma rays, or high-energy pho­
+port d irectly on its polarization. Instead
+                                                tons, were created in two other experiments by the mutual annihilation of electrons and their
+two devices are necessary, a filter and a
+                                                antiparticles, positrons. In the remaining experiment protons from a particle accelerator struck
+detector. The filter is designed to allow       a target made up partly of hydrogen; the accelerated protons and the hydrogen nuclei formed
+the passage of those photons that have          pairs in the singlet state. Five of th e experiments gave results in violation of the B ell inequality
+the selected polarization and to stop or        and in agreement with quantum m echanics. That the Bell inequality is violated is now generally
+deflect all others; the detector counts the     accepted. The cause of the discrepancy in the results of the otber two experiments is uncertain.
+
+
+172
+
+
+                                                       © 1979 SCIENTIFIC AMERICAN, INC
+     us, t he t wo prot ons interact briefly and        Regardless of what particles are being                A and C and further data are recorded.
+     enter t he singlet st at e. Bot h t hen leave    studied, the experiment consists of three               Finally the filters are reorient ed again to
+    t het arget , sharingt hem om entum of the        series of double measurements. Three                    axes B and C. The coincidences record­
+     incident proton, b ut if they are undis­         axes, A, B and C, are selected; in general              e d in each configuration are counted and
+    t urbed, t hey rem ain in the singlet state.     t he angles between them are set to the                  correct ions arem ade for the inefficiency
+     Prelim inary m easurem ents of the same          values where the maximum discrepancy                    of the apparatus. It is then a matter of
+     spin component on both protons give              between quantum mechanics and local                     simple addition to com pare the results
+     opposite results.                                realistic theories is expected. O ne filter is          with the Bell inequality.
+       The instruments for an experiment              then set .to admit particles with the po­                  O f the seven com pleted experiments
+     with proton pairs again consist of filters       larization or spin component A+ and the                 five endorse the predictions of quantum
+     and detectors. In the one experim ent            other is set to pass particles with the                 m echanics, that is, they indicate a vio­
+    t hat has been com pleted the filter was a        component B+ . After a large enough                     lation of the Bell inequality for some
+     carbon foil, which scattered each proton         sample of particles has been recorded in                choices of the axes A, B and C. The other
+     into one of two detectors depending on           this configuration the filters are rotated              two give correlations no greater than
+    t he value of the measured component.             to measure the components along axes                    those allowed by the Bell inequal ity and
+
+
+
+                                                                                                BEAM OF ATOMS
+
+
+    DETECTOR                                                                                                                         DETECTOR
+
+
+
+
+                   LENS        POLARIZATION FILTER                                      LENS      POLARIZATION FILTER        LENS
+
+
+
+    LlJ          DETECTOR
+
+
+
+
+                                                                       ELECTRONS
+                                                                                 ./
+                                                                                                                   POLARIZATION ANALYZER
+                                                                             "
+                                   <                                   j?"                        :>
+                                                                                      HIGH-E N E RGY PHOTON
+                                                                 ./�
+POLARIZATION ANALYZER                                       ./
+                                                       ./
+                                                POSITRONS
+
+
+
+
+                                                                                                                                DETECTOR
+
+
+
+
+                                  PROTON
+
+                                         :>
+
+PROTON ACCELE RATOR
+
+
+
+
+                                                                                                          DETECTORS
+
+
+
+
+                                                                                                                                                      173
+
+
+                                                                 © 1979 SCIENTIFIC AMERICAN, INC
+therefore support local realistic theo­            one. A great variety o f systematic flaws          tent res ults, that the issue has already
+ries. The score is thus five to two in fa­         in the design of an experiment could de­           been decided. For 'some choices of the
+vor of quantum mechanics. Actually the             stroy the evidence of a real correlation,          axes A. B and C the Bell inequality is
+support for quantum mechanics is much              yielding results within the limit set by           violated in nature, and local realistic
+stronger than this ratio would seem to             the Bell inequality. On the other hand, it         theories are therefore false .
+imply. One reason for attributing great­           is hard to imagine an experimental error
+er credibility to the five experiments that        that could create a false correlation in             f it can be considered as having been
+violate the Bell inequality is that they           five independent experiments. What is              I demonstrated that local realistic the­
+represent a larger sample of data and              more, the results of those experiments             ories are in error, which of the three
+are therefore statistically more signifi­          not only violate the Bell inequality but           premises underlying those theories is
+cant. Some of those experiments were               also violate it precisely as quantum me­           to blame? A first step in answering this
+done after the two anomalous results               chanics predicts. For the results of the           question should be to make sure no ad­
+were reported and included refinements             five experiments to be produced by ran­            ditional assumptions were made in for­
+in the instr umentation designed explicit­         dom coincidence would require an ex­               mulating the experimental test.
+ly to avoid any biases that might ac­              traordinary statistical fluke that is not             As it happens, at least one subsid iary
+co unt for the two d iscrepant results.            credible given the n um ber of particles           assumption was needed. Because of the
+Clauser and Shimony have pointed out               that have now been detected.                       limitations of practical instr uments, it
+that there is also an epistemological j us­           F urther tests of the Bell ineq uality are      was necessary to generalize the Bell ine­
+tification for disregarding the two exper­         under consideration, and at least one ad­          quality slightly, and that generalization
+iments that are in d isagreement with the          d itional experiment is already in prepa­          must be assumed to be valid; it cannot
+majority. Quantum mechanics predicts               ration. M ost physicists concerned with            be proved . It seems most unlikely, how­
+a larger correlation between events and            these problems, however, have substan­             ever, that this circumstance could alter
+local realistic theories predict a smaller         tial confidence, based on the five consis-         the phenomena in such a way that the
+                                                                                                      results of the experiments not only
+                                                                                                      would violate the Bell inequality but
+                                                                                                      also would be consistent with the pred ic­
+                                                                                                      tions of quantum mechanics. In any case
+                                                                                                      it is possible more refined experiments
+           o                                                                                          will test the inequality without the gen­
+                                                                                                      eralization. Because the subsidiary as­
+                                                                                                      sumption is susceptible to an experi­
+                                                                                                      mental test it seems less fundamental
+                                                                                                      than the other three, and so it will not be
+                                                                                                      considered further here.
+                                                                                                         Another area that might be scruti­
+                                                                                                      nized for unacknowledged assumptions
+     - .25
+                                                                                                      is the proof of the Bell inequality. In­
+                                                                                                      deed, it seems the proof does depend on
+                                                                                                      the assumed validity of ordinary, two­
+z
+o                                                                                                     valued logic, where a proposition must
+                                                                                                      be e ither true or false and a spin compo­
+�
+w                                                                                                     nent must be e ither plus or rriinus. Some
+a:
+a:
+                                                                                                      interpretations of quantum mechanics
+                                                                                                      have introduced the idea of a many­
+8 - .5                                                                                                valued logic, but those . proposals have
+                                                                                                      nothing to do with the reasoning applied
+
+
+                                                            \
+                                                                                                      in this proof. Indeed, in the context of
+                                                                                                      the proof it is difficult even to conce ive
+                                                            QUANTUM MECHANICS                         of an alternative to two-valued logic.
+                                                                                                      Unless such a system is formulated it
+                                                                                                      seems best to pass over the problem.
+     - . 75                                                                                              The entire series of experiments
+                                                                                                      founded on the ideas of Einstein, Podol­
+                                                                                                      sky and Rosen is sometimes regarded as
+                                                                                                      merely a test of hid den-parameter theo­
+                                                                                                      ries. The experiments do indeed test
+                                                                                                      those theories, but it sho uld be empha­
+                                                                                                      sized that the existence of hidden pa­
+                                                                                                      rameters is not an additional premise of
+      -1
+               o     15             30             45              60                                 local realistic theories. On the contrary,
+                                                                                  75             90
+                                                                                                      the existence of parameters specifying
+                             ANGLE BETWEEN ANALYZERS (DEGREES)
+                                                                                                      the deterministic properties of a particle
+RESULTS OF AN EXPERIMENTAL TEST of the Bell inequality show that it is clearly vio­                   was derived from the three original as­
+lated. The experiment is the one that employed pairs of protons in the singlet state, which was       sumptions. Remember that the psychol­
+carried out by M. Lamehi-Rachti and W. Mittig of the Saclay Nuclear Research Center in                ogist did not assume that his invented
+France. The negative correlation between the values of different spin components is given as a        test measured any real attrib ute of the
+function of the angle between the settings of the two analyzers. A correlation of - 1 would indi­
+                                                                                                      tested subjects; instead he deduced the
+cate that the com ponents invariably had opposite values. The Bell inequality states that the cor­
+                                                                                                      existence of such an attrib ute after ob­
+relation at any angle must be on or above the colored line. The observed correlations at 30, 45
+and 60 degrees are below the line. The results not only violate the Bell inequality but also are in
+                                                                                                      serving a strict correlation. In the same
+good agreement with the predictions of quantum m echanics, which fact adds to their credibili­        way the existence of hidden parameters
+ty. The violation of the Bell inequality implies that at least one of the three premises of local     was derived from the negative correla­
+realistic theories must be false; Einstein separability is considered the most plausible candidate.   tion detected when a single spin compo-
+
+
+
+ 174
+
+                                                     © 1979 SCIENTIFIC AMERICAN, INC
+nent was measured on pairs of protons               cal positivists have had an appreciable,         ing the free use of ind uction. It is in­
+in the singlet state.                               if indirect, influence on the thinking of        d uction that enabled the physicist to
+   It is probably not possible to prove             theoretical physicists.                          extrapolate from a series of observed
+rigorously that no other supplemen­                    The sense of paradox ind uced by the          negative correlations to the conclusion
+tary assumptions enter into the argu­               finding that the Bell inequality is violat­      that any two protons in the singlet state
+meht supporting the local realistic the­            ed can certainly be alleviated by adopt­         have opposite values of any single spin
+ories. The chain of reasoning is simple             ing a positivist attitude, and such a            component, even if none of the compo­
+enough, however, that if other assump­              course of action was first proposed long         nents is measured. The extrapolation
+tions are implicit in it, they should be            ago. When all the consequences of aban­          was an essential step in the proof of the
+easily recognize d . None has yet been              doning realism are considered, however ,         Bell inequality, but it is clearly insup­
+pointed out. It therefore seems that at­            it is t o o great a renunciation t o have        portable if the concept of unmeasured
+tention must be focused on the three                m uch appeal. In the context of this ex­         properties has no meaning.
+premises of realism, the free use of in­            periment positivism asserts that it would           This use of ind uction might be regard­
+duction and Einstein separability .                 be meaningless to attribute anything re­         ed by some as a weak link in the chain of
+   Of the three premises realism is the             sembling a definite spin component to a          argument. Shortly after the paper by
+most fundamental. Realism can be stat­              particle before the component is mea­            Einstein, Podolsky and Rosen appeared,
+ed formally as the belief that a mere               sured; that the only quantity with any           N iels Bohr p ublished a reply in which he
+description of data is not all that should          verifiable reality is the observation it­        defended the completeness of the quan­
+be required of a theory. Even an empiri­            self, the sensory impression; and that the       tum-mechanical description of nature;
+cal r ule for predicting the patterns of            psychologist's demand for an objective           the basis of his criticism was that Ein­
+future measurements is not enough. The              explanation of the remarkable correla­           ste in's use of induction was unwarrant­
+mind demands something more : not                   tion he observes should ultimately be            ed. Bohr's reply is a central doc ument
+necessarily determinism-there is noth­              rejecte d . If this refusal to seek underly­     in what has come to be known as the
+ing intrinsically irrational about ran­             ing causes of observed regularities is ap­       Copenhagen interpretation of q uantum
+domness-but at least objective expla­               plied consistently, it tr ivializes the entire   mechanics. His reasoning amounts to an
+nations of observed regularities, or in             scientific enterprise. S c ience is red uced     argument that a particle and an instru­
+other words causes. Underlying this de­             to a set of recipes for predicting future        ment adj usted to make a specific mea­
+mand is the intuitive notion that the               observations from a knowledge of past            surement on it constitute in some re­
+world outside the self is real and has at           ones. Any notion . of science as "the            spects a single system, which would be
+least some properties that exist indepen­           study of nature" is impossible; nature is        altered in an essential way if the setting
+dently of human consciousness.                      a phantom. One can imagine a physics             of the instrument were changed . For this
+   A number of philosophers, who can                grounded on positivist principles that           reason it is not allowable to make any
+collectively be called positivists, have            would predict all possible correlations          inferences about the state of a particle
+rejected the realistic viewpoint. The po­           of events and still leave the world total­       without specify ing at the same time the
+sitivists do not assert that the world ex­          ly incomprehensible. Given the extreme           settings of the instr uments that will in­
+
+
+
+
+�
+ternal to the mind does not exist; they             consequences of abolishing realism, one          teract with the particle .
+merely dismiss as meaningless any state­            is inclined to cling to this first premise.         Bohr ' s views have been widely influ­
+ment about an external reality that does               Realism enters the argument support­          ential, and in a sense rightly so; after all,
+not refer directly to sensory impres­               ing local realistic theories at another          the recent work under disc ussion here
+sions. In the 20th century some radi-               point: it is the j ustification for postulat-    has shown that in these matters he was
+
+
+                CTORS           �
+                                                                                                          UJ        I
+
+
+
+
+           /B               i      POLARIZATION ANALYZERS
+                                                                                                         cG
+                                                                                     POLARIZATION ANALYZERSii
+       �\\                                                                                                          I
+                                                                                                                    I
+
+
+                                                <
+
+                                                                    SO URCE OF
+                                                              LOW-E N E RGY PHOTONS
+
+
+EINSTEIN SEPARABILITY will be tested rigorously in an experi­                not pass from one detector to the other in time to influence the result
+ment now being prepared by Alain Aspect of the Optics Institute of           of the second measurement. In Aspect's experiment, which will mea­
+the University of Paris. Earlier experiments tested only the less re­        sure the polarization of low-energy photons, this condition will be
+strictive separability principle: the settings of the analyz ers were de­    met. Two sets of analyzers and detectors will be provided for each
+termined well in advance, so that some influence of one measurement          photon, and the analyzers will measure different components. A fast
+could be communicated (by an unknown mechanism) to the other                 optical switch will determine which analyzer the photon enters only
+measurement at a speed well below the velocity of light. This possi­         when it is too late for the decision to influence the other measurement
+ble explanation of the observed correlation is extremely unlikely, but       (assuming that the hypothetical influence propagates no faster than
+it would be excluded entirely if the settings of the analyzers were          light). The switch is shown as a moving mirror; actually the switching
+changed so quickly that a signal moving no faster than light could           will be accomplished by ultrasonic waves on the surface of a crystal.
+
+
+
+
+                                                                                                                                                1 77
+                                                          © 1979 SCIENTIFIC AMERICAN, INC
+                                                                                                                                                                               closer to the truth than E instein was.
+                                                                                          Save on Calculators                                                                  N evertheless, when Bohr's ideas are
+                                                                                                                                                                               considered in their essence, they are s u b ­
+
+                                                                              H EWLETT-PACKARD                                                                                 ject to objections much like those that
+                                                                                                                                                                               were raised against a retreat to positiv­
+                                                                               Model                         Youreost
+                                                                               HP-41C Scient                   $244.95                                                         ism. Because realism provides the ulti­
+                                                                               Card Reader/41C                  159.95
+                                                                               Printer/41C                      289.95                                                         mate rationale for the free use of ind u c ­
+                                                                               HP·34C Scient                    124.95
+                                                                               Hp·38C Bus.                      124.95                                                         tion, it c a n be argued that Bohr w a s not a
+                                                                               HP-38E Bus,                       99.95
+                                                                               HP-33C Scient                     99.95                                                         realist, or at least not a consistent one .
+                                                                               HP-33E Scient                     74.95
+                                                                               HP-37E Bus. prog                  62.95                                                         Any explanation of the d istant-corre la­
+                                                                               HP-32E Adv. Scient                58.95
+                                                                               HP-31E Scient                     42.95                                                         tion experiments that relies on Bohr's
+                                                                               HP-67 Scient Prog                299.95
+                                                                               Hp·97 Scient Print               594.95                                                         reply to Einstein, Podolsky and Rosen
+                                                                               HP-29C Scient elm                139.95
+                                                                               HP-IO HH Print                   139.95                                                         may turn out to be inconsistent w i t h
+                                                                                                                                                                               even a moderate version of realism.
+                                                                               Hp·92 Bus, Print                 399.95
+
+
+
+                                                                              We carry an enormous stock of HP accessories. All units come complete.
+                                                                                                                                                                                  f realism and the free use of ind uction
+    "On a square yard of glossy black this
+                                                                             TEXAS INSTRUMENTS
+                                                                                                          One year guarantee bV HP.
+
+
+                                                                                                                                                       i                        I are to be retained , the violation of the
+     poster image , profound, enigmatic,                                                                                                                                         Bell inequality can be explained only by
+     beautiful, presents in a clotted
+                                                                             11·59     $209.95 Tl·35    23.95  Speak S Spell 5U5                            '       -
+                                                                             TI·PC100C 146.95 11·5040 89.95 Data Card 23.95                                                      giving up the assumption of E instein
+                                                                             11·58C      94.95 11·5100  42.95  BusinessCard 35.95
+     tangle of tiny gray squares one                                         11·51       4US   11-5200 Call us MBA           58.95                                               separability. In the psychological exper­
+                                                                             11·55       35.95 11·5225 Call us TI·5025       79.95
+     abstract but faithful view o f the                                      11·50       35.95 11·5221 Call us 11-5015       62.95
+                                                                                                                                                                                 iment separability was understood to
+                                                                             11·25       28.95 11-5230 Call us
+     entire thing. . . . The map is offered                                                                                                                                      imply that the husbands and the wives,
+                                                                             Huga inventory Of n accessorial on hand et all times, discounlprices.
+     grandly, not for the scientific record                                  All units come completa, fully gUlrantaed byTells lnslruments.                                      once they were separated, could not
+     alone but in visual celebration of                                                                                    g�����m� l:;�i!i�·sSS                                 communicate with each other. In the
+     the world. No Tantric demon or
+                                                                             SPECIALS                                                  a                             1�::�
+     b enign celestial choir provides a
+                                                                             :��i�E!.��•• to diu.. Jr_                    ��;���:;�����:�:
+                                                                             Ca��e� typ" 'T8 nk" lIoldton. $181 95 �::�::����':dar S
+                                                                                                                                                    �� 55s           :��:�       physics experiment the separability as­
+                                                                                                                                                                          �      sumption expressed the intuitively rea­
+                                                                             Caniertypa ''Tank'' lIoldtona
+                                                                                                                    . Mulli AI.rrn Goldtone                          m:
+     more vivid sr.mbol of the vastness                                                                                                                              1 99.95
+                                                                                                                                                                                 sonable idea that the spin components
+                                                                               women                            187.95     Goldlone available at higher prices.
+     of the universe in which we liv e . "                                    Laqll selection 01 ladies, man, .naJog digital,ttlin. ultrl Ihin, div ers, flyers, aU kind.        of one proton have no infl uence over
+                              -Philip Morrison                               Sony lV's all models               Call us RCA SelectVCT2D1 4 hrs .uto s10 799.95                   those of the other proton, provided the
+                                                                             Betamalt Sl8600                    889.95     Cr.ig Tr.lIsla!or .lld modules Call us
+                                  S cie ntific American                      ACA Selectavlsion VCT400X prog 999.95 Dicllting equIp, all kinds                       Call us      two particles are far apart. The more
+                                                                                 Price. are f.o.b. tt ��� ra·!f:d��Jf��' �a ���eld calcs ill USA.                                restrictive assumption of Einstein sepa­
+                                                                                                    A i                    et
+                                                                              We wiU bllt enY ldvertised dill if the competition has the goods on hend.
+                                                                             � GOOdS SUbject to lvailebility. ASk for our femous cataIOg
+                                                                             V/S4. OutJide    C
+                                                                                               l��O�I�t!� fsOOf:if�� ��C� (��3a1.3911
+                                                                                                                         7
+                                                                                                                                                           .•                    rability forbids s uch an influence only if
+                                                                                                                                                                                 it would have to propagate w ith a speed
+                                                                                           VISA .lId MASTERCHARGE- CARDS Icceptad
+                                                                                             •
+                                                                                                                                                                                 greater than the speed of light. As I have
+                                                                                 O l'l m P I C SALE S COmPAn'l I nc.
+                                                                                              2 1 6 S o u t h O xlord Ave ' P O Box 74545
+                                                                                                                                                                               . shown, this assumption must now be re­
+     Box 428 S, Sausalito, California 94965
+                                                                                                                                              T
+                                                                                      Los Anyeles, C A 90004 . ( 2 1 3) 3 8 1 3 9 1 1 • e l e x 6 7 3477                         garded as highly questionable.
+                                                                                                                                                                                    Before considering the consequences
+- - - M a i l Ad. No Letter N eeded - - -
+                                                                                                                                                                                 of this conclusion it should be pointed
+    Mystery                                                                                                                                                                      out that none of the experiments com­
+                                                                                                                                                                                 pleted so far has rigorously tested the
+   Electronic Top -�II-==-                                                                                                                                                       assumption of E instein separability. In
+   Spins For Days On                                                                                                                                                             those experiments the settings of the in;
+   Invisible                                                                                                                                                                     struments were determined well in ad­
+                "­
+   Power! Makes                                                                                                                                                                  vance (on the time scale of particle phys­
+   Unique Gift!                                                                                                                                                                  ics). Therefore the setting of one instru­
+W h a t M a k e s It Go On a n d On and On a t
+2 500 r . p . m . w i t h no apparent energy                                                                                                                                     ment could conceivably affect events
+source? BAFFLING BRAIN BUSTER that                         the BRIGHT·                                                                                                           observed at the other instrument, or it
+EST. Demonstrated at science fairs and conventions. The
+higher their   IQ    the more puzzled they are. Perpetual Motion                                                                                                                 could modify hidden parameters at the
+solved at last? The answer to UFO 81 Flying Saucer? Let
+the whiz kids examine it, start it. stop it or whatever.
+                                                                                                                                                                                 source of the proton pairs; in e ither case
+Psychic Power? Anti-Gravit y ? Scientific Breakthru from                                                                                                                         there would be no need for the influence
+Space? You'll laugh at some 3xplanations. Magic. Mystery
+& Science combined. Keeps spinning WITHOUT ANY                                                                                                                                   to travel faster than light. An experi­
+APPARENT ENERGY LOSSI Fascinating fun                       at panies.                                                                                                           ment w ith instr uments whose setting can
+science classes, etc. Carry in pocket ready to fool and
+entertain friends & wise-guys. Never wears out. Spins for                                                                                                                        be changed rapidly could exclude this
+days on Invisible Wireless Power that you can defy anyone
+to See, Understand or Explainl Beautifully made with plastic                                                                                                                     possibility. The decision to meas ure a
+                                                                                                                                                                                 certain spin component with one detec­
+base and saucer-shaped spinner. Patented . Complete with
+secret scientific explanation. Order. shipped same day                re­
+ceived. Money Back Guarantee. Send check or money order                                                                                                                          tor would not be made until it was too
+for $ 8 . 50 each. Add $ 1 .00 shipping & handling. Save: Get
+3 for $ 2 4 . 2 5 plus $ 1 . 2 5 ship . ; 6 for $ 4 5 . 9 5 plus $ 1 . 5 0                                                                                                     late for any influence of that dec ision to
+ship. Master Charge o r Visa accepted b V mail o r phone. Give
+card number & e x piration. Phone: 1 3 1 3 J 7 9 1 - 2 8 0 0 .                   The world· famous HALSMAN photographic portrait                                               reach the other instrument or the source,
+                                                                                 of Albert Einstein, used for the 1966 U.S. postage stamp, is
+                                                                                                                                                                               even at the speed of l ight, in time to alter
+                                                 Sound                           now reproduced in this historic poster to commemorate
+                                                                                 the I OOth anniversary of the birth or the greatest genius of                                 the outcome of the second measure­
+                                                Activated                        modem times.
+                                                                                                                                                                               ment. Such an experiment is now being
+                                                 Switch
+                                                                                 You can own this historic commemorative poster for only
+                                                                                 $10.00 postpaid. This limited edition will be issued only                                     done by Alain Aspect of the Optics In­
+Turns on lights, bells, horns, sirens, alarms, tape re­                          during the centennial year, so order now!
+                                                                                 r---------------------------------·                                                           stitute of the University of Paris.
+corders, wireless mikes, etc.
+                       Operates by voice, whistle                                , 0      Yes, Rush me my Einstein Centennial poster.  :
+or any sound from across room.        Hundreds of fun
+                                               &                                          I enclose a check or money order for S ___                                    ,         Q uite apart from the question of how
+practical uses. Do mysterious tricks stunts. Great for
+                                                                                 •
+
+                               &                                                 :        for---POster(s) at $ 1 0 each. Size 18"X21'"                                  :      fast a hypothetical influence could trav­
+experiments, electronic bugs.
+                          NOT A KIT.          Completely                         : (N. Y. S TA TE RESIDENTS A DD 8% SALES TAX). '
+assembled, wired. Includes sensitive switch which re­                                                                                                                          el from one instrument to another, the
+ceives sonic Signal, transistorized relay circuit & elec-                            Name     --------"(prnlc=a=��PD.r=in=I)�--
+   n       c        a          h                  v e                                                                                                                          influence itself seems extremely implau­
+�5. �i��� ��a�'X�� �I���6ni6s s�����: $�1jJ��c ��2 f��                               Address      ___________________________                                                  sible. It would be required to alter the
+$3.00. Add 7 5 ¢ handling.
+ J o h n s o n S m ith Co . , 35075 Auto m a t i o n                                                                                                                           d istant observations in precisely the
+                                                                                     City ____ State ______ Zip ____
+  D e pt . 6 9 1 1 , M t . C l e m e n s , M i c h . 48043                           Send check or money order to:                                                             manner needed to produce the o b served
+                    Catalog of 1l1li Novelties, Tricks, .bkes,                       Hastings                                                                                  violation of the Bell inequality. Hence it
+F R E E I Odd Scientific, Hobby and Fun Items.
+                                                                                                                     1 2 1 East 24th St.
+                                                                                    Galleries                        New York, N.Y. 10010
+               •
+                                                                                 � .�i!pl�e!!      • • • • • • • • • • • • • • •• • • • • • • • • • • •
+                                                                                                                                                                               seems best to search for some other ex-
+ o Rush Your New 1 9 7 9 Catalog To M e
+
+1 78
+
+                                                                                         © 1979 SCIENTIFIC AMERICAN, INC
+Did you miss these
+                                                                                                                                                    planation and to assume, pending the
+                                                                                                                                                    results of Aspect's experiment, that if
+                                                                                                                                                    ordinary separability is violated, Ein­
+
+
+
+
+two highly-acclaimed
+                                                                                                                                                    stein separability will be violated too.
+                                                                                                                                                       I have d iscussed a pair of protons as
+                                                                                                                                                    if they were independent entities that
+
+
+
+
+issues of D£DALUS ?
+                                                                                                                                                    come together in the target and then
+                                                                                                                                                    move apart again. They can also be re­
+                                                                                                                                                    garded as the elements of a single physi­
+                                                                                                                                                    cal system that is created d uring the first
+                                                                                                                                                    interaction and becomes progressively
+                                                                                                                                                    more extended in space until it is dis­
+                                                                                                                                                    rupted by the first meas urement. With
+Would you like                                                                                                                                      respect to separability these descriptions
+                                                                                                                                                    are e quivalent. In each case a violation
+
+to receive them                                                                                                                                     of Einstein separability req uires instan­
+                                                                                                                                                    taneous action at a distance, either be­
+
+both FREE?        . . .
+                                                                                                                                                    tween independent systems or within a
+                                                                                                                                                    single extended system.
+                                                                                                                                                       M ust the principle of the finite prop­
+                                                                                                                                                    agation of signals therefore be aban­
+Do you find it d ifficult to keep up with                                                                                                           doned? To that question no rash answer
+fields distant from your own ? Do you                                                                                                               should be given. The principle was in­
+find you rself getting fragments of in­                                                                                                             troduced as a premise of the theory of
+formation about what is happening                                        D I SCOV E R I E S AND I N T E R P R ETATI O N S :                         relativity, which cannot be made consis­
+in those fields-but seldom a coher­                                      S t u d i e s i n C o n t e m p o r a ry S c h o l a r s h i p .           tent without it. M oreover, signals that
+ent picture of what is happen i n g ?                                                                                                               outrace light give rise to bizarre para­
+                                                                         T h es e t w o i s s u e s o n a s i n g l e t h e m e a re
+                                                                                                                                                    doxes of causality in which o bservers in
+                                                                         y o u rs FREE with y o u r i n t ro d u cto ry s u b­
+A subscription to Daedalus c a n help.                                   s c r i p t i o n to Daedalus. T h e i s s u e s show                      some frames of reference find that one
+Each quarterly issue examines a si n­                                    how t rad i t i o n a l b o u n d aries h ave shifted,                     event is "caused " by another that has
+gle theme from a vari ety of perspec­                                    a n d why research p ri o r i t i e s today are s u b­                     not yet happened. It turns out, however,
+                                                                         stanti a l l y d i fferent from what they were
+t ives, with contributions from many                                                                                                                that the instantaneous influences that
+                                                                         even a decade ago. D i st i n g u i s h e d con­
+of the leading thinkers of our time.                                     t r i b u t o rs i n c l u d e :                                           seem to be at work in the distant-corre­
+Y o u g a i n an a p p r e c i a t i o n of t h e                                                                                                   lation experiments do not req uire such a
+                                                                         Sidney         D.   Drell o n        e l e m e n t a ry    p a rti c l e
+changes, t h e challenges, t h e contro­                                 physics                                                                    drastic revision of accepted ideas. It
+versies in a given field.                                                D. W. Sciama o n black h o l es                                            seems quite certain these influences
+                                                                         D. P. M cKenzie on p l ate tecto n i c s                                   could not be employed to transmit any
+How far-ranging is Daedalus? About                                       Steven Weinberg o n q u a n t u m fi e l d t h e o ry
+                                                                                                                                                    " useful" information, such as orders or
+as far-ranging in i ts intel lectual curi­                               Bruno Rossi on X-ray astronomy
+                                                                         Lewis Thomas o n b i o m e d i c a l science and                           instructions. No event that causes an­
+osity as you are ! Recent issues, for                                     human health                                                              other event can be linked to it through
+example, have explored the future of                                     Edward O. Wilson o n b i o l ogy a n d the so­                             this mechanism; the instantaneous infl u­
+Europe . • • Rousseau after 200 years                                    c i a l s c i e n ces.
+                                                                                                                                                    ences can pass only between events that
+                                                                         Stephen Toulmin o n h i sto ry a n d p h i l o so­
+. • . the family in modern society • • •
+                                                                          phy of s c i e n ce                                                       are related by a common cause. Hence
+ethical and social l i mits on scientific                                                                                                           the concept of a signal could be rede­
+                                                                         Also, Gerald Holton on the u n ity of sci­
+research. Studies i n prog ress i nclude                                                                                                            fined in such a way that only those
+                                                                         ence . . . M. I. Finley o n h istoriog raphy . • .
+U.S. defense policies in the 1 980s and                                  Svetlana Alpers on art h i story . . . Stanley                             means of communication that transmit
+the problem of sci entific literacy.                                     Hoffmann on i nternati o n al relati o n s . • .                           useful information would be called sig­
+                                                                         Victor Turner o n a n t h r o p o l ogy . . . G o rdon                     nals. The principle of the finite veloc ity
+Each issue of Daedalus is pri nted and                                   R. Willey o n archaeology . . . Shmuel N.
+                                                                         Eisenstadt on s o c i o l o g i c a l t h e o ry . . .
+                                                                                                                                                    of signals would then be preserved .
+bound l i ke a fine book, a permanent
+                                                                         Lester C. Th u row on eco n o m i cs . . . Jean                               Even this solution impairs scientific
+addition to you r library.
+                                                                         Starobi nski o n c r i t i c i s m a n d a u t h o r ity . . .             realism to some extent. The basic law
+                                                                         Jonathan Culler on s i g n s a n d m e a n i n g                           that signals cannot travel faster than
+To start your subscription-and re­
+                                                                         . . . G eorge A. M i ller o n p r o b l e m s o f
+ceive your two F R E E issues-simply                                     c o m m u n i cation . . . Emmanuel B. LeRoy
+                                                                                                                                                    light is demoted from a property of ex­
+return the form below.                                                   Ladurie o n rec e n t h isto r i c a l " d i scove r i e s . "             ternal reality to a feature of mere com­
+                                                                                                                                                    m unicable human experience. Although
+                                                                                                                                                    this represents a step toward philosophi­
+
+
+
+
+                             Ii
+                                                   Mail to :
+                                                   DAEDALUS,                                                                                        cal positivism, the concept of an inde­
+                                                   Subscription Dept.                                                                               pendent or external reality can still be
+                                                   1 65 A l l a n d a l e S t r e e t                                                               retained as a possible explanation of ob­
+                                                   Bosto n , M ass. 0 2 1 30                                                                        served regularities in experiments. It is
+    YES . . . p l ease start my i n t rod u ctory s u bs c ri pti o n to Daedalus. I prefe r :                                                      necessary, however, that the violation of
+    o 1 year (4 i s s u es) fo r $ 1 4 . 00                       0 2 years (8 i s s u e s ) fo r $ 2 4 . 00                                        Einstein separability be included as a
+                                                                                                                                                    property, albeit a well-hidden and coun­
+    P l ease check appropriate boxes :                                                                                                              terintuitive property, of that indepen­
+    I w i s h to receive my two free i s s u e s ri g ht                                                                                            dent reality. It sho uld be noted in pass­
+    away.
+                                                                                                                                                    ing that Bohr ' s refutation of Einstein's
+    o Payment e n c l osed $,         _______ ,                           N a m e _____________
+    o C h a r g e my c re d i t c a r d :                                                                                                           argument for hidden parameters intro­
+      o Master C h a rg e 0 V I SA                                                                                                                  duces an implicit violation of separabil­
+                                                                          Add ress ____________
+                                                                                                                                                    ity. It is founded on a strange indivisi­
+        Card N u m b e r              E x p i rat i o n Date
+                                                                                                                                                    bility of the system of particles and the
+    o P l ease b i l l me l ater. (Yo u r free spec i a l                 C i ty                   State ___ Z i p ___
+                                                                                                                                                    instruments of observation.
+         d o u b l e i ss u e w i l l be sent u p o n rec e i pt of p a y m e nt.)       (Add $2.00 for fore i g n s u b s c r i p t i o ns)
+
+      Daedalus i s p u b l i s h e d by t h e A m e r i c a n Academy of Arts a n d S c i e n c e s .
+                                                                                                                                                       The argument that proceeds from an
+--------------------------------
+
+
+ 1 80
+
+                                                                                   © 1979 SCIENTIFIC AMERICAN, INC
+observed correlation to the Bell in­
+equality to the violation of Einstein sep­
+arability is not particularly complicat­
+ed, but it is indirect. Could the same re­
+sult have been obtained in some more
+straightforward way? As it happens, it
+could not have been demonstrated with­
+out the Bell inequality, but it could have
+been suspected, and in fact it was. The
+suspicion arose from the fact that the
+wave function for a system of two or
+more particles is generally a nonlocal
+entity, which is considered to collapse
+suddenly or even instantaneously when
+a measurement is made. I f the wave
+function is regarded as a kind of bizarre
+real jelly, the instantaneous collapse ob­
+viously violates Einstein separability.
+This naive argument was never taken
+very seriously, however, because the
+conventional interpretation o f quantum
+mechanics does not identify the wave
+function o f a system with whatever is
+meant by the reality of the system. Bohr,
+for example, considered the wave func­
+tion a mere tool for doing calculations.
+Besides, the wave function for a sys­
+tem of several particles describes them
+only in an approximation that ignores
+the theory o f relativity, and so its struc­
+ture hardly seems a reliable argument
+against Einstein separability. For these
+reasons it was possible until a few years
+ago to believe in an independent, exter­
+nal reality and sim ultaneously to regard
+Einstein separability as a completely
+general law bearing on that reality.
+
+
+
+O    ne conceivable response to the dis­
+      tant-correlation experiments is that
+their outcome is inconsequential. The
+experiments themselves might represent
+a rare and therefore interesting test of
+quantum-mechanical phenomena ob­
+served at long range, but the results are
+merely what was expected . They show
+that the theory is in agreement with ex­
+periment and so provide no new infor­
+mation. S uch a reaction would be highly
+superficial. It is indeed true that the e x­
+periments, now that they have been
+complete d , have turned out to have little
+to d o w ith quantum mechanics. That
+does not make them trivial; rather, it
+indicates that their real bearing is else­
+where. A d iscovery that d iscredits a ba­
+sic assumption about the structure of
+the world, an assumption long held and
+seldom questioned, is anything but trivi­
+al. It is a welcome illumination.
+   M ost particles or aggregates o f parti­
+cles that are ordinarily regarded as sepa­
+rate objects have interacted at some
+time in the past with other objects. The       Help the U.S. Ski Team bring home the Gold.
+violation o f separability seems to imply
+that in some sense all these objects con­           There's one thing standing between the U . S. Ski Team and a Gold Medal
+stitute an indivisible whole. Perhaps in       at the Olympics : money.
+such a world the concept o f an indepen­            Our Alpine and Nordic teams are not subsidized by the government.
+dently existing reality can retain some        Team members invest years of their lives training to win. Now they need
+meaning, but it will be an altered mean­       your help. Please send your tax-deductible donations to the U . S. Ski   Ll/S
+ing and one remote from everyday expe­         Educational Foundation, Box 100 M , Park City, Utah 84060.
+                                                                                                                      -'liE.IAM,
+                                                                                                                       f, I
+rience .                                                                                                     Thanks. �
+
+
+
+                                                                                                                                   181
+
+
+                                                     © 1979 SCIENTIFIC AMERICAN, INC
+

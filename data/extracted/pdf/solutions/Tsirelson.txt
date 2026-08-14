@@ -1,0 +1,395 @@
+QUANTUM GENERALIZATIONS OF BELL'S INEQUALITY
+
+
+
+                B.S. CIREL'SON
+                Leningrad, U.S.S.R.
+
+
+
+AB ST R ACT. Even though quantum correlations violate Bell's inequality, they satisfy weaker
+inequalities of a similar type. Some particular inequalities of this kind are proved here. The more
+general case of instruments located in different space-time regions is also discussed in some detail.
+
+The Einstein-Podolsky-Rosen paradox, Bell's inequality and related theoretical and experimental
+works (see, e.g., the survey [1 ] ) have drawn particular attention to the correlation of two quantum
+observables measured by two space-like separated instruments, each one having a classical para-
+meter (e.g., the orientation of a spin-measuring instrument). The transition probability function,
+i.e., the joint probability distribution of observables in some fixed state of the system, considered
+as a function of the above-mentioned parameters, may violate an inequality such as Bell's and,
+therefore, be unrealizable in classical physics or, more precisely, in all local hidden variables
+theories. We know today that such a transition probability function may nevertheless be realizable
+by suitable quantum measurements. But quantum transition probability functions obey some
+limitations too. The object of the present paper is to investigate these limitations in some particular
+cases. We show in particular that in the case of observables and parameters each having only
+two possible values one may limit oneself to a pair of spin one-half particles as a system and their
+spin components as observables. Correlations that cannot be realized in this way cannot be real-
+ized by any quantum measurements whatsoever. Besides that we attempt to treat the general case
+of an arbitrary set of instruments localized in certain regions of space-time, which form a partially
+ordered set with respect to causal dependence.
+   The present paper contains four theorems whose proofs will be published elsewhere and a short
+discussion of their physical content.
+   Let an observable A k be given for each value of a parameter k = 1,...,m, and an observable B t
+for each l = 1..... n, each A k commuting with each Bt. The following theorem characterizes all
+possible quantum correlations between A k and BI (i.e., expectation values Ckl Of A k B l ) in case of
+A k and Bt having their spectra consisting of two points {-1; +1 ) or, more generally, included in
+the interval [-1 ; +1] ; in both cases the answer is the same and is contained in condition (4).
+
+THEOREM 1. The following f o u r conditions f o r real numbers ekb k = 1 ..... m, l = 1 .... , n are
+equivalent.
+   (1) There are a C*-algebra ~r with identity, Hermitian A 1..... A m , B1 ..... B n ~ zg, and a state
+f on ~r such that, f o r every k,l,
+
+
+      AkBI=BIAk;         -11 <<-Ak <~ 11;   --11 ~ B l ~ 11;   f(AkBl)=ckt.
+
+
+
+
+                                                                                                       93
+Letters in MathematicalPhysics 4 (1980) 93-100. 0377-9017/80/0042-0093 $ 00.80.
+Copyright 9 1980 by D. Reidel Publishing Company.
+   (2) There are Hermitian operators A ~..... Am, B1 ..... B n and a density matrix W (L e. a positive
+operator with trace 1) in a Hilbert space H such that, for every k,l,
+   A k B l = B i A k ; spectrum (Ak) C [ - 1 ; + 1 ] ;
+   spectrum (Bl) C [-1; +1] ; Tr(AkBIW ) = Ckl.
+   (3) The same as (2) and in addition AN = 11,B~ = 11, Tr(AkW) = 0, Yr(BlW) = O for every k,I;
+and H = H1 * H 2 , A k = A~ 1) | 11(2), Bl = 11(1) | B} 2 ), where A~l ) , B t 2 ) are some operators in H1,
+H2, respectively, 11(1), 11(2)ar e identity operators; besides that all anticommutators A~I ) A~I2) +
+A~12) A~I1) and Bt 2) B ~ ) + Bt 2) B~2) are scalar(i.e.,proportional to 11(1) and 11(2), respectively);
+H, H1,112 are finite dimensional, obeying
+
+                                    i f m is even,
+     21og2dimHx ~< [ m
+                       / m+l        if m is odd,
+                           n        if n is even,
+                       I
+     2 log2 dim//2 ~< /
+                       / n+l        if n is odd.
+
+
+   (4) There are unit vectors x 1..... Xm, Y l ..... Yn in a (m+n)-dimensional Euclidean space such
+that, for every k,l,
+
+
+                ( x k , y l ~ = Ckl.
+
+This theorem shows that for m = n = 2, the operators Ak, Bl can be chosen as 2 x 2 matrices
+obeying A N = 11,B~ = 11 and having scalar anticommutators; thus, A 1 and A 2 can be interpreted
+as spin components along two different directions of a spin one-half particle; the same holds true
+for B~, B2 with a second particle. It is known in this case that with a suitable choice of directions
+and of the density matrix W one can obtain
+
+                c l l +c12 +c21 - c 2 2 =Tr((AaBI +A1B2 +A2B1 - A 2 B 2 ) W ) = 2 X / ~ ",
+
+whereas in the classical case all operators commute, and thus obey
+
+                 ~IB1 + A I B 2 +A2Bx - A 2 B 2 [ < ~ IB1 +B2 I + IBI -B2 I < 2 .
+
+It is also known that the right-hand side 2X/~'is the greatest possible value for the particular
+linear combination of spin correlations considered above. According to Theorem 1 this implies
+that the inequality
+
+                011 -I'el 2 +e21 - - c 2 2 ~ 2x/2
+
+
+holds for arbitrary quantum observables A l, A2, Bx and B2 as well. There is also an elementary
+proof, based on a simple but lengthy calculation:
+
+
+94
+                                                      1
+               A1B I +AIB 2 +A2B 1 - A 2 B 2 =~-~ (A~ +A~ +B~ + B ~ ) -
+
+                       X/-2- 1 ((X/~+ 1)(A1 - e l )       +A2 - B 2 ) 2 -
+                          8
+
+                      X/~'- 1 ((X/~+ 1)(A1 - B 2 ) - A 2 - B 1 ) 2 -
+                         8
+                      v~'-I
+                     ---((X/~+          1) (A2 - B 1 ) +A1 +B2) 2 -
+                          8
+                      ~/~-- 1
+                            8   ((x/~+ 1)(A2 + B 2 ) - A 1 - - B 1 ) 2
+
+                        1
+                                             +B::) <_           11.
+
+    Theorem 1, via (4), yields comparatively simple (in general quadratic) limitations for the
+quantum correlations Ckl. This simple result is obtained only since the mean values of Ak and
+B l w e r e left undetermined. If these mean values are also considered to be given, we are able to
+generalize Theorem 1 only for the particular case m = n = 2, and even then the resulting inequali-
+ties are much more complicated. Our results are contained in the following two theorems.
+
+THE O R E M 2. The following two definitions of a real number M, considered as a function of eight
+arbitrarily given real numbers ~1, a2,/31, ~2,3'1 1,3'12,3'21,3'22, are equivalent.
+   (1) M = A1,AS,Uj~l___,B2 (sup {XtX E spectrum (Z) })
+where
+
+   Z=alA1 +a2A2 +/31B1 +/32B2 +711A1B1 +712A1B2 +721A2B1 +3'22A2B2 ,
+
+and A1, A2, B1, B2 are arbitrary Hermitian operators in a Hilbert space obeying
+
+               AkBl=BtA k ; spectrum(Ak) C [-1;+1] ;                  spectrum (B/) C [-1;+1]
+
+fork= 1, 2andl= 1,2.
+    (2) M = inf m,
+where the infimum is taken over all m > 0 such that, for every complex numbers u, v obeying
+J!ul= 1, Ivl = 1, the following inequalities hoM:
+
+               m4 +/~2m2 +tt3m +/~4 > 0 ,
+
+               4m 3 +2/~2m +/~3 > 0 ,
+
+               6m2 +#2 > 0 ,
+
+where
+
+
+                                                                                                 95
+                    #z = - ( l e l u + If 1 2 ) - 2(tgl 2 + Ih12),
+
+                    #a = - 4 R e ( e g h + f g h ) ,
+
+
+                    /24 = lel 2 Ill: + (Igl 2 - l h l 2 ) 2 - 2 R e ( e f g ~ + ~fh2),
+
+with
+
+                          1
+                    e = ~ ( u v 7 1 1 - uv712 - uv721 + uv722),
+
+
+                   f=~-(UP~I          1 -- UFT12 -- ~V-,),21 +ffV722) ,
+
+                           1
+                   g=           (ual -
+
+                           1
+                   h            (v   l -
+                        Vz
+
+THEOREM 3. The following four conditions for eight real numbers al, a2, bl, b2, cl 1, el 2, c21,
+c2 2 are equivalent.
+(1) There are a C*-algebra ~ with identity, Hermitian A 1, A 2 , B1, B2 ~ ~r and a state f on
+such that for k = 1,2 and l = 1,2,
+
+
+                   A k B l =BIAk; -I1 <_Ak <__11; --11 <__Bt <_11;
+                   f ( A k ) = ak; f ( B l ) = bt; f ( A k B l ) = Ckl.
+
+(2) There are Hermitian operators A 1, A2, B1, B2 and a density matrix W in a Hilbert space H
+such that for k = 1,2 and l = 1,2,
+
+
+                   A k B 1 = BIAk; spectrum ( A k ) C [-1 ;+1 ] ;
+                    spectrum (Bl) C [--1;+1] ;Tr ( A k W ) =ak;
+                    Tr (BtW) = bl; Tr (AkBthO = Ckl .
+
+(3) There are Hermitian 2 x 2-matrices A 1 (~), A2 (~'), B1 (~'), B2 (~') and a 4 x 4 density
+matrix W (~), depending in a measurable way on a parameter ~ E [0;1 ], such that, for every
+~'E [ 0 ; 1 ] , k = 1 , 2 a n d l = 1,2,
+
+                    A~ (/) = 11;           B~(~') = ]1;        A1 (~')A2 (~') +A2(~)A~ (~)
+
+and
+
+
+                    B1 (~)B2 (~) + B2 (~)B1 (~)
+
+are scalar; and
+
+96
+                    1
+                I Tr((Ak(~') ~ ll2)W(~'))d~'=ak,
+                    0
+
+                    1
+                /       Tr((ll2 | Bz(~')) W(~'))d~"= bl,
+                    0
+
+                    1
+                 I Tr((Ak(Ak(~") | BI(~))W(~)) d~ = C k l ,
+                    o
+
+
+where 112 is the 2 • 2 identity matrix.
+(4) For any eight arbitrarily given real numbers a l , a2,/31,/32,71 1,712,721,722,
+
+
+               a l a l + 0~2a2 +fllbl +f12b2 +')'11Cll +~'12e12 +")'21c21 +"[22r         <M,
+
+where M is defined as in Theorem 2.
+
+We see again that it is sufficient to deal with spin one-half particles; it is necessary now, however,
+to use a randomization by means of a classical random parameter ~"affecting the state of the par-
+ticles and the orientations of the two spin measuring instruments. Most likely our results are not
+generalizable for m > 2 or n > 2. In fact, any two noncommuting operators A 1, A2, obeying
+A~ = 11, A~ = 1, commute with a third operator, namely withAxA2 +A2A1. This is of crucial
+importance for the proofs of Theorems 2 and 3, and has no analog for the three or more operators.
+   Now we turn from the case of two space-like separated (e.g., spin measuring) devices to a more
+general case. Of course, our results will be less concrete than those above. We shall treat an
+arbitrary set of local instruments following Kraus [2,3], Hellwig and Kraus [4], and Davies and
+Lewis [51.
+   Let C1 ,..., Cn be regions of space-time such that for every different k,l, either any point from Ct is
+in the future with respect to any point from Cg (denoted by Ck < el), or vice versa (C1< Ck), or any
+two points from Ck and C1, respectively, are space-like separated (C k ~ Q). It is convenient to suppose
+that the numbering of regions conforms to their chronological order, i.e. if k < l then either
+Ck < Q or Ck ~ Q. We shall consider for each k = 1.... ,n a finite index set S k and an instrument,
+i.e. a family {Ok(Sk))SloES k o f operations Ok(S/c), such that the sum over Sk of the corresponding
+effects is 11. Note that each operation is a mapping O:L~ (H) -~L+(H) of the form OW =
+Zi AiWAi, * where H i s a Hilbert space describing a quantum system, L~ (H) is the set of all positive
+trace-class operators, and Ai are linear operators on H obeying F < I1, where F = ~.A~.Ai is the
+                                                                                  1
+effect corresponding to O. Application of an instrument (O(s) }s~S to the system, being in a
+state with a density matrix W, produces with the probability p(s) = Tr(O(s) W) an output s E S
+and a new state of the system with the density matrix (1/p (s))O(s)W. A combined examination
+of several local instruments requires some further conditions. We suppose that each instrument
+ (Ok (sk) } is localized in the corresponding region Ck. Then the instruments must obey the fol-
+lowing obvious condition.
+
+
+                                                                                                       97
+Condition (.4}. If Ck ~ G , the instruments (Ok(sic) } and (Ol($1)} commute, i.e.,
+
+                  01r162          W = Ol(Sl)Ok(slr ) ~1
+
+for every sk ESk, st ESI, W E L~ (H).
+   A combined application of all instruments (Ok(sk) } to the density matrix W produces with
+the probability
+
+
+               p( {sk }) = Tr(On(Sn) ... O,(s,)W)
+
+a combined output (s k }k= 1..... n E HSk and a new density matrix
+                                             k
+
+                     1
+              -  -                          O1($1)W.
+               p((sk )) O n ( $ n )   ...
+
+
+
+
+The Condition (A) ensures that this composition of instruments is independent of their numbering
+(which although assumed to be chronological, is still arbitrary in case of space-like separation).
+But we need a stronger condition. Any operation O has a representation (see [3] ) by means of an
+auxiliary Hilbert space H1 describing an apparatus, a density matrix W1 on H~ describing the
+initial apparatus state, a unitary operator U~ on H e / / 1 describing an interaction between system
+and apparatus, and a projection operator P on H~ describing a property of the apparatus; we shall
+denote this fact as 0 = Op(W1, U1,P). It is known also [3] that any instrument {O(s) }sEs has
+a representation by means of a single apparatus: O(s) = Op(W1, U1, P(s)), where {P(s) }ses is an
+ideal measurement, i.e., a family of disjoint projection operators on H~ whose sum is 11.
+Condition (B). The instruments {Ok, (st:)} are such that there are Hilbert spaces He, unitary
+operators Uk on H e H k and ideal measurements {Pk(sk) }sk~Sk on H k for k = 1 ..... n obeying:
+  (B1) if Ck ~ C/, then for any density matrices Wk on H k and Wt on H t the two instruments
+
+
+                  (Op (Wk, Uk, Pk(sk)) )skeSk and (Op (Wb Ul, Pl(Sl)) }sleSl
+
+commute; and
+  (B2) for every k there is a density matrix ~            on Hk such that Ok(sk) = Op(W~ Irk, Pk(sk))
+for all s k E Sk.
+   Thus, the condition (B) demands that space-like separated instruments commute not only for
+the prescribed initial states of apparatuses, but also for arbitrary ones. It might look surprising
+that a set of instruments may obey Condition (A) while violating Condition (B), but this is really
+a fact. Apparently, such a set of instruments is unrealizable.
+   Let us introduce inputs. We consider a finite parameter set Rk for each k = 1 ,...,n, and suppose
+that each instrument depends on a corresponding parameter r e E R k ; this means that operations
+Ok(rk, Sk) are given for every k = 1,...,n, rk ERIc, Sk ESk, and for each rtc, {Ok@k, sic) }SkESk
+is an instrument. Now we define a transition probability function for fixed W:
+
+               P({Sk } [ {rk }) = Tr (On(m, Sn) ... 01 (rl, sl ) W).
+
+98
+It is convenient in the following theorem to replace the set {01 ..... On } of regions by an arbitrary
+set, partially ordered with respect to causal dependence as above.
+
+T H EO RE M 4. Suppose that K is a partially ordered finite set, Rk and Sk are finite sets for every
+k E K , andarealnumberp({sk}l(rk})isgivenforevery ( r k } k ~ K E II Rk,             (Sk}k~K E
+                                                                        k~K
+  II S~c. Then the following two conditions are equivalent.
+k~K
+    (1) There are a Hilbert space H and a family of operations Og(rk, Sk) acting on L~ (I-1)for
+k E K, rk @Rk, sk E Sg, such that for every rg the Condition {B) holds for {Ok(rg, Sk) }skESk,
+and there is a density matrix W on H such that for every {rk } and {Sg }
+
+                Tr(( II Ok(rlc, sk) ) W) =P({Sk } i {rk)) ,
+                      kEk
+
+where the product is conform to the order, i.e.
+
+                 II Ok@k, Sk) = Okn(rkn, Skn ) ... Ok, (rkl, S k i ) ,
+                k~K
+
+where kl ..... kn forms a numbering of K such that k i < k] implies that i <]," the choice of this
+numbering does not affect the product in consequence of the Condition (B).
+   (2) There are a Hilbert space H, a density matrix W and projection operators Qk(Sk, {rt }) on H
+for kEK, sg E Sg, {rl }tEK E II Rt, obeying
+                                l~K
+      (2a) for every {rt } and k
+
+                         Qk(Sk, {rl)) = 11 ,
+                Sk~Sk
+
+   summands being disjoint,"
+      (2b) for every {rl}, kl, k2, Sg,, and Sg~ operators Qg, (Sk~, {rt}) and Qg~ (Sg~, {rt})
+   commute,"
+     (2c) for every k and sk the operator Qk(Sk, {rt }) depends in fact only on rt having l <~k;
+     (2d) for every {re } and {sg }
+
+
+                Tr(( II Q k ( S k , { r l ) ) ) W ) = p ( { s k ) l { r k } )
+                      k~K
+
+   ( {rz }is the same as {re }).
+
+The relation between Conditions (1) and (2) of Theorem 4 is somewhat similar to the relation
+between the interaction representation and the Heisenberg representation. Indeed, we accept in
+(1) that the state of the system changes because of interactions with apparatuses, whereas we do
+not distinguish in (2) between system and apparatuses, and accept a changeless state, but obser-
+vables depending on parameters.
+    If one demands in addition to (2) that all Qk(Sk, (rt }) commute with each other even when
+belonging to different parameters {rl}, then one obtains the condition of classical realizability of
+a transition probability function. It is easy to see that this condition is necessary in any local hidden
+
+                                                                                                       99
+variable theory. On the other hand, one can argue that it is also sufficient: to realize a transition
+probability function obeying this condition, one needs only suitable logic circuits as used in com-
+puters together with random generators. On the other hand, we have no reason to believe that in
+the general (noncommutative) case the necessary condition pointed out in Theorem 4 is also
+sufficient for physical realizability. It should be interesting to find a stronger necessary condition,
+as well as to look for a general sufficient condition. Perhaps a suitable candidate for this would be
+a 'net of abstract scatterings', i.e. an oriented graph, with Hilbert spaces corresponding to its
+edges and unitary operators on tensor products corresponding to its nodes. Perhaps a further de-
+velopment of experimental techniques connected with Bell's inequality will lead to the conclusion
+that any such 'net of abstract scatterings' may be approximately realized in a suitable experiment.
+
+
+
+ACKNOWLEDGMENT
+
+The author is grateful to L.A. Khalfin for stimulating discussions.
+
+
+
+REFERENCES
+
+1. Clauser, J.F., and Shimony, A., 'Bell's theorem: experimental tests and implications', Rep.
+   Progr. Phys. 41, 12, 1881-1927 (1978).
+2. Kraus, K., 'General state changes in quantum theory',Ann. Phys. (N.Y.) 64, 2 , 3 1 1 - 3 3 5 (1971).
+3. Kraus, K., 'Operations and effects in the Hilbert space formulation of quantum theory', Lecture
+   Notes in Physics, Springer-Veflag, 29, 206-229 (1974).
+4. Hellwig, K.-E., and Kraus, K., 'Formal description of measurements in local quantum field
+   theory', Phys. Rev. (D) 1, 2 , 5 6 6 - 5 7 1 (1970).
+5. Davies, E.B., and Lewis, J.T., 'An operational approach to quantum probability', Commun.
+   Math. Phys. 17, 3 , 2 3 9 - 2 6 0 (1970).
+
+
+(Received February 20, 1980)
+
+
+
+
+ 100
+

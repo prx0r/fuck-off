@@ -1,0 +1,260 @@
+# On the Notions of Causality and Complementarity
+
+**source:** pdf · **section:** solutions
+**file:** Notions_of_Causality_and_Complementarity
+---
+
+Author(s): Niels Bohr
+Source: Science, New Series, Vol. 111, No. 2873 (Jan. 20, 1950), pp. 51-54
+Published by: American Association for the Advancement of Science
+Stable URL: http://www.jstor.org/stable/1677100 .
+Accessed: 07/05/2013 17:35
+
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at .
+http://www.jstor.org/page/info/about/policies/terms.jsp
+
+.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+.
+
+                American Association for the Advancement of Science is collaborating with JSTOR to digitize, preserve and
+                extend access to Science.
+
+http://www.jstor.org
+
+                             This content downloaded from 128.103.149.52 on Tue, 7 May 2013 17:35:25 PM
+                                             All use subject to JSTOR Terms and Conditions
+January 20, 1950, VcxlX111                               SCIENCE                                                   51
+
+On the Notions of Causalityand Complementarityl
+Niels Bohr
+Institutefor TheoreticvG
+                       Physics,Universityof Copenhagen,Denmark
+
+THE              CAUSALMODE of descriptionhas deep given an absolute content. Still, relativity theory,
+            roots in our conscious endeavors to utilize which has endued classioal physies with unpreee-
+            experience for practical adjustment to our dented unity and scope, has just through its elucida-
+            environments,and is in this way inherently tion of the conditions for the unambiguoususe of
+incorporatedin commonlanguage. By the guidance elementaryphysical conceptsalloweda conciseformu-
+mrhich  analysis in terms of cause and effect has offered lation of tWeprinciple of causality along most gen-
+in many fields of human knowledge,the principle of eral lines.
+czeusalityhas evell come to stand as the ideal for sci-            However,a wholly new situation in physical scienae
+entifie e2rplanation.                                            was created through the discovery of the universal
+   In physics, causal deseription,originally adaptedto quantum of action, which revealed an elementary
+She problems of mechanics,rests on the assllmption feature of "individuality"of atomic processesfar be-
+that the lmowledgeof the state of a material system yond the old doetrine of the limited divisibility of
+at a given time permits the prediction of its state at matter originally introduced as a foundation for a
+any subsequenttim*e. Here, however,alreadythe defi- causal explanationof the speciSe properties of mat@-
+nition of state requires special considerationand it rial substances. This novel feature is not only en-
+need hardly be recalled that an adequateanalysis of tirely foreign to the classical theories of mechanies
+mechanicalphenomena was possible only after the and electromagnetism,but is even irreconcilablewith
+recognitionthat, in the accountof a state of a system the very idea of causality.
+of bodies,not tnerelytheir locationat a given moment                In fact, the specificationof the state of a physical
+but also tlleir velocities have to be included.                  system evidently cannot determinethe choice betwe¢n
+   In elassical mechanics,the forces between bodies dififerentindividual proeesses of transition to other
+were assumedto depend simply on the instantaneous states, and an account of quantumeffects must thus
+positions and velocities; but the discovery of the re- basieally operate with the notion of the probabilities
+tardationof electromagneticeffects made it necessary of occurrence of the difEerentpossible transition
+to considerforce fields as an essential part of a phys- processes. We have here to do with a situationessen-
+ical system, and to include in the dessription of the tially differentin characterfrom the recourseto sta-
+state of the system at a given time the specificationof tistieal methodsin the practical dealing with compli-
+these fields in every point of space. lCet, as is well eated systems that are assumedto obey laws of clas-
+known,the establishmentof the differentialequations sical mechanies.
+connecting the rate of variation of electromagnetic                 The e2rtentto which ordinaryphysical pictures fail
+intensities in space and time has made possible a in accountingfor atolziiephenomenais strikinglyillus-
+descriptionof electromagneticphenomenain complete traid by the well-knowndilemmaconcerningthe cor-
+analogy to eausal analysis in meehanics.                         puseular and lvave properties of materialparticles as
+   It is true that, from the point of view of relativistic well as of eleetromagneticradiation. It is further im-
+argumentation,such attributes of physical objects as portant to realize that any determinationof Planek's
+position and velocity of material bodies, and even constant rests upon the comparisonbetween aspects
+electric or magneticfield intensities, can no longer be of the phenomenawhich-ean be deseribed only by
+                                                                 means of pictures not combinableon the basis of
+   1 The purpose of this article is to give a very brief surrey  classicalphysical theories. Thesetheoriesindeedrep-
+of some epistemological problems rnise(l in atomic phyBics.
+It was originally published in Dialectwa, InterIlational Ite-    resent  merely idealizations of asymptotic validity in
+view of the Philosophy of }inoavledt,e, Editions elu Griffon, the limit where the actions involved in any stage of
+NeucllAtel, Switrerland, Vol. 7/8 ( 1948 ), p. 319. A iuller     the analysis of the phenomena are large compared
+account of the historical development, illustrated by typical
+esnmples which have served to clarify tlle general principles,   with the elementaryquantum.
+is inclll(led in a chapterzof All)ert Einstein: PhiZosopher-sci-    In this situation, we are £aced with the necessity
+6ntist, being pllblished by The Lxbraryof Living Philosophers,
+Inc., Eranston, Illinois, under the alitorship of Paul Arthur    of  a radical revision of the foundationfor description
+Schilpp.                                                         and explanation of physieal phenomena. Eere, it
+
+                          This content downloaded from 128.103.149.52 on Tue, 7 May 2013 17:35:25 PM
+                                          All use subject to JSTOR Terms and Conditions
+52                                                    SCIENCE                                  January 20, 1950, Vol. 111
+
+must above all be recognizedthat, howeverfar quan- individualtransitionsbetweentwo states of the system
+tum effects transcend the scope of classical physical or by making use of the so-calledwave equation,the
+analysis, the accountof the experimentalarrangement solutions of which refer to these states and allow us
+and the record of the observationsmust always be to derive probabilities for the transitions between
+expressedin commonlanguagesupplementedwith the them.
+terminology of classical-physics. This is a simple         The entire formalismis to be consideredas a tool
+logical demand,since the word "experiment"can in for derivingpredictions,of definiteor statisticalchar-
+essencebe used only in referring to a situation where acter, as regardsinformationobtainableunder experi-
+we can tell others what we have done and what we mental conditions described.in classical terms and
+have learned.                                            specified by means of parameters entering into the
+   The very fact that quantumphenomenacannot be algebraic or differentialequationsof which the mat-
+analyzed on classical linesithus implies the impossi- rices or the wave functions,respectively,are solutions.
+bility of separatinga behaviorof atomicobjects from These symbols themselves,as is indicated already by
+the interaction of these objects with the measuring the use of imaginarynumbers,are not susceptibleto
+instruments which serve to specify the conditions pictorial interpretation; and even derived real func-
+under which the phenomenaappear. In particular, tions like densities and currents are only to be re-
+the individualityof the typical quantumeffects finds garded as expressing the probabilitiesfor the occut-
+proper expression in the circumstancethat any at- rence of individual events observableunder well-de-
+tempt at subdividing the phenomenawill demand a fined experimentalconditions.
+change in the experimentalarrangement,introducing          A characteristicfeature of the quantum-mechanical
+new sourcesof uncontrollableinteractionbetweenob- descriptionis that the representationof a state of a
+jects and measuringinstruments.                          system can never imply the accuratedeterminationof
+   In this situation, an inherent element of ambiguity bothmembersof a pair of conjugatevariablesq and p.
+is involved in assigning conventionalphysical attri- In fact, due to the noncommutabilityof suchvariables,
+butes to atomic objects. A clear example of such an as expressedby (1) and (2), there will always be a
+ambiguityis offeredby the dilemmamentioned,as to reciprocalrelation
+the properties of electrons or photons, where we are
+                                                                              Sq- Ap=4x                   (3)
+faced with the contrast revealed by the comparison
+between observationsregarding an atomic object, ob- betweenthe latitudesSq and Ap with whichthese vari-
+tained by means of different experimentalarrange- ables can be fixed. These so-calledindeterminacyre-
+ments. Such empiricalevidenceexhibits a novel type lations explicitly bear out the limitation of causal
+of relationship, which has no analogue in classical' analysis, but it is importantto recognizethat no un-
+physics and which may convenientlybe termed cons- ambiguous interpretation of such relations can be
+plewDentartty in order to stress that in the contrasting given in words suited to describea situation in which
+phenomena we have to do with equally essential physical attributes are objectifiedin a classical way.
+aspectsof all well-definedknowledgeaboutthe objects.       Thus, a sentence like "we cannot know both the
+   An adequatetool for the complementarymode of momentumand the position of an electron"raises at
+descriptionis offeredby the quantum-mechanical      for- once questionsas to the physical reality of such two
+malism, in which the canonicalequations of classical attributes, which can be answeredonly by referring
+mechanicsare retainedwhile the physicalvariablesare to the mutually exclusive conditions for the unam-
+replaced by symbolic operators subjected to a non- biguous use of space-time coordination,on the one
+commutativealgebra. In this formalismPlanck'scon- hand, and dynamicalconservationlaws, on the other.
+stant enters only in the commutationrelations            In fact, any attempt at locating atomic objects in
+                                                         space and time demandsan experimentalarrangement
+                  qp-pq=v-l2                         (1)
+                                                         involving an exchangeof momentumand energy, un-
+between the symbols q and p standing for a pair of controllablein principle, betweenthe objects and the
+conjugate variables, or in the equivalent representa- scales and clocks definingthe referenceframe. Con-
+tion by means of the substitutionsof the type            versely, no arrangementsuitable for the eontrol of
+                              | hd                       momentumand energy balancewill admit precise de-
+                     p=-\/-l   2 ,3                  (2) scription of the phenomenaas a chain of events in
+by which one of each set of conjugatevariablesis re- space and time.
+placed by a diSerential operator. According to the         Strictly speaking,every referenceto dynamicalcon-
+two alternativeprocedures,quantum-mechanical      calcu- cepts implies a classicalmechanicalanalysis of phys-
+lations may be performed either by representingthe ical evidence which ultimately rests on the recording
+variables by matrices with elements referring to the of space-timecoincidences. Thus,also in the descrip-
+
+                       This content downloaded from 128.103.149.52 on Tue, 7 May 2013 17:35:25 PM
+                                       All use subject to JSTOR Terms and Conditions
+January 20, 1950, Vo1. 111                            SCIENCE                                            53
+
+tion of atomic phenomena, use of momentumand ical variablesin a state of a systemwith several atomic
+energy variables for- the specificationof initial con- constituents. In fact, although any pair7q and p, of
+ditions and final observationsrefers implicitly to such conjugate space and momentumvariables obeys the
+analysis and therefore demandsthat the experimental rule of noncommutativemultiplication expressed by
+arrangementsused for the purpose have spatixll di- (1), and thus can be fixed only with reciprocal lati-
+mensions and operate with time intervals sufficiently tudes given by ( 3), the differenceql - q2 between the
+large to permit the neglect of the reciprocalindeter- space coordinatesreferring to two constituents of a
+minacy expressedby (3). Under these circumstances systemwill commutewith the sumP1 + P2 of the corre-
+it is, of GOurSe, to a certain degree a matter of con- sponding momentumcomponents,as follows directly
+venience to what extent the elassical aspects of th0 from the commutabilityof ql with P2 and of q2 with
+phenomenaare ineluded in the proper quantum-me- P1- Both ql-q2            and P1+P2 can, therefore, be ac-
+chanicaltreatmentwhere a distinctionin principle is curatelyfixed in a state of the complexsystem and we
+made betweenmeasuringinstrllments,the description can consequentlypredict the value of either q1 or P1
+of whichmust always be based on space-timepictures, if either q2 or P2 respectively, is determinedby di-
+and objects under investigation, about which observ- rect measurement. Since at the momentof measure-
+able predictionscan in general be derivedonly by the ment the direct interaction between the objects may
+nonvisualizableformalism.                               have ceased,it might thus appear that both ql and P1
+   Incidentally,it may be remarkedthat the construc- were to be regardedas well-definedphysical attributes
+tion and the functioning of all apparatus like dia- of the isolated object and that, therefore, as has been
+phragmsand shutters,serving to definegeometryand argued, the quantum-mechanicalrepresentationo£ a
+timing of the experimentalarrangements,or photo- state shouldnot offer an adequatemeansof a complete
+graphic plates used for recordingthe localization of descriptionof physical reality. With regard to such
+ atomicobjects, will depend on propertiesof materials an argument,however,it must be stressedthat any two
+ whieh are themselves essentially determinedby the arrangementswhich admit accuratemeasurementsof
+ quantumof action. Still, this circumstanceis irrele- q2and P2 will be mutuallyexclusiveand that therefore
+ vant for the study of simple atomicphenomenawhere, predictionsas regards q1 or P1 respectively,will per-
+ in the specificationof the experimentalconditions,we tain to phenomena which basically are of comple-
+ may to a very high degreeof approximationdisregard mentary character.
+ the molecular constitution of the measuring instru-      As regards the question of the completenessof the
+ ments. If only the instrumentsare sufficientlyheavy quantum-mechanical     mode of deseription,it must be
+ comparedwith the atomicobjects under investigation, recognizedthat we are dealing with a mathematically
+ we can in particularneglect the requirementsof rela- consistent scheme which is adapted within its scope
+ tion (3) as regards the control of the localizationin to every process of measurementand the adequacyof
+ space and time of the single pieces of apparatusrela- which can be judged only from a comparisonof the
+ tive to each other.                                    predicted results with actual observations. In this
+    In representing a generalization of classical me- connection,it is essential to note that, in any well-
+ chanicssuitedwtoallow for the existence of the quan- definedapplication of quantummechanics,it is neces-
+ tum of action,quantummechanicsoffersa frame sufR- sary to specify the whole e2cperimentalarrangement
+ ciently wide to account for empirical regularities and that, in particular,the possibility of disposing of
+ which cannot be comprised in the tlassieal way of the parametersdefiningthe quantum-mechanical         prob-
+ description. Besides the characteristic features of lem just correspondsto our freedom of constructing
+ atomic stability, which gave the first impetus to the and handling the measuringapparatus,which in turn
+ developmentof quantummechanics,we may here refer means the freedom to choose between the different
+ to the peculiar regularitiesexhibitedby systems com- complementarytypes of phenomenawe wish to study.
+ posed of identical entities, such as photons or elec-    In order to avoid logical inconsistenciesin the ac-
+ trons, and determiningfor radiative equilibriumor count of this unfamiliar situation, great care in all
+ essentialpropertiesof materialsubstances. As is well questions of terminology and dialectics is obviously
+ known, these regularitiesare adequatelydescribedby imperative. Thus, phrases often found in the phys-
+ the symmetryproperties of the wave functions repre- ical literature,like ;;disturbanceof phenomenaby ob-
+ senting the state of the whole systems. Of course, servation'2or ';creationof physical attributes of ob-
+ suchproblemscannotbe exploredby any experimental jects by measurements,"representa use of words like
+ arrangementsuited for the tracing in space and time phetsomenc6and observastzonas well as attrsbqeteand
+ of each of the identical entities separately.          fneasuremetst which is hardly compatible with com-
+    It is furthermoreinstructiveto considerthe condi- mon usage and practical definitionand, therefore, is
+ tions for the determinationof positional and dynam- apt to cause confusion. As a more appropriate way
+
+                        This content downloaded from 128.103.149.52 on Tue, 7 May 2013 17:35:25 PM
+                                        All use subject to JSTOR Terms and Conditions
+4                                                     SCIENCE                                   January 20, 1950, Vol. 111
+
+of e2rpression,one may strongly advoeatelimitationof      The epistemolot,ieallesson we have reeeived from
+the use of the word phenornenon to refer exelusively the new developmentin physieal seience, where the
+to observationsobtainedunderspeeifiedeireumstanees, problemsenable a eomparativelyeoncise formulation
+ineludingan aeeountof the whole experiment.             of prineiples, may also suggest lines of approaeh in
+   With this terminology,the observationalproblemin other domainsof knowledgewhere the situation is of
+atomicphysies is free of any speeial intrieaey,sinee in essentially less aecessible eharaeter. An example Ls
+aetual experiments all evidenee pertains to observa- offered in biology, where meehanistic and vitalistie
+tions obtained under reprodueibleeonditions and is arguments are used in a typieally eomplementary
+expressedby unambiguousstatementsreferring to the manner. In soeiolot,y,too, sueh dialeetiesmay oftexI
+registrationof the point at whieh an atomie partiele be useful, partieularlyin problemseonfrontingus in
+arriveson a photographieplate or to a eorrespondint, the study and eoznparisonof human cultures, xvhere
+reeordof some other aluplifieationdeviee. Moreover, we have to eope with the elementof eomplaeeneyin-
+the ¢ireumstaneethat all sueh observationsinvolve herent in every national eultureand manifestingitself
+proeessesof essentiallyirreversibleeharaeterlends to in prejudiees whieh obviously eannot be appreeiated
+eaeh phenomenonjust that inherent featura of eom- from the standpoint of other nations.
+pletion whieh is demandedfor its well-definedinter-       Reeognition of eomplementaryrelationship is not
+pretationwithin the frameworkof quantummeehanies. least requiredin psyehology,where the eonditionsfor
+   Recapitulating,the impossibilityof subdividingthe analysis and synthesis of experienee exhibit striking
+individual quantum eSeets and of separating a be- analogywith the situationin atomiephysi. In fact,
+havior of the objects froin their interaetionwith the the use of words like thoql,ghtsand sentiments, equally
+lneasuringinstrumentssernng to definethe eonditions indispensableto illustrate the diversity of psyehieal
+under wvhiehthe phenomenaappear implies an am- experienee, pertain to mutually exelusive situations
+biguity in assigning eonventionalattributesto atomie eharaeterizedby a different drawing of tle line of
+objeets whieh ealls for a reconsiderationof our atti- separationbetweensubjeetand objeet. In partieular,
+tude towardsthe problemof physiealexplanation. In the plaee left for the feeling of volition is aSordedby
+this novel situation, even the old question of an ulti- the very eireumstaneethat situationswherewe experi-
+mate determinaeyof natural phenomenahas lost its enee freedom of will are ineompatiblewith psyeho-
+eoneeptionalbasis, and it is against this baekground logieal situations where eausal analysis is reasonably
+that the viewpoint of eonlplementaritypresents itself attempted. In other words, when we use the phrase
+as a rational generalization of the very ideal of "I will" we renouneeexplanatoryargumentation.
+eausality.                                                Altogether,the approaeh towards the problem of
+   The eomplementarymodeof deseriptiondoes indeed explanationthat is embodiedin the notion of eomple-
+not involve any arbitrary renuneiationof eustomary mentaritysuggests itself in our position as eonseious
+demandsof explanationbut, on the eontrary,aims at beings and reealls foreefully the teaehing of aneient
+an appropriatedialeetieexpressionfor the aetual eon- thinkersthat, in the searehfor a harmoniousattitude
+ditions of analysis and synthesis in atomie physies. towards life, it must never be forgotten that we our-
+Ineidentally,it would seenl that the reeourseto three- selves are both aetors and speetatorsin the dramaof
+valued logie, sometimesproposed as means for deal- existenee. To sueh an utteraneeapplies, of eourse,as
+ing with the paradoxiealfeatures of quantumtheory, well as to most of the sentenees in this artiele from
+is not suited to give a eleareraeeountof the situation, the beginningto the end, the reeognitionthat our task
+sinee all well-definedexperimentalevidenee, even if ean only be to aim at eommunieatingexperieneesand
+it eannot be analyzed in tertns of elassieal pllysies, views to others by means of language, in whieh the
+must be expressed in ordinary language making use praetiealuse of every wordstands in a eomplementary
+of eommonlot,ic.                                        relationto attempts of its striet definition.
+
+                       This content downloaded from 128.103.149.52 on Tue, 7 May 2013 17:35:25 PM
+                                       All use subject to JSTOR Terms and Conditions
+

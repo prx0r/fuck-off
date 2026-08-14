@@ -1,0 +1,178 @@
+Philosophy and Phenomenological Research
+Vol. LXXVII No. 3, November 2008
+ 2008 International Phenomenological Society
+
+
+
+
+The Determinists Have Run Out of
+Luck—For a Good Reason
+storrs mccall
+McGill University
+
+
+e.j. lowe
+Durham University
+
+
+In his paper ‘‘Bad luck once again’’ Neil Levy attacks our proof of the
+consistency of libertarianism by reiterating a time-worn compatibilist
+complaint.1 This is, that what is not determined must be due to chance.
+If A has a choice of X or Y, neither X nor Y being causally deter-
+mined, then if A chooses X it can only be by chance, never for a
+reason. The only ‘‘reason’’ that could explain the choice of X over Y
+would have to be a causally suﬃcient reason, which would rule out A’s
+having a genuine choice in the ﬁrst place. Either X is causally necessi-
+tated or X is realized by sheer luck. But that these are the only alter-
+natives is untrue. The exercise of deliberative reason opens the way
+between the Scylla of causal necessitation and the Charybdis of chance,
+as we shall try to make clear.
+   The central core of Levy’s argument is that any attempt to give a
+reasons-based explanation of a contrastive fact must fail. A contrastive
+fact is a fact of the kind ‘‘Jane decides to vacation in Hawaii rather
+than Colorado,’’ or ‘‘Jane assigns a greater weight to surﬁng that to
+white-water rafting.’’ In the last three paragraphs of his paper Levy
+argues that Jane’s assigning more weight to surﬁng than to rafting can-
+not be a reasons-based assignment, because, as he puts it, ‘‘the reasons
+that would explain the weighting are the weighted reasons themselves.’’
+Similarly, prior to making her Hawaii ⁄ Colorado decision, Jane has
+
+1
+    Neil Levy, ‘‘Bad Luck Once Again’’ (next article), discussing McCall and Lowe,
+    ‘‘Indeterminist Free Will,’’ Philosophy and Phenomenological Research LXX (2005),
+    pp. 681–690.
+
+
+                 DETERMINISTS HAVE RUN OUT OF LUCK—FOR A GOOD REASON             745
+reasons for both options, but no decisive reasons for either. As he says,
+‘‘Her reasons have got her this far, but they can take her no further.’’
+Lacking a decisive reason, by which Levy apparently means a reason
+causally suﬃcient to produce Jane’s choice, her decision must be due to
+pure chance or luck.
+   Levy’s arguments are fallacious. Clearly, for him, a reason for A’s
+doing or choosing to do X cannot count as ‘‘decisive’’ unless A’s hav-
+ing that reason necessitates her doing X. It ‘‘explains’’ her action sim-
+ply by excluding the possibility of any other course of action. But a
+libertarian cannot accept such a notion of a ‘‘decisive reason.’’ For lib-
+ertarians, A’s reason for doing X was ‘‘decisive’’ if and only if it was,
+in fact, the reason for which A did X. The ‘‘decisive’’ reasons are just
+those that the agent did act upon, as opposed to those she could have
+acted upon but did not. Reasons which do not necessitate can still
+explain why this course of action resulted rather than that, contrary to
+Levy’s apparent assumption. And such reasons are absent altogether in
+genuine cases of luck or chance.
+   Levy suggests that our position is no better than the Kane’s. But we
+suggest on the other hand that Levy’s objection is no better against
+Kane’s position than it is against ours: it simply begs the question at
+issue between the libertarians and their opponents. Levy has failed to
+perceive what is distinctive about our position and makes it superior to
+Kane’s, namely that the evaluation stage of deliberation is a continuous
+indeterministic process rather than a punctuated series of chance
+events. Despite what he says, the weighting of reasons can be reasons-
+based, and a decision to act on the reasons for X rather than the reasons
+for Y can be, and frequently is, rationally explicable and defensible. This
+emerges clearly in the example of Jane’s vacation deliberations.
+   Suppose that Jane asks Susan, a friend, to help her make up her
+mind. She reviews with Susan the pros and cons of Hawaii versus Col-
+orado, the luxury of a beach house, the incredible sunsets over the
+Grand Canyon, the danger of trail horses stumbling, the expense of ﬂy-
+ing halfway across the Paciﬁc, etc. Over a period of days, during which
+time the two options remain continuously open and choosable, Jane
+attempts to make precise the importance she attaches to these different
+reasons pro and con. It turns out, perhaps, that Jane has an exagger-
+ated fear of rattlesnakes, loves the smell of campﬁres, adores snorkeling
+but has never forgotten the horror of the movie ‘‘Jaws,’’ etc. With Sus-
+an’s help, she eventually arrives at a scale of weights attached to every
+conceivable feature of the two alternative vacations, and is able to
+articulate the reasons upon which her weighting system is constructed.
+Finally, on the day of decision, she makes her controlled, considered,
+reasons-based choice. Luck, or chance, does not enter into it. Jane’s
+
+746   STORRS MCCALL AND E.J. LOWE
+decision is the antithesis of tossing a coin. It is fully rational and yet,
+both options continue to be physically possible future alternative
+courses of action up until the moment Jane phones her travel agent.
+If God were to order a re-play of Jane’s deliberation it is conceivable
+that Jane’s weighting system might be slightly different, and that her
+choice could go the other way. A situation of this kind is describable
+as ‘‘two-way rational.’’
+   The difﬁculty that some philosophers experience in grasping the pos-
+sibility of controlled, indeterministic, rational, open-ended processes
+which typically constitute deliberations may be explained by their
+neglect of the concept of probabilistic causation. Although Humean
+causes are invariably followed by their effects, probabilistic causes are
+not. It is possible that during deliberation, the activity of the central
+nervous system is best described as an indeterministic neurological
+mechanism subject to the force of probabilistic causes, these causes cor-
+responding to the various reasons and weightings of reasons that deli-
+berators like Jane deal with. This is not to say that reasons are causes,
+but only to suggest that probabilistic causation may be a useful concept
+when studying deliberative processes. The notion of probabilistic causa-
+tion completely undercuts the false Scylla ⁄ Charybdis dilemma of the
+determinists, to which Levy appeals.
+   When a deliberator is deliberating, the probabilities of each option
+being selected vary continuously, with swings toward one option or
+another as new considerations occur to the deliberator, or as she
+attempts to justify her weighting system to a third party. Finally, with
+the decision, each option’s probability moves smoothly and continu-
+ously to assume the value of zero or one. In this model of libertarian
+deliberation, there is room for probability, and for probabilistic causa-
+tion, but no room for unadulterated chance or luck.
+   A ﬁnal example, taken from judicial deliberation, shows that in some
+cases it may prove not just mistaken, but even risky, for a determinist
+to assert that a person’s choice of option X rather than option Y is
+due to chance or luck. In June 2005 the Supreme Court of Canada
+brought down a decision in the case of Chaoulli vs the Attorney Gen-
+eral of Quebec which surprised many jurists. Chaoulli, a physician, had
+a patient with a number of health problems who was deprived of the
+timely care he needed by the long waiting times for hospital treatment.
+Chaoulli had tried unsuccessfully over a period of years to have his
+home-delivered medical services recognized and to operate an indepen-
+dent private hospital, for which patients could purchase private health
+insurance in addition to the public insurance that every Canadian pos-
+sesses automatically. The Quebec government had refused to permit
+such private insurance on the grounds that it violated the Canada
+
+
+                DETERMINISTS HAVE RUN OUT OF LUCK—FOR A GOOD REASON    747
+Health Insurance Act. However, Chaoulli argued that the lengthy wait-
+ing times for certain surgical procedures, which inﬂicted needless pain
+and suffering on patients and in some cases increased their risk of
+mortality, infringed their rights as guaranteed in the Canadian Charter
+of Human Rights. Section 7 of the Charter states that every citizen has
+the right to life, liberty and security of the person. Chaoulli argued that
+patients who were deprived of urgent health care when there was a
+remedy through private insurance were being deprived of a fund-
+amental Charter right, and to the great surprise of many Canadians the
+court agreed with him. The Canada Health Act which guarantees
+health care to all regardless of their ability to pay is a cornerstone of
+Canadian society, and the Chaoulli decision, which may now force the
+government to permit access to some forms of health care through
+private insurance, is a landmark decision. Canada, it seems, is the only
+OECD country which prohibits insurance for health care provided by
+non-participating physicians.
+   The Chaoulli decision is an example of a controlled, rational, inde-
+terministic process. Its relevance to the libertarian ⁄ determinist debate
+lies in (a) the unpredictability of, and surprise occasioned by, the
+Supreme Court judgment, and (b) the great care which the participat-
+ing judges took in comparing the legal weight of the Canada Health
+Act with that of individual rights enshrined in the Charter. No doubt
+the eventual decision arrived at could have gone the other way. But for
+Neil Levy or anyone else to assert that the Supreme Court’s judgement
+was arrived at ‘‘by luck,’’ or ‘‘by chance,’’ would be a bold and risky
+move. To stand up and say this in a legal tribunal would be to invite
+the charge of contempt of court. In throwing around the word ‘‘luck,’’
+determinists should be careful.
+   Summing up, there are in deliberation many contrastive facts which
+admit of reasons-based explanations. The Supreme Court decision to
+support individual Charter rights over the Canada Health Act is one of
+them, and the reasons for and against this decision will surely be
+argued for years to come. To say, with the compatibilists, that the deci-
+sion was arrived at by luck adds nothing to the debate but obfuscation
+and confusion.
+
+
+
+
+748   STORRS MCCALL AND E.J. LOWE
+

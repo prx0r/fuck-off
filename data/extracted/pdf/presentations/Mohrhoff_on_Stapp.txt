@@ -1,0 +1,1196 @@
+                                               THE WORLD ACCORDING TO QUANTUM MECHANICS
+                                                   (OR, THE 18 ERRORS OF HENRY P. STAPP)
+
+                                                                                     Ulrich Mohrhoff
+                                                                     Sri Aurobindo International Centre of Education
+                                                                                Pondicherry-605002 India
+                                                                                         ujm@satyam.net.in
+arXiv:quant-ph/0105097v1 21 May 2001
+
+
+
+
+                                       Abstract                                                           family of hypersurfaces but not of a dynamically pre-
+                                                                                                          ferred one (E5 ). The second is fallacious because it in-
+                                       Several errors in Stapp’s interpretation of quantum me-            volves inconsistent combinations of (individually valid)
+                                       chanics and its application to mental causation (Henry             counterfactuals (E6 ). Equally fallacious, therefore, is
+                                       P. Stapp, “Quantum theory and the role of mind in na-              Stapp’s “proof” of the occurrence of faster-than-light
+                                       ture,” e-Print quant-ph/0103043, to appear in Founda-              transfers of information (E7 ). This is discussed in Sec. 4.
+                                       tions of Physics) are pointed out. An interpretation of               According to Stapp, granting free will to experimenters
+                                       (standard) QM that avoids these errors is presented.               leads to a physical reality inconsistent with the “block
+                                                                                                          universe” of special relativity (SR), a reality that unfolds
+                                                                                                          in response to choices. This is one (E8 ) of a cluster of
+                                       1    INTRODUCTION                                                  misconceptions arising from the erroneous notion that
+                                                                                                          the experiential now, and the temporal distinctions that
+                                       According to some theorists [1, 2, 3, 4, 5, 6, 7, 8], con-         we base on it, have anything to do with the physical
+                                       sciousness is needed for making sense of quantum me-               world (E9 ). Objectively, the past, the present, and the
+                                       chanics (QM). According to others [9, 10, 11, 12, 13], QM          future exist in exactly the same atemporal sense. There
+                                       is needed in order to understand consciousness and/or ac-          is no such thing as “an evolving objective physical world”
+                                       count for its causal efficacy. In a recent contribution to         (E10 ), and there is no such thing as an objectively open
+                                       this journal, Henry P. Stapp [14] argues for both: Con-            future or an objectively closed past (E11 ). The results of
+                                       sciousness is essential for understanding QM, and QM               performed measurements are always “fixed and settled.”
+                                       is essential for the causal efficacy of consciousness. In          What is objectively open is the results of unperformed
+                                       the present article I point out a number of errors that            measurements. This is discussed in Sec. 5.
+                                       mar Stapp’s theory—inconsistencies, fallacies, and con-               The subject of causation is broached in Sec. 6. Causal-
+                                       clusions founded on such logical mistakes,—and offer an            ity, as Hume [17] discovered two and a half centuries ago,
+                                       interpretation of (standard) QM that avoids these errors.          lies in the eye of the beholder. While classical physics per-
+                                       In addition I outline an alternative account of mental             mits the anthropomorphic projection of causality into the
+                                       causation [15, 16].                                                physical world with some measure of consistency, quan-
+                                          Section 2 stresses the fact that an algorithm for as-           tum physics does not. Trying to causally explain the
+                                       signing probabilities to the possible results of possible          quantum-mechanical correlations is putting the cart in
+                                       measurements cannot also represent an evolving state of            front of the horse. It is the correlations that explain why
+                                       affairs (Stapp’s first error, E1 ). The introduction of con-       causal explanations work to the extent they do. Stapp’s
+                                       sciousness into discussions of QM (E2 ) serves no other            attempt to involve causality at a more fundamental level
+                                       purpose than to provide gratuitous solutions to a pseudo-          (E12 ) depends crucially on his erroneous view that the
+                                       problem arising from E1 . Stapp’s third error (E3 ), pointed       factual basis on which quantum-mechanical probabilities
+                                       out in Sec. 3, is a category mistake. It consists in his           are to be assigned is determined by Nature rather than
+                                       treating possibilities as if they possessed an actuality of        by us (E13 ).
+                                       their own. This leads to the erroneous notion that possi-             Sections 7 to 9 are of a more constructive nature. In
+                                       bilities are things (“propensities”) that exist and evolve         Sec. 7 the significance of the existence of objective prob-
+                                       in time (E4 ).                                                     abilities is discussed. They betoken an objective indef-
+                                          Stapp offers two arguments purporting to support the            initeness that is crucial for the stability of matter, and
+                                       existence of a dynamically preferred family of constant-           they imply the extrinsic nature of the values of quantum-
+                                       time hypersurfaces. The first invokes astronomical data,           mechanical observables. Extrinsic properties presuppose
+                                       which support the existence of a historically preferred            intrinsic ones, and this implies the co-existence of two
+
+                                                                                                      1
+logically distinct domains. How these are related to each               tological character that is in part matter like,
+other is discussed in Sec. 8. Section 9 gets to the heart of            since it is expressed in terms of the variables of
+QM, which concerns the spatiotemporal differentiation of                atomic physics, and it evolves between events
+reality. The fact that this is finite makes QM as incon-                under the control of the laws of atomic physics.
+sistent with a fundamental assumption of field theory as                However, each event injects the information as-
+SR is with absolute simultaneity. Stapp shares this erro-               sociated with a subjective perception by some
+neous assumption when he considers the physical world                   observing system into the objective state of the
+differentiated into “neighboring localized microscopic el-              universe [14].
+ements” (E14 ).
+   Section 10 begins by observing that, contrary to                Whatever else a quantum state may represent, there can
+Stapp’s contention (E15 ), the freedom to choose is a              be no doubt that it is first of all an algorithm for assigning
+classical phenomenon. Subsequently the reader is taken             probabilities to the possible results of possible measure-
+through the steps of Stapp’s account of mental causa-              ments. This is evident from the minimal instrumentalist
+tion, and a number of further errors (not all enumerated)          interpretation of QM, the common denominator of all
+are pointed out, such as: The objective brain can (some-           possible interpretations [18]. It is also evident from J.M.
+times) be described as a decoherent mixture of “classi-            Jauch’s definition of the “state” of a quantum-mechanical
+cally described brains” all of which must be regarded as           system as a probability measure resulting from a prepa-
+real (E16 ). Crucial to Stapp’s account is the metaphor of         ration of the system and his proof [19]—based on Glea-
+the experimenter as interrogator of Nature. Within the             son’s theorem [20]—that every such probability measure
+Copenhagen framework, which accords a special status               has the well-known density-operator form, which reduces
+to measuring instruments, this is a fitting metaphor for           to the familiar Born probability measure if the density
+a well-defined scenario. In Stapp’s framework, which ac-           operator is idempotent. But if a quantum state is a
+cords a special status to the neural correlates of mental          probability algorithm, then it cannot also represent an
+states, it is not (E17 ). Its sole purpose is to gloss over        actual state of affairs. How could it? A state of affairs
+the disparity between physical experimentation and psy-            is an entirely different kettle of fish; it falls under an en-
+chological attention. Once this purpose is achieved, the           tirely different category. This immediately disposes of the
+metaphor is discarded, for in the end Nature not only              “measurement problem” in its crudest form, which arises
+provides the answers but also asks the questions. The              only if state vectors or density operators are regarded as
+theory Stapp ends up formulating is completely different           representing actual states of affairs.
+from the theory he initially professes to formulate (E18 ),           The quantum revolution was guided by the vision of
+for in the beginning consciousness is responsible for state        Niels Bohr. In 1913, Bohr rejected classical physics
+vector reductions, while in the end a new physical law is          wholesale, initiated the creation of an entirely new
+responsible, a law that in no wise depends on the presence         physics, and rallied physicists to complete it. The same
+of consciousness.                                                  genius later impressed upon physicists the true import
+   The final section contains concluding remarks.                  of the new physics: QM spells the end of mathematical
+                                                                   realism. The symbols and formulae of the new physics
+2    QUANTUM MECHANICS AND                                         can no longer be interpreted as mirroring (representing,
+                                                                   describing) the physical world. All that QM places at our
+     CONSCIOUSNESS                                                 disposal is probability measures; it assigns probabilities
+Stapp capitalizes on von Neumann’s formulation and in-             to the possible outcomes of possible measurements. Any
+terpretation of QM as a theory of the objective world in-          attempt to go beyond the statistical regularities encapsu-
+teracting with human consciousness [2]. The unobserved             lated by the laws of QM must, at the very least, be con-
+world evolves according to a dynamical equation such               sistent with the incontestable probabilistic significance
+as the Schrödinger equation, while observations cause “a          of quantum states. Interpretations that grant quantum
+sudden change that brings the objective physical state             states the ontological significance of a state of affairs do
+of a system in line with a subjectively felt psychical re-         not satisfy this fundamental requirement.
+ality” [14]. This makes QM “intrinsically a theory of                 According to John Bell [21], “measurement” is a bad
+mind–matter interaction,” and more specifically a theory           word. The really bad word, however, is “state,” owing to
+“about the mind–brain connection” [14]. Each of those              the obvious suggestion that a quantum state represents a
+sudden changes                                                     state in the usual sense of the word. “Measurement” isn’t
+                                                                   a good word either, but this is more easily repaired. QM
+    injects one “bit” of information into the quan-                represents the contingent properties of a physical system
+    tum universe. These bits are stored in the evolv-              S—the properties that S can but does not necessarily
+    ing objective quantum state of the universe,                   possess—as subspaces of some vector space. Bohr rightly
+    which is a compendium of these bits of infor-                  insisted that a contingent property q can be attributed
+    mation. . . . Thus the quantum state has an on-                to S only if the following criterion is satisfied: The pos-
+
+                                                               2
+session of q by S must be indicated. The properties of            supposes conscious observers? If the answer is negative
+quantum systems are extrinsic in the specific sense that          for classical physics, it is equally negative for quantum
+they cannot be attributed unless they are indicated [22].         physics.
+No property is a possessed property unless it is an in-              QM concerns statistical correlations between
+dicated property. Since the properties of quantum sys-            (observer-independent) facts, and these correlations
+tems are usually indicated by what we call “measuring             warrant interpreting the facts as indicative of properties.
+devices,” this creates the absurd impression that labo-           That is, they warrant the existence of a physical system
+ratory instruments play a fundamental ontological role.           to which the indicated properties can be attributed. Sup-
+What actually plays a fundamental role in the formula-            pose that we perform a series of position measurements,
+tion of QM is facts—actual states of affairs—and espe-            and that every position measurement yields exactly one
+cially such facts as indicate the possessed properties of         result (that is, each time exactly one detector clicks).
+quantum-mechanical systems. The word that ought to                Then we are entitled to infer the existence of a persistent
+replace “measurement” in any ontological interpretation           entity, to think of the clicks given off by the detectors
+of QM is “(property-indicating) fact.”                            as matters of fact about the successive positions of
+   What is a fact? The Concise Oxford Dictionary (8th             this entity, to think of the behavior of the detectors as
+edition, 1990) defines “fact” as a thing that is known            position measurements, and to think of the detectors
+to have occurred, to exist, or to be true; a datum of             as detectors. If instead each time exactly two detectors
+experience; an item of verified information; a piece of           click, we are entitled to infer the existence of two entities
+evidence. Other dictionaries give variations on the same          or, rather, of a physical system with the property of
+theme. Should we conclude from this that the editors of           having two components. This property is as extrinsic
+dictionaries are idealists wanting to convince us that the        as are the measured positions. There is a determinate
+existence of facts presupposes knowledge or experience?           number of entities only because every time the same
+Obviously not. The correct conclusion is that “fact,” like        number of detectors click. Not only the properties of
+“existence,” like “reality,” is so fundamental a concept          things but also the number of existing things supervenes
+that it simply cannot be defined. So what is the editor           on the facts.
+of a dictionary to do? The obvious thing is to fall back             The ontological dependence of the properties and the
+on the metalanguage of epistemology. Which is precisely           number of existing things on facts warrants a distinction
+what Bohr did to bring home to lesser spirits the extrinsic       between two domains, a classical domain of facts and
+nature of the properties of quantum systems.                      a quantum domain of properties that supervene on the
+   If “fact” is so fundamental a term that it cannot be de-       facts. Owing to the ontological dependence of the do-
+fined, the existence of facts—the factuality of events or         main of indicated properties on the domain of property-
+states of affairs—cannot be accounted for, any more than          indicating facts, the quantum domain cannot account for
+we can explain why there is anything at all, rather than          the existence of the classical domain. If one nevertheless
+nothing. (If something can be accounted for, it can be            assumes that (i) the ultimate physical reality is the quan-
+defined in terms of whatever accounts for it.) Before the         tum domain, and that (ii) the existence of the domain of
+mystery of existence—the existence of facts—we are left           facts can, and therefore should, be accounted for, then
+with nothing but sheer dumbfoundment. Any attempt to              consciousness becomes an obvious candidate: Facts exist
+explain the emergence of facts (“the emergence of clas-           because they are perceived.
+sicality,” as it is sometimes called) must therefore be a            If in addition one wrongly assumes with von Neumann
+wholly gratuitous endeavor.                                       that the quantum state represents the dynamical evolu-
+   Classical physics deals with nomologically possible            tion of the quantum domain, one is faced with the spu-
+worlds—worlds consistent with physical theory. It does            rious problem of reconciling two disparate modes of evo-
+not uniquely determine the actual world. Identifying the          lution. The obvious “solution” then is to consider one
+actual world among all nomologically possible worlds is           mode of evolution intrinsic to the quantum domain and
+strictly a matter of observation. Does this imply that            to blame the other mode on the intervention of conscious
+classical physics presupposes conscious observers? Obvi-          observers. This, in brief, is how some of the brightest
+ously not. In classical physics the actual course of events       physicists were led to conclude that QM is an epistemic
+is in principle fully determined by the actual initial con-       theory, concerned with our knowledge or experience of
+ditions (or the actual initial and final conditions). In          the factual situation rather than the factual situation it-
+quantum physics it also depends on unpredictable actual           self. One is reminded of the various God-of-the-gaps pro-
+states of affairs at later (or intermediate) times. Accord-       posals of the past. While invoking divine intervention as
+ingly, picking out the actual world from all nomologi-            a filler for explanatory gaps is no longer in fashion, there
+cally possible worlds requires observation not only of the        is a tendency to invoke consciousness instead.
+actual initial conditions (or the actual initial and final           For reasons that are obvious rather than mysterious,
+conditions) but also of those unpredictable actual states         probability measures have two modes of “change.” Prob-
+of affairs. Does this imply that quantum physics pre-             abilities are assigned on the basis of relevant facts, and
+
+                                                              3
+they are assigned to sets of possible property-indicating           the world? The first option leads to the many-worlds (or
+facts, or else to the properties indicated by such facts.           many-minds [8]) extravaganza, the second to nonlinear
+They depend (i) on the time t of the possible facts to              adulterations of QM [23, 24, 25], the third to epistemic in-
+which they are assigned and (ii) on the facts on which              terpretations. If the premise is that system S enters into
+the assignment is based. They therefore “change” not                a “state of entanglement” with apparatus A then appara-
+only in a “deterministic” manner, as functions of t, but            tus A enters into a “state of entanglement” with Cecily’s
+also unpredictably with every fresh relevant fact. The              brain as she takes cognizance of the measurement out-
+successful completion of a measurement is the relevant              come. The definiteness of observation reports combined
+fact par excellence. If the outcome is unpredictable, as            with the principle of psycho-physical parallelism [2]—
+it generally is, it has to be included among the relevant           subjective perceptions correspond to objective goings-on
+facts on which further probability assignments ought to             in the brain—then spells collapse. Hence Cecily’s percep-
+be based. The outcome being unpredictable, the basis                tions exert a causal influence on the “objective physical
+of relevant facts changes unpredictably as a matter of              state” [14] of S via the objective goings-on in her brain
+course, and so do the probabilities assigned on this basis.         and their entanglement with S.
+   The reason for the quotation marks is that a proba-                 The bottom line: The introduction of consciousness
+bility is not the kind of thing that changes. To see this,          into interpretations of QM affords nothing but gratuitous
+consider the Born probability p (R, t) of finding a particle        solutions to pseudo-problems. These pseudo-problems
+in a region R at a time t. While few would think of this            arise whenever quantum states are construed, inconsis-
+probability as something that exists inside R, many ap-             tently with the statistical significance of quantum states,
+pear to think of it as something that exists at the time t.         as evolving states of affairs. There does exist an extra-
+The prevalent idea is that the possibility of finding the           theoretical element that cannot be accounted for by ei-
+particle inside R exists at all times for which p (R, t) > 0,       ther classical or quantum physics, but this neither is con-
+so the probability associated with this possibility also ex-        sciousness nor can be accounted for in epistemic terms. It
+ists at all those times and changes as a function of time.          is the actuality of exactly one of all nomologically possi-
+Yet the possibility that a property-indicating state of af-         ble worlds, or the factuality of property-indicating facts.
+fairs obtains at the time t is not something that exists            This (f)actuality owes nothing to the consciousness of
+at the time t, anymore than the possibility of finding the          an “observing system” [14]; it is what distinguishes the
+particle in R is something that one can find inside R.              world from any theory about the world.
+And the same obviously holds true of the probability as-
+sociated with this possibility. p (R, t) isn’t something of         3    QUANTUM MECHANICS AND
+which we can say when it exists. A fortiori it isn’t some-
+thing that can change or evolve. All quantum-mechanical
+                                                                         PROPENSITIES
+probability assignments are conditional on the existence            The following characterizations of the physical world and
+of a matter of fact about the value of a given observable           of physical states are central to Stapp’s “objective in-
+at a given time. p (R, t) is not associated with the pos-           terpretation of von Neumann’s formulation of quantum
+sibility that all of a sudden, at the time t, the particle          theory” [14]:
+“materializes” inside R. It is the probability with which
+the particle is found in R, given that at the time t it is              The observed physical world is described. . . by a
+found in one of a set of mutually disjoint regions (no mat-             mathematical structure that can best be charac-
+ter which one, R being one of them). The parameter t                    terized as representing information and propen-
+on which this probability depends is the specified time of              sities: the information is about certain events
+this actually or counterfactually performed position mea-               that have occurred in the past, and the propen-
+surement. It refers to the time of a position-indicating                sities are objective tendencies pertaining to fu-
+state of affairs, the existence of which is assumed.                    ture events.
+   So much for the “change” of p (R, t) associated with                 The objective physical state is. . . converted from
+the argument t. It is obvious that the sense in which                   a material substrate to an informational and
+p (R, t)—for a fixed value of t—“changes” when assigned                 dispositional substrate that carries both the in-
+on the basis of a fresh set of facts, is also not the sense             formation incorporated into it by the psychical
+in which a state of affairs evolves as time passes.                     realities, and certain dispositions for the occur-
+   By misconstruing quantum states as evolving states                   rence of future psychical realities [14].
+of affairs with two modes of change, von Neumann [2]
+created a number of pseudo-problems and spawned an                  The possibility that something happens at the time t, re-
+entire industry dedicated to generating gratuitous solu-            call, is not something that exists at the time t, anymore
+tions. Are wave function collapses in the mind but not              than the possibility of finding a particle in a region R is
+in the world? Or are they in the mind because they are              something that one can find inside R. A possibility is
+in the world? Or are they in the mind and therefore in              not the kind of thing that persists and changes in time.
+
+                                                                4
+To think of possibilities as if they possessed an actuality               4    QUANTUM MECHANICS AND
+of their own, different from the actuality of facts, and as                    SPECIAL RELATIVITY
+if they persisted and changed (“evolved”) in time, is an
+obvious category error. This logical mistake gives rise to                It is well known that the statistical regularities with
+the somewhat gentler avatar of the “measurement prob-                     which QM is concerned are consistent with SR, while
+lem,” which asks: How is it that during a measurement                     von Neumann’s interpretation of states as evolving, col-
+one of the persisting possibilities (or worse, one of the                 lapsible states of affairs is not. Stapp tries to reconcile
+changing probabilities associated with them1 ) becomes a                  SR with von Neumann’s interpretation by giving “spe-
+fact, while the others cease to exist? Saying in common                   cial objective physical status” [14] to a particular family
+language that a possibility becomes a fact is the same as                 of constant-time hypersurfaces: State reductions occur
+saying that something that is possible—something that                     globally and instantaneously with respect to this fam-
+can be a fact—actually is a fact. How can that be a prob-                 ily of hypersurfaces. He offers two arguments purporting
+lem? This non-problem becomes a pseudo-problem if one                     to support the existence of a “dynamically preferred se-
+forgets that there is only one kind of actuality and mis-                 quence of instantaneous ‘nows’ ” [14]. The first invokes
+construes the common-language “existence” of a possibil-                  astronomical data that, incontestably, indicate the exis-
+ity as a second kind of actuality, called “propensity”[27]                tence of a (cosmologically) preferred sequence of “nows.”
+or “potentiality”[28, 29], that gets converted into the gen-              This argument fails to distinguish sufficiently between
+uine article when a measurement is made.                                  (i) a dynamically preferred sequence of hypersurfaces—
+   If one wants to associate a measurement with the “ac-                  a sequence implied by the dynamical laws and present
+tualization of a possibility” in a logically coherent man-                in every possible world consistent with them—and (ii) a
+ner, one must not portray it as a transition from an earlier              preferred sequence of contingent and historical character
+state of affairs, in which the possibility “exists” as a pos-             that is not implied by the dynamical laws and therefore is
+sibility, to a later state of affairs, in which it is a fact.             not a feature of every nomologically possible world. The
+The possibilities to which QM assigns probabilities can                   astronomical data suggest the existence of a historically
+all be formulated in the following manner:                                preferred sequence but give no evidence of a dynamically
+                                                                          preferred one.
+(S) A measurement of the (system-specific) observable Q                      The second argument is based on an experiment of the
+performed at the time t yields the result qk .                            kind first discussed by Lucien Hardy [30]. There are two
+                                                                          regions L and R in spacelike separation such that, in a
+(Conjunctions can be formulated as well: “Measurements                    certain coordinate system (x, y, z, t), R is earlier than L.
+of Q1 and Q2 performed at the respective times t1 and                     Two two-valued observables Li and Ri (i = 1, 2) can be
+t2 yield the respective results qi1 and qk2 .”) Owing to its              measured in each region. The joint probabilities of the
+explicit reference to the time of measurement, such a sen-                various possible results are determined by
+tence cannot become true or false. If (S) is true, it always
+has been and always will be true, and if it is false, it al-              |Ψi = |L1+, R1−i − |L2−, R2+ihL2−, R2 + |L1+, R1−i,
+ways has been and always will be false. Saying that the                                                                   (1)
+possibility expressed by (S) has been actualized is there-                and they warrant the following assertions:
+fore the same as saying that (S) is true. Nothing more                                        L1 − ⇒ R2 +,                        (2)
+must be read into this sentence. The question as to when
+this actualization took place is utterly meaningless. If the                                  R2 + ⇒ L2 +,                        (3)
+“actualization of a possibility” involves a “transition,” it                                  L2 + ⇒ R1 −,                        (4)
+is the logical transition from a possible world in which                                      L1 − 6⇒ R1 −.                       (5)
+Q is not measured at the time t to the actual world in
+which Q is successfully measured at the time t.                           In longhand (2) says that if L1 is measured and the re-
+   The bottom line: The only problem that is addressed                    sult is L1 − then if R2 is measured the result is R2 +.
+by the introduction of propensities or potentialities into                On account of (2), the conditional “If R2 is measured
+interpretations of QM is another pseudo-problem orig-                     then R2 + is obtained” is valid on condition that L1 is
+inating from another logical mistake. It arises if one                    measured and L1 − is obtained. On account of (3), the
+thinks of the possibilities to which QM refers, and of the                conditional “If L2 is measured then L2 + is obtained”
+probabilities it assigns to them, as if they constituted a                is valid on condition that R2 is measured and R2 + is
+self-existent matrix from which facts arise.                              obtained. Combining these two conditional statements,
+                                                                          Stapp arrives at the following conclusion:
+                                                                              (A) If L1 and R2 are measured and the outcome
+    1 “Above all, we would like to understand how it is that proba-           of the measurement of L1 is L1 − then if L2 had
+bilities become facts.”—S. Treiman [26]. Dozens of similar phrases            been measured instead of L1 the outcome L2 +
+can be found in the literature.                                               would have been obtained.
+
+                                                                      5
+While it is legitimate to ask for the result that would                 a theoretical constraint upon what nature can
+have been obtained if L2 had been measured instead of                   choose in region L, under conditions freely cho-
+L1 , it is illegitimate to base the answer on the assumption            sen by the experimenter in region L, depends
+that L1 was measured. There is no quantum state such                    nontrivially on which experiment is freely cho-
+that both L1 and L2 are dispersion-free. It is therefore                sen by the experimenter in region R. . . . But
+logically impossible to counterfactually assign a definite              this dependence cannot be upheld without the
+value to L2 on the basis of a result of a measurement of                information about the free choice made in region
+L1 . Probabilities can be assigned counterfactually (that               R getting to region L: some sort of faster-than-
+is, to the possible results of unperformed measurements),               light transfer of information is required.
+but only if the facts on the basis of which they are as-
+signed are consistent with the measurements to the possi-          The occurrence of L1 on the left-hand side of the above
+ble results of which they are assigned. The combination            symbolic formulae representing the truth of (A) and the
+of the above two conditional statements is illegitimate            falsity of (B), respectively, is logically inconsistent with
+because it assigns a probability to a possible outcome of          the occurrence of L2 on the right-hand side. Therefore
+a measurement of L2 on the basis of an outcome of a                Stapp’s second argument also fails to establish the “spe-
+measurement of L1 . The existence of an outcome of the             cial objective physical status” [14] of a particular family
+former measurement is inconsistent with the existence of           of constant-time hypersurfaces, or the existence of a “dy-
+an outcome of the latter measurement.                              namically preferred sequence of instantaneous ‘nows’.”
+   By an equally fallacious route Stapp arrives at the con-           Stapp considers the nonexistence of a such a dynam-
+clusion that the following statement is false:                     ically preferred sequence in SR an empirically unwar-
+                                                                   ranted “metaphysical idea.” What would the existence
+    (B) If L1 and R1 are measured and the outcome                  of such a sequence amount to?
+    of the measurement of L1 is L1 − then if L2 had                   The great theoretical breakthrough that gave us SR
+    been measured instead of L1 the outcome L2 +                   came with the realization that (i) what propagates with
+    would have been obtained.                                      an invariant speed requires no medium, and that (ii) the
+                                                                   invariant speed is the finite speed of light c. “Invariant”
+Here, too, two individually correct statements are com-            means “independent of the inertial frame in which it is
+bined in a logically inconsistent manner: (i) The an-              measured.” It is not hard to see that there cannot be
+tecedent (including the assumption that L1 is measured)            more than one invariant speed.
+and (5) jointly imply that sometimes R1 + is obtained.                If an event e1 at (x1 , t1 ) is the cause of an event e2 at
+(ii) The assumption that R1 + is obtained and (4) jointly          (x2 , t2 ), the fact that e2 happens at t2 , rather than at any
+imply that a measurement of L2 does not yield L2 +.                other time, has two possible explanations. If the causal
+Both statements are correct, but they consider logically           connection is mediated, and if x1 , t1 , and x2 are fixed, t2
+incompatible situations, so that no valid conclusions can          is determined by the speed of mediation. This could be
+be drawn from their conjunction.                                   the speed of a material particle traveling from x1 to x2
+   To buttress his conclusions, Stapp makes the as-                or the speed of signal propagation in an elastic medium.
+sumption that in the coordinate system (x, y, z, t) no             On the other hand, if the causal connection is unmediated,
+backward-in-time influences occur. He makes this as-               t2 is determined by the metric structure with respect to
+sumption to exclude two possibilities: (i) the possibil-           which the dynamical laws are formulated, and this metric
+ity that the result R2 + causally depends on the result            structure defines an invariant speed. In a nonrelativistic
+L1 − and therefore cannot be invoked to infer that L2 +            world the metric structure defines an infinite invariant
+would have been obtained had L2 been measured instead              speed—what propagates instantaneously, or with an in-
+of L1 , and (ii) the possibility that the occasional result        finite speed, in one inertial frame, does so in every other
+R1 + causally depends on the result L1 − and therefore             inertial frame,—whereas in a relativistic world it defines
+cannot be invoked to infer that, whenever R1 + is ob-              a finite invariant speed. In a nonrelativistic world, ac-
+tained, L2 + would not have been obtained had L2 been              cordingly, the dynamical laws allow for an unmediated
+measured instead of L1 . Causal considerations, however,           causal connection between e1 and e2 provided that, in-
+are completely irrelevant to the validity or otherwise of          variantly, t2 = t1 , while in a relativistic world they allow
+Stapp’s conclusions. What invalidates his conclusions is           for an unmediated causal connection between e1 and e2
+the fact that statements concerning the value of one ob-           provided that, invariantly, (x2 − x1 )/(t2 − t1 ) = c.
+servable cannot be based on assumptions concerning the                We live in a world in which the dynamical laws con-
+value of another observable if the two observables are in-         strain unmediated signal propagation to null geodesics.2
+compatible.
+                                                                      2 For reasons that are psychological rather than physical, most
+   From the truth of (A) (symbolically: L1 − ∧ R2 ± ⇒
+                                                                   physicists believe that photons are particles that mediate influences,
+L2 +) and the falsity of (B) (symbolically: L1 − ∧ R1 ± 6⇒         rather than elementary unmediated influences. (I am not saying
+L2 +) Stapp infers that                                            that they are either.)
+
+
+                                                               6
+Signal propagation occurring along either timelike or                  If we conceive of temporal relations, we conceive of the
+spacelike geodesics cannot be invariant and therefore               corresponding relata simultaneously—they exist at the
+cannot be unmediated. By claiming the existence of a                same time in our minds—even though they happen or
+dynamically preferred family of constant-time hypersur-             obtain at different times in the objective world. Since
+faces, Stapp therefore effectively postulates the existence         we can’t help it, that has to be OK. But it is definitely
+of a quantum counterpart to the luminiferous ether. He              not OK if we sneak into our simultaneous spatial men-
+may be inclined to deny this, but as long as the speed              tal picture of a spatiotemporal whole anything that ad-
+of light is invariant, there can be no other explanation            vances across this spatiotemporal whole. We cannot men-
+why state reduction occurs with respect to one family               tally represent a spatiotemporal whole as a simultaneous
+of hypersurfaces rather than another (assuming that it              spatial whole and then imagine this simultaneous spatial
+does occur). The only way for Stapp to avoid the im-                whole as persisting in time and the present as advancing
+plication of a “quantum ether” is to revert to the metric           through it. There is only one time, the fourth dimension
+of Galilean relativity, which implies the existence of pre-         of the spatiotemporal whole. There is not another time
+ferred family of constant-time hypersurfaces, at the ex-            in which this spatiotemporal whole persists as a spatial
+pense of reintroducing the luminiferous ether. So which             whole and in which the present advances, or in which an
+is the unwarranted “metaphysical idea”? The existence               objective instantaneous state evolves. If the present is
+of a preferred family of hypersurfaces, which, combined             anywhere in the spatiotemporal whole, it is trivially and
+with the invariance of the speed of light, implies the exis-        vacuously everywhere—or, rather, everywhen.
+tence of one ether or another, or the nonexistence of such             In a world that has no room for an advancing now,
+a preferred family?                                                 time does not “flow” or “pass.” Objective time is a set
+                                                                    of temporal relations between temporal relata that owe
+                                                                    their successive character to our minds, rather than to
+5     QUANTUM MECHANICS AND                                         anything in the objective world. To philosophers the per-
+      THE EXPERIENTIAL NOW                                          plexities and absurdities entailed by the notion of an ob-
+                                                                    jective advancing present or an objectively flowing time
+We are accustomed to the idea that the redness of a ripe            are well known [33]. Physicists began to recognize the
+tomato exists in our minds, rather than in the physical             subjectivity of the present and the nonexistence of an
+world. We find it incomparably more difficult to accept             evolving instantaneous state with the discovery of the
+that the same is true of the experiential now: It has no            relativity of simultaneity. In the well-known words of
+counterpart in the physical world. There simply is no               Hermann Weyl [34],
+objective way to characterize the present. And since the
+                                                                        The objective world simply is; it does not hap-
+past and the future are defined relative to the present,
+                                                                        pen. Only to the gaze of my consciousness,
+they too cannot be defined in objective terms. The tem-
+                                                                        crawling upward along the life line of my body,
+poral modes past, present, and future can be character-
+                                                                        does a section of this world come to life as
+ized only by how they relate to us as conscious subjects:
+                                                                        a fleeting image in space which continuously
+through memory, through the present-tense immediacy of
+                                                                        changes in time.
+qualia (introspectible properties like pink or turquoise),
+or through anticipation. In the world that is accessible            Not only the fleeting and continuously changing image
+to physics we may qualify events or states of affairs as            but also the “crawling upward” of our consciousness is a
+past, present, or future relative to other events or states         subjective phenomenon. So is change, and so is becom-
+of affairs, but we cannot speak of the past, the present,           ing.
+or the future.                                                         The myth of an evolving instantaneous physical state
+   The proper view of physical reality therefore is not only        is supported by a folk tale of considerable appeal. It goes
+what Nagel [31] has called “the view from nowhere” (the             like this: Since the past is no longer real, it can influ-
+objective world does not contain a preferred position cor-          ence the present only through the mediation of something
+responding to the spatial location whence I survey it); it          that persists through time. Causal influences reach from
+is also what Price has called “the view from nowhen” [32]:          the nonexistent past into the nonexistent future by be-
+The objective world does not contain a preferred time               ing “carried through time” by something that “stays in
+corresponding to the particular moment (the present) at             the present.” There is, accordingly, an evolving instan-
+which I experience it. The objective world contains spa-            taneous state, and this includes not only all presently
+tial and temporal relations as well as the corresponding            possessed properties but also everything in the past that
+relata, but it does not contain any kind of basis for the           is causally relevant to the future. This is how we come
+distinction between a past, a present, and a future. The            to conceive of “fields of force” that evolve in time (and
+idea that some things exist not yet and others exist no             therefore, in a relativistic world, according to the princi-
+longer is as true and as false as the idea that a ripe tomato       ple of local action), and that “mediate” between the past
+is red.                                                             and the future (and therefore, in a relativistic world, be-
+
+                                                                7
+tween local causes and their distant effects). It is also how       and the result is q, then it always has been and always
+we come to believe that the state vector plays a similar            will be true that the value of Q at the time t is q. There
+causally mediating role. It is high time that we outgrow            is nothing physically open about this. From the point of
+these incoherent beliefs.                                           view of physics, the outcomes of performed measurements
+   There was a time when characterizing something as                are always “fixed and settled” [14]. Nothing objectively
+subjective was tantamount to denigrating it as an “illu-            changes at the time t (unless t = t′ ). What objectively
+sion.” This is not my intention. Change and becoming                changes, at the time t′ , is that subsequently there ob-
+are no less real and no less significant for being subjec-          tains an actual state of affairs from which the value of Q
+tive. My point is that a theory of mind–matter interac-             at the time t can be inferred. The causal interconnected-
+tion, which is what Stapp’s theory purports to be, must             ness of the classical domain ensures that the possibility
+proceed from a clear understanding of which features of             (in principle) of inferring the value of Q at the time t will
+the experienced, phenomenal world do, and which do                  persist. (See Sec. 8 below. In measurement theory this is
+not, have a counterpart in the physical world. Instead              usually referred to as the creation of a record [35].) The
+of proceeding from such an understanding, Stapp’s the-              misconception that the value of Q at the time t did not
+ory features the chimera of “an evolving objective phys-            exist until it was observed or became inferable has to be
+ical world.” It is “a theory of the interaction between             seen for what it is: a naive objectification or reification
+the evolving objective state of the physical universe and           of our ignorance, which ceases to exist, in principle at the
+a sequence of mental events, each of which is associated            time t′ , and in actual fact when we look at the pointer.
+with a localized individual system.”                                What is (and always has been, and always will be) objec-
+   It might be argued that without an objective becom-              tively open is the results of unperformed measurements.
+ing there can be no freedom of choice. Such freedom
+seems to require an open future. In fact, the apparent
+incompatibility of free volition with the “block universe”          6     QUANTUM MECHANICS AND
+of SR is one of the reasons why Stapp rejects the idea                    CAUSALITY
+that “all of history can be conceived to be laid out in a
+four-dimensional spacetime.” According to him, free will            Physics concerns spatiotemporal regularities. Classical
+“leads to a picture of a reality that gradually unfolds in          physics concerns deterministic regularities that permit
+response to choices that are not necessarily fixed by the           us to make (i) definite predictions on the basis of ini-
+prior physical part of reality alone.”                              tial positions in phase space, (ii) definite retrodictions on
+   This too is an error. All that the freedom to choose             the basis of final positions in phase space, and (iii) defi-
+requires is the impossibility of knowing, at any one time,          nite inferences of intermediate states on the basis of ini-
+what is the case at a later time. Obviously, if I can know          tial and final positions in configuration space. Quan-
+at the time t a state of affairs that obtains at the time           tum physics concerns statistical regularities that permit
+t′ > t, I cannot conceive of it as causally dependent on a          us to assign (i) prior probabilities on the basis of ear-
+free choice made by me in the interval between t and t′ .           lier property-indicating facts according to the Born rule,
+If at any time t I can know the future (relative to t), I           (ii) posterior probabilities on the basis of later property-
+cannot conceive of myself as a free agent. On the other             indicating facts according to the same rule, and (iii) time-
+hand, if the possibility of foreknowledge does not exist, I         symmetric probabilities on the basis of earlier and later
+cannot merely conceive of myself as a free agent. I can             property-indicating facts according to the ABL rule [36],
+actually be a free agent, for the only thing that logically         so named after Aharonov, Bergmann, and Lebowitz [37].
+prevents me from being responsible for a later state of                The deterministic regularities of classical physics lend
+affairs is the possibility of knowing the same before the           themselves to a causal interpretation, according to which
+relevant choices are made. The fact that the future in a            the observable regularities are due to unobservable causal
+sense “already” exists is no reason why choices made by             strings by means of which earlier events necessitate
+me at earlier times cannot be partly responsible for it.            later events. Since the time-symmetric laws of classical
+(The future relative to a time t exists “already” not in            physics provide no objective foundation for it, this time-
+the sense that it exists simultaneously with what exists            asymmetric interpretation can be nothing but an anthro-
+at the time t, which would be self-contradictory, but in            pomorphic projection, into the time-symmetric world of
+the sense that it exists objectively in exactly the same            classical physics, of the successive perspective of a con-
+tenseless or atemporal sense in which what exists at the            scious agent. Causality lies in the eye of the beholder [17].
+time t exists.)                                                     It is our way of interpreting events, not a feature of the
+   Since nothing in the physical world corresponds to the           events in themselves. At best it is a secondary quality
+distinction between what exists now and what does not               like pink or turquoise [38].
+yet exist, the future (relative to a time t) is as closed as           The statistical regularities of quantum physics do not
+the past. If a measurement of the value possessed by Q              admit of this anthropomorphic projection. To begin with,
+at the time t is successfully performed at the time t′ ≥ t,         measurement outcomes are causal primaries. They are
+
+                                                                8
+value-indicating states of affairs that are not necessitated        implies that at a fundamental level nothing in the physical
+by antecedent causes. To see this, recall from Sec. 2 that          world is necessitated by antecedent causes. The acausal
+all quantum-mechanical probability assignments involve              foundation of the physical world ought to be regarded
+the assumption that the value of a specific observable at           as one of the most important discoveries of modern sci-
+a specific time is indicated by an actual state of affairs.         ence, rather than deplored as the “Copenhagen renun-
+Quantum mechanics never predicts that a measurement                 ciation” of all “attempts to understand physical real-
+will take place, nor when one will take place. And if               ity” [14]. As the following sections will show, the impossi-
+QM is the fundamental and complete theoretical frame-               bility of causally construing the quantum-mechanical cor-
+work that most of us believe it is, these things cannot be          relations has significant ontological implications. It does
+predicted because there is nothing that necessitates the            not entail that we must “renounce for all time the aim of
+existence of a value-indicating state of affairs.                   trying to understand the world in which we live” [14].
+   I do not mean to say that in general nothing causes
+a measurement to yield this particular outcome rather               7     OBJECTIVE PROBABILITIES
+than that. Unless hidden variables are postulated, this
+is a triviality. What I am saying is that nothing ever              N. David Mermin believes that all the mysteries of quan-
+causes a measurement to take place. A clear distinction             tum mechanics can be reduced to the single puzzle posed
+between two kinds of probability must be maintained. In             by the existence of objective probabilities [39]. I concur.
+the context of a position measurement using an array of             The objective probabilities Mermin has in mind, however,
+detectors, this is the distinction between the probabil-            are not the objectified evolving probabilities Stapp calls
+ity that a detector will respond (no matter which) and              “propensities.” Probabilities qualify as objective if and
+the probability that a specific detector will respond given         only if they are assigned on the basis of all relevant facts,
+that any one detector will respond. The latter probabil-            so that there is nothing to be ignorant of. The probabil-
+ity is the one that quantum mechanics is concerned with.            ities of classical statistical physics are always subjective;
+The former probability can be measured (for instance,               they make up for facts that we ignore. The prior Born
+by using similar detectors in series), but it cannot be             probabilities that we assign to the possible results of per-
+calculated from first principles, for essentially the same          formed measurements are equally subjective, inasmuch
+reason that a fundamental coupling constant cannot be               as we assign them without taking the actual results into
+so calculated [22].                                                 account.
+   If anything is causally determined, it can only be                  The term “objective probability” has two natural def-
+the probabilities associated with measurement outcomes.             initions. When there are actual states of affairs having a
+But the dependence of quantum-mechanical probability                bearing on the probability p (Q=q, t), this probability is
+assignments on facts also does not admit of a causal in-            objective only if all of them are taken into account, re-
+terpretation, for at least two reasons. For one, there isn’t        gardless of whether they obtain before or after the time t.
+just one way of assigning probabilities. If probability as-         In this case p (Q=q, t) is given by the ABL rule [22, 36].
+signments are to be of any use, they have to be based on               The second definition is appropriate when there aren’t
+facts. But the probability p (Q=q, t) of the result q of a          any relevant facts. This is the case when we are dealing
+measurement of Q at the time t can be assigned on the               with the stationary probability measures that solve the
+basis of several different (sets of) facts. After all, proba-       time-independent Schrödinger equation, rather than with
+bilities are nothing but best guesses given the facts that          probability measures that depend on initial and/or final
+are taken into account. This is true even if Nature herself         conditions imposed on the time-dependent Schrödinger
+tells us (via the laws of QM) what probabilities we should          equation. The Born probabilities we obtain from sta-
+assign, for Nature does not tell us which facts should be           tionary states are objective just in case they are counter-
+taken into account. This choice is left to us. Stapp’s be-          factually assigned.
+lief that this choice too is dictated by Nature—that the               What is the ontological significance of objective Born
+probability p (Q=q, t) is uniquely determined by a unique           probabilities? The pertinent issue is the stability of mat-
+past (relative to t)—is an error.                                   ter. When Bohr wrote his doctoral thesis on the electron
+   Another reason why quantum-mechanical probabilities              theory of metals, he became fascinated by its instabil-
+cannot be causally explained is that a best guess is not the        ities. They suggested to him a new type of stabilizing
+kind of thing that admits of a causal explanation. While            force, one fundamentally different from those familiar in
+a best guess obviously depends on a chosen set of facts,            classical physics. Transferring his postdoctoral attention
+it cannot be construed as an objective propensity that              from metals to Rutherford’s atom, Bohr realized that this
+is causally determined by a unique set of facts, without            too ought to be unstable, and by imposing his well-known
+committing some of the fallacies pointed out above.                 quantum conditions he took the first step toward an un-
+   The ontological dependence of all possessed properties           derstanding of the force that stabilizes matter. When the
+on property-indicating states of affairs, combined with             mature theory arrived twelve years later, it transpired
+the fact that such states of affairs are causal primaries,          that this “force” hinges on the fuzziness of internal spa-
+
+                                                                9
+tial relations. What “fluffs out” matter is the indefinite-     erties of such objects too “dangle” from the goings-on in
+ness of the relative positions of its constituents. Though      the rest of the world. This seems to send us chasing the
+today this fact is known to every physicist, few seem to        ultimate property-indicating facts in never-ending circles.
+attach to it the importance that it deserves.                      So were does the buck stop? As it stands, the question
+   The proper way of dealing with fuzzy values is to make       is ill posed. There are no valueless positions in search of
+counterfactual probability assignments. If a quantity is        value-indicating facts. There are facts, and there are sta-
+said to have an “indefinite value,” what is really intended     tistical correlations among value-indicating facts. These
+is that it does not actually have a value (inasmuch as the      correlations warrant inferences to the existence of objects
+value is not measured) but that it would have a value if        with properties that have indefinite values (in the sense
+this were indicated, and that at least two possible values      explained above), and they also warrant the interpreta-
+are associated with positive probabilities. (The counter-       tion of the statistically correlated facts as indicating pos-
+factuality cannot be eliminated, though it may be shifted       sessed values. The genuine core of the “measurement
+from measurements to fuzzy values: If measurements of           problem” is this: Value-indicating facts are actual states
+an observable Q are successfully performed on an ensem-         of affairs. Facts are by definition factual per se. Yet a
+ble of identically prepared systems, and if the results have    state of affairs involves objects and their properties, and
+positive dispersion, the value of Q would be fuzzy with re-     the properties of objects are extrinsic; their possession
+gard to an individual system S if the measurement were          is not factual per se. So what justifies our treating the
+not performed on S.)                                            value-indicating properties of value-indicating things as
+   The objective probabilities associated with the results      if they were intrinsic (the opposite of extrinsic)? The
+of unperformed measurements thus are the formal ex-             answer will be given in the following section.
+pression of an objective indefiniteness. The extrinsic na-
+ture of the values of quantum-mechanical observables fol-       8     THE CLASSICAL DOMAIN
+lows directly from this indefiniteness. It is a straightfor-
+ward consequence of an objective fuzziness in the world         The positional indefiniteness of a material object O
+in which we live. Here is how: The proper expression            evinces itself through the unpredictability of the results
+of this fuzziness, as we just saw, involves counterfactual      of position measurements performed on O. Evidence of
+probability assignments. These assignments are based on         the corresponding statistical dispersion requires the ex-
+the observable statistical correlations that QM encapsu-        istence of detectors with sensitive regions that are small
+lates. We are therefore dealing with conditional prob-          and localized enough to probe the range of values over
+ability assignments whose antecedents may or may not            which O’s position is distributed. (A detector is any ob-
+be true. We therefore need a criterion for when an an-          ject capable of indicating the presence of another object
+tecedent is true, and this consists in the existence of a       in a particular region.) If there are no such detectors, the
+value-indicating fact.                                          indefiniteness of O’s position cannot evince itself. But
+   The extrinsic nature of possessed values is not con-         detectors with sharper positions and sufficiently small
+fined to atoms and suchlike. As Peres and Zurek [40]            sensitive regions cannot exist for all detectable objects.
+rightly insist, “[t]here is nothing in quantum theory mak-      Since no relative position is absolutely sharp, there is a
+ing it applicable to three atoms and inapplicable to 1023 .”    finite limit to the sharpness of the positions of material
+Although the moon isn’t only there when somebody                objects, and there is a finite limit to the spatial reso-
+looks [41], it is there only because of the myriad of facts     lution of actually existing detectors. Hence there are
+that betoken its presence. If there weren’t any actual          objects whose positions are the sharpest in existence.
+state of affairs from which its position could be inferred,     These never evince their indefiniteness through unpre-
+it wouldn’t have a position, or else its position wouldn’t      dictable position-indicating facts. Such objects deserve
+have a value. (There is no need for anyone to actually          to be designated “macroscopic.” We cannot be certain
+carry out the inference.) This seems to entail a vicious        that a given object qualifies as macroscopic, inasmuch as
+regress, which at first blush looks like just another version   not all matters of fact about its whereabouts are accessi-
+of von Neumann’s catastrophe of infinite regression.            ble to us, but we can be certain that macroscopic objects
+   The positions of detectors are extrinsic too. They are       exist.
+what they are only because of the facts that indicate what         If the positional indefiniteness of a macroscopic ob-
+they are. This seems to require the existence of detec-         ject never evinces itself through unpredictable position-
+tor detectors indicating the positions of detectors, which      indicating events—the occasional unpredictability of the
+seems to require the existence of detectors indicating the      position of a macroscopic pointer reveals the indefinite-
+positions of detector detectors, and so on ad infinitum.        ness of a property of a different object, not the indefinite-
+Generally speaking, the contingent properties of things         ness of the position of the pointer—then it is legitimate
+“dangle” ontologically from what is the case in the rest        to ignore the positional indefiniteness of macroscopic ob-
+of the world. Yet what is the case there can only be            jects. We can associate such objects with classical tra-
+described by describing material objects, and the prop-         jectories, provided we understand the claims involved. It
+
+                                                            10
+is not claimed that macroscopic objects have exact posi-         9     THE SPATIOTEMPORAL
+tions. It is only claimed that since their positions are the           DIFFERENTIATION OF REALITY
+most definite in existence, the indefiniteness of their posi-
+tions never shows up in the realm of facts. If we make the       According to Richard Feynman, the mother of all quan-
+assumption that macroscopic objects follow definite tra-         tum effects is the strange behavior of electrons in two-
+jectories, we will never see this assumption contradicted        slit experiments [42]. If nothing indicates the slit taken
+by facts. But if it is legitimate to ignore the positional       by an electron then this electron goes through both slits
+indefiniteness of macroscopic objects, it is also legitimate     without going through a particular slit and without hav-
+to treat the positions of macroscopic objects as intrinsic.      ing parts that go through different slits. The bafflement
+   The step from acknowledging the extrinsic nature of all       caused by this behavior is symptomatic of a mismatch
+contingent properties to treating the positions of macro-        between the spatial aspect of the physical world and the
+scopic objects as intrinsic is of the same nature as the         way in which we all tend to think about space, for psy-
+step from acknowledging the purely correlative character         chological and neurophysiological reasons [43, 44].
+of classical laws of motion to the use of causal language.          We tend to think of space as a set of points cardinally
+Macroscopic objects evolve predictably in the sense that         equal to the set IR3 of triplets of real numbers, or else
+every time the position of such an object is indicated, its      we tend to think of space as an extended thing that it is
+value is consistent with all predictions made on the basis       inherently divided into mutually disjoint regions (philo-
+of (i) all past indicated properties and (ii) the classical      sophically speaking, an extended substance with intrinsic
+laws of motion. (As mentioned above, there is one ex-            parts), and we consider it legitimate to mathematically
+ception: Whenever the position of such an object serves          represent this thing by the set IR3 . (If it’s intrinsically
+to indicate an unpredictable property in the quantum             divided, then it’s divided into infinitesimal regions, and
+domain, it is itself not predictable.) This makes it pos-        then it seems OK to represent these regions by the ele-
+sible to think of the positions of macroscopic objects as        ments of IR3 .)
+forming a self-contained system of positions that “dan-             QM is trying to tell us otherwise. The only positions
+gle” causally from each other, and this makes it possible        in existence are (i) the (not manifestly fuzzy) positions of
+to disregard that in reality they “dangle” ontologically         macroscopic objects and (ii) the positions possessed by
+from position-indicating facts. Predictability warrants          objects in the quantum domain. The latter are defined by
+the applicability of causal concepts, and the applicabil-        the sensitive regions of macroscopic detectors, are always
+ity of causal concepts to macroscopic objects warrants           finite in extent, and are possessed only when indicated.
+treating their positions as intrinsic.                           The proper way of thinking, speaking, or writing about
+                                                                 a “region of space,” therefore, is to never let the logical
+   Causality and intrinsic properties therefore stand and
+                                                                 or grammatical subject of a sentence refer to it. Regions
+fall together. Where the extrinsic nature of properties
+                                                                 of space are not things that exist by themselves, nor are
+cannot be ignored, causal concepts cannot be applied.
+                                                                 they parts of a thing that exists by itself. Since they exist
+While correlations that are not manifestly probabilistic
+                                                                 only as properties of material things, only predicates of
+(like those between the successive positions of macro-
+                                                                 sentences about material things should refer to them.
+scopic objects) can be embellished with causal stories,
+in the quantum domain causal concepts are out of place.             If they were things, the regions defined by the two
+We can impose them on the classical domain with some             slits—let’s call them L and R—would be distinct, self-
+measure of consistency, although this entails the use of         existent parts of space. An object that is in the union
+a wrong criterion: Temporal precedence takes the place           U = L ∪ R of two distinct, self-existent parts of space,
+of causal independence as the criterion that distinguishes       either is in L, or is in R, or is divided by the distinct-
+causes from effects. But when we deal with correlations          ness of L and R into two parts, one in L and one in R.
+that are manifestly probabilistic, projecting our agent          Since electrons in two-slit experiments can go through U
+causality into the physical world does not work. Try-            without going through either L or R and without being
+ing to causally explain these correlations is putting the        divided into parts that go through different slits, the two
+cart in front of the horse. It is the statistical correlations   slits cannot be things. L and R are properties that are
+that explain why causal explanations work to the extent          possessed if and only if their possession is indicated. If
+they do. They work in the classical domain where sta-            they are not possessed (because they are not indicated)
+tistical variations are not in evidence. If we go beyond         then they do not exist. But if they do not exist, they
+this domain, we realize that all correlations are essen-         obviously cannot compel electrons to “choose” between
+tially statistical, even where statistical variations are not    them.
+in evidence, and that causality is a function of psychology         A position measurement performed on O at a time t
+rather than a physical concept.                                  with N detectors Di (sensitive regions Ri ) answers N yes-
+                                                                 no questions. It yields truth values (“true” or “false”)
+                                                                 for N propositions of the form pi =“O is inside Ri at the
+                                                                 time t.” Where O is concerned, the world at the time
+
+                                                             11
+t is spatially differentiated into N finite regions. They                 Consider a system S to which, on the basis of its factu-
+exist for O because the propositions pi are either true                ally warranted properties at the indicated clock times t1
+or false, and these propositions are either true or false              and t2 , the respective Born probability measures |ψ1 (t)i
+because their truth values are indicated. (If their truth              and |ψ2 (t)i can be assigned. If there isn’t any fact that
+values are not indicated, they are neither true nor false              indicates what S is like in the meantime then there isn’t
+but meaningless.)                                                      anything that S is like in the meantime. Where S is con-
+   That we can treat the positions of macroscopic ob-                  cerned, there isn’t any state (in the common-language
+jects as intrinsic, for reasons and subject to qualifica-              sense of the word) that obtains in the meantime, let alone
+tions stated in the previous section, does not change the              an evolving instantaneous state. “[T]here is no interpo-
+fact that at bottom they too are extrinsic. While the                  lating wave function giving the ‘state of the system’ be-
+whereabouts of macroscopic objects are abundantly and                  tween measurements” [46]. Not only is there no state
+redundantly indicated, they are never indicated with ab-               that obtains in the meantime but also there is no mean-
+solute precision. Hence even for a macroscopic object O                time. And so there isn’t any time at which propensities
+the world at any given time t is only finitely differentiated          can be attributed to S. Times, like properties, supervene
+spacewise (that is, no finite region R is differentiated into          on the facts. Not only the positions of things but also
+infinitely many regions Ri such that truth values exist for            the times at which they are possessed are extrinsic. The
+all propositions pi ).                                                 times that exist for S are the factually warranted times
+   The finite spatial differentiation of reality is one of the         at which S possesses factually warranted properties.
+most significant ontological implications of QM [22, 43].                 If there isn’t any matter of fact about what S is like in
+It is as inconsistent with the field-theoretic notion that             the meantime, we can say that S has changed from an ob-
+physical properties are instantiated by the “points of                 ject having properties that warrant assigning |ψ1 (t)i to an
+space”3 as special relativity is with the notion of ab-                object having properties that warrant assigning |ψ2 (t)i—
+solute simultaneity. The world is created top-down, by                 but only in the sense that at the time t1 the system has
+a finite process of differentiation that stops short of an             the former properties and at t2 it has the latter proper-
+infinite spatial differentiation, rather than built bottom-            ties. The change of S consists in the difference between
+up, on an infinitely and intrinsically differentiated space,           the properties it possesses at t1 and the properties it pos-
+out of locally instantiated physical properties. There are             sesses at t2 . Where S is concerned, this is all the change
+no points on which to build such a world. An infinitely                that occurs. Nothing can be said about the meantime,
+and intrinsically differentiated space, such as IR3 is com-            not just because in the meantime S lacks properties, but
+monly supposed to represent, exists nowhere but in our                 because there isn’t any meantime. (Much the same is
+thoughts. We may think of the trajectories of macro-                   true of positions between material objects. If a position
+scopic objects as the paths of average (expected) posi-                somewhere between two material objects is not possessed
+tions, but the fuzziness implied by this way of thinking               by another material object, it does not exist.)
+exists solely in our imagination. It corresponds to noth-                 Stapp’s 1972 interpretation of the Copenhagen inter-
+ing in the physical world because it exists only in relation           pretation combines one correct idea with two erroneous
+to an unrealized degree of spatial differentiation—it ex-              notions [47]:
+ists only in relation to an imagined backdrop that is more                 The rejection of classical theory in favor of
+differentiated spacewise than is the physical world.                       quantum theory represents, in essence, the re-
+   What is true of the world’s spatial aspect is equally true              jection of the idea that external reality resides
+of its temporal aspect. There is no such thing as an intrin-               in, or inheres in, a space-time continuum. It sig-
+sically and infinitely differentiated time. What is tempo-                 nalizes the recognition that ‘space,’ like color,
+rally differentiated is physical systems, and every physical               lies in the mind of the beholder.
+system is temporally differentiated only to the extent that
+                                                                           The principal difficulty in understanding quan-
+it has distinct successive states, in the common-language
+                                                                           tum theory lies in the fact that its completeness
+sense of “state” that connotes possessed properties. The
+                                                                           is incompatible with [the] external existence of
+world’s limited temporal differentiation is a direct conse-
+                                                                           the space-time continuum of classical physics.
+quence of its limited spatial differentiation. Because the
+world is only finitely differentiated spacewise, no physical               The theoretical structure did not extend down
+system can have an infinite number of distinct states in a                 and anchor itself on fundamental microscopic
+finite time span T . Therefore a macroscopic clock (usu-                   space-time realities. Instead it turned back and
+ally indicating time by some macroscopic pointer) can                      anchored itself in the concrete sense realities
+indicate no more than a finite number of distinct times                    that form the basis of social life.
+during T , and this means that there exist no more than                While it is correct that QM is incompatible with the
+a finite number of such times during T .                               space-time continuum of classical physics, the conclusion
+   3 “A field theory in physics is a theory which associates certain   that space “lies in the mind of the beholder” is a non se-
+properties with every point of space and time.”—M. Redhead [45].       quitur, and so is the notion that the theoretical structure
+
+                                                                   12
+of QM is anchored in “concrete sense realities.” What           which causes, in accordance with the neuroscience of mo-
+is inconsistent with QM is the existence of an intrinsi-        tor control, the actions that lead to the eventual effect.
+cally and infinitely differentiated space-time continuum.          Just as a specific event in classical physics always leads,
+Neither space nor time is a world constituent that exists       under identical conditions, to the same effect, so a spe-
+independently of matter. Therefore neither can be intrin-       cific, causally efficacious plan of action always leads to
+sically differentiated. Space and time are modes of differ-     a specific, causally determined course of action. It is
+entiation. The objective world is in possession of spatial      precisely because there is no indeterminacy in the corre-
+and temporal aspects, but it is only finitely differentiated    lations between causes and effects that we can speak of
+spacewise and timewise. Again, QM presupposes mea-              “causes” and “effects.” Since causal concepts are applica-
+surements, but measurements qua value-indicating facts,         ble only to dispersion-free correlations, quantum indeter-
+not measurements qua “concrete sense realities.”                minacy can play no mediating role in mental causation.
+   In his present theory, Stapp rejects the one correct in-     The freedom to choose is a classical phenomenon. The
+gredient in his 1972 interpretation and postulates, as the      difference between physical causation and mental causa-
+arena for a local dynamical process satisfying the princi-      tion is that the causes of the former, like their effects,
+ple of local causality, the infinitely and intrinsically dif-   belong to the classical domain, while the causes of the
+ferentiated space-time continuum of relativistic quantum        latter are not to be found in either physical domain.
+field theory:                                                      The description of the physical effects of mental causes
+                                                                cannot differ from the description of the physical effects
+     The evolution of the physical universe involves
+                                                                of physical causes. The effects of mental causation must
+     three related processes. The first is the deter-
+                                                                be capable of being represented by the same mathemat-
+     ministic evolution of the state of the physical
+                                                                ical constructs as the effects of physical causation—that
+     universe. It is controlled by the Schrödinger
+                                                                is, by one of the classical force fields. As has been shown
+     equation of relativistic quantum field theory.
+                                                                elsewhere [15, 16], the relevant field is the electromag-
+     This process is a local dynamical process, with
+                                                                netic four-vector potential. Where this is only physically
+     all the causal connections arising solely from in-
+                                                                determined, it is determined (up to gauge transforma-
+     teractions between neighboring localized micro-
+                                                                tions) in conformity with Maxwell’s equations. Where it
+     scopic elements.
+                                                                includes the effects of causally efficacious mental events,
+As pointed out earlier in this section, these field theoretic   it is no longer so determined.
+notions are as inconsistent with the finite differentiation        Stapp asserts that “[a]ccording to the principles of clas-
+of the objective world implied by QM as the notion of           sical physical theory, consciousness makes no difference in
+absolute simultaneity is with special relativity.               behavior: all behavior is determined by microscopic cau-
+                                                                sation.” In point of fact, this is so according to certain
+                                                                metaphysical doctrines, not according to the principles of
+10      QUANTUM MECHANICS AND                                   any physical theory. Consciousness can make a difference,
+        MIND–BRAIN INTERACTION                                  although not without infringing physical laws [15, 16].
+                                                                Like J.C. Eccles [13], Stapp appears to hope that QM
+On the basis of von Neumann’s discordant postulates—            will allow the mind to be causally efficacious without
+a classical space-time continuum, a dynamical process           infringing physical laws. While Eccles tried, unsuccess-
+subject to local causality, instantaneous collapse due to       fully [15, 16], to exploit quantum-mechanical indetermin-
+the injection of “information associated with a subjective      ism as a loophole through which mind can act on matter
+perception by some observing system into the objective          without “violating” the laws of physics, Stapp tries to ex-
+state of the universe” [14]—Stapp formulates a theory of        plain the freedom of the experimenter by the freedom of
+mind–brain interaction in which choices are claimed to          the experimenter’s mind to pay or not to pay attention.
+play a crucial role: “The basic building blocks of the new      His argument involves the following seven steps.
+conception of nature are. . . choices of questions and an-
+swers.” We freely choose the questions, and Nature freely       (1) Environment-induced decoherence (EID) [48] “creates
+chooses the answers, within the constraints imposed by          a powerful tendency for the brain to transform almost in-
+the statistical laws of QM.                                     stantly into an ensemble of components, each of which is
+   Like Bohr, Stapp attributes to experimenters the free-       very similar to an entire classically-described brain” [14].
+dom to choose between complementary experimental ar-
+rangements: “the choice of which question will be put           Two comments. First, the transformation to which Stapp
+to nature. . . is not governed by the physical laws of con-     refers is not a transformation of the brain but the “trans-
+temporary physics.” Here I agree. The eventual physical         formation” of a probability measure associated with one
+effect of such a choice—the experimental setup that is ac-      time into a probability measure associated with another,
+tually in place—is not determined by any of the presently       slightly later time. If the prior probability measure asso-
+known physical laws, nor is the initial physical effect,        ciated with the brain and the time t is a coherent super-
+
+                                                            13
+position                  XX                                    If there isn’t any matter of fact about which compo-
+                                      c∗i ck |iihk|          nent of a mixture exists, no component exists. None
+                          i       k                          of them can be “regarded as real.” This is the reason
+or a mixture of such superpositions                          why re-interference remains a theoretical possibility. If
+                                                             nothing in the decoherence-inducing environment indi-
+                X XX
+                   λj       c∗ji cjk |iihk|,                 cates a particular component, coherence can in principle
+                  j           i       k
+                                                             be restored. Since correlations between the respective
+                                                             probability measures of the environment and the brain
+the effect of EID is that the prior probability measure      are necessary but not sufficient for the existence of a
+associated with the brain and a slightly later time t′ is    component-indicating fact, the probability measure as-
+approximately given by the mixture                           sociated with the brain at a later time could in princi-
+                     X                                       ple be the initial pure measure, assuming that the initial
+                         c∗k ck |kihk|                       measure was pure. Whether this is possible under con-
+                              k                              ditions in which a living brain can exist, is a different
+                                                             matter. It stands to reason that under such conditions
+or the mixture (of mixtures)
+                                                             the decoherence-inducing environment intersects with the
+                 X X                                         classical domain. If so, the existing component will be
+                    λj     c∗jk cjk |kihk|.
+                                                             indicated, in which case the restoration of coherence is
+                      j           k
+                                                             ruled out.
+Second, if there is a way of making sense of the phrase         A decoherent mixture can be objective in the sense that
+“classically described brain” (CDB), the phrase refers to    it specifies objective probabilities. (I agree with Stapp
+a brain the positional indefiniteness of whose material      that decoherence is not sufficient for the transformation
+constituents is not evidenced by such position-indicating    of objective probabilities into subjective ones.) As ex-
+facts as are inconsistent with classical laws of motion      plained in Sec. 7, objective probabilities are associated
+(Sec. 8).                                                    with the possible results of unperformed measurements.
+                                                             An objective probability measure is the proper, counter-
+(2) Each instance of EID in the brain is preceded and
+                                                             factual expression of an objective indefiniteness. If noth-
+brought into play by exocytosis, the release of the con-
+                                                             ing indicates the slit taken by an electron, an objective
+tents of a vesicle of neurotransmitter into the synaptic
+                                                             probability of 1/2 can be assigned to the possibility that
+cleft.
+                                                             the electron has gone through the left (right) slit. In
+The prior probability measure associated with the brain      this case saying that the electron went through the left
+after exocytosis assigns significant probabilities to sig-   (right) slit is neither true nor false. It is meaningless,
+nificantly different outcomes of position measurements       for the distinction we make between these alternatives is
+that might be performed on some of the brain’s material      a distinction that Nature does not make; it corresponds
+constituents. “Significantly different” is short for “suf-   to nothing in the physical world; it exists solely in our
+ficiently different for the probability measure associated   minds.
+with the brain to be subject to EID.” The net result,           In view of the unavoidable intersection between the
+according to Stapp, is “a quantum splitting of the brain     decoherence-inducing environment and the classical do-
+into different classically describable components” or el-    main, a mixture of living CDBs can only be a subjective
+ements, all of which must be regarded as real “because       probability measure, arising from an incomplete knowl-
+interference between the different elements [is] in princi-  edge of the relevant facts. It cannot represent the objec-
+ple possible.”                                               tive brain. Let us assume, nevertheless, that a “mixture
+   In point of fact, the net result of exocytosis and EID is of CDBs” is an objective probability measure. (Only in
+a mixed probability measure. As a macroscopic object, a      this case does it make sense to keep looking for a process
+CDB is associated with a probability measure that does       that changes “and” into “or,” or objective probabilities
+not assign significant probabilities to significantly differ-into subjective ones, and in which consciousness can play
+ent outcomes of possible position measurements on its        a causal role.) Then this objective probability measure is
+material constituents. For this reason we can switch from    the formal expression of an objective indefiniteness, and
+conditional assignments of probabilities to unconditional    the distinctions that we make between its components are
+attributions of properties (that is, to attributions of in-  distinctions that Nature does not make; they correspond
+trinsic properties); we can talk facts. That is just why we  to nothing in the physical world. Hence even if a “mix-
+can speak of a “classically described” brain. A “mixture     ture of CDBs” were an objective probability measure, its
+of CDBs,” on the other hand, has no sensible transla-        components could not be regarded as being both real and
+tion into the classical language of objects and facts. It    distinct from each other.
+is neither an object nor an actual state of affairs but a
+probability measure pure and simple.                          (3) “[D]uring an interval of conscious thinking, the brain
+
+                                                          14
+changes by an alternation between two processes.” Hav-          Within the Copenhagen framework, the interrogation of
+ing generated “by a local deterministic mechanical rule” a      Nature by human experimenters is a fitting metaphor for
+“profusion” of “separate, but equally real, quasi-classical     a well-defined scenario. To choose a question is to decide
+branches,” the “individual physical system associated           on a specific experimental arrangement, and to choose a
+with a mental event” undergoes a change by which it “is         time is to decide when to perform the experiment. The
+brought into alignment with the content of that mental          mind, however, doesn’t experiment with the brain. To
+event.” The physical aspect of this second process “chops       save his metaphor, Stapp therefore needs to imbue it with
+off all branches that are incompatible with the associated      a new sense. In what sense does the mind put questions
+psychical aspect.”                                              to the brain, without the intervention of an apparatus?
+   “[I]f the psychical event is the experiencing of some        How does it choose its questions and the times to ask
+feature of the physical world, then the associated physi-       them? In Stapp’s opinion, attention holds the key.
+cal event” updates “the brain’s representation of that as-
+pect of the physical world. This updating of the (quan-         (5) “Asking a question about something is closely con-
+tum) brain is achieved by discarding from the ensem-            nected to focussing one’s attention on it. Attending to
+ble of quasi-classical brain states all those branches in       something is the act of directing one’s mental power to
+which the brain’s representation of the physical world is       some task. This task might be to update one’s repre-
+incompatible with the information content of the psychi-        sentation of some feature of the surrounding world, or
+cal event” [14].                                                to plan or execute some other sort of mental or physical
+                                                                action.”
+If the psychical event is the intention to execute a par-
+ticular plan of action, then the associated physical event      Neurobiological data suggest that the world’s neural rep-
+discards the branches associated with plans of action that      resentation contains far more information than its con-
+are incompatible with the experienced intention. (Stapp         scious mental representation, and this suggests that at-
+assumes that “the purely mechanical evolution of the            tention plays a crucial role in the relation between the two
+state of the brain in accordance with the Schrödinger          representations. Sudden changes in the visual field can
+equation will normally cause the brain to evolve into a         not only draw attention, and thereby update the mental
+growing ensemble of alternative branches, each of which         representation, but also draw it away, and thereby oblit-
+is essentially an entire classically described brain that       erate features of this representation [49]. (The updating
+specifies a possible plan of action.”)                          of the mental representation that would normally follow a
+   Holding the definiteness of perceptions responsible          change in the neural representation, may be prevented by
+for the quantum-mechanical “reduction process” permits          focusing attention on a different part of the visual field.)
+Stapp to pass from perceptions to other mental contents,        When it is not drawn willy-nilly, attention seems to be
+and to similarly empower volitions: The definiteness of         capable of being directed freely. According to William
+intentions, like that of perceptions, entails reductions. As    James, whom Stapp quotes approvingly, the power to di-
+yet, however, there is no room for free choices. Conscious-     rect our attention is limited to choices between keeping
+ness (a psychical aspect of perceptual and/or volitional        it focused on whatever has captured it or allowing it to
+character) is associated with all branches, and reduction       be captured by something else:
+occurs automatically whenever the mixture of branches               [T]he whole drama of the voluntary life hinges
+becomes inconsistent with the definiteness of mental con-           on the attention, slightly more or slightly less,
+tents. To make room for free choices, Stapp introduces              which rival motor ideas may receive.
+the metaphor of the experimenter as interrogator of Na-
+ture. Making experiments is asking questions, and get-              The essential achievement of the will, in short,
+ting results is receiving answers from Nature. The exper-           when it is most “voluntary,” is to attend to a
+imenter has the freedom to choose which experiments to              difficult object and hold it fast before the mind.
+perform when, and Nature has the freedom to chose the               . . . Effort of attention is thus the essential phe-
+results.                                                            nomenon of will [50].
+
+(4) “The central roles in quantum theory of these discrete      While this appears to be both plausible and consistent
+choices—the choices of which questions will be put to na-       with the neurobiological data, it has nothing to do with
+ture, and which answer nature delivers—makes quantum            probabilistic reductions of mixtures. The questions the
+theory a theory of discrete events. . . . Each of these quan-   mind can put to the brain, by choosing where to fix
+tum events involves” (i) “a choice of a Yes-No question         its attention, are always compatible, for the mind does
+by the mind–brain system” and (ii) “a choice by Nature          not need to choose between mutually incompatible ex-
+of an answer, either Yes or No, to that question. . . . the     perimental arrangements. The relations between mental
+freedom to choose which questions are put to nature, and        contents and neural states, in which attention appears to
+when they are asked, allows mind to influence the be-           play a significant role, are therefore relations between the
+haviour of the brain” [14].                                     mind and a CDB, which belongs to the definite domain
+
+                                                            15
+of intrinsic properties. It has nothing to do with the re-               courses of action, for then different plans of action could
+lations between this domain and the indefinite domain of                 not coexist in the same mind, given that consciousness of
+extrinsic properties, with which QM is concerned. The                    a plan of action is what reduces the mixture to one of its
+intersection between QM and volition is empty.                           components. To be consistent with the introspectively
+   I do not deny that a complete understanding of the                    evident coexistence of alternative plans of action in the
+brain must take into account the positional indefinite-                  same mind, Stapp would have to allow either that differ-
+ness (and hence the quantum-mechanical nature) of the                    ent courses of actions can coexist in the same CDB or that
+brain’s constituents. But of this there can be no evidence               we can be conscious of different components of a mixture
+in the correspondences between facts and their neural                    of CDBs. But in the former case the choice between alter-
+and mental representations. If attention is drawn to the                 native plans of action cannot be linked to the reduction of
+highest bidder, the highest bidder is not a component of                 a mixture, and in the latter Stapp’s consciousness-based
+a mixture of CDBs but one among several neural events                    account of state reduction fails.
+or activities competing for attention in one and the same                   If the brain’s limited processing capacity is the reason
+CDB. And if attention roams freely (that is, if the mind                 why attention is choosy then attention has to be regarded
+can freely choose the questions it puts to the brain) then               as being in part a neural process. This works in Stapp’s
+also there is nothing stochastic in the answers it receives.             favor inasmuch as he wants to account for the causal ef-
+Each answer is determined by a definite aspect of a sin-                 ficacy of the mind in quantum-mechanical terms. Since
+gle CDB, rather than by the probabilistic reduction of a                 no single choice of an experiment can influence the re-
+mixture of CDBs.                                                         sult of another experiment, no single question posed by
+                                                                         the mind can be causally efficacious. On this theoretical
+(6) The interactions between the physical universe and                   foundation it makes sense to let the physical system de-
+the minds of observers have two aspects. The first “is the               cide which questions will be asked when, and to restrict
+role of the experimenter in choosing what to attend to;                  the mind’s freedom to an influence on the rate at which
+which aspect of nature he wants to probe; which question                 questions are re-posed. This kind of influence can be
+he wants to ask about the physical world. . . . The second               causally efficacious, as the quantum Zeno effect [54, 55]
+aspect is the recognition, or coming to know, the answer                 demonstrates, and it agrees with the fact that attention
+that nature returns” [14].                                               is largely a neural (and hence neurally determined) pro-
+Here Stapp glosses over the disparity between physical                   cess. But it also gives the quietus to the interrogator
+                                                                         metaphor, for now Nature not only provides the answers
+experimentation and psychological attention by applying
+                                                                         but also asks the questions.
+the same metaphor to both. In point of fact, experi-
+                                                                            By gradually shifting both the content and the appli-
+menters do not choose what to attend to; they decide
+                                                                         cation of his metaphor, Stapp is able to make plausible
+which experiment they will perform. It is one thing to
+                                                                         a series of specious transitions. Once the metaphor has
+choose between incompatible experimental arrangements
+                                                                         served its purpose, it is discarded. In the first of the
+with a view to obtaining information about a part of the
+                                                                         quotations that follow, Stapp attributes to the mind the
+physical world that cannot be obtained by simply look-
+ing at it. It is something else altogether to choose which               freedom to choose its questions. In the second, the mind
+                                                                         chooses between whether or not to pose a question cho-
+directly accessible feature of a CDB to attend to. (“Di-
+                                                                         sen by Nature, and it controls the rate of questioning. In
+rectly accessible” means “without the intervention of any
+                                                                         the third, the mind only controls the rate at which ques-
+apparatus” and thus “without having to chose between
+                                                                         tions chosen by Nature are repeated. And in the fourth,
+incompatible setups.”) The necessity of a choice exists
+                                                                         the mind’s freedom is reduced to consenting to the rapid
+for totally different reasons, namely, in one case, the im-
+                                                                         re-posing of questions chosen by Nature.
+possibility of simultaneous answers to logically inconsis-
+tent questions4 and, in the other case, the brain’s limited                  The only freedom in the theory—insofar as we
+processing capacity.                                                         leave Nature’s choices alone—is the choice made
+  Stapp’s transference, via the interrogator metaphor, of                    by the individual about which question it will
+the non-Boolean structure of the lattice of possible ex-                     ask next, and when it will ask it. These are
+perimental answers to the lattice of possible answers re-                    the only inputs of mind to the dynamics of the
+turned by the brain seems to entail that different plans of                  brain.
+actions necessarily correspond to different components of                    [T]he brain does most of the work, in a local
+a mixture of CDBs. If this were the case, we could never                     mechanical way, and the mind, simply by means
+consciously weigh the pros and cons of different possible                    of choices between ‘Yes’ or ‘No’ options, and
+   4 It is not only practically impossible but logically inconsistent        control over the rate at which questions are put
+to ask both (i) whether an atom went through the left or through             to nature, merely gives top-level guidance.
+the right cavity and (ii) whether the same atom went through both
+cavities in phase or out of phase. See my discussion [22, 51] of the         Mental control comes in only through the option
+experiment of Englert, Scully, and Walther [52, 53].                         to rapidly pose [the] same question repeatedly,
+
+                                                                        16
+     thus activating the Quantum Zeno Effect, which            It is a truism that science begins with relationships be-
+     will tend to keep the state of the brain focussed         tween experiences. But it does not end there. Science is
+     on [a specific] plan of action. . . .                     driven by the desire to know how things really are. It owes
+     [M]ind, by means of the limited effect of con-            its immense success in large measure to its powerful “sus-
+     senting to the rapid re-posing of the question            taining myth” [56]—the belief that this can be discovered.
+     already constructed and briefly presented by              Knowing how things “really” are does not mean knowing
+     brain, can influence brain activity by causing            how they are in themselves, independently of how they
+     this activity to stay focussed on the presented           appear to us or how we conceive of them. By definition,
+     course of action.                                         that kind of knowledge is beyond our ken. What science
+                                                               aims to achieve is a strongly objective conception of re-
+According to Stapp, if we are very intent on a specific        ality (that is, a consistent way of thinking of experienced
+course of action, we must be very skeptical about its be-      regularities as aspects of a world that does not depend
+ing the right course of action; we must keep asking our-       on its being experienced). The very aim of science thus
+selves rapidly, “Shall I execute plan X? Shall I execute       rules out the intersubjective or weakly objective concep-
+plan X? Shall I. . . .” This will make our executing plan X    tion of reality advocated by d’Espagnat [57]. It also rules
+highly probable. On the other hand, if we wish to abstain      out interpretations of standard QM that take the quan-
+from a certain course of action, we must not keep asking       tum state for more than a probability measure, inasmuch
+ourselves whether it should be executed.                       as such interpretations are inconsistent with strong ob-
+                                                               jectivity [57, 58, 59, 60]. It further rules out epistemic
+(7) Stapp presents a simple dynamical model of mind–
+                                                               interpretations, including Stapp’s.
+brain interaction in which “the ‘best possible’ question
+that could be asked by the individual at time t,” given           If the aim of strong objectivity appears unattainable,
+the state S(t) of the universe at this time, is the ques-      it ought to be taken as a sign that we are making the
+tion Pmax that maximizes Tr[P S(t)]. This question is          wrong assumptions, and it ought to spur us on to fer-
+posed when the probability of a positive answer reaches        ret them out. The crucial assumption that stands in the
+a relative maximum.                                            way of a strongly objective conception of reality based
+                                                               on von Neumann’s formulation of QM is the idea that
+Here Stapp introduces a new physical law, specifying           the “evolution” of the physical state of the universe “be-
+which question Nature will ask herself next and when she       tween events” is “a local dynamical process, with all the
+will do so. Stapp thus effectively proposes a new theory,      causal connections arising solely from interactions be-
+as different from standard QM as nonlinear adulterations       tween neighboring localized microscopic elements” [14].
+of QM [23, 24]. The theory which he ends up formulating        For Stapp, reality is differentiated, both spacewise and
+is completely different from the theory he initially pro-      timewise, into infinitesimal “neighboring localized micro-
+fesses to formulate, for in the beginning consciousness is     scopic elements.” If the objective physical state is “an in-
+responsible for state vector reductions, while in the end      formational and dispositional substrate that carries both
+a new physical law is responsible—a law that in no wise        the information incorporated into it by the psychical real-
+depends on the presence of consciousness.                      ities, and certain dispositions for the occurrence of future
+   Thus in the end Stapp, like Eccles [13], fails to account   psychical realities” [14], this locality assumption is com-
+for mental causation without implying “violations” of the      pletely gratuitous. The temporal resolution of the human
+laws of contemporary physics. Eccles did not introduce         visual system is in the millisecond range; its angular reso-
+a new physical law, but he allowed the mind to load the        lution is about an arc minute. Though higher resolutions
+quantum dice in the process of exocytosis, and this is tan-    can be achieved with the help of physical instruments,
+tamount to postulating mentally generated local modifi-        owing to intrinsic limits to the spatial and temporal mag-
+cations of physical laws [15, 16]. Stapp introduces a new      nifying power of such instruments, infinitesimal neigh-
+physical law specifying which questions Nature asks her-       boring intervals or regions can never be distinguished.
+self, and when, and he allows the mind to modify the           But if “psychical realities” are only finitely differentiated
+rates at which Nature interrogates herself. This, too, is      spacewise and timewise, and if the physical state of the
+tantamount to postulating mentally generated local mod-        universe only “carries information” about past “psychical
+ifications of a physical law—the very law Stapp himself        realities” and propensities for future “psychical realities,”
+has introduced.                                                then why should the physical universe be infinitely dif-
+                                                               ferentiated?
+11     EPILOGUE                                                   The recognition that the physical world is only finitely
+                                                               differentiated spacewise and timewise (Sec. 9) clears the
+Stapp asserts that his “conceptualization of natural pro-      way for a rigorous objective distinction between the clas-
+cess arises. . . directly from an examination of the mathe-    sical domain of intrinsic properties and the quantum do-
+matical structure injected into science by our study of the    main of extrinsic properties (Sec. 8). It warrants the spe-
+structure of the relationships between our experiences.”       cial status Bohr accorded to measurement outcomes—
+
+                                                           17
+property-indicating facts—and makes it possible to es-          [2] John von Neumann, Mathematical Foundations of
+tablish an objective criterion for distinguishing measur-           Quantum Mechanics (Princeton U.P., Princeton,
+ing apparatuses from “lesser things.” Essential to attain-          1955).
+ing this objective was the realization that the attribution
+of factuality is beyond the scope of any theory. When           [3] Eugene P. Wigner, “Remarks on the mind–body
+the theory has done its part, we are left with the prob-            question,” in The Scientist Speculates (Heinemann,
+lem of assigning factuality. This problem has exactly one           London, 1961), edited by I.J. Good, pp. 284–302.
+solution. The inexplicable factuality of facts belongs to
+                                                                [4] Werner Heisenberg, “The representation of nature in
+those properties which, for all quantitative purposes, can
+                                                                    contemporary physics,” Daedalus 87, 95–108 (1958).
+be treated as intrinsic.
+   Instead of according a special status to measuring in-       [5] Don N. Page, “Sensible quantum mechanics: Are
+struments, Stapp accords it to the neural correlates of             probabilities only in the mind?,” Int. J. Mod. Phys.
+mental states. Mental states evolve classically. The quan-          D5, 583–596 (1996).
+tum brain does not, but the definiteness of mental states
+forces their neural correlates, and through them every-         [6] Euan Squires, Conscious Mind in the Physical World
+thing that is entangled with them, to behave in a classi-           (Adam Hilger, New York, 1990).
+cal manner. In order to turn his idea of a theory into a
+                                                                [7] Michael Lockwood, Mind, Brain and the Quantum
+proper theory, Stapp would have to establish a criterion
+                                                                    (Basil Blackwell, Oxford, 1989).
+for distinguishing the neural correlates of mental states
+from less exalted aspects of the brain. If we are to reject     [8] David Z. Albert, Quantum Mechanics and Experi-
+the Copenhagen interpretation because it fails to estab-            ence (Harvard U.P., Cambridge, MA, 1992).
+lish a criterion for distinguishing measuring instruments,
+we should equally reject Stapp’s theory, for it fails to es-    [9] Mari Jibu and Kunio Yasue, Quantum Brain Dy-
+tablish a criterion for distinguishing the neural correlates        namics and Consciousness (John Benjamins, Ams-
+of mental states. He does, however, venture the following           terdam, 1995).
+conjecture:
+                                                               [10] Roger Penrose, Shadows of the Mind (Oxford U.P.,
+                                                                    Oxford, 1994).
+    This suggests to me that the physical correlates
+    of the psychical realities will reside in the low          [11] Gordon G. Globus, “Self, cognition, qualia and
+    frequency components of the coulomb part of                     world in quantum brain dynamics,” J. Consc. Stud.
+    the electromagnetic field. These are dominated                  5, No. 1, 34–52 (1998).
+    by the so-called “coherent states,” which are
+    known to be essentially classical in nature, and           [12] Stuart Hameroff, “Quantum coherence in micro-
+    particularly robust. . . . This would allow psy-                tubules: A neural basis for emergent conscious-
+    chical realities. . . to be present in the simplest             ness?,” J. Consc. Stud. 1, No. 1, 91–118 (1994).
+    life forms, and to predate life [14].
+                                                           [13] J.C. Eccles, How the Self Controls Its Brain
+The attempt to identify the neural correlates of con-           (Springer, Berlin, 1994).
+sciousness in physical terms appears to lead more or less [14] Henry P. Stapp, “Quantum theory and the role
+inevitably to some form of panpsychism. This suggests to        of mind in nature,” to appear in Foundations of
+me that John Searle’s comment on David Chalmers’ func-          Physics, e-Print quant-ph/0103043.
+tionalist account of consciousness [61] applies equally to
+Stapp’s account: “Of all the absurd results in Chalmers’ [15] Ulrich Mohrhoff, “Interactionism, energy conserva-
+book, panpsychism is the most absurd and provides us            tion, and the violation of physical laws,” Physics
+with a clue that something is radically wrong with the          Essays 10, 651–665 (1997).
+thesis that implies it” [62].
+                                                           [16] Ulrich Mohrhoff, “The physics of interactionism,” J.
+                                                                Consc. Stud. 6, No. 8/9, 165–184 (1999).
+References                                                     [17] David Hume, An Enquiry Concerning Human Un-
+                                                                    derstanding, 1748.
+ [1] Fritz London and Edmond Bauer, “The theory of ob-
+     servation in quantum mechanics,” in Quantum The- [18] Michael Redhead, Incompleteness, Nonlocality and
+     ory and Measurement (Princeton U.P., Princeton,        Realism (Clarendon, Oxford, 1987), p. 44.
+     NJ, 1983), edited by John A. Wheeler and Wojciech
+     H. Zurek, pp. 217–259.                            [19] J.M. Jauch, Foundations of Quantum Mechanics
+                                                            (Addison-Wesley, Reading, MA, 1968), pp. 92–132.
+
+                                                           18
+[20] A.M. Gleason, “Measures on the closed subspaces of [36] Ulrich Mohrhoff, “Objective probabilities, quantum
+     a Hilbert space,” J. Math. Mech. 6, 885–894 (1957).     counterfactuals, and the ABL rule,” forthcoming in
+                                                             Am. J. Phys., e-Print quant-ph/0006116.
+[21] John S. Bell, “Against ‘measurement’,” in 62 Years
+     of Uncertainty (Plenum, New York, 1990), edited by [37] Yakir Aharonov, Peter G. Bergmann, and Joel L.
+     Arthur I. Miller, pp. 17–31.                            Lebowitz, “Time symmetry in the quantum pro-
+                                                             cess of measurement,” Phys. Rev. B 134, 1410–1416
+[22] Ulrich Mohrhoff, “What quantum mechanics is try-        (1964); reprinted in Quantum Theory and Measure-
+     ing to tell us,” Am. J. Phys. 68, 728–745 (2000).       ment (Ref. [1]), pp. 680–686.
+
+[23] G.C. Ghirardi, A. Rimini, and T. Weber, “Unified [38] Peter Menzies and Huw Price, “Causation as a sec-
+     dynamics for microscopic and macroscopic systems,”    ondary quality,” Brit. J. Phil. Sci. 44, 187–203
+     Phys. Rev. D 34, 470–491 (1986).                      (1993).
+
+[24] Philip Pearle, “Combining stochastic dynamical [39] N. David Mermin, “What is quantum mechanics try-
+                                                              ing to tell us?,” Am. J. Phys. 66, 753–767 (1998).
+     state-vector reduction with spontaneous localiza-
+     tion,” Phys. Rev. A 39, 2277–2289 (1989).           [40] A. Peres and W.H. Zurek, “Is quantum theory uni-
+                                                              versally valid?,” Am. J. Phys. 50, 807–810 (1982).
+[25] A. Bassi and G.C. Ghirardi, “A general argument
+     against the universal validity of the superposition [41] N. David Mermin, “Is the Moon there when nobody
+     principle,” Physics Letters A 275, 373 (2000).           looks? Reality and the quantum theory,” Phys. To-
+                                                              day 38, No. 4, 38–47 (1985).
+[26] Sam Treiman, The Odd Quantum (Princeton U.P.,
+     Princeton, NJ, 1999), p. 188.                       [42] P. Feynman, R.B. Leighton, and M. Sands, The
+                                                              Feynman Lectures in Physics, Vol. 3 (Addison-
+[27] Karl R. Popper, Quantum Theory and the Schism            Wesley, Reading, MA, 1965), Sec. 1–1.
+     in Physics (Rowan & Littlefield, Totowa, NJ, 1982),
+     edited by W.W. Bartley, III.                        [43] Ulrich Mohrhoff, “Quantum mechanics and the
+                                                              cookie cutter paradigm,” e-Print quant-ph/0009001.
+[28] Werner Heisenberg, Physics and Philosophy (Harper [44] Ulrich Mohrhoff, “Beyond the cookie cutter
+     and Row, New York, 1958), Chap. 3.                       paradigm,” forthcoming in the Proceedings of the
+[29] Abner Shimony, “Conceptual Foundations of Quan-           2nd International Conference on Integral Psychol-
+     tum Mechanics,” in The New Physics (Cambridge             ogy, Pondicherry, 4–7 January 2001.
+     U.P., Cambridge, 1989), edited by Paul Davies, pp. [45] Michael L.G. Redhead, “Quantum field theory for
+     373–395.                                                  philosophers,” in PSA 1982, Vol. 2 (Philosophy of
+                                                               Science Association, East Lansing, MI, 1983), pp.
+[30] Lucien Hardy, “Nonlocality for two particles without      57–99.
+     inequalities for almost all entangled states,” Phys.
+     Rev. Lett. 71, 1665 (1993).                          [46] Asher Peres, “What is a state vector?,” Am. J. Phys.
+                                                               52, 644–650 (1984).
+[31] Thomas Nagel, The View from Nowhere (Oxford
+     U.P., New York, NY, 1986).                           [47] Henry Pierce Stapp, “The Copenhagen interpreta-
+                                                               tion,” Am. J. Phys. 40, 1098–1116 (1972).
+[32] Huw Price, Time’s Arrow & Archimedes’ Point (Ox-
+     ford U.P., New York, NY, 1996).                      [48] Wojciech Hubert Zurek, “Preferred states, pre-
+                                                               dictability, classicality and the environment-induced
+[33] See, for instance, the illuminating entry on “time”       decoherence,” Prog. Theor. Phys. 89, 281–312
+     in The Cambridge Dictionary of Philosophy (Cam-           (1993).
+     bridge U.P., Cambridge, 1995), edited by Robert [49] Francis Crick and Christof Koch, “The problem of
+     Audi.                                                     consciousness,” Sc. Am. 267, No. 3, 153–159 (1992).
+[34] Hermann Weyl, Philosophy of Mathematics and Nat- [50] William James, Psychology: The Briefer Course
+     ural Science (Princeton U.P., Princeton, NJ, 1949),   (University of Notre Dame Press, Notre Dame, IN,
+     p. 116.                                               1985), edited by Gordon Allport.
+[35] See, for instance, Asher Peres, “Classical interven- [51] Ulrich Mohrhoff, “Objectivity, retrocausation, and
+     tions in quantum systems. I. The measuring pro-           the experiment of Englert, Scully and Walther,” Am.
+     cess,” Phys. Rev. A 61, 022116 (2000).                    J. Phys. 67, 330–335 (1999).
+
+                                                        19
+[52] Marlan O. Scully, Berthold-Georg Englert and Her-
+     bert Walther, “Quantum optical tests of complemen-
+     tarity,” Nature 351, No. 6322, 111–116 (1991).
+[53] Berthold-Georg Englert, Marlan O. Scully and Her-
+     bert Walther, “The duality in matter and light,” Sci.
+     Am. 271, No. 6, 56–61 (1994).
+[54] B. Misra and E.C.G. Sudarshan, “The Zeno’s para-
+     dox in quantum theory,” J. Math. Phys. 18, 756–763
+     (1977).
+
+[55] C.B. Chiu and E.C.G. Sudarshan, “Time evolution
+     of unstable states and a resolution of Zeno’s para-
+     dox,” Phys. Rev. D 16, 520–529 (1977).
+[56] N. David Mermin, “What’s wrong with this sustain-
+     ing myth?,” Phys. Today 49, No. 3, 11–13 (1996).
+[57] Bernard d’Espagnat, Reality and the Physicist:
+     Knowledge, Duration and the Quantum World
+     (Cambridge U.P., Cambridge, 1989).
+[58] Bernard d’Espagnat, Veiled Reality, an Analy-
+     sis of Present-Day Quantum Mechanical Concepts
+     (Addison-Wesley, Reading, MA, 1995).
+[59] Bernard d’Espagnat, “Towards a separable ‘empiri-
+     cal reality’ ?,” Found. Phys. 20, 1147–1172 (1990).
+[60] Bernard d’Espagnat, “Influences, histories, and re-
+     ality,” Found. Phys. 26, 919–928 (1996).
+[61] David J. Chalmers, The Conscious Mind: In Search
+     of a Fundamental Theory (Oxford U.P., Oxford,
+     1996).
+[62] John R. Searle, “Consciousness & the Philosophers,”
+     The New York Review, March 6, 1997.
+
+
+
+
+                                                         20
+

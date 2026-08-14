@@ -1,0 +1,217 @@
+[
+ {
+  "path": "Values/ergo.html",
+  "len": 380,
+  "ok": true
+ },
+ {
+  "path": "Values/ergod.html",
+  "len": 382,
+  "ok": true
+ },
+ {
+  "path": "afterwords/listings.html",
+  "len": 39327,
+  "ok": true
+ },
+ {
+  "path": "afterwords/speranza.html",
+  "len": 84452,
+  "ok": true
+ },
+ {
+  "path": "articles/illusion_of_determinism.html",
+  "len": 442,
+  "ok": true
+ },
+ {
+  "path": "books/Free_Will_Kindle.mobi.html",
+  "len": 915733,
+  "ok": true
+ },
+ {
+  "path": "freedom/index.html",
+  "len": 869,
+  "ok": true
+ },
+ {
+  "path": "freedom/neuroscience.html",
+  "len": 421,
+  "ok": true
+ },
+ {
+  "path": "freedom/problem.html",
+  "len": 405,
+  "ok": true
+ },
+ {
+  "path": "help/wikipedia.org.html",
+  "len": 382,
+  "ok": true
+ },
+ {
+  "path": "introduction/interpretations.html",
+  "len": 437,
+  "ok": true
+ },
+ {
+  "path": "knowledge/complexity.html",
+  "len": 400,
+  "ok": true
+ },
+ {
+  "path": "knowledge/foundationalism.html.html",
+  "len": 550,
+  "ok": true
+ },
+ {
+  "path": "life/jakobson.html",
+  "len": 421,
+  "ok": true
+ },
+ {
+  "path": "periodic_table/large.html",
+  "skipped": "too short",
+  "len": 24
+ },
+ {
+  "path": "presentations/SSP.key.html",
+  "len": 3839430,
+  "ok": true
+ },
+ {
+  "path": "presentations/index.html",
+  "len": 498061,
+  "ok": true
+ },
+ {
+  "path": "problems/consciousness.html",
+  "len": 411,
+  "ok": true
+ },
+ {
+  "path": "problems/nonlocality.html",
+  "len": 411,
+  "ok": true
+ },
+ {
+  "path": "root/freedom.causality.html",
+  "len": 401,
+  "ok": true
+ },
+ {
+  "path": "root/freedom.de-liberation.html",
+  "len": 394,
+  "ok": true
+ },
+ {
+  "path": "root/freedom.soft_causality.html",
+  "len": 406,
+  "ok": true
+ },
+ {
+  "path": "root/freedom.superdeterminism.html",
+  "len": 408,
+  "ok": true
+ },
+ {
+  "path": "root/freedom.up_to_us.html",
+  "len": 404,
+  "ok": true
+ },
+ {
+  "path": "solutions.scientists/index.html",
+  "len": 419,
+  "ok": true
+ },
+ {
+  "path": "solutions/1008.1229.pdf.html",
+  "len": 470,
+  "ok": true
+ },
+ {
+  "path": "solutions/AJP_1905_photon.pdf.html",
+  "len": 486,
+  "ok": true
+ },
+ {
+  "path": "solutions/C_S_Lewis_Restoration_of_Man.html",
+  "len": 33952,
+  "ok": true
+ },
+ {
+  "path": "solutions/Minds_Machines_and_Godel.html",
+  "len": 46945,
+  "ok": true
+ },
+ {
+  "path": "solutions/a%3E. In it he postulates a law that.html",
+  "len": 595,
+  "ok": true
+ },
+ {
+  "path": "solutions/clock.html",
+  "skipped": "too short",
+  "len": 47
+ },
+ {
+  "path": "solutions/index.html",
+  "len": 486,
+  "ok": true
+ },
+ {
+  "path": "solutions/lecture1.html",
+  "skipped": "too short",
+  "len": 29
+ },
+ {
+  "path": "solutions/lecture2.html",
+  "skipped": "too short",
+  "len": 29
+ },
+ {
+  "path": "solutions/lecture3.html",
+  "skipped": "too short",
+  "len": 31
+ },
+ {
+  "path": "solutions/lecture4.html",
+  "skipped": "too short",
+  "len": 30
+ },
+ {
+  "path": "solutions/lecture7.html",
+  "skipped": "too short",
+  "len": 29
+ },
+ {
+  "path": "solutions/mayr_1974.pdf.html",
+  "len": 448,
+  "ok": true
+ },
+ {
+  "path": "solutions/schrodingerscat.html",
+  "len": 441,
+  "ok": true
+ },
+ {
+  "path": "tutorials/Free_Will.html",
+  "skipped": "too short",
+  "len": 9
+ },
+ {
+  "path": "tutorials/Free_Will_625.html",
+  "skipped": "too short",
+  "len": 13
+ },
+ {
+  "path": "tutorials/index.html",
+  "skipped": "too short",
+  "len": 13
+ },
+ {
+  "path": "value/good.html",
+  "len": 379,
+  "ok": true
+ }
+]

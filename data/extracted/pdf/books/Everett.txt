@@ -1,0 +1,404 @@
+         238   My God, He Plays Dice!
+
+
+
+
+                              t t I I I’s
+                       Eve re
+                     h
+                 Hu ny Worlds
+                   g
+Chapter 31
+
+
+
+
+                   Ma
+                                                                       Many Worlds 239
+
+
+Hugh Everett III’s Many Worlds
+   Hugh Everett III was one of John Wheeler’s most famous
+graduate students. Others included Richard Feynman. Wheeler
+supervised more Ph.D. theses than any Princeton physics professor.
+   Everett took mathematical physics classes with Eugene
+Wigner, who argued that human consciousness (and perhaps
+some form of cosmic consciousness) was essential to the “collapse“
+of the wave function.
+   Everett was the inventor of the “universal wave function” and
+the “relative state” formulation of quantum mechanics, later
+known as the “many-worlds interpretation.”
+   The first draft of Everett’s thesis was called “Wave Mechanics
+Without Probability.” Like the younger Albert Einstein and
+later Erwin Schrödinger, Everett was appalled at the idea of
+indeterministic events. For him, it was much more logical that the
+world was entirely deterministic.
+   Everett began his thesis by describing John von Neumann’s
+
+
+
+
+                                                                                               Chapter 31
+“two processes.”
+       Process 1: The discontinuous change brought about by the observation of a
+  quantity with eigenstates φ1, φ2,..., in which the state ψ will be changed to the state φj
+  with probability | ψ, φj|2
+
+       Process 2: The continuous, deterministic change of state of the (isolated) system
+  with time according to a wave equation δψ/δt = U ψ , where U is a linear operator. 1
+   Everett then presents the internal contradictions of observer-
+dependent collapses of wave functions with examples of “Wigner’s
+Friend,” an observer who observes another observer. For whom
+does the wave function collapse?
+   Everett considers several alternative explanations for
+Wigner’s paradox, the fourth of which is the standard statistical
+interpretation of quantum mechanics, which was criticized
+(correctly) by Einstein as not being a complete description.
+      Alternative 4: To abandon the position that the state function
+
+  1       The Many-Worlds Interpretation of Quantum Mechanics, p.3
+         240     My God, He Plays Dice!
+
+                     is a complete description of a system. The state function is to
+                     be regarded not as a description of a single system, but of an
+                     ensemble of systems, so that the probabilistic assertions arise
+                     naturally from the incompleteness of the description.
+                     It is assumed that the correct complete description, which
+                     would presumably involve further (hidden) parameters
+                     beyond the state function alone, would lead to a deterministic
+                     theory, from which the probabilistic aspects arise as a result of
+                     our ignorance of these extra parameters in the same manner as
+                     in classical statistical mechanics. 2
+                  For the most part, Everett seems to represent Einstein’s
+               “ensemble” or statistical interpretation, but he also is following
+               David Bohm. In order to be “complete,” “hidden variables” would
+               be necessary.
+                  Everett’s “theory of the universal wave function” is the last
+               alternative, in which he rejects process 1, wave function collapse:
+                     Alternative 5: To assume the universal validity of the quantum
+                     description, by the complete abandonment of Process 1.
+                     The general validity of pure wave mechanics, without any
+Chapter 31
+
+
+
+
+                     statistical assertions, is assumed for all physical systems,
+                     including observers and measuring apparata. Observation
+                     processes are to be described completely by the state function
+                     of the composite system which includes the observer and his
+                     object-system, and which at all times obeys the wave equation
+                     (Process 2). 3
+                 Everett says this alternative has many advantages.
+                     It has logical simplicity and it is complete in the sense that it is
+                     applicable to the entire universe. All processes are considered
+                     equally (there are no “measurement processes” which play
+                     any preferred role), and the principle of psycho-physical
+                     parallelism is fully maintained. Since the universal validity of
+                     the state function description is asserted, one can regard the
+                     state functions themselves as the fundamental entities, and one
+                     can even consider the state function of the whole universe. In
+                     this sense this theory can be called the theory of the “universal
+                     wave function,“ since all of physics is presumed to follow from
+                     this function. 4
+
+                 2       The Many-Worlds Interpretation of Quantum Mechanics, p.8
+                 3       ibid.
+                 4       ibid.
+                                                           Many Worlds 241
+
+Information and Entropy
+   In a lengthy chapter, Everett develops the concept of information
+- despite the fact that his deterministic view of physics allows no
+alternative possibilities. For Claude Shannon, the developer
+of the theory of communication of information, there can be no
+information created ad transmitted without possibilities. Everett
+correctly observes that in classical mechanics information is a
+conserved property, a constant of the motion. No new information
+can be created in such a deterministic universe.
+      As a second illustrative example we consider briefly the
+      classical mechanics of a group of particles. The system at any
+      instant is represented by a point...in the phase space of all
+      position and momentum coordinates. The natural motion
+      of the system then carries each point into another, defining
+      a continuous transformation of the phase space into itself.
+      According to Liouville’s theorem the measure of a set of points
+      of the phase space is invariant under this transformation.
+      This invariance of measure implies that if we begin with a
+      probability distribution over the phase space, rather than a
+
+
+
+
+                                                                          Chapter 31
+      single point, the total information,... which is the informa-
+      tion of the joint distribution for all positions and momenta,
+      remains constant in time. 5
+   Everett correctly notes that if total information is constant, the
+total entropy is also constant.
+      if one were to define the total entropy to be the negative of
+      the total information, one could replace the usual second law
+      of thermodynamics by a law of conservation of total entropy,
+      where the increase in the standard (marginal) entropy is
+      exactly compensated by a (negative) correlation entropy. The
+      usual second law then results simply from our renunciation
+      of all correlation knowledge (stosszahlansatz), and not from
+      any intrinsic behavior of classical systems. The situation for
+      classical mechanics is thus in sharp contrast to that of stochas-
+      tic processes, which are intrinsically irreversible.
+  5       ibid., p.31
+         242         My God, He Plays Dice!
+
+               The Appearance of Irreversibility in a Measurement
+                     There is another way of looking at this apparent irreversibility
+                     within our theory which recognizes only Process 2. When an
+                     observer performs an observation the result is a superposition,
+                     each element of which describes an observer who has perceived
+                     a particular value. From this time forward there is no interaction
+                     between the separate elements of the superposition (which
+                     describe the observer as having perceived different results),
+                     since each element separately continues to obey the wave
+                     equation. Each observer described by a particular element of the
+                     superposition behaves in the future completely independently
+                     of any events in the remaining elements, and he can no longer
+                     obtain any information whatsoever concerning these other
+                     elements (they are completely unobservable to him).
+                     The irreversibility of the measuring process is therefore, within
+                     our framework, simply a subjective manifestation reflecting
+                     the fact that in observation processes the state of the observer
+                     is transformed into a superposition of observer states, each
+                     element of which describes an observer who is irrevocably cut
+                     off from the remaining elements. While it is conceivable that
+Chapter 31
+
+
+
+
+                     some outside agency could reverse the total wave function, such
+                     a change cannot be brought about by any observer which is
+                     represented by a single element of a superposition, since he is
+                     entirely powerless to have any influence on any other elements.
+                     There are, therefore, fundamental restrictions to the knowledge
+                     that an observer can obtain about the state of the universe. It is
+                     impossible for any observer to discover the total state function of
+                     any physical system, since the process of observation itself leaves
+                     no independent state for the system or the observer, but only
+                     a composite system state in which the object-system states are
+                     inextricably bound up with the observer states. 6
+                  This is Everett’s radical thesis that the observation “splits” the
+               single observer into a “superposition” of multiple observers, each
+               one of which has knowledge only of the new object-system state
+               or “relative state” (interpreted later by Bryce DeWitt as different
+               “universes”) As soon as the observation is performed, the composite
+               state is split into a superposition for which each element describes
+                 6       ibid., p.98
+                                                          Many Worlds 243
+
+a different object-system state and an observer with (different)
+knowledge of it. Only the totality of these observer states, with
+their diverse knowledge, contains complete information about the
+original object-system state - but there is no possible communication
+between the observers described by these separate states. Any single
+observer can therefore possess knowledge only of the relative state
+function (relative to his state) of any systems, which is in any case all
+that is of any importance to him.
+   In the final chapter of his thesis, Everett reviews five possible
+“interpretations, the “popular”, the “Copenhagen”, the “hidden
+variables”, the “stochastic process”, and the “wave” interpretations.
+      a. The “popular” interpretation. This is the scheme alluded
+      to in the introduction, where ψ is regarded as objectively
+      characterizing the single system, obeying a deterministic
+      wave equation when the system is isolated but changing
+      probabilistically and discontinuously under observation. 7
+      b. The Copenhagen interpretation. This is the interpretation
+      developed by Bohr. The ψ function is not regarded as an
+      objective description of a physical system (i.e., it is in no sense
+
+
+
+
+                                                                            Chapter 31
+      a conceptual model), but is regarded as merely a mathematical
+      artifice which enables one to make statistical predictions,
+      albeit the best predictions which it is possible to make. This
+      interpretation in fact denies the very possibility of a single
+      conceptual model applicable to the quantum realm, and asserts
+      that the totality of phenomena can only be understood by the
+      use of different, mutually exclusive (i.e., “complementary”)
+      models in different situations. All statements about microscopic
+      phenomena are regarded as meaningless unless accompanied
+      by a complete description (classical) of an experimental
+      arrangement. 8
+      c. The “hidden variables” interpretation. This is the position
+      (Alternative 4 of the Introduction) that ψ is not a complete
+      description of a single system. It is assumed that the correct
+      complete description, which would involve further (hidden)
+      parameters, would lead to a deterministic theory, from which the
+      probabilistic aspects arise as a result of our ignorance of these
+      extra parameters in the same manner as in classical statistical
+      mechanics. 9
+  7       ibid., p.110
+  8       ibid.
+  9       ibid., p.111.
+         244          My God, He Plays Dice!
+
+                  Everett says that here the ψ-function is regarded as a description
+               of an ensemble of systems rather than a single system. Proponents
+               of this interpretation include Einstein and Bohm.
+                  d. The stochastic process interpretation. This is the point of
+                  view which holds that the fundamental processes of nature are
+                  stochastic (i.e., probabilistic) processes. According to this picture
+                  physical systems are supposed to exist at all times in definite
+                  states, but the states are continually undergoing probabilistic
+                  changes. The discontinuous probabilistic “quantum-jumps” are
+                  not associated with acts of observation, but are fundamental to
+                  the systems themselves. 10
+                  This is very close to our information interpretation of quantum
+               mechanics, which claims that collapses of the wave function result
+               from interactions between quantum systems, independent of any
+               observers or measurement processes.
+                  e. The wave interpretation. This is the position proposed in the
+                  present thesis, in which the wave function itself is held to be the
+                  fundamental entity, obeying at all times a deterministic wave
+                  equation. 11
+Chapter 31
+
+
+
+
+                  Everett says that his thesis follows most closely the view held by
+               Erwin Schrödinger, who denied the existence of “quantum jumps”
+               and collapses of the wave function. See Schrödinger’s Are There
+               Quantum Jumps?, Part I and Part II (and, years after Everett, John
+               Bell (1987) and H. Dieter Zeh (1993) who wrote articles with simi-
+               lar themes.
+               On the “Conscious Observer”
+                 Everett proposed that the complicated problem of “conscious
+               observers” can be greatly simplified by noting that the most
+               important element in an observation is the recorded information
+               about the measurement outcome in the memory of the observer.
+               He proposed that human observers could be replaced by automatic
+               measurement equipment that would achieve the same result. A
+               measurement would occur when information is recorded by the
+               measuring instrument.
+                 10     ibid., p.114
+                 11     ibid., p.115.
+                                                        Many Worlds 245
+
+   It will suffice for our purposes to consider the observers to
+   possess memories (i.e., parts of a relatively permanent nature
+   whose states are in correspondence with past experience of
+   the observers). In order to make deductions about the past
+   experience of an observer it is sufficient to deduce the present
+   contents of the memory as it appears within the mathematical
+   model.
+   As models for observers we can, if we wish, consider
+   automatically functioning machines, possessing sen-
+   sory apparatus and coupled to recording devices capable of
+   registering past sensory data and machine configurations. 12
+   Everett’s observer model is a classic example of artificial
+intelligence.
+   We can further suppose that the machine is so constructed that
+   its present actions shall be determined not only by its present
+   sensory data, but by the contents of its memory as well. Such
+   a machine will then be capable of performing a sequence of
+   observations (measurements), and furthermore of deciding upon
+   its future experiments on the basis of past results. If we consider
+   that current sensory data, as well as machine configuration, is
+
+
+
+
+                                                                         Chapter 31
+   immediately recorded in the memory, then the actions of the
+   machine at a given instant can be regarded as a function of
+   the memory contents only, and all relevant experience of the
+   machine is contained in the memory. 13
+  Everett’s observer model has what might be called artificial
+consciousness.
+   For such machines we are justified in using such phrases as
+   “the machine has perceived A” or “the machine is aware of A”
+   if the occurrence of A is represented in the memory, since the
+   future behavior of the machine will be based upon the occur-
+   rence of A. In fact, all of the customary language of subjective
+   experience is quite applicable to such machines, and forms the
+   most natural and useful mode of expression when dealing with
+   their behavior, as is well known to individuals who work with
+   complex automata. 14
+
+  12   ibid., p.64.
+  13   ibid.
+  14   ibid.
+         246       My God, He Plays Dice!
+
+                 Everett’s model of machine memory completely solves the
+               problem of “Wigner’s Friend.” As in the information interpretation
+               of quantum mechanics, it is the recording of information in a
+               “measurement” that makes a subsequent “observation” by a human
+               observer possible.
+               Bryce De Witt
+                  Everett stepped away from theoretical physics almost entirely
+               even before his thesis was finally accepted under John Wheeler
+               and published in the July 1957 issue of Reviews of Modern Physics.
+               along with an accompanying article by Wheeler.
+                  Without the strong interest in the many-worlds interpretation
+               of quantum mechanics by Bryce DeWitt, it might have much less
+               interest and influence today.
+                  In 1970, DeWitt wrote an article on Everett’s “relative-state”
+               theory for Physics Today. A few years later he compiled a collection
+               of Everett’s work, including the 1957 paper and the much longer
+               “The Theory of the Universal Wave Function,”along with interpretive
+               articles, by DeWitt, Wheeler, and others.
+Chapter 31
+
+
+
+
+               Summary of Everett’s Ideas
+                  Everett’s idea for the “universal validity of the quantum description”
+               can be read as saying that quantum mechanics applies to all physical
+               systems, not merely microscopic systems. This is correct. Then the
+               transition to “classical” mechanics emerges in the limit of the Planck
+               quantum of action h → 0, or more importantly, h/m → 0 (since h
+               never changes), so that classical physics appears in large massive
+               objects (like human beings) because the indeterminacy is too small
+               to measure.
+                  Like Einstein, Everett says that the ψ-function is a description of
+               an ensemble of systems rather than a single system. It is true that the
+               phenomenon of wave interference is only inferred from the results
+               of many single particle experiments. We never “see” interference in
+               single particles directly. Probabilistic assertions arise naturally from
+               the incompleteness of the description.
+                                                        Many Worlds 247
+
+    Everett correctly observes that in classical mechanics information
+is a conserved property, a constant of the motion. No new information
+can be created in a classical universe. But the observed universe has
+clearly been gaining new information structures since the origin.
+Indeed, both information and entropy have been increasing and
+continue to increase today. This cannot be explained by Everett.
+    Everett’s automatic measuring equipment that stores information
+about measurements in its “memory” nicely solves von Neumann’s
+problem of “psycho-physical parallelism” in “conscious-observer”-
+dependent quantum mechanics, like the Bohr-Heisenberg
+“Copenhagen Interpretation.”
+    The Everett theory preserves the “appearance” of possibilities
+as well as all the results of standard quantum mechanics. It is an
+“interpretation” after all. So even wave functions “appear” to
+collapse. Note that if there are many possibilities, whenever one
+becomes actual, the others disappear instantly. In Everett’s theory,
+they become other possible worlds
+    Unfortunately, as DeWitt and most modern followers of Everett
+
+
+
+
+                                                                              Chapter 31
+see it, alternative possibilities are in different, inaccessible universes.
+In each deterministic universe, there is only one possible future.
+    Many of Everett’s original ideas become central in later
+deterministic interpretations of quantum mechanics, such as the
+decoherence program of H.Dieter Zeh and Wojciech Zurek.
+    Some of Everett’s important new ideas show up also in the work
+of John Bell, to which we now turn.
+

@@ -1,0 +1,299 @@
+# Philosophical Review
+
+**source:** pdf · **section:** solutions
+**file:** same_place_time
+---
+
+
+   On Being in the Same Place at the Same Time
+   Author(s): David Wiggins
+   Source: The Philosophical Review, Vol. 77, No. 1 (Jan., 1968), pp. 90-95
+   Published by: Duke University Press on behalf of Philosophical Review
+   Stable URL: http://www.jstor.org/stable/2183184
+   Accessed: 29-01-2016 02:33 UTC
+
+   Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at http://www.jstor.org/page/
+   info/about/policies/terms.jsp
+
+   JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content
+   in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship.
+   For more information about JSTOR, please contact support@jstor.org.
+
+            Duke University Press and Philosophical Review are collaborating with JSTOR to digitize, preserve and extend access to The
+            Philosophical Review.
+
+http://www.jstor.org
+
+                                     This content downloaded from 128.103.149.52 on Fri, 29 Jan 2016 02:33:26 UTC
+                                                     All use subject to JSTOR Terms and Conditions
+DISCUSSION
+
+           ON BEING IN THE SAME PLACE
+               AT THE SAME TIME
+(WITH ONE REMARKABOUT CATEGORIESAND MATERIALISM)
+
+IT IS a truism frequently called in evidence and confidently relied
+     upon in philosophy that two things cannot be in the same place
+ at the same time. Plainly this principle, which I shall call S, ought
+ really to say that two things cannot completelyoccupy exactly the same
+ place or exactly the same volume (or exactly the same subvolumes
+ within exactly the same volume) for exactly the same period of time.
+ No man is the same as his forearm. But there is a volume such that
+ a man can wholly occupy it and such that both man and forearm are
+in it at exactly the same time. But this does not count.
+   More interestingly, think of a sponge and the water that makes it a
+wet sponge. That does not count against principle S either. Here we
+can press into service the chemical theory of molecules to distinguish
+subvolumes or sub-subvolumes of the total volume occupied by the
+sponge from those occupied by the water. But it is difficult to believe
+that this determination of ours to allow nothing to count against S gets
+us to the bottom of the matter. At very least, it would help to know
+what was the a priori or metaphysical compulsion to think in our
+present way about these questions. What if in defiance of fact and the
+actual laws of chemistry and physics the water and the sponge were
+so utterly mixed up that spatial distinction seemed impossible, not
+only at the molecular level but also at the atomic and at the subatomic?
+And what if you had only to squeeze to get water and sponge apart
+again? Surely they would be the same sponge and the same (consign-
+ment of) water afterward? And would they not have been in exactly
+the same place at the same time? I think I know how to resolve one,
+but only one, of the difficult questions which arise out of all this. For
+one part of the a priori basis for principle S is not too difficult to
+uncover. But S is still not correctly formulated.
+   A certain tree T stands (leafless, suppose) at a certain spot at time
+tj and occupies a certain volume v1 at this time tj. All and only v1 is
+also occupied by the aggregate W of the cellulose molecules which
+compose the tree. Indeed it is their occupation of v1 which precisely
+determines that the volume which the tree occupies is volume vj. The
+tree T and the cellulose molecules W are thus in exactly the same place
+
+                                         90
+
+    This content downloaded from 128.103.149.52 on Fri, 29 Jan 2016 02:33:26 UTC
+                    All use subject to JSTOR Terms and Conditions
+                   SAME PLACEAT THE SAME TIME
+
+at exactly the same time. Are they identical? Now T = W only if
+whatever is true of T is true of W (Leibniz' Law). It follows, I think,
+that T = W only if T and W have exactly the same conditions of
+persistence and survival through change. But self-evidently they do not.
+   Suppose T is chopped down and then dismembered and cut up in
+such a way that no cellulose molecule is damaged. It seems that W then
+survives. And there is just as much wood in the world as there was
+before. But T, the tree, cannot survive such treatment. Conversely, sup-
+pose the tree is pruned and the clippings are burned, or that it under-
+goes an organic change which destroys some of the original wood cells.
+Then the tree T survives but W, the aggregate defined as the aggregate
+of such and such particular cellulose molecules, does not survive. Of
+course, you could define another notion of aggregate and give detailed
+conditions for suitable co-option and expulsion of members of such an
+aggregate. Perhaps you could get these conditions for gradual organic
+variation of membership exactly right and produce an entity W'
+with exactly the same criterion of individuation as T. But that would be
+a boring trick. You would have defined a tree-and not wholly in terms
+of molecules or wood cells. You would only have contrived an identity
+connection between something in the category of stuff and something
+in the category of substance by introducing the concept of something
+organized and substance-like-that is, something foreign to the
+category-into the category of stuff.
+   None of this is to say that Tis something overandaboveW. It precisely
+is not. The "is" of material constitution is not the "is" of identity. The
+tree is madeof (or constituted of or consistsof) W. but it is not identical
+with W. And "A is something over and above B" denies "A is (wholly
+composed of) B" or "A is merely (or merely consists of) B." If A is
+
+   1 There is much more to be said both about identity and about mereological
+treatments of the notion of aggregate. I have tried to say a little of it in Identity
+and Spatio-Temporal  Continuity(Oxford, I 967), pp. II-I 3, 67-68, 72.
+   The argument seems to apply equally to artifacts. Mrs. Jones at t2 unpicks
+her husband's old sweater and winds the wool into a ball. Equating matter and
+object, we shall have to say the wool is the sweater. But suppose she then at
+t3 crochets a pair of bed-socks with the wool. Then by transitivity the sweater
+is the pair of bed-socks. But the bed-socks were crocheted at t3 out of a ball
+of wool which was before t2 a sweater, and the sweater was not at t3 crocheted
+out of a ball of wool which was before t2 a sweater. We must refuse to equate
+matter and object, and refuse to think of this as a paradoxical refusal. It is not.
+Crocheting, like knitting or weaving, is a way of makingbed-socks. The material
+must pre-exist the making, and survive it. But what is made cannot pre-exist
+its fabrication.
+
+                                         9I
+
+     This content downloaded from 128.103.149.52 on Fri, 29 Jan 2016 02:33:26 UTC
+                     All use subject to JSTOR Terms and Conditions
+                                  DAVID WIGGINS
+
+ something over and above B, then of course A # B, but the proper
+ point of saying "over and above" is to make the further denial that B
+ fully exhauststhe matter of A. But W does fully exhaust T and so T is
+ not something over and above W.
+    If it is a materialistic thesis that T  W, then my denial that T = W
+ is a form of denial of materialism. It is interesting how very uninterest-
+ ing an obstacle these Leibnizian difficulties-real though they are-put
+ in the way of the reduction of botany and all its primitive terms to
+ organic chemistry or to physics. (If it does not follow from T # W that
+ trees are something over and above their matter, how much the less
+ can it follow that they are immanent or transcendent or supervenient or
+ immaterial beings. This is obviously absurd for trees. A Leibnizian
+ disproof of strict identity could never be enough to show something so
+intriguing or obscure.) I should expect there to be equally valid, and
+from the point of view of ontology almost equally unexciting, difficulties
+in the reduction of persons to flesh and bones,2 in psychophysical
+event-materialism, and in the materialisms which one might formulate
+in other categories (such as the Aristotelian categories propertyand
+stateor the categories situationandfact). Overand aboveis one question,
+identityis another. But of course the only stuff there is is stuff.
+    I shall say no more about T and W here, except to remark that what
+I have tried to show by this simple example is not wholly different
+from a philosophical thesis which it has become a commonplace of
+philosophy to defend in terms of different logical typesto which such
+things as trees and the aggregates they "are" (-- consist of) belong.
+I prefer to put the matter my way because it makes a smaller claim,
+because it leaves room for a clear statement in the object language of
+a perfectly intelligible connection between trees and cellulose molecules,
+and because of the high degree of intelligibility enjoyed by this Leib-
+nizian principle for predicative (as opposed to constitutive) "is": If
+and only if A is anf (or is f) then A is identical with anf (or with one
+of the + things); and if and only if A is one of theft's (or + things) then
+it must share all its properties with thatf (or b thing).3 This does not
+exhaust the content of standard doctrines of ranges of significance
+(that is, those which derive from Russell's simple or ramified Theory of
+Types4). They say much more than this about what you can and
+  2 See Identity,p. 57.
+  3 See ibid., pp. IO-II,   6i.
+  4 See  Russell's Lectureson Logical Atomism, VII (reprinted in Logic and
+Knowledge,ed. by R. Marsh [London, I956], pp. 254 if.), and G. Ryle, "Cate-
+                   of theAristotelianSociety(I937-I938).
+gories," Proceedings
+
+                                        92
+
+    This content downloaded from 128.103.149.52 on Fri, 29 Jan 2016 02:33:26 UTC
+                    All use subject to JSTOR Terms and Conditions
+                    SAME PLACE A T THE SAME TIME
+
+ cannot say about A. But my own opinion is that the residue remains
+ obscure. Let me now, however, revert to our principle S.
+   The tree and its molecules and wood cells do not disprove what was
+ originally intended by principle S. What has been shown is only that
+ we must reformulate S to read:
+
+   S*: No two things of the same kind (that is, no two things which
+     satisfy the same sortal or substance concept) can occupy exactly
+     the same volume at exactly the same time.
+
+ This, I think, is a sort of necessary truth. It has at least three sources of
+ support.
+
+  (i) Space can be mapped only by reference to its occupants, and
+spatial facts are conceptually dependent on the existence of facts about
+particulars and the identities of particulars. If space is to be mapped
+by reference to persisting particulars, then the nonidentity of particulars
+A and B. both of kindf, must be sufficient to establish that the place of
+A at t1 # the place of B at t1.
+
+  (ii) A criterion of identity for material objects will have to be
+something like this:
+
+   'm: A is identical with B if there is some substance concept f
+                                                                such
+     that A coincideswith B under f (where f is a substance concept
+     under which an object can be traced, individuated and distin-
+     guished from other f's, and where coincidesunderf satisfactorily
+     defines an equivalence relation all of whose members <x,y> also
+     satisfyrthe Leibnizian schema F x = Fy) .5
+Now I. logically implies S*. So if Im is an a priori truth, then so is S*.
+Finding that A and B coincide under f settles the question whether
+A = B. There is nothing more to decide.
+
+  (iii) There is a conceptual basis for an even stronger truth than S*,
+namely:
+
+   5See "Individuation of Places and Things" (symposium with M. J. Woods),
+AristotelianSocietysupp. vol. XXXVII (i963), where a certain difficulty of
+circularity is discussed. Also Identity,pp. 34-36, 72.
+   Leibniz' Law is only a criterion of difference, and in any case it can
+be used to show A = B only where we already know that A is not 6 for some b
+which we independently know B is.
+
+                                         93
+
+     This content downloaded from 128.103.149.52 on Fri, 29 Jan 2016 02:33:26 UTC
+                     All use subject to JSTOR Terms and Conditions
+                               DA VID WIGGINS
+
+   S**: A and a proper part or constituent B of a third thing C, where
+     A # C and A # B, and where no part of constituent of A is any
+     part or constituent of B or of C, cannot completely occupy exactly
+     the same volume at exactly the same time.
+
+ The basis for this truth elucidates its import. Suppose A and B were
+ distinct and in the same place at the same time. Then they could not
+ have been distinguished by place. But then they would have had to be
+ distinguished by their properties. But no volume or area of space can
+ be qualified simultaneously by distinct predicates in any range (color,
+ shape, texture, and so forth).
+    I think (i), (ii), and (iii) may come near to accounting for most of
+ the conceptual basis for the truth that material things have to compete
+for room in the world, and that they must tend to displace one another,
+ although I should not claim that they clear up all the questions which
+ can arise about the water and the sponge, or about scientifically more
+ realistic examples concerning chemical compounds and alloys.
+    A final test for the soundness of S* or, if you wish, for Leibniz' Law,
+ is provided by a puzzle contrived by Geach out of a discussion in
+ William of Sherwood. A cat called Tibbles loses his tail at time t2.
+But before t2 somebody had picked out, identified, and distinguished
+ from Tibbles a different and rather peculiar animate entity-namely,
+ Tibbles minus Tibbles' tail. Let us suppose that he decided to call this
+ entity "Tib." Suppose Tibbles was on the mat at time t1. Then both
+Tib and Tibbles were on the mat at t1. This does not violate S* or S**.
+But consider the position from t3 onward when, something the worse
+for wear, the cat is sitting on the mat without a tail. Is there one cat or
+are there two cats there? Tib is certainly sitting there. In a way nothing
+happened to him at all. But so is Tibbles. For Tibbles lost his tail,
+survived this experience, and then at t3 was sitting on the mat. And
+we agreed that Tib # Tibbles. We can uphold the transitivity of
+identity, it seems, only if we stick by that decision at t3 and allow that
+at t3 there are two cats on the mat in exactly the same place at exactly
+the same time. But my adherence to S* obliges me to reject this. So
+ I am obliged to find something independently wrong with the way in
+which the puzzle was set up. It was set up in such a way that before t2
+Tibbles had a tail as a part and Tib allegedly did not have a tail as a
+part. If one dislikes this feature (as I do), then one has to ask, "Can one
+identify and name a part of a cat, insist one is naming just that, and
+insist that what one is naming is a cat"? This is my argument against
+ the supposition that one can: Does Tib have a tail or not? I mean the
+
+                                         94
+
+     This content downloaded from 128.103.149.52 on Fri, 29 Jan 2016 02:33:26 UTC
+                     All use subject to JSTOR Terms and Conditions
+                    SAME PLACE AT THE SAME TIME
+
+ question in the ordinary sense of "have," not in any peculiar sense
+ "have as a part." For in a way it is precisely the propriety of some
+ other concept of havingas a part which is in question. Surely Tib adjoins
+ and is connected to a tail in the standard way in which cats who have
+ tails are connected with their tails. There is no peculiarity in this case.
+ Otherwise Tibbles himself might not have a tail. Surely any animal
+ which has a tail loses a member or part of itself if its tail is cut off. But
+ then there was no such cat as the cat who at t1 has no tail as a part of
+ himself. Certainly there was a cat-part which anybody could call
+ "Tib" if they wished. But one cannot define into existence a cat called
+ Tib who had no tail as part of himself at t, if there was no such cat
+ at t1. If someone thought he could, then one might ask him (before the
+ cutting at t2), "Is this Tib of yours the same cat as Tibbles or is he a
+ different cat?"6
+                                                                DAVID WIGGINS
+ New College,Oxford
+
+   6 Professor Geach kindly permitted me to allude to his formulation of this
+puzzle but he has no responsibility for the purpose to which it is put here, and
+I understand that he originally devised it for the different purpose of posing
+a challenge to Leibniz' Law.
+
+                                        95
+
+    This content downloaded from 128.103.149.52 on Fri, 29 Jan 2016 02:33:26 UTC
+                    All use subject to JSTOR Terms and Conditions
+

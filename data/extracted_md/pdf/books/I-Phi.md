@@ -1,0 +1,330 @@
+# 338   My God, He Plays Dice!
+
+**source:** pdf · **section:** books
+**file:** I-Phi
+---
+
+
+                                 s te  i n
+                             Ein Phi
+                             a n d I -
+Chapter 43
+                                               I-Phi and Einstein 339
+
+Albert Einstein and
+Information Philosophy
+On Information Philosophy
+   Information is neither matter nor energy, although it needs
+matter to be embodied and energy to be communicated. Why
+should information become the new basis for understanding and
+solving so many problems in philosophy and science?
+   It is because everything in the universe that is distinguishable
+from chaos and disorder is an information structure that was
+created since the structureless, pure energy origin of the universe.
+   As most all of us know, matter and energy are conserved. This
+means that there is just the same total amount of matter and energy
+today as there was at the universe origin. Einstein showed us that
+matter can be converted into energy with his equation E=mc2, so
+there is just one unchanging total of “stuff ” in the universe.
+   But then what accounts for all the change that we see, the new
+things under the sun? It is information, which is not conserved
+and has been increasing since the beginning of time, despite the
+second law of thermodynamics, with its increasing entropy, which
+destroys order.
+   What is changing is the arrangement of the existing matter in
+what we call information structures. What is emerging is new           Chapter 43
+information. What idealists and holists see is that emergence of
+immaterial information embodied in material structures.
+   Living things, you and I, are dynamic growing information
+structures, forms through which matter and energy continuously
+flow. And it is information processing that controls those flows!
+   At the lowest levels, living information structures blindly
+replicate their information. At higher levels, natural selection
+adapts them to their environments. At the highest levels, they
+develop behaviors, intentions, goals, and agency, introducing
+purpose into the universe.
+         340     My God, He Plays Dice!
+
+                  Information is the modern spirit, the ghost in the machine,
+               the mind in the body. It is the soul, and when we die, it is our
+               information that perishes, unless the future preserves it. The
+               matter remains.
+                  Information can explain the fundamental metaphysical
+               connection between materialism and idealism. Information
+               philosophy replaces the determinism and metaphysical necessity
+               of eliminative materialism and reductionist naturalism with
+               metaphysical possibilities. Alternative possibilities can not exist
+               without ontological chance. Determinism says there is but one
+               possible future.
+                  Many mathematical physicists like the idea of a completely
+               deterministic universe. The Bohmians, Everett’s many worlders,
+               John Bell, and the Decoherence theorists are all determinists. They
+               believe that the “wave function of the universe” evolves determin-
+               istically, and it does. But they deny the many “collapses of the wave
+               function” which are indeterministic and are the creative source of
+               all new information.
+                  Einstein saw chance as a “weakness in the theory.” But the
+               important thing is that he was the first person to see ontological
+               “objectively real” chance in physics. Chance in classical physics
+               had been regarded as epistemological, merely human ignorance.
+                   Perhaps the most amazing thing about information philosophy
+               is its discovery that abstract and immaterial information (the
+               quantum wave field) can exert an influence over concrete matter,
+Chapter 43
+
+               perhaps explaining how mind can move body, how our thoughts
+               can control our actions, deeply related to the way the quantum
+               wave function controls the probabilities of locating quantum
+               particles, as first seen, but never understood, by Einstein.
+                  Einstein did not like probabilities but clearly saw that quantum
+               physics is a statistical theory.
+                  How abstract probability amplitudes Ψ control the statistics of
+               experiments remains the one deep mystery of quantum mechanics.
+                  Knowledge is information in minds that is a partial isomorphism
+               (mapping) of the information structures in the external world.
+               Information philosophy is a correspondence theory.
+                                               I-Phi and Einstein 341
+
+   Sadly, there is no isomorphism, no information in common,
+between words and objects. This accounts for much of the failing
+of analytic language philosophy in the past century. The arbitrary
+and conventional connections between words and objects is the
+source of confusion in Niels Bohr’s Copenhagen Interpretation
+of quantum mechanics.
+   Although language is a fine tool for human communication,
+it is arbitrary, ambiguous, and ill-suited to represent the world
+directly. Human languages do not picture reality. Information is
+the true lingua franca of the universe.
+   The extraordinarily sophisticated connections between words
+and objects are “free creations of human minds,” mediated by
+the brain’s experience recorder and reproducer (ERR). Words
+stimulate wired neurons to start firing and to play back those
+experiences that include related objects.
+   Neurons that were wired together in our earliest experiences
+fire together at later times, contextualizing our new experiences,
+giving them meaning. And by replaying emotional reactions to
+similar earlier experiences, it makes then “subjective experiences,”
+giving us the feeling of “what it’s like to be me” and solving the
+“hard problem” of consciousness.
+   Without words and related experiences previously recorded
+in our mental experience recorders, we could not comprehend
+words. They would be mere noise, with no meaning.
+   Far beyond words, a dynamic information model of an                 Chapter 43
+information structure in the world is presented immediately to
+the mind as a simulation of reality experienced for itself.
+   This is why we are creating animations of mysterious quantum
+phenomena to show you the two-slit experiment, entanglement,
+and the interaction of radiation with microscopic matter that
+leads to the macroscopic irreversibility underlying the second law
+of thermodynamics.
+   We will analyze all the quantum “mysteries” we hope to solve
+in terms of information structures and the communication of
+information between information structures. We will look to find
+the information in each of the quantum mysteries
+         342       My God, He Plays Dice!
+
+               Where’s the Information in Entangled Particles?
+                  The central mystery in entanglement for eighty years has been
+               how Alice’s measurement of a property can be “transmitted,”
+               presumably faster than the speed of light, to Bob at a remote space-
+               like separation, so that Bob’s measurement of a related property can
+               be perfectly correlated with Alice’s measurement.
+                  The information needed is the electron spin or photon polarization
+               direction (up or down) for each particle. The Copenhagen
+               Interpretation says we cannot know those spin values, that they do
+               not even exist until the measurements are made.
+                  Einstein’s “objective reality” says that they do have values,
+               independent of our measurements. When we prepare the
+               experiment, we know that one particle is up and the other down,
+               but we don’t know which is which.
+                  Because we lack that knowledge, quantum mechanics assumes
+               they are best described by a linear superposition of up-down and
+               down-up. Objective reality, however, says they always will be found
+               in one of those states, either up-down or down-up.
+                  Now Einstein’s principles of conservation say that the initial
+               properties are conserved as long as there is no external interaction
+               with the two particles. The information is therefore carried along
+               in each particle. Whichever particle starts out with spin up will be
+               measured with spin up at any later time, the other will be found spin
+               down.
+Chapter 43
+
+                  We have shown that the opposite spins can be regarded as “hidden
+               constants” of the motion traveling locally from their creation,
+               consistent with Einstein’s picture of an “objective reality.” When Alice
+               exercises her “free choice” of a spin direction in which to measure,
+               she adds new information to the universe, she “creates” properties
+               that could not have been know at the start of the experiment.
+                  To a quantum physicist of the Copenhagen school, who thinks the
+               particles lack properties simply because we don’t know them, it will
+               appear as if the particles are communicating the needed correlation
+               information instantly over large distances. See chapter 29.
+                  But the information moves locally, only as fast as the particles.
+                                               I-Phi and Einstein 343
+
+Where’s the Information in the Two-Slit Experiment?
+   Is it in the particles themselves as we found for entanglement?
+No. Here the Copenhagen physicist is closer to the truth. We know
+nothing about the current path. We only know particles were fired
+from a distance away from the two slits.
+   Once a particle hits the screen, we know the beginning and
+ending of the path, as we do for entanglement, but we do not know
+which slit the particle went through if both slits are open.
+   So where is the information that produces one interference pattern
+when both slits are open, and two distinctly different patterns when
+either slit 1 or slit 2 is open?
+   In this case the information is in the wave function, and as
+Einstein first knew, that information is only statistical information.
+It gives us only probabilities of finding particles, which we will
+confirm for very large numbers of particles. We know nothing about
+an individual path.
+   Nevertheless, Einstein’s “objective reality” says the particle has
+a path. And his principles of conservation tell us that the particle
+never splits in two, so it must travel through just one of the slits.
+   We saw in chapter 33 that the wave patterns are different when
+one slit is open or both slits are open.
+
+                                                                         Chapter 43
+
+  So the ulimate source of the information in the wave field is in the
+boundary conditions, the distribution of local material, just the way
+the gravitational field is determined by material nearby.
+         344       My God, He Plays Dice!
+
+                 How abstract probability amplitude wave function can influence
+               the motions of the particles so that
+                 they produce the statistics of many experiments remains the one
+               mystery of quantum mechanics.
+                 The mystery is not, as Richard Feynman thought, how the
+               particle can go through both slits. It is somewhat deeper. How the
+               wave function can influence particle motions. The information
+               needed to generate interference patterns is in the wave function.
+               Where’s the Information in Microscopic Irreversibility?
+                  In 1874, Josef Los-
+               chmidt criticized his
+               younger          colleague
+               Ludwig Boltzmann’s
+               attempt to derive from
+               basic classical dynamics
+               the increasing entropy
+               required by the second
+               law of thermodynamics.
+               Loschmidt said that the
+               laws of classical dynam-
+               ics are time reversible.
+               Consequently, if we just turn the time around, the time evolution of
+               the system should lead to decreasing entropy.
+                  Boltzmann investigated the classical paths of particles in collision
+               to develop his “transport equation.” He wondered if after a collision
+Chapter 43
+
+               a particle might lose some of the information from a particular
+               collision after colliding with a few more particles. He called this
+               “molecular disorder.”
+                  Now Einstein has shown us how information about a path before
+               a collision will be lost during the collision if the collision emits or
+               absorbs a photon. The interaction of radiation with the particles is
+               irreversible. Einstein says radiation interactions are not “invertible.”
+                  In this case we cannot know the information, but we can say that
+               information needed to reverse collisions has been lost.
+                                                  I-Phi and Einstein 345
+
+Where’s the Information in the Measurement Problem?
+   Some define the problem of measurement simply as the logical
+contradiction between two laws describing the motion of quantum
+systems; the unitary, continuous, and deterministic time evolution
+of the Schrödinger equation versus the non-unitary, discontinuous,
+and indeterministic collapse of the wave function. John von
+Neumann saw a problem with two distinct (indeed, opposing)
+processes. See chapter 25.
+   The mathematical formalism of quantum mechanics provides no
+way to predict exactly when the wave function stops evolving in a
+unitary fashion and collapses. If it could predict this perfectly, it would
+no longer be quantum mechanics. Experimentally and practically,
+however, we can say that this occurs when the microscopic system
+interacts with a macroscopic measuring apparatus.
+   It takes energy to record the information about the measurement
+in the material of the apparatus. for example by moving a pointer,
+marking a chart recorder, or storing data in computer memory.
+   New information creation requires a local reduction in the
+entropy. And in order for that new information to remain stable
+for a observer to read it, the overall global entropy must increase by
+a larger amount to satisfy the second law. Waste energy is carried
+away from the measurement apparatus.
+Where’s the Information in a Deterministic World?
+  Pierre-Simon Laplace imagined a super-intelligence that could               Chapter 43
+know the positions, velocities, and forces on all the particles in the
+universe at one time, together with the deterministic laws of motion,
+and thus know the universe for all times, past and future. The concept
+has been criticized for the vast amount of information that would
+be required, impractical if not impossible to collect instantaneously.
+And where would the information be kept? If in some part of the
+universe, there would be an infinite regress of information storage.
+  Determinists, especially mathematical physicists and compatibilist
+philosophers, are comfortable with this idea.
+  A moment’s thought tells us that information is being created in
+the universe at every moment. Which leads us to the question...
+         346         My God, He Plays Dice!
+
+               How Did All the Information in the Universe Get Created?
+                  Information philosophy has solved this great problem, perhaps
+               the greatest of all problems in physics and philosophy.
+                  And our solution depends on Einstein’s expansion of the
+               universe. If the universe were static, it would have come to thermal
+               equilibrium, the “heat death”, ages ago.
+                  Many scientists think the universe must have started in a state
+               of very high information. Since information is destroyed by the
+               entropy increase of the second law, they argue there must have been
+               even more information at the beginning than we see today.
+                  But the reverse is true. The early universe was far denser than
+               today. Particles were jammed together at an extraordinarily high
+               temperature which prevented even elementary particles like protons
+               and neutrons from forming, let alone atoms (which did not become
+               stable for the first 380,00 years) or the galaxies, stars, and planets
+               (which had to wait over 400 million years for the gas to cool down
+               enough for gravity to overcome the high pressure and temperature,
+               and the radiation to cool to a black sky everywhere).
+                  The expansion opened up space between the gas particles.
+               As Boltzmann’s and Einstein’s statistical mechanics would have
+               described it, there appeared many more phase-space cells for the
+               fixed number of particles to arrange themselves in.
+                  And the arrangement of particles is their information structure.
+                  The early universe was at nearly maximum entropy and minimal
+Chapter 43
+
+               information. The expansion increased the maximum possible
+               entropy, and it did it faster than the gas and radiation could approach
+               a new equilibrium with that new maximum entropy. 1 The difference
+               between the maximum and the actual entropy we call negative
+               entropy, or potential information.
+                  Now each new bit of information created has to go through
+               the same two steps we have identified as necessary to create any
+               information structure, from a quantum measurement to a nucleotide
+               position in a strand of DNA.
+                  Similar steps are the basis of our two-stage model of free will.
+               First quantum chance allows alternative possibilities to exist Then a
+               “free choice” , adequately determined to make us responsible for our
+               actions, creates the new information in our decision.
+                 1     See Layzer, 1991
+                                               I-Phi and Einstein 347
+
+   1. The Quantum Step. Whenever matter is rearranged to create
+a new information structure, the quantum processes involve a
+collapse of the wave function that introduces an element of chance.
+Without chance and alternative possibilities, no new information is
+possible. With those possibilities, things could have been otherwise.
+   2) The Thermodynamic Step. A new information structure reduces
+the local entropy. It cannot be stable unless it transfers away enough   Chapter 43
+positive entropy to satisfy the second law of thermodynamics, which
+says that the total entropy (disorder) must always increase.
+   Information philosophy tells a story of cosmic and biologi-
+cal evolution that is but one creation process all the way from the
+original cosmic material to life on earth to the immaterial minds
+that have now discovered the cosmic creation process itself!
+   These same two steps are involved in our minds whenever we
+freely create a new idea! Most of our ideas are simply inherited as
+the traditional knowledge of our culture. This book emphasizes how
+many of our ideas about quantum physics we owe to Albert Einstein.
+But many new thoughts are the work of our creative imaginations.
+And in that sense, we are all co-creators of our universe.
+

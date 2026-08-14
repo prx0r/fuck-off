@@ -1,0 +1,647 @@
+   Mind Association
+
+
+   The Identity of Indiscernibles
+   Author(s): Max Black
+   Source: Mind, New Series, Vol. 61, No. 242 (Apr., 1952), pp. 153-164
+   Published by: Oxford University Press on behalf of the Mind Association
+   Stable URL: http://www.jstor.org/stable/2252291
+   Accessed: 13-02-2016 18:33 UTC
+
+
+   REFERENCES
+   Linked references are available on JSTOR for this article:
+   http://www.jstor.org/stable/2252291?seq=1&cid=pdf-reference#references_tab_contents
+
+   You may need to log in to JSTOR to access the linked references.
+
+
+
+   Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at http://www.jstor.org/page/
+   info/about/policies/terms.jsp
+
+   JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content
+   in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship.
+   For more information about JSTOR, please contact support@jstor.org.
+
+
+
+
+            Mind Association and Oxford University Press are collaborating with JSTOR to digitize, preserve and extend access to Mind.
+
+
+
+
+http://www.jstor.org
+
+
+
+                                    This content downloaded from 128.103.149.52 on Sat, 13 Feb 2016 18:33:34 UTC
+                                                    All use subject to JSTOR Terms and Conditions
+VOL. LXI.         No. 242.]                                 [April, 1952
+
+
+
+
+               A QUARTERLY                     REVIEW
+                                    OF
+
+PSYCHOLOGY AND PHILOSOPHY
+                                ,_S*::
+
+   I.-THE        IDENTITY            OF INDISCERNIBLES
+                              By MAx BLACK
+
+   A. The principle of the Identity of Indiscernibles seems to me
+obviously true. And I don't see how we are going to define
+identity or establish the connexion between mathematics and
+logic without using it.
+  B. It seems to me obviously false. And your troubles as a
+mathematical logician are beside the point. If the principle is
+false you have no right to use it.
+   A. You simply say it's false-and even if you said so three
+times that wouldn't make it so.
+   B. Well, you haven't done anything more yourself than assert
+the principle to be true. As Bradley once said, " assertion can
+demand no more than counter-assertion; and what is affirmed
+on the one side, we on the other can simply deny ".
+   A. How will this do for an argument ? If two things, a and b,
+are given, the first has the property of being identical with a.
+Now b cannot have this property, for else b would be a, and we
+should have only one thing, not two as assumed. Hence a
+has at least one property, which b does not have, that is to say
+the property of being identical with a.
+   B. This is a roundabout way of saying nothing, for " a has the
+property of being identical with a "means no more than " a is a
+When you begin to say " a is . . . " I am supposed to know what
+thing you are referringto as ' a 'and I expect to be told something
+about that thing. But when you end the sentence with the
+words " . . . is a " I am left still waiting.         The sentence " a is
+a " is a useless tautology.
+     11
+
+
+
+
+ This content downloaded from 128.103.149.52 on Sat, 13 Feb 2016 18:33:34 UTC
+                 All use subject to JSTOR Terms and Conditions
+ 154                           MAX BLACK:
+
+     A. Are you as scornful about difference as about identity ?
+  For a also has, and b does not have, the property of being different
+  from b. This is a second property that the one thing has but
+  not the other.
+     B. All you are saying is that b is different from a. I think the
+  form of words " a is different from b " does have the advantage
+  over " a is a " that it might be used to give information. I might
+  learn from hearing it used that ' a ' and ' b ' were applied to
+  different things. But this is not what you want to say, since
+  you are trying to use the names, not mention them. When I
+ already know what ' a' and ' b ' stand for, " a is different from
+  b " tells me nothing. It, too, is a useless tautology.
+     A. I wouldn't have expected you to treat ' tautology' as a
+ term of abuse. Tautology or not, the sentence has a philosophical
+ use. It expresses the necessary truth that different things
+ have at least one property not in common. Thus different
+ things must be discernible; and hence, by contraposition,
+ indiscernible things must be identical. Q.E.D.
+    B. Why obscure matters by this old-fashioned language ?
+ By " indiscernible " I suppose you mean the same as " having
+ all properties in common ". Do you claim to have proved that
+ two things having all their properties in common are identical ?
+    A. Exactly.
+    B. Then this is a poor way of stating your conclusion. If a
+ and b are identical, there is just one thing having the two names
+ ' a' and ' b '; and in that case it is absurd to say that a and b
+are two. Conversely, once you have supposed there are two
+things having all their properties in common, you can't without
+contradicting yourself say that they are " identical ".
+    A. I can't believe you were really misled. I simply meant to
+say it is logically impossible for two things to have all their
+properties in common. I showed that a must have at least
+two properties-the property of being identical with a, and the
+property of being different from b-neither of which can be a
+property of b. Doesn't this prove the principle of Identity of
+Indiscernibles ?
+    B. Perhaps you have proved something. If so, the nature of
+your proof should show us exactly what you have proved. If
+you want to call " being identical with a " a " property " I
+suppose I can't prevent you. But you must then accept the
+consequences of this way of talking. All you mean when you
+say " a has the property of being identical with a " is that a is a.
+And all you mean when you say " b does not have the property
+of being identical with a " is that b is not a. So what you have
+
+
+
+
+ This content downloaded from 128.103.149.52 on Sat, 13 Feb 2016 18:33:34 UTC
+                 All use subject to JSTOR Terms and Conditions
+                  THE IDENTITY       OF INDISCERNIBLES                    155
+ "proved " is that a is a and b is not a, that is to say, b and a are
+ different. Similarly, when you said that a, but not b, had the
+ property of being diflerent from b, you were simply saying that
+ a and b were different. In fact you are merely redescribing the
+ hypothesis that a and b are different by calling it a case of
+ "difference of properties ". Drop the misleading description
+ and your famous principle reduces to the truism that different
+ things are different. How true! And how uninteresting!
+    A. Well, the properties of identity and difference may be
+ uninteresting, but they are properties. If I had shown that
+ grass was green, I suppose you would say I hadn't shown that
+ grass was coloured.
+   B. You certainly would not have shown that grass had any
+ colour otherthan green.
+   A. What it comes to is that you object to the conclusion of
+my argument following from the premise that a and b are
+different.
+   B. No, I object to the triviality of the conclusion. If you
+want to have an interesting principle to defend, you must inter-
+pret " property" more narrowly-enough so, at any rate, for
+"identity " and "difference " not to count as properties.
+   A. Your notion of an interesting principle seems to be one
+which I shall have difficulty in establishing. Will you at least
+allow me to include among " properties " what are sometimes
+called " relational characteristics "-like being married to Caesar
+or being at a distancefrom London?
+   B. Why not ? If you are going to defend the principle, it is
+for you to decide what version you wish to defend.
+   A. In that case, I don't need to count identity and difference
+as properties. Here is a different argument that seems to me
+quite conclusive. The only way we can discover that two
+different things exist is by finding out that one has a quality not
+possessed by the other or else that one has a relational character-
+istic that the other hasn't.
+   If bothare blue and hard and sweet and so on, and have the
+same shape and dimensions afnd are in the same relations to
+everything in the universe, it is logically impossible to tell them
+apart. The supposition that in such a case there might really
+be two things would be unverifiable in principle. Hence it
+would be meaningless.
+   B. You are going too fast for me.
+   A. Think of it this way. If the principle were false, the
+fact that I can see only two of your hands would be no proof that
+you had just two. And even if every conceivable test agreed with
+
+
+
+
+ This content downloaded from 128.103.149.52 on Sat, 13 Feb 2016 18:33:34 UTC
+                 All use subject to JSTOR Terms and Conditions
+ 156                               MAX BLACK:
+
+  the supposition that you had two hands, you might all the time
+  have three, four, or any number. You might have nine hands,
+  diflerent from one another and all indistinguishable from your
+  left hand, and nine more all different from each other but in-
+  distinguishable from your right hand. And even if you really
+  did have just two hands, and no more, neither you nor I nor
+  anybody else could ever know that fact. This is too much for
+  me to swallow. This is the kind of absurdity you get into, as
+  soon as you abandon verifiability as a test of meaning.
+     B. Far be it from me to abandon your sacred cow. Before I
+  give you a direct answer, let me try to describe a counter-
+  example.
+     Isn't it logically possible that the universe should have
+  contained nothing but two exactly similar spheres ? We might
+  suppose that each was made of chemically pure iron, had a dia-
+  meter of one mile, that they had the same temperature, colour, and
+  so on, and that nothing else existed. Then every quality and
+  relational characteristic of the one would also be a property of the
+  other. Now. if what I am describing is logically possible, it is
+  not impossible for two things to have all their properties in
+  common. This seems to me to refute the Principle.
+    A. Your supposition, I repeat, isn't verifiable and therefore
+ can't be regarded as meaningful. But supposing you have
+ described a possible world, I still don't see that you have refuted
+ the principle. Consider one of the spheres, a, . . .
+    B. How can I, since there is no way of telling them apart ?
+  Which one do you want me to consider ?
+    A. This is very foolish. I mean either of the two spheres,
+ leaving you to decide which one you wished to consider. If I
+ were to say to you " Take any book off the shelf " it would be
+ foolish on your part to reply " Which ? "
+    B. It's a poor analogy. I know how to take a book off a
+ shelf, but I don't know how to identify one of two spheres
+ supposed to be alone in space and so symmetrically placed with
+ respect to each other that neither has any quality or character
+the other does not also have.
+    A. All of which goes to show as I said before, the unveri-
+fiability of your supposition. Can't you imagine that one sphere
+has been designated as 'a' ?
+   B. I can imagine only what is logically possible. Now it is
+logically possible that somebody should enter the universe I
+have described, see one of the spheres on his left hand and proceed
+to call it 'a'. I can imagine that all right, if that's enough to
+satisfy you.
+
+
+
+
+ This content downloaded from 128.103.149.52 on Sat, 13 Feb 2016 18:33:34 UTC
+                 All use subject to JSTOR Terms and Conditions
+                 THE IDENTITY       OF INDISCERNIBLES                     157
+    A. Very well, now let me try to finish what I began to say
+about a . . .
+    B. I still can't let you, because you, in your present situation,
+have no right to talk about a. All I have conceded is that if
+ something wereto happen to introduce a change into my universe,
+ so that an observer entered and could see the two spheres, one
+ of them could then have a name. But this would be a different
+ supposition from the one I wanted to consider. My spheres
+ don't yet have names. If an observer were to enter the scene,
+ he could perhaps put a red mark on one of the spheres. You
+ might just as well say " By 'a' I mean the sphere which would
+ be the first to be marked by a red mark if anyone were to arrive
+ and were to proceed to make a red mark!" You might just
+ as well ask me to consider the first daisy in my lawn that would
+ be picked by a child, if a child were to come along and do the
+ picking. This doesn't now distinguish any daisy from the others.
+ You are just pretending to use a name.
+    A. And I think you are just pretending not to understand me.
+ All I am asking you to do is to think of one of your spheres, no
+ matter which, so that I may go on to say something about it
+ when you give me a chance.
+    B. You talk as if naming an object and then thinking about it
+ were the easiest thing in the world. But it isn't so easy. Suppose
+ I tell you to name any spider in my garden: if you can catch one
+ first or describeone uniquely you can name it easily enough. But
+ you can't pick one out, let alone " name " it, by just thinking.
+ You remind me of the mathematicians who thought that talking
+ about an Axiom of Choice would really allow them to choose a
+ single member of a collection when they had no criterion of
+ choice.
+    A. At this rate you will never give me a chance to say anything.
+ Let me try to make my point without using names. Each of the
+ spheres will surely differ from the other in being at some distance
+from that other one, but at no distance from itself-that is to say,
+it will bear at least one relation to itself-being at no distance
+from, or being in the sameplace as-that it does not bear to the
+ other. And this will serve to distinguish it from the other.
+    B. Not at all. Each will have the relational characteristic
+ being at a distanceof two miles, say, from the centreof a sphereone
+mile in diameter,etc. And each will have the relational character-
+istic (if you want to call it that) of beingin the sameplace as itself.
+The two are alike in this respect as in all others.
+    A. But look here. Each sphere occupies a different place;
+and this at least will distinguish them from one another.
+
+
+
+
+ This content downloaded from 128.103.149.52 on Sat, 13 Feb 2016 18:33:34 UTC
+                 All use subject to JSTOR Terms and Conditions
+158                           MAX BLACK:
+
+    B. This sounds as if you thought the places had some inde-
+ pendent existence, though I don't suppose you really think so.
+ To say the spheres are in " different places " is just to say that
+ there is a distance between the two spheres; and we have already
+ seen that will not serve to distinguish them. Each is at a
+ distance-indeed the same distance--from the other.
+    A. When I said they were at different places I didn't mean
+ simply that they were at a distance from one another. That one
+ sphere is in a certain place does not entail the existence of any
+ other sphere. So to say that one sphere is in its place, and the
+ other in its place, and then to add that these places are different
+ seems to me different from saying the spheres are at a distance
+ from one another.
+   B. What does it mean to say " a sphere is in its place"?
+ Nothing at all, so far as I can see. Where else could it be?
+ All you are saying is that the spheres are in different places.
+   A. Then my retort is, What does it mean to say " Two spheres
+are in different places"? Or, as you so neatly put it, " Where
+else could they be ? "
+   B. You have a point. What I should have said was that your
+assertion that the spheres occupied different places said nothing
+at all, unless you were drawing attention to the necessary truth
+that different physical objects must be in different places. Now
+if two spheres must be in different places, as indeed they must, to
+say that the spheres occupy different places is to say no more than
+they are two spheres.
+   A. This is like a point you made before. You won't allow me to
+deduce anything from the supposition that there are two spheres.
+   B. Let me put it another 'way. In the two-sphere universe,
+the only reason for saying that the places occupied were different
+would be that different things occupied them. So in order to
+show the places were different you would first have to show, in
+some other way, that the spheres were different. You will never
+be able to distinguish the spheres by means of the places they
+occupy.
+   A. A minute ago, you were willing to allow that somebody
+might give your spheresdifferentnames. Will you let me suppose
+that some traveller has visited your monotonous " universe
+and has named one sphere " Castor " and the other " Pollux "
+   B. All right-provided you don't try to use those names
+yourself.
+   A. Wouldn't the traveller, at least, have to recognise that
+being at a distanceof two milesfrom Castorwas not the same pro-
+perty as being at a distance of two miles from Pollux ?
+
+
+
+
+ This content downloaded from 128.103.149.52 on Sat, 13 Feb 2016 18:33:34 UTC
+                 All use subject to JSTOR Terms and Conditions
+                 THE IDENTITY       OF INDISCERNIBLES                     159
+    B. I don't see why. If he were to see that Castor and Pollux
+ had exactly the same properties, he would see that " being at a
+ distance of two miles from Castor " meant exactly the same as
+ "being at a distance of two miles from Pollux ".
+    A. They couldn't mean the same. If they did, " being at a
+ distance of two miles from Castor and at the same time not being
+ at a distanceof twomilesfromPollux " would be a self-contradictory
+ description. But plenty of bodies could answer to this de-
+ scription. Again if the two expressions meant the same, any-
+thing which was two miles from Castor would have to be two
+miles from Pollux-which is clearly false. So the two expressions
+don't mean the same and the two spheres have at least two
+properties not in common.
+    B. Which ?
+    A. Being at a distance of two miles from Castorand being at a
+distance of two miles from Poltux.
+    B. But now you are using the words " Castor " and " Pollux"
+as if they really stood for something. They are just our old
+friends" a ' and ' b ' in disguise.
+    A. You surely don't want to say that the arrival of the name-
+giving traveller creates spatial properties ? Perhaps we can't
+name your spheres and therefore can't name the corresponding
+properties; but the properties must be there.
+   B. What can this mean? The traveller has not visited the
+spheres, and the spheres have no names-neither 'Castor ',
+nor ' Pollux', nor ' a ', nor ' b ', nor any others. Yet you still
+want to say they have certain properties which cannot be referred
+to without using names for the spheres. You want to say " the
+property of being at a distance from Castor " though it is logically
+impossible for you to talk in this way. You can't speak, but
+you won't be silent.
+   A. How eloquent, and how unconvincing! But since you seem
+to have convinced yourself, at least, perhaps you can explain
+another thing that bothers me: I dor't see that you have a right
+to talk as you do about places or spatial relations in connexion
+with your so-called " universe ". So long as we are talking
+about our own universe-the universe-I know what you mean
+by "distance ", "diameter ", " place " and so on. But in what
+you want to call a universe, even though it contains only two
+objects, I don't see what such words could mean. So far as I
+can see, you are applying these spatial terms in their present
+usage to a hypothetical situation which contradicts the pre-
+suppositions of that usage.
+   B. What do you mean by " presupposition" ?
+
+
+
+
+ This content downloaded from 128.103.149.52 on Sat, 13 Feb 2016 18:33:34 UTC
+                 All use subject to JSTOR Terms and Conditions
+160                            MAX BLACK:
+
+    A. Well, you spoke of measured distances, for one thing.
+ Now this presupposes some means of measurement. Hence
+ your " universe " must contain at least a third thing-a ruler or
+ some other measuring device.
+    B. Axe you claiming that a universe must have at least three
+ things in it? What is the least number of things required to
+ make a world ?
+    A. No, all I am saying is that you cannot describe a configura-
+ tion as spatial unless it includes at least three objects. This is
+ part of the meaning of " spatial "-and it is no more mysterious
+than saying you can't have a game of chess without there
+ existing at least thirty-five things (thirty-two pieces, a chess-
+ board, and two players).
+    B. If this is all that bothers you, I can easily provide for three
+ or any number of things without changine the force of my
+ counter-example. The important thing, for my purpose, was
+that the configurationof two spheres was symmetrical. So long
+as we preservethis feature of the imaginary universe, we can now
+allow any number of objects to be found in it.
+    A. You mean any even number of objects.
+    B. Quite right. Why not imagine a plane running clear
+through space, with everything that happens on one side of it
+always exactly duplicated at an equal distance in the other side.
+    A. A kind of cosmic mirror producing real images.
+    B. Yes, except that there wouldn't be any mirror! The point
+is that in this world we can imagine any degree of complexity and
+change to occur. No reason to exclude rulers, compasses, and
+weighing machines. No reason, for that matter, why the Battle
+of Waterloo shouldn't happen.
+    A. Twice over, you mean-with Napoleon surrendering later
+in two different places simultaneously!
+   B. Provided you wanted to call both of them " Napoleon ".
+   A. So your point is that everything could be duplicated on the
+other side of the non-existent Looking Glass. I suppose when-
+ever a man got married, his identical twin would be marrying
+the identical twin of the first man's fiancee ?
+   B. Exactly.
+   A. Except that " identical twins " wouldn't be numerically
+identical ?
+   B. You seem to be agreeing with me.
+   A. Far from it. This is just a piece of gratuitous metaphysics.
+If the inhabitants of your world had enough sense to know what
+was sense and what wasn't, they would never suppose all the
+events in their world were duplicated. It would be much more
+
+
+
+
+ This content downloaded from 128.103.149.52 on Sat, 13 Feb 2016 18:33:34 UTC
+                 All use subject to JSTOR Terms and Conditions
+                  THE IDENTITY       OF INDISCERNIBLES                    161
+  sensible for them to regard the " second " Napoleon as a mere
+ mirror image-and similarly for all the other supposed
+  "duplicates'-'
+    B. But they could walk through the " mirror " and find water
+ just as wet, sugar just as sweet, and grass just as green on the
+ other side.
+    A. You don't understand me. They would not postulate
+  "another side ". A man looking at the " mirror " would be
+ seeing himself, not a duplicate. If he walked in a straight line
+ toward the " mirror " he would eventually find himself back at
+ his starting point, not at a duplicate of his starting point. This
+ would involve their having a different geometry from ours-
+ but that would be preferable to the logician's nightmare of the
+ reduplicated universe.
+    B. They might think so-until the twins really began to
+ behave differently for the first time!
+    A. Now it's you who are tinkering with your supposition.
+ You can't have your universe and change it too.
+    B. All right, I retract.
+    A. The more I think about your " universe " the queerer it
+ seems. What would happen when a man crossed your invisible
+ " mirror " ? While he was actually crossing, his body would
+have to change shape, in order to preserve the symmetry. Would
+it gradually shrink to nothing and then expand again ?
+    B. I confess I hadn't thought of that.
+    A. And here is something that explodes the whole notion.
+Would you say that one of the two Napoleons in your universe
+had his heart in the right place-literally, I mean ?
+    B. Why, of course.
+    A. In that case his " mirror-image" twin would have the
+heart on the opposite side of the body. One Napoleon would
+have his heart on the left of his body, and the other would have it
+on the right of his body.
+    B. It's a good point, though it would still make objects like
+spheres indistinguishable. But let me try again. Let me
+abandon the original idea of a plane of symmetry and to suppose
+instead that we have only a centre of symmetry. I mean that
+everything that happened at anyplace wouldbe exactlyduplicated
+at a place an equal distance on the opposite side of the centre of
+symmetry. In short, the universe would be what the mathe-
+maticians call "radially symmetrical".        And to avoid com-
+plications we could suppose that the centre of symmetry itself
+was physically inaccessible, so that it would be impossible for
+any material body to pass through it. Now in this universe,
+
+
+
+
+ This content downloaded from 128.103.149.52 on Sat, 13 Feb 2016 18:33:34 UTC
+                 All use subject to JSTOR Terms and Conditions
+162                         MAX BLACK:
+
+identical twins would have to be either both right-handed or
+both left-handed.
+   A. Your universes are beginning to be as plentiful as black-
+berries. You are too ingenious to see the force of my argument
+about verifiability. Can't you see that your supposed de-
+scription of a universe in which everything has its " identical
+twin " doesn't describe anything verifiably different from a cor-
+responding universe without such duplication ? This must be
+so, no matter what kind of symmetry your universe manifested.
+   B. You are assuming that in order to verify that there are two
+things of a certain kind, it must be possible to show that one has a
+property not possessed by the other. But this is not so. A pair
+of very close but similar magnetic poles produce a characteristic
+field of force which assures me that there are two poles, even if
+I have no way of examining them separately. The presence of
+two exactly similar stars at a great distance might be detected by
+some resultant gravitational effect or by optical interference-
+or in some such similar way-even though we had no way of
+inspecting one in isolation from the other. Don't physicists say
+something like this about the electrons inside an atom ? We can
+verify that there are two, that is to say a certain property of the
+whole configuration, even though there is no way of detecting
+any character that uniquely characterises any element of the
+configuration.
+   A. But if you were to approach your two stars one would have
+to be on your left and one on the right. And this would dis-
+tinguish them.
+   B. I agree. Why shouldn't we say that the two stars are
+disti:nguishable-meaning that it would be possible for an observer
+to see one on his left and the other on his right, or more generally,
+that it would be possible for one star to come to have a relation to
+a third object that the second star would not have to that third
+object.
+   A. So you agree with me after all.
+   B. Not if you mean that the two stars do not have all their
+properties in common. All I said was that it was logically
+possible for them to enter into different relationships with a third
+object. But this would be a change in the uriverse.
+   A. If you are right, nothing unobserved would be observ-
+able. For the presence of an observer would always change it,
+and the observation would always be an observation of some-
+thing else.
+   B. I don't say that every observation changes what is observed.
+My point is that there isn't any being to the right or being to the
+
+
+
+
+ This content downloaded from 128.103.149.52 on Sat, 13 Feb 2016 18:33:34 UTC
+                 All use subject to JSTOR Terms and Conditions
+                  THE IDENTITY      OF INDISCERNIBLES                     163
+ left in the two-sphere universe until an observer is introduced,
+that is to say until a real change is made.
+    A. But the spheres themselves wouldn't have changed.
+    B. Indeed they would: they would have acquired new
+relational characteristics. In the absence of any asymmetric
+observer, I repeat, the spheres would have all their properties in
+common (including, if you like, the power to enter into different
+relations with other objects). Hence the principle of Identity
+of Indiscernibles is false.
+    A. So perhaps you really do have twenty hands after all ?
+    B. Not a bit of it. Nothing that I have said prevents me from
+holding that we can verify that there are exactly two. But we
+could know thattwo things existed without there being any way
+to distinguish one from the other. The Principle is false.
+   A. I am not surprised that you ended in this way, since you
+assumed it in the description of your fantastic "universe ".
+Of course, if you began by assuming that the spheres were
+numerically diflerent though qualitatively alike, you could end
+by " proving " what you first assumed.
+   B. But I wasn't " proving " anything. I tried to support my
+contention that it is logically possible for two things to have all
+their properties in common by giving an illustrative description.
+(Similarly, if I had to show it is logically possible for nothing at
+all to be seen I would ask you to imagine a universe in which
+everybody was blind.) It was for you to show that my de-
+scription concealed some hidden contradiction. And you haven't
+done so.
+   A. All the same I am not convinced.
+   B. Well, then, you ought to be.'
+
+Cornell University.
+   1 The followingnotes and referencesmight be helpful to anybody wishing
+to make up his own mind on the questions raised:
+   The Definitionof Identity: See Principia Mathematica,vol. i, definition
+13.01. The theory of types required Whitehead and Russell to say
+x and y are identical if and only if the same predicative functions are
+satisfied by both. For a similar definition see W. V. Quine, Mathematical
+Logic (1940), definition D 10 (p. 136). See also G. Frege, The Foundations
+of Arithmetic(Oxford, 1940, p. 76).
+  Self-evidenceof the Principle: " I think it is obvious that the principle
+of Identity of Indiscernibles is not true " (G. E. Moore, Philosophical
+Studies, 1922, p. 307). "Leibniz's,' principles of indiscernibles' is all
+nonsense. No doubt, all things differ; but there is no logical necessity
+for it " (C. S. Peirce, CollectedPapers, 4.311). " Russell's definition of
+     'won't do; because according to it one can;notsay that two objects
+have all their propertiesin common (even if this proposition is never true,
+
+
+
+
+ This content downloaded from 128.103.149.52 on Sat, 13 Feb 2016 18:33:34 UTC
+                 All use subject to JSTOR Terms and Conditions
+164      MAX BLACK:       THE IDENTITY       OF INDISCERNIBLES
+
+it is nevertheless significant)." (L. Wittgenstein, TractatusLogico-Philo-
+sophicus,5.5302). See also C. H. Langford," Othernessand dissimilarity"
+in, MIND, vol. xxxix (1930),pp. 454-461.
+    Bradley'sremark: Not made in connexion with this topic. See Ethical
+Studies, 2nd edn., 1927, p. 165. Bradley affirmedwhat he called " the
+Axiom of the Identity of Indiscernibles" (The Principles of Logic, 2nd
+ ed., 1928, p. 288).
+   Identity as a relational property: ". . . numerical identity, which is
+a dyadic relation of a subject to itself of which nothing but an existent
+individual is capable" (C. S. Peirce, CollectedPapers, 1.461).
+   The proof of theprinciple by treatingidentityas a property: "It should
+be observed that by 'indiscernibles' he [Leibniz] canrot have meant two
+objects which agree as to all their properties,for one of the properties of
+x is to be identical with x, and therefore this property would necessarily
+belong to y if x and y agreed in all their properties. Some limitation of
+the common propertiesnecessary to make things indiscernibleis therefore
+implied by the necessity of an axiom " (Principia Mathematica,vol. i,
+p. 51). Cf. K. Grelling," Identitas indiscernibilium" in Erkenntnis, vol.
+vi (1936), pp. 252-259.
+   Counter-examples:C. D. Broad tries to refute McTaggart'sform of the
+principle (" The dissimilarityof the diverse ") by the example of a universe
+consistingof two minds, without bodies,that are exactly alike in all respects.
+(Examination of McTaggart'sPhilosophy, vol. i, p. 176). Broad holds
+however,that " either spatial or temporalseparationinvolves dissimilarity"
+(op. cit., p. 173).
+   The argumentfrom verifiability: "To say that B and C are 'really'
+two, although they seem one, is to say something which, if B and C are
+totally indistinguishable, seems wholly devoid of meaning " (B. Russell,
+An Inquiry into Meaning and Truth, 1940, p. 127).
+   The distinguishabilityof asymmetric bodies and their mirror images:
+There is a famous discussion of this in Kant's Critiqueof Pure Reason.
+See, for instance, H. Vaihinger, Kommentarzur Kant's Kritik der reinen
+Vernunft, 1922, vol. ii, pp. 518-532 (" Anhang- Das Paradoxon der
+symmetrischen Gegensta.nde").
+
+
+
+
+ This content downloaded from 128.103.149.52 on Sat, 13 Feb 2016 18:33:34 UTC
+                 All use subject to JSTOR Terms and Conditions
+

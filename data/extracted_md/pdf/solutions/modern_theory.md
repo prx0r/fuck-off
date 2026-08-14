@@ -1,0 +1,1318 @@
+# Critical Points in Modern Physical Theory
+
+**source:** pdf · **section:** solutions
+**file:** modern_theory
+---
+
+Author(s): Henry Margenau
+Source: Philosophy of Science, Vol. 4, No. 3 (Jul., 1937), pp. 337-370
+Published by: The University of Chicago Press on behalf of the Philosophy of Science Association
+Stable URL: http://www.jstor.org/stable/184447 .
+Accessed: 18/07/2011 17:11
+
+Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at .
+http://www.jstor.org/page/info/about/policies/terms.jsp. JSTOR's Terms and Conditions of Use provides, in part, that unless
+you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you
+may use content in the JSTOR archive only for your personal, non-commercial use.
+
+Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at .
+http://www.jstor.org/action/showPublisher?publisherCode=ucpress. .
+
+Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed
+page of such transmission.
+
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+                The University of Chicago Press and Philosophy of Science Association are collaborating with JSTOR to
+                digitize, preserve and extend access to Philosophy of Science.
+
+http://www.jstor.org
+          Critical Points in Modern
+               Physical Theory
+                                          BY
+
+                           HENRY MARGENAU
+                    ECENT discussions in the physical literature,'
+                     designed to clarify the logical position of modern
+                     physical theory, have brought to light an amaz-
+                     ing divergence of fundamental attitudes which
+                     may well bewilder the careful student of physics
+                     as well as philosophy. Quantum mechanics,
+representing    an  abstract formalism, should be capable of having
+its logical structure analyzed with great precision like any other
+mathematical discipline. Its consequences in all problems to
+which its method can be applied are so unambiguous, consistent,
+and successful in predicting physical experience as to disperse
+immediately all thoughts of possible discrepancies in its funda-
+mental texture. Yet it must be said that even the founders of
+quantum theory are not in harmony in their various expositions
+of the bases of that theory. However, while this situation seems
+disquieting on the face of it, there is no cause for serious brow
+raising, for it is a fact that there exists agreement with regard to
+the central axioms of the theory, and that the ambiguities affect
+only their philosophical interpretation, a field in which differences
+of opinion may at present be honestly entertained.
+   In the present article we desire to draw attention to several
+ways in which these axioms can be and have been interpreted.
+Without attempting finality we shall investigate the consequences
+  'See bibliography at the end of this paper.
+                                         337
+338        Critical Points in Physical Theory
+of different views and separate clearly their incompatible features,
+appraising now and then the various possibilities as to their
+reasonableness and their degrees of popularity among scientists.
+In the course of this endeavor there will arise occasional sugges-
+tions dealing with wide-spread terminology, whose aim will be
+to guard against confusion of language and to eliminate certain
+annoying contradictions the origin of which is purely verbal.
+There will be an analysis and proposed definitions of such impor-
+tant terms as state and measurement, for it is believed that they
+have not yet acquired universal meaning and are for that reason
+the chief source of confusion in discourses on the foundation of
+modern physics. We begin by outlining those axioms of the new
+quantum mechanics on which the description of nature essentially
+depends.
+               I. THE AXIOMS OF QUANTUM MECHANICS2
+
+   There are two ways in which the basic postulates of any theory
+may be presented: the inductive and the deductive. Textbooks
+on quantum mechanics generally use the former. They start
+by giving an account of the failures of classical physical descrip-
+tion, then proceed to involve the reader in the intracacies of
+measuring devices, tell him with enormous emphasis that there
+is absolutely no hope of ever performing a measurement which
+achieves simultaneous accuracy for complementary (conjugate)
+physical quantities, dazzle him with Heisenberg's uncertainty
+relations and finally introduce him to the use of matrices and
+general operators. This process is awe-inspiring and pedagogi-
+cally effective with minds that wish to learn rapidly. But it
+leaves unsatisfied the student who is interested in fundamental
+questions of meaning, for the steps lack logical compulsion and
+uniqueness. In the first place, no inductive proof, based on
+experiments, can ever be given for the impossibility of increasing
+the accuracy with which canonically conjugate observables can
+be measured. Secondly, the complete meaning of indeterminacy
+is difficult to convey by examining individual measurements alone,
+     Only a general discussion is here intended. For a complete statement see P. A. M.
+   2
+
+Dirac, Principles of Quantum Mechanics, or Lindsay and Margenau, Foundations of
+Physics, p. 401.
+                               H. Margenau                                      339
+ and finally, the particular choice of operators which is made in
+ quantum mechanics does not follow uniquely from the uncer-
+ tainty relations. It may be that the general use which this
+particular mode of presentation enjoys everywhere is partly
+responsible for the uncritical attitude toward basic matters which
+many working physicists have so long displayed.
+   The second, the deductive method, does not pretend to prove
+anything new-a semblance which often attends the former pro-
+cedure-but resigns itself to an enumeration of a new set of
+axioms in terms of which we agree tentatively to describe our
+physical experience. The analysis of the situation thus created,
+once the postulates are stated, is a matter of complete logical
+and mathematical rigor, and the consequences are capable of
+experimental test. Success in fitting data strengthens the belief
+that the initial axioms are a suitable starting point in physical
+investigations, though it cannot convey the conviction that these
+axioms are unique, for it might well be that another set were
+equally successful. This question of uniqueness will probably
+never be settled, and it is a fortunate circumstance that we have
+no means for doing so, a circumstance which prevents our theories
+from freezing into rigid patterns, which keeps our inspiration and
+our hopes alive. But strongest confidence in the essential "cor-
+rectness"of the axioms, which have proven their worth in empiri-
+cal predictions, comes when we begin to interpret them and find
+that they differ from the postulates of classical physics precisely
+at those points where critical analysis has already shown the
+latter to be defective. In this manner the new theory acquires
+a degree of certainty which is the maximum attainable. This
+form of presentation, which exposes more truly the logical status
+of quantum mechanics and provides a ready answer to the ques-
+tion of its ultimate correctness, will here be chosen although it
+does not possess the obvious pedagogical advantages of the
+former method.
+   Physical analysis deals with the behavior, imagined or observed
+but always in principle observable,of physical systems.3 Quantum
+   3Physical systems are in general constructs in the sense of a previous communication
+(Journal of Phil. of Science, 2, 48 ('935); 2, 164 (I935)). We shall here assume the
+terms to be so understood.
+340      Critical Points in Physical Theory
+mechanics, in particular, has to do with systems observable only
+by indirect means, principally because of their smallness. To
+analyze their behavior the physicist invents states. Now in
+common language a state carries with it the connotation of some
+mysterious objective reality, whatever that word may mean; it
+implies something entirely independent of our description, some-
+thing to which our description must conform. As a matter of
+physical convention, however, a state is deprived of this exalted
+independence and is entirely at our mercy. We determine how
+we are going to describe states, and the agreement with respect to
+this matter constitutes the first axiom of any theory. In classical
+mechanics states were defined, or specified, by means of coor-
+dinates and momenta of mass points; in thermodynamics an
+altered convention is being used: by state is meant a coordination
+of two thermodynamic variables, such as pressure and volume
+of a system. In quantum mechanics, finally, we agree to mean
+by state, or the representative of a state, a certain finction of a
+suitable number of variables.
+   The distinction between state and representative of a state has
+here been made merely as a concession to ultra-meticulous readers.
+Such a difference exists only on the scale of ordinary experiences
+where an intuitive conception of the coordinates and momenta
+of a body, as a bullet in flight, is obtainable. Here one can
+associate an unambiguous mental picture with the state which
+has as its representative a certain group of positions and mo-
+menta. On the atomic scale, where no such picture can be
+obtained except by intrinsically unverifiable extrapolation of large
+scale experience, the dangers of which are now quite apparent,
+it seems in order to drop the distinction and refer to the "repre-
+sentative of a state," which alone is available, briefly as the state.
+   But the introduction of a state function is exceedingly abstract
+and is not at all linked with physical experience. What is the
+operational meaning of this procedure? This leads to an impor-
+tant point. It is true that classical physics did formulate its
+states in terms of measurable quantities, as well it might, for it
+operated on a scale of visual perception. But this should be
+regarded as a coincidence rather than a logical necessity: there is
+                       H. Margenau                          34I
+no consideration which compels that states be directly measurable.
+All properties, to be sure, with which physical systems are en-
+dowed, must be measurable. States are invented in order to
+enable statements regarding measurable physical properties to
+be made, which is by no means synonymous with saying that
+states must be measurable. In quantum mechanics it happens
+indeed that states become intermediators between abstract con-
+structs called systems and their measurable properties.
+   The invention of states which, while they are themselves not
+observable, would also fail to provide a definite connection with
+experience, must be considered as futile. But quantum me-
+chanics is not in such sterile condition. By means of a second
+axiom a very precise link is made between a system characterized
+by a given state and its observable properties. The connection
+is not of the usual reversible type but involves probability aggre-
+gates. The axiom posits that when a state function is given, the
+exact probability distribution with regard to every observable
+quantity can be computed. The detailed manner in which this
+is to be done is not relevant to the main theme of this discussion.
+We have thus established a one-one correspondence, not between
+states and observed properties, but between states and probability
+distributions of observed properties. If causality were to be
+defined as residing in a unique transition between state and obser-
+vation, then the description to which this axiom gives rise would
+have to be termed non-causal. Practically speaking, when the
+state of a system is known, the probability that a given value of
+the momentum shall be observed can be predicted, but the out-
+come of a given momentum measurement is in general obscure.
+One of the notable consequences of this axiom is Heisenberg's
+famous principle of related indeterminacies. It states that the
+standard deviation of the probability distribution with respect
+to the momentum of a system multiplied by the standard devia-
+tion of the probability distribution with respect to its measured
+position is never smaller than a certain universal constant
+(Planck's h divided by 4w; momentum and position may here, of
+course, be replaced by any other two so-called canonically con-
+jugate quantities). The reader who is unfamiliar with the statis-
+3 42       Critical Points in Physical Theory
+tical term "standard deviation" may in this connection think
+qualitatively of the spread of the measurements.
+   We have already indicated that on the basis of the present
+formalism a single measurement can never suffice to determine a
+state. This leads at once to the important question: Can the
+state function be inferred at all, even from a number of observa-
+tions sufficient to determine all probabilities with respect to a
+given observable (measurable quantity)? The answer is not an
+unqualified yes. Let us take a simple example. We wish to
+determine by observation the state function of an electron about
+which nothing is known at present. For this purpose we might
+decide to measure its energy. According to our preceding con-
+siderations, we must not expect to find the same energy value
+every time the measurement is repeated on the system in the
+same state (supposing here that we have means of reproducing
+the state; cf. below). Hence we are forced to determine how
+many measurements yield the value E1, how many yield the
+value E2 and so forth. If we perform altogether Iooo measure-
+ments, Ioo of which have given the value E1, we say that the
+probability of that occurrence is I/Io etc. Finally we shall be in
+possession of a sequence of numbers pi, P2, ... , the probabilities
+of the individual measured values, the totality of which consti-
+tutes the probability distribution. The point is that from this
+knowledge the state function can not be constructed. It involves,
+not the p-values, but numbers characterized merely by the re-
+quirement that the squares of their absolute values shall equal
+the p's, and this requirement is not sufficient to specify these
+numbers completely. Thus it would be impossible in our example
+to predict the probable distribution of momentum measurements
+on the basis of the results obtained with regard to the energy.4
+This proposition is proved in detail in the appendix (AI).
+   The situation here described is indeed disturbing; it would
+seem to require that the description of states adopted in quantum
+mechanics is forever aloof from physical experience, that states
+can never be known completely through observation. But this
+  4
+    Excluding, of course, those special cases, like the free electron, where energy and
+momentum operators commute.
+                        H. Margenau                           343
+is not the case, at least not in principle. Suppose, for instance,
+that our energy measurements had all yielded the same value,
+which is entirely possible. Then we should have known the
+state function with sufficient completeness to predict the prob-
+ability distribution with respect to every other type of measure-
+ment. It is true in general that if a given kind of observation
+does not spread, the statistical distribution governing the obser-
+vations on all other quantities can be inferred, and this is the
+only condition under which such an inference is possible. We are
+now in possession of the clue which can ideally lead to an experi-
+mental determination of any state function: If the particular
+kind of observation which we happen to perform is seen after a
+few trials to spread, we proceed to measure other quantities until
+one is found with respect to which the state is "pure," i.e., which
+yields the same value in all trials.
+   But now we come to the troublesome question: does such a
+quantity exist? Nobody knows. If this answer implies, in good
+positivistic fashion, that such a quantity does not exist, then the
+matter is settled for the time being: a state function can not in
+general be found, or constructed, on the basis of measurements.
+Such a position, by the way, is entirely tenable and does not
+reflect in the least upon the usefulness or legitimacy of quantum
+mechanics as a theory. But let us not dispense with this matter
+too hastily. There are, after all, those who hold that the num-
+ber 7rexisted before it was discovered.
+   The question as to the existence of a quantity whose measure-
+ments will not spread for an arbitrary state function resolves
+itself on closer analysis into two; first, the mathematical one: does
+an arbitrary function of a fixed number of variables, which satis-
+fies certain (boundary) conditions, possess an operator with re-
+spect to which it is an eigenfunction? second, is it possible to
+associate with every operator an operation which could be re-
+garded as a measurement of a physical quantity? It is clear that
+the number of possible mathematical operators as well as the
+number of physical operations is infinite, so that there is an un-
+limited choice. While it is at present a pious hope that the diffi-
+cult program of correlating functions, operators, and physical
+344      Critical Points in Physical Theory
+operations in the unique manner here required will ever be carried
+out, there is at least no basic obstacle in the way of its execution.
+The fact is of course that the interest of physicists has been
+limited to relatively few physical quantities which can be repre-
+sented by about half a dozen different operators, and that research
+has been remarkably successful despite this limitation. On the
+whole it seems not unreasonable to answer the question at the
+beginning of this paragraph in the affirmative, and thereby to
+provide an ideal basis for linking states with observations.
+   The first axiom had to do with the definition of states; the
+second dealt with the relation between states and experience and
+involved several matters which can easily give rise to misunder-
+standing. We now take up the thread of the original discourse
+and introduce the third and final axiom. It is clear and concise
+and requires very little comment. It amounts to a recipe for
+determining what possible values any given physical quantity
+can assume when a measurement is made. In barring much, it
+imposes a most daring restriction upon experience and exposes
+itself to exceedingly severe tests. Suffice it to say that it has
+successfully survived many tests and may be said to be in good
+standing. The structure of this axiom is mathematical; it states
+that only eigenvalues of operators associated with physical
+observables can appear as the results of measurements. But a
+complete technical understanding of these matters is hardly
+necessary for the subsequent discussion.
+       II. CLOSER ANALYSIS    OF THE MEANING     OF STATES
+
+   We now leave aside the factual content of the postulates and
+propose to view them-as far as we are able to do so-from the
+vantage point of the philosopher. At the same time we are
+entering upon controversial ground. States were said to be
+(represented by) certain functions having an indirect but defi-
+nitely specifiable connection with possible experiences. They
+served to describe the behavior of physical systems. Let us be
+more precise and examine whether these states describe physical
+systems or merely our knowledgeof physical systems. The answers
+to several controversial questions depend on the stand which is
+                        H. Margenau                           345
+ taken on this particular issue as will appear later, and it is very
+ surprising that the importance of a clear-cut decision in this
+matter has rarely been recognized even by the most authoritative
+ writers. It is difficult to find an article in which the author,
+ though evidently speaking from one point of view, does not
+ somewhere permit himself at least a verbal lapse toward the other.
+A middle stand (or shall we say seat, for this is by far the most
+ comfortable position) is taken by many who pronounce the ques-
+ tion as meaningless and consequently recognize no distinction.
+This possibility must also be investigated.
+    The contrast between physical systems and our knowledge of
+physical systems is not as deep as the epistomological difference
+between realism and subjective idealism, and the philosopher who
+hopes for a decision between these issues from any physical theory
+will be disappointed. No physical theory is tied to any such
+metaphysical basis. Classical physics made sense to Newton as
+it did to Berkeley, the only difference being that Newton thought
+of physical systems as objective entities transcending conscious-
+ness, while Berkeley regarded them as existing within conscious-
+ness, but nevertheless "existing." So in quantum mechanics:
+whether we place physical systems outside ourselves and contrast
+them with conscious knowledge of them in a fundamental epis-
+temological sense, or whether we recognize, within consciousness,
+a difference between knowable systems and knowledge of them,
+the systems themselves being merely constructs-the choice does
+not matter as long as we maintain an intelligible distinction be-
+tween the concept of system and that of knowledge about the
+system. This distinction, it seems, is so thoroughly ingrained in
+our thinking, so vividly alive in our intuition that it would be
+difficult to eradicate even if there were logical or metaphysical
+grounds for doing so. Or must we, after all, yield to superior
+logic and admit that the distinction fails? If the electron has no
+transcendental "reality" but is only a construct with which we
+operate, does it not, as a concept, become identical with our
+knowledge, i.e., awareness of it? It seems that, unless we are
+willing also to confuse the existence of the solution of an equation
+with our knowledge of that solution, the answer must be no. But
+346     Critical Points in Physical Theory
+there are in many cases definite rules for telling whether a solu-
+tion exists, while to know the solution would be an altogether
+different matter. Logically, we feel that the distinction must be
+maintained, and this is fortunate, for otherwise logic would pain-
+fully contradict our intuition.
+   Having cleared away the metaphysical underbrush we may now
+proceed with greater ease. Does the quantum mechanical state
+function refer to the system, or does it describe our knowledge?
+Planck, who according to his recent writings professes a very
+wholesome realism, would seem to favor the first alternative.
+The spirit of Dirac's writings, although they contain no specific
+pronouncements, indicates that his states refer to systems apart
+from our awareness. Schr6dinger, on the other hand, speaks
+occasionally of the state function as the "maximal sum of knowl-
+edge," indicating perhaps a preference for the second view. Bohr
+and Heisenberg mention frequently the conflict between observer
+and observed object with their unavoidable interaction and
+thereby presumably express themselves in favor of an objective
+world, the properties of which are to be described according to the
+first view. But this last diagnosis may be in error.
+   Let it be said at once that neither position can be wrong in the
+sense that it leads to erroneous consequences if carried through
+correctly. We mean here consequences of a positively verifiable
+character. The logical implications are in some respects very
+different, and this is particularly true about the meaning ot
+probability in the two cases. But before examining the necessi-
+ties of interpretation enforced by each of the two points of view,
+it may be well to pause for a moment and to see if one of them is
+not more plausible, or more in line with other accepted doctrines
+than the other.
+   In common language, which after the foregoing orienting excur-
+sions may perhaps be used without fear of misinterpretation, the
+distinction in question is simply that between physical objects
+and the observer's knowledge about physical objects. In classical
+mechanics the distinction was extremely sharp, and it was sup-
+posed that the two, besides being generically different as logical
+entities, were independent even in a physical sense. States
+                         H. Margenau                            347
+ clearly referred to the objects themselves, positions and momenta
+ were their direct properties. The objectivity of states had its
+ culminating expression in the equations of motion, which were
+ understood to imply actual space-time propagation of systems.
+This propagation took place according to rigid laws independently
+of the observer's knowledge.
+    Such an extreme view regarding the independent objectivity of
+physical states cannot be carried over into quantum mechanics;
+ there must at least be a shift of emphasis. One of the great
+discoveries at the beginning of the present era in physics was the
+recognition that objects and knowledge are related, because the
+classical notion of ideally unlimited accuracy of experimental
+devices failed and made classical knowledge intrinsically impos-
+sible. Hence if the view of objectivity be adopted, its classical
+meaning must be modified to this extent. It goes without saying
+that states must also be stripped of all impediments pertaining
+to sensual perception, and thought of entirely in abstracto. Psy-
+chological objections to this procedure, frequently raised by mem-
+bers of the older school, are of no particular moment in this con-
+nection, for it is not a matter of convenience, but one of logic
+which concerns us here.
+   The objective view of quantum mechanical states is enormously
+strengthened by the fact that states develop in time according
+to a definite differential equation (Schr6dinger's) which has a
+form not unlike the equations of motion in classical physics. It
+is true that the simple interpretation of spatio-temporal propaga-
+tion presents its difficulties or is at any rate no longer intuitively
+direct, but the fact remains that there are determinate changes
+in time which are difficult to correlate with simultaneous changes
+in the observer's knowledge because they seem enforced dynami-
+cally and not psychologically.
+   There are further points which may be cited as evidence for the
+plausibility of the objective view. We have seen (third axiom)
+that quantum mechanics makes very drastic positive predictions
+about possible experience, predictions which do not resemble laws
+of thought and give an impression of utter independence of human
+knowledge. To be sure this axiom has little to do with the
+348     Critical Points in Physical Theory
+definitionof states, but it does indicate that part at least of the
+new formalismconcernsitself with matters that are thoroughly
+factual in a sense distinct from mere knowledge. And if this is
+true there seems to be little motive for insisting that another
+concept, that of state, should deal not with factual objects but
+with our modes of awareness.
+  It was pointed out that classicalmechanicsin all its structure
+suggests the objective view. Now it is possible to show that, if
+applied to large scale bodies, quantum mechanics leads to the
+same physical consequencesas does the classical theory. The
+latter may be said to be the analyticalcontinuationof the former
+in the field of ordinary experience. This is felt to be a very
+happy circumstancewhich bespeaks the unity of physics and
+encouragesthe hope that some day a universal theory may be
+achieved, a hope which at present animates the researchesof
+Einstein. In view of the analytical smoothnesswith which the
+two disciplines join it might seem unwise to maintain in one a
+fundamentalattitude which has no place in the other and which
+would constitute a conceptualbreak at the passage from one to
+the other. This argument, too, would suggest an adoption of
+the objective view. But it should be observed that the points
+here presentedcan aim at no more than plausibility,and do not
+render the opposite view basically untenable.
+   The oppositeview, to be called for brevity the subjectiveview,
+is the one whichholds that state functionsdescribeour knowledge
+of physical systems. It is psychologicallymotivated by the sig-
+nificant observation that the independenceof classical states is
+a fallacy. It springsfromthe desireof makinga cleanbreakwith
+erroneousnotions and thereforeemphasizesan opposite extreme.
+Let us first see what can possibly be meant by it. Obviouslyit
+can not mean that the state function describes the observer's
+awareness,his momentarystate of mind, and the changes in it
+which occur in time. It is clear that all this dependson factors
+far removed from the field of physics. Quantum mechanics
+certainlydoes not have the aim of convertingphysicsinto a highly
+expressionistictype of psychology. Although proponentsof this
+view often employ ambiguouslanguage, what they wish their
+                               H. Margenau                                     349
+states to represent is not actual knowledge but potential knowl-
+edge. The state function is to be regarded as a convenient carrier,
+a symbol for the sum total of all that knowledge which the specu-
+lative observer can possibly accumulate, at any instant, with the
+use of all his resources. It may coincide with that knowledge at
+certain moments of very acute awareness, that is, when the inves-
+tigator has made all possible measurements and all calculations
+pertaining thereto. No one can deny that this view, even in its
+extreme, has in it a trace of objectivism because of the admission
+that states refer to potential and not to actual knowledge, and
+this is a feature which makes it slightly inconvenient to have to
+defend the subjective position; it demands constant vigilance lest
+an inadvertant lapse should contradict the initial tenet.
+   The chief virtue of the standpoint under discussion is that it
+provides complete safety against positivistic attacks. Its tenant
+can justly pride himself in being under no obligation to transcen-
+dental agencies for transmitting his knowledge, for he deals with
+nothing but knowledge which he may believe if he wishes to be
+generated within his mind. He may wonder perhaps why the
+laws which govern the evolution of potential knowledge operate
+with almost dynamic regularity, but this is after all no greater
+a miracle than the existence of rigid laws in an objective world.
+   The author has not succeeded in bringing to light any further
+merits of the latter, subjective view. While admitting its pos-
+sibility on logical grounds, he wishes to record his preference for
+the former. This preference is partly based on reasons so far
+presented, partly on considerations of the meaning of probability
+peculiar to the two attitudes which will now be discussed.
+   The contrast between objectivity and subjectivity of states
+has an interesting analogue in the theory of probability,6 which,
+as the reader very likely recalls, can be formulated either as an
+empiricalfrequency theoryor as a subjective("a priori") discipline.
+   In the former case, probability is defined as the limit, with
+increasing number of trials, of the relative frequencies of an occur-
+rence.8 Probability can be ascertained only empirically, by con-
+   6 The philosophical
+                        consequences of the quantum mechanical probability formulation
+have been stated clearly by F. S. C. Northrop, Philosophy of Science, I936, pp. 215 if.
+   6 For a detailed discussion see
+                                   Lindsay and Margenau, p. I6i, Wiley and Sons, 1936.
+350          Critical Points in Physical Theory
+tinued observations. There are difficulties inherent in this
+conception,especiallymathematicalones connectedwith the exist-
+ence of the limit, but it seems that they can be removed. The
+conceptionhas, however, the great advantageof being applicable
+to all scientificproblemswhich call for the use of probabilities.
+Notable also is the circumstancethat it permits probabilitiesto
+be measurednumericallyto any desiredapproximationin accord-
+ance with their definition. It is not possible, on this view, to
+predict probabiliticsby a priori considerations peculiar to the
+probabilitycalculus, although this may in many cases be done
+tentatively by introducingspecial physical theories. (Thus the
+probabilitiesfor tossing heads or tails can be ascertaineddirectly
+only by making a large number of trials. Yet there is nothing
+to prevent us from consideringthe coin as a physical body, then
+making the assumption of symmetrical mass distribution and
+supposinga plausibledistributionof initial conditionsas well as a
+sufficient variety of them-a basis on which the probabilities
+may be computedby means of a physical theory.)
+   But there are cases to which the empiricalprobabilityconcep-
+tion can not be applied. They constitute the class of all proposi-
+tions about single events,such as the statement: it will probably
+rain tomorrow. Such statements have the peculiarity that no
+unambiguousmeasure can be attached to the probability in-
+volved, except that, on retrospect, the probability is one if the
+event has happened,zero if it has not taken place. These cases
+are covered by what is usually termed the subjectiveor a priori
+probabilityformulationmentioned above. Analysis shows that
+it always refers to intensityof beliefof an individual or to con-
+ventional beliefs of groups. Attempts are often made to assign
+a numericalestimate to such probabilities. In doing so, one of
+two courses is usually employed. Thinking again of the state-
+ment: it will probablyrain tomorrow,a measurecan be obtained
+by studying the weather today and then referringto a recordof
+meteorologicaldata for this locality7 and finding the relative
+numberof cases in which rain has ensuedon a day prior to which
+the weather agreedwith today's. But in this procedurewe are
+  7   For an analytic discussion of the meaning of measurement cf. the next section.
+                        H. Margenau                            35
+clearly giving up the subjective idea of probability as well as the
+individuality of the day "tomorrow," which now merges in the
+statistical aggregate of days characterized by the property that
+the previous day had weather like the present. Proponents of
+the subjective view are not always aware of the necessity of a
+reversion to the frequency concept, typified by the preceding
+example, which necessity invariably arises when any scientific
+application is to be made. The other course sometimes adopted
+for making a priori probabilities statable in numerical terms is
+to count causes or reasons for or against the occurrence of the
+event in question. Thus it might be said: 7 causes indicate rain
+tomorrow, only 2 indicate clear weather, therefore the probability
+that it will rain is 7/9. But who can determine the relative
+weights of these causes, or who can say that I have counted the
+correct number of them (for any given cause can be split up into
+a number of causes)? In some instances one can say: 7 available
+theories favor the event, 2 theories oppose it, hence the proba-
+bility is 7/9. But then, what are we to do with that infinite
+number of theories, also favoring or opposing the event, which
+have not yet been invented, or what are the antecedent probabili-
+ties of being true for those that have been taken into account?
+We return therefore to the initial statement regarding subjective
+probabilities and phrase it thus: Probabilities referringto intensity
+of belief, or degree of completenessof knowledgeregarding a single
+event, are intrinsically unmeasurable.
+   Now it is a fact that the student who holds the objective view
+concerning states is practically forced to couple it with the em-
+pirical frequency concept of probabilities, whereas those who
+incline toward the subjective interpretation of states almost
+invariably adopt the subjective idea of probability also. The
+internal compulsion for this alignment is unmistakable. A per-
+son willing to assign to a physical system a state independent of
+his cognition would find it natural also to allow this state numer-
+ous modes of empirical manifestation, whereas the knower of a
+subjective state has room only for greater or lesser certainty of
+his knowledge. He would say: Now I have made a calculation
+which makes my knowledge of the electron's momentum certain
+352      Critical Points in Physical Theory
+to the degree 1/2, my knowledge of its position certain to a similar
+degree; now I have measured the electron's momentum and I
+know it with complete certainty, while my knowledge of its posi-
+tion is now extremely uncertain, etc. In his opinion this is
+describedin the changeswhich the state functionundergoes.
+  It must already be apparent that the choice of interpretation
+of physical axioms is not always a matter of logic, but often of
+personal preference. So here the correlation of views is not
+entirely rigid. A mixture is possible in the sense that the last
+namedindividualmight, whilemaintaininghis fundamentalstand
+with regard to the subjective characterof states, nevertheless
+submit his knowledgeto experimentaltests and thus affix to it
+an indirectobjective measureof certainty. But the view which
+then results is needlesslycomplicatedand approachesthe former
+in all essential respects. For this reasonit does not seem worth
+recommending. The possiblenumberof combinationsof aspects
+so far presentedin this report is alreadyso large that some cur-
+tailment becomesimperative.
+       III.   THE STATISTICAL   CHARACTER OF PREDICTIONS
+
+   The considerationsin this section are irrelevantto the subjec-
+tivist who has adopted the a priori probabilityidea. We wish
+here to deal with the question: granted that the probability
+predictionswhich arise in quantummechanicsreferto a statistical
+aggregate in the spirit of the frequency theory, what type of
+aggregateis meant? It is clear that it must be an aggregateof
+physicalobservations,indeedin the ideal limit an infinitenumber
+of observations,or measurements.7 Surveyingthe field, we find
+after little search that three types of collectionsof observations
+present themselves:
+   I. Numerous simultaneous observations of a given quantity
+        when the system is in a given state;
+   2. Numerous observations,or a single collective observation,
+        on a physical assemblageof many similar systems in the
+         same state;
+  3.  Numerous     repeated observationson the same system, the
+         state in questionbeingrepreparedbeforeeachobservation.
+                        H. Margenau                           353
+The first of these is only a speculative possibility, for there are
+many types of observation which can be carried out but once and
+permit no simultaneity with any other measurements even of the
+same type. Hence our choice is reduced to possibilities (2)
+and (3).
+   The contrast between these is best illustrated by an example.
+Let the state function for the system "electron" be such as to
+imply: the probability of observing its position in a certain speci-
+fied volume is i/Io. According to (2) this means that if I take
+ Iooo electrons all in the state under consideration (we suppose at
+present that I know how to prepare this state) Ioo of these elec-
+trons will lie in the specified volume. According to (3) it means
+that if an electron is in the state in question, I may find it in the
+specified volume or not, but if I prepare the state Iooo times, I
+shall find it there approximately Ioo times. In (2) the proba-
+bility aggregate is a collection of observations on a physical
+assemblage, in (3) it is a collection of observations on an ideal
+ensemble consisting of an infinite repetition of a set of physical
+operations. The same fundamental distinction occurs at one
+other place in theoretical physics, namely in the approaches to
+thermodynamics by Darwin and Fowler on one hand, and by
+Gibbs on the other.
+   The decision here to be made clearly involves the question
+whether or not quantum mechanical reasoning is at all applicable
+so single systems. If it is not, (3) must be abandoned. Other-
+wise both might be acceptable, but (2) might be a consequence
+of (3). Now it is certainly true that in most physical observa-
+tions dealing with atomic phenomena indirect means are em-
+ployed, and the number of systems affected is very great indeed.
+The energy of an atom can be measured for instance by allowing
+it to radiate and then analyzing the radiation. But when the
+spectrum is to be photographed the radiation from a single atom
+is far too weak to register itself. Hence a great number of atoms
+must be admitted. It is found that the spectrum always contains
+many different frequencies. Does each atom emit all these fre-
+quencies, or does each emit a single frequency, the different ones
+coming from different atoms? Experiment does not provide the
+354      Critical Points in Physical Theory
+answer directly, but we shall find it by considering another
+situation.
+   Quantum mechanics predict for the coordinate (probability)
+distribution of an electron which has passed through a narrow slit,
+a diffraction pattern, i.e. well defined maxima and minima in a
+plane behind the slit. If, in order to test this result, a beam
+containing many electrons is used, the pattern can be observed
+by means of appropriate devices, like ionization chambers. By
+this experiment the question whether a large number of electrons
+is necessary to produce the probability pattern can not be decided.
+It is feasible, however, to make the electron beam very weak, so
+weak in fact that the electrons constituting it are widely separated
+in space and cannot be supposed to interact with one another.
+Under that condition the predicted distribution is also observed,
+but now as a frequency distribution among the positions of cap-
+ture of the individual electrons, the captures being altogether
+independent events. The conclusion is therefore inescapable that
+the statistical feature of this process is attached to the individual
+electron, and that, even if the same state were prepared again
+for the same electron, it, too, would show a dispersion of positions.
+And this means that quantum theory deals with an aggregate
+characterized by (3), not necessarily by (2).
+   Several other experiments could be adduced to confirm the
+proposition that the theory is applicable to single systems. We
+shall content ourselves with one further point. It is well known,
+and demonstrable in many ways, that a light signal which is
+emitted in a very short time cannot be monochromatic but must
+have a wide spread in frequencies. Modern theory bids us con-
+sider the light flash as a photon, a single photon if it is sufficiently
+weak, and its frequencies as being proportional to energies. If
+now that well-known fact is to be preserved, we must, in quantum
+mechanics, associate many different energies with a single photon;
+we must assume that a photon in a state defined by its sudden
+generation must exhibit sometimes one, sometimes another energy
+to the observer.
+   We can now say what happens, presumably, when many atoms
+emit a spectrum. One atom would generate the entire spectrum
+                         H. Margenau                            355
+if it were given sufficient time to register its radiation on a photo-
+graphicplate. Of course a single photon would fall on only one
+spot of the plate, but another photon would hit another spot,
+and so on, until finally the whole plate is blackenedin accordance
+with predicted probabilities. The suppositionis that the atom
+is returnedto the same state beforeeach act of emission,and this
+may be done, for example, by exposing it constantly to another
+suitable sourceof radiation.
+   It is clear, then, that the statistical aggregatein question can
+not be defined by (2) at the exclusionof (3). The latter is cer-
+tainly a correct interpretation. On the other hand, no one will
+deny that possibility (2) is somehow more graphic and more
+plausible. The reason for this is not far to seek. It is simply
+because the older classical statistical theories have familiarized
+physicists as well as philosopherswith the notion of assemblages
+(e.g. gases) which exhibit probabilityfeatures only by virtue of
+possessinghosts of constituents. There every constituentobeys
+strict dynamicallaws, statistics arisefromour ignoranceof certain
+parameters,such as the initial positions and momenta of all the
+molecules,and the argumentgoes that if these parameterswere
+known the use of probabilitieswould be unnecessary. In quan-
+tum mechanics, as we have shown, the situation is altogether
+different;no searchfor hiddenparametersin the ordinarydynami
+cal sense can ever undo the probabilitythesis-unless the theory
+itself is abandonedor essentially modified. This follows simply
+from the fact that in quantum theory the single system, which
+is the carrierof the statistical aggregate,can by definitionnot
+be further decomposedinto entities with unknown properties.
+   If (3) definesthe aggregateto whichthe theoreticalprobabilities
+refer,what about the aggregate(2)? A moment'sreflectionwill
+show, we believe, that it is a special case of the former,provided
+we are willing to make a slight but very significantchange. In
+(3) we spokeof repeatedobservationson the samesystem. There
+are many reasons for believing that one ultimate system, like
+an electronor a protonor a neutron,is physicallyindistinguishable
+from another system of the same kind. Thereforeit seems per-
+missible to loosen the strictness of the word same into a sort of
+356      Critical Points in Physical Theory
+of promiscuous identity, designating by the same system merely
+a system of the same kind. The collective measurement on a
+physical assemblage of similar systems, contemplated in (2), may
+then be regarded as a sequence of almost simultaneous measure-
+ments on the "same" system in the new sense of (3). Item (2)
+thus becomes a special case of item (3). But item (3) expresses
+the basic issue.
+                IV. THE THEORY OF MEASUREMENTS
+
+   A. Meaning of measurement. The usual way to theorize about
+measurements is to select, for no obvious reason at all, a specific
+type of experiment, analyze it very fully, and then generalize the
+results without inquiring very much whether these results fit the
+multitude of other measurements that might be considered. The
+experiments chosen are mostly imaginary ones, a feature which
+of course detracts in no way from the value of the example as
+long as the imaginary procedures are permitted by known physical
+laws. Heisenberg's experiment for determining the position or
+the momentum of a particle by means of a y-ray microscope, and
+Bohr's slit experiment have perhaps borne the brunt of this
+procedure. Not as common but yet quite popular, particularly
+among mathematicians, is a mode of inquiry which starts with
+quantum mechanical theory, considers what ideally a measure-
+ment ought to be, and then manages to find one which fits the
+prescription. In studying J. von Neumann's excellent book8 on
+the foundations of quantum mechanics we have had the impres-
+sion that this method was being employed. What makes the
+method seemingly successful is the wealth of existing types of
+measurement; it insures that any prescription can be filled.
+   Let us here try to avoid these procedures, let us begin by ana-
+lyzing empirically, and on a sufficiently broad basis, what the
+physicist means when he says he makes a measurement. The
+breadth of the issue is at first bewildering, but it seems that the
+following definition covers it completely: a measurement is any
+physical operation by means of which the numerical value of a
+  8 von Neumann, Mathematische
+                                 Grundlagen der Quantum mechanik.
+                       H. Margenau                          357
+physical quantity can be determined. This wording is not meant
+to suggest that physical quantities are always or sometimes
+"real," or that they possess at any instant unique numerical
+values. We know that they do not, and we refuse as physicists
+to join the irrelevant altercations about reality. What matters
+is that there are generally accepted physical operations whose
+outcome is associated with a certain number, and this number is
+commonly referred to as the value of some quantity. All dangers
+are avoided if the reader thinks of "value of a quantity" as a
+figure of speech. The definition shows that a measurement is
+different from a physical operation and an observation, measure-
+ment being more specific than either of the last terms, while an
+observation differs from an operation in being a purely passive
+act of perception. A measurement usually consists of an opera-
+tion plus an observation, but this need not be the case.
+   The present purpose is best served by leaving aside altogether
+measurements on systems of the immediately perceptible domain,
+i.e., on large scale bodies, and to concentrate our attention at
+once upon the more problematical part of our question, the
+measurement on atomic systems, atomic in the original sense of
+the word. Our main endeavor is to show how rich is the field of
+possible procedures.
+   The simplest quantity to be measured on any system is perhaps
+its position. Among the possible ways of effecting a position
+measurement one seems to be most commonly employed: the
+method of absorption. If the system is an electron, Faraday
+cages or similar devices might be stationed at various places,
+and the place of the one which registers is the place where the
+electron has impinged. If the system is a photon, a photographic
+plate is used, and the place of the photon's impact is indicated
+by certain chemical changes. (We are not concerned at present
+with limits of accuracy of measurements.) Next let us turn to
+the momentum of a single system, say an electron or a photon.
+Perhaps the simplest way of measuring it is to allow the particle
+to be diffracted by a suitable grating and then to determine its
+impact on a plate, i.e. its position in the manner just discussed.
+The energy can of course be found in a similar fashion. These
+358     Critical Points in Physical Theory
+experiments are more complicated than the foregoing ones inas-
+much as they require the addition of another stage or operation
+to the position measurement, and this seems to be a typical fea-
+ture of most measurements. It is to be observed that the phe-
+nomenon of diffraction alone is not a momentum measurementin
+accordance with our definition, for unless it is coupled with the
+absorption of the photon on a plate no number can be ascer-
+tained. We deem this fact of some importance despite the care-
+lessness with which the matter is often treated, and we shall
+have occasion to return to it in another connection.
+   It would be folly to suppose that all physicists will consider
+the simple measurements here chosen for discussion as more basic
+or more representative than others. The point to be made is
+that they are bonafide measurements of very common occurrence.
+They present an interesting feature: after the measurement the
+system can no longer be said to be present as an identity. This
+is particularly true in the case of the photon which after absorp-
+tion ceases to function as a physical system altogether, while the
+electron may in a sense be said to be "still there," but has become
+one of a large assemblage of indistinguishable electrons inside a
+metal. We note, then, that some measurements annul a system,
+others render them of no physical interest with respect to the
+measurement in question. Further examples of measurements
+which annul the system would be the determination of the place
+of a neutron (by nuclear capture) and certainly that of a neutrino,
+if this should prove to be a useful construct. Cases of this type
+arise of necessity when systems are introduced which can be
+created or destroyed.-Throughout this discussion the language
+of classical physics has been used. In terms of it we might state
+the matter thus: the classical fate of systems during measurement
+is not describable in a uniform way; an attempt to describe it
+completely would introduce irrelevancies. We shall see that
+quantum mechanics, with its altered definition of states, relieves
+us of all embarrassment in this connection.
+   The number of legitimate measurements in physics is theoreti-
+cally unlimited, as is easily seen from the fact that every new dis-
+covery, every new verified theory provides new opportunities for
+                       H. Margenau                           359
+measuring old quantities. For instance, a Wilson cloud track
+would not have been a means for measuring the energy of an
+a-particle before Wilson's discovery of the condensation of water
+vapor on gaseous ions. Nor would Heisenberg's y-ray microscope
+have been a suitable device for measuring an electron's position
+before the Compton effect was known. What is now termed a
+measurement would then have been merely an experiment. In
+view of the derivability of new kinds of measurement from special
+discoveries, the temptation is strong to standardize the theory
+of measurement by picking out a certain basic group, perhaps to
+be called the primary group, on which may then be built an
+unlimited system of secondary measurements. Sucn an analysis
+would be extremely desirable for logical as well as linguistic
+reasons, but will not be attempted here because the selection of
+primary measurements would be an arbitrary undertaking.
+   Besides measurements, there is another very important class
+of physical operations: the preparation of states. We are not at
+this moment interested in such operations, but we do not wish
+measurements to be confused with them. For example, when
+electrons are made to pass into a magnetic field, a new state with
+respect to electron spin has been produced, but the spin has not
+been measured.
+   A word might be said about the compatibility of measurements.
+The literature abounds with statements to the effect that simul-
+taneous measurements on complementary quantities (in Bohr's
+sense) are incompatible. If this is interpreted as meaning that
+they cannot be made the statement is either without point or it
+is wrong. For in that class of measurements which annul a
+system no simultaneous ones are possible at all and the proposi-
+tion seems void. On the other hand there is nothing to prevent
+an inquisitive observer from illuminating an electron simultane-
+ously with hard and soft quanta, and if, according to the orthodox
+view, the hard quantum on being scattered tells the electron's
+position and the soft one its momentum (Doppler effect), two
+"incompatible" measurements have been performed. We know
+that the results are not to be trusted and that, on repetition, the
+measured values would scatter greatly, but the example does
+360        Critical Points in Physical Theory
+constitute an exception to the general claim of incompatibility
+for (simultaneous) complementary measurements. What the
+phrase should mean is that such measurements have a predictable
+spread.9
+   There appears to be a tendency to regard quantities of a physi-
+cal system which can be measured collectively without spread in
+the previously defined statistical sense, as real quantities, others
+being unreal. This is the most peculiar use of a metaphysical
+term, a term which would be objectionable in physics even if it
+were used more correctly. It springs very clearly from a failure
+to abandon classical notions where they should be dismissed. In
+classical mechanics, when a definite ultimate state is given, an
+elementary quantity which refuses to yield the same value every
+time it is measured is a self-contradiction, is unimaginable. In
+quantum mechanics such things do occur, and the success of the
+formalism has forced many classically-minded physicists to accept
+it. But their displeasure still prevents them from acquiescing
+completely, and they feel better when they are able to give things
+a private little knock by calling them unreal.
+   B. Measurementand Uncertainty. The mathematical meaning
+of the "uncertainty principle" is perfectly clear and requires no
+comment. To wit: when any state function is given, the uncer-
+tainty-a term which has no precise accepted significance but
+can be defined suitably-may be computed numerically. Am-
+biguity prevails only as to the interpretation of the numbers
+which so result.
+   Here again account has to be taken of the two possible mean-
+ings of probability. On the subjective view, the uncertainty
+affects a single measurement, but it can in that case be nothing
+more than a qualitative subjectiveestimate, clad in numericalform
+but incapable of verification, of the assurance with which certain
+results may be expected. Every other interpretation would at
+once revert to the position which envisages the single measure-
+ment as the constituent of a statistical aggregate, and this would
+   9 In
+        making such predictions the exact meaning of the word "simultaneous" must be
+known. The results of the measurements depend on the order in which they are per-
+formed because the operators in this case are not permutable.
+                         H. Margenau                            361
+necessarily be the one discussed in section III, (3). The usual
+statement according to which an uncertainty represents an error
+is meaningless on this view, for a single measurement contains
+no error, or, more explicitly, no verifiable error. The present
+position, if maintained consistently, is by no means illogical; but
+it fails to utilize a wealth of formal structure potentially present
+in quantum theory.
+   If, on the other hand, the probability concept is accepted in
+its empirical sense, uncertainty can truly be interpreted as an
+error. The uncertainty principle (for the sake of definiteness let
+us think of it in the form Ap Aq _-)         then relates the spread,
+                                       4"/
+Ap, occurring in numerous momentum measurements on similarly
+prepared systems, to the spread Aq in corresponding position
+measurements. On this view the principle becomes far more
+explicit, it exposes itself in a simple way to empirical verification,
+which, by the way, lends it the strongest support. The inequality
+sign appearing in the usual form of the relation, or the sign -
+which is also frequently used, does not imply that Ap or Aq are
+not known with precision; indeed in any given case both Ap and
+Aq can be computed exactly from a knowledge of the state func-
+tion; and the computed values are independent of the kind of
+measurements to be used for their determination.
+   Most physicists consider it very important to secure a plausible
+classical explanation of the uncertainty relations, which funda-
+mentally are nothing more than a by-product of the quantum
+mechanical description of nature. There is indeed no harm in
+seeking such an explanation, but in doing so one should be aware
+that the procedure involves basically a fusion (and often a con-
+fusion) of incongruous physical concepts: the classical and the
+quantum mechanical ideas of a state. In this connection it is
+well to remember that the uncertainty relations were implicitly
+used before they were discovered. The common claim is that
+they express the uncontrollable error introduced into physical
+description by the interaction between system and measuring
+devices in the act of measurement. The physical facts under-
+lying this assertion are undoubtedly correct, but the statement is
+362       Critical Points in Physical Theory
+unfortunate in the light of a more meticulous analysis of the
+meaning of measurement. We have seen that the theoretical
+uncertainties are completely independent of the choice of measur-
+ing devices, whereas measurements affect a system in a perplexing
+variety of ways. Uncertainties are in a very definite sense
+inherent in a state even before measurements have been made.
+The correct statement therefore is that the uncertainty relations
+reflect the interaction betweensystem and apparatus when the state
+is being prepared, not when it is measured. A closer inspection
+of the arguments presented in the literature for the former loose
+assertion reveals that its defenders perhaps unwittingly mean the
+latter. Logically, however, there is a difference, for the former
+position inevitably leads to a theory which counts the disturbing
+interactions twice, once in the preparation of the state, once in
+its measurement. What quantum mechanics actually does is to
+stop all inquiry at the act of measurement.
+   We feel that the matter is really quite simple and that most
+argumentation on this issue has resulted from a failure to define
+concepts clearly. The most common artificial complication arises
+in this way. Numerous measurements (not all) have of course
+the property of preparing a new state, a fact which is of no interest
+if I agree to regard the act in question as a measurement. If,
+however, by a mental lapse I forget to efface all interest after this
+event and continue to question what happens, then I have con-
+tradicted the original premise according to which I was making a
+measurement and am regarding the act as an operation preparing
+a state. The practically-minded physicist will probably regard
+these distinctions with mild amusement-but we are, after all,
+dealing with the finer points of modern theory.
+   The problem of causality, which naturally raises its head at
+this place, has been dealt with previously10 from this point of
+view. We have no cause to modify the conclusions then pre-
+sented.
+   C. Does a measurementproduce an eigenstate? The reader will
+recall that an eigenstate of an observable quantity is a state for
+  10H. Margenau, Journal of Phil. of Science, 1, 133 (I934).
+                            H. Margenau                                  363
+which the measurementof a singlevalue of that observablequan-
+tity can be predictedwith certainty. In other words, the prob-
+ability distributionwith respect to that observable,which can
+be computed from the state function, degeneratesinto zeros for
+all values but one. Now orthodoxtheoryclaims"that a measure-
+ment, performedupon a system in an arbitrarystate, immediately
+and suddenly converts this state into an eigenstate with respect
+to the quantitymeasured. This changeis held to be indescribable
+by any theory and essentiallyunpredictable. Troublesomeques-
+tions as to the length of time which must be allowed for this
+sudden change, whether it takes place discontinuouslyin zero
+time or whetherit is somehowrelatedto the kind of measurement
+enacted, have already arisen but are left unansweredbecause
+quantum theory is felt to be not sufficientlycomplete to deal
+with them. This doctrinerecognizestwo possibleways in which
+a state functionmay be altered;first, continuouslyin accordance
+with the Schr6dingerequation, the change being uniquely pre-
+dictable; second, in an unpredictableway when a measurement
+is performed. The eigenstate thus generatedis of coursethe one
+correspondingto that particularvalue of the observablewhich
+the measurementhas yielded. On this theory of unpredictable
+transitionsis often based the assertionthat quantummechanical
+descriptionis an essentially acausalone.
+   Let us view this matter in the light of the analysis conducted
+in this paper. It is then perfectlyclear that our attitude here is
+decidedby the fundamentalchoicemadewith respectto the inter-
+pretationof states. If we adoptthe subjectiveview,accordingto
+which a state function is a symbol merely for knowledge, and
+couple it with the subjective view of probabilities-and only if
+this choice is made-the theoryof acausaljumps is indeedcorrect,
+for a measurementconverts uncertainknowledgeinto certainty.
+It is interestingto observe that this change occurs as the result
+of a single measurement. Thereforethe probabilityinterpreta-
+tion attending the whole processmust be the one which endows
+the probability of single events with meaning, and it entrains
+   11Cf. for instance von Neumann, Mathematische
+                                                 Grundlagen der Quantenmechanik,
+Schr6dinger, Naturwissenschaften 23, 823 (I935).
+364         Critical Points in Physical Theory
+those consequences,such as lack of measurability,which we have
+discussedin section II. We have already indicated that in our
+opinion such consequences are unfortunate, but if they are
+accepted,the orthodoxview is entirely logical.
+  On the other hand, let us see what happens if we regardstates
+in the objective sense, and measurements as revealing states in a
+statistical manner, the statistical aggregate being the one exposed
+in section III.        T'hetheoryof acausaljumps is then decidedlyto
+be rejected. For in the first place a single measurement allows
+no inferenceas to the state at all. In the second place, we have
+seen that measurements,if describedin classicallanguage,affect
+systems in such a largevariety of ways, sometimeseven annulling
+them completely, that they cannot be said to producean eigen-
+state of an observablein a uniformmanner. It is the great merit
+of quantummechanicsthat it permitsa descriptionof experience
+without forcingus to take account of the sometimes disastrous
+resultsof a measurement. Classicalphysics requiredthe investi-
+gator to be ever on the guard for disturbancesoccurringwhen he
+made his measurements. He maintained his vigilance in the
+mistaken belief that such disturbancescould be controlled, but
+had to capitulate when this belief was shaken. The new theory
+permitsus to forget these difficultiescompletelyby incorporating
+a suitablecompensationmechanismin its fundamentalstructure:
+the method of describing measurements statistically.        On the
+objective view, the assertion that a measurementproduces an
+eigenstate is preciselyas meaningfulas the contention that, after
+crackingand eating a nut, I still have a nut, but in its cracked
+and eaten state. In an earlier paper12the present attitude was
+briefly formulated,but sufficientreasons for its acceptancewere
+not given.
+   Perhapsit is well to remarkin some detail on a few arguments
+which often serve as a basis for maintainingthe objective view
+of states, together with the theory of acausal transitions. One,
+illustratedwith the use of an example,runs as follows:I wish to
+measurethe state of polarizationof a photon, about which I know
+  12H.
+         Margenau, Phys. Rev., 49, 240 (1936).
+                        H. Margenau                          365
+nothing initially. For this purpose I send it through a Nicoll
+prism, an analyzer. If it passes through I have made the measure-
+ment, for I then know its plane of polarization to be the plane in
+which the Nicoll transmits. But if I station another analyzer
+immediately behind the first, with its axis parallel to that of the
+first, I am absolutely certain that it will go through the second
+Nicoll also. Hence the first measurement has produced an eigen-
+state with respect to the photon's state of polarization. The
+error lies in forgetting that I have not made a measurement until
+I have ascertained, by catching the photon on a plate, that it
+has gone through the Nicoll. The error is simple but essential,
+it springs from a hazy conception of what is meant by a measure-
+ment, and this, incidentally, is the cause of many similar dif-
+ficulties.
+   Occasionally one finds the position, already shown to be un-
+tenable in section III, that quantum mechanics deals with actual
+assemblages of similar systems, like a swarm of electrons, in some
+state. If a measurement is then performed, a sub-assemblage is
+selected from the former group of systems, this sub-assemblage
+comprising all those individuals, which have the measured prop-
+erty. It is this new, smaller assemblage to which the state func-
+tion after the measurement refers, and this is clearly in an eigen-
+state. So goes the contention. Three comments should be made
+with regard to it: (I) quantum mechanics is capable of dealing
+with single systems and is not limited to assemblages; (2) very
+few measurements have the property of selecting sub-assemblages,
+on which the above argument rests; (3) a state function in quan-
+tum mechanics refers always to the same number of individual
+systems, i.e., to the same assemblage. This argument is even
+weaker than the foregoing one and is indeed also less common.
+   The real backbone of the theory of acausal jumps is probably
+to be found, however, in a peculiar mathematical attitude which
+gives way to a tendency of securing physical counterparts to
+mathematical notions whether these counterparts fit into the
+physical scheme or not. To wit: the mathematical theory of
+quantum mechanics is full of operators, that is, to every physical
+observable there corresponds an operator. But very few of the
+366     Critical Points in Physical Theory
+available mathematical operators are accommodated in this way,
+are ennobled by being physically established. There is in par-
+ticular a very beautiful and general class of operator, the projec-
+tion operator (terminology comes from the theory of Hilbert
+space) which converts a function into what amounts to an eigen-
+state-function. This operator fairly cries for physical accom-
+modation. What is more suggestive than to associate it with
+measurement in general? This correlation, once tentatively
+made, finds support in the fact that there are, as we have seen,
+some measurements which, if they are wrongly interpreted as
+operations producing states, do produce known eigenstates.
+Hence the theory which we are critizing. We have here encoun-
+tered another example where a theoretical suggestion, supported
+by a few empirical instances, is blindly generalized into an all-
+embracing law.
+   The view that a state function jumps unpredictably during
+measurement may lead to monstrous consequences of which only
+one will be considered. Unless a measurement is cleanly sepa-
+rated from other physical operations-and this separation, as we
+have seen, involves a rejection of the jump theory-one is induced
+to reason as follows: a measurement is, after all, the result of an
+interaction between the system and some physical apparatus.
+If, then, this same physical process is allowed to take place but
+without the understanding that it shall constitute a measurement,
+the state function describing it will develop continuously in
+accordance with the Schr6dinger equation; if the process is re-
+garded as a measurement it will change abruptly and indeter-
+minately. Where is the line to be drawn? One might for
+instance be looking at a recording device and, while day-dream-
+ing, fail to take conscious cognizance of the registration. All
+physical processes, as the term is ordinarily interpreted, are the
+same as if he were taking conscious notice of the result, but in
+one case the state function develops continuously, in the other it
+changes abruptly. This conclusion is clearly not interpretable
+unless we are willing to say that the state function means knowl-
+edge. If the absurdity is justified, as is sometimes done, by the
+observation that processes in the human brain do matter and that
+                                H. Margenau                             367
+the ego is to be introduced into the scheme somewhere, the only
+significant reply is, we believe, that quantum mechanics does not
+as yet pretend to be a psychological theory. As such it would
+have to show a little more competence in the purely psychological
+realm. Again the solution of the apparent dilemma is perfectly
+simple: There are no acausal transitions of states; if I consider
+the experimental procedure as a measurement I should refrain
+from talking about it as though it were not. I must then stop
+my description of the state after taking cognizance of the meas-
+ured value. On the other hand, if the procedure is not a measure-
+ment I can certainly (at least in principle, actually the description
+it very difficult and usually impossible) continue to trace the state
+function as long as I desire in definite fashion; the registration
+which has occurred incidentally in this procedure does not, as
+we now know, determine the state function completely, nor could
+it in general have been predicted from a complete knowledge of
+the state function.
+   Of some interest in the present context is a mathematical
+process known as the "method of reduction of the wave packet."
+Its exact nature will not be discussed in great detail.13 Its usual
+application to systems containing two elementary particles makes
+use of the "jump theory" in this way. The state function of the
+pair is, by reason of a past interaction, such that it can not be
+written as a product of two functions each containing the coor-
+dinates of but one particle, but appears as a sum of such products.
+When a measurement on one particle is made, the state function
+corresponding to that particle is known: it represents the eigen-
+state belonging to the measured value. But this function
+appears in the original sum as multiplied by a coefficient which
+contains only the coordinates of the other particle, and which
+can therefore be regarded as its state function after the measure-
+ment. Thus, it is contended, a measurement causes the origi-
+nally mixed function to reduce itself suddenly to a simple form,
+thus "resolving the wave packet."
+   On the present view, no such event happens; it can only be
+  13See the appendix, II, for those parts which are here of interest.
+368      Critical Points in Physical Theory
+shown-and this is done in the appendix"3-that there exists a
+peculiar correlation between the probabilities for the various
+results of measurements. It is this: When suitable measurements
+on the two particles are made, the probability for the occurrence
+of a pair of values is zero unless thepair is the one which corresponds
+to the two eigenfunctions of the reduced package. The physical
+consequences are the same as on the customary view, but the
+result appears now in less metaphysical language. The method
+of the reduction of the wave package remains in good practical
+standing, only its interpretation         requires greater care.
+   It is hoped that the analysis, which is herewith concluded,
+may contribute toward a more precise understanding, a deeper
+appreciation of the internal logical consistency, and a clearer
+linguistic formulation, of recent physical theories.
+                           APPENDIX
+                        <
+   I. The state function of the electron, if it were known, could be
+expandedin terms of the eigenfunctionsktx,of any other operatorA,
+as follows:
+                                     F ax {x
+                                   = E                                (I)
+                                      x
+
+The ax are complex numbers,to be interpretedas follows: the square
+of the absolutevalue of any particularone, say ak,is equal to the prob-
+ability that a measurementof A yields the kt eigenvalueAk.
+   Supposenow that q is not known, but that all i ax 2 are known from
+experimentson A. The value of every axis then uncertainwith respect
+to a factor of absolute value i.    If we attempt to construct eq. (I) we
+can at best only get
+
+                           ?' =       ax ei x x                       (2)
+
+with all the 6x'sunknown,except that they must be real.
+  The important point is that (I) predicts a different probability
+distribution for another observable with operator B, than does (2).
+For if x, is the sequence of eigenfunctionsbelonging to B, then the
+probability of measuring the eigenvalue Bk when the electron is in the
+state 0 will be
+
+                    j 4fXkdr = Eax
+                                 f              txxkd                 (3)
+                                H. Margenau                                 369
+But when the system is in the state 4' which is experimentally indis-
+tinguishable from ?, this probability is
+                                   2
+                       f ?     'dr =             axe'X          k
+                                                               ^xdr          (4)
+
+(3) and (4) are equal only under two conditions:
+   (a) when all 6x are equal
+   (b) when the sum in (4) reduces to a single term.
+Case (a) is an accident which is not under our control. Case (b) can
+arise in one of two ways: Either the integral fJxxkdr is zero for all
+but one value of X. Then xk is essentially the same as one of the ,'s,
+and we are measuring the observable A over again. It is small wonder
+that we can predict what we already know! Or every ax is zero except
+one. This is the situation discussed in the text. It means that the
+first operator A was one for which the measurements did not spread.
+   II. Let the state function after the interaction be
+
+                              I(x1X2) =    E vx(X2) ux(xl)                   (5)
+                                            X
+
+Here xi and x2 denote the coordinates of the two particles, respectively;
+ux is an eigenfunction belonging to the eigenvalue Ax of the operator A;
+vx is (a constant times) an eigenfunction belonging to the eigenvalue Bx
+of the operator B. A "biorthogonal" development like (S) is sometimes
+possible,14it has been made the basis of certain metaphysical conclusions
+by Einstein, Rosen and Podolskil5 which we shall not discuss further.'2
+We are here not interested in other cases. The probability that a
+simultaneous measurement of A on particle (I) and of B on particle (2)
+shall yield the pair of values Ai and Bj is, by the principles of quantum
+mechanics,
+
+                             Jj | (xlx2) ui(xl) V*(X2)dxldx2
+               =s       f  v
+                        |X(X2)         v*(X2)dx2 f       ux(xi)u*(xi) dxl
+                                                 2
+                 = ]      (X)
+                         vi(x2          2) dx2       = Caij,
+
+  14Cf.
+        Schr6dinger, Proc. Camb. Phil. Soc., 31, .55, (I935).
+  '6 Einstein, Rosen, and Podolski, Phys. Rev., 47, 777 (I935).
+370         Critical Points in Physical Theory
+where c is a constant and aij the Kronecker 8-function. We are sup-
+posing for simplicity that all states occurring here are non-degenerate.
+It is thus seen that the probability of measuring Ai and Bj is zero unless
+i and j characterize two functions paired in (5). This is all that matters
+in any application of the method of resolving the wave packet. The
+conclusion that the state function makes an abrupt transition is quite
+irrelevant and avoidable.
+                                     REFERENCES
+A. Einstein, B. Podolski, and N. Rosen, Phys. Rev., 47, 777 (I935).
+E. C. Kemble, Phys. Rev., 47, 973 (I935).
+A. E. Ruark, Phys. Rev., 48, 466 (I935).
+N. Bohr, Phys. Rev., 48, 696 (I935).
+E. Schr6dinger, Naturwissenschaften, 23, 807 (I935).
+E. Schr6dinger, Naturwissenschaften, 23, 823 (I935).
+E. Schrodinger, Naturwissenschaften, 23, 844 (1935).
+E. Schr6dinger,Proc. Camb.Phil. Soc., 31, 555 (I935).
+H. Margenau, Phys. Rev., 49, 240 (1936).
+W. H. Furry, Phys. Rev., 49, 393 (1936).
+
+   Tale University,
+   New Haven, Conn.
+

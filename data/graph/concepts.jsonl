@@ -1,0 +1,38 @@
+{"id": "ip:concept:free_will", "label": "Free Will", "category": "concept", "themes": ["free_will", "determinism", "mind"]}
+{"id": "ip:concept:determinism", "label": "Determinism", "category": "concept", "themes": ["determinism", "causality", "free_will"]}
+{"id": "ip:concept:indeterminism", "label": "Indeterminism", "category": "concept", "themes": ["chance", "quantum", "free_will"]}
+{"id": "ip:concept:causality", "label": "Causality", "category": "concept", "themes": ["causality", "determinism"]}
+{"id": "ip:concept:entropy", "label": "Entropy", "category": "concept", "themes": ["entropy", "information", "life"]}
+{"id": "ip:concept:information", "label": "Information", "category": "concept", "themes": ["information", "knowledge"]}
+{"id": "ip:concept:consciousness", "label": "Consciousness", "category": "concept", "themes": ["mind"]}
+{"id": "ip:concept:qualia", "label": "Qualia", "category": "concept", "themes": ["mind"]}
+{"id": "ip:concept:quantum_mechanics", "label": "Quantum Mechanics", "category": "concept", "themes": ["quantum"]}
+{"id": "ip:concept:wave_function", "label": "Wave Function", "category": "concept", "themes": ["quantum"]}
+{"id": "ip:concept:entanglement", "label": "Entanglement", "category": "concept", "themes": ["quantum"]}
+{"id": "ip:concept:measurement", "label": "Measurement", "category": "concept", "themes": ["quantum"]}
+{"id": "ip:concept:superposition", "label": "Superposition", "category": "concept", "themes": ["quantum"]}
+{"id": "ip:concept:probability", "label": "Probability", "category": "concept", "themes": ["chance", "quantum"]}
+{"id": "ip:concept:randomness", "label": "Randomness", "category": "concept", "themes": ["chance", "determinism"]}
+{"id": "ip:concept:chance", "label": "Chance", "category": "concept", "themes": ["chance"]}
+{"id": "ip:concept:knowledge", "label": "Knowledge", "category": "concept", "themes": ["knowledge"]}
+{"id": "ip:concept:belief", "label": "Belief", "category": "concept", "themes": ["knowledge"]}
+{"id": "ip:concept:truth", "label": "Truth", "category": "concept", "themes": ["knowledge"]}
+{"id": "ip:concept:mind", "label": "Mind", "category": "concept", "themes": ["mind"]}
+{"id": "ip:concept:mind_body", "label": "Mind Body", "category": "concept", "themes": ["mind"]}
+{"id": "ip:concept:agency", "label": "Agency", "category": "concept", "themes": ["free_will", "mind"]}
+{"id": "ip:concept:responsibility", "label": "Responsibility", "category": "concept", "themes": ["free_will", "value"]}
+{"id": "ip:concept:compatibilism", "label": "Compatibilism", "category": "school", "themes": ["free_will", "determinism"]}
+{"id": "ip:concept:libertarianism", "label": "Libertarianism", "category": "school", "themes": ["free_will", "determinism"]}
+{"id": "ip:concept:incompatibilism", "label": "Incompatibilism", "category": "school", "themes": ["free_will", "determinism"]}
+{"id": "ip:concept:arrow_of_time", "label": "Arrow Of Time", "category": "concept", "themes": ["entropy", "chance"]}
+{"id": "ip:concept:second_law", "label": "Second Law", "category": "concept", "themes": ["entropy", "information"]}
+{"id": "ip:concept:information_theory", "label": "Information Theory", "category": "concept", "themes": ["information"]}
+{"id": "ip:concept:computation", "label": "Computation", "category": "concept", "themes": ["information", "mind"]}
+{"id": "ip:concept:life", "label": "Life", "category": "concept", "themes": ["life"]}
+{"id": "ip:concept:evolution", "label": "Evolution", "category": "concept", "themes": ["life"]}
+{"id": "ip:concept:value", "label": "Value", "category": "concept", "themes": ["value"]}
+{"id": "ip:concept:morality", "label": "Morality", "category": "concept", "themes": ["value"]}
+{"id": "ip:concept:free_will_problem", "label": "Free Will Problem", "category": "problem", "themes": ["free_will"]}
+{"id": "ip:concept:measurement_problem", "label": "Measurement Problem", "category": "problem", "themes": ["quantum"]}
+{"id": "ip:concept:mind_body_problem", "label": "Mind Body Problem", "category": "problem", "themes": ["mind"]}
+{"id": "ip:concept:hard_problem", "label": "Hard Problem", "category": "problem", "themes": ["mind"]}

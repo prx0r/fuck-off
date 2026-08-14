@@ -1,0 +1,399 @@
+ DIE NATLIRWISSENSCHAFTEN
+23. Jahrgang                                                        6, Dezember 1935                                                         Heft 49
+
+
+                             Die gegenw/irtige Situation in der Quantenmechanik,
+                                                         Y o n E. SCHRODI:NG:ER, O x f o r d .
+                                                                    (Fortsetztmgl,)
+                            Inhaltsi~ber sicht.                                   den n a i v e n Realismus fahren und stfitzt sich d i r e k t
+    § 6. Der bewul3te Wechsel des erkenntnistheoreti-                             auf die unbezweifelbare These, dab wirlclieh (fiir
+         schen Standpunktes.                                                      den Physiker) l e t z t e n E n d e s n u r die B e o b a c h t u n g ,
+    § 7- Die ~p-Funktion als IKatatog der Erwartung.                              die Messung ist. D a n n h a t h i n f o r t all unser
+    § 8. Theorie des Messens, erster Tell.                                        physikalisches D e n k e n als einzige Basis und als
+    § 9. Die ~o-Funktion als Beschreibung des Zu-
+         standes.                                                                 einzigen Gegenstand die Ergebnisse prinzipiett
+   § IO, Theorie des Messens, zweiter Tell.                                       ausfiihrbarer Messungen, denn auf eine andere
+                                                                                  A r t v o n W i r k l i c h k e i t oder auf ein Modell soil unser
+§ 6. Der bewuflte Wechsel des erkenntnistheoretischen                             D e n k e n sich ja j e t z t ausdrfieldich nieht m e h r be-
+                   Standpunkts.                                                   ziehen. Alle Zahlen, die in unseren physikalischen
+       I m v i e r t e n A b s c h n i t t h a t t e n wir gesehen, dab           B e r e c h n u n g e n v o r k o m m e n , miissen ffir Niat3zahlen
+es nicht m6glich ist, die Modelle g l a t t zu fiber-                             erklttrt werden. D a wir a b e r n i c h t frisch auf die
+n e h m e n nnd den jeweils u n b e k a n n t e n oder nicht                      W e l t k o m m e n und unsere Wissenschaft neu auf-
+genau b e k a n n t e n V a r i a b l e n doch a u c h b e s t i m m t e          z u b a u e n beginnen, sondern einen ganz b e s t i m m t e n
+W e r t e zuznschreiben, die wir bloB nicht k e n n e n .                         R e e h e n a p p a r a t in G e b r a u c h haben, y o n d e m wir
+I m § 5 sahen wir, dab die U n b e s t i m m t h e i t auch                       uns seit den grogen E r f o l g e n der Q.M. weniger d e n n
+n i c h t eine wirkliche V e r w a s c h e n h e i t ist, d e n n es              je t r e n n e n m 6 e h t e n , sehen wir uns gezwungen, v o m
+gibt jedenfalls Fglle, wo eine leicht ausfiihrbare                                Schreibtisch aus zu diktieren, welche Niessungen
+B e o b a c h t u n g die fehlende K e n n t n i s verschafft.                    prinzipiell m6glich sind, das heiBt m6glich sein
+W'as bleibt n u n iibrig ? Aus diesem sehr schwierigen                            mfissen, u m unser R e c h e n s c h e m a ausreichend zu
+D i l e m m a hilft sich oder uns die herrschende Lehr-                           stfitzen. Dieses e r l a u b t einen seharfen W e r t ffir
+m e i n u n g d u t c h Z u f l u c h t znr E r k e n n t n i s t h e o r i e .   jede Modellvariable einzetn (ja sogar ffir einen
+Man b e d e u t e t nns, dab kein U n t e r s c h i e d zu                        ,,halben Satz"), also muB jede einzeln beliebig
+m a c h e n sei zwischen d e m wirkliehen Z u s t a n d des                       genau meBbar sein. W i r dfirfen uns nicht mit
+N a t u r o b j e k t s n n d dem, was ich darfiber weiB,                         weniger begnfigen, d e n n wir h a b e n unsere n a i v -
+oder besser vielleicht dem, was ich darfiber wissen                               realistisehe U n s c h u l d verloren. W i r h a b e n nichts
+kann, w e n n ieh mir Mfihe gebe. Wirklich - - so sagt                            Ms unser R e c h e n s c h e m a , u m anzugeben, wo die
+m a n - - sind j a eigentlich n u r W a h r n e h m u n g ,                       N a t u r die I g n o r a b i m u s - G r e n z e zieht, d . h. was
+Beobachtung, Messung. H a b e ich m i r d u t c h sie                             eine bestmSgliche K e n n t n i s v o m O b j e k t ist. U n d
+in e i n e m gegebenen A u g e n b l i c k die bestm6gliche                       k S n n t e n wit das nicht, d a n n wfirde unsere MeB-
+K e n n t n i s v o m Z u s t a n d e des physikalischen Ob-                      wirklichkeit doch e t w a sehr y o r e FleiB oder der
+jekts verschafft, die naturgesetzlich e r l a n g b a r ist,                      F a u l h e i t des E x p e r i m e n t a t o r s abhangen, wie viel
+so d a r l ich jede darfiber hinausgehende F r a g e naeh                         Mfihe er d a r a n wendet, sich zu informieren. ~Vir
+d e m ,,wirklichen Z u s t a n d " als gegenstandslos ab-                         miissen ihm also sehon sagen, wie weir er k o m m e n
+weisen, sofern ich iiberzeugt bin, dab keine weitere                              k6nnte, w e n n er n u t geschickt genug wttre. Sonst
+Beobachtung meine Kenntnis davon erweitern                                        w~re ernstlich zu beffirchten, dab es din±, wo wir
+k a n n - - wenigstens nicht, ohne sie in anderer                                 das W e i t e r f r a g e n verbieten, wohl doeh noch einiges
+H i n s i c h t u m ebensoviei zu schm~lern (n~mlich                              Wissenswerte zu fragen gibt.
+d u t c h VerAnderung des Zustandes, s. w. u.).
+                                                                                  § 7. Die y~-Funktion als Katalog der Erwartung.
+       Das wirft n u n einiges L i c h t auf die Genesis der
+                                                                                        I n tier D a r l e g u n g der offiziellen L e h r e fort-
+B e h a u p t u n g , die ieh a m E n d e y o n § 2 als etwas
+                                                                                  fahrend, wenden w i t uns der sehon oben (§ 5) er-
+sehr w e i t g e h e n d bezeichnete: dab alle Modell-
+                                                                                  w ~ h n t e n ~0-Funktion zu. Sie ist j e t z t das I n s t r u -
+gr6gen prinzipiell m e g b a r sind. Man k a n n dieses
+                                                                                  m e n t zur Voranssage der W a h r s c h e i n l i e h k e i t y o n
+Glaubenssatzes k a u m entraten, w e n n m a n sich
+                                                                                  MaBzahlen. I n ihr ist die jeweils erreichte S u m m e
+g e z w u n g e n sieht, den eben erw~ihnten philo-
+                                                                                  theoretisch begrfindeter Z u k u n f t s e r w a r t u n g ver-
+sophischen Grundsatz, d e m als o b e r s t e n Schirm-
+                                                                                  k6rpert, gIeichsam w i e i n einem Katalog nieder-
+h e r r n aller E m p i r i c kein Verstfindiger die A c h t u n g
+                                                                                  gelegt. Sie ist die Beziehungs- und B e d i n g t h e i t s -
+v e r s a g e n wird, als D i k t a t o r zu Hilfe zu rufen in den
+                                                                                  brficke zwisehen l~essungen und 3/fessungen, wie
+N S t e n physikalischer 3£ethodik.
+                                                                                  es in d e r klassischen Theorie das l~0detl und sein
+       Die W i r k l i c h k e i t w i d e r s t r e b t der gedankliehen
+                                                                                  jeweiliger Z u s t a n d war. N i t diesen h a t die ~0-Funk-
+N a e h b i l d u n g d u t c h ein l~Iodell. Man l~gt d a r u m
+                                                                                  t i o n a u c h sonst viet gemein. Sie wird, i m Prinzip,
+    1 Vgt. Heft 48, S. 8o 7.                                                      e i n d e u t i g festgelegt d u r c h eine endliche ZahI
+     NW, I935.                                                                                                                         53
+824                    SCltR6DING:E.R: Die gegenw~rtige Situation i~ der Quantenmechanik.                  [ Die Natur-
+                                                                                                           [wissenschaften
+passend ausgew~hlter Messungen am Objekt, halb                 nicht yon vornherein b e k a n n t ist. Wir formulieren
+soviele als in der ldassischen Theorie n6tig waren.            das Wesentliche folgendermal3en:
+So. wird der Katalog der Erwartungen: erstmalig                     Die iolanm~fiig herbeige]i~hrte Wechselwirtcung
+angelegt. Von da ver~ndert er sich mit der Zeit,               zweier Systeme (Mefiob]ekt und Meflinstrument)
+genau wie der Zustand des Modells in der klassi-               heiflt eine Messung an dem ersten System, wenn sich
+schen Theorie, zwangl~ufig und eindeutig (,,kausal")           ein direkt sinnen/dilliges variables Merkmal des
+- - das Abrollen der ~ - F u n k t i o n wird beherrscht       zweiten (Zeigvrstellung) bei so]ortiger Wiederholung
+durch eine partielle Differentialgleichung .(erster            des Vorganges (an demselben Meflob]ekt, das in-
+Ordnung in der Zeit und aufgel6st nach d,q//d t).              zwischen lceinen anderweitigen Ein]li~ssen ausgesetzt
+Das entspricht der ungest6rten Bewegung des                    worden sein dar]) stets innerhalb gewisser J~¥hler-
+Modells in der klassischen Theorie. Aber das geht              grenzen rel~roduziert.
+n u r so lange, bis m a n wieder irgendeine Messung                 Dieser Erkl~rung wird noch manches hinzu-
+vornimmt. ]3el jeder Messung ist m a n gen6tigt,               zuffigen sein, sie ist keine tadellose Definition.
+der ~0-Funktion ( = dem Voraussagenkatalog) eine               Empirie ist komplizierter als 5{athematik u n d laBt
+eigenartige, etwas pl6tzliche Ver~nderung zu-                  sich nieht so leicht in glatte S~tze einfangen.
+zuschreiben, die yon der geJundenen Maflzahl ab-                     Vor der ersten Messung k a n n ]i~r sie eine be-
+h~ngt und sich d a t u m nicht vorhersehen 14"flt;             liebige quantentheoretische Voraussage bestanden
+woraus allein schon dentlich ist, dab diese zweite             haben. Nach ihr lautet die Voraussage ]eden]alls:
+Art yon Ver~nderung der ~0-Funktion mit ihrem                  innerhalb der Fehlergrenzen wieder derselbe Weft.
+regelm~Bigen Abrollen zwischen zwei Messungen                  Der Voranssagenkatalog ( = die V-Funktion) wird
+nicht das mindeste zu t u n hat. Die abrupte Ver-              also durch die Messung ver~ndert in bezug auf die
+gnderung dutch die Messung h~ngt eng mit den                   Variable, die wir messen. W e n n das MeBverfahren
+i m § 5 besprochenen Dingen zusammen n n d wird                schon yon frtiher her als verli~[31ieh b e k a n n t ist,
+uns noeh eingehend beschgftigen, sie ist der inter-            d a n n rednziert gleich die erste Messung die theo-
+essanteste P u n k t der ganzen Theorie. Es ist genau          retische Erwartung innerhalb der Fehlergrenzen
+der Punkt, der den ]3ruch mit dem naiven Realis-               auf den gefundenen Wert selbst, welche Erwartung
+mus verlangt. Aus diesem Grund k a n n m a n die               auch i m m e r vorher bestanden haben mag. Das ist
+~0-Funktion nicht direkt a n die Stelle des Modells            die typische abrnpte Ver~nderung der ~ - F u n k t i o n
+oder des Realdings setzen. U n d zwar nieht etwa               bei der Messung, wovon oben die Rede war. Abet
+well m a n einem Realding oder einem Modell nicht              nicht n u t ftir die gemessene Variable selbst ~ndert
+abrnpte nnvorhergesehene ;4nderungen zumuten                   sich im allgemeinen der Erwartungskatalog in
+dtirfte, sondern well yore realistischen S t a n d p u n k t   unvorhergesehener Weise, sondern auch ffir andere,
+die Beobachtnng ein Naturvorgang ist wie jeder                 insbesondere ffir ihre ,,kanoniseh konjugierte".
+andere und nicht per se eine Unterbrechung des                 W e n n etwa vorher eine ziemlich scharfe Vorher-
+regelmggigen Naturlaufs hervorrufen darf.                      sage fiir den I m f u l s eines Teilchens vorlag u n d
+                                                               man miBt jetzt seinen Oat genauer als damit, naeh
+        § 8. Theorie des Messens, erster Tell.                 Satz A yon § 2, vertr~glich ist, so muB das die
+     Die Ablehnung des Realismus hat logische                  Impulsv0rhersage modifizieren. Der quanten-
+Konsequenzen. Eine Variable hat im allgemeinen                 mechanische Rechenapparat besorgt das ~ibrigens
+keinen bestimmten Wert, bevor ieh ihn messe:                   ganz yon selbst: es gibt gar keine ~-Funktion, die,
+d a n n heiBt, ihn messen, nicht, den Wert ermitteln,          wenn m a n vereinbarungsgem~13 die Erwartungen
+den sie hat. Was heiBt es aber dann? Es muB doeh               an ihr abliest, dem Satz A widersprechen wiirde.
+ein Kriterium daffir geben, ob eine Messung richtig                 Da sich der Erwartungskatalog bei der Messung
+oder falsch, eine Methode gut oder schlecht, genau             radikal vergndert, ist das Objekt d a n n nicht mehr
+oder nngenan ist - - ob sie ~iberhaupt den Namen               geeignet, n m die statistischen Voraussagen, die
+MeBverfahren verdient. Jedes tterumspielen mit                 vorher gemacht waren, in ihrer ganzen Ausdeh-
+einem Zeigerinstrument in der N~he eines anderen               n n n g zu prfifen; am allerwenigsten ffir die ge-
+KSrpers, wobei m a n dann irgendeinmal eine Ab-                messene Variable selbst, denn fiir die wird ja jetzt
+lesung macht, k a n n doch nicht eine 2¢Iessung an             immer wieder (nahezu) derselbe Wert kommen.
+diesem K6rper g e n a n n t werden. Nun, es ist ziem-          Das ist der Grund ffir die Vorschrift, die schon in
+lich ldar; wenn nicht die Wirktichkeit den Mel3wert,           § 2 gegeben wurde: m a n kann die Wahrscheinlich-
+so muB wenigstens der MeBwert die WirMichkeit                  keitsvorhersage zwar schon vollinhaltlich prtifen,
+bestimmen, er mnB nach der Messung wirklich                    aber m a n muB dazu den ganzen Versueh ab ovo
+vorhanden sein in dem Sinne, der allein noch an-               wiederholen. Man muB das MeBobjekt (oder ein
+erkannt wird. Das heiBt, das verlangte Kriterium               ibm gleiches) wieder genan so vorbehandeln, wie
+kann bloB dieses sein: bei Wiederholung der                    das erstemal, damit wieder derselbe Erwartungs-
+Messung muB wieder dasselbe herauskommen.                      katalog ( = ~0-Funktion) gelte wie vor der ersten
+Dutch 6ftere ~WiederhoIung k a n n ich die Genauig-            Messung. D a n n ,,wiederholt" m a n sie. (Dieses
+keit des Verfahrens prtifen und zeigen, dab ich riicht         Wiederholen bedeutet also jetzt ganz etwas an-
+b loB spiele. Es ist sympathisch, dab sich diese               deres als friiher!). Alles das mul3 m a n nicht zwei-
+Anweisung genau mit dem Vorgehen des Experi-                   mal, sondern sehr oft tun. D a n n wird sich-die voraus-
+mentators deckt, dem der ,,wahre W'ert" ja anch                gesagte Statistik einstetlen --~ das ist die Meinung.
+  Heft 49. ]           SCHR6,DINGER: Die gegenw/irtige Situation in der Quantenmechanik.                             825
+6. i2. i935
+
+      Man beachte den Unterschied zwischen den                  50% einer vollstitndigen t3eschreibung. Vom
+ Fehlergrenzen u n d der Fehterstatistik der Messung            neuen S t a n d p u n k t ans muB er vollst~ndig sein
+ einerseits u n d der theoretisch vorausgesagten                aus Grfinden, die schon am Ende yon § 6 gestrelft
+ Statistik anderseits. Sie haben nichts miteinander             wurden. E s muB unm6glich seth, ibm neue rich-
+ zu schaffen. Sie stellen sieh ein bet den zwei ganz            tige Aussagen hinzuzufiigen, ohne ihn sonst zu
+ verschiedenen Arten von Wiederholung, yon denen                ver~ndern; sonst h a t m a n nicht das Recht, alle
+ soeben die Rede war.                                           Fragen, die fiber ihn hinausgehen, als gegenstands-
+      ttier ergibt sich die Gelegenheit, die oben ver-          los zu bezeichnen.
+ suchte Umgrenzung des Messens noch etwas zu                        Daraus folgt, dab zwei verschiedene Kataloge,
+ vertiefen. Es gibt Meginstrumente, die in der                  die ffir dasselbe System unter verschiedenen Um-
+ StelIung stehen bleiben, in der die Messung sie ge-            st~nden oder zu verschiedenen Zeiten gelten, sieh
+ lassen. Auch k6nnte der Zeiger dutch einen Unfall              woht teilweise fiberdecken k6nnen, aber nie so,
+ stecken bleiben. Man wfirde d a n n immer wie-                 dab der eine ganz in dem anderen enthalten ist.
+ der genau dieselbe Ablesung machen, und nach                   Denn sonst w~re er ether Ergfinzung dutch weitere
+ unserer Amveisung wXre das eine ganz besonders                 richtige Aussagen I~hig, n~mlich durch diejenigen,
+ genaue Messung. Das ist es auch, bloB nicht am                 u m die der andere ihn fibertrifft. - - Die mathe-
+ Objekt, sondern am I n s t r u m e n t selbstl I n der         matische Struktur der Theorie genfigt dieser
+ Tat fehlt in unserer Anweisung noch ein wichtiger              Forderung antomatisch. Es gibt keine V-Fnnkfion,
+ Punkt, der aber nicht gut vorher gegeben werden                welche genau dieselben Aussagen wiedergibt wie
+ konnte, n~mlieh was eigentlich den Unterschied                 eine andere und noch einige mehr.
+ ausmacht zwischen dem Objekt und dem In-                           Daher mfissen, wenn die v - F u n k t i o n eines
+ strument (dab an dem letzteren die Ablesung ge-                Systems sich ver~ndert, set es yon selbst, set es
+ maeht wird, ist mehr eine AuBerlichkeit). W i t                dutch Messungen, in der neuen F u n k t i o n stets auch
+ sahen soeben, das I n s t r u m e n t muB u n t e r Um-        Aussagen fehlen, die in der frfiheren enthalten
+ st~nden, wenn n6tig, wleder in seinen neutralen                waren. I m Katalog k6nnen nicht bloB Neu-
+ Anfangszustand zurfickversetzt werden, bevor                   eintragungen, es mtissen auch Streichungen statt-
+ m a n eine I~ontrollmessung macht: Dem Experi-                 gefunden haben. N u n k6nnen Kenntnisse wohl
+ mentator ist das wohlbekannt. Theoretisch erfaBt               erworben, abet nicht eingebi~fi~ werden. Die Strei-
+ m a n die Sache am besten, indem m a n vorsehreibt,            ehungen heiBen also, dab die vorhin richtigen Aus-
+ dab grunds~tzlich das lVIeginstrument vor jeder                sagen jetzt fMsch geworden stud. Eine richtige
+N[essung der gleiehen Vorbehandlung zu unter-                   Aussage kann bloB falsch werden, wean sich der
+ werfen ist, so dab //~r ea jedesmal derselbe Er-               Gegenstand ver~ndert, auf den sie sich bezieht.
+wartungskatalog ( = v-Funktion) gilt, wenn es an                Ich halte es flit einwandfrei, diese SchluBfolgerung
+ das Objekt herangebracht wird. Am Objekt da-                   so auszudrficken:
+ gegen ist geradezu jeder Eingriff verboten, wenn                   Satz I : Wenn verschiedene V-Funkt,ionen vor-
+eine Kon~rollmessung gemacht werden soil, eine                  liegen, beJindet sich dab Syste.m in verschiedenen
+,,Wiederholung erster Art" (die zur IZehlerstatistik            Zust~'nden.
+ffihrt). Das ist der charakteristische Unterschied                  W e n n m a n bloB von Systemen spricht, ffir die
+ zwischen Objekt und I n s t r u m e n t . Ffir eine            fiberhauPt eine V-Funktion vorliegt, so lautet die
+ ,,Wiederholung zweiter Art" (welche zur Prfifung               Umkehrung dieses Satzes:
+der Quantenvorhersage dient) verschwindet er.                       Satz 2 : B e i gleicher V-2'unktion beJindet sich das
+Da ist der Untersehied zwischen den beiden auch                 Systeqn $m gleichen Zustand.
+wirklich sehr unbedeutend.                                          Diese Umkehrung folgt nicht aus Satz i,
+      W i t entnehmen daraus noeh, dab m a n bet ether          sondern ohne Verwendung desselben direkt aus
+zweiten t%.Iessung aueh ein anderes gleichgebautes              der Vollst~ndigkeit oder MaximMit~t. Wer bei
+u n d gleichvorbereitetes I n s t r u m e n t verwenden darf,   gleichern Erwartungskatalog noch eine Verschieden-
+es m u g nicht notwendig dassetbe seth; m a n t u t das         heir Ifir m6gtich hair, wfirde zugeben, dab jener
+ja auch zuweilen, zur Kontrolle des ersten. Ja es               nicht fiber aIle bereehtigten Fragen Auskunft
+k a n n vorkommen, dab zwei ganz verschieden                    gibt. - - Der Spraehgebrauch fast aller Autoren
+gebaute Instrumente zueinander in der Beziehung                 heist obige zwei S~tze gut. Sie konstruieren natfir-
+stehen, daB, wenn m a n mit ihnen nacheinander                  lich eine Art neuer Realit~t, ich glaube, auI v611ig
+mil3t (Wiederholung erster Art!) ihre beiden An-                legitime Art. Sie sind fibrigens nicht trivial
+zeigen einander ein-eindeutig zugeordnet sind. Sie              tautologisch, nicht bloBe Worterkl~trungen ffir
+messen d a n n am Objekt wesentlich dieselbe                    ,,Zustand". Ohne die Voraussetzung der Maximali-
+Variable - - d. h. dieselbe bet passender Beschrif-             t~t des Erwartungskatatoges k6nnte die Ver-
+t u n g der Skalen.                                             ~nderung der v-Funktion dureh bloges Ein-
+                                                                holen neuer Informationen bewirkt sein.
+  9. Die v-l~unlvtion al8 Beschreibung des Zustandes.               %Vir miissen sogar noch einem Einwand gegen
+    Die Ablehnung des Re a!ismus l e g t auch Ver-              die Ableitung des Satzes I begegnen. ?vlan k 6 n n t e
+pflichtungen auf. Vom S t a n d p u n k t des klassisehen       sagen, jede einzelne yon den Aussagen oder Kennt-
+Modells ist der jeweilige Aussageinhalt der V-Funk-             nissen, um die es sieh da handelt, ist doch eine
+tion sehr unvollst~ndig, er umfaBt n u t etwa                   Wahrscheinlichkeitsaussage, der die Kategorie
+                                                                                                          53*
+:826                   SCHRODINGER: Die      gegenw~irtige Situation in der Quantenmechanik.              [ Die Natur-
+                                                                                                          [wissensehaften
+
+vichtig oder/alsch gar nicht in bezug auf den Einzel-          K6rper zusammen, d. h. wenn m a n sich denkt,
+.IM1 zukommt, sondern in bezug auf ein Kollektiv,              dab nicht jeder yon ihnen einzeln, sondern beide
+~tas zustande kommt, indem man das System                      zusammen den Gegenstand unseres Interesses,
+tausendmal in derselben Weise pr~pariert (urn als-             unserer Fragen an die Zukunft bilden 1.
+dann dieselbe Messung folgen zu lassen; vgI. § 8).                 Aber das Umgekehrte ist nicht wahr. 31aximate
+ Das stimmt, aber wir miissen ja Mle Mitglieder                Kenntnis yon ei~em Gesamtsystem schliefit nicht
+dieses Kollektivs als idenfisch gelagert erkl~ren,             notwendig maximale Kenntnis aUer seiner Teile ein,
+weil ffir jedes dieselbe y~-Funktion~ derselbe Aus-            auch dann nicht, wenn dieselben v611ig voneinander
+sagenkatalog gilt und wir nicht Untersehiede zu-               abgetrennt shwl und einander zur Zeit gar nicht be-
+geben diirfen, die im Katalog nicht zum Ausdruck               einflussen. Es kann n~mlich sein, dab ein Teil
+ kommen (vgl. die Begriindung des Satzes 2). Das               dessen, was man weil3, sich auf Beziehungen oder
+K o l l e k t i v besteht also aus identischen Einzelf~llen.   Bedingtheiten zwischen den zwei Teilsystemen
+~renn eine Aussage flit es IMsch wird, muB auch                bezieht (wit wollen uns auf zwei beschr~nken),
+der EinzeIfall sich ge~ndert haben, sonst w~re                 folgendermaBen: wenn eine bestimmte 2¢fessung
+auch das Kollektiv wieder das gleiche.                         am ersten System dieses t£rgebnis hat, so gilt Iiir
+                                                               eine bestimmte Messung am zweiten diese und
+       .~ 10. Theorie des Messens, zweiter Teit.               diese Erwartungsstatistik; h a t aber die betref-
+     Nun war vorhin gesagt (§ 7) und erl~utert                 fende Messung am ersten System ]enes Ergebnis,
+(§ 8) worden, dab jede Messung das Gesetz, das                 so gilt ffir die am. zweiten eine gewisse andere Er-
+die stetige zeitliehe Ver~nderung der ~-Funktion               wartung; t r i t t am ersten ein drittes Ergebnis auf,
+sonst beherrscht, suspendiert und an ihr eine ganz             so gilt wieder eine andere E r w a r t u n g am zweiten;
+andere Ver~nderung hervorbringt, die yon keinem                und so welter, in der Art 'einer vollst~ndigen Dis-
+Gesetz beherrscht, sondern v o m Resultat der                  junktion aller Magzahlen, welche die eine gerade
+lV~essung diktiert wird. W~hrend einer Messung                 ins Auge gefaf3te Messung am ersten System
+k6nnen aber nicht andere Naturgesetze gelten als               iiberhaupt liefern kann. SolchermaBen kann irgend-
+sonst, denn sie ist, objektiv betrachtet, eii1 Natur-          ein Mef3prozel3 oder, was dasselbe ist, irgendeine
+vorgang wie jeder andere, sie kann den regel-                  Variable des zweiten Systems an den noeh nicht
+m~Bigen Abtauf der N a t u r nicht unterbrechen.               bekannten W e r t irgendeiner Variablen des ersten
+D a sie den der F-Funktion unterbricht, kann die               geknfipft sere, und natfirlich aueh umgekehrt.
+letztere - - so h a t t e n wir in § 7 gesagt - - nicht        Wenn das der Fall ist, wenn solche Konditional-
+als versuchsweises Abbild einer objektiven Wirk-               s~tze im Gesamtkatalog stehen, dann kann er be-
+lichkeit gelten wie das ldassisehe Modelt. Aber im             zi~glich der Einzelsysteme gar nicht maximal sein.
+letzten Abschnitt h a t sich nun doeh so etwas                 Denn der Inhalt yon zwei maximalen Einzel-
+herauskristallisiert.                                          katalogen wfirde ftir sich schon ausreichen zu
+     Ich versuche nochmals, schlagwortartig poin-              einem maximalen Gesamtkatalog, es k6nnten
+fiert, zu kontrastieren: I. Das Springen des Er-               nicht noch die Konditionals~tze hinzutreten.
+wartungskataloges bei der IVlessung ist unvermeid-                 Diese bedingten Vorhersagen sind fibrigens
+ lieh, denn wenn das N[essen irgendeinen Sinn be-              nicht etwas, das hier pl6tzlich neu hereingeschneit
+halten soll, so muff nach einer guten Messung                  kommt. Es gibt sie in jedem ErwartungskatMog.
+der Meflwert gelten. 2. Die sprunghafte Xnderung               XYenn man die ~-Funktion kennt und eine be-
+wird sicher nicht yon dem sonst geltenden zwang-               stimmte 5~essung m a c h t und die h a t ein bestimm-
+ l~ufigen Gesetz beherrscht, denn. sie h~tngt v o m            tes Ergebnis, so kennt man wieder die ~v-Funktion,
+ MeBwert ab, der unvorhergehen ist. 3. Die Xnde-               voilk tout. 13lob im vorliegenden Fall, weil das
+rung schliel3t (wegen der ,,NIaximalit~t") bestimmt            Gesamtsystem aus zwei v611ig getrennten Teilen
+ auch Verlust an Kenntnis ein, Kenntnis ist un-                bestehen soll, hebt sich die Sache als etwas Be-
+veflierbar, also muff der Gegenstand sich ver-                 sonderes ab. Denn dadurch b e k o m m t es einen
+ ~ndern - - auch bei den sprunghaften Xnderungen               Sinn, zu unterscheiden zwischen Messungen an dem
+ und bei ihnen auch in unvorhergesehener Weise,                einen und Messungen an dem anderen Teilsystem.
+ anders als sonst.                                             Das verschafft jedem y o n ihnen die volle Anwart-
+     Wie reimt sich das? Die Dinge liegen nicht ganz           schaft auf einen privaten Maximalkatalog; ander-
+ einfach. Es ist der schwierigste und interessanteste          seits bleibt es mSglich, dab ein Teil des erlangbaren
+P u n k t der Theorie. Wir mfissen offenbar ver-               Gesamtwissens auf KonditionalsXtze, die zwisehen
+ suchen, die Wechselwirkung zwischen MeBobjekt                 den Teilsystemen spielen, sozusagen verschwendet
+ und MeBinstrument objektiv zu erfassen. Dazu                  ist und so die privaten Anwartschaften unbefriedigt
+ mtissen w i t einige sehr abstrakte I3berlegungen             l~iBt - - obwohl der Gesamtkatalog maximal ist,
+ vorausschieken.                                               das heiBt obwohl die ~-Funktion des Gesamt-
+      Die Sache ist die. Wenn man ffir zwei voll-              systems bekannt ist.
+ kommen getrennte K6rper, oder besser gesagt, ftir                   Selbstverst~ndlich. Es k6nnen uns nicht etwa
+ jeden yon ihnen einzeln je einen vollst~ndigen Er-            Aussagen fiber die ]3eziehung der beiden zueinander
+ wartungskatalog - - eine maximale Summe yon                   fehlen. Denn das w~re, mindestens Iflr den einen der
+ Kenntnis - - eine ~0-Funktion - - besitzt, so be-             beiden, etwas, das zu seiner W-Funktion hinzutritt. Und
+ sitzt man sie selbstverst~ndlich auch flit die beiden         das kann es nicht geben.
+  Heft 49. l        SCHR6DINGt~R: Die gegenw/~rtige Situation in der Quantenmechanik.                          827
+6, x2. z935]
+
+    H a l t e n wir einen Augenblick inne. Diese Fest-   maximal geworden sein. - - Man beachte dell
+ste!lung in ihrer Abstraktheit sagt eigentlich schon     grol3en Unterschied gegenfiber der ktassischen
+alles: Bestm6gtiehes Wisseii um ein Ganzes               Modelltheorie, wo natfirlich bei bekannten An=
+schlieBt nicht notwendig das gieiche flit seine Teile    fangszust~mden und bekannter Einwirkung die
+ein. 1Jbersetzen ,~dr das in die Sprechweise yon         Endzust~nde eirLzeln genau bekannt w~ren.
+§ 9: Das Ganze ist in einem bestimmten Zustand,                 Der im § 8 beschriebene MeBprozeB fMlt nun
+die Teile ffir sich genommen nicht.                      genau unter dieses allgemeine Schema, wenn wir
+    -   -~rieso? I n irgendeinem Zustand muB ein         es anwenden auf das Gesamtsystem MeBobjekt
+System doch sein.                                         + MeBinstrument. I n d e m wir so ein objektives
+    = Nein. Zustand ist ~-Funktion, ist maximale         Bild dieses Vorganges, wie yon irgendeinem an-
+Kenntnissumme. Die muB i c h mir ja nicht ver-           deren, konstruieren, dfirfen wir hoffen, das selt-
+schafft haben, ich kann ja faul gewesen seth. Dann       same Springen der ~0-Funktion aufzuklXren, wenn
+ist das System in keinem Zustand.                        schon nicht zu beseitigen. Also der eine K6rper
+    - - Sch6n, dann ist aber auch das agnostische        ist j e t z t das MeBobjekt, der andere das Instrument.
+Frageverbot Iloch nieht in K r a f t und ich darf mir    U m jeden Eingriff yon auBen zu vermeiden,
+in unserem Falle denken: in irgendeinem Zustand          richten wit es so ein, dab das I n s t r u m e n t mittels
+( = ~0-Funktion) wird das Teilsystem schon seth,         eines eingebauten Uhrwerks automatisch an das
+ich k e n n e ihn bloB nicht.                            Objekt :herankriecht und ebenso wieder fort-
+    = Halt. Leider nein. Es gibt kein ,,ich kenne        kriecht. Die Ablesung selbst verschieben wir, well
+blog nicht". Denn flit das Gesamtsystem liegt            wir doch zunAchst untersuchen wollen, was ,,ob-
+maximale Kenntnis vor. - -                               j e k t i v " geschieht; abet wir lassen das Ergebnis zu
+    Die InsuJJizienz der y~-Funktion als Modell-         sp~Lterer Verwendung automatisch im I n s t r u m e n t
+ersatz beruht ausschliefllich darau], daft man sie       sich aufzeichneii, ~4e das ja heute oft gemacht wird.
+nicht immer hat. H a t man sie, so darf sie gut und            Wie steht es jetzt, nach automatiseh voll-
+gern als Beschreibung des Zustands gelten. Aber          zogener Messung ? W i t besitzen nach wie vor einen
+man h a t sie zuweilen nicht, in FMlen, wo m a n es      maximalen Erwartungskatalog flit das Gesamt-
+billig erwarten dfirfte. U n d dann darf man nicht       system. Der registrierte MeBwert steht natfirlich
+postulieren, dal3 sie ,,in Wirklichkeit schoi1 eine      nieht darin. Mit Bezug auf das Instrument ist der
+bestimmte set, m a n kenne sie bloB n i c h t " ; der    Katalog also sehr unvollst~tndig, er sagt uns
+einmal gew~hlte Standpunkt verbietet das. ,,Sie"         nicht einmal, wo die Schreibfeder ihre S p u r
+ist n~mlich eine Summe yon Kenntnissen und               hinterlassen hat. (Man erinnere sich der vergif-
+Kenntnisse, die niemand kellnt, sind keine. - -          teten Katze!) Das macht, unser ~,¥issen h a t sich
+      Wir fahren fort.. DaB ein Teil des Wissens in      in Konditionals~tze sublimiert: wenn die Marke
+F o r m disjunktiver Bedingunggs~tze zwisehen den        bet Teilstrich I i s t , dann gilt ffir das Megobjekt
+zwei Systemen schwebt, kann gewiB nicht vor-             dies und das, wenn sie bet 2 ist, dann dies und jenes,
+kommen, wenn wir die beiden von entgegen-                wenn sie bet 3 ist, dann ein drittes usw. H a t nun
+gesetzten Enden der Welt heranschaffen und ohne          die ~0-Funktion des MeBob]ektes eineii Sprung
+Wechselwirkung j.uxtaponieren. Denn dann ,,wis-          gemacht? H a t sie sich nach dem zwangI~ufigen
+sen" die zwei ja voneinander nichts. Eine Messung        Gesetz (nach der, partiellen I)ifferentialgleichung)
+an dem einen kann unm6gIieh einen Anhattspunkt           weiterentwickelt? Keines yon beiden. Sie ist
+daffir geben, was voii dem anderen zu el~-arten          nicht mehr. Sie h a t sich, nach dem zwangl~ufigen
+steht. Besteht eine ,,Verschr~nkung der Voraus-          Gesetz ffir die Gesamt-yJ-Funktion, mit der des
+sagen", so kann sie offenbar n u t darauf zurfick-       MeBinstruments verheddert.             Der Erwartungs-
+gehen, dab die zwei K6rper frfiher einmal im             ]catalog des Ob]ekts hat sich ir~ eine k~onditionale
+eigentlichen Sinn ein System gebildet, das heigt in      Dis]unlction yon Erwartungslcatalogen au[gespalten
+Wechselwirkung gestanden, und Spuren anein-              wie ein Baedeker, den man kunstgerecht zerlegt.
+ander hinterlassen haben. Wenn zwei getrennte            Bei jeder Sektion steht auBerdem IIoch die ~Vahr-
+K6rper, die einzeln maximal bekannt sind, in eine        scheinlichkeit, dab sie zutrifft - - abgeschrieben aus
+Situation kommen, in der sie aufeinander ein-            dem urspriinglichen Erwartungskatalog des Ob-
+wirken, und sich wieder trennen, dann k o m m t          jekts. Aber welche zutrifft - - welcher Abschnitt
+regelm~tBig das zustande, was ich eben Verschr~in-       des Baedekers ffir die Weiterreise zn benfitzen ist,
+kung unseres Wissens um die beiden K6rper                das l~I3t sich nur durch wirkliche IIIspektion der
+nannte. Der gemeinsame Erwartungskatalog be-             Marke ermitteln.
+steht anfangs aus einer logischen Summe der                  U n d wenn wir nicht nachsehen? Sagen wir, es
+Einzelkataloge; w~hrend des Vorgangs entwickelt          wurde photographisch registriert und durch ein
+er sich zwanglAufig nach bekaiintem Gesetz (yon          Matheur b e k o m m t der Film Licht, bevor er
+Messung ist ja gar nicht die Rede). Das Wissen           entwickelt wird. Oder wir habeii aus Versehen
+bleibt maximal, abet es h a t sich zum Schlug, wenn      start eines Fihiis schwarzes Papier eingelegt. J a
+die K6rper sich wieder getrennt haben, nicht             dalm haben wir durch die mil3glfickte Messung
+wieder aufgespalten in eine logisehe Summe VOlt          nicht nur nichts Neues erfahren, sondern habeii
+Wissen um die Einzelk6rper. Was davon noch               Kenntnis eingebfiBt. Das ist nicht erstaunlich.
+erhalten ist, kann, eventuetl sehr stark, unter-         Durch einen ~uBeren EingrifI wird na~firlich die
+828              KSHLI~R: I3ber die Variabflit~t des Ringmosaikvirus (X-Virus) der Kartoffel.                  [ Die Natur-
+                                                                                                               [wissenschafteu
+
+Kenntnis, die m a n yon einem System hat, zun~chst             fahren, ist schon vorbei. Aber es w~re nicht ganz
+immer verdorben. Man muB den Eingriff schon                    richtig, zu 'sagen, dab die ~o-Funktion des Objekts,
+sehr behutsam organisieren, damit sie sich nachher             die sich sonst nach einer partiellen Differential-
+~deder zuriickgewinnen 1/~8t.                                  gleichung, unabh~ngig vom Beobachter, ver~ndert,
+    Was haben wir dutch diese Analyse gewonnen?                ]et~t infolge eines mentalen Aktes sprunghaIt
+Erstens den Einblick in das disjunktive Aufspalten             wechseIt. Denn sie war verlorengegangen, es gab
+des Erwartungskataloges, welches noch ganz stetig              sie nicht mehr. Was nicht ist, k a n n sich auch nicht
+erfolgt und dureh E i n b e t t e n in einen gemeinsa-         veriindern. Sie wird wiedergeboren, wird restituiert,
+men Katalog fiir I n s t r u m e n t u n d Objekt ermSg-       wird aus der verwickelten Kenntnis, die m a n be-
+licht wird. Aus dieser Verquicknng k a n n das Ob-             sitzt, herausgelSst durch einen Wahrnehmnngs-
+jekt n u r dadurch wieder herausgel6st werden, dab             akt, der in der T a t bestimmt nicht mehr eine
+das lebende Subjekt vom Resultat der Messung                   physische Einwirkung auf das MeBobjekt ist.
+wirklich Kenntnis nimmt. Irgendeinmal muB das                  Von der Form, in der m a n die ~ - F u n k t i o n zuietzt
+geschehen, wenn das, was sich abgespielt hat,                  gekannt, zu der neuen, in der sie wieder auftritt,
+wirklieh eine Messung heiBen soil, - - wie sehr es             ffihrt kein stetiger Weg - - er ffihrte eben dnrch die
+uns auch am Herzen liege, den Vorgang so ob-                   Vernichtung. Kontrastiert m a n die zwei Formen,
+jektiv wie mSglich herauszupr~parieren. U n d das              so erscheint die Saehe Ms Sprung. I n Wahrheit
+ist der zweite Einblick, den wit gewinnen: erst bei            liegt wichtiges Geschehen dazwischen, n~mlich
+diesem Inspizieren, welches die Disjunktion ent-               die Einwirkung der zwei K6rper aufeinander,
+scheidet, passiert etwas Unstetiges, Sprunghaites.             w&hrend welcher das Objekt keinen privaten Er-
+Man ist geneigt, es einen mentalen Akt zu nennen,              wartungskatalog besag und auch keinen Anspruch
+denn das Objekt ist ja schon abgeschaltet, wird                darauf hatte, weil es n i c h t selbst&ndig war.
+nicht mehr physisch ergriffen; was ibm wider-                                                                (Schlul3 folgt.)
+
+          0bet die Variabilit/it des Ringmosaikvirus (X-Virus) der KartoffeP.
+                                      V o n tL. KOHLIgR, B e r l i n - D a h l e m .
+    Unter der Bezeichnung Ringmosaikvirus (0der                vollkommen gleich. Dazu k o m m t die zuerst yon
+auch X-Virus) fal3t m a n eine Gruppe yon Mosaikvira           KENNETH M. SMITH gemachte Beobachtung, dab
+der Kartoffel zusammen, die dadurch charakteri-                solche Stamme auf dem T a b a k ira Laufe der Zeit
+siert sind, dab sie auf den Bl~ittern des Tabaks,              eine Verstarkung erfahren k6nnen, dab also augen-
+ihrer Testpflanze, ats Krankheitszeichen eigen-                scheinlich Virulenzanderungen eine Rolle spielen.
+ttimliche Ringmuster hervorrufen. Wichtige Cha-                     I n der letzten Zeit haben JAMEs JOHNSON und
+rakteristika sind ferner folgende: Leichte Ober-               KOCH an nordamerikanischen Kartoffetn die Fest-
+tragbarkeit mit dem Salt, relativ hohe Wider-                  stellung gemacht, dab innerhalb der Ringmosaik-
+standsf~higkeit gegen Erhitzen, keine l~rbertrag-              gruppe 2 Typen unterschieden werden miissen, die
+barkeit durch die Blattlausart lV[yzus persicae,               sie als potato ring spot-Virus und Mottle-Virus
+hohe Verdtinnungsresistenz. Das Ringmosaik-                    bezeichnen. Von diesen zeiehnet sieh das letztere
+virus besitzt eine auBergew6hnliche Verbreitung                dutch eine etwas erhShte Hitzeresistenz aus. I n
+in den Kartoffelbest~nden der ganzen Welt. An                  manchen nordamerikanischen Sorten kommen
+wirtschaftticher Bedeutung t r i t t es hinter ge-             beide Typen im Gemisch vor, manche Soften ent-
+wissen anderen Viren zurtick, da die meisten                   halten augenscheinlich entweder nur das eine oder
+Kartoffelsorten gegen dieses Virus ausgesprochen               n u r das andere Virus. Von jedem Typus lassen
+tolerant sind und nicht oder jedenfalls nicht merk-            sich St~mme unterschiedIicher Virulenz isolieren.
+lich gesch~digt werden.                                        Dutch unsere eigenen Untersuchungen k o n n t e n
+    Dem Umstand, dab die meisten Sorten (Klone)                wir diese Feststellungen weitgehend best~tigen,
+so hochgradig tolerant sind, h a t das Virus auch              und zwar sind dem potato ring spot-Virus u. a.
+seine weite Verbreitung zu verdanken. Der l~{ensch             unsere frfiher isolierten St~mme M b I 2 (yon
+hatte keine Veranlassung, es bei toleranten Soften             ,,Magnum bonum"), E I (yon ,,Erdgold"), H 19
+dutch Selektion zu unterdrticken. Daher sehen                  (yon ,,K1. Sp. \ ¥ o h l t m a n n " ) , M 23 (yon , K 1 . Sp.
+wir auch, dab alle toleranten Sorten einer unauf-              Wohltnlann") zuzusprechen. Von diesen ist Mb 12
+haltsamen Verseuchung dutch dieses Virus nnter-                der virulenzschw~chste und nahezu latent, M 23
+tiegen, wghrend die weniger toleranten dutch die               der virntenzstXrkste. Das Mottle-Virus haben wir
+Gegenwirkung des Menschen in groBem Umfang                     vorwiegend in der Sorte ,,Erstling" (synon.
+davon befrelt bteiben.                                         ,,Duke of York") angetroffen. Manche aus der
+    Eine besonders hervorstechende gigenschaft                 n6rdlichen Provinz Hannover stammende Her-
+des Ringmosaikvirus ist seine Variabilitgt. K a u m            ktinfte dieser Sorte waren fast rein mit diesem
+2 Stgmme, die wir durch einfaches l'3berimpfen                 Vixus durchsetzt, nur gelegentlich fanden wir
+yon Kartoffeln auf Tabak gewinnen, sind einander               darin auch 13eimengungen eines anderen Typus.
+    I Nach einem auf dem VI. Internationalen Bo-               Wit konnten 3 Mottle-St~mme unterschiedlicher
+tanikerkongreB in Amsterdam gehaltenen Vortrag. Eine           Virulenz isolieren, die Ms Erstl. 34, Erstl. 25 und
+ausfiihrliche Abhandlung ist in Vorbereitung.                  Erstl. Mix bezeiehnet wurden, yon ihnen ist das
+

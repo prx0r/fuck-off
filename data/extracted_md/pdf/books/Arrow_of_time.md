@@ -1,0 +1,287 @@
+# 276   Great Problems in Philosophy and Physics - Solved?
+
+**source:** pdf · **section:** books
+**file:** Arrow_of_time
+---
+
+
+                                     f Ti m e
+                                 w o
+                             Arro
+Chapter
+   Chapter
+        22 24
+
+                                                                         This chapter on the web
+                                             informationphilosopher.com/problems/arrow_of_time
+                                                      Arrow of Time       277
+
+The Arrow of Time
+   The laws of nature, except the second law of thermodynamics,
+are symmetric in time. Reversing the time in the dynamical equa-
+tions of motion simply describes everything going backwards.
+The second law is different. Entropy must never decrease in time,
+except statistically and briefly, as Ludwig Boltzmann showed.
+   Many natural processes are apparently irreversible. Irreversibility
+is intimately connected to the direction of time. Identifying the
+physical reasons for the observed irreversibility, the origin of
+irreversibility, would contribute greatly to understanding the
+apparent asymmetry of nature in time, despite nature's apparently
+perfect symmetry in space.1
+The Thermodynamic Arrow
+   In 1927, Arthur Stanley Eddington coined the term "Arrow
+of Time" in his book The Nature of the Physical World. He con-
+nected "Time's Arrow" to the one-way direction of increasing
+entropy required by the second law of thermodynamics.2 This is
+now known as the "thermodynamic arrow."
+  In his later work, Eddington identified a "cosmological arrow,"
+
+                                                                            Chapter 24
+the direction in which the universe is expanding,3 which was dis-
+covered by Edwin Hubble about the time Eddington first defined
+the thermodynamic arrow.
+   There are now a few other proposed arrows of time, includ-
+ing a psychological arrow (our perception of time), a causal arrow
+(causes precede effects), and a quantum mechanical arrow (elec-
+troweak decay asymmetries). We can ask whether one arrow is a
+"master arrow" that all the others are following, or perhaps time
+itself is just a given property of nature that is otherwise irreducible
+to something more basic, as is space.
+   Given the four-dimensional space-time picture of special rela-
+tivity, and given that the laws of nature are symmetric in space, we
+may expect the laws to be invariant under a change in time direc-
+tion. The laws do not depend on position in space or direction,
+
+  1     See chapter 25.
+  2     Nature of the Physical World, 1927, p.328-9
+  3     New Pathways in Science, 1937, p.328-9
+                278     Great Problems in Philosophy and Physics - Solved?
+
+                      they are invariant under translations and rotations, since space
+                      is seen to be uniform and isotropic. But time is not just another
+                      spatial dimension. It enters into calculations of event separations
+                      as an imaginary term (multiplied by the square root of minus 1).
+                      Nevertheless, all the classical dynamical laws of motion are sym-
+                      metric under time reversal.
+                         So the basic problem is - how can macroscopic irreversibil-
+                      ity result from microscopic processes that are fundamentally
+                      reversible?
+                        Long before Eddington, scientists asked deep questions about
+                      the direction of time. Perhaps the first to explore the connection
+                      with physics was Boltzmann, who with James Clerk Maxwell
+                      investigated the statistical motions of the atoms and molecules of
+                      gases.
+                         If the laws of nature are time symmetric, perhaps the "arrow of
+                      time" is to be found in the "initial" conditions, although this may
+                      be a circular concept, since "initial,"current," and "final" states are
+                      all defined with respect to time. Since the dynamical laws are time
+                      reversible, scientists as early as Isaac Newton understood that
+Chapter
+
+                      one could calculate all the motions of a system by assuming "final
+                      conditions" and working backwards in time.
+   Chapter
+
+                        Nevertheless, many if not most physicists have assumed the
+        22 24
+
+                      universe must have begun in a highly ordered (low entropy) state
+                      and it has been "running down" (entropy or disorder increasing)
+                      ever since. In the nineteenth century, this was called the "heat
+                      death" of the universe. This view has the unfortunate implication
+                      that all the information in the current universe was present at the
+                      beginning, which is friendly to some theological ideas like pre-
+                      destination, but distinctly unfriendly to ideas of human free will.
+                         Boltzmann assumed that the universe was infinitely old and
+                      that our current state is the consequence of a massive statistical
+                      fluctuation away from equilibrium and maximum entropy, a con-
+                      dition to which we must ultimately return.
+                         Would time itself be reversed if we could make the entropy
+                      decrease? That is unlikely, since entropy decrease anywhere (cre-
+                      ating negative entropy or negentropy, a term coined by Leon
+                                                            Arrow of Time              279
+
+Brillouin) must be accompanied by an increase elsewhere, to
+satisfy the second law. Otherwise we could use the local reduction
+in the entropy to build a perpetual motion machine.
+   Put another way, if we could reverse the time, would entropy
+decrease? What can time reversal really mean? A thought experi-
+ment suggests not. Consider a closed perfume bottle inside a large
+empty container. Remove the bottle top and what would happen
+assuming that time is flowing backwards? It seems likely that the
+perfume molecules would leave the bottle whatever time is doing.
+
+    Figure 24-29. Information physics has shown that at each collision of a gas par-
+ticle with another particle, the path information of where that particle has been is
+erased, so that time reversal would not return all the perfume to the bottle. .
+
+   For Aristotle, time was a measure of motion and change and
+
+                                                                                         Chapter 24
+for practical purposes, many scientists have thought that time
+reversal can be approximated by the reversal of all the velocities
+or momenta of material particles at an instant, starting from their
+current positions.
+   If we could perfectly reverse the motions of every material body
+(a practical impossibility, and perhaps a violation of Heisenberg's
+uncertainty principle), would that make the entropy decrease?
+Boltzmann agreed that it might, but only for a while. His intuition
+was that a system could not return to a highly ordered original
+state, such as every molecule getting back in the perfume bottle.
+   J. Willard Gibbs thought otherwise, if the detailed path
+information in all the macroscopic motions is still available as
+microscopic information (if information is a conserved quantity),
+then reversal of all the motions should be exactly like a movie
+played backwards.
+                280         Great Problems in Philosophy and Physics - Solved?
+
+                         The fundamental question of information philosophy is cosmo-
+                      logical and ultimately metaphysical. What is the process that creates
+                      information structures in the universe?
+                         Given the second law of thermodynamics, which says that any
+                      system will over time approach a thermodynamic equilibrium of
+                      maximum disorder or entropy, in which all information is lost, and
+                      given the best current model for the origin of the universe, which
+                      says everything began in a state of equilibrium some 13.75 billion
+                      years ago, how can it be that living beings are creating and com-
+                      municating new information every day? Why are we not still in that
+                      state of thermal equilibrium?
+                         It is perhaps easier for us to see the increasing complexity and
+                      order of information structures on the earth than it is to notice
+                      the increase in chaos that comes with increasing entropy, since the
+                      entropy is radiated away from the earth into the night sky, then away
+                      to the cosmic microwave background sink of deep space.
+                         David Layzer is a Harvard cosmologist who in the early 1970's
+                      made it clear that in an expanding universe the entropy would
+                      increase, as required by the second law of thermodynamics, but
+Chapter
+
+                      that the maximum possible entropy of the universe might increase
+                      faster than the actual entropy increase. This would leave room for
+   Chapter
+
+                      an increase of order or information at the same time the entropy is
+        22 24
+
+                      increasing!4
+                         Layzer pointed out that if the equilibration rate of the matter
+                      (the speed with which matter redistributes itself randomly among
+                      all the possible states) was slower than the rate of expansion, then
+                      the "negative entropy" or "order" (defined as the difference between
+                      the maximum possible entropy and the actual entropy) would also
+                      increase. Claude Shannon identified this negative entropy with
+                      information, though visible structural information in the universe
+                      may be much less than this "potential" information.
+                        4     See appendix B for more on Layzer’s work.
+                                                            Arrow of Time            281
+
+The Historical Arrow
+   Layzer called the direction of information increase the "historical
+arrow." In a 1975 article for Scientific American called “The Arrow
+of Time,” he wrote:
+      the complexity of the astronomical universe seems puzzling. Isolated
+      systems inevitably evolve toward the featureless state of thermodynamic
+      equilibrium. Since the universe is in some sense an isolated system, why
+      has it not settled into equilibrium? One answer, favored by many cos-
+      mologists, is that the cosmological trend is in fact toward equilibrium
+      but that too little time has elapsed for the process to have reached com-
+      pletion... I shall argue that this view is fundamentally incorrect. The uni-
+      verse is not running down, and it need not have started with a marked
+      degree of disequilibrium; the initial state may indeed have been wholly
+      lacking in macroscopic as well as microscopic information.
+      Suppose that at some early moment local thermodynamic equilibrium
+      prevailed in the universe. The entropy of any region would then be as
+      large as possible for the prevailing values of the mean temperature and
+      density. As the universe expanded from that hypothetical state the local
+      values of the mean density and temperature would change, and so would
+      the entropy of the region. For the entropy to remain at its maximum
+      value (and thus for equilibrium to be maintained) the distribution of
+      energies allotted to matter and to radiation must change, and so must
+      the concentrations of the various kinds of particles. The physical pro-
+      cesses that mediate these changes proceed at finite rates; if these "equili-
+
+                                                                                       Chapter 24
+      bration" rates are all much greater than the rate of cosmic expansion,
+      approximate local thermodynamic equilibrium will be maintained; if
+      they are not, the expansion will give rise to significant local departures
+      from equilibrium.5
+   This is Layzer's seminal theory of the growth of order in the
+universe These departures represent macroscopic information; the
+quantity of macroscopic information generated by the expansion is
+the difference between the actual value of the entropy and the theo-
+retical maximum entropy at the mean temperature and density.
+  5       Scientific American, December, 1975, p.68
+                282         Great Problems in Philosophy and Physics - Solved?
+
+                        In his 1989 book The Emperor's New Mind, Roger Penrose
+                      speculated on the connection between information, entropy, and
+                      the arrow of time.
+                            Recall that the primordial fireball was a thermal state — a hot gas in
+                            expanding thermal equilibrium. Recall, also, that the term 'thermal
+                            equilibrium' refers to a state of maximum entropy. (This was how we
+                            referred to the maximum entropy state of a gas in a box.) However, the
+                            second law demands that in its initial state, the entropy of our universe
+                            was at some sort of minimum, not a maximum!
+                            What has gone wrong? One 'standard' answer would run roughly as
+                            follows:
+                            True, the fireball was effectively in thermal equilibrium at the begin-
+                            ning, but the universe at that time was very tiny. The fireball repre-
+                            sented the state of maximum entropy that could be permitted for a uni-
+                            verse of that tiny size, but the entropy so permitted would have been
+                            minute by comparison with that which is allowed for a universe of the
+                            size that we find it to be today. As the universe expanded, the permit-
+                            ted maximum entropy increased with the universe's size, but the actual
+                            entropy in the universe lagged well behind this permitted maximum.
+                            The second law arises because the actual entropy is always striving to
+                            catch up with this permitted maximum.6
+                        Penrose's "standard" answer is a clear reference to the pioneer-
+Chapter
+
+                      ing work of David Layzer.
+   Chapter
+
+                      The Radiation Arrow
+                        Whether they be electromagnetic waves or waves in water, we
+        22 24
+
+                      only observe wavelike disturbances that propagate outwards in
+                      space away from the disturbance. These waves are described by
+                      what is called the retarded potential. In his 1909 discussion of
+                      waves and particles, Albert Einstein described the very remote
+                      possibility of incoming spherical waves:
+                            According to our prevailing theory, an oscillating electron generates a
+                            spherical wave that propagates outwards. The inverse process does not
+                            exist as an elementary process. A converging spherical wave is math-
+                            ematically possible, to be sure; but to approach its realization requires
+
+                        6       The Emperor’s New Mind, p.328-9
+                                                            Arrow of Time              283
+
+    a vast number of emitting entities. The elementary process of emission
+    is not invertible. In this, I believe, our oscillation theory does not hit the
+    mark. Newton's emission theory of light seems to contain more truth
+    with respect to this point than the oscillation theory since, first of all, the
+    energy given to a light particle is not scattered over infinite space, but
+    remains available for an elementary process of absorption.7
+   In 1945, John Wheeler and his student Richard Feynman
+attempted to symmetrize Maxwell's equations for electromagnetic
+fields with an "Absorber Theory of Radiation," that combined
+retarded potentials (outgoing spherical waves) and advanced poten-
+tials (incoming spherical waves) for radiation. They later described
+the theory as a mistake. There are no incoming spherical waves.
+The Cosmological Arrow
+   We can define a cosmological direction of time as the direction
+in which the universe is expanding. There are excellent reasons for
+seeing this as the most fundamental of all arrows, even the one driv-
+ing some of the others. Without expansion, a static universe would
+settle into thermal equilibrium and there would be no changes.
+There would be no entropy increase to show Eddington's thermo-
+dynamic arrow. There would be no information increase, as seen in
+Layzer's historical arrow.
+
+                                                                                         Chapter 24
+  Without the cosmological arrow, the thermodynamic, radiation,
+and historical arrows could not have been realized.
+  7       “On the Development of Our Views Concerning the Nature and Constitution of
+Radiation,” Einstein Collected Papers, vol.6, p.213
+

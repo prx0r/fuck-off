@@ -1,0 +1,182 @@
+# 332   My God, He Plays Dice!
+
+**source:** pdf · **section:** books
+**file:** Mistakes
+---
+
+
+                                 e i n’s
+                            Einst akes
+                             Mist
+Chapter 42
+                                                     Einstein’s Mistakes 333
+
+Einstein’s Mistakes
+   We must first acknowledge that Einstein’s mistakes have given
+us in general more important theoretical insights than those of all
+but a handful of great physicists’s successes. Einstein’s mistakes lie
+behind the greatest puzzles and mysteries in physics today.
+   While Einstein did not solve these mysteries, in most of
+them so far neither has any other scientist provided convincing
+explanations. That his phenomenal mind saw them at all is his
+great gift to science.
+   When we see his mistakes for what they are, and when we add
+them to his extraordinary successes, Einstein emerges as the single
+greatest force behind both of the leading fields of physics today,
+relativity and quantum mechanics.
+Fields and Particles
+   Unified Field Theory
+   In terms of effort spent and results achieved, surely his unified
+field theory was Einstein’s greatest mistake, first because it was
+deterministic, second because there are now so many fields.
+   He wrote his friend Michele Besso the year before he died,
+      “I consider it quite possible that physics cannot be based on
+      the field concept, i.e:, on continuous structures. In that case,
+      nothing remains of my entire castle in the air, gravitation
+      theory included, [and of] the rest of modern physics.” 1
+                                                                           Chapter42
+   Space and Time
+   Einstein is said to have combined space and time into a single
+four-dimensional continuum. This was first done by Hermann
+Minkoswki, but Einstein deserves credit for developing the four-
+dimensional energy-momentum tensor that describes his theory
+of general relativity.
+
+  1       Pais, 1982, p.467
+         334       My God, He Plays Dice!
+
+                  In his later years Einstein had many doubts about the reality of
+               space and time, wondering if they may be just convenient fictions,
+               “free creations of the human mind,” which just happen to describe
+               accurately the “real” things, the material particles.
+               Quantum Physics
+                  Ontological Chance
+                  Without a doubt, it was Einstein’s two papers in 1916 and early
+               1917 that established chance in the emission and absorption of his
+               light quanta. The times and directions of light interactions with
+               matter are completely indeterminate. Einstein gave credit to Ernest
+               Rutherford for discovering a similar indeterminacy in radioactive
+               decay.
+                  Einstein said chance must be considered a “weakness in the
+               theory.”
+                  But it was Einstein’s proof that thermal equilibrium between
+               Planck’s radiation distribution and the Maxwell-Boltzmann
+               velocities distribution of matter could not be maintained without
+               the emission of photons going off in all directions at random.
+                  Einstein’s canonical paper on the A and B coefficients for emission
+               and absorption is a foundational element of the statistical nature
+               of quantum mechanics, and it predicted the stimulated emission of
+               radiation that underlies the working of lasers.
+                  Einstein’s mistake was to not accept for many years the conclu-
+               sion that natural processes involve chance. “God does not play dice.”
+Chapter 42
+
+                  This one “mistake” explains how the universe can create
+               unpredictable new information structures like atoms, stars, galaxies,
+               living things, minds, and new ideas! See chapter 43.
+                  The Statistical Interpretation
+                  Max Born’s interpretation of the quantum mechanical wave
+               function of a material particle as the probability (amplitude) of
+               finding a material particle was a direct extension of Einstein’s
+               interpretation of light waves as giving probability of finding photons.
+                                               Einstein’s Mistakes 335
+
+   To be sure, Einstein’s interpretation may be considered only
+qualitative, where Born’s was quantitative. He made it the squared
+modulus of the probability amplitude |ψ|2. The new quantum
+mechanics gives us exact calculations - of statistics!
+   As with his dislike of chance, Einstein was happy to give Born all
+the credit, including a Nobel Prize, for the statistical interpretation.
+   Nonlocality
+   When Einstein first thought about a light wave spreading out in
+space, only to collapse to a point when all the light was collected into
+a single atom in metal to eject a single electron, he briefly thought
+distributed energy must have moved faster than light to collect itself
+together.
+   To be sure, Einstein hypothesized that perhaps light is not
+continuously distributed over an increasing space but consists of
+a finite number of energy quanta which are localized at points in
+space. But this did not stop him from worrying about nonlocality.
+   Einstein saw spacelike separated events occurring simultaneously,
+an apparent violation of his special theory of relativity, which claims
+that simultaneity is impossible in an absolute sense
+  Symmetry and Conservation
+   EPR-Entanglement
+   Einstein’s greatest biographer, Abraham Pais, concluded in 1982,
+that the EPR paradox “had not affected subsequent developments
+in physics, and it is doubtful that it ever will.” 2 Einstein had drawn    Chapter42
+attention for decades to the appearance of nonlocality and in the
+1935 EPR paper added his separation principle, but his orthodox
+physicist colleagues could make no sense of his paper.
+   Einstein’s mistake was to say we should absolutely agree that the
+real factual situation of one system is independent of what is done
+with another which is spatially separated. 3 Erwin Schrödinger
+immediately pointed out that the two-particle wave function would
+not separate without an interaction or measurement.t
+
+  2     Pais, 1982, p.456
+  3     Einstein, 1949a, p.85
+         336         My God, He Plays Dice!
+
+                  But it was Einstein himself who first imagined two events in a
+               spacelike separation occurring simultaneously, an impossibility
+               according to his own special theory of relativity.
+                  Spooky Action-at-a-Distance
+                  Einstein described spooky action as one particle acting
+               “telepathically” on another particle spatially separated. 4 It may be
+               no exaggeration to say that spooky action is one of Einstein’s greatest
+               original ideas.
+                  Adding “spooky” in 1949 to his decades of complaints about non-
+               locality and nonseparability did catch the world’s attention.
+                  But Einstein should have seen that all these cases were not
+               “actions” by one particle on a distant particle. Einstein added a false
+               asymmetry into a symmetric situation.
+                  Schrödinger’s Cat
+                  This famous cat began with Einstein criticizing the implication
+               of Schrödinger’s wave equation. He told Schrödinger to imagine a
+               charge of gunpowder that can spontaneously combust, on average
+               once a year. Then “your ψ-function describes a sort of blend of not-
+               yet and already exploded systems.” Schrödinger famously adapted
+               Einstein’s idea to his cat in a “superposition” of dead and alive.
+                  Both Einstein and Schrödinger were making fun of superposition,
+               but Einstein should have known it was just a mathematical tool to
+               calculate statistical probabilities.
+                  Schrödinger switched from joking about superposition to
+Chapter 42
+
+               claiming that entanglement is the “characteristic trait” of quantum
+               mechanics. He and Einstein parted ways.
+               Cosmology
+                  The Cosmological Constant
+                  Einstein himself described the addition of a constant to his
+               equations of general relativity, in order to produce a static universe,
+               his “biggest blunder,” in conversation with George Gamow.5
+                 4     Schilpp, 1949, p. 85
+                 5     Gamow, 1970, p.44
+                                              Einstein’s Mistakes 337
+
+   The Expansion of the Universe
+   Had Einstein not forced his theory to match the poor observational
+data of his time, he might have speculated that the universe was
+adding space by expanding or contracting, over a decade before
+Edwin Hubble found the expansion of external galaxies in 1927.
+   The Flat Universe
+   As Einstein’s field equations for general relativity improved in
+the early years, he might have noted that when the expansion rate
+- the motion energy gets near the gravitational binding energy, the
+overall curvature approaches zero and the “radius” of the observable
+universe approaches infinity.
+   As observations have improved, the universe now appears within
+a factor of three of having enough matter to make the universe “flat”
+and its geometry Euclidean.
+   Einstein might have appreciated this symmetry between energy
+and matter,
+  Thermodynamics and Statistical Mechanics
+   Gibbs-Liouville
+   The conservation of any particular volume of phase space (the
+Liouville theorem) led J. Willard Gibbs to claim that information
+is also conserved. Einstein claimed that he did little or nothing more
+than Gibbs. But this was a mistake. Gibbs’ statistical mechanics
+is a formal theory that does not even mention material particles.
+Einstein’s work led to the proof of the existence of atoms!              Chapter42
+

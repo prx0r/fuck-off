@@ -1,0 +1,927 @@
+   Knowledge and Belief: 'De Dicto' and 'De Re'
+   Author(s): Roderick Chisholm
+   Source: Philosophical Studies: An International Journal for Philosophy in the Analytic Tradition
+   , Vol. 29, No. 1 (Jan., 1976), pp. 1-20
+   Published by: Springer
+   Stable URL: http://www.jstor.org/stable/4319005
+   Accessed: 09-02-2016 18:18 UTC
+
+
+
+   Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at http://www.jstor.org/page/
+   info/about/policies/terms.jsp
+
+   JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content
+   in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship.
+   For more information about JSTOR, please contact support@jstor.org.
+
+
+
+
+            Springer is collaborating with JSTOR to digitize, preserve and extend access to Philosophical Studies: An International
+            Journal for Philosophy in the Analytic Tradition.
+
+
+http://www.jstor.org
+
+
+
+                                    This content downloaded from 128.103.149.52 on Tue, 09 Feb 2016 18:18:43 UTC
+                                                    All use subject to JSTOR Terms and Conditions
+                           RODERICK       CHISHOLM
+
+
+
+
+KNOWLEDGE AND BELIEF: 'DE DICTO' AND 'DE RE'
+
+
+
+
+                              1. INTRODUCTION
+
+I will attemptto explicatethe conceptsof beliefde re, knowledgede dicto,
+andknowledgede re. Thegeneralapproachto be developedheremayalso
+be appliedto those otherintentionalattitudes- for example,desire,hope,
+fear, and endeavor- whichmay be directedeitherupon propositionsor
+upon things which are not propositions.It differsfrom other contem-
+porarytreatmentsof these topics in that it does not attemptto explicate
+belief and knowledgeby referenceto linguisticconcepts.I assumethat
+languageshouldbe explicatedby referenceto belief and knowledge,and
+that it is not enlighteningto attemptto explicatebelief and knowledge
+by referenceto language.2
+   The definitionsI will formulatepresupposethe followingphilosophical
+concepts:(i) that of beliefde dicto,or the acceptanceof a proposition,as
+expressedin the locution'h is acceptedby S'; (ii) that of epistemicprefer-
+ability,as expressedin 'p is epistemicallypreferableto q for S'; (iii) that
+of necessityde re, as expressedin 'x is necessarilysuchthatit is F' (iv) that
+of a propertyor attribute,consideredas an 'eternalobject',something
+existingin everypossibleworld;and(v) the conceptof a propositionbeing
+true. I will also make use of the expressionsof logic and allow myself
+certainschematicdefinitions.
+   I believethat the systemof conceptsto be utilizedhereis muchsimpler
+than any of those presupposedby otherdiscussionsof these topics.
+
+                             2. DE DICTO BELIEF
+
+I proposethat, in what follows, we restrictthe schema
+            S believesthatp,
+(wherep maybe replacedby any Englishsentence)to its ordinaryde dicto
+sense.Thiswillmean,for one thing,thatwe cannotexistentiallygeneralize
+
+PhilosophicalStudies29 (1976) 1-20. All Rights Reserved
+Copyright? 1976 by D. ReidelPublishingCompany,Dordrecht-Holland
+
+
+    This content downloaded from 128.103.149.52 on Tue, 09 Feb 2016 18:18:43 UTC
+                    All use subject to JSTOR Terms and Conditions
+2                            RODERICK       CHISHOLM
+
+
+over any termwithinthe sentencein the place of p. Thus if our de dicto
+belief sentenceis
+             Jones believesthat the tallestman is wise
+we cannot take the propositionit expressesto entail
+             Thereis an x such that Jones believesthat x is wise.
+Nor can we replaceany termwithinthe sentenceoccupyingthe place of
+p by any othertermhavingthe sameextension.Hence,even if we know
+both that(1) the tallestmanis the fastestrunnerandthat(2) Jonesbelieves
+that the tallestman is wise, we cannot, on the basis of this information,
+drawthe inferenceto
+             Jones believesthat the fastestrunneris wise.
+   Anotherfeatureof this de dicto use of 'Jonesbelievesthat the tallest
+man is wise' is this: If we know that the sentenceis true,in this de dicto
+use, thenwe maysay of Jonesthat,if he is asked'Is the tallestmanwise?',
+if he understandsthe question,and if he intendsto reply honestlyand
+correctly,then he will endeavorto replyin the affirmative.
+   In suggestingthat we restrictthe locution 'S believesthat p' to this
+de dictosense,I am not suggestingthat the locutionis in fact so restricted
+in ordinaryEnglish.Indeed,I believethat it is not so restricted.3
+   If we are sensitiveto what seem to be the ontologicalimplicationsof
+belief, the ontologicalimplicationsof the fact that peoplebelievethings,
+we will realizethat
+    (1)      Jonesbelievesthat the tallestman is wise
+impliesthat
+    (2)      Thereis somethingthat Jonesbelieves.
+If we do not see this at once, perhapsit will help us if we considersuch
+facts as the following.If we know, not only that (1) is true,but also that
+Smithbelievesthat the tallestmanis wise,then we may inferthat thereis
+somethingthat both Jones and Smithbelieve.But if there is something
+that both Jonesand Smithbelieve,thenthereis an answerto the question:
+And whatis thatsomething?(Orthereis an answerto the question:What
+is one thingthattheyboth believe?)In the caseof ourexamplethe answer
+would be: That the tallestman is wise.
+
+
+
+
+     This content downloaded from 128.103.149.52 on Tue, 09 Feb 2016 18:18:43 UTC
+                     All use subject to JSTOR Terms and Conditions
+         KNOWLEDGE         AND BELIEF: 'DE DICTO' AND 'DE RE'                       3
+
+  We may obviouslyinfer(2) above from 'Thereis somethingthat both
+Jones and Smithbelieve'.But the truth of (2) is hardlydependentupon
+the fact that Smithhappensto believethe samethingJonesdoes.It would
+seem, therefore,that once we are clear about what is implied by (1),
+when (1) is takenin the way we have suggested,then we shouldsee that
+(1) implies(2).4
+  Given, then, that (1) does imply (2), it is usefulfor philosophicalpur-
+poses to make(1) moreexplicit.The logicalstructureof (1) is more ade-
+quatelyexposedif we rewriteit as
+  (3)       Jones acceptsthe propositionthat the tallestman is wise.
+Statement(3) expressesa straightforward  dyadicrelationbetweenJones
+and a certainproposition,enablingus to infer 'Thereexist an x and a y
+such that x acceptsy'.
+  Thus our sentence(3) is an instanceof this generalschema:
+            S acceptsthe propositionthatp.
+I proposewe take this locution as the paradigmaticexpressionof belief
+de dictoand introducethe moreordinarylocution,instancedby (1), as an
+abbreviation.Thus we will have
+  (DI)      S believesthatp = DfThe propositionthatp is acceptedby S.
+The definitionis schematic;we may replacep by any Englishsentence.
+Let us say that, if a man thus acceptsa proposition,then the proposition
+is one of the objectsof his belief.
+   It is essentialto note that,veryoften,the propositionswe say we believe
+(even when we are speakingsincerely)are not in fact the objectsof our
+belief. I might point to a certainformulain PrincipiaMathematicaand
+say "I believethat proposition",when, in fact, the propositionI accept
+is the one I mightexpressby saying"Thepropositionexpressedby that
+formula is true". The latter propositioncould be said, in Brentano's
+terminology,to be a surrogatefor the former.5
+
+                                3. DE RE BELIEF
+
+One may make analogous points about what has been called de re
+belief.
+
+
+
+
+     This content downloaded from 128.103.149.52 on Tue, 09 Feb 2016 18:18:43 UTC
+                     All use subject to JSTOR Terms and Conditions
+4                            RODERICK       CHISHOLM
+
+
+  If we remainsensitiveto what seem to be the ontologicalimplications
+of belief, we will realizethat
+    (1)       The tallestman is believedby Jones to be wise
+implies
+    (2)       There is somethingthat Jones attributesto the tallest man.
+(In the placeof 'attributesto the tallestman',we mightsay 'believesof the
+tallestman'.)If one does not see immediatelythat (1) implies(2), one has
+only to note that, if (2) is true, and if the tallestman is also believedby
+Smith to be wise, then we could say that there is somethingthat both
+Jones and Smithattributeto the tallestman. The logicalstructureof (1),
+then, is somewhatmore adequatelyexpressedif we rewriteit as
+    (3)       Jonesattributesthe propertyof beingwise to the tallestman.
+Our sentenceis thus an instanceof this generalschema
+              S attributesto x the propertyof being F
+wherethe letterF is replaceableby any predicate-expression    (e.g., 'wise'
+or 'suchthat he is wise' or 'suchthat he is wise and all men are mortal').
+  I proposewe take this locutionas the paradigmaticexpressionof belief
+de re and introducethe more ordinarylocution,instancedby (1), as an
+abbreviation.Thus we will have
+    (D2)      x is believedby S to be F=Df S attributesthe propertyof
+              being F to x.
+   But the definiensof (D2), 'S attributesthe propertyof being F to x',
+is not includedamong the philosophicalconceptswe allowedourselves
+at the outset. One problem,then, is that of explicatingthe concept of
+attributinga propertyto a thing.
+
+    4. INTERRELATIONS          BETWEEN BELIEF 'DE RE' AND 'DE DICTO'
+
+The followingsummarymay now throwsome light upon what has been
+said about the objectsof belief.The lettersF and G occupythe placesof
+predicateexpressionsand 'the F' is shortfor 'the thingwhichis F'.
+    (a)       S believesthat the F is G.
+    (b)       The F is believedby S to be G.
+
+
+
+
+      This content downloaded from 128.103.149.52 on Tue, 09 Feb 2016 18:18:43 UTC
+                      All use subject to JSTOR Terms and Conditions
+           KNOWLEDGE         AND BELIEF: 'DE DICTO' AND 'DE RE'                        5
+
+  (c)         S believesthat the propositionthat the F is G is true.
+  (d)         The propositionthat the F is G is believedby S to be true.
+  (e)         The propositionthat the F is G is acceptedby S.
+  (f)         S believesthat the F has the propertyof being G.
+  (g)         The F is believedby S to be such that it has the propertyof
+              being G.
+  (h)         S attributesthe propertyof being G to the F.
+  These eight locutions are easily confusedwith each other and such
+confusionsometimesinfectswhat has been writtenaboutthe philosophy
+of belief. Let us ask, with respectto each of these locutions,whichones
+of the othersit entails.6
+  If 'accepts'and 'attributes'are restrictedin the ways in which I have
+proposed,thenwe mayassertthatthefollowingentailmentrelationshold:
+              a entailse
+              b entailsh
+              c entailsa, d, and e
+              e entailsa
+              f entailsa and e
+              g entailsb and h
+              h entailsb
+But no additionalentailmentrelationshold amongthese locutions.
+   It is sometimesthoughtthat beliefde dictois simplya specialinstance
+of belief de re. Accordingto this view, to believe(de dicto)that Socrates
+is mortalis simplyto believe(de re), with respectto the propositionthat
+Socratesis mortal,that that propositionis true. This view presupposes,
+mistakenly,that (a) is equivalentto (d).7But (a) does not imply(d), and
+(d) does not imply (a).
+   The entailmentrelationswe have set forth provideus with a partial
+test of anytheoryof de re belief.For any suchtheoryshouldbe compatible
+with sayingthat these relationsobtain.
+
+          5. REDUCING         BELIEF 'DE RE' TO BELIEF 'DE DICTO'
+
+Can we exhibitbeliefde re as a speciesof beliefde dicto?In otherwords,
+can we define'S attributesthe propertyof being F to x' by referenceto
+such de dictoconceptsas 'S acceptsthe propositionthatp'?
+
+
+
+
+        This content downloaded from 128.103.149.52 on Tue, 09 Feb 2016 18:18:43 UTC
+                        All use subject to JSTOR Terms and Conditions
+6                          RODERICK CHISHOLM
+
+   Whenthe locution'S believesx to be F' ('S attributesthe propertyof
+being F to x') is warranted,then one may say of the thing in question:
+'One of its propertiesis that of beingbelievedby S to be F'. If a thingx
+is thus an object of a person'sbelief, then the personhas, so to speak,
+gotten "outsidethe circle of his own ideas". His thoughtsare directed,
+at least in part,upon the thingx. In orderfor this to happen,shouldthe
+personbearsome intimateepistemicrelationto x, or is it enoughthat he
+accepta propositionimplyingx to have a certainproperty?
+   Thereis some disagreementabout the answersto such questionsand
+therewouldseemto be no obviousprocedurefor arrivingat agreement.8
+We may ask: "Whenwould we say, of a thing x, that it's believedby
+someoneto be somethingor other?"But an investigationor ourlanguage
+habitssuggeststwo things;firstthat, on some occasions,we requirevery
+little of a personS in orderto be ableto say of a thingx thatit is believed
+by S to be somethingor other;and secondlythat, on otheroccasions,we
+requirea considerabledegreeof epistemicintimacybetweenS and x be-
+fore we will allow ourselvesto say that x is the object of S's beliefs.
+   If, insteadof consideringthe languagewe mightuse in talkingabout S
+andx, we restrictourselvesto descriptivepsychology,or 'phenomenology',
+andjust considerour own doxasticstates,then,it wouldseem,thereis no
+obvious differencebetweende re and de dictobelief. The distinctionbe-
+tween the types of belief is not like that, say, betweenbelief and desire.
+One may say with perfectcertainty:"Thisis a matterof beliefand not of
+desire,and that is a matterof desireand not of belief". But one may not
+say with any certaintyat all: "Thisis a matterof de re and not of de dicto
+belief, and that is a matterof de dictoand not of de re belief".
+   It is fairly easy to set forth criteriaenablingus to reducethe de re
+locutionto the de dictolocution.The difficultproblemis that of chosing
+amongthem.
+   To see how to formulatesuchcriteria,let us considerbrieflythe nature
+of propositions,and then note some of the ways in whichthese abstract
+objectsmay be relatedto particularindividualthings.
+
+                              6. PROPOSITIONS
+
+We will say that the markof a propositionis the fact that it is something
+capableof being accepted:
+
+
+
+
+    This content downloaded from 128.103.149.52 on Tue, 09 Feb 2016 18:18:43 UTC
+                    All use subject to JSTOR Terms and Conditions
+          KNOWLEDGE         AND BELIEF: 'DE DICTO' AND 'DE RE'                       7
+
+  (D3)       p is a proposition = Df It is possible that there is someone
+             who acceptsp.
+This characterizationof propositionsis suggestedby Leibniz,Bolzano,
+Frege, and W. E. Johnson.9
+  Sincewe arecharacterizing propositionsas possibleintentionalobjects,
+as thingswhichare suchthat they may be accepted,we will introducethe
+followingstrict conceptof entailment,conceivedas a relationthat may
+hold amongpropositions:
+  (D4)       p entailsq= Df P is necessarilysuchthat(a) if it is truethenq is
+             true and (b) whoeveracceptsit acceptsq.
+We may now may affirmthis nontrivialcriterionof identityfor proposi-
+tions: if a propositionp is identicalwith a propositionq, thenp entailsq
+and q entailsp.
+   We willassumethatpropositions,likepropertiesor attributes,existnec-
+essarily.Wewill also assumethat propositionsarerelatedto propertiesor
+attributesin the followingway: For everypropertyG, thereis a proposi-
+tionp and a propositionq whichare necessarilysuchthat:p is trueif and
+only if G is exemplified,and q is trueif and only if G is not exemplified.
+   Let us say that a propositionp contradictsa propositionq if p is neces-
+sarilysuch that it is true if and only if q is not true. We could now say
+that a negationof a propositionp is a propositionq of the followingsort:
+q contradictsp, andfor everyr, if r contradictsp, thenr is necessarilysuch
+that if it is true then q is true.
+   We will also assumethat thereare conjunctive     propositions.That is to
+say, we will assumethat for everypropositionp and everypropositionq,
+thereis a propositionc whichis necessarilysuchthat, c is trueif and only
+if p is trueand q is true.Sucha propositionc wouldbe a conjunction     of p
+and q.
+   The formulaeof the propositionalcalculusmaybe interpretedas being
+generalprinciplesabout propositions,so conceived.
+
+              7. PROPOSITIONS         AND INDIVIDUAL          THINGS
+
+We definedabovea relationof entailmentthatmaybe saidto hold among
+propositions.Let us now considerthe sense in which a proposition may
+be said to entail a property.
+
+
+
+
+      This content downloaded from 128.103.149.52 on Tue, 09 Feb 2016 18:18:43 UTC
+                      All use subject to JSTOR Terms and Conditions
+8                            RODERICK       CHISHOLM
+
+
+  Thatpropositionwhichis some dogsbeingbrownmaybe saidto entail
+the propertyof beingbrown,the propertyof beinga dog (i.e., the property
+of being canine),and the propertyof being both a dog and brown.For
+the propositionis necessarilysuch that, if it is true, then somethinghas
+those properties.Let us say, then:
+    (D5)     p entailsthe propertyof beingF = Df p is necessarilysuchthat
+             (i) if it is truethen somethinghas the propertyof beingF and
+             (ii) whoeveracceptsit believesthat somethingis F.
+This definitionis a schemain whichthe letterF may be replacedby any
+Englishpredicateexpression- e.g., 'brown',or 'a dog', or 'such that all
+men are mortal'.
+   The point of the secondclausein the abovedefiniens('whoeveraccepts
+it believesthat somethingis F') is to give us a strongsense of of 'entail'.
+Withoutthis clause,our definitionwouldrequireus to say, of any contra-
+dictoryproposition,that that propositionentails any propertywhatever
+- say the propertyof being a unicorn.For the propositionis necessarily
+such that, eitherit is not true or whoeveracceptsit believesthat some-
+thing is a unicorn.
+   We next add a definitionof the conceptof an individualconcept.10
+    (D6)      C is an individualconcept = Df C is a propertysuchthat (i) it
+              is possiblethat somethinghas C and (ii) it is not possiblethat
+              more than one thing has C at a time.
+Thusthe propertyof beingthe tallestmanis an individualconceptandso,
+too, for the propertyof being the Presidentof the United States.
+  Given this conceptof an individualconcept,we can say what it is for
+a propositionto imply, with respectto someparticularthing,that that
+thing has a certainproperty.This importantconceptmay be explicated
+in the followingway:
+    (D7)     p implies x to have the propertyof being F =Df Thereis a
+             propertyG suchthat(i) Gis an individualconcept,(ii)p entails
+             the conjunctionof G and the propertyof being F, and (iii) x
+             has G.
+An alternativereadingof the definienswouldbe, 'p implies,with respect
+to x, that it is F'. Thus that propositionwhich is the Presidentof the
+
+
+
+
+      This content downloaded from 128.103.149.52 on Tue, 09 Feb 2016 18:18:43 UTC
+                      All use subject to JSTOR Terms and Conditions
+         KNOWLEDGE         AND BELIEF: 'DE DICTO' AND 'DE RE'                       9
+
+United Statesbeingin Washingtonmay be said to imply,with respectto
+Mr. Ford, that he is in Washington.For it entailsan individualconcept,
+beingthe Presidentof the UnitedStates,andthe propositionis necessarily
+such that, if it is true, then whateverhas that individualconcept is in
+Washington.
+  Definition(D7), as well as certaindefinitionsto follow, presupposes
+that, for any two propertiesA and B, there is a propertywhich is the
+conjunction of A and B, i.e., a propertywhichis necessarilysuchthat it is
+exemplifiedby all and only those things that exemplifyboth A and B.
+
+      8. A LATITUDINARIAN            CONCEPTION        OF 'DE RE' BELIEF
+
+It is now a simplematterto formulatea latitudinarianaccountof de re
+belief. Thus we could say:
+            S attributesthe propertyof being F to x =Df S accepts a
+            propositionwhichimpliesx to have the propertyof beingF.
+   The proposeddefinitionrequires,as it should,thatif x is to be believed
+by S to be F, then there must be such a thing as x. And it satisfiesthe
+requirementswe formulatedat the end of Section4 above:it is compatible
+with the entailmentrelationsthereset forth. But otherwisethe definition
+wouldseemto be overlylatitudinarianor permissive.11    One could object:
+"If S's belief is actuallyto pertainto the particularindividualx, then S
+must bear some kind of intimateepistemicrelationshipto x. S must be
+ableto get outsidethe circleof his own ideasanddirecthis beliefprecisely
+upon that particularindividual."
+   Is the epistemic objection sound? The following situation, adapted
+from an exampleproposedby Sosa, mightlead us to concludethat it is
+not sound.
+   We assumethat a new man, called'Shorty',hasjustjoined the platoon
+and that the Lieutenantis unawareof this fact. The Lieutenantexpresses
+to the Sergeanthis de dictobeliefthat it wouldbe best if the shortestman
+in the platoonwereto go first.SinceShortyis now the shortestman, the
+Sergeantsays to him: "The Lieutenantbelievesit is best that you go
+first".In such a situation,Sosa concludes,it is true to say, with respect
+to the shortestman in the platoon,that the Lieutenantbelieveshe is the
+one who shouldgo first.'2
+
+
+
+
+     This content downloaded from 128.103.149.52 on Tue, 09 Feb 2016 18:18:43 UTC
+                     All use subject to JSTOR Terms and Conditions
+10                           RODERICK       CHISHOLM
+
+
+  Yet Shortycouldreply(or at least say to himself):"Butthe Lieutenant
+can't thinkthat I am the one who shouldgo first.He doesn'teven know
+that I exist, muchless that I'm now a memberof the platoon."So far as
+our philosophicalquestionis concerned,I'm inclinedto thinkthat Shorty
+would be right: the Lieutenanthad no beliefs that were directedupon
+him. It is true that, so far as the practical,nonphilosophicalquestionis
+concerned,it wassufficientfor the Sergeantto say: "TheLieutenantthinks
+you are the one go first".But, I suggest,he would have been speaking
+more accuratelyif he had said: "Whatthe Lieutenantbelievesimplies
+that it would be best if you go first".
+  I am inclined to think, therefore,that this epistemicobjectiondoes
+apply to the present,latitudinarianaccountof de re belief. The account
+should be qualifiedby some referenceto what the subjectknows.To do
+this is a relativelysimplematter.But beforeformulatingand considering
+such a qualification,let us turnto the conceptof de dictoknowledge.For
+the outcomeof recentcontroversiesabout the natureof such knowledge
+bearsdirectlyupon the successof our attemptto characterizebeliefde re.
+
+                         9. KNOWLEDGE           'DE DICTO'
+
+In orderto explicatethe conceptof de dictoknowledge,we make use of
+the undefinedconceptof epistemicpreferability,as expressedin the locu-
+tion, 'p is epistemicallypreferableto q for S at t'.13 In termsof this locu-
+tion, we firstdefinethe conceptsof the certainand the evident.
+     (D8)     h is certainfor S=Df h is true; and h is necessarilysuchthat,
+              if it is true, then acceptingh is epistemicallypreferableto
+              withholdingh for S, and thereis no i such that acceptingi is
+              epistemicallypreferableto acceptingh for S.
+(For simplicity,we omit the temporalreference.)The expression'with-
+holdingh', whichappearsin this definition,may be taken to abbreviate
+'neitheracceptingh nor acceptingnot-h'.
+   What we know need not be certain,in this rigid sense of the term
+'certain',but everythingthat we know may be said at least to be evident.
+An evidentproposition,like one thatis certain,is one suchthataccepting
+it is epistemicallypreferableto withholdingit, but it may fall just short
+of certainty.Let us say:
+
+
+
+
+      This content downloaded from 128.103.149.52 on Tue, 09 Feb 2016 18:18:43 UTC
+                      All use subject to JSTOR Terms and Conditions
+         KNOWLEDGE        AND BELIEF: 'DE DICTO' AND 'DE RE'                       11
+
+  (D9)     his evidentfor S =Df (i) Acceptingh is epistemicallypreferable
+           for S to withholdingh and(ii) for everyi, if acceptingi is epis-
+           temicallypreferablefor S to acceptingh, theni is certainfor S.
+Many otherepistemictermsmay be definedin this manner.14
+  Somepropositionsserveto makeothersevident.Thusthe thingsI know
+about the past are made evidentby thingsI know about the present.In
+place of 'makingevident',we could also use 'justify',but the latterterm
+may be misleadingsinceit is sometimesused to expressrelationsthat are
+weakerthan that of makingevident.15
+  In orderto characterizethe conceptof makingevident,let us firstsay
+what it is for one propositionto be such that it is a basis for another
+proposition:
+  (D1O) e is a basis of h for S =Df e :iscertainfor S; and necessarily,
+        for everyx, if e is certainfor x, then h is evidentfor x.
+I assumethat, for anythingh that is evidentfor S, thereis somethinge
+whichis a basis of h for S.16 (This assumptionmight be said to charac-
+terize'foundationalism'.)
+  And now we may formulateour definitionof makingevident:
+  (DI 1)    e makesh evidentfor S =Df e is evidentfor S; and, for every
+            b, if b is a basis of e for S, then b is a basis of h for S.
+It shouldbe noted that, if e is a basis of h for S, then e makesh evident
+for S. But e maymakeh evidentfor S withoute therebybeinga basisof h
+for S. It may be, for example,that thereare propositionsabout Neptune
+and aboutastronomythat makeevident,for some astronomer,a number
+of propositionsaboutthe motionsof Uranus.But the formerpropositions
+do not providea basisof the latterpropositions,sincethe formerproposi-
+tionscannotbe saidto be certainin the strictsensedefinedin (D8) above.17
+   Accordingto the traditionalconceptionof knowledge,a man can be
+said to know a propositionh providedthe followingthreeconditionsare
+fulfilled:(1) he acceptsh, (2) h is true; and (3) h is evidentfor him.
+   But the traditionalconception of knowledgehas been shown to be
+inadequateby EdmundL. Gettier, Jr., in his classic paper entitled 'Is
+JustifiedTrueBeliefKnowledge?'18      It is essentialthat we considerbriefly
+the nature of this problemfor, as we shall see, it bearsdirectlyupon our
+
+
+
+
+    This content downloaded from 128.103.149.52 on Tue, 09 Feb 2016 18:18:43 UTC
+                    All use subject to JSTOR Terms and Conditions
+12                          RODERICK       CHISHOLM
+
+
+problemof explicatingbeliefde re. Theinadequacyof the traditionalcon-
+ception derivesfrom the fact that some of the thingswe know are such
+that they arenot logicallyimpliedby thingsthat makethemevident- the
+fact, in otherwords,that our evidencefor some of the thingswe know is
+nondemonstrativeor inductive.This fact implies that one proposition
+may make anotherpropositionevidentfor a subjectS even though the
+second propositionis false, and hence that a propositionmay be both
+evidentand false. And this fact provesdisastrousfor the traditionalcon-
+ception of knowledge.
+   Supposean evidentfalsehoodmakesevidentstill anotherproposition
+- and that the otherpropositionhappensto be true.Thenthe traditional
+conceptionwould requireus to say that the latterpropositionis known
+to be true, but it may be in fact that the latterpropositionis not known
+to be true.
+   The following example, somewhatoversimplified,will illustratethis
+situation.SupposeS mistakesa dog for a sheep,but undersuch condi-
+tions that the false propositionhe would expressby 'I see a sheepin the
+field'is evidentto him. That is to say, thereis a set of propositionssuch
+as S mightexpressby: 'I seemto see a sheepin thefield,I rememberhaving
+seen one therebefore,and I don't know of any disturbancethat mightbe
+affectingmy vision...'. This set of propositions,we may assume,makes
+evidentthe propositionhe would expressby 'I see a sheep in the field'.
+Thenthe propositionhe wouldexpressby 'A sheepis in the field'will also
+be evidentto him. Suppose furtherthat, as luck would have it, thereis
+a sheepin the field- butelsewherein the fieldandnot seenor eventhought
+of by S. This situation,obviously,would not warrantour sayingthat S
+knowsthat there is a sheep in the field. But it satisfiesthe terms of the
+traditionaldefinitionof knowledge,for the propositionthat there is a
+sheep in the field is a propositionh which is such that: (1) S acceptsh;
+(2) h is true; and (3) h is evidentfor S.
+   Whatwentwrongin the situationdescribed?Althoughthe proposition
+h 'Thereis a sheepin the field',was both true and evident,the basisthe
+man had for h was also a basis for thefalse proposition'1 see a sheepin
+the field'. Since we do not want to count h as a case of knowledge,we
+mightconsidersayingthat, if a man knowsa propositionto be true,then
+his basisfor thatpropositionshouldnot also be a basisfor a falseproposi-
+tion. But this would be too stringenta requirement.It would not enable
+
+
+
+
+     This content downloaded from 128.103.149.52 on Tue, 09 Feb 2016 18:18:43 UTC
+                     All use subject to JSTOR Terms and Conditions
+          KNOWLEDGE       AND BELIEF: 'DE DICTO' AND 'DE RE'                       13
+
+us to say, of the man of our example,that he knew the conjunctionof
+propositionswhich made evidentfor him the false propositionthat he
+saw a sheepin the field.(Sincethat conjunctionmadea false proposition
+evident,thenits basiswas also basisof a falseproposition.)We may note,
+however,that althoughthe conjunctionmadea false propositionevident,
+none of its conjunctswas suchas to makea falsepropositionevident.We
+could say, then, that if a propositionis to be known,then it is equivalent
+to a conjunctionof propositionsno one of whichis such that its basis is
+a basis of a false proposition.But, to be even more cautious,let us add
+that, if a propositionis to be known,then it shoulditself be evident.We
+may put this requirementby sayingthat what is known should be non-
+defectivelyevident.19
+  We will define'nondefectivelyevident'in the followingway:
+  (D12)     h is nondefectivelyevidentfor S =Df h is evidentfor S and is
+            entailedby a conjunctionof propositionseach havingfor S
+            a basis which is not a basis of any false propositionfor S.
+We may now definede dictoknowledgeas follows:
+  (D13)     h is known by S =Df h is acceptedby S; h is true; and h is
+            nondefectivelyevidentfor S.
+In (DI) above, we definedthe schema'S believesthat p' in termsof 'S
+acceptsthe propositionthatp'. The schema'S knows thatp' could now
+be construedanalogously:
+  (D14)     S knows that p=Df         The propositionthat p is known by S.
+
+          10. A MORE RIGID        CONCEPTION        OF BELIEF 'DE RE'
+
+Giventhe conceptof knowledgede dicto,we are now able to replacethe
+latitudinarianconceptionof beliefde re, set forth above,by a morerigid
+definition:
+  (D14)     S attributesthe propertyof being F to x =Df There is an
+            individualconceptC such that (i) S knows a propositionim-
+            plying x to have C and (ii) S accepts a propositionwhich
+            entailsthe conjunctionof the propertyC and the propertyof
+            being F.
+
+
+
+
+    This content downloaded from 128.103.149.52 on Tue, 09 Feb 2016 18:18:43 UTC
+                    All use subject to JSTOR Terms and Conditions
+14                          RODERICK       CHISHOLM
+
+
+  If Scottis the authorof Waverley,andif the propositionthatthe author
+of Waverleyis Scotchis one that is knownby George,then, whetheror
+not Georgehas any idea that Scott might have written Waverley,Scott
+may be said to be such that Georgebelieveshim to be Scotch.And this
+will be so even if Georgeacceptsthe propositionthat Scottis not Scotch.
+  Whatif Scott is also authorof Marmionand Georgeacceptsthe prop-
+osition that the authorof Marmionis not Scotch?It will still be the case,
+given our definitions, that Scott - i.e., the author of Marmion- is believed
+by Georgeto be Scotch.
+  Supposethat, in addition,the propositionthat the authorof Marmion
+wrote many works is one that George knows to be true. Since, we are
+assuming,Georgeacceptsthe propositionthat the authorof Marmionis
+notScotch,mustwe now saythat Scottis the authorof believedby George
+to be both Scotchand not Scotch?We arenot entitledto say this. We can
+say that Georgebelieveswith respectto Scott that he is Scotch and we
+canalso saythatGeorgebelieveswithrespectto Scottthathe is not Scotch.
+But we cannot say that Georgebelieveswith respectto Scott that he is
+both Scotch and not Scotch. It would be unjust,therefore,to say that
+Georgehas a contradictorybelief or even that he has beliefsthat contra-
+dict each other.20
+
+                    11. SOME OBJECTIONS           CONSIDERED
+
+Let us considernow four possible objectionsto this definitionof de re
+belief.
+  (1) "Your definitionis over-permissive.If Robinson knows that the
+tallestspy is a spy and believesthat all spiesare secretive,then,if he puts
+two and two together,he will believethat the tallestspy is secretive.Your
+account,therefore,wouldrequireyou to say thatthe tallestspyis believed
+by Robinsonto be secretive.But, surely,his knowledgethat the tallest
+spy is a spy is much too easily acquired.It hardlybringshim into the
+requisiterelationshipwith the tallest spy."
+  Thisobjectionhas manyvariants.None takesthe conceptof knowledge
+sufficientlyseriously.The knowledgein questionis not easily acquired.
+To say of a propositionthat it is knownby a given personis not merely
+to say that the propositionis one that he is justifiedin accepting.Nor is it
+to say merelythatthe propositionis one thatfor himis beyondreasonable
+
+
+
+
+     This content downloaded from 128.103.149.52 on Tue, 09 Feb 2016 18:18:43 UTC
+                     All use subject to JSTOR Terms and Conditions
+         KNOWLEDGE         AND BELIEF: 'DE DICTO' AND 'DE RE'                       15
+
+doubt.To knowthat the tallestspy is a spy, one mustknow,not only that
+there are spies, but also that there are not two or more spies such that
+they are of the same height and tallerthan all otherspies. And to know
+that latterpropositionone must have informationthat probablyno one
+has.21
+   (2) "SupposeC is the propertyof being identicalwith the President;
+q is the propositionthatthe Presidentis a Republican;andp is the propo-
+sition that the Presidentis a residentof California.Imaginenow a well-
+informedWashingtoncorrespondentwho hadbeen asleepfor a weekand
+woke up on August 10th, 1974,still believingthat Mr. Nixon was Presi-
+dent and still believingthat the Presidentwas a residentof California.
+Sincethe propositionq, that the Presidentis a Republican,is a proposi-
+tion that the correspondentknewto be true,your definitionwould have
+the absurdconsequencethat this well-informedcorrespondentbelieves,
+with respectto Mr. Ford, that he is a residentof California."
+   This objection,like the precedingone, does not take the concept of
+knowledgesufficientlyseriously.As we have seen, if a person knowsa
+propositionto be true,then, not only mustthe propositionbe evidentor
+justified,but also it should be such that the groundor basis that it has
+does notjustify or makeevidentanyfalse proposition.But the ostensible
+knowledgereferredto in the proposedcounter-exampledoes not fulfill
+this condition.The well-informedcorrespondentdid not know that the
+Presidentis a Republican;for the basishe had for this propositionmade
+evidentthe false propositionthat Mr. Nixon is President.Ourdefinition
+(D13) above- the definitionof 'h is knownby S' - wouldnot allowus to
+say that the correspondentknows that the Presidentis a Republican.22
+And so, too, for anyof the otherthingshe mightbe thoughtto knowabout
+the President.
+   (3) "SupposeS knows(p) that the Mayoris well respected,S believes
+(r) that the man who robbedthe bank is dead, and, unsuspectedby S,
+the Mayor is the man who robbedthe bank. Now S puts two and two
+togetherand acceptsthe conjunction,p and r. But this conjunctionim-
+plies, with respectto the Mayor,that he is dead. Thereforeyour theory
+requiresyou to say,implausibly,thatS believes,withrespectto the Mayor,
+that he is dead."
+   The replyis that the conjunction,p and r, does not imply,with respect
+to the Mayor,that he is dead. If p and r is to imply this, it must entail
+
+
+
+
+     This content downloaded from 128.103.149.52 on Tue, 09 Feb 2016 18:18:43 UTC
+                     All use subject to JSTOR Terms and Conditions
+16                          RODERICK       CHISHOLM
+
+
+a conjunctionof two properties.One of the two propertiesshould be
+entailedby a propositionwhichis knownby S and whichimpliessome-
+thing with respectto the Mayor;the otherpropertyshouldbe the prop-
+ertyof beingdead.But the conjunction,p andr, impliesno suchconjunc-
+tion of properties.It is not a propositionwhichis necessarilysuch that
+whoever accepts it believes that there is somethingwhich is both the
+Mayor and dead. See (D5) in Section7 above.
+   (4) "If thereis a personsuch that Jonesbelieves,with respectto him,
+that he is the next President,then Jones knowswho that personis. And
+moregenerally,if thereis an entityx whicha personS has a beliefabout,
+then S knows who or what that entity is. But the conditionsof your
+definitioncould be satisfiedeven if Jones didn't know who the next
+Presidentis. Thereforeyour accountis over-permissive."
+   But is it correctto say that a personS cannothavea beliefwithrespect
+to a thing x unless S knowswho,or knowswhat,x is? Surelynot. I can
+believe, with respectto a man I see standingon the corner,that he is
+wearinga hat - withoutknowingwho the man is. A visitorfromanother
+countrycouldvisit one of our politicalconventionsand be led to believe,
+with respectto the speakeron the rostrum,that he is our next President
+- withouthavingany idea as to who the speakermight in fact be. It is
+a mistake,then,to equatean explicationof de re beliefwithan explication
+of the extraordinarily  elusiveconceptsof knowingwhoand knowingwhat.
+   It is possible,of course,to formulatemorerestrictivecharacterizations
+of de re belief.For example,one mightdefine'S attributesthe propertyof
+beingF to x' by saying:'Thereis a q suchthat S knowsq to be trueand q
+impliesx to be F'. But I thinkthat the presentaccounthas the advantage
+of being neitherexcessivelyrigoristicnor excessivelylatitudinarian.23
+
+                           12. KNOWLEDGE          'DE RE'
+
+Given the precedingdefinitions,it is now a relativelysimple matterto
+characterizeknowledgede re. Let us say this:
+  (D15)      x is knownby S to be F =Df Thereis a propositionwhichis
+             knownby S and whichimpliesx to be F.
+  The otherepistemictermsreferredto above may also be given a de re
+interpretation.Thus we may say, not only that a certainpropositionis
+
+
+
+
+     This content downloaded from 128.103.149.52 on Tue, 09 Feb 2016 18:18:43 UTC
+                     All use subject to JSTOR Terms and Conditions
+          KNOWLEDGE          AND BELIEF: 'DE DICTO' AND 'DE RE'                       17
+
+evidentfor S, but also that thereis a certainthingx whichis such that it
+is evidentfor S that x has a certainproperty.We may say:
+  (D16)       x is such that it is evidentfor S that it is F =Df Thereis an
+              individualconcept C such that: (i) S knows a proposition
+              implyingx to have C; and (ii) thereis a propositionwhichis
+              evidentfor S andwhichentailsthe conjunctionof the property
+              C and the propertyof beingF.
+Definitionsof otherde re epistemicconceptswould be analogous.
+  Whathas been said hereaboutthe relationsbetweende re and de dicto
+beliefmay be carriedover to otherpropositionalattitudes- for example,
+desire,hope,fear,andendeavor- andit mayalso be appliedto the theory
+of value.24
+
+Brown University
+
+                                        NOTES
+
+  My thought on these questions has been influencedby discussions with Michael
+Corrado,Fred Feldman,RichardFeldman,EdmundL. Gettier,HerbertHeidelberger,
+Michael Hooker, Gareth Matthews, Mark Pastin, Ernest Sosa, and Robert Swartz.
+2 This general point of view is defended in 'Chisholm-SellarsCorrespondenceon
+Intentionality',Minnesotain the Philosophyof ScienceII (1957), 521-539; reprintedin
+A. Marras(ed.), Intentionality,MindandLanguage(Universityof IllinoisPress,Urbana,
+1972), p. 539.
+3 I have discussedthis point in 'Leibniz'sLaw in Belief Contexts',in A. Tymieniecka
+and Charles Parsons (eds.), Contributionsto Logic and Methodologyin Honor of
+J. M. Bochenski(North-HollandPubl. Co., Amsterdam,1965), pp. 243-250.
+4 This is the conceptionof de dictobelief that is presupposedin the writingsof Bolzano,
+Frege, Husserl, W. E. Johnson, and others. For its relevanceto contemporaryprob-
+lems about referenceand translation,compareStephenLeeds, 'How to Think about
+Reference',Journalof PhilosophyLXX (1973), 485-503.
+5 See Franz Brentano, Grundziigeder Asthetik (A. Francke, Bern, 1959), pp. 82-87,
+and Die Lehre vom richtigen Urteil (A. Francke, Bern, 1956), p. 64. Compare also
+Anton Marty, Untersuchungen     zurGrundlegung      derallgemeinenGrammatikundSprach-
+philosophie(Max Niemeyer,Halle, 1908), pp. 455-467.
+6 A strict entailmentrelation will be definedin (D4), in Section 6 below.
+7 A clear exampleof this mistakemay be found in the firstedition of my book, Theory
+of Knowledge(Prentice-Hall,Inc., Englewood Cliffs, N.J., 1966). I there wrote: "A
+belief is trueprovided,first, that it is a belief or assertionwith respectto a certainstate
+of affairs that that state of affairs exists, and provided, secondly, that that state of
+affairsexists". (p. 103) CompareFrege: "Judging,we may say, is acknowledgingthe
+truth of something list etwas als wahranerkennen];what is acknowledgedto be true
+can only be a thought.The originalkernelnow seems to have crackedin two; one part
+
+
+
+
+      This content downloaded from 128.103.149.52 on Tue, 09 Feb 2016 18:18:43 UTC
+                      All use subject to JSTOR Terms and Conditions
+18                           RODERICK       CHISHOLM
+
+
+of it lies in the word 'thought'and the other in the word 'true"'. The passage is from
+'Negation', in Frege'sPhilosophicalWritings,ed. by Black and Geach, p. 126n.
+8 Comparethe discussionsof this question in W. V. Quine, 'Quantifiersand Proposi-
+
+tional Attitudes', Journal of PhilosophyLIUI(1956), 177-187; W. V. Quine, Word
+and Object (The MassachusettsInstitute of Technology, Cambridge, Mass., 1960).
+ChapterIV; and Robert Sleigh, 'Quantifyinginto EpistemicContexts',Nous I (1967),
+ 23-21.
+9 CompareLeibniz, 'Dialogus de Connexioneinter Res et Verba, et VeritatisReali-
+tate', in J. E. Erdmann (ed.), OperaPhilosophica,Vol. I, p. 76; Bernard Bolzano,
+ Theoryof Science,ed. by Rolf George (Basil Blackwell,Oxford, 1972),p. 26; G. Frege
+PhilosophicalWritings,ed. by Peter Geach and Max Black, p. 120; W. E. Johnson,
+Logic, Part I (The UniversityPress, Cambridge,1921), pp. 3-4. Comparealso Anton
+ Marty, Untersuchungenzur Grundlegungder allgemeinen Grammatikand Sprach-
+philosophie(Max Niemeyer, Halle, 1908), pp. 288-362.
+10 Wilfrid Sellarsmakes essentialuse of the concept of an individualconcept in ana-
+lyzing belief; see 'Some Problemsabout Belief', in D. Davidson and J. Hintikka(eds.),
+ Wordsand Objections:Essays on the Work of W. V. Quine (D. Reidel Publ. Co.,
+Dordrecht, 1969), pp. 186-205. But Sellars'saccount is quite differentfrom that pro-
+posed here. Following Frege, he assumes that singularterms within intentionalcon-
+texts refer to their senses ratherthan to their ordinarydesignata;thus 'Jones believes
+that the tallestman is wise'refersto a relationbetweenJonesand the conceptexpressed
+by 'the tallest man' (i.e., to the propertyof being the tallest man). But to whatrelation
+betweenJones and the individualconcept? Sellarsconcedes it is not that of believing
+the individualconcept to be wise. Evidentlythe best that can be done is to say that it is
+a relation very much like that of believing the individualconcept to be wise. Thus
+Alonzo Church, defending an analogous account of "Schliemannsought the site of
+Troy", said: "The relationholding betweenSchliemannand the concept of the site of
+Troy is not quite that of having sought, or at least it is misleadingto call it that - in
+view of the way in which the verb to seek is commonly used in English".Introduction
+to MathematicalLogic, Vol. I (Princeton University Press, Princeton, 1956), p. 8n.
+11 For a defense of this latitudinarianaccount of de re belief, compare: Ernest Sosa,
+'PropositionalAttitudes De Dicto and De Re', Journalof PhilosophyLXVII (1970),
+883-896, and 'Rejoinderto Hintikka',Journalof PhilosophyLXVI (1971), 498-501;
+and Mark Pastin, 'About De Re Belief", Philosophyand PhenomenologicalResearch
+XXXIV (1974), 569-575.
+12 PropositionalAttitudes De Dicto and De Re, p. 890.
+13 Axioms for this concept are set forth in 'A Systemof EpistemicLogic', by Roderick
+
+M. Chisholmand Robert Keim, Ratio XV (1973), 99-115.
+14 For example: h is beyond reasonabledoubt (for S) if accepting it is preferableto
+
+withholding it; h has some presumptionin its favor if accepting it is preferableto
+acceptingnot-h; h is acceptableif withholdingit is not preferableto acceptingit; h is
+unacceptableif it is not acceptable;h is gratuitousif acceptingit is not preferableto
+withholdingit; and h is counterbalancedif thereis no presumptionin its favor and no
+presumptionin favor of not-h.
+15 For example, the relations that might be expressedby saying 'makingacceptable',
+'makingsuch as to be beyond reasonabledoubt', and 'makingsuch as to have some
+presumptionin its favor'.
+16 The definiensabove could also be read as 'e is a basis of h being evident for S'. We
+could define,in an analogousway, 'e is a basis of h being beyond reasonabledoubt for
+
+
+
+
+      This content downloaded from 128.103.149.52 on Tue, 09 Feb 2016 18:18:43 UTC
+                      All use subject to JSTOR Terms and Conditions
+           KNOWLEDGE AND BELIEF: 'DE DICTO' AND 'DE RE'                                19
+
+S', 'e is a basis of h having some presumptionin its favor for S', and similarlyfor our
+other epistemiccategories.
+17 The following relationsbetweenthe two conceptsjust definedshould also be noted.
+
+If e is a basis of h for S, then e is necessarilysuch that, if it is certainfor S, then h is
+evidentfor S. But if e makesh evidentfor S, then it is possible for it to be the case that
+e is certainfor S and h is not evidentfor S. The latterpossibilitywill be realizedif e's
+contributiontoward h being evident is defeated- if there is some proposition i such
+that i is evident for S and the conjunction,e and i, does not make h evident. But if e
+is a basis for h, e's contributioncannot be thus defeated;as long as e is certainfor S,
+h will be evident for S.
+18 AnalysisXXV (1963), 121-23.
+19 This term was suggestedby Ernest Sosa.
+20 CompareQuine'sdiscussionof Ortcutand the man seen at the beach, in 'Quantifiers
+
+and PropositionalAttitudes',referredto above.
+21 But I would say it is no specialepistemicachievementto know propositionsentailing
+one's own individualessence or haecceity. (We may define an individualessence or
+haecceityas an individualconcept G which is necessarilysuch that, for every x, x has
+G if and only if x is necessarilysuch that it has G, and it is not possible that there is
+a y other than x such that y has G.) I would say that, when I believe, with respectto
+myself, say, that I am walking,then I accept a proposition(which I would express by
+saying '1 am walking')and which entails my individualessenceor haecceity(the prop-
+erty I would expresswhen I use the word 'I' or 'me').
+22 I believethat the analysesof knowledgeto be found in the following writingswould
+have a similar result: Ernest Sosa, 'The Analysis of "Knowledgethat P"', Analysis
+XXV (1964), 1-8; Keith Lehrerand Thomas Paxon, 'Knowledge:UndefeatedJustified
+True Belief', Journalof PhilosophyLXVI (1969), 225-237; Gilbert Harman, 'Knowl-
+edge, Inference,and Explanation',AmericanPhilosophicalQuarterlyV (1968),164-173;
+PeterD. Klein, 'A ProposedDefinitionof PropositionalKnowledge',Journalof Philos-
+ophyLVIII(1971),471-482; R. Hilpinen,'Knowledgeand Justification',AjatusXXXII
+(1971), 8-39; Marshal Swain, 'Knowledge, Causality, and Justification',Journalof
+Philosophy LXIX (1972), 291-300; Bredo C. Johnsen, 'Knowledge', Philosophical
+StudiesXXV (1974), 273-382; Keith Lehrer,Knowledge(The ClarendonPress,Oxford,
+ 1974), and Ernest Sosa, 'How Do You Know?' AmericanPhilosophicalQuarterlyXI
+(1974), 113-122.
+ 23 Most of the alternativesto this account of de re belief make essentialuse of certain
+linguisticconcepts,e.g., 'vividname','singularterm','a descriptionbeingrepresentative
+of an individualfor a given person',and the like. CompareDavid Kaplan,'Quantifying
+In', in Wordsand Objections:Essayson the Workof W. V. Quine,ed. by D. Davidson
+and J. Hintikka (D. Reidel Publ. Co., Dordrecht, 1969), pp. 206-242; Ernest Sosa,
+ 'PropositionalAttitudes De Dicto and De Re' (referredto above); and Mark Pastin,
+op. cit. Hintikkadefendsthe view that a person S has a belief, with respectto a certain
+thing x, only if S knows, with respectto x, that x is identicalwith x; but he does not
+attemptto explicatethe latterde re epistemiclocution. See J. Hintikka,Knowledgeand
+ Belief (CornellUniversityPress,Ithaca, N.Y., 1962), Chapter6; and 'On Attributions
+of "Self-Knowledge"',Journalof PhilosophyLXVII (1970), 73-87.
+ 24 We may say, not only (de dicto)it is intrinsicallygood that thereare people who are
+ happy, but also (de re) that John is such that it is intrinsicallygood that he is happy.
+(The latter could be explicatedthis way. There is a nonempty set of states of affairs
+each of whichoccursand implieswith respectto John that he is happy;the conjunction
+
+
+
+
+     This content downloaded from 128.103.149.52 on Tue, 09 Feb 2016 18:18:43 UTC
+                     All use subject to JSTOR Terms and Conditions
+20                           RODERICK      CHISHOLM
+
+
+C, of all those states of affairs such that each is implied by every member of S, is
+intrinsicallygood.) The presenttype of analysismay also be extendedto the theory of
+causation. We may distinguish(a) the de dicto causal situation wherein one state of
+affairsis said to contributecausallyto anotherfrom (b) the de re causalsituationwhere-
+in we may say, of individualthings, that one of them being in a certainstate or having
+a certainpropertycontributescausally to the other being in a certainstate or having
+a certain property.I have set forth such an account of de re causation in my Carus
+Lectures,Person and Object:A MetaphysicalStudy, to be published in 1976 by The
+Open Court PublishingCompanyand Allen and Unwin, Ltd. I there also defend the
+view that propositionsconstitutea subspeciesof states of affairsand that the concept
+of the truthof a proposition may be defined in terms of the occurrenceof a state of
+affairs.
+
+
+
+
+     This content downloaded from 128.103.149.52 on Tue, 09 Feb 2016 18:18:43 UTC
+                     All use subject to JSTOR Terms and Conditions
+

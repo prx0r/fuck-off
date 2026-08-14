@@ -1,0 +1,723 @@
+# The British Society for the Philosophy of Science
+
+**source:** pdf · **section:** solutions
+**file:** Quantum_Jumps_2
+---
+
+
+Are There Quantum Jumps? Part I
+Author(s): E. Schrödinger
+Source: The British Journal for the Philosophy of Science, Vol. 3, No. 10 (Aug., 1952), pp.
+109-123
+Published by: Oxford University Press on behalf of The British Society for the Philosophy of Science
+Stable URL: http://www.jstor.org/stable/685552 .
+Accessed: 07/04/2013 17:23
+
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at .
+http://www.jstor.org/page/info/about/policies/terms.jsp
+
+.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+.
+
+                Oxford University Press and The British Society for the Philosophy of Science are collaborating with JSTOR to
+                digitize, preserve and extend access to The British Journal for the Philosophy of Science.
+
+http://www.jstor.org
+
+                             This content downloaded from 128.103.149.52 on Sun, 7 Apr 2013 17:23:30 PM
+                                            All use subject to JSTOR Terms and Conditions
+        The                British                   Journal                      for            the
+
+                    Philosophy                               of          Science
+
+VOLUME        III                               AUGUST,           1952                                 No. Io
+
+                ARE THERE QUANTUM JUMPS?
+                                                  PART I*
+
+                                           E. SCHRODINGER
+
+      . cominciai a credere, che uno, che lascia un'opinione imbevuta
+col latte, e seguita da infiniti, per venire in un' altra da pochissimi seguita,
+e negata da tutte le scuole, e che veramentesembraun paradossograndissimo,
+bisognasse per necessitY,che fusse mosso, per non dir forzato, da ragioni
+pid efficaci.' Galileo, Dialogueon the Two GreatestWorldSystems,2nd Day.
+
+                                   I The CulturalBackground
+PHYSICALscience, which aims not only at devising fascinating new
+experiments,but at obtaining a rational understandingof the results
+of observations,incurs at present, so I believe, the grave danger ot
+getting severed from its historical background. The innovations
+of thought in the last 50 years, great and momentous and unavoidable
+as they were, are usually overratedcomparedwith those of the pre-
+ceding century; and the disproportionateforeshortening by time-
+perspective, of previous achievements on which all our enlighten-
+ment in modern times depends,reachesa disconcertingdegreeaccord-
+ing as earlier and earlier centuries are considered. Along with this
+disregardfor historicallinkage there is a tendency to forget that all
+science is bound up with human culture in general, and that scientific
+findings, even those which at the moment appear the most advanced
+and esoteric and difficult to grasp, are meaningless outside their cultural
+context. A theoretical science, unaware that those of its constructs
+considered relevant and momentous are destined eventually to be
+                             * Received28. iv. 52
+    H                                                 IO9
+
+                    This content downloaded from 128.103.149.52 on Sun, 7 Apr 2013 17:23:30 PM
+                                   All use subject to JSTOR Terms and Conditions
+                                E. SCHRODINGER
+
+framed in concepts and words that have a grip on the educated com-
+munityand becomepartand parcelof the generalworld picture-
+a theoretical science, I say, where this is forgotten, and where the
+initiated continue musing to each other in terms that are, at best,
+understoodby a smallgroupof closefellowtravellers,
+                                                will necessarily
+be cut off from the rest of cultural mankind; in the long run it is
+bound to atrophy and ossify, however virulently esoteric chat may
+continue within its joyfully isolatedgroups of experts. This has
+happened before in similar circumstances. Benjanun Farrington
+puts it admirably in his Greek Science,1vol. 2, p. 173 :
+    'Perhaps the most decisive defeat of the scientific spirit in antiquity
+    had been the loss of the sense of history. History is the most funda-
+    mental science, for there is no human knowledge which cannot lose
+    its scientific characterwhen men forget the conditions under which it
+    originated, the questions which it answered, and the functions it was
+    created to serve. A great part of the mysticism and superstition of
+    educated men consists of knowledge which has broken loose from its
+    historicalmoorings.'
+    The disregardfor historicalconnectedness,nay the pride of
+embarkingon new ways of thought,of productionand of action,
+the keen endeavourof shakingoff, as it were, the indebtedness
+to our predecessors, are no doubt a generaltrendof our time. In
+the fine arts we notice strong currentsquite obviouslyinformed
+by this vein; we witnessits resultsin modernpainting,sculpture,
+architecture,music and poetry. There are many who look upon
+this as a new buoyantrise,while othersregardit as a flaringup that
+inaugurates  decay. It is not herethe placeto dwell on this question,
+and my personalviews on it mightinterestnobody. But I may say
+that wheneverthis trend enters science,it ought to be opposed.
+There obviouslyis a certaindangerof its intrudinginto sciencein
+general,which is not an isolatedenterpriseof the humanspirit,but
+grows on the samehistoricsoil as the othersand participates   in the
+mood   of  the age. There  is, however, so I believe,no other nearly
+so blatantexampleof thishappeningas the theoriesof physicalscience
+in our time. I believethatwe areherefacinga developmentwhich
+is the precisecounterpartof that in the fine artsalludedto above.
+The most appropriate   expressionto use for it is one borrowedfrom
+the historyof poetry: G6ngorism. It refersto the poetry of the
+Spaniard  Luisde G6ngora(156I-I627), very fine poems,by the way,
+                           1 Pelican Books, London, 1949
+                                                IIO
+
+              This content downloaded from 128.103.149.52 on Sun, 7 Apr 2013 17:23:30 PM
+                             All use subject to JSTOR Terms and Conditions
+                ARE        THERE            QUANTUM                   JUMPS?
+
+especiallythe early ones. Yet also his later poems (to which the term
+more particularlyrefers) are well sounding and they all makesense.
+But he uses all his acuity and skill on making it as difficultas possible
+to the readerto unravel the sense, so that even natives of Castile use
+extended commentariesto grasp the meaning safely.
+     One ought not, I think, to say that if, in this, physics is following
+a general trend of our time, we must not oppose it. Though we are
+entirely the product of historicaldevelopment, yet it is we who make
+its continuationand not history that dragsus along a predestinedtrail.
+It dependsentirelyon us, on our stoppingto think andacting according
+to reason, whether there will be decay or a new rise after the crisis.
+This is what BertrandRussellin recent yearshas not tired to inculcate
+with regard to much more momentous questions than the fate of
+theoreticalphysics. However, here we shall be concerned with the
+latter.
+    My friend and scientific colleague Professor Hans Thirring,
+in his book Homo Sapiens,' in which he conducts an elaborate
+and very creditablecampaign against War, and for Universal Peace,
+incidentally opines that in antiquity everybody except a few men
+of genius considered the earth to be a flat disk. Professor E. P.
+Wigner, in an articleon ' The Limits of Science' 2 is in doubt whether
+to date the ' birthyear' of chemistry around 1780 (Lavoisier)or at
+18o8 (Dalton's law). Physics, he says, is somewhat older, since
+Newton's Principia became available in 1687. He grants that
+'Archimedes discovered laws of physics around 2S50B.C. but his
+discoveries can hardly be called the real beginning of physics.' I
+must not take up space by refuting these strangeviews, but refer the
+reader to Professor Benjamin Farrington's two excellent Pelican
+books on Greek Science. Still I would mention that among the
+'insignificant' discoveries of that period was the inference, drawn
+(probablyby Archimedes)from the heliocentricsystem of Aristarchus,
+that the fixed starsmust be at leastat a distanceof, in our units,about
+two light years ; and the further conclusion that from there the sun
+would appearas a faintstar,and therefore,inversely,many of those stars
+must equaland even exceed the sun in size--or luminosity,as we would
+call it today. Of course scientificknowledge takes some time to get
+a grip on the cultured community. Charles Darwin tells us in the
+ Voyageof a Naturalistof the sensationhe caused in 1833 among the
+                   1
+                       Wien, 1948
+                   2Proc.Am.Philosoph.
+                                    Soc.1950,94, 422
+                                                III
+
+              This content downloaded from 128.103.149.52 on Sun, 7 Apr 2013 17:23:30 PM
+                             All use subject to JSTOR Terms and Conditions
+                               E. SCHRODINGER
+
+'educated' society in Argentine by telling them that the earth is a
+sphere. This knowledge was then more than 2,300 years old.
+    What has all this to do with quantum jumps ? I have been
+trying to produce a mood that makes one wonder what partsof con-
+temporary science will still be of interest to others than historians
+2,000 yearshence. Therehave been ingeniousconstructsof the human
+mind that gave an exceedingly accurate description of observed
+facts and have yet lost all interestexcept to historians. I am thinking
+of the theory of epicycles. I confess to the hereticalview that their
+modern counterpartin physical theory are the quantumj umps. Or
+ratherthese correspondto the circleswhich the sun, the moon and the
+starswere thought to describearoundthe earthin 24 hoursafterearlier
+and better knowledge had been condemned. I am reminded of
+epicyclesof various orderswhen I am told of the hierarchyof virtual
+quantum transitions. But let these rude remarks not deter you.
+We shall now come to grips with the subjectproper.
+
+            2 The Discontinuous
+                              Statesas ProperModes
+    Max Planck'sessentialstep in 1900, amounted,as we say now, to
+laying the foundation of quantum theory; it was his discovery,
+by abstractthought, of a discontinuity  where it was least expected,
+namely   in the           of
+                 exchange energy     between  an elementary material
+system (atom or molecule) and the radiationof light and heat. He
+was at first very reluctantto draw the much more incisive conclusion
+that each atom or molecule had only to choose between a discreteset
+of 'states'; that it could normally only harbour certain discrete
+amounts of energy, sharply defined and characteristicof its nature;
+that it would normally find itself on one of these ' energy levels' (as
+the modern expressionruns)-except when it changes over more or
+less abruptlyfrom one to another,radiatingits surplusenergy to the
+surrounding,or absorbingthe requiredamountfrom there,as the case
+may be. Planck was even more hesitant to adopt the view that
+radiation itself be divided up into portions or light-quanta or
+'photons,' to use the presentterminology. In all this his hesitancehad
+good reasons. Yet only a few yearslater (1905) Einsteinadvancedthe
+hypothesis of light-quanta, clinching it with irresistiblearguments;
+and in 1913 Niels Bohr, by taking the discrete states of the atoms
+seriously and extending Planck's assumptionsin two directionswith
+great ingenuity, but irrefutable consistency, could explain quantita-
+                                                II2
+
+             This content downloaded from 128.103.149.52 on Sun, 7 Apr 2013 17:23:30 PM
+                            All use subject to JSTOR Terms and Conditions
+              ARE THERE QUANTUM                                     JUMPS?
+ tively some of the atomicline spectra,which are all patentlydiscrete,
+ andwhichhadin theirentiretyformeda greatconundrum          up to then:
+ Bohr'stheoryturnedthem into the ultimateand irrevocabledirect
+ evidence,that the discretestatesare a genuineand realfact. Bohr's
+ theoryheld the groundfor abouta dozenof years,scoringa grand
+ seriesof so marvellousand genuinesuccesses,thatwe maywell claim
+ excusesfor havingshut our eyes to its one greatdeficiency: while
+ describingminutelythe so-called'stationary'stateswhichthe atom
+ had normally,i.e. in the comparativelyuninteresting      periodswhen
+                  the
+ nothinghappens, theory       was  silentabout the periodsof transition
+ or 'quantumjumps' (as one then began to call them). Since
+ intermediary  stateshadto remaindisallowed,onecouldnot but regard
+ the transitionas instantaneous  ; but on the otherhand,the radiating
+ of a coherentwave trainof 3 or 4 feet length,as it can be observed
+ in an interferometer,  would use up just about the averageinterval
+ betweentwo transitions,    leavingthe atom no time to 'be' in those
+ stationary       the
+            states,    only onesof whichthetheorygavea description.
+    This difficultywas overcome by quantummechanics,more
+ especiallyby wavemechanics,    whichfurnished  a new description of the
+states; thiswas preciselywhatwas stillmissingin the earliestversion
+of the new theorywhichhadprecededwave mechanicsby aboutone
+year. The previouslyadmitteddiscontinuitywas not abandoned,
+but it shiftedfrom the statesto somethingelse, which is most easily
+graspedby the simile of a vibratingstring or drumheador metal
+plate, or of a bell that is tolling. If such a body is struck,it is set
+vibrating,thatis to say it is slightlydeformedandthenrunsin rapid
+succession  througha continuousseriesof slightdeformations    againand
+again.   There      of
+                is, course,    an infinite        of       of
+                                          variety ways strikinga
+givenbody,saya bell,by a hardor soft,sharpor bluntinstrument,         at
+differentpoints or at severalpoints at a time. This producesan
+infinitevarietyof initialdeformations   and accordinglya trulyinfinite
+         of
+variety shapes      of the ensuing vibration: the rapid'successionof
+cinemapictures,'so we might call it, which describesthe vibration
+following on a particularinitial deformationis infinitelymanifold.
+But in every case,howevercomplicatedthe actualmotionis, it can
+be mathematically    analysedasbeingthesuperposition of a discreteseries
+of comparatively    simple'propervibrations,'   each of which goes on
+with a quite definitefrequency. This discreteseriesof frequencies
+dependson the shapeandon the materialof the body,its densityand
+elastic properties. It can be computed from the theory of elasticity,
+                                              113
+
+             This content downloaded from 128.103.149.52 on Sun, 7 Apr 2013 17:23:30 PM
+                            All use subject to JSTOR Terms and Conditions
+                             E. SCHRODINGER
+from which the existence and the discretenessof proper modes and
+proper frequencies,and the fact that any possible vibration of that
+body can be analysedinto a superpositionof them, are very easily
+deducedquite generally,i.e. for anelasticbody of any shapewhatsoever.
+    The achievement of wave mechanicswas, that it found a general
+model picture in which the 'stationary' states of Bohr's theory take
+the rble of proper vibrations, and their discrete 'energy levels'
+the rble of the proper frequenciesof these proper vibrations; and all
+this follows from the new theory, once it is accepted, as simply and
+neatly as in the theory of elastic bodies, which we mentioned as a
+simile. Moreover, the radiated frequencies, observed in the line
+spectra,are in the new model, equal to the differences   of the proper
+frequencies;   and this  is easily understood, when  two  of them are
+                        on
+acting simultaneously, simple assumptions       about the nature of the
+vibrating 'something.'
+
+        3 The AllegedEnergyBalance-a Resonance     Phenomenon
+    But to me the following point has alwaysseemedthe most relevant,
+and it is the one I wish to stress here, because it has been almost
+obliterated-if words mean something, and if certainwords now in
+generaluse are taken to mean what they say. The principleof super-
+position not only bridges the gaps between the 'stationary' states,
+and allows, nay compels us, to admit intermediate states without
+removing the discretenessof the 'energy levels' (becausethey have
+become proper frequencies); but it completely does away with the
+prerogativeof the stationarystates. The epithet stationaryhas become
+obsolete. Nobody who would get acquaintedwith wave mechanics
+without knowing its predecessor (the Planck-Einstein-Bohr-theory)
+would be inclined to think that a wave-mechanicalsystem has a pre-
+dilection for being affectedby only one of its proper modes at a time.
+Yet this is implied by the continued use of the words 'energy levels,'
+Ctransitions,'' transitionprobabilities.'
+    The perseverance in this way of thinking is understandable,
+because the great and genuine successesof the idea of energy parcels
+has made it an ingrained habit to regard the product of Planck's
+constant h and a frequency as a bundle of energy, lost by one system
+and gained by another. How else should one understandthe exact
+dove-tailing in the great 'double-entry' book-keeping in nature?
+I maintainthat it can in all cases be understoodas a resonancepheno-
+                                              114
+
+             This content downloaded from 128.103.149.52 on Sun, 7 Apr 2013 17:23:30 PM
+                            All use subject to JSTOR Terms and Conditions
+                ARE THERE QUANTUM JUMPS?
+menon. One ought at least to try, and look upon atomic frequencies
+just as frequenciesand drop the idea of energy-parcels. I submit that
+the word 'energy' is at present used with two entirely different
+meanings, macroscopic and microscopic. Macroscopic energy is a
+ ' quantity-concept' (Quantitatsgr6sse). Microscopicenergy meaning
+hv) is a ' quality-concept' or 'intensity-concept' (Intensititsgr6sse);
+it is quite proper to speak of high-grade and low-grade energy
+according to the value of the frequency v. True, the macroscopic
+energy is, strangelyenough, obtainedby a certainweighted summation
+over the frequencies,and in this relation the constant h is operative.
+But this does not necessarilyentail that in every single case of micro-
+scopic interaction a whole portion hv of macroscopic     energy is ex-
+changed.    I believe one is allowed to regard microscopicinteraction
+as a continuousphenomenonwithout losing either the preciousresults
+of Planck and Einstein on the equilibrium of (macroscopic)energy
+between radiationand matter, or any other understandingof pheno-
+mena that the parcel-theoryaffords.
+     The one thing which one has to accept and which is the inalien-
+able consequenceof the wave-equationas it is used in every problem,
+under the most various forms, is this : that the interactionbetween
+two microscopic physical systems is controlled by a peculiar law of
+resonance. This law requiresthat the diferenceof two proper fre-
+quencies of the one system be equal to the differenceof two proper
+frequenciesof the other:
+          - V1= V2 V2()
+         V1
+The interactionis appropriatelydescribedas a gradualchange of the
+amplitudes of the four proper vibrations in question. People have
+kept to the habit of multiplyingthis equationby h and sayingit means,
+that the first system (index I) has dropped from the energy level
+hV1to the level       the balancebeing transferredto the second system,
+          it to hvx',
+enabling        rise from  hy2 to hV2'. This interpretationis obsolete.
+There is nothing to recommend it, and it bars the understandingof
+what is actually going on. It obstinatelyrefusesto take stock of the
+principle of superposition,which enables us to envisage simultaneous
+gradual changes of any and all amplitudeswithout surrenderingthe
+essentialdiscontinuity,if any, namely that of the frequencies. To be
+accuratewe must add, that the condition of resonance,equation (I),
+may include three or more interactingsystems. It may for example
+read          V - V' = v2' - v2 + v3' -v3                               ..                 (2)
+                                                 IIs5
+
+              This content downloaded from 128.103.149.52 on Sun, 7 Apr 2013 17:23:30 PM
+                             All use subject to JSTOR Terms and Conditions
+                              E. SCHRODINGER
+Moreoverwe may adoptthe view that the two or moreinteracting
+systemsare regardedas onesystem. One is t;ien inclinedto write
+equations(i) and (2), respectively,as follows
+        V1
+         +v2            V2 ..
+                      V12+                                                               .   (
+              ~ V V1
+         v1+ •V          1 V21+2       ,.     .    .           (2')                      .
+andto statethe  resonanceconditionthus: the interactionis restricted
+to constituentvibrationsof thesamefrequency. Thisis a familiarstate
+of affairs,of old. Unfamiliaris the tacitadmissionthat frequencies
+are additive,when two or more systemsare consideredas forming
+one system. It is an inevitableconsequenceof wave mechanics. Is
+it so very repugnantto common sense? If I smoke 25 cigarettes
+per day, and my wife smokesIo, and my daughter12-is not the
+familyconsumption47 per day-on the average?
+
+                        4 A TypicalExperiment
+   Jokes aside, I wish to considersome typical experimentsthat
+ostensiblyforcethe energyparcelview upon us, andI wish to show
+thatthisis an illusion. A beamof cathoderaysof uniformvelocity,
+which can be graduallyincreased,is passedthroughsodiumvapour.
+Behindthe vesselcontainingthe vapourthe beampassesan electric
+fieldwhichdeflectsit andtellsus the velocityof the particlesafterthe
+passage. At the sametime a spectrometer    inspectsthe light, if any,
+emittedby the vapour. For smallinitialvelocitynothinghappens:
+no light, no changeof velocityin the cathodebeam. But when the
+initialvelocityis increasedbeyonda sharplydefinedlimit, two things
+happen. The vapourbeginsto glow, radiatingthe frequencyof the
+first line of the 'principalseries'; and the beam of cathoderays
+emergingfrom the vapouris splitinto two by the deflectingelectric
+field, one indicatingthe initialvelocityunchanged,andanotherslow
+one has'lost an amountof energy' equalto the frequencyof the said
+spectralline multipliedby Planck'sconstanth. If the velocity is
+furtherincreasedthe story repeatsitself when the incidentcathode
+ray energy increasesbeyond the 'energy level' that is responsible
+for the secondline (or ratherthe 'level-difference'in question);
+thislineappearsanda thirdbeamof cathoderayswithcorrespondingly
+reducedspeedoccurs; and so on. This was, and still is, regarded
+as blatantevidenceof the energyparcelview.
+    But it is just as easily understoodfrom the resonancepoint of
+view. A cathoderay of particleswith uniformvelocityis a mono-
+                                               116
+
+            This content downloaded from 128.103.149.52 on Sun, 7 Apr 2013 17:23:30 PM
+                           All use subject to JSTOR Terms and Conditions
+                ARE THERE QUANTUM                                     JUMPS?
+ chromaticbeam of de Broglie waves. Only when its frequency
+      surpasses the frequencydifference(v2'- v2) betweenthe lowest
+ (vl)
+ (v2) and the second  (v2')properfrequenciesof thesodiumatomis there
+ a de Broglie frequencyv,' > o that fulfils the resonancedemand,
+ equation(I). Then the vibrationv,' appearsin the de Brogliewave
+ and v2,' among the atoms which begin to glow with frequency
+v2' -V2,    since Maxwell's'electromagnetic     vacuum' is prepared
+ for resonancewith anything. The splittingof the cathoderay beam
+ in the deviatingelectricfield, afterpassingthe vapour,is accounted
+ for by de Broglie'swave equation. An electricfield has for de
+ Brogliewavesan 'index of refraction'thatdepends    on theirfrequency
+ (' dispersion') and has  a         in
+                            gradient the directionof the field (which
+ thus acts as an 'inhomogeneousmedium'). Any furtherevents
+ that might happen,for instancea transferof some of the 'energy
+ quanta' h(v2'- v2) from the sodiumatomsto other gas molecules
+ by 'impacts of the second kind,' arejust as easily understoodas
+ resonancephenomena,providedonly one keepsto the wave picture
+throughoutandfor all particlesinvolved.
+     Many similarcases of apparenttransferof energy-parcelscan
+ be reducedto resonance-for instancephotochemicalaction. The
+patternis alwaysthe same: you may eithertake equationslike (I)
+or (2) as theystand(resonance),   or multiplythemby h andthinkthey
+expressan energybalanceof every single micro-transition.In the
+precedingexampleone point is of particularinterest. One is able
+by an externalagent (theelectricfield)to separate  in spacethe two or
+more frequencieswhich have arisenin the cathoderay by the inter-
+action; for theybehavedifferently    towardsthisagentandthedifferent
+behaviouris completelyunderstood      fromde Broglie'swave equation;
+one thus obtainstwo or more beamsof homogeneousfrequency(or
+velocity). It is extremelyvaluablethattherearesimplecasesof this
+kindin whichtheseparation     into two 'phases'hasnothingenigmatic;
+it is an immediateconsequenceof the principleslaid down in L. de
+Broglie'searliestwork on materialwaves. I say, this is fortunate;
+for thereis a vast domainof phenomenain which the separationin
+space either takes place in the naturalconditionsof observation,
+or can easilybe broughtaboutby simpleappliances;but it is not
+as easilyexplainedon firstprinciples. This might disheartenone in
+acceptingthe view of graduallychangingamplitudes,that I put
+forwardhere; for the separationinto differentphasesthatproduces
+itself before our eyes seems to confirm the belief that a discontinuous
+                                               117
+
+              This content downloaded from 128.103.149.52 on Sun, 7 Apr 2013 17:23:30 PM
+                             All use subject to JSTOR Terms and Conditions
+                               E. SCHRODINGER
+
+abrupt and completetransition occurs in every single microscopic
+interaction.
+
+                                  andthe Photoelectric
+         5 Chemistry,Photochemistry,                Effect
+   The vast amountof phenomenaI am alludingto is in the first
+place ordinarychemistry. Two or more constituents,mixed in a
+solution or in a gaseousphase, begin to react with each other, under
+the influenceof light or otherwise; the portionsthat have reacted
+and have formed a new chemicalcompoundmay separatethem-
+selvesalmostentirelyfromthe restandforma new phase,saybecause
+theproductis almostinsolublein theliquid,or (inthe caseof a gaseous
+mixture)by its beinga liquidor solidwith a low vapourpressureat the
+temperaturein question. Almost any chemicalreactionmay serve as
+an example,but let us takea slow oneto facilitatespeechandthought.
+If a suitablemixtureof hydrogengas (H2)and oxygen gas (02) is
+illuminatedby ultravioletlight,the followingslowreactionis induced
+                   2H2 + 02 - 2H20                             (3)
+As the concentration of water vapour (H20) increases,part of it
+separatesoff into liquid droplets.
+    The actual process is not as simple as the balance (3) indicates,
+it is a chain reaction. But we need pay no attention to this, and
+contemplate only the initial state and the end-product. Wave-
+mechanicallythe gaseousmixture is representedby a vibration of the
+combined system, and, by the way, not by oneproper vibrationsince
+there is anyhow the vast variety of translationaland rotationalmodes,
+and, of course, the electronic modes. The gaseous compound, H20,
+is representedby an entirely different vibration of the samesystem.
+The modes composing it, absent at first, are graduallychiming in as
+the reactionproceeds. But then there is a thirdgroup of vibrations
+representingthe liquid H20; they gradually build up where they
+are facilitated by dust nuclei, and are observed as droplets. It is,
+of course, deplorablethat wave mechanicsdoes not allow us to follow
+this observedprocess analytically, while, in the now current inter-
+pretation,ample informationis forthcoming about a host of experi-
+ments that nobody has ever been or ever will be able to perform (for
+instancewe are told, what is the probabilityof our finding at a definite
+spot inside a given hydrogen atom an electron, if we look for one).
+But there is no reasonto suspectthat the separationof phasesis funda-
+mentally different from the spectroscopic resolution of a beam of
+                                               II8
+
+             This content downloaded from 128.103.149.52 on Sun, 7 Apr 2013 17:23:30 PM
+                            All use subject to JSTOR Terms and Conditions
+                ARE THERE QUANTUM                                     JUMPS?
+light or of cathoderaysinto its monochromatic     constituents.One
+neednot be afraidthatthe formationof spatialboundaries,    separating
+coherentregionsof chemicallyor physicallydistinctproperties,  cannot
+possiblybe controlledby the wave equation,but must necessarily
+be accountedfor by the picturesque  pageantryof individualmolecules
+            or
+swallowing re-spewing       whole energyparcels,beingdisruptedand
+re-combined,  until they eventuallygo to form one or two molecules
+of a new type.
+    I deemthe lattersimplywrong; it is not in accordance    with our
+present stateof knowledge,  whose furtherprogress hamperedif these
+                                                 is
+easypictures, thatare in commonuse, takenliterally. Andwe are
+                                     are
+encouragedto takethemliterallynot only by text-booksandpopular
+essaysbut also by the languageusedin very high-browedtechnical
+treatises. By this I will not deny that this imageryis a very useful,
+nay indispensable, conceptualshorthandin chemicalresearch. One
+cannotsee how to avoidit when, for example,a complicatedchain
+reactionis to be unravelled. And, of course,the chemicalequation
+for describinga reactionwill never be ousted,thoughit ostensibly
+describesthe singlemicro-eventandis wrongin this. It is aninstance
+of the famous'as if.' It is not the firstinstanceof this kind in the
+relationof chemistryand physics. The chemistused the valency
+strokefor buildingmodelsof complicatedmolecules. It represented
+very realfactsof observation. Fora long timethephysicistcouldnot
+affordanyexplanation   of themechanism  of thechemicalbond. Then,
+in brief succession, two  were given: there is a heteropolarbond
+(Kossel, 1916) and a homopolar bond (London-Heitler,1926). The
+discoveries were illuminating to the chemist, indeed they removed
+some difficultiescausedby interpretingthe valency strokestoo naively.
+But, of course, the valency strokes were retained as an extremely
+convenient shorthand. They could be retained because they were
+based on carefully pondered observation.
+   As one of the simplest photochemical reactions we may regard
+the photoelectric effect, which was one of the main incentives for
+Einsteinin 1905 to launchthe hypothesisof light quanta. When
+a metal plate is illuminatedby light of sufficientlyhigh frequency,
+electronsemergefrom it forthwithwith an energy correspondingto this
+frequency. There is no time delay, even when the intensity of the
+incidentlight is so weak that accordingto the electrontheory of H. A.
+Lorentz,which was at the time in full swing, an electron would need
+half an hour to be sped up to the velocity in question. This was-and,
+                                                119
+
+              This content downloaded from 128.103.149.52 on Sun, 7 Apr 2013 17:23:30 PM
+                             All use subject to JSTOR Terms and Conditions
+                             E. SCHRODINGER
+I am afraid,still is-regarded as convincingevidenceof the instan-
+taneoustransferof whole quantaof energy from the light to the
+electron. I understand  the presentorthodoxinterpretation  to be as
+follows. The incidentlight beamproducesat oncein eachof tensof
+thousands of electronsanexceedinglysmallprobability of takingwithin
+the next splitseconda leapinto a stateof highertranslationalenergy;
+a correspondingly   small fractionof those tens of thousandsdo so
+andemergefrom the metal,andthatis why the gamestartswithout
+delay.
+    But accordingto wave mechanics,as put forwardby de Broglie
+and myself and generallyaccepted,the interpretation    does produce
+without delay electronicwave trainsof the higher frequencythat
+we observeemergingfrom the metal. (Forto observethefrequency
+of an electronor its velocitymeansthe same thing.) Afterthishas
+been recognised,is the probabilityschemeanylongerneeded? Has
+the idea of the mysterioussudden leaps of single electronsnot
+becomegratituitous   ? Isit expedient? Thewavesarethereanyhow,
+and we are not at a loss to prove it. We need only put a tube of
+crystalpowder in the way of the emergingbeam and producean
+interferencepatternof the type first achievedby G. P. Thomson
+(it mightnot be as beautifulas Thomson's,butit wouldvouchfor the
+waves all the same).
+
+                 6 SingleInteraction
+                                  Processes
+                                         between
+                     Micro-Systems(' Collisions')
+    Thereare besideschemistryseveralother domainsof theoretical
+investigationin which the simplifyingscheme of individualcon-
+stituentmicro-systems  on sharpenergylevels,with abrupttransitions
+between them, affordsa very convenientshorthand. Nearly all
+thermodynamical                 are greatlyfacilitatedby adopting
+                   considerations
+thisschemein speechandthought,whichmakesverylittledifference,
+if any, in the results. This constitutesa certaindanger. In the
+inseparableunion of speechand thoughtthe primacy,ratherpara-
+doxically,restswith speech. When we hear the samewords again
+and againpronouncedwith authority,we areapt to forgetthatthey
+were originallymeantas an abbreviation;we areinducedto believe
+thattheydescribea reality.
+    If the simplifiedschemeof sharpenergystatesand abrupttransi-
+tionsbetweenthemwas workablethroughoutin all instances(which
+                                               120
+
+            This content downloaded from 128.103.149.52 on Sun, 7 Apr 2013 17:23:30 PM
+                           All use subject to JSTOR Terms and Conditions
+              ARE THERE QUANTUM                                     JUMPS?
+I do not thinkis the case),one would have to try and castit into a
+consistenttheory. At the momentno such theoryexistsand I can
+see no prospectof obtainingone, nor any inducementto try, for the
+reasonjust mentionedin parenthesis.At present the scheme is
+inconsistent,not only becauseof the mysterythe transitions    continue
+to presentfrom theirfirstappearance    in the theoriesof Planck(1goo)
+and Bohr (1913), but also for anotherreason,intimatelyconnected
+with the former. In applicationto two individualmicro-systems
+which interact,it is not at all clearwhich are the pureenergylevels
+distinguished,to which the scheme shall apply. The choice rests
+with the mathematical    technique. The usualprocedure    is asfollows.
+The total energy (which enters the mathematicalanalysisas the
+'operator' of the wave equation)is regardedas made up of three
+additiveparts; the two maincontributions      aresaidto pertainto the
+singlesystems   and  aresaid to controltheir behaviours,respectively,if
+           not
+theydid interact; thethirdis saidto be theirenergy(or' operator')
+of interaction. But thispartitionis ratherartificial,at any ratewhilst
+the interactiontakesplace. It is largelyguidedby the requirement
+that the mainpartsshouldbe comparatively       simpleand easyto deal
+with analytically,the whole complicationof the problem being
+shovedinto the interaction,which is calleda perturbation      and dealt
+with by methodsof approximation.     Evenso, it is hardlyeveramenable
+to a true solution(albeitan approximateone) ; one has to content
+ oneselfwith findingout what happensin a smallintervalof time.
+ One computesthe very smallchangesof amplitudes       thatoccurduring
+ thisshortinterval; andone is pleasedto call the time-rateof change
+ the probability of transition.By callingit so one expressesthe belief
+ that afterthe interactionhas takenplace and the two systemshave
+separatedagaineach of them will find itself in a pure sharpenergy
+ state. The computationdoes notgive this result. The computation
+ tellsus, thatin eithersystema hostof pureenergy-states  will be super-
+ posed-with     a certain dependence   between  the  partialamplitudes
+ in the one systemandthosein the other. But one choosesto interpret
+ this resultas meaningthat therewill be complete     exchangebetween
+ only one pair of proper modes, one of the many for which the
+ resonanceconditionholds.
+     One might say, why not, if this interpretation  works andif it is
+ consistent? I maintainthat it is inconsistent.The reasonis the
+ following. Assumeeach of the two systemsfound itself in a pure
+ energystate,when they were isolated,beforethe interactionstarted.
+                                                121
+
+             This content downloaded from 128.103.149.52 on Sun, 7 Apr 2013 17:23:30 PM
+                            All use subject to JSTOR Terms and Conditions
+                                E. SCHRODINGER
+ Now let the interactionset in ; take it to be very weak. It is certainly
+ legitimateto adopt the attitudethatwe arenow facedwith onesystem;
+ nay, this is the fundamentallycorrect attitude to take; the splitting
+ of the wave-operator (' energy ') into two private parts plus a part
+ depictingthe interactionis only a mathematicalartifice. But however
+ weak the interaction be, it has the immediateconsequence that the
+ combined system is now very far from any one of its pure energy
+ states. This is not the resultof a very strongmutualphysicalinfluence.
+ It obtains prior to any physical change. It resultsfrom a slight dis-
+ tuning of the proper modes by the perturbation. What were clear
+ 'one tone' proper modes in the isolated systemsno longer are in the
+ combined 'dis-tuned' systems-not nearly. You have to re-shuffle
+ them and combine (superposethem) in your mindin an intriguing
+ fashion to find the proper modes of the combined system. I say 'in
+ your mind '-there is, of course, no immediate physicalre-shuffling;
+ you just state that your combined system is very far from finding
+itself in one of its proper modes. And that is the very reason why,
+as time goes on, anything will happenat all, and why, in fact, even a
+weak interaction,given time, will produce substantialchanges of the
+amplitudes. For it is a simple elementaryand universallyrecognised
+statement of wave mechanics that an isolated system that vibrates
+exactly in one of its proper modes undergoesno change whatsoever.
+    This has, by the way, a consequenceworth mentioning. When
+we spoke just before of a weak interaction setting in between the
+previously isolated systems, the reader may very naturally have
+pictured to himself the two systems being first at great distanceand
+then approachingeach other and getting in contact. I avoided this
+descriptionon purpose,becauseit would flatly contradictthe assump-
+tion that the isolated systems were in pure energy states. If so they
+cannotbe saidto approach   eachother. To think of atoms and molecules
+inpureenergystates,moving hitherandthither,collidingandrebounding
+contradictsthe fundamentalconceptsof the theory. Where anything
+happens,we are not facing pure energy states. So obviously we never
+are.
+    Let me return for a moment to our two micro-systemsin weak
+interaction or, as I preferto say, to a system consistingof two parts
+in slight coupling. The state of affairsis simply this : if this system
+as a whole settled down in one of its exact proper modes, this would
+not be a state which the currentview interpretsas indicating a definite
+partition of the total energy between the two parts-not nearly;
+                                               122
+
+             This content downloaded from 128.103.149.52 on Sun, 7 Apr 2013 17:23:30 PM
+                            All use subject to JSTOR Terms and Conditions
+               ARE THERE QUANTUM JUMPS?
+I mean to say, it is not a question of slight fluctuationor uncertainty,
+but of many widely differentpartitions. If you abolishedthe coupling
+at this moment, the now isolated parts would vibrate, each of them,
+in a superpositionof widelydifferentproper modes.
+    Summarising: the current view, which privileges the 'sharp
+energy states,' is self-contradictory,anyhow in the language it uses
+(what people mean, when they say something else than they mean,
+is difficultto guess). We found it self-contradictoryin that it cannot
+be maintainedfor both the whole and the parts; we are left to choose
+and to apply the privilege the way it is most convenient. We found
+a minor inconsistency in the apparently innocent statement that
+two systems (both of sharplydefined energy) approach       each other and
+collide. This seems a little less obnoxious, because it can be evaded
+by saying : Oh well, we do not mean really quite sharp. Some may
+consider this point a rather gratuitousnagging. I wonder whether
+in actualcollision problemsit is entirely irrelevant.
+        (Theconcludingpartof thisarticlewill bepublished
+                                                       in November.)
+
+                                            NOTE
+
+    Professor Michael Polanyi drew my attention to a mistake.
+My descriptionof the Franck-Hertzexperimentin the first paragraph
+of Section 4 is, to put it mildly, oversimplified. The cathode ray
+beam is appreciably scattered in the vapour. The two or more
+electronicfrequenciesthat emerge could thereforehardlybe separated
+by the simple transversalfield method. But any two of them can be
+separatedby a potential barrierwhich the one can penetrate,while the
+other is turned back, being totally reflected. Since this is also com-
+pletely understoodby de Broglie's wave equation,the main argument
+is not impaired.
+                                                                E. S.
+
+Schoolof TheoreticalPhysics
+DublinInstitutefor AdvancedStudies
+64-66 MerrionSquare,Dublin
+
+                                                123
+
+             This content downloaded from 128.103.149.52 on Sun, 7 Apr 2013 17:23:30 PM
+                            All use subject to JSTOR Terms and Conditions
+

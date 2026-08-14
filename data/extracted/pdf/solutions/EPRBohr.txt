@@ -1,0 +1,352 @@
+OCTOBER       15,   1935                      PHYSICAL         REVIEW                                        VOLUM E          48
+
+
+Can Quantum-Mechanical Description of Physical Reality be Considered Complete?
+                           N. BOHR, Institute for Theoretical Physics, University, Copenhagen
+                                                (Received July 13, 1935)
+
+              It is shown that a certain "criterion of physical reality" formulated in a recent article with
+            the above title by A. Einstein, B. Podolsky and N. Rosen contains an essential ambiguity
+            when it is applied to quantum phenomena. In this connection a viewpoint termed "comple-
+            mentarity" is explained from which quantum-mechanical description of physical phenomena
+            would seem to fulfill, within its scope, all rational demands of completeness.
+
+
+
+     N a recent article 1 under the above title A.
+I      Einstein, B. Podolsky and N . Rosen have
+                                                             interaction with the system under investigation.
+                                                             According to their criterion the authors therefore
+presented arguments which lead them to answer                w a n t to ascribe an element of reality to each of
+the question a t issue in the negative. T h e trend          the quantities represented by such variables.
+of their argumentation, however, does not seem               Since, moreover, it is a well-known feature of the
+to m e adequately to meet the actual situation               present formalism of q u a n t u m mechanics t h a t
+with which we are faced in atomic physics. I                 it is never possible, in the description of the
+shall therefore be glad to use this opportunity              s t a t e of a mechanical system, to a t t a c h definite
+to explain in somewhat greater detail a general              values to both of two canonically conjugate
+viewpoint, conveniently termed "complementar-                variables, they consequently deem this formalism
+i t y , " which I have indicated on various previous         to be incomplete, and express t h e belief t h a t a
+occasions, 2 and from which q u a n t u m mechanics          more satisfactory theory can be developed.
+within its scope would appear as a completely                     Such an argumentation, however, would
+rational description of physical phenomena, such             hardly seem suited to affect the soundness of
+as we meet in atomic processes.                              quantum-mechanical description, which is based
+     T h e extent to which an unambiguous meaning            on a coherent mathematical formalism covering
+can be a t t r i b u t e d to such an expression as          automatically any procedure of measurement like
+"physical reality" cannot of course be deduced               t h a t indicated.* T h e a p p a r e n t contradiction in
+from a priori philosophical conceptions, b u t — a s
+                                                                * The deductions contained in the article cited may in
+the authors of the article cited themselves                  this respect be considered as an immediate consequence
+emphasize—must be founded on a direct appeal                 of the transformation theorems of quantum mechanics,
+                                                             which perhaps more than any other feature of the for-
+to experiments and measurements. For this                    malism contribute to secure its mathematical complete-
+purpose they propose a "criterion of reality"                ness and its rational correspondence with classical me-
+                                                             chanics. In fact, it is always possible in the description of a
+formulated as follows: "If, without in any way               mechanical system, consisting of two partial systems (1)
+disturbing a system, we can predict with cer-                and (2), interacting or not, to replace any two pairs of
+                                                             canonically conjugate variables (qipi), {q.ip<i) pertaining
+tainty the value of a physical q u a n t i t y , then        to systems (1) and (2), respectively, and satisfying the
+there exists an element of physical reality                  usual commutation rules
+corresponding to this physical q u a n t i t y . " By                          L^iPil- [q2p2l = ih/2>ir,
+means of an interesting example, to which we                             [2152]=Lpip2l =    Lq.ip2l=fo£i]=o,
+shall return below, they next proceed to show                by two pairs of new conjugate variables (<2i-Pi), (Q2P2)
+t h a t in q u a n t u m mechanics, just as in classical     related to the first variables by a simple orthogonal trans-
+                                                             formation, corresponding to a rotation of angle 6 in the
+mechanics, it is possible under suitable conditions          planes (gig2), (P1P2)
+to predict the value of a n y given variable                      2 i m Q\ cos 6 — Qi sin 0     pi = Pi c o s 0 - P 2 sin 6
+pertaining to the description of a mechanical                     Q2 — Q1 sin 9+Q2 cos 0        p2 = Pi sin 0-fP 2 cos 6.
+system from measurements performed entirely                  Since these variables will satisfy analogous commutation
+on other systems which previously have been in               rules, in particular
+  1                                                                        [GiPi]-iV2ir f      [C2iP2] = 0,
+    A. Einstein, B. Podolsky and N. Rosen, Phys. Rev. 47,
+777
+  2
+    (1935).                                                 it follows that in the description of the state of the com-
+    Cf. N. Bohr, Atomic Theory and Description of Nature, I bined system definite numerical values may not be as-
+(Cambridge, 1934).                                          signed to both Qi and Pi, but that we may clearly assign
+                                                        696
+                   QUANTUM             MECHANICS               AND      PHYSICAL         REALITY                 697
+
+fact discloses only an essential inadequacy of the                 which in the quantum-mechanical formalism is a
+customary viewpoint of natural philosophy for a                    direct consequence of the commutation relation
+rational account of physical phenomena of the                      for any pair of conjugate variables. Obviously
+type with which we are concerned in quantum                        the uncertainty Ap is inseparably connected with
+mechanics. Indeed the finite interaction between                   the possibility of an exchange of momentum be-
+object and measuring agencies conditioned by the                   tween the particle and the diaphragm; and the
+very existence of the quantum of action entails                    question of principal interest for our discussion
+—because of the impossibility of controlling the                   is now to what extent the momentum thus
+reaction of the object on the measuring instru-                    exchanged can be taken into account in the
+ments if these are to serve their purpose—the                      description of the phenomenon to be studied by
+necessity of a final renunciation of the classical                 the experimental arrangement concerned, of
+ideal of causality and a radical revision of our                   which the passing of the particle through the
+attitude towards the problem of physical reality.                  slit may be considered as the initial stage.
+In fact, as we shall see, a criterion of reality                      Let us first assume that, corresponding to
+like that proposed by the named authors con-                       usual experiments on the remarkable phenomena
+tains—however cautious its formulation may                         of electron diffraction, the diaphragm, like the
+appear—an essential ambiguity when it is ap-                       other parts of the apparatus,—say a second
+plied to the actual problems with which we are                     diaphragm .with several slits parallel to the
+here concerned. In order to make the argument                      first and a photographic plate,—is rigidly fixed
+to this end as clear as possible, I shall first                    to a support which defines the space frame of
+consider in some detail a few simple examples of                   reference. Then the momentum exchanged be-
+measuring arrangements.                                            tween the particle and the diaphragm will,
+   Let us begin with the simple case of a particle                 together with the reaction of the particle on the
+passing through a slit in a diaphragm, which                       other bodies, pass into this common support,
+may form part of some more or less complicated                     and we have thus voluntarily cut ourselves off
+experimental arrangement. Even if the mo-                          from any possibility of taking these reactions
+mentum of this particle is completely known                        separately into account in predictions regarding
+before it impinges on the diaphragm, the diffrac-                  the final result of the experiment,—say the posi-
+tion by the slit of the plane wave giving the                      tion of the spot produced by the particle on the
+symbolic representation of its state will imply                    photographic plate. The impossibility of a closer
+an uncertainty in the momentum of the particle,                    analysis of the reactions between the particle and
+after it has passed the diaphragm, which is the                    the measuring instrument is indeed no peculiarity
+greater the narrower the slit. Now the width of                    of the experimental procedure described, but is
+the slit, at any rate if it is still large compared                rather an essential property of any arrangement
+with the wave-length, may be taken as the                          suited to the study of the phenomena of the type
+uncertainty Aq of the position of the particle                     concerned, where we have to do with a feature
+relative to the diaphragm, in a direction perpen-                  of individuality completely foreign to classical
+dicular to the slit. Moreover, it is simply seen                   physics. In fact, any possibility of taking into
+from de Broglie's relation between momentum                        account the momentum exchanged between the
+and wave-length that the uncertainty Ap of the                     particle and the separate parts of the apparatus
+momentum of the particle in this direction is                      would at once permit us to draw conclusions
+correlated to Aq by means of Heisenberg's                          regarding the ''course" of such phenomena,—say
+general principle                                                  through what particular slit of the second
+                     ApAq^>h,                                      diaphragm the particle passes on its way to the
+                                                                   photographic plate—which would be quite in-
+such values to both Qx and P 2 . In that case it further results   compatible with the fact that the probability of
+from the expressions of these variables in terms of {q_ipi)
+and {q_2pi), namely                                                the particle reaching a given element of area on
+    (?i = 2i cos 0+^2 sin 0,    P 2 = —pi sin d+p2 cos 0,          this plate is determined not by the presence of
+that a subsequent measurement of either q2 or p2 will allow
+                                                                   any particular slit, but by the positions of all
+us to predict the value of q\ or pi respectively.                  the slits of the second diaphragm within reach
+698                                               NILS        BOHR
+
+of the associated wave diffracted from the slit of            investigation, in the sense that the quantum-
+the first diaphragm.                                          mechanical uncertainty relations regarding its
+   By another experimental arrangement, where                 position and momentum must be taken explicitly
+the first diaphragm is not rigidly connected with             into account. In fact, even if we knew the posi-
+the other parts of the apparatus, it would at                 tion of the diaphragm relative to the space frame
+least in principle* be possible to measure its                before the first measurement of its momentum,
+momentum with any desired accuracy before                     and even though its position after the last meas-
+and after the passage of the particle, and thus to            urement can be accurately fixed, we lose, on
+predict the momentum of the latter after it has               account of the uncontrollable displacement of
+passed through the slit. In fact, such measure-               the diaphragm during each collision process with
+ments of momentum require only an unambigu-                   the test bodies, the knowledge of its position
+ous application of the classical law of conservation          when the particle passed through the slit. The
+of momentum, applied for instance to a collision              whole arrangement is therefore obviously un-
+process between the diaphragm and some test                   suited to study the same kind of phenomena as
+body, the momentum of which is suitably con-                  in the previous case. In particular it may be
+trolled before and after the collision. It is true            shown that, if the momentum of the diaphragm
+that such a control will essentially depend on an             is measured with an accuracy sufficient for allow-
+examination of the space-time course of some                  ing definite conclusions regarding the passage of
+process to which the ideas of classical mechanics             the particle through some selected slit of the
+can be applied; if, however, all spatial dimensions           second diaphragm, then even the minimum un-
+and time intervals are taken sufficiently large,              certainty of the position of the first diaphragm
+this involves clearly no limitation as regards the            compatible with such a knowledge will imply the
+accurate control of the momentum of the test                  total wiping out of any interference effect—re-
+bodies, but only a renunciation as regards the                garding the zones of permitted impact of the
+accuracy of the control of their space-time coor-             particle on the photographic plate—to which the
+dination. This last circumstance is in fact quite             presence of more than one slit in the second
+analogous to the renunciation of the control of               diaphragm would give rise in case the positions
+the momentum of the fixed diaphragm in the                    of all apparatus are fixed relative to each other.
+experimental arrangement discussed above, and                    In an arrangement suited for measurements of
+depends in the last resort on the claim of a purely           the momentum of the first diaphragm, it is fur-
+classical account of the measuring apparatus,                 ther clear that even if we have measured this
+which implies the necessity of allowing a latitude            momentum before the passage of the particle
+corresponding to the quantum-mechanical uncer-                through the slit, we are after this passage still
+tainty relations in our description of their be-              left with a free choice whether we wish to know
+havior.                                                       the momentum of the particle or its initial posi-
+   The principal difference between the two ex-               tion relative to the rest of the apparatus. In
+perimental arrangements under consideration is,               the first eventuality we need only to make a
+however, that in the arrangement suited for the               second determination of the momentum of the
+control of the momentum of the first diaphragm,               diaphragm, leaving unknown forever its exact
+this body can no longer be used as a measuring                position when the particle passed. In the second
+instrument for the same purpose as in the pre-                eventuality we need only to determine its
+vious case, but must, as regards its position rela-           position relative to the space frame with the
+tive to the rest of the apparatus, be treated, like           inevitable loss of the knowledge of the mo-
+the particle traversing the slit, as an object of             mentum exchanged between the diaphragm and
+                                                              the particle. If the diaphragm is sufficiently
+   * The obvious impossibility of actually carrying out,
+with the experimental technique at our disposal, such         massive in comparison with the particle, we may
+measuring procedures as are discussed here and in the         even arrange the procedure of measurements in
+following does clearly not affect the theoretical argument,
+since the procedures in question are essentially equivalent   such a way that the diaphragm after the first
+with atomic processes, like the Compton effect, where a       determination of its momentum will remain at
+corresponding application of the conservation theorem of
+momentum is well established.                                 rest in some unknown position relative to the
+                 QUANTUM            MECHANICS               AND    PHYSICAL            REALITY                      699
+
+other parts of t h e apparatus, and the subsequent           duced, a t least in principle, by a simple experi-
+fixation of this position m a y therefore simply             mental arrangement, comprising a rigid dia-
+consist in establishing a rigid connection between           phragm with two parallel slits, which are very
+the diaphragm and the common support.                        narrow compared with their separation, and
+    M y main purpose in repeating these simple,              through each of which one particle with given
+and in substance well-known considerations, is               initial m o m e n t u m passes independently of the
+t o emphasize t h a t in the phenomena concerned             other. If the m o m e n t u m of this diaphragm is
+we are not dealing with an incomplete description            measured accurately before as well as after t h e
+characterized by the arbitrary picking out of                passing of the particles, we shall in fact know
+different elements of physical reality a t t h e cost        the sum of the components perpendicular t o the
+of sacrifying other such elements, b u t with a              slits of t h e m o m e n t a of the two escaping particles,
+rational discrimination between essentially differ-          as well as t h e difference of their initial positional
+ent experimental arrangements and procedures                 coordinates in t h e same direction; while of course
+which are suited either for an unambiguous use               the conjugate quantities, i.e., t h e difference of
+of the idea of space location, or for a legitimate           the components of their m o m e n t a , a n d t h e sum
+application of the conservation theorem of mo-               of their positional coordinates, are entirely
+m e n t u m . Any remaining appearance of arbitrari-         unknown.* In this arrangement, it is therefore
+ness concerns merely our freedom of handling the             clear t h a t a subsequent single measurement
+measuring instruments, characteristic of the very            either of t h e position or of t h e m o m e n t u m of
+idea of experiment. In fact, the renunciation in             one of t h e particles will automatically determine
+each experimental arrangement of the one or t h e            the position or m o m e n t u m , respectively, of t h e
+other of two aspects of the description of physical          other particle with a n y desired accuracy; a t least
+phenomena,—the combination of which charac-                  if t h e wave-length corresponding t o t h e free
+terizes t h e method of classical physics, and which         motion of each particle is sufficiently short
+therefore in this sense m a y be considered as com-          compared with t h e width of t h e slits. As pointed
+plementary to one another,—depends essentially               out by t h e n a m e d authors, we are therefore
+on the impossibility, in the field of q u a n t u m          faced a t this stage with a completely free choice
+theory, of accurately controlling the reaction of            whether we w a n t t o determine t h e one or t h e
+the object on t h e measuring instruments, i.e.,             other of t h e latter quantities b y a process which
+the transfer of m o m e n t u m in case of position          does not directly interfere with t h e particle
+measurements, and the displacement in case of                concerned.
+m o m e n t u m measurements. J u s t in this last re-           Like t h e above simple case of t h e choice
+spect a n y comparison between q u a n t u m mechan-         between t h e experimental procedures suited for
+ics and ordinary statistical mechanics,—however              t h e prediction of t h e position or t h e m o m e n t u m
+useful it m a y be for t h e formal presentation of          of a single particle which has passed through a
+t h e theory,—is essentially irrelevant. Indeed we           slit in a d i a p h r a g m , we are, in t h e "freedom of
+have in each experimental arrangement suited                 choice" offered by t h e last arrangement, j u s t
+for t h e s t u d y of proper q u a n t u m phenomena not    concerned with a discrimination between different*
+merely to do with an ignorance of t h e value of             experimental procedures which allow of the unam-
+certain physical quantities, b u t with t h e impossi-       biguous use of complementary classical concepts.
+bility of defining these quantities in an u n a m -          In fact t o measure t h e position of one of t h e
+biguous way.                                                 particles can m e a n nothing else t h a n to establish
+    T h e last remarks apply equally well t o t h e          a correlation between its behavior and some
+special problem treated by Einstein, Podolsky
+and Rosen, which has been referred to above,                    * As will be seen, this description, apart from a trivial
+                                                             normalizing factor, corresponds exactly to the transforma-
+and which does not actually involve any greater              tion of variables described in the preceding footnote if
+intricacies t h a n the simple examples discussed            (qipi), (q.2p2) represent the positional coordinates and com-
+                                                             ponents of momenta of the two particles and if 0 = — TT/4.
+above. T h e particular quantum-mechanical s t a t e         It may also be remarked that the wave function given by
+of two free particles, for which they give an                formula (9) of the article cited corresponds to the special
+                                                             choice of Pz = 0 and the limiting case of two infinitely
+explicit mathematical expression, m a y be repro-            narrow slits.
+700                                          NILS      BOHR
+
+instrument rigidly fixed to the support which          ceding discussion, may be characterized as a
+defines the space frame of reference. Under the        rational utilization of all possibilities of unambig-
+experimental conditions described such a meas-         uous interpretation of measurements, compatible
+urement will therefore also provide us with the        with the finite and uncontrollable interaction
+knowledge of the location, otherwise completely        between the objects and the measuring instru-
+unknown, of the diaphragm with respect to this         ments in the field of quantum theory. In fact,
+space frame when the particles passed through          it is only the mutual exclusion of any two experi
+the slits. Indeed, only in this way we obtain a        mental procedures, permitting the unambiguous
+basis for conclusions about the initial position of    definition of complementary physical quantities,
+the other particle relative to the rest of the appa-   which provides room for new physical laws, the
+ratus. By allowing an essentially uncontrollable       coexistence of which might at first sight appear
+momentum to pass from the first particle into          irreconcilable with the basic principles of science.
+the mentioned support, however, we have by             It is just this entirely new situation as regards
+this procedure cut ourselves off from any future       the description of physical phenomena, that the
+possibility of applying the law of conservation        notion of complementarity aims at characterizing.
+of momentum to the system consisting of the               The experimental arrangements hitherto dis-
+diaphragm and the two particles and therefore          cussed present a special simplicity on account of
+have lost our only basis for an unambiguous            the secondary role which the idea of time plays
+application of the idea of momentum in pre-            in the description of the phenomena in question.
+dictions regarding the behavior of the second          It is true that we have freely made use of such
+particle. Conversely, if we choose to measure          words as "before" and "after" implying time-
+the momentum of one of the particles, we lose          relationships; but in each case allowance must
+through the uncontrollable displacement inevi-         be made for a certain inaccuracy, which is of
+table in such a measurement any possibility of         no importance, however, so long as the time
+deducing from the behavior of this particle the        intervals concerned are sufficiently large com-
+position of the diaphragm relative to the rest of      pared with the proper periods entering in the
+the apparatus, and have thus no basis whatever         closer analysis of the phenomenon under investi-
+for predictions regarding the location of the          gation. As soon as we attempt a more accurate
+other particle.                                        time description of quantum phenomena, we
+   From our point of view we now see that the          meet with well-known new paradoxes, for the
+wording of the above-mentioned criterion of            elucidation of which further features of the
+physical reality proposed by Einstein, Podolsky        interaction between the objects and the meas-
+and Rosen contains an ambiguity as regards the         uring instruments must be taken into account.
+meaning of the expression "without in any way          In fact, in such phenomena we have no longer
+disturbing a system." Of course there is in a          to do with experimental arrangements consisting
+case like that just considered no question of a        of apparatus essentially at rest relative to one
+mechanical disturbance of the system under             another, but with arrangements containing mov-
+investigation during the last critical stage of the    ing parts,—like shutters before the slits of the
+measuring procedure. But even at this stage            diaphragms,—controlled by mechanisms serving
+there is essentially the question of an influence      as clocks. Besides the transfer of momentum,
+on the very conditions which define the possible       discussed above, between the object and the
+types of predictions regarding the future behavior     bodies defining the space frame, we shall there-
+of the system. Since these conditions constitute       fore, in such arrangements, have to consider an
+an inherent element of the description of any          eventual exchange of energy between the object
+phenomenon to which the term "physical reality"        and these clock-like mechanisms.
+can be properly attached, we see that the argu-           The decisive point as regards time measure-
+mentation of the mentioned authors does not            ments in quantum theory is now completely
+justify their conclusion that quantum-mechanical       analogous to the argument concerning measure-
+description is essentially incomplete. On the con-     ments of positions outlined above. Just as the
+trary this description, as appears from the pre-       transfer of momentum to the separate parts of
+                   QUANTUM             MECHANICS                  AND     PHYSICAL             REALITY                      701
+
+t h e a p p a r a t u s , — t h e knowledge of t h e relative      In accordance with this situation there can be no
+positions of which is required for t h e description               question of a n y unambiguous interpretation of
+of t h e phenomenon,—has been seen t o be entirely                 the symbols of q u a n t u m mechanics other t h a n
+uncontrollable, so t h e exchange of energy be-                    t h a t embodied in the well-known rules which
+tween t h e object and t h e various bodies, whose                 allow to predict t h e results to be obtained by a
+relative motion m u s t be known for t h e intended                given experimental arrangement described in a
+use of t h e a p p a r a t u s , will defy a n y closer            totally classical way, and which have found their
+analysis. Indeed, it is excluded in principle to                   general expression through the transformation
+control the energy which goes into the clocks without              theorems, already referred to. By securing its
+interfering essentially with their use as time indi-               proper correspondence with the classical theory,
+cators. This use in fact entirely relies on the                    these theorems exclude in particular any imag-
+assumed possibility of accounting for the func-                    inable inconsistency in the quantum-mechanical
+tioning of each clock as well as for its eventual                  description, connected with a change of the place
+comparison with other clocks on the basis of                       where the discrimination is m a d e between object
+the methods of classical physics. In this account                  and measuring agencies. In fact it is an obvious
+we m u s t therefore obviously allow for a latitude                consequence of the above argumentation t h a t in
+in the energy balance, corresponding to the quan-                  each experimental arrangement and measuring
+tum-mechanical uncertainty relation for the con-                   procedure we have only a free choice of this place
+jugate time and energy variables. J u s t as in the                within a region where the quantum-mechanical
+question discussed above of the mutually exclu-                    description of the process concerned is effectively
+sive character of any unambiguous use in quan-                     equivalent with t h e classical description.
+t u m theory of the concepts of position and                          Before concluding I should still like t o empha-
+m o m e n t u m , it is in the last resort this circum-            size t h e bearing of t h e great lesson derived from
+stance which entails the complementary relation-                   general relativity theory upon t h e question of
+ship between any detailed time account of atomic                   physical reality in t h e field of q u a n t u m theory.
+phenomena on the one hand and the unclassical                      In fact, notwithstanding all characteristic differ-
+features of intrinsic stability of atoms, disclosed                ences, t h e situations we are concerned with in
+by the study of energy transfers in atomic reac-                   these generalizations of classical theory present
+tions on the other hand.                                           striking analogies which have often been noted.
+    This necessity of discriminating in each ex-                   Especially, the singular position of measuring
+perimental arrangement between those p a r t s of                  instruments in t h e account of q u a n t u m phe-
+t h e physical system considered which are t o be                  nomena, just discussed, appears closely analo-
+treated as measuring instruments and those                         gous to t h e well-known necessity in relativity
+which constitute t h e objects under investigation                 theory of upholding an ordinary description of
+m a y indeed be said to form a principal            distinction    all measuring processes, including a sharp dis-
+between classical and quantum-mechanical              descrip-     tinction between space and time coordinates,
+tion of physical phenomena. I t is true t h a t the                although t h e very essence of this theory is t h e
+place within each measuring procedure where this                   establishment of new physical laws, in t h e
+discrimination is made is in both cases largely a                  comprehension of which we m u s t renounce t h e
+m a t t e r of convenience. While, however, in classi-             customary separation of space and time ideas.*
+cal physics the distinction between object and
+                                                                      * Just this circumstance, together with the relativistic
+measuring agencies does not entail any difference                  invariance of the uncertainty relations of quantum
+in the character of the description of the phe-                    mechanics, ensures the compatibility between the argu-
+                                                                   mentation outlined in the present article and all exigencies
+nomena concerned, its fundamental importance                       of relativity theory. This question will be treated in greater
+in q u a n t u m theory, as we have seen, has its root             detail in a paper under preparation, where the writer will in
+                                                                   particular discuss a very interesting paradox suggested by
+in the indispensable use of classical concepts in                  Einstein concerning the application of gravitation theory
+t h e interpretation of all proper measurements,                   to energy measurements, and the solution of which offers an
+                                                                   especially instructive illustration of the generality of the
+even though the classical theories do not suffice                  argument of complementarity. On the same occasion a
+in accounting for the new types of regularities                    more thorough discussion of space-time measurements in
+                                                                   quantum theory will be given with all necessary mathe-
+with which we are concerned in atomic physics.                     matical developments and diagrams of experimental
+702                                                 NILS       BOHR
+
+The dependence on the reference system, in                     reference, which in quantum theory confronts us
+relativity theory, of all readings of scales and               with the situation characterized by the notion of
+clocks may even be compared with the essentially               complementarity. In fact this new feature of
+uncontrollable exchange of momentum or energy                  natural philosophy means a radical revision of
+between the objects of measurements and all                    our attitude as regards physical reality, which
+instruments defining the space-time system of                  may be paralleled with the fundamental modifi-
+                                                               cation of all ideas regarding the absolute char-
+arrangements, which had to be left out of this article,        acter of physical phenomena, brought about by
+where the main stress is laid on the dialectic aspect of the
+question at issue.                                             the general theory of relativity.
+

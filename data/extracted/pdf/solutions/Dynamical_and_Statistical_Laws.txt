@@ -1,0 +1,302 @@
+                                                                                                 Dynamical Laws and Statistical Laws     57
+
+                                                                      and there, always through something arbitrary and casual. O n
+                                                                       the one hand, every scientific thought involves the necessity of
+  Dynamical Laws and                                                  assuming a fixed absolute law raised above arbitrariness and
+                                                                      chance to the highest level of the h u m a n intellect. O n the other
+                                                                       hand, even physics, the most exact of natural sciences, has
+  Statistical Laws                                                    frequently to deal with p h e n o m e n a which cannot for the present
+                                                                      be connected by any law, and which therefore may be con-
+                                                                      sidered accidental in a certain sense of the word.
+                                                                         Let us consider for a moment, as a special example, the
+    Conscientiousness and truth are as necessary in research in       behaviour of radio-active atoms according to the accepted dis-
+pure science as in practical life. T h e experimenter must not        ruption hypothesis of Rutherford and Soddy. H o w is it that a
+be blinded by the first results of a new intellectual discovery       definite U r a n i u m atom, after having remained completely
+and must not neglect to prove conscientiously and thoroughly          unaltered and passive for untold millions of years, suddenly, in
+the results obtained in his researches. H e must keep his mind        an immeasurably short space of time, without any determinable
+fixed firmly on his original starting-point and the methods he        cause, explodes with a violence, compared with which our most
+employs. It may happen in a day that his hardly-won position          powerful explosives are like toy pistols ? It sends off fragments of
+is assailed and made untenable against severe criticism. There-       itself with velocities of thousands of kilometres per second, and
+fore, the experimenter cannot afford to close his eyes to a new       at the same time emits electro-magnetic rays of greater intensity
+discovery, obtained from another point of view, which will not        than the hardest Rontgen rays, while another atom in its
+fit in with his own ideas, nor must he treat it as unimportant,       immediate neighbourhood, and to all appearances exactly
+if not incorrect.                                                     similar, remains in a passive state for still more millions of years
+    Such unforeseen and unexpected discoveries occur in all           until finally it meets the same fate. In fact, all attempts to affect
+sciences, particularly when they are permeated with the spirit        the course of radio-active phenomena by external means, such
+of youth. For every science, not even excluding mathematics,          as raising or lowering of temperature, have ended in complete
+is to some extent the result of observation, whether the subject      failure. It appears, therefore, at present hopeless even to guess
+be natural or intellectual. T h e chief problem in every science is   at dynamical laws which would account for this. Yet the so-
+that of endeavouring to arrange and collate the numerous              called theory of atomic disruption is of the greatest importance
+individual observations and details which present themselves, in      to physical research. It has co-ordinated, from the first, an
+order that they may become p a r t of one comprehensive picture.      almost embarrassing n u m b e r of isolated facts, and has yielded
+    Now, considering the different subjects comprised in the          many new results, some of which have been verified experi-
+various branches of science, their laws are by no means so            mentally in a wonderful way, and others have stimulated new
+diverse in their natures as might appear from a glance at the         and important researches and discoveries.
+marked contrasts presented, for example, by questions in his-           H o w is this possible ? How can practical laws be derived by
+tory and physics. At least it would be quite incorrect to look for    considering phenomena the cause of which has, provisionally,
+a fundamental difference in the fact that in the domain of            to be left completely unexplained? Like the social sciences,
+natural science a law must everywhere, without exception, be          physics has learnt to appreciate the great importance of a
+absolute, and the sequence of phenomena certain. I n intellec-        method completely different from the purely causal, and has
+tual work, however, the pursuit of causal relations leads, here       applied it since the middle of last century with continually
+                                  56
+                                                                                                                                                   m
+
+58   A Survey of Physical Theory                                                                   Dynamical Laws and Statistical Laws       59
+
+increasing success. This is the statistical method, and the newest      rium always returns after any disturbance. If, for example,
+advances in theoretical physics have been bound up with its             one tube is suddenly raised, so that the mercury is for an instant
+development. Instead of seeking, without tangible results, the          raised with it, and consequently is at a higher level in that tube,
+dynamical laws at present completely unknown to us, which               it will immediately fall again until the surfaces are at the same
+govern a solitary occurrence, observations of a large number of         height again in both tubes. This is the well-known principle on
+isolated occurrences of a definite kind are collected and an            which every syphon action is based.
+average or mean value obtained. For the calculation of these               Let us take another example. We take a piece of iron, heated
+mean values, certain empirical rules are available, according           to a high temperature, and throw it into a vessel of cold water.
+to the special circumstances of the case. These rules permit the        T h e heat of the iron will be communicated to the water until
+prediction of future occurrences, not with absolute certainty,          complete equality of temperature is obtained. This is the so-
+but with a probability which is often practically equivalent to         called thermal equilibrium which will obtain after every
+certainty. This will not be true in all details, but only on the        disturbance.
+average, and that is usually what is wanted in applications.               There exists a certain analogy between the two examples.
+   T h o u g h a method which is fundamentally an expedient             I n each case, a certain difference brings about the variation, in
+appears unsuited and unsympathetic to the scientific needs of           the one case a difference of level and in the other a difference of
+many workers, who desire principally an elucidation of causal           temperature, and equilibrium is restored when the difference
+relations, yet it has become absolutely indispensable in practical      vanishes. T e m p e r a t u r e is, therefore, sometimes referred to as
+physics. A renunciation of it would involve the a b a n d o n m e n t   level of heat. It can be said that, in the first case, the energy of
+of the most important of the more recent advances of physical           gravitation, in the second case the energy of heat, flows from the
+science. It must also be borne in mind that physics, in the             higher level to the lower until the levels are the same.
+exact sense, does not deal with quantities that are absolutely              I t is no wonder that this analogy of a directing of energy has
+determined; for every n u m b e r obtained by physical measure-         been explained as the action of a great general "principle of
+ments is liable to a certain possible error. Anyone who would           c h a n c e . " This directing, though with the best intentions, has led
+only admit actual, definite numbers and not at the same time a          to hasty generalizations. T h e principle makes each change in
+possible error, would have to abandon the use of measurements           N a t u r e an exchange of energy, and consider the different forms
+and consequently all inductive knowledge.                               of energy as independent and of equal value. T o each form
+   It is sufficiently evident from the above that, in order to          of energy corresponds a factor of intensity, to gravitation height,
+understand the characteristics of any science, it is of the utmost      to heat temperature, and the difference of these factors will
+importance to differentiate carefully and fundamentally be-             determine the workings of chance. T h e confidence with which
+tween the two classes of laws: the dynamical, strictly causal; and      the general validity of this theorem was proclaimed is due to its
+the solely statistical. I wish to compare and contrast these laws.      simplicity and it was inevitable that it should appear early in
+                                                                        popular expositions and elementary text-books.
+   We will consider a few observations from everyday life. Let             Actually, the analogy between the two examples is only
+us take two open vertical glass tubes, connect the lower ends           superficial, and the laws governing them are very widely
+with rubber tubing, and pour into one of the tubes a quantity           separated. For, as all our experiences permit us confidently to
+of a heavy liquid, such as mercury. The liquid will flow through        assert, the first example obeys a dynamical law, the second a
+the rubber tubing into the second tube, until the level of the          statistical one. Or, in other words, that liquid flows from
+surfaces in the two tubes is the same. This condition of equilib-       a higher to a lower level is necessary, but that heat flows from a
+60   A Survey of Physical Theory                                                               Dynamical Laws and Statistical Laws   61
+
+place of higher temperature to one of lower temperature is only       There can be no talk of oscillation of heat between the two
+probable.                                                             bodies: the flow of heat is always in one direction, and therefore
+   It must be understood that such an assertion, which appears        represents an irreversible process.
+at first sight strange and almost paradoxical, requires to be            I n all physical science there is no more fundamental differ-
+supported by an enormous number of examples. I will en-               ence than that between reversible and irreversible processes.
+deavour to outline the most important of these and at the same        T h e former include gravitation, mechanical and electrical
+time make clear the difference between dynamical and statis-          oscillations, acoustic and electro-magnetic waves. They can all
+tical laws. I n the first place, that it is necessary for the heavy   be grouped under one single dynamical law—the principle of
+liquid to sink can easily be proved to be a consequence of the        least action—which embraces the principle of the conservation
+principle of conservation of energy. For if the liquid at the         of energy. Irreversible processes include conduction of heat and
+higher level rose to a level still higher without any external        electricity, friction, diffusion and all chemical reactions, in so
+agency, and the liquid at the lower level sank still further,         far as they take place with noticeable velocity. T o cover these,
+energy would be created out of nothing, which is contrary to          R. Clausius derived his second law of thermo-dynamics, so
+the principle. T h e second case is somewhat different. H e a t       exceptionally useful in physics and chemistry. T h e significance
+could very well flow from the cold water to the hot iron without      of this law is that it ascribes a direction to each irreversible
+violating the principle of conservation of energy; for, since heat    process. But it was L. Boltzmann who, by the introduction of
+is itself a form of energy, this principle only requires that the     the atomic theory, explained the meaning of the second law
+quantity of heat given u p by the water is equal to that absorbed     and at the same time all irreversible processes, the peculiarities
+by the iron.                                                          of which h a d presented insuperable difficulties of explanation
+   But the two operations show certain characteristic differences     by means of general dynamics.
+to the unbiased observer. T h e falling liquid moves faster the          According to the atomic theory, the heat energy of a body is
+further it sinks. When the levels of the liquid are the same, the     simply the sum total of the extremely small, rapid, unregulated
+liquid does not come to rest, but moves beyond the equilibrium        movements of its individual molecules. T h e temperature corre-
+position on account of its inertia, so that the liquid originally     sponds to the mean kinetic energy of the molecules, and the
+at the higher level is at a lower level. Now, the velocity will       transmission of heat from a hot body to a cold body depends
+decrease and the liquid will come to rest gradually, and subse-       upon the fact that the kinetic energies of the molecules are
+quently the same process is repeated in the reverse direction.        meaned on account of the frequent collisions of the bodies.
+If all loss of kinetic energy at the air boundaries and that due to   From this it must not be supposed that when two individual
+friction at the walls of the tube could be eliminated, the liquid     molecules collide, the one with the greater kinetic energy is
+would oscillate backwards and forwards indefinitely about its         slowed up and the other accelerated, for if, for example, a
+position of equilibrium. Such a process is, therefore, called         rapidly moving molecule of one system is struck obliquely by a
+reversible.                                                           slower moving molecule, its velocity must be still further
+   It is quite otherwise with heat. T h e smaller the difference of   increased, while that of the slower molecule is still further
+temperature between the iron and the water, the slower is the         diminished. But, in general, unless the circumstances are very
+transmission of heat from the one to the other, and calculation       exceptional, the kinetic energies must mix to a certain extent,
+shows that an infinitely long time elapses before equality of         and this corresponds to an equalizing of the temperatures of
+temperature is attained. I n other words, there is always a small     the two bodies. All results deduced in this m a n n e r agree with
+difference of temperature, however much time has elapsed.             observation, particularly in the case of gases.
+62     A Survey of Physical Theory                                                              Dynamical Laws and Statistical Laws    63
+
+   However much discussed and however promising this atomic                T h e phenomenon described was discovered in the year 1827
+theory might appear, it was, until recently, regarded merely as a      by Brown, the English botanist, but it h a d been deduced by the
+brilliant hypothesis, since it appeared to many far-sighted            French physicist Gouy, twenty-five years earlier, from the
+workers too risky to take the enormous step from the visible and       movements of molecules in a heated fluid. These molecules,
+directly controllable to the invisible sphere, from the macrocosm      themselves invisible, continually collide with particles floating
+to the microcosm. I n order that he should not imperil the             around them (which are visible in a microscope) and are im-
+acceptance of his observations and calculations, Boltzmann             pelled along irregular paths. T h e final theoretical proof of the
+himself did not over-emphasize them. H e laid stress on the            correctness of this explanation was first given quite recently,
+view that the atomic hypothesis was a mere representation of           when Einstein and Smoluchowski, obtained statistical laws
+what took place. To-day we may go further towards comparing            governing the distribution of density, the velocities, the mean
+the reality with the picture, in so far as it has any meaning at       free paths, and even the rotations of the microscopic particles,
+all, from the point of view of the philosopher. For to-day we          and these laws were most strikingly confirmed quantitatively
+have a series of experiments which invest the atomic hypothesis        in all details, particularly through the experimental work of
+with the same degree of certainty as is possessed by the mechani-      J e a n Perrin.
+cal theory of sound, or the electro-magnetic theory of light and
+                                                                           T h e r e can be no doubt now, in the mind of the physicist who
+heat radiations.
+                                                                       has associated himself with inductive methods, that matter is
+   According to the theory of chance, inadequately outlined            constituted of atoms, heat is movement of molecules, and con-
+above, the condition of a stationary fluid of uniform tempera-         duction of heat, like all other irreversible phenomena, obeys,
+ture must be absolutely invariable; for if no difference of            not dynamical, but statistical laws, namely, the laws of prob-
+intensity of any sort exists in the fluid, there can be no cause       ability. Indeed, it is difficult to make even an approximate
+which will bring about any variation. T h e state of a fluid can        estimate of the probability that heat will travel in the contrary
+be made visible by introducing into a transparent liquid, such         direction, i.e. from the cold water to the hot iron. If one draws
+as water, a n u m b e r of minute particles or drops of another         one letter after another at r a n d o m from a sack filled with
+liquid, such as gummastic or gamboge. I do not think that any-          letters, and sets them out in a row in the order in which they are
+one who has observed such a preparation through a properly              drawn, there is always a possibility that complete words may be
+illuminated microscope, can ever forget his first view of the           formed, even that they will form a poem by Goethe. O r if a
+play presented to him. It is a glance into a new world. Instead         hundred throws are m a d e with a die, no one will dispute the
+of the complete tranquillity he expected, he sees an extra-             possibility that six will turn u p each time without exception,
+ordinarily lively, gay dance of the small floating particles, in        since the result of each throw is independent of the previous
+which the smallest behave in the most erratic m a n n e r : no trace
+                                                                        one. Should this occur in practice, there is no doubt that every-
+of any friction in the fluid can be seen; if a particle once comes
+                                                                        one would say that there was something wrong, perhaps the
+to rest, another starts the game. O n e is involuntarily reminded
+                                                                        die was not quite symmetrical, and no rational person would
+of the frenzied activity of an ant-hill which has been disturbed.
+                                                                        deny the weight of this observation. For the probability that
+But whereas the angry insects gradually calm down and lose
+                                                                        so exceptional an occurrence should take place under normal
+their activity towards dusk, the particles under the microscope
+                                                                        circumstances is extremely minute. Yet this is enormously great
+never show the least signs of fatigue, while the temperature of
+                                                                        compared with the probability that heat will flow from a cold
+the liquid remains unaltered—an actual case of perpetual
+                                                                        to a hot body. We need only consider that in the case of the die,
+motion, in the most literal sense of this much-used expression.
+                                                                        we are dealing with six numbers, consequently with six different
+64     A Survey of Physical Theory                                                               Dynamical Laws and Statistical Laws    65
+
+ cases, in the case of the letters, with twenty-six, but in the case   soon prove to be a mistake as dangerous as it is short-sighted,
+ of the molecules with many millions in the smallest visible           apart from the fact that all reversible processes, without excep-
+ space, and moving with extremely diverse velocities. Thus from        tion, are governed by dynamical laws, and that we have no
+ the standpoint of practical physics, there is certainly no ground     reasons for discarding these laws. Physics can no more do without
+ to believe the possibility of a deviation from the general truth      the hypothesis of absolute laws than can any other natural
+ of the laws governing radiation of heat.                              science or h u m a n study, for without it the essential foundations
+    This is certainly not the case with the theory. For it is clear    of deductions from statistics would be removed, and it is these
+ to everybody that there must be an unfathomable gulf between          deductions that we are considering.
+ a probability, however small, and an absolute impossibility.              Yet one considers that the theorems of the calculus of prob-
+ This can be demonstrated in particular circumstances. O n e           ability are not only capable of, but also require, a strict
+ need only throw the die sufficiently often in order, with greater     exposition and rigid proof, and therefore it has always particu-
+ probability, to expect a hundred consecutive sixes, and one need      larly attracted prominent mathematicians. If the probability
+ only persevere sufficiently long at the letter game to obtain a       that a certain event is succeeded by a certain other event is \,
+ Faust monologue. Still, it is as well that we do not depend           then, it can be said that nothing is known of the occurrence of
+solely on these methods, for neither the age of a man, nor             the second event, except that it will follow in just 50 per cent,
+probably that of mankind, would be long enough.                        of the cases when the first event occurred, and that this per-
+   Whatever the application to physics involves, it is necessary       centage is more nearly obtained the greater the n u m b e r of cases
+to consider very seriously such infinitesimal probabilities under      that are considered. I n addition, the calculus of probability
+certain conditions. If a powder magazine were to explode with-         furnishes an exact estimate of the deviation from the mean,
+out any determinable cause, the occurrence would not be                which is to be expected when the n u m b e r of observed cases is
+ignored. T h e so-called self-ignition is to be regarded as caused     smaller, i.e. of the so-called dispersion. If the observations are
+by a very improbable accumulation of dangerous impacts of              in contradiction to the calculated magnitude of the dispersion,
+chemically reacting molecules; the laws governing these mole-           it may be safely concluded that an erroneous assumption was
+cules can only be arrived at statistically. It is obvious that in an    m a d e in the premises, a so-called systematic error.
+exact science such words as certain and sure must be used with            T o support such far-reaching assertions, very extensive pre-
+great caution, and the importance of the laws of observation           suppositions are naturally essential, and it will be understood
+must be very moderately assessed. Thus, when considering the           that in physics the exact calculation of probabilities is only
+laws of physics, or, indeed, any observed law, either dynamical        possible when purely dynamical laws can be assumed to hold in
+or statistical, we are compelled by theory and experiment alike        the simplest occurrences, i.e. in the smallest microcosm. Should
+to make a fundamental difference between necessity and prob-           these laws contradict a single observation through our falli-
+ability. This duality, which has been brought into all physical        bility, the hypothesis of their absolute immutability furnishes a
+laws by the introduction of statistical methods, will appear           necessary firm foundation for the structure of statistics.
+unsatisfactory to many. Accordingly, when it appeared un-                 It appears from these remarks that the duality between
+suitable, efforts were made to set it aside by denying absolute        statistical and dynamical laws is intimately associated with the
+certainty and impossibility, and substituting great and small          duality between macrocosm and microcosm, and this we must
+degrees of probability respectively. If there were no dynamical        regard as a fact substantiated by experiment. Whether satis-
+laws in Nature, but only statistical, the conception of absolute       factory or not, facts cannot be created by theories, and there is no
+necessity would have no place in physics. Such a view must very        alternative but to concede their appointed places to dynamical
+                                                                        T
+
+
+
+
+ 66      A Survey of Physical Theory                                                                Dynamical Laws and Statistical Laws          67
+
+  as well as to statistical laws in the whole system of physical            disorder. Experimentally, the only method is to repeat the
+  theories.                                                                 particular observation many times, or to have it done by differ-
+     Thus dynamics and statistics cannot be regarded as inter-              ent observers, working independently of one another. Such a
+  related. For, whereas a dynamical law completely satisfies the            repetition of a definite experiment, or the arranging of a whole
+  causal requirements and is therefore of a simple character,               series of experiments, is actually what is done in practical
+  every statistical law is built up, and it cannot in any way be            physics. For, in order to eliminate unavoidable errors of
+  looked on as definitive, since it always involves the problem of          observation, no physicist will limit himself to the results of a
+  reduction to its simple dynamical elements. The solution of               single experiment.
+ such problems is one of the chief tasks of progressive science.                The second law of thermo-dynamics has nothing to do with
+  This is as much the case in chemistry as in the physical theories         energy directly. A good example of a process which need not be
+ of matter and in electricity. Meteorology may also be mentioned            accompanied by a transformation of energy is diffusion.
+ in this connection, for the work of V. Bjerknes provides a                 Diffusion happens solely because a uniform mixing of two
+ scheme of great magnitude to reduce all meteorological statis-             different substances is more probable than a non-uniform
+ tics to their simpler elements, namely, to physical laws.                   mixing. This can, indeed, be subordinated to the conception
+ Whether the attempt leads to practical results or not, it must be           of energy, by introducing, for this special purpose, the idea of
+ made at some time, since the essence of all statistics is that while        free energy, which permits of a convenient exposition and in
+ it often has the first, it never has the last, word.                        many cases simplifies the representation. The method, how-
+    As the principle of conservation of energy or the first law of           ever, is indirect in so far as free energy can only be understood
+ thermo-dynamics occupies the first place among the dynamical                from its relation to probability.
+ laws of physics, so the second law of thermo-dynamics holds a
+ corresponding place among the statistical laws. Although this                 Let us, in conclusion, pause awhile after this rapid survey to
+ theorem is a probability theorem, and, in consequence, one                 consider the laws of phenomena in the intellectual sphere. To
+often speaks of limits to its validity, it can be expressed in an           a great extent, we find quite similar relations, except that
+exact and generally valid form. It might be expressed somewhat              causality is completely eclipsed by probability, the microcosm
+as follows: All physical and chemical changes of state proceed,             by the macrocosm. Yet here in all questions extending to the
+on the average, towards states of greater probability. Of all the           highest problems of intellect and morality, the assumption of
+states that can be assumed by a system of bodies, the most                  absolute determinism is a necessary basis for every scientific
+probable is that in which all the bodies have the same tem-                 investigation. Care must be taken that the normal course of the
+perature. On this ground only is based the law that heat con-               phenomenon examined is not disturbed by the examination.
+duction always, on the average, tends towards an equalization of            This is equally true in natural science, but not usually em-
+temperatures, and also from the higher to the lower tempera-                phasized on account of its being almost self-evident. When a
+ture. The second law will only allow us to deduce anything with             physicist wants to take the temperature of a body, he does not
+certainty from a single observation if we are certain beforehand            use a thermometer the introduction of which would alter the
+that the course of the operation in question is not markedly                temperature of the body. From this point of view the possibility
+different from the mean course deduced from a large number                  of a completely objective scientific investigation into psycho-
+of operations in which the initial conditions were the same. To              logical phenomena only extends to the critical examination of
+make sure that this condition is satisfied, it is, theoretically,            personalities other than the observer, so long as they are inde-
+sufficient to introduce the so-called hypothesis of elementary               pendent of the observer. In so far as it is completely effaced
+68      A Survey of Physical Theory
+
+from the mind of the investigator, it also extends to the past, but
+not to the present, nor to the future, which must always be
+attained through the present. Thought and research are them-
+selves psychological phenomena in man, and if the object of the
+investigation is identical with the investigator, he must change
+continually as his knowledge advances.
+                                                                         The Principle of Least Action
+   It is, therefore, quite useless to treat exhaustively the phenom-
+ena of the future from the standpoint of determinism, and
+with it to wish to fix the conception of moral freedom. Self-
+determination is given to us by our consciousness and is not              As long as physical science exists, the highest goal to which it
+limited by any causal law, and he who considers it logically           aspires is the solution of the problem of embracing all natural
+irreconcilable with absolute determinism in all spheres of             phenomena, observed and still to be observed, in one simple
+philosophy, makes a great mistake of the same nature as that           principle which will allow all past and, especially, future occur-
+made by the physicist already referred to, who does not take           rences to be calculated. It follows from the nature of things,
+adequate precautions to eliminate errors in his observations, or       that this object neither has been, nor ever will be, completely
+a mistake such as a physiologist would make if he examined             attained. It is, however, possible to approach it nearer and
+himself in order to study the functioning of a muscle in anatomy.      nearer, and the history of theoretical physics shows that already
+   Science thus fixes for itself its own inviolable boundaries. But    an extensive series of important results can be obtained, which
+man, with his unlimited impulses, cannot be satisfied with this        indicates clearly that the ideal problem is not purely Utopian,
+limitation. He must overstep it, since he needs an answer to the       but that it is eminently practicable. Therefore, from a practical
+most important, and constantly-repeated question of his life:          point of view, the ultimate object of research must be borne in
+What am I to do?—And a complete answer to this question is             mind.
+not furnished by determinism, not by causality, especially not             Among the more or less general laws, the discovery of which
+by pure science, but only by his moral sense, by his character,        characterize the development of physical science during the
+by his outlook on the world. Conscientiousness and truth are           last century, the principle of Least Action is at present certainly
+the ideals that will lead him along the true path in life as in        one which, by its form and comprehensiveness, may be said to
+science. They will guarantee him, not necessarily brilliant            have approached most closely to the ideal aim of theoretical
+results, but the highest good of humanity, namely, inward               inquiry. Its significance, properly understood, extends, not
+peace and true freedom.                                                 only to mechanical processes, but also to thermal and electro-
+                                                                        dynamic problems. In all the branches of science to which it
+                                                                        applies, it gives, not only an explanation of certain character-
+                                                                        istics of phenomena at present encountered, but furnishes rules
+                                                                        whereby their variations with time and space can be completely
+                                                                        determined. It provides the answers to all questions relating to
+                                                                        them, provided only that the necessary constants are known and
+                                                                        the underlying external conditions appropriately chosen.
+                                                                            This central position attained by the principle of least action
+                                                                        is, however, not even to-day quite undisputed; for a long time
+                                                                                                        69
+

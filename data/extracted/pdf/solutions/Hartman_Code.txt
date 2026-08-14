@@ -1,0 +1,243 @@
+J Mol Evol (1995) 40:541-544
+                                                                                                        lou..oMOLECULAR
+                                                                                                               [EVOLUTION
+                                                                                                        © Springer-Verlag New York Inc. 1995
+
+
+
+
+Speculations on the Origin of the Genetic Code
+
+Hyman Hartman
+
+Institute for Advanced Studies in Biology, 880 Spruce St., Berkeley, CA 94707, USA
+
+Received: 18 July 1994
+
+
+
+Abstract. The most primitive code is assumed to be a                   tRNAs, and aminoacyl-tRNA synthetases. How could
+GC code: GG coding for glycine, CC coding for proline,                 such a complex system have originated? Perhaps the best
+GC coding for alanine, CG coding for "arginine." The                   example of this, which typifies the problem of the origin
+genetic code is assumed to have originated with the cou-               of protein synthesis, is the interaction between the amino
+pling of glycine to its anticodon CC mediated by a cop-                acid and the tRNA which must be mediated by an ami-
+per-montmorillonite. The polymerization of polyproline                 noacyl-tRNA synthetase. T.his necessity is the greatest
+followed when it was coupled to its anticodon GG. In                   obstacle that must be overcome in theorizing about the
+this case the aminoacyl-tRNA synthetase was a copper-                  origin of the genetic code. The need for a complex pro-
+montmorillonite. The first membrane is considered to be                tein to start the code obviously leads to great difficulties.
+a [3 sheet formed from polyglycine. As the code grew                   This paper will attempt to overcome these difficulties.
+more complicated, the alternative hydrophobic-hydro-
+philic polypeptide (alanine-"arginine") was coded for
+by the alternating CG copolymer. This alternating poly-                Aminoacyl-tRNA Synthetases
+peptide (ala-"arg") began to function as both a primitive
+membrane and as an aminoacyl-tRNA synthetase. The
+evolution of protein structure is tightly coupled to the               Recent advances in the determination of the structures
+evolution of the membrane. The c~ helix was evolved as                 and of the amino acid sequences of the aminoacyl-tRNA
+lipids became part of the structure of biological mem-                 synthetases has stimulated new interest in the evolution
+branes. The membrane finally became the fluid mosaic                   of the genetic code. A classification of the synthetases
+structure that is now universal.                                       into two classes has been made (Eriani et al. 1990). The
+                                                                       two classes are:
+Key words: Genetic code - - Aminoacyl-tRNA syn-
+thetase - - Protein structure - - Membrane - - Clay                    1. Class I, which includes valine (val), leucine (leu),
+                                                                          isoleucine (ile), methionine (met), tyrosine (tyr), tryp-
+                                                                          tophan (trp), glutamic acid (glu), glutamine (gln), ar-
+                                                                          ginine (arg), and cysteine (cys)
+Introduction                                                           2. Class II, which includes proline (pro), threonine (thr),
+                                                                          serine (ser), phenylalanine (phe), aspartic acid (asp),
+The synthesis of proteins by present-day cells is a very                  asparagine (ash), histidine (his), and lysine (lys); and
+complex process involving ribosomes, messenger RNA,                       class IIa, which includes glycine (gly) and alanine
+                                                                          (ala)
+
+
+Based on a presentation made at a workshop--"Aminoacyl-tRNA               Class II synthetases are considered to be the more
+Synthetases and the Evolution of the Genetic Code"--held at Berke-     primitive of the synthetases, and class IIa seems the most
+ley, CA, July 17-20, 1994                                              primitive of all.
+542
+
+    In the evolution of the genetic code, it would appear       of the amino acids of the protein to be buried in the lipid
+ that one reason for the separation of the aminoacyl-          portion of the membrane. Physical chemical studies,
+ tRNA into two classes was to make distinctions possible       however, showed that the dominant conformation of
+ between similar amino acids which share the first two          membrane proteins was largely c~ helical (Wallach and
+bases of a codon (e.g., glu and asp, codon {GA-}). Seven       Zahler 1966). This necessitated a modification of the
+ out of ten of the aminoacyl-tRNA synthetases in class I       Davson-Danielli model for the cellular membrane. The
+are related to hydrophobic amino acids (val, leu, ile, met,    new model was called the fluid-mosaic model. The lipid
+tyr, trp, cys), which are thus presumed to be later entries    bilayer of phospholipids was retained but now there were
+into the genetic code since class II is considered to have     two types of proteins associated with the membrane: (1)
+preceded class I synthetases. The question which then          intrinsic proteins, which are proteins which are embed-
+arises is, what is the evolutionary relationship between       ded in the lipid bilayer, and (2) extrinsic proteins, which
+the other three synthetases (glu, gln, arg)? One might         are proteins which interact only with the charged surface
+assume that the assignment of glutamyl-tRNA synthetase         of the phospholipid bilayer. The intrinsic proteins must
+to class I was made as the aspartyl-tRNA synthetase was        interact with the phospholipids as they traverse the lipid
+already in class II. The real problem is with arginine.        bilayer (Singer and Nicolson 1972). The most common
+How is it related to the rest of the class I synthetases? In   conformation of these proteins involves transmembrane
+order for the distinctions between glu and asp to have         (z helices. The problem, then, with the origin of the mem-
+been made the distinction between class I and class II         brane is: which came first--the phospholipids or the pro-
+synthetases had to have already been made. The possi-          teins?
+bility thus exists that the first class I synthetase was           A current model for the origin of membranes proposes
+assigned to arg or its precursor.                              that in the oceans of the early Earth an accumulation of
+    The recent structural studies on aminoacyl-tRNA syn-       fatty acids occurred, due, perhaps, to a Fischer-Tropsch
+thetases have shown a conserved module which contains          reaction from carbon dioxide, carbon monoxide, and hy-
+the binding site for ATP, the amino acid and the CCA of        drogen. The possibility of other chemical syntheses of
+the amino-accepting arm of the t-RNA, and a noncon-            the fatty acids should not be ruled out as our knowledge
+served module which contains the anticodon binding site        of the early Earth is very limited.
+(Schimmel et al. 1993). It is a general view that proteins         These fatty acids would then, if the length of the alkyl
+have evolved from simpler modules (Gilbert 1987). The          side chain was long enough, spontaneously form lipid
+search for even simpler modules in the aminoacyl t-RNA         bilayers, and thus the primitive membrane was born. The
+synthetases has just begun.                                    formation of phospholipids was perhaps a later develop-
+                                                               ment.
+                                                                   The spontaneous formation of the lipid bilayers is a
+The Membrane                                                   powerful motivation for this model of the primitive
+                                                               membrane. The major criticism of this proposal is that
+What was the origin of the aminoacyl-tRNA syn-                 such a membrane is relatively impermeable to ions (e.g.,
+thetases? One possibility is that the membrane, a lipid        potassium) and the monomers (e.g., amino acids). In fact,
+bilayer, acted as the earliest aminoacyl-tRNA synthetase.      if such a membrane enclosed peptides or polynucleotides
+The lipid bilayer could distinguish between amino acids        it would burst. The reason for such instability is the
+and nucleosides on the basis of their hydrophobicity and       permeability of such lipid bilayers to water. The resulting
+hydrophilicity: "Since proteins have in general their hy-      osmotic pressure would cause the vesicles to burst.
+drophobic groups on the inside and hydrophilic groups              These problems have led to a second model based on
+on the outside, they could have evolved to take over the       polypeptides for the formation of the primitive mem-
+recognition function played by the lipid bilayer" (Hart-       brane. "Perhaps the earliest coded polypeptides acted
+man 1975a). This suggestion placed the burden for orig-        only as a porous membrane or a glue to hold together the
+inating the code on the cell membrane. The time has            polynucleotides that had guided their synthesis" (Orgel
+come to look more closely at the origin and evolution of       1987). The primitive membrane, according to Orgel, was
+the cell membrane.                                             made up of peptides which were alternating hydropho-
+    Cellular membranes are mainly composed of two              bic-hydrophilic sequences of amino acids coded for by
+types of molecules: (1) phospholipids and (2) proteins.        some simple polynucleotides.
+An early and very influential model of cellular mem-               Experimentalists have taken up the study of alternat-
+branes was developed by Danielli and Davson (1935). In         ing hydrophobic-hydrophilic oligomers of amino acids.
+this model the phospholipids formed a lipid bilayer and        The'poly leucyl-lysine in salt has been shown to form
+the proteins were thought to be globular and associated        "asymmetrical bilayers with a hydrophobic interior and
+with the charged surface of the phospholipid bilayer.          a hydrophobic exterior because of hydrophobic side-
+Danielli later modified the association of proteins to the     chain clustering" (Brack and Orgel 1975).
+lipid bilayer by considering the protein to be in a ex-            The evolution of coded protein structure could have
+tended [3-form and some of the hydrophobic side chains         traversed the following route: first the alternating hydro-
+                                                                                                                    543
+
+phobic-hydrophilic polypeptides would form [~ sheets            The primitive genetic code was a doublet, G, C
+which would then form bilayers. The formation of                code. The code consisted of GG coding for gly-
+turns would then follow as the peptides grew in com-            cine, CC coding for proline, CG coding for argi-
+plexity. The appearance of helices would seem to coin-          nine and GC coding for alanine . . . . The remnants
+cide with the entry of lipids into the primitive membrane.      of this primitive code exist in the loops of the
+The evolution of the membrane is clearly tied to the            present day tRNA. If one considers the cloverleaf
+evolution of the genetic code and the complexity of the         structure of tRNA then aside fi'om the anticodon
+proteins synthesized.                                           loop, the major invariances of the loops or open
+                                                                loops are 5'UGGU3", 5'T~CGA3", 5'*CCA3'. The
+                                                                GG, CG, CC are considered to be remnants of the
+The Genetic Code                                                ancient doublet G, C code. (Hartman 1984).
+
+ Perhaps we can search for the origin and evolution of the        More recently in a discussion of 13turns in early evo-
+ code in the evolution of the tRNAs. It has been proposed     lution, a similar conclusion reached was that the earliest
+ that a precursor to transfer RNA was a small oligonucle-     code was a GC code to be followed by a GCA code.
+ otide subunit which had a loop and a double helical          Finally, "the 'youngest' amino acids are those included
+ strand five bases long (Hartman 1984). This would sug-       after the appendage of uracil to the genetic code. These
+ gest that the cloverleaf structure of t-RNA is a joining     'young' amino acids are mostly nonpolar and crucial for
+ together of smaller precursors. If this was the case then    the formation of tertiary structures of globular proteins"
+ the interactions between the aminoacyl=tRNA syn-             (Jurka and Smith 1987). What is of interest is that this
+ thetases and tRNA should reflect this evolution of tRNA      model of the evolution of the code was based on the
+ from its precursors. The recent work on microhelices and     evolution of [3 turns.
+ the minimalist tetraloop that are aminoacylated by gly-         It has been proposed that arginine was preceded by a
+ cine or alanine point to a smaller precursor of tRNA. It     simpler basic amino acid, e.g., ornithine, in the early
+ has been pointed out that "tRNA molecules may have           genetic code (Jukes 1973; Hartman 1975b). In a recent
+ developed from further differentiation and elaboration of   paper an even simpler candidate, I] amino alanine, was
+ RNA minihelices, which originally interacted with the       proposed as the primitive basic amino acid precursor to
+ minimalist active-site domain of the primordial synthe-      arginine (Hartman 1994). Another possible precursor to
+ tase. According to this viewpoint, the two domains of        arginine would be guanidioacetic acid.
+ contemporary tRNA molecules had their origins in hair-          If the primitive peptide was an alternating hydropho-
+pin stem-loop oligonucleotides, which were eventually        bic-hydrophilic polypeptide, then the simplest alternat-
+joined together to give the L-shaped tRNA structure"         ing hydrophobic-hydrophilic polypeptide coded for by a
+ (Schimmel et al. 1993).                                     GC code would be a polymer of alanine and "arginine."
+    What was the evolution of the code? It is usually        Alanine would be coded for by GC- and "arginine" by
+ assumed that the code began simply and evolved into its     CG-. This could have been the first membrane and it
+present complexity. The vocabulary of the primitive code     might have performed a number of functions. It might
+must have been limited to a few amino acids and nucle-       have performed the functions of an aminoacyl-tRNA
+otides, and the vocabulary of nucleotides and amino ac-      synthetase as alternating hydrophobic-hydrophilic poly-
+ids expanded as the code evolved.                            peptides have recently been shown to have catalytic
+    A vocabulary expansion model, which was proposed         properties (i.e., hydrolysis of oligoribonucleotides)
+in 1975, postulated that the earliest code was a (GC)        (Brack 1993). It has been suggested that the polyalanine-
+code. The amino acids coded for were glycine (GG),           arginine was the first polymerase. "Primitive nucleic
+proline (CC), alanine (GC), and "arginine" (CG). The         acid replication is postulated to involve a particular type
+code then evolved by adding A to form a (GCA) code.          of peptide that establishes a 'growing point'--a polypep-
+The amino acids which were added were glutamic acid,         tide in which alternate amino acid residues are basic"
+aspartic acid, glutamine, asparagine, lysine, histidine,     (Woese 1973). The polypeptide suggested was a copoly-
+threonine, and serine. Finally U was added to the code to    met of alanine and arginine which would have been
+form a (GCAU) code. The amino acids which were               coded for by an alternating copolymer of C and G. It was
+added were valine, leucine, isoleucine, methionine, phe-     also suggested that the copolymer of alanine and arginine
+nylalanine, tyrosine, tryptophan, and cysteine (Hartman      was polymerized on some mineral surface (Woese 1973).
+1975a).                                                          The problem here is, what was the primary function of
+    The evolution of the genetic code then was from a GC     the first membrane? Was it to form an enclosed space
+code which coded for structural polypeptides and only        with an inside and outside or was it to coat a surface? If
+later evolved into the complex enzymes as adenosine and      it was to coat a surface--for example, a clay particle--
+finally uridine entered the code.                            then this membrane could have been preceded by a yet-
+    In a previous paper on the evolution of tRNA, the        simpler precursor. Since, as discussed earlier, the early
+following conclusions were reached:                          code included GG, which coded for glycine, and CC,
+544
+
+which would be the anticodon for glycine, a possible               face of a clay particle set the stage for the further evo-
+candidate would be glycine oligomers. This coupling be-            lution of both the code and the aminoacyl-tRNA syn-
+tween the anticodon CC and glycine would have to be                thetases.
+mediated by what can be called the ultimate aminoacyl-                In summary, the origin of the genetic code is tied up
+tRNA synthetase. Where would such interactions be-                 with the origin and evolution of the membrane.
+tween the polymerization of amino acids and polynucle-
+otides take place that would lead to the origin of the
+code? The answer is, on the surface and edges of clays.            References
+     Experimentally the polymerization o f glycine has
+been demonstrated on the surface of homoionic clays                Brack A (1993) Liquid water and the origin of life. trig Life Evol
+(e.g., montmorillonite). In particular, copper-montmoril-              Biosph 23:3-10
+                                                                   Brack A, Orgel L (1975) 13structures of alternating polypeptides and
+lonite has been shown to polymerize glycine into oligo-                their possible prebiotic significance. Nature 256:383-387
+mers up to pentaglycine in length. This was done by a              Danielli JF, Davson H (1935) A contribution to the theory of perme-
+cycling procedure of drying, warming, and wetting. It                  ability of thin films. J Cell Physiol 5:495-508
+was concluded from these experiments that, " t h e metal           Eriani G, Delarue M, Poch O, Gangloff J, Moras D (1990) Partition of
+ions in the clay matrix could have played a key role in the            tRNA synthetases into two classes based on mutually exclusive sets
+                                                                       of sequence motifs. Natur~ 347:203-206
+processes believed to have been important for the origin           Ferris, JP (1993) Catalysis and prebiotic synthesis, trig Life Evol
+of life on earth" (Lawless and Levi 1979). Experimental                Biosph 23:307-315
+results have also shown that polypeptides are formed               Gilbert W (1987) The exon theory of genes. Cold Spring Harb Syrup
+from aminoacyladenylates catalyzed by montmorillo-                     Quant Biol 52:901-905
+nites (Paect-Horowitz and Eirich 1988).                            Hartman H (1975a) Speculations on the evolution of the genetic code.
+                                                                       trig Life 6:423-427
+    Experimentally, the polymerization of activated nu-            Hartman, H. (1975b) Speculations on the origin and evolution of me-
+cleotides to form polynucleotides catalyzed by mont-                   tabolism. J Mol Evol 4:359-368
+morillonites is now a very active research topic (Ferris           Hartman H (1984) Speculations on the evolution of the genetic code
+1993).                                                                 III: the evolution of tRNA. trig Life Evol Biosph 14:643-648
+    The surface and edges of the clays are certainly good          Hartman H (1995) Speculations on the evolution of the genetic code
+                                                                       IV: the evolution of the aminoacyl-tRNA synthetases, trig Life
+candidates for the catalysis of the polymerization of both            Evol Biosph 25:265-269
+nucleotides and amino acids. The next experimental                 Jukes TH (1973) Arginine as an evolutionary intruder into protein
+frontier is to demonstrate their coupling.                             synthesis. Biochem Biophys Res Commun 53:709-714
+    Thus at some time the earliest code would have to              Jurka J, Smith TF (1987) 13turns in early evolution: chirality, genetic
+                                                                       code, and biosynthetic pathways. Cold Spring Harb Syrup Quant
+have oligomers of guanine (poly G) coding for polygly-
+                                                                      Biol 52:407410
+cine. The code would thus have been trivial as poly G              Lawless JG, Levi N (1979) The role of metal ions in chemical evolu-
+would code for oligomers of glycine. What is not trivial               tion: polymerization of alanine and glycine in a cation-exchanged
+is that glycine would have to be recognized by a primi-                environment. J Mol Evol 13:281-286
+tive t R N A (i.e., CC). How did this come about? One              Orgel L (1987) Evolution of the genetic apparatus: a review. Cold
+                                                                       Spring Harb Syrup Quant Biol 52:9-16
+possibility is suggested by an interesting cocrystallizaton
+                                                                   Paecht-Horowitz M, Eirich FR (1988) The polymerization of amino
+of a cytosine-glycyl-glycyl-copper(II) complex (Saito et               acid adenylates on sodium-montmorillonitewith preadsorbed poly-
+al. 1974) and a cytidine-glycyl-glycyl-copper(II) com-                peptides, trig Life Evol Biosph 18:359-387
+plex (Szalda et al. 1975). Here a possible early " c o d i n g "   Saito R, Terasbima R, Sakai T, Tomita K (1974) The crystal structure
+is mediated by a copper ion and it is a diglycine which is             of cytosine-glycyl-glycine-copper(II)complex, a biologically im-
+                                                                       portant ternary coordination complex. Biochem Biophys Res Com-
+" c o d i n g " for a cytosine. It is a diglycine which is spe-
+                                                                       mun 61:83-86
+cifically (with the help of a copper ion) interacting with         Schimmel P, Giege R, Moras D, Yokoyama S (1993) An operational
+the monomer cytosine. Thus it may have been diglycine                  RNA code for amino acids and possible relationship to genetic
+which in the presence of copper ions coded for the po-                 code. Proc Natl Acad Sci USA 90:8763-8768
+lymerization of oligo C. The earliest code may have                Singer SJ, Nicolson GL (1972) The fluid mosaic model of the structure
+                                                                       of cell membranes. Science 175:720-731
+started from glycine oligomers and copper ions interact-
+                                                                   Szalda DJ, Marzilli LG, Kistenmacher TJ (1975) Dipeptide-metal-nu-
+ing with an activated cytosine which would line up on                  cleoside complexes as models for enzyme-metal-nucleic acid ter-
+the edge of a copper-montmorillonite and be polymer-                   nary species. Synthesisand molecular structure of the cytidine com-
+ized there. This poly C could then be a template for the               plex of glycylglycinatocopper(II).Biochem Biophys Res Commun
+polymerization of poly G. An interaction between GG                    63:601-605
+                                                                   Wallach DFH, Zahler PH (1966) Protein conformations in cellular
+and proline perhaps mediated by a copper or zinc ion and
+                                                                       membranes. Proc Natl Acad Sci USA 56:1552-1559
+then polymerized on a p o l y C would also become pos-             Woese C (1973) Evolution of nucleic acid replication: the possible role
+sible on the edges and surface of a clay.                              of simple repeating sequence polypeptides therein. J Mol Evol 2:
+     These sets of polymerizations on the edges and sur-               205-208
+

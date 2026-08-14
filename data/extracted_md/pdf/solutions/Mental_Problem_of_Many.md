@@ -1,0 +1,1120 @@
+# 8. The Mental Problems of the Many
+
+**source:** pdf · **section:** solutions
+**file:** Mental_Problem_of_Many
+---
+
+      Peter Unger
+
+Many years ago, I blush to recall, I published some arguments against
+the existence of all sorts of commonly supposed entities—against rocks
+and desks, plants and planets, stars and salt shakers, human brains and
+bodies, and, perish the thought, against us human thinking experien-
+cers, including even the one who’s me.1 By contrast, now I’m trying to
+develop, in a book I’ve been long writing, a humanly realistic philoso-
+phy, wherein my existence, and yours, has the status of a quite undeni-
+able philosophic datum.2
+   As it seems to me now, certain trying ideas then deployed in such
+nihilistic reasoning may bear importantly on the question of what sort
+of a humanly realistic view we should adopt. These are ideas to the effect
+that, where I’m apt ﬁrst to think that there’s just this one human body,
+   1
+     In chronological order, the most directly nihilistic of these papers are: ‘‘There Are No
+Ordinary Things’’, Synthese, 41 (1979): 117–54; ‘‘I Do Not Exist’’, pp. 235–51 in Percep-
+tion and Identity, ed. G. F. MacDonald, London: Macmillan, 1979; and ‘‘Why There Are
+No People’’, Midwest Studies in Philosophy, 4 (1979): 177–222. The main thrust of these
+papers is the articulation of a nihilistic approach to various sorites arguments. Typically,
+these arguments trade on the (for all I really know perfectly correct) idea that an extremely
+minute difference between two ordinary entities—minute as regards propensities as well
+as all sorts of other things—will never mean the difference between one of them being a
+rock, for example, and the other not being a rock, or the difference between one being
+a thinking being and the other not being a thinking being. Less directly nihilistic are a few
+other papers, including ‘‘The Problem of the Many’’, Midwest Studies in Philosophy, 5
+(1980): 411–67. In this paper none of the key ideas has anything much to do with any
+sorites arguments, or with ‘‘discriminative vagueness’’, though a casual glance at these key
+ideas may often give such an erroneous impression. Right now, I’ll warn you against
+conﬂating these two very different sorts of nihilistic reasoning. And, in the bargain, I’ll
+warn against mistaking, for any sorites argument, or any reasoning at all concerning
+discriminative vagueness, the trying thoughts I’m about to supply in this present essay.
+Finally, I signal that, while several of this essay’s key ideas do arise from issues central to
+‘‘The Problem of the Many’’, some of these presently central ideas go, in various important
+respects, far beyond anything considered in that old paper. (While there are great differ-
+ences between the thoughts of this new essay and the ideas of the older one, an attempt to
+detail the differences looks to be more distracting than instructive.)
+   2
+     Still in progress, the book is entitled All the Power in the World, to be published by
+Oxford University Press.
+196 | Peter Unger
+
+‘‘my body’’, seated in just this one chair, ‘‘my desk chair’’, there are,
+more accurately, many billions of human bodies, each seated in many
+billions of chairs. And, where I’m ﬁrst given to believe that there’s just
+one healthy active brain, ‘‘my brain’’, promoting someone’s mentality,
+there may be many billions of brains, each of them largely overlapping
+so many of the others, and each serving, quite equally, to promote a
+thinking, experiencing and choosing human being, or human self.
+Maybe each brain promotes the very same mind, or self, as do each of
+the others, in which case there’s just one self promoted (rather redun-
+dantly?) by them all; or maybe each promotes a numerically distinct
+conscious individual, in which case many billions of experiencers may
+be, in my situation, simultaneously promoted. Right now, these
+remarks should seem no better than cryptic comments; but, in the
+course of this essay their import should become clearer.
+   These trying ideas might provide, I’ll be suggesting, much force
+against the Scientiphical View that each of us is a highly complex
+wholly physical thing, with each of our powers just some sort of
+(physically derivative) physical power; or, on a less popular version of
+Scientiphicalism, each of us is epiphenomenal on, or supervenient on, a
+highly complex wholly physical thing.3 And they might also provide
+much force against a related Emergentist View, on which each of us is a
+physical-and-mental complex.4 Without further ado, let’s encounter
+these trying ideas.
+
+recalling the problem of the many
+In a paper called ‘‘The Problem of the Many’’, I introduced a problem
+for our everyday thinking, distinct from all sorites problems and,
+indeed, quite different from problems of ‘‘discriminative vagueness’’.
+
+  3
+     Spelling it differently, as ‘‘Scientiﬁcalism’’, I ﬁrst sketched this View, which is our
+dominant metaphysic, in ‘‘The Mystery of the Physical and the Matter of Qualities’’,
+Midwest Studies in Philosophy, 23 (1999): 75–99. Using philosophically more suggestive
+spelling, I discussed it further in ‘‘Free Will and Scientiphicalism’’, Philosophy and
+Phenomenological Research, 65 (2002): 1–25. One of the main aims of All the Power in
+the World is to explore, very critically, this Scientiphical Metaphysics that, for several
+decades at least, has been the dominant worldview among prominent mainstream philoso-
+phers, as well as many others.
+  4
+     There’s a discussion of this Emergentism in my ‘‘Free Will and Scientiphicalism’’. The
+excellent suggestion that I treat this view very seriously I owe to Dean Zimmerman.
+                                The Mental Problems of the Many | 197
+
+Much as I found it useful to do then, let us start by considering certain
+cases of ordinary clouds, clouds like those we sometimes seem to see in
+the sky.
+   As often viewed by us from here on the ground, sometimes puffy
+‘‘picture-postcard’’ clouds give the appearance of having a nice enough
+boundary, each white entity sharply surrounded by blue sky. (In
+marked contrast, there are other times when it’s a wonder that we
+don’t simply speak singularly of ‘‘the cloud in the sky’’, where each
+visible cloudy region runs so messily together with many other cloudy
+‘‘parts of the sky’’.) But upon closer scrutiny, as may happen sometimes
+when you’re in an airplane, even the pufﬁest, cleanest clouds don’t seem
+to be so nicely bounded. And this closer look seems a more revealing
+one. For, as science seems clearly to say, our clouds are almost wholly
+composed of tiny water droplets, and the dispersion of these droplets, in
+the sky or the atmosphere, is always, in fact, a gradual matter. With
+pretty much any route out of even a comparatively clean cloud’s center,
+there is no stark stopping place to be encountered. Rather, anywhere
+near anything presumed a boundary, there’s only a gradual decrease in
+the density of droplets ﬁt, more or less, to be constituents of a cloud
+that’s there.
+   With that being so, we might see that there are enormously many
+complexes of droplets, each as ﬁt as any other for being a constituted
+cloud. Each of the many will be a cloud, we must suppose, if there are
+even as many as just one constituted cloud where, at ﬁrst, it surely
+seemed there was exactly one. For example, consider the two candidates
+I’ll now describe. Except for two ‘‘widely opposing’’ droplets, one on one
+side of two overlapping cloudy complexes, way over on the left, say, and
+another way over on the right, two candidate clouds may wholly overlap
+each other, so far as droplets goes. The cited droplet that’s on the left is a
+constituent of just one of the two candidates, not a component of the
+other; and the one on the right is a component of the other candidate,
+not the one ﬁrst mentioned. So each of these two candidate clouds
+has exactly the same number of constituent droplets. And each might
+have exactly the same mass, and volume, as the other.
+   Now, all around the outer portion(s) of a supposedly single cloud,
+what obtains is a gradual change of droplet density, along ever so many
+paths, from the considered cloud’s central portion(s) to what is merely
+its droplet-infested environment. In actuality, there’s not just one
+‘‘problematic pair of opposing droplets’’. Rather, there are very many
+198 | Peter Unger
+
+such distinct pairs, that is, many pairs of peripheral droplets each of
+which has no droplet in common with any of the other pairs. So there’s
+certainly nothing special about the opposing pair that, above, fueled
+some peculiar thinking. Indeed, any droplet from any one of the many
+opposing pairs might be coupled equally well, instead, with at least one
+of the two droplets from (almost) any other one of these very many
+pairs. This being so, the mathematics of combinations will have it that,
+in the situation where one ﬁrst supposes a single concrete cloud, there
+are very many millions of clouds present. Each of these many millions
+of cloud candidates has precisely as many droplets as does each of the
+others. And, in every way plausibly deemed relevant for cloudhood
+here, each is the exact equal of all the others. By contrast with consider-
+ations central to sorites arguments, here there is no difference at all
+between any one of these complexes’ current cloud credentials and the
+credentials of any of the millions of others.
+   Though it’s not needed to generate our problem, it’s sometimes fun
+to combine what’s just been offered above with some considerations
+concerning vagueness. So, in the case we’ve been considering, the
+extremely good cloud candidates are not limited, of course, to the
+exactly equally good ones that differ only as regards two such opposing
+peripheral constituent droplets. In addition, there’s a candidate that’s
+plenty good enough for current cloudhood that lacks not just one but
+both of the peripheral ‘‘opposing’’ droplets ﬁrst considered. If there are
+any real clouds here at all, this will be a cloud that’s just one ‘‘droplet’s
+worth’’ less massive than either of our ﬁrst two candidates, and just
+slightly smaller in volume, too. And, there’s another perfectly good
+candidate that has not just one but both of those peripheral droplets as
+constituents. As regards both mass and volume, it will be just two
+droplets’ worth larger than the candidate considered a moment ago,
+and just one droplet larger than each of the two complexes we ﬁrst
+considered above. With even just this much thrown into our cloudily
+explosive mix of considerations, our situation’s recognized cloud popu-
+lation rises enormously.
+   While there should be limits to how far such ‘‘numerically differen-
+tial shuttling’’ can be taken, lest sorites arguments here lead to nihilistic
+ideas, we won’t be anywhere close to approaching those limits with
+differences of just two peripheral droplets in the cloudy complexes we’re
+considering. Indeed, even with differentials of ﬁve such peripheral
+droplets, even ﬁve on either side of our initially chosen ‘‘tied clearest
+                              The Mental Problems of the Many | 199
+
+current cloud case’’, we won’t be anywhere close to threatening any such
+limits. Now, these matters concerning vagueness have been, as I pre-
+dicted, some fun to consider. But, they themselves are peripheral to
+what are here the main issues, to which we now return.
+   Even as concerns the main issues, there’s not an absolutely perfect
+parallel between a common cloud and its constituting droplets on one
+hand, and a water droplet and (at least some of) its constituting
+molecules, or atoms, or elementary particles on the other. But there’s
+no important difference between the two. We may grant, if needs be,
+that there are routes from a drop’s center into its mere environs with
+breaks that are quite clean. Even so, there’ll be many others that are
+very much messier, quite messy enough to allow for ‘‘opposing’’ pairs of
+plausible enough constituents. With these opposing pairs of ‘‘particles’’,
+we may reason, in a relevantly parallel fashion, that there are many
+millions of water droplets where at ﬁrst there would seem to be just one.
+And, as it is with water droplets, so it is also with rocks and desks,
+planets and plants, and human brains and bodies.
+   Where at ﬁrst there seems to be just a single human body, here,
+which is just ‘‘my body’’, there may really be vastly many human
+bodies. And where I take your single brain to be ensconced in your
+one head, there may be very many human brains (each equally
+‘‘yours’’), all similarly ensconced in vastly many human heads (each
+‘‘yours’’).
+   All this sounds very strange. But, maybe there isn’t anything in it
+that should be very disturbing. So long as we’re clear as to what are the
+relations among which brains, and which bodies, maybe there needn’t
+be any serious problem. For instance, we can be clear enough about what
+we may correctly express when saying that none of your brains is in,
+nor are any of your brains a part of, any of my many bodies. And, we
+may be similarly clear about saying that each of my brains is in, and is a
+part of, all of my bodies. And, even as many of your brains each overlap
+with many other brains that are yours, none of your brains overlap with
+any of mine, of course. At the same time, it’s also clear that none of my
+many bodies ever nest in, nor do any ever greatly overlap with, any one
+of your many bodies.
+   Now, even on the face of things, the problems of the many just
+canvassed, or rehearsed, concern nothing of much greater moment, or
+depth, than what’s commonly found with many merely semantic issues.
+There seems nothing of much metaphysical moment in these problems
+200 | Peter Unger
+
+with common thoughts about quite grossly complex physical entities.
+(Nor does there seem any perplexing problems of moral moment, or
+any deep difﬁculty concerning rational concern.) Should every ‘‘prob-
+lem of the many’’ be no worse than these noted problems—about many
+overlapping clouds, and brains, and human bodies—there may be no
+very serious philosophical problem to be found along these lines. Is
+there, perhaps, such a relatively untroubling situation happily in the
+cards for us here?
+
+the experiential problem of the many
+Maybe so; but maybe not. Indeed, matters may start to get much worse,
+I’ll suggest, should we be unable to quash the thought that, in what I
+take to be just my own situation, there are really very many experi-
+encing thinkers, each promoted by a different one of the very many
+brains that, above, I bid us recognize as ‘‘my brains’’.
+   But, can anything much like that be right? In addition to me myself,
+whose conscious metaphysical struggles are, apparently, producing
+these awkward sentences, are there many other thinkers, too, each
+similarly responsible, and maybe each of us then just barely responsible,
+for producing these strangely disquieting philosophical utterances?
+Right here and now, ‘‘in my situation’’, are there vastly many experi-
+encing thinkers, each with a protracted illusion of being, in this very
+present situation, quite singular and unique? While anything’s possible,
+as we say, the idea that there are, along with me, so many distinct like-
+minded experiencing thinkers is incredible.
+   Am I being, perhaps, overly self-centered here? I don’t think so. In
+fact, when I consider a similar ‘‘experientially explosive’’ suggestion
+about you, and about the many bodies and brains ‘‘in your situation’’,
+I ﬁnd the thought of billions of like-minded experiencers just as incred-
+ible as in my own case. Whether it’s for my own case or for yours, with
+our Experiential Problem of the Many there’s a very serious issue of
+credibility.
+   Just a few sentences make clear how very much such an experientially
+explosive supposition ﬂies in the face of our commonsense thinking
+about ourselves. Possibly excepting what happens when certain rariﬁed
+metaphysics is done, each one of these many supposed billions thinks
+that, at least among all the people on earth right now, he alone is
+                              The Mental Problems of the Many | 201
+
+experiencing—immediately, complexly, and totally—in the precise
+way or fashion that, at the moment, he manifests, or exempliﬁes. As
+I take it, you’re not experiencing in a way that’s precisely like the
+way I’m experiencing right now, even though we may be near each
+other in the same room. For one thing, I have a tingling condition ‘‘in
+my left foot’’ that, I believe, is quite different from any felt condition
+you now suffer. For another, my perspective is different from yours,
+which almost certainly means a notable difference in our visual experi-
+encing. Obviously we could go on and on; but, just as obviously,
+that’s enough.
+   Matters quickly go from bad to worse; incredible thoughts compound
+incredibly. Am I to think that, with vastly many experiencers promoted
+by vastly many brains ‘‘in my situation’’, each may be communicating
+his innermost thoughts to all of the enormously many other experi-
+encing thinkers, across the vastly many tables between us, promoted by
+the vastly many brains ‘‘in your situation’’? Such an idea is, I think,
+patently absurd.
+   Something has gone badly wrong here. And, as we are now dealing
+with human thinking experiencers, with the likes of you and me, what’s
+gone wrong concerns what’s central for any humanly realistic philo-
+sophy.
+   Indeed, whatever philosophical projects one may ﬁnd interesting, this
+present matter presents an issue that one should recognize as philo-
+sophically puzzling and disturbing. Part of what makes the matter so
+puzzling may be that it concerns what has been called, in recent years,
+the ‘‘subjectivity of experience’’. This so-called subjectivity is closely
+related to—and it may even be the same thing as—what was called, in
+earlier years, the ‘‘privacy of experience’’. Very sketchily put, that is
+indeed my partial diagnosis. In a way that may resonate intuitively, I’ll
+try to amplify on this diagnostic idea.
+   The thought that there are, ‘‘in my situation’’, vastly many individ-
+uals each similarly experiencing the sweet taste of chocolate is, to my
+mind, a very disturbing suggestion. It is far more disturbing than the
+thought that, in this situation, there are vastly many complex entities
+each of whom is chewing a sweet piece of chocolate, or digesting a
+sweet piece of chocolate. A digesting of the sweet chocolate that’s
+very much like my (body’s) digesting it may as well be ascribed—
+quite indifferently, tolerably, and readily—to each of however many
+human beings (or human bodies) may very largely overlap me (or
+202 | Peter Unger
+
+mine). This contrasting thought concerning digesting is far less deeply
+puzzling, and far less disturbing, than the thought concerned with
+experiencing.
+   With the digesting of the chocolate, the situation seems far more
+relaxed than with the experiential tasting of anything. With so much
+more relaxed a matter, it seems little more than a matter of choosing
+what forms of words to use. Following common sense, even if perhaps
+speaking loosely, we may say that there’s just one process of digesting
+now going on ‘‘in my situation’’. Or, paying less attention to common
+thought, and maybe more to certain principles of differential consti-
+tution, we may instead say that, with many similar overlapping entities
+each engaged in a very similar digestive process, there are many similar
+overlapping digestive happenings. As it seems, this latter description is
+only somewhat less intuitively palatable.
+   Not so, it seems, with my experiencing as I do. Rather, it seems, my
+power to experience will be radically different from my power to digest
+(or, perhaps better, from my very many bodies’ powers to digest.) The
+latter is just a highly derivative physical propensity; it’s a metaphysic-
+ally superﬁcial power ascribed, perhaps properly enough, to many such
+ontologically superﬁcial complexes as are typical human bodies, or
+entirely physical human organisms. By contrast, a power to experience
+may be a radically emergent mental propensity, in no wise any mere
+physical power, neither derivative nor non-derivative. For some, this
+contrast will be both evident and even profound. But, for others, further
+discussion may be useful.
+   For the sake of the argument, or the diagnostic exposition, just
+suppose, for the moment, that a Substantial Dualism holds. And, fur-
+ther, suppose that I causally interact, quite equally, with each of very
+many overlapping complex physical bodies, each of which thus may be
+called, properly enough, one of my bodies. Must there be very many
+other Cartesian thinkers, in addition to myself, who also causally inter-
+act, quite equally, with (so many of) these same physical complexes—so
+that (many of) my bodies are also their bodies? Certainly not. Indeed, it
+may be a great advantage of this Dualism that its most plausible
+versions won’t have things turn out this way. As a matter of metaphys-
+ical fact, all the bodies ‘‘in my situation’’ serve to promote only myself,
+and not any other sentient self. On such a Substantial Dualistic View,
+there may be much reason to take each of these many bodies to be one of
+my bodies, but not to take any of them to be anyone else’s.
+                               The Mental Problems of the Many | 203
+
+   Even as I may have so many human bodies, none of which are anyone
+else’s bodies, so I may then also have very many digestive systems,
+many of them greatly overlapping many of the others, while each such
+system has a slightly different group of basic physical constituents from
+all the rest—perhaps an ‘‘extra’’ electron here, or one less hydrogen
+atom there. To be sure, this sounds like it’s squarely against common-
+sense thinking, and ordinary biological thinking. And, very possibly, it
+is. Still, there’s nothing that is all that disturbing in any of it. Indeed,
+there’s nothing very disturbing, either, in going on to think many
+further thoughts, elaborations on these materially explosive ideas. For
+instance, without very much disturbance, we may think that each of my
+many digestive systems may undergo, or be engaged in, a process of
+digestion—a digesting—that’s ever so similar to the digestive processes
+undergone, simultaneously, by ever so many overlapping digestive
+systems. Readily enough, I trust, we may accept the idea that all these
+systems are mine, and mine alone, and all these digestings are mine, and
+mine alone. Though it’s somewhat unnatural for us to say such proﬂi-
+gate things, there’s no grave philosophical error, I’ll suggest, in being so
+liberal about these metaphysically material matters.
+   For the same reasons that I might be said to have billions of digestive
+systems, I may also be said to have vastly many nervous systems, each
+largely overlapping very many others, and each having slightly differ-
+ent physical constituents from all the rest. Indeed, it seems established
+that my causal interaction with all these systems is much more direct
+than my interaction with any of my digestive systems. Anyhow, much
+as we might readily tolerate the thought that my many overlapping
+digestive systems may be engaged in many overlapping digestive pro-
+cesses, so we might also easily tolerate the thought that my many
+overlapping nervous systems may be engaged in many overlapping
+neural processes.
+   But, may we similarly tolerate the idea that each of these many
+nervous systems may undergo, or may be engaged in, a process of
+experiencing that’s quite simultaneous with, and ever so similar to,
+the experiencings undergone by ever so many other largely overlapping
+nervous systems? I certainly don’t think so. More cautiously, may we
+fairly happily think that, even as each of very many particular experi-
+encings may occur during exactly the same time as ever so many others,
+each may occur in very much the same place as so many others? May we
+think this nearly as happily, at least, as we may think parallel thoughts
+204 | Peter Unger
+
+about my digestings? Again, it certainly doesn’t seem so to me. By
+contrast, this following seems a much more intuitively congenial ex-
+pression of what’s apparently happening experientially. More directly
+than any other comparable part of my body, or parts of my bodies, each
+of the many nervous systems now in ‘‘my situation’’ physically pro-
+motes just a single (total) process of (total) experiencing, which is just
+my experiencing, even as I myself am the single experiencer that’s
+physically promoted by (any of) the nervous systems now in this
+particular situation. Brieﬂy put, here’s a reasonably plausible way for
+how all that may be so, even if it is also a rather nicely amazing way. In
+whatever serves to constitute my nervous systems, there’s a propensity
+to the effect that there will be a limit placed—(almost always) a limit of
+just one—on how many experiencing particulars may be promoted by
+the optimally arranged basic physical constituents—optimally ar-
+ranged, that is, for the promoting of any experiencing individuals. In
+the same way, we may hypothesize that each of my simple physical
+constituents—every single one of them—has a marvelous propensity
+with regards to how it may interact with very many others, so that, in
+optimal arrangements for promoting consciousness, there’s an effective
+singular resolution as to what experiencer they promote. And so also is
+there a singular resolution of what experience, or what experiencing, is
+then promoted by them.
+   In the last several paragraphs, we’ve been supposing that the correct
+metaphysical view is a Substantial Dualism, not terribly different from
+the classical view of Descartes. Now, let’s drop that supposition and, to
+the contrary, suppose that a more materialistic view of mentality is
+correct—maybe some form of materialism itself, maybe some more
+relaxed version of our Scientiphical Metaphysic, as with a suitable
+Scientiphical Epiphenomenalism. Or maybe what’s correct is something
+as moderately different from Dualism as the Emergentism that, in this
+is paper’s preamble, I mentioned so brieﬂy. Now, on this Emergentist
+View, there are radically emergent mental powers, all right, but they all
+inhere in physical complexes, in the very same complex objects that also
+have so many physically derivative physical powers.5 Insofar as we may
+maintain one of these more materialistic views, quite comfortably and
+intuitively, we may not ﬁnd it disturbing, at all, to think that, in my
+situation right now, there are billions of experiencing thinkers. But,
+
+  5
+      As noted earlier, I discuss this Emergentism in my ‘‘Free Will and Scientiphicalism’’.
+                               The Mental Problems of the Many | 205
+
+then, how far is it that, all the while doing it quite comfortably and
+intuitively, I actually can sustain the thought that, in my situation right
+now, there are billions of experiencing individuals, each enjoying his
+very own experiencing, numerically distinct from the similar experience
+of all the others? Not very far at all, that’s for sure. And, as I suspect,
+pretty much the same is true of you.
+   For most of us, all this should be fairly intuitive, maybe even highly
+intuitive. For that reason, all this should be, for most of us, a point in
+favor of Substantial Dualism—as against the Scientiphical Metaphysic
+and, as well, as against the Emergentism lately noted.
+
+the experiencing of split-brain patients
+underscores this disturbing problem
+The previous section offered a fairly succinct presentation of the Experi-
+ential Problem of the Many. Now, I aim to amplify on that. With the
+further considerations I’ll discuss in this ampliﬁcation, we may see that
+this problem provides a more clearly forceful point in favor of Dualism,
+even if, perhaps, not yet any point that’s enormously forceful.
+   At all events, it’s extremely interesting to think about human ‘‘split-
+brain’’ patients—epileptics whose main neural connection between their
+two cerebral hemispheres, their corpus callosum, was severed so that
+they might gain relief from frequent severe seizures. When these
+patients are placed in certain specially designed experimental setups,
+as some of them actually were, in many cases their behavior almost cries
+out for exotic psychological interpretation.
+   Here’s a simple case, contrived for illustrative purposes, that’s rele-
+vantly similar to striking actual cases. Our psychological subject, a
+cooperative split-brain patient, is asked to handle some regularly shaped
+solid ﬁgures, each object being either a cylinder, or a cube, or a pyramid,
+or a sphere. And, right after handling a solid object, our subject is to
+write down the sort of object she just handled, inscribing just one of
+these four common words for shapes, the one that seems suitable to her:
+‘‘cylinder’’, ‘‘cube’’, ‘‘pyramid’’, and ‘‘sphere’’. Now, none of these
+objects is ever seen by the subject; the solids are all behind an opaque
+screen that obscures even the surface of the table on which they rest.
+Usefully, the screen has two holes in it, while each hole has an easily
+movable but always visually obscuring ﬂap. At all events, our subject
+206 | Peter Unger
+
+places her left arm through the hole on her left, and her right arm
+through the one on her right. So her left hand can handle objects on the
+table’s left side, from her perspective; but, it can’t handle any on the
+table’s right side. Why not? Well, protruding upward from center of the
+table’s surface, there’s a large solid barrier, which precludes any left–
+right, or right–left, crossover. In this way the right hand is conversely
+limited; with her right hand she can handle only the objects to the right
+of the barrier.
+   That’s our experimental setup. Now, we suppose that, within about a
+minute of putting her arms through the appropriate holes, her right
+hand grasps a cube, and no other regular solid object, while the sole
+object her left hand grasps is a sphere. For a few seconds, she holds the
+two objects like that. Then, she withdraws her hands from the holes, as
+instructed. And, then, on the near side of the screen, she places her
+hands on two pieces of paper and is given two pencils, one placed in her
+left hand and one in her right. Then our ambidextrous subject, who can
+readily employ both hands at once, is asked to write, on each of the pads,
+just one of the four words: ‘‘cylinder’’, ‘‘cube’’, ‘‘pyramid’’, ‘‘sphere’’.
+Something quite amazing now happens. With her right hand, she writes
+‘‘cube’’, while with her left hand, she writes ‘‘sphere’’. In this strangely
+diverse writing activity, our subject evinces no hesitation, conﬂict, or
+ambiguity. Rather, as far as her behavior seems to indicate, (it’s as
+though) ‘‘a part of her’’ experienced a cube tactiley, and not any sphere,
+while at the very same time ‘‘another part of her’’ experienced tactiley
+only a sphere, and no cube at all.
+   Many actual cases are, as I said, very like this contrived example.6
+They strongly suggest that, in many actual experimental setups with
+split-brain patients, the subjects become involved, at once, in two quite
+separate experiencings, or ‘‘streams of experience’’. Of course, these
+split-brain episodes are very unlike what we imagined above for our
+very many ‘‘largely overlapping experiencers’’. With those very many
+overlappers, each of very many millions of experiential streams was
+supposed to be qualitatively extremely like each of the others; with our
+
+   6
+     For a nice presentation of some of these actual cases, along with an interesting
+discussion of what might be much of their philosophic import, see Thomas Nagel,
+‘‘Brain Bisection and the Unity of Consciousness’’, Synthese, 22 (1971). This essay is
+widely reprinted, notably in Nagel’s Mortal Questions (Cambridge University Press,
+1979), pp. 147–64.
+                               The Mental Problems of the Many | 207
+
+split-brain subjects, by contrast, each of just two presumed experiential
+streams is qualitatively very unlike the only other.
+   What’s going on here, with a split-brain patient in a dually productive
+setup? To provide a sensible answer to this question, we ﬁrst put to one
+side all our problems of the many. That done, what’s going on seems to
+be this: along with a good deal of the subject’s nervous system that’s not
+cerebral—her brain-stem, for example—one of her hemispheres serves
+(most directly) to promote one sort of experiencing that the subject’s
+written answer indicated she enjoyed—say, her tactile experiencing as
+of a cube. And, in a relevantly complementary way, the other hemi-
+sphere serves (most directly) to promote another sort of experiencing, a
+tactile experiencing as of a sphere, and not as of a cube. Now, except as
+regards cerebral hemispheres, a big exception here, what’s promoting
+the one experiencing, is the same entity—presumably the same physical
+complex—as is promoting the other; or, at the very least, the one
+precisely coincides with the other. In exactly the same way, the physical
+complex (most directly) promoting one of these experiences has a
+promotionally important part that is the same as, or that coincides
+with, the physical complex that’s (most directly) promoting the other
+experience. And at the same time, of course, each complex lacks a
+promotionally important part, a whole hemisphere, that is a crucial
+part of the other.
+   Far be it from me to think that in these cases everything is readily
+amenable to our customary ways of thinking about human experiencers
+and our experiencings. On the contrary, the apparent simultaneous
+‘‘contrary’’ experience is very puzzling. Here’s just some of what’s so
+puzzling. With each numerically different total momentary experien-
+cing, there is a numerically different experiencer—or so we’re strongly
+inclined to believe. So, in the case that’s in focus, we have a certain
+inclination to think that there is one experiencer who writes only ‘‘cube’’
+when reporting her experiencing, and another who doesn’t write
+‘‘cube’’, but writes only ‘‘sphere’’, when reporting her tactiley very
+different simultaneous experiencing. So, intuitively, there’s a certain
+difﬁculty here for our thinking that in this experimental situation
+there’s just one single experiencer.
+   But, that inclination isn’t our only proclivity here. Can there really be
+two human people in this situation? Can there really be, in this experi-
+mental setup, an experiencing writer who is not a human person? As it
+certainly seems, there’s also a difﬁculty for our thinking that in this
+208 | Peter Unger
+
+setup there’s not always just one experiencer. Indeed, there might be an
+even greater difﬁculty here.
+   For the moment, though, suppose there’s not just one, but two
+experiencers here, each tactilely experiencing quite differently from
+the other. Well, what happens when these two experiencers are removed
+from the artiﬁcial setup, when each hemisphere again gets very much
+the same stimulation as the other? Do we have only one experiencer
+once again, the same single person who went into the experiment (say,
+about a year after she had her split-brain operation)? That suggestion
+seems strangely implausible. Where was she in the intervening period,
+this one experiencer, when (as we’re supposing) there were the two
+simultaneous different experiencers? Was she just a certain one of these
+two? That seems quite absurd. Did she go out of existence altogether,
+just when the experimental setup was introduced, and then come to
+exist again, just when the differentially stimulating setup was removed?
+This suggestion also seems unsatisfactory.
+   As a still further alternative, there’s the conjecture that, not just
+during the experimental setup, but ever since her operation ﬁrst affected
+how she experienced, our split-brain patient was engaged in not one, but
+two experiencings. Quite dramatically, during the differentially stimu-
+lating setup of the experimental situation, her experiencings were
+qualitatively very different, and not just numerically distinct. Less
+dramatically, before the post-operative patient was introduced to this
+setup, her two (streams of) experiencings were qualitatively very alike.
+(But, for all their qualitative similarity, these experiencings were nu-
+merically different from each other.)
+   What are we to make of these conjectures? And what are we to make
+of various further proposals, which may also be, at once, both somewhat
+attractive and somewhat problematic? I do not know. It is all very
+puzzling; and, it seems, quite deeply puzzling. But even in our deeply
+puzzled ignorance we might make, I think, some useful comments.
+   Let us meanwhile continue to suppose that, during the puzzling
+middle period of the experimental setup, a certain apparently exclusion-
+ary diversity of experiencing is all at once promoted. And let’s suppose,
+just a little explosively perhaps, that then there is not just one sentient
+being, but two experiencers. Though that thought is somewhat uncom-
+fortable, it’s not nearly as disturbing as the thought that there are many
+billions of human thinkers experiencing as of a cube; nor is it nearly as
+unsettling as the thought that billions are each tactiley experiencing
+                              The Mental Problems of the Many | 209
+
+only spherically. (Far more disturbing yet is the thought that there are
+billions experiencing tactiley only in the ﬁrst way, and billions only in
+the second way.)
+   However, unless we believe in a naturally resolving limit on the
+experiencers promoted, how are we rationally to reject the thought
+that, with so very many exceptionally similar complexes of matter,
+there are, right then and there and all at once, so very many experi-
+encers as that?
+   Recall the speculation that, before and after the experimental setup
+with our patient—or with our two ‘‘neighboring’’ patients—there may
+be two quite parallel experiencings promoted. Supposing that’s really
+so, a somewhat plausible explanation will run rather like this. One of
+these parallel experiencings is promoted by a neuronal system featuring
+only the left hemisphere as its distinctively highest region or part, and
+the other by a nervous system that, lacking the left, similarly features
+just the right hemisphere. Whatever one thinks of this speculation—I
+myself don’t think it’s all that plausible—there’s nobody, I trust, who
+thinks there are many billions of experiencings physically promoted
+largely by the left hemisphere, and billions more promoted largely by
+the right. But, to avoid such a numerically explosive idea, in a properly
+principled fashion, we must accept, again, that there is a resolving limit
+on what, by way of experiencers and their experiencings, is physically
+promoted by various mentally productive arrangements of physical
+constituents.
+   Almost everything we’ve been discussing in this section strikes me as
+not only puzzling, but deeply puzzling. Far from being concerned only
+with semantics, or with the application conditions of some concepts,
+these puzzles seem to concern, beyond all that, metaphysically deep
+considerations. And, if that’s right, they may point to some matters of
+much metaphysical import. Below, I’ll try to make these points more
+clearly vivid.
+   Recall our remarks as to how we might take it upon ourselves to say
+that, ‘‘in my situation’’, there are many different digestive systems,
+each involved with a different simultaneous digesting. While that’s a
+rather unnatural thing to say, and while the motivation supplied for
+saying it may be somewhat puzzling, there is nothing in it that’s deeply
+puzzling. Nor is there any deep puzzle concerning whether we should
+continue always to think that, ‘‘in my situation’’, there’s always just
+one digester, presumably a certain human organism, or whether there
+210 | Peter Unger
+
+are very many digesters, most of them largely overlapping many others.
+So, here again, we ﬁnd an intuitively striking difference between our
+experiencing and, on the other side, such evidently physical processes
+as our digesting. This difference may indicate something deep meta-
+physically.
+
+might the singularity of common
+experiencing favor substantial dualism?
+To deal effectively with our deep puzzles about our experiencing, per-
+haps we might accept, if only very tentatively and somewhat skeptic-
+ally, a certain Substantial Dualism. Central to this Cartesian doctrine is
+the thought that each of us is a non-physical experiencer, though an
+experiencer who (causally) interacts with certain physical things.
+   With such a suitable Dualistic doctrine, there may be a singular
+resolution for our Experiential Problem—featuring just a single experi-
+encer ‘‘in my situation’’ that isn’t so horribly arbitrary as to be terribly
+incredible. Well in line with this Dualism, we can conjecture that ‘‘in my
+situation’’ very many overlapping physical complexes—physical brains,
+perhaps—may altogether serve to promote, causally or quasi-causally, a
+single non-physical experiencer, or a singular mind, or exactly one
+individual soul, even while each of the complexes may do its promoting
+in what is really a quite derivative sense or way. In the case of each
+mentally promoting physical complex, the derivation will proceed, of
+course, from the basic (enough) physical components of the very com-
+plex in question, and from the physical relations obtaining among its
+particular components, to the complex’s being a (derivative) promoter
+of just a single sentient self. And so, in each of very many worldly
+derivations, it may be the very same sentient self, or experiencing mind,
+that the complexes in question each serve (derivatively) to promote. In a
+happy enough sense, then, the (physically derivative) promoting of this
+single mind, by any one of these physical complexes, will be a causally
+redundant promoting. Of course, there won’t be any complex that’s
+doing any of this (derivative) promoting without there being, all at once,
+a great many each doing it rather redundantly.
+   In any very direct sense or way, it will be this promoted single non-
+physical mind itself—just me myself—that has a power to experience.
+So, it will be only in a very attenuated sense or way that an experiential
+                               The Mental Problems of the Many | 211
+
+power will be possessed by any of the concrete physical complexes that
+serve to promote the experientially powerful non-physical being.
+   Nowadays, it’s very hard for respectable philosophers to believe in
+mentally powerful non-physical beings. But, even for us now, this may
+be less incredible than the thought that just a single one of our con-
+sidered physical complexes itself has this power—with all those other
+slightly overlapping complexes being quite powerless experientially,
+even all of those others that, in mass, in volume, and in number of
+basic constituents, are each precisely the same as the supposedly sole
+experiencing physical complex. And it’s also less incredible than the
+thought that just a single one of the basic (enough) physical entities
+here—say, a certain particular quark—has the power to experience
+richly—with all the other quarks ‘‘in my situation’’ being quite power-
+less in such a mentally rich regard. And it’s certainly less incredible than
+the thought that some mere abstraction from what’s physical, and
+nothing concrete at all, should be the sole entity, ‘‘in my situation’’,
+with the power to experience, a power that’s manifested, this very
+minute, in my presently experiencing precisely as I now do.
+   As easy as it is for us to think, quite rightly, that each of us is a
+concrete being, not a mere abstraction, or abstractum, it’s equally hard
+for us, in this present day and age, to believe that we are not spatially
+extended beings. Indeed, it’s enormously hard to believe anything about
+ourselves that’s very different from how our Scientiphicalism has us be.
+What’s more, it’s hardly ever that I manage to get further from the
+Scientiphical Metaphysic than the nearby Emergentism that I’ve been
+trying to take very seriously. Yet, as this essay has been suggesting, this
+Emergentism is deeply embroiled with the Experiential Problem of the
+Many, as deeply as Scientiphicalism itself.
+   Among the metaphysical options not so embroiled with this appar-
+ently deep problem, Substantial Dualism is, so far as I can tell, the
+available view that departs least radically from our dominant Scienti-
+phical Metaphysic. It’s a much less radical departure, certainly, than is
+any fundamentally mentalistic metaphysic, whether such an exhaust-
+ively mental view be called ‘‘idealism’’, or ‘‘phenomenalism’’, or, as
+seems more fashionable nowadays, ‘‘panpsychism’’. Wishing not to be
+radical metaphysically, I’ll suggest that, in the face of the Experiential
+Problem of the Many, we take Substantial Dualism, in its most coherent
+and tenable forms, rather seriously; or, if that is not yet psychologically
+possible for us, at least we should take it rather more seriously than
+212 | Peter Unger
+
+almost all prominent professional philosophers have done in recent
+decades.
+   Professionally socialized as I am, even this much is very hard for me
+now to do. Apparently, I need a good deal more help, psychologically,
+than what’s afforded by the Experiential Problem, to give any very
+substantial departure from our dominant Scientiphicalism, even so
+much as just a very moderately serious run for the money. So in the
+following section I’ll try to provide some potentially liberating
+thoughts, perhaps novel enough to help us get beyond the circumscribed
+bounds dictated by our unquestioning allegiance to Scientiphical
+thinking.
+
+the problem of too many real choosers
+For the Scientiphical view of ourselves, and for our noted Emergentism,
+too, there’s a mental problem of the many that’s yet more disturbing,
+and far more bafﬂing, than the disturbingly bafﬂing Experiential Prob-
+lem of the Many. It’s the Problem of Too Many Real Choosers.
+   In order that our metaphysical meditations could begin most man-
+ageably, we haven’t yet addressed issues concerning the choosing of our
+thinking experiencers. But now it’s high time to explore them. When
+exploring these issues persistently, we may ﬁnd it absolutely incredible
+that there should be, ‘‘in my situation’’, very many experiencing
+choosers, rather than just me choosing all alone.
+   As with everyone else, there are some sorts of things I’m far more
+prone to imagine than things of some other sorts. For example, I’m far
+more prone to imagine a pretty woman than an ugly plant. But, with
+regards to many (other) things, there’s no great difference in my
+imaginative proclivities. For example, this may happen with my im-
+agining a horse, or else a cat, or else a dog, where each of the options is to
+exclude each of the others. Equally, it may occur with my imagining
+something wholly red, or else something wholly blue. With many
+groups of real alternatives for imagining, then, I have no enormous
+disposition toward just one of the mutually exclusive options for me.
+   What’s more, even with something I’m strongly prone not to im-
+agine, (not always but) often I can choose to imagine it experientially
+nonetheless. I have just done some demonstrative imagining. Counter
+to my proclivities, I chose to imagine an ugly plant. And because I chose
+                               The Mental Problems of the Many | 213
+
+that option for my imagining, I actually imagined a pathetic weed, very
+dry and brown. What’s the moral of this little exercise? Dramatically
+put, the point is this: the domain of my power to choose encompasses a
+very great deal of the domain of my power to imagine experientially.
+Often enough, I can choose to imagine experientially even counter to
+my quite strong imaginative proclivities.
+   Having taken note of my power to choose even contrary to my strong
+proclivities, we turn to an easier case. Here, I’m to choose among
+roughly equal options for my imaginative activity, where my procliv-
+ities for each option are about equally strong. And so, just for the sake of
+it, I’ll choose to imagine experientially either a horse, or else a cat, or
+else a dog. And, just for the sake of some potentially instructive
+reasoning, let’s now suppose that the experiential imagining I’m about
+to perform will be a purely mental act of mine, entirely isolated from
+the world’s physical realm. Not only will this imagining not be any-
+thing physical, but we suppose it to lack any real physical cause. And,
+both concurrently and in the future, it will have no physical effect or
+manifestation. (Later we’ll drop this pretense of mental purity; but not
+just yet.)
+   All right, I’m now imagining just one of the three mentioned sorts of
+very common domesticated animal. Make a guess, please, as to which of
+the three I’m imagining. You might guess, I suppose, that I’m imagin-
+ing a cat. Or you might guess that it’s a dog I’m imagining. Or you
+might guess it’s a horse. Whatever you may have guessed, I’m now
+done with that bit of imagining. Now, as you’ll recall, I said that my
+chosen imagining won’t have any physical manifestation, not even in its
+future. Sticking with that supposition, I won’t ever communicate to you,
+in (physical) writing, what sort of animal it was that I actually did just
+imagine.
+   For the sake of instructive reasoning, let’s make the supposition that
+it was a cat I just imagined. And let’s proceed to reason from that
+supposition.
+   When I put the question of this three-way choice as a little exercise
+for myself just now, did billions of very similar people, all of them ‘‘in
+my situation’’, each similarly put the question to himself? And, when I
+made a choice among my three speciﬁed options for imagining, each an
+alternative excluding the others, did each of them also effectively
+choose? How many of them effectively chose to imagine a cat experien-
+tially, the alternative we’re supposing that I effectively chose?
+214 | Peter Unger
+
+   If there really are vastly many people in my situation, then the only
+plausible thing to suppose about them is that, like myself, each of them
+has his own power to choose. And, since this is a real power to choose
+fully, and freely, each of these thinker’s powers to choose is relevantly
+independent of the power of each of the others, including, of course, my
+own power to choose. So it’s only plausible to suppose, further, that,
+when I made my effective choice to imagine a cat experientially, each of
+them made an equally effective choice to imagine that was independent
+of my choice, and also independent, of course, of the choice of each of
+the others.
+   That being so, it would be an astounding coincidence, and not a
+credible occurrence, if all these billions of people should also imagine a
+cat, each freely choosing to imagine the very sort of animal that, of the
+three exclusive options, I freely chose to imagine. (After all, we’ve been
+properly supposing that, just as with me, none of these billions of
+‘‘overlappers’’, each so similar mentally to me, is not much more
+prone to imagine a cat than he is to imagine a dog, or a horse.) Indeed,
+it would be extremely unlikely that there should be, among the billions
+of choosers ‘‘in my situation’’, fewer than ten million real choosers
+who imagined a dog, when I myself was imagining a cat. And, equally,
+it would be extraordinarily unlikely that should there be, among
+the billions with independent powers, fewer than ten million who
+would choose, quite effectively, to imagine a horse experientially.
+With any less diversity of chosen animal images than that, among my
+overlapping physical-and-mental cohort of independent full choosers,
+there would be far too little qualitative experiential diversity, among
+‘‘the population in my situation’’ for an outcome that’s even the least bit
+credible.
+   The point here is, in its essentials, quite the same as a point about
+choice concerning me and you, and billions of other relevantly inde-
+pendent choosers, thinkers who aren’t largely overlappers, thinkers
+who aren’t ‘‘in numerically the same situation’’. For this case of
+‘‘spatially separated choosers’’, or choosers with spatially separate
+bodies, and brains, we may playfully consider the most suitable two
+billion subjects, for a very widespread but temporally tiny psychological
+experiment, selected from among the world’s current population, which
+numbers a bit over six billion. Now, as we may similarly suppose here,
+very few of these two billion have a tremendous proclivity toward
+imagining cats, as against horses or dogs. The great majority have a
+                               The Mental Problems of the Many | 215
+
+roughly equal propensity in each of the three speciﬁed directions. So, if
+fewer than ten million of us choose, freely and effectively, to imagine a
+dog, while almost all of us choose to imagine a cat, that is an unbeliev-
+ably great coincidence. I myself would not believe in such an outcome.
+Rather than accepting that overly coincidental nonsense, I’d go back and
+question various propositions that we were supposing to hold true. Was
+there, perhaps, mass mesmerization going on globally, so that almost all
+of us were made to imagine a cat, with few really able to exercise his
+power to choose?
+   Whether overlapping or not, it’s just incredible that billions of real
+choosers should all choose to imagine a cat experientially, with hardly
+any opting for a dog or a horse, when those two are, quite as forcefully,
+presented as appropriate alternatives. But at the same time it’s not really
+credible, either, that there really was, in my situation, truly substantial
+diversity in experiential imagining, when I was (supposedly) just
+imagining a cat. So it’s just incredible that, overlapping with me right
+now, there are many other complex entities, many physical-and-mental
+beings, who really do choose.
+   In one of its endless variations, that is the Problem of Too Many Real
+Choosers. Maybe I’m being overly quick about the matter, or even
+simply quite dense. But, in any case, I suspect that this problem may
+be an insuperable difﬁculty for the dominant Scientiphical Metaphysic.
+And, as I also suspect, it may undermine the Emergentist View.
+
+this problem and the emergentist idea
+of physical-and-mental complexes
+On the Emergentist view we’ve been exploring, each of us is a physical-
+and-mental complex. By contrast with our severe Scientiphical View,
+which has all our power as physical propensities, whatever the details of
+their physical derivations, on this Emergentism each of us will have, in
+addition to ever so many physical proclivities, various non-physical
+radically emergent mental powers. Yet, on the Emergentist View, any
+being that has such radical mental powers must be, at the same time, a
+complex physical entity. Indeed, it is precisely this aspect of our Emer-
+gentism that has it as a more conservative departure from Scientiphic-
+alism, or less of a departure, than a Cartesian View, or any Substantial
+Dualism concerning mind and body.
+216 | Peter Unger
+
+   In my ‘‘Free Will and Scientiphicalism’’, I argued that Scientiphical-
+ism is, in several ways, incompatible with our thought that we really
+choose from among real alternatives for our thoughtful activity. And
+after offering those arguments, I observed that, so far as any of us could
+then tell, this fairly conservative Emergentist View might be as free of
+such Scientiphical Incompatibilisms as is Substantial Dualism. Our
+Emergentism might be tenable, but only insofar as a complex physical
+being’s real physical features are no obstacle to her having, as well,
+many non-physical mental powers, saliently including a radically emer-
+gent purely mental power to choose. And, as it was then suggested, that
+might be quite far indeed; for, as it then appeared, there wasn’t any such
+obstacle; there wasn’t any real philosophic difﬁculty. Well, that was
+then; and, this is now.
+   In the light of our current discussion, there does appear to be a very
+real philosophic difﬁculty. In the ﬁrst place, it appears that, ‘‘in your
+situation right now’’, there are very many different physical-and-
+mental complexes (each greatly overlapping with many others)—sup-
+posing, of course, that ‘‘in your situation right now’’ there’s at least one
+complex physical entity with radically emergent non-physical mental
+powers. Though it may be logically possible that there is a great plural-
+ity of spatially extended real choosers, each of whom may share much of
+your space with you now, this is a proposition that deﬁes belief. Indeed,
+this conﬂict becomes quite unbearable when we reﬂect, as we have, that
+the almost perfectly certain consequence of this is that, from time to
+time, there’ll be great qualitative diversity in the chosen mental lives of
+the largely overlapping physical-and-mental beings.
+   Nor is there, on our Emergentist View, a credible way out of this
+philosophic difﬁculty. In a ‘‘messily gradual’’ world like this actual one,
+with very many very similar physical complexes to be found ‘‘in the
+situation of’’ any alleged physical-and-mental complex being, there’s no
+credible resolution as to which one, among all the very many overlap-
+ping complexes, alone has the power to choose. Nor is it credible that,
+while each of the many complexes has a power to choose, there’s
+somehow just one physical-and-mental complex, among the billions
+overlapping, that, at any given moment of time, gets to exercise his
+power. Nor is there any other credible way to offer a suitably singular
+resolution of the matter. But the only alternative, we have just ob-
+served, is an incredible diversity of choosers diversely choosing experi-
+entially. So, at least in any world much like our messily gradual actual
+                               The Mental Problems of the Many | 217
+
+world, the Emergentist View is not a credible alternative to our besieged
+Scientiphicalism.
+
+a singular physical manifestation of the
+power to choose underscores this problem
+To make the presentation of the problem both vivid and manageable,
+the initial offering of the Problem of Too Many Choosers featured just
+such choosing as might be considered quite purely mental activity, and
+even quite isolated from all physical happenings. It may now proﬁt us
+further, I imagine, to explore cases of choosing an imaginative option
+where the agent, just before she starts to imagine as she chooses to do,
+communicates to others what she’s imagining, presumably via an ap-
+propriate physical sign or signal.
+   As before, again I’ll now imagine either a horse, or a cat, or a dog.
+And, while I’m imagining it, I’m going to produce a physical signal of
+what it is that, because I just chose to imagine it, I’m now imagining
+experientially. (Pretend that I’m communicating by writing on a pad in
+plain view, or by an electronic instant messaging system.) Anyway,
+with this very physical sentence that I’ve just produced and that you’re
+now reading, I tell you that it’s a dog I’m now imagining, not a horse or
+a cat.
+   In producing that writing, I made a certain change in physical reality.
+And this change was a real result, of course, of the choice I just effected.
+   Putting aside our previous worries, maybe we can somehow make it
+palatable to ourselves that, this time ‘‘in my situation’’, there are
+millions of people choosing to imagine a horse, quite effectively, and
+millions of others choosing to imagine a cat, as well as the millions who,
+like me, were imagining a dog. Each of the people, though overlapping
+ever so many others, chose quite independently and very effectively,
+with each managing to alter his own imaginative experiencing just as he
+independently chose freely to do. Well, maybe that’s too far-fetched
+really to be palatable. Even so, let’s suppose that there are all these
+overlapping choosers, independently and effectively choosing images of
+striking qualitative diversity. If, quite fantastically, that should be true,
+will it help our Emergentism?
+   No, it won’t. Even if we allow ourselves this supposition, there will
+arise, or will remain, this parallel problem: with each of our three
+218 | Peter Unger
+
+animal options chosen by many millions, each of them an independent
+chooser though overlapping so many other free choosers, how is it that
+just those who chose to imagine a dog managed to produce an intended
+(revealing) signal change—but not those millions who imagined a
+horse, or imagined a cat? Here’s one speciﬁc suggestion. Maybe it’s a
+matter of the numbers, as with a voting procedure; and maybe more
+chose to imagine a dog than chose a cat, or a horse. But, though that idea
+may occur more obviously than most of its equally speciﬁc alternatives,
+it’s no less absurd than so many other terribly incredible thoughts.
+   All this just brings home to us how incredible is the idea that, in my
+situation, or in yours, there are very many real choosers. Indeed, it’s
+absurd for us to believe anything in the neighborhood. It’s absurd to
+think that there are many overlapping people here—but only one of
+them has the power really to choose. It’s also absurd to think that there
+are many with this power—but at any one time only one gets to exercise
+the power; and, so on, and so forth.
+
+does this problem of real choosers
+favor substantial dualism?
+Recall our remarks about how each of many overlapping nervous
+systems, ‘‘in my situation’’, might be one of my nervous systems. In
+what serves to constitute my overlapping nervous systems, there are
+propensities to the effect that there’s a limit to be placed—a limit of just
+one—on how many experiencing particulars may be promoted by these
+overlapping systems. How so? Here’s a way. Each of a system’s simple
+physical constituents, as with each of its constituting quarks, has mar-
+velous propensities regarding how it may interact with very many other
+simple physical things, so that, in their optimal arrangements for pro-
+moting experience, there’s an effective singular resolution as to what
+experiencer they may promote. And, because there’s that singular
+resolution, there’s also a nice singular resolution as to what experi-
+encing may be promoted by them all.
+   It was hard to believe, we said before, that the single experiencer thus
+promoted should be a complex physical thing, whether or not the
+complex should have radically emergent purely mental powers. For, as
+it surely appears, no good candidate for being the single experiencing
+complex, ‘‘in the situation’’, is any better a candidate than each of very
+                              The Mental Problems of the Many | 219
+
+many extremely similar and massively overlapping others. It’s hard to
+believe that, somehow or other, just a single one of these should have
+the power to experience richly, while all the others should be perfectly
+powerless in this salient regard. (Yet it’s also hard to believe that,
+running very much in parallel with me, there are vastly many highly
+similar distinct experiencers promoted, rather than just me experiencing
+here alone.) Indeed, if a certain one of these physical complexes should
+somehow be the sole experiencer here, what happens when it loses one
+of its peripheral constituents, as will surely happen quite soon? Does
+this sole experiencer go out of existence? That’s incredible. Does it,
+rather, come to coincide with a just slightly smaller complex, previously
+‘‘nested’’ in it, while having only one fewer simple component than just
+before the slight loss? Will there be, then, an experiencing complex
+that’s materially coincident with an insensate complex? That too is
+incredible. Will there then be, alternatively, two experiencing com-
+plexes, one previously experiencing and one just now newly experi-
+encing? That’s also incredible. Is a further alternative markedly more
+credible than these patently fantastic claims? I can’t see any further
+alternative to be much more credible. In line with our Scientiphical
+Metaphysic, or even in line with our noted Emergentism, there’s
+no credible resolution, I submit, to our Experiential Problem of the
+Many.
+   So, for folks so accepting of Scientiphicalism, myself included, there’s
+a disturbing problem with the Experiential Problem of the Many. But,
+as I’ve lately been arguing, we may ﬁnd the Problem of Too Many
+Choosers to be still more disturbing. With that Problem, there’s the
+following dilemma: on the one hand, it’s blatantly absurd to think that
+there are very many real experiencing choosers ‘‘in my situation’’,
+sometimes many choosing in a certain experiential way and many
+others choosing in a very different experiential way. This is yet more
+disturbing, I think, than our thinking there to be, ‘‘in my situation’’,
+very many experiencers, where it may always be that each of them
+experiences, immediately and totally, in much the same way as all the
+others. But on the other hand, and just as with the Experiential Problem,
+it’s also absurd to think that there’s a single complex physical being
+that’s the only real chooser here; rather, any promising candidate for
+being such a choosing complex appears no better at all, not even the least
+bit more qualiﬁed or promising, than each of very many extremely
+similar, and massively overlapping, complexes.
+220 | Peter Unger
+
+   Well, then, are there other alternatives for the Scientiphically in-
+clined to favor here, evidently less absurd for us to accept? While there
+are other logical possibilities, I suppose, I can’t see any that are notably
+more credible options. Certainly not that I’m a simple physical thing. So
+far as I can tell, there are ever so many quarks, or maybe superstrings,
+each of which might be a simple physical thing. But, then, it’s not at all
+credible that I’m a quark, or whatever. (The matter can’t be improved by
+suggesting I might be a simple physical-and-mental thing. For, any such
+entity must be a simple physical thing, of course, whatever else also
+might be true of it.) And, not that I’m a complex spatially extended
+entity that’s not physical, with substantial simple spatial parts that
+aren’t physical parts. Nor is it at all credible that I’m any other, still
+different, sort of spatial or physical thing.
+   Now, remember, I’m an independent real chooser, a conscious being
+who, at least from time to time, chooses fully and freely his own
+conscious activity. So, I’m not any mere epiphenomenal being, nor
+anything that merely supervenes on a base that’s fully physical. In all
+of our Scientiphicalism, there’s nothing that does much justice to my
+being a real chooser.
+   While still believing in a vast heterogeneous physical reality, what
+are we now to think ourselves to be? Among the traditionally available
+options, the least implausible view may be a Substantial Dualism, rather
+like the Cartesian View noted earlier. As I’m suggesting, then, maybe
+we should think that our mental problems of the many, especially the
+Problem of Too Many Choosers, mean a point in favor of such a
+Dualistic Metaphysic. (This may be so, of course, even if these problems
+also favor views that depart still further than does Dualism from the
+Scientiphical Metaphysic now so widely accepted, as with many Idealis-
+tic worldviews.)
+   I myself cannot yet believe in a metaphysic that departs even as much
+as a Substantial Dualism departs from our standard metaphysical con-
+ception. For one thing, I can’t believe that I really haven’t any spatial
+extension; at least, not yet I can’t. And, as I suspect, you’re in the same
+commonsensical boat. So, what are we to do?
+   Three main courses strike me as available.
+   First, we may go back over what our investigation has so far offered,
+and look for serious errors. Then, we may come to think, perhaps quite
+rightly, that there’s no mental problem of the many, nor any other
+difﬁculty, that’s truly a serious problem for our widely accepted Scien-
+                               The Mental Problems of the Many | 221
+
+tiphicalism. I hope that you will try this very seriously. And, whether
+successful or not, I hope you may be so good as to tell me what you ﬁnd.
+As for myself, however, at this point in time this option has been
+exhausted and, in the wake of my laborious struggles, is not widely
+available. So, for me, right now, that leaves two courses.
+   Second, we may ask ourselves what are the most disturbing aspects of
+a Cartesian View. And, after trying our best to articulate them well, we
+might then endeavor to show how they might really give far less cause
+for intellectual disturbance than at ﬁrst they appear to do. Yet, this has
+been often tried before, by many others. So, while I think I should try to
+do something here, I have doubts as to how much I might accomplish in
+this way.
+   Third, and ﬁnally, there’s a more novel and speculative approach,
+though it’s not wholly divorced from the Dualistic course just noted.
+Perhaps, in addition to many physical and spatial parts, many of
+them overlapping many others, I might have a single non-physical
+non-spatial part. And perhaps it may be that it’s only in this non-
+physical part of me, in my ‘‘soul’’, that I’m mentally propensitied
+and empowered. It’s through my exercise of certain powers inhering
+in this soul, my soul, that I may perhaps choose various aspects of
+my mental life, and sometimes even choose how it is that my body
+moves.
+   Though it’s pretty speculative, so far that’s not novel, but just old hat.
+In bare and sketchy terms, here’s something that, far from being so old
+hat, is even more strangely speculative: though this non-physical part of
+me—my mind, or my soul—may not have any spatial extension, at
+least not in any strict or narrow sense of the terms, perhaps it may have
+some non-spatial spacelike extension. In what’s only a very schematic
+way indeed, I’ll try to say something about the general tenor of this
+strange speculation.
+   Now, as it seems to me, space is the only clearly non-temporal
+dimension of concrete reality in which I exist. But that appearance
+may be an illusory appearance. As it might really be, space is but one
+of the clearly non-temporal dimensions in which I exist; as I’m specu-
+lating, there’s at least one other such dimension in which, quite equally,
+I also participate—in which I also exist. Even as my many substantial
+physical parts exist in space, I may have another enduring substantial
+part (or maybe more than one) that does not exist in space itself. This
+non-spatial part of me, this soul of mine, if you will, may exist in some
+222 | Peter Unger
+
+other clearly non-temporal dimension (or in more than one) that is
+extended, all right, but not spatially extended.
+   No easy matter; it remains for us to suggest for these speculative
+ideas some helpfully more concrete terms, not so abstract as those I’ve
+just employed or offered. Since they require our engagement with the
+most profoundly radical sort of imaginative thinking, we may need to
+connect the offered abstract speculations with some of our (more nearly)
+experiential thinking, or at least with some thinking of ours that’s more
+experientially informed. With no great conﬁdence that I’ll have much
+success in any such positive effort, I postpone this for another occasion.
+Anyway, and as with almost everything else in ﬁrst philosophy, here
+too it may be that only the problems rightly last long with us, while our
+attempted resolutions are all ﬂeeting, fashionable, and, maybe, ﬂat-out
+futile as well.
+                                                   New York University
+

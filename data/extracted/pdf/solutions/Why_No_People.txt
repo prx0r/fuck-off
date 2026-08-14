@@ -1,0 +1,2090 @@
+                   Why There Are No People
+                                 PETER UNGER
+
+
+
+
+I   magine, if you will, a somewhat uncommonly shaped object, one whose shape is
+    not very irregular o r bizarre, perhaps, but which is at least sufficiently so that
+we have no common name or expression for an object with a shape of that sort.
+Following this instruction, then, you have not imagined a pyramid, or cylindrical
+object, for those are readily spoken of in available terms. I shall call your imagined
+object a n u d n i c k , which term you are to apply also to such various other objects
+as you deem suitably similar in shape t o the first. In this way, we have invented a
+new word together: 1 have given you the form of the inscription, ‘nacknick’, and
+some instructions which help to delimit the meaning. But only you have enough of
+an idea of the word to put it to much use. That is because, according to this little
+story, you have not revealed your imagined shape to me, o r done much else to give
+me a useful idea of it.
+       Let us change the story a bit. In this version, you d o not first imagine any
+object. Rather, I now actually place before you an object of the sort which, we
+have supposed, you imagined in the first version. Pointing to this uncommonly
+shaped thing, I then say to you, “This object is a nacknick, as are various others
+that are suitably similar in shape to it.” To be emphatic and explicit, in both ver-
+sions I may go on to add these following words to my instructions: “Don’t think
+that an object must be exactly the same as this one in shape to be a nacknick. Rath-
+er, while such exact sameness is amply sufficient, any object that differs in shape
+from a nacknick only minutely will also be a nacknick. There is, then, n o particular
+limit o n shapes for nacknicks. A t the same time, however, many objects will differ
+from nacknicks, as regards their shape, substantially and significantly, and these
+will not be nacknicks. These remarks apply, of course, not only to actual objects,
+which might b e found in reality, but also to such merely possible objects as might
+be only imagined.” I d o not think that, in adding these explicit instructions, I
+would be changing the learning situation in any substantial way. Rather, I would
+
+                                         177
+178       PETER UNGER
+
+only be making explicit what would otherwise be learned implicitly. Except for this
+rather minor matter, and the fact that we set out intentionally to invent a new ex-
+pression, the word you have just come to understand is of a piece with much that
+you learned a t your mother’s knee. The newness and t h e explicit character of this
+experience with ‘nacknick’, however, let us reflect productively on what logical fea-
+tures are common to both the invented terms and the expressions learned in child-
+hood.
+
+
+        1. THE ARGUMENT FROM INVENTED EXPRESSIONS
+What reflection reveals, I suggest, is that a common feature of ‘nacknick’ and so
+many other terms is that they are all logically inconsistent expressions. On a par
+with ‘perfectly square triangle’, the supposition that anything satisfies ‘nacknick’
+implies a logical contradiction. The instructions that served explicitly to introduce
+‘nacknick’, and that now serve to govern the term, were so devised as to ensure this
+surprising result. Because of this, we can bring out the inconsistency in the term by
+reflecting o n those instructions, with n o need for us to enter into lengthy, complex
+argumentation as to what t h e word really means.
+       Our instructions endowed ‘nacknick’ with such a meaning that it is now gov-
+erned by a t least these t w o conditions:’
+      ( I n ) If some (actual or only possible) entity satisfies ‘nacknick’, then any (ac-
+              tual o r only possible) entity that differs minutely, in shape, from that
+              putative satisfier also satisfies the expression.
+      (2n) If some (actual or only possible) entity satisfies ‘nacknick’, then there are
+           some (actual o r only possible) entities each of which differs substantially,
+           in shape, from that putative satisfier and each of which does not satisfy
+           the expression.
+ As stepwise reasoning shows, because it is governed by these two conditions, ‘nack-
+nick’ is an inconsistent term.
+       We may begin by considering some shaped object, if only a possible one, that
+is not a nacknick; for, according to my instructions, and (2x1). if there are nack-
+nicks, there must be some such. Having done this, we want now to reason that, ac-
+cording t o these same instructions, t h e considered object also is a nacknick. Well,
+let US now think about an alleged nacknick, perhaps even t h e object from which,
+presumably, 1 taught you the expression. If this is a nacknick, then, according to
+my instructions, and to ( I n ) , so too is an object only minutely different in shape
+from it, in parricular, one that is minutely more alike in shape to t h e object that we
+have agreed is n o t a nacknick. Now, as this new, minutely differing object is also a
+nacknick, as my instructions have indicated, so too is another object that differs
+from it, in the same direction, by at least roughly that same minute amount. I t is
+not hard to see, then, that a sequence of reasoning takes us to the step where an ob-
+ject, only minutely more alike in shape to our “paradigm” nacknick than is our
+                                           WHY THERE ARE NO PEOPLE                   179
+
+considered non-nacknick, will be declared a nacknick. Then, finally, the object
+that, we agreed, was not a nacknick will also be a nacknick. According t o my in-
+structions, then, there are objects that both are nacknicks and are not. The word
+‘nacknick’, the relevant aspects of which these instructions determine, is an incon-
+sistent expression.
+       I t might be objected against this reasoning that there are sequences of minute
+differences that will not take us to our agreed non-nacknick, but rather will ap-
+proach a limit that is safely within t h e range where proper nacknicks may be recog-
+nized. If this is so, the objection continues, then we cannot draw the conclusion
+that, as the instructions have it, there are objects that both are and are not nack-
+nicks. But unfortunately for this objection, the existence of such limited sequences
+will not prevent the inconsistent conclusion from being drawn. For our instructions
+explicitly sqated that there is n o particular limit on shape f o r nacknicks, and so they
+ensured troublesome sequences to be available for our stepwise reasoning. For ex-
+ample, one available sequence is presented when we consider one billion roughly
+equal steps of difference spanning the range from our paradigm to o u r considered
+non-nacknick. This sequence means a long argument for us, if things are spelled o u t
+in detail, but the inconsistent conclusion is forced upon us all the same. I t is pretty
+clear, I suggest, that because of our devised instructions, our invented expression
+‘nacknick’, despite its utility and natural appearance, is indeed a logically inconsis-
+tent expression.
+       I shall employ this observation of inconsistency as a premise in an argument,
+the Argument from Invented Expressions:’
+   (I) The invented expression ‘nacknick’ is logically inconsistent.
+The conclusion of our argument is to be the proposition that there are no people.
+To get it from our premise about ‘nacknick’, we need a good deal more. Most of
+this remainder will be contained in this second premise:
+   (11) The expression ‘person’ is logically on a par with ‘nacknick’; if the latter is
+        inconsistent, then so is the former.
+A great deal of this essay will be spent in supplying support for this crucial second
+premise. There will be great resistance, of course, toward its acceptance. For it is
+quickly quite obvious that, in conjunction with the eminently attractive first prem-
+ise, it logically yields t h e startling conclusion:
+   (A) The expression ‘person’ is logically inconsistent.
+Before a lengthy discussion of the claimed logical parity is entered into, a few brief
+remarks are in order to motivate (11), so that the lengthier, more analytical discus-
+sion may appear worth the effort.
+      Now, as I have set things u p here, the only thing important to an object’s be-
+ing a nacknick is the shape it has, though even this matter, of course, evaporates in
+inconsistency. So, in this regard, our invented word parallels certain ordinary ex-
+pressions: for example, ‘cubical object’, in contrast to ‘perfect cube’. Further, while
+180       PETER UNGER
+
+I have specified only shape as important for nacknicks, I could have easily specified
+additional requirements for our putative objects, for example, that a nacknick be a
+certain sort of nicknack. Any such additional requirement could not, of course,
+have rendered the word consistent: given the determinative instructions regarding
+shape, nothing could have done that. With only shape in the picture, our example
+has a certain purity and simplicity. But as regards the basic question, that of incon-
+sistency, our invented word might be the same as expressions that cannot be SO
+neatly described.
+       Again, our learning situation involved just one paradigm nacknick, imagined
+or presented, and this artifice also gives our examples a certain simplicity and pur-
+ity, perhaps one not often found in the more ordinary course of things. But we
+could have made things more ordinary without importantly altering our examples:
+For example, originally, I could have asked you to imagine several shaped objects,
+each to have a quite similar unfamiliar shape. In the second story, I could have pre-
+sented you with several similarly shaped objects. And, then, when things were to be
+made explicit, I could have altered my instructions, slightly, to suit. So, whether
+we have a single paradigm or a multiplicity is not crucial to the logic of the expres-
+sion learned.
+       At this point, our second premise will have a certain plausibility at least. As
+our first premise, (I), is so hard to deny, our conclusion from it and (111, that is, the
+startling (A), will now also be at least plausible. But however surprising it may be,
+(A) does not directly concern the existence, or nonexistence, of persons. It is, after
+all, about an expression, ‘person’, and is not directly about any putative people. To
+get a conclusion directly to concern our desired subject matter, however, is now
+quite easy. We need only add to what we have, this final premise:
+   (111) If the expression ‘person’ is logically inconsistent, then there are no people.
+In conjunction with (III), our other premises validly yield our intended final con-
+clusion :
+   (B)   There are no people.
+And, this final premise, (Ill), really is a logically unobjectionable proposition.
+      To deny the idea that an inconsistent expression does not apply to anything,
+one must be involved in a confusion. For what is inconsistent expression? I t is an
+expression for which the supposition that it does apply leads to a contradiction.
+But, then, that supposition cannot be true. Thus the expression does not apply. But
+what confusion might be responsible for such an absurd denial?
+       The chief culprit, I suppose, will be a failure to distinguish between, first, our
+using an expression to refer t o certain objects and, on the other hand, an expression
+actually applying to, or being true of, those objects. You and I, for example, may
+agree to use the expression ‘perfectly square triangle’, even given what it now means,
+to refer to such tomatoes as are both yellow and sweet. With normal suppositions
+in force, including the existence of people, there may well be such tomatoes and we
+may well usefully refer to them with that expression. But we may be confident that
+                                          WHY THERE A R E NO PEOPLE                181
+
+those tomatoes are not perfectly square triangles, even though we refer to them as
+such, and that there are n o such triangles anywhere. We may be just as confident,
+then, that whatever use we are putting i t to, our chosen expression, being inconsis-
+tent, is true of n o existing entities a t all. So much, then, for denials of our final
+prerni~e.~
+       We have much to discuss, however, as regards o u r other two premises, in par-
+ticular, premise (II), where logical parity is claimed for ‘person’ and ‘nacknick’. My
+support for this idea, which will afford some support to o u r first premise as well,
+will come largely in terms of an account of ’person’ as a vague discriminative ex-
+pression. On this account, all such expressions, including the invented ‘nacknick’,
+are logically inconsistent. Briefly and roughly, we may provide some idea of these
+expressions: First, in that they are vague, these terms contrast with, say, ‘inch’,
+which, we may allow, precisely purports to discriminate t h e inch from all other
+lengths. Second, in that they are discriminative, these terms contrast with the vague
+expression ‘entity’, which does n o t purport to discriminate anything from anything
+else, supposing that we may allow that anything a t all is an entity. And, finally, the
+vagueness of these terms is essentially involved in their purported discriminations.
+So, they will contrast with ‘entity which is less than two’, supposing that this ex-
+pression is about as vague as ‘entity’, but that this vagueness does not enter into its
+purported discrimination (of some numbers from others).
+       I am about to exhibit my account, which, while it is incomplete, should be
+detailed enough t o indicate that its main lines are adequate. Before I d o so, let m e
+remark that I am well aware of a flaw that my account of these expressions is
+bound to have: If the account is right, then, as ‘person’ is inconsistent, there are
+none of us, and so n o statements, accounts, o r arguments that we produce o r under-
+stand. The account implies a paradoxical situation. But this paradox, I shall argue,
+does not nullify the account. Rather, it bespeaks its comprehensiveness and that of
+“an intellectual need to begin anew.”
+
+
+   2. AN ACCOUNT OF SOME COMMON VAGUE EXPRESSIONS
+The inconsistency of ‘nacknick’ may be crudely characterized as stemming from the
+following two rough conditional statements:
+      If something differs from a nacknick minutely, then it also is a nacknick (no
+      matter in what w a y it thus differs).
+      If something is a nacknick, then there are things that differ from it in certain
+      ways by a lot, so much so that they are not nacknicks.
+
+If someone, n o t a philosopher, were asked to express that inconsistency without
+any specific reference to shape, I think h e would express it, well enough for his pur-
+pose, in these terms or terms similar t o them. Now, if we want, as philosophers, to
+give a general characterization of the inconsistency, we too shall avoid any refer-
+ence to any specific property. But we shall try to be a bit clearer about the offend-
+ing differences than the obscure reference to a w a y . Accordingly, the conditions we
+182       PETER UNGER
+
+should exhibit will not be the sort a typical learner would be likely to articulate.
+Still, in learning the expression in question, he may learn such underlying condi-
+tions.
+        I shall endeavor, then, to present two conditional statements that character-
+ize ‘nacknick’, as well as many ordinary vague expressions. T h e terms I mean t o
+characterize may be regarded as forming an important, b u t n o t exhaustive, group
+among the vague discriminative ones: those that are (purely) qualitative expres-
+sions. To indicate these expressions, we may distinguish, well enough for the pur-
+pose, between the qualitative o r internal properties of an entity and, in contrast, its
+external properties, o r relations. Thus, we shall say that t w o blue rectangular solids
+may be the same as regards all their qualitative properties but different as regards
+certain of their relations, f o r example, as regards their spatial relations to other ob-
+jects. Whether an expression is vague o r not, we shall say that i t is (purely) qualita-
+tive just in case it is governed by this following condition: If an entity satisfies the
+expression, then so too does any entity which shares that satisfier’s qualitative
+properties, that is, which is qualitatively identical with t h e satisfier. Thus, the ex-
+pression ‘perfect cube’, while not vague, is qualitative, as are also the vague expres-
+sions ‘cubical object’ and ‘nacknick’.
+        Among vague discriminative terms, the qualitative ones satisfy this stronger
+condition: If an entity satisfies the expression, then so does any entity that either
+(a) is qualitatively identical to that satisfier or else (b) is minutely different from it.
+I t is to be understood, as is most natural, that the minute differences alluded to in
+(b) are in respect of qualitative properties, rather than relations. As is evident from
+our previous reasoning, t h e importanr problems with these expressions derive from
+(b); thus, in our subsequent discussion we may in general safely ignore (a), and
+focus o n this problematic aspect.
+        Focusing on (b), w e may present our characteristic conditions as follows,
+with t h e help of some terms to b e clarified later, namely, dimensions of difference
+and directions along them, which are here to concern only the internal properties
+of t h e entities involved, as opposed to their external relation^:^
+   (1 1 With respect t o any qualitative vague discriminative expression, there are
+      dimensions of difference, with directions along them, such that if some
+      (actual o r only possible) entity satisfies the expression, then all minute dif-
+      ferences from t h e entity with respect to any one of these dimensions will
+      find other (actual o r only possible) entities that satisfy, and will find n o
+      (such) entity that does not satisfy t h e expression, providing that such a
+      found entity does n o t differ more than minutely in any other such regard.
+   (2) With respect to any qualitative vague discriminative expression, if some
+      (actual o r only possible) entity satisfies it, then among the dimensions and
+      directions that suffice for satisfaction under (l), there is a t least one di-
+      mension of difference and a t least one direction along it such that, with
+      respect to these, there are (actual o r only possible) entities each of which
+      differs substantially from that putative satisfier and each of which does
+      not satisfy t h e expression.
+                                        WHY THERE ARE NO PEOPLE                   183
+
+The conditions given in these two statements, along with such discussion as clari-
+fies and supports them, form the heart of my account of vague discriminative ex-
+pressions. Now this account would, of course, b e uninteresting should there be
+many expressions, but none which are qualitative vague discriminative ones. But
+this is not so. On the contrary, providing that there are any expressions a t all, there
+are a significant number of this sort,including ‘bumpy’, ‘tall man’, ‘stone’, and ‘per-
+son’.
+       The second of these conditions, in (2), is to the purported effect that these
+expressions are to discriminate their satisfiers f r o m other entities. This condition,
+which indicates some objects as falling outside an expression’s range, we shall call
+the discriminative condition. The first condition is to t h e effect that, supposing any
+entity does, various ones together are to satisfy the expression, b u t n o definite
+bound is to be placed o n those t o be included. Thus, we shall call this condition the
+vagueness condition f o r the expression in question.
+       While both of these two conditions are required to generate our noted incon-
+sistency, it is the vagueness condition over which most discussion is likely to arise.
+Accordingly, let us first try to get an idea of its import. To d o so, we may contrast
+‘bumpy’, a qualitative vague discriminative term, with ‘flat’ (or with ‘absolutely
+flat’) and ‘not flat’, which are relevantly precise. If a surface is bumpy, that is, sat-
+isfies ‘bumpy’, and is not just n o t flat, then, just as our condition directs, so too is
+any surface that is no more than minutely different from it, even as regards shape.
+If a surface is (absolutely) flat, however, there will be minutely differing surfaces,
+in shape, that will not be (absolutely) flat. They will have only a few tiny bumps o n
+them, in some cases, but not so much as to be bumpy. Likewise, if a surface is not
+(absolutely) flat, it will not follow that all minutely differing surfaces are also not
+flat. Consider a nearly flat surface. There will be a (possible) surface whose shape,
+while minutely different from it, is different in just such a way that it will be flat.
+Intuitively, I suggest, of these expressions, only ‘bumpy’ would be regarded as a
+vague term. The fact that only it is governed by our first condition, then, helps
+show the intuitive point of that requirement.s
+       To understand both of our conditions, we should explicate our talk of dimen-
+sions of difference, for that is a somewhat technical expression whose connection
+with our ordinary vague thinking cannot be evident. We may begin our explication
+by noting that things d o not just differ as such, but always differ in one o r more
+ways or respects. For example, a heavy red stone differs from things that are not
+red in respect of color, and from things that are not heavy in respect of weight.
+Now, with many such respects, we may, to a certain extent a t least, speak compara-
+tively of how much things differ. In respect of color, for example, we say that our
+red stone differs more from things that are blue than from those that are purple.
+In respect of weight, it differs more from things, or a t least stones, that are very
+light than from those of a moderate or intermediate weight. Thus, we think of a
+dimension of color, and also a dimension of weight, as a dimension of difference.
+All of this is quite ordinary to think. What is less common, but I think still quite
+available, is the idea that many things vary, too, with regard to stoniness, that is,
+184       PETER UNGER
+
+with respect to how close they are to being a stone, in t h e case of a certain stretch,
+o r with respect to how good an example of a stone, in t h e case of another one.
+Thus, we may recognize such a more complex, less easily described dimension, ac-
+cording to which a very light, blue pebble differs more from a similarly light, simi-
+larly colored twig, o r piece of cloth, than i t does from a heavy red stone. And, with
+regard to this same dimension, of stoniness, if you will allow that expression, the
+pebble may differ less from the stone than it does from a boulder, even if the peb-
+ble and boulder are in most other respects quite like each other and quite different
+from the stone. Accordingly, we may say that along at least one dimension of dif-
+ference a red stone differs more from a blue stone than i t does from a red pebble,
+while along at least one other dimension, t h e differences run differently.
+          What we count as a dimension may include other dimensions, b u t perhaps in
+n o orderly way. Color, which we have taken as a dimension, is often said t o include
+hue, saturation, and brightness. Perhaps where we spoke of our red stone differing
+from a blue stone as regards the dimension of color, we might have more specifi-
+cally said that they differ as regards t h e dimension of hue. But there is n o competi-
+tion here, nor any need for us to think that there are any ultimate dimensions of
+difference. Our ordinary thinking does n o t suggest that, b u t neither d o our two
+conditions of typical vagueness. F o r our second condition says, not that there is
+one dimension of difference along which a vague expression will n o t (any longer)
+b e satisfied, but that there is at least one such dimension. Now, my talk of dimen-
+sions may harbor a whole host of problems. But that is n o fault of i t here. For we
+are trying to reflect the features of our common vague expressions, including what-
+ever problems they may harbor.
+          Our conditions speak, n o t only of dimensions of difference, but also of direc-
+tions along these dimensions. What are these directions? In regards to any dimen-
+sion, say, that of color, we can think of small differences accumulating until large
+ones are reached. This thought of accumulation implies a direction in which the ac-
+cumulation takes place. Without any direction, such as that f r o m red through
+purple t o blue, there would n o t be the order among colored things which we sup-
+pose there to be. Similarly, a stone differs from a boulder in one direction, while it
+differs from a pebble o r grain in another. We d o not always have convenient expres-
+sions to label these directions, just as with the dimensions along which they are
+directions. But it must b e admitted, 1 think, that they d o have a place in our think-
+ing with vague terms.
+          We want our expressed conditions to explain t h e force of arguments that are
+f o r c e f d 6 To d o this, we must notice that certain of our vague terms are meant to
+discriminate those entities purportedly falling under them from others that lie
+only in certain directions, and n o t in others. F o r example, t h e expression ‘tall man’
+purports discrimination of its satisfiers from men who lie, with respect to the satis-
+f i e s , only in the downward direction of height, and not in t h e upward direction.
+How this means inconsistency for t h e expression is indicated by considering sorites
+arguments against t h e existence of tall men.’
+                                            WHY THERE ARE NO PEOPLE                   185
+
+        In respect of height, here the relevant dimension, two men may differ by a foot
+and we deem the one a taII man and the other not. F o r example, one may be six
+feet six, plus o r minus a thousandth of an inch, and t h e other five feet six, plus or
+minus that. In the downward direction, this difference of a foot would be relevant-
+ly substantia1;in line with oursecond condition, the man of five feet six would, thus,
+not be a tall man. In the other, upward direction, n o discrimination of the satisfier
+from anything is purported, and so n o problems arise. Just as a man of six feet six
+is tall, so any man of greater height is a tall man, o r so we commonly believe. T h e
+substantial difference of a foot, then, means nothing in the upward direction: un-
+like a man of five feet six, a man of seven feet six is (supposed to be) a tall man.
+        This purported discrimination in the downward direction is enough to pro-
+vide an argument that turns o n the inconsistency of ‘tall man’. We choose a man
+somewhere down there in height, for example, a man of five feet six, who is sup-
+posed not to be a tall man. And, we can show, by t h e condition of ( l ) ,that he also
+is a tall man (if any man is). For if the man of sixsix is tall, then so is a man min-
+utely less in height, say, a thousandth of an inch less, plus or minus a small fraction
+of that. And if he too, then also another, whose height is about a thousandth of an
+inch less. And, so, by steps, if there is any tall man, then our man of five-six is one
+of these. But, as we have supposed, he is not. And, while we might seek to avoid
+the contradiction by saying that, contrary to what we supposed, t h e man of fivesix
+is after all only a tall one, this is n o avoidance b u t only a futile postponement. For
+according to o u r second condition, there must be some (actual o r only possible)
+man down there who is not tall. But, whomever we choose, our first condition then
+forces us t o draw the opposite conclusion about him as well. Thus, the purported
+discrimination cannot b e made; the expression is a n inconsistent one.
+        There is a potential source of ambiguity which, while I d o not think I have in-
+vited it, can be placed beyond serious question rather quickly. I t might be thought
+that, according t o our second condition, so long as the dimension and direction are
+appropriate, any substantial difference from a satisfier will rake us to objects, actual
+o r only possible, that d o n o t satisfy. This would be an unfortunate interpretation,
+as the following example makes clear: If the difference between a six-six man and a
+five-six one is substantial, then so is that between a man of eight feet and a sixsix
+man. But, while t h e latter is, then, a substantial difference, and can be taken in the
+right direction, it does n o t take us to a man who, by common judgment, is not tall.
+But our condition does n o t say that just any entity that thus differs from a satisfier
+will not satisfy t h e expression in question; rather, i t implies only that there must be
+at least some such. In t h e present case, there is indeed a plenitude of relevant pos-
+sible cases. For example, all the possible men with heights less than five feet six will
+differ sufficiently from the eight foot man. Thus, these men, who are not tall, will
+allow us to derive a contradiction from the assumption that the eight-footer is a tall
+man.
+        In disarming a potential source of ambiguity, we have entered upon the finer
+points of our account. In this vein, we may notice t h e final, or ‘providing’, clause of
+186       PETER UNGER
+
+our vagueness condition. Now, that clause may seem to make matters complex, b u t
+it is only a way of providing for what would usually b e understood anyway. For we
+are to understand that such a minute difference, by itself, will not make the differ-
+ence between sarisfier and nonsatisfier, not that the presence of one such small dif-
+ference will ensure a second satisfier, n o matter how different from the original
+that second entity might otherwise be. By t h e same token, even with this “provid-
+ing” clause, our vagueness condition can b e applied, in stepwise fashion, any num-
+ber of times. F o r while various other differences may add u p so that they are even-
+tually more than minute ones, even by common-sense reckoning, in any one step n o
+such large difference will ever b e encountered.8
+        Because our conditions d o n o t specify o r mention any particular dimensions
+of difference, o r directions along them, but,only require, for satisfaction, the exist-
+ence of some, w e cannot state our conditions in a mutually independent form. Thus
+our reference in (2) to what is required in (1). We need this to make sure that the
+differences added u p by repeated applications of (1) are comparable to those for
+which (2) indicates an opposite claim, so that a contradiction will arise, supposing
+there is any satisfier. With ‘nacknick’, shape was specified as relevant; by specify-
+ing it once in each, independently specified conditions could be given for the term.
+A similar situation occurs with t h e ordinary vague expression ‘tall man’, where we
+may mention height as the dimension, and specify t h e downward direction along it.
+But oftentimes, we shall be in n o position to provide such specific, independently
+specifiable conditions.
+        Our conditions make reference to possible entities that may not be actual. By
+this device, we may explain, f o r example, our ready judgment that six-inch men
+would not be tall men, even supposing there are n o actual men of that height. F o r
+we are very ready to withhold ‘tall man’ from such an imaginary case. Now, if such
+an explanatory reference to possible entities is avoidable, then we may just consid-
+e r it a convenience here, f o r brevity. If, o n t h e other hand, an implication of such
+dubious objects is required, that should mean trouble for these vague expressions.
+But even if such a problem means, all over again, t h e worst for these terms, 1 shall
+not dwell on t h e matter now. F o r t h e same difficulty, if there is one, would appear
+quite as damaging to various expressions that are not vague: if something satisfies
+“is n o t a perfect cube,” then there are objects, actual o r only possible, that differ
+from that satisfier in shape, and that, thus, d o not satisfy t h e expression. In other
+words, such problems are n o t peculiar to o u r topic.
+        Let us turn now to discuss some of t h e limits of our offered conditions, for
+they arc n o t meant to cover every conceivable topic. We may begin by noting a
+vague expression t h a t is n o t governed b y our second, o r discriminative, condition,
+namely, the expression ‘part of physical reality’. Now, rhis term is, of course, a
+qualitative one; if an entity is part of physical reality, then so too is any other qual-
+itatively just like it. And, second, this expression is a vague one; if anything, it is
+even more vague than ‘stone’. A t the same time, it is governed by our first, o r
+vagueness, condition: If an entity is a part of physical reality, then so too is any
+other that, with respect to any dimension of difference, is minutely different from
+                                           WHY THERE ARE NO PEOPLE                  187
+
+it. And, third, the expression is, quite obviously, a discriminative one: it is not t o
+apply to such a putative abstract entity as t h e number three. But, the discrimina-
+tions it makes d o not appear to involve its vagueness, a t least not in the ordinary
+way we have been noticing. F o r it does not seem that there is any dimension, or
+spectrum, of graded differences, where parts of physical reality are somewhere to
+leave off and other entities are t o be newly encountered. So, our expression ‘part of
+physical reality’ does not seem to be of t h e sort we have called vague discrimina-
+rive. A t the same time, it is not governed by our second condition.
+        Finally, let us look a t some limits of our vagueness condition, and try to see
+what they may, or may not, mean f o r us. Toward this end, we notice the contrast
+between two kinds of vague discriminative expression: those that are (purely) qual-
+itative and those that are not. Only the first of these will be governed by our vague-
+ness condition, in ( l ) ,for the notion of dimension ofdifference there employed
+concerned only differences as regards qualities, o r internal properties. Thus, for an
+easy example, two men may be qualitatively t h e same, b u t only one may bear the
+relation to a woman of being married. Thus, only the other of them is a bachelor.
+The word ‘bachelor’, then, is not a qualitative term. As such, i t is not governed by
+our vagueness condition: Scratch the married man alone, so that now h e is minute-
+ly different from the bachelor as regards his internal properties. But though he is
+minutely different from an entity that satisfies ‘bachelor’, this married man does
+n o t satisfy t h e word.
+        A less obvious example is provided by J o h n T i e n ~ o n .He
+                                                                      ~ points to certain
+expressions for artifacts, for example, ‘table top’ and ‘door’. Consider two quali-
+tatively identical objects, each crafted in different areas by different people, quite
+independently. The first is meant t o serve just as a door, and does so. The second is
+meant to serve just as a table top, as it does. I t seems clear that, supposing there are
+table tops, only one of these is that. Scratching one, which means a minute differ-
+ence between them now, as regards internal properties, will, of course, not alter t h e
+situation. Upon reflection, then, it appears that there will be many vague discrimin-
+ative terms that are not qualitative ones, and that d o not satisfy the vagueness con-
+dition for our qualitative expressions. Consequently, to have a general account of
+discriminarive vagueness, we need a vagueness condition for these terms as well,
+along with a matching discriminative condition. But, what does this mean for our
+main topic?
+        Even without much thought on the matter, it is quite clear that ‘person’, un-
+like ‘bachelor’ and ‘door’, is indeed a purely qualitative term. Perhaps some creature
+qualitatively identical to me, but very far away, might not b e a human being should
+h e lack certain relations, causal or otherwise, to all (earthly) humans.” But h e
+would still be a person for all that. Consequently, as our chief interest here is in
+‘person’, and in putative persons, it is n o t much to present purposes to provide such
+more general conditions f o r discriminative vagueness as we now, admittedly, d o
+desire.
+        Still, a suggestion o r two seems to be in order, t o give some idea of how our
+account of vague terms might be extended from t h e purely qualitative ones to cover
+188       PETER UNGER
+
+vague discriminative expressions generally. For a start, we may alter our vagueness
+condition so that the dimensions of difference involved, and so the minute differ-
+ences with regard to them. will now concern external relations as well as internal
+properties. With this alteration we may declare an entity obtained from an alleged
+door to be a door, should the change be a suitably small one, such as will, in fact,
+b e produced by the net removal of a peripheral atom. F o r this obtained object's
+relations to other things will differ only minutely from those of the original satis-
+fier, all things considered, whether o r not we regard it as the very same object as
+that original. But while we thus achieve some added explanatory power, this altera-
+tion provides only a rather weak, o r unambitious, vagueness condition: Another
+door, far away from the original, and with internal properties only minutely differ-
+ent, may well not be declared a door. For, all things considered, the external rela-
+tions of this distant object may b e so different from the first, it seems, that no dec-
+laration concerning i t will be available to us. To group these two doors together, a
+stronger vagueness condition is needed. A suitable one might be obtained, I suggest,
+if we d o not speak of external relations generally, b u t limit our reference to those
+relations the bearing of which, by an object, are relevant to whether o r not the
+object is (supposed to be) a satisfier, for example, a door. If these relevant relations
+are just t h e same o r minutely different for the t w o objects, and their internal prop-
+erties are also t h e same o r minutely different, then they shall be grouped together
+as well. With these provisos, we may now have a suitable vagueness condition for all
+discriminative vague terms, as we have been understanding this category of expres-
+sions.
+       F o r such a n extension of o u r account, I am inclined to think that our original
+discriminative condition will prove adequate, with its reference to the dimensions
+in the paired vagueness condition matching things u p appropriately. But, if that is
+n o t quite right, a suitable matching condition should not be far t o seek. These are
+m y suggestions, then, for extending my account from its present exclusive concern
+with purely qualitarive terms to cover vague discriminative expressions generally.
+Having made them, I shall not pursue t h e matter here, but will only note that most
+o f the remarks to be made about the qualitative ones will apply as well to t h e
+others. Hence, in what follows, I often shall speak indiscriminately of vague dis-
+criminative terms, in general, and those of them that are qualitative vague expres-
+sions.
+
+
+             3. THE IDEA OF INCOMPLETE EXPRESSIONS
+The main lines of o u r account are now before us. O n this account, vague discrimina-
+tive expressions are inconsistent terms. Against o u r account, others may be pro-
+posed. Perhaps t h e most common and appealing alternative will be t h e idea that
+these vague terms are incomplete expressions. Typically, a t least, this idea will de-
+rive from the thought that each of our vague expressions has borderline cuses, that
+is, cases that neither definitely satisfy the term nor definitely d o not. T h e reason
+f o r these cases, t h e idea will then go, is that the vague expression says nothing
+                                             WHY THERE ARE NO PEOPLE                    189
+
+about them one way or the other. This lack of content o r commitment is owing to
+t h e term’s being incomplete, that is, incompletely defined.” Now, even if there
+were something in t h e idea of an incomplete term, its application to our typical
+vague expressions would now seem to b e quite dubious. For these expressions seem
+logically o n a par with ‘nacknick’, and that invented expression is (completely) in-
+consistent, and SO is nor an incomplete one. But matters are worse than that for our
+alleged alternative account. For, as I shall argue, this idea of incompleteness is inco-
+herent, as is even the thought of borderline cases, on which it depends.
+        Let us begin our discussion by seeing that our own account implies the result
+I seek to establish. Now, on our account, typical vague expressions apply to n o
+cases whatsoever, for they are each logically inconsistent. Hence, we may say all
+cases are decided negatively by each such term. Thus, n o cases are borderline cases,
+and no expression is incomplete. Here is another way of seeing that, on our ac-
+count, there are no borderline cases: Any borderline case for an expression requires
+positive cases, which satisfy t h e expression. For a case that is (on the) borderline is,
+o n some relevant dimension, between positive cases and negative ones. On our ac-
+count, there are n o positive cases; thus, no borderline ones either. So it is amply
+clear that as our account has it, there are no vague discriminative expressions that
+are incomplete. In that 1 shall b e arguing for this same conclusion, I shall be reason-
+ing that this result is a virtue of our account.
+        Let us focus on t h e notion of borderline cases. These are supposed to be cases
+to which the expression in question does not definitely apply and does not defi-
+nitely not apply. But what can be the proper force of this ‘definitely’ here? Imagine
+a typical vague expression and an object. Consider t h e statement that (1) the ex-
+pression neither definitely applies to t h e object nor definitely does not. And con-
+sider as well the apparently simpler statement that (2) t h e expression either applies
+to the object or does n o t apply t o it. Now, the former statement either is consistent
+with the latter, simpler one or else it is not. Suppose it is consistent with the simp-
+ler Statement. What t h e simpler statement says is that each case is one where the
+expression applies o r else is one where it does not apply, and so i t leaves n o room
+f o r any borderline cases. So, f o r all t h e statement with ‘definitely’ then says, there
+will be no borderline cases. Thus, if our two statements are mutually consistent, t h e
+one with ‘definitely’ cannot coherently indicate any borderline case. Well, then, let
+us suppose the alternadve, that the first statement is not consistent with the sec-
+ond. Now, we shall want to notice the logical status of that second statement: it is
+necessarily true. For this statement is b u t a special consequence of a quite general
+necessary truth: with regard t o any given object, any relation, and any entity, that
+object either bears that relation t o that entity or does not bear the relation to the
+entity.” Now, if the object is an expression, that cannot change matters; nor can
+things be altered when the relation is that of application, whatever the entity in
+question might be. T h e truth of our simpler statement, (2), then, cannot b e seri-
+ously challenged. But, if ( l ) ,our ‘definitely’ statement, is not then consistent with
+(2), (1) will not itself be true, and so it will not correctly indicate any borderline
+cases. Thus, in either case, that is, in any case, there are n o borderline cases.
+190       PETER UNGER
+
+        Our statement with ‘definitely’, i t is true, a t first appears to suggest coherent-
+ly some cases of a third logical kind, though this appearance cannot be borne out. I
+should try to explain the illusory appearance here. T h e explanation, I think, falls
+into two parts: first, talk with ‘definite’ can be used, coherently, we may allow, t o
+describe certain behavioral situations. And, once that is managed, the description
+can lead to the incoherent idea that, underlying the described behavior, there are
+logically borderline cases. Let us discuss the first part, f o r that is where the trouble
+starts.
+        With regard to a typical vague expression, a normal person will sometimes be
+in a state of hesitancy, uncertainty, and, perhaps, even confusion. With regard t o
+certain (real o r only imagined) objects, which he may call “borderline cases,” he
+will have n o definite disposition or tendency to apply the term nor any definite
+tendency to withhold it. These objects will contrast with others, for which the per-
+son has such a tendency to apply the term, as well as with still others, for which he
+has a definite disposition to withhold the expression. And, these behavioral con-
+trasts can hold, not just for a single individual a t a moment, but for a society dur-
+ing a long period of time. Where such a broadly based pattern of dispositions exists,
+we may give a certain currency to talk of “borderline cases.” But that talk, to re-
+main coherent, must confine itself to reporting upon the behaviors in question; i t
+cannot properly entail, to explain the behavior, situations where an expression does
+n o t apply to an object and also does n o t n o t apply to it.
+        The behavioral contrasts just remarked, i t may be appreciated, will hold just
+as well for invented inconsistent expressions, like ‘nacknick’. A given individual will
+b e ready to apply “nacknick” to certain objects, and to withhold i t from others,
+but will be uncertain about still a third group. And, should the term gain currency,
+a more general behavioral pattern to t h e same effect would doubtless ensue. Objects
+in the third group might well be regarded, quite generally, as borderline cases. So
+long as nothing of much logical import is thus implied, such parlance may be al-
+lowed. But, clearly, nothing much more than reportage upon these dispositions
+could be coherently conveyed by such talk of borderlines. For, clearly, ‘nacknick’ is
+an inconsistent expression, and actually applies to n o cases whatsoever. So i t is with
+all vague discriminative expressions, both invented and inherited.
+        Except in the irrelevant behavioral sense of the expression, then, there can be
+n o borderline cases. Thus, there are none to threaten our account; there is n o com-
+petition for us from the idea of vague expressions as incomplete. For any incom-
+pleteness will arise only over logically borderline cases, and so the suggestion of in-
+complete expressions is n o t a coherent idea. Though we have just made short work
+of the idea of incomplete expressions, there will be some, n o doubt, who will b e
+loathe to part with it. T h e reason for their reluctance is simple: the idea can be
+made to appear very attractive. For our reasonings to have maximum effect here,
+we must consider t h e motivation from which such an appearance can derive.
+        T h e motivation underlying t h e idea of incomplete expressions is due primar-
+ily , I think, to a misplaced analogy between linguistic expressions and mathemati-
+cal functions. F o r a mathematical function to yield a value for an object, that func-
+                                             WHY THERE ARE NO PEOPLE                    191
+
+tion must be defined for, o r with respect t o , t h a t object. Typically, it will be so de-
+fined only if someone, a mathematician, does something, only if he defines i t for
+the object. If nothing is done, then the function is undefined for the object, and it
+yields no particular value in the case. If one thinks of a linguistic expression as
+yielding a positive value for those objects it applies to, and a negative one for those
+it does not, one is well o n his way toward applying this analogy.
+        Like the functions of mathematics, i t may then b e thought, an expression will
+yield a value only in the case of those objects f o r which it is defined. And, i t will
+be defined for an object only if some people have defined the expression for the
+object. Now, this thinking continues, the people may have defined i t positively with
+regard to a certain object: in that case, t h e value there will be positive, and the ex-
+pression will apply to the object. Or, they may have defined i t negatively: then, the
+value there will be negative, and the expression will n o t apply. Or, as in mathemat-
+ics, they may not have defined i t with regard to the object. In this last case, t h e ex-
+pression will be undefined with respect to t h e object, i t will yield n o value there,
+neither positive nor negative; and, so, i t will neither apply to the object nor not ap-
+ply to it. Rather, i t will find a borderline case in the object, thus being an incom-
+plete expression.
+       According t o one way of viewing the matter, a mathematical function that is
+defined for certain objects but n o t for others may b e completed, so that it is then
+defined for those others as well. Analogously, t h e idea of incomplete expressions
+may be further developed: A vague discriminative expression may be made more
+precise by completing its definition. So long as the previously positive cases remain
+as such, and so with the previously negative ones, a completion will be admissible.
+Thus, f o r a typical vague expression, there will be a great, perhaps an infinite, vari-
+ety of admissible completions, none of which violates t h e meaning with which the
+expression had been endowed. Any such completion will decide, whether positive-
+ly or negatively, each of the expression’s borderline cases. And, what can deter-
+mine which completion we fix upon, if ever we desire to make precise a certain
+vague expression, will be the purposss we then wish i t to serve. So, the accept-
+able completion we choose need n o t be an arbitrary choice.
+       The idea of incomplete expressions is thus a very attractive idea. According to
+it, our expressions are each consistent and more: through their already defined
+cases, they provide us with stable contrasts, with a n intellectual anchor. A t t h e
+same time, through their borderline cases, they provide us with t h e opportunity for
+crea’tive conceptual choice. But, in addition to resting o n an incoherent notion of
+borderline cases, this appealing picture rests upon a weak o r misplaced analogy be-
+tween mathematical functions and the expressions of our language.
+       What is it, in the special sense intended, f o r an expression to be defined? Of
+course, it is not for it to be defined in t h e usual sense, where a statement is made
+that elucidates the term’s meaning. For,many precise terms, completely defined in
+our special sense, have never had their meaning thus elucidated and, o n t h e other
+side, certain vague words have had their meaning m a d e tolerably plain. O n t h e con-
+trary, what is here alluded to is simply this: the expression has been endowed with
+192       PETER UNGER
+
+such meaning that, with respect to some objects a t least, that meaning determines
+whether o r n o t the term applies to those objects. Once we realize that this is what
+this talk of definition comes to, we can see that the idea of incomplete definition
+amounts to nothing. For, with respect to any expression, and any object, unless we
+define that expression with respect to that object, that is, unless society has endowed
+it with such meaning as determines whether o r not i t applies t o the object, t h e ex-
+pression will not apply to the object. If we insist that t h e term’s not applying to an
+object means that it yields a (negative) value for that object, then a (negative) value
+will be yielded even if nothing has been done to produce such a result. Consider the
+expression ‘ouch’. I t has not been defined with respect to the Empire State Build-
+ing. Yet, it does not apply to that entity. If we insist t h a t this means ‘ouch’ yields a
+negative value f o r t h e Building, then so be it. Of course, one might not insist that
+‘ouch’ yields a value here. But, still, i t does n o t apply to the Building. So, however
+we describe matters, we cannot coherently apply t h e offered analogy.
+        A function, then, if n o t suitably defined, may yield n o value with regard to
+a certain object, neither positive nor negative. But, whether owing to what is dic-
+tated by its meaning o r not, an expression will apply to a given object o r else i t will
+n o t d o so. Unlike the function, with its values, there is n o further course for t h e ex-
+pression to take.
+        The idea of incomplete expressions is itself inconsistent. I t can offer n o genu-
+ine alternative to our account of vague expressions as inconsistent terms. Let us in-
+quire somewhat more deeply now as to the nature of their i n c o n ~ i s t e n c y . ’ ~
+
+
+        4. VAGUENESS AND GROUNDLESS INCONSISTENCY
+I t is easy to assume that any inconsistent expression results from a clash between
+ideas each of which is itself quite consistent. O u r by now familiar expression ‘per-
+fectly square triangle’ may be reckoned an example of this. As such, that expres-
+sion may be regarded as governed by two quite precise conditions, which may be
+expressed as follows:
+      (It) If some (actual o r only possible) entity satisfies t h e expression ‘perfectly
+           square triangle’, then (since that putative satisfier is a perfectly square
+           object) the satisfier has exactly four interior angles.
+      (2t) If some (actual o r only possible) entity satisfies t h e expression ‘perfectly
+           square triangle’, then (since that putative satisfier is a triangle) t h e satis-
+           fier has exactly three interior angles.
+T h e clash here is between t h e idea of having exactly four such angles, which implies
+having more than three, and that of having exactly three, which implies not having
+more than three. We might say that the inconsistency in ‘perfectly square triangle’
+is grounded in t h e clash between these t w o consistent conceptions. I t is easy to as-
+sume, then, that every inconsistent expression must be grounded in a t least one
+such clash as that. O n the contrary, however, it is a feature of vague discriminative
+terms that their inconsistency is not thus grounded, b u t is relevantly groundless.
+                                          WHY THERE ARE NO PEOPLE                 193
+
+And, it is a virtue of our two conditions for such expressions that they serve to
+bring o u t this groundlessness.
+       The differences that figure in our vagueness condition are referred to as mi-
+nute ones, and those of our discriminative condition as substantial in amount o r
+size. Whatever the meaning of ‘minute’ and ‘substantial’, we may take i t that noth-
+ing satisfies both of these a t once, whether the thing in question be a slice of meat,
+a number, or a difference. T h e terms ‘minute’ and ‘substantial’, then, purport to b e
+mutually exclusive in their application; if they have any application, it must respect
+this condition. I t is in virtue of this exclusivity that these terms might appear to
+underlie successful discriminations purported by our vague discriminative expres-
+sions. But ‘minute’ and ‘substantial’ are themselves discriminative vague terms. So,
+both of them are inconsistent expressions; neither has any real application a t all,
+thus none which is exclusive of the other’s. Even so, t h e inconsistency of other
+discriminative vague terms may be understood in terms of t h e inconsistency of each
+of these two expressions. A t the same time, their own inconsistency may also be
+understood in terms of themselves. While these two terms are thus rather deeply
+placed, they provide n o clash between consistent conceptions. Accordingly, the
+inconsistencies they serve to explain are relevantly groundless.
+       What is it, after all, for one object to differ minutely from another, in a cer-
+tain respect, for that difference between them to b e a minute one? If that differ-
+ence is minute, then so is a difference, along the same dimension, which is only mi-
+nutely greater than it. This leads to the conclusion that a certain difference, deemed
+substantial, and so not minute, must be deemed as well a minute one. Thus, there is
+n o minute difference in the first place.
+       Let us reconsider our paradigm nacknick and t h e object we agreed to be so
+different from it as to be not a nacknick. The difference between these two, we
+supposed, was a substantial one, and so n o t a minute difference. But an object that
+was about a billionth of the way from the paradigm to the non-nacknick differed
+minutely from the paradigm. If it did, then so did t h e next object in the considered
+sequence, for the extra billionth of t h e way thus added will not mean the difference
+between a minute difference here and one that is not. But, then, the difference be-
+tween the paradigm and the still next object will also be a minute one, o n the same
+principle. By stepwise reasoning, we shall thus conclude that the difference between
+the paradigm and the considered non-nack is a minute difference. This lets us, in
+turn, conclude two things: first, we may conclude that t h e supposed non-nacknick
+is also a nacknick, which helps show how the quantitative term ‘minute’ underlies
+‘nacknick’. And, second, we deduce the related contradiction: that the supposed
+substantial difference, between the paradigm and t h e agreed non-nacknick, is also a
+minute one.
+       In general, we may say that when adding a minute difference to another, the
+result is a larger difference that is still a minute one. Suppose someone took excep-
+tion to this generality, thinking that there might be t w o big differencesfor minute
+ones, so that when they were added t h e result failed to b e a minute difference. Let
+us consider one of these: i t is supposed to be large f o r a minute difference. Let us
+194        PETER UNGER
+
+consider as well a difference, the same in dimension and direction, that is only one
+millionth of its magnitude. This latter difference will not be a large one, even for a
+minute difference; it will be minute for a minute difference. But if it is minute for a
+minute difference, then so is one that is only two millionths the magnitude of the
+large minute difference, f o r the extra millionth cannot mean that we have gotten to
+a minute difference of some other sort. By stepwise reasoning, we may eventually
+conclude that our original minute difference, supposedly large for such a difference,
+is also minute for a minute difference. And, we may d o as much for the large mi-
+nute difference to which it might b e added. Adding two such differences, each of
+which may thus be reckoned minute even for minute differences, cannot, then,
+yield a difference that is n o t m i n ~ t e . ’ ~
+        The idea of a substantial difference is relevantly on a par with that of a mi-
+nute one. If a given difference is substantial, then so is one that is only minutely
+less. But however small we require a difference to b e so that i t fail to be substantial,
+we may eventually reach it. Thus, any such difference will be declared substantial,
+as well as n o t substantial.
+        The points we have made about ‘minute’ and ‘substantial’ can also be made
+about other pairs of similar terms, a b o u t ‘small’ and ‘large’, for example. Each
+member of such a pair will b e a quantitative vague discriminative expression; one of
+them will purport to denote things whose magnitude is less than any to which t h e
+other can properly apply, the other to denote to opposite effect. Of course, a term
+may be quantitative in this sense and also be a purely qualitative expression in the
+sense we previously defined. In every case, I hypothesize, the inconsistency of
+vague discriminative expressions may be understood in terms of some such quanti-
+tative pair o r pairs. When a pair is suitable f o r such understanding, we may call it an
+underlying pair for the expression in question. So, each typical vague expression has
+a t least one such underlying pair.
+        In giving my conditions, in (1) and ( 2 ) , f o r qualitative vague terms, I em-
+ployed t h e term ‘minute’. This was a measure in t h e direction of caution. For while
+a more common word like “small” appears suitable to underlie many such expres-
+sions, for which of course “minute” will also serve, there may be some for which
+only the latter term will prove adequate. I t is worth noting, I think, that with many
+vague terms thesorites arguments thar spell trouble can be quite short. F o r example,
+I think we regard a man of six-two as tall, b u t one of five-eleven as not a tall man.
+But half a n inch will not mean t h e difference between a tall man and not. So, an ex-
+plicit b u t quite short argument will yield n o tall men a t all. I suggest that this help-
+ful shortness is due largely to t h e fact that ‘small’ is enough to underlie t h e first
+condition for ‘talI man’. Consequently, ‘minute’ here gives us, with a longer argu-
+ment, a luxury of caution.
+        This groundless inconsistency, characteristic of vague discriminative terms,
+is n o t to b e conflated with the fact t h a t t h e noted stepwise reasoning exposes t h e
+inconsistency of t h e expressions in question. To clarify this point, we may invent
+expressions whose inconsistency is exposed in that stepwise manner, but that d o
+not have the feature of groundless inconsistency. In one respect, that of having
+                                           WHY THERE A R E N O PEOPLE                195
+
+their inconsistency grounded in precise, consistent concepts, such expressions will
+be like ‘perfectly square triangle’. In another, that associated with the stepwise rea-
+soning, they will be unlike such an obviously inconsistent expression, and will be
+like our typical vague terms. Because of this latter likeness, such an invented term
+would, under suitable circumstances, prove useful to many normal people. Let me
+proceed to invent such a useful expression.
+       A tinkergrid, we might say, is something that one might endeavor to build out
+of the most typical items found in a tinkertoy set. These items are of two kinds:
+sticks and wheels. Now, the term ‘stick’, as well as ‘wheel’, is a vague discriminative
+one, and so it has groundless inconsistency. Thus, we d o not want our invented
+’tinkergrid’ t o be defined in terms of sticks and wheels, f o r then the invented term
+would also have groundless inconsistency. Let us better say, then, that what one
+would endeavor to build with a tinkertoy set would be, n o t a tinkergrid itself, bur a
+physical realization of a tinkergrid. T h e tinkergrid itself would be a mathematical
+entity, composed of other mathematical entities, which are its basic parts: line seg-
+ments of unit length, which one might use sticks to endeavor to realize, and nodes,
+where line segments can connect a t right angles, f o r which a wheel might be used.
+The idea of a tinkergrid, then, is that of a certain mathematical structure. But, of
+course, there might be n o more possibility of such a structure than of a structure
+that is a perfectly square triangle.
+       Now, to define the general conception of a tinkergrid, we begin with the
+more particular idea of a paradigm tinkegrid. A paradigm tinkergrid, we shall say,
+is in the form of a cube, with ten-unit line segments to each of its twelve edges;
+each edge, then, contains eleven nodes, two a t its ends and nine internally. This
+tinkergrid is composed of a thousand unit cells, each in the form of a cube com-
+posed of twelve segments and eight nodes. The cells are arranged in such a way that
+they d o not overlap, b u t are suitably adjacent, so that t h e whole tinkergrid is per-
+fectly constituted of them: ten layers each with ten columns and ten rows of unit
+cells. I t should appear clear how, using the standard tinkertoy items, one would try
+to realize a paradigm tinkergrid. So much for paradigm tinkergrids; what of those
+that are n o t paradigms?
+       As our definition is to have it, a paradigm tinkergrid is b u t one sort of tinker-
+grid; related to it are other sorts, which are all suitably related to each other. We
+shall not put this by means of any quantitive vague discriminative expression for
+that would involve ‘tinkergrid’ in groundless inconsistency, which we are to avoid.
+Thus, we d o not have as a second clause of our definition any such conditional as
+this one: If something is a tinkergrid, then anything that differs from i t by a fittle
+bit is also a tinkergrid. Rather, we shall p u t o u r second clause more suitably in some
+such terms as these: If something is a tinkergrid, then anything t h a t differs from it
+by the removal or addition of one or t w o basic parts is also a tinkergrid.
+       While we thus move to avoid groundless inconsistency, we have not yet en-
+sured any inconsistency a t all for our invented term, b u t only a certain bizarreness.
+F o r without any further clause in our definition, our term allows a tinkergrid to
+have n o basic parts a t all. Such a “null rinkergrid” would b e a most peculiar entity,
+196        PETER UNGER
+
+of course; still, according to the definition’s progress SO far, there they will be. But
+insofar as null tinkergrids are claimed by our invented expression, and no claim is
+made in the opposite direction, ‘tinkergrid’ will be quite unlike most ordinary terms.
+To make it more like them, we add this last clause to our definition: Any tinkergrid
+is composed of a finite positive number of basic parts. Now, our invented expres-
+sion will have it that there are n o “null tinkergrids,” and it will indeed be much
+more like our ordinary terms. For, with this last clause, we have ensured that our
+invented expression will be an inconsistent one.
+       The inconsistency of ‘tinkergrid’ may be exhibited as follows: First, a para-
+digm tinkergrid is a tinkergrid, indeed, one having a certain finite positive number
+of basic parts, say, N of them. But, then, so will b e an entity that, may be obtained
+from it by the removal of one part, which will have N-1 basic parts. By stepwise
+reasoning, we must conclude that there will be a tinkeigrid with N-Nbasic parts,
+that is, with none a t all. But our expression also requires that any tinkergrid have
+some positive number of such parts. Thus, this last item, with n o basic parts, both is
+a tinkergrid and also is n o t one.
+       While this invented term is thus inconsistent, I have little doubt that it could
+b e easily learned and put to use by many normal people, in various suitable circum-
+stances. In the first place, few would notice that there was any inconsistency here.
+Indeed, few would notice rhat, without the final clause, there would b e null tinker-
+grids. Despite the term’s having grounded inconsistency, most people would get the
+idea that a tinkergrid was available only a t levels “well above” that where no basic
+parts remain. So lirtle, then, will these ideas be related to our expression’s meaning.
+And, perhaps more important, even once the inconsistency is pointed out, as we did
+here, the problem is shunted aside.
+       Insofar as I have been successful, ‘tinkergrid’, while inconsistent, has not been
+defined by using any discriminative vague term in an essential role. Accordingly, the
+inconsistency thus generated is n o t relevantly groundless; it is not like that observed
+with typical vague expressions. Like the inconsistency in ‘square triangle’, the in-
+consistency in ‘tinkergrid’ involves a clash between ideas that are each precise, con-
+sistent ones. But of t h e two, only ‘tinkergrid’ has grounded inconsistency of a sort
+that allows f o r a quite useful expression, potentially, as useful as typical vague ones.
+
+
+                      5 . PARADIGMS IN PERSPECTIVE
+We began with a putative paradigm of a nacknick, imagined o r real, with something
+that was to satisfy t h e expression. B u t as further imposed conditions determined
+matters, the beginning object could n o t possibly satisfy t h e invented term. For, as
+that expression was thus determined to be logically inconsistent, n o object a t all
+could satisfy it. By parity of reasoning, we have suggested that a logically similar
+situation holds f o r o u r ordinary vague discriminative expressions. Against this sug-
+gestion, one might try to strengthen t h e role of paradigms in t h e learning situations,
+n o t only as regards our ordinary expressions, b u t also as concerns such explicitly
+invented ones as ‘nacknick’. The objection to our reasoning would then proceed
+                                           WHY THERE ARE NO PEOPLE                   197
+
+along some such lines as these: When I instructed you that any object minutely dif-
+fering from a nacknick (as regards shape) would also be a nacknick, what you really
+accepted, and had as a determinant of your new useful expression, was n o t quite
+what I instructed you. Instead, it was this rather similar sounding, b u t logically
+quite different, condition: If something is (not just any old nacknick, but) a paru-
+digm nacknick. then any object differing from i t minutely (in shape) is a nacknick.
+But, the objection continues, this “paradigmatic” condition, even in conjunction
+with other learned conditions f o r t h e term, causes n o troublesome inconsistency.
+As this was the true situation even with ‘nacknick’, we may b e quite confident that
+chis sort of thing occurs with our typical vague inherited expressions. Consequent-
+ly, the objection concludes, they may be satisfied by their paradigm cases, as .well
+as by various other objects.”
+       A good deal later on, in Section 9 , 1 shall discuss the question of “what you
+really got out of my instructions.” And I shall there argue that whatever else you
+may have gotten, one thing you got was the vagueness condition, with n o reference
+to paradigms, that I actually offered to you. And, so, 1 shall argue, that trouble-
+some condition helped t o determine ‘nacknick’ f o r you, whatever else may also
+have played such a determining role. If this is so, then your ‘nacknick’ will be an
+inconsistent expression, since you were given our other, discriminative condition
+for it. For once those two conditions govern a term, that term will b e an inconsis-
+tent one, however many further conditions may also govern it. But for now, realiz-
+ing that our recent objection may possibly b e deficient in some such other respects
+as w e have just indicated, let us focus only on the condition that it claims is so read-
+ily learned. Is this paradigmatic condition quite free from difficulties, and suitable
+for an objection to our account? I shall argue that, f o r a t least three reasons, i t is
+not: first, it is unlikely that we learn it (unlikelier still that we learn i t without
+learning the simpler offered condition); second, i t would involve us in inconsis-
+tency anyway, and, third, should the first two reasons be discounted, the condition
+would have our apparently vague terms be precise and not vague a t all.
+       The Erst argument proceeds from t h e recognition that ‘paradigm nacknick’
+will be just as much a vague discriminative term as ‘nacknick’ itself. Suppose that
+we have an alleged paradigm nacknick before us. After a while, even less than a
+second, the object loses some atoms, generally more than any it might have then
+gained. This will have various effects upon the object. As regards various dimen-
+sions, generally including that of shape, the object will be minutely different from
+the way it was. But despite these minute differences, we regard the object now be-
+fore us as being a paradigm nacknick. Now, as relevant expressions with the word
+‘paradigm’ will thus also be vague discriminative ones, the sort of condition that is
+to govern ‘nacknick’mustgovern them as well. To deny this is to impose an entirely
+ad hoc restriction on the situation, and one which, we have just seen, runs counter
+even to c o m m o n ~ e n s ejudgments. So, we must now have this condition as well: if
+something is a paradigm paradigm nacknick, then any object that differs from i t mi-
+nutely (in shape) is a paradigm nacknick. But, of course, matters d o not rest here,
+for the expression ‘paradigm paradigm nacknick’ is also a vague discriminative one.
+198       PETER UNGER
+
+Thus, an infinite chain is established. Do we learn, with ‘nacknick’, such an infinity
+of governing conditions? I find the Suggestion quite incredible.
+         O n the view I a m advocating, each of these infinite conditions does hold true.
+Indeed, in each case, a Stronger condition holds true, from which one of these for-
+mer may be deduced. For example, I advocate that this condition holds: If an ob-
+ject is a paradigm nacknick, then any object that differs from it minutely (in shape)
+is also a paradigm nacknick (and so, of course, it is a nacknick). But, on my view, a
+person, a small child, for example, can learn and understand one of the conditions
+without having t o learn an infinity of them. On the objector’s view, infinitely more
+learning must be done by such a person.
+         As an addendum to this first argument, we may note that, from an intuitive
+perspective, this objection gets things backward. The objection would have it that
+our Understanding of ‘nacknick’, o r ‘stone’, is dependent on that of ‘paradigm nack-
+nick’, or ‘paradigm stone’. But, intuitively, in ordinary situations, the contrary
+seems to hold. We first learn ‘stone’ and only then understand longer expressions
+of which it is a part, like ‘expensive stone’, ‘poor example of a stone’, or ‘paradigm
+case of a Stone’. Returning to our small child, we can believe that he might under-
+stand ‘stone’ without yet understanding any of these longer expressions. But he
+could not attach much significance t o any of them without first understanding
+‘stone’.
+         A second argument is readily a t hand should it be needed. Now, for the sake
+of argument, k t us suppose that, for all we have just said, “paradigm nacknick” and
+its associated infinity may all be learned quite easily even by tiny tots. But even
+supposing this, we now have t o confront t h e problem of groundless inconsistency.
+F o r i t seems that if something is minutely different from a paradigm nacknick (in
+shape), then something which is, in that same direction, only a tiny, minute bit
+more different, will also be minutely different from the paradigm nacknick. But, by
+reasoning familiar from the previous section, we shall then have to conclude of any
+shaped object that it is minutely different from a paradigm nacknick. So, on our
+new paradigmatic condition, i t must b e a nacknick. But by our discriminative con-
+dition f o r ‘nacknick’, some such objects will not b e nacknicks. So, our paradigmat-
+ic condition will n o t provide us with a Consistent expression.
+         In reply t o this, the objection might have i t that a similar paradigmatic condi-
+tion applies t o our underlying quantitative vague expressions, for example, t o ‘mi-
+nute’. But is there any plausibility t o t h e idea that w e have a paradigm of something
+minute? What would this putative paradigm be? But, perhaps, then, we should ex-
+pand t h e quantitative expression that now is KO have a paradigm. What is it t o be:
+‘minutely different’, ‘minutely different from something as regards shape’, ‘minute-
+ly different from a paradigm nacknick as regards shape’; or what? The choice seems
+hopeless. F o r there seems n o paradigm that we have for any of these expressions.
+Moreover, the expressions t h a t have ‘nacknick’ as a component seem t o get ordi-
+nary learning the wrong way round, as before, while those that lack such a compo-
+nent seem too general to have much bearing o n the case a t hand.
+                                           WHY THERE ARE NO PEOPLE                   199
+
+      Even if both of the previous two arguments are discounted, and we presume
+that our paradigmatic condition is both easily learned and also results in no incon-
+sistency, that condition would not seem to serve t h e purposes for which it was in-
+troduced. For, as a third argument shows, the condition would then have it that
+our apparently vague expressions were actually precise ones, and so not vague a t all:
+We begin by remembering, from Section 3 , our truism that a given expression either
+applies to a certain object o r does not apply. This will hold true for ‘paradigm nack-
+nick’. Thus, this expression will apply to just those cases in a perfectly definite
+range, and to any others it will not apply. So, ‘paradigm nacknick’ will be a precise
+expression. By the same reason, ‘minutely different in shape from a paradigm nack-
+nick’ will also be a precise expression. So, both indirectly and also quite directly,
+we may reason that precisely the same will hold f o r t h e simpler ‘nacknick’ itself: it
+will be a precise expression and, as such, n o t a vague one. So, contrary t o all appear-
+ances, ‘nacknick’, as well as ‘stone’, will be absolutely precise, and thus will not be
+vague at all. This final failure of our paradigmatic condition suggests a thought
+whose importance goes beyond our interest in rebutting objections to our account.
+The only way for our apparently vague terms t o be vague is for them to be inconsis-
+tent. Were they n o t inconsistent, they should have to b e precise, which they are not.
+
+
+    6 . SORITES ARGUMENTS, COUNTERFACTUAL REASONING,
+                         AND OBSCURE DIMENSIONS
+The stepwise reasoning we have recently gone through, to exhibit the inconsistency
+in o u r invented expressions, ‘nacknick’ and ‘tinkergrid’, is hardly new to philosophi-
+cal discussion. Such reasoning is characteristic of sorites arguments, which, follow-
+ing the classical case of the alleged heap, or soros, seek to show that certain entities,
+ordinarily alleged to exist, in fact d o not. In Section 2 , we encountered one such
+argument, against the existence of tall men. T h a t argument, following tradition,
+was exhibited in a highly realistic form. With normal suppositions in force, the in-
+stances in the sequence over which reasoning ranged were all to be found in the ac-
+tual world. The realism was available for us, we might say, because of the relevunt-
+ly gradual nature of the actual world. This gradualness, and the attendant realism,
+is in one way all to the good: I t makes sorites arguments hard to dismiss, if nor to
+ignore, by serious thinkers who encounter them. But in another way, 1 think, a con-
+centration on realistic examples can be unfortunate: it can blind us t o the concep-
+tual basis of the arguments. So, to help illuminate this basis, let us engage in some
+suitably counterfactual reasoning.16 The appropriate reasoning, as will shortly ap-
+pear, is more thoroughly counterfactual, or hypothetical, than that usually encoun-
+tered in philosophy, as well as in everyday thinking. I t requires us t o imagine people
+living in a world different from ours who are themselves imagining a world different
+from theirs, in particular, a world just like ours. In a way, then, we might think of
+this reasoning as doubly counterfactual. But I cannot see that the extra imagination
+involved causes any serious difficulties.
+2 00       PETER UNGER
+
+        Suppose, then, that according to some law of nature, all of the men who ever
+lived, and w h o ever will, were either exactly ten feet in height or else nine feet, and
+ that they were aware of their heights. Now, let us suppose as well that, even with
+ this knowledge, these men had t h e same expression ‘tall man’ as we now do, com-
+plete with t h e same meaning; they might even speak English, or an exact counter-
+part. Supposing this, i t would be common f o r them to judge that all men were tall
+men. And, supposing them to be aware of the law governing their heights, they
+would judge further that all men would always be tall men, as indeed, in a sense,
+they must. These men could imagine a man of five feet six, of course, just as we
+can imagine one of six inches. But for them, such men would be only imaginary.
+        Could a philosopher among them, who wanted to construct a sorites against
+the existence of tall men, develop an effective sorites? I t seems clear to me that h e
+could d o as well as we now can. I t is just that his arguments, by our previous sup-
+positions, would b e conducted in a counterfactual manner. The philosopher would
+bid his fellows to consider a world just like ours in fact is, where the distribution of
+actual heights would thus be greatly increased in number and also shifted down-
+ward. They would agree that a man of six feet six would still be tall, but a man of
+five feet six would not be. Our philosopher would then have available a principle, in
+counterfactual form, corresponding to our first condition for qualitative vagueness:
+If a man of a certain height would be a tall man, then so t o o would be a man whose
+height would be n o more than a thousandth of an inch less. Thus, our philosopher
+could conclude that if there are any tall men, then a man of five feet six would be
+a tall man and also would not be one. Since h e now could reason that there really
+are n o t any tall men in t h e first place, our philosopher would have constructed an
+effective sorites against tall men, though h e employed counterfactual reasoning in
+t h e process. Thus, we have supported the idea that a sorites argument against tall
+men is essentially a conceprual argument, which fits in so well with our account of
+vague discriminative expressions.
+        Just as our account of vague expressions has it, our counterfactual sorites
+against tall men served to indicate that ‘tall man’ is inconsistent. Its inconsistency is
+generated by our t w o conditions for qualitative vague terms. T h e second condition
+says that an expression o f that sort will purport to distinguish, with respect to at
+least one relevant dimension of difference, those entities that satisfy i t from those
+that d o not. This condition, being quite general, does n o t specify or characterize
+t h e dimensions to b e involved. I t is u p to us in any particular case to pick o u t a
+relevant dimension, as a basis f o r our stepwise reasoning, o r else to conduct that
+reasoning in such a way that, we can b e confident, i t will cover a t least one such di-
+mension. In t h e case of ‘tall man’, our understanding of the expression allows US to
+b e confident t h a t height is relevant. With ‘stone’, as already indicated, n o such rele-
+vant dimension is ready to be so clearly specified: Size itself is n o t crucial. If you
+pour an Alice-in-Wonderland potion o n a stone, i t will get much smaller, but will
+still b e a stone (if one before). Perhaps, ‘sizein relation to structure’ is more like it,
+b u t I cannot say exactly what that means, much less how i t is to b e treated as a
+                                           WHY THERE ARE NO PEOPLE                  201
+
+dimension of difference. But we may build confidence, nevertheless, that ‘stone’
+is a logically inconsistent expression.
+       Toward this end, we may look for a variation or gradation in things that will
+have ssociated with it a relevant gradation in a t least one dimension that plays a
+discriminative role with ‘stone’. Our actual world, with its considerable divisibility
+of “material complexes” suggests to us a suitable procedure. By removing a single
+peripheral atom gently from an alleged stone, and then tossing it randomly away,
+one will progressively produce a sequence of entities, going down to a single atom,
+whose properties, with regard to a relevant dimension, will vary quite gradually.
+With this procedure, we remain quite in t h e dark as to what dimensions of differ-
+ence (are supposed to) form the basis of our term’s discriminations. But whatever
+ones they may be, we can b e confident that a t least one is covered by a sequence of
+entities, many millions in number, obtained in this systematic manner. Let us con-
+struct, then, a suitable sorites of decomposition by minute removals.
+        By having relevant properties vary gradually with our minute removals, nature
+conspires to suggest to us an effective sorites against stones, in a rather realistic
+form. For it is easy to find acceptable each of these two conditional propositions,
+a t least as true in fact:
+      (i) For anything there may be, if it is a stone, then the net removal from it of
+          a single atom, in a way most preservative of there being a stone in the situ-
+          ation, will not mean the difference as t o whether or not there is at least
+          one stone in the situation.
+     (ii) For anything there may be, if it is a stone, then it consists of more than a
+          hundred atoms b u t of a finite number of them.
+        These t w o premises, we may notice, will yield us a contradiction from t h e
+        rather common-sensical assertion
+      There is a t least one stone.
+For, consider any plausible candidate for stonehood: T h a t entity will consist of a
+finite number of atoms, say N, where N is greater than one hundred. That is assured
+US by our second premise. But, by our first premise we are told that by taking away
+an atom, we shall still have a stone, now one with N-1 atoms. According to that
+same premise, then, by stepwise reasoning, we shall have a stone even when what is
+before us is only an object consisting of ten atoms, or, indeed, even when we have
+n o atoms a t all. But this contradicts what (ii) tells us: as there are not more than a
+hundred atoms there, there is n o stone in t h e situation.
+       Now, it is, of course, not part of t h e meaning of ‘stone’ that any stone should
+consist of atoms, let alone more than a hundred but some finite number of them.
+Indeed, so far as I can discern, it is not even required by our term that any portion
+of a stone should be physically removable from the remainder. Further, providing
+that some is thus removable, and even removed, there’s nothing in ‘stone’ which
+says that the rest will n o t suddenly vanish, or suddenly serve to constitute some-
+202        PETER U N G E R
+
+ thing utterly different, f o r example, an exotic plant. That none of these things hap-
+ pen, and that our argument proceed in way of a gradual sequence of suitable enti-
+ties is, we might say, wholly a matter of worldly, contingent fact. But as presented,
+our sorites against stones might seem to depend o n these suppositions. This appear-
+ance is easily dispelled, however. For we may combine t h e idea of counterfactual
+reasoning, previously discussed, with t h e systematic procedure used for obscure di-
+mensions just developed. Without going into much derail, we may imagine a philos-
+opher, with our same language, living in a very different world from ours, where his
+alleged stones cannot be decomposed. But, if he were imaginative enough, he could
+contemplate a world just like ours,where stones can be appropriately picked apart.
+If his world contained stones, then so too would ours, he could reason. Then he
+could show himself that ours would not and, thus, none anywhere.
+       We are next to pass to a direct discussion of ‘person’, and of putative people.
+Pursuing the ideas so far developed, we shall argue that t h e expression canoot be
+satisfied, and that there really are n o such entities as people. Before we d o so, I
+should note briefly that many objections have been raised against sorites arguments,
+even against what might be regarded as t h e most realistic sort. While I think there is
+little merit in any of these objections, i t is not a main purpose of mine here to meet
+them. To the extent that my present account is well argued, of course, that pro-
+vides some support for sorites arguments. Thus, indirectly, the account gives a reply
+to all objections to these reasonings. But I leave to other places the matter of de-
+tailed responses to particular objections.”
+       To give you an idea, however, of what one must accept if one is to reject
+sorites arguments, I shall just mention two points that I discuss elsewhere.’* First,
+t o reject o u r sorites against stones, we must accept this: there will be certain stones,
+composed of many billions of atoms, whose continued existence, with no atoms re-
+placed, requires every single one of these billions! Can you believe that there are
+ever any stones whose essence is as refined and tenuous as that? A second thought,
+o n rhe side of language, mirrors t h e first: Consider t h e sentence, “There is a stone
+before m e now,” and discount all problems of vagueness except those most direct-
+ly concerned with ‘stone’. With a promising candidate for stonehood before you,
+imagine peripheral atoms extracted in‘the style of our sorites. We are to evaluate
+the sentence after each net removal. We suppose t h e sentence a t first to express a
+genuine statement that is true. But can a single atomic removal alter t h e proper
+evaluation? To suppose i t can requires us to suppose an enormous sensitivity o n the
+part of our word ‘stone’. This, I suggest, is quite incredible.
+
+
+                  7 . THE INCONSISTENCY OF ‘PERSON’
+I t is now time to extend t h e results so far obtained to t h e key expression ‘person’.
+I shall argue that chis term is a qualitative vague discriminative term and, as such, it
+is inconsistent. Accordingly, as nothing then Satisfies the expression, anymore than
+anything satisfies ‘perfectly square triangle’, there are n o people. Like perfectly
+square triangles, people are logically impossible entities.
+                                           WHY THERE ARE NO PEOPLE                  203
+
+       Should we arrive a t such a negative result for people, a paradoxical situation
+will arise. Briefly, if there is n o t anybody, then there is n o one to understand these
+alleged accounts, arguments, and conclusions to that effect. So, perhaps, these last
+may themselves b e negated or dismissed as “self-defeating.” But, if our account is
+otherwise unobjectionable, we may then employ i t again, t o complete a paradoxi-
+cal circle and begin a new one. Now, in the section directly KO follow this one, I
+shall argue that this admitted paradox cannot seriously nullify our nihilistic account.
+But, first, in this present section, I shall argue that the paradoxical situation cannot
+be avoided. I shall argue, that is, that o u r account of vague expressions Cannot be
+brought to rest a t some relatively unproblematic stopping point.
+       The expression ‘person’ is a vague discriminative term and, as such, an incon-
+sistent expression. T o Support this thought, suitable sorites arguments shall be
+sought. Now, as with ‘stone’, 1 have n o very good idea how to specify adequately
+those dimensions of difference with respect to which ‘person’ purports to make
+discriminations. I t is n o t that I have nothing a t all to say on the matter: Perhaps,
+power of thought, o r intelligence, provides one such dimension; perhaps Capacity
+for varied feelings and experiences provides one. But I should prefer t o regard these
+proposals as primarily illustrative, and to construct our Sorites arguments on the
+basis of ideas in which 1 have more confidence. Toward this end, we recall our ex-
+perience with ‘stone’, for we had success there by adopting a procedure that re-
+quired n o specification of dimensions. So, let us look for a sorites of decomposi-
+tion by minute removals that will work well for ‘person’. We may best begin in a
+moderately realistic vein. Then we can move ro the utterly fantastic, so that the
+conceptual nature of the argumenrs may b e more clearly perceived.
+       In our common thinking o n the matter, though this was not always so, it is
+supposed that there are some people, if not all, who are composed of many cells,
+though of a finite number. W e distinguish, of course, between a person and his
+body. But, then, while we think the body to be of a certain weight, and to be com-
+posed of such cells, we also think the person himself t o be. Now, some people, I
+suppose, d o n o t g o along with this idea and think that, whatever might be true of
+the body, the person himself never consists of any cells, o r of any other spatially
+extended things. But even these people, I imagine, will agree that, in the case of
+many people, each of whom has a body, there is a certain close association, or in-
+timate relation, whatever its specific character, between each of these people and
+his or her respective body. (That intimate relation, for all I am saying, might be
+that of identity.) And, n o doubt, they will also agree that there is a close relation,
+perhaps another one, between each of these people and those cells serving KO com-
+pose his or her body. So, all of us may agree that if there are any people a t all,
+then some of them, a t least, are in a close association with certain cells, or with
+certain groups o r complexes of cells, and that each such suitable group, while con-
+taining more than ten cells, has only a finite number of cells in it.
+       Now, I think that another thing we agree o n is this: that if there is a person in
+a situation, and that person is in some such aforesaid close relation with a certain
+group of cells, then, if only one cell is removed from t h e group, and this is done in a
+2 04      PETER UNGER
+
+way most conducive to there being a person in such a close relation with the re-
+maining cells, then there will b e a person in t h e situation after the removal. In cer-
+tain instances, of course, this way will have to include the importation into the sit-
+uation of certain life-support apparatus, and of certain items for supporting con-
+sciousness. F o r matters with people seem more complex than with stones, however
+unreal all of these may eventually prove to be. We may say, then, that whatever
+substances o r properties are supported by some cells, so t h a t a person is there in
+close association, they will also be supported, and in sufficient degree, with only
+one cell less, providing, of course, that t h e lesser complex is so chosen, and so al-
+lowed to function, that it can d o as good a j o b a t such supporting as is possible for
+a group obtained by such a slight removal. Of course, in the cases to be considered,
+the imported material does n o t replace cells; rather like a kidney machine, it just
+helps cells, and what they serve to constitute, to function.
+         These shared suppositions yield a sorites argument to the effect that there are
+n o people a t all. For, if any person is closely associated with a certain group of
+cells, say, N in number, so will one b e there with a group of N-1 cells. I suppose
+that, as matters progress, we shall get down to a brain, in a vat, then half a brain,
+then a third, and then a sixteenth. In each case, we must say, there is a person in
+the situation, one w h o is in a special close association with t h e remaining cells.
+Eventually, there are b u t three living cells in some sort of combination, and i t must
+be said that there is a person there. But we have also agreed that, with n o more than
+ten cells, there will b e n o such associated person. Thus, supposing there to b e a per-
+son a t rhe start, there both is and is not a person in close association with our three
+cells. Of course, this argues that there never are any people in close association with
+any groups of cells. So, finally, we may conclude, there really are not any people
+a t all.
+         With an appropriately realistic argument before us, i t is now time to reason
+counterfactually, so as to see the conceptual basis of t h e idea that there are n o
+people. Let us imagine a world in which there are entities that we should consider
+persons, and that consider themselves as such. We shall suppose that these putative
+people have a language just like ours. They are a bit more intelligent than we, but
+their powers of imagination far exceed our own. Their greatest differences from us,
+however, are these: unlike us, these people have n o physical existence; they have n o
+bodies nor are they in any very close relation with any physical phenomena. Fur-
+ther, as a matter of imagined fact, they are neither divisible, diminishable, nor even
+susceptible of any major change. Each of them has always existed and always will
+exist, and always is a t o r near rhe peak of his sensibilities and powers. So, these be-
+ings are, I suppose, quite as some philosophers have supposed ourselves really to be.
+Finally, let us suppose that there are n o other sentient beings in this world.
+         Consider a critical philosopher among them. H o w might he convince himself
+that his term ‘person’, which is t h e same as our expression, is a logically inconsis-
+tent term? Now, h e has n o relevant gradations in reality to help him base a sorites
+argument. And, we suppose, i t is not clear to him either how to specify the dimen-
+sions of difference with respect to which ‘person’ purports to discriminate. Now,
+                                           WHY THERE ARE NO PEOPLE                 205
+
+what this reasoner should d o is try to supply himself with a sequence of imagined
+entities that differed gradually with regards to a t least one such relevant dimension.
+While by our poor standards it would take a great feat of imagination, how better
+for him to d o this than to imagine a world Just like ours is (supposed to be) in fact?
+In this world, thus imagined by him, whatever features were relevant would be sup-
+ported by brains, each of which was composed of billions of cells.
+       Our philosopher, in particular, might imagine someone exactly like you your-
+self; living, kicking, breathing, and thinking, if anyone ever does, in just such a
+world as you now find yourself t o be. He would think to himself, we may suppose,
+first, that if anyone is a person, then this being like you would be a person, for that
+is our same word, ‘person’, that is figuring in his premising. What more would that
+free spirit endeavor t o think? Well, we might imagine, he could say t o himself that,
+ under the total circumstances imagined, if there is indeed a person just like you,
+ then.so t o o will there by a person when a single cell is removed, most conducively
+for the continued support of a person, from those that may have supported t h e
+ original candidate. Far better than we can d o , h e could imagine in detail the impor-
+ tation of those lifesupport and consciousnesssupport systems involved in a most
+ conducive way, so as to establish a suitable sequence of entities. Of course, he can
+imagine this while starting, not only with an imagined counterpart of you, but with
+that of any of a great variety of t h e putative people we suppose t o populate our
+world. For our world, in general, he could then premise that a single cell removed,
+in such a circumstance and manner, will never mean t h e difference between a t least
+one person being in t h e Situation and there being none. For he could reason that, in
+such a world, n o one cell will mean a difference, o n t h e dimensions in question, to
+which ‘person’ is sensitive. Further, our thinker could say that, in this world, when
+ there were n o more than ten cells in a relevant group or complex, then there would
+b e n o person in the situation. From these premises, by familiar stepwise reasoning,
+ our philsopher would now conclude that if a being like yourself would be a person,
+then, with ten cells supporting a t their best and utmost, there both would be a per-
+son in close association and also would not be. Thus, he should conclude that the
+being first imagined, the one just like you yourself, was never any person in the
+first place. And, finally, by his very first premise, he could now reason that there
+were not, or are not, any people a t all. Thus, without any reality to help him, our
+imagined philosopher could see for himself that there could never be any people,
+even while having n o clear idea how to specify what dimensions of difference served
+to determine the impossibility thus perceived.
+       I have made my imagined philosopher a most pristine soul, a being whose
+“nature in itself” would seem immune to sorites arguments. Moreover, if he appre-
+ciated his nature, that awareness would d o nothing to suggest our word ‘person’.
+But so long as this being does share our expression, he may reason to expose its
+inconsistency and, thus, its lack of application. To make these points, I made m y
+imagined philosopher as described.
+       There is another reason, too, for my giving this being such a logically unob-
+jectionable nature. F o r philosophers have sometimes suggested that o u r own natures
+2 06       PETER UNGER
+
+are much as I have stipulated his to be and, what is perhaps more interesting here,
+even that our term ‘person’ analytically requires such a nature for its application.
+Now, let us suppose that any being with such a narure as that cannot be dimension-
+ally compared with, o r related t o , any other being. With these suppositions in force,
+we may advance, f o r ‘person’, a condition of incomparability:
+       (3p) If an entity satisfies ‘person’, then there is no dimension of difference
+            such that with regard t o it there are entities which differ from that pu-
+            tative satisfier.
+According to this condition, there will be n o entities that thus differ minutely, or
+substantially, from a satisfier. So, one might well think that were such a condition
+to hold for ‘person’, b u t perhaps not for ‘stone’, then, unlike ‘stone’, ‘person’ might
+be a perfectly consistent term after all.19
+       But this supposition of consistency for ‘person’ would be much mistaken. For
+as our sorites arguments indicate, ‘person’ is a vague discriminative expression and,
+whatever else may be true of it, t h e term is governed by (1) and (2), o u r dimension-
+al conditions of vagueness and of discriminativeness. So long as these conditions d o
+govern it, which we have seen no good reason to deny, the expression will be incon-
+sistent. Whatever further conditions may govern it as well cannot erase the two for
+which we have argued o r , then, t h e contradictions t h a t they serve to generate. This
+incomparability condition, if there be one governing ‘person’, will not make matters
+better for the term. O n the contrary, it will serve only to compound the term’s
+troubles. For taken together with either of our prior two conditions for ‘person’,
+the incomparability condition, (3p), yields a contradiction from t h e supposition
+that any entity satisfies the term. For, by either of t h e prior two, if there is a per-
+son, then there are entities that differ dimensionally from any satisfier. And, by our
+new condition, if there is a person, then there are no such entities. Hence, if there is
+a person, then there both are and also are not such dimensionally differing entities,
+which is absurd. Hence, by (1) and ( 3 ~ ) and  .    also by (2) and (3p), there are n o
+people. Supposing an incomparability condition for ‘person’, we should say, not
+that it is a consistent term, but, on the contrary, t h a t “person” is inconsistent f r o m
+multiple sources.
+      The inconsistency of ‘person’ means that n o people exist; they can exist n o
+more than can perfectly square triangles. Do I exist, then, b u t a m no person after
+all? Things would seem otherwise: If I exist, then there is a t least one person. So,
+as there are none, there is no me. This result, paradoxical to say the least, can be
+obtained as well by sorites arguments where there is a purported direct reference to
+myself, by means, f o r example, of such terms as ‘I1, ‘Peter Unger’, and so on. T h e
+most imaginative of our counterfactual sorites arguments might b e o u t of place
+with these terms, o r a t least might have a rather different bearing o n t h e issues. Our
+more realistic versions, however, will have obviously close parallel arguments. Take
+away one peripheral cell from Peter Unger, with suitable lifesupport systems in
+place, and that will n o t mean t h e difference between Unger and n o Unger. But,
+with ten cells there is n o Unger. So, there never was that Unger.
+                                           WHY THERE ARE NO PEOPLE                  207
+
+      T h e analysis of, or the account of, even the most realistic arguments with
+such singular terms will require, of course, t h e presentation of conditions that logi-
+cally govern t h e key singular expressions. N o doubt, these conditions will be impor-
+tandy analogous to those given here for qualitative vague terms; perhaps our sug-
+gestions f o r such terms as ‘door’ will be of some help. But these analytical questions
+take us beyond our topic.
+      More to the present point, ‘person’ is hardly the only qualitative vague ex-
+pression whose inconsistency means much difficulty for us here. For example, the
+expression ‘entity with a capacity f o r thought’ means similar troubles for us, how-
+ever that expression may relate to ‘person’. For the arguments that point u p the in-
+consistency in ‘person’ will d o as much for this longer expression. Moreover, as this
+expression is of the purely qualitative sort, even the supporting account of the argu-
+ments will be along t h e same familiar lines. Thus, for quite familiar reasons, it may
+be concluded that there are n o entities with a capacity for thought. As with thought,
+n o capacity for experience could be ours, nor for feeling, nor for anything of im-
+portance. As regards each of these negative matters, we have, paradoxically enough,
+not only adequate arguments, b u t accounts of how those arguments work adequate-
+ly. For t h e key expressions involved are, in each case, vague discriminative terms of
+the purely qualitative sort.
+
+
+ 8. THE INABILITY OF PARADOX TO NULLIFY THIS ACCOUNT
+Paradox, already indicated, can easily be made manifest: if there are no beings with
+any capacity for thought, then n o argument or statement can b e understood, or ac-
+cepted a t all, and so none to the effect that there are n o such beings. So i t seems
+that we are driven back logically to the assertion of o u r existence, of the existence
+of beings that can think. Thus, there is next t h e implication that our expressions
+‘person’ and ‘thinking being’ d o indeed apply. And so, finally, we have t h e implica-
+tion that these terms are logically consistent ones. But things d o not really stop
+here, either. For, along lines that are by now familiar, we may in turn reduce these
+asserrions to absurdity. Thus, their negations obtain, including the proposition that
+there are n o beings with any capacity for thought. T h e reasoning goes around and
+around. What are we to make of this paradoxical situation? Should we hold OnKO
+common sense robustly and say that the only genuine errors are in our account of
+vagueness and in its connecting sorites arguments? Following this course, we might
+better try to b e comfortable. For then thoughts of absurdity will be harder to keep
+in mind. But perhaps, “so to uy to say,” paradox does little to nullify the basic
+point and value of our radical account and arguments.
+      In available terms, for Want of any better, I have argued that many of our
+common expressions are logically inconsistent terms, including such key expres-
+sions as ‘person’ and ‘entity with a Capacity for thought’. Much of my argument
+began with the invention of a term, ‘nacknick’, for which inCOnSiStent inStrUCtiOnS
+were given in its very introduction. Then, as our sorites arguments progressively in-
+dicated, there appeared no logically relevant difference between ‘nacknick’ and
+208       PETER UNGER
+
+such common expressions as ‘stone’ and even ‘person’. To b e sure, the latter terms
+are not learned from any explicit instructions a t all. But there is still a parity of in-
+consistency, or a t least a very strong suggestion of it, that supports my account of
+the ordinary terms as logically inconsistent. Despite whatever paradoxes our ac-
+count may engender, then, how can this apparent parity be rationally denied?
+       To deny the shared inconsistency, one cannot rationally rely on pointing t o
+paradox. For, let us consider the implications of our lessons with ‘nacknick’. Now,
+as this term concerns only the shape of objects, it is idle to suppose that it might
+yield the sorr of paradox that an expression like ‘thinking being’ was recently ob-
+served to do. What is less idle, however, is to imagine that inconsistent instructions
+were, a t a suitable point, imposed upon t h e learning of such terms as ‘person’ and
+‘thinking being’. Let us imagine, then, a society much like ours, with this excep-
+tion: After normal early learning bad occurred, explicit inconsistent instructions
+were given to the moderately young. Thus, children would hear words like thise:
+“Typical vague words that you have learned, like ‘stone’ and ‘person’, will now be
+more clearly revealed to you. To begin with, each of you should know that each of
+these words serves to discriminate, o r distinguish, different sorts of things. So, the
+word ‘stone’ distinguishes between t h e stones and everything else, which differ so
+from stones that they d o n o t fit the meaning of the word. Of course, this word is a
+vague one, and you should know this about it too: if something is a stone, and so
+fits the word ‘stone’ properly, then anything that differs from i t only a little bit will
+also fit the word, that is, will also be a stone. To be sure, there is n o definite limit as
+to how much something may differ from a stone and for i t yet to be a stone. All of
+this, you are to understand, is part of what it is for t h e word ‘stone’ to be a vague
+word while still allowing us to make useful discriminations with it. And, of course,
+these points apply just as well to other typical vague words, for example, to such
+words as ‘house’, ‘person’, ‘red’, ‘soft’, ‘tall’, ‘running’, ‘thinking’, and so on. Now,
+none of this should come as a surprise to any of y o u ; in fact, in a way, you have
+known it already. But i t is just as well f o r us to be explicit about these things, for us
+to have them o u t in t h e open.”
+       What results would such instructions have if they were often involved in
+teaching routines? As t h e people in this society are to b e much like ourselves, it
+must be supposed that they will master what they are thus taught, should much
+training be imposed. Later in life, even, should someone manage to claim some such
+word to b e precise, t h e people will appeal t o the teachings, which they could recite
+with little distortion. Thus, if someone said that a stone could not be less than one
+inch in diameter, b u t that it could be less than one and one millionths inches, he
+would be accused of violating the meaning of ‘stone’ just as we should accuse him.
+Unlike us, however, t h e people in this other society, to support t h e charge that such
+a claim of precision is in way of being an arbitrary stipulation, would appeal to the
+explicit, repeated teaching routines. They would appear to be in a quite obviously
+good position, then, to claim that there is indeed a stipulation here and, moreover,
+one which conflicts with t h e learned, accepted meaning of the word.
+                                             WHY THERE ARE NO PEOPLE                   209
+
+        Now, let us suppose that, just as I a m doing f o r our own words, a philosopher
+in this society puts forward the idea that typical vague terms are inconsistent. This
+is hardly an arbitrary supposition now, given what we have already imagined. For if
+I have supposed as much with n o such explicit teaching to suggest the thought to
+me, how much easier it will be f o r a thinker who is amidst so much apparent incon-
+sistency. Focusing on the teaching, h e would point o u t the inconsistency in the in-
+structions. Now, in that society, since t h e people are assumed to be much like us,
+there would be thinkers of a rather conservative bent, who would wish to cleave to
+the accepted thinking of their culture. How should these conservatives defend that
+thinking; how should they rationally reply to t h e nihilistic critic?
+        Whatever replies may be open to them, i t seems to me that among rhe least
+effective of these would be an appeal to comprehensive paradox. True enough, if
+such expressions as their ‘person’ and ‘thinking being’ are logically inconsistent, as
+the explicit instructions for them indicate, then they would have to conclude that
+n o one-could accept, or even understand, the critic’s arguments. But if the matter
+were allowed to rest there, or even if t h e burden of argument were thought to be
+substantially shifted, those conservative thinkers would display terribly little philo-
+sophical sense, and virtually n o depth of thought or understanding. Generally, we
+may note that any thoroughgoing radical critique of a language, or a system of
+thought, conducted in the terms or concepts of what is criticized, must, of course,
+have this paradoxical quality. But this does n o t mean that such a criticism cannot
+be, so to try to say, appropriate to its object. In the society now under considera-
+tion, whatever most of its members may think on the matter, such a criticism will
+b e quite appropriate indeed.
+        Now, it seems clear to me that t h e situation is n o t relevantly different in our
+own case. I t is, of course, true that things are not exactly the same with us, for we
+have had n o explicit instructions f o r our typical vague terms, much less have we any
+that are inconsistent. But, as our arguments have indicated, what our imagined SO-
+ciety’s members will have learned explicitly we seem to have learned implicitly. The
+logic of our expressions is not a t variance with theirs. So, i t is most unlikely, 1 sub-
+mit, that pointing to paradox will be futile against their radical critic b u t rational
+against a critic in our less explicit society. As i t will n o t be rational there, so it is
+n o t rational here. Pointing to paradox, then, does little or nothing to nullify these
+present efforts.
+        The point that paradox cannot nullify our account will stand just as well
+should we agree that, in addition to the paradoxical situation already noted, various
+other, perhaps deeper, paradoxes are consequences of our account. For example, it
+might be held that if there are n o entities with any capacity to think, or to use lan-
+guage, then there will be n o sentences, or any other expressions. And, it might be
+held that if there are none of these latter, then there are n o statements or proposi-
+tions, n o arguments or accounts of any sort, and not just none that are ever under-
+stood or accepted. If this may be maintained, then fuller, or more direct, paradoxes
+can be added to our account’s consequences. But, as our discussion has already in-
+210          PETER UNGER
+
+dicated amply, this will d o little to worsen matters for us. For, whatever paradoxes
+our account should engender will all be rationally treated alike. They all will best be
+taken, it seems clear, as showing the comprehensiveness of our radical account,
+rather than its futility.
+
+
+         9. A REEXAMINATION OF OUR ARGUMENT FROM
+                           INVENTED EXPRESSIONS
+Our account of vague expressions has been provided. I t has given support to our Ar-
+gument from Invented Expressions, support which will n o t be nullified by any
+charges of paradox. If we are to maintain common sense still, and hold that there
+really are people, we must object to one of the premises of that Argument, though
+few courses for such an objection appear still to be available. To take last things
+first, there is little to be said against the Argument’s final premise:
+      (111) If the expression ‘person’ is logically inconsistent, then there are n o
+            people.
+F o r a denial of it, as I have argued in Section 1, will rest only upon a confusion. So,
+objections must come against its first two premises, for t h e Argument’s form is not
+faulty. A t the outset of o u r reexamination of them, we note that a t this point these
+premises look well supported. So, now, 1 suggest, the burden of argument is on any
+attempted objection. Can this burden be shouldered effectively?
+        Let us reexamine o u r second premise, in an attempt to review matters back to
+our beginning:
+      (11)    T h e expression ‘person’ is logically on a par with ‘nacknick’; if the lat-
+              ter is inconsistent, then so is t h e former.
+So far as we have been able to discern, from our early experiments onward, there is in-
+deed this logical parity. If t h e matter is just an empirical, o r contingent, or causal one,
+to be decided primarily by experiment and observation, then parity seems surely right.
+F o r only the most tortuous and forced interpretation of o u r recent experiments and
+observations would have things be otherwise. F o r an objection to (11) to be a t all
+plausible, then, it must b e maintained that it is for some conceptual o r logical rea-
+sons that there is a disparity between our invented expression and our ordinary one.
+Now, we have already argued that, whatever else may be true of it, ‘person’ is a qual-
+itative vague discriminative term. As such, it is logically on a par with such other, less
+central common expressions as ‘stone’, ‘tall man,’ and ‘cubical object’. So, in effect,
+what the objection must claim is that there is a logical barrier to a parallel between
+‘nacknick’ and ‘cubical object’, and even ‘object whose shape is quite similar to that
+of a cube’. But how might t h e claim of such a logical barrier be rationally supported?
+        T h e support required would have to come in t h e form of ‘logical’ truths,
+which would logically yield the statement of n o logical parity. But anything that
+might be even plausibly considered a logical truth appears quite inadequate to pro-
+                                           WHY THERE A R E NO PEOPLE                 21 1
+
+vide the needed deduction. Here is an example of the problem, with a candidate for
+relevant logical truth that is much better than most I have examined: One must
+understand an invented expression, if one understands it a t all, in terms of a set of
+expressions (each of which is not invented and) each of which is consistent. While i t
+might later be doubted, let us now grant that, in a relevant sense, this is indeed a
+logical truth. But, even so, of what use will it be in deriving logical disparity be-
+tween invented and ordinary vague expressions?
+        We have already encountered an invented expression which, if any ordinary
+term satisfies this offered condition, quite nicely meets the alleged requirement.
+That expression is ‘tinkergrid’, which 1 introduced and discussed in Section 4.Dis-
+counting any minor lapse, I showed there that, unlike both ordinary vague terms
+and also the invented ‘nacknick’, the invented ‘tinkergrid’, while i t was indeed in-
+consistent, had inconsistency which was relevantly grounded. What seemed to hold
+only between ‘nacknick’ and the ordinary terms, none of which appear to satisfy
+o u r offered requirement, was t h e further parallel of having groundless inconsisten-
+cy. So, even if we grant the offered requirement, the most it could logically yield,
+it should be clear, is that ordinary vague expressions will differ from ‘nacknick’ as
+regards the source or nature of whatever inconsistency they might have. T h e parity
+we are concerned with, however, concerns whether, like both ‘nacknick’ and also
+‘tinkergrid’, typical vague expressions are, in any way, and from whatever source,
+logically inconsistent. As regards the required disparity, then, the offered require-
+ment, even if logically true, is powerless to yield any result.
+        While our reconsideration of ‘tinkergrid’ has shown the offered requirement
+to be irrelevant, it suggests as well great doubt as to its truth. I t seems incredible to
+suppose that we might have invented a term like ‘tinkergrid’ to parallel our ordinary
+vague terms but failed with ‘nacknick’. For of the two useful, inconsistent inven-
+tions, it is the latter that seems to provide the closer parallel here. So, o u r problems
+compound: to have a (logical) truth presented in the first place, we are constrained
+to weaken our alleged requirement. Perhaps the following has a decent chance for
+truth: One must understand an invented expression, if a t all, in terms of a set of ex-
+pressions (each of which is not invented and) a t least some of which are consistent
+terms. But, now, we have available to yield contradiction, in addition to the clashes
+between consistent ideas that ‘tinkergrid’ displayed, the inconsistency in various
+vague expressions (which are n o t invented).
+        The experience we have just suffered is typical of what I have encountered in
+m y examination of objections to ( I I ) , the second premise of our Argument. The
+more an offered proposition looks like it might be a logical truth, and so suitable
+f o r a counterargument in that respect, the less it looks relevant to yielding t h e re-
+quired deduction of disparity. N o candidate, then, of which I am aware, looks very
+promising, and n o suitable counterargument appears forthcoming. While these mat-
+ters must, perhaps, always b e somewhat inconclusive, it thus seems to m e that there
+is no good objection to the apparent logical parity between the invented and ordi-
+nary expressions.
+212       PETER UNGER
+
+      There is only one place left for an objection to be effective against our Argu-
+ment, namely, in the place of our first premise:
+      (I) The invented expression ‘nacknick’ is logically inconsistent.
+This question brings us back to the beginning of our essay. Could we have misinter-
+preted our little learning experiments, so that the apparently obvious and rational
+interpretation was really out of place all along? As with (II), if the matter is essen-
+tially an empirical, or contingent one, there would be little chance indeed that we
+have been misinterpreting things, and that some ingenious complicated hypothesis
+must be preferred. Thus, the objection must be that there is some logical barrier to
+the truth of our first premise. But how might it be argued .that we have been labor-
+ing under such an intellectual illusion?
+       The occurrence of a definite description at the head of our premise, “the in-
+vented expression ‘nacknick’,” may trigger the response that there may in fact
+never have been any such invented expression. If so, then this premise will fail of
+truth, whatever other status should then be accorded it. Now, it is clearly no good
+to deny the thought that if there is any expression ‘nacknick’, then it is an invented
+term. But it will also d o no good to challenge the premise on the ground that there
+is n o expression ‘nacknick’ at all. For anything which will serve to argue that much,
+it appears, will undermine as well the idea that there are ordinary vague expressions,
+including ‘cubical object’ and ‘person’. The paradoxical consequences of our own
+account, for example, can be used to this effect against the premise; but they will
+undermine as well any typical vague expression, including ‘person’. So, this is no
+good way to challenge our premise, as it gets rid of the baby along with the bath
+water. Similar maneuvers will prove to n o better critical effect. For example, it is
+n o good to find ‘nacknick’ an expression but a meaningless one, for how should
+‘cubical object’ and ‘person’ then prove meaningful? The only plausible manner of
+objection, then, will allow ‘nacknick’ as an expression that either is consistent or
+else inconsistent.
+       I t remains to object, of course, that this invented expression cannot possibly
+be, in any sense that it might have, an inconsistent expression. I t appears that the
+teacher, at least, has an understanding of such an inconsistent term, but this appear-
+ance, the objection continues, must be an intellectual illusion. How might this be
+cogently maintained? I suspect that an idea which might motivate this objection is
+the by now old one that meaning is use, or is a function of use, though perhaps in
+one of that idea’s newer guises or forms. But, in whatever form, this idea looks
+quite unrealistic. Even when we consider terms that are not vague, and which may
+be allowed as consistent, there seems little value in this approach. Consider a sur-
+face. With certain purposes in mind, someone may say “This is flat,” his idea being
+that the surface is suitable for those purposes. Weeks later, he may return with
+other purposes, and say of the same surface “This is not flat,” and then turning to
+another surface may say of it “That one is flat.” But, we may suppose, the original
+surface did not become any less flat, and even may have been somewhat improved
+in that respect. Weeks later still, with a third set of purposes, the same individual
+                                            WHY THERE ARE NO PEOPLE                  213
+
+may declare the second surface to be not flat, now declaring a third surface to be a
+flat one. And, so it may go, half a dozen times or more. How is this most plausibly
+to be accounted? Surely, the meaning of the words did not relevantly change. And,
+just as surely, the meaning of ‘flat’ does not concern anyone’s purposes. The real-
+istic explanation, I suggest, involves supposing that none of the surfaces here ever
+are f l a t , and that while actually speaking falsely, the man is informally implying in
+each case something like this: The currently indicated surface is sufficiently close
+to being (absolutely) flat so as to be suitable for the purposes the speaker and
+hearer now have in mind.”
+         If even apparently consistent terms are best accounted by thus distinguishing
+meaning and semantic application from the uses to which the words are put, at least
+as much should be expected where the terms appear to be inconsistent expressions.
+I think we may do well now to consider once again our invented term ‘tinkergrid’.
+This is a term that is to apply only to certain abstract, mathematical objects. To say
+of a wooden structure that it is a tinkergrid is, just for this reason, a plain failure to
+speak the truth. If use is to match with truth and meaning here, it will have to come
+from quarters much further removed from directly observable behaviors and stimuli.
+Perhaps we might ask various people to try to imagine tinkergrids. Various people,
+perhaps unaware of any inconsistency, will frequently allege success. They are using
+the term to describe what they imagine. But, 1 think we may agree that they can be
+imagining no such thing, and that a literally accurate description of what they
+imagine can be given only in some other terms. To go on multiplying examples and
+considerations would be inappropriate for us now. To be sure, it is most unlikely
+that anything can be said on these matters that will prove absolutely conclusive.
+But, lacking such certainty, perhaps we may still agree that I have invented some
+inconsistent expressions, even if those terms are well suited for our use.
+         At this point, a subtler, and somewhat more plausible, objection may be at-
+tempted. The idea here is to grant that ‘nacknick’ is an inconsistent expression, but
+to deny it much of a place in our experimental learning situations. I t is not obvious,
+however, precisely how this will serve to challenge our Argument. So, let us discuss
+the matter.
+         The attempted objection may take any of several forms, but they are all more
+or less equivalent to this: our ‘nacknick’ is a term with two (or more?) meanings. In
+one sense, which i t does seem forced to deny it, the term is indeed an inconsistent
+one. In this sense, however, the objection continues, the term is not a useful expres-
+sion. The sense in which the term is useful is another sense, in which the term is
+consistent. And, what has happened in the learning situation? The teacher has in-
+tended by his instructions, to inculcate in his hearers (or readers) the expression
+‘nacknick’ in its inconsistent sense. But what his instructions actually have done is
+to suggest to the hearers another sense for the term, a consistent useful one. The
+hearers then learn ‘nacknick’ only in this latter sense; the former never gets further
+than the teacher’s sounds or marks.2’
+         This objection, we may see, attempts to force an equivocation upon our Ar-
+gument. Interestingly, the term upon which the equivocation focuses is not a com-
+214       PETER UNGER
+
+mon, accepted one, but is our invented ‘nacknick’ itself. For the Argument to seem
+to work, ‘nacknick’ must have one meaning in the first premise, on which the term
+is inconsistent, and another meaning in the second premise, on which the term is
+consistent. As the Argument thus eqhivocates, it is not a cogent piece of reasoning.
+        This objection has some plausibility, but it will not bear scrutiny. For it to
+work, we must suppose that the only way for ‘nacknick’ to be logically on a par
+with ordinary vague terms, in particular, with ‘person’, is for the new expression to
+be taken in a consistent sense. But, might not rhere be a deep parallel here between
+the two, so that ‘person’ as well as ‘nacknick’ has an inconsistent meaning? If SO,
+then our Argument will not equivocate, but will concern both terms, as regards
+their inconsistent meanings. As such, it will be a cogent piece of reasoning, though
+perhaps a bit limited in its scope.
+        My suggestion of this deep parallel implies that the inconsistent sense for
+‘nacknick’ did get further than my marks or sounds, that it was inculcated in you.
+What might support this suggestion? We remember our instructive society, where in-
+consistent instructions for learned ordinary terns became a matter of widespread,
+repeated scholastic drill. Now, we need only extend our experiments with ‘nack-
+nick’ to match their drills with ‘stone’, ‘cubical object’, and ‘person’. So, let us
+imagine that after I taught you ‘nacknick’, we went over the instructions so much
+that you had them down pat. In such a case, there is no plausibility at all in suppos-
+ing the inconsistent sense got n o further than my marks or sounds, and never enter-
+ed your learning. For, now, you would be confident that the aforesaid instructions
+governed your ‘nacknick’, which you had learned from me. Indeed, after you per-
+ceive the inconsistency in your term, you will be able to say of other expressions,
+which are not thus inconsistent, that they are thus different from the expression
+you just learned. Thus, you will say that ‘perfect cube’ is logically quite different
+from the term you learned from me. But, of course, you will be ready to use ‘nack-
+nick‘ for many objects anyway and to withhold it of many others. I t appears quite
+easy to tell how our extended experiments will turn out, and what those results
+show. For what occurs there explicitly also occurs, implicitly, in our original ex-
+periments.
+        Now, none of this is to deny that my instructions may have inculcated in
+you, in addition to ‘nacknick’ in the inconsistent sense, a consistent sense for the
+expression. And, it is not to deny that this consistent sense may have been impor-
+tant, even essential, for the term’s being a useful one for you. I think these last pos-
+sibilities to be, in fact, quite unlikely. But there is still some plausibility in the idea
+of them. What is important for us to notice now is, first, how much less plausible
+it is to think that with ‘nacknick’, as well as with ‘person’, n o inconsistent sense
+ever got to you at all, no matter what else may have gotten to you, and, second,
+that it is this much less plausible idea that is required for the charge of equivocation
+to work against our Argument.
+        To appreciate fully the failure of this charge, we should understand that
+whatever we may say of ‘nacknick’ in these regards, we may say with just as much
+reason, or just as little, in regards to ‘stone’ and ‘person’. Thus, even if it concerns
+                                           WHY THERE ARE NO PEOPLE                  215
+
+terms only in one, conscious meaning, our Argument will have a second premise
+suitable to match its first. For example, we may grant that there is an unconscious,
+consistent sense for ‘nacknick’ which, in our experiments, you learned and then em-
+ployed. Then we might say, of course, that you also used the term in its inconsis-
+tent sense, perhaps doing so in (the process of) using it in its consistent one. But
+then we might just as well say the same for ‘person’, or ‘stone’: We learn two senses
+and, when we use ‘stone’ in its inconsistent sense, we d o so in (the process of) us-
+ing it in its unconscious, consistent sense. For another example, we might say that
+the consciously learned sense is never useful, and that there appears to be a use for
+‘nacknick’ only in this inconsistent sense. But, then, of course, we might just as well
+say that ‘stone’ is perfectly idle in its conscious, inconsistent sense, and is used only
+in that unconscious sense in which it is a consistent expression. Whatever we may
+say for ‘nacknick’, we should understand, we may just as well say for ‘stone’ and
+for ‘person’. So, to repeat, our Argument does not rely upon equivocation, but is an
+adequate piece of reasoning.
+       This final objection has failed. But it suggests some ideas, recently consider-
+ed, that, while they do not constitute an objection to our Argument, may serve to
+place limits on its application. For, if there may be two senses of ‘nacknick’, and
+thus of ‘person’ also, it might be said that our Argument concerns these expressions
+in only one of those senses, the inconsistent one. Thus, for all that piece of reason-
+ing says, there may be a consistent sense for ‘person’, as well as for ‘nacknick’, and,
+in that sense, there may well be plenty of people. If our Argument is thus limited,
+then the interest of our conclusion, it might be said, will be equally limited, though
+perhaps still of some significance. What are we to make of this?
+       In the first place, we should remind ourselves that the postulation of these
+additional meanings appears ro be quite gratuitous and, if it actually is so, then
+nothing further need be said. Indeed, can’t we leave i t at that? For these alleged
+meanings are not only wholly unconscious ones, but we are to have no clue as to
+how anyone might ever become aware of them. Of course, someone might take a
+stab at articulating his putative unconscious meaning of ‘person’, but how should
+he ever judge his success, let alone the propriety of extending his suggestion to my
+own putative unconscious meaning for the term? T o my mind, the postulation of
+these alleged meanings looks t o be a desperate pretense.
+       But suppose we grant that there really are such shared consistent unconscious
+meanings. So far as I can tell, we still cannot say anything much as to what they
+are. Unlike the conscious inconsistent meanings, for which we can give at least such
+conditions as in (1)and (2), these postulated entities are utterly obscure and mysten-
+ous. But if we do not have any idea as to these obscure meanings, then we have none
+either as to what it is for an entity to be a person, or even to be a nacknick. Thus,
+with respect to any entity whatever, even an alleged shoelace, we have no idea either
+as to whether i t is a person or a nacknick, or both, or neither. In this sense of per-
+son-and how masy others like it-perhaps there may be ever so many people. But
+now the matter has become utterly mysterious and obscure. If this is all there is to our
+Argument’s being limited, that reasoning seems not to have any serious limitations.
+216       PETER UNGER
+
+10. SOME OUTSTANDING PROBLEMS POSED BY THIS ACCOUNT
+                       AND ITS RELATION TO THEM
+Largely by providing and employing an account of typical vague expressions as logi-
+cally inconsistent, I have argued that there are no people. We have discussed the
+chief objections to the account, including the charge of paradox, and we have sup-
+ported the account by answering or disarming them. Thus, paradoxically enough, I
+suggest that at this point my account is to be accepted, at least as a working hypo-
+thesis for certain problems. I should now like briefly to discuss three of these.
+
+                       A . The Problem of Explanation
+If ‘person’ is an inconsistent term, then bow are any entities able, so to say, to use
+it as successfully as it appears gets done quite regularly? Indeed, how does this hap-
+pen with any inconsistent expression? If such an expression is tied to consistent
+terms, so that it functions in place of them, then the matter is not very problemat-
+ic. We saw this before, in Section 1, where we discussed a working agreement to use
+‘perfectly square triangle’ in place of ‘tomato which is both yellow and sweet’, sup-
+posing the latter expression to be consistent. But, without any such supposition as
+that, which is our present problem situation, there is considerable explanatory
+difficulty.
+       If our account is right, then any explanation given in available terms must
+eventually, like the terms themselves, prove logically incoherent. So, we should not
+expect too much here in the way of valuable results. Nevertheless, it is unhelpful to
+say nothing more than that there is nothing for us to do. For, even if they are inco-
+herent, the questions that introduced this problem for us appear to point up some
+puzzling phenomena. So, I shall stick my neck out now and offer the beginnings of
+an explanatory suggestion.
+       Perhaps we might understand the role of putative paradigms on the model of
+an animal’s learning to respond to a stimulus. A rat can be taught to press a nearby
+bar just when a certain sort of stimulus is present, for example, a triangular object.
+After learning with this stimulus, what happens with rats when, on the next trial, a
+somewhat different stimulus is for the first time presented, perhaps a more or less
+rounded triangular object? We may plot measures of response against difference
+from the original shape, those measures being frequency of any response, quickness
+of response when one is made, strength of response, such as pressure on the bar,
+and so on. With such suitable measures, a gradient, or curve, will be established for
+a rat population and, by extrapolation, for a typical rat member. For almost any
+rat, the peak of the gradient will center quite precisely on the original shape, the
+slope away from that varying somewhat from rat to rat. We might say, then, that
+each rat has his own idea of a triangular object, though there is important common-
+ality to their ideas.
+       I suggest that our conception of a triangular object, and of a nacknick, is sim-
+ilarly based. Much as a rat can be trained to respond to an alleged paradigm nack-
+nick, so I can more quickly learn to respond more flexibly with regard to such puta-
+                                           WHY THERE ARE NO PEOPLE                   217
+
+tive objects, and with respect to my invented term for them. And, of course, so can
+you. While our centers will not differ much, though with different people and differ-
+ent individual paradigms some difference is to be expected, our slopes may be ex-
+pected to differ significantly, especially for cases far away from center. Thus, various
+behavioral borderline cases will arise where you and 1 are inclined toward disparate
+judgments. Now, suppose my interior decorator tells me to use a nacknick in a cer-
+tain place, though any shaped nacknick will be suitable. In a store, I come upon a
+“borderline case” while shopping in your company. I am inclined to judge i t a nack-
+nick, you to judge it not one. Who is right? I t would be silly for us, even if we thought
+there were some nacknicks, to force the issue and to declare that there must be a fact
+of the matter. Behaving typically, we would not do that. Rather, I suggest, we should
+treat the matter as a social problem, with each person having a chance to influence
+the other. Now, to move you to my side, to apply, I will rely on the vagueness condi-
+tion: Look, this is so like those others, in shape, which you agree are nacknicks; so
+why should we stop just there, and not here? To move me, not to apply, you will rely
+on the discriminative condition: But, see here, we have to stop somewhere, or just
+any old thing will do; so why not stop there, which is a perfectly good place to do
+so? In the logic of the situation itself, there is nothing to settle matters. So, things
+get settled by further considerations. For example, if you are an architect, and I have
+no strong interest in conventional shape description, I may well yield to you, expect-
+inglike treatment from you in areas where my classificatory interests are the strong-
+er. Of course, if you are a king and I am a peasant, then I may expect to do a good
+deal more yielding on matters generally. The discriminative vagueness of ‘nacknick’,
+as established in our conditions, allows these accommodations to take place with no
+one getting the idea that he is giving up any truth, or being hypocritical.
+       Even in one’s own case, the matter is similar. If my decorator told me to use a
+nacknick, and I happen to have a putative borderline case free to hand, while most
+nacknicks would be quite expensive for me, 1 might rely on the vagueness condition
+to allow me to judge it a nacknick, even should I otherwise not be much inclined to
+do so. I want to follow my decorator’s advice, and I also want to use what is free if
+possible, so as to keep my expenses down. By appealing to the vagueness condition,
+I can happily satisfy both of my desires.
+       Now, I do n o t mean to place much stock in this bare explanatory suggestion.
+I t points up a virtue, though, in our account, and a corresponding problem with
+other ways of thinking about vague expressions. For people do differ as to how to
+handle many such behavioral borderline cases, and a given person often differs from
+himself over time. These do not appear to be matten of losing truth, where thoughts
+of self-deception should enter, or thoughts of losing one’s faculties owing to social
+pressure. On the idea that ‘nacknick’ is consistent, and that it actually applies to a
+whole bunch of things, which are exactly the nacknicks, these bizarre thoughts
+move to take over. For, as we saw in Section 3 , in every case, ‘nacknick’ either ap-
+plies or else it does not, so that there are no logical borderline cases. Thus, on this
+more usual idea, in accommodating, someone will often give up truth (for falsity).
+But on our account, there are no such strange losses t o be further accounted.
+218       PETER UNGER
+
+       In a way, though, the main point for us now is to see how we have succeeded
+in avoiding the complex problem of explanation. We have done so by introducing
+‘nacknick’, and by then formulating our Argument from Invented Expressions. For,
+just as with ordinary vague terms, with ‘nacknick’ also we have no good detailed
+explanation of how it might be useful to us even while it is inconsistent. But, we
+may accept the idea that ‘nacknick’ is both useful and inconsistent, and also that it
+is relevantly similar to ‘cubical object’ and to other typical vague expressions. So,
+even in the absence of a worked out explanation for them, we may accept the idea
+that our common vague expressions are useful even while they are inconsistent.
+       Of course, were I able to offer a good explanation of how they were useful,
+that would offer more support for our account of common vague discriminative
+terms. Similarly, were 1 able to offer a detailed explanation for ‘nacknick’, that
+would further my support for my thoughts about it. In each case, the better the ex-
+planation, the more the support we add. But, then, all of this is in the area of add-
+ing support to an account which, by other means, is already supported. On the
+other hand, should no good explanation be forthcoming for any of these terms,
+that would not, I suggest, detract much from the credibility of my account. For the
+problem of explanation might just be too difficult for anybody.
+
+                  B. The Problem of Scope and Comparison
+On my account, our language is inconsistent in a certain respect: it is inconsistent
+in (the fact that it has) its qualitative vague discriminative expressions, including
+‘being with a capacity for using language’.22 Already we have found a fair number
+and variety of expressions to be of this sort. Our success suggests that we inquire as
+to which other terms can also be thus categorized. This is an inquiry into the prob-
+lem of the scope of our account.
+       One of the first things we shall wish to examine, as regards the scope of our
+account, are those expressions that are the negatives of expressions we have already
+accounted. Thus, we look at such expressions as ‘not a nacknick’ and ‘not a person’.
+While syntax thus often suffices to spot such terms, we may semantically define a
+negative of an expression e quite simply: n is a negative of e just in case, with re-
+spect to any entity, n applies to the entity if and only if e does not apply to it.
+Thus, ‘person’ is a negative of ‘not a person’ just as the latter is a negative of the
+former. We should inquire, then, whether a negative of a qualitative vague discrim-
+inative expression is also an expression of that sort. The issues here are, I think, ex-
+ceptionally difficult and complex. Partly for this reason, I have not broached them
+in our previous discussions. For now, I think it will be enough to say this: If our
+negatives are also terms of our key category, that will mean a further source of con-
+tradictions and paradoxes.
+       For consider ‘not a srone’ and suppose it applies t o a certain group of twenty
+atoms, or to something they constitute. Now, if our first condition governs this ex-
+pression, we may keep adding suitable atoms, one at a time, and it will apply to the
+result in each case. But, if our second condition also governs it, we must reach an
+                                           WHY THERE A R E NO PEOPLE                219
+
+entity that does not satisfy ‘not a stone’, if not by that additive process then by
+some such procedure. But, then, as ‘not a stone’ does nor apply to this entity, any
+ncgative of it will apply to it, including ‘stone’. Thus, this entity, which by our
+vagueness condition is not a stone, also is a stone. Thus, ‘not a stone’ does not ap-
+ply to our original complex of twenty atoms. So, any negative of ‘not a stone’ ap-
+plies to that complex. Thus, as ‘stone’ is such a negative, those twenty atoms con-
+stitute a stone! But, then, our familiar arguments show, as well, that those few
+atoms do not compose a stone.23
+       What we say about our negative expressions, then, will determine whether or
+not such new sources of paradox and contradiction are upon us. But, even if we
+eventually say that these negatives are indeed of our typical vague variety, and so
+have these paradoxes upon us, that will do nothing to discredit seriously our ac-
+count of them, or of any other terms. For the points we made about paradox be-
+fore, in Section 8, apply in full generality. Thus, in particular, they will fully cover
+these present matters.
+       On a slightly more positive note, another thing we shall want to examine, in
+connection with the scope of our account, is the logic of vague discriminative terms
+that are not purely qualitative. For powerful sorites arguments are available KO re-
+fute the existence of those entities that putatively satisfy ‘bachelor’, ‘door’, and
+many other terms, including arguments of a relevantly counterfactual form. To ex-
+plain these arguments, we want to exhibit conditions that govern the key terms, ac-
+cording to which those terms are inconsistent. I believe that many proper names
+will find their logic exposed in this manner, as will various expressions that have
+been supposed interestingly similar to names. In Section 2, I made some brief sug-
+gestions for extending our account to cover discriminative expressions generally.
+But, we want to go far deeper into the matter.
+       While there is no real line separating them, we may conveniently move from
+discussing this problem of scope to examining the related problem of comparison.
+What we want to do here is show that the sort of source of inconsistency so far dis-
+cussed, which has much to do with vagueness, is not an isolated phenomenon of our
+language, but is only one of several linguistic sources of inconsistency. As a possible
+example of another type of source, we may consider the putative expression ‘ex-
+pression that does not apply to itself‘. I t seems that there really cannot be any such
+expression, for if there is one, then it applies to itself if and only if i t does not,
+which is absurd. This might be just a surprising case of reason cutting through illus-
+ory appearance. But, it may not stop there. For if this alleged expression is really
+not anything genuine, then, it seems, there will not really be any expression ‘expres-
+sion that applies to itself‘. But, if not that, then not either ‘expression that applies
+to something other than itself‘ nor, then, ‘expression that applies to something’.
+But, if not this last, then it seems there is no real expression ‘expression’. And, with
+this last gone, it seems we must conclude, in fact, that there are no expressions, and
+SO no languages, at all. SO, comparative matters merit further examination.%
+       Now, we should notice that the putative expression ‘expression that does not
+apply to itself‘, supposing it does exist, might well be a vague discriminative expres-
+220       PETER UNGER
+
+sion. If so, then it will yield inconsistency from at least two sorts of source. And, if
+that is so, then so much the better for our present account.
+
+                        C. The Problem of Replacement
+What I regard as the most difficult problem posed by my account, but also the most
+important, is that of devising consistent expressions to replace the inconsistent ones
+that have been prevalent t o date. Part of the problem is that it is unclear even in
+what sense or way the new terms will replace the old. But the most dizzying part is
+that the devising seems to require an indefinite number of choices for US to make,
+and while these choices look like extremely important ones, they must be entirely
+arbitrary. While these two parts may not exhaust this problem, it will be enough for
+us now, in an attempt to understand the problem’s difficulty, to focus our discus-
+sion upon them exclusively.
+       In what sense or way is a newly devised term to replace an existing ordinary
+one, for example, to replace ‘stone’? Normally, we should think of replacing one
+term by another where we think of two consistent terms involved. Thus, an old ex-
+pression may apply to certain cases that we want to capture as well with a new term,
+but it may include other cases that we want newly to exclude. So, the new term will
+be defined accordingly. If we then give up the old term, and no other available ex-
+pression comes near to applying and excluding along these lines, we shall naturally
+think of having replaced the old term by the new. But, in the present case, each old
+term is inconsistent, applying to no cases at all. So, what does any do that a new
+term may d o with a difference?
+       A “pragmatic” answer seems the only one relevant. While our inconsistent
+terms are all logically on a par, different ones serve us differently. Roughly, this
+difference in service is due to different response repertoires associated with the
+different terms. Each term has, for any speaker at any time, associated with it a
+certain pattern of responses t o different possible situations. While there is some
+variation here, there will be, even across many speakers over a substantial period
+of time, a considerable amount of agreement in response for a term. So, for each
+inconsistent term, we might devise a consistent one that is to have a rather similar
+response repertoire. Still, as conflicting responses each has no claim to be (more)
+in accord with the old term itself, a ruling in favor of some, and against others,
+will have no basis in the meaning of the common term. But someone’s repertoire
+will suffer should any decision be made. Thus, it is not easy to tell what can pos-
+sibly count as a successful outcome for such a project.
+       Let us pretend that, for many vague expressions, this difficulty has been re-
+solved. We are now to replace our term ‘person’. For this particular task, we should
+reflect back on situations we have imaginatively encountered already. For example,
+when we remove peripheral neurons, one at a time, from an alleged person, there
+really seems nothing to choose, despite our generous reference to a “way most con-
+ducive to there still being a person.” Thus, at (virtually) any point, the removal of
+(almost) any particular neuron does not leave an entity that is, in any acceptable
+                                               W H Y THERE A R E NO PEOPLE                   221
+
+sense, any less o f a person than would be left instead with the removal of (almost)
+any other. With nothing for a guide, how are “we” to choose an expression that,
+unlike ‘person’, will select certain removals as preferable to others.
+       To highlight the problem, consider two rather different sequences of removal,
+each disposing of t h e same number of neurons, millions of them, where t h e net re-
+sult, in terms of eventually supported capacities, is quite dissimilar. Now, in certain
+cases of this sort, our associated response repertoire may indicate one resulting en-
+tity to be preferred as a person over the other. For example, t h e capacities support-
+ed a t the end of one sequence may be much greater as regards feelings, while the
+main advantage resulting from another sequence may lie in t h e less personal area of
+physical dexterity. But, in many other such cases, while t h e net results from t h e se-
+quences are apparently different in important ways, there seems nothing to choose
+between them as far as being a person is concerned: suppose one entity is more in-
+telligent and is better able to experience pleasure, while the other is more sympa-
+thetic and is more sensitive to varieties of pain. Now, what we are to do, in devising
+a new term, is t o make a choice anyway for even such arbitrary cases, which choice
+will then be reflected in how the term itself “decides things.”
+       These dizzying matters get far more difficult when the underlying circle of
+our thought is exposed and appreciated. For, we want our key terms, like ‘person’,
+to reflect certain interests, which will favor those entities included under the term
+over those not so included. But whose interests will these be? They cannot be t h e
+interests of any people, since there are not any such things. But, even supposing any
+of our descriptions to be coherent, should t h e interests of entities less brilliant than
+Einstein b e accorded in devising a most suitable replacement for ‘person’? Should
+any weight be given to having eyes whose color lies within a certain precise range
+(of bright blue)? Should ,entities with a very low degree of musical aptitude be ex-
+cluded altogether? We have firm ideas and strong feelings o n these matters, b u t who
+are we to have feelings and ideas that matter? There appears to be an impossible
+bootstrap operation required of any attempt a t replacement to achieve any priority
+or even significance. Indeed, I cannot see how there could be, in any area of intel-
+lectual endeavor, a harder problem than this one.”
+
+                                             Notes
+    1. In formulating these conditions, I have been helped by correspondence with John Tien-
+son.
+    2. I use the plural term ‘Expressions’ in naming this Argument because. while I , in fact,
+chose to begin with ‘nacknick’. and with certain matters of shape, I could have begun as well
+with other matters and invented expressions.
+    3 . My discussion of this matter emerged from conversation with Samuel Wheeler.
+    4. I am indebted to several people for help in formulating these complex statements, espe-
+cially to Terence Leichri. But there have been so many problems with previous versions that I
+despair that some must srill remain. I trust, however, that the reader will not judge m y philoso-
+phy primarily in terms of formulational details.
+    5 . For an extended discussion of the semantics of ‘flat’, and of other such absolute terms,
+see chapter I 1 of m y book Ignorunce (Oxford, 1975).
+222         PETER U N G E R
+
+    6. For an alternative interpretation of why sorites arguments are sound, see two papers by
+Samuel Wheeler: “Reference and Vagueness,” Synthese, Vol. 30. No. 3/4 (April/May. 1975)
+and “On That Which Is Not,” Syntbese (forthcoming).
+    7. In the case of (almost) all the sorites arguments presented in this paper, in regards to
+matters of formulation, I am indebted to Terence Leichti.
+    8. On the need for such a ”providing” clause, I am indebted to James Van Cleve.
+    9. In John Tienson. “Can Things of Different Natural Kinds Be Exactly Alike?”. Analysis
+3 7 ( 1977): 190-97.
+    10. This is suggested by the main point of Tienson’s paper, “Can Things of Different Natu-
+ral Kinds Be Exactly Alike?”
+    11. Perhaps the most prominent recent exponent of this idea of incompleteness. or of an
+idea much like it. is Michael Dummetr in his unfortunately named “Wang’s Paradox,” Syn-
+these 3 0 (1975). especially as on pages 309-12.
+    12. As I hope is indicated by the language, this general proposition is not intended to con-
+cern future situations. As regards the future, I think there are genuine problems, as made fa-
+mous by Aristotle and his argument of the sea battle.
+     13. Various remarks in the section just ended are in response to conversations with Terence
+Leichti and with David Lewis.
+    14. This argument, adapted, shows that there is no genuine dyadic relation of similan’ty. For
+we can now show that if there is such a relation. then i t must be transitive. But. also, quite clearly,
+if there is such a relation, then it is not transitive. Thus, despite intellectual appearances to the
+contrary, there is no real similarity relation. (The question of respects, and of degrees. of simi-
+larity changes nothing here.) This point first emerged for me in discussion with Vincent Tomas.
+    15. This objection, or one much like it, was offered to me in conversation by Terence Leichti
+and also by David Lewis. What I go on t o say about the matter is indebted to these helpful con-
+versations.
+    16. For impressing upon me the importance of counterfactual reasoning in relation to sorites
+arguments, I a m indebted to discussion with David Lewis.
+    17. See three recent papers of mine: “I Do Not Exist,’’ in Epistemology in Perspective, ed.
+Graham Macdonald (London. forthcoming), which is the festschrift for Professor Sir A. J. Ayer;
+“There Are No Ordinary Things,” Syntbese, forthcoming: “Skepticism and Nihilism,” Nous,
+forth coming.
+    18. See the three papers cited in the just previous note.
+    19. For discussion regarding an incomparability condition for ‘person’, I am indebted t o
+James Van Cleve.
+    20. The points just made were suggested to me by an unpublished paper of John Tienson’s,
+“An Argument Concerning Quantification and Propositional Attitudes.’’ I make some related
+points in Ignorance.
+    21. This objection, or one much like it. was offered in conversation by David Lewis.
+    22. Saying that a language is inconsistent is admittedly somewhat unnatural. But if one speci-
+fies appropriate respects in which it might be inconsistent. that unnaturalness will be harmless.
+    23. If ‘not a stone’ is indeed a vague discriminative expression, the foregoing argument will
+go against a good deal of what I said in Section 4 of “There Are No Ordinary Things.” But most
+of what I said there is directed against cenain arguments from common sense and. as such, still
+will stand.
+    24. The paradox just sketched derives from the Grelling, which in turn derives from the
+Liar. The Liar is attributed b y scholars t o the great Megarim thinker Eubulides. who is also
+credited with inventing the sorites, as well as other important arguments. For some recent re-
+search on Eubulides, see Jon Moline. “Aristotle, Eubulides and the Sorites.” Mind 78 (1969):
+343-407. TO m y mind, i t is puzzling how much this great philosopher has been neglected.
+    25. In writing this paper. I have been fortunate in having been helped by many people, too
+many to thank each individually. However, I should like to express thanks now to three who
+were especially helpful: Terence Leichti, David Lewis, and Samuel Wheeler.
+

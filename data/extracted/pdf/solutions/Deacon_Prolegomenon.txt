@@ -1,0 +1,169 @@
+Prolegomenon for a formal theory of referential information: T. Deacon (12/20/14)
+
+
+A. General case: passive information medium near equilibrium [ e.g. geological
+   formation, crime scene evidence, data from a scientific experiment, text, etc.]
+
+1. Shannon (e.g. information) entropy is NOT equivalent to thermodynamic (e.g.
+    Boltzmann-Gibbs) entropy (or to the absolute statistical diversity of physical states).
+    [For convenience these entropies will be provisionally distinguished as Shannon
+    versus Boltzmann entropy, though recognizing that each includes multiple variant
+    forms.]
+2. However, for any physical signal medium, a change in Shannon entropy must also
+    correspond to a change in Boltzmann entropy, though not vice versa because the
+    distinctions selected/discerned to constitute the Shannon entropy of a given signal
+    medium are typically a small subset of the possible physical variety of states—e.g.
+    statistical entropy—of that medium. (See notes below.).
+3a. The Shannon information of a received message is measured as a reduction of signal
+    uncertainty (= a reduction of Shannon entropy).
+3b. For a simple physical medium reduction of Shannon entropy must also correspond to
+    a reduction of the Boltzmann entropy of that medium.
+3c. This can be generalized as “any deviation away from a more probable state” (which
+    can violate 3b in the case of media that are actively maintained in an improbable
+    state, such as maintained far-from-equilibrium. See B below.).
+4a. A reduction of Boltzmann entropy of any physical medium is exhibited as constraint
+    on its possible states or dynamical “trajectories.”
+4b. The production of physical constraint requires physical work in order to produce a
+    decrease of Boltzmann entropy, according to the second law of thermodynamics.
+5a. For a passive medium the physical work required to reduce its Boltzmann entropy
+    must originate from some physical source extrinsic to that medium.
+5b. Generalization: Constraint of the Shannon entropy of a passive medium = constraint
+    of its Boltzmann entropy = the imposition of prior work from an external source.
+6. An increase in constraint (i.e. deviation away from a more probable state) in the
+    information medium literally “re-presents” the physical relationship between the
+    medium and the extrinsic contextual factors (work) that caused this change in
+    entropy. (= what the information embodied in the constraint can be “about.”)
+7. Since a given constraint has statistical structure, its form is a consequence of the
+    specific structure of the work that produced it, the physical susceptibilities of the
+    information bearing medium, and the possible/probable physical interactions between
+    that medium and this extrinsic contextual factor.
+8. The form of this medium constraint therefore corresponds to and can indirectly “re-
+    present” the form of this work. (i.e. in-form-ation)
+9. Conclusion 1. The possibility of reference in a passive medium is a direct reflection
+    of the possibility of a change in the Boltzmann and Shannon entropies of that medium
+    due to a physical interaction between the information bearing medium and a condition
+    extrinsic to it.
+
+
+                                            !1
+Prolegomenon for a formal theory of referential information: T. Deacon (12/20/14)
+
+
+10. Conclusion 2. The possible range of contents thereby referred to is conveyed by the
+    form of the constraint produced in the medium by virtue of the form of work imposed
+    from an extrinsic physical interaction.
+11. Conclusion 3. The informing power of a given medium is a direct correlate of its
+    capacity to exhibit the effects of physical work with respect to some extrinsic factor.
+12. Corollary 1. What might be described as the referential entropy of a given medium is
+    a function of the possible independent dimensions of kinds of extrinsically induced
+    physical modifications it can undergo (e.g. physical deformation, electromagnetic
+    modification, etc.) multiplied by the possible “distinguishable” (see notes) states
+    within each of these dimensions.
+13. Corollary 2. Having the potential to exhibit the effects of work with respect to some
+    extrinsic physical factor means that even no change in medium entropy or being in a
+    most probable state still can provide reference (e.g. the burglar alarm that has not
+    been tripped, or the failure of an experimental intervention to make a difference). It is
+    thus reference to no work performed.
+
+In addition, since not all information media are physical structures or otherwise passive
+    systems at or near thermodynamic equilibrium we need to modify certain of these
+    claims to extend this analysis to media that are themselves dynamical systems
+    maintained far-from-equilibrium. This yields the following additional claims:
+
+B. Special case: non-passive information medium maintained far from equilibrium
+    [e.g. metal detector or organism sense organ]
+
+1. A persistently far-from-equilibrium process is one that is maintained in a lowered
+    probability state. So certain of the above principles will be reversed in these
+    conditions. Specifically, those that depend on extrinsic work moving a medium to a
+    lower probability, lower entropy state.
+2. Maintenance of a low Boltzmann entropy dynamical process necessarily requires
+    persistent physical work or persistent constraints preventing an increase of Boltzmann
+    and Shannon entropies.
+3. Any corresponding increase in Shannon entropy therefore corresponds to a disruption
+    of the work that is maintaining the medium in its lower entropy state. This can occur
+    by impeding the intrinsic work or disrupting some dissipation-inhibiting constraint
+    being maintained in that system.
+4a. An increase in the Shannon entropy of a persistently far-from-equilibrium
+    information medium can thereby "indicate" extrinsic interference with that work or
+    constraint maintenance.
+4b. A persistently far-from-equilibrium dynamical medium can be perturbed in a way that
+    increases its entropy by contact with a passive extrinsic factor. Any passive or
+    dynamic influence that produces a loss of constraint in such a system can provide
+    reference to that extrinsic factor.
+
+
+                                              !2
+Prolegomenon for a formal theory of referential information: T. Deacon (12/20/14)
+
+
+5a. Since work requires specific constraints and specific energetic and material resources,
+    these become dimensions with respect to which the change in entropy can refer to
+    some external factor.
+5b. The dynamical and physical properties of a far-from-equilibrium information bearing
+    medium determine its “referential entropy.”
+6. Corollary 3. This can be generalized to also describe the referential capacity of any
+    medium normally subject to regular teleodynamic or teleological influences that tend
+    to cause it to be in an improbable or highly constrained state. This therefore is
+    applicable to living systems with respect to their adaptations to avoid degradation and
+    also to far more complex social and cultural contexts where there is active “work” to
+    maintain certain “preferred” orders.
+
+
+Notes:
+
+Shannonian theory is the necessary but not sufficient foundation for defining information:
+   Shannon’s and related forms of “information theory” do NOT provide an account of
+   what it means to inform. Shannon’s theory only concerns the medium (or signal)
+   properties that are a prerequisite for a given medium to be able to inform: i.e. to refer
+   to an extrinsic/absent feature relevant to some interpretive system. For this reason
+   Shannonian analysis is both applicable to all forms of information and yet cannot
+   explain any higher order feature of informational phenomena. These are only
+   distinguished once the theory of reference is included to augment the Shannonian
+   analysis.
+
+Non-equivalence of the two meanings of ’entropy’: Shannon entropy is typically a very
+   small subset of the physical entropy (aka Boltzmann-Gibbs) and statistical entropy of
+   any given physical medium. Shannon entropy is that small fraction of the physically
+   distinctive states of the medium corresponding to those discernible by a given
+   interpretive process. Thus Shannon entropy assumes an interpretive process that must
+   have its own entropy (related to Ashby’s “requisite variety”) which corresponds to the
+   system’s capacity for state changes capable of contributing to a completed end-
+   directed (teleodynamic) work cycle (see below).
+
+Limitations: The expansion of information theory (above) to include the necessary and
+   sufficient conditions for reference does not yet address either the dynamical
+   organization required to constitute an interpretative process nor does it provide a
+   means to distinguish between the variant forms of reference (e.g. iconic, indexical,
+   symbolic) that are possible. This requires expanding this analysis to formalize what is
+   meant by an interpretive process and the nature of a semiotically competent system.
+
+Interpretation and Significance: The realization that work plays a critical role in the
+    potential-to-refer is a critical clue to the problem of assessing significance –
+                                              !3
+Prolegomenon for a formal theory of referential information: T. Deacon (12/20/14)
+
+
+    something that has often left the bounds of science by arguing that it is a “subjective”
+    issue (e.g. MacKay’s critique of Shannon). This is because work is also the relevant
+    measure when it comes to assessing the “usefulness” of information. In general, I
+    argue that it is the amount of work “saved” toward the completion of a teleodynamic
+    work cycle* (as a result of access to information) that determines the significance or
+    usefulness of that information. Since “work saved” is a comparative measure with
+    respect to achieving a defined end, this assessment is necessarily a competitive
+    selection process with respect to alternative variant processes “aimed” at achieving
+    the same end — hence Darwinian in a general sense.
+
+*   A teleodynamic work cycle is not merely a thermodynamic work cycle (though it
+    must also include both endergonic [catalytic] and exergonic phases [self-assembling]
+    phases), but is additionally an organizational work cycle that contributes to its own
+    preservation and reproduction. A simplest example of this is provided by autogenesis,
+    which if structurally degraded or disrupted will initiate a work cycle to reconstitute
+    the boundary constraints required to support future work cycles to perpetuate this
+    same capacity.
+
+
+
+
+                                             !4
+

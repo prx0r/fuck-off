@@ -1,0 +1,408 @@
+# 118   Great Problems in Philosophy and Physics - Solved?
+
+**source:** pdf · **section:** books
+**file:** Universals
+---
+
+Chapter 9
+
+                                     r s a l s
+                             U  nive
+
+                                                                This chapter on the web
+                                       informationphilosopher.com/problems/one-many
+                                                       Universals         119
+
+Universals
+   A “universal” in metaphysics is a property or attribute that is
+shared by many particular objects (or concepts). It has a subtle
+relationship to the problem of the one and the many.
+  It is also the question of ontology.1 What exists in the world?
+Ontology is intimately connected with epistemology - how can we
+know what exists in the world?
+   Knowledge about objects consists in describing the objects
+
+                                                                            Chapter 9
+with properties and attributes, including their relations to other
+objects. Rarely are individual properties unique to an individual
+object. Although a “bundle of properties” may uniquely charac-
+terize a particular individual, most properties are shared with
+many individuals.
+  The “problem of universals” is the existential status of a given
+shared property. Does the one universal property exist apart from
+the many instances in particular objects? Plato thought it does.
+Aristotle thought it does not.
+  Consider the property having the color red. Is there an abstract
+concept of redness or “being red?” Granted the idea of a concept of
+redness, in what way and where in particular does it exist? Nomi-
+nalists (sometimes called anti-realists) say that it exists only in the
+particular instances, and that redness is the name of this property.
+Conceptualists say that the concept of redness exists only in the
+minds of those persons who have grasped the concept of redness.
+They might exclude color-blind persons who cannot perceive red.
+   Realism is the view that a “reality” of physical objects, and pos-
+sibly of abstract concepts like redness, exists in an external world
+independently of our minds and perceptions.
+  Platonic Realism is the view that abstract things like numbers,
+perfect geometric figures, and other things that Plato called the
+Forms or the Ideas, have a real and independent existence, though
+they are not material objects.
+  1     See chapter 3.
+        120     Great Problems in Philosophy and Physics - Solved?
+
+                 But for his student, Aristotle, these “universals” exist only in the
+              concrete objects which share some property. For him, the univer-
+              sal idea of a perfect circle is a shared property of the many actual
+              circles in nature.
+                  Naive realists think that we can access concrete physical objects
+              directly and fully with our perceptual sense data. This is some-
+              times called the “copy theory.” Our perceptions are fully appre-
+              hending the physical objects, so that the content of a perception
+              is the same as the object of perception. In information philosophy
+Chapter 9
+
+              terms, naive realism mistakenly assumes that the information in
+              the perceived sense data (or the representation in the mind) is
+              (quantitatively) equal to (a copy of) the information in the physi-
+              cal object. In the case of the abstract concept of redness, it may
+              be that the copy-theory is most tenable. The perception of a red
+              object may in a strong sense bring the concept of redness into
+              existence (at least in the observer’s mind).
+                  Historically, realism is a metaphysical claim about this indepen-
+              dently existing world where redness might be found. Since Aristo-
+              tle’s Metaphysics, two kinds of metaphysical questions (ontologi-
+              cal and epistemological ) are raised - what exists, and how can we
+              know what exists.
+                 The ontological status of abstract concepts is a completely dif-
+              ferent question from the ontology of concrete material objects,
+              though these questions have often been confounded in the history
+              of philosophy.
+                 Information philosophy provides distinct answers to these two
+              ontological questions. Material objects exist in the world of space
+              and time. They are information structures embodied in matter
+              and interacting with energy. Abstract concepts (like redness) are
+              pure information, neither matter nor energy, although they need
+              matter for their embodiment and energy for their communica-
+              tion.
+                The contrast between physical objects and abstract concepts can
+              be illustrated by the difference between invention and discovery.
+                                                        Universals         121
+
+   We discover physical objects through our perceptions of them.
+To be sure, we invent our ideas about these objects, their descrip-
+tions, their names, theories of how they are structured and how
+they interact energetically - with one another and with us. But
+we cannot arbitrarily invent the natural world. We must test our
+theories with experiment. The experimental results select those
+theories that best fit the data, the information coming to us from
+the world. This makes our knowledge of an independent external
+world scientific knowledge.
+
+                                                                             Chapter 9
+   By contrast, we humans invent abstract concepts like redness.
+We know that these cultural constructs exist nowhere in nature as
+physical structures. We create them. Cultural knowledge is rela-
+tive to and dependent on the society that creates it.
+   However, some of our invented abstract concepts seem to
+clearly have an existence that is independent of us, like the num-
+bers and the force of gravity.
+   Critical realists, like scientists, start with observations and sense
+data, but they add hypotheses and experiments to develop theo-
+ries about the physical objects and the abstract concepts in the
+external world. Nevertheless, the abstract representation in the
+mind is (quantitatively) much less information than the informa-
+tion in the physical object represented.
+  The idea of an independent reality claims that the reality known
+exists independently of the knowledge of it.
+   The British empiricists John Locke and David Hume argued
+that what we were “given” in our perceptions of sense data is lim-
+ited to so-called “secondary qualities.” These are properties that
+produce the sensations in the observer’s senses - color, taste, smell,
+sound, and touch. Knowledge that comes from secondary quali-
+ties does not provide objective facts about things “in themselves.”
+   Immanuel Kant described these secondary qualities as “phe-
+nomena” that could tell us nothing about the “noumena,” which
+the empiricists called the “primary qualities.” These are proper-
+ties the objects have that are independent of any observer, such
+as solidity, extension, motion, number and figure. These quali-
+ties exist in the thing itself (Kant’s “Ding an sich”). Kant thought
+        122       Great Problems in Philosophy and Physics - Solved?
+
+              that some of these qualities can be determined with certainty, as
+              “synthetic a priori” truths. Some of these qualities are analytic truths,
+              defined by the logical meanings of linguistic terms. For example, a
+              round circle cannot be a square.
+              The One and the Many
+                Some philosophers are monists, arguing that the world must
+              be a unity, one unchanging thing, and that all the multiplicity and
+              change that we see is mere illusion.
+Chapter 9
+
+                 Some are dualists, puzzled how the immaterial One (usually Mind
+              or the Ideal) can possibly interact with the material Many (the Body
+              or the World). There are other kinds of dualists, but the idealism/
+              materialism divide has a long history in philosophy under dozens of
+              different names through the ages.
+                 Some philosophers prefer triads, triplicities, or trinities as their
+              fundamental structures, and in these we may find the most sensi-
+              ble way to divide the world as we know it into “worlds,” realms, or
+              orders.
+                 Those who divide their philosophy into four usually arrange it
+              two by two (Schopenhauer, Heidegger, Derrida - who did it in jest,
+              and against Christian trinities). There are a few who think a pentad
+              has explanatory power. Another handful look to the mystical seven
+              (the number of planets and thus days of the week) for understand-
+              ing.
+                 Since the Pythagoreans drew their triangular diagram of the tet-
+              ractus, ten has been a divine number for some. Aristotle found ten
+              categories. The neo-Platonist Kabalists have ten sephiroth. In string
+              theory, there are ten dimensions reflecting the components of Ein-
+              stein’s general relativity equations.
+                 The most important philosopher since Aristotle, Kant, structured
+              his architectonic into twelve categories, arranged four by three.
+                We will scrutinize these architectures to see if the thinkers divide
+              their worlds the same way, whatever names they call their divisions.
+              There is a surprising amount of agreement among them, consider-
+              ing their disagreements on terminology.
+                                                           Universals        123
+
+   Over the centuries many philosophers have seen a fundamental
+dualism. Most have invented their own names for this dualism. Not
+all have meant the very same things, but the great similarities allow
+us to collect all these dualisms into a quasi-chronological table,
+where similarities and slight differences become more clear.
+   Of course many have claimed to be monists. “All is One,” they
+said, as they generally reduce the physical world to the ideal world,
+or vice versa. “Neutral monists” argue that the ideal and physical
+worlds are somehow both something else. But the underlying dual-
+ism remains in these monistic claims.
+
+                                                                               Chapter 9
+  Many philosophers saw the need for the two sides to work
+together.
+  Immanuel Kant wrote,
+   Gedanken ohne Inhalt sind leer.
+   Anschauungen ohne Begriffe sind blind.
+  Charles Sanders Peirce rewrote this as,
+   If Materialism without Idealism is blind,
+   Idealism without Materialism is void.
+  With a nod to Kant and Peirce, we can say,
+   Concepts without Percepts are empty.
+   Percepts without Concepts are blind.
+  And although freedom and values are not a dualism, they too
+require one another and we can observe
+   Freedom without Values is Absurd (as Continental Existentialists like
+   Jean-Paul Sartre thought).
+   Values without Freedom are Worthless (as British Utilitarians and later
+   Positivists may have thought).
+  The founder of quantum mechanics. Niels Bohr, saw the wave-
+particle dual nature of quantum mechanics as connected to many
+other “complementary” philosophical dualisms.
+        124       Great Problems in Philosophy and Physics - Solved?
+
+                 We have compiled a semi-chronological list of various philosoph-
+              ical terms used through the ages that seem highly correlated with
+              the fundamental ideal-material duality.
+
+              The ONE                                               The MANY
+                          Monism                               Pluralism
+              IDEALISM                                          MATERIALISM
+                            Being                       Becoming
+Chapter 9
+
+                                  Necessity Contingency
+                                   Plato’s Divided Line
+              Theories (noesis)                           Techniques (pistis)
+              Hypotheses (dianoia)                           Stories (eikasia)
+                          Eternal                       Ephemeral
+              ESSENCE                                               EXISTENCE
+                         Universals                Accidentals / Particulars
+                                  Aristotle’s Four Causes
+                 Final Cause Formal Cause      Efficient Cause Material Cause
+              Realism                                             Nominalism
+                         Intelligible                          Sensible
+                                             Form Content
+                          Universal                           Particular
+              Absolute                                                     Relative
+              RATIONALISM                                          EMPIRICISM
+                                        MIND BODY
+              a priori                                                 a posteriori
+              Certainty                                                Probability
+                       Intellect - Innate              Tabula Rasa - Learned
+                                            Nature Nurture
+                          Analytic                           Synthetic
+                                                     Universals          125
+
+                 Kant’s Transcendental Critique
+Noumena                                              Phenomena
+    Concepts/Thoughts                      Percepts/Senses
+        Freedom                             Determinism
+                    Subject Object
+    Dialectical IDEALISM    Dialectical MATERIALISM
+                 Superstructure Base
+
+                                                                           Chapter 9
+Romanticism                                                Positivism
+Transcendentalism                                        Pragmatism
+       Supernaturalism                       Naturalism
+Phenomenology                    Behaviorism/Existentialism
+                    Linguistic Analysis
+Ideal Language                            Ordinary Language
+          Intension                      Extension
+              Sense/Semantic Meaning/Pragmatic
+Autonomy                                             Mimesis
+                   Deduction Induction
+           Theory                       Experiment
+Consistency                                 Correspondence
+                Quantum Complementarity
+WAVE                                                      PARTICLE
+             Possible                           Actual
+Thought                                                       Action
+   Intension and Extension describe two ways of indicating the
+meaning of a word or name. Intension assumes the word has an
+intrinsic, essential meaning, perhaps simply by definition and thus
+“analytic.”
+   Extension is the set of existing objects in the world to which the
+word corresponds. There is a special kind of definition called “osten-
+sive” which defines a word by pointing to those objects. Because
+extension involves things in the world it is called “synthetic.”
+        126       Great Problems in Philosophy and Physics - Solved?
+
+                 The mathematician Gottlob Frege distinguished intension and
+              extension by the German words Sinn und Bedeutung (which usually
+              translate as Sense and Reference, though Denotation is better).
+                 Vienna Circle philosophers, notably Rudolf Carnap, described
+              intension and extension as semantisch and pragmatisch (semantic
+              and pragmatic).
+                 Willard van Orman Quine used the terms Meaning and Ref-
+              erence for intension and extension, conflicting with Frege’s terms.
+              But note that Frege conflicts with the ancient intelligible/sensible
+Chapter 9
+
+              distinction. Words are ambiguous tools to describe objects. And
+              language should therefore not be the primary tool for philosophical
+              analysis.
+              Philosophical Triads
+                After dualisms, the next most popular philosophical architec-
+              tonic structures are triads, triplicities, or trinities.
+                Some philosophers describe their triads as three “worlds,” just as
+              dualism is often described in terms of an Ideal World and a Material
+              World. The deep philosophical (and scientific) question is - do these
+              divisions “carve nature at the joints,” as Plato put it in the Phaedrus,
+              (265e)?
+                 We analyze examples, and find that the three worlds are most
+              often simply the canonical Ideal/Material dualism with an interpo-
+              lated third world corresponding to a human world (or more broadly,
+              the biological world), with its obvious connection to the world of
+              “subjective?” ideas above and the “objective” material world below.
+                Gottlob Frege’s Three Realms
+                  An External Realm of Public Physical Things and Events
+                  An Internal Subjective Realm of Private Thoughts
+                  An “Objective” Platonic Realm of Ideal “Senses” (to which sentences
+                  refer, providing their meaning)
+                Karl Popper’s Three Worlds (clearly influenced by Frege)
+                  World I - “the realm of physical things and processes”
+                  World II - “the realm of subjective human experience”
+                  World III - “the realm of culture and objective knowledge” - of human
+                  artifacts (our Sum)
+                                                   Universals         127
+
+  Charles Sanders Peirce’s triad of Objects - Percepts - Con-
+cepts is in the same order as Frege and Popper.
+   In information philosophy, we divide the world into three funda-
+mental parts, the material, the ideal (ideas are the same kind of
+abstraction as pure information), and the biological/human, a
+middle world that combines ideality and materiality. In these three
+worlds, information emerges in different ways. They are symbolized
+in our tri-color I-Phi logo.
+  •The Physical/Material World (lower/green) - Ilya
+
+                                                                        Chapter 9
+Prigogine’s “order out of chaos,” when the matter in
+the universe spontaneously forms information struc-
+tures.
+   •The Biological/Material World (middle/red) -
+Erwin Schrödinger’s “order out of order,” when the biological
+information structures form purposeful (“teleonomic”) self-repli-
+cating organisms that depend on or “feed on” a negative entropy
+stream from the sun.
+  •The Mental/Immaterial/Ideal World (upper/blue) - Bob Doyle’s
+abstract “information out of order,” when organisms with minds
+process and externalize information, communicating it to other
+minds and storing it in the environment.
+  Merlin Donald’s three levels of Culture Emergence.
+  •Mimetic: the “copycat” or “monkey see, monkey do” ability of
+primates facilitated transfer of learning, ritual
+  •Mythic: language in humans, mental/brain development is influ-
+enced by social network of speakers generating symbols for ideas
+  •Informatic: External storage of knowledge - writing, printing,
+computers, Internet
+        128       Great Problems in Philosophy and Physics - Solved?
+
+              Three Sources for Authoritative Knowledge
+                •The Tradition - Knowledge is inherited, handed down, from
+              the great thinkers of the past (compare Frege’s “Objective” Platonic
+              Realm of Ideal “Senses” to which sentences “refer,” providing their
+              meaning)
+                 •The Modern - Knowledge is created by Reason, by providing a
+              rational account (logos) of how things are, augmented by modern
+              empirical science since the Enlightenment
+Chapter 9
+
+                 •The Post-Modern - all knowledge is “relative” to the culture that
+              invented it. For conservative post-moderns, science can establish
+              knowledge about an objective external world. For radical post-
+              moderns, “anything goes”, even science “invents or creates reality.”
+              There are no grounds/foundations for cultural knowledge that can
+              “justify true beliefs.”
+              Types of Triads
+                Levels: Material - Biological/Human - Ideal
+                (physis - bios/nomos - logos)
+                Inner Levels: Body - Brain - Mind/Spirit
+                Plato: Truth - Goodness - Beauty
+                Aristotle/Kant: Epistemology - Ethics - Aesthetics
+                 Number: One - Two/Many - All (unity - duality/plurality -
+              totality)
+                Person: I - You - We (self - other - society/community)
+                Truth: Correspondence - Coherence - Consistency
+                (empirical - conventional/pragmatic - logical)
+                Time: Past - Present - Future
+                Family: Father - Mother (chauvinists changed to Spirit) - Son
+                Dialectic: Thesis - Antithesis - Synthesis (Aufhebung new Thesis)
+                Hume’s Relations: Similarity - Contiguity - Causality
+                (form - space - time)
+                                                         Universals      129
+
+  Medieval Trivium: Grammar - Rhetoric - Logic
+  Rhetoric: Simile - Metonym - Metaphor
+  Language - Syntax - Semantics - Pragmatics
+  Peirce: Objects - Percepts - Concepts
+  Peirce’s Semiotics: Icon - Index - Symbol
+  Peirce’s Symbol: Ground - Object - Interpretant
+  Peirce’s Science: Abduction (hypothesis) - Induction - Deduction
+
+                                                                           Chapter 9
+  Grounds: Tradition - Modern - Postmodern
+  Beliefs: Naturalism - Humanism - Spiritualism
+  Matter: Solid - Liquid - Gas (earth - water - air)
+  Time: Beginning - Middle - End (archos - physis/nomos - telos)
+  Journey: Eden - Fall - Atonement (home - travels - homecoming)
+  Life: Birth - Life - Death
+A Few Tetrads
+  Classical kinds of matter: Earth - Water - Air - Fire
+  (anticipating today’s solid - liquid - gas - plasma)
+   Plato’s Divided Line: Stories - Techniques - Hypotheses - Theories
+(eikasia - pistis - dianoia - noesis)
+   Aristotle’s Causes: Material cause - Efficient cause - Formal cause
+- Final cause (He considered chance to be a possible fifth cause.)
+  Graeco-Roman Four Temperaments (or humors): Choleric
+(yellow bile), Melancholic (black bile), Sanguine (blood), and Phleg-
+matic (phlegm)
+  Medieval cosmology: Earth (below us) - Water (with us) - Air
+(above us) - Stars (beyond us)
+  The medieval scholastic Quadrivium: Math - Geometry - Music -
+Astronomy (number - space - time - motion)
+  Schopenhauer’s Fourfold Root of Sufficient Reason
+  Heidegger’s Geviert (2x2): Earth - Mortals - Heavens - Gods
+  Derrida’s Jeu des Cartes
+

@@ -1,0 +1,574 @@
+               COSMIC EVOLUTION
+       AND THERMODYNAMiC IRREVERSIBILITY
+                               DAVID LAYZER
+
+ Department of Astronomy, Harvard University, Cambridge, Massachusetts
+
+                               ABSTRACT
+  This paper seeks to explain and relate three macroscopic arrows of time:
+  the thermodynamic arrow, defined by entropy-generating processes in closed
+  systems, the historical arrow, defined by information-generating processes
+  in certain open systems, and the cosmological arrow, defined by the cosmic
+                                   expansion.
+
+
+
+
+                            INTRODUCTION
+SEVERAL speakers at this conference have referred to the zeroth law of
+thermodynamics. Cosmology also has its zeroth law. It states that cosmoin-
+gists are fermions: no two of them can be in the same state of mind at the
+same time. Earlier in this conference Dr Narlikar explained how the expansion
+of the universe introduces an asymmetry into local descriptions of radiation
+processes. He argued that the use of retarded rather than advanced solutions
+of Maxwell's equations to describe radiation processes supports steady-state
+cosmology but contradicts conventional relativistic cosmology. On the
+other hand, Dr Narlikar's theory does not relate the cosmic expansion
+directly to thermodynamic irreversibility. It ties the electromagnetic arrow
+of time firmly to the cosmological arrow, but leaves the thermodynamic
+arrow suspended in mid-air.
+  The views I wish to elaborate are rather different. First, I believe that the
+electromagnetic arrow has nothing directly to do with cosmology, but is
+determined by the thermodynamic arrow in the manner elucidated by
+Einstein in 19091. Einstein pointed out that the retarded and advanced
+descriptions of radiation processes occurring in any finite region of space-
+time are completely equivalent, but the auxiliary conditions in the two
+descriptions differ in kind, in the retarded description all macroscopic
+radiation sources must be specified, while in the advanced description the
+microscopic absorption processes must be specified in detail. In practice one
+uses the retarded description because one does not have microscopic
+information about the absorbing matter. For the same reason, if one wishes
+to describe an irreversible process such as diffusion or heat conduction at
+the macroscopic level one must describe it as occurring in the 'forward'
+                                     457
+                                      DAVID LAYZER
+direction of time. In short, Einstein's argument demonstrates that the
+asymmetry of macroscopic radiation processes results from precisely those
+properties of matter in bulk that give rise to other macroscopically irreversible
+phenomena.
+   On the other hand, I believe that current discussions of thermodynamic
+irreversibility, though essentially correct, are incomplete, and need to be
+supplemented by cosmological considerations. To explain this view, let me
+recall—very schematically—the sequence of steps leading from a reversible
+microscopic description of an N-body system to an irreversible macroscopic
+description.
+
+               THERMODYNAMIC IRREVERSIBILITY
+  The first step is to introduce statistics. Instead of saying that an N-body
+system is in a definite state k, specified by 6N coordinates and momenta
+(or by a state vector /'k) we specify a probability distribution {Pk} or a density
+matrix p. The information associated with this description is defined by
+                                       1 S —S
+where the entropy S is defined by
+                          S = — >Pk in Pk or S = — Tr {p in p}
+In equation 1 Smax is the maximum value of S consistent with the macro-
+scopic constraints on the system. It is well known that, by virtue of Liouville's
+theorem, S is a constant of the motion for an isolated N-body system;
+dynamical evolution neither creates nor destroys information. Therefore
+the passage to a statistical description does not disturb the temporal symmetry
+of the description.
+  The next step is coarse-graining. One combines the microstates k into
+aggregates within which macroscopic variables such as the energy do not
+vary appreciably. Let {} denote the set of coarse-grained probabilities
+and p The coarse-grained density matrix. With the coarse-grained probability
+distribution (or density matrix) we associate the coarse-grained entropy S
+and a corresponding information measure I, which I shall call the macro-
+information. The microinformation I' and the corresponding entropy S' are
+defined by
+                                          S = S + S'
+                                          I = :i + I'
+It is easy to show that the microscopic entropy S' is just the average entropy
+of the aggregates      Since the total information I is constant, any change
+in the macroinformation of the system is accompanied by an equal and
+opposite change of the microinformation. But merely introducing a distinc-
+tion between macroscopic and microscopic information does not of course
+disturb the temporal symmetry of the description.
+  * The entropy S of an aggregate is defined in terms of the conditional probabilities
+p(k/) = Pk/P, and in the averaging process that defines S' the quantities Sc, are weighted by the
+probabilities pc,, Thus
+                                 S=
+                                              458
+        COSMIC EVOLUTION AND THERMODYNAMIC IRREVERSIBILITY
+  Temporal asymmetry is introduced by the third and most crucial stept.
+Fifteen years ago van Hove2 proved that if the Hamiltonian of a closed system
+satisfies a certain rather general condition and if the off-diagonal elements of
+the coarse-grained density matrix p vanish at a particular instant, then the
+coarse-grained entropy S will subsequently increase monotonically until it
+assumes its greatest possible value, when the system will be in a state of
+thermodynamic equilibrium. The essential feature of van Hove's theorem is
+that it relates the irreversible increase of entropy in a closed system to a
+property of the initial state. Several similar theorems have subsequently been
+proved3. All of them state that if microinformation (suitably defined) is
+initially absent in a closed system, then the macroinformation will subse-
+quently decrease monotonically. The thermodynamic arrow is thus defined
+by a unidirectional flow of information from macroscopic into microscopic
+degrees of freedom.
+   Modem theories of irreversible processes have yielded valuable insight
+into the detailed mechanisms responsible for the approach to equilibrium,
+as well as powerful methods for calculating transport coefficients. The
+following discussion proceeds from the assumption that these theories are
+essentially correct. But if they are correct, they cannot be complete.
+   For example, a theory that deals only with closed systems obviously
+cannot explain why irreversible processes occurring in different closed
+systems should define the same arrow. Again, the coarse-graining procedure,
+and hence the dividing line between macroscopic and microscopic informa-
+tion, is largely arbitrary in the theories under consideration. Finally, these
+theories offer no justification for the assumption that microinformation is
+initially absent. Indeed, the very meaning of this assumption is unclear. The
+absence of microinformation in a theoretical description does not imply-—
+according to currently held views---that it is unattainable in some objective
+sense, but only that it is uninteresting or hard to get, or both. This seems to
+imply that thermodynamic irreversibility is at least in part a psychological
+phenomenon-—a position that most physicists would probably be unwilling
+to accept, though it has been advocated by some.
+
+
+                          BOREL'S ARGUMENT
+   The recognition that no finite physical system can be truly isolated from
+the rest of the universe seems at first sight to offer an attractive solution to
+these difficulties. The Hamiltonian of every ostensibly closed system contains
+a finite contribution representing the interaction between the system and its
+environment So long as we focus attention on a definite system, omitting
+from our description all dynamical variables referring to particles and fields
+outside the system, the interaction Hamiltonian is not fully known and
+hence has a stochastic character. This interaction can have a profound
+effect on the microscopic state of a system, even if it has been shielded as
+carefully as possible from outside influences. Thus E. Borel4 calculated that
+moving 1 g of matter through 1 cm at the distance of Sirius would destroy
+  For sake of simplicity, there is here no discussion of the thermodynamic limiting process- -
+a matter of considerable technical interest which, however, is not directly relevant to the present
+discussion.
+
+                                               459
+                                    DAVID LAYZER
+microinformation about the state of a macroscopic gas in 10-6 second. Such
+calculations afford a basis for an objective physical interpretation of the
+probabilities that figure in statistical descriptions of microscopic systems.
+They also imply that microscopic reversibility is not a property of finite
+'closed' systems but only of the universe as a whole. But for this very reason
+they provide at best oniy a partial explanation of the thermodynamic arrow.
+   Borel's calculation shows that in a 'closed' gaseous system microinforma-
+tion flows quickly into a very large number of external degrees of freedom.
+Such calculations can be used to justify assumptions about the initial absence
+of microinformation of the kind that figure in modern theories of irreversible
+processes. But the interaction between a system and its environment does
+not impose a particular direction on this flow of information, much less a
+common direction for all 'closed' systems. We are still faced with the paradox
+of a microscopically reversible* universe whose temporal structure, viewed
+macroscopically, is radically anisotropic.
+
+                        THE HISTORICAL ARROW
+   So far I have discussed one aspect of this anisotropy, the thermodynamic
+arrow (defined by entropy-generating processes in 'closed' systems), and
+alluded to a second aspect, the cosmological arrow (defined by the cosmic
+expansion). But I have not mentioned what is perhaps the most conspicuous
+class of processes serving to define time's arrow: those that generate informa-
+tion in open systems. Such processes are central to all biological systems.
+They play an indispensable role in growth, in biological evolution, and in the
+phenomena of memory and consciousness. But they are not confined to
+living systems. A record of the Moon's past is written in its pitted surface;
+the internal structure of a star, like that of a tree, records the process of aging;
+and the complicated forms we observe in spiral galaxies reflect the evolution-
+ary processes that shape them. The complex overlapping array of all these
+evolutionary records defines a third arrow of time, the historical arrow.
+   The thermodynamic arrow points in 'the direction of increasing entropy;
+the historical arrow points in the direction of increasing information.
+Equivalently, we may define the historical arrow through the statement that
+the present state of the universe (or of any sufficiently large subsystem of it)
+contains a partial record of the past but none of the future.
+  Because the thermodynamic arrow refers ideally to closed systems while
+the historical arrow manifests itself only in open systems, their coexistence
+presents no problem. Entropy-generating and information-generating
+processes normally proceed simultaneously and more or less independently
+in every complex system. In living systems, of course, harmful entropy-
+producing processes are usually offset by countervailing information-
+producing processes.
+
+             COSMOLOGY AND MACROSCOPIC PHYSICS
+  I shall now sketch a theory that seeks to relate the three arrows of time—
+  * I am here neglecting the quantitatively small departures from microscopic time reversibility
+suggested by experiments on the decay of the K° meson.
+                                             460
+        COSMIC EVOLUTION AND THERMODYNAMIC IRREVERSIBILITY
+the thermodynamic, the historical, and the cosmological—to one another,
+and to derive them all from a common postulate. This postulate—a slightly
+strengthened version of Einstein's cosmological principle—----concerns the
+spatial structure of the universe. It states that no statistical property of the
+universe serves to define a preferred position or direction in space; the
+spatial structure of the universe is statistically homogeneous and isotropic*.
+     Before discussing the implications of this postulate, I should say a few
+words about the relationship between cosmology and macroscopic physics.
+From one point of view, cosmological theories are not essentially different
+from other physical theories. The cosmologist, like the astrophysicist, must
+make certain assumptions that cannot be verified directly; he must develop
+the consequences of these assumptions using relevant physical theories;
+and he must ultimately make predictions that are explicit enough so that
+they can be contradicted by appropriate observations or experiments. A good
+theory, whether in cosmology or any other branch of physics, enables one to
+draw more or less rigorous and quantitative inferences, in agreement with
+experience, from simple and natural assumptions—which need not themselves
+be capable of direct verification. Thus the inaccessibility of stellar interiors
+to direct observation has not prevented the development of highly credible
+theories of stellar structure. Similarly, the impossibility of directly verifying
+postulates about the universe as a whole does not in itself doom cosmology
+to speculative status; the postulates themselves matter less than the quality
+and quantity of the inferences that can be drawn from them.
+   Yet there is a basic difference between cosmology and astrophysics. It
+stems from the fact that the universe is not one member of a class of similar
+objects characterized by a certain range of physical parameters, but is unique
+and all-embracing. The physical parameters that characterize a particular
+star, such as the Sun, have no special significance; other stars are more or less
+massive, have more or less angular momentum, are richer or poorer in
+metals. But while it is possible to construct mathematical models of the
+universe characterized by different sets of parameters, there is only one
+correct model. Hence its defining properties have special significance. In
+fact we may reasonably accord them the status of physical laws rather than
+auxiliary conditions.
+  If we adopt this point of view, we may reasonably employ the usual
+empirical criteria of simplicity and economy as guides in formulating
+appropriate cosmological postulates. The postulate of statistical homogeneity
+and isotropy seems to be the simplest assumption that does not conflict
+with any currently-accepted physical law.
+
+     IMPLICATIONS OF THE COSMOLOGICAL PRINCIPLE
+   Two well-known consequences of the cosmological principle are especially
+relevant to the present discussion.
+   First, the cosmological principle implies that the space-time continuum
+can be uniquely resolved into space plus time. For it is obvious that if
+statistical homogeneity and isotropy prevail in a given frame of reference,
+  * Einstein's cosmological principle, as it is normally employed, states that the universe can be
+represented, in a first approximation, by a uniform and isotropic distribution of matter.
+                                              461
+                               DAVID LAYZER
+they cannot prevail in any frame of reference that is in motion—-uniform or
+accelerated—with respect to this frame. The only symmetry-preserving
+transformations are spatial rotations and translations.
+  This conclusion may seem to have a paraloxical quality. Before Einstein,
+space and time were distinct. Special relativity fused them into a single
+four-dimensional continuum, replacing the concept of absolute space by
+that of the inertial frame of reference. Finally, through a further fusion of the
+concepts of gravitational force and inertial acceleration, general relativity
+succeeded in encompassing inertial and non-inertial frames of reference in a
+single mathematical formalism. The cosmological principle does not undo
+this work. Einstein's field equations still govern the local structure of a four-
+dimensional continuum in which space, time and gravitation are indis-
+solubly blended; but at the cosmological level of description the old distinc-
+tion between space and time re-emerges in new dress. And indeed it can be
+shown that the local inertial frame of reference—the frame in which Newton's
+theory is approximately valid—is one whose motion with respect to the
+preferred cosmological frame is unaccelerated. Thus the cosmological frame
+replaces absolute Newtonian space and time.
+  The second well-known consequence of the cosmological principle is the
+cosmic expansion. Einstein's equations (in the simplest and most widely
+accepted form of his theory) admit no static solutions satis!'ing the cosmo-
+logical principle. The theory predicts that the universe expands (contracts)
+uniformly from (toward) a singular state of infinite density in the finite past
+(future). The rate of expansion depends on the equation of state and on the
+mean spatial curvature. For simplicity and definiteness, I shall assume in the
+following discussion that the spatial curvature is negative or zero. This implies
+that the universe is spatially infinite. A universe with positive spatial curva-
+ture, though unbounded has finite volume and is also, in a certain sense,
+finite in time. A discussion of this case would raise certain subtle and con-
+troversial points not essential to the main discussion.
+
+            THE STRONG COSMOLOGICAL PRINCIPLE
+                    AND INDETERMINACY
+  So far I have made use only of the weak form of the cosmological principle.
+The strong form, which postulates complete statistical homogeneity and
+isotropy, has a remarkable implication that does not seem to have been
+noted previously. Consider, by way of illustration, a statistically uniform
+(Poisson) distribution of points on a straight line; this is the simplest example
+of a statistically homogeneous (and isotropic) distribution. Let the line be
+divided into cells of equal length h, the analogues of quantum cells in six-
+dimensional phase space. The Poisson distribution is defined by a single
+parameter, n, the mean occupation number of a cell A particular realization
+of a given Poisson distribution is characterized by an inimite sequence of
+integer occupation numbers, e.g. .. . 00210111 .... Such realizations have a
+unique pair of properties, not shared by realizations of Poisson distributions
+on finite or semi-infinite segments. (a) From a single realization one can
+calculate the value of the statistical parameter n with arbitrary precision.
+This property, an immediate consequence of the law of large numbers,
+                                     462
+       COSMIC EVOLUTION AND THERMODYNAMIC IRREVERSIBILITY
+implies that a single realization contains all the statistical information needed
+to construct it. (b) Two realizations characterized by the same statistical
+parameter are operationally indistinguishable, since any finite sequence
+of occupation numbers must occur with precisely the same frequency in each
+sequence. Thus it is obviously impossible to devise an operational matching
+procedure that would distinguish between two realizations having the same
+statistical properties.
+  These properties of one-dimensional Poisson distributions obviously
+apply to statistically homogeneous distributions of points in six-dimensional
+phase space, provided that a suitably defined correlation distance is finite.
+(This property is needed to ensure the ergodicity of the distribution.) Let us
+agree to regard the values of quantities that figure in a complete statistical
+description of a statistically homogeneous and isotropic universe as con-
+stituting macroinformation, and all remaining information as microinforma-
+tion. What has just been shown is that, under our assumptions, there is no
+micro information; the uncertainties implicit in a statistical description of an
+infinite universe satisfying the strong cosmological principle are irreducible.
+   For example, if such a universe is in a state of thermodynamic equilibrium,
+it is completely characterized by its temperature and density; all other
+observable quantities can then be calculated. It is true that a hypothetical
+observer could measure the actual positions and velocities of molecules in a
+given region, but since all such regions are on exactly the same footing, and
+their statistical properties are calculable in advance, such measurements
+would convey no information in a technical sense.
+   The preceding argument depends essentially on the quanta] character of
+the microscopic description. For in a classical (i.e. non-quantal) universe
+the distance between any two particles at a given instant serves to define a
+given statistical realization completely and to distinguish it from all other
+possible realizations of the same statistical description. Thus microinforma-
+tion always exists in a classical universe.
+  The present conclusion goes beyond the implication of Borel's and
+similar calculations, that certain kinds of microinformation diffuse very
+rapidly from ostensibly closed systems. The diffusion process does not
+destroy information, it merely redistributes it. Thus the total quantity of
+microinformation in the universe remains constant. According to the
+present picture, however, microinformation is simply absent.
+
+GROWTH OF MACROINFORMATION IN COSMIC EVOLUTION
+ Consider a universe filled uniformly with non-interacting particles. Let
+p denote the momentum of a particle as measured in a frame of reference that
+is locally at rest at the particle's instantaneous position. (The corresponding
+velocity v = c2p/E is thus the velocity relative to the uniformly expanding
+or contracting substratum.) The internal energy density u and the tempera-
+ture T are defined by
+                          u = nkT — n<E>                            (6)
+where n denotes the mean particle density, and the particle energy
+E = \/(m2c4 + c2p2). An elementary kinematic calculation shows that the
+                                      463
+                                      DAVID LAYZER
+momentum of a free particle varies with time according to the simple law
+p cc a1, where a is the cosmological scale factor defined by the relation
+pa3 = constant. Thus the momentum of a free particle in an expanding
+universe continually decreases*. It follows that the temperature and the
+specific internal energy decrease with time in an expanding universe. In this
+important respect the universe does not behave like a closed system. We
+should therefore not be surprised to find that its thermodynamic behaviour
+differs from that of a closed system.
+   If the particles are ultra-relativistic (for example, ii they are photons),
+E cc p, so that T cc a . For non-relativistic particles on the other hand,
+E cc p2, so that T cc a2 Thus, for a given rate of expansion, a relativistic
+gas cools less rapidly than a non-relativistic one.
+   Now consider a mixture of non-relativistic gas and radiation. Suppose
+that at some initial instant the mixture is in thermodynamic equilibrium at
+the temperature T0. Suppose further that there is negligible interaction
+between the gas and the radiation. Then, as the universe expands (or con-
+tracts) away from the initial state, a temperature difference will develop
+between the two componentst.
+  The cosmic expansion (or contraction) preserves the mean entropy per
+particle of each constituent, so that the specific entropy of the mixture does
+not change. But the maximum specific entropy increases monotonically in
+both directions of time. For if the thermalization rate were suddenly to become
+much greater than the expansion rate, the gas and the radiation would assume
+a common temperature, and in the process the specific entropy would in-
+crease. Hence at any given instant the actual specific entropy is less than its
+maximum possible value. In the general case, when the thermalization rate
+is neither vanishingly small nor infinitely large compared with the expansion
+rate, the specific entropy of the mixture will increase, but not as rapidly as
+maximum specific entropy. Since information is defined as the difference
+between the actual entropy and the maximum entropy (subject to given
+macroscopic constraints), this example shows that expansion or contraction
+from an initial state of thermodynamic equilibrium generates both specic
+entropy and specific information.
+  This conclusion obviously applies under much more general assumptions
+about the state and composition of the cosmic medium. The essential elements
+of the argument are (a) that the 'initial' state is one of maximum specific
+entropy (zero information), and (b) that the rate of cosmic expansion or
+contraction—which is of order J(6nGp), where p denotes the mean cosmic
+density—may be comparable to or greater than the rates of processes that
+tend to produce the state of local thermodynamic equilibrium. Because the
+cosmic expansion or contraction is not quasi-static, it generates departures
+from local thermodynamic equilibrium and hence generates information.
+At the same time, irreversible processes generate entropy.
+
+
+   * Since the frequency of a photon is proportional to its momentum, it diminishes with time
+in an expanding universe. This is the basis of the cosmological redshift—distance relation.
+     It is easy to show that for extreme relativistic and extreme non-relativistic gases the thermal
+character of the momentum distribution is preserved under expansion or contraction.
+                                               464
+       COSMIC EVOLUTION AND THERMODYNAMIC IRREVERSIBILITY
+                         THE ARROW OF TIME
+  Suppose that at some epoch the universe was in a state of global thermo-
+dynamic equilibrium. Let us tentatively identify time's arrow with the
+direction in which cosmic entropy and information are generated, anticipat-
+ing that this will turn out to coincide with the direction in which entropy and
+information are generated locally. Then the hypothesized state of thermo-
+dynamic equilibrium would indeed appear to be an initial state from which
+the universe must either expand or contract: the two possibilities are equally
+consistent with our considerations up to this point Thus according to the
+present considerations, and in contrast with Dr Narlikar's conclusion,
+there is no direct link between the cosmic expansion and the thermodynamic
+arrow.
+   But we are not, of course, free to postulate that at some arbitrary epoch the
+universe was in a state of thermodynamic equilibrium. For such an assump-
+tion to be plausible, the cosmic expansion rate must be vanishingly small
+compared with local relaxation rates. A simple calculation shows that this
+condition is likely to be satisfied oniy near the singular state of infinite
+density. For it can be shown that the expansion rate H a/a t1 as
+t —+ O(p —* cx)).On the other hand, two-body reaction rates vary as nf(T),
+where n cc a3----at least for a certain range of values of a—and f(T) is a
+function of temperature. In a universe dominated by relativistic particles,
+a t, while in one dominated by non-relativistic particles a t. For
+interactions other than the Coulomb interaction, the two-body reaction
+rate is a non-decreasing—or at least not a rapidly increasing—function of
+temperature, which in turn is a decreasing function of time. It follows that
+in the limit t -+ 0 the cosmic expansion rate does become infinitely slow
+compared with two-body reaction rates. It is therefore plausible to postulate
+that the cosmic expansion began from a state of near-thermodynamic
+equilibrium; the initial stages of the expansion are quasi-static, even though
+the expansion rate varies as t '.
+  To summarize the argument up to this point: From the assumption that
+no statistical property of the universe serves to define a preferred position or
+direction in space, we deduce that a complete description of the universe can
+be couched in statistical terms, and so contains no microinformation. On
+physical grounds, we postulate that thermodynamic equilibrium prevails
+in the limit p —* cc (t —+ 0), and we define this as the initial state. Then
+macroscopic and microscopic information are both absent initially. The
+cosmic expansion generates entropy and information.
+  In a universe that expands from an initial singularity, every 'closed'
+system has a finite past and a more or less definite beginning in time. Given a
+sufficiently complete cosmogonic theory, one could in principle predict
+the statistical properties of all 'closed' systems and describe the processes
+by which they came or will come into being. In any case, a given 'closed'
+system will contain a certain quantity of macroinformation, but no micro-
+information (since none was present initially and the cosmic expansion
+generates only macroinformation, by definition). Thus the present theoretical
+scheme leads to precisely the sort of assumptions that have been introduced
+in modern theories of irreversible processes. And if this scheme could be
+developed into a quantitative theory, it would afford an explicit definition
+                                     465
+                              DAVID LAYZER
+of macroinformation and macroscopic variables for every class of 'closed'
+systems.
+  In a general way, it is clear that the historical arrow must be related to the
+growth of information in the universe as a whole. In most open systems,
+however, the growth of information results directly from a redistribution of
+information within an effectively isolated parent system rather than from the
+cosmic expansion. But a detailed discussion of the historical arrow lies outside
+the scope of this article.
+  The scheme I have just outlined supports the intuitive ideas that the world
+is unfolding in time and that the future is never wholly predictable. For,
+as we have seen, the specific information content of the universe increases
+steadily in the direction away from the• initial state of maximum cosmic
+density. This implies that the present state of the universe cannot contain
+enough information to define any future state. The future grows from the
+past, as a plant grows from a seed, yet it contains more than the past.
+
+                          COSMIC EVOLUTION
+   Can the kind of cosmological assumptions I have discussed support a
+theory of cosmic evolution that accounts for the observed properties of the
+astronomical universe?
+   Having postulated an initial state of thermodynamic equilibrium, we are
+left with just one free parameter at our disposal: the temperature at a given
+epoch or density. Fixing this parameter involves a choice between two main
+possibilities, usually referred to as the hot universe and the cold universe.
+   In the hot universe, energy resides chiefly in electromagnetic radiation
+during the early stages of the expansion. The cosmic microwave background
+(which is thought to result from a thermal radiation field with T = 27°K)
+is interpreted as a remnant of the primordial radiation field; this allows the
+initial temperature to be calculated. One can then go on to calculate the
+relative abundances of elements heavier than hydrogen that would be formed
+during the early stages of the cosmic expansion. The most crucial prediction
+is that of the helium abundance, which turns out to be about 28 per cent5.
+Observational tests of this prediction are extremely difficult. There is some
+evidence for the existence of stars whose atmospheres contain substantially
+less than the predicted primeval abundance, but astronomers do not yet
+accept it as conclusive6.
+   The stability of the hot universe against local density fluctuations has been
+carefully studied by a number of authors, with consistently negative results.
+If only thermal fluctuations were present when the cosmic medium had the
+density of a nuclear fluid, significant local inhomogeneities could never have
+developed. This conclusion has forced proponents of the hot universe to
+postulate that substantial density fluctuations either were present initially
+or were created at supernuclear densities by physical processes whose
+experimental verification lies outside the scope of current experimental
+techniques.
+   The alternative approach is to postulate an initial state cold enough to
+allow the formation of substantial density fluctuations. One must then find
+an alternative explanation for the cosmic microwave background. The
+                                      466
+        COSMIC EVOLUTION AND THERMODYNAMIC IRREVERSIBILITY
+requirements for such an explanation imposed by the observed quantity and
+quality of the radiation field are rather stringent, but can perhaps be satisfied
+by a hypothesis that links the background radiation field to large-scale
+explosive events occurring within galaxies during their formative stages7.
+  If the initial temperature is sufficiently low, the universe may freeze into
+solid molecular hydrogen—a possibility first suggested by Zeldovich8.
+Continued expansion would cause the solid cosmic medium to shatter into
+fragments, whose masses, as a simple calculation shows, would be comparable
+to those of planetary satellites.
+   I have developed an approximate and somewhat speculative theory of the
+ensuing evolutionary stages9. The 'gas' composed of solid-hydrogen frag-
+ments is unstable against a form of turbulence driven by local gravitational
+forces. The turbulence creates a wide spectrum of density fluctuations.
+Ultimately self-gravitating systems begin to separate out The least massive
+systems separate out first, then clusters of these systems, then clusters of
+these clusters, and so on. In this way a hierarchy of self-gravitating systems
+comes into being, and is still in process of formation at the present time.
+
+
+                                     Time of formation
+                                    2x102
+
+
+
+
+         21
+
+
+              0      2        4       6        8       10     12      14      16
+                                            log M/M0
+Figure 1. Specific binding energy versus mass for newly formed self-gravitating systems, according
+                         to an approximate cosmogonic theory (ref. 9).
+
+
+
+   Although the theory is speculative and approximate, it predicts a definite
+relation between the average binding energy per unit mass and the mass of
+newly formed self-gravitating systems, shown in Figure 1. The most tightly
+bound systems correspond to galaxies and compact galaxy clusters, which
+accordingly are predicted to have masses around 1012 solar masses and
+binding energies around 1016 erg/g. These and other semi-quantitative
+predictions agree surprisingly well with observational estimates over a mass
+range of more than fifteen decades. These tentative and approximate results
+encourage one to believe that further theoretical studies along the lines
+I have sketched may ultimately lead to a quantitative understanding of
+cosmic evolution as well as a qualitative understanding of time's arrow.
+                                            467
+                                       DAVID LAYZER
+
+                                       REFERENCES
+1
+    A. Einstein, Phys. Z. 10, 185 (1909).
+2
+    L. van Hove, Physica, 21, 512 (1955).
+    For example, I. Prigogine, Non-equilibrium Statistical Mechanics, Interscience: New York
+    (1962).
+    W. Kohn and M. Luttinger, Phys. Rev. 108, 590 (1957); 109, 1892 (1958).
+    M. Kac, Proceedings of the Third Berkeley Symposium, (J. Neyman, ed.), Vol. III, p 171.
+    University of California Press: Berkeley (1956).
+    E. Bore!, introduction Géométrique a la Physique, Gauthier-Villars: Paris (1912).
+    E. Borel, Introduction Géométrique a Quelques Theories Physiques, Gauthier-Villars: Paris
+    (1914).
+    See also J. M. Blatt, Prog. Theor. Phys. 22, 745 (1959).
+    P. Morrison, Preludes in Theoretical Physics, (edited by A. de-Sha!it, H. Feshbach and L. van
+    Hove), p 347. North-Holland: Amsterdam (1966).
+    P. G. Bergmann and J. L. Lebowitz, Phys. Rev. 99, 578 (1955).
+    R. V. Wagoner, W. A. Fowler and F. Hoyle, Astrophys. J. 148, 3 (1967). This paper contains
+    references to earlier and less complete calculations.
+6 A. comprehensive review of this question is given by I. J. Danziger, Annu. Rev. Astron.
+  Astrophys. 8 (1970).
+  D. Layzer, Astrophys. Letters, 1, 99 (1968).
+8
+  Ya. B. Zel'dovich, J. Exp. Theor. Phys. 16, 1102 and 1395 (1963).
+  D. Layzer, 'Cosmogonic Processes,' Proceedings of the Brandeis Summer institute in Theoretical
+    Physics—1968 (to be published).
+
+
+
+
+                                               468
+

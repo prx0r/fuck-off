@@ -1,0 +1,617 @@
+# E in ste in ’s C ritique of
+
+**source:** pdf · **section:** solutions
+**file:** Einstein_critique
+---
+
+Q uantum Theory:
+T h e Roots and
+Significance o f E P R
+
+The matrix mechanics path to quantum theory was initiated by
+ Heisenberg in the summer of 1925. Dirac received a prepublication
+copy of Heisenberg’s paper and by November he had worked out
+his own beautiful generalization of the ideas. Independently, and
+almost at the same time, Schrödinger was developing the wave
+mechanics route, marked out in his “first communication" at the
+end of January 1926.1
+   In the early months of 1926 Einstein corrresponded with both
+ Heisenberg and Schrödinger about their work on quantum phe­
+nomena. As spring began he summed up his own impressions of
+the quantum world in letters to Ehrenfest and Lorentz. Heisenberg
+came to Berlin that spring to talk with Einstein and to the collo-
+quium there, and later, in July, Schrödinger came as well. Thus
+Before the new ideas were"a year old, Einstein had acquired hrst-
+hand knowledge of them from the originators themselves. Einstein,
+wKoseTown \vork on quantum problems played an important role
+in both lines of development, reacted to the new theory with an
+uncharacteristic ambivalence.
+    In a letter to Ehrenfest (February 12, 1926), Einstein criticized
+the matrix mechanics, focusing on the fact that it is not relativis-
+tically invariant and wondering whether the commutation relations
+^opposition and linear momentum actually hold in all cases. Yet a
+ few weeks later (March 7, 1926) he wrote to Hedi Born, “The
+
+     © 1981 by M em phis State U niversity Press.
+     Unless a published source is cited, references to the Einstein c o rresp o n d en ce
+a n d p ap ers a re to m aterial on m icrofilm in the Einstein Archives, housed in the
+R are Book Room o f the Firestone L ibrary at P rinceton University. T h e c o rre sp o n ­
+den ce is indexed alphabetically for the c o rresp o n d en ts cited. T h e unpublished
+m anuscripts are on reel n u m b e r two, IA 2 -IA 7 . 1 am grateful to David M alam ent
+a n d M ichael Ferguson fo r help with the G erm an, a n d to Micky Forbes for assistance
+with its English. I am responsible, however, for the translations as given. I w ant to
+acknow ledge the coop eratio n o f the trustees o f the Estate o f A lbert E instein with
+re g ard to the use o f these m aterials, a n d to th an k them for th e ir perm ission to
+re p ro d u c e portions here. Part o f the research fo r this study was su p p o rte d by
+N ational Science Foundation G ra n t # SOC 76-82113.
+     1. See respectively H eisenberg (1925), Dirac (1925), a n d S ch rö d in g er (1926).
+                                                                                               27
+
+  Heisenberg-Born concepts leave us all breathless, and have made
+ a deep impression on all theoretically oriented people. Instead of
+ dull resignation, there is now a singular tension in us sluggish
+  people” (Born 1971, p. 88). Within the week, however, Einstein
+ wrote to Lorentz (March 13, 1926) that despite a great deal of
+ effort in studying the Heisenberg-Born theory his instincts still
+  resisted their way of conceiving things. He went on, in this letter,
+'torecömmend Schrödinger’s work as a promising development of                     s/
+ de Broglie’s ideas. Responding to an earlier request from Lorentz
+  that he address the ßfth Solvay Conference (to be held in Brussels
+ in October 1927), Einstein claimed to have nothing new to say and
+  recommended that Schrödinger be invited in his stead. Einstein’s
+ endorsement of wave mechanics, however, was short lived. In April                /
+  Re expressed enthuslasrn foF"Schrodinger’s work to Ehrenfest, but
+  by January (1927) he remarked to him, “My heart does not warm
+  toward Schrödingerei—it is uncausal and altogether too primitive.”
+  (“Mein Herz wird nicht warm bei der Schrödingerei—sie ist un
+  kausal and überhaupt zu primitiv.”)
+     I do not think this remark represents some special predilection
+  for causality, rather it is probably Einstein’s way of acknowledging
+  to Ehrenfest that wave mechanics is no better, in terms of causality,
+  than is matrix mechanics. In any case, Einstein wrote a critique of I t *
+  wave mechanics early in 1927. (It may be that this critique, which
+  was never published, was made in preparation for the October
+  Solvay Conference. For Einstein had finally yielded to Lorentz’s
+                                                                               tfzrr
+  strong personal request and agreed to give a talk on quantum
+  statistics—although, in fact, the talk was never given.) In these notes Fi&TOtfZ
+  he criticizes wave mechanics on three grounds: he thinks that be­
+  cause of superposition it will be difficult to recover the classical          ©
+  Hamilton:Jacobi equations even as an approximation; he is worried
+  that the treatment of many-electron systems in configuration space—
+  involves correlations between the electrons that violate the principle
+  of action-by-contact; and he thinks that one will have to renounce
+  the treatment of individual systems and will find that the theory
+  offers at best a descriptive completeness only in the sense of statistics.2 —V 3 j
+     If we put this critique of Schrödinger’s wave mechanics together
+  with the reservations expressed to Ehrenfest over Heisenberg’s
+
+     2. In note 26 o f c h ap ter 6 I point o u t th at w hat I call h e re a critique o f wave
+m echanics is actually an u n p u b lish ed a ttem p t at a h id d en variables in te rp reta tio n
+u h e Bestimmt m an u scrip t re fe rre d to in that note), to g e th e r with E instein’s own
+critique o f th a t attem pt. Betw een the project a tte m p ted in the m anuscript a n d his
+critique o f it th e th ree points m entioned in m y text d o em erge. My thanks to Paul
+Form an fo r catching my m istakes h ere.                                                   *'    ’
+                                                                 CHAPTER THREE
+
+        matrix mechanics, we find that by the spring of 1927 Einstein had
+        already arrived at the following lines of criticism of the newly
+        emerging quantum theory: (1) the equations of the theory are not
+        relativistically invariant; (2) it does not yield the classical behavior
+        of macroscopic objects to a~goo3~lippi^^                       ) it leadsto
+         orrelations among spatially separated objects that appear to violate
+        action-byTcontact principles; j4)lt is an essentially statistical theory
+        that seems incapable even of describing tfiFT5ehavTor of individual
+        systems; and (5) the scope of the commutation relations may not
+        in fact be so broad as the theory supposes.
+            Einstein’s disagreement with the quantum theory is well known,
+        and it seems to be widely believed that this disagreement is a re­
+        action to the uncertainty formulas of the theory and largely directed
+foihc   at the refutation of them. This is the image, for example, that
+        emerges from Bohr’s (1949) retelling of his “debates” with Einstein.
+        It is also the dominant theme of Jammer’s detailed story of the
+        Bohr-Einstein dispute up to 1930 (Jammer 1974, pp. 120, 132,
+        136). It is therefore important to note that Einstein could only have
+        known of the uncertainty formulas in April 1927, for that is when
+        he received a prepublication copy of Heisenberg’s (1927) funda­
+        mental paper. Thus the five lines of criticism assembled above con­
+        stitute Einstein’s reaction to the quantum theqpy prior even to the
+        formulation ofthe uncertainty formulas. Only item (5) on that list
+        lsdirectly relevant to those formulas, and that item is more by way
+        of a question than an objection. It appears, then, that Einstein’s
+        initial disagreements with the quantum theory did not have to do
+        with the uncertainty relations but were broader in scope than those
+        relations, and perhaps also more central. Moreover, I believe that
+        these initial disagreements were the ones that lasted, as the sub­
+        sequent story will show.
+            Einstein attended the fifth Solvay Conference in October 1927,
+        although he did not give the address on quantum statistics that he
+        had promised Lorentz. He did, however, make a few remarks in
+        discussion on the last day, notes of which he enclosed in a letter to
+        EorentTon November 21, 1927. His remarks were not addressed
+        to the uncertainty relations, but rather to the question of a statistical
+        versus a complete individual interpretation of the theory. He ar-
+        guecTtKat i f the state function were interpreted as expressing prob­
+        abilities for finding properties of an individual system, then the
+        phenomenon of the collapse of the wave packet would represent
+        a peculiar action-at-a distance. The collapse prevents a particle,
+        whose wave function ifTontmuously distributed over some region
+        of space, from producing an effect at two places in the region at
+        once. It thus represents a peculiar nonlocalized mechanism which,
+                                                                                          29
+Einstein suggests, violates relativity. Moreover, he thought that the
+representation of many-particle systems in configuration space raises
+two problems: how to obtain the Einstein-Bose statistics, and how
+to formulate the idea of forces acting only over small spatial dis­
+tances. These are problems, however, not oJjEe_theory itself but
+of the interpretation according to which the theory gives a complete-
+statistical description of individual systems. The alternative is to
+interpret the state function as providing information only about              EL                        ,
+the distribution of an ensemble of systems and not about features
+of the individual systems themselves.
+   If Bohr’s (1949) account of the unrecorded discussions at that J7~lS A/VT
+meeting is reliable, then these remarks of Einstein’s led to an in­
+formal discussion over the possibilities for more complete descrip­
+tions of individual systems. In this context, according to Bohr, Ein­
+stein raised the issue as to whether it might be possible in the case
+                                                                      7H A )-
+of a double slit experiment to determine both where the particle       t f - f T.
+lands on the detectingscreen and through which slit it has passed
+ffTtfie ensuing discussion Bohr was able to show, apparently, that
+the possibilities for controlling the transfer of momentum to the
+diaphragm as the particle passes through are constrained by the
+uncertainty formulas in such a way as to preclude the required
+determinations. In effect, Bohr argued that one measurement (at
+the slits) disturbs the subsequent behavior (i.e., where the particle
+lands)!
+    There is no record of Einstein’s response to these discussions.
+ But Bohr does say that at their conclusion Einstein asked “whether
+ we could really believe that the providential authorities took re­
+ course to dice-playing [ob der liebe Gott würfelt]” (Bohr 1949,
+ p. 218). Within a fortnight Einstein wrote, in a letter to Sommer­
+ feld, “On ‘Quantum Mechanics’ I think that, with respect to pon-
+ derable matter, it contains roughly as much truth as the theory of
+ light without quanta. It may be a correct theory of statistical laws,
+ but an inadequate conception of individual elementary processes.”3                                 V
+ It appears, then, that Einstein left the conference convinced that
+ the only viable interpretation for the quantum theory was the sta­
+t istical one he had suggested, and not convinced that it was im­
+ possible to build conceptions of “individual elementary processes”
+ into a better theory.           J ^ tb ic a J                 --
+     Except for the problem of macroscopic approximation, one can
+ see in Einstein’s discussions tbroughouFtEis time expressions of the
+ same concerns that he had accumulated by the spring of 1927. In                                    ^       '
+
+    3.    T h is is letter 53 o f N ovem ber 9, 1927, in H e rm a n n (1968). I have used the
+translation by R. a n d R. Stuew er in a p re p rin t translation o f H e rm a n n ’s collection.
+ *)U                                                                           CHAPTER TH REE
+
+  the period between the fifth Solvay Conference and the sixth one
+  (October 1930), I can find nothing in Einstein’s published work nor
+  in his correspondence (both published and unpublished) that rep­
+  resents any shift or alteration in these concerns. In correspondence
+  with Schrödinger, however, he does indicate an important conclu­
+  sion about the quantum theory that he had not acknowledged pre­
+  viously. In the letter of May 31, 1928, Einstein notes his agreement
+  with Schrödinger’s conclusion that the limitations on the applica­
+  bility of the classical concepts that are embedded in the uncertainty
+  formulas indicate the need to replace those concepts by new ones.
+  Einstein wrote, “Your claim that the concepts p, q [momentum, po­
+  sition] will have to be given up, if they can, only claim such ‘shaky’
+  meaning seems to be fully justified” (Przibam 1967, p. 31). Einstein
+  readily assimilated this conclusion to his concern over the complete­
+  ness of the theory so that he would later write (in 1936) that quantum
+  theory “is an incomplete representation of real things, although it
+  is the only one which can be built out of the fundamental concepts
+  of force and material points (quantum corrections to classical me­
+  chanics)” (Einstein 1954, pp. 315-16).
+      During the sixth Solvay Conference, Einstein once again made
+  his only contribution by way of the discussion. He continued, here,
+  the informal discussion of the possibility for the description of
+' individual systems, this time explicitly directed to test the limitation
+   imposed by the energy-time uncertainty formula. Einstein pro­
+   posed a simple thought experiment involving the time at which a
+   photon escapes from a box and which seemed to get around this
+   limitation. Bohr, after a sleepless night, was able to use Einstein’s
+   own gravitational redshift formula to show that the determination
+   SHh? time of the energy change was in fact limited by Heisenberg’s
+   relation. Once again Bohr showed howr the measurement of one
+   parameter (here weighing the box-plus-clock) directly interfered
+   with the determination of another (here the clockrate). According
+   to Bohr (1949, p. 226), Einstein contributed effectively in helping
+   to work out Bohr’s argument against Einstein’s own speculation.
+      That spirit accords well with Einstein’s scientific character, and
+   with the fact that nowhere after 1930 do we find Einstein ques­
+   tioning the general validity of the uncertainty formulas.4 Indeed
+   the following year he published an article, jointly with Tolman and
+
+     4.      Ja m m e r (1974), p. 136, in te rp re ts this as E instein’s tu rn in g fro m a search fo r
+  the in tern al inconsistency o f the q u a n tu m theory to a dem o n stratio n o f its incom ­
+  pleteness. B ut this is w rong on b oth counts for, as we have seen, the issue o f com ­
+  pleteness was E instein’s concern from the beginning, w hereas now here d o I find
+  him try in g to show the inconsistency o f the theory.
+                                                                      31
+
+Podolsky (1931), in which he argued that certain apparent possi­
+bilities for determining the history of a particle with an accuracy
+greater than that allowed by the uncertainty formulas would, in
+fact, permit violations of those forumlas. Since these possibilities
+had been allowed by both Bohr and Heisenberg (and simply dis­
+missed with the positivist disclaimer that they would have no pre­
+dictive value), we find that here Einstein is more orthodox about
+the uncertainty formulas than are the orthodox themselves.
+   If Einstein came away from the discussions at the Solvay con­
+ferences convinced of the general validity of the uncertainty re­
+lations, he must also have seen that the key to Bohr’s interpretation
+                                                                                 Mu*
+of the theory lay in the doctrine of disturbance. For the idea that
+Bohr had twice used to undermine Einstein’s attempts to get at a              to M ^
+detailed description of individual systems was the doctrine that                     At
+certain simultaneous determinations were not possible because any
+one of them would inevitably disturb the physical situation so as to
+preclude the others. It was probably clear to Einstein after the 1930
+conference that to defend his own statistical interpretation he must         M
+somehow neutralize the doctrine of disturbance to be able to dem­                -flk/
+onstrate tHePexistence of real physical attributes that are left un­
+attended by the theory, except insofar as they have statistical Z.
+significance.                                                              /         , ;
+    Once he was settled with regard to the uncertainty formulas, Ein-
+stein’s five original objections to tHeTKebfy were reduced to four.
+ Of these, two concerned external constraints imposed by other the­
+ ories: how to reconcile the quantum theory with the requirements PjJ                  C
+ of relativity and how to achieve a satisfactory classical approximation C£)           ]
+ from the quantum theory. From his own brilliant work on relativity,
+ Einstein understood that such external constraints are guideposts                     ;
+ for the construction of new physical concepts. He knew, therefore,
+ that to develop the new concepts to replace the classical ones it would
+ be necessary to attend to such constraints. He believed, moreover,
+ that working from the relativistic framework was a likely starting
+ point (see chapter 2 for a discussion of Einstein’s ideas in this area).
+ But if one were interested in interpreting the new theory, which al­
+ ready relied_soJie^lxc^dTe_classical concepts themselves, it may
+ well have seemed reasonable to bracket off the anomalies engen­
+ dered by these external constraints, at least for a while. If Einstein
+ thought in these ways, then he would have two central problems left.
+ One concerned the question of distant correlations and action-by-
+ contact in the theory, and the other was the central issue of statistics <^T)
+ and the description of individual systems. Notice that these very same
+ concerns were the ones expressed by Einstein in the 1927 Solvay
+32                                                                 CHAPTER THREE
+
+Conference. He was to make one more attempt to combine them so
+as to neutralize Bohr’s doctrine of disturbance and to support his
+own statistical interpretation.
+   On March 25, 1935 the editors of Physical Review received a short
+manuscript coauthored by Albert Einstein, Boris Poldolsky, and
+Nathan Rosen. The paper was published in the May 15, 1935, issue
+with the awkward title “Can Quantum Mechanical Description of
+Physical Reality Be Considered Complete?” Most often referred to
+by slogans incorporating the acronym “EPR,” this short (four-page)
+article is the source of a voluminous published commentary and is
+the touchstone for several attempts to interpret (or to reinterpret)
+the formalism of quantum theory.5
+
+   The argument of the paper is concerned with two assertions:
+(INC) The quantum mechanical description of a system given by the state
+  function is incomplete (as they say, not “every element of physical
+   reality has a counterpart in the theory”).
+(NSV) Observables represented by noncommuting operators cannot have
+  simultaneous reality (i.e., cannot have simultaneously sharp values).
+
+   The argument develops in two parts. The first part demonstrates
+the validity of the disjunction6
+     (INC) v (NSV).
+The second part shows the validity of the conditional
+     ~(INC) -> ~(NSV).
+The authors then conclude from this that
+     (INC)
+must hold.
+   We can represent the logical structure of the argument as fol­
+lows: From PvQ and ~P -> ~Q, infer P. And one can show the
+validity of the argument by reasoning that if —P then, by the second
+premise, one can get ~Q; and then, by the first premise, one can
+get P. So it follows from the premises that if ~P, then P. Since clearly
+if P, then P, the conclusion P follows by a simple constructive di­
+lemma. Of course this is not the only way to get the conclusion
+from the premises, but it is perhaps the most straightforward way.
+(The authors do not give the reasoning, they just draw the conclu­
+sion.) The point I want to emphasize is that even from the point
+    5. See H o o k er (1972) a n d the ex te n d ed discussion in Ja m m e r (1974).
+    6. For com pactness, below I use sta n d ard logical symbols: “PvQ” fo r “P o r Q,”
+“~ P ” fo r “it is not th e case th a t P” a n d “P -» Q ” fo r “if P, th en Q .”
+                                                                       33
+
+of view of elementary logic, the argument of the paper appears
+quite complex. The subarguments are even more so.
+   To establish the disjunction, (INC) v (NSV), the authors show
+that ~(NSV) -» (INC). Thus they suppose that a pair of noncom­
+muting observables of a system have simultaneous values and they
+note that no state of the system is simultaneously an eigenstate for
+both observables. Hence they conclude that the description given
+by the state function for such a system would be incomplete.
+   To establish the conditional, ~(INC) -» ~(NSV), the authors as­
+sume the antecedent (i.e., that the theory is complete) and try to es­
+tablish tlmexistence of simultaneous values for position and linear
+momentum JinTTieTame direction) in a certain interesting system.
+This is a system consisting of two particles that interact so as to pre­
+serve total linear momentum (in a certai^chrection) and then fly
+apaFTmT^positeTlm               so as to preserve their relative positions
+(in the same direction). The authors argue from the interaction for­
+malism of the theory that, at least theoretically, there are such cor­
+related two-particle systems. They then introduce the following cri­
+terion of reality: “If, without in any way disturbing a system, we can
+predict with certainty (that is, with probability equal to unity) the
+value of a physical quantity, then there exists an element of physical
+reality corresponding to this physical quantity” (EPR 1935, p. 777).
+In the case of the hypothetical correlated system, we can predict,
+from a measurement of the position of one system, the position of
+the other, and similarly with regard to linear momentum. If the sys­
+tems are allowed to separate far enough spatially, there can be no
+question of the measurement of one system disturbing the other.
+ Hence the authors invoke the criterion of reality to conclude that
+for such a system at least one particle must have simultaneously def­
+inite position and momentum. Since this is the desired conclusion
+in this part of the argument, the inference is achieved.
+    I shall reserve comments on the general argument for awhile,
+but there are several features of this second stage that I should
+ mention. One is to note that the assumption of completeness is
+ never actually used here, the authors simply show (or try to)"that
+ a certain system has simultaneous position and momentum. Thus
+ they establish the conditional
+   ~(INC) - ~(NSV)
+simply by deriving the consequent, ~(NSV). But if they had just
+stated this as their objective in this second part, then the conclusion
+(INC) would follow immediately from the disjunction
+   (INC) v (NSV)
+                                                                            CHAPTER TH REE
+
+   of part one. So once again the form of argument seems strangely
+   complex. Moreover, the actual text is not as clear as I have made
+   out. For the authors digress (or so it seems) to point out that by
+   choosing to measure either position or momentum on one particle
+   of the pair, one can alter the postmeasurement state function for
+   the other particle ät will.7 Änd they seem to think that this runs
+   counter to the assumed completeness. Finally it is by no means clear
+   how, even with the stated criterion of reality, the fact that one can
+   assign either a definite position or a definite momentum to the
+   unmeasured particle establishes that the particle has both properties
+   at once. Surely, the argument in this second part is both tangled
+   and flawed.
+      Despite these difficulties of style and logic, I think one can see
+   here just that combination of the ideas of correlated system, action-
+—^by-contact, and descriptive incompleteness that Einstein required
+   to provide the background for his statistical interpretation. More­
+   over, the criterion of reality is clearly aimed at Bohr’s doctrine of
+(^-disturbance. It did not miss its target for, as Rosenfeld recalls, “This
+1 onslaught came down on us as a bolt from the blue. Its effect on
+   Bohr was remarkable” (Rozental 1967, p. 128). And Rosenfeld goes
+   on to tell how he worked with Bohr “day after day, week after
+   week” to formulate a response. The response was announced on
+   June 29, 1935, in a letter to the editor of Nature and spelled out in
+   a longer paper (six pages to EPR’s four) published in Physical Review
+   (Bohr 1935). The announcement focused on EPR’s criterion of
+   reality which, in a typical phrase, Bohr said “contains an essential
+   ambiguity.” It was then precisely the question of disturbance to
+   which Bohr responded. For he argued that the phrase “without in
+   any way disturbing a system” was the ambiguous culprit. There
+   was, he admitted, no question (“of course”) of a physical (“me­
+   chanical”) disturbance of one system brought about by measuring
+   its correlated twin, “but even at this stage there is essentially the
+   question of an influence on the very conditions which define the possible
+   types of predictions regarding the future behavior of the system.”
+       I want to point out two significant features of Bohr’s response.
+   The first is that what Bohr himself underlines (the italics are his)
+   is virtually textbook neopositivism. For Bohr simply identifies the
+   attribution of properties with the possible types of predictions of
+    future behavior. (I think this point needs emphasizing, for many
+   commentators seem inclined to suppose that BohEsjjendencv to
+
+       7.   T h e significance o f this “d igression” is discussed in c h a p te r 4, section 2, and
+   in connection with “bijective com pleteness” in c h a p te r 5.
+                                                                                       35
+ obscure language is a token of philosophical depth, whereas I find
+ that, as here, where it really matters Bohr invariably lapses into
+ positivist slogans and dogmas.) The second feature, and one which
+~heTther~Bohr~nor his commentators have acknowledged, is that
+ Bohr’s response to EPR marks a definite break from his previously -2
+ stated view. For in earlier writings and in his response to Einstein
+ at the Solvay conferences, Bohr had always argued that the dis-
+ turbance created by a measurement of a particular variable caused
+ a real change in the physical situation which altered the precon­
+ ditions for applying complementary variables. But here Bohr
+ switched from this doctrine of actual physical disturbance to what
+                                                                        fiC.
+ one might call a doctrine of semantic disturbance. In a way that
+ Bohr does not account for on physical grounds, the arrangement
+ to measure, say, the position of one particle in a pair simply pre­
+ cludes meaningful talk of the linear momentum of the unmeasured
+ land admittedly undisturbed) other particle. I think it is fair to     <2I
+ conclude that the EPR paper did succeed in neutralizing Bohr’s
+ doctrine of disturbance. It forced Bohr to retreat to a merely se­
+ mantic disturbance and thereby it removed an otherwise plausible
+ and intuitive physical basis for Bohr’s ideas.
+      If Bohr’s response to EPR is the most famous, it was nevertheless
+  not the first. An equally important response was written a few days                           •(
+  earlier, on June 19, 1935, and it was by Einstein himself. On that 7©
+  day Einstein responded to a June 7 letter from Schrödinger. In
+  that letter Schrödinger had reminded Einstein of their discussions
+  in Berlin (presumably in the summer of 1926) about “the dogmatic
+  quantum theory,” and responded to the calculations of EPR.8
+      In the June 19 letter Einstein wrote about EPR as follows: “For
+  reasons of language this [paper] was written by Podolsky after much
+  discussion. Still, it did not come out as well as I had originally
+   wanted; rather the essential thing was, so to speak, smothered by
+   the formalism [gelehrsamkeit].”9
+       I think we should take in the message of these few words: Ein­
+   stein did not write the paper, Podolsky did, and somehow the cen­
+   tral point was obscured. No doubt Podolsky (of Russian origin)
+   would have found it natural to leave the definite article out of the
+   title. Moreover the logically opaque structure of the piece is un-
+   characteristic of Einstein’s thought and writing. There are no ear-
+    iTer drafts of this article among Einstein’s papers and no corre-
+      8. See c h ap ter 5 for fu rth e r details o f this letter a n d o f E instein’s reply.
+      9. “Diese ist aus S p rac h g rü n d e n von Podolsky geschrieben nach vielen Diskus­
+  sionen. Es ist ab er doch nicht so gut h erausgekom m en, was ich eigentlich wollte;
+  so n d ern die H auptsache ist sozusagen d u rc h G elehrsam keit v erschüttet.”
+                                                 (T7
+                                                                          CHAPTER TH REE
+
+ spondence or other evidence that I have been able to find which
+ would settle the question as to whether Einstein saw a draft of the
+ paper before it was published. Podolsky left Princeton for Califor­
+ nia at about the time of submission and it could well be that, au­
+ thorized by Einstein, he actually composed it on his own.
+     In any case, Einstein goes on in the June 19 letter to sketch the
+ essential features which were obscured. He first tries to convey the
+ sense of the assertion of incompleteness by means of the following
+ illustration. Consider a ball located in one of two closed boxes. An
+ incomplete description of this “reality” might be, for example, “The
+ probability is one-half that the ball is in the first box.” A complete
+ description would be, for example, “The ball is in the first box.”
+ Thus an incomplete description is a probabilistic assertion, with
+ probability less than unity, made in circumstances in which there is some
+further truth that could be told. This seems like an elementary and
+ intuitive idea for incompleteness, but how are we to know whether
+ there is some further truth to be told? That is, of course, the
+ problem of measurement disturbance: does the measured result,
+ so to speak, arise with the measurement or, rather, does the mea­
+ surement simply reflect what is already there?
+     Einstein addresses this issue in the letter by continuing with the
+ illustration as follows. He acknowledges that one cannot sort things
+ out without assuming something more, and he then proposes to
+ assume a principle of separation (Trennungsprinzip): “the contents
+ of~the second box are independent of whatTiappens to the first
+ box.”10
+     If one now assumes an obvious conservation law, that balls are
+ neither created nor destroyed, then I can find out by looking in
+ the first box whether or not the ball is in the second box. (If I find
+ it in the first box, it is not in the second box. If I do not find it in
+ the first box, it is in the second box.) If my theory only allows, in
+ these circumstances, probabilistic assertions (with probability less
+ than unity), then my"~heory is incomplete. Thus, given the con­
+ servation law, the principle of separation would imply the incom­
+ pleteness of my theory.
+     Einstein continues in this letter to give a technical reformulation
+ of the EPR argument. It is a little confusing because it introduces10
+
+     10.        Einstein puts it delightfully like this: T h e separation principle is n eed e d in
+o rd e r to get past the T alm udists. For “the T alm udic p h ilosopher sniffs at ‘reality’
+as at a frig h ten in g c rea tu re o f the naive m in d .” (“D er Talm udistische Philosoph . . .
+pfeift a u f die ‘W irklichkeit’ als a u f einen Popanz d e r Naivität . . .”) A lthough no
+re fe re n ce is m ade, I w ould guess th a t B ohr should be co u n ted h e re as a Talm udist.
+T h e obvious ones a re the positivists.
+                                                                          37
+
+a further refinement of the idea of completeness (this time in terms
+of state functions correlated to real states of affairs). But I think
+there is enough material contained, as it were, in Einstein’s boxes
+to give at least one formulation of some of the essenträlsToFEPR
+that were obscured by Podolsky’s exposition.
+    Consider the system of two particles correlated via the conser­
+vation law for total linear momentum. Separation is the claim that
+whether a physical property holds for one of the particles does not
+depend on measurements (or other interactions) made on the other
+particle when the pair is widely separated in space. Completeness
+is the claim that if a certain physical property in fact holds for one
+particle at a given time, then the state function for the combined
+system at that time should yield probability one for Ending that
+the property does hold (i.e., the subsystem consisting of the particle
+should have a state function which is an eigenstate for the property
+in question).
+    One can now copy Einstein’s box argument as follows. Suppose
+the two particles (A and B) are far apart and I measure, say, particle
+A for linear momentum (in a certain direction). Using the conser­
+vation law I can infer the linear momentum of particle B from the
+result of this measurement on A. Thus after the A measurement,,
+the B particle has a certain linear momentum. By separation, this
+real property of B must have held already at the time when I began
+my measurement on A (or just before, in the case of an instanta­
+neous measurement). For otherwise I would have created the mo-
+mentum at B by measuring A, in violation of separation. But at
+the initial moment of the A measurement, the state of the composite
+system does not yield probability one for finding any momentum
+value for B, for that state is a nontrivial superposition of products
+of “momentum eigenstates” tor the A and B subsystems. Hence
+the description provided by the state function given by quantum
+theory is incomplete. Here, as in the illustration, the argument
+establishes the incompatibility of separation and completeness^
+    It is this incompatibility that I take to be the central conclusion,
+which got obscured in EPR. Many years later, in Schilpp (1949,
+p. 682) Einstein put it succinctly in these words:
+the paradox forces us to relinquish one of the following two assertions:
+  1) the description by means o f the ^-function is complete
+1 2) the real states of spatially separated objects are independent o f each
+
+other. "s
+
+  It is important to notice that the conclusion Einstein draws from
+EPR is not a categorical claim for the incompleteness of quantum
+                                                             CHAPTER THREE
+
+  theory. It is rather that the theory poses a dilemma between com-
+  pleteness and separation; both cannot be true. It is also important
+  to notice that the argument I have drawn from Einstein’s illustration
+ does not depend in any way on simultaneous measurements or
+ even attributions of position and momentum. The argument de­
+  pends on the satisfaction of a single conservation law and the in­
+  ferences drawn from that concerning the measurement of a single
+ variable. This feature of the situation, I believe, is completely buried
+  in the orieinal paper and, because of that, Einstein’s ideas con­
+ cerning completeness and separation have become needlessly en-
+•tangled with discussions of the uncertainty formulas and hidden
+  variables. In his letter to Schrödinger of June 19, 1935, Einstein
+  says that if the argument he gives applies to pairs of incompatible
+ observables “ist mir wurst,” which I would translate loosely as “I
+ couldn’t care less.” The argument nowhere depends on that, nor
+ do the basic ideas. I think that this feature shows that Einstein has
+  successfully managed to use the correlations to get around Bohr’s
+  doctrine of disturbance. For even in the semantic version of that
+  doctrine, measuring the momentum on A does not preclude as­
+  signing a somewhat earlier momentum to $, which is all the argument
+  requires.
+     Einstein wanted to use the dilemma posed by EPR to show that
+  if we maintain the ideas of action-by-contact embodied in the sep­
+  aration principle, then we must view quantum theory as providing
+  no more than a statistical account of a realm of objects whose
+  properties outstrip the descriptive apparatus of the theory. As we
+  have seen, he felt that the concepts needed to describe these prop­
+  erties adequately would be other than the dynamical concepts of
+  classical physics. Thus, although Einstein took the incompleteness
+  to be a sign that something better was required, he never showed
+  any interest in the hidden variables program for filling out the
+  theory from within. Rather, he hoped that some unification of
+  quantum theory and relativity would, so to speak, provide a com-
+  pletion from without. This path would address the externafcon-
+  straints of relativity and of classical dynamics together, if it could
+  be successfully followed. Of course, Einstein did not succeed. And
+  now recent arguments by Bell and others suggest that separation
+, alone may be incompatible with the quantum theory, and perhaps
+  even with certain experiments." Should that be correct, then the
+  dilemma of EPR could be resolved by abandoning separation. I do
+  not believe that the Bell arguments are in fact strong enough to1
+
+    11. See ch ap ters 4 a n d 9 for discussions o f Bell.
+                                                                                       39
+
+force the issue this way, but even if they are, the question of com- ^
+pleteness would remain. For it is possible that 6o77Tseparation and       _
+completeness turn out to be false.                                    *—* ,
+   Einstein’s reservations about the fundamental character of quan­
+tum theory began with reflections about completeness, and these'
+reflections were the home base to which Einstein’s thinking about
+the theory always returned. It seems appropriate, therefore, to close
+by citing the earliest reference to the completeness issue that I have
+been able to find. It occurs in a letter of February 18, 1926, which
+says, “it seems likely to me that quantum mechanics can never make
+direct statements about the individual system, but rather it always
+gives only average values.”12
+   This comes from a letter written to Einstein fry Fleisenberg. Thus,
+one might say that the original idea and focus on incompleteness
+came from him.
+    12.      “D enn es scheint m ir an sich w ahrscheinlich, dass d. Q uan ten m ech an ik nie
+directe Aussagen ü b e r d. Einzelprozess m achen kann, so n d e rn im m er n u r Mittel-
+         . gibt.”
+
+                                                                                      ■Dt.l*>
+                                                                                         l:* ö f
+

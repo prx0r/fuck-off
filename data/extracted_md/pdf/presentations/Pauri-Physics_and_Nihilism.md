@@ -1,0 +1,1151 @@
+# 25-03-2008
+
+**source:** pdf · **section:** presentations
+**file:** Pauri-Physics_and_Nihilism
+---
+
+ACADEMIE INTERNATIONALE DE PHILOSOPHIE DES SCIENCES Entretiens
+                        2007 - Cerisy, 4 - 8 Octobre
+        << Le Temps dans les différent approaches scientifiques >>
+
+                                  MASSIMO PAURI
+
+                     Time, Physics, and Freedom:
+              at the Roots of Contemporary Nihilism.
+
+                           [PAURI-CERISY-DEFIN.doc]
+
+          _______________________________________________________________
+                        Physics Department – Theoretical Section
+                                  University of Parma
+                           Sezione I:N.F.N. di Milano Bicocca
+                                Gruppo Collegato di Parma
+                                    43100 Parma - Italy
+                                     October 2007
+                                                    << Neither the subtlest philosophy nor common human reason
+                                                      can jeopardize freedom by means of sophisms. Reason must
+                                                        therefore assume that no real contradiction exists between
+                                                     freedom and the natural necessity of human actions; because
+                                                           reason cannot do without the concept of nature no more
+                                                                            than without the concept of freedom.>>
+
+                                                           I.Kant: Groundwork of the Metaphysics of Morals, 1785.
+1. Introduction
+
+As far as I know, the term nihilism appears in philosophical literature in the second half of
+the XIX century. The notion of nihilism entails a general negative attitude towards all of the
+traditional values, including the notions of Truth, Being, and Logos; so much more compared
+to the old historical criticism of the notion of truth, prevalently focused on its logical aspects.
+      Two strands can be recognized in the modern nihilism: one belonging to the German
+tradition, from Nietzsche to Heidegger, and one to the French tradition, exemplified, for
+instance, by “La décadence” of Bourget and subsequently by Deleuze. I believe,
+furthermore, that we should ascribe to nihilism the deflationary minimalism which lies at the
+ontological roots of – so to speak – the “anti-idealist ineffability” of certain analytic
+philosophy. Anyway, nowadays in western civilization we have an every-day experience of a
+widespread sociocultural manifestation of nihilism and its effects, which includes a deep loss
+of effectiveness of the sense of truth, meaning, freedom, responsibility, sense of personal
+and national identity, and which is impressively evident in the common life manifestations of
+the man of the street: a world of inauthenticity.
+      According to certain critics, Enlightenment carries most of the responsibility for such
+influential cultural effects, in particular because of the ideas of causality and determinism
+stemming from its prevailing philosophy (remember Laplace and Lamettrie). I must say,
+however, that I see the whole of modern philosophical thinking, at least up to Kant included,
+as a great reaction to the Galilean foundations of physics. Accordingly, in this paper - without
+being detrimental at all to the achievements of scientific knowledge - I will argue that: i) a
+robust contribution to contemporary cultural nihilism comes as a long-term effect of certain
+totalitarian self-interpretations of these foundations, one of which is already present in the
+radically mechanistic view of Descartes; and (ii) a contemporary contribution derives from
+certain prevailing     (although often only implicit) philosophical interpretations of the
+astonishing achievements of physics, including elementary particle theory, relativity theory,
+certain simplistic interpretations of the remarkable results of neurosciences and, last but not
+least, the parallel flourishment of the so-called “philosophy of mind” and the “computational”
+revolution.
+
+                                                                                                                1
+                                                 1.
+      Weinberg, for example, has expounded a very clear position about a harsh
+reductionistic view leading the above mentioned totalitarian interpretations to a climax. He
+calls this position about the theoretical structure of physics “Grand-Reductionism”, meant
+however as a general conception of Nature. Since this position – as Weinberg himself
+admits - is also strictly connected to a deterministic view of the world, I will unify them, for the
+sake of argument, into a single View of Nature which I call “Deterministic Grand
+Reductionism” (DGR). I believe that, when properly scrutinized, Weinberg’s view turns out to
+be a strong, but irrational metaphysical thesis, according to which the facts of the past, in
+conjunction with the laws of nature, entail every truth about the present and the future. In this
+paper I will take Weinberg’s stance as an exemplary source of nihilistic thinking. More
+generally, I will focus on three main issues: namely a crucial logical junction that I would like
+to call the freedom of meaning, the issue of determinism and free will, and the philosophy of
+time in conjunction with the mind-body problem. I am aware that in this way I am considering
+a notion of nihilism which is different from, and more general than, the one introduced by
+Nietzsche. However, this more general and disruptive brand of nihilism is precisely a specific
+outcome of certain contemporary self-representation of physics.
+      The main thesis I will propose is that the nihilism arising from such issues is due to a
+common aporetic logical source having to do with a basic misunderstanding concerning the
+nature and the range of the physical description of the world, as shaped by the Galilean
+foundation. Accordingly, I will start by examining the sophisticated philosophical and
+methodological process lying at the basis of the Galilean enterprise and some consequent
+structural limitations inherent to the foundations of physics which, when ignored or too
+confidently underestimated, become just the basic source of contemporary scientistic
+nihilism.   Overlooking the structural limitations of the physical enterprise is especially
+relevant to the debate about the alleged determinism (or indeterminism, as well) of the
+world, and the so-called causal closure of physics, both of which bear upon the mind-body
+problem and the so-called compatibilist thesis about Free Will.
+      I will analyze in particular the aporetic nature of some consequences of DGR that bear
+upon the issue of the freedom of meaning. In a sense, the aporia characterizing this case is
+exemplary and summarizes the aporetic elements surfacing in all of the issues discussed in
+this paper. They are all deeply interconnected and play analogous roles as sources of
+nihilistic influences. Briefly, if we are not able to freely believe and freely think in a
+meaningful way, we are not even able to freely will and freely act in the world, and viceversa.
+The conceptions of time also bear upon the same problems. In particular, as is evident from
+                                                                                                  2
+                                                 2.
+history of philosophy – Kant’s thought especially – the issue of freedom and free will is
+strictly related to the way in which subjectivity is thought to stay in time. Thus, my analysis
+will be jointly directed to the analytic view expounded in the so-called A and B-theories of
+time. I will then discuss the consequences of the implicit assumption that the metaphysics of
+time is dictated by the role played by physical time within the theoretical structure of physics,
+in particular by a literal interpretation and reification of the spatio-temporal models of the
+relativity theory. A further instantiation of the same logical junction concerning meaning and
+freedom of choice is provided by the current reductionist and ideological interpretation of
+strict Darwinism. This is where I wish to be absolutely clear from the very start. My position
+has nothing to do with the so-called “creationism”, “intelligent design”, “vitalism” and the like,
+nor am I willing to put into question the central Darwinist thesis of the common origin of
+species. Rather I intend to face the philosophical difficulties arising from the conjunction of,
+on the one hand, the recognition of the reality of subjectivity, which reveals itself in living
+organisms by various degrees, and, on the other, the extrapolation of the strictly Darwinian
+theoretical model to the cosmological level. A final section is thus briefly devoted to expound
+my critique of the aporetic features and nihilistic elements surfacing in standard evolutionary
+thinking, in parallel with DGR.
+         In this paper I will argue throughout according to a principle of metaphysic parsimony,
+so I will not propose any positive metaphysics, if not for the brief analysis given in Section 9.
+The overall logical structure of my arguments is that of a “reduction ad absurdum”, by which
+I intend to individuate a perspective with the capacity of avoiding deeply antinomic
+conclusions. Therefore, I tend to a clarification of the subject which, in a sense, be an
+incontrovertible conclusion to the extent in which it is implicitly upheld even by those who
+tend to deny it. Indeed, is this logical circuit not the great discovery of the inner necessity of
+Reason revealed by the Greeks ?
+         Given the conceptual range of the subject matter and the limited space of this paper,
+my analysis will necessarily be rather sketchy and simplified. I am well aware that only a few
+of my readers may be convinced. To most of the readers, my discourse may appear as
+really provocative. I am saying “appear” deliberately, however, because I am deeply
+convinced of my view.
+
+2. A philosophical premiss: the ontological- phenomenological aporia1
+
+1
+    This concept is an extension of what Abner Shimony called “phenomenological principle”.See Shimony (1993).
+                                                                                                                 3
+                                                                  3.
+      I call ontological-phenomenological aporia the logical structure of a philosophical
+argument in which: 1) a basic distinction is deliberately maintained between reality and
+appearance; 2) ontology does not account consistently for the corresponding
+phenomenology, in particular, for the distinction between reality and appearances
+“qua” appearances.
+      This is the logical tool I am going to exploit for my reduction ad absurdum type
+argumentation. In this paper will present some instantiations of this aporia.
+
+3. The structural limitations of the physical description of the world
+3.1 – A florilegium of quotations – I
+3.1.1 - The foundations: Galileo Galilei (Third Letter to Markus Welser, 1633)
+<< O noi vogliamo specolando tentar di penetrar l'essenza vera ed intrinseca delle sustanze
+naturali; o noi vogliamo contentarci di venire in notizia d'alcune loro affezioni. Il tentar l'essenza
+l'ho per impresa non meno disperata e per fatica non men vana nelle prossime sustanze
+elementari che nelle remotissime e celesti >>
+3.1.2 - The foundations: Galileo Galilei (Il Saggiatore, 1623)
+<< La filosofia è scritta in questo grandissimo libro, che continuamente ci sta aperto innanzi agli
+occhi (io dico l'Universo), ma non si può intendere se prima non s'impara a intender la lingua, e
+conoscer i caratteri ne' quali è scritto. Egli è scritto in lingua matematica, e i caratteri son triangoli,
+cerchi, ed altre figure geometriche, senza i quali mezzi è impossibile a intenderne umanamente
+parola; senza questi è un aggirarsi vanamente per un oscuro labirinto >>
+3.1.3 - The foundations: Ernst Cassirer (Das Erkenntnisproblem in der Philosophie und
+Wissenshaft der neuren Zeit. Ester Band, 1906)
+<< Modern thinking about nature is characterized by a lengthy process of ontological
+transformation which leads from the classic paradigm of substance to that of function >>
+
+3.2 - The fundamental blockade
+Galilei’s intuitions quoted above have been implemented, through a radical philosophical
+transformation taking place during the Renaissance, by means of a literal blockade of the
+process of essential individuation of entities. “Accidental” and ”essential” properties are no
+longer taken into account for the understanding of temporal change and transformations of
+individual entities. This blockade has methodological consequences that match the passage
+from the notion of object of experience (say “this table”) to idealized abstract classes of entities
+that allow for mathematization (say “electrons”, but also “Newton’s apple” as concrete
+instantiation of the class of weighty abstract material obiects). The transformation of the world
+
+                                                                                                         4
+                                                    4.
+of experienced objects into a world of abstract mathematizable entities entails the
+simultaneous and implicit ablation of the experiencing subject from the field of entities that
+physics is entitled to understand.
+        This takes place through a set of founding approximations and exclusions. A first
+founding approximation is the constitution of physical time (see later) which (according to
+Whitehead) bifurcates Nature. A second founding approximation is the separation of the world
+into three parts: (i) the object to be defined as a physical system; (ii) the observing and
+theorizing subject, who often assumes the ambiguous role of “observer” or even “measuring
+apparatus”; (iii) the remnant of the world. The variability of this last part, initially taken as
+irrelevant to the immediate scope of defining the physical system, determines the irreducibly
+contingent component of the physical description in the form of initial or boundary conditions.
+This partition allows the determination of the forms of possible temporal variations of the
+physical system in connection to different choices of the relations to the remnant of the world,
+as physical laws2.
+        The basic passage, however, is the abstraction of the particularities of the object to be
+interpreted as physical system, as well as of its relations to the remnant of the world, by
+means of a systematic pre-selection. This sustains the blockade of essential properties that
+constitutes the physical object as an abstract equivalence class of perceptual things. In this
+way, the blockade leads to a peculiar new individuation, or better, specification, of entities that
+constitutes a new reduced and abstract ontology. The important point is that, within the limits
+of the internal methodological approximations of the physical description, this specification can
+be considered exaustive or “complete”. This allows maintaining – in the new sense – terms
+like the ontology of a theory                      (say, of “material points” [Euler], of “classical fields”, of
+“elementary particles”, “antimatter”, “identical particles”, “relativistic quantum fields”, and so
+on). Once the reduced ontology is established, any physical action is described in spacetime
+as an exchange of 4-momentum among the interacting parts of a whole3.
+        lt is just in force of the exhaustiveness or completeness of the reduced ontology (which
+allows, first of all, the mathematical specification of the concept of “initial conditions”) that one
+can speak unambiguously of determinism or indeterminism of a theory, while I maintain that
+
+2
+   Admittedly, stricto sensu, this picture schematizes the framework of classical physics only. Typical Galilean conditions like the
+indefinite temporal repeatability of the relevant relations with the remnant of the world, and like the irrelevance of the spatial relations
+between a suitable region including the physical system and the remnant of the world (spatio-temporal omogeneity), are no longer
+simply satisfied in the case of general relativity. The situation of astronomy and astrophysics is still recoverable due to the multiplicity of
+similar physical systems under scrutiny, while the basic conditions are not met in the case of cosmology. Indeed, I believe that “the
+Universe as a whole cannot be considered as a scientific object in any sense that such words have had in the historical development of
+physics”, see Pauri (1991) and a related comment in Torretti (2000).
+                                                                                                                                             5
+                                                                      5.
+one is not allowed to attribute determinism (or indeterminism either) to the world simpliciter.
+Aside from the idealized reduction, there is in fact no natural minimality in the concrete
+multiplicity of the real world upon which to base the dynamical description mathematically (see
+the following quotation of Nagel and the reference to “des êtres qui la composent” in the
+quotation of Laplace). Therefore absence of determinism (in the world) is not equivalent to
+indeterminism in the ordinary sense of chance. Not only does the primary ontological
+reduction leave out of the picture the experiencing subject with their qualia, but more
+generally, a whole background of happenings of the world which could not be mathematized
+in principle. Furthermore, it does not take into account the fact that we have limited access to
+great part of the world, nor the fact that we cannot say how much of reality lies beyond the
+reach of the present and future domain of objectivity, or any other form of human
+understanding. In other words, beyond the typical idealizations of the physical description of
+the world there is an “open world”. The so called causal closure of physics is only a restriction
+to the reduced, idealized ontology of a broader general causality of the world which must
+thereby be admitted. The causal closure of physics is only valid under the condition that the
+theorizing subject (the agent subject) does not intervene in the dynamic play of the game once
+the initial conditions are settled. Correspondingly, physical time, related to physical causality,
+is just a reduction of what I call real time of the world, which is related to the general causality
+of the world. In the open world a free agent can initiate an emergent causal chain (emergent
+with respect to the reduced physical causality), that subsequently exploits the quasi
+macrodeterminism allowed by the physical description under specified conditions.4 General
+causality and finality are two aspects of the same fact. The bi-unity of causality and finality is,
+as I will argue later, the very essence of the future-past relation and of the agents’ freedom.
+On the one hand, physical laws are entirely silent about the “initial conditions” and, therefore
+also about the present state of the world. On the other hand, the laws are astonishingly (and
+“unreasonably”5) effective in describing a great set of empirical data and forecasting the
+temporal evolution of physical systems. This, however, happens under exceptional
+circumstances, precisely when all the relevant conditions of the present state are known in
+terms of the reduced ontology. Finally, this knowledge is possible due to a bundle of actual
+
+3
+    This description is of course inadequate for quantum phenomena and requires important adaptations. See Pauri (2000),(2007).
+4
+    I have already discussed elsewhere the notions of real time and general causality of the world. See Pauri
+(1997a,b),(1998),(1999),(2001. These papers also contain my stance about the mind-body issue and the genetic evolutionary problem
+that arises from the view that some kind of freedom with respect to strict physical causality be a companion of the subjectivity which is
+present in various degrees in all living organisms (see also Section 9 of this paper). Free actions of living organisms, giving rise to
+emergent causal chains, introduce and reveal a new temporal structure of the world, real time, which is reduced within the physical
+description.
+
+                                                                                                                                       6
+                                                                   6.
+features of Nature which, while guaranteeing its overall stability, allow for a fine-tuned
+selection of the relations between the physical system and the remnant of the world,
+discarding great part of such relations. As stressed by Wigner6, this condition is exemplarily
+and maximally met artificially in the construction of machines where all determinant conditions
+are known. The phenomenic appearences have been separated at the beginning from an
+alleged self-contained “physical world” and transferred within the “minds” of the theorizing
+subject. The very concept of an objective “physical reality” precisely depends upon this
+fundamental exclusion of subjective appearances from the “external world” and their attribution
+to the “mind”. Thus, scientific progress holds in itself the warranty of its essential
+incompleteness, that is, its inability to explain everything. Overlooking this crucial point is
+tantamount to implicitly assuming a question begging stance about an alleged physicalistic
+“resolution” and “explanation” of the mind-body problem. It is then no wonder that the causal
+closure of physics is typically invoked for denying causal powers to mental properties.
+Applying reductionism to the field of objectivity is easily understandable since it exploits the
+simple geometric concept of the relation between the parts and the whole7. A corresponding
+direct reduction of subjectivity to “the physical” cannot be really carried through in the form of
+what we intend to be an “explanation” in science because it would fail anyway to possess the
+character of a relation between a given level of objective description and another. Therefore,
+DGR and the so-called “eliminative materialists” base their fundamental philosophical stances
+on a rather irrational attitude.
+       I believe that a progressive concealment of the foundational limitations of the
+physical enterprise has taken place since Galilei’s intuitions. This concealment has been
+favoured by: i) some initial totalitarian interpretations of physics’ methodology; ii) the
+astonishing, though “unreasonable”, empirical success of the mathematization of Nature;
+iii) the patchwork character of the working habits of modern scientists. This concealment
+has generated the - mainly unconscious - tendency to endorse the philosophical untutored
+program of a reconstruction of the “world” in terms of the deterministically organized
+reduced ontology of mathematical physics, as well as the arrogant pretension to reach a
+complete description of reality.8 This is exactly the program of DGR and this – I claim - is
+the main source of all the aporetic manifestations that I shall discuss presently. By
+
+5
+  According to a well-known essay of Eugene Paul Wigner. See Wigner (1960).
+6
+  See Wigner 1960.
+7
+   With the important exception of quantum phenomena. See Pauri (2007).
+8
+   Although, as Richard Feynman remarked, “When you follow any of our physics too far, you find that you always get into some kind of
+trouble”.
+
+                                                                                                                                   7
+                                                                 7.
+identifying the two different types of causality, DGR excludes any gap in the physical
+description, confining the mind-body issue within the rigid alternative options of
+determinism and indeterminism and making it philosophically intractable if not by mere
+words.           In conclusion: beyond the description provided by the reduced ontology there is
+certainly something else out there, independent of our representations. Yet, it is an “open
+world” and there is no "physical world" simpliciter. We can only talk of a physical
+description of the world. It should also be clear, by now, that I am at the same time
+against both the compatibilist and the so-called incompatibilist9 theses about Free Will.
+
+3.3 – A florilegium of quotations - II
+3.3.1 - E. Schrödinger (about the reduced ontology)
+<< Science is founded on a fundamental "objectification", precisely on the "simplification" of the
+problem of nature obtained through the preliminary exclusion of the knowing subject from what has
+to be understood ... yet the deepest philosophical problems are just those concerning the subject
+which has been excluded from the scientific view of the world >>
+[E. Schrödinger: What is Life, 1947]
+
+3.3.2 – D.Bohm (about the cosmological connection of consciousness)
+<< To meet the challenge before us, our notions of cosmology and of the general nature of reality
+must have room in them to permit a consistent account of consciousness. Vice versa, our notions
+of consciousness must have room in them to understand what it means for its content to be "reality
+as a whole" >>
+[David Bohm: Wholeness and the Implicate Order, AIR Paperbacks, London, 1980.
+
+3.3.3 – P.S.Laplace: (about the unwarranted exhaustive minimality of the component beings
+           (des êtres qui la composent) required by the alleged deterministic view of the “world”)
+< Une Intelligence qui, pour un moment donné, connaîtrait, toutes les forces dont la nature est
+animée, et la situation respective des êtres qui la composent, si d'ailleurs elle était assez vaste
+pour soumettre ces données à l'analyse, embrasserait dans la même formule les mouvements des
+plus grands corps de l'univers et ceux du plus léger atome; rien ne serait incertain pur elle, et
+l'avenir, comme le passé, serait présent à ses yeux >>.
+Pierre Simon de Laplace: Théorie analytique des probabilités, 1812].
+
+[3.3.4 - T. Nagel: (about the unwarranted attribution of determinism to the “world”)
+
+9
+    The view maintaining that Free Will requires indeterminism. The latter, however, besides being a property of theories and not of the
+world, has no capacity for justifying a meaningful finality of the agent’s choice, anyway.
+                                                                                                                                      8
+                                                                     8.
+     << The ideas of determinism, probability and reduction10... can be significantly discussed only if
+ they are directed to the theories or formulations of a science, and not to its subject matter >>
+     [Thomas Nagel: Principles of the Theory of Probability, 1939].
+
+ 4. – The aporetic structure of “Deterministic Grand Reductionism”
+
+ 4.1 - Weinberg’s “Grand Reductionism”
+ << We should distinguish between reductionism as a program for scientific research and what I call
+ “Grand Reductionism”, which is a view of nature … Phenomena like mind and life do emerge. The
+ rules they obey are not independent truths, but follow from scientific principles at a deeper level;
+ apart from initial conditions and historical accidents that by definition cannot be explained (such as
+ the size and the orbit of the earth for meteorology), the nervous systems of George and his friends
+ have evolved to what they are entirely because of the principles of macroscopic physics and
+ chemistry, which in turn are what they are entirely because of principles of standard model of
+ elementary particles…….. ….Determinism is logically distinct from grand reductionism, but the two
+ doctrines tend to go together because the reductionist goal of explanation is tied in with the
+ determinist idea of prediction; we test our explanations by their power to make successful
+ predictions…………[Of course, everything is ultimately quantum-mechanical; the question is whether
+ quantum mechanics will appear directly in the theory of mind, and not just in the deeper-level theories like
+ chemistry on which the theory of the mind will be based…….. In quantum mechanics isolated systems are
+ governed by an equation (the Schrödinger equation) whose solutions are strictly speaking fully deterministic,
+ never chaotic. The famous uncertainties in the positions and velocities of particles discovered by Heisenberg
+ do not arise in isolation systems but only when we let such a system interact with a measuring apparatus.
+ >>]11
+
+            Neither I do believe that quantum theory is directly involved in the issue of subjectivity.
+ Accordingly, and for the sake of argument, I will take the two doctrines as a single view of
+ nature renamed as “Deterministic Grand Reductionism” (DGR).
+
+4.2 – Weinberg and his “imaginary friend” George12
+I will use Jaegwon Kim’s terminology (Mind in a physical world13):                     mental properties are
+physically realized as “second order properties” causally generated out of “first order” non-
+mental properties.
+Fig.1 illustrates a realistic happening involving Steven Weinberg and George:
+
+      Of course in the “weak reductionist sense”, see Weinberg later on.
+ 10
+11
+     See Weinberg (1995).
+ 12
+      All of the figures in this and the following Sections are free-hand sketches.
+                                                                                                            9
+                                                                         9.
+Caption for Fig.1:
+
+BW = physical state of Weinberg’s brain;
+BG = physical state of George's brain;
+PW = Weinberg’s brain’s “second order properties”;
+PG = George’s brain’s “second order properties”;
+CW = causal specification of PW;
+CG = causal specification of PG:
+EW = Weinberg’s uttering: << GRAND REDUCTIONISM IS TRUE ! >>
+EG = George’s uttering: << GRAND REDUCTIONISM IS BULLSHIT >>
+
+ → Weinberg believes that CW causally determines PW in such a way that EW expresses a
+real truth.
+ → Weinberg must also believe that CG causally determines PG in such a way that EG
+expresses a real falsity.
+
+Note, on the other hand, that George is not self-contradictory since he can rely in principle
+upon a notion of truth bypassing DGR.
+        Let me go on: In fact, I guess that Weinberg, having heard George’s uttering, would
+add to his first uttering the following specification:
+         << the causal generation of a belief does not, of itself, detract in the least
+         from its truth >>14.
+However, he is de facto also accepting the validity of the specular sentence:
+           << the causal generation of a belief does not, of itself, detract in the least
+
+13
+  See Kim (1998).
+14
+   This sentence has been indeed presented to my attention by Adolf Grünbaum in a private discussion taking place in October 1992. At
+the time I had no occasion to reply with the specular sentence that now I am writing here. Grünbaum’s point of view is also exposed in
+his compatibilist paper “Free Will and Laws of Human Behavior”. See Grünbaum (1972).
+                                                                                                                                  10
+                                                                 10.
+             from its falseness >>.
+Note that, even if the content of George’s Eg is judged false, it must appear to Weinberg as a
+meaningful and appropriate response to the meaning expressed by Ew. All this means,
+however, that within the context of DGR, as an (ontological) view of nature, there could be
+no rational discrimination between Weinberg’s view and his opponent’s view.
+         Consider, now, the following cosmological evolution15:
+According to DGR, suppose that E1 and E2 be two cosmic events, and that E1 ≡ Ew and
+E2 ≡ Eg, respectively. We must assume, as already stressed, that E2 is a relatively
+appropriate and meaningful response to E1. E1 and E2 are end-results of very long causal
+chains. Now, let U(0) be the physical state of the Universe at t = t0 in cosmic time, say two
+billion years ago. We then meet the following coordination problem: why should U(0), in
+conjunction with the standard model, as well as predetermining the occurrence of E1 two
+billion years later, also predetermine the subsequent occurrence of E2, which expresses a
+meaningful and appropriate response to the meaning expressed by E1 ? Note that, barring
+a pre-established harmony, at t = 0 there was no possible “forecast” of the causal
+consequences of U(0) two billion years later, nor was there, there and then, any
+cognizance of meaning !
+         The crucial point is that – within Weinberg’s ontology – no conceptual room exists, or
+can be added – for any sensible notion of meaning and truth validating Weinberg’s or
+anyone else’s utterings. This means that, even if not asserted explicitly, the resulting
+position is equivalent to that of the total nihilist, who denies both truth and falseness.
+         In conclusion: as soon as Weinberg states – against George - that DGR is the only
+ontologically admissible view of nature, he falls into the ontological-phenomenological
+aporia: his ontology cannot justify the phenomenology of meaning he is using against his
+opponent’s view.
+
+4.3 – A florilegium of quotations - III
+
+4.3.1 - Epicurus (about the aporia of determinism of the world vs. meaning)
+<< A man who claims that all things come to pass by necessity cannot resist the argument of a
+man denying that all things come to pass by necessity, for he must admit that even this negation
+happens by necessity >>
+[Epicurus, Athens, ~ 300 B.C.]
+
+15
+     Adapted from Watkins: see Watkins (1993).
+                                                                                             11
+                                                 11.
+4.3.2 – Eddington (about the aporia of meaning)
+<< Assume our brain produces sugar when we say that 7 times 8 equals 56, while it produces
+chalk if we say - wrongly - that 7 times 8 is 65. We cannot say, however, that sugar is more "true"
+than chalk ... >>
+[A.S.Eddington, Oxford, 1938]
+
+5 – Time
+
+5.1. – Premises: framework and language
+I use throughout the events framework, to be distinguished from the things framework. The
+main current terminology concerning the language of time is here summarized for later
+use. However, I must issue a caveat from the beginning: the following characterization of
+time determinations follows from the famous McTaggart’s paper "The Unreality of Time"
+(Mind, 1908), but it has been developed subsequently within the philosophical context of
+analytic philosophy. I do not share the basic stances of this cultural tradition and I will
+accordingly distinguish my position from it when the case be. It is important to emphasize,
+however, that such distinctions are not relevant to my conclusions.
+      There are two basic modalities concerning the determination of events and the
+general philosophical views on time:
+      a) The A-determinations (A-series of events “E”) are characterized by the singular
+and monadic terms: “E is present, is future, is past”. The truth values of sentences
+including A-determinations depend on the temporal perspective of the utterer (“now it is
+raining in Cerisy” may be false today and true tomorrow); this modality is called tensed.
+Alternatively, one is used to saying that such sentences contain token-reflexive
+expressions (just like “now” or “here”) that enter the temporal tensed discourse essentially.
+Note the basic difference of time with respect to space: the use of spatially token-reflexive
+expressions, just like “here”, is not essential to the description of things as being in space.
+That is, we can describe an arrangement of things in space although we do not ourselves
+have a position in that space (even if, of course, we live in space: “externality” of space).
+b) The B-determinations (B-series of events “E”) are characterized by the bi-adic relational
+terms: “E1 is before, after, simultaneous to another event E2”. This series is – so to speak
+- “static” (“Newton’s death is forever before Napoleon’s death”). The truth values of
+sentences including B-determinations are independent of the temporal perspective of the
+
+                                                                                                12
+                                                  12.
+utterer (“On October 7, 2007 it is raining in Cerisy” may be true or false, but so it is at any
+time). This way of presenting temporal determinations is called tenseless. In other words,
+to say that an event occurs tenselessly at time t is to say that it is true at any time that the
+event occurs at t, so that the truth value of any empirical sentence about it is not a function
+of time.
+     An important remark: from a logical point of view, i.e., with reference to what can be
+captured and represented in language, including truth values, tensed and tenseless
+sentences are identical (if the former is uttered at the right time). Yet, the tensed sentence
+contains additional information of existential nature which is essential, for example, for an
+action to be performed “now”: e.g. “to buy an umbrella” if now it is raining in Cerisy.
+Moreover, suppose we had a complete narration of a sequence of events: to get complete
+information the question would remain, “And which of these events is occurring now ?”
+
+5.2. – Premises: ontology
+The ontological debate is about the issue of the ontic closure or ontic openness of the
+future and/or the past. According to an oversimplified account, the two basic positions are:
+     1) B-theorists or temporal “realists”: the future (and the past) is ontologically closed
+just because it is logically determinate so that, in this sense, it is real. The definition of
+ontic closure of the future is allegedly warranted, within analytic philosophy, by the fact that
+sentences about contingent future events satisfy the bivalence principle and are time-
+independently true or false. Since events are completely individuated by their attributes,
+they (unlike things) do not change in either themselves or their relations to other events.
+Real events, which either take place or not, are tenselessly ordered by B-series relations
+within a universal set W of “all the real events of the world”. (Plato does exist in the sense
+that – unlike the hippogryph – he occupies a place in W). Incidentally, note that logical
+determination has nothing to do, by itself, with causal determination, even if the two
+concepts, as we shall see, often interplay. Finally, I must say that, in spite of a great deal
+of logical exercises put forward by temporal realists, I am still at a loss in understanding
+how their ontological conception of time could be compatible with Free Will and Action.
+     The crucial point, however, is another and by far a deeper one. I simply do not share
+the view of the analytic philosophers who consider a foregone conclusion that logical
+determinateness can be safely equated to ontic determination. This amounts to an
+unwarranted inversion of the relation between ontology and logic, i.e., a stance which
+expects to deduce metaphysics from formal logic, that is, from language. This tenet of
+                                                                                             13
+                                              13.
+analytic philosophy appears to me as an instantiation of the deflationary minimalism I
+alluded to in the Introduction. Within the classical view (and mine), logic reflects ontology
+and not the other way round. Thus, it could be safely maintained that nothing can be said
+about the ontic status of the future although sentences about future contingents could
+satisfy the bivalence principle under certain circumstances: future is ontologically richer
+than what can be represented by logical structures. This point is not dissimilar from the
+relation between ontology of the world and reduced ontology pertaining to the
+representation furnished by the physical description, and could produce analogous
+aporetic consequences.
+        2) A-theorists, or temporal “unrealists”: The past is ontologically closed in the sense
+that past events have happened once and for all, and cannot be altered. Correspondingly,
+ sentences uttered “now” about them satisfy the bivalence principle. On the other hand, the
+future is ontologically open (“and” logically undeterminate) so that, in a sense, it is unreal.
+It is usually believed that events change their status concerning futurity, presentness,
+pastness, even though this is a highly improper assertion16. Sentences about future
+contingents do not satisfy the bivalence principle so that they can be neither true nor false
+(classic example: sentences about the future happenings of the Aristotle’s “battle of
+Salamina”). Note, however, the further asymmetry between A and B theories concerning
+ontology of the future. Instead of saying that the future is unreal, the A-theorist could
+simply state that ontology of the future is undefined, so that sentences about future
+contingents cannot satisfy the bivalence principle under any circumstances. The A-series
+embodies the intuitive view that the value of statements about empirical questions is a
+function of time in the sense that past and future are separated by a transient present in
+which things and events attain reality and being.
+        In other words, while according to B-theorists all real events have a time-independent
+place in the set W, according to A-theorists future events do not exist yet, i.e. they - as
+undefined attribute-carrying entities - are merely possible. This means that: i) as seen from
+now – and unlike past - more than one future is possible, and ii) the very set W is
+undefined. Then:
+1) B-theory: no real demarcation exists between past and future, so that no objective
+transitory property exists in the world: nowness is therefore unreal or mind-dependent (or
+
+16
+   This is where, in my opinion, the very event framework – except of course for its role within the physical description – reveals its
+limits.
+                                                                                                                                          14
+                                                                   14.
+even, in its consequences for actions, illusory17).
+2) A-theory: a real threshold exists between actualized and merely possible events.
+Nowness shows a real temporal structure of the world. The “now” possesses a specific
+objective quality in virtue of the fact that events come into being only in the present, and
+this quality serves to distinguish the possible from the actual. Furthermore, reality of the
+“now” is an ontological sufficient condition for freedom, because the “now” is when free
+action makes possible events become actual (reality of the “Becoming”). A-series
+determinations provide a necessary representation of temporal reality because real
+transiency cannot be described by means of a tenseless B-series determination. Many B-
+theorists will not accept this kind of necessity. On the other hand, many A-theorists will not
+accept the fact that B-theory can describe change, because change comes in only in
+connection to facts of kind A18. Although I am, obviously, an A- supporter, I believe that B-
+theory can indeed describe change, of course in a tenseless way, by saying that the same
+thing possesses tenselessly different properties at different times, or equivalently that the
+attributes of the distinct relevant events referring to that thing in W are different.
+          Finally, it should be noted that being unrealist about the future does not license
+anybody to say that they can “change the future”. This is an ambiguous claim because, if
+future allegedly possessed some kind of actual reality, it would be analytically true that it is
+impossible to change it from being what it “is” actually going to be. The point is of course
+that we cannot change an as yet non-existing entity. On the other hand, we can “shape” or
+“influence” the immediate future in our spatial neighborhood. The issue of Free Will is
+strictly interwoven with time, just because the way of shaping this riddle depends upon the
+way in which subjectivity is thought to be in time. As stressed in Section 3.2. nothing
+forbids a free action of an agent from bringing some happenings into being and initiating a
+(physically) emergent causal chain in an open world. By now, the reason why the issue of
+the reality of nowness is strictly connected with the issue of the freedom of will should be
+fully clear. Reality of nowness entails reality of actualization of potentialities through action.
+Moreover, the issue of the reality of nowness is strictly related to the issue of meaning and
+truth. For, if we are not really free to will and act, we are not even really free to believe and
+think, in such a way that the essence of rational thought would result as the supreme
+illusion.
+           Free choice and free action are fundamental features of the open world and show
+
+     Note that the illusion at stake here would be a universal and constant illusion.
+17
+18
+     Michael Dummett for one. See Dummett (1960).
+                                                                                               15
+                                                                     15.
+the essence of time and subjectivity. I am firmly convinced that if the notion of potentiality
+is not recovered in its generality at the level of philosophical thinking, there is no way of
+avoiding the main manifestations of the ontological-phenomenological aporia. The
+actualization of potentiality (or “becoming”) realizes a change of time, not a change in
+time. Therefore, any attempt to reduce potentiality to a change in time leads to aporias.
+Thus becoming is a very special type of change: essentially, it is the only change in reality.
+This cannot be blurred by the fact that the overwhelming majority of actualizations, once
+realized, can be described in terms of efficient causes. In particular, any choice can be
+explained in terms of (non-cogent) motivations. As observed by Richard Gale19, “What time
+enables us to say is exactly what cannot be said about time”.
+
+5.3. – Physical time
+
+A fundamental component of the reduced ontology is physical time. Its constitution is a sort of
+primary idealization which, abstracting from phenomenological time, introduces a fundamental
+bifurcation of nature (see Whitehead) and is relational by constitution. I will not enter here the
+sophisticated theoretical and philosophical steps required for the foundation of physical time.
+The relational constitution entails from the beginning that all physical time determinations
+belong to some B-series. Physical laws are intended to be valid for any time and cannot
+therefore single out a particular instant of time as "the now". Likewise, there can be
+devised no physical experiment having the capacity of telling whether a particular time
+shown by the hand of a clock is "the present" or not.        Unlike the scientific practice of the
+experimentalist, there is no “now” in the theoretical structure of physics. Physical time is
+mathematically represented by an ordered numerical continuum à la Cantor in terms of real
+numbers. In this way physical time is pointillized, since real numbers are isolated individuals
+as natural numbers. As with B-determinations, physical events “E” are characterized by time-
+independent bi-adic relations such as: “E1 is before, after, simultaneous to another event
+E2”. It must be stressed, however, that such determinations are not logically different from the
+usual ordering relation “smaller than”, “greater than”, “equal to”, of the real line, so they do not
+possess by themselves the capacity of characterizing such real line as temporal. Such line is
+not lived through and is presented to us wholly, with all of its distinguishable parts “co-
+present”. The pointillized mathematical representation, therefore, must be intentionally
+supplemented by the phenomenological notion of time, which is not included in it.
+
+19
+     See Gale (1968).
+                                                                                                 16
+                                                16.
+The level of abstraction of the representation of physical time may be properly appreciated in
+the following examples [see Fig.2,3,4].
+
+   a) Change in a physical property “p” of a given physical entity:   (Fig.2)
+
+Here we have an infinite sequence of isolated attributes, one for each real number t*, which
+are thought of as representing the values of a property of the same physical entity as time
+goes by. However, nothing within the representations tells us anything about the sameness of
+the thing whose changes we are describing. The identity (i.e., the substratum of the changes)
+of the thing must be intentionally maintained from outside. We are seeing in vitro the effective
+working of the blockade of the essential/accidental analysis: the ontological issue is
+suspended, without detriment to the efficacy of the representation.
+
+    b) “Genidentity” of world-lines in Minkowski space-time (M4): (see Figs. 3,4)
+“Genidentity” is the notion introduced by Hans Reichenbach (The Direction of Time, 1956)
+with reference to the world-line of a given massive particle in M4, just as a memo for taking
+into account the fact that such an identity has no room in the spatio-temporal representation.
+Note also that it presupposes that a determination of continuity is epistemically available to us.
+Yet, the level of abstraction implicit in the representation of physical time appears even more
+surprising, if we consider the spatio-temporal intersection of the world-lines of two different
+massive particles. In this case we have the same point-event representing two different
+identities, i.e., even a logical contradiction !
+
+                                                                                               17
+                                               17.
+In this connection, it is worth recalling that Einstein, in the so-called point-coincidence
+argument, considered the world–line intersections as the only physically-objective content left
+in space-time by the requirement of general covariance … We can appreciate here how the
+Galilean blockade of essences can provide a reduced representation of the phenomenological
+experience of real things which is effective even at the price of tolerating logical contradictions.
+         However, in order to avoid misunderstandings, two important caveats must be issued
+here: (i) we cannot restrict the ontological bearing of the physical description of the world to its
+theoretical structure: we must take into account the coordinative definitions that link the latter
+to the practice of the experimentalist; ii) as already stressed, the effectiveness of the
+mathematical representation of the reduced ontology does not license anybody to operate a
+reconstruction of the world in terms of such ontology being subject to philosophical aporetic
+consequences.
+
+6 - A snare of the reduced ontology: are we inhabitants of Minkowski space-time ?
+
+<< I conclude that the problem of the reality and the determinateness of future events is
+now solved. Moreover, it is solved by physics and not by philosophy. We have learned that
+we live in a four-dimensional, and not a three-dimensional world, and that space and time -
+or better, space-like separations and time-like separations - are just two aspects of a
+single four-dimensional continuum with a peculiar metric which sometimes permits
+distance (y,x) = 0, even when x ≠ y. Indeed, I do not believe that there are any longer any
+philosophical problems about time; there is only the physical problem of determining the
+exact physical geometry of the four-dimensional continuum that we inhabit. >>20
+
+          First of all, I maintain that we cannot simply “read off” metaphysical conclusions
+from the theory of relativity. An even greater mistake, however, is to forget the
+methodological limitations lying at the basis of any physical description and neglect that
+unavoidably – though implicitly – metaphysical assumptions have entered the formulation
+of the theory, in the first place. In the end, one can extract only so much metaphysics from
+a physical theory as one puts in. And it seems rather difficult to maintain that the
+(necessarily non-transitive !) notion of “reality for (somebody)” linked to simultaneity (which
+Putnam introduces at the beginning of his paper as a fundamental presupposition) is not a
+metaphysical one. Also, it is difficult to see how a physical theory, such as relativity, which is
+
+20
+     See Putnam (1967).
+                                                                                                 18
+                                                18.
+concerned with spatio-temporal measurements, could inform us as to the manner in which the
+mind or consciousness is related to the physical world. All these phenomenological issues are
+not part of the theory of relativity, but are philosophical interpretations of its metaphysical
+significance.
+       Minkowski spacetime21 (M4) is just a physical instantiation of the set W of all
+actualized real events considered by B-theorists, with the additional specification that it
+possesses a fundamental causal structure defined by null-cones. Its events are
+necessarily actualized in terms of definite physical attributes individuating them, over and
+above their geometrical meaning: think, e.g., of the values of electromagnetic field. In this
+connection, I believe that most working physicists (and the philosopher Putnam) may be
+unaware of the philosophical subtleties hidden under a standard literal interpretation of M4
+as a reification of the real space and time which “we inhabit”. First of all, in order to
+attribute physical properties to events of M4, we must think that Maxwell equations have
+been solved beforehand. Now, solving the equations needs a well-posed Cauchy problem:
+in this case the allotment of the values of Maxwell fields and their derivatives over a whole
+infinitely extended instantaneous 3-space, say S3, at t=0. This knowledge is a synthesis of
+information accessible only to each one of the infinite many ideal observers sitting on each
+point of S3, at t=0. All of such observers – each of whom can only “see”, with little practical
+utility, their own past light cone - are therefore mutually causally disconnected according to
+the very causal structure of M4. This means that gathering the necessary information in
+order to attribute the physical properties to events is factually impossible in M4. This
+operation would require an external super-observer who cannot inhabit Minkowski space-
+time. Therefore no living observer can be forced within the Minkowski space-time (or any
+general-relativistic space-time model) to collect in a factually possible (specifically causal)
+way the infinite amount of information needed. Furthermore, since all events are causally
+actualized wholly, no living observer can be forced in M4 who can act to selectively
+generate a situation in their environment so that this situation, as a cause, will, according
+to their physical causal knowledge, later give rise with great probability to the effect which
+is desirable to them. Finally, there can be no living observer with the freedom to check the
+very empirical truth of the physical theory itself. Any alleged reification of M4 leads to a
+notion of the world which includes everything, in particular the object of an action and the
+agent of the same action. This world, however, is a non-factual world that nobody can
+"observe", study or control. While the world of science is the object of our action, Putnam’s
+
+                                                                                            19
+                                              19.
+imagined world fails to account for the empirical basis that is necessary for its very
+description while allegedly containing everything. It is just another instantiation of the basic
+aporia.
+           We can only look at M4 as a mathematical model for the operational practice of the
+experimentalist concerning spatio-temporal measures. For example, let us consider the
+motion of a relativistic object. Of course, given the B-series nature of the temporal
+description, there is no motion at all in M4 even if there is change. The ordinary sense of
+the term refers to the observation that there is some object "moving". Since this "moving"
+always takes place in "the present" of the experimentalist, as all other phenomena "taking
+place", one could be easily misled to believe that the physical essence of the concept of
+motion could be captured by the experience of an object as "moving", more or less on the
+same footing in which it is often asserted that there is a "moving now". Naturally, there are
+moments of the motion history of the object that are now "past" and characterized as
+moments of a "remembered present". However, if the motion is no longer taking place
+"now", we can only describe the former motion as a purely B-series sequence of positions
+of the object at different times (of a clock), a description which expresses exactly the only
+objective physical meaning of "motion". Accordingly, since there is no temporal transiency
+in Minkowski space-time, only tenseless senses of the words "becoming", "now" and even
+"motion" are admitted in the relativistic idiom of physics. On the other hand, the ordinary
+sense of "motion" is perfectly legitimate in the practice of physics and, therefore, in the
+idiom of the experimentalist. This entails that locally and for a limited span of time, the
+experimentalist can project – so to speak - their practical view of the motion into Minkowski
+space-time as a mental aid for their intuition of the physical process. The experimentalist
+can consider, e.g., a world-line of a point-mass endowed with a clock and, as time goes
+by, mark on the world-line certain times indicated by their own synchronized physical clock
+in the laboratory, as a running chart. As long as the motion takes place, this can be a
+useful way of reasoning. It should be clear, however, that as soon as the limited allotted
+time has expired, the intuitive spatio-temporal representation of the motion given by the
+experimentalist is concluded and nothing remains in the Minkowski picture which is
+different by a section of a standard infinite world-line with a B-series finite sequence of
+marked events.
+           Then what can we say about the status of nowness in relation to the mathematical
+model of M4 ? Certainly, in Minkowski space-time there is no absolute fact of the matter as
+
+21
+     A similar discussion could be made concerning general relativity. See Lusanna & Pauri (2007b).
+                                                                                                      20
+                                                                  20.
+to which an event is present. Even more, present for different observers. Yet there is no
+absolute fact of the matter about presentness of events in Newtonian absolute time either,
+as there is no fact of the matter about presentness in a physical theory whatsoever. It is
+also certain, however, that acceptance of relativity cannot force one into the acceptance or
+rejection of any of the traditional metaphysical views about the reality of past and future. In
+addition, one should not forget, within the foundations of the theory, the distinction between
+genuinely factual elements and the merely conventional choices which go into the relativistic
+spacetime picture. One who wishes to stick by a tensed view of time, and is willing to pay the
+price, is certainly able to do so, all the while accepting the scientific reasonableness of
+Minkowski spacetime as an operational model22 for spacetime physics.
+                   The reality of nowness is a metaphysical issue23. Therefore, at the most we can
+only try to see whether there is a possible compatibility of such reality with some elements
+of a (possibly global) spatio-temporal description. As a first example, if one - an external
+real super-observer - is willing to “force”, whatever the price, a living agent along a time-
+like world-line of M4, they would have – as it were - to “update” the structure of Minkowski
+spacetime at the origin24 of every emergent causal chain generated by a free action. This
+“updating” would take place in the “now” – i.e., in the real time - of the external super-
+observer, but such time convention would not be registered in the updated M4. In
+correspondence to each updating, M4 would only be tenselessly different from its previous
+copy. Going further along this line of reasoning, we could correlate the “now” of the living
+agent - assumed in this case as following the world-line of a “fundamental observer” - to
+cosmic time of the standard models of relativistic cosmology. This correlated “global now”
+would resemble the cosmic unison of Whitehead. The identical twins of the standard
+paradox would share a common “now” at the beginning and the end of the journey, while
+the same span of cosmic time – defined by the initial and the final events - would be
+measured differently by the “proper clock” of each of the twins, and the same would be for
+their “specious present” time, even if each of them continued to experience their “now” at
+any point of their world-line.
+
+22
+   Remember, for example, that Poincaré always considered Minkowski spacetime as a mathematical model and not “un modèle
+véritablement physique”.
+23
+   I must say that I cannot share Shimony’s claim that nowness as such can be embarked within Minkowski spacetime: see Shimony
+(1993).
+
+24
+     To be defined as “acausal” with respect to physical causality.
+                                                                                                                                 21
+                                                                      21.
+7 – Time: on DGR thesis of the subjectivity of nowness and becoming
+      From now on I will consider the consequences of DGR on physical time representation
+specifically. First of all it is obvious that DGR makes a reification of M4 as a mathematical
+model of the spacetime we inhabit (I still consider special relativity only, for the sake of
+simplicity).
+      According to the tensed view of time, A-determinations, reflecting the basic
+phenomenological structure of our experience of time, have the capacity of singling out a
+unique instant (or a more complex phenomenal structure) of experienced time, as the real
+“now”. The issue at stake here is that DGR claims (in analogy with any B -Theory) that there is
+no real transiency in the world, and A-determinations are purely mind-dependent or subjective
+(or, in this case, even illusory because of the connection between reality of nowness and free
+will or action: “we – illusorily - feel to be free”).
+      It can be easily seen that, once a commitment is enforced concerning the ontological
+status of experience, awareness, and subjectivity in general, the attribution of mind-
+dependence becomes either a truism or aporetic. In fact, consider two extreme positions:
+a) Subjectivity holds an ontological role which is neither included nor derivable from the
+physical description of the world (as DGR contends. Details are irrelevant here). Then, A-
+determinations possess a real uneliminable status in nature so that they are as subjective as
+they should be. As already stressed, the crucial philosophical point is the conception of time
+as actualization of real potentialities.
+b) Only physical entities are ontologically fundamental and subjectivity is included or derivable
+from the reduced ontology of DGR (details would be welcome here !). Then, only a tenseless
+view of the world is real, including subjective or “mental” events. However, when physicalistic
+ontology is conjoined with an implicit reification of M4 and the thesis that A-determinations are
+mind-dependent, DGR must claim that nowness is mind-dependent (or even illusory) at least
+as purely sensory qualia. Besides, it is clear that the B-theory account of nowness, action and
+Free Will can be maintened only under the condition that an explicit ontological commitment
+about the mind-body problem is suspended or is questionbeggingly relegated to a future
+“explanation”.
+
+                                                                                              22
+                                                        22.
+7.1 – Time: on the aporetic structure of DGR thesis of the subjectivity of nowness – I
+                                                                           25
+                        AN ARGUMENT BY TENSELESS TEMPORAL REPRESENTATION        [see Fig.5]
+
+Consider the temporal career of a human brain B. DGR describes this history tenselessly as
+a sequence of mental events as characterized on the basis of their neural-physico-chemical
+properties. According to DGR, the full specification of such properties specifies everything
+completely. In particular all the attributes, or properties, of the mental events are likewise fully
+specified in such a way that the attributes of any event E are intrinsic to it, fixed and
+tenselessly independent of time.
+           Consider now an event E0 at time t = 0. We must assume that the experience of
+nowness of B at t = 0 is one of the properties of E0 and, as such, part of the complete
+specification of E0 that will persist all the time. This entails, however, that at any subsequent
+time t1 > 0 the intrinsic attributes of E0 will still characterize E0 as taking place “now” (even as
+“illusion”). Note that we are not allowed to believe that the attributes of, say, E1 at t1 will
+generate the experience of nowness at t1 together with the remembered nowness at t = 0.
+This would entail that at least part of the physical specifications attributed to E0 at t = 0 be
+time-dependent, so that E0 itself would be an undefined event.
+Fig.5 shows the effect of an alleged tenseless view of the “now”:
+
+In conclusion, according to DGR, A-determinations would fail to fulfil their actual and tensed
+task of singling out a particular instant as the unique “now”, even as appearance or illusion.
+Therefore, DGR is unable to justify time phenomenology and falls under the ontological-
+phenomenological aporia.
+
+25
+     Adapted from Shimony: see Shimony 1993.
+
+                                                                                                 23
+                                                   23.
+7.2 – Time: on the aporetic structure of DGR thesis of the subjectivity of nowness - II
+                          AN ARGUMENT BY A CAUSAL TOY-MODEL [see Fig.6]
+
+DGR supporters claim that the experience of nowness should be tenselessly explained on the
+same grounds on which sensory qualia are explained by the causal theory of perception.
+Nobody, however, has advanced such kind of explanation up to now. The reason is simply
+that, even assuming that a truly explicit causal theory of perception be offered to us (which it is
+not), this program is unsound in principle due to the fact that, unlike secondary qualities, the
+experience of nowness - and the corresponding A-determinations that represent it - are not
+sensory data. We do not perceive nowness through one or more of our senses. Therefore, a
+causal theory of the “perception” of nowness cannot even leave the grounds, since it should
+begin with perceived, i.e., sensible properties. Of course it is up to DGR/B-theory supporters
+to offer their explanation of nowness. A typical attempt to defend the reductionist B-theory
+interpretation of the experience of nowness as mind-dependent or even “illusory”, is to identify
+experience of the unique “now” with          immediate awareness. This thesis is evidently
+question begging since, of course, that experience is part of the awareness; yet it remains
+to be “explained” what exactly awareness (or “consciousness”) is. This fundamental
+ontological issue cannot be resolved by a battle of words.
+      Here, anyway, I propose a simple causal toy-model, not directly based on sensible
+perceptions, which should indicate the nature of the difficulties lying beyond the imagined
+DGR/ B-theory program.
+Fig.6 shows a stretch of the temporal career of a perceiving brain B.
+
+CE is a clock external to the human brain’s owner B; S(t) are sensible properties in the B’s
+environment at time t; P[S(t)] is B’s perception of S(t) at time t of CE; M(t1) is the memory at
+time t1 of the perception P[S(t)] (which is different from P[S(t)] !). Finally, RI is an internal
+recorder of the brain B which has the function of attributing an internal temporal index T to the
+perception P[S(t)] . Note that the index T by itself – as pure recording of the perception - is a
+monadic attribute: it does not belong to the B-series of CE and cannot be measured by it.
+                                                                                                24
+                                                24.
+Adopting a B-series way of thinking, the model consists in describing the experience of
+nowness of B, at time t of CE, as the synchronicity of P[S(t)] (at time t) and the index T, as
+registered by RI (not a secondary quality !).
+          Now, the monadic nature of T entails that the internal recorder be a tensed
+mechanism. Since we want to explain the whole phenomenon tenselessly, T of RI must be
+recordable with the same modalities valid for CE, a fact that would require a second recorder
+R’ initiating an infinite regress.
+          It is obvious, therefore, that either a tensed element is introduced at some level, or an
+infinite regress follows; in other words, the imagined DGR/B-series toy-model fails to
+reproduce temporal phenomenology: we fall again into the ontological-phenomenological
+aporia.
+
+8. - Natural Evolution
+
+8.1 – A florilegium of quotations - IV
+8.1.1 – T.Nagel (about the cosmological implications of the mind-body issue)
+<< We won’t have an adequate general conception of the world until we can explain how, when a
+lot of physical elements are put together in the right way, they form not just a functioning biological
+organism but a conscious being. If consciousness itself could be identified with some kind of
+physical state, the way would be open for a unified physical theory of mind and body, and therefore
+perhaps for a unified physical theory of the universe. But the reasons against a purely physical
+theory of consciousness are strong enough to make it seem likely that a physical theory of the
+whole of reality is impossible>>
+[Thomas Nagel: What Does It All Mean ?, OUP, 1987]
+
+8.1.2 – T. Nagel (about the appearance or (universal) illusion vs. reality distinction)
+<< In physicalism there is no conceptual room for an appearance/reality distinction >>
+[Thomas Nagel: “The View from Nowhere”, OUP, 1986]
+
+8.1.3 – W.Pauli (about the eradication of finality from Nature)
+<< Dieses Modell der Evolution ist ein Versuch, entsprechend den Ideen der zweiten Hälfte des XIX
+Jahrhunderts, an der völligen Elimination aller Finalität theoretisch festzuhalten. Diese muss dann in
+irgend einer Weise durch Einführung des “Zufalls” ersetzt werden >>
+[Wofgang Pauli, Dialectica 1954]
+
+8.2 - On the aporetic character of the conjunction of DGR and the strictly Darwinian
+theoretical model of Natural Evolution
+                                                                                                    25
+                                                    25.
+I will be sketchy. As already stressed in the Introduction, I am not referring here to such
+ideological counter-moves like the so-called “creationism”, “intelligent design” and the like.
+Nor am I willing to put into question the methodological Darwinian analyses and techniques
+that are necessary to the every-day laboratory work of the biologists and paleologists within
+their piecemail work (which I define LD). Neither do I intend to doubt the central Darwinist
+thesis of the common origin of species. My aim is mainly to focus on the philosophical
+difficulties arising from the conjunction of, on the one hand, the recognition of the reality of
+subjectivity - which shows itself in living organisms by various degrees – and, on the other,
+the extrapolation of the strict Darwinian theoretical model from laboratory practice to
+cosmological level, in conjunction with DGR (which I define EDM).
+26
+
+(i) The Darwinian theoretical model is based on a fundamental connection between the
+essentially random character of mutations and the process of natural selection due to
+adaptation to the environment. Although, according to LD, single mutations are probabilistic
+observable events (note that they only resemble pure quantum processes: there are no
+“quantum events” in spacetime !), the underlying philosophical backdrop of EDM is the
+same as the DGR view of Nature (“chance and necessity”27). Let me add that the “chance”
+referred to in EDM is a sort of metaphysical, negatively defined, entity, well distinct from the
+“chance” embedded in formal probabilistic theories fitting scientific descriptions.
+       Let us consider the issue of chance closely. If this notion must be understood
+scientifically – i.e., beyond its common sense or vague metaphysical meaning – one
+should have to define first of all a space of probability for the evolutionary context, and
+then compare the evolutionary temporal scale, which follows from the model theoretically,
+with the corresponding empirically observed temporal scale. Thus, within EDM, it should
+be concretely shown that, corresponding to the theoretical possibility of a given
+evolutionary stage, the empirical duration necessary for its manifestation is actually
+verified. I do not believe that a satisfactory account of this foundational theoretical
+necessity of the model has been given so far. One should not forget, in particular, that
+while LD exploits statistical methods concerning frequent and reproducible events, the
+EDM interpretation requires in addition the consideration of infrequent and possibly unique
+events. All this means, however, that the extrapolation implicit in EDM is first of all very
+weak empirically.
+
+26
+    These considerations parallel those made for relativity theory in Section 6. The fact that the biologists must take into account the
+phenomenology of probabilistic mutations and adaptive selection at the laboratory scale does not entail that the LD model of evolution
+could inform them as to the manner in which subjectivity emerged in natural evolution, a fact that has to do with the philosophical
+interpretation of the possible metaphysical significance of the cosmological extrapolation of LD.
+27
+   Bernard d’Espagnat has ironically remarked that quantum theory seems to play no role for this philosophical chance ! See “Une lacune
+d’importance”, d’Espagnat 1977.
+                                                                                                                                    26
+                                                                  26.
+(ii) As Pauli28 has remarked, the strict Darwinian model of natural evolution (EDM) is a
+theoretical attempt to a complete eradication of finality from Nature. We, however,
+experience ourselves as acting according to finality and free choice, so where is this finality
+coming from ? Clearly we face here the same aporetic junction that pervades DGR
+throughout. Our experience should be explained in terms of the underlying ontology.
+Alternatively, one can defend the appearance thesis according to which we deceive
+ourselves: we erroneously feel to act according to final causes. In this case, however, it is
+the very role of appearance that should be explained in terms of the underlying ontology.
+Yet, this is the philosophical crux we have already met for the issue of time, since DGR (like
+physics itself !) has no room for the reality/appearance distinction. The conclusion is the
+same: if we are continuously deceiving ourselves concerning finality and free choice, why
+are we not continuously deceiving ourselves concerning believing and thinking? In
+conclusion EDM is another typical source of nihilism.
+
+(iii) Consciousness. This is an ambiguous term that is often misinterpreted for self-
+awareness. I would rather use the term subjectivity, which is common, by various degrees,
+to all living beings and points essentially to sentience (qualia). EDM claims it can explain
+the emergence of consciousness (sentience) in the phenotype by means of adaptation and
+survival of the fittest. Yet, the fundamental point is that adaptation can explain the survival
+of something given, or at least something whose possibility is already taken for granted29.
+Subjectivity must be possible before its value in terms of survival can be tested, and this is
+equivalent to having solved the mind-body issue. The impossibility of this solution within
+DGR has been argued in Section 3.2. Above all, what is highly unconvincing (and a little
+grotesque) is the general scenario of the DGR+EDM view: that of a completely senseless
+Whole that, by pure chance, necessity and adaptation, gives rise to a hyper-complex
+medium sized object (the human brain) which secretes an intellectual highly convincing,
+counterfactual supporting, insight of this senseless Whole, including an astonishing and
+successful physico-mathematical representation of “quantum” phenomena                                                        which – by
+definition – lay outside all the macroscopic adaptive experiences of human evolution !
+
+(iv) The cosmological genetic problem. Summarizing, it is clear that the structure of the
+Galilean physical description of the world poses anyway a cosmological genetic problem. It
+is very difficult to imagine a clear-cut demarcation line between life and absence of life.
+Then, how can an evolutionary process be explained as leading to life, subjectivity and
+
+28
+     See Pauli (1954).
+29
+     Note that this question can be raised even for functions other than consciousness, yet this specific case is emphatically critical for the
+                                                                                                                                            27
+                                                                       27.
+real time starting from what we describe as inanimate "matter" ?
+          At this point, I believe I ought to indicate at least what I believe to be a direction of
+solution of the cosmological genetic issue and to advance a positive metaphysical
+proposal. My suggestion is that the physical description of the world is not able to capture
+the whole endowment of potentialities of "matter" either.
+           In its essence, the issue is simple: we cannot deny the reality of subjectivity. The
+existence of a causally closed physical world would imply that either subjectivity is one of
+the properties of this world, or that it is something else. As I have already argued, the first
+alternative leads to deep antinomies. Then, if we refuse to accept a trascendental solution
+of Kantian type, which forbids any ontology of subjectivity, and we also refuse to introduce
+a world of different entities, which raises the awkward and intractable issue of the relations
+between the two worlds, we must reject the concept of a physical world as a self-contained
+whole, as if we could put ourselves "from the point of view of matter". Although, in 8.1.1
+above, Nagel clearly realizes the connection between mind-body issue and cosmology, in
+my opinion he misses the crucial point. For – as already stressed in Section 3.2 - in order
+to avoid aporetic conclusions about subjectivity, we have precisely to give up the idea of a
+physical world             as a causally closed self-contained whole. For the reduced physical
+ontology only allows us to speak of a physical description of the (open) world.
+          Then, however, it is the philosophical concept of "matter" that is in need of
+reformulation, and this points to a direction of solution of the mind-body problem that is
+more akin to a neo-Aristotelian view. Note that my stance is not a Whiteheadian thesis
+according to which physics should be reformed. My claim is that the structural limitations of
+the Galilean methodical foundations inherently forbid an exhaustive description of the
+world, from “matter”, to living organism qua living organisms, let alone of superior
+conscious and self-conscious organisms. Physics deals with very sophisticated
+constructions like “physical objects” and “systems”, not with “matter”.
+
+9. A conclusion ?
+
+DGR necessarily implies a reductionist notion of truth, which is nothing else than a merely
+"pragmatic" notion of truth. This, however, is a basic source of nihilism.
+        I literally cannot live with a "pragmatic" notion of truth. I do not possess the truth, of
+course, but I deeply feel that my existential ground would collapse at every instant of time
+
+philosophical reasons already illustrated..
+                                                                                                28
+                                                   28.
+if I had to give up the horizon of real truth and the inner necessity of the circuit of reason as
+discovered by the Greeks. Thus, when I used the notion of truth in this paper I was not
+referring to any particular choice among its various well-known different logical definitions.
+I was simply exploiting the common immediate notion of truth which everyone implicitly
+uses every time they want to defend a thesis whatsoever. Otherwise any human
+communication about knowledge would be impossible.
+     Certainly, accepting the strength and the validity of the Greek circuit is only an option,
+rather than a mechanical necessity imposed upon us. On the other hand, were it a
+necessity, the whole articulated edifice of rational thinking would ipso facto be annihilated.
+     In the end, therefore, the conflict shows its real content: in that it arises from a very
+deep existential diversity between the opponents in the debate. Yet the “pragmatic” notion
+of truth remains a basic source of nihilism. That we all live in, today.
+
+                                      Acknowledgements
+I am warmly indebted to my dear friends Professors Mario Casartelli and Tony Scotti for very
+useful and stimulating discussions.
+                                         References
+
+- Bohm, D.: (1980) Wholeness and the Implicate Order, AIR Paperbacks, London.
+- d’Espagnat, B.: (1977)     “Une lacune d’importance”, Review of Monod’s “Chance and
+Necessity”, Nouvelles Littéraires, May Issue.
+- Dummett, M.: (1960), “A Defense of McTaggart’s Proof of the Unreality of Time”, The
+Philosophical Review, 69, n.4, pp.497-504.
+- Gale, R.: (1968) The Language of Time, Routledge &Kegan Paul, London.
+- Grünbaum, A.: (1972), “Free Will and Laws of Human Behaviour”, in H.Feigl, W.Sellars, and
+K.Lehrer, eds. New Readings in Philosophical Analysis, New York: Appleton-Century-Crofts,
+pp. 605-627.
+- Kim, J.: (1998), Mind in a Physical World - An Essay on the Mind-Body Problem and Mental
+Causation, The MIT Press, Cambridge, Mass.
+- Lusanna,L. and Pauri,M.: (2007), “Dynamical Emergence of Instantaneous 3-Spaces in a
+Class of Models of General Relativity”, in Relativity and Dimensionality of the World,
+V.Petkov ed., Springer Verlag, October 2007; gr-qc/0611045.
+- Pauli, W.: (1954) “ Naturwissenschaftliche und Erkenntnistheoretische Aspekte der Ideen
+vom Umbewussten”, Dialectica, 8, pp.283-301.
+                                                                                              29
+                                                29.
+- Pauri, M.: (1997a) "Time: The Physical Worldview and Becoming", in Perspectives on Time,
+J.Faye, U.Scheffler, and M.Urchs eds., Boston Studies in the Philosophy of Science, n.189,
+Kluwer Academic Publishers, Dordrecht, pp. 267–297.
+- Pauri, M.: (1997b) "La Descrizione Fisica del Mondo e la Questione del Divenire
+Temporale", Essay in the book Filosofia della Fisica, G.Boniolo ed., Bruno Mondadori,
+Milano, pp. 245-333.
+- Pauri, M.: (1998) "Do Living Organsims Possess Peculiar Temporal Properties ? ", Talk
+given at the 1996 Session of the Acadèmie Internationale de Philosophie des Sciences
+(Vigo, Spain, May 1996), now in the book International Conference on Philosophy of
+Science: Philosophy of Biology, José Tojo Suarez ed., Universidade de Vigo Press, pp.163-
+189.
+- Pauri, M.: (1999) "I Rivelatori del Tempo", Nuova Civiltà delle Macchine: Il Profilo del
+Tempo, Anno XVII, N.I(65), pp. 38-54.
+- Pauri, M. (2000): “Leibniz, Kant and the quantum. In E.Agazzi and M.Pauri (eds.), The
+Reality of the Unobservable, Boston Studies in the Philosophy of Science, n.215, Kluwer
+Academic Publishers, Dordrecht, pp.270-272.
+- Pauri, M.: (2001) "Perennial Cosmology", Invited Presentation at the Workshop SSQ-II:
+Physics and Cosmology, UNESCO, Paris, January 9-12.
+- Pauri, M.: (2007), “Il Quanto, il Tutto e le Parti: Crisi dell’Atomismo e Spaziotemporalità –
+I, Epistemologia, XXX, pp.3-40.
+- Putnam, H: (1967) "Time and Physical Geometry", The Journal of Philosophy, 64(8),
+pp.240-247; reprinted in Mathematics, Matter and Method - Philosophical Papers, vol.1,
+Cambridge University Press, Cambridge 1979.
+- Shimony, A.: (1993), “The Transient Now”, in Search for a Naturalistic World View, vol.II,
+Natural Science and Metaphysics, University Press, Cambridge, pp. 271 – 287.
+- Torretti, R.: (2000), “Spacetime Models for the World”, Studies in History and Philosophy of
+Modern Physics, vol.31, pp. 171-186.
+- Watkins, J.: (1993), “Adolf Grünbaum and the Compatibilist Thesis”, in J.Earman, A.Janis,
+G.Massey and N.Rescher, eds. Philosophical Problems of the Internal and External Worlds –
+Essays on the Philosophy of Adolf Grünbaum, University of Pittsburgh Press, Pittsburgh, PA, pp. 573-
+
+588.
+- Weinberg,S.: (1995), http:/www.idt.mdh.sc/kurser/ct3340/ht02/Reductionism_Redux.
+
+pdf.
+- Wigner, E.P.: (1960), “The Unreasonable Effectiveness of Mathematics in Natural
+                                                                                                 30
+                                                30.
+Sciences”, Commun.Pure Appl. Math., 13, pp. 1-14.
+
+                                                    31
+                                          31.
+

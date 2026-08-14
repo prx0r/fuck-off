@@ -1,0 +1,1097 @@
+# AJP Volume 40
+
+**source:** pdf · **section:** solutions
+**file:** Copenhagen_Interpretation
+---
+
+
+The Copenhagen Interpretation*
+
+HENRY PIERCE STAPP                                               This radical concept, called the Copenhagen
+Lawrence Berkeley Laboratory                                  interpretation, was bitterly challenged at first
+University of California                                      but became during the '30's the orthodox inter-
+Berkeley, California 9^720                                    pretation of quantum theory, nominally accepted
+(Received 26 March 1971; revised 29 February 1972)            by almost all textbooks and practical workers
+                                                              in the field.
+   An attempt is made to give a coherent account of the          Recently, perhaps partly in response to the
+logical essence of the Copenhagen interpretation of           severe technical difficulties now besetting quan-
+quantum theory. The central point is that quantum theory      tum theory at the fundamental level, there has
+is fundamentally pragmatic, but nonetheless complete.         been mounting criticism of the Copenhagen in-
+The principal difficulty in understanding quantum theory
+                                                              terpretation. The charges range from the claim
+lies in the fact that its completeness is incompatible with
+external existence of the space-time continuum of classical   that it is a great illogical muddle to the claim
+physics.                                                      that it is in any case unnecessary, and hence, in
+                                                              view of its radical nature, to be rejected. Reference
+                                                              1 contains some stoutly worded attacks on the
+                                                              Copenhagen interpretation. Reference 2 is a more
+                                                              moderately worded review article that firmly re-
+                                                              jects the Copenhagen interpretation. Reference 3
+                                                              is a list of recent articles in the physical literature
+                                                              that espouse a variety of views on the question.
+                                                                 The striking thing about these articles is
+                                                              the diversity they reveal in prevailing concep-
+                                                              tions of the Copenhagen interpretation itself. For
+I. INTRODUCTION                                               example, the picture of the Copenhagen interpre-
+                                                              tation painted in Ref. 1 is quite different from
+   Scientists of the late twenties, led by Bohr and           the pictures painted in Refs. 2 and 3 by practicing
+Heisenberg, proposed a conception of nature                   physicists. And these latter pictures themselves
+radically different from that of their predecessors.          are far from uniform.
+The new conception, which grew out of efforts to                 The cause of these divergences is not hard to
+comprehend the apparently irrational behavior of              find. Textbook accounts of the Copenhagen in-
+nature in the realm of quantum effects, was not               terpretation generally gloss over the subtle points.
+simply a new catalog of the elementary space-                 For clarification the readers are directed to the
+time realities and their modes of operation. It was           writings of Bohr 4 and Heisenberg.5 Yet clarifica-
+essentially a rejection of the presumption that               tion is difficult to find there. The writings of
+nature could be understood in terms of elementary             Bohr are extraordinarily elusive. They rarely
+space-time realities. According to the new view,              seem to say what you want to know. They weave
+the complete; description of nature at the atomic             a web of words around the Copenhagen interpre-
+level was given by probability functions that                 tation but do not say exactly what it is. Heisen-
+referred not to underlying microscopic space-time             berg's writings are more direct. But his way of
+realities but rather to the macroscopic objects of            speaking suggests a subjective interpretation that
+sense experience. The theoretical structure did               appears quite contrary to the apparent intentions
+not extend down and anchor itself on fundamental              of Bohr. The situation is perhaps well summarized
+microscopic space-time realities. Instead it turned           by von Weizsacker, who, after expressing the
+back and anchored itself in the concrete sense                opinion that the Copenhagen interpretation is
+realities that form the basis of social life.                 correct and indispensable, says he must "add that
+
+1098 I August 1972
+                                                                                The Copenhagen Interpretation
+
+the interpretation, in my view, has never been          characteristic of the physical system being pre-
+fully clarified. It needs an interpretation, and        pared. They are called the degrees of freedom of
+that will be its only defense."6                        the prepared system. The description of the
+   von Weizsacker is surely correct. The writings       specifications A is couched in a language that is
+of Bohr and Heisenberg have, as a matter of             meaningful to an engineer or laboratory tech-
+historical fact, not produced a clear and un-           nician. The way in which these operational speci-
+ambiguous picture of the basic logical structure        fications A are translated into a corresponding
+of their position. They have left impressions           wave function^(a;) is discussed later.
+that vary significantly from reader to reader. For         The specifications B on the subsequent measure-
+this reason a clarification of the Copenhagen           ment and its possible result are similarly couched
+interpretation is certainly needed. My aim here         in a language that allows a suitably trained tech-
+is to provide one. More precisely, my aim is to         nician to set up a measurement of the specified
+give a clear account of the logical essence of the      kind and to determme whether the result that
+Copenhagen interpretation. This logical essence         occurs is a result of the specified kind. These
+should be distinguished from the inhomogeneous          specifications B on the measurement and its
+body of opinions and views that now constitute          result are transcribed into a wave function ^B{y),
+the Copenhagen interpretation itself. The logical       where y is a set of variables that are called the
+essence constitutes, I believe, a completely ra-        degrees of freedom of the measured system.
+tional and coherent position.                              Next a transformation function U(x; y) is
+   The plan of the work is as follows. First,           constructed in accordance with certain theoretical
+quantum theory is described from the point of           rules. This function depends on the type of system
+view of actual practice. Then, to provide con-          that was prepared and on the type of system that
+trast, several non-Copenhagen interpretations           was measured, but not on the particular wave
+are considered. Next, to provide background,            functions ^A{X) and ^B{V).        The "transition
+some philosophical ideas of William James are           amplitude"
+introduced. The pragmatic character of the
+Copenhagen interpretation is then discussed, and               (A | B)=fVA(x)U(x;      y)*B*(y)dxdy
+the incompatibility of the completeness of quan-
+tum theory with the external existence of the
+space-time continuum of classical physics is noted.     is computed. The predicted probability that a
+Finally, the question of the completeness of            measurement performed in the manner specified
+quantum theory is examined.                             by B will yield a result specified by B, if the
+                                                        preparation is performed in the manner specified
+II. A PRACTICAL ACCOUNT OF                              by A, is given by
+QUANTUM THEORY
+   Quantum theory is a procedure by which sci-                        P(A,B) = \     (A\B)\*.
+entists predict probabilities that measurements of
+specified kinds will yield results of specified kinds      The experimental physicist will, I hope, recog-
+in situations of specified kinds. I t is applied in     nize in this account a description of how he uses
+circumstances that are described by saying that         quantum theory. First he transforms his informa-
+a certain physical system is first prepared in a        tion about the preparation of the system into an
+specified manner and is later examined in a             initial wave function. Then he applies to it some
+specified manner. And this examination, called          linear transformation, calculated perhaps from
+a measurement, is moreover such that it can             the Schrodinger equation, or perhaps from the
+yield, or not yield, various possible specified         S matrix, which converts the initial wave func-
+results.                                                tion into a final wave function. This final wave
+   The procedure is this: The specifications A on       function, which is built on the degrees of freedom
+the manner of preparation of the physical system        of the measured system, is then folded into the
+are first transcribed into a wave function ^A.(X).      wave function corresponding to a possible result.
+The variables x are a set of variables that are         This gives the transition amplitude, which is
+
+                                                                                     A JP Volume 40 / 1099
+Henry Pierce Stapp
+
+multiplied by its complex conjugate to give the        function, and use quantum theory itself to calcu-
+predicted transition probability.                      late the needed mappings. This program has never
+   In a more sophisticated calculation one might       been carried out in any practical case. One
+use density matrices pA(x';x")     and PB(y'',y")      difficulty is that actual macroscopic devices are
+instead of *A(J;) and ¥s(y) to represent the pre-      so complicated that qualitative calculations lie
+pared system and the possible result. This would       beyond present capabilities. The second problem
+allow for preparations and measurements that           is that such calculations would, in any case, pro-
+correspond to statistical mixtures. But this           vide only connections between the wave functions
+generalization could be obtained also by simply        $ of the preparing and measuring devices and
+performing classical averages over various ^A(X)       the wave functions ^ of the original system.
+and   ^B(V)-                                           There would remain the problem of finding the
+   The above account describes how quantum             mappings A^>4>A and B—>4>B.
+theory is used in practice. The essential points          von Neumann's approach is not the one that is
+are that attention is focused on some system that      adopted in actual practice; no one has yet made
+is first prepared in a specified manner and later      a qualitatively accurate theoretical description
+examined in a specified manner. Quantum theory         of a measuring device. Thus what experimen-
+is a procedure for calculating the predicted prob-     talists do, in practice, is to calibrate their devices.
+ability that the specified type of examination            Notice, in this connection, that if one takes
+will yield some specified result. This predicted       NA different choices of A and NB different choices
+probability is the predicted limit of the relative     of B, then one has only NA+NB         unknown func-
+frequency of occurrence of the specified result,       tions ^A and -&B, but NAXNB              experimentally
+as the number of systems prepared and examined         determinable quantities | {A | B) |2. Using this
+in accordance with the specifications goes to          leverage, together with plausible assumptions
+infinity.                                              about smoothness, it is possible to build up a
+   The wave functions used in these calculations       catalog of correspondences between what experi-
+are functions of a set of variables characteristic     mental physicists do and see, and the wave func-
+of the prepared and measured systems. These            tions of the prepared and measured systems.
+systems are often microscopic and not directly         It is this body of accumulated empirical knowledge
+observable. No wave functions of the preparing         that bridges the gap between the operational
+and measuring devices enter into the calculation.      specifications A and B and their mathematical
+These devices are described operationally. They        images tyA and tyB-
+are described in terms of things that can be              The above description of how quantum theory
+recognized and/or acted upon by technicians.           is used in practice will be used in the account
+These descriptions refer to the macroscopic            of the Copenhagen interpretation. Before de-
+properties of the preparing and measuring devices.     scribing that interpretation itself I shall, to pro-
+   The crucial question is how does one determine      vide contrast, describe several other approaches.
+the transformations A—^A and B-^&B. These
+transformations transcribe procedural descrip-         III. SEVERAL OTHER APPROACHES
+tions of the manner in which technicians prepare
+                                                       A. The Absolute-^ Approach
+macroscopic objects, and recognize macroscopic
+responses, into mathematical functions built on           von Neumann's lucid analysis of the process
+the degrees of freedom of the (microscopic) pre-       of measurement is the origin of much of the cur-
+pared and measured systems. The problem of             rent worry about the interpretation of quantum
+constructing this mapping is the famous "prob-         theory. The basic worrisome point can be illus-
+lem of measurements" in quantum theory.                trated by a simple example.
+    The problem of measurements was studied by            Suppose a particle has just passed through one
+von Neumann. 7 He begins with the idea that one        of two slits. And suppose a 100% efficient counter
+ should describe the combined system composed          is placed behind each slit, so that by seeing which
+ of the original systems plus the original measuring   counter fires a human observer can determine
+ devices in terms of a quantum mechanical wave         through which slit the particle passed.
+
+1100 I August 1972
+                                                                               The Copenhagen Interpretation
+
+   Suppose the particle is represented initially       observer does not run both upstairs and down-
+by a wave function that assigns equal probabili-       stairs. He does one or the other, not both. There-
+ties to the parts associated with the two slits.       fore the wave function must collapse to a form
+And consider a quantum theoretical analysis of         that is consistent with what actually does happen.
+the process of measurement in which both the           But such a collapse is definitely incompatible
+particle and the two counters are represented by       with the superposition principle.
+wave functions.                                           This violation of the superposition principle
+   It follows directly and immediately from the        bothers some thinkers. Wigner8 calls the existence
+superposition principle (i.e., linearity) that the     of the two modes of change of the wave function—
+wave function of the complete system after the         i.e., the smooth causal evolution and the fitful
+measurement necessarily will consist of a super-       statistical jumps associated with measurements—
+position of two terms. The first term will repre-      a strange dualism, and says that the probabilistic
+sent the situation in which (1) the particle has       behavior is almost diametrically opposite to what
+passed through the first counter, (2) the first        one would expect from ordinary experience. He
+counter has fired, and (3) the second counter          and Ludwig9 speculate that quantum theory may
+has not fired. The second term will represent the      have to be modified by the addition of a nonlinear
+situation in which (1) the particle has passed         effect in the macroscopic realm in order to arrive
+through the second counter, (2) the second             at a consistent theory of measurements. Wigner10
+counter has fired, and (3) the first counter has not   even speculates that the nonlinearity may be
+fired. These two terms evolve from the two terms       associated with the action of mind on matter.
+in the wave function of the initial particle. The         An even more radical proposal was made by
+presence of both terms is a direct and unavoidable     Everett 11 and supported by Wheeler12 and Bryce
+consequence of the superposition principle, which      DeWitt. 13 According to this proposal the human
+ensures that the sum of any two solutions of the       observer actually runs both upstairs and down-
+equation of motion is another solution.                stairs at the same time. When the human ob-
+   Notice now that the counters are macroscopic        server sees the counter fire he breaks into two
+objects and that the wave function necessarily         separate editions of himself, one of which runs
+contains a sum of two terms one of which corre-        upstairs while the other runs down. However, the
+sponds to the first counter's having fired but not     parts of the wave function corresponding to these
+the second, and the other of which corresponds         two different possibilities move into different
+to the second counter's having fired but not the       regions of the multiparticle configuration space
+first. Thus the wave function necessarily corre-       and consequently do not interfere. Therefore the
+sponds to a sum of two logically incompatible          two editions will never be aware of each other's
+macroscopic possibilities.                             existence. Thus appearances are saved without
+   To dramatize this situation, suppose the human      violating the superposition principle.
+observer now looks at the counters and runs               This proposal is, I think, unreasonable. A wave
+upstairs or downstairs depending on which counter      function times its complex conjugate, has the
+he sees firing. Then the wave function of the          mathematical properties of a probability func-
+entire system of particle plus counters plus human     tion. Probability functions for composite systems
+observer will consist, eventually, of a sum of two     are naturally defined on the product of the spaces
+terms. One term will represent the human ob-           of the individual component systems; it is this
+server running upstairs, and the other term will       property that allows different statistical weights
+represent this same human observer running             to be assigned to the various logically alternative
+downstairs. Both terms must necessarily be             possibilities. A decomposition of a wave function
+present in the wave function, simply by virtue         into parts corresponding to different logical al-
+of the superposition principle.                        ternatives is thus completely natural. In the
+   This fact that the wave function necessarily        example described—with the initial specification
+develops into a sum of parts that correspond to        as described there—there is a finite probability
+incompatible macroscopic possibilities must be         that the observer will be running upstairs, and a
+squared with the empirical facts. The human            finite probability that he will be running down-
+
+                                                                                     AJP Volume 40 / 1101
+Henry Pierce Stapp
+
+ stairs. Thus the wave function necessarily must         to the process of measurement itself, coupled
+ have both parts. If it collapsed to one part or         with his parallel treatments of the two very dif-
+ the other it would no longer correctly describe         ferent modes of development of the wave func-
+ the probabilities corresponding to the original         tion—i.e., the smooth dynamical evolution, and
+ specifications.                                         the abrupt changes associated with measure-
+   Of course, if the original specifications are re-     ment—tend to conjure up the image of some
+placed by new ones that include now the specifi-         absolute wave function developing in time under
+ cation that the observer is running upstairs, not       the influence of two different dynamical mecha-
+downstairs, then the original wave function will         nisms. The living, breathing scientist who changes
+naturally be replaced by a new one, just as it           the wave function he uses as he receives more
+would be in classical statistical theory.                information is replaced by a new dynamical
+   In short, the mathematical properties of the          mechanism. The resulting picture is strange
+wave functions are completely in accord with the         indeed.
+idea that they describe the evolution of the                In the Copenhagen interpretation the notion
+probabilities of the actual things, not the actual       of an absolute wave function representing the
+things themselves. The idea that they describe           world itself is unequivocally rejected. Wave func-
+also the evolution of the actual things themselves       tions, like the corresponding probability functions
+leads to metaphysical monstrosities. These might         in classical physics, are associated with the
+perhaps be accepted if they were the necessary           studies by scientists of finite systems. The devices
+consequences of irrefutable logic. But this is           that prepare and later examine such systems
+hardly the case here. The basis of Everett's whole       are regarded as parts of the ordinary classical
+proposal is the premise that the superposition           physical world. Their space-time dispositions are
+principle cannot suddenly fail. This premise is          interpreted by the scientist as information about
+sound. But the natural and reasonable conclusion         the prepared and examined systems. Only these
+to draw from it is that the wave functions de-           latter systems are represented by wave functions.
+scribe the evolution of the probabilities of the         The probabilities involved are the probabilities
+actual things, not the evolution of the actual           of specified responses of the measuring devices
+things themselves. For the mathematical form             under specified conditions.
+and properties of the wave function, including              New information available to the scientist can
+its lawful development in accordance with the            be used in two different ways. It can be consid-
+superposition principle, are completely in accord        ered to be information about the response of a
+with the presumption that it is a probability            measuring device to the system being examined.
+function. The addition of the metaphysical as-           In this case the probability of this response is
+sumption that the wave function represents the           the object of interest. On the other hand, the new
+evolution of not only the probabilities of the           information can also be regarded as part of the
+actual things, but of also the actual things them-       specification of a new preparation. The wave
+selves, is unreasonable because its only virtue is       function that represents this new specification
+to save the superposition principle, which, how-         will naturally be different from the wave function
+ever, is not in jeopardy unless one introduces           that represented the original specifications. One
+this metaphysical assumption.                            would not expect the superposition principle to
+   Everett's proposal, and also those of Wigner          be maintained in the change of the wave function
+and Ludwig, are the outgrowth of a certain               associated with a change of specifications.
+tendency to ascribe to the wave function a quality          This pragmatic description is to be contrasted
+of absoluteness that goes beyond what is normally        with descriptions that attempt to peer "behind
+and naturally attached to a probability function.        the scenes" and tell us what is "really happening."
+This tendency can perhaps be traced to what              Such superimposed images can be termed meta-
+Rosenfeld14 calls "a radical difference in concep-       physical appendages insofar as they have no
+tion (going back to von N e u m a n n ) . . . , " this   testable consequences. The pragmatic interpre-
+radical difference being with the ideas of Bohr,         tation ignores all such metaphysical appendages.
+von Neumann's application of quantum theory                 The sharp distinction drawn in this section
+
+1102 I August 1972
+                                                                                 The Copenhagen Interpretation
+
+between probabilities and the actual things to          that completely transcend the realm of causal
+which they refer should not be construed as an          dynamical connections. The spatially separated
+acceptance of the real-particle interpretation          parts of any such underlying reality are not
+which is described next.                                independent realities, in the ordinary sense.
+                                                           Bell's theorem does not absolutely rule out the
+B. The Real-Particle Interpretation                     real-particle interpretation, if one is willing to
+   The real-particle interpretation affirms that        admit these hyperdynamical connections. But
+there are real particles, by which is meant tiny        they fortify the opinion that a dynamical theory
+localized objects, or disturbances, or singularities,   based on such a real entity would have no testable
+or other things that stay together like particles       dynamical consequences. For the strong de-
+should, and do not spread out like waves. Accord-       pendence of individual effects here on Earth upon
+ing to this interpretation, the probability func-       the fine details of what is happening all over the
+tions of quantum theory describe, typically, the        universe apparently rules out any ordinary kind
+probability that a real particle is in such-and-such    of test of such a theory.
+a region. This real-particle interpretation is de-
+fended by Popper in Ref. 1, and by Ballentine           IV. THE PRAGMATIC CONCEPTION
+                                                        OF TRUTH
+in Ref. 2.
+   Confidence in the existence of real particles           To prepare the mind for the Copenhagen in-
+ was restored by Bohm's 15 illustration of how          terpretation it is useful to recall some ideas of
+nonrelativistic Schrodinger theory can be made          William James. 17 James argued at length for a
+compatible with the existence of point particles.       certain conception of what it means for an idea
+The price paid for this achievement is this: All        to be true. This conception was, in brief, that an
+the particles in the (model) universe are instantly     idea is true if it works.
+and forcefully linked together. What happens               James's proposal was at first scorned and
+to any particle in the universe instantly and           ridiculed by most philosophers, as might be ex-
+violently affects every other particle.                 pected. For most people can plainly see a big
+   In such a situation it is not clear that we should   difference between whether an idea is true and
+ continue to use the term "particle." For the entire    whether it works. Yet James stoutly defended
+collection of "particles" in Bohm's universe acts       his idea, claiming that he was misunderstood by
+as a single complex entity. Our usual idea of a         his critics.
+particle is an abstraction from experience about           It is worthwhile to try to see things from James's
+macroscopic objects, and it normally carries, as        point of view.
+part of the idea of localization, the idea that the        James accepts, as a matter of course, that the
+localized entity is an independent entity, in the       truth of an idea means its agreement with reality.
+sense that it depends on other things in the uni-       The questions are: What is the "reality" with
+verse only through various "dynamical" effects.         which a true idea agrees? And what is the rela-
+These dynamical effects are characterized by a          tionship "agreement with reality" by virtue of
+certain respect for space-time separations. In          which that idea becomes true?
+particular, they are "causal." If the connections          All human ideas lie, by definition, in the realm
+between particles radically transcend our idea of       of experience. Reality, on the other hand, is
+causal dynamical relationships, then the ap-            usually considered to have parts lying outside
+propriateness of the word "particle" can be             this realm. The question thus arises: How can
+questioned.                                             an idea lying inside the realm of experience agree
+   Recently, Bell16 has shown that the statistical      with something that lies outside? How does one
+predictions of quantum theory are definitely in-        conceive of a relationship between an idea, on
+compatible with the existence of an underlying          the one hand, and something of such a funda-
+reality whose spatially separated parts are inde-       mentally different sort? What is the structural
+pendent realities linked only by causal dynamical       form of that connection between an idea and a
+relationships. The spatially separated parts of         transexperiential reality that goes by the name
+any underlying reality must be linked in ways           of "agreement"? How can such a relationship be
+
+                                                                                       AJP Volume 40 I 1103
+Henry Pierce Stapp
+
+ comprehended by thoughts forever confined to         of whether human ideas can be brought into
+the realm of experience?                              exact correspondence with the essences of the
+   The contention that underlies James's whole        external realities is the success of our ideas in
+position is, I believe, that a relationship between   bringing order to our physical experience. Yet
+an idea and something else can be comprehended        the success of ideas in this sphere does not ensure
+only if that something else is also an idea. Ideas    the exact correspondence of our ideas to external
+are eternally confined to the realm of ideas.         reality.
+They can "know" or "agree" only with other               On the other hand, the question of whether
+ideas. There is no way for a finite mind to com-      ideas "agree" with external essences is of no prac-
+prehend or explain an agreement between an            tical importance. What is important is precisely
+idea and something that lies outside the realm of     the success of the ideas—if ideas are successful
+experience.                                           in bringing order to our experience then they are
+   So if we want to know what it means for an         useful even if they do not "agree," in some ab-
+idea to agree with a reality we must first accept     solute sense, with the external essences. Moreover,
+that this reality lies in the realm of experience.    if they are successful in bringing order into our
+   This viewpoint is not in accord with the usual     experience then they do "agree" at least with the
+idea of truth. Certain of our ideas are ideas about   aspects of our experience that they successfully
+what lies outside the realm of experience. For        order. Furthermore, it is only this agreement with
+example, I may have the idea that the world is        aspects of our experience that can ever really be
+made up of tiny objects called particles. Accord-     comprehended by man. That which is not an
+ing to the usual notion of truth this idea is true    idea is intrinsically incomprehensible, and so are
+or false according to whether or not the world        its relationships to other things. This leads to the
+really is made up of such particles. The truth of     pragmatic viewpoint that ideas must be judged
+the idea depends on whether it agrees with some-      by their success and utility in the world of ideas
+thing that lies outside the realm of experience.      and experience, rather than on the basis of some
+   Now the notion of "agreement" seems to             intrinsically incomprehensible "agreement" with
+suggest some sort of similarity or congruence of      nonideas.
+the things that agree. But things that are similar       The significance of this viewpoint for science
+or congruent are generally things of the same         is its negation of the idea that the aim of science
+kind. Two triangles can be similar or congruent       is to construct a mental or mathematical image
+because they are the same kind of thing: The          of the world itself. According to the pragmatic
+relationships that inhere in one can be mapped in     view, the proper goal of science is to augment
+a direct and simple way into the relationships        and order our experience. A scientific theory
+that inhere in the other.                             should be judged on how well it serves to extend
+   But ideas and external realities are presumably    the range of our experience and reduce it to order.
+very different kinds of things. Our ideas are in-     It need not provide a mental or mathematical
+timately associated with certain complex, macro-      image of the world itself, for the structural form
+scopic, biological entities—our brains—and the        of the world itself may be such that it cannot be
+structural forms that can inhere in our ideas         placed in simple correspondence with the types
+would naturally be expected to depend on the          of structures that our mental processes can form.
+structural forms of our brains. External realities,      James was accused of subjectivism—of denying
+on the other hand, could be structurally very         the existence of objective reality. In defending
+different from human ideas. Hence there is no         himself against this charge, which he termed
+a priori reason to expect that the relationships      slanderous, he introduced an interesting ontology
+that constitute or characterize the essence of        consisting of three things: (1) private concepts,
+external reality can be mapped in any simple or       (2) sense objects, (3) hypersensible realities. The
+direct fashion into the world of human ideas.         private concepts are subjective experiences. The
+Yet if no such mapping exists then the whole          sense objects are public sense realities, i.e., sense
+idea of "agreement" between ideas and external        realities that are independent of the individual.
+realities becomes obscure.                            The hypersensible realities are realities that exist
+   The only evidence we have on the question          independently of all human thinkers. 18
+
+1104 I August 1972
+                                                                                 The Copenhagen   Interpretation
+
+   Of hypersensible realities James can talk only      assertions:
+obliquely, since he recognizes both that our
+                                                          (1) The quantum theoretical formalism is to
+knowledge of such things is forever uncertain
+                                                       be interpreted pragmatically.
+and that we can moreover never even think of
+                                                          (2) Quantum theory provides for a complete
+such things without replacing them by mental
+                                                       scientific account of atomic phenomena.
+substitutes that lack the defining characteristics
+of that which they replace, namely the property           Point (1) asserts that quantum theory is funda-
+of existing independently of all human thinkers.       mentally the procedure described in the practical
+   James's sense objects are curious things. They      account of quantum theory given in Sec. II. The
+are sense realities and hence belong to the realm      central problem for the Copenhagen interpreta-
+of experience. Yet they are public: They are in-       tion is to reconcile this assertion with the claim
+dependent of the individual. They are, in short,       that it is complete, i.e., to reconcile assertions
+objective experiences. The usual idea about ex-         (1) and (2). This problem is discussed in Sec. VII.
+periences is that they are personal or subjective,        The aim of the present section is to document
+not public or objective.                               point (1) by the words of Bohr. This fundamental
+   This idea of experienced sense objects as public    point needs to be definitely settled, for critics
+or objective realities runs through James's writ-      often confuse the Copenhagen interpretation,
+ings. The experience "tiger" can appear in the         which is basically pragmatic, with the dia-
+mental histories of many different individuals.        metrically opposed absolute-* interpretation de-
+"That desk" is something that I can grasp and          scribed in Sec. III. In what follows, particular
+shake, and you also can grasp and shake. About         attention will be paid to the possible conflict of
+this desk James says "But you and I are com-           the pragmatic viewpoint with (i) the element of
+mutable here; we can exchange places; and as           realism in Bohr's attitude toward the macro-
+you go bail for my desk, so I can go bail for yours.   scopic world and (ii) any commitment to a funda-
+This notion of a reality independent of either of      mental stochastic or statistical element in nature
+us, taken from ordinary experience, lies at the        itself.
+base of the pragmatic definition of truth." 19            The quotations from Bohr that follow are
+   These words should, I think, be linked with         taken from his three major works 4 : (I.) Atomic
+Bohr's words about classical concepts as the basis      Theory and the Description of Nature; (II.) Atomic
+of communication between scientists. In both           Physics and Human Knowledge; and (III.) Essays
+cases the focus is on the concretely experienced       1958-1962 on Atomic Physics and Human
+sense realities—such as the shaking of the desk—       Knowledge.
+as the foundation of social reality. From this            The pragmatic orientation of the Copenhagen
+point of view the objective world is not built         interpretation is fixed in the opening words of
+basically out of such airy abstractions as electrons   Bohr's first book: "The task of science is both to
+and protons and "space." It is founded on the          extend the range of our experience and reduce
+concrete sense realities of social experience, such    it to order . . . " (1.1). "In physics . . . our prob-
+as a block of concrete held in the hand, a sword       lem consists in the co-ordination of our experience
+forged by a blacksmith, a Geiger counter prepared      of the external world . . . " (1.1). "In our descrip-
+according to specifications by laboratory tech-        tion of nature the purpose is not to disclose the
+nicians and placed in a specified position by          real essence of phenomena but only to track
+experimental physicists.                               down as far as possible relations between the
+  This brief excursion into philosophy provides        multifold aspects of our experience" (1.18).
+background for the Copenhagen interpretation,             This commitment to a pragmatic view of
+which is fundamentally a shift to a philosophic        science runs through all of Bohr's works. He later
+perspective resembling that of William James.          links it to the crucial problem of communication:
+                                                       "As the goal of science is to augment and order
+V. THE PRAGMATIC CHARACTER OF THE
+                                                       our experience every analysis of the conditions
+COPENHAGEN INTERPRETATION
+                                                       of human knowledge must rest on considerations
+  The logical essence of the Copenhagen inter-         of the character and scope of our means of com-
+pretation is summed up in the following two            munication" (11.88). "In this connection it is
+
+                                                                                       AJP   Volume 40 / 1105
+Henry Pierce Stapp
+
+imperative to realize that in every account of           admits the existence of hypersensible realities.
+physical experience one must describe both ex-          But there is no commitment by Bohr to the idea
+perimental conditions and observations by the           that the macroscopic world really is what we
+same means of communication as one used in              naively imagine it to be. The focus is on the
+classical physics" (11.88). "The decisive point is       descriptions of our physical experiences and the
+to recognize that the description of the experi-        demand that they secure unambiguous com-
+mental arrangement and the recordings of ob-            munication and objectivity. Referring to the
+servations must be given in plain language, suit-       experimental arrangements and observations he
+ably refined by the usual terminology. This is a        says: "The description of atomic phenomena has
+simple logical demand, since by the word 'ex-           in these respects a perfectly objective character,
+periment' we can only mean a procedure regarding        in the sense that no explicit reference is made to
+which we are able to communicate to others what         any individual observer and that therefore, with
+we have done and what we have learnt" (III.3).          proper regard to relativistic exigencies, no am-
+" . . . we must recognize above all that, even when     biguity is involved in the communication of in-
+phenomena transcend the scope of classical              formation. As regards all such points, the ob-
+physical theories, the account of the experi-           servation problem of quantum physics in no way
+mental arrangement and the recording of observa-        differs from the classical physical approach"
+tions must be given in plain language, suitably          (III.3). Bohr's closest approach to a commitment
+supplemented by technical physical terminology.         to the idea that the macroscopic world actually
+This is a clear logical demand, since the very word     is what it appears to be is, I think, the statement:
+'experiment' refers to a situation where we can         "The renunciation of pictorial representation in-
+tell others what we have done and what we have          volves only the state of atomic objects, while
+learned" (11.72).                                       the foundation of the description of the experi-
+    Bohr's commitment to a pragmatic interpreta-         mental conditions is fully retained" (11.90). The
+tion of the quantum-mechanical formalism is un-          commitment here is, I believe, to the appropriate-
+ambiguous: " . . . t h e appropriate physical in-       ness, in quantum theory, of a classical description
+terpretation of the symbolic quantum-mechanical         of the experimental conditions, rather than to the
+formalism amounts only to predictions, of de-           fundamental accuracy of classical ideas at the
+terminate or statistical character, pertaining to       macroscopic level. This position is in complete
+individual phenomena appearing under conditions         accord with pragmatism.
+defined by classical physical concepts" (11.64).           In regard to the irreducible statistical element
+" . . . the formalism does not allow pictorial repre-   in quantum theory, Bohr was at first ambivalent.
+sentation on accustomed lines, but aims directly        An initial acceptance of the notion of a funda-
+at establishing relations between observations          mental element of randomness or indeterminism
+obtained under well-defined conditions" (11.71).         on the part of nature is suggested by the state-
+"The sole aim of (the quantum mechanical for-            ment: " . . . w e have been forced...to reckon
+malism) is the comprehension of observations            with a free choice on the part of nature between
+obtained under experimental conditions described        various possibilities to which only probability
+by simple physical concepts" (11.90). "Strictly          interpretations can be applied" (1.4). However,
+speaking, the mathematical formalism of quantum          he soon qualifies this idea (1.19) and later on says
+mechanics and electrodynamics merely offers              that at a Solvay conference
+rules of calculation for the deduction of expecta-
+tions about observations obtained under well-                an interesting discussion arose about how to
+defined experimental conditions specified by clas-           speak of the appearance of phenomena for
+sical physical concepts" (III.60).                           which only statistical predictions can be
+    Throughout Bohr's writings there is a tacit              made. The question was whether, as to the
+acceptance of the idea that the external world               occurrence of individual effects, we should
+exists, and that our physical experiences are                adopt the terminology proposed by Dirac,
+caused, in part, by the course of external events.           that we were concerned with a choice on the
+This is quite in accord with pragmatism: James               part of "nature," or as suggested by Heisen-
+
+1106 I August 197%
+                                                                               The Copenhagen   Interpretation
+
+    berg, we should say that we have to do with       and the adoption of an essentially pragmatic
+    a choice on the part of the "observer" con-       attitude toward the statistical character of the
+    structing the measuring instruments and           quantum-mechanical predictions.
+    reading their recording. Any such terminology        I t is worth noting that Bohr's notion of com-
+    would, however, appear dubious since, on          plementarity is altogether pragmatic: Ideas should
+    the one hand, it is hardly reasonable to endow    be judged by their utility; physical ideas should be
+    nature with volition in the ordinary sense,       judged by their success in ordering physical
+    while on the other hand it is certainly not       experiences, not by the accuracy with which
+    possible for the observer to influence the        they can be believed to mirror the essence of
+    events which may appear under the condi-          external reality. The use of complementary ideas
+    tions he has arranged. To my mind there is        in complementary situations is a natural con-
+    no other alternative than to admit in this        comitant of pragmatic thinking.
+    field of experience, we are dealing with in-
+    dividual phenomena and that our possibili-        VI. SPACE-TIME AND THE COMPLETENESS
+    ties of handling the measuring instruments        OF QUANTUM THEORY
+    allow us only to make a choice between                In spite of doubts cast on our intuitive notions
+    the different complementary types of phe-         of space and time by the theory of relativity,
+    nomena that we want to study (11.51).             the idea lingers on that persisting physical ob-
+                                                      jects occupy space-time regions that can be
+Later he says "The circumstance that, in general,     divided into ever finer parts. A basic premise of
+one and the same experimental arrangement may          classical physics is that this classical concept of
+yield different recordings is sometimes pic-          the space-time continuum is the appropriate
+turesquely described as a 'choice of nature' be-      underlying concept for fundamental physical
+tween such possibilities. Needless to say, such a     theory.
+phrase implies no allusion to a personification of        I t is important to recognize that quantum
+nature, but simply points to the impossibility        theory has nothing in it that can be regarded as
+of ascertaining on accustomed lines directives        a description of qualities or properties of nature
+for the course of a closed indivisible phenomenon.    that are located at the point or infinitesimal re-
+Here, logical approach cannot go beyond the           gions of the space-time continuum. On one hand,
+deduction of the relative probabilities for the       the descriptions of the experimental arrangements
+appearance of the individual phenomena under          and observations are basically operational de-
+given conditions" (11.73). "Corresponding to the      scriptions of what technicians can see and do.
+fact that different individual quantum processes      They are not, strictly speaking, descriptions of
+may take place in a given experimental arrange-       the external things in themselves. Moreover, they
+ment these relations (between observations ob-        are not descriptions of microscopic qualities or
+tained under well-defined conditions) are of an       properties. On the other hand, the wave functions
+inherently statistical character" (11.71). "The       are merely abstract symbolic devices. They do not
+very fact that repetition of the same experiment,     describe qualities or properties of nature that
+defined on the lines described, in general yields     are located at points or infinitesimal regions of
+different recordings pertaining to the object,        the space-time continuum. The abrupt change
+immediately implies that a comprehensive ac-          of a wave function in one region of space-time
+count of experience in this field must be expressed   when a measurement is performed far away at
+by statistical laws" (III.4). "The fact that in       the same time makes any such interpretation un-
+one and the same well-defined experimental ar-        reasonable. The wave functions of quantum theory
+rangement we generally obtain recordings of           are to be interpreted as symbolic devices that
+different individual processes makes indispensible    scientists use to make predictions about what
+the recourse to a statistical account of quantum      they will observe under specified conditions. As
+phenomena" (111.25). These statements indicate        Bohr says it: "In the treatment of atomic prob-
+a turning away by Bohr from picturesque notions       lems, actual calculations are most conveniently
+of a inherent random element in nature itself,        carried out with the help of a Schrodinger state
+
+                                                                                     AJP Volume 40 / 1107
+Henry Pierce Stapp
+
+function, from which the statistical laws govern-           In a pragmatic framework the claim of com-
+ing observations attainable under specified condi-       pleteness has a different natural meaning. The
+tions can be deduced by definite mathematical            natural meaning of the claim that quantum
+operations. It must be recognized, however, that         theory provides for a complete scientific account
+we are here dealing with a purely symbolic               of atomic phenomena is that no theoretical con-
+procedure the unambiguous physical interpreta-           struction can yield experimentally verifiable pre-
+tion of which in the last resort requires a reference    dictions about atomic phenomena that cannot be
+to the complete experimental arrangement"                extracted from a quantum theoretical description.
+(III.5). "In fact, wave mechanics, just as the           This is the practical or pragmatic meaning of
+matrix theory, represents on this view a symbolic        scientific completeness in this context.
+transcription of the problem of motion of classical
+mechanics adapted to the requirements of quan-           VII. WHOLENESS AND COMPLETENESS
+tum theory and only to be interpreted by an                 The second essential ingredient of the Copen-
+explicit use of the quantum postulate" (1.75).           hagen interpretation is the claim that quantum
+   The fact that quantum theory contains nothing         theory provides for the complete scientific ac-
+that is interpreted as a description of qualities        count of atomic phenomena. During the more than
+located at points of an externally existing space-       thirty years spanned by his three books4 Bohr
+time continuum can be construed as evidence              polished and refined his views on this point. His
+of its incompleteness. However, all we really know       final, and I think best, summary is as follows:
+about the space-time continuum is that it is a
+                                                             The element of wholeness, symbolized by the
+concept that has been useful for organizing sense
+                                                             quantum of action and completely foreign
+experience. Man's effort to comprehend the world
+                                                             to classical physical principles, has . . . the
+in terms of the idea of an external reality inhering
+                                                             consequence that in the study of quantum
+in a space-time continuum reached its culmina-
+                                                             processes any experimental inquiry implies
+tion in classical field theory. That theory, though
+                                                             an interaction between atomic object and the
+satisfactory in the domain of macroscopic phe-
+                                                             measuring tools which, although essential
+nomena, failed to provide a satisfactory account
+                                                             for the characterization of the phenomena,
+of the microscopic sources of the field. The bulk
+                                                             evades a separate account if the experiment
+of Einstein's scientific life was spent in a frus-
+                                                             is to serve its purpose of yielding unambigu-
+trated effort to make these ideas work at the
+                                                             ous answers to our questions. It is indeed
+microscopic level.20 The rejection of classical
+                                                             the recognition of this situation which makes
+theory in favor of quantum theory represents,
+                                                             recourse to a statistical mode of description
+in essence, the rejection of the idea that external
+                                                             imperative as regards to the expectations
+reality resides in, or inheres in, a space-time
+                                                             of the occurrence of individual quantum
+continuum. It signalizes the recognition that
+                                                             effects in one and the same experimental
+"space," like color, lies in the mind of the beholder.
+                                                             arrangement. (III.60).
+   If the classical concept of the space-time con-
+tinuum were accepted, then quantum theory                This statement is augmented and clarified by an
+could not be considered complete, i.e., if it were       earlier statement:
+accepted that the persisting objects of nature               The essentially new feature in the analysis
+literally reside in a space-time continuum, with             of quantum phenomena is . . . the intro-
+their various parts definitely located in specific           duction of a fundamental distinction be-
+regions, then a complete scientific account of               tween the measuring apparatus and the ob-
+atomic phenomena would, by virtue of the                     jects under investigation. This is a direct
+natural and normal meanings of these words, in               consequence of the necessity of accounting
+this framework, be required to describe whatever             for the functions of the measuring instru-
+it was that is located at the points or infinitesimal        ments in purely classical terms, excluding in
+regions of that continuum. Quantum theory does               principle any regard to the quantum of ac-
+not do this, and hence a claim of completeness               tion. On their side, the quantal features of
+would be an abuse of language.                               the phenomena are revealed in the informa-
+
+1108 I August 1972
+                                                                                 The Copenhagen Interpretation
+
+    tion about the atomic objects derived from         ciated with the atomic object: The atomic object
+    the observations. While within the scope of        represented by the wave function has no meaning
+    classical physics the interaction between the      in quantum theory except via its link to experience
+    object and apparatus can be neglected or, if       formulated in terms of specifications that refer
+    necessary, compensated for, in quantum             to the measuring instruments.
+    physics this interaction thus forms an in-            Bohr evidently believed that there is in atomic
+    separable part of the phenomena. Accord-           processes an element of wholeness—associated
+    ingly, the unambiguous account of proper           with the quantum of action, and completely
+    quantum phenomena must, in principle, in-          foreign to classical physical principles—that cur-
+    clude a description of all relevant features of    tails the utility of the classical idealizations of the
+    the experimental arrangement (III.3).              measuring instruments and atomic objects as
+                                                       separate, interacting entities, and that the re-
+   The basic point here is that well-denned objec-     sulting inseparability of the atomic object from
+tive specifications on the entire phenomenon are       the whole phenomenon renders statistical de-
+not restrictive enough to determine uniquely the       scription unavoidable.
+course of the individual processes, yet no further        This way of reconciling the pragmatic character
+breakdown is possible because of the inherent          of quantum theory with the claim of complete-
+wholeness of the process symbolized by the quan-       ness seems rational and coherent. I t is, of course,
+tum of action.                                         based on quantum thinking itself and is therefore
+   This way of tracing the need for a statistical      essentially a self-consistency consideration. The
+account of atomic phenomena back to the element        validity of quantum-mechanical thinking as a
+of wholeness symbolized by the quantum of action       whole must, of course, be judged on the basis
+appears to take one outside the pragmatic              of its success, which includes its coherence and
+framework since it refers to the measuring device,     self-consistency.
+the atomic object, and their interaction. Also, it        The question of the completeness of quantum
+is not immediately clear how one is to reconcile       theory was debated by Bohr22 and Einstein.23
+the separate identification of these three things      Einstein's counter arguments come down on the
+with the "impossibility of any sharp separation        following points: (1) It is not proven that the
+between the behaviour of the atomic objects and        usual concept of reality is unworkable; (2) quan-
+the interaction with the measuring instruments         tum theory does not make "intelligible" what is
+which serve to define the conditions under which       sensorily given; and (3) if there is a more com-
+the phenomena appear" (11.39).                         plete thinkable description of nature, then the
+   In this connection it is important to recognize     formulation of the universal laws should involve
+that the "atomic object" and "measuring instru-        their use.
+ments" are, within the framework of quantum               Bell's theorem16 deals a shattering blow to Ein-
+thinking, idealizations used by scientists to bring    stein's position. For it proves that the ordinary
+order into man's experience in the realm of atomic     concept of reality is incompatible with the sta-
+phenomena. This point is developed by the author       tistical predictions of quantum theory. These pre-
+in Ref. 21. Bohr's words emphasize that these          dictions Einstein was apparently willing to accept.
+separate idealizations are inseparably linked by       Einstein's whole position rests squarely on the
+quantum thinking in a way that is completely           presumption that sense experience can be under-
+foreign to classical thinking. The idealization        stood in terms of an idea of some external reality
+"the measuring instrument" is a conceptual             whose spatially separated parts are independent
+entity used in the description of the experimental     realities, in the sense that they depend on each
+specifications; the idealization "the atomic object"   other only via connections that respect space-
+is a conceptual entity that is represented by the      time separation in the usual way: Instantaneous
+wave function. These are inseparably linked in         connections are excluded. But the existence of
+quantum theory by the fact that the specifica-         such a reality lying behind the world of observed
+tions described in terms of the measuring in-          phenomena is precisely what Bell's theorem proves
+strument are mapped onto wave functions asso-          to be impossible.
+
+                                                                                        AJP Volume 40 / 1109
+Henry Pierce Stapp
+
+   Einstein's second point, about whether quan-         tions." Specifications are what architects and
+tum theory makes intelligible what is sensorily         builders, and mechanics and machinists, use to
+given, is taken up in the next section.                 communicate to one another conditions on the
+   Einstein's third point raises two crucial ques-      concrete social realities or actualities that bind
+tions. The first is whether a complete descrip-         their lives together. It is hard to think of a
+tion of nature is thinkable. Can human ideas,           theoretical concept that could have a more ob-
+which are probably limited by the structural            jective meaning. Specifications are described in
+form of human brains, and which are presumably          technical jargon that is an extension of everyday
+geared to the problem of human survival, fully          language. This language may incorporate con-
+know or comprehend the ultimate essences? And           cepts from classical physics. But this fact in no
+even if they can, what is the role in nature of         way implies that these concepts are valid beyond
+universal laws? Is all nature ruled by some closed      the realm in which they are used by the
+set of mathematical formulas? This might be one         technicians.
+possibility. Another, quite compatible with present        In order to objectify as far as possible our de-
+knowledge, is that certain aspects of nature ad-        scriptions of the specifications on preparations
+here to closed mathematical forms but that the          and measurements we can express them in terms
+fullness of nature transcends any such form.            of the "objective" quantities of classical physics.
+                                                        The meaning of these "objective" quantities for
+VIII. QUANTUM THEORY AND                                us is tied to the fact that we conceive of them as
+OBJECTIVE REALITY
+                                                        the qualities of an external world that exists
+   The Copenhagen interpretation is often criti-        independently of our perceptions of it. The
+cized on the grounds that it is subjective, i.e.,       formulation of the specifications in terms of these
+that it deals with the observer's knowledge of          classical quantities allows the human observer
+things, rather than those things themselves. This       to be eliminated, superficially at least, from the
+charge arises mainly from Heisenberg's frequent         quantum theoretical description of nature: The
+use of the words "knowledge" and "observer."            observer need not be explicitly introduced into
+Since quantum theory is fundamentally a pro-            the description of quantum theory because the
+cedure by which scientists make predictions, it         connection between his knowledge and these
+is completely appropriate that it refer to the          classical quantities is then shifted to other do-
+knowledge of the observer. For human observers          mains of science, such as classical physics, bi-
+play a vital role in setting up experiments and         ology, psychology, etc.
+in noting their results.                                   But this elimination of the observer is simply
+   Heisenberg's wording, interpreted in a super-        a semantic sleight of hand. Since the conceptual
+ficial way, can be, and has been, the source of         structure of classical physics is recognized as
+considerable confusion. It is therefore perhaps         fundamentally an invention of the mind that
+better to speak directly in terms of the concrete       is useful for organizing and codifying experience,
+social realities, such as dispositions of instru-       the knowledge of the observer emerges, in the
+ments, etc., in terms of which the preparations,        end, as the fundamental reality upon which the
+measurements, and results are described. This           whole structure rests. The terms "knowledge of
+type of terminology was favored by Bohr, who            the observer," or "classical description," or
+used the phrase "classical concepts" to signify         "specifications" are just different, ways of sum-
+descriptions in terms of concrete social actualities.   ming up in a single term this entire arrangement
+   On the other hand, Bohr's terminology, though        of ideas, which follows from the recognition of
+blatantly objective, raises the question of how         the limited domain of validity of classical concepts.
+quantum theory can be consistently constructed             Bohr cites certain ideas from biology and psy-
+on a foundation that includes concepts that are         chology as other examples of concepts that work
+fundamentally incompatible with the quantum             well in certain limited domains. And he notes
+concepts.                                               that there have been repeated attempts to unify
+   Perhaps the most satisfactory term is "specifica-    all human knowledge of the basis of one or another
+
+1110 I August 1972
+                                                                                 The Copenhagen Interpretation
+
+of these conceptual frameworks.24 Such attempts        critical question, however, is not whether there
+are the natural outgrowth of the absolutist view-      is in fact a world "out there," but rather what the
+point, which holds that the ideas of man can           connection is between the world "out there"
+grasp or know the absolute essences. The pragma-       and our ideas about it.
+tist, regarding human concepts as simply tools            Russell argues, essentially, that we can make
+for the comprehension of experience, and averring      plausible inferences, based on the structure of
+that human ideas, being prisoners in the realm of      our experiences, and build up a reasonable idea
+human experience, can "know" nothing but other         of the outside world. James would insist that
+human ideas, would not be optimistic about the         this whole structure is nothing but a structure of
+prospects of complete success in such ventures.        abstract ideas built upon our common experi-
+For him progress in human understanding would          ences, and that the transexperiential world that
+more likely consist of the growth of a web of          may somehow "cause" our common experiences
+interwoven complementary understandings of             never enters into this structure at all.
+various aspects of the fullness of nature.                James evidently believes that his idea of a
+   Such a view, though withholding the promise for     table is similar to yours and mine. In general,
+eventual complete illumination regarding the           different people's ideas about sense objects are
+ultimate essence of nature, does offer the prospect    not identical, but they are similar enough to
+that human inquiry can continue indefinitely to        form the basis of effective social communication.
+yield important new truths. And these can be           There exists, in this sense, a realm of public or
+final in the sense that they grasp or illuminate       shared experiences that form the basis of inter-
+some aspect of nature as it is revealed to human       personal communication. This realm constitutes
+experience. And the hope can persist that man          the primary data of science. The aim of science
+will perceive ever more clearly, through his grow-     is to construct a framework of ideas that will
+ing patchwork of complementary views, the              link these common, or public, or shared, ex-
+general form of a pervading presence. But this         periences together in ways that reflect various
+pervading presence cannot be expected or re-           aspects of the empirical connections that exist
+ quired to be a resident of the three-dimensional      between them. Thus the whole structure of
+ space of naive intuition, or to be described funda-   science is, quite obviously, a structure that is
+mentally in terms of quantities associated with        wholly confined to the world of ideas.
+points of a four-dimensional space-time con-               Russell would presumably grant this. But he
+tinuum.                                                would argue that we can, nonetheless, make
+                                                       plausible inferences about the world based on the
+APPENDIX A: PHILOSOPHICAL ADDENDA
+                                                       structure of experience. Yet his commitment to
+   Several questions of a philosophic nature have      rationality requires him, I think, to admit that
+been raised by a critic. This appendix contains        our ideas might not be able to fully comprehend
+my replies.                                            the realities that are the causes of our experience.
+   Question 1: How does one reconcile the com-         And if the evidence of science indicates that this
+mitment of James and Bohr to the public charac-        possibility is the one realized by nature, then I
+ter of sense objects with the radical empiricist       think his rational approach, based on plausible
+doctrine that ideas can agree only with other          inferences drawn from available evidence, would
+ideas? Russell's Analysis of Matter indicates the      require him to admit that this possibility has a
+difficulty in performing this reconciliation.          good "probability" of being correct.
+   Reply: Russell's arguments do not confute the          Although the arguments of Russell do not
+ideas of James and Bohr as I have described            confute the position of James, as I have described
+them. Both of the latter authors would, I think,       it, there is definitely a basic difference in orienta-
+readily admit that human experiences are prob-         tion. Russell embarks on a quest for certainty
+ably not the whole of reality but are probably         about the external world, but settles for an ac-
+merely a part of the whole that is related to the      count to which he assigns high "probability."
+rest via some sort of causal-type connection. The      James views the quest for certainty about the
+
+                                                                                       AJP Volume 40 / 1111
+Henry Pierce Stapp
+
+external world as totally misdirected. Certainty       science that is thoroughly objective, yet securely
+in such matters is clearly unattainable. The truly     rooted in the realm of ideas and experience.
+rational course of action is to admit at the outset       Question 2: In the author's article21 on the
+that our aim is to construct a framework of ideas      S-matrix interpretation of quantum theory it
+that is useful for the organization of our experi-     was admitted that the pragmatic interpretation
+ence—and for the conduct of our lives—and to           of quantum theory leaves unanswered deep meta-
+put aside the whole vague question about the           physical questions about the nature of the world
+connection of ideas to nonideas, and the equally       itself. And it was noted that the apparent absence
+vague question about the "probability" that a          of unanalyzable entities in quantum theory sug-
+certain scheme of ideas gives us a true or valid       gests a "web" structure of nature that somewhat
+picture of the world itself.                           resembles the structure proposed by Whitehead.
+   In any case, the claim that we can make valid       Does the absence of similar remarks in the present
+inferences about the world itself acquires cred-       work signify a retraction of the earlier views?
+ibility only to the extent that a truly adequate          Reply: The aim of the present work is to de-
+picture of the world itself can be constructed. No     scribe the Copenhagen interpretation. More pre-
+such picture exists at present. And the difficulties   cisely, the aim is to describe this author's under-
+in constructing a scientific view of the world         standing of the essential common ground of Bohr
+itself are precisely those admitted by Russell         and Heisenberg on the question of the inter-
+himself, namely the incorporation of quantum           pretation of quantum theory. The author's own
+phenomena and infinitesimal space-time intervals.      views are an elaboration upon his understanding
+I t is precisely these difficulties that force us to   of the Copenhagen interpretation, and are given
+fall back to the position of James.                    in the $-matrix article.
+   In short, the position of Bohr and James, as
+I have described it, is not a denial of the causal     APPENDIX B: CORRESPONDENCE WITH
+theory of perception. It is simply a recommenda-       HEISENBERG AND ROSENFELD
+tion that we view science not as a quest for a            The views that have been put forth as repre-
+metaphysical understanding of that which lies          sentations of the Copenhagen interpretation differ
+outside the world of ideas, but rather as an in-       widely. Thus the question arises whether my de-
+vention of the human mind that man constructs          scription succeeds in capturing the essence of
+for the purpose of incorporating into the world        the Copenhagen interpretation as understood by
+of human ideas abstract structural forms that cap-     Bohr and Heisenberg. To shed light on this
+ture certain aspects of the empirical structure of     question I inquired of Heisenberg whether the
+man's experience. In this undertaking an impor-        description given in a first version of this paper
+tant class of data are those experiences that are      seemed to him basically in accord with the views
+common to different human observers, such as           of himself and Bohr, or whether it seemed dif-
+our common or shared experience of the table           ferent in any important way.
+about which we all sit. The level of experience at
+                                                          Heisenberg replied:
+which these common experiences are most similar
+is the level at which a round table is experienced         Many thanks for your letter and for your
+as a round table, not as an oval two-dimensional           paper on the Copenhagen interpretation. I
+visual pattern that depends upon where one sits,           think that your text is a basically adequate
+or a set of tactile sensations that depend on where        description of the Copenhagen interpreta-
+one's hand rests. In science we need "objective"           tion, and you probably know that Niels Bohr
+descriptions of the experienced world. We need             was very interested in the ideas of William
+descriptions that do not depend on who it is that          James. I would, however, like to mention
+has the experience. Operational specifications fill        one point where you seem to describe the
+this need. They are descriptions of possible human         Copenhagen interpretation too rigorously.
+experiences that do not refer specifically to any          On p. 35 you ask the question "Can any
+particular individual. They allow us to create a           theoretical construction give us testable pre-
+
+1112 I August 1972
+                                                                            The Copenhagen Interpretation
+
+    dictions about physical phenomena that can-            I am enclosing the English translation of
+    not be extracted from a quantum theoretical         a passage in one of my lectures in which I
+    description?" and you say that according to         have tried to describe the philosophy of
+    the Copenhagen interpretation no such con-          Plato with regard to this point. The English
+    struction is possible. I doubt whether this is      translation was done by an American philos-
+    correct with respect to, for example, biolog-       opher who, as I think, uses the philosophical
+    ical questions. Logically it may be that the        nomenclature correctly. Perhaps we could
+    difference between the two statements: "The         connect this Platonic idea with pragmatism
+    cell is alive" or "The cell is dead" cannot be      by saying: It is "convenient" to consider the
+    replaced by a quantum theoretical statement         ideas as existing even outside of the human
+    about the state (certainly a mixture of many        mind because otherwise it would be difficult
+    states) of the system. The Copenhagen in-           to speak about the world before human minds
+    terpretation is independent of the decision of      have existed. But you see at these points we
+    this point. It only states that an addition         always get easily at the limitation of lan-
+    of parameters in the sense of classical physics     guage, of concepts like "existing," "being,"
+    would be useless.                                   "idea," etc. I feel that you have still too
+       Besides that it may be a point in the            much confidence in the language, but that
+    Copenhagen interpretation that its language         you will probably find out yourself.
+    has a certain degree of vagueness, and I doubt
+                                                      I replied:
+    whether it can become clearer by trying to
+    avoid this vagueness.                               Regarding the question of nonhuman ideas
+                                                        it seems to me unlikely that human ideas
+  The paper was revised so as to make it ab-
+                                                        could emerge from a universe devoid of
+solutely clear that the claim of completeness of
+                                                        idealike qualities. Thus I am inclined to the
+quantum theory refers specifically to atomic
+                                                        view that consciousness in some form must
+phenomena. Some superfluous material was elim-
+                                                        be a fundamental quality of the universe . . . .
+inated, and the present Sees. V and VII, with
+                                                        [However] It is difficult to extract from
+their extensive quotations from Bohr, were added.
+                                                        Bohr's writings any commitment on Platonic
+Heisenberg's comments on the revised version
+                                                        ideals. Indeed, Bohr seems to take pains
+were as follows:
+                                                        to avoid all ontological commitment: He
+    Many thanks for sending me the new version          focuses rather on the question of how we as
+    of your paper on the Copenhagen interpreta-         scientists are to cope with the limited
+    tion. It is certainly an improvement that you       validity of our classical intuitions.
+    quote Bohr extensively, and your whole                 In view of Bohr's reluctance to speculate
+    paper has become more compact and more              (in print at least) on the nature of the
+    understandable after these changes. There is        ultimate essences it has seemed to me that
+    one problem which I would like to mention,          the consideration of these matters should not
+    not in order to criticize the wording of your       be considered a proper part of the Copen-
+    paper, but for inducing you to more investi-        hagen interpretation. If the Copenhagen
+    gation of this special point, which is how-         interpretation is considered to be an over-all
+    ever a very deep and old philosophical prob-        world view that coincides with the complete
+    lem. When you speak about the ideas                 world views of both you and Bohr, then
+    (especially in Chap. IV), you always speak          there is danger that the Copenhagen in-
+    about the human ideas, and the question             terpretation may not exist; for it is not clear
+    arises, do these ideas "exist" outside of the       (from your respective writings at least)
+    human mind or only in the human mind? In            whether you and Bohr are in complete agree-
+    other words: Have these ideas existed at            ment on all ontological and metaphysical
+    the time when no human mind existed in              questions. Moreover, in your work Physics
+    the world?                                          and Philosophy you discuss many of these
+
+                                                                                  AJP Volume 40 / 1113
+Henry Pierce Stapp
+
+    deeper philosophical questions, yet have a          completely with your view that the Copen-
+    separate chapter entitled "The Copenhagen           hagen interpretation is not itself a complete
+    Interpretation." This suggests that "The            over-all world view. It was never intended
+    Copenhagen Interpretation" should be in-            to be such a view. I also agree with you that
+    terpreted in a restricted way. I have inter-        Bohr and I have probably not looked upon
+    preted it to be not the complete over-all           the Platonic ideals in exactly the same way,
+    joint world view of Bohr and yourself, but          and therefore there is no reason why you
+    rather the essential common ground of you           should go more into the problems of the
+    and Bohr on the specific question of how            Platonic ideals in your paper. Still there is one
+    quantum theory should be interpreted.               reservation which I have to make in connec-
+       My practical or pragmatic account of             tion with your paper and which I mentioned
+    quantum theory was based on the account             in my last letter. I think that you have too
+    given in your chapter "The Copenhagen               much confidence in the possibilities of lan-
+    Interpretation." This concrete account jibes        guage. I think that the attitude which is
+    completely with the abstract pronounce-             behind the Copenhagen interpretation is not
+    ments of Bohr, as the quotations of Bohr in         compatible with the philosophy of Wittgen-
+    my Sec. V bear witness. Thus I think it             stein in the Tractatus. It may be com-
+    correct and proper to regard the pragmatic          patible with the philosophy contained in the
+    interpretation of the formalism as an integral      later papers of Wittgenstein. As you probably
+    part of the Copenhagen interpretation. Sim-         know, Bertrand Russell liked the Tractatus of
+    ilarly, I drew from our conversations at            Wittgenstein, but disapproved of the later
+    Munich an understanding of your commit-             papers and therefore I could never come to an
+    ment to the position that quantum theory            agreement with Russell on these philosophical
+    provides for a complete description of atomic       questions.
+    phenomena, and this position seems com-
+    pletely in accord with that of Bohr. Thus I       I replied:
+    think it correct and proper to regard also          Thank you for your very informative letter.
+    this position as an essential part of the           I had not previously fully appreciated the
+    Copenhagen interpretation. But in view of           point you were making, which as I now under-
+     Bohr's silence on Platonic ideals I would          stand it, is this: You regard recognition of
+    hesitate to include considerations on that          imperfectability of language to be an im-
+    question in my account of the "logical essence      portant element of the attitude that lies
+    of the Copenhagen interpretation." This is          behind the Copenhagen interpretation. This
+    not meant to suggest that the Copenhagen            point was not brought into my account of
+    interpretation bans further search for a com-       the Copenhagen interpretation, and is indeed
+    prehensive world view. It indicates only that       somewhat at odds with its avowed aim of
+    the Copenhagen interpretation is, in my             clarity. . . . [ B u t ] scientists must strive for
+    view, not itself a complete over-all world          clarity and shared understandings, since
+    view: It is merely part of an over-all world        without striving even the attainable will not
+    view; the part that establishes the proper          be achieved. . . .
+    perspective on quantum theory. I empha-                Your words on the matters raised in our
+    sized in the closing passages of my paper           correspondence would certainly be extremely
+    that man's search for a comprehensive world         valuable to readers of my article. And any
+    view is not terminated by the Copenhagen            paraphrasing I might make would diminish
+    interpretation. Rather it is significantly          this value. Thus, with your approval, I would
+    advanced.                                           like to include the full content of your letters
+                                                        (apart from personal openings and closings)
+  Heisenberg replied:
+                                                        in an appendix to my paper, along with
+     Many thanks for your letter. May I just            certain connecting excerpts from my own
+     briefly answer the relevant questions. I agree     letters. I have enclosed a copy of the proposed
+
+1114 I August 1972
+                                                                                    The Copenhagen     Interpretation
+
+    appendix, apart from your reply to the                  your March 31 title ["Quantum Theory,
+    present letter.                                         Pragmatism, and the Nature of Space-time"],
+                                                            the reason being that it does not contain the
+   Heisenberg replied: "Many thanks for your
+                                                            phrase "Copenhagen interpretation," which
+letter. I agree with your intention to publish my
+                                                            we in Copenhagen do not like at all. Indeed,
+letters in the appendix to your paper."                     this expression was invented, and is used by
+   I required also of Rosenfeld, as the close com-          people wishing to suggest that there may be
+panion and co-worker of Bohr, and prime de-                 other interpretations of the Schrodinger equa-
+fender of his views, for an opinion of the extent           tion, namely their own muddled ones. More-
+to which my description succeeded in capturing              over, as you yourself point out, the same
+the essence of the Copenhagen interpretation as             people apply this designation to the wildest
+it was understood by Bohr.                                  misrepresentations of the situation. Perhaps
+   Rosenfeld expressed full agreement with my               a way out of this semantic difficulty would
+account, and gave hearty approval. He went on               be for you to say, after having pointed out
+to comment on the relationship of Bohr to James.            what the difficulty is, that you make use of
+I include his remarks because of their historical           the phrase "Copenhagen interpretation" in
+interest:                                                   the uniquely defined sense in which it is
+    It may interest you to know that I several              understood by all physicists who make a
+    times endeavoured to persuade Bohr to make              correct use of quantum mechanics. Surely,
+    explicit mention of the affinity between his            this is a pragmatic definition.
+    attitude and that of James, but he firmly
+    refused to do so; not because he disagreed,
+                                                          * This work was supported by the U. S. Atomic Energy
+    but because he intensely disliked the idea of
+                                                       Commission.
+    having a label stuck onto him. Indeed you             I
+                                                             K. 11. Popper and M. Bunge, in Quantum Theory and
+    may have noticed that some philosophers            Reality, edited by M. Bunge (Springer, New York, 1967).
+                                                          2
+    are already busy tracing imaginary influences           L . E. Ballentine, Rev. Mod. Phys. 42, 358 (1970).
+                                                          3
+    of various philosophers upon Bohr. With re-              Quantum Theory and Beyond, edited by E. Bastin (Cam-
+    gard to William James, I am quite sure that        bridge IT. P., Cambridge, Eng., 1970); L. Rosenfeld,
+                                                       Suppl. Progr. Theoret. Phys. (Extra number) 222 (1965);
+    Bohr only heard of him from his friend, the        J. M. Jauch, E. P. Wigner, and M. M. Yanase, Nuovo
+    psychologist Rubin, and from myself in the         Cimento 48B, 144 (1967); L. Rosenfeld, Nucl. Phys.
+    '30's. He then expressed enthusiastic ap-          A108, 241 (1968); A. Loinger, Nucl. Phys. A108, 245
+    proval of James' attitude, which he certainly      (1968); Arthur Fine, Phys. Rev. D2, 2783 (1970).
+                                                          4
+    felt akin to his own; but it is a fact—a very            Niels Bohr, Atomic Theory and the Description of Nature
+                                                       (Cambridge U. P., Cambridge, Eng., 1934); Atomic
+    significant one, I think,—that James and
+                                                       Physics and Human Knowledge (Wiley, New York, 1958);
+    Bohr developed a pragmatic epistemology            Essays 1958/1962 on Atomic Physics and Human Knowl-
+    independently of each other.                       edge (Wiley, New York, 1963).
+                                                          5
+       It might be advisable to add somewhere                W. Heisenberg, The Physical Principles of the Quantum
+                                                       Theory (Dover, New York, 1930); in Niels Bohr and the
+    in your paper a remark to that effect in order
+                                                       Development of Physics, edited by W. Pauli (McGraw-Hill,
+    to avoid further misunderstanding. As a            New York, 1955), p. 12; Physics and Philosophy (Harper
+    matter of fact, I have never myself in the         and Row, New York, 1958); Daedalus 87, 95 (1958).
+                                                          6
+    papers I wrote on complementarity brought                 C. F. von Weiszaeker in Ref. 3.
+                                                          7
+    the pragmatic aspect of Bohr's thinking in               J. von Neumann, Mathematical Foundations of Quantum
+                                                       Mechanics (Princeton, U. P., Princeton, N. J., 1955).
+    explicit relation with James, precisely in order      8
+                                                             E. Wigner, Amer. J. Phys. 3 1 , 6 (1963).
+    to avoid such misunderstanding.                       9
+                                                              G. Ludwig in Werner Heisenberg und der Physik
+                                                       unserer Zeit (Friedrich Vieweg, Braunschweig, 1961).
+  He went on to say:                                      10
+                                                              E. Wigner in The Scientist Speculates, edited by I. J.
+    I notice from your further letters with new        Good (Basic Books, New York, 1962), p. 284.
+                                                          II
+                                                              Hugh Everett in, Rev. Mod. Phys. 29, 454 (1957).
+    title pages that you hesitate about the best          12
+                                                              J. A. Wheeler, Rev. Mod. Phys. 29, 463 (1957).
+    title for your essay. I have no very strong           " B r y c e DeWitt, in Phys. Today 23, 30 (Sept. 1970).
+    view about this, but I would incline to prefer         14
+                                                              L. Rosenfeld, Nucl. Phys. A108, 241 (1968).
+
+                                                                                           A JP Volume 40 I 1115
+AJP Volume Ifi
+
+                                                                20
+   " D. Bohm, Phys. Rev. 85, 166, 180 (1952).                       A. Einstein, in Albert Einstein, Philosopher-Physicist,
+   16
+      J. S. Bell, Physics (N. Y.) 1, 195 (1964) and Varenna   edited by P. A. Schlipp (Tudor, New York, 1951), p. 675.
+                                                                 21
+Lectures, Preprint Ref. TH.1220-CERN, Aug. 1970. See                H. P. Stapp, Phys. Rev. D3, 1303 (1971).
+                                                                 22
+also Ref. 21.                                                       N. Bohr, Phys. Rev. 48, 696 (1935) and in Ref. 20,
+   17
+      William James, The Meaning of Truth (Univ. Michi-       p. 201.
+                                                                 23
+gan, Ann Arbor, Mich., 1970). This reference to James does          A. Einstein, in Ref. 20, p. 665.
+                                                                 24
+not mean that the ideas reviewed in this section are                For an interesting and very readable account of the
+exactly those of James or wholly those of James. Countless    four principal conceptual structures that have been
+philosophers have said similar things.                        advanced as the basis of overall world views see S. C.
+   18
+      Reference 17, p. 239.                                   Pepper, World Hypothesis (U. of California Press, Berke-
+   "Reference 17, p. 217.                                     ley, Calif., 1966).
+
+On the Doppler Effect
+
+B. RAM                                                           A derivation of the nonrelativistic Doppler
+Physics Department                                            effect as given by Miller 1 proceeds as follows:
+New Mexico State University                                      It is asserted that the phase kx — wt of a plane
+Las Cruces, New Mexico 88001                                  wave exp [i (kx—at) J is invariant for two observers
+(Received 25 October 1971; revised 18 February 1972)          moving uniformly relative to each other.2 This
+                                                              assertion is justified by associating the phase with
+   Expressions for the Doppler effect are derived without     the number of waves passing a point with co-
+employing any assumption about the phase of a plane           ordinates (x, t) in the reference frame of the first
+wave. It is shown that the invariance of this phase under     observer in a time t, with the first wave crest to
+both the Galilean and the Lorentz transformations is a        reach there being one which passes the origin at
+trivial consequence of the mathematics and is independent     t=0, and then stating that this number will, of
+of its association with any physical process.
+                                                              course, be equal to the number of waves passing
+                                                              over the corresponding point with coordinates
+                                                               (x', t') in the reference frame of the second ob-
+                                                              server in the time t' =t, the point (xr, t') being such
+                                                              that it coincides with (x, t) at t = t'. The invariance
+                                                              of the phase is then used to derive the expression
+                                                              for the nonrelativistic Doppler effect. The same
+                                                              derivation is repeated for the relativistic case3
+                                                              with the exception that the Lorentz transforma-
+                                                              tion is used in place of the Galilean transformation
+                                                              to connect the two frames.
+                                                                 Three objections can be raised to this deriva-
+                                                              tion. First, the validity of the statement that the
+                                                              number of waves passing the point (x, t) in
+                                                              the unprimed system in a time t is equal to
+                                                              the number of waves passing over the corre-
+                                                              sponding point (a/, t') in the primed system, up
+                                                              to the time t' = t, is not at all obvious. Second,
+                                                              while the association of phase with the physical
+                                                              process of counting may be useful, the invariance
+                                                              of the phase is completely independent of this
+                                                              physical association. Third, M0ller's treatment
+
+1116 I August 1972
+

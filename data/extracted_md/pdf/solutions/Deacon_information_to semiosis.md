@@ -1,0 +1,485 @@
+# “The fundamental problem of communication is that of
+
+**source:** pdf · **section:** solutions
+**file:** Deacon_information_to semiosis
+---
+
+reproducing at one point either exactly or approximately
+a message selected at another point.” [Claude Shannon,
+1948]
+
+“Information has nothing to do with meaning” [Warren
+Weaver, 1949]
+
+"The great tragedy of formal information theory is that its
+very expressive power is gained through abstraction away
+from the very thing that it has been designed to describe."
+[John Collier, 2003]
+
+“… there is no general agreement about the relation
+between physics and information.” [Werner Ebling, IS4IS
+2015]
+“I didn’t like the term Information Theory. Claude didn’t
+like it either. You see, the term ‘information theory’
+suggests that it is a theory about information – but it’s
+not. It’s the transmission of information, not information.
+Lots of people just didn’t understand this... I coined the
+term ‘mutual information’ to avoid such nonsense:
+making the point that information is always about
+something. It is information provided by something, about
+something.” [Interview with R. Fano, 2001]
+
+“What I have tried to do is to turn information theory
+upside down to make what the engineers call
+“redundancy” [coding syntax] but I call “pattern” into
+the primary phenomenon. . . . [Gregory Bateson, 1969]
+  Shannon’s measure of information
+     ∑ pi log pi                               ∑ pi log pi — ∑ pj log pj
+                           channel
+  potential                                       received
+   signals                                         signal
+initial channel                               reduced entropy
+   entropy =            (noise-entropy)          = reduced
+  uncertainty                                   uncertainty
+
+ Shannon measured information in terms of the reduction in
+ uncertainty that results from receiving a specific signal.
+ The difference between possible signal entropy (a measure
+ of its possible variant forms) and the entropy of the received
+ message is the measure of reduced uncertainty.
+ This reduction can be understood as a measure of constraint
+ on possible degrees of freedom of the signal medium.
+     Properties analyzed by the
+mathematical theory of communication
+   Mutual information is a measure of the information
+redundancy between two systems (i.e. correspondence)
+     It is not equivalent to reference or “meaning.”
+ entropy= Hs                                    Hr
+ transmitted information =                 Ht = Hs - Hr
+ mutual information =                      Hm < Hs+Hr
+
+                                                                      significance,
+                                                                       usefulness,
+                                                                        relevance
+                        Hs        Hr
+      sender                                receiver
+
+                         physical
+     reference           medium           interpretation
+                        properties
+
+  relationships ignored by the mathematical theory of communication
+                                                                        significance
+ object                                             person
+
+reference             computation                 assignment
+
+The difference between a computer and any mechanical device is a
+function of referential correspondences being extrinsically assigned.
+     “Aboutness" is not intrinsic
+
+Information in the full sense is distinguished from
+other physical or statistical properties by virtue of
+providing reference (“aboutness") and relevance
+(i.e. functional significance, value).
+These properties are not intrinsic to any specific
+physical substrate or signal medium, nor are they
+statistical attributes of the medium.
+What information is “about” is precisely something
+not present in the conveying medium.
+But if aboutness needs to be assigned extrinsically to
+computations it must not be a computable property
+   Nested levels of “information”
+
+  SYNTACTIC PROPERTIES
+
+   SEMANTIC PROPERTIES
+
+  NORMATIVE PROPERTIES
+
+1.Shannon - 2.Boltzmann - 3.Darwin
+        Information ≠ thermodynamics, but
+
+                                                Maxwell’s
+                                                  demon:
+                                                    a link
+                                                between
+                                                 thought
+                                                      and
+                                                entropy?
+  Information “entropy” and thermodynamic entropy are different uses of the same
+ term & formula. Is this a confusion, or is there a deeper relationship between them
+(+/-)? And what about the properties of reference and significance? Are they illusory?
+
+            Schrödinger:                  Shannon:                     Wiener:
+            information                   information                  “Information
+            +negentropy                   “entropy”                    is negative
+                life                      =∑ pi log pi                 entropy”
+            A tale of two entropies
+“Information is physical.” — Charles Bennett
+Beyond their abstract statistical similarity, thermodynamic
+and informational entropy are associated with quite
+dissimilar processes and phenomena (e.g. the 2nd law of
+thermodynamics has no Shannonian counterpart).
+But since every informing medium is constituted physically
+- its informational states are physical states.
+So a change in that medium’s statistical properties (e.g. its
+thermodynamic entropy) also has the potential of changing
+its informational properties.
+This is exemplified by the fact that thermodynamic effects
+can introduce “noise” into a message or can become
+information to a repairman..
+Reduction of the Shannon entropy of a
+ physical sign medium requires work
+                           reference
+
+                          medium
+ potential                                    specific
+  signals                                      signal
+
+   initial                                     reduced
+  entropy    work       (noise-entropy)        entropy
+Because Shannon entropy reduction employs a physical medium
+this also entails that its physical entropy is also reduced.
+This requires work and also entails thermodynamic openness.
+The pattern (constraint, redundancy) exhibited by the received
+signal with respect to the entropy of potential signals thus
+necessarily re-presents the constraints created by this work.
+Improbable natural forms indicate the
+  work of unusual geological forces
+
+Stone circles (Iceland)        Basalt columns (Ireland)
+Highly regular (constrained) geological forms are
+improbable. Thus they indicate the effects of prior work
+specifically capable of generating these constraints in
+contrast to the more common unorganized stone forms.
+        No change of information entropy
+         ≠ lack of referential information
+                                   reference
+
+                                  medium
+       potential                                        specific
+        signals                                          signal
+
+         initial     no                                unchanged
+        entropy     work        (noise-entropy)         entropy
+      Openness to the effects of the imposition of work and therefore
+      to the propagation of constraint is the ground on which
+      referential information depends.
+      Zero message information = no change of signal entropy = no
+      extrinsic work = information about the absence of something.
+...   Reference is a function of the potential for extrinsic influence.
+   Far-from-equilibrium media                          light
+                           When work performed
+
+                                                                   constantly active retinal neurons
+                             by a medium that is
+                              sensitive to specific
+metal detector
+
+                            external influences it
+                             can provide referent
+                             information about a
+                                 specific class of
+                                            objects
+                                          relevant
+                                             to that
+                                          process.
+
+                                     reference
+                 passive                               disrupted
+                 source                                  work
+                           selective sensitivity
+ Significance: work that saves work
+Living processes are organized around the problem of
+performing work to resist the increase of entropy.
+Work requires “the constrained release of energy”
+through a few degrees of freedom
+Resources must be obtained from the environment
+natural selection is in this respect a function of
+competition over work efficiency both intrinsically
+and in ability to efficiently utilize the environment.
+Information provides constraints that help reorganize
+the constraint-generating work of the organism.
+Informational significance can be measured in work
+saved in achieving some functional end with respect
+to work needed to achieve it without that information
+Significance/usefulness = work saved
+
+                      >
+
+The constraints exhibited in a given medium can
+channel dynamics to reduce the total work required to
+achieve a pre-determined functional end state.
+The emergence of interpretive dynamics
+
+ 1. Homeodynamics (thermodynamics)
+    Spontaneous constraint dissipation, reduction of
+    correlation, loss of symmetries, equilibration
+                                                                       e
+ 2. Morphodynamics (“self-organization”)
+    Amplification of system-internal constraints/regularities due to
+    the persistent extrinsic reversal of spontaneous dissipation
+
+  3. Teleodynamics (life and semiosis)                                 e
+    Self-reproducing/maintaining constraints producing
+    synergistic interdependent coupling of morphodynamics
+Reciprocal catalysis (autocatalytic set)
+
+ Lysis of molecule a    Reciprocal catalysis occurs when
+ into molecules b and   one catalytic reaction produces a
+ c by catalyst e        product that catalyzes a second
+ releases the energy    reaction which produces a
+ of the broken          product that catalyzes the first
+ covalent bonds         (and may involve multiple steps)
+                            17
+The morphodynamics of self-assembly
+
+ viral capsule           lipid membrane       microtubule formation
+
+                           Self-assembly occurs
+                                  when the
+                              complementary
+                          geometry of molecular
+                            surfaces facilitates
+                         spontaneous tesselation
+                                into sheets,
+         viral capsule   polyhedrons, tubes, etc.       microtubules
+
+                                     18
+  Morphodynamic processes that each
+produce the others’ boundary constraints
+1. Reciprocal catalysis plus biproduct
+ • Spontaneously self-amplifying catalytic chain-reaction
+   with at least one energy-liberating reaction
+ ∑ Produces high locally asymmetric concentrations of a
+   small number of molecular species
+ ∆ Requires limited diffusion of interdependent catalysts
+2. Enclosure by self-assembly
+ • Spontaneous molecular tesselation into a closed
+   structure due to stereochemical matching
+ ∆ Produces constraint on molecular diffusion
+ ∑ Requires persistently high local concentrations of a
+   single species of component molecule
+                            19
+Autogenesis: simplest                     # self-assembly
+ interpretive system
+When one of the molecular
+products of a reciprocal                  @
+                                                 catalyzed
+catalytic cycle@ tends to self-                  reaction
+
+assemble# into a closed
+structure, encapsulation of the
+ensemble of reciprocal            G
+
+catalysts becomes likely.
+
+    G         Gn
+
+                                      n
+            tubular               G           polyhedral
+                           20                                1/2
+    Morphodynamic constraint-
+reciprocity => autogenic work cycle
+Internal reciprocally-generated boundary
+conditions enable preservation of the far-
+   from-equilibrium dissipative system
+This reciprocity constitutes a higher-order
+ formal constraint that can be preserved
+ indefinitely despite change of substrates
+
+ 1st order constraint                1st order constraint
+
+               2nd order intrinsic constraint
+  The multiple realizability of self
+The higher-order synergy-constraint that constitutes
+autogenesis persists irrespective of changes of the
+underlying substrates and irrespective of whether
+the system is in dynamic change or inert.
+It is therefore not vested in any particular
+component substrate or physico-chemical process.
+It is substrate-transferrable; multiply realizable;
+and formal even though physically embodied
+It constitutes the continuity of an individual unit
+over time, and the information that gets reproduced
+and transmitted down a lineage.
+     Teleodynamics creates “self”
+It constitutes an individuated (i.e. closed and
+integrated) unit system because it is organized to
+actively initiate work to preserve its system-
+preserving-dynamical organization.
+This self-preserving/reproducing disposition creates
+an unambiguous self/non-self distinction with
+respect to potential dissipative influences and thereby
+creates an Umwelt.
+This higher-order formal constraint on the synergy of
+component processes is a locus of agency that is
+intrinsic to the system yet not one of its components
+   Adaptive autogenesis = information
+                              substrate
+
+An autogen with a capsule surface structure that binds a substrate
+molecule and thereby increases shell instability in proportion to
+the number of bound substrates will increase the probability of
+selective dissociation in supportive conditions, and not otherwise.
+= Information about the relevant state of the environment with
+respect to its intrinsic tendency for self-preservation; its telos.
+                                26
+      Limits to autogenic complexity
+A combinatorial catastrophe: A fundamental problem for
+systems employing many interdependent molecular
+interactions is the proliferation of competing side reactions.
+As the number of molecular species that need to interact
+increases (e.g. in reciprocal catalysis or self-assembly), the
+number of possible cross-reactions increases geometrically.
+Only a small fraction of these will be supportive of
+autogenesis and the proliferation of alternative interaction
+possibilities will compete with supportive interactions —
+using up critical components and wasting free energy.
+The increase in possible side reactions will slow the
+reconstitution and decrease the probability of persistence.
+So simple autogenic systems have limited evolvability.
+                              27
+The possible molecular interactions grow
+ exponentially with increasing numbers
+The increase    x                z
+in molecular            a
+components
+creates a     f                      b         possible
+                                              molecular
+                                             interactions
+combinatorial
+catastrophe                              a-f catalysts
+              e     v        w       c
+making
+successful                               u-z &substrates
+                                                products
+                        d
+autogenesis
+improbable      u                y
+                        28
+Viable autogenic systems involve only a
+small fraction of the possible reactions
+                    x                    z
+                              a                           non-
+                                                       destructive
+                                                        catalytic
+                                                        reaction
+                f                            b
+                                                       molecular
+                                                         trans-
+                                                       formation
+     u                   v         w         c         & synthesis
+                e
+                                                   a-f catalysts
+                              d
+ Autogenic                                         u-z &substrates
+                                                          products
+ reactions          u                    y
+ How can deleterious side reactions be selectively inhibited?
+                              29
+An energy / information coincidence?
+
+            ATP-ADP
+
+Phosphate (+) serves as the
+major vehicle for energy
+transfer and signaling in
+living cells. Phosphates can
+polymerize (++) and are
+conveyed throughout cells by
+three-part molecules (base-
+sugar-phosphate) such as     Why are they the building
+ATP.                         blocks of RNA and DNA?
+                         30
+Energy-capturing autogenic reaction network
+
+                                            g g g…
+               e
+                                f+g
+     np-p-p              +e              np-p-
+
+            n+c                              generic energetics
+                                             relaxes constraints
+                                             on substrate
+     np-p-           p              d’       specificity and
+                                             enables increased
+e.g. nucleotide      extrinsic generic       complexity and
+synthesis       +e   energy source           synthetic capacity
+                               31
+Nucleotide storage and phosphate
+protection by polymerization
+ In their inert enclosed state
+ autogenic systems do not
+ require and may be degraded
+ by free energy.
+ Nucleotides can be
+ sequestered and phosphate
+ residues made stable by
+ nucleotide polymerization.
+ This allows storage for later
+ use via depolymerization.
+                       32
+Sequence-specific protein binding
+   to a polynucleotide string
+        sequence-dependent binding
+
+       randomly generated sequence
+To the extent that different nucleotides are not
+distinguished with respect to their phosphate
+binding capacity, the polymerization of
+nucleotides will be unbiased with respect to
+order in the inert phase of autogenesis,
+but different sequences will tend to have different
+affinities for binding specific proteins.
+                       33
+       Alignment of catalysts on a
+      polynucleotide chain can bias
+     catalytic reaction probabilities
+
+        lower reaction        higher reaction               sequential
+          probability           probability                  release &
+                                                            availability
+
+                                              catalyst D
+                            catalyst C
+catalyst A
+
+               catalyst B
+
+                                                                 E
+                                                                 lyst
+                                                              ata
+                                                           --c
+— polynucleotide sequence < - -
+                                         34
+      Template binding order ->
+     reaction network constraint
+  Template structure
+  can constrain
+  reaction probabilities
+  to minimize unuseful
+  interactions
+1. a+z = b+e
+2. a+b+x = c+b+e
+3. b+c+y = f+a+d
+4. c+d+e+f = g+d+e
+ template-biased reactions
+                             35
+... leads to sequence-specific selection
+ The relative proximity and orientation of catalyst
+ molecules on a polymer template will bias the
+ reaction probabilities between them due to
+ distance and sequential timing of release.
+ Sequences that constrain catalyst interaction
+ probabilities closer to the optimal interaction
+ network will be preferentially retained because of
+ higher reproduction and repair rates.
+ The template molecule thereby offloads some
+ fraction of the higher order dynamical synergy
+ constraint onto a structure that is effectively
+ external to autogenic dynamics but constraints it.
+ A preliminary to the origin of genetic information?
+                         36                            51
+

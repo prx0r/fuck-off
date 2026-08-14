@@ -1,0 +1,722 @@
+D ated January 1924
+
+                                                                        5
+                                     THE Q U A N T U M THEORY
+                                               OF R A D IA T I O N
+
+
+                              N. BOHR, H.A. KRAMERS ANDJ. C. SLATER
+
+
+
+
+Introduction
+In the attempts to give a theoretical interpretation of the mechanism
+of interaction between radiation and matter, two apparently contra­
+dictory aspects of this mechanism have been disclosed. On the one
+hand, the phenomena of interference, on which the action of all optical
+instruments essentially depends, claim an aspect of continuity of the
+same character as that involved in the wave theory of light, especially
+developed on the basis of the laws of classical electrodynamics. On
+the other hand, the exchange of energy and momentum between
+matter and radiation, on which the observation of optical phenomena
+ultimately depends, claims essentially discontinuous features. These
+have even led to the introduction of the theory of light-quanta, which
+in its most extreme form denies the wave constitution of light. At the
+present state of science it does not seem possible to avoid the formal
+character of the quantum theory which is shown by the fact that the
+interpretation of atomic phenomena does not involve a description
+of the mechanism of the discontinuous processes, which in the quantum
+theory of spectra are designated as transitions between stationary
+states of the atom. On the correspondence principle it seems never­
+theless possible, as it will be attempted to show in this paper, to
+arrive at a consistent description of optical phenomena by connecting
+the discontinuous effects occurring in atoms with the continuous
+radiation field in a somewhat different manner from what is usually
+done. The essentially new assumption introduced in §2 that the atom,
+even before a process of transition between two stationary states takes
+Editor's note. This paper was published as Phil. Mag. [6] 47 (1924) 785-802.
+It was signed 'Institute for Theoretical Physics, Copenhagen, January 1924.’
+A German version appeared in Zs. f. Phys. 24 (1924) 69-87.
+160              N. B O H R , H. A. K R A M E R S A N D J. C. S L A T E R   s
+place, is capable of communication with distant atoms through a
+virtual radiation field, is due to Slater.* Originally his endeavour
+was in this way to obtain a harmony between the physical pictures
+of the electrodynamical theory of light and the theory of light-quanta
+by coupling transitions of emission and absorption of communicating
+atoms together in pairs. It was pointed out by Kramers, however,
+that instead of suggesting an intimate coupling between these pro­
+cesses, the idea just mentioned leads rather to the assumption of a
+greater independence between transition processes in distant atoms
+than hitherto perceived. The present paper is the result of a mutual
+discussion between the authors concerning the possible importance
+of these assumptions for the elaboration of the quantum theory, and
+may in various respects be considered as a supplement to the first
+part of a recent treatise by Bohr, dealing with the principles of the
+quantum theory, in which several of the problems dealt with here are
+treated more fully.j-
+
+1. Principles of the quantum theory
+The electromagnetic theory of light not only gives a wonderfully
+adequate picture of the propagation of radiation through free space,
+but has also to a wide extent shown itself adapted for the inter­
+pretation of the phenomena connected with the interaction of radiation
+and matter. Thus a general description of the phenomena of emission,
+absorption, refraction, scattering, and dispersion of light may be
+obtained on the assumption that the atoms contain electrified particles
+which can perform harmonic oscillations round positions of stable
+equilibrium, and which will exchange energy and momentum with the
+radiation fields according to the classical laws of electrodynamics. On
+the other hand, it is well known that these phenomena exhibit a
+number of features which are contradictory to the consequences of
+the classical electrodynamical theory. The first phenomenon where
+such contradictions were firmly established was the law of tempera-
+
+* J. C. Slater, Nature, March 1st, 1924, p. 307.
+f N. Bohr, Zs. f. Phys. 13 (1923) 117. An English translation has recently
+appeared in the Publications of the Cambridge Philosophical Society under the
+title: ‘
+       On the application of the Quantum Theory to atomic structure. I: The
+fundamental postulates of the quantum theory.’This treatise, which also
+contains more detailed references to the literature, will in the following be
+quoted as ‘ P.Q.T.’
+5                T H E QU AN TU M T H E O R Y OF R A D IA T IO N     161
+ture radiation. Starting from the classical conception of emission and
+absorption of radiation by a particle performing harmonic oscillations,
+Planck found that, in order to obtain agreement with the experiments
+on temperature radiation, it was necessary to introduce the auxiliary
+assumption that in a statistical distribution only certain states of the
+oscillating particles have to be taken into account. For these dis­
+tinguished states the energy was found to be equal to a multiple of the
+quantum hw, where to is the natural frequency of the oscillator and h
+is a universal constant. Independent of radiation phenomena, this
+result obtained, as Einstein pointed out, a direct support from experi­
+ments on the specific heat of solids. At the same time, this author put
+forward his well-known theory of ‘     light-quanta’
+                                                   , according to which
+radiation should not be propagated through space as continuous
+trains of waves in the classical theory of light, but as entities, each
+of which contains the energy hv, concentrated in a minute volume,
+where h is Planck’   s constant and v the quantity which in the classical
+picture is described as the number of waves passing in unit time.
+Although the great heuristic value of this hypothesis is shown by the
+confirmation of Einstein’    s predictions concerning the photoelectric
+phenomenon, still the theory of light-quanta can obviously not be
+considered as a satisfactory solution of the problem of light propaga­
+tion. This is clear even from the fact that the radiation ‘     frequency’
+v appearing in the theory is defined by experiments on interference
+phenomena which apparently demand for their interpretation a wave
+constitution of light.
+   In spite of the fundamental difficulties involved in the ideas of the
+quantum theory, it has nevertheless been possible to a certain extent
+to apply these conceptions, combined with information on the structure
+of the atom derived from other sources, to the interpretation of the
+results of investigations of the emission and absorption spectra of the
+elements. This interpretation is based on the fundamental postulate:
+that an atom possesses a number of distinguished states, the so-called
+‘stationary states’   , which are supposed to possess a remarkable
+stability, for which no interpretation can be derived from the concepts
+of classical electrodynamics. This stability comes to light in the circum­
+stance that any change of the state of the atom must consist of a
+complete process of transition from one of these stationary states to
+another. The postulate obtains a connection with optical phenomena
+through the further assumption that when a transition between two
+                 N. B O H R , H. A. K R A M E R S A N D J. C. S L A T E R    5
+
+stationary states is accompanied by emission of radiation, this consists
+of a train of harmonic waves, whose frequency is given by the relation
+                                  hv = E\ — E%,                             (1)
+where E\ and E 2 are the values of the energy of the atom in the
+initial and in the final state of the process respectively. Inversely it is
+assumed that the reversed process of transition can take place by
+illumination with light with this same frequency. The applicability
+of these assumptions to the interpretation of the spectra of the elements
+is essentially due to the fact that it has been found possible in many
+cases to fix the energy in the stationary states of an isolated atom
+by means of simple rules referring to motions which with a high
+approximation obey the ordinary laws of electrodynamics (P.Q.T.,
+Ch. I, §2). The concepts of this theory, however, do not allow us to
+describe the details of the mechanism underlying the process of
+transition between the various stationary states.
+   At the present state of science it seems necessary, as regards the
+occurrence of transition processes, to content ourselves with con­
+siderations of probability. Such considerations have been introduced
+by Einstein,* who has shown how a remarkably simple deduction
+of Planck’ s law of temperature radiation can be obtained by assuming
+that an atom in a given stationary state may possess a certain proba­
+bility of a ‘spontaneous’transition in unit time to a stationary state
+of smaller energy content, and that in addition an atom, by illumina­
+tion with external radiation of suitable frequency, may acquire a
+certain probability of performing an ‘    induced’transition to another
+stationary state with higher or smaller energy content. In connexion
+with the conditions of thermal equilibrium between radiation and
+matter, Einstein further arrived at the conclusion that the exchange
+of energy by the transition process is accompanied by an exchange
+of momentum of the amount hv/c, just as would be the case if the
+transition were accompanied by the starting or stopping of a small
+ entity moving with the velocity of light c and containing the energy hv.
+ He concluded that the direction of this momentum for the induced
+transitions is the same as the direction of propagation of the illumi­
+nating light-waves, but that for the spontaneous transitions the
+ direction of the impulse is distributed according to probability laws.
+These results, which were considered as an argument for ascribing a
+* A. Einstein, Phys. Zs. 18 (1917) 121.
+5                 T H E QU A N TU M T H E O R Y OF R A D IA T IO N     163
+
+certain physical reality to the theory of light-quanta, have recently
+found an important application in explaining the remarkable pheno­
+mena of the change of wave-length of radiation scattered by free
+electrons brought to light by A. H. Compton’          s * investigation on
+X-ray scattering. The application of probability considerations to
+the problem of temperature equilibrium between free electrons and
+radiation suggested by this discovery has recently been successfully
+treated by Pauli, f and the formal analogy of his results with the laws
+governing transition processes between stationary states of atoms has
+been emphasized by Einstein and Ehrenfest.**
+   In spite of the fundamental departure of the quantum theory of
+atomic processes from a picture based on the ordinary concepts of
+electrodynamics, the former must in a certain sense ultimately appear
+as a natural generalization of the latter. This is evident from the
+condition that in the limit, where we consider processes which depend
+on the statistical behaviour of a large number of atoms, and which
+involve stationary states where the difference between neighbouring
+stationary states is comparatively little, the classical theory leads to
+conclusions in agreement with the experiments. In the case of emission
+and absorption of spectral lines, the connexion between the two
+theories has led to the establishment of the ‘   correspondence principle’ ,
+which postulates a general conjugation of each of the various possible
+transitions between stationary states with one of the harmonic oscil­
+lation components in which the electrical moment of the atom,
+considered as a function of the time, can be resolved (P.Q.T., Ch. II,
+ §2). This principle has afforded a basis for an estimation of probabilities
+ of transition, and thereby for bringing the problem of intensities and
+ polarization of spectral lines in close connexion with the motion of the
+ electrons in the atom.
+    The correspondence principle has led to comparing the reaction
+ of an atom on a field of radiation with the reaction on such a field
+ which, according to the classical theory of electrodynamics, should be
+ expected from a set of ‘  virtual’harmonic oscillators with frequencies
+ equal to those determined by the equation (1) for the various possible
+ transitions between stationary states (P.Q.T., Ch. Ill, §3). Such a
+* A. H. Compton, Phys. Rev. 21 (1923) 483. See also P. Debye, Phys. Zs. 24
+(1923) 161.
+t W. Pauli, Zs. f. Phys. 18 (1923) 272.
+** A. Einstein and P. Ehrenfest, Zs. f. Phys. 14 (1923) 301.
+                 N. B O H R , H. A. K R A M E R S A N D J. C. S L A T E R    5
+
+picture has been used by Ladenburg * in an attempt to connect the
+experimental results on dispersion quantitatively with considerations
+on the probability of transitions between stationary states. Also in the
+phenomenon of interaction between free electrons and radiation, the
+possibility of applying similar considerations is suggested by the
+analogy, emphasized by Compton, between the change of wave-length
+of the scattered rays and the classical Doppler effect of radiation
+from a moving source.
+   Although the correspondence principle makes it possible through
+the estimation of probabilities of transition to draw conclusions about
+the mean time which an atom remains in a given stationary state,
+great difficulties have been involved in the problem of the time-
+interval in which emission of radiation connected with the transition
+takes place. In fact, together with other well-known paradoxes of the
+quantum theory, the latter difficulty has strengthened the doubt,
+expressed from various sides, f whether the detailed interpretation of
+the interaction between matter and radiation can be given at all in
+terms of a causal description in space and time of the kind hitherto
+used for the interpretation of natural phenomena (P.Q.T., Ch. Ill, §1).
+Without in any way removing the formal character of the theory, it
+nevertheless appears, as mentioned in the introduction, that a definite
+advance as regards the interpretation of the observable radiation
+phenomena may be made by connecting these phenomena with the
+stationary states and the transitions between them in a way somewhat
+different from that hitherto followed.
+
+2. Radiation and transition processes
+We will assume that a given atom in a certain stationary state will
+communicate continually with other atoms through a time-spatial
+mechanism which is virtually equivalent with the field of radiation
+which on the classical theory would originate from the virtual harmonic
+oscillators corresponding with the various possible transitions to other
+stationary states. Further, we will assume that the occurrence of
+transition processes for the given atom itself, as well as for the other
+atoms with which it is in mutual communication, is connected with
+* R. Ladeaburg, Zs. f. Phys. 4 (1921) 451. See also R. Ladenburg and P. Reicbe,
+Naturwiss. 11 (1923) 584.
+f Such a view has perhaps for the first time been clearly expressed by O. W.
+Richardson, ‘
+            The Electron Theory of Matter,’2nd ed. (Cambridge 1916) p. 507.
+                                                                       165
+
+this mechanism by probability laws which are analogous to those
+which in Einstein’  s theory hold for the induced transitions between
+stationary states when illuminated by radiation. On the one hand,
+the transitions which in this theory are designated as spontaneous are,
+on our view, considered as induced by the virtual field of radiation
+which is connected with the virtual harmonic oscillators conjugated
+with the motion of the atom itself. On the other hand, the induced
+transitions of Einstein’ s theory occur in consequence of the virtual
+radiation in the surrounding space due to other atoms.
+  While these assumptions do not involve any change in the connexion
+between the structure of the atom and the frequency, intensity, and
+polarization of the spectral lines derived by means of the relation (1)
+and of the correspondence principle, they lead to a picture as regards
+the time-spatial occurrence of the various transition processes on
+which the observations of the optical phenomena ultimately depend
+which in an essential respect differs from the usual concepts. In fact,
+the occurrence of a certain transition in a given atom will depend on
+the initial stationary state of this atom itself and on the states of
+the atoms with which it is in communication through the virtual
+radiation field, but not on the occurrence of transition processes in
+the latter atoms.
+  On the one hand it will be seen that our view, in the limit where
+successive stationary states differ only little from each other, leads to
+a connexion between the virtual radiation field and the motion of the
+particles in the atom which gradually merges into that claimed by
+the classical radiation theory. In fact neither the motion nor the
+constitution of the radiation field will in this limit undergo essential
+changes through the transitions between stationary states. As regards
+the occurrence of transitions, which is the essential feature of the
+quantum theory, we abandon on the other hand any attempt at a
+causal connexion between the transitions in distant atoms, and
+especially a direct application of the principles of conservation of
+energy and momentum, so characteristic for the classical theories.
+The application of these principles to the interaction between individual
+atomic systems is, on our view, limited to interactions which take place
+when the atoms are so close that the forces which would be connected
+with the radiation field on the classical theory are small compared with
+the conservative parts of the fields of force originating from the electric
+charges in the atom. Interactions of this type, which may be termed
+                  N. B O H R , H. A. K R A M E R S A N D J. C. S L A T E R       5
+
+‘collisions’
+           , offer, as is well known, remarkable illustrations of the
+stability of stationary states postulated in the quantum theory. In
+fact, an analysis of the experimental results based on the theory of
+conservation of energy and momentum is in agreement with the view
+that the colliding atoms before as well as after the process will always
+find themselves in stationary states (P.Q.T., Ch. I, §4)*. By interaction
+between atoms at greater distances from each other, where according
+to the classical theory of radiation there would be no question of
+simultaneous mutual action, we shall assume an independence of the
+individual transition processes, which stands in striking contrast to
+the classical claim of conservation of energy and momentum. Thus
+we assume that an induced transition in an atom is not directly caused
+by a transition in a distant atom for which the energy difference
+between the initial and the final stationary state is the same. On the
+contrary, an atom which has contributed to the induction of a certain
+transition in a distant atom through the virtual radiation field con­
+jugated with the virtual harmonic oscillator corresponding with one
+of the possible transitions to other stationary states, may nevertheless
+itself ultimately perform another of these transitions.
+   At present there is unfortunately no experimental evidence at hand
+which allows to test these ideas, but it may be emphasized that the
+degree of independence of the transition processes assumed here would
+
+* These considerations hold obviously only in so far as the radiation connected
+with the collisions can be neglected. Although in many cases the energy of this
+radiation is very small, its occurrence might be of essential importance. This
+has been emphasized by Franck in connexion with the explanation of Ram-
+sauer’s important results regarding collisions between atoms and slow electrons
+[Ann. d. Phys. Leipzig 64 (1922) 513; 66 (1922) 546], from which it seems to
+follow that in certain cases the electron can pass freely through the atom,
+without being influenced by its presence. In fact, if in these ‘collisions’a change
+in the motion of the electron actually took place, the classical theory would
+involve so large a radiation, that a rational conjugation of the radiation with the
+possible transition processes, as claimed by the correspondence principle, could
+hardly be established [compare F. Hund, Zs. f. Phys. 13 (1923) 241]. On the
+view presented in this paper, such an explanation might on the one hand be
+regarded as the more natural, since the origin of radiation is not directly sought
+in the occurrence of transitions but in the motion of the electron. On the other
+hand, it must be remembered that we are here dealing with a case where, on
+account of the large magnitude of the classical reaction of radiation, the theory
+does not allow a sharp distinction between stationary motion and transition
+processes.
+s                T H E Q U A N TU M T H E O R Y OF R A D IA T IO N   167
+
+seem the only consistent way of describing the interaction between
+radiation and atoms by a theory involving probability considerations.
+This independence reduces not only conservation of energy to a
+statistical law, but also conservation of momentum. Just as we
+assume that any transition process induced by radiation is accompanied
+by a change of energy of the atom of the amount hv, we shall assume,
+following Einstein, that any such process is also accompanied by a
+change of momentum of the atom of an amount hv/c. If the transition
+is induced by virtual radiation fields from distant atoms, the direction
+of this momentum is the same as that of the wave propagation in this
+virtual field. In case of a transition by its own virtual radiation, we
+shall naturally assume that the change of momentum is distributed
+according to probability laws in such a way that changes of momentum
+due to the transitions in other atoms are statistically compensated for
+any direction in space.
+   The cause of the observed statistical conservation of energy and
+momentum we shall not seek in any departure from the electrodynamic
+theory of light as regards the laws of propagation of radiation in free
+space, but in the peculiarities of the interaction between the virtual
+field of radiation and the illuminated atoms. In fact, we shall assume
+that these atoms will act as secondary sources of virtual wave radiation
+which interferes with the incident radiation. If the frequency of the
+incident waves coincides closely with the frequency of one of the
+virtual harmonic oscillators corresponding to the various possible
+transitions, the amplitudes of the secondary waves will be especially
+large, and these waves will possess such phase relations with the
+incident waves that they will diminish or augment the intensity of the
+virtual radiation field, and thereby weaken or strengthen its power of
+inducing transitions in other atoms. Whether it is a diminishing or an
+augmentation of the intensity which takes place, will depend on
+whether the virtual harmonic oscillator, which is called into play by
+the incident radiation, corresponds with a transition by which the
+energy of the atom is increased or diminished respectively. It will be
+seen that this view is closely related to the ideas which led Einstein
+to introduce probabilities of two kinds of induced transitions between
+stationary states corresponding with an increase or decrease of the
+ energy of the atom respectively. In spite of the time-spatial separation
+ of the processes of absorption and emission of radiation characteristic
+ for the quantum theory, we may nevertheless expect, on our view,
+168             N. B O H R , H. A. K R A M E R S A N D J. C. S L A T E R   5
+
+a far-reaching analogy with the classical theory of electrodynamics
+as regards the interaction of the virtual radiation field and the virtual
+harmonic oscillators conjugated with the motion of the atom. It
+seems actually possible, guided by this analogy, to establish a con­
+sistent and fairly complete description of the general optical pheno­
+mena accompanying the propagation of light through a material
+medium, which accounts at the same time for the close connexion
+of the phenomena with the spectra of the atoms of the medium.
+
+3. Capacity of interference of spectral lines
+Before we enter more closely on the general problem of the reaction
+of atoms on a virtual radiation field, responsible for the phenomena
+accompanying the propagation of light through material media, we
+shall here briefly consider the properties of the field originating from
+a single atom, as far as they are connected with the capacity of inter­
+ference of light from one and the same source. The constitution of this
+field must obviously not be sought in the peculiarities of the transition
+processes themselves, the duration of which we shall assume at any
+rate not to be large compared with the period of the corresponding
+harmonic component in the motion of the atom. These processes will,
+on our view, simply mark the termination of the time-interval in
+which the atom will be able to communicate with other atoms through
+the corresponding virtual oscillator. An upper limit of the capacity
+of interference, however, will clearly be given by the mean time
+interval in which the atom remains in the stationary state representing
+the initial state of the transition under consideration. The estimation
+of the time of duration pf states based on the correspondence principle
+has obtained a general confirmation from the well-known beautiful
+experiments on the duration of the luminosity of high speed atoms
+emerging from a luminescent discharge into a high vacuum. (Compare
+P.Q.T., Ch. II, §4.) On the present point of view these experiments
+obtain a very simple interpretation. In fact it will be seen that on
+this view the variation of the luminosity along the path of the atoms
+will not depend on the peculiarity of the transitions, but only on the
+relative number of atoms in the various stationary states in the
+different parts of the path. If all the emerging atoms have the same
+speed and are initially in the same state, we must thus expect that
+for any spectral line conjugated with a transition from this state the
+luminosity will decrease exponentially along the path at one and the
+5
+
+same rate. At present the experimental material at hand is hardly
+sufficient to test these considerations.
+   When we ask for the capacity of interference of spectral lines,
+determined by optical apparatus, the mean time of duration of the
+stationary states will certainly constitute an upper limit for this
+capacity, but it must be remembered that the sharpness of a given
+spectral line which is due to the statistical result of the action from a
+large number of atoms will depend not only on the lengths of the
+individual wave trains terminated by the transition processes, but
+clearly also on any uncertainty in the definition of the frequency of
+these waves. In view of the way this frequency through relation (1) is
+related to the energy in the stationary states, it is of interest to note
+that the above-mentioned upper limit of capacity of interference may
+be brought in close connexion with the limit of definition of the
+motion and of the energy in the stationary states. In fact, the postulate
+of the stability of stationary states imposes an a priori limit to the
+accuracy with which the motion in these states can be described by
+means of classical electrodynamics, a limit which on our picture is
+directly involved in the assumption that the virtual radiation field
+is not accompanied by a continuous change in the motion of the atom,
+but only acts by its induction of transitions involving finite changes
+of the energy and the momentum of the atom (P.Q.T., Ch. II, §4).
+In the limiting region where the motions in the two stationary states
+involved in the transition process differ only comparatively little
+from each other, the upper limit of capacity of interference of the
+individual wave trains coincides with the limit of definition of the
+frequency of the radiation determined by (1), if the influence of the
+lack of definition of the energy in the two states is treated as indepen­
+dent errors. In the general case where the motions in these states may
+differ considerably from each other, the upper limit of the capacity
+of interference of the wave trains is closely related with the definition
+of the motion in the stationary state which forms the starting point
+of the transition process. Also here we may, however, expect that the
+observable sharpness of the spectral lines will be determined according
+to relation (1) by adding the effect of any possible lack of definition
+of the energy in the stationary state terminating the transition process
+to the effect of the lack of definition in the starting state in a similar
+way as independent errors. Just this influence of the lack of definition
+of both stationary states on the sharpness of a spectral line makes it
+170             N. B O H R , H. A. K R A M E R S A N D J. C. S L A T E R   5
+
+possible to ensure the reciprocity which will exist between the con­
+stitution of a line when appearing in an emission and in an absorption
+spectrum, and which is claimed by the condition for thermal equi­
+librium expressed by Kirchhoff’      s law. In this connexion it may be
+remembered how the apparent deviations from this law exhibited by
+the remarkable difference often shown by the structure of the emission
+and the absorption spectra of an element as regards the number of
+lines present are directly accounted for on the quantum theory when
+account is taken of the difference in the statistical distributions of
+the atoms over the various stationary states under different external
+conditions.
+   A problem closely related to the sharpness of spectral lines origi­
+nating from atoms under constant external conditions, is the problem
+of the spectrum to be expected from atoms under the influence of
+external forces which vary considerably within a time-interval of the
+same order of magnitude as the mean duration of the stationary states.
+Such a problem is met with in certain of the experiments by Stark
+on the influence of electric fields on spectral lines. In these experiments
+the emitting atoms move with large velocities, and the time-intervals
+in which they pass between two points where the intensity of the
+electric field differs very much, are only a small fraction of the mean
+time of.duration of the stationary states connected with the in­
+vestigated spectral lines. Nevertheless Stark found that, except for
+a Doppler effect of the usual kind, the radiation from the moving
+ atoms was influenced by the electric field at any point of the path in
+the same way as the radiation from resting atoms subject to the
+ constant action of the field at this point. While, as emphasized by
+various authors,* the intferpretation of this result obviously presents
+ difficulty on the usual quantum theory description of the connexion
+ between radiation and transition processes, it is clear that Stark’       s
+ results are in conformity with the picture adopted in this paper. In
+ fact, during the passing of the atoms through the field, the motion
+ in the stationary states changes in a continuous way, and in conse­
+ quence also the virtual harmonic oscillators corresponding with the
+ possible transitions. The effect of the virtual radiation field originating
+ from the moving atoms will therefore not be different from that
+ which would occur if the atoms along their whole path had moved in
+* Compare K. Forsterling, Zs. f. Phys. 10 (1922) 387; A. J. Dempster, Astro-
+phys. Journ. 57 (1923) 193.
+5                 T H E QU AN TU M T H E O R Y OF R A D IA T IO N     171
+
+a field of constant intensity, at any rate if - as in Stark’
+                                                           s experiments -
+the radiation originating from the other parts of their paths is pre­
+vented from reaching those parts of the apparatus on which the
+observation of the phenomenon depends. In a problem of this kind it
+will also be seen how a far reaching reciprocity in the observable
+phenomena of emission and absorption is ensured on account of the
+symmetry exhibited by our picture as regards the coupling of the
+radiation field with the transition processes in the one or in the other
+direction.
+
+4. Quantum theory of spectra and optical phenomena
+Although on the quantum theory the observation of the optical
+phenomena ultimately depends on discontinuous transition processes,
+an adequate interpretation of these phenomena must, as already
+emphasized in the introduction, nevertheless involve an element of
+continuity similar to that exhibited by the classical electrodynamical
+theory of the propagation of light through material media. On this
+theory the phenomena of reflexion, refraction, and dispersion are
+attributed to a scattering of light by the atom due to the forced
+vibratior in the individual electric particles, set up by the electro­
+magnetic forces of the radiation field. The postulate of the stability
+of stationary states might at first sight seem to involve a fundamental
+difficulty on this point. The contrast, however, was to a certain extent
+bridged over by the correspondence principle, which, as mentioned
+in §1, led to comparing the reaction of an atom on a radiation field
+with the scattering which, according to the classical theory, would
+arise from a set of virtual harmonic oscillators conjugated with the
+various possible transitions. It must still be remembered that the
+analogy between the classical theory and the quantum theory as
+formulated through the correspondence principle is of an essentially
+formal character, which is especially illustrated by the fact that on
+the quantum theory the absorption and emission of radiation are
+coupled to different processes of transition, and thereby to different
+virtual oscillators. Just this point, however, which is so essential for
+the interpretation of the experimental results on emission and ab­
+sorption spectra, seems to afford a guidance as regards the way in
+which the scattering phenomena are related with the activity of the
+ virtual oscillators concerning emission and absorption of radiation.
+ In a later paper it is hoped to show how on the present view a quanti-
+                 N. B O H R , H. A. K R A M E R S A N D J. C. S L A T E R     5
+
+tative theory of dispersion resembling Ladenburg’     s theory can be
+established.* Here we shall confine ourselves to emphasizing once
+more the continuous character of the optical phenomena, which
+seemingly does not permit an interpretation based on a simple causal
+connexion with transition processes in the propagating medium.
+   An instructive example of these considerations is offered by the
+experiments on absorption spectra. In fact, the pronounced absorption
+by monatomic vapours for light of frequencies coinciding with certain
+lines in the emission spectra of the atoms strictly cannot be said,
+as often done for brevity, to be caused by the transition processes
+which take place in the atoms of the vapour induced by wave trains
+in the incident radiation possessing the frequencies of the absorption
+lines. The appearance of these lines in the spectroscope is due to the
+decrease of the intensity of the incident waves in consequence of the
+peculiarities of the secondary spherical wavelets set up by each of
+the illuminated atoms, while the induced transitions appear only as
+an accompanying effect by which a statistical conservation of energy
+is ensured. The presence of the secondary coherent wave-trains is at
+the same time responsible for the anomalous dispersion connected
+with the absorption lines, and is especially clearly shown by the
+phenomenon, discovered by W oodf, of selective reflexion from the
+wall of a vessel containing metallic vapour under sufficiently high
+pressure. The occurrence of included transitions between stationary
+states is on the other hand directly observed in the fluorescent radi­
+ation, which for an essential part originates from the presence of a
+small number of atoms which through the illumination have been
+transferred to a stationary state of higher energy. As is well known,
+the fluorescent radiation can be suppressed through the admixture
+of foreign gases. As regards the part played by atoms in the higher
+stationary states this phenomenon is explained by collisions which
+cause a considerable increase of the probability of the atoms to return
+into their normal state. At the same time any part of the fluorescent
+radiation due to the coherent wavelets will, through the admixture
+of foreign gases, just as the phenomena of absorption, dispersion, and
+reflexion, undergo such changes as can be brought in connexion with
+
+
+* Note added during the proof. The outline of such a theory is briefly described
+by Kramers in a letter to ‘Nature’published in April, 1925.
+f R. W. Wood, Phil. Mag. 23 (1915) 689.
+5                 T H E QU AN TU M T H E O R Y OF R A D IA T IO N     173
+a broadening of the spectral lines*. It will be seen that a view on
+absorption phenomena differing essentially from that just described
+can hardly be maintained, if it can be shown that the selective ab­
+sorption of spectral lines is a phenomenon qualitatively independent
+of the intensity of the source of radiation, in a similar way to what
+has already been found to be the case for the usual phenomena of
+reflexion and refraction, whose transitions in the medium do not
+occur to a similar extent (compare P.Q.T., Ch. Ill, §3).
+   Another interesting example is offered by the theory of the scattering
+of light by free electrons. As has been shown by Compton by means of
+reflexion of X-rays from crystals, this scattering is accompanied by a
+change of frequency, different in different directions, and corre­
+sponding with the constitution of the radiation which on the classical
+theory would be emitted by an imaginary moving source. As mention­
+ed, Compton has reached a formal interpretation of this effect on the
+theory of light-quanta by assuming that the electron may take up a
+quantum of the incident light and simultaneously re-emit a light-
+quantum in some other direction. By this process the electron acquires
+a velocity in a certain direction, which is determined, just as the
+frequency of the re-emitted light, by the laws of conservation of
+energy and momentum, an energy of hv and a momentum hv/c being
+ascribed to each light-quantum. In contrast to this picture, the
+scattering of the radiation by the electrons is, on our view, considered
+as a continuous phenomenon to which each of the illuminated electrons
+contributes through the emission of coherent secondary wavelets.
+Thereby the incident virtual radiation gives rise to a reaction from
+each electron, similar to that to be expected on the classical theory
+from an electron moving with a velocity coinciding with that of the
+above-mentioned imaginary source and performing forced oscillations
+under the influence of the radiation field. That in this case the virtual
+oscillator moves with a velocity different from that of the illuminated
+electrons themselves is certainly a feature strikingly unfamiliar to the
+classical conceptions. In view of the fundamental departures from
+the classical space-time description, involved in the very idea of virtual
+oscillators, it seems at the present state of science hardly justifiable
+to reject a formal interpretation as that under consideration as in­
+adequate. On the contrary, such an interpretation seems unavoidable
+in order to account for the effects observed, the description of which
+* See for instancy, Chr. Fuchtbauer and G. Joos, Phys. Zs. 23 (1922) 73.
+                 N. B O H R , H. A. K R A M E R S A N D J. C. S L A T E R      5
+
+involves the wave-concept of radiation in an essential way. At the
+same time, however, we shall assume, just as in Compton’        s theory,
+that the illuminated electron possesses a certain probability of taking
+up in unit time a finite amount of momentum in any given direction.
+By this effect, which in the quantum theory takes the place of the
+continuous transfer of momentum to the electrons which on the
+classical theory would accompany a scattering of radiation of the
+type described, a statistical conservation of momentum is secured in
+a way quite analogous to the statistical conservation of energy in the
+phenomena of absorption of light discussed above. In fact, the laws of
+probability for the exchange of momentum by interaction of free
+electrons and radiation derived by Pauli are essentially analogous to
+the laws governing transition processes between well-defined states
+of an atomic system. Especially the considerations of Einstein and
+Ehrenfest, referred to in §1, are suited to bring out this analogy.
+    A problem similar to that of the scattering of light by free electrons
+ is presented by the scattering of light by an atom, even in the case
+ where the frequency of the radiation is not large enough to induce
+ transitions by which an electron is wholly removed from the atom.
+ In fact, in order to secure statistical conservation of momentum, we
+ must, as emphasized by various authors,* assume the occurrence of
+ transition processes by which the momentum of the scattering atom
+ changes by finite amounts without, however, the relative motion of
+ the particles of the atom being changed, as in transition processes of
+ the usual type considered in the spectral theory. It will also be seen,
+ on our picture, that transition processes of the type mentioned will
+ be closely connected with the scattering phenomena, in a way analo­
+ gous with the connexion of the spectral phenomena with the transition
+ processes by which the internal motion of the atom undergoes a change.
+ Due to the large mass of the atomic nucleus the velocity change which
+ the atom undergoes by these transitions is so small, that it will not
+ have a perceptible effect on the energy of the atom and the frequency
+ of the scattered radiation. Nevertheless, it is of principal importance
+ that the transference of momentum is a discontinuous process, while
+ the scattering itself is an essentially continuous phenomenon, in which
+  all the illuminated atoms take part, independent of the intensity of the
+ incident light. The discontinuous changes in momentum of the atoms,
+  however, are the cause of the observable reactions on the atoms
+* W. Pauli, Zs. f. Phys. 18 (1923) 272; A. Smekal, Naturwissensch. 11 (1923) 875.
+5                 T H E QU AN TU M T H E O R Y OF R A D IA T IO N    175
+
+described as radiation pressure. This view fulfils clearly the conditions
+for thermal equilibrium between a (virtual) radiation field and a
+reflecting surface, derived by Einstein * and considered as an argument
+for the light-quantum theory. At the same time it needs hardly be
+emphasized that it is also consistent with the apparent continuity
+exhibited by actual observations on radiation pressure. In fact, if we
+consider a solid, a change of hvjc in its total momentum will be totally
+imperceptible, and for visible light even vanishingly small compared
+with the irregular changes of this momentum of a body in thermal
+equilibrium with the surroundings. In the discussion of the actual
+experiments it may, however, be noted at the same time, that the
+frequency of the occurrence of such processes may often be so large
+that the problem arises whether the time involved in the transitions
+themselves can be neglected, or, in other words, whether the limit has
+been reached inside which the formulation of the principles of the
+quantum theory can be maintained (compare P.Q.T., Ch. II, §5).
+   The last considerations may illustrate how our picture of optical
+phenomena offers a natural connexion with the ordinary continuous
+description of macroscopic phenomena for the interpretation of which
+Maxwell’  s theory has shown itself so wonderfully adapted. The
+advantage in this respect of the present formulation of the principles
+of the quantum theory over the usual representation of this theory
+will perhaps be still more clearly illustrated if we consider the pheno­
+menon of emission of electromagnetic waves, say from an antenna as
+used in wireless telegraphy. In this case no adequate description of the
+phenomenon is offered on the picture of emission of radiation during
+separate successive transition processes between imaginary stationary
+states of the antenna. In fact, when the smallness of the energy
+changes by the transitions, and the magnitude of the energy radiation
+from the antenna per unit time, are taken into account, it will be seen
+that the duration of the individual transition processes can only be
+ an exceedingly small fraction of the period of oscillation of the e-
+lectricity in the antenna, so that there would be no justification in
+ describing the result of one of these processes as the emission of a
+ train of waves of this period. On the present view, however, we will
+ describe the action of the oscillation of the electricity in the antenna
+ as producing a (virtual) radiation field which through probability
+ laws again induces changes in the motion of the electrons which may
+* A. Einstein, Phys. Zs. 10 (1909) 817.
+176              N. B O H R , H. A. K R A M E R S A N D J. C. S L A T E R   5
+
+be regarded as continuous. In fact, even if a distinction between
+different energy steps hv could be kept upright, the size of these steps
+would be quite negligible compared with the energy associated with
+the antenna. It will in this connexion be observed that the emphasizing
+of the ‘virtual’character of the radiation field, which at the present
+state of science seems so essential for an adequate description of
+atomic phenomena, automatically loses its importance in a limiting
+case like that just considered, where the field, as regards its observable
+interaction with matter, is endowed with all the attributes of an
+electromagnetic field in classical electrodynamics.
+
+
+Related papers
+5a J. C. Slater, Radiation and Atoms. Nature 113 (1924) 307.
+5b H. Geiger und W. Bothe, Vber das Wesen des Comptoneffektes; ein experi-
+menteller Beitrag zur Theorie der Strahlung. Z. Phys. 32 (1925) 639, received
+April 25, 1925.
+

@@ -1,0 +1,266 @@
+# Philosophy and Phenomenological Research
+
+**source:** pdf · **section:** presentations
+**file:** McCall-Lowe-Levy
+---
+
+Vol. LXXVII No. 3, November 2008
+Ó 2008 International Phenomenological Society
+
+Bad Luck Once Again
+neil levy
+Centre for Applied Philosophy and Public Ethics, University of Melbourne
+James Martin 21st Century School, Oxford University
+
+     In a recent article in this journal, Storrs McCall and E.J. Lowe sketch an account
+     of indeterminist free will designed to avoid the luck objection that has been
+     wielded to such effect against event-causal libertarianism. They argue that if deci-
+     sion-making is an indeterministic process and not an event or series of events, the
+     luck objection will fail. I argue that they are wrong: the luck objection is equally
+     successful against their account as against existing event-causal libertarianisms.
+     Like the event-causal libertarianism their account is meant to supplant, the process
+     view cannot oﬀer a reasons explanation of the agent’s choice itself; that choice is
+     explained by nothing except chance. The agent therefore fails to exercise freedom-
+     level control over it.
+
+In ‘‘Indeterminist Free Will’’ (McCall and Lowe 2005) Storrs McCall
+and E.J. Lowe oﬀer us an account of indeterministic decision-making
+that is designed to avoid the luck objection that has widely been seen
+as vitiating existing accounts of libertarian free will. They argue that
+on their process view, agents choose for reasons, and that ‘‘something
+that happens for a reason does not happen by chance’’ (p. 685). How-
+ever, avoiding the luck objection requires more than just showing that
+agents choose for reasons. An adequate libertarianism must oﬀer a rea-
+sons explanation of the very choice that is the locus of free will, not
+simply of the options between which the agent chooses. The process
+view does not, and cannot, oﬀer such an explanation, and therefore
+fails to avoid the luck objection.
+
+           I. Indeterminist Decision Making: The Process View
+McCall and Lowe begin from a familiar starting point: the apparent
+vulnerability of extant libertarian theories to an objection from luck.
+Consider Robert Kane’s event-causal libertarianism. Kane (1996) argues
+that agents possess libertarian free will only if they at least sometimes
+exercise what McCall and Lowe call the ‘‘‘two-sided’ ability’’ to act in a
+
+                                                          BAD LUCK ONCE AGAIN        749
+certain manner or to perform an incompatible action. On Kane’s
+account, agents exercise this ability when they confront a situation in
+which they have strong, though not decisive, (internalist) reasons for
+performing an action, and strong, though not decisive, reasons for an
+incompatible action. Kane argues that in such circumstances, the conﬂict
+we experience disrupts the thermodynamic equilibrium in our brains
+such that a chaotic process begins, which ampliﬁes the quantum level
+indeterminacy which otherwise would be too small to have any eﬀect on
+our behavior or thought. As a consequence, it is causally open to us to
+choose to perform either action for which we have strong reasons.
+    Kane pictures agents in these circumstances as simultaneously trying
+to do two incompatible things; which alternative wins out is settled by
+undetermined quantum level events in their brains. Because in these
+circumstances it is undetermined which action the agent shall choose to
+perform, but whatever they choose to perform they try to choose, and
+they endorse as what they were trying to choose, they are responsible
+for the choice; since (on Kane’s view) agents are responsible only for
+what they do freely, their responsibility entails that they choose freely.
+    As McCall and Lowe point out, however, this kind of account does
+not provide the agent with freedom-level control over the indeterministic
+process that issues in her choice. They invoke Van Inwagen’s (2000) replay
+argument to make the point. Suppose that God repeatedly replayed the
+history of the universe, starting from a time just prior to a particular
+undetermined, and allegedly free, decision. In these replays, sometimes
+the agent’s choice would go one way, and sometimes it would go the
+other (if she were equally inclined toward each option, we can expect that
+about half the time she would /, w-ing in the remainder). Now, what
+brings it about that she /s or ws? Nothing, apparently—nothing about
+her, her reasons, desires, volitions, or tryings—except luck. She does not
+control which alternative she settles for. The indeterministic causal pro-
+cess settles that. So long as our actions, decisions, or deliberations are the
+product of indeterministic event-causal processes, we do not exercise any
+greater control over them than we would in a deterministic world. We do
+not control the indeterministic process which settles how we act, decide
+or deliberate (Strawson 2000; Mele 1999; Haji 2002). Some thinkers are
+happy to concede that an event-causal libertarianism secures as much
+freedom as an adequate compatibilist account; they deny, however, that
+is secures any more (Clarke 2003, p. 96; cf. O’Connor 2000, p. 29). Since
+event-causal libertarianism does not provide any freedom-level control
+unavailable in a deterministic universe, it ought to be unacceptable to
+libertarians.
+    McCall and Lowe suggest that any libertarian account of free deci-
+sion-making will be vulnerable to the luck objection so long as it
+
+750   NEIL LEVY
+predicates the indeterminism of discrete events. For any such undeter-
+mined event, and no matter how many such events there might be, the
+luck argument will show that the agent failed to exercise freedom-level
+control over how it turned out. Instead, they argue, an adequate liber-
+tarianism will predicate the indeterminism of a continuous process. On
+such a libertarianism, an undetermined decision can be freely made for
+reasons, in such a manner that is not due to chance. Thus, the agent
+exercises freedom-level control over her decision, by exercising
+freedom-level control over the process of deliberation.
+    McCall and Lowe ask to imagine an agent, Jane, who is deliberating
+about whether to vacation in Hawaii or in Colorado. Like the agents
+Kane focuses upon in his account of free will (exactly like them, since
+the case is borrowed from Kane (1996)), Jane has strong but not deci-
+sive reasons for each option. Each option is epistemically open to her,
+in the sense that she believes that she is able to choose to vacation in
+either state, and to act upon her choice, and she does not yet know
+which she will choose. Accordingly, Jane deliberates about her options.
+If the entire process of deliberation is controlled by Jane, then she deci-
+des freely.
+    The deliberation process described by McCall and Lowe has the
+following characteristics. First, throughout the process, Jane’s options
+remain open to her, which is to say (at least) that the neural states that
+correspond to either decision are continuously causally open. Second,
+Jane exercise freedom-level control throughout the deliberative process
+inasmuch as she not only weighs her reasons for and against each
+option, she also weights them. An agent weighs reasons when she
+attempts to discover how signiﬁcant, all things considered, they are for
+her, given her values, preferences, goals and desires. An agent weights
+reasons when she cannot weigh them because they lack ‘‘ready-made
+weights’’ (p. 686). When reasons lack weights, the agent ‘‘must assign a
+weight or degree of importance to each reason’’ (p. 687). I take it that
+it is because Jane must weight, and not weigh, her reasons that indeter-
+ministic decision-making is a continuous process and not an event.
+Whereas there is an event that corresponds to weighing reasons,
+weighting (as McCall and Lowe conceive it) is a process.
+    Now, how do free agents go about weighting reasons? McCall and
+Lowe argue that weighting is a rational process. It is Jane’s rational
+judgment that assigns weights. Before she decides, she does not know
+where she will vacation. ‘‘She employs her reason to ﬁnd out, using her
+judgment to adjudicate between the competing claims’’ (p. 688). It is,
+McCall and Storr tell us, Jane’s judgment that weighs and weights her
+reasons, not random or unpredictable events. For this reason, ‘‘the pro-
+cess is strictly under her control’’ (p. 688).
+
+                                                  BAD LUCK ONCE AGAIN   751
+                      II. Assessing the Process View
+Kane’s version of event-causal libertarianism fails to deliver freedom-
+level control that is unavailable on the best compatibilist accounts.
+Does McCall and Lowe’s account do better? I shall argue that it does
+not. I shall claim that it, too, is vulnerable to the luck objection: on the
+process indeterminist view, the agent’s assignment of weights to her
+reasons can only be a matter of chance.
+   McCall and Lowe concede, as they must, that were God to replay
+Jane’s decision, the result might turn out differently. They must
+concede this because Jane’s decision was undetermined: only if one
+alternative had suﬃcient conditions prior to her choice would it be the
+case that the result could not turn out diﬀerently, and indeterminism
+entails the absence of such suﬃcient conditions. Nevertheless, they
+insist, the diﬀerent outcomes would not be due to chance. Why not?
+Because whatever Jane chose, ‘‘she would do so for a reason, and
+something that happens for a reason does not happen by chance’’ (pp.
+684–5). But Kane can make exactly the same claim. Kane argues that
+agents like Jane are responsible for their decisions because whichever
+choice she makes she was trying to make, and she was trying to make
+it because she had (strong though not decisive) reasons for it. No mat-
+ter how she decides, on Kane’s view, she decides for reasons.
+   Why is Kane’s account widely held to be inadequate, despite the fact
+that on it agents make decisions for reasons? The objection is this: on
+Kane’s view reasons do not explain the very decision that is held to be
+the locus of free agency. The agent’s reasons explain why she is choos-
+ing between these options, and not others (Jane’s vacation deliberations
+will not end with her deciding to vacation in Afghanistan, or to take
+up yoga). But they do not explain her choosing Hawaii over Colorado,
+or vice-versa. In other words, the luck objection focuses on the contras-
+tive fact, <that the agent chooses to / rather than to w>, even though
+she has strong reasons for both. What explains this contrastive fact?
+Invoking the agent’s reasons do not help: they have, as it were, got her
+this far, but since (by hypothesis) she does not have decisive reasons
+for /-ing or for w-ing, they can take her no further. Instead, the
+contrastive decision is left to chance. Nothing about the agent, her
+character, judgment or reasons, explains the contrastive fact; it seems
+that it is a matter of chance which option she chooses.
+   If McCall and Lowe are to avoid the luck objection, it is not enough
+for them simply to point out that on their model agents choose for
+reasons. Instead, they must show that the agent’s free choice itself is
+explained by reasons (or, in any case, explained by something other
+than chance). In other words, the reasons explanation must apply to
+the contrastive fact, <that Jane chooses Hawaii over Colorado>.
+
+752   NEIL LEVY
+Their model cannot explain this contrastive fact, and therefore does
+not constitute an advance over Kane’s, I contend. The central element
+of their account, the insistence that agents weight, and not merely
+weigh, their reasons ensures that McCall and Lowe are unable to
+explain the relevant contrastive fact.
+   Consider how an agent might go about assigning weights to her
+reasons. Suppose, ﬁrst, that Jane assigns weights to surﬁng and to
+white-water rafting, and that this assignment is made without any ref-
+erence to what her reasons are prior to the assignment. In that case,
+the assignment is entirely arbitrary. If Jane’s weightings are not to be
+arbitrary, they had better be something that she does in the light of her
+reasons. On the other hand, Jane’s weighting had better not be done
+simply by her discovering what weights her reasons have for her: if
+that’s all weighting comes down to, it is merely a more indirect manner
+of weighing. Weighting had better be done in the light of reasons, with-
+out being done for reasons.
+   By ensuring that weighting is done in the light of reasons, McCall
+and Lowe avoid the charge that Jane’s weighting is entirely arbitrary:
+Jane will not choose Afghanistan or yoga when she deliberates between
+Colorado and Hawaii. In this sense, Jane chooses for reasons. But the
+fact that McCall and Lowe must explain is, once again, not that
+<whichever option Jane chooses she chooses because she has reasons
+in favor of it>. Instead, it is the contrastive fact <that Jane assigns a
+greater weight to one of the options for which she has reasons than the
+other for which she has roughly equal reasons>. That Jane’s weighting
+is made in the light of reasons ensures that the ﬁrst fact is explained,
+but her reasons are necessarily powerless to explain the second, con-
+trastive, fact. Jane has (prior to her weighting of her reasons) reasons
+for both options, but no decisive reasons for either. Her reasons got
+her this far, but they can take her no further. If her reasons explained
+that contrastive fact then she would not be weighting them; she’d be
+weighing them. There cannot be a reasons explanation for the weight-
+ing of reasons, because the reasons that would explain the weighting
+are the weighted reasons themselves. There is, once again, a reasons
+explanation available of why Jane deliberates between Colorado and
+Hawaii, and not Afghanistan or yoga, but if Jane’s decision assigns a
+weight to her reasons, then a reasons explanation of that decision itself
+cannot be given.
+   What does explain the contrastive fact that Jane assigns a greater
+weight to, say, surﬁng than to white-water rafting? We can say about
+this weighting almost precisely what we said about the analogous deci-
+sion of an agent who satisﬁes Kane’s conditions on free choice. What
+brings it about that she /s or ws (where /-ing is assigning a greater
+
+                                                BAD LUCK ONCE AGAIN   753
+weight to surﬁng and w-ing is assigning a greater weight to white water
+rafting)? Nothing—nothing about her, her reasons, desires, volitions, or
+tryings—except luck. She does not control which alternative she weights
+more heavily; it’s simply a matter of chance. We do not control the
+indeterministic process which settles how we assign weights. We do not
+exercise freedom-level control over the very element that is supposed to
+ensure our freedom. Since McCall and Lowe’s account of indeterminist
+free will is vulnerable to the same objection that ensures that Kane’s is
+no advance over an adequate compatibilism, it is not itself an advance
+over Kane’s view.
+   MccCall and Lowe hoped that their account would ﬁnally deliver
+the unﬂawed statement of libertarianism the lack of which Wiggins
+(1973) lamented more than three decades ago. By the standards they
+set themselves, they have failed. If it is possible to formulate an
+account of libertarianism that avoids the luck objection, without of
+course suﬀering from some other ﬂaw at least as serious, we have yet
+to see it. Wiggins’s call remains unanswered.
+
+                               References
+Clarke, Randolph (2003) Libertarian Accounts of Free Will (Oxford:
+    Oxford University Press).
+Haji, Ishtiyaque (2002) Deontic Morality and Control (Cambridge:
+    Cambridge University Press).
+Kane, Robert (1996) The Signiﬁcance of Free Will (New York: Oxford
+    University Press).
+McCall, Storrs and Lowe, E.J. (2005) ‘‘Indeterminist Free Will,’’ Phi-
+    losophy and Phenomenological Research 70: 681–690.
+Mele, Alfred (1999) ‘‘Ultimate Responsibility and Dumb Luck,’’ Social
+    Philosophy and Policy 16: 274–293.
+O’Connor, Timothy (2000) Persons and Causes: The Metaphysics of
+    Free Will (New York: Oxford University Press).
+Strawson, Galen (2000) ‘‘The Unhelpfulness of Indeterminism,’’ Philos-
+    ophy and Phenomenological Research 60: 149–156.
+Van Inwagen, Peter (2000) ‘‘Free Will Remains a Mystery,’’ Philosophi-
+    cal Perspectives 14: 1–19
+Wiggins, David (1973) ‘‘Towards a Reasonable Libertarianism,’’ in Ted
+    Honderich (ed.) Essays on Freedom of Action (London: Routledge).
+
+754   NEIL LEVY
+

@@ -1,0 +1,208 @@
+# IV6 • Parmenides and Q uantum Theor)
+
+**source:** pdf · **section:** solutions
+**file:** Unity_of_Nature
+---
+
+Written in 1970 and unpublished until now. According to
+Platonic doctrine, the “Ideas o f things” discussed in the
+preceding essay must refer back to the higher Ideas and, in
+the end, to the One. The prelude, which deals with a
+critique of the Ideas, is therefore followed by a fugue that
+criticizes the opinions concerning the One. In modern
+science, the organic forms refer back to the universal laws of
+nature; i.e., in the end to the unity o f nature. We encounter
+this unity in quantum theory. The confrontation of the first
+hypothesis in the Parmenides Dialogue with quantum
+theory is therefore the natural next step. This confrontation
+is the subject of sections d and e of this essay, the first three
+sections being introductory in nature. It turns out that a
+relationship exists between Bohr’s complementarity and
+Plato’s dialectic.
+
+a) What D oes the Unity of Nature Mean ?
+
+   We begin by recapitulating the facts and conjectures in which the
+idea of the unity of nature has presented itself.1
+   The unity o f the law comes first. This is merely another expression
+for what physicists call the universal validity ofa fundam ental theory.
+A “theory” of this type consists of a number of terms, as well as of
+fundamental propositions which connect these terms and from which
+additional propositions can logically be deduced. Further, it must be
+sufficiently clear for practical purposes how the theoretical terms are
+to be applied in experience, and thus also how the theoretical proposi­
+tions can be put to the test. A theory has “validity” only if these
+procedures are available, and if the propositions thus tested agree with
+experience. We will not recapitulate the methodological problems
+implicit in these requirements but will rely for the moment on the fact
+that, in general, physicists agree on these matters among themselves.
+The validity is “universal” if it extends to all possible objects of a
+theory; i.e., to all objects covered by the terms of the theory. Here, too,
+we are satisfied for the moment with practical universality, leaving
+open the discovery of exceptions or of still more universal laws. We
+will call a theory “fundamental” if it extends to all possible objects of
+nature. The universal validity of a fundamental theory means that all
+  'Cf. II.ldK and II.5b.
+objects of nature are subject to one and the same lawful scheme; it is
+in this sense that we term this validitydie “unity of the jaw.” Let me
+emphasize that all these terms are merely descriptive. They formulate
+the approximate ^elf-interjT/etation of contemporary physics, and the
+following recapitulating reflections will clarifv or revise them.
+   We do have such a fundamental, theory—n imely, quan*um theory.
+Let us examine in more detail wha>. demarvc s should be imposed on
+a fundamental theory, and in what sense quantum theory fulfill? them.
+   The theory is to apply to arbitrary objects of nature. To this end, it
+must be capable of characterizing an arbitrary object. It does so by
+specifying the totality of its possible (“formally possible”) states. The
+theory must also specify how these states can change in time. 1 hese
+two requirements can be stated from the point of view of classical
+physics; quantum theory supplements the requirements in its own
+characteristic way—namely, by fulfilling them.
+   According to quantum theory, every object possesses, mathemati­
+cally speaking, the same manifold of possible states;2 these can be
+characterized as the one-dimensional subspaces of a Hilbert space.
+Quantum theory also specifies a universal rule for the composition of
+two objects into a single object: the Hilbert space of the composite
+object is the Kronecker product of the Hilbert spaces of the two
+part-objects. The theory subdivides the question as to the temporal
+change of the states into two questions. If the state changes without
+being observed, it does so in accordance with, a unitary transforma­
+tion of Hilbert space. A particular species o f objects (e.g., helium
+atoms) is characterized by its formally possible unitary transforma­
+tions, which are mathematically specified by their infinitesimal ele­
+ment, the Hamilton operator H. The Hamilton operator of an isolated
+object characterizes its internal dynamics and thereby designates cer­
+tain of its states (for example) as eigenstates of H with particular eigen­
+values of the energy. The interaction of the object with other objects
+is described in terms of the Hamilton operator of the composite object
+constituted by these objects; this operator can, within certain approxi­
+mations, be reduced to the Hamilton operator of the original object
+taken as situated alone in a fixed environment. If, on the other hand,
+the state is observed, then the state changes in another manner. A
+particular observation admits of only a subset of the formally possible
+states of the object as possible results of measurement; this subset is
+constituted by the eigenstates of the Hamilton operator of the object
+  ’We will not refer to the Postulate of Finitism (II.5dio) in the present description of
+existing quantum theory. The theory sketched in II.5e will also not be considered.
+when the instrument of measurement is specified as part of its envi­
+ronment. If ij/ was the state prior to the observation, then the probabil­
+ity of finding a particular state <pn among the manifold of possible
+results of the observation equals the square of the magnitude of the
+inner product of the unit vectors in the directions of states i)i and
+<Pn-
+   Because of the mathematical formalism that it requires, this descrip­
+tion of quantum theory might seem a bit heavy-handed. From the
+conceptual point of view, the theory may be said to achieve a certain
+maximum in possible simplicity. The theory characterizes, in unique
+terms and by means of universally valid prescriptions, arbitrary ob­
+jects, their composition, changes in their state when not observed, and
+the prediction of observations. And yet quantum theory, even if we
+assume it to be universally valid, does not yet express the full unity of
+nature.
+   For one can speak, secondly, of a unity of nature in the sense of a
+ unitary character o f the species o f objects. This character expresses
+itself in quantum theory in the existence of objects with particular
+Hamilton operators. Today we believe that all species of objects can
+in principle be explained as being composed of a small number of
+species of elementary particles. In the case of inorganic nature, we all
+believe this to be so; in the case of living organisms, it is the hypothesis
+on which we have based this book. Finally, we hope to reduce the
+species of elementary particles to a single basic lawful order, which
+perhaps we ought not to describe as the existence of a single basic
+species but rather as the law that specifies all of them.
+   Thirdly, in the context of contemporary cosmology, it makes sense
+to talk of the unity of nature as the totality o f objects. One speaks of
+ the world as if it were a single object. Quantum theory does indeed
+permit the composition of arbitrary objects into a new object. It even
+requires this composition, in the sense that it regards the actual state
+space of a number of coexisting objects as precisely the state space of
+the total object they compose; the isolation of individual objects is, in
+the eyes of quantum theory, always a mere approximation. If the
+totality of objects in fhe world can, at least in principle, be enumer­
+ated, then quantum theory obliges-as in principle to introduce the
+additional object “world,”, which is composed of that totality. At this
+point, however, certain conceptual problems that form a principal
+theme of the present essay appoar. Let me merely name them for
+now: If the object “world” is to exist, for whom is it an object? How
+are we to conceive of an observation of this object? If, on the other
+hand, the object “world” is inadmissible, how are we to describe the
+coexistence of objects “in the world” quantum mechanical/? Or are
+we to conclude that quantum theory meets its limits here?
+   Fourthly, we have tried to base the unity of nature (as conceived
+under the three preceding aspects) on the u.iity o f experience. We
+talked, to begin with, of the preconditions of the possibility of experi­
+ence, and understood “experience” to already be unified in the sense
+that “every” experience may be thought of as -connected with every
+other experience in a contexture of interactions that is free from
+internal contradictions. This unity appears in Kant under the title of
+“the unity of apperception.” In our own approach, which starts not
+from subjectivity but from temporality, this unity appears as the unity
+o f time. The unity of time (which in our presentation of course em­
+braces space) is, most likely, the only adequate framework for the
+problem of the totality of objects. With these latter reflections we have
+delved into the midst of the fundamental problems of classical philoso­
+phy. Before confronting these problems, we must still introduce our
+last approach, the approach of cybernetics.
+   Fifthly, the unity o f man and nature is part of our conception of the
+unity of nature. Man, in whose experience the unity of nature is dis­
+covered, is at the same time part of nature. We try to describe human
+experience in terms of a cybernetics of truth, which is conceived of as
+a process in nature. The philosophical problem that arises here is
+obvious: if this program can be carried through, at least in principle,
+then the unity of nature is somehow represented within nature as the
+unity of the experience of man. What does this “somehow” mean? To
+put it differently: the subjects, for whom the objects are objects, now
+form part of the totality of objects. Furthermore, in a cybernetics of
+truth, human consciousness stands apart from animal subjectivity as a
+higher-level structure, but the two are also part of a genetic con­
+tinuum. In the attempt to reduce matter and energy to information,
+the subjectivity of all substance, if only implicitly and unclearly, is
+presupposed.3 The classical formula that nature is spirit which does
+not know itself as spirit urges itself upon us as a shorthand notation for
+these problems; but this does not mean that we have understood this
+formula in the least.                                             —
+   As a next step, we therefore explicitly confront our complex of
+problems with the ideas of classical philosophy, among which we in
+fact already find ourselves. Aren’t we in the midst of the problems
+ 3Cf. III.3 and Ill.Sf.
+faced by the Eleatic philosopher Parmenides? Hen to pan: One is the
+totality. The totality is, first of all, the world, “comparable to a well-
+rounded sphere.” But this world embraces experiencing as much as
+what is experienced, consciousness as well as Being: To gar auto noein
+ectin te kai einai, for it is the same to see and to be. I translated noein
+with “to see” to avoid the abstract introversion of “to think.” What can
+Parmenides teach us?
+
+b) A D igression: How Can One Read the Philosophers?
+
+   Anyone who turns to the contemporary secondary literature for
+information on the Eleatic philosopher Parmenides, or on Plato’s
+Parmenides Dialogue, can only fall into despair.
+   How primitive was Parmenides? Was he an astronomical materialist
+who believed in a spherically shaped universe? Did he suppose—as
+determined materialists who came after him did—that matter can also
+think? Was he a pantheist, to whom thinking matter appeared to be
+God? Was he a spiritualist, for whom the spatial world of appearances
+was a mere delusion? Is his philosophy the result of his not yet having
+grasped the difference between consciousness and matter, or between
+form and matter? Or does the esti with the infinitive mean “one can,”
+so that he would simply be teaching us that reality can be known: “one
+can think that which can be”? Does he assert that all movement is
+mere appearance? If so, does he fail to notice that this teaching of his
+is itself a movement? Is he the victim of a still immature logic? Does
+he confuse logic and ontology? Is it his reward that he began the
+search for a rigorous logic? Or was it, rather, that he discovered sub­
+stance, as the permanent element amidst change? He seems, in any
+case, to have been a forerunner; but whose forerunner?
+   And as to Plato’s Parmenides: does the “prelude” relinquish the
+theory of Ideas, or is it a self-criticism on the road to an improved
+theory of Ideas, or a preparation for the theory of Ideas? And concern­
+ing the first hypothesis of the “fugue”: is it meant “merely negatively,”
+or merely “positively,” or both? Is it merely a refutation of the Eleatic
+philosopher Parmenides, which Plato most generously has Parmen­
+ides himself deliver? Does it deal with any Idea whatever, insofar as
+it is an Idea? Does it deal with Plato’s One, or with the One of the
+Neoplatonists? Do these alternatives amount to the same, or are they
+utterly different? Is the Parmenides a logical exercise, a bit of horse­
+play, or is it Western theology on its highest level?
+

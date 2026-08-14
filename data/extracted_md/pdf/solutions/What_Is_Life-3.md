@@ -1,0 +1,98 @@
+# What is Life?                               33
+
+**source:** pdf · **section:** solutions
+**file:** What_Is_Life-3
+---
+
+
+                          CHAPTER             3
+
+                           Mutations
+
+     Und was in schwankender Erscheinung schwebt,
+     Befestiget mit dauernden Gedanken. 1
+
+     JUMP-LIKE         MUTATIONS          -       THE   WORKING-
+                                                                                       2
+
+                                                                                               J
+                                                                                           —*• Length of awns
+                                                                                                                   L
+                                                                                                                   1 n-. »
+                                                                   Fig. 7. Statistics of length of awns in a pure-bred crop. The black group is to
+                                                                      be selected for sowing. (The details are not from an actual experiment,
+           GROUND      OF N A T U R A L           SELECTION                                but are just set up for illustration.)
+
+The general facts which we have just put forward in evidence
+of the durability claimed for the gene structure, are perhaps      pure-strain barley, and measure, ear by ear, the length of its
+too familiar to us to be striking or to be regarded as             awns and plot the result of your statistics, you will get a
+convincing. Here, for once, the common saying that excep-          bell-shaped curve as shown in Fig. 7, where the number of
+tions prove the rule is actually true. If there were no excep-     ears with a definite length of awn is plotted against the length.
+tions to the likeness between children and parents, we should      In other words: a definite medium length prevails, and
+have been deprived not only of all those beautiful experiments     deviations in either direction occur with certain frequencies.
+which have revealed to us the detailed mechanism of heredity,      Now pick out a group of ears (as indicated by blackening)
+but also of that grand, million-fold experiment of Nature,         with awns noticeably beyond the average, but sufficient in
+which forges the species by natural selection and survival of      number to be sown in a field by themselves and give a new
+the fittest.                                                       crop. In making the same statistics for this, Darwin would
+   Let me take this last important subject as the starting-point   have expected to find the corresponding curve shifted to the
+for presenting the relevant facts - again with an apology and a    right. In other words, he would have expected to produce by
+reminder that I am not a biologist:                                selection an increase of the average length of the awns. T h a t is
+   We know definitely, today, that Darwin was mistaken in          not the case, if a truly pure-bred strain of barley has been
+regarding the small, continuous, accidental variations, that       used. The new statistical curve, obtained from the selected
+are bound to occur even in the most homogeneous population,        crop, is identical with the first one, and the same would be the
+as the material on which natural selection works. For it has       case if ears with particularly short awns had been selected for
+been proved that they are not inherited. The fact is important     seed. Selection has no effect - because the small, continuous
+enough to be illustrated briefly. If you take a crop of            variations are not inherited. They are obviously not based on
+                                                                   the structure of the hereditary substance, they are accidental.
+               'And what influctuatingappearance hovers,
+                Ye shallfixby lasting thoughts.                    But about forty years ago the Dutchman de Vries discovered
+
+                                 32
+34                ERWIN      SGHRODINGER                                                             What is Life?                                    35
+that in the offspring even of thoroughly pure-bred stocks, a
+very small number of individuals, say two or three in tens of
+thousands, turn up with small but 'jump-like' changes, the
+expression 'jump-like' not meaning that the change is so very
+considerable, but that there is a discontinuity inasmuch as
+                                                                                                                 x
+there are no intermediate forms between the unchanged and
+the few changed. De Vries called that a mutation. The
+significant fact is the discontinuity. It reminds a physicist of
+quantum theory - no intermediate energies occurring between
+two neighbouring energy levels. He would be inclined to call
+de Vries's mutation theory, figuratively, the quantum theory
+of biology. We shall see later that this is much more than
+figurative. The mutations are actually due to quantum jumps
+                                                                         Fig. 8. Heterozygous m u t a n t . T h e cross marks the mutated gene.                  "
+in the gene molecule. But quantum theory was but two years
+old when de Vries first published his discovery, in 1902. Small
+wonder that it took another generation to discover the inti-       the species as described by Darwin, by eliminating the unfit
+mate connection!                                                   and letting the fittest survive. In Darwin's theory, you just
+                                                                   have to substitute 'mutations' for his 'slight accidental varia-
+                                                                   tions' (just as quantum theory substitutes 'quantum jump' for
+      T H E Y B R E E D T R U E , T H A T IS, T H E Y   ARE
+                                                                   'continuous transfer of energy'). In all other respects little
+                 PERFECTLY INHERITED
+                                                                   change was necessary in Darwin's theory, that is, if I am
+Mutations are inherited as perfectly as the original,              correctly interpreting the view held by the majority of biol-
+unchanged characters were. To give an example, in the first
+crop of barley considered above a few ears might turn up with
+                                                                   ogists.'                                                                                  i
+awns considerably outside the range of variability shown in
+                                                                   _ LOCALIZATION.                RECESSIVITY             AND      DOMINANCE
+Fig. 7, say with no awns at all. They might represent a de
+Vries mutation and would then breed perfectly true, that is to     We must now review some other fundamental facts and
+say, all their descendants would be equally awnless.               notions about mutations, again in a slightly dogmatic manner,
+   Hence a mutation is definitely a change in the hereditary       without showing directly how they spring, one by one, from
+treasure and has to be accounted for by some change in the         experimental evidence.
+hereditary substance. Actually most of the important breeding        We should expect a definite observed mutation to be caused
+experiments, which have revealed to us the mechanism of            by a change in a definite region in one of the chromosomes.
+heredity, consisted in a careful analysis of the offspring
+obtained by crossing, according to a preconceived plan,            'Ample discussion has been given to the question, whether natural selection be aided
+                                                                    (if not superseded) by a marked inclination of mutations to take place in a useful or
+mutated (or, in many cases, multiply mutated) with non-             favourable direction. My personal view about this is of no moment; but it is
+mutated or with differently mutated individuals. On the other       necessary to state that the eventuality of 'directed mutations' has been disregarded
+                                                                    in all the following. Moreover, I cannot enter here on the interplay of 'switch' genes
+hand, by virtue of their breeding true, mutations are a suitable    and 'polygenes', however important it be for the actual mechanism of selection and
+material on which natural selection may work and produce            evolution.
+

@@ -1,0 +1,381 @@
+  REVIEWS        OF    MODERN         PHYSICS                             VOT.lTME     38,   NUMRER        3                    JULY      1966
+
+
+
+               On the Problem of Hidden Variables in Quantum
+               Mechanics*
+              JOHN S. BELL t
+               Stanford Linear Accelerator Center, Stanford University, Stanford, California
+
+                 The demonstrations of von Neumann and others, that quantum mechanics does not permit a hidden variable inter-
+               pretation, are reconsidered. It is shown that their essential axioms are unreasonable. It is urged that in further examination
+               of this problem an interesting axiom would be that mutually distant systems are independent of one another.
+
+
+                      I. INTRODUCTION                                       result consequent on the work of Gleason.4 It will be
+                                                                            urged that these analyses leave the real question un-
+   To know the quantum mechanical state of a system                         touched. In fact it will be seen that these demonstra-
+implies, in general, only statistical restrictions on the                   tions require from the hypothetical dispersion free
+results of measurements. It seems interesting to ask                        states, not only that appropriate ensembles thereof
+if this statistical element be thought of as arising, as                    should have all measurable properties of quantum
+in classical statistical mechanics, because the states in                   mechanical states, but certain other properties as well.
+question are averages over better defined states for                        These additional demands appear reasonable when re-
+which individually the results would be quite deter-                        sults of measurement are loosely identified with prop-
+mined. These hypothetical "dispersion free" states                          erties of isolated systems. They are seen to be quite
+would be specified not only by the quantum mechanical                       unreasonable when one remembers with Bohr 5 "the
+state vector but also by additional "hidden variables"-                     impossibility of any sharp distinction between the
+"hidden" because if states with prescribed values of                        behavior of atomic objects and the interaction with
+these variables could actually be prepared, quantum                         the measuring instruments which serve to define the
+mechanics would be observably inadequate.                                   conditions under which the phenomena appear."
+   Whether this question is indeed interesting has been                        The realization that von Neumann's proof is of
+the subject of debate. 1 •2 The present paper does not                      limited relevance has been gaining ground since the
+contribute to that debate. It is addressed to those who                     1952 work of Bohm.6 However, it is far from universal.
+do find the question interesting, and more particularly                     Moreover, the writer has not found in the literature
+to those among them who believe that 3 "the question                        any adequate analysis of what went wrong.7 Like all
+concerning the existence of such hidden variables re-                       authors of noncommissioned reviews, he thinks that
+ceived an early and rather decisive answer in the form                      he can restate the position with such clarity and sim-
+of von Neumann's proof on the mathematical impos-                           plicity that all previous discussions will be eclipsed.
+sibility of such variables in quantum theory." An at-
+tempt will be made to clarify what von Neumann and                          II. ASSUMPTIONS, AND A SIMPLE EXAMPLE
+his successors actually demonstrated. This will cover, as
+well as von Neumann's treatment, the recent version                            The authors of the demonstrations to be reviewed
+of the argument by Jauch and Piron, 3 and the stronger                      were concerned to assume as little as possible about
+                                                                            quantum mechanics. This is valuable for some purposes,
+                                                                            but not for ours. We are interested only in the possi-
+  * Work supported by U.S. Atomic Energy Commission.                        bility of hidden variables in ordinary quantum me-
+  t Permanent address: CERN, Geneva.
+  1 The    following works contain discussions of and references
+on the hidden variable problem: L. de Broglie, Physicien et                    4 A. M. Gleason, J. Math. & Mech. 6,885 (1957). I am much
+Penseur (Albin Michel, Paris, 1953); W. Heisenberg, in Niels                indebted to Professor Jauch for drawing my attention to this
+Bohr and the Development of Physics, W. Pauli, Ed. (McGraw-Hill             work.
+Book Co., Inc., New York, and Pergamon Press, Ltd., London,                    6 N. Bohr, in Ref. 2.
+1955); Observation and Interpretation, S. Korner, Ed. (Academic                6 D. Bohm, Phys. Rev. 85, 166, 180 (1952).
+Press Inc., New York, and Butterworths Scientific Publ., Ltd.,                 7 In particular the analysis of Bohm 6 seems to lack clarity,
+London, 1957); N. R. Hansen, The Concept of the Positron (Cam-              or else accuracy. He fully emphasizes the role of the experimental
+bridge University Press, Cambridge, England, 1963). See also                arrangement. However, it seems to be implied (Ref. 6, p. 187)
+the various works by D. Bohm cited later, and Bell and Nauen-               that the circumvention of the theorem requires the association
+berg.• For the view that the possibility of hidden variables has            of hidden variables with the apparatus as well as with the system
+little interest, see especially the contributions of Rosenfeld to the       observed. The scheme of Sec. II is a counter example to this.
+first and third of these references, of Pauli to the first, the article     Moreover, it will be seen in Sec. III that if the essential additivity
+of Heisenberg, and many passages in Hansen.                                 assumption of von Neumann were granted, hidden variables
+   2 A. Einstein, Philosopher Scientist, P. A. Schilp, Ed. (Library         wherever located would not avail. Bohm's further remarks in
+of Living Philosophers, Evanston, Ill., 1949). Einstein's "Auto-            Ref. 16 (p. 95) and Ref. 17 (p. 358) are also unconvincing.
+biographical Notes" and "Reply to Critics" suggest tha.t--the               Other critiques of the theorem are cited, and some of them
+hidden variable problem has some interest.                                  rebutted, by Albertson [J. Albertson, Am. J. Phys. 29, 478
+    3 J.M. Jauch and C. Piron, Helv. Phys. Acta 36, 827 (1963).              (1961)].
+                                                                      447
+448    REVIEWS   OF MODERN     :PHYSICS • JULY   1966
+
+chanics and will use freely all the usual notions. Thereby          Let fJ,.,fJ11, {J., be the components of (.Jin the new co-
+the demonstrations will be substantially shortened.                 ordinate system. Then measurement of a+(.J•d on the
+   A quantum mechanical "system" is supposed to                     state specified by ,J,and A results with certainty in the
+have "observables" represented by Hermitian opera-                  eigenvalue
+tors in a complex linear vector space. Every "measure-
+ment" of an observable yields one of the eigenvalues                            a+! (.JIsign (A I (.J!+½ I fJ,I) sign X,         (3)
+of the corresponding operator. Observables with com-                where
+muting operators can be measured simultaneously. 8 A
+quantum mechanical "state" is represented by a vector
+in the linear state space. For a state vector ,J,the statis-
+tical expectation value of an observable with operator                              =fJ,.    if /3.= 0, {3,,;~0
+0 is the normalized inner product (if;, Oif;)/ (if;, if;).
+   The question at issue is whether the quantum me-                                          if/3.=0,     and fJ.,=0
+chanical states can be regarded as ensembles of states              and
+further specified by additional variables, such that                                  signX=+l           if x~o
+given values of these variables together with the state
+vector determine precisely the results of individual                                         =-1         if X<O.
+measurements. These hypothetical well-specified states
+are said to be "dispersion free."                                   The quantum mechanical state specified by if; is ob-
+   In the following discussion it will be useful to keep            tained by uniform averaging over A. This gives the
+in mind as a simple example a system with a two-                    expectation value
+dimensional state space. Consider for definiteness a
+spin -½ particle without translational motion. A                    (a+(.J•d)
+quantum mechanical state is represented by a two-
+component state vector, or spinor, if;. The observables
+are represented by 2 X 2 Hermitian matrices
+                                                                     =   j~dX{a+l (.JIsign (A I~[+½ I /3.I) sign X} =a+fJ.
+                                                            (1)     as required.
+                                                                       It should be stressed that no physical significance is
+where a is a real number, (.Ja real vector, and d has for           attributed here to the parameter A and that no pretence
+components the Pauli matrices; a is understood to mul-              is made of giving a complete reinterpretation of quan-
+tiply the unit matrix. Measurement of such an observ-               tum mechanics. The sole aim is to show that at the level
+able yields one of the eigenvalues.                                 considered by von Neumann such a reinterpretation
+                                                                    is not excluded. A complete theory would require for
+                                                            (2)     example an account of the behavior of the hidden vari-
+                                                                    ables during the measurement process itself. With or
+with relative probabilities that can be inferred from               without hidden variables the analysis of the measure-
+the expectation value                                               ment process presents peculiar difficulties,8 and we
+                                                                    enter upon it no more than is strictly necessary for our
+                                                                    very limited purpose.
+For this system a hidden variable scheme can be sup-
+plied as follows: The dispersion free states are specified                             III. VON NEUMANN
+by a real number A, in the interval-½~>-~½, as well
+                                                                      Consider now the proof of von Neumann 9 that dis-
+as the spinor if;. To describe how A determines which
+                                                                    persion free states, and so hidden variables, are im-
+eigenvalue the measurement gives, we note that by a
+                                                                    possible. His essential assumption 10 is: Any real linear
+rotation of coordinates if; can be brought to the form
+                                                                    combination of any two Hermitian operators represents
+                                                                    an observable,and the same linear combination of expecta-
+
+                                                                       9 J. von Neumann, Mathematische Grundlagen der Quanten-
+                                                                    mechanik (Julius Springer-Verlag, Berlin, 1932) [Eng_lish transl.:
+   8 Recent papers on the measurement process in quantum            Princeton University Press, Princeton, N.J., 1955J. All page
+mechanics, with further references, are: E. P. Wigner, Am. J.       numbers quoted are those of the English edition. The problem
+Phys. 31, 6 (1963); A. Shimony, ibid. 31, 755 (1963); J.M. Jauch,   is posed in the preface, and on p. 209. The formal proof occupies
+Helv. Phys. Acta 37, 293 (1964); B. d'Espagnat, Conceptions         essentially pp. 305-324 and is followed by several pages of com-
+de la physique contemporaine (Hermann & Cie., Paris, 1965);         mentary. A self-contained exposition of the proof has been pre-
+J. S. Bell and M. Nauenberg, in Preludes in Theoretical Physics,    sented by J. Albertson (see Ref. 7).
+In Honor of V. Weisskopj (North-Holland Publishing Company,            10 This is contained in von Neumann's B' (p. 311), 1 (p. 313),
+Amsterdam, 1966).                                                   and 11 (p. 314).
+                                                                 JOHNS.   BELL   Hidden Variablesin QuantumMechanics    449
+
+ tion values is the expectation value of the combination.       either of which might be made on a given occasion but
+ This is true for quantum mechanical states; it is re-          only one of which can in fact be made.
+ quired by von Neumann of the hypothetical dispersion
+ free states also. In the two-dimensional example of                             IV. JAUCH AND PIRON
+ Sec. II, the expectation value must then be a linear              A new version of the argument has been given by
+ function of a and ~- But for a dispersion free state           Jauch and Piron. 3 Like von Neumann they are in-
+  (which has no statistical character) the expectation          terested in generalized forms of quantum mechanics
+ value of an observable must equal one of its eigenvalues.      and do not assume the usual connection of quantum
+ The eigenvalues (2) are certainly not linear in~- There-       mechanical expectation values with state vectors and
+ fore, dispersion free states are impossible. If the state      operators. We assume the latter and shorten the argu-
+ space has more dimensions, we can always consider a            ment, for we are concerned here only with possible
+ two-dimensional subspace; therefore, the demonstration         interpretations of ordinary quantum mechanics.
+ is quite general.                                                 Consider only observables represented by projection
+    The essential assumption can be criticized as follows.      operators. The eigenvalues of projection operators are
+ At first sight the required additivity of expectation          0 and 1. Their expectation values are equal to the prob-
+ values seems very reasonable, and it is rather the non-        abilities that 1 rather than O is the result of measure-
+ additivity of allowed values (eigenvalues) which re-           ment. For any two projection operators, a and b, a third
+ quires explanation. Of course the explanation is well          (anb) is defined as the projection on to the intersection
+known: A measurement of a sum of noncommuting                   of the corresponding subspaces. The essential axioms
+ observables cannot be made by combining trivially the          of Jauch and Piron are the following:
+results of separate observations on the two terms-it               (A) Expectation values of commuting projection
+requires a quite distinct experiment. For example the           operators are additive.
+measurement of O'x for a magnetic particle might be                (B) If, for some state and two projections a and b,
+made with a suitably oriented Stern Gerlach magnet.
+The measurement of o-11would require a different orien-                                (a)=(b)=l,
+tation, and of (o-.,+a-11) a third and different orientation.   then for that state
+But this explanation of the nonadditivity of allowed                                     (anb)=1.
+values also establishes the non triviality of the additivity
+of expectation values. The latter is a quite peculiar              Jauch and Piron are led to this last axiom (4° in
+property of quantum mechanical states, not to be ex-            their numbering) by an analogy with the calculus of
+pected a priori. There is no reason to demand it in-            propositions in ordinary logic. The projections are to
+dividually of the hypothetical dispersion free states,          some extent analogous to logical propositions, with the
+whose function it is to reproduce the measurable peculi-        allowed value 1 corresponding to "truth" and O to
+arities of quantum mechanics when averaged over.                "falsehood," and the construction ( anb) to ( a "and" b)
+    In the trivial example of Sec. II the dispersion free       In logic we have, of course, if a is true and b is true then
+states (specified X) have additive expectation values           (a and b) is true. The axiom has this same structure.
+only for commuting operators. Nevertheless, they give              Now we can quickly rule out dispersion free states
+logically consistent and precise predictions for the re-        by considering a 2-dimensional subspace. In that the
+sults of all possible measurements, which when averaged         projection operators are the zero, the unit operator,
+over X are fully equivalent to the quantum mechanical           and those of the form
+predictions. In fact, for this trivial example, the hidden                              ½+½a•d,
+variable question as posed informally by von N eumann 11        where a is a unit vector. In a dispersion free state the
+in his book is answered in the affirmative.                     expectation value of an operator must be one of its
+   Thus the'-formal proof of von Neumann does not               eigenvalues, 0 or 1 for projections. Since from A
+justify his informal conclusion12 : "It is therefore not,
+as is often assumed, a question of reinterpretation of                           (½+½a•d)+ (½-½a•d)= 1,
+quantum mechanics-the present system of quantum
+mechanics would have to be objectively false in order           we have that for a dispersion free state either
+that another description of the elementary process than
+the statistical one be possible." It was not the objective                 (½+½a•
+                                                                               d)= 1 or (½-½a•
+                                                                                             d)= 1.
+measurable predictions of quantum mechanics which               Let a and ~ be any noncollinear unit vectors and
+ruled out hidden variables. It was the arbitrary as-
+sumption of a particular (and impossible) relation
+between the results of incompatible measurements
+                                                                with the signs chosen so that (a)=(b)=1.          Then B
+  11 Reference 9, p. 209.
+                                                                requires
+  12   Reference 9, p; 325.                                                          (anb)= 1.
+450       REVIEWS   OF MODERN     PHYSICS • JULY    1966
+
+But with & and S noncollinear, one readily sees that                        If i/11 and i/12are another orthogonal basis for the
+                                                                         subspace spanned by some vectors <I>    1 and <I>
+                                                                                                                         2, then
+                              anb=0,                                     from (4)
+so that
+                             (anb)=0.                                               (P(if;1))+(P(if;2))=1-       L (P(<P,))
+                                                                                                              i;,<l,i;,£2
+
+So there can be no dispersion free states.                               or
+  The objection to this is the same as before. We are not
+dealing in B with logical propositions, but with measure-
+ments involving, for example, differently oriented mag-                  Since i/11 may be any combination of <I>
+                                                                                                               1 and <I>
+                                                                                                                      2, we have:
+nets. The axiom holds for quantum mechanical states. 13                       (B) If for a given state
+But it is a quite peculiar property of them, in no way
+a necessity of thought. Only the quantum mechanical                                         (P( <P1)
+                                                                                                   )= (P( <I>2)
+                                                                                                             )=0
+averages over the dispersion free states need reproduce
+                                                                         for some pair of orthogonal vectors, then
+this property, as in the example of Sec. II.
+                                                                                            (P(acf>1+.B<P2) )=0
+                         V. GLEASON                                      for all a and ,8.
+   The remarkable mathematical work of Gleason4 was                         (A) and (B) will now be used repeatedly to establish
+not explicitly addressed to the hidden variable problem.                 the following. Let cf>and if; be some vectors such that
+It was directed to reducing the axiomatic basis of                       for a given state
+quantum mechanics. However, as it apparently enables                                            (P(if;) )= 1,                (5)
+von Neumann's result to be obtained without objection-                                  (P(cf>))=0.                    (6)
+able assumptions about noncommuting operators, we
+must clearly consider it. The relevant corollary of Then <I>           and if; cannot be arbitrarily close; in fact
+Gleason's work is that, if the dimensionality of the                                                                   (7)
+state space is greater than two, the additivity require-
+ment for expectation values of commuting operators To see this let us normalize if; and write <I>             in the form
+cannot be met by dispersion free states. This will now
+be proved, and then its significance discussed. It should                               <I>=if;+eif;',
+be stressed that Gleason obtained more than this, by where if;' is orthogonal toy; and normalized and e is a
+a lengthier argument, but this is all that is essential real number. Let if;" be a normalized vector orthogonal
+here.                                                         to both if; and if;' (it is here that we need three dimen-
+   It suffices to consider projection opera tors. Let P (cf>) sions at least) and so to <I>.By (A) and (S),
+be the projector on to the Hilbert space vector <I>,i.e.,
+acting on any vector if;                                                    (P(if;') }=0,       (P(i/1''))=0.
+                                                                         Then by (B) and (6),
+If a set cf>,are complete and orthogonal,                                                    (P( <P+,,- 1ey;"))=0,
+                                                                         where 'Y is any real number, and also by (B),
+
+Since the P(cf>,)commute, by hypothesis then
+                         Li (P(<I>,))=1.                          (4)      The vector arguments in the last two formulas are
+                                                                         orthogonal; so we may add them, again using (B):
+Since the expectation value of a projector is nonnega-
+tive (each measurement yields one of the allowed values
+0 or 1), and since any two orthogonal vectors can be                     Now if e is less than½, there are real 'Y such that
+regarded as members of a complete set, we have:
+   (A) If with some vector cf>,(P(<I>))=1 for a given                    Therefore,
+state, then for that state (P(if;) )=0 for any if; orthog-
+                                                                                        (P(if;+if;") )= (P(if;-if;") )= 0.
+onal on cf>.
+                                                                         The vectors if;±if;" are orthogonal; adding them and
+  18 In the two-dimensional case {a}= {b}= 1 (for some quantum
+mechanical state) is possible only if the two projectors are identical
+                                                                         again using (B),
+(a=J). Then anb=a=b and {anb)= {a}= {b}=l.                                                      (P(f) )=0.
+                                                                      JOHNS.   BELL   Hidden Variablesin QuantumMechanics           451
+
+This contradicts the assumption (5), Therefore,                      choice of the others. Of course it would be silly to let
+                                                                     the result be affected by a mere permutation of the
+                                                                     other P's, so we specify that the same order is taken
+ as announced in (7).                                                (however defined) when the P's are in fact the same
+    Consider now the possibility of dispersion free states.          set. Reflection will deepen the initial impression of
+ For such states each projector has expectation value                artificiality here. However, the example suffices to
+ either O or 1. It is clear from (4) that both values must           show that the implicit assumption of the impossibility
+ occur, and since there are no other values possible,                proof was essential to its conclusion. A more serious
+ there must be arbitrarily close pairs y;, <I>with different         hidden variable decomposition will be taken up in
+ expectation values 0 and 1, respectively. But we saw                Sec. VI.14
+ above such pairs could not be arbitrarily close. There-
+ fore, there are no dispersion free states.                                   VI. LOCALITY AND SEPARABILITY
+    That so much follows from such apparently innocent
+ assumptions leads us to question their innocence. Are               Up till now we have been resisting arbitrary demands
+ the requirements imposed, which are satisfied by                 upon     the hypothetical dispersion free states. However,
+ quantum mechanical states, reasonable requirements               as  well    as reproducing quantum mechanics on averag-
+ on the dispersion free states? Indeed they are not.              ing,   there     are features which can reasonably be desired
+ Consider the statement (B). The operator P(a<1>                  in   a   hidden      variable scheme. The hidden variables
+                                                        1+r,<1>2)
+ commutes with P( <1>      1) and P( <1>
+                                       2) only if either a or(,   should     surely    have    some spacial significance and should
+is zero. Thus in general measurement of P(a<1>                    evolve     in   time   according     to prescribed laws. These are
+                                                        1+r,<1>
+                                                              2)
+requires a quite distinct experimental arrangement.               prejudices,       but   it is just this possibility of interpolating
+We can therefore reject (B) on the grounds already                some     (preferably        causal)   space-time     picture, between
+used: it relates in a nontrivial way the results of ex-           preparation        of  and   measurements      on  states, that makes
+periments which cannot be performed simultaneously;               the    quest     for   hidden    variables    interesting   to the un-
+ the dispersion free states need not have this property, sophisticated. The ideas of space, time, and causality
+                                                                                      2
+
+it will suffice if the quantum mechanical averages over are not prominent in the kind of discussion we have
+ them do. How did it come about that (B) was a con- been considering above. To the writer's knowledge the
+sequence of assumptions in which only commuting most successful attempt in that direction is the 1952
+operators were explicitly mentioned? The danger in scheme of Bohm for elementary wave mechanics. By
+fact was not in the explicit but in the implicit assump- way of conclusion, this will be sketched briefly, and
+tions. It was tacitly assumed that measurement of an a curious feature of it stressed.
+observable must yield the same value independently                   Consider for example a system of two spin - ½par-
+of what other measurements may be made simultane-                 ticles.   The quantum mechanical state is represented by
+ously. Thus as well as P(<1>        ) say, one  might  measure    a wave function,
+                                   3
+either P(<l>2) or P(y;2), where <1>                                                                y;;;(r1,r2),
+                                       2 and 1/12
+                                                are orthogonal
+to <1>3 but not to one another. These different possibilities     where i andj are spin indices which will be suppressed.
+require different experimental arrangements; there is This is governed by the Schrodinger equation,
+no a priori reason to believe that the results for P (<1>     3)
+should be the same. The result of an observation may ay;/at=                  -i(-      (a2/ar12)- (a 2/ar22) + V(r1-r 2)
+reasonably depend not only on the state of the system                                              +ad1•H(r1)+bd2•H(r2))y;,          (8)
+ (including hidden variables) but also on the complete
+disposition of the apparatus; see again the quotation where V is the interparticle potential. For simplicity
+from Bohr at the end of Sec. I.                                   we have taken neutral particles with magnetic mo-
+   To illustrate these remarks, we construct a very ments, and an external magnetic field H has been al-
+artificial but simple hidden variable decomposition. lowed to represent spin analyzing magnets. The hidden
+If we regard all observables as functions of commuting variables are then two vectors X1 and X2, which give
+projectors, it will suffice to consider measurements directly the results of position measurements. Other
+of the latter. Let A, P 2, • • • be the set of projectors measurements are reduced ultimately to position meas-
+measured by a given apparatus, and for a given quan- urements. 15 For example, measurement of a spin com-
+tum mechanical state let their expectation values be ponent means observing whether the particle emerges
+;>,.1,},.2-;>,.1,
+               ;>,.3-
+                    ;>,.2,
+                        • • •. As hidden variable we take a with an upward or downward deflection from a Stern-
+real number O< ;>..::S;     1; we specify that measurement
+                                                                    14 The simplest example for illustrating the discussion of Sec. V
+on a state with given X yields the value 1 for P,. if
+                                                                  would then be a particle of spin 1, postulating a sufficient variety
+},.,._
+     1<X::S;X,.,and zero otherwise. The quantum me- of spin-external-field interactions to permit arbitrary complete
+chanical state is obtained by uniform averaging over sets of spin states to be spacially separated.
+;>,..There is no contradiction with Gleason's corollary, that15 There            are clearly enough measurements to be interesting
+                                                                        can be made in this way. We will not consider whether there
+because the result for a given P,. depends also on the are others.
+452    REVIEWS   OF MODERN PHYSICS•    JULY   1966
+
+Gerlach magnet. The variables X1 and X2 are supposed           analyzing fields acting on 2-however remote these
+to be distributed in configuration space with the prob-        may be from particle 1. So in this theory an explicit
+ability density,                                               causal mechanism exists whereby the disposition of
+                                                               one piece of apparatus affects the results obtained
+              p(X1,X2)=   I: ii
+                                   I 1h(X1, X2) 12,            with a distant piece. In fact the Einstein-Podolsky-
+                                                               Rosen paradox is resolved in the way which Einstein
+appropriate to the quantum mechanical state. Con- would have liked least (Ref. 2, p. 85).
+sistently, with this X1 and X2 are supposed to vary with          More generally, the hidden variable account of a
+time according to                                              given system becomes entirely different when we re-
+aX..1/dt=p(J{1,X2)-1Im  I:ii
+                                                          X2), member that it has undoubtedly interacted with nu-
+                                1h*(X1,X2)(a/aX1)ift;;(J{1,
+                                                               merous other systems in the past and that the total
+aX2/dt=p(X1, X2)- Im 1  I:      if,;;*(){1,
+                                         X2)(a/aX2)if,;;(X1,
+                                                          X2). wave    function will certainly not be factorable. The
+                          ij                                   same    effect complicates the hidden variable account
+                                                           (9) of  the  theory  of measurement, when it is desired to
+                                                               include part of the "apparatus" in the system.
+   The curious feature is that the trajectory equations           Bohm of course was well aware6 •16- 18 of these features
+(9) for the hidden variables have in general a grossly of his scheme, and has given them much attention.
+nonlocal character. If the wave function is factorable However, it must be stressed that, to the present
+before the analyzing fields become effective ( the par- writer's knowledge, there is no proof that any hidden
+ticles being far apart),                                       variable account of quantum mechanics must have this
+                                                               extraordinary character. 19 It would therefore be in-
+                if,;;(X1,X2)= 4>;(X1)    x1(X2),               teresting, perhaps, 1 to pursue some further "impossi-
+this factorability will be preserved. Equations (8) then bility proofs," replacing the arbitrary axioms objected
+reduce to                                                      to above by some condition of locality, or of separability
+                                                               of distant systems.
+dX1/dt=[L cp;*(X1)'P;(X1)]-1
+           i
+                                                                                ACKNOWLEDGMENTS
+                       x Im I: P;*(X1)(a/aX1)P;(X1),
+                                 i                               The first ideas of this paper were conceived in 1952.
+aX..2/dt=[L x/(X2)x/X2)        J-1                            I warmly thank Dr. F. Mandl for intensive discussion
+           j                                                  at that time. I am indebted to many others since then,
+                         X Im    I:; x/(X2) (a/aX2)x(X2)-     and latterly, and very especially, to Professor J. M.
+                                                              Jauch.
+The Schrodinger equation (8) also separates, and the
+                                                                16 D. Bohm, Causality and Chance in Modern Physics (D. Van
+trajectories of X1 and X2 are determined separately by        Nostrand Co., Inc., Princeton, N.J., 1957).
+equations involving H(X 1) and H(X 2), respectively.            17 D. Bohm, in Quantum Theory, D. R. Bates, Ed. (Academic
+However, in general, the wave function is not factorable.     Press Inc., New York, 1962).
+                                                                18 D. Bohm and Y. Aharonov, Phys. Rev. 108, 1070 (1957).
+The trajectory of 1 then depends in a complicated way           19 Since the completion of this paper such a proof has been found
+on the trajectory and wave function of 2, and so on the       [J. S. Bell, Physics 1, 195 (1965) ].
+

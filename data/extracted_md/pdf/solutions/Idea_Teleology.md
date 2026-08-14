@@ -1,0 +1,1117 @@
+# The Idea of Teleology
+
+**source:** pdf · **section:** solutions
+**file:** Idea_Teleology
+---
+
+Author(s): Ernst Mayr
+Source: Journal of the History of Ideas, Vol. 53, No. 1 (Jan. - Mar., 1992), pp. 117-135
+Published by: University of Pennsylvania Press
+Stable URL: http://www.jstor.org/stable/2709913 .
+Accessed: 06/03/2014 15:39
+
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at .
+http://www.jstor.org/page/info/about/policies/terms.jsp
+
+.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+.
+
+                University of Pennsylvania Press is collaborating with JSTOR to digitize, preserve and extend access to
+                Journal of the History of Ideas.
+
+http://www.jstor.org
+
+                             This content downloaded from 128.103.149.52 on Thu, 6 Mar 2014 15:39:54 PM
+                                             All use subject to JSTOR Terms and Conditions
+                           The Idea of Teleology
+                                                                                              ErnstMayr
+
+                                         Background
+                           1. Philosophical
+
+    Perhapsno otherideologyhas influenced     biologymoreprofoundly
+thanteleological thinking.In oneformor another    it was theprevailing
+worldviewprior   to Darwin. (Indeed it is oneofthe relativelyfewworld
+viewsseriously consideredbywestern  man.)Appropriately,  thediscussion
+ofteleologyoccupiesconsiderable  space(10-14%)inseveral  recent philos-
+ophiesof biology.'Such a finalistic worldviewhad manyroots.It is
+reflectedbythemillenarian  beliefsofmanyChristians,  bytheenthusiasm
+forprogress promoted  bytheEnlightenment,    bytransformationistevolu-
+tionism, and by everybody's  hopefora betterfuture.   However,  sucha
+         worldviewwasonlyoneofseveralwidely
+finalistic                                       adoptedWeltanschau-
+ungen.
+    Grosslysimplifying  a farmorecomplexpicture,one can perhaps
+distinguish,in theperiodpriorto Darwin,threewaysoflookingat the
+world:
+    1. A recently createdand constantworld.This was theorthodox
+Christian dogma,which,  however,  by1859hadlargely   lostitscredibility,
+at leastamongphilosophers   andscientists.2
+    2. An eternaland eitherconstantor cyclingworld,exhibiting       no
+constant direction or goal.Everything   in sucha world,as assertedby
+Democritus  andhisfollowers,  is dueto chanceornecessity,  withchance
+byfarthemoreimportant     factor. Thereis no roomforteleology   in this
+worldview,everything   beingdue to chanceor causalmechanisms.       It
+allowsforchange,  butsuchchangeisnotdirectional;  itisnotanevolution.
+Thisviewgainedsomesupport       duringtheScientificRevolution  andthe
+Enlightenment,  butremained  verymucha minority    viewuntilthenine-
+teenthcentury.  A ratherpronounced     polarizationdevelopedfromthe
+seventeenth to thenineteenth   centuries, betweenthestrictmechanists,
+   1
+     Morton Beckner,The Biological Way of Thought(New York, 1959); Alexander
+Rosenberg,TheStructureofBiologicalScience(Cambridge,Mass., 1985); Michael Ruse,
+                                                               (Berlin,1986).
+             ofBiology(London, 1973); Rolf Sattler,Biophilosophy
+The Philosophy
+   2 ErnstMayr,The Growth ofBiologicalThought(Cambridge,Mass., 1982).
+
+                                                   117
+
+       Copyright 1992 by JOURNAL OF THE HISTORY OF IDEAS, INC.
+
+                 This content downloaded from 128.103.149.52 on Thu, 6 Mar 2014 15:39:54 PM
+                                 All use subject to JSTOR Terms and Conditions
+118                                                                                           ErnstMayr
+
+whoexplained   everything   purelyin termsofmovements      andforcesand
+whodeniedanyvalidity      whatsoever  oftheuse ofteleological    language;
+and theiropponents-deists,     naturaltheologians, and vitalists-who    all
+believedin teleology  to a lesseror greater extent.
+    3. The thirdviewoftheworldwas thatofa worldoflongduration
+(orbeingeternal) butwitha tendency    towardimprovement      orperfection.
+Sucha viewexistedin manyreligions,       it was widespread   in thebeliefs
+ofprimitive  people(e.g.,theValhallaoftheold Germans),          and it was
+represented inChristianity  byideasofa millennium   orresurrection.   Dur-
+ingtheriseofdeism,after                 Revolution
+                            theScientific           andduring     theeraof
+Enlightenment,  therewasa widespread    beliefin thedevelopment     ofever
+greater perfectionintheworldthrough     theexercise  ofGod'slaws.There
+was a trustin an intrinsic   tendency  of Naturetowardprogress       or an
+ultimate goal.Suchbeliefs   weresharedevenbythosewhodidnotbelieve
+inthehandofGodbutwhonevertheless        believed ina progressive  tendency
+oftheworldtowardever-greater      perfection.3
+    Although  Christianity  was its majorsourceof support,     teleological
+thinking gainedincreasing   strengthalsoinphilosophy,  from   itsbeginning
+withtheGreeksandCicerouptotheeighteenth          andnineteenth   centuries.
+The conceptof theScala Naturae,thescale of perfection,4         reflecteda
+beliefin upwardor forward      progression in thearrangement     ofnatural
+objects.Fewwerethephilosophers     whodidnotexpress    a belief inprogress
+andimprovement.   It alsofitted quitewellwithLamarck's    transformation-
+isttheory ofevolution, anditisprobably  correct tosaythatmostLamarck-
+ianswerealsoteleologists.  Theconcept  ofprogress  wasparticularly  strong
+inthephilosophies  ofLeibniz,  Herder,their followersandofcourseamong
+theFrenchphilosophes     oftheEnlightenment.
+    WhatstruckT. H. Huxley"mostforcibly           on his firstperusalof
+the Originof Specieswas the conviction      thatteleology,  as commonly
+understood,  had received  itsdeathblow  at Mr.  Darwin's  hands."5  How-
+ever,Huxley'sprophecy      did notcometrue.Perhapsthemostpopular
+amongtheanti-Darwinian      evolutionarytheories wasthatoforthogenesis,6
+whichpostulated   thatevolutionary   trends, evennonadaptive    ones,were
+due to an intrinsic
+                  drive. Even  though the arguments  ofthe  orthogenesists
+wereeffectively  refuted  by Weismann,7    orthogenesis  continued   to be
+highlypopularnot onlyin Germanybut also in France,8theUnited
+
+    ErnstMayr,Towarda NewPhilosophy  ofBiology(Cambridge,Mass., 1988),234-36.
+   4 Arthur0.Lovejoy,The GreatChain ofBeing(Cambridge,Mass., 1936).
+  5 Thomas HenryHuxley,Lay Sermons,  Addressesand Reviews(London, 1870), 330.
+  6 PeterJ.Bowler,TheEclipseofDarwinism  (Baltimore,1983),141-81; PeterJ.Bowler,
+The Non-DarwinianRevolution(Baltimore,1987).
+  7 Mayr,Towarda New Philosophy, 499, n. 3.
+  8 HenriBergson,CreativeEvolution(London, 1911).
+
+                 This content downloaded from 128.103.149.52 on Thu, 6 Mar 2014 15:39:54 PM
+                                 All use subject to JSTOR Terms and Conditions
+Idea of Teleology                                                                              119
+
+States,9andRussia.10Thereasonwasthateventhough         Darwin'sdemon-
+stration ofthenon-constancy   ofspeciesandofthecommon     descent  ofall
+organisms   madetheacceptance   ofevolution inevitable,naturalselection,
+themechanism    proposed  byDarwin,wasso unpalatable    tohisopponents
+that theygraspedat any otherconceivablemechanism           as an anti-
+Darwinianstrategy.     One of thesewas orthogenesis, a strictlyfinalistic
+principle,11whichdidnotreallycollapseuntiltheEvolutionary     Synthesis.
+Simpson,12  Rensch,13  andJ.Huxley,14 in particular,showedthatperfect
+orthogenetic seriesas claimedbytheorthogenesists,   simply didnotexist
+whenthefossilrecordwasstudied     morecarefully,  thatallometric growth
+couldexplaincertain    seeminglyexcessivestructures,andfinally, thatthe
+assertion ofdeleteriousness ofcertaincharacters, supposedlyduetosome
+orthogenetic  force,was notvalid.Theseauthorsshowed,furthermore,
+thattherewasnogenetic     mechanism thatcouldaccountfororthogenesis.
+    Bothfriends  andopponents   ofDarwinoccasionally   classifiedhimas
+             It is truethatthisis whathe wasearlyinhiscareer,
+a teleologist.                                                   buthe
+gave up teleology    soon afterhe had adoptednaturalselectionas the
+mechanism   ofevolutionary  change.Whether  thiswasas lateas the1850s,
+as claimedbysomeauthors,     oralreadyintheearly1840s,as indicated   by
+theresearches  ofR. Eisert,is unimportant. Thereis certainlyno support
+forteleology intheOrigin            eventhough,
+                           ofSpecies,                        inhislater
+                                                  particularly
+yearsandin correspondence,     Darwinwas sometimes   somewhat   careless
+in hislanguage.15  I havepreviouslypresented  a ratherfullhistory ofthe
+riseandfallofteleology   inevolutionarybiology,            inDarwin's
+                                                particularly
+writings.16
+    All endeavors  to findevidencefora mechanism   thatwouldexplaina
+generalfinalism  in naturewereunsuccessful  or,whereitoccursin orga-
+nisms,it was explained          causally(see below).As a result,
+                         strictly                                bythe
+timeoftheEvolutionary              ofthe1940s,no competent
+                           Synthesis                           biologist
+was leftwhostillbelievedin anyfinalcausationofevolution       or ofthe
+worldas a whole.
+    Finalcauses,however,   arefarmoreplausible  andpleasing toa layper-
+son thanthehaphazardand opportunistic      processof naturalselection.
+For thisreason,a beliefinfinalcauseshada fargreater      holdoutsideof
+
+   9 Henry FairfieldOsborn, "Aristogenesis,the CreativePrinciplein the Originof
+                            68 (1934), 193-235.
+Species,"AmericanNattiralist,
+   10L. S. Berg,Nomogenesis,or EvolutiondeterminedbyLaw (London, 1926).
+   11See note 3 above.
+   12 GeorgeGaylordSimpson,Tempoand Mode in Evolution    (New York, 1944);George
+GaylordSimpson,The Meaningof Evolution(New Haven, 1949).
+   13 BernhardRensch,NeuereProblemederAbstammungslehre      (Stuttgart,
+                                                                      1947).
+   14 JulianHuxley,Evolution:The ModernSynthesis  (London, 1942).
+   15 David Kohn, "Darwin's Ambiguity: The Secularizationof Biological Meaning,"
+BritishJournalfor theHistoryofScience,22 (1989), 215-39.
+   16
+      Mayr,Towarda New Philosophy, 235-55.
+
+                  This content downloaded from 128.103.149.52 on Thu, 6 Mar 2014 15:39:54 PM
+                                  All use subject to JSTOR Terms and Conditions
+120                                                                                            ErnstMayr
+
+biologythanwithin.    Almostall philosophers, forinstance,  whowroteon
+evolutionary changeintheonehundred       yearsafter1859,wereconfirmed
+         All threephilosophers
+finalists.                       closestto Darwin-Whewell,      Herschel,
+and Mill-believedin finalcauses."7The Germanphilosopher            E. von
+Hartmann   8 was a  strong defender  offinalism,stimulating  Weismann  to
+a spirited reply.In France,Bergson19    postulated  a metaphysical  force,
+elan vital,which,eventhoughBergsondisclaimed          itsfinalisticnature,
+couldnothavebeenanything      else,considering  itseffects. Thereis room
+fora goodhistory  offinalism inthepost-Darwinian    -philosophy, although
+Collingwood20  has made a beginning.     Whitehead,   Polanyi,and many
+lesserphilosophers,  werealso finalistic.21
+    Refutation ofa finalisticinterpretation ofevolution  or ofnatureas a
+whole,however,   didnoteliminate    teleologyas a problem   ofphilosophy.
+                                    of
+For the Cartesiansany invoking teleological         processeswas utterly
+unthinkable. Comingfrom     mathematics  andphysics,  theyhadnothing   in
+theirconceptual repertory  thatwouldpermit   themtodistinguish    between
+seemingly end-directed  processes ininorganic nature, andseemingly   goal-
+directed            in
+         processes living    nature.  Theyfeared,  as  shown  particularly
+clearlybyNagel,22   thatmakingsucha distinction     wouldopenthedoor
+tometaphysical,  nonempirical  considerations. All theirarguments,  based
+onthestudyofinanimate     objects,ignored thecommon     view,derived from
+Aristotleand strongly   confirmed  by Kant,thattrulygoal-directed     and
+seemingly purposive           occuronlyinlivingnature.
+                      processes                            Yetthe(physi-
+calist)philosophers  ignoredthestudyoflivingnatureandthefindings       of
+thebiologists.Insteadtheyusedteleology    inordertoexercise   theirlogical
+prowess.Whythiswas so has beenexplainedby Ruse: "Whatdraws
+philosophers towardteleology    is thatone has to know,or at leastit is
+generally thought  thatonehasto know,absolutely      no biologyat all!...
+philosophers  wantno empiricalfactorsdeflecting       themin theirneo-
+Scholastic pursuits."23Theirony  ofthisjibeagainst hisfellow philosophers
+is that,havingsaidthis,Rusehimself     promptly  ignored  theliteratureon
+teleologywritten bybiologists  andconcentrated    on reviewing  thebooks
+ofthreephilosophers    knownfortheirneglect   ofbiology.   Yet Ruseis not
+alone.Onepaperorbookafter      theotherdealingwithteleology     continues
+tobepublished  inthephilosophical            inwhichtheauthor
+                                    literature                   attempts
+
+   17 David L. Hull, Darwinand His Critics(Cambridge,Mass., 1973).
+   18 Eduard v. Hartmann,
+                        Das Unbewusste
+                                     vomStandpunkt            undDeszen-
+                                                 derPhysiologie
+denzlehre(Berlin,1872).
+   19See note 8 above.
+   20 R. G. Collingwood,The Idea of Nature(Oxford,1946).
+   21 Mayr,Towarda New Philosophy,
+                                 247-48.
+   22
+      ErnestNagel, The Structureof Science (New York, 1961); E. Nagel, "Teleology
+Revisited:Goal DirectedProcessesin Biology,"JournalofPhilosophy,74 (1977), 261-301.
+   23 MichaelRuse, "The Last Wordon Teleology,or Optimality Modes Vindicated,"in
+Michael Ruse, Is ScienceSexist?(Cambridge,1981),85-101.
+
+                  This content downloaded from 128.103.149.52 on Thu, 6 Mar 2014 15:39:54 PM
+                                  All use subject to JSTOR Terms and Conditions
+Idea of Teleology                                                                             121
+
+to solvetheproblemof teleology    withthesharpestweaponsof logic,
+whileutterly ignoringthediversity ofthephenomena       to whichtheword
+teleologyhasbeenattached,  andofcourseignoring     theliteratureinwhich
+biologistshavepointedthisout.
+    Someofthedifficultiesofthephilosophers   areduetotheir   misinterpre-
+tationofthewritings  ofthegreatphilosophers    ofthepast.Aristotle,   for
+instance,has oftenbeenrecorded  as a finalist, andcosmicteleology    has
+beencalledan Aristotelian view.Greneis entirely   correct  whenpointing
+outthatAristotle'steloshasnothing  todo withpurpose"either     Man'sor
+God's. It was theJudaeo-Christian    God who (withthe help of neo-
+Platonism) imposedthedominance     ofa cosmicteleology    uponAristote-
+liannature.Suchsweeping    purposeis theveryoppositeofAristotelian
+               ModemAristotle
+[philosophy]."24                  specialists(Balme,Gotthelf,   Lennox,
+andNussbaum)   areunanimous  inshowing   thatAristotle's  seeming teleol-
+ogydeals with           of          and              in
+              problems ontogeny adaptation livingorganisms,
+wherehisviewsareremarkably    modern.25  Kantwasa strict    mechanist as
+faras theinanimate   universeis concerned,    but provisionally  adopted
+teleologyforcertainphenomena  ofliving nature, which(inthe1790s)were
+inexplicableowingto the         condition
+                        primitive          of contemporary   biology.26It
+wouldbeabsurd,  however, touseKant'stentative   comments    twohundred
+yearslateras evidence forthevalidity  offinalism.
+    The reasonsfortheunsatisfactory   stateoftheteleology    analysesin
+thephilosophicalliteraturearenowevident.    Indeed,onecango so faras
+to saythatthetreatment   oftheproblems    ofteleology   in thisliterature
+showshownotto do thephilosophy      ofscience.For at leastfifty   yearsa
+considerable numberof philosophers    havewritten   on teleology  basing
+theiranalyseson themethodsof logicand physicalism,         "knownto be
+thebest"or at leasttheonlyreliablemethods      forsuchanalyses.These
+philosophers have ignoredthe findings   of thebiologists,   eventhough
+teleologyconcerns mostly or entirely theworldoflife.
+    Theyignored thatthewordfunction     refers to twoverydifferent   sets
+ofphenomena;  andthattheconcept   ofprogram   givesa newcomplexion    to
+theproblem  ofgoal-directedness;
+                               theyconfounded    thedistinction between
+proximate andevolutionary  causations, andbetween   static(adapted)sys-
+temsandgoal-directed  activities.
+                               Eventhough    thereisanenormous     philo-
+sophicalliterature
+                 on theproblems    ofteleology, thoserecentbooksand
+papersarequiteuselesswhichstilltreatteleology     as a unitaryphenome-
+non.No authorwhohad nottriedto articulate       thedifferences  between
+the significanceof cosmicteleology,   adaptedness,    programmed    goal-
+
+   24 MarjorieGrene,"Aristotleand Modem Biology,"JHI, 33 (1972), 395-424.
+
+                                 55-60.
+   25 Mayr,Towarda New Philosophy,
+   26 ErnstMayr,"The IdeologicalResistanceto Darwin'sTheoryofNaturalSelection,"
+
+          of theAmericanPhilosophicalSociety,135 (1991), 123-39.
+Proceedings
+
+                 This content downloaded from 128.103.149.52 on Thu, 6 Mar 2014 15:39:54 PM
+                                 All use subject to JSTOR Terms and Conditions
+122                                                                                             ErnstMayr
+
+directedness, and deterministic     naturallaws,has madeanyworthwhile
+contribution to thesolution    oftheproblems    ofteleology.
+   Theprincipal   endeavor   ofthetraditional  philosopher    wastoeliminate
+teleologicallanguage   fromall descriptions  andanalyses.    Theyobjected    to
+suchsentences  as "theturtle   swimstotheshoreinordertolayhereggs,"
+or "thewoodthrush      migrates   to warmer  climates in orderto escapethe
+winter." To be sure,questions     thatbeginwith"what?"and "how?"are
+sufficientforexplanation    in thephysicalsciences.However,since1859
+no explanation  in thebiological    scienceshasbeencomplete      untila third
+     of
+kind question     was  asked  and   answered: "why?"   It is theevolutionary
+causationanditsexplanation       thatis askedforin thisquestion.      Anyone
+whoeliminates   evolutionary   "why?"questions,    closesthedoorona large
+areaofbiological   research.  It is thereforeimportant  fortheevolutionary
+biologistto demonstrate    that "why?"questions    do not   introduce  a meta-
+physical element  intotheanalysis,     andthatthereis no conflict    between
+causalandteleological    analysis,  provided itis precisely  specified whatis
+meantby"teleological."     I haveelsewhere27   presented   a detailedanalysis
+of"themultiple   meanings    ofteleological"  butmustpresent     hereat least
+thegistofmyfindings.      Nagel28   andEngels29 havecriticized   someofmy
+views.Engels'smonograph      isthemostcomplete     treatment  oftheteleology
+problem intheGerman      language.   Inthefollowing  accountI haveincluded
+an answerto theirobjections.      Beforedoingso I wantfirst     to clearup a
+number  ofassumptions     thathavebeena confusing      element  in therecent
+          Thiswillallowme to showthatthefollowing
+literature.                                                    assertions   are
+invalid.
+    1. Teleological statements   and explanations  implytheendorsement       of
+unverifiabletheological  or metaphysical  doctrines inscience. This  criticism
+wasindeedvalidinformer       times,  particularlyintheeighteenth    andearly
+nineteenth centuries,  as wellas formostvitalists  rightuptomodern       times,
+including Bergson   andDriesch.It doesnotapplyto anyDarwinian              who
+usesteleological language(seebelow).
+    2. Anybiological  explanation   thatisnotequallyapplicable   toinanimate
+natureconstitutes  rejection ofa physico-chemical    explanation.  Thisis an
+invalidobjection,  sinceeverymodembiologist        acceptsphysico-chemical
+explanations  at thecellular-molecular    level,and furthermore,     since,as
+willbe shownbelow,seemingly        teleologicalprocesses  inlivingorganisms
+canbe explained   strictly materialistically.
+    3. Teleological  languageintroduces    anthropomorphism     intobiology.
+Manyphilosophers,     indeed,havemadehumanintentions           andpurposive
+actsthestarting  pointoftheiranalysis     ofgoal-directed   activitiesinother
+
+   27
+        Mayr,Towarda New Philosophy,
+                                   38-66.
+   28 ErnestNagel, "TeleologyRevisited:Goal DirectedProcessesin Biology,"Journal
+
+             74 (1977).
+of Philosophy,
+    29 Eve-MarieEngels,Die Teleologiedes Lebendigen(Berlin,1982).
+
+                   This content downloaded from 128.103.149.52 on Thu, 6 Mar 2014 15:39:54 PM
+                                   All use subject to JSTOR Terms and Conditions
+Idea ofTeleology                                                                              123
+organisms.   Thisintroduces   concepts suchas purpose,   intention,andcon-
+sciousness  intothediscussion    andtiesthewholeproblem       to humanpsy-
+chology;  butitseemsto methatthisis a poorfoundation          foran analysis
+of goal-directed   activitiesin thenon-human      livingworld.In myown
+treatment  I havetherefore     refrainedfromusinganthropomorphic        lan-
+guage,particularly    the termspurposeand intention,       whenexplaining
+teleonomic   phenomena    in animalsand plants.The termgoal-directed
+is strictlydescriptive,  whiletermslikepurposeor intention        introduce
+psychological  problems   thatareirrelevant   to ourimmediate    objective.
+    4. Teleonomic   processes  are in conflictwithcausality  becausefuture
+goalscannotdirectcurrent       events.This objection,  frequently raisedby
+physicalists, is due to theirfailureto applytheconceptof program,          a
+conceptnotexisting     in theclassicalframework      of physicalistconcepts
+and theories.
+    5. Teleological explanations   mustqualify as laws.Actually  theattempt
+to insertlawsintoteleological     explanations has led onlyto confusion.30
+    6. Telosmeanseither    endpoint  orgoal;they   arethesame.Bycontrast,
+fortheevolutionary    biologist thereis a greatdifference   between  telosas
+goalandtelosas endpoint.    Ifoneaskswhether     natural selectionand,more
+broadly, all processes  in evolution havea telos,onemustbe clearwhich
+telosonehas in mind.
+    Thewordteloshasbeenusedin thephilosophical           literaturewithtwo
+verydifferent  meanings.  WhenAristotle    usesit,itrefers  toa processthat
+hasa verydefinite   goal,a goalordinarily   anticipated whentheprocessis
+initiated.Thetelosofthefertilized    eggis theadultintowhichitdevelops.
+For thedeisticteleologist,   cosmicteleology   also had a definite goal,i.e.,
+theworldin itsfinalperfection      as conceived  byitscreatorand effected
+byHislaws.Butteloshasalsobeenusedsimply           torefer tothetermination
+of an end-directed   process.The telosof a rainstorm       is whenit stops
+raining. Day is thetelosofthenight.    All processes causedbynaturallaws
+sooneror laterhave an endpoint,        but it is misleading  to use forthis
+termination   thesamewordtelos,thatis ordinarily       usedforthegoal in
+goal-directed  processes. The endpoint  ofa non-teleological   processis,so
+to speak,an a posteriori    phenomenon.     Pierce3" realizedthattheterm
+"teleological"  is too stronga wordto applyto naturalprocesses        in the
+inorganic  world.He therefore    suggested that"we mightinvent     theterm
+finious to expresstheirtendency     towarda finalstate"(7.471).
+    Teleologyand function:     manyphilosophers     ofsciencehavefeltthat
+theproblem    ofteleology  couldbe solvedbyexplaining      goal-directedness
+
+   30David L. Hull, "Philosophyand Biology," Contemporary   Philosophy,2 (1982),
+298-316.
+   31 CharlesSandersPierce,ArthurW. Burks(eds.), CollectedPapers,VII (Cambridge,
+Mass., 1958).
+
+                 This content downloaded from 128.103.149.52 on Thu, 6 Mar 2014 15:39:54 PM
+                                 All use subject to JSTOR Terms and Conditions
+124                                                                                           ErnstMayr
+
+in termsof function, i.e., by translatingteleologicalstatements32 into
+function            butalsoimplicitly
+        statements,33                 Hempel,34    Nagel,3s
+                                                          andnumer-
+ous authorssince.Whether    theyrecognizesix meanings     of the term
+        as doesNagel,orten,as doesWimsatt,
+function,                                     all theseproposals
+                                                               suffer
+fromthefatalflawnotto have recognized       thatthe wordfunction    is
+usedin biologyin twoverydifferent  meanings,  whichmustbe carefully
+distinguishedin anyteleological analysis.Bockand vonWahlert36    have
+admirably         thesituation
+          clarified             byshowing  thatfunction  is sometimes
+usedfora physiological processandsometimes   forthebiologicalroleof
+a featurein thelifecycleoftheorganism.    "For example,thelegsofa
+rabbithave thefunctionoflocomotion... but thebiologicalroleof this
+faculty maybe to escapefroma predator,  to movetowarda sourceof
+food,tomovetoa favorable         tomoveaboutinsearchofa mate."
+                          habitat,
+Descriptionsofthephysiologicalfunctioningofan organorotherbiologi-
+cal feature                   Indeed,in favorable
+           are notteleological.                  cases,theycan be
+largelytranslatedintophysico-chemical explanations,theyare due to
+proximate causations.Whatis involvedin an analysisofteleological
+                                                               as-
+                    roleofa structure
+pectsis thebiological               oractivity.Suchrolesaredueto
+evolutionary          ForthisreasonI carefully
+            causations.                        avoidthewordfunc-
+tionwhenmyconcernis thebiologicalroleofa feature    or process(see
+below,p. 14).
+
+                             2. Categories
+                                         ofTeleology
+
+   Themajority   ofphilosophers
+                              havetreated         as a unitary
+                                          teleology          phe-
+nomenon.  This ignoresthatthetermteleological  has beenappliedto
+severalfundamentally different
+                            naturalphenomena.  Underthesecircum-
+stancesit is no surprisethatthe searchfora unitary  explanationof
+        hassofarbeenentirely
+teleology                          Beckner37
+                             futile.             hecandistinguish
+                                            thinks
+threekindsofteleology, characterizedbythetermsfunction,  goal,and
+intention.
+         Although  thisproposalleadsto someordering ofthephenom-
+ena,itdoesnotrepresent a successful
+                                  solution,           inviewofthe
+                                           particularly
+relevanceofintentiononlytoman,andtheambiguity  ofthetermfunction.
+Woodger38  also saw thediversemeanings  ofthewordteleological,and
+
+   32 W. Wimsatt, "Teleologyand theLogical StatusofFunctionStatements," Studiesin
+theHistoryand Philosophy  ofScience,3 (1972), 1-80.
+   33 RobertCummins,   "FunctionalAnalysis,"JournalofPhilosophy,72 (1975), 741-65.
+   34 Carl G. Hempel,Aspects ofScientificExplanation(New York, 1965).
+   35 ErnestNagel, The StructureofScience(New York, 1961).
+   36 WalterJ.Bock and G. vonWahlert,  "Adaptationand theForm-function Complex,"
+Evolution,19 (1969), 269-99.
+   37 MortonBeckner,The BiologicalWayof Thought     (New York, 1959).
+   38
+      J. H. Woodger,BiologicalPrinciples(London, 1929).
+
+                 This content downloaded from 128.103.149.52 on Thu, 6 Mar 2014 15:39:54 PM
+                                 All use subject to JSTOR Terms and Conditions
+Idea of Teleology                                                                               125
+
+attemptedto recognizesomecategories butdid notcarrytheanalysis
+veryfar.A carefulstudyofall theusesofthetermteleological   in the
+                                 led
+                        literature
+            andbiological
+philosophical                       me to propose a         divi-
+                                                    four-fold
+    9
+sion. Oneofthemajorfeaturesofmyproposalwastodividethecategory
+         intogenuine
+offunction                            andthecategory
+                              activities
+                     functional                       ofadapted-
+                 to thehistory
+ness,corresponding            offeatures witha biologicalrole(see
+BockandvonWahlert).40
+
+                                  i. Teleomatic
+                                              Processes
+
+   Severalphilosophershave designated as teleological
+                                                    any processes
+which"persisttowardan end pointundervaryingconditions"      or in
+which"theendstateoftheprocessis determined  byitsproperties at the
+            Thesedefinitions
+beginning."41               wouldincludeall processes in inorganic
+naturethathavean endpoint.A riverwouldhavetobe calledteleological
+becauseit flowsintotheocean.To place suchprocessesin the same
+categoryas genuinegoal-directedprocessesin organisms is mostmis-
+leading.
+   All objectsofthephysicalworldare endowedwiththecapacityto
+changetheirstate,andthesechangesstrictlyobeynaturallaws.Theyare
+           onlyina passive,
+end-directed              automaticway,regulated byexternal forces
+             thatis by naturallaws. I designated
+or conditions,                                  suchprocessesas
+teleomatic42to indicatethattheyare automaticallyachieved.All teleo-
+maticprocessescometo an endwhenthepotential is usedup (as in the
+coolingof a heatedpieceof iron)or whentheprocessis stoppedby
+encounteringan externalimpediment(as whena fallingobjecthitsthe
+ground).The law ofgravityand thesecondlaw ofthermodynamics   are
+amongthenaturallaws whichmostfrequently   governteleomatic pro-
+cesses.
+    Aristotle
+           clearly           teleomatic
+                 distinguished                from
+                                      processes    theteleologi-
+cal onesencounteredin organisms,          to themas caused"by
+                               and referred
+           Theseare mostoftheprocessescalledfinious
+necessity."43                                       by Pierce.4
+Theymayhavean endpointbuttheyneverhavea goal.The question
+                                forthem.One cannotaskforwhat
+"whatfor?"(wozu?)is inappropriate
+
+    9 ErnstMayr,"Teleologicaland Teleonomic.A New Analysis,"BostonStudiesin the
+PhilosophyofScience,14 (1974).
+   40   See note36 above.
+                      The Strategyof theGenes(London, 1957).
+   41 C. H. Waddington,
+   42 See note 39 above.
+
+   43 A. Gotthelf,                                                            30
+                   "Aristotle'sConceptionofFinal Causality,"ReviewofMetaphysics,
+(1976), 226-54.
+   44 See note 31 above.
+
+                   This content downloaded from 128.103.149.52 on Thu, 6 Mar 2014 15:39:54 PM
+                                   All use subject to JSTOR Terms and Conditions
+126                                                                                             ErnstMayr
+
+purpose lightning  hadstruck a particulartree,orforwhatpurpose     a flood
+or an earthquake   had killedthousands  ofpeople.
+    Radioactive  decayis a teleomatic  process,it is notcontrolled   by a
+program.  Anychunkofuranium        willexperience  radioactive decaygov-
+ernedbythesamephysicallawsas anyother,in contrast            to programs
+thatarehighly   specificandoftenunique.The naturallawsinteract       with
+           properties
+theintrinsic           ofthematerial  onwhichtheyact.Different    materi-
+als havedifferent            andtherateofcoolingmaydiffer
+                   properties,                                   fromone
+substance to thenext.Butinherent    properties  thatarethesameforany
+sampleof thesamesubstance       are something   entirelydifferent froma
+codedprogram.    Thisis truerightdownto themolecular       level.A given
+macromolecule   hasinherent  properties,butthisbyitself is nota program.
+Programs  areformed    bya combination   ofmolecules,  and otherorganic
+components.
+    Prediction is notthedefining   criterion ofa program.   If I releasea
+stonefrom  myhand,I canpredict    thatitwillfalltotheground.   Therefore,
+saysEngels,4s  it is programmed   to fallto theground,and thereis no
+differencebetween   teleomaticandteleonomic    processes.Thisis thesame
+argument  Nagel46  madewithreference   toradioactive  decay.An example
+willshowhowmisleading      thisargument  is: somewhere  inthemountains
+        stonekillsa person.Engelswouldhavetosaythatthisstonewas
+a falling
+"programmed"     to kill a person.The verygeneralterminal       situations
+effectedbynaturallawsaresomething       entirely different
+                                                         fromthehighly
+specificgoalscodedinprograms.     Theexistence  ofprograms,  ofcourse,is
+innowayinconflict    withnatural laws.Allthephysico-chemical    processes
+thattakeplaceduring    thetranslation andexecution   ofa program   strictly
+obeynaturallaws.Butto neglect     theroleofinformation    andinstruction
+inevitablyresultsin a mostmisleading    description ofa program.    Could
+oneexplaina computer           interms
+                        strictly       ofnatural  laws,carefully avoiding
+anyreference  to information  andinstruction?
+
+                                 ii. Teleonomic
+                                              Processes
+
+   The termteleonomic has beenused withvariousmeanings.  When
+           introduced
+Pittendrigh47        theterm,hefailedto provideitwitha rigorous
+         As a resultvariousauthorsused it eitherforprogrammed
+definition.
+                        as didforinstance
+        or foradaptedness
+functions                                B. Davis,48
+                                                   G. G. Simp-
+   45   See note29 above.
+   46 See note28 above.
+
+                         "Adaptation,NaturalSelection,and Behavior,"in Anne Roe
+   47 Colin S. Pittendrigh,
+
+and GeorgeGaylordSimpson(eds.),Behaviorand Evolution(New Haven, 1958),390-416.
+   48 BernardD. Davis, "The TeleonomicSignificanceof BiosyntheticControlMecha-
+nisms,"Cold SpringHarborSymposia,26 (1961), 1-10.
+
+                   This content downloaded from 128.103.149.52 on Thu, 6 Mar 2014 15:39:54 PM
+                                   All use subject to JSTOR Terms and Conditions
+Idea of Teleology                                                                              127
+
+son,49Monod,50and Curio.5"I restricted
+                                     thetermteleonomicto pro-
+grammed activities52
+                  and nowprovidethefollowing definition:
+                                                      a teleo-
+nomicprocessor behavioris one that owes its goal-directedness
+                                                           to the
+operationofa program.    The termteleonomic      thusimpliesgoal-direction
+ofa processor activity.  It dealsstrictly withproximate   causations. They
+occurin cellular-developmental    processes,  and aremostconspicuous     in
+thebehavior oforganisms.    "Goal-directed   behavior... isextremely wide-
+spreadin theorganicworld;forinstance,        mostactivities connected with
+migration,food-getting,  courtship,  ontogeny   andall phasesofreproduc-
+tionarecharacterized   bysuchgoalorientation.      The occurrence  ofgoal-
+directedprocesses is perhapsthemostcharacteristic      feature oftheworld
+oflivingorganisms."53  It is sometimes   statedthatPittendrigh  andI intro-
+ducedthetermteleonomic       as a substitute forthetermteleological.  This
+isnotcorrect,rather itisa termforonlyoneofthefourdifferent        meanings
+ofthehighly  heterogeneous    termteleological.
+    In myoriginalproposal54      I suggested   thatone mightexpandthe
+applicationof thetermteleonomic         to includealso thefunctioning    of
+humanartifacts (e.g.,loadeddice)thatarefixedinsucha wayas toassure
+a wantedgoal.Thisextended       use ofthetermhas beencriticized,     and I
+nowconsiderthathumanartifacts          are onlyanalogs.Trulyteleonomic
+         dependon thepossession
+activities                            ofa program.
+   All teleonomic  behavioris characterized      by twocomponents.    It is
+guidedby"a program"     anditdepends     ontheexistence  ofsomeendpoint,
+goal,or terminus  whichis foreseen     in theprogram   whichregulates   the
+behavior.Thisendpointmight       be a structure (indevelopment),  a physio-
+logicalfunction,theattainment    ofa geographical   position (inmigration),
+or a "consummatory    act""5in behavior.    Each particular program  is the
+resultofnaturalselection,    constantly  adjustedby theselective   valueof
+theachievedendpoint.
+   Thekeywordin thedefinition        ofteleonomic  isprogram.   Theimpor-
+tanceoftherecognition    oftheexistence    ofprograms   liesin thefactthat
+a program is (1) something    material  and (2) something  existingpriorto
+            oftheteleonomic
+theinitiation                   process. Thisshowsthatthere    isnoconflict
+between teleonomy  andcausality.
+    A programmightbe definedas codedorprearranged         that
+                                                information
+
+   4 GeorgeGaylordSim'pson,   "Behaviorand Evolution,"Anne Roe and GeorgeGay-
+lord Simpson(eds.), Behaviorand Evolution(New Haven, 1958),507-35.
+   50JacquesMonod,Le Hasard et la Necessite(Paris, 1970).
+   5"Eberhard  Curio,"Towardsa Methodologyof Teleonomy,"Experientia,29 (1973),
+1045-58.
+   52 See note 39 above.
+   13 Mayr, Towarda New Philosophy, 45.
+   54See note 39 above.
+   55Wallace Craig,"Appetitesand Aversionsas Constituents of Instincts,"Biological
+Bulletin,34 (1916), 91-107.
+
+                  This content downloaded from 128.103.149.52 on Thu, 6 Mar 2014 15:39:54 PM
+                                  All use subject to JSTOR Terms and Conditions
+128                                                                                           ErnstMayr
+
+controlsa process(or behavior)leadingit towarda goal. The program
+containsnotonlytheblueprint ofthegoal butalso theinstructionsofhow
+                    oftheblueprint.A program
+to use theinformation                         is not a           of
+                                                       description
+a givensituation   buta setofinstructions.
+    Accepting   theconceptofprogram       seemsto causeno difficulties   to a
+biologist familiar withgenetics    oranyscientist  familiar withtheworking
+ofcomputers.    However,   programs,   suchas thosethatcontrol     teleonomic
+processes,  do notexistin inanimate     nature.Traditional    philosophers of
+science,familiar   onlywithlogicand physics,        therefore havehad great
+difficulty in understanding    thenatureofprograms,      as is wellillustrated
+bythewritings     ofNagel.56
+    References   to thepresumed     existenceofsomething    likea program  in
+the cells or the genomeof organisms         can be foundin thebiological
+literature farbackintothenineteenth      century. E. B. Wilson,  afterdescrib-
+ingtheremarkably      teleonomic   mannerin whichthecleavageofan egg
+takesplace,continues:    "sucha conclusion    needinvolveno mystical     doc-
+trineof teleology    or of finalcauses.It meansonlythatthefactors         by
+whichcleavageis determined        are in greater or in lessdegreeboundup
+withan underlying      organization   oftheeggthatprecedescleavageand
+is responsible  forthegeneralmorphogenic        process.The natureof this
+organization  is almostunknown,      butwecanproceed     withitsinvestigation
+onlyonthemechanistic      assumption   thatitinvolves   somekindofmaterial
+configuration  inthesubstance    oftheegg."57   It is important oncemoreto
+emphasize,  because   thisis almost  consistentlymisunderstood    intheclassi-
+cal literature on teleology,  thatthegoalofa teleonomic      activitydoesnot
+lieinthefuture,   butis codedintheprogram.       Notenoughis knownabout
+thegenetic-molecular     basisofsuchprograms       to permit  us to saymuch
+morethanthattheyare innateor partlyinnate.The existence                of the
+program   isinferred  from itsmanifestations  inthebehavior    ortheactivities
+ofthebeareroftheprogram.
+    Concepts,  corresponding    toprogram,  gobackall thewaytoantiquity.
+After  all,Aristotle's eidoshadmanyoftheproperties         wenowascribeto
+thegeneticprogram,      as was pointedoutbyJacob58        and Delbriick.59 So
+did Buffon's   mouleint&rieur60    as wellas themanyspeculations        about
+inbornmemories      fromLeibnizand Maupertuis        to Darwin,Hering,and
+Semon.As soundas theintuition         ofthesethinkers   hadbeen,itrequired
+an understanding    oftheDNA natureofthegenotype,          before  thegenetic
+program   couldbe considered     a validscientific  concept.
+   56 See note22 above.
+
+                                         and Heredity(3rd ed., New York, 1925),
+   57 E. B. Wilson,The Cell in Development
+1005.
+                                       (Paris, 1970).
+   58 FranqoisJacob,La Logique du Vivant
+                                        J. Monod and E. Borek(eds.), Of Microbes
+   59 Max Delbruck,"Aristotle-totle-totle,"
+and Life (New York, 1971), 50-55.
+   60 JacquesRoger,Buffon(Paris, 1989).
+
+                 This content downloaded from 128.103.149.52 on Thu, 6 Mar 2014 15:39:54 PM
+                                 All use subject to JSTOR Terms and Conditions
+Idea of Teleology                                                                             129
+
+    The studyof teleonomicprogramshas shownthatseveralkindscan
+be distinguished.A programin whichcompleteinstructions  arelaid down
+in theDNA ofthegenotypeis called a closedprogram.61Most programs
+whichcontroltheinstinctive   behaviorof insectsand lowerinvertebrates
+seemto be closedprograms.Thereis, however,anothertypeofprogram,
+openprograms,  whichare constituted  in sucha waythatadditionalinfor-
+mationcan be incorporatedduringlifetime,    acquiredthroughlearning,
+conditioning, or otherexperiences.Most behaviorin higheranimalsis
+controlledby such open programs.Theirexistencehas longbeen known
+to ethologistswithouttheirintroducinga special terminology.     In the
+famouscase of the followingreactionof the younggosling,the open
+programprovidesforthefollowing    reaction,buttheparticularobject(the
+"parent")to be followedis added by experience(by "imprinting").   Open
+programsare veryfrequent  in thebehaviorprogramofhigherorganisms,
+but evenin someinvertebrates  thereis oftenopportunity to makeuse of
+                     in
+individualexperience fillingout open programs,forinstancewithre-
+spect to suitablefood or potentialenemies,or the nest site in solitary
+wasps.
+    The programscontrolling  teleonomicactivitieswereinitiallythought
+ofexclusively in termsof the DNA   of thegenome.However,in addition
+to suchgeneticprogramsitmightbe usefulto recognizesomaticprograms.
+"For instance,whena turkeygobblerdisplaysto a hen,his displaymove-
+mentsare notdirectly controlled bytheDNA in hiscell nuclei,butrather
+by a somaticprogramin his centralnervoussystem.To be sure,this
+neuronalprogramwas laid down duringdevelopment      underthecontrol
+of instructionsfromthe geneticprogram.But it is now an independent
+somaticprogram."62  Somaticprogramsare particularly   important  in de-
+velopment.Each stage in ontogenyrepresents,    so to speak, a somatic
+programforthenextstepin development.      Most oftheembryonic    struc-
+turesthathavebeencitedas evidenceforrecapitulation, likethegillarches
+oftetrapodembryos,  are presumably  somaticprograms.The reasonswhy
+theyhave notbeen removedby naturalselectionis thatthiswould have
+seriouslyinterferedwithsubsequentdevelopment.   The existenceand role
+of somaticprogramshas beenunderstoodby embryologists     at leastsince
+Kleinenberg.63
+  To borrowthetermprogramfrominformatics      is nota case ofanthro-
+pomorphism. Thereis a strictequivalenceofthe"program"oftheinfor-
+mationtheorists,and the geneticand somaticprogramsof thebiologist.
+The originofa programis quiteirrelevantforitsdefinition.It can be the
+
+   61 ErnstMayr,"The Evolutionof LivingSystems,"  Proceedings
+                                                            oftheNationalAcad-
+emyofSciences,51 (1964), 934-41.
+   62
+      Mayr, Towarda New Philosophy, 64.
+   63
+      Nicolaus Kleinenberg,"Uber die EntwicklungdurchSubstitutionvon Organen,"
+Zeitschriftfurwissenschaftliche
+                             Zoologie(1886), 212-24.
+
+                 This content downloaded from 128.103.149.52 on Thu, 6 Mar 2014 15:39:54 PM
+                                 All use subject to JSTOR Terms and Conditions
+130                                                                                            ErnstMayr
+
+product ofevolution,  as areall genetic programs, oritcanbe theacquired
+information ofan openprogram.
+   An objection  thathas beenraisedagainsttheconceptofprogram            is
+thatreflexeswouldthenalsobe teleonomic       activities.Whynot?Someof
+themundoubtedly    are.Sherrington"    was fullyawareofthesignificance
+ofthereflex as an adaptedact.He said"thepurposeofa reflex        seemsas
+legitimateand urgent   an object for naturalenquiry  as the purpose ofthe
+coloring ofan insector blossom.Andtheimportance          to physiology  is,
+thatthereflexcan notbe reallyintelligible     to thephysiologist  untilhe
+knowsitsaim."Theeyelidclearly      is programmed   toclosebyreflex   when
+a threateningobjectordisturbance    approaches theeye.A similar  adaptive
+functionisevident fornumerous    reflexes.Otherreflexes, liketheknee-jerk
+reflexso belovedbyphysicians,    seemtobe merely    an irrelevantproperty
+ofcertain nerves,as irrelevant as theheartsoundsareforthefunctioning
+oftheheart.Itwouldbemostuseful       ifa neurophysiologist wouldsomeday
+analyzethebetter  knownreflexes    for theirpossibleadaptivesignificance.
+   The directedness   ofa teleonomic    actionis effected by a numberof
+devices-first of all, of course,by theprogram     itself;buttheprogram
+doesnotinducea simpleunfolding      ofsomecompletely    preformed  gestalt,
+foritalwayscontrols   a more  or less complex process  that must allow for
+internalandexternal   disturbances.  Teleonomic  processes  duringontoge-
+neticdevelopment,  forinstance,  areconstantly indangerofbeingderailed
+evenifonlytemporarily.    Waddington65    hasquiterightly  calledattention
+tothefrequency  andimportance     ofhomeostatic  devicesthatcorrect  such
+deviations;theyvirtually  guarantee  theappropriate  canalizationofdevel-
+opment.
+   Negativefeedbacks    playan important    rolenotonlyin development
+butalsoinmanyotherteleonomic        processes. Theyare,however,    notthe
+essenceof theteleonomic     activity. As I pointedout earlier,"thetruly
+             aspectofgoal-seeking
+characteristic                       behavior isnotthatmechanisms    exist
+whichimprove   theprecision  withwhicha goalis reached,     butrather that
+mechanisms  existwhichinitiate,  i.e.,'cause'thisgoal-seeking behavior."66
+
+                                   iii. AdaptedFeatures
+
+                       to theadaptedness
+   Featuresthatcontribute               ofan organismareinthe
+                    usuallyreferred
+            literature
+philosophical                                     or functional
+                                  to as teleological
+       Bothof thesedesignations
+systems.                        are potentially         These
+                                              misleading.
+
+   I                                    Actionof theNervousSystem(New Haven,
+                          The Integrative
+      CharlesS. Sherrington,
+1906),235.
+   65 See note41 above.
+   66
+                                   46.
+        Mayr,Towarda New Philosophy,
+
+                  This content downloaded from 128.103.149.52 on Thu, 6 Mar 2014 15:39:54 PM
+                                  All use subject to JSTOR Terms and Conditions
+Idea of Teleology                                                                                 131
+
+features are stationary systems,   and as I pointedout previously,67      the
+wordteleological  wouldnotseemto be appropriate          forphenomena    that
+do notinvolvemovements.
+    Thedesignation   teleologicalsystem   is misleading  fora secondreason.
+It wasadoptedbytheolderphilosophical        literature  undertheassumption
+thatthesefeatures   hadoriginated   through   someteleological    forceofna-
+ture.Thisassumption    waslargely   a heritage ofnaturaltheology,     withits
+beliefthattheusefulness    of each feature    had beengivenby God. The
+fallacyofthisthinking   hasbeenrefuted     particularly             byDaw-
+                                                          effectively
+kinsin his splendidbook,TheBlind Watchmaker.68             ImmanuelKant's
+interestin teleology  focussedon adaptedfeatures.        On thebasisof the
+scantknowledge   ofbiology  availableat theendoftheeighteenth         century
+he was unableto providea causal explanation.           He therefore  ascribed
+adaptedness toteleological forces bywhichhepresumably         meantthehand
+of God.69Since1859suchdefeatism          has becomeunnecessary.       Darwin
+has taughtus thatseemingly     teleological  evolutionary   changesand the
+production ofadaptedfeatures    aresimply    theresultofvariational    evolu-
+tion,theproduction   ofgreatvariation   ineverygeneration,     andtheproba-
+bilistic
+       survival ofthoseindividuals   withthetemporarily     fittest
+                                                                  phenotype.
+Adaptedness   thusis an a posteriori   resultratherthanan a priorigoal-
+seeking.Forthisreasonthewordteleological         is misleading  whenapplied
+to adaptedfeatures.
+    Norshouldtheybe calledfunctional        systems   owingto theconfusing
+dual meaning   ofthewordfunction.       Indeedmostofthosewhouse the
+terminology  functional  systems  werereferring     to thebiologicalroleof
+thesefeatures  andtheireffectiveness   in carrying   outthisrole.Proximate
+andevolutionary   causations werefrequently     confounded    in functionalist
+discussions.Munson70   andBrandon71      haveexcellently   statedthereasons
+whyan adaptationist   language, in connection    withadaptedfeatures,    and
+inconnection  withan answerto "whatfor?"questions,          is tobe preferred
+to teleologicalor functional language.
+    Oneofthecharacteristics   ofadaptedfeatures      is thattheycanperform
+teleonomic activities. Theyare,   so to  speak, executive   organsforteleo-
+nomicprograms.    I havetherefore   suggested72  thattheymight     perhaps be
+considered to be somaticprograms.
+    Morethananything    elseitis theexistence   ofadaptedfeatures     thatled
+biologiststo ask "why?"questions.     The   first
+                                                area   in biology where they
+wereusedwas in physiological     research.   WhenHarveywas askedwhat
+
+   67Ibid., 51-52.
+                                        (London, 1986).
+   68 RichardDawkins,The Blind Watchmaker
+
+                                 57-59,and see note26 above.
+   69 Mayr,Towarda New Philosophy,
+
+                                                  ofScience,38 (1971), 200-215.
+                                         Philosophy
+   70 RonaldMunson,"BiologicalAdaptation,"
+
+                                                                   Studiesin the
+   71 R. N. Brandon,"BiologicalTeleology:Questionsand Explanations,"
+
+                    ofScience,12 (1981), 91-105.
+Historyand Philosophy
+   72
+      Mayr,Towarda New Philosophy, 62-63.
+
+                     This content downloaded from 128.103.149.52 on Thu, 6 Mar 2014 15:39:54 PM
+                                     All use subject to JSTOR Terms and Conditions
+132                                                                                            ErnstMayr
+
+had inducedhimto thinkof thecirculationof blood,he answered, I
+wondered whytherewerevalvesintheveins.73
+                                      Evidentlytheypermit only
+              flowofthebloodandthis,almostautomatically,
+a one-directional                                       ledto
+an assumptionofcirculation.
+                         One physiological
+                                         discoveryafteranother
+       fromasking"why?"questions
+resulted                         concerningorganswithunknown
+         Such "why?"or "whatfor?"questionseventually
+functions.                                             became
+                in otherbranches
+equallyproductive              ofbiology,and theheuristicvalue
+ofthismethodology hasbeenbyno meansexhausted.
+
+                      3. NaturalSelection
+                                        andTeleology
+
+    AfterDarwinhad established   theprinciple  ofnaturalselection,  this
+processwas widelyinterpreted    to be teleological, bothby supporters
+and opponents. Evolution itselfwas frequently  considered a teleological
+processsinceit wouldlead to "improvement"      or "progress."74 Perhaps
+suchan interpretation    not
+                      was altogether     unreasonable in the framework
+oftheLamarckian   transformationalparadigm.  Itisnolonger  a reasonable
+viewwhenonefully   appreciatesthevariational nature ofDarwinian   evolu-
+tion,whichhas no ultimate  goaland which,so to speak,startsanewin
+everygeneration.  At besttheprocessof naturalselectionmayfitthe
+definitionof Pierce's"finious"processes;75  but considering  how often
+naturalselection leadsintofataldead endsand considering      howoften
+duringevolution  itspremium  changes,  resultingin an irregular  zig zag
+movement  oftheevolutionary  change,itwouldseemsingularly      inappro-
+priateto usethedesignation  teleological.To be sure,naturalselection   is
+an optimization process,butit hasno definite  goal,andconsidering    the
+number  ofconstraints and thefrequency    ofchanceevents,   it wouldbe
+mostmisleading  tocallitteleological.Noris anyimprovement     inadapta-
+tiona teleologicalprocess,sinceitis strictlya posthocdecisionwhether
+a givenevolutionary  changequalifiesas a contribution   to adaptedness.
+Noneoffifteen  authors contributing to a recentvolumeon naturalselec-
+tionandoptimization   duringevolution76  hasusedthetermteleological.
+    Thishastoberemembered    whenoneencounters     teleologicallanguage
+in evolutionary                 If an authorsaysspecieshaveevolved
+               interpretations.77
+   73 F. Krafft, "Die Idee der Zweckmassigkeit  in der Geschichteder Wissenschaften,"
+Berichtezur Wissenschaftsgeschichte, 5 (1982), 1-152.
+   74 FranciscoJ.Ayala,"TeleologicalExplanation    in Evolutionary
+                                                                 Biology,"Philosophy
+ofScience,37 (1970), 1-15.
+   75 See above,note31, and T. L. Short, "Teleologyin Nature,"AmericanPhilosophical
+Quarterly(1984), 311-20.
+   76 J. Dupre, (ed.), The Lateston theBest:Essayson Evolutionand Optimality  (Cam-
+bridge,Mass., 1987).
+   7" R. T. O'Grady, "Evolutionary   Theoryand Teleology,"Journalof Philosophy,  74
+(1984), 261-301.
+
+                  This content downloaded from 128.103.149.52 on Thu, 6 Mar 2014 15:39:54 PM
+                                  All use subject to JSTOR Terms and Conditions
+Idea of Teleology                                                                             133
+
+isolating
+        mechanisms   inordertoprotect             integrity,
+                                       theirgenetic         itsimply
+meansthatindividuals   avoidinghybridization withindividuals ofother
+specieshad greaterreproductive  successthanthosewhichhybridized.
+Therefore, a geneticpredispositionnotto hybridize was rewarded  with
+reproductive          Naturalselection
+             success.78               dealswiththeproperties  ofindi-
+vidualsofa givengeneration;itsimply doesnothaveanylongrangegoal,
+eventhough  thismayseemso whenonelooksbackward      overa longseries
+ofgenerations.Alas,someauthors  eveninthemostrecent   literatureseem
+toendowevolution  witha teleologicalcapacity.As recentlyas 1985J.H.
+Campbellsaid "It becomesincreasingly    evidentthatorganisms   evolve
+specialstructuresto promote  theircapacitiesto evolve,and thatthese
+structuresenormously  expandthescopeoftheevolutionary  process. Nev-
+         function
+ertheless,       isfundamentally a teleological
+                                             concept,especially when
+appliedto theevolutionary process."79As Munson80  has rightlypointed
+out,sucha dubioususeofthewordteleological    caneasilybe avoidedby
+usingadaptationistlanguage.
+
+                                  4. CosmicTeleology
+
+    Priorto thenineteenthcenturythebeliefwas almostuniversal   that
+changeintheworldwasduetoaninnerforceortendency      toward progress
+andever-greater                               Glacken,82
+                        (seeabove).Gillispie,81
+               perfection                               and183 have
+describedtheimmense  powerofthisideology.  As lateas 1876K. E. von
+Baermadea passionate pleafortherecognitionoffinalism togivepleasure
+to thosepeople"whoconsidertheworldand particularly      theorganic
+worldas theresultofa developmentwhichtendstowardhigher    goalsand
+is guidedbyreason."84The most determined opponents  ofnatural selec-
+tionwereteleologists,            theories
+                    andteleological       ofevolution (orthogenesis,
+etc.) continuedto be dominant untilthe beginning   of the twentieth
+century.85
+   Whenit was beingrealizedthattheworldwas neither
+                                                 recentnor
+
+   78 Mayr, Towarda New Philosophy.
+
+   79 J.Campbell,"An Organizational              ofEvolution,"in D. Depew and B.
+                                    Interpretation
+H. Weber(eds.), Evolutionat a Crossroads(Cambridge,Mass., 1985).
+   80
+      See note71 above.
+   81
+      CharlesC. Gillispie,Genesisand Geology(New York, 1951).
+   82
+      ClarenceJ. Glacken,Traceson theRhodianShore.Natureand Culturein Western
+Thought fromAncientTimesto theEnd of theEighteenth   Century(Berkeley,1967).
+   83 See note2 above.
+   84
+      Karl ErnstvonBaer,Studienaus derGeschichte                  (St. Peters-
+                                               derNaturwissenschaften
+burg,1876),240.
+   85 VernonL. Kellogg,DarwinismToday (New York, 1907), and see notes2 and 6
+
+above.
+
+                 This content downloaded from 128.103.149.52 on Thu, 6 Mar 2014 15:39:54 PM
+                                 All use subject to JSTOR Terms and Conditions
+134                                                                                         ErnstMayr
+
+constant, threecategories   ofexplanations forseemingly           changes
+                                                         finalistic
+wereadvanced:
+    1. Thesechangesare due to theactionof an evolutionary         planner
+(theisticexplanation).
+    2. Thesechangesare guidedby a built-inprogram,           analogousto
+a teleonomic   programin the genotype      of an individual(orthogenetic
+explanations). Muchofthepost-Darwinian       researchresulted inproviding
+evidence thatsucha cosmicprogram      doesnotexist, andthattheirregular-
+itiesofcosmicevolution     arefartoogreatto be reconciled   withtheexis-
+tenceof a program.     Indeedby the*   timeof theevolutionary    synthesis
+(1930s-40s) all support   fororthogenetic theories haddisappeared.
+    3. Thereis no cosmicteleology,    thereis no trendtowardprogress   or
+perfection.Whatever    changesinthekosmosareobserved      inthecourseof
+theworld'shistory,   aretheresultoftheactionofnatural     laws.Thisthird
+explanation  fitstheobserved   factsso wellthatitmakesitunnecessary    to
+invokeexplanations    1 or 2.
+    The recognition   thatthreeseemingly    teleologicalprocesses,thatis,
+teleonomic  processes, teleomatic processes,andtheachievement    ofadapt-
+ednessbynatural    selection,arestrictlymaterial phenomena,   hasdeprived
+teleology ofitsformer  mystery  andsupernatural  overtones.Thereisadapt-
+edness(Kant'sZweckmassigkeit)     in livingnature but Darwin  showedthat
+its origincouldbe explainedmaterialistically.      Even thoughthereare
+indeedmanyorganic     processes andactivitiesthatareclearly goal-directed,
+thereis noneedtoinvolve     supernatural forces,becausethegoalis already
+codedin theprogram        whichdirectstheseactivities.   Such teleonomic
+processes can,inprinciple,  bereduced  tochemico-physical  causes.Finally,
+thereare all theend-achieving     processesin inorganic   naturethatare
+simply duetotheoperation      ofsuchnaturallawsas gravity   orthelawsof
+thermodynamics.     None of the threerecognized     teleologicalprocesses
+workbackwards     from  a futuregoal,thereis nobackwards   causation.This
+refutes theformerly   frequently madeclaimofa conflict     between causal
+andteleological  explanations. Sucha claimmight    be trueifcosmicteleol-
+ogyexisted,  butitis invalidforthethreekindsofteleology     nowaccepted
+byscience.
+    The removal   ofthementioned    threematerial  processes fromthefor-
+merlyso heterogeneous     category "teleological" leavesno residue.It has
+revealed thenonexistence    ofcosmicteleology,  leftafterthethreemateri-
+allyexplained  categories  of"teleological" beenremoved.
+                                            have
+    Therefutation   ofcosmicteleology   leavesus withoneunsolved    prob-
+lem:howcan oneexplaintheseemingly         upwardtrendin organicevolu-
+tion?Authorafter    authorhasreferred   totheprogression  fromthelowest
+prokaryotes  (bacteria) tothenucleated  eukaryotes, themetazoans,  warm-
+bloodedmammalsand birds,and finally         manwithhiselaboratebrain,
+speech,andculture.   Thedefenders   oforthogenesis  nevertiredofclaiming
+thatthiswasirrefutable    evidenceforsomeintrinsic  powerinlivingnature
+
+               This content downloaded from 128.103.149.52 on Thu, 6 Mar 2014 15:39:54 PM
+                               All use subject to JSTOR Terms and Conditions
+Idea of Teleology                                                                          135
+
+towardprogress, ifnotevento an ultimate goal.Again,it was Darwin
+whoshowedthatsuchan assumption    was notinevitable. The processof
+                actingineverypopulation,
+naturalselection,                       generation forgeneration,is
+indeeda mechanism   thatwouldfavorthe riseof everbetteradapted
+       itwouldfavortheinvasion
+species,                       ofnewnichesandadaptive   zones,and
+as theend-resultofcompetition ofspeciesfavordevelopments  thatare
+bestdescribedas advancedtypes.Descriptively                  as to
+                                           thereis no question
+whathas happenedduringthe diversestepsfromthe mostprimitive
+bacteriatoman.Whether               torefer
+                       oneisjustified                       is still
+                                            tothisas progress
+            Thatmuchisclear,however,
+controversial.                         thatnatural        provides
+                                                  selection
+            explanation
+a satisfactory          forthecourseoforganicevolution  andmakes
+an invokingofsupernatural           forcesunnecessary.
+                          teleological
+
+                    Zoology,HarvardUniversity.
+   MuseumofComparative
+
+              This content downloaded from 128.103.149.52 on Thu, 6 Mar 2014 15:39:54 PM
+                              All use subject to JSTOR Terms and Conditions
+

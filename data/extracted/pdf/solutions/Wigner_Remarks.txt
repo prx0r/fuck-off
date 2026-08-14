@@ -1,0 +1,598 @@
+                                       13
+     Remarks on the Mind-Body Question
+
+
+
+                           Introductory Comments
+   F. Dyson, in a very thoughtful article, 1 points to the everbroadening
+scope of scientific inquiry. Whether or not the relation of mind to body
+will enter the realm of scientific inquiry in the near future—and the
+present writer is prepared to admit that this is an open question—it seems
+worthwhile to summarize the views to which a dispassionate contempla-
+tion of the most obvious facts leads. The present writer has no other
+qualification to offer his views than has any other physicist and he be-
+lieves that most of his colleagues would present similar opinions on the
+subject, if pressed.
+   Until not many years ago, the "existence" of a mind or soul would have
+been passionately denied by most physical scientists. The brilliant suc-
+cesses of mechanistic and, more generally, macroscopic physics and of
+chemistry overshadowed the obvious fact that thoughts, desires, and
+emotions are not made of matter, and it was nearly universally accepted
+among physical scientists that there is nothing besides matter. The epi-
+tome of this belief was the conviction that, if we knew the positions and
+velocities of all atoms at one instant of time, we could compute the fate
+of the universe for all future. Even today, there are adherents to this
+    Reprinted by permission from The Scientist Speculates, I. J. Good, ed. (London:
+William Heinemann, Ltd., 1961;'New York: Basic Books, Inc., 1962).
+    1
+      F. J. Dyson, Scientific American, 199, 74 (1958). Several cases are related in
+this article in which regions of inquiry, which were long considered to be outside
+the province of science, were drawn into this province and, in fact, became focuses
+of attention. The best-known example is the interior of the atom, which was consid-
+ered to be a metaphysical subject before Rutherford's proposal of his nuclear model,
+in 1911.
+
+                                        171
+172                        Symmetries and Reflections
+
+view2 though fewer among the physicists than — ironically enough —
+among biochemists.
+   There are several reasons for the return, on the part of most physical
+scientists, to the spirit of Descartes's "Cogito ergo sum," which recognizes
+the thought, that is, the mind, as primary. First, the brilliant successes of
+mechanics not only faded into the past; they were also recognised as
+partial successes, relating to a narrow range of phenomena, all in the
+macroscopic domain. When the province of physical theory was ex-
+tended to encompass microscopic phenomena, through the creation of
+quantum mechanics, the concept of consciousness came to the fore
+again: it was not possible to formulate the laws of quantum mechanics
+in a fully consistent way without reference to the consciousness.3 All
+that quantum mechanics purports to provide are probability connections
+between subsequent impressions (also called "apperceptions") of the
+consciousness, and even though the dividing line between the observer,
+whose consciousness is being affected, and the observed physical object
+can be shifted towards the one or the other to a considerable degree, 4
+it cannot be eliminated. It may be premature to believe that the present
+philosophy of quantum mechanics will remain a permanent feature of
+future physical theories; it will remain remarkable, in whatever way
+our future concepts may develop, that the very study of the external
+world led to the conclusion that the content of the consciousness is an
+ ultimate reality.
+  It is perhaps important to point out at this juncture that the question
+concerning the existence of almost anything (even the whole external
+world) is not a very relevant question. All of us recognize at once how
+meaningless the query concerning the existence of the electric field in
+vacuum would be. All that is relevant is that the concept of the electric
+    2
+       The book most commonly blamed for this view is E. F. Haeckel's Weltratsel
+( 1 8 9 9 ) . However, the views propounded in this book are less extreme (though
+more confused) than those of the usual materialistic philosophy.
+     3
+       W. Heisenberg expressed this most poignantly [Daedalus, 87, 99 (1958) ]: "The
+laws of nature which we formulate mathematical!)' in quantum theory deal no longer
+with the particles themselves but with our knowledge of the elementary particles."
+And later: "The conception of objective reality . . . evaporated into the . . . mathe-
+matics that represents no longer the behavior of elementary particles but rather
+our knowledge of this behavior." The "our" in this sentence refers to the observer
+who plays a singular role in the epistemology of quantum mechanics. He will be
+referred to in the first person and statements made in the first person will always
+refer to the observer.
+    4
+       J. von Neumann, Mathematische Grundlagen der Quantenmechanik            (Berlin:
+Julius Springer, 1932), Chapter VI; English translation (Princeton, N.J.: Princeton
+University Press, 1955).
+                     Remarks on the Mind-Body Question                             173
+
+field is useful for communicating our ideas and for our own thinking.
+The statement that it "exists" means only that: (a) it can be measured,
+hence uniquely defined, and (o) that its knowledge is useful for under-
+standing past phenomena and in helping to foresee further events. It can
+be made part of the Weltbild. This observation may well be kept in
+mind during the ensuing discussion of the quantum mechanical descrip-
+tion of the external world.
+
+
+                    The Language of Quantum Mechanics
+
+   The present and the next sections try to describe the concepts in
+terms of which quantum mechanics teaches us to store and commu-
+nicate information, to describe the regularities found in nature. These
+concepts may be called the language of quantum mechanics. We shall
+not be interested in the regularities themselves, that is, the contents
+of the book of quantum mechanics, only in the language. It may be that
+the following description of the language will prove too brief and too
+abstract for those who are unfamiliar with the subject, and too tedious
+for those who are familiar with it.5 It should, nevertheless, be helpful.
+ However, the knowledge of the present and of the succeeding section is
+not necessary for following the later ones, except for parts of the section
+on the Simplest Answer to the Mind-Body Question.
+   Given any object, all the possible knowledge concerning that object
+can be given as its wave function. This is a mathematical concept the
+exact nature of which need not concern us here—it is composed of a
+(countable) infinity of numbers. If one knows these numbers, one can
+foresee the behavior of the object as far as it can be foreseen. More pre-
+cisely, the wave function permits one to foretell with what probabilities
+ the object will make one or another impression on us if we let it interact
+with us either directly, or indirectly. The object may be a radiation field,
+and its wave function will tell us with what probability we shall see a
+    5
+      The contents of this section should be part of the standard material in courses
+on quantum mechanics. They are given here because it may be helpful to recall
+them even on the part of those who were at one time already familiar with them, be-
+cause it is not expected that every reader of these lines had the benefit of a course in
+quantum mechanics, and because the writer is well aware of the fact that most
+courses in quantum mechanics do not take up the subject here discussed. See also,
+in addition to references 3 and 4, W. Pauli, Handbuch der Physik, Section 2.9,
+particularly page 148 (Berlin: Julius Springer, 1933). Also F. London and E. Bauer,
+La Theorie de I'observation en mecanique quantique (Paris: Hermann and Co.,
+1939). The last authors observe (page 4 1 ) , "Remarquons le role essential que joue
+la conscience de 1'observateur. . . ."
+174                     Symmetries and Reflections
+
+ flash if we put our eyes at certain points, with what probability it will
+leave a dark spot on a photographic plate if this is placed at certain
+positions. In many cases the probability for one definite sensation will be
+ so high that it amounts to a certainty—this is always so if classical me-
+ chanics provides a close enough approximation to the quantum laws.
+    The information given by the wave function is communicable. If
+someone else somehow determines the wave function of a system, he
+can tell me about it and, according to the theory, the probabilities for
+the possible different impressions (or "sensations") will be equally large,
+no matter whether he or I interact with the system in a given fashion.
+In this sense, the wave function "exists."
+    It has been mentioned before that even the complete knowledge of
+the wave function does not permit one always to foresee with certainty
+the sensations one may receive by interacting with a system. In some
+cases, one event (seeing a flash) is just as likely as another (not seeing
+a flash). However, in most cases the impression (e.g., the knowledge of
+having or not having seen a flash) obtained in this way permits one to
+foresee later impressions with an increased certainty. Thus, one may be
+sure that, if one does not see a flash if one looks in one direction, one
+surely does see a flash if one subsequently looks in another direction.
+The property of observations to increase our ability for foreseeing the
+future follows from the fact that all knowledge of wave functions is
+based, in the last analysis, on the "impressions" we receive. In fact, the
+wave function is only a suitable language for describing the body of
+knowledge—gained by observations—which is relevant for predicting
+the future behaviour of the system. For this reason, the interactions
+which may create one or another sensation in us are also called observa-
+tions, or measurements. One realises that all the information which the
+laws of physics provide consists of probability connections between sub-
+sequent impressions that a system makes on one if one interacts with
+it repeatedly, i.e., if one makes repeated measurements on it. The wave
+function is a convenient summary of that part of the past impressions
+which remains relevant for the probabilities of receiving the different
+possible impressions when interacting with the system at later times.
+
+                               An Example
+  It may be worthwhile to illustrate the point of the preceding section
+on a schematic example. Suppose that all our interactions with the sys-
+tem consist in looking at a certain point in a certain direction at times
+                   Remarks on the Mind-Body Question                       175
+
+: . to + 1, r0 + 2, • • • , and our possible sensations are seeing or not seeing
+a flash. The relevant law of nature could then be of the form: "If you
+see a flash at time t, you will see a flash at time t + 1 with a probability
+ l
+   /4, no flash with a probability %; if you see no flash, then the next
+observation will give a flash with the probability %, no flash with a
+probability *4; there are no further probability connections." Clearly,
+this law can be verified or refuted with arbitrary accuracy by a suffi-
+ciently long series of observations. The wave function in such a case de-
+pends only on the last observation and may be i//t if a flash has been seen
+at the last interaction, ^ 2 if no flash was noted. In the former case, that
+is for i/n, a calculation of the probabilities of flash and no flash after
+unit time interval gives the values % and %; for i//2 these probabilities
+must turn out to be % and %. This agreement of the predictions of the
+law in quotation marks with the law obtained through the use of the
+wave function is not surprising. One can either say that the wave func-
+tion was invented to yield the proper probabilities, or that the law given
+in quotation marks has been obtained by having carried out a calcula-
+tion with the wave functions, the use of which we have learned from
+Schrodinger.
+   The communicability of the information means, in the present exam-
+ple, that if someone else looks at time t, and tells us whether he saw a
+flash, we can look at time t + 1 and observe a flash with the same prob-
+abilities as if we had seen or not seen the flash at time t ourselves. In
+other words, he can tell us what the wave function is: i/o if he did, i/^ if
+he did not see a flash.
+   The preceding example is a very simple one. In general, there are
+many types of interactions into which one can enter with the system,
+leading to different types of observations or measurements. Also, the
+probabilities of the various possible impressions gained at the next
+interaction may depend not only on the last, but on the results of many
+prior observations. The important point is that the impression which
+one gains at an interaction may, and in general does, modify the prob-
+abilities with which one gains the various possible impressions at later
+interactions. In other words, the impression which one gains at an inter-
+action, called also the result of an observation, modifies the wave func-
+tion of the system. The modified wave function is, furthermore, in gen-
+eral unpredictable before the impression gained at the interaction has
+entered our consciousness: it is the entering of an impression into our
+consciousness which alters the wave function because it modifies our
+176                        Symmetries and Reflections
+
+ appraisal of the probabilities for different impressions which we expect
+ to receive in the future. It is at this point that the consciousness enters
+the theory unavoidably and unalterably. If one speaks in terms of the
+ wave function, its changes are coupled with the entering of impressions
+ into our consciousness. If one formulates the laws of quantum mechanics
+ in terms of probabilities of impressions, these are ipso facto the primary
+ concepts with which one deals.
+    It is natural to inquire about the situation if one does not make the
+ observation oneself but lets someone else carry it out. What is the wave
+ function if my friend looked at the place where the flash might show
+ at time t? The answer is that the information available about the object
+ cannot be described by a wave function. One could attribute a wave
+function to the joint system: friend plus object, and this joint system
+would have a wave function also after the interaction, that is, after my
+ friend has looked. I can then enter into interaction with this joint system
+by asking my friend whether he saw a flash. If his answer gives me
+ the impression that he did, the joint wave function of friend + object
+ will change into one in which they even have separate wave functions
+ (the total wave function is a product) and the wave function of the
+object is ipi. If he says no, the wave function of the object is </% i.e., the
+ object behaves from then on as if I had observed it and had seen no
+ flash. However, even in this case, in which the observation was carried
+ out by someone else, the typical change in the wave function occurred
+only when some information (the yes or no of my friend) entered my
+ consciousness. It follows that the quantum description of objects is
+ influenced by impressions entering my consciousness.6 Solipsism may
+be logically consistent with present quantum mechanics, monism in
+the sense of materialism is not. The case against solipsism was given at
+the end of the first section.
+
+                          The Reasons for Materialism
+  The principal argument against materialism is not that illustrated in
+the last two sections: that it is incompatible with quantum theory. The
+    6
+      The essential point is not that the states of objects cannot be described by means
+of position and momentum co-ordinates (because of the uncertainty principle).
+The point is, rather, that the valid description, by means of the wave function, is
+influenced by impressions entering our consciousness. See in this connection the re-
+mark of London and Bauer, quoted above, and S. Watanabe's article in Louis de
+Broglie, Physicien et Penseur (Paris: Albin Michel, 1952), p. 385.
+                    Remarks on the Mind-Body Question                          177
+
+principal argument is that thought processes and consciousness are the
+primary concepts, that our knowledge of the external world is the con-
+tent of our consciousness and that the consciousness, therefore, cannot
+be denied. On the contrary, logically, the external world could be
+denied—though it is not very practical to do so. In the words of Niels
+Bohr,7 "The word consciousness, applied to ourselves as well as to others,
+is indispensable when dealing with the human situation." In view of
+all this, one may well wonder how materialism, the doctrine 8 that "life
+could be explained by sophisticated combinations of physical and chem-
+ical laws," could so long be accepted by the majority of scientists.
+   The reason is probably that it is an emotional necessity to exalt the
+problem to which one wants to devote a lifetime. If one admitted any-
+thing like the statement that the laws we study in physics and chemistry
+are limiting laws, similar to the laws of mechanics which exclude the
+consideration of electric phenomena, or the laws of macroscopic physics
+which exclude the consideration of "atoms," we could not devote our-
+selves to our study as wholeheartedly as we have to in order to recognise
+any new regularity in nature. The regularity which we are trying to
+track down must appear as the all-important regularity—if we are to pur-
+sue it with sufficient devotion to be successful. Atoms were also con-
+sidered to be an unnecessary figment before macroscopic physics was
+essentially complete—and one can well imagine a master, even a great
+master, of mechanics to say: "Light may exist but I do not need it in
+order to explain the phenomena in which I am interested." The present
+biologist uses the same words about mind and consciousness; he uses
+them as an expression of his disbelief in these concepts. Philosophers
+do not need these illusions and show much more clarity on the subject.
+The same is true of most truly great natural scientists, at least in their
+years of maturity. It is now true of almost all physicists—possibly, but
+not surely, because of the lesson we learned from quantum mechanics.
+It is also possible that we learned that the principal problem is no longer
+the fight with the adversities of nature but the difficulty of understand-
+ing ourselves if we want to survive.
+    7
+      N. Bohr, Atomic Physics and Human Knowledge, section on "Atoms and Hu-
+man Knowledge," in particular p. 92 ( New York: John Wiley & Sons, 1960).
+    8
+      The quotation is from William S. Beck, The Riddle, of Life, Essay in Adven-
+tures of the Mind (New York: Alfred A. Knopf, I 9 6 0 ) , p. 35. This article is an
+eloquent statement of the attitude of the open-minded biologists toward the ques-
+tions discussed in the present note.
+178                        Symmetries and Reflections
+
+                Simplest Answer to the Mind-Body Question
+
+    Let us first specify the question which is outside the province of
+physics and chemistry but is an obviously meaningful (because opera-
+tionally defined) question: Given the most complete description of my
+body (admitting that the concepts used in this description change as
+physics develops), what are my sensations? Or, perhaps, with what
+probability will I have one of the several possible sensations? This is
+clearly a valid and important question which refers to a concept—sensa-
+tions—which does not exist in present-day physics or chemistry. Whether
+the question will eventually become a problem of physics or psychol-
+ogy, or another science, will depend on the development of these
+disciplines.
+    Naturally, I have direct knowledge only of my own sensations and
+there is no strict logical reason to believe that others have similar expe-
+riences. However, everybody believes that the phenomenon of sensa-
+ tions is widely shared by organisms which we consider to be living. It is
+very likely that, if certain physico-chemical conditions are satisfied, a
+consciousness, that is, the property of having sensations, arises. This
+statement will be referred to as our first thesis. The sensations will be
+simple and undifferentiated if the physico-chemical substrate is simple;
+it will have the miraculous variety and colour which the poets try to
+describe if the substrate is as complex and well organized as a human
+body.
+    The physico-chemical conditions and properties of the substrate not
+only create the consciousness, they also influence its sensations most
+profoundly. Does, conversely, the consciousness influence the physico-
+ chemical conditions? In other words, does the human body deviate from
+the laws of physics, as gleaned from the study of inanimate nature? The
+traditional answer to this question is, "No": the body influences the
+ mind but the mind does not influence the body. 9 Yet at least two reasons
+ can be given to support the opposite thesis, which will be referred to
+ as the second thesis.
+    The first and, to this writer, less cogent reason is founded on the
+    9
+      This writer does not profess to a knowledge of all, or even of the majority of all,
+metaphysical theories. It may be significant, nevertheless, that he never found an
+affirmative answer to the query of the text—not even after having perused the rele-
+vant articles in the earlier (more thorough) editions of the Encyclopaedia        Britan-
+nica.
+                     Remarks on the Mind-Body Question                         179
+
+quantum theory of measurements, described earlier in sections 2 and 3.
+In order to present this argument, it is necessary to follow my descrip-
+tion of the observation of a "friend" in somewhat more detail than was
+done in the example discussed before. Let us assume again that the ob-
+ject has only two states, i/n and uV2. If the state is, originally, i/u, the state
+of object plus observer will be, after the interaction, ij/1 X X i; if the state
+of the object is i/»2, the state of object plus observer will be <p2 X A2 after
+the interaction. The wave functions xi and X-' g l v e t n e state of the ob-
+server; in the first case he is in a state which responds to the question
+"Have you seen a flash?" with "Yes"; in the second state, with "No."
+There is nothing absurd in this so far.
+    Let us consider now an initial state of the object which is a linear
+combination a \f/1 + B <L> of the two states i/n and i/»2. It then folloivs from
+the linear nature of the quantum mechanical equations of motion that
+the state of object plus observer is, after the interaction, a (aq X Xi) + B
+(i//2 X X2 ). If I now ask the observer whether he saw a flash, he will with
+a probability | a [2 say that he did, and in this case the object will also
+give to me the responses as if it were in the state t/n. If the observer
+answers "No"—the probability for this is \B\2—the object's responses from
+then on will correspond to a wave function ov2. The probability is zero
+that the observer will say "Yes," but the object gives the response which
+i//2 would give because the wave function a (uVj X Xl ) + B (\p<> X x2) of the
+joint system has no (</*,, X xi) component. Similarly, if the observer denies
+having seen a flash, the behavior of the object cannot correspond to x1
+because the joint wave function has no (i/n X x.,) component. All this is
+quite satisfactory: the theory of measurement, direct or indirect, is
+logically consistent so long as I maintain my privileged position as ulti-
+mate observer.
+    However, if after having completed the whole experiment I ask my
+friend, "What did you feel about the flash before I asked you?" he will
+answer, "I told you already, I did [did not] see a flash," as the case may
+be. In other words, the question whether he did or did not see the
+flash was already decided in his mind, before I asked him.10 If we
+accept this, we are driven to the conclusion that the proper wave func-
+
+   10
+      F. London and E. Bauer (op. cit., reference 5) on page 42 say, "II [l'observa-
+teur] dispose d'une faculte caracteristique et bien familiere, que nous pouvons ap-
+peler la 'faculte d'introspection': il peut se rendre compte de maniere immediate de
+son propre etat."
+180                         Symmetries and Reflections
+
+tion immediately after the interaction of friend and object was already
+either yq X X l or yq X x2 a n ( i not the linear combination a (yq X Xl ) + B
+('/'2 X X2/- This is a contradiction, because the state described by the wave
+function a (yi X Xi) + B (y2 X x2) describes a state that has properties
+which neither yh X A i nor y2 X X2 has. If we substitute for "friend" some
+simple physical apparatus, such as an atom which may or may not be
+excited by the light-flash, this difference has observable effects and
+there is no doubt that a (yj X Ai) + /3 (^2 X X2) describes the properties
+of the joint system correctly, the assumption that the wave function is
+either </u X Xi or y2 X ^2 does not. If the atom is replaced by a conscious
+being, the wave function a (yu X Xi) + 8 (^2 X ^2) (which also follows
+from the linearity of the equations) appears absurd because it implies
+that my friend was in a state of suspended animation before he answered
+my question. 11
+     It follows that the being with a consciousness must have a different
+role in quantum mechanics than the inanimate measuring device: the
+atom considered above. In particular, the quantum mechanical equa-
+tions of motion cannot be linear if the preceding argument is accepted.
+This argument implies that "my friend" has the same types of impres-
+sions and sensations as I—in particular, that, after interacting with the
+object, he is not in that state of suspended animation which corresponds
+to the wave function a (yq X Ai) + ft (^2 X X2). It is not necessary to see
+a contradiction here from the point of view of orthodox quantum me-
+chanics, and there is none if we believe that the alternative is meaning-
+less, whether my friend's consciousness contains either the impression
+of having seen a flash or of not having seen a flash. However, to deny
+the existence of the consciousness of a friend to this extent is surely an
+   11
+      In an article which will appear soon [Werner Heisenberg und die Physik
+unserer Zeit (Braunschweig: Friedr. Vieweg, 1961)] G. Ludwig discusses the
+theory of measurements and arrives at the conclusion that quantum mechanical
+theory cannot have unlimited validity (see, in particular, Section Ilia, also V e ) .
+This conclusion is in agreement with the point of view here represented. However,
+Ludwig believes that quantum mechanics is valid only in the limiting case of micro-
+scopic systems, whereas the view here represented assumes it to be valid for all in-
+animate objects. At present, there is no clear evidence that quantum mechanics be-
+comes increasingly inaccurate as the size of the system increases, and the dividing line
+between microscopic and macroscopic systems is surely not very sharp. Thus, the
+human eye can perceive as few as three quanta, and the properties of macroscopic
+crystals are grossly affected by a single dislocation. For these reasons, the present
+writer prefers the point of view represented in the text even though he does not
+wish to deny the possibility that Ludwig's more narrow limitation of quantum me-
+chanics may be justified ultimately.
+                  Remarks on the Mind-Body Question                    181
+
+^r.natural attitude, approaching solipsism, and few people, in their
+ -carts, will go along with it.
+     The preceding argument for the difference in the roles of inanimate
+       rvation tools and observers with a consciousness—hence for a viola-
+  •. an of physical laws where consciousness plays a role—is entirely cogent
+- :• long as one accepts the tenets of orthodox quantum mechanics in all
+their consequences. Its weakness for providing a specific effect of the
+consciousness on matter lies in its total reliance on these tenets—a reli-
+        which would be, on the basis of our experiences with the ephemeral
+nature of physical theories, difficult to justify fully.
+     The second argument to support the existence of an influence of the
+consciousness on the physical world is based on the observation that we
+do not know of any phenomenon in which one subject is influenced by
+another without exerting an influence thereupon. This appears convinc-
+ing to this writer. It is true that under the usual conditions of experi-
+mental physics or biology, the influence of any consciousness is certainly
+verv small. "We do not need the assumption that there is such an effect."
+It is good to recall, however, that the same may be said of the relation
+of light to mechanical objects. Mechanical objects influence light—other-
+wise we could not see them—but experiments to demonstrate the effect
+of light on the motion of mechanical bodies are difficult. It is unlikely
+that the effect would have been detected had theoretical considerations
+not suggested its existence, and its manifestation in the phenomenon
+of light pressure.
+
+
+                        More Difficult Questions
+
+   Even if the two theses of the preceding section are accepted, very
+little is gained for science as we understand science: as a correlation of
+a body of phenomena. Actually, the two theses in question are more
+similar to existence theorems of mathematics than to methods of con-
+struction of solutions and we cannot help but feel somewhat helpless
+as we ask the much more difficult question: how could the two theses
+be verified experimentally? i.e., how could a body of phenomena be built
+around them. It seems that there is no solid guide to help in answering
+this question and one either has to admit to full ignorance or to engage
+in speculations.
+   Before turning to the question of the preceding paragraph, let us note
+182                     Symmetries and Reflections
+
+in which way the consciousnesses are related to each other and to the
+physical world. The relations in question again show a remarkable sim-
+ilarity to the relation of light quanta to each other and to the material
+bodies with which mechanics deals. Light quanta do not influence each
+other directly12 but only by influencing material bodies which then in-
+fluence other light quanta. Even in this indirect way, their interaction is
+appreciable only under exceptional circumstances. Similarly, conscious-
+nesses never seem to interact with each other directly but only via the
+physical world. Hence, any knowledge about the consciousness of an-
+other being must be mediated by the physical world.
+    At this point, however, the analogy stops. Light quanta can interact
+directly with virtually any material object but each consciousness is
+uniquely related to some physico-chemical structure through which
+alone it receives impressions. There is, apparently, a correlation between
+each consciousness and the physico-chemical structure of which it is a
+captive, which has no analogue in the inanimate world. Evidently, there
+are enormous gradations between consciousnesses, depending on the
+elaborate or primitive nature of the structure on which they can lean:
+the sets of impressions which an ant or a microscopic animal or a plant
+ receives surely show much less variety than the sets of impressions which
+man can receive. However, we can, at present, at best, guess at these
+impressions. Even our knowledge of the consciousness of other men is
+derived only through analogy and some innate knowledge which is
+hardly extended to other species.
+    It follows that there are only two avenues through which experimenta-
+ tion can proceed to obtain information about our first thesis: observation
+ of infants where we may be able to sense the progress of the awakening
+ of consciousness, and by discovering phenomena postulated by the sec-
+ ond thesis, in which the consciousness modifies the usual laws of physics.
+The first type of observation is constantly carried out by millions of
+families, but perhaps with too little purposefulness. Only very crude
+ observations of the second type have been undertaken in the past, and
+ all these antedate modern experimental methods. So far as it is known,
+ all of them have been unsuccessful. However, every phenomenon is
+ unexpected and most unlikely until it has been discovered—and some of
+them remain unreasonable for a long time after they have been dis-
+covered. Hence, lack of success in the past need not discourage.
+   12
+      This statement is certainly true in an approximation which is much better
+than is necessary for our purposes.
+                      Remarks on the Mind-Body Question                              183
+
+               Non-linearity of Equations as Indication of Life
+
+    The preceding section gave two proofs—they might better be called
+indications—for the second thesis, the effect of consciousness on physical
+phenomena. The first of these was directly connected with an actual
+process, the quantum mechanical observation, and indicated that the
+usual description of an indirect observation is probably incorrect if
+the primary observation is made by a being with consciousness. It
+may be worthwhile to show a way out of the difficulty which we
+encountered.
+    The simplest way out of the difficulty is to accept the conclusion
+which forced itself on us: to assume that the joint system of friend plus
+object cannot be described by a wave function after the interaction—the
+proper description of their state is a mixture. 18 The wave function is
+ (</r x xi) with a probability | a | 2 ; it is (\j/2 X A2) with a probability | B | 2 . It
+was pointed out already by Bohm 14 that, if the system is sufficiently
+complicated, it may be in practice impossible to ascertain a difference
+between certain mixtures, and some pure states (states which can be
+described by a wave function). In order to exhibit the difference, one
+would have to subject the system (friend plus object) to very compli-
+cated observations which cannot be carried out in practice. This is in
+contrast to the case in which the flash or the absence of a flash is reg-
+istered by an atom, the state of which I can obtain precisely by much
+simpler observations. This way out of the difficulty amounts to the
+postulate that the equations of motion of quantum mechanics cease to
+be linear, in fact that they are grossly non-linear if conscious beings enter
+the picture. 15 We saw that the linearity condition led uniquely to the
+   13
+      The concept of the mixture was put forward first by L. Landau, Z. Physik, 45,
+430 (1927). A more elaborate discussion is found in J. von Neumann's book (foot-
+note 4 ) , Chapter IV. A more concise and elementary discussion of the concept of
+mixture and its characterisation by a statistical (density) matrix is given in L. Lan-
+dau and E. Lifshitz, Quantum Mechanics (London: Pergamon Press, 1958), pp.
+35-38.
+   14
+      The circumstance that the mixture of the states (i/q X Xi) a n d (vAr X X2)'
+with weights | a | 2 and | /3 | 2 , respectively, cannot be distinguished in practice from
+the state a(\f/l X Xi) + rHu/2 X X2)» if t r i e states X are of great complexity, has
+been pointed out already in Section 22.11 of D. Bohm's Quantum Theory (New
+York: Prentice Hall, 1951). The reader will also be interested in Sections 8.27, 8.28
+of this treatise.
+   15
+      The non-linearity is of a different nature from that postulated by W. Heisen-
+berg in his theory of elementary particles [cf., e.g., H. P. Diirr, W. Heisenberg,
+H. Mitter, S. Schlieder, K. Yamazaki, Z. Naturforsch., 14, 441 ( 1 9 5 4 ) ] . In our case
+the equations giving the time variation of the state vector (wave function) are
+postulated to be non-linear.
+184                      Symmetries and Reflections
+
+unacceptable wave function a ( ^ X X] ) + B (^2 x x2) r o r t n e j 0 m t stafe-
+Actually, in the present case, the final state is uncertain even in the sense
+that it cannot be described by a wave function. The statistical element
+which, according to the orthodox theory, enters only if I make an obser-
+vation enters equally if my friend does.
+   It remains remarkable that there is a continuous transition from the
+state a(i/u X Al ) + B(\p2 X x 2 ) t o the mixture of i/u X Xl and ih> X A „ with
+probabilities jal 2 and 1/3 J2, so that every member of the continuous
+transition has all the statistical properties demanded by the theory of
+measurements. Each member of the transition, except that which cor-
+responds to orthodox quantum mechanics, is a mixture, and must be
+described by a statistical matrix. The statistical matrix of the system
+friend-plus-object is, after their having interacted (| a I2 + I /312 = 1),
+
+                                              aB' cos 8
+                        a*/3 cos 8                  I/?! 2
+in which the first row and column corresponds to the wave function
+•Ai x Xi> the second to y2 X        The 8 = 0 case corresponds to orthodox
+                                x2
+quantum mechanics; in this case the statistical matrix is singular and
+the state of friend-plus-object can be described by a wave function,
+namely, a(\fii X Ai) + B(\fl2 X A2 ). For 8 = %ir, we have the simple mixture
+of \j/x X A l and \p2 X x2, with probabilities j a | 2 and |/3j 2 , respectively.
+At intermediate 8, we also have mixtures of two states, with probabilities
+M; + (Vi ~ | ctB | 2 sin 8)% and hi - (% - | aB j 2 sin2 8)%. The two states are
+a(<Ai X Xi) + P(fl>* x X2) and -B*(#i X Xi) + a°(>A2 X x 2 ) for 8 = 0 and
+go over continuously into i/n X Ai and i/*2 X A2 as 8 increases to \-K.
+   The present writer is well aware of the fact that he is not the first one
+to discuss the questions which form the subject of this article and that
+the surmises of his predecessors were either found to be wrong or un-
+provable, hence, in the long run, uninteresting. He would not be greatly
+surprised if the present article shared the fate of those of his predeces-
+sors. He feels, however, that many of the earlier speculations on the
+subject, even if they could not be justified, have stimulated and helped
+our thinking and emotions and have contributed to re-emphasize the
+ultimate scientific interest in the question, which is, perhaps, the most
+fundamental question of all.
+

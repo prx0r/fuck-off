@@ -1,0 +1,9 @@
+# Large raw source data — kept on disk + R2, not in git
+# (PDFs/images exceed GitHub limits; corpus backup lives at r2:atlas-sources/informationphilosopher)
+data/raw/
+data/extracted/pdf/_ocr/
+data/extracted_md/_errors/
+
+# Misc
+*.log
+.DS_Store

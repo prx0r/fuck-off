@@ -1,0 +1,216 @@
+         338   My God, He Plays Dice!
+
+
+
+
+                              te i n’s
+                          Eins ology
+                          Cosm
+Chapter 41
+                                          Einstein’s Cosmology 339
+
+
+Einstein’s Cosmology
+The Cosmological Constant
+    When Albert Einstein was completing his work on general
+relativity in 1916, it was said that he asked some astronomers
+whether the stars were falling towards us or perhaps expanding
+away from us. “Oh, Dr. Einstein, it is well known that the stars are
+‘fixed,’ in the celestial sphere.” Since his new equations suggested
+otherwise, Einstein added a small term called the cosmological
+constant that would prevent expansion or contraction.
+    One very simple way to understand expansion in non-relativistic
+terms is to compare the amount of gravitating matter in the
+universe, whose mutual attraction would collapse the universe, to
+the motion energy seen in the distant galaxies.
+    The positive “kinetic” energy of the motion is either larger
+or smaller than the negative “potential” binding energy. We can
+distinguish three cases.
+    K.E. < P.E. The universe is said to be positively curved. The
+self-gravitating force will eventually slow down and stop the
+expansion. The universe will then collapse in a reverse of the “Big
+Bang” origin.
+    K.E. > P.E. The universe is said to be negatively curved. The
+self-gravitating force will be overcome by the motion energy. The
+                                                                       Chapter 41
+universe will expand forever. When galaxies are infinitely apart,
+they will still be moving.
+    K.E. = P.E. The universe is flat. Average curvature is zero. The
+geometry of the universe is Euclidean. The expansion will stop,
+but only when the distances between remote galaxies approaches
+infinity after an infinite time.
+    By just adding a cosmological constant to achieve a result,
+Einstein masked the underlying physics for time.
+The Flatness Problem
+   The universe is very likely flat because it was created flat. A
+flat universe starts with minimal information, which is fine since
+our cosmic creation process can create all the information that
+we have today. Leibniz’ question, “Why is there something rather
+         340     My God, He Plays Dice!
+
+               than nothing?” might be “the universe is made out of something
+               (matter energy) and the opposite of that something (motion
+               energy).”
+                  When I was a first-year graduate student in astrophysics at
+               Harvard University in 1958, I encountered two problems that
+               have remained with me all these years. One was the fundamental
+               problem of information philosophy - “What creates the information
+               structures in the universe?” The other was the flat universe.
+                  At that time, the universe was thought to be positively curved.
+               Edwin Hubble’s red shifts of distant galaxies showed that they
+               did not have enough kinetic energy to overcome the gravitational
+               potential energy. Textbooks likened the universe to the surface of
+               an expanding balloon decorated with galaxies moving away from
+               one another.
+                  That balloon popped for me when Walter Baade came to
+               Harvard to describe his work at Mount Wilson. Baade took many
+               images with long exposures of nearby galaxies and discovered
+               there are two distinct populations of stars. And in each population
+               there was a different kind of Cepheid variable star. The period
+               of the Cepheid’s curve of light variation indicated its absolute
+               brightness, so they could be used as “standard candles” to find the
+               distances to star clusters in the Milky Way.
+                  Baade then realized that the Cepheids being used to calculate
+               the distance to Andromeda were 1.6 magnitudes brighter than the
+Chapter 41
+
+
+
+
+               ones used in our galaxy. Baade said Andromeda must be twice as
+               far away as Hubble had thought.
+                  As I listened to Baade, for me the universe went from being
+               positively curved to negatively curved. It jumped right over the flat
+               universe! I was struck that we seemed to be within observational
+               error of being flat. Some day a physicist will find the reason for
+               perfect flatness, I thought.
+                  I used to draw a line with tick marks for powers of ten in density
+               around the critical density ρc to show how close we are to flat.
+               Given so many orders of magnitude of possible densities, it seemed
+               improbable that we were just close by accident We could increase
+               the density of the universe by thirty powers of ten before it would
+               have the same density as the earth (too dense!). But on the lighter
+               side, there are an infinite number of powers of ten. We can’t
+                                           Einstein’s Cosmology 341
+
+exclude a universe with average density zero, which still allows us
+to exist, but little else in the distance.
+
+
+
+
+  In the long run we are approaching a universe with average
+density zero. All the non-gravitationally bound systems will slip
+over our light horizon as the expansion takes them higher than
+the velocity of light. At that time, we will be alone in the universe
+with the nearby, gravitationally bound members of our “local
+group” of galaxies, the Milky Way, Andromeda, the Large and
+Small Magellanic Clouds, and a few dozen dwarf galaxies.
+  Beyond them will be ghostly images of galaxies, quasars,
+supernovae, and other objects with whom communication will
+never be possible at the speed of light.
+   But note that we may always be able to see back to the cosmic
+microwave background, all the same contents of the universe that
+we see today, all extremely red-shifted to the point of no visible
+energy in the photons!
+The Problem of Missing Mass (Dark Matter)
+   Given our assumption that the universe is exactly flat, the
+missing mass problem is that there is not enough observable
+                                                                        Chapter 41
+material so that in Newtonian cosmology the gravitational
+binding energy can exactly balance the kinetic energy. The
+visible (luminous mass) accounts for only about 4-5 percent of
+the needed mass. Studying the rotation curves of galaxies and
+galaxy clusters reveals an invisible mass (called dark matter) con-
+tained inside the galaxies and clusters that amounts to perhaps
+6 times the visible matter, which accounts for about 30 percent
+of the critical mass density needed to make the universe exactly
+flat. Current theory accounts for the balance by “dark energy,” an
+interpretation of the cosmological constant Einstein considered
+adding to his equations as a pressure to keep it from collapsing
+(known as “vacuum energy”). But the missing mass could just be
+more dark matter between the galaxies and clusters. About 3 times
+the estimated dark matter would do.
+         342       My God, He Plays Dice!
+
+                  And I am delighted that observations are within a factor of three
+               of the critical density ρc.
+                  When Baade showed the universe was open in the 1950’s, we
+               needed ten times more matter for a flat universe. Now we need only
+               three times more. More than ever, we are obviously flat!
+               Dark Energy (Is the Expansion Accelerating?)
+                  Finding the missing mass can close the universe and explain
+               its flatness. But it would not explain the apparent accelerating
+               expansion seen in Type 1a supernovae. This might be an artifact of
+               the assumption they are perfect “standard candles.” Recent evidence
+               suggests that distant Type 1a supernovae are in a different population
+               than those nearby, something like Baade’s two populations.
+                  It seems a bit extravagant to assume the need for an exotic form
+               of vacuum energy on the basis of observations that could have
+               unknown but significant sources of error. Fortunately, the size of
+               this problem is only another factor of between 3 and 4, well within
+               observational error.
+                  String theorists claim conditions at the universe origin must have
+               been “fine tuned” to within 120 orders of magnitude to produce our
+               current universe. This seems to be nonsense.
+                 The Horizon Problem
+                  The horizon problem arises from the perfect synchronization of
+               all the parts of our visible universe, when there may never have been
+Chapter 41
+
+
+
+
+               a time in the early universe that they were close enough together to
+               exchange synchronization signals.
+                  We propose a solution to the horizon problem based on Einstein’s
+               (mistaken) insight that in the wave-function collapse of entangled
+               particles, something is “traveling” faster than the speed of light.
+                  Einstein said that events in a spacelike separation cannot
+               interact, That would violate his special theory of relativity. He
+               described it as the “impossibility of simultaneity.” But something
+               can simultaneously change great disstances. That something is
+               information about possibilities.
+                  When the “universal wave function” Ψ collapsed at t = 0, parts
+               of the universe that are outside our current light horizon may have
+               been “informed” that it was time to start, no matter the distance.
+                                          Einstein’s Cosmology 343
+
+  This radical idea is consistent with Richard Feynman’s
+path integral (or “sum-over-histories”) formulation of quantum
+mechanics. In calculating the probability of a quantum event, the
+path integral is computed over all the possible paths of virtual
+photons, many traveling faster than the speed of light.
+The Information Paradox
+   Can we speculate about what Einstein might have thought about
+the black-hole information paradox?
+   Perhaps not. For Einstein, entropy is defined by Boltzmann’s
+principle. S = k log W, where W is the number of phase-space cells.
+   Since the size of the black hole is smaller when matter is added,
+we can see that Stephen Hawking and Jakob Bekenstein were
+correct that the information content of physical objects falling into
+a black hole will be lost forever. More particles are now distributed
+in a smaller number of cells
+   In 1997, John Preskill made a bet with Hawking, claiming that
+information must be preserved, according to quantum theory.
+     In fact, neither quantum nor classical theory requires the
+conservation of information. Being simply the arrangement of
+material particles in phase space, information is not a conserved
+quantity like energy and momentum, as Einstein would have known.
+     The idea of conserved information comes from mathematical
+physicists who want a deterministic universe in which all the
+information existing today was present at the origin of the universe.    Chapter 41
+   In 2004, Hawking published a paper showing how some
+information might escape from a black hole, and he conceded his
+loss of Preskill’s bet. Hawking is right that particles emerge from
+pair production at the black hole horizon, but the idea that it is the
+same information that was destroyed when information structures
+fell into the black hole is simply absurd.
+   Hawking may have told us this when he quipped that he should
+have burned the baseball encyclopedia he gave to Preskill and pay
+off the lost bet by sending him the ashes!
+   Once again, it was Einstein’s phenomenal imagination that first
+conceived of extraordinary ideas only recently confirmed, like
+gravitational waves, gravitational lensing, and of course black holes,
+though like many of his insights, he doubted their existence.
+

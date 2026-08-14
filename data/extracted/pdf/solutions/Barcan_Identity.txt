@@ -1,0 +1,267 @@
+The Identity of Individuals in a Strict Functional Calculus of Second Order
+Author(s): Ruth C. Barcan
+Source: The Journal of Symbolic Logic, Vol. 12, No. 1 (Mar., 1947), pp. 12-15
+Published by: Association for Symbolic Logic
+Stable URL: http://www.jstor.org/stable/2267171
+Accessed: 29-04-2016 01:50 UTC
+
+
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+http://about.jstor.org/terms
+
+
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted
+digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about
+JSTOR, please contact support@jstor.org.
+
+
+
+
+                     Cambridge University Press, Association for Symbolic Logic are collaborating with JSTOR to
+                     digitize, preserve and extend access to The Journal of Symbolic Logic
+
+
+
+
+                                       This content downloaded from 128.103.149.52 on Fri, 29 Apr 2016 01:50:22 UTC
+                                                        All use subject to http://about.jstor.org/terms
+THE JOURNAL OF SYMnowc LOGIC
+Volume 12, Number 1, Maroh 1947
+
+
+
+
+      THE IDENTITY OF INDIVIDUALS IN A STRICT FUNCTIONAL
+                             CALCULUS OF SECOND ORDER
+
+                                        RUTH C. BARCAN
+
+
+  In previous papers' we developed two functional calculi of first order based
+on strict implication which we called S2' and S4'. In the present paper,2 these
+systems will be extended to include a functional calculus of second order with
+the purpose of introducing the relation of identity of individuals.
+
+  Primitive symbols. A {the abstraction operator, the blank space to be
+replaced by an appropriate variable}.
+
+   Syntactic notation. The Greek letters p, p, , p,, represent propositional
+variables. 0X,4, Oi, 01, 41, 6, ... *, On I O)n X An, represent functional variables of
+individuals. y, 6, 'yi, 61, * , yn 5,A will hereafter represent variables the type of
+which will be specified.
+
+   Extension of the definiton of well-formed-formula. If A is a wff then (3,y)A
+is a wff where By may be a propositional or a functional variable. If A is a wif
+then ala2 ... a*nA(3,, X 12 X n * 13Xg) is a wif where ac, a2 X2 a.X are distinct
+individual variables and ,1, 12 X * **X, are individual variables not necessarily
+distinct.
+   An expression of the form ala2 ... a, A will be termed an abstract.
+   Extension of the definition of free and bound variable. An occurrence of a
+variable y in a wif A is a bound occurrence if it is in a wf part of A of the form
+(3y) B where y may be a functional or a propositional variable as well as an in-
+dividual variable. Otherwise it is a free occurrence. An occurrence of an indi-
+vidual variable 13 will be said to be free in the abstract ala2 an **,A if it is distinct
+from a,, a2I ... * an and is free in A. Otherwise it is a bound occurrence.
+  Axiom schemata. 1.9, 1.10 and 1.11 are extended over functional variables of
+individuals and propositional variables.
+
+2.1. (p)A -3 B where A, B, and r are wff, p is a propositional variable, no
+         free occurrence of p in A is in a wf part of A of the form (7y)E where y
+         is a variable free in r and B results from A by replacing all free oc-
+          currences of is a variable free in r and B results from A by replacing
+             all free occurrences of p in A by r.
+2.2. (0)A -3 B where 0 is a functional variable, A, B and H are wff's, no
+
+   Received October 9, 1946.
+   1 R. C. Barcan, A functional calculus of first order based on strict implication, this JOUR-
+NAL, vol. 11 (1946), pp. 1-16 and The deduction theorem in a functional calculus of first order
+based on strict implication, this JOURNAL, vol. 11 (1946), pp. 115-118. The reader is asked to
+make the following changes in the enumeration of the axioms and theorems appearing in
+these papers: Place "1." before the number of each theorem, e.g., axiom 1 will be referred
+to as 1.1 etc.
+  2 Part of this paper was included in a dissertation written in partial fulfillment of the
+requirements for the Ph.D. degree in Philosophy at Yale University. I am indebted to
+Professor Frederic B. Fitch for his criticisms and suggestions.
+                                                 12
+
+
+
+            This content downloaded from 128.103.149.52 on Fri, 29 Apr 2016 01:50:22 UTC
+                             All use subject to http://about.jstor.org/terms
+              IDENTITY OF INDIVIDUALS IN STRICT FUNCTIONAL CALCULUS 13
+
+
+            free -)currence of 0 in A is in a wf part of A of the form (,y) r where 'y
+            is any variable free in ala2 ... &**aH and B results from A by replacing
+                                                         AA    A   3
+            all free occurrences of 0 in A by al&2 . . . aCnH.
+
+2.3. ala2 . . . a,,A(#, 132, . *. , 1On) o- B where al, a2 X a,, are distinct
+            individual variables occurring freely in A, no free occurrence of a.
+            (1 < m < n) in A is in a wf part of A of the form (3m) r, and B results
+            from A by replacing all free occurrences of a, by ,1 , all free occurrences
+            of a2 by j32 X , all free occurrences of an by 13n in A.
+
+  ala2 ... anA will be called an abstract of B where A and B are as in 2.3.
+  Rule IV is extended over functional variables of individuals and propositional
+variables.4
+  It is apparent from the axioms and rules of inference that all the proofs of S21
+and S41 can be paralleled in the corresponding extended systems for variables of
+higher type. The same numerals will be used to indicate these parallel proofs.
+  The systems resulting from the extension of S21 and S41 to include the above
+axioms and rules will be referred to as S22 and S42 respectively.
+
+  Definitions.
+  (13 e r) =df r(13) where a and 13 are individual variables and r is an abstract of
+the form aA.
+   (A1R#2) = df R(1, 132) where al, a2, 713, 132 are individual variables and R is
+an abstract of the form ala2A.
+  These two definitions will be used without explicit mention in subsequent
+proofs.
+
+  Identity of individuals.
+            I =df ala2(0)(0(al) -3 0(a2)).
+
+            I =df ala2'%d(0)(0(al) -3 0(a2))-
+
+
+            Im =df alac2-()(0(al) D 0(a2))-
+
+  The proofs of theorems 2.4-2.16 are straightforward. Most of them are
+similar to analogous theorems of Principia mathematics.
+
+2.4. 1 (01312) -3 (0)(0(#1) -3 0 (12)).
+2.5. 1 (0132) (0)(0(#1) 0 (12)).
+2.6. j-111.
+2.7. F (30) (aIl3).
+2.8. F-(131I102) (1I13).
+2.9. F (#132) (12111).
+2.10. F (#13132) -3 (4i) 6/(,131, a1 , a2 X , an) ENt( 12 Xal a2 X * a,)).
+2.11. I ((01312) (12113)) -3 (11I13) .
+2.12. F ((#1lI2) (92113)) -3 (9133) .
+   31.8, extended over propositional variables is a special case of 2.1. 1.8, extended over
+functional variables is a special case of 2.2.
+   4The following condition should be added to Rule IV on p. 2 of A functional calculus
+of first order etc.: a should not occur freely in A at a place where # would be bound.
+
+
+
+
+          This content downloaded from 128.103.149.52 on Fri, 29 Apr 2016 01:50:22 UTC
+                           All use subject to http://about.jstor.org/terms
+ 14     RUTH             C.      BARCAN
+
+
+
+2.13. a (1IB3) - ((1 e aA) --(#2 EaA)).
+2.14. F ((a31I13)(13 e aA)) - ( a3 e aA).
+2.15. F (#13112) -3 (B1- B2) where 11 occurs freely in n places of B1, and B2
+          results from B1 by replacing m free occurrences of f,% in B1 by j2.
+2.16. F ((1ia1i2)( r-3 B1)) -3 (r -3 B2) where ,1, 123, B1, and B2 are as in 2.15.
+  The analogous theorems for the relation Im can readily be established. We
+will list a few theorems involving this relation for use in subsequent proofs.
+
+2.17. F (01Im132) 3 (0)(0(01) D 0(12)).
+2.18. IR-
+2.19. F (01Im32) - (2ImJ1).
+2.20. F ''(#1Im#2) -(3i m1Q).
+2.21. F (13IM#2) _ ((31 E AA) D (12 e AA)).
+2.22. F ((G3Im,%2)(B1 e a&A)) -3 (32 e aA).
+2.23. F 0 (0ImJO2) --(A113).
+2.24. F o(1Im) -
+2.25. F (31)((112)(1 e aA)) 3 (132 E aA) where 131 is not free in A.
+                                                           2.14, gen, lemma of 1.87, subst
+
+  The converse5 of 2.25 is not provable in S22. We can however prove the
+following rule:
+
+XXX. If F 2 aA then F (31a)((A1l12)(11 )).
+                                                              hyp, 2.6, adj, 1.16, mod pon
+
+2.26. F (3#) ((3112) E (31 rE aA)) 0 (132 e aA) where ,1 is not free in A.
+               (3#3)((13I2) El (13 e aA)) -3 0(12 E &A)
+                                   2.22, VII, 19.81, subst, 2.23, gen, lemma of 1.87
+               (12 e aA) 3 ((1321m132)(132 E aA)) 12.1, 2.24, adj, 18.61, mod pon
+               (3') (13I12)0(El e aA)) E- _(12 E &A)
+                                            VII, 19.81, subst, 2.23, 1.16, VIII, adj, def
+
+2.27. F (1) ((1lIm12) D (B1 e aA)) (12 e aA) where ,1 is not free in A.
+               (1J)3((131M112) D (11 e aA)) 3 (12 e aA)
+                                1.8, 14.26, subst, 12.15, 2.24, adj, 18.61, mod pon
+               (131)((1lIm132) D (#1 E aA)) (12 e aA)
+                                                 2.19, 2.21, subst, 14.26, XVII adj, def
+
+2.28. F (01) ((#1Im312) -3 (11 e aA)) --O(132 e oA) where ,1 is not free in A.
+                                                               2.27, VII, 18.7, 1.39, subst
+
+2.29. F a(12 E &A) 3 ( a1)((1 e &A) -3( (#132)) where 131 is not free in A.
+                       E &A) a3(11)((1 e &A) v (#132))
+                                           2.25, X, 14.21, subst, 13.11, def, 2.8
+               '-0 (132 E aA) -3 (11)((11 E A) -3 (#132))
+                                                         VII, 12.3, 1.39, subst, 14.2, 18.7
+
+   To prove the converse of such a theorem as 2.25 requires some principle such as
+QA q (B -q 0 A). That this principle is not provable in S22 can be shown by the Group I
+matrix on p. 493 of Lewis and Langford's Symbolic Logic, where this matrix has been
+appropriately interpreted for quantification.
+
+
+
+        This content downloaded from 128.103.149.52 on Fri, 29 Apr 2016 01:50:22 UTC
+                         All use subject to http://about.jstor.org/terms
+           IDENTITY OF INDIVIDUALS IN STRICT FUNCTIONAL CALCULUS 15
+
+
+  The converse of 2.29 is not provable in S22. We are able however to prove the
+following rule:
+
+XXXI. If F (01)((1i E aA) -3( (#1312)) then F -0(#2 E aA).
+                  -0((01 e 'A)(13I132)) hyp, 1.8, mod pon, def, 2.8, 12.3, subst
+                  ((#1 E a'A)(03I(2)) -3 -(,2 f a) 19.74, mod pon
+                  ((131 E aA)(#3IB2)) -3 (32 a aA) 2.14, 12.15, subst
+                   '(132 E aA) adj, 19.72, subst
+
+  Where the identity relation appearing in 2.29 is weakened to Im we can prove
+the following:
+
+2.30. F (1i) ((13 E &A) 3 (1,Tm32)) '--0(> ( EA) where 13 is not free in A.
+                                                                      2.28, 2.3, subst, 12.3
+
+  The material equivalence of I and Im can be proved in S22.
+
+2.31. F (013Im132) (1I1).
+            (1I3 2) D ((1Il) D (1312)) 2.21, 14.1, mod pon, 2.3, subst
+                  (01ImJ2) D (11I2) 15.8, subst, 2.6, adj, 14.29, mod pon
+                  (11I2) D (OlImA2) 12.1, 2.23, subst, 18.42, VIII, 14.1, mod pon
+                  (01312) (,13112) adj, def
+  In S42 we can prove the strict equivalence of I and Im.
+
+2.32*. F (B11132) (131112). 2.23, 1.104*, subst
+
+2.33*. F (131I12) - (11IJ2).
+                  ((11m2) (13101)) -3( (0112) 2.21, 2.3, subst, 14.26
+                  (11I2) 3(01I32) 2.6, 2.32*, subst, adj, 18.61, mod pon
+                  (11I12) _ (01Im12) 18.42, 2.23, subst, adj, def
+  A direct consequence of 2.33* is
+
+2.34*. F (1311m12) -3 (B1 B2) where ,13, 132, B1, B2 are as in 2.15.
+
+  We can also derive without modification such properties of identity as:
+
+2.35*. F (311) ((11112) (1, e &A)) -(12 a &A) where #1 is not free in A.
+                      12.1, 2.6, 2.32*, adj, 18.61, mod pon, 1.16, VIII, 2.25, def
+
+2.36*. F 0(132 E &A) -13)((1312) -3 (11 E aA)) where #1 is not free in A.
+                                                                           2.28, 2.33*, subst
+
+2.37*. F (11)((13 E &A) a3(13112)) - (132 E &A) where 1 is not free in A.
+                                                               2.30, 2.20, 2.8, 2.33* subst
+
+  YALE UNIVERSITY
+
+
+
+
+         This content downloaded from 128.103.149.52 on Fri, 29 Apr 2016 01:50:22 UTC
+                          All use subject to http://about.jstor.org/terms
+

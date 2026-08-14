@@ -1,0 +1,151 @@
+         208   My God, He Plays Dice!
+
+
+
+
+                                             i l i t y
+                                        arab
+Chapter 27
+
+
+
+
+                    n s e p
+                 No
+
+
+
+
+                                                            This chapter on the web
+                               informationphilosopher.com/problems/nonseparability
+                                              Nonseparability          209
+
+
+Nonseparability
+   Entangled particles are described by a single two-particle wave
+function ψ12 that cannot be separated into a product of single-
+particle wave functions ψ1 and ψ2 without a measurement or
+external interaction that “decoheres” or “disentangles” them.
+   The question for Albert Einstein and Erwin Schrödinger
+was how long the particles could retain their correlation as they
+traveled a great distance apart. Once disentangled, or “decohered,”
+the two-particle wave function Ψ12 can be described as the product
+of two single-particle wave functions Ψ1 and Ψ2 and there will no
+longer be any quantum interference between them. But entangled
+particles, it turns out, do not decohere spontaneously. They cannot
+decohere without an external interaction (like a measurement).
+   Einstein had objected to nonlocal phenomena as early as the
+Solvay Conference of 1927, when he criticized the collapse of the
+
+
+
+
+                                                                         Chapter 27
+single-particle wave function as involving instantaneous “action-
+at-a-distance” that looks like the spherical outgoing wave acting
+at more than one place on the screen. He had seen single-particle
+nonlocality as early as his light-quantum hypothesis paper of 1905,
+as we saw in chapter 23. But we showed that the collapse of the
+mathematical probabilities |Ψ|2 only involved the disappearance
+of those probabilities. Without matter or energy moving, there is
+no “action” being exerted on the particle by the wave.
+   We can now try to understand the nonseparability of two
+entangled particles in terms of single-particle nonlocality. The
+entangled particles share one volume of nonlocality, i.e., wherever
+the two-particle wave function has non-zero values of |Ψ12 |2.
+   Quantum mechanics says that either particle has the same
+possibility (with calculable probability) of appearing at any
+particular location in this volume. Just as with the single-particle
+nonlocality, in standard quantum mechanics we cannot say
+where the two particles “are.” Either one may be anywhere up to
+the moment of “collapse” of the two-particle wave function. But
+conservation principles require that whenever they finally do
+         210     My God, He Plays Dice!
+
+               appear, it will be equidistant from the origin, in order to conserve
+               linear momentum.
+                  And more importantly, conservation principles and symmetry
+               require that measurements of any particular property of the two
+               particles find that they too are perfectly correlated, as we shall see
+               in chapter 29.
+                  Einstein’s “objective reality” assumes that the particles simply
+               have continuous paths from the start of the experiment to the final
+               measurement(s), although the limits of quantum measurement
+               may never allow us to “know” those paths.
+                  It is the fundamental principle of conservation that governs
+               the correlated outcome, not some hypothetical, faster than light,
+               communication of information between the particles.
+                  But just because we cannot say or know a particle’s continuous
+               path does not prove that it does not have a continuous path
+               EPR According to Quantum Theory
+Chapter 27
+
+
+
+
+                  Quantum mechanics describes the probability amplitude wave
+               function ψ12 of any two-particle system as in a superposition of
+               two-particle states. It is not separable into a product of single-
+               particle states, and there is no information about individual
+               particles traveling along observable paths.
+                  The Copenhagen Interpretation, by contrast, claims that
+               quantum systems do not have properties until they are observed.
+               And not merely measured by apparatus that records data.
+               The result of the measurement must reach the mind of the
+               experimenter, according to John von Neumann’s “psycho-
+               physical parallelism.”
+                  Einstein, however, frequently asked whether the particle has a
+               position at the moment before it is measured? “Is the moon only
+               there when we look at it,” he quipped. And he famously told the
+               philosopher Hilary Putnam, “Look, I don’t believe that when I am
+               not in my bedroom my bed spreads out all over the room, and
+               whenever I open the door and come in it jumps into the corner.”
+                  Einstein took the Copenhageners as saying the two particles
+               may actually be anywhere that Ψ12 is non-zero, then they jump
+               to places that conserve the momentum only at the measurement.
+                                                 Nonseparability         211
+
+   The particles are thought to be in a superposition of all possible
+momentum or position eigenstates, as we see in the next chapter.
+   Now when entangled particles experience a random interaction
+with something in the environment (described as “decoherence”),
+or an experimental measurement by an observer, the two-particle
+wave function “collapses.”
+   In the standard quantum physics view, all the possibilities/
+probabilities that are not actualized go to zero, just as with the
+single particle wave function. But now, two particles appear,
+simultaneously in a special frame in which their center of mass is
+not moving. In other moving frames, either particle may appear to
+appear before the other.
+   The two particles appear simultaneously, in a spacelike
+separation, now disentangled, and symmetrically located about
+the point of the interaction which entangled them.
+   If they did not appear as symmetrically as they had been at the
+
+
+
+
+                                                                           Chapter 27
+beginning, both conservation laws and underlying principles of
+symmetry would be violated.
+   In Einstein’s “objective reality” picture, no faster-than-light
+signaling is involved. There is no “action” going from one particle
+to the other. Their linear momenta, correlated at their moment of
+entanglement, always are correlated “locally” as they travel along
+at the particles’ speed.
+   The fact that momenta, and most of their properties, are found
+synchronized, perfectly correlated, at later times, is because they
+are always correlated until a disturbance occurs, e.g., an interaction
+with the environment or a measurement by an observer.
+   It is only once a disentangling interaction occurs with either
+particle, that further interactions do nothing to the other, as
+Einstein requires for his separability principle (Trennungsprinzip).
+      But on one supposition we should, in my opinion, absolutely
+      hold fast: the real factual situation of the system S2 is
+      independent of what is done with the system S1, which is
+      spatially separated from the former. 1
+   S1 only appears to “act-at-a-distance” on S2 if we assume that S2
+lacks properties until it is measured.
+
+  1       Einstein, 1949a, p.85
+

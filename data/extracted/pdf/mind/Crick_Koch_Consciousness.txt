@@ -1,0 +1,434 @@
+                  the problem
+               of consciousness
+
+
+
+
+     IT IS NOW BEING EXPLORED
+     THROUGH THE VISUAL SYSTEM —
+     REQUIRING A CLOSE
+     COLLABORATION AMONG
+     PSYCHOLOGISTS,
+     NEUROSCIENTISTS AND
+     THEORISTS
+     BY FRANCIS CRICK AND
+     CHRISTOF KOCH
+
+
+
+
+10   SCIENTIFIC AMERICAN
+                           COPYRIGHT 2002 SCIENTIFIC AMERICAN, INC.
+                                                                        T
+                                                                                  he overwhelming question in neurobiology today is                        We selected the mammalian visual system because humans are
+                                                                                  the relation between the mind and the brain. Everyone                    very visual animals and because so much experimental and the-
+                                                                                  agrees that what we know as mind is closely related to                   oretical work has already been done on it.
+                                                                                  certain aspects of the behavior of the brain, not to the                     It is not easy to grasp exactly what we need to explain, and
+                                                                                  heart, as Aristotle thought. Its most mysterious aspect                  it will take many careful experiments before visual conscious-
+                                                                        is consciousness or awareness, which can take many forms,                          ness can be described scientifically. We did not attempt to de-
+                                                                        from the experience of pain to self-consciousness. In the past                     fine consciousness itself because of the dangers of premature
+                                                                        the mind (or soul) was often regarded, as it was by Descartes,                     definition. (If this seems like a copout, try defining the word
+                                                                        as something immaterial, separate from the brain but interact-                     “gene”— you will not find it easy.) Yet the experimental evi-
+                                                                        ing with it in some way. A few neuroscientists, such as the late                   dence that already exists provides enough of a glimpse of the
+                                                                        Sir John Eccles, have asserted that the soul is distinct from the                  nature of visual consciousness to guide research. In this arti-
+                                                                        body. But most neuroscientists now believe that all aspects of                     cle, we will attempt to show how this evidence opens the way
+                                                                        mind, including its most puzzling attribute— consciousness or                      to attack this profound and intriguing problem.
+                                                                        awareness— are likely to be explainable in a more materialistic
+                                                                        way as the behavior of large sets of interacting neurons. As Wil-                  Describing Visual Consciousness
+                                                                        liam James, the father of American psychology, said a century                      V I S U A L T H E O R I S T S A G R E E that the problem of visual con-
+                                                                        ago, consciousness is not a thing but a process.                                   sciousness is ill posed. The mathematical term “ill posed”
+                                                                             Exactly what the process is, however, has yet to be discov-                   means that additional constraints are needed to solve the prob-
+                                                                        ered. For many years after James penned The Principles of Psy-                     lem. Although the main function of the visual system is to per-
+                                                                        chology, consciousness was a taboo concept in American psy-                        ceive objects and events in the world around us, the informa-
+                                                                        chology because of the dominance of the behaviorist move-                          tion available to our eyes is not sufficient by itself to provide the
+                                                                        ment. With the advent of cognitive science in the mid-1950s,                       brain with its unique interpretation of the visual world. The
+                                                                        it became possible once more for psychologists to consider men-                    brain must use past experience (either its own or that of our dis-
+                                                                        tal processes as opposed to merely observing behavior. In spite                    tant ancestors, which is embedded in our genes) to help inter-
+                                                                        of these changes, until recently most cognitive scientists ignored                 pret the information coming into our eyes. An example would
+                                                                        consciousness, as did almost all neuroscientists. The problem                      be the derivation of the three-dimensional representation of the
+                                                                        was felt to be either purely “philosophical” or too elusive to                     world from the two-dimensional signals falling onto the retinas
+                                                                        study experimentally. It would not have been easy for a neu-                       of our two eyes or even onto one of them.
+                                                                        roscientist to get a grant just to study consciousness.                                 Visual theorists would also agree that seeing is a constructive
+                                                                             In our opinion, such timidity is ridiculous, so some years                    process, one in which the brain has to carry out complex activi-
+                                                                        ago we began to think about how best to attack the problem                         ties (sometimes called computations) in order to decide which in-
+                                                                        scientifically. How to explain mental events as being caused by                    terpretation to adopt of the ambiguous visual input. “Compu-
+                                                                        the firing of large sets of neurons? Although there are those who                  tation” implies that the brain acts to form a symbolic represen-
+                                                                        believe such an approach is hopeless, we feel it is not produc-                    tation of the visual world, with a mapping (in the mathematical
+                                                                        tive to worry too much over aspects of the problem that can-                       sense) of certain aspects of that world onto elements in the brain.
+                                                                        not be solved scientifically or, more precisely, cannot be solved                       Ray Jackendoff of Brandeis University postulates, as do
+                                                                        solely by using existing scientific ideas. Radically new concepts                  most cognitive scientists, that the computations carried out by
+                                                                        may indeed be needed— recall the modifications of scientific                       the brain are largely unconscious and that what we become
+©1997 C. HERSCOVICI, BRUSSELS /ARTISTS RIGHTS SOCIETY (ARS), NEW YORK
+
+
+
+
+                                                                        thinking forced on us by quantum mechanics. The only sensi-                        aware of is the result of these computations. But while the cus-
+                                                                        ble approach is to press the experimental attack until we are                      tomary view is that this awareness occurs at the highest levels
+                                                                        confronted with dilemmas that call for new ways of thinking.                       of the computational system, Jackendoff has proposed an in-
+                                                                             There are many possible approaches to the problem of con-                     termediate-level theory of consciousness.
+                                                                        sciousness. Some psychologists feel that any satisfactory theory                        What we see, Jackendoff suggests, relates to a representation
+                                                                        should try to explain as many aspects of consciousness as pos-                     of surfaces that are directly visible to us, together with their out-
+                                                                        sible, including emotion, imagination, dreams, mystical experi-                    line, orientation, color, texture and movement. In the next stage
+                                                                        ences and so on. Although such an all-embracing theory will be                     this sketch is processed by the brain to produce a three-dimen-
+                                                                        necessary in the long run, we thought it wiser to begin with the                   sional representation. Jackendoff argues that we are not visual-
+                                                                        particular aspect of consciousness that is likely to yield most eas-               ly aware of this three-dimensional representation.
+                                                                        ily. What this aspect may be is a matter of personal judgment.                          An example may make this process clearer. If you look at a
+                                                                                                                                                           person whose back is turned to you, you can see the back of the
+                                                                        VISUAL AWARENESS primarily involves seeing what is directly in front of you,       head but not the face. Nevertheless, your brain infers that the per-
+                                                                        but it can be influenced by a three-dimensional representation of the object       son has a face. We can deduce as much because if that person
+                                                                        in view retained by the brain. If you see the back of a person’s head, the brain
+                                                                        infers that there is a face on the front of it. We know this is true because we
+                                                                                                                                                           turned around and had no face, you would be very surprised.
+                                                                        would be very startled if a mirror revealed that the front was exactly like the         The viewer-centered representation that corresponds to the
+                                                                        back, as in this painting, Reproduction Prohibited (1937), by René Magritte.       visible back of the head is what you are vividly aware of. What
+
+                                                                        www.sciam.com                                                                                        Updated from the September 1992 issue            11
+                                                                                                                               COPYRIGHT 2002 SCIENTIFIC AMERICAN, INC.
+your brain infers about the front would         of a monkey’s brain and partly from ex-          not clear exactly which forms of memory
+come from some kind of three-dimen-             amining the effects of certain types of          are involved. Is long-term memory need-
+sional representation. This does not mean       brain damage in humans, that different           ed? Some forms of acquired knowledge
+that information flows only from the sur-       aspects of a face— and of the implications       are so embedded in the machinery of neur-
+face representation to the three-dimen-         of a face— may be represented in differ-         al processing that they are almost certain-
+sional one; it almost certainly flows in both   ent parts of the brain.                          ly part of the process of becoming aware
+directions. When you imagine the front of            First, there is the representation of a     of something. On the other hand, there is
+the face, what you are aware of is a sur-       face as a face: two eyes, a nose, a mouth        evidence from studies of brain-damaged
+face representation generated by informa-       and so on. The neurons involved are usu-         patients that the ability to lay down new
+tion from the three-dimensional model.          ally not too fussy about the exact size or       long-term episodic memories is not essen-
+    It is important to distinguish between      position of this face in the visual field, nor   tial for consciousness to be experienced.
+an explicit and an implicit representation.     are they very sensitive to small changes in           It is difficult to imagine that anyone
+An explicit representation is something         its orientation. In monkeys, there are           could be conscious if he or she had no
+that is symbolized without further pro-         neurons that respond best when the face          memory whatsoever, even an extremely
+cessing. An implicit representation con-        is turning in a particular direction, while      short one, of what had just happened. Vi-
+
+
+        What we are aware of at any moment, in one sense
+              or another, is not a simple matter.
+tains the same information but requires         others seem to be more concerned with            sual psychologists talk of iconic memory,
+further processing to make it explicit.         the direction in which the eyes are gazing.      which lasts for a fraction of a second, and
+The pattern of colored dots on a televi-            Then there are representations of the        working memory (such as that used to re-
+sion screen, for example, contains an im-       parts of a face, as separate from those for      member a new telephone number) that
+plicit representation of objects (say, a        the face as a whole. Further, the implica-       lasts for only a few seconds unless it is re-
+person’s face), but only the dots and their     tions of seeing a face, such as that person’s    hearsed. It is not clear whether both of
+locations are explicit. When you see a          sex, the facial expression, the familiarity      these are essential for consciousness. In
+face on the screen, there must be neurons       or unfamiliarity of the face, and in par-        any case, the division of short-term mem-
+in your brain whose firing, in some sense,      ticular whose face it is, may each be cor-       ory into these two categories may be too
+symbolizes that face.                           related with neurons firing in other places.     crude.
+    We call this pattern of firing neurons          What we are aware of at any moment,              If these complex processes of visual
+an active representation. A latent repre-       in one sense or another, is not a simple         awareness are localized in parts of the
+sentation of a face must also be stored in      matter. We have suggested that there may         brain, which processes are likely to be
+the brain, probably as a special pattern of     be a very transient form of fleeting aware-      where? Many regions of the brain may be
+synaptic connections between neurons.           ness that represents only rather simple          involved, but it is almost certain that the
+For example, you probably have a repre-         features and does not require an atten-          cerebral neocortex plays a dominant role.
+sentation of the Statue of Liberty in your      tional mechanism. From this brief aware-         Visual information from the retina reach-
+brain, a representation that usually is in-     ness the brain constructs a viewer-cen-          es the neocortex mainly by way of a part
+active. If you do think about the statue,       tered representation— what we see vivid-         of the thalamus (the lateral geniculate nu-
+the representation becomes active, with         ly and clearly—that does require attention.      cleus); another significant visual pathway
+the relevant neurons firing away.               This in turn probably leads to three-            from the retina is to the superior collicu-
+    An object, incidentally, may be rep-        dimensional object representations and           lus, at the top of the brain stem.
+resented in more than one way— as a vi-         thence to more cognitive ones.                       The cortex in humans consists of two
+sual image, as a set of words and their re-         Representations corresponding to viv-        intricately folded sheets of nerve tissue,
+lated sounds, or even as a touch or a smell.    id consciousness are likely to have special      one on each side of the head. These sheets
+These different representations are likely      properties. William James thought that           are connected by a large tract of about
+to interact with one another. The repre-        consciousness involved both attention and        200,000 axons called the corpus callo-
+sentation is likely to be distributed over      short-term memory. Most psychologists            sum. It is well known that if the corpus
+many neurons, both locally and more             today would agree with this view. Jacken-        callosum is cut in a split-brain operation,
+globally. Such a representation may not         doff writes that consciousness is “en-           as is done for certain cases of intractable
+be as simple and straightforward as un-         riched” by attention, implying that where-       epilepsy, one side of the brain is not aware
+critical introspection might indicate.          as attention may not be essential for cer-       of what the other side is seeing. In partic-
+There is suggestive evidence, partly from       tain limited types of consciousness, it is       ular, the left side of the brain (in a right-
+studying how neurons fire in various parts      necessary for full consciousness. Yet it is      handed person) appears not to be aware
+
+12   SCIENTIFIC AMERICAN                                                                                                   THE HIDDEN MIND
+                                                  COPYRIGHT 2002 SCIENTIFIC AMERICAN, INC.
+                                                                            of visual information received exclusive-      AMBIGUOUS IMAGES were frequently used by Salvador Dalí in his paintings. In Slave Market with the
+                                                                            ly by the right side. This shows that none     Disappearing Bust of Voltaire (1940), the head of the French philosopher Voltaire is apparent from a
+                                                                            of the information required for visual         distance but transforms into the figures of three people when viewed at close range. Studies of monkeys
+                                                                                                                           shown ambiguous figures have found that many neurons in higher cortical areas respond to only the
+                                                                            awareness can reach the other side of the      currently “perceived” figure; the neuronal response to the “unseen” image is suppressed.
+                                                                            brain by traveling down to the brain stem
+                                                                            and, from there, back up. In a normal per-         In broad terms, the neocortex of alert                  it, although some small modifications of
+                                                                            son, such information can get to the oth-      animals probably acts in two ways. By                       the neural connections may be made.
+                                                                            er side only by using the axons in the cor-    building on crude and somewhat redun-                            The second function of the neocortex
+©1997 DEMART PRO ARTE (R), GENEVA/ARTISTS RIGHTS SOCIETY (ARS), NEW YORK;
+
+
+
+
+                                                                            pus callosum.                                  dant wiring, produced by our genes and                      (at least of the visual part of it) is to re-
+                                                                                A different part of the brain— the hip-    by embryonic processes, the neocortex                       spond extremely rapidly to incoming sig-
+                                                                            pocampal system— is involved in one-           draws on visual and other experience to                     nals. To do so, it uses the categories it has
+                                                                            shot, or episodic, memories that, over         slowly “rewire” itself to create categories                 learned and tries to find the combinations
+                                                                            weeks and months, it passes on to the          (or “features”) it can respond to. A new                    of active neurons that, on the basis of its
+                                                                            neocortex. This system is so placed that       category is not fully created in the neocor-                past experience, are most likely to rep-
+© SALVADOR DALÍ MUSEUM, INC., ST. PETERSBURG, FLA.
+
+
+
+
+                                                                            it receives inputs from, and projects to,      tex after exposure to only one example of                   resent the relevant objects and events in
+                                                                            many parts of the brain. Thus, one might
+                                                                            suspect that the hippocampal system is                       FRANCIS CRICK and CHRISTOF KOCH share an interest in the experimental study of con-
+                                                                                                                           THE AUTHORS
+
+
+
+
+                                                                            the essential seat of consciousness. This                    sciousness. Crick is the co-discoverer, with James Watson, of the double helical structure
+                                                                            is not the case: evidence from studies of                    of DNA. While at the Medical Research Council Laboratory of Molecular Biology in Cambridge,
+                                                                            patients with damaged brains shows that                      England, he worked on the genetic code and on developmental biology. Since 1976 he has
+                                                                            this system is not essential for visual                      been at the Salk Institute for Biological Studies in San Diego. His main interest lies in under-
+                                                                            awareness, although naturally a patient                      standing the visual system of mammals. Koch was awarded his Ph.D. in biophysics by the
+                                                                            lacking one is severely handicapped in                       University of Tübingen in Germany. After a stint at M.I.T., he joined the California Institute of
+                                                                            everyday life because he cannot remem-                       Technology, where he is Lois and Victor Troendle Professor of Cognitive and Behavioral Bi-
+                                                                            ber anything that took place more than a                     ology. He studies how single brain cells process information and the neural basis of motion
+                                                                            minute or so in the past.                                    perception, visual attention, and awareness in mice, monkeys and humans.
+
+                                                                            www.sciam.com                                                                                                                    THE HIDDEN MIND          13
+                                                                                                                          COPYRIGHT 2002 SCIENTIFIC AMERICAN, INC.
+the visual world at that moment. The for-      the same part of the visual field. The early     would. Even though the motion stimulus
+mation of such coalitions of active neu-       visual system on the left side of the brain      coming into the monkey’s eyes is always
+rons may also be influenced by biases          receives an input from both eyes but sees        the same, the monkey’s percept changes
+coming from other parts of the brain: for      only the part of the visual field to the right   every second or so.
+example, signals telling it what best to at-   of the fixation point. The converse is true          Cortical area MT (which some re-
+tend to or high-level expectations about       for the right side. If these two conflicting     searchers prefer to label V5) is an area
+the nature of the stimulus.                    inputs are rivalrous, one sees not the two       mainly concerned with movement. What
+    Consciousness, as James noted, is al-      inputs superimposed but first one input,         do the neurons in area MT do when the
+ways changing. These rapidly formed co-        then the other, and so on in alternation.        monkey’s percept is sometimes up and
+alitions occur at different levels and in-         In the exhibit, called “The Cheshire         sometimes down? (The researchers stud-
+teract to form even broader coalitions.        Cat,” viewers put their heads in a fixed         ied only the monkey’s first response.) The
+They are transient, lasting usually for only   place and are told to keep the gaze fixed.       simplified answer— the actual data are
+a fraction of a second. Because coalitions     By means of a suitably placed mirror, one        rather more messy— is that whereas the
+in the visual system are the basis of what     of the eyes can look at another person’s         firing of some of the neurons correlates
+we see, evolution has seen to it that they     face, directly in front, while the other eye     with the changes in the percept, for oth-
+form as fast as possible; otherwise, no an-    sees a blank white screen to the side. If the    ers the average firing rate is relatively un-
+imal could survive. The brain is handi-        viewer waves a hand in front of this plain       changed and independent of which direc-
+
+         When we clearly see something, there must be
+       neurons actively firing that stand for what we see.
+capped in forming neuronal coalitions          screen at the same location in his or her        tion of movement the monkey is seeing at
+rapidly because, by computer standards,        visual field occupied by the face, the face      that moment. Thus, it is unlikely that the
+neurons act very slowly. The brain com-        is wiped out. The movement of the hand,          firing of all the neurons in the visual neo-
+pensates for this relative slowness partly     being visually very salient, has captured        cortex at one particular moment corre-
+by using very many neurons, simultane-         the brain’s attention. Without attention         sponds to the monkey’s visual awareness.
+ously and in parallel, and partly by ar-       the face cannot be seen. If the viewer           Exactly which neurons do correspond to
+ranging the system in a roughly hierar-        moves the eyes, the face reappears.              awareness remains to be discovered.
+chical manner.                                     In some cases, only part of the face              We have postulated that when we
+    If visual awareness at any moment          disappears. Sometimes, for example, one          clearly see something, there must be neu-
+corresponds to sets of neurons firing, then    eye, or both eyes, will remain. If the view-     rons actively firing that stand for what we
+the obvious question is: Where are these       er looks at the smile on the person’s face,      see. This might be called the activity prin-
+neurons located in the brain, and in what      the face may disappear, leaving only the         ciple. Here, too, there is some experimen-
+way are they firing? Visual awareness is       smile. For this reason, the effect has been      tal evidence. One example is the firing of
+highly unlikely to occupy all the neurons      called the Cheshire Cat effect, after the        neurons in a specific cortical visual area in
+in the neocortex that are firing above their   cat in Lewis Carroll’s Alice’s Adventures        response to illusory contours. Another
+background rate at a particular moment.        in Wonderland.                                   and perhaps more striking case is the fill-
+We would expect that, theoretically, at            Although it is difficult, though not im-     ing in of the blind spot. The blind spot in
+least some of these neurons would be in-       possible, to record activity in individual       each eye is caused by the lack of photore-
+volved in doing computations— trying to        neurons in a human brain, such studies           ceptors in the area of the retina where the
+arrive at the best coalitions—whereas oth-     can be done in monkeys. A simple exam-           optic nerve leaves the retina and projects
+ers would express the results of these com-    ple of binocular rivalry was studied in a        to the brain. Its location is about 15 de-
+putations, in other words, what we see.        monkey by Nikos K. Logothetis and Jef-           grees from the fovea (the visual center of
+    Fortunately, some experimental evi-        frey D. Schall, both then at M.I.T. They         the eye). Yet if you close one eye, you do
+dence can be found to back up this theo-       trained a macaque to keep its eyes still         not see a hole in your visual field.
+retical conclusion. A phenomenon called        and to signal whether it is seeing upward             Philosopher Daniel C. Dennett of
+binocular rivalry may help identify the        or downward movement of a horizontal             Tufts University is unusual among phi-
+neurons whose firing symbolizes aware-         grating. To produce rivalry, upward              losophers in that he is interested both in
+ness. This phenomenon can be seen in           movement is projected into one of the            psychology and in the brain. This interest
+dramatic form in an exhibit prepared by        monkey’s eyes and downward movement              is to be welcomed. In his 1991 book,
+Sally Duensing and Bob Miller at the           into the other, so that the two images           Consciousness Explained, he argues that
+Exploratorium in San Francisco.                overlap in the visual field. The monkey          it is wrong to talk about filling in. He con-
+    Binocular rivalry occurs when each         signals that it sees up and down move-           cludes, correctly, that “an absence of in-
+eye has a different visual input relating to   ments alternatively, just as humans              formation is not the same as information
+
+14   SCIENTIFIC AMERICAN                                                                                                  THE HIDDEN MIND
+                                                 COPYRIGHT 2002 SCIENTIFIC AMERICAN, INC.
+                     about an absence.” From this general                                                               going to be easy. It will take many care-
+                     principle he argues that the brain does not                                                        ful experiments to track them down even
+                     fill in the blind spot but rather ignores it.                                                      for one kind of percept.
+                           Dennett’s argument by itself, howev-
+                     er, does not establish that filling in does                                                        Visual Awareness
+                     not occur; it only suggests that it might                                                          I T S E E M S O B V I O U S that the purpose of
+                     not. Dennett also states that “your brain                                                          vivid visual awareness is to feed into the
+                     has no machinery for [filling in] at this lo-                                                      cortical areas concerned with the implica-
+                     cation.” This statement is incorrect. The                                                          tions of what we see; from there the infor-
+                     primary visual cortex lacks a direct input                                                         mation shuttles on the one hand to the
+                     from one eye, but normal “machinery” is                                                            hippocampal system, to be encoded (tem-
+                     there to deal with the input from the oth-                                                         porarily) into long-term episodic memory,
+                     er eye. Ricardo Gattass and his colleagues                                                         and on the other to the planning levels of
+                     at the Federal University of Rio de Janeiro                                                        the motor system. But is it possible to go
+                     have shown that in the macaque some of                                                             from a visual input to a behavioral output
+                     the neurons in the blind-spot area of the                                                          without any relevant visual awareness?
+                     primary visual cortex do respond to input                                                               That such a process can happen is
+                     from both eyes, probably assisted by in-                                                           demonstrated by a very small and re-
+                     puts from other parts of the cortex.                                                               markable class of patients with “blind-
+                     Moreover, in the case of simple filling in,                                                        sight.” These patients, all of whom have
+                     some of the neurons in that region re-                                                             suffered damage to their visual cortex,
+                     spond as if they were actively filling in.                                                         can point with fair accuracy at visual tar-
+                           Thus, Dennett’s claim about blind                                                            gets or track them with their eyes while
+                     spots is incorrect. In addition, psycholog-        KNOWLEDGE about visual systems is important     vigorously denying seeing anything. In
+                     ical experiments by Vilayanur S. Rama-             in the study of consciousness.                  fact, these patients are as surprised as their
+                     chandran [see “Blind Spots,” Scientific             a single neuron, but it is known that neu-     doctors by their abilities. The amount of
+                     American, May 1992] have shown that                 rons that respond to roughly the same          information that “gets through,” howev-
+                     what is filled in can be quite complex de-          position, orientation and direction of         er, is limited: blindsight patients have
+                     pending on the overall context of the vi-           movement of a bar tend to be located           some ability to respond to wavelength,
+                     sual scene. How, he argues, can your                near one another in the cortical sheet.        orientation and motion, yet they cannot
+                     brain be ignoring something that is in fact         The experimenters taught the monkey a          distinguish a triangle from a square.
+                     commanding attention?                               simple task in movement discrimination              It is of great interest to know which
+                           Filling in, therefore, is not to be dis-      using a mixture of dots, some moving           neural pathways are being used in these
+                     missed as nonexistent or unusual. It prob-          randomly, the rest all in one direction.       patients. Investigators originally suspect-
+                     ably represents a basic interpolation pro-          They showed that electrical stimulation        ed that the pathway ran through the su-
+                     cess that can occur at many levels in the           of a small region in the right place in cor-   perior colliculus. Subsequent experiments
+                     neocortex. It is a good example of what is          tical area MT would bias the monkey’s          suggested that a direct, albeit weak, con-
+                     meant by a constructive process.                    motion discrimination, almost always in        nection may be involved between the lat-
+                           How can we discover the neurons               the expected direction.                        eral geniculate nucleus and other visual
+                     whose firing symbolizes a particular per-               Thus, the stimulation of these neu-        areas in the cortex. It is unclear whether
+                     cept? William T. Newsome and his col-               rons can influence the monkey’s behav-         an intact primary visual cortex region is
+                     leagues at Stanford University did a series         ior and probably its visual percept. Such      essential for immediate visual awareness.
+                     of brilliant experiments on neurons in              experiments do not, however, show de-          Conceivably the visual signal in blindsight
+                     cortical area MT of the macaque’s brain.            cisively that the firing of such neurons is    is so weak that the neural activity cannot
+                     By studying a neuron in area MT, we may             the exact neural correlate of the percept.     produce awareness, although it remains
+                     discover that it responds best to very spe-         The correlate could be only a subset of        strong enough to get through to the mo-
+                     cific visual features having to do with mo-         the neurons being activated. Or perhaps        tor system.
+                     tion. A neuron, for instance, might fire            the real correlate is the firing of neurons         Normal-seeing people regularly re-
+                     strongly in response to the movement of             in another part of the visual hierarchy        spond to visual signals without being ful-
+                     a bar in a particular place in the visual           that are strongly influenced by the neu-       ly aware of them. In automatic actions,
+MELISSA SZALKOWSKI
+
+
+
+
+                     field, but only when the bar is oriented at         rons activated in area MT.                     such as swimming or driving a car, com-
+                     a certain angle, moving in one of the two               These same reservations also apply to      plex but stereotypical actions occur with
+                     directions perpendicular to its length with-        cases of binocular rivalry. Clearly, the       little, if any, associated visual awareness.
+                     in a certain range of speed.                        problem of finding the neurons whose fir-      In other cases, the information conveyed
+                           It is technically difficult to excite just    ing symbolizes a particular percept is not     is either very limited or very attenuated.
+
+                     www.sciam.com                                                                                                          THE HIDDEN MIND        15
+                                                                        COPYRIGHT 2002 SCIENTIFIC AMERICAN, INC.
+Thus, while we can function without vi-          of attention that moves around, in some          layer 4. (The latter areas are always at the
+sual awareness, our behavior without it is       sense, when our eyes are stationary.             same level in the visual hierarchy.)
+rather restricted.                                    The exact psychological nature of this          The key issue, then, is how the brain
+     Clearly, it takes a certain amount of       faster attentional mechanism is contro-          forms its global representations from vi-
+time to experience a conscious percept. It       versial. Several neuroscientists, however,       sual signals. If attention is indeed crucial
+is difficult to determine just how much          including Robert Desimone and his col-           for visual awareness, the brain could form
+time is needed for an episode of visual          leagues at the National Institute of Men-        representations by attending to just one
+awareness, but one aspect of the problem         tal Health, have shown that the rate of fir-     object at a time, rapidly moving from one
+that can be demonstrated experimental-           ing of certain neurons in the macaque’s vi-      object to the next. For example, the neu-
+ly is that signals that are received close to-   sual system depends on what the monkey           rons representing all the different aspects
+gether in time are treated by the brain as       is attending to in the visual field. Thus, at-   of the attended object could all fire to-
+simultaneous.                                    tention is not solely a psychological con-       gether very rapidly for a short period,
+     A disk of red light is flashed for, say,    cept; it also has neural correlates that can     possibly in rapid bursts.
+20 milliseconds, followed immediately by         be observed. A number of researchers                 This fast, simultaneous firing might
+a 20-millisecond flash of green light in the     have found that the pulvinar, a region of        not only excite those neurons that sym-
+same place. The subject reports that he          the thalamus, appears to be involved in vi-      bolized the implications of that object but
+
+
+                The key issue is how the brain forms its global
+                   representations from visual signals.
+did not see a red light followed by a green      sual attention. We would like to believe         also temporarily strengthen the relevant
+light. Instead he saw a yellow light, just as    that the thalamus deserves to be called          synapses so that this particular pattern of
+he would have if the red and the green           “the organ of attention,” but this status        firing could be quickly recalled— a form
+light had been flashed simultaneously. Yet       has yet to be established.                       of short-term memory. If only one repre-
+the subject could not have experienced                                                            sentation needs to be held in short-term
+yellow until after the information from          Attention and Awareness                          memory, as in remembering a single task,
+the green flash had been processed and in-       T H E M A J O R P R O B L E M is to find what    the neurons involved may continue to fire
+tegrated with the preceding red one.             activity in the brain corresponds directly       for a period.
+    Experiments of this type led psychol-        to visual awareness. It has been speculat-           A problem arises if it is necessary to be
+ogist Robert Efron of the University of          ed that each cortical area produces              aware of more than one object at exactly
+California at Davis to conclude that the         awareness of only those visual features          the same time. If all the attributes of two
+processing period for perception is about        that are “columnar,” or arranged in the          or more objects were represented by neu-
+60 to 70 milliseconds. Similar periods are       stack or column of neurons perpendic-            rons firing rapidly, their attributes might
+found in experiments with tones in the           ular to the cortical surface. Thus, the pri-     be confused. The color of one might be-
+auditory system. It is always possible,          mary visual cortex could code for orien-         come attached to the shape of another.
+however, that the processing times may           tation and area MT for certain aspects of        This happens sometimes in very brief
+be different in higher parts of the visual       motion. So far experimentalists have not         presentations.
+hierarchy and in other parts of the brain.       found one region in the brain where all              Some time ago Christoph von der
+Processing is also more rapid in trained,        the information needed for visual aware-         Malsburg, now at Ruhr University Bo-
+compared with naive, observers.                  ness appears to come together. Dennett           chum in Germany, suggested that this dif-
+    Because attention appears to be in-          has dubbed such a hypothetical place             ficulty would be circumvented if the neu-
+volved in some forms of visual awareness,        “The Cartesian Theater.” He argues on            rons associated with any one object all
+it would help if we could discover its neu-      theoretical grounds that it does not exist.      fired in synchrony (that is, if their times of
+ral basis. Eye movement is a form of at-             Awareness seems to be distributed not        firing were correlated) but were out of
+tention, since the area of the visual field in   just on a local scale but more widely over       synchrony with those representing other
+which we see with high resolution is re-         the neocortex. Vivid visual awareness is         objects. Two other groups in Germany re-
+markably small, roughly the area of the          unlikely to be distributed over every cor-       ported that there does appear to be cor-
+thumbnail at arm’s length. Thus, we              tical area, because some areas show no re-       related firing between neurons in the visu-
+move our eyes to gaze directly at an ob-         sponse to visual signals. Awareness might,       al cortex of the cat, often in a rhythmic
+ject in order to see it more clearly. Our        for example, be associated with only those       manner, with a frequency in the 35- to
+eyes usually move three or four times a          areas that connect back directly to the pri-     75-hertz range, sometimes called 40-hertz,
+second. Psychologists have shown, how-           mary visual cortex or alternatively with         or γ, oscillation.
+ever, that there appears to be a faster form     those areas that project into one another’s          Von der Malsburg’s proposal prompt-
+
+16    SCIENTIFIC AMERICAN                                                                                                   THE HIDDEN MIND
+                                                   COPYRIGHT 2002 SCIENTIFIC AMERICAN, INC.
+                 ed us to suggest that this rhythmic and                                                             OPTICAL ILLUSION devised by Vilayanur S.
+                 synchronized firing might be the neural                                                             Ramachandran illustrates the brain's ability to
+                 correlate of awareness and that it might                                                            reconstruct missing visual information that falls on
+                                                                                                                     the blind spot of the eye. When you look at the
+                 serve to bind together activity concerning                                                          patterns of broken green bars, the visual system
+                 the same object in different cortical areas.                                                        produces two illusory contours defining a vertical
+                 The matter is still undecided, but at pres-                                                         strip. Now shut your right eye and focus on the
+                 ent the fragmentary experimental evi-                                                               white square in the green series of bars. Move the
+                 dence does rather little to support such an                                                         page toward the eye until the dot disappears
+                                                                                                                     (roughly six inches away). Most people see the
+                 idea. Another possibility is that the 40-                                                           vertical strip completed across the blind spot, not
+                 hertz oscillations may help distinguish fig-                                                        the broken line. Try the same experiment with the
+                 ure from ground or assist the mechanism                                                             series of three red bars. The illusory vertical
+                 of attention.                                                                                       contours are less well defined, and the visual
+                                                                                                                     system tends to fill in the horizontal bar across the
+                                                                                                                     blind spot. Thus, the brain fills in differently
+                 Correlates of Consciousness                                                                         depending on the image.
+                 A R E T H E R E S O M E particular types of
+                 neurons, distributed over the visual neo-                                                           ries of stereotyped online systems? We
+                 cortex, whose firing directly symbolizes                                                            would argue that far too many would be
+                 the content of visual awareness? One very                                                           required to express human behavior. The
+                 simplistic hypothesis is that the activities                                                        slower, conscious mode allows time for
+                 in the upper layers of the cortex are large-                                                        the individual neurons to become sensitive
+                 ly unconscious ones, whereas the activities                                                         to the context of what typically excites
+                 in the lower layers (layers 5 and 6) mostly                                                         them, so that a broader view of the current
+                 correlate with consciousness. We have                                                               state of affairs can be constructed. It
+                 wondered whether the pyramidal neurons            standing a central mystery of human life:         would be a great evolutionary advantage
+                 in layer 5 of the neocortex, especially the       how the physical events occurring in our          to be able to respond very rapidly to
+                 larger ones, might play this latter role.         brains while we think and act in the world        stereotyped situations and also, more
+                      These are the only cortical neurons          relate to our subjective sensations— that         slowly, to more complex and novel ones.
+                 that project right out of the cortical sys-       is, how the brain relates to the mind.            Usually both these modes will act in par-
+                 tem (that is, not to the neocortex, the thal-                                                       allel. Exactly how all these pathways work
+                 amus or the claustrum). If visual aware-          Postscript                                        and how they interact are far from clear.
+                 ness represents the results of neural com-        T H E R E H A V E B E E N several relevant            There have been more experiments on
+                 putations in the cortex, one might expect         developments since this article was first         the behavior of neurons that respond to
+                 that what the cortex sends elsewhere              published in 1992. It now seems likely            bistable visual percepts, such as binocular
+                 would symbolize those results. Moreover,          that there are rapid “online” systems for         rivalry, but it is probably too early to
+                 the neurons in layer 5 show a rather un-          stereotyped motor responses such as hand          draw firm conclusions from them about
+                 usual propensity to fire in bursts. The idea      and eye movement. These systems are un-           the exact neural correlates of visual con-
+                 that layer 5 neurons may directly sym-            conscious and lack memory. Conscious              sciousness. We have suggested on theo-
+                 bolize visual awareness is attractive, but        seeing, on the other hand, seems to be            retical grounds based on the neuro-
+                 it still is too early to tell whether there is    slower and more subject to visual illu-           anatomy of the macaque that primates
+                 anything in it.                                   sions. The brain needs to form a conscious        are not directly aware of what is happen-
+                      Visual awareness is clearly a difficult      representation of the visual scene that it        ing in the primary visual cortex, even
+                 problem. More work is needed on the               can then employ for many different ac-            though most of the visual information
+                 psychological and neural basis of both at-        tions or thoughts.                                flows through it. This hypothesis is sup-
+                 tention and very short term memory.                   Why is consciousness needed? Why              ported by some experimental evidence,
+                 Studying the neurons when a percept               could our brains not consist of a whole se-       but it is still controversial.            SA
+
+                 changes, even though the visual input is
+                 constant, should be a powerful experi-              MORE TO E XPLORE
+                 mental paradigm. We need to construct              Consciousness and the Computational Mind. Ray Jackendoff. MIT Press/Bradford Books, 1990.
+                 neurobiological theories of visual aware-          The Visual Brain in Action. A. David Milner and Melvyn A. Goodale. Oxford University Press, 1995.
+                 ness and test them using a combination of          Are We Aware of Neural Activity in Primary Visual Cortex? Francis Crick and Christof Koch in
+                                                                    Nature, Vol. 375, pages 121–123; May 11, 1995.
+                 molecular, neurobiological and clinical
+JOHNNY JOHNSON
+
+
+
+
+                                                                    Consciousness and Neuroscience. Francis Crick and Christof Koch in Cerebral Cortex, Vol. 8, No. 2,
+                 imaging studies.                                   pages 97–107; 1998.
+                      We believe that once we have mas-             Vision Science: From Photons to Phenomenology. Stephen E. Palmer. MIT Press/Bradford Books, 1999.
+                 tered the secret of this simple form of            Principles of Neural Science. Eric R. Kandel, James H. Schwartz and Thomas M. Jessell.
+                 awareness, we may be close to under-               McGraw-Hill, 2000.
+
+
+                 www.sciam.com                                                                                                              THE HIDDEN MIND          17
+                                                                  COPYRIGHT 2002 SCIENTIFIC AMERICAN, INC.
+

@@ -1,0 +1,217 @@
+# 310   My God, He Plays Dice!
+
+**source:** pdf · **section:** books
+**file:** Field_Theory
+---
+
+
+                                  te i n’s
+                          Eins heory
+                         Fi e l d T
+Chapter 38
+                                             EInstein’s Field Theory 311
+
+Einstein’s Field Theory
+   In the last thirty years of his life Einstein’s main mission was to
+create a unified field theory that would combine the gravitational
+field of Newton (or Einstein), the electromagnetic field of Maxwell,
+and perhaps the probability field of quantum mechanics.
+   But he also worried much of his life that continuous fields
+are only theories, purely abstract information, whereas discrete
+particles have a more substantial reality, arranging themselves in
+material information structures.
+   But the ideal and pure information of continuous field theories
+clearly has causal powers over the “discrete” material world, as we
+saw in the two-slit experiment (chapter 33).
+   Einstein in his later years grew quite pessimistic about the
+possibilities for deterministic continuous field theories, by
+comparison with indeterministic and statistical discontinuous
+particle theories like those of quantum mechanics.
+   Einstein deeply believed that any physical theory must be
+based on a continuous field. For Einstein, physical objects must
+be described by continuous functions of field variables in four-
+dimensional space-time coordinates. In quantum field theory
+
+                                                                         Chapter 38
+(QFT), particles are functions of (singularities in) these fields. In
+quantum electrodynamics (QED), fields are merely properties of
+aggregated particles. Which then are the more fundamental?
+   It appears to be particles, especially today when the last
+fundamental particle predicted by the standard theory (the Higgs
+boson) has been found. Einstein suspected that his dream of a
+unified field theory may not be possible.
+   In his 1949 autobiography for his volume in Paul Schilpp’s
+Library of Living Philosophers, Einstein asked about the theoretical
+foundation of physics in the future, “Will it be a field theory [or]
+will it be a statistical [particles] theory?”
+    “Before I enter upon the question of the completion of the
+    general theory of relativity, I must take a stand with reference
+    to the most successful physical theory of our period, viz.,
+         312     My God, He Plays Dice!
+
+                     the statistical quantum theory which, about twenty-five
+                     years ago, took on a consistent logical form (Schrödinger,
+                     Heisenberg, Dirac, Born). This is the only theory at present
+                     which permits a unitary grasp of experiences concerning the
+                     quantum character of micro-mechanical events. This theory,
+                     on the one hand, and the theory of relativity on the other,
+                     are both considered correct in a certain sense, although their
+                     combination has resisted all efforts up to now. This is probably
+                     the reason why among contemporary theoretical physicists
+                     there exist entirely differing opinions concerning the question
+                     as to how the theoretical foundation of the physics of the
+                     future will appear. Will it be a field theory; will it be in essence
+                     a statistical theory? I shall briefly indicate my own thoughts on
+                     this point. 1
+               Castle In The Air
+                  In 1954 Einstein wrote his friend Michele Besso to express his lost
+               hopes for a continuous field theory like that of electromagnetism
+               or gravitation,
+                     “I consider it quite possible that physics cannot be based on
+                     the field concept, i.e:, on continuous structures. In that case,
+                     nothing remains of my entire castle in the air, gravitation
+                     theory included, [and of] the rest of modern physics.” 2
+                 In the same year, he wrote to David Bohm,
+Chapter 38
+
+                     I must confess that I was not able to find a way to explain the
+                     atomistic character of nature. My opinion is that if the
+                     objective description through the field as an       Einstein sees a
+                     elementary concept is not possible, then one has conflict between
+                     to find a possibility to avoid the continuum
+                                                                         relativity and
+                     (together with space and time) altogether. But I
+                     have not the slightest idea what kind of elemen- quantum
+                     tary concepts could be used in such a theory. 3     mechanics
+                     (Einstein to David Bohm, 28 October 1954).
+                 Again in the same year, he wrote to H.S.Joachim,
+                     it seems that the state of any finite spatially limited system
+                     may be fully characterized by a finite number of numbers.
+                     This speaks against the continuum with its infinitely many
+
+                 1       Schilpp, 1949, p.81
+                 2       Pais, 1982, p.467
+                 3       Stachel, 1986, p.380
+                                              EInstein’s Field Theory 313
+
+      degrees of freedom. The objection is not decisive only because
+      one doesn’t know, in the contemporary state of mathematics,
+      in what way the demand for freedom from singularity (in the
+      continuum theory) limits the manifold of solutions. 4
+  The fifth edition of Einstein’s The Meaning of Relativity included
+a new appendix on his field theory of gravitation. In the final
+paragraphs of this work, his last, published posthumously in 1956,
+Einstein wrote,
+      “Is it conceivable that a field theory permits one to understand
+      the atomistic and quantum structure of reality ? Almost
+      everybody will answer this question with “no”...
+      “One can give good reasons why reality cannot at all be
+      represented by a continuous field. From the quantum
+      phenomena it appears to follow with certainty that a finite
+      system of finite energy can be completely described by a finite
+      set of numbers [quantum numbers]. This does not seem to be
+      in accordance with a continuum theory, and must lead to an
+      attempt to find a purely algebraic theory for the description
+      of reality. But nobody knows how to obtain the basis of such a
+      theory.” 5
+   No one has described Einstein’s doubts about continuous field
+theories better that John Stachel, one of the early editors of the
+Collected Papers of Albert Einstein. Stachel speculated about
+
+                                                                         Chapter 38
+“another Einstein” with doubts about a continuum and field.
+   Stachel points to Einstein’s 1923 article “Does Field Theory
+Offer Possibilities for the Solution of the Quantum Problem?,”
+in which Einstein points out that the great successes of quantum
+theory over the last quarter of a century should not be allowed to
+conceal the lack of any logical foundation for the theory.
+   He quotes Einstein...
+      The essential element of the previous theoretical development,
+      which is characterized by the headings mechanics, Maxwell-
+      Lorentz electrodynamics, theory of relativity, lies in the
+      circumstance that they work with differential equations
+      that uniquely determine events [das Geschehen] in a four-
+  4       ibid.581
+  5       Einstein, 1956, pp.165-66
+         314         My God, He Plays Dice!
+
+                     dimensional spatio-temporal continuum if they are known for a
+                     spatial cross-section...In view of the existing difficulties, one has
+                     despaired of the possibility of describing the actual processes by
+                     means of differential equations. 6
+                  The linear Schrödinger differential equation for waves cannot give
+               us the details of individual particles, only the statistics of ensembles
+               of particles. Stachel provides several powerful statements from
+               1935 to Einstein’s posthumous writings pointing toward discrete
+               “algebraic” theories of particles replacing continuum field theories.
+                  In modern terms, the arrangement of particles would be described
+               by integers, the quantum numbers as “bits” of information in a
+               “digital” theory, not the continuum of an “analog” theory.
+                     In any case one does not have the right today to maintain that
+                     the foundation must consist in a field theory in the sense of
+                     Maxwell. The other possibility, however, leads in my opinion
+                     to a renunciation of the time-space continuum and to a purely
+                     algebraic physics. Logically this is quite possible (the system
+                     is described by a number of integers; “time” is only a possible
+                     viewpoint [Gesichtspunkt], from which the other “observables”
+                     can be considered—an observable logically coordinated to all
+                     the others. Such a theory doesn’t have to be based upon the
+                     probability concept. For the present, however, instinct rebels
+                     against such a theory (Einstein to Paul Langevin, 3 October
+Chapter 38
+
+                     1935). 7
+                     It has been suggested that, in view of the molecular structure
+                     of all events in the small, the introduction of a space-time
+                     continuum may be considered as contrary to nature. Per-
+                     haps the success of Heisenberg’s method points to a purely
+                     algebraical method of description of nature, to the elimination
+                     of continuous functions from physics. Then, however, we must
+                     also give up, on principle, the utilization of the space-time
+                     continuum. It is not inconceivable that human ingenuity will
+                     some day find methods that will make it possible to proceed
+                     along this path. Meanwhile, however, this project resembles
+                     the attempt to breathe in an airless space (“Physics and Reality,”
+                 6       Stachel, 2002, p.149
+                 7       ibid., p.140
+                                             EInstein’s Field Theory 315
+
+      [1936], cited from Einstein Ideas and Opinions 1954, 319). 8
+      In present-day physics there is manifested a kind of battle
+      between the particle-concept and the field-concept for
+      leadership, which will probably not be decided for a long time.
+      (Einstein to Herbert Kondo, 11 August 1952). 9
+   Einstein might even endorse gravitation theories today, like string
+theory and loop quantum gravity, which describe tiny structures
+that might be the gravity particle - the “graviton.” Some fit the
+graviton into standard particle theory as a spin-2 boson. Spin-1
+bosons like the photon have an infinity in quantum field theory
+that can be removed by renormalization. The infinity shows up as a
+single loop in a Feynman diagram. A spin-2 particle has two loops
+in its Feynman diagram and no method is known to eliminate them.
+   Particles might have no infinity problems in an algebraic theory?
+   Objective reality does not lead to Einstein’s “Unified Field Theory,”
+but it does leave us with three very useful fields, the electromagnetic,
+the gravitational, and the quantum mechanical probability field, all
+generating abstract information that makes very accurate predictions
+about the behavior of real particles.
+   Einstein’s “castle in the air,” “breathing in empty space,” should
+not lead us to despair about quantum field theories, but only to see
+them more clearly as Einstein first described a wave, as “ghost fields”
+
+                                                                           Chapter 38
+or “guiding fields.”
+   We might say that where particles are concrete and “real,” fields
+are abstract and imaginary - “free creations of the human mind.”
+   Particles are actual. They are involved in actions and interactions.
+   Fields are possibilities. Wave functions allow us to calculate the
+probabilities for each possibiity, making predictions to degrees of
+accuracy unheard of in the other sciences.
+   In short, fields are theories, mere ideas, abstract information
+about continuous functions across infinite space and time.
+   Particles are facts, derived from discrete concrete experiments
+done in the here and now.
+
+  8       ibid., p.150
+  9       ibid., p.150
+

@@ -1,0 +1,744 @@
+# Mind and matter as asymptotically disjoint,
+
+**source:** pdf · **section:** presentations
+**file:** Atmanspacher
+---
+
+          inequivalent representations with broken
+                  time-reversal symmetry
+                                         Harald Atmanspacher
+              Institut für Grenzgebiete der Psychologie und Psychohygiene e.V.
+                          Wilhelmstr. 3a, D–79098 Freiburg, Germany
+                                              and
+                       Max-Planck-Institut für extraterrestrische Physik
+                                 D–85740 Garching, Germany
+
+                                     BioSystems 68, 19–30 (2003)
+
+Abstract                                                     body. While the latter areas are discussed mainly
+                                                             in fields such as the philosophy of mind, cognitive
+Many philosophical and scientific discussions of top-        science, neuroscience, physiology, and psychology,
+ics of mind-matter research make implicit assump-            the problem of how a distinction between mind and
+tions, in various guises, about the distinction be-          matter in general terms can possibly be conceived is
+tween mind and matter. Currently predominant po-             discussed primarily by philosophers of physics and
+sitions are based on either reduction or emergence,          philosophically interested physicists. Given that
+providing either monistic or dualistic scenarios. A          physics itself has been developed and has to be un-
+more-involved framework of thinking, which can be            derstood as a science of the material world, some
+traced back to Spinoza and Leibniz, combines the             philosophers and physicists have always been fasci-
+two scenarios, dualistic (with mind and matter sep-          nated by the question of how this material world is
+arated) and monistic (with mind and matter unsep-            related to anything that appears as non-material,
+arated), in one single picture. Based on such a pic-         say mental, to us – our concepts, ideas, thoughts,
+ture, the transition from a domain with mind and             feelings, and so on.
+matter unseparated to separate mental and mate-                 The article begins with some general remarks
+rial domains can be viewed as a result of a general          about different philosophical conceptions concern-
+kind of symmetry breaking, which can be described            ing the relationship between mind and matter (sec-
+formally in terms of inequivalent representations.           tion 2.1). Subsequently, some selected positions by
+The possibility of whether this symmetry break-              physicists concerning the same issue are outlined
+ing might be connected to the emergence of tem-              briefly (section 2.2). They emphasize the emergence
+poral directions from temporally non-directed or             of a distinction between mind and matter from
+even non-temporal levels of reality will be discussed.       an underlying distinction-free domain of descrip-
+Correlations between mental and material aspects             tion rather than relationships between mind and
+of reality could then be imagined as remnants of             matter directly. Section 3 offers speculative sug-
+such primordial levels. Different conceivable types          gestions about possible features of the emergence
+of inequivalent representations would lead to corre-         of a mind-matter distinction. More specifically, a
+lations with different characteristics.                      scenario is proposed that provides nonlocal corre-
+                                                             lations between mental and material states. These
+                                                             correlations are not permanent but decay, leading
+1    Introduction                                            to asymptotically disjoint states with no remaining
+                                                             correlations (section 3.1). Moreover, the breaking
+The central topic addressed in this paper is the             of time-reversal symmetry is proposed as a key fea-
+mind-matter distinction in a general conceptual              ture characterizing the emergence of distinguished
+sense, not in the more specific sense of a distinc-          mental and material states (section 3.2). Section 4
+tion between mind and brain or between mind and              concludes the paper.
+
+                                                         1
+2     Mind and Matter                                                 morphogenetics, synergetics, complex systems, non-
+                                                                      equilibrium thermodynamics, catastrophe theory,
+2.1     Monism versus Dualism                                         and others. It can be argued that emergence or
+                                                                      supervenience are connected with a weak type of
+The question of relationships between the material                    reduction insofar as emergent properties must not
+world with its facts or data and its apparently non-                  contradict fundamental laws at a basic level of de-
+material counterpart or complement, that is the do-                   scription, but also neither are determined uniquely
+main of models and theories, belongs to the oldest,                   nor can be derived uniquely from that level with-
+most puzzling, and most controversial questions in                    out further (contextual or contingent) conditions.
+the long history of philosophy and the history of                     For instance, physical processes in the human brain
+science. One of the main reasons for its controver-                   must not violate any applicable physical laws, but
+sial nature is that the question itself is understood                 by no means are these laws sufficient to understand
+in different ways depending on basic assumptions                      any of the higher-level properties and functions the
+concerning our conceptions of reality. What makes                     brain has and performs. Nevertheless, the funda-
+all approaches toward this question as well as the                    mental laws of physics can be assumed to be exhaus-
+discussions about those approaches so difficult is                    tive at the basic level, and the existence of higher-
+the fact that those assumptions are often implicit                    level properties does not necessarily force us to add
+rather than clarified explicitly.                                     further “fundamental laws”.
+   For many good reasons, any related inquiry has
+                                                                         The other general framework is characterized as
+to take into account the corpus of knowledge we
+                                                                      dualism, ranging from ontological to epistemolog-
+have acquired so far. The contemporary status of
+                                                                      ical and methodological versions. Briefly speak-
+the sciences is the result of centuries of history, built
+                                                                      ing, ontological dualism maintains that the world
+upon various lines of empiricist tradition and upon
+                                                                      consists of mind and matter (or other, correspond-
+the Cartesian distinction of res cogitans and res ex-
+                                                                      ing concepts) as ultimately separate “substances”.
+tensa. At present, there are many scientific topics
+                                                                      Epistemological dualism refers to mind and matter
+touching this distinction itself as more and more as-
+                                                                      as fundamentally different domains with respect to
+pects of mind-matter research become timely and
+                                                                      our modes of gathering and processing knowledge
+sensible research topics.
+                                                                      of the world, irrespective of what this world “as
+   From the viewpoint of a philosophically informed                   such” (“in itself”) may or may not be. Method-
+contemporary physicist (who typically disregards                      ological dualism reflects an attitude that is neutral
+any kind of “mind-over-matter” idealism), there                       with respect to the claims made by the other two
+are two general frameworks within which reality                       variants. It utilizes the mind-matter distinction as a
+can be conceived.1 One of them is denoted usu-                        basic, but maybe not the only possible methodolog-
+ally as physicalism (or materialism) and expresses                    ical tool to inquire into the structure of the world.
+the monistic idea that the basis of reality consists
+                                                                         In its weakest (methodological) form, dualism is
+of the material world alone; anything like qualia,
+                                                                      a prerequisite of any physicalist approach insofar as
+consciousness, psyche, mind, or spirit is anchored
+                                                                      the latter presupposes a distinction between mat-
+in the material elements and fundamental laws of
+                                                                      ter and something that appears to be non-material
+physics. For physicalists, the way in which these
+                                                                      and – in one way or another – has to be related
+apparently non-material higher-level properties can
+                                                                      to, explained by, or even derived from the elements
+be explained is a follow-up question, again answered
+                                                                      and laws of the material world. Within such a
+differently within different ways of thinking, using
+                                                                      kind of minimal dualism, which is hard to avoid,
+conceptual schemes such as, e.g., emergence, super-
+                                                                      we may use distinctions such as that of models and
+venience, or reduction. These concepts are tightly
+                                                                      data, theories and facts, and so forth (compare At-
+related to each other.
+                                                                      manspacher 1994). In the present article, any dual-
+   In general, it is helpful to keep in mind that emer-
+                                                                      istic kind of argument is meant in a non-ontological
+gence is an extremely colorful, but often not well-
+                                                                      manner.
+defined concept that has to be discussed together
+with supervenience and reduction.2 All these top-                        For a physicalist approach, the concepts of emer-
+ics have to do with instabilities (of different kinds)                gence, supervenience, or reduction seem to refer ex-
+and have been addressed in various fields such as                     plicitly to the world of material facts; they refer
+                                                                      to a reality addressed by a certain type of real-
+   1 For more details about these topics the reader is referred
+                                                                      ism. However, keeping in mind that this reference
+to the relevant literature, e.g., Chalmers (1996).
+   2 Some useful sources are Silberstein (1998), Primas               presupposes the (possibly nonunique) selection of
+(1998), Scheibe (1997), Chalmers (1996), Crutchfield (1994),          a viewpoint, we may also argue that emergence,
+Kim (1984).                                                           supervenience, or reduction primarily refer to our
+
+                                                                  2
+(non-material) descriptions of the material world            two domains of description with equal importance
+rather than to elements of that world itself. The            in a dualistic fashion. But, as mentioned above,
+interpretations of those descriptions populate the           this dualism can have many variations. The epis-
+entire spectrum between a naive realism, an unre-            temological version of dualism is the focus of this
+flected belief in an external reality, and a radical         paper. It says that mind and matter are distinct
+relativism, typically unattractive to working scien-         for the purpose of our modes of knowledge acquisi-
+tists who are used to dealing with or relying on the         tion; they are not considered to be distinct a priori.
+regulative power of events that “really” happen in           Corresponding approaches typically assume an on-
+the material world.                                          tological level of description without any split of
+                                                             mental and material domains, which is more fun-
+                                                             damental than the descriptive level with split do-
+2.2    Tentative Ideas about Mind-
+                                                             mains. If the transition from the fundamental level
+       Matter Relationships from the                         to that with mind and matter separated is to be
+       Viewpoints of Some Physicists                         addressed in terms of emergence, one would have
+In recent years some fairly popular speculative ac-          to think of it as an emergence of the distinction of
+counts of mind-matter issues have been developed             mind and matter rather than the emergence of mind
+by physicists such as Penrose or Stapp. Their                from matter.
+ideas and concepts, for instance outlined in Penrose            In the history of philosophy, such a conception
+(1994) and Stapp (1993), still lack both a satisfy-          has been discussed by, e.g., Spinoza and Leibniz.
+ing formal framework and empirical confirmation              For Spinoza, there is one fundamental substance,
+and are, therefore, not easy to criticize fairly. Very       a “causa sui”, from which all particular manifesta-
+roughly speaking, Penrose expects that a compre-             tions derive as differentiations. In Leibniz’s con-
+hensive understanding of consciousness as a feature          ception, mental and material domains of reality
+of the mental world depends on the development of            exist in parallel, and their parallelism is guaran-
+a more comprehensive quantum theory, including               teed by “preestablished harmony”. Of course, there
+non-algorithmic elements of measurement, certain             are many more details to these two frameworks of
+aspects of quantum coherence, and ultimately even            thinking, which I cannot discuss here.3 What I
+quantum gravity. In Stapp’s approach, contempo-              want to discuss in the following is related to some
+rary quantum theory does (more or less) already              physically inspired ideas, which are guided by the
+represent a sufficient formal framework for describ-         same general scenario. Here are some correspond-
+ing the properties and laws of the mental world.             ing voices from the last five decades, all speculating
+For him, understanding consciousness as a feature            on the emergence of a mind-matter distinction from
+of the mental world amounts to a more comprehen-             an assumed distinction-free domain.
+sive interpretation of quantum theory as it exists,
+                                                               • In his discussions and correspondence with
+including elements of the philosophy of Whitehead
+                                                                 C.G. Jung, Wolfgang Pauli often made indica-
+and James. A discussion of additional positions
+                                                                 tions to the effect that mental and material do-
+concerning mind and matter from the viewpoint of
+                                                                 mains might be epistemologically distinct do-
+physicists has been given by Butterfield (1995).
+                                                                 mains. They originate from an integral domain
+   From a more general perspective, the various po-
+                                                                 prior to the distinction of mind and matter
+sitions about mind and matter can be grouped ac-
+                                                                 (“unus mundus” in Jung’s terms). This inte-
+cording to two main categories. First, there is the
+                                                                 gral domain can be characterized by the non-
+majority of those who argue in favor of a thesis
+                                                                 conscious from a mental perspective and by the
+like “(basically) it’s all physics”, implicitly assum-
+                                                                 non-observed from a material (physical) per-
+ing different types of materialist perspectives in the
+                                                                 spective. In Jungian depth psychology, this
+sense that anything mental can be (more or less
+                                                                 “unus mundus” is the domain of “archetypes”
+strictly) deduced from the properties and laws of
+                                                                 which can manifest themselves in the mental
+the material world. A liberal subgroup within this
+                                                                 and material domains and in this way produce
+category is the group of those who would admit that
+                                                                 “synchronicities” (for more details and refer-
+higher-level properties and laws emerge from (and
+                                                                 ences, see Atmanspacher and Primas (1996)).
+cannot be strictly reduced to) lower-level properties
+and laws in some sense to be defined. On this view,             3 More specific remarks in this context can, for instance,
+
+advocated, e.g., by Searle (1992, 1997), conscious-          by found in Popper and Eccles (1977). A modern version
+                                                             of such a kind of “double aspect” approach has been advo-
+ness would be conceived as an emergent property of
+                                                             cated by Chalmers (1996) in the context of his discussion of
+the material brain.                                          the “hard problem” of consciousness. Some critical remarks
+   The second category treats mind and matter as             about this approach can be found in Atmanspacher (1997).
+
+                                                         3
+  In a letter to his colleague Markus Fierz of Jan          • In two of his recent contributions, Bernard
+  7, 1948, Pauli wrote (von Meyenn 1993): “The                d’Espagnat has made explicit indications with
+  inner images are psychic manifestations of the              respect to the relationship between mind and
+  archetypes ... The laws of the material world               matter (d’Espagnat 1997, 1999). In his article
+  would refer to the physical manifestations of               of 1999, d’Espagnat uses the notion of an in-
+  the archetypes ... Each natural law should then             dependent “ ‘Ultimate Reality’ that is neither
+  have an inner correspondence and vice versa.”               mental nor material (or, equivalently, is both),
+                                                              for it is conceptually prior to the mind-matter
+• Eugene Wigner is another eminent physicist                  splitting” (p. 267). It is interesting to note that
+  who was strongly interested in mind-matter                  on d’Espagnat’s view there is an additional dis-
+  questions. A major guiding framework in                     tinction between an “independent reality” and
+  Wigner’s work can be characterized by invari-               an “empirical reality” within the material do-
+  ance and symmetry principles. In addition to                main (p. 268), which is conceptually posterior
+  his questionable conjectures about the role of              to the mind-matter distinction and should in
+  consciousness in the reduction of wavepackets,              principle be in the realm of physical theories,
+  his deliberations concerning the relationship               excluding any reference to mental states or pro-
+  between mind and matter often took shape as                 cesses.
+  symmetry arguments, see, e.g., Wigner (1964,
+  1972). Wigner’s remarks in his article “Physics            There are several interesting differences between
+  and the Explanation of Life” (Wigner 1970) in-          a scenario (A) in which reduction and/or emer-
+  dicate the possibility of a mind-matter distinc-        gence relations between a mental and a material
+  tion according to a symmetry breaking (viola-           domain are considered and a scenario (B) in which
+  tion of invariance) of an underlying, unifying          a distinction-free level of description is added. First
+  level of description: “A picture will be discov-        of all, scenario (A) restricts scientific discourse to
+  ered which will provide us with a view encom-           relationships (interactions, correlations, etc.) be-
+  passing both mental and physical phenomena              tween the mental and the material. By contrast,
+  and describe regularities in both domains from          scenario (B) would allow us to talk about rela-
+  a unified point of view.”                               tionships between mind and matter that might be
+                                                          “caused” by a third domain, neutral with respect
+• Apart from attempts to formulate hidden vari-
+                                                          to the mind-matter distinction and prior to their
+  able approaches to give a more intuitive under-
+                                                          separation.4
+  standing of quantum theory, there are other,
+                                                             Second, a scenario of type (B) is capable of com-
+  more philosophical aspects of the work of David
+                                                          bining dualistic and monistic elements that appear
+  Bohm. In particular, his ideas about expli-
+                                                          as strict alternatives in scenario (A). Scenario (B)
+  cate and implicate order is appealing with re-
+                                                          also makes it possible to ask questions that are irrel-
+  spect to the interpretation of quantum theory
+                                                          evant under (A), such as: why is the decomposition
+  and (maybe) beyond. While explicate order
+                                                          into mental and material domains so significant as
+  characterizes an operationally accessible real-
+                                                          compared to other decompositions that might also
+  ity (cf. epistemic descriptions), implicate order
+                                                          be conceivable? What are the referents of a descrip-
+  deals with ontological questions (cf. ontic de-
+                                                          tion of the distinction-free domain? Which symme-
+  scriptions). Bohm’s conception is a precursor
+                                                          try is broken when mental and material domains
+  of the concept of relative onticity, recently in-
+                                                          emerge? What would a detailed description of this
+  troduced (Atmanspacher and Kronz 1999) as
+                                                          symmetry breaking look like?
+  an attempt to make Quine’s ontological relativ-
+                                                             Unfortunately, the quoted authors do not give
+  ity precise enough to be applicable to physical
+                                                          details about the sense in which their speculations
+  situations. Its essence is that each implicate
+                                                          could be worked out in order to – finally – lead to
+  order can be viewed as explicate if another,
+                                                          researchable problems or problem areas. It is the
+  “more” implicate order is found. In this spirit,
+                                                          purpose of the next section of this article to elabo-
+  Bohm (1990) refers to the mind-matter distinc-
+                                                          rate on this issue. Of course, it is to be understood
+  tion at the level of an explicate order, which is
+                                                          that any explicit remark made in the remainder of
+  based on an implicate order without that dis-
+  tinction: “At each level of subtlety there will             4 Scenario (B) might even be conceived in a way that
+
+  be a ‘mental pole’ and a ‘physical pole’... But         allows “feedback” from the separated domains to the
+                                                          distinction-free domain. Also, the separation of mental and
+  the deeper reality is something beyond either           material domains should not be understood as one unique
+  mind or matter, both of which are only aspects          event. It might rather be conceived in terms of ongoing sym-
+  that serve as terms for analysis.”                      metry breakings, due to a plurality of contingent conditions.
+
+                                                      4
+this article will be entirely hypothetical. But given                 tions that are not given at the level of X but have
+the fact that philosophers such as Spinoza and Leib-                  to be added depending on the situation considered
+niz lived centuries ago, it might be timely to use the                (such as the GNS-representation in physical appli-
+extended body of knowledge that modern science                        cations). The emergence of such inequivalent repre-
+has provided since then to speculate about ways                       sentations can be conceived as a symmetry break-
+in which a symmetry breaking yielding a Cartesian                     ing. (A relevant example in physical applications
+distinction of mind and matter can be conceived.                      is the symmetry breaking into different thermody-
+   As mentioned above, physical concepts will be                      namical phases.)
+utilized as the main source of inspiration for cor-
+                                                                         I am aware that these characterizations are far
+responding conjectures. In particular, these con-
+                                                                      too short to give the reader a formally intelligible
+jectures will be based on the assumption that the
+                                                                      or even intuitively accessible picture of the formal
+distinction-free domain of description, prior to the
+                                                                      framework. Illuminating conceptual introductions
+mind-matter separation, is described in terms of
+                                                                      into the material, together with the necessary math-
+a formalism that has the mathematical structure
+                                                                      ematical background, can be found in Primas (1990,
+of a quantum theory in a general sense, not re-
+                                                                      1993, 1997, 2000).
+stricted to applications dealing with material sys-
+tems alone. This must not be confused, however,                         Under the assumptions given above it is possible
+with the position that quantum theory as it exists                    to propose two possible features of a mind-matter
+today is sufficient to describe both mind and mat-                    distinction as in scenario (B).
+ter exhaustively. Quantum theory in the general
+sense just mentioned is intended as a tool to de-
+scribe the distinction-free domain in terms which
+are neutral with respect to the mind-matter dis-                       1. Mental and material states can be conceived as
+tinction. Based on such a description, the goal is                        correlated in a way that mimics nonlocal cor-
+to derive descriptions for the material and mental                        relations in quantum physics. A sketch of a
+domains separately. In their technical aspects, the                       corresponding tentative proposal was given by
+following speculations will be developed within the                       Primas (1996). If inequivalent representations
+terminology of algebraic quantum theory.                                  of X are taken into account, it would be pos-
+                                                                          sible to speculate about correlations between
+                                                                          mind and matter that are not generic and per-
+3     Possible Features of an                                             manent, but are time-dependent. Asymptoti-
+      Emerging Mind-Matter Dis-                                           cally (i.e., for t → ∞), one might think of dis-
+                                                                          joint states, without any nonlocal correlations,
+      tinction                                                            in different superselection sectors of a properly
+                                                                          chosen state space. For finite but long times,
+Let us assume a basic domain of description X,
+                                                                          these states would be approximately disjoint,
+which is neutral with respect to the distinction be-
+                                                                          so that faint correlations should remain.
+tween mind and matter, i.e., which lacks this dis-
+tinction. Assume further that this description is
+basically non-Boolean (such as a quantum descrip-
+tion in terms of a non-commutative algebra). Be-
+                                                                       2. The emergence of separate domains of mind
+yond that, the evolution of states in X is assumed
+                                                                          and matter might be associated with the break-
+to be given by a group of automorphisms, and X is
+                                                                          ing of the time-reversal symmetry of the auto-
+assumed to be an infinite system.5
+                                                                          morphic dynamics in X, leading to two semi-
+   Under these conditions, the pure formalism of
+                                                                          group evolutions with opposite temporal direc-
+algebraic quantum theory (without specific refer-
+                                                                          tion. The basic idea here would be that the
+ence to anything in the material world) implies that
+                                                                          forward semigroup (t ≥ 0) applies to the evo-
+there exist representations of (the commutation re-
+                                                                          lution of material states, whereas the backward
+lations between observables in) X that are not uni-
+                                                                          semigroup (t ≤ 0) applies to the evolution of
+tarily equivalent. The construction of these inequiv-
+                                                                          mental states. As usual, the forward semigroup
+alent representations depends on contextual condi-
+                                                                          would be associated with efficient causation.
+    5 Since the restriction of X onto the material domain has             Its counterpart, the backward semigroup could
+to reproduce the known physical theories, it must give rise to            be associated with features alluding to some-
+physically infinite systems, i.e., systems with infinitely many
+physical degrees of freedom. This is only possible if X itself
+                                                                          thing like final causation – a topic expunged
+is infinite.                                                              from the natural sciences long ago.
+
+                                                                  5
+3.1     Decay of Nonlocal Correlations the sense of correlations between mental states of
+        Provides Asymptotically Dis- being conscious and material brain states might be
+        joint Mental and Material States an issue along these lines of argument. Insofar as
+                                                             conscious states (such as in cognition, perception,
+In an article entitled “Synchronizität und Zufall”          emotion, attention, memory, etc.) are always cor-
+(synchronicity and chance), Primas (1996) dis-               related with certain features of brain states, these
+cussed a generalized derivation of Bell’s inequalities       correlations can be considered as quasi-permanent.
+in the framework of algebraic quantum theory. The            One interesting proposal in this context is to look
+derivation itself was published by Landau (1987)             for mental states or brain states for which these
+and Baez (1987). It does not use typical Hilbert             correlations are suppressed, blocked or simply non-
+space characteristics such as the norm topology,             existent.
+which means that it is very much independent of                 The other alternative is that nonlocal correla-
+the state space used for the representation of the           tions, if they are relevant at all, are not constant but
+states of a system under study. In a few words,              time dependent and decay as time increases. This
+the conceptual consequence of the generalized ver-           would mean that they are fully developed only at a
+sion of Bell’s inequalities can be formulated in the         time t = 0, the instant at which the symmetry be-
+following manner:                                            tween mind and matter is broken. A possible formal
+                                                             conceptualization of this idea could be based on the
+      If a system X is decomposed into two sub-              asymptotic disjointness of the relevant states. This
+      systems I and II with non-commutative                  is to say that inequivalent representations of X in
+      properties in each of them, then there are             terms of mental and material states are asymptoti-
+      nonlocal correlations between subsystems I             cally disjoint. This is to say that they are located in
+      and II.                                                different superselection sectors (of a properly chosen
+                                                             state space), so that for t → ∞ no superpositions
+                                                             of those states are possible and no nonlocal corre-
+  It is remarkable that the only condition for nonlo-
+                                                             lations are left. But the disjointness is approached
+cal correlations between the two subsystems is that
+                                                             gradually: for large but finite times mental and ma-
+there are non-commutative properties in each of the
+                                                             terial states are approximately disjoint so that faint
+subsystems, such as
+                                                             correlations may remain. In close analogy to the
+        [A(I), B(I)] 6= 0,   [A(II), B(II)] 6= 0.            emergence of classical states in quantum systems, a
+                                                             viable tool to characterize the decay rate might be
+It is not required that properties of subsystems             due to large deviation entropies (Amann and At-
+I and II are mutually non-commutative, such as               manspacher 1998, 1999). Other approaches to deal
+[A(I), A(II)] 6= 0, or other permutations.                   with this issue can be imagined in terms of robust-
+   Since the formulation of this type of nonlocal            ness criteria (cf. Primas 2000) or stability proper-
+correlations is so general, Primas explored relax-           ties (cf. Zurek 2000) determining the decay of the
+ing the restriction that the systems considered must         state of X into asymptotically disjoint states in the
+be of physical nature. This leads to the conjec-             material and mental domain.6
+ture that the subsystems I and II would be sub-                 Of course, it is clear that the above remarks
+systems corresponding to the mental and material             are extremely speculative. There is an increasing
+domains resulting from a mind-matter distinction             number of publications (often by non-physicists),
+imposed upon a distinction-free system X. Tak-               in which analogies between standard quantum the-
+ing this conjecture seriously, it predicts that non-         ory, referring to the material domain alone, and
+local correlations (in a generalized sense, beyond           a generalized quantum theory, including a domain
+physics) between mind and matter are generic. For            for which mind and matter are unseparated, are
+instance, synchronicities as discussed by Pauli and          markedly overemphasized or carried over in an un-
+Jung might then be due to such nonlocal correla-             critical way.7 For this reason it cannot be repeated
+tions.
+                                                                6 Note that this idea does not contradict the fact that
+   An important implication of the generic nature
+                                                             automorphisms cannot change the equivalence class of a rep-
+of nonlocal correlations according to this picture is        resentation. Hepp’s no-go theorem for the generation of dis-
+that they should be ubiquitous. This in turn gen-            joint states from non-disjoint states under automorphisms is
+erates pressing questions as to their observability.         not a no-go theorem for the possibility of a theoretical de-
+                                                             scription of measurement-type processes (see Primas (1997,
+Where and how should one look for them? Are they             2000), Lockhart and Misra (1986), Hepp (1972)).
+so generic that we overlook them because they are               7 In this context, cf. some critical remarks by Mermin
+
+pervasive? For instance, mind-brain correlations in          (1998)
+
+                                                         6
+often enough that such analogies so far are mainly               3.2     Time-Reversal Symmetry Brea-
+intended to inspire further creative work.8 Us-                          king as a Superselection Rule for
+ing analogies taken from formal sciences, such as                        Mental and Material States
+physics, offers the advantage that resulting conjec-
+tures are not entirely uncontrolled but entail an el-            Starting with an automorphic dynamics within a
+ement of consistency that might enable future re-                description of the mind-matter distinction-free do-
+search to falsify or confirm them.                               main X, the dynamics of states is given by a group
+                                                                 of automorphisms with time-reversal symmetry. It
+   Among the tentative ideas listed in Sect. 2.2, the            is well-known that a reversible temporal evolution
+scenario sketched by Pauli and Jung can indeed be                is a feature of fundamental laws, referring to iso-
+interpreted in terms of a symmetry breaking of X,                lated (closed) systems without any interaction with
+leading to correlations between mind and matter.                 their environment. Using the distinction of ontic
+More precisely, it is suggestive to relate the archety-          and epistemic descriptions, fundamental laws are
+pal “unus mundus” to the distinction-free domain                 to be ascribed to the ontic, empirically inaccessible
+X, whereas synchronistic events could be related                 level of description.
+to nonlocal correlations between mental and mate-                   If one wants to take interactions with an envi-
+rial states (for more details see Atmanspacher and               ronment, particularly measurement, into account,
+Primas (1996) and references given there). For a                 it is necessary to discuss open systems. In general,
+long time, Jung had insisted that the concept of                 this requires that the time-reversal symmetry of iso-
+synchronicity should be reserved for cases of dis-               lated systems is broken. As a result, two semigroups
+tinctly numinous character. With this interpreta-                are obtained. One of them is directed forward in
+tion, corresponding nonlocal correlations would be               time, the other backward. In situations as they are
+extremely rare, thus contradicting their supposedly              treated in physics, the forward semigroup is then
+generic nature. Only in later years, Jung opened                 selected to describe the time-directed evolution of
+up toward the possibility that synchronicity might               a system. The argument for this selection is es-
+be a notion that should be conceived as ubiquitous               sentially that effects must not precede their causes.
+as indicated above.                                              Causality, or more precisely efficient causation, is
+                                                                 used as a criterion for the selection of the time di-
+   Pauli and Jung discussed a possible comple-                   rection that is consistent with our experience.9
+mentarity of statistical method and synchronistic                   Here are some examples. (1) While the dynamics
+events, indicating that synchronistic phenomena                  of isolated (closed) quantum systems is described
+cannot be corroborated by statistical methods as                 by the time-reversal invariant Schrödinger equation,
+they are usually applied. In a letter to Fierz of                open quantum systems require dynamical semi-
+June 3, 1952, Pauli wrote (von Meyenn 1996): “...                groups for their description. They can be derived
+synchronistic phenomena ... elude from being cap-                by restricting the time-reversible dynamics of a joint
+tured in natural ‘laws’ since they are not repro-                system consisting of an object and its environment
+ducible, i.e., unique, and are blurred by the statis-            to the object system alone (see, e.g., Davies 1976).
+tics of large numbers. By contrast, ‘acausalities’ in            This procedure always yields two semigroups, from
+physics are precisely described by statistical laws (of          which the forward semigroup is selected in accor-
+large numbers).” As far as we know today, chance                 dance with experience; excited states do sponta-
+on the non-psychological, purely physical level is               neously decay to states of lower energy, whereas
+“blind chance”, hence governed by the statistical                lower-energy states are not spontaneously excited.
+rules of mathematical probability theory. As op-                 (2) The second law of thermodynamics uses the in-
+posed to this, some psychological experiments sug-               crease of entropy to define the forward direction of
+gest the existence of a “decline effect”, characterized          time with respect to thermal processes. Here the
+by decreasing statistical significance with increas-             backward semigroup would correspond to decreas-
+ing number of “identical” experiments (see, e.g.,                ing entropy, which is not observed (for a properly
+Thompson 1994).                                                  defined entropy). Recent work of Prigogine and col-
+                                                                 laborators have made some progress to describe the
+                                                                 emergence of two semigroups for related types of ir-
+                                                                 reversibility (K-systems, large Poincaré systems) in
+                                                                 a generalized formulation (see, e.g., Antoniou and
+   8 In this context, see Walach and Römer (2000). A more          9 Vitiello (2001) recently presented an interesting quan-
+
+elaborated formal approach has been published recently by        tum approach for brain dynamics in which both directions
+Atmanspacher et al. (2002).                                      of time play significant roles.
+
+                                                             7
+Prigogine 1993). (3) Solving the problem of the                         Weak causality: similar causes can lead to
+transmission of electromagnetic radiation leads to                      very different effects, only identical causes
+two solutions with broken time symmetry, known as                       lead to identical effects.
+the retarded and the advanced solution.10 Since the
+transmission of radiation is considered as an effect                   Strong causality is consistent with the concep-
+caused by a source, the retarded solution is selected               tions that are central to classical point mechanics
+in order to describe the evolution of the outgoing                  at least as far as linear systems are concerned. For
+wave consistent with efficient causation. The ad-                   a special class of nonlinear systems, such as K-flows
+vanced solution would describe an incoming wave,                    or chaotic systems, strong causality is violated by
+which is not observed and therefore disregarded.                    the extreme dependence of the evolution of such sys-
+   From the perspective of physics, it is obvious that              tems on initial conditions. In this case, weak causal-
+the basic selection criterion, efficient causation, is              ity still holds. Its main implication is limited pre-
+assumed in all relevant examples. It is a philosoph-                dictability. Strong causality can be discussed in the
+ical premise rather than a physical argument. This                  framework of singular stochastic processes, whereas
+premise is based on a decision in favor of efficient                weak causality can be discussed in the framework
+causes as opposed to final causes. Although final                   of regular stochastic processes (cf. Primas 1992).
+or teleological thinking used to play a vital role in                  These two types of causality bear crucial rela-
+the early days of the sciences, efficient causation                 tionships to the temporal characterization of events.
+in the sense of modern science has definitely taken                 The two main ingredients of such a characteriza-
+over since the last two centuries. Today, no rea-                   tion are (1) the discrimination of events in time and
+sonable scientist would consider final causation as                 (2) their sequentialization in time. Discrimination
+a useful scientific concept insofar as “scientific” is              requires the precise localization of an event on a
+understood in terms of the natural sciences.                        time axis; sequentialization requires a well-defined
+   The last pillar of final thinking, teleology in bi-              before-after relation on a time axis. It is obvious
+ology, fell with Darwin’s theory of biological evo-                 that (2) ⇒ (1): no sequentialization without dis-
+lution. In an interesting remark, Pauli interpreted                 crimination. But the converse, (1) ⇒ (2), generally
+Darwin’s mechanisms of natural selection and mu-                    does not hold. There are indeed situations in which
+tation as the substitution of finality by chance                    the discrimination of successive events is possible,
+(Pauli 1954): “This model of evolution is an at-                    but their sequentialization is not.
+tempt to theoretically cling, according to the ideas                   A most convincing way to demonstrate such situ-
+of the second half of the 19th century, to the total                ations goes back to an experimental paradigm first
+elimination of any finality. As a consequence, this                 described by Pöppel (1968). The experiment is ba-
+has in some way to be replaced by the introduction                  sically a stimulus-reaction experiment in which the
+of chance.” Pauli suggested that the concept of syn-                test subjects are asked to determine the sequence of
+chronicity might lead to a revival of the historically              two successive visual stimuli. If the stimuli are sep-
+repressed concept of final causation as a comple-                   arated by τ , where 3 msec < τ < 30 msec, they reg-
+ment to efficient causation. In Die Vorlesung an die                ister two distinct stimuli whose sequence they can-
+fremden Leute (part of the very personal essay Die                  not determine (for further details see Ruhnau 1994,
+Klavierstunde, Pauli 1953), Pauli speculated about                  Pöppel 1997). The time scale of approximately 30
+a “third family of natural laws which consists in cor-              msec is known as the order threshold of perception.
+recting the fluctuations of chance by meaningful or                    There are indications that the processes under-
+functional coincidences of causally non-connected                   lying this feature can be related to the behavior
+events.”                                                            of chaotic systems exhibiting weak causality. In
+   Even within a worldview dominated by efficient                   a recent publication it has been suggested (At-
+causation, at least two essentially different types of              manspacher and Filk 2002) that the lack of sequen-
+causality must be distinguished. In part of the liter-              tialization below the order threshold can be inter-
+ature they are denoted as strong causality and weak                 preted in terms of a temporal nonlocality along the
+causality (Atmanspacher 2000). They can roughly                     lines introduced by Misra and Prigogine (1983). An
+be characterized, according to Maxwell’s terms, as:                 essential feature of such an interpretation would be
+                                                                    that it refers to an epistemic nonlocality. Tempo-
+     Strong causality: similar causes lead to                       ral nonlocality in the sense indicated is related to
+     similar effects.                                               coarse graining effects. It is not ontic in the sense
+                                                                    of a genuinely “extended now” which is, indepen-
+  10 The usual textbook derivation of these solutions is done       dent of any observation or knowledge, spread over
+in terms of potentials, not semigroups.                             a certain time interval.
+
+                                                                8
+   K-flows or chaotic systems are also of crucial im-       inequivalent representations of X. Nonlocal corre-
+portance for the generation of asymptotically dis-          lations between them can be conceived as remnants
+joint states (Primas 1997, 2000). The relaxation            of the unbroken symmetry in X. They decay as a
+time of such systems is tightly related to the (epis-       function of time, so that there can be faint corre-
+temic) nonlocality time scale. For finite times much        lations between approximately disjoint mental and
+larger than the relaxation time, asymptotically dis-        material states for large but finite times. Asymp-
+joint states are approximately disjoint in the sense        totically, there are no correlations left.
+of section 3.1.                                                The symmetry breaking in X is proposed as a
+   Traditional Hilbert space quantum theory with            breaking of a fundamental time-reversal symmetry
+its algebra of observables does not offer room for          of an automorphic dynamics in X. The two semi-
+a kind of temporal nonlocality that can be consid-          groups obtained have different time arrows, forward
+ered as ontic as the well-known EPR quantum non-            and backward, which can be used as a superselec-
+locality. However, non-commutative time operators           tion rule for the distinction of the inequivalent rep-
+can be defined in other algebras of observables (see,       resentations of X.
+e.g., Atmanspacher and Amann 1998). Of course,                 I have tried to sketch these speculations in a way
+these observables do still refer to properties of the       that leaves no doubt about their metaphoric na-
+material world. By contrast, Gernert (2000) has             ture and yet expresses that they are not entirely
+recently proposed non-commutative algebras of ob-           arbitrary and pointless. After all, the relation-
+servables for mental states. It would be interesting        ship between mind and matter is one of the most
+to try to formulate a non-commutative observable            difficult topics in modern science and philosophy.
+corresponding to psychological time and specify the         The present outline is presented in the hope that it
+observables with which it does not commute. This            might inspire future research in this topic.
+might be a first step to study the relation between
+physical and psychological time in more detail and
+perhaps lead to more concrete ideas concerning the          Acknowledgments:
+scenario sketched in section 3.1
+                                                            Many stimulating discussions with and helpful com-
+                                                            ments by Hans Primas are greatly appreciated. I
+                                                            am also grateful to Robert Bishop and Werner Ehm
+4     Conclusion                                            for their suggestions to improve the paper.
+This contribution consists of two parts. First, it dis-
+cusses a dualistic framework of conceiving the mind-
+matter distinction in terms of an emergent feature. References:
+Mental and material domains of our description of Amann, Anton, and Atmanspacher, Harald (1998):
+reality are understood due to a symmetry break-            Fluctuations in the dynamics of single quantum
+ing referring to a domain X of description that is         systems. Stud. Hist. Phil. Mod. Phys. 29, 151–182.
+neutral with respect to the mind-matter distinction. Amann, Anton, and Atmanspacher, Harald (1999): In-
+So far, this is not a novel proposal in the history of     troductory remarks on large deviation statistics.
+philosophy. A common element in this class of pro-         J. Sci. Explor. 13, 639–664.
+posals is that there are neither specific ideas about Antoniou, Ioannis, and Prigogine, Ilya (1993): In-
+the domain X nor specific ideas about the precise          trinsic irreversibility and integrability of dynamics.
+nature of the symmetry breaking.                           Physica A 192, 443–464.
+  The second part of this paper tries, at a bla-        Atmanspacher, Harald (1994): Objectification as an
+tantly speculative level, to suggest some such ideas.      endo-exo transition. In Inside Versus Outside,
+They are borrowed from certain formal approaches           ed. by H. Atmanspacher and G.J. Dalenoort,
+in quantum physics, in particular from algebraic           Springer, Berlin, 15–32.
+quantum theory. Therefore, it has to be kept in Atmanspacher, Harald (1997): Cartesian cut, Heisen-
+mind that these ideas are to be understood in a            berg cut, and the concept of complexity. World
+metaphoric sense as long as they cannot be made            Futures 49, 333–355.
+more concrete. Contemporary physics is still a sci-     Atmanspacher, Harald (2000): Ontic and epistemic de-
+ence of the material world, and, rigorously speaking,      scriptions of chaotic systems. In Computing Antic-
+this does not include any mental states or processes.      ipatory Systems: CASYS 99. Edited by D. Dubois.
+  The core of the speculative part of the paper can        Springer, Berlin, 2000, pp. 465–478.
+be summarized as follows. Mental and material Atmanspacher, Harald, and Amann, Anton (1998):
+states are proposed as being disjoint in the sense of      Positive operator valued measures and projection
+
+                                                        9
+   valued measures of non-commutative time opera-         Lockhart, C.M., and Misra, Baydyanath (1986): Ir-
+   tors. Int. J. Theor. Phys. 37, 629–650.                   reversibility and measurement in quantum me-
+Atmanspacher, Harald, and Filk, Thomas (2002): Dis-          chanics. Physica A 136, 47–76. Cf. Primas, H.,
+   crimination and sequentialization of events in per-       Math. Rev. 87k, 81006 (1987).
+   ception. In The Nature of Time, ed. by R. Buccheri     Mermin, N.D. (1998): What is quantum mechanics
+   and M. Saniga, Kluwer, Dordrecht, in press.               trying to tell us? Am. J. Phys. 66, 753–767.
+Atmanspacher, Harald, and Kronz, Fred: Relative on-       Misra, Baydyanath, and Prigogine, Ilya (1983): Irre-
+   ticity. In On Quanta, Mind, and Matter, ed. by            versibility and nonlocality. Lett. Math. Phys. 7,
+   H. Atmanspacher, A. Amann, U. Müller-Herold,             421–429.
+   Kluwer, Dordrecht, 1999, pp. 273–294.                  Pauli, Wolfgang (1953): Die Klavierstunde. In Der
+Atmanspacher, Harald, and Primas, Hans (1996): The           Pauli-Jung-Dialog und seine Bedeutung für die
+   hidden side of Wolfgang Pauli. Journal of Con-            moderne Wissenschaft, ed. by H. Atmanspacher,
+   sciousness Studies 3, 112–126. Reprinted in Jour-         H. Primas, E. Wertenschlag-Birkhäuser, Springer,
+   nal of Scientific Exploration 11, 369–386.                Berlin, 1995, pp. 317–330.
+Atmanspacher, Harald, Römer, Hartmann, and               Pauli, Wolfgang (1954): Naturwissenschaftliche und
+   Walach, Harald (2002): Weak quantum theory:               erkenntnistheoretische Aspekte der Ideen vom Un-
+   complementarity and entanglement in physics and           bewussten. Dialectica 8, 283–301, here p. 297.
+   beyond. Found. Phys. 32, 379–406.                         Translated as: Scientific and Epistemological As-
+                                                             pects of Concepts of the Unconscious. In Writings
+Baez, J. (1987): Bell’s inequality for C∗ -algebras.
+                                                             on Physics and Philosophy, ed. by C.P. Enz and
+   Lett. Math. Phys. 13, 135–136.
+                                                             K. von Meyenn, Springer, Berlin 1994.
+Bohm, David (1990): A new theory of the relationship
+                                                          Penrose, Roger (1994): Shadows of the Mind. Oxford
+   of mind and matter. Philosophical Psychology 3,
+                                                             University Press, Oxford.
+   271–286.
+                                                          Pöppel, Ernst (1968): Oszillatorische Komponenten
+Butterfield, Jeremy (1995): Worlds, Minds, and
+                                                              in Reaktionszeiten. Naturwissenschaften 55, 449–
+   Quanta. Proceedings of the Aristotelian Society 69,
+                                                              450.
+   113–158.
+                                                          Pöppel, Ernst (1997): The brain’s way to create
+Chalmers, David (1996): The Conscious Mind. Ox-
+                                                              “nowness”. In Time, Temporality, Now, ed. by
+   ford University Press, Oxford.
+                                                              H. Atmanspacher and E. Ruhnau, Springer, Berlin,
+Crutchfield, James P. (1994): Is anything ever                pp. 107–120.
+   new?     Considering emergence.   In Complex-
+                                                          Popper, Karl, and Eccles, John (1977): The Self and
+   ity – Metaphors, Models, and Reality, ed. by
+                                                             Its Brain. Springer, Berlin.
+   G.A. Cowan, D. Pines, and D. Meltzner. Addison
+   Wesley, Reading, pp. 515–537.                          Primas, Hans (1990): Mathematical and philosophical
+                                                             questions in the theory of open and macroscopic
+Davies, E.B. (1976): Quantum Theory of Open Sys-
+                                                             quantum systems. In Sixty-Two Years of Uncer-
+   tems. Academic Press, London.
+                                                             tainty, ed. by A.I. Miller, Plenum, New York, 233–
+d’Espagnat, Bernard (1997): Aiming at describing             257.
+   empirical reality. In Potentiality, Entanglement,
+                                                          Primas, Hans (1992): Time-asymmetric phenomena in
+   and Passion-at-a-Distance, ed. by R.S. Cohen,
+                                                             biology. Open Systems & Information Dynamics 1,
+   M. Horne, and J. Stachel, Kluwer, Dordrecht, 1997,
+                                                             3–34.
+   pp. 71–87.
+                                                          Primas, Hans (1993): The Cartesian cut, the Heisen-
+d’Espagnat, Bernard (1999): Concepts of Real-                berg cut, and disentangled observers. In Sym-
+   ity. In On Quanta, Mind, and Matter, ed. by               posia on the Foundations of Modern Physics, ed. by
+   H. Atmanspacher, A. Amann, U. Müller-Herold,             K.V. Laurikainen and C. Montonen. World Scien-
+   Kluwer, Dordrecht, 1999, pp. 249–270.                     tific, Singapore, pp. 245–269.
+Gernert, Dieter (2000): Towards a closed description      Primas, Hans (1996): Synchronizität und Zufall.
+   of observation processes. BioSystems 54, 165–180.         Zeitschr. Grenzgeb. Psych. 38, 61–91.
+Hepp, Klaus (1972): Quantum theory of measurement         Primas, Hans (1997): The emergence of facts in phys-
+   and macroscopic observables. Helv. Phys. Acta 45,         ical theories. In Time, Temporality, Now, ed. by
+   237–248.                                                  H. Atmanspacher and E. Ruhnau, Springer, Berlin,
+Kim, Jaegwon (1984): Concepts of supervenience.              pp. 243–263.
+   Philosophy and Phenomenological Research 45,           Primas, Hans (1998): Emergence in exact natural sci-
+   153–176.                                                  ences. Acta Polytechnica Scandinavica Ma-91, 83–
+Landau, Lawrence J. (1987): Experimental tests of            97. See also Primas (1983), Chemistry, Quantum
+   general quantum theories. Lett. Math. Phys. 14,           Mechanics, and Reductionism. Springer, Berlin,
+   33–40.                                                    Chap. 6.
+
+                                                     10
+Primas, Hans (2000): Asymptotically disjoint quan-
+   tum states. In Decoherence: Theoretical, Experi-
+   mental, and Conceptual Problems, ed. by P. Blan-
+   chard, D. Giulini, E. Joos, C. Kiefer, I.-O. Sta-
+   matescu, Springer, Berlin, pp. 161–178.
+Ruhnau, Eva (1994): The now – a hidden window to
+   dynamics. In Inside Versus Outside, ed. by H. At-
+   manspacher and G.J. Dalenoort, Springer, Berlin,
+   293–308.
+Scheibe, Erhard (1997): Die Reduktion physikalischer
+   Theorien. Teil I: Grundlagen und elementare The-
+   orie. Springer, Berlin.
+Searle, John R. (1992): The Rediscovery of the Mind.
+   MIT Press, Cambridge.
+Searle, John R. (1997): The Mystery of Consciousness.
+   The New York Review of Books, New York.
+Silberstein, Michael (1998): Emergence and the mind-
+    body problem. Journal of Consciousness Studies
+    5, 464–482.
+Stapp, Henry P. (1993): Mind, Matter, and Quantum
+   Mechanics. Springer, Berlin.
+Thompson, Angela (1994): Serial position effects in
+   the psychological literature. J. Scient. Explor. 8,
+   211–215. This paper is an appendix to Dunne et
+   al., Series position effects in random event genera-
+   tor experiments. J. Scient. Explor. 8, 197–215.
+Vitiello, Giuseppe (2001): My Double Unveiled, Ben-
+    jamin, Amsterdam, particularly Chaps. 6 and 7.
+von Meyenn, Karl (1993): Wolfgang Paulis wis-
+   senschaftlicher Briefwechsel, Bd. III, Springer,
+   Berlin, pp. 496–497.
+von Meyenn, Karl (1996): Wolfgang Paulis wis-
+   senschaftlicher Briefwechsel, Bd. IV/1, Springer,
+   Berlin, p. 634.
+Walach, Harald, and Römer, Hartmann (2000): Com-
+   plementarity is a useful concept for consciousness
+   studies. A reminder. Neuroendocrinology Letters
+   21, 221–232.
+Wigner, Eugene P. (1964): The role of invariance prin-
+   ciples in natural philosophy. In Dispersion Rela-
+   tions and Their Connection with Causality, Aca-
+   demic Press, London, pp. IX–XVI.
+Wigner, Eugene P. (1970): Physics and the explana-
+   tion of life. Found. Phys. 1, 35–45.
+Wigner, Eugene P. (1972): The place of consciousness
+   in modern physics. In Consciousness and Reality,
+   ed. by C. Muses and A.M. Young, Outerbridge and
+   Lazard, New York, pp. 132–141.
+Zurek, Wojciech H. (2000): Decoherence and Einse-
+   lection. In Decoherence: Theoretical, Experimen-
+   tal, and Conceptual Problems, ed. by P. Blanchard,
+   D. Giulini, E. Joos, C. Kiefer, I.-O. Stamatescu,
+   Springer, Berlin, pp. 309–341.
+
+                                                      11
+

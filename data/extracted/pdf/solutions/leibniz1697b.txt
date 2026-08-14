@@ -1,0 +1,243 @@
+                                           The Ultimate Origin of Things
+
+                                                             G. W. Leibniz
+
+
+       Copyright © 2010–2015 All rights reserved. Jonathan Bennett
+       [Brackets] enclose editorial explanations. Small ·dots· enclose material that has been added, but can be read as
+       though it were part of the original text. Occasional •bullets, and also indenting of passages that are not quotations,
+       are meant as aids to grasping the structure of a sentence or a thought.
+       First launched: September 2004                                                             Last amended: July 2007
+
+
+                                                                ******
+
+Beyond the world, i.e. beyond the collection of finite things,        explain any given copy of the book in terms of the previous
+there is some one being who rules, not only as the soul is            book from which it was copied; but this will never lead us to
+the ruler in me (or, to put it better, as the self is the ruler in    a complete explanation, no matter how far back we go in the
+my body), but also in a much higher way. For the one being            series of books. For we can always ask:
+who rules the universe doesn’t just •govern the world but                    Why have there always been such books?
+also •builds or makes it. He is above the world and outside                  Why were these books written?
+it, so to speak, and therefore he is the ultimate reason for                 Why were they written in the way they were?
+things. ·That follows because                                         The different states of the world are like that series of
+        •he is the only extramundane thing, i.e. the only thing       books: each state is in a way copied from the preceding
+        that exists out of the world; and •nothing in the world       state—though here ·the ‘copying’ isn’t an exact transcription,
+        could be the ultimate reason for things.                      but happens· in accordance with certain laws of change. And
+    I now explain that second premise·. We can’t find in any          so, ·with the world as with the books·, however far back we
+individual thing, or even in the entire collection and series of      might go into earlier and earlier states we’ll never find in
+things, a sufficient reason why they exist. Suppose that a            them a complete explanation for •why there is any world at
+book on the elements of geometry has always existed, each             all, and •why the world is as it is.
+copy made from an earlier one, ·with no first copy·. We can
+G. W. Leibniz                                                                                                        The Ultimate Origin of Things
+
+
+    ·It’s not that in the backward search we’ll reach a first                    That is, given that the world is thus and so at one time, it fol-
+state of the world, with no earlier one to explain it. So far as                 lows that such and such events will occur later; ·and it is the
+that is concerned·, you are welcome to imagine that the world                    ‘given’ in this that makes it hypothetical·. Therefore, since
+has always existed. But you are assuming only a succession                       the ultimate ground must lie in •something metaphysically
+of states, and no reason for the world can be found in any                       necessary, and since the reason for an existing thing must
+one of them (or in any set of them, however large); so                           come from •something that actually exists, it follows that
+obviously the reason for the world must be found elsewhere.                      there must exist •some one metaphysically necessary entity.
+·That means: •out of the world, i.e. •out of the totality of finite              It has to be different from the plurality of things, i.e. from
+things, and so •in something infinite and eternal·. For even                     the world, which we have shown not to be metaphysically
+if eternal things don’t yield causes, they give reasons. For a                   necessary. What is it for a thing to be metaphysically
+thing that lasts through time ·without changing·, the reason                     necessary? It is for the thing’s essence to include existence.
+is the nature or essence of the thing itself; and in a series                        Now, to understand a little more clearly how •temporal,
+of changing things (if we imagine that it goes back for ever)                    contingent, or physical truths arise from •eternal, essential
+the reason is the superior strength of certain inclinations,                     or metaphysical ones, we must start by acknowledging this:
+as we shall soon see. (These reasons only incline; they don’t                            Because something rather than nothing exists, there
+necessitate with absolute or metaphysical necessity so that                              is a certain urge for existence—a claim to existence,
+the contrary implies a contradiction.) From this it appears                              so to speak—in possible things or in possibility or
+that even if we assume the past eternity of the world, we                                essence itself. In short, •essence in and of itself strains
+can’t escape the ultimate and out-of-the-world reason for                                towards •existence.
+things, namely God.                                                              And it follows from this that each possible, that is, each thing
+    [In Leibniz’s time, ‘physical’ and its Latin and French equivalents          that expresses essence or possible reality, strains towards
+did not mean ‘bodily’ or ‘pertaining to matter’, but much more generally         existence; and these strainings are strong in proportion to
+‘pertaining to what actually contingently goes on in the real world’.] The       the amount of essence or reality that the straining possibility
+reasons for the world, therefore, lie hidden in something                        contains. Or we could say: according to the amount of
+outside the world, something different from the chain of                         perfection it contains, for perfection is just the amount of
+states or series of things that jointly constitute the world.                    essence. [Leibniz writes that the possibilities strain for existence pari
+And so we must move from                                                         jure = ‘with equal right’. He presumably means that all the strainings
+       •physical or hypothetical necessity, which determines                     are governed by a single law or principle, the one aligning strength with
+       the later things in the world from the earlier                            amount of reality or perfection. The phrase occurs twice more, and will
+to                                                                               be left untranslated.]
+       •something that is absolutely or metaphysically nec-                          This makes it obvious that of the infinite combinations
+       essary, for which a reason can’t be given.                                of possibilities and possible series, the one that exists is the
+For the present world is not absolutely or metaphysically                        one through which the most essence or possibility is brought
+necessary, but only physically or hypothetically necessary.                      into existence. A good rule to follow in practical affairs is:
+
+                                                                             2
+G. W. Leibniz                                                                                           The Ultimate Origin of Things
+
+
+         always aim to get the most out of the least, that is, try       so as to get down as many as possible in a given area.
+         for the maximum effect at the minimum cost, so to                   From this we can now understand in a wonderful way how
+         speak.                                                          the very origination of things involves a certain divine mathe-
+For example, in building on a particular plot of ground (the             matics or metaphysical mechanism, and how the ‘maximum’
+‘cost’), construct the most pleasing building you can, with              ·of which I have spoken· is determined. The case is like that
+the rooms as numerous as the site can take and as elegant                in •geometry, where the right angle is distinguished from all
+as possible. Applying this to our present context: given                 other angles; or like •the case of a liquid placed in something
+the temporal and spatial extent of the world—in short, its               of a different kind—·specifically, held by something solid
+capacity or receptivity—fit into that as great a variety of kinds        but flexible, like a rubber balloon·—which forms itself into a
+of thing as possible.                                                    sphere, the most capacious shape; or—the best analogy—like
+    A different ·and perhaps better· analogy is provided by              the situation in •common mechanics where the struggling
+certain games, in which all the places on the board are sup-             of many heavy bodies with one another finally generates the
+posed to be filled in accordance with certain rules; towards             motion yielding the greatest descent over-all. For just as all
+the end of such a game a player may find that he has to use              •possibles strain pari jure for existence in proportion to how
+some trick if he is to fill certain places that he wants to fill.        much reality they contain, so too all •heavy things strain pari
+·If he succeeds in filling them, but only by resorting special           jure to descend in proportion to how heavy they are; and just
+measures, he has achieved a maximal result but not with                  as •the latter case yields the motion that contains as much
+minimal means. In contrast with this·, there is a certain                descent of heavy things as is possible, •the former case gives
+procedure through which he can most easily fill the board,               rise to a world in which the greatest number of possibles is
+·thus getting the same result but with minimal ‘cost’·. ·Other           produced.
+examples of the power of ‘minimal cost’·: if we are told                     So now we have physical necessity derived from meta-
+         ‘Draw a triangle’,                                              physical necessity. For even if the world isn’t metaphysically
+with no other directions, we will draw an equilateral triangle;          necessary, in the sense that its contrary implies a contra-
+if we are told                                                           diction or a logical absurdity, it is physically necessary or
+         ‘Go from the lecture hall to the library’,                      determined, in the sense that its contrary implies imperfec-
+without being told what route to take, we will choose the                tion or moral absurdity. And just as the source of •what
+easiest or the shortest route. Similarly, given that                     essences there are is •possibility, so the source of •what
+         existence is to prevail over nonexistence, i.e.                 exists is •perfection or degree of essence (through which
+         something is to exist rather than nothing, i.e.                 the greatest number of things are compossible). This also
+         something is to pass from possibility to actuality,             makes it obvious how ·God·, the author of the world, can
+with nothing further than this being laid down, it follows that          be free even though everything happens determinately. It’s
+there would be as much as there possibly can be, given the               because he acts from a principle of wisdom or perfection,
+capacity of time and space (that is, the capacity of the order           ·which doesn’t make it necessary for him to act as he does
+of possible existence). In short, it is just like tiles arranged         but makes it certain that he will act in that way·. It is only
+
+                                                                     3
+G. W. Leibniz                                                                                               The Ultimate Origin of Things
+
+
+out of ignorance that one is in a state of indifference in which       cover that everything in the world takes place in accordance
+one might go this way and might go that; the wiser someone             with laws that are eternally true, laws that are
+is, the more settled it is that he will do what is most perfect.               not merely geometrical, that is, in accordance with
+    Someone may object:                                                        material necessities,
+        You compare a certain determining metaphysical                 but also
+        mechanism with the physical mechanism of heavy                         metaphysical, that is, in accordance with formal rea-
+        bodies; it’s a neat-looking comparison, but it doesn’t                 sons.
+        work. The trouble is that •the effortful heavy bodies              This is true not only •in very general terms, in the reason
+        really exist, whereas •possibilities or essences before        I have given why the world exists rather than not, and why
+        anything exists—or rather outside of existence—are             it exists this way rather than some other way (which has to
+        imaginary or fictional, so it’s no use looking to them         be sought in the straining of possibles towards existence),
+        for a reason for existence.                                    but also •down at the level of particular events. In these we
+I reply that those essences are not fictitious, nor are the            see how wonderfully the metaphysical laws of cause, power
+eternal truths that involve them. On the contrary, they exist          and action take their place in the whole of nature, and we
+in a certain realm (so to speak) of ideas, namely, in God              see that these metaphysical laws prevail over the purely
+who is the source of every essence and of the existence of             geometrical laws of matter. As I found to my great surprise
+everything else. That there seem to be grounds for what I am           in explaining the laws of motion, this is so true that I finally
+saying here is shown by the sheer fact that the actual series          had to abandon the physics I had defended in my youth,
+of things exists. ·The argument goes as follows·:                      when I was more of a materialist, as I have explained at
+        •The reason why anything exists can’t be found in the          greater length elsewhere. [Leibniz describes that physics as ‘the
+        actual series of things,                                       law of the geometrical composition of conatus’. That last word—literally
+as I showed above; so                                                  meaning ‘trying’ or ‘striving’—is a technical term of his, standing for
+        •The reason why anything exists must be sought in              an element in any physical force (see his ‘Essay on Dynamics’ section
+        metaphysical necessities or in eternal truths, ·because        2). The ‘geometrical’ approach to it came from Descartes’s doctrine that
+        there is nowhere else it can be found·.                        there is nothing to matter except its extension, meaning that its only real
+But                                                                    properties are geometrical ones.]
+        •Existing things can’t derive from anything but exist-             So there we have it: the rock-bottom reason for the reality
+        ing things,                                                    of both essences and existences lies in one thing, which must
+as I have already noted above. So                                              be greater than the world,
+        •Eternal truths must be existing things,                               be higher than the world, and
+and they have their existence in a certain absolute or meta-                   have existed before the world did;
+physically necessary subject, i.e. in God, through whom                since it is what brings it about not only that •the things that
+things that would otherwise be •imaginary are •real-ized, to           make up the world have existence, but also that •possibilities
+use a barbaric but graphic expression. And indeed we dis-              have their own reality. ·It is because of this thing that •there
+
+                                                                   4
+G. W. Leibniz                                                                                                  The Ultimate Origin of Things
+
+
+are humans, and •there is humanity, with this considered as                    their physical perfection consists in).
+an essence, a possibility, a possible-way-of-being·. Moreover,                     Someone may object:
+it has to be a single source, because of how all these ·things                        Don’t we experience quite the opposite in the world?
+and possibilities· are interconnected. It is obvious also that                        For the worst often happens to the best; not only
+things continuously flow from this source: they have been                             innocent animals but also humans are injured and
+and still are being produced by it. Why? Because ·if we                               killed, even tortured. In the end, the world appears to
+attend only to the world as a going concern·, it is not clear                         be some sort of confused chaos rather than something
+why one state of the world should lead to this subsequent                             ordered by supreme wisdom—especially if one takes
+state rather than to that one, ·and so for a full explanation                         note of how humans behave!
+we have to look outside the world·. We also see now how it                     I agree that that’s how it appears at first glance, but a deeper
+can be •that God acts not only physically but freely, •that                    look at things supports the contrary view. From the very
+he provides not only the efficient cause of things but the                     considerations that I brought forward it is obvious a priori
+final cause, and •that he is the reason not only for the                       that all things, even minds, are of the highest perfection
+greatness or power in the mechanism of the universe as                         possible.
+now constituted but also for the goodness or wisdom in                             Anyway, it is—as lawyers say—unjust to make a judgment
+constituting it. [An ‘efficient cause’ is just what you and I would call       before examining the entire law. We have only the memory
+a cause with no adjective; a ‘final cause’ is an end, aim, or purpose.]        that history gives us of a few thousand years; what a small
+   Someone might object: ‘You are here confusing •moral                        portion that is of the eternity that extends without measure!
+perfection or goodness with •metaphysical perfection or                        Yet on the basis of such meagre experience we rashly make
+greatness. I agree that the ultimate cause of things must                      judgments about the immense and the eternal, like people
+have •the latter, but I don’t agree about •the former.’ I reply                born and raised. . . .in subterranean salt-mines, people who
+what I have said implies not only that                                         think there is no light in the world but the dim light of their
+        the world is •physically (or, if you prefer, metaphysi-                torches, which is scarcely bright enough to guide their steps!
+        cally) most perfect, i.e. the series of things that has                Look at a lovely picture, then cover it up except for one small
+        been produced is the one that brings the greatest                      part. That part will look like a jumble of colours, showing no
+        amount of reality into existence,                                      skill and giving no delight; and the more closely we examine
+but also that                                                                  it the more it will look that way. But when the covering
+        the world is •morally most perfect,                                    is removed and you see the whole surface from a suitable
+because moral perfection is really physical perfection with                    distance, you will grasp that what looked like accidental
+respect to minds. [See the note on ‘physical’ in the first column on           splotches on the canvas had been made with great skill by
+page 2.] It follows from this that the world is not only •the                  the artist. And what the eyes discover in a painting, the
+most admirable machine but also—considered as made up                          ears discover in music. The most distinguished composers
+of minds—•the best republic, the one through which minds                       often mix dissonances with smooth harmonies in order to
+derive the greatest possible happiness and joy (which is what                  arouse the listener—to disturb him, as it were—so that he
+
+                                                                           5
+G. W. Leibniz                                                                                              The Ultimate Origin of Things
+
+
+will be ·momentarily· anxious about what is to happen, and            of God, which constitutes the entire force and power of the
+will feel all the more pleasure when order is restored. ·There        Christian religion, in the judgment of wise theologians. The
+are also many examples of this outside painting and music·.           fact that minds are specially catered for in the universe
+We delight in small dangers or bad experiences just because           shouldn’t cause surprise, given ·certain facts about them·.
+·when we have come through them· they let us feel or show             •Minds are produced in the exact image of God. •They relate
+our power or happiness. Again, we delight in the spectacle            to him not only as machines relate to their maker (as other
+of rope walkers or sword dancers just because they can                things do), but also as citizens to their prince. •They are
+incite fear ·in us·; and we ourselves laughingly half toss            going to last as long as the universe itself does. •They express
+children, as if we are about to throw them away. . . . On             the whole ·universe· in a certain way, concentrating it in
+that same principle, if we always ate sweet things they               themselves, so that they might be called ‘whole parts’. [That
+would become insipid; we need also sharp, acidic, and even            last point reflects Leibniz’s doctrine, not expounded here, that the whole
+bitter tastes mixed in with the rest to stimulate our palate.         truth about the universe—past, present and future—could in principle
+Someone who hasn’t tasted bitter things doesn’t deserve               be read off from the state of any one substance at any moment.]
+sweet things, and indeed won’t appreciate them! This is a                We must also accept that misfortunes, especially when
+law of delight: Pleasure doesn’t come from uniformity, which          they come to good people, only lead to the greater good of the
+creates disgust and makes us numb rather than happy.                  sufferers. This is not only a theological truth ·concerning
+    When I spoke of a part that can be disordered without             people·, but is true in the natural world as well—e.g. a seed
+detracting from the harmony of the whole, don’t take me to            flung to the ground must undergo hardships before it bears
+have meant •that such parts don’t make sense in themselves.           fruit. Over-all one can say that short-term afflictions are
+And don’t take me to have meant •that it would be sufficient          long-term benefits, because they are short paths to greater
+for the world as a whole to be perfect of its kind, even if the       perfection. . . . This is what you might call stepping back in
+human race were miserable, no attention was paid to justice           order to leap forward with greater force. These considerations
+in the universe, and no care was taken for us, as certain per-        should be regarded not merely as •pleasing and consoling
+sons of poor judgment—·such as Spinoza·—believe. It should            but also as •utterly true. ·The two go together, because·, I
+be realized that, just as in the best constituted republic,           think, nothing in the universe is truer than happiness, and
+care is taken that each individual gets what is good for him          nothing is happier or sweeter than truth.
+as far as possible, so the universe wouldn’t perfect unless              [The words ‘cultivation’ and ‘cultivate’ will be used in a slightly wider
+individuals were taken into account as far as is consistent           sense than is now customary; in some places ‘development’ might read
+with the universal harmony. There couldn’t be a better                better. But Leibniz uses the same noun and cognate verb in each place,
+standard in this matter than the law of justice, which lays           and the translation keeps that in sight.] In addition to the beauties
+down that everyone is to participate in the perfection of the         and perfections of the totality of God’s works, we must
+universe, and to have personal happiness, in proportion to            also recognize a certain constant and unbounded progress
+his own virtue and to the extent that his will has contributed        in the universe as a whole, so that it always proceeds to
+to the common good. This vindicates the charity and love              greater cultivation, just as a large part of our earth is now
+
+                                                                  6
+G. W. Leibniz                                                                                             The Ultimate Origin of Things
+
+
+cultivated, and more and more of it will become so. Certain          Many substances have already reached great perfection; but
+things regress to their original wild state and others are           because of the infinite divisibility of the continuum, there
+destroyed and buried, but we should understand this in the           are always parts asleep in the depths of things, yet to be
+same way as the afflictions that I discussed a little earlier:       roused and advanced to greater and better things, advanced
+this destruction and burying leads to the achievement of             to greater cultivation, in short. Thus, progress never comes
+something better, so that we make a profit from the loss, in         to an end. [When Leibniz writes of ‘parts asleep in the depths of
+a sense.                                                             things’ he reflects his doctrine—not expounded here—that everything in
+   You may object: ‘If this were so, the world should have           the natural world is made of organisms, each of which is made of still
+become Paradise long ago!’ I have a quick answer to that.            smaller organisms, each of which is. . . and so on ad infinitum.]
+
+
+
+
+                                                                 7
+

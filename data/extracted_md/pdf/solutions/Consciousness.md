@@ -1,0 +1,248 @@
+# C H A P T E R                O N E
+
+**source:** pdf · **section:** solutions
+**file:** Consciousness
+---
+
+
+                 Consciousness:
+             Philosophical Paradox
+              or Scientific Object?
+
+The subject of consciousness has not lacked for human attention. In the past, it was
+the exclusive domain of philosophers, but recently both psychologists and neuroscien­
+tists have begun to attack the so-called mind-body problem or, in Schopenhauer's
+suggestive phrase, “the world knot. ” In this chapter we briefly review classical and
+modem approaches to consciousness. We point out various positions taken by philoso­
+phers, psychologists, and neuroscientists, rejecting, some of the more flagrant ones, —
+such as dualism or extreme reductionism. We suggest that consciousness can be con­
+sidered a scientific subject and that it is not the sole province of philosophers.     **
+
+Everyone knows what consciousness is: It is what abandons you every
+evening when you fall asleep and reappears the next morning when you
+wake up. This deceptive simplicity reminds us of what William James said of
+attention at the turn of the century: “Everyone knows what attention is. It is ^
+the taking possession by the mind, in clear and vivid form, of one out of
+what seem several simultaneously possible objects or trains of thought.”1 s W*
+More than one hundred years later, many think that neither attention nor y.
+consciousness is understood in any fundamental sense.
+   This lack of understanding is certainly not because of lack of attention in
+philosophical or scientific circles. Ever since Rene Descartes, few subjects
+
+                                                   1
+4                 A UNI VERSE     OF   CONSCIOUSNESS
+
+have preoccupied philosophers so consistently as the riddle of consciousness^""
+For Descartes, as for James more than two centuries later, to be conscious
+was synonymous with “to think”: James’s stream of thought, for example,
+was nothing but the stream of consciousness. The cogito ergo sum, “I think
+therefore I am,” which Descartes posed as the foundation of his philosophy
+in his Meditationes de Prima Philosophia,2 was a direct recognition of the cen­
+trality of consciousness with respect to both ontology (what is) and episte­
+mology (what and how we know).
+    If taken too seriously, “I am conscious, therefore I exist” can lead to solip­
+sism, the view that nothing exists but one’s individual consciousness, evi­
+dently not a view that can appeal to two authors who are sharing the writing
+of a book. More realistically (pun intended), that starting point leads to ide­
+alistic positions that emphasize mind over matter—ideas; perception;
+thought; or, in one word, consciousness. By taking mind as a starting point,
+however, idealistic philosophies must take pains to explain matter—which is
+not necessarily a better predicament than starting from mere matter to
+derive mind.
+    Descartes argued that there is an absolute distinction between mental
+and material substance. The defining characteristic of matter, he thought, is
+to be extended, to occupy space, and thus be susceptible to physical explana­
+tion, whereas the defining characteristic of mind is to be conscious or, in a
+broad sense of the term, to think. In this view, mental substance exists in the
+form of individual minds. In this way, Descartes inaugurated dualism, a posi­
+tion that is unsatisfactory scientifically but appears intuitively simple and
+appealing until one attempts to explain the connection between the mind
+and the body (see figure 1.1). Since the days of Descartes, philosophers have
+suggested versions of dualism or related alternatives. For example, a related
+ theory is epiphenomenalism, which agrees with other theories in holding
+ that mental events and physical events are different but maintains that the
+ only true causes of mental experiences are physical events, with mind as a
+ causally inefficacious by-product. In the words of Thomas Huxley, “con­
+ sciousness would appear to be related to the mechanism of [the] body simply
+ as a collateral product of its working, and to be as completely without j my
+ power of modifying that working as the steam whistle that accompanies the
+ working of a locomotive engine is without influence upon its machinery.”3
+    In more recent times, philosophers have taken a materialistic stance,
+ holding that the mind and consciousness are identical *to the operations of
+ the brain or, at least, to certain of these operations. Some materialistic posi­
+ tions go so far as to deny any ontological or epistemic validity to conscious-
+                   1>                       (wnyfc£/r
+       PHILOSOPHICAL         PARADOX      OR   SCIENTIFIC      OBJECT?          5
+
+-      they insist that there is literally nothing else beyond the functioning of
+m m circuits or, at least, that there is nothing else that needs to be
+     n n ed . Several philosophers have suggested that once we understand the
+■m: ridngs of the brain sufficiently well, the concept of consciousness will / C f .
+r       rite just as the concept of phlogiston (a hypothetical volatile con-
+ —T_en: of all combustible substances that was thought to be released as a
+fam e in combustion) evaporated when oxidation was understood. The                 >
+               problem is thus made to disappear by denying or explaining
+wm .t the consciousness side of it. Other materialistic positions insist that
+i.—:o_rh consciousness is generated by physical events in the brain, it is not
+reduced to them but, rather, emerges from them, just as the properties of
+water emerge from the chemical combination of two hydrogens and one
+oxygen but are not directly reducible to the properties of hydrogen or oxy­
+gen alone. Such positions come in various flavors, but, in general, they grant
+consciousness some residual status, at least from the point of view of expla­
+nation. Nevertheless, they insist that there is no “consciousness” substance
+separate from a “brain” substance.
+    The philosophical debate on the mind-body problem is by now
+extremely sophisticated and, in their variety, some current disputes rival
+those that flourished among post-Cartesian philosophers. As we had
+
+FIGURE 1.1 A diagram by Descartes illustrating his ideas about how the brain forms
+-ental images of an object. The transaction between mental substance and physical
+substance was supposed to take ploce in the pineal gland (H).
+6                A UNI VERSE     OF   CONSCIOUSNESS
+
+Spinoza’s dual-aspect theory, Malebranche’s occasionalism, Leibniz’s paral­
+lelism and his doctrine of preestablished harmony, we now have the identity
+theory, the central state theory, neutral monism, logical behaviorism, token
+physicalism and type physicalism, token epiphenomenalism and type
+epiphenomenalism, anomalous monism, emergent materialism, eliminative
+materialism, various brands of functionalism, and many others.4
+    Despite the profusion of philosophical positions, it appears unlikely that
+philosophical arguments alone will lead to a satisfactory solution to the
+mind-body problem. In the words of Colin McGinn,5 a philosopher who
+takes an extreme position: “We have been trying for a long time to solve the
+mind-body problem. It has stubbornly resisted our best efforts. The mystery
+persists. I think the time has come to admit candidly that we cannot solve
+the mystery. [We still have no idea of how] the water of the physical brain is
+turned into the wine of consciousness.”
+    There is indeed a fundamental limitation on philosophical efforts to dis­
+cern the origins of consciousness that arises, in part, from the presumption
+that the sources of conscious thought can be revealed by thinking alone.
+This presumption is as patently inadequate as efforts in previous times to
+understand cosmogony, the basis of life, and the fine structure of matter in
+the absence of scientific observations and experiments. In fact, philosophers
+have excelled not so much in proposing solutions to the problem but in
+pointing out just how intractable the problem is. W hat many philosophers
+are reiterating amounts to this: N o m atter what scientists do, the first-
+person and third-person perspectives of conscious individuals will not be rec­
+onciled, the explanatory gap will not be bridged, and the “hard” problem—
+the generation of sensations, of phenomenal or experiential states out of the
+buzzing of neurons—will not be solved.6
+    How have scientists fared in explaining the mystery? If we look at psy­
+chology, we find that the “science of the mind” always had trouble in accom­
+modating what should be its central topic—consciousness—within an
+acceptable theoretical framework. The introspectionist tradition of
+Titchener and Kiilpe7was the psychological counterpartTTfIdealistic or phe-
+nomenologicaLpositions in philosophy; it attempted to describe conscious­
+ness viewed by the individual exclusively from the inside, hence the term
+introspection. Many introspectionists were psychological atomists; not unlike
+some present-day neurophysiologists, they postulated that consciousness
+was made up of elementary parts that could be catalogued (never mind that
+the American school came up with more than 40,000 sensations and the
+German school with just 12,000). By contrast, behaviorists notoriously
+       PHILOSOPHICAL         PARADOX      OR   SCIENTIFIC     OBJ ECT?          7
+
+attempted to eliminate consciousness completely from scientific discourse, a
+position not unlike that of some contemporary philosophers.
+     Present-day cognitive psychologists have reintroduced consciousness and
+mind as legitimate concepts. They conceive of consciousness as either a spe-
+. .al module or a stage in the flowchart delineating an information-processing
+merarchy. In fact, cognitive psychologists often consider consciousness in
+terms of a limited-capacity bottleneck in our mental functioning, possibly
+iue to an unspecified limitation of our brains. Several such models of the
+functions associated with consciousness have been formulated, drawing their
+inspiration from cognitive psychology or artificial intelligence or using
+metaphors borrowed from computer science, such as that of a central execu­
+tive systenT or~an” operating system. Psychologists have also used the
+metaphor of consciousness as a unified stage, scene, or theater in which
+information from multiple sources is integrated for the control of behavior.8
+Some of these intuitions may point in the right direction, while others may
+be as misleading as they are potentially appealing.
+     W hat is certain, however, is that such metaphors cannot substitute for a
+genuine scientific understanding of consciousness. Cognitive models usually
+have little to offer vis-a-vis the experiential, phenomenal side of conscious
+experience. Looked at from the perspective of these models, consciousness
+as a phenomenal experience (and often an emotional one) may as well not
+exist, as long as some of its presumed functions, such as control, coordina­
+tion, and planning, can be carried out. Standard cognitive accounts offer no
+convincing explanation of why multiplication performed by a human is a
+slow and hesitant conscious process while the same multiplication quickly
+ carried out by a pocket calculator is presumably not conscious at all. N or do
+ they explain why the complicated processes needed to balance your weight
+when you walk or to articulate words when you speak should remain
+ unconscious, while the simple application of pressure to your finger pro­
+ duces a conscious experience. Finally, as many critics have pointed out, any
+ information-processing, strictly functionalistic approach to consciousness
+ has little to say about the fact that consciousness requires the activity of spe­
+ cific neural substrates. These substrates are actually the central concern of
+ neuroscientists.
+     Except for fundamental observations about coma, anesthesia, and the
+ like, neuroscientists used to be exceedingly careful in their approaches to
+ consciousness. Most profess a convenient agnosticism about the subject and
+ justify their caution by our present ignorance. Although many of them
+ would probably subscribe to some kind of system-level explanation—if only
+8                 A UNI VERSE     OF   CONSCIOUSNESS
+
+they knew which one—for the present, they deem it more fruitful painstak­
+ingly to collect new facts and observations and to leave theorizing to the
+future. Over the past decade or so, however, something has definitely
+changed in the relationship between studies of consciousness and the neuro­
+sciences. Scientists seem less afraid of addressing the subject unabashedly,
+several books by neuroscientists have appeared, new journals have been
+launched, and studies have been conducted in which consciousness was actu­
+ally treated as an experimental parameter.9
+    Although certain recent “scientific” hypotheses do not cover as wide a
+spectrum as that offered by philosophers, they are in some ways even more
+exotic or extreme. For example, some neuroscientists have embraced dualis-
+tic positions according to which the conscious mind interfaces with the brain
+by virtue of “psychons” communicating with “dendrons” in certain areas of
+the left brain (Descartes suggested that the pineal gland was the site of the
+interaction because it is situated in the middle of the head).10 Some scientists
+(who may or may not qualify as neuroscientists) have concluded that con­
+ventional physics is not enough of a basis for theorizing about conscious­
+ness—one has to invoke esoteric physical concepts, such as quantum gravity,
+to explain consciousness.11
+    Others have pursued what appears to be a more profitable strategy—
+focusing on the search for specific neural correlates of consciousness.
+Indeed, in this area definite progress has been made. For example, given the
+limited neurological knowledge of his times, James had to conclude that the
+neural basis for consciousness was nothing less than the whole brain.12
+Today, scientists are able to be more sophisticated and specific. Different
+authors believe that different brain structures support consciousness,
+structures with forbidding names, such as the intralaminar thalamic nuclei,
+reticular nucleus, mesencephalic reticular formation, tangential intracorti-
+cal network of layers I-II, and thalamocortical loops. Controversies rage
+over issues that were unthinkable at the time of James’s writing: Does the pri­
+mary visual cortex contribute to conscious experience or not? Are areas of the
+brain that project direcdy to the prefrontal cortex more relevant than those
+that do not? Does only a particular subset of cortical neurons play a role? If
+so, are these neurons characterized by a special property or location? Do
+cortical neurons need to oscillate at 40 Hz or fire in bursts to contribute to
+conscious experience? Do different areas of the brain or groups of neurons
+generate different conscious fragments—a kind of microconsciousness?13
+    These questions are being debated more and more frequently, and new
+experimental data are fueling the debate. Yet, as this profusion of various
+             PHILOSOPHICAL        PARADOX     OR   SCIENTIFIC     OBJECT?          9
+
+tk-   questions and hypotheses indicates, something is definitely missing in
+he    attempts to identify the neural basis of consciousness with this or that set of
+-ly   neurons. Again, we confront the world knot. By what mysterious transfor­
+o-    mation would the firing of neurons located in a particular place in the brain
+ly,   or endowed with a particular biochemical property become subjective expe­
+sn    rience, while the firing of other neurons would not? It is not surprising that
+u-    some philosophers view such attempts as prime examples of a category
+      error—the error of ascribing to things properties that they cannot have.14
+ a       It is also not surprising that such errors are made, given how special con­
+re    sciousness is as a scientific object. In the next chapter we consider how the
+s-    fundamental problem posed by this specialness may be confronted. We take
+in    the position that consciousness is not an object but a process and that,
+if    looked at from this point of view, it is indeed a fitting scientific subject.
+ie
+ts
+
+V,
+
+e
+e
+2
+t
+

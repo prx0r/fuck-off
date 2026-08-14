@@ -1,0 +1,723 @@
+1.2 • Language as Information
+A lecture delivered in the series “On Language, ” sponsored
+by the Bavarian Academy o f Fine Arts, in Munich and
+Berlin, 1959. Published in Die Sprache: Jahrbuch Gestalt
+und Gedanke, vol. V (Munich, 1959). A preliminary concept
+o f information is introduced in order to deal with the
+question o f whether language can be rendered unambiguous
+in the service o f science (cf. Prefatory Note to Part I). When
+quantified, this preliminary concept corresponds to
+“information ’’ in the sense o f information theory. The
+philosophical status o f the preliminary concept remains
+unclear, but a connection is shown with the
+Platonic-Aristotelian concept o f form. This topic is taken up
+again in III. 5.
+
+
+
+
+  Permit me to introduce a lecture bound to become difficult, because
+of its theme, with a remark that lacks the requisite gravity. The old
+Goethe, in one of his Maxims, has another person address him with
+the following question:
+                     “How was it you succeeded so well?
+                      ’Tis said you really do excel.”
+  His reply is:
+                  “My dear, I was clever in what I wrought:
+                   On thinking I never wasted a thought.”
+   First of all, this is certainly a barb against Hegel. At the same time
+it expresses the magnificent intimacy of Goethe’s bond with the world.
+Can the organ of thinking, which is given to us for dealing with reality,
+emerge unscathed from being employed on itself? Can one know
+oneself? The centipede, when asked in what sequence it moves its
+legs, started to think—and became unable to walk.
+   What situation do we find ourselves in at this symposium? In a free
+variation on Goethe’s answer:
+                  “My friend, you’ve smelled the rat, I avow,
+                   I’ve never talked on language till now.”
+  I will lose this innocence tonight. At least I will talk about language
+only in a restricted sense. I will talk about a particular aspect, about
+language as information. My topic, then, is not language as such, not
+all of language. That, perhaps, is the topic of our entire symposium.
+Perhaps it is never possible in a lecture to talk of language as such, to
+talk of all of language. Language can be made audible by speaking it.
+What we speak about could pertain to language. But language as such
+is not in this speaking; language itself is still behind the speaker.
+   In saying this, I have already indicated the structure of today’s
+lecture. But why talk about information at a symposium on lan­
+guage? I have just been toying a bit with the term “about,” with
+the concept, that is, of talking “about” something. It is perhaps in
+the exact sciences that talk about a particular, clearly defined ob­
+ject is at its most precise.
+   Information is a concept closely related to the exact sciences. The
+topic “Language as Information” asks for those features of language
+that nurture the growth of the exact sciences. On this point I invoke
+Friedrich Georg Jiinger’s lecture on “Language and Calculus,” deliv­
+ered here five years ago at the Symposium on the Arts in the Age of
+Technology, a lecture which no doubt provided a major impulse for
+the present symposium. I will first simply describe language as infor­
+mation, and then ask what information really means. This leads to the
+question of whether all that can be clearly thought and stated can be
+cast into a linguistic form describable in terms of the concept of infor­
+mation. In other words: can language be completely transformed into
+information? I do not wish to dismiss this question by simply pointing
+out linguistic forms that cannot be subsumed under the concept of
+information. Rather, I will try to show that the concept of information
+itself presupposes a kind of language that is untransformed into infor­
+mation. In so doing, I hope to contribute to the theme of our sympo­
+sium. I hope to show that, when precise language is used in talking
+about something, language itself is still behind the speaker.
+   I cannot show this without the help of a certain digree of abstract­
+ness in the later parts of the lecture. The lecture will therefore be
+difficult and long. Perhaps a short list of the contents will prove help­
+ful.
+   On several successive levels the lecture will repeatedly ask: what is
+information? The talk is in five parts:
+
+  a. Examples of information
+  b. Measurement of information
+  c. The calculus
+  d. Information as form
+  e. Can language be reduced to information?
+  All this is merely a report, not yet philosophy; for I leave open what
+language itself might be. Perhaps this is all one can do in a philosophi­
+cal introduction to “language as information.”
+
+
+a) Examples of Information
+
+   I now ask, for the first time: what is information?
+   Information, in current usage, is the communication of facts. Infor­
+mation is what an Office of Information puts out, what is contained in
+statistical documentation, in diplomatic reports, in the records of se­
+cret services. One doesn’t get far in politics or business without good
+information. Not that information serves only the egotisms of in­
+dividuals or of powerful groups; it serves also the life of the commu­
+nity. Take a trite example: what would become of order in railroad
+traffic without the information contained in the schedule? Less obvi­
+ous: unless the overseas producer and the domestic importer ex­
+change information on supply and demand, we might easily lack our
+daily bread. When atomic energy started to affect the lives of the
+people, we physicists asked ourselves what we owed to our fellow
+human beings. The answer in the United States in 1945 was identical
+to our answer in Germany ten years later: the first and the least we
+owe them is full information. How can they decide questions affecting
+their destiny if they are ignorant of the facts?
+   The carrier of information is language. Important facts were and are
+conveyed from mouth to mouth. The messenger and the traveler were
+once all-important as harbingers of “new tidings.” Even today the
+quickest source of information is the word spoken and heard—on the
+telephone, by our ruling circles; on radio or television, by everybody.
+   The written word has an advantage over the uttered word, how­
+ever, if language is to serve as information. The sound passes, the
+written record stays. Writing, so to speak, “objectifies” information. It
+relieves memory, can be surveyed at a glance, and enables one to
+check back at any time.
+   Writing itself has a peculiar history. The most ancient writing proba­
+bly developed from pictures. Hieroglyphics, the Sumerian script, and
+the Chinese script until our own day all consist of signs whose meaning
+seems no longer to refer directly to the picture form; these scripts are
+already the result of a process of abstraction. Nevertheless, each sign
+still refers to the meaning of a single word. A big new step in abstrac­
+tion was taken when the Akkadians used the Sumerian signs, not in
+accordance with their meaning, but in accordance with their spoken
+sounds: it was then that syllabic writing started, followed by alphabetic
+writing, in which the script sign stands not for the meaning but for the
+sound of a word.
+   One might ask why I am talking here of progressive abstraction. Is
+not the sound of a word something more palpable than its meaning?
+Indeed, it is; but the reflection on the word as something which doesn’t
+merely signify its referent but which has a body of its own, a sound
+pattern of its own entirely divorced from its meaning—this reflection
+can rightly be called abstract, and its result is an abstraction.
+   Information theory is the name of our contemporary science of
+information based on precisely this abstraction. Its origin lies in com­
+munication technology. Sending messages by telegram is expensive.
+One of the Hasidic rabbis of whom Martin Buber tells us said one could
+learn something from all modern inventions; from the telegraph, for
+example, that all our words are counted. Information theory does not
+deal with the deep meaning of this saying, but the two are related in
+an abstract sense. How can one transmit information as economically
+as possible; i.e., how can one communicate a given piece of informa­
+tion using as few signs as possible; or, conversely, how can one convey
+as much information as possible in a message of given length? As much
+information as possible—i.e., one has to learn how to measure the
+amount of information in a message. What is the quantity of informa­
+tion?
+
+
+b) Measurement of Information
+
+  In asking for the measure of information, we pose the question
+“What is information?” a second time, in a more rigorous manner now
+because of the quantitative setting.
+   Let me begin with a simple example. If I wire: “I am glad to be able
+to arrive in Munich at 5 p.m. on Monday, January 19,” then I am being
+wasteful of words. It is polite to express pleasure, perhaps I even feel
+pleasure, but this is not necessary information. The “I” is superfluous,
+since “arriving” by itself establishes the identity of the person travel­
+ing and the person arriving. The employment of excess words, such
+as “at” in conjunction with “5 p.m.,” is called redundance. Redun­
+dance simply means superfluousness. This concept is closely con­
+nected with our search for the quantity of information. Redundant
+expressions contain the same information several times over. If an
+expression is divested of all redundance, i.e., each bit of information
+is expressed once and only once, a message will result whose length
+is a measure of its information.
+   The telegram seeks this goal; it avoids redundant expressions as
+much as possible. This makes sense, however, only if the transmission
+itself is free of error; if the text is garbled, one is grateful for redun­
+dancy because it at least gives one a chance of restoring what has been
+lost. A natural language is full of redundance: a lack of superfluousness
+would mean poverty here. It often contains redundancy only in the
+subtle form of a background context of meaning, or of an appeal to
+something that is already familiar. Thus, if I wire to someone in Mu­
+nich who is expecting me there, no new information is transmitted by
+stating that it is in Munich I will arrive; merely by saying “arriving 5
+p.m.” I am implying where. To be sure, a telegram with explicit
+mention of the point of arrival is richer in information than one with­
+out; but the total information conveyed to my Munich acquaintance,
+which the telegram contains only in part anyway, is not thereby aug­
+mented. How valuable redundancy can be in speech is shown by our
+experience on the telephone, or in listening to a foreign tongue: in
+both cases, even if one understands only every second or third word,
+one can still follow what is being said.
+   Let us now try to formulate the shortest possible wire text. Day of
+the week and date are not both required. The date would suffice; even
+better, in wiring “Monday,” it is clearly the coming Monday that is
+understood. And instead of “5 p.m.” I can say, international style,
+“ 1700.” The wire now reads: “Arriving Monday 1700.”
+   What I have just described can also be named using the terminology
+of literary history: we are dealing with the development of a linguistic
+style, the “telegram style.” The origin of this style lies in a reflection
+on a feature seemingly extraneous to language, i.e., on the mere num­
+ber of words. But in life nothing is purely extraneous. An essential
+aspect of language expresses itself in this style. An essential character­
+istic of that which can be spoken about at all shows today—more
+clearly than in any of the earlier modes of speech—in the language
+disciplined for maximum information; and the pure telegram style is,
+so to speak, the parade step of this drill. I wonder how many people
+are still around who know what a superfluous and baroque piece of art
+the parade step was. Is the elimination, in the telegram style, of all that
+is superfluous itself a baroque delight, an exorbitance? I am not being
+entirely serious. All of us sense the one-sidedness of this style; it is
+sometimes felt to be so dangerous as to amount to the destruction of
+language. But in what sense is it so? We accuse the language of our era
+not of having an excessive concentration of content, but of lacking
+content; of lacking form or of having an overabundance of empty
+forms, not of being parsimonious. Isn’t the parsimonious language of
+science and of factual accounts the most impressive linguistic phenom­
+enon of our time? But perhaps it is this absolutization of a one-sided
+ aspect that causes the non-informational aspects in language to wilt.
+    It is not my task tonight to describe the non-informational aspects
+of language. Rather, I must make as plain as possible the extent to
+which language can be information; identifying a language clearly
+ delineated as information will help us to recognize language that is
+more than information.
+   I will first make the concept of information in information theory a
+bit more precise. We asked: “How can one measure a quantity of
+information?” Is it sufficient to eliminate all redundancies and then
+ count the words that remain? “Arriving” and “will arrive” convey
+exactly the same information, without redundancy, one expression
+using one word; the other, two. The word is therefore not a reliable
+unit of information. Nor is the letter. The long word “automobile” tells
+me no more than “car,” or the German “Auto, ” or the Danish “bil. ”
+   But there is something we can learn from the wiring of letters.
+When the telegraph was invented, there was only one way of signal­
+ing: one could depress the key to close the circuit or release the key
+ to break it. How can one represent the twenty-six letters of the alpha­
+bet with this simple alternative? Morse used two positive signs: a short
+and a long burst of current. To each letter he assigned a sequence of
+these dots and dashes. If the individual sign, as in the Morse code, has
+only two possible forms, one talks of a yes-no decision. In English-
+speaking countries a single yes-no decision is called a “bit” of informa­
+tion. “Bit” is meant to be short for “binary digit.” It helps that “bit”
+also means “small piece.” Information can be measured if one knows
+the smallest number of small pieces needed to transmit it.
+   A yes-no decision distinguishes between two possible cases; given
+just the dot and the dash as signals, one could telegraph only in a
+language containing precisely two letters. Two yes-no decisions in
+succession can represent four possible cases; with the four “binary”
+signs: “dash-dot,” “dot-dash,” “dot-dot,” “dash-dash,” one can tele­
+graph four letters. Three yes-no decisions allow one to distinguish
+among eight cases, four among sixteen, five among thirty-two. Thus
+one requires at most five elements for an alphabet of twenty-six let­
+ters. (Four would suffice, if signs were allowed to differ in length: one
+could then take 16@4, 8@3, 4@2, 2@1, altogether thirty different
+signs.)
+   In the reduction of all information to yes-no decisions we have
+the principle according to which modern computers (the “elec­
+tronic brains”) operate. Computers represent numbers by means of
+sequences and breaks in current flow, just as we described it in the
+case of letters. 1, for example, is represented by a current burst
+lasting one hundred-thousandth of a second. 2 is a burst and a
+break of the same length. 3 is burst-burst. 4 is burst-break-break, 5
+is burst-break-burst, 6 is burst-burst-break, 7 is burst-burst-burst, 8
+is burst-break-break-break, etc. To add two numbers, one sets up
+the two sequences of bursts and breaks in two separate circuits
+which then interact electronically to produce a third sequence of
+bursts and breaks corresponding to the sum of the two numbers. If
+the apparatus is correctly designed, this happens automatically.
+Here we have the modern version of a program already realized
+by Pascal and Leibniz in the form of the first mechanical comput­
+ers, which let a machine instead of the human mind perform cal­
+culations that follow a well-defined scheme. One can say today:
+every process of thought capable of being translated into a pattern
+of operations in accordance with a well-defined scheme of se­
+quences of yes-no decisions can be turned over to an automatic de­
+vice which will then execute the operations in a manner usually
+quicker, more comprehensive, and freer of error than man is capa­
+ble of. One can even state numerically how much information such
+a device can process per second.
+   There are, as far as I know, good physiological reasons for assum­
+ing that the neural networks in the brain also work with sequences
+of yes-no decisions (response or non-response of the nerve fiber).
+The vistas opened up by this idea do not belong to my present
+theme, however. The following reflection returns us to the theme
+of language.
+
+
+c) The Calculus
+
+   In transferring to an automatic device all operations of thought
+that follow a rigid scheme specifiable by us in advance, we have by
+no means transferred all possible operations of thought, nor even
+all those that we might be inclined to label “exact.” One can act
+according to a scheme, for example, only if someone has previously
+designed that scheme. The design of a scheme is an act of thought
+that precedes the scheme. We are inclined to think that perfor­
+mances in accordance with a particular scheme can be no more
+exact than the thought which designed that scheme. However that
+may be, the design of a particular scheme is surely not an act of
+thought which follows that scheme.
+   But could one perhaps invent a scheme that tells us how to design
+schemes of operations? A device, in the extreme case, that produces
+programs for other devices, or maybe even a device that automatically
+performs whatever can be thought exactly?
+   This thought is still imprecise; we can make it more precise by
+facing the difficulties in the path of its realization.
+   A device can process only information given to it unambiguously.
+Numbers constitute the best example; that is why the devices actu­
+ally built for the automatic execution of thought-analogue processes
+are usually computers. But the scheme to be followed by such a
+device cannot (or at least cannot to begin with) be communicated
+to it in the form of a sequence of numbers. Instead, we must say in
+words what is to happen with the numbers. Opaque though it be
+to information theory, so-called “natural language,” the language in
+which ordinary people communicate, cannot be done without, at
+least not at the start. And it would do no good to transform its let­
+ters into the yes-no decisions of Morse code. For now it is not a
+matter of communicating telegraphically with someone who will
+understand us. Now, not the words, but the meanings of the words
+are to be put into a form capable of being processed according to a
+scheme. Is such a step conceivable, perhaps on the basis of some
+preliminary manipulations? It seems to have been Leibniz who first
+posed this question with full clarity. Can we find signs to represent,
+not the linguistic name, but the clearly understood meaning of
+every concept needed by thought? Can we invent operations with
+such signs to represent any admissible operation of thought, so that
+all correct thinking would be mirrored in such operations and con­
+trolled by them, even as the operations in algebra mirror and con­
+trol our thinking about numbers? The calculus of modern logic is
+the mcdest execution of a small part of Leibniz’s program. It
+represents the furthest reduction of language to its unambiguously
+manipulable informational content. On a new level of abstraction,
+it turns back from natural to formalized writing.
+   For an example, let me give you a few formulas taken from the
+simplest part of logical calculus, the propositional calculus. This calcu-
+lus treats the relations between entire sentences, the so-called “propo­
+sitions,” without reference to their internal structure. I write the letter
+“a,” for example, and agree with you to regard it as an abbreviated
+form of the proposition “the sun shines.” Let “b” stand for “it is
+raining.” Fixed signs (which differ, unfortunately, among the logical
+schools) are used to represent words that express constantly recurring
+logical relations. Thus I write “ a ” for “and” and “v” for “or.” “a a b”
+now means: “the sun shines and it is raining”; “a v b” means: “the sun
+shines or it is raining.” The arrow “ ->” means “if-then”; for example,
+“a -* b” means: “if a, then b,” or “if the sun shines, then it is raining.”
+In terms of content, this sentence is usually false. We now introduce
+the negation, designated by a bar above the letter: “a” means “not a,”
+or “it is not true that a”; thus in our example, “it is not true that the
+sun shines,” or, shorter, “the sun does not shine.” Whether the two
+interpretations of “a,” i.e., “not a” and “it is not true that a,” are really
+as equivalent as I treat them is a deep question which I cannot discuss
+here.
+   I now say “a -» b” in words: “if the sun shines, then it is not raining.”
+In terms of content, this sentence, too, is not necessarily true. It is
+always true, however, that “a a b -» a v b”; in words: “if it is not true
+that the sun shines and it is raining, then the sun does not shine or it
+is not raining.” This is always true, because it is a logical, not a
+meteorological fact. In accordance with a very general law already
+formally established in the highly developed logic of late scholasticism,
+“x a y -» x v y” is true no matter what propositions are substituted for
+“x” and “y.” To put it more generally: “if x and y are not both true,
+then either x is false or y is false, independently of the propositions x
+and y.” As a result, one can always substitute the formula “x v y” for
+the formula “x a y” in a “calculation” carried out in the logical calcu­
+lus. The universal logical law reappears in the calculus as a universally
+valid rule of calculation.
+   In today’s lecture the logical calculus serves us neither as working
+tool nor as a subject for investigation, but merely as an example. I ask:
+Can we expect that all we are capable of thinking may one day turn
+out to be thus communicable? Can we, to return to our theme, thus
+transform into information all that language can express? I don’t
+choose to escape this question by pointing to poetry or to other modes
+of language seemingly distant from science as counter-examples (be­
+cause that would be a cheap way out). It would already mean a lot if
+we could assign an information-theoretical meaning to these challeng­
+ing, if not completely clearly formulated sentences of Wittgenstein’s:
+“What can be said at all can be said clearly; and whereof one cannot
+speak thereof one must be silent.”1 The desire to think clearly is
+common to philosophy and the sciences; in literature, too, it can be
+salutary. Should we surmise that one can think clearly only what can
+be said clearly; that one can say clearly only what can be unambigu­
+ously expressed in terms of information; that one can express unam­
+biguously as information only what can be written in the form of a
+calculus? As the result of this third section, may we interpret clarity
+in terms of information, and information in terms of the concept of a
+calculus?
+
+
+d) Information as Form
+
+   We can test the truth of these conjectures only if we can be sure of
+having understood their meaning. Do we know with sufficient clarity
+what we mean by information? I have used several examples to intro­
+duce the concept of information. I said that the telegram is or contains
+information and that the logical calculus is or contains information. I
+have explained how one measures the quantity of information, namely
+by counting the yes-no decisions. I have conjectured that only what
+we can write down in terms of a calculus counts as information. But
+I have not said what information really is. Socrates would not have
+been satisfied with me.
+   We will not answer the question as to the essence of information
+exhaustively, but we can work on it. And we know from Socrates how
+the question as to the essence of a thing can promote our knowledge,
+even though we must in the end leave this question unanswered. To
+have understood precisely this is after all the mark of the man who
+dares not call himself sophos, the wise man, but only philosophos, the
+lover of wisdom.
+   I just said: “The telegram is or contains information.” Why the “or”?
+Evidently I did not know whether the telegram is the information
+itself or merely contains it. Children that we are of an age dominated
+by Cartesian concepts, we are inclined to ask: “What is designated by
+the term ‘information’? A material thing—for example, the printer’s
+ink on the actual telegram—or something in our consciousness—i.e.,
+whatever it is I think when I read the telegram?” This question both­
+ered the information theorists of our day, and they came to a result
+  1L. Wittgenstein, Tractatus Logico-Philosophicus (New York: Harcourt, Brace and
+Co., Inc., 1922), p. 27. —Translator.
+that perhaps bothers them even more: neither. Information is neither
+something material nor something in consciousness. Both interpreta­
+tions fail to do justice to the objective character of information, for
+whose sake the concept of information was introduced in the first
+place.
+   Let us assume that the printer’s ink on a piece of paper is the
+information. Then what I wrote down in Hamburg when I sent olf the
+wire and what the addressee in Munich holds in his hands is not the
+same information, since the pieces of paper are not identical; but
+information is supposed to designate precisely what these two pieces
+of paper do have in common.
+   Let us assume that information is the thought process in the mind
+of the person thinking the contents of the wire. Then what I thought
+when sending the wire and what the addressee thought on receiving
+it is not the same information. Information is not one or the other act
+of consciousness but what is known by the act of consciousness, some­
+thing that is common to these conscious persons who are otherwise so
+different.
+   Today we are beginning to get used to the idea that information
+must be regarded as something different from matter and conscious­
+ness. What one has thus discovered is an old truth in a new guise. It
+is the Platonic eidos and the Aristotelian form, expressed in such a way
+that even twentieth-century man can learn to obtain a glimpse of
+them.
+   Even the origin of the word “information” gives us this hint. If you
+look in a Latin dictionary under the verb informare, you will find that
+its original meaning is “to form,” “to fashion,” and that its metaphori­
+cal meaning is “to fashion in the mind,” “to represent to oneself,”
+whence informatio as “image,” “representation,” “concept.” Our
+definition of the word stems from the Middle Ages, when it was used
+as meaning “instruction.” Informatio, then, is something like bringing
+form into matter, or matter into form. Whatever the several authors
+may have thought in particular, informatio can be understood only in
+terms of the terminological pair “form and matter”; it is, in its origins,
+foreign to the terminological pair “consciousness and matter.” If you
+wish to locate information in consciousness, you would have to talk of
+the transcendental, not the empirical consciousness. But in our age
+most people would regard this recourse to transcendental philosophy
+as the explanation of an obscure matter in terms of one even more
+obscure; I will therefore not refer to it again. Rather, I will take “infor­
+mation” to be “form,” or “pattern,” or “structure,” without further
+explanation of the concepts presupposed by these terms. This “form”
+can refer to the form of all kinds of objects or events perceptible to
+the senses and capable of being shaped by man: the form of printer’s
+ink or ink on paper, of chalk on the blackboard, of sound waves in air,
+of current flow in a wire, etc. Our “form” is not identical to the
+geometric form, since the printed telegram and the acoustic message
+of the telephone operator both contain the same information. Infor­
+mation belongs to a higher level of formal abstraction; and again, I do
+not define what “level of formal abstraction” means. Information is
+something that can be perceived by man, can be understood, can be
+thought. But it is not the mental act of thinking; rather, it is what this
+thinking thinks, it is the thought itself, in the sense in which I can say
+that two people think the same thought.
+   Not every form or structure, even if of a sufficiently high level of
+abstraction, counts as information, however. At least two further at­
+tributes are required: language and unambiguousness.
+   What do I mean when I say that information is linguistic in nature?
+I surely have not defined what language is; that is the very theme of
+our symposium. As I use the term in this lecture, I ascribe a linguistic
+character even to the abstract form of writing and to the current flow
+in computers; but I do not ascribe it to the shapes of plants or stars,
+or to such manmade things as the shapes of foodstuffs, like the outline
+of a roast or a cake, however subtle the art with which these are
+prepared, or to the shapes of technical instruments. I cannot draw the
+boundary with precision, but I cannot do without the distinction be­
+tween linguistic and non-linguistic form.
+   Anyone who always seeks the precise definition of terms may now
+feel disappointed. Have we not just tried to clarify the very unclear
+concept of language by referring back to the concept of information
+—be it at the cost of a one-sided interpretation? But if, conversely, we
+now define information by recourse to language, we get into a circle.
+At the end of my lecture I will try to show in what sense this circle
+is meaningful and unavoidable. This circle seems to me to be the
+precondition for precision in thinking. But I must first make myself
+clearer.
+   One could try to explicate what I have just named the linguistic
+character of information by means of another concept that does not
+contain the term “language.” “Communication” offers itself, for exam­
+ple. One could try this: “Information is a form that serves in communi­
+cation.” The “serves” here must be understood as potential; a book no
+one has read and the current flow in a computer unperceived by
+anyone are not actually someone’s communication, but they are the
+sort of structures that can be considered communication. The term
+“communication” suggests that language does not relate merely to an
+isolated consciousness, to a Cartesian res cogitans, but that it is essen­
+tially interlocution, communication between persons. I won’t follow
+up on this remark; it is merely the eyelet through which the threads
+that connect with the other lectures may be drawn.
+   I must, however, deal with a possible objection. Modern biologists
+speak perfectly legitimately of information—in genetics, for example.
+A set of chromosomes contains in its genes the information that deter­
+mines the phenotype of the individual (to the extent that the pheno­
+type is in fact genetically determined). The “letters” with which this
+script is written have even been discovered. There are merely four
+different chemical compounds which, laid end to end in long helixes,
+determine through their sequence the entire genetic type. One esti­
+mates that the informational content in the nucleus of a single human
+cell is comparable to that of a library containing a thousand volumes.
+Information-theoretical concepts are clearly applicable here if they
+are anywhere. But there is no one here who talks, no one who com­
+municates something or understands what is being communicated to
+him.
+   I cannot think of an apt reply and I suspect that, at least tonight, I
+am not meant to be able to think of one. One could of course cut
+through the knot by trying to define information without referring to
+language or communication. In that case, information—i.e., measur­
+able quantities of structure—exists in nature objectively, and we
+merely register what is there. One could equally well suspect that it
+is the nature of our thought process in its linguistic articulation which
+makes us pick these aspects out of the infinite manifold that is nature;
+we approach nature with the search for information-like structures in
+mind, and thereupon find them. Every attempt to define information
+non-linguistically shows how difficult it is to keep these two points of
+view apart. We can, for example, call information every form that can
+be described by enumerating a finite number of yes-no decisions; but
+even this seemingly objective definition refers back to our means of
+description (“enumeration,” “decisions”). I suspect that an exact anal­
+ysis of any other definition would yield similar results. It is not a matter
+of course, on the other hand, that we can find such clear-cut yes-no
+decisions in nature, or indeed that we can find an apparatus so obvi­
+ously intended for such decisions as are the chromosomes. This is not
+merely a case of retrieving Easter eggs hidden by ourselves; we came
+upon these Easter eggs totally unexpectedly. Is there a pre-established
+harmony between nature and language?
+   It may be that, in the present context, the most naive mode of
+expression is also the most apt: the mode that assigns linguistic catego­
+ries even where no speaking or listening consciousness exists. In the
+relation between the chromosomes and the growing individual, it is
+as i f the chromosome were talking and the individual listening. The
+metaphors on every scientist’s lips are witnesses thereof; e.g., to say
+that chromosomes prescribe the manner of growth, or that growth
+obeys this prescription. Everywhere else in this lecture I use a concept
+of language that presupposes human beings as speakers; that is why
+I suspect that I am not really meant to solve this problem with the
+conceptual means to which, for the sake of achieving preliminary
+clarity, I am today restricting myself. I therefore now turn back from
+information beyond human language to language as information.
+   Not every linguistic form is information. Information presupposes
+unambiguousness. Heraclitus’ saying that war is the father of all things
+can be a deep truth for the very reason that it is not information, and
+it cannot be information because the terms “father” and “war” are not
+unambiguous. In fact, if they meant what they normally mean, the
+saying would be nonsensical. But these terms are also not simply
+redefined so as to be valid speculative concepts in the philosophy of
+Heraclitus. A better explanation is that ambiguity is an essential ingre­
+dient in any speculative concept used correctly. Surely the meaning
+of the saying in our example, as it slowly dawns on us, forces the terms
+into their multiple meanings, thereby hinting at that real relation
+among the different meanings of a single term which we must per­
+ceive in order to understand the whole saying.
+   The interpretation of language that leads to the concept of informa­
+tion aims to avoid such arts as these. No one can enumerate the yes-no
+decisions that would render precisely each of the many meanings of
+Heraclitus’ saying. A formula written in the calculus of logic, on the
+other hand, is meant to be information. Each of its signs is supposed
+to be unambiguously defined, and its particular composition ought to
+signify unambiguously a particular proposition.
+
+
+e) Can Language Be Reduced to Information?
+
+  In conclusion I now return to the question: Is it possible, in princi­
+ple, to reduce language to information understood in this way? Not
+that everything expressible in words must necessarily fall under this
+concept of language; but is the concept itself at least clear enough to
+enable us to define what Wittgenstein termed “saying clearly”? I am
+inclined to answer in the negative, or at least with a non liquet.2 My
+reason is that every attempt at transmuting a part of language into
+unambiguous form already presupposes the use of natural language,
+ambiguities included.
+   We must first examine the extent to which the term “unambiguous”
+is itself unambiguous. We can, for example, define a calculus by listing
+the signs that occur in it and stating into what formulas they may be
+combined. If we do this with care, no doubt remains that it is unam­
+biguously clear what combinations are or are not to count as formulas
+in this calculus. But by no means have we thereby decided what these
+formulas are to mean; definitions are needed to settle that. As an
+example I cited the rudiments of the propositional calculus. I said:
+“ a” stands for “and,” “v” for “or,” etc. The calculus can be considered
+unambiguous (called an “interpreted calculus”) if these definitions
+themselves are unambiguous; i.e., if each definition refers to precisely
+one object or concept. But how can I ensure that a definition is unam­
+biguous? Most of you probably unhesitatingly accepted my designa­
+tion of “v” as “or.” Now I ask you: Is this “or” the same as the mutually
+exclusive “either-or”? When I read “a v b” as “the sun shines or it is
+raining,” did I mean it in the sense that “either the sun shines or it is
+raining, but not both”? It may look as if I meant it in that sense, but
+it is not so. You agreed with me that “a a b -> a v b ” is certainly true;
+i.e.: “if it is not true that both the sun shines and it is raining, then the
+sun does not shine or it is not raining.” If this “or” meant the same as
+“either-or,” then the consequent would imply the impossibility of the
+sun’s ever not shining when it is not raining. But this can in fact very
+well happen, “a v b” must therefore mean “either a or b or both”;
+otherwise, our formula would be false.
+   This clarification came easily, because the problem has long been
+known to logicians. Can we be sure, however, that our interpretations
+do not contain ambiguities hidden to us? The definitions make use of
+natural language, thus of concepts whose unambiguousness has not yet
+been tested. Perhaps these concepts can be rendered unambiguous by
+means of further definitions. But will we ever arrive at primary con­
+cepts that are unambiguous in themselves? The problem is analogous
+to the problem of proof in a deductive science. Theorems are proven
+ 2Formula used by Roman jurors when unable to reach a verdict for lack of evidence.
+—Translator.
+from axioms. Do we know of axioms that are certain in themselves?
+It was traditionally taught that concepts unambiguous in themselves,
+and axioms certain in themselves, do exist. This assumption worked
+well in mathematics from Euclid to Gauss. Philosophy became dis­
+credited when it couldn’t follow suit, when thefundam entum incon-
+cussum of one philosopher was immediately challenged by his succes­
+sor. The methodological self-awareness of mathematicians became
+more acute, however, with the discovery of non-Euclidean geometry
+and the subsequent reconstruction of the foundations of mathematics
+on successively deeper levels. Viewed with sharpened methodological
+self-awareness, Euclid’s axioms appear not to be self-evident proposi­
+tions; rather, they are propositions that cannot be deduced from other
+propositions. Some highly self-evident propositions show up in the text
+as theorems, because Euclid saw how to deduce them from other
+propositions; conversely, a proposition as opaque as the axiom of paral­
+lels appears as an axiom because Euclid rightly saw that he could not
+deduce it from other axioms. Under Cantor’s influence, mathemati­
+cians tried in the nineteenth century to seek absolute certainty in the
+concept of the set; since 1900, this attempt has failed because of the
+discovery of paradoxes in that concept. Certainty was then sought,
+under Hilbert’s influence, in the concept of a calculus; this attempt
+failed, at least in its original version, with Godel’s proof of the formal
+indecidability of certain meta-mathematically3 true propositions. Lor-
+enzen’s resolution, which makes the best sense to me among those
+available today, rejects the idea of proceeding from axioms and instead
+appeals to our intuitive understanding of schematic operations. Per­
+haps the clearest explanation of all this is found in the work Tarski
+published in 1933 on the concept of truth in formalized languages. We
+constantly talk of true and false propositions. Do we really know what
+“true” means in this context? Is this an unambiguous term?
+   The classical definition of truth is adaequatio rei et intellectus, the
+correspondence between fact and intellect. With regard to formalized
+propositions we might say: a proposition is true if the matter of fact
+holds which it asserts. Letting “p ” stand for an arbitrary proposition,
+this definition amounts to saying: “The proposition ‘p ’ is true if and
+only if p.” To use an example often cited by Heinrich Scholz: “The
+proposition ‘Mars is inhabited’ is true if and only if Mars is inhabited.”
+At first glance, you may feel inclined to say that such a definition is
+possible but trivial. In fact, however, it is not trivial—it is not even
+   3The author follows German custom in using the common term inhaltlich (“contextu­
+ally”) to mean “meta-mathematically.” —Translator.
+possible. It is non-trivial. The sentence p (in our example, Mars is
+inhabited) occurs twice, with two different meanings. First p appears
+in quotation marks, “p ” is a name of the proposition p; its function is
+to point to the proposition.4 Certain well-known propositions are
+named in a different manner. For example, we refer to the “Law of
+the Excluded Middle,” to the “first sentence of the Bible,” etc. But one
+cannot assign every possible sentence a name of its own. It is therefore
+convenient to point to a proposition by placing it in quotes. A proposi­
+tion in quotes is named but not asserted. On the second occasion, p
+appears without quotes; here p is being asserted conditionally. We say:
+“If p, then something is valid.” The “something” is that the proposi­
+tion “p ” is true. The second mention of p thus presupposes that we
+already understand the proposition. Tarski’s definition therefore rests
+on our prior acquaintance with language. A spoken sentence “p” and
+the fact p corresponding to it can indeed be compared only if we can
+express the fact linguistically. Only when one has understood this can
+one understand the definition; that is why I called it non-trivial.
+   But the definition is impossible, for it leads to a self-contradiction.
+Let “p” be the proposition: “The sentence I am now saying is false.”
+Upon substitution, our definition reads: “The proposition ‘the sen­
+tence I am now saying is false’ is true if and only if the sentence I am
+now saying is false.” The sentence I am now saying is “p ”; therefore,
+what I have said, in short, is that “ ‘p’ is true if and only if ‘p’ is false.”
+   This, too, is an old joke, known in antiquity as the paradox of the
+lying Cretan. In our usage, the paradox shows that not every proposi­
+tion may be substituted for “p.” Thus Tarski’s definition cannot be
+valid in full generality. Can we still claim to know what a true proposi­
+tion is?
+   Tarski has investigated the matter more fully than I can now report
+to you. I can only hint at the way he chose out of the dilemma.
+   He does not consider truth to be unambiguously definable in the
+context of natural language. Provided it is expressed in the language
+one uses to talk about the calculus, rather than being part of the
+calculus itself, the definition given above can be applied in the case of
+a “formalized language,” i.e., a calculus. Tarski calls the language one
+uses to talk about a calculus the meta-language. One can then substi­
+tute any proposition of the calculus (or a meta-linguistic name desig­
+nating that proposition) for the first “p”; for the second p one must
+substitute the meta-linguistic proposition that designates precisely the
+   4Strictly speaking (see below), I should have written: “ ‘p’ ” is a name of the proposi­
+tion ‘p.’
+ same fact. In our example from the propositional calculus: “The propo­
+sition ‘a a b’ is true if and only if the sun shines and it is raining.” The
+ set of propositions whose truth is defined is thereby reduced to the set
+of propositions within the calculus; and we can always construct the
+calculus so as to exclude self-contradictory propositions of the sort we
+discussed.
+   One can take a further step and write a calculus for the meta­
+language, thereby defining a truth concept for the propositions of the
+calculus. To do this, we require a meta-meta-language. No matter how
+many steps of this sort are taken, the higher-level truth concepts will
+always apply to the calculi, never to the natural language. But the
+calculi can be interpreted only by employing natural language, and
+only if we presuppose that we can distinguish, for all practical pur­
+poses, between true and false propositions in the natural language.
+   Here we come face to face with the unavoidable circle mentioned
+above. As far as I can see, this circle characterizes all exact thinking.
+I have exemplified it in logic; in another, equally long lecture I could
+just as well trace it out in physics. Language wholly transmuted into
+information represents the hardened tip of a non-hardened mass. No
+one discoursing on language ought to forget that language can appear
+as information. No one discoursing on information ought to forget the
+converse: that language can be information is in turn possible only
+against the background of a kind of language which has not been
+transmuted into unambiguous information. This insight does not settle
+the question of what language really is, but it does cast some light on
+one aspect of the question.
+

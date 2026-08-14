@@ -1,0 +1,410 @@
+        Institute for Clinical Neuroanatomy
+             Dr. Senckenbergische Anatomie
+        J.-W. Goethe Universität, Frankfurt am Main
+
+
+
+
+Quantum stochasticity and neuronal
+         computations
+
+             Peter Jedlička, MD
+                              Definition
+
+A stochastic system is one whose behavior is indeterministic in that its inputs
+and initial state do not fully determine its next state (output)
+
+
+
+   • The only intrinsically (objectively) stochastic (indeterministic)
+     processes in physical world are quantum processes
+
+   • Does quantum indeterminism affect the dynamics of neuronal
+     networks? Is our brain a deterministic machine or an indeterministic
+     system?
+1. Criticism of quantum brain hypothesis
+
+2. Two ways of taking advantage of quantum events in biology
+
+3. Quantum neurophysiology – putative mechanisms of
+   quantum computations in neuronal networks
+1. Criticism of quantum brain hypothesis
+
+2. Two ways of taking advantage of quantum events in biology
+
+3. Quantum neurophysiology – putative mechanisms of
+   quantum computations in neuronal networks
+           1. Criticism of quantum brain hypothesis
+
+
+Two main arguments:
+
+
+A. neurons and neural networks are too large for quantum phenomena to play a
+    significant role in their functioning.
+
+     all quantum events are self-averaging, so that fluctuations among
+    quantum particles are not important
+
+    “Most biologists think that quantum effects all just cancel out in the brain.”
+                                                       Daniel Dennett
+
+B. interaction of neurons/neuronal networks with their (noisy and warm)
+     environment will destroy any coherent quantum states
+                1. Criticism of quantum brain hypothesis
+
+
+
+
+“Molecular machines, such as ... pre- and post-synaptic receptors and the voltage-
+and ligand-gated channel proteins that ...underpin neuronal excitability, are so
+large that they can be treated as classical objects.”
+
+
+“The critical question...is whether any components of the nervous system - a 300-
+degrees Kelvin tissue strongly coupled to its environment - display
+macroscopic quantum behaviours, such as quantum entanglement“
+
+
+“A neuron either spikes ...or it does not, but is not in a superposition of spike and
+nonspike states.”
+1. Criticism of quantum brain hypothesis
+
+2. Two ways of taking advantage of quantum events in biology
+
+3. Quantum neurophysiology – putative mechanisms of
+   quantum computations in neuronal networks
+        2. Two ways of quantum biological computations
+
+
+
+• nervous system probably cannot display macroscopic quantum (classically
+impossible) behaviours such as quantum entanglement, superposition or tunnelling
+
+however:
+
+• there are two alternative (mutually related) ways in which quantum events might
+influence the brain activity
+2. Two ways of quantum biological
+         computations
+
+
+
+
+1.   quantum dynamics speeds up and modulates the computational processes at
+     microscopic and mesoscopic levels for which quantum effects are directly
+     present
+
+     (biomolecules, e.g. enzymes, have intrinsic, classically impossible, quantum
+     properties which are necessary for life to be possible at all)
+
+
+2.   because the brain is a complex nonlinear system, capable of chaotic
+     dynamics, it can amplify lowest scale quantum fluctuations upward,
+     modulating larger-scale macroscopic activity patterns
+                        Quantum enzymology
+
+
+
+
+• empirical evidence shows that biomolecules (proteins, DNA) take direct
+advantage of quantum effects (in particular of tunneling)
+
+
+• protein folding (into its functional three-dimensional structure) is a
+minimization problem
+          quantum tunneling of electrons and protons speeds up proper
+protein folding (even in a warm and noisy intracellular environment!)
+         quantum tunneling effects are involved in the conformational
+changes required for enzyme-mediated catalysis
+Photosynthesis:
+
+1. light excites electrons in pigment molecules (chlorophyll)
+
+2. electronic excitation moves downhill from higher energy level to lower energy
+   level through the pigment molecules
+
+3. the excitation is trapped in a reaction centre, where its remaining energy is
+   used to produce energy-rich carbohydrates
+
+
+Computing problem: to establish the easiest route for the electronic excitation
+  (which transfers the energy downhill) to the reaction complex
+Solution:
+
+• a clever quantum computation built into the photosynthetic algorithm
+
+• (quantum) coherent energy transfer allows the ‘wavelike’ sampling of the
+energy landscape to find the easiest route for the electronic excitation
+
+• the electronic excitation samples two or more states simultaneously
+
+• much faster than the semi-classical (incoherent) mechanism
+
+• the process is analogous to Grover’s algorithm in quantum computing
+
+Conclusion: it is possible that evolution selected inherently quantum-mechanical
+process for the fast and efficient mechanism of light energy harvesting
+deterministic molecular mechanics vs. quantum molecular ‚mechanics‘
+                                         (Density functional theory)
+
+
+
+• whenever electrons and their associated energies need to be considered explicitly,
+quantum physics steps in ( Schrödinger‘s equation)
+
+
+• DFT replaces the individual electrons of a molecule with a single electronic density
+function
+
+
+• examples: enzymatic reactions, photoreception, molecular motor proteins
+           Nested hierarchy of nonlinear complex networks
+
+
+Extreme sensitivity to initial
+conditions
+
+
+
+
+                                                                       Satinover 2001
+
+
+   • In iterative hierarchies with nonlinear dynamics (prone to chaos), small
+   (even infinitesimal) fluctuations are not averaged away, they can be
+   amplified!
+   • Brain structure is iterative and its activity is prone to chaos
+    Quantum nonlinear (chaotic) systems
+
+
+
+
+•     4 kinds of dynamic systems:
+1.    nonchaotic: a) classical – regular, objectively predictable
+                   b) quantum – irregular, objectively unpredictable
+2.    chaotic      a) classical – irregular, subjectively unpredictable
+                   b) quantum – probabilistic and regular, upredictable
+
+
+•     Paradoxically, quantum effects stabilize the behavior of (classically) chaotic
+      systems
+•     At finite temperatures, quantum coherence can create new patterns at a
+      mesoscopic scale
+•     Quantum chaotic systems can exhibit persistent „fuzzy“ regular patterns
+                              Summary I
+
+
+1. Quantum effects are directly present at microscopic and mesoscopic levels
+speeding up biological processes (protein folding, enzymatic reactions, etc.)
+
+
+2. Lowest scale quantum effects influence the initial state of the next scale,
+while the higher levels shape the boundary conditions of the lower scales. This
+hierarchy of nested networks with many feedback loops amplifies the
+quantum events
+
+Conclusion: quantum dynamics influences the computation at all levels
+(proteins, metabolic pathways, cells, cellular networks, etc.) – not by producing
+classically impossible solutions but by having a profound effect on which of
+many possible solutions are selected (Satinover 2001)
+1. Criticism of quantum brain hypothesis
+
+2. Two ways of taking advantage of quantum events in biology
+
+3. Quantum neurophysiology – putative mechanisms of
+   quantum computations in neuronal networks
+     3. Quantum neurophysiology – putative mechanisms of
+          quantum computations in neuronal networks
+
+Neuronal signaling:        1. electric                 2. biochemical
+
+   A. transmembrane:       synaptic transmission (receptors)
+                           intrinsic excitability (ion channels)
+
+   B. cytoplasmic:         biochemical networks (kinases, phosphatases)
+
+   C. nuclear:             genetic networks (gene expression)
+
+ Where can we find stochastic processes?
+
+ Everywhere…
+
+  Small number of molecules (vesicles for release, postsynaptic receptors,
+  signaling molecules in spines)  stochastic nature of synaptic plasticity
+  regulation
+     3. Quantum neurophysiology – putative mechanisms of
+          quantum computations in neuronal networks
+
+
+
+
+• probabilistic gating of voltage-dependent ion channels is a source of electrical
+‘channel noise’ in neurons
+
+• channel noise limits the reliability (repeatability) of neuronal responses
+
+• channel stochasticity increases the range of spiking behaviors
+
+• channel noise enhances information coding abilities of neurons
+     3. Quantum neurophysiology – putative mechanisms of
+          quantum computations in neuronal networks
+
+
+Synaptic transmission in the central nervous system has a stochastic character:
+
+• when an action potential invades the presynaptic terminal there is a low release
+  probability (20%)
+
+    vesicular neurotransmitter release as a random Poisson-like process
+
+• some synapses possess a small number of postsynaptic receptors, receptor
+  fluctuations can influence postsynaptic responses
+      3. Quantum neurophysiology – putative mechanisms of
+           quantum computations in neuronal networks
+
+
+
+
+Stochastic neurotransmitter
+release
+
+
+
+
+• Stochastic modeling of transmitter release can account for the synaptic
+plasticity data better than a deterministic model (Cai et al. J Neurophysiol
+2007)
+     3. Quantum neurophysiology – putative mechanisms of
+          quantum computations in neuronal networks
+Impact of synaptic noise on input-output relationships of single neurons
+
+
+
+
+                                             Destexhe and Contreras Science 2006
+
+
+  • in quiescent conditions: input-output curve is all-or-none
+  • with synaptic noise, subthreshold stimuli are boosted, while suprathreshold
+  stimuli are attenuated
+Postsynaptic trafficking of receptors
+
+
+
+
+                 Choquet and Triller 2003
+        Postsynaptic membrane as a stochastic nanomachine
+
+
+
+
+            PSD
+
+
+
+                         Choquet and Triller 2003
+                         Holcman & Triller 2006 Biophys J
+
+
+• Receptors traffic by random motion in and out from the PSD
+• In the PSD they can be stabilized by binding to scaffolding proteins
+• When a few (<15) receptors are involved, a stochastic model is necessary
+            Stochastic calcium signaling in synaptic spines
+
+
+
+
+• Stochastic nature of signaling becomes important
+  when the number of molecules is small
+
+• E.g., a 50 nm calcium concentration in a dendritic
+  spine  3 free calcium ions;
+  1 mM (calcium able to induce biochemical
+  changes)  60 free ions                          Franks & Sejnowski, Bioessays 2002
+
+ Stochastic modeling (Monte-Carlo simulations) is
+  needed to represent the postsynaptic calcium
+  signaling realistically
+   Stochastic signaling in biochemical intraneuronal networks
+
+
+ Nodes:
+ molecules
+ Links:
+ interactions
+
+
+
+
+• nonlinearities (many feedback loops)
+                                              modified after Bhalla, Curr Op Genet Develop 2004
+• self-similar, scale-free structure
+• functional modules (amplifiers, filters, switches, oscillators, etc.)
+• stochastic events
+Network of interacting proteins/genes is a dynamic
+system
+State: a point in a multidimensional system
+Change: vectors defined by kinetic equations
+Bifurcation points: thresholds
+
+
+Feedback loops  instabilities  state transitions
+                                                     Tyson et al. Nat Rev Mol Biol 2001
+
+Stochastic kinetic equations: quantum phase transitions? (Coleman, Nature 2007)
+Biochemical regulation at the nanomolar scale: it‘s a noisy business!
+    • Stochastic genetic expression has been observed directly (intrinsic vs.
+      extrinsic noise)
+
+    • Molecular stochastic fluctuations play an important role in
+      determining cellular functions by inducing spontaneous state
+      transitions (e.g. in a bistable molecular LTP/LTD switch in synaptic
+      plasticity )
+
+    • A theory combining cellular regulatory modules and stochastic
+      dynamics is emerging
+
+    • Nonintuitive cellular/organismal responses driven by molecular
+      fluctuations  powerful new signaling and regulatory modes
+
+                    McAdams and Arkin, Trends in Genet 1999
+                    Goutsias, Biophys J 2007
+                    Samoilov, Price & Arkin, Sci. STKE 2006
+                    Song et al. Biophys J 2006
+              Biological benefits of stochastic mechanisms
+
+• Increase of variability, diversity, flexibility, novelty  increase of survival
+
+   (unpredictabile behavior in a competitive environment,
+   better adaptation over a wide range of environments,
+   broader spectrum of internal states)
+
+• Interaction of stochasticity with nonlinearities leads to novel and even
+  paradoxical neuronal dynamics! (Swain and Longtin, Chaos 2006, Destexhe and
+  Contreras 2006):
+
+         - boosts the propagation of complex waves of activity
+         - enhances input detection abilities
+         - benefitial to associative memories by avoiding convergence to spurious
+           states
+                    Summary II
+
+
+Neuronal computations are inherently stochastic at all levels:
+transmembrane (ion channel noise and synaptic noise)
+cytoplasmic (stochastic protein interactions)
+nuclear (stochastic gene expression)
+
+
+
+„Membrane voltage is the product of interactions at the atomic level,
+many of which are governed by quantum physics.
+
+… interactions between action potentials and transmitter release as
+well as interactions between transmitter molecules and postsynaptic
+receptors … seem likely to be fundamentally indeterminate.“
+
+                                 Glimcher Annu. Rev. Psychol. 2005
+Thank you for your attention
+

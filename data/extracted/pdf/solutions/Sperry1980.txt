@@ -1,0 +1,763 @@
+NruMrcrvncv    Vol. 5. pp. 195 10 206
+Pergsmon    Press ltd 1980. Printed in Great   BnUin
+0   lBR0
+
+
+
+
+                                                         ~O~~ENTA~Y
+
+                            MIND-BRAIN                 INTERACTION:  MENTALISM,                          YES;
+                                                          DUALISM, NO
+
+                                                              R. W. SPERRY
+                            California Institute of Technology, Division of Biology, Pasadena, CA 91125, U.S.A.
+
+               Abetract-A    traditional working hypothesis in neuroscience holds that a complete account of brain
+               function is possible. in principle, in strictly neurophysiological terms without invoking conscious or
+               mental agents; the neural correlates of subjective experience are conceived to exert causal influence but
+               not mental qualities per se. This long established materialist-behaviorist principle has been challenged in
+               recent years by the introduction of a modified concept of the mind-brain relation in which conscious-
+               ness is conceived to be emergent and causal. ~choph~~l            interaction is explained in terms of the
+               emergence in nesting brain hierarchies of high order, functionally derived, mental properties that interact
+               by laws and principles different from, and not reducible to those of neurophysiology. Reciprocal upward
+               and downward, interlevel determination of the mental and neural action is accounted for on these terms
+               without violating the principles of scientific explanation and without reducing the qualities of inner
+               experience to those of physiology. Interaction of mind and brain becomes not only conceivable and
+               ~entific~ly tenable, but more plausible in some respects than were the older parahelist and identity
+               views of the materialist position.
+                  This revised cpncept of consciousness as causal, with its recognition of mental phenomena as expiana-
+               tory constructs in science,has brought a marked change during the past decade in the scientific status of
+               consciousness and of mental and cognitive phenomena generally. Resultant mehtalist trends within
+               science have been accompanied also by a corollary rise in acceptance of various mentalist-related
+               concepts and dualist beliefs in the supernatural, the paranormal and in uncmbodied forms of conscious
+               existena that receiveno logid suppon from the new mind-brain concepts of neuroscience. Reasons are
+               advanced to show that our latest mind-brain model is fundamen~liy monistic and not only fails to
+               support dualiim but aerves to further discount fading prospects for finding dualist forms or domains of
+               conscious experience not embodied in a functidning brain.
+
+
+                   THE NEW INTERACTIONXSM                              locus of consciousness and the support of dualism.. I
+                                                                       have always favored monism, and still do. Sir John
+WHEN two eminent authorities of science and philoso-                   tells me that I am a dualist and I respond, ‘Only if the
+ phy, of the stature and influence of Sir John Eccles                  term is redefined to take on a new meaning quite
+ and Sir I&u1 Popper, join forces to aflirm dualistic                  dilTerent from what it traditionally has stood for’in
+ beliefs in the reality of the’supematural and the exist-              philosophy.’ Dualism and monism have long repre-
+ ence of extraphysical, unembodied agents to challenge                 sented a dichotomy that offers opposing answers to
+ some of the most fundamental precepts of science, one                 one of man’s most critical and enduring concerns,
+is impelled to take more than passing notice. Regard-                  namely, Can conscious experience exist apart from
+ less of one’s personal convictions and reactions, the                 the brain? Dualism, aflirming the existence of inde-
+kind of public message that is conveyed, directly and                  pendent mental and physical worlds, says ‘yes’ and
+indirectly, by their book The Self and Its Brain-An                    opens the door to a conscious after-life and to many
+Argumentjbr Interactionism (Porn          & ECCLES,1977)               kinds of supernatural, paranormal and other-worldly
+along with Eccies’s more recent volume Thp Human                       beliefs. Monism, on the other hand restricts its
+Mystery (ECCLES,1979) and the potential impact of                      answers to one-world dimensions and says ‘no’ to an
+these on the intellectual perspectives of our times                    independent existence of conscious mind apart from
+become a matter of some concern. Such consider-                        the functioning brain.
+ations, and the fact that my own views and writings                       In recent years there has arisen some real need to
+are cited in support of some of the key concepts and                   change and sharpen ddinitions of certain philosophic
+as being in alignment with dualist interactionism,                     terms to fit our new views in neuroscience. However,
+prompt this effort to clarify certain points that other-               in the case of monism and dualism, I see no advan-
+wise leave erroneous impressions.                                      tage in changing the dassic definitions. We greatly
+    Before I attempt to focus on specifics, it will help to            need terms by which to distinguish the critical dicho-
+mention broadly that whereas Sir John Eccles and I                     tomy regarding the potential separability of brain and
+have similar outlooks with many highly congenial                       conscious experience during life as well as after. Dtut-
+persP=tives, aims and values, we do, however, share                    lism and monism have long served this need in the
+certain friendly dilTerences in regard to the nature and               past and seem best qualified to continue.
+Nb.C   5/2-A                                                       195
+196                                                 R. W. SPERR’I
+
+    At the same time I am in strong agreement with           still complete heresy to those of us in neuroscience
+Eccles in rejecting both materialism (or physicalism)        and I did not venture to push them at this conference
+and reductionism-or       at least what these terms pre-     beyond mild reference to ‘a view that holds that con-
+dominantly stood for prior to the mid-1960s. Since           sciousness may have some operational and causal use’.
+1965 I have referred to myself as a ‘mentalist’ and          To this Eccles responded by asking ‘Why do we have
+since the mid-1930s have fhmly renounced reductio-           to be conscious at all? We can, in principle, explain all
+nism in the philosophic. ‘nothing but’ sense to be           our input-output performance in terms of activity of
+explained below. However, in the case of the terms           neuronal circuits; and. consequently, consciousness
+‘mentalism’ and the opposing ‘materialism’, and the          seems to be absolutely unnecessary’ (Eccles, 1966, p.
+form of dichotomy these two imply, some change and           248). This is, of course. what we had all been taught
+sharpening of definitions is now called for by our           and believed for decades, not only in science but also
+modified mind-brain concepts. On our new terms,              (by the great majority) in philosophy. The idea that
+which I will outline below, ‘mentalism’ is no longer         the objective physical brain process is causally com-
+synonymous with ‘dualism’ nor is ‘physicalism’ the           plete in itself without reference to conscious or mental
+equivalent of lonism’.       By our current mind-brain       forces represents the central premise of behaviorism
+theory, monism has to include subjective mental              and of scientific materialism in general and has long
+properties as causal realities. This is not the case with    served as a prime basis for the renunciation of the
+physicalism or materialism which are the understood          phenomena of subjective experience as explanatory
+antitheses of mentalism, and have traditionally              constructs in science. Eccles, however, already at the
+excluded mental phenomena as causal.constructs. In           time a dualist by faith, training and publication
+calling myself a ‘mentalist’, I hold subjective mental       (ECCLES,1953);went on to add: ‘I don’t believe this
+phenomena to be primary, causally potent realities as        story, of course; but at the same time, I do not know
+they are experienced subjectively, different from, more      the logical answer to it.’ Nevertheless, his considered
+than, and not reducible to their physicochemical ele-        conviction on the first point was firmly reiterated in a
+ments. At the same time, I define this position and the      later session, ‘I am prepared to say that as neurophy-
+mind-brain theory on which it is based as monistic           siologists we simply have no use for consciousness in
+and see it as a major deterrent to dualism. In order to      our attempts to explain how the nervous system
+better explain these distinctions, it will be helpful to     works.. .’ (ECCLE.S,1966, p. 250).
+start at the beginning and to follow the conceptual              I argued the point briefly but was not yet suffi-
+developments step-by-step as they occurred.                  ciently versed in my new-found answer to pursue it
+    My long-trusted materialist logic was first shaken       vigorously at the time. In the ensuing weeks and
+in the spring of 1964 in preparing a nontechnical lec-       months, however, in pondering the unifying role of
+ture on brain evolution in which I was extending the         callosal activity, the ideas kept recurring and the
+concept of emergent control of higher over lower             more I thought about them, the better. they looked. A
+forces in nested hierarchies to include the mind-brain       trial run the next April to our Caltech Division of
+relation. I found myself concluding with the then-           Biology convinced me that reductive neuroscience
+awkward notion that emergent mental powers must              and biology were not exactly ready for this kind of
+ logically exert downward causal control over electro-       thinking. However, I decided to proceed anyway with
+ physiological events in brain activity. Mental forces       a presentation the following month in a humanist lec-
+ were inferred to be equally or more potent in brain         ture at the University of Chicago for the volume, New
+ dynamics than are the forces operating at the cellular,      Views of the Nature ofMan, edited by J. hATi ( 1965).
+ molecular and atomic levels (SPERRY,1964). Again in          For the purpose of this lecture, I worked the new
+ September of that year, when preparing a paper for           mind-brain ideas into a discussion of holist-reduction-
+ the Vatican Conference on Brain and Consciousness            ist issues, emergent downward control. and ‘nothing
+ organized by John Eccles, it occurred to me that the         but’ fallacies in human value systems, in a broad refu-
+ functionist interpretation of consciousness that I had       tation of the then prevalent ’       mechanistic, material-
+ outlined in the early 1950s (SPERRY,1952), and still         istic, behavioristic, fatalistic, reductionistic view of the’
+ favor, must also logically call for a functional (and        nature of mind and psyche’. It was on this occa-
+ therefore causal) influence of conscious experience in       sion that 1 openly changed my alignment from beha-
+ brain activity. It was obvious that these combined           viorist materialism to antimechanistic and nonreduc-
+ concepts, were they to hold up, would provide a new          tive mentalism (-as the term ‘mentalism’ is used in
+  approach to the old question of how consciousness           psychology in contrast to behaviorism; not, of course.
+  may be of functional use and exert a causal control         in the extreme philosophic sense that would deny
+  role in brain processing. The kind of psychophysical        material reality). At the same time, I described this
+  relation envisaged showed how mind could influence          new position as a unifying scheme that ‘would elimin-
+  matter in the brain, making the interaction of such         ate the old dualistic confusions’ in favor of ‘a single
+  different things as mental states and physical events       “this world” measuring stick for evaluating man and
+  logically understandable at long last on terms that         existence’.
+  were scientifically acceptable.                                The main thesis of the essay, as in the Poppe-
+     In the mid-sixties, such interactionist concepts were    Eccles book, was psychophysical interaction, its logi-
+                                               Mind-brain interaction                                           197
+
+cal support and its scientific, philosophic and human        importance in the present context and will not be
+value implications. Essentially, it presented the view       pursued here. However, in the case of those differ-
+that subjective experience as an operational derivative      ences that pertain to the mind-brain problem and to
+and emergent property of brain activity plays a prime        dualist interactioniim WC deal, as Sir John has very
+causal role in the control of brain function. It differed    ably emphasized. with more than ordinary professional
+from previous emergent theories of consciousness,            and academic interpretations. At stake are central
+from C. LLOYDMORGAN (1923) onward, in that earlier           key concepts that directly involve fundamental con-
+emergent views of mind had been conceived in terms            victions regarding the nature of man’s inner being,
+that wereparallelistic, double aspect, or epiphenomenal,     physical reality, the meaning of existence, and related
+and had rejected any direct causal influence of mental       matters of ultimate concern. Because perspectives in
+qualities on neural processing (K~~HLER,1961). The           this area profoundly shape human value systems and
+thesis was focussed on contradicting the traditional,        societal decision-making and hence human destiny,
+mechanistic assumption expressed by Eccles that              we mutually agree that these issues must take prece-
+brain processing can be completely accounted for, in          dence over other considerations.
+principle, without including conscious phenomena.                Looking back today, it Seems clear that I quite
+Presented in terms of neuronal circuitry and concepts        failed to foresee how the new mind-brain solution
+of neuroscience, it seemed to counter and refute, for        might be taken to support dualism. Even though dua-
+the first time on its own grounds, the classic physica-       lism and mentalism had long been associated and
+list assumption of a purely physical determinancy of          even equated, and some colleagues had forewarned
+the CNS. The subjective mental phenomena had to be            that I might accordingly be accused of dualism, I
+included. Mind-brain interaction was made a scienti-          nevertheless supposed the new mentalist-dtialist dis-
+fically tenable and even plausible concept without            tinctions to have been sufficiently clarified (see
+reducing the qualitative richness of mental properties.       especially, SPERRY, 19706). Back in the 1960s dualist
+The overall aim of the paper, as in ihe Popper-Eccles         views were no threat to science and accordingly, it
+volume, was to show that this recognition of the pri-         seemed much more important in those years to com-
+macy of conscious mind as causal would alter pro-             bat the more prevalent errors of materialism, mechan-
+foundly the value implications of science which were          ism, behaviorism and reductionism, than to empha-
+being downgraded by the then strongly dominant                size the conjoint logic against dualism. Again, the
+ philosophy of reductive mechanistic materialism.             finer points involved here are better and more easily
+    At the same time, the proposed mind-brain model           explained if we continue to follow the chronological
+ was taken to undermine dualism as well by explaining         approach.
+conscious experience in terms that would make mind
+ inextricably inseparable from, and embodied in, the
+functioning brain. It provided a rationale for the evo-
+                                                                   GROWING SCIENTIFIC ACCEPTANCE
+ lution of mind from matter and also the emergence of
+ mind from matter in brain development. Presented as            After waiting more than three years during which
+a ‘conceptual skeleton on which to build a body of           the feedback was mostly positive, especially from
+ philosophy’, it was described as a scheme that ‘would       humanist groups, I tested the theory more directly in
+ put mind back into the brti of objective science and        the scientific community by presenting it at a neuro-
+ in a position of top command’.                              logical meeting (SPERRY, 19704 and then to the
+    When the reprints arrived, I sent my new mind-            National Academy of Sciences (SPERRY,19694 with a
+ brain ‘answer’ to Eccles who previously              had    follow-up printed version in the Psychological Review
+ expressed little, if any, active interest in the holist-    (SPERRY, 19696). The result was a wide exposure,
+ reductionist issues (ECCLES,1966). I was delighted to       increased by several reprintings and a critique (Bw-
+ see by his next IBRO presentation (ECCLES,1968) that        DRA, 1970) and reply (SPERRY, 197Ob), within those
+ he had clearly joined our ranks as an ardent anti-          disciplines most knowledgeable and most apt to be
+ reductionist denouncing ‘the materialistic, mechanis-       critical. In these conjectural areas where the concepts
+ tic, behavioristic, and cybernetic concepts of man . . .’   are still beyond any direct experimental verification,
+ Reversing his earlier stand on the uselessness of con-      the next best test is to put them in the marketplace to
+ sciousness for a full account of brain function, E&es       be churned over by hundreds of minds from all differ-
+ has since lent his support to the new logic for the         ent angles. In this respect the years I%9 to 1971 were
+ causal intluence of mind over neural activity. On           the critical years for this theory. No logical flaw nor
+ these points I believe we have remained in good gen-        prior statement, so far as I know, has yet come to
+ eral agreement (see ECCLF!S,1973). It is in regard to       light.
+ the nature of the causal influence and to the use of           By the early 19709, the -modified concept of cons-
+ these new mind-brain concepts to support dualism            ciousness as having causal eflicacy began to gain sub_
+ that our critical differences arise. Other differences      stantial scientific acceptance particularly in psy-
+ concerning the relation of consciousness to the right       chology in a pervasive resurgence of mentahsm and
+ hemisphere, to language, to animals, and to self cons-      anti-behaviorism    that is still gathering momentum
+ciousness, though of some concern, are of secondary          &WTOR,       1978). Essentially, the new interpretation
+198                                                R. W. SPERRY
+
+ brought a logical change in the scientific status of advanced by Eccies (POPPER& ECCLES,1977)one
+ subjective experience replacing behaviorist principles    finds much the same reasoning (see pp. 361-362 and
+ with a mental&t or cognitivist paradigm. Psycholo-        the Summary on p. 373) that I have used to support
+ gists could now refute the lo@c and principles of my own concept of consciousness (cf. SPERRY,
+ behaviorism and refer directly to the causal influence    1952-1970a,bf The phraseology and emphasis are
+ of mental images, ideas, inner feelings, and other sub-   somewhat different and some different neural
+jective phenomena as explanatory constructs. The           examples of the principles are introduced but the
+suddenness with which this began to occur was conceptual model for mind-brain interaction that is
+almost explosive in the cognitive disciplines (PYL- inferred seems entirely consistent and certainly no dis-
+SHYN,1973). The movement has been referred to as           tinct alternative is offered.
+the ‘cognitive revolution (D~MBEX,1974) and also              Eccles emphasizes with italics (p. 362) that ‘A key
+variously as the ‘humanist’, ‘consciousness’ or ‘third    component of the hypothesis is that unity of con-
+revolution (MATSON,1971) and has extended also into       scious experience is provided by the mind and not by
+philosophy, anthropology        (FWMAN, 1979) and          the neural machinery’, and this point is again stressed
+neuroscience (BUNGE. 1977; JOHN, 1976; MACKAY, in Dialogue VIII, p. 512, and again in his Gifford
+ 1978).                                                   Lectures (Eccles, 1979). Here we are in full accord. I
+    EC&S’s increasingly vigorous campaign for dualist     too have made precisely the same point (SPERRY,
+interactionism during this same period has followed        1952) stating, ‘In the scheme proposed here, it is con-
+on a curve that closely parallels the above. A similar    tended that unity in subjective experience does not
+curve can be drawn for a rising public belief in psy- derive from any kind of parallel unity in the brain
+chic, paranormal and related mentaiist phenomena,         processes. Conscious unity is conceived rather as a
+along with mysticism. occultism, and other dualist        functional or operational derivative’, and There need
+beliefs in the su~~atural    and in ot~r-worldly forms    be little or nothing of a unita~ nature about the
+of existence. Some of these have logical support in the   physiological processes themselves.’ in his earlier
+new mind-brain concepts; others are bolstered only        thinking Eccies had given priority to quite a different
+spuriously by association. There is good reason to concept, expressed in terms of extraphysical ‘ghostly
+think that the gains made by these mentaiist-related      influences’ aBecting the course of synaptic events
+deJelopments during this period have been substan-        (ECCLES,    1953). I have since referred to and consis-
+tially aided directly and indirectly, by the appearance    tently reiterated the above expiration           of mental
+in neuroscience of a plausible logical answer by which    unity in reference to the role of the cerebral commis-
+to counter the basic premises and principles of the       sums and to the graininess’ problem (SPERRY,
+traditional behaviorist paradigm. Without a convinc-       1%5-1978), emphasizing that the subjective unity
+ing alternative to replace the physicalist logic, we does not correlate with the array of excitatory details
+would be back today much where we were in the             comprising the infrastructure of the brain process but
+mid-1960s. i.e. where materialist-~haviorist      reason-  rather with the holistic ‘mental’ properties.
+ing effectively outweighed all the intuitive, natural         In a reflective appraisal near the end of their
+and omnipresent subjectivist pressures and argu-          volume, Eccles (POPPER & Ecctw               1977. p. 552)
+ments, and where cognitive psychology remained in observes, ‘As we have developed our hypothesis, we
+principle a science of para- and epiphenomena. More       have returned to the views of past philosophies that
+specifically. the increasing assurance with which the mental phenomena are now ascendant again over
+Eccies has been able in recent years openly to pro- the material phenomena.’ Similarly, I too from the
+claim dualist arguments not visible in the 1964 confer- start have described?he hy~t~is             as one that ‘puts
+ence suggests that he has developed in the interim a mind back over matter.. .’ (SF+ERBY,            1965); ‘would re-
+new ‘logical answer’ that was not perceived earlier.      store mind to its old prestigious position over matter’
+                                                          (SPERRY,19704. That our key concepts for this and
+                                                          for mind-brain interaction in general are essentially
+   WOW MANY NEW MIND-BRAIN SOLUTIONS?
+                                                          one and the same is further indicated where Eccles
+    A first question that needs to be considered is (POPPER& Em&s, 1977, p. 373) ends the condensed
+whether the set of concepts which Eccles currently        summary of his hypothesis with the statement, ‘Sperry
+uses to support dualism (Karl Popper’s arguments          has made a similar proposal (SPERRY, 1969)’
+will be discussed separately) is signiiicantiy dilI&ent   and concludes another ‘very brief summary or outline
+from that which I proposed as a nondualist, monistic      of the theory.     ’ (p. 495) with the statement, ‘Thus. in
+solution. Have we independently come on two di&r-         alyeement with Sperry, it is postulated that the self-
+ent answers for mind-bra         interaction, or is it a conscious mind exercises a superior inte~retative and
+matter of different interpretations of basically the controlling role upon the neural events.’
+same solution? So far as I am able to determine, the          When we turn to the solution to the mind-brain
+ underlying concepts bv which psychophysical interac-     problem upheld by Sir Karl Popper, we find it is also
+ tion is inferred by Eccles do not differ in any relevant basically the same, but the. history of its acquisition is
+ respect from those which I have presented as menta-      quite different. Prior to 1965. Popper’s support of
+ list monism. In searching the arguments and evidence     dualism rested mainly on the argument that no causal
+                                                 Mind-brain interaction                                                   199
+
+physical theory of the descriptive, argumentative func-       . , , recall that a molecule in many respects is the master of
+tions of language is possible. Products of the mind,          its inner atoms and electrons. The latter are hauled and
+like myths, abstractions and mathematical formulas            for& about in chemical interactions by the overall con-
+                                                              fi~~tional      properties of the whole molecule. At the same
+cannot be accounted for by the laws of physiology or
+                                                              time. if our given molecule is it&f part Of a single-o&d
+physics (POPPER, 1%2). During the years in which this
+                                                              organism such as paramecium, it in turn is obliged, with all
+argument was propounded, it failed by itself to have          its parts and its partners, lo follow along a trail of events in
+much influence in countering physicalist objections           time and space determined largely by the extrinsic overall
+that products of the mind have neural correlates and          dynamics of Purumecium cat&turn. When it comes to
+that these products of the mind, Iike other mental            brains, remember that the simpler electric, atomic, molecu-
+entities, were better interpreted in ~lle~stic    terms       iar, and cellular forces and laws. though still present and
+as being epiphenomena, inner aspects of, or identical         operating have been superseded by the configurational
+ to their neurological correlates. As expressed by            forces of higher-level mechanisms. At the top, in the human
+ OPPENHEIMER   & PUTNAM(1958):                                brain, these include the powers of perception, cognition,
+                                                              reason, judgment, and the like, the operational, causal
+   It is not sufficient, for example, simply to advance the   effects and forces of which are equally or more potent in
+claim that certain phenomena considered to be specifically    brain dynamics  than are the outclassed inner chemicai
+human, such as rhe use of verbal Ianguage in an abstract
+                                                              forces (Spmav, 1964).
+and generalized way, can never be explained on the basis of
+neuraphysiotogical theory, or to make the claim that this     Note that this statement includes the basic key con-
+conceptual capacity distinguishes man in principle and not    cepts on which the Popper-Eccles case for mind-
+only in degree from nonhuman animals.                         brain interaction mainly rests, i.e. the downward cau-
+    In 1%5, Popper proposed a new solution to the sal control influence. of higher emergent (mental) over
+mind-brain relation that was exactly what his earlier         lower (neural) entities, and the fact that the mental
+argnments had been looking for, and which has since           and neural events are d&rent kinds of phenomena
+become a major theme of hi% philosophy (POPPER, regulated by different kinds of laws and forces.
+ 1978). In a lecture devoted firstly to a discussion of          Hence, from very different backgrounds, Popper
+physical indeterminism, and in a departure from his and I had arrived by l%S at the same answer to
+prior long-time concerns with the logic of knowing,           Eccles’s problem. Popper presented his as an answer
+POPPER f 1972) added a second theme concerning                to ‘a new view of evolution’ and ‘a different view of
+some revised perspectives on ~o1ution which he then           the world’. I pramted mine as ‘a scientific theory of
+extended to include the body-mind             problem. He     mind’ and ‘a long-sought unifying view of man in
+emerged with what seems to be basically the same              nature’. We both offered our view as a new solution
+view of evolution and the mind-brain relation that I          to the mind-body problem. When one considers that
+too had proposed a year earli& in my James Arthur             this new turn in Popper’s thinking had not appeared
+Lecture (SPERRY, 196Qf.In essence, the idea of emerg-         in his extensive philosophical publications over the
+ing hierarchic controls is applied to the mind-brain          previous 40 years, the timing of these convergent de-
+relation. This I%5 switch in Popper’s philosophy              velopments is remarkable.
+from a position in which evolutionary theory was                 In Popper’s case, his new solution did not become
+held to be tautological, explaining almost nothing, to generally available apparently, except by offprint
+one in which it expl+ins almost everything was offered request, until the lecture came to be published in 1972
+with ‘many apologies’, as a development for-which he among other philosophic essays in the volume O&ec-
+was obliged ‘to eat humble pie’. In Iine with the main        tiw Knowledge (POPPER, 1972). Even Popper’s own
+theme of his lecture, a ‘plastic’ indeterminacy of the        thinking seems curiously to have been little influenced
+emergent controls was emphasized but the degree of during this interim. His long article ‘On the Theory of
+looseness or tightness in the controls is not a critical      the Objective Mind’, prepared for the 1972 volume
+part of the argument.                                         out of two previous papers from 1968 and 1970, intro-
+    Because these cunccpts concerning         hierarchic or-  duces his ‘three world’ terminology. It deals with a
+ganization and ‘downward’ control are crucial both to         subject  that, unlike the 1%5 lecture, almost cries for
+ the Poppet-Ecclcs    volume and to the present paper, I the use and application of the new mind-brain soiu-
+ restate them with exact quotes:                              tion and different view of the world, yet this goes
+                                                              unmentioned. Even in his subsection on the causal
+Evolution keeps complicating the universe by adding new       relations between the three worlds, he does not refer
+phenomena that have new properties and new forces and         to his new solution for the control of brain by mind,
+that are regulated by pew scientific principles and new
+                                                              but instead adds a footnote on the word ‘interact’ to
+scientific laws-all for future scientists in their respective
+                                                              explain he is using it ‘in a wide sense so as not to
+disciplines to discover and formulate. Note also that the
+old simple laws and primeval forces of the hydrogen age       exclude psychophysical parallelism’.
+never get lost or can&led
+                        in the process of compounding
+the compounds. They do, however, get superseded, over-            DETERMINISM VERSUS INDETERMINISM
+whelmed, and outclassed by the higher-level forces as these
+successively appear a1 the atomic, the molecular and the         Another main theme of Popper’s philosophy, inde-
+celhdar and higher levels (SPERRY,1964).                      tenninism, is applied to the mind-brain relation, In
+200                                                R. W. SPERRY
+
+this we are in fundamental disagreement. I favor            phenomena as causal determmants in brain process-
+determinism of an emergent, mentalist form that fol-        ing are extended and enriched particularly in the
+lows directly and logically from my concept of mind         upper linguistic and epistemological levels by the
+as causal (SPERRY, 1964: 19766). In contrast to Pop         insights of Popper. I should also make clear at this
+per. I hold that every time the elements of creation,       point that in reading Popper’s work for the first time
+whether atoms or concepts, are put together in the          for this occasion, I was repeatedly impressed with the
+same way under the same conditions, that the same           great extent, particularly in regard to his general pos-
+new properties would emerge and that the emergent           itions on epistemology, to which I feel we are in
+process is, therefore causal and deterministic. To this     strong and warm accord. The present discussion, and
+extent and in this sense it may also be said to be, in      concern for the impact of dualist ideology, brings a
+principle, predictable though generally, with few           disproportionate emphasis on our relative differences.
+exceptions, it is not so in practice. Rather than view-
+ing the mind of man as a ‘first cause’ or ‘prime
+                                                                  IS CONSCIOUS EXPERIENCE CAUSAL-OR
+mover’ (POPPER,1962; POPPER & ECCLES,1977). I see
+                                                                     ONLY   ITS NEURAL      CORRELATES?
+the brain as a tremendous generator of emergent
+novel phenomena that then exert supercedant control             This long, chronological approach may help to
+over lower-level activities. The higher-level functional    clarify the following: The difference between the view
+entities of inner experience have their own dynamics        of Eccles today and his position in 1964, and similarly
+in cerebral activity and, contrary to Popper’s interpre-    the sudden rise during this same period in the scien-
+tation of my view (POPPER& ECCLES,1977, p. 209),            tific acceptance of mental entities as explanatory con-
+they also ‘interact causally with one another at their      structs, as well as the recent new strength of Popper’s
+own level as entities’ (SPERRY, 19696). But the creative    dualist arguments, all depend in a very critical way on
+process is not indeterminant. The laws of causation         the appearance of a logical alternative by which to
+are nowhere broken or open (excepting perhaps          in   refute the traditional behaviorist-materialist      para-
+quantum-level indeterminacy which is here irrele-           digm. The new availability of a logical answer contra-
+vant). It is all part of a continuous hierarchic mani-      dicting our earlier reasoning that consciousness is
+fold, a one-world continuum.                                acausal and unnecessary for a complete account of
+     On these terms, human decision-making is not           brain function meant that the multiple subjectivist
+indeterminant but selfdeterminant.        Everyone nor-     pressures toward humanism, cognitivism and menta-
+mally wants to have control over what he does and to        lism were no longer held at bay by behaviorist theory.
+determine his own choices in accordance with his own        The logical deterrents to dualism also were corre-
+wishes. This is exactly the kind of control our mind-       spondingly reduced. The one new concept that
+brain model provides (SPERRY,1976b; 19776). But this        appears to have the logical qualifications and that can
+is not freedom from causal determinacy. A person            be said to make the interaction of such different
+may be relatively free in this view from much that          things as physical and mental states now seem plaus-
+goes on around him, but he is not free from his own         ible, where in 1964 it had seemed inconceivable, is the
+ inner self. The emphasis here is the diametric converse    concept of the mind-brain relation which Popper and
+ of the behaviorist contention that ‘ideas, motives, and    Eccles make the main thesis of their book and on
+ feelings have no part in determining conduct and           which they very largely build their argument for dua-
+ therefore no part in explaining it’ (BLANSIARD &           list interactionism, and it is the concept that I too
+ SKINNER,1967; SKINNER,1971). Even Skinner, how-            have proposed.
+ ever, seems in recent years to have withdrawn from             No other development is visible during this period
+ his former stance to a point where his present pos-        that serves to distinguish between the causal potency
+ ition (SKINNER,1974) is no longer distinctive. In that     of mental experience per se and that of its neural
+ great complex of external and internal determinants        correlates, providing for the former over and above
+ that control behavior, one can pick out for emphasis       the latter, in direct contradiction       to behaviorist
+ either the environmental factors or those of the inner     theory. The increasingly frequent references of late to
+ self. From my standpoint, it is the latter that es-        the evolutionary survival value of consciousness as
+  pecially tend to distinguish man, while the former are    evidence of its causal usefulness (GRAY, 1971) was for
+ more characteristic of animals and increasingly so as       many decades effectively rejected on the grounds that
+  one descends the phylogmetic          scale. The self-     it is the neural correlates that are causal and have
+  determinants in man include the stored memories of a       survival value, not their conscious qualities. Similarly.
+  lifetime, value systems, both innate and acquired, plus    recent advances in cognitive and humanistic psy-
+  all the various mental powers of cognition, reasoning,    chology now expressed in terms of the causal role of
+  intuition, etc.                                            mental images and other subjective phenomena, are
+      In any case, it has become evident that Popper’s      equally interpretable, as in the past, on behaviorist
+  philosophical arguments for mind-brain interaction         terms that recognize the causality of the neural corre-
+  have become greatly strengthened by having the older       lates of the subjective phenomena, not the subjective
+   pre-1964 logic of neuroscience countered on its own       qualities themselves. New developments in the mind-
+   grounds. Conversely, my own concepts of mental            brain identity position, the recent ‘consciousness’
+                                                 Mind-brain    interaction                                          201
+
+movements in clinical and humanistic psychology,                that their dualistic extensions and additions are both
+and the counterculture developments of the 1960s                consistent with, and supported by, the emergent
+have all been chronologically and otherwise associ-             causal model for mind-brain interaction.
+ated, but also similarly fail to furnish any critical               Because this model combines features from both of
+reasoning that would distinguish betwctn the causal             the earlier classical opposing philosophies of monist
+efficacy of consciousness and that of its neural corre-         materialism on the one hand and dualist mental&m
+lates, or to otherwise refute, so far as science is con-        on the other, it was presented as a compromise view
+cerned, the iong domina’nt materialist-behaviorist              (SPERRY,lQ6Q; 19X&; 19764 and could have been
+paradigm. The one development that does this and                labeled either way at the outset to favor either alter-
+presents a logical and plausible alternative, is the            native (given certain qualifications and some redefini-
+modified concept of mind as a causal, functional                tions). It is entirely understandable that Popper and
+emergent.                                                       Eccles with their prior ~rn~trn~~        to du~ism on
+    It is the idea, in brief, that conscious phenomena as       other grounds should try to make the new com-
+emergent functional properties of brain processing              promise as consistent as possible with their earlier
+exert an active control role as causal detents            in    thinking. I similarly could have presented it, for
+shaping the flow patterns of cerebral excitation. Once          example, as ‘enlightened physicalism’, ‘neomateria-
+generated from neural events, the higher order mental           lism’, ‘emergent& cognitivist or mentalist materia-
+patterns and programs have their own subjective qua-            lism’, ‘nonreductive materialism’, etc. In what follows
+lities and progress, operate and interact by their own          I will try to outline briefly the reasons for presenting
+causal laws and principles which are different from             this interactionist mode1 as neither dualistic nor
+and cannot be reduced to those of neurophysiolo~,               materialistic. I think it combines features that separ-
+as explained further below. Compared to the physio-             ately exclude it from both the foregoing and that it is
+logical processes, the conscious events are more                best recognized as a fundamentally distinct alterna-
+molar, being determined by configurational or organi-           tive. From here on it may be understood that my
+xationaf interrelations in neuronal functions. The              comments will be confined strictly to my own version
+ mental entities transcend the physiological just as the        of the model with which I am directly familar. As I
+physiological transcends tbe molecular, the molecular,          interpret it, this concept of the mind-brain reiation
+the atomic and subatomic, etc. The mental forces do             not only refutes the doctrines of behaviorism and
+not violate, disturb or intervene in neuronal activity          materialism, mechanistic determinism and reduction-
+but they do supervene. Interaction is mutually reci-            ism, as Popper and E&lea correctly it&r, but also
+procal between the neural and mental levels in the              and with equal force, strongly d&counts dualism. By
+ nested brain hierarchies. Multilevel and interlevel             exptaming &&cious experience in mOrristic terms we
+determinism is emphasized in -addition to the one-               undermine dualism at its source and point of stron-
+level sequential causation more ~a~tion~ly            dealt      gest support, leaving for dualism only abstract argu-
+ with. This idea is very different from those of extra-          ments like those of Plato and Popper and observa-
+physical ghostly intervention at synapses and of inde-           tions like those from parapsychology (BEKW, 1962).
+ t ermmistic influences on which Eccles and Popper
+ had earlier relied. The question at issue is whether
+this form of psychophysical interaction is fundamen-                         EMERGENT DETERMINISM
+tally monistic as I interpret it or whether it is dualistic         It will be helpful as we proceed to have in mind
+as presented by Popper and E&es.                                some further concrete examples of the principles of
+     In following up this question we want to first recog-      emergent (holist) control as illustrated at different
+ nize that Popper and E&es go well beyond the given              levels in some simpler and more farnil& physical sys-
+ formula for mind-brain interaction to promote cor-             tems. I have earlier (SPERRY,lQ6Qb) used the example
+ relative concepts and final overall positions that are         of how a wheel rolling downhill carries its atoms and
+ genuinely dualistic. Eccles‘s description of the cons-         mole&es through a course in time and space and to
+ cious self as having supernatural origins and as some-         a fate determined by the overall system properties of
+ thing that survives death of the brain, and Popper’s           the wheel as a whole and regardless of the inclination
+concepts of unembodied ‘world 3’ entities existing              of the individual atoms and molecules. The atoms and
+ independently of any material substrate are distinct           moiecules are caught up and overpowered by the
+ examples. Elsewhere in .their writings,’ many implica-         higher properties of the whole. One can compare the
+ tions can be found where they discuss the loose, open          rolling wheel to an ongoing brain process or a pro-
+ and ~~t~in~tic            nature of the liaison between        gressing train of thought in which the overall proper-
+ mind and brain that leaves no doubt that they both             ties of the brain process, as a coherent organizational
+ have something genuinely dualistic in mind. ‘The diffi-        entity, determine the timing and spacing of the firing
+culty is that these dualistic features ‘are indistinguish-      patterns within its neuronal infrastructure. The con-
+ably mixed in and fused with the given theory for               trol works both ways; hence, mind-brain ‘interac-
+ mind-brain interaction that itself has stood up under          tion’. The subsystem components determine colkc-
+criticism and is regarded by many of us as being de&            tively the properties of the whole at each kvel and
+nitcly monistic. Throughout the volume,. it is implied          these in turn determine the time/space course and
+202                                                   il. W. SPERRY
+
+
+ other relational properties of the components. The             1952) plus also the relating of both these to sensory
+ organism and its component cells and organs is inputs, to memory, and to emotional values and
+ another      familiar example. The principles            are homeostatic needs. The conscious attentional compo-
+  universal.                                                   nent in this central metasystem may be only a small
+    An example I come back to for classroom illus-             surface feature of the whole vast complex of cerebral
+ tration contrasts the prorating         determinants in a intergration. The crucial features of the central self
+ television receiver with the electronic and other physi-      system are presumably innate in each species and
+ cal interactions involved in its operation. Complete          largely preorganized independently of sensory input.
+ knowledge of the electronic and physical theory that             It is import~t to recognize that the term ‘interac-
+enables one to fully understand, build and repair the          tion’ applies in these examples only in the general
+appliance, is no help to explain why Mary struck               sense in which it has been used in the history of psy-
+John on channel 4, or what caused the building to chology and philosophy to imply a causal influence
+collapse on 2, or the laughter on 7. There is no way between mind and brain. I have stressed that the term
+that these, or the political message on channel 5, can        ‘interaction’ is not to imply that the mental forces
+be explained in terms of the laws and concepts of intervene in, or disturb or disrupt the physiology or
+electronics. They involve a different order or level of chemistry of the brain, but oniy that they supervene,
+interaction. Yet these higher order, supervening, pro-        like TV programs over the electronic processes. No
+gram variables do control at each instant, and                int~ruption or violation of the laws of physiology is
+determine the space-time course of the electron flow involved. I infer that Popper and Eccies also use the
+patterns to the screen and throughout the set-just as         term mostly in the same way and only rarely here and
+a train of thought controls the patterns of impulse           there in the more specific sense of an actual djsturb-
+tiring in the brain. The shift to a new program or to a ante of physiological events, as MACKAY(1978) seems
+new channel can be compared to a shift in the brain           to have misinterpreted their meaning.
+to a new mental set, focus of attention. or to a new
+thought sequence (SPERRY,1%5). Popper would pre-
+                                                                            MONISM VERSUS DUALISM
+sumably allocate the programs of television to a sen-
+arate world (‘worlds“within ‘worlds?). Ahhough the                Given our original description of the theory and its
+allocation of such human artifacts to a distinct separ- consistent reiteration, along with illustrative examples
+ate world proves helpful in some ways and interesting         like the foregoing (SPERRY,1964-1972), it is not easy
+in its original form as a philosophic conjecture, the to understand how this concept of the mind-brain
+current promotion of the separate worlds with a capi- relation co&d be taken as support for dualism.
+tal ‘W’ in a true dualistic sense seems fundamentally         Firstly, it fails to satisfy the classic philosophic defini-
+inaccurate and misleading.                                    tion of dualism as two different forms or states of
+    The television analogy breaks down if pushed too existence neither of which is reducible to terms of the
+far, of course, in that the superimposed programs of other. Our theory describes the mental states as being
+television are linearly traceable to the recording stu-       built of, composed and constituted of physiological
+dio, whereas the brain, by contrast. is largely a self- and physic~hemi~l               elements, and thus, in the sense
+programming. self-energizing system. It creates its of the definition, reducible to these. It needs to be
+own superseding mental programs with its own                  explained here that much confusion has arisen from
+built-in subjective generators calling also on a tife- use of this term ‘reducible’ in two quite different
+time of internal memories and an elaborate built-in           senses in different contexts. In common usage a build-
+system of .value controls (PUGH, 1977) and homeo-             ing is said to be reduced to rubble by an earthquake.
+static regulators. Also, the programs passing through         This is denied, however, in philo~phi~, holist-reduc-
+the television monitor lack the internal interaction          tionist dispute on the contention that in the reduction
+and competition of those of the brain, and also the process, even with careful disassembly, the building as
+self-developing originative properties as well as an such has been lost and therefore has not been and
+internal selector of the programs to be attended to.          cannot be, in principle, reduced to its parts. It is only
+    The conscious programs of the brain may be pre-           in this latter specialized sense, and not in the common
+sumed to be created in activity that lies beyond and is sense of the above definition or dictionary usage that
+different from that occurring in the genicuiostriate          I describe the mental events as not reducible to brain
+system. The difference we envisage here is not in re- physiology.
+spect to events at the neuronai level but in more sys-            The reason that mental or other entities cannot be
+temic. organizational,       relational.    configurational   thus reduced to the parts may be understood more
+aspects and design features of the cerebral integration.      easily if one thinks of a given entity not as a system of
+The special central system for consciousness, or the just material components. but as a combined space-
+conscious Self, must include a constant registration of time-mass-energy             manifold. Think of space being
+ the changing body schema (so strong it tends to per- bent around and molded by the material parts and
+ sist after limb amputations) and in reference to which time as similarly defined by events in temporal and
+ sensory input is consciously perceived, plus a feeling moving systems with the space-time com~nents
+ for the volitional command of the system (SPERRY. both arranged also in vertical nested hierarchies cor-
+                                              Mind-brain interaction                                              203
+
+responding to and filling in around the material            tional attribute of brain activity, conscious experience
+elements and de&ted by their relative positions and         is inextricably linked to, and inseparabk from, the
+timing. The process of reducing an entity to its mater-     functioning brain. It is only in the functional relations
+ial components, physically or conceptually, inevitably       within the matrix of brain processing that the sub
+destroys the space-time components at the affected          jective qualities appear and have their meaning
+level. These last components from the space-time            The subjective effects are generated by, and exist
+manifold interfusing with, shaped by, and demarcated         only by virtue of, brain activity. Even where higher
+by the material components, are highly critical in          order mental forms are compounded of lower level
+determining the causal and other distin~ishing               mental entities, as we assume to be the CBSC,the
+properties of any system as a whole. The spacing and         entire hierarchy is still embodied in, dependent
+timing of the parts with reference to one another            on, and inseparable from the physiological sub
+largely determine the qualities and causal relations of      structure.
+the whole but the laws for the material components              Much the same solution to the mind-brain prob-
+fail to include these space-time factors. Attempts to        lem has been arrived at recently by MACKAY (1978)
+recognixe them in so-called ‘colkctivc’ and ‘coopera-        who presents it in the more restricted t~inolo~        of
+tive’ effects tend to fall short of an adequate recogni-     information theory using for illustration the example
+tion of the basic importance of the space-time ele-          of goal-directed operations in a computer. The same
+ments. This is why quantum mechanics is of little help       example was offered by MacRay in 1964 couched in
+in explaining physical reality at orders much above          ‘dual aspect’ theory when he held the view (most
+the quantum level.                                           favored in neuroscience at that time) that the mental
+   None of this is to reject. the value of reduction as a    and the physical are ~rnpl~~~             aspects of one
+method in science or as a means to gain understand-          and the same process where ‘no physical action waits
+ing in general. The properties of any entity are             on anything but another physical action’ (MAcKhY
+determined largely (but not entirely, and in some             1966, p. 438). In those years, MacKay granted the
+cases more than others) by the properties of its parts.      physical determinancy for the CNS holding conscious
+It obviously helps enormously, as a rule, to know how        brain activity to be predictable in principle, in objec-
+and of what anything is composed. Further reduction          tive terms from a knowledge of the precedent physical
+to the composition of the parts of the parts, and so         determinants (provided one did not reveal the predic-
+on_ becomes increasingly less explanatory of oper-           tion of a predicted sequence to a person involved in
+ations at the higher, starting level. Though brain           the prediction). The emergent nature of the mental
+ quarks and gluons are not of particular relevance to        controls as we now conceive them in a vertical or
+behavioral science, one can expect that in many              nested hierarchy, and the manner in which they
+respects brain physiology in -its upper dimensions           supersede, rather than merely parallel as an inner
+may become to behavior and cognitive processing              aspect, the physiological determinants were missed by
+what molecular theory is to chemistry. It is only the        MacKay in 1964 but apparently are accepted in his
+reductionist reasoning ‘that therefore things can be         1978 version, along with a new recognition of the
+reduced to ‘nothing but’ their parts that is rejected        causal efficacy of consciousness. These changes now
+or that all science can be reduced, in principle, to a       bring our respective views into rather close accord
+basic unity in one fundamental discipline, or that           with respect to those features most directly relevant to
+the ‘essence’ of anything is to be sought in its             the min~rain       problem.
+components.                                                     Apparently u&quainted        with the history of these
+   Along with the failure to qualify as dualism by defi-    conceptual developments and the original concepts
+nition, our proposed mind-brain model also is non-          from which Popper and Eccks argue, MACKAY           (1978)
+dualistic in that it makes mind and brain inseparable       misinterprets the kind of interactionism they have in
+parts of the same continuous hierarchy the great bulk       mind and then finds it ‘astonishing’ how dose and
+of which, by common agreement, is not dualistic. It         natural a fit can otherwise be made between theirs
+becomes illogical to make a special exception of the        and his own description. Preserving consistency with
+principle at the one level of mind and not at those         his earlier position, MacKay is inclined to emphasize,
+above and below. On the proposed scheme, one can            more than I, the extent to which the proposed alter-
+proceed continuously in the same universe of dis-           native is a physicalist rather than a mentalist view. It
+course, following the path of evolution, from sub           has to he remembered in this regard that whereas the
+atomic elements in the brain up through molecules,          programs of the computer or tekvision analogies are
+cells and nerve circuits to brain processes with con-       conceived in physical terms, those of the brain have
+scious properties and on upward through higher              always been described as mental with subjective
+compounds all within the one ‘this-world’ mode of           properties defined as contrast to the physical or
+CXiStCfKC.                                                  material. In any case, I fully agree with MacKay that
+  Dualism would seem to be further contradicted in          the arguments and evidence advanced in support of
+our description of subjective meaning as a functional       dualist-interactionism     in the Popper-EC&      volume
+derivative rather than a brain copy or a spatiotem-         are very much open to the kind of alternative inter-
+poral transform (SPERRY,1952). As an emergent func-         pretation that we propose.
+204                                               R. W. SPERRK
+
+       MENTALISM VERSUS MATERIALISM                        these and related materialistic. mechanistic and reduc-
+                                                           tionist trends.
+    The explanation of mind in the foregoing terms as         Meantime mind-brain identity theory which has
+an organizational functional property of brain pro-       become the strongest thrust in materialist philosophy
+cessing, constituted of neuronal and physicochemical      has undergone substantial changes during the last
+activity, and embodied in, and inseparable from the decade. In its initial form as a semantic twist to the
+active brain has led to an impression in some cases old ‘double aspect’ view that goes back at least to
+that this should properly be interpreted as therefore     Spinoza, it was described as a ‘dual access’ or ‘double
+an essentially materialist view. Some further reasons     language’ theory (FEEL, 1967) and was strongly
+for defining it instead as mentalist (or cognitivist) can reductivist. In particular, it held that a complete
+be outlined as follows: The principal feature of this account of brain processing is possible, in principle, in
+model is the new recognition it gives to the primacy      neural terms only without resorting to subjective lan-
+of subjective mental phenomena in scientific explana-     guage or mental terms. Unlike the epiphenomenal
+tion and the higher level control role accorded mental    view, or the emergent, double aspect or interactionist
+or cognitive phenomena as causal determinants, over views, identity theory itself seems to provide no new
+and above their neural correlates. It is characterized    concrete concepts to the mind-brain problem only
+as placing ‘mind back over matter’, and as ‘a scheme different semantic approaches. Our introduction in
+that idealizes ideas and ideals over physical and         the mid-1960s of the opposing view of consciousness
+chemical interactions, nerve impulse traffic, and         as a nonreductive emergent with causal potency and
+DNA. It is a brain model in which conscious mental        downward control has been followed by a spate of
+psychic forces are recognized to be the crowning          new semantic transformations in identity. thepry in
+achievement of some five hundred million years or which a new emphasis is put on the causality of con-
+more of evolution’ (SPERRY,1965). As such, it con-        sciousness and on emergent concepts under terms
+forms to the common textbook and lay definitions of such as organizational, contigurational, holistic, col-
+the terms mental and mentalism. The subjective quali-     lective, and the like (Groeus, 1973; WILSON, 1976;
+ties are recognized to be. real and causal in their own   PERRY, 1978; SMART,1978; WARD, 1978). In all cases
+right, as subjectively experienced, and to be of very the changes appear to bring these two initially con-
+different quality from the neural, molecular and other    trasting approaches into closer convergence. The
+material components of which they are built. Because argument from identity philosophy today seems
+mind and matter, the mental and the physical, have accordingly to he not so much that our emergent
+long been de&red as direct contrasts and given mean-      determinist view is incorrect, but rather that this is
+ing in terms of their opposites, this proposed recogni-   what identity theory actually should have been taken
+tion of the causal primacy of subjective mental quali-    to imply all along. We thus have the curious result
+ties would seem to logically exclude materialism.         that our latest mind-brain model is today being iden-
+    In particular, the present position represents a di- tified with materialism on the one side and with
+rect refutation of what materialism had long come to dualism on the other.
+stand for over many decades in science, philosophy            Finally, in defense of the mentalist rather than the
+and humanist thinking generally. Materialist beha-        materialist designation, I would only add the follow-
+viorism asserting the principle that ideas, motives and   ing: If there is anything in this world that has been
+feelings have no part in determining conduct and          commonly defined as a contrast to the material or
+therefore no part in explaining it (SKINNEK,1967) had     physical, it is the intangibles of conscious experience.
+gone, in the extreme, to denying even the existence of The psychological contents of mind from their first
+consciousness in any form and, at the least, denied as recognition in language, philosophy and science, have
+a founding central premise any causal efficacy of been treated by tradition as opposites of physical and
+conscious or mental forces in brain processing.           material in the mind-matter dichotomy. Accordingly,
+Materialist philosophy and the so-called psychophysi-     a position can hardly be called materialist if its very
+cal identity theory was being advanced during the essence and reason for being is a new antimaterialist
+1960s on the contention that ‘man is nothing but a stress on the existence and functional primacy of men-
+material object, having none but physical properties’.    tal phenomena and their role as high level causal
+And ‘Science can give a complete account of man in determinants in brain function, obeying laws that are
+purely physicochemical terms’ (ARMSTRONG,1968). different in kind from those of their constituent
+The ‘Unity of Science’ movement, closely aligned with material, neuronal and electrochemical processes. A
+identity theory, held that the laws of science can all be mentalist is defined in behavioral science as one who,
+reduced eventually, in principle, to the laws of a single in opposition to behaviorist doctrine contends that
+ basic discipline (CARNAP, 1938; FEIGL, 1953; OPPEN- mental entities and laws are involved in determining
+ HEIM8~ PUTNAM,1958). Physical science was seeking behavior and are needed to explain it. The concept of
+answers to all nature in terms of ‘the four fundamen-     consciousness as causal emergent has been presented
+ tal forces’ with hopes for a further unifying field from the outset as a view that restores to science the
+ theory to describe the essence of reality. Our view common-sense             impression (overruled during the
+arose in the mid-1960s in direct opposition to all of behaviorist-materialist        era) that we do indeed have
+                                                 Mind-brain   interaction                                           205
+
+
+mind and mental faculties over and above, and differ-          lated logical concepts and facts they stand for. When
+ent from, our brain physiology-just as we have ~ellu-          Popper and Eccles, representing modem philosophy
+lar properties that are over and above and different           and neuroscience, jointly proclaim arguments and
+from their molecular constituents.                             beliefs in dualism, the supernatural and in unem-
+    The distinction between the mentalist paradigm             bodied worlds of existence, the repercussions quickly
+and that of materialism or behaviorism, though im-             extend beyond professional borders to influence atti-
+portant within psychology, is less-critical overall than       tudes and faith-belief systems in society at large. The
+ that between monism and dualism. If common usage              result has been a major setback for those of us (for
+ in the long run should tend to favor the stretching of        example, BURHOE, 1975; PUGH, 1977; SPERRY, 1977)
+ the meaning of materialism and/or physicalism to              who see hope for the future and for the very aims and
+encompass mental phenomena in the causal, emer-                ideals that I think Sir John and Sir Karl strive for, to
+gent, embodied non-reductive form we now envisage,             lie in replacing old dualist perspectives, values and
+ there would be no great loss provided there was no            beliefs, dualist theologies and related mythological
+ resultant confusion in regard to the actual conceptual        worldview guidelines of the past with a new unifying
+changes themselves and their new implications and              holistic-monistic interpretation of reality as an ulti-
+ connotations. Of all the questions one can ask about          mate reference frame in the search for criteria of value
+ conscious experience, there is none for which the             and meaning.
+ answer has more profound and far-ranging implica-
+ tions than the question of whether or not conscious-
+ ness is causal. The alternative answers lead to basi-         Acknowledgements-This article was prepared initially for
+                                                               a volume on mind-brain interaction edited by D. L. WIL-
+ cally different paradigms for science, philosophy and
+                                                               SON, P. GLOTZBACH     and M. RINGLE that was to have
+ culture in general.
+                                                               included a response from KARLPOPPERand Jo+t~ ECCLE~
+    If the concern with terminology begins to seem             but later had to be cat&led. Aided by the F. P. Hixon
+ over done, it should be remembered that labels and            Fund of the California Institute of Technology. I thank
+ their connotations and the right hemisphere impres-           JERRELEW, Co~wm TREVARTHEN.          EVELYNTEXG and
+sions they carry are often more important in human             EDWARDREEDfor helpful comments on an earlier draft of
+decision-making than are the more precisely formu-             the manuscript.
+
+
+
+
+                                                     REFERENCES
+
+ARMSTRONG D. M. (1968) A Materialist Theory of the Mind. Routledge & Kegan Paul, London.
+BEL~FFJ. (1962) The Existence ofMind. The Citadel Press, New York.
+BINDRAD. (1970) The problem of subjective experience: Puxxkment on reading R. W. Sperry’s ‘A modified concept of
+  consciousness.’ PsychoI.. Rev. 77, 581-584.
+BLANSHARD B. & SKINNERB. F. (1967) The problem of consciousness-A            debate. Philosophy and Phenomenological
+  Research 27, 317-337. Reprinted in Theories in ContemporuryPsychobgy (1976) (eds MARX M. H. & GOODSON F. E.),
+  pp. 205-223. Macmillan, New York.
+BUNCEM. (1977) Emergence and the mind. Neuroscience 2.501-509.
+BURHOE  R. W. (1975) The human prospect and the ‘Lord of History’. Zygon 10,2%375.
+CARNAP R. (1938) Logical Foundations of the Unity of Science, International Encyclopedia of Unified Science, Vol. I, pp.
+  42-62. University of Chicago Press, Chicago.
+DEMBER  W. N. (1974) Motivation and the cognitive revolution. Am. Psycho/. 29, 161-168.
+ECCLE~ J. C. (1953) The Neurophysiological Basis of Mind: The Principles of Neurophysiology. Clarendon Press, Oxford.
+ECCLES J. C. (ed.) (1966) Brnin and Conscious Experience. Springer, New York.
+Ecctns J. C. (1968) The importance of brain research for the educational, cultural and scientific future of mankind.
+  Perspect. Biol. Med. 12.61-68.
+ECCLE~  J. C. (1973) Brain, speech and consciousness, Die Naturwissenschaften 60, 167-l 76.
+ECCLE~  J. C. (1979) The Human Mystery (Gifford Lectures, 1978). Springer, Berlin.
+FEIGLH. (1953) Unity of science and unitary science. In Reedings ia the Philosophy of Science (cds Feigl H. & Brodbeck
+  M.), pp. 382-384. Appleton-Century-Croft% New York.
+FEIGLH. (1967) The ‘Metit& and the ‘Physical’. University of Minnesota Press, Minneapolis.
+FREEMAN   J. D. (1979) Towards an anthropology both scientific and humanistic. Ca&rro Anthropology 1.4469.
+G~oeus G. Ci. (1973) Consciousness and brain--I. The identity thesis. Archs gen. Psychiat. 29, 153-160.
+GRAY J. A. (1971) The mind-brain identity theory as a scientific hypothesis. Philosoph. Quart. 21, 247-254.
+JOHNE. R. (1976) A model for consciousness. In Consciousness und Self Regulation (cds SCHWARR G. E. & SHAPIRO      D.).
+  Plenum Press, New York.
+KANXJ~~  J. R. (1978) Cognition as events and as psychic constructions. Psycho/. Rec. 28, 329-342.
+K~HLERW. (1961) The mind-body problem. In Dimensions ofMind (cd. HOOKS.), pp. 15-32. Collier Books, New York.
+MACKAYD. M. (1966) Conscious control of action. In Brain and Conscious Experience (ed. ECCLESJ. C.). Springer,
+  Heidelberg.
+MACKAYD. M. (1978) Selves and brains. Neuroscience 3.599606.
+206                                                  R. W. SPERRY
+
+MATSONF. W. (1971) H~anistic        theory: The third revolution in psychology. The onanist    March/April. Reprrnted in
+   Ps~~f~y~~       Our Times (1973) (eds ZI~~BARW P. & MASLACH C.). pp. 19-25. Scott Foresman, Glenview. III.
+MORGANC. LLOYD(1923) Emergent Evolution. Holt, New York.
+OPPENHEIMP. & PUTNAMH. (1958) Unity of science as a working hypothesis. In Minnesota Srr&s in rhe Philosophy of
+   Science: Concepts, Theories and rhe Mind-Body Problem (eds FEIGLH., SCRIVEN      M. & MAXWELLCL), Vol. 11. pp. 3-36.
+   University of Minnesota Press Minneapolis.
+PERRYJ. R. (1978) Defenses for the mind-brain identity theory: Causal differences. Behuu. Brain Sci. 3, 362.
+POPPER    K. (1962) C~jecr~es and R~ut~t~~s. Basic Books, New York.
+POPPER K. (1972) Objective Knowledge. Clarendon Press, Oxford, London.
+
+POPPERK. (1978) Natural selection and emergence of mind. Dialectica 32, 339-355.
+POPPERK. % ECCLESJ. C. (1977) The Self and Its Brain: An Argument fir Interactionism Springer International, Berlin,
+PUGH G. E. (1977) The Biological Origin ofHuman I/&es. Basic Books. New York.
+PYLYSHYNZ. W. (1973) What the mind’s eye tells the mind’s brain: A critique of mental imagery, Psych. Bull. Se, l-24.
+SKINNER8. F. (1971) Beyond Freedom und Dignity. A. A. Knopf, New York.
+SKINNER 8. F. (1974) About 3ehau~or~sm. A. A. Knopf. New York.
+SMARTJ. J. C. (1978) Cortical localization and the mind-brain identity theory. Behau. Brain Sci. 3, 365.
+SPERRYR. W. (1952) Neurology and the mind-brain problem. Am Sci. 40,291-312.
+SPERRY R. W. (1964) Problems outstanding in the evolution of brain function. James Arthur Lecture. American Museum
+   of Natural History, New York. Reprinted in The Encyclopaediu o/Ignorance (1977) (eds DUNCAN R. & WESTON-SYITH
+   M.) pp. 423-433.
+SPERRY R. W. (1965) Mind, brain and humanist values. In New Views of the Nature ofMan (cd. Purr J. R.). University of
+   Chicago Press, Chicago. Condensed in Buli. Atomic Scientists (1966) 22, 2-6.
+SPERRYR. W. (1966) Brain bisection and mechanisms of consciousness. In Bwin and Conscious Experience (cd. ECCLES
+  J. C.), pp. 298-313. Springer, New York.
+SPERRY R. W. (1%9a) Toward a theory of mind. Proc. natn. Ad.        Sci. U.S.A. 1. 230-231.
+SPERRYR. W. (1%9b) A modified concept of conxciousnesa. Psycho/. Rev. 76, 532-536.
+SPERRY R. W. (197Oe) Perception in the absence of the neocortical commieaurea. In Perceprion and Its Disorders, Vol.
+   XLVIII. pp. 123-138. Assoc. for Research in Nervous and Mental Disease.
+SPERRYR. W. (197Ob) An objective approach to subjective experience. Further exudation       of a hypothesis. Psychol. Rev.
+  77.585-590.
+SPERRY R. W. (1972) Science  and the problem of values. Perspect. Biol. Med. 16, 115-130. Reprinted in Zygon 9, 7-21
+  (1974).
+SPERRYR. W. (197Q) Mental phenomena as causal determinants in brain function. In Consciousness and the Eraln (eds
+  GLOBUS G., MAxwnu G. & SAVOONIK I.). Plenum Publishing Corp., New York. Reprinted in Process Studies 5,
+  247-256 (1976).
+Spennv R. W. (1976b) Changing conapts OFconaciouanesa and free will. Perspecr. Bid. Med. 2@,9-19.
+SPERRYR. W. (1976~) A unifying approach to mind and brain: tan year perspective. In Perspectives in Bruin Research (eds
+  CORNERM. A. & SWAM D. F.), Vol. 45. Elaevier Scientific, Amsterdam.
+SPERRY  R. W. (1977a) Bridging science and values: A unifying view of mind and brain. Am. Psychol. 32, 237-245.
+SPERRYR. W. (1977b) Forebrain commiaaurotomy and conscious awareness. J. Med. Philos. 2, 101-126.
+SPERRY R. W. (1978) Mentalist moniam: Consciousness as a causal emergent of brain proceaaes. J3ehue. Brain Sci. 3.
+  367-367.
+WARD M. F. (t978) The mind-brain issue u~impii~.      Behue. Brain Sci. 3, 368-369.
+WIL~N D. L. (1976) On the nature of consciousness and of physical reality. Perspect. Bioi. Med. 19, 568-581.
+
+
+
+
+                                             (Accepred 23 September 1979)
+

@@ -1,0 +1,134 @@
+# Matter
+
+**source:** pdf · **section:** books
+**file:** Matter
+---
+
+        18   My God, He Plays Dice!                                                                                                 Matter       19
+
+                                                                           Matter
+                                                                              James Clerk Maxwell and Ludwig Boltzmann were
+Chapter 3
+
+                                                                                                                                                  Chapter 3
+                                                                           atomists who accepted the idea that the apparently continuous
+                                                                           pressure of a gas on the walls of its container is caused by a
+                                                                           number of atomic collisions so vast that the individual discrete
+                                                                           bumps against the walls are simply not detectable.
+                                                                              Maxwell’s great contribution to the kinetic theory of gases was
+                                                                           to find the velocity (or energy) distribution of the gas particles.
+                                                                           From simple considerations of symmetry and the assumption that
+                                                                           motions in the y and z directions are not dependent on motions
+                                                                           in the x direction, Maxwell in 1860 showed that velocities are
+                                                                           distributed according to the same normal distribution as the “law
+                                                                           of errors” found in games of chance. Boltzmann in 1866 derived
+                                                                           Maxwell’s velocity distribution dynamically, putting it on a firmer
+                                                                           ground than Maxwell.
+
+                       atter
+                     M
+
+                                                                              Maxwell derived his velocity distribution law using math that
+                                                                           he found in a review of Adolph Quételet’s work on social
+                                                                           statistics, but he did not accept the conclusion of Quételet and
+
+                                                 This chapter on the web
+                                      informationphilosopher.com/matter
+        20         My God, He Plays Dice!                                                                                                                        Matter            21
+
+             Thomas Henry Buckle that the normal distribution seen in large                   Maxwell too was critical of Boltzmann’s 1872 dynamical result
+             numbers of random events implies that they are determined. 1                  based on Newton’s deterministic laws of motion. The kinetic theory
+               Maxwell’s criticism of his English colleague Buckle was clear.              of gases must be purely statistical, said Maxwell.
+Chapter 3
+
+                                                                                                                                                                                    Chapter 3
+                   We thus meet with a new kind of regularity — the regularity of             In 1877, Boltzmann followed Maxwell’s advice. He counted the
+                   averages — a regularity which when we are dealing with millions         number of ways W that N particles can be distributed among the
+                   of millions of individuals is so unvarying that we are almost in        available cells of “phase-space,” a product of ordinary coordinate
+                   danger of confounding it with absolute uniformity.                      space and “momentum space.”
+                   Laplace in his theory of Probability has given many examples of            Boltzmann showed that some distributions of particles are highly
+                   this kind of statistical regularity and has shown how this regularity   improbable, like all the balls in our probability machine landing in
+                   is consistent with the utmost irregularity among the individual         one of the side bins. In nature, he said, the tendency of transforma-
+                   instances which are enumerated in making up the results. In the
+                                                                                           tions is always to go from less probable to more probable states. 3
+                   hands of Mr Buckle facts of the same kind were brought forward
+                   as instances of the unalterable character of natural laws. But             There are simply many more ways to distribute particles ran-
+                   the stability of the averages of large numbers of variable events       domly among cells than to distribute them unevenly. Boltzmann
+                   must be carefully distinguished from that absolute uniformity of        counted each unique distribution or arrangement of particles as a
+                   sequence according to which we suppose that every individual            “microstate” of the system. Arguing from a principle of indifference,
+                   event is determined by its antecedents. 2                               he assumed that all microstates are equally probable, since we have
+                Six years after his derivation of the velocity distribution from           no reasons for any differences.
+             classical dynamics, Boltzmann found a mathematical expression                    Boltzmann then gathered together microstates that produce
+             he called H that appears to decrease as particle collisions occur.            similar macroscopic descriptions into “macrostates.” For example,
+             He identified it as the negative of the thermodynamic entropy that            having all the particles in a single cell in a corner of a container
+             always increases according to the second law of thermodynamics.               would be a macrostate with a single microstate, and thus minimum
+                In 1874, Boltzmann’s mentor Josef Loschmidt criticized his                 entropy. Boltzmann’s idea is that macrostates with few microstates
+             younger colleague’s attempt to derive from classical dynamics the             will evolve statistically to macrostates with large numbers of micro-
+             increasing entropy required by the second law of thermodynamics.              states. For example, taking the top off a bottle of perfume will allow
+             Loschmidt’s criticism was based on the simple idea that the laws of           the molecules to expand into the room and never return.
+             classical dynamics are time reversible. Consequently, if we just turn
+             the time around, the time evolution of the system should lead to
+             decreasing entropy.
+                Of course we cannot turn time around, but a classical dynami-
+             cal system will evolve in reverse if all the particles could have their
+             velocities exactly reversed. Apart from the practical impossibility
+             of doing this, Loschmidt had showed that systems could exist for
+             which the entropy should decrease instead of increasing. This is
+             called Loschmidt’s reversibility objection or “Loschmidt’s paradox.”
+                                                                                              Figure 3-3. Entropy increases when the number of possible microstates W increases.
+                It is also known as the problem of microscopic reversibility. How          The likelihood of all the molecules returning to the bottle is vanishingly small.
+             can the macroscopic entropy be irreversibly increasing when micro-
+             scopic collisions are time reversible?                                           3     Boltzmann, 2011, p.74
+               1       See chapter 2 for such arguments beginning with Immanuel Kant.
+               2       Draft Lecture on Molecules, 1874 (our italics)
+        22       My God, He Plays Dice!                                                                                                                 Matter       23
+
+                In the mid 1890’s, some British scientists suggested that there             then he is led to the further assumption that heat is a permanent
+             must be some low-level mechanism maintaining what Boltzmann                    motion of molecules. Then these must be held in their relative
+             had called “molecular chaos” or “molecular disorder.” Since                    positions by forces, whose origin one can imagine if he wishes.
+                                                                                            But all forces that act on the visible body but not equally on all the
+Chapter 3
+
+                                                                                                                                                                      Chapter 3
+             classical microscopic dynamical laws of physics are time reversible,
+                                                                                            molecules must produce motion of the molecules relative to each
+             collisions between material particles can not explain the macroscopic
+                                                                                            other, and because of the indestructibility of kinetic energy these
+             irreversibility seen in classical thermodynamics and in the statistical
+                                                                                            motions cannot stop but must continue indefinitely...
+             mechanical explanations developed by Boltzmann.
+                                                                                            We do not know the nature of the force that holds the molecules
+                Boltzmann himself did not take the need for microscopic                     of a solid body in their relative positions, whether it is action at a
+             irreversibility very seriously, because even his classical dynamical           distance or is transmitted through a medium, and we do not know
+             analysis showed that collisions quickly randomize a large number of            how it is affected by thermal motion. Since it resists compression
+             gas particles and his calculations indicated it would be astronomical          as much as it resists dilatation, we can obviously get a rather rough
+             times before any departure from randomness would return.                       picture by assuming that in a solid body each molecule has a rest
+                For Boltzmann, microscopic irreversibility is needed only to                position...
+             defeat the Loschmidt paradox. See chapter 12.                                  If each molecule vibrates around a fixed rest position, the body
+                                                                                            will have a fixed form; it is in the solid state of aggregation...
+             Boltzmann’s Philosophy
+                                                                                            However, when the thermal motion becomes more rapid, one
+                In his 1895 Lectures on Gas Theory, read by Albert Einstein as              gets to the point where a molecule can squeeze between its two
+             a student, Boltzmann raised questions about the continuum and its              neighbors... It will no longer then be pulled back to its old rest
+             representation by partial differential equations, which were to be             position... When this happens to many molecules, they will crawl
+             questions Einstein struggled with all his life. Boltzmann wrote,               among each other like earthworms, and the body is molten.
+                Whence comes the ancient view, that the body does not fill space            In any case, one will allow that when the motions of the molecules
+                continuously in the mathematical sense, but rather it consists              increase beyond a definite limit, individual molecules on the
+                of discrete molecules, unobservable because of their small                  surface of the body can be torn off and must fly out freely into
+                size. For this view there are philosophical reasons. An actual              space; the body evaporates.
+                continuum must consist of an infinite number of parts; but an               A sufficiently large enclosed space, in which only such freely
+                infinite number is undefinable. Furthermore, in assuming a                  moving molecules are found, provides a picture of a gas. If no
+                continuum one must take the partial differential equations for the          external forces act on the molecules, these move most of the time
+                properties themselves as initially given. However, it is desirable to       like bullets shot from guns in straight lines with constant velocity.
+                distinguish the partial differential equations, which can be sub-           Only when a molecule passes very near to another one, or to the
+                jected to empirical tests, from their mechanical foundations (as            wall of the vessel, does it deviate from its rectilinear path. The
+                Hertz emphasized in particular for the theory of electricity). Thus         pressure of the gas is interpreted as the action of these molecules
+                the mechanical foundations of the partial differential equations,           against the wall of the container. 4
+                when based on the coming and going of smaller particles, with
+                restricted average values, gain greatly in plausibility; and up to
+                now no other mechanical explanation of natural phenomena
+                except atomism has been successful...
+                Once one concedes that the appearance of a continuum is more
+                clearly understood by assuming the presence of a large number of
+                adjacent discrete particles, assumed to obey the laws of mechanics,     4       Boltzmann, 2011 §1, p.27
+

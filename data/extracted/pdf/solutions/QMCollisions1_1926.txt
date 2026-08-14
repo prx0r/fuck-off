@@ -1,0 +1,1427 @@
+“Quantenmechanik der Stoßvorgänge,” Zeit. Phys. 38 (1927), 803-827.
+
+
+
+
+               Quantum mechanics of collision processes (1).
+                                      By Max Born in Göttingen.
+
+                                      (Received on 21 July 1926)
+
+                                   Translated by D. H. Delphenich
+
+The Schrödinger form of quantum mechanics allows one to define the frequency of a state in a natural way
+with the help of the intensity of the associated eigen-vibration. This viewpoint leads to a theory of collision
+processes in which the transition probabilities are determined by the asymptotic behavior of aperiodic
+solutions.
+
+
+
+    Introduction. Collision processes not only yield the most convincing experimental
+proof of the basic assumptions of quantum theory, but also seem suitable for explaining
+the physical meaning of the formal laws of the so-called “quantum mechanics.” Indeed,
+as it seems, it always produces the correct term values of the stationary states and the
+correct amplitudes for the oscillations that are radiated by the transitions, but opinions are
+divided regarding the physical interpretation of the formulas. The matrix form of
+quantum mechanics (2) that was founded by Heisenberg and developed by him and the
+author of this article starts from the thought that an exact representation of processes in
+space and time is quite impossible and that one must then content oneself with presenting
+the relations between the observed quantities, which can only be interpreted as properties
+of the motions in the limiting classical cases. On the other hand, Schrödinger (3) seems
+to have ascribed a reality of the same kind that light waves possessed to the waves that he
+regards as the carriers of atomic processes by using the de Broglie procedure; he attempts
+“to construct wave packets that have relatively small dimensions in all directions,” and
+which can obviously represent the moving corpuscle directly.
+    Neither of these viewpoints seems satisfactory to me. Here, I would like to try to give
+a third interpretation and probe its utility in collision processes. I shall recall a remark
+that Einstein made about the behavior of the wave field and light quanta. He said that
+perhaps the waves only have to be wherever one needs to know the path of the
+corpuscular light quanta, and in that sense, he spoke of a “ghost field.” It determines the
+probability that a light quantum − viz., the carrier of energy and impulse – follows a
+certain path; however, the field itself is ascribed no energy and no impulse.
+
+
+
+  (1) A preliminary announcement appeared in Zeit. Phys. 37 (1926), 863.
+  (2) W. Heisenberg, Zeit. Phys. 33 (1925), 879; M. Born and P. Jordan, ibidem 34 (1925), 858; M. Born,
+W. Heisenberg, and P. Jordan, ibidem 35 (1926), 557. See also P. A. M. Dirac, Proc. Roy. Soc. 109
+(1925), 642; 110 (1926), 561.
+  (3) E. Schrödinger, Ann. d. Phys. 79 (1926), 361, 489, 734. Cf., the second paper, pp. 499.
+Furthermore, Naturw. 14 (1926), 664.
+                               Born – Quantum mechanics of collision processes.                             2
+
+
+     One would do better to postpone these thoughts, when coupled directly to quantum
+mechanics, until the place of the electromagnetic field in the formalism has been
+established. However, from the complete analogy between light quanta and electrons,
+one might consider formulating the laws of electron motion in a similar manner. This is
+closely related to regarding the de Broglie-Schrödinger waves as “ghost fields,” or better
+yet, “guiding fields.”
+     I would then like to pursue the following idea heuristically: The guiding field, which
+is represented by a scalar function ψ of the coordinates of all particles that are involved
+and time, propagates according to Schrödinger’s differential equation. However, impulse
+and energy will be carried along as when corpuscles (i.e., electrons) are actually flying
+around. The paths of these corpuscles are determined only to the extent that they are
+constrained by the law of energy and impulse; moreover, only a probability that a certain
+path will be followed will be determined by the function ψ. One can perhaps summarize
+this, somewhat paradoxically, as: The motion of the particle follows the laws of
+probability, but the probability itself propagates in accord with causal laws (1).
+     If one surveys the three levels in the development of quantum theory then one will
+see that the lowest one – viz., that of periodic processes – is entirely unsuitable for testing
+the utility of such a conception. The second level − namely, the level of aperiodic,
+stationary processes − achieves somewhat more; we would like to concern ourselves with
+it in the present paper. However, the third level – viz., that of non-stationary evolution –
+can actually be decisive; there, one must show whether the interference of damped
+“probability waves” suffices to explain the phenomena that apparently point to a coupling
+that does not relate to space-time.
+     Making this concept precise is possible only on the basis of some further
+mathematical development (2); therefore, we shall turn to that directly, so that we can
+then return to the hypothesis itself later on.
+
+
+    § 1. Definition of the weights and frequencies for periodic systems. We begin
+with an entirely formal consideration of the discrete, stationary states of a non-degenerate
+system. They can be characterized by Schrödinger’s differential equation:
+
+                                          [H – W, ψ] = 0.                                                 (1)
+
+Let the eigenfunctions be normalized to 1 (3):
+
+                                 ∫ ψ (q)ψ (q) dq = δmn .
+                                             ∗
+                                     n       m                                                            (2)
+
+Any arbitrary function ψ(q) can be developed in eigenfunctions:
+
+
+   (1) That means that the knowledge of the state at all points at a moment will establish the distribution of
+states at all later times.
+   (2) N. Wiener of Cambridge, Mass. has graciously helped me with the mathematical details of this
+paper; I would like to express my thanks to him for that and acknowledge that I would not have reached my
+goal without him.
+   (3) For the sake of simplicity, I shall set the density function equal to 1 here.
+                          Born – Quantum mechanics of collision processes.                 3
+
+
+                                    ψ(q) = ∑ cn ψ n (q ) .                               (3)
+                                             n
+
+
+
+Up to now, all of the attention has been focused upon the eigenvibrations ψn and the
+eigenvalues Wn . The picture that we suggested in the introduction is closely related to
+the idea of connecting the superposition of functions that is represented in (3) with the
+probability that the state will appear with a certain frequency in a cloud of identical,
+uncoupled atoms.
+    The completeness relation:
+                                   ∫ |ψ (q) | dq = ∑ | cn |
+                                             2             2
+                                                                                      (4)
+                                                       n
+
+
+leads to the idea that this integral can be regarded as the number of atoms. It then has the
+value 1 for the appearance of a single, normalized eigenvibration (or: the a priori weight
+of the state is 1), | cn |2 means the frequency of the state n, and the total numbers can be
+combined additively from these components.
+    In order to justify this interpretation, we shall consider, say, the motion of a massive
+point in three-dimensional space under the action of the potential energy U(x, y, z); the
+differential equation (1) will then read:
+
+                                           8π 2 µ
+                                    ∆ψ +          (W – U) ψ = 0.                         (5)
+                                            h2
+
+If one sets W, ψ in this equal to an eigenvalue Wn and an eigenfunction ψn, resp.,
+multiplies the equation by ψ n∗ , and integrates over all space (dS = dx dy dz) then one will
+obtain:
+                            ∗           8π 2 µ                   
+                       ∫∫∫ 
+                           ψ m  ∆ ψ n +    2
+                                                (Wn − U )ψ n ψ m∗  dS = 0.
+                                          h                       
+
+From Green’s theorem, and recalling the orthogonality conditions (2), that will give:
+
+                                  h2                                     
+                    δmn Wn = ∫∫∫  2 (grad ψ n ⋅ grad ψ m∗ ) + U ψ n ψ m∗  dS .         (6)
+                                  8π µ                                   
+
+Each energy level can then be regarded as the spatial integral of the energy density of the
+eigenvibrations.
+    If one now defines the corresponding integral for any function:
+
+                                     h2                           
+                            W = ∫∫∫  2 | grad ψ n |2 + U | ψ n |2  dS                  (7)
+                                     8π µ                         
+
+then if one substitutes the development (3), one will get the expression for this:
+                          Born – Quantum mechanics of collision processes.                4
+
+
+                                     W = ∑ | cn |2 Wn .                                  (8)
+                                            n
+
+
+According to our interpretation of the | cn |2, the right-hand side is the total energy of a
+system of atoms; this mean value can then be represented as the spatial integral of the
+energy density of the function ψ.
+    However, nothing will point to our Ansatz in favor of the others as long as we remain
+within the scope of periodic processes.
+
+
+    § 2. Aperiodic systems. We now go on to the aperiodic processes and, for the sake
+of simplicity, we shall first consider the case of uniform, rectilinear motion along the x-
+axis. In that case, the differential equation reads:
+
+                             d 2ψ                             8π 2 µ
+                                  + k2 ψ = 0,          k2 =          W;                  (1)
+                             dx 2                              h2
+
+it has all positive values W for its eigenvalues and the eigenfunctions:
+
+                                     ψ = c e± i k x.
+
+In order to be able to define the weights and frequencies, one must, above all, normalize
+the eigenfunctions. The integral formula that is analogous to (2) breaks down (i.e., the
+integral is divergent); that is why one employs the “mean value” instead of it:
+
+                          1 +a                              c 2 + a ikx − ikx
+                                   | ψ (k , x ) | dx = lim
+                    a →∞ 2 a ∫ − a                     a →∞ 2 a ∫ − a
+                                                 2
+                    lim                                               e e dx = 1;        (2)
+
+
+it follows from this that c = 1, and one has the normalized eigenfunctions:
+
+                                     ψ(k, x) = e± i k x.                                 (3)
+
+    Any function of x can be composed of these. In order to do that, one must choose the
+unit for the k-scale – i.e., one must establish which segments shall have the weight 1. For
+that, one considers the free motion to be a limiting case of a periodic one, namely, the
+eigenvibration of a finite piece of the x-axis. One then knows that the number per unit
+                                                   ∆k      1
+length and per interval (k, k + dk) is equal to        = ∆   , where λ is the wave length.
+                                                   2π      λ
+One will then set:
+                               +∞                k      +∞
+                     ψ(x) = ∫ c(k )ψ (k , x) d       = ∫ c(k ) eikx dk ,                 (4)
+                               −∞               2π      −∞
+
+with
+                                     c(− k) = c* (k)                                     (5)
+                                        Born – Quantum mechanics of collision processes.               5
+
+
+                                                                                     1
+and expect that | c(k) |2 will then be the measure of the frequency for the interval    dk.
+                                                                                    2π
+    For a mixture of atoms for which the eigenfunctions appear in the distribution that is
+given by c(k), let the number that is analogous to § 1, (4) be represented by the integral:
+
+                              +∞                                     +∞          +∞              2
+                                                           1
+                          ∫        |ψ ( x ) | dx =
+                                                        (2π )2 ∫ −∞
+                                               2
+                                                                          dx ∫             ikx
+                                                                                      c (k ) e dk .   (6)
+                              −∞                                                 −∞
+
+
+
+If we take the case in which only the small interval k1 ≤ k ≤ k2 is occupied then:
+
+                                   +∞                          k2                 c ik2 x ik1 x
+                              ∫   −∞
+                                        c(k ) eikx dk = c ∫
+                                                               k1
+                                                                    eikx dk =
+                                                                                  ix
+                                                                                     (e − e ) ,
+
+
+in which c is a mean value. One will then have:
+
+        +∞                         | c |2 +∞ dx ik2 x ik1x − ik2 x −ik1x
+             |ψ ( x ) |2 dx =
+    ∫                              4π 2 ∫ −∞ x 2
+                                                 (e − e )(e       −e )
+        −∞
+
+
+
+                                   | c |2 +∞ dx 2 k 2 − k1    1
+                           =              4∫        sin    =    | c |2 (k2 – k1).
+                                   4π   2    −∞ x 2
+                                                        2    2π
+
+Now, according to de Broglie, the impulse of the translatory motion that belongs to the
+eigenfunction (8) is equal to:
+                                     h     h
+                                 p=    =     k.                                     (7)
+                                    λ     2π
+
+It is, perhaps, not superfluous to remark that one can also formulate this as a “matrix”;
+one must then define the matrices in the continuous spectrum here, not by integrals, but
+by mean values:
+                                 h        1 +a ∗               ∂ψ (k ′, x)
+                                                   ψ
+                                2π i a →∞ 2a ∫ − a
+                     p(k, k′) =      lim             ( k , x )             dx
+                                                                  ∂x
+
+                                                h        1 + a −ikx
+                                           =        lim     ∫     e ik ′ eik ′x dx .
+                                               2π i a →∞ 2a   − a
+
+
+
+                                                   h
+                                                     k for k = k ′,
+                          p(k, k′) =              2π                                                 (8)
+                                                  0    " k ≠ k ′.
+
+                                                        2π
+If one now replaces ∆k = k2 – k1 with                      ∆p then one will finally have:
+                                                         h
+                              Born – Quantum mechanics of collision processes.                           6
+
+
+                                             +∞                             ∆p
+                                         ∫        |ψ ( x ) |2 dx = | c |2      .                       (9)
+                                             −∞                              h
+
+One then has the result that a cell of length ∆x = 1 and impulse extension ∆p = h will
+have weight 1, in agreement with the Ansatz of Sackur and Tetrode (1), which has been
+confirmed many times by experiments, and that | c(k) |2 is the frequency for a motion with
+                   h
+the impulse p =      k.
+                  2π
+    We now go onto accelerated motion. Here, one can naturally define a certain
+distribution of processes in an analogous way. However, that is not a rational question to
+pose for collision processes. For those processes, any motion will have a rectilinear
+asymptote before and after the collision. The particle is then found to be in a practically
+free state for a very long time (in comparison to the actual duration of the collision)
+before and after the collision. In agreement with the experimental statement of the
+problem, one thus comes to the following viewpoint: Let the distribution function | c(k) |2
+for the asymptotic motion be known before the collision; can one calculate the
+distribution function after the collision from it?
+    Naturally, we are speaking only of a stationary particle current here. Mathematically,
+the problem then comes down to the following one: The stationary vibration field ψ must
+be distributed into ingoing and outgoing waves; they are asymptotically plane waves.
+One then represents both of them by means of a Fourier integral of the form (4) and
+chooses the coefficient function c(k) for the ingoing waves arbitrarily; it shall then shown
+that the c(k) is determined completely for the outgoing waves. It yields the distribution
+into which a prescribed particle mixture will be converted after the collision.
+    In order to see the relationship clearly, we first treat the one-dimensional case.
+
+
+   § 3. The asymptotic behavior of the eigenfunctions in a continuous spectrum
+with one degree of freedom. Schrödinger’s differential equation reads:
+
+                                d 2ψ 8π 2 µ
+                                     + 2 (W – U(x)) ψ = 0,                                             (1)
+                                dx 2   h
+
+in which U(x) means the potential energy. To abbreviate, we set:
+
+                       8π 2 µ                         8π 2 µ
+                              W = k2,                        U(x) = V(x);                              (2)
+                        h2                             h2
+we will then have:
+                                d 2ψ
+                                   2
+                                     + k2ψ = V ψ.                                                      (3)
+                                dx
+
+
+
+   (1) A. Sackur, Ann. d. Phys. 36 (1911), 958; 40 (1913), 67; H. Tetrode, Phys. Zeit. 14 (1913), 212; Ann.
+d. Phys. 38 (1912), 434.
+                               Born – Quantum mechanics of collision processes.                7
+
+
+We examine the asymptotic behavior of the solution at infinity. In order to get a simple
+relationship, we assume that V(x) vanishes faster than x−2 at infinity; i.e.:
+
+                                                          K
+                                         | V(x) | <          ,                                (4)
+                                                          x2
+
+in which K is a positive number (1).
+    We now determine ψ(x) by a process of iteration; let:
+
+                                         u0(x) = eikx,                                        (5)
+
+and let u1(x), u2(x), … be the solutions of the successive approximations:
+
+                                        d 2un
+                                              + k2 un = V un−1 ,
+                                        dx 2
+which vanishes as x → + ∞.
+   One then has:
+                                      1 ∞
+                                           un −1 (ξ ) V (ξ ) sin k (ξ − x ) d ξ ,
+                                      k ∫x
+                            un(x) =
+
+
+as one can verify directly. One has:
+
+                                              1 ∞
+                                                   | un −1 (ξ ) | ⋅ | V (ξ ) | dξ .
+                                              k ∫x
+                                | un(x) | ≤
+We now show that:
+                                                                       n
+                                                    1K
+                                         | un(x) | ≤   .
+                                                    n !  kx 
+
+This is correct for n = 0, since it follows from (5) that | u0(x) | ≤ 1. We now assume that
+is it correct for n – 1:
+                                                                              n −1
+                                                     1 K 
+                                    | un−1(ξ) | ≤                                  ;
+                                                  (n − 1)!  kξ 
+it then follows that:
+                                                   n −1                                  n
+                               1 1 K                           ∞               1K
+                   | un(x) | ≤                          ⋅K∫ ξ      − n +1
+                                                                           ξ dξ =   ,
+                                                                              2
+
+                               k (n − 1)!  k                   x               n !  kx 
+as was asserted.
+    As a result, the series:
+                                                      ∞
+                                         ψ(x) = ∑ un ( x )                                    (6)
+                                                     n =0
+
+
+
+
+  (1) The cases of a pure Coulomb field and a dipole field are excluded by this assumption.
+                          Born – Quantum mechanics of collision processes.                    8
+
+
+converges uniformly for every finite interval; it can then be differentiated term-wise
+arbitrarily often, and is then, as is easy to see, the desired solution to our differential
+equation.
+    However, since all u1, u2, … vanish as x → + ∞, the function ψ will be asymptotic to
+u0 = eikx at positive infinity.
+    In precisely the same way, one shows that there is a solution that is asymptotic to e−ikx
+as x → + ∞. Since the general solution has only two constants, it must asymptotically
+have the form:
+                                    ψ+(x) = a eikx + b e−ikx                             (7)
+
+as x → + ∞. Here, the degeneracy of the system makes its appearance; every energy
+value W is associated with two values k, − k and two linearly-independent solutions.
+    In an entirely similar way, it follows that the general solution must have the same
+form as x → − ∞:
+                                   ψ −(x) = A eikx + B e−ikx.                        (8)
+
+In this, the amplitudes A, B are well-defined functions of a, b.
+    We now decompose the solution into incoming and outgoing waves; for that, we add
+                                   2π 
+the time factor eikυt  kυ = 2π v =    W  and set:
+                                    h   
+
+                            a = ce eiϕet ,           A = Ca eiΦ a t ,       
+                                       − iϕa t                  − iΦ et                    (9)
+                            b = ca e             ,   B = Ce e             . 
+One will then have:
+                          ψ + ( x ) = ceeik ( x +υt +ϕ ) + ca e −ik ( x −υt +ϕ ) ,
+                                                       e                        a
+                                                                                       
+                                          ik ( x +υ t +Φ )        − ik ( x −υ t +Φ )      (10)
+                          ψ ( x ) = Ca e
+                            −
+                                                           + Ce e
+                                                           a                        e
+                                                                                     . 
+
+The real parts of the terms that are denoted with the index e represent the incoming
+waves, while the terms that are denoted with an a represent the outgoing waves.
+    We are interested in the case in which only one wave is incoming at x = + ∞. One
+will then have Ce = 0, and one can arbitrarily set ϕe = 0, moreover. One will then have:
+
+                          ψ + ( x ) = ce eik ( x +υt ) + ca e− ik ( x −υt +ϕ ) , 
+                                                                           a
+
+                                                                                          (11)
+                          ψ − ( x ) = Ca eik ( x +υt +Φ ) .a
+                                                                                 
+
+We have shown that ψ −(x) is determined in terms of ψ +(x) by integration; i.e., A, B are
+well-defined functions of a, b. In our case Ce = 0, so we will have B = 0, and one thus
+has two equations of the form:
+                                 A = A(a, b), 
+                                                                                    (12)
+                                  0 = B(a, b). 
+                                  Born – Quantum mechanics of collision processes.                 9
+
+
+One can express b in terms of a using the second one, and one will then get A expressed
+in terms of a from the first one. However, that means that the constants of the reflected
+wave and the constants of the transmitted wave can be calculated from the amplitude of
+the incoming wave.
+    One can now show that a relation exists between the intensities of the three waves.
+One obtains it most simply with the help of the energy theorem.
+
+
+    § 4. The theorem of the conservation of energy. In order to derive this theorem,
+we return to the form of Schrödinger’s differential equation for which the assumption of
+vibrations that are purely periodic in time is still not made, so one will have a wave
+equation of the form:
+                                   ∂ 2ψ 1 ∂ 2ψ
+                                       −          = 0.                               (1)
+                                   ∂x 2 υ 2 ∂t 2
+
+In this, υ is the wave velocity. One comes to Schrödinger’s equation when one, with de
+Broglie, sets (1):
+
+                                  µ                                       h
+                 hv = W =             u2 + U ,          υ = λv,               = p = µ u;
+                                  2                                       λ
+
+one will then have:
+                                                           µ
+                              1     µ 2u 2
+                                    h2        u 2 ⋅ 2µ
+                          1
+                          = 2 2 2 =        = 2 2 ,
+                       υ2  λ hv     W2        W
+
+                       1          2µ
+                              =      (W – U).                                                (2)
+                      υ   2
+                                  W2
+
+                                                                                           2π i
+If one now seeks solutions whose time dependency is given by the factor e2πiυt = e h
+                                                                                                  Wt
+
+
+then one will get:
+                             d 2ψ 8π 2 µ
+                                  + 2 (W – U) ψ = 0.
+                             dx 2    h
+
+However, we now fix our attention on the general formula (1) and multiply the equation
+by ∂ψ / ∂t.
+    One now has:
+                    ∂ 2ψ ∂ψ      ∂  ∂ψ ∂ψ  ∂ψ ∂ 2ψ
+                               =           −
+                    ∂x 2 ∂t      ∂x  ∂x ∂t  ∂x ∂x ∂t
+
+
+
+
+ (1) We neglect relativity and calculate with classical mechanics.
+                          Born – Quantum mechanics of collision processes.                 10
+
+
+
+                                       ∂  ∂ψ ∂ψ  ∂ 1  ∂ψ 
+                                                                   2
+
+                                   =             −          .
+                                       ∂x  ∂x ∂t  ∂t 2  ∂x 
+
+If υ depends upon only v then we will get:
+
+                     ∂  ∂ψ ∂ψ  ∂  1  ∂ψ       1  ∂ψ  
+                                                2           2
+
+                               −            +          = 0.                       (3)
+                     ∂x  ∂x ∂t  ∂t  2  ∂x  2υ 2  ∂t  
+
+If one integrates over all space then one will get:
+
+                                 +∞
+                      ∂ψ ∂ψ         ∂ +∞ 1  ∂ψ         1  ∂ψ  
+                                                         2           2
+
+
+                                      ∂t ∫ −∞ 2  ∂x  υ 2  ∂t  
+                      ∂x ∂t     −                   +         dx = 0.           (4)
+                                 −∞
+
+
+
+As was pointed out in § 1, the space integral in this is to be interpreted as the total energy
+that is present in space. However, its expression does not interest us, since for us it will
+enter into the in-streaming and out-streaming energy, which will be represented by
+limiting terms. The time mean of the two terms vanishes for a temporally periodic
+process, and, with the use of the notations that were introduced in § 3, (7), (8), one will
+get:
+
+                                       ∂ψ − ∂ψ −   ∂ψ + ∂ψ +
+                                           −     =     −     .                            (5)
+                                        ∂x   ∂t     ∂x   ∂t
+
+This equation states that the in-streaming energy is equal to the out-streaming energy.
+When we substitute the real part of the expression § 3, (10) in this, we will get:
+
+                                       Ca2 − Ce2 = ca2 − ce2 ,                            (6)
+
+or, in the case Ce = 0 [as in equation (11), § 3]:
+
+                                       ce2 = ca2 + Ca2 .                                  (7)
+
+However, that means that for any elementary wave of given k, the incoming intensity will
+be split into the intensities of the two waves that scatter to the right and left, or, in the
+language of the corpuscular theory: If a particle with a given energy enters the atom then
+it will either be reflected or it will continue on. The sum of the probabilities in these two
+outcomes is 1.
+    The theorem of the conservation of energy then has the conservation of particle
+number as a consequence. The basis for that lies in the degeneracy of the system; any
+energy value belongs to several motions, and they will be related to each other.
+                            Born – Quantum mechanics of collision processes.             11
+
+
+   § 5. Generalization to three degrees of freedom. The inertial motion. We now
+consider a particle that moves in space under the action of the potential energy U(x, y, z).
+One then has the differential equation:
+
+                                             1 ∂ 2ψ
+                                        ∆ψ − 2 2 = 0,                                    (1)
+                                            υ ∂t
+
+which is analogous to (1), in which υ is once more given in the approximation of
+classical mechanics by (2), § 4. Here, the conservation law reads:
+
+                          ∂ψ         ∂ 1                  1  ∂ψ  
+                                                                         2
+
+                     div     grad ψ  −      (grad ψ ) 2
+                                                           +                = 0,        (2)
+                          ∂t         ∂t 2                υ 2  ∂t  
+
+or, when integrated over space:
+
+                        ∂ψ ∂ψ       ∂ 1                 1  ∂ψ  
+                                                                     2
+
+                     ∫ ∞ ∂t ∂t dσ − ∂t ∫ 2 (grad ψ ) + υ 2  ∂t   dS = 0,
+                                                      2
+                                                                                         (3)
+                                                                      
+
+in which dS = dx dy dz, and dσ is the element of an infinitely-distant, closed surface with
+exterior normal v. For temporally periodic processes, it then follows from this that the
+temporal mean will be:
+                                      ∂ψ ∂ψ
+                                   ∫ ∞ ∂t ∂t dσ = 0.                                    (4)
+
+
+For this case, the differential equation reads:
+
+                                        ∆ψ + (k2 – V) ψ = 0,                             (5)
+where one has set:
+                            8π 2 µ                                8π 2 µ
+                     k2 =          W,             V(x, y, z) =           U(x, y, z).     (6)
+                             h2                                    h2
+
+    For the inertial motion (viz., V = 0), one has the differential equation:
+
+                                        ∆ψ + k2 ψ = 0                                    (7)
+and the solution:
+                                        ψ = ei(k r) ;                                    (8)
+
+here, r is the vector x, y, z, while the vector k satisfies the equation:
+
+                              | k |2 = k x2 + k y2 + k z2 = k2,                          (9)
+
+and it is equal to the impulse vector:
+                             Born – Quantum mechanics of collision processes.                12
+
+
+                                                      h
+                                                p=      k,                                 (10)
+                                                     2π
+up to a factor.
+                                                                          h
+    The de Broglie wave length will be given by h / λ = p = | p | =          k. The solution (8)
+                                                                         2π
+should be regarded as normalized in the sense of taking the mean [see (2), § 2]. We
+briefly denote a function of x, y, t by f(r), a function of kx, ky, kz by f(k), etc. Let dS = dx
+dy dz.
+    The most general solution of (7) is:
+
+           ψ(r) = u0(r) = ∫ c ( s)eik ( rs ) dω ,                 ds = c*(s),              (11)
+
+in which s is a unit vector and dω is the element of solid angle. It represents inertial
+motion in all possible directions with the same energy. From our basic principles, | c(s) |2
+is the number of particles that flow in the direction s per unit solid angle.
+     We now derive an asymptotic representation for u0 that shows clearly how u0 behaves
+at infinity. Although one can obtain the result very simply, here, we would like to obtain
+it by a general method that can be carried over to the cases that will be developed later
+on. We think of a new rectangular coordinate system X, Y, Z that has been introduced
+with the help of the orthogonal transformation:
+
+                     x = a11 X + a12Y + a13 Z ,      X = a11 x + a21 y + a31 z ,   
+                                                                                   
+                     y = a21 X + a22Y + a23 Z ,      Y = a12 x + a22 y + a32 z ,          (12)
+                      z = a31 X + a32Y + a33 Z ,     Z = a13 x + a23 y + a33 z.    
+                                                                                   
+
+At equal times, we introduce the new unit vector S, in place of the unit vector s, with the
+help of the same orthogonal transformation; the solid angle element dω then goes over
+into a new dΩ , and one will have:
+
+                                       r s = R S.                                          (13)
+
+We now choose the new coordinate system especially such that:
+
+                             X = 0,             Y = 0;                                     (14)
+one will then have:
+                             Z=r=          x2 + y2 + z 2 .                                 (15)
+Our integral will be:
+                           u0(x, y, z) = u0(a13 Z, a23 Z, a33 Z)
+                                       = ∫ d Ω c (a11Sx + a12S y + a13Sz ,⋯) eikZ Sz .
+
+Moreover, we introduce polar coordinates for S:
+                                Born – Quantum mechanics of collision processes.                           13
+
+
+
+
+            Sx = sin ϑ cos ϕ,             Sy = sin ϑ sin ϕ,        Sz = cosϑ                             (16)
+
+and set cos ϑ = µ; we will then have:
+
+                      2π        +1
+             u0 = ∫        dϕ ∫ d µ c  1 − µ 2 (a11 cos ϕ + a12 sin ϕ ) + µ a13 ,⋯  eikZ µ .
+                      0        −1                                                  
+
+It follows from this by partial integration that:
+
+                        1 2π
+                 u0 =     ∫   dϕ c (a13 , a23 , a33 ) eikZ − c (− a13 , − a23 , − a33 ) e − ikZ 
+                      ikZ   0
+
+                       1 2π       d 
+                    −     ∫   dϕ      c 1 − µ 2 (a11 cos ϕ + a12 sin ϕ ) + µ a13 ,⋯  eikZ µ d µ .
+                      ikZ 0      dµ                                                                 
+
+Repeated application of the same process shows that the second term vanishes like Z−2. If
+                                             x   x
+one now introduces Z = r, a13 =                =   , … then one will get the asymptotic
+                                            Z    r
+representation:
+                                     2π   x y z  ikr    x y z  −ikr 
+                  u0∞ ( x, y , z ) =     c  , ,  e − c  − , − , −  e  ,       (17)
+                                     ikr   r r r        r r r        
+
+or, in real notation, with c = | c | eikγ:
+                                                                    x y z 
+                                                      sin k  r + γ  , ,  
+                                         4π  x y z                r r r 
+                      u0∞ ( x, y , z ) =    c , ,                            .                         (18)
+                                          k r r r                r
+
+That means that u0 behaves asymptotically like a spherical wave with an amplitude and
+phase that depends upon the direction. The intensity, as a function of the direction s = r /
+r, determines the flux of the particles that flow through the solid angle element d ω with
+the axis s:
+                                         Φ0 dω = | c(s) |2 dω.                                           (19)
+
+
+    § 6. Elastic collisions. We now go on to the integration of the general equation (5),
+§ 5:
+                                 ∆ψ + (k2 – V) ψ = 0;                                 (1)
+
+physically, it represents the case in which an electron collides with an atom that cannot be
+excited by that.
+                               Born – Quantum mechanics of collision processes.                                               14
+
+
+    As in § 3, we determine ψ by a process of iteration in which the function u0 that we
+just introduced in (11), § 5 will serve as the initial function. We then calculate u1, u2, …
+in succession from the approximation equations:
+
+                                          ∆un + k2 un = V un−1 = Fn−1 .                                                       (2)
+
+Green’s theorem yields the solution that corresponds to the outgoing waves with the time
+factor eikvt in the form of:
+                                             1             e −ik |r − r′|
+                                                 Fn−1 (r′)                dS ′ ,
+                                            4π ∫
+                                  un(r) = −                                           (3)
+                                                            r − r′
+
+in which r′ means the vector with the components x′, y′, z′, and dS′ = dx′ dy′ dz′. The
+convergence of the process can be proved on the basis of the assumption that V goes to
+zero like r−2 (1); however, we shall not go into that, but assume that the series:
+
+                                                           ∞
+                                              ψ(r) = ∑ un (r )
+                                                          n= 0
+represents the solution.
+    We investigate the asymptotic behavior of un(r). We write, more thoroughly:
+
+                                                                          ′ 2         ′ 2        ′ 2
+                          1                                e − ik ( x − x ) + ( y − y ) + ( z − z )
+                              Fn −1 ( x′, y′, z ′)                                                            dx′ dy′ dz′ .
+                         4π ∫
+        un (x, y, z) = −
+                                                        ( x − x′)2 + ( y − y′)2 + ( z − z ′)2
+
+We now once more introduce the rotation of the coordinate system that was given in § 5
+and subject the integration variables to that rotation. One will then have:
+
+                                  un (x, y, z) = un (a13 Z, a23 Z, a33 Z)
+
+                                                                           ′2    ′2    ′2
+                           1                                     e− ik X + Y + Z
+                               Fn′−1 ( X ′, Y ′, Z ′)                                                  dX ′ dY ′ dZ ′ ;
+                          4π ∫
+                       =−                                                                                                     (4)
+                                                           X ′2 + Y ′2 + ( Z − Z ′) 2
+in this, one has:
+                        Fn′−1 ( X ′, Y ′, Z ′) = Fn−1 (a11 X′ + a11 Y′ + a13 Z′, …).                                          (5)
+
+We now introduce polar coordinates:
+
+                   X′ = ρ sin ϑ cos ϕ,         Y′ = ρ sin ϑ sin ϕ,                      Z′ = ρ cos ϑ .
+
+One will then have:
+
+
+   (1) The case of ions is excluded from this; for them, one would have to take a hyperbolic path of the
+electron as the starting estimate in the approximation process, instead of a rectilinear motion. On this, see a
+treatise of J. R. Oppenheimer that will appear soon in Proc. Cambridge Phil. Soc., 26 July 1926.
+                                Born – Quantum mechanics of collision processes.                                            15
+
+
+
+                                                                                        e− ik ρ + Z − 2 ρ Z cosϑ
+                                                                                                2   2
+               1 2π        ∞          π
+       un = −
+              4π ∫ 0
+                       ϕ ∫0  ρ     ρ ∫0 sin ϑ dϑ Fn′−1 ( ρ sin ϑ ,⋯)
+                               2
+                     d           d                                                                                      .
+                                                                                       ρ 2 + Z 2 − 2 ρ Z cos ϑ
+
+Finally, we introduce the integration variable µ in place of ϑ by way of:
+
+                                           ρ 2 + Z 2 − 2 ρ Z cos ϑ = Z µ,
+                                                                               Z
+                                                             sin ϑ dϑ =            µ dµ ;
+                                                                               ρ
+the limits of integration will then become:
+
+                                             ρ                                          ρ
+                          ϑ=0;µ=                 −1 ;                 ϑ=π;µ=                + 1,
+                                             Z                                          Z
+
+and cos ϑ, sin ϑ will be certain functions c(ρ, Z, µ), s(ρ, Z, µ) that will assume the values
+c = 1, s = 0 at the lower limits and the values c = − 1, s = 0 at the upper ones. One will
+then obtain:
+                                           ρ
+                    1 2π         ∞           +1
+           un = −     ∫   d ϕ ∫    ρ d ρ ∫ Z
+                                           ρ    Fn′−1 ( ρ s cos ϑ , ρ s sin ϑ , ρ c) e −ik µ Z d µ .
+                   4π   0       0
+                                           Z
+                                             −1
+
+
+
+As in § 5, one will obtain the asymptotic representation from this by partial integration:
+
+                 1 2π         ∞       1
+        un∞ =      ∫   d ϕ ∫    ρ dρ      Fn′−1 (0, 0, ρ ) e −ik ( Z + ρ ) − Fn′−1 (0, 0, − ρ ) e −ik |Z − ρ |  .
+                4π   0       0       ikZ
+
+Here, from (5), one has:
+
+                                                         ρx ρ y ρz 
+    Fn′−1 (0, 0, ρ ) = Fn−1(a13 ρ, a23 ρ, a33 ρ) = Fn−1    ,   ,   ,
+                                                         r r r 
+
+                                                                 ρx ρ y ρz 
+    Fn′−1 (0, 0, − ρ ) = Fn−1(− a13 ρ, − a23 ρ, − a33 ρ) = Fn−1  − ,−   ,−   .
+                                                                 r    r    r 
+
+One will then have:
+                                  e −ikr ∞               ρ x ρ y ρ z  −ik ρ
+                          u =  ∞
+                               n        ∫    ρ d ρ Fn−1  ,         ,    e
+                                  2ikr    0
+                                                         r r r 
+            e −ikr r               ρx          ik ρ e                        ρx   
+                                                         ikr
+                                                                ∞
+          −       ∫   ρ d ρ Fn −1  −      , ⋯  e   −       ∫    ρ d ρ Fn −1  − ,⋯  e −ik ρ .
+            2ikr    0
+                                   r                 2ikr    r
+                                                                               r    
+
+Here, the last integral vanishes as r → ∞; if we assume that | V | ≤ a r−2 there, then due to
+the fact that | u0 | ≤ b r−1, we will have:
+                               Born – Quantum mechanics of collision processes.                    16
+
+
+                                                              A
+                                                 | Fn−1 | ≤      ,
+                                                              r2
+so
+                           ∞                    ρx       − ik ρ           ∞   dρ          A
+                         ∫ ρ d ρ F  − r ,… e
+                           r
+                                        n −1                         ≤ A∫
+                                                                            r   ρ   2
+                                                                                        =
+                                                                                            r
+                                                                                              .
+
+
+We then finally obtain:
+
+                      e −ikr ∞              ρx                  ρx            
+              un∞ =         ∫  ρ d ρ  Fn−1  ,…  e −ik ρ − Fn−1  − ,…  e −ik ρ  .            (6)
+                      2ikr 0                r                   r             
+
+However, this can be put into a more transparent form. In order to do that, we introduce
+the Fourier coefficients of the function Fn−1 :
+
+                                     1
+                       f n−1(k) =              F (r) e −irk dS
+                                         3 ∫∫∫ n −1
+                                   (2π )
+                                     1      ∞
+                                 =       3 ∫0
+                                              r 2 dr ∫∫ dω Fn−1 (rs) e − ik ( rs ) .              (7)
+                                   (2π )
+
+We determine the asymptotic value from the already twice-performed process, and
+obtain:
+                                      1    ∞              rk                  rk              
+        f n∞−1 (k x , k y , k z ) =      ∫   r dr  Fn −1  x ,…  eikr − Fn −1  − x ,…  e − ikr  .
+                                    4π ik 0
+                                       2
+                                                          k                   k               
+
+One will then have:
+
+        x      y    z    1      ∞              ρx                    ρx          
+f n∞−1  −k , −k , −k  =      ∫    ρ d ρ  Fn−1  ,…  e − ik ρ − Fn −1  − ,…  eik ρ  .       (8)
+        r      r    r  4π ik
+                            2    0
+                                                 r                     r           
+
+If we substitute that into (6) then we will finally obtain:
+
+                                                         x     y     z  e − ikr
+                       un∞ ( x, y , z ) = 2π2 f n∞−1  − k , − k , − k           .               (9)
+                                                         r     r     r r
+
+If we compare that with the formulas (11) and (18) of § 5 then we will see that an
+observer at infinity will see the scattered radiation as a plane wave with the amplitude:
+
+                                 k
+                                   2π 3 f n∞−1 (− k s) = kπ f n∞−1 (−k s) ,
+                                2π
+
+which will depend upon the direction s; thus, the probability that an electron will be
+deflected into an element of solid angle d ω with the mean direction s will be:
+                               Born – Quantum mechanics of collision processes.                                         17
+
+
+                                                           ∞                    2
+
+                                Φ dω = π k    2   2
+                                                          ∑ f ( − k s) dω .
+                                                          n= 0
+                                                                 n
+                                                                  ∞
+                                                                                                                      (10)
+
+
+The total solution has the asymptotic form:
+
+                                 ∞
+                                              2π                                ∞
+                                                                                                     
+                 ψ ∞ = u0∞ + ∑ un∞ =             | c ( s) | e
+                                                               ik ( r +δ )
+                                                                           + kπ ∑ f n∞ (−k s) e −ikr  .
+                                n =1           k                               n =1                 
+
+If one adds the time factor eikυ t to this then formula (4), § 5 will easily give the
+“conservation of particle number.”
+    In the first approximation, one has:
+
+                                                                                           2
+                                          Φ dω = π2 k2                    f 0∞ (−k s)          dω ,                   (11)
+
+in which one calculates f0, either rigorously from the formula:
+
+                                                            1
+                                                                   F0 (r) e −i ( kr ) dS
+                                                          (2π )3 ∫
+                                          f0(k) =                                                                     (12)
+
+
+or one can employ the asymptotic expression [from (8)]:
+
+                                          1           ∞
+                                                ρ d ρ{F ( ρ s) e                    ik ρ
+                                                                                           − F0 (− ρ s) e −ik ρ } .
+                                        4π ik ∫
+                       f 0∞ (− k s) =     2                           0                                               (13)
+                                                   0
+
+
+
+
+    § 7. Inelastic electron collisions. Let an atom (or a molecule; however, we will still
+say “atom”) be given by the Hamiltonian function Ha(p, q) (1); let Schrödinger’s
+differential equation for this system be solved, so one knows the eigenvalues Wna and
+eigenfunctions ψ na (q ) that satisfy the equations:
+
+                                              [ H a − Wna ,ψ na ] = 0                                                  (1)
+identically.
+    An electron collides with this atom; the Hamiltonian function for the free electron is:
+
+                                                    1
+                                         Hε =         ( p x2 + p 2y + pz2 ) ,
+                                                   2µ
+
+the eigenvalues are all positive numbers Wε, and the eigenfunctions are:
+
+
+
+
+  (1) We briefly write p, q, instead of p1, p2, …, pf, q1, …, qf .
+                           Born – Quantum mechanics of collision processes.                 18
+
+
+
+                                                                 8π 2 µ ε
+                                         e±k(rs), k2 =                 W.                   (2)
+                                                                  h2
+
+The general solution that corresponds to the incoming wave is:
+
+                                         ψ kε =      ∫ c ( s) e
+                                                             0      ik ( rs )
+                                                                                dω ;        (3)
+                                                    rs > 0
+
+it satisfies the differential equation:
+
+                     [Hε – Wε, ψ kε ] = 0            or            ∆ψ kε + k 2ψ kε = 0.     (4)
+
+The potential energy:
+                                         U(q; x, y, z)                                      (5)
+
+exists between the atom and the electron.
+    The interaction between the two particles leads to the Hamiltonian function:
+
+                                             H = H0 + λ H(1),
+where
+                                             H0 = Ha + Hε,                  
+                                                                            
+                                         λH   (1)
+                                                    = U.                    
+
+The unperturbed system has the solution:
+
+                              Wnk0 = Wna + Wε,                    ψ nk0 = ψ na ψ kε .
+
+We solve Schrödinger’s differential equation for the perturbed system:
+
+                                              [H – W, ψ] = 0
+by the Ansatz:
+                                         ψ = ψ 0 + λ ψ (1) + …
+
+We will then get the approximation equations:
+
+                                   [ H 0 − Wnk0 ,ψ nk(1) ] = − U ψ nk0 ,
+                                   [ H 0 − Wnk0 ,ψ nk(2) ] = − U ψ nk(1) ,
+                                   ……………………………
+
+whose left-hand sides agree. We write them out in detail:
+
+                          [ H 0 ,ψ nk(1) ] + [ H ε ,ψ nk(1) ] − Wnk0ψ nk(1) = − U ψ nk0 ,
+or
+                             Born – Quantum mechanics of collision processes.                   19
+
+
+
+                                                 h2
+                          [ H a ,ψ nk(1) ] −           ∆ψ nk(1) − Wnk0ψ nk(1) = − U ψ nk0 .
+                                               8π µ2
+
+
+
+We seek to solve this equation by the Ansatz:
+
+                                               ψ nk(1) = ∑ unk(1) (r )ψ ma ;
+                                                          m
+
+
+i.e., in terms of a development in only the eigenfunctions of the unperturbed atom whose
+coefficients are undetermined functions of the position vector r of the electron.
+     From (1), one will now have:
+
+                                     [ H a ,ψ nk(1) ] = ∑ unm
+                                                           (1)
+                                                               (r )[ H a ,ψ ma ]
+                                                              m
+
+                                                        = ∑ unm
+                                                             (1)
+                                                                 (r ) Wma ψ ma .
+                                                              m
+
+
+We develop the given function on the right-hand side in the same way:
+
+                                U ψ nk0 = ψ kε ⋅ Uψ na = ψ kε ∑ U nm ψ ma ;
+                                                                       m
+
+
+the coefficients define the matrix that is associated with the potential energy. If we
+introduce these expressions into the differential equation then we will get:
+
+                  (1)           h2                                  
+            ∑m ψ unm (r ) Wm − 8π 2 µ ∆unm(1) − unm(1) (Wma + W ε )  = − ∑
+                 a
+                 m
+                             a
+                                                                             ψ ma U nm ψ kε .
+                                                                         m
+
+
+                                         (1)
+One obtains a differential equation for unm  (r ) from this by equating the coefficients of
+                                8π 2 µ
+ψ ma ; if we multiply it by −          and set, to abbreviate:
+                                 h2
+
+                         8π 2 µ                                8π 2 µ
+                      V=        U,                       Vnm =        Unm ,                     (6)
+                          h2                                    h2
+
+                              8π 2 µ                ε     8π 2 µ
+                      2
+                     knm =       2
+                                     (Wn
+                                        a
+                                          − Wm
+                                              a
+                                                + W   ) =    2
+                                                                    a
+                                                                 (hvmn +W ε )                   (7)
+                               h                           h
+
+then we will find that:
+                                               ∆unm
+                                                 (1)
+                                                     + knm
+                                                        2   (1)
+                                                           unm  = Vnm ψ kε .                    (8)
+
+We have then converted the problem into the previously-treated problem of inelastic
+collision; all of the following approximations then lead to the same wave equation.
+                          Born – Quantum mechanics of collision processes.                   20
+
+
+However, the difference between this problem and the former one is the following: Every
+transition (n → m) of the atom corresponds to a special differential equation whose right-
+hand side is determined from the corresponding matrix element of the potential energy.
+Moreover, another value knm that corresponds to the energy:
+
+                                               h2
+                                      ε
+                                    Wnm =            2
+                                                    knm      a
+                                                        = h vnm + Wε                        (9)
+                                             8π µ
+                                                2
+
+
+
+
+enters in place of the k-value of the incoming wave. The basic qualitative law of electron
+collisions already follows from that: The energy of the electron after the collision is, in
+general, not equal to the energy before the collision, but differs from it by an energy jump
+   a
+h vnm  of the atom. A probability function:
+
+                                   Φnm = π2 knm
+                                             2
+                                                | f 0∞ (− knm s) |2                        (10)
+
+belongs to any collision process that one can calculate with the help of formula (12) or
+(13), § 6.
+
+
+   § 8. Physical consequences. We next show that our formulas correctly duplicate the
+qualitative behavior of atoms under collisions, and thus, the fact of “energy jumps,”
+which has always been regarded as the basic pillar of quantum theory, as well as the most
+egregious contradiction to classical mechanics.
+   We order the energy levels of the atom by their magnitudes:
+
+                                    W0a < W1a < W2a < …
+
+The index 0 then denotes the normal state, and one has:
+
+                           a
+                        h vnm = Wna − Wma > 0             for         n > m.
+
+We next consider the case in which the atom is initially in the normal state. One then has
+          a
+that all vnm > 0, and it will follow from (9), § 7 that:
+
+                                      W0εm = Wε − h vma 0 .
+
+Now, if Wε < h v10a then W0εm would be negative for m > 0, which is impossible; thus, one
+must have m = 0, so:
+                                       W00ε = Wε.
+
+One then finds “elastic” reflection with the profit Φ00 . If one lets Wε increase until:
+                           Born – Quantum mechanics of collision processes.                     21
+
+
+                                        h v10a < Wε < h v20
+                                                         a
+
+
+
+         ε
+then W0m   will become only positive for m = 0 and m = 1; one then has either elastic
+reflection with the profit Φ00 or stimulated resonance with the profit Φ01 .
+    If Wε increases further until:
+
+                                           a
+                                        h v20 < Wε < h v30a
+
+then there will be three cases: Elastic reflection with profit Φ00 , stimulation of the first
+quantum jump with Φ01, stimulation of the second quantum jump with Φ02 . One
+proceeds further in the same way.
+    We now fix out attention on the fact that the atom is initially in the second quantum
+state (n = 1); one will then have v10a > 0 and v1am < 0 for m = 2, 3, …
+    One then has:
+                                W10ε = Wε + h v10a ,
+                                 W11ε = Wε,
+                                 W1mε = Wε − h vma 1 ,        m = 2, 3, …
+
+Now, if Wε < h v21
+                a
+                   then W1mε will be negative for m = 2, 3, …; therefore, there is only
+either a collision of the second kind with an energy increase for the electron by h v10a , with
+a profit of Φ10 , or elastic reflection with the profit Φ11 .
+    If one has:
+                                           a
+                                        h v21 < Wε < h v31a
+
+then the stimulation of the state n = 2 with the profit Φ12 will enter into these processes.
+One proceeds further in the same way.
+    In the general case, if the atom is initially in the state n then there will be only
+collisions of the second kind for:
+                                       Wε < h vna+1, n ,
+
+for which, the atom will drop into the states 0, 1, …, n – 1 and give up the energy values
+h vna0 , h vna1 , …, h vna,n +1 , to the electron, with the profits Φn0 , Φn1 , …, Φn, n−1, and the
+elastic reflection Φnm . If Wε increases over h vna+1, n then there will be stimulations with
+the profits Φn, n+1, Φn, n+2, …, Φn, m when:
+
+                                     h vna+1, n < Wε < h vma +1, n .
+
+The next problem would be to discuss the formula (10), § 7 for the profit; thus, we would
+like to content ourselves with an entirely tentative, if not truly debatable, consideration.
+                              Born – Quantum mechanics of collision processes.                         22
+
+
+We assume that the potential U can be developed in powers of r−1; for a neutral atom, one
+will then have the dipole terms:
+                                              e
+                                 U(x, y, z) = 3 (Pr)                                   (1)
+                                             r
+
+in the first approximation, where P(q) is the electric moment of the atom. We then
+associate it with the matrix Pnm . From (6), § 7, one will then have:
+
+                                                    8π 2 µ e      r 
+                                              Vnm =     2     Pnm 3  .                              (2)
+                                                      h          r 
+
+Naturally, this Ansatz can only be correct for electrons that pass by the atom at the
+distance considered. We therefore restrict our consideration to electrons for which r > r0
+(1), and thus write, from (13), § 6:
+
+                                     1     ∞
+               f 0∞ (− knm s) =          ∫   ρ d ρ {Fnm ( ρ s) e −i ρ knm − Fnm (− ρ s) eiρ knm } .
+                                  4π iknm r0
+                                     2
+
+
+
+
+We now assume that that the incoming electrons define a parallel bundle, which
+corresponds to a plane wave; one will then have:
+
+                                                          8π 2 µ e            eik ρ s z
+                           Fnm(r s) = Vnm eik ρ sz =               ( P   , s)           .
+                                                            h2
+                                                                      nm
+                                                                               ρ2
+
+Moreover, one will have:
+                                                                   µe
+                                  i π knm f 0∞ (− knm s) = 4π           (Pnm, s) A,                   (3)
+                                                                   h2
+
+for which, with sz = cos ϑ, one will have:
+
+                                          ∞   dρ
+                                  A= ∫             cos [r (k cos ϑ – knm],                            (4)
+                                         r0    ρ
+or
+                                  A = − Ci (r0 [k cos ϑ – knm]),                                      (5)
+
+in which Ci(x) means the integral cosine (2).
+    From (10), § 7, the profit function then becomes:
+
+
+
+  (1) The exclusion of the central collisions means the temporary sacrifice of being able to interpret an
+especially interesting group of phenomena, namely, the penetrability of the atom for slow electrons (viz.,
+the Ramsauer effect).
+  (2) S. E. Jahnke and P. Emde, Funktionentafeln, Leipzig, 1909, pp. 19.
+                             Born – Quantum mechanics of collision processes.                           23
+
+
+
+                                        16π 2 µ 2e 2
+                                Φnm =         4
+                                                     | Pnm , s |2 A2.                                  (6)
+                                           h
+
+If one finally takes the mean over all positions of the atoms then the mean value of the
+product of two components of Pnm will vanish, and the mean value of the square of the
+components will be equal to 12 | Pnm |2, where P means the magnitude of the electric
+moment. One thus obtains:
+                                        16π 2 µ 2e 2
+                                 Φnm =        2
+                                                     | Pnm |2 A2.                (6)
+                                           3h
+
+We would like to discuss this expression for the profit function briefly.
+     One first sees that in our approximation, the profit is proportional to | Pnm |2; i.e., for
+m ≠ n, to the coefficients of the transition probability bnm of Einstein’s theory of radiation,
+which corresponds to the processes of absorption and stimulated emission in the radiation
+                                                                             8π hvnm
+                                                                                  3
+processes (but not with the probabilities of spontaneous radiation anm =             bnm) (1).
+                                                                               c3
+     The profit for elastic reflection is proportional to | Pnm |2, which is a quantity that is
+not optically effective. The diagonal elements of the matrix Pnm will be zero, in general
+(2); namely, in addition to the small number of cases in which a linear Stark effect exist
+(as for the hydrogen atom). Pauli has informed me that he could even derive the
+vanishing of the diagonal elements of the quadrupole and higher moments for the s-terms
+of the alkali metals and the normal states of the noble gases and rare earths, which is a
+result that represents the exact expression for a spherically-symmetric domain of action
+of the atom. Our approximation thus does not suffice for the calculation of the elastic
+reflections, for which, one must carry out the approximation to one step further. That
+should be done next in order to arrive at the possibility of testing our theory for the large
+body of observations (Lenard and others) of free path lengths of electrons in unexcited
+gases. Without precise calculation, one can then see that the profit will be determined by
+terms that are of fourth order in Pnm . Naturally, these terms are much smaller than |Pnm|2.
+From that, we can understand that the normal cross section of atoms (n = 0) for slow
+electrons is much smaller (with the order of magnitude of “gas kinetics”) than it is for fast
+electrons, which can be stimulated (3).
+     The dependency of the profit upon direction will be determined by the function A2
+according to (5). It obviously corresponds to a diffraction phenomenon.
+     This consequence of de Broglie’s theory was pointed out about a year ago by W.
+Elsasser (4). When he seriously considered the wave picture, he concluded that the slow
+
+
+  (1) See J. H. van Vleck, Phys. Rev. 23 (1924), 330; Journ. Opt. Soc. Amer. 9 (1924), 27. M. Born and
+P. Jordan, Zeit. Phys. 33 (1925), 479.
+  (2) For the harmonic oscillator, e.g., they are zero, but they are present for the anharmonic oscillator.
+  (3) One finds literature on this in the book that appeared just recently by J. Franck and P. Jordan,
+Anregung von quantensprüngen durch Stöße (Berlin, J. Springer, 1926).
+  (4) W. Elsasser, Die Naturwiss. 13 (1925), 711. The order of magnitude relationship that Elsasser’s
+argument founded rests upon the de Broglie formula for the wave length:
+                              Born – Quantum mechanics of collision processes.                             24
+
+
+electrons must be deflected by atoms in such a way that their distribution after the
+collision might correspond to the intensity of the light that is diffracted by a small sphere
+(1). He coupled it with the observations of Ramsauer on the free path length of electrons
+(2) and the experiments of Davisson and Kunsman (3) in the angular distribution of
+electrons that were reflected from a platinum plate. In the meantime, the validity of the
+argument has been confirmed by experiment by Dymond (4), who observed the
+appearance of interference maxima for reflected electrons in helium directly. A test of
+our formula for the general body of observations shall result later.
+
+
+    § 9. Concluding remarks. On the basis of the foregoing arguments, I would like to
+go into the meaning of the statement that quantum mechanics allows one to formulate not
+only the problem of stationary states, but also that of transition processes. The
+Schrödinger picture thus seems to be by far the easiest picture to calculate in; moreover,
+it makes it possible to preserve the usual conceptions of space and time, in which the
+events play out in a completely normal way. By contrast, the proposed theory does not
+correspond to the consequences of the causal determinacy of the individual events. In my
+tentative communication, I have emphasized this indeterminacy in particular, since it
+seems to me to be in the best agreement with the practice of experimenters. However, it
+is naturally indefensible (if one would not like to reassure oneself) to assume that it will
+give further parameters that have still not been introduced into the theory that would
+determine the individual events. In classical mechanics, they would be the “phases” of
+the motion – e.g., the coordinates of the particles at a certain moment. It seems at first
+improbable to me that one could insert quantities into the new theory informally that
+would correspond to these phases; however, Frenkel has informed me that this can
+perhaps happen. Be that as it may, this possibility would change nothing in the practical
+indeterminism of collision processes, since one cannot give the values of the phases;
+moreover, they must lead to the same formulas as the “phase-less” theory that is proposed
+here.
+    I would like to believe that the laws of motion of light quanta can be treated in a
+completely analogous way (5). However, as in the basic problem of the free radiation,
+one would not have a temporally-periodic process, but a deflection process, and thus, not
+
+                                                 2π        h
+                                            λ=      =          .
+                                                  k       2 µW
+
+For 300 volt radiation, one has roughly λ = 7 ⋅ 10−9, and thus waves of atomic dimensions.
+   (1) See K. Schwarzschild, Sitzungsber. d. Kgl. Bayer. Akad. d. Wiss. (1901), 293; G. Mie, Ann. d. Phys.
+25 (1908), 377; P. Debye, Ann. d. Phys. 30(1909), 57.
+   (2) C. Ramsauer, Ann. d. Phys. 64 (1921), 513; 72 (1923), 345. For further literature see Ergebnisse
+der exacten Naturawissenschafter, 3 Bd. (Berlin, J. Springer, 1924), the article of R. Minkowski and H.
+Sponer, pp. 67.
+   (3) Davisson and Kunsman, Phys. Rev. 22 (1923), 243.
+   (4) Dymond, Nature. (To appear; I am grateful for a glimpse of that work in a letter that Dymond sent to
+J. Franck.)
+   (5) The complications that have been found up to now regarding the introduction of “ghost fields” into
+optics seem to me to be based, in part, upon the tacit assumption that the center of the wave and the particle
+that it determines are at the same place. However, from the Compton effect, this is certainly not the case,
+and indeed will never be true, in general.
+                             Born – Quantum mechanics of collision processes.             25
+
+
+a boundary-value problem, but an initial-value problem for the coupled wave equations
+for the Schrödinger ψ-quantity and the electromagnetic field. Finding the law of this
+coupling is certainly one of the most pressing problems; as I am aware, it has been
+addressed in several places (1). Once that law has been formulated, it will perhaps be
+possible to devise a rational theory of the lifetimes of states, the transition probabilities
+for radiation processes, and the damping and line widths.
+
+
+                                            _____________
+
+
+
+
+ (1) See, e.g., the soon-to-appear treatise of O. Klein, Zeit. Phys. 37 (1926), 895.
+

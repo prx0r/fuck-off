@@ -1,0 +1,1150 @@
+172
+
+
+
+l~ber den anschaulichen Inhalt der quantentheoretischen
+               Kinematik und Mechanik.
+                       Von W. Heisenberg in Kopenhagen.
+              Mit 2 Abbildungen.    (Eingegangen am 23. ~ r z 1927.)
+Ia der vorliegenden Arbeit werden zungchst exakte Definitionen der Worte: 0rt,
+Geschwindigkeit, Energie usw. (z. B. des Elektrons) aufgestellt, die auch in der
+Quantenmechanik Giiltigkeit behalten, und es wird gezeigt, da]] kanonisch kon-
+jugierte GrSflen simultan, nur mit einer charakteristischen Ungenauigkeit bestimmt
+werden kSnnen (w 1). Diese Ungenauigkeit ist der eigentliche Grund fiir das
+Auftreten statistischer Zusammenh~age in tier Quantenmechanik. Ihre mathe-
+matische Formulierung gelingt mittels der Dirac-Jordanschen Theorie (w 2). u
+den so gewonnenen Grunds~tzen ausgehend wird gezeigt, wie die makroskopischen
+Vorg~nge aus der Quantenmechanik heraus verstanden werden k6nnen (w 3). Zur
+E rlguterung der Theorie werden einige besondere Gedankenexperimente diskutiert (w4).
+
+         Eine physikalische Theorie glauben wit dann anschaulich zu v e r -
+stehen, wenn wlr uns in allen einfachen F~llen die experimentellen Kon-
+sequenzen dieser Theorie qualitativ denken k~nnen, und wenn wir gleich-
+zeitig erkannt haben, dab die Anwendung der Theorie niema]s innere
+Widerspriiehe enthalt. Zum Beispiel glauben wir die E i n s t e i n s c h e
+V o r s t e l h n g yore gescMossenen dreidimensionalen Raum anschaulich zu
+verstehen, welt fiir uns die experimentellen Konsequenzen dieser Vor-
+stellung widerspruchsfrel denkbar sind.          Freilich wldersprechen diese
+Konsequenzen unseren gewohnben anschaulichen Raum-Zeitbegriffen. W i t
+k~innen uns aber davon iiberzeugen, da~ die ~[Sglichkeit der Anwendung
+dieser gewohnten Raum--Zeitbegriffe ant sehr grol]e Raume weder aus
+nnseren Denkgesetzen noch aus der Erfahrtmg gelolgert werden kann.
+Die anschaulichc Deutung der Quantenmechanik ist bisher noch voll
+innerer Widerspriiehe, die sich im Kampf der Meinungen um Diskon-
+tinuums- und Kontinuumstheorie, Korpuskeln und Wellen auswirken.
+Schon daraus mSchte man schliellen, daft eine Deutung der Quanten-
+mechanik mit den gewohnten kinematischen und mechanischen Begriffen
+iedenIalls nieht mSglich ist. Die Quantenmechanik war ja gerade aus
+dem Versueh entstanden, mi~ ienen gewohnten kinematischen Begrifien
+zu breehen und an ihre Stelle Beziehungen zwischen konkreten experi-
+mentell gegebenen Zahlen zu setzen. Da dies gelungen seheint, wird
+andererseits das mathematische Schema der Quantenmeehanik auch keiner
+Revision bediirfen. Ebensowenig wird eine Revision der Raum--Zeit-
+geometrie fiir kleine R~iume und Zeiten no~wendig sein, da wir dureh
+Wahl hinreiehend schwerer }r             die quantenmechanischen Gesetze den
+W. Heisenberg, Uber den anschaul. Inhalt d. quantentheoret. Kinematik usw.   173
+
+klassisehen beHeblg ann~hern k~innen, auch wenn es sieh um noeh so
+kleine R~ume und Zeiten handelt. Abet dal] eine Revision der klne-
+matisehen und meehanischen Begri~fe notwendig ist, seheint aus den
+Grundgleichungen der Quantenmechanik unmittelbar zu folgen. W e a n
+eine bestimmte Masse m gegeben ist, hat es in unserer gewohnten An-
+schauung einen ein[aeh verst~ndiiehen Sinn, vom Ort und der Geschwin-
+digkeit des Schwerpunkts dieser Masse m zu spreehen. I n der Quanten-
+                                                  h
+meehanik aber soll eine Relation p q - q p ---- 2 ~ zwisehen Masse, Ort
+und Geschwindigkeit bestehen. W i r haben also guten Grund, gegen die
+kritiklose Anwendung iener Worte ,,Oft" und ,,Geschwindigkeit" Yer-
+dacht zu schSpfen. Wenn man zugibt, dal~ ttir Vorgange in sehr kleinen
+R~umen und Zeiten Diskontinuit~ten irgendwie typisch sind, so ist ein
+u         eben der Begrif[e ,,OrV' u n d , Geschwlndigkeit" sogar unmittelbar
+
+
+
+
+              -/.                                    ~g
+                    Fig. I.                               Fig. 2.
+
+plausibel: Denkt man z. B. an die eindimensionale Bewegung eines Massen-
+punktes, so wird man in einer Kontinuumstheorie eine Bahnkurve x (t)
+~ r die Bahn des Teilehens (genauer: dessen Sehwerpunktes) zeietmen
+kiJm~en (Fig. 1), die Tangente gibt ieweils die Gesehwindigkeit. In einer
+ Diskontinuumstheorie dagegen wird etwa an Stelle dieser Kurve eine Reihe
+ yon Punkten endliehen Abstandes treten (Fig. 2). In diesem Falle isg es
+ offenbar sinnlos, yon der Gesehwindigkeit an einem bestimmten Orte zu
+ spreehen, weil ia die Gesehwindigkeit erst dureh zwei Or~e definiert
+ werden kann und weft folglieh umgekehrt zu iedem Punkt ie zwei ~rer-
+sehiedene Gesehwindigkeiten gehiSren.
+       Es entsteht daher die Frage, ob es nieht dureh eine genauere Analyse
+ iener kinematisehen m~d meehanisehen Begriffe mSglieh sei, die bis ietzt
+ in der ansehauliehen Deuttmg der Quaatenmeehanik bestehenden Wider-
+ spriiehe aufzukl~ren und zu einem ansehaMiehen Verst~ndnis der quanten-
+ meehanisehen Relationen zu kommen ~).
+
+       1) Die vorliegende Arbeit ist aus Bestrebungen und Wt~nsehen entstanden,
+denen sehon viel frtiher, vor dem Entstehen der Quantenmeehanik, andere Forseher
+deutliehen Ausdruek gegeben haben. Ieh erinnere bier besonders an Bohrs Ar-
+                                                                   12"
+174                                   w. Heisenberg,
+
+      w 1. D i e B e g r i f f e : O r t , B a h n , G e s c h w i n d i g k e i t , Energie.
+Ura das quantenraechanische Verhalten irgend eines Gegenstandes verfo]gen
+zu kSnnen, raul3 man die Masse dieses @egenstandes und die Wechselwirkungs-
+krgfte rait irgendwelchen F e l d e r n und anderen Gegenst~nden kennen. Nur
+d ann kann die H a r a i l t o n s e h e F u n k t i o n des quantenmeehanisehen Systems
+aufgestellt werden.         [Die folgenden Uberlegungen sollen sich ira allge-
+raeinen auf die nlehtrelativis~ische Quantenmeehanik beziehen, da die Ge-
+setze der quantentheoretischen E l e k t r o d y n a m i k noeh sehr nnvollstandig
+bekannt sind] 1). lJber die ,, Gestalt" des Gegenstandes ist irgendwelche
+weitere Anssage unnGtig, am zweckragl]igsten bezeichne~ raan die Ge-
+samtheit jener Weehselwirkungskrafte mit dem W o r t e Gestalt.
+      W e n n man sich dartiber klar werden will, was unter dera W o r t e
+,,Oft des Gegenstandes", z. B. des Elektrons (relativ zu einera gegebenen
+Bezugssystera), zu verstehen sei, so raul3 man bestimrate Experiraente an-
+geben, mit deren Hilfe man den ,,Oft des Elektrons" zu raessen gedenkt;
+anders hat dieses W o r t keinen Sinn. A n solehen Experiraenten, die im
+Prinzip den ,,Ort des Elektrons" sogar beliebig genau zu bestimraen ge-
+statten, ist kein Mangel, z. B.: )Jan beleuehte das Elektron und betraehte
+es unter einera Mikroskop. Die hSehste erreiehbare Genauigkeit der Orts-
+bestiraraung ist bier ira wesentlichen dureh die Wellenlgnge des benutzten
+Lichtes gegeben. Man wird aber im Prinzip etwa ein/-'-Strahl-Mikroskop
+bauen nnd rait diesem die Ortsbestiramung so genau durehfiihren kSnnen,
+wie raan will. Es ist indessen bei dieser Bestiraraung ein Nebenurastand
+wesentlich: der Coraptone{fekt.                  Jede Beobaehtung des vora Elektron
+koraraenden Streulichtes setzt einen lichtelektrisehen Effekt (ira Auge,
+auf der photographisehen Platte, in der Photozelle) voraus, kann also
+aueh so gedeutet werden, dal3 ein Liehtquant das Elektron trifft, an diesem
+reflektiert oder abgebeugt wird und dann dureh die Linsen des ~likro-
+
+beiten fiber die Grundpostulat.e der Quantentheorie (z. B. ZS. f. Phys. 13, 117,
+1923) und E i n s t e i n s Diskussionen fiber den Zusammenhang zwischen Wellenfeld
+und Lichtquanten. Am klarsten sind in neuester Zeit die hier besprochenen Pro-
+bleme diskuticrt und die auftretenden Fragen teilweise beantwortet worden yon
+W. P a u l i (Quantentheorie, tIandb, d. Phys., Bd. XXIII, weiterhin als 1. c. zitiert);
+durch die Quantenmechanik tla~ sich an der Formulierung dieser Probleme durch
+P a u l i nur wenig ge~ndert. Es ist mir aach eine besondere Freude, an dieser
+Stelle Iterrn W. P a u l i fiir die vielfaehe Anregung zu danken, die ich aus ge-
+meinsamen mfindlichen und sehriftliehen Diskussionen empfangen habe, und die
+zu der vorliegenden Arbeit ~vesentlieh beigetragen hat.
+         1) In jiiagster Zeit slnd jedoch auf diesem Gebiet gro~le Fortschritte erzielt
+worden dureh Arbeiten yon P. Dirae [Proc. Roy. Soe. (A) 114~ 243, 1927 und
+sp~ter erseheinende Untersuchuagen].
+  Uber den anschaulichen Inhalt der quantentheoretischen Kinem,q.tik usw. ]75
+
+skops nochmal abgelenkt den Photoeffekt ausl(ist. Im Augenblick der
+Ortsbestimmung, utso dem Augenblick, in dem das Lichtquant vom Elek-
+tron abgebeugt wird, vergndert das Elektron seinen Impuls unstetig.
+Diese A_nderung ist um so grSl]er, ie kleiner die Wellenl~nge des benutzten
+Liehtes, d. h. ie genauer die Ortsbestimmung ist. In dem Moment, in
+dem der Ort des Elektrons bekannt ist, kann daher sein Impuls nut bis
+auf GrSl]en, die ]ener unstetigen :~nderung entspreehen, bekannt sein;
+also ie genauer der 0 r t bestimmt ist, desto ungenauer ist der Impuls be-
+kannt und nmgekehrt; hierin erblieken wir eine direkte anschauliehe Er-
+                                          h
+lguterung der Relation p q - - q p ~ 2 ~ / " Sei ql die Genauigkeit, mit
+
+der der Weft q bekannt ist (ql ist etwa der mittlere Fehler yon q), also
+bier die Wellenlgnge des Lichtes, pl die Genauigkeit, mit tier der Wert io
+bestimmbar ist; also hier die uns~etige Anderung yon p beim Compton-
+eHekt, so stehen naeh elementaren Formeln des Comptonef~ekts 21
+und ql in der Beziehung
+                               p~ q~ ~ h.                             (1)
+     DaB diese Beziehung (1) in direkter mathematischer Verbindung
+                                              h
+mit der Vertauschungsrelation p q - - q p z 2 ~--i steht, wird sparer ge-
+
+zeigt werden. Hier sei darauf hingewiesen, dab Gleiehung (1) der prazise
+Ausdruek ffir die Tatsaehen ist, die man frtiher durch Einteilung des
+Phasenraumes in Zellen der GrSBe h zu beschreiben suchte.
+     Zur Bestimmung des Elektronenortes kann man auch andere Experi-
+mente, z.B. Stol]versuche vornehmen. Eine genane Messung des Ortes
+er[ordert St(il]e mit sehr schnellen Partikeln, da bei langsamen Elektronen
+die Beugungserseheinungen, die naeh E i n s t e i n eine Folge der de Broglie-
+Wellen sind (siehe z. B. Ramsanereffekt) eine genaue Bestimmung des
+Ortes verhindern. Bei einer genauen 0rtsmessung gndert sich tier Im-
+pu]s des E]ektrons also wieder unstetig und eine ein~aehe Absehatzung
+der Genauigkeiten mit den Formeln der de B r o g l i e s e h e n Wellen gibt
+wieder die Relation (1).
+      Dutch diese Diskussion scheint der Begriff ,, 0 r t des Elektrons" klar
+genug definiert und es sei nur noeh ein Wort fiber die ,,Griille" des
+Elektrons hinzugetfigt. Wenn zwei sehr sehnelle Teilchen im sehr kurzen
+Zeitintervall z/t hintereinander das Elektron treHen, so liegen die dutch
+die beiden Teilehen definierten Orte des Elektrons einander sehr nabe in
+einem Abstand JZ. Aus den Gesetzen, die bei a-Strahlen beobachtet
+sind, schliel]en wir, dab sieh L/1 bis au[ GrOl~en tier Ordnung 10 -~2 cm
+176                                 W. Heisenberg,
+
+herabdriicken lg$t, wenn nur J t hinreichend klein und die Teilchen hin-
+reichend schnell gewghlt werden. Diesen Sinn hat es, wenn wir sagen, das
+E l e k t r o n sei eine Korpuskel, deren Radius nieht gr~$er als 10-12cm ist.
+          Gehen wir nun fiber zum Begriff ,,Bahn des Elektrons". Unter
+Bahn verstehen wir eine Reihe yon Ra,,mpunkten (in einem gegebenen
+Bezugssystem), die das Elektron als , 0 r t e " nacheinander annimmt. Da
+wir schon wissen, was unter ,,0rt zu elner bestimmten Zeit" zu verstehen
+sei, treten hier keine neuen Schwierigkeiten auf. Trotzdem ist leicht
+einzusehen, dal] z. B. der oft gebranchte Ansdruck: die ,,1 S - B a h n des
+Elektrons im Wasserstoffatom" von unserem Gesichtspnnkt aus keinen
+Sinn hat. Um diese 1 S-,,Bahn" zu messen, mtil3te namlich das A t o m
+mit Licht beleuchtet werden, dessen Wellenlange iedenfalls erheblich
+kiirzer als 1 0 - S c m ist. Von solchem L i e h t aber gentigt ein einziges
+Lichtquant, um das Elektron vsllig aus seiner ,, Bahn" zu werfen (weshalb
+von einer solchen Bahn immer nur ein einziger Raumpunkt definiert
+werden kann), das W o r t ,,Bahn" hal hier also keinen verniinftigen Sinn.
+Dies kann ohne Kenntnis der neneren Theorien schon einfach aus den
+experimentellen MSglichkeiten gefolger~ werden.
+         Dagegen kann die gedachte Ortsmessung an vielen Atomen im 1 S-
+Zustand ausgeftihrt werden. (Atome in einem gegebenen ,,stationgren"
+Zt~stand 1assert slch z. B. dutch den S t e r n - G e r l a c h v e r s u c h im ~2rlnzip
+isolieren.) Es toni3 also ftir einen bestimmten Zustand z. B. 1 S des
+Atoms eil~e Wahrscheinlichkeitsfunktion ftir die Orte des Elektrons geben,
+die dem Mittelwert der klassisehen Bahn tiber alle Phasen enfsprieht und
+die dnrch }Iessungen beliebig genau feststellbar ist. Naeh B o r n 1) ist
+diese F n n k t i o n durch ~Pls(q)~lS(q) gegeben, wenn ~Pls(q) die zum Zu-
+stand 1 S gehSrige S e h r S d i n g e r s c h e Wellenfunktion bedeutet.     Mit
+D i r a c ~) und J o r d a n 1) mSehte ich ira t t i n b l i c k auf spg~ere Ver-
+
+        1) Die ~tatistisehe Bedeutung der de BrogUe-Wellen wurde zuerst formuliert
+yon A. E i n s t e i n (Sitzungsber. d. prea~. Akad. d. Wiss. 1925, S. 3). Dieses
+statistische Element in der Quantenmeehanik spielt dann eine wesentliche Rolle
+bei M. Born, W. g e i s e n b e r g and P. J o r d a n , Qusntenmechanik II (ZS. f. Phys.
+85, 557, 1926), bes. Kap. 4, w 3, und P. J o r d a n (ZS. f. Phys. 87, 376, 1926); es
+wird in einer grundlegenden Arbeit yon ~. Born (ZS. f. Phys. 88, 803, 1926)
+mathematisch analysiert und zur Deutung ~ter Stoflph~nomene benutzt. Die Be-
+grtindung des Wahrseheinlichkeitsansatzes aus der Transformationstheorie der
+)~atrizen finder sich in den Arbeiten : W. H e is e nb e r g (ZS. f. Phys. 40, 501, 1926),
+P. J o r d a n (ebenda 40, 661, 1926), W. P a u l i (Anm. in ZS. f. Phys. 41, 81, 1927)~
+P. D i r a c (Proe. Roy. Soe. (A) 118, 621, 1926), P. J o r d a n (ZS. f. Phys. 40, 809,
+1926). Allgemein ist die statistisehe Seite der Quantenmechamk diskutiert bei
+P. J o r d a n (Naturwiss. 15, 105, 1927) und g. B o r n (Naturwiss. 15, 238~ 1927).
+  tJber ilen anschaulichen Inhalt der quantentheoretischea Kineraatik usw. 177
+
+allgemeinerungen sagen: Die Wahrscheinlichkeit iSt gegeben durch
+S (1 S, q) S(1 S, q), wo S (1 S, q) dieienige Kolonne der Transformations-
+matrix S(E,q) yon E nach q bedeutet, die zu E ~ - - E l s gehSrt
+(E ~ Energie).
+      Darin, daft in der Quantentheorie zu einem bestimmten Zustand, z. B.
+1 S, nut die Wahrscheinliehkeltsfunktion des Elektronenortes angegeben
+werden kana, mag man mit B o r n und J o r d a n eiaen charakteristisch
+statistischen Zug der Quantentheorie im Gegensatz zur k]assischen Theorie
+erblieken. Man kann aber, wean man will, mit D i r a e aueh sagen, daft
+die Statistik dureh unsere Experimente hereingebraeht sei. Dena o[[enbar
+w~re at/ch in der k l a s s i s c h e n T h e o r i e nut die Wahrscheinllchkeit
+eines bestimmten Elektronenortes angebbar, solaage wit die Phasen des
+Atoms nicht kennea. Der Unterschied zwisehen klassiseher und Quanten-
+mechanik besteht vielmehr darin: Klasslseh kSnnea wlr nns dutch vor-
+ausgehende Experimente immer die Phase bestimmt denken. In Wirk-
+lichkeit ist dies abet unmiiglleh, well iedes Experiment zur Bestimmung
+der Phase alas Atom zerstSrt bzw. veriindert. In einem bestimmten
+statioaih'en ,,Zustaad" des Atoms sind die Phasen prinzipiel] unbestimmt,
+was man als direkte Erl~uterung der bekanatea Glelchungen
+                              h                               h
+              Et--tE--       2~i     oder   jTW--WJ--        2~;
+
+ansehen kann. (.7 ~ Wirkungsvariable, iv ~ Winkelvariable.)
+      Das Wort ,Gesehwindlgkeit'-' eines Gegenstandes la6t sieh durch
+Messungen leieht definieren, wenn es sich am kr~[te[reie Bewegungen
+handelt. Man kann z.B. den Gegenstand mit rotem Licht belenehten
+und durch den Dopplereffekt des gestreuten Lichtes die Geschwindigkeit
+des Teilchens ermitteln. Die Bestimmung der Gesehwindigkeit wird am
+so genauer, ie laagwelliger alas benutzte Lieht ist, da dana die Ge-
+schwlndigkeits~nderung des Teitchens pro Lichtquant durch Comptonei~ekt
+um so geringer wird. Die 0rtsbestimmung wird entspreehend ungenau,
+wie es tier Gleichung (1) entsprieht. Wenn die Geschwindigkeit des
+Elektrons im Atom in einem bestimmten Augenbliek gemessen werden
+soil, so wird man etwa in diesem Augenbliek die Kernladung und die
+Kr~fte yon den iibrigea Elektronen pli~tzlich versehwinden lassen, so da~
+die Bewegung yon da ab kriifteirei erfolgt, und wird dann die oben an-
+gegebene Bestimmung durchfiihren. Wieder kann man sieh, wie oben,
+leieht iiberzeugen, dal~ eine Funktion ~ (t) fiir einea gegebenen Zustaad
+eines Atoms, z. B. 1 S, nieht detiniert werden kann. Dagegen gibt es
+178                              W. Heisenberg,
+
+wieder eine Wahrscheinlichkeitsfunktion yon 2 in diesem Zustand, die
+nach D i r a c und J o r d a n den Wert S(1 S,~9) S(1 S,p) hat. S(1 S,p)
+bedeutet wieder dieienige Kolonne der Transformationsmatrix S(~', io)
+yon ~" nach p, die zu E ~--- Elz gehSrt.
+      Schliel]iieh sei noch au~ die Experimente hingewiesen, welche ge-
+statten, die Energie odor die Werte der Wirkungsvariablen J zn messen;
+solche Experimente sind besonders wiehtig, da wir nut mit ihrer ttilfe
+definieren k6nnen, was wir meinen, wenn wir v o n d e r diskontinulerlichen
+~_nderung der Energie und der J spreehen. Die F r a n e k - H e r t z s c h e n
+Stol]versuche gestatten, die Energiemessung der Atome wegen der Gfiltig-
+kelt des Energiesatzes in der Quantentheorie zurtiekzuffihren auf die
+Energiemessung geradlinig sich bewegender Elektronen. Diese Messung
+last sich im Prinzip beliebig genau durehfiihren, wenn man nut auf die
+gleichzeitige Bestimmung des Elektronenortes, d. h. der Phase verzichtet
+
+(vgl. oben die Bestimmung yon io), der Relation ~ ' t -      t~" z   2z -h- i ent-
+
+spreehend.    Der Stern-Gerlaehversuch gestattet die Bestimmung des
+mag'netlsehen odor eines mittleren elektrisehen Moments des Atoms, also
+die Messung yon GrSl]en, die a]lein von den Wirkungsvariab]en J ab-
+h~ngen. Die Phasen bleiben prinziloiell unbestimmt. Ebensowenig wie
+es sinnvoll ist, yon der Frequenz einer Lichtwelle in einem bestimmten
+Augenb]ick zn sprechen, kann yon der Energie eines Atoms in einem be-
+stimmten Moment gesprochen werden. Dem entsprieht im Stern-Gerlaeh-
+versueh der Umstand, dal] die Genauigkeit der Energiemessung um so
+geringer wird, je kfirzer die Zeitspanne ist, in der die Atome unter dem
+Einflul3 der ablenkenden Kraft stehen ~). Eine obere Grenze fiir die ab-
+lenkende Kraft ist n~mlieh dadurch gegeben, dal~ die potentielle Energie
+iener ablenkenden Kraft innerhalb des Strahlenbiindels nur um Betr~ge
+variieren darf, die erheblieh kleiner sind als die Energiedifferenzen der
+station~ren Zust~nde, wenn eine Bestimmung der Energie der station~ren
+Zust~nde m~glieh sein soll. Sei ~ ein Energiebetrag, der dieser Bedin-
+gung gen~gt (E I gibt zugleich die Genauigkeit jener Energiemessung an),
+so ist also Et/d der HOehstwert der ablenkenden Kraft, wenn d die
+Brelte des Strahlenbfindels (reel]bar dureh die Weite der benutzten Blonde)
+                                                               /~1tl,
+bedeutet. Die Winkelablenkung des Atomstrahls ist dann ~ -            wo t~
+
+die Zeitspanne bezeiehnet, in der die Atome unter Einflul] der ablenkenden
+
+      1) Vgl. hierzu W. Pauli, 1. c. S. 61.
+  ~ber den anschaulichen Inhalt der.quantentheoretischen Kinematik usw. 179
+
+Kraft stehen, p den Impuls der Atome in der Strahlriehtung. Diese
+Ablenkung mul] Inindestens g]eieher Gr(i~enordnung sein wie die natiir-
+liehe dureh Beugung an der Blende hervorgebrachte Verbreiterung des
+StraMs, dainit eine Messung InSglieh sei. Die Winkelablenkung dureh
+Beugung ist etwa Z/d, wenn s die de B ro g lie sche Wellenl~nge be zeiehnet,
+also
+                     Z      E 1t 1                      h
+                     ~l ~'~ d p       oder da s ~ - - ,
+                                                       P
+                                 E l t 1 ~,. h.                          (2)
+     Diese Gleiehung entspricht der Gleiehung (1) and zeigt, wie eine
+genaue Energiebestiinmung nur dureh eine entsprechende Ungenauigkeit
+in der Zeit erreicht werden kann.
+       w      Die D i r a c - J o r d a n s c h e T h e o r i e . Die Resultate des vorher-
+gehenden Absehnitts mSehte man zusainmenfassen und verallgemeinern in
+dieser Behauptung: A l l e B e g r i f f e , die in der k l a s s i s c h e n T h e o r i e
+zur B e s e h r e i b u n g e i n e s m e e h a n i s e h e n      Systeins verwendet
+w e r d e n , l a s s e n s i c h a u c h fiir a t o i n a r e V o r g ~ n g e a n a l o g den
+klassischen Begriffen exakt definieren.                              Die Experimente, die
+soleher Definition dienen, tragen aber rein erfahrungsgeing$ eine Unbe-
+stiinintheit in sieh, wenn wit yon ihnen die simultane Bestiininung zweier
+kanoniseh koniugierten GrSl]en verlangen. Der Grad dieser Unbestimmt-
+heir ist dutch die (auf irgendwelche kanonisch koniugierten GrSl~en er-
+weiterte) Relation (1) gegeben. Es liegt nahe, hier die Quantentheorie
+Init tier speziellen Re]ativit~tstheorie zu verg]eichen. Nach der Relativitgts-
+theorie lgSt sieh das Wort ,,gleichzeiGg" nieht anders definieren, als durch
+Experimente, in welehe die Ausbreitungsgeschwindigkeit des Lichts wesent-
+lieh eingeht. Gabe es eine ,,schgrfere" Definition der Gleichzeitigkeit,
+also z. B. Signale, die sieh unendllch schne]l fortpflanzen, so w~re die
+Relativitgtstheorie unini~g]ieh. Well es solehe Signale abet nicht gibt,
+weil vielmehr in der Definition der Gleichzeitigkeit sehon die Lieht-
+gesehwindigkeit vorkommt, ist Rauin gesehaffen fiir das Postulat der
+k o n s t an t e n Liehtgesehwindigkeit, deshalb steht dieses Postulat mit dein
+sinngeingl]en Gebraueh der W(irter ,,0rt, Geschwindigkeit, Zeit" nieht in
+Widersprueh. :4hnlieh steht es Init der Definition der Begriffe: ,,Elek-
+tronenort, Gesehwindigkeit" in der Quantentheorie. Alle Experimente,
+die wir zur Definition dieser Worte verwenden kSnnen, entha]ten not-
+wendig die durch G]eichung (1) angegebene Ungenauigkeit, wenn sie
+auch den einzelnen Begriff p, q exakt zu definieren gestatten.                         G~be es
+Experimente, die gleiehzeitig eine ,,schi~rfere" Bestiminung yon p und q
+180                                     W. tteisenberg,
+
+
+erm~lg]ichen, als es der GleivJaung (1)entspricht, so wi~re die Quanten-
+mechanik unmSglich. Diese Ungenauigkei~, die dutch Gleiehung (1) ~est-
+gelegt ist, seha[ft also erst Raum fiir die Giiltigkeit der Beziehungen,
+die in den quantenmeehanischen Vertauschungsrela~ionen
+                                           h
+                                  pq     --    qp       ~
+
+
+ihren pr~gnanfen Ausdruck finden; sie ermiiglieht diese Gleiehung, ohne
+dal] der physikalisehe Sinn der GrSl]en p und q geandert werden mill]re.
+      Fiir dieienigen physikalisehen Phanomene, deren quantentheoretisehe
+Formulierung noch unbekannt mist (z. B. die Elektrodynamik), bedeutet
+Gleichung (1) sine Forderung, die zum Auffinden der neuen Gesetze
+niitzlieh sein mag. Fiir die Quantenmechanik lal]t sich Gleiehung (1)
+dutch eine gering[iigige Veral]gemeinerung aus der D i r a c - J o r d a n s c h e n
+Formulierung herleiten. Wenn wir fiir den bestimmten Wert 7 irgend
+eines Parameters den Ort q des Elektrons zu q' bestimmen mit einer
+Genanigkeit ql, so kSnnen wir dieses Faktum durch eine Wahrschein=
+liehkeitsamplitude S (7, q) zum Ansdruck bringen, die nut in einem Gebiet
+der ungefahren Griil~e q, um q' yon Null merklieh versehleden ist. Ins-
+besondere kann man z. B. setzen
+                           ( q _ q~)2    2h i p , (q _ q,)                                  (q _   q,)2
+         S (7, q) prop e     2q12                                , also S S prop e             ql"~             (3)
+Dann gilt f~ir die zu p g~h~irige Wahrscheinlichkeitsamplitude
+                           S(~,2) = ~ S(y, q)S(q,~)dq.                                                          (4)
+
+       Fiir S (q,p) kann naeh J o r d a n gese~zt werden
+                                                            2•ipq
+                                    S(q,2)---- e                  h                                             (5)
+
+Dann wird naeh (4) S (y, 2) nur fiir Werte yon 10, fiir wetehe 2 z~(2 - - 2') ql
+                                                                                                          It,
+nieht wesentlich gr(il]er als 1 ist, merl~bh "con Null verschieden sein.
+Insbesondere gilt im Falle (3):
+                                              2~.i(p~p:)q              ( q ' _ q)2
+                    S(~/,2) p r o p J e             h                 -- ~           d~/,
+d.h.
+                            (p__p,)2 -k 2 ~ t ,.                 ,)                          (p__p,)2
+         S(~, 2)prope        ~            ~ - q tp-p , also S-Sprop e                              p~2 ,
+wo
+
+                                        1~ ql ~             __h.                                                (6)
+                                                            2~
+  0ber den anschaulichen Inhalt der quantentheoretischen Kinematik usw. 181
+
+Die Annahme (3) fiir S (7, q) entspricht also dem experimentellen Faktum,
+dal3 der Weft p' [iir p, der Wert q' ffir q [mit der Genauigkeits-
+beschr~nkung (6)] gemessen wurde.
+      Rein mathematisch ist flit die D i r a c - J o r d a n s c h e Formulierung
+der Quantenmeehanik eharakteristisch, dal] die Relationen zwischen
+p, q, E usw. als Gleiehungen zwischen sehr allgemeinen Matrizen ge-
+schrieben werden kSnnen, derart, dal] irgend elne vorgegebene quanten-
+theoretische Gr(i~e als Diagonalmatrix erscheint. Die MSglichkeit einer
+solchen Schreibweise leuchtet ein, wenn man sich die Matrizen anschaulich
+als Tensoren (z. B. Tr~gheitsmomeate) in mehrdimensionalen Raumen
+dearer, zwischen denen mathematische Beziehungen bestehen. Man kann
+die Achsen des Koordinatensystems, in dem man diese mathematischen
+Beziehungen ausdriickt, immer in die Hauptachsen eines dieser Tensoren
+legen. Schliel]lich kann man die mathematische Beziehung zwischen
+zwei Tensoren A und B auch immer ~turch die Transformationsformeln
+charakterisieren, die ein naeh den Hauptachsen von A orientiertes Ko-
+ordinatensystem in ein anderes iiberfiihren, das nach den Hauptachsen
+yon B orientiert ist. Die letztere Formulierung entspricht der S c h r S -
+dingerschen Theorle. Als die eigenttieh ,invariante", yon allen Ko-
+ordinatensystemen unabh~ngige Formulierung der Quanteamechanik wird
+man dagegen die Diracsche Schreibweise der q-Zahlen ansehen. Wenn
+wir aus ienem mathematischen Schema physikalische Resul~ate ableiten
+wollen, so miissen wir den quantentheoretisehen GrSfien, also den Matrizen
+(oder ,Tensoren" im mehrdimensionalen Raum) Zahlen zuordnen. Dies
+ist so zu verstehen, da~ in ienem mehrdimensionalen Raum eine bestimmte
+Richtung willkiirllch vorgegeben wird (namlich durch die Art des an-
+gestellten Experiments testgesetzt wird) and geiragt wird, welches der
+ ,Wert'~ der Matrix (z. B. in ienem Bride der Wert des Tragheitsmoments)
+in dleser vorgegebenen Riehtung sei. Diese Frage hat nur dann einen
+eindeutigea Sinn, wenn die vorgegebene Richtung mit der Richtung einer
+der Hauptaehsen iener Matrix zusammenfallt; in diesem Falle gibt es
+eine exakte A~twort au~ die gestellte Frage. Aber auch, wenn die vor-
+gegebene Richtung nur wenig abweleht yon der einer der Hauptachsen
+der Matrix, so kann man noch mit einer gewissen durch die relative
+Neigung gegebenen Ungenauigkeit, mit elnem gewissen wahrscheinliehen
+Fehler yon dem ,,Wert" der Matrix in der vorgegebenen Riehtung
+sprechen. Man kann also sagen: Jeder quantentheoretischen Grii~e oder
+Matrix ]~l]t sich eine Zahl, die ihren ,,Wert" angibt, mit einem bestimnmten
+wahrscheinlichen Fehler zuordnen; der wahrscheinliche Fehler hangt vom
+182                                 W. Iteisenberg,
+
+Koordinatensystem ab; ~iir ~ede quantentheoretische GrSi~e gibt es ie ein
+Koordinatensystem, in dem der wahrseheinliehe Fehler fiir diese GrS~e
+versehwindet. Ein bestimmtes Experiment kann also niemals fiber alle
+quantentheoretisehen GrS~en genaue Ausknnft geben, vielmehr t e i l t e s in
+einer fiir das Experiment charakteristischen Weise die physikalischen
+GrS~en in ,,bekannte" und ,,unbekannte" (oder: mehr und weniger genau
+bekannte Griil~en) ein. Die Resultate zweier Experimente lassen sich
+nur dann exakt auseinander herleiten, wenn die beiden Experimente die
+physikalischen Griifien in gleieher Weise in ,, bekannte" und ,,unbekannte"
+einteilen (d. h. wenn die Tensoren in ~enem mehffach zur Yeranschau-
+lichung gebrauchten mehrdimensionalen Raum in beiden Experimenten
+yon der gleichen Richtung aus ,,angesehen" werden). Bewirken zwei
+Experimente verschiedene Einteilungen in ,, Bekanntes" und ,,Unbekanntes",
+so last sich der Zusammenhang der Resultate iener Experimente fiiglich
+nur statistisch angeben.
+      Zur genaueren Diskussion dieses statistischen Zusammenhangs sei
+ein Gedankenexperiment vorgenommen. Ein S t e r n-G e r i a c h seher Atom-
+strahl werde zun~ehst dureh ein Feld F 1 gesehickt, das so stark inhomogen
+in der Strahlrichtung ist, dal~ es merklich viele Ubergitnge durch
+ ,,Schiittelwirkung" hervorruft. Dann laufe der Atomstrahl elne Weile
+frei, in einem bestlmmten Abstand yon F 1 aber beginne ein zweites
+Feld Fg, ahnlieh inhomogen wie F1. Zwischen F1 und F 2 und hinter F:
+sel es m~iglich, die Anzah] der Atome in den versehiedenen stationaren
+Zustanden durch ein eventuel] angelegtes Magne~feld zu messen. Die
+Strablungskrafte der Atome seien Null gesetzt. Wenn wir wissen, dal3
+ein Atom im Znstand der Energie En war, bevor es iF1 passierte , so
+kSnnen wit dieses experlmentelleFaktum dadurch zum Ausdruek bringen,
+dab wit dem Atom eine Wellenfunktion - - z. B. im p-Raum - - mit der
+bestimmten Energie E n und der u n b e s t i m m t e n Phase fin
+
+
+                    S(]~n,p) -7- r                           h
+
+zuordnen. Nach dem Durchqueren des Feldes F~ wird sieh diese Yunktion
+verwandelt haben in 1)
+                          s                               2 g i E m ( a ~- tim)
+              S(En,~V)__ > ~ c n m ~ ( ~ , ~ , p )    e            h              (7)
+                                m
+
+
+
+      a) Vgl. P. Dirac, ]?.roe. Roy. Soc. (A) 11.~, 661, 1926 und M. Born, ZS.
+f. Phys. 40, 167, 1926.
+  [Jber den anschaulichen Inhalt der quantentheoretischen Kinematik usw. 183
+
+Hierin seien die /J~ irgendwie willkiirlich festgesetzt, so dal] die c,~m
+dutch F 1 eindeutig bestimmt sind. Die Matrix cn~ transformiert die
+Energiewerte vor dem Durchgang dutch F 1 auf die nach dem Durchgang
+dutch F l. Fiihren wit hinter F 1 eine Bestimmung der station~ren Zu-
+stande z. B. dutch e~n inhomogenes Magnetfeld aus, so werden wir mit
+einer Wahrscheinlichkeit cn~ c-n~ linden, dal] das Atom vom Zustand n
+in den Zustand m iibergegangen ist. Wenn wir experimentell feststellen,
+dab das Atom eben in den Zustand m wirklich iibergegangen sei, so werden
+wir ihm zur Bercehnung alles Folgenden nicht die Funktion ~             cn,, Sin,
+                                                                    m
+
+sondern eben die Funktion Sm mit unbestimmter Phase zuzuordnen haben;
+durch die expcrimentelle Feststellung: ,,Zustand m" wahlen wir aus der
+Fiille dcr verschiedencn Mjglichkeiten (Cnm) eine bestlmmte: m aus, zer-
+stJren abet gleichzeitig, wie nachher erlfiutert wird, alles, was an Phasen-
+beziehungen noch in den GrJ~en Cnm enthalten war. Beim Durchgang
+des Atomstrahls dutch F~ wiederholt sigh das gleiehe wie bei F v Es
+seien dn, ~ die Koeffizienten der Transformationsmatrix , die die Energien
+vor F~ au~ die nach F~ transformieren. Wenn zwischen F 1 nnd F~ keine
+Bestimmung des Zustandes vorgenommen wird, so verwandelt sieh die
+Eigenfunktion naeh [olgendem Schema:
+                   FI                 "   F2
+
+
+                        ~tt                    ~   1
+
+
+     Es sei ~     Cnradml - - enl gesetzt. Wird der station~re Zustand des
+              m
+Atoms hinter F 2 [estgestellt, so w]rd man mit einer Wahrsche]nlichkeit
+en~ e-n~ den Zustand l linden. Wcnn dagegen zwisehen F~ und 2W~ die
+Festste]]ung: ,,Zustand m" gemaeht wurde, so wird die Wahrscheinlieh-
+keit f~ir ,,~" hinter $'~ durch dmt dm~ gegeben sein. Bei mehrfacher
+Wiederholung des ganzen Experiments (wobei i e d e s m a l zwischen s 1
+und F~ der Zustand bestimmt werde) wird man also hinter _F2 den
+Zustand 1 mit der relativen Hgu~igkelt Z~z ~ ~ c ~ m c n ~ d m z d ~ t beob-
+                                                       m
+
+achten. Dieser A.usdruek stimmt nieht ~iberein mit e~te-~t. J o r d a n (1. c.)
+hat deswegen yon einer ,,Interferenz d er Wahrscheinlichkeiten" gesprochen.
+Dem mJchte ich reich aber nicht ansehliel]en. Denn die beiden Experi-
+mente, die zu ente-nt bzw. Zn~ lighten, sind ia physikaliseh wirklich ver-
+schieden. In einem Falle erleidet das Atom zwischen F 1 und F , keine
+StJrung, im andercn wird es durch die Apparate, die eine Feststcllung
+des stationfiren Zustandes ermJglichen, gestJrt. Diese Apparatc haben
+zur Folge, da~ sich die ,,Phase" des Atoms um prinzipiell ,nkontrollier-
+184                                  W. Heisenberg,
+
+bare Betrage ander~, ebenso, wie sich bei einer Bestimmung des Elek-
+tronenor~es der Impuls ~ndert (vgl. w 1). Das Magnetfeld zur Bestimmung
+des Zustandes zwischen F 1 und F~ wlrd die Eigenwerte E verstimmenl
+bei der Beobaehtung der Bahn des Atomstrahls werden (ieh denke etwa
+an Wilsonaufnahmen) die Atome statistiseh verschieden und lmkontrol-
+lierbar gebremst usf. Dies hat zur Folge, dab die endgfiltige Transforma-
+tionsmatrix en~ (yon den Energiewerten vor dem Eintreten in F 1 auf die
+nach dem Austreten aus F~) nieht mehr dutch ~ cn~nd~z gegeben ist,
+
+sondern ~edes Glied der Summe hat noch einen unbekannten Phasenfaktor.
+Wir k(innen also nur erwarten, dal~ der ~iittelwert von e~,zenl fiber alle
+diese eventuellen Phasenanderungen glelch Zn~ ist. Eine elnfaehe Rechnung
+ergibt, dal~ dies der Fall ist. - - Wir kSnnen also naeh gewissen statisti-
+sehen Regeln yon einem Experiment auf die miigliehen Resultate eines
+anderen schlie~en. Das andere Experiment selbst waMt aus der Fiille
+der Miiglichkeiten eine ganz bestimmte aus und beschrankt dadurch fiir
+alle sp~teren Experimente die Miiglichkeiten. Eine solehe Deutnng der
+Gleiehung flit die Transformationsmatrix S oder der S e h r ( i d i n g e r s e h e n
+Wellengleiehung ist nut deshalb miiglieh, weft die Summe yon L(isungen
+wieder elne Liisung darstellt. Darin erblieken wir den tiefen Sinn der
+Linearitat der S e h r S d i n g e r s c h e n Gleichnngen; deswegen kSnnen sie
+nur als Gleichungen fiir Wellen im Phasenraum verstanden werden und
+deswegen miichten wir ~eden Versuch, diese Gleichungen z.B. im relativi-
+stischen Falle (bei mehreren Elektronen) dutch nlehtlineare zu ersetzen,
+fiir aussiehtslos halten.
+        w         D e r U b e r g a n g y o n der M i k r o - zur M a k r o m e c h a n i k .
+Dureh die in den vorausgehenden Abschnitten durchgefiihrte Analyse der
+Worte ,Elektronenort", ,Geschwindigkeit" , ,Energie" usw. scheinen
+mir die Begriffe der quantentheoretischen 'Kinematik und Meehanik hin-
+reiehend geklart, so dal} ein anschauliches Verstgndnis auch der makro-
+skopischen Vorg~nge yore Standpunkt der Qaantenmechanik aus mCiglieh
+seln mu~. Der Ubergang yon der .Mikro- zur Makromechanik ist sehon
+yon S c h r i i d i n g e r 1) behandelt worden, aber ich glaube nieht, dab die
+S e h r S d i n g e r s c h e Uberlegung das Wesen des Problems trif[t, und zwar
+aus folgenden Gr'finden: Nach S c h r ( i d i n g e r soil in hohen Anregungs-
+zust~nden eine Summe yon Eigenschwingungen ein nich~ al]zu grol~es
+Wellenpaket ergeben k(innen, das seinerseits unter periodisehen Xnderungen
+seiner Gr~ifle die periodischen Bewegungen des klassischen ,Elektrons"
+      1) E. Schriidinger, Naturwiss. ][4, 664, 1926.
+  ~ber den anschaulichen Inhalt der quantentheoretischen Kinematik usw. 185
+
+ausfi~hrt. Hiergegen ist folgende~ einzuwenden: Wenn das WeUenpaket
+solche Eigenschaften butte, wie sie bier beschrieben wurden, so w~re die
+yore Atom ausgesandte Strahlung in eine Fourierreihe entwickelbar, bei
+der die Frequenzen der Obersehwingungen ganzzablige Vielfache einer
+Grundfrequenz sind. Die Frequenzen der vom Atom ausgesandten
+Spektrallinien sind abet nach der Quantenmechanik hie ganzzahlige Vie]-
+faehe einer Grundfrequenz - - ausgenommen den Spezialfall des harmo-
+nisehen Oszillators. S e h r ~ d i n g e r s Uberlegung ist also nur fi~r den yon
+ihm behandelten harmonischen Oszil]ator durchfiihrbar, in a l l en an d e r e n
+F~llen breitet sich im Laufe der Zeit ein Wellenpaket fiber den ganzen Raum
+in der Umgebung des Atoms aus. Je hSher der Anregungszustand des Atoms
+ist, desto langsamer erfolgt iene Zerstreuung des Wellenpakets. Aber wenn
+man lange genug wafter, wird sie eintreten. Da~ oben angefi~hrte
+Argtunent fiber die yore Atom ausgesandte Strahlung lal3t sich zunachst
+gegen a l l e Versuche unwenden, die einen direkten 1Jbergang der Quauten-
+meehanik in die klassisehe ffir hohe Quantenzahlen erstreben. Man hat
+deshalb frfiher versucht, jenem Argument durch Hinweis auf die natfir-
+liche Strahhngsbreite der stationaren Zust~nde zu entgehen; sieherlich
+zu Unreeht, denn erstens ist dieser Ausweg schon beim Wasserstoffatom
+wegen der gerlngen StraMung in hohen Zust~nden versperr~, zweitens
+mu$ der Ubergang der Quantenmeehanik in die klassische auch ohne
+Anleihe bei der Elektrodynamik verst~tndhch sein. Auf diese bekannten
+Sehwierigkeiten, die einer direkten Verbindung der Quantentheorie mit
+der klassischen im Wege stehen, hat sehon trfiher B o h r 1) mehrfach hin-
+gewiesen. Wir haben sie nut deswegen wieder so ausfiihrlich erl~utert,
+well sie neuerdings in Vergessenheit zu geraten seheinen.
+      Ich glaube, dab man die Entstehung der klassischen ,Bahn" pre-
+gnant so formulieren kann: Die ,, B a h n " e n t s t e h t e r s t d a d u r c h , da$
+w i r sie b e o b a e h t e n : Sei z. B. eln Atom im 1000. Anregungszustand
+gegeben. Die Bahndimensionen sind hier sehon relativ groin, so da$ es
+im Sinne yon w 1 gen:dgt, die Bestimmung des Elektronenortes mit ver-
+haltnismai3ig langwelligem Licht vorzunehmen. Wenn die Bestimmung
+des Ortes nieht allzu ungenau sein soil, so wlrd der Comptonriickstol3
+zur Folge haben, da$ das Atom sieh naeh dem Stol~ in irgend einem
+Zustand zwischen, sagen wit, dem 950. und 1050. befindet; gleichzeitig
+kann tier Impuls des Elektrons mlt einer aus (1) bestimmbaren Genauig-
+keit aus dem Dopplereffekt geschlossen werden. Das so gegebene ex-
+
+      1) ~N'.Bohr, Grandpostulate der Qaantentheorie, 1. c.
+1S(i                         W. Heisenberg,
+
+perimentelle Faktum kann man durch ein Wellenpaket - - besser Wahr-
+scheinlichkeltspaket - - im q-Raum yon einer dureh die Wellenlange des
+benutzten Lichtes gegebenen GrSl]e, zusammengesetzt im wesentlichen
+aus Eigenfunktionen zwischen der 950. und der 1050. Eigenfunktion,
+und dureh ein entspreehendes Paket ira p-Itaum charakterisieren. Nach
+einiger Zeit werde eine neue 0rtsbestimmung mit der gleichen Genauigkeit
+ausgefiihrt. Ihr Resultat ]aBt sich naeh w 2 nur statistiseh angeben, als
+wahrseheinliehe Orte kommen alle i~nerhalb des nun schon verbreiterten
+Wellenpakets mit bereehenbarer Wahrseheinliehkeit in Betraeht. Dies
+ware in der klassisehen Theorie keineswegs anders, denn auch in der
+klassisehen Theorie ware das Resultat der zweiten Ortsbestimmung wegen
+der Unsieherheit der ersten Bestimmung nur sta~istiseh angebbar; aueh
+die Systembahnen der klassischen Theorie wtirden sieh ahnlieh ausbreiten
+wie das Wellenpaket. Allerdings sind die statistisehen Gesetze selbst
+ill der Quantenlneehanik und in der klassisehen Theorie versehieden. Die
+zweite 0rtsbestimmung wahlt aus der Fiille der MSglichkeiten eine
+bestimmte ,,q" aus und beschrankt fiir alle folgenden Bestimmungen die
+M0gliehkeiten. Nach der zweiten Ortsbes~immung kSnnen die Resu]tate
+sp~terer Messungen nur bereehnet werden, indem man dem Elektron
+wieder ein ,,kleineres" Wellenpaket der Grbl]e s (Wellenl~nge des zur
+Beobaehtung benutzten Liehtes) zuordnet. Jede Ortsbestimmu~g redu-
+ziert also das Wellenpaket wieder auf seine urspriingliehe GrSl]e ~.
+Die ,,Werte" der Variablen p und q sind wahrend aller Versuehe
+mit einer gewissen Genauigkeit bekannt. Dal] die Werte yon p und q
+innerhalb       dieser     Genauigkeitsgrenzen            den klassisehen
+ Bewegungsgleiehungen Folge leisten, kann direkt aus den quanten-
+ meehanischen Gesetzen
+                              OH               OH
+                                                                       (9)
+
+geschlossen werden. Die Bahn kann aber, wie gesagt, nur statistiseh
+aus den Anfangsbedingungen berechnet werden, was man als Folge der
+prinzipiellen Ungenauigkeit der Anfangsbedinglmgen betraehten kann.
+Die statlstisehen Gese~ze sind [~r die QuantenmecharSk und die klassisehe
+Theorie versehieden; dies kann unter gewissen Beding, ungen zu groben
+makroskopisehen Untersehieden zwisehen klassiseher und Quantentheorie
+ftihren. Bevor ich ein Beispiel hierfiir diskutiere, mSehte ieh an einem
+einfachen meehanischen System: der kraftefreien Bewegung emes Massen-
+punktes, zeigen, wie der oben diskutierte Ubergang zur klassischen Theorie
+  0ber den anschaulichen Inhalt der quantentheoretischen Kinematik usw. 187
+
+mathematisch zu formalieren ist.           Die Bewegungsgleichungen tauten (bei
+eindimeasionaler Bewegung)
+                                 1               1
+                       H=       ~p2;      4 ~-~ r a P ;       k =          O.                (10)
+
+Da dis Zeit als Parameter (als ,,c-Zahl")behandelt werden kann, wenn
+keine yon der Zeit abh~ngigen gul~eren K r ~ t e vorkommen, so lautet die
+LSsuag dieser Gleiehangen:
+                                   1
+                         q ~-- mPo t + qo ;                 P --~ Po,                        (11)
+
+wo Po uad qo Impals and Ort zur Zeit t : 0 bedeuten. -Zur Zeit
+t : 0 werde [siehe Gleiehung (3) his (6)] der W e f t qo : q' mit der
+Genauigkeit ql, /00 : 2' mit der Genauigkeit /0x gemessen. Um aus
+den ,,Werten" yon Po and qo anf dis ,,Werte" yon q zur Zeit t zu
+schlie~en, mul] aach D i r a e and J o r d a n dieienige Transformatioasfunk-
+tion gefuaden werden, die alle Matrizen, bei denen qo als Diagonalmatrix
+erseheint, in solehe transformiert, bei denen q als Diagonalmatrix erscheiat.
+Po kann in dem Ma~rixschema, in dem qo als Diagonalmatix erseheint, durch
+                 It    0
+den Operator -2- ~ i O
+                     - -qo ersetzt werden. Nach D i r a e [L e. Gleiehung (11)]
+
+gilt dana fiir die gesuchte Transformationsamplitude S (qo, q) die Diffe-
+rentialgleichung :
+
+                         mt 2:rih 0%
+                                   O +qo ,I S(qo, q) --~- qS(qo, q)                          (12)
+
+
+                             .~ 2~i Oqo        qo        q S(%,q)
+
+                         S (%, q) =    coast, e               h. t                           (13)
+      S S ist also yon qo unabhangig, d.h. weml zur Zeit t = 0 qo exakt
+bekannt ist, so sind zu irgendweleher Zeit t ~ 0 alle Werte yon q
+gleieh wahrscheinlleh, d.h. die Wahrseheinliehkeit, dal3 q in einem end-
+lichen Bereieh liegt, ist tiberhanpt Null. Dies ist ia ansehaulieh auch
+ohne weiteres Mar.       Denn die exakte Bestlmmung yon qo ftihrt zu
+unendlieh grol]em Comptonrticksto~.     Das gleiche wiirde natiirlieh _~iir
+iedes beliebige mechanisehe System gelten. Wenn abet qo zur Zeit t = 0
+nur mit einer Genaulgkeit q~ and /00 mit der Genaaigkeit 1o1 bekannt
+war [vgl. Gleiehung (3)]
+                                             (qo - - q,)2     2 ~l:
+                                                                      P ' (qo - - q')
+                   S (~, qo) ---- eonst, e        ~ql2          h
+   ZeitsehN~t fiir Physik.   Bd. ~ .                                                    13
+188                                   W. Heisenberg,
+
+so wird die Wahrscheinlichkeitsfuaktion fiir q nach der Formel
+                       8 (~, q) ---- ~ 8 (~, q0) S (qo, q) d qo
+zu berechnen sein.      Es ergibt sich
+                               2~im[qo(q_mp)t qo212J         ,                         (qt--q~
+       S.(~, q)      eonst. ~ e-i~--                                                      2q~2 dqo.        (!4)
+Fiihrt man die Abkiirzung
+                                                 th
+                                      fl - - 2 z m q ~                                                     (15)
+ein, so wird der Exponent in (14)
+             1
+                                  -
+
+
+
+
+Das Glied mit q,2 kann in den konstanten (yon q unabhgnglgen Faktor)
+einbezogen werden und die Integration ergibt
+                                                      I" r       i /            t      1\12
+
+                                             2 ql 2                         i
+                  S(~,q) ~    const.e                             1+-~                        ,            (16
+
+
+                              COnSt.     e                   2 q l 2 (1 -~- f12)
+Daraus tolgt
+                                                                 (q__~p t           , _q')2
+
+                  S (~, q) S (7,q) =         const, e              q~2(1 + f12)                            (17)
+                                                                                                      4
+      Das Elektron befindet sieh also zur Zeit t an der Stelle L~o' ~- q'
+                                                                                                      9n
+mit einer Genauigkeit ql ~]- -~- f12. Das ,Wellenpaket" oder besser
+,Wahrscheinliehkeitspaket" hat sieh um den Faktor V 1 ~- f12 vergr~l]ert.
+fl ist nach (15)proportional der Zeit t, umgekehrt proportional der Masse
+--   dies ist unmlttelbar plausibel - - und umgekehrt proportlonal q~. Eine
+allzu grolle Genauigkeit in qo bat eiae grofle Ungenauigkeit in lOo zur
+Folge und ftihrt deshalb auch zu einer grol]en Ungenauigkelt in q. Der
+Parameter 7, den wit oben ans formalen Griinden eingefiihrt hatten,
+kiinnte hier in allen Formeln weggelassen werden, da er in die Rech-
+nung nieht eingeht.
+       Als Beispiei daftir, daft der Unterschled der klassisehen statlstischen
+Gesetze yon den quantentheoretischen unter Umstiinden zu groben
+makroskopischen Untersehieden zwischen den Resultaten beider Theorlen
+fiihrt, sei die Reflexion eines Elektronenstromes an einem Gitter kurz
+diskutiert.     Wenn die Gitterkonstante von der Gr(iflenordnung der
+   ~ber den anschaulichen Inhalt der quantentheoretischen Kinematik usw. 189
+
+de B r o g l i e s c h e n Wellenlgnge der Elektronen ist, so er[olgt die
+Reflexion in bestimmten diskreten Raumrichtungen, wie die Reflexion
+yon Licht an einem Gitter.             Die klassische Theorie gibt bier grob
+makroskopiseh etwas anderes: Tro~zdem kSnnen wit keineswegs an der
+Bahn eines einzelnen Elektrons einen Widersprueh gegen die klassische
+Theorie feststellen. Wir kSnnten es, wenn wir das Elektron etwa ant
+eine bestimmte Stelle eines Gitterstriehs lenken kSnnten und dann fest-
+stellen, dal] die Reflexion dort unklassisch erfolgt. Wenn wit den
+0rt des Elektrons aber so genau bestimmen wollen, da~ wir sagen
+kSnnen, auf welehe Stelle eines Gitterstriehs es trifft, so bekommt das
+Elektron dureh diese Ortsbestimmung eine grol~e Geschwindigkeit, die
+de B r o g l i e s c h e Wellenlange des Elektrons wird um so viel klelner,
+da~ mm die Reflexion wirklieh in dieser N~herung in der klassiseh
+vorgeschriebenen Riehtung erfolgen kann and wird, ohne den quanten-
+~heoretischen Gesetzen zu wldersprechen.
+      w 4. D i s k u s s i o n e i n i g e r b e s o n d e r e n G e d a n k e n e x p e r i m e n t e .
+Nach der hier versuehten ansehaulichen Dentung der Quantentheorie
+miissen die Zeitpunkte der ]Jberg~nge, der ,,Quantensprange" ebenso
+konkret, durch Messungen festste]lbar sein, wie etwa die Energien in
+stationaren Zustanden. Die Genauigkeit, mit der ein solcher Zeitpunkt
+                                                                   h
+ermittelbar ist, wird nach Gleiehung (2) dutch ~                         gegeben sein 1), wean
+
+J E die Anderung der Energie beim Quantensprung bedeutet.    Wir
+denken etwa an folgendes Experiment: Ein Atom, zur Zeit t ~ 0 im
+Znstand 2, mSge dutch Strahhng in den •ormalzustand 1 iibergehen.
+Dem Atom kann dann etwa analog zu Gleichung (7) die Eigenfunktion
+                                    _   2   ~iE2t                                      .2 ~ i E i t
+S(t,~) ~- e-~t~p(E~,~)e                      h      d- ?1 --e-2~t~p(El,~v)e                  h        (18)
+
+zugeordnet werden, wenn wir annehmen, daft die Strahlungsd~mp[ung sich
+in einem Faktor der Form e- ~ t in den Eigentunktionen aul~ert (die
+wirkliche Abhangigkeit ist vielleicht nicht so einfaeh). Dieses Atom
+werde zur ~[essung seiner Energie durch ein inhomogenes Magnet[eld
+geschick~, wie dies beim Stern-Gerlachversueh tiblich ist, doeh soll das
+unhomogene Feld dem Atomstrahl ein langes Stack Weges folgen. Die
+jeweilige Besehleunigung wird man etwa dadurch messen, da~ man die
+ganze Streeke, die der Atomstrahl im Magnetfeld durehmi~, in kleine
+
+       1) Vgl. W. Pauli, I. c. S. 12.
+                                                                                       13"
+190                                W. tteisenberg,
+
+Teilstrecken einteilt, an deren Ende man jeweils die Ablenkung des
+Strahles feststellt. Je nueh der Geschwindigkeit des Atomstrahles ent-
+sprieht tier Einteilnng in Teils~reeken am Atom eine Einteilung in kleine
+Zeitingervalle z/t. Naeh w 1, Gleiehung (2) entsprieht dem Intervall z / t
+                                           h
+eine Genauigkei~ in der Energie yon ~ ) .       Die Wahrseheinlichkeit,
+
+eine bestimmte Energie E zu messen, l~ft sieh direkt sehliel3en aus
+S ( p , E ) und wird daher im Intervall yon n z / t his ( n @ 1) A t be-
+reehnet dureh :                   (n+z)zt
+                                   /.
+                                            2~iEt
+                                                           h
+                         S (~, E) =          | S (2, t)e       d t.
+                    nAt---~- (n + 1 ) A t
+                                            n ~t
+
+Wenn zur Zei~ (n~-l) A t die Feststellung: ,,Zustand 2" gemaeht wird,
+so ist dem Atom ~iir ulles sp~tere nieht mehr die Eigenfunktion (18) zu-
+zuordnelb sondern eine, die aus (18) hervorgeht, wenn man t durch
+t - (n q - 1 ) A t ersetzt. Ste]lt man dagegen test: ,,Zustand 1% so ist
+dem Atom yon da ab die Eigenfunktion
+                                              _ ~TeiElt
+
+
+
+zuzuordnen. Man wird also zun~ehst in elner Reihe yon IntervalIen z / t
+beobachten: ,,Zustand 2", dann dauernd ,,Zustand 1% Damit ebae
+Unterseheidung der beide~ Zustgnde noch m~glich sei, dare A t nicht
+        h
+unter ~ - ~ herabgedr~ick~ werden. Nit dieser Genauigkeit ist also tier
+
+Zeitpunkt des Ubergangs bestimmbar. Ein Experiment von der eben
+gesehilderten Art meinen wit ganz im Sinne der alten yon P l a n c k ,
+E i n s t e i n und B o h r begrtindeten Auffassung der Quantentheorie, wenn
+wir yon der diskontinuierliehen Xnderung der Energie sprechen. Da ein
+solches Experiment prinzipiell durchft~hrbar ist, mu$ eine Einigung iiber
+seinen Ausgang mSglich sein.
+        In ]3 o h r s Grundpostulaten der Quantentheorie hat die Energie
+eines Atoms ebenso, wie die Werte der Wirkungsvariabeln or vor
+anderen Bestimmungsstt~cken (Ort des Elektrons usw.) den Vorzug, daft
+sich ihr Zahlwert stets angeben lal3t. Diese Vorzugsstellung, die die
+Energie den anderen quantenmeehanisehen GrSl3en gegentiber einnimmt,
+verdankt sie indessen nur dem gmstand, dal~ sie bei abgesehlossenen
+Systemen ein Integral der Bewegungsgleichungen darstellt (~fir die
+Energiematrix gilt E ~ eonst); bei nieht abgesehlossenen Systemen
+wird dugegen die Energie sieh vor keiner anderen quantenmeehanisehen
+   Uber den anschaulichen Inhalt tier quantentheoretischen Kinematik usw.. ]91
+
+GrS~e auszeichnen.     Insbesondere wird man Experimente angeben
+kSnnen, bei denen die Phasen w des Atoms exakt mel3bar sind, bei
+denen dann abet die Energie prinzipiell unbestimmt bleibt, einer Rela-
+                       h
+tion . ~ w - - w J z 2 ~ oder J l w l . ~ h entspreehend.  Ein solches
+
+Experiment stellt z. B. die Resonanz[luoreszenz dar.                     Bestrah]t man ein
+
+Atom mit einer Eigen~requenz, sagen w i r v 12 - - E2 -h- E1, so sehwingt
+
+das Atom in Phase mit der ~ui3eren Strahlung, wobei es prinzipiell keinen
+Sinn hat, zu fragen, in welchem Zustand E 1 oder E 2 das Atom so
+schwingt. Die Phasenbeziehung zwischen Atom und gul]erer Strahlung
+lgJ]t sich z.B. dureh die Phasenbeziehung vieler Atome un~ereinander
+( W o o d s Versuche) feststellen. Will man yon Experimenten mit Strah-
+lung lieber absehen, so kann man die Phasenbeziehung auch so messen,
+dab man genaue Ortsbestimmungen im Sinne des w 1 des Elektrons zu
+versehiedenen Zeiten relativ zur Phase des eingestrahlten Liehtes (an
+vielen Atomen) vornimmt. Dem einze]nen Atom wird etwa die ,,We]len-
+~unktion ~'                 ~s i (z~ t + #)                                          2~ r Ext
+s (~, t) ~ c~ ~,~ (e~, ~) e        h        + ~/'1 - - c~ .~ ( z .            ~) e      h (19)
+zugeordnet werden kSnnen; hierin h~ngt c~ yon der Starke und fl yon
+der Phase des eingestrahlten Liehtes ab. Die Wahrseheinliehkeit eines
+bestimmten Ortes q isb also
+
+
+             --   (         2 ~ i [ ( N 2 - - E t ) t + ~]   --     -~
+                                                                  + ~[-[(ls          t+fl]   ) (20)
+Das periodische Glied in (20) ist vom unperiodisehen experimentel]
+trennbar; da die Ortsbestimmungen bei versehiedenen Phasen des ein-
+gestrahlten Liehtes ausgefiihrt werden kOnnen.
+      in einem bekannten yon B o h r angegebenen Gedankenexperiment
+werden die Atome eines S t e r n - G e r l a e h s e h e n Atomstrahls zun~ehst an
+einer bestimmten Stelle dureh eingestrahl~es Lieht zur Resonanzfluoreszenz
+erregt. Nach einem Stiiek Weges dureh]aufen sie ein inhomogenes
+Magnetfeld; die yon den Atomen ausgehende Strahlung kann wahrend
+des ganzen Weges, vor und hinter dem Magnet[eld, beobaehtet werden.
+Bevor die Atome in das Magnet~eld kommen, besteht gew~Jhnliehe Re-
+sonanzfluoreszenz, d.h. analog zur Dispersionstheorie mull angenommen
+werden, dal] alle Atome in Phase mit dem einfallenden Licht Kugelwellen
+aussenden. Diese letzte Auf~assung steht zun~chst im Gegensatz zu dem,
+192                           W. Heisenberg,
+
+was eine grebe Anwendung der Liehtquanteatheorle oder der quanten-
+theoretisehen Grundregeln ergibt: denn aus ihr w~irde man sehliel]en, dab
+nur wenige Atome in den ,,oberen Zustand" dureh Aufnahme eines Lieht-
+quants gehoben werden, die gesamte Resonanzstrahlung kame also yon
+wenigen intensivstrahlenden erregten Zentren. Es lag daher ~riiher nahe,
+zu sagen: die Lichtquantenauffassung darf hier nur [iir die Energie-
+Impulsbilanz herangezogen werden, ,,in Wirkliehkeit" strahlen alle Atome
+im unteren Zustand sehwach und koharent Kugelwellen aus. Nachdem
+die Atome das Magnetfeld passiert haben, kann abet kaum ein Zweifel
+sein, dal~ der Atomstrahl sieh in zwei Strahlen geteilt hat, yon denen
+tier eine den Atomen im oberen, der andere den Atomen im unteren Zu-
+stand entsprieht. Wenn nun die Atome im unteren Zustand strahlen, so
+]gge hier eine grebe Verletzung des Energiesatzes vor, denn die gesamte
+ Anregungsenergie steekt in dem Atomstrahl mit den Atomen im oberen
+ Zustand. u           kann kein Zweifel dartiber sein, dab hinter dem
+ Magne~feld nut der eine Atomstrahl mit den oberen ZustRnden Lieht - -
+ und zwar unkohgrentes Lieht - - der wenigen intensiv strahlenden Atome
+ im oberen Zustand aussendet. Wie B o h r gezeigt hat, maeht dieses
+ Gedankenexperiment besonders deutlieh, welche Vorsicht manehmal bei
+ der Anwendung des Begriffs: ,,stationgrer Zustand" nStig ist. V o n d e r
+ bier entwickelten Auffassung der Quantentheorie aus lal]t sich eine Dis-
+ knssion des Bohrsehen Experiments ohne Sehwierigkeiten durchfiihren.
+ In dem gul]eren Strah]ungsfelde sind die Phasen der Atome bestimmt,
+ also hat es keinen Sinn, yon der Energie des Atoms zu spreehen. Aueh
+ nachdem das Atom das Strahhngsfeld verlassen hat, kann man nieht
+ sagen, dab es sieh in einem bestimmten stationgren Zustand befgnde, so-
+ fern man nach den Kohgrenzeigensehaften der Strahhng fragt. Man
+ kann aber Experimente anstellen, zu priifen, in welehem Zustand das
+ Atom sei; das Resultat dieses Experiments l~l]t sieh nur statistiseh an-
+ geben. Ein solehes Experiment wird dureh das inhomogene Magnetfeld
+ wirk]ich durchgefiihrt. Hinter dem Magnetfeld sind die E n e r g i e n der
+ Atome bestimmt, also die Phasen unbestimmt. Die Strahlung erfolgt
+  hier inkohgrent und nur yon den Atomen im o b e r e n Zustand. Das
+  Magnetfeld bestimmt die Energien und zerst~rt daher die Phasenbeziehung.
+  Das B ohrsche Gedankenexperiment ist eine sehr sehSne Erlguterung der
+  Tatsache, dab aueh die Energie des Atoms ,,in Wirkliehkeit" keine Zahl,
+  sondern eine Matrix ist. Der Erhaltungssatz gilt ffir die Energiematrix
+  und deswegen aueh ftir den Weft der Energie so genau, als dieser jeweils
+  gemessen wird.    Rechneriseh l~l]t sich die Aufhebung der Phasen-
+  l)ber den anschaulichen Inhalt der quantentheoretisehen Kinematik usw. 193
+
+beziehung etwa so verfolgen: Seien Q die Koordinaten des Atomschwer-
+punktes, so wird man dem Atom start (19) die Eigenfunktion
+                          S(Q, t) s(q, t) = S(Q, q, t)                                (21)
+znordnen, wo S (Q, t) eine Funktion ist, die [wie S (~, q) in (16)] aur in
+einer kleinen Umgebung eines Puuktes im Q-Raum yon Null versehieden
+ist und sich mit der Geschwindigkeit der Atome in der Strahlrichtung
+fortpflanzt.  Die Wahrseheinlichkeit einer relativen Amplitude q fiir
+irgendwelche Werte Q ist gegeben dutch das Integral yon
+               S ( Q, q, t) S ( Q, q, t) tiber Q, d. h. dureh (20).
+Die Eigen~unktion (21) wird sieh aber im Magneffeld bereehenbar ver-
+~tndern and sieh wegen der versehiedenen Ablenkung der Atome im
+oberen und unteren Zustand hinter dem Magneffeld verwandelt haben in
+                                         2 ~ i (E2 t + fl)
+         S(Q,q,t) :       c~Sp(Q,t)$2(E~, q)e                 h
+                                                                             2~iElt
+                                  ~ - ~ I - - c ~ S l (Q, t) ~pl (El, q) e     h      (22)
+S 1 (Q, t) und S 2 (Q, t) werden Funktioaen des Q-Raumes sein, die nur in
+einer kleinen Umgebung eines Punktes yon Null versehleden sind; aber
+dieser Punkt ist ftir S 1 ein anderer, als fi~r S~. S z S: ist also ~berall
+Null. Die Wahrscheinlichkeit einer relativen Amplitude q und eines be-
+stimmten Wertes Q ist daher
+      S (Q, q, t) S-(Q, q, t) :     c~ S~ S~ ~ ~p~ -b (1 - - c~) S 1 ~ ' 1 ~ .        (23)
+Das periodisehe Glied aus (20) ist verschwunden, und damit die M(iglich-
+keit, eine Phasenbeziehung zu messen. Das Resultat der statistischen
+0rtsbestimmung wird immer dasselbe sein, gleichgtiltig, bei welcher Phase
+des ein~allenden Liehtes sie vorgenommen werde. Wir diirfen annehmen,
+da~ Experimente mit Strahlung, deren Theorie ja noch nieht durchgettihr~
+ist, die gleichen Resultate tiber die Phasenbeziehungen der Atome zum
+einfallenden Lieht ergeben werden.
+      Zum Seh]uI3 sei noeh der Zusammenhang der Gleichung (2) E l t I ~,~ h
+mit einem Problemkomplex studier~, den E h r e n f e s t         und andere
+Forseher x) an Hand des Bohrschen Korrespondeuzprinzips in zwei
+wichtigen Arbeiten diskutiert habenP).       E h r e n f e s t und T o l m a n
+spreehen yon ,,schwaeher Quantisierung", wenn eine gequantelte perio-
+dische Bewegung dureh Quantenspriinge oder andere StSrungen unter-
+
+     1) p. Ehrenfest und G. Breit, ZS. f. Phys. 9, 207, 1922; und P. Ehrea-
+lest and R. C. Tolman, Phys. Rev. 24, 287, 1924; siehe auch die Diskussion
+bei N. Bohr, Grundpostulate der Quantentheorie 1. c.
+     ~-) Auf diesen Zusammenhang hat faith Herr W. Pauli hipg wiesen.
+194                              W. Heisenberg,
+
+brochen wird in Zeitintervallen, die nieht als sehr lange im Verh~ltnis
+zur Periode des Systems angesehen werden kOnnen. Es sollen in diesem
+F-rile nicht nur die exakten quantenm~13igen Energiewerte vorkommen,
+sondern mit einer geringeren qualitativ angebbaren a priori-Wahrsehein-
+liehkeit aueh Energiewerte, die nieht allzu weir yon den quantenm~fligen
+W erten abweichen. In der Quantenmechanik ist dieses Verhalten so zu
+deafen: Da die Energie dutch die ~ufleren StSrungen oder die Quanten-
+sprtinge wirklich vergndert wird, so mul~ iede Energiemessung, sofern sie
+eindeutig sein soll, sich in einer Zeit zwischen zwei StSrungen abspielen.
+Dadurch ist eine obere Grenze far t I im Sinne yon w 1 gegeben. Den
+Energiewert Eo eines gequantelten Zustandes messen wir also auch nur
+                                         h
+mit einer Genauigkeit L'1 -,~ - - .            Dabei hat die Frage, ob das System
+                                        tl
+solche Energiewerte E, die von E o abweichen, ,,wirklich" mit dem ent-
+sprechend kleineren statistischen Gewieht annehme, oder ob ihre experi-
+mentelle Feststel]ung nut an der Ungenauigkeit der }[essnng liege,
+prinzipiell keinen Sinn. Ist t 1 kleiner als die Periode des Systems, so
+hat es keinen Sinn mehr, yon diskreten stationaren Zustgnden oder dis-
+kreten Energiewerten zu sprechen.
+      E h r e n f e s t and B r e i t (1. c.) machen in ghnlichem Zusammenhang
+ant das folgende Paradoxon aufmerksam: Ein Rotator, den wir uns etwa
+als Zahnrad denken wollen, sei mit einer Vorrichtung versehen, die nach
+f Umdrehungen des Rades die Drehrichtung gerade nmkehrt. Das Zahn-
+rad greife etwa in eine Zahnstange ein, die ihrerseits zwisehen zwei
+Kl5tzen linear verschiebbar ist; die K1Otze zwingen nach einer be-
+stimmten Anzahl Drehungen die Stange und damit das Rad znr Umkehr.
+Die wahre Periode ir des Systems ist lang im Verhgltnis zur Umlaufs-
+zeit t des Rades; die diskreten Energiestnfen liegen entsprechend dicht,
+and zwar um so dichter, je grSl]er T ist. Da vom Standpunkt der
+konsequenten Quantentheorie aus alle stationaren Zust~nde gleiches
+statistisches Gewich~ haben, werden fiir hinreichend gro~]es / ' praktisch
+alle Energiewerte mit gleicher Haufigkeit vorkommen - - im Gegensatz
+zu dem, was far den Rotator zn erwarten wgre. Dieses Psradoxon wird
+dnreh Betrachtung von unseren Gesichtspunkten aus zun~tchst noch ver-
+schgrft. Um ngmlich festzustellen, ob das System die zum reinen Ro-
+tator gehSrigen diskreten Energiewerte allein oder besonders haufig
+annehmen wird, oder ob es mit gleicher Wahrscheinlichkeit alle msglichen
+
+Werte (d. h. Werte, die den kleinen Energiestufen h entsprechen)             an-
+  Uber den anschaulichen inhalt der quantentheoretisehen Kinematik usw. 195
+
+nimmt, geniigt eine Zeit tl, die klein im u              zu T (uber ~ t) ist;
+d. h. obwohl die gro~e Periode fiir solche )Iessungen gar nieht in Wirk-
+samkeit tritt, ~ul]ert sie sieh sehe~nbar darin, dai~ a]le mSglichen Energie-
+werte au~treten kSnnen. Wir sind der Ansieht~ dai] so]che Experimente
+zur Bestimmung der Gesamtenergie des Systems auch w i r k l i e h nile
+mSglieben Energiewerte gleiehwahrseheinlieh ]~efern wiirden; und zwar ist
+an diesem Ergebnis nicht die grol]e Periode T, sondern die linear versehieb-
+bare Stange sehuld. Selbst wenn sieh das System einmal in einem Zu-
+stand be~indet~ dessen Energie der Rotatorquantelung entsprieht, so kann
+es durch ~u~ere ](r~fte, die an der Stange angreifen, leieht in so]che
+tibergefiihrt werden, die tier Rotatorquantelung nieht entspreehenl). Das
+gekoppelte System: Rotator und Stange, zeigt eben ganz andere Perio-
+dizit~tseigenschaften als der Rotator. Die L~isung des Puradoxons ]iegt
+vielmehr ira folgenden: Wenn wir die Energie des Rotators al]ein messen
+wollen, miissen wir erst die Kopphng zwisehen Rotator nnd Stange
+lbsen. In der k]assisehen Theorle kSnnte bet hinreiehend kleiner Masse
+tier Stange die LSsung tier Kopphng ohne Energieanderung gesehehen,
+deshalb k(innte dort die Energie des Gesamtsystems der des Rotators
+(bet kleiner Masse tier Stange) gleiehgesetzt werden. In der Quanten-
+mechanik ist die Weehselwirkungsenergie zwisehen Stange and Rad
+mindestens yon der g]eiehen GrS~enordnung, wie eine Energiestufe des
+Rotators (auch bei kleiner Masse der Stange bleibt fiir die elastische
+Weehselwlrkung zwischen Rad und Stange eine hohe Nullpunktsenergle !) ;
+bet LSsung der Kopplung ste]len sieh fiir Stange und Rad einzeln ihre
+quantenma~igen Energiewerte her. Sofern wir also die Energiewerte
+des Rotators u l l e i n messen kSnnen, linden wir stets mit der dureh das
+Experiment gegebenen Genauigkeit die quantenm~l~igen Energiewerte.
+Aneh bei versehwindender Masse der Stange ist aber die Energie des
+g e k o p p e l t e n Systems yon der Energie des Rotators versch~eden; die
+Energie des gekoppelten Systems kann alle m~ig]iehen (dutch die
+~'-Quantelung zugelassenen) Werte gleichwahrscheinlieh annehmen.
+
+
+     Die qaantentheoretisehe Kinematik und Mechanik ist yon tier ge-
+wShnlichen weitgehend verschieden. Die Anwendbarkeit der klassisehen
+kinematischen and meehanischen Begriffe kann aber weder aus unseren
+Denkgesetzen noch aus der Erfahrung ge~olgert werden; zn diesem Schlu~
+
+     1) Dies kann nach Ehrenfest und Breit nicht oder nur sehr selten ge-
+schehen durch Kr~fte, die am R ad angreifen.
+196                              W. tteisenberg,
+
+gibt uns die Relation (1) P l q l ~'~ h das Recht.      Da Impuls, Ort,
+Energie usw. eines Elektrons exakt definierte Begriffe sind, braucht man
+sieh nicht daran zu stol]en, dal~ die fundamentale Gleichung (1) nur eine
+qualitative Aussage enthilt. Da wir uns {erner die experimentellen Konse-
+quenzen der Theorie in allen einfaehen Fillen qualitativ denken kSnnen,
+wird man die Quantenmeehanik nicht mehr als unansehaulieh und abstrakt i)
+ansehen miissen. Freilich mSehte man, wenn man dies zugibt, aueh die
+quantitativen Gesetze der Quantenmechanik direkt aus den anschaulichen
+Grundlagen, d . h . im wesen{liehen der Relation (1) ableiten k~nnen.
+J o r d a n hat deswegen versucht, die Gleiehung
+
+                     S(qq") = : ~ S ( q q ' )   S (q' q") dq'
+als Wahrschein]iehkeitsrelation zu deuten. Dieser Deutung k6nnen wit
+uns aber nleht ansehlie~en (w 2). Vielmehr glauben wit, dal] die quanti-
+tativen Gesetze aus den anschaulichen Grundlagen heraus einstweilen
+nur nach dem Prinzip der griil~tmSglichen Einfachheit verstanden werden
+kSnnen. Wenn z. B. die X-Koordinate des Elektrons keine ,,Zahl" mehr
+ist, wie naeh Gleichung (1) experimente]_l geschlossea werden kann, dann
+ist es die denkbar elnfaehste Annahme [die nieht mit (1) im Widersprueh
+steht], dal~ diese X-Koordinate ein Diagonalglied einer Matrix sei, deren
+Nichtdiagonalglieder sieh in einer Ungenauigkeit bzw. bei Transforma-
+tionen in anderen Weisen (vgl. z. B. w 4) aui~ern. Die Aussage, dal]
+etwa die Geschwindlgkeit in der X-Richtung ,,in Wirklichkeit" keine
+Zahl, sondern Diagonalglied einer Matrix sei, ist vielleicht nicht abstrakter
+and unanschaulicher, als die Feststelhng, dal] die elektrische Feldstirke
+ ,,in Wirklichkeit" der Zeitanteil eines antisymmetrischen Tensors der
+Raumzeitwelt sei. Das Wor~ ,,in Wirklichkeit" wird bier ebenso sehr
+und ebenso wenig berechtigt sein, wie bei irgend einer mathematischen
+Beschreibung nattirlicher Vorginge. Sobald man zugibt, daft alle quanten-
+theoretischen GrS~en ,,in Wirkliehl~eit" Matrizen seien, ~olgen die quan-
+titativen Gesetze ohne Schwierigkeiten.
+
+      i) Schr(idinger bezeichnet die Quantenmechanik als formale Theorie yon
+abschreckender, ja abstoflender Unanschaulichkeit und Abstraktheit. Sicher wird
+man den Weft der mathematischen (und in sol ern anschaulichen) Durchdringung
+der quantenmechanischen Gesetze, die Schriidingers Theorie geleis~et hat, nicht
+hoch genug einsch~itzen kSnnen. In den prinzipiellen, physikalischen Fragen hat
+aber meines Erachtens die popul~ire Anschaulichkeit der Wellenmechanik yore fie-
+raden Wege abgeftihrt, der durch die Arbeiten Einsteins und de Broglies
+einerseits, durch die Arbeiten Bohrs und die Quantenmechanik andererseits vor-
+gezeichne~ war.
+  [Tber den anschaulichen Inhalt der quanteatheoretischen Kinematik usw. 197
+
+       Wenn man annimmt, dal] die hier versuchte Deutung der Quanten-
+mechanik sehon in wesentliehen Punkten rlchtig ist, so m a g e s erlaubt
+sein, in wenigen Worten auf ihre prinzipiellen Konsequenzen einzugehen.
+Da~ die Quantentheorie ira Gegensatz zur klassischen eine wesentlich
+statistische Theorie sei in dem Sinne, dal~ aus exakt gegebenen Daten nur
+statistisehe Schltisse gezogen werden kSnnten, haben wir nicht ange-
+nommen. Gegen solche Annahmen spreehen ia z. B. aueh die bekannten
+Experimente yon G e l g e r and B o t h e . Vielmehr gelten in allen F~llen,
+in denen in der klasslsehen Theorie Relationen bestehen zwischen GrSgen,
+die wirklich alle exakt mefibar sind, die entsprechenden exakten Rela-
+tionen auch in der Quantentheorie (Impuls- und Energiesatz). Aber an
+ der scharfen Formulierung des Kausalgesetzes: ,,Wenn wit die Gegen-
+wart genau kennen, kSnnen wir die Zukun~t berechnen", ist nicht der
+Nachsatz, sondern die Voraussetzung falsch. Wir k S n n e n die Gegen-
+ wart in allen Bestimmungsstiicken prinzipiell n i c h t kennenlernen.
+ Deshalb ist al]es Wahrnehmen eine Auswahl aus einer Fiille yon MSglieh-
+ keiten und eine Beschr~nkung des zukfinftig MSgliehen. Da nun der
+ statistisehe Charakter der Quantentheorie so eng an die Ungenauigkeit
+ al]er Wahrnehmung gekntip~t ist, kSnnte man zu der Vermutung verleitet
+ werden, dag sieh hinter der wahrgenommenen statistisehen Welt noeh
+ eine ,,wirkllehe "' Welt verberge, in der das Kausalgesetz grit. Aber
+ solehe Spekulationen seheinen uns, das betonen wir ausdriieklieh, un-
+ fruchtbar und sinnlos. Die Physik sol] nur den Zusammenhang der
+ Wahrnehmungen formal besehreiben. Vielmehr kann man den wahren
+ Sachverhalt viel besser so eharakterisieren: Weri alle Experimente den
+ Gesetzen der Quantenmeehanik und damlt der Gleichung (1) unterworfen
+ sind, so wird dutch die Quantenmeehanik die Ungtiltigkeit des Kausal-
+ gesetzes definltiv festgestellt.
+
+       N a e h t r a g bei der K o r r e k t u r . Nach Abschlug tier vorliegenden
+Arbeit haben neuere Untersuehnngen yon B o h r zu Gesiehtspunkten ge-
+ftihrt, die eine wesenfliche Vertiefung und Verfeinerung der in dieser
+_krbeit versuehten Analyse der quantenmechanisehen Zusammenhgnge
+zulassen. In diesem Zusammenhang hat reich B o h r darauf aufmerksam
+gemaeht, dal] ieh in einigen Diskussionen dieser Arbeit wesentliehe Punkte
+tibersehen hatte. Vor allem beruht die Unsieherheit in der Beobachtung
+nicht anssehliel]lieh auf dem Vorkommen yon Diskontinuit~ten,' sondern
+h~ngt direk'; zusammen mit der Forderung, den verschiedenen Erfahrungen
+gleiehzeitig gerecht zu werden, die in der Korpuskulartheorie einerseits,
+198             W. Heisenberg, ~ber den anschaulichen Inhalt usw.
+
+der Wellentheorie andererseits zum Ausdruck kommen.          Z . B . ist bei
+Benutzung eines gedaehten Y'-Strahlmikroskops die notwendige Divergenz
+des Strahlenbfindels in Betracht zu ziehen; diese erst hat znr Folge, dal~
+bei der Beobaehtung des Elektronenortes die Richtung des Comptonrfick-
+s~o~es nur mi~ einer Ungenaulgkeit bekannt ist, die dann zur Relation (1)
+ffihrt. Ferner ist nieht genfigend betont, dal] die einfache Theorie des
+Comptoneffekts in Strenge nur auf freie Elektronen anwendbar ist. Die
+daraus folgende Vorsicht bei Anwendung der Unsicherheitsrelation ist,
+wie Prof. B o h r klargestellt hat, unter anderem wesentlich ffir eine all-
+seitige Diskussion des Ubergangs yon Mikro- zu Makromeehanik.
+Schliel]lieh sind die Betraehtungen fiber die Resonanzfluoreszenz nieht
+ganz korrekt, well der Zusammenhang zwischen tier Phase des Lichtes
+und tier der E]ektronenbewegung nieht so einfach ist, wie angenommen.
+Da~fir, dal] ich die genannten neueren Un~ersuehungen B o h r s , die in
+einer Arbeit fiber den begriffliehen Aufbau der Quanten~heorie bald
+erseheinen werden, im Entstehen kennenlernen und diskutieren durfte,
+bin ieh Herrn Prof. B o h r zu herz]iehem Danke verp~lichtet.
+
+      K o p e n h a g e n , Institut f~ir theoret. Physik der Universitat.
+

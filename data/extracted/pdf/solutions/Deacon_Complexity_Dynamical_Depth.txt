@@ -1,0 +1,785 @@
+Information 2014, 5, 404-423; doi:10.3390/info5030404
+                                                                                        OPEN ACCESS
+
+                                                                          information
+                                                                                  ISSN 2078-2489
+                                                                   www.mdpi.com/journal/information
+Article
+
+Complexity and Dynamical Depth
+Terrence Deacon 1,* and Spyridon Koutroufinis 2
+1
+    Department of Anthropology, 232 Kroeber, University of California, Berkeley, CA 94720, USA
+2
+    Institute for Philosophy, Literature, and History of Science and Technology,
+    Technical University of Berlin, Strasse des 17. Juni 135, 10623 Berlin, Germany;
+    E-Mail: kout1967@mailbox.tu-berlin.de
+
+* Author to whom correspondence should be addressed; E-Mail: deacon@berkeley.edu;
+  Tel.: +1-510-642-3392; Fax: +1-510-643-8557.
+
+Received: 10 June 2014 / Accepted: 30 June 2014 / Published: 14 July 2014
+
+
+      Abstract: We argue that a critical difference distinguishing machines from organisms and
+      computers from brains is not complexity in a structural sense, but a difference in dynamical
+      organization that is not well accounted for by current complexity measures. We propose a
+      measure of the complexity of a system that is largely orthogonal to computational,
+      information theoretic, or thermodynamic conceptions of structural complexity. What we
+      call a system’s dynamical depth is a separate dimension of system complexity that
+      measures the degree to which it exhibits discrete levels of nonlinear dynamical
+      organization in which successive levels are distinguished by local entropy reduction and
+      constraint generation. A system with greater dynamical depth than another consists of a
+      greater number of such nested dynamical levels. Thus, a mechanical or linear
+      thermodynamic system has less dynamical depth than an inorganic self-organized system,
+      which has less dynamical depth than a living system. Including an assessment of dynamical
+      depth can provide a more precise and systematic account of the fundamental difference
+      between inorganic systems (low dynamical depth) and living systems (high dynamical
+      depth), irrespective of the number of their parts and the causal relations between them.
+
+      Keywords: complexity; dynamical system; self-organization; machine; organism;
+      teleodynamics; morphodynamics; non-linear; computation; information
+Information 2014, 5                                                                                   405
+
+1. Introduction
+
+   In his influential essay “The Architecture of Complexity,” published in 1962, Herbert Simon
+provides an admirably plain and seemingly self-evident view of complexity: “Roughly, by a complex
+system I mean one made up of a large number of parts that interact in a non-simple way [1] (p. 468).”
+Because of the non-simplicity of their interactions “given the properties of the parts and the laws of
+their interaction, it is not a trivial matter to infer the properties of the whole [1] (p. 468).” Simon’s
+approach to complexity has been implicitly accepted by almost all attempts to define complexity in
+different sciences. Since the 1960s many analytic and quantitative definitions of complexity have been
+offered. There are two main categories: The first category includes methods developed by information
+theorists and mathematicians who understand complexity in terms of a measure of the number of
+distinguishable components times some measure of the number of possible non-redundant
+(e.g., random) arrangements of these components with respect to one another. Members of the second
+category try to capture a system’s complexity in terms of the number of its physical features or the
+ways these features could have been produced. Members of this second category are more diverse, and
+may involve considering the work and time involved in these processes. These theories also tend to be
+responses to certain apparent paradoxes that arise when the assessment is limited to information
+theoretic approaches.
+   For example, intuition suggests that a living frog is far more complex that if those same molecules
+were mixed up in a solution where they are randomly distributed. Using a commonly accepted measure
+of information capacity of the first category—information entropy, developed by Claude Shannon in
+1948 [2]—it would take less information to describe the details of the living frog than the “frog soup.”
+That is because there is considerable redundancy in the organization of molecules in the living frog, so
+that a vast number of correlated features do not need to be repeated again and again in the description,
+whereas in solution these correlations have been eliminated.
+   This suggests that one should rank the complexity of both fully ordered and nearly random
+phenomena near zero and rank the organization of living phenomena to be high. This is exemplified by
+the often-reproduced graph depicting this qualitative ideal, shown in Figure 1. The peak in the curve
+representing maximum complexity presumably marks an optimal mix of ordered and disordered
+relationships. But exactly how to justify what constitutes this optimal mix is a matter of considerable
+debate, as is the justification for calling this complexity. Other than merely conforming to intuition and
+subjective sensibility, no widely accepted clear and simple criterion for judging this to exemplify
+maximal complexity is currently available.
+   In response to this and related challenges, many alternative measures of complexity in the second
+category have been developed. In the following discussion we will review some of the general features
+of both general categories of complexity measures, discuss their limitations, and introduce an
+additional complementary form of complexity unique to organisms that appears not to be accounted
+for in any of the current approaches.
+Information 2014, 5                                                                                 406
+
+     Figure 1. Graphic depiction of the intuitively ideal measure of complexity that treats both
+     completely random and completely ordered distributions as minimally complex, but treats
+     organism complexity (coral surface; middle image) as highly complex.
+
+
+
+
+1.1. Complexity as Randomness
+
+    In his Mathematical Theory of Communication Claude Shannon demonstrated that the information
+capacity of a communication channel could be assessed in terms of the degree of unpredictability of
+any potential message it could convey. In the decades that followed a number of theorists, including
+Ray Solomonoff [3,4], Andrej N. Kolmogorov [5], and Gregory J. Chaitin [6], independently
+developed ways to define and measure the complexity of sequences of symbols that were analogous to
+Shannon’s approach to measuring information capacity. Measures of this kind of complexity came to
+be variously named algorithmic information content (AIC), Kolmogorov complexity, or simply
+algorithmic complexity. In these approaches the complexity or information content of a string of
+symbols is equated with the length of the shortest computer program or algorithm that can generate
+this string (typically defined in terms of implementation on a universal Turing machine for maximum
+generality). The algorithm is considered to be a compressed description of the string. If the string
+consists of values that describe states of a physical system (e.g., measure values) the algorithm is a
+measure of the compressibility of an abstract description of that physical phenomenon.
+    Charles Bennett [7] developed a related measure of complexity, which was also independently
+developed in a paper by Chaitin [8]. Bennett called it logical depth [7]. He defines logical or
+algorithmic depth as the time that a universal Turing machine requires to execute the shortest algorithm
+that generates a given sequence of symbols. The logical depth of such a sequence is directly related to
+its Kolmogorov complexity, but additionally it takes into account the work involved in the generation
+of that sequence. There are many other algorithmic definitions of complexity [9] (pp. 63–65), but
+Information 2014, 5                                                                                   407
+
+almost all are based on related assumptions and so for the purpose of the present paper these will be
+considered variants of the general AIC paradigm.
+   The concepts of complexity developed by Solomonoff, Kolmogorov, Chaitin, and Bennett are very
+similar, and are also related to Shannon’s measure of entropy. They treat complexity as the inverse of
+compressibility and identify ways to compress a signal or its description (such as a character string) by
+virtue of discovering redundancies. However, whereas Shannon entropy only takes into account simple
+statistical redundancy, the various algorithmic approaches can additionally take into account more
+cryptic redundancies due to recursive aspects of the computational process capable of generating that
+description. In effect, AIC approaches seek to identify the most compressed, i.e., shortest possible
+description of a given phenomenon.
+   The AIC approach to complexity was implicit in Herbert Simon’s [1] (p. 478) idea that “a system
+can be described economically” if it has redundancy. So although Simon did not explicitly define
+complexity as a measure of non-redundancy in the description of a physical phenomenon, his approach
+anticipated this later development. The question that remains is whether the complexity of a
+description and the complexity of the phenomenon described are equivalent.
+   So the question is begged whether or not these methods which apply to abstract descriptions
+(typically treated as binary strings) are also adequate to assess the complexity of real physical systems.
+We discern five weaknesses or limitations in the use of AIC approaches to measure physical
+complexity. First, even if physical systems are understood as spatial or temporal sequences of physical
+differences they “do not come readily encoded as numbers [10] (p. 189)”. Second, as Chaitin [6]
+showed, it is impossible to prove that a certain algorithm is indeed the shortest possible description of
+a given sequence. Third, like Shannon’s concept of information, AIC and logical depth, does not
+attempt to assess the meaning or function of the descriptions they analyze but only their syntactic
+aspects. Any assessment of the complexity of physical phenomena needs to also consider any semantic
+(referential) and pragmatic (functionally relevant) aspects of these descriptions, especially since these
+aspects are critically relevant to biological and cognitive systems. Fourth, information theoretical
+concepts of complexity only characterize descriptions of physical systems, not how they came about or
+how they are causally organized. In this sense they refer to the “map” and not to the “territory.” This
+may or may not reflect the causal relations inside a dynamical system. Fifth—and this is the biggest
+problem for all methods that connect complexity to non-redundancy or randomness—the concept of
+complexity underlying AIC and logical depth is counterintuitive. The information theoretical concepts
+of complexity attributes higher complexity to an entirely chaotic phenomenon than to an ordered one.
+Whereas the former cannot be described by a description that is shorter than a full list of attributes
+because “no aspect of its structure can be inferred from any other” and therefore “it is its own simplest
+description [1] (p. 478),” the latter can be compressed because of its internal regularities. Thus, the
+information-theoretical and mathematical approach to complexity only identifies complexity with
+incompressibility in one dimension of organization, whereas real physical systems may involve
+multiple dimensions, including their generative history and functional attributes.
+   This understanding of complexity therefore produces a paradoxical problem in that it effectively
+treats a maximally disordered system and the random string of characters that describes it as more
+complex than ones that exhibit interesting and/or unprecedented properties, such as being alive or
+Information 2014, 5                                                                                    408
+
+being conscious. Intuition suggests instead that a thoroughly random and maximally unpredictable, i.e.,
+maximally incompressible, sequence (state to state, character to character) is simple in its organization.
+   Clearly, the related definitions of complexity of Kolmogorov, Chaitin, Solomonoff, and Bennett are
+well-suited for analyzing the complexity of descriptions that can be rendered in abstract sequences of
+symbols, numbers, or computational steps, but will not be able to account for features that are not
+distinguishable and countable in the immediately present physical object of analysis. Thus they often
+lead to counterintuitive results when applied to dynamical systems. In order to understand the
+complexity of such systems we need a more subtle measure that more accurately reflects features of a
+system’s causal properties, not just the complexity of its description (whether formal or algorithmic).
+
+1.2. Complexity and Physical Structure
+
+    In the last three decades natural scientists, especially physicists and biologists, have introduced
+concepts of complexity that focus on the organization of natural entities and not merely on the
+regularities and irregularities of their formal descriptions. These attempts to assess the relative
+complexity of physical structures are diverse and often specially formulated with respect to a particular
+disciplinary context. As a result, they do not exhibit clear analytic parallels but only parallels in the
+problems they address. We class them together based on their inclusion of physical, not just symbolic,
+attributes into the analysis. Here, we survey a few of these measures in order to exemplify their
+commonalities and their disciplinary diversity.
+    The simplest way of quantifying complexity on the basis of structure is to count the number of a
+system’s elements and/or interactions between them [11]. For example, some biologists [12] offer
+definitions of organism complexity based on the number of different cell types, the number of
+components, and the organism’s morphology, i.e., the number of structural elements and their
+combinations, but generally agree than an increase in number of identical components should not count
+toward an increase in complexity [9] (p. 74). Others define biological complexity “related to the diversity
+or lack of self-similarity” of the interactions within a hierarchically organized system [13] (p. 130), see
+also [14]. Such approaches rely on the way that the system components are categorized with respect to
+similarities and differences in their identified properties. And what constitutes a proper part is not
+always obvious. This inevitably introduces a subjective factor into the assessment and requires that
+comparisons be based on identical categorization schemes. This is not a problem for AIC measures
+based upon symbol counts or algorithm steps.
+    Perhaps the physical measure of complexituy that is most similar to AIC measures and yet does not
+reduce to a measure of randomness is the concept of effective complexity. This concept was introduced
+by Murray Gell-Mann and Seth Loyd [15–17] in order to better take into account the organized
+heterogeneity of natural systems. Their analysis splits the Kolmogorov complexity or algorithmic
+information content describing an object into two separate categories: its regularities and its random
+features. In contrast to AIC measures, however, an object’s effective complexity is defined as the AIC
+of the regularities alone, i.e., the length of the shortest algorithm that can generate the regularities of
+an empirical system or the sequence of symbols describing them [18]. This measure has the advantage
+of conforming to the intuition that highly regular and highly random structures are judged minimally
+complex while heterogeneously ordered structures intermediate between these extremes are more
+Information 2014, 5                                                                                  409
+
+complex. The concept of effective complexity has the disadvantage of being too sensitive to subjective
+criteria, since the assessment of regularities depends on an external observer who decides which parts
+of the system are to be considered regular versus irregular.
+    Adami and Cerf developed a related concept they called physical complexity. Their approach was
+developed specifically for application in biology, though it can be applied to “any sequence of symbols
+that is about a physical world or environment [11].” Physical complexity is “an instance of effective
+complexity [19] (p. 1087)”, but additionally considers functional relationships with respect to the
+environment in which the system exists. It is defined as the Kolmogorov complexity (AIC) of the
+bio-molecular sequences (e.g., genomes) of a population that encode the adaptations of the organisms
+to specific features of their environments. The physical complexity of a genetic sequence is the amount
+of information coded in the genetic material that can be mapped to specific features of the environment
+to which it is adapting. This information is “given by the difference between the entropy of the
+population in the absence of selection, and the entropy of the population given the environment, that is,
+given the selective forces that the environment engenders”. (ibid.) All entropies are calculated using
+the Shannon entropy of this distribution. It is an attempt to measure that fraction of the information
+encoded in a genome that enables an organism to make predictions about its environment and hence
+increases its chance of survival (ibid.). Though counting coding genes appears less subjective than
+counting structural regularities, the complex nonlinear relationships between genes and phenotypes
+and between organisms and their environments depends on some difficult to defend simplifying
+assumptions.
+    Following a different logic, Bialek and Tishby [20] developed a concept that they called predictive
+information. It is based on the principle of the extensivity of entropy [11]. Systems are called
+“extensive” if their entropy grows linearly with the increase of the number of their elements. Since
+systems that contain elements whose causal interactions differ at different levels of scale their
+statistical entropy will tend to be a nonlinear function of their size. So the degree to which a system
+deviates from extensivity can be used to measure the degree of the interaction diversity of its elements.
+In this respect predictive information is a measure of what might also be described as network
+complexity and is particularly sensitive to the presence of local inhomogeneities and long-distance
+interactions. This makes it particularly well-suited for analyzing structures such as brains where there
+are complicated scale-dependent connection differences.
+    Another approach applicable to brain complexity called neural information was developed by
+Tononi and colleagues [21]. It is related to predictive information. Despite the name, neural
+information is applicable to all kinds of empirical systems not just brains. “One of its building blocks
+is integration” which “is computed as the difference between the sum of the component’s individual
+entropies and the joint entropy of the system as a whole [11].” The concept of integration (like
+non-extensivity) also measures the degree to which a system’s entropy deviates from additivity
+(i.e., linearity).
+    Finally, Seth Lloyd and Heinz Pagels [10] introduced the concept of thermodynamic depth in an
+effort to overcome the lack of causal relevance of the concept of logical depth and of AIC conceptions
+of complexity in general. Thermodynamic depth was conceptualized as a quantity that characterizes
+“the evolution of a state and not the state itself [10] (p. 187).” Lloyd and Pagels [10] proceed from the
+fact that there are many possible trajectories, which can lead a system to a given macroscopic state in
+Information 2014, 5                                                                                   410
+
+its state-space. They define the depth of a system’s macroscopic state as “the amount of information
+required to specify the trajectory that the system has followed to its present state [10] (p. 190).” For
+example “the genetic complexity [thermodynamic depth] of an organism is proportional to the amount
+of genetic information tried out and discarded by the process of natural selection on the ancestors of
+the organism [10] (p. 209)” because of the number of possible ways this process could have occurred.
+In this way they claim that [thermodynamic depth] “assigns low complexity to random and highly
+ordered but regular states [10] (p. 208)” so that a crystal and a gas at equilibrium will both have low
+thermodynamic depth because of the close values of their course-grained and fine-grained
+entropies [10] (p. 190). Thermodynamic depth is correlated with the uncertainty of specifying the
+possible trajectories by which a system could have arrived at its current state. This is effectively a
+measure of the entropy of possible trajectories, whereas other measures of complexity are based on
+possible configurations of a system’s macroscopic state. Thermodynamic depth can be as high in
+non-living systems, such as computational devices or nonlinear processes, as in organisms.
+    These approaches were developed in order to overcome the shortcomings of the information
+theoretical approaches to complexity, and they succeed in two critical respects. Since they have been
+designed to characterize real material systems they are sufficient to describe features of their physical
+structure. They also avoid some of the counterintuitive assessments of a system’s complexity because,
+in opposition to the information theoretical approaches, they identify a system’s complexity with the
+diversity of its component physical relationships. Since they consider the regularities of a system and
+not merely its irregularities they reflect aspects of what might be described as the inner coherence of a
+system’s causal organization as reflected in its spatiotemporal relations. We ascribe inner coherence to
+a system which allows an observer of a part of it to anticipate to a certain degree other aspects of the
+same system. The parts of internally coherent systems contain information, although often vague,
+about the whole system. Inner coherence enhances the compressibility of a system’s description
+because it increases the ability to predict its organization from partial knowledge of it. But structural
+redundancies are judged less complex by AIC standards.
+    Despite their advances over AIC measures of complexity, physical approaches still suffer from a
+serious limitation. Their main common characteristic is that they are designed to quantify the
+complexity of phenomena by counting structural features and/or the amount of work that produced
+them. They analyze a system’s phenomenal regularities and/or entropy but do not attempt to
+characterize the qualitative differences of their causal organization. To be able to identify the forms of
+complexity that make living and mental processes so causally distinctive we need to be able to
+additionally assess these qualitative differences in causal organization. Unlike non-living processes a
+living system is dynamically organized to do work to modify its own organization with respect to
+interactions with its environment. So not only does this require an assessment of its composition and
+the amount of work required to produce or describe it, it also requires an assessment of this dynamical
+self-organization.
+
+2. Open Systems: Self-Organization and Organisms
+
+  The different ways that compressibility is used to assess complexity in information-theoretical as
+compared to physical approaches, demonstrates both the relevance of this property and also the way
+Information 2014, 5                                                                                    411
+
+that it applies differently to descriptions as compared to actual physical structures. The role of
+compressibility in assessing complexity is further complicated with respect to what are often called
+complex dynamical systems. Interest in dynamical systems and “chaotic” processes developed along
+with major advances in non-linear mathematics and an explosive increase in computing power (which
+made realistic simulations of complex physical processes possible). As dynamical systems theories
+have developed over the years to be able to more precisely describe open systems and their coupling
+with the environment, research interest has focused on dissipative systems. These are thermodynamic
+systems that are maintained far-from-equilibrium for some period of time. Of particular interest are
+thermodynamic systems that are being constantly perturbed away from equilibrium. In the process of
+continually dissipating this disturbance they can develop toward highly organized dynamical
+configurations. These so-called “self-organized” systems have provided important models for
+exploring the difference between simple mechanistic systems and biological systems.
+   The most essential feature of self-organized processes is that their local statistical entropy decreases
+which correspondingly increases their inner coherence and thus their predictability. In physical terms
+we can say that they compress the trajectories of their future development into small fractions of their
+state-space; regions called “attractors.” We will refer to this real compressibility as dynamical
+compressibility because it is a consequence of the activity of the system itself. Dynamical
+compressibility allows an external observer to create highly compressed abstract descriptions of such
+systems. So, there is an intrinsic relation between the dynamical compressibility of self-organized
+dynamic systems and the compressibility of the formal descriptions of those systems. As we will show
+below, physical processes that spontaneously develop toward a more compressed state pose some
+interesting challenges for measures of complexity that are based on the compressibility of the
+formal descriptions.
+   Self-organization is a technical term. Invoking the term “self” is intended to signal that the increase
+of a dynamic system’s orderliness is the result of interactions among its components and not the result
+of the imposition of this form of organization from some extrinsic source. However, less precise usage
+often invokes a more expansive conception of self, which includes biological agency. This confuses
+two very distinctive causal dynamics—those that are associated with inorganic processes that speed
+their dissolution by maximizing entropy production and those associated with living processes that
+preserve their organization by acting to counter degrading influences. Failure to distinguish between
+these two very different classes of dynamical processes ignores a significant difference in their causal
+organization: they abide by two essentially different logics of constraints. This distinction will be the
+focus of the final sections of this paper.
+   It is widely accepted that living systems depend on cellular and chemical dynamics that exhibit self-
+organization. There are, however, good reasons to question the ability of dynamical systems models to
+adequately assess the complexity of organism dynamics. In artifacts the target states that are invariably
+approached by such processes play no role in the constitution of the physical systems that produce
+them. In contrast this role is fundamental to the forms of causality characterizing organisms.
+Self-organized processes develop in response to persistent gradients of energy and/or material that
+maintain them away from thermodynamic equilibrium, but this resulting regularization maximizes the
+reduction of the very gradient that produces it. In other words: Each self-organized system tends to
+evolve toward a dynamical form that would return the system to equilibrium in the most efficient way
+Information 2014, 5                                                                                    412
+
+possible were the external gradients to become exhausted. This essential property of dissipative
+dynamic systems is known as the principle of maximum entropy production (MEP) [22]. According to
+the second law of thermodynamics all physical processes produce entropy. Self-organization is
+characteristic of dynamical thermodynamic systems maintained far from equilibrium that not only
+increase global entropy but also increase the rate of entropy production in a way that compensates for
+any imposition of additional energy and/or material. The order that emerges inside such a system
+enables it to offload the destabilizing influence of an energy/material gradient more quickly and with
+less work than if its dynamics were not regularized.
+    So, self-organization is paradoxically self-undermining in this respect. There is nothing internal to a
+self-organized dynamical system to maintain this order in the absence of external gradients, nor any
+mechanism to compensate for changes in this external support. In this respect it is not accurate to claim
+that self-organized systems are the sources of their own organization, and so the term “self” is
+ultimately a metaphoric use in this context. Koutroufinis [23] describes this kind of dynamics as
+“self-organization without self.”
+    One reason to be suspicious of the completeness of any theory of complexity based on some
+measure of compressibility is that it will fail to adequately account for ongoing physical processes that
+involve the sort of dynamical compression that characterized self-organized processes. Superficially
+the structure of a self-organized dissipative structure (e.g., a whirlpool or a growing snow crystal) can
+be highly regular and therefore algorithmically compressible, and yet this is because the process that
+produces this regularity has reduced the irregularity and entropy within that structure. A descriptive
+compression of an already physically compressed state eliminates critical information about the
+stochastic nonlinear dynamics that produced and maintains that compressed physical form.
+    This problematic situation is resolved by recognizing that there may be two complementary aspects
+of complexity that are relevant to the assessment of dynamically compressed systems: one associated
+with the structure of its physical features and one associated with how the regularities of its dynamical
+features are generated and actively maintained.
+    Below we will argue that organisms add an additional level of dynamical compression beyond what
+is present in non-organic self-organizing dynamic processes. This is a consequence of the way that
+living processes invert three defining features of self-organization. First, organisms do not maximize
+entropy production but rather tend to more efficiently organize entropy production with respect to
+the work they do to persist and reproduce. Second, because of this, their dynamical organization is not
+self-undermining, even though it incorporates features of self-organization. Third, organism dynamics
+is specifically self-beneficial and depends on system-internal rather than system external determinants
+of its organization. These attributes cannot be a consequence of simply additively combining
+self-organized processes. Together these dynamical differences contribute to the added level of
+complexity that distinguishes living from non-living systems irrespective of their relative degrees of
+algorithmic or physical-structural complexity.
+    For these reason we require a new concept of complexity that emphasizes those characteristics of
+organism dynamics that make them unique among dynamically compressed systems. It must both
+account for the dynamical compression that occurs via self-organization and also the ways that living
+processes diverge from all non-living processes.
+Information 2014, 5                                                                                      413
+
+3. Dynamical Depth: An Orthogonal Form of Complexity
+
+   In an effort to clearly distinguish living dynamics from nonliving dynamics, Deacon [24] identifies
+three modes of system dynamics that are distinguished by their hierarchic (i.e., nested) dependencies
+and their reversals of spontaneous global dynamical tendencies to reach different kinds of stable
+end-states (or attractors), if they are provided with the required time to do so. These dynamical modes
+include homeodynamics (e.g., processes at or near thermodynamic equilibrium), morphodynamics
+(e.g., non-chaotic dissipating processes such as exemplified by self-organizing systems), and
+teleodynamics (e.g., self-preserving processes such as exemplified by living systems). These
+dynamical modes define distinctive levels of what we will call dynamical depth, because they involve
+the nesting of stochastic dynamical processes within one another. In this section we show how this
+measure of complexity is distinguished from the various complexity measures discussed above.
+   These three dynamical modes are also distinguished by differences in the ways they eliminate,
+introduce, or preserve constraints. The term “constraints” refers to all factors that reduce the number of
+the possible states of a system, so that its behavior resides only in a limited part of its state space. Since
+entropy increases with the number of a system’s possible states, it follows that constrained systems are
+not in the state of their maximum possible entropy and therefore are able to perform work. Constraints
+can be imposed from outside on a system or can be generated internally, i.e., by a system’s own
+dynamics. We describe the former as extrinsic and the latter as intrinsic constraints.
+   Linear thermodynamic processes, which characterize homeodynamic systems, epitomize the first
+level of dynamical depth. They are defined by their spontaneous tendency to eliminate constraints, and
+thus increase entropy. The natural end-state of a homeodynamic system is the state of maximum
+possible entropy, which is also the state of maximum possible elimination of constraints. An isolated
+thermodynamic system (i.e., a multi-particle system which is energetically and materially closed, like a
+gas in a fixed size container) moves always towards the state of the system’s maximum possible
+entropy, which is also the state of zero entropy production or thermodynamic equilibrium. Chemical
+reactions in an isolated system also tend to exhaust their “free energy” and thus their potential to
+asymmetrically change from one state of chemical relationships to another. At this point the system
+has reached chemical and thermodynamic equilibrium i.e., the end-state in which the concentrations of
+the reactants and products do not change. Simple non-idealized mechanical systems, such as a
+harmonic oscillator or a pendulum with friction, as well as compound mechanical (e.g., clockwork)
+systems occupy the same level of dynamical depth because they do not generate any new constraints
+but only eliminate externally imposed constraints (i.e., energetic gradients). A mechanical clockwork
+degrades the potential energy which is stored in its spring. It could only generate new constraints if it
+were able to reposition its own gears into other configurations as a consequence of its own internal
+movements. The essential common feature of non-idealized (e.g., frictional) mechanical systems and
+isolated multiple particle systems (e.g., gases) is that they both reach the state of maximum possible
+elimination of constraints. At this point a homeodynamic system has exhausted its capacity to do
+further work (whether mechanical, chemical, or thermodynamic). Finally, we also class among the first
+level of dynamical depth all current forms of computational devices so far constructed or
+conceptualized. It is easy to understand this conclusion if one considers that, in principle, all operations
+of electronic computers can also be implemented (at least in principle) by mechanical devices.
+Information 2014, 5                                                                                      414
+
+   A second deeper level of dynamical depth is produced by self-organization. As noted above,
+self-organization arises in the special case where an externally imposed energetic and/or material
+gradient (i.e., extrinsic constraints) are introduced into a partially open dissipative system at a rate that
+exceeds the rate at which that system can spontaneously dissipate them. As a result the system’s
+dynamics changes in a way that allows it to increase dissipation of externally introduced energy and/or
+matter, so that the rate of their dissipation matches the rate of their imposition. This is achieved when
+the system’s dynamics reorganizes itself and becomes spatiotemporally regularized (i.e., dynamically
+compressed) in ways that compensate for the effect of being continually driven away from equilibrium
+by the external gradient. Deacon [24] terms such processes morphodynamic processes because of the
+way that they internally generate these regularities; i.e., spatiotemporal patterns. So, a critical feature
+that distinguishes morphodynamic processes from merely homeodynamic processes is that
+morphodynamic processes generate new constraints (i.e., spatiotemporal patterns) locally. Thus
+morphodynamic systems develop intrinsic constraints that dissipate the imposed extrinsic constraints.
+   A well known example of intrinsic constraint generation is the pattern of hexagonal convection
+cells (Bénard cells) that emerge when a thin layer of liquid (e.g., oil) is heated from below to a
+temperature beyond which simple conduction can dissipate this imposed heat (see Figure 2).
+Morphodynamic processes will tend to spontaneously regenerate their intrinsic constraints if random
+perturbations damage their pattern so long as the supportive externally imposed gradients persist
+within certain limits. Intrinsic constraints in a morphodynamic process persist because they efficiently
+degrade extrinsic constraints. Since they depend on persistent extrinsic constraints intrinsic constraints
+cannot contribute to their own persistence. They can only degrade these extrinsic constraints. This
+special correspondence between intrinsic and extrinsic constraints does not, however, support the
+system’s self-preservation. It is effectively organized in a way that would hasten its self-destruction,
+were extrinsic supports removed.
+
+      Figure 2. Depiction of Rayleigh-Bénard convection cells formed in a thin volume of liquid
+      (e.g., oil) heated from the bottom and cooled from above. Correlated movement of fluid
+      orthogonal to the temperature gradient is driven by density differences due to heat content
+      and the hexagonal regularity emerges as the closest-packed tessellation of units per surface
+      area. The result is maximization of the diffusion of heat through the liquid.
+Information 2014, 5                                                                                   415
+
+   Finally, and most critical for this analysis, at a third level of dynamical depth are what Deacon [24]
+terms teleodynamic processes. Teleodynamic processes emerge from precisely complementary,
+interdependent morphodynamic processes. This complementary relationship is such that the supportive
+boundary conditions for each component morphodynamic process are generated by one or more of the
+other morphodynamic processes in the system. As a result the otherwise highly improbable boundary
+conditions that make the component morphodynamic processes possible can be preserved to become
+highly probable. Such a combination of boundary constraints would otherwise be astronomically
+improbable to occur spontaneously. Deacon [24] describes a molecular model system called an
+autogen (or autocell [25]), which precisely exemplifies an empirically testable form of this distinctive
+dynamical organization and its unique systemic attributes (see Figure 3).
+
+     Figure 3. Left: The reaction network of a simple autogenic process. Right: Idealized
+     depiction of an autogenic complex in formation. An autogen is formed when a reciprocally
+     autocatalytic set of molecules (C and F) modifies available substrate molecules (A, B & D) to
+     produce (along with additional Cs and Fs) a side product (G) that tends to self-assemble (#)
+     into an impermeable container (a process analogous to the formation of a virus capsule).
+     Such a system will tend to reconstitute itself if disrupted and reproduce duplicate systems if
+     sufficiently disrupted. Modified with permission from Deacon [24].
+
+
+
+
+   This complementarity and interdependence constitutes a yet higher order form of constraint on the
+constraint-generation of the component morphodynamic processes. The most essential characteristic of
+any teleodynamic system is the internal generation of such a higher order constraint. In other words,
+teleodynamics consists in a higher order intrinsic constraint that constitutes the synergy of the lower
+order morphodynamic processes. This higher order constraint increases the probability that these same
+component morphodynamic processes will persist despite changes in extrinsic conditions. The result is
+a tendency to behave in a way that makes this distinctive form of self-reconstituting dynamics highly
+likely to persist, re-form if disrupted, and even become reproduced if the basic ingredients for the
+formation of the autogen are available.
+   A critical criterion for any means of quantifying relative complexity is that there must be discrete
+countable features or elements. The difficulty of identifying “proper parts” or clearly distinguishable
+Information 2014, 5                                                                                  416
+
+relations has often been a problem for measures of complexity that have been developed in order to
+compare biological and non-biological phenomena. This arises in part from the fact that the
+relationships between organisms structures and functions (e.g., genes and adaptations) is seldom
+simple and linear and because biological molecules co-produce one another. The concept of
+“dynamical depth” avoids those difficulties because it does not depend on the identification of “proper
+parts.” Instead, it focuses on discrete inversions of thermodynamic trends that are qualitative features
+of these three forms of dynamics. Therefore, one distinctive characteristic of dynamical depth is that it
+does not increase in a continuous transition, but rather in quantized increments. The transitions from
+homeo- to morpho- and from morpho- to teleodynamics always occur abruptly, roughly comparable to
+first order phase transitions in physics. These levels of dynamical depth refer to fundamentally
+discontinuous “qualities” of systemic organization; between them there are no intermediate stages.
+This discontinuity is defined by the distinct inversions of certain dynamical system tendencies
+occurring at these transitions. Thus for example, isolated homeodynamic systems tend to develop to a
+point where there is no further entropy production (equilibrium), morphodynamic systems tend to
+increase their entropy production, and teleodynamic systems tend to develop toward minimizing the
+amount of entropy production necessary to remain far-from-equilibrium (see for example, Falkner and
+Falkner [26]). So, although dynamical depth does not provide a large range in magnitude, it has the
+virtue of unambiguously delineated countable thresholds marking increasing constraint of lower order
+dynamical processes by higher order dynamical processes.
+    The progressive internalization of constraint generation with increasing levels of dynamical depth
+exemplifies another defining attribute: an increase in what can be described as organizational
+autonomy. Thus the organization of homeodynamic processes is entirely dependent upon extrinsically
+imposed conditions, whereas the organization of morphodynamic (e.g., self-organized) processes is
+additionally a function of the ways that the components of the medium in question tend to interact. As
+a result morphodynamic processes generate intrinsic constraints whose forms are independent of the
+form of the extrinsic constraints that drive the system to generate them. Teleodynamic systems
+demonstrate an even greater degree of organizational autonomy and are the only systems that can be
+described as self-organized in a non-metaphoric sense of self.
+    There are several reasons to ascribe selfhood to teleodynamic systems:
+   (1) The end-directedness of a teleodynamic system cannot be adequately described as an
+       “attractor,” as this concept is understood in dynamical systems theories. The constrained
+       dynamics that constitutes a morphodynamic attractor develops as a consequence of externally
+       imposed environmental influences (i.e., extrinsic constraints). In contrast, the state toward
+       which a teleodynamic system develops tends to resist environmental influences. This is because
+       its higher order intrinsic constraint prevents the disruption of the synergy between the
+       component morphodynamic processes that determines its unity. The teleodynamic target
+       state—i.e., the self-preservation of this synergy—is in this respect a higher order attractor.
+   (2) Teleodynamic systems are organized in a way that preserves and re-generates their own
+       intrinsic constraints. A teleodynamic system interacts with its environment in a way that
+       sustains supportive relationships with its environment and compensates for unsupportive or
+       destructive relationships, e.g., by repairing or reproducing itself [24]. A teleodynamic system
+Information 2014, 5                                                                                    417
+
+      can therefore be said to include an implicit self-representation that persists despite a partial loss
+      of system coherence, and with respect to which coherent organization can be re-achieved.
+  (3) In contrast to morphodynamic attractors, the higher order attractor of a teleodynamic system
+      plays a critical role in its own generation. Since attractor generation is a form of dynamical
+      compression teleodynamic systems can be considered self-compressing systems. This is a new
+      type of compression that might be described as the compression of the relationships between
+      compression processes. Above we have noted that complexity theories treat description as a
+      form of compression, so it is not unreasonable to describe this higher order form of
+      compression as information that represents and regulates the dynamics that maintains system
+      integrity with respect to forces that tend to disrupt it. In this respect we might be justified in
+      saying that organisms are literally self-referring. Because of this self-referentiality
+      teleodynamic organization may not be adequately describable by formalisms that are adequate
+      to describe non-living dynamical systems (see Koutroufinis [23,27]).
+  (4) A teleodynamic system implicitly incorporates within its organization information about those
+      aspects of its environment that are specifically relevant to its self-maintenance and
+      reproduction. This information is embodied in the specific organization of the set of
+      compression processes that maintain system integrity with respect to potentially beneficial or
+      harmful aspects of its environment. Teleodynamic systems thus have an Umwelt and not just
+      “surroundings” as do merely reactive morphodynamic systems. In 1909 Jakob von Uexküll
+      introduced the term Umwelt referring to those features of a living being’s environment to which
+      they are sensitive. Umwelt and self are two sides of the same. This is characterized by
+      biosemiotician Kalevi Kull’s [28] translation of Umwelt as “self-centered world.” In simple
+      terms, this it is the creation of a self/other boundary, which implicitly incorporates a
+      representation of this Umwelt.
+  (5) The distinction between self-compression, self-representation, and representation of the
+      environment does not imply three different activities of the system but only three aspects of the
+      system’s integrated dynamics. The higher order intrinsic constraint organizes processes
+      distributed over the entire system in such a coherent way that one and the same material-
+      energetic process might contribute to all three activities.
+   Self in this sense is a dynamical process organized in such a way that it minimizes the probability
+that its organization will be lost. Inevitably, the conditions conducive to generating this distinctive
+dynamical configuration are far less probable than those producing self-organized dynamics alone. The
+fundamental behavioral tendency of living systems is to maintain these rare supportive conditions by
+internally generating and preserving those that are least likely to arise spontaneously. This curious
+causal-circularity linking living processes to the production of their own preconditions is why living
+complexity is not adequately described by non-dynamical conventional measures of complexity.
+   What we term dynamical depth then, is this hierarchic complexity and irreducibility of
+constraint-generating dynamics, such as distinguishes teleodynamics from morphodynamics and
+morphodynamics from homeodynamics. Each of these transitions is characterized by the generation of
+intrinsic constraints on the relationships between processes at lower levels and as a result with
+increasing autonomy from extrinsically imposed constraints. Since constraints are a prerequisite for
+Information 2014, 5                                                                                    418
+
+producing physical work, the increasing autonomy of constraint generation with dynamical depth also
+corresponds to an increasing diversity of the capacity to do work. Thus the flexibility with which a
+dynamical system can interact with its environment also increases with dynamical depth.
+   Finally, dynamical depth is an orthogonal measure of complexity with respect to algorithmic
+measures of complexity. This defines two distinct dimensions of complexity that can vary
+independently. Algorithms and descriptions of considerable AIC complexity lack dynamical depth.
+Algorithms and descriptions are symbolic structures. As such they are non-physical processes but
+timeless abstract entities. So, they can neither be described in terms of entropy or entropy production
+nor in terms of degradation or generation of constraints. In comparison any electronic/mechanical
+implementation of the corresponding computation processes would exhibit a first level of dynamical
+depth due to its thermodynamics. And even though the AIC complexity of a living frog may be lower
+than that of its molecules homogenized in a solution, its dynamical depth will be many levels deeper.
+
+4. Conclusions
+
+    Throughout this discussion we have discovered again and again that the concept of compression is
+critical to the definition and assessment of complexity. The concept of compression is intimately
+related to both constraint and description.
+    In the AIC conception of complexity, more compressible equals less complex and less compressible
+equals more complex. The compressibility of a description or algorithm is in effect a measure of
+constraint exhibited by the physical system being described. As Shannon’s original analysis
+demonstrated, the measure of information of a received message is proportional to the constraint
+exhibited in that sign/signal medium compared to its possible prior Shannon entropy. The degree of
+compressibility is then related to how much information is provided by a given signal. This fits with
+the common intuitive sense that the power of a description or explanation is related to its compactness
+with respect to the amount of detail it accounts for.
+    Analogously, a physical system that is more constrained in its dynamics than another occupies a
+smaller fraction of the phase space of the system’s possible states. In this respect, the system can be
+described as dynamically compressed. Since dynamical compression of a self-organized or living
+system develops over time there is a progressive reduction in local entropy up to the point that it settles
+into a quasi-stable low-entropy dynamical behavior (often described as an attractor). To measure some
+version of the system’s AIC complexity, then, will fail to assess the amount of system entropy that was
+initially reduced and is being constantly offloaded by system dynamics.
+    For this reason, AIC measures of complexity, which work well for analyzing complexity in terms of
+the compressibility of an adequate description, algorithm, or construction process, tend to yield
+paradoxical results when applied to living processes. Above, we have surveyed a few of the many
+attempts to develop a measure of physical complexity that rank both highly disordered and highly
+ordered structures as low complexity and rank a mix of ordered and disordered structures as highly
+complex. The difficulty with these approaches is finding a way to objectively justify which features to
+count and what amounts to an optimal combination of order and randomness. Additionally, we argue
+that they confound two distinct and opposed applications of the concept of compression.
+Information 2014, 5                                                                                 419
+
+   We approach this problem by paying attention to the ways that the stochastic processes in
+self-organized and living systems are themselves dynamically compressed. This avoids problems that
+arise due to applying an AIC compression analysis to the results of a physical compression process. A
+physical system, that has developed to a state that continually minimizes its local entropy, such as
+occurs in morphodynamic processes, has a low apparent AIC complexity. Therefore, assessing only its
+AIC complexity effectively ignores this dynamical compression and the local system entropy that is
+thereby actively kept low. At the higher levels of dynamical organization that characterizes living
+organisms there are additional constraints that maintain interdependence between their component
+morphodynamic compression processes. This introduces a higher order level dynamical compression
+over and above these component compression processes. Since this higher order compression is what
+maintains organism integrity it is in effect a form of self-compression. In order to accurately model
+organism complexity, it is necessary to strictly separate the description of these dynamical
+compression processes from the description of their consequent effect. Both are relevant dimensions of
+organism complexity.
+   The concept of dynamical depth provides an accounting of each distinct level of suppressed
+dynamical complexity even though it does not assess the actual reduction of entropy at that level. With
+each additional increment of dynamical depth beyond morphodynamics it is no longer possible to
+preserve the strict distinction between dynamical compression and analytical compression; physical
+organization and algorithmic description. This is because living (teleodynamic) processes limit the
+variety of possible forms of constraint-generating processes, rather than any specific physico-chemical
+process. In this respect they are like descriptive compressions or representations. This is, of course,
+characteristic of the role of DNA in living organisms and is what warrants describing DNA structures as
+containing information contributing to the functional design of the organism. This implicit
+incorporation of a compressed self-representation explains why assessing the complexity of organisms
+requires a subtler concept of complexity than is required for assessing the complexity of non-living
+processes. Organisms decompress (re-expand) this information during their development by virtue of the
+way this information constrains the organization of morphodynamic epigenetic processes. So to ignore
+this dynamical infrastructure is to ignore the complexity of life’s complexity-generating process.
+   Although in this paper we have only applied the concept of dynamical depth to three levels of
+nested dynamics, it should be obvious that there can be additional higher order dynamics layered on
+top of what is characteristic of simple organisms. Complex organisms may occupy different levels of
+dynamical depth during different adaptive phases or life stages and may even subdivide into
+components of different dynamical depth.
+   For example, consider slime molds (e.g., the Dictyostelids, or cellular slime molds). Large
+undifferentiated colonies of these amoeboid protists can form large gelatinous sheets of individuals,
+but under stressed conditions individual amoeba secrete cAMP which acts to cause the surrounding
+amoebae to aggregate toward its highest concentrations and to form into a slug-like mobile
+superindividual. This aggregation is a morphodynamic process in which differential cAMP
+concentration within the colony progressively constrains the uncorrelated behaviors of individual
+amoebae. It is in this respect a higher-order homeodynamic-to-morphodynamic transition occurring
+among individual single cell organisms that are themselves characterized by three levels of dynamical
+depth. So this might be characterized as a transition from a fourth to a fifth level of dynamical depth.
+Information 2014, 5                                                                                  420
+
+This relationship is depicted in an idealized graph in Figure 4, along with a number of other
+phenomena in order to illustrate progressively deeper levels of dynamical depth. The graph extends
+beyond inorganic morphodynamic (i.e., self-organized) processes, protolife (autogenesis), simple
+single cell organisms, such as bacteria (teleodynamic systems), to include slime molds in different
+organizations and even a frog, as an exemplar of a teleodynamic system composed of interacting
+teleodynamic components (cells).
+
+     Figure 4. Idealized graphic illustration of the complexity relationships between
+     representative systems exhibiting different algorithmic information content (AIC) and
+     dynamical depths. AIC is depicted on a log scale due to the immense values involved.
+     Dynamical depth is linear, but since each level reflects an immense reduction in entropy at
+     a lower level each increment likely also involves a vast increase in the amount of reduced
+     entropy. The integer values of dynamical depth are assigned subscripts to indicate levels of
+     homeodynamic (h), morphodynamic (m), and teleodynamic (t) patterns of organization,
+     and the double subscripts indicate higher order (recursive) dynamical depth in which
+     teleodynamic unit systems (e.g., organisms) are themselves involved in homeodynamic (ht),
+     morphodynamic (mt), or teleodynamic (tt) patterns of interaction. Each system’s value of
+     AIC is only meant to show rank order assuming that in the ideal case they could be
+     measured with the same metric. Both dimensions lack upper limits. “Frog soup” is intended
+     to describe a well-mixed solution containing all the molecules making up an adult frog. It is
+     uncertain how to rank the dynamical depth of human minds since they are embedded in
+     elaborate spatially and temporally extended symbolic social networks, though their
+     dynamical depth will inevitably be considerably greater than the other systems depicted.
+
+
+
+
+   The dynamical depth of the global signaling dynamics within brains (whose neuronal components
+are themselves teleodynamic units) may involve additional levels of higher order homeo-, morpho- and
+Information 2014, 5                                                                                  421
+
+even teleodynamic communicative interactions. The brain’s capacity to produce level-upon-level of
+increasing dynamical depth is a consequence of the potential for massively non-linear recurrent signal
+processing within a highly interconnected web of billions of incessantly active neurons. Paying
+attention to this substantial increase in dynamical depth may help explain many of the striking
+differences distinguishing biological cognition from computation.
+    These relationships between entropy and complexity, compression and constraint, and their
+counterparts in processes of description, explanation, and representation are fundamental to the
+complexity that we recognize in living and mental processes. This makes the concept of dynamical
+depth a critical missing link in the chain of concepts required to build a complete theory of complexity.
+By ignoring the multiple levels whereby life’s compression processes give rise to dynamical and
+functional organization, we exclude from analysis a vast fraction of the complexity that distinguishes
+living and mental processes from inorganic mechanical and computational processes. Indeed, the very
+concept of information (i.e., compressed description) is implicit in the higher order form of constraint
+that characterizes teleodynamics. So a formal analysis of living and mental phenomena is
+fundamentally incomplete unless it captures this semiotic-physical interwovenness created by life’s
+dynamical depth.
+
+Acknowledgments
+
+   The authors would like to thank the following colleagues for their many editorial comments
+(alphabetical order): Diego Caleiro, Tyrone Cashman, Mark Carranza, Julie Hui, Stefan Leijnen,
+Robert Logan, Jay Ogilvy, Jeremy Sherman, Alok Srivastava, Rodrigo Vanegas, Adrian Wyard,
+Hajime Yamauchi.
+
+Author Contributions
+
+   Both authors have contributed equally to this article in analyses and writing. Both authors have read
+and approved the final manuscript.
+
+Conflicts of Interest
+
+     The authors declare no conflict of interest.
+
+References
+
+1.    Simon, H.A. The architecture of complexity. Proc. Am. Philos. Soc. 1962, 106, 467–482.
+2.    Shannon, C. The Mathematical Theory of Communication. Bell Syst. Tech. J. 1948, 27, 379–423.
+3.    Solomonoff, R. A formal theory of inductive inference part I. Inf. Control 1964, 7, 1–22.
+4.    Solomonoff, R. A formal theory of inductive inference part II. Inf. Control 1964, 7, 224–254.
+5.    Kolmogorov, A.N. Three approaches to the quantitative definition of information. Probl. Inf.
+      Transm. 1965, 1, 1–7.
+6.    Chaitin, G.J. Algorithmic information theory. IBM J. Res. Dev. 1977, 21, 350–359.
+Information 2014, 5                                                                               422
+
+7.  Bennett, C. Logical depth and physical complexity. In The Universal Turing Machine—a
+    Half-Century Survey; Herken, R., Ed.; Oxford University Press: New York, NY, USA, 1988;
+    pp. 227–257.
+8. Chaitin, G.J. On the length of programs for computing finite binary sequences. J. Assoc. Comput.
+    Mach. 1966, 13, 547–569.
+9. Christen, M. Zweifel am Rande des Chaos. Available online: http://www.encyclog.com/_upl/files/
+    liz_total2.pdf (accessed on 30 April 2014). (In German)
+10. Lloyd, S.; Pagels, H. Complexity as thermodynamic depth. Ann. Phys. 1988, 188, 186–213.
+11. Sporns, O. Complexity. Available online: http://www.scholarpedia.org/article/Complexity
+    (accessed on 30 April 2014).
+12. McShea, D.W. Metazoan complexity and evolution: Is there a trend? Evolution 1995, 50, 477–492.
+13. Huberman, B.A. The adaptation of complex systems. In Theoretical Biology; Goodwin, B.,
+    Saunders, P., Eds.; The John Hopkins University Press: Baltimore, MD, USA, 1992; pp. 124–133.
+14. Huberman, B.A.; Hogg, T. Complexity and adaptation. Physica D 1986, 22, 376–384.
+15. Gell-Mann, M. What is complexity? Complexity 1995, 1, 16–19.
+16. Gell-Mann, M.; Lloyd, S. Effective complexity. In Nonextensive Entropy; Santa Fe Institute
+    Studies on the Sciences of Complexity; Oxford University Press: New York, NY, USA, 2003;
+    pp. 387–398.
+17. Gell-Mann, M.; Lloyd, S. Information measures, effective complexity, and total information.
+    Complexity 1996, 2, 44–52.
+18. Ay, N.; Müller, M.; Szkola, A. Effective complexity and its relation to logical depth. IEEE Trans.
+    Inf. Theory 2010, 56, 4593–4607.
+19. Adami, C. What is complexity? BioEssays 2002, 24, 1085–1094.
+20. Bialek, W.; Tishby, N. Predictive information. 1999, arXiv:cond-mat/9902341v1. Available
+    online: http://arxiv.org/pdf/cond-mat/9902341 (accessed on 30 April 2014).
+21. Tononi, G.; Sporns, O.; Edelman, G. A measure for brain complexity: Relating functional
+    segregation and integration in the nervous system. Proc. Natl. Acad. Sci. U.S.A. 1994, 91,
+    5033–5037.
+22. Martyushev, L.; Seleznev, V. Maximum entropy production principle in physics, chemistry and
+    biology. Phys. Rep. 2006, 426, 1–45.
+23. Koutroufinis, S. Selbstorganisation ohne Selbst [Self-Organization without Self]; Pharus: Berlin,
+    Germany, 1996. (in German)
+24. Deacon, T.W. Incomplete Nature: How Mind Emerged from Matter; W.W. Norton & Co.:
+    New York, NY, USA, 2012.
+25. Deacon, T.W. Reciprocal linkage between self-organizing processes is sufficient for
+    self-reproduction and evolvability. Biol. Theory 2006, 1, 136–149.
+26. Falkner, G.; Falkner, R. The Experience of Environmental Phosphate Fluctuations by
+    Cyanobacteria. In Life and Process; Koutroufinis, S., Ed.; De Gruyter: Berlin, Germany, 2014;
+    pp. 73–97.
+27. Koutroufinis, S. Teleodynamics: A Neo-Naturalistic Conception of Organismic Teleology.
+    In Beyond Mechanism: Putting Life Back into Biology; Henning, B., Scarfe, A., Eds.; Lexington
+    Books/Rowman & Littlefield: Lanham, MD, USA, 2013; pp. 309–342.
+Information 2014, 5                                                                          423
+
+28. Kull, K. Umwelt. In The Routledge Companion to Semiotics; Cobley, P., Ed.; Routledge: London,
+    UK, 2010; pp. 348–349.
+
+© 2014 by the authors; licensee MDPI, Basel, Switzerland. This article is an open access article
+distributed under the terms and conditions of the Creative Commons Attribution license
+(http://creativecommons.org/licenses/by/3.0/).
+

@@ -1,0 +1,1477 @@
+                                                       Making Better Sense of Quantum Mechanics
+
+                                                                               N. David Mermin
+                                                                 Laboratory of Atomic and Solid State Physics
+                                                                   Cornell University, Ithaca NY 14853-2501
+arXiv:1809.01639v1 [quant-ph] 5 Sep 2018
+
+
+
+
+                                               Abstract. We still lack any consensus about what one is actually talking about
+                                               as one uses quantum mechanics. There is a gap between the abstract terms in
+                                               which the theory is couched and the phenomena the theory enables each of us to
+                                               account for so well. Because it has no practical consequences for how we each
+                                               use quantum mechanics to deal with physical problems, this cognitive dissonance
+                                               has managed to coexist with the quantum theory from the very beginning. The
+                                               absence of conceptual clarity for almost a century suggests that the problem might
+                                               lie in some implicit misconceptions about the nature of scientific explanation that
+                                               are deeply held by virtually all physicists, but are rarely explicitly acknowledged.
+                                               I describe here such unvoiced but widely shared assumptions. Rejecting them
+                                               clarifies and unifies a range of obscure remarks about quantum mechanics made
+                                               almost from the beginning by some of the giants of physics, many of whom are
+                                               held to be in deep disagreement. This new view of physics requires physicists
+                                               to think about science in an unfamiliar way. My primary purpose is to explain
+                                               the new perspective and urge that it be taken seriously. My secondary aims are
+                                               to explain why this perspective differs significantly from what Bohr, Heisenberg,
+                                               and Pauli had been saying from the very beginning, and why it is not solipsism,
+                                               as some have maintained. To emphasize that this is a general view of science, and
+                                               not just of quantum mechanics, I apply it to a long-standing puzzle in classical
+                                               physics: the apparent inability of physics to give any meaning to “Now” — the
+                                               present moment.
+
+
+                                                         I. The stubborn persistence of quantum mysteries.
+
+                                               More than ninety years after the invention of quantum mechanics, we find ourselves
+                                           in a strange situation. Quantum mechanics works. Indeed, no theory of physics has ever
+                                           had such spectacular success. From ignorance about the structure of matter, quantum
+
+                                                                                        1
+mechanics has brought us, in less than a century, to an understanding so broad, powerful,
+and precise that virtually all contemporary technology relies on it. And the theory has
+enabled us to make sense of phenomena far beyond anything technology has yet been able
+to exploit.
+    Yet despite this unprecedented success there is notorious disagreement about. . . . The
+sentence fades away because it is not so easy to say what the disagreement actually is
+about. Everybody who has learned quantum mechanics agrees how to use it. “Shut up
+and calculate!” There is no ambiguity, no confusion, and spectacular success. What we lack
+is any consensus about what one is actually talking about as one uses quantum mechanics.
+There is an unprecedented gap between the abstract terms in which the theory is couched
+and the phenomena the theory enables us so well to account for. We do not understand
+the meaning of this strange conceptual apparatus that each of us uses so effectively to deal
+with our world.
+    Because it has no bearing on how quantum mechanics is applied to actual physical
+problems, this confusion has managed to coexist with the quantum theory. This suggests
+that the problem might lie in some implicit misconceptions about the nature of scientific
+explanation deeply held by virtually all physicists, but rarely explicitly acknowledged. I
+describe below such unvoiced assumptions that most physicists share. Acknowledging their
+existence, and rejecting them as wrong, clarifies and unifies a range of obscure remarks
+about quantum mechanics by many of the giants of physics, among them people who have
+traditionally been held to be in deep disagreement. Abandoning these misconceptions
+helps make better sense of quantum mechanics. But it requires physicists to think about
+science in a radically unfamiliar way.
+    To date the consequences of what follows are less about how to do physics than about
+how not to do it. For decades, some physicists have been searching for modifications in
+quantum mechanics that lead to changes in its physical predictions too small to have yet
+been observed. Such modifications are motivated not by failures of the existing theory, but
+by philosophical discomfort with one or another of the prevailing interpretations of that
+theory. Indicating the false preconceptions at the root of such vexing interpretations could
+undermine the motivation for such modifications, which have so far been entirely fruitless.
+    What follows may yet have consequences for physics. But it has not yet led to any
+no significant revisions in how quantum mechanics is used, and I shall not address such
+possibilities. I am not declaring that quantum mechanics will never be modified. But I am
+
+                                             2
+suggesting that if and when quantum mechanics is successfully modified, the motivation
+will come from unambiguous deviations of actual data from its predictions, and not from
+discomfort with any interpretations of its formalism.
+
+
+      The way of thinking about science I shall describe was developed in the early years
+of the 21st century by Christopher Fuchs and Rüdiger Schack, collaborating with Carlton
+Caves until 2006. Some people maintain that these developments add little if anything
+to what Bohr, Heisenberg, and Pauli had been saying from the beginning. One of my
+secondary purposes is to make it clear why this is wrong. Fuchs and Shack are advocating
+a view of science that is anathema to most physicists. While they were driven to it in part
+by the quantum “no-hidden-variables” theorems of Bell and of Bell, Kochen, and Specker,1
+the perspective of Fuchs and Schack also casts an illuminating light on strictly classical
+physics.
+      They have called their understanding of science “QBism”2 (pronounced the same as
+“cubism”), and I have suggested calling it “CBism” when the same way of thinking about
+science is applied to puzzling, if less notoriously vexing, classical issues.
+      I stress again that what follows need not change how anybody actually uses quantum
+mechanics. My purpose is to answer the question of what one is actually doing when one
+uses it. Since many physicists never find it necessary to ask that question, they may well be
+unpersuaded, perplexed, or even appalled by my answer. Those who are appalled should
+bear in mind that I am offering here a philosophical answer — viewing science as an aspect
+of the nature of human understanding — to a philosophical question: What the hell are we
+talking about when we use quantum mechanics? For practical purposes ordinary everyday
+quantum mechanics is just fine, and what I have to say is of little or no interest. It is my
+hope to interest those who, like me, are impractical enough always to have been bothered,
+at least a bit, by not knowing what they are talking about.
+
+
+      In Section II I set forth the interlocking contents of QBism as concisely as I can, to
+encourage you to consider them as a whole, before you reject any of them as unacceptable
+and cease to read others that help to support it. In Section III I expand my comments on
+
+  1
+    I gave a unified review of the Bell and BKS theorems in N. D. Mermin, Revs.
+Mod. Phys. 65 803-816 (1993), now available, with minor errata incorporated, as arxiv-
+1805.10311.
+  2
+    More on this terminology in Section 3.4.
+
+                                               3
+the points mentioned in Section II, and go into their interrelations. In Section IV I give
+a QBist view of many different remarks made over the years by scientists, primarily, but
+not exclusively, physicists. In Section V, to emphasize that QBism is a view of science in
+general, I give the QBist resolution of a long-standing puzzle in strictly classical physics.
+Section VI is a brief epilogue.
+
+
+                       II. The ingredients of QBism, in brief.
+
+2.1. Empiricism
+
+      Much of the ambiguity and confusion at the foundations of quantum mechanics stems
+from an almost universal refusal to recognize that individual personal experience is at
+the foundation of the story each of us tells about the world. Orthodox (“Copenhagen”)
+thinking about quantum foundations overlooks this central role of private personal experi-
+ence, seeking to replace it by impersonal features of a common “classical” external world.
+Whenever orthodox thinking addresses the role of experience, it blurs or entirely ignores
+the difference between one person’s experience and another’s.3
+      This confusion arises out of a deep desire to objectify and make impersonal what is,
+at the most fundamental level, unavoidably subjective and personal. To eliminate the
+confusion it is necessary to acknowledge that science in general, and quantum mechanics
+in particular, is a tool that each of us uses to organize and make sense of our own private
+experience.
+      I build my understanding of the world I live in entirely out of my own private personal
+experience. The experiences on which my understanding of my world rests are directly
+accessible to me and only to me. They underlie everything I know about the world. Like
+the cogito of Descartes, for me they are self-evident and unquestionable as they happen.4
+A very important component of my personal experience are the words that others address
+to me,5 either verbally or in writing, and either individually or as members of collaborating
+groups or as members of the world-wide community of scientists.
+  3
+     In the case of “Wigner’s friend” orthodoxy does notice the difference, but takes it to
+be paradoxical, rather than fundamental.
+   4
+     Distinguishing dreams and hallucinations from externally induced experiences is a
+subtle problem (as it can be in ordinary life) but it is the kind of refinement it would be
+distracting to address here. If I can persuade you that this might be a problem worth
+further thought, then I will have succeeded in my aim for this essay.
+   5
+     More on this in point 2.2 immediately below.
+
+                                              4
+      I have used myself as one example of a perceiving subject. I could equally well have
+written “you” or “Alice” or “Bob”. I focus on one particular subject, both to underline
+the unbreakable privacy of the directly perceived experience of each and every one of us,
+and also to emphasize that each of us has their own personal model of the world, based on
+their own private body of experience.
+      What QBism adds to orthodox empiricism, as well as to orthodox interpretations of
+quantum mechanics, is its insistence that at the most fundamental level “experience” does
+not mean a unique body of common human experience. Every experience, as I use the
+term here, is private to the person having that experience. So is the picture of the world
+that each of us constructs from our own experience.
+      There is indeed a common external world in addition to the many distinct individual
+personal external worlds. But that common world must be understood at the foundational
+level to be a mutual construction that all of us have put together from our distinct private
+experiences, using our most powerful human invention: language.
+
+2.2. Language
+
+      Personal experience is private: I cannot enter your mind and share your own experience
+exactly as you perceive it. It is uniquely and impenetrably yours and only yours. But
+language enables each of us to communicate to others crude or even quite sophisticated
+symbolic representations of our own experience. By language I mean not only spoken
+language, but books, scientific publications, emails, gestures, touches, hugs, and so on.
+      Because you are part of my external world, like anything else in my world you too
+can engender experiences in me. “Language” is any way you have to induce experiences
+in me, through which you can try to give me some sense of the content of experiences of
+your own. My experience of you provides me with highly plausible evidence that you do
+indeed have experiences of your own, which play for you the same role that my experience
+plays for me. And what you say to me can give me a sense of how you perceive particular
+experiences of your own.
+      My conclusion that you have experiences that are as direct and important for you
+as mine are for me, is as strong an inference as any I know. Although it is neither a
+demonstrable proposition nor a tautology, I would assign it a probability of 1.6 I could not
+function as a social being were I not certain of this. I can’t believe that you could either.7
+  6
+      More on probability 1 in point 5 below.
+  7
+      If you are already thinking about rejecting all this as solipsism, in spite of my explicit
+
+                                               5
+     Language enables us each to hypothesize features that are common to our otherwise
+private personal experiences. This is how we can each arrive at something like a common
+understanding of major parts of the worlds that each of us has built from their own
+experience. We are in the habit of calling “the world” this common understanding we
+all arrive at through language. Each of us is also all in the potentially more dangerous
+habit of identifying this less vivid common world with our own private world. Until people
+started trying to make sense of quantum mechanics, this was a useful and usually8 harmless
+practice.
+     Our 90-year inability to reach agreement on the fundamental meaning of quantum
+mechanics ought to have brought home to us the dangers of each of us identifying our
+own personal world with the common world we all negotiate with each other. Quantum
+mechanics is a tool that I use to help me make sense of my personal world. It is only
+because language enables us all to conclude that the worlds of different people have features
+in common, that quantum mechanics can also be a tool that we can use to help us make
+sense of our world.9
+
+2.3. Actions
+
+     The world acts on me, inducing the private experiences out of which I build my under-
+standing of my own world. Reciprocally, I act on the world. I can infer the consequences
+of my action on the world from the experiences the world creates back in me through its
+response to my own action.
+     My action on the world can be as gentle and implicit as looking at or listening for
+something, or as intrusive and explicit as building or using or reading about a complex
+apparatus that performs and records what happens in a carefully designed experiment. I
+can ask you a question and experience your answer. I can perform an experiment and
+experience the reading of a dial or the output of a computer. I can listen for the ringing
+of a bell.
+     My actions on the world that lead to a reaction of the world back on me constitute
+a vast generalization of what are called measurements in orthodox quantum mechanics.
+
+reference to “you” and your own experience, please jump ahead immediately to remarks
+3.1.2 and 3.3.3. But then please jump back to here.
+   8
+     But see Section V.
+   9
+     “We” here can mean the scientific community as a whole, as well as I and a few
+collaborators.
+
+                                             6
+Orthodox measurements are actions mediated by an appropriate apparatus. The outcome
+of a measurement in orthodox quantum mechanics is an objective property of the world:
+the reading of a pointer, a print-out, a tape, or a computer screen.
+      In QBism the role of measurement is played for me by any action whatever that I take
+on the world, whether or not with the help of a “measurement apparatus”. The outcome
+of my action is the experience that the world induces back in me, in response to my action.
+My experience of a pointer reading, print-out, return email, etc., are all particular examples
+of this much more general outcome of a much more general action. The outcome of an
+action, being an experience, is subjective. It is private to the person taking that action.
+But its representation in language can be communicated to other people. What I call the
+objective world is built out of such linguistically shared subjective experiences.
+      The term “measurement” plays no fundamental role in QBism. The measurements
+that play so central a role in the orthodox theory are just particular examples of actions
+taken by a user of science, usually with the help of a large piece of apparatus. In QBism
+the outcome of a measurement or the outcome of any other action by a user, is not a
+“classical” fact as it is in the orthodox theory, but a private experience of that user. If
+you are watching me you will have your own private experiences in response to your own
+action, which is in this case your own observation of my action.
+      Language is the only means we have for trying to compare the personal outcomes of
+all such users, and for trying to convey all those outcomes to users who were not watching
+or otherwise experiencing those actions and their consequences.
+
+2.4. Bettability
+
+      On the basis of my prior experiences I can form expectations for the responses of
+the world to my actions. Those expectations can be quantified into probabilities. Those
+probabilities can be expressed as the odds at which I am willing to place or accept bets.
+Those bets should be coherent: I should never be willing to offer and take a group of bets
+at odds which together result in a certain loss.10 This requirement alone can be shown to
+imply that my probability assignments must satisfy the usual laws of probability.11
+      Laws of science are the regularities we have discerned in our individual experiences,
+and agreed on as a result of our communications with each other. Science, in general,
+ 10
+    Not merely “in the long run” but in each individual instance.
+ 11
+    See, for example, C. A. Fuchs and R. Schack, “Quantum Bayesian Coherence,” Re-
+views of Modern Physics 85, 1693-1715 (2013).
+
+                                              7
+and quantum mechanics, in particular, impose further constraints on my probabilistic
+expectations. They help each of us place better bets on our subsequent experience, based
+on our earlier experience. We are able to navigate the world better because it is bettable.
+This is obvious for the laws of quantum mechanics, which are explicitly probabilistic. It
+also holds for classical physics, though bettability can be obscured in classical physics by
+a widespread misunderstanding of probabilities that are often very close to zero or one.12
+      Science can be viewed as a user’s guide to the world. Scientific laws are guides to
+action, which have proved to be spectacularly successful. This is an important fact about
+the world, and about each of our individual worlds. The laws of science find their meaning
+in the actions they inspire in every user of science.
+      If probabilities are personal expressions of one’s willingness to bet, and one of the laws
+of quantum mechanics determines probabilities from quantum states, then quantum states
+must also be judgments of the person making the state assignment. Although they describe
+what one can expect from the world, quantum states are no more objective features of the
+world than are the probabilities that they encode.
+      In the orthodox interpretation when a measurement has an outcome the state of the
+system is said to “collapse” to a new state that incorporates that outcome. In QBism an
+outcome is the experience induced in an actor by the world’s response to an action. The
+collapse of the state is nothing more than the normal updating of the expectations of that
+actor on the basis of new experience. The collapse of a quantum state is conceptually no
+different from the updating of a probability distribution on the basis of new data.
+      I have been chided that quantum states were collapsing in the early universe, before
+there were physicists. This makes no more sense than maintaining that probability dis-
+tributions were updating in the early universe, before there were statisticians. What does
+make sense is for me to reassign a probability to certain events having happened long ago,
+on the basis of my new current experiences. It is the same for the collapse of quantum
+states used to describe phenomena in the early universe.
+
+2.5. Probability One.
+
+      With the advent of quantum mechanics, deterministic mechanisms disappeared from
+physics. Should this be qualified in a footnote: “Except when quantum mechanics assigns
+probability 1 to an outcome”? QBism holds that probability assignments are personal
+
+ 12
+      See point 2.5 below.
+
+                                               8
+judgments even when p = 1. An expectation is assigned probability 1 if it is held as
+strongly as possible. Probability 1 indicates a particular intensity of belief: supreme
+confidence — “I’d bet my life on it.” It does not imply the existence of a deterministic
+mechanism guaranteeing the p = 1 outcome.
+    An example to keep in mind is my above-mentioned assignment of probability 1 to
+my belief that you have personal experiences of your own that have for you the same
+immediate character that my experiences have for me. This is not a law of nature, backed
+up by objective properties of the world. It is my own fundamental guide to action.
+    This point was made over 250 years ago by David Hume in his critique of induction.
+Induction maintains that if something happens over and over and over again, we can take
+its occurrence to be an objective law of nature. What basis do we have for believing in
+induction? Only that it has worked over and over and over again. You can’t establish
+induction without assuming its validity. Hume concludes that inductive inference is a
+fundamental human habit.
+    That probability-1 (or probability 0) assignments are personal judgments, like any
+other probability assignments, is essential to the coherence of QBism. This view of proba-
+bility 1 or 0 has the virtue of undermining the temptation to find any kind of “nonlocality”
+in quantum mechanics. When a single photon is observed at one slit, nothing changes at
+the other slit when the probability of observing it there instantly drops to 0. The instan-
+taneous change is in the expectations of whoever made the observation.
+    Most physicists take it for granted that an outcome with probability 1 must be en-
+forced by an objective mechanism. This was succinctly put by Einstein, Podolsky and
+Rosen. Probability-1 judgments, they held, were backed up by “elements of physical real-
+ity”. Bohr wrote that the mistake of EPR lay in an “essential ambiguity” in their phrase
+“without in any way disturbing”. For a QBist, their mistake is much simpler: probability-
+1 assignments, like more general probability-p assignments, are personal expressions of a
+willingness to place or accept bets, constrained only by the requirement that they should
+not lead to certain loss in any single event. When I assign probability 1, I only mean that
+I’d bet my life on it.
+
+2.6. Object and Subject.
+
+    Physicists’ nearly universal conviction, that science should be formulated in a way that
+makes no reference whatever to the personal experience of the individual user of science,
+
+                                             9
+makes it impossible to express any of the above. It underlies almost a century of confusion
+about the meaning of quantum mechanics. The fact is that my science has a subject (me)
+as well as an object (my world). Your science has a subject (you) as well as an object
+(your world). Alice’s science has a subject (she) as well as an object (her world). I make
+the same point three times to underline both the plurality of subjects, and the plurality
+of worlds that each of us constructs on the basis of our own individual experience.
+    While each of us constructs a different world, the world of science is our joint construc-
+tion of the vast body of phenomena that we try to infer, through language, to be common
+to our own individual worlds. Science arises out of our use of language to indicate to each
+other our individual experiences out of which we each construct our own individual worlds.
+
+
+                 III. The ingredients of QBism, in more detail.
+
+3.1. Comments on Empiricism
+
+    3.1.1. Although I am trying to write philosophically about the nature of science, I must
+acknowledge that my formal education in philosophy is limited to my first undergraduate
+year at Harvard, 1952-53, when the famous Humanities 5 was offered for the first time by
+Professors Henry Aiken and Morton White. It was my great good fortune to be assigned
+to a discussion section taught by the remarkable Stanley Cavell, then a beginning graduate
+student. He taught me how to think/write. I would be pleased if this essay inspired a
+philosopher to set my naive intuitions into philosophically respectable terms.
+    3.1.2. Its focus on “my experience” and “my world” has led some to see QBism as
+solipsistic. This is wrong. I would be foolish not to acknowledge that my experience of you
+has provided me with overwhelming, if indirect, evidence that leads me to my unshakeable
+hypothesis that you have your own private experience that you perceive pretty much as
+I perceive mine. From your experience you infer your own world, which you tell me has
+for you many of the features that mine has for me. It is not solipsism if there are many
+distinct “solipsists” comparing notes and trying to construct a common understanding of
+features they believe to be shared by their own personal worlds. See also comment 3.3.3
+below.
+    3.1.3. Direct access to one’s own private experience is necessary, but not sufficient
+for one to be able to use quantum mechanics. One must also understand the quantum
+mechanical formalism well enough to be able to deduce revisions of one’s expectations
+for one’s future experience on the basis of one’s prior experience. The answer to one of
+
+                                             10
+Einstein’s many wonderful skeptical questions is “No, a mouse cannot collapse a wave-
+packet”, because no mouse is able to learn and use the quantum formalism to update its
+expectations. On the other hand a machine also cannot collapse a wave-packet, because
+although a machine, unlike a mouse, can be programmed to use the quantum formalism, I
+see no evidence that a machine has any directly perceived personal experience analogous to
+mine. Therefore the actions on the world of a machine have no outcomes for that machine.
+      3.1.4. QBism takes more seriously than do most physicists the basic notion of empiri-
+cism, that all knowledge derives from experience. For a QBist empiricism has a strongly
+personal flavor to it: the knowledge of each one of us derives from our own personal expe-
+rience. This is close to what William James called “radical empiricism”. Different people
+with different experiences will in general have different knowledge. The answer to the
+skeptical question “whose knowledge?” is “the knowledge of whoever is using quantum
+mechanics.” The answer to “knowledge about what?” is “knowledge about the experience
+of that knower”. Collective or joint knowledge is a higher level concept, brought about by
+efforts to share individual knowledge through the imperfect medium of language.
+      3.1.5 Indeed, “knowledge” is not the appropriate term for QBist empiricism, in that it
+suggests something in one-to-one correspondence with impersonal features of the world. A
+better term is “belief”. “Belief” characterizes a model of the world that particular people
+construct from their own particular experience. “Belief” brings into the story a believer.
+“Knowledge”, insofar as it suggests something more than a personal inference, does not
+automatically raise the question of the identity of the knower.
+      3.1.6 What is most important about scientific belief is that it is constantly subject to
+challenge and revision (updating) on the basis of new experience, including what we have
+learned from others about their own beliefs, based on their own experiences. As I put it
+elsewhere:13
+          What makes the pursuit of science so engrossing is to learn that one’s
+          most strongly held beliefs can be completely wrong. The search to
+          identify and correct the old errors can lead to deep insights into nature.
+          The world would be a far better place for all of us if this joy scientists
+          find in exposing their own misconceptions were more common in other
+          areas of human endeavor.
+
+ 13
+    It’s about Time: Understanding Einstein’s Relativity, Princeton UP, 2005, final para-
+graph.) .
+
+                                              11
+      3.1.7. There is a little remarked upon but important ambiguity in the first person
+plural. When Heisenberg says that quantum states are about our knowledge, “our” can
+mean all of us collectively or it can mean each of us individually. Failing to recognize
+the distinction between these two quite different meanings is responsible for much of the
+confusion surrounding the “Copenhagen interpretation”. When a QBist says “Quantum
+states encapsulate our belief,” the “our” always means each of us individually. To avoid
+ambiguity it is better to say “My (your, Alice’s) quantum state assignments encapsulate my
+(your, her) belief” to avoid misreadings based on an implicit assumptions of a unique state
+assignment or of common knowledge. QBism replaces the orthodox term “knowledge” with
+“belief”, to sharpen the distinction between individual belief based on personal experience,
+and shared knowledge, common to many people ranging from a few friends through the
+hundreds of authors of a high-energy physics paper to all of scientifically literate humanity,
+as a result of the effort to extract what is common to personal belief through the use of
+language.
+      3.1.8. My own science is at its root entirely about my own personal experience. The
+world that each of us infers from our own personal experience is often taken to be what
+science is about. Most of the time this is a hair-splitting distinction. But it is the failure
+to distinguish between my experience and the world that I infer from my experience that
+is the root of the confusion at the foundations of quantum mechanics. Whatever cannot
+ultimately be traced back to my personal experience cannot be a part of my science. This
+need not mean that there are no such entities; just that if they exist, they are beyond
+the scope of my science to address. My experience, crucially, includes what I hear or read
+about from others, as expanded on in Section 3.2 below. This is why there is an enormous
+common residue shared by my science, your science, and the science of all of us together.
+That common residue is generally called simply “science”.
+      3.1.9. Lurking in most orthodox interpretations of quantum mechanics is a notion
+of a “classical” level of reality. Landau and Lifshitz14 are painfully explicit about this.
+Sometimes “classical” is replaced by “macroscopic” or “irreversible”. From a QBist point
+of view all of these objective, impersonal, vaguely delineated formulations are nothing
+more than efforts to avoid having to invoke the bedrock of subjective, individually personal
+experience.
+
+3.2. Comments on Language
+ 14
+      See Section 4.8 below.
+
+                                             12
+      3.2.1. Niels Bohr always emphasized the importance of “ordinary language” because,
+he said, it was the only way to represent to others the outcomes of experiments. Bohr
+took such outcomes to be objective phenomena in a common external world, and this
+unambiguous reality of experimental outcomes has been taken for granted in all subsequent
+interpretations of quantum mechanics.15 In QBism, however, outcomes are not limited to
+“experiments” and they are neither objective nor commonly held. An outcome is the
+personal experience induced in a user by the world’s response to his or her personal action.
+As such it is private and subjective.
+      3.2.2. For a QBist, language — ordinary or technical — is even more essential than
+it was for Bohr. Language is the only way one can try to represent to others one’s private
+personal experience, or get from others a sense of their own private experience. Science
+concerns that which is common to the worlds each of us infers from our own unique
+experience. Language is essential to an understanding of our common science because it is
+the only way we have to get a sense of what is common to our different private experiences.
+      3.2.3 Since science is what we can distill out of our individual personal experiences
+through our efforts to represent those experiences in language, science itself is a form of
+language — a very powerful one. In one sense this seems obvious: we learn science from
+books and teachers. Both represent the relevant experiences to us verbally. In another
+sense it seems obviously wrong: the laws of physical science can be cast in mathemat-
+ical forms having a reality that transcends the mere creatures that discover them. But
+mathematics itself is a form of language, even more highly refined than science.16 Math-
+ematical Platonists will recoil from this in horror. The rest of us, however, might think
+about Wigner’s surprise at the “unreasonable effectiveness” of mathematics in science.
+Why shouldn’t mathematics, the most highly refined form of language, serve as the natu-
+ral vehicle for expressing the most fundamental forms of science, another only slightly less
+refined form of language. Both mathematics and science are human creations. Even if you
+are convinced that I should not have said “creations”, but “discoveries”, I hope that you
+will still be willing to consider that what we are comparing here are two representations
+of those discoveries or creations in human language.
+      3.2.4 Without intelligent beings there cannot be language. Though many mathemati-
+
+ 15
+     The only exception I know of is the many-worlds interpretation, in which all outcomes
+take place in branches of a ramifying universe. QBism regards this as the reductio ad
+absurdum of reifying the quantum state.
+  16
+     Bohr thought so. See 4.2.5.
+
+                                             13
+cians might disagree, it makes no sense to insist that the integers would obey the unique
+factorization theorem even if there were no intelligent beings to define the integers and
+formulate the theorem.
+
+3.3. Comments on Actions
+
+    3.3.1. Fuchs and Schack have called someone who acts on the world an “agent”. I
+prefer the term “user” [of quantum mechanics]. “User” emphasizes the fact that quantum
+mechanics is a tool that anybody who learns it can use to help organize their experiences
+and anticipate the likelihood of the outcomes of their subsequent actions.
+    3.3.2. The primacy of “measurement” in the orthodox interpretation of quantum
+mechanics is a manifestation of the historic refusal to acknowledge that the user of science
+has an active role to play in the story. “Measurement” replaces all the different users
+and their different actions with a single objective material apparatus. And “measurement
+outcome” replaces the diverse personal experiences of many users with a single reading of
+a single pointer.
+    3.3.3 When I act on the world, the action I take is my free choice. Reciprocally,
+when the world acts back on me in response to my action, quantum mechanics can tell me
+nothing more than the probability of the response I can expect: the world’s reaction to
+my action is the world’s free choice. It would be a strange kind of solipsism that endowed
+the world with the ability to act on me in ways inherently out of my control. See also
+comment 3.1.2, above.
+3.4. Comments on Bettability
+
+    3.4.1 “QBism” originally stood for “quantum Bayesianism”, because it started off by
+taking seriously the “personalist Bayesian” view that probabilities are subjective personal
+judgments, and exploring the consequences of this understanding of probability for our
+understanding of quantum mechanics.
+    3.4.2. But “Bayesian” does not capture the view of probability as a personal judgment.
+Some Bayesians take a firmly objective view of probability.
+    3.4.3. Nor is it necessary to become acquainted with technical issues in the foundations
+of probability theory to acquire a sense of what QBism is about, as I hope my remarks
+above have already made clear.
+    3.4.4 Most importantly, I would say that developing an interpretation of quantum
+mechanics as an outgrowth of a subjective view of probability puts the cart before the
+
+                                            14
+horse. While taking a subjective view of probability does lead unavoidably to the QBist
+interpretation of quantum mechanics, it is the success of QBism in clarifying the interpre-
+tation of quantum mechanics that is by far the strongest argument I know of for taking
+seriously the view that probabilities — and even “laws of nature”17 — are ultimately best
+understood as personal judgments and not objective facts.
+      3.4.5. The term “QBism” nevertheless remains apt, in that it describes a break with
+19th century views of science that is just as great as the break of cubism with 19th century
+views of art. Fuchs has pointed out that there already exists an ungainly but entirely
+appropriate term beginning with B, bettabilitarianism coined by Oliver Wendell Holmes
+to describe the analog in epistemology of utilitarianism in ethics:18
+          I must not say necessary about the universe. . . . We don’t know whether
+          anything is necessary or not. I believe that we can bet on the behav-
+          ior of the universe in its contact with us. So I describe myself as a
+          bettabilitarian.19
+
+Fuchs has suggested that Holmes’ little-known century-old neologism can accurately serve
+for the B in “QBism”, and I agree. On the other hand “QBism” is acquiring a currency
+that permits it to stand on its own, without the B signifying anything at all.
+
+      3.4.6. To insist that quantum states existed in the early universe, long before anybody
+existed to assign such states, is to misunderstand the scientific description of the past.
+The models of the early universe to which we assign quantum states are models that we
+construct to account for current experience. Without current or future data to account for
+we would have no basis for constructing models of the past.20
+
+3.5. Comments on Probability One.
+
+      3.5.1. This may be the hardest aspect of QBism for people to accept. If quantum
+states are subjective judgments, it is absurd to add the proviso that the probability-1
+consequences of quantum states are exempt from this status.
+      3.5.2. Worse than absurd, it is inconsistent. Pure states can be defined by specifying
+
+ 17
+    Recall the former Law of Conservation of Mass.
+ 18
+    The root of “bettabilitarianism” (and its most strongly accented syllable) is“bet” —
+what gamblers do.
+ 19
+    Holmes Pollock Letters, Mark DeWolfe Howe (Ed.), Belknap Press, 1961, p. 252.
+ 20
+    Rudolf Peierls made this point succinctly in 1991. See Section 4.10.2.
+
+                                             15
+a single action having a particular outcome to which quantum mechanics assigns a proba-
+bility 1. If that outcome is backed up by an objective “element of physical reality”21 , then
+that element of reality is a physical mechanism that underlies the state assignment, and
+the foundations of quantum mechanics plunge back into their 90-year-old fog.
+      3.5.3. I once remarked to Rüdiger Schack that I would never bet my life on anything.
+He pointed out that I do it every time I cross a street. We build our lives around beliefs
+we hold with absolute certainty. Quantum mechanics should teach us to beware of reifying
+such powerful personal convictions into preexisting elements of reality.
+      3.5.4. David Hume understood this almost two century before quantum mechan-
+ics. The certainties of classical physics are themselves matters of judgment. The shifty
+quantum-classical boundary arises from a failure to appreciate this. Ultimately everything
+I know rests on my experience. Beliefs may be held with supreme confidence. But they
+remain beliefs.
+
+3.6. Comments on Object and Subject.
+
+      3.6.1. Conventional interpretations of quantum mechanics talk a lot about object
+vs. subject. But the term “subject” is almost always restricted to the “observer” or the
+maker of the measurement. Attempts are implicitly made to objectivize the subject. The
+references to the “classical world”, or to classical phenomena, or to the measurement
+apparatus, or to “macroscopic” or “irreversible” phenomena, are all manifestations of the
+prevailing reluctance to avoid the subjective — indeed, the personally subjective — aspect
+of the scientific process.
+      3.6.2. Critics of QBism sometimes take it to eliminate the object entirely, in favor of
+the subject. This is a cartoon of a response to the emphasis of QBism that science cannot
+be understood without reference to the subject. To be sure, each of us constructs our own
+objective world on the basis of our own personal experience. But we then negotiate among
+ourselves a common objective world that we can individually and then collectively update
+and revise on the basis of further individual or verbally shared experience.
+      3.6.3. The objective world asserts itself unmistakably, unpredictably and uncontrol-
+lably in its immediate response to any of our interventions. That immediate response
+only alters the world of the person or people who experience it, but when the experience
+induced by the intervention is reported to many, a version of the alteration is transmitted
+
+ 21
+      See Section 2.5.
+
+                                             16
+to their common world.
+
+
+          IV. Some quotations that QBism illuminates and vice-versa
+
+      This Section offers a third opportunity to examine the principles of QBism, this time
+using them to comment on a collection of quotations. The quotations are arranged al-
+phabetically by writer and are not intended to develop a single line of thought. I am not
+suggesting that any of the writers were early QBists. What I do want to demonstrate is
+how QBism can shed light on remarks which may be obscure, paradoxical, or apparently
+incompatible. It can also be illuminating to note how a quotation differs from QBism.
+
+4.1 John S. Bell22
+
+      4.1.1 Our students learn quantum mechanics the way they learn to ride bicycles (both
+very valuable accomplishments) without really knowing what they are doing.
+
+          — J. S. Bell, letter to R. E. Peierls, 20/8/1980
+
+      4.1.2 I think we invent concepts, like “particle” or “Professor Peierls”, to make the
+immediate sense of data more intelligible.
+
+          — J. S. Bell, letter to R. E. Peierls, 24/2/1983
+
+      4.1.3 I have the impression as I write this, that a moment ago I heard the bell of the
+tea trolley. But I am not sure because I was concentrating on what I was writing. . . . The
+ideal instantaneous measurements of the textbooks are not precisely realized anywhere
+anytime, and more or less realized, more or less all the time, more or less everywhere.
+
+          — J. S. Bell, letter to R. E. Peierls, 28/1/1981
+
+      In 2014, at a conference celebrating the 50th anniversary of Bell’s theorem, I learned
+that these three quotations, which I had come upon among nearly 2,000 pages of Rudolf
+Peierls’ selected correspondence, were unfamiliar even to those who, like me, had read
+and admired almost everything the highly quotable John Bell had written about quantum
+foundations.
+      Quotation 4.1.1 suggests a QBist riddle: Why is quantum mechanics like a bicycle?
+ 22
+      Selected Correspondence of Rudolf Peierls, v.2, Sabine Lee [ed], World Scientific, 2009.
+
+
+                                              17
+Answer: Because, while it is possible to learn how to use either without knowing what
+you are doing, it is impossible to make sense of either without taking account of what
+people actually do with them. Given a bicycle, an intelligent extraterrestrial who had
+never encountered a human being would be incapable of grasping the nature of such an
+artifact. Without an awareness of its user, a bicycle makes little sense. One begins to
+understand a bicycle only when one learns that it is a tool for a creature with two lower
+limbs with feet at the ends to fit on the pedals and two upper limbs ending in hands
+capable of grasping the handle bars. The very names of these parts of the bicycle make
+explicit reference to the nature of the user. The nature of quantum mechanics, like that
+of a bicycle, cannot fully be understood without explicit reference to its user. But the
+nomenclature of quantum mechanics is not as helpful as bicycle nomenclature in making
+this explicit. On the contrary, it hides the user from sight.
+      Quotation 4.1.2 shows that John Bell was willing to consider concepts, as physical as
+a particle or as social as the person to whom he is writing, as human inventions designed
+to help him make sense of the data that constitute his experience.
+      In Quotation 4.1.3 Bell gives a very concise statement of a view that measurements
+are not limited to laboratory procedures and that the outcomes of measurements are not
+limited to readings of devices in the laboratory.
+      All of these are fundamental QBist views. But John Bell was not a protoQBist. No
+QBist would share his longing for objectively existing beables to replace the measured
+observ ables of quantum orthodoxy. Perceiveables might do the job, provided one acknowl-
+edged that they were joint manifestations of the world and the perceiver. But I very much
+doubt Bell would have accepted this.
+      Nevertheless, Bell’s remarks to Peierls, and the way in which he criticized Copenhagen,
+lead me to doubt that he would have rejected QBism quite as superficially as some of his
+current admirers have done. In these letters he seems open to a human role in the story,
+even if not at the most fundamental level.
+
+
+4.2 Niels Bohr
+
+      4.2.1 In our description of nature the purpose is not to disclose the real essence of the
+phenomena but only to track down, so far as it is possible, relations between the manifold
+aspects of our experience.23
+ 23
+      Niels Bohr, 1929. In Atomic Theory and the Description of Nature, Cambridge (1934),
+
+                                              18
+    4.2.2 Physics is to be regarded not so much as the study of something a priori given,
+but as the development of methods for ordering and surveying human experience.24
+
+    These two statements, written more than three decades apart, are remarkably similar.
+Both resemble a better known and more sensational remark attributed to Bohr by Aage
+Petersen after Bohr’s death.25 Both quotations state that physics is not so much about
+phenomena, as it is about our experience of those phenomena. This sounds like QBism,
+but there is an important difference. The phrases “our experience” in 4.2.1 and “human
+experience” in 4.2.2 fail to distinguish between the unique and immediate personal expe-
+rience of any single individual, and the collective experience of everybody, negotiated and
+expressed through the medium of human language.
+    The private individuality of human experience, central to QBism, is not, as far as I
+can tell, a part of Bohr’s thinking. Nor can it be found in any other version of quantum
+orthodoxy that I am aware of. My guess is that if required to expand on what he meant
+by “experience” Bohr would fall back on impersonal data produced by a macroscopic piece
+of “classical” apparatus. He would not take it to signify the private personal contents of
+an individual mind.
+
+    4.2.3 How do we communicate physical experience at all?. . . By an experiment, we
+must understand a situation in which we can tell others what we have done and what we
+have learned.26
+
+    4.2.4 However far the phenomena transcend the scope of classical physical explanation,
+the account of all evidence must be expressed in classical terms. The argument is simply
+that by the word “experiment” we refer to a situation where we can tell others what we
+have done and what we have learned and that, therefore, the account of the experimental
+arrangement and of the results of observation must be expressed in unambiguous language
+with suitable application of the terminology of classical physics.27
+
+
+p. 18.
+ 24
+    Niels Bohr, 1961. In Essays 1958-1962 on Atomic Physics and Human Knowledge,
+Ox Bow Press, Woodbridge, CT (1987), p. 10.
+ 25
+    See 4.12 below.
+ 26
+    Niels Bohr Public Lecture: Atoms and Human Knowledge, Norman Oklahoma, De-
+cember 13, 1957.
+ 27
+    “Discussion with Einstein on Epistemological Problems in Atomic Physics”
+
+                                             19
+      4.2.5 Rather than a separate branch of knowledge, pure mathematics may be con-
+sidered as a refinement of general language, supplementing it with appropriate tools to
+represent relations for which ordinary verbal expression is unprecise or cumbersome.28
+
+      Ordinary language was enormously important to Bohr. An essential part of an ex-
+periment was reporting it to others. I always found this puzzling. If the outcome of an
+experiment is an objective classical fact, why is it so important to be able to communicate
+it to other people in ordinary language? Why can’t they just look for themselves?
+      QBism explains this. If the outcome of my experiment is, like the outcome of any
+of my actions on the world, just my own personal experience, then it is locked up inside
+of me. Only by reporting it in words — there is no other way to represent personal
+experience — can I attempt to communicate it to others. I also need language to compare
+my own experience with the verbal representations to me by others of their own private
+experience. Taking measurement outcomes to be impersonal features of the world obscures,
+and, indeed, contradicts this fundamental QBist point.
+      Quotation 4.2.5, however, comes very close to the QBist/CBist view of mathematics
+expressed above in point 3.2.3.
+
+
+4.3 Rudolf Carnap
+
+      4.3.1 Einstein said that the problem of the Now worried him seriously. He explained
+that the experience of the Now means something special for man, something essentially
+different from the past and the future, but that this important difference does not and
+cannot occur within physics. That this experience cannot be grasped by science seemed
+to him a matter of painful but inevitable resignation.29
+      QBism (CBism) accounts for the Now.30 It is a problem only for those who insist on
+excluding the subject from science. Physics is not only able to deal with the Now, but it
+is able to demonstrate that the Now behaves in a way that is fully consistent with normal
+human behavior, even when relativistic time dilation is a significant effect.
+
+ 28
+     Niels Bohr, The Philosophical Writings of Niels Bohr , vol. IV, Jan Faye and Henry
+J. Folse (eds.), Ox Bow Press, Woodbridge, CT, 1998. Page 190.
+  29
+     The Philosophy of Rudolf Carnap, P. A. Schilpp, ed., Open Court, La Salle, IL (1963),
+p. 37.
+  30
+     See Section V.
+
+                                             20
+4.4 Albert Einstein
+
+      4.4.1 The Heisenberg-Bohr tranquilizing philosophy — or religion? — is so delicately
+contrived that, for the time being, it provides a gentle pillow for the true believer from
+which he cannot very easily be aroused. So let him lie there.31
+
+      4.4.2 At last it came to me that time was suspect! 32
+
+      4.4.3 Space and time are modes in which we think and not conditions in which we
+live.33
+
+      I include Einstein’s remark 4.4.1 to Schrödinger, because they were the two founders
+who most strongly rejected the Copenhagen interpretation. Schrödinger, alone among
+the founders, nevertheless took a strikingly QBist view of the relation of science to the
+scientist.34 Einstein certainly did not.
+      The little known remark 4.4.2, made in a 1950 interview, is my favorite of all Einstein
+aphorisms. It can be read as conveying a CBist point of view toward time. But Einstein
+may have been putting the blame on time itself, rather than on the use of time by the
+scientist.
+      Remark 4.4.3, now a firmly established part of the Einstein canon, is definitely apoc-
+ryphal. It seems to come from a popular biography, written shortly after Einstein’s death,
+which cites it as a private remark to Ehrenfest, without offering any supporting evidence.
+The sentiment is pure CBism, which makes me even more suspicious of its authenticity. I
+would love to think that Einstein said and believed this. But I find the possibiility hard
+to reconcile with his views about quantum mechanics.
+
+
+
+4.5 Bruno de Finetti35
+
+ 31
+    Letter to Schrödinger, 31 May 1928, Letters on wave mechanics, ed. K. Przibram,
+Philosophical Library, New York, 1967, p. 31.
+ 32
+    J. R. Shankland, Conversations with Albert Einstein, American Journal of Physics,
+31, 47-57 (1963). The remark is in a 1950 interview.
+ 33
+    Remark to Paul Ehrenfest, according to Aylesa Forsee, Albert Einstein: Theoretical
+Physicist, MacMillan, N.Y. (1963), p. 81.
+ 34
+    See Section 4.13.
+ 35
+    Theory of Probability, Interscience, 1990 (preface).
+
+                                             21
+      4.5.1 The abandonment of superstitious beliefs about the existence of Phlogiston, the
+Cosmic Ether, Absolute Space and Time. . . , or Fairies and Witches, was an essential step
+along the road to scientific thinking. Probability too, if regarded as something endowed
+with some kind of objective existence, is no less a misleading misconception, an illusory
+attempt to exteriorize or materialize our actual 36 probabilistic beliefs.
+
+      De Finetti, in the 1930s, was one of the earliest and most eloquent advocates of
+the subjective view of probability, common today among statisticians and inherent in
+QBism, but anathema to most physicists. Physicists generally believe that probability is
+an objective property of events, baked into their very nature by objective features of the
+world. But many statisticians, mathematicians, and philosophers take probability to be a
+numerical measure of the subjective judgment of the person who assigns it, indicating, for
+example, the odds at which that person is willing to make or accept bets.
+      Since probabilities play an irreducibly fundamental role in quantum mechanics, one’s
+understanding of quantum mechanics should differ dramatically depending on whether
+one subscribes to the objective (“frequentist”) view of most physicists, or the subjective
+(“personalist”) view of most statisticians. It is odd that so little attention has been paid to
+these strikingly different understandings of probability during the ninety years of confusion
+over the meaning of quantum mechanics. Quantum mechanics is, after all, the first physical
+theory in which probability is explicitly not a way of dealing with ignorance of the precise
+values of existing quantities. One would have thought that the Born interpretation called
+for a searching reexamination of the nature of probabilistic judgments. But until the
+advent of QBism, in the early 21st century, there was no such inquiry.
+      If one does take a subjective view of probability, then a QBist understanding of quan-
+tum mechanics is unavoidable. But I prefer to put it the other way around: the success
+of QBism in clarifying the murk at the foundations of quantum mechanics is a compelling
+reason for physicists too to embrace the widespread view of probabilities as subjective
+personal judgments .
+
+4.6 Sigmund Freud
+
+      A world constitution that takes no account of the mental apparatus by which we
+ 36
+     The Italian text says vero, which is usually rendered as “true” in English translations
+of this quotation. But this makes little sense, given what de Finetti is saying. My guess is
+that what de Finetti meant here was something more like “actual”.
+
+                                              22
+perceive it is an empty abstraction.37
+      Freud was writing about religion. But for a QBist his remark applies equally well to
+physical science, contrary to the current views of most physical scientists.
+
+
+4.7 Werner Heisenberg
+
+      4.7.1 The conception of the objective reality of the elementary particles has thus
+evaporated in a curious way, not into the fog of some new, obscure, or not yet understood
+reality concept, but into the transparent clarity of a mathematics that represents no longer
+the behavior of the elementary particles but rather our knowledge of this behavior.38
+
+      This is an example of the kind of quotation by a Founder that leads people superficially
+to declare that QBism brings nothing new to the story. Heisenberg’s remark certainly has
+a QBist flavor to it, but it raises questions that nobody, before Fuchs and Schack, has been
+able to answer. What does it mean to distinguish between “behavior” and “our knowledge
+of this behavior”? To whom does “our” refer? What does it mean to “know” something?
+What does it mean to confer “reality” on something?
+      Whether or not you like the answers QBism provides, I hope you will agree that they
+are simple and unambiguous. As discussed above, in a QBist reading “our” does not refer,
+as it usually does, to all of us collectively. It refers to each one of us individually. Some of
+us may have such knowledge; others may not. The object of my knowledge is the content
+of my private personal experience, or, less directly and more inferentially, the world that
+experience has led me to hypothesize. “Know” may well apply to my experience, but it
+can be misleadingly strong to apply the word to what I hypothesize.
+
+
+4.8 L. D. Landau and E. M. Lifshitz39
+
+      4.8.1 It is in principle impossible. . .to formulate the basic concepts of quantum me-
+chanics without using classical mechanics.
+
+      4.8.2 It must be most decidedly emphasized that we are here not discussing a process
+of measurement in which the physicist-observer takes part. By measurement, in quan-
+tum mechanics, we understand any process of interaction between classical and quantum
+ 37
+    The Future of an Illusion, 1927, concluding paragraph.
+ 38
+    Werner Heisenberg, Daedelus 87 (Summer 1958), p. 100.
+ 39
+    Quantum Mechanics, Pergamon Press, 3rd edition, 1976, pps.2,3.
+
+                                              23
+objects, occurring apart from and independently of any observer.
+
+
+      The quantum mechanics text of Landau and Lifshitz provides the most extreme and
+explicit example of the broad reluctance of physicists to allow any trace of a human presence
+to play a role in our understanding of quantum mechanics.40 While other versions of
+quantum orthodoxy locate measurement outcomes in a vaguely defined “classical” world
+coupled to a quantum mechanical system,41 Landau and Lifshitz are the only ones explicitly
+to insist that classical mechanics is therefore logically prior to quantum mechanics. They
+literally distinguish between “classical objects” and “quantum objects”.
+
+      QBism makes no such distinction. The term “classical” plays no fundamental role at
+all in QBism. In orthodox interpretations the term “classical” enables one to avoid any
+reference to the directly perceived personal experience of each individual user of quantum
+mechanics. From the QBist perspective, calling such personal experience “classical” is
+part of the unacknowledged need to depersonalize what is specific to each user of quantum
+mechanics, and to objectify what is inherently subjective.
+
+      For a QBist there are no “classical objects” as opposed to “quantum objects”. The
+roles of classical objects are played by the personal experiences on which an understanding
+of the world external to the QBist rests. The roles of quantum objects are played by the
+entities that the QBist hypothesizes to comprise that world on the basis of that experience.
+
+      So the QBist reformulation of quotation 4.8.1 from Landau and Lifhistz would be this:
+It is impossible to formulate the basic concepts of quantum mechanics without referring
+to the personal experience of each user. And the second sentence of quotation 4.8.2 would
+become this: By measurement, in quantum mechanics, we understand any interaction
+between a user of quantum mechanics and the world external to that user that results in
+the world inducing an experience back in that user.
+
+
+ 40
+     It was suggested to me by Czech colleagues that such quotations are nothing more than
+Landau and Lifshitz paying lip service to the Marxist doctrine of dialectical materialism.
+I’m unconvinced. Neither author was ever a model of orthodox Soviet behavior, and
+nowhere else in their voluminous writings am I aware of any other tipping of the hat
+to communist ideology. I doubt they would have used so strong a formulation in their
+exposition of basic quantum mechanics if they didn’t believe it.
+  41
+     Other common and equally imprecise euphemisms for individual experience are “ma-
+croscopic” or “irreversible”.
+
+                                             24
+4.9 Wolfgang Pauli42
+
+      4.9.1 Nevertheless, there remains still in the new kind of theory an objective reality,
+inasmuch as these theories deny any possibility for the observer to influence the results of a
+measurement, once the experimental arrangement is chosen. Therefore particular qualities
+of an individual observer do not enter the conceptual framework of the theory.
+      In QBist terminology:
+      Objective reality is maintained in quantum mechanics through the denial of any pos-
+sibility for a user to influence the particular experience induced by the reaction of the
+world, once the user’s particular action on the world has been chosen. In specifying the
+nature and the likelihood of the possible experiences induced by a given action, quantum
+mechanics makes no reference to the particular qualities of an individual user other than
+that user’s choice of state assignment.
+      The only clash here with QBism — and it is a big one — is Pauli’s narrowing of
+the action of the user into “the experimental arrangement”, and his broadening of the
+particularity of the user into an unspecified “observer”. To be sure, QBism agrees with
+Pauli that the particular qualities of the user are not a part of the theory, but the fact
+that each user is particular, plays no role for Pauli, though it lies at the heart of QBism.
+
+
+4.10 Rudolf Peierls
+
+      4.10.1 In my view, a description of the laws of physics consists in giving us a set of
+correlations between successive observations. By observations I mean. . .what our senses
+can experience. That we have senses and can experience such sensations is an empirical
+fact, which has not been deduced (and in my opinion cannot be deduced) from current
+physics.43
+
+      4.10.2 If there is a part of the Universe, or a period in its history, which is not capable
+of influencing present-day events directly or indirectly, then indeed there would be no sense
+in applying quantum mechanics to it.44
+
+ 42
+     W. Pauli, “Probability and Physics”, Dialectica 8, 112-124 (1954). Translated in W.
+Pauli, Writings on Physics and Philosophy, edited by C. P. Enz and K. von Meyenn, and
+translated by R. Schlapp (Springer-Verlag, Berlin, 1994), pp. 43-48.
+  43
+     Selected Correspondence of Rudolf Peierls, vol. 2, Sabine Lee [ed], World Scientific,
+2009, p. 807.
+  44
+     Physics World , January 1991, pps. 19-20.
+
+                                               25
+      Peierls’ view 4.10.1 of the laws of physics comes as close to QBism as any statement
+I can find among the Founders or the earliest post-quantum generation. If he had taken
+care to specify that when he said “we”, “us”, and “our” he meant each one of us, acting
+and responding as a user of quantum mechanics, he would have had it exactly right. But
+it seems to me likely that he was using the first person plural collectively, to mean all of
+us together, thereby promulgating the Copenhagen confusion. Contrary to QBism, Peierls
+also takes it for granted,45 like most physicists, that outcomes that are assigned probability
+1 must be backed up by an explicit physically describable mechanism .
+      In quotation 4.10.2 from his Physics World essay, Peierls articulates the QBist view of
+why it makes sense to apply quantum mechanics to eras long before people existed. Events
+in the remote past can influence our present or future experiences.
+      Peierls also refers in that essay to “the view of Landau and Lifshitz (and therefore of
+Bohr)”. This identification of Landau and Lifshitz with Bohr has to be taken seriously,
+since Peierls and Landau worked together in Copenhagen in the early days. But I have
+never read in Bohr anything as literally dualistic as the remarks 4.8.2 of Landau and
+Lifshitz on classical and quantum “objects”. Nor have I read in Bohr anything as close to
+QBism as Peierls’ 4.10.1, which I would take (perhaps wrongly) to be his own reading of
+Bohr.
+
+
+4.11 Asher Peres
+
+      4.11.1 Unperformed experiments have no results.46
+
+      Peres’ famous and charming title, the most concise insight into the nature of quantum
+mechanics I know of, is reduced by QBism to a truism: Nobody can experience the world’s
+response to an intervention that was never made. Unexperienced experiences are not
+experienced.
+
+
+4.12 Aage Petersen47
+
+      4.12.1 When asked whether the algorithm of quantum mechanics could be considered
+
+ 45
+    Rudolf Peierls, More Surprises in Theoretical Physics Princeton University Press,
+Princeton, NJ, 1991, p. 11.
+ 46
+    American Journal of Physics 46, 745 (1978).
+ 47
+    A. Petersen, Bulletin of the Atomic Scientists 19, 7, 8-14 (1963).
+
+                                             26
+as somehow mirroring an underlying quantum world, Bohr would answer “There is no
+quantum world. There is only an abstract quantum physical description. It is wrong to
+think that the task of physics is to find out how nature is. Physics concerns what we can
+say about nature.”
+
+      This, perhaps the most famous of all Bohr quotations about quantum mechanics, is
+reported in a memorial essay by his amanuensis, Aage Petersen. Petersen, I am told, was
+very close to Bohr and knew his views very well. Although Bohr never published anything
+quite as strong as Petersen’s quotation, his writings cited above have a similar flavor.
+Except for the usual ambiguous “we” Petersen could have been quoting a QBist. But the
+QBist would have said “each of us”, and expanded on the term “world”.
+
+
+4.13 Erwin Schrödinger
+
+      4.13.1 The scientist subconsciously, almost inadvertently simplifies his problem of
+understanding Nature by disregarding or cutting out of the picture to be constructed,
+himself, his own personality, the subject of cognizance.48
+
+      4.13.2 Quantum mechanics forbids statements about what really exists — statements
+about the object. It deals only with the object-subject relation. Although this holds,
+after all, for any description of nature, it appears to hold in a much more radical and
+far-reaching sense in quantum mechanics.49
+
+      4.13.3 The conception of a world that really exists is based on there being a far-
+reaching common experience of many individuals, in fact of all individuals who come into
+the same or a similar situation with respect to the object concerned. Perhaps instead
+of “common experience” one should say “experiences that can be transformed into each
+other in a simple way”. . . . [This reality] comes about for us as, so to speak, the intersection
+pattern of the determinations of many — indeed of all conceivable — individual observers.
+It is a condensation of their findings for economy of thought which would fall apart without
+any connections. . . . 50
+ 48
+    Nature and the Greeks, Science and Humanism, Cambridge (1996), p. 92. See also
+Mind and Matter and My View of the World.
+ 49
+    Schrödinger to Sommerfeld, 11 December, 1931, in Schrödingers Briefwechsel zur
+Wellenmechanik und zum Katzenparadoxon, Springer Verlag, 2011. English translation
+by N. David Mermin and Rüdiger Schack.
+ 50
+    Letter to Einstein, 18 November 1950, Letters on wave mechanics, ed. K. Przibram,
+
+                                               27
+    In the 1960s Schrödinger repeatedly expressed the view that leaving the scientist out
+of the story, an exclusion going back to the ancient Greeks, though crucial for the subse-
+quent development of science, nevertheless got things wrong. He rarely mentions quantum
+mechanics in this setting. But thirty years earlier, in a letter to Arnold Sommerfeld, he
+does explicitly tie this view to quantum mechanics. Even then, he indicates that it ap-
+plies to science much more broadly. Quotations 4.13.1 and 4.13.2 are pure QBism. Those
+who maintain that QBism is nothing more than an elaborated version of the Copenhagen
+interpretation should note that Schrödinger shared with Einstein51 a scorn for “the Bohr-
+Heisenberg tranquilizing philosophy.”
+    In his 1950 letter to Einstein, 4.13.3, Schrödinger comes close to articulating a view
+of the world as the common residue of the experience of many. While he does not mention
+the important role of language in such sharing of experience, his expansion of the phrase
+“common experience” into “experiences that can be transformed into each other in a simple
+way” indicates his awareness that there is an issue here in need of elaboration. On the
+other hand his oft-stated endorsement of the view that all minds are one, offers quite a
+different answer.
+
+
+4.14 Steven Weinberg52
+
+    4.14.1 It is a bad sign that those physicists today who are most comfortable with
+quantum mechanics do not agree with one another about what it all means.
+
+    4.14.2 I hoped for a physical theory that would allow us to deduce what happens when
+people make measurements from impersonal laws that apply to everything, without giving
+any special status to people in these laws.
+
+    4.14.3 It is not that we object to thinking about humans. Rather, we want to under-
+stand the relation of humans to nature, not just assuming the character of this relation by
+incorporating it in what we suppose are nature’s fundamental laws, but rather by deduc-
+tion from laws that make no explicit reference to humans. We may in the end have to give
+up this goal, but I think not yet.
+
+    4.14.4 There seems no way to locate the boundary between the realms in which,
+
+Philosophical Library, New York, 1967, p. 37.
+ 51
+    See 4.4.1.
+ 52
+    New York Review of Books, January 19, 2017. See also Letters, April 6, 2017.
+
+                                              28
+according to Bohr, quantum mechanics does or does not apply.
+
+      In quotation 4.14.1 Steven Weinberg shares my concern that the lack of agreement
+about the meaning of quantum mechanics is a warning that ought to be taken seriously.
+QBists would say that the root of the confusion that worries him lies precisely in his next
+two quotations, 4.14.2 and 4.14.3, which express the very common53 insistence that laws of
+nature should make no reference whatever to the people who have formulated those laws.
+      But why should scientific laws never, under any circumstances, mention any user of
+science? Science is a human activity. The laws are formulated in human language. As
+empiricists most scientists believe that their understanding of the world is based on their
+own personal experience.54 Why insist that an understanding of science, which I use to
+make sense of the world I infer from my experience, should make no mention whatever
+about the role of that experience?
+      If one is allowed to let users of science into the story, then there is no problem at all
+in locating Bohr’s boundary in Weinberg’s 4.14.4. The boundary — John Bell’s “shifty
+split”55 — is different for each scientist using quantum mechanics. But for each user
+the boundary is entirely unambiguous: I apply quantum mechanics to the world I con-
+struct from my own experience; the role of Bohr’s classical world is played for me by that
+experience itself.
+      This is quite a modest incorporation of the relation between humans and nature into
+nature’s fundamental laws (Weinberg, 4.14.3), The laws continue to have a universal form,
+independent of who is using them. It’s just that the domain of application of the laws —
+the relation between nature and the experience of each particular person applying the laws
+— unavoidably varies from one user to another, because the directly perceived personal
+experience of each person is strictly private to that person.
+      QBism incorporates into nature’s fundamental laws nothing beyond an acknowledg-
+ment that those laws are stated in human language and rest upon human experience. This
+in no way puts the subjects of linguistics or psychology outside the realm of scientific
+inquiry. It may suggest that these subjects are harder to disentangle from the common
+understanding of the material world that physicists strive to construct, but whether or
+not aspects of them are intrinsically beyond the scope of physics to address is, as Peierls
+
+ 53
+    Freud and Schrödinger are rare exceptions.
+ 54
+    Including words of others they have heard and read.
+ 55
+    John S. Bell, “Against Measurement”, Physics World, August, 1990.
+
+                                              29
+remarks in 4.10.1, still very much an open question.
+
+
+                             V. There is no classical world
+
+      What underlies my world at the bottom is only my experience. Experience is neither
+quantum nor classical. Experience is sui generis. Orthodox interpretations of quantum
+mechanics, if they mention experience at all, as Bohr often does, depersonalize and/or reify
+it. This is why the notion of classicality plays so big a role in orthodox interpretations. The
+“classical” (or the “macroscopic” or the “irreversible”) is a catch basin. Its actual purpose
+is only to make physicists less uncomfortable, by hiding the subjective and the personal
+behind something taken to be objective and impersonal.56 The many “paradoxes” of
+orthodox quantum mechanics — for example the lack of any physical mechanism underlying
+the collapse of a quantum state — are a sign that this stratagem does not work.
+      It once made sense to exclude the scientist from scientific explanations of the physical
+world. This warded off superstitious, animistic, or religious explanations. But without
+endorsing superstition, animism, or religion, today it makes sense to insist that the scientist
+should not be excluded from a philosophical understanding of the nature of scientific
+explanation. Why shouldn’t such an understanding involve the explainer, as well as the
+explained? It is our exclusion of each individual subject from the story we tell about science
+that underlies our ninety year failure to agree upon the meaning of quantum mechanics.
+      This exclusion of the subject has sown confusion even in strictly classical physics.
+When used in a setting well described by classical physics, QBism may be called CBism.57
+Carnap’s report 4.3.1 of Einstein’s insistence that there was no room for the Now in
+physics is a spectacular example of a puzzle in classical physics resolved by CBism. When
+viewed from this perspective, Carnap’s story illustrates the mindset that kept Einstein
+from accepting quantum mechanics. It is worth expanding on.
+      The experience of the Now does indeed mean something special for me, something
+essentially different from my past and my future. The apparent absence from physics of
+this important difference is an artifact of the unwarranted removal of the subject from
+the story physics is allowed to tell. That the Now appears to be unavoidably missing is a
+
+ 56
+    Particularly the phrase “classical” can often be taken to be nothing more than an
+orthodox euphemism for “experience”.
+ 57
+    N. David Mermin, Physics Today, Commentary, March 2014; Nature 507, 421-3, 27
+March, 2014.
+
+                                              30
+clear indication that the world indeed does not make sense, if I insist on leaving my own
+experience out of the story I tell about it.
+      The special character of my Now is a brute fact of my personal experience, and I
+conclude from what others tell me that it is also a brute fact of the personal experience of
+everybody I communicate with. Together we have all deduced, from our direct personal
+data and the communications of others, an abstract model that we call space-time. The
+model provides a way for each of us to record our memories, direct and reported, of all
+these Nows, and our anticipations of subsequent Nows.
+      This model singles out no part of space-time as Now. But to say that Now plays no role
+in the physical description of space-time is to overlook the crucial fact that my personal
+Nows constitute the only grounds I have for my physical description of the contents of
+space-time. This oversight is a fine example of what Schrödinger had in mind when he
+cited Democritus on the Senses addressing the Intellect: “Do you hope to defeat us while
+from us you borrow your evidence? Your victory is your defeat.”58
+      Any person’s Now is a special event for that person as it is happening. An event is
+an experience whose duration and location are constricted enough for it to be useful59 to
+represent it as a point in space and time. My Now is distinguished from other events I
+have experienced by being the actual current state of affairs. I can distinguish it from
+earlier events (former Nows) that I merely remember and from later events that I can only
+anticipate or imagine. My remembered past terminates in my Now. My future comes after
+it. The status of any particular event as my Now is fleeting, since it fades into a memory
+with the emergence of subsequent Nows.
+      Obvious — indeed, banal — as the human content of the preceding paragraph is, such
+a Now is absent from the conventional physical description of spacetime. All the events
+experienced by a person constitute a (time-like) curve in spacetime. There is nothing about
+any point that gives it a special status as Now. But my experience of the Now suggests
+that my world line ought to terminate in something like a glowing point, signifying my
+Now. That glow should move in the direction of increasing time, as my world line grows to
+accommodate more of my experience. There is simply nothing like this in the conventional
+physical description of my spacetime trajectory.
+      The problem of the Now will not be solved by discovering new physics behind that
+ 58
+     Nature and the Greeks and Science and Humanism, Cambridge University Press
+(1951).
+  59
+     Useful to whom? Useful to whoever is constructing the space-time representation.
+
+                                               31
+missing glowing point. It is solved by identifying the mistake that leads me to conclude,
+against all my experience, that there is no place for my Now in my existing physical
+description of the world.
+      There are actually two mistakes. The first, as already noted, lies in the deeply in-
+grained refusal to admit that whenever I use science, it has a subject (me) as well as an
+object (my external world).
+      The second mistake, not unrelated to the first, is the promotion of spacetime from a
+useful four-dimensional diagram into what Bohr calls a real essence. My diagram, drawn in
+any fixed inertial frame, enables me to represent events from my past experience, together
+with my possible conjectures, deductions, or expectations for events that are not in my
+past or that escaped my direct attention. By identifying my diagram with an objective
+reality, I fool myself into regarding the diagram as an objective four-dimensional arena in
+which my life is lived.60
+      The events we experience are complex, extended entities, and the clocks we use to
+locate our experiences in time are extended macroscopic devices. To represent our actual
+experiences as a collection of mathematical points in a continuous spacetime is a brilliant
+strategic simplification, but we ought not to confuse a cartoon that attempts concisely to
+represent aspects of our experience with the experience itself.
+      If I take my Now as the personal reality it clearly is for me, and if I recognize that
+spacetime is a diagram that I use to represent my experience, then the problem of the Now
+disappears. At any moment I can plot my past experience in my diagram as a continuous
+time-like curve that terminates in the Now. As my Now recedes into memory it ceases to
+be the real state of affairs and is replaced in my updated diagrams by subsequent Nows.
+Each updating is Now for me only at the unique (to within the temporal width — many
+milliseconds — of my personal Now) moment that it takes place.
+      The motion of my Now along my trajectory in my diagram reflects the simple fact that
+as my wristwatch advances, I acquire more experiences to record in my diagrams. My Now
+advances at one second of personal experience for each second that passes on my watch.
+According to special relativity, this means a second of personal experience for each second
+of proper time along my trajectory. This connection between my ongoing experience and
+a geometric feature of my diagram is just my diagrammatic representation of the fact that
+
+ 60
+    Compare the apocryphal Einstein remark 4.4.3 to Ehrenfest. The Einstein who re-
+portedly spoke to Ehrenfest is not the Einstein described by Carnap.
+
+                                             32
+if I am asked what time it is now [Now], I look at my watch and report what I read.
+
+
+    There is thus no problem of the Now for any single person. But is there a problem
+in combining the Nows of two different people? Can we account physically for another
+obvious primitive fact of human experience. Whenever two people are together at a single
+event, then if that event happens to be Now for one of them, then it must be Now for
+them both. When we are interacting face-to-face, it is simply unimaginable that a live
+encounter for me could be only a memory for you, or vice versa. If we believed that, we
+could not function as social beings. But can physics have anything to say about this firm
+human belief?
+    This commonality of my Now and your Now whenever we are together requires that
+our Nows must coincide at each of two consecutive meetings, as indeed we find whenever
+any of us move apart and then come back together. But at the slow relative speeds at
+which we invariably move, the possibly complicating effect of relativistic time dilation on
+the advances of our individual Nows is utterly negligible compared with the psychological
+width — a great many milliseconds — of each of our private Now experiences. Must our
+Nows still coincide when we come back together, even if we move back and forth at relative
+speeds comparable to the speed of light?
+    This is a physics question about the Now. And physics can answer it.
+    Physics tells us (without bringing the subject into the story) that if two identical
+watches, initially together and showing the same time, move apart and then come back
+together then the readings of the two watches will, in general, no longer agree. If the
+relative speed of the two watches has been comparable to the speed of light, then the
+disagreement in their readings can be substantial.
+    But (bringing the subject into the story) my Now advances along my trajectory at
+one second of my personal experience for each second that passes on my watch, which
+follows the same trajectory as I do. And your Now advances along your trajectory at
+one second of your personal experience for each second that passes on your watch, which
+follows the same trajectory as you do.
+    Suppose we move apart and back together at such speeds that 3 minutes pass on
+my watch and 5 minutes on yours, and suppose we each update our diagrams at our first
+meeting and every minute after that, according to our own watch. Then as we meet again,
+I will be doing my third updating since we left each other and you will be doing your fifth.
+
+                                            33
+So my personal experience of my third updating includes my experiencing your doing your
+fifth updating, and vice-versa. Our Nows continue to coincide.
+      Even if our watches have changed by significantly different amounts between the two
+intersections of our trajectories that represent our two meetings, if our Nows coincide at
+our first meeting, they will also coincide at our second meeting.61
+      So, far from having nothing to say about the Now, physics actually describes it in a
+way that is consistent with our psychological and social experience of each other, even in
+a world of people moving about at relativistic speeds.62
+      But to apply physics to the Now to reach this conclusion, one must acknowledge that
+the subject — the particular user of physics — is as much a part of the story as the object
+— the world external to that user. Physics does have things to say about that glowing
+point. But only if you are willing to acknowledge the relevance of that which the point
+represents: the personal experience of the user of physics.
+
+
+      I have been offered the following reductio ad absurdum of the problem of the Now:
+How can there be a problem of the Now, when everybody agrees that there is no problem
+of the Here?
+      But everybody should not agree. There is a problem of the Here. And its solution is
+immediate, given the QBist/CBist solution to the problem of the Now: My Here is where
+I am Now.
+      If you insist on a physics that makes no reference whatever to the individual user
+of physics, then there is indeed no room in that physics for either the Here or the Now.
+Making a mystery out of the obvious difference between the present moment and what
+is past or yet to be, seems an excessive price to pay for maintaining the centuries-old
+exclusion of the user from the story told by physics.
+      So it is not just our understanding of quantum mechanics that has been obscured
+by the exclusion of the user. To understand the prevailing confusion about quantum
+
+ 61
+     This is true whether or not each of us chooses to represent all the relevant events in
+our own private diagram, or we agree to represent them all in a single common diagram.
+ 62
+     A skeptical referee asked what it would be like if our Nows were not in synchronization.
+The only difference, if we somehow knew that they were not, is that each of us would know
+that they were interacting with a mindless automaton — the technical term here seems to
+be “zombie”. The point of the argument above is only that if you adopt a CBist perspective
+then physics itself is fully capable of accounting for the naive human experience of the Now,
+contrary to Einstein’s assertion.
+
+                                             34
+mechanics, it helps to understand that the historic exclusion of the user, while it may have
+helped get science off the ground, is today responsible not only for the confusion at the
+foundations of quantum mechanics, but also for a broader misunderstanding of the nature
+of science in general.
+
+
+      I first write about my understanding of QBism in Physics Today.63 That brief essay
+elicited several critical letters to the editor. They all had one thing in common. Each writer
+had no problem understanding what quantum mechanics was all about. Each described
+their own understanding — they were all different — and, to my disappointment, had
+nothing whatever to say either for or against the point of view that I was advocating.
+      Since writing that essay I had come to realize that an earlier essay I had published in
+Physics Today 64 in 2009, as one of the last of their series of “Reference Frame” columns,
+not only foreshadowed my 2012 exposition of QBism, but described it in a broader setting
+that applied equally well to classical physics. It occurred to me that nobody had a personal
+stake in their favorite interpretation of classical physics. Therefore if I published a further
+essay applying QBist thinking to a problem in strictly classical physics, certified as a
+profound puzzle by Einstein himself, then it might elicit some genuine criticism, rather
+than just expositions of the letter-writer’s preferred way of solving the problem. I did so in
+Physics Today, March 2014,65 To my further disappointment, the article elicited no letters
+whatever, critical or favorable. Nor did a companion article in Nature.66 Physicists have
+no interest in the interpretation of classical mechanics. That’s part of the problem.
+
+
+                              VI. A few final reflections.
+
+      The language of science scrupulously avoids mentioning the subject — the user of
+science. So does much of the ordinary language we have learned to use to talk about the
+external world. The puzzles and paradoxes of quantum mechanics arise from such omis-
+sions. Putting the scientist back into the story requires us to expand into human terms all
+the impersonal constructions that we have become used to and generally rely upon to make
+
+ 63
+    July, 2012. Reprinted as Chapter 31 of Why Quark Rhymes with Pork , Cambridge
+University Press, 2016.
+ 64
+    May, 2009. Reprinted as Chapter 30 of Why Quark Rhymes with Pork .
+ 65
+    Reprinted as Chapter 32 of Why Quark Rhymes with Pork.
+ 66
+    Nature, March 26, 2014.
+
+                                              35
+concise speech possible.67 Abstractions like quantum states, waves, particles, trajectories,
+spatial and temporal locations, energy levels, etc. are all common impersonal concepts
+that we have created to help us make sense of our own particular personal experiences.
+For most purposes we can safely regard these abstractions as entities that are properties
+of a real objective world. Indeed, we must, if we are not to be swept away by a tidal wave
+of complex verbal expansions. In a similar way, it is simpler and more natural to regard
+space and time as conditions in which we live, rather than, more accurately, as modes in
+which we think.
+      QBism is needed to address metaphysical issues lying outside the bounds of practical
+physical inquiry.68 For practical purposes it doesn’t matter if, like most physicists, I confer
+objective reality on the theoretical abstractions that enable me to calculate the likelihood of
+my subsequent experience. But for resolving certain conceptual puzzles like “are quantum
+states real?”, or “the measurement problem”, or “why is the Now excluded from orthodox
+physics”, it is essential not to reify what are fundamentally intellectual tools, and not to
+treat what is fundamentally subjective and personal as if it were objective and universal.
+      Why have we kept fooling ourselves about such metaphysical issues for so many years?
+Speaking only for myself, I can trace it back to the sentiment that led me in 1956 to
+graduate school in physics, rather than to law school. The problem with the law, I felt,
+was that it was based on principles that grew out of human conditions — principles that
+referred to human judgments or perceptions. I wanted to devote my life to something more
+objective and impersonal, less contingent on human imperfection and imprecision. It can
+be hard to acknowledge that it’s humanity all the way down, in all fields — even physical
+science. There was no need to acknowledge it until quantum mechanics refused to make
+sense69 for almost a century.
+      In 2017 I was asked to contribute my thoughts on these and related issues to an
+annual series of essay collections published only in Czech by the Václav and Dagmar Havel
+foundation.70 Karl Pribram had begun the series in 1999 with Mozek a mysl — “brain
+and mind”. Umberto Eco followed him with Mysl a smysl — “mind and meaning”. And
+ 67
+     Cf. John Bell’s remark 4.1.2 about the term “Professor Peierls.”
+ 68
+     Not all QBists agree with this. The hope has been expressed that by reformulating
+quantum mechanics explicitly in terms of probabilistic expectation in the QBist sense, one
+might achieve not only a deeper understanding of the theory, but even some clues about
+its refinement or generalization.
+  69
+     Unless, like Einstein, you too were troubled by the problem of the Now.
+  70
+     N. David Mermin, Mysl, Smysl, Svĕt, Mavlovaný Kraj, Praha, 2017.
+
+                                              36
+Zdenĕk Neubauer picked up the baton and contributed Smysl a svĕt — “meaning and
+world”. In the fifteen titles that followed those first three, the pattern was abandoned.
+But Pribram, Eco, and Neubauer gave me my title for volume nineteen: Mysl, smysl, svĕt.
+    Science starts with mind , the private library of experience for each of us. From the
+contents of our own experience each of us strives to assemble what that experience means
+about the world that gives rise to it. An all too common misreading of QBism in the
+popular scientific press is “It’s all mind”. This is as wrong as the opinion most physicists
+have about physics, that it’s all world. There is mind and there is a world. Quantum
+mechanics has taught us that we cannot understand what we are talking about without
+paying attention to both. What links the contents of my mind to the world that induces
+them is the meaning I construct for my experience.
+    If I had to design a coat of arms for QBism, it would display three words: mysl, smysl,
+svĕt. They would have to be in Czech. “Mind, meaning, world” has no poetry in it. And
+what physicists’ understanding of quantum mechanics has lacked for ninety years is any
+hint of poetry.
+    Paul Dirac is said to have told Robert Oppenheimer that science takes something no-
+body can understand and says it in a way that anybody can understand, whereas poetry
+takes something everybody can understand and says it in a way that nobody can under-
+stand. In 2017 QBism takes the scientific process, which almost all scientists think they
+understand, and states it in a way that only half a dozen currently understand. It’s my
+hope that this essay may induce a few more people to think about joining us.
+
+
+Acknowledgment.     I am grateful to Carl Caves, Rüdiger Schack, and, especially, Chris
+Fuchs, for patiently (most of the time) trying to answer my skeptical questions, reserva-
+tions, and doubts over the past two decades. I am indebted to Hendrik Geyer for making
+it possible for me to spend a month and a half with Fuchs and Schack at the Stellen-
+bosch Institute for Advanced Study in 2012, where I finally came to understand what they
+had been trying for so long to explain to me. This paper owes its existence to Gordon
+Baym, who has repeatedly urged me, at least since 2009, to write something — anything
+— about my own view of quantum foundational issues. This final form of my manuscript
+has benefited from the close critical reading of an earlier version by a perceptive referee.
+
+
+
+
+                                             37
+

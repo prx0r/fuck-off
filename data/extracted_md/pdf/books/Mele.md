@@ -1,0 +1,697 @@
+# 336      Free Will: The Scandal in Philosophy
+
+**source:** pdf · **section:** books
+**file:** Mele
+---
+
+
+                                                   m inis        m
+                                          De t e r
+
+                                                            t i b i l i s m
+                                                  Co    mpa                 ism
+                                                                   rmin
+                         ter  minism               Sof   t D e t e
+                  De
+             Hard                                                                 lism
+                                                                    o m p atibi
+                                                            S oft C
+                                  ilism
+Hard I
+       n         co   m p a t i
+                               M
+                                b
+                                  e l e’s                                                In
+                        re d
+                     Alf odSeemsictom   p a t i bilism
+
+               n ism    M ianism
+   Ill u s i o
+                         e r t a r compatibilism
+                     Lib Narrow In
+                         sm
+Chapter 26
+
+       p o s sibili
+    Im
+                                                                 p atib ilism
+                                                      t In c o m
+                                                 Sof                                      y
+                         del                                                      Leewa
+                   an Mo
+             Valeri                                       p a t i b ilism          (Altern
+                                                                                           a
+                                          r c e I ncom nce)
+                                      Sou          l S e que
+                                        (Actu   a
+                                                                             i m i t e d
+                                                      e lw             ith L
+                                                  o d
+                                - S t      a ge M
+                           Tw o                        This chapter on the web
+                      informationphilosopher.com/solutions/philosophers/mele/
+                              m inis           m
+                     de t e r                                           Alfred Mele            337
+               In
+               Alfred Mele’s rianism
+                       L i b e r ta
+               Modest Libertarianism
+                                                                          t - C a usal
+                                                                        n who
+                                                                Ageagents,
+                  Alfred Mele has developed the idea of autonomous
+               among other things exercise a kind of self-control that is related to
+                                       ausa    l
+                                 t
+               metaphysical freedom
+                               n   - Cterms like “free will” and “free action.” He
+                         Eve a number of models for free will, most notably
+               has also developed
+               his 1995 two-stage model called “Modest Libertarianism. Others usal
+               include Soft Compatibilism, Soft Libertarianism, and N  Daring   Ca
+                                                                          on-Soft
+              Libertarianism
+                               m                  SFtoAthe idea that human autonomy
+        a t i b i lis
+                   Without committing himself
+
+    omp
+              is compatible with determinism or incompatible (the position of
+                                                                                     y
+                                                                             saoflitautono-
+nc            the libertarians), Mele provides arguments inC
+              mous agents for both positions. He is,S       aso
+                                                                  t     a  u
+                                                                      support
+                                                               hef says, “officially agnos-
+              tic about the truth
+                              t i b i l  sm
+                                        iof compatibilism” and describes his position as
+                   c o
+              “agnostic
+                n
+                            a
+                        mpautonomism.”                                                 a r i a n ism
+              I                                                                      t
+                                                                                   r and
+    Broad Mele’s opponents are those who believeSthere              o      Libnoefree
+                                                                       ft are
+              morally responsible human beings. They are philosophers who
+                                 a r
+              deny both compatibilism  i a n ism
+                                               and libertarianism - Richard Double
+                                                                                                    e r taria
+                           e r t
+                      LibHonderich, for example, “Impossibilists”nlike                        L i b
+           d e
+              andt Ted
+                s                                                            i  g   S  oft
+                                                                                     Galen
+         o
+      M Strawson, “Hard Incompatibilists” like Derk                        r
+                                                                     DaPereboom and
+                                                                                                   Chapter 26
+              “Illusionists” Saul Smilansky. Mele
+                                                o g i t o  has debated    the psychologist
+              Daniel Wegner, whoseCposition is that the conscious will is an
+           p a t i b ilism
+              illusion,   based primarily on the Libet experiments.
+     c o m                 s) Randolph Clarke’s “narrow incompatibilism”                           m
+ I n
+            q u   e n
+                   Notecethat
+                                                                              r m i n is
+          e
+ative S denies                                        In                det
+                         the compatibilism of free will and determinism, bute
+                                              i t e d
+              accepts the compatibilism of moral responsibility and deter-
+
+                                       nd Lim
+              minism. John Martin Fischer’s “semicompatibilism” similarly
+                                    a
+       r m i n ism
+              accepts the compatibilism of moral responsibility, while remain-
+
+  Dete
+              ing agnostic about free will and the truth of determinism. Clarke’s
+              and Fischer’s morally responsible agents presumably would be
+              Mele “autonomous agents.”
+         338     Free Will: The Scandal in Philosophy
+
+               Agnostic Autonomous Agents
+                 Most libertarians, Mele thinks, both agent-causalists like
+               Timothy O’Connor and event-causalists, like Robert Kane,
+               might subscribe to his “autonomous agent” idea.
+                     “My plan in Mele [Autonomous Agents] 1995 was to use
+                     the resources both of libertarianism and of compatibil-
+                     ism in defending agnostic autonomism and to do that partly
+                     by developing the best compatibilist and libertarian posi-
+                     tions I could develop. Part of my strategy was to construct an
+                     account of an ideally self-controlled agent (where self-control is
+                     understood as the contrary of akrasia: [a Greek term, meaning]
+                     roughly, weakness of will), to argue that even such an agent may
+                     fall short of autonomy (or free agency), and to ask what may be
+                     added to ideal self-control to yield autonomy (or free agency). I
+                     offered two answers, one for compatibilists and another for lib-
+                     ertarians. I then argued that a disjunctive thesis associated with
+                     both answers—agnostic autonomism - is more credible than
+                     [believing there are no free and moral human beings] NFM.” 1
+
+               Modest Libertarianism
+                  Mele in his 1995 book Autonomous Agents, had proposed a
+               “Modest Libertarianism” for consideration by libertarians.2 He
+               himself did not endorse the idea. But he is concerned about the
+Chapter 26
+
+               proper place to locate the indeterminism. His soft libertarians
+               locate it somewhere in the chain of events leading up to the for-
+               mation of intentions, the evaluation of options, the decision and
+               ultimate action. His “daring soft libertarians” move the indeter-
+               minism up into the “time of action,” where indeterministic alter-
+               native possibilities for actions may (or may not) exist.
+                  He made it clear, following Daniel Dennett’s “Valerian” mod-
+               el in Brainstorms, 1978, that any indeterminism should come
+               early in the overall process. He even describes the latter - deci-
+               sion - stage of the process as compatibilist (effectively determin-
+               ist). This of course could only be adequate determinism. Mele
+                 1       Mele (2006) p. 5.
+                 2       Mele (1995) p. 211.
+                        Alfred Mele’s Modest Libertarianism                  339
+
+proposes a “soft compatibilism” that sees some value for indeter-
+minism in the early stages. This will be the basis for our “Compre-
+hensive Compatibilism” proposal in Chapter 28.
+      “These observations indicate that it might be worth exploring
+      the possibility of combining a compatibilist conception of the
+      later parts of a process issuing in full blown, deliberative, inten-
+      tional action with an incompatibilist conception of the earlier
+      parts. For example, it might be possible to gain “ultimate con-
+      trol” while preserving a considerable measure of nonultimate
+      agential control by treating the process from proximal decisive
+      better judgment through overt action in a compatibilist way
+      and finding a theoretically useful place for indeterminacy in
+      processes leading to proximal decisive better judgments.” 3
+  For Mele and most other modern compatibilists, quantum
+physics has shown that determinism is not true.
+      “Recall that compatibilism does not include a commitment to
+      determinism. The thesis is that determinism does not preclude
+      autonomy. Treating the process from proximal decisive better
+      judgment through overt action in a compatibilist way does not
+      require treating it in a determinist way. Compatibilists may,
+      in principle be willing to accept an account of causation that
+      accommodates both deterministic and probabilistic instances,
+      and they are not committed to holding that probabilistic causa-
+
+                                                                               Chapter 26
+      tion in the process just mentioned precludes the freedom of its
+      product. In the same vein, advocates of autonomy who seek a
+      “theoretical useful place” for indeterminism in the springs of
+      action need not insist that indeterminism does not appear at
+      other places, as well, in internal processes issuing in autono-
+      mous action. Their claim on that matter may merely be that
+      indeterminism at these other junctures is of no use to them.
+      “External indeterminism, as I have already explained, does
+      not give libertarians what they want. That leaves internal
+      indeterminism. Assume, for the sake of argument, that human
+      beings sometimes act autonomously, that acting autonomously
+      requires “ultimate control,” and that the latter requires internal
+      indeterminism. Then, with a view to combining ultimate control
+  3       Mele (1995) p. 212.
+         340     Free Will: The Scandal in Philosophy
+
+                     with robust nonultimate control, we can ask what location(s)
+                     for internal indeterminism would do us the most good.” 4
+
+               A Problem about Luck for Libertarians
+               Mele’s plan in his book Free Will and Luck is to pay more atten-
+               tion to Frankfurt-style examples and to “agential luck.”
+                     “Agents’ control is the yardstick by which the bearing of luck
+                     on their freedom and moral responsibility is measured. When
+                     luck (good or bad) is problematic, that is because it seems sig-
+                     nificantly to impede agents’ control over themselves or to high-
+                     light important gaps or shortcomings in such control. It may
+                     seem that to the extent that it is causally open whether or not,
+                     for example, an agent intends in accordance with his consid-
+                     ered judgment about what it is best to do, he lacks some con-
+                     trol over what he intends, and it may be claimed that a positive
+                     deterministic connection between considered best judgment
+                     and intention would be more conducive to freedom and moral
+                     responsibility.
+                     “This last claim will be regarded as a nonstarter by anyone who
+                     holds that freedom and moral responsibility require agential
+                     control and that determinism is incompatible with such con-
+                     trol. Sometimes it is claimed that agents do not control anything
+                     at all if determinism is true. That claim is false.
+Chapter 26
+
+                     “As soon as any agent...judges it best to A, objective probabili-
+                     ties for the various decisions open to the agent are set, and the
+                     probability of a decision to A is very high. Larger probabilities
+                     get a correspondingly larger segment of a tiny indeterministic
+                     neural roulette wheel in the agent’s head than do smaller prob-
+                     abilities. A tiny neural ball bounces along the wheel; its landing
+                     in a particular segment is the agent’s making the corresponding
+                     decision. When the ball lands in the segment for a decision to
+                     A, its doing so is not just a matter of luck. After all, the design is
+                     such that the probability of that happening is very high. But the
+                     ball’s landing there is partly a matter of luck.
+
+                 4       Mele (1995) p. 213.
+                         Alfred Mele’s Modest Libertarianism                341
+
+      “All libertarians who hold that A’s being a free action depends
+      on its being the case that, at the time, the agent was able to do
+      otherwise freely then should tell us what it could possibly be
+      about an agent who freely A-ed at t in virtue of which it is true
+      that, in another world with the same past and laws of nature, he
+      freely does something else at t. Of course, they can say that the
+      answer is “free will.” But what they need to explain then is how
+      free will, as they understand it, can be a feature of agents — or,
+      more fully, how this can be so where free will, on their account
+      of it, really does answer the question. To do this, of course, they
+      must provide an account of free will — one that can be tested
+      for adequacy in this connection.” 5
+   Mele proposes his “modest libertarianism” to satisfy these
+needs. It includes a two-stage process that first generates random
+alternative possibilities, which is then followed by a determina-
+tion stage. When he first mentioned his idea in 1995, Mele cited
+the similar “Valerian” example Daniel Dennett had proposed in
+1978 as something libertarians should want.
+   Note that both Dennett and Mele are skeptical that any such
+process exists, but note that Mele’s model does indeed satisfy most
+of the requirements for libertarian free will. 6
+A Modest Libertarian Proposal (redux)
+
+                                                                              Chapter 26
+      “According to typical event-causal libertarian views, the proxi-
+      mate causes of free actions indeterministically cause them. This
+      is a consequence of the typical event-causal libertarian ideas
+      that free actions have proximate causes and that if an agent
+      freely A-s at t in world W, he does not A at t in some other pos-
+      sible world with the same laws of nature and the same past up
+      to t. Now, approximate causes of actions, including actions that
+      are decisions, are internal to agents.” 7
+      “In light of the general point about the proximate causation of
+      actions, typical event-causal libertarianism encompasses a com-
+      mitment to what may be termed agent-internal indeterminism.
+
+  5       Mele (2006) p. 7.
+  6       See Chapter 5.
+  7       Mele (2006) p. 9.
+         342   Free Will: The Scandal in Philosophy
+
+                   “What I call modest libertarianism (see Mele 1995, pp. 211-
+                   21) embraces that commitment, too, even though it rejects the
+                   idea that the proximate causes of free actions indeterministi-
+                   cally cause the actions. Indeterministic worlds in which every
+                   instance of causation within any agent is deterministic are hos-
+                   tile environments for libertarian freedom. What libertarians
+                   want that determinism precludes is not merely that agents have
+                   open to them more than one future that is compatible with
+                   the combination of the past and the laws of nature, but that,
+                   on some occasions, which possible future becomes actual is
+                   in some sense and to some degree up to the agents. The want
+                   something that seemingly requires that agents themselves be
+                   indeterministic in some suitable way - that some relevant things
+                   that happen under the skin are indeterministically caused by
+                   other such things. The focus is on psychological events, of
+                   course (as opposed, for example, to indeterministically caused
+                   muscle spasms), and, more specifically, on psychological events
+                   that have a significant bearing on action.
+                   “Requiring internal indeterminism for free action and moral
+                   responsibility is risky. To be sure, quantum mechanics, accord-
+                   ing to leading interpretations, is indeterministic. But indeter-
+                   minism at that level does not ensure that any human brains
+                   themselves sometimes operate indeterministically, much less
+                   that they sometimes operate indeterministically in ways appro-
+Chapter 26
+
+                   priate for free action and moral responsibility. One possibility,
+                   as David Hodgson reports, is that “in systems as hot, wet, and
+                   massive as neurons of the brain, quantum mechanical indeter-
+                   minacies quickly cancel out, so that for all practical purposes
+                   determinism rules in the brain” (2002, p. 86). Another is that
+                   any indeterminism in the human brain is simply irrelevant to
+                   free action and moral responsibility. Modest libertarians join
+                   other event-causal libertarians in taking this risk.” 8
+                   “In principle, an agent-internal indeterminism may provide for
+                   indeterministic agency while blocking or limiting our proxi-
+                   mal control over what happens only at junctures at which we
+                   have no greater proximal control on the hypothesis that our
+                   universe is deterministic. Obviously, in those cases in which
+
+               8       Mele (2006) p. 10.
+                   Alfred Mele’s Modest Libertarianism                   343
+
+ we act on the basis of careful, rational deliberation, what we do
+ is influenced by at least some of the considerations that “come
+ to mind” — that is, become salient in consciousness — during
+ deliberation and by our assessments of considerations. Now,
+ even if determinism is true, it is false that, with respect to every
+ consideration — every belief, desire, hypothesis, and so on —
+ that comes to mind during our deliberation, we are in control of
+ its coming to mind, and some considerations that come to mind
+ without our being in control of their so doing may influence the
+ outcome of our deliberation. Furthermore, a kind of internal
+ indeterminism is imaginable that limits our control only in a
+ way that gives us no less proximal control than we would have
+ on the assumption that determinism is true, while opening up
+ alternative deliberative outcomes. (Although, in a determinis-
+ tic world, it would never be a matter of genuine chance that a
+ certain consideration came to mind during deliberation, it may
+ still be a matter of luck relative to the agent’s sphere of control.)
+ As I put it in Mele 1995, “Where compatibilists have no good
+ reason to insist on determinism in the deliberative process as
+ a requirement for autonomy, where internal indeterminism
+ is, for all we know, a reality, and where such indeterminism
+ would not diminish the nonultimate control that real agents
+ exert over their deliberation even on the assumption that real
+ agents are internally deterministic — that is, at the intersection
+ of these three locations — libertarians may plump for ultimacy-
+
+                                                                           Chapter 26
+ promoting indeterminism (p. 235). Modest libertarians try to
+ stake out their view at this intersection.” 9
+ “One kind of possible deliberator may be so constituted that no
+ beliefs and desires of his that are directly relevant to the topic of
+ his current deliberation have a chance of not coming to mind
+ during his deliberation, whereas it is causally open whether
+ some of his indirectly relevant beliefs and desires will come to
+ mind. The causally open possibilities of this kind do not need
+ to be extensive to secure the possibility of more than one delib-
+ erative outcome. Modest libertarians both need and fear inter-
+ nal indeterminism, and they are disposed to constrain it when
+ engaged in the project of inventing indeterministic agents who
+ can act freely and morally responsibly.” 10
+
+9    Mele (2006) pp. 11-12.
+10   ibid.
+         344     Free Will: The Scandal in Philosophy
+
+               Alfred Mele here comes as close as any philosopher to my Cogito
+               model of free will.
+                       “The modest indeterminism at issue allows agents ample
+                  control over their deliberation. Suppose a belief, hypothesis, or
+                  desire that is indirectly relevant to a deliberator’s present prac-
+                  tical question comes to mind during deliberation but was not
+                  deterministically caused to do so. Presumably, a normal agent
+                  would be able to assess this consideration. And upon reflec-
+                  tion might rationally reject the belief as unwarranted, rationally
+                  judge that the hypothesis does not merit investigation, or ratio-
+                  nally decide that the desire should be given little or no weight in
+                  his deliberation. Alternatively reflection might rationally lead
+                  him to retain the belief, to pursue the hypothesis to give the
+                  desire significant weight. That a consideration is indeterministi-
+                  cally caused to come to mind does not entail that the agent has
+                  no control over how he responds to it. Considerations that are
+                  indeterministically caused to come to mind (like considerations
+                  that are deterministically caused to come to mind) are nothing
+                  more than input to deliberation. Their coming to mind has at
+                  most an indirect effect on what the agent decides, an effect that
+                  is mediated by the agent’s assessment of them. They do not set-
+                  tle matters. Moreover, not only do agents have the opportunity
+                  to assess these considerations, but they also have the opportu-
+                  nity to search for additional relevant considerations before they
+                  decide, thereby increasing the probability that other relevant
+Chapter 26
+
+                  considerations will be indeterministically caused to come to
+                  mind. They have, then, at least sometimes, the opportunity to
+                  counteract instances of bad luck — for example, an indetermin-
+                  istically caused coming to mind of a misleading consideration
+                  or, a chance failure to notice a relevant consideration. And giv-
+                  en a suitable indeterminism regarding what comes to mind in
+                  an assessment process, there are causally open alternative pos-
+                  sibilities for the conclusion or outcome of that process.” 11
+                  “Compatibilists who hold that we act freely even when we are
+                  not in control of what happens at certain specific junctures in
+                  the process leading to action are in no position to hold that an
+                  indeterministic agent’s lacking control at the same junctures
+                 11   Mele (2006) p. 12.
+                     Alfred Mele’s Modest Libertarianism                  345
+
+   precludes free action. And, again, real human beings are not
+   in control of the coming to mind of everything that comes to
+   mind during typical processes of deliberation. If this lack of
+   perfect proximal control does not preclude its being the case
+   that free actions sometimes issue from typical deliberation on
+   the assumption that we are deterministic agents, it also does
+   not preclude this on the assumption that we are indeterministic
+   agents.
+   “Now, even if garden-variety compatibilists can be led to see
+   that the problem of luck is surmountable by a libertarian, how
+   are theorists of other kinds likely to respond to the libertar-
+   ian position that I have been sketching? There are, of course,
+   philosophers who contend that moral responsibility and free-
+   dom are illusions and that we lack these properties whether
+   our universe is deterministic or indeterministic — for example,
+   Richard Double (1991) and Galen Strawson (1986).” 12
+   “Modest libertarians can also anticipate trouble from traditional
+   libertarians, who want more than the modest indeterminism
+   that I have described can offer. Clarke, who has done as much
+   as anyone to develop an agent-causal libertarian view, criticizes
+   event-causal libertarianism on the grounds that it adds no “pos-
+   itive” power of control to compatibilist control but simply plac-
+   es compatibilist control in an indeterministic setting. Of course,
+   given that combining compatibilist control with indeterminism
+
+                                                                            Chapter 26
+   in a certain psychological sphere was my explicit strategy in
+   constructing a modest libertarian position (Mele 1995, pp. 212-
+   13, 217), I do not see this as an objection. In any case, tradition-
+   al libertarians need to show that what they want is coherent.” 13
+  In my view, there is no avoiding luck in general, but keeping
+randomness out of the decision and action prevents it from un-
+dermining control and responsibility
+   “That requires showing that what they want does not entail or
+   presuppose a kind of luck that would itself undermine moral
+   responsibility. The typical libertarian wants both indetermin-
+   ism and significant control at the moment of decision. That is
+  12   Mele (2006) pp. 13-14.
+  13   Mele (2006) p. 14.
+         346     Free Will: The Scandal in Philosophy
+
+                  the desire that prompts a serious version of the worry about
+                  luck I sketched earlier. In the absence of a plausible resolution
+                  of the worry, it is epistemically open that a modest libertarian
+                  proposal of the sort I sketched is the best a libertarian can do.
+                  Of course, even if I happen to hit on the best libertarian option,
+                  it does not follow that I have hit on the best option for believers
+                  in free action and moral responsibility — as long as compatibil-
+                  ism is still in the running.” 14
+                 But true compatibilism, which assumes determinism is true, is
+               not in the running. Mele and his colleagues have long ago given
+               up hope for determinism being true. See the Strawson/Fischer/
+               Mele hypothesis below.
+               The Modest Libertarianism Process
+
+                 Figure 26-1. Mele’s Modest Libertarianism.
+                  Al Mele’s modest libertarianism provides what he calls an
+               “incompatibilist” first stage (he means indeterminist) and a com-
+Chapter 26
+
+               patibilist second stage (he means determinist).
+                  Mele does not (as do many philosophers since a mistaken read-
+               ing of R. E. Hobart’s 1934 Mind article) think this determination
+               of the will would imply pre-determinism.
+                  Mele locates the randomness in the incompatibilist first stage
+               of his two-stage model, where alternative possibilities are gener-
+               ated.
+                  Mele’s model is similar to Dennett’s, but he does not argue for
+               Dennett’s pseudo-random (deterministic) randomness. Howev-
+               er, because Mele is agnostic about the truth of determinism and
+               indeterminism, he does not discuss the importance of quantum
+               randomness explicitly.
+
+                 14    Mele (2006) p. 14.
+                    Alfred Mele’s Modest Libertarianism                  347
+
+Mele’s Other Models for Free Will
+   Being a self-proclaimed “agnostic” on these questions, Mele
+has developed both compatibilist and libertarian positions. His
+position on compatibilism needs some explaining. He says that
+because contemporary compatibilists (he mentions especially
+John Martin Fischer) attend to what modern quantum physics
+tell us, the overwhelming majority do not believe that determin-
+ism is true.
+   One might then ask what they think free will is compatible
+with, if not determinism. The answer is that they believe that
+even if determinism were true, it would leave it open that people
+sometimes act freely. “Freely” here is in the compatibilist sense of
+free will that Immanuel Kant called a “wretched subterfuge and
+William James called a “quagmire of evasion.” I call their idea the
+Strawson/Fischer/Mele Hypothesis.
+   Mele says this is the traditional framing of the problem of
+whether “free action” (to be distinguished from free will”) is pre-
+cluded by determinism. Ever since Hume, as long as an agent is
+not coerced physically, her/his actions could be judged to be free,
+even if they are part of a deterministic causal chain. But “freedom
+of action” (Isaiah Berlin’s negative liberty) is distinctly not free-
+dom of the will. See Chapter 3.
+
+                                                                           Chapter 26
+   Mele’s 1995 Modest Libertarianism discussed above is Mele’s
+strongest two-stage model. In 1996 he developed a related posi-
+tion called “Soft Libertarianism,” useful in the context of Frank-
+furt-style cases. Then in his 2006 work he developed a variation
+called “Daring Soft Libertarianism.”
+Soft Libertarianism
+   Soft libertarians find determinism unacceptable because it
+claims that for all their intentions, evaluations, decisions, and sub-
+sequent actions, events were in progress before they were born
+that cause all those intentions and actions. This is the core concern
+         348     Free Will: The Scandal in Philosophy
+
+               of Peter van Inwagen’s Consequence Argument. Soft libertar-
+               ians are not primarily motivated because indeterminism may
+               provide the alternative possibilities that are denied by Frankfurt
+               cases, but simply that the causal chain of determinism might be
+               broken, allowing them to make a causal contribution. He says,
+                  “Unlike hard libertarians, soft libertarians leave it open that
+                  determinism is compatible with our actions’ being up to us in
+                  a way conducive to freedom and moral responsibility [presum-
+                  ably in the second stage of a two-stage model?]. However, they
+                  believe that a more desirable freedom and moral responsibility
+                  require that our actions not be parts of the unfolding of deter-
+                  ministic chains of events that were in progress even before we
+                  were born. If soft libertarians can view themselves as making
+                  some choices or decisions that are not deterministically caused
+                  or that are deterministically caused by, for example, something
+                  that includes deliberative judgments that are not themselves
+                  deterministically caused, then they can view themselves as ini-
+                  tiating some causal processes that are not intermediate links in
+                  a long deterministic causal chain extending back near the big
+                  bang.” 15
+                  Soft libertarianism differs from modest libertarianism in that
+               it does not require robust alternative possibilities. But, somewhat
+               inconsistently?, Mele says (p.113) that soft libertarians do not
+               assert that free action and moral responsibility require the falsity
+Chapter 26
+
+               of determinism. Mele briefly mentions a “soft compatibilism,” but
+               does not develop it beyond saying that “soft compatibilism leaves
+               soft libertarianism open but is not committed to it.”
+               Daring Soft Libertarianism
+                  In his 2006 book Free Will and Luck, Mele extended his soft
+               libertarian idea to “Daring Soft Libertarianism.” Mele reaches out
+               to Robert Kane’s idea of Ultimate Responsibility, in which we
+               can be responsible for current actions, ones that are essentially
+               determined by our character and values, as long as we formed
+                 15   Mele (2006) p. 97.
+                     Alfred Mele’s Modest Libertarianism                 349
+
+that character ourselves by earlier free actions that he calls Self-
+Forming Actions (SFAs). SFAs in turn require brains that are not
+deterministically caused by anything outside the agent.
+   Some may argue that a modest libertarianism gives libertarians
+all the openness they can get without introducing into an agent
+a kind of openness that entails freedom-precluding and respon-
+sibility-precluding luck. But libertarians like Kane will not settle
+for such modest libertarianism. For them, Mele developed a more
+daring soft libertarian view, DSL.
+   Daring soft libertarians, he says, especially value a power to
+make decisions that are not deterministically caused - a certain
+initiatory power. They opt for event-causal soft libertarianism
+(p. 113). They do not like decisions made indeterministically or
+at random, what Mele calls basically free action. But they accept
+what Mele calls basically* free action (note the asterisk), whose
+requirement for alternative possibilities at the time of action are
+reduced, but whose requirement for indeterministic free actions
+some time in the past (Kane’s SFAs?) is intact (p. 115).
+   They can then replace the indeterministic connection between
+judgments and actions with a deterministic one (p. 117). (Note
+this can only be the adequate determinism of the two-stage mod-
+els like Mele’s modest libertarianism.)
+   Mele says that,
+
+                                                                           Chapter 26
+     “Part of what DSLs are driving at in their claims about influ-
+   ence is that probabilities of actions — practical probabilities —
+   for agents are not always imposed on agents. Through their past
+   behavior, agents shape present practical probabilities, and in
+   their present behavior they shape future practical probabilities.
+   The relationship between agents and the probabilities of their
+   actions is very different from the relationship between dice and
+   the probabilities of outcomes of tosses. In the case of dice, of
+   course, the probabilities of future tosses are independent of the
+   outcomes of past tosses. However, the probabilities of agents’
+   future actions are influenced by their present and past actions.”16
+
+  16   Mele (2006) p. 122.
+         350     Free Will: The Scandal in Philosophy
+
+                      “DSLs maintain that in the vast majority of cases of basi-
+                  cally* free actions and actions for which agents are basically*
+                  morally responsible, agents have some responsibility for the rel-
+                  evant practical probabilities... These chances are not dictated by
+                  external forces, and they are influenced by basically* free and
+                  morally responsible actions the agents performed in the past.” 17
+
+               The Strawson/Fischer/Mele Hypothesis
+                  Mele tells me that he and John Martin Fischer subscribe to
+               the view that “even if determinism is true, we would still have free
+               will.” 18 This can only be what Immanuel Kant calls the “wretched
+               subterfuge” of compatibilist “free will.” As I see it, this hypoth-
+               esis derives from two sources. First, there is P. F. Strawson’s view
+               that whether determinism or indeterminism is true, we would
+               not be willing to give up moral responsibility. Second, there is
+               Fischer’s view that free will is only the “control condition” for
+               moral responsibility.
+                  So we can restate the hypothesis as “even if determinism is true,
+               we would still have moral responsibility.” Determinism is not true,
+               but with this hypothesis I can completely agree.
+                  And I can go farther and formulate what might be called the
+               Strawson/Doyle hypothesis - “even if indeterminism is true, we
+               still have free will and moral responsibility.” In my two-stage
+Chapter 26
+
+               model, indeterminism in the first stage does not prevent our will
+               and our actions from being adequately determined by reasons,
+               motives, feelings, etc., as compatibilists have always wanted. But
+               the existence of indeterminism in the first stage means that our
+               actions were not pre-determined from the moment just before
+               we began to generate alternative possibilities for our actions, let
+               alone from before we were born or from the origin of the universe.
+                  Thoughts come to us freely. Actions go from us willfully.
+                  First chance, then choice. First “free,” then “will.”
+                 17   ibid. p. 123.
+                 18   Personal communication.
+                   Alfred Mele’s Modest Libertarianism                  351
+
+Mele and the Libet Experiments
+   Mele has lectured and written extensively on interpretations of
+the Libet experiments.19 (See Chapter 17.) He has debated Daniel
+Wegner, the Harvard psychologist and author of The Illusion of
+Conscious Will, who claims that the experiments deny free will.
+   Mele’s main criticism is what he sees as a systematic bias in data
+collection. All the Libet experiments work by permanently storing
+the last few seconds of data that have been collected, when trig-
+gered by detecting the wrist flex itself.
+   If there is no wrist flex, there is no data collected. The equally
+likely (in my view) cases of a rise in the readiness potential (RP)
+followed by no wrist flex would have been systematically ignored
+by Libet’s method of data collection.
+   It seems to imply a one-to-one relationship between initial rise
+in RP and the flex, which is misinterpreted as a causal relationship.
+   I explain the initial rise in the readiness potential as the first
+stage in my Cogito model, where alternative possibilities for
+action are being considered, including to flex or not to flex. See
+pages 241-3 for more details.
+Big Questions in Free Will
+
+                                                                          Chapter 26
+   Mele directs a four-year project at Florida State funded with
+$4.4 million from the Templeton Foundation. He will be offering
+multiple $40,000/year post-doc positions. We can expect some
+significant new research on the free-will problem over the next
+four years. My hope is that the post-docs will read this book.
+Mele in Barcelona
+   You can see a discussion between Mele, Robert Kane, and
+myself on YouTube debating whether two-stage models should be
+called “determined,” because the word implies pre-determinism
+to so many philosophers, and our two-stage models are distinctly
+not pre-determined.20
+  19   Mele (2010)
+  20   www.youtube.com/watch?v=iwDZUXr6dIc
+

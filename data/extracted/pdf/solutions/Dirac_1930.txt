@@ -1,0 +1,655 @@
+                                    I
+            THE PRINCIPLE OF SUPERPOSITION
+§ 1. Waves and Particles
+In the application of classical electrodynamics to atomic phenomena
+one meets with difficulties of a very fundamental nature, which show
+that the classical theory is irreconcilable with the facts. For instance,
+it is quite hopeless on the basis of classical ideas to try to account
+for the remarkable stability of atoms and molecules that is required
+in order that substances may have definite physical and chemical
+properties. These difficulties have necessitated a modification of some
+of the most fundamental laws of nature and have led to a new system
+of mechanics, called quantum mechanics, since its most striking
+ (although not its most important) differences from the old mechanics
+apparently show a discontinuity in certain physical processes and
+a discreteness in certain dynamical variables.
+   Classical electrodynamics forms a self-consistent and very elegant
+theory, and one might be inclined to think that no modification of
+it would be possible which did not introduce arbitrary features and
+completely spoil its beauty. This is not so, however, since quantum
+mechanics, after passing through many stages and having its funda­
+mental concepts changed more than once, has now reached a form in
+which it can be based on general laws and is, although not yet quite
+complete, even more elegant and pleasing than the classical theory
+in those problems with which it deals. This is brought about by the
+fact that the changes made in the classical theory are very few in
+number, although they are of a fundamental nature and involve the
+introduction of entirely new concepts, and are such that practically
+all the features of the classical theory to which it owes its attractive­
+ness can be taken over unchanged into the new theory.
+   The necessity for a fundamental departure from the laws and con­
+cepts of classical mechanics is seen most clearly by a consideration
+of experimentally established facts on the nature of light. On the
+one hand the phenomena of interference and diffraction can be
+explained only on the basis of a wave theory of light; on the other,
+phenomena such as photo-electric emission and scattering by free
+electrons show that light is composed of small particles, which are
+called photons, each having a definite energy and momentum de-
+  3595                             B
+2            T H E P R I N C I P L E OF S U P E R P O S I T I O N   §1
+pending on the frequency of the light. These photons appear to have
+just as real an existence as electrons, or any other particles known
+in physics. A fraction of a photon is never observed, so that we may
+safely assume it cannot exist.
+   To obtain a consistent theory of light which shall include inter­
+ference and diffraction phenomena, we must consider the photons as
+being controlled by waves, in some way which cannot be understood
+from the point of view of ordinary mechanics. This intimate con­
+nexion between waves and particles is of very great generality in the
+new quantum mechanics. It occurs not only in the case of light. All
+particles are connected in this way with waves, which control them
+and give rise to interference and diffraction phenomena under suitable
+conditions. The influence of the waves on the motion of the particles
+is less noticeable the more massive the particles and only in the case
+of photons, the lightest of all particles, is it easily demonstrated.
+   The waves and particles should be regarded as two abstractions
+which are useful for describing the same physical reality. One must
+not picture this reality as containing both the waves and particles
+together and try to construct a mechanism, acting according to
+classical laws, which shall correctly describe their connexion and
+account for the motion of the particles. Any such attempt would be
+quite opposed to the principles by which modern physics advances.
+What quantum mechanics does is to try to formulate the underlying
+laws in such a way that one can determine from them without
+ambiguity what will happen under any given experimental condi­
+tions. It would be useless and meaningless to attempt to go more
+deeply into the relations between waves and particles than is required
+for this purpose.
+
+§ 2. The Polarization of Photons
+Although the idea of a physical reality being describable by both
+particles and waves, which are connected in some curious manner, is
+of far-reaching importance and wide applications, yet it is only a
+special case of a much more general principle, the Principle of Super­
+position. This principle forms the fundamental new idea of quantum
+mechanics and the basis of the departure from the classical theory.
+   In order to lead up to an explanation of this principle, we shall
+first take a very simple special case of it, which is provided by a con­
+sideration of the polarization of light. It is known experimentally
+§2             SINGLE-PHOTON EXPERIMENTS                             3
+that when plane-polarized light is used for ejecting photo-electrons,
+there is a preferential direction for the electron emission. Thus the
+polarization properties of light are closely connected with its corpus­
+cular properties and one must ascribe a polarization to the photons.
+One must consider, for instance, a beam of light plane polarized in
+a certain direction as consisting of photons each of which is plane
+polarized in that direction and a beam of circularly polarized light
+as consisting of photons each circularly polarized. Every photon is
+in a certain state of polarization, as we shall say. The difficulty is
+now how we are to fit in these ideas with the known facts about the
+resolution of light into polarized components and the recomposition
+of these components.
+   Suppose, for instance, that we have a beam of plane-polarized light
+passing through a polariscope and getting resolved into two com­
+ponents polarized at angles of a and a+Jw with the direction of
+polarization of the incident beam. The intensities of the two com­
+ponents will be, according to classical optics, respectively cos2a and
+sin2* times that of the original beam. Let us say that a photon of
+the original beam is in the state of polarization 0 and a photon in
+one or other of the two components is in the state a or
+respectively. The question that now arises is: What must we con­
+sider happens to each individual photon when it reaches the polari­
+scope ? How do the photons in the state 0 change into photons in
+the states a and          ?
+   This question cannot be answered without the help of an entirely
+new concept which is quite foreign to classical ideas. We shall there­
+fore first consider another question of a different type, namely, what
+will be the result of any particular experiment which one may perform
+to try to determine what happens to an individual photon when it
+reaches the polariscope. It is only questions of this type that are
+really important, and quantum mechanics always gives a definite
+answer to them. Any answer that may be given to our first question,
+i.e. any description of the whole course of a photon during the
+experiment, would be simply a device to help us to remember the
+results of the experiments. We ought not to be surprised if no such
+ description based on classical ideas is possible.
+   The most direct experiment of this kind would be to use an incident
+ beam consisting of only a single photon and then to measure the
+ energy in each of the two components. The result predicted by
+4           T H E P R I N C I P L E OF S U P E R P O S I T I O N      §2
+quantum mechanics is that sometimes one would find the whole of
+the energy in one component and the other times one would find the
+whole in the other component. One would never find part of the
+energy in one and part in the other. Experiment can never reveal
+a fraction of a photon. If one did the experiment a large number of
+times, one would find in a fraction cos2a of the total number of times
+that the whole of the energy is in the a-component and in a fraction
+sin2a that the whole of the energy is in the (a-(-JiT)-component. One
+may thus say that a photon has a probability cos2a of appearing in
+the a-component and a probability sin2a of appearing in the (a+ £ 7r)-
+component. These values for the probabilities lead to the correct
+classical distribution of energy between the two components when
+the number of photons in the incident beam is large.
+   Thus the individuality of the photon is preserved in all cases, but
+only at the expense of determinacy. The result of an experiment is
+not determined, as it would be according to the classical theory, by
+the conditions under the control of the experimenter. The most that
+can be predicted is the probability of occurrence of each of the pos­
+sible results. This lack of determinacy, which runs through the whole
+of quantum mechanics and is in sharp contradiction to the classical
+theory, may at first sight appear to be unsatisfactory, as implying
+a departure from the law of causality. It should be remarked, though,
+that if one makes any experimental arrangement to observe the energy
+of one of the components (e.g. by reflection by a movable mirror and
+measurement of the recoil momentum communicated to the mirror),
+it will always be impossible subsequently to recombine the two com­
+ponents to produce interference effects. The observation must in­
+evitably produce, as we shall see from the general laws of quantum
+mechanics, a change in phase of uncertain and unpredictable amount.
+One may therefore, as has been pointed out by Bohr,* ascribe the
+lack of determinacy in the result to the uncertainty in the disturbance
+which the observation necessarily makes, although one cannot inquire
+closely into how it comes about. The apparent failure of causality
+is from this point of view due to a theoretically necessary clumsiness
+in the means of observation.
+   We must now consider the answer to our first question and give
+a description of the photon throughout the course of the experiment.
+A description consisting of a continuous picture in the classical sense
+             * See the article by N. Bohr in .Nature, p. 580, 1928.
+§2    S U P E R P O S I T I O N OF S T A T E S OF P O L A R I Z A T I O N   5
+is not possible. The description which quantum mechanics allows us
+to give is merely a manner of speaking which is of value in helping
+us to deduce and to remember the results of experiments and which
+never leads to wrong conclusions. One should not try to give too
+much meaning to it.
+   It is necessary to suppose a peculiar relationship to exist between
+the different states of polarization, which is such that when, for
+instance, a photon is in the state 0, it'm ay be considered as being
+partly in the state a and partly in the state         Similarly it could
+be considered as partly in state /J and partly in state jS-\-lrr, where
+   is any other angle of polarization, or as partly in the state of left-
+circular polarization and partly that of right-circular polarization.
+More generally, one could consider it partly in each of two states
+plane polarized in two directions that are not at right angles, though
+this is seldom convenient, or one could consider it partly in each of
+ more than two states. There are thus many ways of describing the
+ photon, which are all always permissible and equally good theoreti­
+ cally, although; of course, the one that says the photon is entirely in
+ state 0 is simpler than those that say it is ‘distributed ’ over two or
+ more states. When we say that the photon is distributed over two
+ or more given states the description is, of course, only qualitative,
+ but in the mathematical theory it is made exact by the introduction
+of numbers to specify the distribution, which determine the iveights
+ with which the different states occur in it.
+    One cannot picture in detail a photon being partly in each of two
+ states; still less can one see how this can be equivalent to its being
+ partly in each of two other different states or wholly in a single state.
+ We must, however, get used to the new relationships between the
+ states which are implied by this manner of speaking and must build
+ up a consistent mathematical theory governing them.
+    In our polarizing experiment, if we choose to consider the incident
+ photon as being partly in state a and partly in state                the
+ action of the polariscope is then quite simple. It separates the two
+ components a and a+^77 into twro distinct beams, so that after the
+ photon has passed through we must say that it is partly in one beam
+ with the polarization a and partly in the other with the polarization
+ ct+l77. There is now no way of saying the photon is wholly in one
+ state, without a generalization of the meaning of a state, which will
+ be made later. The simplest description is the one just given, in
+6            T H E P R I N C I P L E OF S U P E R P O S I T I O N   §2
+which the photon is distributed over two states. Other possible
+descriptions would require the photon to be distributed over three
+or more states; e.g. one could say it is partly in the first beam with
+the polarization a, partly in the second beam with the polarization
+/? (arbitrary), and partly in the second beam with the polarization
+P+h-rr. Such descriptions would not, however, be of value unless the
+beams were subsequently passed through other polarizing instru­
+ments.
+    Let us consider now what happens when we determine the energy
+in one of the components. The result of such a determination must
+be either the whole photon or nothing at all. Thus the photon must
+change suddenly from being partly in one beam and partly in the
+other to being entirely in one of the beams. This sudden change may
+be counted as due to the disturbance of the photon which the observa­
+tion necessarily makes. It is impossible to predict in which of the
+two beams the photon will be found. Only the probability of either
+result can be calculated from the previous distribution of the photon
+ over the two beams.
+    This way of describing the photon during the course of the
+experiment leads to one important conclusion, namely, the above-
+ mentioned circumstance that when once the energy in one of the
+ components has been determined, it will be impossible subsequently
+ to bring about interference between the two components. When the
+ photon is partly in one beam and partly in the other, if the two beams
+ are superposed interference can take place, as the mathematical
+ theory will show. This possibility disappears when the photon is
+ forced entirely into one of the beams by the energy observation. The
+ other beam then no longer enters into the description of the photon,
+ so that if any experiment is subsequently performed on the same
+ photon it will count as being entirely in the one beam in the ordinary
+ way.
+    We have obtained a description of the photon throughout the
+ experiment, which rests on a new rather vague idea of a photon
+ being partly in one state and partly in another. The reader may,
+ perhaps, feel that we have not really solved the difficulty of the con­
+ flict between the waves and the corpuscles, but have merely talked
+ about it in a certain way and, by using some of the concepts of waves
+ and some of corpuscles, have arrived at a formal account of the
+ phenomena, which does not really tell us anything that we did not
+§2           B E H A V I O U R OF A S I N G L E P H O T O N           7
+know before. The difficulty of the conflict between the waves and
+corpuscles is, however, actually solved as soon as one can give an
+unambiguous answer to any experimental question. The only object
+of theoretical physics is to calculate results that can be compared with
+experiment, and it is quite unnecessary that any satisfying description
+of the whole course of the phenomena should be given.
+   With regard to the objection that the present description does
+not seem to take us any farther than we could, perhaps, have gone
+with very hazy notions of the relations between photons and
+electromagnetic waves, such as, for instance, those one had before
+the discovery of quantum mechanics, it should be remarked that the
+conclusion obtained above, that when once the energy of one of the
+beams has been measured subsequent interference between the beams
+would be impossible, could not have been drawn from very hazy
+notions, and also that the present discussion is really too qualitative
+for the advantages of the new theory to show up clearly. In § 5 the
+discussion on the nature of light will be renewed on a slightly more
+quantitative basis, which will bring out definitely the difference
+between the present theory and the previous hazy notions. For many
+elementary optical experiments, moreover, the hazy notions would
+suffice to give answers to questions concerning the results of observa­
+tions and in such cases quantum mechanics would not give any
+further information. The object of quantum mechanics is to extend
+the domain of questions that can be answered and not to give more
+detailed answers than can be experimentally verified.
+
+§ 3. Superposition and Indeterm inacy
+The new ideas that we have introduced in our description of the
+photon must be extended and applied to any atomic system, i.e. to
+any set of electrons and atomic nuclei interacting with each other
+and perhaps also with photons. We must first generalize the meaning
+of a ‘state ’ so that it can apply to any atomic system. Corresponding
+to the case of the photon, which we say is in a given state of polariza­
+tion when it has been passed through suitable polarizing apparatus,
+we say that any atomic system is in a given state when it has been
+prepared in a given way, which may be repeated arbitrarily at will.
+The method of preparation may then be taken as the specification of
+the state. The state of a system in the general case includes any
+information that may be known about its position in space from the
+8            T H E P R I N C I P L E OF S U P E R P O S I T I O N     §3
+way in which it was prepared, as well as any information about its
+internal condition.
+   We must now imagine the states of any system to be related in
+such a way that whenever the system is definitely in one state, we
+can equally well consider it as being partly in each of two or more
+other states. The original state must be regarded as the result of
+a kind of superposition of the two or more new states, in a way that
+cannot be conceived on classical ideas. Any state may be considered
+as the result of a superposition of two or more other states, and indeed
+in an infinite number of ways. Conversely any two or more states
+may be superposed to give a new state, even also when they refer
+to different positions of the system in space. Thus in our previous
+example of the polarization experiment, when the photon is partly
+in the one beam with the polarization a and partly in the other with
+the polarization          we may still count it as being entirely in a
+certain single state. In fact it still satisfies the definition of having
+been prepared in a definite way which may be repeated at will.
+   When a state is formed by the superposition of two other states,
+it will have properties that are in a certain way intermediate between
+those of the two original states and that approach more or less closely
+to those of either of them according to the greater or less ‘weight’
+attached to this state in the superposition process. The new state is
+completely defined by the two original states when their relative
+weights in the superposition process are known, together with a cer­
+tain phase difference, the exact meaning of weights and phases being
+provided in the general case by the mathematical theory of the next
+chapter. In the case of the' polarization of a photon their meaning
+is that provided by classical optics, e.g. when two perpendicularly
+plane polarized states are superposed with equal weights, the new
+state may be circularly polarized in either direction, or linearly
+polarized at an angle \ tt, or else elliptically polarized, according to
+the phase difference. This, of course, is true only provided the two
+states that are superposed refer to the same beam of light, i.e. all
+that is known about the position and momentum of a photon in
+either of these states must be the same for each.
+   It is convenient at this stage to modify slightly the meaning of the
+word ‘state ’ and to make it more precise. We must regard the state
+of a system as referring to its condition throughout an indefinite
+period of time and not to its condition at a particular time, which
+§3                   STATES IN SPACE-TIME                               9
+would make the state a function of the time. Thus a state refers to
+a region of 4-dimensional space-time and not to a region of 3-dimen­
+sional space. A system, when once prepared in a given state, remains
+in that state so long as it remains undisturbed. This does not, of
+course, imply that it is not undergoing changes which could he
+revealed by experiment. In general it will be following out a definite
+course of changes, predictable by the quantum theory, belonging tt>
+that state. It is sometimes purely a matter of convenience whether
+we are to regard a system as being disturbed by a certain outside
+influence, so that its state gets changed, or whether we are to regard
+the outside influence as forming part of and coming in the definition
+of the system, so that with the inclusion of the effects of this influence
+it is still merely running through its course in one particular state.
+An illustration of this is our previous example of a photon being
+passed through a polariscope and becoming partly in each of. two
+beams. Either we may consider the polariscope as disturbing the
+photon, so that after it has passed through it is in a different state;
+or else we may consider the polariscope as forming part of the ' field ’
+in which the photon is moving, so that it is in the same state when
+it is in the incident beam as later when it is partly in each of the
+two component beams, and it is just following out its course in that
+state. The general laws of quantum mechanics apply equally well
+for either of these meanings of the state. There are, however, two
+cases when we are in general obliged to consider the disturbance as
+causing a change in state of the system, namely, when the disturbance
+is an observation and when it consists in preparing the system so as
+to be in a given state.
+   With the new space-time meaning of a state we need a corre­
+sponding space-time meaning of an observation. This requires that
+the specification of an observation shall include a definite time at
+which the observation is to be made, or at which the apparatus used
+in making the observation is to be set in motion, relatively to the
+time when the system was prepared. It should be noticed that it has
+a meaning to consider an observation being made on a system in a
+given state before this state is prepared. If the system is prepared
+at time t0, so that after time t0 it is in a given state, we can imagine
+what it would have to be like before time t0 in order that, if left
+undisturbed, it may become in the given state after time tQ. Thus
+we can imagine the given state being produced backwards in time
+  3595                              r
+10           T H E P R I N C I P L E OF S U P E R P O S I T I O N     §3
+and can give a meaning to an observation being made before time t0
+on the system in this state.
+   The introduction of indeterminacy into the results of observations,
+which we had to make in our discussion of the photon, must now be
+extended to the general case. When an observation is made on any
+atomic system that has been prepared in a given way and is thus in
+a given state, the result will not in general be determinate, i.e. if the
+experiment is repeated several times under identical conditions
+several different results may be obtained. If the experiment is
+repeated a large number of times it will be found that each particular
+result will be obtained a definite fraction of the total number of
+times, so that one can say there is a definite probability of its being
+obtained any time the experiment is performed. This probability the
+theory enables one to calculate. In special cases this probability may
+be unity and the result of the experiment is then quite determinate.
+   The indeterminacy in the results of observations is a necessary con­
+sequence of the superposition relationships that quantum mechanics
+requires to exist between the states. Suppose that we have two states
+A and B such that there exists an observation which, when made on
+the system in state A, is certain to lead to one particular result, and
+when made on the system in state B, is certain not to lead to this
+result. Two such states we call orthogonal. Suppose now that this
+observation is made on the system in a state formed by superposition
+of A and B. It is impossible for the result still to be determinate
+(except in the special case when the weight of A or B in the super­
+position process is zero). There must be a finite probability p that
+the result, that was certain for state A , will now be obtained and
+a finite probability 1—p that it will not be obtained. By continuously
+varying the relative weights in the superposition process we can get
+a continuous range of states, extending from pure A to pure B, for
+which the probability of the result, that was certain for state A,
+being obtained varies continuously from unity to zero.
+   It was mentioned above that an observation is not specified unless
+the time when it is made is given. In special cases it may so happen
+that the result of the observation, or the probability of any particular
+result being obtained, is independent of this time. If the state of the
+system is such that this is so for every observation that could be
+made on the system, then the state is said to be a stationary state and
+we should picture it as one in which the conditions are not varying.
+§3   COMPARISON W I T H CLASSICAL S U P E R P O S I T I O N            11
+   The possibility in quantum mechanics of superposing states to get
+new states is connected with the fact that in the mathematical theorj
+the equations that define a state are linear in the unknowns. It is
+not unnatural that one should try to establish analogies with systems
+in classical mechanics (such as vibrating strings or membranes),
+which are governed by linear equations and for which, consequently,
+a superposition principle holds. Such analogies have led to the name
+‘Wave Mechanics’ being sometimes given to quantum mechanics.
+It must be emphasized, however, that the superposition that occurs in
+quantum mechanics is of an essentially different nature from that occurr­
+ing in the classical theory. The analogies are therefore very mis­
+leading. Their inadequacy may be seen from the following special
+case. Suppose one compares the states of an atomic system with the
+states of vibration of a membrane. If one superposes any state of the
+vibrating membrane with itself, the result is a new state of double
+the amplitude. On the other hand, if one superposes an atomic state
+with itself according to quantum mechanics, the resulting state will
+be precisely the same as the original one. There is nothing in the
+atomic case that is analogous to the absolute value of the amplitude,
+as distinct from the relative amplitudes of different points, of the
+vibrating membrane.
+
+§ 4. Compatibility of Observations
+In general a system is disturbed when an observation is made on it,
+so that after the observation it is no longer in the same state as
+before. Only when the initial state and the observation are such that
+there is a probability unity, i.e. a certainty, for one particular result
+is it possible that the observation may produce no change of state.
+The necessity for this conclusion may be seen from the following
+argument.
+   Suppose that there is a probability p for a given result being
+obtained from the observation. Consider one occasion on which
+this result was actually found and suppose the observation was
+repeated immediately afterwards on the system in the state in which
+it was left by the first observation. There must have been a proba­
+bility unity for the given result being obtained a second time, since
+we may assume the system could not have changed in the infinitely
+short time between the two observations. Thus while the first state
+is such that there is a probability p for a given result from a certain
+12           T H E P R I N C I P L E OF S U P E R P O S I T I O N    §4
+observation, the second state (i.e. the one in which the system was
+left by the first observation) is such that there is a probability unity
+for this same result from a practically equivalent observation. Hence
+the second state must differ from the first when p differs from unity,
+since the probability of a result is quite definite for each state. It
+must be understood that the second state here considered is the one
+that arose on that particular occasion referred to above when the
+first observation was found to give the particular result desired.
+There will be a different second state corresponding to each different
+result for this observation. They must all be different from the initial
+state when p differs from unity.
+   Hence when once an observation of a system in a given state has
+been made, one cannot in general make a second observation and
+suppose it to apply to the same state. The first observation spoils
+the state of the system, which must then be prepared again before
+one can make the second. The two observations may, however, be
+such that, although the first one alters the state of the system, yet
+it does so in such a way as not to make any difference to the proba­
+bility of any given result being obtained with the second. By the
+probability of a given result being obtained with the second is here
+meant its probability at the beginning of the experiment, before one
+knows what the result of the first observation is, and not its proba­
+bility after a particular result has been obtained with the first
+observation. Two observations for which this is so when they are
+made (or at least when the first is made) with the minimum of dis­
+turbance allowed by theory, which can be attained in practice only
+under the most favourable conditions, are called compatible. Three
+or more observations are called compatible when any two are com­
+patible. Two or more observations may be compatible only with
+respect to one particular state as initial state before any of the
+observations, or they may be compatible with respect to all initial
+states. In future when it is said that two or more observations are
+compatible, the second alternative is to be understood unless the
+contrary is stated.
+   The condition for the compatibility of two observations is, according
+to the laws of quantum mechanics, a symmetrical condition between them.
+If one of two compatible observations, cq say, is made at the time
+ty and the other, a2 say, at the time t2 which is later than tv then,
+according to the definition given above, the probability of a given
+§4                COMPATIBLE OBSERVATIONS                                13
+result being obtained for a2must be the same whether this observa­
+tion is made on the system in the initial state or in the state ensuing
+after observation cq. The symmetry condition now requires that the
+probability of a given result being obtained for a! must be the same
+whether this observation cq is made on the system in the initial state
+or in the state ensuing after observation a2, it being necessary to
+suppose this latter state, which is prepared at time t2, to be produced
+backwards in time, in the way mentioned in the preceding section, in
+order that the observation cq at time q may be made on it. By the
+probability of a result for the state ensuing after a certain observa­
+tion, is meant in each case the average probability for each state that
+can ensue after this observation, each of these states being weighted
+in the averaging process with the probability that it does ensue after
+this observation.
+   It has been pointed out that the state of a system after any
+observation has been made on it is such that this observation, if
+made on the system in this final state, would for a certainty give one
+particular result. Suppose now that a number of compatible observa­
+tions cq, ct2, . . . are made on the system. Then the final state must
+be such that, if any of the observations a.r is made on the system in
+this final state, there will be a certainty for one particular result,
+since there was a certainty for one particular result as soon as the
+observation ar was made in the preparation of the final state, and
+this will not be affected by the subsequent observations ar+1, ar+2, . . . ,
+owing to the compatibility condition. The existence of states for
+which the result of any of the observations is a certainty forms one
+of the main properties of compatible observations. The order of the
+observations need not, of course, be their order in time, since we are
+allowed to consider an observation being made on a state before it
+is prepared.
+   The case of greatest interest of the compatibility of two observa­
+tions is when they both refer to the same instant of time. The com­
+patibility condition is now that if either is made a very short time
+before the other, the probability of any given result being obtained
+with the second shall be the same as if the first had not been made.
+   I t is often convenient to count two or more compatible observa­
+tions, particularly when they are simultaneous, as a single observa­
+tion, the result of such an observation being expressible by two or
+more numbers. We shall frequently have to consider the greatest
+14           T H E P R I N C I P L E OF S U P E R P O S I T I O N      §4
+possible number of independent compatible simultaneous observa­
+tions being made on a system and shall, for brevity, call such a set
+of observations a maximum observation. When a maximum observa­
+tion is made on a system, its subsequent state is completely determined
+by the result of the observation and is independent of its previous state.
+This may be considered as an axiom, or as a more precise definition
+of a state.
+   The state of a system after a maximum observation has been made
+on it is such that there exists a maximum observation (namely, an
+immediate repetition of the maximum observation already made)
+which, when made on the system in this state, will for a certainty
+lead to one particular result (namely, the previous result over again).
+Any state can be specified only as the state ensuing after a given
+maximum observation has been made for which a given result was
+obtained, or in some equivalent way, We can therefore draw the
+conclusion that for any state there must exist one maximum observa­
+tion which will for a certainty lead to one particular result, and
+conversely, if we consider any possible result of a maximum observa­
+tion, there must exist a state of the system for which this result for
+the observation will be obtained with certainty.
+
+§ 5. Further D iscussion on Photons
+When quantum mechanics is applied to a system composed of simply
+a freely moving corpuscle, the equations that define a state of the
+system are, as we shall find from the mathematical theory, the
+ordinary equations for wave motion. It is this circumstance that
+gives to the corpuscle many of the properties of waves and allows us
+to consider a corpuscle in a given state as associated with, or controlled
+by, a given wave. In order to show more definitely the nature of the
+relations between the waves and the corpuscle, a typical example will be
+given of the conflict between the wave and the corpuscular theories
+of light and of the solution which quantum mechanics provides.
+   Consider a beam of light to be split into two components of equal
+intensity, which are made to interfere. According to the old corpus­
+cular theory we would say that each of the two components contains
+an equal number of photons and we should then require that a photon
+in one component could interfere with one in the other. Under certain
+conditions they would have to annihilate one another, and under
+others to produce four photons. This contradicts the idea of photons
+§5            S E L F - I N T E R F E R E N C E OF A P H O T O N        15
+ being discrete particles and is, besides, in disagreement with the con­
+ servation of energy, which should hold for each process in detail and
+not be merely statistically true.
+   The answer that quantum mechanics gives to the difficulty is that
+one should consider each photon to go partly into each of the two
+components, in the way allowed by the idea of the superposition of
+states. Each photon then interferes only with itself. Interference
+between two different photons can never occur. The solution of
+Maxwell’s equations that forms the wave picture of the phenomenon
+represents one of the photons and not the whole assembly of photons.
+The relative intensities that this solution gives for the light at dif­
+ferent points determine the relative probabilities of that photon being
+found at these points when an experiment is made to find its position.
+Only the relative intensities at different points are of importance;
+the absolute intensity has no interpretation. One must not try to estab­
+lish any connexion between the absolute intensity of the waves and
+the total number of particles, which is in sharp distinction to the
+older ideas of the relations between waves and particles.
+   The quantum-mechanical views do not, of course, get over the
+difficulty of enabling us to picture something having properties be­
+tween those of waves and corpuscles, but they serve to remind us,
+by their way of saying a photon is partly in one component and
+partly in the other, of the close connexion between the components
+and so prevent us from intuitively drawing wrong conclusions, as we
+do on the older views when we picture each component as having its
+own photons. For instance, we are reminded, by the requirement
+that the total probability of a photon being anywhere must be and
+must remain unity, that in whatever way the two component beams
+interfere, if they neutralize each other in one place they must rein­
+force each other in another so that conservation of energy is pre­
+served. We thus get into no difficulty with the detailed conservation
+of energy.
+
+§ 6. Definition of Superposition
+A definition of the superposition of states will now be given. We say
+that a state A may be formed by a superposition of states B and G when,
+if any observation is made on the system in state A leading to any result,
+there is a finite probability for the same result being obtained when the
+same observation is made on the system in one (at least) of the two states
+16           T H E P R I N C I P L E OF S U P E R P O S I T I O N     §6
+B and C. The Principle of Superposition says that any two states B
+and C may be superposed in accordance with this definition to form
+a state A and indeed an infinite number of different states A may
+be formed by superposing B and G in different ways. This principle
+forms the foundation of quantum mechanics. It is completely
+opposed to classical ideas, according to which the result of any
+observation is certain and for any two states there exists an observa­
+tion that will certainly lead to two different results.
+   From our definition of superposition some elementary theorems
+follow immediately. For example, the states B and G themselves are
+particular cases of states formed by superposition of B and G. Again,
+if we superpose two states A and B obtaining a state P, which is then
+superposed on another state C, the resulting state Q will have the
+property that, if any observation is made on the system in this state
+leading to any result, there will be a finite probability of this same
+result being obtained when the observation is made on the system
+in one of the two states P and C, and hence there must be a finite
+probability of this result being obtained when the observation is
+made on the system in one of the three states A, B, and G. Thus
+the property possessed by the state Q is symmetrical in the three
+states A, B, and C, so that when superpositions are made successively
+their order is unimportant. This, of course, is necessary for the word
+‘superposition’ to be suitable for describing the relations between
+the states.
+   Another example of a deduction from the definition of superposi­
+tion is the following: If an observation of the system in a state A is
+certain to lead to one particular result and if this observation for
+another state B is certain to lead to the same result, then the observa­
+tion is also certain to lead to this result for any state obtained by
+superposition of A and B. This is because it cannot lead to any
+other result, as the probability of this other result for both the states
+A and B is zero.
+   One could proceed to build up the theory of quantum mechanics
+on the basis of these ideas of superposition with the introduction of
+the minimum number of new assumptions necessary. Although this
+would be the logical line of development, it does not appear to be
+the most convenient one, as the laws of quantum mechanics are so
+closely interconnected that it would not be easy, and would in any
+case be somewhat artificial, to separate out the barest minimum of
+                   THE SYMBOLIC METHOD                            17
+assumptions from which the rest could be deduced. The method that
+will be here followed will therefore be first to give all the simple
+general laws in the form in which they are most easily expressed and
+remembered, and then to work out their consequences. This will
+mean that we shall continually be deducing results that are obviously
+necessary for the physical meaning of the theory to be tenable, or
+that follow from the foregoing ideas of superposition. Such deduc­
+tions will then merely show the reasonableness and self-consistency
+of our fundamental assumptions.
+
+
+
+
+  3595                           D
+

@@ -1,0 +1,185 @@
+# 1BS0.                Principle of Least Sonant.                         19
+
+**source:** pdf · **section:** solutions
+**file:** Herschel
+---
+
+
+might, if we pleased, instance more complicated cases, in which
+the elements to be determined arc numerous and not directly
+given by observation, but with such we shall not trouble our
+readers; suffice it to say that the rule above stated, or, as it is
+technically called, the ' Principle of Least Squares,' furnishes,
+in all cases, a system of geometrical relations characteristic of
+the mott probable values of the magnitudes sought, and which,
+ lulv bandit
+   This in,,                                lulgated, rather as a
+
+suable theorem, by Legendre. Its dcmonntrnti
+attempted by Gauss, — but his proof is in fact no proof at all,
+lince it takes for granted that in the case of a single ilrinciil,
+variously determined by any finite number af observalitau however
+email, the arithmetical mean is the must probable value, —a
+thing to be demonstrated, not assumed, net to mention other
+objections. Laplace has given a rigorous demonstration, resting
+on the comparison of cquipoesiblo combinations, infinite in
+numlier. His ,'I:.;L.V.V,.-. is, IIO-.VI.VM-, u.v.-L-'.-il.npU uju,]>lii.,[v.i;
+and, although presented more neatly by l'oisson, and in this
+work, by M. Quetelet stripped of all su^rfluous difficulties,
+and reduced to [he ir.u.t simple an-.l c-lriniTimry II rii: »r have
+yet seen, yet most of necessity be incomprehensible to all
+whose knowledge of the higher analysis lias not perfectly f&uui-
+liarised them with those delicate considerations involved in
+ the transition from finite differences to ordinary differentials.
+Perhaps, therefore, our non-mathematical renders will pardon
+us if we devote a single page to what appears to us a simple,
+general, and perfectly elementary proof' of the principle in
+question, requiring no further acquaintance with tho tranecen-
+deutal analysis than suffices for understanding the nature of
+logarithms.
+   We set out from three postulates. 1st, that the probability
+of a compound event, or of the concurrence of two or more
+ independent simple events, is the product .if the prnlmbiiiiii:., of
+
+il- ifT
+      . I-.t It ICU
+                  Il '• -I.-li'-TI il -lvV
+                                         . I tt'ilv, il 111 t
+tion or numerical law of connexion (at present unknown) between
+the amount of error committed lu any numeric;d determin itinn
+and the probability of committing it, such that the "renter the
+                       see of error are supposed alike ttnhnrp
+                       rnoranee, and not upon any peculiarity in
+                       I' probability in the abstract is founded;
+                         equally probable if equal in numerical
+SO                              Q n c t e l e t on Probabilitici.                               July,
+
+a m o u n t , w h e t h e r in excess, or in defect of, or in a n y w a y b e -
+side t h e t r u t h . T h i s l a t t e r p o s t u l a t e necessitates o u r a s s u m i n g
+t h e function of p r o b a b i l i t y t o b e w h a t is called In m a t h e m a t i c a l
+l a n g u a g o an tccn function,               or a function of t h e s q u a r e of t h e
+e r r o r , so a s t o b e alike for positive a n d n e g a t i v e va lue s ; a n d t h e
+p o s t u l a t e itself is n o t h i n g m o r e t h a n t h e expression of o u r s t a t e
+of complete i g n o r a n c e of t h e c a u s e s of e r r o r , a n d t h e i r m o d e of
+action. T o d e t e r m i n e t h e form of t h i s f u n c t i o n , w e will c o n -
+sider a case in w h i c h t h e r e l a t i o n s of space arc concerned, rjii|i-
+p o s e a ball d r o p p e d from a g i v e n h e i g h t , w i t h t h e i n t e n t i o n
+t h a t it shall fall on a g i v e n m a r k . F i l l as i t m a y , its d e v i a t i o n
+from t h e m a r k Is e r r o r , a n d t h e p r o b a b i l i t y of t h a t e r r o r is t h e
+u n k n o w n function of its s q u a r e , f. e. of t h e s u m of t h e s q u a r e s
+of it- ittiviiitions in a n y t w o r e c t a n g u l a r d i r e c t i o n s . N o w , t h e
+p r o b a b i l i t y of ar.v deviate,TI depending- sol el v on it- m a g n i t u d e ,
+a n d n o t o n its d i r e c t i o n , i t follows t h a t t h e p r o b a b i l i t y of e a c h
+of those r e c t a n g u l a r d e v i a t i o n s m u s t b e t h e s a m e function of i d
+square              A n d since t h e o b s e r v e d o b l i q u e d e v i a t i o n is e q u i v a -
+l e n t t o t h e t w o r e c t a n g u l a r ones, s u p p o s e d c o n c u r r e n t , a n d is,
+t h e r e f o r e , a c o m p o u n d e v e n t of w h i c h t h e y a r c t h e s i m p l e c o n -
+s t i t u e n t s , therefore it- p r o b a b i l i t y will b e t h e p r o d u c t of t h e i r
+s e p a r a t e probabilities. T h u s t h e form of o u r u n k n o w n f u n c -
+t i o n c o m e s t o b e d e t e r m i n e d from this condition, viz. t h a t t h e
+p r o d u c t of s u c h functions of t w o i n d e p e n d e n t e l e m e n t s is e q u a l
+t o t h e same function of their s u m . B u t it is Bhown in e v e r y
+               on algebra that this p
+             c of, a n d b e l o n g s only tt
+             unction. T h i s , t h e n , la t h e f u n
+               w h i d i rvp"i\--r- tin- p r o b a b i l i t y of c o m m i t t i n g t h a t
+T h a t p r o b a b i l i t y decreases, t h e r e f o r e , in g e o m e t r i c a l p r o g r e s -
+                  liic -Oil        " '        e r r o r increases; in a r i t h m e t i c a l .   And
+                 - furthr.                    t h a t t h e p r o l m b i l i t y of successively
+c o m m i t t i n g a n y g i v e n s y s t e m of e r r o r s on r e p e t i t i o n of t h e
+t r i a l , b e i n g , b y p o s t u l a t e 1, t h e p r o d u c t of t h e i r s e p a r a t e p r o -
+b a b i l i t i e s , m u s t b e expressed b y t h e s a m e e x p o n e n t i a l f u n c t i o n
+of t h e s u m of t h e i r s q u a r e s h o w e v e r n u m e r o u s , a n d is, t h c r e -
+
+                   H e n c e t h i s r e m a r k a b l e conclusion, viz. t h a t if at
+exceedingly large n u m b e r of m e a s u r e s , H e i g h t s , or o t h e r nil'
+niLriiul d e t e r m i n a t i o n s of a n y c o n s t a n t m a g n i t u d e , b e t a k e n , —
+
+o n e direction, t o e x i s t — n o t only will t h e n u m b e r of m l
+e r r o r s v a s t l y exceed t h a t of l a r g e ones, b u t t h e r e s u l t s will I"
+1850.            La*, of Ike DittribaHm of Error:                   21
+found to group themselves about the mean of the whole,
+always according to one invariable law of numbers (that just
+announced), and thai the more precisely the greater the total
+    Sueli being the case, and the law of distribution of errors
+over the whole range of possible error being known, it heroines.
+practicable to assign the relative numbers of eases in which tho
+i l i a , ivill full respectively within and beyond any proposed
+limit on the average of an infinite number uf trials, and thence
+to assign, d priori, the probability il euiiiiiiiitmg in any single
+future trial, —not a given specific amount of error, but an error
+•or exceeding thai limit, provided only the probable error of a
+single trial be known ; which, as we have seen, can alwaya be
+ascertained on tbe evidence of foregone experience, if very ex-
+tensive. To illustrate tbis, we may recur to the case of a
+marksman aiming at a target. Supjmse. tlint an counting the
+marks left by his practice, il bus been found, on the result of a
+grcnt number of (say 1U0U) trials, that half his shots had struck
+within lit inches of the centre. About this point let circles bo
+described, the first at 2 inches distance, and others at distances
+progressively greater by 2 inches at a time. Then it will be
+found, on counting the marks within the areas of these several
+.•iv.ii-. th.it their lumbar.-, up to the tenth eireie or to 20 inches
+dblaiicc, will run n.i follows: lit. 1(17, 213. 31-1, i l l , .WO,
+582, 655,718,775, 823. Within the l.lih circle, or 30 inches,
+already 957 shuts will be found to have struck | and within 40
+inches, 993. Only one out of the whole thousand will be found
+beyond the 2.1ih circle, or havo erred BO far us it) inches from
+the point aimed at; and not one in 20,000 (were the practice
+prolonged so far) would stray beyond tbe 30th or err 60 inches.
+Computations uf this sort arc rendered exceedingly easy by a
+table, originally calculated by Knunp, with a widely Jitiimnt
+object, which is given io the notes to M. Ljuetclet's book, and
+more in extenlo, with dificrcnci v, ;ir. tin: cui uf Mr. (.uill. ,v..y -
+ work above noticed.
+    What is yet more remarkable is that the skill with which tbe
+trials are performed, ia absolutely of no importance so far as the
+fair of distribution of the errors over their total range is con-
+cerned. Wore our marksman, for instance, only half ae skilful,
+or to have 20 instead of 10 inches as the expression of his pro-
+bable error, we have only to double the diameters of nil the
+circles, and his shots will bo found distributed among tbem
+according to the same succession of numbers. An important
+consequence follows from this i vix. that rude and unskilful
+                      Quetelct on ProoahiUtiet,                  July,
+                of any kind, if accumulated in very great num-
+ber*, ore competent to afford precise mean results. The only
+conditions are the continual animus mrtturunr/i, the absence of
+bins, the correotnesa of the scale with which the measures are
+compared, and the assurance that, we have the entire range of
+error at least in one direction within the record-
+   In a matter so abstract, and on which, at first sight, human
+reason would appear to have so little hold, it is assuredly satis-
+factory to find the same conclusion, and that one HI positive and
+definite, reached by different roads and from different starting
+points. It is not easy to imagine two principles of demonstra-
+tion having less in common than that given above with that of
+Laplace, Poisson, and Quetclot. Yet the conclusions are iden-
+tical, and the verifications afforded by cipcricnoc in all cases
+where the trials have been sufficiently numerous, and care taken
+to guard against bias, have been of the most unequivocal cha-
+
+    Somo of those verifications, adduced by M. Quetelct as in-
+ stances of the practical application of his rules of calculation in
+the theory of means and limits, hove an interest Independent of
+ their valoe as such. They form part of a series of researches
+ in which he has engaged extensively on the normal ••.niddi,.:,.
+ physical and moral, of the human species, and, inter aha, as
+ regards its physical (leva l(>| .('incut, in respect of stature, weight,
+ strength, fcc liy the assemblage of data collected from the
+ experience of others, as well as his own, he has arrived at a
+ variety of interesting conclusions as to the law of progressive
+increase and decay 1:i all those res perls, of the tit/iiral individual.
+of cither sex, during the jieri.nl of life, uliicli are given at large
+in his work ' Essni dc Physique Socisle.' * We shall offer no
+apology for placing one or two of these before our readers.
+    From the 13th volume of the Edinburgh Medical Journal,
+M. Quetelet extracts a record of the measurement of the cir-
+cumference of the chests of 5738 Scotch soldiers of different
+regiments. The measures are given in inches, and arc grouped
+in order of magnitude, proceeding liv differences of 1 inch, each
+group containing of course (we presume) all that differ by less
+than half an inch in excess or defect from its nominal value.
+The extreme groups are those of 33 and 48 inches, and the
+respective numbers in the several groups stand arranged as in
+

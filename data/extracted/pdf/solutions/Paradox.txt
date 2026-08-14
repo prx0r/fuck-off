@@ -1,0 +1,187 @@
+         EQUILIBRIUM OF HETEROGENEOUS SUBSTANCES.                      165
+
+B and G also denoting functions of the temperature.       Therefore
+
+                      f   t   =   *    +   <    7     1    o    g     (296)
+
+ It will be seen (if we disregard the difference of notation) that this
+ equation is equivalent in form to (216), which was deduced from
+ a priori considerations as a probable relation between the quantity
+ and the potential of a small component. When a liquid absorbs
+several gases at once, there will be several equations of the form of
+(296), which will hold true simultaneously, and which we may regard
+as equivalent to equations (217), (218). The quantities A and C in
+(216), with the corresponding quantities in (217), (218), were regarded
+as functions of the temperature and pressure, but since the potentials
+in liquids are but little affected by the pressure, we might anticipate
+that these quantities in the case of liquids might be regarded as
+functions of the temperature alone.
+   In regard to equations (216), (217), (218), we may now observe
+that by (264) and (276) they are shown to hold true in ideal gases or
+gas-mixtures, not only for components which form only a small part
+of the whole gas-mixture, but without any such limitation, and not
+only approximately but absolutely. It is noticeable that in this case
+quantities A and C are functions of the temperature alone, and do
+not even depend upon the nature of the gaseous mass, except upon
+the particular component to which they relate. As all gaseous bodies
+are generally supposed to approximate to the laws of ideal gases when
+sufficiently rarefied, we may regard these equations as approximately
+valid for gaseous bodies in general when the density is sufficiently
+small. When the density of the gaseous mass is very great, but
+the separate density of the component in question is small, the
+equations will probably hold true, but the values of A and G may
+not be entirely independent of the pressure, or of the composition
+of the mass in respect to its principal components. These equations
+will also apply, as we have just seen, to the potentials in liquid
+bodies for components of which the density in the liquid is very
+small, whenever these components exist also in the gaseous state,
+and conform to the law of Henry. This seems to indicate that the
+law expressed by these equations has a very general application.
+
+
+  Considerations relating to the Increase of Entropy due to the
+                  Mixture of Gases by Diffusion.
+   From equations (278) we may easily calculate the increase of
+entropy which takes place when two different gases are mixed by
+diffusion, at a constant temperature and pressure. Let us suppose
+166     EQUILIBRIUM OF HETEROGENEOUS SUBSTANCES.
+
+that the quantities of the gases are such that each occupies initially
+one half of the total volume. If we denote this volume by V, the
+increase of entropy will be
+                                                  V                 V
+                log                     v+            m 2a 2log V
+                                                                -mlog
+                                                                   , j - m2a2 log
+
+or                              4- m2a2) log 2.
+                           vV                     vV
+Now                                               = 2 t ’and     m 2a 2 = % •
+
+Therefore the increase of entropy may be represented by the
+expression
+                                — dog 2.                                  (297)
+
+  It is noticeable that the value of this expression does not depend
+upon the kinds of gas which are concerned, if the quantities are such
+as has been supposed, except that the gases which are mixed must
+be of different kinds. If we should bring into contact two masses
+of the same kind of gas, they would also mix, but there would be
+no increase of entropy. But in regard to the relation which this
+case bears to the preceding, we must bear in mind the following
+considerations. When we say that when two different gases mix by
+diffusion, as we have supposed, the energy of the whole remains
+constant, and the entropy receives a certain increase, we mean that
+the gases could be separated and brought to the same volume and
+temperature which they had at first by means of certain changes in
+external bodies, for example, by the passage of a certain amount of
+heat from a warmer to a colder body. But when we say that when
+two gas-masses of the same kind are mixed under similar circum­
+stances there is no change of energy or entropy, we do not mean
+that the gases which have been mixed can be separated without
+change to external bodies. On the contrary, the separation of the
+gases is entirely impossible. We call the energy and entropy of the
+gas-masses when mixed the same as when they were unmixed,
+because we do not recognize any difference in the substance of the
+two masses. So when gases of different kinds are mixed, if we ask
+what changes in external bodies are necessary to bring the system
+to its original state, we do not mean a state in which each particle
+shall occupy more or less exactly the same position as at some
+previous epoch, but only a state which shall be undistinguishable
+from the previous one in its sensible properties. It is to states of
+systems thus incompletely defined that the problems of thermo­
+dynamics relate.
+   But if such considerations explain why the mixture of gas-masses
+        EQUILIBRIUM OF HETEROGENEOUS SUBSTANCES.                    167
+
+of the same kind stands on a different footing from the mixture of
+gas-masses of different kinds, the fact is not less significant that the
+increase of entropy due to the mixture of gases of different kinds,
+in such a case as we have supposed, is independent of the nature of
+the gases.
+   Now we may without violence to the general laws of gases which
+are embodied in our equations suppose other gases to exist than such
+as actually do exist, and there does not appear to be any limit to the
+resemblance which there might be between two such kinds of gas.
+But the increase of entropy due to the mixing of given volumes of the
+gases at a given temperature and pressure would be independent of
+the degree of similarity or dissimilarity between them. We might also
+imagine the case of two gases which should be absolutely identical
+in all the properties (sensible and molecular) which come into play
+while they exist as gases either pure or mixed with each other,
+but which should differ in respect to the attractions between their
+atoms and the atoms of some other substances, and therefore in their
+tendency to combine with such substances. In the mixture of such
+gases by diffusion an increase of entropy would take place, although
+the process of mixture, dynamically considered, might be absolutely
+identical in its minutest details (even with respect to the precise
+path of each atom) with processes which might take place without
+any increase of entropy. In such respects, entropy stands strongly
+contrasted with energy. Again, when such gases have been mixed,
+there is no more impossibility of the separation of the two kinds
+of molecules in virtue of their ordinary motions in the gaseous mass
+without any especial external influence, than there is of the separation
+of a homogeneous gas into the same two parts into which it has once
+been divided, after these have once been mixed. In other words, the
+impossibility of an uncompensated decrease of entropy seems to be
+reduced to improbability.
+   There is perhaps no fact in the molecular theory of gases so well
+established as that the number of molecules in a given volume at a
+given temperature and pressure is the same for every kind of gas
+when in a state to which the laws of ideal gases apply. Hence the
+          vV .
+quantity      in (297) must be entirely determined by the number of
+          v
+
+molecules which are mixed. And the increase of entropy is therefore
+determined by the number of these molecules and is independent of
+their dynamical condition and of the degree of difference between
+them.
+   The result is of the same nature when the volumes of the gases
+which are mixed are not equal, and when more than two kinds of
+g<^s are mixed. If we denote by vlf v2, etc., the initial volumes of the
+168       EQUILIBRIUM OF HETEROGENEOUS SUBSTANCES.
+
+different kinds of gas, and by V as before the total volume, the
+increase of entropy may be written in the form
+                           E1(m1a1) log V —S 1(m1a1log vx).
+And if we denote by rlt r2, etc., the numbers of the molecules of the
+several different kinds of gas, we shall have
+                     rx= (7m1a1, r2= Cm2a 2, etc.,
+where G denotes a constant.             Hence
+                           v1:V :: m1a1:2 1(m1a1) :: r x: H1r l ;
+and the increase of entropy may be written
+                                  log Z £ i - S / n log r,)                          ^298)
+
+
+
+    The Phases of Dissipated Energy of an Ideal Gas-mixture with
+              Components which are Chemically Related.
+   We will now pass to the consideration of the phases of dissipated
+energy (see page 140) of an ideal gas-mixture, in which the number
+of the proximate components exceeds that of the ultimate.
+   Let us first suppose that an ideal gas-mixture has for proximate
+components the gases Gx, G2, and Gs, the units of which are denoted
+by ©!, © 2 , ®3, and that in ultimate analysis
+                                  ©3 = X1©1+ X2©2,                                   (299)
+\  and X2 denoting positive constants, such that X1+ X2= l. The
+phases which we are to consider are those for which the energy of
+the gas-mixture is a minimum for constant entropy and volume and
+constant quantities of G1 and G2, as determined in ultimate analysis.
+For such phases, by (86),
+                      /q Sm 1-f y 2 Sm 2 -f juls Sm3 ^ 0       (300)
+for such values of the variations as do not affect the quantities of
+Gx and G2 as determined in ultimate analysis. Values of $m v Sm 2,
+SmB proportional to     X2, —1, and only such, are evidently consistent
+with this restriction: therefore
+                                      Xi/li + X2yU2= yU3.                            (301)
+  If we substitute in this equation values of /q, p 2, /q taken from
+(276), we obtain, after arranging the terms and dividing by t ,
+
+           \   «1 lo S “    + ^2 «2 lo g “   -   «S   log n^ = A + B l o S t - J <   (3 0 2 )
+
+where
+        d —Xj       "t X2Id2 E 3 \ q X2c2~(-q —*X| cq —■X2u,2 | oq,                  (303)
+                              JB= XjCj -j- X2c2 Cg,                                  (304)
+                              C= \ E x+ X2E 2—E z.                                   (305)
+
