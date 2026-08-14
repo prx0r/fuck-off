@@ -122,6 +122,7 @@ category has a README explaining what belongs there + why. See `docs/ECOSYSTEM-I
 | `specs/SPEC-10-FRONTIER-AGENT-SURVEY.md` | people/labs to track + the convergence (CANONICAL) |
 | `specs/SPEC-11-AGENT-MEMORY-SURVEY.md` | agent memory / self-evolving systems (CANONICAL) |
 | `specs/SPEC-12-AGENT-HARNESS-SURVEY.md` | agent-harness repos (CANONICAL) |
+| `specs/SPEC-13-STALENESS-PERFORMANCE.md` | staleness + performance for the futures (CANONICAL) |
 
 ## Governance / planning
 | File | What it is |

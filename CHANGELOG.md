@@ -186,3 +186,11 @@ imposed.
 - Priority order: promote proven experiments to lib/ → 5 import adapters (generalization test) →
   KG2Code query over MCP → Argument Map pages → review ledger + agent loop.
 - NAVIGATION + CHANGELOG wired.
+
+## 2026-08-14 (cont.) — staleness & performance engineering for the futures
+- **`specs/SPEC-13-STALENESS-PERFORMANCE.md`** — for each of the 7 patala futures, the concrete staleness
+  mechanism (borrowed + verified from cloned repos: RKA review_queue/blast-radius, herdr reducer/
+  invalidation_rules/FindingStatus, arcan event-sourcing, nano-graphrag content-addressing) and the
+  performance optimization (SPEC-00 compile-once, PathRAG/HippoRAG retrieval), each with justification.
+- Unifying thesis: staleness-walk = dependency-graph = incremental-rebuild = retrieval index — one graph.
+- specs README + NAVIGATION + CHANGELOG wired.

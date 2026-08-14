@@ -38,6 +38,7 @@ docs/0N-*.md            (live — implemented, reconciled to ground truth)
 | `SPEC-10-FRONTIER-AGENT-SURVEY.md` | people/labs to track + the convergence | CANONICAL |
 | `SPEC-11-AGENT-MEMORY-SURVEY.md` | agent memory / self-evolving systems | CANONICAL |
 | `SPEC-12-AGENT-HARNESS-SURVEY.md` | agent-harness repos (maestro/arcan/herdr/looms) | CANONICAL |
+| `SPEC-13-STALENESS-PERFORMANCE.md` | staleness + performance for all 7 futures | CANONICAL |
 
 ### Planned specs (not yet written — content lives in SPEC-00/02/03/08/09)
 | Spec | Topic |
