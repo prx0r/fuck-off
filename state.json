@@ -2,8 +2,8 @@
   "schema_version": 1,
   "updated": "2026-08-14",
   "counts": {
-    "kernels": 43,
-    "experiments": 89,
+    "kernels": 44,
+    "experiments": 90,
     "tests_passing": 81,
     "theatre_proven_real": 36,
     "theatre_proven_mechanism": 44,

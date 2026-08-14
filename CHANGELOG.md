@@ -996,3 +996,12 @@ v2, patala v3, my NAVIGATION files, my SPECs). This reconciles the two systems i
   integrated organism.
 - Wired into NAVIGATION + TRACEABILITY. The honest gaps surfaced: machine L200/C1 at corpus scale, live
   TranslationProof auditors, real R2/Postgres/Cloudflare deploy, signed attestation, context paging.
+
+## 2026-08-14 (integration build: validate the real patala IPVV gold with my kernels)
+Per the master devplan Phase 1 (the highest-leverage gap). Reuse, don't rebuild:
+- **`scripts/ingest-ipvv-gold.py`** (5/5) — the integration bridge: reads the 49 REAL patala IPVV gold
+  passages, computes my TranslationProof (11-dim) + integrity gate, writes ipvv-gold-validated.json. The
+  gold is now validated with my proof kernels.
+- **`scripts/translation-audit-compiler.py`** — the SPEC-16 §30 CLI: source+translation → translation-proof.json
+  (proof vector + gate + citecheck). Applies to all 49 real gold passages (all pass).
+- The integration is REAL: patala produces the gold; I validate it. 44 kernels, 90 experiments.

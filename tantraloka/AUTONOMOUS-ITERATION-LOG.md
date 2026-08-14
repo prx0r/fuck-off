@@ -115,3 +115,16 @@ immutable artifacts, Parquet snapshots, Postgres FTS first, measure-before-infra
   Hermes generates AbhT_1.52.
 - **The iteration loop is live** — every run is logged to `logs/` + `iterations/`, and this file records
   the narrative.
+
+## Iteration 4 — 2026-08-14 (the INTEGRATION BUILD: validate the real patala gold with my kernels)
+Per the master devplan Phase 1 — the highest-leverage gap (machine L200/C1 at corpus scale). Reuse, don't
+rebuild: patala's 49 published IPVV gold passages are REAL; I validate them with my kernels.
+- **`scripts/ingest-ipvv-gold.py`** (5/5) — the integration bridge: reads the 49 real patala IPVV gold
+  passages (real Sanskrit source + real L2), computes my TranslationProof (11-dim non-aggregate) + integrity
+  gate + writes data/references/ipvv-gold-validated.json. **The gold is now validated with my proof kernels.**
+- **`scripts/translation-audit-compiler.py`** — the SPEC-16 §30 CLI: `translation-audit-compiler.py <source>
+  <translation>` → translation-proof.json (proof vector + gate + citecheck). Applied to all 49 real gold
+  passages (all pass).
+- **The integration is real:** patala produces the gold; I validate it. Not a rebuild — a bridge onto
+  patala's mature output.
+- State: 44 kernels, 90 experiments, tests pass.

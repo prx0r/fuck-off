@@ -1,5 +1,5 @@
 {
- "count": 89,
+ "count": 90,
  "entries": [
   {
    "script": "validate-layer03-05.py",
@@ -774,6 +774,15 @@
    "kernel": "hermes-generation",
    "status": "RUN",
    "note": "the Hermes-for-GENERATION fix: agentic hermes chat (not blind -z) generates a real translation \u2014 6/6"
+  },
+  {
+   "script": "ingest-ipvv-gold.py",
+   "layer": "L03",
+   "source": "49 real patala IPVV gold passages",
+   "vision": "Verified Epistemic OS",
+   "kernel": "ipvv-gold-bridge",
+   "status": "RUN",
+   "note": "the integration bridge: validate the REAL patala IPVV gold with my TranslationProof + integrity gate \u2014 5/5"
   },
   {
    "script": "validate-factory-pool.py",

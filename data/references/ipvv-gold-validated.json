@@ -1,0 +1,348 @@
+{
+ "count": 49,
+ "passages": [
+  {
+   "chunk": "chunkV3-H-kriya-caturtho-k12-19.md",
+   "l2_chars": 4804,
+   "source_range": "{'start': 6300, 'end': 7200, 'text': 'iti pak\u1e63a\u015babdena tadga",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkH-k1.8-caitanyamajada-pratibimba.md",
+   "l2_chars": 3048,
+   "source_range": "{'start': 4300, 'end': 5077, 'text': \"\\nbuddhau sidhyati | n",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkE-cit-acid-dvairasya.md",
+   "l2_chars": 2620,
+   "source_range": "{'start': 2400, 'end': 3126, 'text': \"kalodvalitametacca cit",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkJ-k1.11-kartapi-kalpita.md",
+   "l2_chars": 2913,
+   "source_range": "{'start': 5585, 'end': 5750, 'text': \"     p\u0101ratantry\u0101dyayog",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkV3-G-kriya-caturtho-k1-11.md",
+   "l2_chars": 4009,
+   "source_range": "{'start': 5514, 'end': 6300, 'text': \"atha caturtho vimar\u015ba\u1e25",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkV3-N-tattva-prathamo-k1-8.md",
+   "l2_chars": 4022,
+   "source_range": "{'start': 10895, 'end': 11600, 'text': \"tattvasa\u1e45grah\u0101dhik\u0101r",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkV3-B-kriya-dvitiyo-k1-7.md",
+   "l2_chars": 72,
+   "source_range": "{'start': 842, 'end': 2055, 'text': \"atha dvit\u012byo vimar\u015ba\u1e25 |",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkV2-J-pancamo-vimarsa-k19-20.md",
+   "l2_chars": 2831,
+   "source_range": "{'start': 6800, 'end': 7600, 'text': \"iti hi nir\u016bpitam | tat",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkV2-K-pancamo-vimarsa-k20-21.md",
+   "l2_chars": 3554,
+   "source_range": "{'start': 7600, 'end': 8401, 'text': \"eva | tath\u0101hi pradh\u0101na",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkV3-D-kriya-trtiyo-k3-8.md",
+   "l2_chars": 4277,
+   "source_range": "{'start': 3000, 'end': 4000, 'text': '\\n(page 101)\\n\\niti | ",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkV2-L-sastho-vimarsa-smrti-apohana.md",
+   "l2_chars": 2545,
+   "source_range": "{'start': 8405, 'end': 9200, 'text': \"atha \u1e63a\u1e63\u1e6dho vimar\u015ba\u1e25 |",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkV3-I-kriya-caturtho-close-k20-21.md",
+   "l2_chars": 3647,
+   "source_range": "{'start': 7200, 'end': 7662, 'text': \"tath\u0101bh\u016bta\\n\\n(page 24",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkV3-P-tattva-caturtho-close-k1-3.md",
+   "l2_chars": 4169,
+   "source_range": "{'start': 12263, 'end': 12539, 'text': \"atha caturtho vimar\u015b",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkV2-H-pancamo-vimarsa-k11-13.md",
+   "l2_chars": 3323,
+   "source_range": "{'start': 5200, 'end': 6000, 'text': \"tad\u0101bh\u0101sato'nyonyabhid",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkM-jnanadhikara-reflexion-core.md",
+   "l2_chars": 3016,
+   "source_range": "{'start': 6900, 'end': 7600, 'text': \"b\u0101hy\u0101rthak\u1e5bta eva bhav",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkL-memory-error-sankaranandana.md",
+   "l2_chars": 3085,
+   "source_range": "{'start': 6300, 'end': 6900, 'text': \"\\n     sv\u0101tantry\u0101mukta",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkA-svatyandya.md",
+   "l2_chars": 3016,
+   "source_range": "{'start': 200, 'end': 600, 'text': \"iha punarn\u012bl\u0101dayo'nujjhi",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkF-upoddhata-k1-7.md",
+   "l2_chars": 3082,
+   "source_range": "{'start': 3126, 'end': 3700, 'text': \"\u015br\u012bmah\u0101m\u0101he\u015bvara\u015br\u012bmad",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkV3-J-agama-prathamo-k1-7.md",
+   "l2_chars": 4175,
+   "source_range": "{'start': 7662, 'end': 8500, 'text': \"\u0101gam\u0101dhik\u0101ra\u1e25 |\\n\\nath",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkV2-C-vistanti-ajadapramatrsiddhi.md",
+   "l2_chars": 3047,
+   "source_range": "{'start': 1400, 'end': 2082, 'text': \"tad\u0101 tu iti yad\u0101 aya\u1e43 ",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkV2-S-astamo-close-jnanadhikara.md",
+   "l2_chars": 3196,
+   "source_range": "{'start': 13200, 'end': 13405, 'text': \"pr\u0101cyaprameye\u1e47a saha",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkI-k1.9-1.10-kriya-karyakarana.md",
+   "l2_chars": 2625,
+   "source_range": "{'start': 5077, 'end': 5585, 'text': \"     kriy\u0101pyarthasya k",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkV3-K-agama-prathamo-k8-11-close.md",
+   "l2_chars": 3371,
+   "source_range": "{'start': 8500, 'end': 9267, 'text': \"tad\u0101\u015bayena yat m\u0101y\u0101y\u0101 ",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkV2-F-pancamo-vimarsa-k6.md",
+   "l2_chars": 2951,
+   "source_range": "{'start': 3600, 'end': 4400, 'text': \"yath\u0101\\n\\n(page 117)\\n\\",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkV2-Q-saptamo-k11-close.md",
+   "l2_chars": 2829,
+   "source_range": "{'start': 12000, 'end': 12423, 'text': \"kasyacidad\u1e5b\u015byatve'pi",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkV3-C-kriya-trtiyo-k1-2.md",
+   "l2_chars": 4683,
+   "source_range": "{'start': 2055, 'end': 3000, 'text': \"atha t\u1e5bt\u012byo vimar\u015ba\u1e25 |",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkV2-D-pancamo-vimarsa-jnanasakti.md",
+   "l2_chars": 3191,
+   "source_range": "{'start': 2082, 'end': 2800, 'text': \"atha pa\u00f1camo vimar\u015ba\u1e25 ",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkV2-R-astamo-vimarsa.md",
+   "l2_chars": 2521,
+   "source_range": "{'start': 12423, 'end': 13200, 'text': \"atha a\u1e63\u1e6damo vimar\u015ba\u1e25",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkV3-E-kriya-trtiyo-k9-17.md",
+   "l2_chars": 5317,
+   "source_range": "{'start': 4000, 'end': 5000, 'text': \"dvit\u012byat\u0101 ? naiva ni\u015bc",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkB-eligibility-gita.md",
+   "l2_chars": 2808,
+   "source_range": "{'start': 600, 'end': 900, 'text': \"meva d\u1e5b\u1e63\u1e6dimanujjhan samy",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkV2-N-sastho-k8-11.md",
+   "l2_chars": 3175,
+   "source_range": "{'start': 10000, 'end': 10385, 'text': \"pram\u0101t\u1e5btva\u1e43, tata\u015bca",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkC-svatma-maya-upanishad.md",
+   "l2_chars": 3292,
+   "source_range": "{'start': 1200, 'end': 1800, 'text': \"sa\u1e43bandhinam\u0101kar\u1e63ati, ",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkV2-O-saptamo-vimarsa.md",
+   "l2_chars": 2336,
+   "source_range": "{'start': 10385, 'end': 11200, 'text': \"atha saptamo vimar\u015ba",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkV3-F-kriya-trtiyo-close.md",
+   "l2_chars": 4231,
+   "source_range": "{'start': 5000, 'end': 5514, 'text': \"p\u0101rame\u015bvara\u1e43 kimapi k\u1e5b",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkV3-L-agama-dvitiyo-k1-11.md",
+   "l2_chars": 3610,
+   "source_range": "{'start': 9272, 'end': 10000, 'text': \"atha dvit\u012byo vimar\u015ba\u1e25",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkV2-B-sahajavimarsa-prakasavimarsa.md",
+   "l2_chars": 3089,
+   "source_range": "{'start': 700, 'end': 1400, 'text': \"tath\u0101par\u0101mar\u015banam | nan",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkV2-I-pancamo-vimarsa-k14-19.md",
+   "l2_chars": 3134,
+   "source_range": "{'start': 6000, 'end': 6800, 'text': \"dhvanijanik\u0101 aha\u1e43k\u0101rav",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkG-k1.2.7-1.8-citsvarupam.md",
+   "l2_chars": 3493,
+   "source_range": "{'start': 3700, 'end': 4300, 'text': \"\\n     yasminsati bhav",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkV2-E-pancamo-jnanasakti-k5.md",
+   "l2_chars": 3028,
+   "source_range": "{'start': 2800, 'end': 3600, 'text': \"r\u016bp\u0101dij\u00f1\u0101na\u1e43 kart\u1e5b kal",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkV2-M-sastho-vimarsa-k6-7.md",
+   "l2_chars": 3438,
+   "source_range": "{'start': 9200, 'end': 10000, 'text': \"\\nadharabhuvi vedyar\u016b",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkV2-P-saptamo-k5-10.md",
+   "l2_chars": 3012,
+   "source_range": "{'start': 11200, 'end': 12000, 'text': \"tath\u0101vyavasth\u0101paka i",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkK-purvapaksa-siddhanta.md",
+   "l2_chars": 2695,
+   "source_range": "{'start': 5750, 'end': 6300, 'text': \"pratyabhij\u00f1\u0101viv\u1e5btivima",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkV3-O-tattva-trtiyo-k9-15.md",
+   "l2_chars": 4497,
+   "source_range": "{'start': 11600, 'end': 12263, 'text': \"parimitameva | eva\u1e43 ",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkV3-M-agama-dvitiyo-close-k12-20.md",
+   "l2_chars": 3605,
+   "source_range": "{'start': 10000, 'end': 10886, 'text': \"\\n     evamudbhavamu",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkV2-G-pancamo-vimarsa-k7-10.md",
+   "l2_chars": 3337,
+   "source_range": "{'start': 4400, 'end': 5200, 'text': \"vyasanama\u1e47usa\u1e43cayasama",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkN-close-mahesvara-saktis.md",
+   "l2_chars": 2972,
+   "source_range": "{'start': 7600, 'end': 8313, 'text': '\\'hamitiprak\u0101\u015bam\u0101trasv",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkD-memory-pramana.md",
+   "l2_chars": 3175,
+   "source_range": "{'start': 1800, 'end': 2400, 'text': \"r\u0101m\u0101vatara\u1e47ak\u0101le n\u0101ham",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkV3-A-kriya-prathamo-k1-2.md",
+   "l2_chars": 4604,
+   "source_range": "{'start': 57, 'end': 837, 'text': \"kriy\u0101dhik\u0101ra\u1e25 |\\n\\natha p",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "chunk": "chunkV2-A-caturtho-vimarsa-aham.md",
+   "l2_chars": 3017,
+   "source_range": "{'start': 29, 'end': 700, 'text': \"atha caturtho vimar\u015ba\u1e25 |\\",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  }
+ ]
+}

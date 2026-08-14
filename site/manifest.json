@@ -221,9 +221,9 @@
   "root_hash": "8363d66190804b44",
   "registry_layers": {
    "SOURCE": {
-    "count": 32039,
+    "count": 47102,
     "url": "/openpatala/source.json",
-    "sha256": "df8bd813798f541d"
+    "sha256": "16522384c438c072"
    },
    "T1": {
     "count": 314,
@@ -2708,9 +2708,9 @@
  "openpatala": {
   "layers": {
    "SOURCE": {
-    "count": 32039,
+    "count": 47102,
     "url": "/openpatala/source.json",
-    "sha256": "df8bd813798f541d"
+    "sha256": "16522384c438c072"
    },
    "T1": {
     "count": 314,
