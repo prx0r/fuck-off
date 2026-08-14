@@ -62,6 +62,10 @@ run_script("validate-provenance.py", "provenance_nanopub_emission")
 run_script("experiment-koral-twograph.py", "koral_two_graph_commentarial")
 run_script("experiment-communities.py", "community_detection_themes")
 run_script("experiment-generalization.py", "domain_generalization_eleutheria")
+run_script("experiment-crux-compiler.py", "crux_compiler")
+run_script("experiment-mutation-testing.py", "mutation_testing")
+run_script("experiment-signed-corpus.py", "signed_corpus_root")
+run_script("experiment-reactive-essay.py", "reactive_essay")
 
 # ---- summary ----
 n = len(results["tests"]); npass = sum(1 for t in results["tests"] if t["pass"])

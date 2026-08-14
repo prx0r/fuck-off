@@ -259,3 +259,17 @@ imposed.
   applies UNCHANGED to an EleutherIA-style ancient free-will domain — only ontology extends. The
   generalization bet validated; `agency`+`determinism` are shared cross-link concepts.
 - Test suite 12 → **15/15 pass**.
+
+## 2026-08-14 (cont.) — Doyle experiments (SPEC-19): crux compiler, mutation testing, signed corpus, reactive essay
+- Imported **SPEC-19-DOYLE-EXPERIMENTS.md** (16 experiments) from R2; the thesis: Pāṭala as
+  Bazel/Nix+Git+CI+review applied to epistemic objects.
+- **Crux compiler** (`experiment-crux-compiler.py`): isolates the minimal divergence between
+  compatibilism and the two-stage thesis — INDETERMINISM being necessary for free will.
+- **Epistemic mutation testing** (`experiment-mutation-testing.py`): 100% verifier kill-rate across
+  all 3 operators. The process EXPOSED a real weakness (flip_ceiling 0%) and guided the fix
+  (corroboration-record check) — mutation testing works.
+- **Signed corpus root** (`experiment-signed-corpus.py`): Merkle root fingerprints the whole epistemic
+  state; any mutation changes the root (tamper-evident).
+- **Reactive essay** (`experiment-reactive-essay.py`): source retraction propagates to mark 5/5 prose
+  sentences stale (reactive documents).
+- Test suite 15 → **19/19 pass**.

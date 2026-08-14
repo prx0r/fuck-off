@@ -5,96 +5,120 @@
    "name": "corpus_integrity",
    "pass": true,
    "detail": "425 records OK",
-   "ms": 239.2
+   "ms": 209.6
   },
   {
    "name": "graph_integrity",
    "pass": true,
    "detail": "490 nodes 6578 edges",
-   "ms": 63.8
+   "ms": 45.8
   },
   {
    "name": "epistemic_invariant",
    "pass": true,
    "detail": "PASS: authority(projection) <= authority(parent) holds everywhere.",
-   "ms": 87.1
+   "ms": 76.8
   },
   {
    "name": "canonical_dag",
    "pass": true,
    "detail": "  PHYSICS -> THERMODYNAMICS -> INFORMATION -> COMPUTATION -> QUANTUM -> PROBABILITY -> INDETERMINISM -> MIND -> LIFE -> FREE_WILL -> RESPONSIBILITY -> VALUE -> SYNTHESIS -> ESSAY",
-   "ms": 230.9
+   "ms": 216.5
   },
   {
    "name": "argument_graph",
    "pass": true,
    "detail": "6 info 4 infer 2 conflict",
-   "ms": 35.3
+   "ms": 23.7
   },
   {
    "name": "evidence_weights_experiment",
    "pass": true,
    "detail": "wrote /mnt/HC_Volume_106427611/ip-graph/data/graph/evidence-weights.json",
-   "ms": 1955.9
+   "ms": 2030.7
   },
   {
    "name": "bounded_context_experiment",
    "pass": true,
    "detail": "_(~128 tokens, budget 500)_",
-   "ms": 217.4
+   "ms": 233.7
   },
   {
    "name": "arxiv_peer_review",
    "pass": true,
    "detail": "wrote data/graph/arxiv-review.json",
-   "ms": 25.8
+   "ms": 28.8
   },
   {
    "name": "layer_03_05_factory_research",
    "pass": true,
    "detail": "=== SUMMARY: 12/12 passed ===",
-   "ms": 71.6
+   "ms": 66.4
   },
   {
    "name": "layer_10_retrieval_comparison",
    "pass": true,
    "detail": "ALL PASS (targets retrieved by PathRAG+KG2Code)",
-   "ms": 530.4
+   "ms": 660.0
   },
   {
    "name": "product_kernels_translation_review_schema",
    "pass": true,
    "detail": "=== SUMMARY: 11/11 passed ===",
-   "ms": 58.6
+   "ms": 59.9
   },
   {
    "name": "provenance_nanopub_emission",
    "pass": true,
    "detail": "for Layer 02/04, giving every claim portable, provenance-carrying truth.",
-   "ms": 52.0
+   "ms": 70.8
   },
   {
    "name": "koral_two_graph_commentarial",
    "pass": true,
    "detail": "get flagged, and only when their evidence floor is retracted. analogy != identity.",
-   "ms": 40.5
+   "ms": 55.7
   },
   {
    "name": "community_detection_themes",
    "pass": true,
    "detail": "communities to the curated ontology reveals where the corpus structure agrees or disagrees.",
-   "ms": 242.0
+   "ms": 275.2
   },
   {
    "name": "domain_generalization_eleutheria",
    "pass": true,
    "detail": "Shared free-will concepts (would cross-link): ['agency', 'determinism']",
-   "ms": 57.9
+   "ms": 66.5
+  },
+  {
+   "name": "crux_compiler",
+   "pass": true,
+   "detail": "This is 'spawn targeted research tasks at the minimal divergence' (SPEC-19 #5).",
+   "ms": 31.7
+  },
+  {
+   "name": "mutation_testing",
+   "pass": true,
+   "detail": "scholarship (SPEC-19 #3).",
+   "ms": 60.0
+  },
+  {
+   "name": "signed_corpus_root",
+   "pass": true,
+   "detail": "signed with Sigstore/Rekor (cosign) for a tamper-evident ScholarReviewCertificate.",
+   "ms": 55.7
+  },
+  {
+   "name": "reactive_essay",
+   "pass": true,
+   "detail": "through claims to the exact prose sentences that depend on them. Reactive documents (SPEC-19 #4).",
+   "ms": 55.2
   }
  ],
  "summary": {
-  "total": 15,
-  "passed": 15,
+  "total": 19,
+  "passed": 19,
   "failed": 0
  }
 }
