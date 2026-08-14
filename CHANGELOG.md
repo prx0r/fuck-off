@@ -522,3 +522,15 @@ imposed.
   distinction-forensics (are terms equivalent?), tension, honest-boundary. These are the GOLD profile
   the Question-Growth Engine should learn to produce.
 - Test suite 43 → **44/44**.
+
+## 2026-08-14 (cont.) — ENQUIRY-AS-DISCOVERY (the questioning reveals topic structure)
+- The key realization from the logic5 presence enquiry: **the questioning is data about the TOPIC
+  itself** — it discovered a taxonomy (prakāśa≠presence≠experience≠consciousness), a theorem, an honest
+  boundary, and a frontier. Not just curiosity.
+- **`experiment-enquiry-discovery.py`** (45/45 suite): enquiry→topic-structure mechanism — taxonomy +
+  theorem + boundary + frontier, each feeding ontology/research/pedagogy simultaneously.
+- **`VISION-ENQUIRY-DISCOVERY-ORGANISM.md`** — the emergent organism: a curious human's questions are
+  the growth signal for the graph (reveal what's un-distinguished, load-bearing, unknown, and where the
+  frontier is). Connects question-growth + curiosity-patterns + organism loop + pedagogy graph +
+  What-If Machine.
+- Test suite 44 → **45/45**.

@@ -1,6 +1,6 @@
 # EXPERIMENT MATRIX — what's been tested
 
-*2026-08-14. 44 experiments mapped to layer / source repo / vision / kernel / result.*
+*2026-08-14. 45 experiments mapped to layer / source repo / vision / kernel / result.*
 Machine form: `data/references/experiments.json`.
 
 ## Argument Map (7)
@@ -54,6 +54,12 @@ Machine form: `data/references/experiments.json`.
 | `experiment-graphiti-temporal.py` | L09 | graphiti (cloned) | temporal | PASS |
 | `validate-education-organism.py` | L09 | patala education/organism vision | education+organism | PASS |
 | `validate-pedagogy.py` | L09 | patala education vision (R2) | pedagogy | RUN |
+
+## Enquiry-Discovery Organism (1)
+
+| script | layer | source | kernel | result |
+|--------|-------|--------|--------|--------|
+| `experiment-enquiry-discovery.py` | L04 | logic5 presence enquiry (SPEC-46) | enquiry | RUN |
 
 ## Executable Knowledge (1)
 

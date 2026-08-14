@@ -134,6 +134,7 @@ graph after adding text, run `build-graph.py`.
 | `docs/vision/beyond-patala/VISION-SELF-PROVING-SYSTEM.md` | the OS proves its own construction (Design-Provenance nanopub) |
 | `docs/vision/beyond-patala/VISION-QUESTION-GROWTH-ENGINE.md` | the pushing method as a learnable question-growth machine |
 | `docs/LOGICVID-GOLD-EXEMPLARS.md` | the live human-curiosity gold (markers + how to use as gold) |
+| `docs/vision/beyond-patala/VISION-ENQUIRY-DISCOVERY-ORGANISM.md` | the enquiry-as-discovery organism (questions reveal topic structure) |
 | `docs/EXPERIMENT-REPORT.md` | third-party repo experiments (herdr/RKA/kappa/nano-graphrag) |
 | `docs/EXPERIMENT-MATRIX.md` | the full experiment tracking matrix (29, by vision/layer/source) |
 | `docs/ALGORITHMS.md` | granular arXiv-algorithm implementations (PathRAG/HippoRAG/KG2Code) |

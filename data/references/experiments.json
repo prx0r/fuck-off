@@ -1,5 +1,5 @@
 {
- "count": 44,
+ "count": 45,
  "entries": [
   {
    "script": "validate-layer03-05.py",
@@ -396,6 +396,15 @@
    "kernel": "curiosity",
    "status": "RUN",
    "note": "curiosity markers: live-issue/distinction/tension/boundary \u2014 the gold question-generation profile"
+  },
+  {
+   "script": "experiment-enquiry-discovery.py",
+   "layer": "L04",
+   "source": "logic5 presence enquiry (SPEC-46)",
+   "vision": "Enquiry-Discovery Organism",
+   "kernel": "enquiry",
+   "status": "RUN",
+   "note": "enquiry\u2192topic structure: taxonomy+theorem+boundary+frontier \u2014 one structure for ontology/research/pedagogy"
   }
  ]
 }
