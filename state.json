@@ -4,7 +4,7 @@
   "counts": {
     "kernels": 37,
     "experiments": 75,
-    "tests_passing": 71,
+    "tests_passing": 75,
     "theatre_proven_real": 35,
     "theatre_proven_mechanism": 39,
     "theatre_unproven": 0,

@@ -770,3 +770,13 @@ Autonomous build of 7 infrastructure kernels inspired by the patala v2/v3 GEMs +
 - **`COHERENCE-AUDIT.md`** — the honest zoom-out: 36/37 kernels map to a patala layer; every frontier
   build serves a patala product (not random integration). L00-L10 all populated. Still about patala.
 - **75/75 tests, 37 kernels, 75-experiment matrix, 48 clones. Theatre 35 PROVEN / 39 mech / 0 unproven.**
+
+## 2026-08-14 (docs updated for a new agent — onboarding readability)
+- **HANDOVER.md**: read-me-first now routes a new agent through the 3 fastest reads (COHERENCE-AUDIT →
+  ORGANISM-OPERATING-MODEL → KERNELS-INDEX), then the full path. Session log updated to the full arc
+  (essay-ingest → graduation → IPVV → read plane → gems → evolution). FINAL STATE corrected.
+- **AGENTS.md**: §1.5 counts corrected (37 kernels, 75/75, 35 PROVEN/39 mech); §6.5 full-validation-suite
+  now lists the 5 gates (run-tests 75/75, theatre-check, theatre-check-all, audit-traceability,
+  audit-state) + the key milestone validators.
+- **state.json**: tests_passing corrected to 75 (was stale at 71).
+- All 108 docs traced + consistent; a new agent can verify everything in one pass.

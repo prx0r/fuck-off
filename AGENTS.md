@@ -33,7 +33,7 @@ match ground truth.
 | Kernels (`lib/`) | **37** | `ls lib/*.py` |
 | Experiments (matrix) | **75** | `data/references/experiments.json` |
 | Test suite | **75/75 pass** | `scripts/run-tests.py` |
-| Theatre audit | **31 PROVEN real / 27 mechanism / 0 unproven** (58 audited) | `scripts/theatre-check-all.py` |
+| Theatre audit | **35 PROVEN real / 39 mechanism / 0 unproven** (74 audited) | `scripts/theatre-check-all.py` |
 | GitHub repo catalog | **99** | `data/references/github.json` |
 | Repos cloned | **48** (27 validated + 21 reference) | `ecosystem/*/` |
 | arXiv paper catalog | **32** | `data/references/arxiv.json` |
@@ -243,10 +243,16 @@ exceed the corroborated physics under it.
 python3 scripts/validate-dag.py      # no cycles, every ref resolves
 ```
 
-### 6.5 Full validation suite (10 gates + experiments + layer validations)
+### 6.5 Full validation suite (gates + 75 experiments)
 ```bash
-python3 scripts/run-tests.py         # must be 10/10
+python3 scripts/run-tests.py          # the full suite (must be 75/75)
+python3 scripts/theatre-check.py      # kernel audit (37 kernels: 28 PROVEN / 6 mech / 0 unproven)
+python3 scripts/theatre-check-all.py  # all-experiment audit (35 PROVEN / 39 mech / 0 unproven)
+python3 scripts/audit-traceability.py # every .md resolves to an index doc (exit 0/1)
+python3 scripts/audit-state.py        # state.json valid + matches ground truth (exit 0/1)
 ```
+- `validate-graduation-ipvv.py` — THE IPVV graduation (18/18 on real IPK corpus) — the milestone proof.
+- `validate-product-stack.py` — the full v3 product stack for one claim (13/13).
 - `validate-layer03-05.py` — staleness reaches downstream, rebuild order, reducer promotion gate (12/12).
 - `validate-layer10.py` — retrieval comparison (PathRAG + KG2Code retrieve target; HippoRAG hub-bias).
 

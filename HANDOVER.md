@@ -20,7 +20,7 @@ stack) is what makes a mechanism real.
 
 ---
 
-## 2. WHAT'S BUILT (the 17 reusable kernels)
+## 2. WHAT'S BUILT (the 37 reusable kernels)
 
 | Kernel | What it does | Theatre verdict |
 |--------|-------------|-----------------|
@@ -259,31 +259,48 @@ rclone check <local> r2:atlas-sources/informationphilosopher  # R2 backup integr
     → no Tantivy needed), `bundle_router.py` (compiled agent bundles + MCP 8-tool, 16/16),
     `seo.py` (canonical URLs + JSON-LD + sitemap + 31 static 0-JS HTML pages, 13/13). L06+L07 now BUILT.
  13. **INTEGRATION (this session):** refreshed MASTER-KNOWLEDGE-BASE to the full integrated state
-     (25 kernels / 63 experiments / 43 clones / 47 specs) + added the frontier compares (LightRAG,
-     cognee) to the ecosystem. Cloned + tested LightRAG (⭐38k, graph-RAG, 10/10) and cognee (⭐30k,
-     AI-memory, 11/11) — both confirm our architecture (PathRAG still wins on our graph; our bundles
-     match Cognee's recall). Extended theatre-check to all 25 kernels (16 PROVEN / 6 mech... now more).
- 14. **FINAL STATE: 63/63 tests, 31 experiments PROVEN on real data / 27 mechanism / 0 unproven (58
-     audited), 25 kernels, 8 product visions, 63-experiment matrix, 43 cloned repos, fully traceable,
-     graduation done (Doyle 14/14 + IPK 18/18), ultimate v3 product (13/13), read plane built
-     (projection compiler + FTS baseline + agent bundles/MCP + Astro/SEO), VISION F (self-provenance)
-     built, 2 frontier clones tested (LightRAG + cognee).**
+      (25 kernels / 63 experiments / 43 clones / 47 specs) + added the frontier compares (LightRAG,
+      cognee) to the ecosystem. Cloned + tested LightRAG (⭐38k, graph-RAG, 10/10) and cognee (⭐30k,
+      AI-memory, 11/11) — both confirm our architecture (PathRAG still wins on our graph; our bundles
+      match Cognee's recall). Extended theatre-check to all 25 kernels.
+ 14. **GEMS (this session):** mined the patala v2/v3 GEMs + external sources (fojin, EleutherIA, vidyut).
+      Built 8 infra kernels, all real-data: `source_registry` (fojin, 10/10), `evidence_ledger` (typed+
+      confidence_kind, 9/9), `alignment_flywheel` (cross-source, 10/10), `integrity_gate` (EleutherIA,
+      8/8), `next_action` (deterministic scheduler, 7/7), `vidyut_l0` (Sanskrit L0, 9/9),
+      `verification_ensemble` (RefChecker+GraphCheck+RARR, 8/8), `translation_variant` (three-version,
+      8/8). + `ORGANISM-OPERATING-MODEL.md` (the zoom-out of how the organism lives).
+ 15. **EVOLUTION (this session):** mined the arXiv GAP/BET papers for stealable architectures. Cloned
+      dgm (Darwin Godel ⭐2.2k) + awesome-self-evolving survey. Built 4 steals: `open_ended_evolve`
+      (Darwin, 6/6), `self_healing` (typed repair cascade, 8/8), `skill_graph` (kernels-as-skills,
+      verifiable-reward, 8/8), `structure_recall` (SAGE, 9/9). + `COHERENCE-AUDIT.md` (the proof that
+      every kernel → patala layer + every frontier build → patala product).
+ 16. **FINAL STATE: 75/75 tests, 35 experiments PROVEN on real data / 39 mechanism / 0 unproven (74
+      audited), 37 kernels, 8 product visions, 75-experiment matrix, 48 cloned repos, fully traceable,
+      graduation done (Doyle 14/14 + IPK 18/18), ultimate v3 product (13/13), read plane built,
+      VISION F (self-provenance) built, 8 infra gems + 4 evolution steals integrated, coherent by
+      layer (COHERENCE-AUDIT).**
 
 ---
 
 ## 12. READ-ME-FIRST CHECKLIST (for the new agent)
 
+**Fastest orientation (3 reads):** `COHERENCE-AUDIT.md` (what the whole thing is, by layer) →
+`ORGANISM-OPERATING-MODEL.md` (how it lives: ingest/teach/publish + durable/secure) →
+`KERNELS-INDEX.md` (the 37 kernels to reuse, don't rebuild).
+
 1. Read `AGENTS.md` — the axioms (esp. axiom 12: every artifact must resolve, axiom 22: every doc).
 2. Read `NAVIGATION.md` → `TRACEABILITY-MAP.md` → `HANDOVER.md` (this file).
-3. Read `LAB-REVIEW.md` — what's proven vs exploratory.
-4. Read `KERNELS-INDEX.md` — reuse the 25 kernels, don't rebuild.
-5. Read §5 essay-ingest architecture — the source-text vs essay-about-source vs standalone design.
-6. Read `migration/v3/ULTIMATE-OPTIMIZED-PRODUCT.md` — the IPVV graduation (18/18) + product stack.
-7. Check `TODO.md` + `GAPS.md` + `STATE.yaml` — the live state.
-8. Run `scripts/run-tests.py` (63/63, incl all gates) + `scripts/theatre-check-all.py`
-   before claiming anything done.
-9. Widen the real-corpus run (§9 P0): product stack + graduation over MANY IPK claims; build the 3
-   v3 needs-build products; signed attestation (gap E).
+3. Read `COHERENCE-AUDIT.md` — the zoom-out: every kernel → patala layer, every frontier build →
+   patala product. **This is the "what did we build" answer.**
+4. Read `ORGANISM-OPERATING-MODEL.md` — how the organism ingests/translates/teaches/publishes + stays
+   durable/secure.
+5. Read `MASTER-KNOWLEDGE-BASE.md` + `KERNELS-INDEX.md` — reuse the 37 kernels, don't rebuild.
+6. Read `LAB-REVIEW.md` — what's proven vs exploratory.
+7. Read §5 essay-ingest architecture — the source-text vs essay-about-source vs standalone design.
+8. Read `migration/v3/ULTIMATE-OPTIMIZED-PRODUCT.md` — the IPVV graduation (18/18) + product stack.
+9. Check `TODO.md` + `GAPS.md` + `STATE.yaml` + `state.json` — the live state.
+10. Run `scripts/run-tests.py` (75/75, incl all gates) + `scripts/theatre-check-all.py` + `audit-state.py`
+    before claiming anything done.
 
 **The single most important next step:** widen the IPVV run — run `validate-product-stack.py` +
 `validate-graduation-ipvv.py` over MANY real IPK kārikās (a real IPVV corpus pass), feeding the produced
