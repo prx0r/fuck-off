@@ -57,6 +57,7 @@ docs/0N-*.md            (live — implemented, reconciled to ground truth)
 | `SPEC-29-EDUCATION-MAIN.md` | education main (R2) — the motherlode | CANONICAL |
 | `SPEC-30-HERMES-PEER-REVIEW.md` | hermes peer review (R2) | CANONICAL |
 | `SPEC-31-PATALA-PEER-REVIEW.md` | patala peer review (R2) | CANONICAL |
+| `SPEC-49-PERFORMANCE-BUILD-DECISION.md` | the read-plane stack + Rust policy + agent SEO | LIVE (decision) |
 
 ### Planned specs (not yet written — content lives in SPEC-00/02/03/08/09)
 | Spec | Topic |

@@ -197,6 +197,8 @@ category has a README explaining what belongs there + why. See `docs/ECOSYSTEM-I
 | `GAPS.md` | honest known holes (mapped to layer + spec) |
 | `CHANGELOG.md` | change log |
 | `STATE.yaml` | live per-layer tracker |
+| `state.json` | machine-readable current state + next dev steps (for agents) |
+| `specs/SPEC-49-PERFORMANCE-BUILD-DECISION.md` | the read-plane stack + Rust policy + agent SEO (LIVE) |
 
 ---
 

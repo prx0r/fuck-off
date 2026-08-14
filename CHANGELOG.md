@@ -670,3 +670,17 @@ imposed.
 - **`migration/v3/ULTIMATE-OPTIMIZED-PRODUCT.md`** — the v3 organism on the real IPVV corpus (read
   patala's new migration/v3 + v2 + thesis; adopted the organism + graduation + product-stack framing).
 - **FINAL: 55/55 tests, 27 PROVEN real / 27 mechanism / 0 unproven (54 audited), 18 kernels, 55-matrix.**
+
+## 2026-08-14 (build decision documented + read-plane plan)
+- **`specs/SPEC-49-PERFORMANCE-BUILD-DECISION.md`** (LIVE) — the definitive read-plane stack + Rust
+  policy + agent SEO. Answers "why do cloned repos use Rust and why don't we": they use Rust-compiled
+  PYTHON WHEELS (tantivy/faiss/lancedb) for search-heavy hot paths; our hot path is the epistemic gate
+  + staleness DAG (pure Python). **Postgres FTS first; Tantivy only if profiled hot.** Rust written from
+  scratch only when measured hot. Unifies human/search-engine/agent/API graphs via one canonical ID +
+  JSON-LD.
+- **AGENTS.md §1.5** — machine-readable verified ground truth (18 kernels, 55 tests, IPVV 18/18,
+  v3 stack 13/13, 107 docs traced) + the build decision.
+- **`state.json`** — machine-agent-compatible current state + ranked next steps.
+- **DEV_PLAN PHASE 3** — rewritten as the read-plane build (projection compiler → Postgres FTS →
+  agent bundles/MCP → Astro/SEO), P0-first per SPEC-49.
+- Wired into NAVIGATION + specs-README + TRACEABILITY. 108 docs traced.

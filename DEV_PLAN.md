@@ -64,14 +64,32 @@ Supporting vs contradicting evidence, grounding + diversity, NOT one mushy score
 
 ---
 
-## PHASE 3 — SURFACES (make it real)
+## PHASE 3 — SURFACES (make it real) — the read plane (SPEC-49, THE remaining build)
 
-### 3.1 Projection compiler (Layer 06) — SPEC-00
-Per-entity static JSON/MD/HTML/bundles → R2 immutable.
-### 3.2 Astro site (Layer 07)
-Argument objects as living pages.
-### 3.3 API + MCP (Layer 07)
-Workers on /api /search /mcp; thin MCP adapter.
+**The build decision (SPEC-49):** Python factory + DuckDB → immutable R2 projections → Astro (humans,
+JSON-LD) + compiled agent bundles/MCP (agents) + **Postgres FTS first, Tantivy only if profiled hot.**
+Rust = compiled wheels only when measured hot. **Start here: the projection compiler** (everything
+reads from it).
+
+### 3.1 Projection compiler (Layer 06) — SPEC-00 §25 steps 6-10, SPEC-49  [P0]
+The single highest-leverage build. Python/DuckDB turns canonical graph → immutable per-entity
+JSON/MD/HTML/bundles, content-addressed to R2. One agent question = one request. Perf contract:
+reading-route JS <10KB, HTML <100KB, LCP <1s, new doc must NOT rebuild whole corpus.
+
+### 3.2 Search (Layer 06) — Postgres FTS first [P0]
+`tsvector`/`tsquery` + `pg_trgm` for free, consistent search in the canonical DB. Benchmark it.
+**Only if profiled hot** swap in Tantivy (Rust wheel, like paper-qa). This is the SPEC-49 decision
+point — record the measurement.
+
+### 3.3 Compiled agent bundles + MCP (Layer 06/07) — SPEC-00 §15, §16  [P0/P1]
+`/bundle/{id}` = entity+positions+relations+evidence+disagreements+provenance in ONE request, with
+`?view=compact&budget=2000|8000|32000&depth=0|1|2`. MCP = thin Streamable-HTTP adapter, ~8 tools
+(resolve/search/get/context/trace/compare/neighbors/evidence), NOT 70 micro-tools.
+
+### 3.4 Astro site (Layer 07) — SPEC-00 §24, §17  [P1]
+0-JS reading pages, Preact islands only, **semantic HTML + JSON-LD + `<link rel="canonical">`**.
+One canonical URL per entity (`/concept/free-will` + `.json` + `.md` + `/api/...`) — unifies the human,
+search-engine, agent, and API graphs. This is the agent-SEO layer.
 
 ---
 
@@ -81,13 +99,16 @@ Agent loop: pick chunk → layer → state → advance → update STATE.yaml. St
 ---
 
 ## Experimentation note (current mode)
-We are in **experimental time** — the point is to play with architecture and test the generalization
-bet, not to gold-plate. Highest excitement-to-effort right now:
-1. **0.1 epistemic envelope** (foundation, small, transformative)
-2. **1.1 typed relations** on the two-stage argument (the moat)
-3. **2.1 scifact adapter** (the generalization bet — most exciting)
+The **machine side is done and proven** (55/55 tests, IPVV graduation 18/18 on real corpus, v3 product
+stack 13/13). We are now in **build mode on the read plane** (SPEC-49): the projection compiler +
+Postgres-FTS search + compiled agent bundles/MCP + Astro/SEO. Priority (from `state.json`):
+1. **P0 — projection compiler** (Layer 06) — unblocks agent bundles, Astro, MCP, SEO all at once
+2. **P0 — Postgres-FTS baseline** (Layer 06) — the SPEC-49 Tantivy decision point
+3. **P0 — compiled agent bundles** (Layer 06) — one request per agent question
+4. **P1 — Astro + JSON-LD/SEO + MCP** (Layer 07) — the human + agent + search surfaces
 
-See `STATE.yaml` for live status. See `specs/` for each piece's design.
+See `state.json` (machine) + AGENTS.md §1.5 (human) for exact counts. See `specs/SPEC-49` for the build
+decision.
 
 ---
 

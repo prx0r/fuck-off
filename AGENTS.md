@@ -26,6 +26,28 @@ match ground truth.
   that generalizes across Sanskrit, Western philosophy, and science. This repo is the generalization
   test. (`docs/vision/VISION.md`)
 
+## 1.5 CURRENT STATE — VERIFIED GROUND TRUTH (machine-readable, keep these counts exact)
+
+| Artifact | Count | Machine source |
+|---|---|---|
+| Kernels (`lib/`) | **18** | `ls lib/*.py` |
+| Experiments (matrix) | **55** | `data/references/experiments.json` |
+| Test suite | **55/55 pass** | `scripts/run-tests.py` |
+| Theatre audit | **27 PROVEN real / 27 mechanism / 0 unproven** (54 audited) | `scripts/theatre-check-all.py` |
+| GitHub repo catalog | **99** | `data/references/github.json` |
+| Repos cloned | **41** (20 validated + 21 reference) | `ecosystem/*/` |
+| arXiv paper catalog | **32** | `data/references/arxiv.json` |
+| Specs | **47** (SPEC-00..49) | `specs/` |
+| Docs traced | **107 .md, all resolve** | `scripts/audit-traceability.py` |
+| Doyle graduation | **14/14** (mechanism proof) | `scripts/validate-graduation.py` |
+| **IPVV graduation** | **18/18** (real IPK corpus) | `scripts/validate-graduation-ipvv.py` |
+| v3 product stack | **13/13** (18 products / 4 families) | `scripts/validate-product-stack.py` |
+
+**The build decision (SPEC-49):** Python factory + DuckDB → immutable R2 projections → Astro (humans,
+JSON-LD) + compiled agent bundles/MCP (agents) + **Postgres FTS first, Tantivy only if profiled hot.**
+Rust is used only as a compiled wheel when measured hot — never written from scratch. L06
+(retrieval-compiler) + L07 (surfaces) are NOT_STARTED = the remaining build is the read plane.
+
 ---
 
 ## 2. THE LAYOUT (agent-usable names)
