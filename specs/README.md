@@ -33,6 +33,7 @@ docs/0N-*.md            (live — implemented, reconciled to ground truth)
 | `SPEC-07-ECOSYSTEM-SURVEY.md` | repos/datasets/benchmarks | CANONICAL |
 | `SPEC-08-GRAPH-REASONING-SURVEY.md` | arXiv GraphRAG architectures | CANONICAL |
 | `SPEC-09-AGENT-ORCHESTRATION-SURVEY.md` | runtimes/protocols/universal schema | CANONICAL |
+| `SPEC-10-FRONTIER-AGENT-SURVEY.md` | people/labs to track + the convergence | CANONICAL |
 | `SPEC-02-epistemic-envelope.md` | epistemic status ladder + 4-axis authority | DRAFT |
 | `SPEC-03-argument-graph.md` | AIF-style Info/Inference/Conflict graph | DRAFT |
 | `SPEC-04-verification.md` | verify the two-stage claim against evidence | DRAFT |

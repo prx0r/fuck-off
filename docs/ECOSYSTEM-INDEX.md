@@ -108,3 +108,37 @@ import_openalex()  import_s2orc()  import_scifact()  import_xaif()  import_eleut
 ```
 This is the **generalization test**: if Doyle + EleutherIA + SciFact + xAIF all enter the same engine,
 the abstraction is real.
+
+---
+
+## 6. PEOPLE/LABS TO TRACK (SPEC-10 — the frontier-agent watchlist)
+
+The strategic implication: **persistent verified state (truth/evidence/execution-history/skills/
+review) becomes the durable intelligence — models are disposable compute.** We are building that
+substrate. See `specs/SPEC-10-FRONTIER-AGENT-SURVEY.md` for full detail.
+
+| Watch | Why |
+|-------|-----|
+| Jeff Clune / Sakana AI | open-ended/self-improving systems |
+| Jenny Zhang | DGM → Hyperagents |
+| Jiayi Pan | learned parallelism + coding-agent training |
+| Shunyu Yao / Princeton | agent reasoning + real-world eval |
+| Graham Neubig / OpenHands | production-grade agents |
+| Charles Packer / Letta | agent memory as OS |
+| Muhan Zhang | graph learning → agent memory |
+| Omar Khattab / DSPy | optimizable LM programs |
+| METR | agent evaluation lab |
+| Prime Intellect | RL-train agents in real environments |
+
+**Labs:** Sakana, Prime Intellect, OpenHands, Berkeley systems, Princeton, METR, Letta, Stanford NLP,
+graph-foundation-model groups, Nous Research. Allocation: 40% open-endedness, 25% agent-RL, 20%
+graph-memory, 15% practical implementation.
+
+### The convergence (why our work matters)
+```
+2024: LLM + prompt + vectordb + tools = agent
+NOW:   foundation model → learned computation policy → spawn agents/tools/graph-memory
+        → trajectory → deterministic environment → verifier → experience archive
+        → skills/memory/architecture → SELF-IMPROVEMENT
+```
+We are building the **persistent verified state** those systems need.

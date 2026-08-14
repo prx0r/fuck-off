@@ -95,3 +95,15 @@ imposed.
   entries (tier-0 clones, datasets, arXiv architectures, agent infra) with 1-line "what it is + why".
 - **`ecosystem/`** — organized clone directory with 7 categories (epistemic, compilers, argumentation,
   science, philosophy, retrieval, agent-runtime), each with a README explaining what belongs there + why.
+
+## 2026-08-14 (cont.) — frontier-agent survey (SPEC-10)
+
+### Imported
+- **`specs/SPEC-10-FRONTIER-AGENT-SURVEY.md`** (from R2 `frontieragent`, 869 lines) — the agent
+  research watchlist (Sakana, Prime Intellect, Jiayi Pan, Neubig, Yao, Packer, Muhan Zhang, Khattab,
+  METR, ...) + the **convergence thesis**: agents move to foundation-model + learned computation policy +
+  graph memory + verifier + experience archive → self-improvement. Strategic implication: **persistent
+  verified state is the durable intelligence; models are disposable compute.**
+
+### Added
+- `docs/ECOSYSTEM-INDEX.md` §6 — the people/labs watchlist + convergence (consolidated).
