@@ -88,6 +88,7 @@ graph after adding text, run `build-graph.py`.
 | `docs/GITHUB-INDEX.md` | canonical GitHub catalog (74 repos, by category + tier) |
 | `docs/TESTING-VALIDATION-REPORT.md` | the test + validation results |
 | `docs/EXPERIMENT-REPORT.md` | third-party repo experiments (herdr/RKA/kappa/nano-graphrag) |
+| `docs/ALGORITHMS.md` | granular arXiv-algorithm implementations (PathRAG/HippoRAG/KG2Code) |
 
 ## Reference catalogs (machine-readable)
 | File | What it is |

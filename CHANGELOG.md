@@ -166,3 +166,14 @@ imposed.
 - New clones: RKA (local-only 30M), Kappa (local-only 49M), nano-graphrag (tracked 3.3M).
 - **`docs/EXPERIMENT-REPORT.md`** — consolidated results + what to adopt.
 - NAVIGATION + CHANGELOG wired.
+
+## 2026-08-14 (cont.) — read arXiv papers + implement core algorithms
+- Read the actual papers (not just surveys): PathRAG, HippoRAG, KG2Code (full), ToG-2, SubgraphRAG,
+  G-reasoner, HyperGraphRAG (abstracts).
+- **Implemented + tested on our graph:**
+  - `experiment-pathrag.py` — flow-based pruning (α=0.7, early-stop θ), path reliability, ascending path prompting
+  - `experiment-hipporag.py` — Personalized PageRank retrieval (found hub-bias: Value/Information over-rank)
+  - `experiment-kg2code.py` — executable graph-query DSL (resolve/neighbors/path/evidence) with verifiable traces
+- **`docs/ALGORITHMS.md`** — granular findings + what to adopt (PathRAG→L06, HippoRAG→L06, KG2Code→L06/L07,
+  ToG-2 alternating→L06 trace, HyperGraphRAG→L04).
+- NAVIGATION + CHANGELOG wired.
