@@ -70,3 +70,21 @@ docs/0N-*.md            (live — implemented, reconciled to ground truth)
 - **Live docs** (`docs/0N-*.md`) = what's built. **Specs** (`specs/`) = what's next.
 - `AGENTS.md` = rules. `NAVIGATION.md` = index. `BUILDNOTES.md` = history. `TODO.md` = tasks.
 - `DEV_PLAN.md` = the roadmap. `GAPS.md` = known holes. `CHANGELOG.md` = change log.
+
+### Imported reviews, pushing method, and LOGICVID gold (SPEC-32..48)
+| Spec | Vision/Layer | Source |
+|------|-------------|--------|
+| `SPEC-32-PATALA-MIX-REVIEW.md` | Verified OS (audit) | R2 patalamix |
+| `SPEC-33-PUSHING-GUIDE.md` | Enquiry-Discovery (L04) | research-library/pushing |
+| `SPEC-34-AUTONOMOUS-PUSHING.md` | Enquiry-Discovery (L04) | research-library/pushing |
+| `SPEC-35-COMPARATIVE-PUSHING.md` | Comparative Philosophy (L06) | research-library/pushing |
+| `SPEC-36-LOGICVID3.md` | Enquiry-Discovery (L04) | research-library |
+| `SPEC-40-LOGICVID-logicdog.md` | Enquiry-Discovery (L04) | LOGICVID gold |
+| `SPEC-41-LOGICVID-logicframework.md` | Enquiry-Discovery (L04) | LOGICVID gold |
+| `SPEC-42-LOGICVID-logicvidsmethod.md` | Enquiry-Discovery (L04) | LOGICVID gold |
+| `SPEC-43-LOGICVID-logicvid-postmortem.md` | Enquiry-Discovery (L04) | LOGICVID gold |
+| `SPEC-44-LOGICVID-logicframework2.md` | Enquiry-Discovery (L04) | LOGICVID gold |
+| `SPEC-45-LOGICVID-logicvid3.md` | Enquiry-Discovery (L04) | LOGICVID gold |
+| `SPEC-46-LOGICVID-logic5.md` | Enquiry-Discovery (L04) | LOGICVID gold |
+| `SPEC-47-LOGICVID-logic6.md` | Enquiry-Discovery (L04) | LOGICVID gold |
+| `SPEC-48-LOGICVID-logic7.md` | Enquiry-Discovery (L04) | LOGICVID gold |

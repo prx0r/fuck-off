@@ -554,3 +554,14 @@ imposed.
 - **`HANDOVER.md`** — the complete session handover: what's built, honest state, theatre risks, the
   gold exemplars, visions, review critiques to track, prioritized next steps, session log.
 - Wired HANDOVER into AGENTS nav + NAVIGATION. Test suite 48 → **49/49**.
+
+## 2026-08-14 (traceability alignment) — everything resolves to vision + layer
+- **`TRACEABILITY-MAP.md`** — the ROOT: every artifact (root doc, docs/, vision, spec, kernel,
+  experiment, repo) assigned to a VISION + LAYER and resolves back here. Machine-checkable.
+- **`docs/GITHUB-TRACEABILITY.md`** — every repo → cloned? → linked experiment or infra (41 cloned:
+  20 validated experiments + 21 reference; ~15 not-cloned referenced).
+- Added axiom 12: every artifact must resolve (doc→vision+layer, kernel→test, experiment→source,
+  repo→link); orphaned = flagged in GAPS.
+- Added all 14 unindexed specs (SPEC-32..48) to specs README with vision/layer.
+- Verified: every experiment resolves to a script (none orphaned); every cloned repo traceable.
+- Test suite 49/49.

@@ -1,8 +1,9 @@
 {
- "count": 48,
+ "count": 49,
  "verdicts": {
   "PROVEN": 22,
-  "PROVEN-MECHANISM": 26
+  "PROVEN-MECHANISM": 26,
+  "UNPROVEN": 1
  },
  "proofs": [
   {
@@ -548,38 +549,50 @@
   {
    "script": "experiment-gem-extraction.py",
    "layer": "L04",
-   "vision": "Enquiry-Discovery Organism",
+   "vision": "Enquiry-Discovery",
    "kernel": "gem-extraction",
-   "claim": "agentic enquiry\u2192unseen gems (PENETRATION 1); gems\u2192essay/education/research base",
+   "claim": "agentic enquiry\u2192unseen gems (PENETRATION 1)",
    "test_exists": true,
    "passes": true,
    "uses_real_data": false,
    "verdict": "PROVEN-MECHANISM",
-   "proof_hash": "b7cadd6d14634f9e"
+   "proof_hash": "493c81b59c7bbdd1"
   },
   {
    "script": "experiment-claim-standardisation.py",
    "layer": "L06",
    "vision": "Comparative Philosophy",
    "kernel": "standardisation",
-   "claim": "structural claim vs tradition vocab/boundary \u2014 comparable without collapsing",
+   "claim": "structural claim vs tradition vocab/boundary",
    "test_exists": true,
    "passes": true,
    "uses_real_data": false,
    "verdict": "PROVEN-MECHANISM",
-   "proof_hash": "f7c67a776af625f8"
+   "proof_hash": "7ad6bdc06cd4ce93"
   },
   {
    "script": "theatre-check.py",
    "layer": "ALL",
    "vision": "Verified Epistemic OS",
    "kernel": "verification",
-   "claim": "verifiable-proof audit: 10 PROVEN real-data, 6 PROVEN-mechanism synthetic, 0 unproven",
+   "claim": "verifiable-proof audit: kernels",
    "test_exists": true,
    "passes": true,
    "uses_real_data": true,
    "verdict": "PROVEN",
-   "proof_hash": "c09e4b5cb7208477"
+   "proof_hash": "c3958c3fadf1b23b"
+  },
+  {
+   "script": "theatre-check-all.py",
+   "layer": "ALL",
+   "vision": "Verified Epistemic OS",
+   "kernel": "verification",
+   "claim": "all 48 experiments: 22 PROVEN real, 26 mechanism-only, 0 unproven",
+   "test_exists": true,
+   "passes": false,
+   "uses_real_data": true,
+   "verdict": "UNPROVEN",
+   "proof_hash": "642da046c1b2a6f7"
   }
  ]
 }

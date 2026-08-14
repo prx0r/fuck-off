@@ -74,6 +74,8 @@ match ground truth.
 9. **Every object carries an epistemic envelope.** `epistemic_ceiling` + 4-axis `authority` +
    `review_state`, and the invariant `authority(projection) <= authority(parent)`. Physics may be
    `SCHOLARLY_CORROBORATED`; the free-will thesis stays `MACHINE_PROPOSED`. Never inflate a ceiling.
+12. **Every artifact must resolve.** A doc → vision+layer, a kernel → a validating test, an experiment
+    → a source, a repo → a cloned dir + link. Orphaned = flagged in GAPS.
 11. **Run theatre-check before claiming done.** A claim is only PROVEN if `theatre-check.py`
     confirms a passing test on REAL data. PROVEN-MECHANISM (synthetic) is not delivery.
 10. **Distinguish HOW something is known** (Eigenius): ASSERTED / EXTRACTED / RECONSTRUCTED /
@@ -111,6 +113,7 @@ match ground truth.
 0d. **`LAB-REVIEW.md`** — the state of the lab (what's proven/exploratory/next).
 0e. **`KERNELS-INDEX.md`** — the reusable kernels (reuse, don't rebuild).
 0f. **`HANDOVER.md`** — the session state + where to continue.
+0f2. **`TRACEABILITY-MAP.md`** — every artifact → vision + layer, rooted here.
 0g. **`DEV_PLAN.md`** — the executable roadmap (what to build next).
 0e. **`TODO.md`** — the live task tracker.
 0f. **`BUILDNOTES.md`** — build history + decisions.
