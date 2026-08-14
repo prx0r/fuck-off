@@ -108,21 +108,31 @@ match ground truth.
 ## 4. THE NAVIGATION (read in order)
 
 0. **`AGENTS.md`** — this file.
-0b. **`NAVIGATION.md`** — the master index (resolve anything → location/script/how-to-run).
-0c. **`VISION.md` + `VISION-CHUNK-LAYER-MAP.md` + `VISION-PATALA-FUTURES.md`** — the vision + futures.
-0d. **`LAB-REVIEW.md`** — the state of the lab (what's proven/exploratory/next).
-0e. **`KERNELS-INDEX.md`** — the reusable kernels (reuse, don't rebuild).
-0f. **`HANDOVER.md`** — the session state + where to continue.
-0f2. **`TRACEABILITY-MAP.md`** — every artifact → vision + layer, rooted here.
-0g. **`DEV_PLAN.md`** — the executable roadmap (what to build next).
-0e. **`TODO.md`** — the live task tracker.
-0f. **`BUILDNOTES.md`** — build history + decisions.
-1. **`docs/01-corpus.md`** … **`docs/05-performance.md`** — concern docs.
-2. **`docs/ECOSYSTEM-INDEX.md` · `ARXIV-INDEX.md` · `GITHUB-INDEX.md` · `ALGORITHMS.md` ·
-   `EXPERIMENT-REPORT.md` · `docs/process/FRONTIER-MAP.md`** — reference + implementation indexes.
-3. **`specs/`** — SPEC-00 (canonical infra) … SPEC-14 (frontier layer builds) — the designs.
-4. **`layers/00-09-*.md`** — per-layer deep pages + current state.
-5. **`STATE.yaml`** — the live per-layer tracker.
+1. **`NAVIGATION.md`** — the master index (resolve anything → location/script/how-to-run).
+2. **`TRACEABILITY-MAP.md`** — every artifact → vision + layer, rooted here.
+3. **`VISION.md` + `VISION-CHUNK-LAYER-MAP.md`** — the founding vision + its decomposition.
+4. **`LAB-REVIEW.md`** — the state of the lab (what's proven/exploratory/next).
+5. **`KERNELS-INDEX.md`** — the reusable kernels (reuse, don't rebuild).
+6. **`HANDOVER.md`** — the session state + where to continue (READ BEFORE BUILDING).
+7. **`DEV_PLAN.md`** — the executable roadmap (what to build next).
+8. **`TODO.md`** — the live task tracker.
+9. **`GAPS.md`** — known holes.
+10. **`docs/01-corpus.md`** … **`docs/05-performance.md`** — concern docs.
+11. **`docs/ECOSYSTEM-INDEX.md` · `ARXIV-INDEX.md` · `GITHUB-INDEX.md` · `GITHUB-TRACEABILITY.md` ·
+    `ALGORITHMS.md` · `EXPERIMENT-MATRIX.md` · `LOGICVID-GOLD-EXEMPLARS.md`** — reference indexes.
+12. **`specs/`** — SPEC-00 (canonical infra) … SPEC-48 (LOGICVID gold) — the designs.
+13. **`layers/00-09-*.md`** — per-layer deep pages + current state.
+14. **`STATE.yaml`** — the live per-layer tracker.
+
+### Vision docs (for orientation)
+- `docs/vision/VISION-VERIFIED-EPISTEMIC-OS.md` — the 8-law substrate.
+- `docs/vision/beyond-patala/` — the product visions (marketplace · organism · what-if · self-proving ·
+  question-growth · enquiry-discovery).
+- `docs/vision/VISION-UNCONSIDERED-FRONTIERS.md` — the 6 novel directions.
+
+### Skills (agent behaviors)
+- `skills/vcreate/SKILL.md` — backward-delivery planning.
+- `skills/theatre-check/SKILL.md` — the verifiable-proof anti-theatre audit.
 
 ---
 

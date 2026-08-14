@@ -160,11 +160,31 @@ rclone check <local> r2:atlas-sources/informationphilosopher  # R2 backup integr
 ## 10. SESSION LOG (2026-08-14 — what was built this session)
 
 1. Imported + saved 30+ R2 docs → SPEC-00..48 (reviews, education, organism, pushing, logicvid).
-2. Built 16 kernels + 45 experiments across layers L00-L12 + 8 product visions.
+2. Built 16 kernels + 49 experiments across layers L00-L12 + 8 product visions.
 3. Applied patalamix/v2 critiques: honest statuses, real MAP-Elites, causal-operational graph,
    execution branching/replay.
 4. Cloned ~100 repos across categories; each high-value one → a validated experiment.
 5. Built the theatre-check verifiable-proof skill; audited all experiments.
 6. Discovered the LOGICVID gold (live human curiosity) → question-growth, enquiry-discovery,
    gem-extraction, claim-standardisation.
-7. Current: **49/49 tests, 22 experiments PROVEN on real data, 16 kernels, 8 visions.**
+7. Final alignment: **full traceability** (TRACEABILITY-MAP + GITHUB-TRACEABILITY — every doc/
+   experiment/repo resolves to vision + layer), **theatre-check-all** (48 experiments audited,
+   22 PROVEN real / 26 mechanism / 0 unproven), clean AGENTS navigation, all 46 specs indexed.
+8. **FINAL STATE: 49/49 tests, 22 experiments PROVEN on real data, 16 kernels, 8 product visions,
+   41 cloned repos (20 validated + 21 reference), fully traceable.**
+
+---
+
+## 11. READ-ME-FIRST CHECKLIST (for the new agent)
+
+1. Read `AGENTS.md` — the axioms (esp. axiom 12: every artifact must resolve).
+2. Read `NAVIGATION.md` → `TRACEABILITY-MAP.md` → `HANDOVER.md` (this file).
+3. Read `LAB-REVIEW.md` — what's proven vs exploratory.
+4. Read `KERNELS-INDEX.md` — reuse the 16 kernels, don't rebuild.
+5. Check `TODO.md` + `GAPS.md` + `STATE.yaml` — the live state.
+6. Run `scripts/run-tests.py` (49/49) + `scripts/theatre-check-all.py` before claiming anything done.
+7. Pick the graduation test (§8 P0) as the next real milestone.
+
+**The single most important next step:** the graduation test — ONE claim through the whole stack
+(source→translation→proof→proposition→argument→review→attestation→synthesis→essay→education→
+agent-bundle), then MUTATE the source and watch the organism react. That turns the lab into the kernel.

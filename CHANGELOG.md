@@ -565,3 +565,11 @@ imposed.
 - Added all 14 unindexed specs (SPEC-32..48) to specs README with vision/layer.
 - Verified: every experiment resolves to a script (none orphaned); every cloned repo traceable.
 - Test suite 49/49.
+
+## 2026-08-14 (handover readiness) — new agent can start cleanly
+- **AGENTS.md**: cleaned navigation (14 sequential steps, no dup numbers), added Vision docs + Skills
+  subsections, updated specs range (SPEC-00..48).
+- **HANDOVER.md**: updated session log to final state + added §11 READ-ME-FIRST CHECKLIST (the new
+  agent's on-ramp: read AGENTS → NAVIGATION → TRACEABILITY-MAP → HANDOVER → LAB-REVIEW → KERNELS-INDEX,
+  run tests, then the graduation test).
+- Verified: 49/49 tests, clean navigation, all docs indexed.
