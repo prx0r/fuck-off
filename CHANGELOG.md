@@ -865,3 +865,14 @@ Ran a full 4-agent inventory (specs, kernels/experiments, ecosystem, layers/visi
 - Honest state: L08 domain-expansions EMPTY (vision-only, claimed VALIDATED wrongly); layers/*.md STALE
   (says NOT_STARTED for built layers); two competing layer taxonomies (00-09 vs L00-L12) to reconcile.
 - **40 kernels, 83 experiments, 82/82 tests, theatre 34 PROVEN / 44 mech / 0 unproven.**
+
+## 2026-08-14 (reviewed + cloned hound — off-domain, reusable mechanisms)
+- **`ecosystem/agent-runtime/hound`** (scabench-org, ~11MB, Python) — a language-agnostic AI auditor that
+  autonomously builds adaptive knowledge graphs with a belief/hypothesis/confidence system.
+- **Reusable (mapped to us):** (1) `DynamicNode` `observations`(verified) vs `assumptions`(unverified) +
+  `iteration: int` (how many passes confirmed a claim) → a stronger epistemic signal than our binary
+  ceiling — added to DEV_PLAN as `epistemic`/`evidence_ledger` upgrade; (2) the scout/strategist dynamic
+  model split (cheap explore, heavy reason) → cost-efficiency for `next_action`; (3) explicit
+  contradiction detection (assumptions vs observations) → matches our `CONTRADICTION_RAISED`.
+- **Not reusable:** the code-security parts (vulnerability types, severity, attack vectors) + LLM client.
+- DEV_PLAN: added §0.4 (iteration-verified confidence steal). GITHUB-TRACEABILITY updated.
