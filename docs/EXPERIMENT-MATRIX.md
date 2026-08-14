@@ -1,6 +1,6 @@
 # EXPERIMENT MATRIX — what's been tested
 
-*2026-08-14. 42 experiments mapped to layer / source repo / vision / kernel / result.*
+*2026-08-14. 43 experiments mapped to layer / source repo / vision / kernel / result.*
 Machine form: `data/references/experiments.json`.
 
 ## Argument Map (7)
@@ -104,8 +104,9 @@ Machine form: `data/references/experiments.json`.
 | `experiment-certification-weight.py` | L02 | VISION marketplace | certificate | RUN |
 | `experiment-rival-argument.py` | L08 | VISION D verifier-as-rival | scholar_review | RUN |
 
-## What-If Machine (1)
+## What-If Machine (2)
 
 | script | layer | source | kernel | result |
 |--------|-------|--------|--------|--------|
 | `experiment-counterfactual-engine.py` | L03 | VISION B counterfactual | discovery | RUN |
+| `experiment-question-growth.py` | L04 | pushing method (research-library) | question-growth | RUN |

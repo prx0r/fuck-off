@@ -499,3 +499,15 @@ imposed.
 - **LAB-REVIEW §4.5 THEATRE AUDIT** — every validator tagged REAL / MIXED / SYNTHETIC, so agents know
   which prove integration vs mechanism.
 - Test suite 41 → **42/42**.
+
+## 2026-08-14 (cont.) — Question-Growth Engine (from the pushing method / research-library)
+- Explored research-library/pushing (the Logicvid method) + proof.md/audio-transcripts as prima materia.
+- **The pushing method is a graph-growth machine**: decomposition loop + question-growth loop, each
+  session a PushingRecord (question→distinctions→theorem→boundary→next_pressure→passages).
+- **`experiment-question-growth.py`** (43/43 suite): the Question-Growth Engine — a question tree where
+  each node is a pressure-point with an honest boundary, and the KEY insight (logicvid3): **the same
+  primitive reached from many independent question-routes = robust** (vimarśa reached 2 ways).
+- **`VISION-QUESTION-GROWTH-ENGINE.md`** — the abstract architecture: learnable growth (each record is
+  a supervised example question+passages→theorem→next), PrimitiveRobustness metric, wired into
+  research/organism/education/cross-tradition.
+- Saved pushing docs → SPEC-33..36. Test suite 42 → **43/43**.

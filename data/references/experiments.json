@@ -1,5 +1,5 @@
 {
- "count": 42,
+ "count": 43,
  "entries": [
   {
    "script": "validate-layer03-05.py",
@@ -378,6 +378,15 @@
    "kernel": "integration",
    "status": "RUN",
    "note": "real kernels on REAL data: envelope+staleness+reducer+invariant \u2014 9/9"
+  },
+  {
+   "script": "experiment-question-growth.py",
+   "layer": "L04",
+   "source": "pushing method (research-library)",
+   "vision": "What-If Machine",
+   "kernel": "question-growth",
+   "status": "RUN",
+   "note": "question\u2192theorem\u2192boundary\u2192next-pressure; PrimitiveRobustness via multi-route convergence"
   }
  ]
 }

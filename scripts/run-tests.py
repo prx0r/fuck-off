@@ -89,6 +89,7 @@ run_script("validate-pedagogy.py", "live_adaptive_pedagogy")
 run_script("experiment-causal-operational-graph.py", "causal_operational_graph")
 run_script("experiment-execution-replay.py", "execution_replay")
 run_script("validate-stack.py", "graduation_test_real_data")
+run_script("experiment-question-growth.py", "question_growth_engine")
 
 # ---- summary ----
 n = len(results["tests"]); npass = sum(1 for t in results["tests"] if t["pass"])
