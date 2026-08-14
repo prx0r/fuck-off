@@ -1,2 +1,5 @@
 {"object_id": "tantraloka:v100", "verse": "devo hyanvartha\u015b\u0101stroktai\u1e25 \u015babdai\u1e25 samupadi\u015byate /\nmah\u0101bhair", "translation_chars": 13016, "lattice": "PASS", "n_tokens": 12}
 {"object_id": "tantraloka:v1000", "verse": "sv\u0101tmocchalattay\u0101 bhr\u0101myaccakra\u1e43 sa\u1e43cintayenmahat /\ntatastad", "translation_chars": 51819, "lattice": "PASS", "n_tokens": 9}
+{"object_id": "tantraloka:v1001", "verse": "pra\u015b\u0101myadbh\u0101vayeccakra\u1e43 tata\u1e25 \u015b\u0101nta\u1e43 tata\u1e25 \u015bamam /\nanena dhy", "translation_chars": 26340, "lattice": "PASS", "n_tokens": 14}
+{"object_id": "tantraloka:v1002", "verse": "tatsa\u1e43vidi tata\u1e25 sa\u1e43vidvil\u012bn\u0101rthaiva bh\u0101sate /\ncitsv\u0101bh\u0101vy\u0101t", "translation_chars": 49179, "lattice": "PASS", "n_tokens": 12}
+{"object_id": "tantraloka:v1003", "verse": "eva\u1e43 pratik\u1e63a\u1e47a\u1e43 vi\u015bva\u1e43 svasa\u1e43vidi vil\u0101payan /\nvis\u1e5bja\u1e43\u015bca ta", "translation_chars": 34103, "lattice": "PASS", "n_tokens": 14}

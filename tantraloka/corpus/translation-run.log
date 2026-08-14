@@ -1,0 +1,13 @@
+=== BATCHED TANTRĀLOKA TRANSLATION (batch=5, resume=False) ===
+
+  [PASS] real Tantrāloka verse SOURCE objects found (4624)
+  [PASS] a batch of verse-objects to translate (5)
+  ... 5/5 processed
+  [PASS] the batch was processed + checkpointed (resume-safe) (5/5)
+  [PASS] the real verse analysis (Vidyut) ran on each 
+  translations with real L2 output: 5/5
+
+=== SUMMARY: 4/4 passed ===
+
+BATCHED TANTRĀLOKA TRANSLATION: the real verse SOURCE objects are being translated via Hermes
+with checkpoint/resume. Run --batch 4624 in the background for the FULL translation.
