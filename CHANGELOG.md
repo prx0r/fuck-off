@@ -401,3 +401,19 @@ imposed.
 - **`experiment-signed-statement.py`** — sign + verify + tamper-detect certified statements (Merkle root +
   certification weight + signature) → the marketplace trust substrate.
 - GitHub index 89 → **92**. Experiment matrix 32 → **34**. Test suite 31 → **33/33**.
+
+## 2026-08-14 (cont.) — the PĀṬALA EVOLUTION LOOP (endgame mechanism) + salsa incremental
+- Reviewed the AxiomMath/repo synthesis; the key insight: **Pāṭala becomes an incrementally-compiled
+  scholarly organism that improves its own agents/transformations/retrieval/verifiers while production
+  truth stays gate-protected** (generate→verify→repair→fitness-vector→MAP-Elites→promotion).
+- **Cloned:** openevolve (MAP-Elites quality-diversity, 12M), axplorer (candidate population, 2.3M),
+  salsa (memoized incremental queries, 5.4M).
+- **`lib/evolve.py`** + **`validate-evolve.py`** — the Evolution Loop: 6 diverse niches survive
+  (MAP-Elites preserves diversity), promotion gate protects canonical truth, generation 2 improves
+  (+3.3% fidelity). Fitness is a VECTOR, not one scalar.
+- **`experiment-salsa-incremental.py`** — Salsa-style incremental computation: unchanged reads reuse
+  (0 recompute), single evidence change = O(1) update. The performance speedup (computational dependency
+  graph) complementing our epistemic staleness DAG.
+- **`validate-kernels.py`** (13/13) — now every lib kernel (certificate, discovery, translation, query,
+  retrieval, scholar_review) has a validating gate.
+- GitHub index 92 → **95**. Matrix 34 → **36**. Test suite 33 → **36/36**.

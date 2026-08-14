@@ -105,6 +105,10 @@ CATALOG = {
   "agentic-community/mcp-gateway-registry": ("protocols", 2, "MCP gateway registry (control plane)"),
   "a2aproject/A2A": ("protocols", 2, "A2A agent-to-agent protocol"),
   "GoogleCloudPlatform/knowledge-catalog": ("protocols", 2, "Open Knowledge Format (OKF)"),
+  "algorithmicsuperintelligence/openevolve": ("evolution", 1, "MAP-Elites quality-diversity evolution"),
+  "AxiomMath/axplorer": ("evolution", 1, "candidate-population loop (generate/verify/repair/retain)"),
+  "salsa-rs/salsa": ("incremental", 1, "memoized tracked queries + dependency reuse"),
+
   "CAHLR/pyBKT": ("learner-modeling", 1, "Bayesian Knowledge Tracing (prior/learn/guess/slip)"),
   "sigstore/cosign": ("signing", 1, "artifact signing + Sigstore/Rekor transparency"),
   "modelcontextprotocol/modelcontextprotocol": ("protocols", 2, "the MCP specification"),

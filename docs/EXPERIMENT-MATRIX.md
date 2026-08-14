@@ -1,6 +1,6 @@
 # EXPERIMENT MATRIX — what's been tested
 
-*2026-08-14. 34 experiments mapped to layer / source repo / vision / kernel / result.*
+*2026-08-14. 36 experiments mapped to layer / source repo / vision / kernel / result.*
 Machine form: `data/references/experiments.json`.
 
 ## Argument Map (7)
@@ -15,11 +15,12 @@ Machine form: `data/references/experiments.json`.
 | `experiment-pathrag.py` | L10 | PathRAG (arXiv+cloned) | retrieval | RUN |
 | `validate-layer10.py` | L10 | PathRAG+HippoRAG+KG2Code | retrieval | PASS |
 
-## Autonomous Institute (1)
+## Autonomous Institute (2)
 
 | script | layer | source | kernel | result |
 |--------|-------|--------|--------|--------|
 | `experiment-self-improve.py` | L05 | self-improving-agent (cloned) | review | PASS |
+| `validate-evolve.py` | ALL | openevolve+axplorer (cloned) | evolution | RUN |
 
 ## Co-Evolving Epistemic Organism (1)
 
@@ -55,13 +56,14 @@ Machine form: `data/references/experiments.json`.
 |--------|-------|--------|--------|--------|
 | `experiment-kg2code.py` | L10 | KG2Code (arXiv) | query | RUN |
 
-## General Engine (3)
+## General Engine (4)
 
 | script | layer | source | kernel | result |
 |--------|-------|--------|--------|--------|
 | `experiment-generalization.py` | L08 | EleutherIA (SPEC-07) | core | PASS |
 | `experiment-import-scifact.py` | L01 | SciFact (cloned) | ingestion | PASS |
 | `experiment-nano-stable-graph.py` | L02 | nano-graphrag (cloned) | stable-graph | RUN |
+| `experiment-salsa-incremental.py` | L03 | salsa (cloned) | incremental | RUN |
 
 ## Self-Maintaining (3)
 

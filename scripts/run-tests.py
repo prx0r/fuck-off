@@ -80,6 +80,9 @@ run_script("experiment-rival-argument.py", "rival_argument")
 run_script("experiment-certification-weight.py", "certification_weight")
 run_script("experiment-bkt-mastery.py", "bkt_mastery_tracking")
 run_script("experiment-signed-statement.py", "signed_statement")
+run_script("validate-kernels.py", "kernel_validation_suite")
+run_script("validate-evolve.py", "evolution_loop")
+run_script("experiment-salsa-incremental.py", "salsa_incremental")
 
 # ---- summary ----
 n = len(results["tests"]); npass = sum(1 for t in results["tests"] if t["pass"])

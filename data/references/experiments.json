@@ -1,5 +1,5 @@
 {
- "count": 34,
+ "count": 36,
  "entries": [
   {
    "script": "validate-layer03-05.py",
@@ -306,6 +306,24 @@
    "kernel": "signing",
    "status": "RUN",
    "note": "sign+verify+tamper-detect certified statements"
+  },
+  {
+   "script": "validate-evolve.py",
+   "layer": "ALL",
+   "source": "openevolve+axplorer (cloned)",
+   "vision": "Autonomous Institute",
+   "kernel": "evolution",
+   "status": "RUN",
+   "note": "MAP-Elites evolution loop: 6 niches, gen2 improves"
+  },
+  {
+   "script": "experiment-salsa-incremental.py",
+   "layer": "L03",
+   "source": "salsa (cloned)",
+   "vision": "General Engine",
+   "kernel": "incremental",
+   "status": "RUN",
+   "note": "memoized queries, reuse-on-change (O(1) update)"
   }
  ]
 }

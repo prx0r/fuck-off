@@ -56,6 +56,8 @@ MATRIX = {
   "experiment-certification-weight.py": ("L02", "VISION marketplace", "Verified-Statement-Marketplace", "certificate", "compounding CW (36 -> 1683 over 10yr)"),
   "experiment-bkt-mastery.py": ("L09", "pyBKT (cloned)", "Co-Evolving Epistemic Organism", "learner-state", "Bayesian Knowledge Tracing mastery signal"),
   "experiment-signed-statement.py": ("L12", "cosign (cloned)", "Self-Proving System", "signing", "sign+verify+tamper-detect certified statements"),
+  "validate-evolve.py": ("ALL", "openevolve+axplorer (cloned)", "Autonomous Institute", "evolution", "MAP-Elites evolution loop: 6 niches, gen2 improves"),
+  "experiment-salsa-incremental.py": ("L03", "salsa (cloned)", "General Engine", "incremental", "memoized queries, reuse-on-change (O(1) update)"),
 }
 
 def main():

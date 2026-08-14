@@ -1,5 +1,5 @@
 {
- "count": 92,
+ "count": 95,
  "entries": [
   {
    "owner": "infinitywings",
@@ -790,6 +790,36 @@
    "tier": 2,
    "tier_label": "architecture",
    "note": "Open Knowledge Format (OKF)"
+  },
+  {
+   "owner": "algorithmicsuperintelligence",
+   "name": "openevolve",
+   "repo": "algorithmicsuperintelligence/openevolve",
+   "url": "https://github.com/algorithmicsuperintelligence/openevolve",
+   "category": "evolution",
+   "tier": 1,
+   "tier_label": "ingest",
+   "note": "MAP-Elites quality-diversity evolution"
+  },
+  {
+   "owner": "AxiomMath",
+   "name": "axplorer",
+   "repo": "AxiomMath/axplorer",
+   "url": "https://github.com/AxiomMath/axplorer",
+   "category": "evolution",
+   "tier": 1,
+   "tier_label": "ingest",
+   "note": "candidate-population loop (generate/verify/repair/retain)"
+  },
+  {
+   "owner": "salsa-rs",
+   "name": "salsa",
+   "repo": "salsa-rs/salsa",
+   "url": "https://github.com/salsa-rs/salsa",
+   "category": "incremental",
+   "tier": 1,
+   "tier_label": "ingest",
+   "note": "memoized tracked queries + dependency reuse"
   },
   {
    "owner": "CAHLR",

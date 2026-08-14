@@ -1,6 +1,6 @@
 # GITHUB INDEX — canonical GitHub reference catalog
 
-*2026-08-14. 92 repos, organized by category + tier for agent retrieval. Machine form: `data/references/github.json`.*
+*2026-08-14. 95 repos, organized by category + tier for agent retrieval. Machine form: `data/references/github.json`.*
 
 Tier: 0=clone-first · 1=ingest · 2=architecture · 3=watch
 
@@ -81,6 +81,11 @@ Tier: 0=clone-first · 1=ingest · 2=architecture · 3=watch
 - **Detective-XH/DocGraph** — `T0` · SQLite KG + drift audits (staleness) · <https://github.com/Detective-XH/DocGraph>
 - **mntlra/knowledgeProvenance** — `T1` · PROV-K nanopubs: multi-source assertions + trust networks · <https://github.com/mntlra/knowledgeProvenance>
 
+## evolution (2)
+
+- **algorithmicsuperintelligence/openevolve** — `T1` · MAP-Elites quality-diversity evolution · <https://github.com/algorithmicsuperintelligence/openevolve>
+- **AxiomMath/axplorer** — `T1` · candidate-population loop (generate/verify/repair/retain) · <https://github.com/AxiomMath/axplorer>
+
 ## graph-reasoning (17)
 
 - **RManLuo/gfm-rag** — `T0` · G-reasoner: graph foundation model for RAG · <https://github.com/RManLuo/gfm-rag>
@@ -100,6 +105,10 @@ Tier: 0=clone-first · 1=ingest · 2=architecture · 3=watch
 - **JayLZhou/GraphRAG** — `T2` · in-depth graphrag study · <https://github.com/JayLZhou/GraphRAG>
 - **lyndonkl/graphragmcp** — `T2` · GraphRAG MCP research server · <https://github.com/lyndonkl/graphragmcp>
 - **ngl567/KGR-Survey** — `T2` · task-oriented KG reasoning survey · <https://github.com/ngl567/KGR-Survey>
+
+## incremental (1)
+
+- **salsa-rs/salsa** — `T1` · memoized tracked queries + dependency reuse · <https://github.com/salsa-rs/salsa>
 
 ## learner-modeling (1)
 
