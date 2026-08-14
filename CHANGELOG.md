@@ -341,3 +341,17 @@ imposed.
   Comparative Philosophy (1), Autonomous Institute (1).
 - 21 confirmed PASS (in the 28-test suite); 8 RUN = exploratory experiments consolidated into lib/ kernels.
 - NAVIGATION wired to the matrix + experiments.json.
+
+## 2026-08-14 (cont.) — legendary clones + UNCONSIDERED FRONTIERS
+- **Cloned:** storm (12M), mcp-agent (53M local-only), agent-kit (17M), dbos (4.7M) + graphrag (32M),
+  KAG (238M local-only), HippoRAG (114M local-only).
+- **`docs/vision/VISION-UNCONSIDERED-FRONTIERS.md`** — 6 novel directions beyond our current map:
+  A public dreams, B counterfactual engine, C cross-organism learning, D verifier-as-rival,
+  E temporal scholarship, F system self-provenance. Each inverts an assumption; each applies the OS's
+  core operation to a new object.
+- **`experiment-counterfactual-engine.py`** (VISION B): whole-graph what-if — THERMODYNAMICS is the
+  most load-bearing layer (11 downstream collapse if false), more than PHYSICS. Vulnerability analysis
+  for knowledge.
+- **`experiment-rival-argument.py`** (VISION D): a position must DEFEAT a genuine rival's objection
+  (justified win), not just be self-consistent.
+- Test suite 28 → **30/30 pass**.

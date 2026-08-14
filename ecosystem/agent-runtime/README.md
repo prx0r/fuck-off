@@ -29,3 +29,7 @@ runtime yet.
 
 | BerriAI/self-improving-agent | **CLONED** (1.9M) — self-improvement as PR; our herdr gate rejects weak proposals |
 | EverMind-AI/EverOS | **CLONED** (15M) — local-first memory runtime (Markdown+SQLite+LanceDB, user/agent tracks) |
+
+| lastmile-ai/mcp-agent | **CLONED local-only** (53M) — MCP agent builder (Layer 07 surface) |
+| inngest/agent-kit | **CLONED** (17M) — multi-agent network orchestration |
+| dbos-inc/dbos-transact-py | **CLONED** (4.7M) — durable workflows on Postgres (our reducer runtime) |

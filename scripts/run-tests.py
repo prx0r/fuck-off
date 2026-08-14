@@ -75,6 +75,8 @@ run_script("experiment-review-bias.py", "review_bias_robustness")
 run_script("experiment-self-improve.py", "self_improvement_as_pr")
 run_script("experiment-evolving-memory.py", "evolving_memory_consolidation")
 run_script("validate-education-organism.py", "education_organism_stack")
+run_script("experiment-counterfactual-engine.py", "counterfactual_engine")
+run_script("experiment-rival-argument.py", "rival_argument")
 
 # ---- summary ----
 n = len(results["tests"]); npass = sum(1 for t in results["tests"] if t["pass"])

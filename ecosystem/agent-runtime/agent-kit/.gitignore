@@ -1,0 +1,14 @@
+# Built files
+dist
+*.tgz
+.eslintcache
+**/.env
+**/.env.local
+
+# Node packages
+node_modules
+
+# Nix
+/.direnv/
+.DS_Store
+.cursor

@@ -13,3 +13,7 @@ GraphRAG retrieval references. See `../../docs/ECOSYSTEM-INDEX.md` §3.
 | gusye1234/nano-graphrag | **CLONED (tracked, 3.3M)** — 1100-line reference; stable-LCC + GraphML determinism tested |
 
 | BUPT-GAMMA/PathRAG | **CLONED** (2.1M) — the paper code; our lib/retrieval.py mirrors its flow-pruning + keyword→entity→context flow |
+
+| microsoft/graphrag | **CLONED local-only** (32M) — the canonical GraphRAG (reference) |
+| OpenSPG/KAG | **CLONED local-only** (238M) — logical-form reasoning (reference) |
+| OSU-NLP-Group/HippoRAG | **CLONED local-only** (114M) — PPR retrieval (we implemented its core) |

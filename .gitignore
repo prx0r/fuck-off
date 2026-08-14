@@ -22,3 +22,9 @@ ecosystem/agent-runtime/loom-valkor/
 # large/agent-framework reference clones — local-only for code-reading
 ecosystem/epistemic/rka/
 ecosystem/epistemic/kappa-graph/
+
+# large reference clones — local-only for code-reading
+ecosystem/retrieval/KAG/
+ecosystem/retrieval/HippoRAG/
+ecosystem/retrieval/graphrag/
+ecosystem/agent-runtime/mcp-agent/

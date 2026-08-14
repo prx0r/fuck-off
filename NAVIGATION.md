@@ -121,6 +121,7 @@ graph after adding text, run `build-graph.py`.
 | `docs/vision/VISION.md` | the founding vision (general epistemic engine) |
 | `docs/vision/VISION-PATALA-FUTURES.md` | 7 concrete, evidence-grounded futures for patala |
 | `docs/vision/VISION-VERIFIED-EPISTEMIC-OS.md` | the unified Verified Epistemic OS (8 laws) |
+| `docs/vision/VISION-UNCONSIDERED-FRONTIERS.md` | the unconsidered frontiers (6 novel directions) |
 | `docs/EXPERIMENT-REPORT.md` | third-party repo experiments (herdr/RKA/kappa/nano-graphrag) |
 | `docs/EXPERIMENT-MATRIX.md` | the full experiment tracking matrix (29, by vision/layer/source) |
 | `docs/ALGORITHMS.md` | granular arXiv-algorithm implementations (PathRAG/HippoRAG/KG2Code) |
