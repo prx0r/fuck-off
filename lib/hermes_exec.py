@@ -102,9 +102,29 @@ def translate_karika(sanskrit, work_id="tantraloka", model=DEFAULT_MODEL):
     out = agentic(system, user, model=model)
     try:
         import json
-        return json.loads(out)
+        # the agentic output has reasoning (which may contain {..} itself) + the FINAL JSON answer.
+        # The reliable extraction: the LAST brace-balanced JSON object in the string (the answer).
+        # Walk backward from the last '}' to the matching '{'.
+        end = out.rfind("}")
+        if end == -1:
+            return {"translation": out, "terms": {}, "contested": "", "_raw": out}
+        depth = 0
+        for i in range(end, -1, -1):
+            ch = out[i]
+            if ch == "}": depth += 1
+            elif ch == "{": depth -= 1
+            if depth == 0:
+                start = i
+                break
+        else:
+            start = out.rfind("{")
+        candidate = out[start:end+1]
+        parsed = json.loads(candidate, strict=False)
+        if isinstance(parsed, dict):
+            return parsed
+        return {"translation": out, "terms": {}, "contested": "", "_raw": out}
     except Exception:
-        return {"translation": out, "terms": {}, "contested": ""}
+        return {"translation": out, "terms": {}, "contested": "", "_raw": out}
 
 
 def available():

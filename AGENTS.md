@@ -89,6 +89,11 @@ live (SPEC-49 P0/P1 done).
    not progress. Run a gate ONLY when (a) you just changed code/data and must confirm it, or (b) a real
    claim is genuinely in doubt. Otherwise the default is BUILD, not re-verify. When you DO run a suite, run
    it in the background (`nohup`) and keep building — never block on a green checkmark.
+6. **NEVER run a long job with `timeout` in the FOREGROUND.** Any long job (Hermes generation, model calls,
+   big scripts) must go to `nohup ... &` with a log file, and you keep building other work while it runs.
+   Do NOT use `timeout N python3 ...` to block the shell on a single call — that hangs the session. Start
+   it backgrounded (`setsid nohup ... > log 2>&1 &`), note the PID, and move on. Check the log later.
+   `timeout` is only for *quick* sanity checks (seconds), never for the real run.
 
 ### 3.2 Data & safety
 5. **R2 is the source of truth for bytes.** Corpus is backed up at
