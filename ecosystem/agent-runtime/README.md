@@ -11,3 +11,5 @@ Only add when the single-host boundary hurts (SPEC-09). See `../../docs/ECOSYSTE
 
 **Today:** keep it cheap — Hermes Kanban + SQLite + MCP + git worktrees. Do NOT adopt a distributed
 runtime yet.
+
+| ghuntley/loom | Huntley's Rust AI coding agent (PROPRIETARY — code-read reference only; NOT for reuse) |

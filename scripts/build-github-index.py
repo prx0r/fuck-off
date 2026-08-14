@@ -68,6 +68,7 @@ CATALOG = {
   "restatedev/restate": ("agent-runtime", 3, "distributed stateful actors + durable calls"),
   "temporalio/temporal": ("agent-runtime", 3, "mature durable execution (we already run it)"),
   "dbos-inc/dbos-transact-py": ("agent-runtime", 3, "durable execution on Postgres"),
+  "ghuntley/loom": ("agent-runtime", 3, "Huntley's Rust AI coding agent (PROPRIETARY — reference only)"),
   "hatchet-dev/hatchet": ("agent-runtime", 3, "queue/scheduling ergonomics"),
   "pydantic/pydantic-ai": ("agent-runtime", 2, "Python agent shell"),
   "microsoft/autogen": ("agent-runtime", 2, "agent framework (LangGraph-alt)"),

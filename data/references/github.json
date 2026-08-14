@@ -1,5 +1,5 @@
 {
- "count": 74,
+ "count": 75,
  "entries": [
   {
    "owner": "infinitywings",
@@ -440,6 +440,16 @@
    "tier": 3,
    "tier_label": "watch",
    "note": "durable execution on Postgres"
+  },
+  {
+   "owner": "ghuntley",
+   "name": "loom",
+   "repo": "ghuntley/loom",
+   "url": "https://github.com/ghuntley/loom",
+   "category": "agent-runtime",
+   "tier": 3,
+   "tier_label": "watch",
+   "note": "Huntley's Rust AI coding agent (PROPRIETARY \u2014 reference only)"
   },
   {
    "owner": "hatchet-dev",

@@ -140,3 +140,8 @@ imposed.
 ### Reference catalogs (canonical, machine-readable)
 - `data/references/arxiv.json` (32 papers) + `docs/ARXIV-INDEX.md`
 - `data/references/github.json` (74 repos) + `docs/GITHUB-INDEX.md`
+
+## 2026-08-14 (cont.) — added loom (Huntley's Rust agent)
+- Cloned `ghuntley/loom` → `ecosystem/agent-runtime/loom` (24M). **PROPRIETARY license** — reference/
+  code-read only, do not reuse code.
+- Added to GitHub index (75 repos, agent-runtime category, T3 watch) + agent-runtime README.

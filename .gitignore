@@ -11,3 +11,6 @@ data/extracted_md/_errors/
 # python
 __pycache__/
 *.pyc
+
+# loom is a proprietary reference — local-only, not committed
+ecosystem/agent-runtime/loom/
