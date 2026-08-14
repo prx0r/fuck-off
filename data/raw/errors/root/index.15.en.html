@@ -1,0 +1,699 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html> 
+ <head>
+<meta name="generator" content="skyBuilders.com timeLines">
+<link rel="stylesheet" href="https://www.informationphilosopher.com/timelines/PageFooter.css"><script type="text/javascript" language="javascript"><!-- 
+if (typeof SymRealWinOpen == 'function') {
+window.open = SymRealWinOpen;
+}
+//--></script>
+
+<script type="text/javascript" language="javascript">
+var sPageSeriesName = "index.html";
+var sRequestedFileName = "index.15.en.html";
+var sSkyPageID = "1467";
+function mSkyWrite() {
+window.open('/timelines/index.html?skyWrite=True&UserID=3&chosenLocaleCode=en&PageSeriesID=1&PageID=1467&DirPath=%2F', '_blank', 'resizable,menubar,location,toolbar,scrollbars,status,height=600,width=832,left=250,top=50', true);
+}
+var sCurrentlyOverDocument = 1;
+
+function fGetPagePos(oElement, sDimension) {
+  var sPagePos;
+  
+  if (! (oElement = document.getElementById(oElement))) {
+    return 0;
+  }
+  
+  sPagePos = 0;
+  
+  // alert(oElement);
+  while (oElement) {
+    if (typeof(oElement['offset' + sDimension]) != 'undefined') {
+      sPagePos += oElement['offset' + sDimension];
+    }
+    // alert(typeof oElement.offsetParent);
+    if (typeof(oElement.offsetParent) != 'undefined') {
+      oElement = oElement.offsetParent;
+    } else {
+      oElement = null;
+    }
+  }
+  
+  return sPagePos;
+}
+
+function fSkyWritableOver(sDivID, oEvent) {
+  var oDiv;
+  
+  if (oEvent) {
+    sElement = (oEvent.target) ? oEvent.target : oEvent.srcElement;
+    if ((sElement.id == 'skyIncludeEditablePencilImg') || (sElement.id == 'skyIncludeEditableCornerImg')){
+      window.status = 'click to edit';
+    }
+  }
+  
+  // alert(typeof sDivID);
+  if (typeof sDivID == 'string') {
+    sCurrentlyOverDocument = 0;
+    oDiv = document.getElementById(sDivID);
+    oPencil = document.getElementById('skyIncludeEditablePencil');
+    oCorner = document.getElementById('skyIncludeEditableCorner');
+    // sDivTop = oDiv.offsetTop;
+    sDivTop = fGetPagePos(sDivID, 'Top');
+    sDivLeft = fGetPagePos(sDivID, 'Left');
+    sDivWidth = oDiv.offsetWidth;
+    sDivHeight = oDiv.offsetHeight;
+    // alert('div: ' + sDivTop);
+    // alert(sDivWidth);
+    
+    oPencil.style.top = sDivTop + 'px';
+    oPencil.style.left = (sDivLeft + sDivWidth - 21) + 'px';
+    oCorner.style.top = (sDivTop + sDivHeight - 11) + 'px';
+    oCorner.style.left = sDivLeft + 'px';
+    // oSkyIncludeEditable.style.height = '0px';
+    // oSkyIncludeEditable.style.border = '#0000ff dashed 1px';
+    oPencil.style.width = '21px';
+    oPencil.style.height = '19px';
+    oPencil.style.zIndex = '101';
+    oPencil.onmouseover = oDiv.onmouseover;
+    oPencil.onmouseout = oDiv.onmouseout;
+    oPencil.onclick = oDiv.onclick;
+    oCorner.style.width = '10px';
+    oCorner.style.height = '9px';
+    oCorner.style.zIndex = '101';
+    oCorner.onmouseover = oDiv.onmouseover;
+    oCorner.onmouseout = oDiv.onmouseout;
+    oCorner.onclick = oDiv.onclick;
+    // oSkyIncludeEditable.style.display = 'block';
+    
+    // sSkyIncludeEditableTop = oSkyIncludeEditable.style.top;
+    // alert('skyinclude: ' + sSkyIncludeEditableTop);
+    
+    if (0) {
+      oDiv.style.borderWidth = '1px';
+      oDiv.style.borderStyle = 'dashed';
+      oDiv.style.borderColor = '#0000ff';
+    }
+  } else {
+    // sCurrentlyOverDocument = 1;
+  }
+}
+
+function fSkyWritableOut(sDivID) {
+  var oDiv;
+  
+  window.status = '';
+  
+  if (typeof sDivID == 'string') {
+    sCurrentlyOverDocument = 1;
+    // oDiv = document.getElementById(sDivID);
+    // doesn't work in IE: oDiv.style.border = '1px solid transparent';
+    // document.getElementById('skyIncludeEditable').style.display = 'none';
+    document.getElementById('skyIncludeEditablePencil').style.zIndex = '-1';
+    document.getElementById('skyIncludeEditablePencil').style.top = '-100';
+    document.getElementById('skyIncludeEditableCorner').style.zIndex = '-1';
+    document.getElementById('skyIncludeEditableCorner').style.top = '-100';
+    // oDiv.style.border = '1px solid #ffffff';
+  }
+}
+
+function fDocumentOnClick(oEvent) {
+  // alert(sCurrentlyOverDocument);
+  // if (0) {
+  if (sCurrentlyOverDocument == 1) {
+    fSkyWriteInclude(1, 1467, '/', oEvent);
+  }
+}
+
+function fAsOfNow() {
+  document.cookie = 'as_of=; path=/; domain=informationphilosopher.com';
+  document.location.href = '?@=now';
+}
+
+function fSubmitAsOfForm() {
+  oYearInput = document.getElementById('as_of_year');
+  oMonthInput = document.getElementById('as_of_month');
+  oDayInput = document.getElementById('as_of_day');
+  oHourInput = document.getElementById('as_of_hour');
+  oMinuteInput = document.getElementById('as_of_minute');
+  oSecondInput = document.getElementById('as_of_second');
+
+  sAsOf = oYearInput.value + '-' + oMonthInput.value + '-' + oDayInput.value + 'T' + oHourInput.value + ':' + oMinuteInput.value + ':' + oSecondInput.value;
+  document.location.href = '?@=' + sAsOf;
+}
+
+var aAsOfInputs = [
+  'as_of_year',
+  'as_of_month',
+  'as_of_day',
+  'as_of_hour',
+  'as_of_minute',
+  'as_of_second',
+];
+
+function fAsOfOnKeyUp(e) {
+  // Handle the Enter key
+  if (e.key == 'Enter') {
+     fSubmitAsOfForm();
+  }
+}
+
+function fAsOfOnInput(e) {
+  fAsOfNextInput(e.target);
+}
+
+function fAsOfNextInput(oInput) {
+  // Handle giving focus to the next input when this one is at max length
+  sMaxLen = String(oInput.max +'').length;
+
+  if (oInput.value.length == sMaxLen) {
+     // Find which input, if any, is next in the sequence
+     sNextIndex = aAsOfInputs.indexOf(oInput.id) + 1;
+     if (sNextIndex < aAsOfInputs.length) {
+     	oNext = document.getElementById(aAsOfInputs[sNextIndex]);
+	oNext.focus();
+	oNext.select();
+     }
+  }
+}
+
+function fDismissAsOfForm() {
+  var oDiv = document.getElementById('as_of_div');
+  if (oDiv) {
+    oDiv.style.display = 'none';
+  }
+}
+
+function fOpenAsOfForm() {
+  var oDiv = document.getElementById('as_of_div');
+  if (oDiv) {
+    oDisplaySpan = document.getElementById('as_of_display');
+    oYearInput = document.getElementById('as_of_year');
+    oMonthInput = document.getElementById('as_of_month');
+    oDayInput = document.getElementById('as_of_day');
+    oHourInput = document.getElementById('as_of_hour');
+    oMinuteInput = document.getElementById('as_of_minute');
+    oSecondInput = document.getElementById('as_of_second');
+  } else {
+    var oDiv = document.createElement('div');
+    oDiv.id = 'as_of_div';
+
+    var oForm = document.createElement('form');
+    oForm.style = 'margin-block-end: 0;';
+    oForm.id = 'as_of_form';
+    oForm.name = 'as_of_form';
+    oForm.onsubmit = fSubmitAsOfForm;
+    oDiv.appendChild(oForm);
+
+    var oGrid = document.createElement('div');
+    oGrid.style = 'display: grid; grid-template-columns: max-content min-content min-content min-content min-content min-content 1fr;';
+    oGrid.ondblclick = null;
+    oForm.appendChild(oGrid);
+
+    var oHeader = document.createElement('div');
+    oHeader.style = 'grid-column: 1; grid-row: 1; margin-top: 7px; padding-right: 5px;';
+    oHeader.appendChild(document.createTextNode('Showing page as of '));
+    oDisplaySpan = document.createElement('span');
+    oDisplaySpan.id = 'as_of_display';
+    oHeader.appendChild(oDisplaySpan)
+    oHeader.appendChild(document.createTextNode('. Choose date and time:'));
+    oGrid.appendChild(oHeader);
+
+    var oYearDiv = document.createElement('div');
+    oYearDiv.className = 'as_of_input_div';
+    oYearDiv.style = 'grid-column: 2; grid-row: 1;';
+    oGrid.appendChild(oYearDiv);
+
+    var oYearInput = document.createElement('input');
+    oYearInput.id = 'as_of_year';
+    oYearInput.type = 'number';
+    oYearInput.min = 1970;
+    oYearInput.max = 9999;
+    oYearInput.oninput = fAsOfOnInput;
+    oYearInput.onkeyup = fAsOfOnKeyUp;
+    oYearDiv.appendChild(oYearInput);
+
+    oYearDiv.appendChild(document.createTextNode('-'));
+
+    var oMonthDiv = document.createElement('div');
+    oMonthDiv.className = 'as_of_input_div';
+    oMonthDiv.style = 'grid-column: 3; grid-row: 1;';
+    oGrid.appendChild(oMonthDiv);
+
+    var oMonthInput = document.createElement('input');
+    oMonthInput.id = 'as_of_month';
+    oMonthInput.type = 'number';
+    oMonthInput.min = 1;
+    oMonthInput.max = 12;
+    oMonthInput.oninput = fAsOfOnInput;
+    oMonthInput.onkeyup = fAsOfOnKeyUp;
+    oMonthDiv.appendChild(oMonthInput);
+
+    oMonthDiv.appendChild(document.createTextNode('-'));
+
+    var oDayDiv = document.createElement('div');
+    oDayDiv.className = 'as_of_input_div';
+    oDayDiv.style = 'grid-column: 4; grid-row: 1; padding-right: 5px';
+    oGrid.appendChild(oDayDiv);
+
+    var oDayInput = document.createElement('input');
+    oDayInput.id = 'as_of_day';
+    oDayInput.type = 'number';
+    oDayInput.min = 1;
+    oDayInput.max = 31;
+    oDayInput.oninput = fAsOfOnInput;
+    oDayInput.onkeyup = fAsOfOnKeyUp;
+    oDayDiv.appendChild(oDayInput);
+
+    var oHourDiv = document.createElement('div');
+    oHourDiv.className = 'as_of_input_div';
+    oHourDiv.style = 'grid-column: 5; grid-row: 1;';
+    oGrid.appendChild(oHourDiv);
+
+    var oHourInput = document.createElement('input');
+    oHourInput.id = 'as_of_hour';
+    oHourInput.type = 'number';
+    oHourInput.min = 0;
+    oHourInput.max = 23;
+    oHourInput.oninput = fAsOfOnInput;
+    oHourInput.onkeyup = fAsOfOnKeyUp;
+    oHourDiv.appendChild(oHourInput);
+
+    oHourDiv.appendChild(document.createTextNode(':'));
+
+    var oMinuteDiv = document.createElement('div');
+    oMinuteDiv.className = 'as_of_input_div';
+    oMinuteDiv.style = 'grid-column: 6; grid-row: 1;';
+    oGrid.appendChild(oMinuteDiv);
+
+    var oMinuteInput = document.createElement('input');
+    oMinuteInput.id = 'as_of_minute';
+    oMinuteInput.type = 'number';
+    oMinuteInput.min = 0;
+    oMinuteInput.max = 59;
+    oMinuteInput.oninput = fAsOfOnInput;
+    oMinuteInput.onkeyup = fAsOfOnKeyUp;
+    oMinuteDiv.appendChild(oMinuteInput);
+
+    oMinuteDiv.appendChild(document.createTextNode(':'));
+
+    var oSecondDiv = document.createElement('div');
+    oSecondDiv.className = 'as_of_input_div';
+    oSecondDiv.style = 'grid-column: 7; grid-row: 1;';
+    oGrid.appendChild(oSecondDiv);
+
+    var oSecondInput = document.createElement('input');
+    oSecondInput.id = 'as_of_second';
+    oSecondInput.type = 'number';
+    oSecondInput.min = 0;
+    oSecondInput.max = 59;
+    oSecondInput.oninput = fAsOfOnInput;
+    oSecondInput.onkeyup = fAsOfOnKeyUp;
+    oSecondDiv.appendChild(oSecondInput);
+
+    var oSecondDiv = document.createElement('div');
+    oSecondDiv.className = 'as_of_input_div';
+    oSecondDiv.style = 'grid-column: 7; grid-row: 1;';
+    oGrid.appendChild(oSecondDiv);
+
+    var oButtonsDiv = document.createElement('div');
+    oButtonsDiv.style = 'grid-column: 8; grid-row: 1 /3; padding-top: 2px; text-align: right;';
+    oEnterButton = document.createElement('button');
+    oEnterButton.style = 'margin-bottom: 5px; margin-right: 5px;';
+    oEnterButton.onclick = fSubmitAsOfForm;
+    oEnterButton.appendChild(document.createTextNode('Enter'));
+    oButtonsDiv.appendChild(oEnterButton);
+    oNowButton = document.createElement('button');
+    oNowButton.style = 'margin-bottom: 5px;';
+    oNowButton.onclick = fAsOfNow;
+    oNowButton.appendChild(document.createTextNode('Now'));
+    oButtonsDiv.appendChild(oNowButton);
+    oButtonsDiv.appendChild(document.createElement('br'));
+    oDismissButton = document.createElement('button');
+    oDismissButton.onclick = fDismissAsOfForm;
+    oDismissButton.appendChild(document.createTextNode('Dismiss'));
+    oButtonsDiv.appendChild(oDismissButton);
+    oGrid.appendChild(oButtonsDiv);
+
+    var oErrorHeader = document.createElement('div');
+    oErrorHeader.style = 'grid-column: 1; grid-row: 2; padding-right: 5px; font-weight: bold;';
+    oErrorHeader.appendChild(document.createTextNode(''));
+    oGrid.appendChild(oErrorHeader);
+
+    var oYearLabelDiv = document.createElement('div');
+    oYearLabelDiv.className = 'as_of_label';
+    oYearLabelDiv.style = 'grid-column: 2;';
+    oGrid.appendChild(oYearLabelDiv);
+    oYearLabelDiv.appendChild(document.createTextNode('Year'));
+    oYearLabelDiv.appendChild(document.createElement('br'));
+    oYearLabelDiv.appendChild(document.createTextNode('YYYY'));
+
+    var oMonthLabelDiv = document.createElement('div');
+    oMonthLabelDiv.className = 'as_of_label';
+    oMonthLabelDiv.style = 'grid-column: 3;';
+    oGrid.appendChild(oMonthLabelDiv);
+    oMonthLabelDiv.appendChild(document.createTextNode('Month'));
+    oMonthLabelDiv.appendChild(document.createElement('br'));
+    oMonthLabelDiv.appendChild(document.createTextNode('01-12'));
+
+    var oDayLabelDiv = document.createElement('div');
+    oDayLabelDiv.className = 'as_of_label';
+    oDayLabelDiv.style = 'grid-column: 4;';
+    oGrid.appendChild(oDayLabelDiv);
+    oDayLabelDiv.appendChild(document.createTextNode('Day'));
+    oDayLabelDiv.appendChild(document.createElement('br'));
+    oDayLabelDiv.appendChild(document.createTextNode('01-31'));
+
+    var oHourLabelDiv = document.createElement('div');
+    oHourLabelDiv.className = 'as_of_label';
+    oHourLabelDiv.style = 'grid-column: 5;';
+    oGrid.appendChild(oHourLabelDiv);
+    oHourLabelDiv.appendChild(document.createTextNode('Hour'));
+    oHourLabelDiv.appendChild(document.createElement('br'));
+    oHourLabelDiv.appendChild(document.createTextNode('00-23'));
+
+    var oMinuteLabelDiv = document.createElement('div');
+    oMinuteLabelDiv.className = 'as_of_label';
+    oMinuteLabelDiv.style = 'grid-column: 6;';
+    oGrid.appendChild(oMinuteLabelDiv);
+    oMinuteLabelDiv.appendChild(document.createTextNode('Minute'));
+    oMinuteLabelDiv.appendChild(document.createElement('br'));
+    oMinuteLabelDiv.appendChild(document.createTextNode('00-59'));
+
+    var oSecondLabelDiv = document.createElement('div');
+    oSecondLabelDiv.className = 'as_of_label';
+    oSecondLabelDiv.style = 'grid-column: 7;';
+    oGrid.appendChild(oSecondLabelDiv);
+    oSecondLabelDiv.appendChild(document.createTextNode('Second'));
+    oSecondLabelDiv.appendChild(document.createElement('br'));
+    oSecondLabelDiv.appendChild(document.createTextNode('00-59'));
+
+    document.body.insertBefore(oDiv, document.body.firstChild);
+  }
+
+  oYearInput.value = '2026';
+  oMonthInput.value = '07';
+  oDayInput.value = '29';
+  oHourInput.value = '20';
+  oMinuteInput.value = '19';
+  oSecondInput.value = '27';
+
+  oDisplaySpan.innerText = oYearInput.value + '-' + oMonthInput.value + '-' + oDayInput.value + ' ' + oHourInput.value + ':' + oMinuteInput.value + ':' + oSecondInput.value;
+
+  oDiv.style.display = 'block';
+
+  oYearInput.focus();
+  oYearInput.select();
+}
+
+function fDocumentOnDblClick(oEvent) {
+  fOpenAsOfForm();
+}
+
+function fDocumentOnKeyPress(oEvent) {
+  // The @ symbol
+  if ((oEvent.shiftKey) && (oEvent.code == 'Digit2')) {
+    fOpenAsOfForm();
+  }
+}
+
+document.addEventListener('DOMContentLoaded', function(event) {
+  if ('' != '') {
+     document.cookie = 'as_of=; path=/; domain=informationphilosopher.com';
+     fOpenAsOfForm();
+  }
+});
+
+
+function fSkyWriteInclude(sPageSeriesID, sPageID, sDirPath, oEvent) {
+var sIndicatorClicked, sControlKeyPressed, sShiftKeyPressed;
+var sElement;
+
+// check for shift or control key depressed
+oEvent = (oEvent) ? oEvent : (window.event) ? window.event : ''
+
+sIndicatorClicked = 0;
+sControlKeyPressed = 0;
+sShiftKeyPressed = 0;
+if (oEvent) {
+  sModifierPressed = '';
+  
+  sElement = (oEvent.target) ? oEvent.target : oEvent.srcElement;
+  // alert(sElement.id);
+  
+  if ((sElement.id == 'skyIncludeEditablePencilImg') || (sElement.id == 'skyIncludeEditableCornerImg')){
+    sIndicatorClicked = 1;
+  }
+  
+  if (oEvent.which) {
+    if (oEvent.ctrlKey) {
+      sControlKeyPressed = 1;
+    }
+  } else {
+    if (oEvent.modifiers) {
+      if (oEvent.modifiers && oEvent.CTRL_MASK) {
+        // sControlKeyPressed = oEvent.modifiers;
+        sControlKeyPressed = 1;
+      }
+    } else {
+      if (oEvent.ctrlKey) {
+        sControlKeyPressed = 1;
+      }
+    }
+  }
+  
+  if (oEvent.which) {
+    if (oEvent.shiftKey) {
+      sShiftKeyPressed = 1;
+    }
+  } else {
+    if (oEvent.modifiers) {
+      if (oEvent.modifiers && oEvent.SHIFT_MASK) {
+        // sShiftKeyPressed = oEvent.modifiers;
+        sShiftKeyPressed = 1;
+      }
+    } else {
+      if (oEvent.shiftKey) {
+        sShiftKeyPressed = 1;
+      }
+    }
+  }
+}
+
+// if shift or control key pressed
+if ((sIndicatorClicked) || (sControlKeyPressed == 1) || (sShiftKeyPressed == 1)) {
+  // alert('pressed');
+  window.open('https://www.informationphilosopher.com/timelines/index.html?skyWrite=True&PageSeriesID=' + sPageSeriesID + '&PageID=' + sPageID + '&DirPath=' + sDirPath, '_blank', 'menubar,toolbar,location,resizable,scrollbars,status,height=600,width=832,left=250,top=50', true);
+}
+}
+    
+</script>
+  <title>The Information Philosopher - dedicated to the new information philosophy</title>
+  <meta type="content" content="The Information Philosopher - dedicated to the new information philosophy">
+  <style type="text/css">
+  #cc {
+  margin-top:2px;
+  }
+  </style>
+ </head>
+ <body>
+    <div class="chaptertitle">The Information Philosopher</div>
+    
+    <div class="bodytext">
+    In a single decade of the mid-twentieth century, the word <a href="/introduction/information/">information</a> was transformed from a synonym for <a href="/knowledge/">knowledge</a> into a mathematical, physical, and biological quantity that can be measured and studied scientifically. 
+<p/>
+In the early 1940s, digital computers were invented that could run a stored program to manipulate stored data. In the late 1940s, the problem of communicating digital data signals in the presence of <a href="/freedom/noise.html">noise</a> was first explored. And in the early 1950s, inheritable characteristics were shown to be transmitted from generation to generation in a digital code.
+<p/>
+Biological systems are different from purely physical systems primarily because they create, store, and communicate information. Living things store information in a memory of the past that they use to shape the future. Fundamental physical objects like atoms have no history. 
+<p/>
+Human beings differ from other animals in their extraordinary ability to communicate information and store it in external artifacts. In the last decade the amount of external information per person has grown to exceed an individual's purely biological information. 
+<p/>
+Since the 1950's, the science of human behavior has changed dramatically from a "black box" model of a mind that started out as a "blank slate" conditioned by environmental stimuli. The new mind model contains many "functions" implemented with stored programs, all of them information structures in the brain. The new cognitive science likens the brain to a computer, with some programs and data inherited and others developed as appropriate reactions to experience.
+<p/>
+Information philosophy is an exploration of some classical problems in philosophy from the standpoint of information, which may provide deeper and more fundamental insights than is possible with the logic and language approach of modern analytic philosophy. 
+<p/>
+<a href="/solutions/philosophers/kant/">Immanuel Kant</a> asked three great questions of his new <em>transcendental</em> philosophy - <br/>
+"What can I know?," &nbsp;"What ought I to do?," and &nbsp;"What can I hope?" 
+<p/>
+Kant imagined that his philosophy could also provide answers to other fundamental questions,  such as God, Freedom, and Immortality.
+<p/>
+By exploring the origins of structure in the universe, information philosophy <em>transcends</em> humanity and even life itself, though it is not a mystical metaphysical transcendence.
+<p/>
+Information philosophy uncovers the providential creative process working in the universe <br/>
+to which we owe our existence, and therefore perhaps our reverence.
+<p/>
+Information philosophy is an idealistic philosophy, a process philosophy, and a systematic philosophy, the first in many decades. It provides important new insights into the Kantian transcendental problems of <a href="/knowledge/">epistemology</a>, <a href="/value/">ethics</a>, <a href="/freedom/">freedom of the will</a>, <a href="/value/ergod/">god</a>, and <a href="/problems/immortality/">immortality</a>, as well as the <a href="/problems/mind_body/">mind-body problem</a>, <a href="/problems/consciousness/">consciousness</a>, and the <a href="/problems/evil/">problem of evil</a>.
+ 
+    </div>
+<hr width="50%">
+    <div class="bodytext">
+    Information Philosophers, as do all who would make an advance in knowledge, stand on the shoulders of giant <a href="/solutions/philosophers/">philosophers</a> and <a href="/solutions/scientists/">scientists</a> of the past and present as we try to make modest advances in the great philosophical problems of <a href="/knowledge/">knowledge</a>, <a href="/value/">value</a>, and <a href="/freedom/">freedom</a>. 
+<p/>
+In the left-hand column of all pages are links to over a hundred philosophers and dozens of scientists who have made contributions to these great problems. Their web pages include the original contributions of each thinker, with examples of their thought, usually in their own words, and where possible in their original languages as well. 
+    </div>
+<hr width="50%">
+    <div class="bodytext">
+Traditional philosophy is a story about <em>discovery</em> of timeless truths, laws of nature, a block universe in which the future is a logical extension of the past, a primal moment of creation that starts a causal chain in which everything can be foreknown by an omniscient being. Traditional philosophy seeks knowledge in logical reasoning with clear and unchanging concepts. 
+<p/>
+Its guiding lights are thinkers like Parmenides, <a href="/solutions/philosophers/plato/">Plato</a>, and <a href="/solutions/philosophers/kant/">Kant</a>, who sought unity and identity, being and universals. 
+<p/>
+In traditional philosophy, the total amount of <a href="/introduction/information/">information</a> in the conceptually closed universe is static, a physical constant of nature. The laws of nature allow no exceptions, they are perfectly causal. <a href="/freedom/chance.html">Chance</a> and change - in a deep philosophical sense - are <em>illusions</em>.
+<p/>
+Information philosophy, by contrast, is a story about <em>invention</em>, about novelty, about biological emergence and new beginnings unseen and unseeable beforehand, a past that is fixed but an ambiguous future that can be shaped by teleological changes in the present. 
+<p/>
+Its model thinkers are Heraclitus, Protagoras, <a href="/solutions/philosophers/aristotle/">Aristotle</a>, and <a href="/solutions/philosophers/hegel/">Hegel</a>, for whom time, place, and particular situations mattered. 
+<p/>
+Information philosophy is built on <em>probabilistic</em> laws of nature. The challenge for information philosophy is to explain the emergence of order from chaos, to account for the phenomenal success of deterministic laws when the material substrate of the universe is irreducibly chaotic, noisy, and random, and to understand the concepts of truth, necessity, and certainty in a universe of chance, contingency, and uncertainty. 
+<p/>
+Determinism and the exceptionless causal and deterministic laws of classical physics are <a href="/articles/illusion_of_determinism/">the real <em>illusions</em></a>. Determinism is <em>information-preserving</em>. In an ideal deterministic <a href="/solutions/scientists/laplace/">Laplacean</a> universe, the present state of the universe is implicitly contained in its earliest moments. 
+<p/>
+In a random noisy environment, how can anything be regular and appear determined? Macroscopic consequences of the law of large numbers average out microscopic quantum fluctuations to provide us with a very "<a href="/freedom/adequate_determinism.html">adequate determinism</a>." 
+<p/>
+Information Philosophy is an account of continuous information creation, a story about the origin and evolution of the universe, of life, and of intelligence from an original chaos that is still present in the microcosmos. More than anything else, it is the creation and maintenance of information that distinguishes biology from physics and chemistry. 
+<p/>
+Living things store information in a memory of the past that they use to shape the future.
+<p/>
+Information Philosophy is a story about <a href="/knowledge/">knowledge</a> and ignorance, about <a href="/value/">good</a> and evil, about <a href="/freedom/">freedom</a> and determinism.
+<p/>
+ 
+<p/>
+There is a great battle going on - between originary chaos and emergent cosmos. The struggle is between destructive chaotic processes that drive a microscopic underworld of random events <em>versus</em> constructive cosmic processes that create information structures with extraordinary emergent properties that include adequately determined scientific laws - <br/>
+despite, and in many cases making use of, the microscopic chaos. 
+<p/>
+Created information structures range from galaxies, stars, and planets, to molecules, atoms, and subatomic particles. They are the structures of terrestrial life from viruses and bacteria to sensible and intelligent beings. And they are the constructed ideal world of thought, of intellect, of spirit, including the laws of nature, in which we humans play a role as co-creator.   
+<p/>
+Based on insights into these cosmic creation processes, the Information Philosopher proposes refinements of three ideas about perennial problems in philosophy. They are likely to change some well-established philosophical positions. Even more important, they may reconcile idealism and materialism and provide a new view of how humanity fits into the universe. 
+<p/>
+
+<p/>
+The three ideas are 
+<ul>
+  <li> An explanation or epistemological model of <a href="/knowledge/">knowledge</a> formation and communication. Knowledge and information are neither matter nor energy, but they require matter for expression and energy for communication. They <em>seem</em> to be <em>meta</em>physical.
+<blockquote>
+Briefly, we <em>identify</em> knowledge with actionable information in the brain-mind. We <em>justify</em> knowledge by behavioral studies that demonstrate the existence of information structures implementing functions in the brain. And we <em>verify</em> knowledge scientifically. 
+<!-- <p/>
+We find logic and language philosophy ambiguous and inadequate for the problem of knowledge. Information philosophy is a new foundation for philosophy that resolves some ambiguities of analytic language philosophy. -->
+</blockquote>
+<p/>
+</li>
+  <li> A basis for objective <a href="/value/">value</a> beyond humanism and bioethics, grounded in the fundamental information creation processes behind the structure and evolution of the universe and the emergence of life.
+<blockquote>
+Briefly, we find positive value (or good) in <a href="/introduction/information/">information</a> structures. We see negative value (or evil) in disorder and entropy tearing down such structures. We call energy with low entropy "<a href="/value/ergo/">Ergo</a>" and call anti-entropic processes "ergodic."
+<blockquote>
+Our first categorical imperative is then "act in such a way as to create, maintain, and preserve information as much as possible against destructive entropic processes." 
+<p/>
+Our second ethical imperative is "share knowledge/information to the maximum extent." Like love, our own information is not diminished when we share it with others
+<p/>
+Our third moral imperative is "educate (share the knowledge of what is right) rather than punish." Knowledge is virtue. Punishment wastes human capital and provokes revenge. 
+</blockquote>
+</blockquote>
+<p/>
+</li>
+  <li> A <a href="/freedom/cogito/">scientific model</a> for <a href="/freedom/">free will</a> and <a href="/freedom/creativity.html">creativity</a> informed by the complementary roles of microscopic <a href="/freedom/chance.html">randomness</a> and <a href="/freedom/adequate_determinism.html">adequate macroscopic determinism</a> in a <a href="/freedom/cogito/index.html#temporal">temporal sequence</a> that generates <a href="/introduction/information/">information</a>.
+<blockquote>
+Briefly, we <a href="/freedom/conceptual_analysis.html">separate</a> "free" and "will" in a <a href="/freedom/two-stage_models.html">two-stage process</a> - first the free generation of <a href="/freedom/possibilities.html">alternative possibilities</a> for action, then an <a href="/freedom/adequate_determinism.html">adequately determined decision</a> by the will. We call this <a href="/modest_libertarianism.html">modest libertarian</a> view our <a href="/freedom/cogito/">Cogito model</a>.
+<p/>
+This model is a <em>synthesis</em> of <a href="/freedom/adequate_determinism.html">adequate determinism</a> and <a href="/modest_libertarianism.html">modest libertarianism</a>, a <em>coherent</em> and <em>complete</em> <a href="/freedom/compatibilism.html">compatibilism</a> that reconciles <br/>free will with <em>both</em> determinism and indeterminism.
+<p/>
+Because it makes free will compatible with <i>both</i> a form of determinism (really <i>determination</i>) and with an indeterminism that is limited and controlled by the mind, the leading Libertarian philosopher <a href="/solutions/philosophers/kane/">Bob Kane</a> suggests we call this model "<a href="/tutorials/free_will" target="new">Comprehensive Compatibilism</a>."
+<p/>
+The problem of free will cannot be solved by logic, language, or even by physics. Man is not a machine and the mind is not a computer. <br/>Free will is a biophysical information problem.
+</blockquote>
+<p/>
+</li>
+</ul>
+<p/>
+All three ideas depend on understanding modern cosmology, physics, biology, and neuroscience, but especially the intimate connection between quantum mechanics and the second law of thermodynamics that allows for the creation of new information structures.
+<p/>
+All three are based on the theory of information, which alone can establish the existential status of <em>ideas</em>, not just the ideas of knowledge, value, and freedom, but other-worldly speculations in natural religion like God and immortality. 
+<p/>
+All three have been anticipated by earlier thinkers, but can now be defended on strong empirical grounds. Our goal is less to innovate than to reach the best possible consensus among philosophers living and dead, an intersubjective agreement between philosophers that is the surest sign of a knowledge advance in natural science. 
+<p/>
+This Information Philosopher website aims to be an open resource for the best thinking of <a href="/solutions/philosophers/">philosophers</a> and <a href="/solutions/scientists/">scientists</a> on these three key ideas and a number of lesser ideas that remain challenging problems in philosophy - on which information philosophy can shed some light.
+    <p/>
+Among these are the <a href="/problems/mind_body/">mind-body problem</a> (the mind can be seen as the realm of information in its free thoughts, the body a biological system creating and maintaining information); the common sense intuition of a cosmic creative process often anthropomorphized as a <a href="/value/ergod/">God or divine Providence</a>; the <a href="/problems/evil/">problem of evil</a> (chaotic entropic forces are the devil incarnate), and the "hard problem" of <a href="/problems/consciousness/">consciousness</a> (agents responding to their environment based on information processing).  
+<p/>
+Philosophy is the love of knowledge or wisdom. Information philosophy (<em>I-Phi</em> or <em>ΙΦ</em>) quantifies knowledge as actionable information. 
+<p/>
+    What is <a href="/introduction/information/"><em>information</em></a> that merits its use as the foundation of a new method of inquiry? 
+<p/>
+Abstract information is neither matter nor energy, yet it needs matter for its concrete embodiment and energy for its communication. Information is the modern <em>spirit</em>, the <em>ghost in the machine</em>.
+<p/>
+Over 100 years ago, <a href="/solutions/philosophers/russell/">Bertrand Russell</a>, with the help of <a href="/solutions/philosophers/moore/">G. E. Moore</a>, <a href="/solutions/philosophers/whitehead/">Alfred North Whitehead</a>, and <a href="/solutions/philosophers/wittgenstein/">Ludwig Wittgenstein</a>, proposed logic and language as the proper foundational basis, not only of philosophy, but also of mathematics and science.
+<p/>
+    Information is a better abstract basis for philosophy, and for science as well, capable of answering questions about metaphysics (the ontology of things themselves), epistemology (the existential status of ideas and how we know them), and idealism itself.  
+<p/>
+When information is stored in any structure, two fundamental physical processes occur. First is a collapse of a quantum mechanical wave function. Second is a local decrease in the entropy corresponding to the increase in information. Entropy greater than that must be transferred away to satisfy the second law.
+<p/>
+These quantum level processes are susceptible to <a href="/freedom/noise.html">noise</a>. Information stored may have errors. When information is retrieved, it is again susceptible to noise, This may garble the information content. In information science, noise is generally the enemy of information. But some noise is the friend of freedom, since it is the source of novelty, of <a href="/freedom/creativity.html">creativity</a> and invention, and of variation in the biological gene pool.
+<p/>
+Biological systems have maintained and increased their invariant information content over billions of generations, coming as close to immortality as living things can. Humans increase our knowledge of the external world, despite logical, mathematical, and physical uncertainty, external information that can in principle be immortal. Both do it in the face of noise. Both do it with sophisticated error detection and correction schemes.  The scheme we use to correct human knowledge is <em>science</em>, a combination of <a href="/freedom/">freely invented</a> theories and <a href="/freedom/adequate_determinism.html">adequately determined</a> experiments.
+    </div>
+    
+
+<hr>
+    
+    <div class="bodytext">
+The Information Philosopher website is an exercise in information sharing. It has seven parts, each with multiple chapters. Navigation at the bottom of each page will take you to the next or previous part or chapter. <p/>
+Teacher and Scholar links display additional material on some pages, and reveal hidden footnotes on some pages. The footnotes themselves are in the Scholar section.
+<p/>
+Our goal is for the website to contain all the great philosophical discussions of our three ideas, with primary source materials (in the original languages) where possible.
+<p/>
+All original content on Information Philosopher is available for your use, without requesting <br/>permission, under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0">Creative Commons Attribution License</a>.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img id="cc" alt="cc by" src="/images/CC.png" border="0">
+<p/>
+Copyrights for all excerpted and quoted works remain with their authors and publishers. 
+    </div>
+
+    <hr color="#CCCCEE">
+
+    <table class="footernav" width="100%">
+      <tbody>
+        <tr>
+          <td width="14%" align="center"><a href="/introduction/">Introduction</a></td> 
+          <td width="14%" align="center"><a href="/knowledge/">Knowledge</a></td>
+          <td width="14%" align="center"><a href="/value/">Value</a></td> 
+          <td width="14%" align="center"><a href="/freedom/">Freedom</a></td>
+          <td width="14%" align="center"><a href="/problems/">Problems</a></td> 
+          <td width="14%" align="center"><a href="/solutions/">Solutions</a></td>
+          <td width="14%" align="center"><a href="/afterwords/">Afterword</a></td> 
+        </tr>
+      </tbody>
+    </table>
+
+<div class="reader_level_1">
+<hr>
+ <div class="sectiontitle">For Teachers</div>
+   <div class="breadcrumbs">To hide this material, click on the Normal link.</div>
+
+<div class="bodytext">
+A web page may contain two extra levels of material. The Normal page is material for newcomers and students of the Information Philosophy. Two hidden levels contain material for teachers (e.g., secondary sources) and for scholars (e.g., footnotes, and original language quotations). 
+</div>
+
+  Teacher materials on a page will typically include references to secondary sources and more extended explanations of the concepts and arguments. Secondary sources will include books, articles, and online resources. Extended explanations should be more suitable for teaching others about the core philosophical ideas, as seen from an information perspective.
+<p/>
+</div>
+
+<div class="reader_level_2">
+<hr>
+ <div class="sectiontitle">For Scholars</div>
+   <div class="breadcrumbs">To hide this material, click on the Teacher or Normal link.</div>
+  Scholarly materials will generally include more primary sources, more in-depth technical and scientific discussions where appropriate, original language versions of quotations, and references to all sources. 
+<p/>
+  Footnotes for a page appear in the Scholar materials. The footnote indicators themselves are only visible in Scholar mode.
+<p/>
+</div>
+
+<div id="skyFooter1467" class="skyFooter">
+
+<script type="text/javascript" language="javascript">
+document.onclick = fDocumentOnClick;
+document.ondblclick = fDocumentOnDblClick;
+document.onkeypress = fDocumentOnKeyPress;
+document.onmouseover = fSkyWritableOver;
+</script>
+<div class="skyFooterText">
+</div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,1326 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head>
+
+        
+    <link href="/css/base_menu.css" rel="stylesheet" type="text/css">
+    <link rel="shortcut icon" href="/favicon.ico"> 
+   
+        
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="description" content="Information Philosopher is dedicated to the new Information Philosophy, with explanations for Freedom, Values, and Knowledge.">
+    <meta name="keywords" content="Information, Philosopher, Philosophy, Freedom, Values, Knowledge, Demons, Determinism, Dogmas, Dualism, Certainty, Uncertainty, Indeterminacy, Entropy, Randomness, Microcosmos, Macrocosmos, Quantum Mechanics, Thermodynamics, Second Law ">
+    
+    <!-- You can use Open Graph tags to customize Facebook link previews.
+    Learn more: https://developers.facebook.com/docs/sharing/webmasters
+    Required properties are:
+      og:url, og:type, og:title, og:description, og:image, and fb:app_id
+    If og:image is not used, Facebook will notice the Twitter meta tags below 
+    and use a twitter icon for the page's image, which is undesirable, so I put 
+    in an empty og:image for now.
+    <meta property="og:image" content="http://informationphilosopher.com/images/Big_Bang_Timeline400.png">
+   
+    <meta property="og:image" content="">
+
+    <meta name="twitter:site" value="@infophilosopher" />
+    <meta property="twitter:url" content="https://informationphilosopher.com" />
+    <meta property="twitter:title" content="dedicated to the new information philosophy" />
+    <meta property="twitter:description" content="Problems in Philosophy and Physics Solved?" />
+ 
+    <script>window.twttr = (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0],
+        t = window.twttr || {};
+      if (d.getElementById(id)) return t;
+      js = d.createElement(s);
+      js.id = id;
+      js.src = "https://platform.twitter.com/widgets.js";
+      fjs.parentNode.insertBefore(js, fjs);
+
+      t._e = [];
+      t.ready = function(f) {
+        t._e.push(f);
+      };
+      return t;
+    }(document, "script", "twitter-wjs"));</script>
+     -->
+    <style>
+      #search_bar {
+        height: 24px;
+      }
+      #social_cluster {
+      	padding-right: 7px;
+     	padding-top: 3px;
+        float: right;
+        text-align: right;
+        width: 220px;
+      }
+      // #social_cluster div {
+      //   display: inline-block;
+      //   padding-bottom: 2px;
+      // }
+      .social_button {
+        float: right;
+        display: inline-block;
+        padding-top: 2px;
+        padding-bottom: 2px;
+      }
+      #social_links {
+      	clear: both;
+        font-size: 7pt;
+        color: #000099;
+      }
+      #social_links img {
+      	vertical-align: middle;  
+      }
+    </style>
+
+    <script language="javascript" type="text/javascript" src="/scripts/global-menus.js"></script>
+    
+    
+    
+    <style type="text/css">
+    .reader_level_0, .div_0 {
+      display: block;
+    }
+    .reader_level_1, .div_1 {
+      display: none;
+    }
+    .reader_level_2, .div_2 {
+      display: none;
+    }
+    .reader_level_0_span, .span_0 {
+      display: inline;
+    }
+    .reader_level_1_span, .span_1 {
+      display: none;
+    }
+    .reader_level_2_span, .span_2 {
+      display: none;
+    }
+    #reader_level_0_link {
+      
+  color: #000000;
+  font-weight: bold;
+  text-decoration: none;
+  cursor: text;    }
+    #reader_level_1_link {
+          }
+    #reader_level_2_link {
+          }
+    </style>
+    <script language="javascript" type="text/javascript">
+    function getElementsByClass(searchClass,node,tag) {
+      // thanks to Dustin Diaz
+      var classElements = new Array();
+      if ( node == null )
+        node = document;
+      if ( tag == null )
+        tag = '*';
+      var els = node.getElementsByTagName(tag);
+      var elsLen = els.length;
+      var pattern = new RegExp("(^|\s)"+searchClass+"(\s|$)");
+      for (i = 0, j = 0; i < elsLen; i++) {
+        if ( pattern.test(els[i].className) ) {
+          classElements[j] = els[i];
+          j++;
+        }
+      }
+      return classElements;
+    }
+    function fSetClassDisplay(sClass, sDisplay) {
+      var aClassElement;
+      aClassElement = getElementsByClass(sClass, document, "*");
+      // alert(aClassElement.length);
+      for ( i = 0; i < aClassElement.length; i++ ) {
+        aClassElement[i].style.display = sDisplay;
+      }
+    }
+    function fDimLink(sId) {
+      document.getElementById(sId).style.color = "#000000";
+      document.getElementById(sId).style.fontWeight = "bold";
+      document.getElementById(sId).style.textDecoration = "none";
+    }
+    function fLightLink(sId) {
+      document.getElementById(sId).style.color = "#3333ff";
+      document.getElementById(sId).style.fontWeight = "normal";
+      document.getElementById(sId).style.textDecoration = "underline";
+    }
+    function fSetReaderLevel(sReaderLevel) {
+      var sLevel0, sLevel1, sLevel2, sLevel0Span, sLevel1Span, sLevel2Span;
+      // set cookie
+      document.cookie = "ReaderLevel=" + sReaderLevel + "; expires=1785360618; path=/";
+      // set styles
+      if (sReaderLevel == 0) {
+        fDimLink("reader_level_0_link");
+        sLevel0 = "block";
+        sLevel1 = "none";
+        sLevel2 = "none";
+        sLevel0Span = "inline";
+        sLevel1Span = "none";
+        sLevel2Span = "none";
+      } else {
+        fLightLink("reader_level_0_link");
+      }
+      if (sReaderLevel == 1) {
+        fDimLink("reader_level_1_link");
+        sLevel0 = "block";
+        sLevel1 = "block";
+        sLevel2 = "none";
+        sLevel0Span = "inline";
+        sLevel1Span = "inline";
+        sLevel2Span = "none";
+      } else {
+        fLightLink("reader_level_1_link");
+      }
+      if (sReaderLevel == 2) {
+        fDimLink("reader_level_2_link");
+        sLevel0 = "block";
+        sLevel1 = "block";
+        sLevel2 = "block";
+        sLevel0Span = "inline";
+        sLevel1Span = "inline";
+        sLevel2Span = "inline";
+      } else {
+        fLightLink("reader_level_2_link");
+      }
+      fSetClassDisplay("reader_level_0", sLevel0);
+      fSetClassDisplay("reader_level_1", sLevel1);
+      fSetClassDisplay("reader_level_2", sLevel2);
+      fSetClassDisplay("div_0", sLevel0);
+      fSetClassDisplay("div_1", sLevel1);
+      fSetClassDisplay("div_2", sLevel2);
+      fSetClassDisplay("reader_level_0_span", sLevel0Span);
+      fSetClassDisplay("reader_level_1_span", sLevel1Span);
+      fSetClassDisplay("reader_level_2_span", sLevel2Span);
+      fSetClassDisplay("span_0", sLevel0Span);
+      fSetClassDisplay("span_1", sLevel1Span);
+      fSetClassDisplay("span_2", sLevel2Span);
+    }
+    </script>
+    
+<title>400 Bad Request</title>
+</head<body>
+
+    <a href="#skipnav" title="Skip Navigation, Search, and Login"></a>
+    <div id="header-wrapper"> 
+      <div id="header"> 
+        <!-- <div id="spacer">&nbsp;</div> -->
+        <div id="logo"><a href="/" title="Go to Information Philosopher home page"><img src="/images/clear.gif" alt="Go to Information Philosopher home page" border="0" width="70" height="70"></a></div>
+   
+	    <div id="social_cluster">
+            <!-- Load Facebook SDK for JavaScript -->
+            <div id="fb-root" style="display: inline;"></div>
+            <script>(function(d, s, id) {
+              var js, fjs = d.getElementsByTagName(s)[0];
+              if (d.getElementById(id)) return;
+              js = d.createElement(s); js.id = id;
+              js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8";
+              fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));</script>
+
+            <!-- Your like button code -->
+            <!-- data-href="https://www.your-domain.com/your-page.html" -->
+            <div class="social_button fb-like"
+              data-href=""
+              data-layout="button_count" 
+              data-action="like" 
+              data-show-faces="true">
+            </div>
+
+            <!-- Your share button code 
+            <div class="social_button fb-share-button" 
+              data-href="" 
+              data-layout="button_count">
+            </div> 
+
+            <div class="social_button">
+            	<a class="social_button twitter-share-button" href="https://twitter.com/intent/tweet">Tweet</a>&nbsp;
+            </div> -->
+            
+            <br />
+            <div id="social_links">
+	        	<font style="font-size:9px;font-color:#000066">Follow&nbsp;infophilosopher:</font>
+	        	 
+	        	<a href="https://www.facebook.com/infophilosopher" target="facebook" style="text-decoration:none" title="infophilosopher on Facebook"><img src="/images/Facebook3.png" style="border-radius: 3px; height:15px;"></a>
+	        	| 
+	        	<a href="http://youtube.com/infophilosopher/" target="youtube" style="text-decoration:none;" title="infophilosopher on YouTube"><img src="/images/YouTubeX.png" style="height:15px;"></a>
+	        </div>
+        </div>
+
+        <div id="main-menu">
+          <ul>
+            <li><a id="nav_banner_introduction" href="/introduction/" onmouseover="try{buttonMouseover(event, 'introduction');} catch(e){}">Introduction</a></li>
+            <li><a id="nav_banner_problems" href="/problems/" onmouseover="try{buttonMouseover(event, 'problems');} catch(e){}">Problems</a></li>
+            <li><a id="nav_banner_freedom" href="/freedom/" onmouseover="try{buttonMouseover(event, 'freedom');} catch(e){}">Freedom</a></li>
+            <li><a id="nav_banner_value" href="/value/" onmouseover="try{buttonMouseover(event, 'value');} catch(e){}">Value</a></li>
+            <li><a id="nav_banner_knowledge" href="/knowledge/" onmouseover="try{buttonMouseover(event, 'knowledge');} catch(e){}">Knowledge</a></li>
+            <!--<li><a id="nav_banner_solutions" href="/solutions/" onmouseover="try{buttonMouseover(event, 'solutions');} catch(e){}">Solutions</a></li> -->
+            <li><a id="nav_banner_life" href="/life/" onmouseover="try{buttonMouseover(event, 'life');} catch(e){}">Life</a></li>
+            <li><a id="nav_banner_mind" href="/mind/" onmouseover="try{buttonMouseover(event, 'mind');} catch(e){}">Mind</a></li>
+            <li><a id="nav_banner_chance" href="/chance/" onmouseover="try{buttonMouseover(event, 'chance');} catch(e){}">Chance</a></li>
+            <li><a id="nav_banner_quantum" href="/quantum/" onmouseover="try{buttonMouseover(event, 'quantum');} catch(e){}">Quantum</a></li>
+            <li><a id="nav_banner_entanglement" href="/entanglement/" onmouseover="try{buttonMouseover(event, 'entanglement');} catch(e){}">Entanglement</a></li>
+            <li><a id="nav_banner_scandal" href="/scandals/" onmouseover="try{buttonMouseover(event, 'scandals');} catch(e){}">Scandals</a></li>
+            <!--<li id="main-menu-rightmost"><a id="nav_banner_afterwords" href="/afterwords/" onmouseover="try{buttonMouseover(event, 'afterwords');} catch(e){}">Afterword</a></li>-->
+          </ul>
+        </div>
+      </div>
+    </div>
+ 
+    <div id="citation_info" class="display_none">
+      Citation for this page in APA citation style.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <span class="breadcrumbs">
+	  <a href="" title="Citation for this page in APA citation style." alt="Citation for this page in APA citation style." onclick="document.getElementById('citation_info').style.display = 'none'; return false;">Close</a> 
+	</span>
+      <p/>
+	<script language="javascript" type="text/javascript">
+	document.write(document.title);
+	document.write("<br/>Retrieved  ");
+	var oDate = new Date();
+	var aMonthName = new Array('January', 'February', 'March',
+                                   'April', 'May', 'June',
+                                   'July', 'August', 'September',
+                                   'October', 'November', 'December');
+	document.write(aMonthName[oDate.getMonth()] + ' ' + oDate.getDate() + ', ' + oDate.getFullYear());
+	document.write(", from Information Philosopher");
+	</script>
+	<br/>
+	<script language="javascript" type="text/javascript">
+	document.write("Web site <a href='");
+	document.write(location.href);
+	document.write("'>");
+	document.write(location.href);
+	document.write("</a>");
+	</script>
+
+    </div>
+
+    <div id="search_bar" class="search">
+      <table class="layout" cellpadding="0" cellspacing="0" width="731"> 
+        <tr> 
+          <td nowrap>
+	    <!-- &nbsp;<a href="http://www.informationphilosopher.com/site/search/">Search</a> | -->
+	    <!-- | <a href="http://www.informationphilosopher.com/site/A-Z_index/">A-Z Index</a> | -->
+
+	    <!--<a href="http://www.informationphilosopher.com/site/map/">Site Map</a> | 
+	    <a href="http://www.informationphilosopher.com/afterwords/glossary/">Glossary</a> |--> 
+
+	    <a href="/about/" target="about" style="text-decoration: none">About</a> &nbsp;
+
+	    <a href="/articles/" target="blog" style="text-decoration: none">Articles</a> &nbsp; 
+
+	    <!--<a href="http://i-phi.org" target="blog" style="text-decoration: none">Blog</a> &nbsp; -->
+	   
+	    <a href="/books/" target="blog" style="text-decoration: none">Books</a> &nbsp; 
+
+	    <a href="/lectures/" title="Lectures on information philosophy" alt="Lectures on information philosophy" style="text-decoration:none;margin-top:1px;">Lectures</a> &nbsp;
+
+	    <a href="/presentations/" target="presentations" style="text-decoration: none">Presentations</a> &nbsp; 
+
+	    <a href="/afterwords/glossary/" title="Glossary of Terms" alt="Glossary of Terms" style="text-decoration:none;margin-top:1px;">Glossary</a> &nbsp;
+
+	    <a href="" title="Citation for this page in APA citation style." alt="Citation for this page in APA citation style." onclick="document.getElementById('citation_info').style.display = 'block'; return false;" style="text-decoration: none">Cite</a> &nbsp;
+
+	    <a href="/help/" title="Want to help information philosophy?" alt="Want to help information philosophy?" style="text-decoration:none;margin-top:1px;">Help?</a> &nbsp;
+	    
+	     
+	    
+	    </td>
+
+          <!-- can we determine if user is logged in?  -->
+          <td class="search" align="right">
+        
+        <script type="text/javascript" language="javascript">
+	      function mAssembleSearchURL(sSearchCriteria, sWhichSearch) {
+	        var sSiteURL, sSearchURL;
+		sSiteURL = "informationphilosopher.com"
+	        sBaseURL = "http://www.google.com/search?hl=en&lr=&ie=UTF-8&oe=UTF-8&as_qdr=all&q=";
+
+		if (sWhichSearch == "0") {
+		  sSearchURL = sBaseURL + escape(sSearchCriteria);
+		} else {
+		  if (sWhichSearch == "1") {
+		    sSearchURL = sBaseURL + escape(sSearchCriteria) + "+site:" + sSiteURL;
+		  } else {
+		    sSearchURL = sBaseURL + escape(sSearchCriteria);
+		  }
+		}
+		window.open(sSearchURL, '_blank', 'menubar,location,resizable,scrollbars,status,toolbar,height=520,width=640,left=250,top=50', true);
+	      }
+	    </script>
+	    
+	    
+	    <form class="skyFooterForm" method="post" name="searchform1" action="" onsubmit="mAssembleSearchURL(document.searchform1.q.value, 1); return false;">
+	      <input size="30" maxlength="2048" name="q" type="text">
+	      <a href="" onclick="mAssembleSearchURL(document.searchform1.q.value, 1); return false;" style="text-decoration:none;">&nbsp;Search</a>
+	    </form>
+  
+        </td>
+          
+           <td>
+           	<a id="translate_link" title="A Google translation only gives you the 'gist' of the page. Please mouseover any confusing phrases to see the original English text." href="" style="text-decoration:none;"onmouseover="try{buttonMouseover(event, 'translate');} catch(e){}">Translate</a>
+           	<div id="translate" class="menu" onmouseover="menuMouseover(event);">
+           		<a id="translate_french" class="menuItem" href="https://translate.google.com/">French</a>
+           		<a id="translate_italian" class="menuItem" href="https://translate.google.com/">Italian</a>
+           		<a id="translate_german" class="menuItem" href="https://translate.google.com/">German</a>
+           		<a id="translate_russian" class="menuItem" href="https://translate.google.com/">Russian</a>
+           		<a id="translate_spanish" class="menuItem" href="https://translate.google.com/">Spanish</a>
+           	</div>
+           	</td>
+        </tr> 
+      </table>
+    </div>
+    
+	<script language="javascript" type="text/javascript">
+	var french = document.getElementById ("translate_french");
+	var italian = document.getElementById ("translate_italian");
+	var german = document.getElementById ("translate_german");
+	var russian = document.getElementById ("translate_russian");
+	var spanish = document.getElementById ("translate_spanish");
+	if (french) {
+		french.href = "https://translate.google.com/translate?sl=en&tl=fr&js=y&prev=_t&hl=en&ie=UTF-8&u=" + window.location.href + "&edit-text=";
+	};
+	if (italian) {
+		italian.href = "https://translate.google.com/translate?sl=en&tl=it&js=y&prev=_t&hl=en&ie=UTF-8&u=" + window.location.href + "&edit-text=";
+	};
+	if (german) {
+		german.href = "https://translate.google.com/translate?sl=en&tl=de&js=y&prev=_t&hl=en&ie=UTF-8&u=" + window.location.href + "&edit-text=";
+	};
+	if (russian) {
+		russian.href = "https://translate.google.com/translate?sl=en&tl=ru&js=y&prev=_t&hl=en&ie=UTF-8&u=" + window.location.href + "&edit-text=";
+	};
+	if (spanish) {
+		spanish.href = "https://translate.google.com/translate?sl=en&tl=es&js=y&prev=_t&hl=en&ie=UTF-8&u=" + window.location.href + "&edit-text=";
+	};
+	</script>
+
+    <a name="skipnav" tabindex="1" title="Information Philosopher"></a>
+    
+<div id="introduction" class="menu" onmouseover="menuMouseover(event);">
+  <a id="nav_banner_introduction_information" class="menuItem" href="/introduction/information/">The Information</a>
+  <a id="nav_banner_introduction_creation" class="menuItem" href="/introduction/creation/">The Creation</a>
+  <a id="nav_banner_introduction_physics" class="menuItem" href="/introduction/physics/">The Physics</a>
+  <a id="nav_banner_introduction_biology" class="menuItem" href="/introduction/biology/">The Biology</a>
+  <a id="nav_banner_introduction_philosophy" class="menuItem" href="/introduction/philosophy/">The Philosophy</a>
+  <a id="nav_banner_introduction_philosophers" class="menuItem" href="/solutions/philosophers/">The Philosophers</a>
+  <a id="nav_banner_introduction_scientists" class="menuItem" href="/solutions/scientists/">The Scientists</a>
+  <a id="nav_banner_introduction_problems" class="menuItem" href="/problems/">The Problems</a>
+  <a id="nav_banner_introduction_solutions" class="menuItem" href="/solutions/">The Solutions</a>
+  <a id="nav_banner_introduction_experiments" class="menuItem" href="/solutions/experiments/">The Experiments</a> 
+</div>
+    
+    <div id="problems" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_problems_arrow_of_time" class="menuItem" href="/problems/arrow_of_time/">Arrow of Time</a>
+      <a id="nav_banner_problems_consciousness" class="menuItem" href="/problems/consciousness/">Consciousness</a>
+      <a id="nav_banner_problems_dualisms" class="menuItem" href="/solutions/dualisms/">Dualisms</a>
+      <a id="nav_banner_problems_ergodicity" class="menuItem" href="/problems/ergodicity/">Ergodiciy</a>
+      <a id="nav_banner_problems_evil" class="menuItem" href="/problems/evil/">Evil</a>
+      <a id="nav_banner_problems_flatness" class="menuItem" href="/problems/flatness/">Flat Universe?</a>
+      <a id="nav_banner_problems_god" class="menuItem" href="/problems/god/">God</a>
+      <a id="nav_banner_problems_identity" class="menuItem" href="/problems/identity/">Identity</a>
+      <a id="nav_banner_problems_immortality" class="menuItem" href="/problems/immortality/">Immortality</a>
+      <a id="nav_banner_problems_induction" class="menuItem" href="/problems/induction/">Induction</a>
+      <a id="nav_banner_problems_life" class="menuItem" href="/problems/life/">Life</a>
+       <a id="nav_banner_problems_measurement" class="menuItem" href="/problems/measurement/">Measurement</a>
+       <a id="nav_banner_problems_mental_causation" class="menuItem" href="/problems/mental_causation/">Mental Causation</a>
+       <a id="nav_banner_problems_metaphysics" class="menuItem" href="/problems/metaphysics/">Metaphysics</a>
+       <a id="nav_banner_problems_mind_body" class="menuItem" href="/problems/mind_body/">Mind-Body</a>
+       <a id="nav_banner_problems_nonlocality" class="menuItem" href="/problems/nonlocality/">Nonlocality</a>
+       <a id="nav_banner_problems_possibilities" class="menuItem" href="/freedom/possibilities.html">Possibilities</a>
+       <a id="nav_banner_problems_recurrence" class="menuItem" href="/problems/recurrence/">Recurrence</a>
+       <a id="nav_banner_problems_reversibility" class="menuItem" href="/problems/reversibility/">Reversibility</a>
+    </div>
+
+   <div id="freedom" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_freedom_cogito" class="menuItem" href="/freedom/cogito/">The Cogito</a>
+      <a id="nav_banner_freedom_problem" class="menuItem" href="/freedom/problem/">The Problem</a>
+      <a id="nav_banner_freedom_history" class="menuItem" href="/freedom/history/">The History</a>
+      <a id="nav_banner_freedom_history" class="menuItem" href="/freedom/free_will_in_antiquity.html">Free Will in Antiquity</a>
+      <a id="nav_banner_freedom_mechanisms" class="menuItem" href="/freedom/mechanisms.html">Free Will Mechanisms</a>
+      <a id="nav_banner_freedom_physics" class="menuItem" href="/freedom/physics/">The Physics</a>
+      <a id="nav_banner_freedom_biology" class="menuItem" href="/freedom/biology/">The Biology</a>
+      <a id="nav_banner_freedom_neuroscience" class="menuItem" href="/freedom/neuroscience/">The Neuroscience</a>
+      <a id="nav_banner_freedom_possibilities" class="menuItem" href="/freedom/alternative_possibilities.html">Alternative Possibilities</a>
+      <a id="nav_banner_freedom_adequate" class="menuItem" href="/freedom/adequate_determinism.html">Adequate Determinism</a>
+      <a id="nav_banner_freedom_responsibility" class="menuItem" href="/freedom/moral_responsibility.html">Moral Responsibility</a>
+      <a id="nav_banner_freedom_self" class="menuItem" href="/freedom/self-determination.html">Self-Determination</a>
+      <a id="nav_banner_freedom_separability" class="menuItem" href="/freedom/separability.html">Separability of Free and Will</a>
+      <a id="nav_banner_freedom_argument" class="menuItem" href="/freedom/standard_argument.html">Standard Argument</a>
+      <a id="nav_banner_freedom_argument" class="menuItem" href="/freedom/superdeterminism.html">Superdeterminism</a>
+      <a id="nav_banner_freedom_two-stage" class="menuItem" href="/freedom/two-stage_models.html">Two-Stage Models</a>
+    </div>
+    
+    <div id="value" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_value_ergo" class="menuItem" href="/value/ergo/">The Ergo</a>
+      <a id="nav_banner_value_free_energy" class="menuItem" href="/value/free_energy/">Free Energy</a>
+      <a id="nav_banner_value_problem" class="menuItem" href="/value/problem/">The Problem</a>
+      <a id="nav_banner_value_history" class="menuItem" href="/value/history/">The History</a>
+      <a id="nav_banner_value_good" class="menuItem" href="/value/good/">The Good</a>
+      <a id="nav_banner_value_origin" class="menuItem" href="/value/origin/">Origin of the Good</a>
+      <a id="nav_banner_value_evil" class="menuItem" href="/value/evil/">Evil (Theodicy)</a>
+      <a id="nav_banner_value_ergod" class="menuItem" href="/value/ergod/">The Ergod</a>
+    </div>
+    
+    <div id="knowledge" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_knowledge_sum" class="menuItem" href="/knowledge/sum/">The Sum</a>
+      <a id="nav_banner_knowledge_problem" class="menuItem" href="/knowledge/problem/">The Problem</a>
+      <a id="nav_banner_knowledge_history" class="menuItem" href="/knowledge/history/">The History</a>
+      <a id="nav_banner_knowledge_belief" class="menuItem" href="/knowledge/belief/">Belief</a>
+      <a id="nav_banner_knowledge_complexity" class="menuItem" href="/knowledge/complexity/">Complexity</a>
+      <a id="nav_banner_knowledge_complexity_history" class="menuItem" href="/knowledge/complexity/history">Complex Systems History</a>
+      <a id="nav_banner_knowledge_demarcation" class="menuItem" href="/knowledge/demarcation/">Demarcation Problem</a>
+      <a id="nav_banner_knowledge_emergence" class="menuItem" href="/knowledge/emergence.html">Emergence</a>
+      <a id="nav_banner_knowledge_epistemology" class="menuItem" href="/problems/epistemology/">Epistemology</a>
+      <a id="nav_banner_knowledge_induction" class="menuItem" href="/problems/induction/">Induction</a>
+      <a id="nav_banner_knowledge_regress" class="menuItem" href="/knowledge/infinite_regress.html">Infinite Regress</a>
+      <a id="nav_banner_knowledge_meaning" class="menuItem" href="/knowledge/meaning/">Meaning</a>
+      <a id="nav_banner_knowledge_metaphysics" class="menuItem" href="/problems/metaphysics/">Metaphysics</a>
+      <a id="nav_banner_knowledge_ontology" class="menuItem" href="/problems/ontology/">Ontology</a>
+      <a id="nav_banner_knowledge_one-many" class="menuItem" href="/problems/one_or_many/">One or Many</a>
+      <a id="nav_banner_knowledge_providence" class="menuItem" href="/knowledge/providence/">Providence</a>
+      <a id="nav_banner_knowledge_universals" class="menuItem" href="/knowledge/universals.html">Universals</a>
+      <a id="nav_banner_knowledge_truth" class="menuItem" href="/knowledge/truth/">Truth</a>
+      
+    </div>
+    
+    
+     <div id="mind" class="menu" onmouseover="menuMouseover(event);">
+      <!--<a id="nav_banner_mind_problems" class="menuItem" href="/mind/problems/">The Problems</a>-->
+      <a id="nav_banner_mind_history" class="menuItem" href="/mind/history/">The History</a>
+      <!--<a id="nav_banner_mind_ego" class="menuItem" href="/mind/ego/">The Self <i>or</i> Ego</a>
+      <a id="nav_banner_mind_physics" class="menuItem" href="/mind/physics/">The Physics</a>
+      <a id="nav_banner_mind_neuroscience" class="menuItem" href="/mind/neuroscience/">The Neuroscience</a>-->
+      <a id="nav_banner_mind_mind-body" class="menuItem" href="/mind/mind_body/">Mind-Body Problem</a>
+      <a id="nav_banner_mind_consciousness" class="menuItem" href="/mind/binding/">Binding Problem</a>
+      <a id="nav_banner_mind_consciousness" class="menuItem" href="/mind/consciousness/">Consciousness Problem</a>
+      <a id="nav_banner_mind_tocs" class="menuItem" href="/mind/tocs/">Theories of Consciousness</a>
+      <a id="nav_banner_mind_nccs" class="menuItem" href="/mind/NCC/">Neural Correlates of Consciousness</a>
+      <a id="nav_banner_mind_consciousness" class="menuItem" href="/mind/cogscience/">Computational Models</a>
+      <a id="nav_banner_mind_lmm" class="menuItem" href="/mind/llm/">Is Mind a Large Language Model (AI)?</a>
+      <a id="nav_banner_mind_err" class="menuItem" href="/mind/ERR/">The Experience Recorder and Reproducer (ERR)</a>
+      <a id="nav_banner_mind_mirror" class="menuItem" href="/mind/mirror_neurons/">Mirror Neurons</a>
+      <a id="nav_banner_mind_causation" class="menuItem" href="/knowledge/mental_causation.html">Mental Causation</a>
+      <a id="nav_banner_mind_panpsychism" class="menuItem" href="/mind/panpsychism">Panpsychism</a>
+      <a id="nav_banner_mind_purpose" class="menuItem" href="/mind/purpose/">Purpose</a>
+      <a id="nav_banner_mind_agency" class="menuItem" href="/mind/agency/">Agency</a>
+      <a id="nav_banner_mind_reductionism" class="menuItem" href="/knowledge/reductionism.html">Reductionism</a>
+      <a id="nav_banner_mind_representation" class="menuItem" href="/knowledge/representation/">Representation</a>
+   </div>
+    
+    <div id="solutions" class="menu" onmouseover="menuMouseover(event);">
+     <a id="nav_banner_solutions_demons" class="menuItem" href="/solutions/demons/">Demons</a>
+     <a id="nav_banner_solutions_determinisms" class="menuItem" href="/solutions/determinisms/">Determinisms</a>
+     <a id="nav_banner_solutions_dogmas" class="menuItem" href="/solutions/dogmas/">Dogmas</a>
+     <a id="nav_banner_solutions_dualisms" class="menuItem" href="/solutions/dualisms/">Dualisms</a>
+     <a id="nav_banner_solutions_experiments" class="menuItem" href="/solutions/experiments/">Experiments</a>
+     <a id="nav_banner_solutions_language" class="menuItem" href="/solutions/language/">Language</a>
+     <!--  <a id="nav_banner_solutions_philosophers" class="menuItem" href="/solutions/philosophers/">Philosophers</a> -->
+     <a id="nav_banner_solutions_progress" class="menuItem" href="/solutions/progress/">Progress</a>
+     <a id="nav_banner_solutions_reason" class="menuItem" href="/solutions/reason/">Reason</a>
+     <!-- <a id="nav_banner_solutions_scientists" class="menuItem" href="/solutions/scientists/">Scientists</a>  -->
+     <a id="nav_banner_solutions_theories" class="menuItem" href="/solutions/theories/">Theories</a>
+     <a id="nav_banner_solutions_triads" class="menuItem" href="/solutions/triads/">Triads</a>
+    </div>
+    
+     <div id="chance" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_chance_history" class="menuItem" href="/chance/history/">The History</a>
+      <a id="nav_banner_mind_problems" class="menuItem" href="/introduction/physics/statistical_mechanics.html">Entropy and Probability</a>
+      <a id="nav_banner_chance_tyche" class="menuItem" href="/chance/tyche/">Peirce's Tyche</a>
+      <a id="nav_banner_chance_einstein" class="menuItem" href="/solutions/scientists/einstein/">Through Einstein's Eyes</a>
+    </div>
+    
+     <div id="quantum" class="menu" onmouseover="menuMouseover(event);">
+     <a id="nav_banner_quantum_blaxk_holes" class="menuItem" href="/quantum/black_holes/">Black Holes</a>
+     <a id="nav_banner_quantum_collapse" class="menuItem" href="/quantum/collapse/">Collapse of the <br/>Wave Function</a>
+     <a id="nav_banner_quantum_observer" class="menuItem" href="/quantum/observer/">Conscious Observer</a>
+     <a id="nav_banner_quantum_xopenhagen" class="menuItem" href="/quantum/copenhagen/">Copenhagen Interpretation</a>
+     <a id="nav_banner_quantum_decoherence" class="menuItem" href="/quantum/decoherence/">Decoherence</a>
+     <a id="nav_banner_quantum_determinism" class="menuItem" href="/quantum/determinism/">Determinism</a>
+     <a id="nav_banner_quantum_indeterminism" class="menuItem" href="/quantum/indeterminism/">Indeterminism</a>
+     <a id="nav_banner_quantum_principles" class="menuItem" href="/quantum/principles/">Dirac's Principles</a>
+     <a id="nav_banner_quantum_polarizers" class="menuItem" href="/solutions/experiments/dirac_3-polarizers/">Dirac's 3 Polarizers</a>
+     <a id="nav_banner_quantum_foundation" class="menuItem" href="/quantum/foundation/">Foundations</a>
+     <a id="nav_banner_quantum_interpretation" class="menuItem" href="/quantum/interpretations/">Interpretations</a>
+     <a id="nav_banner_quantum_irreversibility" class="menuItem" href="/problems/reversibility/">Irreversibility</a>
+     <a id="nav_banner_quantum_measurement" class="menuItem" href="/problems/measurement/">Measurement Problem</a>
+     <a id="nav_banner_quantum_physics" class="menuItem" href="/quantum/physics/">Quantum, Thermo, Info</a>
+     <a id="nav_banner_quantum_classical" class="menuItem" href="/introduction/physics/quantum_to_classical.html">Quantum to Classical</a>
+     <a id="nav_banner_quantum_recurrence" class="menuItem" href="/problems/recurrence/">Recurrence Problem</a>
+     <a id="nav_banner_quantum_schrodingerscat" class="menuItem" href="/solutions/experiments/schrodingerscat/">Schrödinger's Cat</a>
+     <a id="nav_banner_quantum_schrodingerequation" class="menuItem" href="/quantum/equation/">Schrödinger Equation</a>
+     <a id="nav_banner_quantum_statistical" class="menuItem" href="/quantum/spacetime/">SpaceTime</a>
+     <a id="nav_banner_quantum_spacetime" class="menuItem" href="/quantum/statistical/">Statistical Interpretation</a>
+     <a id="nav_banner_quantum_superposition" class="menuItem" href="/quantum/superposition/">Superposition</a>
+     <a id="nav_banner_quantum_mystery" class="menuItem" href="/quantum/mystery/">The Only Mystery</a>
+     <a id="nav_banner_quantum_EPR" class="menuItem" href="/quantum/two-slit/">Two-Slit Experiment</a>
+     <a id="nav_banner_quantum_EPR" class="menuItem" href="/quantum/uncertainty/">Uncertainty Principle</a>
+     <a id="nav_banner_quantum_wave" class="menuItem" href="/introduction/physics/wave-particle_duality.html">Wave-Particle Duality</a>
+    </div>
+    
+    <div id="scandals" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_scandals_chance" class="menuItem" href="/scandals/chance/">Chance</a> <!--Science-->
+      <a id="nav_banner_scandals_consciousness" class="menuItem" href="/scandals/consciousness/">Consciousness</a> <!--Neuroscience-->
+      <a id="nav_banner_scandals_flat" class="menuItem" href="/scandals/creation/">Creation</a>  <!--Cosmology-->
+      <a id="nav_banner_scandals_einstein" class="menuItem" href="/scandals/einstein/">Einstein</a>  <!--Quantum Mechanics-->
+      <a id="nav_banner_scandals_freedom" class="menuItem" href="/scandals/free_will/">Free Will</a>  <!--Philosophys-->
+      <a id="nav_banner_scandals_god" class="menuItem" href="/scandals/god/">God</a>  <!--Religion-->
+      <a id="nav_banner_scandals_knowledge" class="menuItem" href="/scandals/knowledge/">Knowledge</a>  <!--Epistemology-->
+      <a id="nav_banner_scandals_life" class="menuItem" href="/scandals/life/">Life</a> <!--Biology-->
+      <a id="nav_banner_scandals_meaning" class="menuItem" href="/scandals/meaning/">Meaning</a> <!--Language-->
+      <a id="nav_banner_scandals_metaphysics" class="menuItem" href="/scandals/metaphysics/">Metaphysics</a> <!--Ontology-->
+      <a id="nav_banner_scandals_mind" class="menuItem" href="/scandals/mind/">Mind</a> <!--Language-->
+      <a id="nav_banner_scandals_power" class="menuItem" href="/scandals/power/">Power</a> <!--Politics-->
+      <a id="nav_banner_scandals_values" class="menuItem" href="/scandals/value/">Values</a>  <!--Ethics-->
+      <a id="nav_banner_scandals_wealth" class="menuItem" href="/scandals/wealth/">Wealth</a>  <!--Economics-->
+   </div>
+
+    <div id="afterwords" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_afterwords_conclusions" class="menuItem" href="/afterwords/conclusions/">Conclusions</a>
+      <a id="nav_banner_afterwords_bibliography" class="menuItem" href="/afterwords/bibliography/">Bibliography</a>
+      <a id="nav_banner_afterwords_glossary" class="menuItem" href="/afterwords/glossary/">Glossary</a>
+      <a id="nav_banner_afterwords_author_index" class="menuItem" href="/afterwords/author_index/">Name Index</a>
+      <a id="nav_banner_afterwords_subject_index" class="menuItem" href="/afterwords/subject_index/">Subject Index</a>
+      <a id="nav_banner_afterwords_colophon" class="menuItem" href="/afterwords/colophon/">Colophon</a>
+    </div>
+    
+    <div id="life" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_life_agency" class="menuItem" href="/life/agency/">Agency</a>
+      <a id="nav_banner_life_autopoesis" class="menuItem" href="/life/autopoesis/">Autopoesis</a>
+      <!--<a id="nav_banner_life_cell_cycle" class="menuItem" href="/life/cell_cycle/">The Cell Cycle</a>-->
+      <a id="nav_banner_life_beyond" class="menuItem" href="/life/beyond/">Beyond Darwinism?</a>
+      <a id="nav_banner_life_biosemiotics" class="menuItem" href="/life/biosemiotics/">Biosemiotics</a>
+      <a id="nav_banner_life_biosphere" class="menuItem" href="/life/biosphere/">Biosphere</a>
+      <a id="nav_banner_life_complexity" class="menuItem" href="/life/complexity/">Complexity</a>
+      <a id="nav_banner_life_emergence" class="menuItem" href="/life/emergence/">Emergence</a>
+      <a id="nav_banner_life_entelechy" class="menuItem" href="/life/entelechy/">Entelechy</a>
+      <a id="nav_banner_life_entropy" class="menuItem" href="/life/entropy/">Entropy</a>
+      <a id="nav_banner_life_epigenetics" class="menuItem" href="/life/epigenetics/">Epigenetics</a>
+      <a id="nav_banner_life_gaia" class="menuItem" href="/life/gaia/">Gaia</a>
+      <a id="nav_banner_life_infobiology" class="menuItem" href="/life/infobiology/">Information in Biology</a>
+      <a id="nav_banner_life_design" class="menuItem" href="/life/design/">Intelligent Design</a>
+      <a id="nav_banner_life_meaning" class="menuItem" href="/life/meaning/">Meaning</a>
+      <a id="nav_banner_life_origins" class="menuItem" href="/life/origins/">Origins</a>
+      <a id="nav_banner_life_goal" class="menuItem" href="/life/goal/">Purpose</a>
+      <a id="nav_banner_life_reductionism" class="menuItem" href="/life/reductionism/">Reductionism</a>
+      <a id="nav_banner_life_reverence" class="menuItem" href="/life/reverence/">Reverence for Life</a>
+      <!--<a id="nav_banner_life_synergy" class="menuItem" href="/life/synergy"/">Synergy</a>-->
+      <a id="nav_banner_life_teleology" class="menuItem" href="/life/teleology/">Teleology</a>
+      <a id="nav_banner_life_teleonomy" class="menuItem" href="/life/teleonomy/">Teleonomy</a>
+      <a id="nav_banner_life_universal_darwinism" class="menuItem" href="/life/universal_darwinism/">Universal Darwinism</a>
+      <a id="nav_banner_life_vitalism" class="menuItem" href="/life/vitalism/">Vitalism</a>
+      
+      
+    </div>
+    
+    <div id="entanglement" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_bell" class="menuItem" href="/quantum/bell_theorem/">Bell's Theorem</a>
+      <a id="nav_banner_entanglement_polytope" class="menuItem" href="/entanglement/polytope/">Bell's Kinky Polytope</a>
+      <a id="nav_banner_common_cause" class="menuItem" href="/entanglement/common_cause/">Common Cause?</a>
+      <a id="nav_banner_disentanglement*" class="menuItem" href="/quantum/disentanglement/">Disentanglement</a>
+      <a id="nav_banner_EPR" class="menuItem" href="/solutions/experiments/EPR/">EPR Paradox</a>
+      <a id="nav_banner_fresnel" class="menuItem" href="/quantum/fresnel-arago/">Fresnel-Arago Effect</a>
+      <a id="nav_banner_hidden_constant" class="menuItem" href="/quantum/hidden_constant/">Hidden Constant of Motion?</a>
+      <a id="nav_banner_hidden_variables" class="menuItem" href="/entanglement/hidden_variables/">Hidden Variables?</a>
+      <a id="nav_banner_mach-zender" class="menuItem" href="/quantum/mach_zender/">Mach-Zender</a>
+      <a id="nav_banner_quantum_keys" class="menuItem" href="/quantum/keys/">Quantum Keys</a>
+      <a id="nav_banner_nonlocality" class="menuItem" href="/problems/nonlocality/">Nonlocality</a>
+      <a id="nav_banner_nonseparability" class="menuItem" href="/problems/nonseparability/">Nonseparability</a>
+      <a id="nav_banner_quantum_computer" class="menuItem" href="/quantum/keys/">Quantum Computers</a>
+      <a id="nav_banner_quantum_eraser" class="menuItem" href="/quantum/keys/">Quantum Eraser</a>
+      <a id="nav_banner_quantum_keys" class="menuItem" href="/quantum/keys/">Quantum Keys</a>
+      <a id="nav_banner_quantum_weirdness" class="menuItem" href="/quantum/weirdness/">Quantum Weirdness</a>
+      <a id="nav_banner_qubits" class="menuItem" href="/quantum/qubits/">Qubits</a>
+      <a id="nav_banner_spherical" class="menuItem" href="/entanglement/spherical/">Spherical Symmetry</a>
+      <a id="nav_banner_spooky_action" class="menuItem" href="/entanglement/spooky/">Spooky Action at a Distance</a>
+      <a id="nav_banner_delayed" class="menuItem" href="/quantum/delayed_choice/">Wheeler's Delayed Choice</a>
+      
+    </div>
+
+    
+    
+    
+    <!-- start column1 -->
+    <table width="765" border="0" cellspacing="0" cellpadding="0">
+      <tbody>
+	<tr>
+	  <td valign="top">
+	    <div id="column1">
+	     <div class="linksLeftCol">
+              Core&nbsp;Concepts
+<br><br>
+<a href="/knowledge/abduction.html">Abduction</a><br> 
+<!--<a href="/knowledge/analytic_synthetic.html">Analytic/Synthetic</a><br> 
+<a href="/knowledge/a_priori.html">A Priori/A Posteriori</a><br> -->
+<a href="/knowledge/belief.html">Belief</a><br> 
+<a href="/knowledge/best_explanation.html">Best Explanation</a><br> 
+<a href="/knowledge/causality.html">Cause</a><br> 
+<a href="/knowledge/certainty.html">Certainty</a><br> 
+<a href="/knowledge/chance.html">Chance</a><br> 
+<!-- <a href="/knowledge/circularity.html">Circularity</a><br> 
+<a href="/knowledge/coherentism.html">Coherentism</a><br> 
+<a href="/knowledge/complexity.html/">Complexity</a><br> 
+<a href="/knowledge/consistency.html/">Consistency</a><br> 
+<a href="/knowledge/contextualism.html">Contextualism</a><br> 
+<a href="/knowledge/contingency.html">Contingency</a><br> -->
+<a href="/knowledge/coherence.html">Coherence</a><br> 
+<a href="/knowledge/correspondence.html">Correspondence</a><br> 
+<a href="/knowledge/decoherence.html">Decoherence</a><br> 
+<!--<a href="/knowledge/deduction.html">Deduction</a><br> 
+<a href="/knowledge/defeat.html">Defeat</a><br> -->
+<a href="/knowledge/divided_line.html">Divided Line</a><br>
+<a href="/knowledge/downward_causation.html">Downward Causation</a><br>
+<a href="/knowledge/emergence.html">Emergence</a><br>
+<a href="/knowledge/emergent_dualism.html">Emergent Dualism</a><br>
+<a href="/knowledge/ERR/">ERR</a><br> 
+<!--<a href="/knowledge/externalism.html">Externalism</a><br> 
+<a href="/knowledge/foundationalism.html">Foundationalism</a><br> 
+<a href="/knowledge/gettier_problem.html">Gettier Problem</a><br> --> 
+<a href="/knowledge/identity_theory.html">Identity Theory</a><br>
+<!-- <a href="/knowledge/induction.html">Induction</a><br> -->
+<a href="/knowledge/infinite_regress.html">Infinite Regress</a><br> 
+<a href="/knowledge/information.html">Information</a><br> 
+<a href="/knowledge/intension_extension.html">Intension/Extension</a><br> 
+<!-- <a href="/knowledge/internalism.html">Internalism</a><br> -->
+<a href="/knowledge/inter-subjectivism.html">Intersubjectivism</a><br>
+<a href="/knowledge/justification.html/">Justification</a><br> 
+<a href="/knowledge/materialism.html">Materialism</a><br>
+<a href="/knowledge/meaning/">Meaning</a><br>
+<!--<a href="/knowledge/measurement.html">Measurement</a><br> -->
+<a href="/knowledge/mental_causation.html">Mental Causation</a><br>
+<a href="/knowledge/multiple_realizability.html">Multiple Realizability</a><br>
+<!-- <a href="/knowledge/modernism.html">Modernism</a><br> -->
+<a href="/knowledge/naturalism.html">Naturalism</a><br>
+<a href="/knowledge/necessity.html">Necessity</a><br>
+<!-- <a href="/knowledge/noise.html">Noise</a><br>
+<a href="/knowledge/objectivism.html">Objectivism</a><br>--> 
+<a href="/knowledge/possibile_worlds.html">Possible Worlds</a><br> 
+<a href="/articles/postmodernism.html">Postmodernism</a><br> 
+<a href="/knowledge/probability.html">Probability</a><br> 
+<a href="/knowledge/realism.html">Realism</a><br>
+<a href="/knowledge/reductionism.html">Reductionism</a><br>
+<!-- <a href="/knowledge/relativism.html">Relativism</a><br> 
+<a href="/knowledge/reliabilism.html">Reliabilism</a><br> --> 
+<a href="/knowledge/schrodinger_cat.html">Schrödinger's Cat</a><br>
+<!-- <a href="/knowledge/skepticism.html">Skepticism</a><br> 
+<a href="/knowledge/subjectivism.html">Subjectivism</a><br> -->
+<a href="/knowledge/supervenience.html">Supervenience</a><br>
+<!-- <a href="/knowledge/tradition.html">Tradition</a><br> --> 
+<a href="/knowledge/truth.html">Truth</a><br> 
+<a href="/knowledge/universals.html">Universals</a><br> 
+<!-- <a href="/knowledge/verification.html">Verification</a> -->
+<p/>               Topics
+<p/>
+    <a href="/introduction/">Introduction</a><br> 
+    <a href="/problems/">Problems</a><br> 
+    <a href="/freedom/">Freedom</a><br> 
+    <a href="/knowledge/">Knowledge</a><br> 
+    <a href="/mind/">Mind</a><br> 
+    <a href="/life/">Life</a><br> 
+    <a href="/chance/">Chance</a><br> 
+    <a href="/quantum/">Quantum</a><br> 
+    <a href="/entanglement/">Entanglement</a><br> 
+    <a href="/scandals/">Scandals</a><br> 
+    <p/>
+Philosophers
+    <br><br>
+    <a href="/solutions/philosophers/adler/">Mortimer Adler</a><br> 
+    <a href="/solutions/philosophers/albritton/">Rogers Albritton</a><br> 
+    <a href="/solutions/philosophers/alexander/">Alexander of Aphrodisias</a><br> 
+    <a href="/solutions/philosophers/alexanders/">Samuel Alexander</a><br> 
+    <a href="/solutions/philosophers/alston/">William Alston</a><br> 
+    <a href="/solutions/philosophers/anaximander/">Anaximander</a><br> 
+    <a href="/solutions/philosophers/anscombe/">G.E.M.Anscombe</a><br> 
+    <a href="/solutions/philosophers/anselm/">Anselm</a><br> 
+    <a href="/solutions/philosophers/antony/">Louise Antony</a><br> 
+    <a href="/solutions/philosophers/aquinas/">Thomas Aquinas</a><br> 
+    <a href="/solutions/philosophers/aristotle/">Aristotle</a><br> 
+    <!-- <a href="/solutions/philosophers/arminius/">Arminius</a><br> -->
+    <a href="/knowledge/philosophers/armstrong/">David Armstrong</a><br> 
+    <a href="/solutions/philosophers/atmanspacher/">Harald Atmanspacher</a><br> 
+    <a href="/knowledge/philosophers/audi/">Robert Audi</a><br> 
+    <a href="/solutions/philosophers/augustine/">Augustine</a><br> 
+    <a href="/solutions/philosophers/austin/">J.L.Austin</a><br>
+    <a href="/solutions/philosophers/ayer/">A.J.Ayer</a><br>
+    <a href="/solutions/philosophers/bain/">Alexander Bain</a><br> 
+    <a href="/solutions/philosophers/balaguer/">Mark Balaguer</a><br> 
+    <a href="/solutions/philosophers/barrett/">Jeffrey Barrett</a><br> 
+    <a href="/solutions/philosophers/barrettw/">William Barrett</a><br> 
+    <a href="/solutions/philosophers/belsham/">William Belsham</a><br> 
+    <a href="/solutions/philosophers/bergson/">Henri Bergson</a><br> 
+    <a href="/solutions/philosophers/berkeley/">George Berkeley</a><br> 
+    <a href="/solutions/philosophers/berlin/">Isaiah Berlin</a><br>
+    <a href="/solutions/philosophers/bernstein/">Richard J. Bernstein</a><br>
+    <a href="/solutions/philosophers/berofsky/">Bernard Berofsky</a><br>
+    <a href="/knowledge/philosophers/bishop/">Robert Bishop</a><br> 
+    <a href="/solutions/philosophers/black/">Max Black</a><br> 
+    <a href="/solutions/philosophers/blackmore/">Susan Blackmore</a><br> 
+    <a href="/solutions/philosophers/bobzien/">Susanne Bobzien</a><br> 
+    <a href="/solutions/philosophers/bois-reymond/">Emil du Bois-Reymond</a><br> 
+    <a href="/solutions/philosophers/bok/">Hilary Bok</a><br> 
+    <a href="/knowledge/philosophers/bonjour/">Laurence BonJour</a><br> 
+    <a href="/solutions/philosophers/boole/">George Boole</a><br> 
+    <a href="/solutions/philosophers/boutroux/">Émile Boutroux</a><br> 
+    <a href="/solutions/philosophers/boyd/">Daniel Boyd</a><br> 
+    <a href="/solutions/philosophers/bradley/">F.H.Bradley</a><br> 
+    <!-- <a href="/solutions/philosophers/bradley/">Franz Brentano</a><br> -->
+    <a href="/solutions/philosophers/broad/">C.D.Broad</a><br>
+    <a href="/solutions/philosophers/burke/">Michael Burke</a><br>
+    <a href="/solutions/philosophers/butterfield/">Jeremy Butterfield</a><br>
+    <a href="/solutions/philosophers/cahoone/">Lawrence Cahoone</a><br>
+    <a href="/solutions/philosophers/campbell/">C.A.Campbell</a><br>
+    <a href="/solutions/philosophers/campbellj/">Joseph Keim Campbell</a><br>
+    <a href="/solutions/philosophers/carnap/">Rudolf Carnap</a><br>
+    <a href="/solutions/philosophers/carneades/">Carneades</a><br>
+    <a href="/solutions/philosophers/cartwright/">Nancy Cartwright</a><br>
+    <a href="/solutions/philosophers/caruso/">Gregg Caruso</a><br>
+    <a href="/solutions/philosophers/cassirer/">Ernst Cassirer</a><br>
+    <a href="/solutions/philosophers/chalmers/">David Chalmers</a><br>
+    <a href="/solutions/philosophers/chisholm/">Roderick Chisholm</a><br>
+    <a href="/solutions/philosophers/chrysippus/">Chrysippus</a><br>
+    <a href="/solutions/philosophers/carneades/">Cicero</a><br> 
+    <a href="/solutions/philosophers/clark/">Tom Clark</a><br>
+    <a href="/solutions/philosophers/clarke/">Randolph Clarke</a><br>
+    <a href="/solutions/philosophers/clarkes/">Samuel Clarke</a><br>
+    <a href="/solutions/philosophers/collins/">Anthony Collins</a><br>
+    <a href="/solutions/philosophers/compte/">August Compte</a><br>
+    <a href="/solutions/philosophers/corradini/">Antonella Corradini</a><br> 
+    <a href="/solutions/philosophers/diodorus/">Diodorus Cronus</a><br>
+    <a href="/solutions/philosophers/dancy/">Jonathan Dancy</a><br>
+    <a href="/solutions/philosophers/davidson/">Donald Davidson</a><br>
+    <a href="/solutions/philosophers/decaro/">Mario De Caro</a><br> 
+    <a href="/solutions/philosophers/democritus/">Democritus</a><br> 
+    <a href="/solutions/philosophers/dembski">William Dembski</a><br>
+    <a href="/solutions/philosophers/dempsey/">Brendan Dempsey</a><br>
+    <a href="/solutions/philosophers/dennett/">Daniel Dennett</a><br>
+    <a href="/solutions/philosophers/derrida/">Jacques Derrida</a><br> 
+    <a href="/solutions/philosophers/descartes/">René Descartes</a><br> 
+    <a href="/solutions/philosophers/double/">Richard Double</a><br> 
+    <a href="/solutions/philosophers/dretske/">Fred Dretske</a><br> 
+    <a href="/solutions/philosophers/ducasse/">Curt Ducasse</a><br> 
+    <!--<a href="/solutions/philosophers/dupre/">John Dupré</a><br>-->
+    <a href="/solutions/philosophers/earman/">John Earman</a><br> 
+    <a href="/solutions/philosophers/ekstrom/">Laura Waddell Ekstrom</a><br> 
+    <a href="/solutions/philosophers/epictetus/">Epictetus</a><br> 
+    <a href="/solutions/philosophers/epicurus/">Epicurus</a><br> 
+    <a href="/solutions/philosophers/farrer/">Austin Farrer</a><br>
+    <a href="/solutions/philosophers/feigl/">Herbert Feigl</a><br>
+    <a href="/solutions/philosophers/fine/">Arthur Fine</a><br>
+    <a href="/solutions/philosophers/fischer/">John Martin Fischer</a><br>
+    <a href="/solutions/philosophers/fitch/">Frederic Fitch</a><br>
+    <a href="/solutions/philosophers/flanagan/">Owen Flanagan</a><br>
+    <a href="/solutions/philosophers/floridi/">Luciano Floridi</a><br>
+    <a href="/solutions/philosophers/foot/">Philippa Foot</a><br>
+    <a href="/solutions/philosophers/fouillee/">Alfred Fouille&eacute;</a><br>
+    <a href="/solutions/philosophers/frankfurt/">Harry Frankfurt</a><br>
+    <a href="/solutions/philosophers/franklin/">Richard L. Franklin</a><br>
+    <a href="/solutions/philosophers/frassen/">Bas van Fraassen</a><br>
+    <a href="/solutions/philosophers/frede/">Michael Frede</a><br>
+    <a href="/solutions/philosophers/frege/">Gottlob Frege</a><br>
+    <a href="/solutions/philosophers/geach/">Peter Geach</a><br>
+    <a href="/solutions/philosophers/gettier/">Edmund Gettier</a><br>
+    <a href="/solutions/philosophers/ginet/">Carl Ginet</a><br>
+    <a href="/knowledge/philosophers/goldman/">Alvin Goldman</a><br> 
+    <a href="/solutions/philosophers/gorgias/">Gorgias</a><br>
+    <a href="/solutions/philosophers/green/">Nicholas St. John Green</a><br>
+    <a href="/solutions/philosophers/gregersen/">Niels Henrik Gregersen</a><br>
+    <a href="/solutions/philosophers/grice/">H.Paul Grice</a><br>
+    <a href="/solutions/philosophers/hacking/">Ian Hacking</a><br> 
+    <a href="/solutions/philosophers/haji/">Ishtiyaque Haji</a><br> 
+    <a href="/solutions/philosophers/hampshire/">Stuart Hampshire</a><br> 
+    <a href="/solutions/philosophers/hardie/">W.F.R.Hardie</a><br> 
+    <a href="/solutions/philosophers/harris/">Sam Harris</a><br> 
+    <a href="/solutions/philosophers/hasker/">William Hasker</a><br> 
+    <a href="/solutions/philosophers/hare/">R.M.Hare</a><br> 
+    <a href="/solutions/philosophers/hegel/">Georg W.F. Hegel</a><br> 
+    <a href="/solutions/philosophers/heidegger/">Martin Heidegger</a><br>
+    <a href="/solutions/philosophers/heraclitus/">Heraclitus</a><br>
+    <a href="/solutions/philosophers/hobart/">R.E.Hobart</a><br> 
+    <a href="/solutions/philosophers/hobbes/">Thomas Hobbes</a><br> 
+    <a href="/solutions/philosophers/hodgson/">David Hodgson</a><br>
+    <a href="/solutions/philosophers/hodgsons/">Shadsworth Hodgson</a><br> 
+    <a href="/solutions/philosophers/dholbach/">Baron d'Holbach</a><br>
+    <a href="/solutions/philosophers/honderich/">Ted Honderich</a><br>
+    <!-- <a href="/solutions/philosophers/hook/">Sidney Hook</a><br> -->
+    <a href="/solutions/philosophers/huby/">Pamela Huby</a><br> 
+    <a href="/solutions/philosophers/hume/">David Hume</a><br> 
+    <a href="/solutions/philosophers/huoranszki/">Ferenc Huoranszki</a><br> 
+    <!-- <a href="/solutions/philosophers/husserl/">Edmund Husserl</a><br> -->
+    <a href="/solutions/philosophers/jackson/">Frank Jackson</a><br> 
+    <a href="/solutions/philosophers/james/">William James</a><br> 
+    <a href="/solutions/philosophers/kames/">Lord Kames</a><br>
+    <a href="/solutions/philosophers/kane/">Robert Kane</a><br>
+    <a href="/solutions/philosophers/kant/">Immanuel Kant</a><br> 
+    <a href="/solutions/philosophers/kapitan/">Tomis Kapitan</a><br> 
+    <a href="/solutions/philosophers/kaufmann/">Walter Kaufmann</a><br> 
+    <a href="/solutions/philosophers/kim/">Jaegwon Kim</a><br> 
+    <a href="/solutions/philosophers/king/">William King</a><br> 
+    <a href="/knowledge/philosophers/kornblith/">Hilary Kornblith</a><br> 
+    <a href="/solutions/philosophers/korsgaard/">Christine Korsgaard</a><br> 
+    <a href="/solutions/philosophers/kripke/">Saul Kripke</a><br> 
+    <a href="/solutions/philosophers/kuhn/">Thomas Kuhn</a><br> 
+    <a href="/solutions/philosophers/lavazza/">Andrea Lavazza</a><br> 
+    <a href="/solutions/philosophers/ladyman/">James Ladyman</a><br> 
+    <a href="/solutions/philosophers/lehner/">Christoph Lehner</a><br>
+    <a href="/solutions/philosophers/lehrer/">Keith Lehrer</a><br> 
+    <a href="/solutions/philosophers/leibniz/">Gottfried Leibniz</a><br> 
+    <a href="/solutions/philosophers/lequyer/">Jules Lequyer</a><br> 
+    <a href="/solutions/philosophers/leucippus/">Leucippus</a><br> 
+    <a href="/solutions/philosophers/levin/">Michael Levin</a><br>
+    <a href="/solutions/philosophers/levine/">Joseph Levine</a><br>
+    <a href="/solutions/philosophers/lewes/">George Henry Lewes</a><br> 
+    <a href="/knowledge/philosophers/lewis/">C.I.Lewis</a><br> 
+    <a href="/solutions/philosophers/lewis/">David Lewis</a><br> 
+    <a href="/solutions/philosophers/lipton/">Peter Lipton</a><br> 
+    <a href="/solutions/philosophers/morgan/">C. Lloyd Morgan</a><br> 
+    <a href="/solutions/philosophers/locke/">John Locke</a><br>
+    <a href="/solutions/philosophers/lockwood/">Michael Lockwood</a><br>
+    <a href="/solutions/philosophers/lovejoy/">Arthur O. Lovejoy</a><br>
+    <a href="/solutions/philosophers/lowe/">E. Jonathan Lowe</a><br>
+    <a href="/solutions/philosophers/lucas/">John R. Lucas</a><br>
+    <a href="/solutions/philosophers/lucretius/">Lucretius</a><br>
+    <a href="/solutions/philosophers/macintyre/">Alasdair MacIntyre</a><br> 
+    <a href="/solutions/philosophers/marcus/">Ruth Barcan Marcus</a><br> 
+    <a href="/solutions/philosophers/maudlin/">Tim Maudlin</a><br> 
+    <a href="/solutions/philosophers/martineau/">James Martineau</a><br> 
+    <a href="/solutions/philosophers/maxwell/">Nicholas Maxwell</a><br> 
+    <a href="/solutions/philosophers/mccall/">Storrs McCall</a><br>
+    <a href="/solutions/philosophers/mccann/">Hugh McCann</a><br>
+    <a href="/solutions/philosophers/mcginn/">Colin McGinn</a><br>
+    <a href="/solutions/philosophers/mckenna/">Michael McKenna</a><br>
+    <a href="/solutions/philosophers/mclaughlin/">Brian McLaughlin</a><br>
+    <a href="/solutions/philosophers/mctaggart/">John McTaggart</a><br>
+    <a href="/solutions/philosophers/meehl/">Paul E. Meehl</a><br>
+    <a href="/solutions/philosophers/meixner/">Uwe Meixner</a><br>
+    <a href="/solutions/philosophers/mele/">Alfred Mele</a><br>
+    <a href="/solutions/philosophers/merricks/">Trenton Merricks</a><br>
+    <a href="/solutions/philosophers/mill/">John Stuart Mill</a><br>
+    <a href="/solutions/philosophers/miller/">Dickinson Miller</a><br>
+    <a href="/solutions/philosophers/moore/">G.E.Moore</a><br>
+    <a href="/solutions/philosophers/nagele/">Ernest Nagel</a><br>
+    <a href="/solutions/philosophers/nagelt/">Thomas Nagel</a><br>
+    <a href="/solutions/philosophers/neurath/">Otto Neurath</a><br>
+    <a href="/solutions/philosophers/nietzsche/">Friedrich Nietzsche</a><br>
+    <a href="/solutions/philosophers/norton/">John Norton</a><br>
+    <a href="/solutions/philosophers/nowell-smith/">P.H.Nowell-Smith</a><br>
+    <a href="/solutions/philosophers/nozick/">Robert Nozick</a><br>
+    <a href="/solutions/philosophers/ockham/">William of Ockham</a><br> 
+    <a href="/solutions/philosophers/oconnor/">Timothy O'Connor</a><br>
+    <a href="/solutions/philosophers/parmenides/">Parmenides</a><br>
+    <a href="/solutions/philosophers/pears/">David F. Pears</a><br> 
+    <a href="/solutions/philosophers/peirce/">Charles Sanders Peirce</a><br> 
+    <a href="/solutions/philosophers/pereboom/">Derk Pereboom</a><br> 
+    <a href="/solutions/philosophers/piccinini/">Gualtiero Piccinini</a><br> 
+    <a href="/solutions/philosophers/pinker/">Steven Pinker</a><br>
+    <a href="/solutions/philosophers/place/">U.T.Place</a><br> 
+    <a href="/solutions/philosophers/plato/">Plato</a><br> 
+    <a href="/solutions/philosophers/popper/">Karl Popper</a><br> 
+    <a href="/solutions/philosophers/porphyry/">Porphyry</a><br> 
+    <a href="/solutions/philosophers/price/">Huw Price</a><br> 
+    <a href="/solutions/philosophers/prichard/">H.A.Prichard</a><br> 
+    <a href="/solutions/philosophers/protagoras/">Protagoras</a><br>
+    <a href="/solutions/philosophers/putnam/">Hilary Putnam</a><br> 
+    <a href="/solutions/philosophers/quine/">Willard van Orman Quine</a><br> 
+    <a href="/knowledge/philosophers/ramsey/">Frank Ramsey</a><br> 
+    <a href="/solutions/philosophers/rand/">Ayn Rand</a><br> 
+    <a href="/solutions/philosophers/rea/">Michael Rea</a><br>
+    <a href="/solutions/philosophers/reid/">Thomas Reid</a><br> 
+    <a href="/solutions/philosophers/renouvier/">Charles Renouvier</a><br> 
+    <a href="/solutions/philosophers/rescher/">Nicholas Rescher</a><br> 
+    <a href="/solutions/philosophers/rietdijk/">C.W.Rietdijk</a><br> 
+    <a href="/solutions/philosophers/rorty/">Richard Rorty</a><br> 
+    <a href="/solutions/philosophers/royce/">Josiah Royce</a><br> 
+    <a href="/solutions/philosophers/russell/">Bertrand Russell</a><br> 
+    <a href="/solutions/philosophers/russellp/">Paul Russell</a><br> 
+    <a href="/solutions/philosophers/ryle/">Gilbert Ryle</a><br> 
+    <a href="/solutions/philosophers/sartre/">Jean-Paul Sartre</a><br> 
+    <a href="/solutions/philosophers/sayre/">Kenneth Sayre</a><br> 
+    <a href="/solutions/philosophers/scanlon/">T.M.Scanlon</a><br> 
+    <a href="/solutions/philosophers/schlick/">Moritz Schlick</a><br> 
+    <a href="/solutions/philosophers/scotus/">John Duns Scotus</a><br> 
+    <a href="/solutions/philosophers/schweitzer/">Albert Schweitzer</a><br> 
+    <a href="/solutions/philosophers/schopenhauer/">Arthur Schopenhauer</a><br> 
+    <a href="/solutions/philosophers/searle/">John Searle</a><br>
+    <a href="/solutions/philosophers/sellars/">Wilfrid Sellars</a><br>
+    <a href="/solutions/philosophers/shiang/">David Shiang</a><br> 
+    <a href="/solutions/philosophers/sidelle/">Alan Sidelle</a><br> 
+    <a href="/solutions/philosophers/sider/">Ted Sider</a><br> 
+    <a href="/solutions/philosophers/sidgwick/">Henry Sidgwick</a><br> 
+    <a href="/solutions/philosophers/sinnott-armstrong/">Walter Sinnott-Armstrong</a><br> 
+    <a href="/solutions/philosophers/slezak/">Peter Slezak</a><br> 
+    <a href="/solutions/philosophers/smart/">J.J.C.Smart</a><br> 
+    <a href="/solutions/philosophers/smilansky/">Saul Smilansky</a><br> 
+    <a href="/solutions/philosophers/smith/">Michael Smith</a><br> 
+    <a href="/solutions/philosophers/spinoza/">Baruch Spinoza</a><br> 
+    <a href="/solutions/philosophers/stebbing/">L. Susan Stebbing</a><br> 
+    <a href="/solutions/philosophers/stengers/">Isabelle Stengers</a><br> 
+    <a href="/solutions/philosophers/stout/">George F. Stout</a><br> 
+    <a href="/solutions/philosophers/strawsong/">Galen Strawson</a><br>
+    <a href="/solutions/philosophers/strawson/">Peter Strawson</a><br>
+    <a href="/solutions/philosophers/stump/">Eleonore Stump</a><br>
+    <a href="/solutions/philosophers/suarez/">Francisco Suárez</a><br>
+    <a href="/solutions/philosophers/taylorr/">Richard Taylor</a><br>
+    <a href="/solutions/philosophers/timpe/">Kevin Timpe</a><br>
+    <a href="/solutions/philosophers/twain/">Mark Twain</a><br>
+    <a href="/solutions/philosophers/unger/">Peter Unger</a><br> 
+    <a href="/solutions/philosophers/vaninwagen/">Peter van Inwagen</a><br> 
+    <a href="/solutions/philosophers/vargas/">Manuel Vargas</a><br> 
+    <a href="/solutions/philosophers/venn/">John Venn</a><br> 
+    <a href="/solutions/philosophers/vihvelin/">Kadri Vihvelin</a><br> 
+    <a href="/solutions/philosophers/voltaire/">Voltaire</a><br> 
+    <a href="/solutions/philosophers/vonwright/">G.H. von Wright</a><br> 
+    <a href="/solutions/philosophers/wallacedf/">David Foster Wallace</a><br> 
+    <a href="/solutions/philosophers/wallace/">R. Jay Wallace</a><br> 
+    <a href="/solutions/philosophers/ward/">W.G.Ward</a><br> 
+    <a href="/solutions/philosophers/warfield/">Ted Warfield</a><br> 
+    <a href="/solutions/philosophers/weatherford/">Roy Weatherford</a><br> 
+    <a href="/solutions/philosophers/weizsacker/">C.F. von Weizsäcker</a><br>
+    <a href="/solutions/philosophers/whewell/">William Whewell</a><br> 
+    <a href="/solutions/philosophers/whitehead/">Alfred North Whitehead</a><br> 
+    <a href="/solutions/philosophers/widerker/">David Widerker</a><br> 
+    <a href="/solutions/philosophers/wiggins/">David Wiggins</a><br> 
+    <a href="/solutions/philosophers/williams/">Bernard Williams</a><br> 
+    <a href="/solutions/philosophers/williamson/">Timothy Williamson</a><br> 
+    <a href="/solutions/philosophers/wittgenstein/">Ludwig Wittgenstein</a><br> 
+    <a href="/solutions/philosophers/wolf/">Susan Wolf</a><br> 
+    <a href="/solutions/philosophers/xenophon/">Xenophon</a><br> 
+    <br> 
+    Scientists
+    <br><br>
+    <a href="/solutions/scientists/albert/">David Albert</a><br>
+    <a href="/solutions/scientists/anderson/">Philip W. Anderson</a><br>
+    <a href="/solutions/scientists/arbib/">Michael Arbib</a><br>
+    <a href="/solutions/scientists/azarian/">Bobby Azarian</a><br>
+    <a href="/solutions/scientists/baade/">Walter Baade</a><br>
+    <a href="/solutions/scientists/baars/">Bernard Baars</a><br>
+    <a href="/solutions/scientists/bada/">Jeffrey Bada</a><br>
+    <a href="/solutions/scientists/ballentine/">Leslie Ballentine</a><br>
+    <a href="/solutions/scientists/barbieri/">Marcello Barbieri</a><br>
+    <a href="/solutions/scientists/barandes/">Jacob Barandes</a><br>
+    <a href="/solutions/scientists/barbour/">Julian Barbour</a><br>
+    <a href="/solutions/scientists/barlow/">Horace Barlow</a><br>
+    <a href="/solutions/scientists/bateson/">Gregory Bateson</a><br>
+    <a href="/solutions/scientists/bekenstein/">Jakob Bekenstein</a><br>
+    <a href="/solutions/scientists/bell/">John S. Bell</a><br>
+    <a href="/solutions/scientists/beller/">Mara Beller</a><br>
+    <a href="/solutions/scientists/bennett/">Charles Bennett</a><br>
+    <a href="/solutions/scientists/bertalanffy/">Ludwig von Bertalanffy</a><br>
+    <a href="/solutions/scientists/blackmore/">Susan Blackmore</a><br>
+    <a href="/solutions/scientists/boden/">Margaret Boden</a><br>
+    <a href="/solutions/scientists/bohm/">David Bohm</a><br>
+    <a href="/solutions/scientists/bohr/">Niels Bohr</a><br>
+    <a href="/solutions/scientists/boltzmann/">Ludwig Boltzmann</a><br> 
+    <a href="/solutions/scientists/bonner/">John Tyler Bonner</a><br> 
+    <a href="/solutions/scientists/borel/">Emile Borel</a><br> 
+    <a href="/solutions/scientists/born/">Max Born</a><br> 
+    <a href="/solutions/scientists/bose/">Satyendra Nath Bose</a><br> 
+    <a href="/solutions/scientists/bothe/">Walther Bothe</a><br> 
+    <a href="/solutions/scientists/bricmont/">Jean Bricmont</a><br>
+    <a href="/solutions/scientists/briegel/">Hans Briegel</a><br>
+    <a href="/solutions/scientists/brillouin/">Leon Brillouin</a><br>
+    <a href="/solutions/scientists/brooks/">Daniel Brooks</a><br>
+    <a href="/solutions/scientists/brush/">Stephen Brush</a><br>
+    <a href="/solutions/scientists/buckle/">Henry Thomas Buckle</a><br>
+    <a href="/solutions/scientists/burbury/">S. H. Burbury</a><br>
+    <a href="/solutions/scientists/calvin/">Melvin Calvin</a><br>
+    <a href="/solutions/scientists/calvinw/">William Calvin</a><br>
+    <a href="/solutions/scientists/campbell/">Donald Campbell</a><br>
+    <a href="/solutions/scientists/campbellj/">John O. Campbell</a><br>
+    <a href="/solutions/scientists/carnot/">Sadi Carnot</a><br>
+    <a href="/solutions/scientists/carroll/">Sean B. Carroll</a><br>
+    <a href="/solutions/scientists/cashmore/">Anthony Cashmore</a><br>
+    <a href="/solutions/scientists/chaisson/">Eric Chaisson</a><br>
+    <a href="/solutions/scientists/chaitin/">Gregory Chaitin</a><br>
+    <a href="/solutions/scientists/changeux/">Jean-Pierre Changeux</a><br>
+    <a href="/solutions/scientists/clausius/">Rudolf Clausius</a><br>
+    <a href="/solutions/scientists/compton/">Arthur Holly Compton</a><br>
+    <a href="/solutions/scientists/conway/">John Conway</a><br>
+    <a href="/solutions/scientists/conway-morris/">Simon Conway-Morris</a><br>
+    <a href="/solutions/scientists/corning/">Peter Corning</a><br>
+    <a href="/solutions/scientists/cowan/">George Cowan</a><br>
+    <a href="/solutions/scientists/coyne/">Jerry Coyne</a><br>
+    <a href="/solutions/scientists/cramer/">John Cramer</a><br>
+    <a href="/solutions/scientists/crick/">Francis Crick</a><br>
+    <a href="/solutions/scientists/culverwell/">E. P. Culverwell</a><br>
+    <a href="/solutions/scientists/damasio/">Antonio Damasio</a><br>
+    <a href="/solutions/scientists/darrigol/">Olivier Darrigol</a><br>
+    <a href="/solutions/scientists/darwin/">Charles Darwin</a><br>
+    <a href="/solutions/scientists/davies/">Paul Davies</a><br>
+    <a href="/solutions/scientists/dawkins/">Richard Dawkins</a><br>
+    <a href="/solutions/scientists/deacon/">Terrence Deacon</a><br>
+    <a href="/solutions/scientists/kornhuber-deecke/">Lüder Deecke</a><br>
+    <a href="/solutions/scientists/dedekind/">Richard Dedekind</a><br>
+    <a href="/solutions/scientists/de_broglie/">Louis de Broglie</a><br>
+    <a href="/solutions/scientists/dehaene/">Stanislas Dehaene</a><br> 
+    <a href="/solutions/scientists/delbruck/">Max Delbrück</a><br> 
+    <a href="/solutions/scientists/de_moivre/">Abraham de Moivre</a><br> 
+    <a href="/solutions/scientists/depew/">David Depew</a><br>
+    <a href="/solutions/scientists/despagmat/">Bernard d'Espagnat</a><br>
+    <a href="/solutions/scientists/dirac/">Paul Dirac</a><br>
+    <a href="/solutions/scientists/dobzhansky/">Theodosius Dobzhansky</a><br>
+    <a href="/solutions/scientists/driesch/">Hans Driesch</a><br>
+    <a href="/solutions/scientists/dupre/">John Dupré</a><br>
+    <a href="/solutions/scientists/eccles/">John Eccles</a><br>
+    <a href="/solutions/scientists/eddington/">Arthur Stanley Eddington</a><br> 
+    <a href="/solutions/scientists/edelman/">Gerald Edelman</a><br> 
+    <a href="/solutions/scientists/ehrenfest/">Paul Ehrenfest</a><br> 
+    <a href="/solutions/scientists/eigen/">Manfred Eigen</a><br> 
+    <a href="/solutions/scientists/einstein/">Albert Einstein</a><br> 
+    <a href="/solutions/scientists/ellis/">George F. R. Ellis</a><br> 
+    <a href="/solutions/scientists/elsasser/">Walter Elsasser</a><br> 
+    <a href="/solutions/scientists/everett/">Hugh Everett, III</a><br> 
+    <a href="/solutions/scientists/exner/">Franz Exner</a><br> 
+    <a href="/solutions/scientists/feynman/">Richard Feynman</a><br>
+    <a href="/solutions/scientists/fisher/">R. A. Fisher</a><br>
+    <a href="/solutions/scientists/foster/">David Foster</a><br>
+    <a href="/solutions/scientists/fourier/">Joseph Fourier</a><br>
+    <a href="/solutions/scientists/fox/">George Fox</a><br>
+    <a href="/solutions/scientists/frank/">Philipp Frank</a><br> 
+    <a href="/solutions/scientists/frautschi/">Steven Frautschi</a><br> 
+    <a href="/solutions/scientists/fredkin/">Edward Fredkin</a><br> 
+    <a href="/solutions/scientists/fresnel/">Augustin-Jean Fresnel</a><br> 
+    <a href="/solutions/scientists/friston/">Karl Friston</a><br> 
+    <a href="/solutions/scientists/gal-or/">Benjamin Gal-Or</a><br> 
+    <a href="/solutions/scientists/gardner/">Howard Gardner</a><br> 
+    <a href="/solutions/scientists/gatlin/">Lila Gatlin</a><br> 
+    <a href="/solutions/scientists/gazzaniga/">Michael Gazzaniga</a><br> 
+    <a href="/solutions/scientists/georgescu-roegen/">Nicholas Georgescu-Roegen</a><br> 
+    <a href="/solutions/scientists/ghirardi/">GianCarlo Ghirardi</a><br> 
+    <a href="/solutions/scientists/gibbs/">J. Willard Gibbs</a><br> 
+    <a href="/solutions/scientists/gibson/">James J. Gibson</a><br> 
+    <a href="/solutions/scientists/gisin/">Nicolas Gisin</a><br> 
+    <a href="/solutions/scientists/glimcher/">Paul Glimcher</a><br> 
+    <a href="/solutions/scientists/gold/">Thomas Gold</a><br>
+    <a href="/solutions/scientists/gomes/">A. O. Gomes</a><br> 
+    <a href="/solutions/scientists/goodwin/">Brian Goodwin</a><br> 
+    <a href="/solutions/scientists/gough/">Julian Gough</a><br> 
+    <a href="/solutions/scientists/greene/">Joshua Greene</a><br> 
+    <a href="/solutions/scientists/haar/">Dirk ter Haar</a><br> 
+    <a href="/solutions/scientists/hadamard/">Jacques Hadamard</a><br> 
+    <a href="/solutions/scientists/hadley/">Mark Hadley</a><br> 
+    <a href="/solutions/scientists/haeckel/">Ernst Haeckel</a><br> 
+    <a href="/solutions/scientists/haggard/">Patrick Haggard</a><br> 
+    <a href="/solutions/scientists/haldane/">J. B. S. Haldane</a><br> 
+    <a href="/solutions/scientists/hameroff/">Stuart Hameroff</a><br> 
+    <a href="/solutions/scientists/hamon/">Augustin Hamon</a><br> 
+    <a href="/solutions/scientists/harris/">Sam Harris</a><br> 
+    <a href="/solutions/scientists/hartley/">Ralph Hartley</a><br> 
+    <a href="/solutions/scientists/hartman/">Hyman Hartman</a><br> 
+    <a href="/solutions/scientists/hawkins/">Jeff Hawkins</a><br> 
+    <a href="/solutions/scientists/haynes/">John-Dylan Haynes</a><br> 
+    <a href="/solutions/scientists/hebb/">Donald Hebb</a><br> 
+    <a href="/solutions/scientists/heisenbergm/">Martin Heisenberg</a><br> 
+    <a href="/solutions/scientists/heisenberg/">Werner Heisenberg</a><br> 
+    <a href="/solutions/scientists/helmholtz">Hermann von Helmholtz</a><br> 
+    <a href="/solutions/scientists/hermann/">Grete Hermann</a><br> 
+    <a href="/solutions/scientists/herschel/">John Herschel</a><br> 
+    <a href="/solutions/scientists/heylighen/">Francis Heylighen</a><br> 
+    <a href="/solutions/scientists/hiley/">Basil Hiley</a><br> 
+    <a href="/solutions/scientists/hobson/">Art Hobson</a><br> 
+    <a href="/solutions/scientists/hoffmeyer/">Jesper Hoffmeyer</a><br> 
+   <a href="/solutions/scientists/holland/">John Holland</a><br> 
+    <a href="/solutions/scientists/howard/">Don Howard</a><br> 
+    <a href="/solutions/scientists/jackson/">John H. Jackson</a><br> 
+    <a href="/solutions/scientists/jackendoff/">Ray Jackendoff</a><br>
+    <a href="/solutions/scientists/jakobson/">Roman Jakobson</a><br>
+    <a href="/solutions/scientists/jaynes/">E. T. Jaynes</a><br>
+    <a href="/solutions/scientists/jevons/">William Stanley Jevons</a><br>
+    <a href="/solutions/scientists/jordan/">Pascual Jordan</a><br>
+    <a href="/solutions/scientists/kandel/">Eric Kandel</a><br>
+    <a href="/solutions/scientists/kastner/">Ruth E. Kastner</a><br>
+    <a href="/solutions/scientists/kauffman/">Stuart Kauffman</a><br>
+    <a href="/solutions/scientists/klein/">Martin J. Klein</a><br> 
+    <a href="/solutions/scientists/klemm/">William R. Klemm</a><br> 
+    <a href="/solutions/scientists/koch/">Christof Koch</a><br>
+    <a href="/solutions/scientists/kochen/">Simon Kochen</a><br>
+    <a href="/solutions/scientists/kornhuber-deecke/">Hans Kornhuber</a><br>
+    <a href="/solutions/scientists/kosslyn/">Stephen Kosslyn</a><br> 
+    <a href="/solutions/scientists/koshland/">Daniel Koshland</a><br> 
+    <a href="/solutions/scientists/kovac/">Ladislav Kovàč</a><br>
+    <a href="/solutions/scientists/kronecker/">Leopold Kronecker</a><br>
+    <a href="/solutions/scientists/kuppers/">Bernd-Olaf Küppers</a><br>
+    <a href="/solutions/scientists/landauer/">Rolf Landauer</a><br>
+    <a href="/solutions/scientists/lande/">Alfred Landé</a><br>
+    <a href="/solutions/scientists/laplace/">Pierre-Simon Laplace</a><br> 
+    <a href="/solutions/scientists/lashley/">Karl Lashley</a><br> 
+    <a href="/solutions/scientists/layzer/">David Layzer</a><br> 
+    <a href="/solutions/scientists/ledoux/">Joseph LeDoux</a><br> 
+    <a href="/solutions/scientists/lettvin/">Gerald Lettvin</a><br> 
+    <a href="/solutions/scientists/levin/">Michael Levin</a><br> 
+    <a href="/solutions/scientists/lewis/">Gilbert Lewis</a><br> 
+    <a href="/solutions/scientists/libet/">Benjamin Libet</a><br> 
+    <a href="/solutions/scientists/lindley/">David Lindley</a><br> 
+    <a href="/solutions/scientists/lloyd/">Seth Lloyd</a><br> 
+    <a href="/solutions/scientists/loewenstein/">Werner Loewenstein</a><br> 
+    <a href="/solutions/scientists/lorentz/">Hendrik Lorentz</a><br> 
+    <a href="/solutions/scientists/loschmidt/">Josef Loschmidt</a><br> 
+    <a href="/solutions/scientists/lotka/">Alfred Lotka</a><br> 
+    <a href="/solutions/scientists/mach/">Ernst Mach</a><br>
+    <a href="/solutions/scientists/mackay/">Donald MacKay</a><br> 
+    <a href="/solutions/scientists/margenau/">Henry Margenau</a><br> 
+    <a href="/solutions/scientists/margulis/">Lynn Margulis</a><br> 
+    <a href="/solutions/scientists/maroney/">Owen Maroney</a><br> 
+    <a href="/solutions/scientists/marr/">David Marr</a><br> 
+    <a href="/solutions/scientists/maturana/">Humberto Maturana</a><br> 
+    <a href="/solutions/scientists/maxwell/">James Clerk Maxwell</a><br> 
+    <a href="/solutions/scientists/maynard-smith/">John Maynard Smith</a><br>
+    <a href="/solutions/scientists/mayr/">Ernst Mayr</a><br>
+    <a href="/solutions/scientists/mccarthy/">John McCarthy</a><br>
+    <a href="/solutions/scientists/mcclintock/">Barbara McClintock</a><br>
+    <a href="/solutions/scientists/mcculloch/">Warren McCulloch</a><br>
+    <a href="/solutions/scientists/mermin/">N. David Mermin</a><br>
+    <a href="/solutions/scientists/miller/">George Miller</a><br>
+    <a href="/solutions/scientists/smiller/">Stanley Miller</a><br>
+    <a href="/solutions/scientists/mohrhoff/">Ulrich Mohrhoff</a><br>
+    <a href="/solutions/scientists/monod/">Jacques Monod</a><br>
+    <a href="/solutions/scientists/mountcastle/">Vernon Mountcastle</a><br> 
+    <a href="/solutions/scientists/muller/">Gerd B. Müller</a><br> 
+    <a href="/solutions/scientists/noether/">Emmy Noether</a><br> 
+    <a href="/solutions/scientists/noble/">Denis Noble</a><br> 
+    <a href="/solutions/scientists/norman/">Donald Norman</a><br> 
+    <a href="/solutions/scientists/norsen/">Travis Norsen</a><br>
+    <a href="/solutions/scientists/odumh/">Howard T. Odum</a><br> 
+    <a href="/solutions/scientists/oparin/">Alexander Oparin</a><br> 
+    <a href="/solutions/scientists/pais/">Abraham Pais</a><br> 
+    <a href="/solutions/scientists/pattee/">Howard Pattee</a><br> 
+    <a href="/solutions/scientists/pauli/">Wolfgang Pauli</a><br> 
+    <a href="/solutions/scientists/pauri/">Massimo Pauri</a><br> 
+    <a href="/solutions/scientists/penfield/">Wilder Penfield</a><br>
+    <a href="/solutions/scientists/penrose/">Roger Penrose</a><br>
+    <a href="/solutions/scientists/pigliucci/">Massimo Pigliucci</a><br/>
+    <a href="/solutions/philosophers/pinker/">Steven Pinker</a><br> 
+    <a href="/solutions/scientists/pittendrigh/">Colin Pittendrigh</a><br> 
+    <a href="/solutions/scientists/pitts/">Walter Pitts</a><br> 
+    <a href="/solutions/scientists/planck/">Max Planck</a><br> 
+    <a href="/solutions/scientists/pockett/">Susan Pockett</a><br> 
+    <a href="/solutions/scientists/poincare/">Henri Poincaré</a><br>
+    <a href="/solutions/scientists/polanyi/">Michael Polanyi</a><br>
+    <a href="/solutions/scientists/pollen/">Daniel Pollen</a><br> 
+    <a href="/solutions/scientists/prigogine/">Ilya Prigogine</a><br>
+    <a href="/solutions/scientists/primas/">Hans Primas</a><br>
+    <a href="/solutions/scientists/prisco/">Giulio Prisco</a><br>
+    <a href="/solutions/scientists/pylyshyn/">Zenon Pylyshyn</a><br/>
+    <a href="/solutions/scientists/quastler/">Henry Quastler</a><br/>
+    <a href="/solutions/scientists/quetelet/">Adolphe Quételet</a><br/>
+    <a href="/solutions/scientists/rakic/">Pasco Rakic</a><br/>
+    <a href="/solutions/scientists/rashevsky/">Nicolas Rashevsky</a><br/>
+    <a href="/solutions/scientists/rayleigh/">Lord Rayleigh</a><br/>
+    <a href="/solutions/scientists/reif/">Frederick Reif</a><br/>
+    <a href="/solutions/scientists/renn/">Jürgen Renn</a><br/>
+    <a href="/solutions/scientists/rizzolati/">Giacomo Rizzolati</a><br/>
+    <a href="/solutions/scientists/roback/">A.A. Roback</a><br/>
+    <a href="/solutions/scientists/roduner/">Emil Roduner</a><br/>
+    <a href="/solutions/scientists/roederer/">Juan Roederer</a><br/>
+    <a href="/solutions/scientists/rosen/">Robert Rosen</a><br/>
+    <a href="/solutions/scientists/rosenblatt/">Frank Rosenblatt</a><br/>
+    <a href="/solutions/scientists/rothstein/">Jerome Rothstein</a><br/>
+    <a href="/solutions/scientists/ruelle/">David Ruelle</a><br/>
+    <a href="/solutions/scientists/rumelhart/">David Rumelhart</a><br> 
+    <a href="/solutions/scientists/ruse">Michael Ruse</a><br> 
+    <a href="/solutions/scientists/salthe/">Stanley Salthe</a><br> 
+    <a href="/solutions/scientists/sapolsky/">Robert Sapolsky</a><br>
+    <a href="/solutions/scientists/sauer/">Tilman Sauer</a><br>
+    <a href="/solutions/scientists/saussure/">Ferdinand de Saussure</a><br>
+    <a href="/solutions/scientists/schmidhuber/">Jürgen Schmidhuber</a><br>
+    <a href="/solutions/scientists/schrodinger/">Erwin Schr&ouml;dinger</a><br> 
+    <a href="/solutions/scientists/schurger/">Aaron Schurger</a><br> 
+    <a href="/solutions/scientists/seung/">Sebastian Seung</a><br>
+    <a href="/solutions/scientists/sebeok/">Thomas Sebeok</a><br>
+    <a href="/solutions/scientists/selleri/">Franco Selleri</a><br>
+    <a href="/solutions/scientists/shannon/">Claude Shannon</a><br>
+     <a href="/solutions/scientists/shapiro/">James A. Shapiro</a><br>
+    <a href="/solutions/scientists/sherrington/">Charles Sherrington</a><br> 
+    <a href="/solutions/scientists/shimony/">Abner Shimony</a><br> 
+    <a href="/solutions/scientists/simon/">Herbert Simon</a><br> 
+    <a href="/solutions/scientists/simonton/">Dean Keith Simonton</a><br>
+    <a href="/solutions/scientists/sinnott/">Edmund Sinnott</a><br>
+    <a href="/solutions/scientists/skinner/">B. F. Skinner</a><br>
+    <a href="/solutions/scientists/smolin/">Lee Smolin</a><br> 
+    <a href="/solutions/scientists/solomonoff/">Ray Solomonoff</a><br> 
+    <a href="/solutions/scientists/spencer/">Herbert Spencer</a><br>
+    <a href="/solutions/scientists/sperry/">Roger Sperry</a><br>
+    <a href="/solutions/scientists/stachel/">John Stachel</a><br> 
+    <a href="/solutions/scientists/stanley/">Kenneth Stanley</a><br>
+    <a href="/solutions/scientists/stapp/">Henry Stapp</a><br>
+    <a href="/solutions/scientists/stewart/">Ian Stewart</a><br>
+    <a href="/solutions/scientists/stonier/">Tom Stonier</a><br>
+    <a href="/solutions/scientists/suarez/">Antoine Suarez</a><br>
+    <a href="/solutions/scientists/susskind/">Leonard Susskind</a><br>
+    <a href="/solutions/scientists/szilard/">Leo Szilard</a><br>
+    <a href="/solutions/scientists/tegmark/">Max Tegmark</a><br>
+    <a href="/solutions/scientists/teilhard/">Teilhard de Chardin</a><br>
+    <a href="/solutions/scientists/thims/">Libb Thims</a><br>
+    <a href="/solutions/scientists/thomson/">William Thomson (Kelvin)</a><br>
+    <a href="/solutions/scientists/tolman/">Richard Tolman</a><br> 
+    <a href="/solutions/scientists/tononi/">Giulio Tononi</a><br> 
+    <a href="/solutions/scientists/tse/">Peter Tse</a><br>
+    <a href="/solutions/scientists/turing/">Alan Turing</a><br>
+    <a href="/solutions/scientists/ulanowicz/">Robert Ulanowicz</a><br> 
+    <a href="/solutions/scientists/unnikrishnan/">C. S. Unnikrishnan</a><br>
+    <a href="/solutions/scientists/kampen/">Nico van Kampen</a><br>
+    <a href="/solutions/scientists/varela/">Francisco Varela</a><br>
+    <a href="/solutions/scientists/vedral/">Vlatko Vedral</a><br>
+    <a href="/solutions/scientists/vernadsky/">Vladimir Vernadsky</a><br>
+    <a href="/solutions/scientists/vidal/">Clément Vidal</a><br>
+    <a href="/solutions/scientists/volkenstein/">Mikhail Volkenstein</a><br>
+    <a href="/solutions/scientists/foerster/">Heinz von Foerster</a><br>
+    <a href="/solutions/scientists/mises/">Richard von Mises</a><br>
+    <a href="/solutions/scientists/neumann/">John von Neumann</a><br>
+    <a href="/solutions/scientists/uexkull/">Jakob von Uexküll</a><br>
+    <a href="/solutions/scientists/waddington/">C. H. Waddington</a><br>
+    <a href="/solutions/scientists/walker/">Sara Imari Walker</a><br>
+    <a href="/solutions/scientists/watsonj/">James D. Watson</a><br>
+    <a href="/solutions/scientists/watsonjb/">John B. Watson</a><br>
+    <a href="/solutions/scientists/weber/Bruce Weber</a><br>
+    <a href="/solutions/scientists/wegner/">Daniel Wegner</a><br>
+    <a href="/solutions/scientists/weinberg/">Steven Weinberg</a><br>
+    <a href="/solutions/scientists/weismann/">August Weismann</a><br>
+    <a href="/solutions/scientists/weiss/">Paul A. Weiss</a><br>
+    <a href="/solutions/scientists/weyl/">Herman Weyl</a><br>
+    <a href="/solutions/scientists/wheeler/">John Wheeler</a><br>
+    <a href="/solutions/scientists/wicken/">Jeffrey Wicken</a><br>
+    <a href="/solutions/scientists/wien/">Wilhelm Wien</a><br>
+    <a href="/solutions/scientists/wiener/">Norbert Wiener</a><br>
+    <a href="/solutions/scientists/wigner/">Eugene Wigner</a><br>
+    <a href="/solutions/scientists/wiley/">E. O. Wiley</a><br>
+    <a href="/solutions/scientists/wilson/">E. O. Wilson</a><br>
+    <a href="/solutions/scientists/witzany/">Günther Witzany</a><br>
+    <a href="/solutions/scientists/woese/">Carl Woese</a><br>
+    <a href="/solutions/scientists/wolfram/">Stephen Wolfram</a><br>
+    <a href="/solutions/scientists/zeh/">H. Dieter Zeh</a><br>
+    <a href="/solutions/scientists/zeki/">Semir Zeki</a><br>
+    <a href="/solutions/scientists/zermelo/">Ernst Zermelo</a><br> 
+    <a href="/solutions/scientists/zurek/">Wojciech Zurek</a><br>
+    <a href="/solutions/scientists/zuse/">Konrad Zuse</a><br>
+    <a href="/solutions/scientists/zwicky/">Fritz Zwicky</a><br>
+<br/>
+Presentations
+<br/>
+<br/>
+<a href="/presentations/ABCD_Multimedia_2006.pdf/">ABCD Harvard</a> (<a href="/presentations/ABCD_Multimedia_2006.pptx/">ppt</a>) 
+<a href="/presentations/Bhaktivedanta/">Bhaktivedanta Aug 2026</a><br/>
+<a href="/presentations/biosemiotics/">Biosemiotics</a><br/>
+<a href="/presentations/Free__Will/">Free Will</a><br/>
+<a href="/presentations/Milan/mental_causation/index2.html">Mental Causation</a><br/>
+<a href="/presentations/video/WJS-2010/">James Symposium</a><br/>
+<a href="/presentations/CSC25_Talk/">CCS25 Talk</a><br/>
+<a href="/presentations/Evo_Devo_CSS/">Evo Devo September 12</a><br/>
+<a href="/presentations/Evo_Devo_I-Phi/">Evo Devo October 2</a><br/>
+<a href="/presentations/Evo_Devo_Davies/">Evo Devo Davies Nov12</a><br/>
+
+             </div> 
+	      <div style="clear: both;"></div>
+	      &nbsp;
+	    </div>
+	    <!-- end column1 -->
+	  </td>
+
+	  <td valign="top">
+	    <!-- start column2 or 23 -->
+	    <div id="column23">
+	      <div class="bodycontent">
+		
+<h1>Bad Request</h1>
+<p>Your browser sent a request that this server could not understand.<br />
+</p>
+<hr>
+<address>Apache/2.4.66 (Fedora Linux) OpenSSL/3.5.4 mod_fcgid/2.3.9 Server at <a href="mailto:support@skybuilders.com">afrispa.skybuilders.com</a> Port 443</address>
+</body></html>

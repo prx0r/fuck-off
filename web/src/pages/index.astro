@@ -1,0 +1,41 @@
+---
+// index.astro — the home page, reading the compiled site manifest
+import Layout from '../layouts/Layout.astro';
+import fs from 'node:fs';
+import path from 'node:path';
+
+const siteDir = path.join(process.cwd(), '..', 'site');
+const manifestPath = path.join(siteDir, 'manifest.json');
+const manifest = JSON.parse(fs.readFileSync(manifestPath, 'utf-8'));
+const concepts = Object.entries(manifest.concepts)
+  .map(([slug, v]) => ({ slug, ...v }))
+  .sort((a, b) => a.label.localeCompare(b.label));
+const works = manifest.bibliography?.count || 0;
+const passages = manifest.passages?.count || 0;
+const clusters = manifest.clusters?.count || 0;
+---
+<Layout
+  title="Pāṭala — the Verified Epistemic OS"
+  description="The Verified Epistemic OS: a priority-driven refinery for Sanskrit scholarship."
+  jsonLd={{ "@context": "https://schema.org", "@type": "WebSite", name: "Pāṭala", description: "The Verified Epistemic OS" }}
+>
+  <h1>Pāṭala — the Verified Epistemic OS</h1>
+  <p>The canonical graph + real corpus, compiled to a static site. <strong>{concepts.length}</strong> concept
+  pages, <strong>{works}</strong> bibliography works, <strong>{passages}</strong> published passages,
+  <strong>{clusters}</strong> themes. Each page is 0-JS, semantically marked up, with its epistemic ceiling honestly.</p>
+  <h2>Real corpus</h2>
+  <ul>
+    <li><a href="/bibliography/"><strong>{works}</strong> works</a> <span class="ceiling">the bibliography</span></li>
+    <li><a href="/passages/"><strong>{passages}</strong> passages</a> <span class="ceiling">published IPVV</span></li>
+    <li><a href="/themes/"><strong>{clusters}</strong> themes</a> <span class="ceiling">IPVV clusters</span></li>
+  </ul>
+  <h2>Concepts</h2>
+  <ul>
+    {concepts.map(c => (
+      <li>
+        <a href={`/concepts/${c.slug}/`}>{c.label}</a>
+        <span class="ceiling">({c.ceiling})</span>
+      </li>
+    ))}
+  </ul>
+</Layout>

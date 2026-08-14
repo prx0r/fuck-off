@@ -42,6 +42,7 @@ maps to: what it is · layer · vision · the experiment(s) that validate it · 
 | `self_healing.py` | Self-healing orchestration: typed repair cascade for the delivery loop | L09 | Autonomous Institute | validate-self-healing | VALIDATED (8/8) |
 | `skill_graph.py` | Audited skill-graph self-improvement (kernels as skills, verifiable reward) | L05 | Autonomous Institute | validate-skill-graph | VALIDATED (8/8) |
 | `structure_recall.py` | SAGE structure-aware recall (follow graph topology on the read plane) | L10 | Verified OS | validate-structure-recall | VALIDATED (9/9) |
+| `ingestion_organism.py` | the autonomous priority-driven refinery: ingest→refine→verify→commit→re-prioritize | ALL | Verified OS | validate-ingestion-organism | VALIDATED (10/10) |
 
 ## Rules for agents
 1. **Reuse, don't rebuild** (axiom): a task that maps to a kernel → call the kernel.

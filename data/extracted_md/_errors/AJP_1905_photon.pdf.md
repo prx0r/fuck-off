@@ -1,0 +1,11 @@
+# 300 Multiple Choices
+
+**source:** html · **section:** solutions
+**file:** AJP_1905_photon.pdf
+---
+
+Multiple Choices
+The document name you requested (/solutions/scientists/einstein/AJP_1905_photon.pdf.html) could not be found on this server.
+However, we found documents with names similar to the one you requested.Available documents:
+/solutions/scientists/einstein/AJP_1905_photon.pdf (common basename)
+Please consider informing the owner of the referring page https://www.informationphilosopher.com/introduction/physics/complementarity.html about the broken link.

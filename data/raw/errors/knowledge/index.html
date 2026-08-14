@@ -1,0 +1,2351 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+  <head>
+
+        
+    <link href="/css/base_menu.css" rel="stylesheet" type="text/css">
+    <link rel="shortcut icon" href="/favicon.ico"> 
+   
+        
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="description" content="Information Philosopher is dedicated to the new Information Philosophy, with explanations for Freedom, Values, and Knowledge.">
+    <meta name="keywords" content="Information, Philosopher, Philosophy, Freedom, Values, Knowledge, Demons, Determinism, Dogmas, Dualism, Certainty, Uncertainty, Indeterminacy, Entropy, Randomness, Microcosmos, Macrocosmos, Quantum Mechanics, Thermodynamics, Second Law ">
+    
+    <!-- You can use Open Graph tags to customize Facebook link previews.
+    Learn more: https://developers.facebook.com/docs/sharing/webmasters
+    Required properties are:
+      og:url, og:type, og:title, og:description, og:image, and fb:app_id
+    If og:image is not used, Facebook will notice the Twitter meta tags below 
+    and use a twitter icon for the page's image, which is undesirable, so I put 
+    in an empty og:image for now.
+    <meta property="og:image" content="http://informationphilosopher.com/images/Big_Bang_Timeline400.png">
+   
+    <meta property="og:image" content="">
+
+    <meta name="twitter:site" value="@infophilosopher" />
+    <meta property="twitter:url" content="https://informationphilosopher.com" />
+    <meta property="twitter:title" content="dedicated to the new information philosophy" />
+    <meta property="twitter:description" content="Problems in Philosophy and Physics Solved?" />
+ 
+    <script>window.twttr = (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0],
+        t = window.twttr || {};
+      if (d.getElementById(id)) return t;
+      js = d.createElement(s);
+      js.id = id;
+      js.src = "https://platform.twitter.com/widgets.js";
+      fjs.parentNode.insertBefore(js, fjs);
+
+      t._e = [];
+      t.ready = function(f) {
+        t._e.push(f);
+      };
+      return t;
+    }(document, "script", "twitter-wjs"));</script>
+     -->
+    <style>
+      #search_bar {
+        height: 24px;
+      }
+      #social_cluster {
+      	padding-right: 7px;
+     	padding-top: 3px;
+        float: right;
+        text-align: right;
+        width: 220px;
+      }
+      // #social_cluster div {
+      //   display: inline-block;
+      //   padding-bottom: 2px;
+      // }
+      .social_button {
+        float: right;
+        display: inline-block;
+        padding-top: 2px;
+        padding-bottom: 2px;
+      }
+      #social_links {
+      	clear: both;
+        font-size: 7pt;
+        color: #000099;
+      }
+      #social_links img {
+      	vertical-align: middle;  
+      }
+    </style>
+
+    <script language="javascript" type="text/javascript" src="/scripts/global-menus.js"></script>
+    
+    
+    
+    <style type="text/css">
+    .reader_level_0, .div_0 {
+      display: block;
+    }
+    .reader_level_1, .div_1 {
+      display: none;
+    }
+    .reader_level_2, .div_2 {
+      display: none;
+    }
+    .reader_level_0_span, .span_0 {
+      display: inline;
+    }
+    .reader_level_1_span, .span_1 {
+      display: none;
+    }
+    .reader_level_2_span, .span_2 {
+      display: none;
+    }
+    #reader_level_0_link {
+      
+  color: #000000;
+  font-weight: bold;
+  text-decoration: none;
+  cursor: text;    }
+    #reader_level_1_link {
+          }
+    #reader_level_2_link {
+          }
+    </style>
+    <script language="javascript" type="text/javascript">
+    function getElementsByClass(searchClass,node,tag) {
+      // thanks to Dustin Diaz
+      var classElements = new Array();
+      if ( node == null )
+        node = document;
+      if ( tag == null )
+        tag = '*';
+      var els = node.getElementsByTagName(tag);
+      var elsLen = els.length;
+      var pattern = new RegExp("(^|\s)"+searchClass+"(\s|$)");
+      for (i = 0, j = 0; i < elsLen; i++) {
+        if ( pattern.test(els[i].className) ) {
+          classElements[j] = els[i];
+          j++;
+        }
+      }
+      return classElements;
+    }
+    function fSetClassDisplay(sClass, sDisplay) {
+      var aClassElement;
+      aClassElement = getElementsByClass(sClass, document, "*");
+      // alert(aClassElement.length);
+      for ( i = 0; i < aClassElement.length; i++ ) {
+        aClassElement[i].style.display = sDisplay;
+      }
+    }
+    function fDimLink(sId) {
+      document.getElementById(sId).style.color = "#000000";
+      document.getElementById(sId).style.fontWeight = "bold";
+      document.getElementById(sId).style.textDecoration = "none";
+    }
+    function fLightLink(sId) {
+      document.getElementById(sId).style.color = "#3333ff";
+      document.getElementById(sId).style.fontWeight = "normal";
+      document.getElementById(sId).style.textDecoration = "underline";
+    }
+    function fSetReaderLevel(sReaderLevel) {
+      var sLevel0, sLevel1, sLevel2, sLevel0Span, sLevel1Span, sLevel2Span;
+      // set cookie
+      document.cookie = "ReaderLevel=" + sReaderLevel + "; expires=1785356010; path=/";
+      // set styles
+      if (sReaderLevel == 0) {
+        fDimLink("reader_level_0_link");
+        sLevel0 = "block";
+        sLevel1 = "none";
+        sLevel2 = "none";
+        sLevel0Span = "inline";
+        sLevel1Span = "none";
+        sLevel2Span = "none";
+      } else {
+        fLightLink("reader_level_0_link");
+      }
+      if (sReaderLevel == 1) {
+        fDimLink("reader_level_1_link");
+        sLevel0 = "block";
+        sLevel1 = "block";
+        sLevel2 = "none";
+        sLevel0Span = "inline";
+        sLevel1Span = "inline";
+        sLevel2Span = "none";
+      } else {
+        fLightLink("reader_level_1_link");
+      }
+      if (sReaderLevel == 2) {
+        fDimLink("reader_level_2_link");
+        sLevel0 = "block";
+        sLevel1 = "block";
+        sLevel2 = "block";
+        sLevel0Span = "inline";
+        sLevel1Span = "inline";
+        sLevel2Span = "inline";
+      } else {
+        fLightLink("reader_level_2_link");
+      }
+      fSetClassDisplay("reader_level_0", sLevel0);
+      fSetClassDisplay("reader_level_1", sLevel1);
+      fSetClassDisplay("reader_level_2", sLevel2);
+      fSetClassDisplay("div_0", sLevel0);
+      fSetClassDisplay("div_1", sLevel1);
+      fSetClassDisplay("div_2", sLevel2);
+      fSetClassDisplay("reader_level_0_span", sLevel0Span);
+      fSetClassDisplay("reader_level_1_span", sLevel1Span);
+      fSetClassDisplay("reader_level_2_span", sLevel2Span);
+      fSetClassDisplay("span_0", sLevel0Span);
+      fSetClassDisplay("span_1", sLevel1Span);
+      fSetClassDisplay("span_2", sLevel2Span);
+    }
+    </script>
+    
+<meta name="generator" content="skyBuilders.com timeLines">
+<link rel="stylesheet" href="https://www.informationphilosopher.com/timelines/PageFooter.css"><script type="text/javascript" language="javascript"><!-- 
+if (typeof SymRealWinOpen == 'function') {
+window.open = SymRealWinOpen;
+}
+//--></script>
+
+<script type="text/javascript" language="javascript">
+var sPageSeriesName = "index.html";
+var sRequestedFileName = "index.7.en.html";
+var sSkyPageID = "3892";
+function mSkyWrite() {
+window.open('/timelines/index.html?skyWrite=True&UserID=3&chosenLocaleCode=en&PageSeriesID=1656&PageID=3892&DirPath=%2Fknowledge%2FERR%2F', '_blank', 'resizable,menubar,location,toolbar,scrollbars,status,height=600,width=832,left=250,top=50', true);
+}
+var sCurrentlyOverDocument = 1;
+
+function fGetPagePos(oElement, sDimension) {
+  var sPagePos;
+  
+  if (! (oElement = document.getElementById(oElement))) {
+    return 0;
+  }
+  
+  sPagePos = 0;
+  
+  // alert(oElement);
+  while (oElement) {
+    if (typeof(oElement['offset' + sDimension]) != 'undefined') {
+      sPagePos += oElement['offset' + sDimension];
+    }
+    // alert(typeof oElement.offsetParent);
+    if (typeof(oElement.offsetParent) != 'undefined') {
+      oElement = oElement.offsetParent;
+    } else {
+      oElement = null;
+    }
+  }
+  
+  return sPagePos;
+}
+
+function fSkyWritableOver(sDivID, oEvent) {
+  var oDiv;
+  
+  if (oEvent) {
+    sElement = (oEvent.target) ? oEvent.target : oEvent.srcElement;
+    if ((sElement.id == 'skyIncludeEditablePencilImg') || (sElement.id == 'skyIncludeEditableCornerImg')){
+      window.status = 'click to edit';
+    }
+  }
+  
+  // alert(typeof sDivID);
+  if (typeof sDivID == 'string') {
+    sCurrentlyOverDocument = 0;
+    oDiv = document.getElementById(sDivID);
+    oPencil = document.getElementById('skyIncludeEditablePencil');
+    oCorner = document.getElementById('skyIncludeEditableCorner');
+    // sDivTop = oDiv.offsetTop;
+    sDivTop = fGetPagePos(sDivID, 'Top');
+    sDivLeft = fGetPagePos(sDivID, 'Left');
+    sDivWidth = oDiv.offsetWidth;
+    sDivHeight = oDiv.offsetHeight;
+    // alert('div: ' + sDivTop);
+    // alert(sDivWidth);
+    
+    oPencil.style.top = sDivTop + 'px';
+    oPencil.style.left = (sDivLeft + sDivWidth - 21) + 'px';
+    oCorner.style.top = (sDivTop + sDivHeight - 11) + 'px';
+    oCorner.style.left = sDivLeft + 'px';
+    // oSkyIncludeEditable.style.height = '0px';
+    // oSkyIncludeEditable.style.border = '#0000ff dashed 1px';
+    oPencil.style.width = '21px';
+    oPencil.style.height = '19px';
+    oPencil.style.zIndex = '101';
+    oPencil.onmouseover = oDiv.onmouseover;
+    oPencil.onmouseout = oDiv.onmouseout;
+    oPencil.onclick = oDiv.onclick;
+    oCorner.style.width = '10px';
+    oCorner.style.height = '9px';
+    oCorner.style.zIndex = '101';
+    oCorner.onmouseover = oDiv.onmouseover;
+    oCorner.onmouseout = oDiv.onmouseout;
+    oCorner.onclick = oDiv.onclick;
+    // oSkyIncludeEditable.style.display = 'block';
+    
+    // sSkyIncludeEditableTop = oSkyIncludeEditable.style.top;
+    // alert('skyinclude: ' + sSkyIncludeEditableTop);
+    
+    if (0) {
+      oDiv.style.borderWidth = '1px';
+      oDiv.style.borderStyle = 'dashed';
+      oDiv.style.borderColor = '#0000ff';
+    }
+  } else {
+    // sCurrentlyOverDocument = 1;
+  }
+}
+
+function fSkyWritableOut(sDivID) {
+  var oDiv;
+  
+  window.status = '';
+  
+  if (typeof sDivID == 'string') {
+    sCurrentlyOverDocument = 1;
+    // oDiv = document.getElementById(sDivID);
+    // doesn't work in IE: oDiv.style.border = '1px solid transparent';
+    // document.getElementById('skyIncludeEditable').style.display = 'none';
+    document.getElementById('skyIncludeEditablePencil').style.zIndex = '-1';
+    document.getElementById('skyIncludeEditablePencil').style.top = '-100';
+    document.getElementById('skyIncludeEditableCorner').style.zIndex = '-1';
+    document.getElementById('skyIncludeEditableCorner').style.top = '-100';
+    // oDiv.style.border = '1px solid #ffffff';
+  }
+}
+
+function fDocumentOnClick(oEvent) {
+  // alert(sCurrentlyOverDocument);
+  // if (0) {
+  if (sCurrentlyOverDocument == 1) {
+    fSkyWriteInclude(1656, 3892, '/knowledge/ERR/', oEvent);
+  }
+}
+
+function fAsOfNow() {
+  document.cookie = 'as_of=; path=/; domain=informationphilosopher.com';
+  document.location.href = '?@=now';
+}
+
+function fSubmitAsOfForm() {
+  oYearInput = document.getElementById('as_of_year');
+  oMonthInput = document.getElementById('as_of_month');
+  oDayInput = document.getElementById('as_of_day');
+  oHourInput = document.getElementById('as_of_hour');
+  oMinuteInput = document.getElementById('as_of_minute');
+  oSecondInput = document.getElementById('as_of_second');
+
+  sAsOf = oYearInput.value + '-' + oMonthInput.value + '-' + oDayInput.value + 'T' + oHourInput.value + ':' + oMinuteInput.value + ':' + oSecondInput.value;
+  document.location.href = '?@=' + sAsOf;
+}
+
+var aAsOfInputs = [
+  'as_of_year',
+  'as_of_month',
+  'as_of_day',
+  'as_of_hour',
+  'as_of_minute',
+  'as_of_second',
+];
+
+function fAsOfOnKeyUp(e) {
+  // Handle the Enter key
+  if (e.key == 'Enter') {
+     fSubmitAsOfForm();
+  }
+}
+
+function fAsOfOnInput(e) {
+  fAsOfNextInput(e.target);
+}
+
+function fAsOfNextInput(oInput) {
+  // Handle giving focus to the next input when this one is at max length
+  sMaxLen = String(oInput.max +'').length;
+
+  if (oInput.value.length == sMaxLen) {
+     // Find which input, if any, is next in the sequence
+     sNextIndex = aAsOfInputs.indexOf(oInput.id) + 1;
+     if (sNextIndex < aAsOfInputs.length) {
+     	oNext = document.getElementById(aAsOfInputs[sNextIndex]);
+	oNext.focus();
+	oNext.select();
+     }
+  }
+}
+
+function fDismissAsOfForm() {
+  var oDiv = document.getElementById('as_of_div');
+  if (oDiv) {
+    oDiv.style.display = 'none';
+  }
+}
+
+function fOpenAsOfForm() {
+  var oDiv = document.getElementById('as_of_div');
+  if (oDiv) {
+    oDisplaySpan = document.getElementById('as_of_display');
+    oYearInput = document.getElementById('as_of_year');
+    oMonthInput = document.getElementById('as_of_month');
+    oDayInput = document.getElementById('as_of_day');
+    oHourInput = document.getElementById('as_of_hour');
+    oMinuteInput = document.getElementById('as_of_minute');
+    oSecondInput = document.getElementById('as_of_second');
+  } else {
+    var oDiv = document.createElement('div');
+    oDiv.id = 'as_of_div';
+
+    var oForm = document.createElement('form');
+    oForm.style = 'margin-block-end: 0;';
+    oForm.id = 'as_of_form';
+    oForm.name = 'as_of_form';
+    oForm.onsubmit = fSubmitAsOfForm;
+    oDiv.appendChild(oForm);
+
+    var oGrid = document.createElement('div');
+    oGrid.style = 'display: grid; grid-template-columns: max-content min-content min-content min-content min-content min-content 1fr;';
+    oGrid.ondblclick = null;
+    oForm.appendChild(oGrid);
+
+    var oHeader = document.createElement('div');
+    oHeader.style = 'grid-column: 1; grid-row: 1; margin-top: 7px; padding-right: 5px;';
+    oHeader.appendChild(document.createTextNode('Showing page as of '));
+    oDisplaySpan = document.createElement('span');
+    oDisplaySpan.id = 'as_of_display';
+    oHeader.appendChild(oDisplaySpan)
+    oHeader.appendChild(document.createTextNode('. Choose date and time:'));
+    oGrid.appendChild(oHeader);
+
+    var oYearDiv = document.createElement('div');
+    oYearDiv.className = 'as_of_input_div';
+    oYearDiv.style = 'grid-column: 2; grid-row: 1;';
+    oGrid.appendChild(oYearDiv);
+
+    var oYearInput = document.createElement('input');
+    oYearInput.id = 'as_of_year';
+    oYearInput.type = 'number';
+    oYearInput.min = 1970;
+    oYearInput.max = 9999;
+    oYearInput.oninput = fAsOfOnInput;
+    oYearInput.onkeyup = fAsOfOnKeyUp;
+    oYearDiv.appendChild(oYearInput);
+
+    oYearDiv.appendChild(document.createTextNode('-'));
+
+    var oMonthDiv = document.createElement('div');
+    oMonthDiv.className = 'as_of_input_div';
+    oMonthDiv.style = 'grid-column: 3; grid-row: 1;';
+    oGrid.appendChild(oMonthDiv);
+
+    var oMonthInput = document.createElement('input');
+    oMonthInput.id = 'as_of_month';
+    oMonthInput.type = 'number';
+    oMonthInput.min = 1;
+    oMonthInput.max = 12;
+    oMonthInput.oninput = fAsOfOnInput;
+    oMonthInput.onkeyup = fAsOfOnKeyUp;
+    oMonthDiv.appendChild(oMonthInput);
+
+    oMonthDiv.appendChild(document.createTextNode('-'));
+
+    var oDayDiv = document.createElement('div');
+    oDayDiv.className = 'as_of_input_div';
+    oDayDiv.style = 'grid-column: 4; grid-row: 1; padding-right: 5px';
+    oGrid.appendChild(oDayDiv);
+
+    var oDayInput = document.createElement('input');
+    oDayInput.id = 'as_of_day';
+    oDayInput.type = 'number';
+    oDayInput.min = 1;
+    oDayInput.max = 31;
+    oDayInput.oninput = fAsOfOnInput;
+    oDayInput.onkeyup = fAsOfOnKeyUp;
+    oDayDiv.appendChild(oDayInput);
+
+    var oHourDiv = document.createElement('div');
+    oHourDiv.className = 'as_of_input_div';
+    oHourDiv.style = 'grid-column: 5; grid-row: 1;';
+    oGrid.appendChild(oHourDiv);
+
+    var oHourInput = document.createElement('input');
+    oHourInput.id = 'as_of_hour';
+    oHourInput.type = 'number';
+    oHourInput.min = 0;
+    oHourInput.max = 23;
+    oHourInput.oninput = fAsOfOnInput;
+    oHourInput.onkeyup = fAsOfOnKeyUp;
+    oHourDiv.appendChild(oHourInput);
+
+    oHourDiv.appendChild(document.createTextNode(':'));
+
+    var oMinuteDiv = document.createElement('div');
+    oMinuteDiv.className = 'as_of_input_div';
+    oMinuteDiv.style = 'grid-column: 6; grid-row: 1;';
+    oGrid.appendChild(oMinuteDiv);
+
+    var oMinuteInput = document.createElement('input');
+    oMinuteInput.id = 'as_of_minute';
+    oMinuteInput.type = 'number';
+    oMinuteInput.min = 0;
+    oMinuteInput.max = 59;
+    oMinuteInput.oninput = fAsOfOnInput;
+    oMinuteInput.onkeyup = fAsOfOnKeyUp;
+    oMinuteDiv.appendChild(oMinuteInput);
+
+    oMinuteDiv.appendChild(document.createTextNode(':'));
+
+    var oSecondDiv = document.createElement('div');
+    oSecondDiv.className = 'as_of_input_div';
+    oSecondDiv.style = 'grid-column: 7; grid-row: 1;';
+    oGrid.appendChild(oSecondDiv);
+
+    var oSecondInput = document.createElement('input');
+    oSecondInput.id = 'as_of_second';
+    oSecondInput.type = 'number';
+    oSecondInput.min = 0;
+    oSecondInput.max = 59;
+    oSecondInput.oninput = fAsOfOnInput;
+    oSecondInput.onkeyup = fAsOfOnKeyUp;
+    oSecondDiv.appendChild(oSecondInput);
+
+    var oSecondDiv = document.createElement('div');
+    oSecondDiv.className = 'as_of_input_div';
+    oSecondDiv.style = 'grid-column: 7; grid-row: 1;';
+    oGrid.appendChild(oSecondDiv);
+
+    var oButtonsDiv = document.createElement('div');
+    oButtonsDiv.style = 'grid-column: 8; grid-row: 1 /3; padding-top: 2px; text-align: right;';
+    oEnterButton = document.createElement('button');
+    oEnterButton.style = 'margin-bottom: 5px; margin-right: 5px;';
+    oEnterButton.onclick = fSubmitAsOfForm;
+    oEnterButton.appendChild(document.createTextNode('Enter'));
+    oButtonsDiv.appendChild(oEnterButton);
+    oNowButton = document.createElement('button');
+    oNowButton.style = 'margin-bottom: 5px;';
+    oNowButton.onclick = fAsOfNow;
+    oNowButton.appendChild(document.createTextNode('Now'));
+    oButtonsDiv.appendChild(oNowButton);
+    oButtonsDiv.appendChild(document.createElement('br'));
+    oDismissButton = document.createElement('button');
+    oDismissButton.onclick = fDismissAsOfForm;
+    oDismissButton.appendChild(document.createTextNode('Dismiss'));
+    oButtonsDiv.appendChild(oDismissButton);
+    oGrid.appendChild(oButtonsDiv);
+
+    var oErrorHeader = document.createElement('div');
+    oErrorHeader.style = 'grid-column: 1; grid-row: 2; padding-right: 5px; font-weight: bold;';
+    oErrorHeader.appendChild(document.createTextNode(''));
+    oGrid.appendChild(oErrorHeader);
+
+    var oYearLabelDiv = document.createElement('div');
+    oYearLabelDiv.className = 'as_of_label';
+    oYearLabelDiv.style = 'grid-column: 2;';
+    oGrid.appendChild(oYearLabelDiv);
+    oYearLabelDiv.appendChild(document.createTextNode('Year'));
+    oYearLabelDiv.appendChild(document.createElement('br'));
+    oYearLabelDiv.appendChild(document.createTextNode('YYYY'));
+
+    var oMonthLabelDiv = document.createElement('div');
+    oMonthLabelDiv.className = 'as_of_label';
+    oMonthLabelDiv.style = 'grid-column: 3;';
+    oGrid.appendChild(oMonthLabelDiv);
+    oMonthLabelDiv.appendChild(document.createTextNode('Month'));
+    oMonthLabelDiv.appendChild(document.createElement('br'));
+    oMonthLabelDiv.appendChild(document.createTextNode('01-12'));
+
+    var oDayLabelDiv = document.createElement('div');
+    oDayLabelDiv.className = 'as_of_label';
+    oDayLabelDiv.style = 'grid-column: 4;';
+    oGrid.appendChild(oDayLabelDiv);
+    oDayLabelDiv.appendChild(document.createTextNode('Day'));
+    oDayLabelDiv.appendChild(document.createElement('br'));
+    oDayLabelDiv.appendChild(document.createTextNode('01-31'));
+
+    var oHourLabelDiv = document.createElement('div');
+    oHourLabelDiv.className = 'as_of_label';
+    oHourLabelDiv.style = 'grid-column: 5;';
+    oGrid.appendChild(oHourLabelDiv);
+    oHourLabelDiv.appendChild(document.createTextNode('Hour'));
+    oHourLabelDiv.appendChild(document.createElement('br'));
+    oHourLabelDiv.appendChild(document.createTextNode('00-23'));
+
+    var oMinuteLabelDiv = document.createElement('div');
+    oMinuteLabelDiv.className = 'as_of_label';
+    oMinuteLabelDiv.style = 'grid-column: 6;';
+    oGrid.appendChild(oMinuteLabelDiv);
+    oMinuteLabelDiv.appendChild(document.createTextNode('Minute'));
+    oMinuteLabelDiv.appendChild(document.createElement('br'));
+    oMinuteLabelDiv.appendChild(document.createTextNode('00-59'));
+
+    var oSecondLabelDiv = document.createElement('div');
+    oSecondLabelDiv.className = 'as_of_label';
+    oSecondLabelDiv.style = 'grid-column: 7;';
+    oGrid.appendChild(oSecondLabelDiv);
+    oSecondLabelDiv.appendChild(document.createTextNode('Second'));
+    oSecondLabelDiv.appendChild(document.createElement('br'));
+    oSecondLabelDiv.appendChild(document.createTextNode('00-59'));
+
+    document.body.insertBefore(oDiv, document.body.firstChild);
+  }
+
+  oYearInput.value = '2026';
+  oMonthInput.value = '07';
+  oDayInput.value = '29';
+  oHourInput.value = '19';
+  oMinuteInput.value = '13';
+  oSecondInput.value = '29';
+
+  oDisplaySpan.innerText = oYearInput.value + '-' + oMonthInput.value + '-' + oDayInput.value + ' ' + oHourInput.value + ':' + oMinuteInput.value + ':' + oSecondInput.value;
+
+  oDiv.style.display = 'block';
+
+  oYearInput.focus();
+  oYearInput.select();
+}
+
+function fDocumentOnDblClick(oEvent) {
+  fOpenAsOfForm();
+}
+
+function fDocumentOnKeyPress(oEvent) {
+  // The @ symbol
+  if ((oEvent.shiftKey) && (oEvent.code == 'Digit2')) {
+    fOpenAsOfForm();
+  }
+}
+
+document.addEventListener('DOMContentLoaded', function(event) {
+  if ('' != '') {
+     document.cookie = 'as_of=; path=/; domain=informationphilosopher.com';
+     fOpenAsOfForm();
+  }
+});
+
+
+function fSkyWriteInclude(sPageSeriesID, sPageID, sDirPath, oEvent) {
+var sIndicatorClicked, sControlKeyPressed, sShiftKeyPressed;
+var sElement;
+
+// check for shift or control key depressed
+oEvent = (oEvent) ? oEvent : (window.event) ? window.event : ''
+
+sIndicatorClicked = 0;
+sControlKeyPressed = 0;
+sShiftKeyPressed = 0;
+if (oEvent) {
+  sModifierPressed = '';
+  
+  sElement = (oEvent.target) ? oEvent.target : oEvent.srcElement;
+  // alert(sElement.id);
+  
+  if ((sElement.id == 'skyIncludeEditablePencilImg') || (sElement.id == 'skyIncludeEditableCornerImg')){
+    sIndicatorClicked = 1;
+  }
+  
+  if (oEvent.which) {
+    if (oEvent.ctrlKey) {
+      sControlKeyPressed = 1;
+    }
+  } else {
+    if (oEvent.modifiers) {
+      if (oEvent.modifiers && oEvent.CTRL_MASK) {
+        // sControlKeyPressed = oEvent.modifiers;
+        sControlKeyPressed = 1;
+      }
+    } else {
+      if (oEvent.ctrlKey) {
+        sControlKeyPressed = 1;
+      }
+    }
+  }
+  
+  if (oEvent.which) {
+    if (oEvent.shiftKey) {
+      sShiftKeyPressed = 1;
+    }
+  } else {
+    if (oEvent.modifiers) {
+      if (oEvent.modifiers && oEvent.SHIFT_MASK) {
+        // sShiftKeyPressed = oEvent.modifiers;
+        sShiftKeyPressed = 1;
+      }
+    } else {
+      if (oEvent.shiftKey) {
+        sShiftKeyPressed = 1;
+      }
+    }
+  }
+}
+
+// if shift or control key pressed
+if ((sIndicatorClicked) || (sControlKeyPressed == 1) || (sShiftKeyPressed == 1)) {
+  // alert('pressed');
+  window.open('https://www.informationphilosopher.com/timelines/index.html?skyWrite=True&PageSeriesID=' + sPageSeriesID + '&PageID=' + sPageID + '&DirPath=' + sDirPath, '_blank', 'menubar,toolbar,location,resizable,scrollbars,status,height=600,width=832,left=250,top=50', true);
+}
+}
+    
+</script>
+    <title>The Experience Recorder and Reproducer</title>
+	
+  </head><body>
+
+    <a href="#skipnav" title="Skip Navigation, Search, and Login"></a>
+    <div id="header-wrapper"> 
+      <div id="header"> 
+        <!-- <div id="spacer">&nbsp;</div> -->
+        <div id="logo"><a href="/" title="Go to Information Philosopher home page"><img src="/images/clear.gif" alt="Go to Information Philosopher home page" border="0" width="70" height="70"></a></div>
+   
+	    <div id="social_cluster">
+            <!-- Load Facebook SDK for JavaScript -->
+            <div id="fb-root" style="display: inline;"></div>
+            <script>(function(d, s, id) {
+              var js, fjs = d.getElementsByTagName(s)[0];
+              if (d.getElementById(id)) return;
+              js = d.createElement(s); js.id = id;
+              js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8";
+              fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));</script>
+
+            <!-- Your like button code -->
+            <!-- data-href="https://www.your-domain.com/your-page.html" -->
+            <div class="social_button fb-like"
+              data-href=""
+              data-layout="button_count" 
+              data-action="like" 
+              data-show-faces="true">
+            </div>
+
+            <!-- Your share button code 
+            <div class="social_button fb-share-button" 
+              data-href="" 
+              data-layout="button_count">
+            </div> 
+
+            <div class="social_button">
+            	<a class="social_button twitter-share-button" href="https://twitter.com/intent/tweet">Tweet</a>&nbsp;
+            </div> -->
+            
+            <br />
+            <div id="social_links">
+	        	<font style="font-size:9px;font-color:#000066">Follow&nbsp;infophilosopher:</font>
+	        	 
+	        	<a href="https://www.facebook.com/infophilosopher" target="facebook" style="text-decoration:none" title="infophilosopher on Facebook"><img src="/images/Facebook3.png" style="border-radius: 3px; height:15px;"></a>
+	        	| 
+	        	<a href="http://youtube.com/infophilosopher/" target="youtube" style="text-decoration:none;" title="infophilosopher on YouTube"><img src="/images/YouTubeX.png" style="height:15px;"></a>
+	        </div>
+        </div>
+
+        <div id="main-menu">
+          <ul>
+            <li><a id="nav_banner_introduction" href="/introduction/" onmouseover="try{buttonMouseover(event, 'introduction');} catch(e){}">Introduction</a></li>
+            <li><a id="nav_banner_problems" href="/problems/" onmouseover="try{buttonMouseover(event, 'problems');} catch(e){}">Problems</a></li>
+            <li><a id="nav_banner_freedom" href="/freedom/" onmouseover="try{buttonMouseover(event, 'freedom');} catch(e){}">Freedom</a></li>
+            <li><a id="nav_banner_value" href="/value/" onmouseover="try{buttonMouseover(event, 'value');} catch(e){}">Value</a></li>
+            <li><a id="nav_banner_knowledge" href="/knowledge/" onmouseover="try{buttonMouseover(event, 'knowledge');} catch(e){}">Knowledge</a></li>
+            <!--<li><a id="nav_banner_solutions" href="/solutions/" onmouseover="try{buttonMouseover(event, 'solutions');} catch(e){}">Solutions</a></li> -->
+            <li><a id="nav_banner_life" href="/life/" onmouseover="try{buttonMouseover(event, 'life');} catch(e){}">Life</a></li>
+            <li><a id="nav_banner_mind" href="/mind/" onmouseover="try{buttonMouseover(event, 'mind');} catch(e){}">Mind</a></li>
+            <li><a id="nav_banner_chance" href="/chance/" onmouseover="try{buttonMouseover(event, 'chance');} catch(e){}">Chance</a></li>
+            <li><a id="nav_banner_quantum" href="/quantum/" onmouseover="try{buttonMouseover(event, 'quantum');} catch(e){}">Quantum</a></li>
+            <li><a id="nav_banner_entanglement" href="/entanglement/" onmouseover="try{buttonMouseover(event, 'entanglement');} catch(e){}">Entanglement</a></li>
+            <li><a id="nav_banner_scandal" href="/scandals/" onmouseover="try{buttonMouseover(event, 'scandals');} catch(e){}">Scandals</a></li>
+            <!--<li id="main-menu-rightmost"><a id="nav_banner_afterwords" href="/afterwords/" onmouseover="try{buttonMouseover(event, 'afterwords');} catch(e){}">Afterword</a></li>-->
+          </ul>
+        </div>
+      </div>
+    </div>
+ 
+    <div id="citation_info" class="display_none">
+      Citation for this page in APA citation style.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <span class="breadcrumbs">
+	  <a href="" title="Citation for this page in APA citation style." alt="Citation for this page in APA citation style." onclick="document.getElementById('citation_info').style.display = 'none'; return false;">Close</a> 
+	</span>
+      <p/>
+	<script language="javascript" type="text/javascript">
+	document.write(document.title);
+	document.write("<br/>Retrieved  ");
+	var oDate = new Date();
+	var aMonthName = new Array('January', 'February', 'March',
+                                   'April', 'May', 'June',
+                                   'July', 'August', 'September',
+                                   'October', 'November', 'December');
+	document.write(aMonthName[oDate.getMonth()] + ' ' + oDate.getDate() + ', ' + oDate.getFullYear());
+	document.write(", from Information Philosopher");
+	</script>
+	<br/>
+	<script language="javascript" type="text/javascript">
+	document.write("Web site <a href='");
+	document.write(location.href);
+	document.write("'>");
+	document.write(location.href);
+	document.write("</a>");
+	</script>
+
+    </div>
+
+    <div id="search_bar" class="search">
+      <table class="layout" cellpadding="0" cellspacing="0" width="731"> 
+        <tr> 
+          <td nowrap>
+	    <!-- &nbsp;<a href="http://www.informationphilosopher.com/site/search/">Search</a> | -->
+	    <!-- | <a href="http://www.informationphilosopher.com/site/A-Z_index/">A-Z Index</a> | -->
+
+	    <!--<a href="http://www.informationphilosopher.com/site/map/">Site Map</a> | 
+	    <a href="http://www.informationphilosopher.com/afterwords/glossary/">Glossary</a> |--> 
+
+	    <a href="/about/" target="about" style="text-decoration: none">About</a> &nbsp;
+
+	    <a href="/articles/" target="blog" style="text-decoration: none">Articles</a> &nbsp; 
+
+	    <!--<a href="http://i-phi.org" target="blog" style="text-decoration: none">Blog</a> &nbsp; -->
+	   
+	    <a href="/books/" target="blog" style="text-decoration: none">Books</a> &nbsp; 
+
+	    <a href="/lectures/" title="Lectures on information philosophy" alt="Lectures on information philosophy" style="text-decoration:none;margin-top:1px;">Lectures</a> &nbsp;
+
+	    <a href="/presentations/" target="presentations" style="text-decoration: none">Presentations</a> &nbsp; 
+
+	    <a href="/afterwords/glossary/" title="Glossary of Terms" alt="Glossary of Terms" style="text-decoration:none;margin-top:1px;">Glossary</a> &nbsp;
+
+	    <a href="" title="Citation for this page in APA citation style." alt="Citation for this page in APA citation style." onclick="document.getElementById('citation_info').style.display = 'block'; return false;" style="text-decoration: none">Cite</a> &nbsp;
+
+	    <a href="/help/" title="Want to help information philosophy?" alt="Want to help information philosophy?" style="text-decoration:none;margin-top:1px;">Help?</a> &nbsp;
+	    
+	     
+	    
+	    </td>
+
+          <!-- can we determine if user is logged in?  -->
+          <td class="search" align="right">
+        
+        <script type="text/javascript" language="javascript">
+	      function mAssembleSearchURL(sSearchCriteria, sWhichSearch) {
+	        var sSiteURL, sSearchURL;
+		sSiteURL = "informationphilosopher.com"
+	        sBaseURL = "http://www.google.com/search?hl=en&lr=&ie=UTF-8&oe=UTF-8&as_qdr=all&q=";
+
+		if (sWhichSearch == "0") {
+		  sSearchURL = sBaseURL + escape(sSearchCriteria);
+		} else {
+		  if (sWhichSearch == "1") {
+		    sSearchURL = sBaseURL + escape(sSearchCriteria) + "+site:" + sSiteURL;
+		  } else {
+		    sSearchURL = sBaseURL + escape(sSearchCriteria);
+		  }
+		}
+		window.open(sSearchURL, '_blank', 'menubar,location,resizable,scrollbars,status,toolbar,height=520,width=640,left=250,top=50', true);
+	      }
+	    </script>
+	    
+	    
+	    <form class="skyFooterForm" method="post" name="searchform1" action="" onsubmit="mAssembleSearchURL(document.searchform1.q.value, 1); return false;">
+	      <input size="30" maxlength="2048" name="q" type="text">
+	      <a href="" onclick="mAssembleSearchURL(document.searchform1.q.value, 1); return false;" style="text-decoration:none;">&nbsp;Search</a>
+	    </form>
+  
+        </td>
+          
+           <td>
+           	<a id="translate_link" title="A Google translation only gives you the 'gist' of the page. Please mouseover any confusing phrases to see the original English text." href="" style="text-decoration:none;"onmouseover="try{buttonMouseover(event, 'translate');} catch(e){}">Translate</a>
+           	<div id="translate" class="menu" onmouseover="menuMouseover(event);">
+           		<a id="translate_french" class="menuItem" href="https://translate.google.com/">French</a>
+           		<a id="translate_italian" class="menuItem" href="https://translate.google.com/">Italian</a>
+           		<a id="translate_german" class="menuItem" href="https://translate.google.com/">German</a>
+           		<a id="translate_russian" class="menuItem" href="https://translate.google.com/">Russian</a>
+           		<a id="translate_spanish" class="menuItem" href="https://translate.google.com/">Spanish</a>
+           	</div>
+           	</td>
+        </tr> 
+      </table>
+    </div>
+    
+	<script language="javascript" type="text/javascript">
+	var french = document.getElementById ("translate_french");
+	var italian = document.getElementById ("translate_italian");
+	var german = document.getElementById ("translate_german");
+	var russian = document.getElementById ("translate_russian");
+	var spanish = document.getElementById ("translate_spanish");
+	if (french) {
+		french.href = "https://translate.google.com/translate?sl=en&tl=fr&js=y&prev=_t&hl=en&ie=UTF-8&u=" + window.location.href + "&edit-text=";
+	};
+	if (italian) {
+		italian.href = "https://translate.google.com/translate?sl=en&tl=it&js=y&prev=_t&hl=en&ie=UTF-8&u=" + window.location.href + "&edit-text=";
+	};
+	if (german) {
+		german.href = "https://translate.google.com/translate?sl=en&tl=de&js=y&prev=_t&hl=en&ie=UTF-8&u=" + window.location.href + "&edit-text=";
+	};
+	if (russian) {
+		russian.href = "https://translate.google.com/translate?sl=en&tl=ru&js=y&prev=_t&hl=en&ie=UTF-8&u=" + window.location.href + "&edit-text=";
+	};
+	if (spanish) {
+		spanish.href = "https://translate.google.com/translate?sl=en&tl=es&js=y&prev=_t&hl=en&ie=UTF-8&u=" + window.location.href + "&edit-text=";
+	};
+	</script>
+
+    <a name="skipnav" tabindex="1" title="Information Philosopher"></a>
+    
+<div id="introduction" class="menu" onmouseover="menuMouseover(event);">
+  <a id="nav_banner_introduction_information" class="menuItem" href="/introduction/information/">The Information</a>
+  <a id="nav_banner_introduction_creation" class="menuItem" href="/introduction/creation/">The Creation</a>
+  <a id="nav_banner_introduction_physics" class="menuItem" href="/introduction/physics/">The Physics</a>
+  <a id="nav_banner_introduction_biology" class="menuItem" href="/introduction/biology/">The Biology</a>
+  <a id="nav_banner_introduction_philosophy" class="menuItem" href="/introduction/philosophy/">The Philosophy</a>
+  <a id="nav_banner_introduction_philosophers" class="menuItem" href="/solutions/philosophers/">The Philosophers</a>
+  <a id="nav_banner_introduction_scientists" class="menuItem" href="/solutions/scientists/">The Scientists</a>
+  <a id="nav_banner_introduction_problems" class="menuItem" href="/problems/">The Problems</a>
+  <a id="nav_banner_introduction_solutions" class="menuItem" href="/solutions/">The Solutions</a>
+  <a id="nav_banner_introduction_experiments" class="menuItem" href="/solutions/experiments/">The Experiments</a> 
+</div>
+    
+    <div id="problems" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_problems_arrow_of_time" class="menuItem" href="/problems/arrow_of_time/">Arrow of Time</a>
+      <a id="nav_banner_problems_consciousness" class="menuItem" href="/problems/consciousness/">Consciousness</a>
+      <a id="nav_banner_problems_dualisms" class="menuItem" href="/solutions/dualisms/">Dualisms</a>
+      <a id="nav_banner_problems_ergodicity" class="menuItem" href="/problems/ergodicity/">Ergodiciy</a>
+      <a id="nav_banner_problems_evil" class="menuItem" href="/problems/evil/">Evil</a>
+      <a id="nav_banner_problems_flatness" class="menuItem" href="/problems/flatness/">Flat Universe?</a>
+      <a id="nav_banner_problems_god" class="menuItem" href="/problems/god/">God</a>
+      <a id="nav_banner_problems_identity" class="menuItem" href="/problems/identity/">Identity</a>
+      <a id="nav_banner_problems_immortality" class="menuItem" href="/problems/immortality/">Immortality</a>
+      <a id="nav_banner_problems_induction" class="menuItem" href="/problems/induction/">Induction</a>
+      <a id="nav_banner_problems_life" class="menuItem" href="/problems/life/">Life</a>
+       <a id="nav_banner_problems_measurement" class="menuItem" href="/problems/measurement/">Measurement</a>
+       <a id="nav_banner_problems_mental_causation" class="menuItem" href="/problems/mental_causation/">Mental Causation</a>
+       <a id="nav_banner_problems_metaphysics" class="menuItem" href="/problems/metaphysics/">Metaphysics</a>
+       <a id="nav_banner_problems_mind_body" class="menuItem" href="/problems/mind_body/">Mind-Body</a>
+       <a id="nav_banner_problems_nonlocality" class="menuItem" href="/problems/nonlocality/">Nonlocality</a>
+       <a id="nav_banner_problems_possibilities" class="menuItem" href="/freedom/possibilities.html">Possibilities</a>
+       <a id="nav_banner_problems_recurrence" class="menuItem" href="/problems/recurrence/">Recurrence</a>
+       <a id="nav_banner_problems_reversibility" class="menuItem" href="/problems/reversibility/">Reversibility</a>
+    </div>
+
+   <div id="freedom" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_freedom_cogito" class="menuItem" href="/freedom/cogito/">The Cogito</a>
+      <a id="nav_banner_freedom_problem" class="menuItem" href="/freedom/problem/">The Problem</a>
+      <a id="nav_banner_freedom_history" class="menuItem" href="/freedom/history/">The History</a>
+      <a id="nav_banner_freedom_history" class="menuItem" href="/freedom/free_will_in_antiquity.html">Free Will in Antiquity</a>
+      <a id="nav_banner_freedom_mechanisms" class="menuItem" href="/freedom/mechanisms.html">Free Will Mechanisms</a>
+      <a id="nav_banner_freedom_physics" class="menuItem" href="/freedom/physics/">The Physics</a>
+      <a id="nav_banner_freedom_biology" class="menuItem" href="/freedom/biology/">The Biology</a>
+      <a id="nav_banner_freedom_neuroscience" class="menuItem" href="/freedom/neuroscience/">The Neuroscience</a>
+      <a id="nav_banner_freedom_possibilities" class="menuItem" href="/freedom/alternative_possibilities.html">Alternative Possibilities</a>
+      <a id="nav_banner_freedom_adequate" class="menuItem" href="/freedom/adequate_determinism.html">Adequate Determinism</a>
+      <a id="nav_banner_freedom_responsibility" class="menuItem" href="/freedom/moral_responsibility.html">Moral Responsibility</a>
+      <a id="nav_banner_freedom_self" class="menuItem" href="/freedom/self-determination.html">Self-Determination</a>
+      <a id="nav_banner_freedom_separability" class="menuItem" href="/freedom/separability.html">Separability of Free and Will</a>
+      <a id="nav_banner_freedom_argument" class="menuItem" href="/freedom/standard_argument.html">Standard Argument</a>
+      <a id="nav_banner_freedom_argument" class="menuItem" href="/freedom/superdeterminism.html">Superdeterminism</a>
+      <a id="nav_banner_freedom_two-stage" class="menuItem" href="/freedom/two-stage_models.html">Two-Stage Models</a>
+    </div>
+    
+    <div id="value" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_value_ergo" class="menuItem" href="/value/ergo/">The Ergo</a>
+      <a id="nav_banner_value_free_energy" class="menuItem" href="/value/free_energy/">Free Energy</a>
+      <a id="nav_banner_value_problem" class="menuItem" href="/value/problem/">The Problem</a>
+      <a id="nav_banner_value_history" class="menuItem" href="/value/history/">The History</a>
+      <a id="nav_banner_value_good" class="menuItem" href="/value/good/">The Good</a>
+      <a id="nav_banner_value_origin" class="menuItem" href="/value/origin/">Origin of the Good</a>
+      <a id="nav_banner_value_evil" class="menuItem" href="/value/evil/">Evil (Theodicy)</a>
+      <a id="nav_banner_value_ergod" class="menuItem" href="/value/ergod/">The Ergod</a>
+    </div>
+    
+    <div id="knowledge" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_knowledge_sum" class="menuItem" href="/knowledge/sum/">The Sum</a>
+      <a id="nav_banner_knowledge_problem" class="menuItem" href="/knowledge/problem/">The Problem</a>
+      <a id="nav_banner_knowledge_history" class="menuItem" href="/knowledge/history/">The History</a>
+      <a id="nav_banner_knowledge_belief" class="menuItem" href="/knowledge/belief/">Belief</a>
+      <a id="nav_banner_knowledge_complexity" class="menuItem" href="/knowledge/complexity/">Complexity</a>
+      <a id="nav_banner_knowledge_complexity_history" class="menuItem" href="/knowledge/complexity/history">Complex Systems History</a>
+      <a id="nav_banner_knowledge_demarcation" class="menuItem" href="/knowledge/demarcation/">Demarcation Problem</a>
+      <a id="nav_banner_knowledge_emergence" class="menuItem" href="/knowledge/emergence.html">Emergence</a>
+      <a id="nav_banner_knowledge_epistemology" class="menuItem" href="/problems/epistemology/">Epistemology</a>
+      <a id="nav_banner_knowledge_induction" class="menuItem" href="/problems/induction/">Induction</a>
+      <a id="nav_banner_knowledge_regress" class="menuItem" href="/knowledge/infinite_regress.html">Infinite Regress</a>
+      <a id="nav_banner_knowledge_meaning" class="menuItem" href="/knowledge/meaning/">Meaning</a>
+      <a id="nav_banner_knowledge_metaphysics" class="menuItem" href="/problems/metaphysics/">Metaphysics</a>
+      <a id="nav_banner_knowledge_ontology" class="menuItem" href="/problems/ontology/">Ontology</a>
+      <a id="nav_banner_knowledge_one-many" class="menuItem" href="/problems/one_or_many/">One or Many</a>
+      <a id="nav_banner_knowledge_providence" class="menuItem" href="/knowledge/providence/">Providence</a>
+      <a id="nav_banner_knowledge_universals" class="menuItem" href="/knowledge/universals.html">Universals</a>
+      <a id="nav_banner_knowledge_truth" class="menuItem" href="/knowledge/truth/">Truth</a>
+      
+    </div>
+    
+    
+     <div id="mind" class="menu" onmouseover="menuMouseover(event);">
+      <!--<a id="nav_banner_mind_problems" class="menuItem" href="/mind/problems/">The Problems</a>-->
+      <a id="nav_banner_mind_history" class="menuItem" href="/mind/history/">The History</a>
+      <!--<a id="nav_banner_mind_ego" class="menuItem" href="/mind/ego/">The Self <i>or</i> Ego</a>
+      <a id="nav_banner_mind_physics" class="menuItem" href="/mind/physics/">The Physics</a>
+      <a id="nav_banner_mind_neuroscience" class="menuItem" href="/mind/neuroscience/">The Neuroscience</a>-->
+      <a id="nav_banner_mind_mind-body" class="menuItem" href="/mind/mind_body/">Mind-Body Problem</a>
+      <a id="nav_banner_mind_consciousness" class="menuItem" href="/mind/binding/">Binding Problem</a>
+      <a id="nav_banner_mind_consciousness" class="menuItem" href="/mind/consciousness/">Consciousness Problem</a>
+      <a id="nav_banner_mind_tocs" class="menuItem" href="/mind/tocs/">Theories of Consciousness</a>
+      <a id="nav_banner_mind_nccs" class="menuItem" href="/mind/NCC/">Neural Correlates of Consciousness</a>
+      <a id="nav_banner_mind_consciousness" class="menuItem" href="/mind/cogscience/">Computational Models</a>
+      <a id="nav_banner_mind_lmm" class="menuItem" href="/mind/llm/">Is Mind a Large Language Model (AI)?</a>
+      <a id="nav_banner_mind_err" class="menuItem" href="/mind/ERR/">The Experience Recorder and Reproducer (ERR)</a>
+      <a id="nav_banner_mind_mirror" class="menuItem" href="/mind/mirror_neurons/">Mirror Neurons</a>
+      <a id="nav_banner_mind_causation" class="menuItem" href="/knowledge/mental_causation.html">Mental Causation</a>
+      <a id="nav_banner_mind_panpsychism" class="menuItem" href="/mind/panpsychism">Panpsychism</a>
+      <a id="nav_banner_mind_purpose" class="menuItem" href="/mind/purpose/">Purpose</a>
+      <a id="nav_banner_mind_agency" class="menuItem" href="/mind/agency/">Agency</a>
+      <a id="nav_banner_mind_reductionism" class="menuItem" href="/knowledge/reductionism.html">Reductionism</a>
+      <a id="nav_banner_mind_representation" class="menuItem" href="/knowledge/representation/">Representation</a>
+   </div>
+    
+    <div id="solutions" class="menu" onmouseover="menuMouseover(event);">
+     <a id="nav_banner_solutions_demons" class="menuItem" href="/solutions/demons/">Demons</a>
+     <a id="nav_banner_solutions_determinisms" class="menuItem" href="/solutions/determinisms/">Determinisms</a>
+     <a id="nav_banner_solutions_dogmas" class="menuItem" href="/solutions/dogmas/">Dogmas</a>
+     <a id="nav_banner_solutions_dualisms" class="menuItem" href="/solutions/dualisms/">Dualisms</a>
+     <a id="nav_banner_solutions_experiments" class="menuItem" href="/solutions/experiments/">Experiments</a>
+     <a id="nav_banner_solutions_language" class="menuItem" href="/solutions/language/">Language</a>
+     <!--  <a id="nav_banner_solutions_philosophers" class="menuItem" href="/solutions/philosophers/">Philosophers</a> -->
+     <a id="nav_banner_solutions_progress" class="menuItem" href="/solutions/progress/">Progress</a>
+     <a id="nav_banner_solutions_reason" class="menuItem" href="/solutions/reason/">Reason</a>
+     <!-- <a id="nav_banner_solutions_scientists" class="menuItem" href="/solutions/scientists/">Scientists</a>  -->
+     <a id="nav_banner_solutions_theories" class="menuItem" href="/solutions/theories/">Theories</a>
+     <a id="nav_banner_solutions_triads" class="menuItem" href="/solutions/triads/">Triads</a>
+    </div>
+    
+     <div id="chance" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_chance_history" class="menuItem" href="/chance/history/">The History</a>
+      <a id="nav_banner_mind_problems" class="menuItem" href="/introduction/physics/statistical_mechanics.html">Entropy and Probability</a>
+      <a id="nav_banner_chance_tyche" class="menuItem" href="/chance/tyche/">Peirce's Tyche</a>
+      <a id="nav_banner_chance_einstein" class="menuItem" href="/solutions/scientists/einstein/">Through Einstein's Eyes</a>
+    </div>
+    
+     <div id="quantum" class="menu" onmouseover="menuMouseover(event);">
+     <a id="nav_banner_quantum_blaxk_holes" class="menuItem" href="/quantum/black_holes/">Black Holes</a>
+     <a id="nav_banner_quantum_collapse" class="menuItem" href="/quantum/collapse/">Collapse of the <br/>Wave Function</a>
+     <a id="nav_banner_quantum_observer" class="menuItem" href="/quantum/observer/">Conscious Observer</a>
+     <a id="nav_banner_quantum_xopenhagen" class="menuItem" href="/quantum/copenhagen/">Copenhagen Interpretation</a>
+     <a id="nav_banner_quantum_decoherence" class="menuItem" href="/quantum/decoherence/">Decoherence</a>
+     <a id="nav_banner_quantum_determinism" class="menuItem" href="/quantum/determinism/">Determinism</a>
+     <a id="nav_banner_quantum_indeterminism" class="menuItem" href="/quantum/indeterminism/">Indeterminism</a>
+     <a id="nav_banner_quantum_principles" class="menuItem" href="/quantum/principles/">Dirac's Principles</a>
+     <a id="nav_banner_quantum_polarizers" class="menuItem" href="/solutions/experiments/dirac_3-polarizers/">Dirac's 3 Polarizers</a>
+     <a id="nav_banner_quantum_foundation" class="menuItem" href="/quantum/foundation/">Foundations</a>
+     <a id="nav_banner_quantum_interpretation" class="menuItem" href="/quantum/interpretations/">Interpretations</a>
+     <a id="nav_banner_quantum_irreversibility" class="menuItem" href="/problems/reversibility/">Irreversibility</a>
+     <a id="nav_banner_quantum_measurement" class="menuItem" href="/problems/measurement/">Measurement Problem</a>
+     <a id="nav_banner_quantum_physics" class="menuItem" href="/quantum/physics/">Quantum, Thermo, Info</a>
+     <a id="nav_banner_quantum_classical" class="menuItem" href="/introduction/physics/quantum_to_classical.html">Quantum to Classical</a>
+     <a id="nav_banner_quantum_recurrence" class="menuItem" href="/problems/recurrence/">Recurrence Problem</a>
+     <a id="nav_banner_quantum_schrodingerscat" class="menuItem" href="/solutions/experiments/schrodingerscat/">Schrödinger's Cat</a>
+     <a id="nav_banner_quantum_schrodingerequation" class="menuItem" href="/quantum/equation/">Schrödinger Equation</a>
+     <a id="nav_banner_quantum_statistical" class="menuItem" href="/quantum/spacetime/">SpaceTime</a>
+     <a id="nav_banner_quantum_spacetime" class="menuItem" href="/quantum/statistical/">Statistical Interpretation</a>
+     <a id="nav_banner_quantum_superposition" class="menuItem" href="/quantum/superposition/">Superposition</a>
+     <a id="nav_banner_quantum_mystery" class="menuItem" href="/quantum/mystery/">The Only Mystery</a>
+     <a id="nav_banner_quantum_EPR" class="menuItem" href="/quantum/two-slit/">Two-Slit Experiment</a>
+     <a id="nav_banner_quantum_EPR" class="menuItem" href="/quantum/uncertainty/">Uncertainty Principle</a>
+     <a id="nav_banner_quantum_wave" class="menuItem" href="/introduction/physics/wave-particle_duality.html">Wave-Particle Duality</a>
+    </div>
+    
+    <div id="scandals" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_scandals_chance" class="menuItem" href="/scandals/chance/">Chance</a> <!--Science-->
+      <a id="nav_banner_scandals_consciousness" class="menuItem" href="/scandals/consciousness/">Consciousness</a> <!--Neuroscience-->
+      <a id="nav_banner_scandals_flat" class="menuItem" href="/scandals/creation/">Creation</a>  <!--Cosmology-->
+      <a id="nav_banner_scandals_einstein" class="menuItem" href="/scandals/einstein/">Einstein</a>  <!--Quantum Mechanics-->
+      <a id="nav_banner_scandals_freedom" class="menuItem" href="/scandals/free_will/">Free Will</a>  <!--Philosophys-->
+      <a id="nav_banner_scandals_god" class="menuItem" href="/scandals/god/">God</a>  <!--Religion-->
+      <a id="nav_banner_scandals_knowledge" class="menuItem" href="/scandals/knowledge/">Knowledge</a>  <!--Epistemology-->
+      <a id="nav_banner_scandals_life" class="menuItem" href="/scandals/life/">Life</a> <!--Biology-->
+      <a id="nav_banner_scandals_meaning" class="menuItem" href="/scandals/meaning/">Meaning</a> <!--Language-->
+      <a id="nav_banner_scandals_metaphysics" class="menuItem" href="/scandals/metaphysics/">Metaphysics</a> <!--Ontology-->
+      <a id="nav_banner_scandals_mind" class="menuItem" href="/scandals/mind/">Mind</a> <!--Language-->
+      <a id="nav_banner_scandals_power" class="menuItem" href="/scandals/power/">Power</a> <!--Politics-->
+      <a id="nav_banner_scandals_values" class="menuItem" href="/scandals/value/">Values</a>  <!--Ethics-->
+      <a id="nav_banner_scandals_wealth" class="menuItem" href="/scandals/wealth/">Wealth</a>  <!--Economics-->
+   </div>
+
+    <div id="afterwords" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_afterwords_conclusions" class="menuItem" href="/afterwords/conclusions/">Conclusions</a>
+      <a id="nav_banner_afterwords_bibliography" class="menuItem" href="/afterwords/bibliography/">Bibliography</a>
+      <a id="nav_banner_afterwords_glossary" class="menuItem" href="/afterwords/glossary/">Glossary</a>
+      <a id="nav_banner_afterwords_author_index" class="menuItem" href="/afterwords/author_index/">Name Index</a>
+      <a id="nav_banner_afterwords_subject_index" class="menuItem" href="/afterwords/subject_index/">Subject Index</a>
+      <a id="nav_banner_afterwords_colophon" class="menuItem" href="/afterwords/colophon/">Colophon</a>
+    </div>
+    
+    <div id="life" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_life_agency" class="menuItem" href="/life/agency/">Agency</a>
+      <a id="nav_banner_life_autopoesis" class="menuItem" href="/life/autopoesis/">Autopoesis</a>
+      <!--<a id="nav_banner_life_cell_cycle" class="menuItem" href="/life/cell_cycle/">The Cell Cycle</a>-->
+      <a id="nav_banner_life_beyond" class="menuItem" href="/life/beyond/">Beyond Darwinism?</a>
+      <a id="nav_banner_life_biosemiotics" class="menuItem" href="/life/biosemiotics/">Biosemiotics</a>
+      <a id="nav_banner_life_biosphere" class="menuItem" href="/life/biosphere/">Biosphere</a>
+      <a id="nav_banner_life_complexity" class="menuItem" href="/life/complexity/">Complexity</a>
+      <a id="nav_banner_life_emergence" class="menuItem" href="/life/emergence/">Emergence</a>
+      <a id="nav_banner_life_entelechy" class="menuItem" href="/life/entelechy/">Entelechy</a>
+      <a id="nav_banner_life_entropy" class="menuItem" href="/life/entropy/">Entropy</a>
+      <a id="nav_banner_life_epigenetics" class="menuItem" href="/life/epigenetics/">Epigenetics</a>
+      <a id="nav_banner_life_gaia" class="menuItem" href="/life/gaia/">Gaia</a>
+      <a id="nav_banner_life_infobiology" class="menuItem" href="/life/infobiology/">Information in Biology</a>
+      <a id="nav_banner_life_design" class="menuItem" href="/life/design/">Intelligent Design</a>
+      <a id="nav_banner_life_meaning" class="menuItem" href="/life/meaning/">Meaning</a>
+      <a id="nav_banner_life_origins" class="menuItem" href="/life/origins/">Origins</a>
+      <a id="nav_banner_life_goal" class="menuItem" href="/life/goal/">Purpose</a>
+      <a id="nav_banner_life_reductionism" class="menuItem" href="/life/reductionism/">Reductionism</a>
+      <a id="nav_banner_life_reverence" class="menuItem" href="/life/reverence/">Reverence for Life</a>
+      <!--<a id="nav_banner_life_synergy" class="menuItem" href="/life/synergy"/">Synergy</a>-->
+      <a id="nav_banner_life_teleology" class="menuItem" href="/life/teleology/">Teleology</a>
+      <a id="nav_banner_life_teleonomy" class="menuItem" href="/life/teleonomy/">Teleonomy</a>
+      <a id="nav_banner_life_universal_darwinism" class="menuItem" href="/life/universal_darwinism/">Universal Darwinism</a>
+      <a id="nav_banner_life_vitalism" class="menuItem" href="/life/vitalism/">Vitalism</a>
+      
+      
+    </div>
+    
+    <div id="entanglement" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_bell" class="menuItem" href="/quantum/bell_theorem/">Bell's Theorem</a>
+      <a id="nav_banner_entanglement_polytope" class="menuItem" href="/entanglement/polytope/">Bell's Kinky Polytope</a>
+      <a id="nav_banner_common_cause" class="menuItem" href="/entanglement/common_cause/">Common Cause?</a>
+      <a id="nav_banner_disentanglement*" class="menuItem" href="/quantum/disentanglement/">Disentanglement</a>
+      <a id="nav_banner_EPR" class="menuItem" href="/solutions/experiments/EPR/">EPR Paradox</a>
+      <a id="nav_banner_fresnel" class="menuItem" href="/quantum/fresnel-arago/">Fresnel-Arago Effect</a>
+      <a id="nav_banner_hidden_constant" class="menuItem" href="/quantum/hidden_constant/">Hidden Constant of Motion?</a>
+      <a id="nav_banner_hidden_variables" class="menuItem" href="/entanglement/hidden_variables/">Hidden Variables?</a>
+      <a id="nav_banner_mach-zender" class="menuItem" href="/quantum/mach_zender/">Mach-Zender</a>
+      <a id="nav_banner_quantum_keys" class="menuItem" href="/quantum/keys/">Quantum Keys</a>
+      <a id="nav_banner_nonlocality" class="menuItem" href="/problems/nonlocality/">Nonlocality</a>
+      <a id="nav_banner_nonseparability" class="menuItem" href="/problems/nonseparability/">Nonseparability</a>
+      <a id="nav_banner_quantum_computer" class="menuItem" href="/quantum/keys/">Quantum Computers</a>
+      <a id="nav_banner_quantum_eraser" class="menuItem" href="/quantum/keys/">Quantum Eraser</a>
+      <a id="nav_banner_quantum_keys" class="menuItem" href="/quantum/keys/">Quantum Keys</a>
+      <a id="nav_banner_quantum_weirdness" class="menuItem" href="/quantum/weirdness/">Quantum Weirdness</a>
+      <a id="nav_banner_qubits" class="menuItem" href="/quantum/qubits/">Qubits</a>
+      <a id="nav_banner_spherical" class="menuItem" href="/entanglement/spherical/">Spherical Symmetry</a>
+      <a id="nav_banner_spooky_action" class="menuItem" href="/entanglement/spooky/">Spooky Action at a Distance</a>
+      <a id="nav_banner_delayed" class="menuItem" href="/quantum/delayed_choice/">Wheeler's Delayed Choice</a>
+      
+    </div>
+
+    
+    
+    
+    <!-- start column1 -->
+    <table width="765" border="0" cellspacing="0" cellpadding="0">
+      <tbody>
+	<tr>
+	  <td valign="top">
+	    <div id="column1">
+	     <div class="linksLeftCol">
+              Core&nbsp;Concepts
+<br><br>
+<a href="/knowledge/abduction.html">Abduction</a><br> 
+<!--<a href="/knowledge/analytic_synthetic.html">Analytic/Synthetic</a><br> 
+<a href="/knowledge/a_priori.html">A Priori/A Posteriori</a><br> -->
+<a href="/knowledge/belief.html">Belief</a><br> 
+<a href="/knowledge/best_explanation.html">Best Explanation</a><br> 
+<a href="/knowledge/causality.html">Cause</a><br> 
+<a href="/knowledge/certainty.html">Certainty</a><br> 
+<a href="/knowledge/chance.html">Chance</a><br> 
+<!-- <a href="/knowledge/circularity.html">Circularity</a><br> 
+<a href="/knowledge/coherentism.html">Coherentism</a><br> 
+<a href="/knowledge/complexity.html/">Complexity</a><br> 
+<a href="/knowledge/consistency.html/">Consistency</a><br> 
+<a href="/knowledge/contextualism.html">Contextualism</a><br> 
+<a href="/knowledge/contingency.html">Contingency</a><br> -->
+<a href="/knowledge/coherence.html">Coherence</a><br> 
+<a href="/knowledge/correspondence.html">Correspondence</a><br> 
+<a href="/knowledge/decoherence.html">Decoherence</a><br> 
+<!--<a href="/knowledge/deduction.html">Deduction</a><br> 
+<a href="/knowledge/defeat.html">Defeat</a><br> -->
+<a href="/knowledge/divided_line.html">Divided Line</a><br>
+<a href="/knowledge/downward_causation.html">Downward Causation</a><br>
+<a href="/knowledge/emergence.html">Emergence</a><br>
+<a href="/knowledge/emergent_dualism.html">Emergent Dualism</a><br>
+<a href="/knowledge/ERR/">ERR</a><br> 
+<!--<a href="/knowledge/externalism.html">Externalism</a><br> 
+<a href="/knowledge/foundationalism.html">Foundationalism</a><br> 
+<a href="/knowledge/gettier_problem.html">Gettier Problem</a><br> --> 
+<a href="/knowledge/identity_theory.html">Identity Theory</a><br>
+<!-- <a href="/knowledge/induction.html">Induction</a><br> -->
+<a href="/knowledge/infinite_regress.html">Infinite Regress</a><br> 
+<a href="/knowledge/information.html">Information</a><br> 
+<a href="/knowledge/intension_extension.html">Intension/Extension</a><br> 
+<!-- <a href="/knowledge/internalism.html">Internalism</a><br> -->
+<a href="/knowledge/inter-subjectivism.html">Intersubjectivism</a><br>
+<a href="/knowledge/justification.html/">Justification</a><br> 
+<a href="/knowledge/materialism.html">Materialism</a><br>
+<a href="/knowledge/meaning/">Meaning</a><br>
+<!--<a href="/knowledge/measurement.html">Measurement</a><br> -->
+<a href="/knowledge/mental_causation.html">Mental Causation</a><br>
+<a href="/knowledge/multiple_realizability.html">Multiple Realizability</a><br>
+<!-- <a href="/knowledge/modernism.html">Modernism</a><br> -->
+<a href="/knowledge/naturalism.html">Naturalism</a><br>
+<a href="/knowledge/necessity.html">Necessity</a><br>
+<!-- <a href="/knowledge/noise.html">Noise</a><br>
+<a href="/knowledge/objectivism.html">Objectivism</a><br>--> 
+<a href="/knowledge/possibile_worlds.html">Possible Worlds</a><br> 
+<a href="/articles/postmodernism.html">Postmodernism</a><br> 
+<a href="/knowledge/probability.html">Probability</a><br> 
+<a href="/knowledge/realism.html">Realism</a><br>
+<a href="/knowledge/reductionism.html">Reductionism</a><br>
+<!-- <a href="/knowledge/relativism.html">Relativism</a><br> 
+<a href="/knowledge/reliabilism.html">Reliabilism</a><br> --> 
+<a href="/knowledge/schrodinger_cat.html">Schrödinger's Cat</a><br>
+<!-- <a href="/knowledge/skepticism.html">Skepticism</a><br> 
+<a href="/knowledge/subjectivism.html">Subjectivism</a><br> -->
+<a href="/knowledge/supervenience.html">Supervenience</a><br>
+<!-- <a href="/knowledge/tradition.html">Tradition</a><br> --> 
+<a href="/knowledge/truth.html">Truth</a><br> 
+<a href="/knowledge/universals.html">Universals</a><br> 
+<!-- <a href="/knowledge/verification.html">Verification</a> -->
+<p/>               Topics
+<p/>
+    <a href="/introduction/">Introduction</a><br> 
+    <a href="/problems/">Problems</a><br> 
+    <a href="/freedom/">Freedom</a><br> 
+    <a href="/knowledge/">Knowledge</a><br> 
+    <a href="/mind/">Mind</a><br> 
+    <a href="/life/">Life</a><br> 
+    <a href="/chance/">Chance</a><br> 
+    <a href="/quantum/">Quantum</a><br> 
+    <a href="/entanglement/">Entanglement</a><br> 
+    <a href="/scandals/">Scandals</a><br> 
+    <p/>
+Philosophers
+    <br><br>
+    <a href="/solutions/philosophers/adler/">Mortimer Adler</a><br> 
+    <a href="/solutions/philosophers/albritton/">Rogers Albritton</a><br> 
+    <a href="/solutions/philosophers/alexander/">Alexander of Aphrodisias</a><br> 
+    <a href="/solutions/philosophers/alexanders/">Samuel Alexander</a><br> 
+    <a href="/solutions/philosophers/alston/">William Alston</a><br> 
+    <a href="/solutions/philosophers/anaximander/">Anaximander</a><br> 
+    <a href="/solutions/philosophers/anscombe/">G.E.M.Anscombe</a><br> 
+    <a href="/solutions/philosophers/anselm/">Anselm</a><br> 
+    <a href="/solutions/philosophers/antony/">Louise Antony</a><br> 
+    <a href="/solutions/philosophers/aquinas/">Thomas Aquinas</a><br> 
+    <a href="/solutions/philosophers/aristotle/">Aristotle</a><br> 
+    <!-- <a href="/solutions/philosophers/arminius/">Arminius</a><br> -->
+    <a href="/knowledge/philosophers/armstrong/">David Armstrong</a><br> 
+    <a href="/solutions/philosophers/atmanspacher/">Harald Atmanspacher</a><br> 
+    <a href="/knowledge/philosophers/audi/">Robert Audi</a><br> 
+    <a href="/solutions/philosophers/augustine/">Augustine</a><br> 
+    <a href="/solutions/philosophers/austin/">J.L.Austin</a><br>
+    <a href="/solutions/philosophers/ayer/">A.J.Ayer</a><br>
+    <a href="/solutions/philosophers/bain/">Alexander Bain</a><br> 
+    <a href="/solutions/philosophers/balaguer/">Mark Balaguer</a><br> 
+    <a href="/solutions/philosophers/barrett/">Jeffrey Barrett</a><br> 
+    <a href="/solutions/philosophers/barrettw/">William Barrett</a><br> 
+    <a href="/solutions/philosophers/belsham/">William Belsham</a><br> 
+    <a href="/solutions/philosophers/bergson/">Henri Bergson</a><br> 
+    <a href="/solutions/philosophers/berkeley/">George Berkeley</a><br> 
+    <a href="/solutions/philosophers/berlin/">Isaiah Berlin</a><br>
+    <a href="/solutions/philosophers/bernstein/">Richard J. Bernstein</a><br>
+    <a href="/solutions/philosophers/berofsky/">Bernard Berofsky</a><br>
+    <a href="/knowledge/philosophers/bishop/">Robert Bishop</a><br> 
+    <a href="/solutions/philosophers/black/">Max Black</a><br> 
+    <a href="/solutions/philosophers/blackmore/">Susan Blackmore</a><br> 
+    <a href="/solutions/philosophers/bobzien/">Susanne Bobzien</a><br> 
+    <a href="/solutions/philosophers/bois-reymond/">Emil du Bois-Reymond</a><br> 
+    <a href="/solutions/philosophers/bok/">Hilary Bok</a><br> 
+    <a href="/knowledge/philosophers/bonjour/">Laurence BonJour</a><br> 
+    <a href="/solutions/philosophers/boole/">George Boole</a><br> 
+    <a href="/solutions/philosophers/boutroux/">Émile Boutroux</a><br> 
+    <a href="/solutions/philosophers/boyd/">Daniel Boyd</a><br> 
+    <a href="/solutions/philosophers/bradley/">F.H.Bradley</a><br> 
+    <!-- <a href="/solutions/philosophers/bradley/">Franz Brentano</a><br> -->
+    <a href="/solutions/philosophers/broad/">C.D.Broad</a><br>
+    <a href="/solutions/philosophers/burke/">Michael Burke</a><br>
+    <a href="/solutions/philosophers/butterfield/">Jeremy Butterfield</a><br>
+    <a href="/solutions/philosophers/cahoone/">Lawrence Cahoone</a><br>
+    <a href="/solutions/philosophers/campbell/">C.A.Campbell</a><br>
+    <a href="/solutions/philosophers/campbellj/">Joseph Keim Campbell</a><br>
+    <a href="/solutions/philosophers/carnap/">Rudolf Carnap</a><br>
+    <a href="/solutions/philosophers/carneades/">Carneades</a><br>
+    <a href="/solutions/philosophers/cartwright/">Nancy Cartwright</a><br>
+    <a href="/solutions/philosophers/caruso/">Gregg Caruso</a><br>
+    <a href="/solutions/philosophers/cassirer/">Ernst Cassirer</a><br>
+    <a href="/solutions/philosophers/chalmers/">David Chalmers</a><br>
+    <a href="/solutions/philosophers/chisholm/">Roderick Chisholm</a><br>
+    <a href="/solutions/philosophers/chrysippus/">Chrysippus</a><br>
+    <a href="/solutions/philosophers/carneades/">Cicero</a><br> 
+    <a href="/solutions/philosophers/clark/">Tom Clark</a><br>
+    <a href="/solutions/philosophers/clarke/">Randolph Clarke</a><br>
+    <a href="/solutions/philosophers/clarkes/">Samuel Clarke</a><br>
+    <a href="/solutions/philosophers/collins/">Anthony Collins</a><br>
+    <a href="/solutions/philosophers/compte/">August Compte</a><br>
+    <a href="/solutions/philosophers/corradini/">Antonella Corradini</a><br> 
+    <a href="/solutions/philosophers/diodorus/">Diodorus Cronus</a><br>
+    <a href="/solutions/philosophers/dancy/">Jonathan Dancy</a><br>
+    <a href="/solutions/philosophers/davidson/">Donald Davidson</a><br>
+    <a href="/solutions/philosophers/decaro/">Mario De Caro</a><br> 
+    <a href="/solutions/philosophers/democritus/">Democritus</a><br> 
+    <a href="/solutions/philosophers/dembski">William Dembski</a><br>
+    <a href="/solutions/philosophers/dempsey/">Brendan Dempsey</a><br>
+    <a href="/solutions/philosophers/dennett/">Daniel Dennett</a><br>
+    <a href="/solutions/philosophers/derrida/">Jacques Derrida</a><br> 
+    <a href="/solutions/philosophers/descartes/">René Descartes</a><br> 
+    <a href="/solutions/philosophers/double/">Richard Double</a><br> 
+    <a href="/solutions/philosophers/dretske/">Fred Dretske</a><br> 
+    <a href="/solutions/philosophers/ducasse/">Curt Ducasse</a><br> 
+    <!--<a href="/solutions/philosophers/dupre/">John Dupré</a><br>-->
+    <a href="/solutions/philosophers/earman/">John Earman</a><br> 
+    <a href="/solutions/philosophers/ekstrom/">Laura Waddell Ekstrom</a><br> 
+    <a href="/solutions/philosophers/epictetus/">Epictetus</a><br> 
+    <a href="/solutions/philosophers/epicurus/">Epicurus</a><br> 
+    <a href="/solutions/philosophers/farrer/">Austin Farrer</a><br>
+    <a href="/solutions/philosophers/feigl/">Herbert Feigl</a><br>
+    <a href="/solutions/philosophers/fine/">Arthur Fine</a><br>
+    <a href="/solutions/philosophers/fischer/">John Martin Fischer</a><br>
+    <a href="/solutions/philosophers/fitch/">Frederic Fitch</a><br>
+    <a href="/solutions/philosophers/flanagan/">Owen Flanagan</a><br>
+    <a href="/solutions/philosophers/floridi/">Luciano Floridi</a><br>
+    <a href="/solutions/philosophers/foot/">Philippa Foot</a><br>
+    <a href="/solutions/philosophers/fouillee/">Alfred Fouille&eacute;</a><br>
+    <a href="/solutions/philosophers/frankfurt/">Harry Frankfurt</a><br>
+    <a href="/solutions/philosophers/franklin/">Richard L. Franklin</a><br>
+    <a href="/solutions/philosophers/frassen/">Bas van Fraassen</a><br>
+    <a href="/solutions/philosophers/frede/">Michael Frede</a><br>
+    <a href="/solutions/philosophers/frege/">Gottlob Frege</a><br>
+    <a href="/solutions/philosophers/geach/">Peter Geach</a><br>
+    <a href="/solutions/philosophers/gettier/">Edmund Gettier</a><br>
+    <a href="/solutions/philosophers/ginet/">Carl Ginet</a><br>
+    <a href="/knowledge/philosophers/goldman/">Alvin Goldman</a><br> 
+    <a href="/solutions/philosophers/gorgias/">Gorgias</a><br>
+    <a href="/solutions/philosophers/green/">Nicholas St. John Green</a><br>
+    <a href="/solutions/philosophers/gregersen/">Niels Henrik Gregersen</a><br>
+    <a href="/solutions/philosophers/grice/">H.Paul Grice</a><br>
+    <a href="/solutions/philosophers/hacking/">Ian Hacking</a><br> 
+    <a href="/solutions/philosophers/haji/">Ishtiyaque Haji</a><br> 
+    <a href="/solutions/philosophers/hampshire/">Stuart Hampshire</a><br> 
+    <a href="/solutions/philosophers/hardie/">W.F.R.Hardie</a><br> 
+    <a href="/solutions/philosophers/harris/">Sam Harris</a><br> 
+    <a href="/solutions/philosophers/hasker/">William Hasker</a><br> 
+    <a href="/solutions/philosophers/hare/">R.M.Hare</a><br> 
+    <a href="/solutions/philosophers/hegel/">Georg W.F. Hegel</a><br> 
+    <a href="/solutions/philosophers/heidegger/">Martin Heidegger</a><br>
+    <a href="/solutions/philosophers/heraclitus/">Heraclitus</a><br>
+    <a href="/solutions/philosophers/hobart/">R.E.Hobart</a><br> 
+    <a href="/solutions/philosophers/hobbes/">Thomas Hobbes</a><br> 
+    <a href="/solutions/philosophers/hodgson/">David Hodgson</a><br>
+    <a href="/solutions/philosophers/hodgsons/">Shadsworth Hodgson</a><br> 
+    <a href="/solutions/philosophers/dholbach/">Baron d'Holbach</a><br>
+    <a href="/solutions/philosophers/honderich/">Ted Honderich</a><br>
+    <!-- <a href="/solutions/philosophers/hook/">Sidney Hook</a><br> -->
+    <a href="/solutions/philosophers/huby/">Pamela Huby</a><br> 
+    <a href="/solutions/philosophers/hume/">David Hume</a><br> 
+    <a href="/solutions/philosophers/huoranszki/">Ferenc Huoranszki</a><br> 
+    <!-- <a href="/solutions/philosophers/husserl/">Edmund Husserl</a><br> -->
+    <a href="/solutions/philosophers/jackson/">Frank Jackson</a><br> 
+    <a href="/solutions/philosophers/james/">William James</a><br> 
+    <a href="/solutions/philosophers/kames/">Lord Kames</a><br>
+    <a href="/solutions/philosophers/kane/">Robert Kane</a><br>
+    <a href="/solutions/philosophers/kant/">Immanuel Kant</a><br> 
+    <a href="/solutions/philosophers/kapitan/">Tomis Kapitan</a><br> 
+    <a href="/solutions/philosophers/kaufmann/">Walter Kaufmann</a><br> 
+    <a href="/solutions/philosophers/kim/">Jaegwon Kim</a><br> 
+    <a href="/solutions/philosophers/king/">William King</a><br> 
+    <a href="/knowledge/philosophers/kornblith/">Hilary Kornblith</a><br> 
+    <a href="/solutions/philosophers/korsgaard/">Christine Korsgaard</a><br> 
+    <a href="/solutions/philosophers/kripke/">Saul Kripke</a><br> 
+    <a href="/solutions/philosophers/kuhn/">Thomas Kuhn</a><br> 
+    <a href="/solutions/philosophers/lavazza/">Andrea Lavazza</a><br> 
+    <a href="/solutions/philosophers/ladyman/">James Ladyman</a><br> 
+    <a href="/solutions/philosophers/lehner/">Christoph Lehner</a><br>
+    <a href="/solutions/philosophers/lehrer/">Keith Lehrer</a><br> 
+    <a href="/solutions/philosophers/leibniz/">Gottfried Leibniz</a><br> 
+    <a href="/solutions/philosophers/lequyer/">Jules Lequyer</a><br> 
+    <a href="/solutions/philosophers/leucippus/">Leucippus</a><br> 
+    <a href="/solutions/philosophers/levin/">Michael Levin</a><br>
+    <a href="/solutions/philosophers/levine/">Joseph Levine</a><br>
+    <a href="/solutions/philosophers/lewes/">George Henry Lewes</a><br> 
+    <a href="/knowledge/philosophers/lewis/">C.I.Lewis</a><br> 
+    <a href="/solutions/philosophers/lewis/">David Lewis</a><br> 
+    <a href="/solutions/philosophers/lipton/">Peter Lipton</a><br> 
+    <a href="/solutions/philosophers/morgan/">C. Lloyd Morgan</a><br> 
+    <a href="/solutions/philosophers/locke/">John Locke</a><br>
+    <a href="/solutions/philosophers/lockwood/">Michael Lockwood</a><br>
+    <a href="/solutions/philosophers/lovejoy/">Arthur O. Lovejoy</a><br>
+    <a href="/solutions/philosophers/lowe/">E. Jonathan Lowe</a><br>
+    <a href="/solutions/philosophers/lucas/">John R. Lucas</a><br>
+    <a href="/solutions/philosophers/lucretius/">Lucretius</a><br>
+    <a href="/solutions/philosophers/macintyre/">Alasdair MacIntyre</a><br> 
+    <a href="/solutions/philosophers/marcus/">Ruth Barcan Marcus</a><br> 
+    <a href="/solutions/philosophers/maudlin/">Tim Maudlin</a><br> 
+    <a href="/solutions/philosophers/martineau/">James Martineau</a><br> 
+    <a href="/solutions/philosophers/maxwell/">Nicholas Maxwell</a><br> 
+    <a href="/solutions/philosophers/mccall/">Storrs McCall</a><br>
+    <a href="/solutions/philosophers/mccann/">Hugh McCann</a><br>
+    <a href="/solutions/philosophers/mcginn/">Colin McGinn</a><br>
+    <a href="/solutions/philosophers/mckenna/">Michael McKenna</a><br>
+    <a href="/solutions/philosophers/mclaughlin/">Brian McLaughlin</a><br>
+    <a href="/solutions/philosophers/mctaggart/">John McTaggart</a><br>
+    <a href="/solutions/philosophers/meehl/">Paul E. Meehl</a><br>
+    <a href="/solutions/philosophers/meixner/">Uwe Meixner</a><br>
+    <a href="/solutions/philosophers/mele/">Alfred Mele</a><br>
+    <a href="/solutions/philosophers/merricks/">Trenton Merricks</a><br>
+    <a href="/solutions/philosophers/mill/">John Stuart Mill</a><br>
+    <a href="/solutions/philosophers/miller/">Dickinson Miller</a><br>
+    <a href="/solutions/philosophers/moore/">G.E.Moore</a><br>
+    <a href="/solutions/philosophers/nagele/">Ernest Nagel</a><br>
+    <a href="/solutions/philosophers/nagelt/">Thomas Nagel</a><br>
+    <a href="/solutions/philosophers/neurath/">Otto Neurath</a><br>
+    <a href="/solutions/philosophers/nietzsche/">Friedrich Nietzsche</a><br>
+    <a href="/solutions/philosophers/norton/">John Norton</a><br>
+    <a href="/solutions/philosophers/nowell-smith/">P.H.Nowell-Smith</a><br>
+    <a href="/solutions/philosophers/nozick/">Robert Nozick</a><br>
+    <a href="/solutions/philosophers/ockham/">William of Ockham</a><br> 
+    <a href="/solutions/philosophers/oconnor/">Timothy O'Connor</a><br>
+    <a href="/solutions/philosophers/parmenides/">Parmenides</a><br>
+    <a href="/solutions/philosophers/pears/">David F. Pears</a><br> 
+    <a href="/solutions/philosophers/peirce/">Charles Sanders Peirce</a><br> 
+    <a href="/solutions/philosophers/pereboom/">Derk Pereboom</a><br> 
+    <a href="/solutions/philosophers/piccinini/">Gualtiero Piccinini</a><br> 
+    <a href="/solutions/philosophers/pinker/">Steven Pinker</a><br>
+    <a href="/solutions/philosophers/place/">U.T.Place</a><br> 
+    <a href="/solutions/philosophers/plato/">Plato</a><br> 
+    <a href="/solutions/philosophers/popper/">Karl Popper</a><br> 
+    <a href="/solutions/philosophers/porphyry/">Porphyry</a><br> 
+    <a href="/solutions/philosophers/price/">Huw Price</a><br> 
+    <a href="/solutions/philosophers/prichard/">H.A.Prichard</a><br> 
+    <a href="/solutions/philosophers/protagoras/">Protagoras</a><br>
+    <a href="/solutions/philosophers/putnam/">Hilary Putnam</a><br> 
+    <a href="/solutions/philosophers/quine/">Willard van Orman Quine</a><br> 
+    <a href="/knowledge/philosophers/ramsey/">Frank Ramsey</a><br> 
+    <a href="/solutions/philosophers/rand/">Ayn Rand</a><br> 
+    <a href="/solutions/philosophers/rea/">Michael Rea</a><br>
+    <a href="/solutions/philosophers/reid/">Thomas Reid</a><br> 
+    <a href="/solutions/philosophers/renouvier/">Charles Renouvier</a><br> 
+    <a href="/solutions/philosophers/rescher/">Nicholas Rescher</a><br> 
+    <a href="/solutions/philosophers/rietdijk/">C.W.Rietdijk</a><br> 
+    <a href="/solutions/philosophers/rorty/">Richard Rorty</a><br> 
+    <a href="/solutions/philosophers/royce/">Josiah Royce</a><br> 
+    <a href="/solutions/philosophers/russell/">Bertrand Russell</a><br> 
+    <a href="/solutions/philosophers/russellp/">Paul Russell</a><br> 
+    <a href="/solutions/philosophers/ryle/">Gilbert Ryle</a><br> 
+    <a href="/solutions/philosophers/sartre/">Jean-Paul Sartre</a><br> 
+    <a href="/solutions/philosophers/sayre/">Kenneth Sayre</a><br> 
+    <a href="/solutions/philosophers/scanlon/">T.M.Scanlon</a><br> 
+    <a href="/solutions/philosophers/schlick/">Moritz Schlick</a><br> 
+    <a href="/solutions/philosophers/scotus/">John Duns Scotus</a><br> 
+    <a href="/solutions/philosophers/schweitzer/">Albert Schweitzer</a><br> 
+    <a href="/solutions/philosophers/schopenhauer/">Arthur Schopenhauer</a><br> 
+    <a href="/solutions/philosophers/searle/">John Searle</a><br>
+    <a href="/solutions/philosophers/sellars/">Wilfrid Sellars</a><br>
+    <a href="/solutions/philosophers/shiang/">David Shiang</a><br> 
+    <a href="/solutions/philosophers/sidelle/">Alan Sidelle</a><br> 
+    <a href="/solutions/philosophers/sider/">Ted Sider</a><br> 
+    <a href="/solutions/philosophers/sidgwick/">Henry Sidgwick</a><br> 
+    <a href="/solutions/philosophers/sinnott-armstrong/">Walter Sinnott-Armstrong</a><br> 
+    <a href="/solutions/philosophers/slezak/">Peter Slezak</a><br> 
+    <a href="/solutions/philosophers/smart/">J.J.C.Smart</a><br> 
+    <a href="/solutions/philosophers/smilansky/">Saul Smilansky</a><br> 
+    <a href="/solutions/philosophers/smith/">Michael Smith</a><br> 
+    <a href="/solutions/philosophers/spinoza/">Baruch Spinoza</a><br> 
+    <a href="/solutions/philosophers/stebbing/">L. Susan Stebbing</a><br> 
+    <a href="/solutions/philosophers/stengers/">Isabelle Stengers</a><br> 
+    <a href="/solutions/philosophers/stout/">George F. Stout</a><br> 
+    <a href="/solutions/philosophers/strawsong/">Galen Strawson</a><br>
+    <a href="/solutions/philosophers/strawson/">Peter Strawson</a><br>
+    <a href="/solutions/philosophers/stump/">Eleonore Stump</a><br>
+    <a href="/solutions/philosophers/suarez/">Francisco Suárez</a><br>
+    <a href="/solutions/philosophers/taylorr/">Richard Taylor</a><br>
+    <a href="/solutions/philosophers/timpe/">Kevin Timpe</a><br>
+    <a href="/solutions/philosophers/twain/">Mark Twain</a><br>
+    <a href="/solutions/philosophers/unger/">Peter Unger</a><br> 
+    <a href="/solutions/philosophers/vaninwagen/">Peter van Inwagen</a><br> 
+    <a href="/solutions/philosophers/vargas/">Manuel Vargas</a><br> 
+    <a href="/solutions/philosophers/venn/">John Venn</a><br> 
+    <a href="/solutions/philosophers/vihvelin/">Kadri Vihvelin</a><br> 
+    <a href="/solutions/philosophers/voltaire/">Voltaire</a><br> 
+    <a href="/solutions/philosophers/vonwright/">G.H. von Wright</a><br> 
+    <a href="/solutions/philosophers/wallacedf/">David Foster Wallace</a><br> 
+    <a href="/solutions/philosophers/wallace/">R. Jay Wallace</a><br> 
+    <a href="/solutions/philosophers/ward/">W.G.Ward</a><br> 
+    <a href="/solutions/philosophers/warfield/">Ted Warfield</a><br> 
+    <a href="/solutions/philosophers/weatherford/">Roy Weatherford</a><br> 
+    <a href="/solutions/philosophers/weizsacker/">C.F. von Weizsäcker</a><br>
+    <a href="/solutions/philosophers/whewell/">William Whewell</a><br> 
+    <a href="/solutions/philosophers/whitehead/">Alfred North Whitehead</a><br> 
+    <a href="/solutions/philosophers/widerker/">David Widerker</a><br> 
+    <a href="/solutions/philosophers/wiggins/">David Wiggins</a><br> 
+    <a href="/solutions/philosophers/williams/">Bernard Williams</a><br> 
+    <a href="/solutions/philosophers/williamson/">Timothy Williamson</a><br> 
+    <a href="/solutions/philosophers/wittgenstein/">Ludwig Wittgenstein</a><br> 
+    <a href="/solutions/philosophers/wolf/">Susan Wolf</a><br> 
+    <a href="/solutions/philosophers/xenophon/">Xenophon</a><br> 
+    <br> 
+    Scientists
+    <br><br>
+    <a href="/solutions/scientists/albert/">David Albert</a><br>
+    <a href="/solutions/scientists/anderson/">Philip W. Anderson</a><br>
+    <a href="/solutions/scientists/arbib/">Michael Arbib</a><br>
+    <a href="/solutions/scientists/azarian/">Bobby Azarian</a><br>
+    <a href="/solutions/scientists/baade/">Walter Baade</a><br>
+    <a href="/solutions/scientists/baars/">Bernard Baars</a><br>
+    <a href="/solutions/scientists/bada/">Jeffrey Bada</a><br>
+    <a href="/solutions/scientists/ballentine/">Leslie Ballentine</a><br>
+    <a href="/solutions/scientists/barbieri/">Marcello Barbieri</a><br>
+    <a href="/solutions/scientists/barandes/">Jacob Barandes</a><br>
+    <a href="/solutions/scientists/barbour/">Julian Barbour</a><br>
+    <a href="/solutions/scientists/barlow/">Horace Barlow</a><br>
+    <a href="/solutions/scientists/bateson/">Gregory Bateson</a><br>
+    <a href="/solutions/scientists/bekenstein/">Jakob Bekenstein</a><br>
+    <a href="/solutions/scientists/bell/">John S. Bell</a><br>
+    <a href="/solutions/scientists/beller/">Mara Beller</a><br>
+    <a href="/solutions/scientists/bennett/">Charles Bennett</a><br>
+    <a href="/solutions/scientists/bertalanffy/">Ludwig von Bertalanffy</a><br>
+    <a href="/solutions/scientists/blackmore/">Susan Blackmore</a><br>
+    <a href="/solutions/scientists/boden/">Margaret Boden</a><br>
+    <a href="/solutions/scientists/bohm/">David Bohm</a><br>
+    <a href="/solutions/scientists/bohr/">Niels Bohr</a><br>
+    <a href="/solutions/scientists/boltzmann/">Ludwig Boltzmann</a><br> 
+    <a href="/solutions/scientists/bonner/">John Tyler Bonner</a><br> 
+    <a href="/solutions/scientists/borel/">Emile Borel</a><br> 
+    <a href="/solutions/scientists/born/">Max Born</a><br> 
+    <a href="/solutions/scientists/bose/">Satyendra Nath Bose</a><br> 
+    <a href="/solutions/scientists/bothe/">Walther Bothe</a><br> 
+    <a href="/solutions/scientists/bricmont/">Jean Bricmont</a><br>
+    <a href="/solutions/scientists/briegel/">Hans Briegel</a><br>
+    <a href="/solutions/scientists/brillouin/">Leon Brillouin</a><br>
+    <a href="/solutions/scientists/brooks/">Daniel Brooks</a><br>
+    <a href="/solutions/scientists/brush/">Stephen Brush</a><br>
+    <a href="/solutions/scientists/buckle/">Henry Thomas Buckle</a><br>
+    <a href="/solutions/scientists/burbury/">S. H. Burbury</a><br>
+    <a href="/solutions/scientists/calvin/">Melvin Calvin</a><br>
+    <a href="/solutions/scientists/calvinw/">William Calvin</a><br>
+    <a href="/solutions/scientists/campbell/">Donald Campbell</a><br>
+    <a href="/solutions/scientists/campbellj/">John O. Campbell</a><br>
+    <a href="/solutions/scientists/carnot/">Sadi Carnot</a><br>
+    <a href="/solutions/scientists/carroll/">Sean B. Carroll</a><br>
+    <a href="/solutions/scientists/cashmore/">Anthony Cashmore</a><br>
+    <a href="/solutions/scientists/chaisson/">Eric Chaisson</a><br>
+    <a href="/solutions/scientists/chaitin/">Gregory Chaitin</a><br>
+    <a href="/solutions/scientists/changeux/">Jean-Pierre Changeux</a><br>
+    <a href="/solutions/scientists/clausius/">Rudolf Clausius</a><br>
+    <a href="/solutions/scientists/compton/">Arthur Holly Compton</a><br>
+    <a href="/solutions/scientists/conway/">John Conway</a><br>
+    <a href="/solutions/scientists/conway-morris/">Simon Conway-Morris</a><br>
+    <a href="/solutions/scientists/corning/">Peter Corning</a><br>
+    <a href="/solutions/scientists/cowan/">George Cowan</a><br>
+    <a href="/solutions/scientists/coyne/">Jerry Coyne</a><br>
+    <a href="/solutions/scientists/cramer/">John Cramer</a><br>
+    <a href="/solutions/scientists/crick/">Francis Crick</a><br>
+    <a href="/solutions/scientists/culverwell/">E. P. Culverwell</a><br>
+    <a href="/solutions/scientists/damasio/">Antonio Damasio</a><br>
+    <a href="/solutions/scientists/darrigol/">Olivier Darrigol</a><br>
+    <a href="/solutions/scientists/darwin/">Charles Darwin</a><br>
+    <a href="/solutions/scientists/davies/">Paul Davies</a><br>
+    <a href="/solutions/scientists/dawkins/">Richard Dawkins</a><br>
+    <a href="/solutions/scientists/deacon/">Terrence Deacon</a><br>
+    <a href="/solutions/scientists/kornhuber-deecke/">Lüder Deecke</a><br>
+    <a href="/solutions/scientists/dedekind/">Richard Dedekind</a><br>
+    <a href="/solutions/scientists/de_broglie/">Louis de Broglie</a><br>
+    <a href="/solutions/scientists/dehaene/">Stanislas Dehaene</a><br> 
+    <a href="/solutions/scientists/delbruck/">Max Delbrück</a><br> 
+    <a href="/solutions/scientists/de_moivre/">Abraham de Moivre</a><br> 
+    <a href="/solutions/scientists/depew/">David Depew</a><br>
+    <a href="/solutions/scientists/despagmat/">Bernard d'Espagnat</a><br>
+    <a href="/solutions/scientists/dirac/">Paul Dirac</a><br>
+    <a href="/solutions/scientists/dobzhansky/">Theodosius Dobzhansky</a><br>
+    <a href="/solutions/scientists/driesch/">Hans Driesch</a><br>
+    <a href="/solutions/scientists/dupre/">John Dupré</a><br>
+    <a href="/solutions/scientists/eccles/">John Eccles</a><br>
+    <a href="/solutions/scientists/eddington/">Arthur Stanley Eddington</a><br> 
+    <a href="/solutions/scientists/edelman/">Gerald Edelman</a><br> 
+    <a href="/solutions/scientists/ehrenfest/">Paul Ehrenfest</a><br> 
+    <a href="/solutions/scientists/eigen/">Manfred Eigen</a><br> 
+    <a href="/solutions/scientists/einstein/">Albert Einstein</a><br> 
+    <a href="/solutions/scientists/ellis/">George F. R. Ellis</a><br> 
+    <a href="/solutions/scientists/elsasser/">Walter Elsasser</a><br> 
+    <a href="/solutions/scientists/everett/">Hugh Everett, III</a><br> 
+    <a href="/solutions/scientists/exner/">Franz Exner</a><br> 
+    <a href="/solutions/scientists/feynman/">Richard Feynman</a><br>
+    <a href="/solutions/scientists/fisher/">R. A. Fisher</a><br>
+    <a href="/solutions/scientists/foster/">David Foster</a><br>
+    <a href="/solutions/scientists/fourier/">Joseph Fourier</a><br>
+    <a href="/solutions/scientists/fox/">George Fox</a><br>
+    <a href="/solutions/scientists/frank/">Philipp Frank</a><br> 
+    <a href="/solutions/scientists/frautschi/">Steven Frautschi</a><br> 
+    <a href="/solutions/scientists/fredkin/">Edward Fredkin</a><br> 
+    <a href="/solutions/scientists/fresnel/">Augustin-Jean Fresnel</a><br> 
+    <a href="/solutions/scientists/friston/">Karl Friston</a><br> 
+    <a href="/solutions/scientists/gal-or/">Benjamin Gal-Or</a><br> 
+    <a href="/solutions/scientists/gardner/">Howard Gardner</a><br> 
+    <a href="/solutions/scientists/gatlin/">Lila Gatlin</a><br> 
+    <a href="/solutions/scientists/gazzaniga/">Michael Gazzaniga</a><br> 
+    <a href="/solutions/scientists/georgescu-roegen/">Nicholas Georgescu-Roegen</a><br> 
+    <a href="/solutions/scientists/ghirardi/">GianCarlo Ghirardi</a><br> 
+    <a href="/solutions/scientists/gibbs/">J. Willard Gibbs</a><br> 
+    <a href="/solutions/scientists/gibson/">James J. Gibson</a><br> 
+    <a href="/solutions/scientists/gisin/">Nicolas Gisin</a><br> 
+    <a href="/solutions/scientists/glimcher/">Paul Glimcher</a><br> 
+    <a href="/solutions/scientists/gold/">Thomas Gold</a><br>
+    <a href="/solutions/scientists/gomes/">A. O. Gomes</a><br> 
+    <a href="/solutions/scientists/goodwin/">Brian Goodwin</a><br> 
+    <a href="/solutions/scientists/gough/">Julian Gough</a><br> 
+    <a href="/solutions/scientists/greene/">Joshua Greene</a><br> 
+    <a href="/solutions/scientists/haar/">Dirk ter Haar</a><br> 
+    <a href="/solutions/scientists/hadamard/">Jacques Hadamard</a><br> 
+    <a href="/solutions/scientists/hadley/">Mark Hadley</a><br> 
+    <a href="/solutions/scientists/haeckel/">Ernst Haeckel</a><br> 
+    <a href="/solutions/scientists/haggard/">Patrick Haggard</a><br> 
+    <a href="/solutions/scientists/haldane/">J. B. S. Haldane</a><br> 
+    <a href="/solutions/scientists/hameroff/">Stuart Hameroff</a><br> 
+    <a href="/solutions/scientists/hamon/">Augustin Hamon</a><br> 
+    <a href="/solutions/scientists/harris/">Sam Harris</a><br> 
+    <a href="/solutions/scientists/hartley/">Ralph Hartley</a><br> 
+    <a href="/solutions/scientists/hartman/">Hyman Hartman</a><br> 
+    <a href="/solutions/scientists/hawkins/">Jeff Hawkins</a><br> 
+    <a href="/solutions/scientists/haynes/">John-Dylan Haynes</a><br> 
+    <a href="/solutions/scientists/hebb/">Donald Hebb</a><br> 
+    <a href="/solutions/scientists/heisenbergm/">Martin Heisenberg</a><br> 
+    <a href="/solutions/scientists/heisenberg/">Werner Heisenberg</a><br> 
+    <a href="/solutions/scientists/helmholtz">Hermann von Helmholtz</a><br> 
+    <a href="/solutions/scientists/hermann/">Grete Hermann</a><br> 
+    <a href="/solutions/scientists/herschel/">John Herschel</a><br> 
+    <a href="/solutions/scientists/heylighen/">Francis Heylighen</a><br> 
+    <a href="/solutions/scientists/hiley/">Basil Hiley</a><br> 
+    <a href="/solutions/scientists/hobson/">Art Hobson</a><br> 
+    <a href="/solutions/scientists/hoffmeyer/">Jesper Hoffmeyer</a><br> 
+   <a href="/solutions/scientists/holland/">John Holland</a><br> 
+    <a href="/solutions/scientists/howard/">Don Howard</a><br> 
+    <a href="/solutions/scientists/jackson/">John H. Jackson</a><br> 
+    <a href="/solutions/scientists/jackendoff/">Ray Jackendoff</a><br>
+    <a href="/solutions/scientists/jakobson/">Roman Jakobson</a><br>
+    <a href="/solutions/scientists/jaynes/">E. T. Jaynes</a><br>
+    <a href="/solutions/scientists/jevons/">William Stanley Jevons</a><br>
+    <a href="/solutions/scientists/jordan/">Pascual Jordan</a><br>
+    <a href="/solutions/scientists/kandel/">Eric Kandel</a><br>
+    <a href="/solutions/scientists/kastner/">Ruth E. Kastner</a><br>
+    <a href="/solutions/scientists/kauffman/">Stuart Kauffman</a><br>
+    <a href="/solutions/scientists/klein/">Martin J. Klein</a><br> 
+    <a href="/solutions/scientists/klemm/">William R. Klemm</a><br> 
+    <a href="/solutions/scientists/koch/">Christof Koch</a><br>
+    <a href="/solutions/scientists/kochen/">Simon Kochen</a><br>
+    <a href="/solutions/scientists/kornhuber-deecke/">Hans Kornhuber</a><br>
+    <a href="/solutions/scientists/kosslyn/">Stephen Kosslyn</a><br> 
+    <a href="/solutions/scientists/koshland/">Daniel Koshland</a><br> 
+    <a href="/solutions/scientists/kovac/">Ladislav Kovàč</a><br>
+    <a href="/solutions/scientists/kronecker/">Leopold Kronecker</a><br>
+    <a href="/solutions/scientists/kuppers/">Bernd-Olaf Küppers</a><br>
+    <a href="/solutions/scientists/landauer/">Rolf Landauer</a><br>
+    <a href="/solutions/scientists/lande/">Alfred Landé</a><br>
+    <a href="/solutions/scientists/laplace/">Pierre-Simon Laplace</a><br> 
+    <a href="/solutions/scientists/lashley/">Karl Lashley</a><br> 
+    <a href="/solutions/scientists/layzer/">David Layzer</a><br> 
+    <a href="/solutions/scientists/ledoux/">Joseph LeDoux</a><br> 
+    <a href="/solutions/scientists/lettvin/">Gerald Lettvin</a><br> 
+    <a href="/solutions/scientists/levin/">Michael Levin</a><br> 
+    <a href="/solutions/scientists/lewis/">Gilbert Lewis</a><br> 
+    <a href="/solutions/scientists/libet/">Benjamin Libet</a><br> 
+    <a href="/solutions/scientists/lindley/">David Lindley</a><br> 
+    <a href="/solutions/scientists/lloyd/">Seth Lloyd</a><br> 
+    <a href="/solutions/scientists/loewenstein/">Werner Loewenstein</a><br> 
+    <a href="/solutions/scientists/lorentz/">Hendrik Lorentz</a><br> 
+    <a href="/solutions/scientists/loschmidt/">Josef Loschmidt</a><br> 
+    <a href="/solutions/scientists/lotka/">Alfred Lotka</a><br> 
+    <a href="/solutions/scientists/mach/">Ernst Mach</a><br>
+    <a href="/solutions/scientists/mackay/">Donald MacKay</a><br> 
+    <a href="/solutions/scientists/margenau/">Henry Margenau</a><br> 
+    <a href="/solutions/scientists/margulis/">Lynn Margulis</a><br> 
+    <a href="/solutions/scientists/maroney/">Owen Maroney</a><br> 
+    <a href="/solutions/scientists/marr/">David Marr</a><br> 
+    <a href="/solutions/scientists/maturana/">Humberto Maturana</a><br> 
+    <a href="/solutions/scientists/maxwell/">James Clerk Maxwell</a><br> 
+    <a href="/solutions/scientists/maynard-smith/">John Maynard Smith</a><br>
+    <a href="/solutions/scientists/mayr/">Ernst Mayr</a><br>
+    <a href="/solutions/scientists/mccarthy/">John McCarthy</a><br>
+    <a href="/solutions/scientists/mcclintock/">Barbara McClintock</a><br>
+    <a href="/solutions/scientists/mcculloch/">Warren McCulloch</a><br>
+    <a href="/solutions/scientists/mermin/">N. David Mermin</a><br>
+    <a href="/solutions/scientists/miller/">George Miller</a><br>
+    <a href="/solutions/scientists/smiller/">Stanley Miller</a><br>
+    <a href="/solutions/scientists/mohrhoff/">Ulrich Mohrhoff</a><br>
+    <a href="/solutions/scientists/monod/">Jacques Monod</a><br>
+    <a href="/solutions/scientists/mountcastle/">Vernon Mountcastle</a><br> 
+    <a href="/solutions/scientists/muller/">Gerd B. Müller</a><br> 
+    <a href="/solutions/scientists/noether/">Emmy Noether</a><br> 
+    <a href="/solutions/scientists/noble/">Denis Noble</a><br> 
+    <a href="/solutions/scientists/norman/">Donald Norman</a><br> 
+    <a href="/solutions/scientists/norsen/">Travis Norsen</a><br>
+    <a href="/solutions/scientists/odumh/">Howard T. Odum</a><br> 
+    <a href="/solutions/scientists/oparin/">Alexander Oparin</a><br> 
+    <a href="/solutions/scientists/pais/">Abraham Pais</a><br> 
+    <a href="/solutions/scientists/pattee/">Howard Pattee</a><br> 
+    <a href="/solutions/scientists/pauli/">Wolfgang Pauli</a><br> 
+    <a href="/solutions/scientists/pauri/">Massimo Pauri</a><br> 
+    <a href="/solutions/scientists/penfield/">Wilder Penfield</a><br>
+    <a href="/solutions/scientists/penrose/">Roger Penrose</a><br>
+    <a href="/solutions/scientists/pigliucci/">Massimo Pigliucci</a><br/>
+    <a href="/solutions/philosophers/pinker/">Steven Pinker</a><br> 
+    <a href="/solutions/scientists/pittendrigh/">Colin Pittendrigh</a><br> 
+    <a href="/solutions/scientists/pitts/">Walter Pitts</a><br> 
+    <a href="/solutions/scientists/planck/">Max Planck</a><br> 
+    <a href="/solutions/scientists/pockett/">Susan Pockett</a><br> 
+    <a href="/solutions/scientists/poincare/">Henri Poincaré</a><br>
+    <a href="/solutions/scientists/polanyi/">Michael Polanyi</a><br>
+    <a href="/solutions/scientists/pollen/">Daniel Pollen</a><br> 
+    <a href="/solutions/scientists/prigogine/">Ilya Prigogine</a><br>
+    <a href="/solutions/scientists/primas/">Hans Primas</a><br>
+    <a href="/solutions/scientists/prisco/">Giulio Prisco</a><br>
+    <a href="/solutions/scientists/pylyshyn/">Zenon Pylyshyn</a><br/>
+    <a href="/solutions/scientists/quastler/">Henry Quastler</a><br/>
+    <a href="/solutions/scientists/quetelet/">Adolphe Quételet</a><br/>
+    <a href="/solutions/scientists/rakic/">Pasco Rakic</a><br/>
+    <a href="/solutions/scientists/rashevsky/">Nicolas Rashevsky</a><br/>
+    <a href="/solutions/scientists/rayleigh/">Lord Rayleigh</a><br/>
+    <a href="/solutions/scientists/reif/">Frederick Reif</a><br/>
+    <a href="/solutions/scientists/renn/">Jürgen Renn</a><br/>
+    <a href="/solutions/scientists/rizzolati/">Giacomo Rizzolati</a><br/>
+    <a href="/solutions/scientists/roback/">A.A. Roback</a><br/>
+    <a href="/solutions/scientists/roduner/">Emil Roduner</a><br/>
+    <a href="/solutions/scientists/roederer/">Juan Roederer</a><br/>
+    <a href="/solutions/scientists/rosen/">Robert Rosen</a><br/>
+    <a href="/solutions/scientists/rosenblatt/">Frank Rosenblatt</a><br/>
+    <a href="/solutions/scientists/rothstein/">Jerome Rothstein</a><br/>
+    <a href="/solutions/scientists/ruelle/">David Ruelle</a><br/>
+    <a href="/solutions/scientists/rumelhart/">David Rumelhart</a><br> 
+    <a href="/solutions/scientists/ruse">Michael Ruse</a><br> 
+    <a href="/solutions/scientists/salthe/">Stanley Salthe</a><br> 
+    <a href="/solutions/scientists/sapolsky/">Robert Sapolsky</a><br>
+    <a href="/solutions/scientists/sauer/">Tilman Sauer</a><br>
+    <a href="/solutions/scientists/saussure/">Ferdinand de Saussure</a><br>
+    <a href="/solutions/scientists/schmidhuber/">Jürgen Schmidhuber</a><br>
+    <a href="/solutions/scientists/schrodinger/">Erwin Schr&ouml;dinger</a><br> 
+    <a href="/solutions/scientists/schurger/">Aaron Schurger</a><br> 
+    <a href="/solutions/scientists/seung/">Sebastian Seung</a><br>
+    <a href="/solutions/scientists/sebeok/">Thomas Sebeok</a><br>
+    <a href="/solutions/scientists/selleri/">Franco Selleri</a><br>
+    <a href="/solutions/scientists/shannon/">Claude Shannon</a><br>
+     <a href="/solutions/scientists/shapiro/">James A. Shapiro</a><br>
+    <a href="/solutions/scientists/sherrington/">Charles Sherrington</a><br> 
+    <a href="/solutions/scientists/shimony/">Abner Shimony</a><br> 
+    <a href="/solutions/scientists/simon/">Herbert Simon</a><br> 
+    <a href="/solutions/scientists/simonton/">Dean Keith Simonton</a><br>
+    <a href="/solutions/scientists/sinnott/">Edmund Sinnott</a><br>
+    <a href="/solutions/scientists/skinner/">B. F. Skinner</a><br>
+    <a href="/solutions/scientists/smolin/">Lee Smolin</a><br> 
+    <a href="/solutions/scientists/solomonoff/">Ray Solomonoff</a><br> 
+    <a href="/solutions/scientists/spencer/">Herbert Spencer</a><br>
+    <a href="/solutions/scientists/sperry/">Roger Sperry</a><br>
+    <a href="/solutions/scientists/stachel/">John Stachel</a><br> 
+    <a href="/solutions/scientists/stanley/">Kenneth Stanley</a><br>
+    <a href="/solutions/scientists/stapp/">Henry Stapp</a><br>
+    <a href="/solutions/scientists/stewart/">Ian Stewart</a><br>
+    <a href="/solutions/scientists/stonier/">Tom Stonier</a><br>
+    <a href="/solutions/scientists/suarez/">Antoine Suarez</a><br>
+    <a href="/solutions/scientists/susskind/">Leonard Susskind</a><br>
+    <a href="/solutions/scientists/szilard/">Leo Szilard</a><br>
+    <a href="/solutions/scientists/tegmark/">Max Tegmark</a><br>
+    <a href="/solutions/scientists/teilhard/">Teilhard de Chardin</a><br>
+    <a href="/solutions/scientists/thims/">Libb Thims</a><br>
+    <a href="/solutions/scientists/thomson/">William Thomson (Kelvin)</a><br>
+    <a href="/solutions/scientists/tolman/">Richard Tolman</a><br> 
+    <a href="/solutions/scientists/tononi/">Giulio Tononi</a><br> 
+    <a href="/solutions/scientists/tse/">Peter Tse</a><br>
+    <a href="/solutions/scientists/turing/">Alan Turing</a><br>
+    <a href="/solutions/scientists/ulanowicz/">Robert Ulanowicz</a><br> 
+    <a href="/solutions/scientists/unnikrishnan/">C. S. Unnikrishnan</a><br>
+    <a href="/solutions/scientists/kampen/">Nico van Kampen</a><br>
+    <a href="/solutions/scientists/varela/">Francisco Varela</a><br>
+    <a href="/solutions/scientists/vedral/">Vlatko Vedral</a><br>
+    <a href="/solutions/scientists/vernadsky/">Vladimir Vernadsky</a><br>
+    <a href="/solutions/scientists/vidal/">Clément Vidal</a><br>
+    <a href="/solutions/scientists/volkenstein/">Mikhail Volkenstein</a><br>
+    <a href="/solutions/scientists/foerster/">Heinz von Foerster</a><br>
+    <a href="/solutions/scientists/mises/">Richard von Mises</a><br>
+    <a href="/solutions/scientists/neumann/">John von Neumann</a><br>
+    <a href="/solutions/scientists/uexkull/">Jakob von Uexküll</a><br>
+    <a href="/solutions/scientists/waddington/">C. H. Waddington</a><br>
+    <a href="/solutions/scientists/walker/">Sara Imari Walker</a><br>
+    <a href="/solutions/scientists/watsonj/">James D. Watson</a><br>
+    <a href="/solutions/scientists/watsonjb/">John B. Watson</a><br>
+    <a href="/solutions/scientists/weber/Bruce Weber</a><br>
+    <a href="/solutions/scientists/wegner/">Daniel Wegner</a><br>
+    <a href="/solutions/scientists/weinberg/">Steven Weinberg</a><br>
+    <a href="/solutions/scientists/weismann/">August Weismann</a><br>
+    <a href="/solutions/scientists/weiss/">Paul A. Weiss</a><br>
+    <a href="/solutions/scientists/weyl/">Herman Weyl</a><br>
+    <a href="/solutions/scientists/wheeler/">John Wheeler</a><br>
+    <a href="/solutions/scientists/wicken/">Jeffrey Wicken</a><br>
+    <a href="/solutions/scientists/wien/">Wilhelm Wien</a><br>
+    <a href="/solutions/scientists/wiener/">Norbert Wiener</a><br>
+    <a href="/solutions/scientists/wigner/">Eugene Wigner</a><br>
+    <a href="/solutions/scientists/wiley/">E. O. Wiley</a><br>
+    <a href="/solutions/scientists/wilson/">E. O. Wilson</a><br>
+    <a href="/solutions/scientists/witzany/">Günther Witzany</a><br>
+    <a href="/solutions/scientists/woese/">Carl Woese</a><br>
+    <a href="/solutions/scientists/wolfram/">Stephen Wolfram</a><br>
+    <a href="/solutions/scientists/zeh/">H. Dieter Zeh</a><br>
+    <a href="/solutions/scientists/zeki/">Semir Zeki</a><br>
+    <a href="/solutions/scientists/zermelo/">Ernst Zermelo</a><br> 
+    <a href="/solutions/scientists/zurek/">Wojciech Zurek</a><br>
+    <a href="/solutions/scientists/zuse/">Konrad Zuse</a><br>
+    <a href="/solutions/scientists/zwicky/">Fritz Zwicky</a><br>
+<br/>
+Presentations
+<br/>
+<br/>
+<a href="/presentations/ABCD_Multimedia_2006.pdf/">ABCD Harvard</a> (<a href="/presentations/ABCD_Multimedia_2006.pptx/">ppt</a>) 
+<a href="/presentations/Bhaktivedanta/">Bhaktivedanta Aug 2026</a><br/>
+<a href="/presentations/biosemiotics/">Biosemiotics</a><br/>
+<a href="/presentations/Free__Will/">Free Will</a><br/>
+<a href="/presentations/Milan/mental_causation/index2.html">Mental Causation</a><br/>
+<a href="/presentations/video/WJS-2010/">James Symposium</a><br/>
+<a href="/presentations/CSC25_Talk/">CCS25 Talk</a><br/>
+<a href="/presentations/Evo_Devo_CSS/">Evo Devo September 12</a><br/>
+<a href="/presentations/Evo_Devo_I-Phi/">Evo Devo October 2</a><br/>
+<a href="/presentations/Evo_Devo_Davies/">Evo Devo Davies Nov12</a><br/>
+
+             </div> 
+	      <div style="clear: both;"></div>
+	      &nbsp;
+	    </div>
+	    <!-- end column1 -->
+	  </td>
+
+	  <td valign="top">
+	    <!-- start column2 or 23 -->
+	    <div id="column23">
+	      <div class="bodycontent">
+		
+<div class="breadcrumbs">
+<a href="/content.html">Home</a> > <a href="/knowledge/">Knowledge</a> > ERR
+</div>
+
+
+<div class="sectiontitle">
+The Experience Recorder and Reproducer
+</div>
+The experience recorder and reproducer (ERR) is an information model for the
+mind.  The ERR is simpler than, but superior to, the computational
+models of the mind popular in today's <a href="/mind/neuroscience/">neuroscience</a> and cognitive science, the "<i>software in the brain hardware</i>." 
+<p/>
+Although we agree that the mind is, like software, <i>immaterial</i> <a href="/introduction/information/">information</a>, we think that man is not a machine, the brain is not a computer, and the mind is not storing and <i>processing</i> digital information.
+<p/>
+The ERR may give us deep insight into the problem of "<a href="/knowledge/meaning/">meaning</a>," the so-called "binding problem," as well as <a href="/solutions/philosopher/chalmers/">David Chalmers</a>' "hard problem" of  <a href="/mind/consciousness">consciousness</a>.
+<p/>
+Our ERR mind model grows out of the biological question of what sort of "mind" would provide the greatest survival value for the lowest (or the first) organisms that evolved mind-like capabilities.
+<p/>
+We propose that a minimal primitive mind would need only to "play back" <i>past</i> experiences that resemble any part of <i>current</i> experience. Remembering past experiences has obvious relevance (survival value) for an organism. But beyond survival value, the ERR touches on the philosophical problem of "<a href="/knowledge/meaning/">meaning</a>." We suggest the epistemological "meaning" of information perceived may be found in the past experiences that are reproduced by the ERR, when stimulated by a new perception that resembles past experiences in some way.
+<p/>
+The ERR model is an <i>extension</i> of neuroscientist <a href="/solutions/scientists/hebb/">Donald Hebb</a>'s famous insight that "neurons that fire together wire together." Our <i>experience recorder and reproducer</i> ERR model simply assumes that "
+<i>neurons that have been wired together in the past will fire together in the future (reproducing all or part of relevant past experiences).</i>"
+<p/>
+Ours is not the first such suggestion. <a href="/solutions/scientists/tononi/">Giulio Tononi</a> and colleagues wrote this in the Proceedings of the National Academy of Sciences in 2008, and referenced two earlier suggestion from the 1990's. 
+<blockquote>
+Consider neurons that are coactivated during learning tasks and become more strongly connected, in line with Hebbian principles (fire together, wire together). After learning, the same neurons show an increase in correlated firing when they are spontaneously active, both in quiet wakefulness and during sleep (wire together, fire together) 
+<blockquote>
+<div class="breadcrumbs">
+<a href="https://doi.org/10.1073/pnas.0808310105"><i>A BOLD window into brain waves</i></a>. PNAS October 14, 2008 105 (41) 15641-15642
+</div>
+</blockquote>
+</blockquote>
+<p/>
+The earlier suggestions were by sleep researcher Bruce L. McNaughton and his colleagues, who noted that... 
+<blockquote>
+Cells that fired together when the animal occupied particular locations in
+the environment exhibited an increased tendency to fire together during subsequent sleep.
+<blockquote>
+<div class="breadcrumbs">
+<i>Reactivation of hippocampal ensemble memories during sleep</i>.Science, Vol. 265, 29 July 1994, p.676
+</div>
+</blockquote>
+</blockquote>
+<p/>
+The ERR explains very simply where the information is stored in the brain. It is in the many neurons that have been wired together (in a Hebbian assembly). The stored information does not get recalled or retrieved (as computers do) to create a representation that can be viewed (indeed, who would look at it?). It just needs to be re-activated. We might more accurately call the reproduction a "re-presentation."
+<p/>
+Our hypothesis is that when wired-together neurons fire again because a new experience has something in common (and there might be multiple Hebbian assemblies sharing those newly firing neurons, creating <a href="/solutions/philosophers/james">William James</a>' "blooming, buzzing confusion" of <a href="/freedom/alternative_possibilities.html">alternative possibilities</a>, one of which will get the mind's "attention" and "focus"); since each Hebbian assembly is connected to multiple regions in the neocortex, e.g., visual, auditory, olfactory, somatosensory cortices, and to multiple nuclei in the sub-cortical basal ganglia, like the hippocampus and amygdala.
+<p/>
+Very simply, everything going on in the original experience appears to the mind to be happening again, perhaps weakened compared to the original, as <a href="/solutions/philosophers/hume">David Hume</a> feared for his "impressions."  The mind is "seeing" the original experience, not because the brain has produced a visual representation or display for the conscious observer to look at. The brain/mind is also "feeling" the original experience, seeing it in color, solving Chalmers' "hard problem" of the subjective <i>qualia</i>.
+<p/>
+The stored information does not get "recalled" to appear as a <i>duplicate</i> of the information somewhere else in the mind, as computational neuroscientists know that a digital computer must do. 
+<p/>
+The ERR is simply reproducing or "re-presenting" the original experience in all parts of the mind connected by the original neural assembly. This solves the "<i>binding problem</i>"  and the "<i>unification of experience</i>," because the information stored is distributed throughout the Hebbian assembly to all the same brain elements its neurons were originally connected to.
+<p/>
+The ERR is a <i>presentation</i> or <i>re-presentation</i> to the conscious mind, not a <i>representation</i> on a screen as in the "theater of consciousness" in <a href="/solutions/scientists/baars/">Bernard Baars</a>' "Global Workspace Theory" or on the "blackboard" model of <a href="/solutions/scientists/simon/">Herbert Simon</a> and <a href="/solutions/scientists/newell/">Allen Newell</a> .
+<p/>
+The ERR model is also based on <a href="/solutions/scientists/kandel">Eric Kandel</a>'s memory model for long-term potentiation in the neocortical synapses. Short-term memory must have a much faster storage mechanism. While permanent <i>storage</i> in the neocortex is slow, we shall see that ERR <i>re-activation</i> is very fast, and it does not fade as does short-term working memory.
+<p/>
+We propose that the ERR reproduces the entire complex of past sensations experienced, <i>together with the emotional response</i> to the original experience (pleasure, pain, fear, etc.). Playback of past experiences may be stimulated by anything in the current experience that resembles something in the past experiences, in the five dimensions of the senses (sound, sight, touch, smell, and taste).
+<p/>
+The ERR model stands in contrast to the popular cognitive science or “computational” model of a mind as a digital computer with a "central processor" or even many "parallel processors." <i>No algorithms or stored programs</i> are needed for the ERR model. There is nothing comparable to the addresses and data buses used to store and retrieve information in a digital computer.
+<p/>
+<!--An approximation might be a non-linear random-access data recorder, where data is stored using "content-addressable" memory (the memory address - a string of bits in a digital computer - would be the data content itself). 
+<p/>
+Much simpler than a computer with stored data structures, a better technological metaphor for ERR might be a multi-channel, multi-track analog video and sound recorder, enhanced with the ability to record smells, tastes, touches, and most important, feelings. Imagine one channel for each sense, one track for each neuron. But of course machines currently do not smell or taste and have no feelings, so could not reproduce them. -->
+<p/>
+<div style="float:right;width:350px;font-size:10px;margin-left:10px;text-align:right;">
+<img src="/presentations/Biosemiotics/images/Cajal.png" style="width:330px;">
+<p/>
+
+<i>Santiago Ramón y Cajal</i>’s extraordinary drawings <br/>of the arborization of neurons needed for the ERR
+
+</div>
+
+<p/>
+No modern computer can surpass the amazing information storage capability and rapidity of search and retrieval of information as that of the human neocortex.
+<p/>
+As can be seen in Ramón y Cajal's drawings made at the end of the nineteenth century, the neocortex consists primarily of six horizontal layers segregated principally by cell type and neuronal connections.
+<p/>
+The neurons are arranged in vertical structures called cortical columns, with a diameter of about 1 mm. A given column may respond to a sensory stimulus coming from a certain body part or region of sound or vision. These columns are similar, and can be thought of as the basic repeating functional units of the neocortex. In humans, a column contains approximately 70,000 neurons and the neocortex consists of about 500,000 columns.
+<p/>
+The visible structure of the neocortex is regular, but the initial connections between its over 10 billion axons apparently form at <i>random</i>, each neuron with over 10,000 dendritic connections to other neurons. Those synapses of neurons that fire get strengthened and preserved (perhaps for a lifetime), where those that are unused are "pruned." 
+<p/>
+The biological basis for our proposed ERR is very straightforward. 
+<div class="linksRight" style="width:140px;">
+The neuroscientist <a href="/solutions/scientists/hebb/">Donald Hebb</a> said in 1949 that "neurons that fire together wire together."
+</div>
+<ul>
+<li>The ERR Recorder: Neurons become wired together (strengthening their synapses and dendritic connections to other neurons) during an organism’s experiences, across multiple sensory and limbic systems. <p/>  
+</li>
+</ul>
+<div class="linksRight" style="width:140px;">
+We now say simply that "<i>neurons that have been wired together will fire together</i>." 
+</div>
+<ul>
+
+<li>The ERR Reproducer: Later firing of even a part of the previously wired neurons can stimulate firing of all or part of the original complex, thus "playing back" similar past experiences (including the critically important <i>emotional</i> reaction to those original experiences). 
+</li>
+</ul>
+<p/>
+It is of course well-known that when a spot in the neocortex is stimulated electrically, past experiences are reproduced (reactivated, re-presented to the mind).
+<p/>
+The ERR model hypothesizes that for higher animals related experiences are likely stored "nearby" (in the many "dimensions" of visual cortex, hearing pathways, olfactory nerves, etc., etc., plus the amygdala).  In humans this may include the multiple connections from the amygdala into the prefrontal cortex, both the dorsolateral and ventromedial PFC that have been discovered to react to pleasure/pain differences and utility evaluations.
+<p/>
+If similar experiences are short distances apart (since storage location is entirely determined by the "pattern" or "shape" of the experience in each sensory dimension), then thermal or quantum noise in the glia separating neurons may contribute a random element as to which experiences come to mind or "pop into our heads."  
+<p/>
+The ERR model might then nicely explain the philosophical notion of association of ideas. If it is neighboring neurons that fire, they will likely be closely related in some way (since they were stored based on the fundamental pattern of information in the experience). Similar experiences are likely stored in adjacent neurons. Note that a particular smell could cause the recall of experiences where that smell was present, and similarly for other senses. Smell/taste may be the primitive senses of the smallest organisms, e.g., bacterial cells, that have been conserved in higher forms. 
+<p/>
+Although individual cells likely have nothing like pleasure and pain, we might see the bacterial cell's binary possibilities in a homologous relationship to the "fight or flight" reaction in higher animals. 
+<p/>
+<a href="/solutions/scientists/heisenbergm">Martin Heisenberg</a> has shown that the tumbling behavior of the bacterial cell  corresponds to the <a href="/freedom/possibilities.html">alternative possibilities</a> in our <a href="/freedom/two-stage_models.html">two-stage model of free will</a>. Even a bacterium's behavior is not <a href="/freedom/pre-determinism.html">pre-determined</a> from moments before its decision.
+
+<a name="binding"></a>
+<div class="sectiontitle">
+The Binding Problem
+</div>
+Neuroscientists are investigating how diverse signals from multiple pathways can possibly be unified in the brain. The ERR model offers an extremely simple insight into this so-called <i>“binding” problem</i>. There is an intrinsic binding of the multiple sensory and limbic systems present in the original wiring or "recording" of a complex experience. So although one or more experiences may be stimulated to play back because of a new experience with even just a single sense, the "binding" of all the original senses and emotion in each experience is simply the result of the <i>Hebbian</i> "wiring" of neurons during the original experience
+<p/>
+We assume that whenever a particular experience plays back, it refreshes and strengthens the synaptic connections. It might also be the case that the current conditions can modify the connections somewhat, both slightly modifying the memories of the experience and the emotions associated with the experience. ERR might then become an explanatory basis for conditioning experiments, classical Pavlovian and operant conditioning, and in general a model for associative learning.
+<p/>
+The capability of reproducing experiences is critical to <i>learning</i> from past experiences, so as to make them guides for action in future experiences. The ERR model is the minimal mind model that provides for such learning by living organisms. It is critical that the original emotions also play back, along with any differences from past emotions that are newly experienced during playback. 
+<p/>
+
+<div class="sectiontitle">
+Speed and Power of the ERR
+</div>
+You might not normally notice the speed with which you can recall the name of a sixth-grade teacher or childhood friend that has not occurred to you for decades. Or that a few notes might bring back music and lyrics of a song not sung for many years. An odd smell might evoke memories of a foreign country. A taste might bring on feelings of nausea first experienced long ago. All the senses, not just visual stimulation, can replay complex, multi-sensory original events. How does it work so fast? 
+<p/>
+Sometimes when you consciously try to recall a particular name, it does not come immediately to mind, but you can feel it on "the tip of your tongue." Then hours, even days later the forgotten name just "pops into your head."  It suggests unnoticeable "unconscious" information processing by the Experience Recorder and Reproducer. 
+<p/>
+To make a crude estimate of the speed and power of the brain as a biological information processor, we can calculate the information creation going on in the body overall. Estimating how much power the body consumes (metabolizing of food as negative entropy), we can then use the fact that the brain uses about 20 percent of that energy.
+<p/>
+We can take just one bodily process that is also vital to thought, the continuous replacement of red blood cells, which consumes a significant fraction of available energy. When 200 million of the 25 trillion red blood cells in the human body die each second, 100 million new hemoglobins must be assembled in each of 200 million new blood cells . With the order of a few thousand bytes of information in each hemoglobin, this is 10 thousand x 100 million x 200 million = 2 x 10<sup>20</sup> bits of information per second, a million times more information processing than today's fastest computer CPU.
+<p/> 
+What is the brain doing with such immense power consumption and potential information generation.  It could be the "blooming, buzzing, confusion" that <a href="/solutions/philosophers/james/">William James</a> imagined going on just below his "stream of consciousness."
+<p/> 
+How can the mind "focus attention," as James put it? 
+Think of how the eye can instantly be drawn to a tiny dark speck moving in our peripheral vision.
+<p/> 
+The ERR's operation is nothing like the way a computer searches and retrieves information. ERR does not decide what to search for and then look systematically through all the information structures to find it.
+<p/>
+We can compare Google's "distributed search" algorithms, which send a search phrase to hundreds of thousands of computers in centers around the world. After vast amounts of "parallel distributed processing," each computer returns its relevant pages within a fraction of a second. These are then assembled into the Google "results" pages. The ERR works nothing like that.
+<p/>
+A more appropriate example would be today's natural language translation systems. For decades, computer engineers were convinced thed could write algorithmic translation programs. They only needed to understand ("reverse engineer")  Noam Chomsky's "deep grammar" that generates all possible language. The U.S. Department of Defense invested $20 million over twenty years before declaring machine translation (MT) a failure. Today machine translation uses a database of known translation pairs in a giant database called translation memory (TM).
+<p/>
+The largest such TM systems use incredibly large databases gathered from translated articles on the Internet. They then work something like our ERR. 
+<p/>
+Google Translate takes a sentence and searches for matches of all or part of the string of letters and retrieves matches, returning them ordered by the closeness of a match, to the translator. 
+<p/>
+So where machine translation is algorithmic and a failure, and the current statistical translation approach based on astounding amounts of "big data" is a reasonable success, we are tempted to say that storage of a vast amount of personal "big data" in the mind/brain gets closer to a plausible model for a mind. We do not know, but Google's search technology may store data at an address that is the data itself (so-called "content-addressable" data storage, in which the address bus is the data bus), making the search algorithm very simple.  
+<p/>
+
+<!--communications like bacterium do not need "intention"
+bacterial surface membrane receptors are "interpreting."  Cf,. Peirce interpretant
+putting questions to nature -  Kant?
+free choice of experimenter affecting quantum reality, etc.
+-->
+<p/>
+By comparison in the ERR, the current experience travels into the brain on neurons which process it in the normal way for storage, based on its analysis (breakdown) of the multi-sensory content of the image. This seems similar to "content-addressing." The sensations travel into the neocortex, processed by the various visual areas, auditory areas, etc., all connected through the association areas, based solely on the information content. Our hypothesis is that similar data will then be stored in similar areas.
+<p/>
+Neurons that start firing will stimulate those previously wired together and others nearby to fire, reproducing a vast number of past real (and perhaps imaginary) experiences that were (at least partially) recorded to the newly firing neurons.   Presented with an experience, the action potentials moving through the forest of axons and dendritic connections start nearby neurons firing which are experienced (we assume mostly unconsciously) just as if a past experience is happening again. 
+<p/>
+Since the number of reproduced experiences could be huge, it may sound absurd to suggest that the mind can pick out anything useful from such a cacophony. James did imagine complete confusion. But it is precisely all the past similar experiences retrieved that provide the <i>context</i> for the current experience to be "meaningful." If there were nothing played back, like the infant brain, there would be no "<a href="/knowledge/meaning/">meaning</a>" in the experience. In the adult mind, a lifetime of experience is available, usually instantly played back unconsciously, without us ever having to consciously ask for it. 
+<p/>
+We can say that "what it's like to be" a certain animal depends entirely on what its ERR chooses to record and reproduce. A frog, for example, famously allows only the signals from certain shapes to go beyond the frog's eye to its brain. In our ERR model, the frog has no experience recorded of concave-shaped objects moving in its visual field. Such information then is literally "meaningless."
+<p/>
+
+<a name="consciousness"></a>
+<div class="sectiontitle">
+The ERR and <a href="/mind/consciousness/">Consciousness</a>
+</div>
+<p/>
+Humans are <a href="/problems/consciousness/">conscious</a> of our experiences because they are recorded in (and reproduced on demand from) the information structures in our brains. Mental information houses the content of an individual character - the fabric of values, desires, and reasons used to evaluate alternatives for action and thus to make choices. The information in a human brain vastly exceeds our genetic information. Because humans store and retrieve information outside their minds, it has allowed human beings to dominate the planet. Animals may exceed us in strength and speed, but we have experience, memory, wisdom, and skill (Anaxagoras DK B 21b) that has accumulated over thousands of generations.
+<p/>
+The relatively small amount transmitted genetically is tiny compared to that stored in the Experience Recorder and Reproducer of a single human mind. But even that enormous amount is being rivalled by the total knowledge stored externally, the <a href="/knowledge/sum/">Sum</a>, now becoming available to all humans because it is being stored on the world-wide web and Internet.
+<p/>
+Consciousness can be defined in information terms as a property of an entity (usually a living thing but we can also include artificially conscious machines or computers) that reacts appropriately to the information (and particularly to changes in the information) in its environment.
+<p/>
+In the context of information philosophy, the Experience Recorder and Reproducer can provide us with what we can define as <i>information consciousness</i>.
+<p/>
+An animal in a deep sleep is not conscious because it ignores changes in its environment. By contrast, an inanimate robot may be conscious in our sense. Even the lowliest control system using negative feedback (a thermostat, for example) is in a minimal sense conscious of (aware of, exchanging information about) changes in its environment.
+<p/>
+This definition of consciousness fits with our model of the mind as an <i>experience recorder and reproducer</i> (ERR). Can we say that an organism is "unconscious" If no past experiences are playing back during its current experiences? Can we say that a frog is "not conscious" of the concave objects flying by? 
+<p/>
+A conscious being is constantly recording information about its perceptions of the external world, and most importantly for ERR, it is simultaneously recording its feelings. Sensory data such as sights, sounds, smells, tastes, and tactile sensations are recorded in a sequence along with pleasure and pain states, fear and comfort levels, etc. We sometimes speak of a "heightened" consciousness that excels at this recording.
+<p/>
+All these experiential and emotional data are recorded in association with one another. This means that when the experiences are reproduced (played back in a temporal sequence), the accompanying emotions are once again felt, in synchronization. Although past experiences played back internally are not the same as the current external, they can make us currently "conscious" of past pleasure and pain states, fear and comfort levels, and so forth.
+<p/>
+<a href="/solutions/scientists/baars/">Bernard Baars</a>'s Global Workspace Theory uses the metaphor of a "Theater of Consciousness," in which there is an audience of purposeful agents calling for the attention of the executive on stage.
+<p/>
+In the ERR parallel, vast numbers of past experiences are clamoring for the attention of the conscious mind at all times, whenever anything in current experience has some resemblance to past experiences. 
+<p/>
+If we define "current experience" as all afferent perceptions <i>plus</i> the current contents of consciousness itself, we get a dynamic self-referential system with plenty of opportunities for negative and positive feedback. 
+<p/>
+The "Blackboard model" of <a href="/solutions/scientists/newell/">Allan Newell</a> and <a href="/solutions/scientists/simon/">Herbert Simon</a> imagines pictures or words (concepts, say) being written on a mental blackboard by our current perceptions. Deep memory structures are watching what is written on the blackboard. They call up similar concepts by association and write them to the blackboard, which is visible to our conscious mind selecting the next things to think about. The ERR model clearly supports this view and explains the neural mechanism by which concepts (past experiences) are retrieved and come to the blackboard.
+<p/>
+In <a href="/solutions/philosophers/dennett/">Daniel Dennett</a>'s consciousness model, the mind is made up of innumerable functional homunculi, each with its own goals and purposes.
+<p/>
+Some of these homunculi are information structures in the genes, which transmit "learning" or "knowledge" from generation to generation by heredity alone. Others are environmentally and socially conditioned, or consciously learned through cultural transmission of information.
+<p/>
+<a name="levels"></a>
+<p/>
+<div class="sectiontitle">
+Four "Levels" of the ERR
+</div>
+We identify four evolutionary stages in the development of the Experience Recorder and Reproducer.
+<blockquote>
+Instinct. These  animals with little or no learning capability. The ERR in such animals does no recording.  Reactions to environmental conditions have been transmitted genetically. Information about past experiences (by prior generations of the organism) is is "built in" as inherited reactions. 
+<p/>
+Learning. Here past experiences of animals guide their current choices. Conscious, but mostly habitual, reactions are developed through recorded experiences, including instruction by parents and peers. 
+<p/>
+Prediction. - The Sequencer in the ERR system can play back beyond the current situation, allowing the organism to use imagination and foresight to evaluate the future consequences of its choices.
+<p/>
+Reflection. Here conscious deliberation about <a href="/value/">values</a> influences the choice of behaviors. The ERR plays back a range of similar experiences including the reactions and feelings expressed by others to those experiences. 
+</blockquote>
+<p/>
+All four levels are <a href="/knowledge/emergence.html">emergent</a>, in the sense that they did not exist in the lower, earlier levels of biological evolution.
+
+<p/>
+Even the most primitive of biological systems are cognitive, in the sense that they use their internal information structure to guide their actions. Some of the simplest organisms can learn from experience. The most primitive minds are the earliest experience recorders. They reproduce past experiences as <a href="/freedom/possibilities.html">alternative possibilities</a> for current actions.
+<p/>
+In humans, the information-processing structures <a href="/freedom/creativity.html">create</a> new actionable information (<a href="/knowledge/">knowledge</a>) by consciously and unconsciously reworking the experiences stored in the mind.  
+<p/>
+<a href="/knowledge/emergence.html">Emergent</a> higher mental levels exert <a href="/knowledge/downward_causation.html">downward causation</a> on the contents of the lower bodily levels, ultimately supporting <a href="/knowledge/mental_causation.html">mental causation</a> and <a href="/freedom/">free will</a>. 
+<p/>
+There are characteristic differences between the mental and the physical that modern science, even neuroscience, may never fully explain. The most important is the internal and private first-person point of view, the essential subjectivity, the “I” and the “eye” of the mind, its capability of introspection and reflection, its intentionality, its purposiveness, its consciousness. The mind records an individual’s experiences as internal information structures and then can play back these recordings to compare them to new perceptions, new external events. The recordings include an individual’s emotional reactions to past experiences, our feelings. The reproduction of recorded personal experiences, stimulated by similarities in current experience, provide the core of “what it’s like to be” an individual.
+<p/>
+The external and public physical world, by contrast, is studied from the third-person point of view. Although putatively “objective,” science in fact is the composite “intersubjective” view of the “community of inquirers,” as <a href="/solutions/philosophers/peirce/">Charles Sanders Peirce</a> put it.  Although this shared subjectivity can never directly experience what goes on in the mind of an individual member of the community, science is in some sense the collective mind of the physical world.  It is a pale record of the world’s experiences, because it lacks the emotional aspect of personal experience.
+<p/>
+The physical world itself has no sense of its history. It does not introspect or reflect. It lacks an ERR and so lacks consciousness, that problem in philosophy of mind second only to the basic <a href="/mind/mind-body/">mind-body problem</a> itself.
+
+<a name="schemata"></a>
+<div class="sectiontitle">
+  The ERR and Schemata
+</div>
+Since the ERR retrieves (re-presents to the mind) those experiences that resemble the present experience in some important ways, we can ask how the ERR can accomplish such a retrieval process and note that it greatly resembles the way <a href="/solutions/philosophers/kant/">Immanuel Kant</a> described his concepts of the understanding (<i>Verstandesbegriffe</i>) in <i>The Critique of Pure Reason</i>.
+<p/>
+Kant wrote:
+<blockquote>
+[T]he only manner in which objects can be given to us is by modification of our sensibility;...This formal and pure condition of sensibility to which the employment of the concept of understanding is restricted, we shall entitle the schema of the
+concept. The procedure of understanding in these schemata we shall entitle the <i>schematism</i> of pure understanding.
+<p/>
+The schema is in itself always a product of imagination. Since, however, the synthesis of imagination aims at no
+special intuition, but only at unity in the determination of sensibility, the schema has to be distinguished from the image...This representation of a universal procedure of imagination providing an image for a concept, I entitle the
+schema of this concept.
+<p/>
+Indeed it is schemata, not images of objects, which underlie our pure sensible concepts. No image could ever be adequate
+to the concept of a triangle in general. It would never attain that universality of the concept which renders it valid of all
+triangles, whether right-angled, obtuse-angled, or acute-angled; it would always be limited to a part only of this
+sphere. The schema of the triangle can exist nowhere but in thought. It is a rule of synthesis of the imagination, in respect
+to pure figures in space.
+<!-Holly, child can generalize cat or dog from a single instance? ->
+<blockquote>
+ <div class=""breadcrumbs">
+  <i>Critique of Pure Reason</i>, Transcendental Doctrine of Judgment, Chapter I, The Schematism of the Pure Concepts of Understanding, A140, B140
+</div> 
+</blockquote>
+</blockquote>
+<p/>
+Computational neuroscientists hope that distributed parallel processors in the brain could analyze images to find quantitative similarities that would include them in a particular schema. Computers do just that in deep and machine learning. Is a quantitative measure of similarity between two Hebbian assemblies available? 
+<p/>
+Since the information content of an experience is simply those neurons that are wired together in the experience, a quantitative meaasure of relevance or salience of an earlier experience could be the number or percentage of neurons shared (presently firing together) between them. Just how that quantity could be sensed neurobiologically is something that should be studied.
+
+<a name="associationism"></a>
+<div class="sectiontitle">
+  The ERR and Associationism
+</div>
+
+<a name="ToM"></a>
+<div class="sectiontitle">
+Theory of Mind
+</div>
+A theory of mind is needed because the <a href="/mind/self/">minds of others</a> are not directly observable. The minds of others are assumed to exist by analogy with one's own mind. Much of the discussion in the philosophy of mind is about the existence of "mental states" and their <a href="/knowledge/mental_causation.html">causal powers</a> or lack thereof. 
+<p/>
+The ERR avoids the vague idea of a "mental state," whatever that may be. The ERR stores specific information in the brain's neural networks about all the perceptual elements (sight, sound, touch, taste, smell) of an experience, along with emotions felt during the experience. The information is stored in whatever neurons fire together. Later, any new perceptual element that fires the same (or nearby) neurons can activate the neural network to replay the original experience, complete with its emotional content. The unconscious mind is a "blooming, buzzing confusion" playing back many similar experiences, to some of which we focus our attention, as <a href="/solutions/philosophers/james/">William James</a> pointed out. 
+<p/>
+This rich spectrum of past experiences provides the <a href="/freedom/possibilities.html">alternative possibilities</a> for action that James said was the first stage in his <a href="/freedom/two-stage_models.html">two-stage model of free will</a>
+<p/>
+Instead of a general idea of a "mental state," ERR describes a mind full of many possible specific mental states simultaneously, any one of which may become the <a href="/freedom/">freely chosen</a> thought that leads to the next action "<a href="/freedom/self-determination.html">self-determined</a>" by the brain and body.
+<p/>
+ERR finds support in the idea of empathy and the recent discoveries of "mirror neurons" in higher primates. Observing another person having an experience brings out the observer's similar experiences, along with emotional reactions to those earlier experiences. 
+<p/>
+
+<div class="sectiontitle">
+Experimental Evidence for the Experience Recorder and Reproducer
+</div>
+<p/>
+From <a href="/solutions/scientists/penfield/">Wilder Penfield</a>'s Research on Epilepsy... 
+<p/>
+<blockquote>
+It has long been known that visual or auditory hallucinations sometimes
+come to patients with seizures...Similar "psychical" states are sometimes produced, during operation,
+by electrical stimulation of the cerebral cortex. Those that are in fact
+hallucinations of things previously seen or heard or experienced, we have
+called experiential responses.
+<p/>
+Twenty-five years ago, one of us reported electrical activation of such
+phenomena for the first time (Penfield, 1938). A past experience, which
+had occurred regularly as part of the patient's seizure pattern, was reproduced
+by electrical stimulation of the cortex of the temporal lobe.
+<p/>
+In some cases it could not be proved by witnesses that the experience
+was from the patient's past. But in most cases he was confident that it
+came from his previous experience. When the experience was fragmentary,
+his present awareness might be invaded by no more than a picture.
+<p/>
+In addition to the experiential states that we have described above,
+gentle electrical stimulation of temporal lobe cortex also produced
+sudden "feelings"—sometimes the feeling of familiarity that clinicians
+had been in the habit of calling <i>déjà vu</i>,
+<p/>
+Because of the association of the temporal cortex with these two classes
+of psychical phenomena (recall of past experience, and interpretation of
+present experience) the term <i>interpretive cortex</i> was used for descriptive
+purposes (Penfield, 1959).
+<p/>
+Let us now reconsider these findings. The psychical phenomena that
+are produced by activations within the areas of interpretive cortex are of
+two types: (a) altered interpretation of the present; and (b) a state of
+mind. You may call the latter an experiential hallucination if you like.
+The true nature of such hallucinations becomes quite clear when the
+records of the stimulation responses are studied. They are reproductions
+of past experience.
+<p/>
+The remembrance of the original experience
+and its record may have been modified by dreams and by re-experiencing...
+But at operation it is usually quite clear that the evoked
+experiential response is a random reproduction of whatever composed
+the stream of consciousness during some interval of the patient's past
+waking life.
+<p/>
+We have argued before, that since excision of these areas does not
+abolish memory, they do not contain the actual record of the past. They
+are, however, functionally connected with that neuronal record (Penfield,
+19586). Since stimulation produces at times detailed recall of past experience
+in these areas and nowhere else, and since, at other times, it produces
+a sudden alteration in the patient's present interpretation of things heard
+or seen, it seems likely that these areas play in adult life some role in the
+subconscious recall of past experience making it available for present
+interpretation. This recall makes possible that sudden flash of awareness
+that things have been seen or heard or experienced before, or that they are
+dangerous, coming near, or changing pace.
+<p/>
+We have argued before, also, that past experience, when it is recalled
+electrically, seems to be complete including all the things of which an
+individual was aware at the time; also that, since the events were often
+unimportant, it seemed likely that the whole stream of consciousness must
+be so recorded somewhere, quite beyond the reach of voluntary summons
+(Penfield, 19546).
+<p/>
+There is within the adult human brain a remarkable record of the
+stream of each individual's awareness or consciousness. Stimulation of
+certain areas of cortex, lying on the temporal lobe between the auditory
+sensory and the visual sensory areas, causes previous experience to
+return to the mind of a conscious patient. There is no real overlap
+between this interpretive cortex and the areas devoted to visual and
+auditory sensation, no overlap with the zone of cortex devoted to the
+ideational processes of speech.
+<p/>
+In such repetitions of previous experience perceptions are largely
+auditory, or visual, or both. Time seems to unroll at its normal tempo.
+The return of the content of consciousness thus evoked, is quite at
+random, except that there is some evidence of cortical conditioning.
+The evolving detail is far greater than in memories which can be summoned
+voluntarily.
+<p/>
+This demonstrates the existence of a functional system devoted to
+subconscious recall of past experience and to the interpretation of present
+experience. Like the motor and sensory cerebral systems, this functional
+unit is partially separable from the overall activity of the brain. Like
+speech, it depends on an acquired system of functional neuronal
+connexions.
+<p/>
+The challenge that lies before clinician and physiologist, electronics
+expert and psychologist, is this: How are these partially separable functional
+systems integrated into normal brain activity, and how is this total
+integration related to the mind? Final understanding of man's own
+brain and mind may seem very far away, but that is the ultimate goal of
+investigation. It may well prove to be man's most difficult achievement,
+to understand himself and the means by which this understanding is
+achieved.
+<blockquote>
+<div class="breadcrumbs">
+"THE BRAIN'S RECORD OF AUDITORY AND VISUAL
+EXPERIENCE", Wilder Penfield and Phanor Perot,  
+<i>BRAIN</i>, VOL. 86, PART 4, December, 1963, pp.596-696
+</div>
+</blockquote>
+</blockquote>
+<p/>
+Over four decades later, <i>BRAIN</i> published a review of Penfield's 1963 report...
+<p/>
+<blockquote>
+The subtitle of Wilder Penfield’s paper, written at the age of
+72 years, suggests, like the closing bars of Götterdämmerung,
+the conclusion to a monumental work of outstanding originality
+but, in Penfield’s case, born not out of Teutonic mythology
+but from experimental neurology. Penfield had dedicated
+his first classic monograph, written with Theodore Erickson
+(<i>Epilepsy and Cerebral Localisation</i>, 1941) to John
+Hughlings Jackson and Charles Sherrington. Later, he gave
+the fifth Sherrington Lecture in the University of Liverpool
+(1958). The introduction to this final summary of his life’s
+work, based in part on the Lister Oration (1961) and the
+Hughlings Jackson Lecture (Montreal, 1961) quotes Jackson:
+‘he who is faithfully analysing many different cases of epilepsy
+is doing far more than studying epilepsy’; and almost
+100 pages later Penfield closes with the same quotation. The
+story is of Jackson’s ‘dreamy states’ and of their illumination
+based on Penfield’s observations over a period of 25 years on
+experiential hallucinations and experiential responses to focal
+cortical electrical stimulation. He found these to be both simple
+and complex; in the domains of language, sound or vision;
+with the emotional conviction of past experience; and, where
+factual corroboration proved possible, <i><b>founded on genuine
+events now recalled</b></i>. [I-Phi emphasis] Proustian, therefore, in its scope (and
+biblical in its resonances of Ecclesiastes 3: 1–8), this is an
+account of the cortical substrates for ‘remembrances of past
+experiences’
+<blockquote>
+<div class="breadcrumbs">
+"From the Archives, The Brain's Record of Auditory and Visual Experience", Wilder Penfield and Phanor Perot,  
+<i>BRAIN</i>, (2005), 128, pp.449–450
+</div>
+</blockquote>
+</blockquote>
+<p/>
+
+<a name="madeleine"></a>
+<div class="sectiontitle">
+Consider <a href="#madeleine">Marcel Proust's childhood experience when tasting a Madeleine.</a>
+</div>
+In which the taste of a tea-soaked cookie (long-ago recorded in his ERR) reproduces the associated visual memories of a past event...
+<p/>
+<blockquote>
+And so it was that, for a long time afterwards, when I lay awake at night and revived old memories of Combray, I saw no more of it than this sort of luminous panel, sharply defined against a vague and shadowy background, like the panels which a Bengal fire or some electric sign will illuminate and dissect from the front of a building the other parts of which remain plunged in darkness: broad enough at its base, the little parlour, the dining-room, the alluring shadows of the path along which would come M. Swann, the unconscious author of my sufferings, the hall through which I would journey to the first step of that staircase, so hard to climb, which constituted, all by itself, the tapering 'elevation' of an irregular pyramid; and, at the summit, my bedroom, with the little passage through whose glazed door Mamma would enter; in a word, seen always at the same evening hour, isolated from all its possible surroundings, detached and solitary against its shadowy background, the bare minimum of scenery necessary (like the setting one sees printed at the head of an old play, for its performance in the provinces) to the drama of my undressing, as though all Combray had consisted of but two floors joined by a slender staircase, and as though there had been no time there but seven o'clock at night. I must own that I could have assured any questioner that Combray did include other scenes and did exist at other hours than these. But since the facts which I should then have recalled would have been prompted only by an exercise of the will, by my intellectual memory, and since the pictures which that kind of memory shews us of the past preserve nothing of the past itself, I should never have had any wish to ponder over this residue of Combray. To me it was in reality all dead.
+Permanently dead? Very possibly.
+<p/>
+There is a large element of hazard in these matters, and a second hazard, that of our own death, often prevents us from awaiting for any length of time the favours of the first.
+<p/>
+I feel that there is much to be said for the Celtic belief that the souls of those whom we have lost are held captive in some inferior being, in an animal, in a plant, in some inanimate object, and so effectively lost to us until the day (which to many never comes) when we happen to pass by the tree or to obtain possession of the object which forms their prison. Then they start and tremble, they call us by our name, and as soon as we have recognised their voice the spell is broken. We have delivered them: they have overcome death and return to share our life.
+<p/>
+And so it is with our own past. It is a labour in vain to attempt to recapture it: all the efforts of our intellect must prove futile. The past is hidden somewhere outside the realm, beyond the reach of intellect, in some material object (in the sensation which that material object will give us) which we do not suspect. And as for that object, it depends on chance whether we come upon it or not before we ourselves must die.
+<div class="linksRight" style="width:195px">
+<img src="Madeleine.png">
+</div>
+<p/>
+Many years had elapsed during which nothing of Combray, save what was comprised in the theatre and the drama of my going to bed there, had any existence for me, when one day in winter, as I came home, my mother, seeing that I was cold, offered me some tea, a thing I did not ordinarily take. I declined at first, and then, for no particular reason, changed my mind. She sent out for one of those short, plump little cakes called 'petites madeleines,' which look as though they had been moulded in the fluted scallop of a pilgrim's shell. And soon, mechanically, weary after a dull day with the prospect of a depressing morrow, I raised to my lips a spoonful of the tea in which I had soaked a morsel of the cake. No sooner had the warm liquid, and the crumbs with it, touched my palate than a shudder ran through my whole body, and I stopped, intent upon the extraordinary changes that were taking place. An exquisite pleasure had invaded my senses, but individual, detached, with no suggestion of its origin. And at once the vicissitudes of life had become indifferent to me, its disasters innocuous, its brevity illusory—this new sensation having had on me the effect which love has of filling me with a precious essence; or rather this essence was not in me, it was myself. I had ceased now to feel mediocre, accidental, mortal. Whence could it have come to me, this all-powerful joy? I was conscious that it was connected with the taste of tea and cake, but that it infinitely transcended those savours, could not, indeed, be of the same nature as theirs. Whence did it come? What did it signify? How could I seize upon and define it?
+<p/>
+I drink a second mouthful, in which I find nothing more than in the first, a third, which gives me rather less than the second. It is time to stop; the potion is losing its magic. It is plain that the object of my quest, the truth, lies not in the cup but in myself. The tea has called up in me, but does not itself understand, and can only repeat indefinitely with a gradual loss of strength, the same testimony; which I, too, cannot interpret, though I hope at least to be able to call upon the tea for it again and to find it there presently, intact and at my disposal, for my final enlightenment. I put down my cup and examine my own mind. It is for it to discover the truth. But how? What an abyss of uncertainty whenever the mind feels that some part of it has strayed beyond its own borders; when it, the seeker, is at once the dark region through which it must go seeking, where all its equipment will avail it nothing. Seek? More than that: create. It is face to face with something which does not so far exist, to which it alone can give reality and substance, which it alone can bring into the light of day.
+<p/>
+And I begin again to ask myself what it could have been, this unremembered state which brought with it no logical proof of its existence, but only the sense that it was a happy, that it was a real state in whose presence other states of consciousness melted and vanished. I decide to attempt to make it reappear. I retrace my thoughts to the moment at which I drank the first spoonful of tea. I find again the same state, illumined by no fresh light. I compel my mind to make one further effort, to follow and recapture once again the fleeting sensation. And that nothing may interrupt it in its course I shut out every obstacle, every extraneous idea, I stop my ears and inhibit all attention to the sounds which come from the next room. And then, feeling that my mind is growing fatigued without having any success to report, I compel it for a change to enjoy that distraction which I have just denied it, to think of other things, to rest and refresh itself before the supreme attempt. And then for the second time I clear an empty space in front of it. I place in position before my mind's eye the still recent taste of that first mouthful, and I feel something start within me, something that leaves its resting-place and attempts to rise, something that has been embedded like an anchor at a great depth; I do not know yet what it is, but I can feel it mounting slowly; I can measure the resistance, I can hear the echo of great spaces traversed.
+<p/>
+Undoubtedly what is thus palpitating in the depths of my being must be the image, the visual memory which, being linked to that taste, has tried to follow it into my conscious mind. But its struggles are too far off, too much confused; scarcely can I perceive the colourless reflection in which are blended the uncapturable whirling medley of radiant hues, and I cannot distinguish its form, cannot invite it, as the one possible interpreter, to translate to me the evidence of its contemporary, its inseparable paramour, the taste of cake soaked in tea; cannot ask it to inform me what special circumstance is in question, of what period in my past life.
+<p/>
+Will it ultimately reach the clear surface of my consciousness, this memory, this old, dead moment which the magnetism of an identical moment has travelled so far to importune, to disturb, to raise up out of the very depths of my being? I cannot tell. Now that I feel nothing, it has stopped, has perhaps gone down again into its darkness, from which who can say whether it will ever rise? Ten times over I must essay the task, must lean down over the abyss. And each time the natural laziness which deters us from every difficult enterprise, every work of importance, has urged me to leave the thing alone, to drink my tea and to think merely of the worries of to-day and of my hopes for to-morrow, which let themselves be pondered over without effort or distress of mind.
+<p/>
+And suddenly the memory returns. The taste was that of the little crumb of madeleine which on Sunday mornings at Combray (because on those mornings I did not go out before church-time), when I went to say good day to her in her bedroom, my aunt Léonie used to give me, dipping it first in her own cup of real or of lime-flower tea. The sight of the little madeleine had recalled nothing to my mind before I tasted it; perhaps because I had so often seen such things in the interval, without tasting them, on the trays in pastry-cooks' windows, that their image had dissociated itself from those Combray days to take its place among others more recent; perhaps because of those memories, so long abandoned and put out of mind, nothing now survived, everything was scattered; the forms of things, including that of the little scallop-shell of pastry, so richly sensual under its severe, religious folds, were either obliterated or had been so long dormant as to have lost the power of expansion which would have allowed them to resume their place in my consciousness. But when from a long-distant past nothing subsists, after the people are dead, after the things are broken and scattered, still, alone, more fragile, but with more vitality, more unsubstantial, more persistent, more faithful, the smell and taste of things remain poised a long time, like souls, ready to remind us, waiting and hoping for their moment, amid the ruins of all the rest; and bear unfaltering, in the tiny and almost impalpable drop of their essence, the vast structure of recollection.
+<p/>
+And once I had recognized the taste of the crumb of madeleine soaked in her decoction of lime-flowers which my aunt used to give me (although I did not yet know and must long postpone the discovery of why this memory made me so happy) immediately the old grey house upon the street, where her room was, rose up like the scenery of a theatre to attach itself to the little pavilion, opening on to the garden, which had been built out behind it for my parents (the isolated panel which until that moment had been all that I could see); and with the house the town, from morning to night and in all weathers, the Square where I was sent before luncheon, the streets along which I used to run errands, the country roads we took when it was fine. And just as the Japanese amuse themselves by filling a porcelain bowl with water and steeping in it little crumbs of paper which until then are without character or form, but, the moment they become wet, stretch themselves and bend, take on colour and distinctive shape, become flowers or houses or people, permanent and recognisable, so in that moment all the flowers in our garden and in M. Swann's park, and the water-lilies on the Vivonne and the good folk of the village and their little dwellings and the parish church and the whole of Combray and of its surroundings, taking their proper shapes and growing solid, sprang into being, town and gardens alike, from my cup of tea.
+<blockquote>
+<div class="breadcrumbs">
+Remembrance of Things Past, Swann's Way, Overture.
+</div>
+</blockquote>
+</blockquote>
+<div class="sectiontitle">
+Summary
+</div>
+<p/>
+The biological model for the Experience Recorder and Reproducer is neurons that wire together during an animal's experiences, in multiple sensory and limbic systems, such that later firing of even a part of the wired neurons can stimulate firing of all or part of the original complex.
+<p/>
+Where <a href="/solutions/scientists/hebb/">Donald Hebb</a> famously argued that "neurons that fire together wire together," our <i>experience recorder and reproducer</i> ERR model assumes that "neurons that have been wired together will fire together." 
+<p/>
+Neuroscientists are investigating how diverse signals from multiple pathways can be unified in the brain. ERR offers a simple solution to this "binding" problem. The sensory components are bound together when initially stored in the ERR (together with the accompanying emotion). They remain bound on playback. They do not have to be assembled together by an algorithmic scheme.
+<p/>
+Beyond the obvious relevance (survival value) for an organism of remembering past experiences, we suggest the "meaning" of  newly perceived information is found in those experiences reproduced by the ERR, when presented with that new information. Without prior similar experience, new perceptions will be "meaningless."
+<p/>
+A conscious being is constantly recording information about its perceptions of the external world, and most importantly for ERR, it is simultaneously recording its feelings. Sensory data such as sights, sounds, smells, tastes, and tactile sensations are recorded in a sequence along with pleasure and pain states, fear and comfort levels, etc.
+<p/>
+All these experiential and emotional data are recorded in association with one another. This means that when the experiences are reproduced (played back in a temporal sequence), the accompanying emotions are once again felt, in synchronization.
+<p/>
+The capability of reproducing experiences is critical to <i>learning</i> from past experiences, so as to make them guides for action in future experiences. The ERR model is the minimal mind model that provides for such (Hebbian) learning by living organisms.
+
+
+<!-- 
+<p/>
+The ERR model does not need a single "central processor unit (CPU) or even several "parallel processors." It does not use computer-like "data retrieval," based on the "address" of the data, to reproduce past experiences.  All that is required is that past experiences "play back" (are reproduced) whenever they are stimulated by present experiences that <i>resemble</i> the past experiences in one or more ways. When the organism recreates positive experiences by acting them out, they can become reinforced as "habitual," "automatic," or "subconscious" information structures.
+<p/>
+
+<p/>
+Where <a href="/solutions/scientists/hebb/">Donald Hebb</a> famously argued that "neurons that fire together wire together," our <i>experience recorder and reproducer</i> ERR model assumes that "neurons that have been wired together will fire together." 
+<p/>
+
+ simultaneously record smells, tastes, touches, and - critically essential - feelings.
+(although <a href="/solutions/scientists/edelman/">Gerald Edelman</a>'s neural network learning computers have some reward/punishment systems designed in).-->
+
+<div id="skyFooter3892" class="skyFooter">
+
+<script type="text/javascript" language="javascript">
+document.onclick = fDocumentOnClick;
+document.ondblclick = fDocumentOnDblClick;
+document.onkeypress = fDocumentOnKeyPress;
+document.onmouseover = fSkyWritableOver;
+</script>
+<div class="skyFooterText">
+</div>
+
+</div>
+
+		<!-- 
+		     server side readerlevel control links
+		     <a id="reader_level_0_link" href="?ReaderLevel=0">0</a> | <a id="reader_level_1_link" href="?ReaderLevel=1">1</a> | <a id="reader_level_2_link" href="?ReaderLevel=2">2</a>
+		     -->
+		<!-- client side readerlevel control links -->
+		<a id="reader_level_0_link" href="" onclick="fSetReaderLevel(0); return false;">Normal</a> | <a id="reader_level_1_link" href="" onclick="fSetReaderLevel(1); return false;">Teacher</a> | <a id="reader_level_2_link" href="" onclick="fSetReaderLevel(2); return false;">Scholar</a>
+	      </div>
+	    </div>
+	    <!-- end column23 -->
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    
+            
+    
+    <!-- stop index links -->
+    <div style="clear:both"></div>
+    <!-- suppresses blue main-menu background repeating down the whole page in mozilla -->
+    </div>
+    <!-- end content-wrapper -->
+    <!-- 
+    when serializing the footer, pull everything above this line out into the includer so that the skyInclude div won't get crossed with content-wrapper
+    dtd 
+    -->
+    
+    <div id="footer">
+    <a href="http://www.informationphilosopher.com/introduction/contact.html">Contact Us</a><a href="http://www.informationphilosopher.com/site/map/">Site Map</a>  <a href="http://www.skybuilders.com">Powered by skyBuilders <img class="cc" src="/images/nanoSky.gif" alt="skyBuilders.com" border="0"></a> <a rel="license" href="http://creativecommons.org/licenses/by/3.0"  title="Creative Commons Attribution License">Creative Commons Attribution License <img class="cc" alt="Creative Commons Attribution License" src="/images/CC.png" border="0"></a>
+    </div>
+
+    </body>
+</html>

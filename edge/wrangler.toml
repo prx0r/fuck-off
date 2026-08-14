@@ -1,0 +1,33 @@
+# wrangler.toml — Cloudflare Workers deploy config (SPEC-49 / v3 build spec)
+name = "patala"
+main = "worker.js"
+compatibility_date = "2026-01-01"
+
+# R2 bucket = the immutable compiled site (compute-on-write)
+[[r2_buckets]]
+binding = "SITE"
+bucket_name = "patala-site"
+
+# KV = the filename -> content-hash alias map (reactive: alias moves, bytes immutable)
+[[kv_namespaces]]
+binding = "KV"
+id = "patala-aliases"
+
+[assets]
+directory = "../site"   # the static site built by build-static-site.py
+binding = "ASSETS"
+
+# routes: serve static via CDN, /api and /mcp via the Worker
+routes = [
+  { pattern = "patala.org", zone_name = "patala.org" },
+  { pattern = "patala.org/api/*", zone_name = "patala.org" },
+  { pattern = "patala.org/mcp", zone_name = "patala.org" },
+]
+
+# performance: hyperdrive for the DB only where genuinely needed
+# [[hyperdrive]]
+# binding = "HYPERDRIVE"
+# id = "..."
+
+# [vars]
+# ALGOLIA_APP_ID = "..."

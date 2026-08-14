@@ -1,0 +1,814 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+ <head>
+<meta name="generator" content="skyBuilders.com timeLines">
+<link rel="stylesheet" href="https://www.informationphilosopher.com/timelines/PageFooter.css"><script type="text/javascript" language="javascript"><!-- 
+if (typeof SymRealWinOpen == 'function') {
+window.open = SymRealWinOpen;
+}
+//--></script>
+
+<script type="text/javascript" language="javascript">
+var sPageSeriesName = "index.html";
+var sRequestedFileName = "index.9.en.html";
+var sSkyPageID = "860";
+function mSkyWrite() {
+window.open('/timelines/index.html?skyWrite=True&UserID=3&chosenLocaleCode=en&PageSeriesID=1&PageID=860&DirPath=%2F', '_blank', 'resizable,menubar,location,toolbar,scrollbars,status,height=600,width=832,left=250,top=50', true);
+}
+var sCurrentlyOverDocument = 1;
+
+function fGetPagePos(oElement, sDimension) {
+  var sPagePos;
+  
+  if (! (oElement = document.getElementById(oElement))) {
+    return 0;
+  }
+  
+  sPagePos = 0;
+  
+  // alert(oElement);
+  while (oElement) {
+    if (typeof(oElement['offset' + sDimension]) != 'undefined') {
+      sPagePos += oElement['offset' + sDimension];
+    }
+    // alert(typeof oElement.offsetParent);
+    if (typeof(oElement.offsetParent) != 'undefined') {
+      oElement = oElement.offsetParent;
+    } else {
+      oElement = null;
+    }
+  }
+  
+  return sPagePos;
+}
+
+function fSkyWritableOver(sDivID, oEvent) {
+  var oDiv;
+  
+  if (oEvent) {
+    sElement = (oEvent.target) ? oEvent.target : oEvent.srcElement;
+    if ((sElement.id == 'skyIncludeEditablePencilImg') || (sElement.id == 'skyIncludeEditableCornerImg')){
+      window.status = 'click to edit';
+    }
+  }
+  
+  // alert(typeof sDivID);
+  if (typeof sDivID == 'string') {
+    sCurrentlyOverDocument = 0;
+    oDiv = document.getElementById(sDivID);
+    oPencil = document.getElementById('skyIncludeEditablePencil');
+    oCorner = document.getElementById('skyIncludeEditableCorner');
+    // sDivTop = oDiv.offsetTop;
+    sDivTop = fGetPagePos(sDivID, 'Top');
+    sDivLeft = fGetPagePos(sDivID, 'Left');
+    sDivWidth = oDiv.offsetWidth;
+    sDivHeight = oDiv.offsetHeight;
+    // alert('div: ' + sDivTop);
+    // alert(sDivWidth);
+    
+    oPencil.style.top = sDivTop + 'px';
+    oPencil.style.left = (sDivLeft + sDivWidth - 21) + 'px';
+    oCorner.style.top = (sDivTop + sDivHeight - 11) + 'px';
+    oCorner.style.left = sDivLeft + 'px';
+    // oSkyIncludeEditable.style.height = '0px';
+    // oSkyIncludeEditable.style.border = '#0000ff dashed 1px';
+    oPencil.style.width = '21px';
+    oPencil.style.height = '19px';
+    oPencil.style.zIndex = '101';
+    oPencil.onmouseover = oDiv.onmouseover;
+    oPencil.onmouseout = oDiv.onmouseout;
+    oPencil.onclick = oDiv.onclick;
+    oCorner.style.width = '10px';
+    oCorner.style.height = '9px';
+    oCorner.style.zIndex = '101';
+    oCorner.onmouseover = oDiv.onmouseover;
+    oCorner.onmouseout = oDiv.onmouseout;
+    oCorner.onclick = oDiv.onclick;
+    // oSkyIncludeEditable.style.display = 'block';
+    
+    // sSkyIncludeEditableTop = oSkyIncludeEditable.style.top;
+    // alert('skyinclude: ' + sSkyIncludeEditableTop);
+    
+    if (0) {
+      oDiv.style.borderWidth = '1px';
+      oDiv.style.borderStyle = 'dashed';
+      oDiv.style.borderColor = '#0000ff';
+    }
+  } else {
+    // sCurrentlyOverDocument = 1;
+  }
+}
+
+function fSkyWritableOut(sDivID) {
+  var oDiv;
+  
+  window.status = '';
+  
+  if (typeof sDivID == 'string') {
+    sCurrentlyOverDocument = 1;
+    // oDiv = document.getElementById(sDivID);
+    // doesn't work in IE: oDiv.style.border = '1px solid transparent';
+    // document.getElementById('skyIncludeEditable').style.display = 'none';
+    document.getElementById('skyIncludeEditablePencil').style.zIndex = '-1';
+    document.getElementById('skyIncludeEditablePencil').style.top = '-100';
+    document.getElementById('skyIncludeEditableCorner').style.zIndex = '-1';
+    document.getElementById('skyIncludeEditableCorner').style.top = '-100';
+    // oDiv.style.border = '1px solid #ffffff';
+  }
+}
+
+function fDocumentOnClick(oEvent) {
+  // alert(sCurrentlyOverDocument);
+  // if (0) {
+  if (sCurrentlyOverDocument == 1) {
+    fSkyWriteInclude(1, 860, '/', oEvent);
+  }
+}
+
+function fAsOfNow() {
+  document.cookie = 'as_of=; path=/; domain=informationphilosopher.com';
+  document.location.href = '?@=now';
+}
+
+function fSubmitAsOfForm() {
+  oYearInput = document.getElementById('as_of_year');
+  oMonthInput = document.getElementById('as_of_month');
+  oDayInput = document.getElementById('as_of_day');
+  oHourInput = document.getElementById('as_of_hour');
+  oMinuteInput = document.getElementById('as_of_minute');
+  oSecondInput = document.getElementById('as_of_second');
+
+  sAsOf = oYearInput.value + '-' + oMonthInput.value + '-' + oDayInput.value + 'T' + oHourInput.value + ':' + oMinuteInput.value + ':' + oSecondInput.value;
+  document.location.href = '?@=' + sAsOf;
+}
+
+var aAsOfInputs = [
+  'as_of_year',
+  'as_of_month',
+  'as_of_day',
+  'as_of_hour',
+  'as_of_minute',
+  'as_of_second',
+];
+
+function fAsOfOnKeyUp(e) {
+  // Handle the Enter key
+  if (e.key == 'Enter') {
+     fSubmitAsOfForm();
+  }
+}
+
+function fAsOfOnInput(e) {
+  fAsOfNextInput(e.target);
+}
+
+function fAsOfNextInput(oInput) {
+  // Handle giving focus to the next input when this one is at max length
+  sMaxLen = String(oInput.max +'').length;
+
+  if (oInput.value.length == sMaxLen) {
+     // Find which input, if any, is next in the sequence
+     sNextIndex = aAsOfInputs.indexOf(oInput.id) + 1;
+     if (sNextIndex < aAsOfInputs.length) {
+     	oNext = document.getElementById(aAsOfInputs[sNextIndex]);
+	oNext.focus();
+	oNext.select();
+     }
+  }
+}
+
+function fDismissAsOfForm() {
+  var oDiv = document.getElementById('as_of_div');
+  if (oDiv) {
+    oDiv.style.display = 'none';
+  }
+}
+
+function fOpenAsOfForm() {
+  var oDiv = document.getElementById('as_of_div');
+  if (oDiv) {
+    oDisplaySpan = document.getElementById('as_of_display');
+    oYearInput = document.getElementById('as_of_year');
+    oMonthInput = document.getElementById('as_of_month');
+    oDayInput = document.getElementById('as_of_day');
+    oHourInput = document.getElementById('as_of_hour');
+    oMinuteInput = document.getElementById('as_of_minute');
+    oSecondInput = document.getElementById('as_of_second');
+  } else {
+    var oDiv = document.createElement('div');
+    oDiv.id = 'as_of_div';
+
+    var oForm = document.createElement('form');
+    oForm.style = 'margin-block-end: 0;';
+    oForm.id = 'as_of_form';
+    oForm.name = 'as_of_form';
+    oForm.onsubmit = fSubmitAsOfForm;
+    oDiv.appendChild(oForm);
+
+    var oGrid = document.createElement('div');
+    oGrid.style = 'display: grid; grid-template-columns: max-content min-content min-content min-content min-content min-content 1fr;';
+    oGrid.ondblclick = null;
+    oForm.appendChild(oGrid);
+
+    var oHeader = document.createElement('div');
+    oHeader.style = 'grid-column: 1; grid-row: 1; margin-top: 7px; padding-right: 5px;';
+    oHeader.appendChild(document.createTextNode('Showing page as of '));
+    oDisplaySpan = document.createElement('span');
+    oDisplaySpan.id = 'as_of_display';
+    oHeader.appendChild(oDisplaySpan)
+    oHeader.appendChild(document.createTextNode('. Choose date and time:'));
+    oGrid.appendChild(oHeader);
+
+    var oYearDiv = document.createElement('div');
+    oYearDiv.className = 'as_of_input_div';
+    oYearDiv.style = 'grid-column: 2; grid-row: 1;';
+    oGrid.appendChild(oYearDiv);
+
+    var oYearInput = document.createElement('input');
+    oYearInput.id = 'as_of_year';
+    oYearInput.type = 'number';
+    oYearInput.min = 1970;
+    oYearInput.max = 9999;
+    oYearInput.oninput = fAsOfOnInput;
+    oYearInput.onkeyup = fAsOfOnKeyUp;
+    oYearDiv.appendChild(oYearInput);
+
+    oYearDiv.appendChild(document.createTextNode('-'));
+
+    var oMonthDiv = document.createElement('div');
+    oMonthDiv.className = 'as_of_input_div';
+    oMonthDiv.style = 'grid-column: 3; grid-row: 1;';
+    oGrid.appendChild(oMonthDiv);
+
+    var oMonthInput = document.createElement('input');
+    oMonthInput.id = 'as_of_month';
+    oMonthInput.type = 'number';
+    oMonthInput.min = 1;
+    oMonthInput.max = 12;
+    oMonthInput.oninput = fAsOfOnInput;
+    oMonthInput.onkeyup = fAsOfOnKeyUp;
+    oMonthDiv.appendChild(oMonthInput);
+
+    oMonthDiv.appendChild(document.createTextNode('-'));
+
+    var oDayDiv = document.createElement('div');
+    oDayDiv.className = 'as_of_input_div';
+    oDayDiv.style = 'grid-column: 4; grid-row: 1; padding-right: 5px';
+    oGrid.appendChild(oDayDiv);
+
+    var oDayInput = document.createElement('input');
+    oDayInput.id = 'as_of_day';
+    oDayInput.type = 'number';
+    oDayInput.min = 1;
+    oDayInput.max = 31;
+    oDayInput.oninput = fAsOfOnInput;
+    oDayInput.onkeyup = fAsOfOnKeyUp;
+    oDayDiv.appendChild(oDayInput);
+
+    var oHourDiv = document.createElement('div');
+    oHourDiv.className = 'as_of_input_div';
+    oHourDiv.style = 'grid-column: 5; grid-row: 1;';
+    oGrid.appendChild(oHourDiv);
+
+    var oHourInput = document.createElement('input');
+    oHourInput.id = 'as_of_hour';
+    oHourInput.type = 'number';
+    oHourInput.min = 0;
+    oHourInput.max = 23;
+    oHourInput.oninput = fAsOfOnInput;
+    oHourInput.onkeyup = fAsOfOnKeyUp;
+    oHourDiv.appendChild(oHourInput);
+
+    oHourDiv.appendChild(document.createTextNode(':'));
+
+    var oMinuteDiv = document.createElement('div');
+    oMinuteDiv.className = 'as_of_input_div';
+    oMinuteDiv.style = 'grid-column: 6; grid-row: 1;';
+    oGrid.appendChild(oMinuteDiv);
+
+    var oMinuteInput = document.createElement('input');
+    oMinuteInput.id = 'as_of_minute';
+    oMinuteInput.type = 'number';
+    oMinuteInput.min = 0;
+    oMinuteInput.max = 59;
+    oMinuteInput.oninput = fAsOfOnInput;
+    oMinuteInput.onkeyup = fAsOfOnKeyUp;
+    oMinuteDiv.appendChild(oMinuteInput);
+
+    oMinuteDiv.appendChild(document.createTextNode(':'));
+
+    var oSecondDiv = document.createElement('div');
+    oSecondDiv.className = 'as_of_input_div';
+    oSecondDiv.style = 'grid-column: 7; grid-row: 1;';
+    oGrid.appendChild(oSecondDiv);
+
+    var oSecondInput = document.createElement('input');
+    oSecondInput.id = 'as_of_second';
+    oSecondInput.type = 'number';
+    oSecondInput.min = 0;
+    oSecondInput.max = 59;
+    oSecondInput.oninput = fAsOfOnInput;
+    oSecondInput.onkeyup = fAsOfOnKeyUp;
+    oSecondDiv.appendChild(oSecondInput);
+
+    var oSecondDiv = document.createElement('div');
+    oSecondDiv.className = 'as_of_input_div';
+    oSecondDiv.style = 'grid-column: 7; grid-row: 1;';
+    oGrid.appendChild(oSecondDiv);
+
+    var oButtonsDiv = document.createElement('div');
+    oButtonsDiv.style = 'grid-column: 8; grid-row: 1 /3; padding-top: 2px; text-align: right;';
+    oEnterButton = document.createElement('button');
+    oEnterButton.style = 'margin-bottom: 5px; margin-right: 5px;';
+    oEnterButton.onclick = fSubmitAsOfForm;
+    oEnterButton.appendChild(document.createTextNode('Enter'));
+    oButtonsDiv.appendChild(oEnterButton);
+    oNowButton = document.createElement('button');
+    oNowButton.style = 'margin-bottom: 5px;';
+    oNowButton.onclick = fAsOfNow;
+    oNowButton.appendChild(document.createTextNode('Now'));
+    oButtonsDiv.appendChild(oNowButton);
+    oButtonsDiv.appendChild(document.createElement('br'));
+    oDismissButton = document.createElement('button');
+    oDismissButton.onclick = fDismissAsOfForm;
+    oDismissButton.appendChild(document.createTextNode('Dismiss'));
+    oButtonsDiv.appendChild(oDismissButton);
+    oGrid.appendChild(oButtonsDiv);
+
+    var oErrorHeader = document.createElement('div');
+    oErrorHeader.style = 'grid-column: 1; grid-row: 2; padding-right: 5px; font-weight: bold;';
+    oErrorHeader.appendChild(document.createTextNode(''));
+    oGrid.appendChild(oErrorHeader);
+
+    var oYearLabelDiv = document.createElement('div');
+    oYearLabelDiv.className = 'as_of_label';
+    oYearLabelDiv.style = 'grid-column: 2;';
+    oGrid.appendChild(oYearLabelDiv);
+    oYearLabelDiv.appendChild(document.createTextNode('Year'));
+    oYearLabelDiv.appendChild(document.createElement('br'));
+    oYearLabelDiv.appendChild(document.createTextNode('YYYY'));
+
+    var oMonthLabelDiv = document.createElement('div');
+    oMonthLabelDiv.className = 'as_of_label';
+    oMonthLabelDiv.style = 'grid-column: 3;';
+    oGrid.appendChild(oMonthLabelDiv);
+    oMonthLabelDiv.appendChild(document.createTextNode('Month'));
+    oMonthLabelDiv.appendChild(document.createElement('br'));
+    oMonthLabelDiv.appendChild(document.createTextNode('01-12'));
+
+    var oDayLabelDiv = document.createElement('div');
+    oDayLabelDiv.className = 'as_of_label';
+    oDayLabelDiv.style = 'grid-column: 4;';
+    oGrid.appendChild(oDayLabelDiv);
+    oDayLabelDiv.appendChild(document.createTextNode('Day'));
+    oDayLabelDiv.appendChild(document.createElement('br'));
+    oDayLabelDiv.appendChild(document.createTextNode('01-31'));
+
+    var oHourLabelDiv = document.createElement('div');
+    oHourLabelDiv.className = 'as_of_label';
+    oHourLabelDiv.style = 'grid-column: 5;';
+    oGrid.appendChild(oHourLabelDiv);
+    oHourLabelDiv.appendChild(document.createTextNode('Hour'));
+    oHourLabelDiv.appendChild(document.createElement('br'));
+    oHourLabelDiv.appendChild(document.createTextNode('00-23'));
+
+    var oMinuteLabelDiv = document.createElement('div');
+    oMinuteLabelDiv.className = 'as_of_label';
+    oMinuteLabelDiv.style = 'grid-column: 6;';
+    oGrid.appendChild(oMinuteLabelDiv);
+    oMinuteLabelDiv.appendChild(document.createTextNode('Minute'));
+    oMinuteLabelDiv.appendChild(document.createElement('br'));
+    oMinuteLabelDiv.appendChild(document.createTextNode('00-59'));
+
+    var oSecondLabelDiv = document.createElement('div');
+    oSecondLabelDiv.className = 'as_of_label';
+    oSecondLabelDiv.style = 'grid-column: 7;';
+    oGrid.appendChild(oSecondLabelDiv);
+    oSecondLabelDiv.appendChild(document.createTextNode('Second'));
+    oSecondLabelDiv.appendChild(document.createElement('br'));
+    oSecondLabelDiv.appendChild(document.createTextNode('00-59'));
+
+    document.body.insertBefore(oDiv, document.body.firstChild);
+  }
+
+  oYearInput.value = '2026';
+  oMonthInput.value = '07';
+  oDayInput.value = '29';
+  oHourInput.value = '20';
+  oMinuteInput.value = '19';
+  oSecondInput.value = '34';
+
+  oDisplaySpan.innerText = oYearInput.value + '-' + oMonthInput.value + '-' + oDayInput.value + ' ' + oHourInput.value + ':' + oMinuteInput.value + ':' + oSecondInput.value;
+
+  oDiv.style.display = 'block';
+
+  oYearInput.focus();
+  oYearInput.select();
+}
+
+function fDocumentOnDblClick(oEvent) {
+  fOpenAsOfForm();
+}
+
+function fDocumentOnKeyPress(oEvent) {
+  // The @ symbol
+  if ((oEvent.shiftKey) && (oEvent.code == 'Digit2')) {
+    fOpenAsOfForm();
+  }
+}
+
+document.addEventListener('DOMContentLoaded', function(event) {
+  if ('' != '') {
+     document.cookie = 'as_of=; path=/; domain=informationphilosopher.com';
+     fOpenAsOfForm();
+  }
+});
+
+
+function fSkyWriteInclude(sPageSeriesID, sPageID, sDirPath, oEvent) {
+var sIndicatorClicked, sControlKeyPressed, sShiftKeyPressed;
+var sElement;
+
+// check for shift or control key depressed
+oEvent = (oEvent) ? oEvent : (window.event) ? window.event : ''
+
+sIndicatorClicked = 0;
+sControlKeyPressed = 0;
+sShiftKeyPressed = 0;
+if (oEvent) {
+  sModifierPressed = '';
+  
+  sElement = (oEvent.target) ? oEvent.target : oEvent.srcElement;
+  // alert(sElement.id);
+  
+  if ((sElement.id == 'skyIncludeEditablePencilImg') || (sElement.id == 'skyIncludeEditableCornerImg')){
+    sIndicatorClicked = 1;
+  }
+  
+  if (oEvent.which) {
+    if (oEvent.ctrlKey) {
+      sControlKeyPressed = 1;
+    }
+  } else {
+    if (oEvent.modifiers) {
+      if (oEvent.modifiers && oEvent.CTRL_MASK) {
+        // sControlKeyPressed = oEvent.modifiers;
+        sControlKeyPressed = 1;
+      }
+    } else {
+      if (oEvent.ctrlKey) {
+        sControlKeyPressed = 1;
+      }
+    }
+  }
+  
+  if (oEvent.which) {
+    if (oEvent.shiftKey) {
+      sShiftKeyPressed = 1;
+    }
+  } else {
+    if (oEvent.modifiers) {
+      if (oEvent.modifiers && oEvent.SHIFT_MASK) {
+        // sShiftKeyPressed = oEvent.modifiers;
+        sShiftKeyPressed = 1;
+      }
+    } else {
+      if (oEvent.shiftKey) {
+        sShiftKeyPressed = 1;
+      }
+    }
+  }
+}
+
+// if shift or control key pressed
+if ((sIndicatorClicked) || (sControlKeyPressed == 1) || (sShiftKeyPressed == 1)) {
+  // alert('pressed');
+  window.open('https://www.informationphilosopher.com/timelines/index.html?skyWrite=True&PageSeriesID=' + sPageSeriesID + '&PageID=' + sPageID + '&DirPath=' + sDirPath, '_blank', 'menubar,toolbar,location,resizable,scrollbars,status,height=600,width=832,left=250,top=50', true);
+}
+}
+    
+</script>
+  <title>The Information Philosopher - dedicated to the new information philosophy</title>
+  <meta type="content" content="The Information Philosopher - dedicated to the new information philosophy">
+  <style type="text/css">
+  #cc {
+  margin-top:2px;
+  }
+  </style>
+ </head>
+ <body>
+    <div class="chaptertitle">The Information Philosopher</div>
+    
+    <div class="bodytext">
+    The Information Philosopher, as do all who would make an advance in knowledge, stands on the shoulders of giant <a href="/solutions/philosophers/">philosophers</a> and <a href="/solutions/scientists/">scientists</a> of the past - and present
+    </div>
+
+ <!-- Now obsolete. Replaced by -->
+
+    <div class="linksRight">
+    Philosophers
+    <br><br>
+    <a href="/solutions/philosophers/adler/">Mortimer Adler</a><br> 
+    <a href="/solutions/philosophers/albritton/">Rogers Albritton</a><br> 
+    <a href="/solutions/philosophers/anscombe/">G.E.M.Anscombe</a><br> 
+    <a href="/solutions/philosophers/anselm/">Anselm</a><br> 
+    <a href="/solutions/philosophers/aquinas/">Thomas Aquinas</a><br> 
+    <a href="/solutions/philosophers/aristotle/">Aristotle</a><br> 
+    <!-- <a href="/solutions/philosophers/arminius/">Arminius</a><br> -->
+    <a href="/solutions/philosophers/augustine/">Augustine</a><br> 
+    <a href="/solutions/philosophers/austin/">J.L.Austin</a><br>
+    <a href="/solutions/philosophers/ayer/">A.J.Ayer</a><br>
+    <a href="/solutions/philosophers/bain/">Alexander Bain</a><br> 
+    <a href="/solutions/philosophers/balaguer/">Mark Balaguer</a><br> 
+    <a href="/solutions/philosophers/belsham/">William Belsham</a><br> 
+    <a href="/solutions/philosophers/bergson/">Henri Bergson</a><br>
+    <a href="/solutions/philosophers/berlin/">Isaiah Berlin</a><br>
+    <a href="/solutions/philosophers/berofsky/">Bernard Berofsky</a><br>
+    <a href="/solutions/philosophers/bobzien/">Susanne Bobzien</a><br> 
+    <a href="/solutions/philosophers/boole/">George Boole</a><br> 
+    <a href="/solutions/philosophers/boutroux/">Émile Boutroux</a><br> 
+    <a href="/solutions/philosophers/bradley/">F.H.Bradley</a><br> 
+    <!-- <a href="/solutions/philosophers/bradley/">Franz Brentano</a><br> -->
+    <a href="/solutions/philosophers/broad/">C.D.Broad</a><br>
+    <a href="/solutions/philosophers/campbell/">C.A.Campbell</a><br>
+    <a href="/solutions/philosophers/campbellj/">Joseph Keim Campbell</a><br>
+    <a href="/solutions/philosophers/carneades/">Carneades</a><br>
+    <a href="/solutions/philosophers/cassirer/">Ernst Cassirer</a><br>
+    <a href="/solutions/philosophers/chalmers/">David Chalmers</a><br>
+    <a href="/solutions/philosophers/chisholm/">Roderick Chisholm</a><br>
+    <a href="/solutions/philosophers/chrysippus/">Chrysippus</a><br>
+    <a href="/solutions/philosophers/Cicero/">Cicero</a><br> 
+    <a href="/solutions/philosophers/clarke/">Randolph Clarke</a><br>
+    <a href="/solutions/philosophers/clarkes/">Samuel Clarke</a><br>
+    <a href="/solutions/philosophers/collins/">Anthony Collins</a><br>
+    <a href="/solutions/philosophers/diodorus/">Diodorus Cronus</a><br>
+    <a href="/solutions/philosophers/davidson/">Donald Davidson</a><br>
+    <a href="/solutions/philosophers/decaro/">Mario De Caro</a><br> 
+    <a href="/solutions/philosophers/democritus/">Democritus</a><br> 
+    <a href="/solutions/philosophers/dennett/">Daniel Dennett</a><br>
+    <a href="/solutions/philosophers/descartes/">Ren&eacute; Descartes</a><br> 
+    <a href="/solutions/philosophers/double/">Richard Double</a><br> 
+    <a href="/solutions/philosophers/bois-reymond/">Emil du Bois-Reymond</a><br> 
+    <a href="/knowledge/philosophers/dretske/">Fred Dretske</a><br> 
+    <a href="/solutions/philosophers/earman/">John Earman</a><br> 
+    <a href="/solutions/philosophers/ekstrom/">Laura Waddell Ekstrom</a><br> 
+    <a href="/solutions/philosophers/epictetus/">Epictetus</a><br> 
+    <a href="/solutions/philosophers/epicurus/">Epicurus</a><br> 
+    <a href="/solutions/philosophers/fischer/">John Martin Fischer</a><br>
+    <a href="/solutions/philosophers/flanagan/">Owen Flanagan</a><br>
+    <a href="/solutions/philosophers/floridi/">Luciano Floridi</a><br>
+    <a href="/solutions/philosophers/foot/">Philippa Foot</a><br>
+    <a href="/solutions/philosophers/fouillee/">Alfred Fouillée</a><br>
+    <a href="/solutions/philosophers/frankfurt/">Harry Frankfurt</a><br>
+    <a href="/solutions/philosophers/franklin/">Richard L. Franklin</a><br>
+    <a href="/solutions/philosophers/frede/">Michael Frede</a><br>
+    <a href="/solutions/philosophers/ginet/">Carl Ginet</a><br>
+    <a href="/solutions/philosophers/grice/">H.Paul Grice</a><br>
+    <a href="/solutions/philosophers/green/">Nicholas St. John Green</a><br>
+    <a href="/solutions/philosophers/hacking/">Ian Hacking</a><br> 
+    <a href="/solutions/philosophers/haji/">Ishtiyaque Haji</a><br> 
+    <a href="/solutions/philosophers/hampshire/">Stuart Hampshire</a><br> 
+    <a href="/solutions/philosophers/hardie/">W.F.R.Hardie</a><br> 
+    <a href="/solutions/philosophers/hare/">R.M.Hare</a><br> 
+    <a href="/solutions/philosophers/hegel/">Georg W.F. Hegel</a><br> 
+    <a href="/solutions/philosophers/heidegger/">Martin Heidegger</a><br>
+    <a href="/solutions/philosophers/hobart/">R.E.Hobart</a><br> 
+    <a href="/solutions/philosophers/hobbes/">Thomas Hobbes</a><br> 
+    <a href="/solutions/philosophers/hodgson/">David Hodgson</a><br>
+    <a href="/solutions/philosophers/hodgsons/">Shadsworth Hodgson</a><br> 
+    <a href="/solutions/philosophers/honderich/">Ted Honderich</a><br>
+    <!-- <a href="/solutions/philosophers/hook/">Sidney Hook</a><br> -->
+    <a href="/solutions/philosophers/huby/">Pamela Huby</a><br> 
+    <a href="/solutions/philosophers/hume/">David Hume</a><br> 
+    <!-- <a href="/solutions/philosophers/husserl/">Edmund Husserl</a><br> -->
+    <a href="/solutions/philosophers/james/">William James</a><br> 
+    <a href="/solutions/philosophers/kames/">Lord Kames</a><br>
+    <a href="/solutions/philosophers/kane/">Robert Kane</a><br>
+    <a href="/solutions/philosophers/kant/">Immanuel Kant</a><br> 
+    <a href="/solutions/philosophers/kapitan/">Tomis Kapitan</a><br> 
+    <a href="/solutions/philosophers/kim/">Jaegwon Kim</a><br> 
+    <a href="/solutions/philosophers/king/">William King</a><br> 
+    <a href="/solutions/philosophers/korsgaard/">Christine Korsgaard</a><br> 
+    <a href="/solutions/philosophers/lehrer/">Keith Lehrer</a><br> 
+    <a href="/solutions/philosophers/leibniz/">Gottfried Leibniz</a><br> 
+    <a href="/solutions/philosophers/leucippus/">Leucippus</a><br> 
+    <a href="/solutions/philosophers/levin/">Michael Levin</a><br>
+    <a href="/knowledge/philosophers/lewis/">C.I.Lewis</a><br> 
+    <a href="/solutions/philosophers/lewis/">David Lewis</a><br> 
+    <a href="/solutions/philosophers/lipton/">Peter Lipton</a><br> 
+    <a href="/solutions/philosophers/locke/">John Locke</a><br>
+    <a href="/solutions/philosophers/lockwood/">Michael Lockwood</a><br>
+    <a href="/solutions/philosophers/lucas/">John R. Lucas</a><br>
+    <a href="/solutions/philosophers/lucretius/">Lucretius</a><br>
+    <a href="/solutions/philosophers/martineau/">James Martineau</a><br> 
+    <a href="/solutions/philosophers/mccall/">Storrs McCall</a><br>
+    <a href="/solutions/philosophers/mccann/">Hugh McCann</a><br>
+    <a href="/solutions/philosophers/mcginn/">Colin McGinn</a><br>
+    <a href="/solutions/philosophers/mckenna/">Michael McKenna</a><br>
+    <a href="/solutions/philosophers/meehl/">Paul E. Meehl</a><br>
+    <a href="/solutions/philosophers/mele/">Alfred Mele</a><br>
+    <a href="/solutions/philosophers/mill/">John Stuart Mill</a><br>
+    <a href="/solutions/philosophers/miller/">Dickinson Miller</a><br>
+    <a href="/solutions/philosophers/moore/">G.E.Moore</a><br>
+    <a href="/solutions/philosophers/nagelt/">Thomas Nagel</a><br>
+    <a href="/solutions/philosophers/nietzsche/">Friedrich Nietzsche</a><br>
+    <a href="/solutions/philosophers/nowell-smith/">P.H.Nowell-Smith</a><br>
+    <a href="/solutions/philosophers/nozick/">Robert Nozick</a><br>
+    <a href="/solutions/philosophers/ockham/">William of Ockham</a><br> 
+    <a href="/solutions/philosophers/oconnor/">Timothy O'Connor</a><br>
+    <a href="/solutions/philosophers/pears/">David F. Pears</a><br> 
+    <a href="/solutions/philosophers/peirce/">Charles Sanders Peirce</a><br> 
+    <a href="/solutions/philosophers/pereboom/">Derk Pereboom</a><br> 
+    <a href="/solutions/philosophers/pinker/">Steven Pinker</a><br>
+    <a href="/solutions/philosophers/popper/">Karl Popper</a><br> 
+    <a href="/solutions/philosophers/prichard/">H.A.Prichard</a><br> 
+    <a href="/solutions/philosophers/putnam/">Hilary Putnam</a><br> 
+    <a href="/solutions/philosophers/quine/">Willard van Orman Quine</a><br> 
+    <a href="/knowledge/philosophers/ramsey/">Frank Ramsey</a><br> 
+    <a href="/solutions/philosophers/rand/">Ayn Rand</a><br> 
+    <a href="/solutions/philosophers/reid/">Thomas Reid</a><br> 
+    <a href="/solutions/philosophers/renouvier/">Charles Renouvier</a><br> 
+    <a href="/solutions/philosophers/rescher/">Nicholas Rescher</a><br> 
+    <a href="/solutions/philosophers/rietdijk/">C.W.Rietdijk</a><br> 
+    <a href="/solutions/philosophers/royce/">Josiah Royce</a><br> 
+    <a href="/solutions/philosophers/russell/">Bertrand Russell</a><br> 
+    <a href="/solutions/philosophers/russellp/">Paul Russell</a><br> 
+    <a href="/solutions/philosophers/ryle/">Gilbert Ryle</a><br> 
+    <!-- <a href="/solutions/philosophers/sartre/">Jean-Paul Sartre</a><br> -->
+    <a href="/solutions/philosophers/scanlon/">T.M.Scanlon</a><br> 
+    <a href="/solutions/philosophers/schlick/">Moritz Schlick</a><br> 
+    <a href="/solutions/philosophers/schopenhauer/">Arthur Schopenhauer</a><br> 
+    <a href="/solutions/philosophers/searle/">John Searle</a><br>
+    <a href="/solutions/philosophers/sidgwick/">Henry Sidgwick</a><br> 
+    <a href="/solutions/philosophers/sinnott-armstrong/">Walter Sinnott-Armstrong</a><br> 
+    <a href="/solutions/philosophers/smart/">J.J.C.Smart</a><br> 
+    <a href="/solutions/philosophers/smilansky/">Saul Smilansky</a><br> 
+    <a href="/solutions/philosophers/smith/">Michael Smith</a><br> 
+    <a href="/solutions/philosophers/stebbing/">L. Susan Stebbing</a><br>
+    <a href="/solutions/philosophers/stout/">George F. Stout</a><br> 
+    <a href="/solutions/philosophers/strawsong/">Galen Strawson</a><br>
+    <a href="/solutions/philosophers/strawson/">Peter Strawson</a><br>
+    <a href="/solutions/philosophers/stump/">Eleonore Stump</a><br>
+    <a href="/solutions/philosophers/taylorr/">Richard Taylor</a><br>
+    <a href="/solutions/philosophers/timpe/">Kevin Timpe</a><br>
+    <a href="/solutions/philosophers/vaninwagen/">Peter van Inwagen</a><br> 
+    <a href="/solutions/philosophers/vargas/">Manuel Vargas</a><br> 
+    <a href="/solutions/philosophers/venn/">John Venn</a><br> 
+    <a href="/solutions/philosophers/vihvelin/">Kadri Vihvelin</a><br> 
+    <a href="/solutions/philosophers/voltaire/">Voltaire</a><br> 
+    <a href="/solutions/philosophers/vonwright/">G.H. von Wright</a><br> 
+    <a href="/solutions/philosophers/wallacedf/">David Foster Wallace</a><br> 
+    <a href="/solutions/philosophers/wallace/">R. Jay Wallace</a><br> 
+    <a href="/solutions/philosophers/ward/">W.G.Ward</a><br> 
+    <a href="/solutions/philosophers/warfield/">Ted Warfield</a><br> 
+    <a href="/solutions/philosophers/weatherford/">Roy Weatherford</a><br> 
+    <a href="/solutions/philosophers/whewell/">William Whewell</a><br> 
+    <a href="/solutions/philosophers/whitehead/">Alfred North Whitehead</a><br> 
+    <a href="/solutions/philosophers/widerker/">David Widerker</a><br> 
+    <a href="/solutions/philosophers/wiggins/">David Wiggins</a><br> 
+    <a href="/solutions/philosophers/williams/">Bernard Williams</a><br> 
+    <a href="/solutions/philosophers/wittgenstein/">Ludwig Wittgenstein</a><br> 
+    <a href="/solutions/philosophers/wolf/">Susan Wolf</a><br> 
+    <br> 
+    <a href="/solutions/scientists/">Scientists</a><br> 
+    </div>
+ 
+
+    <div class="bodytext">
+Information Philosophy is an account of creation, a story about the origin and evolution of the universe, of life, and of intelligence. It is also a story about freedom and determinism, about good and evil, about knowledge and ignorance. 
+    </div>
+
+    <div class="bodytext">
+There is a battle going on. It is a struggle between destructive chaotic processes that drive a microscopic underworld of random events versus constructive cosmic processes that create information structures with extraordinary emergent properties. 
+    </div>
+
+    <div class="bodytext">
+The created information structures range from galaxies, stars, and planets, to molecules, atoms, and subatomic particles. They are the structures of terrestrial life from viruses and bacteria to sensible and intelligent beings. And they are the constructed ideal world of thought, of intellect, of spirit, including the laws of nature, in which we humans play a role as co-creator.   
+    </div>
+
+    <div class="bodytext">
+Based on insights into these cosmic creation processes, the Information Philosopher proposes refinements of three ideas about perennial problems in philosophy that have a significant chance of being testable hypotheses. 
+If these ideas are verifiable empirically, they are likely to change some well-established philosophical positions. Even more important, they reconcile idealism and materialism and provide a new view of how humanity fits into the universe. 
+    </div>
+    
+    <div class="bodytext">
+    <p/>
+    </div>
+    
+    <div class="bodytext">
+The three ideas are 
+<ul>
+  <li> A <a href="/freedom/cogito/">scientific model</a> for <a href="/freedom/">free will</a> and <a href="/freedom/creativity.html">creativity</a> informed by the complementary roles of microscopic <a href="/freedom/chance.html">randomness</a> and <a href="/freedom/adequate_determinism.html">adequate macroscopic determinism</a> in a <a href="/freedom/cogito/index.html#temporal">temporal sequence</a>.<p/></li>
+  <li> A basis for objective <a href="/value/">value</a> beyond humanism and bioethics, grounded in the fundamental information creation processes behind the structure and evolution of the universe<p/></li>
+  <li> An explanation or epistemological model of <a href="/knowledge/">knowledge</a> formation and communication. Knowledge and information are neither matter nor energy, but they require matter for expression and energy for communication.<p/></li>
+</ul>
+    </div>
+    
+    <div class="bodytext">
+All three ideas depend on understanding modern cosmology, physics, biology, and neuroscience, but especially the intimate connection between quantum mechanics and the second law of thermodynamics.
+    </div>
+    
+    <div class="bodytext">
+All three are based on the theory of information, which alone can establish the existential status of <em>ideas</em>, not just the ideas of freedom, values, and knowledge, but other-worldly speculations in natural religion like God and immortality. 
+    </div>
+
+    <div class="bodytext">
+All three have been anticipated by earlier thinkers, but can now be defended on empirical grounds. Our goal is less to innovate than to reach the best possible consensus among philosophers living and dead, an intersubjective agreement between philosophers that is the surest sign of a knowledge advance in natural science. 
+    </div>
+
+    <div class="bodytext">
+    <p/>
+    </div>
+
+    <div class="bodytext">
+Philosophy is the love of knowledge or wisdom. Information philosophy (<em>I-Phi</em> or <em>ΙΦ</em>) quantifies knowledge as actionable information. <!-- These three actionable ideas are our contributions to philosophy and the new information philosophy. -->
+    </div>
+
+    
+    <div class="bodytext">
+    What is <a href="/introduction/information/"><em>information</em></a> that merits its use as the foundation of a new philosophical method of inquiry? 
+    </div>
+
+    <div class="bodytext">
+Abstract information is neither matter nor energy, yet it needs matter for its concrete embodiment and energy for its communication. Information is the modern <em>spirit</em>, the <em>ghost in the machine</em>.
+    </div>
+
+    <div class="bodytext">
+Over 100 years ago, Bertrand Russell, with the help of <a href="/solutions/philosophers/moore">G. E. Moore</a>, <a href="/solutions/philosophers/whitehead">Alfred North Whitehead</a>, and <a href="/solutions/philosophers/wittgenstein">Ludwig Wittgenstein</a>, proposed logic and language as the proper foundational basis, not only of philosophy, but also of mathematics and science.
+    </div>
+
+    <div class="bodytext">
+    Information is a better abstract basis for philosophy, and for science as well, capable of answering questions about metaphysics (the ontology of things themselves), epistemology (the existential status of ideas and how we know them), and idealism itself.  
+    </div>
+
+    <div class="bodytext">
+ Please see our <a href="/introduction/information/">introduction</a> to the principles of <em>increasing information</em> and <em>"soft" causality</em>.
+    </div>
+    
+
+<hr>
+    
+    <div class="bodytext">
+This website version of Information Philosopher has seven parts, each with multiple chapters. Navigation at the bottom of each page will take you to the next or previous part or chapter. <p/>
+Teacher and Scholar links display additional material on some pages, and reveal hidden footnotes on some pages. The footnotes themselves are in the Scholar section.
+<p/>
+Our goal is for the website to contain all the great philosophical discussions of our three ideas, with primary source materials (in the original languages) where possible.
+<p/>
+All original content on Information Philosopher is available for your use, without requesting <br/>permission, under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0">Creative Commons Attribution License</a>.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img id="cc" alt="cc by" src="/images/CC.png" border="0">
+<p/>
+Copyrights for all excerpted and quoted works remain with their authors and publishers. 
+    </div>
+
+    <hr color="#CCCCEE">
+
+    <table class="footernav" width="100%">
+      <tbody>
+        <tr>
+          <td width="14%" align="center"><a href="/introduction/">Introduction</a></td> 
+          <td width="14%" align="center"><a href="/freedom/">Freedom</a></td>
+          <td width="14%" align="center"><a href="/value/">Value</a></td> 
+          <td width="14%" align="center"><a href="/knowledge/">Knowledge</a></td>
+          <td width="14%" align="center"><a href="/problems/">Problems</a></td> 
+          <td width="14%" align="center"><a href="/solutions/">Solutions</a></td>
+          <td width="14%" align="center"><a href="/afterwords/">Afterword</a></td> 
+        </tr>
+      </tbody>
+    </table>
+
+<div class="reader_level_1">
+<hr>
+ <div class="sectiontitle">For Teachers</div>
+   <div class="breadcrumbs">To hide this material, click on the Normal link.</div>
+
+<div class="bodytext">
+A web page may contain two extra levels of material. The Normal page is material for newcomers and students of the Information Philosophy. Two hidden levels contain material for teachers (e.g., secondary sources) and for scholars (e.g., footnotes, and original language quotations). 
+</div>
+
+  Teacher materials on a page will typically include references to secondary sources and more extended explanations of the concepts and arguments. Secondary sources will include books, articles, and online resources. Extended explanations should be more suitable for teaching others about the core philosophical ideas, as seen from an information perspective.
+<p/>
+</div>
+
+<div class="reader_level_2">
+<hr>
+ <div class="sectiontitle">For Scholars</div>
+   <div class="breadcrumbs">To hide this material, click on the Teacher or Normal link.</div>
+  Scholarly materials will generally include more primary sources, more in-depth technical and scientific discussions where appropriate, original language versions of quotations, and references to all sources. 
+<p/>
+  Footnotes for a page appear in the Scholar materials. The footnote indicators themselves are only visible in Scholar mode.
+<p/>
+</div>
+
+<div id="skyFooter860" class="skyFooter">
+
+<script type="text/javascript" language="javascript">
+document.onclick = fDocumentOnClick;
+document.ondblclick = fDocumentOnDblClick;
+document.onkeypress = fDocumentOnKeyPress;
+document.onmouseover = fSkyWritableOver;
+</script>
+<div class="skyFooterText">
+</div>
+
+</div>
+</body>
+</html>

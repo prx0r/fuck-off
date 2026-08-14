@@ -1,0 +1,595 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta name="generator" content="skyBuilders.com timeLines">
+<link rel="stylesheet" href="https://www.informationphilosopher.com/timelines/PageFooter.css"><script type="text/javascript" language="javascript"><!-- 
+if (typeof SymRealWinOpen == 'function') {
+window.open = SymRealWinOpen;
+}
+//--></script>
+
+<script type="text/javascript" language="javascript">
+var sPageSeriesName = "correspondence.html";
+var sRequestedFileName = "html";
+var sSkyPageID = "1092";
+function mSkyWrite() {
+window.open('/timelines/index.html?skyWrite=True&UserID=3&chosenLocaleCode=&PageSeriesID=748&PageID=1092&DirPath=%2Fknowledge%2F', '_blank', 'resizable,menubar,location,toolbar,scrollbars,status,height=600,width=832,left=250,top=50', true);
+}
+var sCurrentlyOverDocument = 1;
+
+function fGetPagePos(oElement, sDimension) {
+  var sPagePos;
+  
+  if (! (oElement = document.getElementById(oElement))) {
+    return 0;
+  }
+  
+  sPagePos = 0;
+  
+  // alert(oElement);
+  while (oElement) {
+    if (typeof(oElement['offset' + sDimension]) != 'undefined') {
+      sPagePos += oElement['offset' + sDimension];
+    }
+    // alert(typeof oElement.offsetParent);
+    if (typeof(oElement.offsetParent) != 'undefined') {
+      oElement = oElement.offsetParent;
+    } else {
+      oElement = null;
+    }
+  }
+  
+  return sPagePos;
+}
+
+function fSkyWritableOver(sDivID, oEvent) {
+  var oDiv;
+  
+  if (oEvent) {
+    sElement = (oEvent.target) ? oEvent.target : oEvent.srcElement;
+    if ((sElement.id == 'skyIncludeEditablePencilImg') || (sElement.id == 'skyIncludeEditableCornerImg')){
+      window.status = 'click to edit';
+    }
+  }
+  
+  // alert(typeof sDivID);
+  if (typeof sDivID == 'string') {
+    sCurrentlyOverDocument = 0;
+    oDiv = document.getElementById(sDivID);
+    oPencil = document.getElementById('skyIncludeEditablePencil');
+    oCorner = document.getElementById('skyIncludeEditableCorner');
+    // sDivTop = oDiv.offsetTop;
+    sDivTop = fGetPagePos(sDivID, 'Top');
+    sDivLeft = fGetPagePos(sDivID, 'Left');
+    sDivWidth = oDiv.offsetWidth;
+    sDivHeight = oDiv.offsetHeight;
+    // alert('div: ' + sDivTop);
+    // alert(sDivWidth);
+    
+    oPencil.style.top = sDivTop + 'px';
+    oPencil.style.left = (sDivLeft + sDivWidth - 21) + 'px';
+    oCorner.style.top = (sDivTop + sDivHeight - 11) + 'px';
+    oCorner.style.left = sDivLeft + 'px';
+    // oSkyIncludeEditable.style.height = '0px';
+    // oSkyIncludeEditable.style.border = '#0000ff dashed 1px';
+    oPencil.style.width = '21px';
+    oPencil.style.height = '19px';
+    oPencil.style.zIndex = '101';
+    oPencil.onmouseover = oDiv.onmouseover;
+    oPencil.onmouseout = oDiv.onmouseout;
+    oPencil.onclick = oDiv.onclick;
+    oCorner.style.width = '10px';
+    oCorner.style.height = '9px';
+    oCorner.style.zIndex = '101';
+    oCorner.onmouseover = oDiv.onmouseover;
+    oCorner.onmouseout = oDiv.onmouseout;
+    oCorner.onclick = oDiv.onclick;
+    // oSkyIncludeEditable.style.display = 'block';
+    
+    // sSkyIncludeEditableTop = oSkyIncludeEditable.style.top;
+    // alert('skyinclude: ' + sSkyIncludeEditableTop);
+    
+    if (0) {
+      oDiv.style.borderWidth = '1px';
+      oDiv.style.borderStyle = 'dashed';
+      oDiv.style.borderColor = '#0000ff';
+    }
+  } else {
+    // sCurrentlyOverDocument = 1;
+  }
+}
+
+function fSkyWritableOut(sDivID) {
+  var oDiv;
+  
+  window.status = '';
+  
+  if (typeof sDivID == 'string') {
+    sCurrentlyOverDocument = 1;
+    // oDiv = document.getElementById(sDivID);
+    // doesn't work in IE: oDiv.style.border = '1px solid transparent';
+    // document.getElementById('skyIncludeEditable').style.display = 'none';
+    document.getElementById('skyIncludeEditablePencil').style.zIndex = '-1';
+    document.getElementById('skyIncludeEditablePencil').style.top = '-100';
+    document.getElementById('skyIncludeEditableCorner').style.zIndex = '-1';
+    document.getElementById('skyIncludeEditableCorner').style.top = '-100';
+    // oDiv.style.border = '1px solid #ffffff';
+  }
+}
+
+function fDocumentOnClick(oEvent) {
+  // alert(sCurrentlyOverDocument);
+  // if (0) {
+  if (sCurrentlyOverDocument == 1) {
+    fSkyWriteInclude(748, 1092, '/knowledge/', oEvent);
+  }
+}
+
+function fAsOfNow() {
+  document.cookie = 'as_of=; path=/; domain=informationphilosopher.com';
+  document.location.href = '?@=now';
+}
+
+function fSubmitAsOfForm() {
+  oYearInput = document.getElementById('as_of_year');
+  oMonthInput = document.getElementById('as_of_month');
+  oDayInput = document.getElementById('as_of_day');
+  oHourInput = document.getElementById('as_of_hour');
+  oMinuteInput = document.getElementById('as_of_minute');
+  oSecondInput = document.getElementById('as_of_second');
+
+  sAsOf = oYearInput.value + '-' + oMonthInput.value + '-' + oDayInput.value + 'T' + oHourInput.value + ':' + oMinuteInput.value + ':' + oSecondInput.value;
+  document.location.href = '?@=' + sAsOf;
+}
+
+var aAsOfInputs = [
+  'as_of_year',
+  'as_of_month',
+  'as_of_day',
+  'as_of_hour',
+  'as_of_minute',
+  'as_of_second',
+];
+
+function fAsOfOnKeyUp(e) {
+  // Handle the Enter key
+  if (e.key == 'Enter') {
+     fSubmitAsOfForm();
+  }
+}
+
+function fAsOfOnInput(e) {
+  fAsOfNextInput(e.target);
+}
+
+function fAsOfNextInput(oInput) {
+  // Handle giving focus to the next input when this one is at max length
+  sMaxLen = String(oInput.max +'').length;
+
+  if (oInput.value.length == sMaxLen) {
+     // Find which input, if any, is next in the sequence
+     sNextIndex = aAsOfInputs.indexOf(oInput.id) + 1;
+     if (sNextIndex < aAsOfInputs.length) {
+     	oNext = document.getElementById(aAsOfInputs[sNextIndex]);
+	oNext.focus();
+	oNext.select();
+     }
+  }
+}
+
+function fDismissAsOfForm() {
+  var oDiv = document.getElementById('as_of_div');
+  if (oDiv) {
+    oDiv.style.display = 'none';
+  }
+}
+
+function fOpenAsOfForm() {
+  var oDiv = document.getElementById('as_of_div');
+  if (oDiv) {
+    oDisplaySpan = document.getElementById('as_of_display');
+    oYearInput = document.getElementById('as_of_year');
+    oMonthInput = document.getElementById('as_of_month');
+    oDayInput = document.getElementById('as_of_day');
+    oHourInput = document.getElementById('as_of_hour');
+    oMinuteInput = document.getElementById('as_of_minute');
+    oSecondInput = document.getElementById('as_of_second');
+  } else {
+    var oDiv = document.createElement('div');
+    oDiv.id = 'as_of_div';
+
+    var oForm = document.createElement('form');
+    oForm.style = 'margin-block-end: 0;';
+    oForm.id = 'as_of_form';
+    oForm.name = 'as_of_form';
+    oForm.onsubmit = fSubmitAsOfForm;
+    oDiv.appendChild(oForm);
+
+    var oGrid = document.createElement('div');
+    oGrid.style = 'display: grid; grid-template-columns: max-content min-content min-content min-content min-content min-content 1fr;';
+    oGrid.ondblclick = null;
+    oForm.appendChild(oGrid);
+
+    var oHeader = document.createElement('div');
+    oHeader.style = 'grid-column: 1; grid-row: 1; margin-top: 7px; padding-right: 5px;';
+    oHeader.appendChild(document.createTextNode('Showing page as of '));
+    oDisplaySpan = document.createElement('span');
+    oDisplaySpan.id = 'as_of_display';
+    oHeader.appendChild(oDisplaySpan)
+    oHeader.appendChild(document.createTextNode('. Choose date and time:'));
+    oGrid.appendChild(oHeader);
+
+    var oYearDiv = document.createElement('div');
+    oYearDiv.className = 'as_of_input_div';
+    oYearDiv.style = 'grid-column: 2; grid-row: 1;';
+    oGrid.appendChild(oYearDiv);
+
+    var oYearInput = document.createElement('input');
+    oYearInput.id = 'as_of_year';
+    oYearInput.type = 'number';
+    oYearInput.min = 1970;
+    oYearInput.max = 9999;
+    oYearInput.oninput = fAsOfOnInput;
+    oYearInput.onkeyup = fAsOfOnKeyUp;
+    oYearDiv.appendChild(oYearInput);
+
+    oYearDiv.appendChild(document.createTextNode('-'));
+
+    var oMonthDiv = document.createElement('div');
+    oMonthDiv.className = 'as_of_input_div';
+    oMonthDiv.style = 'grid-column: 3; grid-row: 1;';
+    oGrid.appendChild(oMonthDiv);
+
+    var oMonthInput = document.createElement('input');
+    oMonthInput.id = 'as_of_month';
+    oMonthInput.type = 'number';
+    oMonthInput.min = 1;
+    oMonthInput.max = 12;
+    oMonthInput.oninput = fAsOfOnInput;
+    oMonthInput.onkeyup = fAsOfOnKeyUp;
+    oMonthDiv.appendChild(oMonthInput);
+
+    oMonthDiv.appendChild(document.createTextNode('-'));
+
+    var oDayDiv = document.createElement('div');
+    oDayDiv.className = 'as_of_input_div';
+    oDayDiv.style = 'grid-column: 4; grid-row: 1; padding-right: 5px';
+    oGrid.appendChild(oDayDiv);
+
+    var oDayInput = document.createElement('input');
+    oDayInput.id = 'as_of_day';
+    oDayInput.type = 'number';
+    oDayInput.min = 1;
+    oDayInput.max = 31;
+    oDayInput.oninput = fAsOfOnInput;
+    oDayInput.onkeyup = fAsOfOnKeyUp;
+    oDayDiv.appendChild(oDayInput);
+
+    var oHourDiv = document.createElement('div');
+    oHourDiv.className = 'as_of_input_div';
+    oHourDiv.style = 'grid-column: 5; grid-row: 1;';
+    oGrid.appendChild(oHourDiv);
+
+    var oHourInput = document.createElement('input');
+    oHourInput.id = 'as_of_hour';
+    oHourInput.type = 'number';
+    oHourInput.min = 0;
+    oHourInput.max = 23;
+    oHourInput.oninput = fAsOfOnInput;
+    oHourInput.onkeyup = fAsOfOnKeyUp;
+    oHourDiv.appendChild(oHourInput);
+
+    oHourDiv.appendChild(document.createTextNode(':'));
+
+    var oMinuteDiv = document.createElement('div');
+    oMinuteDiv.className = 'as_of_input_div';
+    oMinuteDiv.style = 'grid-column: 6; grid-row: 1;';
+    oGrid.appendChild(oMinuteDiv);
+
+    var oMinuteInput = document.createElement('input');
+    oMinuteInput.id = 'as_of_minute';
+    oMinuteInput.type = 'number';
+    oMinuteInput.min = 0;
+    oMinuteInput.max = 59;
+    oMinuteInput.oninput = fAsOfOnInput;
+    oMinuteInput.onkeyup = fAsOfOnKeyUp;
+    oMinuteDiv.appendChild(oMinuteInput);
+
+    oMinuteDiv.appendChild(document.createTextNode(':'));
+
+    var oSecondDiv = document.createElement('div');
+    oSecondDiv.className = 'as_of_input_div';
+    oSecondDiv.style = 'grid-column: 7; grid-row: 1;';
+    oGrid.appendChild(oSecondDiv);
+
+    var oSecondInput = document.createElement('input');
+    oSecondInput.id = 'as_of_second';
+    oSecondInput.type = 'number';
+    oSecondInput.min = 0;
+    oSecondInput.max = 59;
+    oSecondInput.oninput = fAsOfOnInput;
+    oSecondInput.onkeyup = fAsOfOnKeyUp;
+    oSecondDiv.appendChild(oSecondInput);
+
+    var oSecondDiv = document.createElement('div');
+    oSecondDiv.className = 'as_of_input_div';
+    oSecondDiv.style = 'grid-column: 7; grid-row: 1;';
+    oGrid.appendChild(oSecondDiv);
+
+    var oButtonsDiv = document.createElement('div');
+    oButtonsDiv.style = 'grid-column: 8; grid-row: 1 /3; padding-top: 2px; text-align: right;';
+    oEnterButton = document.createElement('button');
+    oEnterButton.style = 'margin-bottom: 5px; margin-right: 5px;';
+    oEnterButton.onclick = fSubmitAsOfForm;
+    oEnterButton.appendChild(document.createTextNode('Enter'));
+    oButtonsDiv.appendChild(oEnterButton);
+    oNowButton = document.createElement('button');
+    oNowButton.style = 'margin-bottom: 5px;';
+    oNowButton.onclick = fAsOfNow;
+    oNowButton.appendChild(document.createTextNode('Now'));
+    oButtonsDiv.appendChild(oNowButton);
+    oButtonsDiv.appendChild(document.createElement('br'));
+    oDismissButton = document.createElement('button');
+    oDismissButton.onclick = fDismissAsOfForm;
+    oDismissButton.appendChild(document.createTextNode('Dismiss'));
+    oButtonsDiv.appendChild(oDismissButton);
+    oGrid.appendChild(oButtonsDiv);
+
+    var oErrorHeader = document.createElement('div');
+    oErrorHeader.style = 'grid-column: 1; grid-row: 2; padding-right: 5px; font-weight: bold;';
+    oErrorHeader.appendChild(document.createTextNode(''));
+    oGrid.appendChild(oErrorHeader);
+
+    var oYearLabelDiv = document.createElement('div');
+    oYearLabelDiv.className = 'as_of_label';
+    oYearLabelDiv.style = 'grid-column: 2;';
+    oGrid.appendChild(oYearLabelDiv);
+    oYearLabelDiv.appendChild(document.createTextNode('Year'));
+    oYearLabelDiv.appendChild(document.createElement('br'));
+    oYearLabelDiv.appendChild(document.createTextNode('YYYY'));
+
+    var oMonthLabelDiv = document.createElement('div');
+    oMonthLabelDiv.className = 'as_of_label';
+    oMonthLabelDiv.style = 'grid-column: 3;';
+    oGrid.appendChild(oMonthLabelDiv);
+    oMonthLabelDiv.appendChild(document.createTextNode('Month'));
+    oMonthLabelDiv.appendChild(document.createElement('br'));
+    oMonthLabelDiv.appendChild(document.createTextNode('01-12'));
+
+    var oDayLabelDiv = document.createElement('div');
+    oDayLabelDiv.className = 'as_of_label';
+    oDayLabelDiv.style = 'grid-column: 4;';
+    oGrid.appendChild(oDayLabelDiv);
+    oDayLabelDiv.appendChild(document.createTextNode('Day'));
+    oDayLabelDiv.appendChild(document.createElement('br'));
+    oDayLabelDiv.appendChild(document.createTextNode('01-31'));
+
+    var oHourLabelDiv = document.createElement('div');
+    oHourLabelDiv.className = 'as_of_label';
+    oHourLabelDiv.style = 'grid-column: 5;';
+    oGrid.appendChild(oHourLabelDiv);
+    oHourLabelDiv.appendChild(document.createTextNode('Hour'));
+    oHourLabelDiv.appendChild(document.createElement('br'));
+    oHourLabelDiv.appendChild(document.createTextNode('00-23'));
+
+    var oMinuteLabelDiv = document.createElement('div');
+    oMinuteLabelDiv.className = 'as_of_label';
+    oMinuteLabelDiv.style = 'grid-column: 6;';
+    oGrid.appendChild(oMinuteLabelDiv);
+    oMinuteLabelDiv.appendChild(document.createTextNode('Minute'));
+    oMinuteLabelDiv.appendChild(document.createElement('br'));
+    oMinuteLabelDiv.appendChild(document.createTextNode('00-59'));
+
+    var oSecondLabelDiv = document.createElement('div');
+    oSecondLabelDiv.className = 'as_of_label';
+    oSecondLabelDiv.style = 'grid-column: 7;';
+    oGrid.appendChild(oSecondLabelDiv);
+    oSecondLabelDiv.appendChild(document.createTextNode('Second'));
+    oSecondLabelDiv.appendChild(document.createElement('br'));
+    oSecondLabelDiv.appendChild(document.createTextNode('00-59'));
+
+    document.body.insertBefore(oDiv, document.body.firstChild);
+  }
+
+  oYearInput.value = '2026';
+  oMonthInput.value = '07';
+  oDayInput.value = '29';
+  oHourInput.value = '20';
+  oMinuteInput.value = '27';
+  oSecondInput.value = '22';
+
+  oDisplaySpan.innerText = oYearInput.value + '-' + oMonthInput.value + '-' + oDayInput.value + ' ' + oHourInput.value + ':' + oMinuteInput.value + ':' + oSecondInput.value;
+
+  oDiv.style.display = 'block';
+
+  oYearInput.focus();
+  oYearInput.select();
+}
+
+function fDocumentOnDblClick(oEvent) {
+  fOpenAsOfForm();
+}
+
+function fDocumentOnKeyPress(oEvent) {
+  // The @ symbol
+  if ((oEvent.shiftKey) && (oEvent.code == 'Digit2')) {
+    fOpenAsOfForm();
+  }
+}
+
+document.addEventListener('DOMContentLoaded', function(event) {
+  if ('' != '') {
+     document.cookie = 'as_of=; path=/; domain=informationphilosopher.com';
+     fOpenAsOfForm();
+  }
+});
+
+
+function fSkyWriteInclude(sPageSeriesID, sPageID, sDirPath, oEvent) {
+var sIndicatorClicked, sControlKeyPressed, sShiftKeyPressed;
+var sElement;
+
+// check for shift or control key depressed
+oEvent = (oEvent) ? oEvent : (window.event) ? window.event : ''
+
+sIndicatorClicked = 0;
+sControlKeyPressed = 0;
+sShiftKeyPressed = 0;
+if (oEvent) {
+  sModifierPressed = '';
+  
+  sElement = (oEvent.target) ? oEvent.target : oEvent.srcElement;
+  // alert(sElement.id);
+  
+  if ((sElement.id == 'skyIncludeEditablePencilImg') || (sElement.id == 'skyIncludeEditableCornerImg')){
+    sIndicatorClicked = 1;
+  }
+  
+  if (oEvent.which) {
+    if (oEvent.ctrlKey) {
+      sControlKeyPressed = 1;
+    }
+  } else {
+    if (oEvent.modifiers) {
+      if (oEvent.modifiers && oEvent.CTRL_MASK) {
+        // sControlKeyPressed = oEvent.modifiers;
+        sControlKeyPressed = 1;
+      }
+    } else {
+      if (oEvent.ctrlKey) {
+        sControlKeyPressed = 1;
+      }
+    }
+  }
+  
+  if (oEvent.which) {
+    if (oEvent.shiftKey) {
+      sShiftKeyPressed = 1;
+    }
+  } else {
+    if (oEvent.modifiers) {
+      if (oEvent.modifiers && oEvent.SHIFT_MASK) {
+        // sShiftKeyPressed = oEvent.modifiers;
+        sShiftKeyPressed = 1;
+      }
+    } else {
+      if (oEvent.shiftKey) {
+        sShiftKeyPressed = 1;
+      }
+    }
+  }
+}
+
+// if shift or control key pressed
+if ((sIndicatorClicked) || (sControlKeyPressed == 1) || (sShiftKeyPressed == 1)) {
+  // alert('pressed');
+  window.open('https://www.informationphilosopher.com/timelines/index.html?skyWrite=True&PageSeriesID=' + sPageSeriesID + '&PageID=' + sPageID + '&DirPath=' + sDirPath, '_blank', 'menubar,toolbar,location,resizable,scrollbars,status,height=600,width=832,left=250,top=50', true);
+}
+}
+    
+</script>
+	<title>Correspondence Theory of Truth</title>	
+</head>
+
+<body>
+<div class="breadcrumbs">
+<a href="/content.html">Home</a> > <a href="/knowledge/">Knowledge</a> > Correspondence 
+</div>
+
+    <div class="chaptertitle">Correspondence Theory of Truth</div>
+
+<div class="bodytext">
+    
+In correspondence theory, the truth or falsity of a statement of fact is determined by its relationship to the part of the world described by the statement. This is a very old idea, at least since <a href="/solutions/philosophers/plato/">Plato</a>. 
+<blockquote>
+Then that speech which says things as they are is true, and that which says them as they are not is false? (Cratylus, 385B)
+</blockquote>
+But Socrates knew that words (names) might not be able to correspond truly to things.
+<blockquote>
+<em>Socrates</em>. But if the primary names are to be representations of any things, can you suggest any better way of making them representations than by making them as much as possible like the things which they I are to represent? Or do you prefer the theory advanced by Hermogenes and many others, who  claim that names are conventional and represent things to those who established the convention and knew the things beforehand, and that convention is the sole principle of correctness in names, and it makes no difference whether we accept the existing convention or adopt an opposite one according to which small would be called great and great small? Which of these two theories do you prefer?
+<p/>
+<em>Cratylus</em>. Representing by likeness (ὁμοιώματι) the thing represented is absolutely and entirely superior to representation by chance signs.  (Cratylus, 433D)
+</blockquote>
+The great problem for the correspondence theory is how words and statements can possibly adequately correspond to (be like) things in the world.
+<p/>
+<a href="/solutions/philosophers/aristotle/">Aristotle</a> knew that our thoughts were in some sense the likenesses to things that Socrates was looking for, but can our thoughts be adequately expressed in words and statements?
+<blockquote>
+Words spoken are symbols or signs of affections or impressions of the soul; written words are the signs of words spoken. As writing, so also is speech not the same for all races of men. But the mental affections themselves, of which these words are primarily signs, are the same for the whole of mankind, as are also the objects of which those affections are representations or likenesses (ὁμοιώματα), images, copies. (De Interpretatione, 16a)
+</blockquote> 
+<p/>
+The basic idea was named correspondence by early analytic language philosophers, especially <a href="/solutions/philosophers/russell/">Bertand Russell</a>, the early <a href="/solutions/philosophers/wittgenstein/">Wittgenstein</a>, and their followers in the Vienna Circle, Rudolf Carnap and <a href="/solutions/philosophers/schlick/">Moritz Schlick</a>, who had something like a picture theory of language. They hoped to find propositions (statements) that would be the "logical atoms" of <a href="/knowledge/verification.html">verifiable</a> knowledge of the world.
+<p/>
+Here is how Russell connects a <a href="/knowledge/belief.html">belief</a> with the truth.
+<blockquote>
+Thus a belief is <em>true</em> when it <em>corresponds</em> to a certain associated complex, and <em>false</em> when it does not. Assuming, for the sake of definiteness, that the objects of the belief are two terms and a relation, the terms being put in a certain order by the 'sense' of the believing, then if the two terms in that order are united by the relation into a complex, the belief is true; if not, it is false. This constitutes the definition of truth and falsehood that we were in search of. Judging or believing is a certain complex unity of which a mind is a constituent; if the remaining constituents, taken in the order which they have in the belief, form a complex unity, then the belief is true; if not, it is false.
+<p/>
+Thus although truth and falsehood are properties of beliefs, yet they are in a sense extrinsic properties, for the condition of the truth of a belief is something not involving beliefs, or (in general) any mind at all, but only the <em>objects</em> of the belief. A mind, which believes, believes truly when there is a corresponding complex not involving the mind, but only its objects. This correspondence ensures truth, and its absence entails falsehood. Hence we account simultaneously for the two facts that beliefs (a) depend on minds for their existence, (b) do not depend on minds for their truth.
+<p/>
+...Thus a belief is true when there is a corresponding fact, and is false when there is no corresponding fact.
+<p/>
+It will be seen that minds do not <em>create</em> truth or falsehood. They create beliefs, but when once the beliefs are created, the mind cannot make them true or false, except in the special case where they concern future things which are within the power of the person believing, such as catching trains. What makes a belief true is a <em>fact</em>, and this fact does not (except in exceptional cases) in any way involve the mind of the person who has the belief.
+<p/>
+Having now decided what we mean by truth and falsehood, we have next to consider what ways there are of knowing whether this or that belief is true or false. (The Problems of Philosophy, 1912, p.128-30) 
+</blockquote>
+<p/>
+But how can words in an arbitrary human language or even logical propositions represent likenesses, images, copies? Only if they are icons, and not indexes or symbols, the other two possible types of signs according to <a href="/solutions/philosophers/peirce/">Charles Sanders Peirce</a>'s semiotic theory. Human language sentences are at best a set of symbols that evoke ideas in our minds that may have "true" likenesses to the world of objects and facts. They cannot "mirror" reality directly.
+
+<div class="sectiontitle">Correspondence Theory in Information Philosophy</div>
+The relations between ideas and things is much more straightforward in information philosophy.  
+<p/>
+To the extent of the correspondence, the isomorphism, the one-to-one mapping, between information structures (and processes) in the world and representative structures and functions in the mind, information philosophy claims that we have quantifiable personal or subjective knowledge of the world.
+<p/>
+To the extent of the agreement (again a correspondence or isomorphism) between information in the minds of an open community of inquirers seeking the best explanations for phenomena, information philosophy further claims that we have quantifiable inter-subjective knowledge of other minds and an external world. This is as close as we come to "objective" knowledge, and knowledge of objects - <a href="/solutions/philosophers/kant/">Kant</a>'s "things in themselves."
+
+</div>
+
+
+    <div class="reader_level_1">
+     <div class="sectiontitle">For Teachers</div>
+     <div class="breadcrumbs">To hide this material, click on the Normal link.</div>
+     <a href="http://plato.stanford.edu/entries/truth-correspondence/">Correspondence Theory of Truth, Stanford Encyclopedia of Philosophy</a>
+     <div class="bodytext">
+    
+     </div>
+
+    </div>
+
+    <div class="reader_level_2">
+     <div class="sectiontitle">For Scholars</div>
+     <div class="breadcrumbs">To hide this material, click on the Teacher or Normal link.</div>
+
+     <div class="bodytext">
+
+     </div>
+
+    </div>
+
+    <hr color="#CCCCEE">
+        <table class="footernav" width="100%">
+      <tbody>
+        <tr>
+          <td align="left"><a href="/value/ergod/"><img border="0" align="bottom" src="/images/ArrowLeft.gif" /></a> <a href="/value/ergod/">Chapter 3.7 - The Ergod</a> </td> 
+          <td align="right"><a href="/knowledge/history/">Chapter 4.2 - The History of the Knowledge Problem</a> <a href="/knowledge/history/"><img src="/images/ArrowRight.gif" border="0"></a></td>
+        </tr>
+        <tr>
+          <td align="left"><a href="/value/"><img border="0" align="bottom" src="/images/ArrowLeft.gif" /></a> <a href="/value/">Part Three - Value</a> </td> 
+          <td align="right"><a href="/problems/">Part Five - Problems</a> <a href="/problems/"><img src="/images/ArrowRight.gif" border="0"></a></td>
+        </tr>
+      </tbody>
+    </table>
+
+
+<div id="skyFooter1092" class="skyFooter">
+
+<script type="text/javascript" language="javascript">
+document.onclick = fDocumentOnClick;
+document.ondblclick = fDocumentOnDblClick;
+document.onkeypress = fDocumentOnKeyPress;
+document.onmouseover = fSkyWritableOver;
+</script>
+<div class="skyFooterText">
+</div>
+
+</div>
+</body>
+</html>

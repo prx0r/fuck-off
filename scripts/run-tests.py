@@ -69,6 +69,7 @@ run_script("validate-open-ended-evolve.py", "open_ended_evolution_darwin")
 run_script("validate-self-healing.py", "self_healing_orchestrator")
 run_script("validate-skill-graph.py", "audited_skill_graph_self_improve")
 run_script("validate-structure-recall.py", "structure_aware_recall_sage")
+run_script("validate-ingestion-organism.py", "ingestion_organism")
 run_py("import json;a=json.load(open('data/graph/argument.json'));print(f'{len(a[\"information_nodes\"])} info {len(a[\"inference_nodes\"])} infer {len(a[\"conflict_nodes\"])} conflict')", "argument_graph")
 
 # ---- 2. EXPERIMENTS ----

@@ -1,0 +1,11 @@
+# 300 Multiple Choices
+
+**source:** html · **section:** root
+**file:** freedom.soft_causality
+---
+
+Multiple Choices
+The document name you requested (/freedom.soft_causality.html) could not be found on this server.
+However, we found documents with names similar to the one you requested.Available documents:
+/freedom (common basename)
+Please consider informing the owner of the referring page https://www.informationphilosopher.com/solutions/philosophers/nozick/ about the broken link.

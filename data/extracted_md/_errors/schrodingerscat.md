@@ -1,0 +1,11 @@
+# 300 Multiple Choices
+
+**source:** html · **section:** solutions
+**file:** schrodingerscat
+---
+
+Multiple Choices
+The document name you requested (/solutions/experiments/schrodingerscat.html) could not be found on this server.
+However, we found documents with names similar to the one you requested.Available documents:
+/solutions/experiments/schrodingerscat (common basename)
+Please consider informing the owner of the referring page http://www.informationphilosopher.com/problems/measurement/ about the broken link.

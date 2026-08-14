@@ -1,5 +1,5 @@
 {
- "count": 75,
+ "count": 76,
  "entries": [
   {
    "script": "validate-layer03-05.py",
@@ -675,6 +675,15 @@
    "kernel": "structure-recall",
    "status": "RUN",
    "note": "SAGE structure-aware recall: follow graph topology on the read plane \u2014 9/9"
+  },
+  {
+   "script": "validate-ingestion-organism.py",
+   "layer": "ALL",
+   "source": "sivaqueue-style Sanskrit targets",
+   "vision": "Verified Epistemic OS",
+   "kernel": "ingestion-organism",
+   "status": "RUN",
+   "note": "the autonomous priority-driven refinery: ingest\u2192refine\u2192verify\u2192commit\u2192re-prioritize on learner feedback \u2014 10/10"
   }
  ]
 }

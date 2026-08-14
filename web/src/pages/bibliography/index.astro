@@ -1,0 +1,23 @@
+---
+// bibliography/index.astro — the 254-work bibliography (real patala corpus)
+import Layout from '../../layouts/Layout.astro';
+import fs from 'node:fs';
+import path from 'node:path';
+const dir = path.join(process.cwd(), '..', 'site');
+const manifest = JSON.parse(fs.readFileSync(path.join(dir, 'manifest.json'), 'utf-8'));
+const works = manifest.bibliography?.works || [];
+const worksSorted = [...works].sort((a, b) => a.title.localeCompare(b.title));
+---
+<Layout title="Bibliography — Pāṭala" description="The 254-work Sanskrit bibliography" jsonLd={{ "@context":"https://schema.org", "@type":"CollectionPage", name:"Pāṭala Bibliography" }}>
+  <h1>Bibliography</h1>
+  <p>{worksSorted.length} works in the canonical Sanskrit bibliography.</p>
+  <ul>
+    {worksSorted.map(w => (
+      <li>
+        <strong>{w.title}</strong>
+        <span class="ceiling"> · {w.translation_status} · {w.verified ? 'verified' : 'unverified'}</span>
+        {w.traditions?.length > 0 && <span class="ceiling"> · {w.traditions.join(', ')}</span>}
+      </li>
+    ))}
+  </ul>
+</Layout>

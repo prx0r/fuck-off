@@ -1,0 +1,2364 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+
+        
+    <link href="/css/base_menu.css" rel="stylesheet" type="text/css">
+    <link rel="shortcut icon" href="/favicon.ico"> 
+   
+        
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="description" content="Information Philosopher is dedicated to the new Information Philosophy, with explanations for Freedom, Values, and Knowledge.">
+    <meta name="keywords" content="Information, Philosopher, Philosophy, Freedom, Values, Knowledge, Demons, Determinism, Dogmas, Dualism, Certainty, Uncertainty, Indeterminacy, Entropy, Randomness, Microcosmos, Macrocosmos, Quantum Mechanics, Thermodynamics, Second Law ">
+    
+    <!-- You can use Open Graph tags to customize Facebook link previews.
+    Learn more: https://developers.facebook.com/docs/sharing/webmasters
+    Required properties are:
+      og:url, og:type, og:title, og:description, og:image, and fb:app_id
+    If og:image is not used, Facebook will notice the Twitter meta tags below 
+    and use a twitter icon for the page's image, which is undesirable, so I put 
+    in an empty og:image for now.
+    <meta property="og:image" content="http://informationphilosopher.com/images/Big_Bang_Timeline400.png">
+   
+    <meta property="og:image" content="">
+
+    <meta name="twitter:site" value="@infophilosopher" />
+    <meta property="twitter:url" content="https://informationphilosopher.com" />
+    <meta property="twitter:title" content="dedicated to the new information philosophy" />
+    <meta property="twitter:description" content="Problems in Philosophy and Physics Solved?" />
+ 
+    <script>window.twttr = (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0],
+        t = window.twttr || {};
+      if (d.getElementById(id)) return t;
+      js = d.createElement(s);
+      js.id = id;
+      js.src = "https://platform.twitter.com/widgets.js";
+      fjs.parentNode.insertBefore(js, fjs);
+
+      t._e = [];
+      t.ready = function(f) {
+        t._e.push(f);
+      };
+      return t;
+    }(document, "script", "twitter-wjs"));</script>
+     -->
+    <style>
+      #search_bar {
+        height: 24px;
+      }
+      #social_cluster {
+      	padding-right: 7px;
+     	padding-top: 3px;
+        float: right;
+        text-align: right;
+        width: 220px;
+      }
+      // #social_cluster div {
+      //   display: inline-block;
+      //   padding-bottom: 2px;
+      // }
+      .social_button {
+        float: right;
+        display: inline-block;
+        padding-top: 2px;
+        padding-bottom: 2px;
+      }
+      #social_links {
+      	clear: both;
+        font-size: 7pt;
+        color: #000099;
+      }
+      #social_links img {
+      	vertical-align: middle;  
+      }
+    </style>
+
+    <script language="javascript" type="text/javascript" src="/scripts/global-menus.js"></script>
+    
+    
+    
+    <style type="text/css">
+    .reader_level_0, .div_0 {
+      display: block;
+    }
+    .reader_level_1, .div_1 {
+      display: none;
+    }
+    .reader_level_2, .div_2 {
+      display: none;
+    }
+    .reader_level_0_span, .span_0 {
+      display: inline;
+    }
+    .reader_level_1_span, .span_1 {
+      display: none;
+    }
+    .reader_level_2_span, .span_2 {
+      display: none;
+    }
+    #reader_level_0_link {
+      
+  color: #000000;
+  font-weight: bold;
+  text-decoration: none;
+  cursor: text;    }
+    #reader_level_1_link {
+          }
+    #reader_level_2_link {
+          }
+    </style>
+    <script language="javascript" type="text/javascript">
+    function getElementsByClass(searchClass,node,tag) {
+      // thanks to Dustin Diaz
+      var classElements = new Array();
+      if ( node == null )
+        node = document;
+      if ( tag == null )
+        tag = '*';
+      var els = node.getElementsByTagName(tag);
+      var elsLen = els.length;
+      var pattern = new RegExp("(^|\s)"+searchClass+"(\s|$)");
+      for (i = 0, j = 0; i < elsLen; i++) {
+        if ( pattern.test(els[i].className) ) {
+          classElements[j] = els[i];
+          j++;
+        }
+      }
+      return classElements;
+    }
+    function fSetClassDisplay(sClass, sDisplay) {
+      var aClassElement;
+      aClassElement = getElementsByClass(sClass, document, "*");
+      // alert(aClassElement.length);
+      for ( i = 0; i < aClassElement.length; i++ ) {
+        aClassElement[i].style.display = sDisplay;
+      }
+    }
+    function fDimLink(sId) {
+      document.getElementById(sId).style.color = "#000000";
+      document.getElementById(sId).style.fontWeight = "bold";
+      document.getElementById(sId).style.textDecoration = "none";
+    }
+    function fLightLink(sId) {
+      document.getElementById(sId).style.color = "#3333ff";
+      document.getElementById(sId).style.fontWeight = "normal";
+      document.getElementById(sId).style.textDecoration = "underline";
+    }
+    function fSetReaderLevel(sReaderLevel) {
+      var sLevel0, sLevel1, sLevel2, sLevel0Span, sLevel1Span, sLevel2Span;
+      // set cookie
+      document.cookie = "ReaderLevel=" + sReaderLevel + "; expires=1785357585; path=/";
+      // set styles
+      if (sReaderLevel == 0) {
+        fDimLink("reader_level_0_link");
+        sLevel0 = "block";
+        sLevel1 = "none";
+        sLevel2 = "none";
+        sLevel0Span = "inline";
+        sLevel1Span = "none";
+        sLevel2Span = "none";
+      } else {
+        fLightLink("reader_level_0_link");
+      }
+      if (sReaderLevel == 1) {
+        fDimLink("reader_level_1_link");
+        sLevel0 = "block";
+        sLevel1 = "block";
+        sLevel2 = "none";
+        sLevel0Span = "inline";
+        sLevel1Span = "inline";
+        sLevel2Span = "none";
+      } else {
+        fLightLink("reader_level_1_link");
+      }
+      if (sReaderLevel == 2) {
+        fDimLink("reader_level_2_link");
+        sLevel0 = "block";
+        sLevel1 = "block";
+        sLevel2 = "block";
+        sLevel0Span = "inline";
+        sLevel1Span = "inline";
+        sLevel2Span = "inline";
+      } else {
+        fLightLink("reader_level_2_link");
+      }
+      fSetClassDisplay("reader_level_0", sLevel0);
+      fSetClassDisplay("reader_level_1", sLevel1);
+      fSetClassDisplay("reader_level_2", sLevel2);
+      fSetClassDisplay("div_0", sLevel0);
+      fSetClassDisplay("div_1", sLevel1);
+      fSetClassDisplay("div_2", sLevel2);
+      fSetClassDisplay("reader_level_0_span", sLevel0Span);
+      fSetClassDisplay("reader_level_1_span", sLevel1Span);
+      fSetClassDisplay("reader_level_2_span", sLevel2Span);
+      fSetClassDisplay("span_0", sLevel0Span);
+      fSetClassDisplay("span_1", sLevel1Span);
+      fSetClassDisplay("span_2", sLevel2Span);
+    }
+    </script>
+    
+<meta name="generator" content="skyBuilders.com timeLines">
+<link rel="stylesheet" href="https://www.informationphilosopher.com/timelines/PageFooter.css"><script type="text/javascript" language="javascript"><!-- 
+if (typeof SymRealWinOpen == 'function') {
+window.open = SymRealWinOpen;
+}
+//--></script>
+
+<script type="text/javascript" language="javascript">
+var sPageSeriesName = "prolegomena.html";
+var sRequestedFileName = "prolegomena.1.en.html";
+var sSkyPageID = "2865";
+function mSkyWrite() {
+window.open('/timelines/index.html?skyWrite=True&UserID=3&chosenLocaleCode=en&PageSeriesID=1761&PageID=2865&DirPath=%2Fsolutions%2Fphilosophers%2Fkant%2F', '_blank', 'resizable,menubar,location,toolbar,scrollbars,status,height=600,width=832,left=250,top=50', true);
+}
+var sCurrentlyOverDocument = 1;
+
+function fGetPagePos(oElement, sDimension) {
+  var sPagePos;
+  
+  if (! (oElement = document.getElementById(oElement))) {
+    return 0;
+  }
+  
+  sPagePos = 0;
+  
+  // alert(oElement);
+  while (oElement) {
+    if (typeof(oElement['offset' + sDimension]) != 'undefined') {
+      sPagePos += oElement['offset' + sDimension];
+    }
+    // alert(typeof oElement.offsetParent);
+    if (typeof(oElement.offsetParent) != 'undefined') {
+      oElement = oElement.offsetParent;
+    } else {
+      oElement = null;
+    }
+  }
+  
+  return sPagePos;
+}
+
+function fSkyWritableOver(sDivID, oEvent) {
+  var oDiv;
+  
+  if (oEvent) {
+    sElement = (oEvent.target) ? oEvent.target : oEvent.srcElement;
+    if ((sElement.id == 'skyIncludeEditablePencilImg') || (sElement.id == 'skyIncludeEditableCornerImg')){
+      window.status = 'click to edit';
+    }
+  }
+  
+  // alert(typeof sDivID);
+  if (typeof sDivID == 'string') {
+    sCurrentlyOverDocument = 0;
+    oDiv = document.getElementById(sDivID);
+    oPencil = document.getElementById('skyIncludeEditablePencil');
+    oCorner = document.getElementById('skyIncludeEditableCorner');
+    // sDivTop = oDiv.offsetTop;
+    sDivTop = fGetPagePos(sDivID, 'Top');
+    sDivLeft = fGetPagePos(sDivID, 'Left');
+    sDivWidth = oDiv.offsetWidth;
+    sDivHeight = oDiv.offsetHeight;
+    // alert('div: ' + sDivTop);
+    // alert(sDivWidth);
+    
+    oPencil.style.top = sDivTop + 'px';
+    oPencil.style.left = (sDivLeft + sDivWidth - 21) + 'px';
+    oCorner.style.top = (sDivTop + sDivHeight - 11) + 'px';
+    oCorner.style.left = sDivLeft + 'px';
+    // oSkyIncludeEditable.style.height = '0px';
+    // oSkyIncludeEditable.style.border = '#0000ff dashed 1px';
+    oPencil.style.width = '21px';
+    oPencil.style.height = '19px';
+    oPencil.style.zIndex = '101';
+    oPencil.onmouseover = oDiv.onmouseover;
+    oPencil.onmouseout = oDiv.onmouseout;
+    oPencil.onclick = oDiv.onclick;
+    oCorner.style.width = '10px';
+    oCorner.style.height = '9px';
+    oCorner.style.zIndex = '101';
+    oCorner.onmouseover = oDiv.onmouseover;
+    oCorner.onmouseout = oDiv.onmouseout;
+    oCorner.onclick = oDiv.onclick;
+    // oSkyIncludeEditable.style.display = 'block';
+    
+    // sSkyIncludeEditableTop = oSkyIncludeEditable.style.top;
+    // alert('skyinclude: ' + sSkyIncludeEditableTop);
+    
+    if (0) {
+      oDiv.style.borderWidth = '1px';
+      oDiv.style.borderStyle = 'dashed';
+      oDiv.style.borderColor = '#0000ff';
+    }
+  } else {
+    // sCurrentlyOverDocument = 1;
+  }
+}
+
+function fSkyWritableOut(sDivID) {
+  var oDiv;
+  
+  window.status = '';
+  
+  if (typeof sDivID == 'string') {
+    sCurrentlyOverDocument = 1;
+    // oDiv = document.getElementById(sDivID);
+    // doesn't work in IE: oDiv.style.border = '1px solid transparent';
+    // document.getElementById('skyIncludeEditable').style.display = 'none';
+    document.getElementById('skyIncludeEditablePencil').style.zIndex = '-1';
+    document.getElementById('skyIncludeEditablePencil').style.top = '-100';
+    document.getElementById('skyIncludeEditableCorner').style.zIndex = '-1';
+    document.getElementById('skyIncludeEditableCorner').style.top = '-100';
+    // oDiv.style.border = '1px solid #ffffff';
+  }
+}
+
+function fDocumentOnClick(oEvent) {
+  // alert(sCurrentlyOverDocument);
+  // if (0) {
+  if (sCurrentlyOverDocument == 1) {
+    fSkyWriteInclude(1761, 2865, '/solutions/philosophers/kant/', oEvent);
+  }
+}
+
+function fAsOfNow() {
+  document.cookie = 'as_of=; path=/; domain=informationphilosopher.com';
+  document.location.href = '?@=now';
+}
+
+function fSubmitAsOfForm() {
+  oYearInput = document.getElementById('as_of_year');
+  oMonthInput = document.getElementById('as_of_month');
+  oDayInput = document.getElementById('as_of_day');
+  oHourInput = document.getElementById('as_of_hour');
+  oMinuteInput = document.getElementById('as_of_minute');
+  oSecondInput = document.getElementById('as_of_second');
+
+  sAsOf = oYearInput.value + '-' + oMonthInput.value + '-' + oDayInput.value + 'T' + oHourInput.value + ':' + oMinuteInput.value + ':' + oSecondInput.value;
+  document.location.href = '?@=' + sAsOf;
+}
+
+var aAsOfInputs = [
+  'as_of_year',
+  'as_of_month',
+  'as_of_day',
+  'as_of_hour',
+  'as_of_minute',
+  'as_of_second',
+];
+
+function fAsOfOnKeyUp(e) {
+  // Handle the Enter key
+  if (e.key == 'Enter') {
+     fSubmitAsOfForm();
+  }
+}
+
+function fAsOfOnInput(e) {
+  fAsOfNextInput(e.target);
+}
+
+function fAsOfNextInput(oInput) {
+  // Handle giving focus to the next input when this one is at max length
+  sMaxLen = String(oInput.max +'').length;
+
+  if (oInput.value.length == sMaxLen) {
+     // Find which input, if any, is next in the sequence
+     sNextIndex = aAsOfInputs.indexOf(oInput.id) + 1;
+     if (sNextIndex < aAsOfInputs.length) {
+     	oNext = document.getElementById(aAsOfInputs[sNextIndex]);
+	oNext.focus();
+	oNext.select();
+     }
+  }
+}
+
+function fDismissAsOfForm() {
+  var oDiv = document.getElementById('as_of_div');
+  if (oDiv) {
+    oDiv.style.display = 'none';
+  }
+}
+
+function fOpenAsOfForm() {
+  var oDiv = document.getElementById('as_of_div');
+  if (oDiv) {
+    oDisplaySpan = document.getElementById('as_of_display');
+    oYearInput = document.getElementById('as_of_year');
+    oMonthInput = document.getElementById('as_of_month');
+    oDayInput = document.getElementById('as_of_day');
+    oHourInput = document.getElementById('as_of_hour');
+    oMinuteInput = document.getElementById('as_of_minute');
+    oSecondInput = document.getElementById('as_of_second');
+  } else {
+    var oDiv = document.createElement('div');
+    oDiv.id = 'as_of_div';
+
+    var oForm = document.createElement('form');
+    oForm.style = 'margin-block-end: 0;';
+    oForm.id = 'as_of_form';
+    oForm.name = 'as_of_form';
+    oForm.onsubmit = fSubmitAsOfForm;
+    oDiv.appendChild(oForm);
+
+    var oGrid = document.createElement('div');
+    oGrid.style = 'display: grid; grid-template-columns: max-content min-content min-content min-content min-content min-content 1fr;';
+    oGrid.ondblclick = null;
+    oForm.appendChild(oGrid);
+
+    var oHeader = document.createElement('div');
+    oHeader.style = 'grid-column: 1; grid-row: 1; margin-top: 7px; padding-right: 5px;';
+    oHeader.appendChild(document.createTextNode('Showing page as of '));
+    oDisplaySpan = document.createElement('span');
+    oDisplaySpan.id = 'as_of_display';
+    oHeader.appendChild(oDisplaySpan)
+    oHeader.appendChild(document.createTextNode('. Choose date and time:'));
+    oGrid.appendChild(oHeader);
+
+    var oYearDiv = document.createElement('div');
+    oYearDiv.className = 'as_of_input_div';
+    oYearDiv.style = 'grid-column: 2; grid-row: 1;';
+    oGrid.appendChild(oYearDiv);
+
+    var oYearInput = document.createElement('input');
+    oYearInput.id = 'as_of_year';
+    oYearInput.type = 'number';
+    oYearInput.min = 1970;
+    oYearInput.max = 9999;
+    oYearInput.oninput = fAsOfOnInput;
+    oYearInput.onkeyup = fAsOfOnKeyUp;
+    oYearDiv.appendChild(oYearInput);
+
+    oYearDiv.appendChild(document.createTextNode('-'));
+
+    var oMonthDiv = document.createElement('div');
+    oMonthDiv.className = 'as_of_input_div';
+    oMonthDiv.style = 'grid-column: 3; grid-row: 1;';
+    oGrid.appendChild(oMonthDiv);
+
+    var oMonthInput = document.createElement('input');
+    oMonthInput.id = 'as_of_month';
+    oMonthInput.type = 'number';
+    oMonthInput.min = 1;
+    oMonthInput.max = 12;
+    oMonthInput.oninput = fAsOfOnInput;
+    oMonthInput.onkeyup = fAsOfOnKeyUp;
+    oMonthDiv.appendChild(oMonthInput);
+
+    oMonthDiv.appendChild(document.createTextNode('-'));
+
+    var oDayDiv = document.createElement('div');
+    oDayDiv.className = 'as_of_input_div';
+    oDayDiv.style = 'grid-column: 4; grid-row: 1; padding-right: 5px';
+    oGrid.appendChild(oDayDiv);
+
+    var oDayInput = document.createElement('input');
+    oDayInput.id = 'as_of_day';
+    oDayInput.type = 'number';
+    oDayInput.min = 1;
+    oDayInput.max = 31;
+    oDayInput.oninput = fAsOfOnInput;
+    oDayInput.onkeyup = fAsOfOnKeyUp;
+    oDayDiv.appendChild(oDayInput);
+
+    var oHourDiv = document.createElement('div');
+    oHourDiv.className = 'as_of_input_div';
+    oHourDiv.style = 'grid-column: 5; grid-row: 1;';
+    oGrid.appendChild(oHourDiv);
+
+    var oHourInput = document.createElement('input');
+    oHourInput.id = 'as_of_hour';
+    oHourInput.type = 'number';
+    oHourInput.min = 0;
+    oHourInput.max = 23;
+    oHourInput.oninput = fAsOfOnInput;
+    oHourInput.onkeyup = fAsOfOnKeyUp;
+    oHourDiv.appendChild(oHourInput);
+
+    oHourDiv.appendChild(document.createTextNode(':'));
+
+    var oMinuteDiv = document.createElement('div');
+    oMinuteDiv.className = 'as_of_input_div';
+    oMinuteDiv.style = 'grid-column: 6; grid-row: 1;';
+    oGrid.appendChild(oMinuteDiv);
+
+    var oMinuteInput = document.createElement('input');
+    oMinuteInput.id = 'as_of_minute';
+    oMinuteInput.type = 'number';
+    oMinuteInput.min = 0;
+    oMinuteInput.max = 59;
+    oMinuteInput.oninput = fAsOfOnInput;
+    oMinuteInput.onkeyup = fAsOfOnKeyUp;
+    oMinuteDiv.appendChild(oMinuteInput);
+
+    oMinuteDiv.appendChild(document.createTextNode(':'));
+
+    var oSecondDiv = document.createElement('div');
+    oSecondDiv.className = 'as_of_input_div';
+    oSecondDiv.style = 'grid-column: 7; grid-row: 1;';
+    oGrid.appendChild(oSecondDiv);
+
+    var oSecondInput = document.createElement('input');
+    oSecondInput.id = 'as_of_second';
+    oSecondInput.type = 'number';
+    oSecondInput.min = 0;
+    oSecondInput.max = 59;
+    oSecondInput.oninput = fAsOfOnInput;
+    oSecondInput.onkeyup = fAsOfOnKeyUp;
+    oSecondDiv.appendChild(oSecondInput);
+
+    var oSecondDiv = document.createElement('div');
+    oSecondDiv.className = 'as_of_input_div';
+    oSecondDiv.style = 'grid-column: 7; grid-row: 1;';
+    oGrid.appendChild(oSecondDiv);
+
+    var oButtonsDiv = document.createElement('div');
+    oButtonsDiv.style = 'grid-column: 8; grid-row: 1 /3; padding-top: 2px; text-align: right;';
+    oEnterButton = document.createElement('button');
+    oEnterButton.style = 'margin-bottom: 5px; margin-right: 5px;';
+    oEnterButton.onclick = fSubmitAsOfForm;
+    oEnterButton.appendChild(document.createTextNode('Enter'));
+    oButtonsDiv.appendChild(oEnterButton);
+    oNowButton = document.createElement('button');
+    oNowButton.style = 'margin-bottom: 5px;';
+    oNowButton.onclick = fAsOfNow;
+    oNowButton.appendChild(document.createTextNode('Now'));
+    oButtonsDiv.appendChild(oNowButton);
+    oButtonsDiv.appendChild(document.createElement('br'));
+    oDismissButton = document.createElement('button');
+    oDismissButton.onclick = fDismissAsOfForm;
+    oDismissButton.appendChild(document.createTextNode('Dismiss'));
+    oButtonsDiv.appendChild(oDismissButton);
+    oGrid.appendChild(oButtonsDiv);
+
+    var oErrorHeader = document.createElement('div');
+    oErrorHeader.style = 'grid-column: 1; grid-row: 2; padding-right: 5px; font-weight: bold;';
+    oErrorHeader.appendChild(document.createTextNode(''));
+    oGrid.appendChild(oErrorHeader);
+
+    var oYearLabelDiv = document.createElement('div');
+    oYearLabelDiv.className = 'as_of_label';
+    oYearLabelDiv.style = 'grid-column: 2;';
+    oGrid.appendChild(oYearLabelDiv);
+    oYearLabelDiv.appendChild(document.createTextNode('Year'));
+    oYearLabelDiv.appendChild(document.createElement('br'));
+    oYearLabelDiv.appendChild(document.createTextNode('YYYY'));
+
+    var oMonthLabelDiv = document.createElement('div');
+    oMonthLabelDiv.className = 'as_of_label';
+    oMonthLabelDiv.style = 'grid-column: 3;';
+    oGrid.appendChild(oMonthLabelDiv);
+    oMonthLabelDiv.appendChild(document.createTextNode('Month'));
+    oMonthLabelDiv.appendChild(document.createElement('br'));
+    oMonthLabelDiv.appendChild(document.createTextNode('01-12'));
+
+    var oDayLabelDiv = document.createElement('div');
+    oDayLabelDiv.className = 'as_of_label';
+    oDayLabelDiv.style = 'grid-column: 4;';
+    oGrid.appendChild(oDayLabelDiv);
+    oDayLabelDiv.appendChild(document.createTextNode('Day'));
+    oDayLabelDiv.appendChild(document.createElement('br'));
+    oDayLabelDiv.appendChild(document.createTextNode('01-31'));
+
+    var oHourLabelDiv = document.createElement('div');
+    oHourLabelDiv.className = 'as_of_label';
+    oHourLabelDiv.style = 'grid-column: 5;';
+    oGrid.appendChild(oHourLabelDiv);
+    oHourLabelDiv.appendChild(document.createTextNode('Hour'));
+    oHourLabelDiv.appendChild(document.createElement('br'));
+    oHourLabelDiv.appendChild(document.createTextNode('00-23'));
+
+    var oMinuteLabelDiv = document.createElement('div');
+    oMinuteLabelDiv.className = 'as_of_label';
+    oMinuteLabelDiv.style = 'grid-column: 6;';
+    oGrid.appendChild(oMinuteLabelDiv);
+    oMinuteLabelDiv.appendChild(document.createTextNode('Minute'));
+    oMinuteLabelDiv.appendChild(document.createElement('br'));
+    oMinuteLabelDiv.appendChild(document.createTextNode('00-59'));
+
+    var oSecondLabelDiv = document.createElement('div');
+    oSecondLabelDiv.className = 'as_of_label';
+    oSecondLabelDiv.style = 'grid-column: 7;';
+    oGrid.appendChild(oSecondLabelDiv);
+    oSecondLabelDiv.appendChild(document.createTextNode('Second'));
+    oSecondLabelDiv.appendChild(document.createElement('br'));
+    oSecondLabelDiv.appendChild(document.createTextNode('00-59'));
+
+    document.body.insertBefore(oDiv, document.body.firstChild);
+  }
+
+  oYearInput.value = '2026';
+  oMonthInput.value = '07';
+  oDayInput.value = '29';
+  oHourInput.value = '19';
+  oMinuteInput.value = '39';
+  oSecondInput.value = '45';
+
+  oDisplaySpan.innerText = oYearInput.value + '-' + oMonthInput.value + '-' + oDayInput.value + ' ' + oHourInput.value + ':' + oMinuteInput.value + ':' + oSecondInput.value;
+
+  oDiv.style.display = 'block';
+
+  oYearInput.focus();
+  oYearInput.select();
+}
+
+function fDocumentOnDblClick(oEvent) {
+  fOpenAsOfForm();
+}
+
+function fDocumentOnKeyPress(oEvent) {
+  // The @ symbol
+  if ((oEvent.shiftKey) && (oEvent.code == 'Digit2')) {
+    fOpenAsOfForm();
+  }
+}
+
+document.addEventListener('DOMContentLoaded', function(event) {
+  if ('' != '') {
+     document.cookie = 'as_of=; path=/; domain=informationphilosopher.com';
+     fOpenAsOfForm();
+  }
+});
+
+
+function fSkyWriteInclude(sPageSeriesID, sPageID, sDirPath, oEvent) {
+var sIndicatorClicked, sControlKeyPressed, sShiftKeyPressed;
+var sElement;
+
+// check for shift or control key depressed
+oEvent = (oEvent) ? oEvent : (window.event) ? window.event : ''
+
+sIndicatorClicked = 0;
+sControlKeyPressed = 0;
+sShiftKeyPressed = 0;
+if (oEvent) {
+  sModifierPressed = '';
+  
+  sElement = (oEvent.target) ? oEvent.target : oEvent.srcElement;
+  // alert(sElement.id);
+  
+  if ((sElement.id == 'skyIncludeEditablePencilImg') || (sElement.id == 'skyIncludeEditableCornerImg')){
+    sIndicatorClicked = 1;
+  }
+  
+  if (oEvent.which) {
+    if (oEvent.ctrlKey) {
+      sControlKeyPressed = 1;
+    }
+  } else {
+    if (oEvent.modifiers) {
+      if (oEvent.modifiers && oEvent.CTRL_MASK) {
+        // sControlKeyPressed = oEvent.modifiers;
+        sControlKeyPressed = 1;
+      }
+    } else {
+      if (oEvent.ctrlKey) {
+        sControlKeyPressed = 1;
+      }
+    }
+  }
+  
+  if (oEvent.which) {
+    if (oEvent.shiftKey) {
+      sShiftKeyPressed = 1;
+    }
+  } else {
+    if (oEvent.modifiers) {
+      if (oEvent.modifiers && oEvent.SHIFT_MASK) {
+        // sShiftKeyPressed = oEvent.modifiers;
+        sShiftKeyPressed = 1;
+      }
+    } else {
+      if (oEvent.shiftKey) {
+        sShiftKeyPressed = 1;
+      }
+    }
+  }
+}
+
+// if shift or control key pressed
+if ((sIndicatorClicked) || (sControlKeyPressed == 1) || (sShiftKeyPressed == 1)) {
+  // alert('pressed');
+  window.open('https://www.informationphilosopher.com/timelines/index.html?skyWrite=True&PageSeriesID=' + sPageSeriesID + '&PageID=' + sPageID + '&DirPath=' + sDirPath, '_blank', 'menubar,toolbar,location,resizable,scrollbars,status,height=600,width=832,left=250,top=50', true);
+}
+}
+    
+</script>
+<title>Prolegomena to Any Future Metaphysics</title>	
+</head>
+<body>
+
+    <a href="#skipnav" title="Skip Navigation, Search, and Login"></a>
+    <div id="header-wrapper"> 
+      <div id="header"> 
+        <!-- <div id="spacer">&nbsp;</div> -->
+        <div id="logo"><a href="/" title="Go to Information Philosopher home page"><img src="/images/clear.gif" alt="Go to Information Philosopher home page" border="0" width="70" height="70"></a></div>
+   
+	    <div id="social_cluster">
+            <!-- Load Facebook SDK for JavaScript -->
+            <div id="fb-root" style="display: inline;"></div>
+            <script>(function(d, s, id) {
+              var js, fjs = d.getElementsByTagName(s)[0];
+              if (d.getElementById(id)) return;
+              js = d.createElement(s); js.id = id;
+              js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8";
+              fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));</script>
+
+            <!-- Your like button code -->
+            <!-- data-href="https://www.your-domain.com/your-page.html" -->
+            <div class="social_button fb-like"
+              data-href=""
+              data-layout="button_count" 
+              data-action="like" 
+              data-show-faces="true">
+            </div>
+
+            <!-- Your share button code 
+            <div class="social_button fb-share-button" 
+              data-href="" 
+              data-layout="button_count">
+            </div> 
+
+            <div class="social_button">
+            	<a class="social_button twitter-share-button" href="https://twitter.com/intent/tweet">Tweet</a>&nbsp;
+            </div> -->
+            
+            <br />
+            <div id="social_links">
+	        	<font style="font-size:9px;font-color:#000066">Follow&nbsp;infophilosopher:</font>
+	        	 
+	        	<a href="https://www.facebook.com/infophilosopher" target="facebook" style="text-decoration:none" title="infophilosopher on Facebook"><img src="/images/Facebook3.png" style="border-radius: 3px; height:15px;"></a>
+	        	| 
+	        	<a href="http://youtube.com/infophilosopher/" target="youtube" style="text-decoration:none;" title="infophilosopher on YouTube"><img src="/images/YouTubeX.png" style="height:15px;"></a>
+	        </div>
+        </div>
+
+        <div id="main-menu">
+          <ul>
+            <li><a id="nav_banner_introduction" href="/introduction/" onmouseover="try{buttonMouseover(event, 'introduction');} catch(e){}">Introduction</a></li>
+            <li><a id="nav_banner_problems" href="/problems/" onmouseover="try{buttonMouseover(event, 'problems');} catch(e){}">Problems</a></li>
+            <li><a id="nav_banner_freedom" href="/freedom/" onmouseover="try{buttonMouseover(event, 'freedom');} catch(e){}">Freedom</a></li>
+            <li><a id="nav_banner_value" href="/value/" onmouseover="try{buttonMouseover(event, 'value');} catch(e){}">Value</a></li>
+            <li><a id="nav_banner_knowledge" href="/knowledge/" onmouseover="try{buttonMouseover(event, 'knowledge');} catch(e){}">Knowledge</a></li>
+            <!--<li><a id="nav_banner_solutions" href="/solutions/" onmouseover="try{buttonMouseover(event, 'solutions');} catch(e){}">Solutions</a></li> -->
+            <li><a id="nav_banner_life" href="/life/" onmouseover="try{buttonMouseover(event, 'life');} catch(e){}">Life</a></li>
+            <li><a id="nav_banner_mind" href="/mind/" onmouseover="try{buttonMouseover(event, 'mind');} catch(e){}">Mind</a></li>
+            <li><a id="nav_banner_chance" href="/chance/" onmouseover="try{buttonMouseover(event, 'chance');} catch(e){}">Chance</a></li>
+            <li><a id="nav_banner_quantum" href="/quantum/" onmouseover="try{buttonMouseover(event, 'quantum');} catch(e){}">Quantum</a></li>
+            <li><a id="nav_banner_entanglement" href="/entanglement/" onmouseover="try{buttonMouseover(event, 'entanglement');} catch(e){}">Entanglement</a></li>
+            <li><a id="nav_banner_scandal" href="/scandals/" onmouseover="try{buttonMouseover(event, 'scandals');} catch(e){}">Scandals</a></li>
+            <!--<li id="main-menu-rightmost"><a id="nav_banner_afterwords" href="/afterwords/" onmouseover="try{buttonMouseover(event, 'afterwords');} catch(e){}">Afterword</a></li>-->
+          </ul>
+        </div>
+      </div>
+    </div>
+ 
+    <div id="citation_info" class="display_none">
+      Citation for this page in APA citation style.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <span class="breadcrumbs">
+	  <a href="" title="Citation for this page in APA citation style." alt="Citation for this page in APA citation style." onclick="document.getElementById('citation_info').style.display = 'none'; return false;">Close</a> 
+	</span>
+      <p/>
+	<script language="javascript" type="text/javascript">
+	document.write(document.title);
+	document.write("<br/>Retrieved  ");
+	var oDate = new Date();
+	var aMonthName = new Array('January', 'February', 'March',
+                                   'April', 'May', 'June',
+                                   'July', 'August', 'September',
+                                   'October', 'November', 'December');
+	document.write(aMonthName[oDate.getMonth()] + ' ' + oDate.getDate() + ', ' + oDate.getFullYear());
+	document.write(", from Information Philosopher");
+	</script>
+	<br/>
+	<script language="javascript" type="text/javascript">
+	document.write("Web site <a href='");
+	document.write(location.href);
+	document.write("'>");
+	document.write(location.href);
+	document.write("</a>");
+	</script>
+
+    </div>
+
+    <div id="search_bar" class="search">
+      <table class="layout" cellpadding="0" cellspacing="0" width="731"> 
+        <tr> 
+          <td nowrap>
+	    <!-- &nbsp;<a href="http://www.informationphilosopher.com/site/search/">Search</a> | -->
+	    <!-- | <a href="http://www.informationphilosopher.com/site/A-Z_index/">A-Z Index</a> | -->
+
+	    <!--<a href="http://www.informationphilosopher.com/site/map/">Site Map</a> | 
+	    <a href="http://www.informationphilosopher.com/afterwords/glossary/">Glossary</a> |--> 
+
+	    <a href="/about/" target="about" style="text-decoration: none">About</a> &nbsp;
+
+	    <a href="/articles/" target="blog" style="text-decoration: none">Articles</a> &nbsp; 
+
+	    <!--<a href="http://i-phi.org" target="blog" style="text-decoration: none">Blog</a> &nbsp; -->
+	   
+	    <a href="/books/" target="blog" style="text-decoration: none">Books</a> &nbsp; 
+
+	    <a href="/lectures/" title="Lectures on information philosophy" alt="Lectures on information philosophy" style="text-decoration:none;margin-top:1px;">Lectures</a> &nbsp;
+
+	    <a href="/presentations/" target="presentations" style="text-decoration: none">Presentations</a> &nbsp; 
+
+	    <a href="/afterwords/glossary/" title="Glossary of Terms" alt="Glossary of Terms" style="text-decoration:none;margin-top:1px;">Glossary</a> &nbsp;
+
+	    <a href="" title="Citation for this page in APA citation style." alt="Citation for this page in APA citation style." onclick="document.getElementById('citation_info').style.display = 'block'; return false;" style="text-decoration: none">Cite</a> &nbsp;
+
+	    <a href="/help/" title="Want to help information philosophy?" alt="Want to help information philosophy?" style="text-decoration:none;margin-top:1px;">Help?</a> &nbsp;
+	    
+	     
+	    
+	    </td>
+
+          <!-- can we determine if user is logged in?  -->
+          <td class="search" align="right">
+        
+        <script type="text/javascript" language="javascript">
+	      function mAssembleSearchURL(sSearchCriteria, sWhichSearch) {
+	        var sSiteURL, sSearchURL;
+		sSiteURL = "informationphilosopher.com"
+	        sBaseURL = "http://www.google.com/search?hl=en&lr=&ie=UTF-8&oe=UTF-8&as_qdr=all&q=";
+
+		if (sWhichSearch == "0") {
+		  sSearchURL = sBaseURL + escape(sSearchCriteria);
+		} else {
+		  if (sWhichSearch == "1") {
+		    sSearchURL = sBaseURL + escape(sSearchCriteria) + "+site:" + sSiteURL;
+		  } else {
+		    sSearchURL = sBaseURL + escape(sSearchCriteria);
+		  }
+		}
+		window.open(sSearchURL, '_blank', 'menubar,location,resizable,scrollbars,status,toolbar,height=520,width=640,left=250,top=50', true);
+	      }
+	    </script>
+	    
+	    
+	    <form class="skyFooterForm" method="post" name="searchform1" action="" onsubmit="mAssembleSearchURL(document.searchform1.q.value, 1); return false;">
+	      <input size="30" maxlength="2048" name="q" type="text">
+	      <a href="" onclick="mAssembleSearchURL(document.searchform1.q.value, 1); return false;" style="text-decoration:none;">&nbsp;Search</a>
+	    </form>
+  
+        </td>
+          
+           <td>
+           	<a id="translate_link" title="A Google translation only gives you the 'gist' of the page. Please mouseover any confusing phrases to see the original English text." href="" style="text-decoration:none;"onmouseover="try{buttonMouseover(event, 'translate');} catch(e){}">Translate</a>
+           	<div id="translate" class="menu" onmouseover="menuMouseover(event);">
+           		<a id="translate_french" class="menuItem" href="https://translate.google.com/">French</a>
+           		<a id="translate_italian" class="menuItem" href="https://translate.google.com/">Italian</a>
+           		<a id="translate_german" class="menuItem" href="https://translate.google.com/">German</a>
+           		<a id="translate_russian" class="menuItem" href="https://translate.google.com/">Russian</a>
+           		<a id="translate_spanish" class="menuItem" href="https://translate.google.com/">Spanish</a>
+           	</div>
+           	</td>
+        </tr> 
+      </table>
+    </div>
+    
+	<script language="javascript" type="text/javascript">
+	var french = document.getElementById ("translate_french");
+	var italian = document.getElementById ("translate_italian");
+	var german = document.getElementById ("translate_german");
+	var russian = document.getElementById ("translate_russian");
+	var spanish = document.getElementById ("translate_spanish");
+	if (french) {
+		french.href = "https://translate.google.com/translate?sl=en&tl=fr&js=y&prev=_t&hl=en&ie=UTF-8&u=" + window.location.href + "&edit-text=";
+	};
+	if (italian) {
+		italian.href = "https://translate.google.com/translate?sl=en&tl=it&js=y&prev=_t&hl=en&ie=UTF-8&u=" + window.location.href + "&edit-text=";
+	};
+	if (german) {
+		german.href = "https://translate.google.com/translate?sl=en&tl=de&js=y&prev=_t&hl=en&ie=UTF-8&u=" + window.location.href + "&edit-text=";
+	};
+	if (russian) {
+		russian.href = "https://translate.google.com/translate?sl=en&tl=ru&js=y&prev=_t&hl=en&ie=UTF-8&u=" + window.location.href + "&edit-text=";
+	};
+	if (spanish) {
+		spanish.href = "https://translate.google.com/translate?sl=en&tl=es&js=y&prev=_t&hl=en&ie=UTF-8&u=" + window.location.href + "&edit-text=";
+	};
+	</script>
+
+    <a name="skipnav" tabindex="1" title="Information Philosopher"></a>
+    
+<div id="introduction" class="menu" onmouseover="menuMouseover(event);">
+  <a id="nav_banner_introduction_information" class="menuItem" href="/introduction/information/">The Information</a>
+  <a id="nav_banner_introduction_creation" class="menuItem" href="/introduction/creation/">The Creation</a>
+  <a id="nav_banner_introduction_physics" class="menuItem" href="/introduction/physics/">The Physics</a>
+  <a id="nav_banner_introduction_biology" class="menuItem" href="/introduction/biology/">The Biology</a>
+  <a id="nav_banner_introduction_philosophy" class="menuItem" href="/introduction/philosophy/">The Philosophy</a>
+  <a id="nav_banner_introduction_philosophers" class="menuItem" href="/solutions/philosophers/">The Philosophers</a>
+  <a id="nav_banner_introduction_scientists" class="menuItem" href="/solutions/scientists/">The Scientists</a>
+  <a id="nav_banner_introduction_problems" class="menuItem" href="/problems/">The Problems</a>
+  <a id="nav_banner_introduction_solutions" class="menuItem" href="/solutions/">The Solutions</a>
+  <a id="nav_banner_introduction_experiments" class="menuItem" href="/solutions/experiments/">The Experiments</a> 
+</div>
+    
+    <div id="problems" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_problems_arrow_of_time" class="menuItem" href="/problems/arrow_of_time/">Arrow of Time</a>
+      <a id="nav_banner_problems_consciousness" class="menuItem" href="/problems/consciousness/">Consciousness</a>
+      <a id="nav_banner_problems_dualisms" class="menuItem" href="/solutions/dualisms/">Dualisms</a>
+      <a id="nav_banner_problems_ergodicity" class="menuItem" href="/problems/ergodicity/">Ergodiciy</a>
+      <a id="nav_banner_problems_evil" class="menuItem" href="/problems/evil/">Evil</a>
+      <a id="nav_banner_problems_flatness" class="menuItem" href="/problems/flatness/">Flat Universe?</a>
+      <a id="nav_banner_problems_god" class="menuItem" href="/problems/god/">God</a>
+      <a id="nav_banner_problems_identity" class="menuItem" href="/problems/identity/">Identity</a>
+      <a id="nav_banner_problems_immortality" class="menuItem" href="/problems/immortality/">Immortality</a>
+      <a id="nav_banner_problems_induction" class="menuItem" href="/problems/induction/">Induction</a>
+      <a id="nav_banner_problems_life" class="menuItem" href="/problems/life/">Life</a>
+       <a id="nav_banner_problems_measurement" class="menuItem" href="/problems/measurement/">Measurement</a>
+       <a id="nav_banner_problems_mental_causation" class="menuItem" href="/problems/mental_causation/">Mental Causation</a>
+       <a id="nav_banner_problems_metaphysics" class="menuItem" href="/problems/metaphysics/">Metaphysics</a>
+       <a id="nav_banner_problems_mind_body" class="menuItem" href="/problems/mind_body/">Mind-Body</a>
+       <a id="nav_banner_problems_nonlocality" class="menuItem" href="/problems/nonlocality/">Nonlocality</a>
+       <a id="nav_banner_problems_possibilities" class="menuItem" href="/freedom/possibilities.html">Possibilities</a>
+       <a id="nav_banner_problems_recurrence" class="menuItem" href="/problems/recurrence/">Recurrence</a>
+       <a id="nav_banner_problems_reversibility" class="menuItem" href="/problems/reversibility/">Reversibility</a>
+    </div>
+
+   <div id="freedom" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_freedom_cogito" class="menuItem" href="/freedom/cogito/">The Cogito</a>
+      <a id="nav_banner_freedom_problem" class="menuItem" href="/freedom/problem/">The Problem</a>
+      <a id="nav_banner_freedom_history" class="menuItem" href="/freedom/history/">The History</a>
+      <a id="nav_banner_freedom_history" class="menuItem" href="/freedom/free_will_in_antiquity.html">Free Will in Antiquity</a>
+      <a id="nav_banner_freedom_mechanisms" class="menuItem" href="/freedom/mechanisms.html">Free Will Mechanisms</a>
+      <a id="nav_banner_freedom_physics" class="menuItem" href="/freedom/physics/">The Physics</a>
+      <a id="nav_banner_freedom_biology" class="menuItem" href="/freedom/biology/">The Biology</a>
+      <a id="nav_banner_freedom_neuroscience" class="menuItem" href="/freedom/neuroscience/">The Neuroscience</a>
+      <a id="nav_banner_freedom_possibilities" class="menuItem" href="/freedom/alternative_possibilities.html">Alternative Possibilities</a>
+      <a id="nav_banner_freedom_adequate" class="menuItem" href="/freedom/adequate_determinism.html">Adequate Determinism</a>
+      <a id="nav_banner_freedom_responsibility" class="menuItem" href="/freedom/moral_responsibility.html">Moral Responsibility</a>
+      <a id="nav_banner_freedom_self" class="menuItem" href="/freedom/self-determination.html">Self-Determination</a>
+      <a id="nav_banner_freedom_separability" class="menuItem" href="/freedom/separability.html">Separability of Free and Will</a>
+      <a id="nav_banner_freedom_argument" class="menuItem" href="/freedom/standard_argument.html">Standard Argument</a>
+      <a id="nav_banner_freedom_argument" class="menuItem" href="/freedom/superdeterminism.html">Superdeterminism</a>
+      <a id="nav_banner_freedom_two-stage" class="menuItem" href="/freedom/two-stage_models.html">Two-Stage Models</a>
+    </div>
+    
+    <div id="value" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_value_ergo" class="menuItem" href="/value/ergo/">The Ergo</a>
+      <a id="nav_banner_value_free_energy" class="menuItem" href="/value/free_energy/">Free Energy</a>
+      <a id="nav_banner_value_problem" class="menuItem" href="/value/problem/">The Problem</a>
+      <a id="nav_banner_value_history" class="menuItem" href="/value/history/">The History</a>
+      <a id="nav_banner_value_good" class="menuItem" href="/value/good/">The Good</a>
+      <a id="nav_banner_value_origin" class="menuItem" href="/value/origin/">Origin of the Good</a>
+      <a id="nav_banner_value_evil" class="menuItem" href="/value/evil/">Evil (Theodicy)</a>
+      <a id="nav_banner_value_ergod" class="menuItem" href="/value/ergod/">The Ergod</a>
+    </div>
+    
+    <div id="knowledge" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_knowledge_sum" class="menuItem" href="/knowledge/sum/">The Sum</a>
+      <a id="nav_banner_knowledge_problem" class="menuItem" href="/knowledge/problem/">The Problem</a>
+      <a id="nav_banner_knowledge_history" class="menuItem" href="/knowledge/history/">The History</a>
+      <a id="nav_banner_knowledge_belief" class="menuItem" href="/knowledge/belief/">Belief</a>
+      <a id="nav_banner_knowledge_complexity" class="menuItem" href="/knowledge/complexity/">Complexity</a>
+      <a id="nav_banner_knowledge_complexity_history" class="menuItem" href="/knowledge/complexity/history">Complex Systems History</a>
+      <a id="nav_banner_knowledge_demarcation" class="menuItem" href="/knowledge/demarcation/">Demarcation Problem</a>
+      <a id="nav_banner_knowledge_emergence" class="menuItem" href="/knowledge/emergence.html">Emergence</a>
+      <a id="nav_banner_knowledge_epistemology" class="menuItem" href="/problems/epistemology/">Epistemology</a>
+      <a id="nav_banner_knowledge_induction" class="menuItem" href="/problems/induction/">Induction</a>
+      <a id="nav_banner_knowledge_regress" class="menuItem" href="/knowledge/infinite_regress.html">Infinite Regress</a>
+      <a id="nav_banner_knowledge_meaning" class="menuItem" href="/knowledge/meaning/">Meaning</a>
+      <a id="nav_banner_knowledge_metaphysics" class="menuItem" href="/problems/metaphysics/">Metaphysics</a>
+      <a id="nav_banner_knowledge_ontology" class="menuItem" href="/problems/ontology/">Ontology</a>
+      <a id="nav_banner_knowledge_one-many" class="menuItem" href="/problems/one_or_many/">One or Many</a>
+      <a id="nav_banner_knowledge_providence" class="menuItem" href="/knowledge/providence/">Providence</a>
+      <a id="nav_banner_knowledge_universals" class="menuItem" href="/knowledge/universals.html">Universals</a>
+      <a id="nav_banner_knowledge_truth" class="menuItem" href="/knowledge/truth/">Truth</a>
+      
+    </div>
+    
+    
+     <div id="mind" class="menu" onmouseover="menuMouseover(event);">
+      <!--<a id="nav_banner_mind_problems" class="menuItem" href="/mind/problems/">The Problems</a>-->
+      <a id="nav_banner_mind_history" class="menuItem" href="/mind/history/">The History</a>
+      <!--<a id="nav_banner_mind_ego" class="menuItem" href="/mind/ego/">The Self <i>or</i> Ego</a>
+      <a id="nav_banner_mind_physics" class="menuItem" href="/mind/physics/">The Physics</a>
+      <a id="nav_banner_mind_neuroscience" class="menuItem" href="/mind/neuroscience/">The Neuroscience</a>-->
+      <a id="nav_banner_mind_mind-body" class="menuItem" href="/mind/mind_body/">Mind-Body Problem</a>
+      <a id="nav_banner_mind_consciousness" class="menuItem" href="/mind/binding/">Binding Problem</a>
+      <a id="nav_banner_mind_consciousness" class="menuItem" href="/mind/consciousness/">Consciousness Problem</a>
+      <a id="nav_banner_mind_tocs" class="menuItem" href="/mind/tocs/">Theories of Consciousness</a>
+      <a id="nav_banner_mind_nccs" class="menuItem" href="/mind/NCC/">Neural Correlates of Consciousness</a>
+      <a id="nav_banner_mind_consciousness" class="menuItem" href="/mind/cogscience/">Computational Models</a>
+      <a id="nav_banner_mind_lmm" class="menuItem" href="/mind/llm/">Is Mind a Large Language Model (AI)?</a>
+      <a id="nav_banner_mind_err" class="menuItem" href="/mind/ERR/">The Experience Recorder and Reproducer (ERR)</a>
+      <a id="nav_banner_mind_mirror" class="menuItem" href="/mind/mirror_neurons/">Mirror Neurons</a>
+      <a id="nav_banner_mind_causation" class="menuItem" href="/knowledge/mental_causation.html">Mental Causation</a>
+      <a id="nav_banner_mind_panpsychism" class="menuItem" href="/mind/panpsychism">Panpsychism</a>
+      <a id="nav_banner_mind_purpose" class="menuItem" href="/mind/purpose/">Purpose</a>
+      <a id="nav_banner_mind_agency" class="menuItem" href="/mind/agency/">Agency</a>
+      <a id="nav_banner_mind_reductionism" class="menuItem" href="/knowledge/reductionism.html">Reductionism</a>
+      <a id="nav_banner_mind_representation" class="menuItem" href="/knowledge/representation/">Representation</a>
+   </div>
+    
+    <div id="solutions" class="menu" onmouseover="menuMouseover(event);">
+     <a id="nav_banner_solutions_demons" class="menuItem" href="/solutions/demons/">Demons</a>
+     <a id="nav_banner_solutions_determinisms" class="menuItem" href="/solutions/determinisms/">Determinisms</a>
+     <a id="nav_banner_solutions_dogmas" class="menuItem" href="/solutions/dogmas/">Dogmas</a>
+     <a id="nav_banner_solutions_dualisms" class="menuItem" href="/solutions/dualisms/">Dualisms</a>
+     <a id="nav_banner_solutions_experiments" class="menuItem" href="/solutions/experiments/">Experiments</a>
+     <a id="nav_banner_solutions_language" class="menuItem" href="/solutions/language/">Language</a>
+     <!--  <a id="nav_banner_solutions_philosophers" class="menuItem" href="/solutions/philosophers/">Philosophers</a> -->
+     <a id="nav_banner_solutions_progress" class="menuItem" href="/solutions/progress/">Progress</a>
+     <a id="nav_banner_solutions_reason" class="menuItem" href="/solutions/reason/">Reason</a>
+     <!-- <a id="nav_banner_solutions_scientists" class="menuItem" href="/solutions/scientists/">Scientists</a>  -->
+     <a id="nav_banner_solutions_theories" class="menuItem" href="/solutions/theories/">Theories</a>
+     <a id="nav_banner_solutions_triads" class="menuItem" href="/solutions/triads/">Triads</a>
+    </div>
+    
+     <div id="chance" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_chance_history" class="menuItem" href="/chance/history/">The History</a>
+      <a id="nav_banner_mind_problems" class="menuItem" href="/introduction/physics/statistical_mechanics.html">Entropy and Probability</a>
+      <a id="nav_banner_chance_tyche" class="menuItem" href="/chance/tyche/">Peirce's Tyche</a>
+      <a id="nav_banner_chance_einstein" class="menuItem" href="/solutions/scientists/einstein/">Through Einstein's Eyes</a>
+    </div>
+    
+     <div id="quantum" class="menu" onmouseover="menuMouseover(event);">
+     <a id="nav_banner_quantum_blaxk_holes" class="menuItem" href="/quantum/black_holes/">Black Holes</a>
+     <a id="nav_banner_quantum_collapse" class="menuItem" href="/quantum/collapse/">Collapse of the <br/>Wave Function</a>
+     <a id="nav_banner_quantum_observer" class="menuItem" href="/quantum/observer/">Conscious Observer</a>
+     <a id="nav_banner_quantum_xopenhagen" class="menuItem" href="/quantum/copenhagen/">Copenhagen Interpretation</a>
+     <a id="nav_banner_quantum_decoherence" class="menuItem" href="/quantum/decoherence/">Decoherence</a>
+     <a id="nav_banner_quantum_determinism" class="menuItem" href="/quantum/determinism/">Determinism</a>
+     <a id="nav_banner_quantum_indeterminism" class="menuItem" href="/quantum/indeterminism/">Indeterminism</a>
+     <a id="nav_banner_quantum_principles" class="menuItem" href="/quantum/principles/">Dirac's Principles</a>
+     <a id="nav_banner_quantum_polarizers" class="menuItem" href="/solutions/experiments/dirac_3-polarizers/">Dirac's 3 Polarizers</a>
+     <a id="nav_banner_quantum_foundation" class="menuItem" href="/quantum/foundation/">Foundations</a>
+     <a id="nav_banner_quantum_interpretation" class="menuItem" href="/quantum/interpretations/">Interpretations</a>
+     <a id="nav_banner_quantum_irreversibility" class="menuItem" href="/problems/reversibility/">Irreversibility</a>
+     <a id="nav_banner_quantum_measurement" class="menuItem" href="/problems/measurement/">Measurement Problem</a>
+     <a id="nav_banner_quantum_physics" class="menuItem" href="/quantum/physics/">Quantum, Thermo, Info</a>
+     <a id="nav_banner_quantum_classical" class="menuItem" href="/introduction/physics/quantum_to_classical.html">Quantum to Classical</a>
+     <a id="nav_banner_quantum_recurrence" class="menuItem" href="/problems/recurrence/">Recurrence Problem</a>
+     <a id="nav_banner_quantum_schrodingerscat" class="menuItem" href="/solutions/experiments/schrodingerscat/">Schrödinger's Cat</a>
+     <a id="nav_banner_quantum_schrodingerequation" class="menuItem" href="/quantum/equation/">Schrödinger Equation</a>
+     <a id="nav_banner_quantum_statistical" class="menuItem" href="/quantum/spacetime/">SpaceTime</a>
+     <a id="nav_banner_quantum_spacetime" class="menuItem" href="/quantum/statistical/">Statistical Interpretation</a>
+     <a id="nav_banner_quantum_superposition" class="menuItem" href="/quantum/superposition/">Superposition</a>
+     <a id="nav_banner_quantum_mystery" class="menuItem" href="/quantum/mystery/">The Only Mystery</a>
+     <a id="nav_banner_quantum_EPR" class="menuItem" href="/quantum/two-slit/">Two-Slit Experiment</a>
+     <a id="nav_banner_quantum_EPR" class="menuItem" href="/quantum/uncertainty/">Uncertainty Principle</a>
+     <a id="nav_banner_quantum_wave" class="menuItem" href="/introduction/physics/wave-particle_duality.html">Wave-Particle Duality</a>
+    </div>
+    
+    <div id="scandals" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_scandals_chance" class="menuItem" href="/scandals/chance/">Chance</a> <!--Science-->
+      <a id="nav_banner_scandals_consciousness" class="menuItem" href="/scandals/consciousness/">Consciousness</a> <!--Neuroscience-->
+      <a id="nav_banner_scandals_flat" class="menuItem" href="/scandals/creation/">Creation</a>  <!--Cosmology-->
+      <a id="nav_banner_scandals_einstein" class="menuItem" href="/scandals/einstein/">Einstein</a>  <!--Quantum Mechanics-->
+      <a id="nav_banner_scandals_freedom" class="menuItem" href="/scandals/free_will/">Free Will</a>  <!--Philosophys-->
+      <a id="nav_banner_scandals_god" class="menuItem" href="/scandals/god/">God</a>  <!--Religion-->
+      <a id="nav_banner_scandals_knowledge" class="menuItem" href="/scandals/knowledge/">Knowledge</a>  <!--Epistemology-->
+      <a id="nav_banner_scandals_life" class="menuItem" href="/scandals/life/">Life</a> <!--Biology-->
+      <a id="nav_banner_scandals_meaning" class="menuItem" href="/scandals/meaning/">Meaning</a> <!--Language-->
+      <a id="nav_banner_scandals_metaphysics" class="menuItem" href="/scandals/metaphysics/">Metaphysics</a> <!--Ontology-->
+      <a id="nav_banner_scandals_mind" class="menuItem" href="/scandals/mind/">Mind</a> <!--Language-->
+      <a id="nav_banner_scandals_power" class="menuItem" href="/scandals/power/">Power</a> <!--Politics-->
+      <a id="nav_banner_scandals_values" class="menuItem" href="/scandals/value/">Values</a>  <!--Ethics-->
+      <a id="nav_banner_scandals_wealth" class="menuItem" href="/scandals/wealth/">Wealth</a>  <!--Economics-->
+   </div>
+
+    <div id="afterwords" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_afterwords_conclusions" class="menuItem" href="/afterwords/conclusions/">Conclusions</a>
+      <a id="nav_banner_afterwords_bibliography" class="menuItem" href="/afterwords/bibliography/">Bibliography</a>
+      <a id="nav_banner_afterwords_glossary" class="menuItem" href="/afterwords/glossary/">Glossary</a>
+      <a id="nav_banner_afterwords_author_index" class="menuItem" href="/afterwords/author_index/">Name Index</a>
+      <a id="nav_banner_afterwords_subject_index" class="menuItem" href="/afterwords/subject_index/">Subject Index</a>
+      <a id="nav_banner_afterwords_colophon" class="menuItem" href="/afterwords/colophon/">Colophon</a>
+    </div>
+    
+    <div id="life" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_life_agency" class="menuItem" href="/life/agency/">Agency</a>
+      <a id="nav_banner_life_autopoesis" class="menuItem" href="/life/autopoesis/">Autopoesis</a>
+      <!--<a id="nav_banner_life_cell_cycle" class="menuItem" href="/life/cell_cycle/">The Cell Cycle</a>-->
+      <a id="nav_banner_life_beyond" class="menuItem" href="/life/beyond/">Beyond Darwinism?</a>
+      <a id="nav_banner_life_biosemiotics" class="menuItem" href="/life/biosemiotics/">Biosemiotics</a>
+      <a id="nav_banner_life_biosphere" class="menuItem" href="/life/biosphere/">Biosphere</a>
+      <a id="nav_banner_life_complexity" class="menuItem" href="/life/complexity/">Complexity</a>
+      <a id="nav_banner_life_emergence" class="menuItem" href="/life/emergence/">Emergence</a>
+      <a id="nav_banner_life_entelechy" class="menuItem" href="/life/entelechy/">Entelechy</a>
+      <a id="nav_banner_life_entropy" class="menuItem" href="/life/entropy/">Entropy</a>
+      <a id="nav_banner_life_epigenetics" class="menuItem" href="/life/epigenetics/">Epigenetics</a>
+      <a id="nav_banner_life_gaia" class="menuItem" href="/life/gaia/">Gaia</a>
+      <a id="nav_banner_life_infobiology" class="menuItem" href="/life/infobiology/">Information in Biology</a>
+      <a id="nav_banner_life_design" class="menuItem" href="/life/design/">Intelligent Design</a>
+      <a id="nav_banner_life_meaning" class="menuItem" href="/life/meaning/">Meaning</a>
+      <a id="nav_banner_life_origins" class="menuItem" href="/life/origins/">Origins</a>
+      <a id="nav_banner_life_goal" class="menuItem" href="/life/goal/">Purpose</a>
+      <a id="nav_banner_life_reductionism" class="menuItem" href="/life/reductionism/">Reductionism</a>
+      <a id="nav_banner_life_reverence" class="menuItem" href="/life/reverence/">Reverence for Life</a>
+      <!--<a id="nav_banner_life_synergy" class="menuItem" href="/life/synergy"/">Synergy</a>-->
+      <a id="nav_banner_life_teleology" class="menuItem" href="/life/teleology/">Teleology</a>
+      <a id="nav_banner_life_teleonomy" class="menuItem" href="/life/teleonomy/">Teleonomy</a>
+      <a id="nav_banner_life_universal_darwinism" class="menuItem" href="/life/universal_darwinism/">Universal Darwinism</a>
+      <a id="nav_banner_life_vitalism" class="menuItem" href="/life/vitalism/">Vitalism</a>
+      
+      
+    </div>
+    
+    <div id="entanglement" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_bell" class="menuItem" href="/quantum/bell_theorem/">Bell's Theorem</a>
+      <a id="nav_banner_entanglement_polytope" class="menuItem" href="/entanglement/polytope/">Bell's Kinky Polytope</a>
+      <a id="nav_banner_common_cause" class="menuItem" href="/entanglement/common_cause/">Common Cause?</a>
+      <a id="nav_banner_disentanglement*" class="menuItem" href="/quantum/disentanglement/">Disentanglement</a>
+      <a id="nav_banner_EPR" class="menuItem" href="/solutions/experiments/EPR/">EPR Paradox</a>
+      <a id="nav_banner_fresnel" class="menuItem" href="/quantum/fresnel-arago/">Fresnel-Arago Effect</a>
+      <a id="nav_banner_hidden_constant" class="menuItem" href="/quantum/hidden_constant/">Hidden Constant of Motion?</a>
+      <a id="nav_banner_hidden_variables" class="menuItem" href="/entanglement/hidden_variables/">Hidden Variables?</a>
+      <a id="nav_banner_mach-zender" class="menuItem" href="/quantum/mach_zender/">Mach-Zender</a>
+      <a id="nav_banner_quantum_keys" class="menuItem" href="/quantum/keys/">Quantum Keys</a>
+      <a id="nav_banner_nonlocality" class="menuItem" href="/problems/nonlocality/">Nonlocality</a>
+      <a id="nav_banner_nonseparability" class="menuItem" href="/problems/nonseparability/">Nonseparability</a>
+      <a id="nav_banner_quantum_computer" class="menuItem" href="/quantum/keys/">Quantum Computers</a>
+      <a id="nav_banner_quantum_eraser" class="menuItem" href="/quantum/keys/">Quantum Eraser</a>
+      <a id="nav_banner_quantum_keys" class="menuItem" href="/quantum/keys/">Quantum Keys</a>
+      <a id="nav_banner_quantum_weirdness" class="menuItem" href="/quantum/weirdness/">Quantum Weirdness</a>
+      <a id="nav_banner_qubits" class="menuItem" href="/quantum/qubits/">Qubits</a>
+      <a id="nav_banner_spherical" class="menuItem" href="/entanglement/spherical/">Spherical Symmetry</a>
+      <a id="nav_banner_spooky_action" class="menuItem" href="/entanglement/spooky/">Spooky Action at a Distance</a>
+      <a id="nav_banner_delayed" class="menuItem" href="/quantum/delayed_choice/">Wheeler's Delayed Choice</a>
+      
+    </div>
+
+    
+    
+    
+    <!-- start column1 -->
+    <table width="765" border="0" cellspacing="0" cellpadding="0">
+      <tbody>
+	<tr>
+	  <td valign="top">
+	    <div id="column1">
+	     <div class="linksLeftCol">
+              Topics
+<p/>
+    <a href="/introduction/">Introduction</a><br> 
+    <a href="/problems/">Problems</a><br> 
+    <a href="/freedom/">Freedom</a><br> 
+    <a href="/knowledge/">Knowledge</a><br> 
+    <a href="/mind/">Mind</a><br> 
+    <a href="/life/">Life</a><br> 
+    <a href="/chance/">Chance</a><br> 
+    <a href="/quantum/">Quantum</a><br> 
+    <a href="/entanglement/">Entanglement</a><br> 
+    <a href="/scandals/">Scandals</a><br> 
+    <p/>
+Philosophers
+    <br><br>
+    <a href="/solutions/philosophers/adler/">Mortimer Adler</a><br> 
+    <a href="/solutions/philosophers/albritton/">Rogers Albritton</a><br> 
+    <a href="/solutions/philosophers/alexander/">Alexander of Aphrodisias</a><br> 
+    <a href="/solutions/philosophers/alexanders/">Samuel Alexander</a><br> 
+    <a href="/solutions/philosophers/alston/">William Alston</a><br> 
+    <a href="/solutions/philosophers/anaximander/">Anaximander</a><br> 
+    <a href="/solutions/philosophers/anscombe/">G.E.M.Anscombe</a><br> 
+    <a href="/solutions/philosophers/anselm/">Anselm</a><br> 
+    <a href="/solutions/philosophers/antony/">Louise Antony</a><br> 
+    <a href="/solutions/philosophers/aquinas/">Thomas Aquinas</a><br> 
+    <a href="/solutions/philosophers/aristotle/">Aristotle</a><br> 
+    <!-- <a href="/solutions/philosophers/arminius/">Arminius</a><br> -->
+    <a href="/knowledge/philosophers/armstrong/">David Armstrong</a><br> 
+    <a href="/solutions/philosophers/atmanspacher/">Harald Atmanspacher</a><br> 
+    <a href="/knowledge/philosophers/audi/">Robert Audi</a><br> 
+    <a href="/solutions/philosophers/augustine/">Augustine</a><br> 
+    <a href="/solutions/philosophers/austin/">J.L.Austin</a><br>
+    <a href="/solutions/philosophers/ayer/">A.J.Ayer</a><br>
+    <a href="/solutions/philosophers/bain/">Alexander Bain</a><br> 
+    <a href="/solutions/philosophers/balaguer/">Mark Balaguer</a><br> 
+    <a href="/solutions/philosophers/barrett/">Jeffrey Barrett</a><br> 
+    <a href="/solutions/philosophers/barrettw/">William Barrett</a><br> 
+    <a href="/solutions/philosophers/belsham/">William Belsham</a><br> 
+    <a href="/solutions/philosophers/bergson/">Henri Bergson</a><br> 
+    <a href="/solutions/philosophers/berkeley/">George Berkeley</a><br> 
+    <a href="/solutions/philosophers/berlin/">Isaiah Berlin</a><br>
+    <a href="/solutions/philosophers/bernstein/">Richard J. Bernstein</a><br>
+    <a href="/solutions/philosophers/berofsky/">Bernard Berofsky</a><br>
+    <a href="/knowledge/philosophers/bishop/">Robert Bishop</a><br> 
+    <a href="/solutions/philosophers/black/">Max Black</a><br> 
+    <a href="/solutions/philosophers/blackmore/">Susan Blackmore</a><br> 
+    <a href="/solutions/philosophers/bobzien/">Susanne Bobzien</a><br> 
+    <a href="/solutions/philosophers/bois-reymond/">Emil du Bois-Reymond</a><br> 
+    <a href="/solutions/philosophers/bok/">Hilary Bok</a><br> 
+    <a href="/knowledge/philosophers/bonjour/">Laurence BonJour</a><br> 
+    <a href="/solutions/philosophers/boole/">George Boole</a><br> 
+    <a href="/solutions/philosophers/boutroux/">Émile Boutroux</a><br> 
+    <a href="/solutions/philosophers/boyd/">Daniel Boyd</a><br> 
+    <a href="/solutions/philosophers/bradley/">F.H.Bradley</a><br> 
+    <!-- <a href="/solutions/philosophers/bradley/">Franz Brentano</a><br> -->
+    <a href="/solutions/philosophers/broad/">C.D.Broad</a><br>
+    <a href="/solutions/philosophers/burke/">Michael Burke</a><br>
+    <a href="/solutions/philosophers/butterfield/">Jeremy Butterfield</a><br>
+    <a href="/solutions/philosophers/cahoone/">Lawrence Cahoone</a><br>
+    <a href="/solutions/philosophers/campbell/">C.A.Campbell</a><br>
+    <a href="/solutions/philosophers/campbellj/">Joseph Keim Campbell</a><br>
+    <a href="/solutions/philosophers/carnap/">Rudolf Carnap</a><br>
+    <a href="/solutions/philosophers/carneades/">Carneades</a><br>
+    <a href="/solutions/philosophers/cartwright/">Nancy Cartwright</a><br>
+    <a href="/solutions/philosophers/caruso/">Gregg Caruso</a><br>
+    <a href="/solutions/philosophers/cassirer/">Ernst Cassirer</a><br>
+    <a href="/solutions/philosophers/chalmers/">David Chalmers</a><br>
+    <a href="/solutions/philosophers/chisholm/">Roderick Chisholm</a><br>
+    <a href="/solutions/philosophers/chrysippus/">Chrysippus</a><br>
+    <a href="/solutions/philosophers/carneades/">Cicero</a><br> 
+    <a href="/solutions/philosophers/clark/">Tom Clark</a><br>
+    <a href="/solutions/philosophers/clarke/">Randolph Clarke</a><br>
+    <a href="/solutions/philosophers/clarkes/">Samuel Clarke</a><br>
+    <a href="/solutions/philosophers/collins/">Anthony Collins</a><br>
+    <a href="/solutions/philosophers/compte/">August Compte</a><br>
+    <a href="/solutions/philosophers/corradini/">Antonella Corradini</a><br> 
+    <a href="/solutions/philosophers/diodorus/">Diodorus Cronus</a><br>
+    <a href="/solutions/philosophers/dancy/">Jonathan Dancy</a><br>
+    <a href="/solutions/philosophers/davidson/">Donald Davidson</a><br>
+    <a href="/solutions/philosophers/decaro/">Mario De Caro</a><br> 
+    <a href="/solutions/philosophers/democritus/">Democritus</a><br> 
+    <a href="/solutions/philosophers/dembski">William Dembski</a><br>
+    <a href="/solutions/philosophers/dempsey/">Brendan Dempsey</a><br>
+    <a href="/solutions/philosophers/dennett/">Daniel Dennett</a><br>
+    <a href="/solutions/philosophers/derrida/">Jacques Derrida</a><br> 
+    <a href="/solutions/philosophers/descartes/">René Descartes</a><br> 
+    <a href="/solutions/philosophers/double/">Richard Double</a><br> 
+    <a href="/solutions/philosophers/dretske/">Fred Dretske</a><br> 
+    <a href="/solutions/philosophers/ducasse/">Curt Ducasse</a><br> 
+    <!--<a href="/solutions/philosophers/dupre/">John Dupré</a><br>-->
+    <a href="/solutions/philosophers/earman/">John Earman</a><br> 
+    <a href="/solutions/philosophers/ekstrom/">Laura Waddell Ekstrom</a><br> 
+    <a href="/solutions/philosophers/epictetus/">Epictetus</a><br> 
+    <a href="/solutions/philosophers/epicurus/">Epicurus</a><br> 
+    <a href="/solutions/philosophers/farrer/">Austin Farrer</a><br>
+    <a href="/solutions/philosophers/feigl/">Herbert Feigl</a><br>
+    <a href="/solutions/philosophers/fine/">Arthur Fine</a><br>
+    <a href="/solutions/philosophers/fischer/">John Martin Fischer</a><br>
+    <a href="/solutions/philosophers/fitch/">Frederic Fitch</a><br>
+    <a href="/solutions/philosophers/flanagan/">Owen Flanagan</a><br>
+    <a href="/solutions/philosophers/floridi/">Luciano Floridi</a><br>
+    <a href="/solutions/philosophers/foot/">Philippa Foot</a><br>
+    <a href="/solutions/philosophers/fouillee/">Alfred Fouille&eacute;</a><br>
+    <a href="/solutions/philosophers/frankfurt/">Harry Frankfurt</a><br>
+    <a href="/solutions/philosophers/franklin/">Richard L. Franklin</a><br>
+    <a href="/solutions/philosophers/frassen/">Bas van Fraassen</a><br>
+    <a href="/solutions/philosophers/frede/">Michael Frede</a><br>
+    <a href="/solutions/philosophers/frege/">Gottlob Frege</a><br>
+    <a href="/solutions/philosophers/geach/">Peter Geach</a><br>
+    <a href="/solutions/philosophers/gettier/">Edmund Gettier</a><br>
+    <a href="/solutions/philosophers/ginet/">Carl Ginet</a><br>
+    <a href="/knowledge/philosophers/goldman/">Alvin Goldman</a><br> 
+    <a href="/solutions/philosophers/gorgias/">Gorgias</a><br>
+    <a href="/solutions/philosophers/green/">Nicholas St. John Green</a><br>
+    <a href="/solutions/philosophers/gregersen/">Niels Henrik Gregersen</a><br>
+    <a href="/solutions/philosophers/grice/">H.Paul Grice</a><br>
+    <a href="/solutions/philosophers/hacking/">Ian Hacking</a><br> 
+    <a href="/solutions/philosophers/haji/">Ishtiyaque Haji</a><br> 
+    <a href="/solutions/philosophers/hampshire/">Stuart Hampshire</a><br> 
+    <a href="/solutions/philosophers/hardie/">W.F.R.Hardie</a><br> 
+    <a href="/solutions/philosophers/harris/">Sam Harris</a><br> 
+    <a href="/solutions/philosophers/hasker/">William Hasker</a><br> 
+    <a href="/solutions/philosophers/hare/">R.M.Hare</a><br> 
+    <a href="/solutions/philosophers/hegel/">Georg W.F. Hegel</a><br> 
+    <a href="/solutions/philosophers/heidegger/">Martin Heidegger</a><br>
+    <a href="/solutions/philosophers/heraclitus/">Heraclitus</a><br>
+    <a href="/solutions/philosophers/hobart/">R.E.Hobart</a><br> 
+    <a href="/solutions/philosophers/hobbes/">Thomas Hobbes</a><br> 
+    <a href="/solutions/philosophers/hodgson/">David Hodgson</a><br>
+    <a href="/solutions/philosophers/hodgsons/">Shadsworth Hodgson</a><br> 
+    <a href="/solutions/philosophers/dholbach/">Baron d'Holbach</a><br>
+    <a href="/solutions/philosophers/honderich/">Ted Honderich</a><br>
+    <!-- <a href="/solutions/philosophers/hook/">Sidney Hook</a><br> -->
+    <a href="/solutions/philosophers/huby/">Pamela Huby</a><br> 
+    <a href="/solutions/philosophers/hume/">David Hume</a><br> 
+    <a href="/solutions/philosophers/huoranszki/">Ferenc Huoranszki</a><br> 
+    <!-- <a href="/solutions/philosophers/husserl/">Edmund Husserl</a><br> -->
+    <a href="/solutions/philosophers/jackson/">Frank Jackson</a><br> 
+    <a href="/solutions/philosophers/james/">William James</a><br> 
+    <a href="/solutions/philosophers/kames/">Lord Kames</a><br>
+    <a href="/solutions/philosophers/kane/">Robert Kane</a><br>
+    <a href="/solutions/philosophers/kant/">Immanuel Kant</a><br> 
+    <a href="/solutions/philosophers/kapitan/">Tomis Kapitan</a><br> 
+    <a href="/solutions/philosophers/kaufmann/">Walter Kaufmann</a><br> 
+    <a href="/solutions/philosophers/kim/">Jaegwon Kim</a><br> 
+    <a href="/solutions/philosophers/king/">William King</a><br> 
+    <a href="/knowledge/philosophers/kornblith/">Hilary Kornblith</a><br> 
+    <a href="/solutions/philosophers/korsgaard/">Christine Korsgaard</a><br> 
+    <a href="/solutions/philosophers/kripke/">Saul Kripke</a><br> 
+    <a href="/solutions/philosophers/kuhn/">Thomas Kuhn</a><br> 
+    <a href="/solutions/philosophers/lavazza/">Andrea Lavazza</a><br> 
+    <a href="/solutions/philosophers/ladyman/">James Ladyman</a><br> 
+    <a href="/solutions/philosophers/lehner/">Christoph Lehner</a><br>
+    <a href="/solutions/philosophers/lehrer/">Keith Lehrer</a><br> 
+    <a href="/solutions/philosophers/leibniz/">Gottfried Leibniz</a><br> 
+    <a href="/solutions/philosophers/lequyer/">Jules Lequyer</a><br> 
+    <a href="/solutions/philosophers/leucippus/">Leucippus</a><br> 
+    <a href="/solutions/philosophers/levin/">Michael Levin</a><br>
+    <a href="/solutions/philosophers/levine/">Joseph Levine</a><br>
+    <a href="/solutions/philosophers/lewes/">George Henry Lewes</a><br> 
+    <a href="/knowledge/philosophers/lewis/">C.I.Lewis</a><br> 
+    <a href="/solutions/philosophers/lewis/">David Lewis</a><br> 
+    <a href="/solutions/philosophers/lipton/">Peter Lipton</a><br> 
+    <a href="/solutions/philosophers/morgan/">C. Lloyd Morgan</a><br> 
+    <a href="/solutions/philosophers/locke/">John Locke</a><br>
+    <a href="/solutions/philosophers/lockwood/">Michael Lockwood</a><br>
+    <a href="/solutions/philosophers/lovejoy/">Arthur O. Lovejoy</a><br>
+    <a href="/solutions/philosophers/lowe/">E. Jonathan Lowe</a><br>
+    <a href="/solutions/philosophers/lucas/">John R. Lucas</a><br>
+    <a href="/solutions/philosophers/lucretius/">Lucretius</a><br>
+    <a href="/solutions/philosophers/macintyre/">Alasdair MacIntyre</a><br> 
+    <a href="/solutions/philosophers/marcus/">Ruth Barcan Marcus</a><br> 
+    <a href="/solutions/philosophers/maudlin/">Tim Maudlin</a><br> 
+    <a href="/solutions/philosophers/martineau/">James Martineau</a><br> 
+    <a href="/solutions/philosophers/maxwell/">Nicholas Maxwell</a><br> 
+    <a href="/solutions/philosophers/mccall/">Storrs McCall</a><br>
+    <a href="/solutions/philosophers/mccann/">Hugh McCann</a><br>
+    <a href="/solutions/philosophers/mcginn/">Colin McGinn</a><br>
+    <a href="/solutions/philosophers/mckenna/">Michael McKenna</a><br>
+    <a href="/solutions/philosophers/mclaughlin/">Brian McLaughlin</a><br>
+    <a href="/solutions/philosophers/mctaggart/">John McTaggart</a><br>
+    <a href="/solutions/philosophers/meehl/">Paul E. Meehl</a><br>
+    <a href="/solutions/philosophers/meixner/">Uwe Meixner</a><br>
+    <a href="/solutions/philosophers/mele/">Alfred Mele</a><br>
+    <a href="/solutions/philosophers/merricks/">Trenton Merricks</a><br>
+    <a href="/solutions/philosophers/mill/">John Stuart Mill</a><br>
+    <a href="/solutions/philosophers/miller/">Dickinson Miller</a><br>
+    <a href="/solutions/philosophers/moore/">G.E.Moore</a><br>
+    <a href="/solutions/philosophers/nagele/">Ernest Nagel</a><br>
+    <a href="/solutions/philosophers/nagelt/">Thomas Nagel</a><br>
+    <a href="/solutions/philosophers/neurath/">Otto Neurath</a><br>
+    <a href="/solutions/philosophers/nietzsche/">Friedrich Nietzsche</a><br>
+    <a href="/solutions/philosophers/norton/">John Norton</a><br>
+    <a href="/solutions/philosophers/nowell-smith/">P.H.Nowell-Smith</a><br>
+    <a href="/solutions/philosophers/nozick/">Robert Nozick</a><br>
+    <a href="/solutions/philosophers/ockham/">William of Ockham</a><br> 
+    <a href="/solutions/philosophers/oconnor/">Timothy O'Connor</a><br>
+    <a href="/solutions/philosophers/parmenides/">Parmenides</a><br>
+    <a href="/solutions/philosophers/pears/">David F. Pears</a><br> 
+    <a href="/solutions/philosophers/peirce/">Charles Sanders Peirce</a><br> 
+    <a href="/solutions/philosophers/pereboom/">Derk Pereboom</a><br> 
+    <a href="/solutions/philosophers/piccinini/">Gualtiero Piccinini</a><br> 
+    <a href="/solutions/philosophers/pinker/">Steven Pinker</a><br>
+    <a href="/solutions/philosophers/place/">U.T.Place</a><br> 
+    <a href="/solutions/philosophers/plato/">Plato</a><br> 
+    <a href="/solutions/philosophers/popper/">Karl Popper</a><br> 
+    <a href="/solutions/philosophers/porphyry/">Porphyry</a><br> 
+    <a href="/solutions/philosophers/price/">Huw Price</a><br> 
+    <a href="/solutions/philosophers/prichard/">H.A.Prichard</a><br> 
+    <a href="/solutions/philosophers/protagoras/">Protagoras</a><br>
+    <a href="/solutions/philosophers/putnam/">Hilary Putnam</a><br> 
+    <a href="/solutions/philosophers/quine/">Willard van Orman Quine</a><br> 
+    <a href="/knowledge/philosophers/ramsey/">Frank Ramsey</a><br> 
+    <a href="/solutions/philosophers/rand/">Ayn Rand</a><br> 
+    <a href="/solutions/philosophers/rea/">Michael Rea</a><br>
+    <a href="/solutions/philosophers/reid/">Thomas Reid</a><br> 
+    <a href="/solutions/philosophers/renouvier/">Charles Renouvier</a><br> 
+    <a href="/solutions/philosophers/rescher/">Nicholas Rescher</a><br> 
+    <a href="/solutions/philosophers/rietdijk/">C.W.Rietdijk</a><br> 
+    <a href="/solutions/philosophers/rorty/">Richard Rorty</a><br> 
+    <a href="/solutions/philosophers/royce/">Josiah Royce</a><br> 
+    <a href="/solutions/philosophers/russell/">Bertrand Russell</a><br> 
+    <a href="/solutions/philosophers/russellp/">Paul Russell</a><br> 
+    <a href="/solutions/philosophers/ryle/">Gilbert Ryle</a><br> 
+    <a href="/solutions/philosophers/sartre/">Jean-Paul Sartre</a><br> 
+    <a href="/solutions/philosophers/sayre/">Kenneth Sayre</a><br> 
+    <a href="/solutions/philosophers/scanlon/">T.M.Scanlon</a><br> 
+    <a href="/solutions/philosophers/schlick/">Moritz Schlick</a><br> 
+    <a href="/solutions/philosophers/scotus/">John Duns Scotus</a><br> 
+    <a href="/solutions/philosophers/schweitzer/">Albert Schweitzer</a><br> 
+    <a href="/solutions/philosophers/schopenhauer/">Arthur Schopenhauer</a><br> 
+    <a href="/solutions/philosophers/searle/">John Searle</a><br>
+    <a href="/solutions/philosophers/sellars/">Wilfrid Sellars</a><br>
+    <a href="/solutions/philosophers/shiang/">David Shiang</a><br> 
+    <a href="/solutions/philosophers/sidelle/">Alan Sidelle</a><br> 
+    <a href="/solutions/philosophers/sider/">Ted Sider</a><br> 
+    <a href="/solutions/philosophers/sidgwick/">Henry Sidgwick</a><br> 
+    <a href="/solutions/philosophers/sinnott-armstrong/">Walter Sinnott-Armstrong</a><br> 
+    <a href="/solutions/philosophers/slezak/">Peter Slezak</a><br> 
+    <a href="/solutions/philosophers/smart/">J.J.C.Smart</a><br> 
+    <a href="/solutions/philosophers/smilansky/">Saul Smilansky</a><br> 
+    <a href="/solutions/philosophers/smith/">Michael Smith</a><br> 
+    <a href="/solutions/philosophers/spinoza/">Baruch Spinoza</a><br> 
+    <a href="/solutions/philosophers/stebbing/">L. Susan Stebbing</a><br> 
+    <a href="/solutions/philosophers/stengers/">Isabelle Stengers</a><br> 
+    <a href="/solutions/philosophers/stout/">George F. Stout</a><br> 
+    <a href="/solutions/philosophers/strawsong/">Galen Strawson</a><br>
+    <a href="/solutions/philosophers/strawson/">Peter Strawson</a><br>
+    <a href="/solutions/philosophers/stump/">Eleonore Stump</a><br>
+    <a href="/solutions/philosophers/suarez/">Francisco Suárez</a><br>
+    <a href="/solutions/philosophers/taylorr/">Richard Taylor</a><br>
+    <a href="/solutions/philosophers/timpe/">Kevin Timpe</a><br>
+    <a href="/solutions/philosophers/twain/">Mark Twain</a><br>
+    <a href="/solutions/philosophers/unger/">Peter Unger</a><br> 
+    <a href="/solutions/philosophers/vaninwagen/">Peter van Inwagen</a><br> 
+    <a href="/solutions/philosophers/vargas/">Manuel Vargas</a><br> 
+    <a href="/solutions/philosophers/venn/">John Venn</a><br> 
+    <a href="/solutions/philosophers/vihvelin/">Kadri Vihvelin</a><br> 
+    <a href="/solutions/philosophers/voltaire/">Voltaire</a><br> 
+    <a href="/solutions/philosophers/vonwright/">G.H. von Wright</a><br> 
+    <a href="/solutions/philosophers/wallacedf/">David Foster Wallace</a><br> 
+    <a href="/solutions/philosophers/wallace/">R. Jay Wallace</a><br> 
+    <a href="/solutions/philosophers/ward/">W.G.Ward</a><br> 
+    <a href="/solutions/philosophers/warfield/">Ted Warfield</a><br> 
+    <a href="/solutions/philosophers/weatherford/">Roy Weatherford</a><br> 
+    <a href="/solutions/philosophers/weizsacker/">C.F. von Weizsäcker</a><br>
+    <a href="/solutions/philosophers/whewell/">William Whewell</a><br> 
+    <a href="/solutions/philosophers/whitehead/">Alfred North Whitehead</a><br> 
+    <a href="/solutions/philosophers/widerker/">David Widerker</a><br> 
+    <a href="/solutions/philosophers/wiggins/">David Wiggins</a><br> 
+    <a href="/solutions/philosophers/williams/">Bernard Williams</a><br> 
+    <a href="/solutions/philosophers/williamson/">Timothy Williamson</a><br> 
+    <a href="/solutions/philosophers/wittgenstein/">Ludwig Wittgenstein</a><br> 
+    <a href="/solutions/philosophers/wolf/">Susan Wolf</a><br> 
+    <a href="/solutions/philosophers/xenophon/">Xenophon</a><br> 
+    <br> 
+    Scientists
+    <br><br>
+    <a href="/solutions/scientists/albert/">David Albert</a><br>
+    <a href="/solutions/scientists/anderson/">Philip W. Anderson</a><br>
+    <a href="/solutions/scientists/arbib/">Michael Arbib</a><br>
+    <a href="/solutions/scientists/azarian/">Bobby Azarian</a><br>
+    <a href="/solutions/scientists/baade/">Walter Baade</a><br>
+    <a href="/solutions/scientists/baars/">Bernard Baars</a><br>
+    <a href="/solutions/scientists/bada/">Jeffrey Bada</a><br>
+    <a href="/solutions/scientists/ballentine/">Leslie Ballentine</a><br>
+    <a href="/solutions/scientists/barbieri/">Marcello Barbieri</a><br>
+    <a href="/solutions/scientists/barandes/">Jacob Barandes</a><br>
+    <a href="/solutions/scientists/barbour/">Julian Barbour</a><br>
+    <a href="/solutions/scientists/barlow/">Horace Barlow</a><br>
+    <a href="/solutions/scientists/bateson/">Gregory Bateson</a><br>
+    <a href="/solutions/scientists/bekenstein/">Jakob Bekenstein</a><br>
+    <a href="/solutions/scientists/bell/">John S. Bell</a><br>
+    <a href="/solutions/scientists/beller/">Mara Beller</a><br>
+    <a href="/solutions/scientists/bennett/">Charles Bennett</a><br>
+    <a href="/solutions/scientists/bertalanffy/">Ludwig von Bertalanffy</a><br>
+    <a href="/solutions/scientists/blackmore/">Susan Blackmore</a><br>
+    <a href="/solutions/scientists/boden/">Margaret Boden</a><br>
+    <a href="/solutions/scientists/bohm/">David Bohm</a><br>
+    <a href="/solutions/scientists/bohr/">Niels Bohr</a><br>
+    <a href="/solutions/scientists/boltzmann/">Ludwig Boltzmann</a><br> 
+    <a href="/solutions/scientists/bonner/">John Tyler Bonner</a><br> 
+    <a href="/solutions/scientists/borel/">Emile Borel</a><br> 
+    <a href="/solutions/scientists/born/">Max Born</a><br> 
+    <a href="/solutions/scientists/bose/">Satyendra Nath Bose</a><br> 
+    <a href="/solutions/scientists/bothe/">Walther Bothe</a><br> 
+    <a href="/solutions/scientists/bricmont/">Jean Bricmont</a><br>
+    <a href="/solutions/scientists/briegel/">Hans Briegel</a><br>
+    <a href="/solutions/scientists/brillouin/">Leon Brillouin</a><br>
+    <a href="/solutions/scientists/brooks/">Daniel Brooks</a><br>
+    <a href="/solutions/scientists/brush/">Stephen Brush</a><br>
+    <a href="/solutions/scientists/buckle/">Henry Thomas Buckle</a><br>
+    <a href="/solutions/scientists/burbury/">S. H. Burbury</a><br>
+    <a href="/solutions/scientists/calvin/">Melvin Calvin</a><br>
+    <a href="/solutions/scientists/calvinw/">William Calvin</a><br>
+    <a href="/solutions/scientists/campbell/">Donald Campbell</a><br>
+    <a href="/solutions/scientists/campbellj/">John O. Campbell</a><br>
+    <a href="/solutions/scientists/carnot/">Sadi Carnot</a><br>
+    <a href="/solutions/scientists/carroll/">Sean B. Carroll</a><br>
+    <a href="/solutions/scientists/cashmore/">Anthony Cashmore</a><br>
+    <a href="/solutions/scientists/chaisson/">Eric Chaisson</a><br>
+    <a href="/solutions/scientists/chaitin/">Gregory Chaitin</a><br>
+    <a href="/solutions/scientists/changeux/">Jean-Pierre Changeux</a><br>
+    <a href="/solutions/scientists/clausius/">Rudolf Clausius</a><br>
+    <a href="/solutions/scientists/compton/">Arthur Holly Compton</a><br>
+    <a href="/solutions/scientists/conway/">John Conway</a><br>
+    <a href="/solutions/scientists/conway-morris/">Simon Conway-Morris</a><br>
+    <a href="/solutions/scientists/corning/">Peter Corning</a><br>
+    <a href="/solutions/scientists/cowan/">George Cowan</a><br>
+    <a href="/solutions/scientists/coyne/">Jerry Coyne</a><br>
+    <a href="/solutions/scientists/cramer/">John Cramer</a><br>
+    <a href="/solutions/scientists/crick/">Francis Crick</a><br>
+    <a href="/solutions/scientists/culverwell/">E. P. Culverwell</a><br>
+    <a href="/solutions/scientists/damasio/">Antonio Damasio</a><br>
+    <a href="/solutions/scientists/darrigol/">Olivier Darrigol</a><br>
+    <a href="/solutions/scientists/darwin/">Charles Darwin</a><br>
+    <a href="/solutions/scientists/davies/">Paul Davies</a><br>
+    <a href="/solutions/scientists/dawkins/">Richard Dawkins</a><br>
+    <a href="/solutions/scientists/deacon/">Terrence Deacon</a><br>
+    <a href="/solutions/scientists/kornhuber-deecke/">Lüder Deecke</a><br>
+    <a href="/solutions/scientists/dedekind/">Richard Dedekind</a><br>
+    <a href="/solutions/scientists/de_broglie/">Louis de Broglie</a><br>
+    <a href="/solutions/scientists/dehaene/">Stanislas Dehaene</a><br> 
+    <a href="/solutions/scientists/delbruck/">Max Delbrück</a><br> 
+    <a href="/solutions/scientists/de_moivre/">Abraham de Moivre</a><br> 
+    <a href="/solutions/scientists/depew/">David Depew</a><br>
+    <a href="/solutions/scientists/despagmat/">Bernard d'Espagnat</a><br>
+    <a href="/solutions/scientists/dirac/">Paul Dirac</a><br>
+    <a href="/solutions/scientists/dobzhansky/">Theodosius Dobzhansky</a><br>
+    <a href="/solutions/scientists/driesch/">Hans Driesch</a><br>
+    <a href="/solutions/scientists/dupre/">John Dupré</a><br>
+    <a href="/solutions/scientists/eccles/">John Eccles</a><br>
+    <a href="/solutions/scientists/eddington/">Arthur Stanley Eddington</a><br> 
+    <a href="/solutions/scientists/edelman/">Gerald Edelman</a><br> 
+    <a href="/solutions/scientists/ehrenfest/">Paul Ehrenfest</a><br> 
+    <a href="/solutions/scientists/eigen/">Manfred Eigen</a><br> 
+    <a href="/solutions/scientists/einstein/">Albert Einstein</a><br> 
+    <a href="/solutions/scientists/ellis/">George F. R. Ellis</a><br> 
+    <a href="/solutions/scientists/elsasser/">Walter Elsasser</a><br> 
+    <a href="/solutions/scientists/everett/">Hugh Everett, III</a><br> 
+    <a href="/solutions/scientists/exner/">Franz Exner</a><br> 
+    <a href="/solutions/scientists/feynman/">Richard Feynman</a><br>
+    <a href="/solutions/scientists/fisher/">R. A. Fisher</a><br>
+    <a href="/solutions/scientists/foster/">David Foster</a><br>
+    <a href="/solutions/scientists/fourier/">Joseph Fourier</a><br>
+    <a href="/solutions/scientists/fox/">George Fox</a><br>
+    <a href="/solutions/scientists/frank/">Philipp Frank</a><br> 
+    <a href="/solutions/scientists/frautschi/">Steven Frautschi</a><br> 
+    <a href="/solutions/scientists/fredkin/">Edward Fredkin</a><br> 
+    <a href="/solutions/scientists/fresnel/">Augustin-Jean Fresnel</a><br> 
+    <a href="/solutions/scientists/friston/">Karl Friston</a><br> 
+    <a href="/solutions/scientists/gal-or/">Benjamin Gal-Or</a><br> 
+    <a href="/solutions/scientists/gardner/">Howard Gardner</a><br> 
+    <a href="/solutions/scientists/gatlin/">Lila Gatlin</a><br> 
+    <a href="/solutions/scientists/gazzaniga/">Michael Gazzaniga</a><br> 
+    <a href="/solutions/scientists/georgescu-roegen/">Nicholas Georgescu-Roegen</a><br> 
+    <a href="/solutions/scientists/ghirardi/">GianCarlo Ghirardi</a><br> 
+    <a href="/solutions/scientists/gibbs/">J. Willard Gibbs</a><br> 
+    <a href="/solutions/scientists/gibson/">James J. Gibson</a><br> 
+    <a href="/solutions/scientists/gisin/">Nicolas Gisin</a><br> 
+    <a href="/solutions/scientists/glimcher/">Paul Glimcher</a><br> 
+    <a href="/solutions/scientists/gold/">Thomas Gold</a><br>
+    <a href="/solutions/scientists/gomes/">A. O. Gomes</a><br> 
+    <a href="/solutions/scientists/goodwin/">Brian Goodwin</a><br> 
+    <a href="/solutions/scientists/gough/">Julian Gough</a><br> 
+    <a href="/solutions/scientists/greene/">Joshua Greene</a><br> 
+    <a href="/solutions/scientists/haar/">Dirk ter Haar</a><br> 
+    <a href="/solutions/scientists/hadamard/">Jacques Hadamard</a><br> 
+    <a href="/solutions/scientists/hadley/">Mark Hadley</a><br> 
+    <a href="/solutions/scientists/haeckel/">Ernst Haeckel</a><br> 
+    <a href="/solutions/scientists/haggard/">Patrick Haggard</a><br> 
+    <a href="/solutions/scientists/haldane/">J. B. S. Haldane</a><br> 
+    <a href="/solutions/scientists/hameroff/">Stuart Hameroff</a><br> 
+    <a href="/solutions/scientists/hamon/">Augustin Hamon</a><br> 
+    <a href="/solutions/scientists/harris/">Sam Harris</a><br> 
+    <a href="/solutions/scientists/hartley/">Ralph Hartley</a><br> 
+    <a href="/solutions/scientists/hartman/">Hyman Hartman</a><br> 
+    <a href="/solutions/scientists/hawkins/">Jeff Hawkins</a><br> 
+    <a href="/solutions/scientists/haynes/">John-Dylan Haynes</a><br> 
+    <a href="/solutions/scientists/hebb/">Donald Hebb</a><br> 
+    <a href="/solutions/scientists/heisenbergm/">Martin Heisenberg</a><br> 
+    <a href="/solutions/scientists/heisenberg/">Werner Heisenberg</a><br> 
+    <a href="/solutions/scientists/helmholtz">Hermann von Helmholtz</a><br> 
+    <a href="/solutions/scientists/hermann/">Grete Hermann</a><br> 
+    <a href="/solutions/scientists/herschel/">John Herschel</a><br> 
+    <a href="/solutions/scientists/heylighen/">Francis Heylighen</a><br> 
+    <a href="/solutions/scientists/hiley/">Basil Hiley</a><br> 
+    <a href="/solutions/scientists/hobson/">Art Hobson</a><br> 
+    <a href="/solutions/scientists/hoffmeyer/">Jesper Hoffmeyer</a><br> 
+   <a href="/solutions/scientists/holland/">John Holland</a><br> 
+    <a href="/solutions/scientists/howard/">Don Howard</a><br> 
+    <a href="/solutions/scientists/jackson/">John H. Jackson</a><br> 
+    <a href="/solutions/scientists/jackendoff/">Ray Jackendoff</a><br>
+    <a href="/solutions/scientists/jakobson/">Roman Jakobson</a><br>
+    <a href="/solutions/scientists/jaynes/">E. T. Jaynes</a><br>
+    <a href="/solutions/scientists/jevons/">William Stanley Jevons</a><br>
+    <a href="/solutions/scientists/jordan/">Pascual Jordan</a><br>
+    <a href="/solutions/scientists/kandel/">Eric Kandel</a><br>
+    <a href="/solutions/scientists/kastner/">Ruth E. Kastner</a><br>
+    <a href="/solutions/scientists/kauffman/">Stuart Kauffman</a><br>
+    <a href="/solutions/scientists/klein/">Martin J. Klein</a><br> 
+    <a href="/solutions/scientists/klemm/">William R. Klemm</a><br> 
+    <a href="/solutions/scientists/koch/">Christof Koch</a><br>
+    <a href="/solutions/scientists/kochen/">Simon Kochen</a><br>
+    <a href="/solutions/scientists/kornhuber-deecke/">Hans Kornhuber</a><br>
+    <a href="/solutions/scientists/kosslyn/">Stephen Kosslyn</a><br> 
+    <a href="/solutions/scientists/koshland/">Daniel Koshland</a><br> 
+    <a href="/solutions/scientists/kovac/">Ladislav Kovàč</a><br>
+    <a href="/solutions/scientists/kronecker/">Leopold Kronecker</a><br>
+    <a href="/solutions/scientists/kuppers/">Bernd-Olaf Küppers</a><br>
+    <a href="/solutions/scientists/landauer/">Rolf Landauer</a><br>
+    <a href="/solutions/scientists/lande/">Alfred Landé</a><br>
+    <a href="/solutions/scientists/laplace/">Pierre-Simon Laplace</a><br> 
+    <a href="/solutions/scientists/lashley/">Karl Lashley</a><br> 
+    <a href="/solutions/scientists/layzer/">David Layzer</a><br> 
+    <a href="/solutions/scientists/ledoux/">Joseph LeDoux</a><br> 
+    <a href="/solutions/scientists/lettvin/">Gerald Lettvin</a><br> 
+    <a href="/solutions/scientists/levin/">Michael Levin</a><br> 
+    <a href="/solutions/scientists/lewis/">Gilbert Lewis</a><br> 
+    <a href="/solutions/scientists/libet/">Benjamin Libet</a><br> 
+    <a href="/solutions/scientists/lindley/">David Lindley</a><br> 
+    <a href="/solutions/scientists/lloyd/">Seth Lloyd</a><br> 
+    <a href="/solutions/scientists/loewenstein/">Werner Loewenstein</a><br> 
+    <a href="/solutions/scientists/lorentz/">Hendrik Lorentz</a><br> 
+    <a href="/solutions/scientists/loschmidt/">Josef Loschmidt</a><br> 
+    <a href="/solutions/scientists/lotka/">Alfred Lotka</a><br> 
+    <a href="/solutions/scientists/mach/">Ernst Mach</a><br>
+    <a href="/solutions/scientists/mackay/">Donald MacKay</a><br> 
+    <a href="/solutions/scientists/margenau/">Henry Margenau</a><br> 
+    <a href="/solutions/scientists/margulis/">Lynn Margulis</a><br> 
+    <a href="/solutions/scientists/maroney/">Owen Maroney</a><br> 
+    <a href="/solutions/scientists/marr/">David Marr</a><br> 
+    <a href="/solutions/scientists/maturana/">Humberto Maturana</a><br> 
+    <a href="/solutions/scientists/maxwell/">James Clerk Maxwell</a><br> 
+    <a href="/solutions/scientists/maynard-smith/">John Maynard Smith</a><br>
+    <a href="/solutions/scientists/mayr/">Ernst Mayr</a><br>
+    <a href="/solutions/scientists/mccarthy/">John McCarthy</a><br>
+    <a href="/solutions/scientists/mcclintock/">Barbara McClintock</a><br>
+    <a href="/solutions/scientists/mcculloch/">Warren McCulloch</a><br>
+    <a href="/solutions/scientists/mermin/">N. David Mermin</a><br>
+    <a href="/solutions/scientists/miller/">George Miller</a><br>
+    <a href="/solutions/scientists/smiller/">Stanley Miller</a><br>
+    <a href="/solutions/scientists/mohrhoff/">Ulrich Mohrhoff</a><br>
+    <a href="/solutions/scientists/monod/">Jacques Monod</a><br>
+    <a href="/solutions/scientists/mountcastle/">Vernon Mountcastle</a><br> 
+    <a href="/solutions/scientists/muller/">Gerd B. Müller</a><br> 
+    <a href="/solutions/scientists/noether/">Emmy Noether</a><br> 
+    <a href="/solutions/scientists/noble/">Denis Noble</a><br> 
+    <a href="/solutions/scientists/norman/">Donald Norman</a><br> 
+    <a href="/solutions/scientists/norsen/">Travis Norsen</a><br>
+    <a href="/solutions/scientists/odumh/">Howard T. Odum</a><br> 
+    <a href="/solutions/scientists/oparin/">Alexander Oparin</a><br> 
+    <a href="/solutions/scientists/pais/">Abraham Pais</a><br> 
+    <a href="/solutions/scientists/pattee/">Howard Pattee</a><br> 
+    <a href="/solutions/scientists/pauli/">Wolfgang Pauli</a><br> 
+    <a href="/solutions/scientists/pauri/">Massimo Pauri</a><br> 
+    <a href="/solutions/scientists/penfield/">Wilder Penfield</a><br>
+    <a href="/solutions/scientists/penrose/">Roger Penrose</a><br>
+    <a href="/solutions/scientists/pigliucci/">Massimo Pigliucci</a><br/>
+    <a href="/solutions/philosophers/pinker/">Steven Pinker</a><br> 
+    <a href="/solutions/scientists/pittendrigh/">Colin Pittendrigh</a><br> 
+    <a href="/solutions/scientists/pitts/">Walter Pitts</a><br> 
+    <a href="/solutions/scientists/planck/">Max Planck</a><br> 
+    <a href="/solutions/scientists/pockett/">Susan Pockett</a><br> 
+    <a href="/solutions/scientists/poincare/">Henri Poincaré</a><br>
+    <a href="/solutions/scientists/polanyi/">Michael Polanyi</a><br>
+    <a href="/solutions/scientists/pollen/">Daniel Pollen</a><br> 
+    <a href="/solutions/scientists/prigogine/">Ilya Prigogine</a><br>
+    <a href="/solutions/scientists/primas/">Hans Primas</a><br>
+    <a href="/solutions/scientists/prisco/">Giulio Prisco</a><br>
+    <a href="/solutions/scientists/pylyshyn/">Zenon Pylyshyn</a><br/>
+    <a href="/solutions/scientists/quastler/">Henry Quastler</a><br/>
+    <a href="/solutions/scientists/quetelet/">Adolphe Quételet</a><br/>
+    <a href="/solutions/scientists/rakic/">Pasco Rakic</a><br/>
+    <a href="/solutions/scientists/rashevsky/">Nicolas Rashevsky</a><br/>
+    <a href="/solutions/scientists/rayleigh/">Lord Rayleigh</a><br/>
+    <a href="/solutions/scientists/reif/">Frederick Reif</a><br/>
+    <a href="/solutions/scientists/renn/">Jürgen Renn</a><br/>
+    <a href="/solutions/scientists/rizzolati/">Giacomo Rizzolati</a><br/>
+    <a href="/solutions/scientists/roback/">A.A. Roback</a><br/>
+    <a href="/solutions/scientists/roduner/">Emil Roduner</a><br/>
+    <a href="/solutions/scientists/roederer/">Juan Roederer</a><br/>
+    <a href="/solutions/scientists/rosen/">Robert Rosen</a><br/>
+    <a href="/solutions/scientists/rosenblatt/">Frank Rosenblatt</a><br/>
+    <a href="/solutions/scientists/rothstein/">Jerome Rothstein</a><br/>
+    <a href="/solutions/scientists/ruelle/">David Ruelle</a><br/>
+    <a href="/solutions/scientists/rumelhart/">David Rumelhart</a><br> 
+    <a href="/solutions/scientists/ruse">Michael Ruse</a><br> 
+    <a href="/solutions/scientists/salthe/">Stanley Salthe</a><br> 
+    <a href="/solutions/scientists/sapolsky/">Robert Sapolsky</a><br>
+    <a href="/solutions/scientists/sauer/">Tilman Sauer</a><br>
+    <a href="/solutions/scientists/saussure/">Ferdinand de Saussure</a><br>
+    <a href="/solutions/scientists/schmidhuber/">Jürgen Schmidhuber</a><br>
+    <a href="/solutions/scientists/schrodinger/">Erwin Schr&ouml;dinger</a><br> 
+    <a href="/solutions/scientists/schurger/">Aaron Schurger</a><br> 
+    <a href="/solutions/scientists/seung/">Sebastian Seung</a><br>
+    <a href="/solutions/scientists/sebeok/">Thomas Sebeok</a><br>
+    <a href="/solutions/scientists/selleri/">Franco Selleri</a><br>
+    <a href="/solutions/scientists/shannon/">Claude Shannon</a><br>
+     <a href="/solutions/scientists/shapiro/">James A. Shapiro</a><br>
+    <a href="/solutions/scientists/sherrington/">Charles Sherrington</a><br> 
+    <a href="/solutions/scientists/shimony/">Abner Shimony</a><br> 
+    <a href="/solutions/scientists/simon/">Herbert Simon</a><br> 
+    <a href="/solutions/scientists/simonton/">Dean Keith Simonton</a><br>
+    <a href="/solutions/scientists/sinnott/">Edmund Sinnott</a><br>
+    <a href="/solutions/scientists/skinner/">B. F. Skinner</a><br>
+    <a href="/solutions/scientists/smolin/">Lee Smolin</a><br> 
+    <a href="/solutions/scientists/solomonoff/">Ray Solomonoff</a><br> 
+    <a href="/solutions/scientists/spencer/">Herbert Spencer</a><br>
+    <a href="/solutions/scientists/sperry/">Roger Sperry</a><br>
+    <a href="/solutions/scientists/stachel/">John Stachel</a><br> 
+    <a href="/solutions/scientists/stanley/">Kenneth Stanley</a><br>
+    <a href="/solutions/scientists/stapp/">Henry Stapp</a><br>
+    <a href="/solutions/scientists/stewart/">Ian Stewart</a><br>
+    <a href="/solutions/scientists/stonier/">Tom Stonier</a><br>
+    <a href="/solutions/scientists/suarez/">Antoine Suarez</a><br>
+    <a href="/solutions/scientists/susskind/">Leonard Susskind</a><br>
+    <a href="/solutions/scientists/szilard/">Leo Szilard</a><br>
+    <a href="/solutions/scientists/tegmark/">Max Tegmark</a><br>
+    <a href="/solutions/scientists/teilhard/">Teilhard de Chardin</a><br>
+    <a href="/solutions/scientists/thims/">Libb Thims</a><br>
+    <a href="/solutions/scientists/thomson/">William Thomson (Kelvin)</a><br>
+    <a href="/solutions/scientists/tolman/">Richard Tolman</a><br> 
+    <a href="/solutions/scientists/tononi/">Giulio Tononi</a><br> 
+    <a href="/solutions/scientists/tse/">Peter Tse</a><br>
+    <a href="/solutions/scientists/turing/">Alan Turing</a><br>
+    <a href="/solutions/scientists/ulanowicz/">Robert Ulanowicz</a><br> 
+    <a href="/solutions/scientists/unnikrishnan/">C. S. Unnikrishnan</a><br>
+    <a href="/solutions/scientists/kampen/">Nico van Kampen</a><br>
+    <a href="/solutions/scientists/varela/">Francisco Varela</a><br>
+    <a href="/solutions/scientists/vedral/">Vlatko Vedral</a><br>
+    <a href="/solutions/scientists/vernadsky/">Vladimir Vernadsky</a><br>
+    <a href="/solutions/scientists/vidal/">Clément Vidal</a><br>
+    <a href="/solutions/scientists/volkenstein/">Mikhail Volkenstein</a><br>
+    <a href="/solutions/scientists/foerster/">Heinz von Foerster</a><br>
+    <a href="/solutions/scientists/mises/">Richard von Mises</a><br>
+    <a href="/solutions/scientists/neumann/">John von Neumann</a><br>
+    <a href="/solutions/scientists/uexkull/">Jakob von Uexküll</a><br>
+    <a href="/solutions/scientists/waddington/">C. H. Waddington</a><br>
+    <a href="/solutions/scientists/walker/">Sara Imari Walker</a><br>
+    <a href="/solutions/scientists/watsonj/">James D. Watson</a><br>
+    <a href="/solutions/scientists/watsonjb/">John B. Watson</a><br>
+    <a href="/solutions/scientists/weber/Bruce Weber</a><br>
+    <a href="/solutions/scientists/wegner/">Daniel Wegner</a><br>
+    <a href="/solutions/scientists/weinberg/">Steven Weinberg</a><br>
+    <a href="/solutions/scientists/weismann/">August Weismann</a><br>
+    <a href="/solutions/scientists/weiss/">Paul A. Weiss</a><br>
+    <a href="/solutions/scientists/weyl/">Herman Weyl</a><br>
+    <a href="/solutions/scientists/wheeler/">John Wheeler</a><br>
+    <a href="/solutions/scientists/wicken/">Jeffrey Wicken</a><br>
+    <a href="/solutions/scientists/wien/">Wilhelm Wien</a><br>
+    <a href="/solutions/scientists/wiener/">Norbert Wiener</a><br>
+    <a href="/solutions/scientists/wigner/">Eugene Wigner</a><br>
+    <a href="/solutions/scientists/wiley/">E. O. Wiley</a><br>
+    <a href="/solutions/scientists/wilson/">E. O. Wilson</a><br>
+    <a href="/solutions/scientists/witzany/">Günther Witzany</a><br>
+    <a href="/solutions/scientists/woese/">Carl Woese</a><br>
+    <a href="/solutions/scientists/wolfram/">Stephen Wolfram</a><br>
+    <a href="/solutions/scientists/zeh/">H. Dieter Zeh</a><br>
+    <a href="/solutions/scientists/zeki/">Semir Zeki</a><br>
+    <a href="/solutions/scientists/zermelo/">Ernst Zermelo</a><br> 
+    <a href="/solutions/scientists/zurek/">Wojciech Zurek</a><br>
+    <a href="/solutions/scientists/zuse/">Konrad Zuse</a><br>
+    <a href="/solutions/scientists/zwicky/">Fritz Zwicky</a><br>
+<br/>
+Presentations
+<br/>
+<br/>
+<a href="/presentations/ABCD_Multimedia_2006.pdf/">ABCD Harvard</a> (<a href="/presentations/ABCD_Multimedia_2006.pptx/">ppt</a>) 
+<a href="/presentations/Bhaktivedanta/">Bhaktivedanta Aug 2026</a><br/>
+<a href="/presentations/biosemiotics/">Biosemiotics</a><br/>
+<a href="/presentations/Free__Will/">Free Will</a><br/>
+<a href="/presentations/Milan/mental_causation/index2.html">Mental Causation</a><br/>
+<a href="/presentations/video/WJS-2010/">James Symposium</a><br/>
+<a href="/presentations/CSC25_Talk/">CCS25 Talk</a><br/>
+<a href="/presentations/Evo_Devo_CSS/">Evo Devo September 12</a><br/>
+<a href="/presentations/Evo_Devo_I-Phi/">Evo Devo October 2</a><br/>
+<a href="/presentations/Evo_Devo_Davies/">Evo Devo Davies Nov12</a><br/>
+
+             </div> 
+	      <div style="clear: both;"></div>
+	      &nbsp;
+	    </div>
+	    <!-- end column1 -->
+	  </td>
+
+	  <td valign="top">
+	    <!-- start column2 or 23 -->
+	    <div id="column23">
+	      <div class="bodycontent">
+		     
+<div class="breadcrumbs">
+<a href="/">Home</a> > <a href="/solutions/">Solutions</a> > <a href="/solutions/philosophers/">Philosophers</a> > <a href="/solutions/philosophers/kant/">Kant</a> > Prolegomena
+</div>
+<div class="chaptertitle">Prolegomena to Any Future Metaphysics (Excerpts)</div>
+<div class="subsectiontitle">
+INTRODUCTION
+</div>
+
+
+ These <i>Prolegomena</i> are destined for the use, not of pupils,
+but of future teachers, and even the latter should not expect
+that they will be serviceable for the systematic exposition of a
+ready-made science, but merely for the discovery of the science
+itself.
+<p/>
+ There are scholars, to whom the history of philosophy
+(both ancient and modern) is philosophy itself; for these the
+present Prolegomena are not written. They must wait till those
+who endeavor to draw from the fountain of reason itself have
+completed their work; it will then be the historian’s turn to
+inform the world of what has been done. Unfortunately, nothing
+can be said, which in their opinion has not been said before, and
+truly the same prophecy applies to all future time; for since the
+human reason has for many centuries speculated upon innumerable
+objects in various ways, it is hardly to be expected that we
+should not be able to discover analogies for every new idea among
+the old sayings of past ages.
+<p/>
+My object is to persuade all those who think Metaphysics
+worth studying, that it is absolutely necessary to pause a
+moment, and, neglecting all that has been done, to propose first
+the preliminary question, ’Whether such a thing as metaphysics be
+at all possible?’
+<p/>
+
+ If it be a science, how comes it that it cannot, like other
+sciences, obtain universal and permanent recognition ? If not,
+how can it maintain its pretensions, and keep the human mind in
+suspense with hopes, never ceasing, yet never fulfilled? Whether
+then we demonstrate our knowledge or our ignorance in this field,
+we must come once for all to a definite conclusion respecting the
+nature of this so-called science, which cannot possibly remain on
+its present footing. It seems almost ridiculous, while every
+other science is continually advancing, that in this, which
+pretends to be Wisdom incarnate, for whose oracle every one
+inquires, we should constantly move round the same spot, without
+gaining a single step. And so its followers having melted away,
+we do not find men confident of their ability to shine in other
+sciences venturing their reputation here, where everybody,
+however ignorant in other matters, may deliver a final verdict,
+as in this domain there is as yet no standard weight and measure
+to distinguish sound knowledge from shallow talk.
+<p/>
+After all it is nothing extraordinary in the elaboration of
+a science, when men begin to wonder how far it has advanced, that
+the question should at last occur, whether and how such a science
+is possible? Human reason so delights in constructions, that it
+has several times built up a tower, and then razed it to examine
+the nature of the foundation. It is never too late to become
+wise; but if the change comes late, there is always more
+difficulty in starting a reform.
+<p/>
+The question whether a science be possible, presupposes a
+doubt as to its actuality. But such a doubt offends the men whose
+whole possessions consist of this supposed jewel; hence he who
+raises the doubt must expect opposition from all sides. Some, in
+the proud consciousness of their possessions, which are ancient,
+and therefore considered legitimate, will take their metaphysical
+compendia in their hands, and look down on him with contempt;
+others, who never see anything except it be identical with what
+they have seen before, will not understand him, and everything
+will remain for a time, as if nothing had happened to excite the
+concern, or the hope, for an impending change.
+<p/>
+ Nevertheless, I venture to predict that the independent
+reader of these <i>Prolegomena</i> will not only doubt his previous
+science, but ultimately be fully persuaded, that it cannot exist
+unless the demands here stated on which its possibility depends,
+be satisfied; and, as this has never been done, that there is, as
+yet, no such thing as Metaphysics. But as it can never cease to
+be in demand,2 -- since the interests of common sense are
+intimately interwoven with it, he must confess that a radical
+reform, or rather a new birth of the science after an original
+plan, are unavoidable, however men may struggle against it for a
+while.
+<p/>
+Since the Essays of Locke and Leibniz, or rather since the
+origin of metaphysics so far as we know its history, nothing has
+ever happened which was more decisive to its fate than the attack
+made upon it by David Hume. He threw no light on this species of
+knowledge, but he certainly struck a spark from which light might
+have been obtained, had it caught some inflammable substance and
+had its smoldering fire been carefully nursed and developed.
+ <p/>
+ Hume started from a single but important concept in
+Metaphysics, viz., that of Cause and Effect (including its
+derivatives force and action, etc.). He challenges reason, which
+pretends to have given birth to this idea from herself, to answer
+him by what right she thinks anything to be so constituted, that
+if that thing be posited, something else also must necessarily be
+posited; for this is the meaning of the concept of cause. He
+demonstrated irrefutably that it was perfectly impossible for
+reason to think <i>a priori</i> and by means of concepts a combination
+involving necessity. We cannot at all see why, in consequence of
+the existence of one thing, another must necessarily exist, or
+how the concept of such a combination can arise <i>a priori</i>. Hence
+he inferred, that reason was altogether deluded with reference to
+this concept, which she erroneously considered as one of her
+children, whereas in reality it was nothing but a bastard of
+imagination, impregnated by experience, which subsumed certain
+representations under the Law of Association, and mistook the
+subjective necessity of habit for an objective necessity arising
+from insight. Hence he inferred that reason had no power to think
+such, combinations, even generally, because her concepts would
+then be purely fictitious, and all her pretended <i>a priori</i>
+cognitions nothing but common experiences marked with a false
+stamp. In plain language there is not, and cannot be, any such
+thing as metaphysics at all.
+<p/>
+ However hasty and mistaken Hume’s conclusion may appear, it
+was at least founded upon investigation, and this investigation
+deserved the concentrated attention of the brighter spirits of
+his day as well as determined efforts on their part to discover,
+if possible, a happier solution of the problem in the sense
+proposed by him, all of which would have speedily resulted in a
+complete reform of the science.
+<p/>
+But Hume suffered the usual misfortune of metaphysicians, of
+not being understood. It is positively painful to see bow utterly
+his opponents, Reid, Oswald, Beattie, and lastly Priestley,
+missed the point of the problem; for while they were ever taking
+for granted that which he doubted, and demonstrating with zeal
+and often with impudence that which he never thought of doubting,
+they so misconstrued his valuable suggestion that everything
+remained in its old condition, as if nothing had happened.
+<p/>
+<div class="linksRight">
+Hume never doubted the concept of cause, only whether it could be discovered <i>a priori</i>, by <i>analytic</i> reason alone without <i>synthetic</i> experience. This was Hume’s problem.
+</div>
+The question was not whether the concept of cause was right,
+useful, and even indispensable for our knowledge of nature, for
+this Hume had never doubted; but whether that concept could be
+thought by reason <i>a priori</i>, and consequently whether it possessed
+an inner truth, independent of all experience, implying a wider
+application than merely to the objects of experience. This was
+Hume’s problem. It was a question concerning the origin, not
+concerning the indispensable need of the concept. Were the former
+decided, the conditions of the use and the sphere of its valid
+application would have been determined as a matter of course.
+<p/>
+But to satisfy the conditions of the problem, the opponents
+of the great thinker should have penetrated very deeply into the
+nature of reason, so far as it is concerned with pure thinking, - a
+task which did not suit them. They found a more convenient method
+of being defiant without any insight, viz., the appeal to common
+sense. It is indeed a great gift of God, to possess right, or (as
+they now call it) plain common sense. But this common sense must
+be shown practically, by well-considered and reasonable thoughts
+and words, not by appealing to it as an oracle, when no rational
+justification can be advanced. To appeal to common sense, when
+insight and science fail, and no sooner-this is one of the subtle
+discoveries of modern times, by means of which the most
+superficial ranter can safely enter the lists with the most
+thorough thinker, and hold his own. But as long as a particle of
+insight remains, no one would think of having recourse to this
+subterfuge. For what is it but an appeal to the opinion of the
+multitude, of whose applause the philosopher is ashamed, while
+the popular charlatan glories and confides in it? I should think
+that Hume might fairly have laid as much claim to common sense as
+Beattie, and in addition to a critical reason (such as the latter
+did not possess), which keeps common sense in check and prevents
+it from speculating, or, if speculations are under discussion
+restrains the desire to decide because it cannot satisfy itself
+concerning its own arguments. By this means alone can common
+sense remain sound. Chisels and hammers may suffice to work a
+piece of wood, but for steel-engraving we require an engraver’s
+needle. Thus common sense and speculative understanding are each
+serviceable in their own way, the former in judgments which apply
+immediately to experience, the latter when we judge universally
+from mere concepts, as in metaphysics, where sound common sense,
+so called in spite of the inapplicability of the word, has no
+right to judge at all.
+<p/>
+<div class="linksRight">
+Hume’s concern was that we cannot discover from experience alone (e.g., "constant conjunctions") the concept of causality. Inductive logic provides no proof, no necessity.
+</div>
+I openly confess, the suggestion of David Hume was the very
+thing, which many years ago first interrupted my dogmatic
+slumber, and gave my investigations in the field of speculative
+philosophy quite a new direction. I was far from following him in
+the conclusions at which he arrived by regarding, not the whole
+of his problem, but a part, which by itself can give us no
+information. If we start from a well-founded, but undeveloped,
+thought, which another has bequeathed to us, we may well hope by
+continued reflection to advance farther than the acute man, to
+whom we owe the first spark of light.
+<p/>
+<div class="linksRight">
+It is metaphysics that discovers many connections, like that between cause and effect, not from experience, as Hume thought, but from pure understanding. 
+</div>
+I therefore first tried whether Hume’s objection could not
+be put into a general form, and soon found that the concept of
+the connection of cause and effect was by no means the only idea
+by which the understanding thinks the connection of things <i>a
+priori</i>, but rather that metaphysics consists altogether of such
+connections. I sought to ascertain their number, and when I had
+satisfactorily succeeded in this by starting from a single
+principle, I proceeded to the deduction of these concepts, which
+I was now certain were not deduced from experience, as Hume had
+apprehended, but sprang from the pure understanding. This
+deduction (which seemed impossible to my acute predecessor, which
+had never even occurred to any one else, though no one had
+hesitated to use the concepts without investigating the basis of
+their objective validity) was the most difficult task ever
+undertaken in the service of metaphysics; and the worst was that
+metaphysics, such as it then existed, could not assist me in the
+least, because this deduction alone can render metaphysics
+possible. But as soon as I had succeeded in solving Hume’s
+problem not merely in a particular case, but with respect to the
+whole faculty of pure reason, I could proceed safely, though
+slowly, to determine the whole sphere of pure reason completely
+and from general principles, in its circumference as well as in
+its contents. This was required for metaphysics in order to
+construct its system according to a reliable method.
+<p/>
+But I fear that the execution of Hume’s problem in its
+widest extent (viz., my <i>Critique of the Pure Reason</i>) will fare as
+the problem itself fared, when first proposed. It will be
+misjudged because it is misunderstood, and misunderstood because
+men choose to skim through the book, and not to think through its
+disagreeable task, because the work is dry, obscure, opposed to
+all ordinary notions, and moreover long-winded. I confess,
+however, I did not expect, to hear from philosophers complaints
+of want of popularity, entertainment, and facility, when the
+existence of a highly prized and indispensable cognition is at
+stake, which cannot be established otherwise, than by the
+strictest rules of methodic precision. Popularity may follow, but
+is inadmissible at the beginning. Yet as regards a certain
+obscurity, arising partly from the diffuseness of the plan, owing
+to which. the principal points of the investigation are easily
+lost sight of, the complaint is just, and I intend to remove it
+by the present <i>Prolegomena</i>.
+<p/>
+The first-mentioned work, which discusses the pure faculty
+of reason in its whole compass and bounds, will remain the
+foundation, to which the <i>Prolegomena</i>, as a preliminary, exercise,
+refer; for our critique must first be established as a complete
+and perfected science, before we can think of letting Metaphysics
+appear on the scene, or even have the most distant hope of
+attaining it.
+<p/>
+We have been long accustomed to seeing antiquated knowledge
+produced as new by taking it out of its former context, and
+reducing it to system in a new suit of any fancy pattern under
+new titles. Most readers will set out by expecting nothing else
+from the <i>Critique</i>; but these <i>Prolegomena</i> may persuade him that it
+is a perfectly new science, of which no one has ever even
+thought, the very idea of which was unknown, and for which
+nothing hitherto accomplished can be of the smallest use, except
+it be the suggestion of Hume’s doubts. Yet even he did not
+suspect such a formal science, but ran his ship ashore, for
+safety’s sake, landing on skepticism, there to let it lie and
+rot; whereas my object is rather to give it a pilot, who, by
+means of safe astronomical principles drawn from a knowledge of
+the globe, and provided with a complete chart and compass, may
+steer the ship safely, whither he listeth.
+ <p/>
+If in a new science, which is wholly isolated and unique in
+its kind, we started with the prejudice that we can judge of
+things by means of our previously acquired knowledge, which., is
+precisely what has first to be called in question, we should only
+fancy we saw everywhere what we had already known, because the
+expressions, having a similar sound, only that all would appear
+utterly metamorphosed, senseless and unintelligible, because we
+should have as a foundation out own notions, made by long habit a
+second nature, instead of the author’s. But the longwindedness of
+the work, so far as it depends on the subject, and not the
+exposition, its consequent unavoidable dryness and its scholastic
+precision are qualities which can only benefit the science,
+though they may discredit the book.
+<p/>
+Few writers are gifted with the subtlety, and at the same
+time with the grace, of David Hume, or with the depth, as well as
+the elegance, of Moses Mendelssohn. Yet I flatter myself I might
+have made my own exposition popular, had my object been merely to
+sketch out a plan and leave its completion to others instead of
+having my heart in the welfare of the science, to which I had
+devoted myself so long; in truth, it required no little
+constancy, and even self-denial, to postpone the sweets of an
+immediate success to the prospect of a slower, but more lasting,
+reputation.
+<p/>
+Making plans is often the occupation of an opulent and
+boastful mind, which thus obtains the reputation of a creative
+genius, by demanding what it cannot itself supply; by censuring,
+what it cannot improve; and by proposing, what it knows not where
+to find. And yet something more should belong to a sound plan of
+a general critique of pure reason than mere conjectures, if this
+plan is to be other than the usual declamations of pious
+aspirations. But pure reason is a sphere so separate and self-contained,
+that we cannot touch a part without affecting all the
+rest. We can therefore do nothing without first determining the
+position; of each part, and its relation to the rest. For, inasmuch as our
+judgment cannot be corrected by anything without, the validity
+and use of every part depends upon the relation in which it
+stands to all the rest within the domain of reason, just as in the structure of an organized body, the end of each
+member can only be deduced from the full conception of the whole.
+It may, then, be said of such a critique that it is never
+trustworthy except it be perfectly complete, down to the smallest
+elements of pure reason. In the sphere of this faculty you can
+determine either everything or nothing.
+<p/>
+ But although a mere sketch, preceding the <i>Critique of Pure
+Reason</i>, would be unintelligible, unreliable, and useless, it is
+all the more useful as a sequel. For so we are able to grasp the
+whole, to examine in detail the chief points of importance in the
+science, and to improve in many respects our exposition, as
+compared with the first execution of the work.
+<p/>
+That work being completed, I offer here such a plan
+which is sketched out after an analytical method, while the <i>Critique</i>
+itself had to be executed in the synthetical style, in order that
+the science may present all its articulations, as the structure
+of a peculiar cognitive faculty, in their natural combination.
+But should any reader find this plan, which I publish as the
+<i>Prolegomena to Any Future Metaphysics</i>, still obscure, let him
+consider that not every one is bound to study Metaphysics, that
+many minds will succeed very well, in the exact and even in deep
+sciences, 
+<div class="linksRight">
+For Kant, the essence of metaphysics is found in <a href="http://www.metaphysicist.com/problems/anstract.html">abstract concepts</a>
+</div>
+more closely allied to intuition while
+they cannot succeed in investigations dealing exclusively with
+abstract concepts. In such cases men should apply their talents
+to other subjects. But he who undertakes to judge, or still more,
+to construct, a system of Metaphysics, must satisfy the demands
+here made, either by adopting my solution, or by thoroughly
+refuting it, and substituting another. To evade it is impossible.
+In conclusion, let it be remembered that this much-abused
+obscurity (frequently serving as a mere pretext under which
+people hide their own indolence or dullness) has its uses, since
+all who in other sciences observe a judicious silence, speak
+authoritatively in metaphysics and make bold decisions, because
+their ignorance is not here contrasted with the knowledge of
+others. Yet it does contrast with sound critical principles,
+which we may therefore commend in the words of Virgil:
+<p/>
+<blockquote>
+ <i>" Ignavum, fucos, pecus a praesepibus arcent."</i><br/>
+ "Bees are defending their hives against drones, those
+ indolent creatures."
+</blockquote>
+<p/>
+
+
+<div class="linksRight">
+In this section, Kant summarizes the complex and disturbingly obscure ideas of his <i>Critique of Pure Reason</i>
+</div>
+&sect; 26 The third table of Principles drawn from the
+nature of the understanding itself after the critical method,
+shows an inherent perfection, which raises it far above every
+other table which has hitherto though in vain been tried or may
+yet be tried by analyzing the objects themselves dogmatically. It
+exhibits all synthetical <i>a priori</i> principles completely and
+according to one principle, viz., the faculty of judging in
+general, constituting the essence of experience as regards the
+understanding, so that we can be certain that there are no more
+such principles, which affords a satisfaction such as can never
+be attained by the dogmatical method. Yet is this not all: there
+is a still greater merit in it.
+ <p/>
+We must carefully bear in mind the proof which shows the
+possibility of this cognition <i>a priori</i>, and at the same time
+limits all such principles to a condition which must never be
+lost sight of, if we desire it not to be misunderstood, and
+extended in use beyond the original sense which the understanding
+attaches to it. This limit is that they contain nothing but the
+conditions of possible experience in general so far as it is
+subjected to laws <i>a priori</i>. Consequently I do not say, that
+things <i>in themselves</i> possess a quantity, that their actuality
+possesses a degree, their existence a connection of accidents in
+a substance, etc. This nobody can prove, because such a
+synthetical connection from mere concepts, without any reference
+to sensuous intuition on the one side, or connection of it in a
+possible experience on the other, is absolutely impossible. The
+essential limitation of the concepts in these principles then is:
+That all things stand necessarily <i>a priori</i> under the
+aforementioned conditions, as objects of experience only.
+ <p/>
+<div class="linksRight">
+Kant seems to think "appearances" are material and not carrying any form (information?) Yet that which is in appearances does not itself occupy any part of space or of time (thus immaterial?)
+</div>
+Hence there follows secondly a specifically peculiar mode of
+proof of these principles: they are not directly referred to
+appearances and to their relations, but to the possibility of
+experience, of which appearances constitute the matter only, not
+the form. Thus they are referred to objectively and universally
+valid synthetical propositions, in which we distinguish judgments
+of experience from those of perception. This takes place because
+appearances, as mere intuitions, <i>occupying a part of space and
+time</i>, come under the concept of Quantity, which unites their
+multiplicity <i>a priori</i> according to rules synthetically. Again, so
+far as the perception contains, besides intuition, sensibility,
+and between the latter and nothing (i.e., the total disappearance
+of sensibility), there is an ever-decreasing transition, it is
+apparent that that which is in appearances must have a degree, so
+far as it (viz., the perception) <i>does not itself occupy any part
+of space or of time</i>. Still the transition to actuality from
+empty time or empty space is only possible in time; consequently
+though sensibility, as the quality of empirical intuition, can
+never be known <i>a priori</i>, by its specific difference from other
+sensibilities, yet it can, in a possible experience in general,
+as a quantity of perception be intensely distinguished from every
+other similar perception. Hence the application of mathematics to
+nature, as regards the sensuous intuition by which nature is
+given to us, becomes possible and is thus determined.
+ <p/>
+Above all, the reader must pay attention to the mode of
+proof of the principles which occur under the title of Analogies
+of Experience. For these do not refer to the genesis of
+intuitions, as do the principles of applied mathematics, but to
+the connection of their existence in experience; and this can be
+nothing but the determination of their existence in time
+according to necessary laws, under which alone the connection is
+objectively valid, and thus becomes experience. The proof
+therefore does not turn on the synthetical unity in the
+connection of things in themselves, but merely of perceptions,
+and of these not in regard to their matter, but to the
+determination of time and of the relation of their existence in
+it, according to universal laws. If the empirical determination
+in relative time is indeed objectively valid (i.e., experience),
+these universal laws contain the necessary determination of
+existence in time generally (viz., according to a rule of the
+understanding <i>a priori</i>).
+<p/>
+In these <i>Prolegomena</i> I cannot further descant on the
+subject, but my reader (who has probably been long accustomed to
+consider experience a mere empirical synthesis of perceptions,
+and hence not considered that it goes much beyond them, as it
+imparts to empirical judgments universal validity, and for that
+purpose requires a pure and <i>a priori</i> unity of the understanding)
+is recommended to pay special attention to this distinction of
+experience from a mere aggregate of perceptions, and to judge the
+mode of proof from this point of view.
+<p/>
+&sect; 27  Now we are prepared to remove Hume’s doubt. He
+justly maintains, that we cannot comprehend by reason the
+possibility of Causality, that is, of the reference of the
+existence of one thing to the existence of another, which is
+necessitated by the former. I add, that we comprehend just as
+little the concept of Subsistence, that is, the necessity that at
+the foundation of the existence of things there lies a subject
+which cannot itself be a predicate of any other thing; nay, we
+cannot even form a notion of the possibility of such a thing
+(though we can point out examples of its use in experience). The
+very same incomprehensibility affects the Community of things, as
+we cannot comprehend bow from the state of one thing an inference
+to the state of quite another thing beyond it, and vice versa,
+can be drawn, and how substances which have each their own
+separate existence should depend upon one another necessarily.
+But I am very far from holding these concepts to be derived
+merely from experience, and the necessity represented in them, to
+be imaginary and a mere illusion produced in us by long habit. On
+the contrary, I have amply shown, that they and the theorems
+derived from them are firmly established <i>a priori</i>, or before all
+experience, and have their undoubted objective value, though only
+with regard to experience.
+<p/>
+&sect; 28 Though I have no notion of such a connection of
+things in themselves, that they can either exist as substances,
+or act as causes, or stand in community with others (as parts of
+a real whole), and I can just as little conceive such properties
+in appearances as such (because those concepts contain nothing
+that lies in the appearances, but only what the understanding
+alone must think): we have yet a notion of such a connection of
+representations in our understanding, and in judgments generally;
+consisting in this that representations appear in one sort of
+judgments as subject in relation to predicates, in another as
+reason in relation to consequences, and in a third as parts,
+which constitute together a total possible cognition. Besides we
+know <i>a priori</i> that without considering the representation of an
+object as determined in some of these respects, we can have no
+valid cognition of the object, and, if we should occupy ourselves
+about the object in itself, there is no possible attribute, by
+which I could know that it is determined under any of these
+aspects, that is, under the concept either of substance, or of
+cause, or (in relation to other substances) of community, for I
+have no notion of the possibility of such a connection of
+existence. But the question is not how things in themselves, but
+how the empirical cognition of things is determined as regards
+the above aspects of judgments in general, that is, how things,
+as objects of experience, can and shall be subsumed under these
+concepts of the understanding. And then it is clear, that I
+completely comprehend not only the possibility, but also the
+necessity of subsuming all phenomena under these concepts, that
+is, of using them for principles of the possibility of
+experience.
+<p/>
+ &sect; 29  When making an experiment with Hume’s
+problematical concept (his <i>crux metaphysicorum</i>), the concept of
+cause, we have, in the first place, given <i>a priori</i>, by means of
+logic, the form of a conditional judgment in general, i.e., we
+have one given cognition as antecedent and another as
+consequence. But it is possible, that in perception we may meet
+with a rule of relation, which runs thus: that a certain
+phenomenon is constantly followed by another (though not
+conversely), and this is a case for me to use the hypothetical
+judgment, and, for instance, to say, if the sun shines long
+enough upon a body, it grows warm. Here there is indeed as yet no
+necessity of connection, or concept of cause. But I proceed and
+say, that if this proposition, which is merely a subjective
+connection of perceptions, is to be a judgment of experience, it
+must be considered as necessary and universally valid. Such a
+proposition would be, "the sun is by its light the cause of
+heat." The empirical rule is now considered as a law, and as
+valid not merely of appearances but valid of them for the
+purposes of a possible experience which requires universal and
+therefore necessarily valid rules. 
+ <div class="linksRight" style="width:150px;">
+Cause is a necessary concept for the <i>form</i> of experience, a synthetic union of perceptions 
+</div>
+I therefore easily comprehend
+the concept of cause, as a concept necessarily belonging to the
+mere form of experience, and its possibility as a synthetical
+union of perceptions in consciousness generally; but I do not at
+all comprehend the possibility of a thing generally as a cause,
+because the concept of cause denotes a condition not at all
+belonging to things, but to experience. It is nothing in fact but
+an objectively valid cognition of appearances and of their
+succession, so far as the antecedent can be conjoined with the
+consequent according to the rule of hypothetical judgments.
+<p/>
+ &sect; 30  Hence if the pure concepts of the understanding do
+not refer to objects of experience but to things in themselves
+(noumena), they have no signification whatever. They serve, as it
+were, only to decipher appearances, that we may be able to read
+them as experience. The principles which arise from their
+reference to the sensible world, only serve our understanding for
+empirical use. Beyond this they are arbitrary combinations,
+without objective reality, and we can neither know their
+possibility <i>a priori</i>, nor verify their reference to objects, let
+alone make it intelligible by any example; because examples can
+only be borrowed from some possible experience, consequently the
+objects of these concepts can be found nowhere but in a possible
+experience.
+ <p/>
+ <div class="linksRight" style="width:150px;">
+Here is Kant's "second Copernican revolution," in which reason imposes concepts and necessary and universally valid laws (analytically) rather than abstracting them (synthetically) from experience 
+</div>
+This complete (though to its originator unexpected) solution
+of Hume’s problem rescues for the pure concepts of the
+understanding their <i>a priori</i> origin, and for the universal laws
+of nature their validity, as laws of the understanding,  yet in
+such a way as to limit their use to experience, because their
+possibility depends solely on the reference of the understanding
+to experience, but with a completely reversed mode of connection
+which never occurred to Hume, not by deriving them from
+experience, but by deriving experience from them.
+ <p/>
+ This is therefore the result of all our foregoing inquiries:
+"All synthetical principles <i>a priori</i> are nothing more than
+principles of possible experience, and can never be referred to
+things in themselves, but to appearances as objects of
+experience. And hence pure mathematics as well as a pure science
+of nature can never be referred to anything more than mere
+appearances, and can only represent either that which makes
+experience generally possible, or else that which, as it is
+derived from these principles, must always be capable of being
+represented in some possible experience."
+<p/>
+
+<div id="skyFooter2865" class="skyFooter">
+
+<script type="text/javascript" language="javascript">
+document.onclick = fDocumentOnClick;
+document.ondblclick = fDocumentOnDblClick;
+document.onkeypress = fDocumentOnKeyPress;
+document.onmouseover = fSkyWritableOver;
+</script>
+<div class="skyFooterText">
+</div>
+
+</div>
+
+		<!-- 
+		     server side readerlevel control links
+		     <a id="reader_level_0_link" href="?ReaderLevel=0">0</a> | <a id="reader_level_1_link" href="?ReaderLevel=1">1</a> | <a id="reader_level_2_link" href="?ReaderLevel=2">2</a>
+		     -->
+		<!-- client side readerlevel control links -->
+		<a id="reader_level_0_link" href="" onclick="fSetReaderLevel(0); return false;">Normal</a> | <a id="reader_level_1_link" href="" onclick="fSetReaderLevel(1); return false;">Teacher</a> | <a id="reader_level_2_link" href="" onclick="fSetReaderLevel(2); return false;">Scholar</a>
+	      </div>
+	    </div>
+	    <!-- end column23 -->
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    
+            
+    
+    <!-- stop index links -->
+    <div style="clear:both"></div>
+    <!-- suppresses blue main-menu background repeating down the whole page in mozilla -->
+    </div>
+    <!-- end content-wrapper -->
+    <!-- 
+    when serializing the footer, pull everything above this line out into the includer so that the skyInclude div won't get crossed with content-wrapper
+    dtd 
+    -->
+    
+    <div id="footer">
+    <a href="http://www.informationphilosopher.com/introduction/contact.html">Contact Us</a><a href="http://www.informationphilosopher.com/site/map/">Site Map</a>  <a href="http://www.skybuilders.com">Powered by skyBuilders <img class="cc" src="/images/nanoSky.gif" alt="skyBuilders.com" border="0"></a> <a rel="license" href="http://creativecommons.org/licenses/by/3.0"  title="Creative Commons Attribution License">Creative Commons Attribution License <img class="cc" alt="Creative Commons Attribution License" src="/images/CC.png" border="0"></a>
+    </div>
+
+    </body>
+</html>

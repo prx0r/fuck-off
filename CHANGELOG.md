@@ -789,3 +789,18 @@ Autonomous build of 7 infrastructure kernels inspired by the patala v2/v3 GEMs +
   **L09 (teaching/evolution) is mechanism-proven but not yet production-integrated**; the true gaps are
   the corpus-wide IPVV graduation, the 3 v3 needs-build products, and gaps A (context paging) + E
   (signed attestation).
+
+## 2026-08-14 (AUTONOMOUS BUILD — the full organism + site + edge layer)
+- **`lib/ingestion_organism.py`** (10/10) — the priority-driven refinery: untranslated Sanskrit docs enter a
+  queue, prioritized by `next_action` (deterministic), rights-gated, refined through the LAYERS chain,
+  verified by the primary-source gate, committed content-addressed, re-prioritized by learner feedback.
+- **`scripts/build-static-site.py`** — the projection compiler → real static site: 31 concept pages (0-JS,
+  JSON-LD, canonical) + 6 argument pages + sitemap + search index. Now also compiles the **REAL patala
+  corpus** (254 works, 49 IPVV passages, 9 clusters) read-only from agentpatala's data.
+- **`web/` — the Astro site** (35 pages): index + concepts + bibliography + passages + themes. 0-JS,
+  semantic HTML, JSON-LD, canonical URLs, immutable hash. Builds clean.
+- **`edge/` — the Cloudflare layer**: `worker.js` (R2/CDN-cached static + ETag/304 + API + MCP 8-tool) +
+  `wrangler.toml` (deploy config) + `server.py` (local API/MCP server over the compiled site, verified live).
+- **`edge/server.py`** verified: /api/health, /api/v1/concepts/{slug}?view=, /api/v1/search, POST /mcp all work.
+- Integrated what agentpatala serves (real bibliography/passages/themes) into my read plane — read-only.
+- **76/76 tests, 38 kernels, 35 PROVEN / 40 mech / 0 unproven, 76-matrix.**

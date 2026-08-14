@@ -1,0 +1,671 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+  <head>
+<meta name="generator" content="skyBuilders.com timeLines">
+<link rel="stylesheet" href="https://www.informationphilosopher.com/timelines/PageFooter.css"><script type="text/javascript" language="javascript"><!-- 
+if (typeof SymRealWinOpen == 'function') {
+window.open = SymRealWinOpen;
+}
+//--></script>
+
+<script type="text/javascript" language="javascript">
+var sPageSeriesName = "status_report.html";
+var sRequestedFileName = "status_report.1.en.html";
+var sSkyPageID = "2776";
+function mSkyWrite() {
+window.open('/timelines/index.html?skyWrite=True&UserID=3&chosenLocaleCode=en&PageSeriesID=1704&PageID=2776&DirPath=%2Fpresentations%2FBiosemiotics%2F', '_blank', 'resizable,menubar,location,toolbar,scrollbars,status,height=600,width=832,left=250,top=50', true);
+}
+var sCurrentlyOverDocument = 1;
+
+function fGetPagePos(oElement, sDimension) {
+  var sPagePos;
+  
+  if (! (oElement = document.getElementById(oElement))) {
+    return 0;
+  }
+  
+  sPagePos = 0;
+  
+  // alert(oElement);
+  while (oElement) {
+    if (typeof(oElement['offset' + sDimension]) != 'undefined') {
+      sPagePos += oElement['offset' + sDimension];
+    }
+    // alert(typeof oElement.offsetParent);
+    if (typeof(oElement.offsetParent) != 'undefined') {
+      oElement = oElement.offsetParent;
+    } else {
+      oElement = null;
+    }
+  }
+  
+  return sPagePos;
+}
+
+function fSkyWritableOver(sDivID, oEvent) {
+  var oDiv;
+  
+  if (oEvent) {
+    sElement = (oEvent.target) ? oEvent.target : oEvent.srcElement;
+    if ((sElement.id == 'skyIncludeEditablePencilImg') || (sElement.id == 'skyIncludeEditableCornerImg')){
+      window.status = 'click to edit';
+    }
+  }
+  
+  // alert(typeof sDivID);
+  if (typeof sDivID == 'string') {
+    sCurrentlyOverDocument = 0;
+    oDiv = document.getElementById(sDivID);
+    oPencil = document.getElementById('skyIncludeEditablePencil');
+    oCorner = document.getElementById('skyIncludeEditableCorner');
+    // sDivTop = oDiv.offsetTop;
+    sDivTop = fGetPagePos(sDivID, 'Top');
+    sDivLeft = fGetPagePos(sDivID, 'Left');
+    sDivWidth = oDiv.offsetWidth;
+    sDivHeight = oDiv.offsetHeight;
+    // alert('div: ' + sDivTop);
+    // alert(sDivWidth);
+    
+    oPencil.style.top = sDivTop + 'px';
+    oPencil.style.left = (sDivLeft + sDivWidth - 21) + 'px';
+    oCorner.style.top = (sDivTop + sDivHeight - 11) + 'px';
+    oCorner.style.left = sDivLeft + 'px';
+    // oSkyIncludeEditable.style.height = '0px';
+    // oSkyIncludeEditable.style.border = '#0000ff dashed 1px';
+    oPencil.style.width = '21px';
+    oPencil.style.height = '19px';
+    oPencil.style.zIndex = '101';
+    oPencil.onmouseover = oDiv.onmouseover;
+    oPencil.onmouseout = oDiv.onmouseout;
+    oPencil.onclick = oDiv.onclick;
+    oCorner.style.width = '10px';
+    oCorner.style.height = '9px';
+    oCorner.style.zIndex = '101';
+    oCorner.onmouseover = oDiv.onmouseover;
+    oCorner.onmouseout = oDiv.onmouseout;
+    oCorner.onclick = oDiv.onclick;
+    // oSkyIncludeEditable.style.display = 'block';
+    
+    // sSkyIncludeEditableTop = oSkyIncludeEditable.style.top;
+    // alert('skyinclude: ' + sSkyIncludeEditableTop);
+    
+    if (0) {
+      oDiv.style.borderWidth = '1px';
+      oDiv.style.borderStyle = 'dashed';
+      oDiv.style.borderColor = '#0000ff';
+    }
+  } else {
+    // sCurrentlyOverDocument = 1;
+  }
+}
+
+function fSkyWritableOut(sDivID) {
+  var oDiv;
+  
+  window.status = '';
+  
+  if (typeof sDivID == 'string') {
+    sCurrentlyOverDocument = 1;
+    // oDiv = document.getElementById(sDivID);
+    // doesn't work in IE: oDiv.style.border = '1px solid transparent';
+    // document.getElementById('skyIncludeEditable').style.display = 'none';
+    document.getElementById('skyIncludeEditablePencil').style.zIndex = '-1';
+    document.getElementById('skyIncludeEditablePencil').style.top = '-100';
+    document.getElementById('skyIncludeEditableCorner').style.zIndex = '-1';
+    document.getElementById('skyIncludeEditableCorner').style.top = '-100';
+    // oDiv.style.border = '1px solid #ffffff';
+  }
+}
+
+function fDocumentOnClick(oEvent) {
+  // alert(sCurrentlyOverDocument);
+  // if (0) {
+  if (sCurrentlyOverDocument == 1) {
+    fSkyWriteInclude(1704, 2776, '/presentations/Biosemiotics/', oEvent);
+  }
+}
+
+function fAsOfNow() {
+  document.cookie = 'as_of=; path=/; domain=informationphilosopher.com';
+  document.location.href = '?@=now';
+}
+
+function fSubmitAsOfForm() {
+  oYearInput = document.getElementById('as_of_year');
+  oMonthInput = document.getElementById('as_of_month');
+  oDayInput = document.getElementById('as_of_day');
+  oHourInput = document.getElementById('as_of_hour');
+  oMinuteInput = document.getElementById('as_of_minute');
+  oSecondInput = document.getElementById('as_of_second');
+
+  sAsOf = oYearInput.value + '-' + oMonthInput.value + '-' + oDayInput.value + 'T' + oHourInput.value + ':' + oMinuteInput.value + ':' + oSecondInput.value;
+  document.location.href = '?@=' + sAsOf;
+}
+
+var aAsOfInputs = [
+  'as_of_year',
+  'as_of_month',
+  'as_of_day',
+  'as_of_hour',
+  'as_of_minute',
+  'as_of_second',
+];
+
+function fAsOfOnKeyUp(e) {
+  // Handle the Enter key
+  if (e.key == 'Enter') {
+     fSubmitAsOfForm();
+  }
+}
+
+function fAsOfOnInput(e) {
+  fAsOfNextInput(e.target);
+}
+
+function fAsOfNextInput(oInput) {
+  // Handle giving focus to the next input when this one is at max length
+  sMaxLen = String(oInput.max +'').length;
+
+  if (oInput.value.length == sMaxLen) {
+     // Find which input, if any, is next in the sequence
+     sNextIndex = aAsOfInputs.indexOf(oInput.id) + 1;
+     if (sNextIndex < aAsOfInputs.length) {
+     	oNext = document.getElementById(aAsOfInputs[sNextIndex]);
+	oNext.focus();
+	oNext.select();
+     }
+  }
+}
+
+function fDismissAsOfForm() {
+  var oDiv = document.getElementById('as_of_div');
+  if (oDiv) {
+    oDiv.style.display = 'none';
+  }
+}
+
+function fOpenAsOfForm() {
+  var oDiv = document.getElementById('as_of_div');
+  if (oDiv) {
+    oDisplaySpan = document.getElementById('as_of_display');
+    oYearInput = document.getElementById('as_of_year');
+    oMonthInput = document.getElementById('as_of_month');
+    oDayInput = document.getElementById('as_of_day');
+    oHourInput = document.getElementById('as_of_hour');
+    oMinuteInput = document.getElementById('as_of_minute');
+    oSecondInput = document.getElementById('as_of_second');
+  } else {
+    var oDiv = document.createElement('div');
+    oDiv.id = 'as_of_div';
+
+    var oForm = document.createElement('form');
+    oForm.style = 'margin-block-end: 0;';
+    oForm.id = 'as_of_form';
+    oForm.name = 'as_of_form';
+    oForm.onsubmit = fSubmitAsOfForm;
+    oDiv.appendChild(oForm);
+
+    var oGrid = document.createElement('div');
+    oGrid.style = 'display: grid; grid-template-columns: max-content min-content min-content min-content min-content min-content 1fr;';
+    oGrid.ondblclick = null;
+    oForm.appendChild(oGrid);
+
+    var oHeader = document.createElement('div');
+    oHeader.style = 'grid-column: 1; grid-row: 1; margin-top: 7px; padding-right: 5px;';
+    oHeader.appendChild(document.createTextNode('Showing page as of '));
+    oDisplaySpan = document.createElement('span');
+    oDisplaySpan.id = 'as_of_display';
+    oHeader.appendChild(oDisplaySpan)
+    oHeader.appendChild(document.createTextNode('. Choose date and time:'));
+    oGrid.appendChild(oHeader);
+
+    var oYearDiv = document.createElement('div');
+    oYearDiv.className = 'as_of_input_div';
+    oYearDiv.style = 'grid-column: 2; grid-row: 1;';
+    oGrid.appendChild(oYearDiv);
+
+    var oYearInput = document.createElement('input');
+    oYearInput.id = 'as_of_year';
+    oYearInput.type = 'number';
+    oYearInput.min = 1970;
+    oYearInput.max = 9999;
+    oYearInput.oninput = fAsOfOnInput;
+    oYearInput.onkeyup = fAsOfOnKeyUp;
+    oYearDiv.appendChild(oYearInput);
+
+    oYearDiv.appendChild(document.createTextNode('-'));
+
+    var oMonthDiv = document.createElement('div');
+    oMonthDiv.className = 'as_of_input_div';
+    oMonthDiv.style = 'grid-column: 3; grid-row: 1;';
+    oGrid.appendChild(oMonthDiv);
+
+    var oMonthInput = document.createElement('input');
+    oMonthInput.id = 'as_of_month';
+    oMonthInput.type = 'number';
+    oMonthInput.min = 1;
+    oMonthInput.max = 12;
+    oMonthInput.oninput = fAsOfOnInput;
+    oMonthInput.onkeyup = fAsOfOnKeyUp;
+    oMonthDiv.appendChild(oMonthInput);
+
+    oMonthDiv.appendChild(document.createTextNode('-'));
+
+    var oDayDiv = document.createElement('div');
+    oDayDiv.className = 'as_of_input_div';
+    oDayDiv.style = 'grid-column: 4; grid-row: 1; padding-right: 5px';
+    oGrid.appendChild(oDayDiv);
+
+    var oDayInput = document.createElement('input');
+    oDayInput.id = 'as_of_day';
+    oDayInput.type = 'number';
+    oDayInput.min = 1;
+    oDayInput.max = 31;
+    oDayInput.oninput = fAsOfOnInput;
+    oDayInput.onkeyup = fAsOfOnKeyUp;
+    oDayDiv.appendChild(oDayInput);
+
+    var oHourDiv = document.createElement('div');
+    oHourDiv.className = 'as_of_input_div';
+    oHourDiv.style = 'grid-column: 5; grid-row: 1;';
+    oGrid.appendChild(oHourDiv);
+
+    var oHourInput = document.createElement('input');
+    oHourInput.id = 'as_of_hour';
+    oHourInput.type = 'number';
+    oHourInput.min = 0;
+    oHourInput.max = 23;
+    oHourInput.oninput = fAsOfOnInput;
+    oHourInput.onkeyup = fAsOfOnKeyUp;
+    oHourDiv.appendChild(oHourInput);
+
+    oHourDiv.appendChild(document.createTextNode(':'));
+
+    var oMinuteDiv = document.createElement('div');
+    oMinuteDiv.className = 'as_of_input_div';
+    oMinuteDiv.style = 'grid-column: 6; grid-row: 1;';
+    oGrid.appendChild(oMinuteDiv);
+
+    var oMinuteInput = document.createElement('input');
+    oMinuteInput.id = 'as_of_minute';
+    oMinuteInput.type = 'number';
+    oMinuteInput.min = 0;
+    oMinuteInput.max = 59;
+    oMinuteInput.oninput = fAsOfOnInput;
+    oMinuteInput.onkeyup = fAsOfOnKeyUp;
+    oMinuteDiv.appendChild(oMinuteInput);
+
+    oMinuteDiv.appendChild(document.createTextNode(':'));
+
+    var oSecondDiv = document.createElement('div');
+    oSecondDiv.className = 'as_of_input_div';
+    oSecondDiv.style = 'grid-column: 7; grid-row: 1;';
+    oGrid.appendChild(oSecondDiv);
+
+    var oSecondInput = document.createElement('input');
+    oSecondInput.id = 'as_of_second';
+    oSecondInput.type = 'number';
+    oSecondInput.min = 0;
+    oSecondInput.max = 59;
+    oSecondInput.oninput = fAsOfOnInput;
+    oSecondInput.onkeyup = fAsOfOnKeyUp;
+    oSecondDiv.appendChild(oSecondInput);
+
+    var oSecondDiv = document.createElement('div');
+    oSecondDiv.className = 'as_of_input_div';
+    oSecondDiv.style = 'grid-column: 7; grid-row: 1;';
+    oGrid.appendChild(oSecondDiv);
+
+    var oButtonsDiv = document.createElement('div');
+    oButtonsDiv.style = 'grid-column: 8; grid-row: 1 /3; padding-top: 2px; text-align: right;';
+    oEnterButton = document.createElement('button');
+    oEnterButton.style = 'margin-bottom: 5px; margin-right: 5px;';
+    oEnterButton.onclick = fSubmitAsOfForm;
+    oEnterButton.appendChild(document.createTextNode('Enter'));
+    oButtonsDiv.appendChild(oEnterButton);
+    oNowButton = document.createElement('button');
+    oNowButton.style = 'margin-bottom: 5px;';
+    oNowButton.onclick = fAsOfNow;
+    oNowButton.appendChild(document.createTextNode('Now'));
+    oButtonsDiv.appendChild(oNowButton);
+    oButtonsDiv.appendChild(document.createElement('br'));
+    oDismissButton = document.createElement('button');
+    oDismissButton.onclick = fDismissAsOfForm;
+    oDismissButton.appendChild(document.createTextNode('Dismiss'));
+    oButtonsDiv.appendChild(oDismissButton);
+    oGrid.appendChild(oButtonsDiv);
+
+    var oErrorHeader = document.createElement('div');
+    oErrorHeader.style = 'grid-column: 1; grid-row: 2; padding-right: 5px; font-weight: bold;';
+    oErrorHeader.appendChild(document.createTextNode(''));
+    oGrid.appendChild(oErrorHeader);
+
+    var oYearLabelDiv = document.createElement('div');
+    oYearLabelDiv.className = 'as_of_label';
+    oYearLabelDiv.style = 'grid-column: 2;';
+    oGrid.appendChild(oYearLabelDiv);
+    oYearLabelDiv.appendChild(document.createTextNode('Year'));
+    oYearLabelDiv.appendChild(document.createElement('br'));
+    oYearLabelDiv.appendChild(document.createTextNode('YYYY'));
+
+    var oMonthLabelDiv = document.createElement('div');
+    oMonthLabelDiv.className = 'as_of_label';
+    oMonthLabelDiv.style = 'grid-column: 3;';
+    oGrid.appendChild(oMonthLabelDiv);
+    oMonthLabelDiv.appendChild(document.createTextNode('Month'));
+    oMonthLabelDiv.appendChild(document.createElement('br'));
+    oMonthLabelDiv.appendChild(document.createTextNode('01-12'));
+
+    var oDayLabelDiv = document.createElement('div');
+    oDayLabelDiv.className = 'as_of_label';
+    oDayLabelDiv.style = 'grid-column: 4;';
+    oGrid.appendChild(oDayLabelDiv);
+    oDayLabelDiv.appendChild(document.createTextNode('Day'));
+    oDayLabelDiv.appendChild(document.createElement('br'));
+    oDayLabelDiv.appendChild(document.createTextNode('01-31'));
+
+    var oHourLabelDiv = document.createElement('div');
+    oHourLabelDiv.className = 'as_of_label';
+    oHourLabelDiv.style = 'grid-column: 5;';
+    oGrid.appendChild(oHourLabelDiv);
+    oHourLabelDiv.appendChild(document.createTextNode('Hour'));
+    oHourLabelDiv.appendChild(document.createElement('br'));
+    oHourLabelDiv.appendChild(document.createTextNode('00-23'));
+
+    var oMinuteLabelDiv = document.createElement('div');
+    oMinuteLabelDiv.className = 'as_of_label';
+    oMinuteLabelDiv.style = 'grid-column: 6;';
+    oGrid.appendChild(oMinuteLabelDiv);
+    oMinuteLabelDiv.appendChild(document.createTextNode('Minute'));
+    oMinuteLabelDiv.appendChild(document.createElement('br'));
+    oMinuteLabelDiv.appendChild(document.createTextNode('00-59'));
+
+    var oSecondLabelDiv = document.createElement('div');
+    oSecondLabelDiv.className = 'as_of_label';
+    oSecondLabelDiv.style = 'grid-column: 7;';
+    oGrid.appendChild(oSecondLabelDiv);
+    oSecondLabelDiv.appendChild(document.createTextNode('Second'));
+    oSecondLabelDiv.appendChild(document.createElement('br'));
+    oSecondLabelDiv.appendChild(document.createTextNode('00-59'));
+
+    document.body.insertBefore(oDiv, document.body.firstChild);
+  }
+
+  oYearInput.value = '2026';
+  oMonthInput.value = '07';
+  oDayInput.value = '29';
+  oHourInput.value = '20';
+  oMinuteInput.value = '11';
+  oSecondInput.value = '14';
+
+  oDisplaySpan.innerText = oYearInput.value + '-' + oMonthInput.value + '-' + oDayInput.value + ' ' + oHourInput.value + ':' + oMinuteInput.value + ':' + oSecondInput.value;
+
+  oDiv.style.display = 'block';
+
+  oYearInput.focus();
+  oYearInput.select();
+}
+
+function fDocumentOnDblClick(oEvent) {
+  fOpenAsOfForm();
+}
+
+function fDocumentOnKeyPress(oEvent) {
+  // The @ symbol
+  if ((oEvent.shiftKey) && (oEvent.code == 'Digit2')) {
+    fOpenAsOfForm();
+  }
+}
+
+document.addEventListener('DOMContentLoaded', function(event) {
+  if ('' != '') {
+     document.cookie = 'as_of=; path=/; domain=informationphilosopher.com';
+     fOpenAsOfForm();
+  }
+});
+
+
+function fSkyWriteInclude(sPageSeriesID, sPageID, sDirPath, oEvent) {
+var sIndicatorClicked, sControlKeyPressed, sShiftKeyPressed;
+var sElement;
+
+// check for shift or control key depressed
+oEvent = (oEvent) ? oEvent : (window.event) ? window.event : ''
+
+sIndicatorClicked = 0;
+sControlKeyPressed = 0;
+sShiftKeyPressed = 0;
+if (oEvent) {
+  sModifierPressed = '';
+  
+  sElement = (oEvent.target) ? oEvent.target : oEvent.srcElement;
+  // alert(sElement.id);
+  
+  if ((sElement.id == 'skyIncludeEditablePencilImg') || (sElement.id == 'skyIncludeEditableCornerImg')){
+    sIndicatorClicked = 1;
+  }
+  
+  if (oEvent.which) {
+    if (oEvent.ctrlKey) {
+      sControlKeyPressed = 1;
+    }
+  } else {
+    if (oEvent.modifiers) {
+      if (oEvent.modifiers && oEvent.CTRL_MASK) {
+        // sControlKeyPressed = oEvent.modifiers;
+        sControlKeyPressed = 1;
+      }
+    } else {
+      if (oEvent.ctrlKey) {
+        sControlKeyPressed = 1;
+      }
+    }
+  }
+  
+  if (oEvent.which) {
+    if (oEvent.shiftKey) {
+      sShiftKeyPressed = 1;
+    }
+  } else {
+    if (oEvent.modifiers) {
+      if (oEvent.modifiers && oEvent.SHIFT_MASK) {
+        // sShiftKeyPressed = oEvent.modifiers;
+        sShiftKeyPressed = 1;
+      }
+    } else {
+      if (oEvent.shiftKey) {
+        sShiftKeyPressed = 1;
+      }
+    }
+  }
+}
+
+// if shift or control key pressed
+if ((sIndicatorClicked) || (sControlKeyPressed == 1) || (sShiftKeyPressed == 1)) {
+  // alert('pressed');
+  window.open('https://www.informationphilosopher.com/timelines/index.html?skyWrite=True&PageSeriesID=' + sPageSeriesID + '&PageID=' + sPageID + '&DirPath=' + sDirPath, '_blank', 'menubar,toolbar,location,resizable,scrollbars,status,height=600,width=832,left=250,top=50', true);
+}
+}
+    
+</script>
+    <title>Biosemiotics and Information Philosophy</title>
+  </head>
+<body>
+<div style="width:500px;">
+<div class="chaptertitle" align="center">
+The Status Of Biosemiotics
+</div>
+<hr/>
+<div class="sectiontitle">
+Report on the 2015 Workshop at UC Berkeley 
+</div>
+<div style="width:500px;">
+<blockquote>
+
+<style type="text/css">ol{margin:0;padding:0}.c0{color:#1155cc;font-size:10pt;background-color:#ffffff;text-decoration:underline}.c4{widows:2;orphans:2;height:11pt;direction:ltr}.c6{max-width:468pt;background-color:#ffffff;padding:72pt 72pt 72pt 72pt}.c5{widows:2;orphans:2;direction:ltr}.c1{color:#222222;font-size:10pt;background-color:#ffffff}.c3{color:inherit;text-decoration:inherit}.c2{font-style:italic}.c7{text-decoration:underline}.title{widows:2;padding-top:0pt;line-height:1.15;orphans:2;text-align:left;color:#000000;font-size:21pt;font-family:"Trebuchet MS";padding-bottom:0pt;page-break-after:avoid}.subtitle{widows:2;padding-top:0pt;line-height:1.15;orphans:2;text-align:left;color:#666666;font-style:italic;font-size:13pt;font-family:"Trebuchet MS";padding-bottom:10pt;page-break-after:avoid}li{color:#000000;font-size:11pt;font-family:"Arial"}p{color:#000000;font-size:11pt;margin:0;font-family:"Arial"}h1{widows:2;padding-top:10pt;line-height:1.15;orphans:2;text-align:left;color:#000000;font-size:16pt;font-family:"Trebuchet MS";padding-bottom:0pt;page-break-after:avoid}h2{widows:2;padding-top:10pt;line-height:1.15;orphans:2;text-align:left;color:#000000;font-size:13pt;font-family:"Trebuchet MS";font-weight:bold;padding-bottom:0pt;page-break-after:avoid}h3{widows:2;padding-top:8pt;line-height:1.15;orphans:2;text-align:left;color:#666666;font-size:12pt;font-family:"Trebuchet MS";font-weight:bold;padding-bottom:0pt;page-break-after:avoid}h4{widows:2;padding-top:8pt;line-height:1.15;orphans:2;text-align:left;color:#666666;font-size:11pt;text-decoration:underline;font-family:"Trebuchet MS";padding-bottom:0pt;page-break-after:avoid}h5{widows:2;padding-top:8pt;line-height:1.15;orphans:2;text-align:left;color:#666666;font-size:11pt;font-family:"Trebuchet MS";padding-bottom:0pt;page-break-after:avoid}h6{widows:2;padding-top:8pt;line-height:1.15;orphans:2;text-align:left;color:#666666;font-style:italic;font-size:11pt;font-family:"Trebuchet MS";padding-bottom:0pt;page-break-after:avoid}</style><p class="c5"><span class="c1">
+
+Three weeks ago, Terry invited me to attend his recent workshop. Twelve days ago, we received the presentation summaries, all of which I read with great interest. Terry said the workshop would look into the relationship of information theory (which I have studied for decades) and semiosis.</span></p><p class="c4"><span class="c1"></span></p><p class="c5"><span class="c1">I was very familiar with Terry&#39;s books, </span><span class="c1 c2">The Symbolic Species</span><span class="c1">, which I read twenty years ago, and his recent </span><span class="c1 c2">Incomplete Nature</span><span class="c1">, which the editor of </span><span class="c1 c2">BioScience</span><span class="c1">&nbsp;asked me to review for the annual Book Reviews issue a few years ago.</span></p><p class="c1">
+<a href="http://bioscience.oxfordjournals.org/content/62/3/311.full.pdf">http://bioscience.oxfordjournals.org/content/62/3/311.full.pdf</a>
+</p>
+<p/>
+<p/>
+<p class="c5"><span class="c1">I was also very familiar with the pioneering work of Stuart Kauffman, especially the early years of the Santa Fe Institute and his arguments for complexity and chaos theory, his autocatalytic sets, etc. I read three of his books, </span><span class="c1 c2">Origins of Order, At Home in the Universe,</span><span class="c1">&nbsp;and </span><span class="c1 c2">Reinventing the Sacred</span><span class="c1">. I share Stu&#39;s latest objective of replacing the idea of god with reverence for the creative processes in the universe that for good reason give us the impression of a &quot;divine providence.&quot; </span></p><p class="c4"><span class="c1"></span></p><p class="c5"><span class="c1">The materialists who see a meaningless universe need to see the generation of &quot;negative&quot; entropy (perhaps the most positive aspect of anything ever?) that has become the passive information structures in the physical universe and the active information processing (semiotic?) systems of biology, and finally the pure information that is the stuff of thought, of mind, and the shared knowledge that has made humans the most powerful species so far, for better or for worse.</span></p><p class="c4"><span class="c1"></span></p><p class="c5"><span class="c1">Earlier in the 1980&#39;s, I had read Ilya Prigogine&#39;s Nobel Prize-winning efforts to explain the origin of order in the universe, </span><span class="c1 c2">From Being to Becoming</span><span class="c1">&nbsp;and </span><span class="c1 c2">Order Out of Chaos. </span><span class="c1">Mitchell Waldrop&#39;s great accounting of the Santa Fe Institute work convinced me they could not have the answer, since I had been working since the 1960&#39;s to understand how order/information could appear in a universe thought to have begun in equilibrium, given the second law of thermodynamics. </span></p><p class="c4"><span class="c1"></span></p><p class="c5"><span class="c1">No matter how complex or sensitive to initial conditions, classical continuous deterministic dynamical systems cannot </span><span class="c1 c2">create new information.</span><span class="c1">&nbsp;I knew this (as everyone since Laplace had known), so I doubted complexity could help with free will and consciousness, for example. Discontinuous and discrete (digital?) systems, based on quantum physics, are required.</span></p><p class="c4"><span class="c1"></span></p><p class="c5"><span class="c1">I see complexity sometimes cited as a starting point for biosemiotics, but this is a major flaw. Chaos and complexity do prevent predictability. But this unpredictability is merely epistemic ignorance, not the ontological chance we need for true novelty. For some, this ignorance about the future seems freedom enough, but it leaves the mistaken ideas of one possible future, Laplacian demons, and infinite minds with theistic foreknowledge. Such knowledge is simply impossible</span></p><p class="c4"><span class="c1"></span></p><p class="c5"><span class="c1">Two weeks ago, with Terry&#39;s summaries in hand, I set out to learn all I could about the other presenters.</span></p><p class="c4"><span class="c1"></span></p><p class="c5"><span class="c1">I knew a bit about Howard Pattee from his article in the book </span><span class="c1 c2">Downward Causation</span><span class="c1">, edited by Claus Emmeche and others, which I had studied for my attempts to refute Jaegwon Kim&#39;s arguments against any non-reductive physicalism. I had studied downward causation, from the earliest efforts of Karl Popper and Donald Campbell, to Dean Keith Simonton&#39;s defense of Campbell&#39;s blind variation and selective retention (BVSR) model for </span><span class="c1 c2">creativity</span><span class="c1">&nbsp;in psychology. My own model for free will, which I subsequently traced back to William James, is similar to BVSR, both being based on the two stages of Darwin&#39;s variation and selection. In the December 2014 issue of the </span><span class="c1 c2">Review of General Psychology, </span><span class="c1">Simonton (a past president of APA) called for the two-stage model to be integrated into his theory of creativity. </span></p><p class="c5"><span class="c0">
+
+<a 
+href="
+http://psycnet.apa.org/journals/gpr/17/4/374/">http://psycnet.apa.org/journals/gpr/17/4/374/</a></span></p>
+<p/>
+
+<p class="c5"><span class="c1"><p/>
+I had no knowledge of biosemiotics (the word does not appear in either of Terry&#39;s books.) So I did a lot of web research on the subject and was happy to learn it is based on the work of Charles Sanders Peirce, (Terry&#39;s great source) whom I have been studying since 1955, when I was taught about Peirce by Vincent Tomas, to the 1980&#39;s when I attended the 150th Symposium on Peirce at Harvard, getting some great insights from Charles Hartshorne, Karl Otto Apel, and Umberto Eco.</span></p><p class="c4"><span class="c1"></span></p><p class="c5"><span class="c1">I bought and read Jesper Hoffmeyer&#39;s </span><span class="c1 c2">Signs of Meaning in the Universe,</span><span class="c1">&nbsp;which I myself have been seeking for about sixty years. It was fun. I then read his text,</span><span class="c1 c2">Biosemiotics</span><span class="c1">, with the great subtitle about the </span><span class="c1 c2">Signs of Life and the Life of Signs</span><span class="c1">. This was definitely my field of interest! I had sneaked in references to the search for extraterrestrial intelligence in the universe to a report for the National Academy of Sciences in the early 1970&#39;s.</span></p><p class="c4"><span class="c1"></span></p><p class="c5"><span class="c1">I went to our </span><span class="c0"><a class="c3" href="http://www.google.com/url?q=http%3A%2F%2Fwww.informationphilosopher.com%2Fsolutions%2Fscientists%2Fmayr%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGryQFbs_6kGElSbKJCdP2LCNx9kw">Ernst Mayr</a></span><span class="c1">&nbsp;library at Harvard and found a few eye-opening books in the stacks, notably Marcello Barbieri&#39;s terrific </span><span class="c1 c2">Introduction to Biosemiotics</span><span class="c1">&nbsp;and two of G</span><span class="c1 c7">&uuml;</span><span class="c1">nther Witzany&#39;s works on </span><span class="c1 c2">Biocommunications. </span></p><p class="c4"><span class="c1 c2"></span></p><p class="c5"><span class="c1">Terry asked me to examine how information and semiosis fit together. His workshop title was </span><span class="c1 c2">From Information to Semiosis</span><span class="c1">. After my brief two-week analysis, I would say the connection looks like this to me:</span></p><p class="c4"><span class="c1"></span></p><p class="c5"><span class="c1">Biology &gt; Information &gt; Communication &gt; Language &gt; Semiosis</span></p><p class="c4"><span class="c1"></span></p><p class="c5"><span class="c1">In language I include syntax, semantics, pragmatics, morphology (graphology and phonology, but also smells, tastes, touches, as well as emotive expressions, body &quot;language,&quot; sub-linguistic communications to the &quot;mirror neurons&quot; in others, etc.)</span></p><p class="c4"><span class="c1"></span></p><p class="c5"><span class="c1">One of the main concerns of biosemioticians appears to be their </span><span class="c1 c2">lack of acceptance</span><span class="c1">&nbsp;by mainstream biologists, who are wary of &quot;philosophical&quot; issues like meaning, value, purpose, even as their work is full of anthropomorphic terminology like coding, messages, reading, recognition, transcription, translation, and signaling. All I can say is, welcome to the still present positivism and materialism of the past few hundred years. </span></p><p class="c4"><span class="c1"></span></p><p class="c5"><span class="c1">Semiotics is not the only discipline that is being ignored by scientists, who seek causal, mechanistic, purely physical or chemical explanations for biological processes.</span></p><p class="c4"><span class="c1"></span></p><p class="c5"><span class="c1">Even though intra- and inter-cellular communication using multiple molecules over diverse pathways is getting better and better understood, biologists have remained wary for decades of accepting the idea of &quot;information&quot; in biology, with its connotation of a conscious intentional sender &quot;informing&quot; a conscious interpretational receiver. Quantum physics too is plagued by concerns over the role of &quot;conscious observers.&quot; </span></p><p class="c4"><span class="c1"></span></p><p class="c5"><span class="c1">If we define &quot;conscious&quot; as being aware of incoming information and reacting to it with behaviors/actions that indicate the information is being interpreted and used correctly, we have a very broad definition of mindfulness that can apply to almost the whole of biology and to the computing and communicating machines that humans have built.</span></p><p class="c4"><span class="c1"></span></p><p class="c5"><span class="c1">Terry&#39;s main essay for this conference was entitled &quot;</span><span class="c1 c2">Steps to a Science of Biosemiotics</span><span class="c1">.&quot; I am convinced that biosemiotics is as legitimate a science as bioethics, bioinformatics, biolinguistics, biomathics, and code biology, to name a few at the boundaries of biosemiotics.The established professional societies in each of these subdisciplines, with journals, international meetings, etc., are signs of a Peircean open community of inquirers that is the hallmark of a science.</span></p><p class="c4"><span class="c1"></span></p><p class="c5"><span class="c1">But lest I appear to be preaching to the choir, let me be critical about some particulars that may be responsible for the understandable wariness of mainstream scientists about semiotics in biology.</span></p><p class="c4"><span class="c1"></span></p><p class="c5"><span class="c1">Why is there such antagonism to Shannon&#39;s widely accepted views on entropy and information? Might it not be better to build on them than appear to be attacking their shortcomings?</span></p><p class="c4"><span class="c1"></span></p><p class="c5"><span class="c1">Why are biosemioticians down on Monod&#39;s (and Pittendrigh&#39;s and Mayr&#39;s) &quot;</span><span class="c1 c2">teleonomy</span><span class="c1">,&quot; which for me nicely differentiates a </span><span class="c1 c2">pre-existing</span><span class="c1">&nbsp;&quot;telos&quot; from an organism&#39;s genome having an inherent built-in purpose or entelechy? </span></p><p class="c4"><span class="c1"></span></p><p class="c5"><span class="c1">And what is the concern that </span><span class="c1 c2">something more is needed</span><span class="c1">&nbsp;than neo-Darwinian variation and selection as the fundamental evolutionary process? Is there a strong hint of </span><span class="c1 c2">neo-vitalism</span><span class="c1">, with its </span><span class="c1 c2">teleology</span><span class="c1">, in the air here?</span></p><p class="c4"><span class="c1"></span></p><p class="c5"><span class="c1">Why is there so much attention to inventing neologisms and jargon in the field? This is often a sign (sic) that there is hidden esoteric significance known only to initiates. </span></p><p class="c4"><span class="c1"></span></p><p class="c5"><span class="c1">The greatest barrier to acceptance of semiotics in biology that I see is the devotion of biosemioticians to the work of Peirce. I believe I am as appreciative as anyone of Peirce&#39;s great contributions to logic and science, but I don&#39;t hesitate to point out the nonsense he sometimes produces, wishful thinking that some of his ideals are actually in the world.</span></p><p class="c4"><span class="c1"></span></p><p class="c5"><span class="c1">I understand how, and maybe why, Thomas Sebeok devoted so many years to his work building on Peirce&#39;s semiotics. At the 150th Peirce Symposium, I discovered his and Umberto Eco&#39;s book </span><span class="c1 c2">The Sign of Three</span><span class="c1">. It was a great delight. I read Conan Doyle&#39;s Holmes in the 1950&#39;s, then enormous amounts of Peirce in the &#39;60&#39;s, then Karl Popper&#39;s &quot;conjectures and refutations&quot; in the &#39;70&#39;s. I agreed with the criticisms of Popper by his students, Lakatos and Feyerabend, and maybe Thomas Kuhn, that Popper&#39;s &quot;falsification&quot; idea was as irrelevant as the prevailing &quot;verificationism&quot;of the logical empiricists.</span></p><p class="c4"><span class="c1"></span></p><p class="c5"><span class="c1 c2">Pace</span><span class="c1">&nbsp;Peirce&#39;s attempts, </span><span class="c1 c2">logic tells us nothing about the physical world</span><span class="c1">. All scientific knowledge is evidentiary, fallible, and most importantly, statistical. He knew this at one level. There is no certainty to be had. Nothing is strictly &quot;determined,&quot; as Peirce&#39;s tychism loudly proclaimed. But not everything is evolving and laws are not &quot;habits&quot; that nature is forming. These are just metaphors.</span></p><p class="c4"><span class="c1"></span></p><p class="c5"><span class="c1">As I see it, biosemioticians need to decide between being disciples of Peirce or a subdiscipline of biology. Ferdinand de Saussure&#39;s dyadics may fall short of the interpretant, but as a linguist he was as great as Peirce and his move to synchronic structure as a diagnostic tool to understand diachronic function and his great insistence that signs (symbols) are </span><span class="c1 c2">arbitrary</span><span class="c1">&nbsp;may be as important for communications in molecular biology as Peirce&#39;s insistence on </span><span class="c1 c2">interpretation</span><span class="c1">. </span></p><p class="c4"><span class="c1"></span></p><p class="c5"><span class="c1">Indeed, signaling in biology generally has very little interpretation in the sense of Hoffmeyer&#39;s semiotic freedom or Shannon&#39;s entropy/uncertainty before a message is received that becomes information after receipt. This is because evolution has for the most part reduced the message &quot;possibilities,&quot; for example with an artful combination, perhaps left over from the RNA world, of editing in advance of protein creation (especially in eukaryotes) and aggressive &quot;error&quot; detection and correction afterwards. This may be a good place to look for examples of biological </span><span class="c1 c2">interpretations</span><span class="c1">? I am impressed with Barbieri&#39;s &quot;code biology&quot; and his insight that vestigial &quot;ribotypes&quot; may still be present in the path from genotypes to phenotypes.</span></p><p class="c4"><span class="c1"></span></p><p class="c5"><span class="c1">As I see it, a major task for biosemiotics is to find </span><span class="c1 c2">specific examples</span><span class="c1">&nbsp;in biology of signaling </span><span class="c1 c2">as signing,</span><span class="c1">&nbsp;i.e. with </span><span class="c1 c2">interpretations</span><span class="c1">&nbsp;of the sign. I am looking for examples in the case of a neurotransmitter being interpreted - in a </span><span class="c1 c2">context</span><span class="c1">, which Jakobson added to Shannon&#39;s information communication - in more than one way. </span></p><p class="c4"><span class="c1"></span></p><p class="c5"><span class="c1">Please forgive my &quot;triatribe&quot; against Peirce. He broke my heart when he did his triadic analysis of thesis and </span><span class="c1 c2">firstness</span><span class="c1">&nbsp;of Tychism/chance, setting it &quot;over against&quot; the antithesis and </span><span class="c1 c2">secondness</span><span class="c1">&nbsp;of Ananchism/necessity. The ultimate blow was his Hegel-inspired </span><span class="c1 c2">Aufhebung</span><span class="c1">&nbsp;and </span><span class="c1 c2">thirdness</span><span class="c1">&nbsp;of Synechism/continuity, his perhaps deeply Christian hope for &quot;evolutionary love&quot; to blunt the &quot;greedy&quot; nature of chance in Darwin.</span></p><p class="c4"><span class="c1"></span></p><p class="c5"><span class="c1">Do I sense some of this hope alive in biosemioticians?</span></p><p class="c4"><span class="c1"></span></p><p class="c5"><span class="c1">i hope some of you will criticize my take on Peirce here, which links him to Hegel;</span></p><p class="c5"><span class="c0"><a class="c3" href="http://www.google.com/url?q=http%3A%2F%2Fwww.informationphilosopher.com%2Fsolutions%2Fphilosophers%2Fpeirce%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNESsiaCgm6xgADEwbEJhY5dt7Zvqg">http://www.informationphilosopher.com/solutions/philosophers/peirce/</a></span></p><p class="c4"><span class="c0"><a class="c3" href="http://www.google.com/url?q=http%3A%2F%2Fwww.informationphilosopher.com%2Fsolutions%2Fphilosophers%2Fpeirce%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNESsiaCgm6xgADEwbEJhY5dt7Zvqg"></a></span></p><p class="c5"><span class="c1">Fortunately (sic), in the 1880&#39;s, William James (Peirce&#39;s great colleague and supporter, sadly underappreciated by him) </span><span class="c1 c2">fixed his belief in chance</span><span class="c1">&nbsp;as the generator of alternative possibilities that break the stranglehold of determinism.</span></p><p class="c4"><span class="c1"></span></p><p class="c5"><span class="c1">My first philosophical publication was a 2009 comment in </span><span class="c1 c2">Nature</span><span class="c1">&nbsp;that Martin Heisenberg had become one of many thinkers who independently invented the</span><span class="c0"><a class="c3" href="http://www.google.com/url?q=http%3A%2F%2Fwww.informationphilosopher.com%2Ffreedom%2Ftwo-stage_models.html&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNG6Aq758xjGS1QHq3i7RmsS4V7jyQ">Jamesian two-stage model of free will</a></span><span class="c1">&nbsp;inspired by Peirce and by Darwin that so depends on first, ontological chance, then an adequately determined method of selection. </span></p><p class="c5"><span class="c0"><a class="c3" href="http://www.google.com/url?q=http%3A%2F%2Fwww.nature.com%2Fnature%2Fjournal%2Fv459%2Fn7250%2Ffull%2F4591052c.html&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEwK1Q1FdegJB7VaxUotOHDaBI41g">http://www.nature.com/nature/journal/v459/n7250/full/4591052c.html</a></span></p><p class="c4"><span class="c0"><a class="c3" href="http://www.google.com/url?q=http%3A%2F%2Fwww.nature.com%2Fnature%2Fjournal%2Fv459%2Fn7250%2Ffull%2F4591052c.html&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEwK1Q1FdegJB7VaxUotOHDaBI41g"></a></span></p><p class="c5"><span class="c1">My second work in philosophy was published in </span><span class="c1 c2">William James Studies</span><span class="c1">.</span></p><p class="c5"><span class="c0"><a class="c3" href="http://www.google.com/url?q=http%3A%2F%2Fwww.williamjamesstudies.org%2F5.1%2Fdoyle.pdf&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNG7BJ2wlXbYpKx3dDWJ8xGTnHE7yQ">http://www.williamjamesstudies.org/5.1/doyle.pdf</a></span></p><p class="c4"><span class="c0"><a class="c3" href="http://www.google.com/url?q=http%3A%2F%2Fwww.williamjamesstudies.org%2F5.1%2Fdoyle.pdf&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNG7BJ2wlXbYpKx3dDWJ8xGTnHE7yQ"></a></span></p><p class="c5"><span class="c1">I was invited to present this work at Harvard&#39;s </span><span class="c1 c2">William James Symposium</span><span class="c1">, on the occasion of the 100th Anniversary of his death, in 2010.</span></p><p class="c5"><span class="c0"><a class="c3" href="http://www.google.com/url?q=http%3A%2F%2Fwww.informationphilosopher.com%2Fpresentations%2Fvideo%2FWJS-2010%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNH5pfgcZ6V9Xz9Zo4VuxuHnGIeKvQ">http://www.informationphilosopher.com/presentations/video/WJS-2010/</a></span></p><p class="c4"><span class="c0"><a class="c3" href="http://www.google.com/url?q=http%3A%2F%2Fwww.informationphilosopher.com%2Fpresentations%2Fvideo%2FWJS-2010%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNH5pfgcZ6V9Xz9Zo4VuxuHnGIeKvQ"></a></span></p><p class="c5"><span class="c1">Getting back to </span><span class="c1 c2">From Information to Semiosis</span><span class="c1">, I am enhancing many of the slides in my presentation to the workshop, and will append much of this status report on how I now see biosemiotics as new slides at the end.</span></p><p class="c5"><span class="c0"><a class="c3" href="http://www.google.com/url?q=http%3A%2F%2Fwww.informationphilosopher.com%2Fpresentations%2FBiosemiotics%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNF_VGVeajIZ0ojGate6pAFQabogEA">http://www.informationphilosopher.com/presentations/Biosemiotics/</a></span></p><p class="c4"><span class="c0"><a class="c3" href="http://www.google.com/url?q=http%3A%2F%2Fwww.informationphilosopher.com%2Fpresentations%2FBiosemiotics%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNF_VGVeajIZ0ojGate6pAFQabogEA"></a></span></p><p class="c5"><span class="c1">I would of course greatly appreciate any criticisms, suggestions, or additions that would improve my report, which I solicit for all of my web pages. This especially includes my pages on Terry, Stuart, Howard, and Jesper.</span></p><p class="c5"><span class="c0"><a class="c3" href="http://www.google.com/url?q=http%3A%2F%2Fwww.informationphilosopher.com%2Fsolutions%2Fscientists%2Fdeacon%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHfXO2bvA9KB07pQBtSCN7TLABQ5A">http://www.informationphilosopher.com/solutions/scientists/deacon/</a></span></p><p class="c5"><span class="c0"><a class="c3" href="http://www.google.com/url?q=http%3A%2F%2Fwww.informationphilosopher.com%2Fsolutions%2Fscientists%2Fkauffman%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHOG-3MrcFuD-LyOQY01_TzkRiAjA">http://www.informationphilosopher.com/solutions/scientists/kauffman/</a></span></p><p class="c5"><span class="c0"><a class="c3" href="http://www.google.com/url?q=http%3A%2F%2Fwww.informationphilosopher.com%2Fsolutions%2Fscientists%2Fpattee%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGodg5pdRTHVUmo4SJlAK_Y9-1QRw">http://www.informationphilosopher.com/solutions/scientists/pattee/</a></span></p><p class="c5"><span class="c0"><a class="c3" href="http://www.google.com/url?q=http%3A%2F%2Fwww.informationphilosopher.com%2Fsolutions%2Fscientists%2Fhoffmeyer%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHumZPVFt8By3Zq8U7a_sg1mWxGtA">http://www.informationphilosopher.com/solutions/scientists/hoffmeyer/</a></span></p><p class="c4"><span></span></p>
+
+</blockquote>
+<p/>
+</div>
+<p/>
+<hr/>
+
+
+<div class="sectiontitle">
+Remarks on Eight Theses on Biosemiotics  (Tartu, 2009)
+</div>
+<blockquote>
+<a href="http://www.zbi.ee/~kalevi/Saka.pdf">Biological Theory Article</a>
+<p/>
+<table width="100%" >
+<tr valign="top">
+<td width="50%" valign="top">
+The semiosic–non-semiosic distinction is coextensive with
+the life–nonlife distinction, i.e., with the domain of general
+biology.
+<br/>
+<i>function and semiosis intertwined. function demonstrated by the component processes of an autocell?</i>
+</td>
+<td width="50%" valign="top">
+This is too extreme. Examples of semiotic analysis that strengthen the understanding of biological processes would be more helpful.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+Biology is incomplete as a science in the absence of explicit
+semiotic grounding.
+<br/>
+<i>the function of hemoglobin is not intrinsic to its molecular structure, it may be seen as a carrier of constitutive absence</i>
+</td>
+<td width="50%" valign="top">
+It is more incomplete without recognizing the real communication of information in biology, with the contextuality needed to understand the meanings of signals.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+The predictive power of biology is embedded in the functional
+aspect and cannot be based on chemistry alone.
+<br/><i></i>
+</td>
+<td width="50%" valign="top">
+Predictability is not essential. And there are functions in the chemistry of biology, not just structures. 
+<br/><i></i>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+Differences in methodology distinguish a semiotic biology
+from non-semiotic biology.
+<br/><i></i>
+</td>
+<td width="50%" valign="top">
+There is only one scientific method. The idea that adding "telos" and "teleology"needs to be approached carefully. "Teleonomy" is better, without the hint of neo-vitalism.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+Function is intrinsically related to organization, signification,
+and the concept of an autonomous agent or self.
+<br/><i></i>
+</td>
+<td width="50%" valign="top">
+References to complexity as eliminating predictability? 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+The grounding of general semiotics has to use biosemiotic
+tools.
+<br/><i></i>
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+Semiosis is a central concept for biology that requires a
+more exact definition.
+<br/>
+<i>The interpretive capacity is an emergent property of a reciprocal ends-means relationship of a self-propagating dynamical system. The constitutive absence is the basis of biological function...the dynamics of the reciprocal form-generating process</i>
+</td>
+<td width="50%" valign="top">
+Dynamical systems are not enough.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+Organisms create their <i>umwelten</i>.
+<br/><i></i>
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
+</table>
+</blockquote>
+
+
+<div class="subsectiontitle">
+<table width="600">
+<tr>
+<td align="center" valign="bottom" width="33%">
+<a href="presentations.html">Presentations</a>
+</td>
+<td align="center" valign="bottom" width="33%">
+<a href="index.html">Back to Start</a>
+</td>
+<td align="center" valign="bottom" width="33%">
+<a href="/presentations/Biosemiotics/WORKSHOP_SCHEDULE.PDF">Conference Schedule</a>
+</td>
+</tr>
+</table>
+</div>
+<p/>
+
+<table style="background-color:ccccff;width:600px;height:35px;border: 3px solid #333399;font-size:12px;" >
+<tr>
+<td>
+<i><b>From Information to Semiosis</b></i> |
+</td>
+<td>
+U C Berkeley, 19-21 June  2015 |
+</td>
+<td>
+Bob Doyle |
+</td>
+<td>
+<a href="/">The Information Philosopher</a>
+</td>
+</tr>
+</table>
+</div>
+
+<div id="skyFooter2776" class="skyFooter">
+
+<script type="text/javascript" language="javascript">
+document.onclick = fDocumentOnClick;
+document.ondblclick = fDocumentOnDblClick;
+document.onkeypress = fDocumentOnKeyPress;
+document.onmouseover = fSkyWritableOver;
+</script>
+<div class="skyFooterText">
+</div>
+
+</div>
+</body>
+</html>
+l>

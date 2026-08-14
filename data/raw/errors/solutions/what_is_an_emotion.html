@@ -1,0 +1,2559 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+  <head>
+
+        
+    <link href="/css/base_menu.css" rel="stylesheet" type="text/css">
+    <link rel="shortcut icon" href="/favicon.ico"> 
+   
+        
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="description" content="Information Philosopher is dedicated to the new Information Philosophy, with explanations for Freedom, Values, and Knowledge.">
+    <meta name="keywords" content="Information, Philosopher, Philosophy, Freedom, Values, Knowledge, Demons, Determinism, Dogmas, Dualism, Certainty, Uncertainty, Indeterminacy, Entropy, Randomness, Microcosmos, Macrocosmos, Quantum Mechanics, Thermodynamics, Second Law ">
+    
+    <!-- You can use Open Graph tags to customize Facebook link previews.
+    Learn more: https://developers.facebook.com/docs/sharing/webmasters
+    Required properties are:
+      og:url, og:type, og:title, og:description, og:image, and fb:app_id
+    If og:image is not used, Facebook will notice the Twitter meta tags below 
+    and use a twitter icon for the page's image, which is undesirable, so I put 
+    in an empty og:image for now.
+    <meta property="og:image" content="http://informationphilosopher.com/images/Big_Bang_Timeline400.png">
+   
+    <meta property="og:image" content="">
+
+    <meta name="twitter:site" value="@infophilosopher" />
+    <meta property="twitter:url" content="https://informationphilosopher.com" />
+    <meta property="twitter:title" content="dedicated to the new information philosophy" />
+    <meta property="twitter:description" content="Problems in Philosophy and Physics Solved?" />
+ 
+    <script>window.twttr = (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0],
+        t = window.twttr || {};
+      if (d.getElementById(id)) return t;
+      js = d.createElement(s);
+      js.id = id;
+      js.src = "https://platform.twitter.com/widgets.js";
+      fjs.parentNode.insertBefore(js, fjs);
+
+      t._e = [];
+      t.ready = function(f) {
+        t._e.push(f);
+      };
+      return t;
+    }(document, "script", "twitter-wjs"));</script>
+     -->
+    <style>
+      #search_bar {
+        height: 24px;
+      }
+      #social_cluster {
+      	padding-right: 7px;
+     	padding-top: 3px;
+        float: right;
+        text-align: right;
+        width: 220px;
+      }
+      // #social_cluster div {
+      //   display: inline-block;
+      //   padding-bottom: 2px;
+      // }
+      .social_button {
+        float: right;
+        display: inline-block;
+        padding-top: 2px;
+        padding-bottom: 2px;
+      }
+      #social_links {
+      	clear: both;
+        font-size: 7pt;
+        color: #000099;
+      }
+      #social_links img {
+      	vertical-align: middle;  
+      }
+    </style>
+
+    <script language="javascript" type="text/javascript" src="/scripts/global-menus.js"></script>
+    
+    
+    
+    <style type="text/css">
+    .reader_level_0, .div_0 {
+      display: block;
+    }
+    .reader_level_1, .div_1 {
+      display: none;
+    }
+    .reader_level_2, .div_2 {
+      display: none;
+    }
+    .reader_level_0_span, .span_0 {
+      display: inline;
+    }
+    .reader_level_1_span, .span_1 {
+      display: none;
+    }
+    .reader_level_2_span, .span_2 {
+      display: none;
+    }
+    #reader_level_0_link {
+      
+  color: #000000;
+  font-weight: bold;
+  text-decoration: none;
+  cursor: text;    }
+    #reader_level_1_link {
+          }
+    #reader_level_2_link {
+          }
+    </style>
+    <script language="javascript" type="text/javascript">
+    function getElementsByClass(searchClass,node,tag) {
+      // thanks to Dustin Diaz
+      var classElements = new Array();
+      if ( node == null )
+        node = document;
+      if ( tag == null )
+        tag = '*';
+      var els = node.getElementsByTagName(tag);
+      var elsLen = els.length;
+      var pattern = new RegExp("(^|\s)"+searchClass+"(\s|$)");
+      for (i = 0, j = 0; i < elsLen; i++) {
+        if ( pattern.test(els[i].className) ) {
+          classElements[j] = els[i];
+          j++;
+        }
+      }
+      return classElements;
+    }
+    function fSetClassDisplay(sClass, sDisplay) {
+      var aClassElement;
+      aClassElement = getElementsByClass(sClass, document, "*");
+      // alert(aClassElement.length);
+      for ( i = 0; i < aClassElement.length; i++ ) {
+        aClassElement[i].style.display = sDisplay;
+      }
+    }
+    function fDimLink(sId) {
+      document.getElementById(sId).style.color = "#000000";
+      document.getElementById(sId).style.fontWeight = "bold";
+      document.getElementById(sId).style.textDecoration = "none";
+    }
+    function fLightLink(sId) {
+      document.getElementById(sId).style.color = "#3333ff";
+      document.getElementById(sId).style.fontWeight = "normal";
+      document.getElementById(sId).style.textDecoration = "underline";
+    }
+    function fSetReaderLevel(sReaderLevel) {
+      var sLevel0, sLevel1, sLevel2, sLevel0Span, sLevel1Span, sLevel2Span;
+      // set cookie
+      document.cookie = "ReaderLevel=" + sReaderLevel + "; expires=1785357545; path=/";
+      // set styles
+      if (sReaderLevel == 0) {
+        fDimLink("reader_level_0_link");
+        sLevel0 = "block";
+        sLevel1 = "none";
+        sLevel2 = "none";
+        sLevel0Span = "inline";
+        sLevel1Span = "none";
+        sLevel2Span = "none";
+      } else {
+        fLightLink("reader_level_0_link");
+      }
+      if (sReaderLevel == 1) {
+        fDimLink("reader_level_1_link");
+        sLevel0 = "block";
+        sLevel1 = "block";
+        sLevel2 = "none";
+        sLevel0Span = "inline";
+        sLevel1Span = "inline";
+        sLevel2Span = "none";
+      } else {
+        fLightLink("reader_level_1_link");
+      }
+      if (sReaderLevel == 2) {
+        fDimLink("reader_level_2_link");
+        sLevel0 = "block";
+        sLevel1 = "block";
+        sLevel2 = "block";
+        sLevel0Span = "inline";
+        sLevel1Span = "inline";
+        sLevel2Span = "inline";
+      } else {
+        fLightLink("reader_level_2_link");
+      }
+      fSetClassDisplay("reader_level_0", sLevel0);
+      fSetClassDisplay("reader_level_1", sLevel1);
+      fSetClassDisplay("reader_level_2", sLevel2);
+      fSetClassDisplay("div_0", sLevel0);
+      fSetClassDisplay("div_1", sLevel1);
+      fSetClassDisplay("div_2", sLevel2);
+      fSetClassDisplay("reader_level_0_span", sLevel0Span);
+      fSetClassDisplay("reader_level_1_span", sLevel1Span);
+      fSetClassDisplay("reader_level_2_span", sLevel2Span);
+      fSetClassDisplay("span_0", sLevel0Span);
+      fSetClassDisplay("span_1", sLevel1Span);
+      fSetClassDisplay("span_2", sLevel2Span);
+    }
+    </script>
+    
+<meta name="generator" content="skyBuilders.com timeLines">
+<link rel="stylesheet" href="https://www.informationphilosopher.com/timelines/PageFooter.css"><script type="text/javascript" language="javascript"><!-- 
+if (typeof SymRealWinOpen == 'function') {
+window.open = SymRealWinOpen;
+}
+//--></script>
+
+<script type="text/javascript" language="javascript">
+var sPageSeriesName = "what_is_an_emotion.html";
+var sRequestedFileName = "what_is_an_emotion.1.en.html";
+var sSkyPageID = "2778";
+function mSkyWrite() {
+window.open('/timelines/index.html?skyWrite=True&UserID=3&chosenLocaleCode=en&PageSeriesID=1706&PageID=2778&DirPath=%2Fsolutions%2Fphilosophers%2Fjames%2F', '_blank', 'resizable,menubar,location,toolbar,scrollbars,status,height=600,width=832,left=250,top=50', true);
+}
+var sCurrentlyOverDocument = 1;
+
+function fGetPagePos(oElement, sDimension) {
+  var sPagePos;
+  
+  if (! (oElement = document.getElementById(oElement))) {
+    return 0;
+  }
+  
+  sPagePos = 0;
+  
+  // alert(oElement);
+  while (oElement) {
+    if (typeof(oElement['offset' + sDimension]) != 'undefined') {
+      sPagePos += oElement['offset' + sDimension];
+    }
+    // alert(typeof oElement.offsetParent);
+    if (typeof(oElement.offsetParent) != 'undefined') {
+      oElement = oElement.offsetParent;
+    } else {
+      oElement = null;
+    }
+  }
+  
+  return sPagePos;
+}
+
+function fSkyWritableOver(sDivID, oEvent) {
+  var oDiv;
+  
+  if (oEvent) {
+    sElement = (oEvent.target) ? oEvent.target : oEvent.srcElement;
+    if ((sElement.id == 'skyIncludeEditablePencilImg') || (sElement.id == 'skyIncludeEditableCornerImg')){
+      window.status = 'click to edit';
+    }
+  }
+  
+  // alert(typeof sDivID);
+  if (typeof sDivID == 'string') {
+    sCurrentlyOverDocument = 0;
+    oDiv = document.getElementById(sDivID);
+    oPencil = document.getElementById('skyIncludeEditablePencil');
+    oCorner = document.getElementById('skyIncludeEditableCorner');
+    // sDivTop = oDiv.offsetTop;
+    sDivTop = fGetPagePos(sDivID, 'Top');
+    sDivLeft = fGetPagePos(sDivID, 'Left');
+    sDivWidth = oDiv.offsetWidth;
+    sDivHeight = oDiv.offsetHeight;
+    // alert('div: ' + sDivTop);
+    // alert(sDivWidth);
+    
+    oPencil.style.top = sDivTop + 'px';
+    oPencil.style.left = (sDivLeft + sDivWidth - 21) + 'px';
+    oCorner.style.top = (sDivTop + sDivHeight - 11) + 'px';
+    oCorner.style.left = sDivLeft + 'px';
+    // oSkyIncludeEditable.style.height = '0px';
+    // oSkyIncludeEditable.style.border = '#0000ff dashed 1px';
+    oPencil.style.width = '21px';
+    oPencil.style.height = '19px';
+    oPencil.style.zIndex = '101';
+    oPencil.onmouseover = oDiv.onmouseover;
+    oPencil.onmouseout = oDiv.onmouseout;
+    oPencil.onclick = oDiv.onclick;
+    oCorner.style.width = '10px';
+    oCorner.style.height = '9px';
+    oCorner.style.zIndex = '101';
+    oCorner.onmouseover = oDiv.onmouseover;
+    oCorner.onmouseout = oDiv.onmouseout;
+    oCorner.onclick = oDiv.onclick;
+    // oSkyIncludeEditable.style.display = 'block';
+    
+    // sSkyIncludeEditableTop = oSkyIncludeEditable.style.top;
+    // alert('skyinclude: ' + sSkyIncludeEditableTop);
+    
+    if (0) {
+      oDiv.style.borderWidth = '1px';
+      oDiv.style.borderStyle = 'dashed';
+      oDiv.style.borderColor = '#0000ff';
+    }
+  } else {
+    // sCurrentlyOverDocument = 1;
+  }
+}
+
+function fSkyWritableOut(sDivID) {
+  var oDiv;
+  
+  window.status = '';
+  
+  if (typeof sDivID == 'string') {
+    sCurrentlyOverDocument = 1;
+    // oDiv = document.getElementById(sDivID);
+    // doesn't work in IE: oDiv.style.border = '1px solid transparent';
+    // document.getElementById('skyIncludeEditable').style.display = 'none';
+    document.getElementById('skyIncludeEditablePencil').style.zIndex = '-1';
+    document.getElementById('skyIncludeEditablePencil').style.top = '-100';
+    document.getElementById('skyIncludeEditableCorner').style.zIndex = '-1';
+    document.getElementById('skyIncludeEditableCorner').style.top = '-100';
+    // oDiv.style.border = '1px solid #ffffff';
+  }
+}
+
+function fDocumentOnClick(oEvent) {
+  // alert(sCurrentlyOverDocument);
+  // if (0) {
+  if (sCurrentlyOverDocument == 1) {
+    fSkyWriteInclude(1706, 2778, '/solutions/philosophers/james/', oEvent);
+  }
+}
+
+function fAsOfNow() {
+  document.cookie = 'as_of=; path=/; domain=informationphilosopher.com';
+  document.location.href = '?@=now';
+}
+
+function fSubmitAsOfForm() {
+  oYearInput = document.getElementById('as_of_year');
+  oMonthInput = document.getElementById('as_of_month');
+  oDayInput = document.getElementById('as_of_day');
+  oHourInput = document.getElementById('as_of_hour');
+  oMinuteInput = document.getElementById('as_of_minute');
+  oSecondInput = document.getElementById('as_of_second');
+
+  sAsOf = oYearInput.value + '-' + oMonthInput.value + '-' + oDayInput.value + 'T' + oHourInput.value + ':' + oMinuteInput.value + ':' + oSecondInput.value;
+  document.location.href = '?@=' + sAsOf;
+}
+
+var aAsOfInputs = [
+  'as_of_year',
+  'as_of_month',
+  'as_of_day',
+  'as_of_hour',
+  'as_of_minute',
+  'as_of_second',
+];
+
+function fAsOfOnKeyUp(e) {
+  // Handle the Enter key
+  if (e.key == 'Enter') {
+     fSubmitAsOfForm();
+  }
+}
+
+function fAsOfOnInput(e) {
+  fAsOfNextInput(e.target);
+}
+
+function fAsOfNextInput(oInput) {
+  // Handle giving focus to the next input when this one is at max length
+  sMaxLen = String(oInput.max +'').length;
+
+  if (oInput.value.length == sMaxLen) {
+     // Find which input, if any, is next in the sequence
+     sNextIndex = aAsOfInputs.indexOf(oInput.id) + 1;
+     if (sNextIndex < aAsOfInputs.length) {
+     	oNext = document.getElementById(aAsOfInputs[sNextIndex]);
+	oNext.focus();
+	oNext.select();
+     }
+  }
+}
+
+function fDismissAsOfForm() {
+  var oDiv = document.getElementById('as_of_div');
+  if (oDiv) {
+    oDiv.style.display = 'none';
+  }
+}
+
+function fOpenAsOfForm() {
+  var oDiv = document.getElementById('as_of_div');
+  if (oDiv) {
+    oDisplaySpan = document.getElementById('as_of_display');
+    oYearInput = document.getElementById('as_of_year');
+    oMonthInput = document.getElementById('as_of_month');
+    oDayInput = document.getElementById('as_of_day');
+    oHourInput = document.getElementById('as_of_hour');
+    oMinuteInput = document.getElementById('as_of_minute');
+    oSecondInput = document.getElementById('as_of_second');
+  } else {
+    var oDiv = document.createElement('div');
+    oDiv.id = 'as_of_div';
+
+    var oForm = document.createElement('form');
+    oForm.style = 'margin-block-end: 0;';
+    oForm.id = 'as_of_form';
+    oForm.name = 'as_of_form';
+    oForm.onsubmit = fSubmitAsOfForm;
+    oDiv.appendChild(oForm);
+
+    var oGrid = document.createElement('div');
+    oGrid.style = 'display: grid; grid-template-columns: max-content min-content min-content min-content min-content min-content 1fr;';
+    oGrid.ondblclick = null;
+    oForm.appendChild(oGrid);
+
+    var oHeader = document.createElement('div');
+    oHeader.style = 'grid-column: 1; grid-row: 1; margin-top: 7px; padding-right: 5px;';
+    oHeader.appendChild(document.createTextNode('Showing page as of '));
+    oDisplaySpan = document.createElement('span');
+    oDisplaySpan.id = 'as_of_display';
+    oHeader.appendChild(oDisplaySpan)
+    oHeader.appendChild(document.createTextNode('. Choose date and time:'));
+    oGrid.appendChild(oHeader);
+
+    var oYearDiv = document.createElement('div');
+    oYearDiv.className = 'as_of_input_div';
+    oYearDiv.style = 'grid-column: 2; grid-row: 1;';
+    oGrid.appendChild(oYearDiv);
+
+    var oYearInput = document.createElement('input');
+    oYearInput.id = 'as_of_year';
+    oYearInput.type = 'number';
+    oYearInput.min = 1970;
+    oYearInput.max = 9999;
+    oYearInput.oninput = fAsOfOnInput;
+    oYearInput.onkeyup = fAsOfOnKeyUp;
+    oYearDiv.appendChild(oYearInput);
+
+    oYearDiv.appendChild(document.createTextNode('-'));
+
+    var oMonthDiv = document.createElement('div');
+    oMonthDiv.className = 'as_of_input_div';
+    oMonthDiv.style = 'grid-column: 3; grid-row: 1;';
+    oGrid.appendChild(oMonthDiv);
+
+    var oMonthInput = document.createElement('input');
+    oMonthInput.id = 'as_of_month';
+    oMonthInput.type = 'number';
+    oMonthInput.min = 1;
+    oMonthInput.max = 12;
+    oMonthInput.oninput = fAsOfOnInput;
+    oMonthInput.onkeyup = fAsOfOnKeyUp;
+    oMonthDiv.appendChild(oMonthInput);
+
+    oMonthDiv.appendChild(document.createTextNode('-'));
+
+    var oDayDiv = document.createElement('div');
+    oDayDiv.className = 'as_of_input_div';
+    oDayDiv.style = 'grid-column: 4; grid-row: 1; padding-right: 5px';
+    oGrid.appendChild(oDayDiv);
+
+    var oDayInput = document.createElement('input');
+    oDayInput.id = 'as_of_day';
+    oDayInput.type = 'number';
+    oDayInput.min = 1;
+    oDayInput.max = 31;
+    oDayInput.oninput = fAsOfOnInput;
+    oDayInput.onkeyup = fAsOfOnKeyUp;
+    oDayDiv.appendChild(oDayInput);
+
+    var oHourDiv = document.createElement('div');
+    oHourDiv.className = 'as_of_input_div';
+    oHourDiv.style = 'grid-column: 5; grid-row: 1;';
+    oGrid.appendChild(oHourDiv);
+
+    var oHourInput = document.createElement('input');
+    oHourInput.id = 'as_of_hour';
+    oHourInput.type = 'number';
+    oHourInput.min = 0;
+    oHourInput.max = 23;
+    oHourInput.oninput = fAsOfOnInput;
+    oHourInput.onkeyup = fAsOfOnKeyUp;
+    oHourDiv.appendChild(oHourInput);
+
+    oHourDiv.appendChild(document.createTextNode(':'));
+
+    var oMinuteDiv = document.createElement('div');
+    oMinuteDiv.className = 'as_of_input_div';
+    oMinuteDiv.style = 'grid-column: 6; grid-row: 1;';
+    oGrid.appendChild(oMinuteDiv);
+
+    var oMinuteInput = document.createElement('input');
+    oMinuteInput.id = 'as_of_minute';
+    oMinuteInput.type = 'number';
+    oMinuteInput.min = 0;
+    oMinuteInput.max = 59;
+    oMinuteInput.oninput = fAsOfOnInput;
+    oMinuteInput.onkeyup = fAsOfOnKeyUp;
+    oMinuteDiv.appendChild(oMinuteInput);
+
+    oMinuteDiv.appendChild(document.createTextNode(':'));
+
+    var oSecondDiv = document.createElement('div');
+    oSecondDiv.className = 'as_of_input_div';
+    oSecondDiv.style = 'grid-column: 7; grid-row: 1;';
+    oGrid.appendChild(oSecondDiv);
+
+    var oSecondInput = document.createElement('input');
+    oSecondInput.id = 'as_of_second';
+    oSecondInput.type = 'number';
+    oSecondInput.min = 0;
+    oSecondInput.max = 59;
+    oSecondInput.oninput = fAsOfOnInput;
+    oSecondInput.onkeyup = fAsOfOnKeyUp;
+    oSecondDiv.appendChild(oSecondInput);
+
+    var oSecondDiv = document.createElement('div');
+    oSecondDiv.className = 'as_of_input_div';
+    oSecondDiv.style = 'grid-column: 7; grid-row: 1;';
+    oGrid.appendChild(oSecondDiv);
+
+    var oButtonsDiv = document.createElement('div');
+    oButtonsDiv.style = 'grid-column: 8; grid-row: 1 /3; padding-top: 2px; text-align: right;';
+    oEnterButton = document.createElement('button');
+    oEnterButton.style = 'margin-bottom: 5px; margin-right: 5px;';
+    oEnterButton.onclick = fSubmitAsOfForm;
+    oEnterButton.appendChild(document.createTextNode('Enter'));
+    oButtonsDiv.appendChild(oEnterButton);
+    oNowButton = document.createElement('button');
+    oNowButton.style = 'margin-bottom: 5px;';
+    oNowButton.onclick = fAsOfNow;
+    oNowButton.appendChild(document.createTextNode('Now'));
+    oButtonsDiv.appendChild(oNowButton);
+    oButtonsDiv.appendChild(document.createElement('br'));
+    oDismissButton = document.createElement('button');
+    oDismissButton.onclick = fDismissAsOfForm;
+    oDismissButton.appendChild(document.createTextNode('Dismiss'));
+    oButtonsDiv.appendChild(oDismissButton);
+    oGrid.appendChild(oButtonsDiv);
+
+    var oErrorHeader = document.createElement('div');
+    oErrorHeader.style = 'grid-column: 1; grid-row: 2; padding-right: 5px; font-weight: bold;';
+    oErrorHeader.appendChild(document.createTextNode(''));
+    oGrid.appendChild(oErrorHeader);
+
+    var oYearLabelDiv = document.createElement('div');
+    oYearLabelDiv.className = 'as_of_label';
+    oYearLabelDiv.style = 'grid-column: 2;';
+    oGrid.appendChild(oYearLabelDiv);
+    oYearLabelDiv.appendChild(document.createTextNode('Year'));
+    oYearLabelDiv.appendChild(document.createElement('br'));
+    oYearLabelDiv.appendChild(document.createTextNode('YYYY'));
+
+    var oMonthLabelDiv = document.createElement('div');
+    oMonthLabelDiv.className = 'as_of_label';
+    oMonthLabelDiv.style = 'grid-column: 3;';
+    oGrid.appendChild(oMonthLabelDiv);
+    oMonthLabelDiv.appendChild(document.createTextNode('Month'));
+    oMonthLabelDiv.appendChild(document.createElement('br'));
+    oMonthLabelDiv.appendChild(document.createTextNode('01-12'));
+
+    var oDayLabelDiv = document.createElement('div');
+    oDayLabelDiv.className = 'as_of_label';
+    oDayLabelDiv.style = 'grid-column: 4;';
+    oGrid.appendChild(oDayLabelDiv);
+    oDayLabelDiv.appendChild(document.createTextNode('Day'));
+    oDayLabelDiv.appendChild(document.createElement('br'));
+    oDayLabelDiv.appendChild(document.createTextNode('01-31'));
+
+    var oHourLabelDiv = document.createElement('div');
+    oHourLabelDiv.className = 'as_of_label';
+    oHourLabelDiv.style = 'grid-column: 5;';
+    oGrid.appendChild(oHourLabelDiv);
+    oHourLabelDiv.appendChild(document.createTextNode('Hour'));
+    oHourLabelDiv.appendChild(document.createElement('br'));
+    oHourLabelDiv.appendChild(document.createTextNode('00-23'));
+
+    var oMinuteLabelDiv = document.createElement('div');
+    oMinuteLabelDiv.className = 'as_of_label';
+    oMinuteLabelDiv.style = 'grid-column: 6;';
+    oGrid.appendChild(oMinuteLabelDiv);
+    oMinuteLabelDiv.appendChild(document.createTextNode('Minute'));
+    oMinuteLabelDiv.appendChild(document.createElement('br'));
+    oMinuteLabelDiv.appendChild(document.createTextNode('00-59'));
+
+    var oSecondLabelDiv = document.createElement('div');
+    oSecondLabelDiv.className = 'as_of_label';
+    oSecondLabelDiv.style = 'grid-column: 7;';
+    oGrid.appendChild(oSecondLabelDiv);
+    oSecondLabelDiv.appendChild(document.createTextNode('Second'));
+    oSecondLabelDiv.appendChild(document.createElement('br'));
+    oSecondLabelDiv.appendChild(document.createTextNode('00-59'));
+
+    document.body.insertBefore(oDiv, document.body.firstChild);
+  }
+
+  oYearInput.value = '2026';
+  oMonthInput.value = '07';
+  oDayInput.value = '29';
+  oHourInput.value = '19';
+  oMinuteInput.value = '39';
+  oSecondInput.value = '05';
+
+  oDisplaySpan.innerText = oYearInput.value + '-' + oMonthInput.value + '-' + oDayInput.value + ' ' + oHourInput.value + ':' + oMinuteInput.value + ':' + oSecondInput.value;
+
+  oDiv.style.display = 'block';
+
+  oYearInput.focus();
+  oYearInput.select();
+}
+
+function fDocumentOnDblClick(oEvent) {
+  fOpenAsOfForm();
+}
+
+function fDocumentOnKeyPress(oEvent) {
+  // The @ symbol
+  if ((oEvent.shiftKey) && (oEvent.code == 'Digit2')) {
+    fOpenAsOfForm();
+  }
+}
+
+document.addEventListener('DOMContentLoaded', function(event) {
+  if ('' != '') {
+     document.cookie = 'as_of=; path=/; domain=informationphilosopher.com';
+     fOpenAsOfForm();
+  }
+});
+
+
+function fSkyWriteInclude(sPageSeriesID, sPageID, sDirPath, oEvent) {
+var sIndicatorClicked, sControlKeyPressed, sShiftKeyPressed;
+var sElement;
+
+// check for shift or control key depressed
+oEvent = (oEvent) ? oEvent : (window.event) ? window.event : ''
+
+sIndicatorClicked = 0;
+sControlKeyPressed = 0;
+sShiftKeyPressed = 0;
+if (oEvent) {
+  sModifierPressed = '';
+  
+  sElement = (oEvent.target) ? oEvent.target : oEvent.srcElement;
+  // alert(sElement.id);
+  
+  if ((sElement.id == 'skyIncludeEditablePencilImg') || (sElement.id == 'skyIncludeEditableCornerImg')){
+    sIndicatorClicked = 1;
+  }
+  
+  if (oEvent.which) {
+    if (oEvent.ctrlKey) {
+      sControlKeyPressed = 1;
+    }
+  } else {
+    if (oEvent.modifiers) {
+      if (oEvent.modifiers && oEvent.CTRL_MASK) {
+        // sControlKeyPressed = oEvent.modifiers;
+        sControlKeyPressed = 1;
+      }
+    } else {
+      if (oEvent.ctrlKey) {
+        sControlKeyPressed = 1;
+      }
+    }
+  }
+  
+  if (oEvent.which) {
+    if (oEvent.shiftKey) {
+      sShiftKeyPressed = 1;
+    }
+  } else {
+    if (oEvent.modifiers) {
+      if (oEvent.modifiers && oEvent.SHIFT_MASK) {
+        // sShiftKeyPressed = oEvent.modifiers;
+        sShiftKeyPressed = 1;
+      }
+    } else {
+      if (oEvent.shiftKey) {
+        sShiftKeyPressed = 1;
+      }
+    }
+  }
+}
+
+// if shift or control key pressed
+if ((sIndicatorClicked) || (sControlKeyPressed == 1) || (sShiftKeyPressed == 1)) {
+  // alert('pressed');
+  window.open('https://www.informationphilosopher.com/timelines/index.html?skyWrite=True&PageSeriesID=' + sPageSeriesID + '&PageID=' + sPageID + '&DirPath=' + sDirPath, '_blank', 'menubar,toolbar,location,resizable,scrollbars,status,height=600,width=832,left=250,top=50', true);
+}
+}
+    
+</script>
+    <title>What Is An Emotion?</title>
+	
+  </head><body>
+
+    <a href="#skipnav" title="Skip Navigation, Search, and Login"></a>
+    <div id="header-wrapper"> 
+      <div id="header"> 
+        <!-- <div id="spacer">&nbsp;</div> -->
+        <div id="logo"><a href="/" title="Go to Information Philosopher home page"><img src="/images/clear.gif" alt="Go to Information Philosopher home page" border="0" width="70" height="70"></a></div>
+   
+	    <div id="social_cluster">
+            <!-- Load Facebook SDK for JavaScript -->
+            <div id="fb-root" style="display: inline;"></div>
+            <script>(function(d, s, id) {
+              var js, fjs = d.getElementsByTagName(s)[0];
+              if (d.getElementById(id)) return;
+              js = d.createElement(s); js.id = id;
+              js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8";
+              fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));</script>
+
+            <!-- Your like button code -->
+            <!-- data-href="https://www.your-domain.com/your-page.html" -->
+            <div class="social_button fb-like"
+              data-href=""
+              data-layout="button_count" 
+              data-action="like" 
+              data-show-faces="true">
+            </div>
+
+            <!-- Your share button code 
+            <div class="social_button fb-share-button" 
+              data-href="" 
+              data-layout="button_count">
+            </div> 
+
+            <div class="social_button">
+            	<a class="social_button twitter-share-button" href="https://twitter.com/intent/tweet">Tweet</a>&nbsp;
+            </div> -->
+            
+            <br />
+            <div id="social_links">
+	        	<font style="font-size:9px;font-color:#000066">Follow&nbsp;infophilosopher:</font>
+	        	 
+	        	<a href="https://www.facebook.com/infophilosopher" target="facebook" style="text-decoration:none" title="infophilosopher on Facebook"><img src="/images/Facebook3.png" style="border-radius: 3px; height:15px;"></a>
+	        	| 
+	        	<a href="http://youtube.com/infophilosopher/" target="youtube" style="text-decoration:none;" title="infophilosopher on YouTube"><img src="/images/YouTubeX.png" style="height:15px;"></a>
+	        </div>
+        </div>
+
+        <div id="main-menu">
+          <ul>
+            <li><a id="nav_banner_introduction" href="/introduction/" onmouseover="try{buttonMouseover(event, 'introduction');} catch(e){}">Introduction</a></li>
+            <li><a id="nav_banner_problems" href="/problems/" onmouseover="try{buttonMouseover(event, 'problems');} catch(e){}">Problems</a></li>
+            <li><a id="nav_banner_freedom" href="/freedom/" onmouseover="try{buttonMouseover(event, 'freedom');} catch(e){}">Freedom</a></li>
+            <li><a id="nav_banner_value" href="/value/" onmouseover="try{buttonMouseover(event, 'value');} catch(e){}">Value</a></li>
+            <li><a id="nav_banner_knowledge" href="/knowledge/" onmouseover="try{buttonMouseover(event, 'knowledge');} catch(e){}">Knowledge</a></li>
+            <!--<li><a id="nav_banner_solutions" href="/solutions/" onmouseover="try{buttonMouseover(event, 'solutions');} catch(e){}">Solutions</a></li> -->
+            <li><a id="nav_banner_life" href="/life/" onmouseover="try{buttonMouseover(event, 'life');} catch(e){}">Life</a></li>
+            <li><a id="nav_banner_mind" href="/mind/" onmouseover="try{buttonMouseover(event, 'mind');} catch(e){}">Mind</a></li>
+            <li><a id="nav_banner_chance" href="/chance/" onmouseover="try{buttonMouseover(event, 'chance');} catch(e){}">Chance</a></li>
+            <li><a id="nav_banner_quantum" href="/quantum/" onmouseover="try{buttonMouseover(event, 'quantum');} catch(e){}">Quantum</a></li>
+            <li><a id="nav_banner_entanglement" href="/entanglement/" onmouseover="try{buttonMouseover(event, 'entanglement');} catch(e){}">Entanglement</a></li>
+            <li><a id="nav_banner_scandal" href="/scandals/" onmouseover="try{buttonMouseover(event, 'scandals');} catch(e){}">Scandals</a></li>
+            <!--<li id="main-menu-rightmost"><a id="nav_banner_afterwords" href="/afterwords/" onmouseover="try{buttonMouseover(event, 'afterwords');} catch(e){}">Afterword</a></li>-->
+          </ul>
+        </div>
+      </div>
+    </div>
+ 
+    <div id="citation_info" class="display_none">
+      Citation for this page in APA citation style.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <span class="breadcrumbs">
+	  <a href="" title="Citation for this page in APA citation style." alt="Citation for this page in APA citation style." onclick="document.getElementById('citation_info').style.display = 'none'; return false;">Close</a> 
+	</span>
+      <p/>
+	<script language="javascript" type="text/javascript">
+	document.write(document.title);
+	document.write("<br/>Retrieved  ");
+	var oDate = new Date();
+	var aMonthName = new Array('January', 'February', 'March',
+                                   'April', 'May', 'June',
+                                   'July', 'August', 'September',
+                                   'October', 'November', 'December');
+	document.write(aMonthName[oDate.getMonth()] + ' ' + oDate.getDate() + ', ' + oDate.getFullYear());
+	document.write(", from Information Philosopher");
+	</script>
+	<br/>
+	<script language="javascript" type="text/javascript">
+	document.write("Web site <a href='");
+	document.write(location.href);
+	document.write("'>");
+	document.write(location.href);
+	document.write("</a>");
+	</script>
+
+    </div>
+
+    <div id="search_bar" class="search">
+      <table class="layout" cellpadding="0" cellspacing="0" width="731"> 
+        <tr> 
+          <td nowrap>
+	    <!-- &nbsp;<a href="http://www.informationphilosopher.com/site/search/">Search</a> | -->
+	    <!-- | <a href="http://www.informationphilosopher.com/site/A-Z_index/">A-Z Index</a> | -->
+
+	    <!--<a href="http://www.informationphilosopher.com/site/map/">Site Map</a> | 
+	    <a href="http://www.informationphilosopher.com/afterwords/glossary/">Glossary</a> |--> 
+
+	    <a href="/about/" target="about" style="text-decoration: none">About</a> &nbsp;
+
+	    <a href="/articles/" target="blog" style="text-decoration: none">Articles</a> &nbsp; 
+
+	    <!--<a href="http://i-phi.org" target="blog" style="text-decoration: none">Blog</a> &nbsp; -->
+	   
+	    <a href="/books/" target="blog" style="text-decoration: none">Books</a> &nbsp; 
+
+	    <a href="/lectures/" title="Lectures on information philosophy" alt="Lectures on information philosophy" style="text-decoration:none;margin-top:1px;">Lectures</a> &nbsp;
+
+	    <a href="/presentations/" target="presentations" style="text-decoration: none">Presentations</a> &nbsp; 
+
+	    <a href="/afterwords/glossary/" title="Glossary of Terms" alt="Glossary of Terms" style="text-decoration:none;margin-top:1px;">Glossary</a> &nbsp;
+
+	    <a href="" title="Citation for this page in APA citation style." alt="Citation for this page in APA citation style." onclick="document.getElementById('citation_info').style.display = 'block'; return false;" style="text-decoration: none">Cite</a> &nbsp;
+
+	    <a href="/help/" title="Want to help information philosophy?" alt="Want to help information philosophy?" style="text-decoration:none;margin-top:1px;">Help?</a> &nbsp;
+	    
+	     
+	    
+	    </td>
+
+          <!-- can we determine if user is logged in?  -->
+          <td class="search" align="right">
+        
+        <script type="text/javascript" language="javascript">
+	      function mAssembleSearchURL(sSearchCriteria, sWhichSearch) {
+	        var sSiteURL, sSearchURL;
+		sSiteURL = "informationphilosopher.com"
+	        sBaseURL = "http://www.google.com/search?hl=en&lr=&ie=UTF-8&oe=UTF-8&as_qdr=all&q=";
+
+		if (sWhichSearch == "0") {
+		  sSearchURL = sBaseURL + escape(sSearchCriteria);
+		} else {
+		  if (sWhichSearch == "1") {
+		    sSearchURL = sBaseURL + escape(sSearchCriteria) + "+site:" + sSiteURL;
+		  } else {
+		    sSearchURL = sBaseURL + escape(sSearchCriteria);
+		  }
+		}
+		window.open(sSearchURL, '_blank', 'menubar,location,resizable,scrollbars,status,toolbar,height=520,width=640,left=250,top=50', true);
+	      }
+	    </script>
+	    
+	    
+	    <form class="skyFooterForm" method="post" name="searchform1" action="" onsubmit="mAssembleSearchURL(document.searchform1.q.value, 1); return false;">
+	      <input size="30" maxlength="2048" name="q" type="text">
+	      <a href="" onclick="mAssembleSearchURL(document.searchform1.q.value, 1); return false;" style="text-decoration:none;">&nbsp;Search</a>
+	    </form>
+  
+        </td>
+          
+           <td>
+           	<a id="translate_link" title="A Google translation only gives you the 'gist' of the page. Please mouseover any confusing phrases to see the original English text." href="" style="text-decoration:none;"onmouseover="try{buttonMouseover(event, 'translate');} catch(e){}">Translate</a>
+           	<div id="translate" class="menu" onmouseover="menuMouseover(event);">
+           		<a id="translate_french" class="menuItem" href="https://translate.google.com/">French</a>
+           		<a id="translate_italian" class="menuItem" href="https://translate.google.com/">Italian</a>
+           		<a id="translate_german" class="menuItem" href="https://translate.google.com/">German</a>
+           		<a id="translate_russian" class="menuItem" href="https://translate.google.com/">Russian</a>
+           		<a id="translate_spanish" class="menuItem" href="https://translate.google.com/">Spanish</a>
+           	</div>
+           	</td>
+        </tr> 
+      </table>
+    </div>
+    
+	<script language="javascript" type="text/javascript">
+	var french = document.getElementById ("translate_french");
+	var italian = document.getElementById ("translate_italian");
+	var german = document.getElementById ("translate_german");
+	var russian = document.getElementById ("translate_russian");
+	var spanish = document.getElementById ("translate_spanish");
+	if (french) {
+		french.href = "https://translate.google.com/translate?sl=en&tl=fr&js=y&prev=_t&hl=en&ie=UTF-8&u=" + window.location.href + "&edit-text=";
+	};
+	if (italian) {
+		italian.href = "https://translate.google.com/translate?sl=en&tl=it&js=y&prev=_t&hl=en&ie=UTF-8&u=" + window.location.href + "&edit-text=";
+	};
+	if (german) {
+		german.href = "https://translate.google.com/translate?sl=en&tl=de&js=y&prev=_t&hl=en&ie=UTF-8&u=" + window.location.href + "&edit-text=";
+	};
+	if (russian) {
+		russian.href = "https://translate.google.com/translate?sl=en&tl=ru&js=y&prev=_t&hl=en&ie=UTF-8&u=" + window.location.href + "&edit-text=";
+	};
+	if (spanish) {
+		spanish.href = "https://translate.google.com/translate?sl=en&tl=es&js=y&prev=_t&hl=en&ie=UTF-8&u=" + window.location.href + "&edit-text=";
+	};
+	</script>
+
+    <a name="skipnav" tabindex="1" title="Information Philosopher"></a>
+    
+<div id="introduction" class="menu" onmouseover="menuMouseover(event);">
+  <a id="nav_banner_introduction_information" class="menuItem" href="/introduction/information/">The Information</a>
+  <a id="nav_banner_introduction_creation" class="menuItem" href="/introduction/creation/">The Creation</a>
+  <a id="nav_banner_introduction_physics" class="menuItem" href="/introduction/physics/">The Physics</a>
+  <a id="nav_banner_introduction_biology" class="menuItem" href="/introduction/biology/">The Biology</a>
+  <a id="nav_banner_introduction_philosophy" class="menuItem" href="/introduction/philosophy/">The Philosophy</a>
+  <a id="nav_banner_introduction_philosophers" class="menuItem" href="/solutions/philosophers/">The Philosophers</a>
+  <a id="nav_banner_introduction_scientists" class="menuItem" href="/solutions/scientists/">The Scientists</a>
+  <a id="nav_banner_introduction_problems" class="menuItem" href="/problems/">The Problems</a>
+  <a id="nav_banner_introduction_solutions" class="menuItem" href="/solutions/">The Solutions</a>
+  <a id="nav_banner_introduction_experiments" class="menuItem" href="/solutions/experiments/">The Experiments</a> 
+</div>
+    
+    <div id="problems" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_problems_arrow_of_time" class="menuItem" href="/problems/arrow_of_time/">Arrow of Time</a>
+      <a id="nav_banner_problems_consciousness" class="menuItem" href="/problems/consciousness/">Consciousness</a>
+      <a id="nav_banner_problems_dualisms" class="menuItem" href="/solutions/dualisms/">Dualisms</a>
+      <a id="nav_banner_problems_ergodicity" class="menuItem" href="/problems/ergodicity/">Ergodiciy</a>
+      <a id="nav_banner_problems_evil" class="menuItem" href="/problems/evil/">Evil</a>
+      <a id="nav_banner_problems_flatness" class="menuItem" href="/problems/flatness/">Flat Universe?</a>
+      <a id="nav_banner_problems_god" class="menuItem" href="/problems/god/">God</a>
+      <a id="nav_banner_problems_identity" class="menuItem" href="/problems/identity/">Identity</a>
+      <a id="nav_banner_problems_immortality" class="menuItem" href="/problems/immortality/">Immortality</a>
+      <a id="nav_banner_problems_induction" class="menuItem" href="/problems/induction/">Induction</a>
+      <a id="nav_banner_problems_life" class="menuItem" href="/problems/life/">Life</a>
+       <a id="nav_banner_problems_measurement" class="menuItem" href="/problems/measurement/">Measurement</a>
+       <a id="nav_banner_problems_mental_causation" class="menuItem" href="/problems/mental_causation/">Mental Causation</a>
+       <a id="nav_banner_problems_metaphysics" class="menuItem" href="/problems/metaphysics/">Metaphysics</a>
+       <a id="nav_banner_problems_mind_body" class="menuItem" href="/problems/mind_body/">Mind-Body</a>
+       <a id="nav_banner_problems_nonlocality" class="menuItem" href="/problems/nonlocality/">Nonlocality</a>
+       <a id="nav_banner_problems_possibilities" class="menuItem" href="/freedom/possibilities.html">Possibilities</a>
+       <a id="nav_banner_problems_recurrence" class="menuItem" href="/problems/recurrence/">Recurrence</a>
+       <a id="nav_banner_problems_reversibility" class="menuItem" href="/problems/reversibility/">Reversibility</a>
+    </div>
+
+   <div id="freedom" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_freedom_cogito" class="menuItem" href="/freedom/cogito/">The Cogito</a>
+      <a id="nav_banner_freedom_problem" class="menuItem" href="/freedom/problem/">The Problem</a>
+      <a id="nav_banner_freedom_history" class="menuItem" href="/freedom/history/">The History</a>
+      <a id="nav_banner_freedom_history" class="menuItem" href="/freedom/free_will_in_antiquity.html">Free Will in Antiquity</a>
+      <a id="nav_banner_freedom_mechanisms" class="menuItem" href="/freedom/mechanisms.html">Free Will Mechanisms</a>
+      <a id="nav_banner_freedom_physics" class="menuItem" href="/freedom/physics/">The Physics</a>
+      <a id="nav_banner_freedom_biology" class="menuItem" href="/freedom/biology/">The Biology</a>
+      <a id="nav_banner_freedom_neuroscience" class="menuItem" href="/freedom/neuroscience/">The Neuroscience</a>
+      <a id="nav_banner_freedom_possibilities" class="menuItem" href="/freedom/alternative_possibilities.html">Alternative Possibilities</a>
+      <a id="nav_banner_freedom_adequate" class="menuItem" href="/freedom/adequate_determinism.html">Adequate Determinism</a>
+      <a id="nav_banner_freedom_responsibility" class="menuItem" href="/freedom/moral_responsibility.html">Moral Responsibility</a>
+      <a id="nav_banner_freedom_self" class="menuItem" href="/freedom/self-determination.html">Self-Determination</a>
+      <a id="nav_banner_freedom_separability" class="menuItem" href="/freedom/separability.html">Separability of Free and Will</a>
+      <a id="nav_banner_freedom_argument" class="menuItem" href="/freedom/standard_argument.html">Standard Argument</a>
+      <a id="nav_banner_freedom_argument" class="menuItem" href="/freedom/superdeterminism.html">Superdeterminism</a>
+      <a id="nav_banner_freedom_two-stage" class="menuItem" href="/freedom/two-stage_models.html">Two-Stage Models</a>
+    </div>
+    
+    <div id="value" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_value_ergo" class="menuItem" href="/value/ergo/">The Ergo</a>
+      <a id="nav_banner_value_free_energy" class="menuItem" href="/value/free_energy/">Free Energy</a>
+      <a id="nav_banner_value_problem" class="menuItem" href="/value/problem/">The Problem</a>
+      <a id="nav_banner_value_history" class="menuItem" href="/value/history/">The History</a>
+      <a id="nav_banner_value_good" class="menuItem" href="/value/good/">The Good</a>
+      <a id="nav_banner_value_origin" class="menuItem" href="/value/origin/">Origin of the Good</a>
+      <a id="nav_banner_value_evil" class="menuItem" href="/value/evil/">Evil (Theodicy)</a>
+      <a id="nav_banner_value_ergod" class="menuItem" href="/value/ergod/">The Ergod</a>
+    </div>
+    
+    <div id="knowledge" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_knowledge_sum" class="menuItem" href="/knowledge/sum/">The Sum</a>
+      <a id="nav_banner_knowledge_problem" class="menuItem" href="/knowledge/problem/">The Problem</a>
+      <a id="nav_banner_knowledge_history" class="menuItem" href="/knowledge/history/">The History</a>
+      <a id="nav_banner_knowledge_belief" class="menuItem" href="/knowledge/belief/">Belief</a>
+      <a id="nav_banner_knowledge_complexity" class="menuItem" href="/knowledge/complexity/">Complexity</a>
+      <a id="nav_banner_knowledge_complexity_history" class="menuItem" href="/knowledge/complexity/history">Complex Systems History</a>
+      <a id="nav_banner_knowledge_demarcation" class="menuItem" href="/knowledge/demarcation/">Demarcation Problem</a>
+      <a id="nav_banner_knowledge_emergence" class="menuItem" href="/knowledge/emergence.html">Emergence</a>
+      <a id="nav_banner_knowledge_epistemology" class="menuItem" href="/problems/epistemology/">Epistemology</a>
+      <a id="nav_banner_knowledge_induction" class="menuItem" href="/problems/induction/">Induction</a>
+      <a id="nav_banner_knowledge_regress" class="menuItem" href="/knowledge/infinite_regress.html">Infinite Regress</a>
+      <a id="nav_banner_knowledge_meaning" class="menuItem" href="/knowledge/meaning/">Meaning</a>
+      <a id="nav_banner_knowledge_metaphysics" class="menuItem" href="/problems/metaphysics/">Metaphysics</a>
+      <a id="nav_banner_knowledge_ontology" class="menuItem" href="/problems/ontology/">Ontology</a>
+      <a id="nav_banner_knowledge_one-many" class="menuItem" href="/problems/one_or_many/">One or Many</a>
+      <a id="nav_banner_knowledge_providence" class="menuItem" href="/knowledge/providence/">Providence</a>
+      <a id="nav_banner_knowledge_universals" class="menuItem" href="/knowledge/universals.html">Universals</a>
+      <a id="nav_banner_knowledge_truth" class="menuItem" href="/knowledge/truth/">Truth</a>
+      
+    </div>
+    
+    
+     <div id="mind" class="menu" onmouseover="menuMouseover(event);">
+      <!--<a id="nav_banner_mind_problems" class="menuItem" href="/mind/problems/">The Problems</a>-->
+      <a id="nav_banner_mind_history" class="menuItem" href="/mind/history/">The History</a>
+      <!--<a id="nav_banner_mind_ego" class="menuItem" href="/mind/ego/">The Self <i>or</i> Ego</a>
+      <a id="nav_banner_mind_physics" class="menuItem" href="/mind/physics/">The Physics</a>
+      <a id="nav_banner_mind_neuroscience" class="menuItem" href="/mind/neuroscience/">The Neuroscience</a>-->
+      <a id="nav_banner_mind_mind-body" class="menuItem" href="/mind/mind_body/">Mind-Body Problem</a>
+      <a id="nav_banner_mind_consciousness" class="menuItem" href="/mind/binding/">Binding Problem</a>
+      <a id="nav_banner_mind_consciousness" class="menuItem" href="/mind/consciousness/">Consciousness Problem</a>
+      <a id="nav_banner_mind_tocs" class="menuItem" href="/mind/tocs/">Theories of Consciousness</a>
+      <a id="nav_banner_mind_nccs" class="menuItem" href="/mind/NCC/">Neural Correlates of Consciousness</a>
+      <a id="nav_banner_mind_consciousness" class="menuItem" href="/mind/cogscience/">Computational Models</a>
+      <a id="nav_banner_mind_lmm" class="menuItem" href="/mind/llm/">Is Mind a Large Language Model (AI)?</a>
+      <a id="nav_banner_mind_err" class="menuItem" href="/mind/ERR/">The Experience Recorder and Reproducer (ERR)</a>
+      <a id="nav_banner_mind_mirror" class="menuItem" href="/mind/mirror_neurons/">Mirror Neurons</a>
+      <a id="nav_banner_mind_causation" class="menuItem" href="/knowledge/mental_causation.html">Mental Causation</a>
+      <a id="nav_banner_mind_panpsychism" class="menuItem" href="/mind/panpsychism">Panpsychism</a>
+      <a id="nav_banner_mind_purpose" class="menuItem" href="/mind/purpose/">Purpose</a>
+      <a id="nav_banner_mind_agency" class="menuItem" href="/mind/agency/">Agency</a>
+      <a id="nav_banner_mind_reductionism" class="menuItem" href="/knowledge/reductionism.html">Reductionism</a>
+      <a id="nav_banner_mind_representation" class="menuItem" href="/knowledge/representation/">Representation</a>
+   </div>
+    
+    <div id="solutions" class="menu" onmouseover="menuMouseover(event);">
+     <a id="nav_banner_solutions_demons" class="menuItem" href="/solutions/demons/">Demons</a>
+     <a id="nav_banner_solutions_determinisms" class="menuItem" href="/solutions/determinisms/">Determinisms</a>
+     <a id="nav_banner_solutions_dogmas" class="menuItem" href="/solutions/dogmas/">Dogmas</a>
+     <a id="nav_banner_solutions_dualisms" class="menuItem" href="/solutions/dualisms/">Dualisms</a>
+     <a id="nav_banner_solutions_experiments" class="menuItem" href="/solutions/experiments/">Experiments</a>
+     <a id="nav_banner_solutions_language" class="menuItem" href="/solutions/language/">Language</a>
+     <!--  <a id="nav_banner_solutions_philosophers" class="menuItem" href="/solutions/philosophers/">Philosophers</a> -->
+     <a id="nav_banner_solutions_progress" class="menuItem" href="/solutions/progress/">Progress</a>
+     <a id="nav_banner_solutions_reason" class="menuItem" href="/solutions/reason/">Reason</a>
+     <!-- <a id="nav_banner_solutions_scientists" class="menuItem" href="/solutions/scientists/">Scientists</a>  -->
+     <a id="nav_banner_solutions_theories" class="menuItem" href="/solutions/theories/">Theories</a>
+     <a id="nav_banner_solutions_triads" class="menuItem" href="/solutions/triads/">Triads</a>
+    </div>
+    
+     <div id="chance" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_chance_history" class="menuItem" href="/chance/history/">The History</a>
+      <a id="nav_banner_mind_problems" class="menuItem" href="/introduction/physics/statistical_mechanics.html">Entropy and Probability</a>
+      <a id="nav_banner_chance_tyche" class="menuItem" href="/chance/tyche/">Peirce's Tyche</a>
+      <a id="nav_banner_chance_einstein" class="menuItem" href="/solutions/scientists/einstein/">Through Einstein's Eyes</a>
+    </div>
+    
+     <div id="quantum" class="menu" onmouseover="menuMouseover(event);">
+     <a id="nav_banner_quantum_blaxk_holes" class="menuItem" href="/quantum/black_holes/">Black Holes</a>
+     <a id="nav_banner_quantum_collapse" class="menuItem" href="/quantum/collapse/">Collapse of the <br/>Wave Function</a>
+     <a id="nav_banner_quantum_observer" class="menuItem" href="/quantum/observer/">Conscious Observer</a>
+     <a id="nav_banner_quantum_xopenhagen" class="menuItem" href="/quantum/copenhagen/">Copenhagen Interpretation</a>
+     <a id="nav_banner_quantum_decoherence" class="menuItem" href="/quantum/decoherence/">Decoherence</a>
+     <a id="nav_banner_quantum_determinism" class="menuItem" href="/quantum/determinism/">Determinism</a>
+     <a id="nav_banner_quantum_indeterminism" class="menuItem" href="/quantum/indeterminism/">Indeterminism</a>
+     <a id="nav_banner_quantum_principles" class="menuItem" href="/quantum/principles/">Dirac's Principles</a>
+     <a id="nav_banner_quantum_polarizers" class="menuItem" href="/solutions/experiments/dirac_3-polarizers/">Dirac's 3 Polarizers</a>
+     <a id="nav_banner_quantum_foundation" class="menuItem" href="/quantum/foundation/">Foundations</a>
+     <a id="nav_banner_quantum_interpretation" class="menuItem" href="/quantum/interpretations/">Interpretations</a>
+     <a id="nav_banner_quantum_irreversibility" class="menuItem" href="/problems/reversibility/">Irreversibility</a>
+     <a id="nav_banner_quantum_measurement" class="menuItem" href="/problems/measurement/">Measurement Problem</a>
+     <a id="nav_banner_quantum_physics" class="menuItem" href="/quantum/physics/">Quantum, Thermo, Info</a>
+     <a id="nav_banner_quantum_classical" class="menuItem" href="/introduction/physics/quantum_to_classical.html">Quantum to Classical</a>
+     <a id="nav_banner_quantum_recurrence" class="menuItem" href="/problems/recurrence/">Recurrence Problem</a>
+     <a id="nav_banner_quantum_schrodingerscat" class="menuItem" href="/solutions/experiments/schrodingerscat/">Schrödinger's Cat</a>
+     <a id="nav_banner_quantum_schrodingerequation" class="menuItem" href="/quantum/equation/">Schrödinger Equation</a>
+     <a id="nav_banner_quantum_statistical" class="menuItem" href="/quantum/spacetime/">SpaceTime</a>
+     <a id="nav_banner_quantum_spacetime" class="menuItem" href="/quantum/statistical/">Statistical Interpretation</a>
+     <a id="nav_banner_quantum_superposition" class="menuItem" href="/quantum/superposition/">Superposition</a>
+     <a id="nav_banner_quantum_mystery" class="menuItem" href="/quantum/mystery/">The Only Mystery</a>
+     <a id="nav_banner_quantum_EPR" class="menuItem" href="/quantum/two-slit/">Two-Slit Experiment</a>
+     <a id="nav_banner_quantum_EPR" class="menuItem" href="/quantum/uncertainty/">Uncertainty Principle</a>
+     <a id="nav_banner_quantum_wave" class="menuItem" href="/introduction/physics/wave-particle_duality.html">Wave-Particle Duality</a>
+    </div>
+    
+    <div id="scandals" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_scandals_chance" class="menuItem" href="/scandals/chance/">Chance</a> <!--Science-->
+      <a id="nav_banner_scandals_consciousness" class="menuItem" href="/scandals/consciousness/">Consciousness</a> <!--Neuroscience-->
+      <a id="nav_banner_scandals_flat" class="menuItem" href="/scandals/creation/">Creation</a>  <!--Cosmology-->
+      <a id="nav_banner_scandals_einstein" class="menuItem" href="/scandals/einstein/">Einstein</a>  <!--Quantum Mechanics-->
+      <a id="nav_banner_scandals_freedom" class="menuItem" href="/scandals/free_will/">Free Will</a>  <!--Philosophys-->
+      <a id="nav_banner_scandals_god" class="menuItem" href="/scandals/god/">God</a>  <!--Religion-->
+      <a id="nav_banner_scandals_knowledge" class="menuItem" href="/scandals/knowledge/">Knowledge</a>  <!--Epistemology-->
+      <a id="nav_banner_scandals_life" class="menuItem" href="/scandals/life/">Life</a> <!--Biology-->
+      <a id="nav_banner_scandals_meaning" class="menuItem" href="/scandals/meaning/">Meaning</a> <!--Language-->
+      <a id="nav_banner_scandals_metaphysics" class="menuItem" href="/scandals/metaphysics/">Metaphysics</a> <!--Ontology-->
+      <a id="nav_banner_scandals_mind" class="menuItem" href="/scandals/mind/">Mind</a> <!--Language-->
+      <a id="nav_banner_scandals_power" class="menuItem" href="/scandals/power/">Power</a> <!--Politics-->
+      <a id="nav_banner_scandals_values" class="menuItem" href="/scandals/value/">Values</a>  <!--Ethics-->
+      <a id="nav_banner_scandals_wealth" class="menuItem" href="/scandals/wealth/">Wealth</a>  <!--Economics-->
+   </div>
+
+    <div id="afterwords" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_afterwords_conclusions" class="menuItem" href="/afterwords/conclusions/">Conclusions</a>
+      <a id="nav_banner_afterwords_bibliography" class="menuItem" href="/afterwords/bibliography/">Bibliography</a>
+      <a id="nav_banner_afterwords_glossary" class="menuItem" href="/afterwords/glossary/">Glossary</a>
+      <a id="nav_banner_afterwords_author_index" class="menuItem" href="/afterwords/author_index/">Name Index</a>
+      <a id="nav_banner_afterwords_subject_index" class="menuItem" href="/afterwords/subject_index/">Subject Index</a>
+      <a id="nav_banner_afterwords_colophon" class="menuItem" href="/afterwords/colophon/">Colophon</a>
+    </div>
+    
+    <div id="life" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_life_agency" class="menuItem" href="/life/agency/">Agency</a>
+      <a id="nav_banner_life_autopoesis" class="menuItem" href="/life/autopoesis/">Autopoesis</a>
+      <!--<a id="nav_banner_life_cell_cycle" class="menuItem" href="/life/cell_cycle/">The Cell Cycle</a>-->
+      <a id="nav_banner_life_beyond" class="menuItem" href="/life/beyond/">Beyond Darwinism?</a>
+      <a id="nav_banner_life_biosemiotics" class="menuItem" href="/life/biosemiotics/">Biosemiotics</a>
+      <a id="nav_banner_life_biosphere" class="menuItem" href="/life/biosphere/">Biosphere</a>
+      <a id="nav_banner_life_complexity" class="menuItem" href="/life/complexity/">Complexity</a>
+      <a id="nav_banner_life_emergence" class="menuItem" href="/life/emergence/">Emergence</a>
+      <a id="nav_banner_life_entelechy" class="menuItem" href="/life/entelechy/">Entelechy</a>
+      <a id="nav_banner_life_entropy" class="menuItem" href="/life/entropy/">Entropy</a>
+      <a id="nav_banner_life_epigenetics" class="menuItem" href="/life/epigenetics/">Epigenetics</a>
+      <a id="nav_banner_life_gaia" class="menuItem" href="/life/gaia/">Gaia</a>
+      <a id="nav_banner_life_infobiology" class="menuItem" href="/life/infobiology/">Information in Biology</a>
+      <a id="nav_banner_life_design" class="menuItem" href="/life/design/">Intelligent Design</a>
+      <a id="nav_banner_life_meaning" class="menuItem" href="/life/meaning/">Meaning</a>
+      <a id="nav_banner_life_origins" class="menuItem" href="/life/origins/">Origins</a>
+      <a id="nav_banner_life_goal" class="menuItem" href="/life/goal/">Purpose</a>
+      <a id="nav_banner_life_reductionism" class="menuItem" href="/life/reductionism/">Reductionism</a>
+      <a id="nav_banner_life_reverence" class="menuItem" href="/life/reverence/">Reverence for Life</a>
+      <!--<a id="nav_banner_life_synergy" class="menuItem" href="/life/synergy"/">Synergy</a>-->
+      <a id="nav_banner_life_teleology" class="menuItem" href="/life/teleology/">Teleology</a>
+      <a id="nav_banner_life_teleonomy" class="menuItem" href="/life/teleonomy/">Teleonomy</a>
+      <a id="nav_banner_life_universal_darwinism" class="menuItem" href="/life/universal_darwinism/">Universal Darwinism</a>
+      <a id="nav_banner_life_vitalism" class="menuItem" href="/life/vitalism/">Vitalism</a>
+      
+      
+    </div>
+    
+    <div id="entanglement" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_bell" class="menuItem" href="/quantum/bell_theorem/">Bell's Theorem</a>
+      <a id="nav_banner_entanglement_polytope" class="menuItem" href="/entanglement/polytope/">Bell's Kinky Polytope</a>
+      <a id="nav_banner_common_cause" class="menuItem" href="/entanglement/common_cause/">Common Cause?</a>
+      <a id="nav_banner_disentanglement*" class="menuItem" href="/quantum/disentanglement/">Disentanglement</a>
+      <a id="nav_banner_EPR" class="menuItem" href="/solutions/experiments/EPR/">EPR Paradox</a>
+      <a id="nav_banner_fresnel" class="menuItem" href="/quantum/fresnel-arago/">Fresnel-Arago Effect</a>
+      <a id="nav_banner_hidden_constant" class="menuItem" href="/quantum/hidden_constant/">Hidden Constant of Motion?</a>
+      <a id="nav_banner_hidden_variables" class="menuItem" href="/entanglement/hidden_variables/">Hidden Variables?</a>
+      <a id="nav_banner_mach-zender" class="menuItem" href="/quantum/mach_zender/">Mach-Zender</a>
+      <a id="nav_banner_quantum_keys" class="menuItem" href="/quantum/keys/">Quantum Keys</a>
+      <a id="nav_banner_nonlocality" class="menuItem" href="/problems/nonlocality/">Nonlocality</a>
+      <a id="nav_banner_nonseparability" class="menuItem" href="/problems/nonseparability/">Nonseparability</a>
+      <a id="nav_banner_quantum_computer" class="menuItem" href="/quantum/keys/">Quantum Computers</a>
+      <a id="nav_banner_quantum_eraser" class="menuItem" href="/quantum/keys/">Quantum Eraser</a>
+      <a id="nav_banner_quantum_keys" class="menuItem" href="/quantum/keys/">Quantum Keys</a>
+      <a id="nav_banner_quantum_weirdness" class="menuItem" href="/quantum/weirdness/">Quantum Weirdness</a>
+      <a id="nav_banner_qubits" class="menuItem" href="/quantum/qubits/">Qubits</a>
+      <a id="nav_banner_spherical" class="menuItem" href="/entanglement/spherical/">Spherical Symmetry</a>
+      <a id="nav_banner_spooky_action" class="menuItem" href="/entanglement/spooky/">Spooky Action at a Distance</a>
+      <a id="nav_banner_delayed" class="menuItem" href="/quantum/delayed_choice/">Wheeler's Delayed Choice</a>
+      
+    </div>
+
+    
+    
+    
+    <!-- start column1 -->
+    <table width="765" border="0" cellspacing="0" cellpadding="0">
+      <tbody>
+	<tr>
+	  <td valign="top">
+	    <div id="column1">
+	     <div class="linksLeftCol">
+              Topics
+<p/>
+    <a href="/introduction/">Introduction</a><br> 
+    <a href="/problems/">Problems</a><br> 
+    <a href="/freedom/">Freedom</a><br> 
+    <a href="/knowledge/">Knowledge</a><br> 
+    <a href="/mind/">Mind</a><br> 
+    <a href="/life/">Life</a><br> 
+    <a href="/chance/">Chance</a><br> 
+    <a href="/quantum/">Quantum</a><br> 
+    <a href="/entanglement/">Entanglement</a><br> 
+    <a href="/scandals/">Scandals</a><br> 
+    <p/>
+Philosophers
+    <br><br>
+    <a href="/solutions/philosophers/adler/">Mortimer Adler</a><br> 
+    <a href="/solutions/philosophers/albritton/">Rogers Albritton</a><br> 
+    <a href="/solutions/philosophers/alexander/">Alexander of Aphrodisias</a><br> 
+    <a href="/solutions/philosophers/alexanders/">Samuel Alexander</a><br> 
+    <a href="/solutions/philosophers/alston/">William Alston</a><br> 
+    <a href="/solutions/philosophers/anaximander/">Anaximander</a><br> 
+    <a href="/solutions/philosophers/anscombe/">G.E.M.Anscombe</a><br> 
+    <a href="/solutions/philosophers/anselm/">Anselm</a><br> 
+    <a href="/solutions/philosophers/antony/">Louise Antony</a><br> 
+    <a href="/solutions/philosophers/aquinas/">Thomas Aquinas</a><br> 
+    <a href="/solutions/philosophers/aristotle/">Aristotle</a><br> 
+    <!-- <a href="/solutions/philosophers/arminius/">Arminius</a><br> -->
+    <a href="/knowledge/philosophers/armstrong/">David Armstrong</a><br> 
+    <a href="/solutions/philosophers/atmanspacher/">Harald Atmanspacher</a><br> 
+    <a href="/knowledge/philosophers/audi/">Robert Audi</a><br> 
+    <a href="/solutions/philosophers/augustine/">Augustine</a><br> 
+    <a href="/solutions/philosophers/austin/">J.L.Austin</a><br>
+    <a href="/solutions/philosophers/ayer/">A.J.Ayer</a><br>
+    <a href="/solutions/philosophers/bain/">Alexander Bain</a><br> 
+    <a href="/solutions/philosophers/balaguer/">Mark Balaguer</a><br> 
+    <a href="/solutions/philosophers/barrett/">Jeffrey Barrett</a><br> 
+    <a href="/solutions/philosophers/barrettw/">William Barrett</a><br> 
+    <a href="/solutions/philosophers/belsham/">William Belsham</a><br> 
+    <a href="/solutions/philosophers/bergson/">Henri Bergson</a><br> 
+    <a href="/solutions/philosophers/berkeley/">George Berkeley</a><br> 
+    <a href="/solutions/philosophers/berlin/">Isaiah Berlin</a><br>
+    <a href="/solutions/philosophers/bernstein/">Richard J. Bernstein</a><br>
+    <a href="/solutions/philosophers/berofsky/">Bernard Berofsky</a><br>
+    <a href="/knowledge/philosophers/bishop/">Robert Bishop</a><br> 
+    <a href="/solutions/philosophers/black/">Max Black</a><br> 
+    <a href="/solutions/philosophers/blackmore/">Susan Blackmore</a><br> 
+    <a href="/solutions/philosophers/bobzien/">Susanne Bobzien</a><br> 
+    <a href="/solutions/philosophers/bois-reymond/">Emil du Bois-Reymond</a><br> 
+    <a href="/solutions/philosophers/bok/">Hilary Bok</a><br> 
+    <a href="/knowledge/philosophers/bonjour/">Laurence BonJour</a><br> 
+    <a href="/solutions/philosophers/boole/">George Boole</a><br> 
+    <a href="/solutions/philosophers/boutroux/">Émile Boutroux</a><br> 
+    <a href="/solutions/philosophers/boyd/">Daniel Boyd</a><br> 
+    <a href="/solutions/philosophers/bradley/">F.H.Bradley</a><br> 
+    <!-- <a href="/solutions/philosophers/bradley/">Franz Brentano</a><br> -->
+    <a href="/solutions/philosophers/broad/">C.D.Broad</a><br>
+    <a href="/solutions/philosophers/burke/">Michael Burke</a><br>
+    <a href="/solutions/philosophers/butterfield/">Jeremy Butterfield</a><br>
+    <a href="/solutions/philosophers/cahoone/">Lawrence Cahoone</a><br>
+    <a href="/solutions/philosophers/campbell/">C.A.Campbell</a><br>
+    <a href="/solutions/philosophers/campbellj/">Joseph Keim Campbell</a><br>
+    <a href="/solutions/philosophers/carnap/">Rudolf Carnap</a><br>
+    <a href="/solutions/philosophers/carneades/">Carneades</a><br>
+    <a href="/solutions/philosophers/cartwright/">Nancy Cartwright</a><br>
+    <a href="/solutions/philosophers/caruso/">Gregg Caruso</a><br>
+    <a href="/solutions/philosophers/cassirer/">Ernst Cassirer</a><br>
+    <a href="/solutions/philosophers/chalmers/">David Chalmers</a><br>
+    <a href="/solutions/philosophers/chisholm/">Roderick Chisholm</a><br>
+    <a href="/solutions/philosophers/chrysippus/">Chrysippus</a><br>
+    <a href="/solutions/philosophers/carneades/">Cicero</a><br> 
+    <a href="/solutions/philosophers/clark/">Tom Clark</a><br>
+    <a href="/solutions/philosophers/clarke/">Randolph Clarke</a><br>
+    <a href="/solutions/philosophers/clarkes/">Samuel Clarke</a><br>
+    <a href="/solutions/philosophers/collins/">Anthony Collins</a><br>
+    <a href="/solutions/philosophers/compte/">August Compte</a><br>
+    <a href="/solutions/philosophers/corradini/">Antonella Corradini</a><br> 
+    <a href="/solutions/philosophers/diodorus/">Diodorus Cronus</a><br>
+    <a href="/solutions/philosophers/dancy/">Jonathan Dancy</a><br>
+    <a href="/solutions/philosophers/davidson/">Donald Davidson</a><br>
+    <a href="/solutions/philosophers/decaro/">Mario De Caro</a><br> 
+    <a href="/solutions/philosophers/democritus/">Democritus</a><br> 
+    <a href="/solutions/philosophers/dembski">William Dembski</a><br>
+    <a href="/solutions/philosophers/dempsey/">Brendan Dempsey</a><br>
+    <a href="/solutions/philosophers/dennett/">Daniel Dennett</a><br>
+    <a href="/solutions/philosophers/derrida/">Jacques Derrida</a><br> 
+    <a href="/solutions/philosophers/descartes/">René Descartes</a><br> 
+    <a href="/solutions/philosophers/double/">Richard Double</a><br> 
+    <a href="/solutions/philosophers/dretske/">Fred Dretske</a><br> 
+    <a href="/solutions/philosophers/ducasse/">Curt Ducasse</a><br> 
+    <!--<a href="/solutions/philosophers/dupre/">John Dupré</a><br>-->
+    <a href="/solutions/philosophers/earman/">John Earman</a><br> 
+    <a href="/solutions/philosophers/ekstrom/">Laura Waddell Ekstrom</a><br> 
+    <a href="/solutions/philosophers/epictetus/">Epictetus</a><br> 
+    <a href="/solutions/philosophers/epicurus/">Epicurus</a><br> 
+    <a href="/solutions/philosophers/farrer/">Austin Farrer</a><br>
+    <a href="/solutions/philosophers/feigl/">Herbert Feigl</a><br>
+    <a href="/solutions/philosophers/fine/">Arthur Fine</a><br>
+    <a href="/solutions/philosophers/fischer/">John Martin Fischer</a><br>
+    <a href="/solutions/philosophers/fitch/">Frederic Fitch</a><br>
+    <a href="/solutions/philosophers/flanagan/">Owen Flanagan</a><br>
+    <a href="/solutions/philosophers/floridi/">Luciano Floridi</a><br>
+    <a href="/solutions/philosophers/foot/">Philippa Foot</a><br>
+    <a href="/solutions/philosophers/fouillee/">Alfred Fouille&eacute;</a><br>
+    <a href="/solutions/philosophers/frankfurt/">Harry Frankfurt</a><br>
+    <a href="/solutions/philosophers/franklin/">Richard L. Franklin</a><br>
+    <a href="/solutions/philosophers/frassen/">Bas van Fraassen</a><br>
+    <a href="/solutions/philosophers/frede/">Michael Frede</a><br>
+    <a href="/solutions/philosophers/frege/">Gottlob Frege</a><br>
+    <a href="/solutions/philosophers/geach/">Peter Geach</a><br>
+    <a href="/solutions/philosophers/gettier/">Edmund Gettier</a><br>
+    <a href="/solutions/philosophers/ginet/">Carl Ginet</a><br>
+    <a href="/knowledge/philosophers/goldman/">Alvin Goldman</a><br> 
+    <a href="/solutions/philosophers/gorgias/">Gorgias</a><br>
+    <a href="/solutions/philosophers/green/">Nicholas St. John Green</a><br>
+    <a href="/solutions/philosophers/gregersen/">Niels Henrik Gregersen</a><br>
+    <a href="/solutions/philosophers/grice/">H.Paul Grice</a><br>
+    <a href="/solutions/philosophers/hacking/">Ian Hacking</a><br> 
+    <a href="/solutions/philosophers/haji/">Ishtiyaque Haji</a><br> 
+    <a href="/solutions/philosophers/hampshire/">Stuart Hampshire</a><br> 
+    <a href="/solutions/philosophers/hardie/">W.F.R.Hardie</a><br> 
+    <a href="/solutions/philosophers/harris/">Sam Harris</a><br> 
+    <a href="/solutions/philosophers/hasker/">William Hasker</a><br> 
+    <a href="/solutions/philosophers/hare/">R.M.Hare</a><br> 
+    <a href="/solutions/philosophers/hegel/">Georg W.F. Hegel</a><br> 
+    <a href="/solutions/philosophers/heidegger/">Martin Heidegger</a><br>
+    <a href="/solutions/philosophers/heraclitus/">Heraclitus</a><br>
+    <a href="/solutions/philosophers/hobart/">R.E.Hobart</a><br> 
+    <a href="/solutions/philosophers/hobbes/">Thomas Hobbes</a><br> 
+    <a href="/solutions/philosophers/hodgson/">David Hodgson</a><br>
+    <a href="/solutions/philosophers/hodgsons/">Shadsworth Hodgson</a><br> 
+    <a href="/solutions/philosophers/dholbach/">Baron d'Holbach</a><br>
+    <a href="/solutions/philosophers/honderich/">Ted Honderich</a><br>
+    <!-- <a href="/solutions/philosophers/hook/">Sidney Hook</a><br> -->
+    <a href="/solutions/philosophers/huby/">Pamela Huby</a><br> 
+    <a href="/solutions/philosophers/hume/">David Hume</a><br> 
+    <a href="/solutions/philosophers/huoranszki/">Ferenc Huoranszki</a><br> 
+    <!-- <a href="/solutions/philosophers/husserl/">Edmund Husserl</a><br> -->
+    <a href="/solutions/philosophers/jackson/">Frank Jackson</a><br> 
+    <a href="/solutions/philosophers/james/">William James</a><br> 
+    <a href="/solutions/philosophers/kames/">Lord Kames</a><br>
+    <a href="/solutions/philosophers/kane/">Robert Kane</a><br>
+    <a href="/solutions/philosophers/kant/">Immanuel Kant</a><br> 
+    <a href="/solutions/philosophers/kapitan/">Tomis Kapitan</a><br> 
+    <a href="/solutions/philosophers/kaufmann/">Walter Kaufmann</a><br> 
+    <a href="/solutions/philosophers/kim/">Jaegwon Kim</a><br> 
+    <a href="/solutions/philosophers/king/">William King</a><br> 
+    <a href="/knowledge/philosophers/kornblith/">Hilary Kornblith</a><br> 
+    <a href="/solutions/philosophers/korsgaard/">Christine Korsgaard</a><br> 
+    <a href="/solutions/philosophers/kripke/">Saul Kripke</a><br> 
+    <a href="/solutions/philosophers/kuhn/">Thomas Kuhn</a><br> 
+    <a href="/solutions/philosophers/lavazza/">Andrea Lavazza</a><br> 
+    <a href="/solutions/philosophers/ladyman/">James Ladyman</a><br> 
+    <a href="/solutions/philosophers/lehner/">Christoph Lehner</a><br>
+    <a href="/solutions/philosophers/lehrer/">Keith Lehrer</a><br> 
+    <a href="/solutions/philosophers/leibniz/">Gottfried Leibniz</a><br> 
+    <a href="/solutions/philosophers/lequyer/">Jules Lequyer</a><br> 
+    <a href="/solutions/philosophers/leucippus/">Leucippus</a><br> 
+    <a href="/solutions/philosophers/levin/">Michael Levin</a><br>
+    <a href="/solutions/philosophers/levine/">Joseph Levine</a><br>
+    <a href="/solutions/philosophers/lewes/">George Henry Lewes</a><br> 
+    <a href="/knowledge/philosophers/lewis/">C.I.Lewis</a><br> 
+    <a href="/solutions/philosophers/lewis/">David Lewis</a><br> 
+    <a href="/solutions/philosophers/lipton/">Peter Lipton</a><br> 
+    <a href="/solutions/philosophers/morgan/">C. Lloyd Morgan</a><br> 
+    <a href="/solutions/philosophers/locke/">John Locke</a><br>
+    <a href="/solutions/philosophers/lockwood/">Michael Lockwood</a><br>
+    <a href="/solutions/philosophers/lovejoy/">Arthur O. Lovejoy</a><br>
+    <a href="/solutions/philosophers/lowe/">E. Jonathan Lowe</a><br>
+    <a href="/solutions/philosophers/lucas/">John R. Lucas</a><br>
+    <a href="/solutions/philosophers/lucretius/">Lucretius</a><br>
+    <a href="/solutions/philosophers/macintyre/">Alasdair MacIntyre</a><br> 
+    <a href="/solutions/philosophers/marcus/">Ruth Barcan Marcus</a><br> 
+    <a href="/solutions/philosophers/maudlin/">Tim Maudlin</a><br> 
+    <a href="/solutions/philosophers/martineau/">James Martineau</a><br> 
+    <a href="/solutions/philosophers/maxwell/">Nicholas Maxwell</a><br> 
+    <a href="/solutions/philosophers/mccall/">Storrs McCall</a><br>
+    <a href="/solutions/philosophers/mccann/">Hugh McCann</a><br>
+    <a href="/solutions/philosophers/mcginn/">Colin McGinn</a><br>
+    <a href="/solutions/philosophers/mckenna/">Michael McKenna</a><br>
+    <a href="/solutions/philosophers/mclaughlin/">Brian McLaughlin</a><br>
+    <a href="/solutions/philosophers/mctaggart/">John McTaggart</a><br>
+    <a href="/solutions/philosophers/meehl/">Paul E. Meehl</a><br>
+    <a href="/solutions/philosophers/meixner/">Uwe Meixner</a><br>
+    <a href="/solutions/philosophers/mele/">Alfred Mele</a><br>
+    <a href="/solutions/philosophers/merricks/">Trenton Merricks</a><br>
+    <a href="/solutions/philosophers/mill/">John Stuart Mill</a><br>
+    <a href="/solutions/philosophers/miller/">Dickinson Miller</a><br>
+    <a href="/solutions/philosophers/moore/">G.E.Moore</a><br>
+    <a href="/solutions/philosophers/nagele/">Ernest Nagel</a><br>
+    <a href="/solutions/philosophers/nagelt/">Thomas Nagel</a><br>
+    <a href="/solutions/philosophers/neurath/">Otto Neurath</a><br>
+    <a href="/solutions/philosophers/nietzsche/">Friedrich Nietzsche</a><br>
+    <a href="/solutions/philosophers/norton/">John Norton</a><br>
+    <a href="/solutions/philosophers/nowell-smith/">P.H.Nowell-Smith</a><br>
+    <a href="/solutions/philosophers/nozick/">Robert Nozick</a><br>
+    <a href="/solutions/philosophers/ockham/">William of Ockham</a><br> 
+    <a href="/solutions/philosophers/oconnor/">Timothy O'Connor</a><br>
+    <a href="/solutions/philosophers/parmenides/">Parmenides</a><br>
+    <a href="/solutions/philosophers/pears/">David F. Pears</a><br> 
+    <a href="/solutions/philosophers/peirce/">Charles Sanders Peirce</a><br> 
+    <a href="/solutions/philosophers/pereboom/">Derk Pereboom</a><br> 
+    <a href="/solutions/philosophers/piccinini/">Gualtiero Piccinini</a><br> 
+    <a href="/solutions/philosophers/pinker/">Steven Pinker</a><br>
+    <a href="/solutions/philosophers/place/">U.T.Place</a><br> 
+    <a href="/solutions/philosophers/plato/">Plato</a><br> 
+    <a href="/solutions/philosophers/popper/">Karl Popper</a><br> 
+    <a href="/solutions/philosophers/porphyry/">Porphyry</a><br> 
+    <a href="/solutions/philosophers/price/">Huw Price</a><br> 
+    <a href="/solutions/philosophers/prichard/">H.A.Prichard</a><br> 
+    <a href="/solutions/philosophers/protagoras/">Protagoras</a><br>
+    <a href="/solutions/philosophers/putnam/">Hilary Putnam</a><br> 
+    <a href="/solutions/philosophers/quine/">Willard van Orman Quine</a><br> 
+    <a href="/knowledge/philosophers/ramsey/">Frank Ramsey</a><br> 
+    <a href="/solutions/philosophers/rand/">Ayn Rand</a><br> 
+    <a href="/solutions/philosophers/rea/">Michael Rea</a><br>
+    <a href="/solutions/philosophers/reid/">Thomas Reid</a><br> 
+    <a href="/solutions/philosophers/renouvier/">Charles Renouvier</a><br> 
+    <a href="/solutions/philosophers/rescher/">Nicholas Rescher</a><br> 
+    <a href="/solutions/philosophers/rietdijk/">C.W.Rietdijk</a><br> 
+    <a href="/solutions/philosophers/rorty/">Richard Rorty</a><br> 
+    <a href="/solutions/philosophers/royce/">Josiah Royce</a><br> 
+    <a href="/solutions/philosophers/russell/">Bertrand Russell</a><br> 
+    <a href="/solutions/philosophers/russellp/">Paul Russell</a><br> 
+    <a href="/solutions/philosophers/ryle/">Gilbert Ryle</a><br> 
+    <a href="/solutions/philosophers/sartre/">Jean-Paul Sartre</a><br> 
+    <a href="/solutions/philosophers/sayre/">Kenneth Sayre</a><br> 
+    <a href="/solutions/philosophers/scanlon/">T.M.Scanlon</a><br> 
+    <a href="/solutions/philosophers/schlick/">Moritz Schlick</a><br> 
+    <a href="/solutions/philosophers/scotus/">John Duns Scotus</a><br> 
+    <a href="/solutions/philosophers/schweitzer/">Albert Schweitzer</a><br> 
+    <a href="/solutions/philosophers/schopenhauer/">Arthur Schopenhauer</a><br> 
+    <a href="/solutions/philosophers/searle/">John Searle</a><br>
+    <a href="/solutions/philosophers/sellars/">Wilfrid Sellars</a><br>
+    <a href="/solutions/philosophers/shiang/">David Shiang</a><br> 
+    <a href="/solutions/philosophers/sidelle/">Alan Sidelle</a><br> 
+    <a href="/solutions/philosophers/sider/">Ted Sider</a><br> 
+    <a href="/solutions/philosophers/sidgwick/">Henry Sidgwick</a><br> 
+    <a href="/solutions/philosophers/sinnott-armstrong/">Walter Sinnott-Armstrong</a><br> 
+    <a href="/solutions/philosophers/slezak/">Peter Slezak</a><br> 
+    <a href="/solutions/philosophers/smart/">J.J.C.Smart</a><br> 
+    <a href="/solutions/philosophers/smilansky/">Saul Smilansky</a><br> 
+    <a href="/solutions/philosophers/smith/">Michael Smith</a><br> 
+    <a href="/solutions/philosophers/spinoza/">Baruch Spinoza</a><br> 
+    <a href="/solutions/philosophers/stebbing/">L. Susan Stebbing</a><br> 
+    <a href="/solutions/philosophers/stengers/">Isabelle Stengers</a><br> 
+    <a href="/solutions/philosophers/stout/">George F. Stout</a><br> 
+    <a href="/solutions/philosophers/strawsong/">Galen Strawson</a><br>
+    <a href="/solutions/philosophers/strawson/">Peter Strawson</a><br>
+    <a href="/solutions/philosophers/stump/">Eleonore Stump</a><br>
+    <a href="/solutions/philosophers/suarez/">Francisco Suárez</a><br>
+    <a href="/solutions/philosophers/taylorr/">Richard Taylor</a><br>
+    <a href="/solutions/philosophers/timpe/">Kevin Timpe</a><br>
+    <a href="/solutions/philosophers/twain/">Mark Twain</a><br>
+    <a href="/solutions/philosophers/unger/">Peter Unger</a><br> 
+    <a href="/solutions/philosophers/vaninwagen/">Peter van Inwagen</a><br> 
+    <a href="/solutions/philosophers/vargas/">Manuel Vargas</a><br> 
+    <a href="/solutions/philosophers/venn/">John Venn</a><br> 
+    <a href="/solutions/philosophers/vihvelin/">Kadri Vihvelin</a><br> 
+    <a href="/solutions/philosophers/voltaire/">Voltaire</a><br> 
+    <a href="/solutions/philosophers/vonwright/">G.H. von Wright</a><br> 
+    <a href="/solutions/philosophers/wallacedf/">David Foster Wallace</a><br> 
+    <a href="/solutions/philosophers/wallace/">R. Jay Wallace</a><br> 
+    <a href="/solutions/philosophers/ward/">W.G.Ward</a><br> 
+    <a href="/solutions/philosophers/warfield/">Ted Warfield</a><br> 
+    <a href="/solutions/philosophers/weatherford/">Roy Weatherford</a><br> 
+    <a href="/solutions/philosophers/weizsacker/">C.F. von Weizsäcker</a><br>
+    <a href="/solutions/philosophers/whewell/">William Whewell</a><br> 
+    <a href="/solutions/philosophers/whitehead/">Alfred North Whitehead</a><br> 
+    <a href="/solutions/philosophers/widerker/">David Widerker</a><br> 
+    <a href="/solutions/philosophers/wiggins/">David Wiggins</a><br> 
+    <a href="/solutions/philosophers/williams/">Bernard Williams</a><br> 
+    <a href="/solutions/philosophers/williamson/">Timothy Williamson</a><br> 
+    <a href="/solutions/philosophers/wittgenstein/">Ludwig Wittgenstein</a><br> 
+    <a href="/solutions/philosophers/wolf/">Susan Wolf</a><br> 
+    <a href="/solutions/philosophers/xenophon/">Xenophon</a><br> 
+    <br> 
+    Scientists
+    <br><br>
+    <a href="/solutions/scientists/albert/">David Albert</a><br>
+    <a href="/solutions/scientists/anderson/">Philip W. Anderson</a><br>
+    <a href="/solutions/scientists/arbib/">Michael Arbib</a><br>
+    <a href="/solutions/scientists/azarian/">Bobby Azarian</a><br>
+    <a href="/solutions/scientists/baade/">Walter Baade</a><br>
+    <a href="/solutions/scientists/baars/">Bernard Baars</a><br>
+    <a href="/solutions/scientists/bada/">Jeffrey Bada</a><br>
+    <a href="/solutions/scientists/ballentine/">Leslie Ballentine</a><br>
+    <a href="/solutions/scientists/barbieri/">Marcello Barbieri</a><br>
+    <a href="/solutions/scientists/barandes/">Jacob Barandes</a><br>
+    <a href="/solutions/scientists/barbour/">Julian Barbour</a><br>
+    <a href="/solutions/scientists/barlow/">Horace Barlow</a><br>
+    <a href="/solutions/scientists/bateson/">Gregory Bateson</a><br>
+    <a href="/solutions/scientists/bekenstein/">Jakob Bekenstein</a><br>
+    <a href="/solutions/scientists/bell/">John S. Bell</a><br>
+    <a href="/solutions/scientists/beller/">Mara Beller</a><br>
+    <a href="/solutions/scientists/bennett/">Charles Bennett</a><br>
+    <a href="/solutions/scientists/bertalanffy/">Ludwig von Bertalanffy</a><br>
+    <a href="/solutions/scientists/blackmore/">Susan Blackmore</a><br>
+    <a href="/solutions/scientists/boden/">Margaret Boden</a><br>
+    <a href="/solutions/scientists/bohm/">David Bohm</a><br>
+    <a href="/solutions/scientists/bohr/">Niels Bohr</a><br>
+    <a href="/solutions/scientists/boltzmann/">Ludwig Boltzmann</a><br> 
+    <a href="/solutions/scientists/bonner/">John Tyler Bonner</a><br> 
+    <a href="/solutions/scientists/borel/">Emile Borel</a><br> 
+    <a href="/solutions/scientists/born/">Max Born</a><br> 
+    <a href="/solutions/scientists/bose/">Satyendra Nath Bose</a><br> 
+    <a href="/solutions/scientists/bothe/">Walther Bothe</a><br> 
+    <a href="/solutions/scientists/bricmont/">Jean Bricmont</a><br>
+    <a href="/solutions/scientists/briegel/">Hans Briegel</a><br>
+    <a href="/solutions/scientists/brillouin/">Leon Brillouin</a><br>
+    <a href="/solutions/scientists/brooks/">Daniel Brooks</a><br>
+    <a href="/solutions/scientists/brush/">Stephen Brush</a><br>
+    <a href="/solutions/scientists/buckle/">Henry Thomas Buckle</a><br>
+    <a href="/solutions/scientists/burbury/">S. H. Burbury</a><br>
+    <a href="/solutions/scientists/calvin/">Melvin Calvin</a><br>
+    <a href="/solutions/scientists/calvinw/">William Calvin</a><br>
+    <a href="/solutions/scientists/campbell/">Donald Campbell</a><br>
+    <a href="/solutions/scientists/campbellj/">John O. Campbell</a><br>
+    <a href="/solutions/scientists/carnot/">Sadi Carnot</a><br>
+    <a href="/solutions/scientists/carroll/">Sean B. Carroll</a><br>
+    <a href="/solutions/scientists/cashmore/">Anthony Cashmore</a><br>
+    <a href="/solutions/scientists/chaisson/">Eric Chaisson</a><br>
+    <a href="/solutions/scientists/chaitin/">Gregory Chaitin</a><br>
+    <a href="/solutions/scientists/changeux/">Jean-Pierre Changeux</a><br>
+    <a href="/solutions/scientists/clausius/">Rudolf Clausius</a><br>
+    <a href="/solutions/scientists/compton/">Arthur Holly Compton</a><br>
+    <a href="/solutions/scientists/conway/">John Conway</a><br>
+    <a href="/solutions/scientists/conway-morris/">Simon Conway-Morris</a><br>
+    <a href="/solutions/scientists/corning/">Peter Corning</a><br>
+    <a href="/solutions/scientists/cowan/">George Cowan</a><br>
+    <a href="/solutions/scientists/coyne/">Jerry Coyne</a><br>
+    <a href="/solutions/scientists/cramer/">John Cramer</a><br>
+    <a href="/solutions/scientists/crick/">Francis Crick</a><br>
+    <a href="/solutions/scientists/culverwell/">E. P. Culverwell</a><br>
+    <a href="/solutions/scientists/damasio/">Antonio Damasio</a><br>
+    <a href="/solutions/scientists/darrigol/">Olivier Darrigol</a><br>
+    <a href="/solutions/scientists/darwin/">Charles Darwin</a><br>
+    <a href="/solutions/scientists/davies/">Paul Davies</a><br>
+    <a href="/solutions/scientists/dawkins/">Richard Dawkins</a><br>
+    <a href="/solutions/scientists/deacon/">Terrence Deacon</a><br>
+    <a href="/solutions/scientists/kornhuber-deecke/">Lüder Deecke</a><br>
+    <a href="/solutions/scientists/dedekind/">Richard Dedekind</a><br>
+    <a href="/solutions/scientists/de_broglie/">Louis de Broglie</a><br>
+    <a href="/solutions/scientists/dehaene/">Stanislas Dehaene</a><br> 
+    <a href="/solutions/scientists/delbruck/">Max Delbrück</a><br> 
+    <a href="/solutions/scientists/de_moivre/">Abraham de Moivre</a><br> 
+    <a href="/solutions/scientists/depew/">David Depew</a><br>
+    <a href="/solutions/scientists/despagmat/">Bernard d'Espagnat</a><br>
+    <a href="/solutions/scientists/dirac/">Paul Dirac</a><br>
+    <a href="/solutions/scientists/dobzhansky/">Theodosius Dobzhansky</a><br>
+    <a href="/solutions/scientists/driesch/">Hans Driesch</a><br>
+    <a href="/solutions/scientists/dupre/">John Dupré</a><br>
+    <a href="/solutions/scientists/eccles/">John Eccles</a><br>
+    <a href="/solutions/scientists/eddington/">Arthur Stanley Eddington</a><br> 
+    <a href="/solutions/scientists/edelman/">Gerald Edelman</a><br> 
+    <a href="/solutions/scientists/ehrenfest/">Paul Ehrenfest</a><br> 
+    <a href="/solutions/scientists/eigen/">Manfred Eigen</a><br> 
+    <a href="/solutions/scientists/einstein/">Albert Einstein</a><br> 
+    <a href="/solutions/scientists/ellis/">George F. R. Ellis</a><br> 
+    <a href="/solutions/scientists/elsasser/">Walter Elsasser</a><br> 
+    <a href="/solutions/scientists/everett/">Hugh Everett, III</a><br> 
+    <a href="/solutions/scientists/exner/">Franz Exner</a><br> 
+    <a href="/solutions/scientists/feynman/">Richard Feynman</a><br>
+    <a href="/solutions/scientists/fisher/">R. A. Fisher</a><br>
+    <a href="/solutions/scientists/foster/">David Foster</a><br>
+    <a href="/solutions/scientists/fourier/">Joseph Fourier</a><br>
+    <a href="/solutions/scientists/fox/">George Fox</a><br>
+    <a href="/solutions/scientists/frank/">Philipp Frank</a><br> 
+    <a href="/solutions/scientists/frautschi/">Steven Frautschi</a><br> 
+    <a href="/solutions/scientists/fredkin/">Edward Fredkin</a><br> 
+    <a href="/solutions/scientists/fresnel/">Augustin-Jean Fresnel</a><br> 
+    <a href="/solutions/scientists/friston/">Karl Friston</a><br> 
+    <a href="/solutions/scientists/gal-or/">Benjamin Gal-Or</a><br> 
+    <a href="/solutions/scientists/gardner/">Howard Gardner</a><br> 
+    <a href="/solutions/scientists/gatlin/">Lila Gatlin</a><br> 
+    <a href="/solutions/scientists/gazzaniga/">Michael Gazzaniga</a><br> 
+    <a href="/solutions/scientists/georgescu-roegen/">Nicholas Georgescu-Roegen</a><br> 
+    <a href="/solutions/scientists/ghirardi/">GianCarlo Ghirardi</a><br> 
+    <a href="/solutions/scientists/gibbs/">J. Willard Gibbs</a><br> 
+    <a href="/solutions/scientists/gibson/">James J. Gibson</a><br> 
+    <a href="/solutions/scientists/gisin/">Nicolas Gisin</a><br> 
+    <a href="/solutions/scientists/glimcher/">Paul Glimcher</a><br> 
+    <a href="/solutions/scientists/gold/">Thomas Gold</a><br>
+    <a href="/solutions/scientists/gomes/">A. O. Gomes</a><br> 
+    <a href="/solutions/scientists/goodwin/">Brian Goodwin</a><br> 
+    <a href="/solutions/scientists/gough/">Julian Gough</a><br> 
+    <a href="/solutions/scientists/greene/">Joshua Greene</a><br> 
+    <a href="/solutions/scientists/haar/">Dirk ter Haar</a><br> 
+    <a href="/solutions/scientists/hadamard/">Jacques Hadamard</a><br> 
+    <a href="/solutions/scientists/hadley/">Mark Hadley</a><br> 
+    <a href="/solutions/scientists/haeckel/">Ernst Haeckel</a><br> 
+    <a href="/solutions/scientists/haggard/">Patrick Haggard</a><br> 
+    <a href="/solutions/scientists/haldane/">J. B. S. Haldane</a><br> 
+    <a href="/solutions/scientists/hameroff/">Stuart Hameroff</a><br> 
+    <a href="/solutions/scientists/hamon/">Augustin Hamon</a><br> 
+    <a href="/solutions/scientists/harris/">Sam Harris</a><br> 
+    <a href="/solutions/scientists/hartley/">Ralph Hartley</a><br> 
+    <a href="/solutions/scientists/hartman/">Hyman Hartman</a><br> 
+    <a href="/solutions/scientists/hawkins/">Jeff Hawkins</a><br> 
+    <a href="/solutions/scientists/haynes/">John-Dylan Haynes</a><br> 
+    <a href="/solutions/scientists/hebb/">Donald Hebb</a><br> 
+    <a href="/solutions/scientists/heisenbergm/">Martin Heisenberg</a><br> 
+    <a href="/solutions/scientists/heisenberg/">Werner Heisenberg</a><br> 
+    <a href="/solutions/scientists/helmholtz">Hermann von Helmholtz</a><br> 
+    <a href="/solutions/scientists/hermann/">Grete Hermann</a><br> 
+    <a href="/solutions/scientists/herschel/">John Herschel</a><br> 
+    <a href="/solutions/scientists/heylighen/">Francis Heylighen</a><br> 
+    <a href="/solutions/scientists/hiley/">Basil Hiley</a><br> 
+    <a href="/solutions/scientists/hobson/">Art Hobson</a><br> 
+    <a href="/solutions/scientists/hoffmeyer/">Jesper Hoffmeyer</a><br> 
+   <a href="/solutions/scientists/holland/">John Holland</a><br> 
+    <a href="/solutions/scientists/howard/">Don Howard</a><br> 
+    <a href="/solutions/scientists/jackson/">John H. Jackson</a><br> 
+    <a href="/solutions/scientists/jackendoff/">Ray Jackendoff</a><br>
+    <a href="/solutions/scientists/jakobson/">Roman Jakobson</a><br>
+    <a href="/solutions/scientists/jaynes/">E. T. Jaynes</a><br>
+    <a href="/solutions/scientists/jevons/">William Stanley Jevons</a><br>
+    <a href="/solutions/scientists/jordan/">Pascual Jordan</a><br>
+    <a href="/solutions/scientists/kandel/">Eric Kandel</a><br>
+    <a href="/solutions/scientists/kastner/">Ruth E. Kastner</a><br>
+    <a href="/solutions/scientists/kauffman/">Stuart Kauffman</a><br>
+    <a href="/solutions/scientists/klein/">Martin J. Klein</a><br> 
+    <a href="/solutions/scientists/klemm/">William R. Klemm</a><br> 
+    <a href="/solutions/scientists/koch/">Christof Koch</a><br>
+    <a href="/solutions/scientists/kochen/">Simon Kochen</a><br>
+    <a href="/solutions/scientists/kornhuber-deecke/">Hans Kornhuber</a><br>
+    <a href="/solutions/scientists/kosslyn/">Stephen Kosslyn</a><br> 
+    <a href="/solutions/scientists/koshland/">Daniel Koshland</a><br> 
+    <a href="/solutions/scientists/kovac/">Ladislav Kovàč</a><br>
+    <a href="/solutions/scientists/kronecker/">Leopold Kronecker</a><br>
+    <a href="/solutions/scientists/kuppers/">Bernd-Olaf Küppers</a><br>
+    <a href="/solutions/scientists/landauer/">Rolf Landauer</a><br>
+    <a href="/solutions/scientists/lande/">Alfred Landé</a><br>
+    <a href="/solutions/scientists/laplace/">Pierre-Simon Laplace</a><br> 
+    <a href="/solutions/scientists/lashley/">Karl Lashley</a><br> 
+    <a href="/solutions/scientists/layzer/">David Layzer</a><br> 
+    <a href="/solutions/scientists/ledoux/">Joseph LeDoux</a><br> 
+    <a href="/solutions/scientists/lettvin/">Gerald Lettvin</a><br> 
+    <a href="/solutions/scientists/levin/">Michael Levin</a><br> 
+    <a href="/solutions/scientists/lewis/">Gilbert Lewis</a><br> 
+    <a href="/solutions/scientists/libet/">Benjamin Libet</a><br> 
+    <a href="/solutions/scientists/lindley/">David Lindley</a><br> 
+    <a href="/solutions/scientists/lloyd/">Seth Lloyd</a><br> 
+    <a href="/solutions/scientists/loewenstein/">Werner Loewenstein</a><br> 
+    <a href="/solutions/scientists/lorentz/">Hendrik Lorentz</a><br> 
+    <a href="/solutions/scientists/loschmidt/">Josef Loschmidt</a><br> 
+    <a href="/solutions/scientists/lotka/">Alfred Lotka</a><br> 
+    <a href="/solutions/scientists/mach/">Ernst Mach</a><br>
+    <a href="/solutions/scientists/mackay/">Donald MacKay</a><br> 
+    <a href="/solutions/scientists/margenau/">Henry Margenau</a><br> 
+    <a href="/solutions/scientists/margulis/">Lynn Margulis</a><br> 
+    <a href="/solutions/scientists/maroney/">Owen Maroney</a><br> 
+    <a href="/solutions/scientists/marr/">David Marr</a><br> 
+    <a href="/solutions/scientists/maturana/">Humberto Maturana</a><br> 
+    <a href="/solutions/scientists/maxwell/">James Clerk Maxwell</a><br> 
+    <a href="/solutions/scientists/maynard-smith/">John Maynard Smith</a><br>
+    <a href="/solutions/scientists/mayr/">Ernst Mayr</a><br>
+    <a href="/solutions/scientists/mccarthy/">John McCarthy</a><br>
+    <a href="/solutions/scientists/mcclintock/">Barbara McClintock</a><br>
+    <a href="/solutions/scientists/mcculloch/">Warren McCulloch</a><br>
+    <a href="/solutions/scientists/mermin/">N. David Mermin</a><br>
+    <a href="/solutions/scientists/miller/">George Miller</a><br>
+    <a href="/solutions/scientists/smiller/">Stanley Miller</a><br>
+    <a href="/solutions/scientists/mohrhoff/">Ulrich Mohrhoff</a><br>
+    <a href="/solutions/scientists/monod/">Jacques Monod</a><br>
+    <a href="/solutions/scientists/mountcastle/">Vernon Mountcastle</a><br> 
+    <a href="/solutions/scientists/muller/">Gerd B. Müller</a><br> 
+    <a href="/solutions/scientists/noether/">Emmy Noether</a><br> 
+    <a href="/solutions/scientists/noble/">Denis Noble</a><br> 
+    <a href="/solutions/scientists/norman/">Donald Norman</a><br> 
+    <a href="/solutions/scientists/norsen/">Travis Norsen</a><br>
+    <a href="/solutions/scientists/odumh/">Howard T. Odum</a><br> 
+    <a href="/solutions/scientists/oparin/">Alexander Oparin</a><br> 
+    <a href="/solutions/scientists/pais/">Abraham Pais</a><br> 
+    <a href="/solutions/scientists/pattee/">Howard Pattee</a><br> 
+    <a href="/solutions/scientists/pauli/">Wolfgang Pauli</a><br> 
+    <a href="/solutions/scientists/pauri/">Massimo Pauri</a><br> 
+    <a href="/solutions/scientists/penfield/">Wilder Penfield</a><br>
+    <a href="/solutions/scientists/penrose/">Roger Penrose</a><br>
+    <a href="/solutions/scientists/pigliucci/">Massimo Pigliucci</a><br/>
+    <a href="/solutions/philosophers/pinker/">Steven Pinker</a><br> 
+    <a href="/solutions/scientists/pittendrigh/">Colin Pittendrigh</a><br> 
+    <a href="/solutions/scientists/pitts/">Walter Pitts</a><br> 
+    <a href="/solutions/scientists/planck/">Max Planck</a><br> 
+    <a href="/solutions/scientists/pockett/">Susan Pockett</a><br> 
+    <a href="/solutions/scientists/poincare/">Henri Poincaré</a><br>
+    <a href="/solutions/scientists/polanyi/">Michael Polanyi</a><br>
+    <a href="/solutions/scientists/pollen/">Daniel Pollen</a><br> 
+    <a href="/solutions/scientists/prigogine/">Ilya Prigogine</a><br>
+    <a href="/solutions/scientists/primas/">Hans Primas</a><br>
+    <a href="/solutions/scientists/prisco/">Giulio Prisco</a><br>
+    <a href="/solutions/scientists/pylyshyn/">Zenon Pylyshyn</a><br/>
+    <a href="/solutions/scientists/quastler/">Henry Quastler</a><br/>
+    <a href="/solutions/scientists/quetelet/">Adolphe Quételet</a><br/>
+    <a href="/solutions/scientists/rakic/">Pasco Rakic</a><br/>
+    <a href="/solutions/scientists/rashevsky/">Nicolas Rashevsky</a><br/>
+    <a href="/solutions/scientists/rayleigh/">Lord Rayleigh</a><br/>
+    <a href="/solutions/scientists/reif/">Frederick Reif</a><br/>
+    <a href="/solutions/scientists/renn/">Jürgen Renn</a><br/>
+    <a href="/solutions/scientists/rizzolati/">Giacomo Rizzolati</a><br/>
+    <a href="/solutions/scientists/roback/">A.A. Roback</a><br/>
+    <a href="/solutions/scientists/roduner/">Emil Roduner</a><br/>
+    <a href="/solutions/scientists/roederer/">Juan Roederer</a><br/>
+    <a href="/solutions/scientists/rosen/">Robert Rosen</a><br/>
+    <a href="/solutions/scientists/rosenblatt/">Frank Rosenblatt</a><br/>
+    <a href="/solutions/scientists/rothstein/">Jerome Rothstein</a><br/>
+    <a href="/solutions/scientists/ruelle/">David Ruelle</a><br/>
+    <a href="/solutions/scientists/rumelhart/">David Rumelhart</a><br> 
+    <a href="/solutions/scientists/ruse">Michael Ruse</a><br> 
+    <a href="/solutions/scientists/salthe/">Stanley Salthe</a><br> 
+    <a href="/solutions/scientists/sapolsky/">Robert Sapolsky</a><br>
+    <a href="/solutions/scientists/sauer/">Tilman Sauer</a><br>
+    <a href="/solutions/scientists/saussure/">Ferdinand de Saussure</a><br>
+    <a href="/solutions/scientists/schmidhuber/">Jürgen Schmidhuber</a><br>
+    <a href="/solutions/scientists/schrodinger/">Erwin Schr&ouml;dinger</a><br> 
+    <a href="/solutions/scientists/schurger/">Aaron Schurger</a><br> 
+    <a href="/solutions/scientists/seung/">Sebastian Seung</a><br>
+    <a href="/solutions/scientists/sebeok/">Thomas Sebeok</a><br>
+    <a href="/solutions/scientists/selleri/">Franco Selleri</a><br>
+    <a href="/solutions/scientists/shannon/">Claude Shannon</a><br>
+     <a href="/solutions/scientists/shapiro/">James A. Shapiro</a><br>
+    <a href="/solutions/scientists/sherrington/">Charles Sherrington</a><br> 
+    <a href="/solutions/scientists/shimony/">Abner Shimony</a><br> 
+    <a href="/solutions/scientists/simon/">Herbert Simon</a><br> 
+    <a href="/solutions/scientists/simonton/">Dean Keith Simonton</a><br>
+    <a href="/solutions/scientists/sinnott/">Edmund Sinnott</a><br>
+    <a href="/solutions/scientists/skinner/">B. F. Skinner</a><br>
+    <a href="/solutions/scientists/smolin/">Lee Smolin</a><br> 
+    <a href="/solutions/scientists/solomonoff/">Ray Solomonoff</a><br> 
+    <a href="/solutions/scientists/spencer/">Herbert Spencer</a><br>
+    <a href="/solutions/scientists/sperry/">Roger Sperry</a><br>
+    <a href="/solutions/scientists/stachel/">John Stachel</a><br> 
+    <a href="/solutions/scientists/stanley/">Kenneth Stanley</a><br>
+    <a href="/solutions/scientists/stapp/">Henry Stapp</a><br>
+    <a href="/solutions/scientists/stewart/">Ian Stewart</a><br>
+    <a href="/solutions/scientists/stonier/">Tom Stonier</a><br>
+    <a href="/solutions/scientists/suarez/">Antoine Suarez</a><br>
+    <a href="/solutions/scientists/susskind/">Leonard Susskind</a><br>
+    <a href="/solutions/scientists/szilard/">Leo Szilard</a><br>
+    <a href="/solutions/scientists/tegmark/">Max Tegmark</a><br>
+    <a href="/solutions/scientists/teilhard/">Teilhard de Chardin</a><br>
+    <a href="/solutions/scientists/thims/">Libb Thims</a><br>
+    <a href="/solutions/scientists/thomson/">William Thomson (Kelvin)</a><br>
+    <a href="/solutions/scientists/tolman/">Richard Tolman</a><br> 
+    <a href="/solutions/scientists/tononi/">Giulio Tononi</a><br> 
+    <a href="/solutions/scientists/tse/">Peter Tse</a><br>
+    <a href="/solutions/scientists/turing/">Alan Turing</a><br>
+    <a href="/solutions/scientists/ulanowicz/">Robert Ulanowicz</a><br> 
+    <a href="/solutions/scientists/unnikrishnan/">C. S. Unnikrishnan</a><br>
+    <a href="/solutions/scientists/kampen/">Nico van Kampen</a><br>
+    <a href="/solutions/scientists/varela/">Francisco Varela</a><br>
+    <a href="/solutions/scientists/vedral/">Vlatko Vedral</a><br>
+    <a href="/solutions/scientists/vernadsky/">Vladimir Vernadsky</a><br>
+    <a href="/solutions/scientists/vidal/">Clément Vidal</a><br>
+    <a href="/solutions/scientists/volkenstein/">Mikhail Volkenstein</a><br>
+    <a href="/solutions/scientists/foerster/">Heinz von Foerster</a><br>
+    <a href="/solutions/scientists/mises/">Richard von Mises</a><br>
+    <a href="/solutions/scientists/neumann/">John von Neumann</a><br>
+    <a href="/solutions/scientists/uexkull/">Jakob von Uexküll</a><br>
+    <a href="/solutions/scientists/waddington/">C. H. Waddington</a><br>
+    <a href="/solutions/scientists/walker/">Sara Imari Walker</a><br>
+    <a href="/solutions/scientists/watsonj/">James D. Watson</a><br>
+    <a href="/solutions/scientists/watsonjb/">John B. Watson</a><br>
+    <a href="/solutions/scientists/weber/Bruce Weber</a><br>
+    <a href="/solutions/scientists/wegner/">Daniel Wegner</a><br>
+    <a href="/solutions/scientists/weinberg/">Steven Weinberg</a><br>
+    <a href="/solutions/scientists/weismann/">August Weismann</a><br>
+    <a href="/solutions/scientists/weiss/">Paul A. Weiss</a><br>
+    <a href="/solutions/scientists/weyl/">Herman Weyl</a><br>
+    <a href="/solutions/scientists/wheeler/">John Wheeler</a><br>
+    <a href="/solutions/scientists/wicken/">Jeffrey Wicken</a><br>
+    <a href="/solutions/scientists/wien/">Wilhelm Wien</a><br>
+    <a href="/solutions/scientists/wiener/">Norbert Wiener</a><br>
+    <a href="/solutions/scientists/wigner/">Eugene Wigner</a><br>
+    <a href="/solutions/scientists/wiley/">E. O. Wiley</a><br>
+    <a href="/solutions/scientists/wilson/">E. O. Wilson</a><br>
+    <a href="/solutions/scientists/witzany/">Günther Witzany</a><br>
+    <a href="/solutions/scientists/woese/">Carl Woese</a><br>
+    <a href="/solutions/scientists/wolfram/">Stephen Wolfram</a><br>
+    <a href="/solutions/scientists/zeh/">H. Dieter Zeh</a><br>
+    <a href="/solutions/scientists/zeki/">Semir Zeki</a><br>
+    <a href="/solutions/scientists/zermelo/">Ernst Zermelo</a><br> 
+    <a href="/solutions/scientists/zurek/">Wojciech Zurek</a><br>
+    <a href="/solutions/scientists/zuse/">Konrad Zuse</a><br>
+    <a href="/solutions/scientists/zwicky/">Fritz Zwicky</a><br>
+<br/>
+Presentations
+<br/>
+<br/>
+<a href="/presentations/ABCD_Multimedia_2006.pdf/">ABCD Harvard</a> (<a href="/presentations/ABCD_Multimedia_2006.pptx/">ppt</a>) 
+<a href="/presentations/Bhaktivedanta/">Bhaktivedanta Aug 2026</a><br/>
+<a href="/presentations/biosemiotics/">Biosemiotics</a><br/>
+<a href="/presentations/Free__Will/">Free Will</a><br/>
+<a href="/presentations/Milan/mental_causation/index2.html">Mental Causation</a><br/>
+<a href="/presentations/video/WJS-2010/">James Symposium</a><br/>
+<a href="/presentations/CSC25_Talk/">CCS25 Talk</a><br/>
+<a href="/presentations/Evo_Devo_CSS/">Evo Devo September 12</a><br/>
+<a href="/presentations/Evo_Devo_I-Phi/">Evo Devo October 2</a><br/>
+<a href="/presentations/Evo_Devo_Davies/">Evo Devo Davies Nov12</a><br/>
+
+             </div> 
+	      <div style="clear: both;"></div>
+	      &nbsp;
+	    </div>
+	    <!-- end column1 -->
+	  </td>
+
+	  <td valign="top">
+	    <!-- start column2 or 23 -->
+	    <div id="column23">
+	      <div class="bodycontent">
+		
+<div class="chaptertitle">
+What is an Emotion?
+</div>
+<div class="sectiontitle">
+<I>Mind</I>, <b>9</b>, 188-205. (1884)
+</div>
+
+
+
+<P>The physiologists who, during the past few years, have been so industriously
+exploring the functions of the brain, have limited their attempts at explanation
+to its cognitive and volitional performances. Dividing the brain into sensorial
+and motor centres, they have found their division to be exactly paralleled
+by the analysis made by empirical psychology, of the perceptive and volitional
+parts of the mind into their simplest elements. But the <I>aesthetic </I>sphere
+of the mind, its longings, its pleasures and pains, and its emotions, have
+been so ignored in all these researches that one is tempted to suppose
+that if either Dr. Ferrier or Dr. Munk were asked for a theory in brain-terms
+of the latter mental facts, they might both reply, either that they had
+as yet bestowed no thought upon the subject, or that they had found it
+so difficult to make distinct hypotheses, that the matter lay for them
+among the problems of the future, only to be taken up after the simpler
+ones of the present should have been definitively solved.
+
+<P>And yet it is even now certain that of two things concerning the emotions,
+one must be true. Either separate and special centres, affected to them
+alone, are their brain-seat, or else they correspond to processes occurring
+in the motor and sensory centres, already assigned, or in others like them,
+not yet mapped out. If the former be the case we must deny the current
+view, and hold the cortex to be something more than the surface of "projection"
+for every sensitive spot and every muscle in the body. If the latter be
+the case, we must ask whether the emotional "process" in the sensory or
+motor centre be an altogether peculiar one, or whether it resembles the
+ordinary perceptive processes of which those centres are already recognised
+to be the seat. The purpose of the following pages is to show that the
+last alternative comes nearest to the truth, and that the emotional brain-processes
+not only resemble the ordinary sensorial brain-processes, but in very truth
+<I>are </I>nothing but such processes variously combined. The main result
+of this will be to simplify our notions of the possible complications of
+brain-physiology, and to make us see that we have already a brain-scheme
+in our hands whose applications [p.189] are much wider than its authors
+dreamed. But although this seems to be the chief result of the arguments
+I am to urge, I should say that they were not originally framed for the
+sake of any such result. They grew out of fragmentary introspective observations,
+and it was only when these had already combined into a theory that the
+thought of the simplification the theory might bring to cerebral physiology
+occurred to me, and made it seem more important than before.
+
+<P>I should say first of all that the only emotions I propose expressly
+to consider here are those that have a distinct bodily expression. That
+there are feelings of pleasure and displeasure, of interest and excitement,
+bound up with mental operations, but having no obvious bodily expression
+for their consequence, would, I suppose, be held true by most readers.
+Certain arrangements of sounds, of lines, of colours, are agreeable, and
+others the reverse, without the degree of the feeling being sufficient
+to quicken the pulse or breathing, or to prompt to movements of either
+the body or the face. Certain sequences of ideas charm us as much as others
+tire us. It is a real intellectual delight to get a problem solved, and
+a real intellectual torment to have to leave it unfinished. The first set
+of examples, the sounds, lines, and colours, are either bodily sensations,
+or the images of such. The second set seem to depend on processes in the
+ideational centres exclusively. Taken together, they appear to prove that
+there are pleasures and pains inherent in certain forms of nerve-action
+as such, wherever that action occur. The case of these feelings we will
+at present leave entirely aside, and confine our attention to the more
+complicated cases in which a wave of bodily disturbance of some kind accompanies
+the perception of the interesting sights or sounds, or the passage of the
+exciting train of ideas. Surprise, curiosity, rapture, fear, anger, lust,
+greed, and the like, become then the names of the mental states with which
+the person is possessed. The bodily disturbances are said to be the "manifestation"
+of these several emotions, their "expression" or "natural language"; and
+these emotions themselves, being so strongly characterized both from within
+and without, may be called the <I>standard </I>emotions.
+
+<P>Our natural way of thinking about these standard emotions is that the
+mental perception of some fact excites the mental affection called the
+emotion, and that this latter state of mind gives rise to the bodily expression.
+My thesis on the contrary is that <I>the bodily changes follow directly
+the </I><FONT SIZE=-1>PERCEPTION</FONT><I> of the exciting fact, and that
+our feeling of the</I> [p.190]<I> same changes as they occur </I><FONT SIZE=-1>IS</FONT>
+<I>the emotion. </I>Common sense says, we lose our fortune, are sorry and
+weep; we meet a bear, are frightened and run; we are insulted by a rival,
+are angry and strike. 
+<div class="linksRight">
+Here we have <a href="/solutions/philosophers/hume">David Hume</a>'s view that reason alone can not cause us to act, but that emotions and feelings are the fundamental driving force to action. 
+</div>
+The hypothesis here to be defended says that this
+order of sequence is incorrect, that the one mental state is not immediately
+induced by the other, that the bodily manifestations must first be interposed
+between, and that the more rational statement is that we feel sorry because
+we cry, angry because we strike, afraid because we tremble, and not that
+we cry, strike, or tremble, because we are sorry, angry, or fearful, as
+the case may be. 
+Without the bodily states following on the perception,
+the latter would be purely cognitive in form, pale, colourless, destitute
+of emotional warmth. We might then see the bear, and judge it best to run,
+receive the insult and deem it right to strike, but we could not actually
+<I>feel </I>afraid or angry.
+
+<P>Stated in this crude way, the hypothesis is pretty sure to meet with
+immediate disbelief. And yet neither many nor far-fetched considerations
+are required to mitigate its paradoxical character, and possibly to produce
+conviction of its truth.
+
+<P>To begin with, readers of the Journal do not need to be reminded that
+the nervous system of every living thing is but a bundle of predispositions
+to react in particular ways upon the contact of particular features of
+the environment. As surely as the hermit-crab's abdomen presupposes the
+existence of empty whelk-shells somewhere to be found,so surely do the
+hound's olfactories imply the existence, on the one hand, of deer's or
+foxes' feet, and on the other, the tendency to follow up their tracks.
+The neural machinery is but a hyphen between determinate arrangements of
+matter outside the body and determinate impulses to inhibition or discharge
+within its organs. When the hen sees a white oval object on the ground,
+she cannot leave it; she must keep upon it and return to it, until at last
+its transformation into a little mass of moving chirping down elicits from
+her machinery an entirely new set of performances. The love of man for
+woman, or of the human mother for her babe, our wrath at snakes and our
+fear of precipices, may all be described similarly, as instances of the
+way in which peculiarly conformed pieces of the world's furniture will
+fatally call forth most particular mental and bodily reactions, in advance
+of, and often in direct opposition to, the verdict of our deliberate reason
+concerning them. The labours of Darwin and his successors are only just
+beginning to reveal the universal parasitism of each creature upon other
+special things, [p.191] and the way in which each creature brings the signature
+of its special relations stamped on its nervous system with it upon the
+scene.
+
+<div class="linksRight">
+James here intuits the very heart of the biocommunications system of signaling inside the body and out as an information structure (message) sent with an evolved purpose to a receiver with an evolved contextual interpretation that executes an action 
+</div>
+<P>Every living creature is in fact a sort of lock, whose wards and springs
+presuppose special forms of key, - which keys however are not born attached
+to the locks, but are sure to be found in the world near by as life goes
+on. And the locks are indifferent to any but their own keys. The egg fails
+to fascinate the hound, the bird does not fear the precipice, the snake
+waxes not wroth at his kind, the deer cares nothing for the woman or the
+human babe. Those who wish for a full development of this point of view,
+should read Schneider's <I>Der thierische Wille, </I>- no other book shows
+how accurately anticipatory are the actions of animals, of the specific
+features of the environment in which they are to live.
+
+<P>Now among these nervous anticipations are of course to be reckoned the
+emotions, so far as these may be called forth directly by the perception
+of certain facts. In advance of all experience of elephants no child can
+but be frightened if he suddenly find one trumpeting and charging upon
+him. No woman can see a handsome little naked baby without delight, no
+man in the wilderness see a human form in the distance without excitement
+and curiosity. I said I should consider these emotions only so far as they
+have bodily movements of some sort for their accompaniments. But my first
+point is to show that their bodily accompaniments are much more far-reaching
+and complicated than we ordinarily suppose.
+
+<P>In the earlier books on Expression, written mostly from the artistic
+point of view, the signs of emotion visible from without were the only
+ones taken account of. Sir Charles Bell's celebrated <I>Anatomy of Expression
+</I>noticed the respiratory changes; and Bain's and Darwin's treatises
+went more thoroughly still into the study of the visceral factors involved,-
+changes in the functioning of glands and muscles, and in that of the circulatory
+apparatus. But not even a Darwin has exhaustively enumerated <I>all </I>the
+bodily affections characteristic of any one of the standard emotions. More
+and more, as physiology advances, we begin to discern how almost infinitely
+numerous and subtle they must be. The researches of Mosso with the plethysmograph
+have shown that not only the heart, but the entire circulatory system,
+forms a sort of sounding-board, which every change of our consciousness,
+however slight, may make reverberate. Hardly a sensation comes to us without
+sending waves of [p.192] alternate constriction and dilatation down the
+arteries of our arms. The blood-vessels of the abdomen act reciprocally
+with those of the more outward parts. The bladder and bowels, the glands
+of the mouth, throat, and skin, and the liver, are known to be affected
+gravely in certain severe emotions, and are unquestionably affected transiently
+when the emotions are of a lighter sort. That the heart-beats and the rhythm
+of breathing play a leading part in all emotions whatsoever, is a matter
+too notorious for proof. And what is really equally prominent, but less
+likely to be admitted until special attention is drawn to the fact, is
+the continuous co-operation of the voluntary muscles in our emotional states.
+Even when no change of outward attitude is produced, their inward tension
+alters to suit each varying mood, and is felt as a difference of tone or
+of strain. In depression the flexors tend to prevail; in elation or belligerent
+excitement the extensors take the lead. And the various permutations and
+combinations of which these organic activities are susceptible, make it
+abstractly possible that no shade of emotion, however slight, should be
+without a bodily reverberation as unique, when taken in its totality, as
+is the mental mood itself.
+
+<P>The immense number of parts modified in each emotion is what makes it
+so difficult for us to reproduce in cold blood the total and integral expression
+of any one of them. We may catch the trick with the voluntary muscles,
+but fail with the skin, glands, heart, and other viscera. Just as an artificially
+imitated sneeze lacks something of the reality, so the attempt to imitate
+an emotion in the absence of its normal instigating cause is apt to be
+rather "hollow".
+
+<P>The next thing to be noticed is this, that every one of the bodily changes,
+whatsoever it be, is <I>felt,</I> acutely or obscurely, the moment it occurs.
+If the reader has never paid attention to this matter, he will be both
+interested and astonished to learn how many different local bodily feelings
+he can detect in himself as characteristic of his various emotional moods.
+It would be perhaps too much to expect him to arrest the tide of any strong
+gust of passion for the sake of any such curious analysis as this; but
+he can observe more tranquil states, and that may be assumed here to be
+true of the greater which is shown to be true of the less. Our whole cubic
+capacity is sensibly alive; and each morsel of it contributes its pulsations
+of feeling, dim or sharp, pleasant, painful, or dubious, to that sense
+of personality that every one of us unfailingly carries with him. It is
+surprisingly what little items give accent to these complexes of sensibility.
+
+<P>[p.193] When worried by any slight trouble, one may find that the focus
+of one's bodily consciousness is the contraction, often quite inconsiderable,
+of the eyes and brows. When momentarily embarrassed, it is something in
+the pharynx that compels either a swallow, a clearing of the throat, or
+a slight cough; and so on for as many more instances as might be named.
+Our concern here being with the general view rather than with the details,
+I will not linger to discuss these but, assuming the point admitted that
+every change that occurs must be felt, I will pass on.[<A HREF="#f1">1</A>]
+
+<P>I now proceed to urge the vital point of my whole theory, which is this.
+If we fancy some strong emotion, and then try to abstract from our consciousness
+of it all the feelings of its characteristic bodily symptoms, we find we
+have nothing left behind, no "mind-stuff" out of which the emotion can
+be constituted, and that a cold and neutral state of intellectual perception
+is all that remains. It is true, that although most people, when asked
+say that their introspection verifies this statement, some persist in saying
+theirs does not. Many cannot be made to understand the question. When you
+beg them to imagine away every feeling of laughter and of tendency to laugh
+from their consciousness of the ludicrousness of an object, and then to
+tell you what the feeling of its ludicrousness would be like, whether it
+be anything more than the perception that the object belongs to the class
+"funny," they persist in replying that the thing proposed is a physical
+impossibility, and that they always <I>must </I>laugh, if they see a funny
+object. Of course the task proposed is not the practical one of seeing
+a ludicrous object and annihilating one's tendency to laugh. It is the
+purely speculative one of subtracting certain elements of feeling from
+an emotional state supposed to exist in its fulness, and saying what the
+residual elements are. I cannot help thinking that all who rightly apprehend
+this problem will agree with the proposition above laid down. What kind
+of an emotion of fear would be left, if the feelings [p.194] neither of
+quickened heart-beats nor of shallow breathing, neither of trembling lips
+nor of weakened limbs, neither of goose-flesh nor of visceral stirrings,
+were present, it is quite impossible to think. Can one fancy the state
+of rage and picture no ebullition of it in the chest, no flushing of the
+face, no dilatation of the nostrils, no clenching of the teeth, no impulse
+to vigorous action, but in their stead limp muscles, calm breathing, and
+a placid face? The present writer, for one, certainly cannot. The rage
+is as completely evaporated as the sensation of its so-called manifestations,
+and the only thing that can possibly be supposed to take its place is some
+cold-blooded and dispassionate judicial sentence, confined entirely to
+the intellectual realm, to the effect that a certain person or persons
+merit chastisement for their sins. In like manner of grief: what would
+it be without its tears, its sobs, its suffocation of the heart, its pang
+in the breast-bone? A feelingless cognition that certain circumstances
+are deplorable, and nothing more. Every passion in turn tells the same
+story. A purely disembodied human emotion is a nonentity. I do not say
+that it is a contradiction in the nature of things, or that pure spirits
+are necessarily condemned to cold intellectual lives; but I say that for
+<I>us</I>, emotion dissociated from all bodily feeling is inconceivable.
+The more closely I scrutinise my states, the more persuaded I become, that
+whatever moods, affections, and passions I have, are in very truth constituted
+by, and made up of, those bodily changes we ordinarily call their expression
+or consequence; and the more it seems to me that if I were to become corporeally
+anaesthetic, I should be excluded from the life of the affections, harsh
+and tender alike, and drag out an existence of merely cognitive or intellectual
+form. Such an existence, although it seems to have been the ideal of ancient
+sages, is too apathetic to be keenly sought after by those born after the
+revival of the worship of sensibility, a few generations ago.
+
+<P>But if the emotion is nothing but the feeling of the reflex bodily effects
+of what we call its "objects," effects due to the connate adaptation of
+the nervous system to that object, we seem immediately faced by this objection:
+most of the objects of civilised men's emotions are things to which it
+would be preposterous to suppose their nervous systems connately adapted.
+Most occasions of shame and many insults are purely conventional, and vary
+with the social environment. The same is true of many matters of dread
+and of desire, and of many occasions of melancholy and regret. In these
+cases, at least, it would seem that the [p.195] ideas of shame, desire,
+regret, &amp;c., must first have been attached by education and association
+to these conventional objects before the bodily changes could possibly
+be awakened. And if in <I>these </I>cases the bodily changes follow the
+ideas, instead of giving rise to them, why not then in all cases?
+
+<P>To discuss thoroughly this objection would carry us deep into the study
+of purely intellectual <I>A</I>esthetics. A few words must here suffice.
+We will say nothing of the argument's failure to distinguish between the
+idea of an emotion and the emotion itself. We will only recall the well-known
+evolutionary principle that when a certain power has once been fixed in
+an animal by virtue of its utility in presence of certain features of the
+environment, it may turn out to be useful in presence of other features
+of the environment that had originally nothing to do with either producing
+or preserving it. A nervous tendency to discharge being once there, all
+sorts of unforeseen things may pull the trigger and let loose the effects.
+That among these things should be conventionalities of man's contriving
+is a matter of no psychological consequence whatever. The most important
+part of my environment is my fellow-man. The consciousness of his attitude
+towards me is the perception that normally unlocks most of my shames and
+indignations and fears. The extraordinary sensitiveness of this consciousness
+is shown by the bodily modifications wrought in us by the awareness that
+our fellow-man is noticing us <I>at all</I>. No one can walk across the
+platform at a public meeting with just the same muscular innervation he
+uses to walk across his room at home. No one can give a message to such
+a meeting without organic excitement. "Stage-fright" is only the extreme
+degree of that wholly irrational personal self-consciousness which every
+one gets in some measure, as soon as he feels the eyes of a number of strangers
+fixed upon him, even though he be inwardly convinced that their feeling
+towards him is of no practical account [<A HREF="#f2">2</A>] . This being
+so, it is not surprising that the additional persuasion that my fellow-man's
+attitude means either well or ill for me, should awaken stronger emotions
+still. In primitive societies "Well" may mean handing me a piece of beef,
+and "Ill" may mean aiming a blow at my skull. In our "cultured [p.196]
+age," "Ill" may mean cutting me in the street, and "Well," giving me an
+honorary degree. What the action itself may be is quite insignificant,
+so long as I can perceive in it intent or <I>animus</I>. <I>That </I>is
+the emotion-arousing perception; and may give rise to as strong bodily
+convulsions in me, a civilised man experiencing the treatment of an artificial
+society, as in any savage prisoner of war, learning whether his captors
+are about to eat him or to make him a member of their tribe.
+
+<P>But now, this objection disposed of, there arises a more general doubt.
+Is there any evidence, it may be asked, for the assumption that particular
+perceptions <I>do </I>produce widespread bodily effects by a sort of immediate
+physical influence, antecedent to the arousal of an emotion or emotional
+idea?
+
+<P>The only possible reply is, that there is most assuredly such evidence.
+In listening to poetry, drama, or heroic narrative, we are often surprised
+at the cutaneous shiver which like a sudden wave flows over us, and at
+the heart-swelling and the lachrymal effusion that unexpectedly catch us
+at intervals. In listening to music, the same is even more strikingly true.
+If we abruptly see a dark moving form in the woods, our heart stops beating,
+and we catch our breath instantly and before any articulate idea of danger
+can arise. If our friend goes near to the edge of a precipice, we get the
+well-known feeling of "all-overishness," and we shrink back, although we
+positively <I>know </I>him to be safe, and have no distinct imagination
+of his fall. The writer well remembers his astonishment, when a boy of
+seven or eight, at fainting when he saw a horse bled. The blood was in
+a bucket, with a stick in it, and, if memory does not deceive him, he stirred
+it round and saw it drip from the stick with no feeling save that of childish
+curiosity. Suddenly the world grew black before his eyes, his ears began
+to buzz, and he knew no more. He had never heard of the sight of blood
+producing faintness or sickness, and he had so little repugnance to it,
+and so little apprehension of any other sort of danger from it, that even
+at that tender age, as he well remembers, he could not help wondering how
+the mere physical presence of a pailful of crimson fluid occasion in him
+such formidable bodily effects.
+
+<P>Imagine two steel knife-blades with their keen edges crossing each other
+at right-angles, and moving too and fro. Our whole nervous organisation
+is "on-edge" at the thought; and yet what emotion can be there except the
+unpleasant nervous feeling itself, or the dread that more of it may come?
+
+<P>[p.197] The entire fund and capital of the emotion here is the senseless
+bodily effect the blades immediately arouse. This case is typical of a
+class: where an ideal emotion seems to precede the bodily symptoms, it
+is often nothing but a representation of the symptoms themselves. One who
+has already fainted at the sight of blood may witness the preparations
+for a surgical operation with uncontrollable heart-sinking and anxiety.
+He anticipates certain feelings, and the anticipation precipitates their
+arrival. I am told of a case of morbid terror, of which the subject confessed
+that what possessed her seemed, more than anything, to be the fear of fear
+itself. In the various forms of what Professor Bain calls "tender emotion,"
+although the appropriate object must usually be directly contemplated before
+the emotion can be aroused, yet sometimes thinking of the symptoms of the
+emotion itself may have the same effect. In sentimental natures, the thought
+of "yearning" will produce real "yearning". And, not to speak of coarser
+examples, a mother's imagination of the caresses she bestows on her child
+may arouse a spasm of parental longing.
+
+<P>In such cases as these, we see plainly how the emotion both begins and
+ends with what we call its effects or manifestations. It has no mental
+<I>status </I>except as either the presented feeling, or the idea, of the
+manifestations; which latter thus constitute its entire material, its sum
+and substance, and its stock-in-trade. And these cases ought to make us
+see how in all cases the feeling of the manifestations may play a much
+deeper part in the constitution of the emotion than we are wont to suppose.
+
+<P>If our theory be true, a necessary corollary of it ought to be that
+any voluntary arousal of the so-called manifestations of a special emotion
+ought to give us the emotion itself. Of course in the majority of emotions,
+this test is inapplicable; for many of the manifestations are in organs
+over which we have no volitional control. Still, within the limits in which
+it can be verified, experience fully corroborates this test. Everyone knows
+how panic is increased by flight, and how the giving way to the symptoms
+of grief or anger increases those passions themselves. Each fit of sobbing
+makes the sorrow more acute, and calls forth another fit stronger still,
+until at last repose only ensues with lassitude and with the apparent exhaustion
+of the machinery. In rage, it is notorious how we "work ourselves up" to
+a climax by repeated outbreaks of expression. Refuse to express a passion,
+and it dies. Count ten before venting your anger, and it occasion seems
+ridiculous.
+
+<P>[p.198] Whistling to keep up courage is no mere figure of speech. On
+the other hand, sit all day in a moping posture, sigh, and reply to everything
+with a dismal voice, and your melancholy lingers. There is no more valuable
+precept in moral education than this, as all who have experience know:
+if we wish to conquer undesirable emotional tendencies in ourselves, we
+must assiduously, and in the first instance cold-bloodedly, go through
+the <I>outward motions </I>of those contrary dispositions we prefer to
+cultivate. The reward of persistency will infallibly come, in the fading
+out of the sullenness or depression, and the advent of real cheerfulness
+and kindliness in their stead. Smooth the brow, brighten the eye, contract
+the dorsal rather than the ventral aspect of the frame, and speak in a
+major key, pass the genial compliment, and your heart must be frigid indeed
+if it do not gradually thaw!
+
+<P>The only exception to this are apparent, not real. The great emotional
+expressiveness and mobility of certain persons often lead us to say "They
+would feel more if they talked less". And in another class of persons,
+the explosive energy with which passion manifests itself on critical occasions,
+seems correlated with the way in which they bottle it up during the intervals.
+But these are only eccentric types of character, and within each type the
+law of the last paragraph prevails. The sentimentalist is so constructed
+that "gushing" is his or her normal mode of expression. Putting a stopper
+on the "gush" will only to a limited extent cause more "real" activities
+to take its place; in the main it will simply produce listlessness. On
+the other hand the ponderous and bilious "slumbering volcano," let him
+repress the expression of his passions as he will, will find them expire
+if they get no vent at all; whilst if the rare occasions multiply which
+he deems worthy of their outbreak, he will find them grow in intensity
+as life proceeds.
+
+<P>I feel persuaded there is no real exception to the law. The formidable
+effects of suppressed tears might be mentioned, and the calming results
+of speaking out your mind when angry and having done with it. But these
+are also but specious wanderings from the rule. Every perceptions must
+lead to <I>some </I>nervous result. If this be the normal emotional expression,
+it soon expends itself, and in the natural course of things a calm succeeds.
+But if the normal issue be blocked from any cause, the currents may under
+certain circumstances invade other tracts, and there work different and
+worse effects. Thus vengeful brooding may replace a burst of indignation;
+a dry heat may consume the [p.199] frame of one who fain would weep, or
+he may, as Dante says, turn to stone within; and then tears or a storming-fit
+may bring a grateful relief. When we teach children to repress their emotions,
+it is not that they may <I>feel </I>more, quite the reverse. It is that
+they may <I>think </I>more; for to a certain extent whatever nerve-currents
+are diverted from the regions below, must swell the activity of the thought-tracts
+of the brain. [<A HREF="#f3">3</A>]
+
+<P>The last great argument in favour of the priority of the bodily symptoms
+to the felt emotion, is the ease with which we formulate by its means pathological
+cases and normal cases under a common scheme. In every asylum we find examples
+of absolutely unmotived fear, anger, melancholy, or conceit; and others
+of an equally unmotived apathy which persists in spite of the best of outward
+reasons why it should give way. In the former cases we must suppose the
+nervous machinery to be so "labile" in some one emotional direction, that
+almost every stimulus, however inappropriate, will cause it to upset in
+that way, and as a consequence to engender the particular complex of feelings
+of which the psychic body of the emotion consists. Thus, to take one special
+instance, if inability to draw deep breath, fluttering of the heart, and
+that peculiar epigastric change felt as "precordial anxiety," with an irresistible
+tendency to take a somewhat crouching attitude and to sit still, and with
+perhaps other visceral processes not now known, all spontaneously occur
+together in a certain person; his feeling of their combination <I>is </I>the
+emotion of dread, and he is the victim of what is known as morbid fear.
+A friend who has had occasional attacks of this most distressing of all
+maladies, tells me that in his case the whole drama seems to centre about
+the region of the heart and respiratory apparatus, that his main effort
+during the attacks is to get control of his inspirations and to slow his
+heart, and that the moment he attains to breathing deeply and to holding
+himself erect, the dread, <I>ipso facto</I>, seems to depart [<A HREF="#f4">4</A>]
+
+<P>[p.200] The account given to Brachet by one of his own patients of her
+opposite condition, that of emotional insensibility, has been often quoted,
+and deserves to be quoted again:-
+
+<P>"I still continue (she says) to suffer constantly ; I have not a moment
+of comfort, and no human sensations. Surrounded by all that can render
+life happy and agreeable, still to me the faculty of enjoyment and of feeling
+is wanting - both have become physical impossibilities. In everything,
+even in the most tender caresses of my children, I find only bitterness.
+I cover them with kisses, but there is something between their lips and
+mine; and this horrid something is between me and all the enjoyments of
+life. My existence is incomplete. The functions and acts of ordinary life,
+it is true, still remain to me; but in every one of them there is something
+wanting-to wit, the feeling which is proper to them, and the pleasure which
+follows them…<I>Each of my senses, each part of my proper self, is as it
+were separated from me and can no longer afford me any feeling; this impossibility
+seems to depend upon a void which I feel in the front of my head, and to
+be due to the diminution of the sensibility over the whole surface of my
+body, for it seems to me that I never actually reach the objects which
+I touch…I feel well enough the changes of temperature on my skin, but I
+no longer experience the internal feeling of the air when I breathe…</I>All
+this would be a small matter enough, but for its frightful result, which
+is that of the impossibility of any other kind of feeling and of any sort
+of enjoyment, although I experience a need and desire of them that render
+my life an incomprehensible torture. Every function, every action of my
+life remains, but deprived of the feeling that belongs to it, of the enjoyment
+that should follow it. My feet are cold, I warm them, but gain no pleasure
+from the warmth. I recognise the taste of all I eat, without getting any
+pleasure from it….My children are growing handsome and healthy, everyone
+tells me so, I see it myself, but the delight, the inward comfort I ought
+to feel, I fail to get. Music has lost all charm for me, I used to love
+it dearly. My daughter plays very well, but for me it is mere noise. That
+lively interest which a year ago made me hear a delicious concert in the
+smallest air their fingers played,-that thrill, that general vibration
+which made me shed such tender tears,-all that exists no more". [<A HREF="#f5">5</A>]
+
+<P>Other victims describe themselves as closed in walls of [p.201] ice
+or covered with an india-rubber integument, through which no impression
+penetrates to the sealed-up sensibility.
+
+<P>If our hypothesis is true, it makes us realise more deeply than ever
+how much our mental life is knit up with our corporeal frame, in the strictest
+sense of the term. Rapture, love , ambition, indignation, and pride, considered
+as feelings, are fruits of the same soil with the grossest bodily sensations
+of pleasure and of pain. But it was said at the outset that this would
+be affirmed only of what we then agreed to call the "standard" emotions;
+and that those inward sensibilities that appeared devoid at first sight
+of bodily results should be left out of our account. We had better, before
+closing, say a word or two about these latter feelings.
+
+<P>They are, the reader will remember, the moral, intellectual, and aesthetic
+feelings. Concords of sounds, of colours, of lines, logical consistencies,
+teleological fitnesses, affect us with a pleasure that seems ingrained
+in the very form of the representation itself, and to borrow nothing from
+any reverberation surging up from the parts below the brain. The Herbartian
+psychologists have tried to distinguish feelings due to the <I>form </I>in
+which ideas may be arranged. A geometrical demonstration may be as "pretty,"
+and an act of justice as "neat" as a drawing or a tune, although the prettiness
+and neatness seem here to be a pure matter of sensation, and there to have
+nothing to do with sensation. We have then, or some of us seem to have,
+genuinely <I>cerebral </I>forms of pleasure and displeasure, apparently
+not agreeing in their mode of production with the so-called "standard"
+emotions we have been analysing. And it is certain that readers whom our
+reasons have hitherto failed to convince, will now start up at this admission,
+and consider that by it we give up our whole case. Since musical perceptions,
+since logical ideas, can immediately arouse a form of emotional feeling,
+they will say, is it not more natural to suppose that in the case of the
+so-called "standard" emotions, prompted by the presence of objects or the
+experience of events, the emotional feeling is equally immediate, and the
+bodily expression something that comes later and is added on?
+
+<P>But a sober scrutiny of the cases of pure cerebral emotion gives little
+force to this assimilation. Unless in them there actually be coupled with
+the intellectual feeling a bodily reverberation of some kind, unless we
+actually laugh at the neatness of the mechanical device, thrill at the
+justice of the act, or tingle at the perfection of the musical form, our
+mental condition is more allied to a judgment of <I>right </I>than [p.202]
+to anything else. And such a judgment is rather to be classed among awarenesses
+of truth: it is a <I>cognitive </I>act. But as a matter of fact the intellectual
+feeling hardly ever does exist thus unaccompanied. The bodily sounding-board
+is at work, as careful introspection will show, far more than we usually
+suppose. Still, where long familiarity with a certain class of effects
+has blunted emotional sensibility thereto as much as it has sharpened the
+taste and judgment, we do get the intellectual emotion, if such it can
+be called, pure and undefiled. And the dryness of it, the paleness, the
+absence of all glow, as it may exist in a thoroughly expert critic's mind,
+not only shows us what an altogether different thing it is from the "standard"
+emotions we considered first, but makes us suspect that almost the entire
+difference lies in the fact that the bodily sounding-board, vibrating in
+the one case, is in the other mute. "Not so very bad" is, in a person of
+consummate taste, apt to be the highest limit of approving expression.
+"<I>Rien ne me choque</I>" is said to have been Chopin's superlative of
+praise of new music. A sentimental layman would feel, and ought to feel,
+horrified, on being admitted into such a critic's mind, to see how cold,
+how thin, how void of human significance, are the motives for favour or
+disfavour that there prevail. The capacity to make a nice spot on the wall
+will outweigh a picture's whole content; a foolish trick of words will
+preserve a poem; an utterly meaningless fitness of sequence in one musical
+composition set at naught any amount of "expressiveness" in another.
+
+<P>I remember seeing an English couple sit for more than an hour on a piercing
+February day in the Academy at Venice before the celebrated "Assumption"
+by Titian; and when I , after being chased from room to room by the cold,
+concluded to get into the sunshine as fast as possible and let the pictures
+go, but before leaving drew reverently near to them to learn with what
+superior forms of susceptibility they might be endowed, all I overheard
+was the woman's voice murmuring : "What a <I>deprecatory </I>expression
+her face wears! What a self-abnegation! How <I>unworthy </I>she feels of
+the honour she is receiving!" Their honest hearts had been kept warm all
+the time by a glow of spurious sentiment that would have fairly made old
+Titian sick. Mr. Ruskin somewhere makes the (for him) terrible admission
+that religious people as a rule care little for pictures, and that when
+they do care for them they generally prefer the worst ones to the best.
+Yes! In every art, in every science, there is the keen perception of certain
+relations being <I>right</I> or not, [p.203] and there is the emotional
+flush and thrill consequent thereupon. And these are two things, not one.
+In the former of them it is that experts and masters are at home. The latter
+accompaniments are bodily commotions that they may hardly feel, but that
+may be experienced in their fulness by <I>Cr&eacute;tins </I>and Philistines
+in whom the critical judgment is at its lowest ebb. The "marvels" of Science,
+about which so much edifying popular literature is written, are apt to
+be "caviare" to the men in the laboratories. Cognition and emotion are
+parted even in this last retreat, - who shall say that their antagonism
+may not just be one phase of the world-old struggle known as that between
+the spirit and the flesh? - a struggle in which it seems pretty certain
+that neither party will definitively drive the other off the field.
+
+<P>To return to our starting point, the physiology of the brain. If we
+suppose its cortex t contain centres for the perception of changes in each
+special sense-organ, in each portion of the skin, in each muscle, each
+joint, and each viscus, and to contain absolutely nothing else, we still
+have a scheme perfectly capable of representing the process of the emotions.
+An object falls on a sense-organ and is apperceived by the appropriate
+cortical centre; or else the latter, excited in some other way, gives rise
+to an idea of the same object. Quick as a flash, the reflex currents pass
+down through their pre-ordained channels, alter the condition of muscle,
+skin and viscus; and these alterations, apperceived like the original object,
+in as many specific portions of the cortex, combine with it in consciousness
+and transform it from an object-simply-apprehended into an object-emotionally-felt.
+No new principles have to be invoked, nothing is postulated beyond the
+ordinary reflex circuit, and the topical centres admitted in one shape
+or another by all to exist.
+
+<P>It must be confessed that a crucial test of the truth of the hypothesis
+is quite as hard to obtain as its decisive refutation. A case of complete
+internal and external corporeal anaesthesia, without motor alteration or
+alteration of intelligence except emotional apathy, would afford, if not
+a crucial test, at least a strong presumption, in favour of the truth of
+the view we have set forth; whilst the persistence of strong emotional
+feeling in such a case would completely overthrow our case. Hysterical
+anaesthesias seem never to be complete enough to cover the ground. Complete
+anaesthesias from organic disease, on the other hand, are excessibely rare.
+In the famous case of Remigius Leims, no mention is made by [p.204] the
+reporters of his emotional condition, a circumstance which by itself affords
+no presumption that it was normal, since as a rule nothing ever <I>is </I>noticed
+without a pre-existing question in the mind. Dr. Georg Winter has recently
+described a case somewhat similar, [<A HREF="#f6">6</A>] and in reply to
+a question, kindly writes to me as follows:-"The case has been for a year
+and a half entirely removed from my observation. But so far as I am able
+to state, the man was characterised by a certain mental inertia and indolence.
+He was tranquil, and had on the whole the temperament of a phlegmatic.
+He was not irritable, not quarrelsome, went quietly about his farm-work,
+and left the care of his business and housekeeping to other people. In
+short, he gave one the impression of a placid countryman, who has no interests
+beyond his work." Dr. Winter adds that in studying the case he paid no
+particular attention to the man's psychic condition, as this seemed "<I>nebens&auml;chlich</I>"
+to his main purpose. I should add that the form of my question to Dr. Winter
+could give him no clue as to the kind of answer I expected.
+
+<P>Of course, this case proves nothing, but it is to be hoped that asylum-physicians
+and nervous specialists may begin methodically to study the relation between
+anaesthesia and emotional apathy. If the hypothesis here suggested is ever
+to be definitively confirmed or disproved it seems as if it must be by
+them, for they alone have the data in their hands.
+
+<P>P.S.- By an unpardonable forgetfulness at the time of despatching my
+MS. to the Editor, I ignored the existence of the extraordinary case of
+total anaesthesia published by Professor Str&uuml;mpell in <I>Ziemssen's
+Deutsches Archiv f&uuml;r klinische Medicin </I>xxii., 321, of which I
+had nevertheless read reports at the time of its publication. [<I>Cf. </I>first
+report of the case in Mind X., 263, translated from <I>Pfl&uuml;ger's Archiv.</I>Ed.]
+I believe that it constitutes the only remaining case of the sort in medical
+literature, so that with is our survey is complete. On referring to the
+original, which is important in many connexions, I found that the patient,
+a shoemaker's apprentice of 15, entirely anaesthetic, inside and out, with
+the exception of one eye and one ear, had shown <I>shame </I>on the occasion
+of soiling his bed, and <I>grief</I>, when a formerly favourite dish was
+set before him, at the thought that he could no longer taste its flavour.
+As Dr. Str&uuml;mpell seemed however to have paid no special attention
+to his psychic states, so far as these are matter for our theory, I wrote
+to him in a few words what the essence of the theory was, and asked him
+to say whether he felt sure the grief and shame mentioned were real feelings
+in the boy's mind, or only the reflex manifestations provoked by certain
+perceptions, manifestations that an outside observer might note, but to
+which the boy himself might be insensible.
+
+<P>Dr. Str&uuml;mpell has sent me a very obliging reply, of which I translate
+the most important passage.
+
+<P>"I must indeed confess that I naturally failed to institute with my
+<I>Anoesthetiker </I>observations as special as the sense of your theory
+would require. Nevertheless I think I can decidedly make the statement,
+that he was by no means completely lacking in emotional affections. In
+addition to the feelings of <I>grief </I>and <I>shame</I> mentioned in
+my paper, I recall distinctly that he showed <I>e.f., anger, </I>and frequently
+quarrelled with the hospital attendants. He also manifested <I>fear </I>lest
+I should punish him. In short, I do not think that my case speaks exactly
+in favour of your theory. On the other hand, I will not affirm that it
+positively refutes your theory. For my case was certainly one of a very
+centrally conditioned anaesthesia (perception-anaesthesia, like that of
+hysterics) and therefore the conduction of outward impressions may in him
+have been undisturbed."
+
+<P>I confess that I do not see the relevancy of the last consideration,
+and this makes me suspect that my own letter was too briefly or obscurely
+expressed to put my correspondent fully in possession of my own thought.
+For his reply still makes no explicit reference to anything but the outward
+manifestations of emotion in the boy. Is it not at least conceivable that,
+just as a stranger, brought into the boy's presence for the first time,
+and seeing him eat and drink and satisfy other natural necessities, would
+suppose him to have the feelings of hunger, thirst, &amp;c., until informed
+by the boy himself that he did all these things with no feeling at all
+but that of sight and sound-is it not, I say, at least possible, that Dr.
+Str&uuml;mpell, addressing no direct introspective questions to his patient,
+and the patient not being of a class from which one could expect voluntary
+revelations of that sort, should have similarly omitted to discriminate
+between a feeling and its habitual motor accompaniment, and erroneously
+taken the latter as proof that the former was there? Such a mistake is
+of course possible, and I must therefore repeat Dr. Str&uuml;mpell's own
+words, that his case does not yet refute my theory. Should a similar case
+recur, it ought to be interrogated as to the inward emotional state that
+co-existed with the outward expressions of shame, anger, &amp;c. And if
+it then turned out that the patient recognised explicitly the same mood
+of feeling known under those names in his former normal state, my theory
+would of course fall. It is, however, to me incredible that the patient
+should have an <I>identical </I>feeling, for the dropping out of the organic
+sounding-board would necessarily diminish its volume in some way. The teacher
+of Dr. Str&uuml;mpell's patient found a mental deficiency in him during
+his anaesthesia, that may possibly have been due to the consequences resulting
+to his general intellectual vivacity from the subtraction of so important
+a mass of feelings, even though they were not the whole of his emotional
+life. Whoever wishes to extract from the next case of total anaesthesia
+the maximum of knowledge about the emotions, will have to interrogate the
+patient with some such notion as that of my article in his mind. We can
+define the pure psychic emotions far better by starting from such an hypothesis
+and modifying it in the way of restriction and subtraction, than by having
+no definite hypothesis at all. Thus will the publication of my article
+have been justified, even thought the theory it advocates, rigorously taken,
+be erroneous. The best thing I can say for it is, that in writing it, I
+have almost persuaded <I>myself </I>it may be true.
+<BR>
+<HR WIDTH="100%">
+<CENTER><B>Footnotes</B></CENTER>
+
+
+<P><A NAME="f1"></A>[1] Of course the physiological question arises, <I>how
+</I>are the changes felt? -<I>after </I>they are produced, by the sensory
+nerves of the organs bringing back to the brain a report of the modifications
+that have occurred? or <I>before </I>they are produced, by our being conscious
+of the outgoing nerve-currents starting on their way downward towards the
+parts they are to excite? I believe all the evidence we have to be in favour
+of the former alternative. The question is too minute for discussion here,
+but I have said something about it in a paper entitled "The Feeling of
+Effort," in the <I>Anniversary Memoirs of the Boston Natural History Society</I>,
+1880 (translated in <I>La Critique Philosophique </I>for that year, and
+summarised in <FONT SIZE=-1>MIND</FONT> XX., 582). See also G.E. M&uuml;ller's
+<I>Grundlegung der Psychophysik, </I>110.
+
+<P><A NAME="f2"></A>[2] Let it be noted in passing that this personal self-consciousness
+seems an altogether bodily affair, largely a consciousness of our attitude,
+and that, like other emotions, it reacts on its physical condition, and
+leads to modifications of the attitude,-to a certain rigidity in most men,
+but in children to a regular twisting and squirming fit, and in women to
+various gracefully shy poses.
+
+<P><A NAME="f3"></A>[3] This is the opposite of what happens in injuries
+to the brain, whether from outward violence, inward rupture or tumor, or
+mere starvation from disease. The cortical permeability seems reduced,
+so that excitement, instead of propagating itself laterally through the
+ideational channels as before, tends to take the downward track into the
+organs of the body. The consequences is that we have tears, laughter, and
+temper-fits, on the most insignificant provocation, accompanying a proportional
+feebleness in logical thought and the power of volitional attention and
+decision.
+
+<P><A NAME="f4"></A>[4] It must be confessed that there are cases of morbid
+fear in which objectively the heart is not much perturbed. These however
+fail to prove anything against our theory, for it is of course possible
+that the cortical centres normally percipient of dread as a complex of
+cardiac and other organic sensations due to real bodily change, should
+become <I>primarily </I>excited in brain-disease, and give rise to an hallucination
+of the changes being there,-an hallucination of dread, consequently, coexistent
+with a comparatively calm pulse, &amp;c. I say it is possible, for I am
+ignorant of observations which might test the fact. Trance, ecstasy, &amp;c.,
+offer analogous examples,-not to speak of ordinary dreaming. Under all
+these conditions one may have the liveliest subjective feelings, either
+of eye or ear, or of the more visceral and emotional sort, as a result
+of pure nerve-central activity, with complete peripheral repose. Whether
+the subjective strength of the feeling be due in these cases to the actual
+energy of the central disturbance, or merely to the narrowing of the field
+of consciousness, need not concern us. In the asylum cases of melancholy,
+there is usually a narrowing of the field.
+
+<P><A NAME="f5"></A>[5] Quoted by Semal: <I>De la Sensibilit&eacute; g&eacute;n&eacute;rale
+dans les Affections m&eacute;lancoliques, </I>Paris, 1876, pp. 130-135.
+
+<P><A NAME="f6"></A>[6] "Ein Fall von allgemeiner Anaesthesie," <I>Inaugural-Dissertation</I>.
+Heidelberg, Winter, 1882.
+<div id="skyFooter2778" class="skyFooter">
+
+<script type="text/javascript" language="javascript">
+document.onclick = fDocumentOnClick;
+document.ondblclick = fDocumentOnDblClick;
+document.onkeypress = fDocumentOnKeyPress;
+document.onmouseover = fSkyWritableOver;
+</script>
+<div class="skyFooterText">
+</div>
+
+</div>
+
+		<!-- 
+		     server side readerlevel control links
+		     <a id="reader_level_0_link" href="?ReaderLevel=0">0</a> | <a id="reader_level_1_link" href="?ReaderLevel=1">1</a> | <a id="reader_level_2_link" href="?ReaderLevel=2">2</a>
+		     -->
+		<!-- client side readerlevel control links -->
+		<a id="reader_level_0_link" href="" onclick="fSetReaderLevel(0); return false;">Normal</a> | <a id="reader_level_1_link" href="" onclick="fSetReaderLevel(1); return false;">Teacher</a> | <a id="reader_level_2_link" href="" onclick="fSetReaderLevel(2); return false;">Scholar</a>
+	      </div>
+	    </div>
+	    <!-- end column23 -->
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    
+            
+    
+    <!-- stop index links -->
+    <div style="clear:both"></div>
+    <!-- suppresses blue main-menu background repeating down the whole page in mozilla -->
+    </div>
+    <!-- end content-wrapper -->
+    <!-- 
+    when serializing the footer, pull everything above this line out into the includer so that the skyInclude div won't get crossed with content-wrapper
+    dtd 
+    -->
+    
+    <div id="footer">
+    <a href="http://www.informationphilosopher.com/introduction/contact.html">Contact Us</a><a href="http://www.informationphilosopher.com/site/map/">Site Map</a>  <a href="http://www.skybuilders.com">Powered by skyBuilders <img class="cc" src="/images/nanoSky.gif" alt="skyBuilders.com" border="0"></a> <a rel="license" href="http://creativecommons.org/licenses/by/3.0"  title="Creative Commons Attribution License">Creative Commons Attribution License <img class="cc" alt="Creative Commons Attribution License" src="/images/CC.png" border="0"></a>
+    </div>
+
+    </body>
+</html>

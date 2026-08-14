@@ -1,0 +1,11 @@
+# 300 Multiple Choices
+
+**source:** html · **section:** solutions
+**file:** a%3E. In it he postulates a law that
+---
+
+Multiple Choices
+The document name you requested (/solutions/scientists/hartley/Transmission_of_Information.pdf'>The Transmission of Information</a>. In it he postulates a law that) could not be found on this server.
+However, we found documents with names similar to the one you requested.Available documents:
+/solutions/scientists/hartley/Transmission_of_Information.pdf/a>. In it he postulates a law that (common basename)
+Please consider informing the owner of the referring page https://www.informationphilosopher.com/solutions/scientists/hartley/ about the broken link.

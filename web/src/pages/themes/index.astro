@@ -1,0 +1,22 @@
+---
+// themes/index.astro — the 9 IPVV theme clusters (real corpus)
+import Layout from '../../layouts/Layout.astro';
+import fs from 'node:fs';
+import path from 'node:path';
+const dir = path.join(process.cwd(), '..', 'site');
+const manifest = JSON.parse(fs.readFileSync(path.join(dir, 'manifest.json'), 'utf-8'));
+const clusters = manifest.clusters?.clusters || [];
+const clusterList = Array.isArray(clusters) ? clusters : (clusters.clusters || []);
+const nameOf = c => (c.title || c.name || c.id || 'cluster');
+---
+<Layout title="Themes — Pāṭala" description="The IPVV theme clusters" jsonLd={{ "@context":"https://schema.org", "@type":"CollectionPage", name:"Pāṭala Themes" }}>
+  <h1>Themes</h1>
+  <p>{clusterList.length} theme clusters.</p>
+  <ul>
+    {clusterList.map(c => (
+      <li><strong>{nameOf(c)}</strong>
+        {c.description && <p class="ceiling">{c.description.slice(0, 120)}</p>}
+      </li>
+    ))}
+  </ul>
+</Layout>

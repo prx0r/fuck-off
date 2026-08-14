@@ -52,6 +52,7 @@ KERNEL_TESTS = {
     "self_healing":     ("validate-self-healing.py", True),
     "skill_graph":      ("validate-skill-graph.py", True),
     "structure_recall": ("validate-structure-recall.py", True),
+    "ingestion_organism": ("validate-ingestion-organism.py", True),
 }
 
 # docs claims (from LAB-REVIEW / KERNELS-INDEX) to verify against tests
@@ -90,6 +91,7 @@ DOC_CLAIMS = {
     "self_healing": "self-healing repair cascade (8/8)",
     "skill_graph": "audited skill-graph self-improvement (8/8)",
     "structure_recall": "SAGE structure-aware recall (9/9)",
+    "ingestion_organism": "autonomous priority-driven refinery (10/10)",
 }
 
 def run(script):

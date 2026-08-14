@@ -1,0 +1,2429 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+
+        
+    <link href="/css/base_menu.css" rel="stylesheet" type="text/css">
+    <link rel="shortcut icon" href="/favicon.ico"> 
+   
+        
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="description" content="Information Philosopher is dedicated to the new Information Philosophy, with explanations for Freedom, Values, and Knowledge.">
+    <meta name="keywords" content="Information, Philosopher, Philosophy, Freedom, Values, Knowledge, Demons, Determinism, Dogmas, Dualism, Certainty, Uncertainty, Indeterminacy, Entropy, Randomness, Microcosmos, Macrocosmos, Quantum Mechanics, Thermodynamics, Second Law ">
+    
+    <!-- You can use Open Graph tags to customize Facebook link previews.
+    Learn more: https://developers.facebook.com/docs/sharing/webmasters
+    Required properties are:
+      og:url, og:type, og:title, og:description, og:image, and fb:app_id
+    If og:image is not used, Facebook will notice the Twitter meta tags below 
+    and use a twitter icon for the page's image, which is undesirable, so I put 
+    in an empty og:image for now.
+    <meta property="og:image" content="http://informationphilosopher.com/images/Big_Bang_Timeline400.png">
+   
+    <meta property="og:image" content="">
+
+    <meta name="twitter:site" value="@infophilosopher" />
+    <meta property="twitter:url" content="https://informationphilosopher.com" />
+    <meta property="twitter:title" content="dedicated to the new information philosophy" />
+    <meta property="twitter:description" content="Problems in Philosophy and Physics Solved?" />
+ 
+    <script>window.twttr = (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0],
+        t = window.twttr || {};
+      if (d.getElementById(id)) return t;
+      js = d.createElement(s);
+      js.id = id;
+      js.src = "https://platform.twitter.com/widgets.js";
+      fjs.parentNode.insertBefore(js, fjs);
+
+      t._e = [];
+      t.ready = function(f) {
+        t._e.push(f);
+      };
+      return t;
+    }(document, "script", "twitter-wjs"));</script>
+     -->
+    <style>
+      #search_bar {
+        height: 24px;
+      }
+      #social_cluster {
+      	padding-right: 7px;
+     	padding-top: 3px;
+        float: right;
+        text-align: right;
+        width: 220px;
+      }
+      // #social_cluster div {
+      //   display: inline-block;
+      //   padding-bottom: 2px;
+      // }
+      .social_button {
+        float: right;
+        display: inline-block;
+        padding-top: 2px;
+        padding-bottom: 2px;
+      }
+      #social_links {
+      	clear: both;
+        font-size: 7pt;
+        color: #000099;
+      }
+      #social_links img {
+      	vertical-align: middle;  
+      }
+    </style>
+
+    <script language="javascript" type="text/javascript" src="/scripts/global-menus.js"></script>
+    
+    
+    
+    <style type="text/css">
+    .reader_level_0, .div_0 {
+      display: block;
+    }
+    .reader_level_1, .div_1 {
+      display: none;
+    }
+    .reader_level_2, .div_2 {
+      display: none;
+    }
+    .reader_level_0_span, .span_0 {
+      display: inline;
+    }
+    .reader_level_1_span, .span_1 {
+      display: none;
+    }
+    .reader_level_2_span, .span_2 {
+      display: none;
+    }
+    #reader_level_0_link {
+      
+  color: #000000;
+  font-weight: bold;
+  text-decoration: none;
+  cursor: text;    }
+    #reader_level_1_link {
+          }
+    #reader_level_2_link {
+          }
+    </style>
+    <script language="javascript" type="text/javascript">
+    function getElementsByClass(searchClass,node,tag) {
+      // thanks to Dustin Diaz
+      var classElements = new Array();
+      if ( node == null )
+        node = document;
+      if ( tag == null )
+        tag = '*';
+      var els = node.getElementsByTagName(tag);
+      var elsLen = els.length;
+      var pattern = new RegExp("(^|\s)"+searchClass+"(\s|$)");
+      for (i = 0, j = 0; i < elsLen; i++) {
+        if ( pattern.test(els[i].className) ) {
+          classElements[j] = els[i];
+          j++;
+        }
+      }
+      return classElements;
+    }
+    function fSetClassDisplay(sClass, sDisplay) {
+      var aClassElement;
+      aClassElement = getElementsByClass(sClass, document, "*");
+      // alert(aClassElement.length);
+      for ( i = 0; i < aClassElement.length; i++ ) {
+        aClassElement[i].style.display = sDisplay;
+      }
+    }
+    function fDimLink(sId) {
+      document.getElementById(sId).style.color = "#000000";
+      document.getElementById(sId).style.fontWeight = "bold";
+      document.getElementById(sId).style.textDecoration = "none";
+    }
+    function fLightLink(sId) {
+      document.getElementById(sId).style.color = "#3333ff";
+      document.getElementById(sId).style.fontWeight = "normal";
+      document.getElementById(sId).style.textDecoration = "underline";
+    }
+    function fSetReaderLevel(sReaderLevel) {
+      var sLevel0, sLevel1, sLevel2, sLevel0Span, sLevel1Span, sLevel2Span;
+      // set cookie
+      document.cookie = "ReaderLevel=" + sReaderLevel + "; expires=1785360906; path=/";
+      // set styles
+      if (sReaderLevel == 0) {
+        fDimLink("reader_level_0_link");
+        sLevel0 = "block";
+        sLevel1 = "none";
+        sLevel2 = "none";
+        sLevel0Span = "inline";
+        sLevel1Span = "none";
+        sLevel2Span = "none";
+      } else {
+        fLightLink("reader_level_0_link");
+      }
+      if (sReaderLevel == 1) {
+        fDimLink("reader_level_1_link");
+        sLevel0 = "block";
+        sLevel1 = "block";
+        sLevel2 = "none";
+        sLevel0Span = "inline";
+        sLevel1Span = "inline";
+        sLevel2Span = "none";
+      } else {
+        fLightLink("reader_level_1_link");
+      }
+      if (sReaderLevel == 2) {
+        fDimLink("reader_level_2_link");
+        sLevel0 = "block";
+        sLevel1 = "block";
+        sLevel2 = "block";
+        sLevel0Span = "inline";
+        sLevel1Span = "inline";
+        sLevel2Span = "inline";
+      } else {
+        fLightLink("reader_level_2_link");
+      }
+      fSetClassDisplay("reader_level_0", sLevel0);
+      fSetClassDisplay("reader_level_1", sLevel1);
+      fSetClassDisplay("reader_level_2", sLevel2);
+      fSetClassDisplay("div_0", sLevel0);
+      fSetClassDisplay("div_1", sLevel1);
+      fSetClassDisplay("div_2", sLevel2);
+      fSetClassDisplay("reader_level_0_span", sLevel0Span);
+      fSetClassDisplay("reader_level_1_span", sLevel1Span);
+      fSetClassDisplay("reader_level_2_span", sLevel2Span);
+      fSetClassDisplay("span_0", sLevel0Span);
+      fSetClassDisplay("span_1", sLevel1Span);
+      fSetClassDisplay("span_2", sLevel2Span);
+    }
+    </script>
+    
+<meta name="generator" content="skyBuilders.com timeLines">
+<link rel="stylesheet" href="https://www.informationphilosopher.com/timelines/PageFooter.css"><script type="text/javascript" language="javascript"><!-- 
+if (typeof SymRealWinOpen == 'function') {
+window.open = SymRealWinOpen;
+}
+//--></script>
+
+<script type="text/javascript" language="javascript">
+var sPageSeriesName = "decoherence.html";
+var sRequestedFileName = "decoherence.5.en.html";
+var sSkyPageID = "2485";
+function mSkyWrite() {
+window.open('/timelines/index.html?skyWrite=True&UserID=3&chosenLocaleCode=en&PageSeriesID=1413&PageID=2485&DirPath=%2Fknowledge%2F', '_blank', 'resizable,menubar,location,toolbar,scrollbars,status,height=600,width=832,left=250,top=50', true);
+}
+var sCurrentlyOverDocument = 1;
+
+function fGetPagePos(oElement, sDimension) {
+  var sPagePos;
+  
+  if (! (oElement = document.getElementById(oElement))) {
+    return 0;
+  }
+  
+  sPagePos = 0;
+  
+  // alert(oElement);
+  while (oElement) {
+    if (typeof(oElement['offset' + sDimension]) != 'undefined') {
+      sPagePos += oElement['offset' + sDimension];
+    }
+    // alert(typeof oElement.offsetParent);
+    if (typeof(oElement.offsetParent) != 'undefined') {
+      oElement = oElement.offsetParent;
+    } else {
+      oElement = null;
+    }
+  }
+  
+  return sPagePos;
+}
+
+function fSkyWritableOver(sDivID, oEvent) {
+  var oDiv;
+  
+  if (oEvent) {
+    sElement = (oEvent.target) ? oEvent.target : oEvent.srcElement;
+    if ((sElement.id == 'skyIncludeEditablePencilImg') || (sElement.id == 'skyIncludeEditableCornerImg')){
+      window.status = 'click to edit';
+    }
+  }
+  
+  // alert(typeof sDivID);
+  if (typeof sDivID == 'string') {
+    sCurrentlyOverDocument = 0;
+    oDiv = document.getElementById(sDivID);
+    oPencil = document.getElementById('skyIncludeEditablePencil');
+    oCorner = document.getElementById('skyIncludeEditableCorner');
+    // sDivTop = oDiv.offsetTop;
+    sDivTop = fGetPagePos(sDivID, 'Top');
+    sDivLeft = fGetPagePos(sDivID, 'Left');
+    sDivWidth = oDiv.offsetWidth;
+    sDivHeight = oDiv.offsetHeight;
+    // alert('div: ' + sDivTop);
+    // alert(sDivWidth);
+    
+    oPencil.style.top = sDivTop + 'px';
+    oPencil.style.left = (sDivLeft + sDivWidth - 21) + 'px';
+    oCorner.style.top = (sDivTop + sDivHeight - 11) + 'px';
+    oCorner.style.left = sDivLeft + 'px';
+    // oSkyIncludeEditable.style.height = '0px';
+    // oSkyIncludeEditable.style.border = '#0000ff dashed 1px';
+    oPencil.style.width = '21px';
+    oPencil.style.height = '19px';
+    oPencil.style.zIndex = '101';
+    oPencil.onmouseover = oDiv.onmouseover;
+    oPencil.onmouseout = oDiv.onmouseout;
+    oPencil.onclick = oDiv.onclick;
+    oCorner.style.width = '10px';
+    oCorner.style.height = '9px';
+    oCorner.style.zIndex = '101';
+    oCorner.onmouseover = oDiv.onmouseover;
+    oCorner.onmouseout = oDiv.onmouseout;
+    oCorner.onclick = oDiv.onclick;
+    // oSkyIncludeEditable.style.display = 'block';
+    
+    // sSkyIncludeEditableTop = oSkyIncludeEditable.style.top;
+    // alert('skyinclude: ' + sSkyIncludeEditableTop);
+    
+    if (0) {
+      oDiv.style.borderWidth = '1px';
+      oDiv.style.borderStyle = 'dashed';
+      oDiv.style.borderColor = '#0000ff';
+    }
+  } else {
+    // sCurrentlyOverDocument = 1;
+  }
+}
+
+function fSkyWritableOut(sDivID) {
+  var oDiv;
+  
+  window.status = '';
+  
+  if (typeof sDivID == 'string') {
+    sCurrentlyOverDocument = 1;
+    // oDiv = document.getElementById(sDivID);
+    // doesn't work in IE: oDiv.style.border = '1px solid transparent';
+    // document.getElementById('skyIncludeEditable').style.display = 'none';
+    document.getElementById('skyIncludeEditablePencil').style.zIndex = '-1';
+    document.getElementById('skyIncludeEditablePencil').style.top = '-100';
+    document.getElementById('skyIncludeEditableCorner').style.zIndex = '-1';
+    document.getElementById('skyIncludeEditableCorner').style.top = '-100';
+    // oDiv.style.border = '1px solid #ffffff';
+  }
+}
+
+function fDocumentOnClick(oEvent) {
+  // alert(sCurrentlyOverDocument);
+  // if (0) {
+  if (sCurrentlyOverDocument == 1) {
+    fSkyWriteInclude(1413, 2485, '/knowledge/', oEvent);
+  }
+}
+
+function fAsOfNow() {
+  document.cookie = 'as_of=; path=/; domain=informationphilosopher.com';
+  document.location.href = '?@=now';
+}
+
+function fSubmitAsOfForm() {
+  oYearInput = document.getElementById('as_of_year');
+  oMonthInput = document.getElementById('as_of_month');
+  oDayInput = document.getElementById('as_of_day');
+  oHourInput = document.getElementById('as_of_hour');
+  oMinuteInput = document.getElementById('as_of_minute');
+  oSecondInput = document.getElementById('as_of_second');
+
+  sAsOf = oYearInput.value + '-' + oMonthInput.value + '-' + oDayInput.value + 'T' + oHourInput.value + ':' + oMinuteInput.value + ':' + oSecondInput.value;
+  document.location.href = '?@=' + sAsOf;
+}
+
+var aAsOfInputs = [
+  'as_of_year',
+  'as_of_month',
+  'as_of_day',
+  'as_of_hour',
+  'as_of_minute',
+  'as_of_second',
+];
+
+function fAsOfOnKeyUp(e) {
+  // Handle the Enter key
+  if (e.key == 'Enter') {
+     fSubmitAsOfForm();
+  }
+}
+
+function fAsOfOnInput(e) {
+  fAsOfNextInput(e.target);
+}
+
+function fAsOfNextInput(oInput) {
+  // Handle giving focus to the next input when this one is at max length
+  sMaxLen = String(oInput.max +'').length;
+
+  if (oInput.value.length == sMaxLen) {
+     // Find which input, if any, is next in the sequence
+     sNextIndex = aAsOfInputs.indexOf(oInput.id) + 1;
+     if (sNextIndex < aAsOfInputs.length) {
+     	oNext = document.getElementById(aAsOfInputs[sNextIndex]);
+	oNext.focus();
+	oNext.select();
+     }
+  }
+}
+
+function fDismissAsOfForm() {
+  var oDiv = document.getElementById('as_of_div');
+  if (oDiv) {
+    oDiv.style.display = 'none';
+  }
+}
+
+function fOpenAsOfForm() {
+  var oDiv = document.getElementById('as_of_div');
+  if (oDiv) {
+    oDisplaySpan = document.getElementById('as_of_display');
+    oYearInput = document.getElementById('as_of_year');
+    oMonthInput = document.getElementById('as_of_month');
+    oDayInput = document.getElementById('as_of_day');
+    oHourInput = document.getElementById('as_of_hour');
+    oMinuteInput = document.getElementById('as_of_minute');
+    oSecondInput = document.getElementById('as_of_second');
+  } else {
+    var oDiv = document.createElement('div');
+    oDiv.id = 'as_of_div';
+
+    var oForm = document.createElement('form');
+    oForm.style = 'margin-block-end: 0;';
+    oForm.id = 'as_of_form';
+    oForm.name = 'as_of_form';
+    oForm.onsubmit = fSubmitAsOfForm;
+    oDiv.appendChild(oForm);
+
+    var oGrid = document.createElement('div');
+    oGrid.style = 'display: grid; grid-template-columns: max-content min-content min-content min-content min-content min-content 1fr;';
+    oGrid.ondblclick = null;
+    oForm.appendChild(oGrid);
+
+    var oHeader = document.createElement('div');
+    oHeader.style = 'grid-column: 1; grid-row: 1; margin-top: 7px; padding-right: 5px;';
+    oHeader.appendChild(document.createTextNode('Showing page as of '));
+    oDisplaySpan = document.createElement('span');
+    oDisplaySpan.id = 'as_of_display';
+    oHeader.appendChild(oDisplaySpan)
+    oHeader.appendChild(document.createTextNode('. Choose date and time:'));
+    oGrid.appendChild(oHeader);
+
+    var oYearDiv = document.createElement('div');
+    oYearDiv.className = 'as_of_input_div';
+    oYearDiv.style = 'grid-column: 2; grid-row: 1;';
+    oGrid.appendChild(oYearDiv);
+
+    var oYearInput = document.createElement('input');
+    oYearInput.id = 'as_of_year';
+    oYearInput.type = 'number';
+    oYearInput.min = 1970;
+    oYearInput.max = 9999;
+    oYearInput.oninput = fAsOfOnInput;
+    oYearInput.onkeyup = fAsOfOnKeyUp;
+    oYearDiv.appendChild(oYearInput);
+
+    oYearDiv.appendChild(document.createTextNode('-'));
+
+    var oMonthDiv = document.createElement('div');
+    oMonthDiv.className = 'as_of_input_div';
+    oMonthDiv.style = 'grid-column: 3; grid-row: 1;';
+    oGrid.appendChild(oMonthDiv);
+
+    var oMonthInput = document.createElement('input');
+    oMonthInput.id = 'as_of_month';
+    oMonthInput.type = 'number';
+    oMonthInput.min = 1;
+    oMonthInput.max = 12;
+    oMonthInput.oninput = fAsOfOnInput;
+    oMonthInput.onkeyup = fAsOfOnKeyUp;
+    oMonthDiv.appendChild(oMonthInput);
+
+    oMonthDiv.appendChild(document.createTextNode('-'));
+
+    var oDayDiv = document.createElement('div');
+    oDayDiv.className = 'as_of_input_div';
+    oDayDiv.style = 'grid-column: 4; grid-row: 1; padding-right: 5px';
+    oGrid.appendChild(oDayDiv);
+
+    var oDayInput = document.createElement('input');
+    oDayInput.id = 'as_of_day';
+    oDayInput.type = 'number';
+    oDayInput.min = 1;
+    oDayInput.max = 31;
+    oDayInput.oninput = fAsOfOnInput;
+    oDayInput.onkeyup = fAsOfOnKeyUp;
+    oDayDiv.appendChild(oDayInput);
+
+    var oHourDiv = document.createElement('div');
+    oHourDiv.className = 'as_of_input_div';
+    oHourDiv.style = 'grid-column: 5; grid-row: 1;';
+    oGrid.appendChild(oHourDiv);
+
+    var oHourInput = document.createElement('input');
+    oHourInput.id = 'as_of_hour';
+    oHourInput.type = 'number';
+    oHourInput.min = 0;
+    oHourInput.max = 23;
+    oHourInput.oninput = fAsOfOnInput;
+    oHourInput.onkeyup = fAsOfOnKeyUp;
+    oHourDiv.appendChild(oHourInput);
+
+    oHourDiv.appendChild(document.createTextNode(':'));
+
+    var oMinuteDiv = document.createElement('div');
+    oMinuteDiv.className = 'as_of_input_div';
+    oMinuteDiv.style = 'grid-column: 6; grid-row: 1;';
+    oGrid.appendChild(oMinuteDiv);
+
+    var oMinuteInput = document.createElement('input');
+    oMinuteInput.id = 'as_of_minute';
+    oMinuteInput.type = 'number';
+    oMinuteInput.min = 0;
+    oMinuteInput.max = 59;
+    oMinuteInput.oninput = fAsOfOnInput;
+    oMinuteInput.onkeyup = fAsOfOnKeyUp;
+    oMinuteDiv.appendChild(oMinuteInput);
+
+    oMinuteDiv.appendChild(document.createTextNode(':'));
+
+    var oSecondDiv = document.createElement('div');
+    oSecondDiv.className = 'as_of_input_div';
+    oSecondDiv.style = 'grid-column: 7; grid-row: 1;';
+    oGrid.appendChild(oSecondDiv);
+
+    var oSecondInput = document.createElement('input');
+    oSecondInput.id = 'as_of_second';
+    oSecondInput.type = 'number';
+    oSecondInput.min = 0;
+    oSecondInput.max = 59;
+    oSecondInput.oninput = fAsOfOnInput;
+    oSecondInput.onkeyup = fAsOfOnKeyUp;
+    oSecondDiv.appendChild(oSecondInput);
+
+    var oSecondDiv = document.createElement('div');
+    oSecondDiv.className = 'as_of_input_div';
+    oSecondDiv.style = 'grid-column: 7; grid-row: 1;';
+    oGrid.appendChild(oSecondDiv);
+
+    var oButtonsDiv = document.createElement('div');
+    oButtonsDiv.style = 'grid-column: 8; grid-row: 1 /3; padding-top: 2px; text-align: right;';
+    oEnterButton = document.createElement('button');
+    oEnterButton.style = 'margin-bottom: 5px; margin-right: 5px;';
+    oEnterButton.onclick = fSubmitAsOfForm;
+    oEnterButton.appendChild(document.createTextNode('Enter'));
+    oButtonsDiv.appendChild(oEnterButton);
+    oNowButton = document.createElement('button');
+    oNowButton.style = 'margin-bottom: 5px;';
+    oNowButton.onclick = fAsOfNow;
+    oNowButton.appendChild(document.createTextNode('Now'));
+    oButtonsDiv.appendChild(oNowButton);
+    oButtonsDiv.appendChild(document.createElement('br'));
+    oDismissButton = document.createElement('button');
+    oDismissButton.onclick = fDismissAsOfForm;
+    oDismissButton.appendChild(document.createTextNode('Dismiss'));
+    oButtonsDiv.appendChild(oDismissButton);
+    oGrid.appendChild(oButtonsDiv);
+
+    var oErrorHeader = document.createElement('div');
+    oErrorHeader.style = 'grid-column: 1; grid-row: 2; padding-right: 5px; font-weight: bold;';
+    oErrorHeader.appendChild(document.createTextNode(''));
+    oGrid.appendChild(oErrorHeader);
+
+    var oYearLabelDiv = document.createElement('div');
+    oYearLabelDiv.className = 'as_of_label';
+    oYearLabelDiv.style = 'grid-column: 2;';
+    oGrid.appendChild(oYearLabelDiv);
+    oYearLabelDiv.appendChild(document.createTextNode('Year'));
+    oYearLabelDiv.appendChild(document.createElement('br'));
+    oYearLabelDiv.appendChild(document.createTextNode('YYYY'));
+
+    var oMonthLabelDiv = document.createElement('div');
+    oMonthLabelDiv.className = 'as_of_label';
+    oMonthLabelDiv.style = 'grid-column: 3;';
+    oGrid.appendChild(oMonthLabelDiv);
+    oMonthLabelDiv.appendChild(document.createTextNode('Month'));
+    oMonthLabelDiv.appendChild(document.createElement('br'));
+    oMonthLabelDiv.appendChild(document.createTextNode('01-12'));
+
+    var oDayLabelDiv = document.createElement('div');
+    oDayLabelDiv.className = 'as_of_label';
+    oDayLabelDiv.style = 'grid-column: 4;';
+    oGrid.appendChild(oDayLabelDiv);
+    oDayLabelDiv.appendChild(document.createTextNode('Day'));
+    oDayLabelDiv.appendChild(document.createElement('br'));
+    oDayLabelDiv.appendChild(document.createTextNode('01-31'));
+
+    var oHourLabelDiv = document.createElement('div');
+    oHourLabelDiv.className = 'as_of_label';
+    oHourLabelDiv.style = 'grid-column: 5;';
+    oGrid.appendChild(oHourLabelDiv);
+    oHourLabelDiv.appendChild(document.createTextNode('Hour'));
+    oHourLabelDiv.appendChild(document.createElement('br'));
+    oHourLabelDiv.appendChild(document.createTextNode('00-23'));
+
+    var oMinuteLabelDiv = document.createElement('div');
+    oMinuteLabelDiv.className = 'as_of_label';
+    oMinuteLabelDiv.style = 'grid-column: 6;';
+    oGrid.appendChild(oMinuteLabelDiv);
+    oMinuteLabelDiv.appendChild(document.createTextNode('Minute'));
+    oMinuteLabelDiv.appendChild(document.createElement('br'));
+    oMinuteLabelDiv.appendChild(document.createTextNode('00-59'));
+
+    var oSecondLabelDiv = document.createElement('div');
+    oSecondLabelDiv.className = 'as_of_label';
+    oSecondLabelDiv.style = 'grid-column: 7;';
+    oGrid.appendChild(oSecondLabelDiv);
+    oSecondLabelDiv.appendChild(document.createTextNode('Second'));
+    oSecondLabelDiv.appendChild(document.createElement('br'));
+    oSecondLabelDiv.appendChild(document.createTextNode('00-59'));
+
+    document.body.insertBefore(oDiv, document.body.firstChild);
+  }
+
+  oYearInput.value = '2026';
+  oMonthInput.value = '07';
+  oDayInput.value = '29';
+  oHourInput.value = '20';
+  oMinuteInput.value = '35';
+  oSecondInput.value = '06';
+
+  oDisplaySpan.innerText = oYearInput.value + '-' + oMonthInput.value + '-' + oDayInput.value + ' ' + oHourInput.value + ':' + oMinuteInput.value + ':' + oSecondInput.value;
+
+  oDiv.style.display = 'block';
+
+  oYearInput.focus();
+  oYearInput.select();
+}
+
+function fDocumentOnDblClick(oEvent) {
+  fOpenAsOfForm();
+}
+
+function fDocumentOnKeyPress(oEvent) {
+  // The @ symbol
+  if ((oEvent.shiftKey) && (oEvent.code == 'Digit2')) {
+    fOpenAsOfForm();
+  }
+}
+
+document.addEventListener('DOMContentLoaded', function(event) {
+  if ('' != '') {
+     document.cookie = 'as_of=; path=/; domain=informationphilosopher.com';
+     fOpenAsOfForm();
+  }
+});
+
+
+function fSkyWriteInclude(sPageSeriesID, sPageID, sDirPath, oEvent) {
+var sIndicatorClicked, sControlKeyPressed, sShiftKeyPressed;
+var sElement;
+
+// check for shift or control key depressed
+oEvent = (oEvent) ? oEvent : (window.event) ? window.event : ''
+
+sIndicatorClicked = 0;
+sControlKeyPressed = 0;
+sShiftKeyPressed = 0;
+if (oEvent) {
+  sModifierPressed = '';
+  
+  sElement = (oEvent.target) ? oEvent.target : oEvent.srcElement;
+  // alert(sElement.id);
+  
+  if ((sElement.id == 'skyIncludeEditablePencilImg') || (sElement.id == 'skyIncludeEditableCornerImg')){
+    sIndicatorClicked = 1;
+  }
+  
+  if (oEvent.which) {
+    if (oEvent.ctrlKey) {
+      sControlKeyPressed = 1;
+    }
+  } else {
+    if (oEvent.modifiers) {
+      if (oEvent.modifiers && oEvent.CTRL_MASK) {
+        // sControlKeyPressed = oEvent.modifiers;
+        sControlKeyPressed = 1;
+      }
+    } else {
+      if (oEvent.ctrlKey) {
+        sControlKeyPressed = 1;
+      }
+    }
+  }
+  
+  if (oEvent.which) {
+    if (oEvent.shiftKey) {
+      sShiftKeyPressed = 1;
+    }
+  } else {
+    if (oEvent.modifiers) {
+      if (oEvent.modifiers && oEvent.SHIFT_MASK) {
+        // sShiftKeyPressed = oEvent.modifiers;
+        sShiftKeyPressed = 1;
+      }
+    } else {
+      if (oEvent.shiftKey) {
+        sShiftKeyPressed = 1;
+      }
+    }
+  }
+}
+
+// if shift or control key pressed
+if ((sIndicatorClicked) || (sControlKeyPressed == 1) || (sShiftKeyPressed == 1)) {
+  // alert('pressed');
+  window.open('https://www.informationphilosopher.com/timelines/index.html?skyWrite=True&PageSeriesID=' + sPageSeriesID + '&PageID=' + sPageID + '&DirPath=' + sDirPath, '_blank', 'menubar,toolbar,location,resizable,scrollbars,status,height=600,width=832,left=250,top=50', true);
+}
+}
+    
+</script>
+	<title>Decoherence</title>	
+</head>
+<body>
+
+    <a href="#skipnav" title="Skip Navigation, Search, and Login"></a>
+    <div id="header-wrapper"> 
+      <div id="header"> 
+        <!-- <div id="spacer">&nbsp;</div> -->
+        <div id="logo"><a href="/" title="Go to Information Philosopher home page"><img src="/images/clear.gif" alt="Go to Information Philosopher home page" border="0" width="70" height="70"></a></div>
+   
+	    <div id="social_cluster">
+            <!-- Load Facebook SDK for JavaScript -->
+            <div id="fb-root" style="display: inline;"></div>
+            <script>(function(d, s, id) {
+              var js, fjs = d.getElementsByTagName(s)[0];
+              if (d.getElementById(id)) return;
+              js = d.createElement(s); js.id = id;
+              js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8";
+              fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));</script>
+
+            <!-- Your like button code -->
+            <!-- data-href="https://www.your-domain.com/your-page.html" -->
+            <div class="social_button fb-like"
+              data-href=""
+              data-layout="button_count" 
+              data-action="like" 
+              data-show-faces="true">
+            </div>
+
+            <!-- Your share button code 
+            <div class="social_button fb-share-button" 
+              data-href="" 
+              data-layout="button_count">
+            </div> 
+
+            <div class="social_button">
+            	<a class="social_button twitter-share-button" href="https://twitter.com/intent/tweet">Tweet</a>&nbsp;
+            </div> -->
+            
+            <br />
+            <div id="social_links">
+	        	<font style="font-size:9px;font-color:#000066">Follow&nbsp;infophilosopher:</font>
+	        	 
+	        	<a href="https://www.facebook.com/infophilosopher" target="facebook" style="text-decoration:none" title="infophilosopher on Facebook"><img src="/images/Facebook3.png" style="border-radius: 3px; height:15px;"></a>
+	        	| 
+	        	<a href="http://youtube.com/infophilosopher/" target="youtube" style="text-decoration:none;" title="infophilosopher on YouTube"><img src="/images/YouTubeX.png" style="height:15px;"></a>
+	        </div>
+        </div>
+
+        <div id="main-menu">
+          <ul>
+            <li><a id="nav_banner_introduction" href="/introduction/" onmouseover="try{buttonMouseover(event, 'introduction');} catch(e){}">Introduction</a></li>
+            <li><a id="nav_banner_problems" href="/problems/" onmouseover="try{buttonMouseover(event, 'problems');} catch(e){}">Problems</a></li>
+            <li><a id="nav_banner_freedom" href="/freedom/" onmouseover="try{buttonMouseover(event, 'freedom');} catch(e){}">Freedom</a></li>
+            <li><a id="nav_banner_value" href="/value/" onmouseover="try{buttonMouseover(event, 'value');} catch(e){}">Value</a></li>
+            <li><a id="nav_banner_knowledge" href="/knowledge/" onmouseover="try{buttonMouseover(event, 'knowledge');} catch(e){}">Knowledge</a></li>
+            <!--<li><a id="nav_banner_solutions" href="/solutions/" onmouseover="try{buttonMouseover(event, 'solutions');} catch(e){}">Solutions</a></li> -->
+            <li><a id="nav_banner_life" href="/life/" onmouseover="try{buttonMouseover(event, 'life');} catch(e){}">Life</a></li>
+            <li><a id="nav_banner_mind" href="/mind/" onmouseover="try{buttonMouseover(event, 'mind');} catch(e){}">Mind</a></li>
+            <li><a id="nav_banner_chance" href="/chance/" onmouseover="try{buttonMouseover(event, 'chance');} catch(e){}">Chance</a></li>
+            <li><a id="nav_banner_quantum" href="/quantum/" onmouseover="try{buttonMouseover(event, 'quantum');} catch(e){}">Quantum</a></li>
+            <li><a id="nav_banner_entanglement" href="/entanglement/" onmouseover="try{buttonMouseover(event, 'entanglement');} catch(e){}">Entanglement</a></li>
+            <li><a id="nav_banner_scandal" href="/scandals/" onmouseover="try{buttonMouseover(event, 'scandals');} catch(e){}">Scandals</a></li>
+            <!--<li id="main-menu-rightmost"><a id="nav_banner_afterwords" href="/afterwords/" onmouseover="try{buttonMouseover(event, 'afterwords');} catch(e){}">Afterword</a></li>-->
+          </ul>
+        </div>
+      </div>
+    </div>
+ 
+    <div id="citation_info" class="display_none">
+      Citation for this page in APA citation style.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <span class="breadcrumbs">
+	  <a href="" title="Citation for this page in APA citation style." alt="Citation for this page in APA citation style." onclick="document.getElementById('citation_info').style.display = 'none'; return false;">Close</a> 
+	</span>
+      <p/>
+	<script language="javascript" type="text/javascript">
+	document.write(document.title);
+	document.write("<br/>Retrieved  ");
+	var oDate = new Date();
+	var aMonthName = new Array('January', 'February', 'March',
+                                   'April', 'May', 'June',
+                                   'July', 'August', 'September',
+                                   'October', 'November', 'December');
+	document.write(aMonthName[oDate.getMonth()] + ' ' + oDate.getDate() + ', ' + oDate.getFullYear());
+	document.write(", from Information Philosopher");
+	</script>
+	<br/>
+	<script language="javascript" type="text/javascript">
+	document.write("Web site <a href='");
+	document.write(location.href);
+	document.write("'>");
+	document.write(location.href);
+	document.write("</a>");
+	</script>
+
+    </div>
+
+    <div id="search_bar" class="search">
+      <table class="layout" cellpadding="0" cellspacing="0" width="731"> 
+        <tr> 
+          <td nowrap>
+	    <!-- &nbsp;<a href="http://www.informationphilosopher.com/site/search/">Search</a> | -->
+	    <!-- | <a href="http://www.informationphilosopher.com/site/A-Z_index/">A-Z Index</a> | -->
+
+	    <!--<a href="http://www.informationphilosopher.com/site/map/">Site Map</a> | 
+	    <a href="http://www.informationphilosopher.com/afterwords/glossary/">Glossary</a> |--> 
+
+	    <a href="/about/" target="about" style="text-decoration: none">About</a> &nbsp;
+
+	    <a href="/articles/" target="blog" style="text-decoration: none">Articles</a> &nbsp; 
+
+	    <!--<a href="http://i-phi.org" target="blog" style="text-decoration: none">Blog</a> &nbsp; -->
+	   
+	    <a href="/books/" target="blog" style="text-decoration: none">Books</a> &nbsp; 
+
+	    <a href="/lectures/" title="Lectures on information philosophy" alt="Lectures on information philosophy" style="text-decoration:none;margin-top:1px;">Lectures</a> &nbsp;
+
+	    <a href="/presentations/" target="presentations" style="text-decoration: none">Presentations</a> &nbsp; 
+
+	    <a href="/afterwords/glossary/" title="Glossary of Terms" alt="Glossary of Terms" style="text-decoration:none;margin-top:1px;">Glossary</a> &nbsp;
+
+	    <a href="" title="Citation for this page in APA citation style." alt="Citation for this page in APA citation style." onclick="document.getElementById('citation_info').style.display = 'block'; return false;" style="text-decoration: none">Cite</a> &nbsp;
+
+	    <a href="/help/" title="Want to help information philosophy?" alt="Want to help information philosophy?" style="text-decoration:none;margin-top:1px;">Help?</a> &nbsp;
+	    
+	     
+	    
+	    </td>
+
+          <!-- can we determine if user is logged in?  -->
+          <td class="search" align="right">
+        
+        <script type="text/javascript" language="javascript">
+	      function mAssembleSearchURL(sSearchCriteria, sWhichSearch) {
+	        var sSiteURL, sSearchURL;
+		sSiteURL = "informationphilosopher.com"
+	        sBaseURL = "http://www.google.com/search?hl=en&lr=&ie=UTF-8&oe=UTF-8&as_qdr=all&q=";
+
+		if (sWhichSearch == "0") {
+		  sSearchURL = sBaseURL + escape(sSearchCriteria);
+		} else {
+		  if (sWhichSearch == "1") {
+		    sSearchURL = sBaseURL + escape(sSearchCriteria) + "+site:" + sSiteURL;
+		  } else {
+		    sSearchURL = sBaseURL + escape(sSearchCriteria);
+		  }
+		}
+		window.open(sSearchURL, '_blank', 'menubar,location,resizable,scrollbars,status,toolbar,height=520,width=640,left=250,top=50', true);
+	      }
+	    </script>
+	    
+	    
+	    <form class="skyFooterForm" method="post" name="searchform1" action="" onsubmit="mAssembleSearchURL(document.searchform1.q.value, 1); return false;">
+	      <input size="30" maxlength="2048" name="q" type="text">
+	      <a href="" onclick="mAssembleSearchURL(document.searchform1.q.value, 1); return false;" style="text-decoration:none;">&nbsp;Search</a>
+	    </form>
+  
+        </td>
+          
+           <td>
+           	<a id="translate_link" title="A Google translation only gives you the 'gist' of the page. Please mouseover any confusing phrases to see the original English text." href="" style="text-decoration:none;"onmouseover="try{buttonMouseover(event, 'translate');} catch(e){}">Translate</a>
+           	<div id="translate" class="menu" onmouseover="menuMouseover(event);">
+           		<a id="translate_french" class="menuItem" href="https://translate.google.com/">French</a>
+           		<a id="translate_italian" class="menuItem" href="https://translate.google.com/">Italian</a>
+           		<a id="translate_german" class="menuItem" href="https://translate.google.com/">German</a>
+           		<a id="translate_russian" class="menuItem" href="https://translate.google.com/">Russian</a>
+           		<a id="translate_spanish" class="menuItem" href="https://translate.google.com/">Spanish</a>
+           	</div>
+           	</td>
+        </tr> 
+      </table>
+    </div>
+    
+	<script language="javascript" type="text/javascript">
+	var french = document.getElementById ("translate_french");
+	var italian = document.getElementById ("translate_italian");
+	var german = document.getElementById ("translate_german");
+	var russian = document.getElementById ("translate_russian");
+	var spanish = document.getElementById ("translate_spanish");
+	if (french) {
+		french.href = "https://translate.google.com/translate?sl=en&tl=fr&js=y&prev=_t&hl=en&ie=UTF-8&u=" + window.location.href + "&edit-text=";
+	};
+	if (italian) {
+		italian.href = "https://translate.google.com/translate?sl=en&tl=it&js=y&prev=_t&hl=en&ie=UTF-8&u=" + window.location.href + "&edit-text=";
+	};
+	if (german) {
+		german.href = "https://translate.google.com/translate?sl=en&tl=de&js=y&prev=_t&hl=en&ie=UTF-8&u=" + window.location.href + "&edit-text=";
+	};
+	if (russian) {
+		russian.href = "https://translate.google.com/translate?sl=en&tl=ru&js=y&prev=_t&hl=en&ie=UTF-8&u=" + window.location.href + "&edit-text=";
+	};
+	if (spanish) {
+		spanish.href = "https://translate.google.com/translate?sl=en&tl=es&js=y&prev=_t&hl=en&ie=UTF-8&u=" + window.location.href + "&edit-text=";
+	};
+	</script>
+
+    <a name="skipnav" tabindex="1" title="Information Philosopher"></a>
+    
+<div id="introduction" class="menu" onmouseover="menuMouseover(event);">
+  <a id="nav_banner_introduction_information" class="menuItem" href="/introduction/information/">The Information</a>
+  <a id="nav_banner_introduction_creation" class="menuItem" href="/introduction/creation/">The Creation</a>
+  <a id="nav_banner_introduction_physics" class="menuItem" href="/introduction/physics/">The Physics</a>
+  <a id="nav_banner_introduction_biology" class="menuItem" href="/introduction/biology/">The Biology</a>
+  <a id="nav_banner_introduction_philosophy" class="menuItem" href="/introduction/philosophy/">The Philosophy</a>
+  <a id="nav_banner_introduction_philosophers" class="menuItem" href="/solutions/philosophers/">The Philosophers</a>
+  <a id="nav_banner_introduction_scientists" class="menuItem" href="/solutions/scientists/">The Scientists</a>
+  <a id="nav_banner_introduction_problems" class="menuItem" href="/problems/">The Problems</a>
+  <a id="nav_banner_introduction_solutions" class="menuItem" href="/solutions/">The Solutions</a>
+  <a id="nav_banner_introduction_experiments" class="menuItem" href="/solutions/experiments/">The Experiments</a> 
+</div>
+    
+    <div id="problems" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_problems_arrow_of_time" class="menuItem" href="/problems/arrow_of_time/">Arrow of Time</a>
+      <a id="nav_banner_problems_consciousness" class="menuItem" href="/problems/consciousness/">Consciousness</a>
+      <a id="nav_banner_problems_dualisms" class="menuItem" href="/solutions/dualisms/">Dualisms</a>
+      <a id="nav_banner_problems_ergodicity" class="menuItem" href="/problems/ergodicity/">Ergodiciy</a>
+      <a id="nav_banner_problems_evil" class="menuItem" href="/problems/evil/">Evil</a>
+      <a id="nav_banner_problems_flatness" class="menuItem" href="/problems/flatness/">Flat Universe?</a>
+      <a id="nav_banner_problems_god" class="menuItem" href="/problems/god/">God</a>
+      <a id="nav_banner_problems_identity" class="menuItem" href="/problems/identity/">Identity</a>
+      <a id="nav_banner_problems_immortality" class="menuItem" href="/problems/immortality/">Immortality</a>
+      <a id="nav_banner_problems_induction" class="menuItem" href="/problems/induction/">Induction</a>
+      <a id="nav_banner_problems_life" class="menuItem" href="/problems/life/">Life</a>
+       <a id="nav_banner_problems_measurement" class="menuItem" href="/problems/measurement/">Measurement</a>
+       <a id="nav_banner_problems_mental_causation" class="menuItem" href="/problems/mental_causation/">Mental Causation</a>
+       <a id="nav_banner_problems_metaphysics" class="menuItem" href="/problems/metaphysics/">Metaphysics</a>
+       <a id="nav_banner_problems_mind_body" class="menuItem" href="/problems/mind_body/">Mind-Body</a>
+       <a id="nav_banner_problems_nonlocality" class="menuItem" href="/problems/nonlocality/">Nonlocality</a>
+       <a id="nav_banner_problems_possibilities" class="menuItem" href="/freedom/possibilities.html">Possibilities</a>
+       <a id="nav_banner_problems_recurrence" class="menuItem" href="/problems/recurrence/">Recurrence</a>
+       <a id="nav_banner_problems_reversibility" class="menuItem" href="/problems/reversibility/">Reversibility</a>
+    </div>
+
+   <div id="freedom" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_freedom_cogito" class="menuItem" href="/freedom/cogito/">The Cogito</a>
+      <a id="nav_banner_freedom_problem" class="menuItem" href="/freedom/problem/">The Problem</a>
+      <a id="nav_banner_freedom_history" class="menuItem" href="/freedom/history/">The History</a>
+      <a id="nav_banner_freedom_history" class="menuItem" href="/freedom/free_will_in_antiquity.html">Free Will in Antiquity</a>
+      <a id="nav_banner_freedom_mechanisms" class="menuItem" href="/freedom/mechanisms.html">Free Will Mechanisms</a>
+      <a id="nav_banner_freedom_physics" class="menuItem" href="/freedom/physics/">The Physics</a>
+      <a id="nav_banner_freedom_biology" class="menuItem" href="/freedom/biology/">The Biology</a>
+      <a id="nav_banner_freedom_neuroscience" class="menuItem" href="/freedom/neuroscience/">The Neuroscience</a>
+      <a id="nav_banner_freedom_possibilities" class="menuItem" href="/freedom/alternative_possibilities.html">Alternative Possibilities</a>
+      <a id="nav_banner_freedom_adequate" class="menuItem" href="/freedom/adequate_determinism.html">Adequate Determinism</a>
+      <a id="nav_banner_freedom_responsibility" class="menuItem" href="/freedom/moral_responsibility.html">Moral Responsibility</a>
+      <a id="nav_banner_freedom_self" class="menuItem" href="/freedom/self-determination.html">Self-Determination</a>
+      <a id="nav_banner_freedom_separability" class="menuItem" href="/freedom/separability.html">Separability of Free and Will</a>
+      <a id="nav_banner_freedom_argument" class="menuItem" href="/freedom/standard_argument.html">Standard Argument</a>
+      <a id="nav_banner_freedom_argument" class="menuItem" href="/freedom/superdeterminism.html">Superdeterminism</a>
+      <a id="nav_banner_freedom_two-stage" class="menuItem" href="/freedom/two-stage_models.html">Two-Stage Models</a>
+    </div>
+    
+    <div id="value" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_value_ergo" class="menuItem" href="/value/ergo/">The Ergo</a>
+      <a id="nav_banner_value_free_energy" class="menuItem" href="/value/free_energy/">Free Energy</a>
+      <a id="nav_banner_value_problem" class="menuItem" href="/value/problem/">The Problem</a>
+      <a id="nav_banner_value_history" class="menuItem" href="/value/history/">The History</a>
+      <a id="nav_banner_value_good" class="menuItem" href="/value/good/">The Good</a>
+      <a id="nav_banner_value_origin" class="menuItem" href="/value/origin/">Origin of the Good</a>
+      <a id="nav_banner_value_evil" class="menuItem" href="/value/evil/">Evil (Theodicy)</a>
+      <a id="nav_banner_value_ergod" class="menuItem" href="/value/ergod/">The Ergod</a>
+    </div>
+    
+    <div id="knowledge" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_knowledge_sum" class="menuItem" href="/knowledge/sum/">The Sum</a>
+      <a id="nav_banner_knowledge_problem" class="menuItem" href="/knowledge/problem/">The Problem</a>
+      <a id="nav_banner_knowledge_history" class="menuItem" href="/knowledge/history/">The History</a>
+      <a id="nav_banner_knowledge_belief" class="menuItem" href="/knowledge/belief/">Belief</a>
+      <a id="nav_banner_knowledge_complexity" class="menuItem" href="/knowledge/complexity/">Complexity</a>
+      <a id="nav_banner_knowledge_complexity_history" class="menuItem" href="/knowledge/complexity/history">Complex Systems History</a>
+      <a id="nav_banner_knowledge_demarcation" class="menuItem" href="/knowledge/demarcation/">Demarcation Problem</a>
+      <a id="nav_banner_knowledge_emergence" class="menuItem" href="/knowledge/emergence.html">Emergence</a>
+      <a id="nav_banner_knowledge_epistemology" class="menuItem" href="/problems/epistemology/">Epistemology</a>
+      <a id="nav_banner_knowledge_induction" class="menuItem" href="/problems/induction/">Induction</a>
+      <a id="nav_banner_knowledge_regress" class="menuItem" href="/knowledge/infinite_regress.html">Infinite Regress</a>
+      <a id="nav_banner_knowledge_meaning" class="menuItem" href="/knowledge/meaning/">Meaning</a>
+      <a id="nav_banner_knowledge_metaphysics" class="menuItem" href="/problems/metaphysics/">Metaphysics</a>
+      <a id="nav_banner_knowledge_ontology" class="menuItem" href="/problems/ontology/">Ontology</a>
+      <a id="nav_banner_knowledge_one-many" class="menuItem" href="/problems/one_or_many/">One or Many</a>
+      <a id="nav_banner_knowledge_providence" class="menuItem" href="/knowledge/providence/">Providence</a>
+      <a id="nav_banner_knowledge_universals" class="menuItem" href="/knowledge/universals.html">Universals</a>
+      <a id="nav_banner_knowledge_truth" class="menuItem" href="/knowledge/truth/">Truth</a>
+      
+    </div>
+    
+    
+     <div id="mind" class="menu" onmouseover="menuMouseover(event);">
+      <!--<a id="nav_banner_mind_problems" class="menuItem" href="/mind/problems/">The Problems</a>-->
+      <a id="nav_banner_mind_history" class="menuItem" href="/mind/history/">The History</a>
+      <!--<a id="nav_banner_mind_ego" class="menuItem" href="/mind/ego/">The Self <i>or</i> Ego</a>
+      <a id="nav_banner_mind_physics" class="menuItem" href="/mind/physics/">The Physics</a>
+      <a id="nav_banner_mind_neuroscience" class="menuItem" href="/mind/neuroscience/">The Neuroscience</a>-->
+      <a id="nav_banner_mind_mind-body" class="menuItem" href="/mind/mind_body/">Mind-Body Problem</a>
+      <a id="nav_banner_mind_consciousness" class="menuItem" href="/mind/binding/">Binding Problem</a>
+      <a id="nav_banner_mind_consciousness" class="menuItem" href="/mind/consciousness/">Consciousness Problem</a>
+      <a id="nav_banner_mind_tocs" class="menuItem" href="/mind/tocs/">Theories of Consciousness</a>
+      <a id="nav_banner_mind_nccs" class="menuItem" href="/mind/NCC/">Neural Correlates of Consciousness</a>
+      <a id="nav_banner_mind_consciousness" class="menuItem" href="/mind/cogscience/">Computational Models</a>
+      <a id="nav_banner_mind_lmm" class="menuItem" href="/mind/llm/">Is Mind a Large Language Model (AI)?</a>
+      <a id="nav_banner_mind_err" class="menuItem" href="/mind/ERR/">The Experience Recorder and Reproducer (ERR)</a>
+      <a id="nav_banner_mind_mirror" class="menuItem" href="/mind/mirror_neurons/">Mirror Neurons</a>
+      <a id="nav_banner_mind_causation" class="menuItem" href="/knowledge/mental_causation.html">Mental Causation</a>
+      <a id="nav_banner_mind_panpsychism" class="menuItem" href="/mind/panpsychism">Panpsychism</a>
+      <a id="nav_banner_mind_purpose" class="menuItem" href="/mind/purpose/">Purpose</a>
+      <a id="nav_banner_mind_agency" class="menuItem" href="/mind/agency/">Agency</a>
+      <a id="nav_banner_mind_reductionism" class="menuItem" href="/knowledge/reductionism.html">Reductionism</a>
+      <a id="nav_banner_mind_representation" class="menuItem" href="/knowledge/representation/">Representation</a>
+   </div>
+    
+    <div id="solutions" class="menu" onmouseover="menuMouseover(event);">
+     <a id="nav_banner_solutions_demons" class="menuItem" href="/solutions/demons/">Demons</a>
+     <a id="nav_banner_solutions_determinisms" class="menuItem" href="/solutions/determinisms/">Determinisms</a>
+     <a id="nav_banner_solutions_dogmas" class="menuItem" href="/solutions/dogmas/">Dogmas</a>
+     <a id="nav_banner_solutions_dualisms" class="menuItem" href="/solutions/dualisms/">Dualisms</a>
+     <a id="nav_banner_solutions_experiments" class="menuItem" href="/solutions/experiments/">Experiments</a>
+     <a id="nav_banner_solutions_language" class="menuItem" href="/solutions/language/">Language</a>
+     <!--  <a id="nav_banner_solutions_philosophers" class="menuItem" href="/solutions/philosophers/">Philosophers</a> -->
+     <a id="nav_banner_solutions_progress" class="menuItem" href="/solutions/progress/">Progress</a>
+     <a id="nav_banner_solutions_reason" class="menuItem" href="/solutions/reason/">Reason</a>
+     <!-- <a id="nav_banner_solutions_scientists" class="menuItem" href="/solutions/scientists/">Scientists</a>  -->
+     <a id="nav_banner_solutions_theories" class="menuItem" href="/solutions/theories/">Theories</a>
+     <a id="nav_banner_solutions_triads" class="menuItem" href="/solutions/triads/">Triads</a>
+    </div>
+    
+     <div id="chance" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_chance_history" class="menuItem" href="/chance/history/">The History</a>
+      <a id="nav_banner_mind_problems" class="menuItem" href="/introduction/physics/statistical_mechanics.html">Entropy and Probability</a>
+      <a id="nav_banner_chance_tyche" class="menuItem" href="/chance/tyche/">Peirce's Tyche</a>
+      <a id="nav_banner_chance_einstein" class="menuItem" href="/solutions/scientists/einstein/">Through Einstein's Eyes</a>
+    </div>
+    
+     <div id="quantum" class="menu" onmouseover="menuMouseover(event);">
+     <a id="nav_banner_quantum_blaxk_holes" class="menuItem" href="/quantum/black_holes/">Black Holes</a>
+     <a id="nav_banner_quantum_collapse" class="menuItem" href="/quantum/collapse/">Collapse of the <br/>Wave Function</a>
+     <a id="nav_banner_quantum_observer" class="menuItem" href="/quantum/observer/">Conscious Observer</a>
+     <a id="nav_banner_quantum_xopenhagen" class="menuItem" href="/quantum/copenhagen/">Copenhagen Interpretation</a>
+     <a id="nav_banner_quantum_decoherence" class="menuItem" href="/quantum/decoherence/">Decoherence</a>
+     <a id="nav_banner_quantum_determinism" class="menuItem" href="/quantum/determinism/">Determinism</a>
+     <a id="nav_banner_quantum_indeterminism" class="menuItem" href="/quantum/indeterminism/">Indeterminism</a>
+     <a id="nav_banner_quantum_principles" class="menuItem" href="/quantum/principles/">Dirac's Principles</a>
+     <a id="nav_banner_quantum_polarizers" class="menuItem" href="/solutions/experiments/dirac_3-polarizers/">Dirac's 3 Polarizers</a>
+     <a id="nav_banner_quantum_foundation" class="menuItem" href="/quantum/foundation/">Foundations</a>
+     <a id="nav_banner_quantum_interpretation" class="menuItem" href="/quantum/interpretations/">Interpretations</a>
+     <a id="nav_banner_quantum_irreversibility" class="menuItem" href="/problems/reversibility/">Irreversibility</a>
+     <a id="nav_banner_quantum_measurement" class="menuItem" href="/problems/measurement/">Measurement Problem</a>
+     <a id="nav_banner_quantum_physics" class="menuItem" href="/quantum/physics/">Quantum, Thermo, Info</a>
+     <a id="nav_banner_quantum_classical" class="menuItem" href="/introduction/physics/quantum_to_classical.html">Quantum to Classical</a>
+     <a id="nav_banner_quantum_recurrence" class="menuItem" href="/problems/recurrence/">Recurrence Problem</a>
+     <a id="nav_banner_quantum_schrodingerscat" class="menuItem" href="/solutions/experiments/schrodingerscat/">Schrödinger's Cat</a>
+     <a id="nav_banner_quantum_schrodingerequation" class="menuItem" href="/quantum/equation/">Schrödinger Equation</a>
+     <a id="nav_banner_quantum_statistical" class="menuItem" href="/quantum/spacetime/">SpaceTime</a>
+     <a id="nav_banner_quantum_spacetime" class="menuItem" href="/quantum/statistical/">Statistical Interpretation</a>
+     <a id="nav_banner_quantum_superposition" class="menuItem" href="/quantum/superposition/">Superposition</a>
+     <a id="nav_banner_quantum_mystery" class="menuItem" href="/quantum/mystery/">The Only Mystery</a>
+     <a id="nav_banner_quantum_EPR" class="menuItem" href="/quantum/two-slit/">Two-Slit Experiment</a>
+     <a id="nav_banner_quantum_EPR" class="menuItem" href="/quantum/uncertainty/">Uncertainty Principle</a>
+     <a id="nav_banner_quantum_wave" class="menuItem" href="/introduction/physics/wave-particle_duality.html">Wave-Particle Duality</a>
+    </div>
+    
+    <div id="scandals" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_scandals_chance" class="menuItem" href="/scandals/chance/">Chance</a> <!--Science-->
+      <a id="nav_banner_scandals_consciousness" class="menuItem" href="/scandals/consciousness/">Consciousness</a> <!--Neuroscience-->
+      <a id="nav_banner_scandals_flat" class="menuItem" href="/scandals/creation/">Creation</a>  <!--Cosmology-->
+      <a id="nav_banner_scandals_einstein" class="menuItem" href="/scandals/einstein/">Einstein</a>  <!--Quantum Mechanics-->
+      <a id="nav_banner_scandals_freedom" class="menuItem" href="/scandals/free_will/">Free Will</a>  <!--Philosophys-->
+      <a id="nav_banner_scandals_god" class="menuItem" href="/scandals/god/">God</a>  <!--Religion-->
+      <a id="nav_banner_scandals_knowledge" class="menuItem" href="/scandals/knowledge/">Knowledge</a>  <!--Epistemology-->
+      <a id="nav_banner_scandals_life" class="menuItem" href="/scandals/life/">Life</a> <!--Biology-->
+      <a id="nav_banner_scandals_meaning" class="menuItem" href="/scandals/meaning/">Meaning</a> <!--Language-->
+      <a id="nav_banner_scandals_metaphysics" class="menuItem" href="/scandals/metaphysics/">Metaphysics</a> <!--Ontology-->
+      <a id="nav_banner_scandals_mind" class="menuItem" href="/scandals/mind/">Mind</a> <!--Language-->
+      <a id="nav_banner_scandals_power" class="menuItem" href="/scandals/power/">Power</a> <!--Politics-->
+      <a id="nav_banner_scandals_values" class="menuItem" href="/scandals/value/">Values</a>  <!--Ethics-->
+      <a id="nav_banner_scandals_wealth" class="menuItem" href="/scandals/wealth/">Wealth</a>  <!--Economics-->
+   </div>
+
+    <div id="afterwords" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_afterwords_conclusions" class="menuItem" href="/afterwords/conclusions/">Conclusions</a>
+      <a id="nav_banner_afterwords_bibliography" class="menuItem" href="/afterwords/bibliography/">Bibliography</a>
+      <a id="nav_banner_afterwords_glossary" class="menuItem" href="/afterwords/glossary/">Glossary</a>
+      <a id="nav_banner_afterwords_author_index" class="menuItem" href="/afterwords/author_index/">Name Index</a>
+      <a id="nav_banner_afterwords_subject_index" class="menuItem" href="/afterwords/subject_index/">Subject Index</a>
+      <a id="nav_banner_afterwords_colophon" class="menuItem" href="/afterwords/colophon/">Colophon</a>
+    </div>
+    
+    <div id="life" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_life_agency" class="menuItem" href="/life/agency/">Agency</a>
+      <a id="nav_banner_life_autopoesis" class="menuItem" href="/life/autopoesis/">Autopoesis</a>
+      <!--<a id="nav_banner_life_cell_cycle" class="menuItem" href="/life/cell_cycle/">The Cell Cycle</a>-->
+      <a id="nav_banner_life_beyond" class="menuItem" href="/life/beyond/">Beyond Darwinism?</a>
+      <a id="nav_banner_life_biosemiotics" class="menuItem" href="/life/biosemiotics/">Biosemiotics</a>
+      <a id="nav_banner_life_biosphere" class="menuItem" href="/life/biosphere/">Biosphere</a>
+      <a id="nav_banner_life_complexity" class="menuItem" href="/life/complexity/">Complexity</a>
+      <a id="nav_banner_life_emergence" class="menuItem" href="/life/emergence/">Emergence</a>
+      <a id="nav_banner_life_entelechy" class="menuItem" href="/life/entelechy/">Entelechy</a>
+      <a id="nav_banner_life_entropy" class="menuItem" href="/life/entropy/">Entropy</a>
+      <a id="nav_banner_life_epigenetics" class="menuItem" href="/life/epigenetics/">Epigenetics</a>
+      <a id="nav_banner_life_gaia" class="menuItem" href="/life/gaia/">Gaia</a>
+      <a id="nav_banner_life_infobiology" class="menuItem" href="/life/infobiology/">Information in Biology</a>
+      <a id="nav_banner_life_design" class="menuItem" href="/life/design/">Intelligent Design</a>
+      <a id="nav_banner_life_meaning" class="menuItem" href="/life/meaning/">Meaning</a>
+      <a id="nav_banner_life_origins" class="menuItem" href="/life/origins/">Origins</a>
+      <a id="nav_banner_life_goal" class="menuItem" href="/life/goal/">Purpose</a>
+      <a id="nav_banner_life_reductionism" class="menuItem" href="/life/reductionism/">Reductionism</a>
+      <a id="nav_banner_life_reverence" class="menuItem" href="/life/reverence/">Reverence for Life</a>
+      <!--<a id="nav_banner_life_synergy" class="menuItem" href="/life/synergy"/">Synergy</a>-->
+      <a id="nav_banner_life_teleology" class="menuItem" href="/life/teleology/">Teleology</a>
+      <a id="nav_banner_life_teleonomy" class="menuItem" href="/life/teleonomy/">Teleonomy</a>
+      <a id="nav_banner_life_universal_darwinism" class="menuItem" href="/life/universal_darwinism/">Universal Darwinism</a>
+      <a id="nav_banner_life_vitalism" class="menuItem" href="/life/vitalism/">Vitalism</a>
+      
+      
+    </div>
+    
+    <div id="entanglement" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_bell" class="menuItem" href="/quantum/bell_theorem/">Bell's Theorem</a>
+      <a id="nav_banner_entanglement_polytope" class="menuItem" href="/entanglement/polytope/">Bell's Kinky Polytope</a>
+      <a id="nav_banner_common_cause" class="menuItem" href="/entanglement/common_cause/">Common Cause?</a>
+      <a id="nav_banner_disentanglement*" class="menuItem" href="/quantum/disentanglement/">Disentanglement</a>
+      <a id="nav_banner_EPR" class="menuItem" href="/solutions/experiments/EPR/">EPR Paradox</a>
+      <a id="nav_banner_fresnel" class="menuItem" href="/quantum/fresnel-arago/">Fresnel-Arago Effect</a>
+      <a id="nav_banner_hidden_constant" class="menuItem" href="/quantum/hidden_constant/">Hidden Constant of Motion?</a>
+      <a id="nav_banner_hidden_variables" class="menuItem" href="/entanglement/hidden_variables/">Hidden Variables?</a>
+      <a id="nav_banner_mach-zender" class="menuItem" href="/quantum/mach_zender/">Mach-Zender</a>
+      <a id="nav_banner_quantum_keys" class="menuItem" href="/quantum/keys/">Quantum Keys</a>
+      <a id="nav_banner_nonlocality" class="menuItem" href="/problems/nonlocality/">Nonlocality</a>
+      <a id="nav_banner_nonseparability" class="menuItem" href="/problems/nonseparability/">Nonseparability</a>
+      <a id="nav_banner_quantum_computer" class="menuItem" href="/quantum/keys/">Quantum Computers</a>
+      <a id="nav_banner_quantum_eraser" class="menuItem" href="/quantum/keys/">Quantum Eraser</a>
+      <a id="nav_banner_quantum_keys" class="menuItem" href="/quantum/keys/">Quantum Keys</a>
+      <a id="nav_banner_quantum_weirdness" class="menuItem" href="/quantum/weirdness/">Quantum Weirdness</a>
+      <a id="nav_banner_qubits" class="menuItem" href="/quantum/qubits/">Qubits</a>
+      <a id="nav_banner_spherical" class="menuItem" href="/entanglement/spherical/">Spherical Symmetry</a>
+      <a id="nav_banner_spooky_action" class="menuItem" href="/entanglement/spooky/">Spooky Action at a Distance</a>
+      <a id="nav_banner_delayed" class="menuItem" href="/quantum/delayed_choice/">Wheeler's Delayed Choice</a>
+      
+    </div>
+
+    
+    
+    
+    <!-- start column1 -->
+    <table width="765" border="0" cellspacing="0" cellpadding="0">
+      <tbody>
+	<tr>
+	  <td valign="top">
+	    <div id="column1">
+	     <div class="linksLeftCol">
+              Core&nbsp;Concepts
+<br><br>
+<a href="/knowledge/abduction.html">Abduction</a><br> 
+<!--<a href="/knowledge/analytic_synthetic.html">Analytic/Synthetic</a><br> 
+<a href="/knowledge/a_priori.html">A Priori/A Posteriori</a><br> -->
+<a href="/knowledge/belief.html">Belief</a><br> 
+<a href="/knowledge/best_explanation.html">Best Explanation</a><br> 
+<a href="/knowledge/causality.html">Cause</a><br> 
+<a href="/knowledge/certainty.html">Certainty</a><br> 
+<a href="/knowledge/chance.html">Chance</a><br> 
+<!-- <a href="/knowledge/circularity.html">Circularity</a><br> 
+<a href="/knowledge/coherentism.html">Coherentism</a><br> 
+<a href="/knowledge/complexity.html/">Complexity</a><br> 
+<a href="/knowledge/consistency.html/">Consistency</a><br> 
+<a href="/knowledge/contextualism.html">Contextualism</a><br> 
+<a href="/knowledge/contingency.html">Contingency</a><br> -->
+<a href="/knowledge/coherence.html">Coherence</a><br> 
+<a href="/knowledge/correspondence.html">Correspondence</a><br> 
+<a href="/knowledge/decoherence.html">Decoherence</a><br> 
+<!--<a href="/knowledge/deduction.html">Deduction</a><br> 
+<a href="/knowledge/defeat.html">Defeat</a><br> -->
+<a href="/knowledge/divided_line.html">Divided Line</a><br>
+<a href="/knowledge/downward_causation.html">Downward Causation</a><br>
+<a href="/knowledge/emergence.html">Emergence</a><br>
+<a href="/knowledge/emergent_dualism.html">Emergent Dualism</a><br>
+<a href="/knowledge/ERR/">ERR</a><br> 
+<!--<a href="/knowledge/externalism.html">Externalism</a><br> 
+<a href="/knowledge/foundationalism.html">Foundationalism</a><br> 
+<a href="/knowledge/gettier_problem.html">Gettier Problem</a><br> --> 
+<a href="/knowledge/identity_theory.html">Identity Theory</a><br>
+<!-- <a href="/knowledge/induction.html">Induction</a><br> -->
+<a href="/knowledge/infinite_regress.html">Infinite Regress</a><br> 
+<a href="/knowledge/information.html">Information</a><br> 
+<a href="/knowledge/intension_extension.html">Intension/Extension</a><br> 
+<!-- <a href="/knowledge/internalism.html">Internalism</a><br> -->
+<a href="/knowledge/inter-subjectivism.html">Intersubjectivism</a><br>
+<a href="/knowledge/justification.html/">Justification</a><br> 
+<a href="/knowledge/materialism.html">Materialism</a><br>
+<a href="/knowledge/meaning/">Meaning</a><br>
+<!--<a href="/knowledge/measurement.html">Measurement</a><br> -->
+<a href="/knowledge/mental_causation.html">Mental Causation</a><br>
+<a href="/knowledge/multiple_realizability.html">Multiple Realizability</a><br>
+<!-- <a href="/knowledge/modernism.html">Modernism</a><br> -->
+<a href="/knowledge/naturalism.html">Naturalism</a><br>
+<a href="/knowledge/necessity.html">Necessity</a><br>
+<!-- <a href="/knowledge/noise.html">Noise</a><br>
+<a href="/knowledge/objectivism.html">Objectivism</a><br>--> 
+<a href="/knowledge/possibile_worlds.html">Possible Worlds</a><br> 
+<a href="/articles/postmodernism.html">Postmodernism</a><br> 
+<a href="/knowledge/probability.html">Probability</a><br> 
+<a href="/knowledge/realism.html">Realism</a><br>
+<a href="/knowledge/reductionism.html">Reductionism</a><br>
+<!-- <a href="/knowledge/relativism.html">Relativism</a><br> 
+<a href="/knowledge/reliabilism.html">Reliabilism</a><br> --> 
+<a href="/knowledge/schrodinger_cat.html">Schrödinger's Cat</a><br>
+<!-- <a href="/knowledge/skepticism.html">Skepticism</a><br> 
+<a href="/knowledge/subjectivism.html">Subjectivism</a><br> -->
+<a href="/knowledge/supervenience.html">Supervenience</a><br>
+<!-- <a href="/knowledge/tradition.html">Tradition</a><br> --> 
+<a href="/knowledge/truth.html">Truth</a><br> 
+<a href="/knowledge/universals.html">Universals</a><br> 
+<!-- <a href="/knowledge/verification.html">Verification</a> -->
+<p/>               Topics
+<p/>
+    <a href="/introduction/">Introduction</a><br> 
+    <a href="/problems/">Problems</a><br> 
+    <a href="/freedom/">Freedom</a><br> 
+    <a href="/knowledge/">Knowledge</a><br> 
+    <a href="/mind/">Mind</a><br> 
+    <a href="/life/">Life</a><br> 
+    <a href="/chance/">Chance</a><br> 
+    <a href="/quantum/">Quantum</a><br> 
+    <a href="/entanglement/">Entanglement</a><br> 
+    <a href="/scandals/">Scandals</a><br> 
+    <p/>
+Philosophers
+    <br><br>
+    <a href="/solutions/philosophers/adler/">Mortimer Adler</a><br> 
+    <a href="/solutions/philosophers/albritton/">Rogers Albritton</a><br> 
+    <a href="/solutions/philosophers/alexander/">Alexander of Aphrodisias</a><br> 
+    <a href="/solutions/philosophers/alexanders/">Samuel Alexander</a><br> 
+    <a href="/solutions/philosophers/alston/">William Alston</a><br> 
+    <a href="/solutions/philosophers/anaximander/">Anaximander</a><br> 
+    <a href="/solutions/philosophers/anscombe/">G.E.M.Anscombe</a><br> 
+    <a href="/solutions/philosophers/anselm/">Anselm</a><br> 
+    <a href="/solutions/philosophers/antony/">Louise Antony</a><br> 
+    <a href="/solutions/philosophers/aquinas/">Thomas Aquinas</a><br> 
+    <a href="/solutions/philosophers/aristotle/">Aristotle</a><br> 
+    <!-- <a href="/solutions/philosophers/arminius/">Arminius</a><br> -->
+    <a href="/knowledge/philosophers/armstrong/">David Armstrong</a><br> 
+    <a href="/solutions/philosophers/atmanspacher/">Harald Atmanspacher</a><br> 
+    <a href="/knowledge/philosophers/audi/">Robert Audi</a><br> 
+    <a href="/solutions/philosophers/augustine/">Augustine</a><br> 
+    <a href="/solutions/philosophers/austin/">J.L.Austin</a><br>
+    <a href="/solutions/philosophers/ayer/">A.J.Ayer</a><br>
+    <a href="/solutions/philosophers/bain/">Alexander Bain</a><br> 
+    <a href="/solutions/philosophers/balaguer/">Mark Balaguer</a><br> 
+    <a href="/solutions/philosophers/barrett/">Jeffrey Barrett</a><br> 
+    <a href="/solutions/philosophers/barrettw/">William Barrett</a><br> 
+    <a href="/solutions/philosophers/belsham/">William Belsham</a><br> 
+    <a href="/solutions/philosophers/bergson/">Henri Bergson</a><br> 
+    <a href="/solutions/philosophers/berkeley/">George Berkeley</a><br> 
+    <a href="/solutions/philosophers/berlin/">Isaiah Berlin</a><br>
+    <a href="/solutions/philosophers/bernstein/">Richard J. Bernstein</a><br>
+    <a href="/solutions/philosophers/berofsky/">Bernard Berofsky</a><br>
+    <a href="/knowledge/philosophers/bishop/">Robert Bishop</a><br> 
+    <a href="/solutions/philosophers/black/">Max Black</a><br> 
+    <a href="/solutions/philosophers/blackmore/">Susan Blackmore</a><br> 
+    <a href="/solutions/philosophers/bobzien/">Susanne Bobzien</a><br> 
+    <a href="/solutions/philosophers/bois-reymond/">Emil du Bois-Reymond</a><br> 
+    <a href="/solutions/philosophers/bok/">Hilary Bok</a><br> 
+    <a href="/knowledge/philosophers/bonjour/">Laurence BonJour</a><br> 
+    <a href="/solutions/philosophers/boole/">George Boole</a><br> 
+    <a href="/solutions/philosophers/boutroux/">Émile Boutroux</a><br> 
+    <a href="/solutions/philosophers/boyd/">Daniel Boyd</a><br> 
+    <a href="/solutions/philosophers/bradley/">F.H.Bradley</a><br> 
+    <!-- <a href="/solutions/philosophers/bradley/">Franz Brentano</a><br> -->
+    <a href="/solutions/philosophers/broad/">C.D.Broad</a><br>
+    <a href="/solutions/philosophers/burke/">Michael Burke</a><br>
+    <a href="/solutions/philosophers/butterfield/">Jeremy Butterfield</a><br>
+    <a href="/solutions/philosophers/cahoone/">Lawrence Cahoone</a><br>
+    <a href="/solutions/philosophers/campbell/">C.A.Campbell</a><br>
+    <a href="/solutions/philosophers/campbellj/">Joseph Keim Campbell</a><br>
+    <a href="/solutions/philosophers/carnap/">Rudolf Carnap</a><br>
+    <a href="/solutions/philosophers/carneades/">Carneades</a><br>
+    <a href="/solutions/philosophers/cartwright/">Nancy Cartwright</a><br>
+    <a href="/solutions/philosophers/caruso/">Gregg Caruso</a><br>
+    <a href="/solutions/philosophers/cassirer/">Ernst Cassirer</a><br>
+    <a href="/solutions/philosophers/chalmers/">David Chalmers</a><br>
+    <a href="/solutions/philosophers/chisholm/">Roderick Chisholm</a><br>
+    <a href="/solutions/philosophers/chrysippus/">Chrysippus</a><br>
+    <a href="/solutions/philosophers/carneades/">Cicero</a><br> 
+    <a href="/solutions/philosophers/clark/">Tom Clark</a><br>
+    <a href="/solutions/philosophers/clarke/">Randolph Clarke</a><br>
+    <a href="/solutions/philosophers/clarkes/">Samuel Clarke</a><br>
+    <a href="/solutions/philosophers/collins/">Anthony Collins</a><br>
+    <a href="/solutions/philosophers/compte/">August Compte</a><br>
+    <a href="/solutions/philosophers/corradini/">Antonella Corradini</a><br> 
+    <a href="/solutions/philosophers/diodorus/">Diodorus Cronus</a><br>
+    <a href="/solutions/philosophers/dancy/">Jonathan Dancy</a><br>
+    <a href="/solutions/philosophers/davidson/">Donald Davidson</a><br>
+    <a href="/solutions/philosophers/decaro/">Mario De Caro</a><br> 
+    <a href="/solutions/philosophers/democritus/">Democritus</a><br> 
+    <a href="/solutions/philosophers/dembski">William Dembski</a><br>
+    <a href="/solutions/philosophers/dempsey/">Brendan Dempsey</a><br>
+    <a href="/solutions/philosophers/dennett/">Daniel Dennett</a><br>
+    <a href="/solutions/philosophers/derrida/">Jacques Derrida</a><br> 
+    <a href="/solutions/philosophers/descartes/">René Descartes</a><br> 
+    <a href="/solutions/philosophers/double/">Richard Double</a><br> 
+    <a href="/solutions/philosophers/dretske/">Fred Dretske</a><br> 
+    <a href="/solutions/philosophers/ducasse/">Curt Ducasse</a><br> 
+    <!--<a href="/solutions/philosophers/dupre/">John Dupré</a><br>-->
+    <a href="/solutions/philosophers/earman/">John Earman</a><br> 
+    <a href="/solutions/philosophers/ekstrom/">Laura Waddell Ekstrom</a><br> 
+    <a href="/solutions/philosophers/epictetus/">Epictetus</a><br> 
+    <a href="/solutions/philosophers/epicurus/">Epicurus</a><br> 
+    <a href="/solutions/philosophers/farrer/">Austin Farrer</a><br>
+    <a href="/solutions/philosophers/feigl/">Herbert Feigl</a><br>
+    <a href="/solutions/philosophers/fine/">Arthur Fine</a><br>
+    <a href="/solutions/philosophers/fischer/">John Martin Fischer</a><br>
+    <a href="/solutions/philosophers/fitch/">Frederic Fitch</a><br>
+    <a href="/solutions/philosophers/flanagan/">Owen Flanagan</a><br>
+    <a href="/solutions/philosophers/floridi/">Luciano Floridi</a><br>
+    <a href="/solutions/philosophers/foot/">Philippa Foot</a><br>
+    <a href="/solutions/philosophers/fouillee/">Alfred Fouille&eacute;</a><br>
+    <a href="/solutions/philosophers/frankfurt/">Harry Frankfurt</a><br>
+    <a href="/solutions/philosophers/franklin/">Richard L. Franklin</a><br>
+    <a href="/solutions/philosophers/frassen/">Bas van Fraassen</a><br>
+    <a href="/solutions/philosophers/frede/">Michael Frede</a><br>
+    <a href="/solutions/philosophers/frege/">Gottlob Frege</a><br>
+    <a href="/solutions/philosophers/geach/">Peter Geach</a><br>
+    <a href="/solutions/philosophers/gettier/">Edmund Gettier</a><br>
+    <a href="/solutions/philosophers/ginet/">Carl Ginet</a><br>
+    <a href="/knowledge/philosophers/goldman/">Alvin Goldman</a><br> 
+    <a href="/solutions/philosophers/gorgias/">Gorgias</a><br>
+    <a href="/solutions/philosophers/green/">Nicholas St. John Green</a><br>
+    <a href="/solutions/philosophers/gregersen/">Niels Henrik Gregersen</a><br>
+    <a href="/solutions/philosophers/grice/">H.Paul Grice</a><br>
+    <a href="/solutions/philosophers/hacking/">Ian Hacking</a><br> 
+    <a href="/solutions/philosophers/haji/">Ishtiyaque Haji</a><br> 
+    <a href="/solutions/philosophers/hampshire/">Stuart Hampshire</a><br> 
+    <a href="/solutions/philosophers/hardie/">W.F.R.Hardie</a><br> 
+    <a href="/solutions/philosophers/harris/">Sam Harris</a><br> 
+    <a href="/solutions/philosophers/hasker/">William Hasker</a><br> 
+    <a href="/solutions/philosophers/hare/">R.M.Hare</a><br> 
+    <a href="/solutions/philosophers/hegel/">Georg W.F. Hegel</a><br> 
+    <a href="/solutions/philosophers/heidegger/">Martin Heidegger</a><br>
+    <a href="/solutions/philosophers/heraclitus/">Heraclitus</a><br>
+    <a href="/solutions/philosophers/hobart/">R.E.Hobart</a><br> 
+    <a href="/solutions/philosophers/hobbes/">Thomas Hobbes</a><br> 
+    <a href="/solutions/philosophers/hodgson/">David Hodgson</a><br>
+    <a href="/solutions/philosophers/hodgsons/">Shadsworth Hodgson</a><br> 
+    <a href="/solutions/philosophers/dholbach/">Baron d'Holbach</a><br>
+    <a href="/solutions/philosophers/honderich/">Ted Honderich</a><br>
+    <!-- <a href="/solutions/philosophers/hook/">Sidney Hook</a><br> -->
+    <a href="/solutions/philosophers/huby/">Pamela Huby</a><br> 
+    <a href="/solutions/philosophers/hume/">David Hume</a><br> 
+    <a href="/solutions/philosophers/huoranszki/">Ferenc Huoranszki</a><br> 
+    <!-- <a href="/solutions/philosophers/husserl/">Edmund Husserl</a><br> -->
+    <a href="/solutions/philosophers/jackson/">Frank Jackson</a><br> 
+    <a href="/solutions/philosophers/james/">William James</a><br> 
+    <a href="/solutions/philosophers/kames/">Lord Kames</a><br>
+    <a href="/solutions/philosophers/kane/">Robert Kane</a><br>
+    <a href="/solutions/philosophers/kant/">Immanuel Kant</a><br> 
+    <a href="/solutions/philosophers/kapitan/">Tomis Kapitan</a><br> 
+    <a href="/solutions/philosophers/kaufmann/">Walter Kaufmann</a><br> 
+    <a href="/solutions/philosophers/kim/">Jaegwon Kim</a><br> 
+    <a href="/solutions/philosophers/king/">William King</a><br> 
+    <a href="/knowledge/philosophers/kornblith/">Hilary Kornblith</a><br> 
+    <a href="/solutions/philosophers/korsgaard/">Christine Korsgaard</a><br> 
+    <a href="/solutions/philosophers/kripke/">Saul Kripke</a><br> 
+    <a href="/solutions/philosophers/kuhn/">Thomas Kuhn</a><br> 
+    <a href="/solutions/philosophers/lavazza/">Andrea Lavazza</a><br> 
+    <a href="/solutions/philosophers/ladyman/">James Ladyman</a><br> 
+    <a href="/solutions/philosophers/lehner/">Christoph Lehner</a><br>
+    <a href="/solutions/philosophers/lehrer/">Keith Lehrer</a><br> 
+    <a href="/solutions/philosophers/leibniz/">Gottfried Leibniz</a><br> 
+    <a href="/solutions/philosophers/lequyer/">Jules Lequyer</a><br> 
+    <a href="/solutions/philosophers/leucippus/">Leucippus</a><br> 
+    <a href="/solutions/philosophers/levin/">Michael Levin</a><br>
+    <a href="/solutions/philosophers/levine/">Joseph Levine</a><br>
+    <a href="/solutions/philosophers/lewes/">George Henry Lewes</a><br> 
+    <a href="/knowledge/philosophers/lewis/">C.I.Lewis</a><br> 
+    <a href="/solutions/philosophers/lewis/">David Lewis</a><br> 
+    <a href="/solutions/philosophers/lipton/">Peter Lipton</a><br> 
+    <a href="/solutions/philosophers/morgan/">C. Lloyd Morgan</a><br> 
+    <a href="/solutions/philosophers/locke/">John Locke</a><br>
+    <a href="/solutions/philosophers/lockwood/">Michael Lockwood</a><br>
+    <a href="/solutions/philosophers/lovejoy/">Arthur O. Lovejoy</a><br>
+    <a href="/solutions/philosophers/lowe/">E. Jonathan Lowe</a><br>
+    <a href="/solutions/philosophers/lucas/">John R. Lucas</a><br>
+    <a href="/solutions/philosophers/lucretius/">Lucretius</a><br>
+    <a href="/solutions/philosophers/macintyre/">Alasdair MacIntyre</a><br> 
+    <a href="/solutions/philosophers/marcus/">Ruth Barcan Marcus</a><br> 
+    <a href="/solutions/philosophers/maudlin/">Tim Maudlin</a><br> 
+    <a href="/solutions/philosophers/martineau/">James Martineau</a><br> 
+    <a href="/solutions/philosophers/maxwell/">Nicholas Maxwell</a><br> 
+    <a href="/solutions/philosophers/mccall/">Storrs McCall</a><br>
+    <a href="/solutions/philosophers/mccann/">Hugh McCann</a><br>
+    <a href="/solutions/philosophers/mcginn/">Colin McGinn</a><br>
+    <a href="/solutions/philosophers/mckenna/">Michael McKenna</a><br>
+    <a href="/solutions/philosophers/mclaughlin/">Brian McLaughlin</a><br>
+    <a href="/solutions/philosophers/mctaggart/">John McTaggart</a><br>
+    <a href="/solutions/philosophers/meehl/">Paul E. Meehl</a><br>
+    <a href="/solutions/philosophers/meixner/">Uwe Meixner</a><br>
+    <a href="/solutions/philosophers/mele/">Alfred Mele</a><br>
+    <a href="/solutions/philosophers/merricks/">Trenton Merricks</a><br>
+    <a href="/solutions/philosophers/mill/">John Stuart Mill</a><br>
+    <a href="/solutions/philosophers/miller/">Dickinson Miller</a><br>
+    <a href="/solutions/philosophers/moore/">G.E.Moore</a><br>
+    <a href="/solutions/philosophers/nagele/">Ernest Nagel</a><br>
+    <a href="/solutions/philosophers/nagelt/">Thomas Nagel</a><br>
+    <a href="/solutions/philosophers/neurath/">Otto Neurath</a><br>
+    <a href="/solutions/philosophers/nietzsche/">Friedrich Nietzsche</a><br>
+    <a href="/solutions/philosophers/norton/">John Norton</a><br>
+    <a href="/solutions/philosophers/nowell-smith/">P.H.Nowell-Smith</a><br>
+    <a href="/solutions/philosophers/nozick/">Robert Nozick</a><br>
+    <a href="/solutions/philosophers/ockham/">William of Ockham</a><br> 
+    <a href="/solutions/philosophers/oconnor/">Timothy O'Connor</a><br>
+    <a href="/solutions/philosophers/parmenides/">Parmenides</a><br>
+    <a href="/solutions/philosophers/pears/">David F. Pears</a><br> 
+    <a href="/solutions/philosophers/peirce/">Charles Sanders Peirce</a><br> 
+    <a href="/solutions/philosophers/pereboom/">Derk Pereboom</a><br> 
+    <a href="/solutions/philosophers/piccinini/">Gualtiero Piccinini</a><br> 
+    <a href="/solutions/philosophers/pinker/">Steven Pinker</a><br>
+    <a href="/solutions/philosophers/place/">U.T.Place</a><br> 
+    <a href="/solutions/philosophers/plato/">Plato</a><br> 
+    <a href="/solutions/philosophers/popper/">Karl Popper</a><br> 
+    <a href="/solutions/philosophers/porphyry/">Porphyry</a><br> 
+    <a href="/solutions/philosophers/price/">Huw Price</a><br> 
+    <a href="/solutions/philosophers/prichard/">H.A.Prichard</a><br> 
+    <a href="/solutions/philosophers/protagoras/">Protagoras</a><br>
+    <a href="/solutions/philosophers/putnam/">Hilary Putnam</a><br> 
+    <a href="/solutions/philosophers/quine/">Willard van Orman Quine</a><br> 
+    <a href="/knowledge/philosophers/ramsey/">Frank Ramsey</a><br> 
+    <a href="/solutions/philosophers/rand/">Ayn Rand</a><br> 
+    <a href="/solutions/philosophers/rea/">Michael Rea</a><br>
+    <a href="/solutions/philosophers/reid/">Thomas Reid</a><br> 
+    <a href="/solutions/philosophers/renouvier/">Charles Renouvier</a><br> 
+    <a href="/solutions/philosophers/rescher/">Nicholas Rescher</a><br> 
+    <a href="/solutions/philosophers/rietdijk/">C.W.Rietdijk</a><br> 
+    <a href="/solutions/philosophers/rorty/">Richard Rorty</a><br> 
+    <a href="/solutions/philosophers/royce/">Josiah Royce</a><br> 
+    <a href="/solutions/philosophers/russell/">Bertrand Russell</a><br> 
+    <a href="/solutions/philosophers/russellp/">Paul Russell</a><br> 
+    <a href="/solutions/philosophers/ryle/">Gilbert Ryle</a><br> 
+    <a href="/solutions/philosophers/sartre/">Jean-Paul Sartre</a><br> 
+    <a href="/solutions/philosophers/sayre/">Kenneth Sayre</a><br> 
+    <a href="/solutions/philosophers/scanlon/">T.M.Scanlon</a><br> 
+    <a href="/solutions/philosophers/schlick/">Moritz Schlick</a><br> 
+    <a href="/solutions/philosophers/scotus/">John Duns Scotus</a><br> 
+    <a href="/solutions/philosophers/schweitzer/">Albert Schweitzer</a><br> 
+    <a href="/solutions/philosophers/schopenhauer/">Arthur Schopenhauer</a><br> 
+    <a href="/solutions/philosophers/searle/">John Searle</a><br>
+    <a href="/solutions/philosophers/sellars/">Wilfrid Sellars</a><br>
+    <a href="/solutions/philosophers/shiang/">David Shiang</a><br> 
+    <a href="/solutions/philosophers/sidelle/">Alan Sidelle</a><br> 
+    <a href="/solutions/philosophers/sider/">Ted Sider</a><br> 
+    <a href="/solutions/philosophers/sidgwick/">Henry Sidgwick</a><br> 
+    <a href="/solutions/philosophers/sinnott-armstrong/">Walter Sinnott-Armstrong</a><br> 
+    <a href="/solutions/philosophers/slezak/">Peter Slezak</a><br> 
+    <a href="/solutions/philosophers/smart/">J.J.C.Smart</a><br> 
+    <a href="/solutions/philosophers/smilansky/">Saul Smilansky</a><br> 
+    <a href="/solutions/philosophers/smith/">Michael Smith</a><br> 
+    <a href="/solutions/philosophers/spinoza/">Baruch Spinoza</a><br> 
+    <a href="/solutions/philosophers/stebbing/">L. Susan Stebbing</a><br> 
+    <a href="/solutions/philosophers/stengers/">Isabelle Stengers</a><br> 
+    <a href="/solutions/philosophers/stout/">George F. Stout</a><br> 
+    <a href="/solutions/philosophers/strawsong/">Galen Strawson</a><br>
+    <a href="/solutions/philosophers/strawson/">Peter Strawson</a><br>
+    <a href="/solutions/philosophers/stump/">Eleonore Stump</a><br>
+    <a href="/solutions/philosophers/suarez/">Francisco Suárez</a><br>
+    <a href="/solutions/philosophers/taylorr/">Richard Taylor</a><br>
+    <a href="/solutions/philosophers/timpe/">Kevin Timpe</a><br>
+    <a href="/solutions/philosophers/twain/">Mark Twain</a><br>
+    <a href="/solutions/philosophers/unger/">Peter Unger</a><br> 
+    <a href="/solutions/philosophers/vaninwagen/">Peter van Inwagen</a><br> 
+    <a href="/solutions/philosophers/vargas/">Manuel Vargas</a><br> 
+    <a href="/solutions/philosophers/venn/">John Venn</a><br> 
+    <a href="/solutions/philosophers/vihvelin/">Kadri Vihvelin</a><br> 
+    <a href="/solutions/philosophers/voltaire/">Voltaire</a><br> 
+    <a href="/solutions/philosophers/vonwright/">G.H. von Wright</a><br> 
+    <a href="/solutions/philosophers/wallacedf/">David Foster Wallace</a><br> 
+    <a href="/solutions/philosophers/wallace/">R. Jay Wallace</a><br> 
+    <a href="/solutions/philosophers/ward/">W.G.Ward</a><br> 
+    <a href="/solutions/philosophers/warfield/">Ted Warfield</a><br> 
+    <a href="/solutions/philosophers/weatherford/">Roy Weatherford</a><br> 
+    <a href="/solutions/philosophers/weizsacker/">C.F. von Weizsäcker</a><br>
+    <a href="/solutions/philosophers/whewell/">William Whewell</a><br> 
+    <a href="/solutions/philosophers/whitehead/">Alfred North Whitehead</a><br> 
+    <a href="/solutions/philosophers/widerker/">David Widerker</a><br> 
+    <a href="/solutions/philosophers/wiggins/">David Wiggins</a><br> 
+    <a href="/solutions/philosophers/williams/">Bernard Williams</a><br> 
+    <a href="/solutions/philosophers/williamson/">Timothy Williamson</a><br> 
+    <a href="/solutions/philosophers/wittgenstein/">Ludwig Wittgenstein</a><br> 
+    <a href="/solutions/philosophers/wolf/">Susan Wolf</a><br> 
+    <a href="/solutions/philosophers/xenophon/">Xenophon</a><br> 
+    <br> 
+    Scientists
+    <br><br>
+    <a href="/solutions/scientists/albert/">David Albert</a><br>
+    <a href="/solutions/scientists/anderson/">Philip W. Anderson</a><br>
+    <a href="/solutions/scientists/arbib/">Michael Arbib</a><br>
+    <a href="/solutions/scientists/azarian/">Bobby Azarian</a><br>
+    <a href="/solutions/scientists/baade/">Walter Baade</a><br>
+    <a href="/solutions/scientists/baars/">Bernard Baars</a><br>
+    <a href="/solutions/scientists/bada/">Jeffrey Bada</a><br>
+    <a href="/solutions/scientists/ballentine/">Leslie Ballentine</a><br>
+    <a href="/solutions/scientists/barbieri/">Marcello Barbieri</a><br>
+    <a href="/solutions/scientists/barandes/">Jacob Barandes</a><br>
+    <a href="/solutions/scientists/barbour/">Julian Barbour</a><br>
+    <a href="/solutions/scientists/barlow/">Horace Barlow</a><br>
+    <a href="/solutions/scientists/bateson/">Gregory Bateson</a><br>
+    <a href="/solutions/scientists/bekenstein/">Jakob Bekenstein</a><br>
+    <a href="/solutions/scientists/bell/">John S. Bell</a><br>
+    <a href="/solutions/scientists/beller/">Mara Beller</a><br>
+    <a href="/solutions/scientists/bennett/">Charles Bennett</a><br>
+    <a href="/solutions/scientists/bertalanffy/">Ludwig von Bertalanffy</a><br>
+    <a href="/solutions/scientists/blackmore/">Susan Blackmore</a><br>
+    <a href="/solutions/scientists/boden/">Margaret Boden</a><br>
+    <a href="/solutions/scientists/bohm/">David Bohm</a><br>
+    <a href="/solutions/scientists/bohr/">Niels Bohr</a><br>
+    <a href="/solutions/scientists/boltzmann/">Ludwig Boltzmann</a><br> 
+    <a href="/solutions/scientists/bonner/">John Tyler Bonner</a><br> 
+    <a href="/solutions/scientists/borel/">Emile Borel</a><br> 
+    <a href="/solutions/scientists/born/">Max Born</a><br> 
+    <a href="/solutions/scientists/bose/">Satyendra Nath Bose</a><br> 
+    <a href="/solutions/scientists/bothe/">Walther Bothe</a><br> 
+    <a href="/solutions/scientists/bricmont/">Jean Bricmont</a><br>
+    <a href="/solutions/scientists/briegel/">Hans Briegel</a><br>
+    <a href="/solutions/scientists/brillouin/">Leon Brillouin</a><br>
+    <a href="/solutions/scientists/brooks/">Daniel Brooks</a><br>
+    <a href="/solutions/scientists/brush/">Stephen Brush</a><br>
+    <a href="/solutions/scientists/buckle/">Henry Thomas Buckle</a><br>
+    <a href="/solutions/scientists/burbury/">S. H. Burbury</a><br>
+    <a href="/solutions/scientists/calvin/">Melvin Calvin</a><br>
+    <a href="/solutions/scientists/calvinw/">William Calvin</a><br>
+    <a href="/solutions/scientists/campbell/">Donald Campbell</a><br>
+    <a href="/solutions/scientists/campbellj/">John O. Campbell</a><br>
+    <a href="/solutions/scientists/carnot/">Sadi Carnot</a><br>
+    <a href="/solutions/scientists/carroll/">Sean B. Carroll</a><br>
+    <a href="/solutions/scientists/cashmore/">Anthony Cashmore</a><br>
+    <a href="/solutions/scientists/chaisson/">Eric Chaisson</a><br>
+    <a href="/solutions/scientists/chaitin/">Gregory Chaitin</a><br>
+    <a href="/solutions/scientists/changeux/">Jean-Pierre Changeux</a><br>
+    <a href="/solutions/scientists/clausius/">Rudolf Clausius</a><br>
+    <a href="/solutions/scientists/compton/">Arthur Holly Compton</a><br>
+    <a href="/solutions/scientists/conway/">John Conway</a><br>
+    <a href="/solutions/scientists/conway-morris/">Simon Conway-Morris</a><br>
+    <a href="/solutions/scientists/corning/">Peter Corning</a><br>
+    <a href="/solutions/scientists/cowan/">George Cowan</a><br>
+    <a href="/solutions/scientists/coyne/">Jerry Coyne</a><br>
+    <a href="/solutions/scientists/cramer/">John Cramer</a><br>
+    <a href="/solutions/scientists/crick/">Francis Crick</a><br>
+    <a href="/solutions/scientists/culverwell/">E. P. Culverwell</a><br>
+    <a href="/solutions/scientists/damasio/">Antonio Damasio</a><br>
+    <a href="/solutions/scientists/darrigol/">Olivier Darrigol</a><br>
+    <a href="/solutions/scientists/darwin/">Charles Darwin</a><br>
+    <a href="/solutions/scientists/davies/">Paul Davies</a><br>
+    <a href="/solutions/scientists/dawkins/">Richard Dawkins</a><br>
+    <a href="/solutions/scientists/deacon/">Terrence Deacon</a><br>
+    <a href="/solutions/scientists/kornhuber-deecke/">Lüder Deecke</a><br>
+    <a href="/solutions/scientists/dedekind/">Richard Dedekind</a><br>
+    <a href="/solutions/scientists/de_broglie/">Louis de Broglie</a><br>
+    <a href="/solutions/scientists/dehaene/">Stanislas Dehaene</a><br> 
+    <a href="/solutions/scientists/delbruck/">Max Delbrück</a><br> 
+    <a href="/solutions/scientists/de_moivre/">Abraham de Moivre</a><br> 
+    <a href="/solutions/scientists/depew/">David Depew</a><br>
+    <a href="/solutions/scientists/despagmat/">Bernard d'Espagnat</a><br>
+    <a href="/solutions/scientists/dirac/">Paul Dirac</a><br>
+    <a href="/solutions/scientists/dobzhansky/">Theodosius Dobzhansky</a><br>
+    <a href="/solutions/scientists/driesch/">Hans Driesch</a><br>
+    <a href="/solutions/scientists/dupre/">John Dupré</a><br>
+    <a href="/solutions/scientists/eccles/">John Eccles</a><br>
+    <a href="/solutions/scientists/eddington/">Arthur Stanley Eddington</a><br> 
+    <a href="/solutions/scientists/edelman/">Gerald Edelman</a><br> 
+    <a href="/solutions/scientists/ehrenfest/">Paul Ehrenfest</a><br> 
+    <a href="/solutions/scientists/eigen/">Manfred Eigen</a><br> 
+    <a href="/solutions/scientists/einstein/">Albert Einstein</a><br> 
+    <a href="/solutions/scientists/ellis/">George F. R. Ellis</a><br> 
+    <a href="/solutions/scientists/elsasser/">Walter Elsasser</a><br> 
+    <a href="/solutions/scientists/everett/">Hugh Everett, III</a><br> 
+    <a href="/solutions/scientists/exner/">Franz Exner</a><br> 
+    <a href="/solutions/scientists/feynman/">Richard Feynman</a><br>
+    <a href="/solutions/scientists/fisher/">R. A. Fisher</a><br>
+    <a href="/solutions/scientists/foster/">David Foster</a><br>
+    <a href="/solutions/scientists/fourier/">Joseph Fourier</a><br>
+    <a href="/solutions/scientists/fox/">George Fox</a><br>
+    <a href="/solutions/scientists/frank/">Philipp Frank</a><br> 
+    <a href="/solutions/scientists/frautschi/">Steven Frautschi</a><br> 
+    <a href="/solutions/scientists/fredkin/">Edward Fredkin</a><br> 
+    <a href="/solutions/scientists/fresnel/">Augustin-Jean Fresnel</a><br> 
+    <a href="/solutions/scientists/friston/">Karl Friston</a><br> 
+    <a href="/solutions/scientists/gal-or/">Benjamin Gal-Or</a><br> 
+    <a href="/solutions/scientists/gardner/">Howard Gardner</a><br> 
+    <a href="/solutions/scientists/gatlin/">Lila Gatlin</a><br> 
+    <a href="/solutions/scientists/gazzaniga/">Michael Gazzaniga</a><br> 
+    <a href="/solutions/scientists/georgescu-roegen/">Nicholas Georgescu-Roegen</a><br> 
+    <a href="/solutions/scientists/ghirardi/">GianCarlo Ghirardi</a><br> 
+    <a href="/solutions/scientists/gibbs/">J. Willard Gibbs</a><br> 
+    <a href="/solutions/scientists/gibson/">James J. Gibson</a><br> 
+    <a href="/solutions/scientists/gisin/">Nicolas Gisin</a><br> 
+    <a href="/solutions/scientists/glimcher/">Paul Glimcher</a><br> 
+    <a href="/solutions/scientists/gold/">Thomas Gold</a><br>
+    <a href="/solutions/scientists/gomes/">A. O. Gomes</a><br> 
+    <a href="/solutions/scientists/goodwin/">Brian Goodwin</a><br> 
+    <a href="/solutions/scientists/gough/">Julian Gough</a><br> 
+    <a href="/solutions/scientists/greene/">Joshua Greene</a><br> 
+    <a href="/solutions/scientists/haar/">Dirk ter Haar</a><br> 
+    <a href="/solutions/scientists/hadamard/">Jacques Hadamard</a><br> 
+    <a href="/solutions/scientists/hadley/">Mark Hadley</a><br> 
+    <a href="/solutions/scientists/haeckel/">Ernst Haeckel</a><br> 
+    <a href="/solutions/scientists/haggard/">Patrick Haggard</a><br> 
+    <a href="/solutions/scientists/haldane/">J. B. S. Haldane</a><br> 
+    <a href="/solutions/scientists/hameroff/">Stuart Hameroff</a><br> 
+    <a href="/solutions/scientists/hamon/">Augustin Hamon</a><br> 
+    <a href="/solutions/scientists/harris/">Sam Harris</a><br> 
+    <a href="/solutions/scientists/hartley/">Ralph Hartley</a><br> 
+    <a href="/solutions/scientists/hartman/">Hyman Hartman</a><br> 
+    <a href="/solutions/scientists/hawkins/">Jeff Hawkins</a><br> 
+    <a href="/solutions/scientists/haynes/">John-Dylan Haynes</a><br> 
+    <a href="/solutions/scientists/hebb/">Donald Hebb</a><br> 
+    <a href="/solutions/scientists/heisenbergm/">Martin Heisenberg</a><br> 
+    <a href="/solutions/scientists/heisenberg/">Werner Heisenberg</a><br> 
+    <a href="/solutions/scientists/helmholtz">Hermann von Helmholtz</a><br> 
+    <a href="/solutions/scientists/hermann/">Grete Hermann</a><br> 
+    <a href="/solutions/scientists/herschel/">John Herschel</a><br> 
+    <a href="/solutions/scientists/heylighen/">Francis Heylighen</a><br> 
+    <a href="/solutions/scientists/hiley/">Basil Hiley</a><br> 
+    <a href="/solutions/scientists/hobson/">Art Hobson</a><br> 
+    <a href="/solutions/scientists/hoffmeyer/">Jesper Hoffmeyer</a><br> 
+   <a href="/solutions/scientists/holland/">John Holland</a><br> 
+    <a href="/solutions/scientists/howard/">Don Howard</a><br> 
+    <a href="/solutions/scientists/jackson/">John H. Jackson</a><br> 
+    <a href="/solutions/scientists/jackendoff/">Ray Jackendoff</a><br>
+    <a href="/solutions/scientists/jakobson/">Roman Jakobson</a><br>
+    <a href="/solutions/scientists/jaynes/">E. T. Jaynes</a><br>
+    <a href="/solutions/scientists/jevons/">William Stanley Jevons</a><br>
+    <a href="/solutions/scientists/jordan/">Pascual Jordan</a><br>
+    <a href="/solutions/scientists/kandel/">Eric Kandel</a><br>
+    <a href="/solutions/scientists/kastner/">Ruth E. Kastner</a><br>
+    <a href="/solutions/scientists/kauffman/">Stuart Kauffman</a><br>
+    <a href="/solutions/scientists/klein/">Martin J. Klein</a><br> 
+    <a href="/solutions/scientists/klemm/">William R. Klemm</a><br> 
+    <a href="/solutions/scientists/koch/">Christof Koch</a><br>
+    <a href="/solutions/scientists/kochen/">Simon Kochen</a><br>
+    <a href="/solutions/scientists/kornhuber-deecke/">Hans Kornhuber</a><br>
+    <a href="/solutions/scientists/kosslyn/">Stephen Kosslyn</a><br> 
+    <a href="/solutions/scientists/koshland/">Daniel Koshland</a><br> 
+    <a href="/solutions/scientists/kovac/">Ladislav Kovàč</a><br>
+    <a href="/solutions/scientists/kronecker/">Leopold Kronecker</a><br>
+    <a href="/solutions/scientists/kuppers/">Bernd-Olaf Küppers</a><br>
+    <a href="/solutions/scientists/landauer/">Rolf Landauer</a><br>
+    <a href="/solutions/scientists/lande/">Alfred Landé</a><br>
+    <a href="/solutions/scientists/laplace/">Pierre-Simon Laplace</a><br> 
+    <a href="/solutions/scientists/lashley/">Karl Lashley</a><br> 
+    <a href="/solutions/scientists/layzer/">David Layzer</a><br> 
+    <a href="/solutions/scientists/ledoux/">Joseph LeDoux</a><br> 
+    <a href="/solutions/scientists/lettvin/">Gerald Lettvin</a><br> 
+    <a href="/solutions/scientists/levin/">Michael Levin</a><br> 
+    <a href="/solutions/scientists/lewis/">Gilbert Lewis</a><br> 
+    <a href="/solutions/scientists/libet/">Benjamin Libet</a><br> 
+    <a href="/solutions/scientists/lindley/">David Lindley</a><br> 
+    <a href="/solutions/scientists/lloyd/">Seth Lloyd</a><br> 
+    <a href="/solutions/scientists/loewenstein/">Werner Loewenstein</a><br> 
+    <a href="/solutions/scientists/lorentz/">Hendrik Lorentz</a><br> 
+    <a href="/solutions/scientists/loschmidt/">Josef Loschmidt</a><br> 
+    <a href="/solutions/scientists/lotka/">Alfred Lotka</a><br> 
+    <a href="/solutions/scientists/mach/">Ernst Mach</a><br>
+    <a href="/solutions/scientists/mackay/">Donald MacKay</a><br> 
+    <a href="/solutions/scientists/margenau/">Henry Margenau</a><br> 
+    <a href="/solutions/scientists/margulis/">Lynn Margulis</a><br> 
+    <a href="/solutions/scientists/maroney/">Owen Maroney</a><br> 
+    <a href="/solutions/scientists/marr/">David Marr</a><br> 
+    <a href="/solutions/scientists/maturana/">Humberto Maturana</a><br> 
+    <a href="/solutions/scientists/maxwell/">James Clerk Maxwell</a><br> 
+    <a href="/solutions/scientists/maynard-smith/">John Maynard Smith</a><br>
+    <a href="/solutions/scientists/mayr/">Ernst Mayr</a><br>
+    <a href="/solutions/scientists/mccarthy/">John McCarthy</a><br>
+    <a href="/solutions/scientists/mcclintock/">Barbara McClintock</a><br>
+    <a href="/solutions/scientists/mcculloch/">Warren McCulloch</a><br>
+    <a href="/solutions/scientists/mermin/">N. David Mermin</a><br>
+    <a href="/solutions/scientists/miller/">George Miller</a><br>
+    <a href="/solutions/scientists/smiller/">Stanley Miller</a><br>
+    <a href="/solutions/scientists/mohrhoff/">Ulrich Mohrhoff</a><br>
+    <a href="/solutions/scientists/monod/">Jacques Monod</a><br>
+    <a href="/solutions/scientists/mountcastle/">Vernon Mountcastle</a><br> 
+    <a href="/solutions/scientists/muller/">Gerd B. Müller</a><br> 
+    <a href="/solutions/scientists/noether/">Emmy Noether</a><br> 
+    <a href="/solutions/scientists/noble/">Denis Noble</a><br> 
+    <a href="/solutions/scientists/norman/">Donald Norman</a><br> 
+    <a href="/solutions/scientists/norsen/">Travis Norsen</a><br>
+    <a href="/solutions/scientists/odumh/">Howard T. Odum</a><br> 
+    <a href="/solutions/scientists/oparin/">Alexander Oparin</a><br> 
+    <a href="/solutions/scientists/pais/">Abraham Pais</a><br> 
+    <a href="/solutions/scientists/pattee/">Howard Pattee</a><br> 
+    <a href="/solutions/scientists/pauli/">Wolfgang Pauli</a><br> 
+    <a href="/solutions/scientists/pauri/">Massimo Pauri</a><br> 
+    <a href="/solutions/scientists/penfield/">Wilder Penfield</a><br>
+    <a href="/solutions/scientists/penrose/">Roger Penrose</a><br>
+    <a href="/solutions/scientists/pigliucci/">Massimo Pigliucci</a><br/>
+    <a href="/solutions/philosophers/pinker/">Steven Pinker</a><br> 
+    <a href="/solutions/scientists/pittendrigh/">Colin Pittendrigh</a><br> 
+    <a href="/solutions/scientists/pitts/">Walter Pitts</a><br> 
+    <a href="/solutions/scientists/planck/">Max Planck</a><br> 
+    <a href="/solutions/scientists/pockett/">Susan Pockett</a><br> 
+    <a href="/solutions/scientists/poincare/">Henri Poincaré</a><br>
+    <a href="/solutions/scientists/polanyi/">Michael Polanyi</a><br>
+    <a href="/solutions/scientists/pollen/">Daniel Pollen</a><br> 
+    <a href="/solutions/scientists/prigogine/">Ilya Prigogine</a><br>
+    <a href="/solutions/scientists/primas/">Hans Primas</a><br>
+    <a href="/solutions/scientists/prisco/">Giulio Prisco</a><br>
+    <a href="/solutions/scientists/pylyshyn/">Zenon Pylyshyn</a><br/>
+    <a href="/solutions/scientists/quastler/">Henry Quastler</a><br/>
+    <a href="/solutions/scientists/quetelet/">Adolphe Quételet</a><br/>
+    <a href="/solutions/scientists/rakic/">Pasco Rakic</a><br/>
+    <a href="/solutions/scientists/rashevsky/">Nicolas Rashevsky</a><br/>
+    <a href="/solutions/scientists/rayleigh/">Lord Rayleigh</a><br/>
+    <a href="/solutions/scientists/reif/">Frederick Reif</a><br/>
+    <a href="/solutions/scientists/renn/">Jürgen Renn</a><br/>
+    <a href="/solutions/scientists/rizzolati/">Giacomo Rizzolati</a><br/>
+    <a href="/solutions/scientists/roback/">A.A. Roback</a><br/>
+    <a href="/solutions/scientists/roduner/">Emil Roduner</a><br/>
+    <a href="/solutions/scientists/roederer/">Juan Roederer</a><br/>
+    <a href="/solutions/scientists/rosen/">Robert Rosen</a><br/>
+    <a href="/solutions/scientists/rosenblatt/">Frank Rosenblatt</a><br/>
+    <a href="/solutions/scientists/rothstein/">Jerome Rothstein</a><br/>
+    <a href="/solutions/scientists/ruelle/">David Ruelle</a><br/>
+    <a href="/solutions/scientists/rumelhart/">David Rumelhart</a><br> 
+    <a href="/solutions/scientists/ruse">Michael Ruse</a><br> 
+    <a href="/solutions/scientists/salthe/">Stanley Salthe</a><br> 
+    <a href="/solutions/scientists/sapolsky/">Robert Sapolsky</a><br>
+    <a href="/solutions/scientists/sauer/">Tilman Sauer</a><br>
+    <a href="/solutions/scientists/saussure/">Ferdinand de Saussure</a><br>
+    <a href="/solutions/scientists/schmidhuber/">Jürgen Schmidhuber</a><br>
+    <a href="/solutions/scientists/schrodinger/">Erwin Schr&ouml;dinger</a><br> 
+    <a href="/solutions/scientists/schurger/">Aaron Schurger</a><br> 
+    <a href="/solutions/scientists/seung/">Sebastian Seung</a><br>
+    <a href="/solutions/scientists/sebeok/">Thomas Sebeok</a><br>
+    <a href="/solutions/scientists/selleri/">Franco Selleri</a><br>
+    <a href="/solutions/scientists/shannon/">Claude Shannon</a><br>
+     <a href="/solutions/scientists/shapiro/">James A. Shapiro</a><br>
+    <a href="/solutions/scientists/sherrington/">Charles Sherrington</a><br> 
+    <a href="/solutions/scientists/shimony/">Abner Shimony</a><br> 
+    <a href="/solutions/scientists/simon/">Herbert Simon</a><br> 
+    <a href="/solutions/scientists/simonton/">Dean Keith Simonton</a><br>
+    <a href="/solutions/scientists/sinnott/">Edmund Sinnott</a><br>
+    <a href="/solutions/scientists/skinner/">B. F. Skinner</a><br>
+    <a href="/solutions/scientists/smolin/">Lee Smolin</a><br> 
+    <a href="/solutions/scientists/solomonoff/">Ray Solomonoff</a><br> 
+    <a href="/solutions/scientists/spencer/">Herbert Spencer</a><br>
+    <a href="/solutions/scientists/sperry/">Roger Sperry</a><br>
+    <a href="/solutions/scientists/stachel/">John Stachel</a><br> 
+    <a href="/solutions/scientists/stanley/">Kenneth Stanley</a><br>
+    <a href="/solutions/scientists/stapp/">Henry Stapp</a><br>
+    <a href="/solutions/scientists/stewart/">Ian Stewart</a><br>
+    <a href="/solutions/scientists/stonier/">Tom Stonier</a><br>
+    <a href="/solutions/scientists/suarez/">Antoine Suarez</a><br>
+    <a href="/solutions/scientists/susskind/">Leonard Susskind</a><br>
+    <a href="/solutions/scientists/szilard/">Leo Szilard</a><br>
+    <a href="/solutions/scientists/tegmark/">Max Tegmark</a><br>
+    <a href="/solutions/scientists/teilhard/">Teilhard de Chardin</a><br>
+    <a href="/solutions/scientists/thims/">Libb Thims</a><br>
+    <a href="/solutions/scientists/thomson/">William Thomson (Kelvin)</a><br>
+    <a href="/solutions/scientists/tolman/">Richard Tolman</a><br> 
+    <a href="/solutions/scientists/tononi/">Giulio Tononi</a><br> 
+    <a href="/solutions/scientists/tse/">Peter Tse</a><br>
+    <a href="/solutions/scientists/turing/">Alan Turing</a><br>
+    <a href="/solutions/scientists/ulanowicz/">Robert Ulanowicz</a><br> 
+    <a href="/solutions/scientists/unnikrishnan/">C. S. Unnikrishnan</a><br>
+    <a href="/solutions/scientists/kampen/">Nico van Kampen</a><br>
+    <a href="/solutions/scientists/varela/">Francisco Varela</a><br>
+    <a href="/solutions/scientists/vedral/">Vlatko Vedral</a><br>
+    <a href="/solutions/scientists/vernadsky/">Vladimir Vernadsky</a><br>
+    <a href="/solutions/scientists/vidal/">Clément Vidal</a><br>
+    <a href="/solutions/scientists/volkenstein/">Mikhail Volkenstein</a><br>
+    <a href="/solutions/scientists/foerster/">Heinz von Foerster</a><br>
+    <a href="/solutions/scientists/mises/">Richard von Mises</a><br>
+    <a href="/solutions/scientists/neumann/">John von Neumann</a><br>
+    <a href="/solutions/scientists/uexkull/">Jakob von Uexküll</a><br>
+    <a href="/solutions/scientists/waddington/">C. H. Waddington</a><br>
+    <a href="/solutions/scientists/walker/">Sara Imari Walker</a><br>
+    <a href="/solutions/scientists/watsonj/">James D. Watson</a><br>
+    <a href="/solutions/scientists/watsonjb/">John B. Watson</a><br>
+    <a href="/solutions/scientists/weber/Bruce Weber</a><br>
+    <a href="/solutions/scientists/wegner/">Daniel Wegner</a><br>
+    <a href="/solutions/scientists/weinberg/">Steven Weinberg</a><br>
+    <a href="/solutions/scientists/weismann/">August Weismann</a><br>
+    <a href="/solutions/scientists/weiss/">Paul A. Weiss</a><br>
+    <a href="/solutions/scientists/weyl/">Herman Weyl</a><br>
+    <a href="/solutions/scientists/wheeler/">John Wheeler</a><br>
+    <a href="/solutions/scientists/wicken/">Jeffrey Wicken</a><br>
+    <a href="/solutions/scientists/wien/">Wilhelm Wien</a><br>
+    <a href="/solutions/scientists/wiener/">Norbert Wiener</a><br>
+    <a href="/solutions/scientists/wigner/">Eugene Wigner</a><br>
+    <a href="/solutions/scientists/wiley/">E. O. Wiley</a><br>
+    <a href="/solutions/scientists/wilson/">E. O. Wilson</a><br>
+    <a href="/solutions/scientists/witzany/">Günther Witzany</a><br>
+    <a href="/solutions/scientists/woese/">Carl Woese</a><br>
+    <a href="/solutions/scientists/wolfram/">Stephen Wolfram</a><br>
+    <a href="/solutions/scientists/zeh/">H. Dieter Zeh</a><br>
+    <a href="/solutions/scientists/zeki/">Semir Zeki</a><br>
+    <a href="/solutions/scientists/zermelo/">Ernst Zermelo</a><br> 
+    <a href="/solutions/scientists/zurek/">Wojciech Zurek</a><br>
+    <a href="/solutions/scientists/zuse/">Konrad Zuse</a><br>
+    <a href="/solutions/scientists/zwicky/">Fritz Zwicky</a><br>
+<br/>
+Presentations
+<br/>
+<br/>
+<a href="/presentations/ABCD_Multimedia_2006.pdf/">ABCD Harvard</a> (<a href="/presentations/ABCD_Multimedia_2006.pptx/">ppt</a>) 
+<a href="/presentations/Bhaktivedanta/">Bhaktivedanta Aug 2026</a><br/>
+<a href="/presentations/biosemiotics/">Biosemiotics</a><br/>
+<a href="/presentations/Free__Will/">Free Will</a><br/>
+<a href="/presentations/Milan/mental_causation/index2.html">Mental Causation</a><br/>
+<a href="/presentations/video/WJS-2010/">James Symposium</a><br/>
+<a href="/presentations/CSC25_Talk/">CCS25 Talk</a><br/>
+<a href="/presentations/Evo_Devo_CSS/">Evo Devo September 12</a><br/>
+<a href="/presentations/Evo_Devo_I-Phi/">Evo Devo October 2</a><br/>
+<a href="/presentations/Evo_Devo_Davies/">Evo Devo Davies Nov12</a><br/>
+
+             </div> 
+	      <div style="clear: both;"></div>
+	      &nbsp;
+	    </div>
+	    <!-- end column1 -->
+	  </td>
+
+	  <td valign="top">
+	    <!-- start column2 or 23 -->
+	    <div id="column23">
+	      <div class="bodycontent">
+		
+<div class="breadcrumbs">
+<a href="/content.html">Home</a> > <a href="/knowledge/">Knowledge</a> > Decoherence 
+</div>
+
+    <div class="chaptertitle">Decoherence</div>
+
+<div class="bodytext">
+<!-- Decoherence is the study of interactions between a quantum system (generally a very small number of microscopic particles like electrons, photons, atoms, molecules, etc. - often just a single particle) and the larger macroscopic environment, which is normally treated "classically," that is, by ignoring quantum effects, but which decoherence theorists study quantum mechanically. Decoherence theorists attribute the absence of macroscopic quantum effects like interference (which is a coherent process) to interactions between a quantum system and the larger macroscopic environment. They maintain that no system can be completely isolated from the environment. The decoherence (which accounts for the disappearance) of macroscopic quantum effects is shown experimentally to be correlated with the loss of isolation. 
+<p/>
+<a href="/solutions/scientists/bohr/">Niels Bohr</a> maintained that a macroscopic apparatus used to "measure" quantum systems <i>must</i> be treated classically. <a href="/solutions/scientists/neumann/">John von Neumann</a>, on the other hand, assumed that everything is made of quantum particles, even the mind of the observer. This led him and <a href="/solutions/scientists/heisenberg/">Werner Heisenberg</a> to say that a "cut" must be located somewhere between the quantum system and the mind, which would operate in a sort of "psycho-physical parallelism."
+<p/>
+A main characteristic of quantum systems is the appearance of wavelike interference effects. These only show up in large numbers of repeated identical experiments that make measurements on single particles at a time. Interference is never directly "observed" in a single experiment. When interference is present in a system, the system is called "coherent." Decoherence then is the loss or suppression of that interference.
+<p/>
+Interference experiments require that the system of interest is extremely well isolated from the environment, except for the "measurement apparatus." This apparatus must be capable of recording the information about what has been measured. It can be a photographic plate or an electron counter, anything capable of registering a quantum level event, usually by releasing a cascade of metastable processes that amplify the quantum-level event to the macroscopic "classical" world, where an "observer" can see the result.     
+<p/>
+This does not mean that specific quantum level events are determined by that observer (as noted by several of the great quantum physicists - <a href="/solutions/scientists/born/">Max Born</a>, <a href="/solutions/scientists/jordan/">Pascual Jordan</a>, <a href="/solutions/scientists/schrodinger/">Erwin Schrödinger</a>, <a href="/solutions/scientists/dirac/">Paul Dirac</a>, and textbook authors Landau and Lifshitz, Albert Messiah, and Kurt Gottfried, among others). Quantum processes are happening all the time. Most quantum events are never observed, though they can be inferred from macroscopic phenomenological observations. 
+<p/>
+To be sure, those quantum events that are "measured" in a physics experiment which is set up to measure a certain quantity are dependent on the experimenter and the design of the experiment. To measure the electron spin in a <a href="/solutions/experiments/stern-gerlach/">Stern-Gerlach experiment</a>, for example, the experimenter is "<a href="/freedom/free_choice.html">free to choose</a>" to measure, for example, the z-component of the spin, rather than the x- or y-component. This will influence quantum level events in the following ways:
+<ul>
+<li>The experimental outcome will produce a definite value for the z-component of the spin (either +1/2 or -1/2)<p/></li>
+<li>The x-component of the spin after the measurement will be in a linear combination/superposition of +1/2 or -1/2 states
+<p/>
+<div align="center">
+| <i>ψ</i> &gt; = (1/√2) | <i>+1/2</i>  &gt; +  (1/√2) | <i>-1/2</i>  &gt; 
+
+</div>
+</li>
+</ul>
+It is in this sense that <a href="/solutions/scientists/bohr/">Bohr</a> and <a href="/solutions/scientists/heisenberg/">Heisenberg</a> describe properties of the quantum world as not existing until we make a measurement. We are "free to choose" the experiment to perform. If we measure position for example, the precise position value did not exist in some sense immediately before the measurement. 
+<p/>
+On the other hand, we could not create the particular value for the position. This is a random choice made by Nature, as <a href="/solutions/scientists/dirac/">P. A. M. Dirac</a> put it. 
+<p/>
+<hr/>
+-->
+
+
+The "decoherence program" of <a href="/solutions/scientists/zeh/">H. Dieter Zeh</a>, Erich Joos, <a href="/solutions/scientists/zurek/">Wojciech Zurek</a>, <a href="/solutions/scientists/wheeler/">John Wheeler</a>, Max Tegmark, and others has multiple aims - 
+<ol>
+<li> to show how classical physics <a href="/knowledge/emergence.html">emerges</a> from quantum physics. They call this the "<a href="/introduction/physics/quantum_to_classical.html">quantum to classical transition</a>."<p/> 
+</li>
+<li>to explain the lack of <i>macroscopic</i> superpositions of quantum states (e.g., <a href="/solutions/experiments/schrodingerscat">Schrödinger's Cat</a> as a superposition of live and dead cats).<p/>
+</li>
+<li>in particular, to identify the mechanism that suppresses ("decoheres") interference between states as something involving the "environment" beyond the system and measuring apparatus.<p/>
+</li>
+<li>to explain the <i>appearance</i> of particles following paths (they say there are no "particles," and maybe no paths).<p/>
+</li>
+<li>
+to explain the <i>appearance</i> of discontinuous transitions between quantum states (there are no "quantum jumps" either)<p/>   
+</li>
+<li> to champion a "universal wave function" (as a superposition of states) that evolves in a "unitary" fashion (i.e., <a href="/freedom/determinism.html">deterministically</a>) according to the Schrödinger equation.<p/>
+</li>
+<li> to clarify and perhaps solve the <a href="/problems/measurement/">measurement problem</a>, which they define as the lack of <i>macroscopic</i> superpositions.<p/> 
+</li>
+<li> to explain the "<a href="/problems/arrow_of_time/">arrow of time</a>."<p/>
+</li>
+<li> to revise the foundations of quantum mechanics by changing some of its assumptions, notably challenging the <a href="/solutions/experiments/wave-function_collapse/">"collapse" of the wave function</a> or "projection postulate."
+<p/>
+Decoherence theorists say that they <i>add no new elements</i> to quantum mechanics (such as "hidden variables") but they do <i>deny</i> one of the three basic assumptions - namely <a href="/solutions/scientists/dirac/">Dirac</a>'s <i>projection postulate</i>. This is the method used to calculate the probabilities of various outcomes, which probabilities are confirmed to several significant figures by the statistics of large numbers of identically prepared experiments.
+<p/>
+They accept (even overemphasize) Dirac's <i>principle of superposition</i>. Some also accept the <i>axiom of measurement</i>, although some of them question the link between eigenstates and eigenvalues.<p/>
+</li>
+</ol>
+<p/> 
+The decoherence program hopes to offer insights into several other important phenomena:
+<p/>
+<ol>
+<li>What Zurek calls the "einselection" (environment-induced superselection) of preferred states (the so-called "pointer states") in a measurement apparatus.<p/></li>
+<li>The role of the observer in quantum measurements.<p/></li>
+<li>Nonlocality and quantum entanglement (which is used to "derive" decoherence).<p/></li>
+<li>The origin of <a href="/problems/reversibility/">irreversibility</a> (by "continuous monitoring").<p/>
+</li>
+<li>The approach to thermal equilibrium.<p/></li>
+
+</ol> 
+<p/>
+The decoherence program finds <i>unacceptable</i> these aspects of the standard quantum theory:
+<p/>
+<ol>
+<li>Quantum "jumps" between energy eigenstates.<p/></li>
+<li>The "apparent" <a href="/solutions/experiments/wave-function_collapse/">collapse of the wave function</a>.<p/></li>
+<li>In particular, explanation of the <a href="/solutions/experiments/wave-function_collapse/">collapse</a> as a "mere" increase of <a href="/introduction/information/">information</a>.<p/></li>
+<li>The "appearance" of "particles."<p/></li>
+<li>The "inconsistent" Copenhagen Interpretation - quantum "system," classical "apparatus."<p/></li>
+<li>The "insufficient" Ehrenfest Theorems.<p/></li>
+</ol> 
+<p/>
+Decoherence theorists admit that some problems remain to be addressed:
+<ol>
+<li>The "problem of outcomes." Without the collapse postulate, it is not clear how definite outcomes are to be explained.<p/></li>
+</ol>
+<p/>
+As Tegmark and Wheeler put it:
+<blockquote>
+ The main
+motivation for introducing the notion
+of wave-function collapse had been to
+explain why experiments produced specific
+outcomes and not strange superpositions
+of outcomes...it is embarrassing
+that nobody has provided a
+testable deterministic equation specifying
+precisely when the mysterious collapse
+is supposed to occur.
+<blockquote>
+<div class="breadcrumbs">
+<i>Scientific American</i>, February 2001, p.75. 
+</div>
+</blockquote>
+</blockquote>
+
+<p/>
+Some of the controversial positions in decoherence theory, including the denial of collapses and particles,  come straight from the work of <a href="/solutions/scientists/schrodinger/">Erwin Schrödinger</a>, for example in his 1952 essays "Are There Quantum Jumps?" (<a href="/solutions/scientists/schrodinger/Quantum_Jumps_I.pdf">Part I</a> and <a href="/solutions/scientists/schrodinger/Quantum_Jumps_II.pdf">Part II</a>), where he denies the existence of "particles," claiming that everything can be understood as waves.
+<p/> 
+Other sources include: <a href="/solutions/scientists/everett/">Hugh Everett III</a> and his "relative state" or "many world" interpretations of quantum mechanics; <a href="/solutions/scientists/wigner/">Eugene Wigner</a>'s article on the problem of measurement; and <a href="/solutions/scientists/bell/">John Bell</a>'s reprise of Schrödinger's arguments on quantum jumps.  
+<p/>
+<!--
+<a href="/solutions/scientists/born/">Max Born</a> replied to the Schrödinger claims, in his essay on the <a href="/solutions/scientists/born/Interpretation.html">statistical interpretation of quantum mechanics</a>, in which the waves are the probability amplitudes (needed to produce interference) whose absolute value squared predicts the probability of finding a particle, given the <a href="/solutions/experiments/wave-function_collapse/">"collapse" of the wave function</a> in a measurement.
+-->
+<p/>
+Decoherence advocates therefore look to other attempts to formulate quantum mechanics. Also called "<a href="/introduction/physics/interpretations/">interpretations</a>," these are more often <a href="/introduction/physics/formulations/"><i>reformulations</i></a>, with different basic assumptions about the foundations of quantum mechanics. Most begin from the "universal" applicability of the unitary time evolution that results from the Schrödinger wave equation. They include:
+<p/>
+<ul>
+<li>The DeBroglie-Bohm "pilot-wave" or "hidden variables" formulation.</li>
+<li>The Everett-DeWitt "relative-state" or "many worlds" formulation.</li>
+<li>The <a href="/solutions/scientists/ghirardi/">Ghirardi</a>-Rimini-Weber "spontaneous collapse" formulation.</li>
+</ul> 
+<p/>
+Note that these "interpretations" are often in serious conflict with one another. Where Erwin Schrödinger thinks that waves alone can explain everything (there are no particles in his theory), <a href="/solutions/scientists/bohm/">David Bohm</a> thinks that particles not only exist but that every particle has a definite position that is a "hidden parameter" of his theory. <a href="/solutions/scientists/zeh/">H. Dieter Zeh</a>, the founder of decoherence, sees
+<p/>
+<blockquote>
+one of two possibilities: a modification of the Schrödinger equation that explicitly describes a collapse (also called "spontaneous localization") or an Everett type interpretation, in which all measurement outcomes are assumed to exist in one formal superposition, but to be perceived separately as a consequence of their dynamical autonomy resulting from decoherence. 
+<div class="linksRight">
+It was John Bell who called Everett's many-worlds picture "extravagant,"
+</div>
+While this latter suggestion has been called "extravagant" (as it requires myriads of co-existing quasi-classical "worlds"), it is similar in principle to the conventional (though nontrivial) assumption, made tacitly in all
+classical descriptions of observation, that consciousness is localized in certain semi-stable and sufficiently complex subsystems (such as human brains or parts thereof) of a much larger external world. Occam's razor, often applied
+to the "other worlds", is a dangerous instrument: philosophers of the past used it to deny the existence of the interior of stars or of the back side of the moon, for example. So it appears worth mentioning at this point that environmental decoherence, derived by tracing out unobserved variables from a universal wave function, readily describes precisely the apparently observed "quantum jumps" or "collapse events."
+<blockquote>
+<div class="breadcrumbs">
+(<i>Decoherence and the Appearance of a Classical World in Quantum Theory</i>, p.22)
+</div>
+</blockquote>
+</blockquote>
+<p/>
+
+The <a href="/introduction/physics/interpretation/">Information Interpretation of quantum mechanics</a> also has explanations for <a href="/problems/measurement/">the measurement problem</a>, the <a href="/problems/arrow_of_time/">arrow of time</a>, and the <a href="/knowledge/emergence.html">emergence</a> of <a href="/freedom/adequate_determinism.html">adequately, i.e., <i>statistically</i> determined</a> classical objects.  However, I-Phi does it <i>while accepting the standard assumptions of orthodox quantum physics</i>. <a href="#interpretation">See below</a>.
+<p/>
+We briefly review the standard theory of quantum mechanics and compare it to the "decoherence program," with a focus on the details of the measurement process. We divide measurement into several distinct steps, in order to clarify the supposed "measurement problem" (mostly the lack of macroscopic state superpositions) and perhaps "solve" it. 
+<hr/>
+The most famous example of probability-amplitude-wave interference is the <a href="/solutions/experiments/two-slit_experiment/">two-slit experiment</a>. Interference is between the probability amplitudes whose absolute value squared gives us the <a href="/freedom/probability.html">probability</a> of finding the particle at various locations behind the screen with the two slits in it. 
+<p/>
+Finding the particle at a specific location is said to be a "measurement."
+<p/>
+In standard quantum theory, a measurement is made when the quantum system is "projected" or "collapsed" or "reduced" into a single one of the system's allowed states. If the system was "prepared" in one of these "eigenstates," then the measurement will find it in that state with probability one (that is, with <a href="/freedom/certainty.html">certainty</a>).
+<p/>
+However, if the system is prepared in an arbitrary state ψ<sub>a</sub>, it can be represented as being in a linear combination of the system's basic energy states φ<sub>n</sub>. 
+<p/>
+<div align="center">
+ψ<sub>a</sub> = <font size="+2">Σ</font> c<sub>n</sub> | n >.
+<p/>
+</div>
+where
+<p/>
+<div align="center">
+c<sub>n</sub> = &lt; ψ<sub>a</sub> | φ<sub>n</sub> >.
+</div>    
+<p/>
+It is said to be in "superposition" of those basic states. The probability P<sub>n</sub> of its being found in state φ<sub>n</sub> is
+<p/>
+<div align="center">
+P<sub>n</sub> = &lt; ψ<sub>a</sub> | φ<sub>n</sub> ><sup>2</sup> = c<sub>n</sub><sup>2</sup> .
+</div>    
+<p/>
+Between measurements, the time evolution of a quantum system in such a superposition of states is described by a unitary transformation U (t, t<sub>0</sub>) that <i>preserves the same superposition of states</i> as long as the system does not interact with another system, such as a measuring apparatus. As long as the quantum system is completely isolated from any external influences, it evolves continuously and <a href="/freedom/determinism.html">deterministically</a> in an exactly predictable (<a href="/freedom/causality.html">causal</a>) manner.   
+<p/>
+Whenever the quantum system does interact however, with another particle or an external field, its behavior ceases to be causal and it evolves discontinuously and <a href="/freedom/indeterminism.html">indeterministically</a>. This <i><a href="/freedom/causa_sui.html">acausal</a></i> behavior is uniquely quantum mechanical. Nothing like it is possible in classical mechanics. Most attempts to "reinterpret" or "reformulate" quantum mechanics are attempts to eliminate this discontinuous acausal behavior and replace it with a deterministic process.  
+<p/>
+We must clarify what we mean by "the quantum system" and "it evolves" in the previous two paragraphs. This brings us to the mysterious notion of "wave-particle duality." In the wave picture, the "quantum system" refers to the <a href="/freedom/determinism.html">deterministic</a> time evolution of the complex probability amplitude or quantum state vector ψ<sub>a</sub>, according to the "equation of motion" for the probability amplitude wave ψ<sub>a</sub>, which is the Schrödinger equation, 
+<p/>
+<div align="center">
+ δψ<sub>a</sub>/δt = <i>H</i> ψ<sub>a</sub>.
+</div>    
+<p/>
+The probability amplitude looks like a wave and the Schrödinger equation is a wave equation. But the wave is an abstract quantity whose absolute square is the probability of finding a quantum particle somewhere. It is distinctly not the particle, whose exact position is unknowable while the quantum system is evolving deterministically. It is the probability amplitude wave that interferes with itself. Particles, as such, never interfere (although they may collide). 
+<p/>
+Note that we never "see" the superposition of particles in distinct states. There is no microscopic superposition in the sense of the macroscopic superposition of live and dead cats (See <a href="/solutions/experiments/schrodingerscat/">Schrödinger's Cat</a>).
+<p/>
+When the particle interacts, with the measurement apparatus for example, we always find the whole particle. It suddenly appears. For example, an electron "jumps" from one orbit to another, absorbing or emitting a discrete amount of energy (a photon). When a photon or electron is fired at the two slits, its appearance at the photographic plate is sudden and discontinuous. The probability wave instantaneously becomes concentrated at the location of the particle. 
+<p/>
+There is now unit probability (certainty) that the particle is located where we find it to be. This is described as the <a href="/solutions/experiments/wave-function_collapse/">"collapse" of the wave function</a>. Where the probability amplitude might have evolved under the unitary transformation of the Schrödinger equation to have significant non-zero values in a very large volume of phase space, all that probability suddenly "collapses" (faster than the speed of light, which deeply bothered <a href="/solutions/scientists/einstein/">Albert Einstein</a>) to the location of the particle. 
+<p/>
+Einstein said that some mysterious "spooky action-at-a-distance" must act to prevent the appearance of a second particle at a distant point where a finite probability of appearing had existed just an instant earlier.
+<p/>
+Animation of a wave function collapsing - <a href="" onClick="document.images.collapse.src=document.images.collapse.src;return false">click to restart</a>
+
+<div align="center">
+<p/>
+<img align="center" id="collapse" src="/solutions/experiments/wave-function_collapse/Collapse_animation.gif" width="550">
+</div>
+<p/>
+
+<p/>
+Whereas the abstract probability amplitude moves continuously and deterministically throughout space, the concrete particle moves discontinuously and indeterministically to a particular point in space.
+<p/>
+
+<p/>
+For this collapse to be a "measurement," the new <a href="/introduction/information/">information</a> about which location (or state) the system has collapsed into must be recorded somewhere in order for it to be "observable" by a scientist. But the vast majority of quantum events - e.g., particle collisions that change the particular states of quantum particles before and after the collision - do not leave an indelible record of their new states anywhere (except implicitly in the particles themselves). 
+<p/>
+We can imagine that a quantum system initially in state ψ<sub>a</sub> has interacted with another system and as a result is in a new state φ<sub>n</sub>, without any macroscopic apparatus around to record this new state for a "conscious observer." 
+<p/>
+H. D. Zeh describes how quantum systems may be "measured" <i>without</i> the recording of information. 
+<blockquote>
+It is therefore a <i>plausible</i> experimental result that the interference disappears also when the passage [of an electron through a slit] is "measured" without registration of a definite result. The latter may be assumed to have become a "classical fact" as soon as the measurement has irreversibly "occurred". A quantum phenomenon may thus "become a phenomenon" without being <i>observed</i>. This is in contrast to Heisenberg's remark about a trajectory coming into being by its observation, or a wave function describing "human knowledge". Bohr later spoke of objective irreversible events occurring <i>in the counter</i>. However, what precisely is an <a href="/problems/reversibility/">irreversible</a> quantum event? According to Bohr this event can not be dynamically analyzed.
+<p/>
+Analysis within the quantum mechanical formalism demonstrates nonetheless that the essential condition for this "decoherence" is that complete information about the passage is carried away in some <i>objective physical form</i>. This means that the state of the environment is now <i>quantum correlated</i> (entangled) with the relevant property of the system (such as a passage through a specific slit). This need <i>not</i> happen in a controllable way (as in a measurement): the "information" may as well form uncontrollable "<a href="/freedom/noise.html">noise</a>", or anything else that is part of reality. In contrast to statistical correlations, quantum correlations characterize real (though nonlocal) quantum states - not any lack of information. In particular, they may describe individual physical properties, such as the non-additive total angular momentum J<sup>2</sup> of a composite system at any distance.
+<blockquote>
+<div class="breadcrumbs">
+(<i>Decoherence and the Appearance of a Classical World in Quantum Theory</i>, pp.13-14)
+</div>
+</blockquote>
+</blockquote>
+<p/>
+<div class="sectiontitle">
+The Measurement Process
+</div>
+<a name="measurement"></a>
+In order to clarify the measurement process, we separate it into several distinct stages, as follows:
+<ul>
+<li>A particle collides with another microscopic particle or with a macroscopic object (which might be a measuring apparatus).<p/></li>
+
+<li>In this scattering problem, we ignore the internal details of the collision and say that the incoming initial state ψ<sub>a</sub> has changed asymptotically (discontinuously, and randomly = wave-function collapse) into the new outgoing final state φ<sub>n</sub>.<p/></li>
+
+<li>[Note that if we prepare a very large number of identical initial states ψ<sub>a</sub>, the fraction of those ending up in the final state φ<sub>n</sub> is just the probability &lt; ψ<sub>a</sub> | φ<sub>n</sub> ><sup>2</sup>]<p/></li>
+
+<li>The information that the system was in state ψ<sub>a</sub> has been lost (its path information has been erased; it is now "noise," as Zeh describes it). New information exists (implicitly in the particle, if not stored anywhere else) that the particle is in state φ<sub>n</sub>.<p/></li>
+
+<li>If the collision is with a large enough (macroscopic) apparatus, it might be capable of recording the new system state information, by changing the quantum state of the apparatus into a "pointer state" correlated with the new system state. <p/>
+"Pointers" could include the precipitated silver-bromide molecules of a photographic emulsion, the condensed vapor of a Wilson cloud chamber, or the cascaded discharge of a particle detector.<p/></li>
+
+<li>But this new information will not be indelibly recorded unless the recording apparatus can transfer entropy away from the apparatus greater than the negative entropy equivalent of the new information (to satisfy the second law of thermodynamics). This is the second requirement in every two-step <a href="/introduction/creation/">creation of new information in the universe</a>.<p/></li>
+
+<li>
+<div style="float:left;margin:10px;">
+<iframe title="YouTube video player" class="youtube-player" type="text/html" src="http://www.youtube.com/embed/Q73uJ8WlY_E" allowfullscreen="" frameborder="0" height="195" width="240"></iframe>
+</div>
+<p/>
+The new information could be <i>useful</i> (it is negative entropy) to an information processing system, for example, a biological cell like a brain neuron. 
+
+<p/>
+The collision of a sodium ion (Na+) with a sodium/potassium pump (an ion channel) in the cell wall could result in the sodium ion being transported outside the cell, resetting conditions for the next firing of the neuron's action potential, for example.<p/></li>
+
+<li>
+<div class="clearBoth"></div>
+<p/>
+The new information could be <i>meaningful</i> to an information processing <i>agent</i> who could not only <i>observe</i> it but <i>understand it</i>. Now neurons would fire in the mind of the conscious observer that <a href="/solutions/scientists/neumann/">John von Neumann</a> and <a href="/solutions/scientists/wigner/">Eugene Wigner</a> thought was <a href="/freedom/necessity.html">necessary</a> for the measurement process to occur at all.
+<p/>
+Von Neumann (perhaps influenced by the mystical thoughts of <a href="/solutions/scientists/bohr/">Neils Bohr</a> about mind and body as examples of his "complementarity.") saw three levels in a measurement; 
+<ol type="I">
+<li>the system to be observed, including light up to the retina of the observer.</li>
+<li>the observer's retina, nerve tracts, and brain</li>
+<li>the observer's abstract "ego."</li>
+</ol> 
+<p/></li>
+
+<li>
+<div style="float:right;margin:10px;">
+<img src="/solutions/scientists/bell/Bell_Shifty_Split_Information.png" height="300">
+</div>
+<p/>
+<a href="/solutions/scientists/bell/">John Bell</a> asked tongue-in-cheek whether no wave function could collapse until a scientist with a Ph.D. was there to observe it. He drew a famous diagram of what he called von Neumann's "shifty split." 
+<p/>
+Bell shows that one could place the arbitrary "cut" (Heisenberg called it the "<i>Schnitt</i>") at various levels without making any difference. 
+<p/>
+But an "objective" observer-independent measurement process ends when irreversible new information has been indelibly recorded (in the photographic plate of Bell's drawing).  
+<p/>
+Von Neumann's physical and mental levels are better discussed as the <a href="/problems/mind-body/">mind-body problem</a>, not the measurement problem.<p/></li>
+</ul>
+<p/>
+<div class="clearBoth"></div>
+<div class="sectiontitle">
+The Measurement Problem
+</div>
+<p/>
+So what exactly is the "measurement problem?"
+<p/>
+For decoherence theorists, the unitary transformation of the Schrödinger equation cannot alter a superposition of microscopic states. Why then, when microscopic states are time evolved into macroscopic ones, don't macroscopic superpositions emerge? According to H. D. Zeh:
+<blockquote>
+Because of the dynamical superposition principle, an initial superposition <br/><font size="+2">Σ</font> c<sub>n</sub> | n > does not lead to definite pointer positions (with their empirically observed frequencies). If decoherence is neglected, one obtains their <i>entangled superposition</i> <font size="+2">Σ</font> c<sub>n</sub> | n > | Φ<sub>n</sub> >, that is, a state that is different from all potential measurement outcomes. <!-- This dilemma represents the "quantum measurement problem" to be discussed in Sect. 2.3. Von Neumann's interaction is nonetheless regarded as the first step of a measurement (a "pre-measurement"). Yet, a collapse seems still to be required - now in the measurement device rather than in the microscopic system. Because of the entanglement between system and apparatus, it would then affect the total
+system.-->
+<blockquote>
+<div class="breadcrumbs">
+(<i>Decoherence and the Appearance of a Classical World in Quantum Theory</i>, p.20)
+</div>
+</blockquote>
+</blockquote>
+<p/>
+And according to Erich Joos, another founder of decoherence:
+<blockquote>
+It remains unexplained why macro-objects come only in narrow wave packets, even though the superposition principle allows far more "nonclassical" states (while micro-objects are usually found in energy eigenstates). Measurement-like processes would <i>necessarily</i> produce nonclassical macroscopic states as a consequence of the unitary Schrödinger dynamics.
+An example is the infamous <a href="/solutions/experiments/schrodingerscat/">Schrödinger cat</a>, steered into a superposition of "alive" and "dead". 
+<blockquote>
+<div class="breadcrumbs">
+(<i>Decoherence and the Appearance of a Classical World in Quantum Theory</i>, p.2)
+</div>
+</blockquote>
+</blockquote>
+
+<p/>
+The fact that we don't see superpositions of macroscopic objects <i>is</i> the "measurement problem," according to Zeh and Joos.
+<p/>
+An additional problem is that decoherence is a completely unitary process (Schrödinger dynamics) which implies time reversibility. What then do decoherence theorists see as the origin of <a href="/problems/reversibility/">irreversibility</a>? Can we time reverse the decoherence process and see the quantum-to-classical transition reverse itself and recover the original coherent quantum world?
+<p>
+To "relocalize" the superposition of the original system, we need only have complete control over the environmental interaction. This is of course not practical, just as <a href="/solutions/scientists/boltzmann/">Ludwig Boltzmann</a> found in the case of <a href="/solutions/scientists/loschmidt/">Josef Loschmidt</a>'s reversibility objection.  
+<p/>
+Does irreversibility in decoherence have the same rationale - "not possible for all practical purposes" - as in classical statistical mechanics? 
+<p/>
+According to more conventional thinkers, the measurement problem is the failure of the standard quantum mechanical formalism (Schrödinger equation) to completely describe the nonunitary "collapse" process. Since the collapse is irreducibly <a href="/freedom/indeterminism.html">indeterministic</a>, the time of the collapse is completely unpredictable and unknowable. Indeterministic quantum jumps are one of the defining characteristics of quantum mechanics, both the "old" quantum theory, where Bohr wanted radiation to be emitted and absorbed discontinuously when his atom jumpped between staionary states, and the modern standard theory with the Born-Jordan-Heisenberg-Dirac "projection postulate." 
+<p/>
+To add new terms to the Schrödinger equation in order to control the time of collapse is to misunderstand the irreducible <a href="/freedom/chance.html">chance</a> at the heart of quantum mechanics, as first seen clearly, in 1917, by <a href="/solutions/scientists/einstein/">Albert Einstein</a>. When he derived his A and B coefficients for the emission and absorption of radiation, he found that an outgoing light particle must impart momentum <i>hν/c</i> to the atom or molecule, but the direction of the momentum can not be predicted! Neither can the theory predict the time when the light quantum will be emitted. 
+<p/>
+Such a random time was not unknown to physics. When Ernest Rutherford derived the law for radioactive decay of unstable atomic nuclei in 1900, he could only give the probability of decay time. Einstein saw the connection with radiation emission:
+<p/><blockquote>
+It speaks in favor of the theory that the statistical law assumed for [spontaneous] emission is nothing but the Rutherford law of radioactive decay. 
+<blockquote>
+<div class="breadcrumbs">
+(Abraham Pais," <i>"Subtle is the Lord..."</i>, p.411)
+</div>
+</blockquote>
+</blockquote>
+But the inability to predict both the time and direction of light particle emissions, said Einstein in 1917, is "a weakness in the theory..., that it leaves time and direction of elementary processes to <a href="/freedom/chance.html">chance</a> (<i>Zufall, ibid.</i>)." It is only a weakness for Einstein, of course, because his God does not play dice. Decoherence theorists too appear to have what <a href="/solutions/philosophers/james/">William James</a> called an "antipathy to chance."
+<p/>
+<hr/>
+<p/>
+In the original "old" quantum mechanics, <a href="/solutions/scientists/bohr/">Neils Bohr</a> made two assumptions. One was that atoms could only be found in what he called stationary energy states, later called eigenstates. The second was that the observed spectral lines were discontinuous sudden transitions of the atom between the states. The emission or absorption of quanta of light with energy equal to the energy difference between the states (or energy levels) with frequency ν was given by the formula
+
+<div align="center">
+E<sub>2</sub> - E<sub>1</sub> = <i>h</i> ν,
+</div>    
+<p/>
+where <i>h</i> is Planck's constant, derived from his radiation law that quantized the allowed values of energy.
+<p/>
+In the now standard quantum theory, formulated by <a href="/solutions/scientists/heisenberg/">Werner Heisenberg</a>, <a href="/solutions/scientists/born/">Max Born</a>, <a href="/solutions/scientists/jordan/">Pascual Jordan</a>, <a href="/solutions/scientists/schrodinger/">Erwin Schrödinger</a>, <a href="/solutions/scientists/dirac/">Paul Dirac</a>, and others, three foundational assumptions were made: the <i>principle of superposition</i>, the <i>axiom of measurement</i>, and the <i>projection postulate</i>. Since decoherence challenges some of these ideas, we review the standard definitions.
+<p/>
+<div class="sectiontitle">
+The Principle of Superposition 
+</div> 
+The fundamental equation of motion in quantum mechanics is Schrödinger's famous wave equation that describes the evolution in time of his wave function ψ, 
+<p/>
+<div align="center">
+<i>i</i> δψ/δt - <i>H</i>ψ.
+</div>    
+<p/>
+For a single particle in idealized complete isolation, and for a Hamiltonian <i>H</i> that does not involve magnetic fields, the Schrödinger equation is a unitary transformation that is time-reversible (the principle of microscopic <a href="/problems/reversibility/">reversibility</a>)
+<p/>
+Max Born interpreted the square of the absolute value of Schrödinger's wave
+function as providing the probability of finding a quantum system in a certain
+state ψ<sub>n</sub>. 
+<p/>
+The quantum (discrete) nature of physical systems results from there generally
+being a large number of solutions ψ<sub>n</sub> (called eigenfunctions) of the Schrödinger equation in
+its time independent form, with energy eigenvalues E<sub>n</sub>.
+<div align="center">
+<i>H</i>ψ<sub>n</sub> = E<sub>n</sub>ψ<sub>n</sub>,
+</div>    
+<p/>
+The discrete energy eigenvalues E<sub>n</sub> limit interactions (for example, with 
+photons) to the energy differences E<sub>n</sub> - E<sub>m</sub>, as assumed by Bohr. Eigenfunctions
+ψ<sub>n</sub> are orthogonal to one another,
+<div align="center">
+&lt; ψ<sub>n</sub> | ψ<sub>m</sub> > = δ<sub>nm</sub>,
+</div>    
+<p/>
+where δ<sub>nm</sub> is the Dirac delta-function, equal to 1 when <i>n</i> = <i>m</i>, and 0 otherwise. The sum of the diagonal terms in the matrix &lt; ψ<sub>n</sub> | ψ<sub>m</sub> >, when <i>n</i> = <i>m</i>, must be normalized to 1 to be meaningful as Born rule probabilities.
+<p/>
+<div align="center">
+<font size="+2">Σ</font> P<sub>n</sub> = <font size="+2">Σ</font> &lt; ψ<sub>n</sub> | ψ<sub>n</sub> ><sup>2</sup>  = 1.
+</div>    
+<p/>
+The off-diagonal terms in the matrix, &lt; ψ<sub>n</sub> | ψ<sub>m</sub> >, are interpretable as interference terms. When the matrix is used to calculate the expectation values of some quantum mechanical operator <font size="+1">O</font>, the off-diagonal terms  &lt; ψ<sub>n</sub> | <font size="+1">O</font> | ψ<sub>m</sub> > are interpretable as transition probabilities - the likelihood that the operator <font size="+1">O</font> will induce a transition from state ψ<sub>n</sub> to ψ<sub>m</sub>.
+<p/>
+The Schrödinger equation is a linear equation. It has no quadratic or higher power terms, and this introduces a profound - and for many scientists and philosophers a disturbing - feature of quantum mechanics, one that is impossible in classical physics, namely the principle of superposition of quantum states. If  ψ<sub>a</sub> and ψ<sub>b</sub> are both solutions of the equation, then an arbitrary linear combination of these, ψ = c<sub>a</sub>ψ<sub>a</sub> + c<sub>b</sub>ψ<sub>b</sub>; with complex coefficients c<sub>a</sub> and c<sub>b</sub>, is also a solution.
+<p/>
+Together with Born's probabilistic interpretation of the wave function, the principle of superposition accounts for the major mysteries of quantum theory, some of which we hope to resolve, or at least reduce, with an objective (observer-independent) explanation of information creation during quantum processes (which can often be interpreted as measurements).
+<p/>
+<div class="sectiontitle">
+The Axiom of Measurement 
+</div> 
+<p/>
+The axiom of measurement depends on the idea of "observables," physical quantities that can be measured in experiments. A physical observable is represented as a Hermitean operator A that is self-adjoint (equal to its complex conjugate, A<sup>*</sup> = A). The diagonal elements <br/>&lt; ψ<sub>n</sub> | <font size="+1">A</font> | ψ<sub>n</sub> > of the operator's matrix are interpreted as giving the expectation value for A<sub>n</sub> (when we make a measurement). The off-diagonal <i>n</i>, <i>m</i> elements describe the uniquely quantum property of interference between wave functions and provide a measure of the probabilities for transitions between states <i>n</i> and <i>m</i>.
+<p/>
+It is these intrinsic quantum probabilities that provide the ultimate source of
+<a href="/freedom/indeterminism.html">indeterminism</a>, and consequently of irreducible <a href="/problems/reversibility/">irreversibility</a>, as we shall see. The axiom of measurement is then that a large number of measurements of the
+observable A, known to have eigenvalues A<sub>n</sub>, will result in the number of measurements
+with value A<sub>n</sub> being proportional to the probability of finding the system in eigenstate ψ<sub>n</sub> with eigenvalue A<sub>n</sub>.
+<p/>
+<div class="sectiontitle">
+The Projection Postulate 
+</div> 
+<p/>
+The third novel idea of quantum theory is often considered the most radical. It has certainly produced some of the most radical ideas ever to appear in physics, in attempts to deny it (as the decoherence program appears to do, as do also Everett relative-state interpretations, many worlds theories, and Bohm-de Broglie pilot waves). The projection postulate is actually very simple, and arguably intuitive as well. It says that when a measurement is made, the system of interest will be found in one of the possible eigenstates of the measured observable.
+<p/>
+We have several <a href="/freedom/possibilities.html">possible alternatives</a> for eigenvalues. Measurement simply makes one of these actual, and it does so, said <a href="/solutions/scientists/born/">Max Born</a>, in proportion to the absolute square of the probability amplitude wave function ψ<sub>n</sub>. In this way, ontological chance enters physics, and it is partly this fact of quantum randomness that bothered <a href="/solutions/scientists/einstein/">Albert Einstein</a> ("God does not play dice") and Schrödinger (whose equation of motion is <a href="/freedom/determinism.html">deterministic</a>).
+<p/>
+When Einstein derived the expressions for the <a href="/freedom/probability.html">probabilities</a> of emission and absorption of photons in 1917, he lamented that the theory seemed to indicate that the direction of an emitted photon was a matter of pure chance (<i>Zufall</i>), and that the time of emission was also statistical and random, just as Rutherford had found for the time of decay of a radioactive nucleus. Einstein called it a "weakness in the theory."
+<p/>
+<div class="sectiontitle">
+What Decoherence Gets Right
+</div> 
+<p/>
+Allowing the environment to interact with a quantum system, for example by the scattering of low-energy thermal photons or high-energy cosmic rays, or by collisions with air molecules, surely will suppress quantum interference in an otherwise isolated experiment. But this is because large numbers of uncorrelated (incoherent) quantum events will "average out" and mask the quantum phenomena. It does not mean that wave functions are not collapsing. They are, at every particle interaction. 
+<p/>
+Decoherence advocates describe the environmental interaction as "monitoring" of the system by continuous "measurements."
+<p/>
+Decoherence theorists are correct that every collision between particles entangles their wave functions, at least for the short time before decoherence suppresses any coherent interference effects of that entanglement.  
+<p/>
+But in what sense is a collision a "measurement." At best, it is a "pre-measurement." <br/>
+It changes the information present in the wave functions before the collision. But the new information may not be recorded anywhere (other than being implicit in the state of the system).
+<p/>
+All interactions change the state of a system of interest, but not all leave the "pointer state" of some measuring apparatus with new information about the state of the system. 
+
+<p/>
+So environmental monitoring, in the form of continuous collisions by other particles, is changing the specific information content of both the system, the environment, and a measuring apparatus (if there is one). But if there is no recording of new information (negative entropy created locally), the system and the environment may be in thermodynamic equilibrium. 
+<p/>
+Equilibrium does not mean that decoherence monitoring of every particle is not continuing. <br/>
+It is. There is no such thing as a "closed system." Environmental interaction is always present.
+<p/>
+If a gas of particles is not already in equilibrium, they may be approaching thermal equilibrium. This happens when any non-equilibrium initial conditions (Zeh calls these a "conspiracy") are being "forgotten" by erasure of path information during collisions. Information about initial conditions is implicit in the paths of all the particles. This means that, in principle, the paths could be reversed to return to the initial, lower entropy, conditions (Loschmidt paradox). 
+<p/>
+Erasure of path information could be caused by quantum particle-particle scattering (our standard view) or by decoherence "monitoring."  How are these two related? 
+<p/>
+<div class="sectiontitle">
+The Two Steps Needed in a Measurement that Creates New Information
+</div> 
+More than the assumed collapse of the wave function (<a href="/solutions/scientists/neumann/">von Neumann</a>'s Process&nbsp;<b>1</b>, <a href="/solutions/scientists/pauli/">Pauli</a>'s measurement of the first kind) is needed. Indelibly recorded information, available for "observations" by a scientist, must also satisfy the <a href="/introduction/creation/">second requirement for the creation of new information in the universe</a>. 
+<p/>
+Everything created since the origin of the universe over ten billion years ago has involved just two fundamental physical processes that combine to form the core of all <a href="/introduction/creation/">creative processes</a>. These two steps occur whenever even a single bit of new information is created and survives in the universe.
+<p/>
+<ul>
+<li>Step 1: A quantum process - the "<a href="/solutions/experiments/wave-function_collapse/">collapse of the wave function</a>."
+<p/>
+The formation of even a single bit of information that did not previously exist requires the equivalent of a "<a href="/problems/measurement/">measurement</a>." This "measurement" does not involve a "measurer," an experimenter or observer. It happens when the <a href="/freedom/probability.html">probabilistic</a> wave function that describes the <i>possible</i> outcomes of a measurement "collapses" and a eigenstate of a matter or energy particle is <i>actually</i> changed.
+<p/>
+If the probability amplitude wave function did not collapse, unitary evolution would simply preserve the initial information. </li>
+<li>Step 2: A thermodynamic process - local reduction, but cosmic increase, in the entropy.
+<p/>
+The second law of thermodynamics requires that the overall cosmic entropy always increases. When new information is created locally in step 1, some energy (with positive entropy greater than the negative entropy of the new information) must be transferred away from the location of the new bits or they will be destroyed, if local thermodynamical equilibrium is restored. This can only happen in a locality where flows of matter and energy with low entropy are passing through, keeping it far from equilibrium.</li>
+</ul>
+<p/>
+    This two-step core creative process underlies the formation of microscopic objects like atoms and molecules, as well as macroscopic objects like galaxies, stars, and planets.
+<p/>
+    With the <a href="/knowledge/emergence.html">emergence</a> of teleonomic (purposive) information in self-replicating systems, the same core process underlies all biological creation. But now some <a href="/freedom/chance.html">random</a> changes in information structures are rejected by natural selection, while others reproduce successfully.
+<p/>
+    Finally, with the emergence of self-aware organisms and the creation of extra-biological information stored in the environment, the same information-generating core process underlies communication, <a href="/problems/consciousness/">consciousness</a>, <a href="/freedom/">free will</a>, and <a href="/freedom/creativity.html">creativity</a>. 
+<p/>
+   The two physical processes in the creative process, quantum physics and thermodynamics, are somewhat daunting subjects for philosophers, and even for many scientists, including decoherence advocates.
+<p/>
+<div class="sectiontitle">
+Quantum Level Interactions Do Not Create Lasting Information
+</div> 
+<p/>
+The overwhelming number of collisions of microscopic particles like electrons, photons, atoms, molecules, etc, do not result in observable information about the collisions. The lack of observations and observers does not mean that there have been no "collapses" of wave functions. The idea that the time evolution of the deterministic Schrödinger equation continues forever in a unitary transformation that leaves the wave function of the whole universe undecided and in principle reversible at any time, is an absurd and unjustified extrapolation from the behavior of the ideal case of a single perfectly isolated particle.
+<p/>
+The <i>principle of microscopic <a href="/problems/reversibility/">reversibility</a></i> applies only to such an isolated particle, something unrealizable in nature, as the decoherence advocates know with their addition of environmental "monitoring." Experimental physicists can isolate systems from the environment enough to "see" the quantum interference (but again, only in the statistical results of large numbers of identical experiments). 
+<p/>
+<div class="sectiontitle">
+The <a href="/knowledge/emergence.html">Emergence</a> of the Classical World
+</div>
+In the standard quantum view, the <a href="/knowledge/emergence.html">emergence</a> of macroscopic objects with classical behavior arises statistically for two reasons involving large numbers:
+<ol>
+<li>The law of large numbers (from probability and statistics)<p/>
+<ul>
+<li>When a large number of material particles is aggregated, properties emerge that are not seen in individual microscopic particles. These properties include ponderable mass, solidity, classical laws of motion, gravity orbits, etc.
+</li>
+<li>When a large number of quanta of energy (photons) are aggregated, properties emerge that are not seen in individual light quanta. These properties include continuous radiation fields with wavelike interference.<p/>
+</li>
+</ul></li>
+<li>The law of large quantum numbers (Bohr Correspondence Principle).</li>
+</ol>
+<a name="interpretation"></a>
+ 
+<div class="sectiontitle">Decoherence as "Interpreted" by Standard Quantum Mechanics</div>
+Can we explain the following in terms of standard quantum mechanics?
+<ol>
+<li>the decoherence of quantum interference effects by the environment<p/></li>
+<li>the <a href="/problems/measurement/">measurement problem</a>, viz., the absence of macroscopic superpositions of states<p/></li>
+<li>the emergence of "classical" <a href="/freedom/adequate_determinism.html">adequately determined</a> macroscopic objects<p/></li>
+<li>the logical compatibility and consistency of two dynamical laws - the unitary transformation and the <a href="/solutions/experiments/wave-function_collapse/">"collapse" of the wave function</a><p/></li>
+<li>the entanglement of "distant" particles and the appearance of "nonlocal" effects such as those in the <a href="/solutions/experiments/EPR/">Einstein-Podolsky-Rosen experiment</a><p/></li>
+</ol>
+<p/>
+Let's consider these point by point.
+<p/>
+<ol>
+<li>The standard explanation for the decoherence of quantum interference effects by the environment is that when a quantum system interacts with the very large number of quantum systems in a macroscopic object, the averaging over independent phases cancels out (decoheres) coherent interference effects. 
+<p/>
+</li>
+<li>In order to study interference effects, a quantum system is isolated from the environment as much as possible. Even then, note that microscopic interference is never "seen" directly by an observer. It is inferred from <i>probabilistic</i> theories that explain the <i>statistical</i> results of many identical experiments. Individual particles are never "seen" as superpositions of particles in different states. When a particle is seen, it is always the whole particle and nothing but the particle. The absence of macroscopic superpositions of states, such as the infamous linear superposition of live and dead <a href="/solutions/experiments/schrodingerscat/">Schrödinger Cats</a>, is therefore no surprise.<p/></li>
+
+<li>The standard quantum-mechanical explanation for the emergence of "classical" <a href="/freedom/adequate_determinism.html">adequately determined</a> macroscopic objects is that they result from a combination of a) Bohr's <i>correspondence principle</i> in the case of large quantum numbers. together with b) the familiar law of large numbers in probability theory, and c) the averaging over the phases described in point 1. Heisenberg <a href="freedom/indeterminacy.html">indeterminacy</a> relations still apply, but the individual particles' indeterminacies average out, and the remaining macroscopic indeterminacy is practically unmeasurable.<p/></li>
+
+<li>Perhaps the two dynamical laws would be inconsistent if applied to the same thing at exactly the same time. But the <a href="/solutions/experiments/wave-function_collapse/">"collapse" of the wave function</a> (<a href="/solutions/scientists/neumann/">von Neumann</a>'s Process&nbsp;<b>1</b>, <a href="/solutions/scientists/pauli/">Pauli</a>'s measurement of the first kind) and the unitary transformation that describes the deterministic evolution of the probability amplitude wave function (<a href="/solutions/scientists/neumann/">von Neumann</a>'s Process <b>2</b>) are used in a temporal sequence. 
+<p/>
+<div class="linksRight" style="width:150px;">
+When you hear or read that electrons are <i>both</i> waves and particles, think "<i>either-or</i>" - <br/>
+first a wave of <i>possibilities</i>, then an <i>actual</i> particle.
+</div>
+The first process describes what happens when quantum systems interact, in a collision or a measurement, when they become indeterministically entangled. The second then describes their deterministic evolution (while isolated) along their mean free paths to the next collision or interaction. One dynamical law applies to the particle picture, the other to the wave picture.<p/></li>
+
+<li>
+<a name="two-particle"></a>
+
+The paradoxical appearance of <a href="/problems/nonlocality/">nonlocal</a> "influences" of one particle on an entangled distant particle, at velocities greater than light speed, are a consequence of a poor understanding of both the wave and particle aspects of quantum systems. The confusion usually begins with a statement such as "consider a particle A here and a distant particle B there." When entangled in a two-particle probability amplitude wave function, the two identical particles are "neither here nor there," just as the single particle in a <a href="/solutions/experiments/two-slit_experiment_cat/">two-slit experiment</a> does not "go through" the slits. 
+<p/>
+It is the single-particle probability amplitude wave that must "go through" both slits if it is to interfere. For a two-particle probability amplitude wave that starts its deterministic time evolution when the two identical particles are produced, it is only the probability of finding the particles that evolves according to the unitary transformation of the Schrödinger wave equation. It says nothing about where the particles "are."
+<p/>
+Now if and when a particle is measured somewhere, we can then label it particle A. Conservation of energy and momentum tell us immediately that the other identical particle is now symmetrically located on the other side of the central source of particles. If the particles are electrons (as in <a href="/solutions/scientists/bohm/">David Bohm</a>'s version of EPR), conservation of spin tells us that the now distant particle B must have its spin opposite to that of particle A is they were produced with a total spin of zero. 
+<p/>
+Nothing is sent from particle A to B. The deduced properties are the consequence of conservation laws that are true for much deeper reasons than the puzzles of nonlocal entanglement. The mysterious instantaneous values for the properties is exactly the same mystery that bothered Einstein about a single-particle wave function having values all over a photographic screen at one instant, then having values only at the position of the located particle in the next instant, apparently violating special relativity.
+<p/>
+Animation of a two-particle wave function collapsing - <a href="" onClick="document.images.collapse.src=document.images.collapse.src;return false">click to restart</a>
+</div>
+
+<div align="center">
+
+<img align="center" id="collapse" src="/solutions/experiments/EPR/EPR-collapse.gif" width="480">
+<p/>
+</div>
+<blockquote>
+Compare the collapse of the two-particle probability amplitude above to the <a href="/solutions/experiments/wave-function_collapse/">single-particle collapse here</a>.
+</blockquote>
+</li>
+</ol>
+<p/>
+
+<p/>
+To summarize: Decoherence by interactions with environment can be explained perfectly by multiple <a href="/solutions/experiments/wave-function_collapse/">"collapses" of the probability amplitude wave function</a> during interactions with environment particles. Microscopic interference is never "seen" directly by an observer, therefore we do not expect ever to "see" macroscopic superpositions of live and dead cats. The "transition from quantum to classical" systems is the consequence of laws of large numbers. The quantum dynamical laws necessarily include two phases, one needed to describe the continuous deterministic motions of probability amplitude waves and the other the discontinuous indeterministic motions of physical particles. The mysteries of nonlocality and entanglement are no different from those of standard quantum mechanics as seen in the two-slit experiment. It is just that we now have <i>two</i> identical particles and their wave functions are <a href="/problems/nonseparability/">nonseparable</a> .
+</div>
+
+
+    <div class="reader_level_1">
+     <div class="sectiontitle">For Teachers</div>
+     <div class="breadcrumbs">To hide this material, click on the Normal link.</div>
+     <a href="http://plato.stanford.edu/entries/qm-decoherence/">The Role of Decoherence in Quantum Mechanics, Stanford Encyclopedia of Philosophy</a>
+     <div class="bodytext">
+    
+     </div>
+
+    </div>
+
+    <div class="reader_level_2">
+     <div class="sectiontitle">For Scholars</div>
+     <div class="breadcrumbs">To hide this material, click on the Teacher or Normal link.</div>
+
+     <div class="bodytext">
+
+     </div>
+
+    </div>
+
+    <hr color="#CCCCEE">
+        <table class="footernav" width="100%">
+      <tbody>
+        <tr>
+          <td align="left"><a href="/value/ergod/"><img border="0" align="bottom" src="/images/ArrowLeft.gif" /></a> <a href="/value/ergod/">Chapter 3.7 - The Ergod</a> </td> 
+          <td align="right"><a href="/knowledge/history/">Chapter 4.2 - The History of the Knowledge Problem</a> <a href="/knowledge/history/"><img src="/images/ArrowRight.gif" border="0"></a></td>
+        </tr>
+        <tr>
+          <td align="left"><a href="/value/"><img border="0" align="bottom" src="/images/ArrowLeft.gif" /></a> <a href="/value/">Part Three - Value</a> </td> 
+          <td align="right"><a href="/problems/">Part Five - Problems</a> <a href="/problems/"><img src="/images/ArrowRight.gif" border="0"></a></td>
+        </tr>
+      </tbody>
+    </table>
+
+
+<div id="skyFooter2485" class="skyFooter">
+
+<script type="text/javascript" language="javascript">
+document.onclick = fDocumentOnClick;
+document.ondblclick = fDocumentOnDblClick;
+document.onkeypress = fDocumentOnKeyPress;
+document.onmouseover = fSkyWritableOver;
+</script>
+<div class="skyFooterText">
+</div>
+
+</div>
+
+		<!-- 
+		     server side readerlevel control links
+		     <a id="reader_level_0_link" href="?ReaderLevel=0">0</a> | <a id="reader_level_1_link" href="?ReaderLevel=1">1</a> | <a id="reader_level_2_link" href="?ReaderLevel=2">2</a>
+		     -->
+		<!-- client side readerlevel control links -->
+		<a id="reader_level_0_link" href="" onclick="fSetReaderLevel(0); return false;">Normal</a> | <a id="reader_level_1_link" href="" onclick="fSetReaderLevel(1); return false;">Teacher</a> | <a id="reader_level_2_link" href="" onclick="fSetReaderLevel(2); return false;">Scholar</a>
+	      </div>
+	    </div>
+	    <!-- end column23 -->
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    
+            
+    
+    <!-- stop index links -->
+    <div style="clear:both"></div>
+    <!-- suppresses blue main-menu background repeating down the whole page in mozilla -->
+    </div>
+    <!-- end content-wrapper -->
+    <!-- 
+    when serializing the footer, pull everything above this line out into the includer so that the skyInclude div won't get crossed with content-wrapper
+    dtd 
+    -->
+    
+    <div id="footer">
+    <a href="http://www.informationphilosopher.com/introduction/contact.html">Contact Us</a><a href="http://www.informationphilosopher.com/site/map/">Site Map</a>  <a href="http://www.skybuilders.com">Powered by skyBuilders <img class="cc" src="/images/nanoSky.gif" alt="skyBuilders.com" border="0"></a> <a rel="license" href="http://creativecommons.org/licenses/by/3.0"  title="Creative Commons Attribution License">Creative Commons Attribution License <img class="cc" alt="Creative Commons Attribution License" src="/images/CC.png" border="0"></a>
+    </div>
+
+    </body>
+</html>
+

@@ -1,0 +1,11 @@
+# 300 Multiple Choices
+
+**source:** html · **section:** introduction
+**file:** interpretations
+---
+
+Multiple Choices
+The document name you requested (/introduction/physics/interpretations.html) could not be found on this server.
+However, we found documents with names similar to the one you requested.Available documents:
+/introduction/physics/interpretations (common basename)
+Please consider informing the owner of the referring page http://www.informationphilosopher.com/quantum/copenhagen/ about the broken link.

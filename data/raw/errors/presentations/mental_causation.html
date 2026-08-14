@@ -1,0 +1,1328 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+  <head>
+<meta name="generator" content="skyBuilders.com timeLines">
+<link rel="stylesheet" href="https://www.informationphilosopher.com/timelines/PageFooter.css"><script type="text/javascript" language="javascript"><!-- 
+if (typeof SymRealWinOpen == 'function') {
+window.open = SymRealWinOpen;
+}
+//--></script>
+
+<script type="text/javascript" language="javascript">
+var sPageSeriesName = "mental_causation.html";
+var sRequestedFileName = "mental_causation.1.en.html";
+var sSkyPageID = "2340";
+function mSkyWrite() {
+window.open('/timelines/index.html?skyWrite=True&UserID=3&chosenLocaleCode=en&PageSeriesID=1485&PageID=2340&DirPath=%2Fpresentations%2FMilan%2Fpapers%2F', '_blank', 'resizable,menubar,location,toolbar,scrollbars,status,height=600,width=832,left=250,top=50', true);
+}
+var sCurrentlyOverDocument = 1;
+
+function fGetPagePos(oElement, sDimension) {
+  var sPagePos;
+  
+  if (! (oElement = document.getElementById(oElement))) {
+    return 0;
+  }
+  
+  sPagePos = 0;
+  
+  // alert(oElement);
+  while (oElement) {
+    if (typeof(oElement['offset' + sDimension]) != 'undefined') {
+      sPagePos += oElement['offset' + sDimension];
+    }
+    // alert(typeof oElement.offsetParent);
+    if (typeof(oElement.offsetParent) != 'undefined') {
+      oElement = oElement.offsetParent;
+    } else {
+      oElement = null;
+    }
+  }
+  
+  return sPagePos;
+}
+
+function fSkyWritableOver(sDivID, oEvent) {
+  var oDiv;
+  
+  if (oEvent) {
+    sElement = (oEvent.target) ? oEvent.target : oEvent.srcElement;
+    if ((sElement.id == 'skyIncludeEditablePencilImg') || (sElement.id == 'skyIncludeEditableCornerImg')){
+      window.status = 'click to edit';
+    }
+  }
+  
+  // alert(typeof sDivID);
+  if (typeof sDivID == 'string') {
+    sCurrentlyOverDocument = 0;
+    oDiv = document.getElementById(sDivID);
+    oPencil = document.getElementById('skyIncludeEditablePencil');
+    oCorner = document.getElementById('skyIncludeEditableCorner');
+    // sDivTop = oDiv.offsetTop;
+    sDivTop = fGetPagePos(sDivID, 'Top');
+    sDivLeft = fGetPagePos(sDivID, 'Left');
+    sDivWidth = oDiv.offsetWidth;
+    sDivHeight = oDiv.offsetHeight;
+    // alert('div: ' + sDivTop);
+    // alert(sDivWidth);
+    
+    oPencil.style.top = sDivTop + 'px';
+    oPencil.style.left = (sDivLeft + sDivWidth - 21) + 'px';
+    oCorner.style.top = (sDivTop + sDivHeight - 11) + 'px';
+    oCorner.style.left = sDivLeft + 'px';
+    // oSkyIncludeEditable.style.height = '0px';
+    // oSkyIncludeEditable.style.border = '#0000ff dashed 1px';
+    oPencil.style.width = '21px';
+    oPencil.style.height = '19px';
+    oPencil.style.zIndex = '101';
+    oPencil.onmouseover = oDiv.onmouseover;
+    oPencil.onmouseout = oDiv.onmouseout;
+    oPencil.onclick = oDiv.onclick;
+    oCorner.style.width = '10px';
+    oCorner.style.height = '9px';
+    oCorner.style.zIndex = '101';
+    oCorner.onmouseover = oDiv.onmouseover;
+    oCorner.onmouseout = oDiv.onmouseout;
+    oCorner.onclick = oDiv.onclick;
+    // oSkyIncludeEditable.style.display = 'block';
+    
+    // sSkyIncludeEditableTop = oSkyIncludeEditable.style.top;
+    // alert('skyinclude: ' + sSkyIncludeEditableTop);
+    
+    if (0) {
+      oDiv.style.borderWidth = '1px';
+      oDiv.style.borderStyle = 'dashed';
+      oDiv.style.borderColor = '#0000ff';
+    }
+  } else {
+    // sCurrentlyOverDocument = 1;
+  }
+}
+
+function fSkyWritableOut(sDivID) {
+  var oDiv;
+  
+  window.status = '';
+  
+  if (typeof sDivID == 'string') {
+    sCurrentlyOverDocument = 1;
+    // oDiv = document.getElementById(sDivID);
+    // doesn't work in IE: oDiv.style.border = '1px solid transparent';
+    // document.getElementById('skyIncludeEditable').style.display = 'none';
+    document.getElementById('skyIncludeEditablePencil').style.zIndex = '-1';
+    document.getElementById('skyIncludeEditablePencil').style.top = '-100';
+    document.getElementById('skyIncludeEditableCorner').style.zIndex = '-1';
+    document.getElementById('skyIncludeEditableCorner').style.top = '-100';
+    // oDiv.style.border = '1px solid #ffffff';
+  }
+}
+
+function fDocumentOnClick(oEvent) {
+  // alert(sCurrentlyOverDocument);
+  // if (0) {
+  if (sCurrentlyOverDocument == 1) {
+    fSkyWriteInclude(1485, 2340, '/presentations/Milan/papers/', oEvent);
+  }
+}
+
+function fAsOfNow() {
+  document.cookie = 'as_of=; path=/; domain=informationphilosopher.com';
+  document.location.href = '?@=now';
+}
+
+function fSubmitAsOfForm() {
+  oYearInput = document.getElementById('as_of_year');
+  oMonthInput = document.getElementById('as_of_month');
+  oDayInput = document.getElementById('as_of_day');
+  oHourInput = document.getElementById('as_of_hour');
+  oMinuteInput = document.getElementById('as_of_minute');
+  oSecondInput = document.getElementById('as_of_second');
+
+  sAsOf = oYearInput.value + '-' + oMonthInput.value + '-' + oDayInput.value + 'T' + oHourInput.value + ':' + oMinuteInput.value + ':' + oSecondInput.value;
+  document.location.href = '?@=' + sAsOf;
+}
+
+var aAsOfInputs = [
+  'as_of_year',
+  'as_of_month',
+  'as_of_day',
+  'as_of_hour',
+  'as_of_minute',
+  'as_of_second',
+];
+
+function fAsOfOnKeyUp(e) {
+  // Handle the Enter key
+  if (e.key == 'Enter') {
+     fSubmitAsOfForm();
+  }
+}
+
+function fAsOfOnInput(e) {
+  fAsOfNextInput(e.target);
+}
+
+function fAsOfNextInput(oInput) {
+  // Handle giving focus to the next input when this one is at max length
+  sMaxLen = String(oInput.max +'').length;
+
+  if (oInput.value.length == sMaxLen) {
+     // Find which input, if any, is next in the sequence
+     sNextIndex = aAsOfInputs.indexOf(oInput.id) + 1;
+     if (sNextIndex < aAsOfInputs.length) {
+     	oNext = document.getElementById(aAsOfInputs[sNextIndex]);
+	oNext.focus();
+	oNext.select();
+     }
+  }
+}
+
+function fDismissAsOfForm() {
+  var oDiv = document.getElementById('as_of_div');
+  if (oDiv) {
+    oDiv.style.display = 'none';
+  }
+}
+
+function fOpenAsOfForm() {
+  var oDiv = document.getElementById('as_of_div');
+  if (oDiv) {
+    oDisplaySpan = document.getElementById('as_of_display');
+    oYearInput = document.getElementById('as_of_year');
+    oMonthInput = document.getElementById('as_of_month');
+    oDayInput = document.getElementById('as_of_day');
+    oHourInput = document.getElementById('as_of_hour');
+    oMinuteInput = document.getElementById('as_of_minute');
+    oSecondInput = document.getElementById('as_of_second');
+  } else {
+    var oDiv = document.createElement('div');
+    oDiv.id = 'as_of_div';
+
+    var oForm = document.createElement('form');
+    oForm.style = 'margin-block-end: 0;';
+    oForm.id = 'as_of_form';
+    oForm.name = 'as_of_form';
+    oForm.onsubmit = fSubmitAsOfForm;
+    oDiv.appendChild(oForm);
+
+    var oGrid = document.createElement('div');
+    oGrid.style = 'display: grid; grid-template-columns: max-content min-content min-content min-content min-content min-content 1fr;';
+    oGrid.ondblclick = null;
+    oForm.appendChild(oGrid);
+
+    var oHeader = document.createElement('div');
+    oHeader.style = 'grid-column: 1; grid-row: 1; margin-top: 7px; padding-right: 5px;';
+    oHeader.appendChild(document.createTextNode('Showing page as of '));
+    oDisplaySpan = document.createElement('span');
+    oDisplaySpan.id = 'as_of_display';
+    oHeader.appendChild(oDisplaySpan)
+    oHeader.appendChild(document.createTextNode('. Choose date and time:'));
+    oGrid.appendChild(oHeader);
+
+    var oYearDiv = document.createElement('div');
+    oYearDiv.className = 'as_of_input_div';
+    oYearDiv.style = 'grid-column: 2; grid-row: 1;';
+    oGrid.appendChild(oYearDiv);
+
+    var oYearInput = document.createElement('input');
+    oYearInput.id = 'as_of_year';
+    oYearInput.type = 'number';
+    oYearInput.min = 1970;
+    oYearInput.max = 9999;
+    oYearInput.oninput = fAsOfOnInput;
+    oYearInput.onkeyup = fAsOfOnKeyUp;
+    oYearDiv.appendChild(oYearInput);
+
+    oYearDiv.appendChild(document.createTextNode('-'));
+
+    var oMonthDiv = document.createElement('div');
+    oMonthDiv.className = 'as_of_input_div';
+    oMonthDiv.style = 'grid-column: 3; grid-row: 1;';
+    oGrid.appendChild(oMonthDiv);
+
+    var oMonthInput = document.createElement('input');
+    oMonthInput.id = 'as_of_month';
+    oMonthInput.type = 'number';
+    oMonthInput.min = 1;
+    oMonthInput.max = 12;
+    oMonthInput.oninput = fAsOfOnInput;
+    oMonthInput.onkeyup = fAsOfOnKeyUp;
+    oMonthDiv.appendChild(oMonthInput);
+
+    oMonthDiv.appendChild(document.createTextNode('-'));
+
+    var oDayDiv = document.createElement('div');
+    oDayDiv.className = 'as_of_input_div';
+    oDayDiv.style = 'grid-column: 4; grid-row: 1; padding-right: 5px';
+    oGrid.appendChild(oDayDiv);
+
+    var oDayInput = document.createElement('input');
+    oDayInput.id = 'as_of_day';
+    oDayInput.type = 'number';
+    oDayInput.min = 1;
+    oDayInput.max = 31;
+    oDayInput.oninput = fAsOfOnInput;
+    oDayInput.onkeyup = fAsOfOnKeyUp;
+    oDayDiv.appendChild(oDayInput);
+
+    var oHourDiv = document.createElement('div');
+    oHourDiv.className = 'as_of_input_div';
+    oHourDiv.style = 'grid-column: 5; grid-row: 1;';
+    oGrid.appendChild(oHourDiv);
+
+    var oHourInput = document.createElement('input');
+    oHourInput.id = 'as_of_hour';
+    oHourInput.type = 'number';
+    oHourInput.min = 0;
+    oHourInput.max = 23;
+    oHourInput.oninput = fAsOfOnInput;
+    oHourInput.onkeyup = fAsOfOnKeyUp;
+    oHourDiv.appendChild(oHourInput);
+
+    oHourDiv.appendChild(document.createTextNode(':'));
+
+    var oMinuteDiv = document.createElement('div');
+    oMinuteDiv.className = 'as_of_input_div';
+    oMinuteDiv.style = 'grid-column: 6; grid-row: 1;';
+    oGrid.appendChild(oMinuteDiv);
+
+    var oMinuteInput = document.createElement('input');
+    oMinuteInput.id = 'as_of_minute';
+    oMinuteInput.type = 'number';
+    oMinuteInput.min = 0;
+    oMinuteInput.max = 59;
+    oMinuteInput.oninput = fAsOfOnInput;
+    oMinuteInput.onkeyup = fAsOfOnKeyUp;
+    oMinuteDiv.appendChild(oMinuteInput);
+
+    oMinuteDiv.appendChild(document.createTextNode(':'));
+
+    var oSecondDiv = document.createElement('div');
+    oSecondDiv.className = 'as_of_input_div';
+    oSecondDiv.style = 'grid-column: 7; grid-row: 1;';
+    oGrid.appendChild(oSecondDiv);
+
+    var oSecondInput = document.createElement('input');
+    oSecondInput.id = 'as_of_second';
+    oSecondInput.type = 'number';
+    oSecondInput.min = 0;
+    oSecondInput.max = 59;
+    oSecondInput.oninput = fAsOfOnInput;
+    oSecondInput.onkeyup = fAsOfOnKeyUp;
+    oSecondDiv.appendChild(oSecondInput);
+
+    var oSecondDiv = document.createElement('div');
+    oSecondDiv.className = 'as_of_input_div';
+    oSecondDiv.style = 'grid-column: 7; grid-row: 1;';
+    oGrid.appendChild(oSecondDiv);
+
+    var oButtonsDiv = document.createElement('div');
+    oButtonsDiv.style = 'grid-column: 8; grid-row: 1 /3; padding-top: 2px; text-align: right;';
+    oEnterButton = document.createElement('button');
+    oEnterButton.style = 'margin-bottom: 5px; margin-right: 5px;';
+    oEnterButton.onclick = fSubmitAsOfForm;
+    oEnterButton.appendChild(document.createTextNode('Enter'));
+    oButtonsDiv.appendChild(oEnterButton);
+    oNowButton = document.createElement('button');
+    oNowButton.style = 'margin-bottom: 5px;';
+    oNowButton.onclick = fAsOfNow;
+    oNowButton.appendChild(document.createTextNode('Now'));
+    oButtonsDiv.appendChild(oNowButton);
+    oButtonsDiv.appendChild(document.createElement('br'));
+    oDismissButton = document.createElement('button');
+    oDismissButton.onclick = fDismissAsOfForm;
+    oDismissButton.appendChild(document.createTextNode('Dismiss'));
+    oButtonsDiv.appendChild(oDismissButton);
+    oGrid.appendChild(oButtonsDiv);
+
+    var oErrorHeader = document.createElement('div');
+    oErrorHeader.style = 'grid-column: 1; grid-row: 2; padding-right: 5px; font-weight: bold;';
+    oErrorHeader.appendChild(document.createTextNode(''));
+    oGrid.appendChild(oErrorHeader);
+
+    var oYearLabelDiv = document.createElement('div');
+    oYearLabelDiv.className = 'as_of_label';
+    oYearLabelDiv.style = 'grid-column: 2;';
+    oGrid.appendChild(oYearLabelDiv);
+    oYearLabelDiv.appendChild(document.createTextNode('Year'));
+    oYearLabelDiv.appendChild(document.createElement('br'));
+    oYearLabelDiv.appendChild(document.createTextNode('YYYY'));
+
+    var oMonthLabelDiv = document.createElement('div');
+    oMonthLabelDiv.className = 'as_of_label';
+    oMonthLabelDiv.style = 'grid-column: 3;';
+    oGrid.appendChild(oMonthLabelDiv);
+    oMonthLabelDiv.appendChild(document.createTextNode('Month'));
+    oMonthLabelDiv.appendChild(document.createElement('br'));
+    oMonthLabelDiv.appendChild(document.createTextNode('01-12'));
+
+    var oDayLabelDiv = document.createElement('div');
+    oDayLabelDiv.className = 'as_of_label';
+    oDayLabelDiv.style = 'grid-column: 4;';
+    oGrid.appendChild(oDayLabelDiv);
+    oDayLabelDiv.appendChild(document.createTextNode('Day'));
+    oDayLabelDiv.appendChild(document.createElement('br'));
+    oDayLabelDiv.appendChild(document.createTextNode('01-31'));
+
+    var oHourLabelDiv = document.createElement('div');
+    oHourLabelDiv.className = 'as_of_label';
+    oHourLabelDiv.style = 'grid-column: 5;';
+    oGrid.appendChild(oHourLabelDiv);
+    oHourLabelDiv.appendChild(document.createTextNode('Hour'));
+    oHourLabelDiv.appendChild(document.createElement('br'));
+    oHourLabelDiv.appendChild(document.createTextNode('00-23'));
+
+    var oMinuteLabelDiv = document.createElement('div');
+    oMinuteLabelDiv.className = 'as_of_label';
+    oMinuteLabelDiv.style = 'grid-column: 6;';
+    oGrid.appendChild(oMinuteLabelDiv);
+    oMinuteLabelDiv.appendChild(document.createTextNode('Minute'));
+    oMinuteLabelDiv.appendChild(document.createElement('br'));
+    oMinuteLabelDiv.appendChild(document.createTextNode('00-59'));
+
+    var oSecondLabelDiv = document.createElement('div');
+    oSecondLabelDiv.className = 'as_of_label';
+    oSecondLabelDiv.style = 'grid-column: 7;';
+    oGrid.appendChild(oSecondLabelDiv);
+    oSecondLabelDiv.appendChild(document.createTextNode('Second'));
+    oSecondLabelDiv.appendChild(document.createElement('br'));
+    oSecondLabelDiv.appendChild(document.createTextNode('00-59'));
+
+    document.body.insertBefore(oDiv, document.body.firstChild);
+  }
+
+  oYearInput.value = '2026';
+  oMonthInput.value = '07';
+  oDayInput.value = '29';
+  oHourInput.value = '19';
+  oMinuteInput.value = '14';
+  oSecondInput.value = '36';
+
+  oDisplaySpan.innerText = oYearInput.value + '-' + oMonthInput.value + '-' + oDayInput.value + ' ' + oHourInput.value + ':' + oMinuteInput.value + ':' + oSecondInput.value;
+
+  oDiv.style.display = 'block';
+
+  oYearInput.focus();
+  oYearInput.select();
+}
+
+function fDocumentOnDblClick(oEvent) {
+  fOpenAsOfForm();
+}
+
+function fDocumentOnKeyPress(oEvent) {
+  // The @ symbol
+  if ((oEvent.shiftKey) && (oEvent.code == 'Digit2')) {
+    fOpenAsOfForm();
+  }
+}
+
+document.addEventListener('DOMContentLoaded', function(event) {
+  if ('' != '') {
+     document.cookie = 'as_of=; path=/; domain=informationphilosopher.com';
+     fOpenAsOfForm();
+  }
+});
+
+
+function fSkyWriteInclude(sPageSeriesID, sPageID, sDirPath, oEvent) {
+var sIndicatorClicked, sControlKeyPressed, sShiftKeyPressed;
+var sElement;
+
+// check for shift or control key depressed
+oEvent = (oEvent) ? oEvent : (window.event) ? window.event : ''
+
+sIndicatorClicked = 0;
+sControlKeyPressed = 0;
+sShiftKeyPressed = 0;
+if (oEvent) {
+  sModifierPressed = '';
+  
+  sElement = (oEvent.target) ? oEvent.target : oEvent.srcElement;
+  // alert(sElement.id);
+  
+  if ((sElement.id == 'skyIncludeEditablePencilImg') || (sElement.id == 'skyIncludeEditableCornerImg')){
+    sIndicatorClicked = 1;
+  }
+  
+  if (oEvent.which) {
+    if (oEvent.ctrlKey) {
+      sControlKeyPressed = 1;
+    }
+  } else {
+    if (oEvent.modifiers) {
+      if (oEvent.modifiers && oEvent.CTRL_MASK) {
+        // sControlKeyPressed = oEvent.modifiers;
+        sControlKeyPressed = 1;
+      }
+    } else {
+      if (oEvent.ctrlKey) {
+        sControlKeyPressed = 1;
+      }
+    }
+  }
+  
+  if (oEvent.which) {
+    if (oEvent.shiftKey) {
+      sShiftKeyPressed = 1;
+    }
+  } else {
+    if (oEvent.modifiers) {
+      if (oEvent.modifiers && oEvent.SHIFT_MASK) {
+        // sShiftKeyPressed = oEvent.modifiers;
+        sShiftKeyPressed = 1;
+      }
+    } else {
+      if (oEvent.shiftKey) {
+        sShiftKeyPressed = 1;
+      }
+    }
+  }
+}
+
+// if shift or control key pressed
+if ((sIndicatorClicked) || (sControlKeyPressed == 1) || (sShiftKeyPressed == 1)) {
+  // alert('pressed');
+  window.open('https://www.informationphilosopher.com/timelines/index.html?skyWrite=True&PageSeriesID=' + sPageSeriesID + '&PageID=' + sPageID + '&DirPath=' + sDirPath, '_blank', 'menubar,toolbar,location,resizable,scrollbars,status,height=600,width=832,left=250,top=50', true);
+}
+}
+    
+</script>
+    <title>Quantum Physics and the Problem of Mental Causation</title>
+	<link rel="stylesheet" href="/presentations/presentation.css"> 
+  </head>
+<body style="width:650px;">
+<div class="chaptertitle">
+<h2>Quantum Physics and the Problem of Mental Causation</h2>
+</div>
+<p/>
+<h4>
+Bob Doyle<br/>
+<a href="/">Information Philosopher</a><br/>
+Department of Astronomy<br/>
+Harvard University</h4>
+
+<blockquote>
+<div class="breadcrumbs">
+<h5>Presented at the conference "<a href="http://www.informationphilosopher.com/presentations/Milan/schedule.html">Quantum Physics Meets the Philosophy of Mind</a>," <br/>Catholic University, Milan, Italy, 6 June 2013</h5>
+</div>
+</blockquote>
+
+
+<div class="subsectiontitle" align="center">
+<b>Contents</b>
+</div>
+<ul>
+<li><a href="#information_philosophy">Information Philosophy and Physics</a></li>
+<li><a href="#three_emergences">The Three Phases or Kinds of Information Emergence</a></li>
+<li><a href="#quantum_physics">Quantum Physics</a></li>
+<li><a href="#information_interpretation">An Information "Interpretation" of Quantum Mechanics</a></li>
+<li><a href="#nonreductive_physicalism">Non-Reductive Physicalism</a></li>
+<li><a href="#downward_causation">Downward Causation</a></li>
+<li><a href="#emergent_dualism">Emergent Dualism</a></li>
+<li><a href="#consciousness_ERR">Consciousness and the Experience Recorder/Reproducer</a></li>
+<li><a href="#emergent_determinism">Determinism Itself Is Emergent</a></li>
+<li><a href="#information_entropy_evolution">Information, Entropy, and Evolution</a></li>
+<li><a href="#note_on_free_will">A Note on Free Will</a></li>
+<li><a href="#information_and_value">Information and Objective Value</a></li>
+<li><a href="/presentations/Milan/mental_causation/index2.html">Slides</a></li>
+</ul>
+<div class="bodytext">
+<div class="subsectiontitle" align="center">
+<b>Introduction</b>
+</div>
+<p/>
+The problem of mental causation depends heavily on the idea of “causal closure” of the world under  "laws of nature." If everything that is caused has a physical cause (whether deterministic or indeterministic), what room is there for mental causes? Must mental events be eliminated - reduced to physicalism at best and epiphenomenalism at worst?
+<p/>
+The central question in the classic mind-body problem is how can an <i>immaterial</i> mind move a <i>material body</i> if the “causal chains” are limited to interactions between physical things. 
+<p/>
+We propose a model or theory of an <i>immaterial</i> mind as the pure <i>information</i> in the biological information-processing system that is the brain and central nervous system. We show how this model can support a non-reductive physicalism and an emergent dualism. 
+<p/>
+Information is physical, but <i>immaterial</i>. It is neither matter nor energy, although it needs matter for its (temporary) embodiment and energy for its communication - for example to other minds or for storage in the external environment.
+<p/>
+<i>Indeterminism</i> in quantum physics breaks the strict “causal chains” that have been used to “reduce” biological phenomena to physics and chemistry and mental events to neural events. But <i>statistical</i> causes remain and they are more than "adequate" to support the idea of self-determination.
+<p/>
+Our informational theory of mind is a powerful alternative to the computational theories popular in cognitive science. Biological information processors are profoundly different from digital computers. <p/>
+We argue against neurobiological reductionism and physical “bottom-up causation.” At the same time, we defend a <i>supervenient</i> statistical “downward causation” that allows free thoughts (mental events that are not <i>pre-determined</i> by past events and the laws of nature) to cause willed actions. Actions are ultimately statistical but “adequately determined” by our motives, reasons, intentions, desires, and feelings, in short, by our character. Our actions are thus determined for practical purposes, but "self-determined," with at least some of the causes originating inside our minds.
+<p/>
+We defend an emergent dualism of mind and matter, subject and object, idealism and materialism. Monists might like the idea that information is a neutral quantity that can ground a <i>triple-aspect monism</i> of matter, life, and mind. Information itself is an emergent that did not exist in the early universe. We will show that information structures emerge in three ways and in a temporal sequence, corresponding respectively to <i>matter, life, and mind</i>.
+<p/>
+<i>First</i> is the emergence of "order out of chaos" This has given rise to complexity and chaos theories that try to explain life as a "complex adaptive system." Ilya Prigogine won a Nobel prize for far-from-equilibrium "dissipative" processes that produce information structures, like Bénard convection cells. He called it "order out of chaos." These "complex" systems have no internal information processing. They are "dumb" structures. They do, however, exert a <i>gross</i> "downward causation" over their physical parts.
+<p/>
+<i>Second</i> is the emergence of "order out of order." Erwin Schrödinger showed that all life feeds on a stream of negative entropy from the sun. He called this "order out of order." Biological processes rearrange the information in the negative entropy to create and maintain themselves. They are "information-processing systems." Their downward causation is extremely <i>fine</i>, meaning they can exert causal control over component atoms and molecules individually.
+<p/>
+<i>Third</i> is the emergence of "pure information out of order." Abstract information is the "stuff of thought." It is the <i>lingua franca</i>, the currency, the coin of the philosophical realm. Mental processes create and store abstract information in the brain hardware. At the neuron level, atoms and molecules are exquisitely controlled by neurobiology to enable nerve firings and to record (and play back) information.
+<p/>
+The core of our informational theory of mind is an <i>experience recorder and reproducer</i>. The ERR stores information in our neural networks about all the perceptual elements (sight, sound, touch, taste, smell) of an experience, <i>along with our emotions</i> during the experience. They are stored in whatever neurons fire together. Later, any new perceptual element that fires the same (or nearby) neurons can activate the neural network to replay the original experience, complete with its emotional content. The unconscious mind is a "blooming, buzzing confusion" of these reproduced experiences, to some of which we focus our attention. We identify four evolutionary stages in the development of an experience recorder and reproducer that exhibits consciousness.
+<p/>    
+
+<a name="information_philosophy"></a>
+<div class="subsectiontitle" align="center">
+<b>Information Philosophy and Physics</b>
+</div>
+<p/>
+The fundamental question of information philosophy is cosmological and ultimately metaphysical. What is the nature of processes that create information structures in the universe?
+<blockquote>
+    Given the second law of thermodynamics, which says that any system will over time approach a thermodynamic equilibrium of maximum disorder or entropy, in which all information is lost, and given the best current model for the origin of the universe, which says everything began in a state of equilibrium some 13.75 billion years ago, how can it be that living beings are creating and communicating new information every day?
+<p/>
+    Why are we not still in that original state of equilibrium? Cosmologists at Harvard have answered that question, but the answer is not yet widely known or appreciated.
+</blockquote>
+<p/>
+The question may be cosmological and even metaphysical, but the answer is eminently practical and physical. It is found in the interaction between quantum mechanics and thermodynamics and involves the general relativistic expansion of the universe.
+<p/>
+When information is stored in any structure, two physical processes must occur.
+<p/>
+The first process is the collapse of a quantum-mechanical wave function into one of the possible states in a superposition of states. This happens in any measurement process. It also happens in any irreversible interaction between quantum systems. Such quantum events involve irreducible <a href="/freedom/indeterminacy.html">indeterminacy</a> and ontological <a href="/freedom/chance.html">chance</a>, but less often noted is the fact that quantum physics is directly responsible for the extraordinary temporal stability and <a href="/freedom/adequate_determinism.html">adequate determinism</a> of most information structures. (Our first process is what John von Neumann proposed as his irreversible Process 1. Wolfgang Pauli called it a measurement of the second kind.)
+<p/>
+The second process is a local decrease in the entropy (which appears to violate the second law of thermodynamics) corresponding to the increase in information. Entropy greater than the information increase must be transferred away from the new information, ultimately to the night sky and the cosmic background, to satisfy the second law. (Again following von Neumann, we can call this information stabilization Process 1b.)
+<p/>
+Given this new stable information, to the extent that the resulting quantum system can be approximately isolated, the system will deterministically evolve according to von Neumann's Process 2, the unitary time evolution described by the Schrödinger equation.
+<p/>
+These three processes are parts of the information solution to the "problem of measurement," to which must be added the role of the "conscious observer."
+<p/>
+The discovery and elucidation of the first two as steps in the cosmic creation process casts light on some classical problems in philosophy and physics, since it is the same process that creates new biological species and explains the freedom and creativity of the human mind.
+<p/>
+The cosmic creation process generates the conditions without which there could be nothing of value in the universe, nothing to be known, and no one to do the knowing. 
+<p/>
+Given the answer to our fundamental question in information philosophy, we can now go on to see that information does not appear all at once, it emerges, and in three distinct phases correspondingly roughly to the emergence of <i>matter, life, and mind</i>.
+
+<p/>    
+<a name="three_emergences"></a>
+<div class="sectiontitle" align="center">
+<b>The Three Phases or Kinds of Information Emergence</b>
+</div>
+<p/>    
+   
+<ol>
+<li>the <i>order out of chaos</i> when the matter in the universe forms <i>information structures</i>.
+<p/>
+This was not possible before the first atoms formed about 400,000 years after the Big Bang. So information structures like the stars and galaxies did not exist before about 400 million years.
+<p/>
+At that time, convection and turbulent cells probably first formed in far-from-equilibrium clouds of dust and gas. They are still forming today. But this is a purely physical/material kind of order. It <i>is</i> information, but does not <i>process information</i>.
+<p/>
+
+</li>
+
+<li>the <i>order out of order</i> when the <i>material</i> information structures form self-replicating <i>biological</i> information structures. These are <i>information processing systems</i>.
+<p/>
+In his famous essay, "What Is Life?," <a href="/solutions/scientists/schrodinger/">Erwin Schrödinger</a> noted that life "feeds on negative entropy" (or information). He called this "order out of order."
+<p/>
+This kind of processing of information first emerged about 4 billion years ago on the earth. It continues today on multiple emergent biological levels, e.g., single-cells, multi-cellular systems, organs, etc., each level creating new information not reducible to lower levels and exerting <a href="/freedom/downward_causation.html">downward causation</a> on the lower levels.
+<p/>
+</li>
+
+<li>the pure <i><a href="/introduction/information/">information</a> out of order</i> when organisms with minds generate, internalize, and then externalize non-biological information, communicating it to other minds and storing it in the environment. Communication can be by hereditary transmission or by an advanced organism capable of learning and then teaching others, directly or indirectly by publishing <a href="/knowledge/">knowledge</a>.
+<p/>
+This kind of information can be highly abstract mind-stuff, pure Platonic ideas, the stock in trade of philosophers. It is neither matter nor energy, a kind of <i>pure spirit</i>, the <i>ghost in the machine</i>. It is an <i>immaterial</i> candidate for the dualist substance of <a href="/solutions/philosophers/descartes/">René Descartes</a>'s mind. 
+<p/> 
+</li>
+</ol>
+<p/>
+
+<a name="quantum_physics"></a>
+<div class="subsectiontitle" align="center">
+<b>Quantum Physics</b>
+</div>
+<p/>
+Quantum mechanical events have generally been thought to be unhelpful by philosophers of mind. Adding indeterminism to mental events apparently would only make our actions random and our desires the product of pure chance, they say. If our willed actions are not determined by anything, we are neither morally responsible nor truly free.  Whether mental events are reducible to physical events, or whether mental events can be physical events without such a reduction, the interposition of indeterministic quantum processes apparently adds no explanatory power. And of course if mental events are epiphenomenal, they are not causally related to bodily actions. 
+<p/>
+Our challenge is to admit some quantum indeterminism into a “statistical” causality (an indeterminism which renders our mental causes merely “statistical”), yet nevertheless allow us to describe mental causes as “adequately determined.” That is to say, mental causes are essentially - and for all practical purposes - “determined,” because the statistics in most cases are near to certainty. 
+<p/>
+Even more importantly, our thoughts - and subsequent actions – are in no way completely “pre-determined,” neither from causal chains that go back before our birth such as our genetic inheritance, nor from the immediate events in the “fixed past,” which together with assumed deterministic “laws of nature,” are thought by most compatibilist philosophers to completely explain our actions. Finally, we can identify the "self-determining" causes as creative mental processes that generate and evaluate alternative possibilities for action in the light of our personal goals, then select an action based on our past experiences. 
+<p/>
+Indeterminism in quantum physics shows up as "<i>possibilities</i>" with calculable "<i>probabilities</i>." Generally, only one of these possibilities becomes an <i>actuality</i> as the result of an experimental measurement. We can characterize the experimental result in terms of information. The experiment must create some new information which enters the world and becomes "observable" by the experimenter. At a minimum, it may be a single "bit" of information, the "Yes/No" answer to a "question put to Nature" by the experimenter.
+<p/>
+The creation of new information reduces the thermodynamical "entropy" locally. Information is a form of "negative entropy." And reducing entropy locally is only possible if an equal or greater amount of positive entropy is transferred away from the experiment to satisfy the second law of thermodynamics - that the <i>total entropy always increases</i>. Our emphasis on information creation provides a new perspective on the "problem of measurement" and suggests a simple "information interpretation" of quantum mechanics. 
+<p/>
+
+
+<a name="information_interpretation"></a>
+<div class="subsectiontitle" align="center">
+<b>Possibilities, Probabilities, and Actuality:<br/>An Information "Interpretation" of Quantum Mechanics</b>
+</div>
+<p/>
+The Information Interpretation is simply the standard orthodox Copenhagen Interpretation <i>plus</i> <a href="/introduction/information/">information</a> and <i>minus</i> the <a href="/problems/consciousness/">conscious</a> observer. To be more specific, we add the creation of a stable information structure, and without it we show that an observer will not have an "observable."
+<p/>
+Information philosophy interprets the wave function <i>ψ</i> as a "possibilities" function. With this change of terminology, the mysterious process of a wave function "collapsing" becomes more intuitive talk of many <a href="/freedom/possibilities.html">possibilities</a>, with mathematically calculable <a href="/freedom/probability.html">probabilities</a>, becoming a single <i>actuality</i>.
+<p/>
+Information physics is standard quantum physics. It accepts the <i>principle of superposition</i>, the <i>axiom of measurement</i>, and the <i>projection postulate</i> of standard quantum mechanics. But a conscious observer is not required for the <a href="/solutions/experiments/wave-function_collapse/">wave-function "collapse"</a>. All that is required is an interaction that creates stable information that can be observed macroscopically. This requires thermodynamics.  
+<p/>
+The transformation theory of Dirac and Jordan lets us represent <i>ψ</i> in a set of basis functions for which the combination of quantum system and measurement apparatus has eigenvalues. We represent <i>ψ</i> as in a superposition of those "possible" eigenfunctions. Quantum mechanics lets us calculate the probabilities of each of those "possibilities." 
+<p/>
+Interaction with the measurement apparatus (or indeed interaction with any other system) may project out one of those possibilities as an actuality. But for this event to be an "observable" (a John Bell "beable"), <a href="/introduction/information/">information</a> must be created <i>and</i> positive entropy must be transferred away from the new information structure, in accordance with our two-stage <a href="/introduction/creation/">information creation process</a>.    
+<p/>
+All <i>interpretations</i> of quantum mechanics predict the same experimental results. 
+<a href="/introduction/physics/">Information physics</a> is no exception, because the experimental data from quantum experiments is the most accurate in the history of science.
+<p/>
+Where interpretations differ is in the picture (the visualization) they provide of what is "really" going on in the microscopic world - the so-called "quantum reality." The "orthodox" Copenhagen interpretation of <a href="/solutions/scientists/bohr/">Neils Bohr</a> and <a href="/solutions/scientists/heisenberg/">Werner Heisenberg</a> discouraged such attempts to understand the nature of the "quantum world," because they said that all our experience is derived from the "classical world" and should be described in ordinary language. 
+<p/>
+The information interpretation encourages visualization. Schrödinger called it <i>Anschaulichkeit</i>. He and Einstein were right that we should hope to picture quantum reality. But that demands that we accept the <i>reality of the quantum</i> and "quantum jumps," something most modern interpretations do not. (See our <a href="/solutions/experiments/two-slit_experiment/">two-slit experiment</a> and <a href="/solutions/experiments/EPR/">EPR experiment</a> visualizations.)
+<p/>
+Bohr was of course right that classical physics plays an important role. His Correspondence Principle allowed him to recover some important physical constants by assuming that the discontinuous quantum jumps for low quantum numbers (low orbits in his old quantum theory model) <i>converged</i> in the limit of large quantum numbers to the continuous radiation emission and absorption of classical electromagnetic theory.
+<p/>
+In addition, we know that in macroscopic bodies with enormous numbers of quantum particles, quantum effects are averaged over, so that the uncertainty in position and momentum of a large body still obeys Heisenberg's <a href=:/freedom/indeterminacy.html">indeterminacy principle</a>, but the uncertainty is for all practical purposes unmeasurable and the body can be treated classically. We can say that the quantum description of matter also <i>converges</i> to a classical description in the limit of large numbers of quantum particles.
+<p/>
+Both Bohr and Heisenberg suggested that just as relativistic effects can be ignored when the velocity is small compared to the velocity of light (<i>v / c</i> &rarr; 0), so quantum effects might be ignorable when the quantum of action <i>h</i> &rarr; 0. But this is wrong, because <i>h</i> never goes to zero. In the information interpretation, it is always a quantum world. The conditions needed for ignoring quantum indeterminacy are when the mass of the macroscopic "classical" object is large.   
+<p/>
+The creation of irreversible new information marks the transition between the quantum world and the "<a href="/freedom/adequate_determinism.html">adequately deterministic</a>" classical world, because the information structure must be large enough (and stable enough) to be seen. The typical measurement apparatus is macroscopic, so the quantum of action <i>h</i> becomes small compared to the mass <i>m</i> and <i>h / m</i> approaches zero.
+<p/>
+Noting that the momentum <i>p</i> is the product of mass and velocity <i>mv</i>, Heisenberg's <a href="/freedom/indeterminacy.html">indeterminacy</a> principle, <i>Δp Δx &gt; h</i> can be rewritten as <i>Δv Δx &gt; h / m</i>. When <i>h / m</i> is small enough, errors in the position and velocity of macroscopic objects becomes smaller that can be measured. The classical world emerges when quantum effects can be averaged over large numbers of particles.  (Landau and Lifshitz argued that their random phases cancel one another.)
+<p/>
+The information interpretation thus explains why quantum superpositions like <a href="schrodingerscat">Schrödinger's Cat</a> are not seen in the macroscopic world. The stable new information structure in a macroscopic object has reduced the quantum <i>possibilities</i> (and their potential interference effects) to a classical <i>actuality</i>. 
+<p/>
+<hr/><p/>
+The central element in quantum physics is the "wave function" <i>ψ</i>, with its mysterious wave-particle dual nature (sometimes a wave, sometimes a particle, etc.). We believe that teaching and understanding quantum mechanics would be much simpler if we called <i>ψ</i> the "<i>possibilities</i> function." It only looks like a wave in simple cases of configuration space. But it always tells us the possibilities - the possible values of any observable, for example. 
+<p/>
+Given the "possibilities function" <i>ψ</i>, quantum mechanics allows us to calculate the "probabilities" for each of the "possibilities." The calculation depends on the free choice of the experimenter as to which "observables" to look for. If the measurement apparatus can register <i>n</i> discrete values, <i>ψ</i> can be expanded in terms of a set of basis functions appropriate for the chosen observable, say <i>φ<sub>n</sub></i>. The expansion is 
+<p/>
+<div align="center">
+<i>ψ</i> = <i><font size="+1">&#8721;</font> c<sub>n</sub> φ<sub>n</sub></i>  
+</div>
+<p/>
+When the absolute squares of the coefficients <i>c<sub>n</sub></i> are appropriately normalized to add up to 1, the probability P<sub>n</sub> of observing value <i>n</i> is 
+<p/>
+<div align="center">
+<i>P<sub>n</sub> = c<sub>n</sub><sup>2</sup> = | &lt; ψ | φ<sub>n</sub> &gt; | <sup>2</sup></i>
+</div>
+<p/>
+These probabilities are confirmed statistically by repeated identical experiments that collect large numbers of results. Quantum mechanics is the most accurate physical theory in science, with measurements accurate to thirteen decimal places. 
+<p/>
+In each individual experiment, generally just one of the possibilities becomes an <i>actuality</i> (some experiments leave the quantum system in a new <i>superposition</i> of multiple possibilities).
+<p/>
+In our information interpretation, a possibility is realized or actualized at the moment when information is created about the new state of the system. This new information requires that positive entropy be carried away from the local increase in negative entropy.
+<p/>
+Note that an "observer" would not be able to make a "measurement" unless there is new information to be "observed." Information can be (and usually is) created and recorded before any observer looks at the results.
+<p/>
+An information approach can help philosophers to think more clearly about quantum physics. Instead of getting trapped in talk about mysterious "collapses of the wave function," "reductions of the wave packet," or the "projection postulate" (all important issues), the information interpretation proposes we simply say that one of the "possibilities" has become "actual." It is intuitively obvious that when one possibility becomes actual, all the others are annihilated, consigned to "nothingness," as Jean Paul-Sartre put it. 
+<p/>
+We can also say that quantum theory lets us put quantitative values on the "probabilities" for each of the "possibilities." But this means that quantum theory is statistical, meaning indeterministic and random. It is not a question of our being ignorant about what is going on (an epistemological problem). What's happening is <i>ontological chance</i>. 
+<p/>
+We can also say that the "possibilities function" <i>ψ</i> moves through space (at the speed of light , or even faster?), exploring all the possibilities for where the particle might be found. This too may be seen as a special kind of information. In the famous "two-slit experiment," the "possibilities function" travels everywhere, meaning that it passes through both slits, interfering with itself and thus changing the possibilities where the particle might be found. Metaphorically, it "knows" when both slits are open, even if our intuitive classical view imagines the particle to go through only one. This changes the probabilities associated with each of the possibilities.
+<p/>
+<p/>
+<a name="animation"></a>
+<div class="sectiontitle">
+Animation of the possibilities function becoming actual (the collapse of the wave function)  - <a href="" onClick="document.images.collapse.src=document.images.collapse.src;return false">click to restart</a>
+</div>
+
+<div align="center">
+<p/>
+<img align="center" id="collapse" src="/solutions/experiments/wave-function_collapse/Collapse_animation.gif" width="550">
+<p/>
+</div>
+
+<p/>
+When the possibilities function becomes actual, the probability of the one actuality becomes unity (certainty) and the other possibilities disappear instantly, over distances that for Einstein implied violation of his special theory of relativity.  
+<p/>
+The information interpretation helps us to locate the Heisenberg and von Neumann "cut" in the path from physical event to knowledge in the human mind. John von Neumann described the steps along that path of "psycho-physical parallelism" -
+<p/>
+<div style="float:right;margin:10px;">
+<img src="/solutions/scientists/bell/Bell_Shifty_Split_Information.png" width="300">
+<p/>
+</div>
+<blockquote>
+"we could find [the path] of the light quanta [from the measuring instrument], and the path of the remaining light quanta into the eye of the observer, their refraction in the eye lens, and the formation of an image on the retina, and then we would say: this image is registered by the retina of the observer.
+<p/>
+"And were our physiological knowledge more precise than it is today, we could go still further, tracing the chemical reactions which produce the impression of this image on the retina, in the optic nerve tract and in the brain, and then in the end say: these chemical changes of his brain cells are perceived by the observer.
+<p/>
+"But in any case, no matter how far we calculate -- to the mercury vessel, to the scale of the thermometer, to the retina, or into the brain, at some time we must say: and this is perceived by the observer. That is, we must always divide the world into two parts, the one being the observed system, the other the observer." 
+</blockquote>
+ 
+<p/>
+Von Neumann said that it was arbitrary where we place the moment of perception. John Bell pictured the arbitrary location as a "shifty split." But our information interpretation can place the "cut" at the time and place where information is indelibly recorded. In Bell's drawing it is the irreversible spot on the photographic plate. Without that information, von Neumann's subjective observer could not "measure" the objective observed system.
+<p/>
+This new information marks the irreversible transition between the quantum world and the "adequately" classical world, because the information structure must be large enough to be seen. The measurement apparatus is macroscopic, so the quantum of action <i>h</i> becomes small compared to the mass <i>m</i> and <i>h / m</i> approaches zero. 
+<p/>
+The information interpretation thus explains why quantum superpositions like Schrödinger's Cat are not seen in the macroscopic world. Decoherence theorists say that the lack of macroscopic superpositions <i>is</i>  the<a href="/problems/measurement/">measurement problem</a> But the new information structure in a macroscopic object has reduced the <a href="/freedom/possibilities.html">possibilities</a> to an <i>actuality</i>.  
+<p/>
+Finally, without possibilities, no new information can be created. Claude Shannon's information theory requires the existence of multiple messages. If there is only one possible message, it brings no new information, there are no "surprises."
+<p/>
+
+
+<a name="nonreductive_physicalism"></a>
+<div class="subsectiontitle" align="center">
+<b>Information and a Non-Reductive Physicalism</b>
+</div>
+<p/>
+The leading defender of a non-reductive physicalism was Donald Davidson. Its leading critic is Jaegwon Kim. In his 1970 essay "Mental Events," Davidson described his "Anomalous Monism":
+<p/>
+<blockquote>
+    “Mental events such as perceivings, rememberings, decisions, and actions resist capture in the nomological net of physical theory. How can this fact be reconciled with the causal role of mental events in the physical world? Reconciling freedom with causal determinism is a special case of the problem if we suppose that causal determinism entails capture in, and freedom requires escape from, the nomological net. But the broader issue can remain alive even for someone who believes a correct analysis of free action reveals no conflict with determinism. Autonomy (freedom, self-rule) may or may not clash with determinism; anomaly (failure to fall under a law) is, it would seem, another matter.”  
+</blockquote>
+<p/>
+In order to allow mental events to cause physical events, yet not be reducible to them, Davidson developed the following set of arguments. 
+<p/>
+<blockquote>
+1.  "at least some mental events interact causally with physical events"<br/>
+2.  "where there is causality, there must be a law: events related as cause and effect fall under strict deterministic laws."<br/>
+3.  "there are no strict deterministic laws on the basis of which mental events can be predicted and explained." (mental events are "anomalous.")
+</blockquote>
+<p/>
+
+Davidson viewed his work as extending that of Immanuel Kant on reconciling (eliminating the anomalous contradiction between) freedom and necessity. Davidson gave the term supervenience a specific philosophical meaning within analytic philosophy. He saw supervenience as the last hope for a non-reductive physicalism, which does not reduce the mental to the physical, the psychological to the neurophysiological. 
+<p/>
+Davidson set two requirements for supervenience: 
+<p/>
+<blockquote>
+1.	a domain can be supervenient on another without being reducible to it (non reduction)
+2.	if a domain supervenes, it must be dependent on and be determined by the subvenient domain (dependence)
+</blockquote>
+<p/>
+But in Jaegwon Kim's 1989 presidential address to the American Philosophical Association, he said:
+<p/>
+<blockquote>
+    “The fact is that under Davidson's anomalous monism, mentality does no causal work. Remember: in anomalous monism, events are causes only as they instantiate physical laws, and this means that an event's mental properties make no causal difference.”
+</blockquote>
+<p/>
+Kim claims that: 
+<p/>
+<blockquote>
+    “The most fundamental tenet of physicalism concerns the ontology of the world. It claims that the content of the world is wholly exhausted by matter. Material things are all the things that there are; there is nothing inside the spacetime world that isn't material, and of course there is nothing outside it either. The spacetime world is the whole world, and material things, bits of matter and complex structures made up of bits of matter, are its only inhabitants.”
+</blockquote>
+<p/>
+
+Kim says that Davidson's goal of "non-reductive physicalism" is simply not possible. The physical world is "causally closed," says Kim:
+<p/>
+<blockquote>
+    “what options are there if we set aside the physicalist picture? … This means that one would be embracing an ontology that posits entities other than material substances — that is, immaterial minds, or souls, outside physical space, with immaterial, nonphysical properties.”
+</blockquote>
+<p/>
+
+We accept part of Kim's criticism. An informational theory of mind posits the existence of something <i>immaterial</i>, yet physical. It is both a “non-reductive physicalism” and an “immaterial physicalism.” But it is not "outside space and time" in some Kantian sense. Although it may contain something of what believers in souls thought they believed in. 
+<p/>
+The germ of the idea for an informational theory of mind might be seen in a series of papers in the 1950’s and 1960’s by Hilary Putnam and Jerry Fodor, whose theory of functionalism pointed to characteristics of mind that are “multiply realizable” in different physical substrates. They were inspired by the then new digital computers, whose software could be moved between different computers and perform the same functions. Mind is the software in the brain hardware, they argued.
+<p/>
+Our informational theory of mind shows how thoughts that are embodied in one mind can be converted from their material instantiation and transformed into the pure energy of sound waves or electromagnetic waves by which they are communicated to other minds, there to be embodied again. During communication, the information in human knowledge is not even embodied in material, though it is still a part of the physical world.
+<p/>
+In 1976 Kenneth Sayre proposed that information might be a neutral category in which concepts of mind and concepts of body might be defined. We agree that information might be the basis for a neutral, triple aspect, monism.
+<p/>
+The informational analysis of non-reductive physicalism must show exactly how <i>information does not move in the upward direction</i> between hierarchical levels (fundamentally because noise in the lower level makes motions incoherent), but that <i>information does move down</i> as the higher-level information-processing system uses it to manipulate individual physical particles (maintaining a high signal-to-noise ratio in the upper level), as the British empiricists imagined.  
+<p/>
+<a name="downward_causation"></a>
+<div class="subsectiontitle">
+<b>Quantum Randomness Blocks "Bottom-Up" Causation, <br/>Information-Processing Structures Enable Downward Causation</b>
+</div>
+<p/>
+We shall now see that quantum and thermal noise breaks any upwardly causal deterministic chains between the physics of the atomic and molecular level and the biophysics of the organic world. It also breaks any upward deterministic chains between the neurobiological brain and the mind, replacing them with a statistical causality that provides us with what William James called “some looseness in the joints.” []
+<p/>
+We present two processes that exhibit randomness in the component atoms and molecules, thus blocking any organized upward influences. The first is present in every biological cell. The other is critically important in the operation of neurons. The first separates the living from the simply material. The latter is at the mind/brain boundary.
+<p/>
+<div class="subsectiontitle" align="center">
+Ribosomes Build Hemoglobin from Randomly Moving Amino Acids (Life from Matter)
+</div>
+<p/>
+The twenty amino acids move about randomly in a cell, the consequence of thermal and quantum noise. Attached to them are tiny bits of transfer RNA, each with three letters of the genetic code that identify them. They bump randomly into the ribosome, which may be moving along a sequence of the genetic code written in messenger RNA sent from the cell nucleus, which has noticed that more of a specific protein or enzyme is needed. This random motion shows us that no organized or coherent information is present in the unattached tRNAs that could cause something from the bottom up to emerge at a higher level. 
+<p/>
+<div style="float:right;margin:10px;">
+<iframe title="YouTube video player" class="youtube-player" type="text/html" width="240" height="195" src="http://www.youtube.com/embed/TfYf_rPWUdY" frameborder="0" allowFullScreen></iframe>
+</div>
+[Look at the animation of mRNA translation] Notice the absurdity of the idea that the random motions of the transfer RNA molecules (green in the video at right), each holding a single amino acid (red), are carrying pre-determined information of where they belong in the protein.
+<p/>
+It is the information processing of the higher-level ribosome that is in control. As the ribosome moves along the string of mRNA, it reads the next three-letter codon and waits for a tRNA with the matching anti-codon to collide randomly. With over 60 codons for the 20 amino acids, it might be some time before the desired amino acid shows up. Note that it is the high speed of random motions that allows this process to proceed rapidly. Consider the case of hemoglobin.  
+<p/>
+When a ribosome assembles 330 amino acids in four symmetric polypeptide chains (globins), each globin traps an iron atom in a heme group at the center to form the hemoglobin protein. This is downward causal control of the amino acids, the heme groups, and the iron atoms by the ribosome. The ribosome is an example of Erwin Schrödinger's emergent "order out of order," life "feeding on the negative entropy" of digested food.
+<p/>
+<div style="float:left;margin:10px;"><img src="/images/hemoglobin.png" width="240"></div>
+<p/>
+When 200 million of the 25 trillion red blood cells in the human body die each second, 100 million new hemoglobins must be assembled in each of 200 million new blood cells . With the order of a few thousand bytes of information in each hemoglobin, this is 10 thousand x 100 million x 200 million = 2 x 1020 bits of information per second, a million times more information processing than today's fastest computer CPU.
+<p/>
+The ribosome is an information-processing biological system that has emerged from the lower level of chemistry and physics to exert downward causation on the atomic and molecular components needed to manufacture hemoglobin.
+<p/>
+<div class="subsectiontitle" align="center">
+Ion Transporter Pumps in Neurons Organize Randomly Moving Individual Atoms (Mind from Life)
+</div>
+<p/>
+<div style="float:right;margin:10px;">
+<iframe title="YouTube video player" class="youtube-player" type="text/html" width="240" height="195" src="http://www.youtube.com/embed/Q73uJ8WlY_E" frameborder="0" allowFullScreen></iframe>
+</div>
+When a single neuron fires, the active potential rapidly changes the concentration of sodium (Na+) ions inside the cell and potassium (K+) ions outside the cell. Within milliseconds, thousands of sodium-potassium ion transporters in the thin lipid bilayer of the cell wall must move billions of those ions, two or three at a time between inside and outside the cell wall, to restore the reduced chemical potential.
+<p/>
+All the individual ions, atoms, and molecules in the cell are moving rapidly in random directions. The indeterministic motions of the ions randomly move some near the pump opening, where quantum collaborative forces can capture them in a lock-and-key structure. The idea that the physical/chemical base level contains enough information in the motion of its atoms and molecules to cause and completely explain the operations of the higher levels of life and mind is simply absurd.
+<p/>
+The emergent biological machinery of an ion channel exerts downward causation on the ions, powered by ATP energy carriers (feeding on negative entropy). 
+<p/>
+The sodium-potassium pump in our neurons is as close to a
+Maxwell's Demon as anything we are ever likely to see.
+<p/>
+When many motor neurons fire, innnervating excitatory post-synaptic potentials (EPSPs) that travel down through the thalamus and the spinal cord where they cause muscles to contract, that is as literal as downward causation gets between the mind and the body. When the emergent mind decides to move the body, mental causation is realized as downward causation.
+<p/>
+Although Donald Campbell in 1974 coined the phrase "downward causation," the concept was actually described a few years earlier by Roger Sperry who claimed that it supports a form of “mentalism.” Sperry cited a wheel rolling downhill as an example of what he called "downward causal control." The atoms and molecules are caught up and overpowered by the higher properties of the whole. Sperry compared the rolling wheel to an ongoing brain process or a progressing train of thought in which the overall properties of the brain process, as a coherent organizational entity, determine the timing and spacing of the firing patterns within its neural infrastructure.
+<p/>
+In 1977, Karl Popper announced that he changed his mind on the importance of indeterminism. He developed a two-stage model of free will and said that it was an example of downward causation. Popper cited both Sperry and Campbell as the source of the idea of downward causation. 
+<p/>
+In a lecture called <i>Natural Selection and the Emergence of Mind</i>, Popper said he had changed his mind (a rare admission by a philosopher) about two things. First he now thought that Darwinian evolution and natural selection was not a "tautology" that made it an unfalsifiable theory. Second, he had come to accept the random variation and selection of ideas as a model of free will. 
+<p/>
+<blockquote>
+“The selection of a kind of behavior out of a randomly offered repertoire may be an act of choice, even an act of free will. I am an indeterminist; and in discussing indeterminism I have often regretfully pointed out that quantum indeterminacy does not seem to help us; for the amplification of something like, say, radioactive disintegration processes would not lead to human action or even animal action, but only to random movements. 
+<p/>
+“I have changed my mind on this issue. A choice process may be a selection process, and the selection may be from some repertoire of random events, without being random in its turn. This seems to me to offer a promising solution to one of our most vexing problems, and one by downward causation.” []
+</blockquote>
+<!--
+Since Popper’s two-stage model of free will and the analogy with biological evolution, several other thinkers have developed two-stage free will models, including Daniel Dennett, Henry Margenau, Robert Kane, David Sedley and Anthony Long, Roger Penrose, David Layzer, Julia Annas, Alfred Mele, John Martin Fischer, Stephen Kosslyn, John Searle, Bob Doyle, and Martin Heisenberg. []-->
+<p/>
+In 2007, Christoph Koch chaired a conference on free will sponsored by the Templeton Foundation. The proceedings were published in the 2009 book <i>Downward Causation and the Neurobiology of Free Will</i>. One of the principal contributors, Nancey Murphy, and her colleague Warren Brown, had argued in their 2007 book, <i>Did My Neurons Make Me Do It?</i>, for the existence of downward causation on the basis of complexity and chaos theories. Murphy and Brown’s goal was to defend a non-reductive version of physicalism whereby humans are (at least sometimes) the authors of their own thoughts and actions. 
+<p/>
+<blockquote>
+“If humans are purely physical, and if it is the brain that does the work formerly 
+assigned to the mind or soul, then how can it fail to be the case that all of our 
+thoughts and actions are determined by the laws of neurobiology? If this is the 
+case, then free will, moral responsibility, and, indeed, reason itself would appear 
+to be in jeopardy.” []
+</blockquote>
+<p/>
+The problem, say Murphy and Brown, is not neurobiological <i>determinism</i>, it is neurobiological <i>reductionism</i> that they want to avoid. This is odd, because it is precisely the elimination of strict determinism that prevents the causal closure and reduction of the mind to the neural level below, as well as the emergence of freedom for the mind to exert downward causation on all the levels below.
+<p/>
+Murphy and her colleagues propose to get the kind of non-reductive physicalism that Donald Davidson wanted based on the emergence of complex systems in far-from-equilibrium conditions in deterministic chaos that exhibit spontaneous self-organization. They are not the first complexity theorists to compare their complex physical system examples to living systems, since both are self-organizing and require a steady flow of matter and energy for their continued existence.
+<p/>
+But as we have shown, the emergence of "order out of chaos" is only the first phase of emergent information structures. This phase provides only a "gross" form of downward causation." The "fine" control over component atoms and molecules arises only in the second (Life) and third (Mind) phases - the emergence of  of <i>information-processing</i> systems. 
+<p/>
+From the moment the earliest “self-replicating” and “self-organizing” systems appeared at the origin of life, the universe has contained <i>purposeful</i> beings. We can say that a primitive version of the concept of a “self” emerges at this time.
+<p/>
+Before this there was no pre-existing telos, no <i>teleology</i>, as many philosophers and theologians imagined, but there is <i>teleonomy</i>, as Jacques Monod called it. François Jacob, who shared the Nobel Prize with Monod, said that the purpose of every cell is to become two cells.[]
+
+<p/>
+<a name="emergent_dualism"></a>
+<div class="subsectiontitle" align="center">
+<b>An Emergent Dualism, Even a Neutral Triple-Aspect Monism?</b>
+</div>
+<p/>
+Several of the participants in our conference espouse some form of an emergent dualism (or perhaps a "dual-aspect" monism). 
+<p/>
+Our organizer, <a href="/solutions/philosophers/corradini/">Antonella Corradini</a>, says in her essay <i>Emergent Dualism</i>, "The fact that explainability of the mental by the physical <i>does not hold</i> for emergentism undermines any project - like Kim's - to give a physicalistic interpretation of downward causation." <a href="/solutions/philosophers/lowe/">E. Jonathan Lowe</a> (Corradini's co-editor of the proceedings of earlier conferences <i>Analytic Philosophy</i> and <i>Psycho-physical Dualism</i>, and who was to have participated in this conference) developed a proposal for an interactionist <i>non-Cartesian substance dualism</i>. 
+<p/>
+<a href="/solutions/philosophers/atmanspacher/">Harald Atmanspacher</a> discusses the dual-aspect monism of Wolfgang Pauli and C. G. Jung. Godehard Brüntrup asks whether psycho-physical emergentism is committed to dualism and explores the causal efficacy of emergent mental properties. And  <a href="/solutions/philosophers/barrett/">Jeffrey Barrett</a> explains why Eugene Wigner thought that quantum mechanics requires a mind-body dualism. 
+<p/>
+Although the concept of emergence has become very popular in the last few decades in connection with the development of chaos and complexity theories (which, as we saw, support only a "gross" form of downward causation), emergence is actually a very old idea, dating at least to the nineteenth century, with some hints of it in ancient and medieval philosophy.
+<p/>
+The idea of emergence was implicit in the work of John Stuart Mill and explicit in "emergentists" like George Henry Lewes, Samuel Alexander, C. Lloyd Morgan, and C. D. Broad. <a href="/solutions/philosophers/mclaughlin/">Brian McLaughlin</a> dubbed these thinkers the "British Emergentists." He developed an "idealized" version of British Emergentism and synthesisized what most of these thinkers had in common into a coherent and representative picture. He says:
+<blockquote>
+    British Emergentism maintains that everything is made of matter: There are, for example, no Cartesian souls, or entelechies, vital elan, or the like. And it holds that matter is grainy, rather than continuous; indeed, that it bottoms-out into elementary material particles, atoms or more fundamental particles...Moreover, on its view, nothing happens, no change occurs, without some motion of elementary particles. And all motion is to the beat of the laws of mechanics.
+<p/>
+    According to British Emergentism, there is a hierarchy of levels of organizational complexity of material particles that includes, in ascending order, the strictly physical, the chemical, the biological, and the psychological level. There are certain kinds of material substances specific to each level. And the kinds of each level are wholly composed of kinds of lower levels, ultimately of kinds of elementary material particles. Moreover, there are certain properties specific to the kinds of substances of a given level. These are the "special properties" of matter...
+<p/>
+ What is especially striking about British Emergentism, however, is its view about the causal structure of reality. I turn to that view in the following two paragraphs.
+<p/>
+British Emergentism maintains that some special science kinds from each special science can be wholly composed of types of structures of material particles that endow the kinds in question with fundamental causal powers. Subtleties aside, the powers in question "emerge" from the types of structures in question...
+<p/>
+Now, the exercise of the causal powers in question will involve the production of movements of various kinds. Indeed, Emergentism maintains that special kinds, in virtue of possessing certain types of minute internal structures, have the power to influence motion. And here is the striking point: They endow the kinds with the power to influence motion in ways unanticipated by laws governing less complex kinds and conditions concerning the arrangements of particles. Emergentism is committed to the nomological possibility of what has been called "downward causation".   
+</blockquote>
+Minute internal (information-processing) structures that control the motions and arrangements of the component particles is the signature aspect of British Emergentism, one that we have demonstrated with ribosomal control of the twenty kinds of amino acids in living systems and ion channel control over the ions two and three at a time in the brain's neural network.
+<p/>
+European vitalists like Henri Bergson and Hans Driesch may not have used the term emergence, but they strongly supported the idea of teleological (purposeful), likely non-physical causes, without which they thought that life and mind could not have emerged from physical matter.
+<p/>
+Bergson attacked the idea that the "reversibility" of physical systems can be applied to living things. Reversibility was popular in the late nineteenth century as a criticism of the second law of thermodynamics, especially the derivation of this law from statistical mechanics by Ludwig Boltzmann. The laws of Newtonian mechanics are time reversible. Atoms and molecules have no memory of their past. Living systems, however, gain something from their memory of the past.
+<p/>
+Driesch was an anti-mechanist who developed a sophisticated form of vitalism that he called "neovitalism." 
+<p/>
+Driesch saw clear evidence of a kind of teleology in the ability of lower organisms to rebuild their lost limbs and other vital parts. He used <a href="/solutions/philosophers/aristotle/">Aristotle</a>'s term "<a href="/knowledge/entelechy.html">entelechy</a>" (loosely translated as "having the final cause in") to describe the organism's capacity to rebuild. Driesch said this disproved the theory of preformation from an original cell. Driesch studied the original cells of a sea urchin, after they had divided into two cells, then four, then eight. At each of these stages, Driesch separated out single cells and found that the separated cells went on to develop into  complete organisms. This is regarded as the first example of biological cloning. 
+<p/>
+British empiricits, notably C. D. Broad, rejected Driesch's idea of entelechy as a non-material, non-spatial agent that is neither energy nor a material substance of a special kind, but we should note that it well describes the information content of any cell that lets it develop into a complete organism. Driesch himself maintained that his entelechy theory was something very different from the substance dualism of older vitalisms. So what was Broad's criticism of Driesch? Neither thinker could produce a clear description of their vital element. 
+<p/>
+Broad was sophisticated in his discussion of emergence. He saw that the kind of emergence that leads to water and its unique chemical properties, when compared to the properties of its molecular components hydrogen and oxygen, has no element of purpose or teleology. The emergence of life (and mind) from physics and chemistry, however, clearly introduces a kind of design or purpose. Modern biologists call it <i>teleonomy</i>, to distinguish it from a metaphysical <i>telos</i> that pre-exists the organism. Jacob's "The goal of every cell is to become two cells."
+<p/>
+It seems likely that both Driesch and Broad were trying to grasp this teleonomy.
+<p/>
+A number of later "holistic" thinkers gathered for the 1968 Alpbach Symposium organized by Arthur Koestler, which he published as the book <i>Beyond Reductionism</i>. They included Ludwig von Bertalanffy (who had in the 1930's anticipated some of the later work of Erwin Schrödinger and Ilya Prigogine), Paul Weiss, Jerome Bruner, Viktor Frankl, Friedrich Hayek, Jean Piaget, and C. H. Waddington, who mostly thought it likely that further emergent hierarchical levels "over and above" the molecular level would be needed to fully explain biology, and that these levels were unlikely to be deterministic.   
+<p/>
+We have demonstrated biological and neurological evidence supporting their anti-reductionist ideas of <a href="/knowledge/mental_causation.html">mental causation</a> in particular and the more general problem of <a href="/freedom/downward_causation.html">downward causation</a>, for example the downward control of the motions of a cell's atoms and molecules by <a href="/knowledge/supervenience.html">supervening</a> on biological macromolecules. The molecular biology of a cell is not <a href="/knowledge/reductionism.html">reducible</a> to the laws governing the motions of its component molecules. But are there <a href="/knowledge/emergence.html">emergent laws</a> governing motions at the cellular level, the organ level, the organism level, and so on up to the mental level?
+<p/>
+If so, these are perhaps simply the laws of the "special sciences" that scientists identify to help them explain their discipline to one another, e.g., Mendel's laws of inheritance in biology, the Weber and Fechner laws of perception in physiology (the just noticeable difference and the logarithmic response to a stimulus), or the law of supply and demand in economics.
+<p/>
+What then can we conclude about Jaegwon Kim's attack on the non-reductive physicalism dream of Donald Davidson? Among philosophers of mind, Kim is the standard bearer for a monistic physicalism. Every writer on emergent dualism has to confront his philosophical arguments.
+<p/>
+The locus classicus of twentieth-century discussions of philosophy of mind and mental causation is Donald Davidson's 1970 essay "Mental Events," which was revisited in his 1993 essay, "Thinking Causes," published together with 15 critical essays on Davidson's work in the 1993 book Mental Causation, edited by John Heil and Alfred Mele.
+<p/>
+What can we then make of Jaegwon Kim’s assertion that "non-reductive physicalism" is simply not possible, that the physical world is "causally closed?" Recall Kim’s view:
+<p/>
+<blockquote>
+    “what options are there if we set aside the physicalist picture? Leaving physicalism behind is to abandon ontological physicalism, the view that bits of matter and their aggregates in space-time exhaust the contents of the world. This means that one would be embracing an ontology that posits entities other than material substances — that is, immaterial minds, or souls, outside physical space, with immaterial, nonphysical properties.”
+</blockquote>
+<p/>       
+We find the idea of causal closure is a mistake. Quantum physics and the second law of thermodynamics show us that the physical world is not causally closed. The expansion of the universe shows it to be physically and informationally open, otherwise the total amount of information in the universe would be conserved, a constant of nature, which some mathematically inclined philosophers and scientists appear to believe (Roger Penrose and Michael Lockwood, for example).
+<p/>
+Jaegwon Kim may be wrong about causal closure, but he is correct that the ontology we embrace does picture the mind as immaterial. Although thoughts in the mind - Descartes’ “thinking substance” - are immaterial, that does not mean that they are “outside physical space.” Rather they are physically present in our brains in the same sense as mathematics is there, as all concepts and ideas are there. They are information, the software in the hardware.
+<p/>
+As we saw above, Davidson made three causal claims for mental causation. They can now be adapted to the statistical causality allowed by quantum physics:
+<p/>
+<blockquote>
+    1. Mental events are statistically caused by physical events.<br/>
+    2. Causal relations are normally backed by statistical laws.<br/>
+    3. There are no strict deterministic laws for mental events acting on physical events. But statistical causality and adequate determinism are good enough.<br/>
+</blockquote>
+<p/>
+Davidson's main goal was to deny the reducibility of mental events to physical events in the lower levels, to deny the claim that the motions of the atoms and molecules at the base level are causally determinative of everything that happens at higher levels. This loss of "bottom up" causal control we can grant, and believe we have provided scientific evidence for it.  But at the same time, we can defend a statistical causality that is very often “adequately determined,” which is needed by the upper level to exert its downward causal control.
+<p/>
+We can also accept the goal of Nancey Murphy and her colleagues, that there is no neurobiological reductionism. Moreover, despite Murphy’s acceptance of causal determinism, there is no strict neurobiological determinism either.
+<p/>
+Finally, we can validate the optimistic view of most emergentists, that there is something “over and above” the material. The mind is not “nothing but” the brain, as eliminative materialists (for example, Daniel Dennett and the Churchlands) believe.
+<p/>
+Shall we identify this as an "emergent dualism," or more ambitiously as a "<i>triple-aspect</i>" neutral monism with <i>information</i> the neutral entity at all three levels? 
+<p/>
+
+
+<div align="center">
+<h4>
+<table width="450" bgcolor="#efefff" border="2" border-color="#000066" cellpadding="4" cellspacing="4">
+<tr>
+<td>
+<table width="225">
+<tr>
+<td align="center">
+Immaterial / Mind / Subject
+</td>
+</tr>
+<tr>
+<td align="center">
+Material / Body / Object
+</td>
+</tr>
+</table>
+</td>
+<td width="100%">
+<table width="225">
+<tr>
+<td align="center">
+Concept / Mind
+</td>
+</tr>
+<tr>
+<td align="center">
+Subject-Percept / Life
+</td>
+</tr>
+<tr>
+<td align="center">
+Object / Matter
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+</h4>
+</div>
+
+<p/>
+Quantum physics is no doubt congenial to dualisms, the most notable example being the Bohr-Heisenberg idea of "complementarity," which is still a central theme in the standard "Copenhagen interpretation" of quantum mechanics. Bohr and Heisenberg gave numerous lectures between 1930 and 1960 appealing to philosophers to extend their notion beyond the "wave-particle duality" to philosophical ideas like subject and object, idealism and materialism, and of course mind and matter. 
+<p/>
+Recall that William James' "radical empiricism" was the original model for neutral monism adopted more of less by Bertrand Russell, Rudolf Carnap, and others. James in turn had been influenced by the positivist scientist Ernst Mach, also a major influence on the Carnap/Schlick/Wittgenstein Vienna Circle. 
+<p/>
+The "Unus Mundus" of Carl Gustav Jung is a form of neutral monism whose holistic symmetry is "broken" into three mutually compatible parts recognized as a mental domain, a material domain, and an interface between these domains. <!--(footnote, Primas in Recasting Reality)--> All three domains are fundamentally informational, thus we can argue for a triple-aspect monism. 
+
+<p/>
+It is James' notion of "pure experience" which provides the basis for our <i>experience recorder and reproducer</i> model and the informational theory of mind. ERR is a strong alternative to the computational theory of mind. 
+<p/>
+The mind is pure information, the software in the hardware, the ghost in the machine, the modern spirit, the end product of the successive emergence of three kinds of information structures in the universe.
+<p/>
+
+
+<a name="consciousness_ERR"></a>
+<div class="subsectiontitle" align="center">
+<b>Consciousness and the Experience Recorder/Reproducer (ERR)</b>
+</div>
+<p/>
+Consciousness can be defined in information terms as an entity
+(usually a living thing, but we can also include artificially conscious
+machines or computers) that reacts to the information (and
+particularly to changes in the information) in its environment.
+In the context of information philosophy, we can define this as
+information consciousness.
+Thus an animal in a deep sleep is not conscious because it
+ignores changes in its environment. And robots may be conscious
+in our sense. Even the lowliest control system using negative feedback
+(a thermostat, for example) is in a minimal sense conscious
+of changes in its environment.
+<p/>
+This definition of consciousness fits with our model of the mind
+as an <i>experience recorder and reproducer</i> (ERR). The ERR model
+stands is a major altrnative to the popular cognitive science or “computational”
+model of the mind as a digital computer. No algorithms or
+stored programs are needed for the ERR model.
+<p/>
+The physical metaphor is a non-linear random-access data
+recorder, where data is stored using content-addressable memory
+(the memory address is the data content itself). Simpler than a
+computer with stored algorithms, a better technological metaphor
+might be a video and sound recorder, enhanced with the ability
+to record smells, tastes, touches, and critically essential, feelings.
+The biological model is neurons that wire together during an
+organism’s experiences, in multiple sensory and limbic systems,
+such that later firing of even a part of the wired neurons can stimulate
+firing of all or part of the original complex.
+<p/>
+Neuroscientists are investigating how diverse signals from multiple
+pathways can be unified in the brain. We offer no specific
+insight into these “binding” problems. Nor can we shed much light
+on the question of philosophical “meaning” of any given information
+structure, beyond the obvious relevance (survival value) for
+the organism of remembering past experiences.
+<p/>
+A conscious being is constantly recording information about its
+perceptions of the external world, and most importantly for ERR,
+it is simultaneously recording its feelings. Sensory data such as
+sights, sounds, smells, tastes, and tactile sensations are recorded in
+a sequence along with pleasure and pain states, fear and comfort
+levels, etc.
+<p/>
+All these experiential and emotional data are recorded in
+association with one another. This means that when the experiences
+are reproduced (played back in a temporal sequence), the
+accompanying emotions are once again felt, in synchronization.
+The capability of reproducing experiences is critical to learning
+from past experiences, so as to make them guides for action in
+future experiences. <i>The ERR model is the minimal mind model
+that provides for such learning by living organisms.</i>
+The ERR model does not need computer-like decision algorithms
+to reproduce past experiences. All that is required is that
+past experiences “play back” whenever they are stimulated by
+present experiences that resemble the past experiences in one or
+more ways. When the organism recreates experiences by acting
+them out, they can become “habitual” and “subconscious” information
+structures.
+<p/>
+It is critical that the original emotions play back, along with
+any variations in current emotions. ERR might then become an
+explanatory basis for conditioning experiments, classical Pavlovian
+and operant, and in general a model for associative learning.
+<p/>
+Bernard Baars’ Global Workspace Theory uses the metaphor
+of a “Theater of Consciousness,” in which there is an audience
+of purposeful agents calling for the attention of the executive on
+stage.
+<p/>
+In the ERR model, vast numbers of past experiences clamor for
+the attention of the central executive at all times, whenever anything
+in current experience has some resemblance.
+<p/>
+If we define “current experience” as all afferent perceptions and
+the current contents of consciousness itself, we get a dynamic self-referential system with plenty of opportunities for negative and
+positive feedback.
+<p/>
+William James’ description of a “stream of consciousness”
+together with a “blooming, buzzing confusion” of the unconscious
+appear and his notion of consciousness as "pure experience" appear to describe the ERR model very well.
+<p/>
+In the “blackboard” model of Allan Newell and Herbert Simon,
+concepts written on the blackboard call up similar concepts by association
+from deep memory structures. The ERR model supports
+this view, and explains the mechanism by which concepts (past
+experiences) come to the blackboard.
+<p/>
+In Daniel Dennett’s consciousness model, the mind is made
+up of innumerable functional homunculi, each with its own goals
+and purposes. Some of these homunculi are information structures formed
+genetically, which transmit “learning” or “knowledge” from generation
+to generation. Others are environmentally and socially
+conditioned, or consciously learned.
+<p/>
+<div align="center">
+Four “Levels” of Consciousness
+</div>
+<blockquote>
+<p/>
+<i>Instinctive Consciousness</i> - by animals with little or no
+learning capability. Automatic reactions to environmental conditions
+are transmitted genetically. Information about past experiences
+(by prior generations of the organism) is only present implicitly
+in the inherited reactions
+<p/>
+<i>Learned Consciousness</i> - for animals whose past experiences
+guide current choices. Conscious, but mostly habitual, reactions
+are developed through experience, including instruction by
+parents and peers.
+<p/>
+<i>Predictive Consciousness</i> - The Sequencer in the ERR system
+can play back beyond the current situation, allowing the organism
+to use imagination and foresight to evaluate the future
+consequences of its choices.
+<p/>
+<i>Reflective (Normative) Consciousness</i> – in which conscious
+deliberation about values influences the choice of behaviors.
+</blockquote>
+<p/>
+
+<a name="emergent_determinism"></a>
+<div class="subsectiontitle" align="center">
+<b>Determinism Itself Is An Emergent Property</b>
+</div>
+<p/>
+
+Determinism itself emerges as the universe evolves. Determinism did not exist in the early universe of pure radiation and sub-atomic particles when all interactions of particles and matter were quantum mechanical and indeterministic.
+<p/>
+When small numbers of atoms and molecules interact, their motions and behaviors are indeterministic, governed by the rules of quantum mechanics.
+<p/>
+However, when large numbers of microscopic particle get together in aggregates, the indeterminacy of the individual particles gets averaged over and macroscopic adequately deterministic laws "emerge." This allows macroscopic systems to exert downward causal control on their indeterministic atomic and molecular components. Macroscopic systems, in making the transition from quantum to classical, effectively suppress the indeterminism. 
+<p/>
+But notice that when intermininism (randomness, chance) serves some useful purpose (for example, the free creations and inventions of the human mind or the generation of unique antibodies in the immune system), then the "adequately determined" macroscopic information-processing system can recruit ontological randomness from its lower-level, physical-chemical substructures. 
+<p/>
+<div style="float:right;margin-left:10px;">
+<img src="/images/Big_Bang_Timeline400.png">
+</div>
+The first "information structures" that formed in the universe were the elementary sub-atomic particles produced when the temperature and density of radiation fell below values where particles could be stable against immediate destruction by high-energy photons. The first particles were quarks, electrons, and baryons (atomic nuclei), and these were the only particles for about 380,000 years. At this time the temperature cooled to about 3000 degrees Kelvin, below which electrons could combine with nuclei to form the first atoms (the next "information structures"). 
+<p/>
+It would be 400 million years before the temperature and density were low enough to allow the relatively weak but extremely long-range gravitational force to pull together masses large enough to become planets, stars, and galaxies following Newtonian laws of motion.
+<div class="clearBoth"></div>
+<a href="/freedom/adequate_determinism.html">"Adequate" determinism</a> and classical mechanics first <a href="/knowledge/emergence.html">emerged</a> in the early universe, but the <i>appearance</i> of determinism emerges every day in bodies large enough to average over the indeterministic behavior of individual particles. <a href="/solutions/scientists/heisenberg/">Heisenberg</a>'s indeterminacy principle <i>Δp Δx ≥ h</i> tells us the indeterminacy in momentum and position. Just as relativistic effects can be ignored when the velocity of an object is arbitrarily small compared to the velocity of light (when v / c &rarr; 0), some argue that quantum effects can be ignored when Planck's quantum of action <i>h</i> goes to zero.
+<p/>
+But this is a mistake. For an object at rest, v / c = 0, but the quantum of action <i>h</i> never changes. All physical systems are fundamentally quantum. <i>Quantum mechanics is universal</i>. The indeterminacy in the position and <i>velocity</i> of a large macroscopic object can become arbitrarily small if we replace the momentum <i>p</i> with <i>mv</i> and rewrite the indeterminacy relation as <i>Δv Δx ≥ h / m</i>. It is when the mass <i>m</i> is large and <i>h / m</i> approaches 0 that quantum effects can be ignored and the object treated as <a href="/freedom/adequate_determinism.html">adequately determined</a> for most practical purposes and as a "classical" object.
+
+<p/>
+The "laws of nature," such as Newton's laws of motion, are all statistical in nature. They "emerge" when large numbers of atoms or molecules get together. For large enough numbers, the probabilistic laws of nature approach practical certainty. But the fundamental indeterminism of component atoms never completely disappears. Indeed, quantum events sometimes show up in the macroscopic world, when an alpha-particle decay fires a Geiger counter, a cosmic ray mutates a gene, when a single photon is detected by an eye, or a single molecule is smelled by a nose.
+<p/>
+Of course, the philosophical "idea" of determinism had to wait for the emergence of human beings and the earliest philosophers (Democritus, Leucippus, and Epicurus). With the exception of Epicurus, very few philosophers before Charles Sanders Peirce and William James could see the positive benefits of some interdeterminism and chance to provide creative new alternative possibilities that are not <i>pre-determined</i>. 
+
+<p/>
+<a name="information_entropy_evolution"></a>
+<div class="subsectiontitle" align="center">
+<b>Information, Entropy, and Evolution</b>
+</div>
+<p/>
+    By information we mean a quantity that can be understood mathematically and physically. It corresponds to the common-sense meaning of information, in the sense of communicating or informing. It also corresponds to the information stored in books and computers. But it also measures the information in any physical object, like a recipe, blueprint, or production process, and the information in biological systems, including the genetic code and the cell structures. 
+<p/>
+    Ultimately, the information we mean is the departure of a physical system from pure chaos, from "thermodynamic equilibrium." In equilibrium, there is only motion of the microscopic constituent particles ("the motion we call heat"). The existence of macroscopic structures, such as the stars and planets, and their motions, is a departure from thermodynamic equilibrium. 
+<p/>
+Information is mathematically related to the measure of disorder known as the entropy by <a href="/solutions/scientists/boltzmann/">Ludwig Boltzmann</a>'s famous formula <i>S = k</i> log <i>W</i>, where <i>S</i> is the entropy and <i>W</i> is the probability - the number of ways that the internal components (the matter and energy particles of the system) can be rearranged and still be the same system.
+<p/>
+    The second law of thermodynamics says that the entropy (or disorder) of a <i>closed</i> physical system increases until it reaches a maximum, the state of thermodynamic equilibrium. It requires that the entropy of the universe is now and has always been increasing. 
+<p/>
+    This established fact of increasing entropy led many scientists and philosophers to assume that the universe we have is "running down" to a "heat death." They think that means the universe began in a very high state of information, since the second law requires that any organization or order is susceptible to decay. The information that remains today, in their view, has always been here.  There is nothing new under the sun.  
+<p/>
+    But the universe is not a <em>closed</em> system. It is in a dynamic state of expansion that is moving away from thermodynamic equilibrium faster than entropic processes can keep up. The maximum possible entropy is increasing much faster than the actual increase in entropy. The difference between the maximum possible entropy and the actual entropy is potential information, as shown by Harvard cosmologist <a href="/solutions/scientists/layzer/">David Layzer</a>. 
+<p/>
+<img src="/introduction/information/entropy-expansion.gif">
+<p/>
+    Creation of information structures means that in parts of the universe the local entropy is actually going down. Creation of a low entropy system is always accompanied by radiation of entropy away from the local structures to distant parts of the universe, into the night sky for example.  
+<p/>   
+    
+    Creation of information structures means that today there is more information in the universe than at any earlier time. This fact of increasing information fits well with an <a href="/freedom/indeterminism.html">undetermined</a> universe that is still creating itself.  In this universe, stars are still forming, biological systems are creating new species, and intelligent human beings are co-creators of the world we live in. 
+<p/>
+    All this creation is the result of the two-step core creative process. Understanding this process is as close as we are likely to come to understanding the idea of an anthropomorphic creator of the universe, a still-present divine providence, the cosmic source of everything <a href="/value/ergod/">good</a> and <a href="/problems/evil/">evil</a>.
+
+<p/>
+Darwinian evolution is another two-step creative process. Darwin proposed that chance variations (mutations) in the gene pool would be followed by natural selection to identify the variations with the greatest reproductive success. 
+
+<p/>
+
+<a name="note_on_free_will"></a>
+<div class="subsectiontitle" align="center">
+<b>A Note on Free Will</b>
+</div>
+
+<p/>
+The two-step cosmic creation process also underlies the most plausible and practical model for free will. Because each free decision to act also creates information in the world, it too must be a two-stage process, first involving some quantum indeterminism to freely generate alternative possibilities, then an adequately determined decision and action statistically caused by reasons, motives, intentions, feelings and desires.
+<p/>
+Darwin inspired the first philosopher to propose a two-stage model of free will, William James, who compared his “mental evolution” explicitly to Darwinian evolution.
+<p/>
+The genius of James’ picture of free will is that indeterminism is the source for what James called "alternative possibilities" and "ambiguous futures." The chance generation of such alternative possibilities for action does not in any way limit his choice to one of them. For James, chance is not the direct cause of actions. He makes it clear that it is his choice that “grants consent” to one of them.
+<p/>
+James was the first thinker to enunciate clearly a two-stage decision process, with chance in a present time of random alternatives, leading to a choice which grants consent to one possibility and transforms an equivocal ambiguous future into an unalterable and simple past. There is a temporal sequence of undetermined alternative possibilities followed by an adequately determined choice where chance is no longer a factor.
+<p/>
+In our <a href="/freedom/history/">history of the free will problem</a>, we have found several thinkers who have developed two-stage solutions to the classical <a href="/freedom/problem/">problem</a> of free will, including a few of our conference participants.
+<p/>
+Among them are <a href="/freedom/two-stage_models.html#james">William James</a>, <a href="/freedom/two-stage_models.html#poincare">Henri Poincaré</a>, <a href="/freedom/two-stage_models.html#hadamard">Jacques Hadamard</a>, <a href="/freedom/two-stage_models.html#compton">Arthur Holly Compton</a>, <a href="/freedom/two-stage_models.html#popper">Karl Popper</a>, <a href="/freedom/two-stage_models.html#dennett">Daniel Dennett</a>, <a href="/freedom/two-stage_models.html#margenau">Henry Margenau</a>, <a href="/freedom/two-stage_models.html#kane">Robert Kane</a>, <a href="/freedom/two-stage_models.html#sedley-long">David Sedley and Anthony Long</a>, <a href="/freedom/two-stage_models.html#penrose">Roger Penrose</a>, <a href="/freedom/two-stage_models.html#layzer">David Layzer</a>, <a href="/freedom/two-stage_models.html#annas">Julia Annas</a>, <a href="/freedom/two-stage_models.html#mele">Alfred Mele</a>, <a href="/freedom/two-stage_models.html#fischer">John Martin Fischer</a>, <a href="/freedom/two-stage_models.html#kosslyn">Stephen Kosslyn</a>, <a href="/freedom/two-stage_models.html#mccall-lowe">Storrs McCall and E. J. Lowe</a>, <a href="/freedom/two-stage_models.html#searle">John Searle</a>, <a href="/freedom/two-stage_models.html#meixner">Uwe Meixner</a>, <a href="/solutions/scientists/pauri/">Massimo Pauri</a>, and <a href="/freedom/two-stage_models.html#heisenberg">Martin Heisenberg</a>.
+<p/>
+<div align="center">
+Robert Kane's "Torn Decisions"
+</div>
+<p/>
+Most <a href="/freedom/two-stage_models.html">two-stage_models</a> of free will locate <a href="/freedom/indeterminism.html">indeterminism</a> in the early deliberative stage, in order to generate <a href="/freedom/possibilities.html">alternative possibilities</a> that are not <a href="/freedom/pre-determinism.html">pre-determined</a>. The other place that indeterminism might be involved is in the decision itself. This would make the decision random, except for Kane's defense of a "torn decision." When this is a moral decision, Kane makes it the basis for his "self-forming actions" (SFAs) that provide "ultimate responsibility" (UR).
+</p>
+<div style="center">
+<img src="/images/TemporalSequenceKane.png" width="525">
+</div>
+<p/>
+For detailed information on the most plausible and practical solution to the ancient problem of free will, see my book, <i>Free Will: The Scandal in Philosophy</i>. 
+The full text is <a href="/books/scandal/">available online (PDFs of chapters)</a>.
+
+<p/>
+
+<a name="information_and_value"></a>
+<div class="subsectiontitle" align="center">
+<b>Information and Objective Value</b>
+</div>
+
+<p/>
+Is the Good something that exists in the world? The Existentialists thought not. Most religions place its origin in a supernatural Being. Humanists felt it a human invention. Modern bioethicists situate value in all life. A variety of ancient religions looked to the sun as the source of all life and thus good. They anthropomorphized the sun or the "bright sky" as God. Dark and night were stigmatized as evil and "fallen."
+<p/>
+Philosophers have ever longed to discover a cosmic good. The ideal source of the good is remote as possible from the Earth in space and in time, for Kant a transcendental God outside space and time, for Plato a timeless Good to be found in Being itself, for his student Aristotle a property of the first principles that set the world in motion.
+<p/>
+Can we discover a cosmic good? At least identify the source of anything resembling the Good? Yes, we can. Does it resemble the Good anthropomorphized as a God personally concerned about our individual goods? No, it does not. But it has one outstanding characteristic of such a God, it is Providence. We have discovered that which provides. It provides the light, it provides life, it provides intelligence.
+<p/>
+We replace the difficult problem of “Does God exist?” with the more tractable problem “Does Goodness exist?” Humanists situate values in reason or human nature. Bioethicists seek to move the source of goodness to the biosphere. Life becomes the <i>summum bonum</i>. Information philosophers look out to the universe as a whole and find a cosmos that grew from a chaos. 
+<p/>
+Exactly how that is possible requires a profound understanding of the second law of thermodynamics in an expanding and open universe. A very small number of processes that we call ergodic can reduce the entropy locally to create macroscopic information structures like galaxies, stars, and planets and microscopic ones like atoms, molecules, organisms, and human intelligence.
+<p/>
+A battle rages between cosmic ergodic processes and chaotic entropic processes that destroy structure and information. Anthropomorphizing these processes as good and evil gives us a dualist image that nicely solves the monotheistic <a href="/problems/evil/">problem of evil</a>."  If God is the Good, God is not responsible for the Evil. Instead, we can clearly see an Ergod who is Divine Providence – the cosmic source without which we would not exist and so a proper object of reverence. And Entropy is the "devil incarnate." 
+<p/>
+Our moral guide to action is then very simple  – <em>preserve information structures against the entropy</em>.
+
+<p/>
+Celebrating the first modern philosopher, <a href="/solutions/philosophers/descartes/">Ren&eacute; Descartes</a>, we call our model for value the <a href="/value/ergo/">Ergo</a>. For those who want to anthropomorphize on the slender thread of discovering the natural Providence, call it <a href="/value/ergod/">Ergod</a>. No God can be God without being <a href="/values/ergodic.html">Ergodic</a>.
+<p/>
+<a href="/value/ergodic.html">Ergodic</a> processes are those that resist the terrible and universal Second Law of Thermodynamics, which commands the increase of chaos and entropy (disorder). Without violating that inviolable law overall, they reduce the entropy locally, bringing pockets of cosmos and negative entropy (order and information-rich structures). We call all this cosmic order the <a href="/values/ergo/">Ergo</a>. It is the ultimate <em>sine qua non</em>.
+<div class="sectiontitle">
+<b>References</b>
+</div>
+Alexander, Samuel, <i>Space, Time, and Deity</i><br/>
+Baars, Bernard. <i>In the Theater of Consciousness</i><br/>
+Campbell, Donald. "Downward Causation," in Karl Popper, Schilpp, P.A., ed.<br/>
+Chalmers, David. 1996  <i>The Conscious Mind</i>, Oxford University Press, New York.<br/>
+Corradini, Antonella. "Emergent Dualism," in  <i>Psycho-Physical Dualism Today: An Interdisciplinary Approach</i>, ed. Jonathan Lowe and Alessandro Antonietti <br/>
+Corradini, Antonella and Timothy O’Connor, eds. <i>Emergence in Science and Philosophy (Routledge Studies in the Philosophy of Science)</i>, <br/>
+Davidson, Donald. "The 'Mental' and the 'Physical'", in <i>Concepts, Theories, and the Mind-Body Problem</i>, Minnesota Studies in the Philosophy of Science, vol.2, p. 414<br/>
+Davidson, Donald. 1970, “Mental Events,” in <i>Experience and Theory</i>, University of Massachusetts Press (reprinted in Davidson (1980), pp. 207-227).<br/>
+Davidson, Donald. (1980). <i>Essays on Actions and Events</i>, Oxford: Clarendon Press.<br/>
+Deacon, Terrence. <i>Incomplete Nature</i>.<br/>
+Dennett, Daniel. <i>Brainstorms</i>.<br/>
+Descartes, René. (1642/1986). <i>Meditations on First Philosophy</i>, translated by John Cottingham, Cambridge: Cambridge University Press.<br/>
+Descartes, René.  <i>Discourse on Method</i>, 6:32<br/>
+Doyle, Bob. Free Will: The Scandal in Philosophy<br/>
+<!-- Einstein, Albert (1905) A Heuristic Viewpoint on the Production and Transformation of Light," Annalen der Physik, vol.17, p.133, English translation - American Journal of Physics, 33, 5, p.368<br/> -->
+Feigl, Herbert. (1958). "The 'Mental' and the 'Physical'" in <i>Minnesota Studies in the Philosophy of Science</i>, vol. II, pp. 370-497.<br/>
+Fodor, Jerry. (1974). "Special Sciences, or the Disunity of Science as a Working Hypothesis," <i>Synthese</i> 28; 97-115.<br/>
+Heil, John; and Alfred Mele (eds.). (1993). <i>Mental Causation</i>. Oxford: Clarendon Press.<br/>
+Heisenberg, Martin. “Is Free Will an Illusion?, Nature, <br/>
+Hobbes, Thomas. 1654 <i>Of Liberty and Necessity</i><br/>
+Jammer, Max. <i>Conceptual Development of Quantum Mechanics</i><br/>
+Kim, Jaegwon. 1989   "The Myth of Nonreductive Materialism", in Proceedings of the American Philosophical Association, Princeton University Press, p.150)<br/>
+Kim, Jaegwon. (1998). <i>Mind in a Physical World: An Essay on the Mind-Body Problem and Mental Causation</i>. Cambridge, Mass.: MIT Press.<br/>
+Kim, Jaegwon. (2005). <i>Physicalism, or Something Near Enough</i>, Princeton, Princeton University Press.<br/>
+Layzer, David. <i>Cosmogenesis</i>.<br/>
+Lewes, George Henry. <i>Problems of Life and Mind</i><br/>
+Lloyd Morgan, Conwiy. <i>Emergent Evolution</i><br/>
+McLaughlin, Brian. "The Rise and Fall of British Emergentism," in <i>Emergence or Reduction?: Essays on the Prospects of Nonreductive Physicalism</i>, A. Beckermann, H. Flohr, and J. Kim, eds., de Gruyter 1992
+Mill, John Stuart. <i>A System of Logic</i><br/>
+Murphy, Nancey and Warren Brown. <i>Did My Neurons Make Me Do It?</i><br/>
+Murphy, Nancey, George E.R. Ellis, and Timothy O’Connor. <i>Downward Causation and the Neurobiology of Free Will</i><br/>
+Nagel, Thomas. <i>Mind and Cosmos</i><br/>
+Peirce, Charles Sanders. 1892 "The Law of Mind," <i>The Monist</i>, vol. 2, pp. 533-559, Collected Papers of Charles Sanders Peirce, vol VI, p.86<br/>
+Putnam, Hilary. (1967). "The Nature of Mental States" in <i>Mind, Language, and Reality: Philosophical Papers</i>, vol. II (Cambridge University Press (1975).(Functionalism)<br/>
+Putnam, Hilary. (1975). "The Meaning of 'Meaning'", in <i>Mind, Language and Reality: Philosophical Papers 2</i>, 1975, Cambridge: Cambridge University Press, pp. 215-71.<br/>
+Putnam, Hilary. (1988). "The Nature of Mental States" in <i>Representation and Reality</i> (Cambridge. MIT Press (1988). (Abandons Functionalism)<br/>
+Prigogine, Ilya. <i>Order Out Of Chaos</i> <br/>
+Robb, David. (2003). "Mental Causation," <i>The Stanford Encyclopedia of Philosophy</i>, Edward Zalta (ed.). (<a href="http://plato.stanford.edu/entries/mental-causation/">link</a>)<br/>
+Sayre, Kenneth. <i>Cybernetics and the Philosophy of Mind</i> <br/>
+Schrödinger, Erwin. "What Is Life?", in <i>What Is Life?, and other essays</i>, 1945<br/>
+Searle, John.<br/>
+Shannon, Claude. <br/>
+Smart, J.J.C.<br/>
+Sperry, Roger.<br/>
+Stubenberg, Leopold. "Neutral Monism,"  <i>The Stanford Encyclopedia of Philosophy</i>, Edward Zalta (ed.) (<a href="http://plato.stanford.edu/entries/neutral-monism/">link</a>) <br/>
+Yoo, Julie. (2006). "Mental Causation," <i>The Internet Encyclopedia of Philosophy</i>, James Fieser and Bradley Dowden (eds.). (<a href="http://www.iep.utm.edu/mental-c/">link</a>)<br/>
+
+</div>
+<div id="skyFooter2340" class="skyFooter">
+
+<script type="text/javascript" language="javascript">
+document.onclick = fDocumentOnClick;
+document.ondblclick = fDocumentOnDblClick;
+document.onkeypress = fDocumentOnKeyPress;
+document.onmouseover = fSkyWritableOver;
+</script>
+<div class="skyFooterText">
+</div>
+
+</div>
+</body>
+</html>

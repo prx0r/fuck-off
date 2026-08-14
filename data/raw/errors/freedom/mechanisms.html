@@ -1,0 +1,2333 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+
+        
+    <link href="/css/base_menu.css" rel="stylesheet" type="text/css">
+    <link rel="shortcut icon" href="/favicon.ico"> 
+   
+        
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="description" content="Information Philosopher is dedicated to the new Information Philosophy, with explanations for Freedom, Values, and Knowledge.">
+    <meta name="keywords" content="Information, Philosopher, Philosophy, Freedom, Values, Knowledge, Demons, Determinism, Dogmas, Dualism, Certainty, Uncertainty, Indeterminacy, Entropy, Randomness, Microcosmos, Macrocosmos, Quantum Mechanics, Thermodynamics, Second Law ">
+    
+    <!-- You can use Open Graph tags to customize Facebook link previews.
+    Learn more: https://developers.facebook.com/docs/sharing/webmasters
+    Required properties are:
+      og:url, og:type, og:title, og:description, og:image, and fb:app_id
+    If og:image is not used, Facebook will notice the Twitter meta tags below 
+    and use a twitter icon for the page's image, which is undesirable, so I put 
+    in an empty og:image for now.
+    <meta property="og:image" content="http://informationphilosopher.com/images/Big_Bang_Timeline400.png">
+   
+    <meta property="og:image" content="">
+
+    <meta name="twitter:site" value="@infophilosopher" />
+    <meta property="twitter:url" content="https://informationphilosopher.com" />
+    <meta property="twitter:title" content="dedicated to the new information philosophy" />
+    <meta property="twitter:description" content="Problems in Philosophy and Physics Solved?" />
+ 
+    <script>window.twttr = (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0],
+        t = window.twttr || {};
+      if (d.getElementById(id)) return t;
+      js = d.createElement(s);
+      js.id = id;
+      js.src = "https://platform.twitter.com/widgets.js";
+      fjs.parentNode.insertBefore(js, fjs);
+
+      t._e = [];
+      t.ready = function(f) {
+        t._e.push(f);
+      };
+      return t;
+    }(document, "script", "twitter-wjs"));</script>
+     -->
+    <style>
+      #search_bar {
+        height: 24px;
+      }
+      #social_cluster {
+      	padding-right: 7px;
+     	padding-top: 3px;
+        float: right;
+        text-align: right;
+        width: 220px;
+      }
+      // #social_cluster div {
+      //   display: inline-block;
+      //   padding-bottom: 2px;
+      // }
+      .social_button {
+        float: right;
+        display: inline-block;
+        padding-top: 2px;
+        padding-bottom: 2px;
+      }
+      #social_links {
+      	clear: both;
+        font-size: 7pt;
+        color: #000099;
+      }
+      #social_links img {
+      	vertical-align: middle;  
+      }
+    </style>
+
+    <script language="javascript" type="text/javascript" src="/scripts/global-menus.js"></script>
+    
+    
+    
+    <style type="text/css">
+    .reader_level_0, .div_0 {
+      display: block;
+    }
+    .reader_level_1, .div_1 {
+      display: none;
+    }
+    .reader_level_2, .div_2 {
+      display: none;
+    }
+    .reader_level_0_span, .span_0 {
+      display: inline;
+    }
+    .reader_level_1_span, .span_1 {
+      display: none;
+    }
+    .reader_level_2_span, .span_2 {
+      display: none;
+    }
+    #reader_level_0_link {
+      
+  color: #000000;
+  font-weight: bold;
+  text-decoration: none;
+  cursor: text;    }
+    #reader_level_1_link {
+          }
+    #reader_level_2_link {
+          }
+    </style>
+    <script language="javascript" type="text/javascript">
+    function getElementsByClass(searchClass,node,tag) {
+      // thanks to Dustin Diaz
+      var classElements = new Array();
+      if ( node == null )
+        node = document;
+      if ( tag == null )
+        tag = '*';
+      var els = node.getElementsByTagName(tag);
+      var elsLen = els.length;
+      var pattern = new RegExp("(^|\s)"+searchClass+"(\s|$)");
+      for (i = 0, j = 0; i < elsLen; i++) {
+        if ( pattern.test(els[i].className) ) {
+          classElements[j] = els[i];
+          j++;
+        }
+      }
+      return classElements;
+    }
+    function fSetClassDisplay(sClass, sDisplay) {
+      var aClassElement;
+      aClassElement = getElementsByClass(sClass, document, "*");
+      // alert(aClassElement.length);
+      for ( i = 0; i < aClassElement.length; i++ ) {
+        aClassElement[i].style.display = sDisplay;
+      }
+    }
+    function fDimLink(sId) {
+      document.getElementById(sId).style.color = "#000000";
+      document.getElementById(sId).style.fontWeight = "bold";
+      document.getElementById(sId).style.textDecoration = "none";
+    }
+    function fLightLink(sId) {
+      document.getElementById(sId).style.color = "#3333ff";
+      document.getElementById(sId).style.fontWeight = "normal";
+      document.getElementById(sId).style.textDecoration = "underline";
+    }
+    function fSetReaderLevel(sReaderLevel) {
+      var sLevel0, sLevel1, sLevel2, sLevel0Span, sLevel1Span, sLevel2Span;
+      // set cookie
+      document.cookie = "ReaderLevel=" + sReaderLevel + "; expires=1785354926; path=/";
+      // set styles
+      if (sReaderLevel == 0) {
+        fDimLink("reader_level_0_link");
+        sLevel0 = "block";
+        sLevel1 = "none";
+        sLevel2 = "none";
+        sLevel0Span = "inline";
+        sLevel1Span = "none";
+        sLevel2Span = "none";
+      } else {
+        fLightLink("reader_level_0_link");
+      }
+      if (sReaderLevel == 1) {
+        fDimLink("reader_level_1_link");
+        sLevel0 = "block";
+        sLevel1 = "block";
+        sLevel2 = "none";
+        sLevel0Span = "inline";
+        sLevel1Span = "inline";
+        sLevel2Span = "none";
+      } else {
+        fLightLink("reader_level_1_link");
+      }
+      if (sReaderLevel == 2) {
+        fDimLink("reader_level_2_link");
+        sLevel0 = "block";
+        sLevel1 = "block";
+        sLevel2 = "block";
+        sLevel0Span = "inline";
+        sLevel1Span = "inline";
+        sLevel2Span = "inline";
+      } else {
+        fLightLink("reader_level_2_link");
+      }
+      fSetClassDisplay("reader_level_0", sLevel0);
+      fSetClassDisplay("reader_level_1", sLevel1);
+      fSetClassDisplay("reader_level_2", sLevel2);
+      fSetClassDisplay("div_0", sLevel0);
+      fSetClassDisplay("div_1", sLevel1);
+      fSetClassDisplay("div_2", sLevel2);
+      fSetClassDisplay("reader_level_0_span", sLevel0Span);
+      fSetClassDisplay("reader_level_1_span", sLevel1Span);
+      fSetClassDisplay("reader_level_2_span", sLevel2Span);
+      fSetClassDisplay("span_0", sLevel0Span);
+      fSetClassDisplay("span_1", sLevel1Span);
+      fSetClassDisplay("span_2", sLevel2Span);
+    }
+    </script>
+    
+<meta name="generator" content="skyBuilders.com timeLines">
+<link rel="stylesheet" href="https://www.informationphilosopher.com/timelines/PageFooter.css"><script type="text/javascript" language="javascript"><!-- 
+if (typeof SymRealWinOpen == 'function') {
+window.open = SymRealWinOpen;
+}
+//--></script>
+
+<script type="text/javascript" language="javascript">
+var sPageSeriesName = "mechanisms.html";
+var sRequestedFileName = "mechanisms.8.en.html";
+var sSkyPageID = "1520";
+function mSkyWrite() {
+window.open('/timelines/index.html?skyWrite=True&UserID=3&chosenLocaleCode=en&PageSeriesID=523&PageID=1520&DirPath=%2Ffreedom%2F', '_blank', 'resizable,menubar,location,toolbar,scrollbars,status,height=600,width=832,left=250,top=50', true);
+}
+var sCurrentlyOverDocument = 1;
+
+function fGetPagePos(oElement, sDimension) {
+  var sPagePos;
+  
+  if (! (oElement = document.getElementById(oElement))) {
+    return 0;
+  }
+  
+  sPagePos = 0;
+  
+  // alert(oElement);
+  while (oElement) {
+    if (typeof(oElement['offset' + sDimension]) != 'undefined') {
+      sPagePos += oElement['offset' + sDimension];
+    }
+    // alert(typeof oElement.offsetParent);
+    if (typeof(oElement.offsetParent) != 'undefined') {
+      oElement = oElement.offsetParent;
+    } else {
+      oElement = null;
+    }
+  }
+  
+  return sPagePos;
+}
+
+function fSkyWritableOver(sDivID, oEvent) {
+  var oDiv;
+  
+  if (oEvent) {
+    sElement = (oEvent.target) ? oEvent.target : oEvent.srcElement;
+    if ((sElement.id == 'skyIncludeEditablePencilImg') || (sElement.id == 'skyIncludeEditableCornerImg')){
+      window.status = 'click to edit';
+    }
+  }
+  
+  // alert(typeof sDivID);
+  if (typeof sDivID == 'string') {
+    sCurrentlyOverDocument = 0;
+    oDiv = document.getElementById(sDivID);
+    oPencil = document.getElementById('skyIncludeEditablePencil');
+    oCorner = document.getElementById('skyIncludeEditableCorner');
+    // sDivTop = oDiv.offsetTop;
+    sDivTop = fGetPagePos(sDivID, 'Top');
+    sDivLeft = fGetPagePos(sDivID, 'Left');
+    sDivWidth = oDiv.offsetWidth;
+    sDivHeight = oDiv.offsetHeight;
+    // alert('div: ' + sDivTop);
+    // alert(sDivWidth);
+    
+    oPencil.style.top = sDivTop + 'px';
+    oPencil.style.left = (sDivLeft + sDivWidth - 21) + 'px';
+    oCorner.style.top = (sDivTop + sDivHeight - 11) + 'px';
+    oCorner.style.left = sDivLeft + 'px';
+    // oSkyIncludeEditable.style.height = '0px';
+    // oSkyIncludeEditable.style.border = '#0000ff dashed 1px';
+    oPencil.style.width = '21px';
+    oPencil.style.height = '19px';
+    oPencil.style.zIndex = '101';
+    oPencil.onmouseover = oDiv.onmouseover;
+    oPencil.onmouseout = oDiv.onmouseout;
+    oPencil.onclick = oDiv.onclick;
+    oCorner.style.width = '10px';
+    oCorner.style.height = '9px';
+    oCorner.style.zIndex = '101';
+    oCorner.onmouseover = oDiv.onmouseover;
+    oCorner.onmouseout = oDiv.onmouseout;
+    oCorner.onclick = oDiv.onclick;
+    // oSkyIncludeEditable.style.display = 'block';
+    
+    // sSkyIncludeEditableTop = oSkyIncludeEditable.style.top;
+    // alert('skyinclude: ' + sSkyIncludeEditableTop);
+    
+    if (0) {
+      oDiv.style.borderWidth = '1px';
+      oDiv.style.borderStyle = 'dashed';
+      oDiv.style.borderColor = '#0000ff';
+    }
+  } else {
+    // sCurrentlyOverDocument = 1;
+  }
+}
+
+function fSkyWritableOut(sDivID) {
+  var oDiv;
+  
+  window.status = '';
+  
+  if (typeof sDivID == 'string') {
+    sCurrentlyOverDocument = 1;
+    // oDiv = document.getElementById(sDivID);
+    // doesn't work in IE: oDiv.style.border = '1px solid transparent';
+    // document.getElementById('skyIncludeEditable').style.display = 'none';
+    document.getElementById('skyIncludeEditablePencil').style.zIndex = '-1';
+    document.getElementById('skyIncludeEditablePencil').style.top = '-100';
+    document.getElementById('skyIncludeEditableCorner').style.zIndex = '-1';
+    document.getElementById('skyIncludeEditableCorner').style.top = '-100';
+    // oDiv.style.border = '1px solid #ffffff';
+  }
+}
+
+function fDocumentOnClick(oEvent) {
+  // alert(sCurrentlyOverDocument);
+  // if (0) {
+  if (sCurrentlyOverDocument == 1) {
+    fSkyWriteInclude(523, 1520, '/freedom/', oEvent);
+  }
+}
+
+function fAsOfNow() {
+  document.cookie = 'as_of=; path=/; domain=informationphilosopher.com';
+  document.location.href = '?@=now';
+}
+
+function fSubmitAsOfForm() {
+  oYearInput = document.getElementById('as_of_year');
+  oMonthInput = document.getElementById('as_of_month');
+  oDayInput = document.getElementById('as_of_day');
+  oHourInput = document.getElementById('as_of_hour');
+  oMinuteInput = document.getElementById('as_of_minute');
+  oSecondInput = document.getElementById('as_of_second');
+
+  sAsOf = oYearInput.value + '-' + oMonthInput.value + '-' + oDayInput.value + 'T' + oHourInput.value + ':' + oMinuteInput.value + ':' + oSecondInput.value;
+  document.location.href = '?@=' + sAsOf;
+}
+
+var aAsOfInputs = [
+  'as_of_year',
+  'as_of_month',
+  'as_of_day',
+  'as_of_hour',
+  'as_of_minute',
+  'as_of_second',
+];
+
+function fAsOfOnKeyUp(e) {
+  // Handle the Enter key
+  if (e.key == 'Enter') {
+     fSubmitAsOfForm();
+  }
+}
+
+function fAsOfOnInput(e) {
+  fAsOfNextInput(e.target);
+}
+
+function fAsOfNextInput(oInput) {
+  // Handle giving focus to the next input when this one is at max length
+  sMaxLen = String(oInput.max +'').length;
+
+  if (oInput.value.length == sMaxLen) {
+     // Find which input, if any, is next in the sequence
+     sNextIndex = aAsOfInputs.indexOf(oInput.id) + 1;
+     if (sNextIndex < aAsOfInputs.length) {
+     	oNext = document.getElementById(aAsOfInputs[sNextIndex]);
+	oNext.focus();
+	oNext.select();
+     }
+  }
+}
+
+function fDismissAsOfForm() {
+  var oDiv = document.getElementById('as_of_div');
+  if (oDiv) {
+    oDiv.style.display = 'none';
+  }
+}
+
+function fOpenAsOfForm() {
+  var oDiv = document.getElementById('as_of_div');
+  if (oDiv) {
+    oDisplaySpan = document.getElementById('as_of_display');
+    oYearInput = document.getElementById('as_of_year');
+    oMonthInput = document.getElementById('as_of_month');
+    oDayInput = document.getElementById('as_of_day');
+    oHourInput = document.getElementById('as_of_hour');
+    oMinuteInput = document.getElementById('as_of_minute');
+    oSecondInput = document.getElementById('as_of_second');
+  } else {
+    var oDiv = document.createElement('div');
+    oDiv.id = 'as_of_div';
+
+    var oForm = document.createElement('form');
+    oForm.style = 'margin-block-end: 0;';
+    oForm.id = 'as_of_form';
+    oForm.name = 'as_of_form';
+    oForm.onsubmit = fSubmitAsOfForm;
+    oDiv.appendChild(oForm);
+
+    var oGrid = document.createElement('div');
+    oGrid.style = 'display: grid; grid-template-columns: max-content min-content min-content min-content min-content min-content 1fr;';
+    oGrid.ondblclick = null;
+    oForm.appendChild(oGrid);
+
+    var oHeader = document.createElement('div');
+    oHeader.style = 'grid-column: 1; grid-row: 1; margin-top: 7px; padding-right: 5px;';
+    oHeader.appendChild(document.createTextNode('Showing page as of '));
+    oDisplaySpan = document.createElement('span');
+    oDisplaySpan.id = 'as_of_display';
+    oHeader.appendChild(oDisplaySpan)
+    oHeader.appendChild(document.createTextNode('. Choose date and time:'));
+    oGrid.appendChild(oHeader);
+
+    var oYearDiv = document.createElement('div');
+    oYearDiv.className = 'as_of_input_div';
+    oYearDiv.style = 'grid-column: 2; grid-row: 1;';
+    oGrid.appendChild(oYearDiv);
+
+    var oYearInput = document.createElement('input');
+    oYearInput.id = 'as_of_year';
+    oYearInput.type = 'number';
+    oYearInput.min = 1970;
+    oYearInput.max = 9999;
+    oYearInput.oninput = fAsOfOnInput;
+    oYearInput.onkeyup = fAsOfOnKeyUp;
+    oYearDiv.appendChild(oYearInput);
+
+    oYearDiv.appendChild(document.createTextNode('-'));
+
+    var oMonthDiv = document.createElement('div');
+    oMonthDiv.className = 'as_of_input_div';
+    oMonthDiv.style = 'grid-column: 3; grid-row: 1;';
+    oGrid.appendChild(oMonthDiv);
+
+    var oMonthInput = document.createElement('input');
+    oMonthInput.id = 'as_of_month';
+    oMonthInput.type = 'number';
+    oMonthInput.min = 1;
+    oMonthInput.max = 12;
+    oMonthInput.oninput = fAsOfOnInput;
+    oMonthInput.onkeyup = fAsOfOnKeyUp;
+    oMonthDiv.appendChild(oMonthInput);
+
+    oMonthDiv.appendChild(document.createTextNode('-'));
+
+    var oDayDiv = document.createElement('div');
+    oDayDiv.className = 'as_of_input_div';
+    oDayDiv.style = 'grid-column: 4; grid-row: 1; padding-right: 5px';
+    oGrid.appendChild(oDayDiv);
+
+    var oDayInput = document.createElement('input');
+    oDayInput.id = 'as_of_day';
+    oDayInput.type = 'number';
+    oDayInput.min = 1;
+    oDayInput.max = 31;
+    oDayInput.oninput = fAsOfOnInput;
+    oDayInput.onkeyup = fAsOfOnKeyUp;
+    oDayDiv.appendChild(oDayInput);
+
+    var oHourDiv = document.createElement('div');
+    oHourDiv.className = 'as_of_input_div';
+    oHourDiv.style = 'grid-column: 5; grid-row: 1;';
+    oGrid.appendChild(oHourDiv);
+
+    var oHourInput = document.createElement('input');
+    oHourInput.id = 'as_of_hour';
+    oHourInput.type = 'number';
+    oHourInput.min = 0;
+    oHourInput.max = 23;
+    oHourInput.oninput = fAsOfOnInput;
+    oHourInput.onkeyup = fAsOfOnKeyUp;
+    oHourDiv.appendChild(oHourInput);
+
+    oHourDiv.appendChild(document.createTextNode(':'));
+
+    var oMinuteDiv = document.createElement('div');
+    oMinuteDiv.className = 'as_of_input_div';
+    oMinuteDiv.style = 'grid-column: 6; grid-row: 1;';
+    oGrid.appendChild(oMinuteDiv);
+
+    var oMinuteInput = document.createElement('input');
+    oMinuteInput.id = 'as_of_minute';
+    oMinuteInput.type = 'number';
+    oMinuteInput.min = 0;
+    oMinuteInput.max = 59;
+    oMinuteInput.oninput = fAsOfOnInput;
+    oMinuteInput.onkeyup = fAsOfOnKeyUp;
+    oMinuteDiv.appendChild(oMinuteInput);
+
+    oMinuteDiv.appendChild(document.createTextNode(':'));
+
+    var oSecondDiv = document.createElement('div');
+    oSecondDiv.className = 'as_of_input_div';
+    oSecondDiv.style = 'grid-column: 7; grid-row: 1;';
+    oGrid.appendChild(oSecondDiv);
+
+    var oSecondInput = document.createElement('input');
+    oSecondInput.id = 'as_of_second';
+    oSecondInput.type = 'number';
+    oSecondInput.min = 0;
+    oSecondInput.max = 59;
+    oSecondInput.oninput = fAsOfOnInput;
+    oSecondInput.onkeyup = fAsOfOnKeyUp;
+    oSecondDiv.appendChild(oSecondInput);
+
+    var oSecondDiv = document.createElement('div');
+    oSecondDiv.className = 'as_of_input_div';
+    oSecondDiv.style = 'grid-column: 7; grid-row: 1;';
+    oGrid.appendChild(oSecondDiv);
+
+    var oButtonsDiv = document.createElement('div');
+    oButtonsDiv.style = 'grid-column: 8; grid-row: 1 /3; padding-top: 2px; text-align: right;';
+    oEnterButton = document.createElement('button');
+    oEnterButton.style = 'margin-bottom: 5px; margin-right: 5px;';
+    oEnterButton.onclick = fSubmitAsOfForm;
+    oEnterButton.appendChild(document.createTextNode('Enter'));
+    oButtonsDiv.appendChild(oEnterButton);
+    oNowButton = document.createElement('button');
+    oNowButton.style = 'margin-bottom: 5px;';
+    oNowButton.onclick = fAsOfNow;
+    oNowButton.appendChild(document.createTextNode('Now'));
+    oButtonsDiv.appendChild(oNowButton);
+    oButtonsDiv.appendChild(document.createElement('br'));
+    oDismissButton = document.createElement('button');
+    oDismissButton.onclick = fDismissAsOfForm;
+    oDismissButton.appendChild(document.createTextNode('Dismiss'));
+    oButtonsDiv.appendChild(oDismissButton);
+    oGrid.appendChild(oButtonsDiv);
+
+    var oErrorHeader = document.createElement('div');
+    oErrorHeader.style = 'grid-column: 1; grid-row: 2; padding-right: 5px; font-weight: bold;';
+    oErrorHeader.appendChild(document.createTextNode(''));
+    oGrid.appendChild(oErrorHeader);
+
+    var oYearLabelDiv = document.createElement('div');
+    oYearLabelDiv.className = 'as_of_label';
+    oYearLabelDiv.style = 'grid-column: 2;';
+    oGrid.appendChild(oYearLabelDiv);
+    oYearLabelDiv.appendChild(document.createTextNode('Year'));
+    oYearLabelDiv.appendChild(document.createElement('br'));
+    oYearLabelDiv.appendChild(document.createTextNode('YYYY'));
+
+    var oMonthLabelDiv = document.createElement('div');
+    oMonthLabelDiv.className = 'as_of_label';
+    oMonthLabelDiv.style = 'grid-column: 3;';
+    oGrid.appendChild(oMonthLabelDiv);
+    oMonthLabelDiv.appendChild(document.createTextNode('Month'));
+    oMonthLabelDiv.appendChild(document.createElement('br'));
+    oMonthLabelDiv.appendChild(document.createTextNode('01-12'));
+
+    var oDayLabelDiv = document.createElement('div');
+    oDayLabelDiv.className = 'as_of_label';
+    oDayLabelDiv.style = 'grid-column: 4;';
+    oGrid.appendChild(oDayLabelDiv);
+    oDayLabelDiv.appendChild(document.createTextNode('Day'));
+    oDayLabelDiv.appendChild(document.createElement('br'));
+    oDayLabelDiv.appendChild(document.createTextNode('01-31'));
+
+    var oHourLabelDiv = document.createElement('div');
+    oHourLabelDiv.className = 'as_of_label';
+    oHourLabelDiv.style = 'grid-column: 5;';
+    oGrid.appendChild(oHourLabelDiv);
+    oHourLabelDiv.appendChild(document.createTextNode('Hour'));
+    oHourLabelDiv.appendChild(document.createElement('br'));
+    oHourLabelDiv.appendChild(document.createTextNode('00-23'));
+
+    var oMinuteLabelDiv = document.createElement('div');
+    oMinuteLabelDiv.className = 'as_of_label';
+    oMinuteLabelDiv.style = 'grid-column: 6;';
+    oGrid.appendChild(oMinuteLabelDiv);
+    oMinuteLabelDiv.appendChild(document.createTextNode('Minute'));
+    oMinuteLabelDiv.appendChild(document.createElement('br'));
+    oMinuteLabelDiv.appendChild(document.createTextNode('00-59'));
+
+    var oSecondLabelDiv = document.createElement('div');
+    oSecondLabelDiv.className = 'as_of_label';
+    oSecondLabelDiv.style = 'grid-column: 7;';
+    oGrid.appendChild(oSecondLabelDiv);
+    oSecondLabelDiv.appendChild(document.createTextNode('Second'));
+    oSecondLabelDiv.appendChild(document.createElement('br'));
+    oSecondLabelDiv.appendChild(document.createTextNode('00-59'));
+
+    document.body.insertBefore(oDiv, document.body.firstChild);
+  }
+
+  oYearInput.value = '2026';
+  oMonthInput.value = '07';
+  oDayInput.value = '29';
+  oHourInput.value = '18';
+  oMinuteInput.value = '55';
+  oSecondInput.value = '26';
+
+  oDisplaySpan.innerText = oYearInput.value + '-' + oMonthInput.value + '-' + oDayInput.value + ' ' + oHourInput.value + ':' + oMinuteInput.value + ':' + oSecondInput.value;
+
+  oDiv.style.display = 'block';
+
+  oYearInput.focus();
+  oYearInput.select();
+}
+
+function fDocumentOnDblClick(oEvent) {
+  fOpenAsOfForm();
+}
+
+function fDocumentOnKeyPress(oEvent) {
+  // The @ symbol
+  if ((oEvent.shiftKey) && (oEvent.code == 'Digit2')) {
+    fOpenAsOfForm();
+  }
+}
+
+document.addEventListener('DOMContentLoaded', function(event) {
+  if ('' != '') {
+     document.cookie = 'as_of=; path=/; domain=informationphilosopher.com';
+     fOpenAsOfForm();
+  }
+});
+
+
+function fSkyWriteInclude(sPageSeriesID, sPageID, sDirPath, oEvent) {
+var sIndicatorClicked, sControlKeyPressed, sShiftKeyPressed;
+var sElement;
+
+// check for shift or control key depressed
+oEvent = (oEvent) ? oEvent : (window.event) ? window.event : ''
+
+sIndicatorClicked = 0;
+sControlKeyPressed = 0;
+sShiftKeyPressed = 0;
+if (oEvent) {
+  sModifierPressed = '';
+  
+  sElement = (oEvent.target) ? oEvent.target : oEvent.srcElement;
+  // alert(sElement.id);
+  
+  if ((sElement.id == 'skyIncludeEditablePencilImg') || (sElement.id == 'skyIncludeEditableCornerImg')){
+    sIndicatorClicked = 1;
+  }
+  
+  if (oEvent.which) {
+    if (oEvent.ctrlKey) {
+      sControlKeyPressed = 1;
+    }
+  } else {
+    if (oEvent.modifiers) {
+      if (oEvent.modifiers && oEvent.CTRL_MASK) {
+        // sControlKeyPressed = oEvent.modifiers;
+        sControlKeyPressed = 1;
+      }
+    } else {
+      if (oEvent.ctrlKey) {
+        sControlKeyPressed = 1;
+      }
+    }
+  }
+  
+  if (oEvent.which) {
+    if (oEvent.shiftKey) {
+      sShiftKeyPressed = 1;
+    }
+  } else {
+    if (oEvent.modifiers) {
+      if (oEvent.modifiers && oEvent.SHIFT_MASK) {
+        // sShiftKeyPressed = oEvent.modifiers;
+        sShiftKeyPressed = 1;
+      }
+    } else {
+      if (oEvent.shiftKey) {
+        sShiftKeyPressed = 1;
+      }
+    }
+  }
+}
+
+// if shift or control key pressed
+if ((sIndicatorClicked) || (sControlKeyPressed == 1) || (sShiftKeyPressed == 1)) {
+  // alert('pressed');
+  window.open('https://www.informationphilosopher.com/timelines/index.html?skyWrite=True&PageSeriesID=' + sPageSeriesID + '&PageID=' + sPageID + '&DirPath=' + sDirPath, '_blank', 'menubar,toolbar,location,resizable,scrollbars,status,height=600,width=832,left=250,top=50', true);
+}
+}
+    
+</script>
+	<title>Free Will Mechanisms</title>	
+</head>
+<body>
+
+    <a href="#skipnav" title="Skip Navigation, Search, and Login"></a>
+    <div id="header-wrapper"> 
+      <div id="header"> 
+        <!-- <div id="spacer">&nbsp;</div> -->
+        <div id="logo"><a href="/" title="Go to Information Philosopher home page"><img src="/images/clear.gif" alt="Go to Information Philosopher home page" border="0" width="70" height="70"></a></div>
+   
+	    <div id="social_cluster">
+            <!-- Load Facebook SDK for JavaScript -->
+            <div id="fb-root" style="display: inline;"></div>
+            <script>(function(d, s, id) {
+              var js, fjs = d.getElementsByTagName(s)[0];
+              if (d.getElementById(id)) return;
+              js = d.createElement(s); js.id = id;
+              js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8";
+              fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));</script>
+
+            <!-- Your like button code -->
+            <!-- data-href="https://www.your-domain.com/your-page.html" -->
+            <div class="social_button fb-like"
+              data-href=""
+              data-layout="button_count" 
+              data-action="like" 
+              data-show-faces="true">
+            </div>
+
+            <!-- Your share button code 
+            <div class="social_button fb-share-button" 
+              data-href="" 
+              data-layout="button_count">
+            </div> 
+
+            <div class="social_button">
+            	<a class="social_button twitter-share-button" href="https://twitter.com/intent/tweet">Tweet</a>&nbsp;
+            </div> -->
+            
+            <br />
+            <div id="social_links">
+	        	<font style="font-size:9px;font-color:#000066">Follow&nbsp;infophilosopher:</font>
+	        	 
+	        	<a href="https://www.facebook.com/infophilosopher" target="facebook" style="text-decoration:none" title="infophilosopher on Facebook"><img src="/images/Facebook3.png" style="border-radius: 3px; height:15px;"></a>
+	        	| 
+	        	<a href="http://youtube.com/infophilosopher/" target="youtube" style="text-decoration:none;" title="infophilosopher on YouTube"><img src="/images/YouTubeX.png" style="height:15px;"></a>
+	        </div>
+        </div>
+
+        <div id="main-menu">
+          <ul>
+            <li><a id="nav_banner_introduction" href="/introduction/" onmouseover="try{buttonMouseover(event, 'introduction');} catch(e){}">Introduction</a></li>
+            <li><a id="nav_banner_problems" href="/problems/" onmouseover="try{buttonMouseover(event, 'problems');} catch(e){}">Problems</a></li>
+            <li><a id="nav_banner_freedom" href="/freedom/" onmouseover="try{buttonMouseover(event, 'freedom');} catch(e){}">Freedom</a></li>
+            <li><a id="nav_banner_value" href="/value/" onmouseover="try{buttonMouseover(event, 'value');} catch(e){}">Value</a></li>
+            <li><a id="nav_banner_knowledge" href="/knowledge/" onmouseover="try{buttonMouseover(event, 'knowledge');} catch(e){}">Knowledge</a></li>
+            <!--<li><a id="nav_banner_solutions" href="/solutions/" onmouseover="try{buttonMouseover(event, 'solutions');} catch(e){}">Solutions</a></li> -->
+            <li><a id="nav_banner_life" href="/life/" onmouseover="try{buttonMouseover(event, 'life');} catch(e){}">Life</a></li>
+            <li><a id="nav_banner_mind" href="/mind/" onmouseover="try{buttonMouseover(event, 'mind');} catch(e){}">Mind</a></li>
+            <li><a id="nav_banner_chance" href="/chance/" onmouseover="try{buttonMouseover(event, 'chance');} catch(e){}">Chance</a></li>
+            <li><a id="nav_banner_quantum" href="/quantum/" onmouseover="try{buttonMouseover(event, 'quantum');} catch(e){}">Quantum</a></li>
+            <li><a id="nav_banner_entanglement" href="/entanglement/" onmouseover="try{buttonMouseover(event, 'entanglement');} catch(e){}">Entanglement</a></li>
+            <li><a id="nav_banner_scandal" href="/scandals/" onmouseover="try{buttonMouseover(event, 'scandals');} catch(e){}">Scandals</a></li>
+            <!--<li id="main-menu-rightmost"><a id="nav_banner_afterwords" href="/afterwords/" onmouseover="try{buttonMouseover(event, 'afterwords');} catch(e){}">Afterword</a></li>-->
+          </ul>
+        </div>
+      </div>
+    </div>
+ 
+    <div id="citation_info" class="display_none">
+      Citation for this page in APA citation style.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <span class="breadcrumbs">
+	  <a href="" title="Citation for this page in APA citation style." alt="Citation for this page in APA citation style." onclick="document.getElementById('citation_info').style.display = 'none'; return false;">Close</a> 
+	</span>
+      <p/>
+	<script language="javascript" type="text/javascript">
+	document.write(document.title);
+	document.write("<br/>Retrieved  ");
+	var oDate = new Date();
+	var aMonthName = new Array('January', 'February', 'March',
+                                   'April', 'May', 'June',
+                                   'July', 'August', 'September',
+                                   'October', 'November', 'December');
+	document.write(aMonthName[oDate.getMonth()] + ' ' + oDate.getDate() + ', ' + oDate.getFullYear());
+	document.write(", from Information Philosopher");
+	</script>
+	<br/>
+	<script language="javascript" type="text/javascript">
+	document.write("Web site <a href='");
+	document.write(location.href);
+	document.write("'>");
+	document.write(location.href);
+	document.write("</a>");
+	</script>
+
+    </div>
+
+    <div id="search_bar" class="search">
+      <table class="layout" cellpadding="0" cellspacing="0" width="731"> 
+        <tr> 
+          <td nowrap>
+	    <!-- &nbsp;<a href="http://www.informationphilosopher.com/site/search/">Search</a> | -->
+	    <!-- | <a href="http://www.informationphilosopher.com/site/A-Z_index/">A-Z Index</a> | -->
+
+	    <!--<a href="http://www.informationphilosopher.com/site/map/">Site Map</a> | 
+	    <a href="http://www.informationphilosopher.com/afterwords/glossary/">Glossary</a> |--> 
+
+	    <a href="/about/" target="about" style="text-decoration: none">About</a> &nbsp;
+
+	    <a href="/articles/" target="blog" style="text-decoration: none">Articles</a> &nbsp; 
+
+	    <!--<a href="http://i-phi.org" target="blog" style="text-decoration: none">Blog</a> &nbsp; -->
+	   
+	    <a href="/books/" target="blog" style="text-decoration: none">Books</a> &nbsp; 
+
+	    <a href="/lectures/" title="Lectures on information philosophy" alt="Lectures on information philosophy" style="text-decoration:none;margin-top:1px;">Lectures</a> &nbsp;
+
+	    <a href="/presentations/" target="presentations" style="text-decoration: none">Presentations</a> &nbsp; 
+
+	    <a href="/afterwords/glossary/" title="Glossary of Terms" alt="Glossary of Terms" style="text-decoration:none;margin-top:1px;">Glossary</a> &nbsp;
+
+	    <a href="" title="Citation for this page in APA citation style." alt="Citation for this page in APA citation style." onclick="document.getElementById('citation_info').style.display = 'block'; return false;" style="text-decoration: none">Cite</a> &nbsp;
+
+	    <a href="/help/" title="Want to help information philosophy?" alt="Want to help information philosophy?" style="text-decoration:none;margin-top:1px;">Help?</a> &nbsp;
+	    
+	     
+	    
+	    </td>
+
+          <!-- can we determine if user is logged in?  -->
+          <td class="search" align="right">
+        
+        <script type="text/javascript" language="javascript">
+	      function mAssembleSearchURL(sSearchCriteria, sWhichSearch) {
+	        var sSiteURL, sSearchURL;
+		sSiteURL = "informationphilosopher.com"
+	        sBaseURL = "http://www.google.com/search?hl=en&lr=&ie=UTF-8&oe=UTF-8&as_qdr=all&q=";
+
+		if (sWhichSearch == "0") {
+		  sSearchURL = sBaseURL + escape(sSearchCriteria);
+		} else {
+		  if (sWhichSearch == "1") {
+		    sSearchURL = sBaseURL + escape(sSearchCriteria) + "+site:" + sSiteURL;
+		  } else {
+		    sSearchURL = sBaseURL + escape(sSearchCriteria);
+		  }
+		}
+		window.open(sSearchURL, '_blank', 'menubar,location,resizable,scrollbars,status,toolbar,height=520,width=640,left=250,top=50', true);
+	      }
+	    </script>
+	    
+	    
+	    <form class="skyFooterForm" method="post" name="searchform1" action="" onsubmit="mAssembleSearchURL(document.searchform1.q.value, 1); return false;">
+	      <input size="30" maxlength="2048" name="q" type="text">
+	      <a href="" onclick="mAssembleSearchURL(document.searchform1.q.value, 1); return false;" style="text-decoration:none;">&nbsp;Search</a>
+	    </form>
+  
+        </td>
+          
+           <td>
+           	<a id="translate_link" title="A Google translation only gives you the 'gist' of the page. Please mouseover any confusing phrases to see the original English text." href="" style="text-decoration:none;"onmouseover="try{buttonMouseover(event, 'translate');} catch(e){}">Translate</a>
+           	<div id="translate" class="menu" onmouseover="menuMouseover(event);">
+           		<a id="translate_french" class="menuItem" href="https://translate.google.com/">French</a>
+           		<a id="translate_italian" class="menuItem" href="https://translate.google.com/">Italian</a>
+           		<a id="translate_german" class="menuItem" href="https://translate.google.com/">German</a>
+           		<a id="translate_russian" class="menuItem" href="https://translate.google.com/">Russian</a>
+           		<a id="translate_spanish" class="menuItem" href="https://translate.google.com/">Spanish</a>
+           	</div>
+           	</td>
+        </tr> 
+      </table>
+    </div>
+    
+	<script language="javascript" type="text/javascript">
+	var french = document.getElementById ("translate_french");
+	var italian = document.getElementById ("translate_italian");
+	var german = document.getElementById ("translate_german");
+	var russian = document.getElementById ("translate_russian");
+	var spanish = document.getElementById ("translate_spanish");
+	if (french) {
+		french.href = "https://translate.google.com/translate?sl=en&tl=fr&js=y&prev=_t&hl=en&ie=UTF-8&u=" + window.location.href + "&edit-text=";
+	};
+	if (italian) {
+		italian.href = "https://translate.google.com/translate?sl=en&tl=it&js=y&prev=_t&hl=en&ie=UTF-8&u=" + window.location.href + "&edit-text=";
+	};
+	if (german) {
+		german.href = "https://translate.google.com/translate?sl=en&tl=de&js=y&prev=_t&hl=en&ie=UTF-8&u=" + window.location.href + "&edit-text=";
+	};
+	if (russian) {
+		russian.href = "https://translate.google.com/translate?sl=en&tl=ru&js=y&prev=_t&hl=en&ie=UTF-8&u=" + window.location.href + "&edit-text=";
+	};
+	if (spanish) {
+		spanish.href = "https://translate.google.com/translate?sl=en&tl=es&js=y&prev=_t&hl=en&ie=UTF-8&u=" + window.location.href + "&edit-text=";
+	};
+	</script>
+
+    <a name="skipnav" tabindex="1" title="Information Philosopher"></a>
+    
+<div id="introduction" class="menu" onmouseover="menuMouseover(event);">
+  <a id="nav_banner_introduction_information" class="menuItem" href="/introduction/information/">The Information</a>
+  <a id="nav_banner_introduction_creation" class="menuItem" href="/introduction/creation/">The Creation</a>
+  <a id="nav_banner_introduction_physics" class="menuItem" href="/introduction/physics/">The Physics</a>
+  <a id="nav_banner_introduction_biology" class="menuItem" href="/introduction/biology/">The Biology</a>
+  <a id="nav_banner_introduction_philosophy" class="menuItem" href="/introduction/philosophy/">The Philosophy</a>
+  <a id="nav_banner_introduction_philosophers" class="menuItem" href="/solutions/philosophers/">The Philosophers</a>
+  <a id="nav_banner_introduction_scientists" class="menuItem" href="/solutions/scientists/">The Scientists</a>
+  <a id="nav_banner_introduction_problems" class="menuItem" href="/problems/">The Problems</a>
+  <a id="nav_banner_introduction_solutions" class="menuItem" href="/solutions/">The Solutions</a>
+  <a id="nav_banner_introduction_experiments" class="menuItem" href="/solutions/experiments/">The Experiments</a> 
+</div>
+    
+    <div id="problems" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_problems_arrow_of_time" class="menuItem" href="/problems/arrow_of_time/">Arrow of Time</a>
+      <a id="nav_banner_problems_consciousness" class="menuItem" href="/problems/consciousness/">Consciousness</a>
+      <a id="nav_banner_problems_dualisms" class="menuItem" href="/solutions/dualisms/">Dualisms</a>
+      <a id="nav_banner_problems_ergodicity" class="menuItem" href="/problems/ergodicity/">Ergodiciy</a>
+      <a id="nav_banner_problems_evil" class="menuItem" href="/problems/evil/">Evil</a>
+      <a id="nav_banner_problems_flatness" class="menuItem" href="/problems/flatness/">Flat Universe?</a>
+      <a id="nav_banner_problems_god" class="menuItem" href="/problems/god/">God</a>
+      <a id="nav_banner_problems_identity" class="menuItem" href="/problems/identity/">Identity</a>
+      <a id="nav_banner_problems_immortality" class="menuItem" href="/problems/immortality/">Immortality</a>
+      <a id="nav_banner_problems_induction" class="menuItem" href="/problems/induction/">Induction</a>
+      <a id="nav_banner_problems_life" class="menuItem" href="/problems/life/">Life</a>
+       <a id="nav_banner_problems_measurement" class="menuItem" href="/problems/measurement/">Measurement</a>
+       <a id="nav_banner_problems_mental_causation" class="menuItem" href="/problems/mental_causation/">Mental Causation</a>
+       <a id="nav_banner_problems_metaphysics" class="menuItem" href="/problems/metaphysics/">Metaphysics</a>
+       <a id="nav_banner_problems_mind_body" class="menuItem" href="/problems/mind_body/">Mind-Body</a>
+       <a id="nav_banner_problems_nonlocality" class="menuItem" href="/problems/nonlocality/">Nonlocality</a>
+       <a id="nav_banner_problems_possibilities" class="menuItem" href="/freedom/possibilities.html">Possibilities</a>
+       <a id="nav_banner_problems_recurrence" class="menuItem" href="/problems/recurrence/">Recurrence</a>
+       <a id="nav_banner_problems_reversibility" class="menuItem" href="/problems/reversibility/">Reversibility</a>
+    </div>
+
+   <div id="freedom" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_freedom_cogito" class="menuItem" href="/freedom/cogito/">The Cogito</a>
+      <a id="nav_banner_freedom_problem" class="menuItem" href="/freedom/problem/">The Problem</a>
+      <a id="nav_banner_freedom_history" class="menuItem" href="/freedom/history/">The History</a>
+      <a id="nav_banner_freedom_history" class="menuItem" href="/freedom/free_will_in_antiquity.html">Free Will in Antiquity</a>
+      <a id="nav_banner_freedom_mechanisms" class="menuItem" href="/freedom/mechanisms.html">Free Will Mechanisms</a>
+      <a id="nav_banner_freedom_physics" class="menuItem" href="/freedom/physics/">The Physics</a>
+      <a id="nav_banner_freedom_biology" class="menuItem" href="/freedom/biology/">The Biology</a>
+      <a id="nav_banner_freedom_neuroscience" class="menuItem" href="/freedom/neuroscience/">The Neuroscience</a>
+      <a id="nav_banner_freedom_possibilities" class="menuItem" href="/freedom/alternative_possibilities.html">Alternative Possibilities</a>
+      <a id="nav_banner_freedom_adequate" class="menuItem" href="/freedom/adequate_determinism.html">Adequate Determinism</a>
+      <a id="nav_banner_freedom_responsibility" class="menuItem" href="/freedom/moral_responsibility.html">Moral Responsibility</a>
+      <a id="nav_banner_freedom_self" class="menuItem" href="/freedom/self-determination.html">Self-Determination</a>
+      <a id="nav_banner_freedom_separability" class="menuItem" href="/freedom/separability.html">Separability of Free and Will</a>
+      <a id="nav_banner_freedom_argument" class="menuItem" href="/freedom/standard_argument.html">Standard Argument</a>
+      <a id="nav_banner_freedom_argument" class="menuItem" href="/freedom/superdeterminism.html">Superdeterminism</a>
+      <a id="nav_banner_freedom_two-stage" class="menuItem" href="/freedom/two-stage_models.html">Two-Stage Models</a>
+    </div>
+    
+    <div id="value" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_value_ergo" class="menuItem" href="/value/ergo/">The Ergo</a>
+      <a id="nav_banner_value_free_energy" class="menuItem" href="/value/free_energy/">Free Energy</a>
+      <a id="nav_banner_value_problem" class="menuItem" href="/value/problem/">The Problem</a>
+      <a id="nav_banner_value_history" class="menuItem" href="/value/history/">The History</a>
+      <a id="nav_banner_value_good" class="menuItem" href="/value/good/">The Good</a>
+      <a id="nav_banner_value_origin" class="menuItem" href="/value/origin/">Origin of the Good</a>
+      <a id="nav_banner_value_evil" class="menuItem" href="/value/evil/">Evil (Theodicy)</a>
+      <a id="nav_banner_value_ergod" class="menuItem" href="/value/ergod/">The Ergod</a>
+    </div>
+    
+    <div id="knowledge" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_knowledge_sum" class="menuItem" href="/knowledge/sum/">The Sum</a>
+      <a id="nav_banner_knowledge_problem" class="menuItem" href="/knowledge/problem/">The Problem</a>
+      <a id="nav_banner_knowledge_history" class="menuItem" href="/knowledge/history/">The History</a>
+      <a id="nav_banner_knowledge_belief" class="menuItem" href="/knowledge/belief/">Belief</a>
+      <a id="nav_banner_knowledge_complexity" class="menuItem" href="/knowledge/complexity/">Complexity</a>
+      <a id="nav_banner_knowledge_complexity_history" class="menuItem" href="/knowledge/complexity/history">Complex Systems History</a>
+      <a id="nav_banner_knowledge_demarcation" class="menuItem" href="/knowledge/demarcation/">Demarcation Problem</a>
+      <a id="nav_banner_knowledge_emergence" class="menuItem" href="/knowledge/emergence.html">Emergence</a>
+      <a id="nav_banner_knowledge_epistemology" class="menuItem" href="/problems/epistemology/">Epistemology</a>
+      <a id="nav_banner_knowledge_induction" class="menuItem" href="/problems/induction/">Induction</a>
+      <a id="nav_banner_knowledge_regress" class="menuItem" href="/knowledge/infinite_regress.html">Infinite Regress</a>
+      <a id="nav_banner_knowledge_meaning" class="menuItem" href="/knowledge/meaning/">Meaning</a>
+      <a id="nav_banner_knowledge_metaphysics" class="menuItem" href="/problems/metaphysics/">Metaphysics</a>
+      <a id="nav_banner_knowledge_ontology" class="menuItem" href="/problems/ontology/">Ontology</a>
+      <a id="nav_banner_knowledge_one-many" class="menuItem" href="/problems/one_or_many/">One or Many</a>
+      <a id="nav_banner_knowledge_providence" class="menuItem" href="/knowledge/providence/">Providence</a>
+      <a id="nav_banner_knowledge_universals" class="menuItem" href="/knowledge/universals.html">Universals</a>
+      <a id="nav_banner_knowledge_truth" class="menuItem" href="/knowledge/truth/">Truth</a>
+      
+    </div>
+    
+    
+     <div id="mind" class="menu" onmouseover="menuMouseover(event);">
+      <!--<a id="nav_banner_mind_problems" class="menuItem" href="/mind/problems/">The Problems</a>-->
+      <a id="nav_banner_mind_history" class="menuItem" href="/mind/history/">The History</a>
+      <!--<a id="nav_banner_mind_ego" class="menuItem" href="/mind/ego/">The Self <i>or</i> Ego</a>
+      <a id="nav_banner_mind_physics" class="menuItem" href="/mind/physics/">The Physics</a>
+      <a id="nav_banner_mind_neuroscience" class="menuItem" href="/mind/neuroscience/">The Neuroscience</a>-->
+      <a id="nav_banner_mind_mind-body" class="menuItem" href="/mind/mind_body/">Mind-Body Problem</a>
+      <a id="nav_banner_mind_consciousness" class="menuItem" href="/mind/binding/">Binding Problem</a>
+      <a id="nav_banner_mind_consciousness" class="menuItem" href="/mind/consciousness/">Consciousness Problem</a>
+      <a id="nav_banner_mind_tocs" class="menuItem" href="/mind/tocs/">Theories of Consciousness</a>
+      <a id="nav_banner_mind_nccs" class="menuItem" href="/mind/NCC/">Neural Correlates of Consciousness</a>
+      <a id="nav_banner_mind_consciousness" class="menuItem" href="/mind/cogscience/">Computational Models</a>
+      <a id="nav_banner_mind_lmm" class="menuItem" href="/mind/llm/">Is Mind a Large Language Model (AI)?</a>
+      <a id="nav_banner_mind_err" class="menuItem" href="/mind/ERR/">The Experience Recorder and Reproducer (ERR)</a>
+      <a id="nav_banner_mind_mirror" class="menuItem" href="/mind/mirror_neurons/">Mirror Neurons</a>
+      <a id="nav_banner_mind_causation" class="menuItem" href="/knowledge/mental_causation.html">Mental Causation</a>
+      <a id="nav_banner_mind_panpsychism" class="menuItem" href="/mind/panpsychism">Panpsychism</a>
+      <a id="nav_banner_mind_purpose" class="menuItem" href="/mind/purpose/">Purpose</a>
+      <a id="nav_banner_mind_agency" class="menuItem" href="/mind/agency/">Agency</a>
+      <a id="nav_banner_mind_reductionism" class="menuItem" href="/knowledge/reductionism.html">Reductionism</a>
+      <a id="nav_banner_mind_representation" class="menuItem" href="/knowledge/representation/">Representation</a>
+   </div>
+    
+    <div id="solutions" class="menu" onmouseover="menuMouseover(event);">
+     <a id="nav_banner_solutions_demons" class="menuItem" href="/solutions/demons/">Demons</a>
+     <a id="nav_banner_solutions_determinisms" class="menuItem" href="/solutions/determinisms/">Determinisms</a>
+     <a id="nav_banner_solutions_dogmas" class="menuItem" href="/solutions/dogmas/">Dogmas</a>
+     <a id="nav_banner_solutions_dualisms" class="menuItem" href="/solutions/dualisms/">Dualisms</a>
+     <a id="nav_banner_solutions_experiments" class="menuItem" href="/solutions/experiments/">Experiments</a>
+     <a id="nav_banner_solutions_language" class="menuItem" href="/solutions/language/">Language</a>
+     <!--  <a id="nav_banner_solutions_philosophers" class="menuItem" href="/solutions/philosophers/">Philosophers</a> -->
+     <a id="nav_banner_solutions_progress" class="menuItem" href="/solutions/progress/">Progress</a>
+     <a id="nav_banner_solutions_reason" class="menuItem" href="/solutions/reason/">Reason</a>
+     <!-- <a id="nav_banner_solutions_scientists" class="menuItem" href="/solutions/scientists/">Scientists</a>  -->
+     <a id="nav_banner_solutions_theories" class="menuItem" href="/solutions/theories/">Theories</a>
+     <a id="nav_banner_solutions_triads" class="menuItem" href="/solutions/triads/">Triads</a>
+    </div>
+    
+     <div id="chance" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_chance_history" class="menuItem" href="/chance/history/">The History</a>
+      <a id="nav_banner_mind_problems" class="menuItem" href="/introduction/physics/statistical_mechanics.html">Entropy and Probability</a>
+      <a id="nav_banner_chance_tyche" class="menuItem" href="/chance/tyche/">Peirce's Tyche</a>
+      <a id="nav_banner_chance_einstein" class="menuItem" href="/solutions/scientists/einstein/">Through Einstein's Eyes</a>
+    </div>
+    
+     <div id="quantum" class="menu" onmouseover="menuMouseover(event);">
+     <a id="nav_banner_quantum_blaxk_holes" class="menuItem" href="/quantum/black_holes/">Black Holes</a>
+     <a id="nav_banner_quantum_collapse" class="menuItem" href="/quantum/collapse/">Collapse of the <br/>Wave Function</a>
+     <a id="nav_banner_quantum_observer" class="menuItem" href="/quantum/observer/">Conscious Observer</a>
+     <a id="nav_banner_quantum_xopenhagen" class="menuItem" href="/quantum/copenhagen/">Copenhagen Interpretation</a>
+     <a id="nav_banner_quantum_decoherence" class="menuItem" href="/quantum/decoherence/">Decoherence</a>
+     <a id="nav_banner_quantum_determinism" class="menuItem" href="/quantum/determinism/">Determinism</a>
+     <a id="nav_banner_quantum_indeterminism" class="menuItem" href="/quantum/indeterminism/">Indeterminism</a>
+     <a id="nav_banner_quantum_principles" class="menuItem" href="/quantum/principles/">Dirac's Principles</a>
+     <a id="nav_banner_quantum_polarizers" class="menuItem" href="/solutions/experiments/dirac_3-polarizers/">Dirac's 3 Polarizers</a>
+     <a id="nav_banner_quantum_foundation" class="menuItem" href="/quantum/foundation/">Foundations</a>
+     <a id="nav_banner_quantum_interpretation" class="menuItem" href="/quantum/interpretations/">Interpretations</a>
+     <a id="nav_banner_quantum_irreversibility" class="menuItem" href="/problems/reversibility/">Irreversibility</a>
+     <a id="nav_banner_quantum_measurement" class="menuItem" href="/problems/measurement/">Measurement Problem</a>
+     <a id="nav_banner_quantum_physics" class="menuItem" href="/quantum/physics/">Quantum, Thermo, Info</a>
+     <a id="nav_banner_quantum_classical" class="menuItem" href="/introduction/physics/quantum_to_classical.html">Quantum to Classical</a>
+     <a id="nav_banner_quantum_recurrence" class="menuItem" href="/problems/recurrence/">Recurrence Problem</a>
+     <a id="nav_banner_quantum_schrodingerscat" class="menuItem" href="/solutions/experiments/schrodingerscat/">Schrödinger's Cat</a>
+     <a id="nav_banner_quantum_schrodingerequation" class="menuItem" href="/quantum/equation/">Schrödinger Equation</a>
+     <a id="nav_banner_quantum_statistical" class="menuItem" href="/quantum/spacetime/">SpaceTime</a>
+     <a id="nav_banner_quantum_spacetime" class="menuItem" href="/quantum/statistical/">Statistical Interpretation</a>
+     <a id="nav_banner_quantum_superposition" class="menuItem" href="/quantum/superposition/">Superposition</a>
+     <a id="nav_banner_quantum_mystery" class="menuItem" href="/quantum/mystery/">The Only Mystery</a>
+     <a id="nav_banner_quantum_EPR" class="menuItem" href="/quantum/two-slit/">Two-Slit Experiment</a>
+     <a id="nav_banner_quantum_EPR" class="menuItem" href="/quantum/uncertainty/">Uncertainty Principle</a>
+     <a id="nav_banner_quantum_wave" class="menuItem" href="/introduction/physics/wave-particle_duality.html">Wave-Particle Duality</a>
+    </div>
+    
+    <div id="scandals" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_scandals_chance" class="menuItem" href="/scandals/chance/">Chance</a> <!--Science-->
+      <a id="nav_banner_scandals_consciousness" class="menuItem" href="/scandals/consciousness/">Consciousness</a> <!--Neuroscience-->
+      <a id="nav_banner_scandals_flat" class="menuItem" href="/scandals/creation/">Creation</a>  <!--Cosmology-->
+      <a id="nav_banner_scandals_einstein" class="menuItem" href="/scandals/einstein/">Einstein</a>  <!--Quantum Mechanics-->
+      <a id="nav_banner_scandals_freedom" class="menuItem" href="/scandals/free_will/">Free Will</a>  <!--Philosophys-->
+      <a id="nav_banner_scandals_god" class="menuItem" href="/scandals/god/">God</a>  <!--Religion-->
+      <a id="nav_banner_scandals_knowledge" class="menuItem" href="/scandals/knowledge/">Knowledge</a>  <!--Epistemology-->
+      <a id="nav_banner_scandals_life" class="menuItem" href="/scandals/life/">Life</a> <!--Biology-->
+      <a id="nav_banner_scandals_meaning" class="menuItem" href="/scandals/meaning/">Meaning</a> <!--Language-->
+      <a id="nav_banner_scandals_metaphysics" class="menuItem" href="/scandals/metaphysics/">Metaphysics</a> <!--Ontology-->
+      <a id="nav_banner_scandals_mind" class="menuItem" href="/scandals/mind/">Mind</a> <!--Language-->
+      <a id="nav_banner_scandals_power" class="menuItem" href="/scandals/power/">Power</a> <!--Politics-->
+      <a id="nav_banner_scandals_values" class="menuItem" href="/scandals/value/">Values</a>  <!--Ethics-->
+      <a id="nav_banner_scandals_wealth" class="menuItem" href="/scandals/wealth/">Wealth</a>  <!--Economics-->
+   </div>
+
+    <div id="afterwords" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_afterwords_conclusions" class="menuItem" href="/afterwords/conclusions/">Conclusions</a>
+      <a id="nav_banner_afterwords_bibliography" class="menuItem" href="/afterwords/bibliography/">Bibliography</a>
+      <a id="nav_banner_afterwords_glossary" class="menuItem" href="/afterwords/glossary/">Glossary</a>
+      <a id="nav_banner_afterwords_author_index" class="menuItem" href="/afterwords/author_index/">Name Index</a>
+      <a id="nav_banner_afterwords_subject_index" class="menuItem" href="/afterwords/subject_index/">Subject Index</a>
+      <a id="nav_banner_afterwords_colophon" class="menuItem" href="/afterwords/colophon/">Colophon</a>
+    </div>
+    
+    <div id="life" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_life_agency" class="menuItem" href="/life/agency/">Agency</a>
+      <a id="nav_banner_life_autopoesis" class="menuItem" href="/life/autopoesis/">Autopoesis</a>
+      <!--<a id="nav_banner_life_cell_cycle" class="menuItem" href="/life/cell_cycle/">The Cell Cycle</a>-->
+      <a id="nav_banner_life_beyond" class="menuItem" href="/life/beyond/">Beyond Darwinism?</a>
+      <a id="nav_banner_life_biosemiotics" class="menuItem" href="/life/biosemiotics/">Biosemiotics</a>
+      <a id="nav_banner_life_biosphere" class="menuItem" href="/life/biosphere/">Biosphere</a>
+      <a id="nav_banner_life_complexity" class="menuItem" href="/life/complexity/">Complexity</a>
+      <a id="nav_banner_life_emergence" class="menuItem" href="/life/emergence/">Emergence</a>
+      <a id="nav_banner_life_entelechy" class="menuItem" href="/life/entelechy/">Entelechy</a>
+      <a id="nav_banner_life_entropy" class="menuItem" href="/life/entropy/">Entropy</a>
+      <a id="nav_banner_life_epigenetics" class="menuItem" href="/life/epigenetics/">Epigenetics</a>
+      <a id="nav_banner_life_gaia" class="menuItem" href="/life/gaia/">Gaia</a>
+      <a id="nav_banner_life_infobiology" class="menuItem" href="/life/infobiology/">Information in Biology</a>
+      <a id="nav_banner_life_design" class="menuItem" href="/life/design/">Intelligent Design</a>
+      <a id="nav_banner_life_meaning" class="menuItem" href="/life/meaning/">Meaning</a>
+      <a id="nav_banner_life_origins" class="menuItem" href="/life/origins/">Origins</a>
+      <a id="nav_banner_life_goal" class="menuItem" href="/life/goal/">Purpose</a>
+      <a id="nav_banner_life_reductionism" class="menuItem" href="/life/reductionism/">Reductionism</a>
+      <a id="nav_banner_life_reverence" class="menuItem" href="/life/reverence/">Reverence for Life</a>
+      <!--<a id="nav_banner_life_synergy" class="menuItem" href="/life/synergy"/">Synergy</a>-->
+      <a id="nav_banner_life_teleology" class="menuItem" href="/life/teleology/">Teleology</a>
+      <a id="nav_banner_life_teleonomy" class="menuItem" href="/life/teleonomy/">Teleonomy</a>
+      <a id="nav_banner_life_universal_darwinism" class="menuItem" href="/life/universal_darwinism/">Universal Darwinism</a>
+      <a id="nav_banner_life_vitalism" class="menuItem" href="/life/vitalism/">Vitalism</a>
+      
+      
+    </div>
+    
+    <div id="entanglement" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_bell" class="menuItem" href="/quantum/bell_theorem/">Bell's Theorem</a>
+      <a id="nav_banner_entanglement_polytope" class="menuItem" href="/entanglement/polytope/">Bell's Kinky Polytope</a>
+      <a id="nav_banner_common_cause" class="menuItem" href="/entanglement/common_cause/">Common Cause?</a>
+      <a id="nav_banner_disentanglement*" class="menuItem" href="/quantum/disentanglement/">Disentanglement</a>
+      <a id="nav_banner_EPR" class="menuItem" href="/solutions/experiments/EPR/">EPR Paradox</a>
+      <a id="nav_banner_fresnel" class="menuItem" href="/quantum/fresnel-arago/">Fresnel-Arago Effect</a>
+      <a id="nav_banner_hidden_constant" class="menuItem" href="/quantum/hidden_constant/">Hidden Constant of Motion?</a>
+      <a id="nav_banner_hidden_variables" class="menuItem" href="/entanglement/hidden_variables/">Hidden Variables?</a>
+      <a id="nav_banner_mach-zender" class="menuItem" href="/quantum/mach_zender/">Mach-Zender</a>
+      <a id="nav_banner_quantum_keys" class="menuItem" href="/quantum/keys/">Quantum Keys</a>
+      <a id="nav_banner_nonlocality" class="menuItem" href="/problems/nonlocality/">Nonlocality</a>
+      <a id="nav_banner_nonseparability" class="menuItem" href="/problems/nonseparability/">Nonseparability</a>
+      <a id="nav_banner_quantum_computer" class="menuItem" href="/quantum/keys/">Quantum Computers</a>
+      <a id="nav_banner_quantum_eraser" class="menuItem" href="/quantum/keys/">Quantum Eraser</a>
+      <a id="nav_banner_quantum_keys" class="menuItem" href="/quantum/keys/">Quantum Keys</a>
+      <a id="nav_banner_quantum_weirdness" class="menuItem" href="/quantum/weirdness/">Quantum Weirdness</a>
+      <a id="nav_banner_qubits" class="menuItem" href="/quantum/qubits/">Qubits</a>
+      <a id="nav_banner_spherical" class="menuItem" href="/entanglement/spherical/">Spherical Symmetry</a>
+      <a id="nav_banner_spooky_action" class="menuItem" href="/entanglement/spooky/">Spooky Action at a Distance</a>
+      <a id="nav_banner_delayed" class="menuItem" href="/quantum/delayed_choice/">Wheeler's Delayed Choice</a>
+      
+    </div>
+
+    
+    
+    
+    <!-- start column1 -->
+    <table width="765" border="0" cellspacing="0" cellpadding="0">
+      <tbody>
+	<tr>
+	  <td valign="top">
+	    <div id="column1">
+	     <div class="linksLeftCol">
+              Core&nbsp;Concepts
+    <br><br>
+    <a href="/freedom/actualism.html">Actualism</a><br> 
+    <a href="/freedom/adequate_determinism.html">Adequate Determinism</a><br> 
+    <a href="/freedom/agent-causality.html">Agent-Causality</a><br> 
+    <a href="/freedom/alternative_possibilities.html">Alternative Possibilities</a><br> 
+    <a href="/freedom/causa_sui.html"><em>Causa Sui</em></a><br> 
+    <a href="/freedom/causal_closure.html">Causal Closure</a><br> 
+    <a href="/freedom/causalism.html">Causalism</a><br> 
+    <a href="/freedom/causality.html">Causality</a><br> 
+    <a href="/freedom/certainty.html">Certainty</a><br> 
+    <a href="/freedom/chance.html">Chance</a><br> 
+    <a href="/freedom/chance_direct_cause.html">Chance&nbsp;Not&nbsp;Direct&nbsp;Cause</a><br> 
+    <a href="/freedom/chaos.html">Chaos Theory</a><br> 
+    <a href="/freedom/cogito/">The Cogito Model</a><br> 
+    <a href="/freedom/compatibilism.html">Compatibilism</a><br> 
+    <a href="/freedom/complexity.html">Complexity</a><br> 
+    <a href="/freedom/comprehensive-compatibilism.html">Comprehensive &nbsp;&nbsp;Compatibilism</a><br> 
+    <a href="/freedom/conceptual_analysis.html">Conceptual Analysis</a><br> 
+    <a href="/freedom/contingency.html">Contingency</a><br> 
+    <a href="/freedom/control.html">Control</a><br> 
+    <a href="/freedom/otherwise.html">Could Do Otherwise</a><br> 
+    <a href="/freedom/creativity.html">Creativity</a><br> 
+    <a href="/freedom/default_responsibility.html">Default Responsibility</a><br> 
+    <a href="/freedom/de-liberation.html">De-liberation</a><br> 
+    <a href="/freedom/determination.html">Determination</a><br> 
+    <a href="/freedom/determination_fallacy.html">Determination Fallacy</a><br> 
+    <a href="/freedom/determinism.html">Determinism</a><br> 
+    <a href="/freedom/disambiguation.html">Disambiguation</a><br> 
+    <a href="/freedom/double_effect.html">Double Effect</a><br> 
+    <a href="/freedom/either_way.html">Either Way</a><br> 
+    <a href="/freedom/enlightenment.html">Enlightenment</a><br> 
+    <a href="/freedom/emergent_determinism.html">Emergent Determinism</a><br> 
+    <a href="/freedom/epistemic_freedom.html">Epistemic Freedom</a><br> 
+    <a href="/freedom/ethical_fallacy.html">Ethical Fallacy</a><br> 
+    <a href="/freedom/x-philosophy.html">Experimental Philosophy</a><br> 
+    <a href="/freedom/extreme_libertarianism.html">Extreme Libertarianism</a><br> 
+    <a href="/freedom/event_has_many_causes.html">Event Has Many Causes</a><br> 
+    <a href="/freedom/frankfurt_cases.html">Frankfurt Cases</a><br> 
+    <a href="/freedom/free_choice.html">Free Choice</a><br>
+    <a href="/freedom/freedom_of_action.html">Freedom of Action</a><br>
+    <a href="/freedom/free_will.html">"Free Will"</a><br>
+    <a href="/freedom/free_will_axiom.html">Free Will Axiom</a><br>
+    <a href="/freedom/free_will_in_antiquity.html">Free Will in Antiquity</a><br>
+    <a href="/freedom/mechanisms.html">Free Will Mechanisms</a><br>
+    <a href="/freedom/requirements.html">Free Will Requirements</a><br>
+    <a href="/freedom/free_will_theorem.html">Free Will Theorem</a><br>
+    <a href="/freedom/future_contingency.html">Future Contingency</a><br> 
+    <a href="/freedom/hard_incompatibilism.html">Hard Incompatibilism</a><br> 
+    <a href="/freedom/idea_of_freedom.html">Idea of Freedom</a><br> 
+    <a href="/freedom/illusion_of_determinism.html">Illusion of Determinism</a><br> 
+    <a href="/freedom/illusionism.html">Illusionism</a><br> 
+    <a href="/freedom/impossibilism.html">Impossibilism</a><br> 
+    <a href="/freedom/incompatibilism.html">Incompatibilism</a><br> 
+    <a href="/freedom/indeterminacy.html">Indeterminacy</a><br> 
+    <a href="/freedom/indeterminism.html">Indeterminism</a><br> 
+    <a href="/freedom/infinities.html">Infinities</a><br>
+    <a href="/freedom/laplaces_demon.html">Laplace's Demon</a><br> 
+    <a href="/freedom/libertarianism.html">Libertarianism</a><br> 
+    <a href="/freedom/indifference.html">Liberty of Indifference</a><br> 
+    <a href="/freedom/libet_experiments.html">Libet Experiments</a><br> 
+    <a href="/freedom/luck.html">Luck</a><br> 
+    <a href="/freedom/master_argument.html">Master Argument</a><br> 
+    <a href="/freedom/modest_libertarianism.html">Modest Libertarianism</a><br> 
+    <a href="/freedom/moral_necessity.html">Moral Necessity</a><br>
+    <a href="/freedom/moral_responsibility.html">Moral Responsibility</a><br>
+    <a href="/freedom/moral_sentiments.html">Moral Sentiments</a><br>
+    <a href="/freedom/mysteries.html">Mysteries</a><br>
+    <a href="/freedom/naturalism.html">Naturalism</a><br>
+    <a href="/freedom/necessity.html">Necessity</a><br> 
+    <a href="/freedom/noise.html">Noise</a><br> 
+    <a href="/freedom/non-causality.html">Non-Causality</a><br> 
+    <a href="/freedom/nonlocality.html">Nonlocality</a><br> 
+    <a href="/freedom/origination.html">Origination</a><br> 
+    <a href="/freedom/paradigm_case.html">Paradigm Case</a><br> 
+    <a href="/freedom/possibilism.html">Possibilism</a><br> 
+    <a href="/freedom/possibilities.html">Possibilities</a><br> 
+    <a href="/freedom/pre-determinism.html">Pre-determinism</a><br> 
+    <a href="/freedom/predictability.html">Predictability</a><br> 
+    <a href="/freedom/probability.html">Probability</a><br> 
+    <a href="/freedom/pseudo-problem.html">Pseudo-Problem</a><br>
+    <a href="/freedom/location.html">Random&nbsp;When?/Where?</a><br> 
+    <a href="/freedom/rational_fallacy.html">Rational Fallacy</a><br> 
+    <a href="/freedom/reason.html">Reason</a><br>
+    <a href="/freedom/replay.html">Refutations</a><br>
+    <a href="/freedom/replay.html">Replay</a><br>
+    <a href="/freedom/responsibility.html">Responsibility</a><br>
+    <a href="/freedom/same_circumstances.html">Same Circumstances</a><br> 
+    <a href="/freedom/scandal.html">Scandal</a><br> 
+    <a href="/freedom/science_advance_fallacy.html">Science Advance Fallacy</a><br> 
+    <a href="/freedom/second_thoughts.html">Second Thoughts</a><br> 
+    <a href="/freedom/self-determination.html">Self-Determination</a><br> 
+    <a href="/freedom/semicompatibilism.html">Semicompatibilism</a><br> 
+    <a href="/freedom/separability.html">Separability</a><br> 
+    <a href="/freedom/soft_causality.html">Soft Causality</a><br> 
+    <a href="/freedom/special_relativity.html">Special Relativity</a><br> 
+    <a href="/freedom/standard_argument.html">Standard Argument</a><br> 
+    <a href="/freedom/supercompatibilism.html">Supercompatibilism</a><br> 
+    <a href="/freedom/superdeterminism.html">Superdeterminism</a><br> 
+    <a href="/freedom/taxonomy.html">Taxonomy</a><br> 
+    <a href="/freedom/temporal_sequence.html">Temporal Sequence</a><br> 
+    <a href="/freedom/tertium_quid.html"><em>Tertium Quid</em></a><br> 
+    <a href="/freedom/torn_decision.html">Torn Decision</a><br> 
+    <a href="/freedom/two-stage_models.html">Two-Stage Models</a><br> 
+    <a href="/freedom/ultimate_responsibility.html">Ultimate Responsibility</a><br>
+    <a href="/freedom/uncertainty.html">Uncertainty</a><br> 
+    <a href="/freedom/up_to_us.html">Up To Us</a><br> 
+    <a href="/freedom/voluntarism.html">Voluntarism</a><br> 
+    <a href="/freedom/what_if.html">What If Dennett and Kane Did Otherwise?</a><br> 
+<p/>              Topics
+<p/>
+    <a href="/introduction/">Introduction</a><br> 
+    <a href="/problems/">Problems</a><br> 
+    <a href="/freedom/">Freedom</a><br> 
+    <a href="/knowledge/">Knowledge</a><br> 
+    <a href="/mind/">Mind</a><br> 
+    <a href="/life/">Life</a><br> 
+    <a href="/chance/">Chance</a><br> 
+    <a href="/quantum/">Quantum</a><br> 
+    <a href="/entanglement/">Entanglement</a><br> 
+    <a href="/scandals/">Scandals</a><br> 
+    <p/>
+Philosophers
+    <br><br>
+    <a href="/solutions/philosophers/adler/">Mortimer Adler</a><br> 
+    <a href="/solutions/philosophers/albritton/">Rogers Albritton</a><br> 
+    <a href="/solutions/philosophers/alexander/">Alexander of Aphrodisias</a><br> 
+    <a href="/solutions/philosophers/alexanders/">Samuel Alexander</a><br> 
+    <a href="/solutions/philosophers/alston/">William Alston</a><br> 
+    <a href="/solutions/philosophers/anaximander/">Anaximander</a><br> 
+    <a href="/solutions/philosophers/anscombe/">G.E.M.Anscombe</a><br> 
+    <a href="/solutions/philosophers/anselm/">Anselm</a><br> 
+    <a href="/solutions/philosophers/antony/">Louise Antony</a><br> 
+    <a href="/solutions/philosophers/aquinas/">Thomas Aquinas</a><br> 
+    <a href="/solutions/philosophers/aristotle/">Aristotle</a><br> 
+    <!-- <a href="/solutions/philosophers/arminius/">Arminius</a><br> -->
+    <a href="/knowledge/philosophers/armstrong/">David Armstrong</a><br> 
+    <a href="/solutions/philosophers/atmanspacher/">Harald Atmanspacher</a><br> 
+    <a href="/knowledge/philosophers/audi/">Robert Audi</a><br> 
+    <a href="/solutions/philosophers/augustine/">Augustine</a><br> 
+    <a href="/solutions/philosophers/austin/">J.L.Austin</a><br>
+    <a href="/solutions/philosophers/ayer/">A.J.Ayer</a><br>
+    <a href="/solutions/philosophers/bain/">Alexander Bain</a><br> 
+    <a href="/solutions/philosophers/balaguer/">Mark Balaguer</a><br> 
+    <a href="/solutions/philosophers/barrett/">Jeffrey Barrett</a><br> 
+    <a href="/solutions/philosophers/barrettw/">William Barrett</a><br> 
+    <a href="/solutions/philosophers/belsham/">William Belsham</a><br> 
+    <a href="/solutions/philosophers/bergson/">Henri Bergson</a><br> 
+    <a href="/solutions/philosophers/berkeley/">George Berkeley</a><br> 
+    <a href="/solutions/philosophers/berlin/">Isaiah Berlin</a><br>
+    <a href="/solutions/philosophers/bernstein/">Richard J. Bernstein</a><br>
+    <a href="/solutions/philosophers/berofsky/">Bernard Berofsky</a><br>
+    <a href="/knowledge/philosophers/bishop/">Robert Bishop</a><br> 
+    <a href="/solutions/philosophers/black/">Max Black</a><br> 
+    <a href="/solutions/philosophers/blackmore/">Susan Blackmore</a><br> 
+    <a href="/solutions/philosophers/bobzien/">Susanne Bobzien</a><br> 
+    <a href="/solutions/philosophers/bois-reymond/">Emil du Bois-Reymond</a><br> 
+    <a href="/solutions/philosophers/bok/">Hilary Bok</a><br> 
+    <a href="/knowledge/philosophers/bonjour/">Laurence BonJour</a><br> 
+    <a href="/solutions/philosophers/boole/">George Boole</a><br> 
+    <a href="/solutions/philosophers/boutroux/">Émile Boutroux</a><br> 
+    <a href="/solutions/philosophers/boyd/">Daniel Boyd</a><br> 
+    <a href="/solutions/philosophers/bradley/">F.H.Bradley</a><br> 
+    <!-- <a href="/solutions/philosophers/bradley/">Franz Brentano</a><br> -->
+    <a href="/solutions/philosophers/broad/">C.D.Broad</a><br>
+    <a href="/solutions/philosophers/burke/">Michael Burke</a><br>
+    <a href="/solutions/philosophers/butterfield/">Jeremy Butterfield</a><br>
+    <a href="/solutions/philosophers/cahoone/">Lawrence Cahoone</a><br>
+    <a href="/solutions/philosophers/campbell/">C.A.Campbell</a><br>
+    <a href="/solutions/philosophers/campbellj/">Joseph Keim Campbell</a><br>
+    <a href="/solutions/philosophers/carnap/">Rudolf Carnap</a><br>
+    <a href="/solutions/philosophers/carneades/">Carneades</a><br>
+    <a href="/solutions/philosophers/cartwright/">Nancy Cartwright</a><br>
+    <a href="/solutions/philosophers/caruso/">Gregg Caruso</a><br>
+    <a href="/solutions/philosophers/cassirer/">Ernst Cassirer</a><br>
+    <a href="/solutions/philosophers/chalmers/">David Chalmers</a><br>
+    <a href="/solutions/philosophers/chisholm/">Roderick Chisholm</a><br>
+    <a href="/solutions/philosophers/chrysippus/">Chrysippus</a><br>
+    <a href="/solutions/philosophers/carneades/">Cicero</a><br> 
+    <a href="/solutions/philosophers/clark/">Tom Clark</a><br>
+    <a href="/solutions/philosophers/clarke/">Randolph Clarke</a><br>
+    <a href="/solutions/philosophers/clarkes/">Samuel Clarke</a><br>
+    <a href="/solutions/philosophers/collins/">Anthony Collins</a><br>
+    <a href="/solutions/philosophers/compte/">August Compte</a><br>
+    <a href="/solutions/philosophers/corradini/">Antonella Corradini</a><br> 
+    <a href="/solutions/philosophers/diodorus/">Diodorus Cronus</a><br>
+    <a href="/solutions/philosophers/dancy/">Jonathan Dancy</a><br>
+    <a href="/solutions/philosophers/davidson/">Donald Davidson</a><br>
+    <a href="/solutions/philosophers/decaro/">Mario De Caro</a><br> 
+    <a href="/solutions/philosophers/democritus/">Democritus</a><br> 
+    <a href="/solutions/philosophers/dembski">William Dembski</a><br>
+    <a href="/solutions/philosophers/dempsey/">Brendan Dempsey</a><br>
+    <a href="/solutions/philosophers/dennett/">Daniel Dennett</a><br>
+    <a href="/solutions/philosophers/derrida/">Jacques Derrida</a><br> 
+    <a href="/solutions/philosophers/descartes/">René Descartes</a><br> 
+    <a href="/solutions/philosophers/double/">Richard Double</a><br> 
+    <a href="/solutions/philosophers/dretske/">Fred Dretske</a><br> 
+    <a href="/solutions/philosophers/ducasse/">Curt Ducasse</a><br> 
+    <!--<a href="/solutions/philosophers/dupre/">John Dupré</a><br>-->
+    <a href="/solutions/philosophers/earman/">John Earman</a><br> 
+    <a href="/solutions/philosophers/ekstrom/">Laura Waddell Ekstrom</a><br> 
+    <a href="/solutions/philosophers/epictetus/">Epictetus</a><br> 
+    <a href="/solutions/philosophers/epicurus/">Epicurus</a><br> 
+    <a href="/solutions/philosophers/farrer/">Austin Farrer</a><br>
+    <a href="/solutions/philosophers/feigl/">Herbert Feigl</a><br>
+    <a href="/solutions/philosophers/fine/">Arthur Fine</a><br>
+    <a href="/solutions/philosophers/fischer/">John Martin Fischer</a><br>
+    <a href="/solutions/philosophers/fitch/">Frederic Fitch</a><br>
+    <a href="/solutions/philosophers/flanagan/">Owen Flanagan</a><br>
+    <a href="/solutions/philosophers/floridi/">Luciano Floridi</a><br>
+    <a href="/solutions/philosophers/foot/">Philippa Foot</a><br>
+    <a href="/solutions/philosophers/fouillee/">Alfred Fouille&eacute;</a><br>
+    <a href="/solutions/philosophers/frankfurt/">Harry Frankfurt</a><br>
+    <a href="/solutions/philosophers/franklin/">Richard L. Franklin</a><br>
+    <a href="/solutions/philosophers/frassen/">Bas van Fraassen</a><br>
+    <a href="/solutions/philosophers/frede/">Michael Frede</a><br>
+    <a href="/solutions/philosophers/frege/">Gottlob Frege</a><br>
+    <a href="/solutions/philosophers/geach/">Peter Geach</a><br>
+    <a href="/solutions/philosophers/gettier/">Edmund Gettier</a><br>
+    <a href="/solutions/philosophers/ginet/">Carl Ginet</a><br>
+    <a href="/knowledge/philosophers/goldman/">Alvin Goldman</a><br> 
+    <a href="/solutions/philosophers/gorgias/">Gorgias</a><br>
+    <a href="/solutions/philosophers/green/">Nicholas St. John Green</a><br>
+    <a href="/solutions/philosophers/gregersen/">Niels Henrik Gregersen</a><br>
+    <a href="/solutions/philosophers/grice/">H.Paul Grice</a><br>
+    <a href="/solutions/philosophers/hacking/">Ian Hacking</a><br> 
+    <a href="/solutions/philosophers/haji/">Ishtiyaque Haji</a><br> 
+    <a href="/solutions/philosophers/hampshire/">Stuart Hampshire</a><br> 
+    <a href="/solutions/philosophers/hardie/">W.F.R.Hardie</a><br> 
+    <a href="/solutions/philosophers/harris/">Sam Harris</a><br> 
+    <a href="/solutions/philosophers/hasker/">William Hasker</a><br> 
+    <a href="/solutions/philosophers/hare/">R.M.Hare</a><br> 
+    <a href="/solutions/philosophers/hegel/">Georg W.F. Hegel</a><br> 
+    <a href="/solutions/philosophers/heidegger/">Martin Heidegger</a><br>
+    <a href="/solutions/philosophers/heraclitus/">Heraclitus</a><br>
+    <a href="/solutions/philosophers/hobart/">R.E.Hobart</a><br> 
+    <a href="/solutions/philosophers/hobbes/">Thomas Hobbes</a><br> 
+    <a href="/solutions/philosophers/hodgson/">David Hodgson</a><br>
+    <a href="/solutions/philosophers/hodgsons/">Shadsworth Hodgson</a><br> 
+    <a href="/solutions/philosophers/dholbach/">Baron d'Holbach</a><br>
+    <a href="/solutions/philosophers/honderich/">Ted Honderich</a><br>
+    <!-- <a href="/solutions/philosophers/hook/">Sidney Hook</a><br> -->
+    <a href="/solutions/philosophers/huby/">Pamela Huby</a><br> 
+    <a href="/solutions/philosophers/hume/">David Hume</a><br> 
+    <a href="/solutions/philosophers/huoranszki/">Ferenc Huoranszki</a><br> 
+    <!-- <a href="/solutions/philosophers/husserl/">Edmund Husserl</a><br> -->
+    <a href="/solutions/philosophers/jackson/">Frank Jackson</a><br> 
+    <a href="/solutions/philosophers/james/">William James</a><br> 
+    <a href="/solutions/philosophers/kames/">Lord Kames</a><br>
+    <a href="/solutions/philosophers/kane/">Robert Kane</a><br>
+    <a href="/solutions/philosophers/kant/">Immanuel Kant</a><br> 
+    <a href="/solutions/philosophers/kapitan/">Tomis Kapitan</a><br> 
+    <a href="/solutions/philosophers/kaufmann/">Walter Kaufmann</a><br> 
+    <a href="/solutions/philosophers/kim/">Jaegwon Kim</a><br> 
+    <a href="/solutions/philosophers/king/">William King</a><br> 
+    <a href="/knowledge/philosophers/kornblith/">Hilary Kornblith</a><br> 
+    <a href="/solutions/philosophers/korsgaard/">Christine Korsgaard</a><br> 
+    <a href="/solutions/philosophers/kripke/">Saul Kripke</a><br> 
+    <a href="/solutions/philosophers/kuhn/">Thomas Kuhn</a><br> 
+    <a href="/solutions/philosophers/lavazza/">Andrea Lavazza</a><br> 
+    <a href="/solutions/philosophers/ladyman/">James Ladyman</a><br> 
+    <a href="/solutions/philosophers/lehner/">Christoph Lehner</a><br>
+    <a href="/solutions/philosophers/lehrer/">Keith Lehrer</a><br> 
+    <a href="/solutions/philosophers/leibniz/">Gottfried Leibniz</a><br> 
+    <a href="/solutions/philosophers/lequyer/">Jules Lequyer</a><br> 
+    <a href="/solutions/philosophers/leucippus/">Leucippus</a><br> 
+    <a href="/solutions/philosophers/levin/">Michael Levin</a><br>
+    <a href="/solutions/philosophers/levine/">Joseph Levine</a><br>
+    <a href="/solutions/philosophers/lewes/">George Henry Lewes</a><br> 
+    <a href="/knowledge/philosophers/lewis/">C.I.Lewis</a><br> 
+    <a href="/solutions/philosophers/lewis/">David Lewis</a><br> 
+    <a href="/solutions/philosophers/lipton/">Peter Lipton</a><br> 
+    <a href="/solutions/philosophers/morgan/">C. Lloyd Morgan</a><br> 
+    <a href="/solutions/philosophers/locke/">John Locke</a><br>
+    <a href="/solutions/philosophers/lockwood/">Michael Lockwood</a><br>
+    <a href="/solutions/philosophers/lovejoy/">Arthur O. Lovejoy</a><br>
+    <a href="/solutions/philosophers/lowe/">E. Jonathan Lowe</a><br>
+    <a href="/solutions/philosophers/lucas/">John R. Lucas</a><br>
+    <a href="/solutions/philosophers/lucretius/">Lucretius</a><br>
+    <a href="/solutions/philosophers/macintyre/">Alasdair MacIntyre</a><br> 
+    <a href="/solutions/philosophers/marcus/">Ruth Barcan Marcus</a><br> 
+    <a href="/solutions/philosophers/maudlin/">Tim Maudlin</a><br> 
+    <a href="/solutions/philosophers/martineau/">James Martineau</a><br> 
+    <a href="/solutions/philosophers/maxwell/">Nicholas Maxwell</a><br> 
+    <a href="/solutions/philosophers/mccall/">Storrs McCall</a><br>
+    <a href="/solutions/philosophers/mccann/">Hugh McCann</a><br>
+    <a href="/solutions/philosophers/mcginn/">Colin McGinn</a><br>
+    <a href="/solutions/philosophers/mckenna/">Michael McKenna</a><br>
+    <a href="/solutions/philosophers/mclaughlin/">Brian McLaughlin</a><br>
+    <a href="/solutions/philosophers/mctaggart/">John McTaggart</a><br>
+    <a href="/solutions/philosophers/meehl/">Paul E. Meehl</a><br>
+    <a href="/solutions/philosophers/meixner/">Uwe Meixner</a><br>
+    <a href="/solutions/philosophers/mele/">Alfred Mele</a><br>
+    <a href="/solutions/philosophers/merricks/">Trenton Merricks</a><br>
+    <a href="/solutions/philosophers/mill/">John Stuart Mill</a><br>
+    <a href="/solutions/philosophers/miller/">Dickinson Miller</a><br>
+    <a href="/solutions/philosophers/moore/">G.E.Moore</a><br>
+    <a href="/solutions/philosophers/nagele/">Ernest Nagel</a><br>
+    <a href="/solutions/philosophers/nagelt/">Thomas Nagel</a><br>
+    <a href="/solutions/philosophers/neurath/">Otto Neurath</a><br>
+    <a href="/solutions/philosophers/nietzsche/">Friedrich Nietzsche</a><br>
+    <a href="/solutions/philosophers/norton/">John Norton</a><br>
+    <a href="/solutions/philosophers/nowell-smith/">P.H.Nowell-Smith</a><br>
+    <a href="/solutions/philosophers/nozick/">Robert Nozick</a><br>
+    <a href="/solutions/philosophers/ockham/">William of Ockham</a><br> 
+    <a href="/solutions/philosophers/oconnor/">Timothy O'Connor</a><br>
+    <a href="/solutions/philosophers/parmenides/">Parmenides</a><br>
+    <a href="/solutions/philosophers/pears/">David F. Pears</a><br> 
+    <a href="/solutions/philosophers/peirce/">Charles Sanders Peirce</a><br> 
+    <a href="/solutions/philosophers/pereboom/">Derk Pereboom</a><br> 
+    <a href="/solutions/philosophers/piccinini/">Gualtiero Piccinini</a><br> 
+    <a href="/solutions/philosophers/pinker/">Steven Pinker</a><br>
+    <a href="/solutions/philosophers/place/">U.T.Place</a><br> 
+    <a href="/solutions/philosophers/plato/">Plato</a><br> 
+    <a href="/solutions/philosophers/popper/">Karl Popper</a><br> 
+    <a href="/solutions/philosophers/porphyry/">Porphyry</a><br> 
+    <a href="/solutions/philosophers/price/">Huw Price</a><br> 
+    <a href="/solutions/philosophers/prichard/">H.A.Prichard</a><br> 
+    <a href="/solutions/philosophers/protagoras/">Protagoras</a><br>
+    <a href="/solutions/philosophers/putnam/">Hilary Putnam</a><br> 
+    <a href="/solutions/philosophers/quine/">Willard van Orman Quine</a><br> 
+    <a href="/knowledge/philosophers/ramsey/">Frank Ramsey</a><br> 
+    <a href="/solutions/philosophers/rand/">Ayn Rand</a><br> 
+    <a href="/solutions/philosophers/rea/">Michael Rea</a><br>
+    <a href="/solutions/philosophers/reid/">Thomas Reid</a><br> 
+    <a href="/solutions/philosophers/renouvier/">Charles Renouvier</a><br> 
+    <a href="/solutions/philosophers/rescher/">Nicholas Rescher</a><br> 
+    <a href="/solutions/philosophers/rietdijk/">C.W.Rietdijk</a><br> 
+    <a href="/solutions/philosophers/rorty/">Richard Rorty</a><br> 
+    <a href="/solutions/philosophers/royce/">Josiah Royce</a><br> 
+    <a href="/solutions/philosophers/russell/">Bertrand Russell</a><br> 
+    <a href="/solutions/philosophers/russellp/">Paul Russell</a><br> 
+    <a href="/solutions/philosophers/ryle/">Gilbert Ryle</a><br> 
+    <a href="/solutions/philosophers/sartre/">Jean-Paul Sartre</a><br> 
+    <a href="/solutions/philosophers/sayre/">Kenneth Sayre</a><br> 
+    <a href="/solutions/philosophers/scanlon/">T.M.Scanlon</a><br> 
+    <a href="/solutions/philosophers/schlick/">Moritz Schlick</a><br> 
+    <a href="/solutions/philosophers/scotus/">John Duns Scotus</a><br> 
+    <a href="/solutions/philosophers/schweitzer/">Albert Schweitzer</a><br> 
+    <a href="/solutions/philosophers/schopenhauer/">Arthur Schopenhauer</a><br> 
+    <a href="/solutions/philosophers/searle/">John Searle</a><br>
+    <a href="/solutions/philosophers/sellars/">Wilfrid Sellars</a><br>
+    <a href="/solutions/philosophers/shiang/">David Shiang</a><br> 
+    <a href="/solutions/philosophers/sidelle/">Alan Sidelle</a><br> 
+    <a href="/solutions/philosophers/sider/">Ted Sider</a><br> 
+    <a href="/solutions/philosophers/sidgwick/">Henry Sidgwick</a><br> 
+    <a href="/solutions/philosophers/sinnott-armstrong/">Walter Sinnott-Armstrong</a><br> 
+    <a href="/solutions/philosophers/slezak/">Peter Slezak</a><br> 
+    <a href="/solutions/philosophers/smart/">J.J.C.Smart</a><br> 
+    <a href="/solutions/philosophers/smilansky/">Saul Smilansky</a><br> 
+    <a href="/solutions/philosophers/smith/">Michael Smith</a><br> 
+    <a href="/solutions/philosophers/spinoza/">Baruch Spinoza</a><br> 
+    <a href="/solutions/philosophers/stebbing/">L. Susan Stebbing</a><br> 
+    <a href="/solutions/philosophers/stengers/">Isabelle Stengers</a><br> 
+    <a href="/solutions/philosophers/stout/">George F. Stout</a><br> 
+    <a href="/solutions/philosophers/strawsong/">Galen Strawson</a><br>
+    <a href="/solutions/philosophers/strawson/">Peter Strawson</a><br>
+    <a href="/solutions/philosophers/stump/">Eleonore Stump</a><br>
+    <a href="/solutions/philosophers/suarez/">Francisco Suárez</a><br>
+    <a href="/solutions/philosophers/taylorr/">Richard Taylor</a><br>
+    <a href="/solutions/philosophers/timpe/">Kevin Timpe</a><br>
+    <a href="/solutions/philosophers/twain/">Mark Twain</a><br>
+    <a href="/solutions/philosophers/unger/">Peter Unger</a><br> 
+    <a href="/solutions/philosophers/vaninwagen/">Peter van Inwagen</a><br> 
+    <a href="/solutions/philosophers/vargas/">Manuel Vargas</a><br> 
+    <a href="/solutions/philosophers/venn/">John Venn</a><br> 
+    <a href="/solutions/philosophers/vihvelin/">Kadri Vihvelin</a><br> 
+    <a href="/solutions/philosophers/voltaire/">Voltaire</a><br> 
+    <a href="/solutions/philosophers/vonwright/">G.H. von Wright</a><br> 
+    <a href="/solutions/philosophers/wallacedf/">David Foster Wallace</a><br> 
+    <a href="/solutions/philosophers/wallace/">R. Jay Wallace</a><br> 
+    <a href="/solutions/philosophers/ward/">W.G.Ward</a><br> 
+    <a href="/solutions/philosophers/warfield/">Ted Warfield</a><br> 
+    <a href="/solutions/philosophers/weatherford/">Roy Weatherford</a><br> 
+    <a href="/solutions/philosophers/weizsacker/">C.F. von Weizsäcker</a><br>
+    <a href="/solutions/philosophers/whewell/">William Whewell</a><br> 
+    <a href="/solutions/philosophers/whitehead/">Alfred North Whitehead</a><br> 
+    <a href="/solutions/philosophers/widerker/">David Widerker</a><br> 
+    <a href="/solutions/philosophers/wiggins/">David Wiggins</a><br> 
+    <a href="/solutions/philosophers/williams/">Bernard Williams</a><br> 
+    <a href="/solutions/philosophers/williamson/">Timothy Williamson</a><br> 
+    <a href="/solutions/philosophers/wittgenstein/">Ludwig Wittgenstein</a><br> 
+    <a href="/solutions/philosophers/wolf/">Susan Wolf</a><br> 
+    <a href="/solutions/philosophers/xenophon/">Xenophon</a><br> 
+    <br> 
+    Scientists
+    <br><br>
+    <a href="/solutions/scientists/albert/">David Albert</a><br>
+    <a href="/solutions/scientists/anderson/">Philip W. Anderson</a><br>
+    <a href="/solutions/scientists/arbib/">Michael Arbib</a><br>
+    <a href="/solutions/scientists/azarian/">Bobby Azarian</a><br>
+    <a href="/solutions/scientists/baade/">Walter Baade</a><br>
+    <a href="/solutions/scientists/baars/">Bernard Baars</a><br>
+    <a href="/solutions/scientists/bada/">Jeffrey Bada</a><br>
+    <a href="/solutions/scientists/ballentine/">Leslie Ballentine</a><br>
+    <a href="/solutions/scientists/barbieri/">Marcello Barbieri</a><br>
+    <a href="/solutions/scientists/barandes/">Jacob Barandes</a><br>
+    <a href="/solutions/scientists/barbour/">Julian Barbour</a><br>
+    <a href="/solutions/scientists/barlow/">Horace Barlow</a><br>
+    <a href="/solutions/scientists/bateson/">Gregory Bateson</a><br>
+    <a href="/solutions/scientists/bekenstein/">Jakob Bekenstein</a><br>
+    <a href="/solutions/scientists/bell/">John S. Bell</a><br>
+    <a href="/solutions/scientists/beller/">Mara Beller</a><br>
+    <a href="/solutions/scientists/bennett/">Charles Bennett</a><br>
+    <a href="/solutions/scientists/bertalanffy/">Ludwig von Bertalanffy</a><br>
+    <a href="/solutions/scientists/blackmore/">Susan Blackmore</a><br>
+    <a href="/solutions/scientists/boden/">Margaret Boden</a><br>
+    <a href="/solutions/scientists/bohm/">David Bohm</a><br>
+    <a href="/solutions/scientists/bohr/">Niels Bohr</a><br>
+    <a href="/solutions/scientists/boltzmann/">Ludwig Boltzmann</a><br> 
+    <a href="/solutions/scientists/bonner/">John Tyler Bonner</a><br> 
+    <a href="/solutions/scientists/borel/">Emile Borel</a><br> 
+    <a href="/solutions/scientists/born/">Max Born</a><br> 
+    <a href="/solutions/scientists/bose/">Satyendra Nath Bose</a><br> 
+    <a href="/solutions/scientists/bothe/">Walther Bothe</a><br> 
+    <a href="/solutions/scientists/bricmont/">Jean Bricmont</a><br>
+    <a href="/solutions/scientists/briegel/">Hans Briegel</a><br>
+    <a href="/solutions/scientists/brillouin/">Leon Brillouin</a><br>
+    <a href="/solutions/scientists/brooks/">Daniel Brooks</a><br>
+    <a href="/solutions/scientists/brush/">Stephen Brush</a><br>
+    <a href="/solutions/scientists/buckle/">Henry Thomas Buckle</a><br>
+    <a href="/solutions/scientists/burbury/">S. H. Burbury</a><br>
+    <a href="/solutions/scientists/calvin/">Melvin Calvin</a><br>
+    <a href="/solutions/scientists/calvinw/">William Calvin</a><br>
+    <a href="/solutions/scientists/campbell/">Donald Campbell</a><br>
+    <a href="/solutions/scientists/campbellj/">John O. Campbell</a><br>
+    <a href="/solutions/scientists/carnot/">Sadi Carnot</a><br>
+    <a href="/solutions/scientists/carroll/">Sean B. Carroll</a><br>
+    <a href="/solutions/scientists/cashmore/">Anthony Cashmore</a><br>
+    <a href="/solutions/scientists/chaisson/">Eric Chaisson</a><br>
+    <a href="/solutions/scientists/chaitin/">Gregory Chaitin</a><br>
+    <a href="/solutions/scientists/changeux/">Jean-Pierre Changeux</a><br>
+    <a href="/solutions/scientists/clausius/">Rudolf Clausius</a><br>
+    <a href="/solutions/scientists/compton/">Arthur Holly Compton</a><br>
+    <a href="/solutions/scientists/conway/">John Conway</a><br>
+    <a href="/solutions/scientists/conway-morris/">Simon Conway-Morris</a><br>
+    <a href="/solutions/scientists/corning/">Peter Corning</a><br>
+    <a href="/solutions/scientists/cowan/">George Cowan</a><br>
+    <a href="/solutions/scientists/coyne/">Jerry Coyne</a><br>
+    <a href="/solutions/scientists/cramer/">John Cramer</a><br>
+    <a href="/solutions/scientists/crick/">Francis Crick</a><br>
+    <a href="/solutions/scientists/culverwell/">E. P. Culverwell</a><br>
+    <a href="/solutions/scientists/damasio/">Antonio Damasio</a><br>
+    <a href="/solutions/scientists/darrigol/">Olivier Darrigol</a><br>
+    <a href="/solutions/scientists/darwin/">Charles Darwin</a><br>
+    <a href="/solutions/scientists/davies/">Paul Davies</a><br>
+    <a href="/solutions/scientists/dawkins/">Richard Dawkins</a><br>
+    <a href="/solutions/scientists/deacon/">Terrence Deacon</a><br>
+    <a href="/solutions/scientists/kornhuber-deecke/">Lüder Deecke</a><br>
+    <a href="/solutions/scientists/dedekind/">Richard Dedekind</a><br>
+    <a href="/solutions/scientists/de_broglie/">Louis de Broglie</a><br>
+    <a href="/solutions/scientists/dehaene/">Stanislas Dehaene</a><br> 
+    <a href="/solutions/scientists/delbruck/">Max Delbrück</a><br> 
+    <a href="/solutions/scientists/de_moivre/">Abraham de Moivre</a><br> 
+    <a href="/solutions/scientists/depew/">David Depew</a><br>
+    <a href="/solutions/scientists/despagmat/">Bernard d'Espagnat</a><br>
+    <a href="/solutions/scientists/dirac/">Paul Dirac</a><br>
+    <a href="/solutions/scientists/dobzhansky/">Theodosius Dobzhansky</a><br>
+    <a href="/solutions/scientists/driesch/">Hans Driesch</a><br>
+    <a href="/solutions/scientists/dupre/">John Dupré</a><br>
+    <a href="/solutions/scientists/eccles/">John Eccles</a><br>
+    <a href="/solutions/scientists/eddington/">Arthur Stanley Eddington</a><br> 
+    <a href="/solutions/scientists/edelman/">Gerald Edelman</a><br> 
+    <a href="/solutions/scientists/ehrenfest/">Paul Ehrenfest</a><br> 
+    <a href="/solutions/scientists/eigen/">Manfred Eigen</a><br> 
+    <a href="/solutions/scientists/einstein/">Albert Einstein</a><br> 
+    <a href="/solutions/scientists/ellis/">George F. R. Ellis</a><br> 
+    <a href="/solutions/scientists/elsasser/">Walter Elsasser</a><br> 
+    <a href="/solutions/scientists/everett/">Hugh Everett, III</a><br> 
+    <a href="/solutions/scientists/exner/">Franz Exner</a><br> 
+    <a href="/solutions/scientists/feynman/">Richard Feynman</a><br>
+    <a href="/solutions/scientists/fisher/">R. A. Fisher</a><br>
+    <a href="/solutions/scientists/foster/">David Foster</a><br>
+    <a href="/solutions/scientists/fourier/">Joseph Fourier</a><br>
+    <a href="/solutions/scientists/fox/">George Fox</a><br>
+    <a href="/solutions/scientists/frank/">Philipp Frank</a><br> 
+    <a href="/solutions/scientists/frautschi/">Steven Frautschi</a><br> 
+    <a href="/solutions/scientists/fredkin/">Edward Fredkin</a><br> 
+    <a href="/solutions/scientists/fresnel/">Augustin-Jean Fresnel</a><br> 
+    <a href="/solutions/scientists/friston/">Karl Friston</a><br> 
+    <a href="/solutions/scientists/gal-or/">Benjamin Gal-Or</a><br> 
+    <a href="/solutions/scientists/gardner/">Howard Gardner</a><br> 
+    <a href="/solutions/scientists/gatlin/">Lila Gatlin</a><br> 
+    <a href="/solutions/scientists/gazzaniga/">Michael Gazzaniga</a><br> 
+    <a href="/solutions/scientists/georgescu-roegen/">Nicholas Georgescu-Roegen</a><br> 
+    <a href="/solutions/scientists/ghirardi/">GianCarlo Ghirardi</a><br> 
+    <a href="/solutions/scientists/gibbs/">J. Willard Gibbs</a><br> 
+    <a href="/solutions/scientists/gibson/">James J. Gibson</a><br> 
+    <a href="/solutions/scientists/gisin/">Nicolas Gisin</a><br> 
+    <a href="/solutions/scientists/glimcher/">Paul Glimcher</a><br> 
+    <a href="/solutions/scientists/gold/">Thomas Gold</a><br>
+    <a href="/solutions/scientists/gomes/">A. O. Gomes</a><br> 
+    <a href="/solutions/scientists/goodwin/">Brian Goodwin</a><br> 
+    <a href="/solutions/scientists/gough/">Julian Gough</a><br> 
+    <a href="/solutions/scientists/greene/">Joshua Greene</a><br> 
+    <a href="/solutions/scientists/haar/">Dirk ter Haar</a><br> 
+    <a href="/solutions/scientists/hadamard/">Jacques Hadamard</a><br> 
+    <a href="/solutions/scientists/hadley/">Mark Hadley</a><br> 
+    <a href="/solutions/scientists/haeckel/">Ernst Haeckel</a><br> 
+    <a href="/solutions/scientists/haggard/">Patrick Haggard</a><br> 
+    <a href="/solutions/scientists/haldane/">J. B. S. Haldane</a><br> 
+    <a href="/solutions/scientists/hameroff/">Stuart Hameroff</a><br> 
+    <a href="/solutions/scientists/hamon/">Augustin Hamon</a><br> 
+    <a href="/solutions/scientists/harris/">Sam Harris</a><br> 
+    <a href="/solutions/scientists/hartley/">Ralph Hartley</a><br> 
+    <a href="/solutions/scientists/hartman/">Hyman Hartman</a><br> 
+    <a href="/solutions/scientists/hawkins/">Jeff Hawkins</a><br> 
+    <a href="/solutions/scientists/haynes/">John-Dylan Haynes</a><br> 
+    <a href="/solutions/scientists/hebb/">Donald Hebb</a><br> 
+    <a href="/solutions/scientists/heisenbergm/">Martin Heisenberg</a><br> 
+    <a href="/solutions/scientists/heisenberg/">Werner Heisenberg</a><br> 
+    <a href="/solutions/scientists/helmholtz">Hermann von Helmholtz</a><br> 
+    <a href="/solutions/scientists/hermann/">Grete Hermann</a><br> 
+    <a href="/solutions/scientists/herschel/">John Herschel</a><br> 
+    <a href="/solutions/scientists/heylighen/">Francis Heylighen</a><br> 
+    <a href="/solutions/scientists/hiley/">Basil Hiley</a><br> 
+    <a href="/solutions/scientists/hobson/">Art Hobson</a><br> 
+    <a href="/solutions/scientists/hoffmeyer/">Jesper Hoffmeyer</a><br> 
+   <a href="/solutions/scientists/holland/">John Holland</a><br> 
+    <a href="/solutions/scientists/howard/">Don Howard</a><br> 
+    <a href="/solutions/scientists/jackson/">John H. Jackson</a><br> 
+    <a href="/solutions/scientists/jackendoff/">Ray Jackendoff</a><br>
+    <a href="/solutions/scientists/jakobson/">Roman Jakobson</a><br>
+    <a href="/solutions/scientists/jaynes/">E. T. Jaynes</a><br>
+    <a href="/solutions/scientists/jevons/">William Stanley Jevons</a><br>
+    <a href="/solutions/scientists/jordan/">Pascual Jordan</a><br>
+    <a href="/solutions/scientists/kandel/">Eric Kandel</a><br>
+    <a href="/solutions/scientists/kastner/">Ruth E. Kastner</a><br>
+    <a href="/solutions/scientists/kauffman/">Stuart Kauffman</a><br>
+    <a href="/solutions/scientists/klein/">Martin J. Klein</a><br> 
+    <a href="/solutions/scientists/klemm/">William R. Klemm</a><br> 
+    <a href="/solutions/scientists/koch/">Christof Koch</a><br>
+    <a href="/solutions/scientists/kochen/">Simon Kochen</a><br>
+    <a href="/solutions/scientists/kornhuber-deecke/">Hans Kornhuber</a><br>
+    <a href="/solutions/scientists/kosslyn/">Stephen Kosslyn</a><br> 
+    <a href="/solutions/scientists/koshland/">Daniel Koshland</a><br> 
+    <a href="/solutions/scientists/kovac/">Ladislav Kovàč</a><br>
+    <a href="/solutions/scientists/kronecker/">Leopold Kronecker</a><br>
+    <a href="/solutions/scientists/kuppers/">Bernd-Olaf Küppers</a><br>
+    <a href="/solutions/scientists/landauer/">Rolf Landauer</a><br>
+    <a href="/solutions/scientists/lande/">Alfred Landé</a><br>
+    <a href="/solutions/scientists/laplace/">Pierre-Simon Laplace</a><br> 
+    <a href="/solutions/scientists/lashley/">Karl Lashley</a><br> 
+    <a href="/solutions/scientists/layzer/">David Layzer</a><br> 
+    <a href="/solutions/scientists/ledoux/">Joseph LeDoux</a><br> 
+    <a href="/solutions/scientists/lettvin/">Gerald Lettvin</a><br> 
+    <a href="/solutions/scientists/levin/">Michael Levin</a><br> 
+    <a href="/solutions/scientists/lewis/">Gilbert Lewis</a><br> 
+    <a href="/solutions/scientists/libet/">Benjamin Libet</a><br> 
+    <a href="/solutions/scientists/lindley/">David Lindley</a><br> 
+    <a href="/solutions/scientists/lloyd/">Seth Lloyd</a><br> 
+    <a href="/solutions/scientists/loewenstein/">Werner Loewenstein</a><br> 
+    <a href="/solutions/scientists/lorentz/">Hendrik Lorentz</a><br> 
+    <a href="/solutions/scientists/loschmidt/">Josef Loschmidt</a><br> 
+    <a href="/solutions/scientists/lotka/">Alfred Lotka</a><br> 
+    <a href="/solutions/scientists/mach/">Ernst Mach</a><br>
+    <a href="/solutions/scientists/mackay/">Donald MacKay</a><br> 
+    <a href="/solutions/scientists/margenau/">Henry Margenau</a><br> 
+    <a href="/solutions/scientists/margulis/">Lynn Margulis</a><br> 
+    <a href="/solutions/scientists/maroney/">Owen Maroney</a><br> 
+    <a href="/solutions/scientists/marr/">David Marr</a><br> 
+    <a href="/solutions/scientists/maturana/">Humberto Maturana</a><br> 
+    <a href="/solutions/scientists/maxwell/">James Clerk Maxwell</a><br> 
+    <a href="/solutions/scientists/maynard-smith/">John Maynard Smith</a><br>
+    <a href="/solutions/scientists/mayr/">Ernst Mayr</a><br>
+    <a href="/solutions/scientists/mccarthy/">John McCarthy</a><br>
+    <a href="/solutions/scientists/mcclintock/">Barbara McClintock</a><br>
+    <a href="/solutions/scientists/mcculloch/">Warren McCulloch</a><br>
+    <a href="/solutions/scientists/mermin/">N. David Mermin</a><br>
+    <a href="/solutions/scientists/miller/">George Miller</a><br>
+    <a href="/solutions/scientists/smiller/">Stanley Miller</a><br>
+    <a href="/solutions/scientists/mohrhoff/">Ulrich Mohrhoff</a><br>
+    <a href="/solutions/scientists/monod/">Jacques Monod</a><br>
+    <a href="/solutions/scientists/mountcastle/">Vernon Mountcastle</a><br> 
+    <a href="/solutions/scientists/muller/">Gerd B. Müller</a><br> 
+    <a href="/solutions/scientists/noether/">Emmy Noether</a><br> 
+    <a href="/solutions/scientists/noble/">Denis Noble</a><br> 
+    <a href="/solutions/scientists/norman/">Donald Norman</a><br> 
+    <a href="/solutions/scientists/norsen/">Travis Norsen</a><br>
+    <a href="/solutions/scientists/odumh/">Howard T. Odum</a><br> 
+    <a href="/solutions/scientists/oparin/">Alexander Oparin</a><br> 
+    <a href="/solutions/scientists/pais/">Abraham Pais</a><br> 
+    <a href="/solutions/scientists/pattee/">Howard Pattee</a><br> 
+    <a href="/solutions/scientists/pauli/">Wolfgang Pauli</a><br> 
+    <a href="/solutions/scientists/pauri/">Massimo Pauri</a><br> 
+    <a href="/solutions/scientists/penfield/">Wilder Penfield</a><br>
+    <a href="/solutions/scientists/penrose/">Roger Penrose</a><br>
+    <a href="/solutions/scientists/pigliucci/">Massimo Pigliucci</a><br/>
+    <a href="/solutions/philosophers/pinker/">Steven Pinker</a><br> 
+    <a href="/solutions/scientists/pittendrigh/">Colin Pittendrigh</a><br> 
+    <a href="/solutions/scientists/pitts/">Walter Pitts</a><br> 
+    <a href="/solutions/scientists/planck/">Max Planck</a><br> 
+    <a href="/solutions/scientists/pockett/">Susan Pockett</a><br> 
+    <a href="/solutions/scientists/poincare/">Henri Poincaré</a><br>
+    <a href="/solutions/scientists/polanyi/">Michael Polanyi</a><br>
+    <a href="/solutions/scientists/pollen/">Daniel Pollen</a><br> 
+    <a href="/solutions/scientists/prigogine/">Ilya Prigogine</a><br>
+    <a href="/solutions/scientists/primas/">Hans Primas</a><br>
+    <a href="/solutions/scientists/prisco/">Giulio Prisco</a><br>
+    <a href="/solutions/scientists/pylyshyn/">Zenon Pylyshyn</a><br/>
+    <a href="/solutions/scientists/quastler/">Henry Quastler</a><br/>
+    <a href="/solutions/scientists/quetelet/">Adolphe Quételet</a><br/>
+    <a href="/solutions/scientists/rakic/">Pasco Rakic</a><br/>
+    <a href="/solutions/scientists/rashevsky/">Nicolas Rashevsky</a><br/>
+    <a href="/solutions/scientists/rayleigh/">Lord Rayleigh</a><br/>
+    <a href="/solutions/scientists/reif/">Frederick Reif</a><br/>
+    <a href="/solutions/scientists/renn/">Jürgen Renn</a><br/>
+    <a href="/solutions/scientists/rizzolati/">Giacomo Rizzolati</a><br/>
+    <a href="/solutions/scientists/roback/">A.A. Roback</a><br/>
+    <a href="/solutions/scientists/roduner/">Emil Roduner</a><br/>
+    <a href="/solutions/scientists/roederer/">Juan Roederer</a><br/>
+    <a href="/solutions/scientists/rosen/">Robert Rosen</a><br/>
+    <a href="/solutions/scientists/rosenblatt/">Frank Rosenblatt</a><br/>
+    <a href="/solutions/scientists/rothstein/">Jerome Rothstein</a><br/>
+    <a href="/solutions/scientists/ruelle/">David Ruelle</a><br/>
+    <a href="/solutions/scientists/rumelhart/">David Rumelhart</a><br> 
+    <a href="/solutions/scientists/ruse">Michael Ruse</a><br> 
+    <a href="/solutions/scientists/salthe/">Stanley Salthe</a><br> 
+    <a href="/solutions/scientists/sapolsky/">Robert Sapolsky</a><br>
+    <a href="/solutions/scientists/sauer/">Tilman Sauer</a><br>
+    <a href="/solutions/scientists/saussure/">Ferdinand de Saussure</a><br>
+    <a href="/solutions/scientists/schmidhuber/">Jürgen Schmidhuber</a><br>
+    <a href="/solutions/scientists/schrodinger/">Erwin Schr&ouml;dinger</a><br> 
+    <a href="/solutions/scientists/schurger/">Aaron Schurger</a><br> 
+    <a href="/solutions/scientists/seung/">Sebastian Seung</a><br>
+    <a href="/solutions/scientists/sebeok/">Thomas Sebeok</a><br>
+    <a href="/solutions/scientists/selleri/">Franco Selleri</a><br>
+    <a href="/solutions/scientists/shannon/">Claude Shannon</a><br>
+     <a href="/solutions/scientists/shapiro/">James A. Shapiro</a><br>
+    <a href="/solutions/scientists/sherrington/">Charles Sherrington</a><br> 
+    <a href="/solutions/scientists/shimony/">Abner Shimony</a><br> 
+    <a href="/solutions/scientists/simon/">Herbert Simon</a><br> 
+    <a href="/solutions/scientists/simonton/">Dean Keith Simonton</a><br>
+    <a href="/solutions/scientists/sinnott/">Edmund Sinnott</a><br>
+    <a href="/solutions/scientists/skinner/">B. F. Skinner</a><br>
+    <a href="/solutions/scientists/smolin/">Lee Smolin</a><br> 
+    <a href="/solutions/scientists/solomonoff/">Ray Solomonoff</a><br> 
+    <a href="/solutions/scientists/spencer/">Herbert Spencer</a><br>
+    <a href="/solutions/scientists/sperry/">Roger Sperry</a><br>
+    <a href="/solutions/scientists/stachel/">John Stachel</a><br> 
+    <a href="/solutions/scientists/stanley/">Kenneth Stanley</a><br>
+    <a href="/solutions/scientists/stapp/">Henry Stapp</a><br>
+    <a href="/solutions/scientists/stewart/">Ian Stewart</a><br>
+    <a href="/solutions/scientists/stonier/">Tom Stonier</a><br>
+    <a href="/solutions/scientists/suarez/">Antoine Suarez</a><br>
+    <a href="/solutions/scientists/susskind/">Leonard Susskind</a><br>
+    <a href="/solutions/scientists/szilard/">Leo Szilard</a><br>
+    <a href="/solutions/scientists/tegmark/">Max Tegmark</a><br>
+    <a href="/solutions/scientists/teilhard/">Teilhard de Chardin</a><br>
+    <a href="/solutions/scientists/thims/">Libb Thims</a><br>
+    <a href="/solutions/scientists/thomson/">William Thomson (Kelvin)</a><br>
+    <a href="/solutions/scientists/tolman/">Richard Tolman</a><br> 
+    <a href="/solutions/scientists/tononi/">Giulio Tononi</a><br> 
+    <a href="/solutions/scientists/tse/">Peter Tse</a><br>
+    <a href="/solutions/scientists/turing/">Alan Turing</a><br>
+    <a href="/solutions/scientists/ulanowicz/">Robert Ulanowicz</a><br> 
+    <a href="/solutions/scientists/unnikrishnan/">C. S. Unnikrishnan</a><br>
+    <a href="/solutions/scientists/kampen/">Nico van Kampen</a><br>
+    <a href="/solutions/scientists/varela/">Francisco Varela</a><br>
+    <a href="/solutions/scientists/vedral/">Vlatko Vedral</a><br>
+    <a href="/solutions/scientists/vernadsky/">Vladimir Vernadsky</a><br>
+    <a href="/solutions/scientists/vidal/">Clément Vidal</a><br>
+    <a href="/solutions/scientists/volkenstein/">Mikhail Volkenstein</a><br>
+    <a href="/solutions/scientists/foerster/">Heinz von Foerster</a><br>
+    <a href="/solutions/scientists/mises/">Richard von Mises</a><br>
+    <a href="/solutions/scientists/neumann/">John von Neumann</a><br>
+    <a href="/solutions/scientists/uexkull/">Jakob von Uexküll</a><br>
+    <a href="/solutions/scientists/waddington/">C. H. Waddington</a><br>
+    <a href="/solutions/scientists/walker/">Sara Imari Walker</a><br>
+    <a href="/solutions/scientists/watsonj/">James D. Watson</a><br>
+    <a href="/solutions/scientists/watsonjb/">John B. Watson</a><br>
+    <a href="/solutions/scientists/weber/Bruce Weber</a><br>
+    <a href="/solutions/scientists/wegner/">Daniel Wegner</a><br>
+    <a href="/solutions/scientists/weinberg/">Steven Weinberg</a><br>
+    <a href="/solutions/scientists/weismann/">August Weismann</a><br>
+    <a href="/solutions/scientists/weiss/">Paul A. Weiss</a><br>
+    <a href="/solutions/scientists/weyl/">Herman Weyl</a><br>
+    <a href="/solutions/scientists/wheeler/">John Wheeler</a><br>
+    <a href="/solutions/scientists/wicken/">Jeffrey Wicken</a><br>
+    <a href="/solutions/scientists/wien/">Wilhelm Wien</a><br>
+    <a href="/solutions/scientists/wiener/">Norbert Wiener</a><br>
+    <a href="/solutions/scientists/wigner/">Eugene Wigner</a><br>
+    <a href="/solutions/scientists/wiley/">E. O. Wiley</a><br>
+    <a href="/solutions/scientists/wilson/">E. O. Wilson</a><br>
+    <a href="/solutions/scientists/witzany/">Günther Witzany</a><br>
+    <a href="/solutions/scientists/woese/">Carl Woese</a><br>
+    <a href="/solutions/scientists/wolfram/">Stephen Wolfram</a><br>
+    <a href="/solutions/scientists/zeh/">H. Dieter Zeh</a><br>
+    <a href="/solutions/scientists/zeki/">Semir Zeki</a><br>
+    <a href="/solutions/scientists/zermelo/">Ernst Zermelo</a><br> 
+    <a href="/solutions/scientists/zurek/">Wojciech Zurek</a><br>
+    <a href="/solutions/scientists/zuse/">Konrad Zuse</a><br>
+    <a href="/solutions/scientists/zwicky/">Fritz Zwicky</a><br>
+<br/>
+Presentations
+<br/>
+<br/>
+<a href="/presentations/ABCD_Multimedia_2006.pdf/">ABCD Harvard</a> (<a href="/presentations/ABCD_Multimedia_2006.pptx/">ppt</a>) 
+<a href="/presentations/Bhaktivedanta/">Bhaktivedanta Aug 2026</a><br/>
+<a href="/presentations/biosemiotics/">Biosemiotics</a><br/>
+<a href="/presentations/Free__Will/">Free Will</a><br/>
+<a href="/presentations/Milan/mental_causation/index2.html">Mental Causation</a><br/>
+<a href="/presentations/video/WJS-2010/">James Symposium</a><br/>
+<a href="/presentations/CSC25_Talk/">CCS25 Talk</a><br/>
+<a href="/presentations/Evo_Devo_CSS/">Evo Devo September 12</a><br/>
+<a href="/presentations/Evo_Devo_I-Phi/">Evo Devo October 2</a><br/>
+<a href="/presentations/Evo_Devo_Davies/">Evo Devo Davies Nov12</a><br/>
+
+             </div> 
+	      <div style="clear: both;"></div>
+	      &nbsp;
+	    </div>
+	    <!-- end column1 -->
+	  </td>
+
+	  <td valign="top">
+	    <!-- start column2 or 23 -->
+	    <div id="column23">
+	      <div class="bodycontent">
+		
+<div class="breadcrumbs">
+<a href="/content.html">Home</a> > <a href="/freedom/">Freedom</a> > Mechanisms
+</div>
+
+    <div class="chaptertitle">Free Will Mechanisms</div>
+
+<div class="bodytext">
+Over the years, a number of philosophers and scientists have proposed specific brain mechanisms that could provide the unpredictability expected of "Freedom." 
+</div>
+
+    
+<div class="bodytext">
+Most of these thinkers erroneously assumed that <a href="/freedom/indeterminism.html">indeterministic</a> <a href="/freedom/chance.html">chance</a> could be the <a href="/freedom/chance_direct_cause.html"><em>direct cause of our free actions</em></a>.
+<p/>
+And most imagined mechanisms so close to perfect balance that an infinitesimal amount of energy could make them go this way or that way. Inspired by the ancient <a hrefr="/freedom/indifference.html"><em>liberum arbitrium indifferentiae</em></a>, they wanted the mental effort involved to be <em>nil</em>, because the very idea of a mental substance affecting the material body was considered a problem.
+<p/>
+In English and Romance languages, the term used to describe the decision process, <em>deliberation</em>, is normally assumed to be derived from the Latin verb <em>delibrare</em>, to balance (from <em>libra</em>, scale). This fits with the simple idea that judgments are always balancing two options.
+<p/> But it is more likely that the options we face are extremely different in many ways that make them hard to evaluate. Difficult moral choices may not be properly characterized as "indifferent" decisions, nearly in balance (the <em>liberum arbitrium indifferentiae</em>).  
+<p/>
+And it is still more likely that we are always facing not two but multiple alternate possibilities. Our alternative etymology would be to derive deliberation from Latin <em>deliberare</em>, based on <em>liberare</em>, to liberate or set free. 
+<p/>
+Here are some of the mechanisms suggested to underlie the free will.  
+<blockquote>
+ <ul>
+  <li>
+  <a href="#maxwell">James Clerk Maxwell's "Singularities"</a> (1856)
+  </li>
+  <li>
+  <a href="#eddington">Arthur Stanley Eddington's "Free Electrons"</a> (1928)
+  </li>
+  <li>
+  <a href="#compton">Arthur Holly Compton's Photocell Amplifier</a> (1931)
+  </li>
+  <li>
+  <a href="#eccles">John Eccles' "Critically Poised Neurons"</a> (1953)
+  </li>
+  <li>
+  <a href="#gomes">A. O. Gomes' Quantum Composer</a> (1964)
+  </li>
+  <li>
+  <a href="#dennett">Daniel Dennett's Pseudo-Random Number Generator</a> (1978)
+  </li>
+  <li>
+  <a href="#kane">Robert Kane's Probability Bubbles</a> (1985)
+  </li>
+  <li>
+  <a href="#mele">Alfred Mele's Roulette Wheel</a> (1999)
+  </li>
+ </ul>
+</blockquote>
+</div>
+
+<a name="maxwell"></a>
+<div class="sectiontitle">
+James Clerk Maxwell's "Singularities"
+</div>
+
+<div class="bodytext">
+<a href="/solutions/scientists/maxwell/">Maxwell</a> looked for free will in physical conditions that were poised on a knife edge of going this way or that way and which the mind could push in either direction with minimal (ideally zero) energy required. Note that Maxwell anticipates the theory of modern deterministic "chaos" in which infinitesimal differences lead to massive global changes. This is a characteristic of most "amplifier" theories. They demonstrate that microscopic indeterminism can lead to macroscopic effects.
+<blockquote>
+When the state of things is such that an infinitely small variation of the present state will alter only by an infinitely small quantity the state at some future time, the condition of the system, whether at rest or in motion, is said to be stable; but when an infinitely small variation in the present state may bring about a finite difference in the state of the system in a finite time, the condition of the system is said to be unstable.
+<p>
+It is manifest that the existence of unstable conditions renders impossible the prediction of future events, if our knowledge of the present state is only approximate, and not accurate.
+</p><p>
+It has been well pointed out by Professor Balfour Stewart that physical stability is the characteristic of those systems from the contemplation of which determinists draw their arguments, and physical instability that of those living bodies, and moral instability that of those developable souls, which furnish to consciousness the conviction of free will.
+</p><p>
+Having thus pointed out some of the relations of physical science to the question, we are the better prepared to inquire what is meant by determination and what by free will.
+</p><p>
+No one, I suppose, would assign to free will a more than infinitesimal range. No leopard can change his spots, nor can any one by merely wishing it, or, as some say, willing it, introduce discontinuity into his course of existence. Our free will at the best is like that of Lucretius's atoms — which at quite uncertain times and places deviate in an uncertain manner from their course. In the course of this our mortal life we more or less frequently find ourselves on a physical or moral watershed, where an imperceptible deviation is sufficient to determine into which of two valleys we shall descend. The doctrine of free will asserts that in some such cases the Ego alone is the determining cause. The doctrine of Determinism asserts that in every case. without exception, the result is determined by the previous conditions of the subject, whether bodily or mental, and that Ego is mistaken in supposing himself in any way the cause of the actual result, as both what he is pleased to call decisions and the resultant action are corresponding events due to the same fixed laws.
+</p><p>
+(<a href="http://www.informationphilosopher.com/solutions/scientists/maxwell/science_and_free_will.html">Essay on Science and Free Will</a>, 1873)
+
+</p></blockquote> 
+  </div>
+
+  <div class="bodytext">
+  Six years later, Maxwell was intrigued by the work of three Frenchmen, Boussinesq, Cournot, and St Venant, on singular points in the solution of hydrodynamic equations which suggested complete unpredictability of future states. These resembled Lucretius' (really <a href="" solutions="" philosophers="" epicurus="">Epicurus</a>') atomic swerves, and they anticipate modern non-linear, deterministic chaos. Although Maxwell did not find the idea really satisfactory, it did challenge the metaphysics of strict causal determinism. 
+  </div>
+
+  <div class="bodytext">
+Maxwell wrote in a letter to Francis Galton<span class="reader_level_2_span"><sup><a href="#2">2</a></sup></span> (who never responded to the suggestion):
+
+<blockquote>
+There are certain cases in which a material system, when it comes to a phase in which the particular path which it is describing coincides with the envelope of all such paths may either continue in the particular path or take to the envelope (which in these cases is also a possible path) and which course it takes is not determined by the forces of the system (which are the same for both cases) but when the bifurcation of path occurs, the system, ipso facto, invokes some determining principle which is extra physical (but not extra natural) to determine which of the two paths it is to follow. 
+<p>
+When it is on the enveloping path it may at any instant, at its own sweet will, without exerting any force or spending any energy, go off along that one of the particular paths which happens to coincide with the actual condition of the system at that instant.
+</p><p>
+I think Boussinesq's method is a very powerful one against metaphysical arguments about cause and effect
+</p>
+</blockquote>
+</div>
+
+<a name="eddington"></a>
+<div class="sectiontitle">
+Arthur Stanley Eddington's "Free Electrons"
+</div>
+
+<div class="bodytext">
+It is extremely unlikely that <a href="/solutions/scientists/eddington/">Eddington</a> believed that "free electrons" had the same kind of freedom he wanted for human beings, but he did speak loosely of the uncertainty associated with the electron breaking the hold on physical determinism. But his critics, especially <a href="/solutions/philosophers/stebbing/">L. Susan Stebbing</a> accused Eddington of this. She said
+<blockquote>
+"There is no way of discovering when an electron will jump, nor to which orbit it will jump. The initial state does not determine the final state; hence, the final state is unpredictable. It is unfortunate that this unpredictability has often been expressed by saying that the electron is 'free to choose' where it will jump. Such language is wholly inappropriate and has led to much confusion in
+discussions concerning the bearing of recent developments in physics upon the problem of free will." (<em>Philosophy and the Physicists</em>, 1937, p.178)
+</blockquote>
+Eddington himself was more cautious, but he did hint the some "speck of brain matter" might be subject to indetermininism.
+<blockquote>
+<p>
+"There is in a human being some portion of the brain, perhaps a mere speck of brain-matter, perhaps an extensive region, in which the physical effects of his volitions begin,." (The Philosophy of Physical Science, 1938, p.182)
+</p>
+<p>
+"The indeterminacy recognised in modern quantum theory is only a partial step towards freeing our actions from deterministic control." (The Nature of the Physical World, 1928, 313)
+<p>
+
+"The revolution of theory which has expelled determinism from present-day physics has therefore the important consequence that it is no longer necessary to suppose that human actions are competely predetermined. Although the door of human freedom is opened, it is not flung wide open; only a chink of daylight appears." (New Pathways in Science, 1935, p.87)
+</p><p>
+
+"I would even say that in the present indeterministic theory of the physical universe we have reached something which a reasonable man might <em>almost</em> believe." (New Pathways in Science, 1935, p.91)
+</p>
+</blockquote>
+</div>
+
+<a name="compton"></a>
+<div class="sectiontitle">
+Arthur Holly Compton's Photocell Amplifier
+</div>
+
+<div class="bodytext">
+   In his 1931 Terry Lectures at Yale and the 1935 book, <em>The Freedom of Man</em>, and again in the 1940 book <em>The Human Meaning of Science</em>, <a href="/solutions/scientists/compton/">Arthur Holly Compton</a> developed this idea of the amplifier and added a daemon that might control a shutter, stopping "bad" photons. He imagined that a similar scheme whereby "consciousness could select the desirable brain current."
+<blockquote>
+<a name="amplifier"></a>
+  Imagine, as in Figure 1,  a faint ray of light passing through a tiny hole, which then spreads by diffraction into a broad beam. In the path of this broad beam we may place two photoelectric cells, A and B, each connected with an amplifier. These will be made so sensitive that the entrance of a single photon, i.e., particle of light, into either cell is recorded. A shutter in the path of the light ray remains open long enough to transmit a single photon. Into which cell will the photon fall ?
+<p>
+<div style="align:center">
+ <img src="/solutions/scientists/compton/Compton.jpg" alt="photocells and amplifiers">
+<p/>
+Figure 1
+<p/>
+<div class="breadcrumbs">
+<I>Nature does not obey causal laws. On successive trials, photons of light which traverse the slits do not always enter the same photoelectric cell.</I>
+</div>
+</div>
+</p><p>
+There is no way in which we can be sure. We have found that light has the dual aspect of waves and particles. The photon (particle) follows the light wave, and if we try to make its path more definite by using a smaller hole to transmit the ray, we merely make the transmitted beam of waves more diffuse by diffraction. Though the first photon may enter one cell, with the initial conditions identical as far as any test can show, the next photon may enter the other cell. The result is thus not reproducible. It is, as far as we can see, truly a matter of chance. That is what we mean by saying that the law of causality does not hold: knowledge of the initial conditions does not enable us to predict what will happen, for with the same initial conditions we cannot consistently produce the same effect.
+</p><p>
+According to modern physics, we thus live in a world of chance. 
+</p><p>
+We might connect one of our amplifiers with an electrical device which will explode a stick of dynamite, and the other amplifier with a switch which will open the circuit. Now what will happen when the shutter transmits a photon? If it enters one cell the dynamite will explode, and the apparatus will be blown to bits. If the photon enters the other cell, the switch will be pulled and the apparatus is no longer in danger. Both events are equally probable. Similarly any event which depends at some stage upon the outcome of a small-scale event is essentially unpredictable on the basis of previous history.
+</p>
+<div class="linksRight">
+Compton's demon - a close relative of <a href="/solutions/scientists/maxwell/#demon">Maxwell's demon</a>
+</div>
+<p>
+A daemon controlling the shutter might be conscious of their qualities. The daemon controlling the shutter might consider a photon which would enter the photoelectric cell that would result in exploding the dynamite a "bad" photon, and one which would enter the cell where it would prevent the catastrophe a "good" photon. Being directly conscious, of these nonphysical characteristics which will determine their direction, the daemon may then close the shutter to all approaching "bad" photons until a "good" photon has passed through and saved the day. Has the daemon in this way contravened any physical laws?
+</p><p>
+The point is that the event under consideration is really an individual act, to which, since it can be performed but once, the laws of statistics do not apply. Whether the switch is opened or the dynamite exploded by the first photon, in either case the experiment is complete. This corresponds closely to human action, considered in the light of habit. An experiment involving deliberation can be performed on a person only once; for afterwards his condition is not the same. Habit will now enter into the determination of his action. Thus deliberate actions likewise are individual events, and are not therefore predictable from laws of probability. Faced by the necessity for an individual decision, all one's physiological structure, his environment, and previous history determine what Warren Weaver describes as a "spectrum of action probability," within which "spectrum" it is possible for any action to be chosen. There will be greater probability for certain modes of action than others; but these probabilities do not specify the choice of the individual act.
+</p><p>
+It would be easy to outline a closely parallel scheme whereby consciousness could select the desirable brain current, even though the undesirable one might be equally probable from statistical considerations, thus leading to the performance of the desirable act rather than its alternative. It is not necessary to elaborate any particular brain mechanism for performing the selection, for the example just given shows that it is possible to select one of a number of physically possible acts without violating or modifying any physical law. In this way the determination of a man's actions by his will is, I believe, shown to be consistent with the principles of physics is they are now understood.
+</p>
+</blockquote>
+</div>
+<blockquote>
+<blockquote>
+<div class="breadcrumb">
+<I>The Freedom of Man</I>, pp.37-39
+</div>
+</blockquote>
+</blockquote>
+
+<a name="eccles"></a>
+<div class="sectiontitle">
+John Eccles' "Critically Poised Neurons"
+</div>
+
+<div class="bodytext">
+<a href="/solutions/scientists/compton/">Eccles</a> had as early as 1953 used <a href="/solutions/scientists/eddington/">Eddington</a>'s estimates of the uncertainty in neuron-sized structures to explore the possible interaction between a mental substance and brain matter. He made calculations of how far and fast a small unpredictable disturbance might radiate outward in a simplified model of a neural network.
+<blockquote>
+<em>The Neurophysiological Problem of Will</em>
+</p><p>
+An important neurophysiological problem arises as soon as we attempt to consider in detail the events that would occur in the cerebral cortex when, by exercise of "will," some change is induced in the response to a given situation. As argued above, in a situation where "will" is operative, there will be a changed pattern of discharge down the pyramidal tract and this change must be brought about because there is a change in the spatio-temporal pattern of influences playing upon the pyramidal cells in the motor cortex. If the "will" really can modify our reactions in a given situation, we have somewhere in the complex patterned behaviour of the cortex to find that the spatiotemporal pattern which is evolving in that given situation is modified or deflected into some different pattern.
+
+</p><p>
+<em>Quantitative Aspect of Spread of Activity in Neuronal Networks</em>
+</p><p>
+In the formulation of problems concerning activity in neuronal network: it is of value to have a model of the simplest possible network (Fig. 28 A cf. BURNS, 1951, Fig. 10). Each neurone is assumed to have only two excitatory synaptic knobs on its surface and its axon has only two excitatory knobs on two other neurones. Further it is assumed that the synaptic connexions so formed are of a two-dimensional pattern that allows the neurones to be arranged schematically in the rectangular net-like form of Fig. 28A, where it will be noticed that there is virtual radial symmetry from any point and the possibility of indefinite extension in every direction. 
+</p></div>
+<p>
+<img src="/solutions/scientists/eccles/Eccles28.jpg" alt="schematic model">
+</p><p>
+</p><div class="breadcrumbs">
+<blockquote>
+Fig. 28. 
+<br>
+<b>A</b> Schematic model of simplest type of neuronal network that would give indefinite outward spread from an excited focus and also provide closed self-re-exciting chains of al degrees of complexity. Each neurone is assumed to have only two synaptic knobs on its surface and in turn to have an axon which has only two knobs on other neurones. This net could be extended in any direction and there would be virtual radial symmetry from any point. For example, the numerals on each neurone give the number of synapses traversed in leading to its first (and second) activation in spread from neurone X, and the two simplest closed chains (4-neurone arcs) are shown by arrows. Next simplest are six 8-neurone arcs then 12-neurone arcs, and so on. 
+<p><b>B</b> Diagram with similar conventions to those of A but with each neurone receiving and giving three synaptic contacts. Unfortunately, owing to the complexity of the diagram, it has been impossible to draw the full connections for more than a very few neurones. Moreover, only the surface neurones of the deeper layers (3 and 4) are shown. Connections and cells in the depth of the cube are shown by broken lines. Note(same convention as in <b>A</b>, namely that in any plane the adjacent transmission lines alternate in direction (ECCLES, 1953)
+
+</p></blockquote>
+</div>
+
+<div class="bodytext">
+If each neurone receives and gives three synaptic contacts, a similar construction with radial symmetry is possible in three-dimensional network (Fig. 28 B). As shown in Fig. 28 these constructions would give alternating direction of transmission in the successive lines in any plane. Similarly, if each neurone gave and received <em>n</em> synapses, the pattern could be accommodated to an <em>n</em>-dimensional network.
+The problem of the mode of action of the will can be simplified and sharpened by considering firstly the behavior of a single neurone in the active neuronal network of the cortex. Suppose some small "influence" were exerted at a node that would make a neurone discharge an impulse at a level of synaptic excitation which would otherwise have been just ineffective, that is, in general to raise the probability of its discharge. Such a discharged impulse would in turn have an excitatory effect on all the other nodes on which it impinges, raising the probability of their discharge, and so on. If we assume, as above, that the transmission time from node to node occupies 1 msec, then, even on the two-dimensional net of Fig. 28 A, a spread to a large number of neurones is possible in, say, 20 msec, a time that is chosen because it is at the lower limit of duration of discrete mental events.
+<p>
+In order to frame a precise problem, we can firstly consider the schematic neuronal networks of Fig. 28 which are assumed to be cortical neurones — both the pyramidal cells and the very numerous stellate cells. We make the postulates that at zero time a neurone (for example X in Fig. 28 A) is caused to discharge an impulse into the quiescent network and that activation of one synapse is adequate to cause any neurone to discharge an impulse. For the network of Fig. 28 A. the total number of neurones, N, caused to discharge impulses is given by the formula (SAWYER, 1951):
+</p><p>
+<em>N = 2m<sup>2</sup> — 2m +  2</em>
+
+</p><p>
+where <em>m</em> is the number of nodes traversed. In 20 msec <em>m</em>=20, the internodal time being assumed as 1 msec; hence the number of neurones activated is 762.
+</p><p>
+On the same assumptions, but with a multi-dimensional network constructed according to the conventions of Fig. 28, the number of activated neurones, N, is given, where <em>m</em> is large relative to <em>n</em>, by the general formula (SAWYER, 1951):
+</p><p>
+<em>N ≈ (2n/n!) m<sup>2</sup></em> 
+
+</p><p>
+
+when <em>m</em> = 20 (i. e. within 20 msec) and with <em>n</em> = 3 (Fig. 28 B), <em>N</em> is of the order 104. With <em>n</em> = 4 and 5 respectively, <em>N</em> is of the order 105 and 8 x 10<sup>5</sup>.
+
+</p><p>
+
+These calculations are intended merely to give some indication of the large number of cortical neurones that could be affected by a discharge originating in any one. In order to apply them to our problem of how "will" <em>could</em> act on the cerebral cortex, it is necessary to take into account the evidence that "will" can act on the cortical neuronal network only when a considerable part of it is at a relatively high level of excitation, i.e. we have to assume that, for "will" to be operative, large population, of cortical neurones are subjected to strong synaptic bombardment, and are stimulated thereby to discharge impulses which bombard other neurones. Under such dynamic conditions it may be conservatively estimated that, out of the hundred or more synaptic contacts made by any one neurone, at least four or five would be <em>critically effective</em> (when summed with synaptic bombardments by other neurones) in evoking the discharge of neurones next in series. The remainder would be ineffective because the recipient neurones would not be poised at this critical level of excitability, being either at a too low level of excitation, or at a too high level, so that the neuronal discharge occurs regardless of this additional synaptic bombardment. Thus at any instant the postulated action of the "will" on any one neurone would be effectively detected by the "critically poised neurones" on which it acts synaptically.
+</p><p>
+So long as the assumed number of critically effective synaptic excitatory actions by each neurone is kept at the low levels used in the above calculations, it is probable that the conventions of the network structures of Fig. 28 give an approximate method of allowing for all the mass of feed-back connections that occur in the closed-chain linkages of the cerebral cortex (LORENTE DE NO, 1933, 1934, 1943). Further, since the cortex is approximately 3 mm thick and the mean density of neurones 40,000 per sq. mm of surface (THOMPSON, 1899), the spread to some hundreds of thousands of neurones can be treated as spreading indefinitely in all directions without serious restriction by the sheet-like structure of the cortex. Hence we may conclude that, when a region of the cortical neuronal network is at a high level of activity, the discharge of an impulse by any one neurone will have contributed directly and indirectly to the excitation of hundreds of thousands of other neurones within the very brief time of 20 msec.
+</p><p>
+<em>A Neurophysiological Hypothesis of Will</em>
+</p><p>
+As a restatement of the conclusion of the preceding section we may say that in the active cerebral cortex within 20 msec the pattern of discharge of even hundreds of thousands of neurones would be modified as a result of an "influence " that initially caused the discharge of merely one neurone. But further, if we assume that this "influence" is exerted not only at one node of the active network, but also over the whole field of nodes in some sort of spatio-temporal patterning, then it will be evident that potentially the network is capable of integrating the whole aggregate of "influences" to bring about some modification of its patterned activity, that otherwise would be determined by the pattern of afferent input and its own inherent structural and functional properties. Such integration would occur over hundreds of thousands of nodes in a few milliseconds, the effects exerted on any and every node being correlated in the resultant patterned activity of the surrounding hundreds of thousands of neurones. Thus in general. the spatio-temporal pattern of activity would be determined not only by (i) the micro-structure of the neural net and its functional properties as built up by genetic and conditioning factors and (ii) the afferent input over the period of short-term memory, but also (iii) by the postulated "field of mind influence." For example, in Fig. 29 the spatio-temporal pattern determined by factors (i) and (ii) is shown diagrammatically by the shaded structure bounded by the continuous line, while a possible modification by factor (iii) is indicated by the paths outlined by broken lines at B and C. Fig. 29 can be considered as showing boundaries of multilane neuronal traffic as indicated in Figs. 10 and 12.
+</p></div>
+
+<p>
+<img src="/solutions/scientists/eccles/Eccles29.jpg" alt="schematic model">
+</p><p>
+</p><div class="breadcrumbs">
+<blockquote>
+Fig. 29. Schematic diagram illustrating a fragment of a spatiotemporal pattern of neuronal activity in the cerebral cortex. It is assumed that by will the pattern can be altered as shown by the broken lines. Full description in text. (ECCLES, 1953)
+</blockquote>
+</div>
+
+<div class="bodytext">
+It can be claimed that no physical instrument would bear comparison with the postulated performance of the active cerebral cortex as a detector of minute "fields of influence" spread over a microscopic pattern am with temporal sequences of milliseconds. The integration, within a few milliseconds, of "influences" picked up at hundreds of thousands of nodes would be unique, particularly when it is remembered that the integration is no mere addition, but is exerted to modify in some specific way "a shifting harmony of sub-patterns" of neuronal activity, achieving expression through the modifications so produced.
+<p>
+Thus, the neurophysiological hypothesis is that the "will" modifies the spatiotemporal activity of the neuronal network by exerting spatiotemporal "fields of influence" that become effective through this unique detector function of the active cerebral cortex. It will be noted that this hypothesis assumes that the "will" or "mind influence" has itself some spatio-temporal patterned character in order to allow it this operative effectiveness.
+</p>
+</blockquote>
+</div>
+
+
+<a name="gomes"></a>
+<div class="sectiontitle">
+A. O. Gomes' Quantum Composer
+</div>
+
+<div class="bodytext">
+<p>
+While the <a href="/solutions/scientists/gomes/">Gomes</a> model is little more than an elaboration of <a href="/solutions/scientists/compton/index.html#amplifier">Arthur Holly Compton</a>'s amplifier, it is at least more peaceful. Where Compton's photocell amplifiers blow up dynamite, Gomes' multiple electron detectors and computer algorithms play music on a piano.
+</p>
+<blockquote>
+<strong>
+A MERELY PHYSICAL ILLUSTRATION</strong>
+<p>
+In truth, if a machine is steered by a complex interlocking of several units of indeterminate and determinate control, the number of states it can come to under the determining influence of the overall controlling situations of the steerage system can be as large, in principle, as the number of the combinations among the differentiated indeterminate configurations possible for each unit of indeterminate control. Yet, while planning the system, we can easily do it in such a way that only the controlling situations which can be interpreted as orderly are allowed to work out their influence. But the selection among these would still be indeterminate, because dependent on physically uncertain processes. This principle can be true both of the final situations of the machine considered statically, and of the successions among them — which means that these successions themselves can also be made at the same time well ordered and indeterminate.
+</p><p>
+It would be convenient to introduce a concrete illustration of a case of this nature. To this effect, let us imagine, as a unit of indeterminate control, a cylindrical vacuum chamber with a very tiny aperture in the center of one of its transversal walls, and a ring with a certain number of differentiated parts electrically insulated from one another and each of them connected to a high-sensitivity detector amplifier capable of responding to discrete manifestations of electrons of very low energy over the corresponding area of the ring. Let its also suppose a source of low-energy electrons before the aperture in the first wall, and a low accelerating difference of potential between the two ends of the chamber. If the aperture is small enough, each electron which penetrates the chamber will have its spatial localization very sharply defined, and will consequently suffer a physically indeterminate disturbance of momentum, with the magnitude given by the uncertainty relations of Heisenberg. The chamber can be so constructed that the medium diameter of the ring in the second transversal wall coincides with the region of the most probable manifestation of the indeterminately disturbed electrons. The place where each electron will appear upon this ring — and thus upon one or other of its several differentiated parts — is completely indeterminated, and the laws of microphysics require only that in sets of relatively large numbers of individual manifestations their distribution be uniform along the circumference of the ring, and thus that the number of the discrete arrivals upon each part of it be approximately equal for all of them. There is, however, absolutely no law for the localization of a particular manifestation upon the ring or for the step-to-step successions.
+</p><p>
+<img src="/solutions/scientists/gomes/Gomes.jpg" alt="an orderly but physically indeterminate machine">
+</p><p>
+</p><div class="breadcrumbs">
+An orderly but physically indeterminate machine. Compare <a href="/solutions/scientists/compton/index.html#amplifier">Compton's photocell amplifiers</a>.
+</div>
+<p>
+If we connect some macrophysical gadget to each of the detector amplifiers coupled to the several elements of the ring, and have those gadgets performing some macrophysical operation under the switch-on, switch-off command of the detector amplifiers, in such a way that they are put to work or to rest every time that a disturbed electron manifests itself upon the corresponding part of the ring, the assembly as a whole will constitute a macrophysical system completely undetermined in the order of its final operations. We can imagine, for instance, a jukebox with the selection of its records commanded by a unit of indeterminate control, or some sort of roulette under the same guidance.
+</p><p>
+So far, our device illustrates only physical indetermination in a series of macrophysical processes which can be in themselves either very simple — the case of the roulette — or very elaborate — the case of the reproduction of a record in the jukebox. With the further purpose of illustrating order which is significantly indeterminate all along its development, let us now imagine a piano Fig. 18.1 with a certain number of keys — say, 100 — and the activation of each of these keys decided by the output of one indeterminate control with a corresponding number of possible different states. Let the connection between this device of indeterminate control and the final mechanism of activation of the keys pass through circuitry specially designed to switch it off every time that the message started a unit that does not conform to a set of rules of musical composition which can be translated into the intermediary circuitry. This circuitry may, of course, incorporate a recording mechanism for all the operations of the system; and the rules of composition may accordingly state that after the successful activation of one key of the piano, only a few other keys — say, 5 among the 100 — may follow. The rules may also be such that in certain special cases they condition the activation of a new key in a sequence, not only to the immediately preceding element, but also to whole previous passages of the sequence; and they may as well comprehend other factors of musical composition such as rhythm and harmony of simultaneously sounding notes. Yet, as long as each new step in the musical succession admits more than one possibility which is in turn decided by the indeterminate control, the output of the instrument will also remain undetermined,
+irrespectively of the high degree of order and organization which it can maintain.
+</p><p>
+
+Now, if elaborate and ordered, but physically uncertain and, in not very long runs, statistically irregular work is thus possible for merely physical machines, it is clearly also possible, in principle, for living beings — very specially for those with a highly developed nervous system. Such a nervous system may house millions or billions of nearly simultaneous processes equivalent to those described in connection with a unit of indeterminate control, and have all these connected according to the most elaborate interlocking; hence it can afford the opportunity for the accomplishment of sequences of meaningful, organized, and not-statistically monotonous behavior, very far exceeding in length of time the span of individual life.
+</p>
+</blockquote>
+</div>
+
+
+<a name="dennett"></a>
+<div class="sectiontitle">
+Daniel Dennett's Pseudo-random Number Generator
+</div>
+
+<div class="bodytext">
+In his 1978 book Brainstorms, <a href="/solutions/philosophers/dennett/">Daniel Dennett</a> proposed an influential "model of decision making" with a two-stage account of free will. In his chapter "<em>On Giving Libertarians What They Say They Want</em>" (p.286), Dennett clearly separates random possibilities from determined choices.  
+<p>
+But does Dennett, following <a href="/solutions/philosophers/james/">James</a>, <a href="/solutions/philosophers/poincare/">Poincaré</a>, and <a href="/solutions/philosophers/popper/">Popper</a>, see that this solves the problem of indeterminism in free will that has plagued philosophy since <a href="/solutions/philosophers/epicurus/">Epicurus</a>' "<em>swerve</em>" of the atoms? He says, a bit sarcastically, that his model "puts indeterminism in the right place for the libertarian, <em>if there is a right place at all</em> [my emphasis]."
+
+</p><p>
+And after giving six excellent reasons why his suggestion is what libertarians are looking for, Dennett then mistakenly suggests that the randomness generator might as well have been a computer-generated pseudo-random number generator.  He says "Isn't it the case that the new improved proposed model for human deliberation can do as well with a random-but-deterministic generation process as with a causally undetermined process?" 
+</p><p>
+
+<em>This completely misses the libertarian's point!</em> But then Dennett's argument for libertarianism may just be a compatibilist's straw man. He does not pursue it in his later works, such as <em>Elbow Room, The Varieties of Free Will Worth Wanting</em> (Dennett, 1984).
+</p>
+Here is Dennett's suggestion (<em>Brainstorms</em>, p.295):
+<blockquote>
+The model of decision making I am proposing, has the following feature: when we are faced with an important decision, a consideration-generator whose output is to some degree undetermined produces a series of considerations, some of which may of course be immediately rejected as irrelevant by the agent (consciously or unconsciously). Those considerations that are selected by the agent as having a more than negligible bearing on the decision then figure in a reasoning process, and if the agent is in the main reasonable, those considerations ultimately serve as predictors and explicators of the agent's final decision. What can be said in favor of such a model, bearing in mind that there are many possible substantive variations on the basic theme?
+<p/>
+I have recounted six recommendations for the suggestion that human decision-making involves a non-deterministic generate-and-test procedure. First, it captures whatever is compelling in <a href="/solutions/philosophers/russell/">Russell</a>'s hunch. Second, it installs determinism in the only plausible locus for libertarianism (something we have established by a process of elimination). Third, it makes sense from the point of view of strategies of biological engineering. Fourth, it provides a flexible justification of moral education. Fifth, it accounts at least in part for our sense of authorship of our decisions. Sixth, it acknowledges and explains the importance of decisions internal to the deliberation process.
+<p/>
+It is embarrassing to note, however, that the very feature of the model that inspired its promulgation is <em>apparently</em> either gratuitous or misdescribed or both, and that is the causal indeterminacy of the generator. We have been supposing, for the sake of the libertarian, that the process that generates considerations for our assessment generates them at least in part by a physically or causally undetermined or random process. 
+<div class="linksRight">
+Dennett mistakenly thinks that <a href="/freedom/indeterminism.html">indeterminism</a> is not what is needed, but merely a "perfectly deterministic" pseudo-random patternless number generator
+</div>
+But here we seem to be trading on yet another imprecision or ambiguity in the word "random". When a system designer or programmer relies on a "random" generation process, it is not a <em>physically undetermined</em> process that is required, but simply a patternless process. Computers are typically equipped with a random number generator, but the process that generates the sequence is a perfectly deterministic and determinate process. If it is a good random number generator (and designing one is extraordinarily difficult, it turns out) the sequence will be locally and globally patternless. There will be a complete absence of regularities on which to base predictions about unexamined portions of the sequence.
+<p/>
+<div class="linksRight">
+Dennett completely misses the point that <a href="/freedom/indeterminacy.html">quantum indeterminacy</a> is needed to invalidate causal determinism
+</div>
+Isn't it the case that the new improved proposed model for human deliberation can do as well with a random-but-deterministic generation process as with a causally undetermined process? Suppose that to the extent that the considerations that occur to me are unpredictable, they are unpredictable simply because they are fortuitously determined by some arbitrary and irrelevant factors, such as the location of the planets or what I had for breakfast. It appears that this alternative supposition diminishes not one whit the plausibility or utility of the model that I have proposed. Have we in fact given the libertarians what they really want without giving them indeterminism? Perhaps. We have given the libertarians the materials out of which to construct an account of personal authorship of moral decisions, and this is something that the compatibilistic views have never handled well. But something else has emerged as well...the rival descriptions of the consideration generator, as random-but-causally-deterministic <em>versus</em> random-and-causally-<em>in</em>deterministic, will have no clearly testable and contrary implications at the level of micro-neurophysiology, even if we succeed beyond our most optimistic fantasies in mapping deliberation processes onto neural activity.
+<p/>
+That fact does not refute libertarianism, or even discredit the motivation behind it, for what it shows once again is that we need not fear that causal indeterminism would make our lives unintelligible. There may not be compelling grounds from <em>this</em> quarter for favoring an indeterministic vision of the springs of our action, but if considerations from other quarters favor indeterminism, we can at least be fairly sanguine about the prospects of incorporating indeterminism into our picture of deliberation, even if we cannot yet see what point such an incorporation would have. Wiggins speaks of the cosmic unfairness of determinism, and I do not think the considerations raised here do much to allay our worries about <em>that</em>. Even if one embraces the sort of view I have outlined, the deterministic view of the unbranching and inexorable history of the universe can inspire terror or despair, and perhaps the libertarian is right that there is no way to allay these feelings short of a brute denial of determinism. Perhaps such a denial, and only such a denial, would permit us to make sense of the notion that our actual lives are created by us over time out of possibilities that exist in virtue of our earlier decisions; that we trace a path through a branching maze that both defines who we are, and why, to some extent (if we are fortunate enough to maintain against all vicissitudes the integrity of our deliberational machinery) we are responsible for being who we are. That prospect deserves an investigation of its own. All I hope to have shown here is that it is a prospect we can and should take seriously. 
+
+</blockquote>
+</div>
+
+<a name="kane"></a>
+<div class="sectiontitle">
+Robert Kane's Probability Bubbles
+</div>
+
+<div class="bodytext">
+<p/>
+In his 1985 book <em>Free Will and Values</em>, aware of earlier proposals by <a href="/solutions/scientists/eccles/">Eccles</a>, <a href="/solutions/philosophers/popper/">Popper</a>, and <a href="/solutions/philosophers/dennett/">Dennett</a>, but working independently, <a href="/solutions/philosophers/kane/">Kane</a> proposed an ambitious amplifier model for a quantum randomizer in the brain - a spinning wheel of fortune with probability bubbles corresponding to alternative possibilities. in the massive switch amplifier tradition of <a href="/solutions/scientists/compton/">Compton</a> and <a href="/solutions/scientists/gomes/">Gomes</a>. 
+<p/>
+Kane's work is squarely in the massive switch amplifier (MSA) tradition of <a href="/solutions/scientists/compton/">Compton</a> and <a href="/solutions/scientists/gomes/">Gomes</a>.
+<p/>
+Kane says (p.169):
+<blockquote>
+What I would like to  do then, is to show how an MSA model, using Eccles' notion of critically poised neurons as a working hypothesis, might be adapted to the theory of practical, moral and prudential decision making.
+<p/>
+Keeping these points in mind, let us now suppose that there are neurons in the brain "critically poised" in Eccles' sense, whose probability of firing  within a small interval of time is .5. (We	shall tamper with this simplifying assumption in a moment.) For every n such neurons, there are 2<sup>n</sup> possible ordered combinations of firings and non-firings, which may be represented by sequences, such as (101... ), (01101... ), where the "1" 's indicate firings, the "0" 's non-firings, and the dots indicate that the sequences are continued with "0" 's up to n figures. A reasonably small number of such neurons, say a dozen, would yield ordered combinations, in the thousands, enough for the purposes of the theory. As indicated in 8.4, the exact number of possible alternatives or partitionings does not matter so long as it is large; it would likely depend on the exigencies of neurological programming rather than the demands of the theory.
+<p/>
+For practical choice, these ordered combinations of firings and non-firings of critically poised neurons would correspond to places on a spinning wheel, most of which would give rise to chance selected considerations, opening doors to consciousness of possibly relevant memories, triggering associations of ideas and/or images, focussing attention in various ways, etc. Some combinations of firings and non-firings might draw a blank. But the wheel would keep spinning until it hit something worth considering, so long as the practical reasoner or creative thinker were in a receptive, yet reflective, state of mind. Then the relevance of the consideration to deliberation would have to be assessed and the consideration either accepted or rejected.
+</blockquote>  
+Kane introduces a probability bubble.
+<blockquote>
+
+<img src="/solutions/philosophers/kane/Kane_Bubble.gif" alt="bubble inexactness">
+<p/>
+
+One might think of this as a picture of an air bubble in a glass tube filled with a liquid, with the lines A and B marked on the outside of the glass as on an ordinary carpenter's level. But this description is merely an aid to the imagination. We are going to give the bubble some extraordinary properties. The bubble may represent either the desire to choose to act from duty (out of equal respect) or the effort made to realize this desire in choice. The respective desire and effort are conceptually related because the desire is defined as the disposition to make the effort; and the intensity of the desire is measured by the intensity of the effort. The lines A and B in the figure represent choice thresholds. If the bubble passes above the line A, the choice is made to act from duty; if it passes below B, the choice is made to act on self interested motives. When the bubble is between the lines, as in the figure, no choice has yet been made. A downward pull of gravity in the figure may be thought to represent the natural pull of one's self interested motives, which must be counteracted by an effort to resist temptation. 
+<p/>
+There is an ambiguity, essential to our problem, about what it means to say that the bubble "passes above" the line A, or "below" the line B. If the bubble passes above A, or below B, then the choice is made to act from duty, or from self interest, respectively. But does this mean that the bubble must be wholly, or only partly, above A, or below B? It is here that we give the bubble some extraordinary properties. We imagine that the bubble represents a probability space, so that, when it is partly above A, there is a corresponding  probability, but not certain that the choice is mate to act from duty, and when it is partly below B there is a corresponding probability, but not certainty, that the choice is made to act from self interest. When the bubble is wholly above A (or below B), it is certain that the choice is made to act from duty (or self interest). We	then imagine a point particle in the  
+probability space (the bubble) that moves around randomly, while always remaining within the space. That is, it has an equal probability of appearing in any one of a number of equal sized regions in the space. (There will be further comment on this partitioning and its significance in a moment.) If part of the bubble is above the line A for a certain time and the point particle is in regions all of which are wholly above the line for the same length of time, then the choice is made to act from duty (and similarly for line B).
+<p/>
+To complicate matters further, we want to assume that the bubble or probability space does not have an exact position vis a vis the thresholds at any given time and that this inexactness of position is also due to the undetermined movement of the point particle in the regions. There are a number of ways to represent this in the diagram, but the simplest way is the following.
+Imagine, as in the following figure, that the choice thresholds A and B have indeterminate position so that they can be anywhere between (or on) the extremes A'-A" and B'-B" respectively:
+<p/>
+<img src="/solutions/philosophers/kane/Kane_Bubble2.gif" alt="bubble inexactness">
+<p/>
+The distances between any two possible threshold positions for A (or any two for B) are equal and each possible threshold position corresponds to a region in the bubble such that, if the point particle is in that region, the threshold is at the corresponding position. But adjacent regions in the bubble need not correspond to adjacent positions of the thresholds and higher or lower regions of the bubble need not correspond to higher and lower threshold positions respectively.
+<p/>
+What all this means is that the intensity of the effort to overcome temptation at any given time, which is measure of the intensity of the desire to act from duty (represented by the position of the bubble vis a vis the thresholds and the position of the point particle within the bubble) is indeterminate. And, as a consequence, the outcome of the choice situation at a given time is undetermined and unpredictable as long as the bubble is not wholly above A' or wholly below B".
+</blockquote>
+
+  <blockquote>
+
+  "neurological processes must exist corresponding to the randomizing activity of the spinning wheel <em>and</em> the partitioning of the wheel into equiprobable segments (red, blue, etc.) corresponding to the relevant R-alternatives."
+  </blockquote>
+Kane's model combines free will <em>and values</em>. Kane claimed his free choice is <em>moral</em> and made in accord with Kant's concept of duty. Claiming that the only free actions are moral decisions is an <a href="/freedom/ethical_fallacy.html">ethical fallacy</a>.
+  <blockquote>
+  "the succession of random selections among equiprobable alternatives is meant to be a continuing reminder (a mental or neurological representation) of the fact that the reason sets of other persons are to be treated equally."
+  </blockquote>
+<p/>
+  Kane is not satisfied with his free will solution. He explains that the main reason for failure is   
+  <blockquote>
+"locating the master switch and the mechanism of amplification...We do not know if something similar goes on in the brains of cortically developed creatures like ourselves, but I suspect it must if libertarian theories are to succeed." (p.168)
+  </blockquote>
+
+  Kane's basic failure is his <a href="/freedom/location.html">location of indeterminism</a> in the decision process itself, making <a href="/freedom/chance_direct_cause.html">chance the direct cause of action</a>.
+<p/>
+
+</div>
+
+
+<a name="mele"></a>
+<div class="sectiontitle">
+Alfred Mele's Roulette Wheel
+</div>
+
+<div class="bodytext">
+<a href="/solutions/philosophers/mele/">Mele</a> describes how indeterminism shows up as a problem of <a href="/afterwords/glossary/#Moral_Luck">moral luck</a> for libertarians. 
+<p/>
+Mele, like Kane, clearly makes <a href="/freedom/chance_direct_cause.html">chance at least partly the direct cause of action</a>.
+<p/>
+In his book <em>Free Will and Luck</em>, p.7, he says...
+<blockquote>
+<p/>
+As soon as any agent...judges it best to A, objective probabilities for the various decisions open to the agent are set, and the probability of a decision to A is very high. Larger probabilities get a correspondingly larger segment of a tiny indeterministic neural roulette wheel in the agent's head than do smaller probabilities. A tiny neural ball bounces along the wheel; its landing in a particular segment is the agent's making the corresponding decision. When the ball lands in the segment for a decision to A, its doing so is not just a matter of luck. After all, the design is such that the probability of that happening is very high. But the ball's landing there is partly a matter of luck. 
+</blockquote>
+</div>
+
+
+<div class="reader_level_1">
+ <div class="sectiontitle">For Teachers</div>
+   <div class="breadcrumbs">To hide this material, click on the Normal link.</div>
+
+
+</div>
+
+<div class="reader_level_2">
+ <div class="sectiontitle">For Scholars</div>
+   <div class="breadcrumbs">To hide this material, click on the Teacher or Normal link.</div>
+
+
+<blockquote>
+
+</blockquote>
+
+</div> 
+
+</div>
+
+<div class="clearBoth">
+</div>
+    <hr color="#CCCCEE">
+        <table class="footernav" width="100%">
+      <tbody>
+        <tr>
+          <td align="left"><a href="/introduction/philosophy/"><img border="0" align="bottom" src="/images/ArrowLeft.gif" /></a> <a href="/introduction/philosophy/">Chapter 1.4 - The Philosophy</a> </td> 
+          <td align="right"><a href="/solutions/scientists/">Chapter 1.6 - The Scientists</a> <a href="/solutions/scientists/"><img src="/images/ArrowRight.gif" border="0"></a></td>
+        </tr>
+        <tr>
+          <td align="left"><a href="/"><img border="0" align="bottom" src="/images/ArrowLeft.gif" /></a> <a href="/">Home</a> </td> 
+          <td align="right"><a href="/freedom/">Part Two - Knowledge</a> <a href="/knowledge/"><img src="/images/ArrowRight.gif" border="0"></a></td>
+        </tr>
+      </tbody>
+    </table>
+
+<div id="skyFooter1520" class="skyFooter">
+
+<script type="text/javascript" language="javascript">
+document.onclick = fDocumentOnClick;
+document.ondblclick = fDocumentOnDblClick;
+document.onkeypress = fDocumentOnKeyPress;
+document.onmouseover = fSkyWritableOver;
+</script>
+<div class="skyFooterText">
+</div>
+
+</div>
+
+		<!-- 
+		     server side readerlevel control links
+		     <a id="reader_level_0_link" href="?ReaderLevel=0">0</a> | <a id="reader_level_1_link" href="?ReaderLevel=1">1</a> | <a id="reader_level_2_link" href="?ReaderLevel=2">2</a>
+		     -->
+		<!-- client side readerlevel control links -->
+		<a id="reader_level_0_link" href="" onclick="fSetReaderLevel(0); return false;">Normal</a> | <a id="reader_level_1_link" href="" onclick="fSetReaderLevel(1); return false;">Teacher</a> | <a id="reader_level_2_link" href="" onclick="fSetReaderLevel(2); return false;">Scholar</a>
+	      </div>
+	    </div>
+	    <!-- end column23 -->
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    
+            
+    
+    <!-- stop index links -->
+    <div style="clear:both"></div>
+    <!-- suppresses blue main-menu background repeating down the whole page in mozilla -->
+    </div>
+    <!-- end content-wrapper -->
+    <!-- 
+    when serializing the footer, pull everything above this line out into the includer so that the skyInclude div won't get crossed with content-wrapper
+    dtd 
+    -->
+    
+    <div id="footer">
+    <a href="http://www.informationphilosopher.com/introduction/contact.html">Contact Us</a><a href="http://www.informationphilosopher.com/site/map/">Site Map</a>  <a href="http://www.skybuilders.com">Powered by skyBuilders <img class="cc" src="/images/nanoSky.gif" alt="skyBuilders.com" border="0"></a> <a rel="license" href="http://creativecommons.org/licenses/by/3.0"  title="Creative Commons Attribution License">Creative Commons Attribution License <img class="cc" alt="Creative Commons Attribution License" src="/images/CC.png" border="0"></a>
+    </div>
+
+    </body>
+</html>

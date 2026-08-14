@@ -1,8 +1,8 @@
 {
- "count": 74,
+ "count": 75,
  "verdicts": {
   "PROVEN": 35,
-  "PROVEN-MECHANISM": 39
+  "PROVEN-MECHANISM": 40
  },
  "proofs": [
   {
@@ -892,6 +892,18 @@
    "uses_real_data": true,
    "verdict": "PROVEN",
    "proof_hash": "dd9e418f0152389a"
+  },
+  {
+   "script": "validate-ingestion-organism.py",
+   "layer": "ALL",
+   "vision": "Verified Epistemic OS",
+   "kernel": "ingestion-organism",
+   "claim": "the autonomous priority-driven refinery: ingest\u2192refine\u2192verify\u2192commit\u2192re-prioritize on learner feedback \u2014 10/10",
+   "test_exists": true,
+   "passes": true,
+   "uses_real_data": false,
+   "verdict": "PROVEN-MECHANISM",
+   "proof_hash": "89a387bd485d04f9"
   }
  ]
 }

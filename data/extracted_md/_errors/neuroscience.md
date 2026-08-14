@@ -1,0 +1,11 @@
+# 300 Multiple Choices
+
+**source:** html · **section:** freedom
+**file:** neuroscience
+---
+
+Multiple Choices
+The document name you requested (/freedom/neuroscience.html) could not be found on this server.
+However, we found documents with names similar to the one you requested.Available documents:
+/freedom/neuroscience (common basename)
+Please consider informing the owner of the referring page https://www.informationphilosopher.com/freedom/determination_fallacy.html about the broken link.

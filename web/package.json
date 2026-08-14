@@ -1,0 +1,20 @@
+{
+  "name": "patala-web",
+  "version": "1.0.0",
+  "description": "Pāṭala — the Verified Epistemic OS. Astro static site over the compiled projections.",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "python3 ../scripts/build-static-site.py && astro build",
+    "preview": "astro preview",
+    "check": "astro check"
+  },
+  "dependencies": {
+    "astro": "^5.18.2"
+  },
+  "allowScripts": {
+    "esbuild@0.27.7": true,
+    "esbuild@0.25.12": true,
+    "sharp@0.34.5": true
+  }
+}

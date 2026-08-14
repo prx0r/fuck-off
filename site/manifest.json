@@ -1,0 +1,2646 @@
+{
+ "concepts": {
+  "second-law": {
+   "id": "ip:concept:second_law",
+   "label": "Second Law",
+   "ceiling": "SCHOLARLY_CORROBORATED",
+   "url": "https://patala.org/concept/second-law"
+  },
+  "indeterminism": {
+   "id": "ip:concept:indeterminism",
+   "label": "Indeterminism",
+   "ceiling": "SCHOLARLY_CORROBORATED_PRELIMINARY",
+   "url": "https://patala.org/concept/indeterminism"
+  },
+  "entropy": {
+   "id": "ip:concept:entropy",
+   "label": "Entropy",
+   "ceiling": "SCHOLARLY_CORROBORATED",
+   "url": "https://patala.org/concept/entropy"
+  },
+  "wave-function": {
+   "id": "ip:concept:wave_function",
+   "label": "Wave Function",
+   "ceiling": "SCHOLARLY_CORROBORATED",
+   "url": "https://patala.org/concept/wave-function"
+  },
+  "entanglement": {
+   "id": "ip:concept:entanglement",
+   "label": "Entanglement",
+   "ceiling": "SCHOLARLY_CORROBORATED",
+   "url": "https://patala.org/concept/entanglement"
+  },
+  "mind-body": {
+   "id": "ip:concept:mind_body",
+   "label": "Mind Body",
+   "ceiling": "MACHINE_PROPOSED",
+   "url": "https://patala.org/concept/mind-body"
+  },
+  "agency": {
+   "id": "ip:concept:agency",
+   "label": "Agency",
+   "ceiling": "MACHINE_PROPOSED",
+   "url": "https://patala.org/concept/agency"
+  },
+  "measurement": {
+   "id": "ip:concept:measurement",
+   "label": "Measurement",
+   "ceiling": "SCHOLARLY_CORROBORATED",
+   "url": "https://patala.org/concept/measurement"
+  },
+  "information-theory": {
+   "id": "ip:concept:information_theory",
+   "label": "Information Theory",
+   "ceiling": "SCHOLARLY_CORROBORATED",
+   "url": "https://patala.org/concept/information-theory"
+  },
+  "life": {
+   "id": "ip:concept:life",
+   "label": "Life",
+   "ceiling": "SCHOLARLY_CORROBORATED",
+   "url": "https://patala.org/concept/life"
+  },
+  "determinism": {
+   "id": "ip:concept:determinism",
+   "label": "Determinism",
+   "ceiling": "SCHOLARLY_CORROBORATED",
+   "url": "https://patala.org/concept/determinism"
+  },
+  "belief": {
+   "id": "ip:concept:belief",
+   "label": "Belief",
+   "ceiling": "MACHINE_PROPOSED",
+   "url": "https://patala.org/concept/belief"
+  },
+  "chance": {
+   "id": "ip:concept:chance",
+   "label": "Chance",
+   "ceiling": "MACHINE_PROPOSED",
+   "url": "https://patala.org/concept/chance"
+  },
+  "free-will": {
+   "id": "ip:concept:free_will",
+   "label": "Free Will",
+   "ceiling": "MACHINE_PROPOSED",
+   "url": "https://patala.org/concept/free-will"
+  },
+  "knowledge": {
+   "id": "ip:concept:knowledge",
+   "label": "Knowledge",
+   "ceiling": "SCHOLARLY_CORROBORATED",
+   "url": "https://patala.org/concept/knowledge"
+  },
+  "morality": {
+   "id": "ip:concept:morality",
+   "label": "Morality",
+   "ceiling": "MACHINE_PROPOSED",
+   "url": "https://patala.org/concept/morality"
+  },
+  "qualia": {
+   "id": "ip:concept:qualia",
+   "label": "Qualia",
+   "ceiling": "MACHINE_PROPOSED",
+   "url": "https://patala.org/concept/qualia"
+  },
+  "truth": {
+   "id": "ip:concept:truth",
+   "label": "Truth",
+   "ceiling": "MACHINE_PROPOSED",
+   "url": "https://patala.org/concept/truth"
+  },
+  "superposition": {
+   "id": "ip:concept:superposition",
+   "label": "Superposition",
+   "ceiling": "SCHOLARLY_CORROBORATED",
+   "url": "https://patala.org/concept/superposition"
+  },
+  "mind": {
+   "id": "ip:concept:mind",
+   "label": "Mind",
+   "ceiling": "SCHOLARLY_CORROBORATED_PRELIMINARY",
+   "url": "https://patala.org/concept/mind"
+  },
+  "consciousness": {
+   "id": "ip:concept:consciousness",
+   "label": "Consciousness",
+   "ceiling": "SCHOLARLY_CORROBORATED_PRELIMINARY",
+   "url": "https://patala.org/concept/consciousness"
+  },
+  "quantum-mechanics": {
+   "id": "ip:concept:quantum_mechanics",
+   "label": "Quantum Mechanics",
+   "ceiling": "SCHOLARLY_CORROBORATED",
+   "url": "https://patala.org/concept/quantum-mechanics"
+  },
+  "computation": {
+   "id": "ip:concept:computation",
+   "label": "Computation",
+   "ceiling": "SCHOLARLY_CORROBORATED",
+   "url": "https://patala.org/concept/computation"
+  },
+  "evolution": {
+   "id": "ip:concept:evolution",
+   "label": "Evolution",
+   "ceiling": "SCHOLARLY_CORROBORATED",
+   "url": "https://patala.org/concept/evolution"
+  },
+  "causality": {
+   "id": "ip:concept:causality",
+   "label": "Causality",
+   "ceiling": "SCHOLARLY_CORROBORATED",
+   "url": "https://patala.org/concept/causality"
+  },
+  "responsibility": {
+   "id": "ip:concept:responsibility",
+   "label": "Responsibility",
+   "ceiling": "MACHINE_PROPOSED",
+   "url": "https://patala.org/concept/responsibility"
+  },
+  "randomness": {
+   "id": "ip:concept:randomness",
+   "label": "Randomness",
+   "ceiling": "SCHOLARLY_CORROBORATED",
+   "url": "https://patala.org/concept/randomness"
+  },
+  "probability": {
+   "id": "ip:concept:probability",
+   "label": "Probability",
+   "ceiling": "SCHOLARLY_CORROBORATED",
+   "url": "https://patala.org/concept/probability"
+  },
+  "value": {
+   "id": "ip:concept:value",
+   "label": "Value",
+   "ceiling": "MACHINE_PROPOSED",
+   "url": "https://patala.org/concept/value"
+  },
+  "arrow-of-time": {
+   "id": "ip:concept:arrow_of_time",
+   "label": "Arrow Of Time",
+   "ceiling": "SCHOLARLY_CORROBORATED",
+   "url": "https://patala.org/concept/arrow-of-time"
+  },
+  "information": {
+   "id": "ip:concept:information",
+   "label": "Information",
+   "ceiling": "SCHOLARLY_CORROBORATED",
+   "url": "https://patala.org/concept/information"
+  }
+ },
+ "argument": {
+  "I1": {
+   "label": "I1",
+   "ceiling": "SCHOLARLY_CORROBORATED"
+  },
+  "I2": {
+   "label": "I2",
+   "ceiling": "MACHINE_PROPOSED"
+  },
+  "I3": {
+   "label": "I3",
+   "ceiling": "MACHINE_PROPOSED"
+  },
+  "I4": {
+   "label": "I4",
+   "ceiling": "SCHOLARLY_CORROBORATED_PRELIMINARY"
+  },
+  "I5": {
+   "label": "I5",
+   "ceiling": "MACHINE_PROPOSED"
+  },
+  "I6": {
+   "label": "I6",
+   "ceiling": "SCHOLARLY_CORROBORATED_PRELIMINARY"
+  }
+ },
+ "generated": true,
+ "counts": {
+  "concepts": 31,
+  "argument_nodes": 6,
+  "bytes": 1480759,
+  "root_hash": "7f1d5a19f52869be"
+ },
+ "bibliography": {
+  "count": 254,
+  "works": [
+   {
+    "id": "malinivijayottara",
+    "title": "M\u0101lin\u012bvijayottaratantra",
+    "verified": true,
+    "translation_status": "partial",
+    "traditions": []
+   },
+   {
+    "id": "vijnanabhairava",
+    "title": "Vij\u00f1\u0101nabhairava",
+    "verified": true,
+    "translation_status": "complete",
+    "traditions": []
+   },
+   {
+    "id": "paratrisika",
+    "title": "Par\u0101tri\u1e43\u015bik\u0101 (root)",
+    "verified": true,
+    "translation_status": "partial",
+    "traditions": []
+   },
+   {
+    "id": "paratrisikavivarana",
+    "title": "Par\u0101tri\u1e43\u015bik\u0101vivara\u1e47a (Abhinavagupta)",
+    "verified": true,
+    "translation_status": "complete",
+    "traditions": []
+   },
+   {
+    "id": "tantraloka",
+    "title": "Tantr\u0101loka",
+    "verified": true,
+    "translation_status": "complete",
+    "traditions": []
+   },
+   {
+    "id": "tantrasara",
+    "title": "Tantras\u0101ra (Abhinavagupta)",
+    "verified": true,
+    "translation_status": "complete",
+    "traditions": []
+   },
+   {
+    "id": "malinislokavarttika",
+    "title": "M\u0101lin\u012b\u015blokav\u0101rttika (M\u0101lin\u012bvijayav\u0101rttika)",
+    "verified": true,
+    "translation_status": "partial",
+    "traditions": []
+   },
+   {
+    "id": "tantrasadbhava",
+    "title": "Tantrasadbh\u0101va",
+    "verified": true,
+    "translation_status": "partial",
+    "traditions": []
+   },
+   {
+    "id": "sivasutra",
+    "title": "\u015aivas\u016btra + K\u1e63emar\u0101ja's Vimar\u015bin\u012b",
+    "verified": true,
+    "translation_status": "complete",
+    "traditions": []
+   },
+   {
+    "id": "spandakarika",
+    "title": "Spandak\u0101rik\u0101 (root) + Spandanir\u1e47aya (K\u1e63emar\u0101ja commentary)",
+    "verified": true,
+    "translation_status": "complete",
+    "traditions": []
+   },
+   {
+    "id": "paratrisikalaghuvrtti",
+    "title": "Par\u0101tri\u1e43\u015bik\u0101 Laghuv\u1e5btti / Anuttaratattvavimar\u015bin\u012b (Abhinavagupta)",
+    "verified": true,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "parakhyatantra",
+    "title": "Par\u0101khyatantra",
+    "verified": false,
+    "translation_status": "complete",
+    "traditions": []
+   },
+   {
+    "id": "mrgendragama",
+    "title": "M\u1e5bgendr\u0101gama / M\u1e5bgendratantra",
+    "verified": false,
+    "translation_status": "partial",
+    "traditions": []
+   },
+   {
+    "id": "kiranatantra",
+    "title": "Kira\u1e47\u0101gama",
+    "verified": false,
+    "translation_status": "partial",
+    "traditions": []
+   },
+   {
+    "id": "rauravagama",
+    "title": "Raurav\u0101gama",
+    "verified": false,
+    "translation_status": "partial",
+    "traditions": []
+   },
+   {
+    "id": "ajitagama",
+    "title": "Ajit\u0101gama / Ajitamah\u0101tantra",
+    "verified": false,
+    "translation_status": "complete",
+    "traditions": []
+   },
+   {
+    "id": "matangaparmesvaragama",
+    "title": "Mata\u1e45gap\u0101rame\u015bvar\u0101gama",
+    "verified": false,
+    "translation_status": "partial",
+    "traditions": []
+   },
+   {
+    "id": "kamikagama",
+    "title": "K\u0101mik\u0101gama",
+    "verified": false,
+    "translation_status": "partial",
+    "traditions": []
+   },
+   {
+    "id": "pauskaragama",
+    "title": "Pau\u1e63kar\u0101gama",
+    "verified": false,
+    "translation_status": "partial",
+    "traditions": []
+   },
+   {
+    "id": "sarvajnanottara",
+    "title": "Sarvaj\u00f1\u0101nottara",
+    "verified": false,
+    "translation_status": "partial",
+    "traditions": []
+   },
+   {
+    "id": "sardhatrisatikalottara",
+    "title": "S\u0101rdhatri\u015batik\u0101lottara",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "brahmayamala",
+    "title": "Brahmay\u0101mala / Picumata",
+    "verified": false,
+    "translation_status": "partial",
+    "traditions": []
+   },
+   {
+    "id": "siddhayogesvarimata",
+    "title": "Siddhayoge\u015bvar\u012bmata",
+    "verified": false,
+    "translation_status": "partial",
+    "traditions": []
+   },
+   {
+    "id": "svacchandatantra",
+    "title": "Svacchandatantra",
+    "verified": false,
+    "translation_status": "partial",
+    "traditions": []
+   },
+   {
+    "id": "netratantra",
+    "title": "Netratantra / Am\u1e5bte\u015batantra",
+    "verified": false,
+    "translation_status": "partial",
+    "traditions": []
+   },
+   {
+    "id": "jayadrathayamala",
+    "title": "Jayadrathay\u0101mala",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "trisirobhairava",
+    "title": "Tri\u015birobhairava / Tri\u015biromata",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "nisvasaguhyasutra",
+    "title": "Ni\u015bv\u0101sa (Guhyas\u016btra)",
+    "verified": false,
+    "translation_status": "partial",
+    "traditions": []
+   },
+   {
+    "id": "kularatnamala",
+    "title": "Kularatnam\u0101l\u0101",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "kaulajnananirnaya",
+    "title": "Kaulaj\u00f1\u0101nanir\u1e47aya",
+    "verified": false,
+    "translation_status": "complete",
+    "traditions": []
+   },
+   {
+    "id": "kularnavatantra",
+    "title": "Kul\u0101r\u1e47avatantra",
+    "verified": false,
+    "translation_status": "complete",
+    "traditions": []
+   },
+   {
+    "id": "timirodghatana",
+    "title": "Timirodgh\u0101\u1e6dana",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "yogapithakramodaya",
+    "title": "Yogap\u012b\u1e6dhakramodaya",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "kulasara",
+    "title": "Kulas\u0101ra (M00294)",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "akulaviratantra",
+    "title": "Akulav\u012bratantra (A/B)",
+    "verified": false,
+    "translation_status": "partial",
+    "traditions": []
+   },
+   {
+    "id": "kulanandatantra",
+    "title": "Kul\u0101nandatantra",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "jnanakarika",
+    "title": "J\u00f1\u0101nak\u0101rik\u0101",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "kulapancasika",
+    "title": "Kulapa\u00f1c\u0101\u015bik\u0101",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "urmikaularnava",
+    "title": "\u016armikaul\u0101r\u1e47ava",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "kramasadbhava",
+    "title": "Kramasadbh\u0101va",
+    "verified": false,
+    "translation_status": "partial",
+    "traditions": []
+   },
+   {
+    "id": "mahanayaprakasha",
+    "title": "Mah\u0101nayaprak\u0101\u015ba \u2014 Trivandrum recension",
+    "verified": false,
+    "translation_status": "partial",
+    "traditions": []
+   },
+   {
+    "id": "mahanayaprakasha-arnasimha",
+    "title": "Mah\u0101nayaprak\u0101\u015ba \u2014 Ar\u1e47asi\u1e43ha",
+    "verified": false,
+    "translation_status": "partial",
+    "traditions": []
+   },
+   {
+    "id": "devipancasataka",
+    "title": "Dev\u012bpa\u00f1ca\u015bataka / K\u0101l\u012bkulapa\u00f1ca\u015bataka",
+    "verified": false,
+    "translation_status": "partial",
+    "traditions": []
+   },
+   {
+    "id": "kramastotra",
+    "title": "Kramastotra \u2014 Erakan\u0101tha",
+    "verified": false,
+    "translation_status": "partial",
+    "traditions": []
+   },
+   {
+    "id": "kalikastotra",
+    "title": "K\u0101lik\u0101stotra \u2014 J\u00f1\u0101nanetra",
+    "verified": false,
+    "translation_status": "partial",
+    "traditions": []
+   },
+   {
+    "id": "kramavilasastotra",
+    "title": "Kramavil\u0101sastotra",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "cidgaganacandrika",
+    "title": "Cidgaganacandrik\u0101",
+    "verified": false,
+    "translation_status": "partial",
+    "traditions": []
+   },
+   {
+    "id": "kaulasutra",
+    "title": "Kaulas\u016btra",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "maharthamanjari",
+    "title": "Mah\u0101rthama\u00f1jar\u012b \u2014 Mahe\u015bvar\u0101nanda",
+    "verified": false,
+    "translation_status": "complete",
+    "traditions": []
+   },
+   {
+    "id": "kubjikamata",
+    "title": "Kubjik\u0101matatantra",
+    "verified": false,
+    "translation_status": "partial",
+    "traditions": []
+   },
+   {
+    "id": "laghvikamnaya",
+    "title": "Laghvik\u0101mn\u0101ya-Kubjik\u0101mata",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "satsahasrasamhita",
+    "title": "\u1e62a\u1e6ds\u0101hasrasa\u1e43hit\u0101 / Kul\u0101lik\u0101mn\u0101ya",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "shrimatottara",
+    "title": "\u015ar\u012bmatottara",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "kularatnoddyota",
+    "title": "Kularatnoddyota",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "cincinimatasarasamuccaya",
+    "title": "Ci\u00f1ci\u1e47\u012bmatas\u0101rasamuccaya",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "manthanabhairava",
+    "title": "Manth\u0101nabhairavatantra \u2014 Kum\u0101rik\u0101kha\u1e47\u1e0da",
+    "verified": false,
+    "translation_status": "partial",
+    "traditions": []
+   },
+   {
+    "id": "kalanalatantra",
+    "title": "K\u0101l\u0101nalatantra",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "maharahasyasampradaya",
+    "title": "Mah\u0101rahasyasa\u1e43prad\u0101ya",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "pascimarcanapaddhati",
+    "title": "Pa\u015bcim\u0101rcanapaddhati",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivadrsti",
+    "title": "\u015aivad\u1e5b\u1e63\u1e6di \u2014 Som\u0101nanda",
+    "verified": false,
+    "translation_status": "partial",
+    "traditions": []
+   },
+   {
+    "id": "sivadrstivrtti",
+    "title": "\u015aivad\u1e5b\u1e63\u1e6div\u1e5btti \u2014 Utpaladeva",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "isvarapratyabhijnakarika",
+    "title": "\u012a\u015bvarapratyabhij\u00f1\u0101k\u0101rik\u0101 + author's V\u1e5btti",
+    "verified": false,
+    "translation_status": "complete",
+    "traditions": []
+   },
+   {
+    "id": "isvarapratyabhijnavivrtti",
+    "title": "\u012a\u015bvarapratyabhij\u00f1\u0101viv\u1e5bti / \u1e6c\u012bk\u0101 \u2014 Utpaladeva",
+    "verified": false,
+    "translation_status": "partial",
+    "traditions": []
+   },
+   {
+    "id": "isvarapratyabhijnavimarsini",
+    "title": "\u012a\u015bvarapratyabhij\u00f1\u0101vimar\u015bin\u012b \u2014 Abhinavagupta",
+    "verified": false,
+    "translation_status": "complete",
+    "traditions": []
+   },
+   {
+    "id": "isvarapratyabhijnavivrtivimarsini",
+    "title": "\u012a\u015bvarapratyabhij\u00f1\u0101viv\u1e5btivimar\u015bin\u012b \u2014 Abhinavagupta",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "pratyabhijnahrdaya",
+    "title": "Pratyabhij\u00f1\u0101h\u1e5bdaya \u2014 K\u1e63emar\u0101ja",
+    "verified": false,
+    "translation_status": "complete",
+    "traditions": []
+   },
+   {
+    "id": "sivastotravali",
+    "title": "\u015aivastotr\u0101val\u012b \u2014 Utpaladeva",
+    "verified": false,
+    "translation_status": "complete",
+    "traditions": []
+   },
+   {
+    "id": "sivastotravalivivrti",
+    "title": "\u015aivastotr\u0101val\u012bviv\u1e5bti / commentary tradition",
+    "verified": false,
+    "translation_status": "partial",
+    "traditions": []
+   },
+   {
+    "id": "paramarthasara",
+    "title": "Param\u0101rthas\u0101ra \u2014 Abhinavagupta + Yogar\u0101ja commentary",
+    "verified": false,
+    "translation_status": "complete",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_kriyakandakramavali",
+    "title": "Kriy\u0101k\u0101\u1e47\u1e0dakram\u0101val\u012b / Soma\u015bambhupaddhati \u2014 Soma\u015bambhu",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_somashambhupaddhativyakhya",
+    "title": "Soma\u015bambhupaddhativy\u0101khy\u0101 \u2014 Trilocana\u015biva",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_siddhantasamuccaya",
+    "title": "Siddh\u0101ntasamuccaya / Siddh\u0101nt\u0101rthasamuccaya \u2014 Trilocana\u015biva",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_siddhantarahasyasara",
+    "title": "Siddh\u0101ntarahasyas\u0101ra \u2014 Trilocana\u015biva",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_sataratnasamgraha",
+    "title": "\u015aataratnasa\u1e43graha",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_sataratnollekhanii",
+    "title": "\u015aataratnollekhan\u012b",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_siddhantaprakasika",
+    "title": "Siddh\u0101ntaprak\u0101\u015bik\u0101 \u2014 Sarv\u0101tma\u015bambhu",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_tattvaratnavali",
+    "title": "Tattvaratn\u0101val\u012b / Atyantanirmalatattvaratn\u0101val\u012b \u2014 Vimala\u015biva",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_siddhantasekhara",
+    "title": "Siddh\u0101nta\u015bekhara \u2014 Vi\u015bvan\u0101tha",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_mrgendrapaddhati",
+    "title": "M\u1e5bgendrapaddhati \u2014 Aghora\u015biva",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_mrgendrapaddhatitika",
+    "title": "M\u1e5bgendrapaddhati\u1e6d\u012bk\u0101 \u2014 Vaktra\u015bambhu",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_prasadapaddhati",
+    "title": "Pr\u0101s\u0101dapaddhati \u2014 Pr\u0101s\u0101da\u015biva",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_pratisthasarapaddhati",
+    "title": "Prati\u1e63\u1e6dh\u0101s\u0101rapaddhati",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_sisyasamskarapaddhati",
+    "title": "\u015ai\u1e63yasa\u1e43sk\u0101rapaddhati",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_kaladiksapaddhati",
+    "title": "Kal\u0101d\u012bk\u1e63\u0101paddhati \u2014 Manodadatta",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_agnikaryapaddhati",
+    "title": "Agnik\u0101ryapaddhati",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_sivanirvanapaddhati",
+    "title": "\u015aivanirv\u0101\u1e47apaddhati",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_gurupustika",
+    "title": "Gurupustik\u0101 / Gurupustaka \u2014 \u015aitika\u1e47\u1e6dha",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_svacchandabhairavapujapaddhati",
+    "title": "Svacchandabhairavap\u016bj\u0101paddhati",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_svacchandadevarcanavidhi",
+    "title": "Svacchandadev\u0101rcanavidhi",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_apratihatamahadiksasutippanaka",
+    "title": "Apratihatamah\u0101d\u012bk\u1e63\u0101su\u1e6dippa\u1e47aka / Netroddyota \u2014 Vi\u015bve\u015bvara",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_amrtevarapujana",
+    "title": "Am\u1e5bte\u015bvarap\u016bjana \u2014 Abhayamalla",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_amrtevarapujagnikaryavidhana",
+    "title": "Am\u1e5bte\u015bvarap\u016bj\u0101gnik\u0101ryavidh\u0101na",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_amrtasuryapujavidhi",
+    "title": "Am\u1e5btas\u016bryap\u016bj\u0101vidhi",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_amrtabhairavarcanavidhi",
+    "title": "Am\u1e5btabhairav\u0101rcanavidhi",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_amrtisabhairavabhattarakahnikavidhi",
+    "title": "Am\u1e5bt\u012b\u015babhairavabha\u1e6d\u1e6d\u0101rak\u0101hnikavidhi",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_amrtasuryarcanavidhi",
+    "title": "Am\u1e5btas\u016bry\u0101rcanavidhi",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_devitantrasadbhavasara",
+    "title": "Dev\u012btantrasadbh\u0101vas\u0101ra",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_matrsadbhava",
+    "title": "M\u0101t\u1e5bsadbh\u0101va",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_tantrarajatantravatarastotra",
+    "title": "Tantrar\u0101jatantr\u0101vat\u0101rastotra \u2014 Vi\u015bv\u0101varta",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_urdhvamnayapavitrarohanadamanarohanapaddhati",
+    "title": "\u016ardhv\u0101mn\u0101yapavitr\u0101roha\u1e47adaman\u0101roha\u1e47apaddhati",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_paratrisikalaghuvrttivimarsini",
+    "title": "Par\u0101tr\u012b\u015bik\u0101laghuv\u1e5bttivimar\u015bin\u012b \u2014 K\u1e5b\u1e63\u1e47ad\u0101sa",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_paratrisikatatparyadipika",
+    "title": "Par\u0101tr\u012b\u015bik\u0101t\u0101tparyad\u012bpik\u0101",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_anuttarasamvidarcanacarca",
+    "title": "Anuttarasa\u1e43vidarcan\u0101carc\u0101",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_pararcanakrama",
+    "title": "Par\u0101rcanakrama",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_parakramavasana",
+    "title": "Par\u0101kramav\u0101san\u0101",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_paramasivadvaitakalpalatika",
+    "title": "Parama\u015biv\u0101dvaitakalpalatik\u0101 \u2014 \u015a\u0101mbhav\u0101nanda",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_anandakalpavalli",
+    "title": "\u0100nandakalpavall\u012b \u2014 Mahe\u015bvaratej\u0101nanda",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_parapujaprayoga",
+    "title": "Par\u0101p\u016bj\u0101prayoga",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_maharthamulasamketasutra",
+    "title": "Mah\u0101rtham\u016blasa\u1e43ketas\u016btra \u2014 Para\u015bambhudeva",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_anuttaraprakasapancasika",
+    "title": "Anuttaraprak\u0101\u015bapa\u00f1c\u0101\u015bik\u0101 / Par\u0101pa\u00f1c\u0101\u015bik\u0101 \u2014 \u0100dyan\u0101tha",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_parapravesika",
+    "title": "Par\u0101pr\u0101ve\u015bik\u0101 / Svar\u016bpaprak\u0101\u015bik\u0101 \u2014 N\u0101g\u0101nanda",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_svarupavimarsini",
+    "title": "Svar\u016bpavimar\u015bin\u012b \u2014 Cid\u0101nanda",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_naganandasutravivarana",
+    "title": "N\u0101g\u0101nandas\u016btravivara\u1e47a \u2014 Heddase Harihara\u015barman",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_anuttarapaddhati",
+    "title": "Anuttarapaddhati",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_padyavahini",
+    "title": "Padyav\u0101hin\u012b \u2014 \u015aa\u1e45kara",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_saivakalpadruma",
+    "title": "\u015aaivakalpadruma \u2014 Lak\u1e63m\u012bdhara",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_sivavakyavali",
+    "title": "\u015aivav\u0101ky\u0101val\u012b \u2014 Ca\u1e47\u1e0de\u015bvara",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_saivamanasollasa",
+    "title": "\u015aaivam\u0101nasoll\u0101sa \u2014 Ca\u1e47\u1e0de\u015bvara",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_saivasarvasvasara",
+    "title": "\u015aaivasarvasvas\u0101ra \u2014 Vidy\u0101pati",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_kamikagama",
+    "title": "K\u0101mik\u0101gama",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_yogajagama",
+    "title": "Yogaj\u0101gama",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_cintyagama",
+    "title": "Cinty\u0101gama",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_ajitagama",
+    "title": "Ajit\u0101gama",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_diptagama",
+    "title": "D\u012bpt\u0101gama",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_suksmagama",
+    "title": "S\u016bk\u1e63m\u0101gama",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_amsumadagama",
+    "title": "A\u1e43\u015bumad / A\u1e43\u015bumadbhed\u0101gama",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_suprabhedagama",
+    "title": "Suprabhed\u0101gama",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_vijayagama",
+    "title": "Vijay\u0101gama",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_analagama",
+    "title": "Anal\u0101gama",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_viraagama",
+    "title": "V\u012br\u0101gama / V\u012brottara recension",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_vimalagama",
+    "title": "Vimal\u0101gama",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_bimbagama",
+    "title": "Bimb\u0101gama",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_prodigitagama",
+    "title": "Prodg\u012bt\u0101gama",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_lalitagama",
+    "title": "Lalit\u0101gama",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_siddhagama",
+    "title": "Siddh\u0101gama",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_santanagama",
+    "title": "Sant\u0101n\u0101gama",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_sarvoktagama",
+    "title": "Sarvokt\u0101gama",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_karanagama",
+    "title": "K\u0101ra\u1e47\u0101gama \u2014 untranslated remainder only",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_makutagama",
+    "title": "Maku\u1e6d\u0101gama \u2014 untranslated remainder only",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_candrajnanagama",
+    "title": "Candraj\u00f1\u0101n\u0101gama \u2014 untranslated remainder only",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_sarvajnanottara2",
+    "title": "Sarvaj\u00f1\u0101nottara \u2014 non-Yoga / non-translated portions",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_mrgendratantra2",
+    "title": "M\u1e5bgendratantra \u2014 portions without scholarly English",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_kiranatantra2",
+    "title": "Kira\u1e47atantra \u2014 root-text remainder",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_brhatkalottara2",
+    "title": "B\u1e5bhatk\u0101lottara \u2014 non-edited/non-translated sections",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_jnanassiddhyagama",
+    "title": "J\u00f1\u0101nasiddhy\u0101gama",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_cidambaresvaranityapujasutra",
+    "title": "Cidambare\u015bvaranityap\u016bj\u0101s\u016btra",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_citsabhesotsavasutra",
+    "title": "Citsabhe\u015botsavas\u016btra",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_pauskarabhasya",
+    "title": "Pau\u1e63karabh\u0101\u1e63ya \u2014 Um\u0101pati\u015biva",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_kriyasara",
+    "title": "Kriy\u0101s\u0101ra \u2014 N\u012blaka\u1e47\u1e6dha\u015biv\u0101c\u0101rya",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_anubhavasutra",
+    "title": "Anubhavas\u016btra \u2014 M\u0101yideva",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "pasupatasutra",
+    "title": "P\u0101\u015bupatas\u016btra",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_maritontadarya_siddhantashikhamani",
+    "title": "Marit\u014d\u1e47\u1e6dad\u0101rya's commentary on Siddh\u0101nta\u015bikh\u0101ma\u1e47i",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_lingadharanacandrika",
+    "title": "Li\u1e45gadh\u0101ra\u1e47acandrik\u0101 \u2014 Nandike\u015bvara",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_pancaratna",
+    "title": "Pa\u00f1caratna \u2014 V\u012bra\u1e47\u0101r\u0101dhya",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_pancaratna_commentary",
+    "title": "Pa\u00f1caratna commentary \u2014 Sosale Reva\u1e47\u0101r\u0101dhya",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_pramathaganapaddhati",
+    "title": "Pramathaga\u1e47apaddhati \u2014 Sosale Reva\u1e47\u0101r\u0101dhya",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_anadivirasaivacarasamgraha",
+    "title": "An\u0101div\u012bra\u015baiv\u0101c\u0101rasa\u1e43graha \u2014 Samp\u0101danasiddha-V\u012bra\u1e47a\u015bivayogin",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_virasaivacarasroddharabhasya",
+    "title": "V\u012bra\u015baiv\u0101c\u0101ras\u0101roddh\u0101rabh\u0101\u1e63ya \u2014 Soman\u0101tha",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_viramaheswaracarasamgraha",
+    "title": "V\u012bram\u0101he\u015bvar\u0101c\u0101rasa\u1e43graha \u2014 N\u012blaka\u1e47\u1e6dhaga\u1e47an\u0101tha",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_virasaivasiddhantottarakaumudi",
+    "title": "V\u012bra\u015baivasiddh\u0101ntottarakaumud\u012b \u2014 V\u012brabhadr\u0101r\u0101dhya",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_vivekacintamani",
+    "title": "Vivekacint\u0101ma\u1e47i \u2014 Li\u1e45gar\u0101ja",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_sivadvaitanirnaya",
+    "title": "\u015aiv\u0101dvaitanir\u1e47aya \u2014 Appayyad\u012bk\u1e63ita",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_vedantasarvasvasivadarpana",
+    "title": "Ved\u0101ntasarvasva\u015bivadarpa\u1e47a \u2014 Brahmavidy\u0101dhvar\u012bndra",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_sivarcanacandrika",
+    "title": "\u015aiv\u0101rcanacandrik\u0101 \u2014 Appayyad\u012bk\u1e63ita",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_saivagamaparibhasamanjari",
+    "title": "\u015aaiv\u0101gamaparibh\u0101\u1e63\u0101ma\u00f1jar\u012b \u2014 Nigamaj\u00f1\u0101na II",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_atmarthapujapaddhati",
+    "title": "\u0100tm\u0101rthap\u016bj\u0101paddhati \u2014 Nigamaj\u00f1\u0101na II",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_diksadarsa",
+    "title": "D\u012bk\u1e63\u0101dar\u015ba \u2014 Nigamaj\u00f1\u0101na II",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_asaucadipika",
+    "title": "\u0100\u015baucad\u012bpik\u0101 \u2014 Nigamaj\u00f1\u0101na II",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_sivanityapujapaddhati",
+    "title": "\u015aivanityap\u016bj\u0101paddhati",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivaqueue2_sivatandavatantratika",
+    "title": "\u015aivat\u0101\u1e47\u1e0davatantra\u1e6d\u012bk\u0101",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "bhagavadgita_sarvatobhadra",
+    "title": "Bhagavadg\u012bt\u0101-Sarvatobhadra \u2014 R\u0101maka\u1e47\u1e6dha",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "bhavopahara",
+    "title": "Bh\u0101vopah\u0101ra \u2014 Cakrap\u0101\u1e47in\u0101tha + Ramyadeva commentary",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "dvisatikalottara",
+    "title": "Dvi\u015batik\u0101lottara",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "ganakarika",
+    "title": "Ga\u1e47ak\u0101rik\u0101",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "isanasivagurudevapaddhati",
+    "title": "\u012a\u015b\u0101na\u015bivagurudevapaddhati \u2014 \u015aaiva sections",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "janmamaranavicara",
+    "title": "Janmamara\u1e47avic\u0101ra \u2014 Bha\u1e6d\u1e6da V\u0101madeva",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "jnanaratnavali",
+    "title": "J\u00f1\u0101naratn\u0101val\u012b \u2014 J\u00f1\u0101na\u015biva",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "kalikapurana",
+    "title": "K\u0101lik\u0101pur\u0101\u1e47a \u2014 critically untranslated portions",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "kriyakramadyotika",
+    "title": "Kriy\u0101kramadyotik\u0101 \u2014 Aghora\u015biva",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "makutottara",
+    "title": "Maku\u1e6dottara",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "mohacudottara",
+    "title": "Mohac\u016b\u1e0dottara \u2014 outside temple-design section",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "moksakarika",
+    "title": "Mok\u1e63ak\u0101rik\u0101 \u2014 Sadyojyotis, untranslated/commentarial portions",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "mrgendratantra",
+    "title": "M\u1e5bgendratantra \u2014 complete modern English",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "nadakarika",
+    "title": "N\u0101dak\u0101rik\u0101 + commentary",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "netratantroddyota",
+    "title": "Netratantroddyota \u2014 K\u1e63emar\u0101ja, untranslated bulk",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "pancarthabhasya_kaundinya",
+    "title": "Pa\u00f1c\u0101rthabh\u0101\u1e63ya \u2014 Kau\u1e47\u1e0dinya",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "pauskaraparamesvara",
+    "title": "Pau\u1e63karap\u0101rame\u015bvara / Pau\u1e63kara",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "pingalamata",
+    "title": "Pi\u1e45gal\u0101mata \u2014 outside translated architectural portions",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "pratisthalaksanasarasamuccaya",
+    "title": "Prati\u1e63\u1e6dh\u0101lak\u1e63a\u1e47as\u0101rasamuccaya",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "prayascittasamuccaya_hridayasiva",
+    "title": "Pr\u0101ya\u015bcittasamuccaya \u2014 H\u1e5bdaya\u015biva",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "ratnatrayapariksa_srikantha",
+    "title": "Ratnatrayapar\u012bk\u1e63\u0101 \u2014 \u015ar\u012bka\u1e47\u1e6dha, untranslated remainder",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "satsahasrakalottara",
+    "title": "\u1e62a\u1e6dsahasrak\u0101lottara",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "siddhantadipika_ramanatha",
+    "title": "Siddh\u0101ntad\u012bpik\u0101 \u2014 R\u0101man\u0101tha",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "siddhantasarapaddhati",
+    "title": "Siddh\u0101ntas\u0101rapaddhati \u2014 Bhojadeva",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "siddhantasaravali",
+    "title": "Siddh\u0101ntas\u0101r\u0101val\u012b \u2014 Trilocana\u015biva + Ananta\u015biva commentary",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivadharmasastra",
+    "title": "\u015aivadharma\u015b\u0101stra \u2014 untranslated remainder",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivadharmottara",
+    "title": "\u015aivadharmottara",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "spandapradipika",
+    "title": "Spandaprad\u012bpik\u0101 \u2014 Bhagavadutpala",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "suksmasvayambhuva",
+    "title": "S\u016bk\u1e63masv\u0101yambhuva",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "svacchandodyota",
+    "title": "Svacchandodyota \u2014 K\u1e63emar\u0101ja, untranslated bulk",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "tattvaprakasa_bhojadeva",
+    "title": "Tattvaprak\u0101\u015ba \u2014 Bhojadeva",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "tattvasamgraha_sadyojyotis",
+    "title": "Tattvasa\u1e43graha \u2014 Sadyojyotis + Aghora\u015biva commentary",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "tattvatrayanirnaya",
+    "title": "Tattvatrayanir\u1e47aya \u2014 Aghora\u015biva commentary",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "vatulanathasutra",
+    "title": "V\u0101t\u016blan\u0101thas\u016btra + Ananta\u015baktip\u0101davivara\u1e47a",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "vimalavati",
+    "title": "Vimal\u0101vat\u012b \u2014 Vimala\u015biva",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "maitrayanisamhita",
+    "title": "Maitr\u0101ya\u1e47\u012b Sa\u1e43hit\u0101 (K\u1e5b\u1e63\u1e47a Yajurveda)",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "kathakasamhita",
+    "title": "K\u0101\u1e6dhaka Sa\u1e43hit\u0101 (K\u1e5b\u1e63\u1e47a Yajurveda)",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "kapisthalakathasamhita",
+    "title": "Kapi\u1e63\u1e6dhala-Ka\u1e6dha Sa\u1e43hit\u0101 (K\u1e5b\u1e63\u1e47a Yajurveda)",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "taittiriyabrahmana",
+    "title": "Taittir\u012bya Br\u0101hma\u1e47a (K\u1e5b\u1e63\u1e47a Yajurveda)",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "kausitakibrahmana",
+    "title": "Kau\u1e63\u012btaki / \u015a\u0101\u1e45kh\u0101yana Br\u0101hma\u1e47a (\u1e5agveda)",
+    "verified": false,
+    "translation_status": "complete",
+    "traditions": []
+   },
+   {
+    "id": "gopathabrahmana",
+    "title": "Gopatha Br\u0101hma\u1e47a (Atharvaveda)",
+    "verified": false,
+    "translation_status": "complete",
+    "traditions": []
+   },
+   {
+    "id": "pancavimsabrahmana",
+    "title": "Pa\u00f1cavi\u1e43\u015ba / T\u0101\u1e47\u1e0dya Mah\u0101br\u0101hma\u1e47a (S\u0101maveda)",
+    "verified": false,
+    "translation_status": "complete",
+    "traditions": []
+   },
+   {
+    "id": "jaiminiyabrahmana",
+    "title": "Jaimin\u012bya Br\u0101hma\u1e47a (S\u0101maveda)",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "jaiminiyaupanisadbrahmana",
+    "title": "Jaimin\u012bya-Upani\u1e63ad-Br\u0101hma\u1e47a (S\u0101maveda)",
+    "verified": false,
+    "translation_status": "complete",
+    "traditions": []
+   },
+   {
+    "id": "sankhayanaaranyaka",
+    "title": "\u015a\u0101\u1e45kh\u0101yana \u0100ra\u1e47yaka (\u1e5agveda)",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "aitareyaaranyaka",
+    "title": "Aitareya \u0100ra\u1e47yaka (\u1e5agveda)",
+    "verified": false,
+    "translation_status": "complete",
+    "traditions": []
+   },
+   {
+    "id": "maitriupanisad",
+    "title": "Maitr\u012b / Maitr\u0101ya\u1e47\u012bya Upani\u1e63ad",
+    "verified": false,
+    "translation_status": "complete",
+    "traditions": []
+   },
+   {
+    "id": "kathaupanisad",
+    "title": "Ka\u1e6dha Upani\u1e63ad",
+    "verified": false,
+    "translation_status": "complete",
+    "traditions": []
+   },
+   {
+    "id": "mahanarayanaupanisad",
+    "title": "Mah\u0101n\u0101r\u0101ya\u1e47a Upani\u1e63ad",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "atharvasiraupanisad",
+    "title": "Atharva\u015biras / Atharva\u015bira Upani\u1e63ad",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "kaivalyaupanisad",
+    "title": "Kaivalya Upani\u1e63ad",
+    "verified": false,
+    "translation_status": "complete",
+    "traditions": []
+   },
+   {
+    "id": "sivaupanisad",
+    "title": "\u015aiva Upani\u1e63ad",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "svetasvataraupanisad",
+    "title": "\u015avet\u0101\u015bvatara Upani\u1e63ad",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "mahabharata",
+    "title": "Mah\u0101bh\u0101rata (\u015aiva strata)",
+    "verified": false,
+    "translation_status": "complete",
+    "traditions": []
+   },
+   {
+    "id": "vayupurana",
+    "title": "V\u0101yu Pur\u0101\u1e47a",
+    "verified": false,
+    "translation_status": "complete",
+    "traditions": []
+   },
+   {
+    "id": "lingapurana",
+    "title": "Li\u1e45ga Pur\u0101\u1e47a",
+    "verified": false,
+    "translation_status": "complete",
+    "traditions": []
+   },
+   {
+    "id": "kurmapurana",
+    "title": "K\u016brma Pur\u0101\u1e47a",
+    "verified": false,
+    "translation_status": "complete",
+    "traditions": []
+   },
+   {
+    "id": "skandapurana",
+    "title": "Early Skandapur\u0101\u1e47a",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "sivadharma",
+    "title": "\u015aivadharma\u015b\u0101stra",
+    "verified": false,
+    "translation_status": "partial",
+    "traditions": []
+   },
+   {
+    "id": "nisvasatattvasamhita",
+    "title": "Ni\u015bv\u0101satattvasa\u1e43hit\u0101 (M\u016blas\u016btra, Uttaras\u016btra, Nayas\u016btra)",
+    "verified": false,
+    "translation_status": "partial",
+    "traditions": []
+   },
+   {
+    "id": "nisvasamukhatattvasamhita",
+    "title": "Ni\u015bv\u0101samukhatattvasa\u1e43hit\u0101",
+    "verified": false,
+    "translation_status": "partial",
+    "traditions": []
+   },
+   {
+    "id": "atharvavedasaunaka",
+    "title": "Atharvaveda (\u015aaunaka recension)",
+    "verified": false,
+    "translation_status": "complete",
+    "traditions": []
+   },
+   {
+    "id": "atharvavedapaippalada",
+    "title": "Atharvaveda (Paippal\u0101da recension)",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "satapathabrahmana",
+    "title": "\u015aatapatha Br\u0101hma\u1e47a",
+    "verified": false,
+    "translation_status": "complete",
+    "traditions": []
+   },
+   {
+    "id": "satarudriya",
+    "title": "\u015aatarudr\u012bya / \u015ar\u012b Rudram",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "matangaparamesvara",
+    "title": "Mata\u1e45gap\u0101rame\u015bvara",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "ramakantha_matangavrtti",
+    "title": "R\u0101maka\u1e47\u1e6dha's Mata\u1e45gav\u1e5btti (untranslated sections)",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "naresvarapariksa",
+    "title": "Nare\u015bvarapar\u012bk\u1e63\u0101 \u2014 Sadyojyotis + R\u0101maka\u1e47\u1e6dha's Prak\u0101\u015ba",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "siddhantasara",
+    "title": "Siddh\u0101ntas\u0101ra",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "aghorasiva_ashtaprakarana_corpus",
+    "title": "Aghora\u015biva's doctrinal commentarial corpus (A\u1e63\u1e6daprakara\u1e47a)",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "aghorasiva_tattvaprakasika",
+    "title": "Aghora\u015biva's Tattvaprak\u0101\u015bik\u0101",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "aghorasiva_tattvasamgrahalaghutika",
+    "title": "Aghora\u015biva's Tattvasa\u1e43grahalaghu\u1e6d\u012bk\u0101",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "ratnatrayapariksa_vyakhya",
+    "title": "Anonymous Ratnatrayapar\u012bk\u1e63\u0101-vy\u0101khy\u0101",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "aghorasivas_ullekhini_on_ratnatraya",
+    "title": "Aghora\u015biva's Ullekhin\u012b on the Ratnatraya",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "anonymous_ratnatrayapariksavyakhya",
+    "title": "Anonymous Ratnatrayapar\u012bk\u1e63\u0101-vy\u0101khy\u0101 (variant)",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "mukuta_makutagama",
+    "title": "Muku\u1e6da / Maku\u1e6d\u0101gama (early recension)",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "devikalottaragama",
+    "title": "Dev\u012bk\u0101lottar\u0101gama",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "matrkabhedatantra",
+    "title": "M\u0101t\u1e5bk\u0101bhedatantra",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "visvaksenasamhita",
+    "title": "Vi\u1e63vaksenasa\u1e43hit\u0101",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "siraupanisad",
+    "title": "\u015aira Upani\u1e63ad (= Atharva\u015bira)",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "pratisThakriyadipika",
+    "title": "Prati\u1e63\u1e6dh\u0101kriy\u0101d\u012bpik\u0101",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "pratisThalaksanasara",
+    "title": "Prati\u1e63\u1e6dh\u0101lak\u1e63a\u1e47as\u0101ra",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "pratisThaparamesvara",
+    "title": "Prati\u1e63\u1e6dh\u0101parame\u015bvara",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   },
+   {
+    "id": "ramakantha_moksakarikavrtti",
+    "title": "R\u0101maka\u1e47\u1e6dha's Mok\u1e63ak\u0101rik\u0101v\u1e5btti",
+    "verified": false,
+    "translation_status": "none",
+    "traditions": []
+   }
+  ]
+ },
+ "passages": {
+  "count": 49,
+  "passages": [
+   {
+    "id": "pt:passage:ipvv:chunkA-svatyandya.md",
+    "locator": "chunkA-svatyandya.md",
+    "reading": "**The spontaneity of the Lord: the self-aware light**\n\nThis is where the whole \u012a\u015bvarapratyabhij\u00f1\u0101viv\u1e5btivimar\u015bin\u012b begins \u2014 with the spontaneity, the\nsv\u0101cchandya, of the Lord. And the doctrine is announced in its fullness from the first lines. The blue\nand the yellow and the jar are not things that a light shines upon from outside; they shine forth\n*as* the light, without abandoning their own being,",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkB-eligibility-gita.md",
+    "locator": "chunkB-eligibility-gita.md",
+    "reading": "**The homage that is two-resting, and who is worthy to make it**\n\nThe work opens with a prostration \u2014 and Abhinavagupta takes care to say what that prostration is. It\nis not a bending of the body, nor an empty sound. It is a *two-resting* homage: it rests at once in the\nLord, whom it exalts, and in the devotee, whom it subordinates. The words of homage \u2014 \"jaya,\" \"victory,\"\n\"nama\u1e25,\" \"I bow,\" \"I wor",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkC-svatma-maya-upanishad.md",
+    "locator": "chunkC-svatma-maya-upanishad.md",
+    "reading": "**The own-self: the one consciousness, whose body is the world**\n\nThe k\u0101rik\u0101 says that the own-self alone is the Lord. But what is this \"own-self\"? Does it reach the\nwhole world \u2014 the inert things, the void, everything? The objector presses hard on this. If the\nmahe\u015bvara is the self of the blue, then he must be the self of the yellow too; and then how can the\nworld be divided \u2014 \"this is the blue, ",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkD-memory-pramana.md",
+    "locator": "chunkD-memory-pramana.md",
+    "reading": "**The eternal knower: \"I was never not\"**\n\nMemory seems to bind the self to the past \u2014 to what the self has itself experienced. But then the\nobjection arises, and it is a sharp one. \"I was not at the time of the R\u0101m\u0101ya\u1e47a,\" the reader says.\n\"V\u0101lm\u012bki composed it long ago, and I was not there to experience it; so how can the self, which\nremembers only what it has experienced, be the eternal knower?\"\n",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkE-cit-acid-dvairasya.md",
+    "locator": "chunkE-cit-acid-dvairasya.md",
+    "reading": "**The self is the Lord: what the recognition does**\n\nThe k\u0101rik\u0101 declares that the self alone is the Lord. And at once a sharp objection arises. A valid\nmeans of knowledge, it is said, establishes what was *not* established before \u2014 it serves the practical\ndealings of the world. But the Lord-self, on our own showing, is already established. So what could a\npram\u0101\u1e47a possibly do here? What is there le",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkF-upoddhata-k1-7.md",
+    "locator": "chunkF-upoddhata-k1-7.md",
+    "reading": "**The self is the Lord: against the Buddhist no-self**\n\nThe upoddh\u0101ta, the preliminary of the whole work, must first clear the ground \u2014 by showing who denies\nthe self's lordship and why their denial fails. Not everyone is a real opponent. The materialist, the\nC\u0101rv\u0101ka, cannot even argue: having no means of proof of their own, they cannot refute the other side\nwithout first adopting the very convent",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkG-k1.2.7-1.8-citsvarupam.md",
+    "locator": "chunkG-k1.2.7-1.8-citsvarupam.md",
+    "reading": "**The cognition cannot be a thing: the dilemma of the consciousness-form**\n\nThe Buddhist had denied the self. But he had also, in a different mood, offered a reason for the\nself's lordship \u2014 \"by the union of knowledge and action.\" To stop even this, Abhinavagupta turns the\nsame logic against the cognition itself. Whatever the opponent says cognition is, it cannot stand.\nAnd he forces the choice wi",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkH-k1.8-caitanyamajada-pratibimba.md",
+    "locator": "chunkH-k1.8-caitanyamajada-pratibimba.md",
+    "reading": "**Enjoyment is the meeting of two reflections**\n\nWhat is it to enjoy \u2014 to experience an object? The schools have their answers: the S\u0101\u1e43khya makes the\ncognition a transformation of matter; the Vai\u015be\u1e63ika makes it a quality of the self joined to the object\nby a mysterious relation called inherence (samav\u0101ya). Abhinavagupta cuts through all of this with a\nsingle image: enjoyment is the *union of two r",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkI-k1.9-1.10-kriya-karyakarana.md",
+    "locator": "chunkI-k1.9-1.10-kriya-karyakarana.md",
+    "reading": "**Action is the ordered operation, not a thing that moves**\n\nThe opponent had offered the self's lordship as the union of knowledge and action. We have seen that\nknowledge cannot be a separate thing in his view. Now Abhinavagupta shows that *action* cannot be a\nseparate thing either. K\u0101rik\u0101 9 makes the point: the action of a body is just the coming-to-be of this\nor that place; it is not some hidde",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkJ-k1.11-kartapi-kalpita.md",
+    "locator": "chunkJ-k1.11-kartapi-kalpita.md",
+    "reading": "**\"Thence the agent too is constructed\"**\n\nThe Buddhist's attack has been relentless. He has denied the self, denied the cognition, denied the\naction. Now he completes it. For what holds all these together \u2014 the *relation* between the knower and\nthe known, between the agent and the act \u2014 is itself impossible; and once the relation is gone, \"thence\nthe agent too is constructed.\" The agent, like eve",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkK-purvapaksa-siddhanta.md",
+    "locator": "chunkK-purvapaksa-siddhanta.md",
+    "reading": "**The reply: the cognition is self-cognition**\n\nThe Buddhist's attack has run its course \u2014 the self, the cognition, the action, the relation all\ndenied, and \"thence the agent too is constructed.\" Now, in the third vimar\u015ba, the established doctrine\nreplies. And Abhinavagupta's first move is a shrewd concession. \"It is true,\" he begins \u2014 and this is\nthe characteristic gesture of the reflective think",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkL-memory-error-sankaranandana.md",
+    "locator": "chunkL-memory-error-sankaranandana.md",
+    "reading": "**The self-luminous seeing: how the yogin knows another's mind**\n\nWe have said the cognition is self-cognition, and the self is self-luminous. But this seems to close\nthe door on a striking fact \u2014 the yogin's knowledge of another's mind. If the self is not an object,\nhow can the yogin perceive another's cognition with perfect clarity? And if the cognition is\nself-luminous only in its own stream, c",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkM-jnanadhikara-reflexion-core.md",
+    "locator": "chunkM-jnanadhikara-reflexion-core.md",
+    "reading": "**The determination cannot reach outside**\n\nThe Buddhist, having lost the self, the cognition, the action, and the relation, falls back on one\nlast notion: the *determination* (adhyavas\u0101ya) \u2014 the act by which, he thinks, the cognition is taken\nto establish an external thing. Abhinavagupta now cuts this last thread. The determination, he shows,\ncannot establish anything outside.\n\nConsider how the \"",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkN-close-mahesvara-saktis.md",
+    "locator": "chunkN-close-mahesvara-saktis.md",
+    "reading": "**The one who is the whole world: the close of the first volume**\n\nThe cognitions, we have seen, are self-luminous and one with the \"I.\" But how, the question arises, do\nthey not take the form of the \"I\" when they appear as the objects \u2014 the blue, the yellow, the jar? The\nanswer is that their seeming excess over the \"I\" \u2014 their non-pervasion, their non-eternity, their being\ncaught in the place and",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkV2-A-caturtho-vimarsa-aham.md",
+    "locator": "chunkV2-A-caturtho-vimarsa-aham.md",
+    "reading": "**Memory as the Lord's power: how the \"I\" holds time together**\n\nThe j\u00f1\u0101n\u0101dhik\u0101ra has established knowledge; now it takes up memory. And here Abhinavagupta makes a\nstartling claim. The ordinary view \u2014 the view of the schools \u2014 is that memory is only the revival of an\nimpression after the experience is gone. When the experience is destroyed, a mere trace remains, and\nmemory is the stirring of that ",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkV2-B-sahajavimarsa-prakasavimarsa.md",
+    "locator": "chunkV2-B-sahajavimarsa-prakasavimarsa.md",
+    "reading": "**The self-luminous cognition: how memory reaches the past, and the yogin reaches the other**\n\nTwo puzzles press on the account of memory. The first is the pastness of the past. We remember what\nhappened yesterday \u2014 but how, if the manifestation of consciousness has no touch of time at all? The\nanswer is that the pastness is not a real quality of the object; it is the *being-previously-manifested*",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkV2-C-vistanti-ajadapramatrsiddhi.md",
+    "locator": "chunkV2-C-vistanti-ajadapramatrsiddhi.md",
+    "reading": "**The self-luminous cognition is never the object of another**\n\nWe have seen that the yogin, by the purity and the un-opposed spreading of his cognition, knows\nanother's cognition. But this draws a sharp objection from the epistemologist. \"Even granting that,\" he\nsays, \"a cognition can never be the *object* of another cognition. For how can one awareness be known\nby a second? The two would have to",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkV2-D-pancamo-vimarsa-jnanasakti.md",
+    "locator": "chunkV2-D-pancamo-vimarsa-jnanasakti.md",
+    "reading": "**The knowledge-power: manifestation as the very form of things**\n\nWe have examined memory and the construction. But both presuppose something deeper \u2014 the\nknowledge-power (j\u00f1\u0101na\u015bakti), the capacity by which anything at all is known. And here Abhinavagupta\nmakes the central claim of this vimar\u015ba: **the manifestation is the very form of the objects.** The\nthings of the world are not hidden realitie",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkV2-E-pancamo-jnanasakti-k5.md",
+    "locator": "chunkV2-E-pancamo-jnanasakti-k5.md",
+    "reading": "**How the external object is inferred and confirmed**\n\nThe Vij\u00f1\u0101nav\u0101din grants that the cognition is self-luminous, but he presses on its inner form. \"The\ncognition's blue-form,\" he says, \"is a reflection (pratibimba); and a reflection demands a ground that\nproduces it (the arpaka). So the external object is inferred.\" But then the classic objection follows:\nhow can you infer an external object th",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkV2-F-pancamo-vimarsa-k6.md",
+    "locator": "chunkV2-F-pancamo-vimarsa-k6.md",
+    "reading": "**You cannot infer another's mind \u2014 and you do not need the external object**\n\nThe Buddhist hopes to escape by inferring *another's* mind. He thinks: from Maitra's speech, from his\nuttered words and gestures, one can infer what is going on in his mind \u2014 the other stream. Abhinavagupta\nshows this inference cannot work, and he does it with a precise analogy.\n\nSuppose you want to infer the fire *in t",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkV2-G-pancamo-vimarsa-k7-10.md",
+    "locator": "chunkV2-G-pancamo-vimarsa-k7-10.md",
+    "reading": "**The Lord creates from within, like a yogin**\n\nThe external object has been demolished. The whole (avayavin) cannot stand: a jar has shadow on one\nside and sun on the other, its middle covered and its sides uncovered \u2014 so the one whole that was to\nbear all these contradictory states is impossible. And the atom (param\u0101\u1e47u) fares no better: the middle\natom, being part-less, cannot have two sides, on",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkV2-H-pancamo-vimarsa-k11-13.md",
+    "locator": "chunkV2-H-pancamo-vimarsa-k11-13.md",
+    "reading": "**The light that knows itself: the heart of the doctrine**\n\nHere, in the deepest part of the vimar\u015ba on the knowledge-power, Abhinavagupta states the heart of the\nwhole teaching. The manifestation (prak\u0101\u015ba) is not a passive, inert light. Its very nature is the\n*reflexive-awareness* (vimar\u015ba) \u2014 the light's own grasp of itself. Without the vimar\u015ba, the\nmanifestation would be like crystal: it would s",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkV2-I-pancamo-vimarsa-k14-19.md",
+    "locator": "chunkV2-I-pancamo-vimarsa-k14-19.md",
+    "reading": "**The powers of the Lord are his reflexive-awareness**\n\nThe reflexive-awareness is the heart of the doctrine. Now Abhinavagupta must show what this means for\nthe powers \u2014 and, first, what it does *not* mean. The grammarian would make speech, the pa\u015byant\u012b, a\nseparate supreme principle. But speech and the mind, Abhinavagupta insists, are only the operation of\nthe ego \u2014 like the hand. They are not th",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkV2-J-pancamo-vimarsa-k19-20.md",
+    "locator": "chunkV2-J-pancamo-vimarsa-k19-20.md",
+    "reading": "**Memory's seed and the \"this jar\" are the reflexive-awareness**\n\nThe reflexive-awareness is the source of the powers. Now Abhinavagupta shows that even the *impression*\n\u2014 the seed of memory \u2014 is nothing without it. How does a memory get laid down, and how does it awaken?\nThe schools would say: the experience lays a trace, and the later seeing of something like it awakens\nthe trace. But Abhinavagu",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkV2-K-pancamo-vimarsa-k20-21.md",
+    "locator": "chunkV2-K-pancamo-vimarsa-k20-21.md",
+    "reading": "**The word is self-luminous, and the order is only in the objects**\n\nWe have said that the reflexive-awareness is the very nature of the manifestation. Now the vimar\u015ba on\nthe knowledge-power closes by drawing out two consequences \u2014 one about words, one about order.\n\nFirst, the word. When we say \"this jar,\" the \"this\" seems to be a thing that the word \"jar\" is pasted\nonto. But Abhinavagupta shows t",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkV2-L-sastho-vimarsa-smrti-apohana.md",
+    "locator": "chunkV2-L-sastho-vimarsa-smrti-apohana.md",
+    "reading": "**The \"I\" is not a construction**\n\nWe have established knowledge and memory. Now Abhinavagupta takes up the third power \u2014 the apohana, the\nremoval \u2014 that serves both. And at its heart lies a question that threatens the whole doctrine. The\nreflexive-awareness, we have said, is the manifestation's own nature. But the reflexive-awareness is\nword-joined; and the word-joined, it might seem, is a constr",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkV2-M-sastho-vimarsa-k6-7.md",
+    "locator": "chunkV2-M-sastho-vimarsa-k6-7.md",
+    "reading": "**The Lord descends through the states, and deals with the world**\n\nThe consciousness does not remain aloof. It descends, step by step, into the forms of the world \u2014 and\nthis descent is the story of the bound knower. Abhinavagupta traces it through the states. The\nconsciousness, entering the known-form, takes up the void, the breath, the intellect, the body, in\norder. Even space, the most permissi",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkV2-N-sastho-k8-11.md",
+    "locator": "chunkV2-N-sastho-k8-11.md",
+    "reading": "**The inner appearance stands firm \u2014 for every living one**\n\nThe \u1e63a\u1e63\u1e6dho vimar\u015ba, on the power of removal, comes to its close; and its final claim is one of\nunfailing constancy. The inner appearance \u2014 the self-grasp, the reflexive-awareness \u2014 stands firm in\nmemory, in construction, and in cognition alike (k\u0101rik\u0101 8). It is not something that flickers in and\nout, present in cognition and absent in me",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkV2-O-saptamo-vimarsa.md",
+    "locator": "chunkV2-O-saptamo-vimarsa.md",
+    "reading": "**The one support of all the powers**\n\nThe powers \u2014 knowledge, memory, removal \u2014 have been established. But a power does not float free; it\nneeds a support (\u0101\u015braya). And the question now is: what supports the powers? The ordinary answer would\nmake the support inert, like the fire's relation to its powers of burning, cooking, and sweating. But\nAbhinavagupta insists this is wrong. The support of the",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkV2-P-saptamo-k5-10.md",
+    "locator": "chunkV2-P-saptamo-k5-10.md",
+    "reading": "**The valid means is the knower's own operation**\n\nThe saptamo vimar\u015ba is establishing the one support of the powers. And its deepest point is that the\nvalid means (pram\u0101\u1e47a) is not a separate instrument standing over against the knower. It is the\nknower's own operation (pram\u0101t\u1e5b-vy\u0101p\u0101ra) \u2014 the act by which the many cognitions are gathered into the\none knower. The five objects of perception and non-",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkV2-Q-saptamo-k11-close.md",
+    "locator": "chunkV2-Q-saptamo-k11-close.md",
+    "reading": "**The omniscient knows all \u2014 and his non-perception establishes**\n\nThe saptamo vimar\u015ba, on the one support of the powers, closes with the figure of the omniscient \u2014 the\nsupreme knower who is the support. And the question that tests him is the goblin, the pi\u015b\u0101ca. Suppose\nthere is a pi\u015b\u0101ca in the dark interval. We do not see it; but the atoms of form and the rest are there,\nunseen by us, seen by the",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkV2-R-astamo-vimarsa.md",
+    "locator": "chunkV2-R-astamo-vimarsa.md",
+    "reading": "**The great-Lordship: the freedom in the appearance-group**\n\nThe knower, with his powers of knowledge, memory, and removal, the inner-made-infinite-world-form, has\nbeen established. Now Abhinavagupta asks what makes him *mahe\u015bvara*, the great Lord. The great-Lordship\n(m\u0101he\u015bvarya) is twofold: it is directed at objects of knowledge and at objects of action. Here, in the\nj\u00f1\u0101n\u0101dhik\u0101ra, the knowledge-d",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkV2-S-astamo-close-jnanadhikara.md",
+    "locator": "chunkV2-S-astamo-close-jnanadhikara.md",
+    "reading": "**The knowers are one, and the one is the Lord**\n\nThe j\u00f1\u0101n\u0101dhik\u0101ra \u2014 the whole first adhik\u0101ra of the \u012a\u015bvarapratyabhij\u00f1\u0101viv\u1e5btivimar\u015bin\u012b \u2014 comes to its\nclose. And it closes, fittingly, on the unity. It was said at the start that the one is the mahe\u015bvara;\nnow the unity is established. K\u0101rik\u0101 10: without that unity, the world-path of the consciousnesses\nwould not be; from the manifestation-unity, that",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkV3-A-kriya-prathamo-k1-2.md",
+    "locator": "chunkV3-A-kriya-prathamo-k1-2.md",
+    "reading": "**Action, time and sequence: the timeless that manifests order**\n\nHaving established the nature of the power of knowledge, Abhinavagupta now turns to the power of\n*action*. The two must run in parallel: if consciousness's power to know the world has been shown,\nthen its power to *effect* the world must be shown too. And here he must confront a paradox that sits\nat the very heart of his system. The",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkV3-B-kriya-dvitiyo-k1-7.md",
+    "locator": "chunkV3-B-kriya-dvitiyo-k1-7.md",
+    "reading": "# V3-B \u2014 the second reflexive-awareness: distinction-and-non-distinction",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkV3-C-kriya-trtiyo-k1-2.md",
+    "locator": "chunkV3-C-kriya-trtiyo-k1-2.md",
+    "reading": "**The valid means: what establishes, and what it produces**\n\nAbhinavagupta now turns to the heart of the relation between the known and the knower: the valid\nmeans of cognition (pram\u0101\u1e47a). Everything in the world is established through a pram\u0101\u1e47a \u2014 nothing is\nknown without one \u2014 so before anything else we must determine what a pram\u0101\u1e47a is and what it yields.\n\nIn the world's ordinary usage, the answer",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkV3-D-kriya-trtiyo-k3-8.md",
+    "locator": "chunkV3-D-kriya-trtiyo-k3-8.md",
+    "reading": "**How many appearances make one thing**\n\nAbhinavagupta had concluded that the valid means operates *on the appearance alone*. But this raises\na pressing problem. The world treats things as *one* \u2014 the jar, the fire, the gold. If the means seizes\nonly an appearance, how can it ever reach the single thing those appearances belong to? And how can\nmany, ever-shifting appearances all belong to one and ",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkV3-E-kriya-trtiyo-k9-17.md",
+    "locator": "chunkV3-E-kriya-trtiyo-k9-17.md",
+    "reading": "**The primacy of the knower: error, difference, and the ground of all cognition**\n\nWe have established that the valid means operates on the appearance. But this opens the deepest\nproblem of all. If the means seizes only appearances, how do we ever tell the *true* from the *false*\n\u2014 the real jar from the illusory double-moon, or the shell from the silver it is mistaken for? And if\nthe synthesizing ",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkV3-F-kriya-trtiyo-close.md",
+    "locator": "chunkV3-F-kriya-trtiyo-close.md",
+    "reading": "**Grace, initiation, and the one liberated while living**\n\nAll that has been established \u2014 the valid means, its fruit, the primacy of the knower \u2014 now comes to\nits practical point. How does one actually attain the Lord? The whole vimar\u015ba closes with the answer:\nby the Lord's grace, working through a fourfold effort, and culminating in the one liberated while\nstill living.\n\nThere is a supreme work ",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkV3-G-kriya-caturtho-k1-11.md",
+    "locator": "chunkV3-G-kriya-caturtho-k1-11.md",
+    "reading": "**Causality is the conscious knower's agency**\n\nIn the previous vimar\u015ba the relation between the known and the knower was shown to be the very\nexpansion of the action-power. Now Abhinavagupta turns to the other great relation: cause and effect.\nAnd he announces his thesis without hesitation: **the essence of cause and effect is nothing but the\nrelation of agent and object of action.** Causality, i",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkV3-H-kriya-caturtho-k12-19.md",
+    "locator": "chunkV3-H-kriya-caturtho-k12-19.md",
+    "reading": "**Inference across knowers, and the mirror of consciousness**\n\nWe have said that causality is the conscious knower's agency. But this draws a sharp objection from\nthe Buddhist idealist, the Vij\u00f1\u0101nav\u0101din. \"If everything is appearance,\" he says, \"then cause and\neffect are only relations *between appearances*. An un-manifested fire is nothing at all. So how can\nthe smoke-appearance arise from it? And",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkV3-I-kriya-caturtho-close-k20-21.md",
+    "locator": "chunkV3-I-kriya-caturtho-close-k20-21.md",
+    "reading": "**The will as cause, agent, and action**\n\nThe whole vimar\u015ba has argued that causality is the conscious knower's agency. Now comes the sharpest\nobjection of all, and it threatens to undo everything. If consciousness is *one* \u2014 if all the world is\na single consciousness and the difference of things is only ignorance \u2014 then how is action possible at\nall? For action needs an agent and an object, two d",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkV3-J-agama-prathamo-k1-7.md",
+    "locator": "chunkV3-J-agama-prathamo-k1-7.md",
+    "reading": "**The teaching as the measure: the categories from the Lord's word**\n\nThe action-power, we have seen, has as its very form the un-clouded manifestation of all the\ncategories of the world. But this raises the question the kriy\u0101dhik\u0101ra could not answer: *what* are\nthese categories, these tattvas? Our perception is not an omniscient eye; our inference lacks the\npervasion that would reach every thing.",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkV3-K-agama-prathamo-k8-11-close.md",
+    "locator": "chunkV3-K-agama-prathamo-k8-11-close.md",
+    "reading": "**The coverings and the categories of the known**\n\nDescending from the pure realm, we come to the world of the bound knower. Here the pure self is not\nseen as it is; it is covered by a set of limiting sheaths \u2014 the *ka\u00f1cukas*, literally the \"armours\" or\n\"coverings.\" These are niyati (fixity), k\u0101la (time), r\u0101ga (attachment), vidy\u0101 (the limited knowledge),\nand kal\u0101 (the limited agency). In the bound",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkV3-L-agama-dvitiyo-k1-11.md",
+    "locator": "chunkV3-L-agama-dvitiyo-k1-11.md",
+    "reading": "**The knowers and the stains that bind**\n\nWe have set out the categories of the known \u2014 the world that is known. But the heart of this whole\nteaching is the recognition of the Lord in the self; and to recognize him we must understand the\n*knowers* themselves. For there are many knowers, from the bound to the pure, and they are distinguished\nby the stains that bind them. Abhinavagupta opens this vi",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkV3-M-agama-dvitiyo-close-k12-20.md",
+    "locator": "chunkV3-M-agama-dvitiyo-close-k12-20.md",
+    "reading": "**The states of the bound knower, and the way to the fourth**\n\nThe knower, at bottom, is nothing other than the free conscious agent \u2014 his agency, his awareness, and\nhis consciousness-self are primary. But the bound knower does not live in that freedom. He lives in a\nround of states \u2014 waking, dream, and deep sleep \u2014 which are the very texture of his bondage. To\nunderstand these states, and which o",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkV3-N-tattva-prathamo-k1-8.md",
+    "locator": "chunkV3-N-tattva-prathamo-k1-8.md",
+    "reading": "**The collection of the essence: the one Lord, and how the many arise**\n\nThe whole teaching \u2014 the self-manifest consciousness, the knowledge-action power, the mahe\u015bvara \u2014\nhas been set out at length through three adhik\u0101ras. Now Abhinavagupta gathers it into a brief\ncollection, the tattv\u0101rthasa\u1e45graha, in fifteen verses, so that the student can hold it in mind and\nmediate upon it. One verse states th",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkV3-O-tattva-trtiyo-k9-15.md",
+    "locator": "chunkV3-O-tattva-trtiyo-k9-15.md",
+    "reading": "**The bond and the liberation: how the bound creates, and how he is freed**\n\nWe come now to the heart of the matter: the essence of the knower, the known, the bond, and the\nliberation. The great question is how the bound knower relates to the Lord. For the bound one does not\nmerely suffer the world; he *creates* it, after his own fashion. But his creation is not the Lord's.\n\nThe bound one's creati",
+    "has_c1": true
+   },
+   {
+    "id": "pt:passage:ipvv:chunkV3-P-tattva-caturtho-close-k1-3.md",
+    "locator": "chunkV3-P-tattva-caturtho-close-k1-3.md",
+    "reading": "**The closing sum: the recognition, and the end of the whole teaching**\n\nWe come to the end. This final vimar\u015ba of the \u012a\u015bvarapratyabhij\u00f1\u0101viv\u1e5btivimar\u015bin\u012b is the closing sum \u2014 the\ndrawing together of everything that has gone before. And its theme is fittingly the *transmission* of\nthe teaching itself: it comes from the guru, from the \u015b\u0101stra, and from the self.\n\nThe whole teaching \u2014 the self-manifest",
+    "has_c1": true
+   }
+  ]
+ },
+ "clusters": {
+  "count": 9,
+  "clusters": [
+   {
+    "cluster_id": "CL-3",
+    "size": 9,
+    "coherence": 3.5556,
+    "members_overlapping": 2,
+    "member_c1_ids": [
+     "V2L-nonconstructed-I",
+     "V2N-inner-appearance",
+     "V2O-orderless-support",
+     "V2P-pramatr-vyapara",
+     "V2Q-omniscient",
+     "V2R-mahesvarya",
+     "V2S-unity-mahesvarya",
+     "V3F-grace",
+     "V3I-difference-real"
+    ],
+    "edge_evidence": [
+     {
+      "a": "V2L-nonconstructed-I",
+      "b": "V2N-inner-appearance",
+      "type": "see_also",
+      "weight": 1.0
+     },
+     {
+      "a": "V2L-nonconstructed-I",
+      "b": "V2O-orderless-support",
+      "type": "see_also",
+      "weight": 1.0
+     },
+     {
+      "a": "V2N-inner-appearance",
+      "b": "V2O-orderless-support",
+      "type": "see_also",
+      "weight": 1.0
+     },
+     {
+      "a": "V2O-orderless-support",
+      "b": "V2P-pramatr-vyapara",
+      "type": "see_also",
+      "weight": 2.0
+     },
+     {
+      "a": "V2O-orderless-support",
+      "b": "V2Q-omniscient",
+      "type": "see_also",
+      "weight": 1.0
+     },
+     {
+      "a": "V2O-orderless-support",
+      "b": "V2R-mahesvarya",
+      "type": "see_also",
+      "weight": 1.0
+     },
+     {
+      "a": "V2O-orderless-support",
+      "b": "V2S-unity-mahesvarya",
+      "type": "see_also",
+      "weight": 2.0
+     },
+     {
+      "a": "V2P-pramatr-vyapara",
+      "b": "V2Q-omniscient",
+      "type": "see_also",
+      "weight": 1.0
+     },
+     {
+      "a": "V2R-mahesvarya",
+      "b": "V2S-unity-mahesvarya",
+      "type": "see_also",
+      "weight": 1.0
+     },
+     {
+      "a": "V2S-unity-mahesvarya",
+      "b": "V3F-grace",
+      "type": "see_also",
+      "weight": 1.0
+     },
+     {
+      "a": "V2S-unity-mahesvarya",
+      "b": "V3I-difference-real",
+      "type": "see_also",
+      "weight": 1.0
+     }
+    ]
+   },
+   {
+    "cluster_id": "CL-4",
+    "size": 9,
+    "coherence": 3.1111,
+    "members_overlapping": 1,
+    "member_c1_ids": [
+     "V2M-descent-states",
+     "V3C-one-light",
+     "V3D-synthesis",
+     "V3E-error",
+     "V3I-difference-real",
+     "V3J-agama-sivatattva",
+     "V3K-kancukas",
+     "V3L-knowers-malas",
+     "V3M-states"
+    ],
+    "edge_evidence": [
+     {
+      "a": "V2M-descent-states",
+      "b": "V3D-synthesis",
+      "type": "see_also",
+      "weight": 1.0
+     },
+     {
+      "a": "V2M-descent-states",
+      "b": "V3M-states",
+      "type": "see_also",
+      "weight": 2.0
+     },
+     {
+      "a": "V3C-one-light",
+      "b": "V3D-synthesis",
+      "type": "see_also",
+      "weight": 1.0
+     },
+     {
+      "a": "V3C-one-light",
+      "b": "V3J-agama-sivatattva",
+      "type": "see_also",
+      "weight": 1.0
+     },
+     {
+      "a": "V3D-synthesis",
+      "b": "V3E-error",
+      "type": "see_also",
+      "weight": 2.0
+     },
+     {
+      "a": "V3E-error",
+      "b": "V3I-difference-real",
+      "type": "see_also",
+      "weight": 1.0
+     },
+     {
+      "a": "V3J-agama-sivatattva",
+      "b": "V3K-kancukas",
+      "type": "see_also",
+      "weight": 1.0
+     },
+     {
+      "a": "V3K-kancukas",
+      "b": "V3L-knowers-malas",
+      "type": "see_also",
+      "weight": 2.0
+     },
+     {
+      "a": "V3L-knowers-malas",
+      "b": "V3M-states",
+      "type": "see_also",
+      "weight": 2.0
+     }
+    ]
+   },
+   {
+    "cluster_id": "CL-1",
+    "size": 5,
+    "coherence": 3.4,
+    "members_overlapping": 1,
+    "member_c1_ids": [
+     "V2D-jnanasakti",
+     "V2E-external-inferred",
+     "V2F-other-minds",
+     "V2G-dream-inversion",
+     "V3F-grace"
+    ],
+    "edge_evidence": [
+     {
+      "a": "V2D-jnanasakti",
+      "b": "V2E-external-inferred",
+      "type": "see_also",
+      "weight": 2.0
+     },
+     {
+      "a": "V2E-external-inferred",
+      "b": "V2F-other-minds",
+      "type": "see_also",
+      "weight": 1.0
+     },
+     {
+      "a": "V2F-other-minds",
+      "b": "V2G-dream-inversion",
+      "type": "see_also",
+      "weight": 2.0
+     },
+     {
+      "a": "V2F-other-minds",
+      "b": "V3F-grace",
+      "type": "see_also",
+      "weight": 1.0
+     }
+    ]
+   },
+   {
+    "cluster_id": "CL-2",
+    "size": 4,
+    "coherence": 3.5,
+    "members_overlapping": 0,
+    "member_c1_ids": [
+     "V2H-vimarsa-paravak",
+     "V2I-sphuratta",
+     "V2J-samskara",
+     "V2K-vacakasphota"
+    ],
+    "edge_evidence": [
+     {
+      "a": "V2H-vimarsa-paravak",
+      "b": "V2I-sphuratta",
+      "type": "see_also",
+      "weight": 2.0
+     },
+     {
+      "a": "V2H-vimarsa-paravak",
+      "b": "V2K-vacakasphota",
+      "type": "see_also",
+      "weight": 1.0
+     },
+     {
+      "a": "V2I-sphuratta",
+      "b": "V2J-samskara",
+      "type": "see_also",
+      "weight": 1.0
+     },
+     {
+      "a": "V2J-samskara",
+      "b": "V2K-vacakasphota",
+      "type": "see_also",
+      "weight": 2.0
+     }
+    ]
+   },
+   {
+    "cluster_id": "CL-7",
+    "size": 4,
+    "coherence": 3.5,
+    "members_overlapping": 1,
+    "member_c1_ids": [
+     "V3F-grace",
+     "V3N-one-lord-many",
+     "V3O-bond-liberation",
+     "V3P-lover-union"
+    ],
+    "edge_evidence": [
+     {
+      "a": "V3F-grace",
+      "b": "V3P-lover-union",
+      "type": "see_also",
+      "weight": 1.0
+     },
+     {
+      "a": "V3N-one-lord-many",
+      "b": "V3O-bond-liberation",
+      "type": "see_also",
+      "weight": 2.0
+     },
+     {
+      "a": "V3N-one-lord-many",
+      "b": "V3P-lover-union",
+      "type": "see_also",
+      "weight": 2.0
+     },
+     {
+      "a": "V3O-bond-liberation",
+      "b": "V3P-lover-union",
+      "type": "see_also",
+      "weight": 1.0
+     }
+    ]
+   },
+   {
+    "cluster_id": "CL-0",
+    "size": 3,
+    "coherence": 3.6667,
+    "members_overlapping": 0,
+    "member_c1_ids": [
+     "V2A-memory-lords-power",
+     "V2B-pastness-svasamvitti",
+     "V2C-ajadapramatr"
+    ],
+    "edge_evidence": [
+     {
+      "a": "V2A-memory-lords-power",
+      "b": "V2B-pastness-svasamvitti",
+      "type": "see_also",
+      "weight": 2.0
+     },
+     {
+      "a": "V2B-pastness-svasamvitti",
+      "b": "V2C-ajadapramatr",
+      "type": "see_also",
+      "weight": 2.0
+     }
+    ]
+   },
+   {
+    "cluster_id": "CL-8",
+    "size": 2,
+    "coherence": 1.0,
+    "members_overlapping": 0,
+    "member_c1_ids": [
+     "V3G-causality",
+     "V3H-inference-across-knowers"
+    ],
+    "edge_evidence": [
+     {
+      "a": "V3G-causality",
+      "b": "V3H-inference-across-knowers",
+      "type": "see_also",
+      "weight": 1.0
+     }
+    ]
+   },
+   {
+    "cluster_id": "CL-5",
+    "size": 1,
+    "coherence": 0.0,
+    "members_overlapping": 0,
+    "member_c1_ids": [
+     "V3A-timeless-order"
+    ],
+    "edge_evidence": []
+   },
+   {
+    "cluster_id": "CL-6",
+    "size": 1,
+    "coherence": 0.0,
+    "members_overlapping": 0,
+    "member_c1_ids": [
+     "V3B-bhedabheda"
+    ],
+    "edge_evidence": []
+   }
+  ]
+ }
+}

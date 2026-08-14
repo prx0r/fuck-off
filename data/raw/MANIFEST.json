@@ -1,0 +1,4434 @@
+{
+ "html_real": [
+  {
+   "path": "freedom.de-liberation.html",
+   "title": "Multiple Choices",
+   "body_len": 401
+  },
+  {
+   "path": "freedom.soft_causality.html",
+   "title": "Multiple Choices",
+   "body_len": 413
+  },
+  {
+   "path": "freedom.up_to_us.html",
+   "title": "Multiple Choices",
+   "body_len": 411
+  },
+  {
+   "path": "freedom.causality.html",
+   "title": "Multiple Choices",
+   "body_len": 408
+  },
+  {
+   "path": "freedom.superdeterminism.html",
+   "title": "Multiple Choices",
+   "body_len": 415
+  },
+  {
+   "path": "tutorials/Free_Will.html",
+   "title": null,
+   "body_len": 628
+  },
+  {
+   "path": "tutorials/Free_Will_625.html",
+   "title": null,
+   "body_len": 635
+  },
+  {
+   "path": "tutorials/Free_Will_625/index.html",
+   "title": null,
+   "body_len": 635
+  },
+  {
+   "path": "articles/illusion_of_determinism.html",
+   "title": "Multiple Choices",
+   "body_len": 449
+  },
+  {
+   "path": "knowledge/foundationalism.html.html",
+   "title": "Multiple Choices",
+   "body_len": 557
+  },
+  {
+   "path": "knowledge/complexity.html",
+   "title": "Multiple Choices",
+   "body_len": 407
+  },
+  {
+   "path": "life/biosemiotics/jakobson.html",
+   "title": "Multiple Choices",
+   "body_len": 428
+  },
+  {
+   "path": "problems/nonlocality.html",
+   "title": "Multiple Choices",
+   "body_len": 418
+  },
+  {
+   "path": "problems/consciousness.html",
+   "title": "Multiple Choices",
+   "body_len": 418
+  },
+  {
+   "path": "afterwords/bibliography/listings.html",
+   "title": null,
+   "body_len": 39926
+  },
+  {
+   "path": "afterwords/bibliography/speranza.html",
+   "title": null,
+   "body_len": 84739
+  },
+  {
+   "path": "help/wikipedia.org.html",
+   "title": "Multiple Choices",
+   "body_len": 389
+  },
+  {
+   "path": "value/good.html",
+   "title": "Multiple Choices",
+   "body_len": 386
+  },
+  {
+   "path": "presentations/ABCD_Multimedia_2006.pdf/index.html",
+   "title": null,
+   "body_len": 6418885
+  },
+  {
+   "path": "presentations/ABCD_Multimedia_2006.pptx/index.html",
+   "title": null,
+   "body_len": 499011
+  },
+  {
+   "path": "presentations/SSP/SSP.key.html",
+   "title": null,
+   "body_len": 3848397
+  },
+  {
+   "path": "periodic_table/large.html",
+   "title": null,
+   "body_len": 31
+  },
+  {
+   "path": "Values/ergo.html",
+   "title": "Multiple Choices",
+   "body_len": 387
+  },
+  {
+   "path": "Values/ergod.html",
+   "title": "Multiple Choices",
+   "body_len": 389
+  },
+  {
+   "path": "solutions/scientists.peirce/index.html",
+   "title": "Multiple Choices",
+   "body_len": 427
+  },
+  {
+   "path": "solutions/scientists/feynman/lecture3.html",
+   "title": null,
+   "body_len": 39
+  },
+  {
+   "path": "solutions/scientists/feynman/lecture2.html",
+   "title": null,
+   "body_len": 37
+  },
+  {
+   "path": "solutions/scientists/feynman/lecture1.html",
+   "title": null,
+   "body_len": 37
+  },
+  {
+   "path": "solutions/scientists/feynman/lecture7.html",
+   "title": null,
+   "body_len": 37
+  },
+  {
+   "path": "solutions/scientists/feynman/lecture4.html",
+   "title": null,
+   "body_len": 38
+  },
+  {
+   "path": "solutions/scientists/einstein/AJP_1905_photon.pdf.html",
+   "title": "Multiple Choices",
+   "body_len": 493
+  },
+  {
+   "path": "solutions/scientists/hartley/Transmission_of_Information.pdf'%3EThe Transmission of Information%3C/a%3E. In it he postulates a law that.html",
+   "title": "Multiple Choices",
+   "body_len": 614
+  },
+  {
+   "path": "solutions/scientists/hartman/.pdf.html",
+   "title": "Multiple Choices",
+   "body_len": 492
+  },
+  {
+   "path": "solutions/scientists/libet/clock.html",
+   "title": null,
+   "body_len": 60
+  },
+  {
+   "path": "solutions/scientists/mayr/mayr_1974.pdf.html",
+   "title": "Multiple Choices",
+   "body_len": 455
+  },
+  {
+   "path": "solutions/scientists/layzer/1008.1229.pdf.html",
+   "title": "Multiple Choices",
+   "body_len": 477
+  },
+  {
+   "path": "solutions/experiments/schrodingerscat.html",
+   "title": "Multiple Choices",
+   "body_len": 448
+  },
+  {
+   "path": "solutions/philosophers/nagel/index.html",
+   "title": "Multiple Choices",
+   "body_len": 470
+  },
+  {
+   "path": "solutions/philosophers/lucas/Minds_Machines_and_Godel.html",
+   "title": null,
+   "body_len": 47932
+  },
+  {
+   "path": "solutions/philosophers/lucas/C_S_Lewis_Restoration_of_Man.html",
+   "title": null,
+   "body_len": 34037
+  },
+  {
+   "path": "solutions/philosophers/greene/index.html",
+   "title": "Multiple Choices",
+   "body_len": 487
+  },
+  {
+   "path": "solutions/philosophers/taylor/index.html",
+   "title": "Multiple Choices",
+   "body_len": 493
+  },
+  {
+   "path": "books/scandal/Free_Will_Kindle.mobi.html",
+   "title": null,
+   "body_len": 919313
+  },
+  {
+   "path": "introduction/physics/interpretations.html",
+   "title": "Multiple Choices",
+   "body_len": 444
+  },
+  {
+   "path": "solutions.scientists/gauss/index.html",
+   "title": "Multiple Choices",
+   "body_len": 423
+  },
+  {
+   "path": "solutions.scientists/de_moivre/index.html",
+   "title": "Multiple Choices",
+   "body_len": 429
+  },
+  {
+   "path": "solutions.scientists/newton/index.html",
+   "title": "Multiple Choices",
+   "body_len": 426
+  },
+  {
+   "path": "freedom/neuroscience.html",
+   "title": "Multiple Choices",
+   "body_len": 428
+  },
+  {
+   "path": "freedom/problem.html",
+   "title": "Multiple Choices",
+   "body_len": 412
+  },
+  {
+   "path": "freedom/two-stage_models.com/index.html",
+   "title": "Multiple Choices",
+   "body_len": 876
+  }
+ ],
+ "pdfs": [
+  {
+   "path": "articles/STI-Springer-Doyle.pdf",
+   "size": 166165
+  },
+  {
+   "path": "articles/Physics_of_Mind.pdf",
+   "size": 777795
+  },
+  {
+   "path": "articles/AMB.pdf",
+   "size": 3513630
+  },
+  {
+   "path": "articles/Neuringer_Jensen.pdf",
+   "size": 345997
+  },
+  {
+   "path": "articles/Doyle-Nature-25June2009.pdf",
+   "size": 346101
+  },
+  {
+   "path": "articles/Continuous_Spectrum.pdf",
+   "size": 2084400
+  },
+  {
+   "path": "articles/PhysRev.pdf",
+   "size": 165773
+  },
+  {
+   "path": "problems/DisentanglingEPR.pdf",
+   "size": 765745
+  },
+  {
+   "path": "problems/reversibility/Irreversibility.pdf",
+   "size": 222729
+  },
+  {
+   "path": "problems/reversibility/history/Tolman_Principle.pdf",
+   "size": 457085
+  },
+  {
+   "path": "mind/Two-Step_Process.pdf",
+   "size": 777795
+  },
+  {
+   "path": "mind/ncc/Crick_Koch_Consciousness.pdf",
+   "size": 172798
+  },
+  {
+   "path": "mind/ncc/Koch_Chalmers_Leading_Theories-of-Consciousness.pdf",
+   "size": 1038865
+  },
+  {
+   "path": "mind/panpsychism/Panpsychism_MS_Resources.pdf",
+   "size": 79664
+  },
+  {
+   "path": "images/AMB_Reoort.pdf",
+   "size": 943387
+  },
+  {
+   "path": "images/AMB_Report.pdf",
+   "size": 943387
+  },
+  {
+   "path": "presentations/STI-2020-05-10.pdf",
+   "size": 588591
+  },
+  {
+   "path": "presentations/WJS-handout.pdf",
+   "size": 1979657
+  },
+  {
+   "path": "presentations/Two-stage_handout.pdf",
+   "size": 199327
+  },
+  {
+   "path": "presentations/WJS-2010.pdf",
+   "size": 650976
+  },
+  {
+   "path": "presentations/Biosemiotics/WORKSHOP_SCHEDULE.PDF",
+   "size": 47646
+  },
+  {
+   "path": "presentations/Milan/papers/Pauri-Physics_and_Nihilism.pdf",
+   "size": 1357635
+  },
+  {
+   "path": "presentations/Milan/papers/Atmanspacher.pdf",
+   "size": 175100
+  },
+  {
+   "path": "presentations/Milan/papers/Atmanspacher-Pauli-Jung.pdf",
+   "size": 417944
+  },
+  {
+   "path": "presentations/Milan/papers/QB_Salzburg_jedlicka.pdf",
+   "size": 631885
+  },
+  {
+   "path": "presentations/Milan/papers/Meixner-Two-Sides.pdf",
+   "size": 46514
+  },
+  {
+   "path": "presentations/Milan/papers/Stapp_Role_of_Mind.pdf",
+   "size": 251970
+  },
+  {
+   "path": "presentations/Milan/papers/Barrett_quantum_argument_for_dualism.pdf",
+   "size": 214886
+  },
+  {
+   "path": "presentations/Milan/papers/Dual-aspect-Atmanspacher.pdf",
+   "size": 205672
+  },
+  {
+   "path": "presentations/Milan/papers/Atmanspacher-Contextual_Emergence.pdf",
+   "size": 147158
+  },
+  {
+   "path": "presentations/Milan/papers/McCall-Lowe.pdf",
+   "size": 518226
+  },
+  {
+   "path": "presentations/Milan/papers/McCall-Lowe-Levy.pdf",
+   "size": 63076
+  },
+  {
+   "path": "presentations/Milan/papers/McCall-Lowe2.pdf",
+   "size": 46137
+  },
+  {
+   "path": "presentations/Milan/papers/Mohrhoff_objective.pdf",
+   "size": 208545
+  },
+  {
+   "path": "presentations/Milan/papers/Stapp_Mohrhoff.pdf",
+   "size": 99293
+  },
+  {
+   "path": "presentations/Milan/papers/Pauri-Quantum-Evolution.pdf",
+   "size": 709211
+  },
+  {
+   "path": "presentations/Milan/papers/Meixner.pdf",
+   "size": 473546
+  },
+  {
+   "path": "presentations/Milan/papers/Mohrhoff_on_Stapp.pdf",
+   "size": 270909
+  },
+  {
+   "path": "presentations/Milan/papers/Stapp__Free_Will.pdf",
+   "size": 242949
+  },
+  {
+   "path": "presentations/Milan/papers/Mohrhoff.pdf",
+   "size": 268061
+  },
+  {
+   "path": "presentations/Milan/papers/Atmanspacher-Bishop_Contextual_Emergence.pdf",
+   "size": 167433
+  },
+  {
+   "path": "solutions/scientist/schrodinger/Schrodinger-1936.pdf",
+   "size": 797367
+  },
+  {
+   "path": "solutions/scientist/bell/Popescu_Rohrlich.pdf",
+   "size": 344298
+  },
+  {
+   "path": "solutions/scientist/bell/Mermin_Phys.Today.38.38.pdf",
+   "size": 3177558
+  },
+  {
+   "path": "solutions/scientist/bell/Tsirelson.pdf",
+   "size": 346574
+  },
+  {
+   "path": "solutions/scientist/bell/Rosen_H2.pdf",
+   "size": 1128557
+  },
+  {
+   "path": "solutions/scientists/lloyd/Turing_Test.pdf",
+   "size": 133889
+  },
+  {
+   "path": "solutions/scientists/lloyd/Universe_Quantum_Computer.pdf",
+   "size": 123024
+  },
+  {
+   "path": "solutions/scientists/edelman/Consciousness.pdf",
+   "size": 1715126
+  },
+  {
+   "path": "solutions/scientists/margenau/modern_theory.pdf",
+   "size": 3977303
+  },
+  {
+   "path": "solutions/scientists/schrodinger/Quantum_Jumps_I.pdf",
+   "size": 1661352
+  },
+  {
+   "path": "solutions/scientists/schrodinger/What_Is_Life-3.pdf",
+   "size": 1907599
+  },
+  {
+   "path": "solutions/scientists/schrodinger/Die_Situation.pdf",
+   "size": 919533
+  },
+  {
+   "path": "solutions/scientists/schrodinger/Quantum_Jumps_II.pdf",
+   "size": 1167718
+  },
+  {
+   "path": "solutions/scientists/schrodinger/Die_Situation-2.pdf",
+   "size": 965468
+  },
+  {
+   "path": "solutions/scientists/schrodinger/Schrodinger-1935.pdf",
+   "size": 969266
+  },
+  {
+   "path": "solutions/scientists/schrodinger/What_Is_Life-4.pdf",
+   "size": 5010242
+  },
+  {
+   "path": "solutions/scientists/schrodinger/Quantum_Jumps_2.pdf",
+   "size": 1661352
+  },
+  {
+   "path": "solutions/scientists/schrodinger/Die_Situation-3.pdf",
+   "size": 918341
+  },
+  {
+   "path": "solutions/scientists/schrodinger/Present-Status.pdf",
+   "size": 167908
+  },
+  {
+   "path": "solutions/scientists/schrodinger/What_Is_Life-7.pdf",
+   "size": 5680426
+  },
+  {
+   "path": "solutions/scientists/everett/Wheeler_Assessment.pdf",
+   "size": 382682
+  },
+  {
+   "path": "solutions/scientists/everett/DeWitt_QM_Reality.pdf",
+   "size": 1683153
+  },
+  {
+   "path": "solutions/scientists/everett/Relative_State.pdf",
+   "size": 1070950
+  },
+  {
+   "path": "solutions/scientists/everett/thesis.pdf",
+   "size": 4341206
+  },
+  {
+   "path": "solutions/scientists/everett/Tegmark.pdf",
+   "size": 127282
+  },
+  {
+   "path": "solutions/scientists/mcculloch/Frogs_Eye.pdf",
+   "size": 2654232
+  },
+  {
+   "path": "solutions/scientists/mcculloch/McCulloch-Pitts.pdf",
+   "size": 1272966
+  },
+  {
+   "path": "solutions/scientists/verlinde/Entropic_Gravity.pdf",
+   "size": 979759
+  },
+  {
+   "path": "solutions/scientists/einstein/Maxwells_Influence.pdf",
+   "size": 3373092
+  },
+  {
+   "path": "solutions/scientists/einstein/Einstein-Podolsky-Rosen.pdf",
+   "size": 2228217
+  },
+  {
+   "path": "solutions/scientists/einstein/1917_Radiation.pdf",
+   "size": 5618279
+  },
+  {
+   "path": "solutions/scientists/einstein/AJP_1905_photon.pdf",
+   "size": 5939873
+  },
+  {
+   "path": "solutions/scientists/einstein/1916_A-B.pdf",
+   "size": 365889
+  },
+  {
+   "path": "solutions/scientists/einstein/Physik_und_Realitat.pdf",
+   "size": 1924418
+  },
+  {
+   "path": "solutions/scientists/einstein/Method_of_Theoretical_Physics.pdf",
+   "size": 268044
+  },
+  {
+   "path": "solutions/scientists/einstein/Dialectica.pdf",
+   "size": 2109289
+  },
+  {
+   "path": "solutions/scientists/einstein/Physics_and_Reality.pdf",
+   "size": 17324428
+  },
+  {
+   "path": "solutions/scientists/einstein/1905_radiation.pdf",
+   "size": 740355
+  },
+  {
+   "path": "solutions/scientists/einstein/1906_Light_Production.pdf",
+   "size": 2223847
+  },
+  {
+   "path": "solutions/scientists/wheeler/Wheeler.pdf",
+   "size": 29223248
+  },
+  {
+   "path": "solutions/scientists/gisin/TimeReallyPasses.pdf",
+   "size": 211260
+  },
+  {
+   "path": "solutions/scientists/gisin/QuantumJumps.pdf",
+   "size": 187915
+  },
+  {
+   "path": "solutions/scientists/gisin/IndeterminismInPhysics.pdf",
+   "size": 689985
+  },
+  {
+   "path": "solutions/scientists/zuse/Rechnender_Raum.pdf",
+   "size": 1108550
+  },
+  {
+   "path": "solutions/scientists/wigner/AmJPhys-Measurement.pdf",
+   "size": 1593481
+  },
+  {
+   "path": "solutions/scientists/wigner/Wigner_Remarks.pdf",
+   "size": 5888886
+  },
+  {
+   "path": "solutions/scientists/kovac/Cognitive_Biology.pdf",
+   "size": 108473
+  },
+  {
+   "path": "solutions/scientists/sperry/Sperry1966Chicago.pdf",
+   "size": 1030991
+  },
+  {
+   "path": "solutions/scientists/sperry/Sperry_Modified_Consciousness.pdf",
+   "size": 435274
+  },
+  {
+   "path": "solutions/scientists/sperry/Sperry1980.pdf",
+   "size": 1737347
+  },
+  {
+   "path": "solutions/scientists/watsonjb/Watson_Behaviorism.pdf",
+   "size": 1432554
+  },
+  {
+   "path": "solutions/scientists/simonton/Simonton_Free_Will.pdf",
+   "size": 779920
+  },
+  {
+   "path": "solutions/scientists/mermin/Mermin_Cushing.pdf",
+   "size": 5936299
+  },
+  {
+   "path": "solutions/scientists/mermin/Mermin_QM_Tell_Us.pdf",
+   "size": 281715
+  },
+  {
+   "path": "solutions/scientists/mermin/Mermin_Mysteries_Revisited.pdf",
+   "size": 1902750
+  },
+  {
+   "path": "solutions/scientists/mermin/Mermin_Device1981.pdf",
+   "size": 365822
+  },
+  {
+   "path": "solutions/scientists/mermin/Mermin_Mysteries_Anyone.pdf",
+   "size": 594482
+  },
+  {
+   "path": "solutions/scientists/mermin/Mermin_Making_Sense.pdf",
+   "size": 252831
+  },
+  {
+   "path": "solutions/scientists/mermin/QBism_Mermin.pdf",
+   "size": 158173
+  },
+  {
+   "path": "solutions/scientists/mermin/Mermin_IthacaIQM.pdf",
+   "size": 1059071
+  },
+  {
+   "path": "solutions/scientists/mermin/Stuckey.pdf",
+   "size": 588322
+  },
+  {
+   "path": "solutions/scientists/mermin/mermin2.pdf",
+   "size": 5936299
+  },
+  {
+   "path": "solutions/scientists/mermin/Mermin_Moon.pdf",
+   "size": 3177558
+  },
+  {
+   "path": "solutions/scientists/rosenblatt/Rosenblatt_Research_Trends.pdf",
+   "size": 2287300
+  },
+  {
+   "path": "solutions/scientists/bateson/Bateson_Difference.pdf",
+   "size": 5356937
+  },
+  {
+   "path": "solutions/scientists/wicken/Wicken_Egel.pdf",
+   "size": 393840
+  },
+  {
+   "path": "solutions/scientists/mccarthy/SDFW.pdf",
+   "size": 128642
+  },
+  {
+   "path": "solutions/scientists/hartman/Genetic_Code_III.pdf",
+   "size": 295725
+  },
+  {
+   "path": "solutions/scientists/hartman/Metabolism.pdf",
+   "size": 623559
+  },
+  {
+   "path": "solutions/scientists/hartman/Evol_Code_2014.pdf",
+   "size": 725817
+  },
+  {
+   "path": "solutions/scientists/hartman/Genetic_Code_II.pdf",
+   "size": 126425
+  },
+  {
+   "path": "solutions/scientists/hartman/Origin_2008.pdf",
+   "size": 2740784
+  },
+  {
+   "path": "solutions/scientists/hartman/Hartman_Code.pdf",
+   "size": 444035
+  },
+  {
+   "path": "solutions/scientists/hartman/Hartman_Eukaryote.pdf",
+   "size": 545300
+  },
+  {
+   "path": "solutions/scientists/schurger/PNAS-2012-Schurger-1210467109.pdf",
+   "size": 1026491
+  },
+  {
+   "path": "solutions/scientists/culverwell/Culverwell1894.pdf",
+   "size": 136118
+  },
+  {
+   "path": "solutions/scientists/culverwell/Culverwell1890.pdf",
+   "size": 309515
+  },
+  {
+   "path": "solutions/scientists/planck/Planck_1900b.pdf",
+   "size": 2093378
+  },
+  {
+   "path": "solutions/scientists/planck/Nature_of_Light.pdf",
+   "size": 6896924
+  },
+  {
+   "path": "solutions/scientists/planck/Planck_1901a.pdf",
+   "size": 143080
+  },
+  {
+   "path": "solutions/scientists/planck/Autobiography.pdf",
+   "size": 11558024
+  },
+  {
+   "path": "solutions/scientists/planck/Planck-Kangro.pdf",
+   "size": 6508483
+  },
+  {
+   "path": "solutions/scientists/planck/Dynamical_and_Statistical_Laws.pdf",
+   "size": 6928823
+  },
+  {
+   "path": "solutions/scientists/planck/Max_Planck_Menselssohn.pdf",
+   "size": 5891032
+  },
+  {
+   "path": "solutions/scientists/planck/Planck_1900a.pdf",
+   "size": 679493
+  },
+  {
+   "path": "solutions/scientists/planck/Quantum_Theory.pdf",
+   "size": 6921940
+  },
+  {
+   "path": "solutions/scientists/maxwell/Dynamical_Theory_Gases_1.pdf",
+   "size": 6585900
+  },
+  {
+   "path": "solutions/scientists/maxwell/illustrations_dynamical_theory_gases_1.pdf",
+   "size": 599452
+  },
+  {
+   "path": "solutions/scientists/maxwell/Theory_Heat.pdf",
+   "size": 5238473
+  },
+  {
+   "path": "solutions/scientists/klein/Einstein_Development_QM.pdf",
+   "size": 2888253
+  },
+  {
+   "path": "solutions/scientists/klein/Klein-Einstein-Wave-Particle.pdf",
+   "size": 5678431
+  },
+  {
+   "path": "solutions/scientists/klein/Klein-Einstein-Light-Quanta.pdf",
+   "size": 7714393
+  },
+  {
+   "path": "solutions/scientists/klein/Klein__Einstein_Specific_Heats_QT.pdf",
+   "size": 1916328
+  },
+  {
+   "path": "solutions/scientists/klein/Klein_Einstein_Bohr_1.pdf",
+   "size": 3944272
+  },
+  {
+   "path": "solutions/scientists/gibbs/Paradox.pdf",
+   "size": 1314548
+  },
+  {
+   "path": "solutions/scientists/gibbs/Gibbs_Graphical.pdf",
+   "size": 42872746
+  },
+  {
+   "path": "solutions/scientists/gabor/gabor1946.pdf",
+   "size": 2106085
+  },
+  {
+   "path": "solutions/scientists/simon/Complexity_Simon_1962.pdf",
+   "size": 561727
+  },
+  {
+   "path": "solutions/scientists/herschel/Herschel.pdf",
+   "size": 381678
+  },
+  {
+   "path": "solutions/scientists/jordan/measurement.pdf",
+   "size": 434777
+  },
+  {
+   "path": "solutions/scientists/dirac/Radiation_A-B_1927.pdf",
+   "size": 222032
+  },
+  {
+   "path": "solutions/scientists/dirac/Dirac_1930.pdf",
+   "size": 4825952
+  },
+  {
+   "path": "solutions/scientists/dirac/Rel_QM_1926.pdf",
+   "size": 1684226
+  },
+  {
+   "path": "solutions/scientists/dirac/Fund_QM_1925.pdf",
+   "size": 1225683
+  },
+  {
+   "path": "solutions/scientists/dirac/Classical-Quantum.pdf",
+   "size": 450974
+  },
+  {
+   "path": "solutions/scientists/dirac/On_Theory_1926a.pdf",
+   "size": 2122170
+  },
+  {
+   "path": "solutions/scientists/dirac/Interpretation_Transformation.pdf",
+   "size": 1930174
+  },
+  {
+   "path": "solutions/scientists/dirac/Lagrangian_1933.pdf",
+   "size": 1257487
+  },
+  {
+   "path": "solutions/scientists/heisenberg/History_of_QT.pdf",
+   "size": 5688800
+  },
+  {
+   "path": "solutions/scientists/heisenberg/Bohr-Schrodinger.pdf",
+   "size": 8233808
+  },
+  {
+   "path": "solutions/scientists/heisenberg/ZfP-Uncertainty.pdf",
+   "size": 1458824
+  },
+  {
+   "path": "solutions/scientists/heisenberg/Copenhagen_Interpretation.pdf",
+   "size": 5949518
+  },
+  {
+   "path": "solutions/scientists/heisenberg/Heisenberg_Uncertainty.pdf",
+   "size": 26870968
+  },
+  {
+   "path": "solutions/scientists/foerster/Foerster_Memory.pdf",
+   "size": 2513775
+  },
+  {
+   "path": "solutions/scientists/hobson/Entanglement_Measurement.pdf",
+   "size": 756630
+  },
+  {
+   "path": "solutions/scientists/hobson/Response_van_Kampen.pdf",
+   "size": 149377
+  },
+  {
+   "path": "solutions/scientists/hobson/Quantum_measurements.pdf",
+   "size": 297496
+  },
+  {
+   "path": "solutions/scientists/hobson/No_Particles.pdf",
+   "size": 1274259
+  },
+  {
+   "path": "solutions/scientists/hobson/Schrodinger_Cat.pdf",
+   "size": 1271844
+  },
+  {
+   "path": "solutions/scientists/mises/MisesR.pdf",
+   "size": 2068407
+  },
+  {
+   "path": "solutions/scientists/goodwin/Cognitive_Biology.pdf",
+   "size": 695335
+  },
+  {
+   "path": "solutions/scientists/cashmore/lucretian_swerve.pdf",
+   "size": 659796
+  },
+  {
+   "path": "solutions/scientists/landauer/Landauer_1961.pdf",
+   "size": 667623
+  },
+  {
+   "path": "solutions/scientists/landauer/Landauer-1961.pdf",
+   "size": 667623
+  },
+  {
+   "path": "solutions/scientists/bohm/Bohm_Aharonov-.pdf",
+   "size": 4252509
+  },
+  {
+   "path": "solutions/scientists/bell/Bell_Davies.pdf",
+   "size": 6238327
+  },
+  {
+   "path": "solutions/scientists/bell/Tsirelson_Bound.pdf",
+   "size": 24844045
+  },
+  {
+   "path": "solutions/scientists/bell/CHSH.pdf",
+   "size": 349440
+  },
+  {
+   "path": "solutions/scientists/bell/Beables_for_QFT.pdf",
+   "size": 2475587
+  },
+  {
+   "path": "solutions/scientists/bell/Bell_On_EPR.pdf",
+   "size": 2058094
+  },
+  {
+   "path": "solutions/scientists/bell/Bell_Quantum_Jumps.pdf",
+   "size": 2180958
+  },
+  {
+   "path": "solutions/scientists/bell/Bell_1966.pdf",
+   "size": 869291
+  },
+  {
+   "path": "solutions/scientists/bell/Impossible_Pilot_Wave.pdf",
+   "size": 3430030
+  },
+  {
+   "path": "solutions/scientists/bell/CH.pdf",
+   "size": 1214107
+  },
+  {
+   "path": "solutions/scientists/bell/Against_Measurement.pdf",
+   "size": 11804755
+  },
+  {
+   "path": "solutions/scientists/bell/EPR_Experiments.pdf",
+   "size": 3450563
+  },
+  {
+   "path": "solutions/scientists/quetelet/Herschel_Quetelet_Probabilities.pdf",
+   "size": 3390520
+  },
+  {
+   "path": "solutions/scientists/kampen/Ten_Theorems.pdf",
+   "size": 1053411
+  },
+  {
+   "path": "solutions/scientists/bose/Bose_1924.pdf",
+   "size": 102680
+  },
+  {
+   "path": "solutions/scientists/pauli/Einstein-EhrenfestB.pdf",
+   "size": 2407179
+  },
+  {
+   "path": "solutions/scientists/pauli/Pauli1923.pdf",
+   "size": 5611839
+  },
+  {
+   "path": "solutions/scientists/pauli/H_Spectrum_Pauli.pdf",
+   "size": 7860900
+  },
+  {
+   "path": "solutions/scientists/pauli/Pauli_Handbuch1933.pdf",
+   "size": 5225819
+  },
+  {
+   "path": "solutions/scientists/ballentine/PR70.pdf",
+   "size": 14780065
+  },
+  {
+   "path": "solutions/scientists/ballentine/AJP72.pdf",
+   "size": 689043
+  },
+  {
+   "path": "solutions/scientists/bohr/Como_Nature.pdf",
+   "size": 13029904
+  },
+  {
+   "path": "solutions/scientists/bohr/BKS.pdf",
+   "size": 1476767
+  },
+  {
+   "path": "solutions/scientists/bohr/Constitution_of_Atoms_I.pdf",
+   "size": 195940
+  },
+  {
+   "path": "solutions/scientists/bohr/Notions_of_Causality_and_Complementarity.pdf",
+   "size": 922081
+  },
+  {
+   "path": "solutions/scientists/bohr/Bohr_Einstein_Schilpp.pdf",
+   "size": 9856375
+  },
+  {
+   "path": "solutions/scientists/bohr/Nobel.pdf",
+   "size": 333021
+  },
+  {
+   "path": "solutions/scientists/bohr/Causality_and_Complementarity.pdf",
+   "size": 318668
+  },
+  {
+   "path": "solutions/scientists/bohr/EPRBohr.pdf",
+   "size": 11224064
+  },
+  {
+   "path": "solutions/scientists/polanyi/Polanyi_Life_Structures.pdf",
+   "size": 1267012
+  },
+  {
+   "path": "solutions/scientists/clausius/Clausius.pdf",
+   "size": 3865318
+  },
+  {
+   "path": "solutions/scientists/stapp/Copenhagen_Interpretation.pdf",
+   "size": 17006071
+  },
+  {
+   "path": "solutions/scientists/born/QMCollisions1_1926.pdf",
+   "size": 171268
+  },
+  {
+   "path": "solutions/scientists/born/Born-Einstein_Schilpp.pdf",
+   "size": 5354183
+  },
+  {
+   "path": "solutions/scientists/born/Nobel_Lecture.pdf",
+   "size": 56996
+  },
+  {
+   "path": "solutions/scientists/lewis/Lewis_Reversibility.pdf",
+   "size": 576477
+  },
+  {
+   "path": "solutions/scientists/zeh/No_Quantum_Jumps.pdf",
+   "size": 71238
+  },
+  {
+   "path": "solutions/scientists/mayr/Idea_Teleology.pdf",
+   "size": 1618650
+  },
+  {
+   "path": "solutions/scientists/heisenbergm/Nature_14_May_2009.pdf",
+   "size": 1791638
+  },
+  {
+   "path": "solutions/scientists/jaynes/Jaynes_Gibbs_Boltzmann.pdf",
+   "size": 6477037
+  },
+  {
+   "path": "solutions/scientists/jaynes/Jaynes_Gibbs_Paradox.pdf",
+   "size": 206805
+  },
+  {
+   "path": "solutions/scientists/barandes/BarandesQM.pdf",
+   "size": 570479
+  },
+  {
+   "path": "solutions/scientists/layzer/Frautschi_Science_1982.pdf",
+   "size": 1708945
+  },
+  {
+   "path": "solutions/scientists/layzer/Cosmic_Evolution.pdf",
+   "size": 249813
+  },
+  {
+   "path": "solutions/scientists/layzer/1008.1229v1.pdf",
+   "size": 564523
+  },
+  {
+   "path": "solutions/scientists/layzer/Layzer_1976_AoT.pdf",
+   "size": 1311944
+  },
+  {
+   "path": "solutions/scientists/layzer/Quantum_Mechanics_Thermodynamics_Strong_Cosmological_Principle.pdf",
+   "size": 5780769
+  },
+  {
+   "path": "solutions/scientists/layzer/Weber_DePew.pdf",
+   "size": 4840518
+  },
+  {
+   "path": "solutions/scientists/layzer/Arrow_of_Time.pdf",
+   "size": 1070647
+  },
+  {
+   "path": "solutions/scientists/layzer/Free_Will_As_A_Scientific_Problem.pdf",
+   "size": 271630
+  },
+  {
+   "path": "solutions/scientists/layzer/Strong_Cosmological_Principle.pdf",
+   "size": 911979
+  },
+  {
+   "path": "solutions/scientists/layzer/Preface_to_Cosmogony.pdf",
+   "size": 739262
+  },
+  {
+   "path": "solutions/scientists/thims/TNETIT.pdf",
+   "size": 4515257
+  },
+  {
+   "path": "solutions/scientists/deacon/Deacon_Redefining_II.pdf",
+   "size": 357375
+  },
+  {
+   "path": "solutions/scientists/deacon/Biosemiotics_Science.pdf",
+   "size": 3260984
+  },
+  {
+   "path": "solutions/scientists/deacon/Deacon_Complexity_Dynamical_Depth.pdf",
+   "size": 1646575
+  },
+  {
+   "path": "solutions/scientists/deacon/Deacon_Exploring_Constraint.pdf",
+   "size": 3457273
+  },
+  {
+   "path": "solutions/scientists/deacon/Deacon_Information_Complexity_Depth.pdf",
+   "size": 231708
+  },
+  {
+   "path": "solutions/scientists/deacon/Deacon_Redefining_I.pdf",
+   "size": 812689
+  },
+  {
+   "path": "solutions/scientists/deacon/Deacon_What_Missing.pdf",
+   "size": 119063
+  },
+  {
+   "path": "solutions/scientists/deacon/Deacon_Prolegomenon.pdf",
+   "size": 100250
+  },
+  {
+   "path": "solutions/scientists/deacon/Deacon_information_to semiosis.pdf",
+   "size": 9247063
+  },
+  {
+   "path": "solutions/scientists/deacon/Deacon_Constraint_Regulation.pdf",
+   "size": 1326242
+  },
+  {
+   "path": "solutions/scientists/pattee/Pattee_life_quantum.pdf",
+   "size": 5603794
+  },
+  {
+   "path": "solutions/scientists/szilard/Szilard_Entropy_1964.pdf",
+   "size": 828313
+  },
+  {
+   "path": "solutions/scientists/howard/Copenhagen_Myth.pdf",
+   "size": 152062
+  },
+  {
+   "path": "solutions/scientists/howard/Reduction-and-Emergence-in-Physics.pdf",
+   "size": 147933
+  },
+  {
+   "path": "solutions/scientists/howard/Shimony_Fest.pdf",
+   "size": 606206
+  },
+  {
+   "path": "solutions/scientists/howard/Locality-Separability-1985.pdf",
+   "size": 17565209
+  },
+  {
+   "path": "solutions/scientists/howard/Einstein_Phil-Sci.pdf",
+   "size": 472852
+  },
+  {
+   "path": "solutions/scientists/howard/Nicht_Sein_Kann.pdf",
+   "size": 41349413
+  },
+  {
+   "path": "solutions/scientists/howard/Howard-Fine.pdf",
+   "size": 2086486
+  },
+  {
+   "path": "solutions/scientists/gold/Bondi-Gold_1948.pdf",
+   "size": 1835569
+  },
+  {
+   "path": "solutions/scientists/zurek/Decoherence.pdf",
+   "size": 524274
+  },
+  {
+   "path": "solutions/scientists/zurek/Quantum_Darwinism.pdf",
+   "size": 761947
+  },
+  {
+   "path": "solutions/scientists/maroney/Info_Entropy.pdf",
+   "size": 1473011
+  },
+  {
+   "path": "solutions/scientists/kastner/entropy.pdf",
+   "size": 238435
+  },
+  {
+   "path": "solutions/scientists/despagnat/DespagnatSciAm.pdf",
+   "size": 1556445
+  },
+  {
+   "path": "solutions/philosophers/sartre/Exist_Human.pdf",
+   "size": 2193826
+  },
+  {
+   "path": "solutions/philosophers/dennett/PresidentialAddressDennett.pdf",
+   "size": 65607
+  },
+  {
+   "path": "solutions/philosophers/quine/Quine_Existence_Necessity.pdf",
+   "size": 486002
+  },
+  {
+   "path": "solutions/philosophers/feigl/Feigl_Empiricism.pdf",
+   "size": 5674143
+  },
+  {
+   "path": "solutions/philosophers/strawsong/Strawson_JCS_Why_Panpsychism.pdf",
+   "size": 494572
+  },
+  {
+   "path": "solutions/philosophers/strawsong/against_narrativity.pdf",
+   "size": 109809
+  },
+  {
+   "path": "solutions/philosophers/strawsong/Realistic_Materialist_Monism.pdf",
+   "size": 208182
+  },
+  {
+   "path": "solutions/philosophers/strawsong/Impossibility.pdf",
+   "size": 1983641
+  },
+  {
+   "path": "solutions/philosophers/strawsong/Self.pdf",
+   "size": 265432
+  },
+  {
+   "path": "solutions/philosophers/kane/Cahn.pdf",
+   "size": 241331
+  },
+  {
+   "path": "solutions/philosophers/leibniz/leibniz1697b.pdf",
+   "size": 58170
+  },
+  {
+   "path": "solutions/philosophers/leibniz/Leibniz_Freedom.pdf",
+   "size": 1705585
+  },
+  {
+   "path": "solutions/philosophers/leibniz/Leibniz_Metaphysics.pdf",
+   "size": 738468
+  },
+  {
+   "path": "solutions/philosophers/leibniz/Leibniz_Necessary_Contingent.pdf",
+   "size": 2947704
+  },
+  {
+   "path": "solutions/philosophers/nagelt/Mind_Cosmos.pdf",
+   "size": 13285644
+  },
+  {
+   "path": "solutions/philosophers/nagelt/Panpsychism.pdf",
+   "size": 10047303
+  },
+  {
+   "path": "solutions/philosophers/nagelt/What_its_like.pdf",
+   "size": 7608011
+  },
+  {
+   "path": "solutions/philosophers/peirce/Peirce_Logic.pdf",
+   "size": 4475653
+  },
+  {
+   "path": "solutions/philosophers/peirce/Peirce_Logic1.pdf",
+   "size": 2538277
+  },
+  {
+   "path": "solutions/philosophers/peirce/Evolutionary_Love.pdf",
+   "size": 1691025
+  },
+  {
+   "path": "solutions/philosophers/peirce/Law_of_Mind.pdf",
+   "size": 1702177
+  },
+  {
+   "path": "solutions/philosophers/peirce/Peirce_Logic2.pdf",
+   "size": 919078
+  },
+  {
+   "path": "solutions/philosophers/black/Identity.pdf",
+   "size": 1420259
+  },
+  {
+   "path": "solutions/philosophers/ryle/Ryle_KnowHow.pdf",
+   "size": 483320
+  },
+  {
+   "path": "solutions/philosophers/chisholm/Mind-Body_Problem.pdf",
+   "size": 2045370
+  },
+  {
+   "path": "solutions/philosophers/chisholm/Knowledge_Belief.pdf",
+   "size": 1959223
+  },
+  {
+   "path": "solutions/philosophers/chisholm/Simplicity_Soul.pdf",
+   "size": 976882
+  },
+  {
+   "path": "solutions/philosophers/chisholm/Intentional_Primacy.pdf",
+   "size": 2010956
+  },
+  {
+   "path": "solutions/philosophers/chisholm/Identity_possible_worlds.pdf",
+   "size": 339586
+  },
+  {
+   "path": "solutions/philosophers/mctaggart/Unreality_Time.pdf",
+   "size": 999564
+  },
+  {
+   "path": "solutions/philosophers/weizsacker/Unity_of_Nature.pdf",
+   "size": 423034
+  },
+  {
+   "path": "solutions/philosophers/weizsacker/Matter_Energy__Information.pdf",
+   "size": 1722154
+  },
+  {
+   "path": "solutions/philosophers/weizsacker/Language_as_Information.pdf",
+   "size": 1485303
+  },
+  {
+   "path": "solutions/philosophers/frege/Frege_Begriffsschrift.pdf",
+   "size": 26748212
+  },
+  {
+   "path": "solutions/philosophers/frege/Frege_Sense_Reference.pdf",
+   "size": 452778
+  },
+  {
+   "path": "solutions/philosophers/mele/Mele_Lexicon.pdf",
+   "size": 3288523
+  },
+  {
+   "path": "solutions/philosophers/levine/Explanatory_Gap.pdf",
+   "size": 273406
+  },
+  {
+   "path": "solutions/philosophers/levine/LOWIL.pdf",
+   "size": 1525721
+  },
+  {
+   "path": "solutions/philosophers/levine/KWIL.pdf",
+   "size": 468658
+  },
+  {
+   "path": "solutions/philosophers/marcus/Barcan_Deduction.pdf",
+   "size": 506961
+  },
+  {
+   "path": "solutions/philosophers/marcus/Barcan_Calculus.pdf",
+   "size": 955736
+  },
+  {
+   "path": "solutions/philosophers/marcus/Barcan_Identity.pdf",
+   "size": 411260
+  },
+  {
+   "path": "solutions/philosophers/barrettw/banishing_consciousness.pdf",
+   "size": 1543477
+  },
+  {
+   "path": "solutions/philosophers/unger/Why_No_People.pdf",
+   "size": 2852079
+  },
+  {
+   "path": "solutions/philosophers/unger/Free_Will.pdf",
+   "size": 89188
+  },
+  {
+   "path": "solutions/philosophers/unger/Mental_Problem_of_Many.pdf",
+   "size": 143840
+  },
+  {
+   "path": "solutions/philosophers/mcginn/Mind-Body-MCGINN.pdf",
+   "size": 1082422
+  },
+  {
+   "path": "solutions/philosophers/whitehead/Auxier_Glossary.pdf",
+   "size": 20862898
+  },
+  {
+   "path": "solutions/philosophers/whitehead/SMW_ch_VI_Nineteenth_Century.pdf",
+   "size": 4306075
+  },
+  {
+   "path": "solutions/philosophers/wiggins/same_place_time.pdf",
+   "size": 197753
+  },
+  {
+   "path": "solutions/philosophers/wiggins/sameness_substance.pdf",
+   "size": 171322
+  },
+  {
+   "path": "solutions/philosophers/wiggins/identity.pdf",
+   "size": 3947397
+  },
+  {
+   "path": "solutions/philosophers/russell/Principia_Identity.pdf",
+   "size": 312644
+  },
+  {
+   "path": "solutions/philosophers/russell/History_of_Materialism.pdf",
+   "size": 5892598
+  },
+  {
+   "path": "solutions/philosophers/russell/Mind-1905-On_Denoting.pdf",
+   "size": 746941
+  },
+  {
+   "path": "solutions/philosophers/jackson/Mind_And_Illusion.pdf",
+   "size": 229723
+  },
+  {
+   "path": "solutions/philosophers/jackson/Epiphenomenal_Qualia.pdf",
+   "size": 711411
+  },
+  {
+   "path": "solutions/philosophers/chalmers/nature.pdf",
+   "size": 192093
+  },
+  {
+   "path": "solutions/philosophers/fine/Einstein_critique.pdf",
+   "size": 3409047
+  },
+  {
+   "path": "books/Free_Will_2016.pdf",
+   "size": 12764151
+  },
+  {
+   "path": "books/scandal/Separability.pdf",
+   "size": 676346
+  },
+  {
+   "path": "books/scandal/Standard_Argument.pdf",
+   "size": 868693
+  },
+  {
+   "path": "books/scandal/Mele.pdf",
+   "size": 677054
+  },
+  {
+   "path": "books/scandal/Index.pdf",
+   "size": 266013
+  },
+  {
+   "path": "books/scandal/What_If.pdf",
+   "size": 603537
+  },
+  {
+   "path": "books/scandal/Cogito.pdf",
+   "size": 945497
+  },
+  {
+   "path": "books/scandal/Physics.pdf",
+   "size": 2199921
+  },
+  {
+   "path": "books/scandal/Taxonomy.pdf",
+   "size": 1467433
+  },
+  {
+   "path": "books/scandal/Comprehensive_Compatibilism.pdf",
+   "size": 718574
+  },
+  {
+   "path": "books/scandal/Kane.pdf",
+   "size": 796709
+  },
+  {
+   "path": "books/scandal/Naturalism.pdf",
+   "size": 649263
+  },
+  {
+   "path": "books/scandal/Determinisms.pdf",
+   "size": 658260
+  },
+  {
+   "path": "books/scandal/Bibliography.pdf",
+   "size": 712209
+  },
+  {
+   "path": "books/scandal/Help_End.pdf",
+   "size": 750224
+  },
+  {
+   "path": "books/scandal/Front_Matter.pdf",
+   "size": 2154460
+  },
+  {
+   "path": "books/scandal/Objections.pdf",
+   "size": 735584
+  },
+  {
+   "path": "books/scandal/Two-Stage_Models.pdf",
+   "size": 738114
+  },
+  {
+   "path": "books/scandal/Scandal.pdf",
+   "size": 626075
+  },
+  {
+   "path": "books/scandal/Libertarianism.pdf",
+   "size": 595108
+  },
+  {
+   "path": "books/scandal/Moral_Responsibility.pdf",
+   "size": 631753
+  },
+  {
+   "path": "books/scandal/Compatibilism.pdf",
+   "size": 660173
+  },
+  {
+   "path": "books/scandal/Glossary.pdf",
+   "size": 833260
+  },
+  {
+   "path": "books/scandal/Requirements.pdf",
+   "size": 613888
+  },
+  {
+   "path": "books/scandal/Creativity.pdf",
+   "size": 603978
+  },
+  {
+   "path": "books/scandal/Dennett.pdf",
+   "size": 687625
+  },
+  {
+   "path": "books/scandal/History.pdf",
+   "size": 1095455
+  },
+  {
+   "path": "books/scandal/Introduction.pdf",
+   "size": 1103444
+  },
+  {
+   "path": "books/scandal/Actual.pdf",
+   "size": 949755
+  },
+  {
+   "path": "books/scandal/Problems.pdf",
+   "size": 637881
+  },
+  {
+   "path": "books/scandal/Freedom.pdf",
+   "size": 666185
+  },
+  {
+   "path": "books/scandal/Cosmic_Creation.pdf",
+   "size": 1182333
+  },
+  {
+   "path": "books/scandal/Covers.pdf",
+   "size": 1628159
+  },
+  {
+   "path": "books/scandal/Biology.pdf",
+   "size": 618672
+  },
+  {
+   "path": "books/scandal/Consciousness.pdf",
+   "size": 590589
+  },
+  {
+   "path": "books/scandal/Honderich.pdf",
+   "size": 687716
+  },
+  {
+   "path": "books/scandal/Preface.pdf",
+   "size": 620010
+  },
+  {
+   "path": "books/scandal/Neuroscience.pdf",
+   "size": 637774
+  },
+  {
+   "path": "books/problems/ERR.pdf",
+   "size": 860553
+  },
+  {
+   "path": "books/problems/Schrodinger.pdf",
+   "size": 651156
+  },
+  {
+   "path": "books/problems/Bibliography_Problems.pdf",
+   "size": 670381
+  },
+  {
+   "path": "books/problems/Index.pdf",
+   "size": 99875
+  },
+  {
+   "path": "books/problems/Entropy.pdf",
+   "size": 1204929
+  },
+  {
+   "path": "books/problems/Great_Problems.pdf",
+   "size": 19280231
+  },
+  {
+   "path": "books/problems/Decoherence.pdf",
+   "size": 774799
+  },
+  {
+   "path": "books/problems/Free_Will.pdf",
+   "size": 730899
+  },
+  {
+   "path": "books/problems/Irreversibility.pdf",
+   "size": 821569
+  },
+  {
+   "path": "books/problems/Biosemiotics.pdf",
+   "size": 579465
+  },
+  {
+   "path": "books/problems/Entanglement.pdf",
+   "size": 738164
+  },
+  {
+   "path": "books/problems/Measurement.pdf",
+   "size": 771195
+  },
+  {
+   "path": "books/problems/Induction.pdf",
+   "size": 575699
+  },
+  {
+   "path": "books/problems/Contents.pdf",
+   "size": 593089
+  },
+  {
+   "path": "books/problems/Metaphysics.pdf",
+   "size": 716820
+  },
+  {
+   "path": "books/problems/Good.pdf",
+   "size": 632643
+  },
+  {
+   "path": "books/problems/Meaning.pdf",
+   "size": 628757
+  },
+  {
+   "path": "books/problems/Info-Life.pdf",
+   "size": 946099
+  },
+  {
+   "path": "books/problems/Information.pdf",
+   "size": 819003
+  },
+  {
+   "path": "books/problems/Mind.pdf",
+   "size": 572357
+  },
+  {
+   "path": "books/problems/Collapse.pdf",
+   "size": 908795
+  },
+  {
+   "path": "books/problems/Introduction.pdf",
+   "size": 602309
+  },
+  {
+   "path": "books/problems/Recurrence.pdf",
+   "size": 554078
+  },
+  {
+   "path": "books/problems/Emergence.pdf",
+   "size": 645673
+  },
+  {
+   "path": "books/problems/Interpretation.pdf",
+   "size": 601128
+  },
+  {
+   "path": "books/problems/Mental_Causation.pdf",
+   "size": 771043
+  },
+  {
+   "path": "books/problems/Cosmic_Creation.pdf",
+   "size": 646936
+  },
+  {
+   "path": "books/problems/Epistemology.pdf",
+   "size": 617088
+  },
+  {
+   "path": "books/problems/Value.pdf",
+   "size": 589472
+  },
+  {
+   "path": "books/problems/Arrow_of_time.pdf",
+   "size": 697440
+  },
+  {
+   "path": "books/problems/Quantum_Physics.pdf",
+   "size": 693681
+  },
+  {
+   "path": "books/problems/Ontology.pdf",
+   "size": 577623
+  },
+  {
+   "path": "books/problems/Universals.pdf",
+   "size": 597417
+  },
+  {
+   "path": "books/problems/Consciousness.pdf",
+   "size": 566687
+  },
+  {
+   "path": "books/problems/Preface.pdf",
+   "size": 1128016
+  },
+  {
+   "path": "books/problems/Mind-Body.pdf",
+   "size": 669653
+  },
+  {
+   "path": "books/problems/God.pdf",
+   "size": 568826
+  },
+  {
+   "path": "books/problems/Determinism.pdf",
+   "size": 576437
+  },
+  {
+   "path": "books/problems/Chance.pdf",
+   "size": 627394
+  },
+  {
+   "path": "books/problems/Self.pdf",
+   "size": 1017155
+  },
+  {
+   "path": "books/einstein/Born.pdf",
+   "size": 770721
+  },
+  {
+   "path": "books/einstein/Nonseparability.pdf",
+   "size": 941855
+  },
+  {
+   "path": "books/einstein/Schrodinger.pdf",
+   "size": 859602
+  },
+  {
+   "path": "books/einstein/Field_Theory.pdf",
+   "size": 546836
+  },
+  {
+   "path": "books/einstein/Stat_Mech.pdf",
+   "size": 779824
+  },
+  {
+   "path": "books/einstein/index-february.pdf",
+   "size": 1084396
+  },
+  {
+   "path": "books/einstein/Copenhagen.pdf",
+   "size": 785921
+  },
+  {
+   "path": "books/einstein/BKS.pdf",
+   "size": 755793
+  },
+  {
+   "path": "books/einstein/Specific_Heat.pdf",
+   "size": 758376
+  },
+  {
+   "path": "books/einstein/Mistakes.pdf",
+   "size": 768574
+  },
+  {
+   "path": "books/einstein/Neumann_Measurement.pdf",
+   "size": 805031
+  },
+  {
+   "path": "books/einstein/Decoherence.pdf",
+   "size": 805150
+  },
+  {
+   "path": "books/einstein/Bohr_Atom.pdf",
+   "size": 273334
+  },
+  {
+   "path": "books/einstein/Irreversibility.pdf",
+   "size": 876933
+  },
+  {
+   "path": "books/einstein/Statistics.pdf",
+   "size": 539204
+  },
+  {
+   "path": "books/einstein/Entanglement.pdf",
+   "size": 1177034
+  },
+  {
+   "path": "books/einstein/Bibliography.pdf",
+   "size": 794877
+  },
+  {
+   "path": "books/einstein/Contents.pdf",
+   "size": 348345
+  },
+  {
+   "path": "books/einstein/Nobel_Prize.pdf",
+   "size": 880126
+  },
+  {
+   "path": "books/einstein/Dirac_Principles.pdf",
+   "size": 904442
+  },
+  {
+   "path": "books/einstein/I-Phi.pdf",
+   "size": 1031676
+  },
+  {
+   "path": "books/einstein/Transitions.pdf",
+   "size": 742662
+  },
+  {
+   "path": "books/einstein/Brownian-motion.pdf",
+   "size": 759814
+  },
+  {
+   "path": "books/einstein/Bohr_Complementarity.pdf",
+   "size": 767644
+  },
+  {
+   "path": "books/einstein/Einstein.pdf",
+   "size": 5174289
+  },
+  {
+   "path": "books/einstein/Bell.pdf",
+   "size": 1128383
+  },
+  {
+   "path": "books/einstein/Problems_Solved.pdf",
+   "size": 274245
+  },
+  {
+   "path": "books/einstein/Light.pdf",
+   "size": 1033083
+  },
+  {
+   "path": "books/einstein/Principles.pdf",
+   "size": 764102
+  },
+  {
+   "path": "books/einstein/DeBroglie.pdf",
+   "size": 760987
+  },
+  {
+   "path": "books/einstein/Matter.pdf",
+   "size": 801837
+  },
+  {
+   "path": "books/einstein/Nonlocality.pdf",
+   "size": 1127410
+  },
+  {
+   "path": "books/einstein/Bohm.pdf",
+   "size": 773557
+  },
+  {
+   "path": "books/einstein/EPR.pdf",
+   "size": 832486
+  },
+  {
+   "path": "books/einstein/Continuum.pdf",
+   "size": 753636
+  },
+  {
+   "path": "books/einstein/Everett.pdf",
+   "size": 794916
+  },
+  {
+   "path": "books/einstein/Bose.pdf",
+   "size": 240248
+  },
+  {
+   "path": "books/einstein/Quantum_Theory.pdf",
+   "size": 798620
+  },
+  {
+   "path": "books/einstein/Introduction.pdf",
+   "size": 869553
+  },
+  {
+   "path": "books/einstein/Cosmology.pdf",
+   "size": 244419
+  },
+  {
+   "path": "books/einstein/Feynman_Two_Slit.pdf",
+   "size": 1221195
+  },
+  {
+   "path": "books/einstein/Quantum_information.pdf",
+   "size": 755606
+  },
+  {
+   "path": "books/einstein/Objective_Reality.pdf",
+   "size": 742314
+  },
+  {
+   "path": "books/einstein/Matrix.pdf",
+   "size": 786939
+  },
+  {
+   "path": "books/einstein/Preface.pdf",
+   "size": 376688
+  },
+  {
+   "path": "books/einstein/Wave_Mechanics.pdf",
+   "size": 840997
+  },
+  {
+   "path": "books/einstein/Uncertainty.pdf",
+   "size": 835770
+  },
+  {
+   "path": "books/einstein/Chance.pdf",
+   "size": 915924
+  },
+  {
+   "path": "books/einstein/Wave-Particle.pdf",
+   "size": 708633
+  },
+  {
+   "path": "books/einstein/Light_Quantum.pdf",
+   "size": 800879
+  },
+  {
+   "path": "books/WWaF/WWAF3_Interactive_0417.pdf",
+   "size": 1198387
+  },
+  {
+   "path": "books/Einstein/Einstein.pdf",
+   "size": 5174289
+  },
+  {
+   "path": "introduction/biology/Waddington.pdf",
+   "size": 2952320
+  },
+  {
+   "path": "introduction/physics/Heisenberg_History_of_QT.pdf",
+   "size": 5688800
+  },
+  {
+   "path": "introduction/physics/Heisenberg_Copenhagen_Interpretation.pdf",
+   "size": 5949518
+  },
+  {
+   "path": "introduction/physics/Stapp_Copenhagen_Interpretation.pdf",
+   "size": 2933611
+  },
+  {
+   "path": "introduction/physics/interpretations/arxiv.1008.1066.pdf",
+   "size": 696093
+  }
+ ],
+ "images": [
+  "entanglement/H2_MO.jpeg",
+  "entanglement/common_cause/Alice-Bob.png",
+  "knowledge/images/DividedLine.png",
+  "knowledge/philosophers/armstrong/ArmstrongRegress.jpg",
+  "knowledge/ERR/Madeleine.png",
+  "life/biosemiotics/ERR.png",
+  "life/biosemiotics/TemporalSequence2a.png",
+  "life/biosemiotics/Free-Will.png",
+  "life/biosemiotics/TemporalSequence.png",
+  "life/biosemiotics/Eco.png",
+  "life/biosemiotics/Entropy-Expansion-Kelvin.gif",
+  "life/biosemiotics/entropy-expansion-Laplace.gif",
+  "life/biosemiotics/Downward-Causationo.png",
+  "life/biosemiotics/Jakobson.png",
+  "life/biosemiotics/three_worlds.png",
+  "life/biosemiotics/Big_Bang_Timeline400.png",
+  "life/biosemiotics/Sender-Receiver.png",
+  "life/biosemiotics/hemoglobin.png",
+  "life/biosemiotics/Growth_of_Info.png",
+  "life/biosemiotics/two-stage-note.png",
+  "life/biosemiotics/Peirce_Semiotics.png",
+  "life/biosemiotics/Cosmic-Creation.png",
+  "life/beyond/Noble.png",
+  "problems/entanglement/H2_MO.jpeg",
+  "problems/flatness/Gamow_Balloon.png",
+  "problems/flatness/Baade.png",
+  "problems/measurement/birefringence2.png",
+  "problems/measurement/birefringence1.png",
+  "problems/measurement/birefringence3.png",
+  "problems/measurement/birefringence.gif",
+  "mind/history/Descartes_Reflex.png",
+  "mind/ego/Descartes_Reflex.png",
+  "tractatus/Fencers.png",
+  "site/search/Google.gif",
+  "animations/Collapse_animation.gif",
+  "animations/Polarizers-03.gif",
+  "timelines/Images/UnprotectedSeries.gif",
+  "timelines/Images/hive.gif",
+  "Images/Einstein1909large.png",
+  "Images/NASA-AMB.png",
+  "images/Two-Stage-Taxonomy-Cogito.gif",
+  "images/nanoSky.gif",
+  "images/Sun-Earth_photons.png",
+  "images/TemporalSequence2.gif",
+  "images/Cosmic_Density.png",
+  "images/I-PhiBalls.png",
+  "images/Taxonomy.gif",
+  "images/CMB.png",
+  "images/Collision.png",
+  "images/Facebook3.png",
+  "images/TemporalSequenceKane.png",
+  "images/Photoelectric.png",
+  "images/I-Phi_Banner.png",
+  "images/ArrowRight.gif",
+  "images/citric_acid_cycle.png",
+  "images/BobHighAngle.jpg",
+  "images/Planck_Laws.png",
+  "images/Maxwell_Boltzmann.png",
+  "images/Foerster_2ndCybernetics.png",
+  "images/FourBooks.png",
+  "images/Indeterminism-Taxo500.gif",
+  "images/Hamamatsu_horizontal.jpg",
+  "images/3colorballs.gif",
+  "images/bacteriotaxis.png",
+  "images/entropy-expansion-Kelvin.gif",
+  "images/PerfumeTryptych.gif",
+  "images/TemporalSequence.gif",
+  "images/Hamamatsu_vertical.jpg",
+  "images/Maxwell-Boltzmann.png",
+  "images/white.gif",
+  "images/Planck_law.png",
+  "images/Cat.jpg",
+  "images/Calvin-cycle.png",
+  "images/Consequence.gif",
+  "images/CC.png",
+  "images/entropy-expansion-Laplace.gif",
+  "images/BYTE.png",
+  "images/PSI-Brain.png",
+  "images/Big_Bang_Timeline400.png",
+  "images/ThinkAgain.gif",
+  "images/wave-packet.png",
+  "images/Determinism-Taxo600.gif",
+  "images/WordPress.png",
+  "images/TemporalSequence5.png",
+  "images/Photoeffect.png",
+  "images/clear.gif",
+  "images/TemporalSequenceThinkCircumstances.png",
+  "images/hemoglobin.png",
+  "images/Vectors45.png",
+  "images/BoltzmannFig1.png",
+  "images/Growth_of_Info.png",
+  "images/Indeterminism-Taxo.gif",
+  "images/ASTRA.png",
+  "images/Wheeler_Self_Circuit.png",
+  "images/TemporalSequenceStandard.png",
+  "images/preferred_animation.gif",
+  "images/ArrowLeft.gif",
+  "images/YouTubeX.png",
+  "images/Bohm_Hiley_Two-Slit.png",
+  "images/compton_effect.jpg",
+  "images/entropy-expansion-Layzer.gif",
+  "images/Determinism-Taxo400.gif",
+  "images/Big_Bang_Timeline.png",
+  "images/dna_video_thumbnails/DNA_Restriction_thumb_nohover.png",
+  "images/dna_video_thumbnails/DNA_Transcription_thumb_nohover.png",
+  "images/dna_video_thumbnails/DNA_Translation_thumb_nohover.png",
+  "images/animations/3CollisionsSlow.gif",
+  "images/animations/images/PerfumeBottleGrid.gif",
+  "images/entropy/Sun-Earth_photons.png",
+  "images/entropy/CosmosText.png",
+  "images/entropy/Sun-Earth-photons.png",
+  "images/entropy/HumanText.png",
+  "images/entropy/Cosmos.png",
+  "images/entropy/LifeText.png",
+  "images/entropy/FlowText.png",
+  "images/entropy/SolarText.png",
+  "images/entropy/Titles/Solar.png",
+  "images/entropy/Titles/Life.png",
+  "images/entropy/Titles/Cosmos.png",
+  "images/entropy/Titles/InfoFlow.png",
+  "images/entropy/Titles/Human.png",
+  "images/logic/Wittgenstein.png",
+  "images/logic/Peirce.png",
+  "images/logic/Chrysippus.png",
+  "images/logic/Aristotle.png",
+  "images/logic/Aquinas.png",
+  "lectures/MP2.png",
+  "lectures/AE1.png",
+  "lectures/MP1.png",
+  "lectures/PS7.png",
+  "lectures/GP4.png",
+  "lectures/PS9.png",
+  "lectures/Video_Anim.gif",
+  "lectures/FW1.png",
+  "lectures/MP10.png",
+  "lectures/PS6.png",
+  "lectures/AE7.png",
+  "lectures/FW3.png",
+  "lectures/FW8.png",
+  "lectures/FW4.png",
+  "lectures/FW2.png",
+  "lectures/MP7.png",
+  "lectures/FW7.png",
+  "lectures/AE8.png",
+  "lectures/FW5.png",
+  "lectures/PS8.png",
+  "lectures/MP9.png",
+  "lectures/AE3.png",
+  "lectures/PS3.png",
+  "lectures/FW9.png",
+  "lectures/AE2.png",
+  "lectures/GP10.png",
+  "lectures/PS2.png",
+  "lectures/PS10.png",
+  "lectures/GP8.png",
+  "lectures/AE4.png",
+  "lectures/PS4.png",
+  "lectures/MP5.png",
+  "lectures/MP8.png",
+  "lectures/AE9.png",
+  "lectures/MP6.png",
+  "lectures/GP2.png",
+  "lectures/GP3.png",
+  "lectures/GP1.png",
+  "lectures/GP9.png",
+  "lectures/AE6.png",
+  "lectures/GP5.png",
+  "lectures/MP4.png",
+  "lectures/MP3.png",
+  "lectures/FW6.png",
+  "lectures/AE10.png",
+  "lectures/AE5.png",
+  "lectures/PS5.png",
+  "lectures/PS1.png",
+  "lectures/FW10.png",
+  "help/Wikipedia.png",
+  "presentations/Biosemiotics/images/Jakobson2.png",
+  "presentations/Biosemiotics/images/Cajal.png",
+  "presentations/biosemiotics/images/jakobson1.png",
+  "presentations/biosemiotics/images/Jakobson.png",
+  "presentations/Milan/mental_causation/avvenire.png",
+  "presentations/Milan/mental_causation/images/Thyssen.png",
+  "presentations/Milan/mental_causation/images/Univ_Catt.png",
+  "presentations/Evo_Devo_CCS/Solar_Earth_photons.png",
+  "presentations/Evo_Devo_CCS/Growth_of_Info.png",
+  "about/MicroterminalITT.png",
+  "about/Microterminal.png",
+  "about/Billion-Dollar.png",
+  "about/Steve_Jobs_Letter.png",
+  "about/Skylab_Flag.png",
+  "about/MicroTennis.png",
+  "periodic_table/Periodic Table.png",
+  "periodic_table/Periodic Table_Janet.png",
+  "periodic_table/Madelung.png",
+  "Lectures/Video_Anim.gif",
+  "quantum/hidden_constant/Cover_Entanglement.png",
+  "quantum/hidden_constant/Hidden_Constant_Same0.png",
+  "quantum/hidden_constant/Hidden_Constant_Same45.png",
+  "quantum/hidden_constant/Hidden_Constant_Different45.png",
+  "quantum/collapse/Still-2.png",
+  "quantum/collapse/Anim-1-2.gif",
+  "quantum/collapse/Substructure.png",
+  "quantum/collapse/Still-1.png",
+  "quantum/collapse/Collapse_animation.gif",
+  "quantum/collapse/Double-slit.png",
+  "solutions/scintists/bell/Bell_LHV_Quantum.png",
+  "solutions/scintists/bell/LHV-Quantum.png",
+  "solutions/scientist/bell/LHV-Quantum_PR.png",
+  "solutions/scientist/bell/Bell_LHV_Quantum.png",
+  "solutions/scientist/bell/LHV-Quantum.png",
+  "solutions/scientists/calvinw/Calvin_Major_Transitions.png",
+  "solutions/scientists/suarez/Suarez_interferometer.png",
+  "solutions/scientists/einstein/Einstein1927.png",
+  "solutions/scientists/einstein/Anim-1-2-paths.gif",
+  "solutions/scientists/einstein/Einstein.png",
+  "solutions/scientists/einstein/Two-2-slits.png",
+  "solutions/scientists/seung/Connectome.png",
+  "solutions/scientists/images/Binomial_Theorem.gif",
+  "solutions/scientists/images/Normal_Errors_CLT.gif",
+  "solutions/scientists/images/Normal_Binomial.gif",
+  "solutions/scientists/images/Normal_Random.gif",
+  "solutions/scientists/images/Normal_Binomial_Errors.gif",
+  "solutions/scientists/images/Bell_Curve_Layers_500.gif",
+  "solutions/scientists/mermin/Apparatus.png",
+  "solutions/scientists/mermin/Mermin_Data.png",
+  "solutions/scientists/rosenblatt/Rosenblatt_Layers.png",
+  "solutions/scientists/davies/Davies_Heat_Death.png",
+  "solutions/scientists/stachel/Hydrogen_levels.png",
+  "solutions/scientists/rothstein/rothstein.png",
+  "solutions/scientists/laplace/entropy-expansion-Laplace.gif",
+  "solutions/scientists/chaisson/Animals.jpg",
+  "solutions/scientists/chaisson/Cosmic_Evolution.jpg",
+  "solutions/scientists/chaisson/Stars.jpg",
+  "solutions/scientists/chaisson/Metric.jpg",
+  "solutions/scientists/chaisson/Humans.jpg",
+  "solutions/scientists/chaisson/Plants.jpg",
+  "solutions/scientists/chaisson/society.jpg",
+  "solutions/scientists/chaisson/Galaxies.jpg",
+  "solutions/scientists/de_moivre/De_moivre-laplace.gif",
+  "solutions/scientists/thomson/Entropy-Expansion-Kelvin.gif",
+  "solutions/scientists/gibbs/Pressure_Volume.png",
+  "solutions/scientists/gibbs/Entropy_Temperature_Carnot.png",
+  "solutions/scientists/gibbs/Gibbs_Entropy.png",
+  "solutions/scientists/solomonoff/AI_1956.jpg",
+  "solutions/scientists/dobzhansky/Dobzhansky.png",
+  "solutions/scientists/penfield/homunculus.png",
+  "solutions/scientists/penfield/James_Edinger.png",
+  "solutions/scientists/libet/Libet_diagram.png",
+  "solutions/scientists/libet/LibetRPotential.png",
+  "solutions/scientists/libet/SMA.jpg",
+  "solutions/scientists/libet/Libet_Clock.gif",
+  "solutions/scientists/libet/LibetExperiment.png",
+  "solutions/scientists/ghirardi/Bell_Shifty_Split.png",
+  "solutions/scientists/ghirardi/birefringent_crystals.png",
+  "solutions/scientists/ghirardi/apparatus.png",
+  "solutions/scientists/ghirardi/photon-apparatus-superposition.png",
+  "solutions/scientists/landauer/Logic_Gates.jpg",
+  "solutions/scientists/landauer/Tiny_Link.jpg",
+  "solutions/scientists/landauer/Ideal_Balls.jpg",
+  "solutions/scientists/reif/Reif_Book_Covers.png",
+  "solutions/scientists/bell/Bell76.png",
+  "solutions/scientists/bell/LHV-Quantum-PR_norm1.png",
+  "solutions/scientists/bell/Bell_Shifty_Split_Information.png",
+  "solutions/scientists/bell/Bell_CHSH.png",
+  "solutions/scientists/bell/inequality_video/Shimony.jpg",
+  "solutions/scientists/ehrenfest/Ehrenfest.png",
+  "solutions/scientists/compton/Compton.jpg",
+  "solutions/scientists/bohr/images/Bohr-Einstein-1.jpg",
+  "solutions/scientists/klemm/will.png",
+  "solutions/scientists/calvin/Table.png",
+  "solutions/scientists/clausius/Clausius.png",
+  "solutions/scientists/penrose/Andromeda_Paradox.png",
+  "solutions/scientists/gomes/Gomes.jpg",
+  "solutions/scientists/heisenbergm/flagella_open_anim.gif",
+  "solutions/scientists/heisenbergm/flagella_closed_anim.gif",
+  "solutions/scientists/woese/tree_of_life.png",
+  "solutions/scientists/woese/Peptide_synthesis.png",
+  "solutions/scientists/barandes/Barandes_SpaceTime.png",
+  "solutions/scientists/layzer/Cosmogenesis.png",
+  "solutions/scientists/layzer/front-cover.png",
+  "solutions/scientists/layzer/Layzer_Reactions.png",
+  "solutions/scientists/layzer/entropy-expansion-Layzer.gif",
+  "solutions/scientists/layzer/growth_of_order/order_generating_processes.png",
+  "solutions/scientists/layzer/growth_of_order/rates.jpg",
+  "solutions/scientists/layzer/growth_of_order/Perfume.jpg",
+  "solutions/scientists/layzer/growth_of_order/chaisson.jpg",
+  "solutions/scientists/boltzmann/images/BoltzmannFig2.png",
+  "solutions/scientists/thims/Human_Molecule.png",
+  "solutions/scientists/thims/Human_Molecule_Book.png",
+  "solutions/scientists/baade/Nebula_Orion.jpeg",
+  "solutions/scientists/baade/Nebula_Crab.jpeg",
+  "solutions/scientists/briegel/Briegel_clips.png",
+  "solutions/scientists/eccles/Eccles29.jpg",
+  "solutions/scientists/eccles/Eccles28.jpg",
+  "solutions/scientists/gazzaniga/Gazzaniga.jpg",
+  "solutions/scientists/norsen/bell-norsen3.png",
+  "solutions/scientists/norsen/Bell_Norsen4.png",
+  "solutions/scientists/shannon/comm_diagram.png",
+  "solutions/scientists/shannon/choices.png",
+  "solutions/scientists/despagnat/dEspagnat_Data.png",
+  "solutions/experiments/wave-function_collapse/Muybridge.png",
+  "solutions/experiments/wave-function_collapse/Collapse_animation.gif",
+  "solutions/experiments/wave-function_collapse/Double-slit.png",
+  "solutions/experiments/schrodingerscat/images/Decay_cat.gif",
+  "solutions/experiments/schrodingerscat/images/Super_cat.gif",
+  "solutions/experiments/schrodingerscat/images/Super75_cat.gif",
+  "solutions/experiments/schrodingerscat/images/Super25_cat.gif",
+  "solutions/experiments/EPR/EPR-1.png",
+  "solutions/experiments/EPR/EPR-3.png",
+  "solutions/experiments/EPR/EPR-asymmetric.gif",
+  "solutions/experiments/EPR/EPR-4.png",
+  "solutions/experiments/EPR/Putnam_Rietdijk.png",
+  "solutions/experiments/EPR/EPR-collapse.gif",
+  "solutions/experiments/EPR/EPR-2.png",
+  "solutions/experiments/two-slit_experiment/One-Two.png",
+  "solutions/experiments/two-slit_experiment/Young_Two-slit.png",
+  "solutions/experiments/two-slit_experiment/Anim-1-2-paths.gif",
+  "solutions/experiments/two-slit_experiment/Anim-1-2-paths_slow.gif",
+  "solutions/experiments/two-slit_experiment/Intensity-1s.png",
+  "solutions/experiments/two-slit_experiment/Single-slit.png",
+  "solutions/experiments/two-slit_experiment/Double-slit-sum.png",
+  "solutions/experiments/two-slit_experiment/Anim-1-2-dot2.gif",
+  "solutions/experiments/two-slit_experiment/One-slit-intensity.png",
+  "solutions/experiments/two-slit_experiment/Intensity-2ss.png",
+  "solutions/experiments/two-slit_experiment/Double-slit.png",
+  "solutions/experiments/heisenberg_microscope/microscope.aip.gif",
+  "solutions/experiments/dirac_3-polarizers/Vectors.png",
+  "solutions/experiments/dirac_3-polarizers/Pol-BxC45.png",
+  "solutions/experiments/dirac_3-polarizers/Pol-AB.png",
+  "solutions/experiments/dirac_3-polarizers/Pol-ABC.png",
+  "solutions/experiments/dirac_3-polarizers/Pol-AxBxC45_perspective.png",
+  "solutions/experiments/dirac_3-polarizers/Pol-AxB.png",
+  "solutions/experiments/dirac_3-polarizers/Vectors45.png",
+  "solutions/experiments/dirac_3-polarizers/Pol-AxBcC45.png",
+  "solutions/experiments/dirac_3-polarizers/Pol-AxC45.png",
+  "solutions/philosophers/dennett/dennett.jpg",
+  "solutions/philosophers/earman/NewYorker.jpg",
+  "solutions/philosophers/descartes/descartes.png",
+  "solutions/philosophers/kane/Incompatibilism_Mountain.gif",
+  "solutions/philosophers/kane/kane_bubble.jpg",
+  "solutions/philosophers/kane/Kane_Bubble2.gif",
+  "solutions/philosophers/kane/Kane.jpg",
+  "solutions/philosophers/kane/Kane_Bubble.gif",
+  "solutions/philosophers/putnam/Putnam_simultaneity.png",
+  "solutions/philosophers/neville/Occasion_Space_Time.png",
+  "solutions/philosophers/peirce/Peirce_Pop_Sci.jpg",
+  "solutions/philosophers/peirce/Peirce.jpg",
+  "solutions/philosophers/butterfield/Butterfield_Common_Cause.png",
+  "solutions/philosophers/james/James.jpg",
+  "solutions/philosophers/boyd/Boyd_STPI.png",
+  "solutions/philosophers/boyd/Boyd_rgb.png",
+  "solutions/philosophers/searle/Searle.png",
+  "solutions/philosophers/whitehead/photo.jpeg",
+  "solutions/philosophers/whitehead/WhiteheadDiagram.png",
+  "solutions/philosophers/pears/Pears.jpg",
+  "solutions/philosophers/kim/kim_jaegwon.jpg",
+  "institute/Back_front.jpg",
+  "institute/Studio-Front.jpg",
+  "institute/Studio-Back-Window.jpg",
+  "institute/Studio-Front-Window.jpg",
+  "institute/Screening_archive.jpg",
+  "institute/Front_back.jpg",
+  "institute/Workshop.jpg",
+  "institute/Studio-Back.jpg",
+  "institute/3D-Garages_HD.png",
+  "institute/Tesla.png",
+  "institute/Front_office.jpg",
+  "institute/Studio-Panorama.jpg",
+  "institute/Outline_Building.png",
+  "institute/plans/Renovated9_Basement.png",
+  "scandals/Oxy-Hemoglobin-Average.png",
+  "scandals/Oxy-Hemoglobin-BlurX.png",
+  "scandals/Oxy-Hemoglobin.png",
+  "books/scandal/Taxonomy.png",
+  "books/scandal/Objections.png",
+  "books/scandal/Neuroscience.png",
+  "books/scandal/Cogito.png",
+  "books/scandal/Compatibilism.png",
+  "books/scandal/Honderich.png",
+  "books/scandal/Freedom.png",
+  "books/scandal/Introduction.png",
+  "books/scandal/Scandal.png",
+  "books/scandal/History.png",
+  "books/scandal/Kindle-iPad.png",
+  "books/scandal/Free_Will_Scandal_Book.png",
+  "books/scandal/Bibliography.png",
+  "books/scandal/Creativity.png",
+  "books/scandal/Separability.png",
+  "books/scandal/Two-Stage_Models.png",
+  "books/scandal/Physics.png",
+  "books/scandal/Mele.png",
+  "books/scandal/Dennett.png",
+  "books/scandal/Biology.png",
+  "books/scandal/Cosmic_Creation.png",
+  "books/scandal/Determinisms.png",
+  "books/scandal/Standard_Argument.png",
+  "books/scandal/Actual.png",
+  "books/scandal/Moral_Responsibility.png",
+  "books/scandal/Requirements.png",
+  "books/scandal/Libertarianism.png",
+  "books/scandal/Glossary.png",
+  "books/scandal/Front_Matter.png",
+  "books/scandal/Kane.png",
+  "books/scandal/Preface.png",
+  "books/scandal/What_If.png",
+  "books/scandal/Help_End.png",
+  "books/scandal/Index.png",
+  "books/scandal/Consciousness.png",
+  "books/scandal/Comprehensive_Compatibilism.png",
+  "books/scandal/Problems.png",
+  "books/scandal/Covers.png",
+  "books/scandal/Naturalism.png",
+  "books/problems/Measurement.png",
+  "books/problems/ERR.png",
+  "books/problems/Entropy.png",
+  "books/problems/Interpretation.png",
+  "books/problems/Induction.png",
+  "books/problems/Introduction.png",
+  "books/problems/Chance.png",
+  "books/problems/Contents.png",
+  "books/problems/Epistemology.png",
+  "books/problems/Good.png",
+  "books/problems/Decoherence.png",
+  "books/problems/Metaphysics.png",
+  "books/problems/Mind.png",
+  "books/problems/Value.png",
+  "books/problems/Biosemiotics.png",
+  "books/problems/Entanglement.png",
+  "books/problems/Cosmic_Creation.png",
+  "books/problems/Cover_Problems5.png",
+  "books/problems/Mind-Body.png",
+  "books/problems/Recurrence.png",
+  "books/problems/Schrodinger.png",
+  "books/problems/Determinism.png",
+  "books/problems/Mental_Causation.png",
+  "books/problems/Arrow_of_time.png",
+  "books/problems/Ontology.png",
+  "books/problems/Self.png",
+  "books/problems/Quantum_Physics.png",
+  "books/problems/Free_Will.png",
+  "books/problems/Meaning.png",
+  "books/problems/Irreversibility.png",
+  "books/problems/Information.png",
+  "books/problems/Preface.png",
+  "books/problems/Bibliography_Problems.png",
+  "books/problems/Emergence.png",
+  "books/problems/Problems_Book.png",
+  "books/problems/Index.png",
+  "books/problems/God.png",
+  "books/problems/Collapse.png",
+  "books/problems/Info-Life.png",
+  "books/problems/Consciousness.png",
+  "books/problems/Universals.png",
+  "books/einstein/Statistics.png",
+  "books/einstein/EPR.png",
+  "books/einstein/Chance.png",
+  "books/einstein/Contents.png",
+  "books/einstein/Quantum_information.png",
+  "books/einstein/Transitions.png",
+  "books/einstein/index-another.png",
+  "books/einstein/Wave_Mechanics.png",
+  "books/einstein/I-Phi.png",
+  "books/einstein/Everett.png",
+  "books/einstein/Feynman_Two_Slit.png",
+  "books/einstein/Bibliography.png",
+  "books/einstein/Bohr_Complementarity.png",
+  "books/einstein/Matter.png",
+  "books/einstein/Specific_Heat2.png",
+  "books/einstein/Decoherence.png",
+  "books/einstein/Introduction2.png",
+  "books/einstein/Nobel_Prize.png",
+  "books/einstein/Matrix.png",
+  "books/einstein/Entanglement.png",
+  "books/einstein/Cosmology.png",
+  "books/einstein/Nonlocality.png",
+  "books/einstein/Mistakes.png",
+  "books/einstein/Brownian-motion.png",
+  "books/einstein/Neumann_Measurement.png",
+  "books/einstein/Bell.png",
+  "books/einstein/Light_Quantum.png",
+  "books/einstein/Wave-Particle.png",
+  "books/einstein/Light.png",
+  "books/einstein/BKS.png",
+  "books/einstein/Schrodinger.png",
+  "books/einstein/DeBroglie.png",
+  "books/einstein/Cover_Einstein_2019.png",
+  "books/einstein/Born.png",
+  "books/einstein/Nonseparability.png",
+  "books/einstein/Copenhagen.png",
+  "books/einstein/Problems_Solved.png",
+  "books/einstein/Dirac_Principles.png",
+  "books/einstein/Quantum_Theory.png",
+  "books/einstein/Continuum.png",
+  "books/einstein/Bohm.png",
+  "books/einstein/Irreversibility.png",
+  "books/einstein/Preface.png",
+  "books/einstein/Bose.png",
+  "books/einstein/Principles.png",
+  "books/einstein/Objective_Reality.png",
+  "books/einstein/Field_Theory.png",
+  "books/einstein/Bohr_Atom.png",
+  "books/einstein/Uncertainty.png",
+  "books/WWaF/front-cover.jpg",
+  "introduction/creation/Entropy.png",
+  "introduction/information/Growth_of_info.png",
+  "introduction/information/entropy-expansion.gif",
+  "introduction/physics/Yin_yang.png",
+  "introduction/physics/wave_particle_1909.png",
+  "introduction/physics/images/MaxwellBoltzmann.gif",
+  "introduction/physics/images/Planck_law.gif",
+  "introduction/physics/images/PerfumeBottleGrid.gif",
+  "freedom/No_Free_Will.png",
+  "freedom/biology/flagella_open_anim.gif",
+  "freedom/biology/flagella_closed_anim.gif",
+  "freedom/images/Determinism-Taxonomy-23.gif",
+  "freedom/images/FWMR_Separability.gif",
+  "freedom/images/Entropy-Expansion-Kelvin.gif",
+  "freedom/images/entropy-expansion-Laplace.gif",
+  "freedom/images/Two-Stage-Taxonomy-25.gif",
+  "freedom/images/Special-Relativity.png",
+  "freedom/images/Indeterminism-Taxonomy-23.gif",
+  "freedom/images/Entropy-Expansion-Layzer.gif"
+ ],
+ "errors": [
+  "quantum.html",
+  "index.60.en.html",
+  "index.16.en.html",
+  "index.46.en.html",
+  "life.html",
+  "index.59.en.html",
+  "index.45.en.html",
+  "index.26.en.html",
+  "index.54.en.html",
+  "index.html",
+  "index.50.en.html",
+  "index.34.en.html",
+  "index.71.en.html",
+  "content.html",
+  "index.6.en.html",
+  "index.66.en.html",
+  "index.15.en.html",
+  "index.43.en.html",
+  "index.21.en.html",
+  "chance.html",
+  "index.3.en.html",
+  "index.11.en.html",
+  "index.67.en.html",
+  "index.58.en.html",
+  "index.12.en.html",
+  "index.7.en.html",
+  "index.25.en.html",
+  "index.5.en.html",
+  "index.32.en.html",
+  "index.8.en.html",
+  "index.56.en.html",
+  "index.13.en.html",
+  "index.69.en.html",
+  "index.23.en.html",
+  "index.1.en.html",
+  "index.parc.html",
+  "index.51.en.html",
+  "index.10.en.html",
+  "index.57.en.html",
+  "index.36.en.html",
+  "index.28.en.html",
+  "index.17.en.html",
+  "index.64.en.html",
+  "index.20.en.html",
+  "knowledge.html",
+  "scandals.html",
+  "mind.html",
+  "index.33.en.html",
+  "index.29.en.html",
+  "index.37.en.html",
+  "index.52.en.html",
+  "index.62.en.html",
+  "index.47.en.html",
+  "index.63.en.html",
+  "freedom.html",
+  "index.42.en.html",
+  "index.55.en.html",
+  "index.65.en.html",
+  "index.70.en.html",
+  "index.2.en.html",
+  "index.40.en.html",
+  "index.9.en.html",
+  "index.14.en.html",
+  "value.html",
+  "index.30.en.html",
+  "index.44.en.html",
+  "index.20040706175712.html",
+  "index.48.en.html",
+  "index.4.en.html",
+  "index.61.en.html",
+  "index.72.en.html",
+  "index.24.en.html",
+  "index.38.en.html",
+  "lectures.html",
+  "index.53.en.html",
+  "index.41.en.html",
+  "index.18.en.html",
+  "index.68.en.html",
+  "index.39.en.html",
+  "index.35.en.html",
+  "index.31.en.html",
+  "index.19.en.html",
+  "index.49.en.html",
+  "entanglement/index.html",
+  "entanglement/spooky.html",
+  "entanglement/common_cause.html",
+  "entanglement/polytope/index.html",
+  "entanglement/spherical/index.html",
+  "entanglement/spooky/index.html",
+  "entanglement/hidden_variables/index.html",
+  "entanglement/common_causet/index.html",
+  "entanglement/common_cause/index.html",
+  "solutons/scientists/schrodinger/index.html",
+  "solutons/scientists/einstein/index.html",
+  "articles/index.html",
+  "articles/postmodernism.html",
+  "articles/ideal_classical_quantum_gas/index.html",
+  "articles/illusion_of_determinism/index.html",
+  "articles/chaos/index.html",
+  "Freedom/index.html",
+  "Freedom/indeterminism.html",
+  "Freedom/responsibility.html",
+  "foreword/index.html",
+  "knowledge/inter-subjectivism.html",
+  "knowledge/skepticism.html",
+  "knowledge/analytic_synthetic.html",
+  "knowledge/correspondence.html",
+  "knowledge/circularity.html",
+  "knowledge/ERR.html",
+  "knowledge/index.html",
+  "knowledge/abduction.html",
+  "knowledge/belief.html",
+  "knowledge/necessity.html",
+  "knowledge/intension_extension.html",
+  "knowledge/chance.html",
+  "knowledge/verification.html",
+  "knowledge/possibile_worlds.html",
+  "knowledge/measurement.html",
+  "knowledge/realism.html",
+  "knowledge/schrodinger_cat.html",
+  "knowledge/identity_theory.html",
+  "knowledge/decoherence.html",
+  "knowledge/reliabiiism.html",
+  "knowledge/probability.html",
+  "knowledge/mental_causation.html",
+  "knowledge/induction.html",
+  "knowledge/materialism.html",
+  "knowledge/emergent_determinism.html",
+  "knowledge/naturalism.html",
+  "knowledge/downward_causation.html",
+  "knowledge/information.html",
+  "knowledge/possible_worlds.html",
+  "knowledge/certainty.html",
+  "knowledge/emergence.html",
+  "knowledge/redutionism.html",
+  "knowledge/meaning.html",
+  "knowledge/externalism.html",
+  "knowledge/coherence.html",
+  "knowledge/divided_line.html",
+  "knowledge/causality.html",
+  "knowledge/multiple_realizability.html",
+  "knowledge/emergent_dualism.html",
+  "knowledge/internalism.html",
+  "knowledge/problem.html",
+  "knowledge/best_explanation.html",
+  "knowledge/foundationalism.html",
+  "knowledge/a_priori.html",
+  "knowledge/gettier_problem.html",
+  "knowledge/universals.html",
+  "knowledge/truth.html",
+  "knowledge/infinite_regress.html",
+  "knowledge/history.html",
+  "knowledge/sum.html",
+  "knowledge/reliabilism.html",
+  "knowledge/supervenience.html",
+  "knowledge/biology/index.html",
+  "knowledge/meaning/index.html",
+  "knowledge/err/index.html",
+  "knowledge/EPR/index.html",
+  "knowledge/history/index.html",
+  "knowledge/providence/index.html",
+  "knowledge/complexity/index.html",
+  "knowledge/complexity/history.html",
+  "knowledge/complexity/history/index.html",
+  "knowledge/reductionism/index.html",
+  "knowledge/correspondence/html.html",
+  "knowledge/sum/index.html",
+  "knowledge/ergosum/index.html",
+  "knowledge/measurement/index.html",
+  "knowledge/representation/index.html",
+  "knowledge/reductionism.html/index.html",
+  "knowledge/physics/index.html",
+  "knowledge/problem/index.html",
+  "knowledge/belief/index.html",
+  "knowledge/justification.html/%22);%09document.write(location.href);%09document.write(%22.html",
+  "knowledge/justification.html/index.html",
+  "knowledge/demarcation/index.html",
+  "knowledge/cosmology/index.html",
+  "knowledge/arrow_of_time/index.html",
+  "knowledge/philosophers/gettier.html",
+  "knowledge/philosophers/audi.html",
+  "knowledge/philosophers/alston.html",
+  "knowledge/philosophers/armstrong.html",
+  "knowledge/philosophers/dretske.html",
+  "knowledge/philosophers/ramsey.html",
+  "knowledge/philosophers/dretske/index.html",
+  "knowledge/philosophers/audi/index.html",
+  "knowledge/philosophers/armstrong/index.html",
+  "knowledge/philosophers/harman/index.html",
+  "knowledge/philosophers/bonjour/index.html",
+  "knowledge/philosophers/alston/index.html",
+  "knowledge/philosophers/carnap/index.html",
+  "knowledge/philosophers/ramsey/index.html",
+  "knowledge/philosophers/goldman/index.html",
+  "knowledge/philosophers/lewis/index.html",
+  "knowledge/philosophers/lewis/Pragmatic_a_priori.html",
+  "knowledge/philosophers/sellars/index.html",
+  "knowledge/philosophers/lewes/index.html",
+  "knowledge/philosophers/kornblith/index.html",
+  "knowledge/truth/index.html",
+  "knowledge/ERR/index.html",
+  "life/index.html",
+  "life/teleonomy.html",
+  "life/biosphere.html",
+  "life/universal_darwinism.html",
+  "life/%22.html",
+  "life/entropy.html",
+  "life/entelechy.html",
+  "life/universal_darwinism/index.html",
+  "life/meaning/index.html",
+  "life/entelechy/index.html",
+  "life/epigenetics/index.html",
+  "life/gaia/index.html",
+  "life/complexity/index.html",
+  "life/reductionism/index.html",
+  "life/design/index.html",
+  "life/biosemiotics/index.html",
+  "life/vitalism/index.html",
+  "life/entropy/index.html",
+  "life/origins/index.html",
+  "life/biosphere/index.html",
+  "life/reverence/index.html",
+  "life/beyond/index.html",
+  "life/autopoesis/index.html",
+  "life/foal/index.html",
+  "life/teleonomy/index.html",
+  "life/goal/index.html",
+  "life/agency/index.html",
+  "life/definition/index.html",
+  "life/emergence/index.html",
+  "presentation/biosemiotics/index.html",
+  "Value/ergodic.html",
+  "problems/evil.html",
+  "problems/index.html",
+  "problems/nonseparability.html",
+  "problems/measurement.html",
+  "problems/other_minds.html",
+  "problems/arrow_of_time.html",
+  "problems/reversibility.html",
+  "problems/mind-body.html",
+  "problems/determinism.html",
+  "problems/cosmology.html",
+  "problems/entanglement.html",
+  "problems/one_or_many.html",
+  "problems/recurrence.html",
+  "problems/universals.html",
+  "problems/entanglement/index.html",
+  "problems/entanglement/asymmetry/index.html",
+  "problems/metaphysics/index.html",
+  "problems/mind-body/index.html",
+  "problems/life/index.html",
+  "problems/flatness/index.html",
+  "problems/induction/index.html",
+  "problems/nonlocaity/index.html",
+  "problems/god/index.html",
+  "problems/immortality/index.html",
+  "problems/consciousness/index.html",
+  "problems/nonseperability/index.html",
+  "problems/identity/index.html",
+  "problems/entropy/index.html",
+  "problems/measurement/index.html",
+  "problems/nonseparability/index.html",
+  "problems/nonlocality/index.html",
+  "problems/nonlocality/%3E.html",
+  "problems/reversibility/index.html",
+  "problems/reversibility/%22.html",
+  "problems/ought_from_is/index.html",
+  "problems/epistemology/index.html",
+  "problems/mental_causation/index.html",
+  "problems/infinity/index.html",
+  "problems/universals/index.html",
+  "problems/ontology/index.html",
+  "problems/cosmology/index.html",
+  "problems/cosmology/flatness/index.html",
+  "problems/cosmology/missing_mass/index.html",
+  "problems/cosmology/horizon/index.html",
+  "problems/mind_body/index.html",
+  "problems/arrow_of_time/index.html",
+  "problems/other_minds/index.html",
+  "problems/decoherence/index.html",
+  "problems/one_or_many/index.html",
+  "problems/ergodicity/index.html",
+  "problems/evil/index.html",
+  "problems/recurrence/index.html",
+  "problems/recurrence/%22.html",
+  "freesom/semicompatibilism.html",
+  "freesom/same_curcumstances.html",
+  "freesom/illusionism.html",
+  "afterwords/index.html",
+  "afterwords/glossary/index.html",
+  "afterwords/subject_index/index.html",
+  "afterwords/colophon/index.html",
+  "afterwords/bibliography/index.html",
+  "afterwords/author_index/index.html",
+  "afterwords/conclusions/index.html",
+  "afterwords/glosary/index.html",
+  "mind/panpsychism.html",
+  "mind/index.html",
+  "mind/consciousness.html",
+  "mind/mind-body.html",
+  "mind/mind-body/index.html",
+  "mind/NCC/index.html",
+  "mind/err/index.html",
+  "mind/history/index.html",
+  "mind/consciousness/index.html",
+  "mind/cogscience/index.html",
+  "mind/representation/index.html",
+  "mind/llm/index.html",
+  "mind/purpose/index.html",
+  "mind/neuroscience/index.html",
+  "mind/mental_causation/index.html",
+  "mind/tocs/index.html",
+  "mind/panpsychism/index.html",
+  "mind/mind_body/index.html",
+  "mind/ego/index.html",
+  "mind/agency/index.html",
+  "mind/mirror_neurons/index.html",
+  "mind/ERR/index.html",
+  "imtroduction/creation/index.html",
+  "knowlede/reductionism.html",
+  "tractatus/index.html",
+  "Tractatus/index.html",
+  "solution/dualisms/index.html",
+  "solution/experiments/EPR/index.html",
+  "solution/philosophers/hume/index.html",
+  "site/search/index.html",
+  "site/map/index.html",
+  "feedom/chaos.html",
+  "freeedom/index.html",
+  "freeedom/causa_sui.html",
+  "freeedom/probability.html",
+  "freeedom/creativity.html",
+  "lectures/index.html",
+  "afterword/index.html",
+  "afterword/glossary/index.html",
+  "help/index.html",
+  "freedon/otherwise.html",
+  "value/index.html",
+  "value/ergodic.html",
+  "value/free_energy.html",
+  "value/ergo.html",
+  "value/ergod.html",
+  "value/biology/index.html",
+  "value/history/index.html",
+  "value/origin/index.html",
+  "value/free energy/index.html",
+  "value/physics/index.html",
+  "value/ergod/index.html",
+  "value/ergod/%22.html",
+  "value/problem/index.html",
+  "value/free_energy/index.html",
+  "value/ergo/index.html",
+  "value/ergo/%22.html",
+  "value/ergo/ergodicity.html",
+  "value/cosmology/index.html",
+  "value/good/index.html",
+  "value/free _energy/index.html",
+  "value/evil/index.html",
+  "value/ERGO/index.html",
+  "value/Ergo/index.html",
+  "presentations/index.html",
+  "presentations/Biosemiotics/index.html",
+  "presentations/Biosemiotics/cosmic_creation.html",
+  "presentations/Biosemiotics/flow_chart.html",
+  "presentations/Biosemiotics/free_will_intro.html",
+  "presentations/Biosemiotics/status_report.html",
+  "presentations/Biosemiotics/downward_causation_intro.html",
+  "presentations/Biosemiotics/three_worlds.html",
+  "presentations/Biosemiotics/err_intro.html",
+  "presentations/Biosemiotics/laplace.html",
+  "presentations/video/%22.html",
+  "presentations/video/WJS-2010.html",
+  "presentations/video/WJS-2010/index.html",
+  "presentations/biosemiotics/index.html",
+  "presentations/Evo_Devo_CSS/index.html",
+  "presentations/Evo_Devo_CSS/index.4.en.html",
+  "presentations/Evo_Devo_Davies/index.html",
+  "presentations/CSC25_Talk/index.html",
+  "presentations/Evo_Devo_I-Phi/index.html",
+  "presentations/Free__Will/index.html",
+  "presentations/Free__Will/flows.html",
+  "presentations/Free__Will/two-stage_model.html",
+  "presentations/Free__Will/flow_chart.html",
+  "presentations/Free__Will/evidence.html",
+  "presentations/Free__Will/downward_causation_intro.html",
+  "presentations/Free__Will/err_intro.html",
+  "presentations/Free__Will/laplace.html",
+  "presentations/SSP/index.html",
+  "presentations/Milan/schedule.html",
+  "presentations/Milan/mental_causation/contents.html",
+  "presentations/Milan/mental_causation/index2.html",
+  "presentations/Milan/mental_causation/avvenire.html",
+  "presentations/Milan/mental_causation/goals.html",
+  "presentations/Milan/mental_causation/mind_and_measurement.html",
+  "presentations/Milan/mental_causation/role_of_observer.html",
+  "presentations/Milan/mental_causation/wave-function_collapse.html",
+  "presentations/Milan/papers/mental_causation.html",
+  "presentations/Milan/papers/mental_causation/index.html",
+  "presentations/Bhaktivedanta/index.html",
+  "presentations/Bhaktivedanta/wave_function.html",
+  "presentations/Bhaktivedanta/consciousness.html",
+  "presentations/Bhaktivedanta/entanglement.html",
+  "presentations/Bhaktivedanta/err.html",
+  "about/index.html",
+  "about/index.html@LanguageCode=none.html",
+  "periodic_table/index.html",
+  "periodic_table/marc-doyle.html",
+  "problem/induction/index.html",
+  "problem/consciousness/index.html",
+  "problem/ought_from_is/index.html",
+  "problem/universals/index.html",
+  "problem/one_or_many/index.html",
+  "problem/evil/index.html",
+  "quantum/mystery.html",
+  "quantum/hidden_constant.html",
+  "quantum/index.html",
+  "quantum/copenhagen.html",
+  "quantum/bell_theorem.html",
+  "quantum/superposition.html",
+  "quantum/interpretations.html",
+  "quantum/common_cause.html",
+  "quantum/two-slit.html",
+  "quantum/superposition/index.html",
+  "quantum/keys/index.html",
+  "quantum/delayed_choice/index.html",
+  "quantum/common-cause/index.html",
+  "quantum/problems/index.html",
+  "quantum/black_holes/index.html",
+  "quantum/spacetime/index.html",
+  "quantum/principles/index.html",
+  "quantum/mystery/index.html",
+  "quantum/bohmian/index.html",
+  "quantum/statistical/index.html",
+  "quantum/eraser/index.html",
+  "quantum/determinism/index.html",
+  "quantum/two-slit/index.html",
+  "quantum/mach_zender/index.html",
+  "quantum/qubits/index.html",
+  "quantum/physics/index.html",
+  "quantum/choice/index.html",
+  "quantum/equation/index.html",
+  "quantum/hidden_variables/index.html",
+  "quantum/disentanglement/index.html",
+  "quantum/foundation/index.html",
+  "quantum/two_slit/index.html",
+  "quantum/copenhagen/index.html",
+  "quantum/weirdness/index.html",
+  "quantum/interpretations/index.html",
+  "quantum/observer/index.html",
+  "quantum/bell_theorem/index.html",
+  "quantum/hidden_constant/index.html",
+  "quantum/hidden_constant/%22.html",
+  "quantum/interpretation/index.html",
+  "quantum/uncertainty/index.html",
+  "quantum/common_cause/index.html",
+  "quantum/common_cause/%22.html",
+  "quantum/common_cause_constant/index.html",
+  "quantum/fresnel-arago/index.html",
+  "quantum/indeterminism/index.html",
+  "quantum/decoherence/index.html",
+  "quantum/collapse/index.html",
+  "Values/ergodic.html",
+  "solutions/scientists.html",
+  "solutions/index.html",
+  "solutions/dualisms.html",
+  "solutions/determinisms.html",
+  "solutions/dogmas.html",
+  "solutions/progress/index.html",
+  "solutions/language/index.html",
+  "solutions/philosopehers/locke/index.html",
+  "solutions/dualism/index.html",
+  "solutions/philosphers/james.html",
+  "solutions/philosphers/peirce.html",
+  "solutions/philosphers/wittgenstein.html",
+  "solutions/philosphers/russell.html",
+  "solutions/philosphers/whitehead.html",
+  "solutions/philosphers/peirce/index.html",
+  "solutions/philosphers/aristotle/index.html",
+  "solutions/philosphers/plato/index.html",
+  "solutions/scientist/boltzamnn/index.html",
+  "solutions/scientist/schrodinger/index.html",
+  "solutions/scientist/einstein/index.html",
+  "solutions/scientist/darwin/index.html",
+  "solutions/scientist/wheeler/index.html",
+  "solutions/scientist/wiener/index.html",
+  "solutions/scientist/sperry/index.html",
+  "solutions/scientist/exner/index.html",
+  "solutions/scientist/mermin/index.html",
+  "solutions/scientist/planck/index.html",
+  "solutions/scientist/maxwell/index.html",
+  "solutions/scientist/monod/index.html",
+  "solutions/scientist/jordan/index.html",
+  "solutions/scientist/dirac/index.html",
+  "solutions/scientist/loschmidt/index.html",
+  "solutions/scientist/heisenberg/index.html",
+  "solutions/scientist/mach/index.html",
+  "solutions/scientist/bohm/index.html",
+  "solutions/scientist/newton/index.html",
+  "solutions/scientist/bell/index.html",
+  "solutions/scientist/bohr/index.html",
+  "solutions/scientist/born/index.html",
+  "solutions/scientist/zeh/index.html",
+  "solutions/scientist/mayr/index.html",
+  "solutions/scientist/pittendrigh/index.html",
+  "solutions/scientist/boltzmann/index.html",
+  "solutions/scientist/zurek/index.html",
+  "solutions/experimants/geiger_counter/index.html",
+  "solutions/experiment/EPR/index.html",
+  "solutions/dualisms/index.html",
+  "solutions/philosopers/smilansky/index.html",
+  "solutions/demons/index.html",
+  "solutions/dogmas/index.html",
+  "solutions/dogmas/being.html",
+  "solutions/dogmas/analysis.html",
+  "solutions/dogmas/logic.html",
+  "solutions/dogmas/mechanism.html/index.html",
+  "solutions/scientists/vernadsky.html",
+  "solutions/scientists/gibbs.html",
+  "solutions/scientists/layzer.html",
+  "solutions/scientists/born.html",
+  "solutions/scientists/bennett.html",
+  "solutions/scientists/watsonjb.html",
+  "solutions/scientists/mcclintock.html",
+  "solutions/scientists/thomson.html",
+  "solutions/scientists/wiley.html",
+  "solutions/scientists/dirac.html",
+  "solutions/scientists/compton.html",
+  "solutions/scientists/wheeler.html",
+  "solutions/scientists/brillouin.html",
+  "solutions/scientists/bohm.html",
+  "solutions/scientists/kandel.html",
+  "solutions/scientists/index.html",
+  "solutions/scientists/demoivre.html",
+  "solutions/scientists/lloyd.html",
+  "solutions/scientists/mccarthy.html",
+  "solutions/scientists/bertalanffy.html",
+  "solutions/scientists/feynman.html",
+  "solutions/scientists/verlinde.html",
+  "solutions/scientists/neumann.html",
+  "solutions/scientists/eddington.html",
+  "solutions/scientists/schrodinger.html",
+  "solutions/scientists/wigner.html",
+  "solutions/scientists/margulis.html",
+  "solutions/scientists/odumh.html",
+  "solutions/scientists/pitts.html",
+  "solutions/scientists/changeux.html",
+  "solutions/scientists/mackay.html",
+  "solutions/scientists/planck.html",
+  "solutions/scientists/everett.html",
+  "solutions/scientists/tolman.html",
+  "solutions/scientists/solomomoff.html",
+  "solutions/scientists/dawkins.html",
+  "solutions/scientists/vedral.html",
+  "solutions/scientists/de_broglie.html",
+  "solutions/scientists/tononi.html",
+  "solutions/scientists/solomonoff.html",
+  "solutions/scientists/driesch.html",
+  "solutions/scientists/hobson.html",
+  "solutions/scientists/smolin.html",
+  "solutions/scientists/szilard.html",
+  "solutions/scientists/wiener.html",
+  "solutions/scientists/sperry.html",
+  "solutions/scientists/noether.html",
+  "solutions/scientists/wicken.html",
+  "solutions/scientists/zeh.html",
+  "solutions/scientists/boltzmann.html",
+  "solutions/scientists/quetelet.html",
+  "solutions/scientists/heisenberg.html",
+  "solutions/scientists/hebb.html",
+  "solutions/scientists/maxwell.html",
+  "solutions/scientists/zurek.html",
+  "solutions/scientists/frautschi.html",
+  "solutions/scientists/hiley.html",
+  "solutions/scientists/de_Broglie.html",
+  "solutions/scientists/reichenbach.html",
+  "solutions/scientists/edelman.html",
+  "solutions/scientists/norsen.html",
+  "solutions/scientists/klein.html",
+  "solutions/scientists/mach.html",
+  "solutions/scientists/helmholtz.html",
+  "solutions/scientists/mayr.html",
+  "solutions/scientists/campbellj.html",
+  "solutions/scientists/landauer.html",
+  "solutions/scientists/shannon.html",
+  "solutions/scientists/teilhard.html",
+  "solutions/scientists/bohr.html",
+  "solutions/scientists/weber.html",
+  "solutions/scientists/heisenbergm.html",
+  "solutions/scientists/mcculloch.html",
+  "solutions/scientists/pauli.html",
+  "solutions/scientists/skinner.html",
+  "solutions/scientists/brooks.html",
+  "solutions/scientists/Quetelet.html",
+  "solutions/scientists/laplace.html",
+  "solutions/scientists/clausius.html",
+  "solutions/scientists/weaver.html",
+  "solutions/scientists/pais.html",
+  "solutions/scientists/rashevsky.html",
+  "solutions/scientists/libet.html",
+  "solutions/scientists/lettvin.html",
+  "solutions/scientists/bell.html",
+  "solutions/scientists/prigogine.html",
+  "solutions/scientists/eccles.html",
+  "solutions/scientists/campbell.html",
+  "solutions/scientists/einstein.html",
+  "solutions/scientists/wegner.html",
+  "solutions/scientists/poincare/index.html",
+  "solutions/scientists/poincare/mechanism_and_experience.html",
+  "solutions/scientists/feynman/index.html",
+  "solutions/scientists/feynman/Nobel_Prize.html",
+  "solutions/scientists/feynman/past_and_future.html",
+  "solutions/scientists/feynman/probability_and_uncertainty.html",
+  "solutions/scientists/campbellj/index.html",
+  "solutions/scientists/misesL/index.html",
+  "solutions/scientists/sapolsky/index.html",
+  "solutions/scientists/mccculloch/index.html",
+  "solutions/scientists/hebb/index.html",
+  "solutions/scientists/crick/index.html",
+  "solutions/scientists/gauss/index.html",
+  "solutions/scientists/lloyd/index.html",
+  "solutions/scientists/edelman/index.html",
+  "solutions/scientists/wilson/index.html",
+  "solutions/scientists/ruelle/index.html",
+  "solutions/scientists/milner/index.html",
+  "solutions/scientists/darrigol/index.html",
+  "solutions/scientists/Bennett/index.html",
+  "solutions/scientists/boden/index.html",
+  "solutions/scientists/delbruck/index.html",
+  "solutions/scientists/margenau/index.html",
+  "solutions/scientists/dupre/index.html",
+  "solutions/scientists/sinnott/index.html",
+  "solutions/scientists/haar/index.html",
+  "solutions/scientists/tse/index.html",
+  "solutions/scientists/gibson/index.html",
+  "solutions/scientists/salthe/index.html",
+  "solutions/scientists/stewart/index.html",
+  "solutions/scientists/mackay/index.html",
+  "solutions/scientists/schrodinger/index.html",
+  "solutions/scientists/schrodinger/indeterminism_and_free_will.html",
+  "solutions/scientists/schrodinger/indeterminism_in_physics.html",
+  "solutions/scientists/schrodinger/what_is_a_law_of_nature.html",
+  "solutions/scientists/loewenstein/index.html",
+  "solutions/scientists/rayleigh/index.html",
+  "solutions/scientists/fredkin/index.html",
+  "solutions/scientists/calvinw/index.html",
+  "solutions/scientists/haynes/index.html",
+  "solutions/scientists/suarez/index.html",
+  "solutions/scientists/rashevsky/index.html",
+  "solutions/scientists/skinner/index.html",
+  "solutions/scientists/prigogine/index.html",
+  "solutions/scientists/blackmore/index.html",
+  "solutions/scientists/foster/index.html",
+  "solutions/scientists/zwicky/index.html",
+  "solutions/scientists/hinton/index.html",
+  "solutions/scientists/margulis/index.html",
+  "solutions/scientists/pockett/index.html",
+  "solutions/scientists/dennett/index.html",
+  "solutions/scientists/Chaitin/index.html",
+  "solutions/scientists/everett/index.html",
+  "solutions/scientists/primas/index.html",
+  "solutions/scientists/roback/index.html",
+  "solutions/scientists/tolman/index.html",
+  "solutions/scientists/pylyshyn/index.html",
+  "solutions/scientists/selleri/index.html",
+  "solutions/scientists/varela/index.html",
+  "solutions/scientists/fourier/index.html",
+  "solutions/scientists/wiley/index.html",
+  "solutions/scientists/mcculloch/index.html",
+  "solutions/scientists/jackendoff/index.html",
+  "solutions/scientists/hawking/index.html",
+  "solutions/scientists/einstein/EPR.html",
+  "solutions/scientists/einstein/index.html",
+  "solutions/scientists/einstein/reply_to_criticisms.html",
+  "solutions/scientists/einstein/autobiography.html",
+  "solutions/scientists/einstein/dialectica.html",
+  "solutions/scientists/einstein/1916_A-B.html",
+  "solutions/scientists/einstein/1909.html",
+  "solutions/scientists/darwin/index.html",
+  "solutions/scientists/marr/index.html",
+  "solutions/scientists/odumh/index.html",
+  "solutions/scientists/wheeler/index.html",
+  "solutions/scientists/wheeler/%22.html",
+  "solutions/scientists/miller/index.html",
+  "solutions/scientists/susskind/index.html",
+  "solutions/scientists/baars/index.html",
+  "solutions/scientists/brillouin/index.html",
+  "solutions/scientists/gisin/index.html",
+  "solutions/scientists/vernadsky/index.html",
+  "solutions/scientists/shapiro/index.html",
+  "solutions/scientists/zuse/index.html",
+  "solutions/scientists/decadt/index.html",
+  "solutions/scientists/pauri/index.html",
+  "solutions/scientists/corning/index.html",
+  "solutions/scientists/vedral/index.html",
+  "solutions/scientists/kuppers/index.html",
+  "solutions/scientists/brush/index.html",
+  "solutions/scientists/hartley/index.html",
+  "solutions/scientists/gatlin/index.html",
+  "solutions/scientists/Stewart/index.html",
+  "solutions/scientists/norman/index.html",
+  "solutions/scientists/roederer/index.html",
+  "solutions/scientists/wiener/index.html",
+  "solutions/scientists/unnikrishnan/index.html",
+  "solutions/scientists/gardner/index.html",
+  "solutions/scientists/quastler/index.html",
+  "solutions/scientists/hiley/index.html",
+  "solutions/scientists/lindsay/index.html",
+  "solutions/scientists/fisher/index.html",
+  "solutions/scientists/eigen/index.html",
+  "solutions/scientists/smiller/index.html",
+  "solutions/scientists/bertalanffy/index.html",
+  "solutions/scientists/wigner/index.html",
+  "solutions/scientists/seung/index.html",
+  "solutions/scientists/hermann/index.html",
+  "solutions/scientists/heylighen/index.html",
+  "solutions/scientists/kochen/index.html",
+  "solutions/scientists/kovac/index.html",
+  "solutions/scientists/driesch/index.html",
+  "solutions/scientists/driesch/%22.html",
+  "solutions/scientists/pitts/index.html",
+  "solutions/scientists/sperry/index.html",
+  "solutions/scientists/sperry/Mind_Brain_and_Humanist_Values.html",
+  "solutions/scientists/brooks/index.html",
+  "solutions/scientists/jacob/index.html",
+  "solutions/scientists/conway/index.html",
+  "solutions/scientists/maturana/index.html",
+  "solutions/scientists/rumelhart/index.html",
+  "solutions/scientists/muller/index.html",
+  "solutions/scientists/barbour/index.html",
+  "solutions/scientists/Loewentein/index.html",
+  "solutions/scientists/bricmont/index.html",
+  "solutions/scientists/watsonjb/index.html",
+  "solutions/scientists/exner/index.html",
+  "solutions/scientists/barlow/index.html",
+  "solutions/scientists/pollen/index.html",
+  "solutions/scientists/simonton/index.html",
+  "solutions/scientists/depew/index.html",
+  "solutions/scientists/schmidhuber/index.html",
+  "solutions/scientists/walker/index.html",
+  "solutions/scientists/mermin/index.html",
+  "solutions/scientists/glimcher/index.html",
+  "solutions/scientists/rosenblatt/index.html",
+  "solutions/scientists/bateson/index.html",
+  "solutions/scientists/pigliucci/index.html",
+  "solutions/scientists/helmholtx/index.html",
+  "solutions/scientists/zermelo/index.html",
+  "solutions/scientists/wicken/index.html",
+  "solutions/scientists/mccarthy/index.html",
+  "solutions/scientists/davies/index.html",
+  "solutions/scientists/bonner/index.html",
+  "solutions/scientists/hartman/index.html",
+  "solutions/scientists/de_Broglie/index.html",
+  "solutions/scientists/church/index.html",
+  "solutions/scientists/stachel/index.html",
+  "solutions/scientists/rothstein/index.html",
+  "solutions/scientists/stuewer/index.html",
+  "solutions/scientists/kauffman/index.html",
+  "solutions/scientists/schurger/index.html",
+  "solutions/scientists/ulanowicz/index.html",
+  "solutions/scientists/schodinger/index.html",
+  "solutions/scientists/Jordan/index.html",
+  "solutions/scientists/lindley/index.html",
+  "solutions/scientists/laplace/index.html",
+  "solutions/scientists/laplace/probabilities.html",
+  "solutions/scientists/watsonj/index.html",
+  "solutions/scientists/witzany/index.html",
+  "solutions/scientists/weismann/index.html",
+  "solutions/scientists/campbell/index.html",
+  "solutions/scientists/fresnel/index.html",
+  "solutions/scientists/huxleyj/index.html",
+  "solutions/scientists/culverwell/index.html",
+  "solutions/scientists/haldane/index.html",
+  "solutions/scientists/chaisson/index.html",
+  "solutions/scientists/de_moivre/index.html",
+  "solutions/scientists/planck/Genesis__of_Quantum_Theory.html",
+  "solutions/scientists/planck/index.html",
+  "solutions/scientists/thomson/index.html",
+  "solutions/scientists/thomson/universal_tendency.html",
+  "solutions/scientists/thomson/dissipation_of_energy.html",
+  "solutions/scientists/thorndike/index.html",
+  "solutions/scientists/chaitin/index.html",
+  "solutions/scientists/arbib/index.html",
+  "solutions/scientists/Davies/index.html",
+  "solutions/scientists/helmholtz/index.html",
+  "solutions/scientists/maxwell/atom.html",
+  "solutions/scientists/maxwell/molecules.html",
+  "solutions/scientists/maxwell/index.html",
+  "solutions/scientists/maxwell/psychophysik.html",
+  "solutions/scientists/maxwell/letter_to_galton.html",
+  "solutions/scientists/maxwell/action_at_a_distance.html",
+  "solutions/scientists/maxwell/letter_to_litchfield.html",
+  "solutions/scientists/maxwell/science_and_free_will.html",
+  "solutions/scientists/maxwell/paradoxical_philosophy.html",
+  "solutions/scientists/monod/index.html",
+  "solutions/scientists/monod/%22.html",
+  "solutions/scientists/eddington/index.html",
+  "solutions/scientists/Everett/index.html",
+  "solutions/scientists/coyne/index.html",
+  "solutions/scientists/klein/index.html",
+  "solutions/scientists/azarian/index.html",
+  "solutions/scientists/sebeok/index.html",
+  "solutions/scientists/barbieri/index.html",
+  "solutions/scientists/prisco/index.html",
+  "solutions/scientists/despagmat/index.html",
+  "solutions/scientists/rosen/index.html",
+  "solutions/scientists/beller/index.html",
+  "solutions/scientists/gibbs/index.html",
+  "solutions/scientists/aspect/index.html",
+  "solutions/scientists/hadley/index.html",
+  "solutions/scientists/legendre/index.html",
+  "solutions/scientists/dehaene/index.html",
+  "solutions/scientists/wien/index.html",
+  "solutions/scientists/gabor/index.html",
+  "solutions/scientists/bondi/index.html",
+  "solutions/scientists/chomsky/index.html",
+  "solutions/scientists/tegmark/index.html",
+  "solutions/scientists/simon/computationalism.html",
+  "solutions/scientists/simon/index.html",
+  "solutions/scientists/holland/index.html",
+  "solutions/scientists/herschel/index.html",
+  "solutions/scientists/watson/index.html",
+  "solutions/scientists/damasio/index.html",
+  "solutions/scientists/cramer/index.html",
+  "solutions/scientists/jordan/index.html",
+  "solutions/scientists/haggard/index.html",
+  "solutions/scientists/dirac/index.html",
+  "solutions/scientists/dirac/preface.html",
+  "solutions/scientists/dirac/chapter_1.html",
+  "solutions/scientists/solomonoff/index.html",
+  "solutions/scientists/dobzhansky/index.html",
+  "solutions/scientists/lotka/index.html",
+  "solutions/scientists/gough/index.html",
+  "solutions/scientists/georgescu-roegen/index.html",
+  "solutions/scientists/loschmidt/index.html",
+  "solutions/scientists/heisenberg/index.html",
+  "solutions/scientists/heisenberg/Talk_with_Einstein..html",
+  "solutions/scientists/heisenberg/Copenhagen_Interpretation.html",
+  "solutions/scientists/heisenberg/%22.html",
+  "solutions/scientists/penfield/index.html",
+  "solutions/scientists/hoffmeyer/index.html",
+  "solutions/scientists/levin/index.html",
+  "solutions/scientists/foerster/index.html",
+  "solutions/scientists/foerster/interview.html",
+  "solutions/scientists/mach/index.html",
+  "solutions/scientists/mach/accident_in_invention_and_discovery.html",
+  "solutions/scientists/bphr/index.html",
+  "solutions/scientists/koshland/index.html",
+  "solutions/scientists/sherrigton/%3E.html",
+  "solutions/scientists/hobson/index.html",
+  "solutions/scientists/lorentz/index.html",
+  "solutions/scientists/mises/index.html",
+  "solutions/scientists/hacking/index.html",
+  "solutions/scientists/libet/index.html",
+  "solutions/scientists/weinberg/index.html",
+  "solutions/scientists/goodwin/index.html",
+  "solutions/scientists/ghirardi/index.html",
+  "solutions/scientists/cashmore/index.html",
+  "solutions/scientists/debroglie/index.html",
+  "solutions/scientists/hilbert/index.html",
+  "solutions/scientists/pais/index.html",
+  "solutions/scientists/landauer/index.html",
+  "solutions/scientists/mountcastle/index.html",
+  "solutions/scientists/lovelock/index.html",
+  "solutions/scientists/reif/index.html",
+  "solutions/scientists/neumann/index.html",
+  "solutions/scientists/waddington/index.html",
+  "solutions/scientists/bohm/index.html",
+  "solutions/scientists/bohm/Hidden_Variables_in_QT.html",
+  "solutions/scientists/rakic/index.html",
+  "solutions/scientists/newton/index.html",
+  "solutions/scientists/bada/index.html",
+  "solutions/scientists/uexkull/index.html",
+  "solutions/scientists/bell/index.html",
+  "solutions/scientists/bell/Epistemological_Letters.html",
+  "solutions/scientists/bell/inequality_video.html",
+  "solutions/scientists/bell/inequality_video/index.html",
+  "solutions/scientists/bell/epistemological letters/index.html",
+  "solutions/scientists/noether/index.html",
+  "solutions/scientists/ehrenfest/index.html",
+  "solutions/scientists/quetelet/index.html",
+  "solutions/scientists/frank/index.html",
+  "solutions/scientists/kampen/Scandal.html",
+  "solutions/scientists/kampen/index.html",
+  "solutions/scientists/bose/index.html",
+  "solutions/scientists/shimony/index.html",
+  "solutions/scientists/hamon/index.html",
+  "solutions/scientists/kronecker/index.html",
+  "solutions/scientists/teilhard/index.html",
+  "solutions/scientists/compton/index.html/index.html",
+  "solutions/scientists/pauli/index.html",
+  "solutions/scientists/rizzolati/index.html",
+  "solutions/scientists/conway-morris/index.html",
+  "solutions/scientists/buckle/index.html",
+  "solutions/scientists/turing/index.html",
+  "solutions/scientists/elsasser/index.html",
+  "solutions/scientists/tononi/index.html",
+  "solutions/scientists/carroll/index.html",
+  "solutions/scientists/shiang/index.html",
+  "solutions/scientists/ballentine/index.html",
+  "solutions/scientists/roduner/index.html",
+  "solutions/scientists/bohr/index.html",
+  "solutions/scientists/bohr/BKS.html",
+  "solutions/scientists/bohr/fundamental principles.html",
+  "solutions/scientists/bohr/quantum_of_action.html",
+  "solutions/scientists/bohr/discussions_with_einstein.html",
+  "solutions/scientists/bohr/quantum_postulate.html",
+  "solutions/scientists/sauer/index.html",
+  "solutions/scientists/wegner/index.html",
+  "solutions/scientists/klemm/index.html",
+  "solutions/scientists/calvin/index.html",
+  "solutions/scientists/polanyi/index.html",
+  "solutions/scientists/clausius/index.html",
+  "solutions/scientists/anderson/index.html",
+  "solutions/scientists/zeki/index.html",
+  "solutions/scientists/sejnowski/index.html",
+  "solutions/scientists/stapp/index.html",
+  "solutions/scientists/friston/index.html",
+  "solutions/scientists/lettvin/index.html",
+  "solutions/scientists/born/index.html",
+  "solutions/scientists/carnot/index.html",
+  "solutions/scientists/cowan/index.html",
+  "solutions/scientists/churchlandps/index.html",
+  "solutions/scientists/weiss/index.html",
+  "solutions/scientists/bothe/index.html",
+  "solutions/scientists/albert/index.html",
+  "solutions/scientists/lewis/index.html",
+  "solutions/scientists/borel/index.html",
+  "solutions/scientists/ellis/index.html",
+  "solutions/scientists/zeh/index.html",
+  "solutions/scientists/penrose/index.html",
+  "solutions/scientists/renn/index.html",
+  "solutions/scientists/volkenstein/index.html",
+  "solutions/scientists/dedekind/index.html",
+  "solutions/scientists/mayr/index.html",
+  "solutions/scientists/mayr/%22.html",
+  "solutions/scientists/ludwig/index.html",
+  "solutions/scientists/kornhuber-deecke/index.html",
+  "solutions/scientists/stanley/index.html",
+  "solutions/scientists/dawkins/index.html",
+  "solutions/scientists/gomes/index.html",
+  "solutions/scientists/heisenbergm/index.html",
+  "solutions/scientists/jaynes/index.html",
+  "solutions/scientists/jaynes/index.html@problems%2Freversibility%2F.html",
+  "solutions/scientists/ledoux/index.html",
+  "solutions/scientists/pittendrigh/index.html",
+  "solutions/scientists/pittendrigh/%22.html",
+  "solutions/scientists/bartlett/index.html",
+  "solutions/scientists/brouwer/index.html",
+  "solutions/scientists/jackson/index.html",
+  "solutions/scientists/clark/index.html",
+  "solutions/scientists/Laplace/index.html",
+  "solutions/scientists/gould/index.html",
+  "solutions/scientists/oparin/index.html",
+  "solutions/scientists/kosslyn/index.html",
+  "solutions/scientists/burbury/index.html",
+  "solutions/scientists/woese/index.html",
+  "solutions/scientists/frautschi/index.html",
+  "solutions/scientists/barandes/index.html",
+  "solutions/scientists/jakobson/index.html",
+  "solutions/scientists/layzer/free_will.html",
+  "solutions/scientists/layzer/index.html",
+  "solutions/scientists/layzer/Arrow_of_Time.html",
+  "solutions/scientists/layzer/%22.html",
+  "solutions/scientists/layzer/growth_of_order.html",
+  "solutions/scientists/layzer/strong_cosmological_principle.html",
+  "solutions/scientists/layzer/growth_of_order/index.html",
+  "solutions/scientists/boltzmann/loschmidt.html",
+  "solutions/scientists/boltzmann/index.html",
+  "solutions/scientists/boltzmann/%22.html",
+  "solutions/scientists/boltzmann/zermelo.html",
+  "solutions/scientists/changeux/index.html",
+  "solutions/scientists/bolzmann/index.html",
+  "solutions/scientists/thims/index.html",
+  "solutions/scientists/neuman/index.html",
+  "solutions/scientists/deacon/index.html",
+  "solutions/scientists/lashley/index.html",
+  "solutions/scientists/maynard-smith/index.html",
+  "solutions/scientists/mohrhoff/index.html",
+  "solutions/scientists/mohrhoff/stapp_18.html",
+  "solutions/scientists/haeckel/index.html",
+  "solutions/scientists/haeckel/%22.html",
+  "solutions/scientists/saussure/index.html",
+  "solutions/scientists/mcclintock/index.html",
+  "solutions/scientists/hawkins/index.html",
+  "solutions/scientists/weyl/index.html",
+  "solutions/scientists/sherrington/index.html",
+  "solutions/scientists/de_broglie/index.html",
+  "solutions/scientists/pattee/index.html",
+  "solutions/scientists/smolin/index.html",
+  "solutions/scientists/baade/index.html",
+  "solutions/scientists/kandel/index.html",
+  "solutions/scientists/briegel/creative_machines.html",
+  "solutions/scientists/briegel/index.html",
+  "solutions/scientists/meincke/index.html",
+  "solutions/scientists/eccles/index.html",
+  "solutions/scientists/noble/index.html",
+  "solutions/scientists/szilard/index.html",
+  "solutions/scientists/rasehevsky/index.html",
+  "solutions/scientists/howard/index.html",
+  "solutions/scientists/greene/index.html",
+  "solutions/scientists/gazzaniga/index.html",
+  "solutions/scientists/hameroff/index.html",
+  "solutions/scientists/fox/index.html",
+  "solutions/scientists/harris/index.html",
+  "solutions/scientists/gal-or/index.html",
+  "solutions/scientists/jevons/index.html",
+  "solutions/scientists/jevons/character_of_the_experimentalist.html",
+  "solutions/scientists/rosenfeld/index.html",
+  "solutions/scientists/gold/index.html",
+  "solutions/scientists/stonier/index.html",
+  "solutions/scientists/spencer/index.html",
+  "solutions/scientists/bennett/index.html",
+  "solutions/scientists/wolfram/index.html",
+  "solutions/scientists/norsen/index.html",
+  "solutions/scientists/Planck/index.html",
+  "solutions/scientists/shannon/index.html",
+  "solutions/scientists/vidal/index.html",
+  "solutions/scientists/bekenstein/index.html",
+  "solutions/scientists/zurek/index.html",
+  "solutions/scientists/maroney/index.html",
+  "solutions/scientists/koch/index.html",
+  "solutions/scientists/kastner/index.html",
+  "solutions/scientists/hadamard/index.html",
+  "solutions/scientists/lande/index.html",
+  "solutions/experiements/EPR/index.html",
+  "solutions/reason/index.html",
+  "solutions/pilosophers/Aristotle/index.html",
+  "solutions/phiosophers/epicurus/index.html",
+  "solutions/triads/index.html",
+  "solutions/theories/index.html",
+  "solutions/theories/superposition.html",
+  "solutions/theories/superposition/index.html",
+  "solutions/theories/entanglement/index.html",
+  "solutions/theories/projection/index.html",
+  "solutions/theories/complexity/index.html",
+  "solutions/theories/measurement/index.html",
+  "solutions/theories/hidden_variables/index.html",
+  "solutions/theories/chaos/index.html",
+  "solutions/theories/decoherence/index.html",
+  "solutions/theories/many_worlds/index.html",
+  "solutions/experiments/EPR.html",
+  "solutions/experiments/index.html",
+  "solutions/experiments/stern-gerlach.html",
+  "solutions/experiments/ergodic_hypothesis.html",
+  "solutions/experiments/schrodinger_cat.html",
+  "solutions/experiments/bells_theorem.html",
+  "solutions/experiments/EPR'.html",
+  "solutions/experiments/two-slit_experiment.html",
+  "solutions/experiments/photoelectric_effect.html",
+  "solutions/experiments/wigners_friend.html",
+  "solutions/experiments/wave-function_collapse.html",
+  "solutions/experiments/dirac_3-polarizers.html",
+  "solutions/experiments/geiger_counter.html",
+  "solutions/experiments/ergodic_hypothesis/index.html",
+  "solutions/experiments/wave-function_collapse/index.html",
+  "solutions/experiments/schrodingerscat/index.html",
+  "solutions/experiments/EPR/index.html",
+  "solutions/experiments/wave-funstion_collapse/index.html",
+  "solutions/experiments/bells_theorem/index.html",
+  "solutions/experiments/heisenbergs_microscope/index.html",
+  "solutions/experiments/two-slit_experiment/index.html",
+  "solutions/experiments/schodingerscat/index.html",
+  "solutions/experiments/epr/index.html",
+  "solutions/experiments/stern-gerlach/index.html",
+  "solutions/experiments/schrodinger_cat/index.html",
+  "solutions/experiments/photoelectric_effect/index.html",
+  "solutions/experiments/bell_theorem/index.html",
+  "solutions/experiments/heisenberg_microscope/index.html",
+  "solutions/experiments/geiger_counter/index.html",
+  "solutions/experiments/dirac_3-polarizers/index.html",
+  "solutions/determinisms/index.html",
+  "solutions/determinisms/language/index.html",
+  "solutions/determinisms/biological/index.html",
+  "solutions/determinisms/psychological/index.html",
+  "solutions/determinisms/behavioral/index.html",
+  "solutions/determinisms/fatalism/index.html",
+  "solutions/determinisms/physical/index.html",
+  "solutions/determinisms/causal/index.html",
+  "solutions/determinisms/logical/index.html",
+  "solutions/determinisms/mechanical/index.html",
+  "solutions/determinisms/historical/index.html",
+  "solutions/determinisms/religious/index.html",
+  "solutions/determinisms/compatibilism/index.html",
+  "solutions/phiolsophers/lucretius/de_rerum_natura.html",
+  "solutions/determinsms/index.html",
+  "solutions/philosophers/stebbing.html",
+  "solutions/philosophers/leucippus.html",
+  "solutions/philosophers/hasker.html",
+  "solutions/philosophers/james.html",
+  "solutions/philosophers/lovejoy.html",
+  "solutions/philosophers/parmenides.html",
+  "solutions/philosophers/ginet.html",
+  "solutions/philosophers/ayer.html",
+  "solutions/philosophers/sartre.html",
+  "solutions/philosophers/earman.html",
+  "solutions/philosophers/smart.html",
+  "solutions/philosophers/lewes.html",
+  "solutions/philosophers/gettier.html",
+  "solutions/philosophers/frge.html",
+  "solutions/philosophers/lucretius.html",
+  "solutions/philosophers/wiggins.html",
+  "solutions/philosophers/grice.html",
+  "solutions/philosophers/kane.html",
+  "solutions/philosophers/index.html",
+  "solutions/philosophers/heraclitus.html",
+  "solutions/philosophers/democritus.html",
+  "solutions/philosophers/chisholm.html",
+  "solutions/philosophers/peirce.html",
+  "solutions/philosophers/strawson.html",
+  "solutions/philosophers/epicurus.html",
+  "solutions/philosophers/chardin.html",
+  "solutions/philosophers/carnap.html",
+  "solutions/philosophers/piccinini.html",
+  "solutions/philosophers/weizsacker.html",
+  "solutions/philosophers/anselm.html",
+  "solutions/philosophers/mclaughlin.html",
+  "solutions/philosophers/vargas.html",
+  "solutions/philosophers/frankfurt.html",
+  "solutions/philosophers/chrysippus.html",
+  "solutions/philosophers/plato.html",
+  "solutions/philosophers/frege.html",
+  "solutions/philosophers/hegel.html",
+  "solutions/philosophers/levin.html",
+  "solutions/philosophers/kant.html",
+  "solutions/philosophers/marcus.html",
+  "solutions/philosophers/aristotle.html",
+  "solutions/philosophers/nagelt.html",
+  "solutions/philosophers/mctaggart.html",
+  "solutions/philosophers/hume.html",
+  "solutions/philosophers/wittgenstein.html",
+  "solutions/philosophers/fischer.html",
+  "solutions/philosophers/dennett.html",
+  "solutions/philosophers/dembski.html",
+  "solutions/philosophers/austin.html",
+  "solutions/philosophers/nowell-smith.html",
+  "solutions/philosophers/sellars.html",
+  "solutions/philosophers/heidegger.html",
+  "solutions/philosophers/russell.html",
+  "solutions/philosophers/pereboom.html",
+  "solutions/philosophers/derrida.html",
+  "solutions/philosophers/schlick.html",
+  "solutions/philosophers/cicero.html",
+  "solutions/philosophers/scotus.html",
+  "solutions/philosophers/broad.html",
+  "solutions/philosophers/clarke.html",
+  "solutions/philosophers/mele.html",
+  "solutions/philosophers/locke.html",
+  "solutions/philosophers/kripke.html",
+  "solutions/philosophers/fine.html",
+  "solutions/philosophers/smilansky.html",
+  "solutions/philosophers/honderich.html",
+  "solutions/philosophers/aquinas.html",
+  "solutions/philosophers/vaninwagen.html",
+  "solutions/philosophers/campbell.html",
+  "solutions/philosophers/whitehead.html",
+  "solutions/philosophers/renouvier.html",
+  "solutions/philosophers/campbellj/index.html",
+  "solutions/philosophers/voltaire/index.html",
+  "solutions/philosophers/popper/index.html",
+  "solutions/philosophers/popper/natural_selection_and_the_emergence_of_mind.html",
+  "solutions/philosophers/sartre/index.html",
+  "solutions/philosophers/moore/index.html",
+  "solutions/philosophers/frankfurt/index.html",
+  "solutions/philosophers/lockwood/index.html",
+  "solutions/philosophers/lockwood/%22.html",
+  "solutions/philosophers/fouillee/index.html",
+  "solutions/philosophers/adler/index.html",
+  "solutions/philosophers/fischer/index.html",
+  "solutions/philosophers/epictetus/index.html",
+  "solutions/philosophers/maudlin/index.html",
+  "solutions/philosophers/leucippus/index.html",
+  "solutions/philosophers/green/index.html",
+  "solutions/philosophers/green/proximate_and_remote_cause.html",
+  "solutions/philosophers/gorgias/index.html",
+  "solutions/philosophers/Cicero/index.html",
+  "solutions/philosophers/carneades/index.html",
+  "solutions/philosophers/schweitzer/index.html",
+  "solutions/philosophers/scanlon/index.html",
+  "solutions/philosophers/ekstrom/index.html",
+  "solutions/philosophers/albritton/index.html",
+  "solutions/philosophers/albritton/freedom_of_will_and_freedom_of_action.html",
+  "solutions/philosophers/suarez/index.html",
+  "solutions/philosophers/corradini/index.html",
+  "solutions/philosophers/blackmore/index.html",
+  "solutions/philosophers/kapitan/index.html",
+  "solutions/philosophers/dennett/index.html",
+  "solutions/philosophers/dennett/seminar.html",
+  "solutions/philosophers/dennett/seminar/index.html",
+  "solutions/philosophers/dennett/seminar/Dennett_Cases.html",
+  "solutions/philosophers/floridi/index.html",
+  "solutions/philosophers/haji/index.html",
+  "solutions/philosophers/bishop/index.html",
+  "solutions/philosophers/huby/index.html",
+  "solutions/philosophers/quine/index.html",
+  "solutions/philosophers/ayer/index.html",
+  "solutions/philosophers/ayer/freedom_and_necessity.html",
+  "solutions/philosophers/ayer/chance_design_and_cause.html",
+  "solutions/philosophers/lovejoy/index.html",
+  "solutions/philosophers/Dennett/index.html",
+  "solutions/philosophers/diodorus/index.html",
+  "solutions/philosophers/seager/index.html",
+  "solutions/philosophers/bok/index.html",
+  "solutions/philosophers/x/index.html",
+  "solutions/philosophers/nowell-smith/index.html",
+  "solutions/philosophers/nowell-smith/freewill.html",
+  "solutions/philosophers/belsham/index.html",
+  "solutions/philosophers/belsham/on_liberty_and_necessity.html",
+  "solutions/philosophers/miller/index.html",
+  "solutions/philosophers/Hume/index.html",
+  "solutions/philosophers/broad/index.html",
+  "solutions/philosophers/earman/index.html",
+  "solutions/philosophers/scotus/index.html",
+  "solutions/philosophers/heidegger/index.html",
+  "solutions/philosophers/rescher/index.html",
+  "solutions/philosophers/feigl/index.html",
+  "solutions/philosophers/hodgsons/index.html",
+  "solutions/philosophers/vaninawagen/index.html",
+  "solutions/philosophers/barrett/index.html",
+  "solutions/philosophers/lequyer/index.html",
+  "solutions/philosophers/porphyry/index.html",
+  "solutions/philosophers/warfield/index.html",
+  "solutions/philosophers/stebbing/index.html",
+  "solutions/philosophers/strawsong/free_will.html",
+  "solutions/philosophers/strawsong/index.html",
+  "solutions/philosophers/James/index.html",
+  "solutions/philosophers/nietzsche/index.html",
+  "solutions/philosophers/smith/index.html",
+  "solutions/philosophers/hobart/index.html",
+  "solutions/philosophers/hobart/%22.html",
+  "solutions/philosophers/bradley/index.html",
+  "solutions/philosophers/protagoras/index.html",
+  "solutions/philosophers/dholbach/Good_Sense.html",
+  "solutions/philosophers/dholbach/index.html",
+  "solutions/philosophers/dholbach/System_of_Nature.html",
+  "solutions/philosophers/ducasse/index.html",
+  "solutions/philosophers/smilansky/index.html",
+  "solutions/philosophers/lowe/index.html",
+  "solutions/philosophers/grice/index.html",
+  "solutions/philosophers/grice/methods_in_philosophical_psychology.html",
+  "solutions/philosophers/morgan/index.html",
+  "solutions/philosophers/schopenhauer/index.html",
+  "solutions/philosophers/cargas/index.html",
+  "solutions/philosophers/hodgson/index.html",
+  "solutions/philosophers/ockham/index.html",
+  "solutions/philosophers/democritus./index.html",
+  "solutions/philosophers/augustine/index.html",
+  "solutions/philosophers/descartes/index.html",
+  "solutions/philosophers/timpe/index.html",
+  "solutions/philosophers/hobbes/index.html",
+  "solutions/philosophers/hobbes/of_liberty_and_necessity.html",
+  "solutions/philosophers/nagele/index.html",
+  "solutions/philosophers/prichard/index.html",
+  "solutions/philosophers/prichard/does_moral_philosophy_rest_on_a_mistake.html",
+  "solutions/philosophers/frassen/index.html",
+  "solutions/philosophers/dancy/index.html",
+  "solutions/philosophers/rand/index.html",
+  "solutions/philosophers/kane/index.html",
+  "solutions/philosophers/kane/index.html@LanguageCode=none.html",
+  "solutions/philosophers/kane/questions.html",
+  "solutions/philosophers/kane/agree.html",
+  "solutions/philosophers/kane/positions.html",
+  "solutions/philosophers/bois-reymond/index.html",
+  "solutions/philosophers/mckenna/index.html",
+  "solutions/philosophers/austin/index.html",
+  "solutions/philosophers/hook/index.html",
+  "solutions/philosophers/holton/index.html",
+  "solutions/philosophers/whewell/index.html",
+  "solutions/philosophers/berlin/index.html",
+  "solutions/philosophers/gregersen/index.html",
+  "solutions/philosophers/frede/index.html",
+  "solutions/philosophers/leibniz/index.html",
+  "solutions/philosophers/davidson/index.html",
+  "solutions/philosophers/nagelt/index.html",
+  "solutions/philosophers/rietdijk/index.html",
+  "solutions/philosophers/cicero/de_fato.html",
+  "solutions/philosophers/cicero/index.html",
+  "solutions/philosophers/cicero/de_fato_english.html",
+  "solutions/philosophers/atmanspacher/index.html",
+  "solutions/philosophers/hampshire/index.html",
+  "solutions/philosophers/antony/index.html",
+  "solutions/philosophers/anscombe/index.html",
+  "solutions/philosophers/meehl/index.html",
+  "solutions/philosophers/campbell/index.html",
+  "solutions/philosophers/campbell/pseudo-problem.html",
+  "solutions/philosophers/campbell/defence.html",
+  "solutions/philosophers/putnam/index.html",
+  "solutions/philosophers/meixner/index.html",
+  "solutions/philosophers/nozick/index.html",
+  "solutions/philosophers/venn/index.html",
+  "solutions/philosophers/wallacedf/index.html",
+  "solutions/philosophers/mccann/index.html",
+  "solutions/philosophers/place/index.html",
+  "solutions/philosophers/pinker/index.html",
+  "solutions/philosophers/peirce/architecture_of_theories.html",
+  "solutions/philosophers/peirce/index.html",
+  "solutions/philosophers/peirce/doctrine_of_necessity.html",
+  "solutions/philosophers/peirce/quotes.html",
+  "solutions/philosophers/kuhn/index.html",
+  "solutions/philosophers/maxwell/index.html",
+  "solutions/philosophers/clarkes/index.html",
+  "solutions/philosophers/clarkes/demonstration.html",
+  "solutions/philosophers/hardie/index.html",
+  "solutions/philosophers/martineau/index.html",
+  "solutions/philosophers/black/index.html",
+  "solutions/philosophers/derrida/index.html",
+  "solutions/philosophers/boutroux/index.html",
+  "solutions/philosophers/husserl/index.html",
+  "solutions/philosophers/mclaughlin/index.html",
+  "solutions/philosophers/renouvier/index.html",
+  "solutions/philosophers/alexanders/index.html",
+  "solutions/philosophers/pereboom/index.html",
+  "solutions/philosophers/piccinini/index.html",
+  "solutions/philosophers/schlick/index.html",
+  "solutions/philosophers/schlick/pseudo-problem.html",
+  "solutions/philosophers/schlick/causality.html",
+  "solutions/philosophers/butterfield/index.html",
+  "solutions/philosophers/williams/index.html",
+  "solutions/philosophers/ryle/descartes_myth.html",
+  "solutions/philosophers/ryle/index.html",
+  "solutions/philosophers/ryle/the_will.html",
+  "solutions/philosophers/collins/index.html",
+  "solutions/philosophers/wittenstein/index.html",
+  "solutions/philosophers/fitch/index.html",
+  "solutions/philosophers/macintyre/index.html",
+  "solutions/philosophers/taylorr/index.html",
+  "solutions/philosophers/alexander/index.html",
+  "solutions/philosophers/watson/index.html",
+  "solutions/philosophers/anselm/index.html",
+  "solutions/philosophers/geach/index.html",
+  "solutions/philosophers/chisholm/index.html",
+  "solutions/philosophers/chisholm/freedom_and_action.html",
+  "solutions/philosophers/mctaggart/index.html",
+  "solutions/philosophers/nelkin/index.html",
+  "solutions/philosophers/sedgwick/index.html",
+  "solutions/philosophers/ladyman/index.html",
+  "solutions/philosophers/weizsacker/index.html",
+  "solutions/philosophers/merricks/index.html",
+  "solutions/philosophers/berkeley/index.html",
+  "solutions/philosophers/franklin/index.html",
+  "solutions/philosophers/lavazza/index.html",
+  "solutions/philosophers/cahoone/index.html",
+  "solutions/philosophers/compte/index.html",
+  "solutions/philosophers/frege/index.html",
+  "solutions/philosophers/hume/index.html",
+  "solutions/philosophers/hume/letter_from_a_gentleman.html",
+  "solutions/philosophers/hume/treatise_II_iii.html",
+  "solutions/philosophers/hume/liberty_and_necessity.html",
+  "solutions/philosophers/hume/treatise_intro.html",
+  "solutions/philosophers/bergson/index.html",
+  "solutions/philosophers/clarke/index.html",
+  "solutions/philosophers/gettier/index.html",
+  "solutions/philosophers/levin/index.html",
+  "solutions/philosophers/mele/index.html",
+  "solutions/philosophers/balaguer/index.html",
+  "solutions/philosophers/twain/index.html",
+  "solutions/philosophers/wittgenstein/index.html",
+  "solutions/philosophers/levine/index.html",
+  "solutions/philosophers/berofsky/index.html",
+  "solutions/philosophers/neurath/index.html",
+  "solutions/philosophers/marcus/index.html",
+  "solutions/philosophers/barrettw/index.html",
+  "solutions/philosophers/sidelle/index.html",
+  "solutions/philosophers/reichenbach/index.html",
+  "solutions/philosophers/carnap/index.html",
+  "solutions/philosophers/hacking/index.html",
+  "solutions/philosophers/bain/index.html",
+  "solutions/philosophers/cartwright/index.html",
+  "solutions/philosophers/unger/index.html",
+  "solutions/philosophers/inwagen/index.html",
+  "solutions/philosophers/korsgaard/index.html",
+  "solutions/philosophers/rea/index.html",
+  "solutions/philosophers/williamson/index.html",
+  "solutions/philosophers/hasker/index.html",
+  "solutions/philosophers/widerker/index.html",
+  "solutions/philosophers/lycan/index.html",
+  "solutions/philosophers/slezak/index.html",
+  "solutions/philosophers/ward/index.html",
+  "solutions/philosophers/royce/index.html",
+  "solutions/philosophers/stout/index.html",
+  "solutions/philosophers/bernstein/index.html",
+  "solutions/philosophers/burke/index.html",
+  "solutions/philosophers/decaro/index.html",
+  "solutions/philosophers/double/index.html",
+  "solutions/philosophers/double/Misdirection.html",
+  "solutions/philosophers/caruso/index.html",
+  "solutions/philosophers/mcginn/index.html",
+  "solutions/philosophers/mcginn/%22.html",
+  "solutions/philosophers/democritus/index.html",
+  "solutions/philosophers/james/index.html",
+  "solutions/philosophers/james/what_is_an_emotion.html",
+  "solutions/philosophers/james/mind_and_ideas.html",
+  "solutions/philosophers/james/bain_and_renouvier.html",
+  "solutions/philosophers/james/does_consciousness_exist.html",
+  "solutions/philosophers/james/the_dilemma_of_determinsm.html",
+  "solutions/philosophers/james/what_is_an_instinct.html",
+  "solutions/philosophers/james/%22.html",
+  "solutions/philosophers/james/essays_in_radical_empiricism.html",
+  "solutions/philosophers/james/question_of_free_will.html",
+  "solutions/philosophers/james/the_dilemma_of_determinism.html",
+  "solutions/philosophers/james/great_men_great_thoughts_and_the_environment.html",
+  "solutions/philosophers/james/are_we_automata.html",
+  "solutions/philosophers/james/belief_and_will.html",
+  "solutions/philosophers/flanagan/index.html",
+  "solutions/philosophers/lucas/index.html",
+  "solutions/philosophers/kant/Introduction.html",
+  "solutions/philosophers/kant/index.html",
+  "solutions/philosophers/kant/Critique_of_Practical_Reason.html",
+  "solutions/philosophers/kant/prolegomena.html",
+  "solutions/philosophers/kant/Freedom.html",
+  "solutions/philosophers/kant/Preface.html",
+  "solutions/philosophers/boyd/index.html",
+  "solutions/philosophers/mill/index.html",
+  "solutions/philosophers/ginet/index.html",
+  "solutions/philosophers/bobzien/index.html",
+  "solutions/philosophers/honderich/index.html/index.html",
+  "solutions/philosophers/epicurus/index.html",
+  "solutions/philosophers/epicurus/letter_to_herodotus.html",
+  "solutions/philosophers/epicurus/epistula_ad menoeceum.html",
+  "solutions/philosophers/epicurus/letter_to_menoeceus.html",
+  "solutions/philosophers/epicurus/letter_to_pythocles.html",
+  "solutions/philosophers/lewid/index.html",
+  "solutions/philosophers/spinoza/index.html",
+  "solutions/philosophers/sayre/index.html",
+  "solutions/philosophers/shiang/index.html",
+  "solutions/philosophers/cassirer/index.html",
+  "solutions/philosophers/cassirer/%22.html",
+  "solutions/philosophers/searle/index.html",
+  "solutions/philosophers/searle/%22.html",
+  "solutions/philosophers/lipton/index.html",
+  "solutions/philosophers/aristotle/index.html",
+  "solutions/philosophers/norton/index.html",
+  "solutions/philosophers/whitehead/index.html",
+  "solutions/philosophers/mccall/index.html",
+  "solutions/philosophers/lehrer/index.html",
+  "solutions/philosophers/huoranszki/index.html",
+  "solutions/philosophers/sider/index.html",
+  "solutions/philosophers/pears/index.html",
+  "solutions/philosophers/vargas/index.html",
+  "solutions/philosophers/xenophon/index.html",
+  "solutions/philosophers/chrysippus/index.html",
+  "solutions/philosophers/sidgwick/index.html",
+  "solutions/philosophers/vaninwagen/index.html",
+  "solutions/philosophers/vaninwagen/%22.html",
+  "solutions/philosophers/hare/index.html",
+  "solutions/philosophers/king/index.html",
+  "solutions/philosophers/boole/index.html",
+  "solutions/philosophers/boole/logic.html",
+  "solutions/philosophers/russellp/index.html",
+  "solutions/philosophers/velleman/index.html",
+  "solutions/philosophers/clarker/index.html",
+  "solutions/philosophers/kim/index.html",
+  "solutions/philosophers/stengers/index.html",
+  "solutions/philosophers/lewis/are_we_free_to_break_the_laws.html",
+  "solutions/philosophers/lewis/index.html",
+  "solutions/philosophers/lewis/%3E.html",
+  "solutions/philosophers/lewis/%22.html",
+  "solutions/philosophers/strawson/index.html",
+  "solutions/philosophers/strawson/freedom_and_resentment.html",
+  "solutions/philosophers/strawson/freedom_and_resentment.html%22.html",
+  "solutions/philosophers/wiggins/index.html",
+  "solutions/philosophers/sinnott-armstrong/index.html",
+  "solutions/philosophers/arminius/index.html",
+  "solutions/philosophers/vihvelin/index.html",
+  "solutions/philosophers/Epicurus/index.html",
+  "solutions/philosophers/comte/index.html",
+  "solutions/philosophers/wallace/index.html",
+  "solutions/philosophers/sellars/index.html",
+  "solutions/philosophers/stump/index.html",
+  "solutions/philosophers/lehner/index.html",
+  "solutions/philosophers/fodor/index.html",
+  "solutions/philosophers/russell/index.html",
+  "solutions/philosophers/hegel/index.html",
+  "solutions/philosophers/jackson/index.html",
+  "solutions/philosophers/dempsey/index.html",
+  "solutions/philosophers/pink/index.html",
+  "solutions/philosophers/clark/index.html",
+  "solutions/philosophers/locke/index.html",
+  "solutions/philosophers/locke/%22.html",
+  "solutions/philosophers/parmenides/index.html",
+  "solutions/philosophers/aquinas/index.html",
+  "solutions/philosophers/fouilee/index.html",
+  "solutions/philosophers/oconnor/index.html",
+  "solutions/philosophers/chalmers/index.html",
+  "solutions/philosophers/chalmers/%22.html",
+  "solutions/philosophers/huoranski/index.html",
+  "solutions/philosophers/plato/index.html",
+  "solutions/philosophers/vonwright/index.html",
+  "solutions/philosophers/smart/index.html",
+  "solutions/philosophers/anaximander/index.html",
+  "solutions/philosophers/kames/index.html",
+  "solutions/philosophers/price/index.html",
+  "solutions/philosophers/heraclitus/index.html",
+  "solutions/philosophers/lucretius/index.html",
+  "solutions/philosophers/foot/index.html",
+  "solutions/philosophers/kaufmann/index.html",
+  "solutions/philosophers/weatherford/index.html",
+  "solutions/philosophers/fine/index.html",
+  "solutions/philosophers/mcintyre/index.html",
+  "solutions/philosophers/harris/index.html",
+  "solutions/philosophers/lewes/index.html",
+  "solutions/philosophers/kripke/index.html",
+  "solutions/philosophers/rorty/index.html",
+  "solutions/philosophers/reid/index.html",
+  "solutions/philosophers/reid/Active_Powers.html",
+  "solutions/philosophers/wolf/index.html",
+  "solutions/philosophers/farrer/index.html",
+  "solutions/philosophers/sellarsrw/index.html",
+  "solutions/philosopher/plato.html",
+  "solutions/philosopher/kant.html",
+  "solutions/philosopher/frankfurt/index.html",
+  "solutions/philosopher/fischer/index.html",
+  "solutions/philosopher/diodorus/index.html",
+  "solutions/philosopher/nietzsche/index.html",
+  "solutions/philosopher/cicero/index.html",
+  "solutions/philosopher/cicero/de_fato_english.html",
+  "solutions/philosopher/alexander/index.html",
+  "solutions/philosopher/merricks/index.html",
+  "solutions/philosopher/hume/index.html",
+  "solutions/philosopher/democritus/index.html",
+  "solutions/philosopher/epicurus/index.html",
+  "solutions/philosopher/aristotle/index.html",
+  "solutions/philosopher/russell/index.html",
+  "solutions/philosopher/chalmers/index.html",
+  "solutions/philosopher/plato/index.html",
+  "solutions/philosopher/price/index.html",
+  "solutions/philosopher/lucretius/index.html",
+  "solutions/philosophrs/frankfurt/index.html",
+  "solutions/truth/index.html",
+  "solutions/dogma/index.html",
+  "institute/index.html",
+  "institute/roof.html",
+  "institute/solar_panel_study.html",
+  "institute/solar/index.html",
+  "institute/plans/index.html",
+  "scandals/index.html",
+  "scandals/metaphysics/index.html",
+  "scandals/meaning/index.html",
+  "scandals/knowledge/index.html",
+  "scandals/life/index.html",
+  "scandals/einstein/index.html",
+  "scandals/mind/index.html",
+  "scandals/god/index.html",
+  "scandals/creation/index.html",
+  "scandals/consciousness/index.html",
+  "scandals/power/index.html",
+  "scandals/value/index.html",
+  "scandals/gog/index.html",
+  "scandals/cosmos/index.html",
+  "scandals/chance/index.html",
+  "scandals/free_will/index.html",
+  "scandals/wealth/index.html",
+  "solutioms/philosophers/cicero/index.html",
+  "intorduction/creation/index.html",
+  "soutions/scientists/ghirardi/index.html",
+  "books/index.html",
+  "books/%22.html",
+  "books/scandal.html",
+  "books/WWaF.html",
+  "books/einstein.html",
+  "books/scandal/index.html",
+  "books/scandal/press_release.html",
+  "books/problems/index.html",
+  "books/einstein/index.html",
+  "books/WWaF/index.html",
+  "conferences/index.html",
+  "Problems/index.html",
+  "knowldge/ERR/index.html",
+  "introduction/index.html",
+  "introduction/contact.html",
+  "introduction/physics.html",
+  "introduction/information.html",
+  "introduction/creation'.html",
+  "introduction/creation.html",
+  "introduction/biology/Illinois_1952.html",
+  "introduction/biology/index.html",
+  "introduction/biology/origin_of_life.html",
+  "introduction/biology/definition_of_life.html",
+  "introduction/biology/information_processing.html",
+  "introduction/biology/major_transitions.html",
+  "introduction/creation/index.html",
+  "introduction/information/index.html",
+  "introduction/Information/index.html",
+  "introduction/physics/waver-particle_duality.html",
+  "introduction/physics/copenhagen_interpretation.html",
+  "introduction/physics/index.html",
+  "introduction/physics/complementarity.html",
+  "introduction/physics/interpretation.html",
+  "introduction/physics/heisenberg_cut.html",
+  "introduction/physics/statistical_mechanics.html",
+  "introduction/physics/Copenhagen_Interpretation.html",
+  "introduction/physics/quantum_to_classical.html",
+  "introduction/physics/wave-particle_duality.html",
+  "introduction/physics/origins_of_information/index.html",
+  "introduction/physics/interpetation/index.html",
+  "introduction/physics/interpretations/index.html",
+  "introduction/physics/interpretations/%22.html",
+  "introduction/physics/formulations/index.html",
+  "introduction/physics/interpretation/index.html",
+  "introduction/documents/index.html",
+  "introduction/philosophy/index.html",
+  "values/index.html",
+  "values/ergodic.html",
+  "values/ergod/index.html",
+  "values/ergo/index.html",
+  "chance/index.html",
+  "chance/history/index.html",
+  "chance/tyche/index.html",
+  "freedom/epistemic_freedom.html",
+  "freedom/two-stage_models.html%22.html",
+  "freedom/nonlocality.html",
+  "freedom/determinist.html",
+  "freedom/constraints.html",
+  "freedom/libertarianism .html",
+  "freedom/free_will.html",
+  "freedom/moral_sentiments.html",
+  "freedom/mechanisms.html",
+  "freedom/tertium_quid.html",
+  "freedom/torn_decision.html",
+  "freedom/progress.html",
+  "freedom/infinities.html",
+  "freedom/asymmetry.html",
+  "freedom/uncertainty.html",
+  "freedom/disambiguation.html",
+  "freedom/chance.html%22.html",
+  "freedom/enlightenment.html",
+  "freedom/moral_responsibilty.html",
+  "freedom/up+to_us.html",
+  "freedom/two_standpoints.html",
+  "freedom/soft-causality.html",
+  "freedom/moral_necessity.html",
+  "freedom/causalism.html",
+  "freedom/indeterminism.html%22.html",
+  "freedom/index.html",
+  "freedom/chance+direct_cause.html",
+  "freedom/origination.html",
+  "freedom/franfkfurt_cases.html",
+  "freedom/atandard_argument.html",
+  "freedom/free_choice.html",
+  "freedom/chance_direct_cause.html",
+  "freedom/future_contingency.html",
+  "freedom/necessity.html",
+  "freedom/control.html",
+  "freedom/uncertanty.html",
+  "freedom/agent-causality.html",
+  "freedom/voluntarism.html",
+  "freedom/libet_experiments.html",
+  "freedom/taxonomy.html",
+  "freedom/cuasal_closure.html",
+  "freedom/mysteries.html",
+  "freedom/psuedo-problem.html",
+  "freedom/freedom_of_action.html",
+  "freedom/incompatiblism.html",
+  "freedom/free_will_theorem.html",
+  "freedom/agent_causality.html",
+  "freedom/actualism.html",
+  "freedom/temporal_sequance.html",
+  "freedom/controle.html",
+  "freedom/chance_direct_cause.html%22.html",
+  "freedom/separability.hml.html",
+  "freedom/pre-determinism.html%22.html",
+  "freedom/illusion_of_determinism.html",
+  "freedom/indeterminacy.html",
+  "freedom/two-stage_model.html",
+  "freedom/default_responsibility.html",
+  "freedom/determinism.hml.html",
+  "freedom/comprehensive-compatibilism.html",
+  "freedom/alternative_possibiities.html",
+  "freedom/adequate_determinism.html%22.html",
+  "freedom/chaos.html",
+  "freedom/control.html%22.html",
+  "freedom/pre-determinismn.html",
+  "freedom/temporal sequence.html",
+  "freedom/comprehensive_compatibilism.html",
+  "freedom/indifference.html",
+  "freedom/pseudo-problem.html",
+  "freedom/probability.html",
+  "freedom/hard_determinism.html",
+  "freedom/location.html",
+  "freedom/ultimate_responsibiliy.html",
+  "freedom/self-determination.html",
+  "freedom/same_circumstance.html",
+  "freedom/tertium_Quid.html",
+  "freedom/ethical_fallacy.html",
+  "freedom/noise.html",
+  "freedom/Libet_experiments.html",
+  "freedom/requirements.html",
+  "freedom/standard_argument.html",
+  "freedom/deteminism.html",
+  "freedom/impossibilism.html",
+  "freedom/same circumstances.html",
+  "freedom/second_thoughts.html",
+  "freedom/chance _direct_cause.html",
+  "freedom/pre-determinism.htnl.html",
+  "freedom/determination.html",
+  "freedom/index.html@LanguageCode=none.html",
+  "freedom/undetermined_liberty.html",
+  "freedom/emergent_determinism.html",
+  "freedom/two-stage-models.html",
+  "freedom/modest_libertarianism.html",
+  "freedom/de-liberation.html",
+  "freedom/naturalism.html",
+  "freedom/standard_argument.html%22.html",
+  "freedom/Laplace_Demon.html",
+  "freedom/determinism.htnl.html",
+  "freedom/downward_causation.html",
+  "freedom/x-philosophy.html",
+  "freedom/double_effect.html",
+  "freedom/causal_closure.html",
+  "freedom/pre_determinism.html",
+  "freedom/stochastic_processes.html",
+  "freedom/free-will.html",
+  "freedom/ultimate_responsibility.html",
+  "freedom/predictability.html",
+  "freedom/moral_responsibility.html%22.html",
+  "freedom/possibiities.html",
+  "freedom/same_circumstances.html",
+  "freedom/adequate_determinsim.html",
+  "freedom/responsibilty.html",
+  "freedom/certainty.html",
+  "freedom/extreme_libertarianism.html",
+  "freedom/master_argument.html",
+  "freedom/replay.html",
+  "freedom/semi-compatibilism.html",
+  "freedom/event_has_many_causes.html",
+  "freedom/free_will_axiom.html",
+  "freedom/libertartianism.html",
+  "freedom/either_way.html",
+  "freedom/inderterminism.html",
+  "freedom/complexity.html",
+  "freedom/indeterminism .html",
+  "freedom/luck.html",
+  "freedom/special_relativity.html",
+  "freedom/determinsim.html",
+  "freedom/radical_libertarianism.html",
+  "freedom/alternative_possibilities.html",
+  "freedom/non-causality.html",
+  "freedom/two-stage_models.html",
+  "freedom/tertium quid.html",
+  "freedom/causa_sui.hml.html",
+  "freedom/location.html%22.html",
+  "freedom/iactualism.html",
+  "freedom/burden_of_proof.html",
+  "freedom/hard_incompatibilism.html",
+  "freedom/chance_dirct_cause.html",
+  "freedom/scandal.html",
+  "freedom/rational_fallacy.html",
+  "freedom/adequate_detrerminism.html",
+  "freedom/indetrminism.html",
+  "freedom/alternative-possibilities.html",
+  "freedom/luck.html%22.html",
+  "freedom/comtrol.html",
+  "freedom/semicompatibilism.html",
+  "freedom/libet_experiment.html",
+  "freedom/what_if.html",
+  "freedom/superdeterminism.html",
+  "freedom/free_will_in_antiquity.html",
+  "freedom/frankfurt_cases.html",
+  "freedom/necessity.htnl.html",
+  "freedom/chance_direct_cause.hml.html",
+  "freedom/uncertainty.html%22.html",
+  "freedom/alternative possibilities.html",
+  "freedom/deliberation.html",
+  "freedom/science_advance_fallacy.html",
+  "freedom/soft_causality.html",
+  "freedom/supercompatibilism.html",
+  "freedom/determination_fallacy.html",
+  "freedom/moral_ responsibility.html",
+  "freedom/actualisn.html",
+  "freedom/moralresponsibility.html",
+  "freedom/idea_of_freedom.html",
+  "freedom/cogito.html",
+  "freedom/possibilism.html",
+  "freedom/cogito.html@LanguageCode=none.html",
+  "freedom/contingency.html",
+  "freedom/determinism .html",
+  "freedom/mechanism.html",
+  "freedom/responsibility.html%22.html",
+  "freedom/illusionism.html",
+  "freedom/adequate_determinism .html",
+  "freedom/%3Emoral_responsibility.html",
+  "freedom/change.html",
+  "freedom/libertarianism.html",
+  "freedom/determinism.html%22.html",
+  "freedom/predeterminism.html",
+  "freedom/indeterminism,html.html",
+  "freedom/crativity.html",
+  "freedom/pre-determimism.html",
+  "freedom/moral_responsibility.hml.html",
+  "freedom/determinism.htmL",
+  "freedom/conceptual_analysis.html",
+  "freedom/acausality.html",
+  "freedom/imdeterminism.html",
+  "freedom/creativity.html",
+  "freedom/moral_responsibility.html",
+  "freedom/free_will.html%22.html",
+  "freedom/compatiblilism.html",
+  "freedom/adequate-determinism.html",
+  "freedom/causa_sui.htm;.html",
+  "freedom/paradigm_case.html",
+  "freedom/possibilities.htnl.html",
+  "freedom/intention.html",
+  "freedom/causa_suit.html",
+  "freedom/reason.html",
+  "freedom/pre-determinism.html",
+  "freedom/separability.html",
+  "freedom/cogito/index.html",
+  "freedom/cogito/%22.html",
+  "freedom/what_determinists_want/index.html",
+  "freedom/free_will_in_antiquity/index.html",
+  "freedom/biology/index.html",
+  "freedom/otherwise.html/index.html",
+  "freedom/creativity/index.html",
+  "freedom/indeterminism.html/%22);%09document.write(location.href);%09document.write(%22.html",
+  "freedom/indeterminism.html/index.html",
+  "freedom/history/index.html",
+  "freedom/history/index.html@LanguageCode=none.html",
+  "freedom/chance.html/index.html",
+  "freedom/possibilities.html/index.html",
+  "freedom/causa_sui.html/index.html",
+  "freedom/determinism/html.html",
+  "freedom/physics/index.html",
+  "freedom/laplaces_demon.html/index.html",
+  "freedom/problem/index.html",
+  "freedom/problem/index.html@LanguageCode=none.html",
+  "freedom/compatibilism.html/index.html",
+  "freedom/causality/html.html",
+  "freedom/neuroscience/index.html",
+  "freedom/determinism.html/%22);%09document.write(location.href);%09document.write(%22.html",
+  "freedom/determinism.html/index.html",
+  "freedom/determinism.html/soft_causality.html",
+  "freedom/determinism.html/introduction/information/index.html",
+  "freedom/temporal_sequence.html/index.html",
+  "freedom/event_has_many_causes/html.html",
+  "freedom/causality.html/index.html",
+  "freedom/up_to_us.html/index.html",
+  "freedom/responsibility.html/index.html",
+  "freedom/uncertainty/index.html",
+  "freedom/incompatibilism.html/index.html",
+  "freedom/two-stage_models/html.html",
+  "freedom/what_determinists_want.html/index.html",
+  "freedom/chance/index.html",
+  "freedom/chance/html.html",
+  "freedom/indeterminism/index.html",
+  "freedom/constraints/html.html",
+  "freedom/adequate_determinism.html/index.html",
+  "forewords/back_story/index.html"
+ ],
+ "other": [
+  "favicon.ico",
+  "tutorials/Free_Will_625/standard.js",
+  "tutorials/free_will/standard.js",
+  "articles/STI-20101024.ppt",
+  "articles/Jamesian_Free_Will.doc",
+  "articles/Jamesian_Free_Will.pdf%22",
+  "articles/WJS-2010.ppt",
+  "articles/Physics_of_Mind.doc",
+  "articles/Free_Will_Indeterminacy.doc",
+  "animations/Animate_EPR_Osc.mp4",
+  "animations/Animate_EPR.mp4",
+  "timelines/PageFooter.css",
+  "lectures/GP7png",
+  "lectures/GP6png",
+  "lectures/Cat.mp4",
+  "presentations/STI-2020-05-10.ppt",
+  "presentations/WJS-2010.ppt",
+  "presentations/presentation.css",
+  "presentations/SSP/Doyle_SSP_PP.pptx",
+  "css/base_menu.css",
+  "css/philosophy.css",
+  "periodic_table/LiBeB.m4a",
+  "solutions/scientists/feynman/probability_and_uncertainty.htm",
+  "solutions/scientists/feynman/Feynman_Space_Time.pdf%3C/a%3ESpace-Time Approach to Non-Relativistic Quantum Mechanics,",
+  "solutions/scientists/wiener/Wiener_Progress_and_Entropy.pdf%22",
+  "solutions/scientists/bohm/Hidden_Variables_II",
+  "solutions/scientists/bohm/Hidden_Variables_I",
+  "solutions/scientists/layzer/Naturalizing_Libertarian_Free_Will.doc",
+  "solutions/scientists/pattee/Pattee_Decision_Constraints.doc",
+  "solutions/scientists/pattee/Pattee_Molecule_Message.doc",
+  "solutions/experiments/ergodic_hypothesis/ergodic.js",
+  "solutions/philosophers/dennett/seminar/Separability.doc",
+  "solutions/philosophers/dennett/seminar/Whos_Afraid.doc",
+  "solutions/philosophers/dennett/seminar/Free WillTaxonomy23.doc",
+  "solutions/philosophers/dennett/seminar/Two-Stage_Model.doc",
+  "solutions/philosophers/dennett/seminar/What_If.doc",
+  "solutions/philosophers/dennett/seminar/Randomness_Location.doc",
+  "solutions/philosophers/dennett/seminar/Kane_Dennett_Dialogue.doc",
+  "solutions/philosophers/dennett/seminar/Libet_Experiments_Two-Stage.doc",
+  "solutions/philosophers/kane/Kane_FW.doc",
+  "solutions/philosophers/nagelt/What_its_like",
+  "solutions/philosophers/lewis/are_we_free_to_break_laws.pdf%22",
+  "scripts/global-menus.js",
+  "books/scandal/Free_Will_Apple.epub",
+  "books/scandal/Free_Will.epub",
+  "books/scandal/Free_Will_Nook.epub",
+  "books/problems/Great_Problems_FXL.epub",
+  "books/problems/Great_Problems_Flow.epub",
+  "books/einstein/Stat_Mech.png%22",
+  "introduction/physics/molecules/style1.css",
+  "introduction/physics/molecules/wall.js",
+  "introduction/physics/molecules/vector2D.js",
+  "introduction/physics/molecules/forces.js",
+  "introduction/physics/molecules/ball.js",
+  "introduction/physics/molecules/molecules.js",
+  "freedom/Two-Stage_Solution.doc"
+ ]
+}

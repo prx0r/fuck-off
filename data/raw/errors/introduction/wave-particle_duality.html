@@ -1,0 +1,707 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+ <head>
+<meta name="generator" content="skyBuilders.com timeLines">
+<link rel="stylesheet" href="https://www.informationphilosopher.com/timelines/PageFooter.css"><script type="text/javascript" language="javascript"><!-- 
+if (typeof SymRealWinOpen == 'function') {
+window.open = SymRealWinOpen;
+}
+//--></script>
+
+<script type="text/javascript" language="javascript">
+var sPageSeriesName = "wave-particle_duality.html";
+var sRequestedFileName = "wave-particle_duality.1.en.html";
+var sSkyPageID = "2301";
+function mSkyWrite() {
+window.open('/timelines/index.html?skyWrite=True&UserID=3&chosenLocaleCode=en&PageSeriesID=1453&PageID=2301&DirPath=%2Fintroduction%2Fphysics%2F', '_blank', 'resizable,menubar,location,toolbar,scrollbars,status,height=600,width=832,left=250,top=50', true);
+}
+var sCurrentlyOverDocument = 1;
+
+function fGetPagePos(oElement, sDimension) {
+  var sPagePos;
+  
+  if (! (oElement = document.getElementById(oElement))) {
+    return 0;
+  }
+  
+  sPagePos = 0;
+  
+  // alert(oElement);
+  while (oElement) {
+    if (typeof(oElement['offset' + sDimension]) != 'undefined') {
+      sPagePos += oElement['offset' + sDimension];
+    }
+    // alert(typeof oElement.offsetParent);
+    if (typeof(oElement.offsetParent) != 'undefined') {
+      oElement = oElement.offsetParent;
+    } else {
+      oElement = null;
+    }
+  }
+  
+  return sPagePos;
+}
+
+function fSkyWritableOver(sDivID, oEvent) {
+  var oDiv;
+  
+  if (oEvent) {
+    sElement = (oEvent.target) ? oEvent.target : oEvent.srcElement;
+    if ((sElement.id == 'skyIncludeEditablePencilImg') || (sElement.id == 'skyIncludeEditableCornerImg')){
+      window.status = 'click to edit';
+    }
+  }
+  
+  // alert(typeof sDivID);
+  if (typeof sDivID == 'string') {
+    sCurrentlyOverDocument = 0;
+    oDiv = document.getElementById(sDivID);
+    oPencil = document.getElementById('skyIncludeEditablePencil');
+    oCorner = document.getElementById('skyIncludeEditableCorner');
+    // sDivTop = oDiv.offsetTop;
+    sDivTop = fGetPagePos(sDivID, 'Top');
+    sDivLeft = fGetPagePos(sDivID, 'Left');
+    sDivWidth = oDiv.offsetWidth;
+    sDivHeight = oDiv.offsetHeight;
+    // alert('div: ' + sDivTop);
+    // alert(sDivWidth);
+    
+    oPencil.style.top = sDivTop + 'px';
+    oPencil.style.left = (sDivLeft + sDivWidth - 21) + 'px';
+    oCorner.style.top = (sDivTop + sDivHeight - 11) + 'px';
+    oCorner.style.left = sDivLeft + 'px';
+    // oSkyIncludeEditable.style.height = '0px';
+    // oSkyIncludeEditable.style.border = '#0000ff dashed 1px';
+    oPencil.style.width = '21px';
+    oPencil.style.height = '19px';
+    oPencil.style.zIndex = '101';
+    oPencil.onmouseover = oDiv.onmouseover;
+    oPencil.onmouseout = oDiv.onmouseout;
+    oPencil.onclick = oDiv.onclick;
+    oCorner.style.width = '10px';
+    oCorner.style.height = '9px';
+    oCorner.style.zIndex = '101';
+    oCorner.onmouseover = oDiv.onmouseover;
+    oCorner.onmouseout = oDiv.onmouseout;
+    oCorner.onclick = oDiv.onclick;
+    // oSkyIncludeEditable.style.display = 'block';
+    
+    // sSkyIncludeEditableTop = oSkyIncludeEditable.style.top;
+    // alert('skyinclude: ' + sSkyIncludeEditableTop);
+    
+    if (0) {
+      oDiv.style.borderWidth = '1px';
+      oDiv.style.borderStyle = 'dashed';
+      oDiv.style.borderColor = '#0000ff';
+    }
+  } else {
+    // sCurrentlyOverDocument = 1;
+  }
+}
+
+function fSkyWritableOut(sDivID) {
+  var oDiv;
+  
+  window.status = '';
+  
+  if (typeof sDivID == 'string') {
+    sCurrentlyOverDocument = 1;
+    // oDiv = document.getElementById(sDivID);
+    // doesn't work in IE: oDiv.style.border = '1px solid transparent';
+    // document.getElementById('skyIncludeEditable').style.display = 'none';
+    document.getElementById('skyIncludeEditablePencil').style.zIndex = '-1';
+    document.getElementById('skyIncludeEditablePencil').style.top = '-100';
+    document.getElementById('skyIncludeEditableCorner').style.zIndex = '-1';
+    document.getElementById('skyIncludeEditableCorner').style.top = '-100';
+    // oDiv.style.border = '1px solid #ffffff';
+  }
+}
+
+function fDocumentOnClick(oEvent) {
+  // alert(sCurrentlyOverDocument);
+  // if (0) {
+  if (sCurrentlyOverDocument == 1) {
+    fSkyWriteInclude(1453, 2301, '/introduction/physics/', oEvent);
+  }
+}
+
+function fAsOfNow() {
+  document.cookie = 'as_of=; path=/; domain=informationphilosopher.com';
+  document.location.href = '?@=now';
+}
+
+function fSubmitAsOfForm() {
+  oYearInput = document.getElementById('as_of_year');
+  oMonthInput = document.getElementById('as_of_month');
+  oDayInput = document.getElementById('as_of_day');
+  oHourInput = document.getElementById('as_of_hour');
+  oMinuteInput = document.getElementById('as_of_minute');
+  oSecondInput = document.getElementById('as_of_second');
+
+  sAsOf = oYearInput.value + '-' + oMonthInput.value + '-' + oDayInput.value + 'T' + oHourInput.value + ':' + oMinuteInput.value + ':' + oSecondInput.value;
+  document.location.href = '?@=' + sAsOf;
+}
+
+var aAsOfInputs = [
+  'as_of_year',
+  'as_of_month',
+  'as_of_day',
+  'as_of_hour',
+  'as_of_minute',
+  'as_of_second',
+];
+
+function fAsOfOnKeyUp(e) {
+  // Handle the Enter key
+  if (e.key == 'Enter') {
+     fSubmitAsOfForm();
+  }
+}
+
+function fAsOfOnInput(e) {
+  fAsOfNextInput(e.target);
+}
+
+function fAsOfNextInput(oInput) {
+  // Handle giving focus to the next input when this one is at max length
+  sMaxLen = String(oInput.max +'').length;
+
+  if (oInput.value.length == sMaxLen) {
+     // Find which input, if any, is next in the sequence
+     sNextIndex = aAsOfInputs.indexOf(oInput.id) + 1;
+     if (sNextIndex < aAsOfInputs.length) {
+     	oNext = document.getElementById(aAsOfInputs[sNextIndex]);
+	oNext.focus();
+	oNext.select();
+     }
+  }
+}
+
+function fDismissAsOfForm() {
+  var oDiv = document.getElementById('as_of_div');
+  if (oDiv) {
+    oDiv.style.display = 'none';
+  }
+}
+
+function fOpenAsOfForm() {
+  var oDiv = document.getElementById('as_of_div');
+  if (oDiv) {
+    oDisplaySpan = document.getElementById('as_of_display');
+    oYearInput = document.getElementById('as_of_year');
+    oMonthInput = document.getElementById('as_of_month');
+    oDayInput = document.getElementById('as_of_day');
+    oHourInput = document.getElementById('as_of_hour');
+    oMinuteInput = document.getElementById('as_of_minute');
+    oSecondInput = document.getElementById('as_of_second');
+  } else {
+    var oDiv = document.createElement('div');
+    oDiv.id = 'as_of_div';
+
+    var oForm = document.createElement('form');
+    oForm.style = 'margin-block-end: 0;';
+    oForm.id = 'as_of_form';
+    oForm.name = 'as_of_form';
+    oForm.onsubmit = fSubmitAsOfForm;
+    oDiv.appendChild(oForm);
+
+    var oGrid = document.createElement('div');
+    oGrid.style = 'display: grid; grid-template-columns: max-content min-content min-content min-content min-content min-content 1fr;';
+    oGrid.ondblclick = null;
+    oForm.appendChild(oGrid);
+
+    var oHeader = document.createElement('div');
+    oHeader.style = 'grid-column: 1; grid-row: 1; margin-top: 7px; padding-right: 5px;';
+    oHeader.appendChild(document.createTextNode('Showing page as of '));
+    oDisplaySpan = document.createElement('span');
+    oDisplaySpan.id = 'as_of_display';
+    oHeader.appendChild(oDisplaySpan)
+    oHeader.appendChild(document.createTextNode('. Choose date and time:'));
+    oGrid.appendChild(oHeader);
+
+    var oYearDiv = document.createElement('div');
+    oYearDiv.className = 'as_of_input_div';
+    oYearDiv.style = 'grid-column: 2; grid-row: 1;';
+    oGrid.appendChild(oYearDiv);
+
+    var oYearInput = document.createElement('input');
+    oYearInput.id = 'as_of_year';
+    oYearInput.type = 'number';
+    oYearInput.min = 1970;
+    oYearInput.max = 9999;
+    oYearInput.oninput = fAsOfOnInput;
+    oYearInput.onkeyup = fAsOfOnKeyUp;
+    oYearDiv.appendChild(oYearInput);
+
+    oYearDiv.appendChild(document.createTextNode('-'));
+
+    var oMonthDiv = document.createElement('div');
+    oMonthDiv.className = 'as_of_input_div';
+    oMonthDiv.style = 'grid-column: 3; grid-row: 1;';
+    oGrid.appendChild(oMonthDiv);
+
+    var oMonthInput = document.createElement('input');
+    oMonthInput.id = 'as_of_month';
+    oMonthInput.type = 'number';
+    oMonthInput.min = 1;
+    oMonthInput.max = 12;
+    oMonthInput.oninput = fAsOfOnInput;
+    oMonthInput.onkeyup = fAsOfOnKeyUp;
+    oMonthDiv.appendChild(oMonthInput);
+
+    oMonthDiv.appendChild(document.createTextNode('-'));
+
+    var oDayDiv = document.createElement('div');
+    oDayDiv.className = 'as_of_input_div';
+    oDayDiv.style = 'grid-column: 4; grid-row: 1; padding-right: 5px';
+    oGrid.appendChild(oDayDiv);
+
+    var oDayInput = document.createElement('input');
+    oDayInput.id = 'as_of_day';
+    oDayInput.type = 'number';
+    oDayInput.min = 1;
+    oDayInput.max = 31;
+    oDayInput.oninput = fAsOfOnInput;
+    oDayInput.onkeyup = fAsOfOnKeyUp;
+    oDayDiv.appendChild(oDayInput);
+
+    var oHourDiv = document.createElement('div');
+    oHourDiv.className = 'as_of_input_div';
+    oHourDiv.style = 'grid-column: 5; grid-row: 1;';
+    oGrid.appendChild(oHourDiv);
+
+    var oHourInput = document.createElement('input');
+    oHourInput.id = 'as_of_hour';
+    oHourInput.type = 'number';
+    oHourInput.min = 0;
+    oHourInput.max = 23;
+    oHourInput.oninput = fAsOfOnInput;
+    oHourInput.onkeyup = fAsOfOnKeyUp;
+    oHourDiv.appendChild(oHourInput);
+
+    oHourDiv.appendChild(document.createTextNode(':'));
+
+    var oMinuteDiv = document.createElement('div');
+    oMinuteDiv.className = 'as_of_input_div';
+    oMinuteDiv.style = 'grid-column: 6; grid-row: 1;';
+    oGrid.appendChild(oMinuteDiv);
+
+    var oMinuteInput = document.createElement('input');
+    oMinuteInput.id = 'as_of_minute';
+    oMinuteInput.type = 'number';
+    oMinuteInput.min = 0;
+    oMinuteInput.max = 59;
+    oMinuteInput.oninput = fAsOfOnInput;
+    oMinuteInput.onkeyup = fAsOfOnKeyUp;
+    oMinuteDiv.appendChild(oMinuteInput);
+
+    oMinuteDiv.appendChild(document.createTextNode(':'));
+
+    var oSecondDiv = document.createElement('div');
+    oSecondDiv.className = 'as_of_input_div';
+    oSecondDiv.style = 'grid-column: 7; grid-row: 1;';
+    oGrid.appendChild(oSecondDiv);
+
+    var oSecondInput = document.createElement('input');
+    oSecondInput.id = 'as_of_second';
+    oSecondInput.type = 'number';
+    oSecondInput.min = 0;
+    oSecondInput.max = 59;
+    oSecondInput.oninput = fAsOfOnInput;
+    oSecondInput.onkeyup = fAsOfOnKeyUp;
+    oSecondDiv.appendChild(oSecondInput);
+
+    var oSecondDiv = document.createElement('div');
+    oSecondDiv.className = 'as_of_input_div';
+    oSecondDiv.style = 'grid-column: 7; grid-row: 1;';
+    oGrid.appendChild(oSecondDiv);
+
+    var oButtonsDiv = document.createElement('div');
+    oButtonsDiv.style = 'grid-column: 8; grid-row: 1 /3; padding-top: 2px; text-align: right;';
+    oEnterButton = document.createElement('button');
+    oEnterButton.style = 'margin-bottom: 5px; margin-right: 5px;';
+    oEnterButton.onclick = fSubmitAsOfForm;
+    oEnterButton.appendChild(document.createTextNode('Enter'));
+    oButtonsDiv.appendChild(oEnterButton);
+    oNowButton = document.createElement('button');
+    oNowButton.style = 'margin-bottom: 5px;';
+    oNowButton.onclick = fAsOfNow;
+    oNowButton.appendChild(document.createTextNode('Now'));
+    oButtonsDiv.appendChild(oNowButton);
+    oButtonsDiv.appendChild(document.createElement('br'));
+    oDismissButton = document.createElement('button');
+    oDismissButton.onclick = fDismissAsOfForm;
+    oDismissButton.appendChild(document.createTextNode('Dismiss'));
+    oButtonsDiv.appendChild(oDismissButton);
+    oGrid.appendChild(oButtonsDiv);
+
+    var oErrorHeader = document.createElement('div');
+    oErrorHeader.style = 'grid-column: 1; grid-row: 2; padding-right: 5px; font-weight: bold;';
+    oErrorHeader.appendChild(document.createTextNode(''));
+    oGrid.appendChild(oErrorHeader);
+
+    var oYearLabelDiv = document.createElement('div');
+    oYearLabelDiv.className = 'as_of_label';
+    oYearLabelDiv.style = 'grid-column: 2;';
+    oGrid.appendChild(oYearLabelDiv);
+    oYearLabelDiv.appendChild(document.createTextNode('Year'));
+    oYearLabelDiv.appendChild(document.createElement('br'));
+    oYearLabelDiv.appendChild(document.createTextNode('YYYY'));
+
+    var oMonthLabelDiv = document.createElement('div');
+    oMonthLabelDiv.className = 'as_of_label';
+    oMonthLabelDiv.style = 'grid-column: 3;';
+    oGrid.appendChild(oMonthLabelDiv);
+    oMonthLabelDiv.appendChild(document.createTextNode('Month'));
+    oMonthLabelDiv.appendChild(document.createElement('br'));
+    oMonthLabelDiv.appendChild(document.createTextNode('01-12'));
+
+    var oDayLabelDiv = document.createElement('div');
+    oDayLabelDiv.className = 'as_of_label';
+    oDayLabelDiv.style = 'grid-column: 4;';
+    oGrid.appendChild(oDayLabelDiv);
+    oDayLabelDiv.appendChild(document.createTextNode('Day'));
+    oDayLabelDiv.appendChild(document.createElement('br'));
+    oDayLabelDiv.appendChild(document.createTextNode('01-31'));
+
+    var oHourLabelDiv = document.createElement('div');
+    oHourLabelDiv.className = 'as_of_label';
+    oHourLabelDiv.style = 'grid-column: 5;';
+    oGrid.appendChild(oHourLabelDiv);
+    oHourLabelDiv.appendChild(document.createTextNode('Hour'));
+    oHourLabelDiv.appendChild(document.createElement('br'));
+    oHourLabelDiv.appendChild(document.createTextNode('00-23'));
+
+    var oMinuteLabelDiv = document.createElement('div');
+    oMinuteLabelDiv.className = 'as_of_label';
+    oMinuteLabelDiv.style = 'grid-column: 6;';
+    oGrid.appendChild(oMinuteLabelDiv);
+    oMinuteLabelDiv.appendChild(document.createTextNode('Minute'));
+    oMinuteLabelDiv.appendChild(document.createElement('br'));
+    oMinuteLabelDiv.appendChild(document.createTextNode('00-59'));
+
+    var oSecondLabelDiv = document.createElement('div');
+    oSecondLabelDiv.className = 'as_of_label';
+    oSecondLabelDiv.style = 'grid-column: 7;';
+    oGrid.appendChild(oSecondLabelDiv);
+    oSecondLabelDiv.appendChild(document.createTextNode('Second'));
+    oSecondLabelDiv.appendChild(document.createElement('br'));
+    oSecondLabelDiv.appendChild(document.createTextNode('00-59'));
+
+    document.body.insertBefore(oDiv, document.body.firstChild);
+  }
+
+  oYearInput.value = '2026';
+  oMonthInput.value = '07';
+  oDayInput.value = '29';
+  oHourInput.value = '19';
+  oMinuteInput.value = '52';
+  oSecondInput.value = '53';
+
+  oDisplaySpan.innerText = oYearInput.value + '-' + oMonthInput.value + '-' + oDayInput.value + ' ' + oHourInput.value + ':' + oMinuteInput.value + ':' + oSecondInput.value;
+
+  oDiv.style.display = 'block';
+
+  oYearInput.focus();
+  oYearInput.select();
+}
+
+function fDocumentOnDblClick(oEvent) {
+  fOpenAsOfForm();
+}
+
+function fDocumentOnKeyPress(oEvent) {
+  // The @ symbol
+  if ((oEvent.shiftKey) && (oEvent.code == 'Digit2')) {
+    fOpenAsOfForm();
+  }
+}
+
+document.addEventListener('DOMContentLoaded', function(event) {
+  if ('' != '') {
+     document.cookie = 'as_of=; path=/; domain=informationphilosopher.com';
+     fOpenAsOfForm();
+  }
+});
+
+
+function fSkyWriteInclude(sPageSeriesID, sPageID, sDirPath, oEvent) {
+var sIndicatorClicked, sControlKeyPressed, sShiftKeyPressed;
+var sElement;
+
+// check for shift or control key depressed
+oEvent = (oEvent) ? oEvent : (window.event) ? window.event : ''
+
+sIndicatorClicked = 0;
+sControlKeyPressed = 0;
+sShiftKeyPressed = 0;
+if (oEvent) {
+  sModifierPressed = '';
+  
+  sElement = (oEvent.target) ? oEvent.target : oEvent.srcElement;
+  // alert(sElement.id);
+  
+  if ((sElement.id == 'skyIncludeEditablePencilImg') || (sElement.id == 'skyIncludeEditableCornerImg')){
+    sIndicatorClicked = 1;
+  }
+  
+  if (oEvent.which) {
+    if (oEvent.ctrlKey) {
+      sControlKeyPressed = 1;
+    }
+  } else {
+    if (oEvent.modifiers) {
+      if (oEvent.modifiers && oEvent.CTRL_MASK) {
+        // sControlKeyPressed = oEvent.modifiers;
+        sControlKeyPressed = 1;
+      }
+    } else {
+      if (oEvent.ctrlKey) {
+        sControlKeyPressed = 1;
+      }
+    }
+  }
+  
+  if (oEvent.which) {
+    if (oEvent.shiftKey) {
+      sShiftKeyPressed = 1;
+    }
+  } else {
+    if (oEvent.modifiers) {
+      if (oEvent.modifiers && oEvent.SHIFT_MASK) {
+        // sShiftKeyPressed = oEvent.modifiers;
+        sShiftKeyPressed = 1;
+      }
+    } else {
+      if (oEvent.shiftKey) {
+        sShiftKeyPressed = 1;
+      }
+    }
+  }
+}
+
+// if shift or control key pressed
+if ((sIndicatorClicked) || (sControlKeyPressed == 1) || (sShiftKeyPressed == 1)) {
+  // alert('pressed');
+  window.open('https://www.informationphilosopher.com/timelines/index.html?skyWrite=True&PageSeriesID=' + sPageSeriesID + '&PageID=' + sPageID + '&DirPath=' + sDirPath, '_blank', 'menubar,toolbar,location,resizable,scrollbars,status,height=600,width=832,left=250,top=50', true);
+}
+}
+    
+</script>
+  <title>Wave-Particle Duality</title>
+ </head>
+ <body>
+
+<div class="breadcrumbs">
+  <a href="/">Home</a> > <a href="/introduction/">Introduction</a> > <a href="/introduction/physics/">Physics</a> > Duality
+</div>
+<div class="chaptertitle">Wave-Particle Duality</div>
+<p/>
+Can something possibly be, at one and the same time, <i>both</i> a discrete particle (<a href="/solutions/scientists/heisenberg/">Werner Heisenberg</a>) and a continuous wave (<a href="/solutions/scientists/schrodinger/">Erwin Schrödinger</a>)?
+<p/>
+This mystery at the heart of quantum mechanics was seen first by <a href="/solutions/scientists/einstein/">Albert Einstein</a> in his 1905 paper (for which he won the Nobel Prize) proposing his "light-quantum hypothesis."
+<p/>
+He wrote in 1905:
+<div class="linksRight">
+On the modern quantum view, what spreads out is a wave of probability amplitude, the possibilities for absorbing a whole photon somewhere.
+</div>
+<blockquote>
+In accordance with the assumption to be considered here, the energy of a light ray spreading
+out from a point source is not continuously
+distributed over an increasing space but consists
+of a finite number of energy quanta which are
+localized at points in space, which move without
+dividing, and which can only be produced and
+absorbed as whole units.
+<blockquote>
+<div class="breadcrumbs">
+("<a href="/solutions/scientists/einstein/AJP_photon.pdf">A Heuristic Viewpoint on the Production and Transformation of Light</a>," <i>Annalen der Physik</i>, vol.17, p.133, English translation - American Journal of Physics, 33, 5, p.368)
+</div>
+</blockquote>
+</blockquote>
+<p/>
+In 1909, Einstein speculated about the connection between wave and particle views:
+<blockquote>
+<div class="linksRight">
+This is <i>wave-particle duality</i> fourteen years before Louis deBroglie's matter waves and Erwin Schrödinger's wave equation and wave mechanics
+</div>
+When light was shown to exhibit interference and diffraction, it seemed almost certain that light should be considered a wave...A large body of facts shows undeniably that light has certain fundamental properties that are better explained by Newton's emission theory of light than by the oscillation theory. For this reason, I believe that the next phase in the development of theoretical physics will bring us a theory of light that can be considered a fusion of the oscillation and emission theories... 
+<p/>
+Even without delving deeply into theory, one notices that our theory of light cannot explain certain fundamental properties of phenomena associated with light. Why does the color of light, and not its intensity, determine whether a certain photochemical reaction occurs? Why is light of short wavelength generally more effective chemically than light of longer wavelength? Why is the speed of photoelectrically produced cathode rays independent of the light's intensity? Why are higher temperatures (and, thus, higher molecular energies) required to add a short-wavelength component to the radiation emitted by an object? 
+<p/>
+The fundamental property of the oscillation theory that engenders these difficulties seems to me the following. In the kinetic theory of molecules, for every process in which only a few elementary particles participate (e.g., molecular collisions), the inverse process also exists. But that is not the case for the elementary processes of radiation. 
+<div class="linksRight">
+Einstein's view since 1905 was that light quanta are emitted in particular directions. There are no outgoing spherical waves (except probability amplitude waves). Even less likely are <i>incoming</i> spherical waves. 
+</div>
+According to our prevailing theory, an oscillating ion generates a spherical wave that propagates outwards. The inverse process does not exist as an elementary process. A converging spherical wave is mathematically possible, to be sure; but to approach its realization requires a vast number of emitting entities. The elementary process of emission is not invertible. In this, I believe, our oscillation theory does not hit the mark. Newton's emission theory of light seems to contain more truth with respect to this point than the oscillation theory since, first of all, the energy given to a light particle is not scattered over infinite space, but remains available for an elementary process of absorption.
+<blockquote>
+<div class="breadcrumbs">
+(<a href="/solutions/scientists/einstein/1909.html">On the Development of Our Views Concerning the Nature and Constitution of Radiation</a>)
+</div>
+</blockquote>
+</blockquote>
+<p/>
+<div class="sectiontitle">
+Dueling Wave and Particle Theories
+</div>
+Not only do we have the problem of understanding wave-particle duality in a quantum system, we have a full-blown wave mechanical theory (deBroglie and Schrödinger) <i>versus</i> a particle mechanics theory (Heisenberg, <a href="/solutions/scientists/born/">Max Born</a>, <a href="/solutions/scientists/jordan/">Pascual Jordan</a>).
+<p/>
+Before either of these theories was developed in the mid-1920's, Einstein in 1916 showed how both wave-like and particle-like behaviors are seen in light quanta, and that the emission of light is done at random times and in random directions. This was the introduction of <i>ontological</i> <a href="freedom/chance.html">chance</a> (<i>Zufall</i>) into physics, over a decade before Heisenberg announced that quantum mechanics is <a href="freedom/causa_sui.html">acausal</a> in his "uncertainty principle" paper of 1927.
+<p/>
+<p/>
+As late as 1917, Einstein felt very much alone in believing the <i>reality</i> (his emphasis) of light quanta:
+<blockquote>
+I do not doubt anymore the <i>reality</i> of radiation quanta, although I still stand quite alone in this conviction 
+<blockquote>
+<div class="breadcrumbs">
+(Letter to Besso, quoted by Abraham Pais," <i>"Subtle is the Lord..."</i>, p.411)
+</div>
+</blockquote>
+</blockquote>
+<p/>
+Einstein in 1916 had just derived his A and B coefficients describing the absorption, spontaneous emission, and (his newly predicted) <i>stimulated</i> emission of radiation. In two papers, "Emission and Absorption of Radiation in Quantum Theory," and "On the Quantum Theory of Radiation," he derived the Planck law (for Planck it was mostly a guess at the formula), he derived Planck's postulate <i>E</i> = <i>hν</i>, and he derived Bohr's second postulate <i>E<sub>m</sub></i> - <i>E<sub>n</sub></i> = <i>hν</i>. Einstein did this by exploiting the obvious relationship between the Maxwell-Boltzmann distribution of gas particle velocities and the distribution of radiation in Planck's law.
+
+<p/>
+<img src="/images/Planck_law.png" width="70%"> 
+<p/>
+<div style="float:right;margin-left:8px;">
+<img src="/introduction/physics/images/MaxwellBoltzmann.gif">
+</div> 
+<blockquote>
+The formal similarity between the chromatic distribution curve for
+thermal radiation and the Maxwell velocity-distribution law is too
+striking to have remained hidden for long. In fact, it was this similarity
+which led W. Wien, some time ago, to an extension of the radiation
+formula in his important theoretical paper, in which he derived his
+displacement law...Not long ago I discovered a derivation of Planck's formula which
+was closely related to Wien's original argument and which was based
+on the fundamental assumption of quantum theory. This derivation
+displays the relationship between Maxwell's curve and the chromatic
+distribution curve and deserves attention not only because of its
+simplicity, but especially because it seems to throw some light on the
+mechanism of emission and absorption of radiation by matter, a
+process which is still obscure to us.
+<blockquote>
+<div class="breadcrumbs">
+("<a href="/solutions/scientists/einstein/1916_A-B.pdf">On the Quantum Theory of Radiation</a>," <i>Sources of Quantum Mechanics</i>, B. L. van der Waerden, Dover, 1967, p.63)
+</div>
+</blockquote>
+</blockquote>
+ 
+
+But the introduction of Maxwell-Boltzmann statistical mechanical thinking to electromagnetic theory has produced what Einstein called a "weakness in the theory." It introduces the <i>reality</i> of an irreducible objective <a href="/freedom/chance.html">chance</a>! 
+<p/>
+If light quanta are particles with energy <i>E = hν</i> traveling at the velocity of light <i>c</i>, then they should have a momentum <i>p = E/c = hν/c</i>. When light is <i>absorbed</i> by material particles, this momentum will clearly be transferred to the particle. But when light is <i>emitted</i> by an atom or molecule, a problem appears. 
+<p/>
+<div class="linksRight">
+The "statistical interpretation" of <a href="/solutions/scientists/born/">Max Born</a> tells us the outgoing wave is the probability amplitude wave function <i><b>Ψ</b></i>, whose absolute square is the <a href="/freedom/probability.html">probability</a> of finding a light particle in an arbitrary direction.
+</div>
+Conservation of momentum requires that the momentum of the emitted particle will cause an atom to recoil with momentum <i>hν/c</i> in the opposite direction. However, the standard theory of spontaneous emission of radiation is that it produces a <i>spherical wave</i> going out in all directions. A spherically symmetric wave has no preferred direction. In which direction does the atom recoil? Einstein asked:
+
+<blockquote>
+Does the molecule receive an impulse when it absorbs or emits the energy <i>ε</i>? For example, let us look at emission from the point of view of classical electrodynamics. When a body emits the
+radiation <i>ε</i> it suffers a recoil (momentum) <i>ε/c</i> if the entire amount of radiation energy
+is emitted in the same direction. If, however, the emission is a spatially symmetric
+process, e.g., a spherical wave, no recoil at all occurs. This alternative also plays a
+role in the quantum theory of radiation. When a molecule absorbs or emits the energy
+<i>ε</i> in the form of radiation during the transition between quantum theoretically possible
+states, then this elementary process can be viewed either as a completely or partially
+directed one in space, or also as a symmetrical (nondirected) one. <i>It turns out that we
+arrive at a theory that is free of contradictions, only if we interpret those elementary
+processes as completely directed processes.</i> 
+<blockquote>
+<div class="breadcrumbs">
+("<a href="/solutions/scientists/einstein/1916_A-B.pdf">On the Quantum Theory of Radiation</a>, p.65)
+</div>
+</blockquote>
+</blockquote>
+
+<p/>
+An outgoing light particle must impart momentum <i>hν/c</i> to the atom or molecule, but the direction of the momentum can not be predicted! Neither can the theory predict the time when the light quantum will be emitted.  
+<p/>
+Such a random time was not unknown to physics. When Ernest Rutherford derived the law for radioactive decay of unstable atomic nuclei in 1900, he could only give the probability of decay time. Einstein saw the connection with radiation emission:
+<blockquote>
+It speaks in favor of the theory that the statistical law assumed for [spontaneous] emission is nothing but the Rutherford law of radioactive decay. 
+<blockquote>
+<div class="breadcrumbs">
+(Pais," <i>"Subtle is the Lord..."</i>, p.411)
+</div>
+</blockquote>
+</blockquote>
+But the inability to predict both the time and direction of light particle emissions, said Einstein in 1917, is "a weakness in the theory..., that it leaves time and direction of elementary processes to <a href="/freedom/chance.html">chance</a> (<i>Zufall, ibid.</i>)." It is only a weakness for Einstein, of course, because his God does not play dice.
+<p/>
+Einstein clearly saw, as none of his contemporaries did, that since spontaneous emission is a statistical process, it cannot possibly be described with classical physics.  
+<blockquote>
+The properties of elementary processes required...make it seem almost inevitable to formulate a truly quantized theory of radiation.
+<blockquote>
+<div class="breadcrumbs">
+(Pais, <i>ibid.</i>)
+</div>
+</blockquote>
+</blockquote>
+<p/>
+<div class="sectiontitle">
+How Einstein Discovered Wave-Particle Duality
+</div>
+Einstein was bothered by Planck's discovery of the blackbody radiation law. He said that it "rests on a seemingly monstrous assumption." <!--1917-->
+<blockquote>
+Planck's theory leads to the following conjecture. If it is really true that a radiative resonator can only assume energy values that are multiples of <i>hν</i>, the obvious assumption is that the emission and absorption of light occurs only in these energy quantities. On the basis of this hypothesis, the <b>light-quanta hypothesis</b>, the questions raised above about the emission and absorption of light can be answered. As far as we know, the quantitative consequences of this light-quanta hypothesis are confirmed. This provokes the following question. Is it not thinkable that Planck's radiation formula is correct, but that another derivation could be found that does not rest on such a seemingly monstrous assumption as Planck's theory? Is it not possible to replace the light-quanta hypothesis with another assumption, with which one could do justice to known phenomena? If it is necessary to modify the theory's elements, couldn't one keep the propagation laws intact, and only change the conceptions of the elementary processes of emission and absorption?</p>
+
+<p/>To arrive at a certain answer to this question, let us proceed in the opposite direction of Planck in his radiation theory. Let us view Planck's radiation formula as correct, and ask ourselves whether something concerning the composition of radiation can be derived from it.
+<blockquote>
+<div class="breadcrumbs">
+("On the Development of Our Views Concerning the Nature and Constitution of Radiation", <i>Physikalische Zeitschrift</i>, 10, 817-825, 1909)
+</div>
+</blockquote>
+</blockquote>
+<p/>
+Eight years later, in his <a href="/solutions/scientists/einstein/1916_A-B.html">paper on the A and B coefficients</a> (transition probabilities) for the emission and absorption of radiation, Einstein carried through his attempt to understand the Planck law. He confirmed that light behaves sometimes like waves, at other times like the particles of a gas.   
+<p/>  
+
+
+
+
+
+    <div class="reader_level_1">
+     <div class="sectiontitle">For Teachers</div>
+     <div class="breadcrumbs">To hide this material, click on the Normal link.</div>
+
+    </div>
+
+    <div class="reader_level_2">
+     <div class="sectiontitle">For Scholars</div>
+     <div class="breadcrumbs">To hide this material, click on the Teacher or Normal link.</div>
+
+<p/>
+   </div>
+
+<hr color="#CCCCEE">
+
+    <table class="footernav" width="100%">
+      <tbody>
+        <tr>
+          <td align="left"><a href="/introduction/creation/"><img border="0" align="bottom" src="/images/ArrowLeft.gif" /></a> <a href="/introduction/creation/">Chapter 1.1 - Creation</a> </td> 
+        <td align="right"><a href="/introduction/information/">Chapter 1.3 - Information</a> <a href="/introduction/information/"><img src="/images/ArrowRight.gif"  border="0"></a></td>
+        </tr>
+        <tr>
+          <td align="left"><a href="/"><img border="0" align="bottom" src="/images/ArrowLeft.gif" /></a> <a href="/">Home</strong></a> </td> 
+        <td align="right"><a href="/knowledge/">Part Two - Knowledge</a> <a href="/knowledge/"><img src="/images/ArrowRight.gif"  border="0"></a></td>
+        </tr>
+      </tbody>
+    </table>
+
+
+<div id="skyFooter2301" class="skyFooter">
+
+<script type="text/javascript" language="javascript">
+document.onclick = fDocumentOnClick;
+document.ondblclick = fDocumentOnDblClick;
+document.onkeypress = fDocumentOnKeyPress;
+document.onmouseover = fSkyWritableOver;
+</script>
+<div class="skyFooterText">
+</div>
+
+</div>
+</body>
+</html>

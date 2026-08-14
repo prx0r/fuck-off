@@ -1,0 +1,2821 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+  <head>
+
+        
+    <link href="/css/base_menu.css" rel="stylesheet" type="text/css">
+    <link rel="shortcut icon" href="/favicon.ico"> 
+   
+        
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="description" content="Information Philosopher is dedicated to the new Information Philosophy, with explanations for Freedom, Values, and Knowledge.">
+    <meta name="keywords" content="Information, Philosopher, Philosophy, Freedom, Values, Knowledge, Demons, Determinism, Dogmas, Dualism, Certainty, Uncertainty, Indeterminacy, Entropy, Randomness, Microcosmos, Macrocosmos, Quantum Mechanics, Thermodynamics, Second Law ">
+    
+    <!-- You can use Open Graph tags to customize Facebook link previews.
+    Learn more: https://developers.facebook.com/docs/sharing/webmasters
+    Required properties are:
+      og:url, og:type, og:title, og:description, og:image, and fb:app_id
+    If og:image is not used, Facebook will notice the Twitter meta tags below 
+    and use a twitter icon for the page's image, which is undesirable, so I put 
+    in an empty og:image for now.
+    <meta property="og:image" content="http://informationphilosopher.com/images/Big_Bang_Timeline400.png">
+   
+    <meta property="og:image" content="">
+
+    <meta name="twitter:site" value="@infophilosopher" />
+    <meta property="twitter:url" content="https://informationphilosopher.com" />
+    <meta property="twitter:title" content="dedicated to the new information philosophy" />
+    <meta property="twitter:description" content="Problems in Philosophy and Physics Solved?" />
+ 
+    <script>window.twttr = (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0],
+        t = window.twttr || {};
+      if (d.getElementById(id)) return t;
+      js = d.createElement(s);
+      js.id = id;
+      js.src = "https://platform.twitter.com/widgets.js";
+      fjs.parentNode.insertBefore(js, fjs);
+
+      t._e = [];
+      t.ready = function(f) {
+        t._e.push(f);
+      };
+      return t;
+    }(document, "script", "twitter-wjs"));</script>
+     -->
+    <style>
+      #search_bar {
+        height: 24px;
+      }
+      #social_cluster {
+      	padding-right: 7px;
+     	padding-top: 3px;
+        float: right;
+        text-align: right;
+        width: 220px;
+      }
+      // #social_cluster div {
+      //   display: inline-block;
+      //   padding-bottom: 2px;
+      // }
+      .social_button {
+        float: right;
+        display: inline-block;
+        padding-top: 2px;
+        padding-bottom: 2px;
+      }
+      #social_links {
+      	clear: both;
+        font-size: 7pt;
+        color: #000099;
+      }
+      #social_links img {
+      	vertical-align: middle;  
+      }
+    </style>
+
+    <script language="javascript" type="text/javascript" src="/scripts/global-menus.js"></script>
+    
+    
+    
+    <style type="text/css">
+    .reader_level_0, .div_0 {
+      display: block;
+    }
+    .reader_level_1, .div_1 {
+      display: none;
+    }
+    .reader_level_2, .div_2 {
+      display: none;
+    }
+    .reader_level_0_span, .span_0 {
+      display: inline;
+    }
+    .reader_level_1_span, .span_1 {
+      display: none;
+    }
+    .reader_level_2_span, .span_2 {
+      display: none;
+    }
+    #reader_level_0_link {
+      
+  color: #000000;
+  font-weight: bold;
+  text-decoration: none;
+  cursor: text;    }
+    #reader_level_1_link {
+          }
+    #reader_level_2_link {
+          }
+    </style>
+    <script language="javascript" type="text/javascript">
+    function getElementsByClass(searchClass,node,tag) {
+      // thanks to Dustin Diaz
+      var classElements = new Array();
+      if ( node == null )
+        node = document;
+      if ( tag == null )
+        tag = '*';
+      var els = node.getElementsByTagName(tag);
+      var elsLen = els.length;
+      var pattern = new RegExp("(^|\s)"+searchClass+"(\s|$)");
+      for (i = 0, j = 0; i < elsLen; i++) {
+        if ( pattern.test(els[i].className) ) {
+          classElements[j] = els[i];
+          j++;
+        }
+      }
+      return classElements;
+    }
+    function fSetClassDisplay(sClass, sDisplay) {
+      var aClassElement;
+      aClassElement = getElementsByClass(sClass, document, "*");
+      // alert(aClassElement.length);
+      for ( i = 0; i < aClassElement.length; i++ ) {
+        aClassElement[i].style.display = sDisplay;
+      }
+    }
+    function fDimLink(sId) {
+      document.getElementById(sId).style.color = "#000000";
+      document.getElementById(sId).style.fontWeight = "bold";
+      document.getElementById(sId).style.textDecoration = "none";
+    }
+    function fLightLink(sId) {
+      document.getElementById(sId).style.color = "#3333ff";
+      document.getElementById(sId).style.fontWeight = "normal";
+      document.getElementById(sId).style.textDecoration = "underline";
+    }
+    function fSetReaderLevel(sReaderLevel) {
+      var sLevel0, sLevel1, sLevel2, sLevel0Span, sLevel1Span, sLevel2Span;
+      // set cookie
+      document.cookie = "ReaderLevel=" + sReaderLevel + "; expires=1785357531; path=/";
+      // set styles
+      if (sReaderLevel == 0) {
+        fDimLink("reader_level_0_link");
+        sLevel0 = "block";
+        sLevel1 = "none";
+        sLevel2 = "none";
+        sLevel0Span = "inline";
+        sLevel1Span = "none";
+        sLevel2Span = "none";
+      } else {
+        fLightLink("reader_level_0_link");
+      }
+      if (sReaderLevel == 1) {
+        fDimLink("reader_level_1_link");
+        sLevel0 = "block";
+        sLevel1 = "block";
+        sLevel2 = "none";
+        sLevel0Span = "inline";
+        sLevel1Span = "inline";
+        sLevel2Span = "none";
+      } else {
+        fLightLink("reader_level_1_link");
+      }
+      if (sReaderLevel == 2) {
+        fDimLink("reader_level_2_link");
+        sLevel0 = "block";
+        sLevel1 = "block";
+        sLevel2 = "block";
+        sLevel0Span = "inline";
+        sLevel1Span = "inline";
+        sLevel2Span = "inline";
+      } else {
+        fLightLink("reader_level_2_link");
+      }
+      fSetClassDisplay("reader_level_0", sLevel0);
+      fSetClassDisplay("reader_level_1", sLevel1);
+      fSetClassDisplay("reader_level_2", sLevel2);
+      fSetClassDisplay("div_0", sLevel0);
+      fSetClassDisplay("div_1", sLevel1);
+      fSetClassDisplay("div_2", sLevel2);
+      fSetClassDisplay("reader_level_0_span", sLevel0Span);
+      fSetClassDisplay("reader_level_1_span", sLevel1Span);
+      fSetClassDisplay("reader_level_2_span", sLevel2Span);
+      fSetClassDisplay("span_0", sLevel0Span);
+      fSetClassDisplay("span_1", sLevel1Span);
+      fSetClassDisplay("span_2", sLevel2Span);
+    }
+    </script>
+    
+<meta name="generator" content="skyBuilders.com timeLines">
+<link rel="stylesheet" href="https://www.informationphilosopher.com/timelines/PageFooter.css"><script type="text/javascript" language="javascript"><!-- 
+if (typeof SymRealWinOpen == 'function') {
+window.open = SymRealWinOpen;
+}
+//--></script>
+
+<script type="text/javascript" language="javascript">
+var sPageSeriesName = "are_we_automata.html";
+var sRequestedFileName = "are_we_automata.1.en.html";
+var sSkyPageID = "1508";
+function mSkyWrite() {
+window.open('/timelines/index.html?skyWrite=True&UserID=3&chosenLocaleCode=en&PageSeriesID=1002&PageID=1508&DirPath=%2Fsolutions%2Fphilosophers%2Fjames%2F', '_blank', 'resizable,menubar,location,toolbar,scrollbars,status,height=600,width=832,left=250,top=50', true);
+}
+var sCurrentlyOverDocument = 1;
+
+function fGetPagePos(oElement, sDimension) {
+  var sPagePos;
+  
+  if (! (oElement = document.getElementById(oElement))) {
+    return 0;
+  }
+  
+  sPagePos = 0;
+  
+  // alert(oElement);
+  while (oElement) {
+    if (typeof(oElement['offset' + sDimension]) != 'undefined') {
+      sPagePos += oElement['offset' + sDimension];
+    }
+    // alert(typeof oElement.offsetParent);
+    if (typeof(oElement.offsetParent) != 'undefined') {
+      oElement = oElement.offsetParent;
+    } else {
+      oElement = null;
+    }
+  }
+  
+  return sPagePos;
+}
+
+function fSkyWritableOver(sDivID, oEvent) {
+  var oDiv;
+  
+  if (oEvent) {
+    sElement = (oEvent.target) ? oEvent.target : oEvent.srcElement;
+    if ((sElement.id == 'skyIncludeEditablePencilImg') || (sElement.id == 'skyIncludeEditableCornerImg')){
+      window.status = 'click to edit';
+    }
+  }
+  
+  // alert(typeof sDivID);
+  if (typeof sDivID == 'string') {
+    sCurrentlyOverDocument = 0;
+    oDiv = document.getElementById(sDivID);
+    oPencil = document.getElementById('skyIncludeEditablePencil');
+    oCorner = document.getElementById('skyIncludeEditableCorner');
+    // sDivTop = oDiv.offsetTop;
+    sDivTop = fGetPagePos(sDivID, 'Top');
+    sDivLeft = fGetPagePos(sDivID, 'Left');
+    sDivWidth = oDiv.offsetWidth;
+    sDivHeight = oDiv.offsetHeight;
+    // alert('div: ' + sDivTop);
+    // alert(sDivWidth);
+    
+    oPencil.style.top = sDivTop + 'px';
+    oPencil.style.left = (sDivLeft + sDivWidth - 21) + 'px';
+    oCorner.style.top = (sDivTop + sDivHeight - 11) + 'px';
+    oCorner.style.left = sDivLeft + 'px';
+    // oSkyIncludeEditable.style.height = '0px';
+    // oSkyIncludeEditable.style.border = '#0000ff dashed 1px';
+    oPencil.style.width = '21px';
+    oPencil.style.height = '19px';
+    oPencil.style.zIndex = '101';
+    oPencil.onmouseover = oDiv.onmouseover;
+    oPencil.onmouseout = oDiv.onmouseout;
+    oPencil.onclick = oDiv.onclick;
+    oCorner.style.width = '10px';
+    oCorner.style.height = '9px';
+    oCorner.style.zIndex = '101';
+    oCorner.onmouseover = oDiv.onmouseover;
+    oCorner.onmouseout = oDiv.onmouseout;
+    oCorner.onclick = oDiv.onclick;
+    // oSkyIncludeEditable.style.display = 'block';
+    
+    // sSkyIncludeEditableTop = oSkyIncludeEditable.style.top;
+    // alert('skyinclude: ' + sSkyIncludeEditableTop);
+    
+    if (0) {
+      oDiv.style.borderWidth = '1px';
+      oDiv.style.borderStyle = 'dashed';
+      oDiv.style.borderColor = '#0000ff';
+    }
+  } else {
+    // sCurrentlyOverDocument = 1;
+  }
+}
+
+function fSkyWritableOut(sDivID) {
+  var oDiv;
+  
+  window.status = '';
+  
+  if (typeof sDivID == 'string') {
+    sCurrentlyOverDocument = 1;
+    // oDiv = document.getElementById(sDivID);
+    // doesn't work in IE: oDiv.style.border = '1px solid transparent';
+    // document.getElementById('skyIncludeEditable').style.display = 'none';
+    document.getElementById('skyIncludeEditablePencil').style.zIndex = '-1';
+    document.getElementById('skyIncludeEditablePencil').style.top = '-100';
+    document.getElementById('skyIncludeEditableCorner').style.zIndex = '-1';
+    document.getElementById('skyIncludeEditableCorner').style.top = '-100';
+    // oDiv.style.border = '1px solid #ffffff';
+  }
+}
+
+function fDocumentOnClick(oEvent) {
+  // alert(sCurrentlyOverDocument);
+  // if (0) {
+  if (sCurrentlyOverDocument == 1) {
+    fSkyWriteInclude(1002, 1508, '/solutions/philosophers/james/', oEvent);
+  }
+}
+
+function fAsOfNow() {
+  document.cookie = 'as_of=; path=/; domain=informationphilosopher.com';
+  document.location.href = '?@=now';
+}
+
+function fSubmitAsOfForm() {
+  oYearInput = document.getElementById('as_of_year');
+  oMonthInput = document.getElementById('as_of_month');
+  oDayInput = document.getElementById('as_of_day');
+  oHourInput = document.getElementById('as_of_hour');
+  oMinuteInput = document.getElementById('as_of_minute');
+  oSecondInput = document.getElementById('as_of_second');
+
+  sAsOf = oYearInput.value + '-' + oMonthInput.value + '-' + oDayInput.value + 'T' + oHourInput.value + ':' + oMinuteInput.value + ':' + oSecondInput.value;
+  document.location.href = '?@=' + sAsOf;
+}
+
+var aAsOfInputs = [
+  'as_of_year',
+  'as_of_month',
+  'as_of_day',
+  'as_of_hour',
+  'as_of_minute',
+  'as_of_second',
+];
+
+function fAsOfOnKeyUp(e) {
+  // Handle the Enter key
+  if (e.key == 'Enter') {
+     fSubmitAsOfForm();
+  }
+}
+
+function fAsOfOnInput(e) {
+  fAsOfNextInput(e.target);
+}
+
+function fAsOfNextInput(oInput) {
+  // Handle giving focus to the next input when this one is at max length
+  sMaxLen = String(oInput.max +'').length;
+
+  if (oInput.value.length == sMaxLen) {
+     // Find which input, if any, is next in the sequence
+     sNextIndex = aAsOfInputs.indexOf(oInput.id) + 1;
+     if (sNextIndex < aAsOfInputs.length) {
+     	oNext = document.getElementById(aAsOfInputs[sNextIndex]);
+	oNext.focus();
+	oNext.select();
+     }
+  }
+}
+
+function fDismissAsOfForm() {
+  var oDiv = document.getElementById('as_of_div');
+  if (oDiv) {
+    oDiv.style.display = 'none';
+  }
+}
+
+function fOpenAsOfForm() {
+  var oDiv = document.getElementById('as_of_div');
+  if (oDiv) {
+    oDisplaySpan = document.getElementById('as_of_display');
+    oYearInput = document.getElementById('as_of_year');
+    oMonthInput = document.getElementById('as_of_month');
+    oDayInput = document.getElementById('as_of_day');
+    oHourInput = document.getElementById('as_of_hour');
+    oMinuteInput = document.getElementById('as_of_minute');
+    oSecondInput = document.getElementById('as_of_second');
+  } else {
+    var oDiv = document.createElement('div');
+    oDiv.id = 'as_of_div';
+
+    var oForm = document.createElement('form');
+    oForm.style = 'margin-block-end: 0;';
+    oForm.id = 'as_of_form';
+    oForm.name = 'as_of_form';
+    oForm.onsubmit = fSubmitAsOfForm;
+    oDiv.appendChild(oForm);
+
+    var oGrid = document.createElement('div');
+    oGrid.style = 'display: grid; grid-template-columns: max-content min-content min-content min-content min-content min-content 1fr;';
+    oGrid.ondblclick = null;
+    oForm.appendChild(oGrid);
+
+    var oHeader = document.createElement('div');
+    oHeader.style = 'grid-column: 1; grid-row: 1; margin-top: 7px; padding-right: 5px;';
+    oHeader.appendChild(document.createTextNode('Showing page as of '));
+    oDisplaySpan = document.createElement('span');
+    oDisplaySpan.id = 'as_of_display';
+    oHeader.appendChild(oDisplaySpan)
+    oHeader.appendChild(document.createTextNode('. Choose date and time:'));
+    oGrid.appendChild(oHeader);
+
+    var oYearDiv = document.createElement('div');
+    oYearDiv.className = 'as_of_input_div';
+    oYearDiv.style = 'grid-column: 2; grid-row: 1;';
+    oGrid.appendChild(oYearDiv);
+
+    var oYearInput = document.createElement('input');
+    oYearInput.id = 'as_of_year';
+    oYearInput.type = 'number';
+    oYearInput.min = 1970;
+    oYearInput.max = 9999;
+    oYearInput.oninput = fAsOfOnInput;
+    oYearInput.onkeyup = fAsOfOnKeyUp;
+    oYearDiv.appendChild(oYearInput);
+
+    oYearDiv.appendChild(document.createTextNode('-'));
+
+    var oMonthDiv = document.createElement('div');
+    oMonthDiv.className = 'as_of_input_div';
+    oMonthDiv.style = 'grid-column: 3; grid-row: 1;';
+    oGrid.appendChild(oMonthDiv);
+
+    var oMonthInput = document.createElement('input');
+    oMonthInput.id = 'as_of_month';
+    oMonthInput.type = 'number';
+    oMonthInput.min = 1;
+    oMonthInput.max = 12;
+    oMonthInput.oninput = fAsOfOnInput;
+    oMonthInput.onkeyup = fAsOfOnKeyUp;
+    oMonthDiv.appendChild(oMonthInput);
+
+    oMonthDiv.appendChild(document.createTextNode('-'));
+
+    var oDayDiv = document.createElement('div');
+    oDayDiv.className = 'as_of_input_div';
+    oDayDiv.style = 'grid-column: 4; grid-row: 1; padding-right: 5px';
+    oGrid.appendChild(oDayDiv);
+
+    var oDayInput = document.createElement('input');
+    oDayInput.id = 'as_of_day';
+    oDayInput.type = 'number';
+    oDayInput.min = 1;
+    oDayInput.max = 31;
+    oDayInput.oninput = fAsOfOnInput;
+    oDayInput.onkeyup = fAsOfOnKeyUp;
+    oDayDiv.appendChild(oDayInput);
+
+    var oHourDiv = document.createElement('div');
+    oHourDiv.className = 'as_of_input_div';
+    oHourDiv.style = 'grid-column: 5; grid-row: 1;';
+    oGrid.appendChild(oHourDiv);
+
+    var oHourInput = document.createElement('input');
+    oHourInput.id = 'as_of_hour';
+    oHourInput.type = 'number';
+    oHourInput.min = 0;
+    oHourInput.max = 23;
+    oHourInput.oninput = fAsOfOnInput;
+    oHourInput.onkeyup = fAsOfOnKeyUp;
+    oHourDiv.appendChild(oHourInput);
+
+    oHourDiv.appendChild(document.createTextNode(':'));
+
+    var oMinuteDiv = document.createElement('div');
+    oMinuteDiv.className = 'as_of_input_div';
+    oMinuteDiv.style = 'grid-column: 6; grid-row: 1;';
+    oGrid.appendChild(oMinuteDiv);
+
+    var oMinuteInput = document.createElement('input');
+    oMinuteInput.id = 'as_of_minute';
+    oMinuteInput.type = 'number';
+    oMinuteInput.min = 0;
+    oMinuteInput.max = 59;
+    oMinuteInput.oninput = fAsOfOnInput;
+    oMinuteInput.onkeyup = fAsOfOnKeyUp;
+    oMinuteDiv.appendChild(oMinuteInput);
+
+    oMinuteDiv.appendChild(document.createTextNode(':'));
+
+    var oSecondDiv = document.createElement('div');
+    oSecondDiv.className = 'as_of_input_div';
+    oSecondDiv.style = 'grid-column: 7; grid-row: 1;';
+    oGrid.appendChild(oSecondDiv);
+
+    var oSecondInput = document.createElement('input');
+    oSecondInput.id = 'as_of_second';
+    oSecondInput.type = 'number';
+    oSecondInput.min = 0;
+    oSecondInput.max = 59;
+    oSecondInput.oninput = fAsOfOnInput;
+    oSecondInput.onkeyup = fAsOfOnKeyUp;
+    oSecondDiv.appendChild(oSecondInput);
+
+    var oSecondDiv = document.createElement('div');
+    oSecondDiv.className = 'as_of_input_div';
+    oSecondDiv.style = 'grid-column: 7; grid-row: 1;';
+    oGrid.appendChild(oSecondDiv);
+
+    var oButtonsDiv = document.createElement('div');
+    oButtonsDiv.style = 'grid-column: 8; grid-row: 1 /3; padding-top: 2px; text-align: right;';
+    oEnterButton = document.createElement('button');
+    oEnterButton.style = 'margin-bottom: 5px; margin-right: 5px;';
+    oEnterButton.onclick = fSubmitAsOfForm;
+    oEnterButton.appendChild(document.createTextNode('Enter'));
+    oButtonsDiv.appendChild(oEnterButton);
+    oNowButton = document.createElement('button');
+    oNowButton.style = 'margin-bottom: 5px;';
+    oNowButton.onclick = fAsOfNow;
+    oNowButton.appendChild(document.createTextNode('Now'));
+    oButtonsDiv.appendChild(oNowButton);
+    oButtonsDiv.appendChild(document.createElement('br'));
+    oDismissButton = document.createElement('button');
+    oDismissButton.onclick = fDismissAsOfForm;
+    oDismissButton.appendChild(document.createTextNode('Dismiss'));
+    oButtonsDiv.appendChild(oDismissButton);
+    oGrid.appendChild(oButtonsDiv);
+
+    var oErrorHeader = document.createElement('div');
+    oErrorHeader.style = 'grid-column: 1; grid-row: 2; padding-right: 5px; font-weight: bold;';
+    oErrorHeader.appendChild(document.createTextNode(''));
+    oGrid.appendChild(oErrorHeader);
+
+    var oYearLabelDiv = document.createElement('div');
+    oYearLabelDiv.className = 'as_of_label';
+    oYearLabelDiv.style = 'grid-column: 2;';
+    oGrid.appendChild(oYearLabelDiv);
+    oYearLabelDiv.appendChild(document.createTextNode('Year'));
+    oYearLabelDiv.appendChild(document.createElement('br'));
+    oYearLabelDiv.appendChild(document.createTextNode('YYYY'));
+
+    var oMonthLabelDiv = document.createElement('div');
+    oMonthLabelDiv.className = 'as_of_label';
+    oMonthLabelDiv.style = 'grid-column: 3;';
+    oGrid.appendChild(oMonthLabelDiv);
+    oMonthLabelDiv.appendChild(document.createTextNode('Month'));
+    oMonthLabelDiv.appendChild(document.createElement('br'));
+    oMonthLabelDiv.appendChild(document.createTextNode('01-12'));
+
+    var oDayLabelDiv = document.createElement('div');
+    oDayLabelDiv.className = 'as_of_label';
+    oDayLabelDiv.style = 'grid-column: 4;';
+    oGrid.appendChild(oDayLabelDiv);
+    oDayLabelDiv.appendChild(document.createTextNode('Day'));
+    oDayLabelDiv.appendChild(document.createElement('br'));
+    oDayLabelDiv.appendChild(document.createTextNode('01-31'));
+
+    var oHourLabelDiv = document.createElement('div');
+    oHourLabelDiv.className = 'as_of_label';
+    oHourLabelDiv.style = 'grid-column: 5;';
+    oGrid.appendChild(oHourLabelDiv);
+    oHourLabelDiv.appendChild(document.createTextNode('Hour'));
+    oHourLabelDiv.appendChild(document.createElement('br'));
+    oHourLabelDiv.appendChild(document.createTextNode('00-23'));
+
+    var oMinuteLabelDiv = document.createElement('div');
+    oMinuteLabelDiv.className = 'as_of_label';
+    oMinuteLabelDiv.style = 'grid-column: 6;';
+    oGrid.appendChild(oMinuteLabelDiv);
+    oMinuteLabelDiv.appendChild(document.createTextNode('Minute'));
+    oMinuteLabelDiv.appendChild(document.createElement('br'));
+    oMinuteLabelDiv.appendChild(document.createTextNode('00-59'));
+
+    var oSecondLabelDiv = document.createElement('div');
+    oSecondLabelDiv.className = 'as_of_label';
+    oSecondLabelDiv.style = 'grid-column: 7;';
+    oGrid.appendChild(oSecondLabelDiv);
+    oSecondLabelDiv.appendChild(document.createTextNode('Second'));
+    oSecondLabelDiv.appendChild(document.createElement('br'));
+    oSecondLabelDiv.appendChild(document.createTextNode('00-59'));
+
+    document.body.insertBefore(oDiv, document.body.firstChild);
+  }
+
+  oYearInput.value = '2026';
+  oMonthInput.value = '07';
+  oDayInput.value = '29';
+  oHourInput.value = '19';
+  oMinuteInput.value = '38';
+  oSecondInput.value = '51';
+
+  oDisplaySpan.innerText = oYearInput.value + '-' + oMonthInput.value + '-' + oDayInput.value + ' ' + oHourInput.value + ':' + oMinuteInput.value + ':' + oSecondInput.value;
+
+  oDiv.style.display = 'block';
+
+  oYearInput.focus();
+  oYearInput.select();
+}
+
+function fDocumentOnDblClick(oEvent) {
+  fOpenAsOfForm();
+}
+
+function fDocumentOnKeyPress(oEvent) {
+  // The @ symbol
+  if ((oEvent.shiftKey) && (oEvent.code == 'Digit2')) {
+    fOpenAsOfForm();
+  }
+}
+
+document.addEventListener('DOMContentLoaded', function(event) {
+  if ('' != '') {
+     document.cookie = 'as_of=; path=/; domain=informationphilosopher.com';
+     fOpenAsOfForm();
+  }
+});
+
+
+function fSkyWriteInclude(sPageSeriesID, sPageID, sDirPath, oEvent) {
+var sIndicatorClicked, sControlKeyPressed, sShiftKeyPressed;
+var sElement;
+
+// check for shift or control key depressed
+oEvent = (oEvent) ? oEvent : (window.event) ? window.event : ''
+
+sIndicatorClicked = 0;
+sControlKeyPressed = 0;
+sShiftKeyPressed = 0;
+if (oEvent) {
+  sModifierPressed = '';
+  
+  sElement = (oEvent.target) ? oEvent.target : oEvent.srcElement;
+  // alert(sElement.id);
+  
+  if ((sElement.id == 'skyIncludeEditablePencilImg') || (sElement.id == 'skyIncludeEditableCornerImg')){
+    sIndicatorClicked = 1;
+  }
+  
+  if (oEvent.which) {
+    if (oEvent.ctrlKey) {
+      sControlKeyPressed = 1;
+    }
+  } else {
+    if (oEvent.modifiers) {
+      if (oEvent.modifiers && oEvent.CTRL_MASK) {
+        // sControlKeyPressed = oEvent.modifiers;
+        sControlKeyPressed = 1;
+      }
+    } else {
+      if (oEvent.ctrlKey) {
+        sControlKeyPressed = 1;
+      }
+    }
+  }
+  
+  if (oEvent.which) {
+    if (oEvent.shiftKey) {
+      sShiftKeyPressed = 1;
+    }
+  } else {
+    if (oEvent.modifiers) {
+      if (oEvent.modifiers && oEvent.SHIFT_MASK) {
+        // sShiftKeyPressed = oEvent.modifiers;
+        sShiftKeyPressed = 1;
+      }
+    } else {
+      if (oEvent.shiftKey) {
+        sShiftKeyPressed = 1;
+      }
+    }
+  }
+}
+
+// if shift or control key pressed
+if ((sIndicatorClicked) || (sControlKeyPressed == 1) || (sShiftKeyPressed == 1)) {
+  // alert('pressed');
+  window.open('https://www.informationphilosopher.com/timelines/index.html?skyWrite=True&PageSeriesID=' + sPageSeriesID + '&PageID=' + sPageID + '&DirPath=' + sDirPath, '_blank', 'menubar,toolbar,location,resizable,scrollbars,status,height=600,width=832,left=250,top=50', true);
+}
+}
+    
+</script>
+    <title>William James - Are We Automata?</title>
+	<link rel="stylesheet" href="/timelines/PageFooter.css"> 
+  </head> <body>
+
+    <a href="#skipnav" title="Skip Navigation, Search, and Login"></a>
+    <div id="header-wrapper"> 
+      <div id="header"> 
+        <!-- <div id="spacer">&nbsp;</div> -->
+        <div id="logo"><a href="/" title="Go to Information Philosopher home page"><img src="/images/clear.gif" alt="Go to Information Philosopher home page" border="0" width="70" height="70"></a></div>
+   
+	    <div id="social_cluster">
+            <!-- Load Facebook SDK for JavaScript -->
+            <div id="fb-root" style="display: inline;"></div>
+            <script>(function(d, s, id) {
+              var js, fjs = d.getElementsByTagName(s)[0];
+              if (d.getElementById(id)) return;
+              js = d.createElement(s); js.id = id;
+              js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8";
+              fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));</script>
+
+            <!-- Your like button code -->
+            <!-- data-href="https://www.your-domain.com/your-page.html" -->
+            <div class="social_button fb-like"
+              data-href=""
+              data-layout="button_count" 
+              data-action="like" 
+              data-show-faces="true">
+            </div>
+
+            <!-- Your share button code 
+            <div class="social_button fb-share-button" 
+              data-href="" 
+              data-layout="button_count">
+            </div> 
+
+            <div class="social_button">
+            	<a class="social_button twitter-share-button" href="https://twitter.com/intent/tweet">Tweet</a>&nbsp;
+            </div> -->
+            
+            <br />
+            <div id="social_links">
+	        	<font style="font-size:9px;font-color:#000066">Follow&nbsp;infophilosopher:</font>
+	        	 
+	        	<a href="https://www.facebook.com/infophilosopher" target="facebook" style="text-decoration:none" title="infophilosopher on Facebook"><img src="/images/Facebook3.png" style="border-radius: 3px; height:15px;"></a>
+	        	| 
+	        	<a href="http://youtube.com/infophilosopher/" target="youtube" style="text-decoration:none;" title="infophilosopher on YouTube"><img src="/images/YouTubeX.png" style="height:15px;"></a>
+	        </div>
+        </div>
+
+        <div id="main-menu">
+          <ul>
+            <li><a id="nav_banner_introduction" href="/introduction/" onmouseover="try{buttonMouseover(event, 'introduction');} catch(e){}">Introduction</a></li>
+            <li><a id="nav_banner_problems" href="/problems/" onmouseover="try{buttonMouseover(event, 'problems');} catch(e){}">Problems</a></li>
+            <li><a id="nav_banner_freedom" href="/freedom/" onmouseover="try{buttonMouseover(event, 'freedom');} catch(e){}">Freedom</a></li>
+            <li><a id="nav_banner_value" href="/value/" onmouseover="try{buttonMouseover(event, 'value');} catch(e){}">Value</a></li>
+            <li><a id="nav_banner_knowledge" href="/knowledge/" onmouseover="try{buttonMouseover(event, 'knowledge');} catch(e){}">Knowledge</a></li>
+            <!--<li><a id="nav_banner_solutions" href="/solutions/" onmouseover="try{buttonMouseover(event, 'solutions');} catch(e){}">Solutions</a></li> -->
+            <li><a id="nav_banner_life" href="/life/" onmouseover="try{buttonMouseover(event, 'life');} catch(e){}">Life</a></li>
+            <li><a id="nav_banner_mind" href="/mind/" onmouseover="try{buttonMouseover(event, 'mind');} catch(e){}">Mind</a></li>
+            <li><a id="nav_banner_chance" href="/chance/" onmouseover="try{buttonMouseover(event, 'chance');} catch(e){}">Chance</a></li>
+            <li><a id="nav_banner_quantum" href="/quantum/" onmouseover="try{buttonMouseover(event, 'quantum');} catch(e){}">Quantum</a></li>
+            <li><a id="nav_banner_entanglement" href="/entanglement/" onmouseover="try{buttonMouseover(event, 'entanglement');} catch(e){}">Entanglement</a></li>
+            <li><a id="nav_banner_scandal" href="/scandals/" onmouseover="try{buttonMouseover(event, 'scandals');} catch(e){}">Scandals</a></li>
+            <!--<li id="main-menu-rightmost"><a id="nav_banner_afterwords" href="/afterwords/" onmouseover="try{buttonMouseover(event, 'afterwords');} catch(e){}">Afterword</a></li>-->
+          </ul>
+        </div>
+      </div>
+    </div>
+ 
+    <div id="citation_info" class="display_none">
+      Citation for this page in APA citation style.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <span class="breadcrumbs">
+	  <a href="" title="Citation for this page in APA citation style." alt="Citation for this page in APA citation style." onclick="document.getElementById('citation_info').style.display = 'none'; return false;">Close</a> 
+	</span>
+      <p/>
+	<script language="javascript" type="text/javascript">
+	document.write(document.title);
+	document.write("<br/>Retrieved  ");
+	var oDate = new Date();
+	var aMonthName = new Array('January', 'February', 'March',
+                                   'April', 'May', 'June',
+                                   'July', 'August', 'September',
+                                   'October', 'November', 'December');
+	document.write(aMonthName[oDate.getMonth()] + ' ' + oDate.getDate() + ', ' + oDate.getFullYear());
+	document.write(", from Information Philosopher");
+	</script>
+	<br/>
+	<script language="javascript" type="text/javascript">
+	document.write("Web site <a href='");
+	document.write(location.href);
+	document.write("'>");
+	document.write(location.href);
+	document.write("</a>");
+	</script>
+
+    </div>
+
+    <div id="search_bar" class="search">
+      <table class="layout" cellpadding="0" cellspacing="0" width="731"> 
+        <tr> 
+          <td nowrap>
+	    <!-- &nbsp;<a href="http://www.informationphilosopher.com/site/search/">Search</a> | -->
+	    <!-- | <a href="http://www.informationphilosopher.com/site/A-Z_index/">A-Z Index</a> | -->
+
+	    <!--<a href="http://www.informationphilosopher.com/site/map/">Site Map</a> | 
+	    <a href="http://www.informationphilosopher.com/afterwords/glossary/">Glossary</a> |--> 
+
+	    <a href="/about/" target="about" style="text-decoration: none">About</a> &nbsp;
+
+	    <a href="/articles/" target="blog" style="text-decoration: none">Articles</a> &nbsp; 
+
+	    <!--<a href="http://i-phi.org" target="blog" style="text-decoration: none">Blog</a> &nbsp; -->
+	   
+	    <a href="/books/" target="blog" style="text-decoration: none">Books</a> &nbsp; 
+
+	    <a href="/lectures/" title="Lectures on information philosophy" alt="Lectures on information philosophy" style="text-decoration:none;margin-top:1px;">Lectures</a> &nbsp;
+
+	    <a href="/presentations/" target="presentations" style="text-decoration: none">Presentations</a> &nbsp; 
+
+	    <a href="/afterwords/glossary/" title="Glossary of Terms" alt="Glossary of Terms" style="text-decoration:none;margin-top:1px;">Glossary</a> &nbsp;
+
+	    <a href="" title="Citation for this page in APA citation style." alt="Citation for this page in APA citation style." onclick="document.getElementById('citation_info').style.display = 'block'; return false;" style="text-decoration: none">Cite</a> &nbsp;
+
+	    <a href="/help/" title="Want to help information philosophy?" alt="Want to help information philosophy?" style="text-decoration:none;margin-top:1px;">Help?</a> &nbsp;
+	    
+	     
+	    
+	    </td>
+
+          <!-- can we determine if user is logged in?  -->
+          <td class="search" align="right">
+        
+        <script type="text/javascript" language="javascript">
+	      function mAssembleSearchURL(sSearchCriteria, sWhichSearch) {
+	        var sSiteURL, sSearchURL;
+		sSiteURL = "informationphilosopher.com"
+	        sBaseURL = "http://www.google.com/search?hl=en&lr=&ie=UTF-8&oe=UTF-8&as_qdr=all&q=";
+
+		if (sWhichSearch == "0") {
+		  sSearchURL = sBaseURL + escape(sSearchCriteria);
+		} else {
+		  if (sWhichSearch == "1") {
+		    sSearchURL = sBaseURL + escape(sSearchCriteria) + "+site:" + sSiteURL;
+		  } else {
+		    sSearchURL = sBaseURL + escape(sSearchCriteria);
+		  }
+		}
+		window.open(sSearchURL, '_blank', 'menubar,location,resizable,scrollbars,status,toolbar,height=520,width=640,left=250,top=50', true);
+	      }
+	    </script>
+	    
+	    
+	    <form class="skyFooterForm" method="post" name="searchform1" action="" onsubmit="mAssembleSearchURL(document.searchform1.q.value, 1); return false;">
+	      <input size="30" maxlength="2048" name="q" type="text">
+	      <a href="" onclick="mAssembleSearchURL(document.searchform1.q.value, 1); return false;" style="text-decoration:none;">&nbsp;Search</a>
+	    </form>
+  
+        </td>
+          
+           <td>
+           	<a id="translate_link" title="A Google translation only gives you the 'gist' of the page. Please mouseover any confusing phrases to see the original English text." href="" style="text-decoration:none;"onmouseover="try{buttonMouseover(event, 'translate');} catch(e){}">Translate</a>
+           	<div id="translate" class="menu" onmouseover="menuMouseover(event);">
+           		<a id="translate_french" class="menuItem" href="https://translate.google.com/">French</a>
+           		<a id="translate_italian" class="menuItem" href="https://translate.google.com/">Italian</a>
+           		<a id="translate_german" class="menuItem" href="https://translate.google.com/">German</a>
+           		<a id="translate_russian" class="menuItem" href="https://translate.google.com/">Russian</a>
+           		<a id="translate_spanish" class="menuItem" href="https://translate.google.com/">Spanish</a>
+           	</div>
+           	</td>
+        </tr> 
+      </table>
+    </div>
+    
+	<script language="javascript" type="text/javascript">
+	var french = document.getElementById ("translate_french");
+	var italian = document.getElementById ("translate_italian");
+	var german = document.getElementById ("translate_german");
+	var russian = document.getElementById ("translate_russian");
+	var spanish = document.getElementById ("translate_spanish");
+	if (french) {
+		french.href = "https://translate.google.com/translate?sl=en&tl=fr&js=y&prev=_t&hl=en&ie=UTF-8&u=" + window.location.href + "&edit-text=";
+	};
+	if (italian) {
+		italian.href = "https://translate.google.com/translate?sl=en&tl=it&js=y&prev=_t&hl=en&ie=UTF-8&u=" + window.location.href + "&edit-text=";
+	};
+	if (german) {
+		german.href = "https://translate.google.com/translate?sl=en&tl=de&js=y&prev=_t&hl=en&ie=UTF-8&u=" + window.location.href + "&edit-text=";
+	};
+	if (russian) {
+		russian.href = "https://translate.google.com/translate?sl=en&tl=ru&js=y&prev=_t&hl=en&ie=UTF-8&u=" + window.location.href + "&edit-text=";
+	};
+	if (spanish) {
+		spanish.href = "https://translate.google.com/translate?sl=en&tl=es&js=y&prev=_t&hl=en&ie=UTF-8&u=" + window.location.href + "&edit-text=";
+	};
+	</script>
+
+    <a name="skipnav" tabindex="1" title="Information Philosopher"></a>
+    
+<div id="introduction" class="menu" onmouseover="menuMouseover(event);">
+  <a id="nav_banner_introduction_information" class="menuItem" href="/introduction/information/">The Information</a>
+  <a id="nav_banner_introduction_creation" class="menuItem" href="/introduction/creation/">The Creation</a>
+  <a id="nav_banner_introduction_physics" class="menuItem" href="/introduction/physics/">The Physics</a>
+  <a id="nav_banner_introduction_biology" class="menuItem" href="/introduction/biology/">The Biology</a>
+  <a id="nav_banner_introduction_philosophy" class="menuItem" href="/introduction/philosophy/">The Philosophy</a>
+  <a id="nav_banner_introduction_philosophers" class="menuItem" href="/solutions/philosophers/">The Philosophers</a>
+  <a id="nav_banner_introduction_scientists" class="menuItem" href="/solutions/scientists/">The Scientists</a>
+  <a id="nav_banner_introduction_problems" class="menuItem" href="/problems/">The Problems</a>
+  <a id="nav_banner_introduction_solutions" class="menuItem" href="/solutions/">The Solutions</a>
+  <a id="nav_banner_introduction_experiments" class="menuItem" href="/solutions/experiments/">The Experiments</a> 
+</div>
+    
+    <div id="problems" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_problems_arrow_of_time" class="menuItem" href="/problems/arrow_of_time/">Arrow of Time</a>
+      <a id="nav_banner_problems_consciousness" class="menuItem" href="/problems/consciousness/">Consciousness</a>
+      <a id="nav_banner_problems_dualisms" class="menuItem" href="/solutions/dualisms/">Dualisms</a>
+      <a id="nav_banner_problems_ergodicity" class="menuItem" href="/problems/ergodicity/">Ergodiciy</a>
+      <a id="nav_banner_problems_evil" class="menuItem" href="/problems/evil/">Evil</a>
+      <a id="nav_banner_problems_flatness" class="menuItem" href="/problems/flatness/">Flat Universe?</a>
+      <a id="nav_banner_problems_god" class="menuItem" href="/problems/god/">God</a>
+      <a id="nav_banner_problems_identity" class="menuItem" href="/problems/identity/">Identity</a>
+      <a id="nav_banner_problems_immortality" class="menuItem" href="/problems/immortality/">Immortality</a>
+      <a id="nav_banner_problems_induction" class="menuItem" href="/problems/induction/">Induction</a>
+      <a id="nav_banner_problems_life" class="menuItem" href="/problems/life/">Life</a>
+       <a id="nav_banner_problems_measurement" class="menuItem" href="/problems/measurement/">Measurement</a>
+       <a id="nav_banner_problems_mental_causation" class="menuItem" href="/problems/mental_causation/">Mental Causation</a>
+       <a id="nav_banner_problems_metaphysics" class="menuItem" href="/problems/metaphysics/">Metaphysics</a>
+       <a id="nav_banner_problems_mind_body" class="menuItem" href="/problems/mind_body/">Mind-Body</a>
+       <a id="nav_banner_problems_nonlocality" class="menuItem" href="/problems/nonlocality/">Nonlocality</a>
+       <a id="nav_banner_problems_possibilities" class="menuItem" href="/freedom/possibilities.html">Possibilities</a>
+       <a id="nav_banner_problems_recurrence" class="menuItem" href="/problems/recurrence/">Recurrence</a>
+       <a id="nav_banner_problems_reversibility" class="menuItem" href="/problems/reversibility/">Reversibility</a>
+    </div>
+
+   <div id="freedom" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_freedom_cogito" class="menuItem" href="/freedom/cogito/">The Cogito</a>
+      <a id="nav_banner_freedom_problem" class="menuItem" href="/freedom/problem/">The Problem</a>
+      <a id="nav_banner_freedom_history" class="menuItem" href="/freedom/history/">The History</a>
+      <a id="nav_banner_freedom_history" class="menuItem" href="/freedom/free_will_in_antiquity.html">Free Will in Antiquity</a>
+      <a id="nav_banner_freedom_mechanisms" class="menuItem" href="/freedom/mechanisms.html">Free Will Mechanisms</a>
+      <a id="nav_banner_freedom_physics" class="menuItem" href="/freedom/physics/">The Physics</a>
+      <a id="nav_banner_freedom_biology" class="menuItem" href="/freedom/biology/">The Biology</a>
+      <a id="nav_banner_freedom_neuroscience" class="menuItem" href="/freedom/neuroscience/">The Neuroscience</a>
+      <a id="nav_banner_freedom_possibilities" class="menuItem" href="/freedom/alternative_possibilities.html">Alternative Possibilities</a>
+      <a id="nav_banner_freedom_adequate" class="menuItem" href="/freedom/adequate_determinism.html">Adequate Determinism</a>
+      <a id="nav_banner_freedom_responsibility" class="menuItem" href="/freedom/moral_responsibility.html">Moral Responsibility</a>
+      <a id="nav_banner_freedom_self" class="menuItem" href="/freedom/self-determination.html">Self-Determination</a>
+      <a id="nav_banner_freedom_separability" class="menuItem" href="/freedom/separability.html">Separability of Free and Will</a>
+      <a id="nav_banner_freedom_argument" class="menuItem" href="/freedom/standard_argument.html">Standard Argument</a>
+      <a id="nav_banner_freedom_argument" class="menuItem" href="/freedom/superdeterminism.html">Superdeterminism</a>
+      <a id="nav_banner_freedom_two-stage" class="menuItem" href="/freedom/two-stage_models.html">Two-Stage Models</a>
+    </div>
+    
+    <div id="value" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_value_ergo" class="menuItem" href="/value/ergo/">The Ergo</a>
+      <a id="nav_banner_value_free_energy" class="menuItem" href="/value/free_energy/">Free Energy</a>
+      <a id="nav_banner_value_problem" class="menuItem" href="/value/problem/">The Problem</a>
+      <a id="nav_banner_value_history" class="menuItem" href="/value/history/">The History</a>
+      <a id="nav_banner_value_good" class="menuItem" href="/value/good/">The Good</a>
+      <a id="nav_banner_value_origin" class="menuItem" href="/value/origin/">Origin of the Good</a>
+      <a id="nav_banner_value_evil" class="menuItem" href="/value/evil/">Evil (Theodicy)</a>
+      <a id="nav_banner_value_ergod" class="menuItem" href="/value/ergod/">The Ergod</a>
+    </div>
+    
+    <div id="knowledge" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_knowledge_sum" class="menuItem" href="/knowledge/sum/">The Sum</a>
+      <a id="nav_banner_knowledge_problem" class="menuItem" href="/knowledge/problem/">The Problem</a>
+      <a id="nav_banner_knowledge_history" class="menuItem" href="/knowledge/history/">The History</a>
+      <a id="nav_banner_knowledge_belief" class="menuItem" href="/knowledge/belief/">Belief</a>
+      <a id="nav_banner_knowledge_complexity" class="menuItem" href="/knowledge/complexity/">Complexity</a>
+      <a id="nav_banner_knowledge_complexity_history" class="menuItem" href="/knowledge/complexity/history">Complex Systems History</a>
+      <a id="nav_banner_knowledge_demarcation" class="menuItem" href="/knowledge/demarcation/">Demarcation Problem</a>
+      <a id="nav_banner_knowledge_emergence" class="menuItem" href="/knowledge/emergence.html">Emergence</a>
+      <a id="nav_banner_knowledge_epistemology" class="menuItem" href="/problems/epistemology/">Epistemology</a>
+      <a id="nav_banner_knowledge_induction" class="menuItem" href="/problems/induction/">Induction</a>
+      <a id="nav_banner_knowledge_regress" class="menuItem" href="/knowledge/infinite_regress.html">Infinite Regress</a>
+      <a id="nav_banner_knowledge_meaning" class="menuItem" href="/knowledge/meaning/">Meaning</a>
+      <a id="nav_banner_knowledge_metaphysics" class="menuItem" href="/problems/metaphysics/">Metaphysics</a>
+      <a id="nav_banner_knowledge_ontology" class="menuItem" href="/problems/ontology/">Ontology</a>
+      <a id="nav_banner_knowledge_one-many" class="menuItem" href="/problems/one_or_many/">One or Many</a>
+      <a id="nav_banner_knowledge_providence" class="menuItem" href="/knowledge/providence/">Providence</a>
+      <a id="nav_banner_knowledge_universals" class="menuItem" href="/knowledge/universals.html">Universals</a>
+      <a id="nav_banner_knowledge_truth" class="menuItem" href="/knowledge/truth/">Truth</a>
+      
+    </div>
+    
+    
+     <div id="mind" class="menu" onmouseover="menuMouseover(event);">
+      <!--<a id="nav_banner_mind_problems" class="menuItem" href="/mind/problems/">The Problems</a>-->
+      <a id="nav_banner_mind_history" class="menuItem" href="/mind/history/">The History</a>
+      <!--<a id="nav_banner_mind_ego" class="menuItem" href="/mind/ego/">The Self <i>or</i> Ego</a>
+      <a id="nav_banner_mind_physics" class="menuItem" href="/mind/physics/">The Physics</a>
+      <a id="nav_banner_mind_neuroscience" class="menuItem" href="/mind/neuroscience/">The Neuroscience</a>-->
+      <a id="nav_banner_mind_mind-body" class="menuItem" href="/mind/mind_body/">Mind-Body Problem</a>
+      <a id="nav_banner_mind_consciousness" class="menuItem" href="/mind/binding/">Binding Problem</a>
+      <a id="nav_banner_mind_consciousness" class="menuItem" href="/mind/consciousness/">Consciousness Problem</a>
+      <a id="nav_banner_mind_tocs" class="menuItem" href="/mind/tocs/">Theories of Consciousness</a>
+      <a id="nav_banner_mind_nccs" class="menuItem" href="/mind/NCC/">Neural Correlates of Consciousness</a>
+      <a id="nav_banner_mind_consciousness" class="menuItem" href="/mind/cogscience/">Computational Models</a>
+      <a id="nav_banner_mind_lmm" class="menuItem" href="/mind/llm/">Is Mind a Large Language Model (AI)?</a>
+      <a id="nav_banner_mind_err" class="menuItem" href="/mind/ERR/">The Experience Recorder and Reproducer (ERR)</a>
+      <a id="nav_banner_mind_mirror" class="menuItem" href="/mind/mirror_neurons/">Mirror Neurons</a>
+      <a id="nav_banner_mind_causation" class="menuItem" href="/knowledge/mental_causation.html">Mental Causation</a>
+      <a id="nav_banner_mind_panpsychism" class="menuItem" href="/mind/panpsychism">Panpsychism</a>
+      <a id="nav_banner_mind_purpose" class="menuItem" href="/mind/purpose/">Purpose</a>
+      <a id="nav_banner_mind_agency" class="menuItem" href="/mind/agency/">Agency</a>
+      <a id="nav_banner_mind_reductionism" class="menuItem" href="/knowledge/reductionism.html">Reductionism</a>
+      <a id="nav_banner_mind_representation" class="menuItem" href="/knowledge/representation/">Representation</a>
+   </div>
+    
+    <div id="solutions" class="menu" onmouseover="menuMouseover(event);">
+     <a id="nav_banner_solutions_demons" class="menuItem" href="/solutions/demons/">Demons</a>
+     <a id="nav_banner_solutions_determinisms" class="menuItem" href="/solutions/determinisms/">Determinisms</a>
+     <a id="nav_banner_solutions_dogmas" class="menuItem" href="/solutions/dogmas/">Dogmas</a>
+     <a id="nav_banner_solutions_dualisms" class="menuItem" href="/solutions/dualisms/">Dualisms</a>
+     <a id="nav_banner_solutions_experiments" class="menuItem" href="/solutions/experiments/">Experiments</a>
+     <a id="nav_banner_solutions_language" class="menuItem" href="/solutions/language/">Language</a>
+     <!--  <a id="nav_banner_solutions_philosophers" class="menuItem" href="/solutions/philosophers/">Philosophers</a> -->
+     <a id="nav_banner_solutions_progress" class="menuItem" href="/solutions/progress/">Progress</a>
+     <a id="nav_banner_solutions_reason" class="menuItem" href="/solutions/reason/">Reason</a>
+     <!-- <a id="nav_banner_solutions_scientists" class="menuItem" href="/solutions/scientists/">Scientists</a>  -->
+     <a id="nav_banner_solutions_theories" class="menuItem" href="/solutions/theories/">Theories</a>
+     <a id="nav_banner_solutions_triads" class="menuItem" href="/solutions/triads/">Triads</a>
+    </div>
+    
+     <div id="chance" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_chance_history" class="menuItem" href="/chance/history/">The History</a>
+      <a id="nav_banner_mind_problems" class="menuItem" href="/introduction/physics/statistical_mechanics.html">Entropy and Probability</a>
+      <a id="nav_banner_chance_tyche" class="menuItem" href="/chance/tyche/">Peirce's Tyche</a>
+      <a id="nav_banner_chance_einstein" class="menuItem" href="/solutions/scientists/einstein/">Through Einstein's Eyes</a>
+    </div>
+    
+     <div id="quantum" class="menu" onmouseover="menuMouseover(event);">
+     <a id="nav_banner_quantum_blaxk_holes" class="menuItem" href="/quantum/black_holes/">Black Holes</a>
+     <a id="nav_banner_quantum_collapse" class="menuItem" href="/quantum/collapse/">Collapse of the <br/>Wave Function</a>
+     <a id="nav_banner_quantum_observer" class="menuItem" href="/quantum/observer/">Conscious Observer</a>
+     <a id="nav_banner_quantum_xopenhagen" class="menuItem" href="/quantum/copenhagen/">Copenhagen Interpretation</a>
+     <a id="nav_banner_quantum_decoherence" class="menuItem" href="/quantum/decoherence/">Decoherence</a>
+     <a id="nav_banner_quantum_determinism" class="menuItem" href="/quantum/determinism/">Determinism</a>
+     <a id="nav_banner_quantum_indeterminism" class="menuItem" href="/quantum/indeterminism/">Indeterminism</a>
+     <a id="nav_banner_quantum_principles" class="menuItem" href="/quantum/principles/">Dirac's Principles</a>
+     <a id="nav_banner_quantum_polarizers" class="menuItem" href="/solutions/experiments/dirac_3-polarizers/">Dirac's 3 Polarizers</a>
+     <a id="nav_banner_quantum_foundation" class="menuItem" href="/quantum/foundation/">Foundations</a>
+     <a id="nav_banner_quantum_interpretation" class="menuItem" href="/quantum/interpretations/">Interpretations</a>
+     <a id="nav_banner_quantum_irreversibility" class="menuItem" href="/problems/reversibility/">Irreversibility</a>
+     <a id="nav_banner_quantum_measurement" class="menuItem" href="/problems/measurement/">Measurement Problem</a>
+     <a id="nav_banner_quantum_physics" class="menuItem" href="/quantum/physics/">Quantum, Thermo, Info</a>
+     <a id="nav_banner_quantum_classical" class="menuItem" href="/introduction/physics/quantum_to_classical.html">Quantum to Classical</a>
+     <a id="nav_banner_quantum_recurrence" class="menuItem" href="/problems/recurrence/">Recurrence Problem</a>
+     <a id="nav_banner_quantum_schrodingerscat" class="menuItem" href="/solutions/experiments/schrodingerscat/">Schrödinger's Cat</a>
+     <a id="nav_banner_quantum_schrodingerequation" class="menuItem" href="/quantum/equation/">Schrödinger Equation</a>
+     <a id="nav_banner_quantum_statistical" class="menuItem" href="/quantum/spacetime/">SpaceTime</a>
+     <a id="nav_banner_quantum_spacetime" class="menuItem" href="/quantum/statistical/">Statistical Interpretation</a>
+     <a id="nav_banner_quantum_superposition" class="menuItem" href="/quantum/superposition/">Superposition</a>
+     <a id="nav_banner_quantum_mystery" class="menuItem" href="/quantum/mystery/">The Only Mystery</a>
+     <a id="nav_banner_quantum_EPR" class="menuItem" href="/quantum/two-slit/">Two-Slit Experiment</a>
+     <a id="nav_banner_quantum_EPR" class="menuItem" href="/quantum/uncertainty/">Uncertainty Principle</a>
+     <a id="nav_banner_quantum_wave" class="menuItem" href="/introduction/physics/wave-particle_duality.html">Wave-Particle Duality</a>
+    </div>
+    
+    <div id="scandals" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_scandals_chance" class="menuItem" href="/scandals/chance/">Chance</a> <!--Science-->
+      <a id="nav_banner_scandals_consciousness" class="menuItem" href="/scandals/consciousness/">Consciousness</a> <!--Neuroscience-->
+      <a id="nav_banner_scandals_flat" class="menuItem" href="/scandals/creation/">Creation</a>  <!--Cosmology-->
+      <a id="nav_banner_scandals_einstein" class="menuItem" href="/scandals/einstein/">Einstein</a>  <!--Quantum Mechanics-->
+      <a id="nav_banner_scandals_freedom" class="menuItem" href="/scandals/free_will/">Free Will</a>  <!--Philosophys-->
+      <a id="nav_banner_scandals_god" class="menuItem" href="/scandals/god/">God</a>  <!--Religion-->
+      <a id="nav_banner_scandals_knowledge" class="menuItem" href="/scandals/knowledge/">Knowledge</a>  <!--Epistemology-->
+      <a id="nav_banner_scandals_life" class="menuItem" href="/scandals/life/">Life</a> <!--Biology-->
+      <a id="nav_banner_scandals_meaning" class="menuItem" href="/scandals/meaning/">Meaning</a> <!--Language-->
+      <a id="nav_banner_scandals_metaphysics" class="menuItem" href="/scandals/metaphysics/">Metaphysics</a> <!--Ontology-->
+      <a id="nav_banner_scandals_mind" class="menuItem" href="/scandals/mind/">Mind</a> <!--Language-->
+      <a id="nav_banner_scandals_power" class="menuItem" href="/scandals/power/">Power</a> <!--Politics-->
+      <a id="nav_banner_scandals_values" class="menuItem" href="/scandals/value/">Values</a>  <!--Ethics-->
+      <a id="nav_banner_scandals_wealth" class="menuItem" href="/scandals/wealth/">Wealth</a>  <!--Economics-->
+   </div>
+
+    <div id="afterwords" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_afterwords_conclusions" class="menuItem" href="/afterwords/conclusions/">Conclusions</a>
+      <a id="nav_banner_afterwords_bibliography" class="menuItem" href="/afterwords/bibliography/">Bibliography</a>
+      <a id="nav_banner_afterwords_glossary" class="menuItem" href="/afterwords/glossary/">Glossary</a>
+      <a id="nav_banner_afterwords_author_index" class="menuItem" href="/afterwords/author_index/">Name Index</a>
+      <a id="nav_banner_afterwords_subject_index" class="menuItem" href="/afterwords/subject_index/">Subject Index</a>
+      <a id="nav_banner_afterwords_colophon" class="menuItem" href="/afterwords/colophon/">Colophon</a>
+    </div>
+    
+    <div id="life" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_life_agency" class="menuItem" href="/life/agency/">Agency</a>
+      <a id="nav_banner_life_autopoesis" class="menuItem" href="/life/autopoesis/">Autopoesis</a>
+      <!--<a id="nav_banner_life_cell_cycle" class="menuItem" href="/life/cell_cycle/">The Cell Cycle</a>-->
+      <a id="nav_banner_life_beyond" class="menuItem" href="/life/beyond/">Beyond Darwinism?</a>
+      <a id="nav_banner_life_biosemiotics" class="menuItem" href="/life/biosemiotics/">Biosemiotics</a>
+      <a id="nav_banner_life_biosphere" class="menuItem" href="/life/biosphere/">Biosphere</a>
+      <a id="nav_banner_life_complexity" class="menuItem" href="/life/complexity/">Complexity</a>
+      <a id="nav_banner_life_emergence" class="menuItem" href="/life/emergence/">Emergence</a>
+      <a id="nav_banner_life_entelechy" class="menuItem" href="/life/entelechy/">Entelechy</a>
+      <a id="nav_banner_life_entropy" class="menuItem" href="/life/entropy/">Entropy</a>
+      <a id="nav_banner_life_epigenetics" class="menuItem" href="/life/epigenetics/">Epigenetics</a>
+      <a id="nav_banner_life_gaia" class="menuItem" href="/life/gaia/">Gaia</a>
+      <a id="nav_banner_life_infobiology" class="menuItem" href="/life/infobiology/">Information in Biology</a>
+      <a id="nav_banner_life_design" class="menuItem" href="/life/design/">Intelligent Design</a>
+      <a id="nav_banner_life_meaning" class="menuItem" href="/life/meaning/">Meaning</a>
+      <a id="nav_banner_life_origins" class="menuItem" href="/life/origins/">Origins</a>
+      <a id="nav_banner_life_goal" class="menuItem" href="/life/goal/">Purpose</a>
+      <a id="nav_banner_life_reductionism" class="menuItem" href="/life/reductionism/">Reductionism</a>
+      <a id="nav_banner_life_reverence" class="menuItem" href="/life/reverence/">Reverence for Life</a>
+      <!--<a id="nav_banner_life_synergy" class="menuItem" href="/life/synergy"/">Synergy</a>-->
+      <a id="nav_banner_life_teleology" class="menuItem" href="/life/teleology/">Teleology</a>
+      <a id="nav_banner_life_teleonomy" class="menuItem" href="/life/teleonomy/">Teleonomy</a>
+      <a id="nav_banner_life_universal_darwinism" class="menuItem" href="/life/universal_darwinism/">Universal Darwinism</a>
+      <a id="nav_banner_life_vitalism" class="menuItem" href="/life/vitalism/">Vitalism</a>
+      
+      
+    </div>
+    
+    <div id="entanglement" class="menu" onmouseover="menuMouseover(event);">
+      <a id="nav_banner_bell" class="menuItem" href="/quantum/bell_theorem/">Bell's Theorem</a>
+      <a id="nav_banner_entanglement_polytope" class="menuItem" href="/entanglement/polytope/">Bell's Kinky Polytope</a>
+      <a id="nav_banner_common_cause" class="menuItem" href="/entanglement/common_cause/">Common Cause?</a>
+      <a id="nav_banner_disentanglement*" class="menuItem" href="/quantum/disentanglement/">Disentanglement</a>
+      <a id="nav_banner_EPR" class="menuItem" href="/solutions/experiments/EPR/">EPR Paradox</a>
+      <a id="nav_banner_fresnel" class="menuItem" href="/quantum/fresnel-arago/">Fresnel-Arago Effect</a>
+      <a id="nav_banner_hidden_constant" class="menuItem" href="/quantum/hidden_constant/">Hidden Constant of Motion?</a>
+      <a id="nav_banner_hidden_variables" class="menuItem" href="/entanglement/hidden_variables/">Hidden Variables?</a>
+      <a id="nav_banner_mach-zender" class="menuItem" href="/quantum/mach_zender/">Mach-Zender</a>
+      <a id="nav_banner_quantum_keys" class="menuItem" href="/quantum/keys/">Quantum Keys</a>
+      <a id="nav_banner_nonlocality" class="menuItem" href="/problems/nonlocality/">Nonlocality</a>
+      <a id="nav_banner_nonseparability" class="menuItem" href="/problems/nonseparability/">Nonseparability</a>
+      <a id="nav_banner_quantum_computer" class="menuItem" href="/quantum/keys/">Quantum Computers</a>
+      <a id="nav_banner_quantum_eraser" class="menuItem" href="/quantum/keys/">Quantum Eraser</a>
+      <a id="nav_banner_quantum_keys" class="menuItem" href="/quantum/keys/">Quantum Keys</a>
+      <a id="nav_banner_quantum_weirdness" class="menuItem" href="/quantum/weirdness/">Quantum Weirdness</a>
+      <a id="nav_banner_qubits" class="menuItem" href="/quantum/qubits/">Qubits</a>
+      <a id="nav_banner_spherical" class="menuItem" href="/entanglement/spherical/">Spherical Symmetry</a>
+      <a id="nav_banner_spooky_action" class="menuItem" href="/entanglement/spooky/">Spooky Action at a Distance</a>
+      <a id="nav_banner_delayed" class="menuItem" href="/quantum/delayed_choice/">Wheeler's Delayed Choice</a>
+      
+    </div>
+
+    
+    
+    
+    <!-- start column1 -->
+    <table width="765" border="0" cellspacing="0" cellpadding="0">
+      <tbody>
+	<tr>
+	  <td valign="top">
+	    <div id="column1">
+	     <div class="linksLeftCol">
+              Topics
+<p/>
+    <a href="/introduction/">Introduction</a><br> 
+    <a href="/problems/">Problems</a><br> 
+    <a href="/freedom/">Freedom</a><br> 
+    <a href="/knowledge/">Knowledge</a><br> 
+    <a href="/mind/">Mind</a><br> 
+    <a href="/life/">Life</a><br> 
+    <a href="/chance/">Chance</a><br> 
+    <a href="/quantum/">Quantum</a><br> 
+    <a href="/entanglement/">Entanglement</a><br> 
+    <a href="/scandals/">Scandals</a><br> 
+    <p/>
+Philosophers
+    <br><br>
+    <a href="/solutions/philosophers/adler/">Mortimer Adler</a><br> 
+    <a href="/solutions/philosophers/albritton/">Rogers Albritton</a><br> 
+    <a href="/solutions/philosophers/alexander/">Alexander of Aphrodisias</a><br> 
+    <a href="/solutions/philosophers/alexanders/">Samuel Alexander</a><br> 
+    <a href="/solutions/philosophers/alston/">William Alston</a><br> 
+    <a href="/solutions/philosophers/anaximander/">Anaximander</a><br> 
+    <a href="/solutions/philosophers/anscombe/">G.E.M.Anscombe</a><br> 
+    <a href="/solutions/philosophers/anselm/">Anselm</a><br> 
+    <a href="/solutions/philosophers/antony/">Louise Antony</a><br> 
+    <a href="/solutions/philosophers/aquinas/">Thomas Aquinas</a><br> 
+    <a href="/solutions/philosophers/aristotle/">Aristotle</a><br> 
+    <!-- <a href="/solutions/philosophers/arminius/">Arminius</a><br> -->
+    <a href="/knowledge/philosophers/armstrong/">David Armstrong</a><br> 
+    <a href="/solutions/philosophers/atmanspacher/">Harald Atmanspacher</a><br> 
+    <a href="/knowledge/philosophers/audi/">Robert Audi</a><br> 
+    <a href="/solutions/philosophers/augustine/">Augustine</a><br> 
+    <a href="/solutions/philosophers/austin/">J.L.Austin</a><br>
+    <a href="/solutions/philosophers/ayer/">A.J.Ayer</a><br>
+    <a href="/solutions/philosophers/bain/">Alexander Bain</a><br> 
+    <a href="/solutions/philosophers/balaguer/">Mark Balaguer</a><br> 
+    <a href="/solutions/philosophers/barrett/">Jeffrey Barrett</a><br> 
+    <a href="/solutions/philosophers/barrettw/">William Barrett</a><br> 
+    <a href="/solutions/philosophers/belsham/">William Belsham</a><br> 
+    <a href="/solutions/philosophers/bergson/">Henri Bergson</a><br> 
+    <a href="/solutions/philosophers/berkeley/">George Berkeley</a><br> 
+    <a href="/solutions/philosophers/berlin/">Isaiah Berlin</a><br>
+    <a href="/solutions/philosophers/bernstein/">Richard J. Bernstein</a><br>
+    <a href="/solutions/philosophers/berofsky/">Bernard Berofsky</a><br>
+    <a href="/knowledge/philosophers/bishop/">Robert Bishop</a><br> 
+    <a href="/solutions/philosophers/black/">Max Black</a><br> 
+    <a href="/solutions/philosophers/blackmore/">Susan Blackmore</a><br> 
+    <a href="/solutions/philosophers/bobzien/">Susanne Bobzien</a><br> 
+    <a href="/solutions/philosophers/bois-reymond/">Emil du Bois-Reymond</a><br> 
+    <a href="/solutions/philosophers/bok/">Hilary Bok</a><br> 
+    <a href="/knowledge/philosophers/bonjour/">Laurence BonJour</a><br> 
+    <a href="/solutions/philosophers/boole/">George Boole</a><br> 
+    <a href="/solutions/philosophers/boutroux/">Émile Boutroux</a><br> 
+    <a href="/solutions/philosophers/boyd/">Daniel Boyd</a><br> 
+    <a href="/solutions/philosophers/bradley/">F.H.Bradley</a><br> 
+    <!-- <a href="/solutions/philosophers/bradley/">Franz Brentano</a><br> -->
+    <a href="/solutions/philosophers/broad/">C.D.Broad</a><br>
+    <a href="/solutions/philosophers/burke/">Michael Burke</a><br>
+    <a href="/solutions/philosophers/butterfield/">Jeremy Butterfield</a><br>
+    <a href="/solutions/philosophers/cahoone/">Lawrence Cahoone</a><br>
+    <a href="/solutions/philosophers/campbell/">C.A.Campbell</a><br>
+    <a href="/solutions/philosophers/campbellj/">Joseph Keim Campbell</a><br>
+    <a href="/solutions/philosophers/carnap/">Rudolf Carnap</a><br>
+    <a href="/solutions/philosophers/carneades/">Carneades</a><br>
+    <a href="/solutions/philosophers/cartwright/">Nancy Cartwright</a><br>
+    <a href="/solutions/philosophers/caruso/">Gregg Caruso</a><br>
+    <a href="/solutions/philosophers/cassirer/">Ernst Cassirer</a><br>
+    <a href="/solutions/philosophers/chalmers/">David Chalmers</a><br>
+    <a href="/solutions/philosophers/chisholm/">Roderick Chisholm</a><br>
+    <a href="/solutions/philosophers/chrysippus/">Chrysippus</a><br>
+    <a href="/solutions/philosophers/carneades/">Cicero</a><br> 
+    <a href="/solutions/philosophers/clark/">Tom Clark</a><br>
+    <a href="/solutions/philosophers/clarke/">Randolph Clarke</a><br>
+    <a href="/solutions/philosophers/clarkes/">Samuel Clarke</a><br>
+    <a href="/solutions/philosophers/collins/">Anthony Collins</a><br>
+    <a href="/solutions/philosophers/compte/">August Compte</a><br>
+    <a href="/solutions/philosophers/corradini/">Antonella Corradini</a><br> 
+    <a href="/solutions/philosophers/diodorus/">Diodorus Cronus</a><br>
+    <a href="/solutions/philosophers/dancy/">Jonathan Dancy</a><br>
+    <a href="/solutions/philosophers/davidson/">Donald Davidson</a><br>
+    <a href="/solutions/philosophers/decaro/">Mario De Caro</a><br> 
+    <a href="/solutions/philosophers/democritus/">Democritus</a><br> 
+    <a href="/solutions/philosophers/dembski">William Dembski</a><br>
+    <a href="/solutions/philosophers/dempsey/">Brendan Dempsey</a><br>
+    <a href="/solutions/philosophers/dennett/">Daniel Dennett</a><br>
+    <a href="/solutions/philosophers/derrida/">Jacques Derrida</a><br> 
+    <a href="/solutions/philosophers/descartes/">René Descartes</a><br> 
+    <a href="/solutions/philosophers/double/">Richard Double</a><br> 
+    <a href="/solutions/philosophers/dretske/">Fred Dretske</a><br> 
+    <a href="/solutions/philosophers/ducasse/">Curt Ducasse</a><br> 
+    <!--<a href="/solutions/philosophers/dupre/">John Dupré</a><br>-->
+    <a href="/solutions/philosophers/earman/">John Earman</a><br> 
+    <a href="/solutions/philosophers/ekstrom/">Laura Waddell Ekstrom</a><br> 
+    <a href="/solutions/philosophers/epictetus/">Epictetus</a><br> 
+    <a href="/solutions/philosophers/epicurus/">Epicurus</a><br> 
+    <a href="/solutions/philosophers/farrer/">Austin Farrer</a><br>
+    <a href="/solutions/philosophers/feigl/">Herbert Feigl</a><br>
+    <a href="/solutions/philosophers/fine/">Arthur Fine</a><br>
+    <a href="/solutions/philosophers/fischer/">John Martin Fischer</a><br>
+    <a href="/solutions/philosophers/fitch/">Frederic Fitch</a><br>
+    <a href="/solutions/philosophers/flanagan/">Owen Flanagan</a><br>
+    <a href="/solutions/philosophers/floridi/">Luciano Floridi</a><br>
+    <a href="/solutions/philosophers/foot/">Philippa Foot</a><br>
+    <a href="/solutions/philosophers/fouillee/">Alfred Fouille&eacute;</a><br>
+    <a href="/solutions/philosophers/frankfurt/">Harry Frankfurt</a><br>
+    <a href="/solutions/philosophers/franklin/">Richard L. Franklin</a><br>
+    <a href="/solutions/philosophers/frassen/">Bas van Fraassen</a><br>
+    <a href="/solutions/philosophers/frede/">Michael Frede</a><br>
+    <a href="/solutions/philosophers/frege/">Gottlob Frege</a><br>
+    <a href="/solutions/philosophers/geach/">Peter Geach</a><br>
+    <a href="/solutions/philosophers/gettier/">Edmund Gettier</a><br>
+    <a href="/solutions/philosophers/ginet/">Carl Ginet</a><br>
+    <a href="/knowledge/philosophers/goldman/">Alvin Goldman</a><br> 
+    <a href="/solutions/philosophers/gorgias/">Gorgias</a><br>
+    <a href="/solutions/philosophers/green/">Nicholas St. John Green</a><br>
+    <a href="/solutions/philosophers/gregersen/">Niels Henrik Gregersen</a><br>
+    <a href="/solutions/philosophers/grice/">H.Paul Grice</a><br>
+    <a href="/solutions/philosophers/hacking/">Ian Hacking</a><br> 
+    <a href="/solutions/philosophers/haji/">Ishtiyaque Haji</a><br> 
+    <a href="/solutions/philosophers/hampshire/">Stuart Hampshire</a><br> 
+    <a href="/solutions/philosophers/hardie/">W.F.R.Hardie</a><br> 
+    <a href="/solutions/philosophers/harris/">Sam Harris</a><br> 
+    <a href="/solutions/philosophers/hasker/">William Hasker</a><br> 
+    <a href="/solutions/philosophers/hare/">R.M.Hare</a><br> 
+    <a href="/solutions/philosophers/hegel/">Georg W.F. Hegel</a><br> 
+    <a href="/solutions/philosophers/heidegger/">Martin Heidegger</a><br>
+    <a href="/solutions/philosophers/heraclitus/">Heraclitus</a><br>
+    <a href="/solutions/philosophers/hobart/">R.E.Hobart</a><br> 
+    <a href="/solutions/philosophers/hobbes/">Thomas Hobbes</a><br> 
+    <a href="/solutions/philosophers/hodgson/">David Hodgson</a><br>
+    <a href="/solutions/philosophers/hodgsons/">Shadsworth Hodgson</a><br> 
+    <a href="/solutions/philosophers/dholbach/">Baron d'Holbach</a><br>
+    <a href="/solutions/philosophers/honderich/">Ted Honderich</a><br>
+    <!-- <a href="/solutions/philosophers/hook/">Sidney Hook</a><br> -->
+    <a href="/solutions/philosophers/huby/">Pamela Huby</a><br> 
+    <a href="/solutions/philosophers/hume/">David Hume</a><br> 
+    <a href="/solutions/philosophers/huoranszki/">Ferenc Huoranszki</a><br> 
+    <!-- <a href="/solutions/philosophers/husserl/">Edmund Husserl</a><br> -->
+    <a href="/solutions/philosophers/jackson/">Frank Jackson</a><br> 
+    <a href="/solutions/philosophers/james/">William James</a><br> 
+    <a href="/solutions/philosophers/kames/">Lord Kames</a><br>
+    <a href="/solutions/philosophers/kane/">Robert Kane</a><br>
+    <a href="/solutions/philosophers/kant/">Immanuel Kant</a><br> 
+    <a href="/solutions/philosophers/kapitan/">Tomis Kapitan</a><br> 
+    <a href="/solutions/philosophers/kaufmann/">Walter Kaufmann</a><br> 
+    <a href="/solutions/philosophers/kim/">Jaegwon Kim</a><br> 
+    <a href="/solutions/philosophers/king/">William King</a><br> 
+    <a href="/knowledge/philosophers/kornblith/">Hilary Kornblith</a><br> 
+    <a href="/solutions/philosophers/korsgaard/">Christine Korsgaard</a><br> 
+    <a href="/solutions/philosophers/kripke/">Saul Kripke</a><br> 
+    <a href="/solutions/philosophers/kuhn/">Thomas Kuhn</a><br> 
+    <a href="/solutions/philosophers/lavazza/">Andrea Lavazza</a><br> 
+    <a href="/solutions/philosophers/ladyman/">James Ladyman</a><br> 
+    <a href="/solutions/philosophers/lehner/">Christoph Lehner</a><br>
+    <a href="/solutions/philosophers/lehrer/">Keith Lehrer</a><br> 
+    <a href="/solutions/philosophers/leibniz/">Gottfried Leibniz</a><br> 
+    <a href="/solutions/philosophers/lequyer/">Jules Lequyer</a><br> 
+    <a href="/solutions/philosophers/leucippus/">Leucippus</a><br> 
+    <a href="/solutions/philosophers/levin/">Michael Levin</a><br>
+    <a href="/solutions/philosophers/levine/">Joseph Levine</a><br>
+    <a href="/solutions/philosophers/lewes/">George Henry Lewes</a><br> 
+    <a href="/knowledge/philosophers/lewis/">C.I.Lewis</a><br> 
+    <a href="/solutions/philosophers/lewis/">David Lewis</a><br> 
+    <a href="/solutions/philosophers/lipton/">Peter Lipton</a><br> 
+    <a href="/solutions/philosophers/morgan/">C. Lloyd Morgan</a><br> 
+    <a href="/solutions/philosophers/locke/">John Locke</a><br>
+    <a href="/solutions/philosophers/lockwood/">Michael Lockwood</a><br>
+    <a href="/solutions/philosophers/lovejoy/">Arthur O. Lovejoy</a><br>
+    <a href="/solutions/philosophers/lowe/">E. Jonathan Lowe</a><br>
+    <a href="/solutions/philosophers/lucas/">John R. Lucas</a><br>
+    <a href="/solutions/philosophers/lucretius/">Lucretius</a><br>
+    <a href="/solutions/philosophers/macintyre/">Alasdair MacIntyre</a><br> 
+    <a href="/solutions/philosophers/marcus/">Ruth Barcan Marcus</a><br> 
+    <a href="/solutions/philosophers/maudlin/">Tim Maudlin</a><br> 
+    <a href="/solutions/philosophers/martineau/">James Martineau</a><br> 
+    <a href="/solutions/philosophers/maxwell/">Nicholas Maxwell</a><br> 
+    <a href="/solutions/philosophers/mccall/">Storrs McCall</a><br>
+    <a href="/solutions/philosophers/mccann/">Hugh McCann</a><br>
+    <a href="/solutions/philosophers/mcginn/">Colin McGinn</a><br>
+    <a href="/solutions/philosophers/mckenna/">Michael McKenna</a><br>
+    <a href="/solutions/philosophers/mclaughlin/">Brian McLaughlin</a><br>
+    <a href="/solutions/philosophers/mctaggart/">John McTaggart</a><br>
+    <a href="/solutions/philosophers/meehl/">Paul E. Meehl</a><br>
+    <a href="/solutions/philosophers/meixner/">Uwe Meixner</a><br>
+    <a href="/solutions/philosophers/mele/">Alfred Mele</a><br>
+    <a href="/solutions/philosophers/merricks/">Trenton Merricks</a><br>
+    <a href="/solutions/philosophers/mill/">John Stuart Mill</a><br>
+    <a href="/solutions/philosophers/miller/">Dickinson Miller</a><br>
+    <a href="/solutions/philosophers/moore/">G.E.Moore</a><br>
+    <a href="/solutions/philosophers/nagele/">Ernest Nagel</a><br>
+    <a href="/solutions/philosophers/nagelt/">Thomas Nagel</a><br>
+    <a href="/solutions/philosophers/neurath/">Otto Neurath</a><br>
+    <a href="/solutions/philosophers/nietzsche/">Friedrich Nietzsche</a><br>
+    <a href="/solutions/philosophers/norton/">John Norton</a><br>
+    <a href="/solutions/philosophers/nowell-smith/">P.H.Nowell-Smith</a><br>
+    <a href="/solutions/philosophers/nozick/">Robert Nozick</a><br>
+    <a href="/solutions/philosophers/ockham/">William of Ockham</a><br> 
+    <a href="/solutions/philosophers/oconnor/">Timothy O'Connor</a><br>
+    <a href="/solutions/philosophers/parmenides/">Parmenides</a><br>
+    <a href="/solutions/philosophers/pears/">David F. Pears</a><br> 
+    <a href="/solutions/philosophers/peirce/">Charles Sanders Peirce</a><br> 
+    <a href="/solutions/philosophers/pereboom/">Derk Pereboom</a><br> 
+    <a href="/solutions/philosophers/piccinini/">Gualtiero Piccinini</a><br> 
+    <a href="/solutions/philosophers/pinker/">Steven Pinker</a><br>
+    <a href="/solutions/philosophers/place/">U.T.Place</a><br> 
+    <a href="/solutions/philosophers/plato/">Plato</a><br> 
+    <a href="/solutions/philosophers/popper/">Karl Popper</a><br> 
+    <a href="/solutions/philosophers/porphyry/">Porphyry</a><br> 
+    <a href="/solutions/philosophers/price/">Huw Price</a><br> 
+    <a href="/solutions/philosophers/prichard/">H.A.Prichard</a><br> 
+    <a href="/solutions/philosophers/protagoras/">Protagoras</a><br>
+    <a href="/solutions/philosophers/putnam/">Hilary Putnam</a><br> 
+    <a href="/solutions/philosophers/quine/">Willard van Orman Quine</a><br> 
+    <a href="/knowledge/philosophers/ramsey/">Frank Ramsey</a><br> 
+    <a href="/solutions/philosophers/rand/">Ayn Rand</a><br> 
+    <a href="/solutions/philosophers/rea/">Michael Rea</a><br>
+    <a href="/solutions/philosophers/reid/">Thomas Reid</a><br> 
+    <a href="/solutions/philosophers/renouvier/">Charles Renouvier</a><br> 
+    <a href="/solutions/philosophers/rescher/">Nicholas Rescher</a><br> 
+    <a href="/solutions/philosophers/rietdijk/">C.W.Rietdijk</a><br> 
+    <a href="/solutions/philosophers/rorty/">Richard Rorty</a><br> 
+    <a href="/solutions/philosophers/royce/">Josiah Royce</a><br> 
+    <a href="/solutions/philosophers/russell/">Bertrand Russell</a><br> 
+    <a href="/solutions/philosophers/russellp/">Paul Russell</a><br> 
+    <a href="/solutions/philosophers/ryle/">Gilbert Ryle</a><br> 
+    <a href="/solutions/philosophers/sartre/">Jean-Paul Sartre</a><br> 
+    <a href="/solutions/philosophers/sayre/">Kenneth Sayre</a><br> 
+    <a href="/solutions/philosophers/scanlon/">T.M.Scanlon</a><br> 
+    <a href="/solutions/philosophers/schlick/">Moritz Schlick</a><br> 
+    <a href="/solutions/philosophers/scotus/">John Duns Scotus</a><br> 
+    <a href="/solutions/philosophers/schweitzer/">Albert Schweitzer</a><br> 
+    <a href="/solutions/philosophers/schopenhauer/">Arthur Schopenhauer</a><br> 
+    <a href="/solutions/philosophers/searle/">John Searle</a><br>
+    <a href="/solutions/philosophers/sellars/">Wilfrid Sellars</a><br>
+    <a href="/solutions/philosophers/shiang/">David Shiang</a><br> 
+    <a href="/solutions/philosophers/sidelle/">Alan Sidelle</a><br> 
+    <a href="/solutions/philosophers/sider/">Ted Sider</a><br> 
+    <a href="/solutions/philosophers/sidgwick/">Henry Sidgwick</a><br> 
+    <a href="/solutions/philosophers/sinnott-armstrong/">Walter Sinnott-Armstrong</a><br> 
+    <a href="/solutions/philosophers/slezak/">Peter Slezak</a><br> 
+    <a href="/solutions/philosophers/smart/">J.J.C.Smart</a><br> 
+    <a href="/solutions/philosophers/smilansky/">Saul Smilansky</a><br> 
+    <a href="/solutions/philosophers/smith/">Michael Smith</a><br> 
+    <a href="/solutions/philosophers/spinoza/">Baruch Spinoza</a><br> 
+    <a href="/solutions/philosophers/stebbing/">L. Susan Stebbing</a><br> 
+    <a href="/solutions/philosophers/stengers/">Isabelle Stengers</a><br> 
+    <a href="/solutions/philosophers/stout/">George F. Stout</a><br> 
+    <a href="/solutions/philosophers/strawsong/">Galen Strawson</a><br>
+    <a href="/solutions/philosophers/strawson/">Peter Strawson</a><br>
+    <a href="/solutions/philosophers/stump/">Eleonore Stump</a><br>
+    <a href="/solutions/philosophers/suarez/">Francisco Suárez</a><br>
+    <a href="/solutions/philosophers/taylorr/">Richard Taylor</a><br>
+    <a href="/solutions/philosophers/timpe/">Kevin Timpe</a><br>
+    <a href="/solutions/philosophers/twain/">Mark Twain</a><br>
+    <a href="/solutions/philosophers/unger/">Peter Unger</a><br> 
+    <a href="/solutions/philosophers/vaninwagen/">Peter van Inwagen</a><br> 
+    <a href="/solutions/philosophers/vargas/">Manuel Vargas</a><br> 
+    <a href="/solutions/philosophers/venn/">John Venn</a><br> 
+    <a href="/solutions/philosophers/vihvelin/">Kadri Vihvelin</a><br> 
+    <a href="/solutions/philosophers/voltaire/">Voltaire</a><br> 
+    <a href="/solutions/philosophers/vonwright/">G.H. von Wright</a><br> 
+    <a href="/solutions/philosophers/wallacedf/">David Foster Wallace</a><br> 
+    <a href="/solutions/philosophers/wallace/">R. Jay Wallace</a><br> 
+    <a href="/solutions/philosophers/ward/">W.G.Ward</a><br> 
+    <a href="/solutions/philosophers/warfield/">Ted Warfield</a><br> 
+    <a href="/solutions/philosophers/weatherford/">Roy Weatherford</a><br> 
+    <a href="/solutions/philosophers/weizsacker/">C.F. von Weizsäcker</a><br>
+    <a href="/solutions/philosophers/whewell/">William Whewell</a><br> 
+    <a href="/solutions/philosophers/whitehead/">Alfred North Whitehead</a><br> 
+    <a href="/solutions/philosophers/widerker/">David Widerker</a><br> 
+    <a href="/solutions/philosophers/wiggins/">David Wiggins</a><br> 
+    <a href="/solutions/philosophers/williams/">Bernard Williams</a><br> 
+    <a href="/solutions/philosophers/williamson/">Timothy Williamson</a><br> 
+    <a href="/solutions/philosophers/wittgenstein/">Ludwig Wittgenstein</a><br> 
+    <a href="/solutions/philosophers/wolf/">Susan Wolf</a><br> 
+    <a href="/solutions/philosophers/xenophon/">Xenophon</a><br> 
+    <br> 
+    Scientists
+    <br><br>
+    <a href="/solutions/scientists/albert/">David Albert</a><br>
+    <a href="/solutions/scientists/anderson/">Philip W. Anderson</a><br>
+    <a href="/solutions/scientists/arbib/">Michael Arbib</a><br>
+    <a href="/solutions/scientists/azarian/">Bobby Azarian</a><br>
+    <a href="/solutions/scientists/baade/">Walter Baade</a><br>
+    <a href="/solutions/scientists/baars/">Bernard Baars</a><br>
+    <a href="/solutions/scientists/bada/">Jeffrey Bada</a><br>
+    <a href="/solutions/scientists/ballentine/">Leslie Ballentine</a><br>
+    <a href="/solutions/scientists/barbieri/">Marcello Barbieri</a><br>
+    <a href="/solutions/scientists/barandes/">Jacob Barandes</a><br>
+    <a href="/solutions/scientists/barbour/">Julian Barbour</a><br>
+    <a href="/solutions/scientists/barlow/">Horace Barlow</a><br>
+    <a href="/solutions/scientists/bateson/">Gregory Bateson</a><br>
+    <a href="/solutions/scientists/bekenstein/">Jakob Bekenstein</a><br>
+    <a href="/solutions/scientists/bell/">John S. Bell</a><br>
+    <a href="/solutions/scientists/beller/">Mara Beller</a><br>
+    <a href="/solutions/scientists/bennett/">Charles Bennett</a><br>
+    <a href="/solutions/scientists/bertalanffy/">Ludwig von Bertalanffy</a><br>
+    <a href="/solutions/scientists/blackmore/">Susan Blackmore</a><br>
+    <a href="/solutions/scientists/boden/">Margaret Boden</a><br>
+    <a href="/solutions/scientists/bohm/">David Bohm</a><br>
+    <a href="/solutions/scientists/bohr/">Niels Bohr</a><br>
+    <a href="/solutions/scientists/boltzmann/">Ludwig Boltzmann</a><br> 
+    <a href="/solutions/scientists/bonner/">John Tyler Bonner</a><br> 
+    <a href="/solutions/scientists/borel/">Emile Borel</a><br> 
+    <a href="/solutions/scientists/born/">Max Born</a><br> 
+    <a href="/solutions/scientists/bose/">Satyendra Nath Bose</a><br> 
+    <a href="/solutions/scientists/bothe/">Walther Bothe</a><br> 
+    <a href="/solutions/scientists/bricmont/">Jean Bricmont</a><br>
+    <a href="/solutions/scientists/briegel/">Hans Briegel</a><br>
+    <a href="/solutions/scientists/brillouin/">Leon Brillouin</a><br>
+    <a href="/solutions/scientists/brooks/">Daniel Brooks</a><br>
+    <a href="/solutions/scientists/brush/">Stephen Brush</a><br>
+    <a href="/solutions/scientists/buckle/">Henry Thomas Buckle</a><br>
+    <a href="/solutions/scientists/burbury/">S. H. Burbury</a><br>
+    <a href="/solutions/scientists/calvin/">Melvin Calvin</a><br>
+    <a href="/solutions/scientists/calvinw/">William Calvin</a><br>
+    <a href="/solutions/scientists/campbell/">Donald Campbell</a><br>
+    <a href="/solutions/scientists/campbellj/">John O. Campbell</a><br>
+    <a href="/solutions/scientists/carnot/">Sadi Carnot</a><br>
+    <a href="/solutions/scientists/carroll/">Sean B. Carroll</a><br>
+    <a href="/solutions/scientists/cashmore/">Anthony Cashmore</a><br>
+    <a href="/solutions/scientists/chaisson/">Eric Chaisson</a><br>
+    <a href="/solutions/scientists/chaitin/">Gregory Chaitin</a><br>
+    <a href="/solutions/scientists/changeux/">Jean-Pierre Changeux</a><br>
+    <a href="/solutions/scientists/clausius/">Rudolf Clausius</a><br>
+    <a href="/solutions/scientists/compton/">Arthur Holly Compton</a><br>
+    <a href="/solutions/scientists/conway/">John Conway</a><br>
+    <a href="/solutions/scientists/conway-morris/">Simon Conway-Morris</a><br>
+    <a href="/solutions/scientists/corning/">Peter Corning</a><br>
+    <a href="/solutions/scientists/cowan/">George Cowan</a><br>
+    <a href="/solutions/scientists/coyne/">Jerry Coyne</a><br>
+    <a href="/solutions/scientists/cramer/">John Cramer</a><br>
+    <a href="/solutions/scientists/crick/">Francis Crick</a><br>
+    <a href="/solutions/scientists/culverwell/">E. P. Culverwell</a><br>
+    <a href="/solutions/scientists/damasio/">Antonio Damasio</a><br>
+    <a href="/solutions/scientists/darrigol/">Olivier Darrigol</a><br>
+    <a href="/solutions/scientists/darwin/">Charles Darwin</a><br>
+    <a href="/solutions/scientists/davies/">Paul Davies</a><br>
+    <a href="/solutions/scientists/dawkins/">Richard Dawkins</a><br>
+    <a href="/solutions/scientists/deacon/">Terrence Deacon</a><br>
+    <a href="/solutions/scientists/kornhuber-deecke/">Lüder Deecke</a><br>
+    <a href="/solutions/scientists/dedekind/">Richard Dedekind</a><br>
+    <a href="/solutions/scientists/de_broglie/">Louis de Broglie</a><br>
+    <a href="/solutions/scientists/dehaene/">Stanislas Dehaene</a><br> 
+    <a href="/solutions/scientists/delbruck/">Max Delbrück</a><br> 
+    <a href="/solutions/scientists/de_moivre/">Abraham de Moivre</a><br> 
+    <a href="/solutions/scientists/depew/">David Depew</a><br>
+    <a href="/solutions/scientists/despagmat/">Bernard d'Espagnat</a><br>
+    <a href="/solutions/scientists/dirac/">Paul Dirac</a><br>
+    <a href="/solutions/scientists/dobzhansky/">Theodosius Dobzhansky</a><br>
+    <a href="/solutions/scientists/driesch/">Hans Driesch</a><br>
+    <a href="/solutions/scientists/dupre/">John Dupré</a><br>
+    <a href="/solutions/scientists/eccles/">John Eccles</a><br>
+    <a href="/solutions/scientists/eddington/">Arthur Stanley Eddington</a><br> 
+    <a href="/solutions/scientists/edelman/">Gerald Edelman</a><br> 
+    <a href="/solutions/scientists/ehrenfest/">Paul Ehrenfest</a><br> 
+    <a href="/solutions/scientists/eigen/">Manfred Eigen</a><br> 
+    <a href="/solutions/scientists/einstein/">Albert Einstein</a><br> 
+    <a href="/solutions/scientists/ellis/">George F. R. Ellis</a><br> 
+    <a href="/solutions/scientists/elsasser/">Walter Elsasser</a><br> 
+    <a href="/solutions/scientists/everett/">Hugh Everett, III</a><br> 
+    <a href="/solutions/scientists/exner/">Franz Exner</a><br> 
+    <a href="/solutions/scientists/feynman/">Richard Feynman</a><br>
+    <a href="/solutions/scientists/fisher/">R. A. Fisher</a><br>
+    <a href="/solutions/scientists/foster/">David Foster</a><br>
+    <a href="/solutions/scientists/fourier/">Joseph Fourier</a><br>
+    <a href="/solutions/scientists/fox/">George Fox</a><br>
+    <a href="/solutions/scientists/frank/">Philipp Frank</a><br> 
+    <a href="/solutions/scientists/frautschi/">Steven Frautschi</a><br> 
+    <a href="/solutions/scientists/fredkin/">Edward Fredkin</a><br> 
+    <a href="/solutions/scientists/fresnel/">Augustin-Jean Fresnel</a><br> 
+    <a href="/solutions/scientists/friston/">Karl Friston</a><br> 
+    <a href="/solutions/scientists/gal-or/">Benjamin Gal-Or</a><br> 
+    <a href="/solutions/scientists/gardner/">Howard Gardner</a><br> 
+    <a href="/solutions/scientists/gatlin/">Lila Gatlin</a><br> 
+    <a href="/solutions/scientists/gazzaniga/">Michael Gazzaniga</a><br> 
+    <a href="/solutions/scientists/georgescu-roegen/">Nicholas Georgescu-Roegen</a><br> 
+    <a href="/solutions/scientists/ghirardi/">GianCarlo Ghirardi</a><br> 
+    <a href="/solutions/scientists/gibbs/">J. Willard Gibbs</a><br> 
+    <a href="/solutions/scientists/gibson/">James J. Gibson</a><br> 
+    <a href="/solutions/scientists/gisin/">Nicolas Gisin</a><br> 
+    <a href="/solutions/scientists/glimcher/">Paul Glimcher</a><br> 
+    <a href="/solutions/scientists/gold/">Thomas Gold</a><br>
+    <a href="/solutions/scientists/gomes/">A. O. Gomes</a><br> 
+    <a href="/solutions/scientists/goodwin/">Brian Goodwin</a><br> 
+    <a href="/solutions/scientists/gough/">Julian Gough</a><br> 
+    <a href="/solutions/scientists/greene/">Joshua Greene</a><br> 
+    <a href="/solutions/scientists/haar/">Dirk ter Haar</a><br> 
+    <a href="/solutions/scientists/hadamard/">Jacques Hadamard</a><br> 
+    <a href="/solutions/scientists/hadley/">Mark Hadley</a><br> 
+    <a href="/solutions/scientists/haeckel/">Ernst Haeckel</a><br> 
+    <a href="/solutions/scientists/haggard/">Patrick Haggard</a><br> 
+    <a href="/solutions/scientists/haldane/">J. B. S. Haldane</a><br> 
+    <a href="/solutions/scientists/hameroff/">Stuart Hameroff</a><br> 
+    <a href="/solutions/scientists/hamon/">Augustin Hamon</a><br> 
+    <a href="/solutions/scientists/harris/">Sam Harris</a><br> 
+    <a href="/solutions/scientists/hartley/">Ralph Hartley</a><br> 
+    <a href="/solutions/scientists/hartman/">Hyman Hartman</a><br> 
+    <a href="/solutions/scientists/hawkins/">Jeff Hawkins</a><br> 
+    <a href="/solutions/scientists/haynes/">John-Dylan Haynes</a><br> 
+    <a href="/solutions/scientists/hebb/">Donald Hebb</a><br> 
+    <a href="/solutions/scientists/heisenbergm/">Martin Heisenberg</a><br> 
+    <a href="/solutions/scientists/heisenberg/">Werner Heisenberg</a><br> 
+    <a href="/solutions/scientists/helmholtz">Hermann von Helmholtz</a><br> 
+    <a href="/solutions/scientists/hermann/">Grete Hermann</a><br> 
+    <a href="/solutions/scientists/herschel/">John Herschel</a><br> 
+    <a href="/solutions/scientists/heylighen/">Francis Heylighen</a><br> 
+    <a href="/solutions/scientists/hiley/">Basil Hiley</a><br> 
+    <a href="/solutions/scientists/hobson/">Art Hobson</a><br> 
+    <a href="/solutions/scientists/hoffmeyer/">Jesper Hoffmeyer</a><br> 
+   <a href="/solutions/scientists/holland/">John Holland</a><br> 
+    <a href="/solutions/scientists/howard/">Don Howard</a><br> 
+    <a href="/solutions/scientists/jackson/">John H. Jackson</a><br> 
+    <a href="/solutions/scientists/jackendoff/">Ray Jackendoff</a><br>
+    <a href="/solutions/scientists/jakobson/">Roman Jakobson</a><br>
+    <a href="/solutions/scientists/jaynes/">E. T. Jaynes</a><br>
+    <a href="/solutions/scientists/jevons/">William Stanley Jevons</a><br>
+    <a href="/solutions/scientists/jordan/">Pascual Jordan</a><br>
+    <a href="/solutions/scientists/kandel/">Eric Kandel</a><br>
+    <a href="/solutions/scientists/kastner/">Ruth E. Kastner</a><br>
+    <a href="/solutions/scientists/kauffman/">Stuart Kauffman</a><br>
+    <a href="/solutions/scientists/klein/">Martin J. Klein</a><br> 
+    <a href="/solutions/scientists/klemm/">William R. Klemm</a><br> 
+    <a href="/solutions/scientists/koch/">Christof Koch</a><br>
+    <a href="/solutions/scientists/kochen/">Simon Kochen</a><br>
+    <a href="/solutions/scientists/kornhuber-deecke/">Hans Kornhuber</a><br>
+    <a href="/solutions/scientists/kosslyn/">Stephen Kosslyn</a><br> 
+    <a href="/solutions/scientists/koshland/">Daniel Koshland</a><br> 
+    <a href="/solutions/scientists/kovac/">Ladislav Kovàč</a><br>
+    <a href="/solutions/scientists/kronecker/">Leopold Kronecker</a><br>
+    <a href="/solutions/scientists/kuppers/">Bernd-Olaf Küppers</a><br>
+    <a href="/solutions/scientists/landauer/">Rolf Landauer</a><br>
+    <a href="/solutions/scientists/lande/">Alfred Landé</a><br>
+    <a href="/solutions/scientists/laplace/">Pierre-Simon Laplace</a><br> 
+    <a href="/solutions/scientists/lashley/">Karl Lashley</a><br> 
+    <a href="/solutions/scientists/layzer/">David Layzer</a><br> 
+    <a href="/solutions/scientists/ledoux/">Joseph LeDoux</a><br> 
+    <a href="/solutions/scientists/lettvin/">Gerald Lettvin</a><br> 
+    <a href="/solutions/scientists/levin/">Michael Levin</a><br> 
+    <a href="/solutions/scientists/lewis/">Gilbert Lewis</a><br> 
+    <a href="/solutions/scientists/libet/">Benjamin Libet</a><br> 
+    <a href="/solutions/scientists/lindley/">David Lindley</a><br> 
+    <a href="/solutions/scientists/lloyd/">Seth Lloyd</a><br> 
+    <a href="/solutions/scientists/loewenstein/">Werner Loewenstein</a><br> 
+    <a href="/solutions/scientists/lorentz/">Hendrik Lorentz</a><br> 
+    <a href="/solutions/scientists/loschmidt/">Josef Loschmidt</a><br> 
+    <a href="/solutions/scientists/lotka/">Alfred Lotka</a><br> 
+    <a href="/solutions/scientists/mach/">Ernst Mach</a><br>
+    <a href="/solutions/scientists/mackay/">Donald MacKay</a><br> 
+    <a href="/solutions/scientists/margenau/">Henry Margenau</a><br> 
+    <a href="/solutions/scientists/margulis/">Lynn Margulis</a><br> 
+    <a href="/solutions/scientists/maroney/">Owen Maroney</a><br> 
+    <a href="/solutions/scientists/marr/">David Marr</a><br> 
+    <a href="/solutions/scientists/maturana/">Humberto Maturana</a><br> 
+    <a href="/solutions/scientists/maxwell/">James Clerk Maxwell</a><br> 
+    <a href="/solutions/scientists/maynard-smith/">John Maynard Smith</a><br>
+    <a href="/solutions/scientists/mayr/">Ernst Mayr</a><br>
+    <a href="/solutions/scientists/mccarthy/">John McCarthy</a><br>
+    <a href="/solutions/scientists/mcclintock/">Barbara McClintock</a><br>
+    <a href="/solutions/scientists/mcculloch/">Warren McCulloch</a><br>
+    <a href="/solutions/scientists/mermin/">N. David Mermin</a><br>
+    <a href="/solutions/scientists/miller/">George Miller</a><br>
+    <a href="/solutions/scientists/smiller/">Stanley Miller</a><br>
+    <a href="/solutions/scientists/mohrhoff/">Ulrich Mohrhoff</a><br>
+    <a href="/solutions/scientists/monod/">Jacques Monod</a><br>
+    <a href="/solutions/scientists/mountcastle/">Vernon Mountcastle</a><br> 
+    <a href="/solutions/scientists/muller/">Gerd B. Müller</a><br> 
+    <a href="/solutions/scientists/noether/">Emmy Noether</a><br> 
+    <a href="/solutions/scientists/noble/">Denis Noble</a><br> 
+    <a href="/solutions/scientists/norman/">Donald Norman</a><br> 
+    <a href="/solutions/scientists/norsen/">Travis Norsen</a><br>
+    <a href="/solutions/scientists/odumh/">Howard T. Odum</a><br> 
+    <a href="/solutions/scientists/oparin/">Alexander Oparin</a><br> 
+    <a href="/solutions/scientists/pais/">Abraham Pais</a><br> 
+    <a href="/solutions/scientists/pattee/">Howard Pattee</a><br> 
+    <a href="/solutions/scientists/pauli/">Wolfgang Pauli</a><br> 
+    <a href="/solutions/scientists/pauri/">Massimo Pauri</a><br> 
+    <a href="/solutions/scientists/penfield/">Wilder Penfield</a><br>
+    <a href="/solutions/scientists/penrose/">Roger Penrose</a><br>
+    <a href="/solutions/scientists/pigliucci/">Massimo Pigliucci</a><br/>
+    <a href="/solutions/philosophers/pinker/">Steven Pinker</a><br> 
+    <a href="/solutions/scientists/pittendrigh/">Colin Pittendrigh</a><br> 
+    <a href="/solutions/scientists/pitts/">Walter Pitts</a><br> 
+    <a href="/solutions/scientists/planck/">Max Planck</a><br> 
+    <a href="/solutions/scientists/pockett/">Susan Pockett</a><br> 
+    <a href="/solutions/scientists/poincare/">Henri Poincaré</a><br>
+    <a href="/solutions/scientists/polanyi/">Michael Polanyi</a><br>
+    <a href="/solutions/scientists/pollen/">Daniel Pollen</a><br> 
+    <a href="/solutions/scientists/prigogine/">Ilya Prigogine</a><br>
+    <a href="/solutions/scientists/primas/">Hans Primas</a><br>
+    <a href="/solutions/scientists/prisco/">Giulio Prisco</a><br>
+    <a href="/solutions/scientists/pylyshyn/">Zenon Pylyshyn</a><br/>
+    <a href="/solutions/scientists/quastler/">Henry Quastler</a><br/>
+    <a href="/solutions/scientists/quetelet/">Adolphe Quételet</a><br/>
+    <a href="/solutions/scientists/rakic/">Pasco Rakic</a><br/>
+    <a href="/solutions/scientists/rashevsky/">Nicolas Rashevsky</a><br/>
+    <a href="/solutions/scientists/rayleigh/">Lord Rayleigh</a><br/>
+    <a href="/solutions/scientists/reif/">Frederick Reif</a><br/>
+    <a href="/solutions/scientists/renn/">Jürgen Renn</a><br/>
+    <a href="/solutions/scientists/rizzolati/">Giacomo Rizzolati</a><br/>
+    <a href="/solutions/scientists/roback/">A.A. Roback</a><br/>
+    <a href="/solutions/scientists/roduner/">Emil Roduner</a><br/>
+    <a href="/solutions/scientists/roederer/">Juan Roederer</a><br/>
+    <a href="/solutions/scientists/rosen/">Robert Rosen</a><br/>
+    <a href="/solutions/scientists/rosenblatt/">Frank Rosenblatt</a><br/>
+    <a href="/solutions/scientists/rothstein/">Jerome Rothstein</a><br/>
+    <a href="/solutions/scientists/ruelle/">David Ruelle</a><br/>
+    <a href="/solutions/scientists/rumelhart/">David Rumelhart</a><br> 
+    <a href="/solutions/scientists/ruse">Michael Ruse</a><br> 
+    <a href="/solutions/scientists/salthe/">Stanley Salthe</a><br> 
+    <a href="/solutions/scientists/sapolsky/">Robert Sapolsky</a><br>
+    <a href="/solutions/scientists/sauer/">Tilman Sauer</a><br>
+    <a href="/solutions/scientists/saussure/">Ferdinand de Saussure</a><br>
+    <a href="/solutions/scientists/schmidhuber/">Jürgen Schmidhuber</a><br>
+    <a href="/solutions/scientists/schrodinger/">Erwin Schr&ouml;dinger</a><br> 
+    <a href="/solutions/scientists/schurger/">Aaron Schurger</a><br> 
+    <a href="/solutions/scientists/seung/">Sebastian Seung</a><br>
+    <a href="/solutions/scientists/sebeok/">Thomas Sebeok</a><br>
+    <a href="/solutions/scientists/selleri/">Franco Selleri</a><br>
+    <a href="/solutions/scientists/shannon/">Claude Shannon</a><br>
+     <a href="/solutions/scientists/shapiro/">James A. Shapiro</a><br>
+    <a href="/solutions/scientists/sherrington/">Charles Sherrington</a><br> 
+    <a href="/solutions/scientists/shimony/">Abner Shimony</a><br> 
+    <a href="/solutions/scientists/simon/">Herbert Simon</a><br> 
+    <a href="/solutions/scientists/simonton/">Dean Keith Simonton</a><br>
+    <a href="/solutions/scientists/sinnott/">Edmund Sinnott</a><br>
+    <a href="/solutions/scientists/skinner/">B. F. Skinner</a><br>
+    <a href="/solutions/scientists/smolin/">Lee Smolin</a><br> 
+    <a href="/solutions/scientists/solomonoff/">Ray Solomonoff</a><br> 
+    <a href="/solutions/scientists/spencer/">Herbert Spencer</a><br>
+    <a href="/solutions/scientists/sperry/">Roger Sperry</a><br>
+    <a href="/solutions/scientists/stachel/">John Stachel</a><br> 
+    <a href="/solutions/scientists/stanley/">Kenneth Stanley</a><br>
+    <a href="/solutions/scientists/stapp/">Henry Stapp</a><br>
+    <a href="/solutions/scientists/stewart/">Ian Stewart</a><br>
+    <a href="/solutions/scientists/stonier/">Tom Stonier</a><br>
+    <a href="/solutions/scientists/suarez/">Antoine Suarez</a><br>
+    <a href="/solutions/scientists/susskind/">Leonard Susskind</a><br>
+    <a href="/solutions/scientists/szilard/">Leo Szilard</a><br>
+    <a href="/solutions/scientists/tegmark/">Max Tegmark</a><br>
+    <a href="/solutions/scientists/teilhard/">Teilhard de Chardin</a><br>
+    <a href="/solutions/scientists/thims/">Libb Thims</a><br>
+    <a href="/solutions/scientists/thomson/">William Thomson (Kelvin)</a><br>
+    <a href="/solutions/scientists/tolman/">Richard Tolman</a><br> 
+    <a href="/solutions/scientists/tononi/">Giulio Tononi</a><br> 
+    <a href="/solutions/scientists/tse/">Peter Tse</a><br>
+    <a href="/solutions/scientists/turing/">Alan Turing</a><br>
+    <a href="/solutions/scientists/ulanowicz/">Robert Ulanowicz</a><br> 
+    <a href="/solutions/scientists/unnikrishnan/">C. S. Unnikrishnan</a><br>
+    <a href="/solutions/scientists/kampen/">Nico van Kampen</a><br>
+    <a href="/solutions/scientists/varela/">Francisco Varela</a><br>
+    <a href="/solutions/scientists/vedral/">Vlatko Vedral</a><br>
+    <a href="/solutions/scientists/vernadsky/">Vladimir Vernadsky</a><br>
+    <a href="/solutions/scientists/vidal/">Clément Vidal</a><br>
+    <a href="/solutions/scientists/volkenstein/">Mikhail Volkenstein</a><br>
+    <a href="/solutions/scientists/foerster/">Heinz von Foerster</a><br>
+    <a href="/solutions/scientists/mises/">Richard von Mises</a><br>
+    <a href="/solutions/scientists/neumann/">John von Neumann</a><br>
+    <a href="/solutions/scientists/uexkull/">Jakob von Uexküll</a><br>
+    <a href="/solutions/scientists/waddington/">C. H. Waddington</a><br>
+    <a href="/solutions/scientists/walker/">Sara Imari Walker</a><br>
+    <a href="/solutions/scientists/watsonj/">James D. Watson</a><br>
+    <a href="/solutions/scientists/watsonjb/">John B. Watson</a><br>
+    <a href="/solutions/scientists/weber/Bruce Weber</a><br>
+    <a href="/solutions/scientists/wegner/">Daniel Wegner</a><br>
+    <a href="/solutions/scientists/weinberg/">Steven Weinberg</a><br>
+    <a href="/solutions/scientists/weismann/">August Weismann</a><br>
+    <a href="/solutions/scientists/weiss/">Paul A. Weiss</a><br>
+    <a href="/solutions/scientists/weyl/">Herman Weyl</a><br>
+    <a href="/solutions/scientists/wheeler/">John Wheeler</a><br>
+    <a href="/solutions/scientists/wicken/">Jeffrey Wicken</a><br>
+    <a href="/solutions/scientists/wien/">Wilhelm Wien</a><br>
+    <a href="/solutions/scientists/wiener/">Norbert Wiener</a><br>
+    <a href="/solutions/scientists/wigner/">Eugene Wigner</a><br>
+    <a href="/solutions/scientists/wiley/">E. O. Wiley</a><br>
+    <a href="/solutions/scientists/wilson/">E. O. Wilson</a><br>
+    <a href="/solutions/scientists/witzany/">Günther Witzany</a><br>
+    <a href="/solutions/scientists/woese/">Carl Woese</a><br>
+    <a href="/solutions/scientists/wolfram/">Stephen Wolfram</a><br>
+    <a href="/solutions/scientists/zeh/">H. Dieter Zeh</a><br>
+    <a href="/solutions/scientists/zeki/">Semir Zeki</a><br>
+    <a href="/solutions/scientists/zermelo/">Ernst Zermelo</a><br> 
+    <a href="/solutions/scientists/zurek/">Wojciech Zurek</a><br>
+    <a href="/solutions/scientists/zuse/">Konrad Zuse</a><br>
+    <a href="/solutions/scientists/zwicky/">Fritz Zwicky</a><br>
+<br/>
+Presentations
+<br/>
+<br/>
+<a href="/presentations/ABCD_Multimedia_2006.pdf/">ABCD Harvard</a> (<a href="/presentations/ABCD_Multimedia_2006.pptx/">ppt</a>) 
+<a href="/presentations/Bhaktivedanta/">Bhaktivedanta Aug 2026</a><br/>
+<a href="/presentations/biosemiotics/">Biosemiotics</a><br/>
+<a href="/presentations/Free__Will/">Free Will</a><br/>
+<a href="/presentations/Milan/mental_causation/index2.html">Mental Causation</a><br/>
+<a href="/presentations/video/WJS-2010/">James Symposium</a><br/>
+<a href="/presentations/CSC25_Talk/">CCS25 Talk</a><br/>
+<a href="/presentations/Evo_Devo_CSS/">Evo Devo September 12</a><br/>
+<a href="/presentations/Evo_Devo_I-Phi/">Evo Devo October 2</a><br/>
+<a href="/presentations/Evo_Devo_Davies/">Evo Devo Davies Nov12</a><br/>
+
+             </div> 
+	      <div style="clear: both;"></div>
+	      &nbsp;
+	    </div>
+	    <!-- end column1 -->
+	  </td>
+
+	  <td valign="top">
+	    <!-- start column2 or 23 -->
+	    <div id="column23">
+	      <div class="bodycontent">
+		
+
+<div class="breadcrumbs">
+<a href="/">Home</a> &gt; <a href="/solutions/">Solutions</a> &gt; <a href="/solutions/philosophers/">Philosophers</a> &gt; <a href="/solutions/philosophers/james/">James</a> > Are We Automata?
+</div>
+
+<div class="chaptertitle">Are We Automata?</div>
+<div class="sectiontitle"><em>Mind</em>, vol.4, 1 3(January, 1879) pp.1-22  </div>
+
+Everyone is now
+acquainted with the Conscious-Automaton-theory to which Prof. Huxley[<a href="#f1">1</a>] gave such publicity in his Belfast address; which the late
+Mr. D. A. Spalding punctiliously made the pivot of all his book-notices in <i>Nature;
+</i>which Prof. Clifford fulminated as a dogma essential to salvation in a
+lecture on "Body and Mind"[<a href="#f2">2</a>] but which found its
+earliest and ablest exposition in Mr. Hodgson's magnificent work, <i>The Theory
+of Practice</i>.[<a href="#f3">3</a>] The theory maintains that in
+everything outward we are pure material machines. Feeling is a mere collateral product of our nervous processes,
+unable to react upon them any more than a shadow reacts on the steps of the
+traveller whom it accompanies. Inert, uninfluential, a simple passenger in the voyage of life, it
+is allowed to remain on board, but not to touch the helm or handle the rigging.</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">The theory also
+maintains that we are in error to suppose that our thoughts awaken each other
+by inward congruity or rational necessity, that disappointed hopes <i>cause </i>sadness,
+premisses conclusions, &amp;c. The feelings are merely juxtaposed in that
+order without mutual cohesion, because the nerve-processes to which they
+severally correspond awaken each other in that order. [p. 2]</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">It may seem strange
+that this latter part of the theory should be held by writers, who like Prof.
+Huxley have openly expressed their belief in Hume's doctrine of causality. That doctrine asserts that the causality we
+seem to find between the terms of a physical chain of events, is an
+illegitimate outward projection of the inward necessity by which we feel each
+thought to sprout out of its customary antecedent. Strip the string of necessity from between
+ideas themselves, and it becomes hard indeed for a Humian[<i style="">sic</i>] to say how the notion of causality
+ever was born at all.</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">This, however, is an
+<i>argumentum ad hominem </i>which need not detain
+us. The theory itself is an inevitable
+consequence of the extension of the notion of reflex action to the higher
+nerve-centres. Prof. Huxley starts from
+a decapitated frog which performs rational-seeming acts although probably it
+has no consciousness, and passing up to the hemispheres of man concludes that
+the rationality of their performances can owe nothing to the feelings that
+co-exist with it. This is the inverse of
+Mr. Lewes's procedure. He starts from
+the hemispheres, and finding their performances apparently guided by feeling concludes, when he comes to
+the spinal cord, that feeling though latent must still be there to make it act
+so rationally. Clearly such arguments as
+these may mutually eat each other up to all eternity.</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">The reason why the
+writers we speak of venture to dogmatise as they do on this subject, seems due
+to a sort of philosophic faith, bred like most faiths from an aesthetic
+demand. Mental and physical events are,
+on all hands, admitted to present the strongest contrast in the entire field of
+being. The chasm which yawns between them is less easily bridged over by the
+mind than any interval we know. Why then
+not call it an absolute chasm? And say not only that the two worlds are
+different, but that they are independent? This gives us the comfort of all
+simple and absolute formulas, and it makes each chain homogeneous to our
+consideration. When talking of nervous tremors and bodily actions, we may feel
+secure against intrusion from an irrelevant mental world. When, on the other
+hand, we speak of feelings, we may with equal consistency use terms always of
+one denomination, and never be annoyed by what Aristotle calls "slipping
+into another kind". The desire on the part of men educated in laboratories
+not to have their physical reasonings mixed up with such incommensurable factors as
+feelings is certainly very strong. Nothing is commoner than to hear them speak
+of conscious events as something so essentially vague and shadowy as even
+doubtfully to exist at all. I have heard
+a most intelligent [p. 3] biologist say: "It is high time for scientific
+men to protest against the recognition of any such thing as consciousness in a
+scientific investigation". In a
+word, feeling constitutes the "unscientific" half of existence, and
+any one who enjoys calling himself a "scientist" will be too happy to
+purchase an untrammeled homogeneity of terms in the
+studies of his predilection, at the slight cost of admitting a dualism which,
+in the same breath that it allows to mind an independent status of being, banishes
+it to a limbo of causal inertness, from whence no intrusion or interruption on
+its part need ever be feared.</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">But Common Sense
+also may have its aesthetic demands, and among them may be a craving for unity.
+The spectacle of an ultimate and inexplicable dualism in the nature of things
+may be as unsatisfying as the obligation to calculate with heterogeneous
+terms. Two "aspects," <i>nemine</i><i> adspiciente, </i>seem
+uncalled for. One may well refuse, until
+absolutely overpowered by the evidence, to believe that the world contains
+items which in no wise influence their neighbours; whose existence or
+non-existence need, so far as the remainder go, be taken into no account. It is a smoother and more harmonious thought
+to imagine all the items of the world without exception as interlocked in bonds
+of action and reaction, and forming a single dynamic whole.</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">And now, who shall
+decide between such rival sthetic needs? <i>A priori </i>to shrink from a
+"chasm" between the objects of one's contemplation is as respectable
+as to dislike heterogeneity in the factors of one's reasoning operations. The truth is, then, that neither sthetic
+motives nor ostensible reasons entitle us to decide between the
+Conscious-Automaton-theory and
+the theory of Common Sense. Both alike
+are conceptions of the possible, and for any one dogmatically to affirm the
+truth of either is, in the present state of our knowledge, an extremely
+unscientific procedure.</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">The question for us
+then is: Can we get light from any facts hitherto ignored in the
+discussion? Since the direct evidence of
+our living feeling is ruled out of court as mendacious, can we find
+circumstantial evidence which will incline the balance either way, and save us
+from the dreary strife of prejudice and prepossession?</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">I think we can, and
+propose in the remainder of this article to show that this presumptive evidence
+wholly favours the efficacity of Consciousness. Consciousness, namely, has been slowly
+evolved in the animal series, and resembles in this all organs that have a
+use. Since the mere supernumerary
+depicted by the Conscious-Automaton-theory would be useless, it follows [p. 4]
+that if we can discover the utility of consciousness we shall overthrow that
+theory.</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">Our problem
+consequently is: Of what use to a nervous system is a superadded consciousness?
+Can a brain which has it function better than a brain without it? And to answer this question, we must know,
+first, the natural defects of the brain, and secondly, the peculiar powers of
+its mental correlate. Since consciousness is presumably at its minimum in
+creatures whose nervous system is simple, and at its maximum in the
+hypertrophied cerebrum of man, the
+natural inference is that, as an <i>organe</i><i> de perfectionnement, </i>it is most needed where the nervous
+system is highly evolved; and the
+form our first question takes is: What
+
+are the defects characteristic of highly evolved nervous centres?</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">If we take the
+actions of lower animals and the actions of lower ganglia in higher animals,
+what strikes us most in them is the determinateness with which they respond to
+a given stimulus. The addition of the
+cerebral hemispheres immediately introduces a certain incalculableness into the
+result, and this incalculableness attains its maximum with the relatively enormous
+brain-convolutions of man. In the
+beheaded frog the legs twitch as fatally when we touch the skin with acid as do
+a jumping-jack's when we pull the string.
+The machinery is as
+narrow and perfect in the one case as in the other. Even if all the centres above the cord except
+the cerebral hemispheres are left in place, the machine-like regularity of the
+animal's response is hardly less striking.
+
+He breathes, he swallows, he crawls, he turns over from his back, he
+moves up or down on his support, he swims and stops at a given moment, he
+croaks, he leaps forward two or three times -- each and all with almost
+unerring regularity at my word of command, provided I only be an experienced physiologist and know what ganglia to
+leave and what particular spur will elicit the action I desire. <span class="GramE">Thus if I merely remove his hemispheres and tilt my hand down, he
+will crawl up it but not jump off. If I pinch him under the arm-pits, he
+will croak once for each pinch; if I throw him into water, he will swim until I
+touch his hands with a stick, when he will immediately stop. Over a frog with an entire brain, the
+physiologist has no such power. The
+signal may be given, but ideas, emotions or caprices will be aroused instead of
+the fatal motor reply, and whether the animal will leap, croak, sink or swim or swell up without moving, is
+impossible to predict. In a man's brain
+the utterly remote and unforeseen courses of action to which a given impression
+on the senses may give rise, is too notorious to need illustration. Whether we notice it at all depends on our
+mental pre-occupations at the moment. If
+we do notice it, our [p. 5] action again depends on the "considerations"
+which it awakens, and these again may depend as much on our transient mood or
+on our latest experience as on any constant tendencies organised in our nature.</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">We may thus lay it
+down as an established fact that the most perfected parts of the brain are
+those whose action are least determinate.
+It is this very vagueness which constitutes their advantage. They allow their possessor to adapt his
+conduct to the minutest alterations in the environing
+circumstances, any one of which may be for him a sign, suggesting distant
+motives more powerful than any present solicitations
+of sense. Now it seems as if certain mechanical conclusions should be
+drawn from this state of things. An
+organ swayed by slight impressions is an organ whose natural state is one of
+unstable equilibrium. We may imagine the various lines of discharge in the
+cerebrum to be almost on a par in point of permeability -- what discharge a
+given small impression will produce may be called accidental, in the sense in
+which we say it is a matter of accident whether a rain-drop falling on a
+mountain ridge descend the eastern or the western slope. It is in this sense that we may call it a
+matter of accident whether a woman's first child be a boy or a girl. The ovum is so unstable a body that certain
+causes too minute for our apprehension may at a certain moment tip it one way
+or the other. The natural law of an organ constituted after this fashion can be
+nothing but a law of caprice. I do not
+see how one could reasonably expect from it any certain pursuance of useful
+lines of reaction such as the few and fatally determined performances of the
+lower centres constitute within
+their narrow sphere. The dilemma in
+regard to the nervous system seems to be of the following kind. We may
+construct one which will react infallibly and certainly, but it will then be
+capable of reacting to very few changes in the environment -- it will fail to
+be adapted to all the rest. We may,
+on the other hand, construct a nervous system potentially adapted to respond to
+an infinite variety of minute features in the situation; but its fallibility
+will then be as great as its elaboration.
+
+We can never be sure that its equilibrium will be upset in the
+appropriate direction. In short, a high
+brain may do many things, and may do each of them at a very slight hint. But its hair-trigger organisation makes of it
+a happy-go-lucky, hit-or-miss affair. It is as likely to do the crazy as the
+sane thing at any given moment. A low brain does few things, and in doing them
+perfectly forfeits all other use. The performances of a high brain are like
+dice thrown for ever on a table. Unless
+they be loaded, what chance is there that the highest number will turn up
+oftener than the lowest? [p. 6]</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">All this is said of
+the brain as a physical machine
+pure and simple. Can consciousness
+increase its efficiency by loading its dice?
+
+Such is our next problem. </p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">But before directly attacking
+it, we must pause a moment to make sure that we clearly apprehend the import of
+such expressions as <i>useful discharge, appropriate direction, right reaction,
+</i>and the like, which we have been using.
+They all presuppose some Good, End or Interest to be the animal's. Until
+this goal of his salvation be posited, we have no criterion by which to
+estimate the utility of any of his reactions. Now the important thing to notice
+is that the goal cannot be posited at all so long as we consider the purely physical
+order of existence. Matter has no
+ideals. It must be entirely indifferent
+to the molecules of C, H, N and O, whether they combine in a live body or a
+dead one. What the present conditions
+fatally necessitate that they do with equal infallibility and cheerfulness;
+whether the result of their action be the perfume of a rose or the odour of
+carrion, the words of a Renouvier or the crackling of
+thorns under a pot, it is brought forth with as little reluctance in the one
+case as in the other. Good involves the
+notion of less good, necessitates comparison, and for a drop of water either to
+compare its present state with an absent state or to compare its total self
+with a drop of wine, would involve a process not commonly thought of as
+physical. Comparison requires a <i>tertium</i><i> quid, </i>a locus -- call it what you
+will -- in which the two outward existences may meet on equal terms. This forum
+is what is known as a consciousness. Even sensations cannot be supposed, simply
+as such, to be aware of their relations to each other. A succession of feelings is not (as James
+Mill reiterates) one and the same thing with a feeling of succession, but a
+wholly different thing. The latter
+feeling requires a self-transcendency of each item,
+so that each not only <i>is </i>in relation, but knows its relation, to the
+other. This self-transcendency of data constitutes
+the conscious form. Where we suppose it
+to exist we have mind; where mind exists we have it. </p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">You may, it is true,
+ascribe mind to a physical process. You may allow that the atom engaged in some
+present energy has a dreamlike consciousness of residual powers and a judgment
+which says, "Those are better than this". You may make the rain-drop flowing downhill
+posit an impossible ascent as its highest good.
+Or you may make the C, H, N and O atoms of my body knowingly to conspire
+in its construction as the best act of which they are capable. But if you do this, you have abandoned the
+sphere of purely physical relations.</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">Thus, then, the words Use, Advantage, Interest, Good,
+find no application in a world in which no consciousness exists. [p. 7] Things
+there are neither good nor bad; they simply are or are not. Ideal truth to exist at all requires that a
+mind also exist which shall deal with it as a judge deals with the law, really
+cresting that which it professes only to declare.</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">But, granting such a
+mind, we must furthermore note that the direction of the verdict as to whether
+A or B be best, is an ultimate, arbitrary expression of feeling, an absolute
+fiat or decree. What feels good <i style="">is</i> good; if not it is only because it
+negates some other good which the same power of feeling stamps as a Better<span class="GramE">.[<a href="#f4">4</a>]</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">Thus much, then, is
+certain, that in venturing to discuss the perfection and uses of the brain at all,
+we assume at the outset the existence of <i>some one's </i>consciousness to
+make the <i>discussion </i>possible by defining some particular good or
+interest as the standard by which the brain's excellence shall be measured.
+Without such measure Bismarck's brain is no better than a suicidal maniac's,
+for the one works as perfectly as the other to its end. Considered as mere existence, a festering
+corpse is as real as a live chancellor, and, for aught physics can say, as
+desirable. Consciousness in declaring
+the superiority of either <span class="GramE">one, simply creates what
+previous to its fiat had no existence. The judge makes the law while announcing
+it: if the judge be a maggot, the suicide's brain will be best; if a king the
+chancellor's.</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">The consciousness of
+Mr. Darwin lays it down as axiomatic that self-preservation or survival is the
+essential or universal good for all living things. The mechanical processes of
+"spontaneous variation" and "natural selection" bring about
+this good by their combined action; but being physical processes they can in no
+sense be said to intend it. It merely
+floats off here and there accidentally as one of a thousand other physical
+results. The followers of Darwin rightly
+scorn those teleologists who claim that the physical process, as such; of evolution
+follows an ideal of perfection. But now
+suppose that not only our Darwinian consciousness, but with even greater energy
+the [p. 8] consciousness of the creature itself, postulates survival as its <i>summum</i><i> bonum, </i>and
+by its cognitive faculty recognises as well as Mr. Darwin which of its actions
+and functions subserves this good; would not the addition of causal efficacy to
+this consciousness enable it to furnish forth the means as well as fix the end --
+make it teleologically a fighter as well as a standard-bearer? Might not, in other words, such a
+consciousness promote or increase by its function of efficacity
+
+the amount of that "usefulness" on the part of the brain which it
+defines and estimates by its other functions?
+To answer such a question, we must analyse somewhat closely the
+peculiarities of the individual consciousness as it phenomenally presents
+itself to our notice.</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">If we use the old
+word category to denote every
+irreducibly peculiar form of synthesis in which phenomena may be combined and
+related, we shall certainly have to erect a category of consciousness, or what
+with Renouvier we may, if we prefer, call a category
+of personality This category might be
+defined as the mode in which data are brought together for <i>comparison with a
+view to choice</i>.[<a href="#f5">5</a>]
+
+Both these points, comparison and choice, will be found alike
+omnipresent in the different stages of its activity. The former has always been
+recognised; the latter less than it deserves.</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">Many have been the
+definitions given by psychologists of the essence of consciousness. One of the most acute and emphatic of all is
+that of Ulrici, who in his <i>Leib</i><i>
+und Seele </i>and elsewhere exactly reverses the
+formula of the reigning British school, by calling consciousness a discriminating
+activity -- an <i>Unterscheidungsvermgen</i>. But
+even Ulrici does not pretend that consciousness
+creates the differences it becomes aware of in its objects. They pre-exist and consciousness only
+discerns them; so that after all Ulrici's definition
+amounts to little more than saying that consciousness is a faculty of cognition
+-- a rather barren result. I think we
+may go farther and add that the powers of cognition, discrimination and
+comparison which it possesses, exist only for the sake of something beyond
+themselves, namely, Selection. Whoever
+studies consciousness, from any point of view whatever, is ultimately brought
+up against the mystery of <i>interest </i>and <i>selective attention. </i>There [p. 9] are a great many things which consciousness <i>is
+
+</i>in a passive and receptive way by its cognitive and registrative
+powers. But there is one thing which it<i style=""> does, su sponte, </i>and which seems an original peculiarity
+of its own; and that is, always to choose out of the manifold experiences
+present to it at a given time some one for particular accentuation, and to
+ignore the the [<i style="">sic</i>]
+rest. And I shall now show how, from its
+simplest to its most complicated forms; it exerts this function with
+unremitting industry.</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">To begin at the
+bottom, even in the infra-conscious region which Mr. Spencer says is the lowest
+stage of mentality. What are our senses themselves but organs of
+selection? Out of the infinite chaos of
+movements, of which physics teaches us that the outer world consists, each
+sense-organ picks out those which fall within certain limits of velocity. To these it responds, but ignores the rest as
+completely as if they did not exist. It
+thus accentuates particular movements in a manner for which objectively there
+seems no valid ground; for, as Lange says, there is no reason whatever to think
+that the gap in nature between the highest sound-waves and the lowest
+heat-waves is an abrupt break like that of our sensations, or that the
+difference between violet and ultra-violet rays has anything like the objective
+importance subjectively represented by that between light and darkness. Out of what is in itself an
+undistinguishable, swarming <i>continuum, </i>devoid of distinction or
+emphasis, our senses make for us, by attending to this motion and ignoring
+that, a world full of contrasts, of sharp accents, of abrupt changes, in a
+word, of picturesque light and shade.</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">If the sensations we
+receive from a given organ have their causes thus picked out for us by the
+conformation of the organ's termination, the attention, on the other hand, out
+of all the sensations yielded, picks out certain ones as worthy of its notice
+and suppresses all the rest; Helmholtz's immortal
+work on <i>Physiological Optics </i>is little more than a study of those visual
+sensations of which common men never become aware -- blind spots, <i>muscae</i><i> volitantes, </i>after-images,
+irradiation, chromatic fringes, marginal changes of colour, double images,
+astigmatism, movements of accommodation and convergence, retinal rivalry, and
+more besides. We do not even know, as Professor William B. Rogers pointed out,
+on which of our eyes an image falls, until trained to notice the local sensation. So habitually over-looked is this by most men that one may be blind for years of a
+single eye and not know it<span class="GramE">.[<a href="#f6">6</a>][p.
+10]</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">Helmholtz says we only use our sensations as <i>signs. </i>The
+sensations from which we avert our attention are those which are valueless as
+tokens of the presence of objective things. These <i>things </i>are called the
+Objects of perception. But what are <i>they? </i>Nothing, as it seems to me,
+but groups of coherent sensations. This
+is no place to criticise Helmholtz's treatment of
+perception, but I may say, in passing that I think his rather indefinite and
+oracular statements about the part played by the intellect therein have
+momentarily contributed to retard psychological
+inquiry. We find the Kantian
+philosophers everywhere hailing him as the great experimental corroborator of
+their master's views. They say he has
+proved the present sensation to have nothing to do with the construction of the
+Object that is an original act of the intellect which the sensation merely
+instigates but does not furnish forth: it contains ultra-sensational
+elements. All that Helmholtz
+
+really <i>does </i>prove is, that the so-called Object is constituted of <i>absent
+</i>sensations. What he has not
+explicitly noticed is, that among these the mind picks out certain particular
+ones to be more essential and characteristic than the rest. When, for example, on getting a peculiar
+retinal sensation with two acute and two obtuse angles, I <i>perceive </i>a
+square table-top, which thus contradicts my present image; what is the <i>squareness</i><i> </i>but one out of an infinite number
+of possible retinal sensations which the same object may yield? From all these the mind, for sthetic
+reasons of its own, has singled out this one and chosen to call it the object's
+essential attribute? Were room here
+given, I think it might be shown that perception involves nothing beyond association and selection. The antithesis is not, as Helmholtz's
+
+admirers would have it, between sensations on the one hand as signs and
+original intellectual products, materially different from [p. 11] sensations on
+the other, as Objects. It is between
+present sensations as signs and certain absent sensations as Objects, these
+latter being moreover arbitrarily selected out of a large number as being more
+objective and real than the rest. The
+real form of the circle is deemed to be the sensation it gives when the line of
+vision is perpendicular to its centre -- all its other sensations are signs of
+this sensation. The real sound of the
+cannon is the sensation it makes when the ear is close by. The real colour of the brick. is the sensation
+it gives when the eye looks
+squarely at it from a near point, out of the sunshine and yet not in the gloom;
+under other circumstances it gives us other colour-sensations which are not
+signs of this -- we then see it
+looks pinker or blacker than it
+really is. The reader knows no object
+which he does not represent to himself by preference as in some typical
+attitude, of some normal size, at some characteristic
+
+distance, of some standard tint, &amp;c., &amp;c. But all these essential characteristics,
+which together form the genuine objectivity of the thing and are contrasted
+with the subjective sensations we may happen to get from it at a given moment, are themselves sensations pure and
+simple, susceptible of being fully
+given at <i>some </i>other moment. The
+spontaneity of the mind does not consist in conjuring up any new
+non-sensational quality of objectivity.
+It consists solely in deciding what the particular sensation shall be whose native objectivity shall be held more valid than that of all
+the rest<span class="GramE">.[<a href="#f7">7</a>]</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">Thus perception
+involves a twofold choice. Out of all present
+sensations, we notice mainly such as are significant of absent ones: and out of
+all the absent associates which these suggest, we again pick: out a very few to
+be the bearers <i>par </i><i style="">excellence</i>
+of objective reality. We could have no more exquisite
+example of the mind's selective industry.</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">That industry goes
+on to deal with the objects thus given in perception. A man's Empirical Thought depends on the
+objects [p. 12] and events he has experienced, but what these shall be is to a
+large extent determined by his habits of attention. An object may be present to him a thousand
+times, but if he persistently fails to notice it, it cannot be said to enter
+into his experience. We are all seeing flies, moths, and 'beetles by the
+thousand, but to whom, save an entomologist,
+do they say anything distinct? On the other hand, an object met only once in a
+life-time may leave an indelible experience in the memory. Let four men make a tour in Europe. One will
+bring home only picturesque impressions-costumes and colours, parks and views
+and works of architecture, pictures and statues. To another all this will be
+non-existent; and distances and prices, populations and drainage-arrangements,
+door- and window-fastenings, and other useful statistics will take their <span class="GramE">place A third will
+give a rich account of the theatres, restaurants, and public balls, and naught beside; whilst the fourth will
+perhaps have been so wrapped in his own subjective broodings as to tell little
+more than a few names of places through which he passed. Each has selected, out
+of the same mass of presented objects, those which suited his private interest
+and has made his experience
+thereby.</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">If, now, leaving the
+empirical combination of objects, we ask how the mind proceeds <i>rationally </i>to
+connect them we find selection again to be omnipotent. In an article on "Brute and Human
+Intellect " in the <i>Journal of Speculative Philosophy, </i>July 1878, p.
+236 I have tried to show that
+all Reasoning depends on the ability of the mind to break up the totality of
+the phenomenon reasoned about into partial factors or elements, and to pick out
+from among these the particular one which, in our given theoretical or
+practical emergency, may lead to the proper conclusion. Another predicament will need another conclusion,
+and require another element to be picked out.
+The man of genius is he who will always stick-in his bill, as it were,
+at the right point, and bring it out with the right element --
+"reason" if the emergency be theoretical, "means" if it be <i>practical-transfixed
+</i>upon it? Association by similarity I have shown to be an important help to
+this breaking-up of represented things into their elements. But this association is only the minimum of
+that same selection of which picking out the right reason is a maximum. I here confine myself to this brief
+statement, but it may suffice to show that Reasoning is but another form of
+that selective activity which appears to be the true sphere of mental
+spontaneity.</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">If now we pass to
+the sthetic activity of the mind, the application of our law is still more
+obvious. The artist notoriously selects
+his items, rejecting all tones, colours, shapes, which do not harmonise with
+each other and with the main purpose of [p. 13] his work. That unity, harmony, "convergence of characters,"
+as M. Taine calls it, which gives to works of art
+their superiority over works of nature, is wholly due to <i>elimination. </i>Any
+natural subject will do, if the artist has wit enough to pounce upon some one
+feature of it as characteristic, and suppress all merely accidental items which
+do not harmonise with this.</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">Ascending still higher we
+reach the plane of Ethics, where choice reigns notoriously supreme. An
+act has no ethical quality whatever unless it be chosen out of several all
+equally possible. To sustain the
+arguments for the good course and keep them ever before us, to stifle longing
+for more flowery ways, to keep the foot unflinchingly on the arduous path,
+these are characteristic ethical energies.
+
+But, more than these; for these but deal with the means of compassing
+interests already felt by the man to be supreme. The ethical energy <i>par excellence </i>has to go farther and choose which
+interest out of several equally coercive shall become supreme. The issue here is of the utmost
+pregnancy, for it decides a man's entire career. When he debates, Shall I
+commit this crime? choose that profession? accept that office, or marry this
+fortune? -- his choice really
+lies between one of several equally possible future <i>Selves. </i>What his entire empirical <i>Ego </i>shall
+become, is fixed by the conduct of this moment.
+Schopenhauer, who enforces his determinism by the argument that with a
+given fixed character only one reaction is possible under given circumstances,
+forgets that, in these critical ethical moments, what consciously <i>seems </i>to
+be in question is the very complexion of the character. The problem with the man is less what act he
+shall now choose to do, than what kind of a being he shall now resolve to become.</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">Looking back then
+over this review we see that the mind is at every stage a theatre of
+simultaneous possibilities.
+Consciousness consists in the comparison of these with each other, the
+selection of some, and the suppression of the rest by the reinforcing and inhibiting
+agency of attention. The highest and
+most elaborated mental products are filtered from the data chosen by the
+faculty next beneath out of the mass offered by the faculty below that, which
+mass in turn was sifted from a still larger amount of yet simpler material, and
+so on. The highest distillate thus <i>represents
+</i>in the last analysis nothing but sensational elements. But this is far from
+meaning that it implies nothing but passive faculty of sensation. As well
+might one say that the sculptor is passive, because the statue stood from eternity
+within the stone. So it did, but with a
+million different ones beside it. The
+world as a Goethe feels and knows it all lay embedded in the primordial chaos
+of sensations, [p. 14] and into these elements we may analyse back every
+thought of the poet. We may even, by our
+
+reasonings, unwind things back to that black and jointless continuity of space and moving clouds of swarming
+atoms which science calls the only real world.
+But all the while the world we feel and live in, will be that which our
+ancestors and we, by slowly cumulative strokes of choice, have extricated out
+of this, as the sculptor extracts his statue by simply rejecting the other
+portions of the stone. Other sculptors,
+other statues from the same stone! Other minds, other worlds from the same
+chaos! Goethe's world is but one in a
+million alike embedded, alike real to those who may abstract them. Some such
+other worlds may exist in the consciousness of ant, crab and cuttle-fish.</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;"><o:p>&nbsp;</o:p></p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">After this perhaps
+too long analysis let us now look back. We have found that the unaided action
+of the cerebral hemispheres would probably be random and capricious; that the nerve-process
+likely to lead to the animal's interests would not necessarily predominate at a
+given moment. On the other hand, we have found that an impartial consciousness
+is a non-entity, and that of the many items that ever occupy our mental stage
+Feeling always selects one as most congruous with the interests it has taken
+its stand upon. Collating these two
+results, an inference is unavoidable. The "items" on the mental stage
+are the subjective aspects of as many nerve-processes, and in emphasising the representations
+congruous with conscious interest and discouraging all others, may not
+Attention actually reinforce and inhibit the nerve-processes to which the
+representations severally correspond?</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">This of course is
+but a hypothetical statement of the verdict of direct personal feeling -- a
+verdict declared mendacious by Professor Clifford. But the intricate analysis by which it has been
+reached gives it great plausibility. I
+shall strengthen the probability by further facts in a moment. But I beg the reader to notice here the
+limitations of the power of Feeling, if power there be. All the possibilities of representation, all
+the images are furnished by the brain.
+
+Consciousness produces nothing, it only alters the proportions. Even the miraculous action of free will can
+only consist in the quantitative reinforcement of representations already given
+qualitatively. A sonorous plate has no
+proper note of its own. It is most
+impossible by scraping it to reproduce twice an identical tone. The number of Chladni's
+sand-figures it will furnish is as inexhaustible as the whimsies which may turn
+up in a brain. But as the physicist's
+finger pressing the plate here or there determines nodal points that throw the
+sand into shapes of relative fixity, [p.
+15] so may the accentuating finger of consciousness deal with the fluctuating
+eddies in the cerebral cortex.</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">That these eddies
+are stirred by causes that have no connection with either dominant interests or
+present impressions seems manifest from the phenomena of dreaming. The chaotic imagery there appears due to the
+unequal stimulus of nutrition in different localities. But if an accidental variation in nutrition
+is sufficient to determine the brain's action, what safeguard have we at any time against its random
+influence? It may of course be reasonably objected that the exceptional state
+of sleep can afford no proper clue to the brain's operations when awake. But Maury in his
+classic work, <i>Le Sommeil, </i>has conclusively
+proved the passage of dreams through "hypnagogic
+
+hallucinations" into that meteoric shower of images and suggestions,
+irrelevant to the main line of thought, the continual presence of which every
+one who has once had his <i>interest awakened </i>in the subject, will without
+difficulty recognise in himself.
+Ordinarily these perish in being born, but if one by chance saunters into the mind, which <i>is
+</i>related to the dominant pursuit of the moment, presto! it is pounced upon
+and becomes part of the empirical <i>Ego.
+</i>The greatest inventions, the most brilliant thoughts often turn up
+thus accidentally, but may mould for all that the future of the man. Would they
+have gained this prominence above their peers without the watchful eye of
+consciousness to recognise their value and emphasise them into permanence?</p>
+
+<p class="MsoNormal" style="margin-left: 2in; text-indent: 0.5in;"><o:p>&nbsp;</o:p></p>
+
+<p class="MsoNormal" style="margin-left: 2in; text-indent: 0.5in;">Nur allein der <i>Mensch</i></p>
+
+<p class="MsoNormal" style="margin-left: 2in; text-indent: 0.5in;">Vermag das Unmgliche.</p>
+
+<p class="MsoNormal" style="margin-left: 2in; text-indent: 0.5in;">Er unterscheidet, whlet und richtet,</p>
+
+<p class="MsoNormal" style="margin-left: 2in; text-indent: 0.5in;">Er kann dem augenblick</p>
+
+<p class="MsoNormal" style="margin-left: 2in; text-indent: 0.5in;">Dauer verleihen<span class="GramE">.[<a href="#fstar">*</a>]</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;"><o:p>&nbsp;</o:p></p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">The hypothesis we
+are advocating might, if confirmed, considerably mitigate one of the strongest
+objections to the credibility of the Darwinian theory. A consciousness which should not only
+determine its brain to prosperous courses, but also by virtue of that
+hereditary influence of habit (nowadays
+so generally believed in by naturalists) should organise from generation to
+generation a nervous system more and more mechanically incapable of wandering
+from the lines of interest chosen for it at first, would immensely shorten the
+time and labour of natural selection.
+Mr. Darwin regards animated nature as a sort of table on which dice are
+continually being thrown. No intention presides over the throwing, but lucky
+numbers from time to time fortuitously turn up and are preserved. If the
+ideas we have advanced concerning the instability of a complicated cerebrum be
+true, we should have a sort of extension of this reign of accident into the
+functional life of [p. 16] every individual animal whose brain had become
+sufficiently evolved. As his body
+morphologically was the result of lucky chance, so each of his so-called acts
+of intelligence would be another; and ages might elapse before out of this
+enormous lottery-game a brain should emerge both complex and secure. But give
+to consciousness the power of exerting a constant pressure in the direction of
+survival, and give to the organism the power of growing to the modes in which
+consciousness has trained it, and the number of stray shots is immensely
+reduced, and the time proportionally shortened for Evolution. It is, in fact,
+hard to see how without an effective superintending ideal the evolution of so
+unstable an organ as the mammalian cerebrum can have proceeded at all.</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">That consciousness should
+only be intense when nerve-processes are retarded or hesitant, and at its
+minimum when nerve-action is rapid or certain, adds colour to the view that it
+is efficacious. Rapid, automatic action
+is action through thoroughly excavated nerve-tracks which have not the defect
+of uncertain performance. All instincts
+and confirmed habits are of this sort. But when action is hesitant there always
+seem several alternative possibilities of nervous discharge. The feeling awakened lay the nascent
+excitement of each nerve-track seems by its attractive or repulsive quality to
+determine whether the excitement shall abort or shall become complete. <span class="GramE">Where indecision is great, as before a dangerous leap,
+consciousness is agonisingly intense.
+Feeling, from this point of view, may be likened to a cross-section of
+the chain of nervous discharge, ascertaining the links already laid down, and
+groping among the fresh ends presented to it for the one which seems best to
+fit the case.</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">The remarkable
+phenomena of "vicarious function"
+in the nervous centres form another link in our chain of circumstantial
+evidence. A machine in working order
+functions fatally in one way. Our
+consciousness calls this the right way. Take out a valve, throw a wheel out of
+gear or bend a pivot, and it becomes a different machine, functioning just as
+fatally in another way which we call the wrong way. But the machine itself
+knows nothing of wrong or right: matter has no ideals to pursue. A locomotive will carry its train through an
+open drawbridge as cheerfully as to any other destination.</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">A brain with part of
+it scooped out is virtually a new machine, and during the first days after the
+operation functions in a thoroughly abnormal manner. Why, if its performances
+blindly result from its structure, undirected by any feeling of purpose, should
+it not blindly continue now to throw off inappropriate acts just as before its
+mutilation it produced appropriate ones? As a matter of fact, however, its
+performances become from day [p. 17] to day more normal, until at last a
+practised eye may be needed to suspect anything wrong. If we suppose the
+presence of <i>a </i>mind, not only taking cognisance of each functional error,
+but able to exert an efficient pressure to inhibit it if it be a sin of
+commission, to lend a strengthening-hand if the nerve-defect be a weakness or
+sin of omission,-- nothing seems more natural than that the remaining parts of
+the brain, assisted in this
+way, should by virtue of the principle of habit grow back to the old
+teleological modes of exercise for which they were at first incapacitated. Nothing, on the contrary, seems at first
+sight more unnatural than that they should vicariously take up the duties of a
+part now lost without those <i>duties as such </i>exerting any persuasive or coercive
+force<span class="GramE">.[<a href="#f8">8</a>]</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">There is yet another
+set of facts which seem explicable by the supposition that consciousness has
+causal efficacity. It has long been noticed that
+pleasures are generally associated with
+beneficial, pains with detrimental, experiences. All the fundamental vital processes
+illustrate this law. Starvation, suffocation, privation of food, drink and sleep, work when exhausted, burns,
+wounds, inflammation, the effects of poison, are as disagreeable as filling the
+hungry stomach, enjoying rest and sleep after fatigue, exercise after rest, and
+a sound skin and unbroken bones at all times, are pleasant. Mr. Spencer, in the
+chapter of his <i>Psychology </i>entitled "Pleasures and Pains," has suggested that these
+coincidences are due, not to any pre-established harmony, but to the mere
+action of natural selection which would certainly kill off in the long run any
+breed of creatures to whom the <i>fundamentally </i>noxious experience seemed
+enjoyable. An animal that should take
+pleasure in a suffocation would, if that pleasure were efficacious make him
+immerse his head in water, enjoy a longevity of four or five minutes. But if pleasures and pains have no efficacity, one does not see (without some such <i></i><span style="font-size: 11pt;">[<i>sic</i>]<i> priori </i>rational harmony as would be scouted by the "scientific"
+champions of the Automaton-theory) why
+the most noxious acts, such as burning, might not give a thrill of delight, and
+the most necessary ones, such as breathing, cause agony.[<a href="#f9">9</a>] The exceptions to this law [p. 18] are, it is
+true, numerous, but relate to experiences that are either not vital or not
+universal. Drunkenness, for instance,
+which though noxious is to many persons delightful, is a very exceptional
+experience. But, as the excellent physiologist
+
+Fick remarks, if all rivers and springs ran
+alcohol-instead of water, either all men would hate it or our nerves would have
+been selected so as to drink it with impunity.
+The only very considerable attempt, in fact, that has ever been made to
+explain the <i>distribution </i>of our feelings is that of Mr. Grant Allen in
+his suggestive little work <i>Physiological sthetics; </i>and his reasoning is
+based exclusively on that causal efficacity of
+pleasures and pains which the "double-aspect" partisans so strenuously
+deny.</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">Thus, then, from
+every point of view the circumstantial
+evidence against that theory is very strong. <i>A </i><i style="">priori
+
+</i>analysis of both brain and conscious action shows us that if the latter
+were efficacious it would, by its selective emphasis, make amends for the
+indeterminateness of the former; whilst the study it <i style=""></i>[<i style="">sic</i>] <i>posteriori</i><i> </i>of the <i>distribution
+</i>of consciousness shows it to be exactly such as we might expect in an organ
+added for the sake of steering a nervous system grown too complex to regulate itself.
+The conclusion that it is useful is, after all this, more than
+justifiable. But, if it <i>is </i>useful,
+it must be so through its efficaciousness, and the Conscious-Automaton-theory must succumb to the theory of Common
+Sense. </p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">Our discussion might
+fairly stop here save for the possible difficulty some readers may have in
+appreciating the full utility of having certain nervous possibilities
+emphasised above the rest. The measure
+of all utility is, as we have seen, some standard posited by Desire. The standard of survival or self-preservation
+is most potent. But there exist a host
+of other standards, aesthetic and moral, imperative so long as they do not
+conflict with this one and sometimes imperative over this one. In the preliminary selection by the senses of
+certain objective orders of movement, it is difficult to see what standard [p.
+19] is subserved. The utility of not
+having a sense for magnetism when we have one for heat, is not obvious. We may
+at most suspect a possible sthetic brightness and clearness to result, from
+the wide intervals. But passing by this obscure region we see without the least difficulty why
+we ignore those ingredients of sensation which are not signs of things. What
+the peculiarity is in itself which makes Smith's voice so different from Brown's,we need never inquire so long as whenever we hear
+it we say, "There is
+Smith". For our practical interest in recognising whom we have to deal
+with outweighs our interest in the shades of sound <i>per se</i>. The selection
+again of certain attitudes, expressions, &amp;c., in Smith, to stand as
+characteristic of him so that when others are present we say, "He does not
+look like himself," and if he is sitting to us for his portrait we spend
+an hour perhaps in placing him and lighting him so as to bring out with the
+utmost clearness these selected traits -- this selection, I say, is equally explicable by various
+sthetic standards, permanency simplicity, harmony, clearness, and the
+like. Passing now from traits to <i>things,
+
+</i>the utility of selection is obviously created and measured by the interests
+the man has made his own. If Edward never walks out without finding a
+four-leafed clover, while Oliver dies of old age without having seen one, this
+is merely due to the fact that Edward has somehow been led to stake his
+happiness on that particular branch of discovery, and out of a visual field identical
+with that of Oliver has picked the details that minister to this somewhat
+arbitrary interest. Granted the
+interest, we cannot deny the use of the picking-out power. That Edward, having this interest in common
+with many others, should finally succeed in emphasising certain of those others
+and suppressing this, would be an example of the utility of selection in the
+ethical field, supposing always that the new interest chosen were of a higher
+order and not, like making puns, for example, as trivial an end as the one
+forsaken.</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">In the ethical field
+the importance of choosing one's paramount interest is universally recognised.
+But it is not so
+commonly known how, when the
+interest is once fixed upon,
+the selective activity must ceaselessly work to detect its presence or absence
+in each emergency that turns up. Take,
+for example, an inebriate struggling with temptation. The glass is before him, and the act of drinking
+has an infinity of aspects and may be defined in as many ways. If he selected the aspect of its helping him
+to write an article, of its being only lager-beer, of its being the fourth of
+July, of his needing it as medicine, of his
+never having formally signed the pledge of this particular drink
+"not counting," or else of its giving him the strength to make a much
+more powerful resolution for the future than any of his [p. 20] previous ones, or whatever other sophistries his
+appetite may instigate, he does
+but accentuate some character really contained in the act, but needing this
+emphasising pressure of his attention to be erected into its essence. But if, out of all the teeming suggestions
+with which the liquor before him inspires his brain, respectively saying,
+"It is a case of this good, of that interest, of yonder end," his
+mind pounces on one which repeats, "<i style="">It
+
+is essentially a case of
+drunkenness!" </i>and never lets that go, his stroke of
+classification becomes his deed of virtue.
+The power of choosing the light name for the case is the true moral
+energy involved, and all who posit moral ends must agree in the supreme utility
+of, at least, this kind of selective attention.</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">But this is only one
+instance of that substitution for the entire phenomenon of one of its partial
+aspects which is the essence of all reasoned thought as distinguished from mere
+habitual association. The
+utility of reasoned thought is too enormous to need demonstration. A reasoning animal
+can reach its ends by paths on which the light of previous experience has never
+shone. One who, on the contrary, cannot
+break up the total phenomenon and select its essential character must wait till
+luck has already brought it into conjunction with his End before he can guess
+that any connexion obtains between the two.
+All this is elaborated in the article "On Brute and Human
+Intellect" to which I have ventured to refer the reader. In that article (p. 274) I stated that I had found it
+impossible to symbolise by any mechanical or chemical peculiarity that tendency
+of the human brain to focalise its activity on small points which seems to
+constitute the essence of its reasoning power.
+But if such focalisation be really due not so much to structural
+peculiarity as to the emphasising power of an efficacious consciousness
+superadded, the case need no longer perplex us.</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">Of course the
+materialist may still say that the emphasised attention obeys the strongest
+vibration and does not cause it, that we will what we do, not do what we will,
+-- that, in short, interest is passive and at best a <i>sign </i>of strength of
+nerve-disturbance. But he is immediately confronted by the
+notorious fact that the strongest tendencies to automatic activity in the
+nerves often run most counter to the selective pressure of consciousness. Every day
+of our lives we struggle to escape some tedious tune or odious thought
+which the momentary disposition
+of the brain keeps forcing upon us. And,
+to take more extreme cases, there are murderous tendencies to nervous discharge
+which, so far from involving by their intensity the assent of the will, case
+their subjects voluntarily to repair to asylums to escape their dreaded
+tyranny. In all these cases of <i>voluntas</i><i> paradoxa </i>or
+
+<i>invila</i><i>, </i>the individual selects out of
+the two possible selves [p. 21] yielded by his cerebral powers one as the true <i>Ego;
+</i>the other he regards as an enemy until at last the brain-storm becomes too
+strong for the helmsman's power. But
+even in the depths of mania or of drunkenness the conscious man can steady
+himself and be rational for an instant if a sufficient motive be brought to
+bear. He is not dead, but sleepeth.</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;"><o:p>&nbsp;</o:p></p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">I should be the last
+to assert that the Common-Sense-theory leaves no difficulties for
+solution. I feel even more strongly than
+Professors Huxley and Clifford that the only <i>rational nexus </i>is that of
+identity, and that feeling and nerve-tremor are disparate. I feel too that those who smile at the idea
+of calling consciousness an "organ," on a par with other organs, may
+be moved by a fundamentally right instinct. And I moreover feel that that
+unstable equilibrium of the cerebrum which forms the pivot of the argument just
+finished may, with better knowledge, be found perfectly compatible with an
+average appropriateness of its actions taken in the long run. But with all these concessions made, I still
+believe the Common-Sense-theory to merit our present credence. Fragmentary probabilities supported by the
+study of details are more worthy of trust than any mere universal conceptions,
+however tempting their simplicity. Science has won all her credit by the former
+kind of reasoning, Metaphysics has lost hers by the latter. The impossibility of motion, of knowledge,
+either subjective or objective, are proved by arguments as good as that which
+denies causality to feeling, because of its disparity with its effects. It is
+
+really monstrous to see the <i>prestige </i>of "Science"
+invoked for a materialistic conclusion, reached by methods which, were they
+only used for spiritualistic ends, would be booted at as antiscientific in the
+extreme. Our argument, poor as it is,
+has kept at any rate upon the
+plane of concrete facts. Its circumstantial
+evidence can hardly be upset until the Automaton-theorists shall have
+condescended to make or invoke some new discoveries of detail which shall
+oblige us to reinterpret the facts we already know. But in that case I feel
+intimately persuaded that the reinterpretation will be so wide as to transform
+the Automaton-theory as thoroughly as the popular one. The Automaton-theory in its present state
+contents itself with a purely negative deliverance. There is a chasm, it says, between feeling
+and act. Consciousness is impotent. It exists, to be sure, but all those <i>manners
+
+</i>of existence which make it seem relevant to our outward life are mere meaningless coincidences,
+inexplicable parts of the general and intimate irrationality of this disjointed
+world. What little continuity and reason
+there seems to be, it says, lies wholly in the field of molecular physics. [p.
+22] </p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">Thither Science may
+retreat and hump her strong back against the mockeries and phantasms that
+people the waste of Being around. Now the essence of the Common-Sense-theory, I
+take it, is to negate these negations.
+It obstinately refuses to believe Consciousness irrelevant or
+unimportant to the rest. It is there for
+a purpose, it has a meaning But as all
+meaning, relevancy and purpose are symbolised to our present intelligence in
+terms of action and reaction and causal efficacy, Common Sense expresses its
+belief in the worth of Feeling by refusing to conceive of it out of these
+relations. When a philosophy comes
+which, by new facts or conceptions, shall show how particular feelings may be
+destitute of causal efficacy without the genus Feeling as a whole becoming the
+sort of <i>ignis</i><i> fatuus
+
+</i>and outcast which it seems to be to-day to so many "scientists"
+(loathly word!), we may hail Professors Huxley and Clifford as true prophets.
+Until then, I hold that we are incurring the slighter error by still
+regarding our conscious selves as actively combating each for his interests in
+the arena and not as impotently paralytic spectators of the game.</p>
+
+<p class="MsoNormal" style="text-align: right;" align="right">Wm. James.</p>
+
+<div class="MsoNormal" style="text-align: center;" align="center"><span lang="EN-US">
+
+<hr align="center" size="2" width="100%">
+
+</div>
+
+<p class="MsoNormal" style="text-align: center;" align="center"><b style=""><span lang="EN-US">Footnotes</b></p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;"><a name="f1"></a>[1] <i>Fortnightly
+Review, </i>Vol. XVL, p. 555.</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;"><a name="f2"></a>[2] <i>Ibid., </i>p. 714.</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;"><a name="f3"></a>[3]
+Vol. 1., pp. 416 .ff.</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;"><a name="f4"></a>[4] I
+have treated this matter of teleology being an exclusively conscious function
+more at length in an article on "Spencer's Definition of Mind" (<i>Journal of Speculative Philosophy</i>,
+Jan., 1878), to which I take the liberty of referring the reader. The fact that each consciousness simply <i>stakes</i> its ends and challenges
+the world thereby is most conspicuous in the ease of what is called Self-love.
+There the end staked by each mind is peculiar to itself, whilst in respect of
+other ends many minds may unite
+in a common position. But m their psychological essence these impersonal ends
+in no wise differ from self-interest.
+
+Abolish the minds to whom they seem good and they have no status; any
+more than the categorical imperative that perish who <span class="GramE">may John
+Smith must wax fat and prosper, has a <i>ratio existendi</i> after Smith's peculiar lusts have
+been annihilated.</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;"><a name="f5"></a>[5]
+Neither 'association' nor 'dissociation' is synthesis of a peculiar kind; they
+are mere generic modes, and are wholly unfit to serve as <i>differentiae </i>of
+psychical phenomena in any general philosophical classification. Comparison and choice, on the contrary, are
+each <i>sui</i><i> generis.
+
+</i>Let it not be said that a magnet compares the different filings in a
+machine-shop to choose the iron filings from the heap. There is no proof that the <i>brass</i> filings appeal to it at an. In comparison, both terms equally appeal
+to consciousness.</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;"><a name="f6"></a>[6]
+If one cared to indulge in <i style=""></i>[<i style="">sic</i>]<i style=""> priori</i> constructions <i></i>[sic]<i>
+
+la </i>Spencer one might easily show how the differentiation of sense-organs
+arose in the primitive polyp through this reinforcement by' a selective
+attention (supposed efficacious) of particular portions of the feeling yielded
+by an organ already nascent. The
+integument of the animal might, for instance, at first be affected both by
+light-vibrations and by those far below them. But if the former were picked out
+by the consciousness as most interesting, the nervous movements world soon grow
+more and more harmonious with them, and
+more and more out of tune with the rest. An<i> </i>optic nerve and retina would
+thus result. One might corroborate this
+reasoning by pointing to what happens in cases of squint. The squinting eye gives double images which
+are so inconvenient that the mind is forced to abstract its attention from
+them. This resolute refusal to attend to
+the sensations of one eye soon makes it totally blind. It would seem, indeed,
+that the attention positively suppressed the function of the retina, for the
+presence of cataract which keeps the image from It altogether, results in no
+such paralysis. I do not insist on this
+point, partly because such speculation is rather cheap -- "all may raise
+the flowers now, for all have got the seed" -- and partly because there
+seems some reason to doubt whether the usually received explanation of strabismic blindness be correct.</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;"><a name="f7"></a>[7] When I say Objects are wholly formed of associated and selected sensations, I hope the reader will not understand me to profess adhesion to
+the old atomic doctrine of association, so thoroughly riddled of late by
+Professor Green. The association of
+sensations of which I speak,
+presupposes comparison and memory which are functions not given in any one
+sensation. All I mean is, that these mental functions
+are already at work in the first beginnings of sensation and that the simplest
+changes of sensation moreover involve consciousness of all the categories --
+time, space, number, objectivity,causality. There is not first a passive act of sensation
+proper, followed by an active production or projection ("inference")
+of the attributes of objectivity by the mind.
+
+These all come to us together with the sensible qualities, and their
+progress from vagueness to distinctness is the only process psychologists have
+to explain. What I mean to say in the text is, that this process involves nothing
+but association and selection, all new production of either material or formal
+elements being denied.</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;"><a name="fstar"></a>[*]
+<i style="">Classics</i> Editor's note:</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">Only man [the human]
+is able to accomplish the impossible.</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">He distinguishes,
+chooses, and judges,</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">And he can give
+permanence to the moment.</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;">(Translation
+courtesy of Thomas Teo, York University)</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;"><a name="f8"></a>[8]
+This argument, though so striking at first eight, is perhaps one which it would
+he dangerous to urge too dogmatically. It may be that restitution of cerebral
+function is susceptible of explanation on drainage-principles, or, to use Stricker's phrase, by "collateral innervation".
+As I am preparing a separate essay on this subject, I will say no more about
+the matter here.</p>
+
+<p class="MsoNormal" style="text-indent: 0.5in;"><a name="f9"></a>[9] I
+do not overlook an obvious objection suggested by such an operation as
+breathing. It, like other motor
+processes, results from a tendency to nervous discharge. When this takes place
+immediately, hardly any feeling but the rather negative one of ease results.
+When, however, a nervous discharge is checked it is a universal law that consciousness of a disagreeable kind
+is awakened, reaching in the case of suffocation the extremity of agony. An
+Automatist may then say that feeling here, so far from playing a dynamic part, is a mere passive index or symptom of
+certain mechanical happenings; and if here, then elsewhere. It may be replied
+that even were this true of completely habitual acts like breathing where the
+nervous paths have been thoroughly organised for generations, it need not be
+true of hesitant acts not yet habitual; it need not be true of pains and
+pleasures, such as hunger and sleep, <i>not </i>connected with motor discharge;
+and even in the instance chosen it leaves out the possibility that the nervous
+mechanism, now automatically perfect, may have become so by slowly organised
+habit acquired under the guidance of conscious feeling.
+<div id="skyFooter1508" class="skyFooter">
+
+<script type="text/javascript" language="javascript">
+document.onclick = fDocumentOnClick;
+document.ondblclick = fDocumentOnDblClick;
+document.onkeypress = fDocumentOnKeyPress;
+document.onmouseover = fSkyWritableOver;
+</script>
+<div class="skyFooterText">
+</div>
+
+</div>
+
+		<!-- 
+		     server side readerlevel control links
+		     <a id="reader_level_0_link" href="?ReaderLevel=0">0</a> | <a id="reader_level_1_link" href="?ReaderLevel=1">1</a> | <a id="reader_level_2_link" href="?ReaderLevel=2">2</a>
+		     -->
+		<!-- client side readerlevel control links -->
+		<a id="reader_level_0_link" href="" onclick="fSetReaderLevel(0); return false;">Normal</a> | <a id="reader_level_1_link" href="" onclick="fSetReaderLevel(1); return false;">Teacher</a> | <a id="reader_level_2_link" href="" onclick="fSetReaderLevel(2); return false;">Scholar</a>
+	      </div>
+	    </div>
+	    <!-- end column23 -->
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    
+            
+    
+    <!-- stop index links -->
+    <div style="clear:both"></div>
+    <!-- suppresses blue main-menu background repeating down the whole page in mozilla -->
+    </div>
+    <!-- end content-wrapper -->
+    <!-- 
+    when serializing the footer, pull everything above this line out into the includer so that the skyInclude div won't get crossed with content-wrapper
+    dtd 
+    -->
+    
+    <div id="footer">
+    <a href="http://www.informationphilosopher.com/introduction/contact.html">Contact Us</a><a href="http://www.informationphilosopher.com/site/map/">Site Map</a>  <a href="http://www.skybuilders.com">Powered by skyBuilders <img class="cc" src="/images/nanoSky.gif" alt="skyBuilders.com" border="0"></a> <a rel="license" href="http://creativecommons.org/licenses/by/3.0"  title="Creative Commons Attribution License">Creative Commons Attribution License <img class="cc" alt="Creative Commons Attribution License" src="/images/CC.png" border="0"></a>
+    </div>
+
+    </body>
+</html>

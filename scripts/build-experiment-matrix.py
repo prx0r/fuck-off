@@ -99,6 +99,7 @@ MATRIX = {
   "validate-self-healing.py": ("L09", "agent delivery", "Verified Epistemic OS", "self-healing", "Self-healing orchestration: typed repair cascade (retry/re-plan/degrade/abort+review) — 8/8"),
   "validate-skill-graph.py": ("L05", "33 kernels as skills", "Verified Epistemic OS", "skill-graph", "Audited skill-graph self-improvement: promote only on verifiable reward — 8/8"),
   "validate-structure-recall.py": ("L10", "real graph", "Verified Epistemic OS", "structure-recall", "SAGE structure-aware recall: follow graph topology on the read plane — 9/9"),
+  "validate-ingestion-organism.py": ("ALL", "sivaqueue-style Sanskrit targets", "Verified Epistemic OS", "ingestion-organism", "the autonomous priority-driven refinery: ingest→refine→verify→commit→re-prioritize on learner feedback — 10/10"),
 }
 
 def main():

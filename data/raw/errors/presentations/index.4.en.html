@@ -1,0 +1,755 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html> 
+ <head>
+<meta name="generator" content="skyBuilders.com timeLines">
+<link rel="stylesheet" href="https://www.informationphilosopher.com/timelines/PageFooter.css"><script type="text/javascript" language="javascript"><!-- 
+if (typeof SymRealWinOpen == 'function') {
+window.open = SymRealWinOpen;
+}
+//--></script>
+
+<script type="text/javascript" language="javascript">
+var sPageSeriesName = "index.html";
+var sRequestedFileName = "index.4.en.html";
+var sSkyPageID = "4002";
+function mSkyWrite() {
+window.open('/timelines/index.html?skyWrite=True&UserID=3&chosenLocaleCode=en&PageSeriesID=2295&PageID=4002&DirPath=%2Fpresentations%2FEvo_Devo_CCS%2F', '_blank', 'resizable,menubar,location,toolbar,scrollbars,status,height=600,width=832,left=250,top=50', true);
+}
+var sCurrentlyOverDocument = 1;
+
+function fGetPagePos(oElement, sDimension) {
+  var sPagePos;
+  
+  if (! (oElement = document.getElementById(oElement))) {
+    return 0;
+  }
+  
+  sPagePos = 0;
+  
+  // alert(oElement);
+  while (oElement) {
+    if (typeof(oElement['offset' + sDimension]) != 'undefined') {
+      sPagePos += oElement['offset' + sDimension];
+    }
+    // alert(typeof oElement.offsetParent);
+    if (typeof(oElement.offsetParent) != 'undefined') {
+      oElement = oElement.offsetParent;
+    } else {
+      oElement = null;
+    }
+  }
+  
+  return sPagePos;
+}
+
+function fSkyWritableOver(sDivID, oEvent) {
+  var oDiv;
+  
+  if (oEvent) {
+    sElement = (oEvent.target) ? oEvent.target : oEvent.srcElement;
+    if ((sElement.id == 'skyIncludeEditablePencilImg') || (sElement.id == 'skyIncludeEditableCornerImg')){
+      window.status = 'click to edit';
+    }
+  }
+  
+  // alert(typeof sDivID);
+  if (typeof sDivID == 'string') {
+    sCurrentlyOverDocument = 0;
+    oDiv = document.getElementById(sDivID);
+    oPencil = document.getElementById('skyIncludeEditablePencil');
+    oCorner = document.getElementById('skyIncludeEditableCorner');
+    // sDivTop = oDiv.offsetTop;
+    sDivTop = fGetPagePos(sDivID, 'Top');
+    sDivLeft = fGetPagePos(sDivID, 'Left');
+    sDivWidth = oDiv.offsetWidth;
+    sDivHeight = oDiv.offsetHeight;
+    // alert('div: ' + sDivTop);
+    // alert(sDivWidth);
+    
+    oPencil.style.top = sDivTop + 'px';
+    oPencil.style.left = (sDivLeft + sDivWidth - 21) + 'px';
+    oCorner.style.top = (sDivTop + sDivHeight - 11) + 'px';
+    oCorner.style.left = sDivLeft + 'px';
+    // oSkyIncludeEditable.style.height = '0px';
+    // oSkyIncludeEditable.style.border = '#0000ff dashed 1px';
+    oPencil.style.width = '21px';
+    oPencil.style.height = '19px';
+    oPencil.style.zIndex = '101';
+    oPencil.onmouseover = oDiv.onmouseover;
+    oPencil.onmouseout = oDiv.onmouseout;
+    oPencil.onclick = oDiv.onclick;
+    oCorner.style.width = '10px';
+    oCorner.style.height = '9px';
+    oCorner.style.zIndex = '101';
+    oCorner.onmouseover = oDiv.onmouseover;
+    oCorner.onmouseout = oDiv.onmouseout;
+    oCorner.onclick = oDiv.onclick;
+    // oSkyIncludeEditable.style.display = 'block';
+    
+    // sSkyIncludeEditableTop = oSkyIncludeEditable.style.top;
+    // alert('skyinclude: ' + sSkyIncludeEditableTop);
+    
+    if (0) {
+      oDiv.style.borderWidth = '1px';
+      oDiv.style.borderStyle = 'dashed';
+      oDiv.style.borderColor = '#0000ff';
+    }
+  } else {
+    // sCurrentlyOverDocument = 1;
+  }
+}
+
+function fSkyWritableOut(sDivID) {
+  var oDiv;
+  
+  window.status = '';
+  
+  if (typeof sDivID == 'string') {
+    sCurrentlyOverDocument = 1;
+    // oDiv = document.getElementById(sDivID);
+    // doesn't work in IE: oDiv.style.border = '1px solid transparent';
+    // document.getElementById('skyIncludeEditable').style.display = 'none';
+    document.getElementById('skyIncludeEditablePencil').style.zIndex = '-1';
+    document.getElementById('skyIncludeEditablePencil').style.top = '-100';
+    document.getElementById('skyIncludeEditableCorner').style.zIndex = '-1';
+    document.getElementById('skyIncludeEditableCorner').style.top = '-100';
+    // oDiv.style.border = '1px solid #ffffff';
+  }
+}
+
+function fDocumentOnClick(oEvent) {
+  // alert(sCurrentlyOverDocument);
+  // if (0) {
+  if (sCurrentlyOverDocument == 1) {
+    fSkyWriteInclude(2295, 4002, '/presentations/Evo_Devo_CCS/', oEvent);
+  }
+}
+
+function fAsOfNow() {
+  document.cookie = 'as_of=; path=/; domain=informationphilosopher.com';
+  document.location.href = '?@=now';
+}
+
+function fSubmitAsOfForm() {
+  oYearInput = document.getElementById('as_of_year');
+  oMonthInput = document.getElementById('as_of_month');
+  oDayInput = document.getElementById('as_of_day');
+  oHourInput = document.getElementById('as_of_hour');
+  oMinuteInput = document.getElementById('as_of_minute');
+  oSecondInput = document.getElementById('as_of_second');
+
+  sAsOf = oYearInput.value + '-' + oMonthInput.value + '-' + oDayInput.value + 'T' + oHourInput.value + ':' + oMinuteInput.value + ':' + oSecondInput.value;
+  document.location.href = '?@=' + sAsOf;
+}
+
+var aAsOfInputs = [
+  'as_of_year',
+  'as_of_month',
+  'as_of_day',
+  'as_of_hour',
+  'as_of_minute',
+  'as_of_second',
+];
+
+function fAsOfOnKeyUp(e) {
+  // Handle the Enter key
+  if (e.key == 'Enter') {
+     fSubmitAsOfForm();
+  }
+}
+
+function fAsOfOnInput(e) {
+  fAsOfNextInput(e.target);
+}
+
+function fAsOfNextInput(oInput) {
+  // Handle giving focus to the next input when this one is at max length
+  sMaxLen = String(oInput.max +'').length;
+
+  if (oInput.value.length == sMaxLen) {
+     // Find which input, if any, is next in the sequence
+     sNextIndex = aAsOfInputs.indexOf(oInput.id) + 1;
+     if (sNextIndex < aAsOfInputs.length) {
+     	oNext = document.getElementById(aAsOfInputs[sNextIndex]);
+	oNext.focus();
+	oNext.select();
+     }
+  }
+}
+
+function fDismissAsOfForm() {
+  var oDiv = document.getElementById('as_of_div');
+  if (oDiv) {
+    oDiv.style.display = 'none';
+  }
+}
+
+function fOpenAsOfForm() {
+  var oDiv = document.getElementById('as_of_div');
+  if (oDiv) {
+    oDisplaySpan = document.getElementById('as_of_display');
+    oYearInput = document.getElementById('as_of_year');
+    oMonthInput = document.getElementById('as_of_month');
+    oDayInput = document.getElementById('as_of_day');
+    oHourInput = document.getElementById('as_of_hour');
+    oMinuteInput = document.getElementById('as_of_minute');
+    oSecondInput = document.getElementById('as_of_second');
+  } else {
+    var oDiv = document.createElement('div');
+    oDiv.id = 'as_of_div';
+
+    var oForm = document.createElement('form');
+    oForm.style = 'margin-block-end: 0;';
+    oForm.id = 'as_of_form';
+    oForm.name = 'as_of_form';
+    oForm.onsubmit = fSubmitAsOfForm;
+    oDiv.appendChild(oForm);
+
+    var oGrid = document.createElement('div');
+    oGrid.style = 'display: grid; grid-template-columns: max-content min-content min-content min-content min-content min-content 1fr;';
+    oGrid.ondblclick = null;
+    oForm.appendChild(oGrid);
+
+    var oHeader = document.createElement('div');
+    oHeader.style = 'grid-column: 1; grid-row: 1; margin-top: 7px; padding-right: 5px;';
+    oHeader.appendChild(document.createTextNode('Showing page as of '));
+    oDisplaySpan = document.createElement('span');
+    oDisplaySpan.id = 'as_of_display';
+    oHeader.appendChild(oDisplaySpan)
+    oHeader.appendChild(document.createTextNode('. Choose date and time:'));
+    oGrid.appendChild(oHeader);
+
+    var oYearDiv = document.createElement('div');
+    oYearDiv.className = 'as_of_input_div';
+    oYearDiv.style = 'grid-column: 2; grid-row: 1;';
+    oGrid.appendChild(oYearDiv);
+
+    var oYearInput = document.createElement('input');
+    oYearInput.id = 'as_of_year';
+    oYearInput.type = 'number';
+    oYearInput.min = 1970;
+    oYearInput.max = 9999;
+    oYearInput.oninput = fAsOfOnInput;
+    oYearInput.onkeyup = fAsOfOnKeyUp;
+    oYearDiv.appendChild(oYearInput);
+
+    oYearDiv.appendChild(document.createTextNode('-'));
+
+    var oMonthDiv = document.createElement('div');
+    oMonthDiv.className = 'as_of_input_div';
+    oMonthDiv.style = 'grid-column: 3; grid-row: 1;';
+    oGrid.appendChild(oMonthDiv);
+
+    var oMonthInput = document.createElement('input');
+    oMonthInput.id = 'as_of_month';
+    oMonthInput.type = 'number';
+    oMonthInput.min = 1;
+    oMonthInput.max = 12;
+    oMonthInput.oninput = fAsOfOnInput;
+    oMonthInput.onkeyup = fAsOfOnKeyUp;
+    oMonthDiv.appendChild(oMonthInput);
+
+    oMonthDiv.appendChild(document.createTextNode('-'));
+
+    var oDayDiv = document.createElement('div');
+    oDayDiv.className = 'as_of_input_div';
+    oDayDiv.style = 'grid-column: 4; grid-row: 1; padding-right: 5px';
+    oGrid.appendChild(oDayDiv);
+
+    var oDayInput = document.createElement('input');
+    oDayInput.id = 'as_of_day';
+    oDayInput.type = 'number';
+    oDayInput.min = 1;
+    oDayInput.max = 31;
+    oDayInput.oninput = fAsOfOnInput;
+    oDayInput.onkeyup = fAsOfOnKeyUp;
+    oDayDiv.appendChild(oDayInput);
+
+    var oHourDiv = document.createElement('div');
+    oHourDiv.className = 'as_of_input_div';
+    oHourDiv.style = 'grid-column: 5; grid-row: 1;';
+    oGrid.appendChild(oHourDiv);
+
+    var oHourInput = document.createElement('input');
+    oHourInput.id = 'as_of_hour';
+    oHourInput.type = 'number';
+    oHourInput.min = 0;
+    oHourInput.max = 23;
+    oHourInput.oninput = fAsOfOnInput;
+    oHourInput.onkeyup = fAsOfOnKeyUp;
+    oHourDiv.appendChild(oHourInput);
+
+    oHourDiv.appendChild(document.createTextNode(':'));
+
+    var oMinuteDiv = document.createElement('div');
+    oMinuteDiv.className = 'as_of_input_div';
+    oMinuteDiv.style = 'grid-column: 6; grid-row: 1;';
+    oGrid.appendChild(oMinuteDiv);
+
+    var oMinuteInput = document.createElement('input');
+    oMinuteInput.id = 'as_of_minute';
+    oMinuteInput.type = 'number';
+    oMinuteInput.min = 0;
+    oMinuteInput.max = 59;
+    oMinuteInput.oninput = fAsOfOnInput;
+    oMinuteInput.onkeyup = fAsOfOnKeyUp;
+    oMinuteDiv.appendChild(oMinuteInput);
+
+    oMinuteDiv.appendChild(document.createTextNode(':'));
+
+    var oSecondDiv = document.createElement('div');
+    oSecondDiv.className = 'as_of_input_div';
+    oSecondDiv.style = 'grid-column: 7; grid-row: 1;';
+    oGrid.appendChild(oSecondDiv);
+
+    var oSecondInput = document.createElement('input');
+    oSecondInput.id = 'as_of_second';
+    oSecondInput.type = 'number';
+    oSecondInput.min = 0;
+    oSecondInput.max = 59;
+    oSecondInput.oninput = fAsOfOnInput;
+    oSecondInput.onkeyup = fAsOfOnKeyUp;
+    oSecondDiv.appendChild(oSecondInput);
+
+    var oSecondDiv = document.createElement('div');
+    oSecondDiv.className = 'as_of_input_div';
+    oSecondDiv.style = 'grid-column: 7; grid-row: 1;';
+    oGrid.appendChild(oSecondDiv);
+
+    var oButtonsDiv = document.createElement('div');
+    oButtonsDiv.style = 'grid-column: 8; grid-row: 1 /3; padding-top: 2px; text-align: right;';
+    oEnterButton = document.createElement('button');
+    oEnterButton.style = 'margin-bottom: 5px; margin-right: 5px;';
+    oEnterButton.onclick = fSubmitAsOfForm;
+    oEnterButton.appendChild(document.createTextNode('Enter'));
+    oButtonsDiv.appendChild(oEnterButton);
+    oNowButton = document.createElement('button');
+    oNowButton.style = 'margin-bottom: 5px;';
+    oNowButton.onclick = fAsOfNow;
+    oNowButton.appendChild(document.createTextNode('Now'));
+    oButtonsDiv.appendChild(oNowButton);
+    oButtonsDiv.appendChild(document.createElement('br'));
+    oDismissButton = document.createElement('button');
+    oDismissButton.onclick = fDismissAsOfForm;
+    oDismissButton.appendChild(document.createTextNode('Dismiss'));
+    oButtonsDiv.appendChild(oDismissButton);
+    oGrid.appendChild(oButtonsDiv);
+
+    var oErrorHeader = document.createElement('div');
+    oErrorHeader.style = 'grid-column: 1; grid-row: 2; padding-right: 5px; font-weight: bold;';
+    oErrorHeader.appendChild(document.createTextNode(''));
+    oGrid.appendChild(oErrorHeader);
+
+    var oYearLabelDiv = document.createElement('div');
+    oYearLabelDiv.className = 'as_of_label';
+    oYearLabelDiv.style = 'grid-column: 2;';
+    oGrid.appendChild(oYearLabelDiv);
+    oYearLabelDiv.appendChild(document.createTextNode('Year'));
+    oYearLabelDiv.appendChild(document.createElement('br'));
+    oYearLabelDiv.appendChild(document.createTextNode('YYYY'));
+
+    var oMonthLabelDiv = document.createElement('div');
+    oMonthLabelDiv.className = 'as_of_label';
+    oMonthLabelDiv.style = 'grid-column: 3;';
+    oGrid.appendChild(oMonthLabelDiv);
+    oMonthLabelDiv.appendChild(document.createTextNode('Month'));
+    oMonthLabelDiv.appendChild(document.createElement('br'));
+    oMonthLabelDiv.appendChild(document.createTextNode('01-12'));
+
+    var oDayLabelDiv = document.createElement('div');
+    oDayLabelDiv.className = 'as_of_label';
+    oDayLabelDiv.style = 'grid-column: 4;';
+    oGrid.appendChild(oDayLabelDiv);
+    oDayLabelDiv.appendChild(document.createTextNode('Day'));
+    oDayLabelDiv.appendChild(document.createElement('br'));
+    oDayLabelDiv.appendChild(document.createTextNode('01-31'));
+
+    var oHourLabelDiv = document.createElement('div');
+    oHourLabelDiv.className = 'as_of_label';
+    oHourLabelDiv.style = 'grid-column: 5;';
+    oGrid.appendChild(oHourLabelDiv);
+    oHourLabelDiv.appendChild(document.createTextNode('Hour'));
+    oHourLabelDiv.appendChild(document.createElement('br'));
+    oHourLabelDiv.appendChild(document.createTextNode('00-23'));
+
+    var oMinuteLabelDiv = document.createElement('div');
+    oMinuteLabelDiv.className = 'as_of_label';
+    oMinuteLabelDiv.style = 'grid-column: 6;';
+    oGrid.appendChild(oMinuteLabelDiv);
+    oMinuteLabelDiv.appendChild(document.createTextNode('Minute'));
+    oMinuteLabelDiv.appendChild(document.createElement('br'));
+    oMinuteLabelDiv.appendChild(document.createTextNode('00-59'));
+
+    var oSecondLabelDiv = document.createElement('div');
+    oSecondLabelDiv.className = 'as_of_label';
+    oSecondLabelDiv.style = 'grid-column: 7;';
+    oGrid.appendChild(oSecondLabelDiv);
+    oSecondLabelDiv.appendChild(document.createTextNode('Second'));
+    oSecondLabelDiv.appendChild(document.createElement('br'));
+    oSecondLabelDiv.appendChild(document.createTextNode('00-59'));
+
+    document.body.insertBefore(oDiv, document.body.firstChild);
+  }
+
+  oYearInput.value = '2026';
+  oMonthInput.value = '07';
+  oDayInput.value = '29';
+  oHourInput.value = '20';
+  oMinuteInput.value = '11';
+  oSecondInput.value = '50';
+
+  oDisplaySpan.innerText = oYearInput.value + '-' + oMonthInput.value + '-' + oDayInput.value + ' ' + oHourInput.value + ':' + oMinuteInput.value + ':' + oSecondInput.value;
+
+  oDiv.style.display = 'block';
+
+  oYearInput.focus();
+  oYearInput.select();
+}
+
+function fDocumentOnDblClick(oEvent) {
+  fOpenAsOfForm();
+}
+
+function fDocumentOnKeyPress(oEvent) {
+  // The @ symbol
+  if ((oEvent.shiftKey) && (oEvent.code == 'Digit2')) {
+    fOpenAsOfForm();
+  }
+}
+
+document.addEventListener('DOMContentLoaded', function(event) {
+  if ('' != '') {
+     document.cookie = 'as_of=; path=/; domain=informationphilosopher.com';
+     fOpenAsOfForm();
+  }
+});
+
+
+function fSkyWriteInclude(sPageSeriesID, sPageID, sDirPath, oEvent) {
+var sIndicatorClicked, sControlKeyPressed, sShiftKeyPressed;
+var sElement;
+
+// check for shift or control key depressed
+oEvent = (oEvent) ? oEvent : (window.event) ? window.event : ''
+
+sIndicatorClicked = 0;
+sControlKeyPressed = 0;
+sShiftKeyPressed = 0;
+if (oEvent) {
+  sModifierPressed = '';
+  
+  sElement = (oEvent.target) ? oEvent.target : oEvent.srcElement;
+  // alert(sElement.id);
+  
+  if ((sElement.id == 'skyIncludeEditablePencilImg') || (sElement.id == 'skyIncludeEditableCornerImg')){
+    sIndicatorClicked = 1;
+  }
+  
+  if (oEvent.which) {
+    if (oEvent.ctrlKey) {
+      sControlKeyPressed = 1;
+    }
+  } else {
+    if (oEvent.modifiers) {
+      if (oEvent.modifiers && oEvent.CTRL_MASK) {
+        // sControlKeyPressed = oEvent.modifiers;
+        sControlKeyPressed = 1;
+      }
+    } else {
+      if (oEvent.ctrlKey) {
+        sControlKeyPressed = 1;
+      }
+    }
+  }
+  
+  if (oEvent.which) {
+    if (oEvent.shiftKey) {
+      sShiftKeyPressed = 1;
+    }
+  } else {
+    if (oEvent.modifiers) {
+      if (oEvent.modifiers && oEvent.SHIFT_MASK) {
+        // sShiftKeyPressed = oEvent.modifiers;
+        sShiftKeyPressed = 1;
+      }
+    } else {
+      if (oEvent.shiftKey) {
+        sShiftKeyPressed = 1;
+      }
+    }
+  }
+}
+
+// if shift or control key pressed
+if ((sIndicatorClicked) || (sControlKeyPressed == 1) || (sShiftKeyPressed == 1)) {
+  // alert('pressed');
+  window.open('https://www.informationphilosopher.com/timelines/index.html?skyWrite=True&PageSeriesID=' + sPageSeriesID + '&PageID=' + sPageID + '&DirPath=' + sDirPath, '_blank', 'menubar,toolbar,location,resizable,scrollbars,status,height=600,width=832,left=250,top=50', true);
+}
+}
+    
+</script>
+  <title>Evo Devo Scholar Talk</title>
+  <meta type="content" content="The Information Philosopher - dedicated to the new information philosophy">
+  <meta type="keywords" content="information, free will, knowledge, value, mind, mind-body, consciousness, chance, quantum mechanics, reversibility, schrodinger cat, Einstein-Podolsky-Rosen, cosmic creation, ">
+  <style type="text/css">
+  #cc { 
+  margin-top:2px;
+  }
+  </style>
+<body style="margin:10px">
+<div class="chaptertitle">
+Evo Devo Universe Scholar Talk, September 12, 2025
+</div>
+<p/>
+<div class="sectiontitle">
+My Background
+</div>
+When I came to Harvard in 1958, I had studied physics at Brown, reading about <a href="/life/entropy/">entropy</a> in <a href="/solutions/scientists/eddington/">Arthur Stanley Eddington</a>'s <I>The Nature of the Physical World</I>, his 1927 Gifford Lectures. 
+<p/>
+The entropy law, the second law of thermodynamics, isn't like all the other physical laws, Eddington said. For one thing, it isn't <a href="/problems/reversibility/">time reversible</a> like Newton's laws. For another, it has  qualities unlike any other physical quantity, it feels more like beauty or harmony. <br/>Maybe it's something like good and evil, I thought.
+<p/>
+I asked all my professors a question, "if the universe began in a state of thermal equilibrium, maximum entropy, how can we have so much information in the world today?" 
+<p/>
+Only two professors took me seriously. One was <a href="/solutions/scientists/layzer/">David Layzer</a>. He spent the rest of his life on the problem. I've been reading philosophy and physics for seventy years to explain it.
+
+
+<div class="sectiontitle">
+Does the Universe Develop and Evolve?
+</div>
+<p/>
+Of course it does. We study Cosmic Evolution (<a href="/solutions/scientists/chaisson/">Eric Chaisson</a>’s book), including <br/>Galactic Evolution, Stellar Evolution, and Planetary Evolution.
+<p/>
+Now Planets, Stars, Galaxies, and the Universe itself are all <a href="/knowledge/complexity/">Complex Systems</a>. 
+<br/>Complexity Science studies all of them. 
+<p/>
+Since Georgi's satellite meeting on complexity science last week in Siena, where I had hoped to meet <a href="/solutions/scientists/davies/">Paul Davies</a>, I've drafted a brief <a href="/life/complexity/history/">history of complex systems</a> showing how Davies turned the Santa Fe Institute toward theology and <a href="/life/teleology/"> teleology</a>.
+<p/>
+Of course <a href="/life/">Life</a> is also a complex system, but I want to discuss a <I>vital</I> difference between living things and the <i>abiotic</i> universe.
+<p/>
+The difference is the <b><I>role</I> of <a href="/introduction/information/">information</a></b>. 
+<p/>
+The universe and its galaxies, stars, and planets are all rich in <I>abstract immaterial <b>information</b></I>. This <i>immaterial</i> information needs <I><b>matter</b></I> to be embodied and <I><b>energy</b></I> <br/>to be <I><b>communicated</b></I>, for scientists to <I>observe</I> and to <I>measure</I> that information!
+<p/>
+All the objects in the universe are <I>concrete material <b>information structures</b></I>, composed of matter and energy components, from the quarks, gluons, electrons, and photons present at the origin, through the atoms, molecules, and macromolecules that could not be stable until the universe cooled to the current surface temperature of the Sun (around 6000K), <br/>about 380 thousand  years after the origin of the universe.
+<p/>
+Non-living objects like atoms, molecules, planets, stars, and galaxies are <I><b>passive information structures</b></i>. They are entirely controlled by fundamental physical forces - the strong and weak nuclear forces, electromagnetism, and gravitation. These objects do not control themselves. They are <a href="/knowledge/reductionism.html/">reducible</a> to physical causes. <b>They are <i>not acting</i>. They are <i>acted upon</I>.</b>
+<p/>
+But living things, you and I, are <I>active dynamic growing information structures</I>, we are forms through which matter and energy continuously flow. And it's the <I><b><a href="/knowledge/downward_causation">top-down</a> communication</b></I><br/> of biological information that controls those flows! 
+<!--
+<p/>
+The communication of information <I><b>between</b></I> living things gives rise to <i>social</i> structures, from slime-molds to political parties. 
+<p/>
+Single-cell, plant, and animal <I>awareness of </I>(<I>i.e., communication with</I>) information in their environment culminates in human <a href="/mind/consciousness/">consciousness</a>. The storage of information in the minds of humans and their artifacts (from books to the Internet) is the <a href="/knowledge/sum/">sum</a> of all <a href="/knowledge/">knowledge</a>.
+-->
+<p/>
+Now the fundamental laws of thermodynamics apply to both living and non-living systems. <br/>The second law says that entropy (disorder) must always increase, suggesting a "heat death" for the universe. 
+<p/>
+It also suggests the universe began with a vast amount of information, since increasing entropy has been decreasing information since the origin and there's so much left today. 
+<p/>
+But I'll show how the universe began with a <b><i>bare minimum of information</i></b>. <br/>And I'll explain how it avoids that "heat death."
+<p/>
+First we need to consider <a href="/freedom/laplaces_demon.html">Laplace's Demon</a>. 
+<p/>
+<a href="/solutions/scientists/laplace/">Pierre Simon Laplace</a> knew Newton's Laws of classical mechanics extremely well. 
+<p/>
+He imagined an <b>intelligent demon</b> who knows the positions and the velocities of every particle in the universe and the demon knows the forces on all those particles. <br/>
+The demon could then <b><a href="/knowledge/">know</a> the entire past and the future of the universe</b>.
+<p/>
+In that case, <b>information would be a constant of nature</b> (plotted as the blue line below). <br/>
+My MIT colleague <a href="/solutions/scientists/lloyd/">Seth Lloyd</a> thinks information is a conserved constant, like the conservation laws for mass and energy. He also thinks the universe is a computer!
+<p/>
+<img src="/freedom/images/entropy-expansion-Laplace.gif" width="600">
+<p/>
+However, midway through the 19th century, <a href="/solutions/scientists/kelvin/">Lord Kelvin</a> realized that the <b>then just discovered second law of thermodynamics</b> requires that information can not be constant. It would be being destroyed as the entropy <a href="/problems/reversibility/">irreversibly</a> increases. 
+<p/>
+The physicist <a href="/solutions/scientists/helmholtz/">Hermann Helmholtz</a> described this as the "<b>heat death</b>" of the universe.
+<p/>
+<img src="/freedom/images/Entropy-Expansion-Kelvin.gif" width="600">
+<p/>
+Now Kelvin’s claim of a "heat death" would be correct if the universe were a closed system. <br/>But it's not closed. 
+The universe is open and infinite. We'll see how an open universe can actually create negative entropy locally to avoid thermal equilibrium.
+<p/>
+In his famous 1944 article "What Is Life?," <a href="/solutions/scientists/schrodinger/">Erwin Schrödinger</a> famously argued that <b><i>life “feeds on negative entropy.”</i></b> 
+<p/>
+Schrödinger’s source for negative entropy was our Sun. With the bright Sun as a heat source and the dark night sky as a heat sink, the Earth is a thermodynamic engine.
+<p/>
+<img src="Solar_Earth_photons.png" style="width:95%">
+<p/>
+But Schrödinger <i>didn't know</i> how the Sun came to be such a source of negative entropy. 
+<p/>
+That’s a problem for cosmology. We need to explain how a universe beginning in thermal equilibrium with maximum entropy (total disorder) can create a spherically symmetric star sending a stream of negative entropy to Earth.  
+<p/>
+
+<a href="/solutions/scientists/eddington/">Arthur Stanley Eddington</a> was the great scientist who proved <a href="/solutions/scientists/einstein/">Albert Einstein</a>'s general relativity claim that space is curved at a 1919 eclipse expedition (making Einstein famous). 
+<p/>
+Eddington suggested in 1934 that the universe expansion, discovered by Edwin Hubble in 1927, might create new "phase-space" cells faster than the particles can randomly fill those cells and maximize the entropy.  
+<p/>
+Note that the universe could allow local reductions in the entropy, what I called "pockets" of negative entropy, but only if the global entropy elsewhere is increased even more to satisfy the second law of thermodynamics.
+
+<p/>
+In his 1989 book <a href="https://www.amazon.com/Cosmogenesis-Growth-Universe-David-Layzer/dp/0195069080">Cosmogenesis</a>, my Harvard mentor <a href="/solutions/scientists/layzer/">David Layzer</a> developed Eddington's idea. Layzer showed that the <b><I>maximum possible entropy</I></b> of the expanding universe increases much faster than the <I><b>actual entropy increases</b></I>. Disorder (entropy) and order (negative entropy) are simultaneously increasing in the universe. 
+<p/>
+I adapted the diagrams in Layzer’s book to create this picture of his Growth of Information.
+<p/>
+<img src="Growth_of_Info.png" style="width:95%">
+<p/>
+Between the <b>actual entropy</b> and the <b>maximum possible entropy</b> you can see there's plenty of room for galaxies, stars, and planets to form.
+<p/>
+Notice that the universe didn't have a lot of information at the origin. It also didn't have the same information that it has today, as Laplace and my MIT colleague <a href="/solutions/scientists/lloyd/">Seth Lloyd</a> believe. Lloyd also believes the universe is a computer! 
+<p/>
+<!--
+Now <a href="/solutions/scientists/eddington/">Arthur Stanley Eddington</a>'s 1934 suggestion that the expansion of the universe could allow local reductions in the entropy, but only if the global entropy somewhere else was increased even more to satisfy the second law of thermodynamics.
+<p/>
+I'd like to call this <i><b>Eddington's Law: No Local Negentropy Production Without a Global Entropy Increase</b></i>
+-->
+<p/>
+The expansion of the universe creates new space, which means there are many more <a href="/freedom/possibilities.html">possible</a> "phase-space" cells where particles can <a href="/freedom/actualism.html">actually</a> be distributed.
+<p/>
+I decided to call this the <b><i><a href="/introduction/creation/">Cosmic Creation Process</a></i></b>, based on Eddington and Layzer’s insight into the growth of order in the universe.
+<p/>
+<div style="align:center">
+My Cosmic Creation Process is the <b><i>first of four examples of random possibilities</i></b> being created that can lead to new information in the universe. 
+<p/>
+The others are 
+<ul>
+<li>
+<a href="/solutions/scientists/shannon/">Claude Shannon's communication of information</a>
+</li>
+<li> 
+<a href="/freedom/">the freedom of the human will</a>
+</li>
+<li> 
+and Darwinian evolution.
+</li>
+</ul> 
+
+<p/>
+I call these all <b><i>"two-stage models."</i></b>  First <b><i>possibilities</i></b>, then a new <b><i>actuality.</i></b> 
+<p/>
+In the first stage new <a href="/freedom/possibilities.html">possibilities</a> randomly appear. 
+<p/>
+In the second stage one possibility becomes <a href="/freedom/possibilities.html">actual</a>. 
+</div>
+<!--See also <b><a href="/freedom/laplaces_demon.html">Laplace's Demon and the Kelvin-Helmholtz "Heat Death"</a></b>-->
+<div class="sectiontitle">
+Biological Information and Its Communication
+</div>
+<p/>
+In his famous 1944 article "What Is Life", Erwin Schrödinger also explained how genetic information could be stored in the atomic structure of a long molecule or "aperiodic crystal." That molecule was found to be DNA just nine years later by <a href="/solutions/scientists/watson/">James Watson</a> and <a href="/solutions/scientists/crick/">Francis Crick</a> in 1953.
+<p/>
+Just three years before information in the genetic code was discovered, <a href="/solutions/scientists/shannon/">Claude Shannon</a> formulated his theory of the communication of information, describing digital "bits" of information as 1's and 0's (or yes and no answers to questions). Shannon said that the amount of information communicated depends on the number of possible messages. With eight possible messages, one actual message <I>communicates</I> three bits of information (2³ = 8).
+<p/>
+If there is only one possible message, there is no new information. This corresponds to the <a href="/freedom/determinism.html">deterministic</a> view that <b><I>there is only one possible future!</I></b>. Both that future and the entire past are completely <a href="/freedom/pre-determinism.html">pre-determined</a> from the beginning of time, and the total information in the universe is a conserved constant, as many physicists, and some world religions, believe.
+<!--<p/>
+We can call this <i><b>Shannon's Principle: No New Information Communication Without Possibilities</b></I>.-->
+<p/>
+<div class="sectiontitle">
+The Problem of Free Will
+</div>
+Again inspired by Arthur Stanley Eddington, who suggested in 1928 that <a href="/solutions/scientists/heisenberg/">Werner Heisenberg</a>’s uncertainty principle could put a “chink” in determinism, David Layzer and I debated about the <a href="/freedom/">free will problem</a>.
+<p/>
+In the 1970’s I came up with my “two-stage model” of free will, in the first stage <a href="/freedom/alternative_possibilities.html">alternative possibilities</a> randomly come to mind, in the second stage the agent makes <a href="/freedom/adequate_determinism.html">adequately determined</a> decisions or choices. 
+<p/>
+Researching the literature for years since then. I’ve now identified <a href="/freedom/two-stage_models.html">many philosophers and scientists who proposed the same two-stage model</a>, well before me and after me.
+<p/>
+Over the years I debated the problem of free will with the libertarian philosopher <a href="/solutions/philosophers/kane/">Robert Kane</a> and the <a href="/freedom/determinism.html">determinist</a>/<a href="/freedom/compatibilism.html">compatibilist</a> philosopher <a href="/solutions/philosophers/dennett/">Daniel Dennett</a>. Time permitting in the discussion, I'll tell you more about them.
+<div class="sectiontitle">
+A Two-Stage Model for Evolution
+</div>
+<p/>
+In the 1990's I extended my two-stage model of <I><b>first possibilities, then actualities</b></I> to all the processes in the universe that create all new information and information structures. This obviously included Darwinian evolution. Here is the evolutionary biologist <a href="/solutions/scientists/mayr/">Ernst Mayr</a> describing the two-step process.
+<p/>
+<blockquote>
+Evolutionary change in every generation is a <b><i>two-step process</i></b>: the production of genetically unique new individuals and the selection of the progenitors of the next generation. The important role of chance at the first step, the production of variability, is universally acknowledged, but the second step, natural selection, is on the whole viewed rather deterministically: Selection is a non-chance process.
+<blockquote>
+<div class="breadcrumbs">
+<i>Toward a New Philosophy of Biology</i>, Cambridge: Harvard University Press, 1988, p. 159
+</div>
+</blockquote>
+</blockquote>
+<p/>
+
+<!--
+We now have three processes that need two stages or steps to create something new - 
+<ol>
+<li>The creation of the universe itself,
+</li><li> the creation of life, 
+</li><li>and human free will.
+</li></ol> 
+<p/>
+We can now add a fourth process that is essential to the advance of knowledge. That process is what <a href="/solutions/scientists/einstein/">Albert Einstein</a> called “free creations of the human mind.” These are your new ideas! You cannot have them without the source of negative entropy that keeps you alive!
+-->
+<p/>
+Now all complex adaptive systems are obviously creative. And the self-organizing <I>autopoetic</I> description of <a href="/solutions/scientists/maturana/">Umberto Maturana</a> and <a href="/solutions/scientists/valera/">Francesco Varela </a>obviously describes them perfectly. But the “self” in a Benard cell is <b><i>not communicating information to its component atoms</i></b>. <br/>It has no thoughts, no intention, no goals, no <a href="/mind/purpose/">purpose</a>. 
+<p/>
+A Benard cell is a <I><b>passive information structure</b></I>, <a href="/knowledge/reductionism.html">reducible</a> to its components. True, it is a <I>dissipative</I> structure, at the edge of chaos, as <a href="/solutions/scientists/prigogine/">Ilya Prigogine</a> saw, but it is not alive. And finally also true, the <I>autocatalytic</I> process is <a href="/knowledge/downward_causation.html">top-down causation</a> controlling or <I>constraining</I> lower level processes. These top-down forces are purely physical. Benard cells are not alive.
+<p/>
+As I see it, <a href="/mind/purpose/">Purpose</a> and <a href="/values/">Values</a> and <a href="/knowledge/meaning/">Meanings</a> all enter the universe when <a href="/life/">Life</a> appears.
+<p/>
+The only place in the universe where life is known to exist is our <a href="/life/biosphere">biosphere</a>, first named by the Austrian chemist Edward Seuss in the nineteenth century as the interface of the lithosphere and lower atmosphere. 
+<p/>
+In the twentieth century, the biosphere was made more popular by <a href="/solutions/scientists/vernadsky/">Vladimir Vernadsky</a>, who inspired <a href="/solutions/scientists/teilhard/">Teilhard de Chardin</a>'s <i>noösphere</i>. And today the biosphere is the locus of <a href="/solutions/scientists/lovelock/">James Lovelock</a> and <a href="/solutions/scientists/margulis/">Lynn Margulis</a>' <a href= "/life/gaia/">Gaia Hypothesis</a>.
+<p/>
+If there exists an entity which has provided us with everything, to which we should be thankful, even reverential, it is surely the <a href="/life/biosphere">biosphere</a>, which is our home in the universe.  
+
+<p/>
+<div class="chaptertitle">
+Summary
+</div>
+I introduced my <a href="/introduction/creation/">cosmic creation process</a>, which consists of two stages or steps, first the ontologically random generation of <a href="/freedom/alternative_possibilities.html">alternative possibilities</a>, followed by the <a href="/freedom/adequately_determined.html">adequately determined</a> selection of one <a href="/freedom/actualism.html">actual outcome</a>.
+<p/>
+I described how the cosmic creation process does not violate the second law of thermodynamics. And I showed how the universe avoids a "heat death," without violating the second law of thermodynamics.  
+<p/>
+I claimed this two-stage creative process helps to explain <I>three</I> great problems in philosophy and science. 
+<ol>
+<li>
+The problem of <a href="/freedom/">free will and determinism</a>.
+</li>
+<li>
+Shannon’s communication of information.
+</li>
+<li>
+Darwin’s theory of natural selection
+</li>
+</ol>
+<p/>
+I've made four more original contributions to science that might be of interest.
+<ol>
+<li>
+A biological model of the mind as an <a href="/mind/err/">Experience Recorder and Reproducer</a>
+and the problem of learned representation in AI.
+</li>
+<li>
+The “weird” problem of <a href="/entanglement/common_cause/">Quantum Entanglement</a>, which creates two “bits” of information instantly at widely separated locations, without "<i>spooky action at a distance</i>."
+</li>
+<li>
+The <a href="/problems/flatness/">Flatness of the Universe</a>, that average spatial curvature may be zero, as confirmed by <a href="/solutions/scientists/weinberg/">Steven Weinberg</a> in his text <i>Cosmology</i>.
+</li>
+<li>
+The <a href="/problems/reversibility/">Origin of Irreversibility</a>, based on Einstein's 1916 paper on the absorption and emission of radiation, which was the basis of my Ph.D. thesis.
+</li>
+</ol>
+<p/>
+All my work is available on my website <a href="http://informationphilosopher.com">informationphilosopher.com</a> 
+<p/>
+My personal story is here - <a href="http://informationphilosopher.com/about">informationphilosopher.com/about</a>
+<p/>
+The ERR model is here <a href="http://informationphilosopher.com/mind/err/">informationphilosopher.com/mind/err/</a>
+<p/>
+Entanglement is discussed here - <a href="http://informationphilosopher.com/entanglement/common_cause/">informationphilosopher.com/entanglement/common_cause/</a>
+<p/>
+You can contact me here <a href="mailto:bobdoyle@informationphilosopher.com">bobdoyle@informationphilosopher.com</a>
+<div id="skyFooter4002" class="skyFooter">
+
+<script type="text/javascript" language="javascript">
+document.onclick = fDocumentOnClick;
+document.ondblclick = fDocumentOnDblClick;
+document.onkeypress = fDocumentOnKeyPress;
+document.onmouseover = fSkyWritableOver;
+</script>
+<div class="skyFooterText">
+</div>
+
+</div>
+</body>
+</html>

@@ -1,6 +1,6 @@
 # EXPERIMENT MATRIX — what's been tested
 
-*2026-08-14. 75 experiments mapped to layer / source repo / vision / kernel / result.*
+*2026-08-14. 76 experiments mapped to layer / source repo / vision / kernel / result.*
 Machine form: `data/references/experiments.json`.
 
 ## Argument Map (7)
@@ -101,7 +101,7 @@ Machine form: `data/references/experiments.json`.
 | `experiment-causal-operational-graph.py` | L12 | patalamix review #12 | causal-operational | RUN |
 | `experiment-signed-statement.py` | L12 | cosign (cloned) | signing | RUN |
 
-## Verified Epistemic OS (33)
+## Verified Epistemic OS (34)
 
 | script | layer | source | kernel | result |
 |--------|-------|--------|--------|--------|
@@ -122,6 +122,7 @@ Machine form: `data/references/experiments.json`.
 | `validate-fts-baseline.py` | L06 | real corpus (425) | fts-baseline | RUN |
 | `validate-graduation-ipvv.py` | ALL | real IPK primary text (Torella) + Ratié | ipvv-graduation | RUN |
 | `validate-graduation.py` | ALL | real graph/argument/canonical-dag | graduation | RUN |
+| `validate-ingestion-organism.py` | ALL | sivaqueue-style Sanskrit targets | ingestion-organism | RUN |
 | `validate-integrity-gate.py` | L05 | real IPK sources | integrity-gate | RUN |
 | `validate-layer03-05.py` | L03+L05 | herdr+RKA (cloned) | review+staleness | PASS |
 | `validate-lightrag-compare.py` | L10 | real graph + LightRAG (HKUDS ⭐38k) | lightrag | RUN |

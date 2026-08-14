@@ -1,0 +1,43 @@
+---
+// [slug].astro — one semantic page per concept, from the compiled bundle
+import Layout from '../../layouts/Layout.astro';
+import fs from 'node:fs';
+import path from 'node:path';
+
+// generate the routes from the manifest (self-contained — no outer var needed)
+export function getStaticPaths() {
+  const dir = path.join(process.cwd(), '..', 'site');
+  const manifest = JSON.parse(fs.readFileSync(path.join(dir, 'manifest.json'), 'utf-8'));
+  return Object.entries(manifest.concepts).map(([slug, v]) => ({
+    params: { slug },
+    props: { id: v.id, label: v.label, ceiling: v.ceiling, url: v.url, slug },
+  }));
+}
+
+const { id, label, ceiling, url, slug } = Astro.props;
+const dir = path.join(process.cwd(), '..', 'site');
+// read the compiled bundle (the JSON projection)
+const bundle = JSON.parse(fs.readFileSync(path.join(dir, 'concepts', `${slug}.json`), 'utf-8'));
+const content = bundle.content || {};
+const neighbors = (content.neighbors || []).slice(0, 12);
+---
+<Layout
+  title={label}
+  description={`${label} — canonical concept node (${ceiling})`}
+  canonical={url}
+  jsonLd={{ "@context": "https://schema.org", "@type": "Thing", "@id": url, name: label, identifier: id, additionalProperty: { "@type": "PropertyValue", name: "epistemic_ceiling", value: ceiling } }}
+>
+  <h1>{label}</h1>
+  <p class="ceiling">Type: concept · Ceiling: {ceiling}</p>
+  {content.definition && <p>{content.definition}</p>}
+  {content.positions?.length > 0 && (
+    <>
+      <h2>Positions</h2>
+      <ul>{content.positions.map(p => <li>{p.claim} <em>({p.ceiling})</em></li>)}</ul>
+    </>
+  )}
+  <h2>Related</h2>
+  {neighbors.length > 0 ? (
+    <ul>{neighbors.map(n => <li><a href={`/concepts/${n.label.toLowerCase().replace(/[^a-z0-9]+/g,'-')}/`}>{n.label}</a> <em>[{n.rel}]</em></li>)}</ul>
+  ) : <p>No related concepts.</p>}
+</Layout>

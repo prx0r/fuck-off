@@ -1,0 +1,11 @@
+# 300 Multiple Choices
+
+**source:** html · **section:** Values
+**file:** ergod
+---
+
+Multiple Choices
+The document name you requested (/value/ergod.html) could not be found on this server.
+However, we found documents with names similar to the one you requested.Available documents:
+/value/ergod (common basename)
+Please consider informing the owner of the referring page http://www.informationphilosopher.com/value/history/ about the broken link.

@@ -1,6 +1,6 @@
 {
- "count": 34,
- "proven": 28,
+ "count": 35,
+ "proven": 29,
  "mechanism_only": 6,
  "unproven": 0,
  "proofs": [
@@ -135,6 +135,17 @@
    "uses_real_data": true,
    "verdict": "PROVEN",
    "proof_hash": "53934e68bf6ef155"
+  },
+  {
+   "kernel": "ingestion_organism",
+   "doc_claim": "autonomous priority-driven refinery (10/10)",
+   "test_script": "validate-ingestion-organism.py",
+   "test_exists": true,
+   "test_passes": true,
+   "exit_code": 0,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "3c508cbc094e13b8"
   },
   {
    "kernel": "integrity_gate",
