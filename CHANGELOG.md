@@ -177,3 +177,12 @@ imposed.
 - **`docs/ALGORITHMS.md`** — granular findings + what to adopt (PathRAG→L06, HippoRAG→L06, KG2Code→L06/L07,
   ToG-2 alternating→L06 trace, HyperGraphRAG→L04).
 - NAVIGATION + CHANGELOG wired.
+
+## 2026-08-14 (cont.) — patala futures visions
+- **`docs/vision/VISION-PATALA-FUTURES.md`** — 7 concrete, evidence-grounded visions synthesizing
+  everything validated: (1) The Argument Map [flagship product], (2) General Epistemic Engine,
+  (3) Self-Maintaining Epistemic Graph, (4) Executable Knowledge [KG2Code], (5) Verified Corpus Engine
+  [science], (6) Cross-Tradition Comparative Philosophy, (7) Autonomous Review Institute.
+- Priority order: promote proven experiments to lib/ → 5 import adapters (generalization test) →
+  KG2Code query over MCP → Argument Map pages → review ledger + agent loop.
+- NAVIGATION + CHANGELOG wired.

@@ -88,3 +88,29 @@ bet, not to gold-plate. Highest excitement-to-effort right now:
 3. **2.1 scifact adapter** (the generalization bet — most exciting)
 
 See `STATE.yaml` for live status. See `specs/` for each piece's design.
+
+---
+
+## PHASE 5 — PATALA FUTURES (from VISION-PATALA-FUTURES.md)
+
+The seven visions reduce to a clear build order. Promote the proven experiments to real libraries first.
+
+### 5.1 Promote experiments → lib/ (fastest wins, already proven)
+- [ ] `lib/review.py` — herdr-style reducer state machine (from `experiment-herdr-review.py`)
+- [ ] `lib/staleness.py` — RKA blast-radius propagation (from `experiment-rka-staleness.py`)
+- [ ] `lib/query.py` — KG2Code executable graph queries (from `experiment-kg2code.py`)
+- [ ] `lib/retrieval.py` — PathRAG + HippoRAG retrieval (from experiments)
+
+### 5.2 The generalization test (highest info value)
+- [ ] `import_openalex/s2orc/scifact/xaif/eleutheria` adapters → same engine
+
+### 5.3 The agent surface
+- [ ] `lib/query.py` over MCP → executable knowledge (VISION 4)
+
+### 5.4 The product
+- [ ] Argument Map pages: `/free-will`, `/consciousness`, ... (VISION 1)
+
+### 5.5 The end-state
+- [ ] Review-event ledger + agent execution loop (VISION 7 Autonomous Review Institute)
+
+See `docs/vision/VISION-PATALA-FUTURES.md` for full detail per vision.

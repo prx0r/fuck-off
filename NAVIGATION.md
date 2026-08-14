@@ -90,6 +90,14 @@ graph after adding text, run `build-graph.py`.
 | `docs/EXPERIMENT-REPORT.md` | third-party repo experiments (herdr/RKA/kappa/nano-graphrag) |
 | `docs/ALGORITHMS.md` | granular arXiv-algorithm implementations (PathRAG/HippoRAG/KG2Code) |
 
+## Vision docs
+| Doc | What it is |
+|-----|------------|
+| `docs/vision/VISION.md` | the founding vision (general epistemic engine) |
+| `docs/vision/VISION-PATALA-FUTURES.md` | 7 concrete, evidence-grounded futures for patala |
+| `docs/EXPERIMENT-REPORT.md` | third-party repo experiments (herdr/RKA/kappa/nano-graphrag) |
+| `docs/ALGORITHMS.md` | granular arXiv-algorithm implementations (PathRAG/HippoRAG/KG2Code) |
+
 ## Reference catalogs (machine-readable)
 | File | What it is |
 |------|------------|
