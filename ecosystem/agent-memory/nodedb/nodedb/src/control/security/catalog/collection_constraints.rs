@@ -1,0 +1,122 @@
+// SPDX-License-Identifier: BUSL-1.1
+
+//! Constraint definition types for collections.
+//!
+//! Field/event definitions for individual columns live here too
+//! because they share the same lifecycle (defined at DDL time,
+//! carried on the collection record, evaluated at write time).
+
+use serde::{Deserialize, Serialize};
+use zerompk::{FromMessagePack, ToMessagePack};
+
+use crate::bridge::expr_eval::SqlExpr;
+
+// ── Field + event definitions ─────────────────────────────────────────
+
+/// Extended field definition supporting DEFAULT, VALUE, ASSERT, and TYPE constraints.
+#[derive(Debug, Clone, Serialize, Deserialize, ToMessagePack, FromMessagePack)]
+#[msgpack(map, allow_unknown_fields)]
+pub struct FieldDefinition {
+    pub name: String,
+    /// Type constraint: "int", "float", "string", etc. Empty = any.
+    #[serde(default)]
+    #[msgpack(default)]
+    pub field_type: String,
+    /// Default expression (evaluated when field is missing on insert).
+    #[serde(default)]
+    #[msgpack(default)]
+    pub default_expr: String,
+    /// Computed value expression (evaluated on every read, not stored).
+    #[serde(default)]
+    #[msgpack(default)]
+    pub value_expr: String,
+    /// Assertion expression (must evaluate to true for writes to succeed).
+    #[serde(default)]
+    #[msgpack(default)]
+    pub assert_expr: String,
+    /// Whether the field is read-only (cannot be set by user).
+    #[serde(default)]
+    #[msgpack(default)]
+    pub readonly: bool,
+    /// Sequence name for auto-generated values on INSERT.
+    #[serde(default)]
+    #[msgpack(default)]
+    pub sequence_name: Option<String>,
+    /// If true, this field is a stored generated column (materialized on write).
+    /// `value_expr` contains the serialized SqlExpr for write-time evaluation.
+    #[serde(default)]
+    #[msgpack(default)]
+    pub is_generated: bool,
+    /// Column names this generated column depends on (for UPDATE recomputation).
+    #[serde(default)]
+    #[msgpack(default)]
+    pub generated_deps: Vec<String>,
+}
+
+/// Table event/trigger definition.
+#[derive(Debug, Clone, Serialize, Deserialize, ToMessagePack, FromMessagePack)]
+pub struct EventDefinition {
+    pub name: String,
+    pub collection: String,
+    pub when_condition: String,
+    pub then_action: String,
+}
+
+// ── Constraint types ──────────────────────────────────────────────────
+
+/// Double-entry balance constraint.
+#[derive(Serialize, Deserialize, ToMessagePack, FromMessagePack, Debug, Clone)]
+pub struct BalancedConstraintDef {
+    pub group_key_column: String,
+    pub debit_value: String,
+    pub credit_value: String,
+    pub amount_column: String,
+    pub entry_type_column: String,
+}
+
+/// Period lock: binds a period column to a reference table for status checks.
+#[derive(Serialize, Deserialize, ToMessagePack, FromMessagePack, Debug, Clone)]
+pub struct PeriodLockDef {
+    pub period_column: String,
+    pub ref_table: String,
+    pub ref_pk: String,
+    pub status_column: String,
+    pub allowed_statuses: Vec<String>,
+}
+
+/// A legal hold tag preventing deletion.
+#[derive(Serialize, Deserialize, ToMessagePack, FromMessagePack, Debug, Clone)]
+pub struct LegalHold {
+    pub tag: String,
+    pub created_at: u64,
+    pub created_by: String,
+}
+
+pub use nodedb_physical::physical_plan::document::{
+    StateTransitionDef, TransitionCheckDef, TransitionRule,
+};
+
+/// General CHECK constraint: SQL boolean expression evaluated on the Control Plane
+/// before writes are dispatched to the Data Plane. May contain subqueries.
+///
+/// Stored as raw SQL so subqueries can be re-planned at evaluation time.
+#[derive(Serialize, Deserialize, ToMessagePack, FromMessagePack, Debug, Clone)]
+pub struct CheckConstraintDef {
+    /// Constraint name (user-chosen or auto-generated).
+    pub name: String,
+    /// Raw SQL boolean expression (may contain `NEW.field` references and subqueries).
+    pub check_sql: String,
+    /// Whether this CHECK contains a subquery (SELECT). Precomputed at DDL time
+    /// to skip the heavier evaluation path for simple expressions.
+    pub has_subquery: bool,
+}
+
+/// Materialized sum: on INSERT to source, atomically add value_expr to target balance.
+#[derive(Serialize, Deserialize, ToMessagePack, FromMessagePack, Debug, Clone)]
+pub struct MaterializedSumDef {
+    pub target_collection: String,
+    pub target_column: String,
+    pub source_collection: String,
+    pub join_column: String,
+    pub value_expr: SqlExpr,
+}

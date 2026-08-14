@@ -464,3 +464,13 @@ imposed.
      system acted (operational provenance) distinct from epistemic provenance. Completes the
      5-graph model.
 - Test suite 39 → **40/40**.
+
+## 2026-08-14 (cont.) — review + clone gap-filling repos (patalamix gaps B/C/G + paper-qa)
+- Reviewed uncloned interesting repos; cloned 4 that fill the patalamix review's identified gaps:
+  **agentstateprotocol** (execution branching, gap B), **deterministic-memory-layer** (deterministic
+  replay + causal caused-by, gap C), **nodedb** (local-first workstation, gap G), **paper-qa**
+  (scientific RAG evidence packets).
+- **`experiment-execution-replay.py`** — checkpoint/rollback/branch/merge (Git for AI thoughts) +
+  deterministic event replay + causal trace, added to our agent-delivery semantics. Closes gaps B+C and
+  completes the causal operational graph (5th graph) with real execution semantics.
+- GitHub index 95 → **99**. Matrix 40 → **41**. Test suite 40 → **41/41**.

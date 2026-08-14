@@ -1,0 +1,43 @@
+[package]
+name = "nodedb-types"
+description = "Portable type definitions shared between NodeDB Origin and NodeDB-Lite"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license = "Apache-2.0"
+readme = "README.md"
+repository.workspace = true
+homepage.workspace = true
+documentation = "https://docs.rs/nodedb-types"
+keywords = ["types", "ids", "errors", "shared", "nodedb"]
+categories = ["data-structures", "no-std"]
+
+[features]
+default = []
+# Arm the crash-injection points used by durability tests. Off by default, so
+# release builds compile every `fail_point!` away to nothing.
+failpoints = []
+
+[dependencies]
+serde = { workspace = true }
+serde_json = { workspace = true }
+tracing = { workspace = true }
+sonic-rs = { workspace = true }
+thiserror = { workspace = true }
+rkyv = { workspace = true }
+zerompk = { workspace = true }
+uuid = { workspace = true }
+ulid = { workspace = true }
+nanoid = { workspace = true }
+rand = { workspace = true }
+rust_decimal = { workspace = true }
+nodedb-codec = { workspace = true }
+crc32c = { workspace = true }
+roaring = { workspace = true }
+bytemuck = { workspace = true }
+aes-gcm = { workspace = true }
+getrandom = { workspace = true }
+sha2 = { workspace = true }
+
+[dev-dependencies]
+toml = { workspace = true }

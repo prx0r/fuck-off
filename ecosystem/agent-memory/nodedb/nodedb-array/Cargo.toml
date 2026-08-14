@@ -1,0 +1,28 @@
+[package]
+name = "nodedb-array"
+description = "Shared ND sparse array engine (coordinate-tuple indexed, tile-based) for NodeDB Origin and Lite"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license = "Apache-2.0"
+readme = "README.md"
+repository.workspace = true
+homepage.workspace = true
+documentation = "https://docs.rs/nodedb-array"
+keywords = ["array", "ndarray", "sparse", "tiledb", "scientific"]
+categories = ["science", "database-implementations"]
+
+[dependencies]
+nodedb-types = { workspace = true }
+nodedb-codec = { workspace = true }
+serde = { workspace = true }
+zerompk = { workspace = true }
+thiserror = { workspace = true }
+tracing = { workspace = true }
+crc32c = { workspace = true }
+uuid = { workspace = true }
+loro = { workspace = true }
+nodedb-wal = { workspace = true }
+
+[dev-dependencies]
+serde_json = { workspace = true }

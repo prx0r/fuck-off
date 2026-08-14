@@ -1,0 +1,202 @@
+# Reusable test workflow: fmt, clippy, and full test suite.
+#
+# Called by:
+#   - ci.yml      (PR checks)
+#   - release.yml (pre-publish gate)
+#
+# Cache strategy: both jobs share the same `target/` cache via
+# `shared-key: workspace`. The `lint` job seeds the cache on cold runs;
+# subsequent `test` runs start warm and only need to recompile what
+# changed. Avoids the previous 3x compile (lint + test + test-cluster).
+#
+# Job structure: fast tests and 3-node cluster tests run sequentially
+# in the same job so we don't pay the ~10-minute cold compile twice.
+
+name: Test
+
+on:
+  workflow_call:
+
+permissions:
+  contents: read
+
+env:
+  CARGO_TERM_COLOR: always
+  # Link the workspace's test binaries with mold instead of the default BFD
+  # linker. With --all-features every test binary statically links the full
+  # dependency closure and there are hundreds of them, so linking — not
+  # codegen — dominates the cold-cache build. mold cuts that link time several-
+  # fold. Applies to both jobs; installed via apt below.
+  RUSTFLAGS: "-C link-arg=-fuse-ld=mold"
+
+jobs:
+  lint:
+    name: Lint & Check
+    # Free ARM64 runner for public repos: ~40% faster per-core than
+    # ubuntu-latest at the same (zero) cost. The release workflows already
+    # build on ubuntu-24.04-arm, so the toolchain + system deps are proven
+    # on this ISA.
+    runs-on: ubuntu-24.04-arm
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+      - name: Install Rust
+        uses: dtolnay/rust-toolchain@4cda84d5c5c54efe2404f9d843567869ab1699d4 # stable
+        with:
+          components: rustfmt, clippy
+      - uses: Swatinem/rust-cache@e18b497796c12c097a38f9edb9d0641fb99eee32 # v2
+        with:
+          shared-key: workspace
+      - name: Install system deps
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends \
+            cmake clang libclang-dev pkg-config protobuf-compiler perl \
+            libcurl4-openssl-dev libsasl2-dev mold
+      - name: Check formatting
+        run: cargo fmt --all -- --check
+      - name: Run clippy
+        run: cargo clippy --workspace --all-targets --all-features --profile ci -- -D warnings
+      - name: Warm-storage ObjectStore gate
+        run: bash scripts/ci/check_warm_storage_gate.sh
+      - name: Format-path .expect() gate
+        run: bash scripts/ci/check_format_expects.sh
+      - name: Calvin determinism gate
+        run: bash scripts/ci/check_calvin_determinism.sh
+      - name: Plane-separation gate
+        run: bash scripts/ci/check_plane_separation.sh
+      - name: Raft transport-boundary gate
+        run: python3 scripts/ci/check_raft_transport_boundary.py
+      - name: Reconstructed-SQL gate
+        run: |
+          python3 scripts/ci/check_reconstructed_sql.py --self-test
+          python3 scripts/ci/check_reconstructed_sql.py
+      - name: Authorized-dispatch gate
+        run: |
+          python3 scripts/ci/check_authorized_dispatch.py --self-test
+          python3 scripts/ci/check_authorized_dispatch.py
+      - name: Robust-parsing gate
+        run: |
+          python3 scripts/ci/check_robust_parsing.py --self-test
+          python3 scripts/ci/check_robust_parsing.py
+      - name: Advisory-ignore policy gate
+        run: |
+          python3 scripts/ci/check_advisory_ignores.py --self-test
+          python3 scripts/ci/check_advisory_ignores.py
+      - name: Install cargo-deny
+        uses: taiki-e/install-action@065d6a08a14e61e89fb0a4c10eecdbdef39c7d8e # v2
+        with:
+          tool: cargo-deny@0.20.2
+      - name: Dependency audit
+        run: cargo deny check
+
+  # Single test job: runs the fast suite first, then the 3-node cluster
+  # suite (`nodedb-cluster-tests`) on the same runner. Combining them
+  # avoids a second cold compile of the whole workspace; the cluster
+  # crate is only a thin layer on top of the deps the fast suite has
+  # already built.
+  #
+  # `--no-fail-fast` so a regression surfaces every failure in one run.
+  # Cluster tests are intentionally not fail-fast either, but they are
+  # serialised by `.config/nextest.toml`'s `cluster` test group.
+  test:
+    name: Test
+    # Free ARM64 runner — see the lint job for rationale.
+    runs-on: ubuntu-24.04-arm
+    env:
+      # Test threads get 2 MiB of stack by default, which is not enough for this
+      # workspace's unoptimized test binaries on aarch64.
+      #
+      # The `ci` profile inherits `dev`, so it builds at opt-level 0, and an
+      # unoptimized frame is far larger than an optimized one — every local
+      # temporary gets its own stack slot instead of a register. Measured on the
+      # bounded-JSON decoder at its own MAX_JSON_DEPTH of 64: ~0.5 KiB of stack
+      # per nesting level at opt-level 1, but ~12 KiB at opt-level 0 on x86_64
+      # and enough on aarch64 to need between 2 and 3 MiB for the same document.
+      # That lands just past the 2 MiB default and the thread dies with
+      # "fatal runtime error: stack overflow" (SIGABRT) rather than a test
+      # failure. The in-process server tests overflow the same way on the deeper
+      # planner and dispatch paths.
+      #
+      # This is a property of unoptimized builds only — it does not reach a
+      # release binary. At opt-level 3 the same 64-deep document parses inside
+      # 2 MiB with room to spare, and sonic-rs rejects deeper input on its own
+      # recursion limit before stack depth becomes the binding constraint.
+      #
+      # RUST_MIN_STACK is the one knob that covers every thread class involved:
+      # libtest's per-test threads, tokio's worker threads, and tokio's blocking
+      # pool all spawn without an explicit stack size and so inherit it. 32 MiB
+      # matches the margin `nodedb-test-support`'s CoreLoop runner already found
+      # necessary for deep initialization in debug builds. Thread stacks are
+      # reserved lazily, so this costs address space rather than memory.
+      RUST_MIN_STACK: "33554432"
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+      - name: Reclaim disk and record resources
+        # Building the workspace's test binaries with --all-features writes on
+        # the order of 100 GB into target/: every test binary statically links
+        # the full dependency closure and lands in the hundreds of MB, and there
+        # are hundreds of them. A stock runner starts with barely more free
+        # space than that, and when it runs out mid-link the linker's
+        # memory-mapped write aborts with SIGBUS (signal 7) rather than a clean
+        # ENOSPC — which reads like a linker crash and not a full disk.
+        #
+        # Reclaim the large preinstalled toolchains this build never uses, then
+        # record the resources a failed mmap actually depends on. The `df` runs
+        # BEFORE the build, so it shows the headroom available to it, not what
+        # remained; read it as the budget, not the outcome.
+        run: |
+          sudo rm -rf \
+            /usr/local/lib/android \
+            /usr/share/dotnet \
+            /opt/ghc /usr/local/.ghcup \
+            /opt/hostedtoolcache/CodeQL \
+            /usr/share/swift
+          sudo docker image prune -af || true
+          echo "== memory =="; free -h
+          echo "== filesystems =="; df -h / /tmp /dev/shm
+          echo "== cpus =="; nproc
+      - name: Install Rust
+        uses: dtolnay/rust-toolchain@4cda84d5c5c54efe2404f9d843567869ab1699d4 # stable
+      - uses: Swatinem/rust-cache@e18b497796c12c097a38f9edb9d0641fb99eee32 # v2
+        with:
+          shared-key: workspace
+      - name: Install system deps
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends \
+            cmake clang libclang-dev pkg-config protobuf-compiler perl \
+            libcurl4-openssl-dev libsasl2-dev mold
+      - name: Install cargo-nextest
+        uses: taiki-e/install-action@065d6a08a14e61e89fb0a4c10eecdbdef39c7d8e # v2
+        with:
+          tool: nextest@0.9.140
+      - name: Run fast tests
+        run: |
+          cargo nextest run \
+            --workspace --exclude nodedb-cluster-tests \
+            --all-features \
+            --cargo-profile ci --profile ci \
+            --no-fail-fast
+      - name: Run cluster tests
+        run: |
+          cargo nextest run \
+            -p nodedb-cluster-tests \
+            --all-features \
+            --cargo-profile ci --profile ci \
+            --no-fail-fast
+      - name: Record disk after build
+        if: always()
+        # Counterpart to the pre-build reading: that one is the budget, this is
+        # what the build actually left. Runs even on failure, so a linker abort
+        # can be attributed to a full disk instead of inferred. `target/` is
+        # reported separately because it is what grows.
+        run: |
+          echo "== filesystems =="; df -h / /tmp /dev/shm
+          echo "== target/ =="; du -sh target 2>/dev/null || true
+      - name: Upload JUnit report
+        if: always()
+        uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7
+        with:
+          name: junit-report
+          path: target/nextest/ci/junit.xml
+          if-no-files-found: ignore

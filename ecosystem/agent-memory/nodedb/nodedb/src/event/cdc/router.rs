@@ -1,0 +1,489 @@
+// SPDX-License-Identifier: BUSL-1.1
+
+//! CDC event router: matches WriteEvents to registered change streams.
+//!
+//! For each WriteEvent, finds all matching change streams (by tenant,
+//! collection, and operation filter), formats the event as a CdcEvent,
+//! and pushes it into the stream's retention buffer.
+
+use std::collections::HashMap;
+use std::sync::Arc;
+use std::time::{SystemTime, UNIX_EPOCH};
+
+use sonic_rs;
+use tracing::trace;
+
+use super::buffer::StreamBuffer;
+use super::event::CdcEvent;
+use super::lag_warner::{CdcLagWarner, DEFAULT_THRESHOLD};
+use super::registry::StreamRegistry;
+use super::stream_def::LateDataPolicy;
+use crate::control::metrics::system::SystemMetrics;
+use crate::event::types::WriteEvent;
+use crate::event::watermark_tracker::WatermarkTracker;
+use crate::types::DatabaseId;
+
+/// Manages per-stream buffers and routes events to matching streams.
+pub struct CdcRouter {
+    /// Stream registry (shared with DDL handlers).
+    registry: Arc<StreamRegistry>,
+    /// Per-stream retention buffers, keyed by `(database_id, tenant_id, stream_name)`.
+    buffers: std::sync::RwLock<HashMap<(DatabaseId, u64, String), Arc<StreamBuffer>>>,
+    /// Per-stream drop rate tracker — emits `warn!` when threshold is crossed.
+    lag_warner: CdcLagWarner,
+    /// System metrics for per-stream Prometheus counters. `None` in unit tests
+    /// that construct a router without a full metrics registry.
+    metrics: Option<Arc<SystemMetrics>>,
+}
+
+impl CdcRouter {
+    pub fn new(registry: Arc<StreamRegistry>) -> Self {
+        Self {
+            registry,
+            buffers: std::sync::RwLock::new(HashMap::new()),
+            lag_warner: CdcLagWarner::new(DEFAULT_THRESHOLD),
+            metrics: None,
+        }
+    }
+
+    /// Attach system metrics so the router can update
+    /// `nodedb_cdc_events_dropped_total{tenant, stream}` on each eviction.
+    pub fn with_metrics(mut self, metrics: Arc<SystemMetrics>) -> Self {
+        self.metrics = Some(metrics);
+        self
+    }
+
+    /// Route a WriteEvent to all matching change streams.
+    ///
+    /// Called from the Event Plane consumer for every event (after trigger dispatch).
+    /// `watermark_tracker` is used to enforce late-data policies.
+    pub fn route_event(&self, event: &WriteEvent, watermark_tracker: &WatermarkTracker) {
+        // Heartbeats advance Event Plane watermarks only; a synthetic heartbeat
+        // has no database owner and must never enter a database-scoped stream.
+        if !event.op.is_data_event() {
+            return;
+        }
+        let matching = self.registry.find_matching(
+            event.database_id,
+            event.tenant_id.as_u64(),
+            &event.collection,
+        );
+
+        if matching.is_empty() {
+            return;
+        }
+
+        let op_str = event.op.to_string();
+        let now_ms = SystemTime::now()
+            .duration_since(UNIX_EPOCH)
+            .unwrap_or_default()
+            .as_millis() as u64;
+
+        // Deserialize row data once (shared across all matching streams).
+        let new_value = event
+            .new_value
+            .as_ref()
+            .and_then(|v| deserialize_to_json(v));
+        let old_value = event
+            .old_value
+            .as_ref()
+            .and_then(|v| deserialize_to_json(v));
+
+        // Compute the UPDATE field diffs once per WriteEvent (shared across fan-out).
+        let field_diffs = if op_str == "UPDATE" {
+            match (&old_value, &new_value) {
+                (Some(old), Some(new)) => {
+                    let diffs = crate::event::field_diff::compute_field_diffs(old, new);
+                    if diffs.is_empty() { None } else { Some(diffs) }
+                }
+                _ => None,
+            }
+        } else {
+            None
+        };
+
+        // Build the CdcEvent once and share the same Arc across every matching
+        // stream. Fan-out to N streams becomes N refcount bumps, not N deep
+        // copies of the payload + diffs.
+        let cdc_event = Arc::new(CdcEvent {
+            sequence: event.sequence,
+            partition: event.vshard_id.as_u32(),
+            collection: event.collection.to_string(),
+            op: op_str.clone(),
+            row_id: event.row_id.as_str().to_string(),
+            event_time: now_ms,
+            lsn: event.lsn.as_u64(),
+            tenant_id: event.tenant_id.as_u64(),
+            database_id: event.database_id,
+            new_value: new_value.clone(),
+            old_value: old_value.clone(),
+            schema_version: 0,
+            field_diffs,
+            system_time_ms: event.system_time_ms,
+            valid_time_ms: event.valid_time_ms,
+        });
+
+        // RECOMPUTE correction (only built if any stream actually needs it).
+        let mut recompute: Option<Arc<CdcEvent>> = None;
+
+        for def in &matching {
+            if !def.op_filter.matches(&op_str) {
+                continue;
+            }
+
+            let partition_wm = watermark_tracker.partition_watermark(event.vshard_id.as_u32());
+            let is_late = event.lsn.as_u64() <= partition_wm && partition_wm > 0;
+
+            if is_late {
+                match def.late_data {
+                    LateDataPolicy::Drop => {
+                        trace!(
+                            stream = %def.name,
+                            lsn = event.lsn.as_u64(),
+                            watermark = partition_wm,
+                            "late event dropped by LATE_DATA = DROP policy"
+                        );
+                        continue;
+                    }
+                    LateDataPolicy::Allow => {}
+                    LateDataPolicy::Recompute => {}
+                }
+            }
+
+            let buffer = self.get_or_create_buffer(
+                def.database_id,
+                def.tenant_id,
+                &def.name,
+                &def.retention,
+            );
+            let evictions = buffer.push(Arc::clone(&cdc_event));
+            if evictions > 0 {
+                let oldest_lsn = buffer.earliest_offset().map_or(0, |offset| offset.lsn);
+                self.lag_warner
+                    .record_drops(def.tenant_id, &def.name, evictions, oldest_lsn);
+                if let Some(m) = &self.metrics {
+                    m.record_cdc_stream_drop(def.tenant_id, &def.name, evictions);
+                }
+            }
+
+            if is_late && def.late_data == LateDataPolicy::Recompute {
+                let correction = recompute
+                    .get_or_insert_with(|| {
+                        Arc::new(CdcEvent {
+                            sequence: event.sequence,
+                            partition: event.vshard_id.as_u32(),
+                            collection: event.collection.to_string(),
+                            op: "RECOMPUTE".to_string(),
+                            row_id: event.row_id.as_str().to_string(),
+                            event_time: now_ms,
+                            lsn: event.lsn.as_u64(),
+                            tenant_id: event.tenant_id.as_u64(),
+                            database_id: event.database_id,
+                            new_value: new_value.clone(),
+                            old_value: None,
+                            schema_version: 0,
+                            field_diffs: None,
+                            system_time_ms: event.system_time_ms,
+                            valid_time_ms: event.valid_time_ms,
+                        })
+                    })
+                    .clone();
+                let correction_evictions = buffer.push(correction);
+                if correction_evictions > 0 {
+                    let oldest_lsn = buffer.earliest_offset().map_or(0, |offset| offset.lsn);
+                    self.lag_warner.record_drops(
+                        def.tenant_id,
+                        &def.name,
+                        correction_evictions,
+                        oldest_lsn,
+                    );
+                    if let Some(m) = &self.metrics {
+                        m.record_cdc_stream_drop(def.tenant_id, &def.name, correction_evictions);
+                    }
+                }
+                trace!(
+                    stream = %def.name,
+                    lsn = event.lsn.as_u64(),
+                    "RECOMPUTE correction emitted for late event"
+                );
+            }
+
+            trace!(
+                stream = %def.name,
+                collection = %event.collection,
+                op = %op_str,
+                lsn = event.lsn.as_u64(),
+                "CDC event routed"
+            );
+        }
+    }
+
+    /// Get or create a buffer for a stream.
+    fn get_or_create_buffer(
+        &self,
+        database_id: DatabaseId,
+        tenant_id: u64,
+        stream_name: &str,
+        retention: &super::stream_def::RetentionConfig,
+    ) -> Arc<StreamBuffer> {
+        let key = (database_id, tenant_id, stream_name.to_string());
+
+        // Fast path: read lock.
+        {
+            let buffers = self.buffers.read().unwrap_or_else(|p| p.into_inner());
+            if let Some(buf) = buffers.get(&key) {
+                return Arc::clone(buf);
+            }
+        }
+
+        // Slow path: write lock + create.
+        let mut buffers = self.buffers.write().unwrap_or_else(|p| p.into_inner());
+        buffers
+            .entry(key)
+            .or_insert_with(|| {
+                Arc::new(StreamBuffer::new(
+                    stream_name.to_string(),
+                    retention.clone(),
+                ))
+            })
+            .clone()
+    }
+
+    /// Ensure a buffer exists for a given key (stream or topic). Creates if missing.
+    pub fn ensure_buffer(
+        &self,
+        database_id: DatabaseId,
+        tenant_id: u64,
+        name: &str,
+        retention: &super::stream_def::RetentionConfig,
+    ) -> Arc<StreamBuffer> {
+        self.get_or_create_buffer(database_id, tenant_id, name, retention)
+    }
+
+    /// Get a buffer for a stream (if it exists). Used by consumers to poll events.
+    pub fn get_buffer(
+        &self,
+        database_id: DatabaseId,
+        tenant_id: u64,
+        stream_name: &str,
+    ) -> Option<Arc<StreamBuffer>> {
+        let key = (database_id, tenant_id, stream_name.to_string());
+        let buffers = self.buffers.read().unwrap_or_else(|p| p.into_inner());
+        buffers.get(&key).cloned()
+    }
+
+    /// Remove a buffer when a stream is dropped.
+    pub fn remove_buffer(&self, database_id: DatabaseId, tenant_id: u64, stream_name: &str) {
+        let key = (database_id, tenant_id, stream_name.to_string());
+        let mut buffers = self.buffers.write().unwrap_or_else(|p| p.into_inner());
+        buffers.remove(&key);
+        self.lag_warner.remove_stream(tenant_id, stream_name);
+    }
+
+    /// Snapshot of all buffer stats (for SHOW CHANGE STREAMS).
+    pub fn buffer_stats(&self) -> Vec<BufferStats> {
+        let buffers = self.buffers.read().unwrap_or_else(|p| p.into_inner());
+        buffers
+            .iter()
+            .map(|((database_id, tid, name), buf)| BufferStats {
+                database_id: *database_id,
+                tenant_id: *tid,
+                stream_name: name.clone(),
+                buffered_events: buf.len(),
+                total_pushed: buf.total_pushed(),
+                total_evicted: buf.total_evicted(),
+                earliest_offset: buf.earliest_offset(),
+                latest_offset: buf.latest_offset(),
+            })
+            .collect()
+    }
+}
+
+/// Buffer statistics for observability.
+pub struct BufferStats {
+    pub database_id: DatabaseId,
+    pub tenant_id: u64,
+    pub stream_name: String,
+    pub buffered_events: usize,
+    pub total_pushed: u64,
+    pub total_evicted: u64,
+    pub earliest_offset: Option<super::offset::CdcOffset>,
+    pub latest_offset: Option<super::offset::CdcOffset>,
+}
+
+/// Deserialize bytes (MessagePack or JSON) to serde_json::Value.
+fn deserialize_to_json(bytes: &[u8]) -> Option<serde_json::Value> {
+    nodedb_types::json_from_msgpack(bytes)
+        .ok()
+        .or_else(|| sonic_rs::from_slice::<serde_json::Value>(bytes).ok())
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+    use crate::event::cdc::CdcOffset;
+    use crate::event::cdc::stream_def::*;
+    use crate::event::types::{EventSource, RowId, WriteOp};
+    use crate::event::watermark_tracker::WatermarkTracker;
+    use crate::types::{Lsn, TenantId, VShardId};
+
+    fn test_tracker() -> WatermarkTracker {
+        WatermarkTracker::new()
+    }
+
+    fn make_write_event(collection: &str, seq: u64) -> WriteEvent {
+        WriteEvent {
+            sequence: seq,
+            collection: Arc::from(collection),
+            op: WriteOp::Insert,
+            row_id: RowId::new(format!("row-{seq}")),
+            lsn: Lsn::new(seq * 10),
+            database_id: DatabaseId::new(7),
+            tenant_id: TenantId::new(1),
+            vshard_id: VShardId::new(0),
+            source: EventSource::User,
+            new_value: Some(Arc::from(
+                serde_json::to_vec(&serde_json::json!({"id": seq}))
+                    .unwrap()
+                    .as_slice(),
+            )),
+            old_value: None,
+            system_time_ms: None,
+            valid_time_ms: None,
+            user_id: None,
+            statement_digest: None,
+        }
+    }
+
+    fn sample_def(name: &str, collection: &str) -> ChangeStreamDef {
+        ChangeStreamDef {
+            database_id: DatabaseId::new(7),
+            tenant_id: 1,
+            name: name.into(),
+            collection: collection.into(),
+            op_filter: OpFilter::all(),
+            format: StreamFormat::Json,
+            retention: RetentionConfig {
+                max_events: 1000,
+                max_age_secs: 3600,
+            },
+            compaction: CompactionConfig::default(),
+            webhook: crate::event::webhook::WebhookConfig::default(),
+            late_data: LateDataPolicy::default(),
+            kafka: crate::event::kafka::KafkaDeliveryConfig::default(),
+            owner: "admin".into(),
+            created_at: 0,
+            subscriber_roles: Vec::new(),
+        }
+    }
+
+    #[test]
+    fn routes_to_matching_stream() {
+        let registry = Arc::new(StreamRegistry::new());
+        registry.register(sample_def("orders_stream", "orders"));
+        let router = CdcRouter::new(registry);
+
+        let wt = test_tracker();
+        router.route_event(&make_write_event("orders", 1), &wt);
+
+        let buf = router
+            .get_buffer(DatabaseId::new(7), 1, "orders_stream")
+            .unwrap();
+        assert_eq!(buf.len(), 1);
+        let events = buf.read_from(CdcOffset::ZERO, 10);
+        assert_eq!(events[0].collection, "orders");
+    }
+
+    #[test]
+    fn skips_unmatched_collection() {
+        let registry = Arc::new(StreamRegistry::new());
+        registry.register(sample_def("orders_stream", "orders"));
+        let router = CdcRouter::new(registry);
+
+        let wt = test_tracker();
+        router.route_event(&make_write_event("users", 1), &wt);
+
+        assert!(
+            router
+                .get_buffer(DatabaseId::new(7), 1, "orders_stream")
+                .is_none()
+        );
+    }
+
+    #[test]
+    fn wildcard_catches_all() {
+        let registry = Arc::new(StreamRegistry::new());
+        registry.register(sample_def("all_changes", "*"));
+        let router = CdcRouter::new(registry);
+
+        let wt = test_tracker();
+        router.route_event(&make_write_event("orders", 1), &wt);
+        router.route_event(&make_write_event("users", 2), &wt);
+
+        let buf = router
+            .get_buffer(DatabaseId::new(7), 1, "all_changes")
+            .unwrap();
+        assert_eq!(buf.len(), 2);
+    }
+
+    #[test]
+    fn op_filter_skips_non_matching() {
+        let registry = Arc::new(StreamRegistry::new());
+        let mut def = sample_def("inserts_only", "orders");
+        def.op_filter = OpFilter {
+            insert: true,
+            update: false,
+            delete: false,
+        };
+        registry.register(def);
+        let router = CdcRouter::new(registry);
+
+        let wt = test_tracker();
+        // Insert matches.
+        router.route_event(&make_write_event("orders", 1), &wt);
+
+        // DELETE does not match.
+        let delete_event = WriteEvent {
+            op: WriteOp::Delete,
+            ..make_write_event("orders", 2)
+        };
+        router.route_event(&delete_event, &wt);
+
+        let buf = router
+            .get_buffer(DatabaseId::new(7), 1, "inserts_only")
+            .unwrap();
+        assert_eq!(buf.len(), 1); // Only the insert.
+    }
+
+    #[test]
+    fn heartbeat_never_enters_database_scoped_stream() {
+        let registry = Arc::new(StreamRegistry::new());
+        registry.register(sample_def("orders_stream", "_heartbeat"));
+        let router = CdcRouter::new(registry);
+        let heartbeat = WriteEvent {
+            op: WriteOp::Heartbeat,
+            ..make_write_event("_heartbeat", 1)
+        };
+
+        router.route_event(&heartbeat, &test_tracker());
+        assert!(
+            router
+                .get_buffer(DatabaseId::new(7), 1, "orders_stream")
+                .is_none()
+        );
+    }
+
+    #[test]
+    fn remove_buffer_on_drop() {
+        let registry = Arc::new(StreamRegistry::new());
+        registry.register(sample_def("s1", "orders"));
+        let router = CdcRouter::new(registry);
+
+        let wt = test_tracker();
+        router.route_event(&make_write_event("orders", 1), &wt);
+        assert!(router.get_buffer(DatabaseId::new(7), 1, "s1").is_some());
+
+        router.remove_buffer(DatabaseId::new(7), 1, "s1");
+        assert!(router.get_buffer(DatabaseId::new(7), 1, "s1").is_none());
+    }
+}

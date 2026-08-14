@@ -1,0 +1,384 @@
+# Manual distribution workflow. Push a v* tag first; `Release Prepare` runs the
+# test suite and builds the server binaries. Then run this workflow with that
+# tag and the successful prepare run ID.
+#
+# NOTHING HERE COMPILES. Every stage consumes the prepare run's artifacts, so a
+# failure in one stage is retried by re-dispatching with only that stage
+# enabled — the tests, the binaries, and the Docker image are never rebuilt to
+# fix a Discord webhook or a crates.io timeout.
+#
+# Stages, in dependency order:
+#   publish_crates  -> crates.io, dependency-ordered (graph tsort)
+#   docker          -> per-arch images + multi-arch manifest   (full releases only)
+#   github_release  -> GitHub Release with the binary tarballs
+#   notify          -> Discord announcement                    (full releases only)
+#
+# Each stage is idempotent: crates already on crates.io are skipped, image tags
+# and the release are overwritten in place. Re-running everything is safe; the
+# toggles exist to save time, not to protect against double-publishing.
+#
+# Required secrets: CARGO_REGISTRY_TOKEN, DOCKERHUB_USERNAME, DOCKERHUB_TOKEN,
+# DISCORD_RELEASE_WEBHOOK_URL.
+
+name: Release
+run-name: Release ${{ inputs.tag }}
+
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: "Release tag to publish, e.g. v0.2.0"
+        required: true
+        type: string
+      prepare_run_id:
+        description: "Successful Release Prepare run ID holding the binaries"
+        required: true
+        type: string
+      ref:
+        description: "Ref to take workflow/Dockerfile/scripts from. Defaults to the tag; override to pick up a distribution-only fix without re-tagging."
+        required: false
+        type: string
+      publish_crates:
+        description: "Publish crates to crates.io"
+        type: boolean
+        default: true
+      docker:
+        description: "Build and push Docker images"
+        type: boolean
+        default: true
+      github_release:
+        description: "Create the GitHub Release"
+        type: boolean
+        default: true
+      notify:
+        description: "Announce on Discord"
+        type: boolean
+        default: true
+
+concurrency:
+  group: release
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+env:
+  CARGO_TERM_COLOR: always
+
+jobs:
+  # Always runs. Cheap, and it guarantees the dispatched tag still means what
+  # the prepare run assumed it meant.
+  validate-version:
+    uses: ./.github/workflows/release-validate.yml
+    with:
+      ref: ${{ inputs.tag }}
+
+  # ── crates.io ────────────────────────────────────────────────────────────────
+  # All 8 tiers in one job, with is_published checks and wait_for polling, so a
+  # re-run never double-publishes an already-indexed crate and never races the
+  # index for a dependency it just pushed.
+  publish-crates:
+    name: Publish to crates.io
+    needs: validate-version
+    if: inputs.publish_crates
+    runs-on: ubuntu-latest
+    environment: crates.io
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          ref: ${{ inputs.tag }}
+
+      - name: Install Rust
+        uses: dtolnay/rust-toolchain@4cda84d5c5c54efe2404f9d843567869ab1699d4 # stable
+
+      - name: Install system deps
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends \
+            cmake clang libclang-dev pkg-config protobuf-compiler perl \
+            libcurl4-openssl-dev libsasl2-dev
+
+      - name: Set version from tag
+        run: bash scripts/ci/stamp_version.sh "${{ needs.validate-version.outputs.version }}"
+
+      - name: Publish crates
+        env:
+          CARGO_REGISTRY_TOKEN: ${{ secrets.CARGO_REGISTRY_TOKEN }}
+        run: |
+          set -euo pipefail
+
+          # Publish order is derived from the actual dependency graph, never
+          # hand-maintained tiers — a `cargo metadata` + `tsort` topological sort
+          # so a dependency is always on the index before any crate that needs it.
+          # Add/re-wire a crate and the order self-updates; nothing here to edit.
+          META=$(cargo metadata --no-deps --format-version=1)
+
+          # Publishable workspace crates only (drop `publish = false` helpers such
+          # as test-support / cluster-tests, whose `.publish` is []).
+          mapfile -t PUBLISHABLE < <(
+            jq -r '.packages[]
+                   | select(.publish == null or (.publish | length > 0))
+                   | .name' <<<"$META"
+          )
+          SET=$(printf '%s\n' "${PUBLISHABLE[@]}" | jq -R . | jq -s .)
+
+          # Edges "<dependency> <dependent>" over internal normal/build deps only
+          # (dev-deps are path-only and stripped on publish; including them could
+          # introduce cycles tsort can't order). tsort emits deps before dependents.
+          EDGES=$(jq -r --argjson P "$SET" '
+            .packages[]
+            | select(.name as $n | $P | index($n))
+            | .name as $dependent
+            | .dependencies[]
+            | select(.kind == null or .kind == "build")
+            | select(.name as $d | $P | index($d))
+            | "\(.name) \($dependent)"
+          ' <<<"$META")
+
+          ORDER=$(tsort <<<"$EDGES")
+          # Isolated crates (no internal deps, nothing depends on them) never
+          # appear in an edge — prepend any that tsort dropped.
+          for crate in "${PUBLISHABLE[@]}"; do
+            grep -qxF "$crate" <<<"$ORDER" || ORDER=$(printf '%s\n%s' "$crate" "$ORDER")
+          done
+
+          echo "Publish order:"
+          printf '  %s\n' $ORDER
+
+          is_published() {
+            curl -sf \
+              -H "User-Agent: nodedb-ci (github.com/NodeDB-Lab/nodedb)" \
+              "https://crates.io/api/v1/crates/$1/$2" > /dev/null 2>&1
+          }
+
+          wait_for() {
+            local crate="$1" version="$2"
+            echo -n "  Waiting for $crate@$version..."
+            for i in $(seq 1 30); do
+              if is_published "$crate" "$version"; then
+                echo " ready"
+                return 0
+              fi
+              sleep 5
+            done
+            echo " timed out!"
+            return 1
+          }
+
+          for crate in $ORDER; do
+            VERSION=$(jq -r --arg name "$crate" \
+              '.packages[] | select(.name == $name) | .version' <<<"$META")
+            if is_published "$crate" "$VERSION"; then
+              echo "  $crate@$VERSION already published — skipping"
+            else
+              echo "  Publishing $crate@$VERSION..."
+              cargo publish -p "$crate" --allow-dirty --no-verify
+              # Wait for the index before the next (dependent) crate publishes.
+              wait_for "$crate" "$VERSION"
+            fi
+          done
+
+  # ── Docker (full releases only) ──────────────────────────────────────────────
+  # Native runner per arch (no QEMU). The image is assembled from the binary the
+  # prepare run already built: `--build-context binary=` overrides the Dockerfile
+  # stage of the same name, so Buildx prunes the compile stages entirely and the
+  # build is a two-layer copy.
+  docker-build:
+    name: Docker build (${{ matrix.label }})
+    needs: validate-version
+    if: inputs.docker && needs.validate-version.outputs.is_full_release == 'true'
+    runs-on: ${{ matrix.runs-on }}
+    permissions:
+      contents: read
+      actions: read
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - runs-on: ubuntu-latest
+            platform: linux/amd64
+            label: amd64
+            binary: binary-linux-x64
+          - runs-on: ubuntu-24.04-arm
+            platform: linux/arm64
+            label: arm64
+            binary: binary-linux-arm64
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          ref: ${{ inputs.ref || inputs.tag }}
+
+      - name: Download prebuilt binary
+        uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8
+        with:
+          name: ${{ matrix.binary }}
+          run-id: ${{ inputs.prepare_run_id }}
+          github-token: ${{ github.token }}
+          path: ./binctx
+
+      - name: Make binary executable
+        run: chmod +x ./binctx/nodedb
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@bb05f3f5519dd87d3ba754cc423b652a5edd6d2c # v4
+
+      - name: Log in to Docker Hub
+        uses: docker/login-action@dbcb813823bdd20940b903addbd779551569679f # v4
+        with:
+          username: ${{ secrets.DOCKERHUB_USERNAME }}
+          password: ${{ secrets.DOCKERHUB_TOKEN }}
+
+      - name: Build and push platform image
+        uses: docker/build-push-action@53b7df96c91f9c12dcc8a07bcb9ccacbed38856a # v7
+        with:
+          context: .
+          build-contexts: binary=./binctx
+          platforms: ${{ matrix.platform }}
+          push: true
+          tags: farhansyah/nodedb:${{ needs.validate-version.outputs.version }}-${{ matrix.label }}
+          sbom: true
+          provenance: mode=max
+
+      # The binary is now compiled on the runner (glibc 2.39) rather than inside
+      # the Debian builder stage, so the runtime base must be able to load it.
+      # Exercise the pushed per-arch tag before it can reach the multi-arch
+      # manifest: `latest` is only ever built from images that have run.
+      - name: Smoke-test pushed image
+        run: |
+          docker run --rm --pull=always \
+            farhansyah/nodedb:${{ needs.validate-version.outputs.version }}-${{ matrix.label }} \
+            --version
+
+  docker-manifest:
+    name: Docker manifest
+    needs: [validate-version, docker-build]
+    if: inputs.docker && needs.validate-version.outputs.is_full_release == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Log in to Docker Hub
+        uses: docker/login-action@dbcb813823bdd20940b903addbd779551569679f # v4
+        with:
+          username: ${{ secrets.DOCKERHUB_USERNAME }}
+          password: ${{ secrets.DOCKERHUB_TOKEN }}
+      - name: Create and push multi-arch manifest
+        env:
+          VERSION: ${{ needs.validate-version.outputs.version }}
+        run: |
+          docker buildx imagetools create \
+            --tag farhansyah/nodedb:${VERSION} \
+            --tag farhansyah/nodedb:latest \
+            farhansyah/nodedb:${VERSION}-amd64 \
+            farhansyah/nodedb:${VERSION}-arm64
+
+  # ── GitHub Release ───────────────────────────────────────────────────────────
+  # Deliberately independent of publish-crates and docker: a crates.io outage
+  # must not block cutting the release, and re-running this stage alone is the
+  # fix for a bad release body.
+  github-release:
+    name: Create GitHub Release
+    needs: validate-version
+    if: inputs.github_release
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      actions: read
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          ref: ${{ inputs.tag }}
+
+      - name: Download binary artifacts
+        uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8
+        with:
+          pattern: "server-*"
+          run-id: ${{ inputs.prepare_run_id }}
+          github-token: ${{ github.token }}
+          path: ./artifacts
+          merge-multiple: true
+
+      - name: Download SBOM artifact
+        uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8
+        with:
+          name: nodedb-sbom
+          run-id: ${{ inputs.prepare_run_id }}
+          github-token: ${{ github.token }}
+          path: ./artifacts
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@3d0d9888cb7fd7b750713d6e236d1fcb99157228 # v3
+        with:
+          tag_name: ${{ inputs.tag }}
+          name: NodeDB ${{ needs.validate-version.outputs.version }}
+          generate_release_notes: true
+          draft: false
+          prerelease: ${{ needs.validate-version.outputs.is_full_release != 'true' }}
+          files: artifacts/*
+          fail_on_unmatched_files: true
+
+  # ── Discord (full releases only) ─────────────────────────────────────────────
+  notify-discord:
+    name: Notify Discord
+    needs: [validate-version, publish-crates, github-release]
+    if: >-
+      always() &&
+      inputs.notify &&
+      needs.validate-version.outputs.is_full_release == 'true' &&
+      needs.publish-crates.result != 'failure' &&
+      needs.publish-crates.result != 'cancelled' &&
+      needs.github-release.result != 'failure' &&
+      needs.github-release.result != 'cancelled'
+    runs-on: ubuntu-latest
+    # NOTE: this is the ONE non-idempotent stage — every run POSTs a fresh Discord
+    # message (crates/docker/github-release all overwrite or skip in place). It is
+    # guarded only by the `notify` input: leave `notify: false` when re-dispatching
+    # already-announced releases, or you will double-post.
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          ref: ${{ inputs.tag }}
+          fetch-depth: 0
+
+      - name: Build changelog and post to Discord
+        env:
+          DISCORD_RELEASE_WEBHOOK_URL: ${{ secrets.DISCORD_RELEASE_WEBHOOK_URL }}
+          VERSION: ${{ needs.validate-version.outputs.version }}
+          IS_FULL: ${{ needs.validate-version.outputs.is_full_release }}
+          REPO: ${{ github.repository }}
+        run: |
+          set -euo pipefail
+          TAG="v${VERSION}"
+          PREV_TAG=$(python3 .github/scripts/prev_tag.py "$TAG")
+
+          if [[ -n "$PREV_TAG" ]]; then
+            RANGE="${PREV_TAG}..${TAG}"
+            COMPARE_URL="https://github.com/${REPO}/compare/${PREV_TAG}...${TAG}"
+          else
+            RANGE="${TAG}"
+            COMPARE_URL="https://github.com/${REPO}/releases/tag/${TAG}"
+          fi
+
+          COMMITS=$(git log "$RANGE" --pretty=format:'- %s (%h)' --no-merges --max-count=25)
+          [[ -z "$COMMITS" ]] && COMMITS="- (no commits found)"
+
+          COUNT=$(git rev-list --count --no-merges "$RANGE" 2>/dev/null || echo 0)
+
+          if [[ "$IS_FULL" == "true" ]]; then
+            COLOR=3066993   # green
+            TITLE="🚀 New Release: NodeDB ${VERSION}"
+          else
+            COLOR=15844367  # amber
+            TITLE="🚧 New Pre-Release: NodeDB ${VERSION}"
+          fi
+
+          DESC=$(printf '**Changes since %s** (%s commits)\n%s\n\n[Full changelog](%s) · [Release notes](https://github.com/%s/releases/tag/%s)' \
+            "${PREV_TAG:-start}" "$COUNT" "$COMMITS" "$COMPARE_URL" "$REPO" "$TAG")
+
+          PAYLOAD=$(jq -n \
+            --arg title "$TITLE" \
+            --arg desc "$DESC" \
+            --arg url "https://github.com/${REPO}/releases/tag/${TAG}" \
+            --argjson color "$COLOR" \
+            '{embeds:[{title:$title,url:$url,description:$desc,color:$color}]}')
+
+          curl -fsS -H "Content-Type: application/json" \
+            -X POST -d "$PAYLOAD" "$DISCORD_RELEASE_WEBHOOK_URL"

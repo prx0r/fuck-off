@@ -1,0 +1,584 @@
+// SPDX-License-Identifier: BUSL-1.1
+
+//! `SharedState::open` — production constructor loading from disk.
+
+use std::sync::atomic::AtomicU64;
+use std::sync::{Arc, Mutex};
+
+use nodedb_types::config::TuningConfig;
+
+use crate::bridge::dispatch::Dispatcher;
+use crate::control::request_tracker::RequestTracker;
+use crate::control::security::metering::config::MeteringConfig;
+use crate::control::security::metering::quota::QuotaManager;
+use crate::control::security::metering::store::UsageStore;
+use crate::control::security::ratelimit::config::RateLimitConfig;
+use crate::control::security::ratelimit::limiter::RateLimiter;
+use crate::control::security::tenant::{TenantIsolation, TenantQuota};
+use crate::control::server::sync::dlq::{DlqConfig, SyncDlq};
+use crate::wal::WalManager;
+
+use crate::control::state::SharedState;
+
+impl SharedState {
+    /// Create shared state with persistent credential store (for production).
+    pub fn open(
+        dispatcher: Dispatcher,
+        wal: Arc<WalManager>,
+        catalog_path: &std::path::Path,
+        auth_config: &crate::config::auth::AuthConfig,
+        tuning: TuningConfig,
+        quiesce: Arc<crate::bridge::quiesce::CollectionQuiesce>,
+        array_catalog: crate::control::array_catalog::ArrayCatalogHandle,
+    ) -> crate::Result<Arc<Self>> {
+        let super::bootstrap::ProdBootstrap {
+            credentials,
+            producer_registry,
+            api_keys,
+            roles,
+            permissions,
+            blacklist,
+            trigger_registry,
+            stream_registry,
+            group_registry,
+            schedule_registry,
+            synonym_registry,
+            custom_type_registry,
+            retention_policy_registry,
+            alert_registry,
+            alert_hysteresis,
+            ep_topic_registry,
+            mv_registry,
+            sequence_registry,
+            rls_store,
+            redaction_store,
+            shared_audit,
+            database_registry,
+            surrogate_registry_handle,
+            surrogate_assigner,
+            permission_cache,
+            shutdown,
+            loop_registry,
+            startup_gate,
+            system_metrics,
+            prod_session_registry,
+            si_bus,
+            uc_bus,
+            bus_consumer_handle,
+        } = super::bootstrap::run(&wal, catalog_path, auth_config)?;
+
+        // `auth_config.metering` is `None` unless the operator configured a
+        // `[metering]` section; fall back to `MeteringConfig::default()` so
+        // the effective bounds always match a real `MeteringConfig` value
+        // (same source `init.rs`'s test constructor pins to) instead of the
+        // separately-hardcoded `UsageStore`/`QuotaManager` `Default` impls.
+        let metering_defaults = MeteringConfig::default();
+        let metering_config = auth_config.metering.as_ref().unwrap_or(&metering_defaults);
+
+        // `auth_config.rate_limit` is `None` unless the operator configured a
+        // `[auth.rate_limit]` section; fall back to `RateLimitConfig::default()`
+        // (same source `init.rs`'s test constructor pins to) so the limiter's
+        // effective config always matches a real `RateLimitConfig` value
+        // instead of the separately-hardcoded `RateLimiter::default()` impl.
+        let rate_limit_defaults = RateLimitConfig::default();
+        let rate_limit_config = auth_config
+            .rate_limit
+            .as_ref()
+            .unwrap_or(&rate_limit_defaults);
+
+        // `auth_config.siem` is `None` unless the operator configured an
+        // `[auth.siem]` section; the default leaves `destinations` empty and
+        // `webhook_url` blank, so `is_configured()` is false and the export
+        // path stays dormant. When it *is* configured the exporter shares the
+        // process-wide HTTP client rather than building its own pool.
+        let siem_config = auth_config.siem.clone().unwrap_or_default();
+        let http_client = Arc::new(reqwest::Client::new());
+        let siem = crate::control::security::siem::SiemExporter::with_client(
+            siem_config,
+            Arc::clone(&http_client),
+        );
+
+        // `auth_config.risk` is `None` unless the operator configured an
+        // `[auth.risk]` section, and `RiskConfig::default()` has
+        // `enabled = false`, so scoring stays dormant either way. When it is
+        // configured the operator's weights and thresholds reach the scorer
+        // here — the one place they can, since `RiskScorer` reads its config
+        // only at construction.
+        let risk_scorer = crate::control::security::risk::RiskScorer::new(
+            auth_config.risk.clone().unwrap_or_default(),
+        );
+
+        // `auth_config.escalation` is `None` unless the operator configured an
+        // `[auth.escalation]` section, and `EscalationConfig::default()` has
+        // `enabled = false`, so no account is auto-suspended either way. When
+        // it is configured the operator's thresholds reach the engine here —
+        // the one place they can, since `EscalationEngine` reads its config
+        // only at construction.
+        let escalation = crate::control::security::escalation::EscalationEngine::new(
+            auth_config.escalation.clone().unwrap_or_default(),
+        );
+
+        // `auth_config.tls_policy` is `None` unless the operator configured an
+        // `[auth.tls_policy]` section, and `TlsPolicyConfig::default()` has
+        // `enabled = false`, so no connection is refused on transport grounds
+        // either way. When it *is* configured the operator's minimum version
+        // is parsed here — the one place it can be — and an unparseable value
+        // fails startup rather than being silently replaced by a default that
+        // enforces something else.
+        let tls_policy = crate::control::security::tls_policy::TlsPolicy::from_config(
+            &auth_config.tls_policy.clone().unwrap_or_default(),
+        )?;
+
+        // Auth users are catalog-backed in production: an escalation verdict
+        // written to a record has to still be there after a restart, and a
+        // memory-only store would drop it.
+        let auth_users = crate::control::security::jit::auth_user::AuthUserStore::open(
+            credentials.catalog().clone(),
+        )?;
+        // Restore the suspend → ban ladder from the persisted records before
+        // any request is served.
+        for user in auth_users.list(false) {
+            escalation.hydrate_suspensions(&user.id, user.escalation_suspensions);
+        }
+
+        // Scope grants are catalog-backed for the same reason: a grant — and
+        // the `WHEN` / `REQUIRE` conditions restricting it — has to survive a
+        // restart, and a memory-only store silently drops every grant the
+        // operator issued.
+        let scope_grants =
+            crate::control::security::scope::grant::ScopeGrantStore::open(credentials.catalog())?;
+
+        // Quota definitions are catalog objects for the same reason grants
+        // are: a cap that lived only in memory would be lifted by every
+        // restart, and a rolling deploy would quietly forgive every ceiling
+        // the operator set.
+        let quota_manager = QuotaManager::open(
+            metering_config.max_tracked_quota_grantees,
+            credentials.catalog(),
+        )?;
+
+        let state = Arc::new(Self {
+            dispatcher: Mutex::new(dispatcher),
+            tracker: RequestTracker::new(),
+            wal,
+            quiesce,
+            http_client,
+            credentials: Arc::clone(&credentials),
+            audit: shared_audit,
+            api_keys,
+            roles,
+            permissions,
+            trigger_registry,
+            array_catalog,
+            array_sync_op_log: {
+                let data_dir = catalog_path.parent().unwrap_or(std::path::Path::new("."));
+                std::sync::Arc::new(crate::control::array_sync::OriginOpLog::open(data_dir)?)
+            },
+            array_ack_registry: {
+                let data_dir = catalog_path.parent().unwrap_or(std::path::Path::new("."));
+                crate::control::array_sync::ArrayAckRegistry::open(data_dir)?
+            },
+            array_snapshot_store: {
+                let data_dir = catalog_path.parent().unwrap_or(std::path::Path::new("."));
+                crate::control::array_sync::OriginSnapshotStore::open(data_dir)?
+            },
+            array_snapshot_hlcs: std::sync::Arc::new(std::sync::RwLock::new(
+                std::collections::HashMap::<
+                    (nodedb_types::DatabaseId, u64, String),
+                    nodedb_array::sync::hlc::Hlc,
+                >::new(),
+            )),
+            array_gc_handle: None,
+            session_invalidation_bus: si_bus,
+            user_change_bus: uc_bus,
+            bus_consumer_handle,
+            array_sync_schemas: {
+                let data_dir = catalog_path.parent().unwrap_or(std::path::Path::new("."));
+                let schema_db = {
+                    let dir = data_dir.join("array_sync");
+                    std::fs::create_dir_all(&dir).map_err(|e| crate::Error::Storage {
+                        engine: "array_sync".into(),
+                        detail: format!("create array_sync dir: {e}"),
+                    })?;
+                    let path = dir.join("schema_docs.redb");
+                    std::sync::Arc::new(redb::Database::create(&path).map_err(|e| {
+                        crate::Error::Storage {
+                            engine: "array_sync".into(),
+                            detail: format!("schema_registry db open: {e}"),
+                        }
+                    })?)
+                };
+                let replica_id = nodedb_array::sync::ReplicaId::new(0);
+                let hlc_gen =
+                    std::sync::Arc::new(nodedb_array::sync::HlcGenerator::new(replica_id));
+                std::sync::Arc::new(crate::control::array_sync::OriginSchemaRegistry::open(
+                    schema_db, replica_id, hlc_gen,
+                )?)
+            },
+            array_delivery: std::sync::Arc::new(
+                crate::control::array_sync::ArrayDeliveryRegistry::new(),
+            ),
+            array_subscriber_cursors: {
+                let data_dir = catalog_path.parent().unwrap_or(std::path::Path::new("."));
+                let cursor_db = {
+                    let dir = data_dir.join("array_sync");
+                    std::fs::create_dir_all(&dir).map_err(|e| crate::Error::Storage {
+                        engine: "array_sync".into(),
+                        detail: format!("create array_sync dir for cursors: {e}"),
+                    })?;
+                    let path = dir.join("subscriber_cursors.redb");
+                    std::sync::Arc::new(redb::Database::create(&path).map_err(|e| {
+                        crate::Error::Storage {
+                            engine: "array_sync".into(),
+                            detail: format!("subscriber_cursor db open: {e}"),
+                        }
+                    })?)
+                };
+                let store = crate::control::array_sync::SubscriberStore::open(cursor_db)?;
+                std::sync::Arc::new(crate::control::array_sync::SubscriberMap::new(store))
+            },
+            array_merger_registry: std::sync::Arc::new(
+                crate::control::array_sync::MergerRegistry::new(),
+            ),
+            mirror_link_registry: Arc::new(crate::control::mirror::MirrorLinkRegistry::new()),
+            database_registry,
+            surrogate_registry: surrogate_registry_handle,
+            surrogate_assigner,
+            block_cache: crate::control::planner::procedural::executor::ProcedureBlockCache::new(
+                4096,
+            ),
+            stream_registry: Arc::clone(&stream_registry),
+            cdc_router: Arc::new(
+                crate::event::cdc::CdcRouter::new(stream_registry)
+                    .with_metrics(Arc::clone(&system_metrics)),
+            ),
+            group_registry,
+            offset_store: Arc::new(crate::event::cdc::OffsetStore::open(
+                catalog_path.parent().unwrap_or(std::path::Path::new(".")),
+            )?),
+            retention_policy_registry,
+            bitemporal_retention_registry: Arc::new(
+                crate::engine::bitemporal::BitemporalRetentionRegistry::new(),
+            ),
+            alert_registry,
+            alert_hysteresis,
+            schedule_registry,
+            synonym_registry,
+            custom_type_registry,
+            job_history: Arc::new(crate::event::scheduler::JobHistoryStore::open(
+                catalog_path.parent().unwrap_or(std::path::Path::new(".")),
+            )?),
+            ep_topic_registry,
+            webhook_manager: crate::event::webhook::WebhookManager::new(shutdown.raw_receiver()),
+            mv_registry,
+            consumer_assignments: crate::event::cdc::consumer_group::ConsumerAssignments::new(),
+            watermark_tracker: Arc::new(crate::event::watermark_tracker::WatermarkTracker::new()),
+            event_plane_budget: Arc::new(crate::event::budget::EventPlaneBudget::new()),
+            cross_shard_dispatcher: None,
+            cross_shard_dlq: None,
+            cross_shard_metrics: None,
+            hwm_store: None,
+            kafka_manager: crate::event::kafka::KafkaManager::new(shutdown.raw_receiver()),
+            definition_sync_fanout: std::sync::Arc::new(
+                crate::control::server::sync::definition_fanout::DefinitionSyncFanout::new(),
+            ),
+            crdt_sync_delivery: Arc::new(crate::event::crdt_sync::CrdtSyncDelivery::new()),
+            delta_packager: Arc::new(crate::event::crdt_sync::DeltaPackager::new()),
+            mv_persistence: Arc::new(crate::event::streaming_mv::MvPersistence::open(
+                catalog_path.parent().unwrap_or(std::path::Path::new(".")),
+            )?),
+            tenants: Mutex::new(TenantIsolation::new(TenantQuota::default())),
+            cluster_topology: None,
+            cluster_routing: None,
+            cluster_transport: None,
+            node_id: 0,
+            metadata_cache: Arc::new(std::sync::RwLock::new(nodedb_cluster::MetadataCache::new())),
+            catalog_change_tx: tokio::sync::broadcast::channel(
+                crate::control::cluster::metadata_applier::CATALOG_CHANNEL_CAPACITY,
+            )
+            .0,
+            group_watchers: Arc::new(nodedb_cluster::GroupAppliedWatchers::new()),
+            metadata_ddl_lock: std::sync::Mutex::new(()),
+            metadata_ddl_owner: std::sync::Mutex::new(None),
+            metadata_ddl_applied_token: std::sync::atomic::AtomicU64::new(0),
+            metadata_ddl_token_seq: std::sync::atomic::AtomicU64::new(1),
+            metadata_apply_wedge: std::sync::Arc::default(),
+            sequencer_halt: std::sync::Arc::default(),
+            metadata_raft: std::sync::OnceLock::new(),
+            propose_tracker: std::sync::OnceLock::new(),
+            raft_proposer: std::sync::OnceLock::new(),
+            async_raft_proposer_pair: std::sync::OnceLock::new(),
+            vshard_admission_sequencer: Arc::new(
+                crate::control::vshard_admission::VShardAdmissionSequencer::new(),
+            ),
+            raft_compactor: std::sync::OnceLock::new(),
+            raft_applied_index_sink: std::sync::OnceLock::new(),
+            raft_status_fn: std::sync::OnceLock::new(),
+            cluster_observer: std::sync::OnceLock::new(),
+            loop_metrics_registry: nodedb_cluster::LoopMetricsRegistry::new(),
+            per_vshard_metrics: crate::control::metrics::PerVShardMetricsRegistry::new(),
+            health_monitor: std::sync::OnceLock::new(),
+            trace_exporter: crate::control::trace_export::TraceExporter::disabled(),
+            debug_endpoints_enabled: false,
+            migration_tracker: None,
+            rls: rls_store,
+            blacklist,
+            auth_users,
+            orgs: crate::control::security::org::store::OrgStore::new(),
+            scope_defs: crate::control::security::scope::store::ScopeStore::new(),
+            scope_grants,
+            rate_limiter: RateLimiter::new(rate_limit_config.clone()),
+            session_handles:
+                crate::control::security::session_handle::SessionHandleStore::from_config(
+                    &auth_config.session,
+                ),
+            session_registry: prod_session_registry,
+            escalation,
+            usage_counter: Arc::new(
+                crate::control::security::metering::counter::UsageCounter::new(),
+            ),
+            usage_store: Arc::new(UsageStore::with_bounds(
+                metering_config.max_usage_events,
+                metering_config.max_tracked_scopes,
+            )),
+            quota_manager,
+            metering_config: metering_config.clone(),
+            auth_api_keys: crate::control::security::auth_apikey::AuthApiKeyStore::new(),
+            impersonation: crate::control::security::impersonation::ImpersonationStore::default(),
+            emergency: crate::control::security::emergency::EmergencyState::default(),
+            auth_metrics: crate::control::security::observability::AuthMetrics::new(),
+            ceilings: crate::control::security::ceiling::CeilingStore::new(),
+            redaction: redaction_store,
+            risk_scorer,
+            tls_policy,
+            siem,
+            jwks_registry: None,
+            sync_dlq: Mutex::new(SyncDlq::new(DlqConfig::default())),
+            audit_retention_days: auth_config.audit_retention_days,
+            audit_max_entries: auth_config.audit_max_entries,
+            idle_timeout_secs: auth_config.idle_timeout_secs,
+            session_absolute_timeout_secs: auth_config.session_absolute_timeout_secs,
+            shape_registry: Arc::new(crate::control::server::sync::shape::ShapeRegistry::new()),
+            change_stream: crate::control::change_stream::ChangeStream::new(4096),
+            notify_bus: crate::control::notify_bus::NotifyBus::default(),
+            connections_rejected: AtomicU64::new(0),
+            connections_accepted: AtomicU64::new(0),
+            raft_propose_leader_change_retries: AtomicU64::new(0),
+            request_id_counter: AtomicU64::new(1),
+            shuffle_id_counter: AtomicU64::new(1),
+            // Use the pre-created Arc so the CdcRouter (above) and this
+            // metrics endpoint share the same SystemMetrics registry.
+            system_metrics: Some(Arc::clone(&system_metrics)),
+            database_metrics: Arc::new(crate::control::metrics::DatabaseMetricsRegistry::new()),
+            quota_ceiling: Arc::new(std::sync::RwLock::new(
+                crate::control::security::catalog::GlobalQuotaCeiling::default(),
+            )),
+            retention_settings: Arc::new(std::sync::RwLock::new(
+                crate::config::server::RetentionSettings::default(),
+            )),
+            governor: None,
+            maintenance_budget: Arc::new(
+                crate::control::maintenance::MaintenanceBudgetTracker::new(),
+            ),
+            producer_registry,
+            ts_partition_registries: Some(Mutex::new(std::collections::HashMap::new())),
+            cold_storage: None,
+            snapshot_storage: Arc::new(object_store::memory::InMemory::new()),
+            quarantine_storage: Arc::new(object_store::memory::InMemory::new()),
+            hlc_clock: Arc::new(nodedb_types::HlcClock::new()),
+            tenant_write_hlc: Arc::new(std::sync::Mutex::new(std::collections::HashMap::new())),
+            lease_admission_gate: Mutex::new(()),
+            lease_grant_gate: Arc::new(Mutex::new(())),
+            lease_drain: Arc::new(crate::control::lease::DescriptorDrainTracker::new()),
+            lease_refcount: Arc::new(crate::control::lease::LeaseRefCount::new()),
+            sequencer_inbox: std::sync::OnceLock::new(),
+            reservation_inbox: std::sync::OnceLock::new(),
+            sequencer_metrics: std::sync::OnceLock::new(),
+            calvin_completion_registry: std::sync::OnceLock::new(),
+            ollp_orchestrator: std::sync::OnceLock::new(),
+            limits: nodedb_types::protocol::Limits::default(),
+            tuning,
+            scheduler_config: crate::config::server::SchedulerConfig::default(),
+            data_dir: std::path::PathBuf::new(),
+            // Production stores live under real on-disk paths, not a temp dir.
+            _test_state_dir: None,
+            schema_version: crate::control::server::shared::session::plan_cache::SchemaVersion::new(
+            ),
+            materialized_sum_index:
+                crate::control::planner::materialized_sum::MaterializedSumIndex::default(),
+            sequence_registry,
+            dml_counter:
+                crate::control::server::shared::ddl::neutral::maintenance::auto_analyze::DmlCounter::new(),
+            wal_catchup_lsn: AtomicU64::new(0),
+            last_applied_calvin_epoch: Arc::new(AtomicU64::new(0)),
+            calvin_apply_results: Arc::new(Mutex::new(std::collections::HashMap::new())),
+            calvin_lock_managers: Arc::new(Mutex::new(std::collections::BTreeMap::new())),
+            hot_key_table: Arc::new(Mutex::new(
+                crate::control::cluster::calvin::scheduler::lock::HotKeyTable::new(),
+            )),
+            calvin_promotion_senders: Arc::new(Mutex::new(std::collections::BTreeMap::new())),
+            write_order_locks: Arc::new(
+                crate::control::server::shared::write_admission::KeyedWriteOrderLock::new(),
+            ),
+            autocommit_lock_seq: std::sync::atomic::AtomicU32::new(0),
+            calvin_counters: crate::control::state::CalvinCounters {
+                write_versions_recorded: Arc::new(AtomicU64::new(0)),
+                read_set_validation_failures: Arc::new(AtomicU64::new(0)),
+                commits_flushed: Arc::new(AtomicU64::new(0)),
+                commits_dropped: Arc::new(AtomicU64::new(0)),
+            },
+            presence: Arc::new(tokio::sync::RwLock::new(
+                crate::control::server::sync::presence::PresenceManager::new(
+                    crate::control::server::sync::presence::PresenceConfig::default(),
+                ),
+            )),
+            permission_cache: Arc::new(tokio::sync::RwLock::new(permission_cache)),
+            gateway_invalidator: std::sync::OnceLock::new(),
+            gateway: std::sync::OnceLock::new(),
+            backup_kek: None,
+            quarantine_registry: Arc::new(crate::storage::quarantine::QuarantineRegistry::new()),
+            admission_registry: Arc::new(
+                crate::control::server::admission::AdmissionRegistry::new(),
+            ),
+            audit_dml_cache: Arc::new(crate::control::state::audit_dml_cache::AuditDmlCache::new()),
+            idle_timeout_cache: Arc::new(
+                crate::control::state::idle_timeout_cache::IdleTimeoutCache::new(),
+            ),
+            collection_to_database: Arc::new(
+                crate::control::state::collection_to_database::CollectionToDatabase::new(),
+            ),
+            lsn_ms_map: Arc::new(Mutex::new(nodedb_types::temporal::LsnMsMap::new())),
+            materialize_freeze: crate::control::clone::MaterializeFreezeRegistry::new(),
+            shuffle_registry: Arc::new(
+                crate::control::server::shuffle::ShuffleReceiverRegistry::new(
+                    catalog_path
+                        .parent()
+                        .unwrap_or(std::path::Path::new("."))
+                        .to_path_buf(),
+                ),
+            ),
+            shutdown: Arc::clone(&shutdown),
+            loop_registry: Arc::clone(&loop_registry),
+            startup: Arc::clone(&startup_gate),
+        });
+
+        crate::event::topic::hydrate_topic_buffers(&state)?;
+        super::post_init::hydrate_caches(&state);
+        super::post_init::spawn_array_gc(&state);
+
+        Ok(state)
+    }
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+    use crate::control::security::ratelimit::limiter::LoginRateLimitOutcome;
+
+    /// Build a `SharedState` via the production `open()` path with a
+    /// caller-supplied `AuthConfig`, so tests can observe how operator
+    /// config actually threads through construction.
+    fn open_with_auth_config(
+        dir: &std::path::Path,
+        auth_config: &crate::config::auth::AuthConfig,
+    ) -> Arc<SharedState> {
+        let wal_dir = dir.join("wal");
+        std::fs::create_dir_all(&wal_dir).expect("create wal dir");
+        let wal = Arc::new(WalManager::open_for_testing(&wal_dir).expect("open wal"));
+        let (dispatcher, _) = crate::bridge::dispatch::Dispatcher::new(1, 16);
+        let catalog_path = dir.join("catalog.redb");
+        SharedState::open(
+            dispatcher,
+            wal,
+            &catalog_path,
+            auth_config,
+            TuningConfig::default(),
+            crate::bridge::quiesce::CollectionQuiesce::new(),
+            crate::control::array_catalog::ArrayCatalog::handle(),
+        )
+        .expect("open shared state")
+    }
+
+    #[test]
+    fn configured_rate_limit_is_applied_not_default() {
+        let dir = tempfile::tempdir().expect("tempdir");
+        // `RateLimitConfig::default()` is `enabled: false` with `default_burst:
+        // 200` — a distinctive small, enabled burst here can only show up if
+        // this exact config was threaded into the constructed `RateLimiter`.
+        let auth_config = crate::config::auth::AuthConfig {
+            rate_limit: Some(RateLimitConfig {
+                enabled: true,
+                default_qps: 3,
+                default_burst: 3,
+                ..Default::default()
+            }),
+            ..Default::default()
+        };
+
+        let state = open_with_auth_config(dir.path(), &auth_config);
+
+        for i in 0..3 {
+            let r = state.rate_limiter.check("u1", &[], None, "point_get", None);
+            assert!(
+                r.allowed,
+                "request {i} should be allowed under configured burst=3"
+            );
+        }
+        let r = state.rate_limiter.check("u1", &[], None, "point_get", None);
+        assert!(
+            !r.allowed,
+            "4th request must be denied by the operator-configured burst=3, \
+             not the hardcoded RateLimitConfig::default() burst=200"
+        );
+    }
+
+    #[test]
+    fn unconfigured_rate_limit_falls_back_to_disabled_default() {
+        let dir = tempfile::tempdir().expect("tempdir");
+        let auth_config = crate::config::auth::AuthConfig::default();
+        assert!(auth_config.rate_limit.is_none());
+
+        let state = open_with_auth_config(dir.path(), &auth_config);
+
+        // `RateLimitConfig::default()` has `enabled: false`, so every
+        // request is admitted regardless of volume.
+        for _ in 0..500 {
+            let r = state.rate_limiter.check("u1", &[], None, "point_get", None);
+            assert!(r.allowed);
+        }
+    }
+
+    #[test]
+    fn login_capacities_still_apply_after_configured_rate_limit() {
+        let dir = tempfile::tempdir().expect("tempdir");
+        let auth_config = crate::config::auth::AuthConfig {
+            rate_limit: Some(RateLimitConfig {
+                enabled: true,
+                ..Default::default()
+            }),
+            ..Default::default()
+        };
+        let state = open_with_auth_config(dir.path(), &auth_config);
+
+        // Mirrors `main_boot::shared_state`'s post-construction call.
+        state.rate_limiter.set_login_capacities(5, 100);
+
+        for _ in 0..5 {
+            assert!(matches!(
+                state.rate_limiter.check_login("10.0.0.9", "victim"),
+                LoginRateLimitOutcome::Allowed
+            ));
+            state
+                .rate_limiter
+                .record_login_failure("10.0.0.9", "victim");
+        }
+        assert!(
+            matches!(
+                state.rate_limiter.check_login("10.0.0.9", "victim"),
+                LoginRateLimitOutcome::IpExceeded { .. }
+            ),
+            "login brute-force capacities set via set_login_capacities must \
+             still apply after threading the configured RateLimitConfig"
+        );
+    }
+}

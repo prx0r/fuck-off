@@ -1,0 +1,84 @@
+// SPDX-License-Identifier: Apache-2.0
+
+//! Shared helpers for window-function evaluation.
+
+use std::collections::HashMap;
+
+use crate::expr::types::SqlExpr;
+
+/// Group row indices by partition key, preserving first-seen partition order.
+///
+/// A division/modulo-by-zero in a PARTITION BY expression propagates as
+/// `Err(EvalError::DivisionByZero)` rather than being folded to NULL.
+pub(super) fn build_partitions(
+    rows: &[(String, serde_json::Value)],
+    partition_by: &[SqlExpr],
+) -> Result<Vec<Vec<usize>>, crate::expr::EvalError> {
+    if partition_by.is_empty() {
+        return Ok(vec![(0..rows.len()).collect()]);
+    }
+
+    let mut groups: HashMap<String, Vec<usize>> = HashMap::new();
+    let mut order = Vec::new();
+
+    for (i, (_id, doc)) in rows.iter().enumerate() {
+        let key: String = partition_by
+            .iter()
+            .map(|expr| eval_expr_on_json(expr, doc).map(|v| v.to_string()))
+            .collect::<Result<Vec<_>, _>>()?
+            .join("\x00");
+        let entry = groups.entry(key.clone()).or_default();
+        if entry.is_empty() {
+            order.push(key);
+        }
+        entry.push(i);
+    }
+
+    Ok(order.iter().filter_map(|k| groups.remove(k)).collect())
+}
+
+pub(super) fn set_window_col(row: &mut serde_json::Value, alias: &str, val: serde_json::Value) {
+    if let serde_json::Value::Object(map) = row {
+        map.insert(alias.to_string(), val);
+    }
+}
+
+/// Evaluate a `SqlExpr` against a serde_json document, returning a serde_json value.
+///
+/// A division/modulo-by-zero in a PARTITION BY / ORDER BY expression is
+/// surfaced as `Err(EvalError::DivisionByZero)` — the same
+/// statement-failure treatment WHERE/projection expressions get — rather than
+/// being folded to `NULL`. The `Result` is threaded through every window
+/// function that reaches this evaluator up to `evaluate_window_functions`.
+pub(super) fn eval_expr_on_json(
+    expr: &SqlExpr,
+    doc: &serde_json::Value,
+) -> Result<serde_json::Value, crate::expr::EvalError> {
+    crate::json_expr::eval_expr_on_json(expr, doc)
+}
+
+pub(super) fn as_f64(v: &serde_json::Value) -> Option<f64> {
+    match v {
+        serde_json::Value::Number(n) => n.as_f64(),
+        serde_json::Value::String(s) => s.parse().ok(),
+        _ => None,
+    }
+}
+
+/// Returns true when row at index `b` has the same ORDER BY key as row at
+/// index `a` (used by peer-aware ranking like RANK and PERCENT_RANK).
+pub(super) fn order_keys_equal(
+    rows: &[(String, serde_json::Value)],
+    a: usize,
+    b: usize,
+    order_by: &[(SqlExpr, bool)],
+) -> Result<bool, crate::expr::EvalError> {
+    for (expr, _) in order_by {
+        let va = eval_expr_on_json(expr, &rows[a].1)?;
+        let vb = eval_expr_on_json(expr, &rows[b].1)?;
+        if va != vb {
+            return Ok(false);
+        }
+    }
+    Ok(true)
+}

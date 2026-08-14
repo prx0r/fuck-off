@@ -1,0 +1,39 @@
+[package]
+name = "nodedb-client"
+description = "Unified NodeDb trait and remote client for NodeDB Origin and Lite"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license = "Apache-2.0"
+readme = "README.md"
+repository.workspace = true
+homepage.workspace = true
+documentation = "https://docs.rs/nodedb-client"
+keywords = ["client", "pgwire", "messagepack", "nodedb", "sdk"]
+categories = ["database", "api-bindings"]
+
+[features]
+default = []
+remote = ["tokio-postgres", "tokio", "serde_json"]
+native = ["tokio", "zerompk", "serde_json", "tokio-rustls", "rustls-pemfile"]
+
+[dependencies]
+nodedb-types = { workspace = true }
+async-trait = { workspace = true }
+thiserror = { workspace = true }
+serde = { workspace = true }
+tracing = { workspace = true }
+
+# Remote client dependencies (feature-gated)
+tokio-postgres = { workspace = true, optional = true, features = ["with-serde_json-1"] }
+tokio = { workspace = true, optional = true, features = ["rt", "sync"] }
+serde_json = { workspace = true, optional = true }
+sonic-rs = { workspace = true }
+
+# Native protocol client dependencies (feature-gated)
+zerompk = { workspace = true, optional = true }
+tokio-rustls = { workspace = true, optional = true }
+rustls-pemfile = { workspace = true, optional = true }
+
+[dev-dependencies]
+tokio = { workspace = true, features = ["rt", "macros"] }

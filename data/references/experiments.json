@@ -1,5 +1,5 @@
 {
- "count": 40,
+ "count": 41,
  "entries": [
   {
    "script": "validate-layer03-05.py",
@@ -360,6 +360,15 @@
    "kernel": "causal-operational",
    "status": "RUN",
    "note": "the 5th graph: why the system acted (operational provenance)"
+  },
+  {
+   "script": "experiment-execution-replay.py",
+   "layer": "L09",
+   "source": "agentstateprotocol+DML (cloned)",
+   "vision": "Autonomous Institute",
+   "kernel": "execution",
+   "status": "RUN",
+   "note": "checkpoint/rollback/branch + deterministic replay + causal trace (gaps B+C)"
   }
  ]
 }

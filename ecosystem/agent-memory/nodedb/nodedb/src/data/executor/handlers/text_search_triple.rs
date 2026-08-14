@@ -1,0 +1,283 @@
+// SPDX-License-Identifier: BUSL-1.1
+
+//! Three-source hybrid search handler: vector + BM25 text + graph BFS, fused via weighted RRF.
+//!
+//! Pipeline:
+//! 1. Vector search from the HNSW index — top-K by distance.
+//! 2. BM25 full-text search from the inverted index — top-K by score.
+//! 3. Graph BFS from `graph_seed_id` up to `graph_depth` hops — scored by hop distance.
+//! 4. All three ranked lists are fused via `reciprocal_rank_fusion_weighted` with
+//!    per-source k-constants `(vector_k, text_k, graph_k)`.
+//! 5. Final top-K fused results are materialised with per-source rank diagnostics.
+
+use tracing::debug;
+
+use nodedb_fts::FtsSearchParams;
+use nodedb_fts::posting::QueryMode;
+
+use crate::bridge::envelope::{ErrorCode, Response};
+use crate::data::executor::core_loop::CoreLoop;
+use crate::data::executor::handlers::graph_expansion::{GraphExpansionParams, GraphSeeds};
+use crate::data::executor::handlers::graph_rag::graph_nodes_to_ranked_results;
+use crate::data::executor::scan_normalize::sparse_body_to_msgpack;
+use crate::data::executor::task::ExecutionTask;
+use crate::engine::graph::edge_store::Direction;
+
+/// Parameters for [`CoreLoop::execute_hybrid_search_triple`].
+pub(in crate::data::executor) struct HybridSearchTripleParams<'a> {
+    pub tid: u64,
+    pub collection: &'a str,
+    pub query_vector: &'a [f32],
+    pub query_text: &'a str,
+    pub graph_seed_id: &'a str,
+    pub graph_depth: usize,
+    pub graph_edge_label: Option<&'a str>,
+    pub top_k: usize,
+    pub ef_search: usize,
+    pub fuzzy: bool,
+    pub rrf_k: (f64, f64, f64),
+    pub filter_bitmap: Option<&'a nodedb_types::SurrogateBitmap>,
+    pub rls_filters: &'a [u8],
+    pub score_alias: Option<&'a str>,
+}
+
+impl CoreLoop {
+    /// Execute a three-source hybrid search: vector + BM25 text + graph BFS, fused via RRF.
+    ///
+    /// `rrf_k` is `(vector_k, text_k, graph_k)`. Lower k → steeper rank discount → more
+    /// influence from that source.
+    pub(in crate::data::executor) fn execute_hybrid_search_triple(
+        &self,
+        task: &ExecutionTask,
+        params: HybridSearchTripleParams<'_>,
+    ) -> Response {
+        let HybridSearchTripleParams {
+            tid,
+            collection,
+            query_vector,
+            query_text,
+            graph_seed_id,
+            graph_depth,
+            graph_edge_label,
+            top_k,
+            ef_search,
+            fuzzy,
+            rrf_k,
+            filter_bitmap,
+            rls_filters,
+            score_alias,
+        } = params;
+        let tenant_id = crate::types::TenantId::new(tid);
+        debug!(
+            core = self.core_id,
+            tid,
+            %collection,
+            %query_text,
+            %graph_seed_id,
+            graph_depth,
+            top_k,
+            "hybrid search triple"
+        );
+
+        let _scan_guard = match self.acquire_scan_guard(task, tid, collection) {
+            Ok(g) => g,
+            Err(resp) => return resp,
+        };
+
+        let fetch_k = top_k.saturating_mul(3).max(20);
+
+        // 1. Vector search.
+        let index_key =
+            CoreLoop::vector_index_key(task.request.database_id.as_u64(), tid, collection, "");
+        let vector_collection = self.vector_collections.get(&index_key);
+        let vector_results = if let Some(index) = vector_collection {
+            if index.is_empty() {
+                Vec::new()
+            } else {
+                let ef = if ef_search > 0 {
+                    ef_search.max(fetch_k)
+                } else {
+                    fetch_k.saturating_mul(4).max(64)
+                };
+                match filter_bitmap {
+                    Some(surrogate_bm) => {
+                        let mut buf = Vec::with_capacity(surrogate_bm.0.serialized_size());
+                        if surrogate_bm.0.serialize_into(&mut buf).is_ok() {
+                            index.search_with_bitmap_bytes(query_vector, fetch_k, ef, &buf)
+                        } else {
+                            index.search(query_vector, fetch_k, ef)
+                        }
+                    }
+                    None => index.search(query_vector, fetch_k, ef),
+                }
+            }
+        } else {
+            Vec::new()
+        };
+
+        // 2. BM25 text search.
+        let text_results = self
+            .inverted
+            .search(
+                task.request.database_id.as_u64(),
+                tenant_id,
+                collection,
+                FtsSearchParams {
+                    query: query_text,
+                    top_k: fetch_k,
+                    fuzzy_enabled: fuzzy,
+                    mode: QueryMode::And,
+                    prefilter: None,
+                },
+            )
+            .unwrap_or_default();
+
+        // 3. Graph BFS from seed node.
+        let edge_label_owned = graph_edge_label.map(str::to_string);
+        // The seed is named by the query itself, so it resolves to a surrogate
+        // once; the walk then runs in the same identity currency as the vector
+        // and text legs it will be fused with.
+        let expansion = self.expand_graph(GraphExpansionParams {
+            database_id: task.request.database_id.as_u64(),
+            tid,
+            seeds: GraphSeeds::Names(&[graph_seed_id]),
+            label_filter: graph_edge_label,
+            direction: Direction::Out,
+            max_depth: graph_depth,
+            max_visited: self.query_tuning.bfs_memory_budget_bytes
+                / self.query_tuning.bfs_bytes_per_node,
+            collection,
+        });
+        let (graph_expanded, hop_distances) = (expansion.names, expansion.distances);
+
+        // 4. Build ranked lists.
+        use crate::query::fusion::{RankedResult, reciprocal_rank_fusion_weighted};
+        let _ = edge_label_owned; // consumed above
+
+        // Inside a transaction, read-your-own-writes: the vector and text legs
+        // must also observe this transaction's staged document writes, folded
+        // in via the shared overlay splice (reusing the single-source
+        // vector/FTS overlay merges). The graph leg's RYOW is a separate
+        // concern and is not folded in here. Outside a transaction the
+        // committed-only construction below runs unchanged.
+        let (vector_ranked, text_ranked): (Vec<RankedResult>, Vec<RankedResult>) =
+            if let Some(txn_id) = task.request.txn_id {
+                match self.hybrid_ranked_with_overlay(
+                    super::hybrid_overlay::HybridOverlayParams {
+                        txn_id,
+                        database_id: task.request.database_id,
+                        tid: tenant_id,
+                        collection,
+                        query_vector,
+                        query_text,
+                        fetch_k,
+                        filter_bitmap,
+                    },
+                    &vector_results,
+                    vector_collection,
+                    &text_results,
+                ) {
+                    Ok(ranked) => ranked,
+                    Err(e) => return self.response_error(task, e),
+                }
+            } else {
+                let vector_ranked: Vec<RankedResult> = vector_results
+                    .iter()
+                    .enumerate()
+                    .map(|(rank, r)| RankedResult {
+                        document_id: super::vector_search::vector_leg_doc_id(
+                            vector_collection,
+                            r.id,
+                        ),
+                        rank,
+                        score: r.distance,
+                        source: "vector",
+                    })
+                    .collect();
+
+                let text_ranked: Vec<RankedResult> = text_results
+                    .iter()
+                    .enumerate()
+                    .map(|(rank, r)| RankedResult {
+                        document_id: crate::engine::document::store::surrogate_to_doc_id(r.doc_id),
+                        rank,
+                        score: r.score,
+                        source: "text",
+                    })
+                    .collect();
+                (vector_ranked, text_ranked)
+            };
+
+        let graph_ranked = graph_nodes_to_ranked_results(&graph_expanded, &hop_distances);
+
+        let (k_vector, k_text, k_graph) = rrf_k;
+        let fused = reciprocal_rank_fusion_weighted(
+            &[vector_ranked, text_ranked, graph_ranked],
+            &[k_vector, k_text, k_graph],
+            top_k,
+        );
+
+        // 5. Materialise results with per-engine rank diagnostics (reusing HybridSearchHit).
+        //
+        // The RLS predicate runs against the NORMALIZED msgpack image, never
+        // the stored bytes: a strict Binary Tuple is not a msgpack map at all
+        // and a vector-primary sidecar is a TAGGED one, so a predicate pushed
+        // at the stored bytes finds no field it recognizes and the row is
+        // dropped on a format mismatch rather than on policy. The encoding is
+        // resolved from the collection's registered kind — a tagged map and a
+        // plain document map share the same map header, so the bytes cannot
+        // answer it.
+        let body_format = self.sparse_body_format(task.request.database_id, tenant_id, collection);
+        let results: Vec<_> = fused
+            .iter()
+            .filter(|f| {
+                if rls_filters.is_empty() {
+                    return true;
+                }
+                match self.sparse.get(
+                    task.request.database_id.as_u64(),
+                    tid,
+                    collection,
+                    &f.document_id,
+                ) {
+                    Ok(Some(bytes)) => {
+                        let normalized =
+                            sparse_body_to_msgpack(&bytes, body_format.as_format_ref());
+                        super::rls_eval::rls_check_msgpack_bytes(rls_filters, &normalized)
+                    }
+                    _ => false,
+                }
+            })
+            .map(|f| {
+                let vector_rank = vector_results.iter().position(|r| {
+                    super::vector_search::vector_leg_doc_id(vector_collection, r.id)
+                        == f.document_id
+                });
+                let text_rank = text_results.iter().position(|r| {
+                    crate::engine::document::store::surrogate_to_doc_id(r.doc_id) == f.document_id
+                });
+
+                super::super::response_codec::HybridSearchHit {
+                    doc_id: &f.document_id,
+                    score_field: score_alias.unwrap_or("rrf_score"),
+                    rrf_score: f.rrf_score,
+                    vector_rank,
+                    text_rank,
+                }
+            })
+            .collect();
+
+        if let Some(ref m) = self.metrics {
+            m.record_fts_search(0);
+        }
+        match super::super::response_codec::encode(&results) {
+            Ok(payload) => self.response_with_payload(task, payload),
+            Err(e) => self.response_error(
+                task,
+                ErrorCode::Internal {
+                    detail: e.to_string(),
+                },
+            ),
+        }
+    }
+}

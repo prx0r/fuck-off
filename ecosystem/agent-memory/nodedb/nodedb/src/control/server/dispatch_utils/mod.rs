@@ -1,0 +1,28 @@
+// SPDX-License-Identifier: BUSL-1.1
+
+//! Shared dispatch utilities used by both the pgwire and native endpoints.
+
+mod change_events;
+mod collect;
+mod dispatch;
+mod durability_barrier;
+mod submit_write;
+mod types;
+mod write_abort;
+
+pub(crate) use change_events::{
+    WriteChangeSet, extract_write_change_set, publish_change_set_with_lsn,
+    publish_cluster_array_change_events, publish_origin_change_events,
+};
+pub(crate) use collect::{DispatchCollectError, collect_bounded_response};
+pub use dispatch::{dispatch_authorized_autocommit_write, dispatch_authorized_to_data_plane};
+pub(crate) use dispatch::{
+    dispatch_authorized_autocommit_write_with_source, dispatch_autocommit_write,
+    dispatch_to_data_plane, dispatch_to_data_plane_with_txn,
+    dispatch_trusted_internal_write_to_data_plane,
+};
+pub use durability_barrier::writes_acked_without_durability;
+pub(crate) use submit_write::{
+    ChangeFeedOwner, SubmitOutcome, SubmitWrite, WalDurability, WriteOrdering, submit_write,
+};
+pub(crate) use types::{AutocommitWrite, WriteDispatch};

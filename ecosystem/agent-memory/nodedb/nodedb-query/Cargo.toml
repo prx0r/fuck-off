@@ -1,0 +1,28 @@
+[package]
+name = "nodedb-query"
+description = "Shared query evaluation engine for NodeDB — expressions, filters, functions, aggregations, window functions"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license = "Apache-2.0"
+readme = "README.md"
+repository.workspace = true
+homepage.workspace = true
+documentation = "https://docs.rs/nodedb-query"
+keywords = ["query", "bm25", "fusion", "ranking", "search"]
+categories = ["algorithms", "text-processing"]
+
+[dependencies]
+nodedb-types = { workspace = true }
+nodedb-spatial = { workspace = true }
+thiserror = { workspace = true }
+nodedb-fts = { workspace = true }
+serde = { workspace = true }
+serde_json = { workspace = true }
+zerompk = { workspace = true }
+sonic-rs = { workspace = true }
+rust_decimal = { workspace = true }
+rust-stemmers = { workspace = true }
+unicode-normalization = { workspace = true }
+
+[dev-dependencies]

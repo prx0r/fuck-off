@@ -1,10 +1,10 @@
 # GITHUB INDEX — canonical GitHub reference catalog
 
-*2026-08-14. 95 repos, organized by category + tier for agent retrieval. Machine form: `data/references/github.json`.*
+*2026-08-14. 99 repos, organized by category + tier for agent retrieval. Machine form: `data/references/github.json`.*
 
 Tier: 0=clone-first · 1=ingest · 2=architecture · 3=watch
 
-## agent-memory (22)
+## agent-memory (23)
 
 - **getzep/graphiti** — `T0` · temporal edges (valid_at/invalid_at/episodes) · <https://github.com/getzep/graphiti>
 - **EvoScientist/EvoScientist** — `T0` · self-evolving AI scientists (study deepest) · <https://github.com/EvoScientist/EvoScientist>
@@ -25,9 +25,14 @@ Tier: 0=clone-first · 1=ingest · 2=architecture · 3=watch
 - **DiaaAj/a-mem-mcp** — `T2` · self-evolving graph memory MCP · <https://github.com/DiaaAj/a-mem-mcp>
 - **memory-graph/memory-graph** — `T2` · temporal graph memory MCP · <https://github.com/memory-graph/memory-graph>
 - **ipiton/agent-memory-mcp** — `T2` · agent persistent memory MCP · <https://github.com/ipiton/agent-memory-mcp>
+- **NodeDB-Lab/nodedb** — `T2` · local-first agent memory engine · <https://github.com/NodeDB-Lab/nodedb>
 - **BerriAI/self-improving-agent** — `T2` · self-improvement as PR (minimal diff, human approves) · <https://github.com/BerriAI/self-improving-agent>
 - **LuckyGirl-XU/Awesome-Agent-Dynamic-Graphs** — `T3` · research-index: agent dynamic graphs · <https://github.com/LuckyGirl-XU/Awesome-Agent-Dynamic-Graphs>
 - **DataArcTech/Awesome-Agent-Skill-Papers** — `T3` · research-index: agent skill papers · <https://github.com/DataArcTech/Awesome-Agent-Skill-Papers>
+
+## agent-protocols (1)
+
+- **ekessh/agentstateprotocol** — `T1` · Git for AI thoughts: checkpoint/rollback/branch/merge · <https://github.com/ekessh/agentstateprotocol>
 
 ## agent-runtime (18)
 
@@ -128,17 +133,22 @@ Tier: 0=clone-first · 1=ingest · 2=architecture · 3=watch
 - **GoogleCloudPlatform/knowledge-catalog** — `T2` · Open Knowledge Format (OKF) · <https://github.com/GoogleCloudPlatform/knowledge-catalog>
 - **modelcontextprotocol/modelcontextprotocol** — `T2` · the MCP specification · <https://github.com/modelcontextprotocol/modelcontextprotocol>
 
+## replay (1)
+
+- **daveremy/deterministic-memory-layer** — `T1` · event-driven memory, deterministic replay · <https://github.com/daveremy/deterministic-memory-layer>
+
 ## retrieval (1)
 
 - **BUPT-GAMMA/PathRAG** — `T0` · the PathRAG paper code (flow-pruning) · <https://github.com/BUPT-GAMMA/PathRAG>
 
-## science-infra (5)
+## science-infra (6)
 
 - **allenai/s2orc-doc2json** — `T1` · paper parsing (PDF2JSON/TEX2JSON/JATS2JSON) · <https://github.com/allenai/s2orc-doc2json>
 - **gallantlab/literature-review-toolkit** — `T1` · topic-agnostic literature review agent · <https://github.com/gallantlab/literature-review-toolkit>
 - **allenai/s2orc** — `T2` · S2ORC: scholarly open research corpus · <https://github.com/allenai/s2orc>
 - **ourresearch/OpenAlex** — `T2` · open catalog of scholarship · <https://github.com/ourresearch/OpenAlex>
 - **allenai/peS2o** — `T2` · pretraining efficiently on S2ORC · <https://github.com/allenai/peS2o>
+- **Future-House/paper-qa** — `T2` · metadata-aware scientific RAG · <https://github.com/Future-House/paper-qa>
 
 ## signing (1)
 

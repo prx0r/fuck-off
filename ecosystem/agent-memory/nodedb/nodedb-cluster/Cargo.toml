@@ -1,0 +1,81 @@
+[package]
+name = "nodedb-cluster"
+description = "Distributed coordination layer for NodeDB — vShards, QUIC transport, and replication"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+readme = "README.md"
+repository.workspace = true
+homepage.workspace = true
+documentation = "https://docs.rs/nodedb-cluster"
+keywords = ["cluster", "distributed", "vshard", "quic", "replication"]
+categories = ["network-programming", "database-implementations"]
+
+[features]
+default = []
+# Silent data-loss sites (epoch gaps, backpressure drops) report through the
+# `faultbox` black-box recorder. Inert until the host application calls
+# `faultbox::init`; a no-op on wasm32 regardless. Off by default so the crate
+# stays dependency-light for embedders that report failures their own way.
+diagnostics = ["dep:faultbox"]
+
+[dependencies]
+# Workspace crates
+nodedb-raft = { workspace = true }
+nodedb-types = { workspace = true }
+
+# Workspace deps
+serde = { workspace = true }
+serde_json = { workspace = true }
+sonic-rs = { workspace = true }
+thiserror = { workspace = true }
+tracing = { workspace = true }
+tokio = { workspace = true }
+rand = { workspace = true }
+getrandom = { workspace = true }
+async-trait = { workspace = true }
+futures = { workspace = true }
+async-stream = { workspace = true }
+
+# Serialization (compact binary for RPCs — matches nexar wire format)
+rkyv = { workspace = true }
+
+# Checksums
+crc32c = { workspace = true }
+
+# Non-cryptographic hashing (xxHash3 for cluster key partitioning)
+xxhash-rust = { workspace = true }
+
+# UUIDs for migration IDs
+uuid = { workspace = true }
+
+# Authenticated frame envelope (origin + anti-replay MAC) for Raft RPCs.
+hmac = { workspace = true }
+sha2 = { workspace = true }
+
+faultbox = { workspace = true, optional = true }
+
+# Persistence
+redb = { workspace = true }
+zerompk = { workspace = true }
+
+# QUIC transport (nexar for TLS utilities, quinn for bidi streams)
+nexar = { workspace = true }
+quinn = { workspace = true }
+rustls = { version = "0.23", default-features = false, features = ["ring"] }
+rustls-pemfile = { workspace = true }
+
+# X.509 DER parsing (SPIFFE URI SAN + SPKI fingerprint extraction)
+x509-parser = "0.16"
+
+# systemd sd_notify readiness integration — Linux only.
+# Wrapped by `crate::readiness` so non-Linux builds no-op cleanly.
+[target.'cfg(target_os = "linux")'.dependencies]
+sd-notify = "0.4"
+
+[dev-dependencies]
+tokio = { workspace = true, features = ["test-util"] }
+tracing-subscriber = { workspace = true }
+tempfile = "3"
+rcgen = "0.13"

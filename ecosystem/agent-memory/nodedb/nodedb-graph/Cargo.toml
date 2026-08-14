@@ -1,0 +1,28 @@
+[package]
+name = "nodedb-graph"
+description = "Shared graph engine (CSR adjacency index + traversal) for NodeDB Origin and Lite"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license = "Apache-2.0"
+readme = "README.md"
+repository.workspace = true
+homepage.workspace = true
+documentation = "https://docs.rs/nodedb-graph"
+keywords = ["graph", "csr", "traversal", "pagerank", "cypher"]
+categories = ["algorithms", "data-structures"]
+
+[dependencies]
+nodedb-types = { workspace = true }
+nodedb-mem = { workspace = true }
+serde = { workspace = true }
+rmpv = { workspace = true }
+zerompk = { workspace = true }
+rkyv = { workspace = true }
+tracing = { workspace = true }
+thiserror = { workspace = true }
+arc-swap = { workspace = true }
+
+[dev-dependencies]
+serde_json = { workspace = true }
+sonic-rs = { workspace = true }

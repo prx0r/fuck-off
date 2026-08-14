@@ -1,0 +1,321 @@
+[workspace]
+members = [
+  "nodedb",
+  "nodedb-bridge",
+  "nodedb-wal",
+  "nodedb-mem",
+  "nodedb-crdt",
+  "nodedb-raft",
+  "nodedb-cluster",
+  "nodedb-types",
+  "nodedb-client",
+  "nodedb-query",
+  "nodedb-codec",
+  "nodedb-spatial",
+  "nodedb-graph",
+  "nodedb-vector",
+  "nodedb-vector-gpu",
+  "nodedb-fts",
+  "nodedb-strict",
+  "nodedb-columnar",
+  "nodedb-array",
+  "nodedb-sql",
+  "nodedb-physical",
+  "nodedb-test-support",
+  "nodedb-cluster-tests",
+  "nodedb-client-tests",
+]
+resolver = "2"
+
+[workspace.package]
+version = "0.5.0"
+edition = "2024"
+rust-version = "1.94"
+license = "BUSL-1.1"
+readme = "README.md"
+repository = "https://github.com/NodeDB-Lab/nodedb"
+homepage = "https://nodedb.dev"
+documentation = "https://docs.rs/nodedb"
+
+[workspace.dependencies]
+# Foundation crates (internal)
+nodedb = { path = "nodedb", version = "0.5" }
+nodedb-types = { path = "nodedb-types", version = "0.5" }
+nodedb-client = { path = "nodedb-client", version = "0.5" }
+nodedb-bridge = { path = "nodedb-bridge", version = "0.5" }
+nodedb-wal = { path = "nodedb-wal", version = "0.5" }
+nodedb-mem = { path = "nodedb-mem", version = "0.5" }
+nodedb-crdt = { path = "nodedb-crdt", version = "0.5" }
+nodedb-raft = { path = "nodedb-raft", version = "0.5" }
+nodedb-cluster = { path = "nodedb-cluster", version = "0.5" }
+nodedb-query = { path = "nodedb-query", version = "0.5" }
+nodedb-codec = { path = "nodedb-codec", version = "0.5" }
+nodedb-spatial = { path = "nodedb-spatial", version = "0.5" }
+nodedb-graph = { path = "nodedb-graph", version = "0.5" }
+nodedb-vector = { path = "nodedb-vector", version = "0.5" }
+nodedb-vector-gpu = { path = "nodedb-vector-gpu", version = "0.5" }
+nodedb-fts = { path = "nodedb-fts", version = "0.5" }
+nodedb-strict = { path = "nodedb-strict", version = "0.5" }
+nodedb-columnar = { path = "nodedb-columnar", version = "0.5" }
+nodedb-array = { path = "nodedb-array", version = "0.5" }
+nodedb-sql = { path = "nodedb-sql", version = "0.5" }
+nodedb-physical = { path = "nodedb-physical", version = "0.5" }
+nodedb-test-support = { path = "nodedb-test-support" }
+
+# Async runtimes
+tokio = { version = "1", features = ["full"] }
+
+# Poison-free synchronization for security-critical in-memory state.
+parking_lot = "0.12"
+
+# Error handling & diagnostics
+thiserror = "2.0"
+tracing = "0.1"
+tracing-subscriber = { version = "0.3", features = ["env-filter", "json"] }
+
+# Black-box recorder for corruption / invariant / durability failures.
+# Declared featureless here on purpose: several crates in this workspace depend
+# on it and Cargo must resolve them all to ONE package, or the host initializes
+# one recorder while every emit through the other silently disappears. Host-only
+# features (`native-crash`) are added by the binary that arms them, never here,
+# so a wasm build of a library crate never pulls the crash toolchain in.
+faultbox = { version = "0.1" }
+
+# Serialization
+serde = { version = "1", features = ["derive"] }
+
+# Memory
+tikv-jemallocator = "0.7"
+tikv-jemalloc-ctl = { version = "0.7", features = ["stats"] }
+
+# System
+libc = "0.2"
+
+# Checksums
+crc32c = "0.6"
+
+# Crypto
+# Pinned to the digest 0.10 generation: `rsa` (JWT RS256) has no release on
+# digest 0.11, so sha2 0.11 / hmac 0.13 / aes-gcm 0.11 / p256 0.14 cannot be
+# adopted until it does.
+hmac = "0.12"
+hkdf = "0.12"
+subtle = "2"
+base64 = "0.23"
+getrandom = { version = "0.4", features = ["std"] }
+aes-gcm = "0.10"
+argon2 = "0.5"
+zeroize = { version = "1", features = ["derive"] }
+aws-sdk-kms = { version = "1", default-features = false, features = [
+  "default-https-client",
+] }
+aws-config = { version = "1", default-features = false, features = [
+  "default-https-client",
+  "rt-tokio",
+] }
+
+# JWT / JWKS (EC key support for ES256/ES384)
+p256 = { version = "0.13", features = ["ecdsa"] }
+p384 = { version = "0.13", features = ["ecdsa"] }
+
+# HTTP client (JWKS fetch)
+reqwest = { version = "0.13", default-features = false, features = [
+  "rustls",
+  "json",
+  "query",
+] }
+
+# Hashing
+sha2 = { version = "0.10", features = ["oid"] }
+
+# WASM runtime
+wasmtime = { version = "47", default-features = false, features = [
+  "cranelift",
+  "runtime",
+] }
+
+# Memory-mapped I/O
+memmap2 = "0.9"
+
+# Cold storage
+parquet = "59"
+object_store = { version = "0.14", features = ["aws"] }
+bytes = "1"
+
+# io_uring
+io-uring = "0.7"
+
+# CRDTs
+loro = "=1.13.9"
+
+# Kafka bridge
+rdkafka = { version = "0.39", features = ["cmake-build"] }
+
+# zlib: rdkafka-sys (and other transitive C deps) link libz dynamically by
+# default, which makes the release binary depend on libz.so.1 at runtime and
+# breaks minimal base images (e.g. Chainguard glibc-dynamic). Force the
+# `static` feature on libz-sys via Cargo's feature unification so zlib is
+# baked into the binary and the runtime image needs no extra .so files.
+libz-sys = { version = "1", features = ["static"] }
+
+# Regex
+regex = "1"
+
+# Protobuf + compression (Prometheus remote write/read, OTLP)
+prost = "0.14"
+snap = "1"
+flate2 = "1"
+tonic = "0.14"
+
+# Arrow (columnar format)
+arrow = { version = "59", default-features = false, features = ["ipc"] }
+
+# Config & serialization
+toml = "1"
+anyhow = "1"
+serde_json = "1"
+sonic-rs = "0.5"
+chrono = { version = "0.4", features = ["std"], default-features = false }
+
+# MessagePack
+rmpv = "1"
+# Fork pending upstream nuskey8/zerompk#61: the derived codecs are
+# `inline(always)`, which folds whole codec trees into one function and makes
+# large plan enums cost minutes to compile. Drop the git source once released.
+zerompk = { version = "0.7", git = "https://github.com/farhan-syah/zerompk", rev = "bb3156cf17b399b0dc2dd90895133a169a29cac0", features = [
+  "std",
+  "derive",
+] }
+
+# Bitmap
+roaring = "0.11"
+
+# Zero-copy serialization
+rkyv = { version = "0.8", features = ["alloc"] }
+
+# Atomic pointer swap for non-blocking index cutover
+arc-swap = "1"
+
+# Safe transmutation for f32/u8 slice casts
+bytemuck = { version = "1", features = ["derive"] }
+
+# IEEE 754 half-precision (f16) and brain-float (bf16) types
+half = { version = "2", features = ["bytemuck"] }
+
+# WebSocket
+tokio-tungstenite = "0.30"
+
+# Storage
+redb = "4"
+
+# Temp files (external sort spill)
+tempfile = "3"
+
+# Text search
+rust-stemmers = "1"
+unicode-normalization = "0.1"
+
+# Fast hashing for integer keys (GROUP BY aggregation)
+rustc-hash = "2"
+
+# Fast non-cryptographic hashing (xxHash3 for cluster key partitioning)
+xxhash-rust = { version = "0.8", features = ["xxh3"] }
+
+# Fast parsing (CSV bulk import)
+memchr = "2.7"
+lexical-core = "1"
+
+# Random
+rand = "0.10"
+
+# ID types
+uuid = { version = "1", features = ["v4", "v7", "serde", "js"] }
+
+# Inline-allocated small vectors
+smallvec = { version = "1", features = ["serde"] }
+ulid = "3"
+nanoid = "0.5"
+
+# Arbitrary-precision decimal
+rust_decimal = { version = "1", features = ["serde-with-str"] }
+
+# QUIC transport
+quinn = "0.11"
+
+# Ecosystem
+nexar = "0.1"
+
+# H3 hexagonal spatial index
+h3o = "0.10"
+
+# Linear algebra (SVD, matrix ops for OPQ Procrustes rotation)
+nalgebra = "0.35"
+
+# Compression
+zstd = "0.13"
+# `alloc`, not `std`: the codec crate must stay usable from the wasm builds.
+lz4_flex = { version = "0.14", default-features = false, features = [
+  "safe-encode",
+  "safe-decode",
+  "alloc",
+] }
+pco = "1"
+
+# PostgreSQL wire protocol
+pgwire = { version = "0.40", default-features = false, features = [
+  "server-api-aws-lc-rs",
+] }
+postgres-types = "0.2"
+tokio-postgres = "0.7"
+async-trait = "0.1"
+futures = "0.3"
+async-stream = "0.3"
+
+
+# HTTP API
+axum = { version = "0.8", features = ["ws"] }
+axum-server = { version = "0.8", features = ["tls-rustls"] }
+tower = "0.5"
+tower-http = { version = "0.7", features = ["cors", "trace"] }
+
+# TLS
+tokio-rustls = { version = "0.26", default-features = false, features = [
+  "aws-lc-rs",
+] }
+rustls-pemfile = "2"
+
+# Benchmarking
+fluxbench = "0.1"
+
+[profile.dev]
+debug = "line-tables-only"
+# Strip symbol tables from dev/test binaries. With --all-features every test
+# binary statically links the full dependency closure, and there are hundreds of
+# them, so an unstripped target/ runs to ~100 GB. Stripping removes better than a
+# third of each binary. This unsymbolises panics/backtraces on ordinary dev
+# builds; when you need to debug, build with `--profile debugging`, which keeps
+# full symbols (see below).
+strip = true
+
+[profile.dev.package."*"]
+debug = false
+
+[profile.ci]
+inherits = "dev"
+debug = false
+incremental = false
+# Drop symbol tables from the linked test binaries. With --all-features every
+# test binary statically links the full dependency closure, and there are
+# hundreds of them, so target/ runs to roughly 100 GB — enough to exhaust a CI
+# runner mid-link, where the linker's memory-mapped write aborts with SIGBUS
+# instead of reporting a full disk. Stripping removes better than a third of
+# each binary, which is the difference between fitting and not. Backtraces here
+# are already unsymbolised (`debug = false`), so this costs no diagnostic value
+# the profile had.
+strip = true
+
+[profile.debugging]
+inherits = "dev"
+debug = true
+# dev strips symbols; override it here so the debugging profile stays symbolised.
+strip = false

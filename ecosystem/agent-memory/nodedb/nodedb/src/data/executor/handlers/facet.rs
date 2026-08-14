@@ -1,0 +1,220 @@
+// SPDX-License-Identifier: BUSL-1.1
+
+//! Multi-facet aggregation handler.
+//!
+//! Computes facet counts for multiple fields in a single query execution.
+//! The filter predicate is evaluated once to produce a set of matching document
+//! IDs, then each facet field is counted against that shared set — either via
+//! index-backed counting (if the field has a secondary index) or via HashMap
+//! counting over the matching documents.
+
+use std::collections::{HashMap, HashSet};
+
+use tracing::debug;
+
+use crate::bridge::envelope::{ErrorCode, Response};
+use crate::bridge::scan_filter::ScanFilter;
+use crate::data::executor::core_loop::CoreLoop;
+use crate::data::executor::task::ExecutionTask;
+
+impl CoreLoop {
+    /// Execute a multi-facet count query.
+    ///
+    /// Returns a JSON object: `{ field: [{value, count}, ...], ... }` where
+    /// each field has its facet values sorted by count descending.
+    pub(in crate::data::executor) fn execute_facet_counts(
+        &mut self,
+        task: &ExecutionTask,
+        tid: u64,
+        collection: &str,
+        filter_bytes: &[u8],
+        fields: &[String],
+        limit_per_facet: usize,
+    ) -> Response {
+        debug!(core = self.core_id, %collection, facet_fields = fields.len(), "facet counts");
+
+        // Step 1: Evaluate filter predicate once → set of matching document IDs.
+        let filters: Vec<ScanFilter> = if filter_bytes.is_empty() {
+            Vec::new()
+        } else {
+            match zerompk::from_msgpack(filter_bytes) {
+                Ok(f) => f,
+                Err(e) => {
+                    return self.response_error(
+                        task,
+                        ErrorCode::Internal {
+                            detail: format!("deserialize facet filters: {e}"),
+                        },
+                    );
+                }
+            }
+        };
+
+        let matching_ids = match self.scan_matching_documents(
+            task.request.database_id.as_u64(),
+            tid,
+            collection,
+            &filters,
+        ) {
+            Ok(ids) => ids,
+            Err(e) => {
+                return self.response_error(
+                    task,
+                    ErrorCode::Internal {
+                        detail: e.to_string(),
+                    },
+                );
+            }
+        };
+
+        let matching_set: HashSet<String> = matching_ids.iter().cloned().collect();
+
+        // Step 2: For each facet field, count values.
+        let mut facet_result = serde_json::Map::new();
+        let effective_limit = if limit_per_facet == 0 {
+            usize::MAX
+        } else {
+            limit_per_facet
+        };
+
+        for field in fields {
+            let counts = self.count_facet_field(
+                task.request.database_id.as_u64(),
+                tid,
+                collection,
+                field,
+                &matching_set,
+                &matching_ids,
+            );
+            let facet_values: Vec<serde_json::Value> = counts
+                .into_iter()
+                .take(effective_limit)
+                .map(|(value, count)| serde_json::json!({ "value": value, "count": count }))
+                .collect();
+            facet_result.insert(field.clone(), serde_json::Value::Array(facet_values));
+        }
+
+        // Cache the result.
+        let cache_key = facet_cache_key(
+            task.request.database_id.as_u64(),
+            tid,
+            collection,
+            fields,
+            filter_bytes,
+        );
+        if self.aggregate_cache.len() < 256
+            && let Ok(bytes) =
+                nodedb_types::json_to_msgpack(&serde_json::Value::Object(facet_result.clone()))
+        {
+            self.aggregate_cache.insert(cache_key, bytes);
+        }
+
+        match super::super::response_codec::encode_json_as_msgpack(&serde_json::Value::Object(
+            facet_result,
+        )) {
+            Ok(payload) => self.response_with_payload(task, payload),
+            Err(e) => self.response_error(
+                task,
+                crate::bridge::envelope::ErrorCode::Internal {
+                    detail: e.to_string(),
+                },
+            ),
+        }
+    }
+
+    /// Count distinct values for a single facet field, filtered to matching documents.
+    ///
+    /// Tries index-backed counting first (O(index_entries)), falls back to
+    /// document-scan counting (O(matching_docs)).
+    fn count_facet_field(
+        &self,
+        database_id: u64,
+        tid: u64,
+        collection: &str,
+        field: &str,
+        matching_set: &HashSet<String>,
+        matching_ids: &[String],
+    ) -> Vec<(String, usize)> {
+        // Fast path: index-backed counting with filtered doc set.
+        if let Ok(groups) = self.sparse.scan_index_groups_filtered(
+            database_id,
+            tid,
+            collection,
+            field,
+            matching_set,
+        ) && !groups.is_empty()
+        {
+            return groups;
+        }
+
+        // Fallback: scan matching documents, extract field from msgpack, count.
+        //
+        // The bodies are STORED rows, so the encoding comes from the
+        // collection's registered kind. Normalizing them as documents leaves a
+        // strict collection's Binary Tuple untouched — `extract_field` then
+        // finds nothing in every row and the facet reports an empty count
+        // rather than an error, so the facet silently disagrees with the scan
+        // that produced `matching_ids`.
+        let body_format = self.sparse_body_format(
+            crate::types::DatabaseId::new(database_id),
+            crate::types::TenantId::new(tid),
+            collection,
+        );
+        let mut counts: HashMap<String, usize> = HashMap::new();
+        for doc_id in matching_ids {
+            if let Ok(Some(bytes)) = self.sparse.get(database_id, tid, collection, doc_id) {
+                let mp = crate::data::executor::scan_normalize::sparse_body_to_msgpack(
+                    &bytes,
+                    body_format.as_format_ref(),
+                );
+                if let Some((start, end)) = nodedb_query::msgpack_scan::extract_field(&mp, 0, field)
+                {
+                    let value_str = if let Some(s) =
+                        nodedb_query::msgpack_scan::read_str(&mp, start)
+                    {
+                        s.to_string()
+                    } else if let Some(i) = nodedb_query::msgpack_scan::read_i64(&mp, start) {
+                        i.to_string()
+                    } else if let Some(f) = nodedb_query::msgpack_scan::read_f64(&mp, start) {
+                        f.to_string()
+                    } else if let Some(b) = nodedb_query::msgpack_scan::read_bool(&mp, start) {
+                        b.to_string()
+                    } else if nodedb_query::msgpack_scan::read_null(&mp, start) {
+                        continue;
+                    } else {
+                        // Complex value — stringify via transcoder.
+                        nodedb_types::msgpack_to_json_string(&mp[start..end]).unwrap_or_default()
+                    };
+                    *counts.entry(value_str).or_default() += 1;
+                }
+            }
+        }
+
+        let mut result: Vec<(String, usize)> = counts.into_iter().collect();
+        result.sort_by_key(|r| std::cmp::Reverse(r.1)); // Count descending.
+        result
+    }
+}
+
+/// Build a cache key for facet counts.
+fn facet_cache_key(
+    database_id: u64,
+    tid: u64,
+    collection: &str,
+    fields: &[String],
+    filter_bytes: &[u8],
+) -> (crate::types::DatabaseId, crate::types::TenantId, String) {
+    use std::fmt::Write;
+    let mut rest = format!("{collection}\0facet:");
+    let _ = write!(rest, "{}", fields.join(","));
+    if !filter_bytes.is_empty() {
+        // Hash the filter bytes to avoid bloating the cache key.
+        let hash = crc32c::crc32c(filter_bytes);
+        let _ = write!(rest, "\0filter:{hash:08x}");
+    }
+    (
+        crate::types::DatabaseId::new(database_id),
+        crate::types::TenantId::new(tid),
+        rest,
+    )
+}

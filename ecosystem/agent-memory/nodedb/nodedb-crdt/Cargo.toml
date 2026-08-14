@@ -1,0 +1,31 @@
+[package]
+name = "nodedb-crdt"
+description = "CRDT engine with SQL constraint validation and dead-letter queue"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license = "Apache-2.0"
+readme = "README.md"
+repository.workspace = true
+homepage.workspace = true
+documentation = "https://docs.rs/nodedb-crdt"
+keywords = ["crdt", "loro", "sync", "conflict-resolution", "distributed"]
+categories = ["data-structures", "algorithms"]
+
+[dependencies]
+thiserror = { workspace = true }
+tracing = { workspace = true }
+loro = { workspace = true }
+serde = { workspace = true }
+zerompk = { workspace = true }
+nodedb-types = { workspace = true }
+nodedb-query = { workspace = true }
+sha2 = { workspace = true }
+hmac = { workspace = true }
+hkdf = { workspace = true }
+subtle = { workspace = true }
+getrandom = { workspace = true }
+
+[dev-dependencies]
+tokio = { workspace = true }
+serde_json = { workspace = true }

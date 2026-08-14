@@ -1,0 +1,28 @@
+[package]
+name = "nodedb-columnar"
+description = "Columnar segment format and memtable for NodeDB analytical storage"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license = "Apache-2.0"
+readme = "README.md"
+repository.workspace = true
+homepage.workspace = true
+documentation = "https://docs.rs/nodedb-columnar"
+keywords = ["columnar", "segment", "compression", "olap", "analytics"]
+categories = ["database-implementations", "compression"]
+
+[dependencies]
+nodedb-types = { workspace = true }
+nodedb-codec = { workspace = true }
+nodedb-mem = { workspace = true }
+thiserror = { workspace = true }
+serde = { workspace = true }
+serde_json = { workspace = true }
+sonic-rs = { workspace = true }
+zerompk = { workspace = true }
+crc32c = { workspace = true }
+uuid = { workspace = true }
+roaring = { workspace = true }
+rust_decimal = { workspace = true }
+nodedb-wal = { workspace = true }

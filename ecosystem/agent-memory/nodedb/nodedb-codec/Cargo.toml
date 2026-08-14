@@ -1,0 +1,39 @@
+[package]
+name = "nodedb-codec"
+description = "Compression codecs for NodeDB timeseries columnar storage"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license = "Apache-2.0"
+readme = "README.md"
+repository.workspace = true
+homepage.workspace = true
+documentation = "https://docs.rs/nodedb-codec"
+keywords = ["compression", "codec", "alp", "fastlanes", "gorilla"]
+categories = ["compression", "encoding"]
+
+[dependencies]
+thiserror = { workspace = true }
+serde = { workspace = true }
+serde_json = { workspace = true }
+sonic-rs = { workspace = true }
+zerompk = { workspace = true }
+
+# LZ4 — pure Rust, compiles to WASM natively
+lz4_flex = { workspace = true }
+
+# Pcodec — numerical compression for irregular sequences
+pco = { workspace = true }
+
+# Linear algebra (SVD for OPQ Procrustes rotation update)
+nalgebra = { workspace = true }
+
+# Zstd — native target uses C libzstd (fast), WASM target uses pure Rust decoder
+[target.'cfg(not(target_arch = "wasm32"))'.dependencies]
+zstd = { workspace = true }
+
+[target.'cfg(target_arch = "wasm32")'.dependencies]
+ruzstd = "0.7"
+
+[dev-dependencies]
+rand = { workspace = true }

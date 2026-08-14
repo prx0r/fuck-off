@@ -62,6 +62,7 @@ MATRIX = {
   "validate-organism-loop.py": ("L09", "patala organism vision (R2)", "Co-Evolving Epistemic Organism", "organism", "consumer→research: probe→gap→intervention→proposal→human-gate — 8/8"),
   "validate-pedagogy.py": ("L09", "patala education vision (R2)", "Education+Organism", "pedagogy", "live adaptive pedagogy: MasteryEvidence→reducer→LearnerState→next-interaction — 7/7"),
   "experiment-causal-operational-graph.py": ("L12", "patalamix review #12", "Self-Proving System", "causal-operational", "the 5th graph: why the system acted (operational provenance)"),
+  "experiment-execution-replay.py": ("L09", "agentstateprotocol+DML (cloned)", "Autonomous Institute", "execution", "checkpoint/rollback/branch + deterministic replay + causal trace (gaps B+C)"),
 }
 
 def main():

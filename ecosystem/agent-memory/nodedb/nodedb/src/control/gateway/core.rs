@@ -1,0 +1,663 @@
+// SPDX-License-Identifier: BUSL-1.1
+
+//! Gateway — the single entry point for executing a `PhysicalPlan` against
+//! the cluster.
+//!
+//! The gateway:
+//! 1. Computes a [`GatewayVersionSet`] from the plan (collection → descriptor
+//!    version mapping).
+//! 2. Routes the plan via [`route_plan`] to `Local` or `Remote` task routes.
+//! 3. Dispatches each route (local SPSC or `ExecuteRequest` RPC) with typed
+//!    `NotLeader` retry (up to 3 attempts).
+//! 4. Handles `RetryableSchemaChanged` (descriptor cache miss) by fetching a
+//!    fresh lease and re-planning once.
+//! 5. Fuses multiple vShard payloads for broadcast scans.
+//! 6. Returns `Vec<Vec<u8>>` payloads to the caller.
+//!
+//! The `execute_sql` entry point additionally checks the gateway-level
+//! [`PlanCache`] keyed on `(sql_text_hash, placeholder_types_hash,
+//! DescriptorVersionSet)` before calling the planner.
+
+use std::sync::atomic::{AtomicU64, Ordering};
+use std::sync::{Arc, Weak};
+use std::time::SystemTime;
+
+use tracing::{Instrument, debug, info_span};
+
+use crate::Error;
+use crate::control::server::shared::authorization::AuthorizedTask;
+use crate::control::state::SharedState;
+use crate::control::trace_export::EmitSpanParams;
+use crate::types::{DatabaseId, Lsn, TenantId, TraceId, TxnId, VShardId};
+use nodedb_physical::physical_plan::PhysicalPlan;
+
+use super::dispatcher::{DispatchRouteParams, default_deadline_ms, dispatch_route};
+use super::fuser::fuse_payloads;
+use super::key_extractor::UnwiredKeyExtractor;
+use super::plan_cache::PlanCache;
+use super::retry::retry_not_leader;
+use super::route::TaskRoute;
+use super::router::{resolve_decision, route_plan};
+use super::version_set::GatewayVersionSet;
+
+/// Context passed to [`Gateway::execute`].
+pub struct QueryContext {
+    pub tenant_id: TenantId,
+    pub trace_id: TraceId,
+    /// Database scope for the query. Used to route collections to vShards
+    /// (the database id is folded into the routing hash) and to scope
+    /// catalog lookups. Single-database deployments pass
+    /// [`DatabaseId::DEFAULT`].
+    pub database_id: DatabaseId,
+    /// Session-transaction id for resolving the per-transaction staging
+    /// overlay (read-your-own-writes) on local SPSC dispatch and for
+    /// forwarding on remote `ExecuteRequest`. `None` for autocommit and
+    /// non-interactive callers.
+    pub txn_id: Option<TxnId>,
+}
+
+pub(super) fn authorized_plan_for_context(
+    ctx: &QueryContext,
+    authorized: AuthorizedTask,
+) -> Result<PhysicalPlan, Error> {
+    let task = authorized.into_physical_task();
+    if task.tenant_id != ctx.tenant_id
+        || task.database_id != ctx.database_id
+        || task.txn_id != ctx.txn_id
+    {
+        return Err(Error::Internal {
+            detail: "authorized task scope does not match gateway query context".into(),
+        });
+    }
+    Ok(task.plan)
+}
+
+/// The gateway: routes, dispatches, retries, and caches physical plans.
+pub struct Gateway {
+    /// `Weak` back-reference to the owning [`SharedState`].
+    ///
+    /// `SharedState` owns this `Gateway` via its strong `Option<Arc<Gateway>>`
+    /// field, so a strong `Arc<SharedState>` here would form a reference cycle
+    /// that keeps `SharedState` alive forever (its clone count never reaches
+    /// zero on shutdown). Holding it `Weak` breaks the cycle: while the node
+    /// runs some other owner always keeps `SharedState` alive, so
+    /// [`Gateway::shared`] always upgrades; `None` only occurs during full
+    /// teardown, where a clean typed error (never a panic) is correct.
+    shared: Weak<SharedState>,
+    pub plan_cache: Arc<PlanCache>,
+    /// Number of times `retry_not_leader` retried due to a `NotLeader` response.
+    /// Each retry attempt after the initial attempt increments this counter.
+    /// Observable via [`Gateway::not_leader_retry_count`]. `pub(super)` so the
+    /// streaming entry point in `stream.rs` can increment it identically.
+    pub(super) not_leader_retry_count: Arc<AtomicU64>,
+}
+
+impl Gateway {
+    /// Construct a new gateway.
+    ///
+    /// Must be called after cluster topology / routing table is populated in
+    /// `SharedState` (after `cluster::start_raft`) and before listeners bind.
+    pub fn new(shared: Arc<SharedState>) -> Self {
+        Self {
+            plan_cache: Arc::new(PlanCache::default_capacity()),
+            shared: Arc::downgrade(&shared),
+            not_leader_retry_count: Arc::new(AtomicU64::new(0)),
+        }
+    }
+
+    /// Upgrade the `Weak` back-reference to a strong `Arc<SharedState>`.
+    ///
+    /// Always succeeds while the node is running (some other owner keeps
+    /// `SharedState` alive). Returns a typed error — never panics — if called
+    /// while racing full node teardown, after the last strong `Arc` is gone.
+    pub(crate) fn shared(&self) -> Result<Arc<SharedState>, Error> {
+        self.shared.upgrade().ok_or_else(|| Error::Internal {
+            detail: "gateway: SharedState dropped (node shutting down)".into(),
+        })
+    }
+
+    /// Total number of NotLeader-triggered retries since this gateway was created.
+    ///
+    /// Each individual retry attempt (not each NotLeader error) increments the
+    /// counter. Useful in tests to assert that the retry path was exercised.
+    pub fn not_leader_retry_count(&self) -> u64 {
+        self.not_leader_retry_count.load(Ordering::Relaxed)
+    }
+
+    /// Execute a pre-planned `PhysicalPlan` against the cluster.
+    ///
+    /// Returns one `Vec<u8>` payload per vShard result. For point operations
+    /// the returned Vec has exactly one element.
+    ///
+    /// Thin wrapper over [`Gateway::execute_with_watermarks`] that discards the
+    /// per-shard read watermarks — for the ~5 existing callers that only need
+    /// payloads.
+    pub async fn execute(
+        &self,
+        ctx: &QueryContext,
+        authorized: AuthorizedTask,
+    ) -> Result<Vec<Vec<u8>>, Error> {
+        self.execute_with_watermarks(ctx, authorized)
+            .await
+            .map(|(payloads, _watermarks, _read_version)| payloads)
+    }
+
+    /// Execute a trusted Control-Plane plan that has no external caller.
+    ///
+    /// User-facing transports must use [`Gateway::execute`] with a capability
+    /// minted by the shared authorization service. This entry point exists for
+    /// derived fan-out, replay, maintenance, and consensus work whose authority
+    /// comes from an already-admitted internal operation.
+    pub(crate) async fn execute_internal(
+        &self,
+        ctx: &QueryContext,
+        plan: PhysicalPlan,
+    ) -> Result<Vec<Vec<u8>>, Error> {
+        self.execute_internal_with_watermarks(ctx, plan)
+            .await
+            .map(|(payloads, _watermarks, _read_version)| payloads)
+    }
+
+    pub(crate) async fn execute_internal_with_watermarks(
+        &self,
+        ctx: &QueryContext,
+        plan: PhysicalPlan,
+    ) -> Result<(Vec<Vec<u8>>, Vec<(VShardId, Lsn)>, Lsn), Error> {
+        self.execute_plan_with_watermarks(ctx, plan).await
+    }
+
+    /// Execute a pre-planned `PhysicalPlan`, returning both the raw payloads and
+    /// the per-shard read watermarks observed across every dispatched route.
+    ///
+    /// Each `(vshard, watermark_lsn)` entry is one participating shard's real
+    /// committed LSN (local SPSC response watermark or the remote's
+    /// `ExecuteResponse.watermark_lsn`). The cross-node gather consumer folds
+    /// these into the transaction read-set so a remote-homed read records the
+    /// remote's actual LSN instead of the former hardcoded `Lsn::ZERO`.
+    pub async fn execute_with_watermarks(
+        &self,
+        ctx: &QueryContext,
+        authorized: AuthorizedTask,
+    ) -> Result<(Vec<Vec<u8>>, Vec<(VShardId, Lsn)>, Lsn), Error> {
+        let plan = authorized_plan_for_context(ctx, authorized)?;
+        self.execute_plan_with_watermarks(ctx, plan).await
+    }
+
+    async fn execute_plan_with_watermarks(
+        &self,
+        ctx: &QueryContext,
+        plan: PhysicalPlan,
+    ) -> Result<(Vec<Vec<u8>>, Vec<(VShardId, Lsn)>, Lsn), Error> {
+        let shared = self.shared()?;
+        let span = info_span!(
+            "gateway.execute",
+            trace_id = %ctx.trace_id,
+            tenant_id = ctx.tenant_id.as_u64()
+        );
+        let start = SystemTime::now();
+        let version_set =
+            self.collect_version_set(&plan, ctx.tenant_id.as_u64(), ctx.database_id)?;
+        let result = self
+            .execute_with_version_set(ctx, plan, version_set)
+            .instrument(span)
+            .await;
+        // Emit an OTLP span covering the whole gateway execute so an
+        // enabled collector correlates this with the executor spans
+        // emitted by every leaseholder we dispatched to — they all
+        // share the same `trace_id`.
+        shared.trace_exporter.emit(EmitSpanParams {
+            span_name: "gateway.execute",
+            trace_id: ctx.trace_id,
+            start,
+            end: SystemTime::now(),
+            tenant_id: ctx.tenant_id.as_u64(),
+            vshard_id: 0,
+            status_ok: result.is_ok(),
+        });
+
+        // Advance per-tenant observed write-HLC high-water on any
+        // successful cluster dispatch (local or remote). Used by
+        // RESTORE staleness gate. Tracking on success of every
+        // gateway.execute is intentional: backup captures its
+        // envelope watermark AFTER its own fan-out, so a fresh
+        // backup's watermark always dominates the tenant_wm it
+        // itself advanced.
+        if result.is_ok() {
+            shared.advance_tenant_write_hlc(ctx.tenant_id.as_u64());
+        }
+
+        result
+    }
+
+    /// Core execution path: route → dispatch with retry → fuse.
+    ///
+    /// Returns the fused/collected payloads alongside every route's per-shard
+    /// read watermarks (one `(vshard, watermark_lsn)` per participating shard,
+    /// accumulated across routes — never collapsed).
+    pub(super) async fn execute_with_version_set(
+        &self,
+        ctx: &QueryContext,
+        plan: PhysicalPlan,
+        version_set: GatewayVersionSet,
+    ) -> Result<(Vec<Vec<u8>>, Vec<(VShardId, Lsn)>, Lsn), Error> {
+        let shared = self.shared()?;
+        let routes = self.compute_routes(plan, ctx)?;
+
+        let deadline_ms = default_deadline_ms(&shared);
+        // Gateway-level byte ceiling: per-route `dispatch_to_data_plane`
+        // already caps each shard's payload; this additionally caps the
+        // scatter-gather *sum* so an N-shard fan-out can't accumulate
+        // N × cap across routes.
+        let max_total_bytes = shared.tuning.network.max_query_result_bytes as usize;
+        let mut all_payloads: Vec<Vec<u8>> = Vec::new();
+        let mut all_shard_watermarks: Vec<(VShardId, Lsn)> = Vec::new();
+        // Max-fold of the per-collection read-version across routes: a read
+        // targets one collection homed to one shard, so non-owning routes
+        // contribute `Lsn::ZERO` and the owning route's value survives.
+        let mut max_read_version = Lsn::ZERO;
+        let mut accumulated_bytes: usize = 0;
+
+        for route in routes {
+            let initial_decision = route.decision.clone();
+            let vshard_id_for_retry = crate::types::VShardId::new(route.vshard_id);
+            let plan_for_retry = route.plan.clone();
+            let vshard_id_u32 = route.vshard_id;
+
+            let routing_ref = shared.cluster_routing.as_deref();
+
+            let retry_counter = Arc::clone(&self.not_leader_retry_count);
+            let version_set_for_route = version_set.clone();
+            let shared_for_route = Arc::clone(&shared);
+            let outcome = retry_not_leader(routing_ref, move |attempt| {
+                if attempt > 0 {
+                    retry_counter.fetch_add(1, Ordering::Relaxed);
+                }
+                let plan = plan_for_retry.clone();
+                let shared = Arc::clone(&shared_for_route);
+                let tenant_id = ctx.tenant_id;
+                let database_id = ctx.database_id;
+                let trace_id = ctx.trace_id;
+                let txn_id = ctx.txn_id;
+                let version_set = version_set_for_route.clone();
+                async move {
+                    let decision = {
+                        let routing_guard = shared
+                            .cluster_routing
+                            .as_ref()
+                            .map(|rw| rw.read().unwrap_or_else(|p| p.into_inner()));
+                        let raft_snapshot: Vec<nodedb_cluster::GroupStatus> =
+                            shared.raft_status_fn.get().map(|f| f()).unwrap_or_default();
+                        let live_leader = move |group_id: u64| -> u64 {
+                            raft_snapshot
+                                .iter()
+                                .find(|gs| gs.group_id == group_id)
+                                .map(|gs| gs.leader_id)
+                                .unwrap_or(0)
+                        };
+                        let live_lookup: Option<&dyn Fn(u64) -> u64> =
+                            if shared.raft_status_fn.get().is_some() {
+                                Some(&live_leader)
+                            } else {
+                                None
+                            };
+                        resolve_decision(
+                            vshard_id_u32,
+                            shared.node_id,
+                            routing_guard.as_deref(),
+                            live_lookup,
+                        )
+                    };
+                    let route = TaskRoute {
+                        plan,
+                        decision,
+                        vshard_id: vshard_id_u32,
+                    };
+                    dispatch_route(DispatchRouteParams {
+                        route,
+                        shared: &shared,
+                        tenant_id,
+                        database_id,
+                        trace_id,
+                        deadline_ms,
+                        version_set: &version_set,
+                        txn_id,
+                    })
+                    .await
+                }
+            })
+            .await
+            .map_err(|e| {
+                debug!(
+                    vshard_id = vshard_id_for_retry.as_u32(),
+                    decision = ?initial_decision,
+                    error = %e,
+                    "gateway: dispatch failed"
+                );
+                e
+            })?;
+
+            // Accumulate this route's per-shard watermarks — one entry per
+            // participating shard, never collapsed to a scalar, so a multi-route
+            // read produces one read-set entry per shard.
+            all_shard_watermarks.extend(outcome.shard_watermarks);
+            if outcome.read_version_lsn > max_read_version {
+                max_read_version = outcome.read_version_lsn;
+            }
+
+            for p in outcome.payloads {
+                accumulated_bytes = accumulated_bytes.saturating_add(p.len());
+                if accumulated_bytes > max_total_bytes {
+                    return Err(Error::ExecutionLimitExceeded {
+                        detail: format!(
+                            "scatter-gather result exceeded max_query_result_bytes \
+                             ({accumulated_bytes} > {max_total_bytes} bytes)"
+                        ),
+                    });
+                }
+                all_payloads.push(p);
+            }
+        }
+
+        // For broadcast scans, fuse all shard payloads into one. The per-shard
+        // watermarks are NOT fused — each participating shard keeps its own
+        // read-set entry.
+        if all_payloads.len() > 1 {
+            let fused = fuse_payloads(all_payloads)?;
+            Ok((vec![fused.payload], all_shard_watermarks, max_read_version))
+        } else {
+            Ok((all_payloads, all_shard_watermarks, max_read_version))
+        }
+    }
+
+    /// Compute routing decisions for a plan.
+    ///
+    /// Acquires the routing guard and catalog reference, builds the
+    /// `strategy_fn` closure from the catalog, and calls [`route_plan`].
+    /// The routing guard is dropped before this function returns so the
+    /// caller's future remains `Send`.
+    ///
+    /// Shared by [`execute_with_version_set`] and [`Gateway::execute_stream`].
+    pub(super) fn compute_routes(
+        &self,
+        plan: PhysicalPlan,
+        ctx: &QueryContext,
+    ) -> Result<Vec<TaskRoute>, Error> {
+        // Fail-closed safety floor: refuse a cross-collection write whose source
+        // and target are not co-resident on one Data-Plane core. This runs in
+        // BOTH single-node and cluster mode — the single-node early-return in
+        // `route_plan` bypasses `route_single_collection`, which is exactly the
+        // multi-core scenario that triggers the silent-wrong-result bug.
+        let shared = self.shared()?;
+        super::colocation_guard::guard_cross_collection_write(&shared, ctx.database_id, &plan)?;
+
+        let routing_guard = shared
+            .cluster_routing
+            .as_ref()
+            .map(|rw| rw.read().unwrap_or_else(|p| p.into_inner()));
+        let routing = routing_guard.as_deref();
+        let catalog = Some(shared.credentials.catalog());
+        let database_id = ctx.database_id;
+        let tenant_id = ctx.tenant_id.as_u64();
+        let strategy_fn = |name: &str| {
+            catalog
+                .and_then(|c| c.get_collection(database_id, tenant_id, name).ok())
+                .flatten()
+                .map(|col| col.partition_strategy)
+                .unwrap_or_default()
+        };
+        route_plan(
+            plan,
+            shared.node_id,
+            routing,
+            ctx.database_id,
+            strategy_fn,
+            &UnwiredKeyExtractor,
+        )
+        // routing_guard dropped here
+    }
+
+    /// Collect the descriptor version set for a plan using the current catalog.
+    ///
+    /// `tenant_id` must match the authenticated tenant of the query so that
+    /// the catalog key lookup (`"{tenant_id}:{collection_name}"`) finds the
+    /// correct descriptor version. Using tenant 0 here would return version 0
+    /// for every collection stored under any other tenant, causing spurious
+    /// `DescriptorMismatch` rejections at the leader.
+    ///
+    /// `database_id` scopes the catalog lookup to the session's current database
+    /// so that a plan from one database cannot be served under another.
+    pub(super) fn collect_version_set(
+        &self,
+        plan: &PhysicalPlan,
+        tenant_id: u64,
+        database_id: DatabaseId,
+    ) -> Result<GatewayVersionSet, Error> {
+        let shared = self.shared()?;
+        let catalog = Some(shared.credentials.catalog());
+
+        Ok(GatewayVersionSet::from_plan(plan, |name| {
+            catalog
+                .and_then(|c| c.get_collection(database_id, tenant_id, name).ok())
+                .flatten()
+                .map(|col| col.descriptor_version.max(1))
+                .unwrap_or(0)
+        }))
+    }
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+    use crate::control::gateway::plan_cache::{PlanCacheKey, SqlKey, hash_sql};
+    use nodedb_physical::physical_plan::{KvOp, PhysicalPlan};
+
+    fn kv_get(col: &str) -> PhysicalPlan {
+        PhysicalPlan::Kv(KvOp::Get {
+            collection: col.into(),
+            key: b"k".to_vec(),
+            rls_filters: vec![],
+            surrogate_ceiling: None,
+        })
+    }
+
+    #[test]
+    fn plan_cache_populated_on_execute_sql() {
+        // We don't have a real SharedState in unit tests; this test validates
+        // the cache key construction logic in isolation.
+        let cache = Arc::new(PlanCache::new(8));
+        let plan = kv_get("users");
+        let vs = GatewayVersionSet::from_pairs(vec![("users".into(), 1)]);
+        let key = PlanCacheKey {
+            sql_text_hash: hash_sql("SELECT * FROM users"),
+            placeholder_types_hash: 0,
+            version_set: vs.clone(),
+        };
+
+        assert!(cache.get(&key).is_none());
+        cache.insert(key.clone(), Arc::new(plan));
+        assert!(cache.get(&key).is_some());
+    }
+
+    #[test]
+    fn version_set_stable_hash_consistent() {
+        let vs1 = GatewayVersionSet::from_pairs(vec![("a".into(), 1), ("b".into(), 2)]);
+        let vs2 = GatewayVersionSet::from_pairs(vec![("b".into(), 2), ("a".into(), 1)]);
+        // Different insertion order → same sorted set → same hash.
+        assert_eq!(vs1.stable_hash(), vs2.stable_hash());
+    }
+
+    // -------------------------------------------------------------------------
+    // Gap 5 — two-phase execute_sql cache hit tests
+    //
+    // We test the `PlanCache` two-phase logic (lookup_version_set /
+    // insert_version_set / invalidate_descriptor cross-eviction) in isolation
+    // since we have no real SharedState available in unit tests.
+    // The full end-to-end path is tested in `tests/pgwire_gateway_migration.rs`
+    // (plan cache hit counter asserted across 3 execute_sql calls).
+    // -------------------------------------------------------------------------
+
+    /// The two-phase lookup stores and retrieves the version set correctly.
+    #[test]
+    fn two_phase_lookup_stores_and_retrieves_version_set() {
+        let cache = PlanCache::new(16);
+        let sql_key = SqlKey {
+            sql_text_hash: hash_sql("SELECT * FROM widgets"),
+            placeholder_types_hash: 0,
+        };
+
+        // Initially absent.
+        assert!(cache.lookup_version_set(&sql_key).is_none());
+
+        // Store it.
+        let vs = GatewayVersionSet::from_pairs(vec![("widgets".into(), 3)]);
+        cache.insert_version_set(sql_key.clone(), vs.clone());
+
+        // Retrieve it.
+        assert_eq!(cache.lookup_version_set(&sql_key), Some(vs));
+    }
+
+    /// DDL invalidation also removes the side-cache entry for the affected SQL.
+    #[test]
+    fn invalidate_descriptor_removes_side_cache_entry() {
+        use std::sync::atomic::AtomicUsize;
+
+        let cache = PlanCache::new(16);
+        let sql_key = SqlKey {
+            sql_text_hash: hash_sql("GET widgets k"),
+            placeholder_types_hash: 0,
+        };
+        let vs = GatewayVersionSet::from_pairs(vec![("widgets".into(), 1)]);
+
+        // Populate both caches.
+        let full_key = PlanCacheKey {
+            sql_text_hash: sql_key.sql_text_hash,
+            placeholder_types_hash: sql_key.placeholder_types_hash,
+            version_set: vs.clone(),
+        };
+        cache.insert_version_set(sql_key.clone(), vs.clone());
+        cache.insert(full_key.clone(), Arc::new(kv_get("widgets")));
+
+        assert_eq!(cache.len(), 1);
+        assert!(cache.lookup_version_set(&sql_key).is_some());
+
+        // DDL bump.
+        cache.invalidate_descriptor("widgets", 2);
+
+        // Both entries must be gone.
+        assert_eq!(cache.len(), 0, "plan entry must be evicted");
+        assert!(
+            cache.lookup_version_set(&sql_key).is_none(),
+            "side-cache entry must also be evicted"
+        );
+
+        // Ensure the counter trick works: simulate "plan_fn called N times".
+        let plan_fn_calls = Arc::new(AtomicUsize::new(0));
+        let _ = plan_fn_calls; // just a placeholder — real test is in integration tests
+    }
+
+    /// Simulate the full two-phase execute_sql flow using only PlanCache APIs.
+    ///
+    /// This test proves the invariant stated in Gap 5:
+    ///   1. `plan_fn` invocation count == 1 after 3 calls.
+    ///   2. Hit count == 2 after 3 calls.
+    ///   3. After DDL invalidation on `widgets`, the next call invokes `plan_fn`
+    ///      again (count == 2).
+    ///   4. Hit count stays at 2.
+    #[test]
+    fn two_phase_execute_sql_plan_fn_called_once_then_cache_hits() {
+        use std::sync::atomic::AtomicUsize;
+
+        let cache = PlanCache::new(16);
+        let plan_fn_calls = Arc::new(AtomicUsize::new(0));
+
+        // Helper: simulates what execute_sql does on every call.
+        //
+        // `version_of_widgets` is the version the catalog would return.
+        // `expect_hit` controls whether we assert a hit or miss.
+        let simulate_call = |cache: &PlanCache,
+                             plan_fn_calls: &Arc<AtomicUsize>,
+                             version_of_widgets: u64|
+         -> bool {
+            let sql = "GET widgets key";
+            let sql_hash = hash_sql(sql);
+            let ph_hash = 0u64;
+            let sql_key = SqlKey {
+                sql_text_hash: sql_hash,
+                placeholder_types_hash: ph_hash,
+            };
+
+            // Phase 1: side cache.
+            if let Some(stored_vs) = cache.lookup_version_set(&sql_key) {
+                // Verify currency.
+                let current_version = version_of_widgets;
+                let is_current = stored_vs.matches("widgets", current_version);
+                if is_current {
+                    let full_key = PlanCacheKey {
+                        sql_text_hash: sql_hash,
+                        placeholder_types_hash: ph_hash,
+                        version_set: stored_vs.clone(),
+                    };
+                    if cache.get(&full_key).is_some() {
+                        return true; // hit
+                    }
+                }
+            }
+
+            // Miss — "plan".
+            plan_fn_calls.fetch_add(1, std::sync::atomic::Ordering::SeqCst);
+            let vs = GatewayVersionSet::from_pairs(vec![("widgets".into(), version_of_widgets)]);
+            let full_key = PlanCacheKey {
+                sql_text_hash: sql_hash,
+                placeholder_types_hash: ph_hash,
+                version_set: vs.clone(),
+            };
+            cache.insert_version_set(sql_key, vs);
+            cache.insert(full_key, Arc::new(kv_get("widgets")));
+            false // miss
+        };
+
+        // Call 1 — miss, plan_fn invoked.
+        let hit1 = simulate_call(&cache, &plan_fn_calls, 1);
+        assert!(!hit1, "call 1 must miss");
+        assert_eq!(plan_fn_calls.load(std::sync::atomic::Ordering::SeqCst), 1);
+        assert_eq!(cache.cache_hit_count(), 0);
+
+        // Call 2 — hit.
+        let hit2 = simulate_call(&cache, &plan_fn_calls, 1);
+        assert!(hit2, "call 2 must hit");
+        assert_eq!(
+            plan_fn_calls.load(std::sync::atomic::Ordering::SeqCst),
+            1,
+            "plan_fn not called again"
+        );
+        assert_eq!(cache.cache_hit_count(), 1, "one cache hit");
+
+        // Call 3 — hit.
+        let hit3 = simulate_call(&cache, &plan_fn_calls, 1);
+        assert!(hit3, "call 3 must hit");
+        assert_eq!(
+            plan_fn_calls.load(std::sync::atomic::Ordering::SeqCst),
+            1,
+            "plan_fn still not called again"
+        );
+        assert_eq!(cache.cache_hit_count(), 2, "two cache hits");
+
+        // DDL invalidation — bump descriptor version to 2.
+        cache.invalidate_descriptor("widgets", 2);
+
+        // Call 4 after DDL — must miss and invoke plan_fn again.
+        let hit4 = simulate_call(&cache, &plan_fn_calls, 2);
+        assert!(!hit4, "call 4 after DDL must miss");
+        assert_eq!(
+            plan_fn_calls.load(std::sync::atomic::Ordering::SeqCst),
+            2,
+            "plan_fn called again after DDL"
+        );
+        // Hit count stays at 2 (no new hits yet).
+        assert_eq!(
+            cache.cache_hit_count(),
+            2,
+            "hit count unchanged after DDL miss"
+        );
+    }
+}

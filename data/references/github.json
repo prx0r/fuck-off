@@ -1,5 +1,5 @@
 {
- "count": 95,
+ "count": 99,
  "entries": [
   {
    "owner": "infinitywings",
@@ -790,6 +790,46 @@
    "tier": 2,
    "tier_label": "architecture",
    "note": "Open Knowledge Format (OKF)"
+  },
+  {
+   "owner": "ekessh",
+   "name": "agentstateprotocol",
+   "repo": "ekessh/agentstateprotocol",
+   "url": "https://github.com/ekessh/agentstateprotocol",
+   "category": "agent-protocols",
+   "tier": 1,
+   "tier_label": "ingest",
+   "note": "Git for AI thoughts: checkpoint/rollback/branch/merge"
+  },
+  {
+   "owner": "daveremy",
+   "name": "deterministic-memory-layer",
+   "repo": "daveremy/deterministic-memory-layer",
+   "url": "https://github.com/daveremy/deterministic-memory-layer",
+   "category": "replay",
+   "tier": 1,
+   "tier_label": "ingest",
+   "note": "event-driven memory, deterministic replay"
+  },
+  {
+   "owner": "NodeDB-Lab",
+   "name": "nodedb",
+   "repo": "NodeDB-Lab/nodedb",
+   "url": "https://github.com/NodeDB-Lab/nodedb",
+   "category": "agent-memory",
+   "tier": 2,
+   "tier_label": "architecture",
+   "note": "local-first agent memory engine"
+  },
+  {
+   "owner": "Future-House",
+   "name": "paper-qa",
+   "repo": "Future-House/paper-qa",
+   "url": "https://github.com/Future-House/paper-qa",
+   "category": "science-infra",
+   "tier": 2,
+   "tier_label": "architecture",
+   "note": "metadata-aware scientific RAG"
   },
   {
    "owner": "algorithmicsuperintelligence",

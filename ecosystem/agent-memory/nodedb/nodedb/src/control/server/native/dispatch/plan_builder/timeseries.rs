@@ -1,0 +1,68 @@
+// SPDX-License-Identifier: BUSL-1.1
+
+//! Timeseries plan builders.
+
+use nodedb_types::protocol::TextFields;
+
+use crate::bridge::envelope::PhysicalPlan;
+use nodedb_physical::physical_plan::TimeseriesOp;
+
+pub(crate) fn build_scan(fields: &TextFields, collection: &str) -> crate::Result<PhysicalPlan> {
+    let start = fields.time_range_start.unwrap_or(0);
+    let end = fields.time_range_end.unwrap_or(i64::MAX);
+    let limit = fields.limit.unwrap_or(10_000) as usize;
+    let bucket_interval_ms = fields
+        .bucket_interval
+        .as_deref()
+        .map(|s| {
+            nodedb_types::kv_parsing::parse_interval_to_ms(s)
+                .map(|ms| ms as i64)
+                .unwrap_or(0)
+        })
+        .unwrap_or(0);
+
+    Ok(PhysicalPlan::Timeseries(TimeseriesOp::Scan {
+        collection: collection.to_string(),
+        time_range: (start, end),
+        projection: Vec::new(),
+        limit,
+        filters: Vec::new(),
+        sort_keys: Vec::new(),
+        bucket_interval_ms,
+        group_by: Vec::new(),
+        aggregates: Vec::new(),
+        gap_fill: String::new(),
+        computed_columns: Vec::new(),
+        rls_filters: Vec::new(),
+        system_time: nodedb_types::SystemTimeScope::Current,
+        valid_at_ms: None,
+    }))
+}
+
+pub(crate) fn build_ingest(fields: &TextFields, collection: &str) -> crate::Result<PhysicalPlan> {
+    let payload = fields
+        .payload
+        .as_ref()
+        .or(fields.data.as_ref())
+        .ok_or_else(|| crate::Error::BadRequest {
+            detail: "missing 'payload' or 'data'".to_string(),
+        })?
+        .clone();
+    let format = fields.format.as_deref().unwrap_or("ilp").to_string();
+
+    Ok(PhysicalPlan::Timeseries(TimeseriesOp::Ingest {
+        collection: collection.to_string(),
+        payload,
+        format,
+        wal_lsn: None,
+        // Native bulk ingest forwards the opaque payload (typically ILP
+        // or pre-encoded msgpack); the CP cannot enumerate row PKs
+        // without a decode pass, so the engine integration owns
+        // per-row identity binding.
+        surrogates: Vec::new(),
+        provenance: None,
+        rls_write_check: Vec::new(),
+        returning: None,
+        rls_filters: Vec::new(),
+    }))
+}

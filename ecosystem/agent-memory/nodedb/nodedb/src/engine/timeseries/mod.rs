@@ -1,0 +1,51 @@
+// SPDX-License-Identifier: BUSL-1.1
+
+pub mod approx_agg;
+pub mod asof_join;
+pub mod bitmap_index;
+pub mod bitmap_simd;
+pub mod columnar_agg;
+pub mod columnar_bridge;
+pub mod columnar_memtable;
+pub mod columnar_segment;
+pub mod compound_filter;
+pub mod compress;
+pub mod continuous_agg;
+pub mod gap_fill;
+pub mod gorilla;
+pub mod grouped_filter;
+pub mod grouped_scan;
+pub mod ilp;
+pub mod ilp_ingest;
+pub mod ilp_schema;
+pub mod last_value_cache;
+pub mod memtable;
+pub mod merge;
+pub mod o3_buffer;
+pub mod packed_partition;
+pub mod partition_registry;
+pub mod projection;
+pub mod query;
+pub mod query_cache;
+pub mod reader;
+pub mod recent_cache;
+pub mod retention_policy;
+pub mod s3_archive;
+pub mod schema_evolution;
+pub mod segment_index;
+pub mod self_decode;
+pub mod simd_agg;
+pub mod skip_index;
+pub mod sparse_index;
+pub mod tag_autocomplete;
+pub mod time_bucket;
+pub mod ts_detect;
+#[cfg(test)]
+mod verification;
+
+pub use columnar_memtable::{ColumnarMemtable, ColumnarMemtableConfig};
+pub use columnar_segment::ColumnarSegmentWriter;
+pub use packed_partition::{PackedError, PackedFooter};
+pub use partition_registry::PartitionRegistry;
+pub use segment_index::SegmentIndex;
+pub use self_decode::{DecodeStrategy, EmbeddedDecoder};

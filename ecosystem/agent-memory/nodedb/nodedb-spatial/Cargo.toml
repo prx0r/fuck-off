@@ -1,0 +1,31 @@
+[package]
+name = "nodedb-spatial"
+description = "Spatial indexing and query operations shared between NodeDB Origin and NodeDB-Lite"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license = "Apache-2.0"
+readme = "README.md"
+repository.workspace = true
+homepage.workspace = true
+documentation = "https://docs.rs/nodedb-spatial"
+keywords = ["spatial", "geospatial", "rtree", "geohash", "h3"]
+categories = ["science::geo", "algorithms"]
+
+[features]
+default = []
+
+[dependencies]
+nodedb-types = { workspace = true }
+nodedb-wal = { workspace = true }
+nodedb-mem = { workspace = true }
+thiserror = { workspace = true }
+serde = { workspace = true }
+serde_json = { workspace = true }
+sonic-rs = { workspace = true }
+zerompk = { workspace = true }
+rkyv = { workspace = true }
+h3o = { workspace = true }
+
+[dev-dependencies]
+rand = { workspace = true }

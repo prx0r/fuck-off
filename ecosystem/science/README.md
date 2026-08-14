@@ -15,3 +15,5 @@ Repos to ingest as test data. See `../../docs/ECOSYSTEM-INDEX.md` §2.
 | allenai/scifact | **CLONED** (528K) — claim↔evidence gold (SUPPORT/CONTRADICT/NOT_ENOUGH_INFO). import_scifact adapter validated |
 
 | stanford-oval/storm | **CLONED** (12M) — LLM knowledge curation → report projection |
+
+| Future-House/paper-qa | **CLONED** (60M) — metadata-aware scientific RAG (evidence packets) |
