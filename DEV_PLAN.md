@@ -181,22 +181,70 @@ scheduler.
 
 ---
 
+## PHASE 6 — USE THE ARCHITECTURE (wire the orphaned kernels) [THE BIG ONE — 2026-08-14]
+
+*Added by the 3-agent architecture audit: ~52 kernels exist and validate, but only ~13 are wired into
+any live path, and NONE into patala's production factory. The GEM/vision/clone machinery is OVER-PROVEN
+and UNDER-FED: validators prove a machine, not a corpus. This phase makes the validated architecture
+USED, not just proven — the same disease the translation divergence had, now fixed.*
+
+### The audit result (verified by execution — see Proofs)
+- **USED (13, ip-graph-internal only):** `integrity_gate`, `next_action`, `vidyut_l0`,
+  `translation_variant`, `proof_generators`, `projection_dag`, + the read-plane kernels
+  (`context_compiler`, `seo`, `bundle_router`, `fts_search`, `translation`, `commentary_lift`).
+- **ORPHANED / VALIDATED-ONLY (16+):** `alignment_flywheel`, `verification_ensemble`, `open_ended_evolve`,
+  `self_healing`, `skill_graph`, `structure_recall`, `ingestion_organism`, `iteration_confidence`,
+  `canonical_contracts`, `factory_pool`, `organism_factory_bridge`, `misconception`, `question_growth`,
+  `enquiry`, `design_provenance`, `graph_stable` — each has a passing validator but is referenced nowhere else.
+- **CLONED-UNUSED (~30/48 repos):** paper-qa, pyBKT, graphiti, KAG, storm, salsa, cosign, scifact, the
+  agent-runtime set — no kernel, no validator, dead clones.
+- **The over-built layer:** the provenance/certification/signed-root substrate (`system_provenance`,
+  `design_provenance`, `graph_stable`, `evidence_ledger`, `verification_ensemble`, `certificate`) is fully
+  built but NOTHING compounds on it.
+
+### 6.1 Wire the VALIDATOR STACK onto the running Tantrāloka DAG [P0 — the moat, ip-graph's real Phase-3 job]
+After patala's DAG produces L2, VALIDATE it with the currently-orphaned GEM kernels (this makes them USED):
+- [ ] `verification_ensemble` (RefChecker+GraphCheck+RARR gate) — on the DAG's committed L2 output.
+- [ ] `evidence_ledger` (typed evidence events + confidence_kind) — record each validated translation's evidence.
+- [ ] `integrity_gate` (tri-state + primary-source gate) — already USED in the ip-graph run path; extend to the DAG output.
+- [ ] `source_registry` (claim → registered rights+health sources) — anchor the DAG's claims.
+- These turn the "verifier moat" (SPEC-16) from mechanism-only into a LIVE validator on real patala output.
+
+### 6.2 Wire the FLYWHEEL kernels into the organism / read plane [P1]
+- [ ] `misconception` + `pedagogy` + `organism` — close the learner→source repair cascade on real learner data.
+- [ ] `question_growth` + `enquiry` + `pushing_miner` — the discovered structure feeds the read plane (education/essay).
+- [ ] `design_provenance` + `system_provenance` — every design decision signed (the Self-Proving surface).
+- [ ] `structure_recall` + `retrieval` (PathRAG/HippoRAG) — wire into the read plane (currently uses
+      `context_compiler`/`seo` but NOT the validated retrieval kernels).
+
+### 6.3 Route ip-graph's organisms through patala's factory (kill the shadow system) [P1]
+- [ ] `factory_pool`/`next_action`/`ingestion_organism` → route through patala's `factory_scheduler` +
+      `corpus_state` (via `organism_factory_bridge`, 6/6) so there is ONE orchestrator, not a parallel shadow.
+
+### 6.4 Promotion gate: every kernel wired = USED, not just VALIDATED [P0]
+- The audit's definition of done: a kernel is USED iff imported by a `run-*`/`build-*`/translation/read-plane
+  path (not just its own `validate-*.py`). Track this in KERNELS-INDEX (add a "wired" column).
+
+---
+
 ## THE BUILD ORDER (updated)
 
 1. **Phase 0 first** — reconcile the record (stale layers, 3 taxonomies, GAPS, state.json L08 overclaim,
    the 2 THEATRE validators). Nothing is trustworthy until the record matches reality.
-2. **Phase 3 (Tantrāloka)** — let the canonical DAG (patala) run; ip-graph's job is VALIDATION + the
-   crux compass. This is the P0 now that the translation path is correct.
-3. **Phase 1 (remaining kernels)** — `question_growth.py`, `enquiry.py` (deterministic, light, buildable
-   while the factory burns model calls).
-4. **Phase 2 (security)** — Gap E before marketplace; L08 is the empty layer.
-5. **Phase 4 (deploy)** — make the read plane live.
-6. **Phase 5 (real scale)** — the agentic loop + real consumer data.
+2. **Phase 3 + 6.1 (Tantrāloka)** — let the canonical DAG (patala) run; ip-graph wires the VALIDATOR STACK
+   (verification_ensemble/evidence_ledger/integrity_gate) onto the DAG's real output. The moat, now.
+3. **Phase 6.2-6.3** — wire the flywheel kernels into the organism/read plane + route organisms through
+   patala's scheduler (one orchestrator, no shadow system).
+4. **Phase 1 done** — all 5 missing kernels built (misconception/question_growth/enquiry/design_provenance/graph_stable).
+5. **Phase 2 (security)** — Gap E before marketplace; L08 is the empty layer.
+6. **Phase 4 (deploy)** — make the read plane live.
+7. **Phase 5 (real scale)** — the agentic loop + real consumer data.
 
-**The honest one-line:** the machine is real (82/82, 48 kernels) and the translation path is now CORRECT
-(patala's argument-guided DAG, PG-backed); but the RECORD is stale (layers, taxonomies, GAPS, state.json
-L08) and 2 validators are THEATRE. Fix the record (P0), validate the running Tantrāloka DAG + wire the
-crux compass (P3), build the 4 remaining kernels (P1), deploy (P4), then real consumers (P5).
+**The honest one-line (Rev 2, post-wiring):** the machine is real (82/82, 52 kernels) and the translation
+path is CORRECT (patala's argument-guided DAG, PG-backed). The NEXT frontier is not more kernels — it is
+**USING the ~16 orphaned but validated kernels** by wiring them onto the live DAG (validator stack),
+the organism/read plane (flywheels), and patala's scheduler (one orchestrator). Fix the record (P0),
+wire the validator stack (6.1), wire the flywheels (6.2-6.3), deploy (P4), then real consumers (P5).
 
 ## Proofs / resolution
 - The canonical translation decision: `tantraloka/CANONICAL-TRANSLATION-ORCHESTRATION.md`
@@ -204,5 +252,7 @@ crux compass (P3), build the 4 remaining kernels (P1), deploy (P4), then real co
 - The Hermes thesis: `handover/hermes/CANONICAL.md`
 - The record: `BUILT-BY-LAYER.md` (stale), `COHERENCE-AUDIT.md`, `KERNELS-INDEX.md`, `state.json`
 - The Mona Lisa: `tantraloka/` (README + OPERATIONAL-PLAN)
-- The kernels: `lib/` (48) — `misconception.py` NEW
+- The kernels: `lib/` (52)
+- The architecture audit: 3 parallel agents (GEM usage / vision-vs-built / clone-integration) —
+  the "USED / VALIDATED-ONLY / ORPHANED / CLONED-UNUSED" classification, Phase 6 above
 - The real execution: `lib/hermes_exec.py` · the crux compass: `lib/pushing_miner.py`
