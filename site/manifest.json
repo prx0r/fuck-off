@@ -217,7 +217,7 @@
  "counts": {
   "concepts": 31,
   "argument_nodes": 6,
-  "bytes": 1484051,
+  "bytes": 1996351,
   "root_hash": "8363d66190804b44",
   "registry_layers": {
    "SOURCE": {
@@ -2768,5 +2768,10011 @@
     "sha256": "e79c19d3adcf417c"
    }
   }
+ },
+ "works": {
+  "count": 2000,
+  "total_in_registry": 47102,
+  "works": [
+   {
+    "slug": "k22",
+    "title": "ipvv:V2L:k22",
+    "source": ""
+   },
+   {
+    "slug": "v59",
+    "title": "brahmayamala:v59",
+    "source": ""
+   },
+   {
+    "slug": "v60",
+    "title": "brahmayamala:v60",
+    "source": ""
+   },
+   {
+    "slug": "v61",
+    "title": "brahmayamala:v61",
+    "source": ""
+   },
+   {
+    "slug": "v62",
+    "title": "brahmayamala:v62",
+    "source": ""
+   },
+   {
+    "slug": "v63",
+    "title": "brahmayamala:v63",
+    "source": ""
+   },
+   {
+    "slug": "v64",
+    "title": "brahmayamala:v64",
+    "source": ""
+   },
+   {
+    "slug": "v65",
+    "title": "brahmayamala:v65",
+    "source": ""
+   },
+   {
+    "slug": "v66",
+    "title": "brahmayamala:v66",
+    "source": ""
+   },
+   {
+    "slug": "v67",
+    "title": "brahmayamala:v67",
+    "source": ""
+   },
+   {
+    "slug": "v68",
+    "title": "brahmayamala:v68",
+    "source": ""
+   },
+   {
+    "slug": "v69",
+    "title": "brahmayamala:v69",
+    "source": ""
+   },
+   {
+    "slug": "v70",
+    "title": "brahmayamala:v70",
+    "source": ""
+   },
+   {
+    "slug": "v71",
+    "title": "brahmayamala:v71",
+    "source": ""
+   },
+   {
+    "slug": "v72",
+    "title": "brahmayamala:v72",
+    "source": ""
+   },
+   {
+    "slug": "v73",
+    "title": "brahmayamala:v73",
+    "source": ""
+   },
+   {
+    "slug": "v74",
+    "title": "brahmayamala:v74",
+    "source": ""
+   },
+   {
+    "slug": "v75",
+    "title": "brahmayamala:v75",
+    "source": ""
+   },
+   {
+    "slug": "v76",
+    "title": "brahmayamala:v76",
+    "source": ""
+   },
+   {
+    "slug": "v77",
+    "title": "brahmayamala:v77",
+    "source": ""
+   },
+   {
+    "slug": "v78",
+    "title": "brahmayamala:v78",
+    "source": ""
+   },
+   {
+    "slug": "v79",
+    "title": "brahmayamala:v79",
+    "source": ""
+   },
+   {
+    "slug": "v80",
+    "title": "brahmayamala:v80",
+    "source": ""
+   },
+   {
+    "slug": "v81",
+    "title": "brahmayamala:v81",
+    "source": ""
+   },
+   {
+    "slug": "v82",
+    "title": "brahmayamala:v82",
+    "source": ""
+   },
+   {
+    "slug": "v83",
+    "title": "brahmayamala:v83",
+    "source": ""
+   },
+   {
+    "slug": "v84",
+    "title": "brahmayamala:v84",
+    "source": ""
+   },
+   {
+    "slug": "v85",
+    "title": "brahmayamala:v85",
+    "source": ""
+   },
+   {
+    "slug": "v86",
+    "title": "brahmayamala:v86",
+    "source": ""
+   },
+   {
+    "slug": "v87",
+    "title": "brahmayamala:v87",
+    "source": ""
+   },
+   {
+    "slug": "v88",
+    "title": "brahmayamala:v88",
+    "source": ""
+   },
+   {
+    "slug": "v89",
+    "title": "brahmayamala:v89",
+    "source": ""
+   },
+   {
+    "slug": "v90",
+    "title": "brahmayamala:v90",
+    "source": ""
+   },
+   {
+    "slug": "v91",
+    "title": "brahmayamala:v91",
+    "source": ""
+   },
+   {
+    "slug": "v92",
+    "title": "brahmayamala:v92",
+    "source": ""
+   },
+   {
+    "slug": "v93",
+    "title": "brahmayamala:v93",
+    "source": ""
+   },
+   {
+    "slug": "v94",
+    "title": "brahmayamala:v94",
+    "source": ""
+   },
+   {
+    "slug": "v95",
+    "title": "brahmayamala:v95",
+    "source": ""
+   },
+   {
+    "slug": "v96",
+    "title": "brahmayamala:v96",
+    "source": ""
+   },
+   {
+    "slug": "v97",
+    "title": "brahmayamala:v97",
+    "source": ""
+   },
+   {
+    "slug": "v98",
+    "title": "brahmayamala:v98",
+    "source": ""
+   },
+   {
+    "slug": "v99",
+    "title": "brahmayamala:v99",
+    "source": ""
+   },
+   {
+    "slug": "v100",
+    "title": "brahmayamala:v100",
+    "source": ""
+   },
+   {
+    "slug": "v1",
+    "title": "cidgagana:v1",
+    "source": ""
+   },
+   {
+    "slug": "v2",
+    "title": "cidgagana:v2",
+    "source": ""
+   },
+   {
+    "slug": "v3",
+    "title": "cidgagana:v3",
+    "source": ""
+   },
+   {
+    "slug": "v4",
+    "title": "cidgagana:v4",
+    "source": ""
+   },
+   {
+    "slug": "v5",
+    "title": "cidgagana:v5",
+    "source": ""
+   },
+   {
+    "slug": "v6",
+    "title": "cidgagana:v6",
+    "source": ""
+   },
+   {
+    "slug": "v7",
+    "title": "cidgagana:v7",
+    "source": ""
+   },
+   {
+    "slug": "v8",
+    "title": "cidgagana:v8",
+    "source": ""
+   },
+   {
+    "slug": "v9",
+    "title": "cidgagana:v9",
+    "source": ""
+   },
+   {
+    "slug": "v10",
+    "title": "cidgagana:v10",
+    "source": ""
+   },
+   {
+    "slug": "v11",
+    "title": "cidgagana:v11",
+    "source": ""
+   },
+   {
+    "slug": "v12",
+    "title": "cidgagana:v12",
+    "source": ""
+   },
+   {
+    "slug": "v13",
+    "title": "cidgagana:v13",
+    "source": ""
+   },
+   {
+    "slug": "v14",
+    "title": "cidgagana:v14",
+    "source": ""
+   },
+   {
+    "slug": "k33",
+    "title": "ipvv:V2L:k33",
+    "source": ""
+   },
+   {
+    "slug": "v38",
+    "title": "cidgagana:v38",
+    "source": ""
+   },
+   {
+    "slug": "v39",
+    "title": "cidgagana:v39",
+    "source": ""
+   },
+   {
+    "slug": "v40",
+    "title": "cidgagana:v40",
+    "source": ""
+   },
+   {
+    "slug": "v41",
+    "title": "cidgagana:v41",
+    "source": ""
+   },
+   {
+    "slug": "v42",
+    "title": "cidgagana:v42",
+    "source": ""
+   },
+   {
+    "slug": "v43",
+    "title": "cidgagana:v43",
+    "source": ""
+   },
+   {
+    "slug": "v44",
+    "title": "cidgagana:v44",
+    "source": ""
+   },
+   {
+    "slug": "v45",
+    "title": "cidgagana:v45",
+    "source": ""
+   },
+   {
+    "slug": "v46",
+    "title": "cidgagana:v46",
+    "source": ""
+   },
+   {
+    "slug": "v47",
+    "title": "cidgagana:v47",
+    "source": ""
+   },
+   {
+    "slug": "v48",
+    "title": "cidgagana:v48",
+    "source": ""
+   },
+   {
+    "slug": "v49",
+    "title": "cidgagana:v49",
+    "source": ""
+   },
+   {
+    "slug": "v50",
+    "title": "cidgagana:v50",
+    "source": ""
+   },
+   {
+    "slug": "v51",
+    "title": "cidgagana:v51",
+    "source": ""
+   },
+   {
+    "slug": "v52",
+    "title": "cidgagana:v52",
+    "source": ""
+   },
+   {
+    "slug": "v53",
+    "title": "cidgagana:v53",
+    "source": ""
+   },
+   {
+    "slug": "v54",
+    "title": "cidgagana:v54",
+    "source": ""
+   },
+   {
+    "slug": "v55",
+    "title": "cidgagana:v55",
+    "source": ""
+   },
+   {
+    "slug": "v56",
+    "title": "cidgagana:v56",
+    "source": ""
+   },
+   {
+    "slug": "v57",
+    "title": "cidgagana:v57",
+    "source": ""
+   },
+   {
+    "slug": "v58",
+    "title": "cidgagana:v58",
+    "source": ""
+   },
+   {
+    "slug": "v59",
+    "title": "cidgagana:v59",
+    "source": ""
+   },
+   {
+    "slug": "v60",
+    "title": "cidgagana:v60",
+    "source": ""
+   },
+   {
+    "slug": "v61",
+    "title": "cidgagana:v61",
+    "source": ""
+   },
+   {
+    "slug": "v62",
+    "title": "cidgagana:v62",
+    "source": ""
+   },
+   {
+    "slug": "v63",
+    "title": "cidgagana:v63",
+    "source": ""
+   },
+   {
+    "slug": "v64",
+    "title": "cidgagana:v64",
+    "source": ""
+   },
+   {
+    "slug": "v65",
+    "title": "cidgagana:v65",
+    "source": ""
+   },
+   {
+    "slug": "v66",
+    "title": "cidgagana:v66",
+    "source": ""
+   },
+   {
+    "slug": "v67",
+    "title": "cidgagana:v67",
+    "source": ""
+   },
+   {
+    "slug": "v68",
+    "title": "cidgagana:v68",
+    "source": ""
+   },
+   {
+    "slug": "v69",
+    "title": "cidgagana:v69",
+    "source": ""
+   },
+   {
+    "slug": "v70",
+    "title": "cidgagana:v70",
+    "source": ""
+   },
+   {
+    "slug": "v71",
+    "title": "cidgagana:v71",
+    "source": ""
+   },
+   {
+    "slug": "v72",
+    "title": "cidgagana:v72",
+    "source": ""
+   },
+   {
+    "slug": "v73",
+    "title": "cidgagana:v73",
+    "source": ""
+   },
+   {
+    "slug": "v74",
+    "title": "cidgagana:v74",
+    "source": ""
+   },
+   {
+    "slug": "v75",
+    "title": "cidgagana:v75",
+    "source": ""
+   },
+   {
+    "slug": "v76",
+    "title": "cidgagana:v76",
+    "source": ""
+   },
+   {
+    "slug": "v77",
+    "title": "cidgagana:v77",
+    "source": ""
+   },
+   {
+    "slug": "v78",
+    "title": "cidgagana:v78",
+    "source": ""
+   },
+   {
+    "slug": "v79",
+    "title": "cidgagana:v79",
+    "source": ""
+   },
+   {
+    "slug": "v80",
+    "title": "cidgagana:v80",
+    "source": ""
+   },
+   {
+    "slug": "v81",
+    "title": "cidgagana:v81",
+    "source": ""
+   },
+   {
+    "slug": "v82",
+    "title": "cidgagana:v82",
+    "source": ""
+   },
+   {
+    "slug": "v83",
+    "title": "cidgagana:v83",
+    "source": ""
+   },
+   {
+    "slug": "v84",
+    "title": "cidgagana:v84",
+    "source": ""
+   },
+   {
+    "slug": "v85",
+    "title": "cidgagana:v85",
+    "source": ""
+   },
+   {
+    "slug": "v86",
+    "title": "cidgagana:v86",
+    "source": ""
+   },
+   {
+    "slug": "v87",
+    "title": "cidgagana:v87",
+    "source": ""
+   },
+   {
+    "slug": "v88",
+    "title": "cidgagana:v88",
+    "source": ""
+   },
+   {
+    "slug": "v89",
+    "title": "cidgagana:v89",
+    "source": ""
+   },
+   {
+    "slug": "v90",
+    "title": "cidgagana:v90",
+    "source": ""
+   },
+   {
+    "slug": "v91",
+    "title": "cidgagana:v91",
+    "source": ""
+   },
+   {
+    "slug": "v92",
+    "title": "cidgagana:v92",
+    "source": ""
+   },
+   {
+    "slug": "v93",
+    "title": "cidgagana:v93",
+    "source": ""
+   },
+   {
+    "slug": "v94",
+    "title": "cidgagana:v94",
+    "source": ""
+   },
+   {
+    "slug": "v95",
+    "title": "cidgagana:v95",
+    "source": ""
+   },
+   {
+    "slug": "v96",
+    "title": "cidgagana:v96",
+    "source": ""
+   },
+   {
+    "slug": "v97",
+    "title": "cidgagana:v97",
+    "source": ""
+   },
+   {
+    "slug": "v98",
+    "title": "cidgagana:v98",
+    "source": ""
+   },
+   {
+    "slug": "v99",
+    "title": "cidgagana:v99",
+    "source": ""
+   },
+   {
+    "slug": "v100",
+    "title": "cidgagana:v100",
+    "source": ""
+   },
+   {
+    "slug": "v41",
+    "title": "kramasadbhava:v41",
+    "source": ""
+   },
+   {
+    "slug": "v42",
+    "title": "kramasadbhava:v42",
+    "source": ""
+   },
+   {
+    "slug": "v43",
+    "title": "kramasadbhava:v43",
+    "source": ""
+   },
+   {
+    "slug": "v44",
+    "title": "kramasadbhava:v44",
+    "source": ""
+   },
+   {
+    "slug": "v45",
+    "title": "kramasadbhava:v45",
+    "source": ""
+   },
+   {
+    "slug": "v46",
+    "title": "kramasadbhava:v46",
+    "source": ""
+   },
+   {
+    "slug": "v47",
+    "title": "kramasadbhava:v47",
+    "source": ""
+   },
+   {
+    "slug": "v48",
+    "title": "kramasadbhava:v48",
+    "source": ""
+   },
+   {
+    "slug": "v49",
+    "title": "kramasadbhava:v49",
+    "source": ""
+   },
+   {
+    "slug": "v50",
+    "title": "kramasadbhava:v50",
+    "source": ""
+   },
+   {
+    "slug": "v51",
+    "title": "kramasadbhava:v51",
+    "source": ""
+   },
+   {
+    "slug": "v52",
+    "title": "kramasadbhava:v52",
+    "source": ""
+   },
+   {
+    "slug": "v53",
+    "title": "kramasadbhava:v53",
+    "source": ""
+   },
+   {
+    "slug": "v54",
+    "title": "kramasadbhava:v54",
+    "source": ""
+   },
+   {
+    "slug": "v55",
+    "title": "kramasadbhava:v55",
+    "source": ""
+   },
+   {
+    "slug": "v56",
+    "title": "kramasadbhava:v56",
+    "source": ""
+   },
+   {
+    "slug": "v57",
+    "title": "kramasadbhava:v57",
+    "source": ""
+   },
+   {
+    "slug": "v58",
+    "title": "kramasadbhava:v58",
+    "source": ""
+   },
+   {
+    "slug": "v59",
+    "title": "kramasadbhava:v59",
+    "source": ""
+   },
+   {
+    "slug": "v60",
+    "title": "kramasadbhava:v60",
+    "source": ""
+   },
+   {
+    "slug": "v61",
+    "title": "kramasadbhava:v61",
+    "source": ""
+   },
+   {
+    "slug": "v62",
+    "title": "kramasadbhava:v62",
+    "source": ""
+   },
+   {
+    "slug": "v63",
+    "title": "kramasadbhava:v63",
+    "source": ""
+   },
+   {
+    "slug": "v64",
+    "title": "kramasadbhava:v64",
+    "source": ""
+   },
+   {
+    "slug": "v65",
+    "title": "kramasadbhava:v65",
+    "source": ""
+   },
+   {
+    "slug": "v66",
+    "title": "kramasadbhava:v66",
+    "source": ""
+   },
+   {
+    "slug": "v67",
+    "title": "kramasadbhava:v67",
+    "source": ""
+   },
+   {
+    "slug": "v68",
+    "title": "kramasadbhava:v68",
+    "source": ""
+   },
+   {
+    "slug": "v69",
+    "title": "kramasadbhava:v69",
+    "source": ""
+   },
+   {
+    "slug": "v70",
+    "title": "kramasadbhava:v70",
+    "source": ""
+   },
+   {
+    "slug": "v71",
+    "title": "kramasadbhava:v71",
+    "source": ""
+   },
+   {
+    "slug": "v72",
+    "title": "kramasadbhava:v72",
+    "source": ""
+   },
+   {
+    "slug": "v73",
+    "title": "kramasadbhava:v73",
+    "source": ""
+   },
+   {
+    "slug": "v74",
+    "title": "kramasadbhava:v74",
+    "source": ""
+   },
+   {
+    "slug": "v75",
+    "title": "kramasadbhava:v75",
+    "source": ""
+   },
+   {
+    "slug": "v76",
+    "title": "kramasadbhava:v76",
+    "source": ""
+   },
+   {
+    "slug": "v77",
+    "title": "kramasadbhava:v77",
+    "source": ""
+   },
+   {
+    "slug": "v78",
+    "title": "kramasadbhava:v78",
+    "source": ""
+   },
+   {
+    "slug": "v79",
+    "title": "kramasadbhava:v79",
+    "source": ""
+   },
+   {
+    "slug": "v80",
+    "title": "kramasadbhava:v80",
+    "source": ""
+   },
+   {
+    "slug": "v81",
+    "title": "kramasadbhava:v81",
+    "source": ""
+   },
+   {
+    "slug": "v82",
+    "title": "kramasadbhava:v82",
+    "source": ""
+   },
+   {
+    "slug": "v83",
+    "title": "kramasadbhava:v83",
+    "source": ""
+   },
+   {
+    "slug": "v84",
+    "title": "kramasadbhava:v84",
+    "source": ""
+   },
+   {
+    "slug": "v85",
+    "title": "kramasadbhava:v85",
+    "source": ""
+   },
+   {
+    "slug": "v86",
+    "title": "kramasadbhava:v86",
+    "source": ""
+   },
+   {
+    "slug": "v87",
+    "title": "kramasadbhava:v87",
+    "source": ""
+   },
+   {
+    "slug": "v88",
+    "title": "kramasadbhava:v88",
+    "source": ""
+   },
+   {
+    "slug": "v89",
+    "title": "kramasadbhava:v89",
+    "source": ""
+   },
+   {
+    "slug": "v90",
+    "title": "kramasadbhava:v90",
+    "source": ""
+   },
+   {
+    "slug": "v91",
+    "title": "kramasadbhava:v91",
+    "source": ""
+   },
+   {
+    "slug": "v92",
+    "title": "kramasadbhava:v92",
+    "source": ""
+   },
+   {
+    "slug": "v93",
+    "title": "kramasadbhava:v93",
+    "source": ""
+   },
+   {
+    "slug": "v94",
+    "title": "kramasadbhava:v94",
+    "source": ""
+   },
+   {
+    "slug": "v95",
+    "title": "kramasadbhava:v95",
+    "source": ""
+   },
+   {
+    "slug": "v96",
+    "title": "kramasadbhava:v96",
+    "source": ""
+   },
+   {
+    "slug": "v97",
+    "title": "kramasadbhava:v97",
+    "source": ""
+   },
+   {
+    "slug": "v98",
+    "title": "kramasadbhava:v98",
+    "source": ""
+   },
+   {
+    "slug": "v99",
+    "title": "kramasadbhava:v99",
+    "source": ""
+   },
+   {
+    "slug": "v100",
+    "title": "kramasadbhava:v100",
+    "source": ""
+   },
+   {
+    "slug": "v1",
+    "title": "kubjikamata:v1",
+    "source": ""
+   },
+   {
+    "slug": "v1",
+    "title": "kubjikamata:v1",
+    "source": ""
+   },
+   {
+    "slug": "v2",
+    "title": "kubjikamata:v2",
+    "source": ""
+   },
+   {
+    "slug": "v2",
+    "title": "kubjikamata:v2",
+    "source": ""
+   },
+   {
+    "slug": "v3",
+    "title": "kubjikamata:v3",
+    "source": ""
+   },
+   {
+    "slug": "v3",
+    "title": "kubjikamata:v3",
+    "source": ""
+   },
+   {
+    "slug": "v4",
+    "title": "kubjikamata:v4",
+    "source": ""
+   },
+   {
+    "slug": "v4",
+    "title": "kubjikamata:v4",
+    "source": ""
+   },
+   {
+    "slug": "v5",
+    "title": "kubjikamata:v5",
+    "source": ""
+   },
+   {
+    "slug": "v5",
+    "title": "kubjikamata:v5",
+    "source": ""
+   },
+   {
+    "slug": "v6",
+    "title": "kubjikamata:v6",
+    "source": ""
+   },
+   {
+    "slug": "v6",
+    "title": "kubjikamata:v6",
+    "source": ""
+   },
+   {
+    "slug": "v7",
+    "title": "kubjikamata:v7",
+    "source": ""
+   },
+   {
+    "slug": "v7",
+    "title": "kubjikamata:v7",
+    "source": ""
+   },
+   {
+    "slug": "v8",
+    "title": "kubjikamata:v8",
+    "source": ""
+   },
+   {
+    "slug": "v8",
+    "title": "kubjikamata:v8",
+    "source": ""
+   },
+   {
+    "slug": "v9",
+    "title": "kubjikamata:v9",
+    "source": ""
+   },
+   {
+    "slug": "v10",
+    "title": "kubjikamata:v10",
+    "source": ""
+   },
+   {
+    "slug": "v11",
+    "title": "kubjikamata:v11",
+    "source": ""
+   },
+   {
+    "slug": "v12",
+    "title": "kubjikamata:v12",
+    "source": ""
+   },
+   {
+    "slug": "v13",
+    "title": "kubjikamata:v13",
+    "source": ""
+   },
+   {
+    "slug": "v14",
+    "title": "kubjikamata:v14",
+    "source": ""
+   },
+   {
+    "slug": "v15",
+    "title": "kubjikamata:v15",
+    "source": ""
+   },
+   {
+    "slug": "v16",
+    "title": "kubjikamata:v16",
+    "source": ""
+   },
+   {
+    "slug": "v17",
+    "title": "kubjikamata:v17",
+    "source": ""
+   },
+   {
+    "slug": "v18",
+    "title": "kubjikamata:v18",
+    "source": ""
+   },
+   {
+    "slug": "v19",
+    "title": "kubjikamata:v19",
+    "source": ""
+   },
+   {
+    "slug": "v20",
+    "title": "kubjikamata:v20",
+    "source": ""
+   },
+   {
+    "slug": "v21",
+    "title": "kubjikamata:v21",
+    "source": ""
+   },
+   {
+    "slug": "v22",
+    "title": "kubjikamata:v22",
+    "source": ""
+   },
+   {
+    "slug": "v23",
+    "title": "kubjikamata:v23",
+    "source": ""
+   },
+   {
+    "slug": "v24",
+    "title": "kubjikamata:v24",
+    "source": ""
+   },
+   {
+    "slug": "v25",
+    "title": "kubjikamata:v25",
+    "source": ""
+   },
+   {
+    "slug": "v26",
+    "title": "kubjikamata:v26",
+    "source": ""
+   },
+   {
+    "slug": "v27",
+    "title": "kubjikamata:v27",
+    "source": ""
+   },
+   {
+    "slug": "v28",
+    "title": "kubjikamata:v28",
+    "source": ""
+   },
+   {
+    "slug": "v29",
+    "title": "kubjikamata:v29",
+    "source": ""
+   },
+   {
+    "slug": "v30",
+    "title": "kubjikamata:v30",
+    "source": ""
+   },
+   {
+    "slug": "v31",
+    "title": "kubjikamata:v31",
+    "source": ""
+   },
+   {
+    "slug": "v32",
+    "title": "kubjikamata:v32",
+    "source": ""
+   },
+   {
+    "slug": "v33",
+    "title": "kubjikamata:v33",
+    "source": ""
+   },
+   {
+    "slug": "v34",
+    "title": "kubjikamata:v34",
+    "source": ""
+   },
+   {
+    "slug": "v35",
+    "title": "kubjikamata:v35",
+    "source": ""
+   },
+   {
+    "slug": "v35",
+    "title": "kubjikamata:v35",
+    "source": ""
+   },
+   {
+    "slug": "v36",
+    "title": "kubjikamata:v36",
+    "source": ""
+   },
+   {
+    "slug": "v36",
+    "title": "kubjikamata:v36",
+    "source": ""
+   },
+   {
+    "slug": "v37",
+    "title": "kubjikamata:v37",
+    "source": ""
+   },
+   {
+    "slug": "v37",
+    "title": "kubjikamata:v37",
+    "source": ""
+   },
+   {
+    "slug": "v38",
+    "title": "kubjikamata:v38",
+    "source": ""
+   },
+   {
+    "slug": "v38",
+    "title": "kubjikamata:v38",
+    "source": ""
+   },
+   {
+    "slug": "v39",
+    "title": "kubjikamata:v39",
+    "source": ""
+   },
+   {
+    "slug": "v40",
+    "title": "kubjikamata:v40",
+    "source": ""
+   },
+   {
+    "slug": "v41",
+    "title": "kubjikamata:v41",
+    "source": ""
+   },
+   {
+    "slug": "v42",
+    "title": "kubjikamata:v42",
+    "source": ""
+   },
+   {
+    "slug": "v43",
+    "title": "kubjikamata:v43",
+    "source": ""
+   },
+   {
+    "slug": "v44",
+    "title": "kubjikamata:v44",
+    "source": ""
+   },
+   {
+    "slug": "v45",
+    "title": "kubjikamata:v45",
+    "source": ""
+   },
+   {
+    "slug": "v46",
+    "title": "kubjikamata:v46",
+    "source": ""
+   },
+   {
+    "slug": "v47",
+    "title": "kubjikamata:v47",
+    "source": ""
+   },
+   {
+    "slug": "v48",
+    "title": "kubjikamata:v48",
+    "source": ""
+   },
+   {
+    "slug": "v49",
+    "title": "kubjikamata:v49",
+    "source": ""
+   },
+   {
+    "slug": "v50",
+    "title": "kubjikamata:v50",
+    "source": ""
+   },
+   {
+    "slug": "v51",
+    "title": "kubjikamata:v51",
+    "source": ""
+   },
+   {
+    "slug": "v52",
+    "title": "kubjikamata:v52",
+    "source": ""
+   },
+   {
+    "slug": "v53",
+    "title": "kubjikamata:v53",
+    "source": ""
+   },
+   {
+    "slug": "v54",
+    "title": "kubjikamata:v54",
+    "source": ""
+   },
+   {
+    "slug": "v55",
+    "title": "kubjikamata:v55",
+    "source": ""
+   },
+   {
+    "slug": "v55",
+    "title": "kubjikamata:v55",
+    "source": ""
+   },
+   {
+    "slug": "v1",
+    "title": "kulasara:v1",
+    "source": ""
+   },
+   {
+    "slug": "v2",
+    "title": "kulasara:v2",
+    "source": ""
+   },
+   {
+    "slug": "v3",
+    "title": "kulasara:v3",
+    "source": ""
+   },
+   {
+    "slug": "v4",
+    "title": "kulasara:v4",
+    "source": ""
+   },
+   {
+    "slug": "v5",
+    "title": "kulasara:v5",
+    "source": ""
+   },
+   {
+    "slug": "v6",
+    "title": "kulasara:v6",
+    "source": ""
+   },
+   {
+    "slug": "v7",
+    "title": "kulasara:v7",
+    "source": ""
+   },
+   {
+    "slug": "v8",
+    "title": "kulasara:v8",
+    "source": ""
+   },
+   {
+    "slug": "v9",
+    "title": "kulasara:v9",
+    "source": ""
+   },
+   {
+    "slug": "v10",
+    "title": "kulasara:v10",
+    "source": ""
+   },
+   {
+    "slug": "v11",
+    "title": "kulasara:v11",
+    "source": ""
+   },
+   {
+    "slug": "v12",
+    "title": "kulasara:v12",
+    "source": ""
+   },
+   {
+    "slug": "v13",
+    "title": "kulasara:v13",
+    "source": ""
+   },
+   {
+    "slug": "v14",
+    "title": "kulasara:v14",
+    "source": ""
+   },
+   {
+    "slug": "v15",
+    "title": "kulasara:v15",
+    "source": ""
+   },
+   {
+    "slug": "v16",
+    "title": "kulasara:v16",
+    "source": ""
+   },
+   {
+    "slug": "v17",
+    "title": "kulasara:v17",
+    "source": ""
+   },
+   {
+    "slug": "v18",
+    "title": "kulasara:v18",
+    "source": ""
+   },
+   {
+    "slug": "v19",
+    "title": "kulasara:v19",
+    "source": ""
+   },
+   {
+    "slug": "v20",
+    "title": "kulasara:v20",
+    "source": ""
+   },
+   {
+    "slug": "v21",
+    "title": "kulasara:v21",
+    "source": ""
+   },
+   {
+    "slug": "v22",
+    "title": "kulasara:v22",
+    "source": ""
+   },
+   {
+    "slug": "v23",
+    "title": "kulasara:v23",
+    "source": ""
+   },
+   {
+    "slug": "v24",
+    "title": "kulasara:v24",
+    "source": ""
+   },
+   {
+    "slug": "v25",
+    "title": "kulasara:v25",
+    "source": ""
+   },
+   {
+    "slug": "v26",
+    "title": "kulasara:v26",
+    "source": ""
+   },
+   {
+    "slug": "v27",
+    "title": "kulasara:v27",
+    "source": ""
+   },
+   {
+    "slug": "v28",
+    "title": "kulasara:v28",
+    "source": ""
+   },
+   {
+    "slug": "v29",
+    "title": "kulasara:v29",
+    "source": ""
+   },
+   {
+    "slug": "v30",
+    "title": "kulasara:v30",
+    "source": ""
+   },
+   {
+    "slug": "v31",
+    "title": "kulasara:v31",
+    "source": ""
+   },
+   {
+    "slug": "v32",
+    "title": "kulasara:v32",
+    "source": ""
+   },
+   {
+    "slug": "v33",
+    "title": "kulasara:v33",
+    "source": ""
+   },
+   {
+    "slug": "v34",
+    "title": "kulasara:v34",
+    "source": ""
+   },
+   {
+    "slug": "v35",
+    "title": "kulasara:v35",
+    "source": ""
+   },
+   {
+    "slug": "v36",
+    "title": "kulasara:v36",
+    "source": ""
+   },
+   {
+    "slug": "v37",
+    "title": "kulasara:v37",
+    "source": ""
+   },
+   {
+    "slug": "v38",
+    "title": "kulasara:v38",
+    "source": ""
+   },
+   {
+    "slug": "v39",
+    "title": "kulasara:v39",
+    "source": ""
+   },
+   {
+    "slug": "v40",
+    "title": "kulasara:v40",
+    "source": ""
+   },
+   {
+    "slug": "v41",
+    "title": "kulasara:v41",
+    "source": ""
+   },
+   {
+    "slug": "v42",
+    "title": "kulasara:v42",
+    "source": ""
+   },
+   {
+    "slug": "v43",
+    "title": "kulasara:v43",
+    "source": ""
+   },
+   {
+    "slug": "v44",
+    "title": "kulasara:v44",
+    "source": ""
+   },
+   {
+    "slug": "v45",
+    "title": "kulasara:v45",
+    "source": ""
+   },
+   {
+    "slug": "v46",
+    "title": "kulasara:v46",
+    "source": ""
+   },
+   {
+    "slug": "v47",
+    "title": "kulasara:v47",
+    "source": ""
+   },
+   {
+    "slug": "v48",
+    "title": "kulasara:v48",
+    "source": ""
+   },
+   {
+    "slug": "v49",
+    "title": "kulasara:v49",
+    "source": ""
+   },
+   {
+    "slug": "v50",
+    "title": "kulasara:v50",
+    "source": ""
+   },
+   {
+    "slug": "v51",
+    "title": "kulasara:v51",
+    "source": ""
+   },
+   {
+    "slug": "v52",
+    "title": "kulasara:v52",
+    "source": ""
+   },
+   {
+    "slug": "v53",
+    "title": "kulasara:v53",
+    "source": ""
+   },
+   {
+    "slug": "v54",
+    "title": "kulasara:v54",
+    "source": ""
+   },
+   {
+    "slug": "v55",
+    "title": "kulasara:v55",
+    "source": ""
+   },
+   {
+    "slug": "v56",
+    "title": "kulasara:v56",
+    "source": ""
+   },
+   {
+    "slug": "v57",
+    "title": "kulasara:v57",
+    "source": ""
+   },
+   {
+    "slug": "v58",
+    "title": "kulasara:v58",
+    "source": ""
+   },
+   {
+    "slug": "v59",
+    "title": "kulasara:v59",
+    "source": ""
+   },
+   {
+    "slug": "v60",
+    "title": "kulasara:v60",
+    "source": ""
+   },
+   {
+    "slug": "v61",
+    "title": "kulasara:v61",
+    "source": ""
+   },
+   {
+    "slug": "v62",
+    "title": "kulasara:v62",
+    "source": ""
+   },
+   {
+    "slug": "v63",
+    "title": "kulasara:v63",
+    "source": ""
+   },
+   {
+    "slug": "v64",
+    "title": "kulasara:v64",
+    "source": ""
+   },
+   {
+    "slug": "v65",
+    "title": "kulasara:v65",
+    "source": ""
+   },
+   {
+    "slug": "v66",
+    "title": "kulasara:v66",
+    "source": ""
+   },
+   {
+    "slug": "v67",
+    "title": "kulasara:v67",
+    "source": ""
+   },
+   {
+    "slug": "v68",
+    "title": "kulasara:v68",
+    "source": ""
+   },
+   {
+    "slug": "v69",
+    "title": "kulasara:v69",
+    "source": ""
+   },
+   {
+    "slug": "v70",
+    "title": "kulasara:v70",
+    "source": ""
+   },
+   {
+    "slug": "v71",
+    "title": "kulasara:v71",
+    "source": ""
+   },
+   {
+    "slug": "v72",
+    "title": "kulasara:v72",
+    "source": ""
+   },
+   {
+    "slug": "v73",
+    "title": "kulasara:v73",
+    "source": ""
+   },
+   {
+    "slug": "v74",
+    "title": "kulasara:v74",
+    "source": ""
+   },
+   {
+    "slug": "v75",
+    "title": "kulasara:v75",
+    "source": ""
+   },
+   {
+    "slug": "v76",
+    "title": "kulasara:v76",
+    "source": ""
+   },
+   {
+    "slug": "v77",
+    "title": "kulasara:v77",
+    "source": ""
+   },
+   {
+    "slug": "v78",
+    "title": "kulasara:v78",
+    "source": ""
+   },
+   {
+    "slug": "v79",
+    "title": "kulasara:v79",
+    "source": ""
+   },
+   {
+    "slug": "v80",
+    "title": "kulasara:v80",
+    "source": ""
+   },
+   {
+    "slug": "v81",
+    "title": "kulasara:v81",
+    "source": ""
+   },
+   {
+    "slug": "v82",
+    "title": "kulasara:v82",
+    "source": ""
+   },
+   {
+    "slug": "v83",
+    "title": "kulasara:v83",
+    "source": ""
+   },
+   {
+    "slug": "v84",
+    "title": "kulasara:v84",
+    "source": ""
+   },
+   {
+    "slug": "v85",
+    "title": "kulasara:v85",
+    "source": ""
+   },
+   {
+    "slug": "v86",
+    "title": "kulasara:v86",
+    "source": ""
+   },
+   {
+    "slug": "k39",
+    "title": "ipvv:V2L:k39",
+    "source": ""
+   },
+   {
+    "slug": "v10",
+    "title": "mahanayaprakasha:v10",
+    "source": ""
+   },
+   {
+    "slug": "v11",
+    "title": "mahanayaprakasha:v11",
+    "source": ""
+   },
+   {
+    "slug": "v12",
+    "title": "mahanayaprakasha:v12",
+    "source": ""
+   },
+   {
+    "slug": "v13",
+    "title": "mahanayaprakasha:v13",
+    "source": ""
+   },
+   {
+    "slug": "v14",
+    "title": "mahanayaprakasha:v14",
+    "source": ""
+   },
+   {
+    "slug": "v15",
+    "title": "mahanayaprakasha:v15",
+    "source": ""
+   },
+   {
+    "slug": "v16",
+    "title": "mahanayaprakasha:v16",
+    "source": ""
+   },
+   {
+    "slug": "v17",
+    "title": "mahanayaprakasha:v17",
+    "source": ""
+   },
+   {
+    "slug": "v18",
+    "title": "mahanayaprakasha:v18",
+    "source": ""
+   },
+   {
+    "slug": "v19",
+    "title": "mahanayaprakasha:v19",
+    "source": ""
+   },
+   {
+    "slug": "v20",
+    "title": "mahanayaprakasha:v20",
+    "source": ""
+   },
+   {
+    "slug": "v21",
+    "title": "mahanayaprakasha:v21",
+    "source": ""
+   },
+   {
+    "slug": "v22",
+    "title": "mahanayaprakasha:v22",
+    "source": ""
+   },
+   {
+    "slug": "v23",
+    "title": "mahanayaprakasha:v23",
+    "source": ""
+   },
+   {
+    "slug": "v24",
+    "title": "mahanayaprakasha:v24",
+    "source": ""
+   },
+   {
+    "slug": "v25",
+    "title": "mahanayaprakasha:v25",
+    "source": ""
+   },
+   {
+    "slug": "v26",
+    "title": "mahanayaprakasha:v26",
+    "source": ""
+   },
+   {
+    "slug": "v27",
+    "title": "mahanayaprakasha:v27",
+    "source": ""
+   },
+   {
+    "slug": "v28",
+    "title": "mahanayaprakasha:v28",
+    "source": ""
+   },
+   {
+    "slug": "v29",
+    "title": "mahanayaprakasha:v29",
+    "source": ""
+   },
+   {
+    "slug": "v30",
+    "title": "mahanayaprakasha:v30",
+    "source": ""
+   },
+   {
+    "slug": "v31",
+    "title": "mahanayaprakasha:v31",
+    "source": ""
+   },
+   {
+    "slug": "v32",
+    "title": "mahanayaprakasha:v32",
+    "source": ""
+   },
+   {
+    "slug": "v33",
+    "title": "mahanayaprakasha:v33",
+    "source": ""
+   },
+   {
+    "slug": "v34",
+    "title": "mahanayaprakasha:v34",
+    "source": ""
+   },
+   {
+    "slug": "v35",
+    "title": "mahanayaprakasha:v35",
+    "source": ""
+   },
+   {
+    "slug": "v36",
+    "title": "mahanayaprakasha:v36",
+    "source": ""
+   },
+   {
+    "slug": "v37",
+    "title": "mahanayaprakasha:v37",
+    "source": ""
+   },
+   {
+    "slug": "v38",
+    "title": "mahanayaprakasha:v38",
+    "source": ""
+   },
+   {
+    "slug": "v39",
+    "title": "mahanayaprakasha:v39",
+    "source": ""
+   },
+   {
+    "slug": "v40",
+    "title": "mahanayaprakasha:v40",
+    "source": ""
+   },
+   {
+    "slug": "v41",
+    "title": "mahanayaprakasha:v41",
+    "source": ""
+   },
+   {
+    "slug": "v42",
+    "title": "mahanayaprakasha:v42",
+    "source": ""
+   },
+   {
+    "slug": "v43",
+    "title": "mahanayaprakasha:v43",
+    "source": ""
+   },
+   {
+    "slug": "v44",
+    "title": "mahanayaprakasha:v44",
+    "source": ""
+   },
+   {
+    "slug": "v45",
+    "title": "mahanayaprakasha:v45",
+    "source": ""
+   },
+   {
+    "slug": "v46",
+    "title": "mahanayaprakasha:v46",
+    "source": ""
+   },
+   {
+    "slug": "v47",
+    "title": "mahanayaprakasha:v47",
+    "source": ""
+   },
+   {
+    "slug": "v48",
+    "title": "mahanayaprakasha:v48",
+    "source": ""
+   },
+   {
+    "slug": "v49",
+    "title": "mahanayaprakasha:v49",
+    "source": ""
+   },
+   {
+    "slug": "v50",
+    "title": "mahanayaprakasha:v50",
+    "source": ""
+   },
+   {
+    "slug": "v51",
+    "title": "mahanayaprakasha:v51",
+    "source": ""
+   },
+   {
+    "slug": "v52",
+    "title": "mahanayaprakasha:v52",
+    "source": ""
+   },
+   {
+    "slug": "v53",
+    "title": "mahanayaprakasha:v53",
+    "source": ""
+   },
+   {
+    "slug": "v54",
+    "title": "mahanayaprakasha:v54",
+    "source": ""
+   },
+   {
+    "slug": "v55",
+    "title": "mahanayaprakasha:v55",
+    "source": ""
+   },
+   {
+    "slug": "v56",
+    "title": "mahanayaprakasha:v56",
+    "source": ""
+   },
+   {
+    "slug": "v57",
+    "title": "mahanayaprakasha:v57",
+    "source": ""
+   },
+   {
+    "slug": "v58",
+    "title": "mahanayaprakasha:v58",
+    "source": ""
+   },
+   {
+    "slug": "v59",
+    "title": "mahanayaprakasha:v59",
+    "source": ""
+   },
+   {
+    "slug": "v60",
+    "title": "mahanayaprakasha:v60",
+    "source": ""
+   },
+   {
+    "slug": "v61",
+    "title": "mahanayaprakasha:v61",
+    "source": ""
+   },
+   {
+    "slug": "v62",
+    "title": "mahanayaprakasha:v62",
+    "source": ""
+   },
+   {
+    "slug": "v63",
+    "title": "mahanayaprakasha:v63",
+    "source": ""
+   },
+   {
+    "slug": "v64",
+    "title": "mahanayaprakasha:v64",
+    "source": ""
+   },
+   {
+    "slug": "v65",
+    "title": "mahanayaprakasha:v65",
+    "source": ""
+   },
+   {
+    "slug": "v66",
+    "title": "mahanayaprakasha:v66",
+    "source": ""
+   },
+   {
+    "slug": "v67",
+    "title": "mahanayaprakasha:v67",
+    "source": ""
+   },
+   {
+    "slug": "v68",
+    "title": "mahanayaprakasha:v68",
+    "source": ""
+   },
+   {
+    "slug": "v69",
+    "title": "mahanayaprakasha:v69",
+    "source": ""
+   },
+   {
+    "slug": "v70",
+    "title": "mahanayaprakasha:v70",
+    "source": ""
+   },
+   {
+    "slug": "v71",
+    "title": "mahanayaprakasha:v71",
+    "source": ""
+   },
+   {
+    "slug": "v72",
+    "title": "mahanayaprakasha:v72",
+    "source": ""
+   },
+   {
+    "slug": "v73",
+    "title": "mahanayaprakasha:v73",
+    "source": ""
+   },
+   {
+    "slug": "v74",
+    "title": "mahanayaprakasha:v74",
+    "source": ""
+   },
+   {
+    "slug": "v75",
+    "title": "mahanayaprakasha:v75",
+    "source": ""
+   },
+   {
+    "slug": "v76",
+    "title": "mahanayaprakasha:v76",
+    "source": ""
+   },
+   {
+    "slug": "v77",
+    "title": "mahanayaprakasha:v77",
+    "source": ""
+   },
+   {
+    "slug": "v78",
+    "title": "mahanayaprakasha:v78",
+    "source": ""
+   },
+   {
+    "slug": "v79",
+    "title": "mahanayaprakasha:v79",
+    "source": ""
+   },
+   {
+    "slug": "v80",
+    "title": "mahanayaprakasha:v80",
+    "source": ""
+   },
+   {
+    "slug": "v81",
+    "title": "mahanayaprakasha:v81",
+    "source": ""
+   },
+   {
+    "slug": "v82",
+    "title": "mahanayaprakasha:v82",
+    "source": ""
+   },
+   {
+    "slug": "v83",
+    "title": "mahanayaprakasha:v83",
+    "source": ""
+   },
+   {
+    "slug": "v84",
+    "title": "mahanayaprakasha:v84",
+    "source": ""
+   },
+   {
+    "slug": "v85",
+    "title": "mahanayaprakasha:v85",
+    "source": ""
+   },
+   {
+    "slug": "v86",
+    "title": "mahanayaprakasha:v86",
+    "source": ""
+   },
+   {
+    "slug": "v87",
+    "title": "mahanayaprakasha:v87",
+    "source": ""
+   },
+   {
+    "slug": "v88",
+    "title": "mahanayaprakasha:v88",
+    "source": ""
+   },
+   {
+    "slug": "v89",
+    "title": "mahanayaprakasha:v89",
+    "source": ""
+   },
+   {
+    "slug": "v90",
+    "title": "mahanayaprakasha:v90",
+    "source": ""
+   },
+   {
+    "slug": "v91",
+    "title": "mahanayaprakasha:v91",
+    "source": ""
+   },
+   {
+    "slug": "v92",
+    "title": "mahanayaprakasha:v92",
+    "source": ""
+   },
+   {
+    "slug": "v93",
+    "title": "mahanayaprakasha:v93",
+    "source": ""
+   },
+   {
+    "slug": "v94",
+    "title": "mahanayaprakasha:v94",
+    "source": ""
+   },
+   {
+    "slug": "v95",
+    "title": "mahanayaprakasha:v95",
+    "source": ""
+   },
+   {
+    "slug": "v96",
+    "title": "mahanayaprakasha:v96",
+    "source": ""
+   },
+   {
+    "slug": "v97",
+    "title": "mahanayaprakasha:v97",
+    "source": ""
+   },
+   {
+    "slug": "v98",
+    "title": "mahanayaprakasha:v98",
+    "source": ""
+   },
+   {
+    "slug": "v99",
+    "title": "mahanayaprakasha:v99",
+    "source": ""
+   },
+   {
+    "slug": "v100",
+    "title": "mahanayaprakasha:v100",
+    "source": ""
+   },
+   {
+    "slug": "v1",
+    "title": "malinivijayottara:v1",
+    "source": ""
+   },
+   {
+    "slug": "v2",
+    "title": "malinivijayottara:v2",
+    "source": ""
+   },
+   {
+    "slug": "v3",
+    "title": "malinivijayottara:v3",
+    "source": ""
+   },
+   {
+    "slug": "v4",
+    "title": "malinivijayottara:v4",
+    "source": ""
+   },
+   {
+    "slug": "v5",
+    "title": "malinivijayottara:v5",
+    "source": ""
+   },
+   {
+    "slug": "v6",
+    "title": "malinivijayottara:v6",
+    "source": ""
+   },
+   {
+    "slug": "v7",
+    "title": "malinivijayottara:v7",
+    "source": ""
+   },
+   {
+    "slug": "v8",
+    "title": "malinivijayottara:v8",
+    "source": ""
+   },
+   {
+    "slug": "v9",
+    "title": "malinivijayottara:v9",
+    "source": ""
+   },
+   {
+    "slug": "v10",
+    "title": "malinivijayottara:v10",
+    "source": ""
+   },
+   {
+    "slug": "v11",
+    "title": "malinivijayottara:v11",
+    "source": ""
+   },
+   {
+    "slug": "v12",
+    "title": "malinivijayottara:v12",
+    "source": ""
+   },
+   {
+    "slug": "v13",
+    "title": "malinivijayottara:v13",
+    "source": ""
+   },
+   {
+    "slug": "v14",
+    "title": "malinivijayottara:v14",
+    "source": ""
+   },
+   {
+    "slug": "v15",
+    "title": "malinivijayottara:v15",
+    "source": ""
+   },
+   {
+    "slug": "k27",
+    "title": "ipvv:V2L:k27",
+    "source": ""
+   },
+   {
+    "slug": "v38",
+    "title": "malinivijayottara:v38",
+    "source": ""
+   },
+   {
+    "slug": "v39",
+    "title": "malinivijayottara:v39",
+    "source": ""
+   },
+   {
+    "slug": "v40",
+    "title": "malinivijayottara:v40",
+    "source": ""
+   },
+   {
+    "slug": "v41",
+    "title": "malinivijayottara:v41",
+    "source": ""
+   },
+   {
+    "slug": "v42",
+    "title": "malinivijayottara:v42",
+    "source": ""
+   },
+   {
+    "slug": "v43",
+    "title": "malinivijayottara:v43",
+    "source": ""
+   },
+   {
+    "slug": "v44",
+    "title": "malinivijayottara:v44",
+    "source": ""
+   },
+   {
+    "slug": "v45",
+    "title": "malinivijayottara:v45",
+    "source": ""
+   },
+   {
+    "slug": "v46",
+    "title": "malinivijayottara:v46",
+    "source": ""
+   },
+   {
+    "slug": "v47",
+    "title": "malinivijayottara:v47",
+    "source": ""
+   },
+   {
+    "slug": "v48",
+    "title": "malinivijayottara:v48",
+    "source": ""
+   },
+   {
+    "slug": "v49",
+    "title": "malinivijayottara:v49",
+    "source": ""
+   },
+   {
+    "slug": "v50",
+    "title": "malinivijayottara:v50",
+    "source": ""
+   },
+   {
+    "slug": "v51",
+    "title": "malinivijayottara:v51",
+    "source": ""
+   },
+   {
+    "slug": "v52",
+    "title": "malinivijayottara:v52",
+    "source": ""
+   },
+   {
+    "slug": "v53",
+    "title": "malinivijayottara:v53",
+    "source": ""
+   },
+   {
+    "slug": "v54",
+    "title": "malinivijayottara:v54",
+    "source": ""
+   },
+   {
+    "slug": "v55",
+    "title": "malinivijayottara:v55",
+    "source": ""
+   },
+   {
+    "slug": "v56",
+    "title": "malinivijayottara:v56",
+    "source": ""
+   },
+   {
+    "slug": "v57",
+    "title": "malinivijayottara:v57",
+    "source": ""
+   },
+   {
+    "slug": "v58",
+    "title": "malinivijayottara:v58",
+    "source": ""
+   },
+   {
+    "slug": "v59",
+    "title": "malinivijayottara:v59",
+    "source": ""
+   },
+   {
+    "slug": "v60",
+    "title": "malinivijayottara:v60",
+    "source": ""
+   },
+   {
+    "slug": "v61",
+    "title": "malinivijayottara:v61",
+    "source": ""
+   },
+   {
+    "slug": "v62",
+    "title": "malinivijayottara:v62",
+    "source": ""
+   },
+   {
+    "slug": "v63",
+    "title": "malinivijayottara:v63",
+    "source": ""
+   },
+   {
+    "slug": "v64",
+    "title": "malinivijayottara:v64",
+    "source": ""
+   },
+   {
+    "slug": "v65",
+    "title": "malinivijayottara:v65",
+    "source": ""
+   },
+   {
+    "slug": "v66",
+    "title": "malinivijayottara:v66",
+    "source": ""
+   },
+   {
+    "slug": "v67",
+    "title": "malinivijayottara:v67",
+    "source": ""
+   },
+   {
+    "slug": "v68",
+    "title": "malinivijayottara:v68",
+    "source": ""
+   },
+   {
+    "slug": "v69",
+    "title": "malinivijayottara:v69",
+    "source": ""
+   },
+   {
+    "slug": "v70",
+    "title": "malinivijayottara:v70",
+    "source": ""
+   },
+   {
+    "slug": "v71",
+    "title": "malinivijayottara:v71",
+    "source": ""
+   },
+   {
+    "slug": "v72",
+    "title": "malinivijayottara:v72",
+    "source": ""
+   },
+   {
+    "slug": "v73",
+    "title": "malinivijayottara:v73",
+    "source": ""
+   },
+   {
+    "slug": "v74",
+    "title": "malinivijayottara:v74",
+    "source": ""
+   },
+   {
+    "slug": "v75",
+    "title": "malinivijayottara:v75",
+    "source": ""
+   },
+   {
+    "slug": "v76",
+    "title": "malinivijayottara:v76",
+    "source": ""
+   },
+   {
+    "slug": "v77",
+    "title": "malinivijayottara:v77",
+    "source": ""
+   },
+   {
+    "slug": "v78",
+    "title": "malinivijayottara:v78",
+    "source": ""
+   },
+   {
+    "slug": "v79",
+    "title": "malinivijayottara:v79",
+    "source": ""
+   },
+   {
+    "slug": "v80",
+    "title": "malinivijayottara:v80",
+    "source": ""
+   },
+   {
+    "slug": "v81",
+    "title": "malinivijayottara:v81",
+    "source": ""
+   },
+   {
+    "slug": "v82",
+    "title": "malinivijayottara:v82",
+    "source": ""
+   },
+   {
+    "slug": "v83",
+    "title": "malinivijayottara:v83",
+    "source": ""
+   },
+   {
+    "slug": "v84",
+    "title": "malinivijayottara:v84",
+    "source": ""
+   },
+   {
+    "slug": "v85",
+    "title": "malinivijayottara:v85",
+    "source": ""
+   },
+   {
+    "slug": "v86",
+    "title": "malinivijayottara:v86",
+    "source": ""
+   },
+   {
+    "slug": "v87",
+    "title": "malinivijayottara:v87",
+    "source": ""
+   },
+   {
+    "slug": "v88",
+    "title": "malinivijayottara:v88",
+    "source": ""
+   },
+   {
+    "slug": "v89",
+    "title": "malinivijayottara:v89",
+    "source": ""
+   },
+   {
+    "slug": "v90",
+    "title": "malinivijayottara:v90",
+    "source": ""
+   },
+   {
+    "slug": "v91",
+    "title": "malinivijayottara:v91",
+    "source": ""
+   },
+   {
+    "slug": "v92",
+    "title": "malinivijayottara:v92",
+    "source": ""
+   },
+   {
+    "slug": "k34",
+    "title": "ipvv:V2L:k34",
+    "source": ""
+   },
+   {
+    "slug": "v94",
+    "title": "malinivijayottara:v94",
+    "source": ""
+   },
+   {
+    "slug": "v95",
+    "title": "malinivijayottara:v95",
+    "source": ""
+   },
+   {
+    "slug": "v96",
+    "title": "malinivijayottara:v96",
+    "source": ""
+   },
+   {
+    "slug": "v97",
+    "title": "malinivijayottara:v97",
+    "source": ""
+   },
+   {
+    "slug": "v98",
+    "title": "malinivijayottara:v98",
+    "source": ""
+   },
+   {
+    "slug": "v99",
+    "title": "malinivijayottara:v99",
+    "source": ""
+   },
+   {
+    "slug": "v100",
+    "title": "malinivijayottara:v100",
+    "source": ""
+   },
+   {
+    "slug": "v1",
+    "title": "netratantra:v1",
+    "source": ""
+   },
+   {
+    "slug": "v2",
+    "title": "netratantra:v2",
+    "source": ""
+   },
+   {
+    "slug": "v3",
+    "title": "netratantra:v3",
+    "source": ""
+   },
+   {
+    "slug": "v4",
+    "title": "netratantra:v4",
+    "source": ""
+   },
+   {
+    "slug": "v5",
+    "title": "netratantra:v5",
+    "source": ""
+   },
+   {
+    "slug": "v6",
+    "title": "netratantra:v6",
+    "source": ""
+   },
+   {
+    "slug": "v6",
+    "title": "netratantra:v6",
+    "source": ""
+   },
+   {
+    "slug": "v7",
+    "title": "netratantra:v7",
+    "source": ""
+   },
+   {
+    "slug": "v7",
+    "title": "netratantra:v7",
+    "source": ""
+   },
+   {
+    "slug": "v8",
+    "title": "netratantra:v8",
+    "source": ""
+   },
+   {
+    "slug": "v9",
+    "title": "netratantra:v9",
+    "source": ""
+   },
+   {
+    "slug": "v10",
+    "title": "netratantra:v10",
+    "source": ""
+   },
+   {
+    "slug": "v10",
+    "title": "netratantra:v10",
+    "source": ""
+   },
+   {
+    "slug": "v11",
+    "title": "netratantra:v11",
+    "source": ""
+   },
+   {
+    "slug": "v11",
+    "title": "netratantra:v11",
+    "source": ""
+   },
+   {
+    "slug": "v12",
+    "title": "netratantra:v12",
+    "source": ""
+   },
+   {
+    "slug": "v12",
+    "title": "netratantra:v12",
+    "source": ""
+   },
+   {
+    "slug": "v13",
+    "title": "netratantra:v13",
+    "source": ""
+   },
+   {
+    "slug": "v13",
+    "title": "netratantra:v13",
+    "source": ""
+   },
+   {
+    "slug": "v14",
+    "title": "netratantra:v14",
+    "source": ""
+   },
+   {
+    "slug": "v14",
+    "title": "netratantra:v14",
+    "source": ""
+   },
+   {
+    "slug": "v15",
+    "title": "netratantra:v15",
+    "source": ""
+   },
+   {
+    "slug": "v15",
+    "title": "netratantra:v15",
+    "source": ""
+   },
+   {
+    "slug": "v16",
+    "title": "netratantra:v16",
+    "source": ""
+   },
+   {
+    "slug": "v17",
+    "title": "netratantra:v17",
+    "source": ""
+   },
+   {
+    "slug": "v17",
+    "title": "netratantra:v17",
+    "source": ""
+   },
+   {
+    "slug": "v18",
+    "title": "netratantra:v18",
+    "source": ""
+   },
+   {
+    "slug": "v19",
+    "title": "netratantra:v19",
+    "source": ""
+   },
+   {
+    "slug": "v20",
+    "title": "netratantra:v20",
+    "source": ""
+   },
+   {
+    "slug": "v20",
+    "title": "netratantra:v20",
+    "source": ""
+   },
+   {
+    "slug": "v21",
+    "title": "netratantra:v21",
+    "source": ""
+   },
+   {
+    "slug": "v22",
+    "title": "netratantra:v22",
+    "source": ""
+   },
+   {
+    "slug": "v22",
+    "title": "netratantra:v22",
+    "source": ""
+   },
+   {
+    "slug": "v23",
+    "title": "netratantra:v23",
+    "source": ""
+   },
+   {
+    "slug": "v23",
+    "title": "netratantra:v23",
+    "source": ""
+   },
+   {
+    "slug": "v24",
+    "title": "netratantra:v24",
+    "source": ""
+   },
+   {
+    "slug": "v25",
+    "title": "netratantra:v25",
+    "source": ""
+   },
+   {
+    "slug": "v25",
+    "title": "netratantra:v25",
+    "source": ""
+   },
+   {
+    "slug": "v26",
+    "title": "netratantra:v26",
+    "source": ""
+   },
+   {
+    "slug": "v26",
+    "title": "netratantra:v26",
+    "source": ""
+   },
+   {
+    "slug": "v27",
+    "title": "netratantra:v27",
+    "source": ""
+   },
+   {
+    "slug": "v27",
+    "title": "netratantra:v27",
+    "source": ""
+   },
+   {
+    "slug": "v28",
+    "title": "netratantra:v28",
+    "source": ""
+   },
+   {
+    "slug": "v28",
+    "title": "netratantra:v28",
+    "source": ""
+   },
+   {
+    "slug": "v29",
+    "title": "netratantra:v29",
+    "source": ""
+   },
+   {
+    "slug": "v29",
+    "title": "netratantra:v29",
+    "source": ""
+   },
+   {
+    "slug": "v30",
+    "title": "netratantra:v30",
+    "source": ""
+   },
+   {
+    "slug": "v30",
+    "title": "netratantra:v30",
+    "source": ""
+   },
+   {
+    "slug": "v31",
+    "title": "netratantra:v31",
+    "source": ""
+   },
+   {
+    "slug": "v31",
+    "title": "netratantra:v31",
+    "source": ""
+   },
+   {
+    "slug": "v32",
+    "title": "netratantra:v32",
+    "source": ""
+   },
+   {
+    "slug": "v32",
+    "title": "netratantra:v32",
+    "source": ""
+   },
+   {
+    "slug": "v33",
+    "title": "netratantra:v33",
+    "source": ""
+   },
+   {
+    "slug": "v34",
+    "title": "netratantra:v34",
+    "source": ""
+   },
+   {
+    "slug": "v34",
+    "title": "netratantra:v34",
+    "source": ""
+   },
+   {
+    "slug": "v35",
+    "title": "netratantra:v35",
+    "source": ""
+   },
+   {
+    "slug": "v36",
+    "title": "netratantra:v36",
+    "source": ""
+   },
+   {
+    "slug": "v36",
+    "title": "netratantra:v36",
+    "source": ""
+   },
+   {
+    "slug": "v37",
+    "title": "netratantra:v37",
+    "source": ""
+   },
+   {
+    "slug": "v37",
+    "title": "netratantra:v37",
+    "source": ""
+   },
+   {
+    "slug": "v38",
+    "title": "netratantra:v38",
+    "source": ""
+   },
+   {
+    "slug": "v38",
+    "title": "netratantra:v38",
+    "source": ""
+   },
+   {
+    "slug": "v39",
+    "title": "netratantra:v39",
+    "source": ""
+   },
+   {
+    "slug": "v39",
+    "title": "netratantra:v39",
+    "source": ""
+   },
+   {
+    "slug": "v40",
+    "title": "netratantra:v40",
+    "source": ""
+   },
+   {
+    "slug": "v40",
+    "title": "netratantra:v40",
+    "source": ""
+   },
+   {
+    "slug": "v41",
+    "title": "netratantra:v41",
+    "source": ""
+   },
+   {
+    "slug": "v41",
+    "title": "netratantra:v41",
+    "source": ""
+   },
+   {
+    "slug": "v42",
+    "title": "netratantra:v42",
+    "source": ""
+   },
+   {
+    "slug": "v42",
+    "title": "netratantra:v42",
+    "source": ""
+   },
+   {
+    "slug": "v43",
+    "title": "netratantra:v43",
+    "source": ""
+   },
+   {
+    "slug": "v43",
+    "title": "netratantra:v43",
+    "source": ""
+   },
+   {
+    "slug": "v44",
+    "title": "netratantra:v44",
+    "source": ""
+   },
+   {
+    "slug": "v44",
+    "title": "netratantra:v44",
+    "source": ""
+   },
+   {
+    "slug": "v45",
+    "title": "netratantra:v45",
+    "source": ""
+   },
+   {
+    "slug": "v46",
+    "title": "netratantra:v46",
+    "source": ""
+   },
+   {
+    "slug": "v47",
+    "title": "netratantra:v47",
+    "source": ""
+   },
+   {
+    "slug": "v48",
+    "title": "netratantra:v48",
+    "source": ""
+   },
+   {
+    "slug": "v49",
+    "title": "netratantra:v49",
+    "source": ""
+   },
+   {
+    "slug": "v50",
+    "title": "netratantra:v50",
+    "source": ""
+   },
+   {
+    "slug": "v51",
+    "title": "netratantra:v51",
+    "source": ""
+   },
+   {
+    "slug": "v52",
+    "title": "netratantra:v52",
+    "source": ""
+   },
+   {
+    "slug": "v52",
+    "title": "netratantra:v52",
+    "source": ""
+   },
+   {
+    "slug": "v53",
+    "title": "netratantra:v53",
+    "source": ""
+   },
+   {
+    "slug": "v53",
+    "title": "netratantra:v53",
+    "source": ""
+   },
+   {
+    "slug": "v54",
+    "title": "netratantra:v54",
+    "source": ""
+   },
+   {
+    "slug": "v54",
+    "title": "netratantra:v54",
+    "source": ""
+   },
+   {
+    "slug": "v55",
+    "title": "netratantra:v55",
+    "source": ""
+   },
+   {
+    "slug": "v56",
+    "title": "netratantra:v56",
+    "source": ""
+   },
+   {
+    "slug": "v56",
+    "title": "netratantra:v56",
+    "source": ""
+   },
+   {
+    "slug": "k23",
+    "title": "ipvv:V2L:k23",
+    "source": ""
+   },
+   {
+    "slug": "v72",
+    "title": "netratantra:v72",
+    "source": ""
+   },
+   {
+    "slug": "v73",
+    "title": "netratantra:v73",
+    "source": ""
+   },
+   {
+    "slug": "v73",
+    "title": "netratantra:v73",
+    "source": ""
+   },
+   {
+    "slug": "v74",
+    "title": "netratantra:v74",
+    "source": ""
+   },
+   {
+    "slug": "v75",
+    "title": "netratantra:v75",
+    "source": ""
+   },
+   {
+    "slug": "v75",
+    "title": "netratantra:v75",
+    "source": ""
+   },
+   {
+    "slug": "v76",
+    "title": "netratantra:v76",
+    "source": ""
+   },
+   {
+    "slug": "v77",
+    "title": "netratantra:v77",
+    "source": ""
+   },
+   {
+    "slug": "v77",
+    "title": "netratantra:v77",
+    "source": ""
+   },
+   {
+    "slug": "v78",
+    "title": "netratantra:v78",
+    "source": ""
+   },
+   {
+    "slug": "v79",
+    "title": "netratantra:v79",
+    "source": ""
+   },
+   {
+    "slug": "v80",
+    "title": "netratantra:v80",
+    "source": ""
+   },
+   {
+    "slug": "v80",
+    "title": "netratantra:v80",
+    "source": ""
+   },
+   {
+    "slug": "v81",
+    "title": "netratantra:v81",
+    "source": ""
+   },
+   {
+    "slug": "v82",
+    "title": "netratantra:v82",
+    "source": ""
+   },
+   {
+    "slug": "v83",
+    "title": "netratantra:v83",
+    "source": ""
+   },
+   {
+    "slug": "v83",
+    "title": "netratantra:v83",
+    "source": ""
+   },
+   {
+    "slug": "v84",
+    "title": "netratantra:v84",
+    "source": ""
+   },
+   {
+    "slug": "v84",
+    "title": "netratantra:v84",
+    "source": ""
+   },
+   {
+    "slug": "v85",
+    "title": "netratantra:v85",
+    "source": ""
+   },
+   {
+    "slug": "v85",
+    "title": "netratantra:v85",
+    "source": ""
+   },
+   {
+    "slug": "v86",
+    "title": "netratantra:v86",
+    "source": ""
+   },
+   {
+    "slug": "v87",
+    "title": "netratantra:v87",
+    "source": ""
+   },
+   {
+    "slug": "v88",
+    "title": "netratantra:v88",
+    "source": ""
+   },
+   {
+    "slug": "v89",
+    "title": "netratantra:v89",
+    "source": ""
+   },
+   {
+    "slug": "v90",
+    "title": "netratantra:v90",
+    "source": ""
+   },
+   {
+    "slug": "v91",
+    "title": "netratantra:v91",
+    "source": ""
+   },
+   {
+    "slug": "v91",
+    "title": "netratantra:v91",
+    "source": ""
+   },
+   {
+    "slug": "v92",
+    "title": "netratantra:v92",
+    "source": ""
+   },
+   {
+    "slug": "v92",
+    "title": "netratantra:v92",
+    "source": ""
+   },
+   {
+    "slug": "v93",
+    "title": "netratantra:v93",
+    "source": ""
+   },
+   {
+    "slug": "v93",
+    "title": "netratantra:v93",
+    "source": ""
+   },
+   {
+    "slug": "v94",
+    "title": "netratantra:v94",
+    "source": ""
+   },
+   {
+    "slug": "v94",
+    "title": "netratantra:v94",
+    "source": ""
+   },
+   {
+    "slug": "v95",
+    "title": "netratantra:v95",
+    "source": ""
+   },
+   {
+    "slug": "v95",
+    "title": "netratantra:v95",
+    "source": ""
+   },
+   {
+    "slug": "v96",
+    "title": "netratantra:v96",
+    "source": ""
+   },
+   {
+    "slug": "v96",
+    "title": "netratantra:v96",
+    "source": ""
+   },
+   {
+    "slug": "v97",
+    "title": "netratantra:v97",
+    "source": ""
+   },
+   {
+    "slug": "v98",
+    "title": "netratantra:v98",
+    "source": ""
+   },
+   {
+    "slug": "v1",
+    "title": "bhagavadgita_sarvatobhadra:v1",
+    "source": ""
+   },
+   {
+    "slug": "v1",
+    "title": "bhagavadgita_sarvatobhadra:v1",
+    "source": ""
+   },
+   {
+    "slug": "v2",
+    "title": "bhagavadgita_sarvatobhadra:v2",
+    "source": ""
+   },
+   {
+    "slug": "v2",
+    "title": "bhagavadgita_sarvatobhadra:v2",
+    "source": ""
+   },
+   {
+    "slug": "v3",
+    "title": "bhagavadgita_sarvatobhadra:v3",
+    "source": ""
+   },
+   {
+    "slug": "v3",
+    "title": "bhagavadgita_sarvatobhadra:v3",
+    "source": ""
+   },
+   {
+    "slug": "v4",
+    "title": "bhagavadgita_sarvatobhadra:v4",
+    "source": ""
+   },
+   {
+    "slug": "v4",
+    "title": "bhagavadgita_sarvatobhadra:v4",
+    "source": ""
+   },
+   {
+    "slug": "v5",
+    "title": "bhagavadgita_sarvatobhadra:v5",
+    "source": ""
+   },
+   {
+    "slug": "v5",
+    "title": "bhagavadgita_sarvatobhadra:v5",
+    "source": ""
+   },
+   {
+    "slug": "v6",
+    "title": "bhagavadgita_sarvatobhadra:v6",
+    "source": ""
+   },
+   {
+    "slug": "v6",
+    "title": "bhagavadgita_sarvatobhadra:v6",
+    "source": ""
+   },
+   {
+    "slug": "v7",
+    "title": "bhagavadgita_sarvatobhadra:v7",
+    "source": ""
+   },
+   {
+    "slug": "v7",
+    "title": "bhagavadgita_sarvatobhadra:v7",
+    "source": ""
+   },
+   {
+    "slug": "v8",
+    "title": "bhagavadgita_sarvatobhadra:v8",
+    "source": ""
+   },
+   {
+    "slug": "v8",
+    "title": "bhagavadgita_sarvatobhadra:v8",
+    "source": ""
+   },
+   {
+    "slug": "v9",
+    "title": "bhagavadgita_sarvatobhadra:v9",
+    "source": ""
+   },
+   {
+    "slug": "v9",
+    "title": "bhagavadgita_sarvatobhadra:v9",
+    "source": ""
+   },
+   {
+    "slug": "v10",
+    "title": "bhagavadgita_sarvatobhadra:v10",
+    "source": ""
+   },
+   {
+    "slug": "v10",
+    "title": "bhagavadgita_sarvatobhadra:v10",
+    "source": ""
+   },
+   {
+    "slug": "v11",
+    "title": "bhagavadgita_sarvatobhadra:v11",
+    "source": ""
+   },
+   {
+    "slug": "v11",
+    "title": "bhagavadgita_sarvatobhadra:v11",
+    "source": ""
+   },
+   {
+    "slug": "v12",
+    "title": "bhagavadgita_sarvatobhadra:v12",
+    "source": ""
+   },
+   {
+    "slug": "v12",
+    "title": "bhagavadgita_sarvatobhadra:v12",
+    "source": ""
+   },
+   {
+    "slug": "v13",
+    "title": "bhagavadgita_sarvatobhadra:v13",
+    "source": ""
+   },
+   {
+    "slug": "v13",
+    "title": "bhagavadgita_sarvatobhadra:v13",
+    "source": ""
+   },
+   {
+    "slug": "v14",
+    "title": "bhagavadgita_sarvatobhadra:v14",
+    "source": ""
+   },
+   {
+    "slug": "v14",
+    "title": "bhagavadgita_sarvatobhadra:v14",
+    "source": ""
+   },
+   {
+    "slug": "v15",
+    "title": "bhagavadgita_sarvatobhadra:v15",
+    "source": ""
+   },
+   {
+    "slug": "v15",
+    "title": "bhagavadgita_sarvatobhadra:v15",
+    "source": ""
+   },
+   {
+    "slug": "v16",
+    "title": "bhagavadgita_sarvatobhadra:v16",
+    "source": ""
+   },
+   {
+    "slug": "v16",
+    "title": "bhagavadgita_sarvatobhadra:v16",
+    "source": ""
+   },
+   {
+    "slug": "v17",
+    "title": "bhagavadgita_sarvatobhadra:v17",
+    "source": ""
+   },
+   {
+    "slug": "v17",
+    "title": "bhagavadgita_sarvatobhadra:v17",
+    "source": ""
+   },
+   {
+    "slug": "v18",
+    "title": "bhagavadgita_sarvatobhadra:v18",
+    "source": ""
+   },
+   {
+    "slug": "v18",
+    "title": "bhagavadgita_sarvatobhadra:v18",
+    "source": ""
+   },
+   {
+    "slug": "v19",
+    "title": "bhagavadgita_sarvatobhadra:v19",
+    "source": ""
+   },
+   {
+    "slug": "v19",
+    "title": "bhagavadgita_sarvatobhadra:v19",
+    "source": ""
+   },
+   {
+    "slug": "v20",
+    "title": "bhagavadgita_sarvatobhadra:v20",
+    "source": ""
+   },
+   {
+    "slug": "v20",
+    "title": "bhagavadgita_sarvatobhadra:v20",
+    "source": ""
+   },
+   {
+    "slug": "v21",
+    "title": "bhagavadgita_sarvatobhadra:v21",
+    "source": ""
+   },
+   {
+    "slug": "v21",
+    "title": "bhagavadgita_sarvatobhadra:v21",
+    "source": ""
+   },
+   {
+    "slug": "v22",
+    "title": "bhagavadgita_sarvatobhadra:v22",
+    "source": ""
+   },
+   {
+    "slug": "v22",
+    "title": "bhagavadgita_sarvatobhadra:v22",
+    "source": ""
+   },
+   {
+    "slug": "v23",
+    "title": "bhagavadgita_sarvatobhadra:v23",
+    "source": ""
+   },
+   {
+    "slug": "v23",
+    "title": "bhagavadgita_sarvatobhadra:v23",
+    "source": ""
+   },
+   {
+    "slug": "v24",
+    "title": "bhagavadgita_sarvatobhadra:v24",
+    "source": ""
+   },
+   {
+    "slug": "v24",
+    "title": "bhagavadgita_sarvatobhadra:v24",
+    "source": ""
+   },
+   {
+    "slug": "v25",
+    "title": "bhagavadgita_sarvatobhadra:v25",
+    "source": ""
+   },
+   {
+    "slug": "v25",
+    "title": "bhagavadgita_sarvatobhadra:v25",
+    "source": ""
+   },
+   {
+    "slug": "v26",
+    "title": "bhagavadgita_sarvatobhadra:v26",
+    "source": ""
+   },
+   {
+    "slug": "v26",
+    "title": "bhagavadgita_sarvatobhadra:v26",
+    "source": ""
+   },
+   {
+    "slug": "v27",
+    "title": "bhagavadgita_sarvatobhadra:v27",
+    "source": ""
+   },
+   {
+    "slug": "v27",
+    "title": "bhagavadgita_sarvatobhadra:v27",
+    "source": ""
+   },
+   {
+    "slug": "v28",
+    "title": "bhagavadgita_sarvatobhadra:v28",
+    "source": ""
+   },
+   {
+    "slug": "v28",
+    "title": "bhagavadgita_sarvatobhadra:v28",
+    "source": ""
+   },
+   {
+    "slug": "v29",
+    "title": "bhagavadgita_sarvatobhadra:v29",
+    "source": ""
+   },
+   {
+    "slug": "v29",
+    "title": "bhagavadgita_sarvatobhadra:v29",
+    "source": ""
+   },
+   {
+    "slug": "v30",
+    "title": "bhagavadgita_sarvatobhadra:v30",
+    "source": ""
+   },
+   {
+    "slug": "v30",
+    "title": "bhagavadgita_sarvatobhadra:v30",
+    "source": ""
+   },
+   {
+    "slug": "v31",
+    "title": "bhagavadgita_sarvatobhadra:v31",
+    "source": ""
+   },
+   {
+    "slug": "v31",
+    "title": "bhagavadgita_sarvatobhadra:v31",
+    "source": ""
+   },
+   {
+    "slug": "v32",
+    "title": "bhagavadgita_sarvatobhadra:v32",
+    "source": ""
+   },
+   {
+    "slug": "k43",
+    "title": "ipvv:V2L:k43",
+    "source": ""
+   },
+   {
+    "slug": "v40",
+    "title": "bhagavadgita_sarvatobhadra:v40",
+    "source": ""
+   },
+   {
+    "slug": "v40",
+    "title": "bhagavadgita_sarvatobhadra:v40",
+    "source": ""
+   },
+   {
+    "slug": "v41",
+    "title": "bhagavadgita_sarvatobhadra:v41",
+    "source": ""
+   },
+   {
+    "slug": "v41",
+    "title": "bhagavadgita_sarvatobhadra:v41",
+    "source": ""
+   },
+   {
+    "slug": "v42",
+    "title": "bhagavadgita_sarvatobhadra:v42",
+    "source": ""
+   },
+   {
+    "slug": "v42",
+    "title": "bhagavadgita_sarvatobhadra:v42",
+    "source": ""
+   },
+   {
+    "slug": "v43",
+    "title": "bhagavadgita_sarvatobhadra:v43",
+    "source": ""
+   },
+   {
+    "slug": "v43",
+    "title": "bhagavadgita_sarvatobhadra:v43",
+    "source": ""
+   },
+   {
+    "slug": "v44",
+    "title": "bhagavadgita_sarvatobhadra:v44",
+    "source": ""
+   },
+   {
+    "slug": "v44",
+    "title": "bhagavadgita_sarvatobhadra:v44",
+    "source": ""
+   },
+   {
+    "slug": "v45",
+    "title": "bhagavadgita_sarvatobhadra:v45",
+    "source": ""
+   },
+   {
+    "slug": "v45",
+    "title": "bhagavadgita_sarvatobhadra:v45",
+    "source": ""
+   },
+   {
+    "slug": "v46",
+    "title": "bhagavadgita_sarvatobhadra:v46",
+    "source": ""
+   },
+   {
+    "slug": "v46",
+    "title": "bhagavadgita_sarvatobhadra:v46",
+    "source": ""
+   },
+   {
+    "slug": "v47",
+    "title": "bhagavadgita_sarvatobhadra:v47",
+    "source": ""
+   },
+   {
+    "slug": "v47",
+    "title": "bhagavadgita_sarvatobhadra:v47",
+    "source": ""
+   },
+   {
+    "slug": "v48",
+    "title": "bhagavadgita_sarvatobhadra:v48",
+    "source": ""
+   },
+   {
+    "slug": "v48",
+    "title": "bhagavadgita_sarvatobhadra:v48",
+    "source": ""
+   },
+   {
+    "slug": "v49",
+    "title": "bhagavadgita_sarvatobhadra:v49",
+    "source": ""
+   },
+   {
+    "slug": "v49",
+    "title": "bhagavadgita_sarvatobhadra:v49",
+    "source": ""
+   },
+   {
+    "slug": "v50",
+    "title": "bhagavadgita_sarvatobhadra:v50",
+    "source": ""
+   },
+   {
+    "slug": "v50",
+    "title": "bhagavadgita_sarvatobhadra:v50",
+    "source": ""
+   },
+   {
+    "slug": "v51",
+    "title": "bhagavadgita_sarvatobhadra:v51",
+    "source": ""
+   },
+   {
+    "slug": "v51",
+    "title": "bhagavadgita_sarvatobhadra:v51",
+    "source": ""
+   },
+   {
+    "slug": "v52",
+    "title": "bhagavadgita_sarvatobhadra:v52",
+    "source": ""
+   },
+   {
+    "slug": "v52",
+    "title": "bhagavadgita_sarvatobhadra:v52",
+    "source": ""
+   },
+   {
+    "slug": "v53",
+    "title": "bhagavadgita_sarvatobhadra:v53",
+    "source": ""
+   },
+   {
+    "slug": "v53",
+    "title": "bhagavadgita_sarvatobhadra:v53",
+    "source": ""
+   },
+   {
+    "slug": "v54",
+    "title": "bhagavadgita_sarvatobhadra:v54",
+    "source": ""
+   },
+   {
+    "slug": "v54",
+    "title": "bhagavadgita_sarvatobhadra:v54",
+    "source": ""
+   },
+   {
+    "slug": "v55",
+    "title": "bhagavadgita_sarvatobhadra:v55",
+    "source": ""
+   },
+   {
+    "slug": "v55",
+    "title": "bhagavadgita_sarvatobhadra:v55",
+    "source": ""
+   },
+   {
+    "slug": "v56",
+    "title": "bhagavadgita_sarvatobhadra:v56",
+    "source": ""
+   },
+   {
+    "slug": "v56",
+    "title": "bhagavadgita_sarvatobhadra:v56",
+    "source": ""
+   },
+   {
+    "slug": "v57",
+    "title": "bhagavadgita_sarvatobhadra:v57",
+    "source": ""
+   },
+   {
+    "slug": "v57",
+    "title": "bhagavadgita_sarvatobhadra:v57",
+    "source": ""
+   },
+   {
+    "slug": "v58",
+    "title": "bhagavadgita_sarvatobhadra:v58",
+    "source": ""
+   },
+   {
+    "slug": "v58",
+    "title": "bhagavadgita_sarvatobhadra:v58",
+    "source": ""
+   },
+   {
+    "slug": "v59",
+    "title": "bhagavadgita_sarvatobhadra:v59",
+    "source": ""
+   },
+   {
+    "slug": "v59",
+    "title": "bhagavadgita_sarvatobhadra:v59",
+    "source": ""
+   },
+   {
+    "slug": "v60",
+    "title": "bhagavadgita_sarvatobhadra:v60",
+    "source": ""
+   },
+   {
+    "slug": "v60",
+    "title": "bhagavadgita_sarvatobhadra:v60",
+    "source": ""
+   },
+   {
+    "slug": "v61",
+    "title": "bhagavadgita_sarvatobhadra:v61",
+    "source": ""
+   },
+   {
+    "slug": "v61",
+    "title": "bhagavadgita_sarvatobhadra:v61",
+    "source": ""
+   },
+   {
+    "slug": "v62",
+    "title": "bhagavadgita_sarvatobhadra:v62",
+    "source": ""
+   },
+   {
+    "slug": "v62",
+    "title": "bhagavadgita_sarvatobhadra:v62",
+    "source": ""
+   },
+   {
+    "slug": "v63",
+    "title": "bhagavadgita_sarvatobhadra:v63",
+    "source": ""
+   },
+   {
+    "slug": "v63",
+    "title": "bhagavadgita_sarvatobhadra:v63",
+    "source": ""
+   },
+   {
+    "slug": "v64",
+    "title": "bhagavadgita_sarvatobhadra:v64",
+    "source": ""
+   },
+   {
+    "slug": "v64",
+    "title": "bhagavadgita_sarvatobhadra:v64",
+    "source": ""
+   },
+   {
+    "slug": "v65",
+    "title": "bhagavadgita_sarvatobhadra:v65",
+    "source": ""
+   },
+   {
+    "slug": "v65",
+    "title": "bhagavadgita_sarvatobhadra:v65",
+    "source": ""
+   },
+   {
+    "slug": "v66",
+    "title": "bhagavadgita_sarvatobhadra:v66",
+    "source": ""
+   },
+   {
+    "slug": "v66",
+    "title": "bhagavadgita_sarvatobhadra:v66",
+    "source": ""
+   },
+   {
+    "slug": "v67",
+    "title": "bhagavadgita_sarvatobhadra:v67",
+    "source": ""
+   },
+   {
+    "slug": "v67",
+    "title": "bhagavadgita_sarvatobhadra:v67",
+    "source": ""
+   },
+   {
+    "slug": "v68",
+    "title": "bhagavadgita_sarvatobhadra:v68",
+    "source": ""
+   },
+   {
+    "slug": "v68",
+    "title": "bhagavadgita_sarvatobhadra:v68",
+    "source": ""
+   },
+   {
+    "slug": "v69",
+    "title": "bhagavadgita_sarvatobhadra:v69",
+    "source": ""
+   },
+   {
+    "slug": "v69",
+    "title": "bhagavadgita_sarvatobhadra:v69",
+    "source": ""
+   },
+   {
+    "slug": "v70",
+    "title": "bhagavadgita_sarvatobhadra:v70",
+    "source": ""
+   },
+   {
+    "slug": "v70",
+    "title": "bhagavadgita_sarvatobhadra:v70",
+    "source": ""
+   },
+   {
+    "slug": "v71",
+    "title": "bhagavadgita_sarvatobhadra:v71",
+    "source": ""
+   },
+   {
+    "slug": "v71",
+    "title": "bhagavadgita_sarvatobhadra:v71",
+    "source": ""
+   },
+   {
+    "slug": "v72",
+    "title": "bhagavadgita_sarvatobhadra:v72",
+    "source": ""
+   },
+   {
+    "slug": "v72",
+    "title": "bhagavadgita_sarvatobhadra:v72",
+    "source": ""
+   },
+   {
+    "slug": "v73",
+    "title": "bhagavadgita_sarvatobhadra:v73",
+    "source": ""
+   },
+   {
+    "slug": "v73",
+    "title": "bhagavadgita_sarvatobhadra:v73",
+    "source": ""
+   },
+   {
+    "slug": "v74",
+    "title": "bhagavadgita_sarvatobhadra:v74",
+    "source": ""
+   },
+   {
+    "slug": "v74",
+    "title": "bhagavadgita_sarvatobhadra:v74",
+    "source": ""
+   },
+   {
+    "slug": "v75",
+    "title": "bhagavadgita_sarvatobhadra:v75",
+    "source": ""
+   },
+   {
+    "slug": "v75",
+    "title": "bhagavadgita_sarvatobhadra:v75",
+    "source": ""
+   },
+   {
+    "slug": "v76",
+    "title": "bhagavadgita_sarvatobhadra:v76",
+    "source": ""
+   },
+   {
+    "slug": "v76",
+    "title": "bhagavadgita_sarvatobhadra:v76",
+    "source": ""
+   },
+   {
+    "slug": "v77",
+    "title": "bhagavadgita_sarvatobhadra:v77",
+    "source": ""
+   },
+   {
+    "slug": "v77",
+    "title": "bhagavadgita_sarvatobhadra:v77",
+    "source": ""
+   },
+   {
+    "slug": "v78",
+    "title": "bhagavadgita_sarvatobhadra:v78",
+    "source": ""
+   },
+   {
+    "slug": "v78",
+    "title": "bhagavadgita_sarvatobhadra:v78",
+    "source": ""
+   },
+   {
+    "slug": "v79",
+    "title": "bhagavadgita_sarvatobhadra:v79",
+    "source": ""
+   },
+   {
+    "slug": "v79",
+    "title": "bhagavadgita_sarvatobhadra:v79",
+    "source": ""
+   },
+   {
+    "slug": "v80",
+    "title": "bhagavadgita_sarvatobhadra:v80",
+    "source": ""
+   },
+   {
+    "slug": "v80",
+    "title": "bhagavadgita_sarvatobhadra:v80",
+    "source": ""
+   },
+   {
+    "slug": "v81",
+    "title": "bhagavadgita_sarvatobhadra:v81",
+    "source": ""
+   },
+   {
+    "slug": "v81",
+    "title": "bhagavadgita_sarvatobhadra:v81",
+    "source": ""
+   },
+   {
+    "slug": "v82",
+    "title": "bhagavadgita_sarvatobhadra:v82",
+    "source": ""
+   },
+   {
+    "slug": "v82",
+    "title": "bhagavadgita_sarvatobhadra:v82",
+    "source": ""
+   },
+   {
+    "slug": "v83",
+    "title": "bhagavadgita_sarvatobhadra:v83",
+    "source": ""
+   },
+   {
+    "slug": "v83",
+    "title": "bhagavadgita_sarvatobhadra:v83",
+    "source": ""
+   },
+   {
+    "slug": "v84",
+    "title": "bhagavadgita_sarvatobhadra:v84",
+    "source": ""
+   },
+   {
+    "slug": "v84",
+    "title": "bhagavadgita_sarvatobhadra:v84",
+    "source": ""
+   },
+   {
+    "slug": "v85",
+    "title": "bhagavadgita_sarvatobhadra:v85",
+    "source": ""
+   },
+   {
+    "slug": "v85",
+    "title": "bhagavadgita_sarvatobhadra:v85",
+    "source": ""
+   },
+   {
+    "slug": "v86",
+    "title": "bhagavadgita_sarvatobhadra:v86",
+    "source": ""
+   },
+   {
+    "slug": "v86",
+    "title": "bhagavadgita_sarvatobhadra:v86",
+    "source": ""
+   },
+   {
+    "slug": "v87",
+    "title": "bhagavadgita_sarvatobhadra:v87",
+    "source": ""
+   },
+   {
+    "slug": "v87",
+    "title": "bhagavadgita_sarvatobhadra:v87",
+    "source": ""
+   },
+   {
+    "slug": "v88",
+    "title": "bhagavadgita_sarvatobhadra:v88",
+    "source": ""
+   },
+   {
+    "slug": "v88",
+    "title": "bhagavadgita_sarvatobhadra:v88",
+    "source": ""
+   },
+   {
+    "slug": "v89",
+    "title": "bhagavadgita_sarvatobhadra:v89",
+    "source": ""
+   },
+   {
+    "slug": "v89",
+    "title": "bhagavadgita_sarvatobhadra:v89",
+    "source": ""
+   },
+   {
+    "slug": "v90",
+    "title": "bhagavadgita_sarvatobhadra:v90",
+    "source": ""
+   },
+   {
+    "slug": "v90",
+    "title": "bhagavadgita_sarvatobhadra:v90",
+    "source": ""
+   },
+   {
+    "slug": "v91",
+    "title": "bhagavadgita_sarvatobhadra:v91",
+    "source": ""
+   },
+   {
+    "slug": "v91",
+    "title": "bhagavadgita_sarvatobhadra:v91",
+    "source": ""
+   },
+   {
+    "slug": "v92",
+    "title": "bhagavadgita_sarvatobhadra:v92",
+    "source": ""
+   },
+   {
+    "slug": "v92",
+    "title": "bhagavadgita_sarvatobhadra:v92",
+    "source": ""
+   },
+   {
+    "slug": "v93",
+    "title": "bhagavadgita_sarvatobhadra:v93",
+    "source": ""
+   },
+   {
+    "slug": "v93",
+    "title": "bhagavadgita_sarvatobhadra:v93",
+    "source": ""
+   },
+   {
+    "slug": "v94",
+    "title": "bhagavadgita_sarvatobhadra:v94",
+    "source": ""
+   },
+   {
+    "slug": "v94",
+    "title": "bhagavadgita_sarvatobhadra:v94",
+    "source": ""
+   },
+   {
+    "slug": "v95",
+    "title": "bhagavadgita_sarvatobhadra:v95",
+    "source": ""
+   },
+   {
+    "slug": "v95",
+    "title": "bhagavadgita_sarvatobhadra:v95",
+    "source": ""
+   },
+   {
+    "slug": "v96",
+    "title": "bhagavadgita_sarvatobhadra:v96",
+    "source": ""
+   },
+   {
+    "slug": "v96",
+    "title": "bhagavadgita_sarvatobhadra:v96",
+    "source": ""
+   },
+   {
+    "slug": "v97",
+    "title": "bhagavadgita_sarvatobhadra:v97",
+    "source": ""
+   },
+   {
+    "slug": "v97",
+    "title": "bhagavadgita_sarvatobhadra:v97",
+    "source": ""
+   },
+   {
+    "slug": "v98",
+    "title": "bhagavadgita_sarvatobhadra:v98",
+    "source": ""
+   },
+   {
+    "slug": "v98",
+    "title": "bhagavadgita_sarvatobhadra:v98",
+    "source": ""
+   },
+   {
+    "slug": "v99",
+    "title": "bhagavadgita_sarvatobhadra:v99",
+    "source": ""
+   },
+   {
+    "slug": "v99",
+    "title": "bhagavadgita_sarvatobhadra:v99",
+    "source": ""
+   },
+   {
+    "slug": "v100",
+    "title": "bhagavadgita_sarvatobhadra:v100",
+    "source": ""
+   },
+   {
+    "slug": "v100",
+    "title": "bhagavadgita_sarvatobhadra:v100",
+    "source": ""
+   },
+   {
+    "slug": "v79",
+    "title": "svacchandatantra:v79",
+    "source": ""
+   },
+   {
+    "slug": "v80",
+    "title": "svacchandatantra:v80",
+    "source": ""
+   },
+   {
+    "slug": "v81",
+    "title": "svacchandatantra:v81",
+    "source": ""
+   },
+   {
+    "slug": "v82",
+    "title": "svacchandatantra:v82",
+    "source": ""
+   },
+   {
+    "slug": "v83",
+    "title": "svacchandatantra:v83",
+    "source": ""
+   },
+   {
+    "slug": "v84",
+    "title": "svacchandatantra:v84",
+    "source": ""
+   },
+   {
+    "slug": "v85",
+    "title": "svacchandatantra:v85",
+    "source": ""
+   },
+   {
+    "slug": "v86",
+    "title": "svacchandatantra:v86",
+    "source": ""
+   },
+   {
+    "slug": "v86",
+    "title": "svacchandatantra:v86",
+    "source": ""
+   },
+   {
+    "slug": "v87",
+    "title": "svacchandatantra:v87",
+    "source": ""
+   },
+   {
+    "slug": "v88",
+    "title": "svacchandatantra:v88",
+    "source": ""
+   },
+   {
+    "slug": "v89",
+    "title": "svacchandatantra:v89",
+    "source": ""
+   },
+   {
+    "slug": "v89",
+    "title": "svacchandatantra:v89",
+    "source": ""
+   },
+   {
+    "slug": "v90",
+    "title": "svacchandatantra:v90",
+    "source": ""
+   },
+   {
+    "slug": "v91",
+    "title": "svacchandatantra:v91",
+    "source": ""
+   },
+   {
+    "slug": "v92",
+    "title": "svacchandatantra:v92",
+    "source": ""
+   },
+   {
+    "slug": "v92",
+    "title": "svacchandatantra:v92",
+    "source": ""
+   },
+   {
+    "slug": "v93",
+    "title": "svacchandatantra:v93",
+    "source": ""
+   },
+   {
+    "slug": "v93",
+    "title": "svacchandatantra:v93",
+    "source": ""
+   },
+   {
+    "slug": "v94",
+    "title": "svacchandatantra:v94",
+    "source": ""
+   },
+   {
+    "slug": "v95",
+    "title": "svacchandatantra:v95",
+    "source": ""
+   },
+   {
+    "slug": "v96",
+    "title": "svacchandatantra:v96",
+    "source": ""
+   },
+   {
+    "slug": "v97",
+    "title": "svacchandatantra:v97",
+    "source": ""
+   },
+   {
+    "slug": "v98",
+    "title": "svacchandatantra:v98",
+    "source": ""
+   },
+   {
+    "slug": "v99",
+    "title": "svacchandatantra:v99",
+    "source": ""
+   },
+   {
+    "slug": "v99",
+    "title": "svacchandatantra:v99",
+    "source": ""
+   },
+   {
+    "slug": "v100",
+    "title": "svacchandatantra:v100",
+    "source": ""
+   },
+   {
+    "slug": "v1",
+    "title": "bhavopahara:v1",
+    "source": ""
+   },
+   {
+    "slug": "v2",
+    "title": "bhavopahara:v2",
+    "source": ""
+   },
+   {
+    "slug": "v1",
+    "title": "devikalottaragama:v1",
+    "source": ""
+   },
+   {
+    "slug": "v2",
+    "title": "devikalottaragama:v2",
+    "source": ""
+   },
+   {
+    "slug": "v3",
+    "title": "devikalottaragama:v3",
+    "source": ""
+   },
+   {
+    "slug": "v4",
+    "title": "devikalottaragama:v4",
+    "source": ""
+   },
+   {
+    "slug": "v5",
+    "title": "devikalottaragama:v5",
+    "source": ""
+   },
+   {
+    "slug": "v6",
+    "title": "devikalottaragama:v6",
+    "source": ""
+   },
+   {
+    "slug": "v7",
+    "title": "devikalottaragama:v7",
+    "source": ""
+   },
+   {
+    "slug": "v8",
+    "title": "devikalottaragama:v8",
+    "source": ""
+   },
+   {
+    "slug": "v9",
+    "title": "devikalottaragama:v9",
+    "source": ""
+   },
+   {
+    "slug": "v10",
+    "title": "devikalottaragama:v10",
+    "source": ""
+   },
+   {
+    "slug": "v11",
+    "title": "devikalottaragama:v11",
+    "source": ""
+   },
+   {
+    "slug": "v12",
+    "title": "devikalottaragama:v12",
+    "source": ""
+   },
+   {
+    "slug": "v13",
+    "title": "devikalottaragama:v13",
+    "source": ""
+   },
+   {
+    "slug": "v14",
+    "title": "devikalottaragama:v14",
+    "source": ""
+   },
+   {
+    "slug": "v15",
+    "title": "devikalottaragama:v15",
+    "source": ""
+   },
+   {
+    "slug": "v16",
+    "title": "devikalottaragama:v16",
+    "source": ""
+   },
+   {
+    "slug": "v17",
+    "title": "devikalottaragama:v17",
+    "source": ""
+   },
+   {
+    "slug": "v18",
+    "title": "devikalottaragama:v18",
+    "source": ""
+   },
+   {
+    "slug": "v19",
+    "title": "devikalottaragama:v19",
+    "source": ""
+   },
+   {
+    "slug": "v20",
+    "title": "devikalottaragama:v20",
+    "source": ""
+   },
+   {
+    "slug": "v21",
+    "title": "devikalottaragama:v21",
+    "source": ""
+   },
+   {
+    "slug": "v22",
+    "title": "devikalottaragama:v22",
+    "source": ""
+   },
+   {
+    "slug": "v23",
+    "title": "devikalottaragama:v23",
+    "source": ""
+   },
+   {
+    "slug": "v24",
+    "title": "devikalottaragama:v24",
+    "source": ""
+   },
+   {
+    "slug": "v25",
+    "title": "devikalottaragama:v25",
+    "source": ""
+   },
+   {
+    "slug": "v26",
+    "title": "devikalottaragama:v26",
+    "source": ""
+   },
+   {
+    "slug": "v27",
+    "title": "devikalottaragama:v27",
+    "source": ""
+   },
+   {
+    "slug": "v28",
+    "title": "devikalottaragama:v28",
+    "source": ""
+   },
+   {
+    "slug": "v29",
+    "title": "devikalottaragama:v29",
+    "source": ""
+   },
+   {
+    "slug": "v30",
+    "title": "devikalottaragama:v30",
+    "source": ""
+   },
+   {
+    "slug": "v31",
+    "title": "devikalottaragama:v31",
+    "source": ""
+   },
+   {
+    "slug": "v32",
+    "title": "devikalottaragama:v32",
+    "source": ""
+   },
+   {
+    "slug": "v33",
+    "title": "devikalottaragama:v33",
+    "source": ""
+   },
+   {
+    "slug": "v34",
+    "title": "devikalottaragama:v34",
+    "source": ""
+   },
+   {
+    "slug": "v1",
+    "title": "dvisatikalottara:v1",
+    "source": ""
+   },
+   {
+    "slug": "v2",
+    "title": "dvisatikalottara:v2",
+    "source": ""
+   },
+   {
+    "slug": "v3",
+    "title": "dvisatikalottara:v3",
+    "source": ""
+   },
+   {
+    "slug": "v4",
+    "title": "dvisatikalottara:v4",
+    "source": ""
+   },
+   {
+    "slug": "v5",
+    "title": "dvisatikalottara:v5",
+    "source": ""
+   },
+   {
+    "slug": "v6",
+    "title": "dvisatikalottara:v6",
+    "source": ""
+   },
+   {
+    "slug": "v7",
+    "title": "dvisatikalottara:v7",
+    "source": ""
+   },
+   {
+    "slug": "v8",
+    "title": "dvisatikalottara:v8",
+    "source": ""
+   },
+   {
+    "slug": "v9",
+    "title": "dvisatikalottara:v9",
+    "source": ""
+   },
+   {
+    "slug": "v10",
+    "title": "dvisatikalottara:v10",
+    "source": ""
+   },
+   {
+    "slug": "v11",
+    "title": "dvisatikalottara:v11",
+    "source": ""
+   },
+   {
+    "slug": "v12",
+    "title": "dvisatikalottara:v12",
+    "source": ""
+   },
+   {
+    "slug": "v13",
+    "title": "dvisatikalottara:v13",
+    "source": ""
+   },
+   {
+    "slug": "v14",
+    "title": "dvisatikalottara:v14",
+    "source": ""
+   },
+   {
+    "slug": "v15",
+    "title": "dvisatikalottara:v15",
+    "source": ""
+   },
+   {
+    "slug": "v16",
+    "title": "dvisatikalottara:v16",
+    "source": ""
+   },
+   {
+    "slug": "v17",
+    "title": "dvisatikalottara:v17",
+    "source": ""
+   },
+   {
+    "slug": "v18",
+    "title": "dvisatikalottara:v18",
+    "source": ""
+   },
+   {
+    "slug": "v19",
+    "title": "dvisatikalottara:v19",
+    "source": ""
+   },
+   {
+    "slug": "v20",
+    "title": "dvisatikalottara:v20",
+    "source": ""
+   },
+   {
+    "slug": "v21",
+    "title": "dvisatikalottara:v21",
+    "source": ""
+   },
+   {
+    "slug": "v22",
+    "title": "dvisatikalottara:v22",
+    "source": ""
+   },
+   {
+    "slug": "v23",
+    "title": "dvisatikalottara:v23",
+    "source": ""
+   },
+   {
+    "slug": "v24",
+    "title": "dvisatikalottara:v24",
+    "source": ""
+   },
+   {
+    "slug": "v25",
+    "title": "dvisatikalottara:v25",
+    "source": ""
+   },
+   {
+    "slug": "v26",
+    "title": "dvisatikalottara:v26",
+    "source": ""
+   },
+   {
+    "slug": "v27",
+    "title": "dvisatikalottara:v27",
+    "source": ""
+   },
+   {
+    "slug": "v28",
+    "title": "dvisatikalottara:v28",
+    "source": ""
+   },
+   {
+    "slug": "v29",
+    "title": "dvisatikalottara:v29",
+    "source": ""
+   },
+   {
+    "slug": "v30",
+    "title": "dvisatikalottara:v30",
+    "source": ""
+   },
+   {
+    "slug": "v31",
+    "title": "dvisatikalottara:v31",
+    "source": ""
+   },
+   {
+    "slug": "v32",
+    "title": "dvisatikalottara:v32",
+    "source": ""
+   },
+   {
+    "slug": "v33",
+    "title": "dvisatikalottara:v33",
+    "source": ""
+   },
+   {
+    "slug": "v34",
+    "title": "dvisatikalottara:v34",
+    "source": ""
+   },
+   {
+    "slug": "v35",
+    "title": "dvisatikalottara:v35",
+    "source": ""
+   },
+   {
+    "slug": "v36",
+    "title": "dvisatikalottara:v36",
+    "source": ""
+   },
+   {
+    "slug": "v37",
+    "title": "dvisatikalottara:v37",
+    "source": ""
+   },
+   {
+    "slug": "v38",
+    "title": "dvisatikalottara:v38",
+    "source": ""
+   },
+   {
+    "slug": "v39",
+    "title": "dvisatikalottara:v39",
+    "source": ""
+   },
+   {
+    "slug": "v40",
+    "title": "dvisatikalottara:v40",
+    "source": ""
+   },
+   {
+    "slug": "v41",
+    "title": "dvisatikalottara:v41",
+    "source": ""
+   },
+   {
+    "slug": "v42",
+    "title": "dvisatikalottara:v42",
+    "source": ""
+   },
+   {
+    "slug": "v43",
+    "title": "dvisatikalottara:v43",
+    "source": ""
+   },
+   {
+    "slug": "v44",
+    "title": "dvisatikalottara:v44",
+    "source": ""
+   },
+   {
+    "slug": "v45",
+    "title": "dvisatikalottara:v45",
+    "source": ""
+   },
+   {
+    "slug": "v46",
+    "title": "dvisatikalottara:v46",
+    "source": ""
+   },
+   {
+    "slug": "v47",
+    "title": "dvisatikalottara:v47",
+    "source": ""
+   },
+   {
+    "slug": "v48",
+    "title": "dvisatikalottara:v48",
+    "source": ""
+   },
+   {
+    "slug": "v49",
+    "title": "dvisatikalottara:v49",
+    "source": ""
+   },
+   {
+    "slug": "v50",
+    "title": "dvisatikalottara:v50",
+    "source": ""
+   },
+   {
+    "slug": "v51",
+    "title": "dvisatikalottara:v51",
+    "source": ""
+   },
+   {
+    "slug": "v52",
+    "title": "dvisatikalottara:v52",
+    "source": ""
+   },
+   {
+    "slug": "v53",
+    "title": "dvisatikalottara:v53",
+    "source": ""
+   },
+   {
+    "slug": "v54",
+    "title": "dvisatikalottara:v54",
+    "source": ""
+   },
+   {
+    "slug": "v55",
+    "title": "dvisatikalottara:v55",
+    "source": ""
+   },
+   {
+    "slug": "v56",
+    "title": "dvisatikalottara:v56",
+    "source": ""
+   },
+   {
+    "slug": "v57",
+    "title": "dvisatikalottara:v57",
+    "source": ""
+   },
+   {
+    "slug": "v58",
+    "title": "dvisatikalottara:v58",
+    "source": ""
+   },
+   {
+    "slug": "v59",
+    "title": "dvisatikalottara:v59",
+    "source": ""
+   },
+   {
+    "slug": "v60",
+    "title": "dvisatikalottara:v60",
+    "source": ""
+   },
+   {
+    "slug": "v61",
+    "title": "dvisatikalottara:v61",
+    "source": ""
+   },
+   {
+    "slug": "v62",
+    "title": "dvisatikalottara:v62",
+    "source": ""
+   },
+   {
+    "slug": "v63",
+    "title": "dvisatikalottara:v63",
+    "source": ""
+   },
+   {
+    "slug": "v64",
+    "title": "dvisatikalottara:v64",
+    "source": ""
+   },
+   {
+    "slug": "v65",
+    "title": "dvisatikalottara:v65",
+    "source": ""
+   },
+   {
+    "slug": "v66",
+    "title": "dvisatikalottara:v66",
+    "source": ""
+   },
+   {
+    "slug": "v67",
+    "title": "dvisatikalottara:v67",
+    "source": ""
+   },
+   {
+    "slug": "v68",
+    "title": "dvisatikalottara:v68",
+    "source": ""
+   },
+   {
+    "slug": "v69",
+    "title": "dvisatikalottara:v69",
+    "source": ""
+   },
+   {
+    "slug": "v70",
+    "title": "dvisatikalottara:v70",
+    "source": ""
+   },
+   {
+    "slug": "v71",
+    "title": "dvisatikalottara:v71",
+    "source": ""
+   },
+   {
+    "slug": "v72",
+    "title": "dvisatikalottara:v72",
+    "source": ""
+   },
+   {
+    "slug": "v73",
+    "title": "dvisatikalottara:v73",
+    "source": ""
+   },
+   {
+    "slug": "v74",
+    "title": "dvisatikalottara:v74",
+    "source": ""
+   },
+   {
+    "slug": "v75",
+    "title": "dvisatikalottara:v75",
+    "source": ""
+   },
+   {
+    "slug": "v76",
+    "title": "dvisatikalottara:v76",
+    "source": ""
+   },
+   {
+    "slug": "v77",
+    "title": "dvisatikalottara:v77",
+    "source": ""
+   },
+   {
+    "slug": "v78",
+    "title": "dvisatikalottara:v78",
+    "source": ""
+   },
+   {
+    "slug": "v79",
+    "title": "dvisatikalottara:v79",
+    "source": ""
+   },
+   {
+    "slug": "v80",
+    "title": "dvisatikalottara:v80",
+    "source": ""
+   },
+   {
+    "slug": "v81",
+    "title": "dvisatikalottara:v81",
+    "source": ""
+   },
+   {
+    "slug": "v82",
+    "title": "dvisatikalottara:v82",
+    "source": ""
+   },
+   {
+    "slug": "v83",
+    "title": "dvisatikalottara:v83",
+    "source": ""
+   },
+   {
+    "slug": "v84",
+    "title": "dvisatikalottara:v84",
+    "source": ""
+   },
+   {
+    "slug": "v85",
+    "title": "dvisatikalottara:v85",
+    "source": ""
+   },
+   {
+    "slug": "v86",
+    "title": "dvisatikalottara:v86",
+    "source": ""
+   },
+   {
+    "slug": "v87",
+    "title": "dvisatikalottara:v87",
+    "source": ""
+   },
+   {
+    "slug": "v88",
+    "title": "dvisatikalottara:v88",
+    "source": ""
+   },
+   {
+    "slug": "v89",
+    "title": "dvisatikalottara:v89",
+    "source": ""
+   },
+   {
+    "slug": "v90",
+    "title": "dvisatikalottara:v90",
+    "source": ""
+   },
+   {
+    "slug": "v91",
+    "title": "dvisatikalottara:v91",
+    "source": ""
+   },
+   {
+    "slug": "v92",
+    "title": "dvisatikalottara:v92",
+    "source": ""
+   },
+   {
+    "slug": "v93",
+    "title": "dvisatikalottara:v93",
+    "source": ""
+   },
+   {
+    "slug": "v94",
+    "title": "dvisatikalottara:v94",
+    "source": ""
+   },
+   {
+    "slug": "v95",
+    "title": "dvisatikalottara:v95",
+    "source": ""
+   },
+   {
+    "slug": "v96",
+    "title": "dvisatikalottara:v96",
+    "source": ""
+   },
+   {
+    "slug": "v97",
+    "title": "dvisatikalottara:v97",
+    "source": ""
+   },
+   {
+    "slug": "v98",
+    "title": "dvisatikalottara:v98",
+    "source": ""
+   },
+   {
+    "slug": "v99",
+    "title": "dvisatikalottara:v99",
+    "source": ""
+   },
+   {
+    "slug": "v100",
+    "title": "dvisatikalottara:v100",
+    "source": ""
+   },
+   {
+    "slug": "v101",
+    "title": "dvisatikalottara:v101",
+    "source": ""
+   },
+   {
+    "slug": "v102",
+    "title": "dvisatikalottara:v102",
+    "source": ""
+   },
+   {
+    "slug": "v103",
+    "title": "dvisatikalottara:v103",
+    "source": ""
+   },
+   {
+    "slug": "v104",
+    "title": "dvisatikalottara:v104",
+    "source": ""
+   },
+   {
+    "slug": "v105",
+    "title": "dvisatikalottara:v105",
+    "source": ""
+   },
+   {
+    "slug": "v106",
+    "title": "dvisatikalottara:v106",
+    "source": ""
+   },
+   {
+    "slug": "v107",
+    "title": "dvisatikalottara:v107",
+    "source": ""
+   },
+   {
+    "slug": "v108",
+    "title": "dvisatikalottara:v108",
+    "source": ""
+   },
+   {
+    "slug": "v109",
+    "title": "dvisatikalottara:v109",
+    "source": ""
+   },
+   {
+    "slug": "v110",
+    "title": "dvisatikalottara:v110",
+    "source": ""
+   },
+   {
+    "slug": "v111",
+    "title": "dvisatikalottara:v111",
+    "source": ""
+   },
+   {
+    "slug": "v112",
+    "title": "dvisatikalottara:v112",
+    "source": ""
+   },
+   {
+    "slug": "v113",
+    "title": "dvisatikalottara:v113",
+    "source": ""
+   },
+   {
+    "slug": "v114",
+    "title": "dvisatikalottara:v114",
+    "source": ""
+   },
+   {
+    "slug": "v115",
+    "title": "dvisatikalottara:v115",
+    "source": ""
+   },
+   {
+    "slug": "v116",
+    "title": "dvisatikalottara:v116",
+    "source": ""
+   },
+   {
+    "slug": "v117",
+    "title": "dvisatikalottara:v117",
+    "source": ""
+   },
+   {
+    "slug": "v118",
+    "title": "dvisatikalottara:v118",
+    "source": ""
+   },
+   {
+    "slug": "v119",
+    "title": "dvisatikalottara:v119",
+    "source": ""
+   },
+   {
+    "slug": "v120",
+    "title": "dvisatikalottara:v120",
+    "source": ""
+   },
+   {
+    "slug": "v121",
+    "title": "dvisatikalottara:v121",
+    "source": ""
+   },
+   {
+    "slug": "v122",
+    "title": "dvisatikalottara:v122",
+    "source": ""
+   },
+   {
+    "slug": "v123",
+    "title": "dvisatikalottara:v123",
+    "source": ""
+   },
+   {
+    "slug": "v124",
+    "title": "dvisatikalottara:v124",
+    "source": ""
+   },
+   {
+    "slug": "v125",
+    "title": "dvisatikalottara:v125",
+    "source": ""
+   },
+   {
+    "slug": "v126",
+    "title": "dvisatikalottara:v126",
+    "source": ""
+   },
+   {
+    "slug": "v127",
+    "title": "dvisatikalottara:v127",
+    "source": ""
+   },
+   {
+    "slug": "v128",
+    "title": "dvisatikalottara:v128",
+    "source": ""
+   },
+   {
+    "slug": "v129",
+    "title": "dvisatikalottara:v129",
+    "source": ""
+   },
+   {
+    "slug": "v130",
+    "title": "dvisatikalottara:v130",
+    "source": ""
+   },
+   {
+    "slug": "v131",
+    "title": "dvisatikalottara:v131",
+    "source": ""
+   },
+   {
+    "slug": "v132",
+    "title": "dvisatikalottara:v132",
+    "source": ""
+   },
+   {
+    "slug": "v133",
+    "title": "dvisatikalottara:v133",
+    "source": ""
+   },
+   {
+    "slug": "v134",
+    "title": "dvisatikalottara:v134",
+    "source": ""
+   },
+   {
+    "slug": "v135",
+    "title": "dvisatikalottara:v135",
+    "source": ""
+   },
+   {
+    "slug": "v136",
+    "title": "dvisatikalottara:v136",
+    "source": ""
+   },
+   {
+    "slug": "v137",
+    "title": "dvisatikalottara:v137",
+    "source": ""
+   },
+   {
+    "slug": "v138",
+    "title": "dvisatikalottara:v138",
+    "source": ""
+   },
+   {
+    "slug": "v139",
+    "title": "dvisatikalottara:v139",
+    "source": ""
+   },
+   {
+    "slug": "v140",
+    "title": "dvisatikalottara:v140",
+    "source": ""
+   },
+   {
+    "slug": "v141",
+    "title": "dvisatikalottara:v141",
+    "source": ""
+   },
+   {
+    "slug": "v142",
+    "title": "dvisatikalottara:v142",
+    "source": ""
+   },
+   {
+    "slug": "v143",
+    "title": "dvisatikalottara:v143",
+    "source": ""
+   },
+   {
+    "slug": "v144",
+    "title": "dvisatikalottara:v144",
+    "source": ""
+   },
+   {
+    "slug": "v145",
+    "title": "dvisatikalottara:v145",
+    "source": ""
+   },
+   {
+    "slug": "v146",
+    "title": "dvisatikalottara:v146",
+    "source": ""
+   },
+   {
+    "slug": "v147",
+    "title": "dvisatikalottara:v147",
+    "source": ""
+   },
+   {
+    "slug": "v148",
+    "title": "dvisatikalottara:v148",
+    "source": ""
+   },
+   {
+    "slug": "v149",
+    "title": "dvisatikalottara:v149",
+    "source": ""
+   },
+   {
+    "slug": "v150",
+    "title": "dvisatikalottara:v150",
+    "source": ""
+   },
+   {
+    "slug": "v151",
+    "title": "dvisatikalottara:v151",
+    "source": ""
+   },
+   {
+    "slug": "v152",
+    "title": "dvisatikalottara:v152",
+    "source": ""
+   },
+   {
+    "slug": "v153",
+    "title": "dvisatikalottara:v153",
+    "source": ""
+   },
+   {
+    "slug": "v154",
+    "title": "dvisatikalottara:v154",
+    "source": ""
+   },
+   {
+    "slug": "v155",
+    "title": "dvisatikalottara:v155",
+    "source": ""
+   },
+   {
+    "slug": "v156",
+    "title": "dvisatikalottara:v156",
+    "source": ""
+   },
+   {
+    "slug": "v157",
+    "title": "dvisatikalottara:v157",
+    "source": ""
+   },
+   {
+    "slug": "v158",
+    "title": "dvisatikalottara:v158",
+    "source": ""
+   },
+   {
+    "slug": "v159",
+    "title": "dvisatikalottara:v159",
+    "source": ""
+   },
+   {
+    "slug": "v160",
+    "title": "dvisatikalottara:v160",
+    "source": ""
+   },
+   {
+    "slug": "v161",
+    "title": "dvisatikalottara:v161",
+    "source": ""
+   },
+   {
+    "slug": "v162",
+    "title": "dvisatikalottara:v162",
+    "source": ""
+   },
+   {
+    "slug": "v163",
+    "title": "dvisatikalottara:v163",
+    "source": ""
+   },
+   {
+    "slug": "v164",
+    "title": "dvisatikalottara:v164",
+    "source": ""
+   },
+   {
+    "slug": "v165",
+    "title": "dvisatikalottara:v165",
+    "source": ""
+   },
+   {
+    "slug": "v166",
+    "title": "dvisatikalottara:v166",
+    "source": ""
+   },
+   {
+    "slug": "v167",
+    "title": "dvisatikalottara:v167",
+    "source": ""
+   },
+   {
+    "slug": "v168",
+    "title": "dvisatikalottara:v168",
+    "source": ""
+   },
+   {
+    "slug": "v169",
+    "title": "dvisatikalottara:v169",
+    "source": ""
+   },
+   {
+    "slug": "v170",
+    "title": "dvisatikalottara:v170",
+    "source": ""
+   },
+   {
+    "slug": "v171",
+    "title": "dvisatikalottara:v171",
+    "source": ""
+   },
+   {
+    "slug": "v172",
+    "title": "dvisatikalottara:v172",
+    "source": ""
+   },
+   {
+    "slug": "v173",
+    "title": "dvisatikalottara:v173",
+    "source": ""
+   },
+   {
+    "slug": "v174",
+    "title": "dvisatikalottara:v174",
+    "source": ""
+   },
+   {
+    "slug": "v175",
+    "title": "dvisatikalottara:v175",
+    "source": ""
+   },
+   {
+    "slug": "v176",
+    "title": "dvisatikalottara:v176",
+    "source": ""
+   },
+   {
+    "slug": "v177",
+    "title": "dvisatikalottara:v177",
+    "source": ""
+   },
+   {
+    "slug": "v178",
+    "title": "dvisatikalottara:v178",
+    "source": ""
+   },
+   {
+    "slug": "v179",
+    "title": "dvisatikalottara:v179",
+    "source": ""
+   },
+   {
+    "slug": "v180",
+    "title": "dvisatikalottara:v180",
+    "source": ""
+   },
+   {
+    "slug": "v181",
+    "title": "dvisatikalottara:v181",
+    "source": ""
+   },
+   {
+    "slug": "v182",
+    "title": "dvisatikalottara:v182",
+    "source": ""
+   },
+   {
+    "slug": "v183",
+    "title": "dvisatikalottara:v183",
+    "source": ""
+   },
+   {
+    "slug": "v184",
+    "title": "dvisatikalottara:v184",
+    "source": ""
+   },
+   {
+    "slug": "v185",
+    "title": "dvisatikalottara:v185",
+    "source": ""
+   },
+   {
+    "slug": "v186",
+    "title": "dvisatikalottara:v186",
+    "source": ""
+   },
+   {
+    "slug": "v187",
+    "title": "dvisatikalottara:v187",
+    "source": ""
+   },
+   {
+    "slug": "v188",
+    "title": "dvisatikalottara:v188",
+    "source": ""
+   },
+   {
+    "slug": "v189",
+    "title": "dvisatikalottara:v189",
+    "source": ""
+   },
+   {
+    "slug": "v190",
+    "title": "dvisatikalottara:v190",
+    "source": ""
+   },
+   {
+    "slug": "v191",
+    "title": "dvisatikalottara:v191",
+    "source": ""
+   },
+   {
+    "slug": "v192",
+    "title": "dvisatikalottara:v192",
+    "source": ""
+   },
+   {
+    "slug": "v193",
+    "title": "dvisatikalottara:v193",
+    "source": ""
+   },
+   {
+    "slug": "v194",
+    "title": "dvisatikalottara:v194",
+    "source": ""
+   },
+   {
+    "slug": "v195",
+    "title": "dvisatikalottara:v195",
+    "source": ""
+   },
+   {
+    "slug": "v196",
+    "title": "dvisatikalottara:v196",
+    "source": ""
+   },
+   {
+    "slug": "v197",
+    "title": "dvisatikalottara:v197",
+    "source": ""
+   },
+   {
+    "slug": "v198",
+    "title": "dvisatikalottara:v198",
+    "source": ""
+   },
+   {
+    "slug": "v199",
+    "title": "dvisatikalottara:v199",
+    "source": ""
+   },
+   {
+    "slug": "v200",
+    "title": "dvisatikalottara:v200",
+    "source": ""
+   },
+   {
+    "slug": "v1",
+    "title": "ganakarika:v1",
+    "source": ""
+   },
+   {
+    "slug": "v2",
+    "title": "ganakarika:v2",
+    "source": ""
+   },
+   {
+    "slug": "v3",
+    "title": "ganakarika:v3",
+    "source": ""
+   },
+   {
+    "slug": "v4",
+    "title": "ganakarika:v4",
+    "source": ""
+   },
+   {
+    "slug": "v5",
+    "title": "ganakarika:v5",
+    "source": ""
+   },
+   {
+    "slug": "v6",
+    "title": "ganakarika:v6",
+    "source": ""
+   },
+   {
+    "slug": "v7",
+    "title": "ganakarika:v7",
+    "source": ""
+   },
+   {
+    "slug": "v8",
+    "title": "ganakarika:v8",
+    "source": ""
+   },
+   {
+    "slug": "v9",
+    "title": "ganakarika:v9",
+    "source": ""
+   },
+   {
+    "slug": "v10",
+    "title": "ganakarika:v10",
+    "source": ""
+   },
+   {
+    "slug": "v11",
+    "title": "ganakarika:v11",
+    "source": ""
+   },
+   {
+    "slug": "v12",
+    "title": "ganakarika:v12",
+    "source": ""
+   },
+   {
+    "slug": "v13",
+    "title": "ganakarika:v13",
+    "source": ""
+   },
+   {
+    "slug": "v14",
+    "title": "ganakarika:v14",
+    "source": ""
+   },
+   {
+    "slug": "v15",
+    "title": "ganakarika:v15",
+    "source": ""
+   },
+   {
+    "slug": "v16",
+    "title": "ganakarika:v16",
+    "source": ""
+   },
+   {
+    "slug": "v17",
+    "title": "ganakarika:v17",
+    "source": ""
+   },
+   {
+    "slug": "v18",
+    "title": "ganakarika:v18",
+    "source": ""
+   },
+   {
+    "slug": "v19",
+    "title": "ganakarika:v19",
+    "source": ""
+   },
+   {
+    "slug": "v20",
+    "title": "ganakarika:v20",
+    "source": ""
+   },
+   {
+    "slug": "v21",
+    "title": "ganakarika:v21",
+    "source": ""
+   },
+   {
+    "slug": "v22",
+    "title": "ganakarika:v22",
+    "source": ""
+   },
+   {
+    "slug": "v23",
+    "title": "ganakarika:v23",
+    "source": ""
+   },
+   {
+    "slug": "v24",
+    "title": "ganakarika:v24",
+    "source": ""
+   },
+   {
+    "slug": "v25",
+    "title": "ganakarika:v25",
+    "source": ""
+   },
+   {
+    "slug": "v26",
+    "title": "ganakarika:v26",
+    "source": ""
+   },
+   {
+    "slug": "v27",
+    "title": "ganakarika:v27",
+    "source": ""
+   },
+   {
+    "slug": "v28",
+    "title": "ganakarika:v28",
+    "source": ""
+   },
+   {
+    "slug": "v29",
+    "title": "ganakarika:v29",
+    "source": ""
+   },
+   {
+    "slug": "v30",
+    "title": "ganakarika:v30",
+    "source": ""
+   },
+   {
+    "slug": "v31",
+    "title": "ganakarika:v31",
+    "source": ""
+   },
+   {
+    "slug": "v32",
+    "title": "ganakarika:v32",
+    "source": ""
+   },
+   {
+    "slug": "v33",
+    "title": "ganakarika:v33",
+    "source": ""
+   },
+   {
+    "slug": "v34",
+    "title": "ganakarika:v34",
+    "source": ""
+   },
+   {
+    "slug": "v35",
+    "title": "ganakarika:v35",
+    "source": ""
+   },
+   {
+    "slug": "v36",
+    "title": "ganakarika:v36",
+    "source": ""
+   },
+   {
+    "slug": "v37",
+    "title": "ganakarika:v37",
+    "source": ""
+   },
+   {
+    "slug": "v38",
+    "title": "ganakarika:v38",
+    "source": ""
+   },
+   {
+    "slug": "v39",
+    "title": "ganakarika:v39",
+    "source": ""
+   },
+   {
+    "slug": "v40",
+    "title": "ganakarika:v40",
+    "source": ""
+   },
+   {
+    "slug": "v41",
+    "title": "ganakarika:v41",
+    "source": ""
+   },
+   {
+    "slug": "v42",
+    "title": "ganakarika:v42",
+    "source": ""
+   },
+   {
+    "slug": "v43",
+    "title": "ganakarika:v43",
+    "source": ""
+   },
+   {
+    "slug": "v44",
+    "title": "ganakarika:v44",
+    "source": ""
+   },
+   {
+    "slug": "v45",
+    "title": "ganakarika:v45",
+    "source": ""
+   },
+   {
+    "slug": "v46",
+    "title": "ganakarika:v46",
+    "source": ""
+   },
+   {
+    "slug": "v47",
+    "title": "ganakarika:v47",
+    "source": ""
+   },
+   {
+    "slug": "v48",
+    "title": "ganakarika:v48",
+    "source": ""
+   },
+   {
+    "slug": "v49",
+    "title": "ganakarika:v49",
+    "source": ""
+   },
+   {
+    "slug": "v50",
+    "title": "ganakarika:v50",
+    "source": ""
+   },
+   {
+    "slug": "v51",
+    "title": "ganakarika:v51",
+    "source": ""
+   },
+   {
+    "slug": "v52",
+    "title": "ganakarika:v52",
+    "source": ""
+   },
+   {
+    "slug": "v53",
+    "title": "ganakarika:v53",
+    "source": ""
+   },
+   {
+    "slug": "v54",
+    "title": "ganakarika:v54",
+    "source": ""
+   },
+   {
+    "slug": "v55",
+    "title": "ganakarika:v55",
+    "source": ""
+   },
+   {
+    "slug": "v56",
+    "title": "ganakarika:v56",
+    "source": ""
+   },
+   {
+    "slug": "v57",
+    "title": "ganakarika:v57",
+    "source": ""
+   },
+   {
+    "slug": "v58",
+    "title": "ganakarika:v58",
+    "source": ""
+   },
+   {
+    "slug": "v59",
+    "title": "ganakarika:v59",
+    "source": ""
+   },
+   {
+    "slug": "v60",
+    "title": "ganakarika:v60",
+    "source": ""
+   },
+   {
+    "slug": "v61",
+    "title": "ganakarika:v61",
+    "source": ""
+   },
+   {
+    "slug": "v62",
+    "title": "ganakarika:v62",
+    "source": ""
+   },
+   {
+    "slug": "v63",
+    "title": "ganakarika:v63",
+    "source": ""
+   },
+   {
+    "slug": "v64",
+    "title": "ganakarika:v64",
+    "source": ""
+   },
+   {
+    "slug": "v65",
+    "title": "ganakarika:v65",
+    "source": ""
+   },
+   {
+    "slug": "v66",
+    "title": "ganakarika:v66",
+    "source": ""
+   },
+   {
+    "slug": "v67",
+    "title": "ganakarika:v67",
+    "source": ""
+   },
+   {
+    "slug": "v68",
+    "title": "ganakarika:v68",
+    "source": ""
+   },
+   {
+    "slug": "v69",
+    "title": "ganakarika:v69",
+    "source": ""
+   },
+   {
+    "slug": "v70",
+    "title": "ganakarika:v70",
+    "source": ""
+   },
+   {
+    "slug": "v71",
+    "title": "ganakarika:v71",
+    "source": ""
+   },
+   {
+    "slug": "v72",
+    "title": "ganakarika:v72",
+    "source": ""
+   },
+   {
+    "slug": "v73",
+    "title": "ganakarika:v73",
+    "source": ""
+   },
+   {
+    "slug": "v74",
+    "title": "ganakarika:v74",
+    "source": ""
+   },
+   {
+    "slug": "v75",
+    "title": "ganakarika:v75",
+    "source": ""
+   },
+   {
+    "slug": "v1",
+    "title": "isanasivagurudevapaddhati:v1",
+    "source": ""
+   },
+   {
+    "slug": "v2",
+    "title": "isanasivagurudevapaddhati:v2",
+    "source": ""
+   },
+   {
+    "slug": "v3",
+    "title": "isanasivagurudevapaddhati:v3",
+    "source": ""
+   },
+   {
+    "slug": "v4",
+    "title": "isanasivagurudevapaddhati:v4",
+    "source": ""
+   },
+   {
+    "slug": "v5",
+    "title": "isanasivagurudevapaddhati:v5",
+    "source": ""
+   },
+   {
+    "slug": "v6",
+    "title": "isanasivagurudevapaddhati:v6",
+    "source": ""
+   },
+   {
+    "slug": "v7",
+    "title": "isanasivagurudevapaddhati:v7",
+    "source": ""
+   },
+   {
+    "slug": "v8",
+    "title": "isanasivagurudevapaddhati:v8",
+    "source": ""
+   },
+   {
+    "slug": "v9",
+    "title": "isanasivagurudevapaddhati:v9",
+    "source": ""
+   },
+   {
+    "slug": "v10",
+    "title": "isanasivagurudevapaddhati:v10",
+    "source": ""
+   },
+   {
+    "slug": "v11",
+    "title": "isanasivagurudevapaddhati:v11",
+    "source": ""
+   },
+   {
+    "slug": "v12",
+    "title": "isanasivagurudevapaddhati:v12",
+    "source": ""
+   },
+   {
+    "slug": "v13",
+    "title": "isanasivagurudevapaddhati:v13",
+    "source": ""
+   },
+   {
+    "slug": "v14",
+    "title": "isanasivagurudevapaddhati:v14",
+    "source": ""
+   },
+   {
+    "slug": "v15",
+    "title": "isanasivagurudevapaddhati:v15",
+    "source": ""
+   },
+   {
+    "slug": "v16",
+    "title": "isanasivagurudevapaddhati:v16",
+    "source": ""
+   },
+   {
+    "slug": "v17",
+    "title": "isanasivagurudevapaddhati:v17",
+    "source": ""
+   },
+   {
+    "slug": "v18",
+    "title": "isanasivagurudevapaddhati:v18",
+    "source": ""
+   },
+   {
+    "slug": "v19",
+    "title": "isanasivagurudevapaddhati:v19",
+    "source": ""
+   },
+   {
+    "slug": "v20",
+    "title": "isanasivagurudevapaddhati:v20",
+    "source": ""
+   },
+   {
+    "slug": "v21",
+    "title": "isanasivagurudevapaddhati:v21",
+    "source": ""
+   },
+   {
+    "slug": "v22",
+    "title": "isanasivagurudevapaddhati:v22",
+    "source": ""
+   },
+   {
+    "slug": "v23",
+    "title": "isanasivagurudevapaddhati:v23",
+    "source": ""
+   },
+   {
+    "slug": "v24",
+    "title": "isanasivagurudevapaddhati:v24",
+    "source": ""
+   },
+   {
+    "slug": "v25",
+    "title": "isanasivagurudevapaddhati:v25",
+    "source": ""
+   },
+   {
+    "slug": "v26",
+    "title": "isanasivagurudevapaddhati:v26",
+    "source": ""
+   },
+   {
+    "slug": "v27",
+    "title": "isanasivagurudevapaddhati:v27",
+    "source": ""
+   },
+   {
+    "slug": "v28",
+    "title": "isanasivagurudevapaddhati:v28",
+    "source": ""
+   },
+   {
+    "slug": "v29",
+    "title": "isanasivagurudevapaddhati:v29",
+    "source": ""
+   },
+   {
+    "slug": "v30",
+    "title": "isanasivagurudevapaddhati:v30",
+    "source": ""
+   },
+   {
+    "slug": "v31",
+    "title": "isanasivagurudevapaddhati:v31",
+    "source": ""
+   },
+   {
+    "slug": "v32",
+    "title": "isanasivagurudevapaddhati:v32",
+    "source": ""
+   },
+   {
+    "slug": "v33",
+    "title": "isanasivagurudevapaddhati:v33",
+    "source": ""
+   },
+   {
+    "slug": "v34",
+    "title": "isanasivagurudevapaddhati:v34",
+    "source": ""
+   },
+   {
+    "slug": "v35",
+    "title": "isanasivagurudevapaddhati:v35",
+    "source": ""
+   },
+   {
+    "slug": "v36",
+    "title": "isanasivagurudevapaddhati:v36",
+    "source": ""
+   },
+   {
+    "slug": "v37",
+    "title": "isanasivagurudevapaddhati:v37",
+    "source": ""
+   },
+   {
+    "slug": "v38",
+    "title": "isanasivagurudevapaddhati:v38",
+    "source": ""
+   },
+   {
+    "slug": "v39",
+    "title": "isanasivagurudevapaddhati:v39",
+    "source": ""
+   },
+   {
+    "slug": "v40",
+    "title": "isanasivagurudevapaddhati:v40",
+    "source": ""
+   },
+   {
+    "slug": "v41",
+    "title": "isanasivagurudevapaddhati:v41",
+    "source": ""
+   },
+   {
+    "slug": "v42",
+    "title": "isanasivagurudevapaddhati:v42",
+    "source": ""
+   },
+   {
+    "slug": "v43",
+    "title": "isanasivagurudevapaddhati:v43",
+    "source": ""
+   },
+   {
+    "slug": "v44",
+    "title": "isanasivagurudevapaddhati:v44",
+    "source": ""
+   },
+   {
+    "slug": "v45",
+    "title": "isanasivagurudevapaddhati:v45",
+    "source": ""
+   },
+   {
+    "slug": "v46",
+    "title": "isanasivagurudevapaddhati:v46",
+    "source": ""
+   },
+   {
+    "slug": "v47",
+    "title": "isanasivagurudevapaddhati:v47",
+    "source": ""
+   },
+   {
+    "slug": "v48",
+    "title": "isanasivagurudevapaddhati:v48",
+    "source": ""
+   },
+   {
+    "slug": "v49",
+    "title": "isanasivagurudevapaddhati:v49",
+    "source": ""
+   },
+   {
+    "slug": "v50",
+    "title": "isanasivagurudevapaddhati:v50",
+    "source": ""
+   },
+   {
+    "slug": "v51",
+    "title": "isanasivagurudevapaddhati:v51",
+    "source": ""
+   },
+   {
+    "slug": "v52",
+    "title": "isanasivagurudevapaddhati:v52",
+    "source": ""
+   },
+   {
+    "slug": "v53",
+    "title": "isanasivagurudevapaddhati:v53",
+    "source": ""
+   },
+   {
+    "slug": "v54",
+    "title": "isanasivagurudevapaddhati:v54",
+    "source": ""
+   },
+   {
+    "slug": "v55",
+    "title": "isanasivagurudevapaddhati:v55",
+    "source": ""
+   },
+   {
+    "slug": "v56",
+    "title": "isanasivagurudevapaddhati:v56",
+    "source": ""
+   },
+   {
+    "slug": "v57",
+    "title": "isanasivagurudevapaddhati:v57",
+    "source": ""
+   },
+   {
+    "slug": "v58",
+    "title": "isanasivagurudevapaddhati:v58",
+    "source": ""
+   },
+   {
+    "slug": "v59",
+    "title": "isanasivagurudevapaddhati:v59",
+    "source": ""
+   },
+   {
+    "slug": "v60",
+    "title": "isanasivagurudevapaddhati:v60",
+    "source": ""
+   },
+   {
+    "slug": "v61",
+    "title": "isanasivagurudevapaddhati:v61",
+    "source": ""
+   },
+   {
+    "slug": "v62",
+    "title": "isanasivagurudevapaddhati:v62",
+    "source": ""
+   },
+   {
+    "slug": "v63",
+    "title": "isanasivagurudevapaddhati:v63",
+    "source": ""
+   },
+   {
+    "slug": "v64",
+    "title": "isanasivagurudevapaddhati:v64",
+    "source": ""
+   },
+   {
+    "slug": "v65",
+    "title": "isanasivagurudevapaddhati:v65",
+    "source": ""
+   },
+   {
+    "slug": "v66",
+    "title": "isanasivagurudevapaddhati:v66",
+    "source": ""
+   },
+   {
+    "slug": "v67",
+    "title": "isanasivagurudevapaddhati:v67",
+    "source": ""
+   },
+   {
+    "slug": "v68",
+    "title": "isanasivagurudevapaddhati:v68",
+    "source": ""
+   },
+   {
+    "slug": "v69",
+    "title": "isanasivagurudevapaddhati:v69",
+    "source": ""
+   },
+   {
+    "slug": "v70",
+    "title": "isanasivagurudevapaddhati:v70",
+    "source": ""
+   },
+   {
+    "slug": "v71",
+    "title": "isanasivagurudevapaddhati:v71",
+    "source": ""
+   },
+   {
+    "slug": "v72",
+    "title": "isanasivagurudevapaddhati:v72",
+    "source": ""
+   },
+   {
+    "slug": "v73",
+    "title": "isanasivagurudevapaddhati:v73",
+    "source": ""
+   },
+   {
+    "slug": "v74",
+    "title": "isanasivagurudevapaddhati:v74",
+    "source": ""
+   },
+   {
+    "slug": "v75",
+    "title": "isanasivagurudevapaddhati:v75",
+    "source": ""
+   },
+   {
+    "slug": "v76",
+    "title": "isanasivagurudevapaddhati:v76",
+    "source": ""
+   },
+   {
+    "slug": "v77",
+    "title": "isanasivagurudevapaddhati:v77",
+    "source": ""
+   },
+   {
+    "slug": "v78",
+    "title": "isanasivagurudevapaddhati:v78",
+    "source": ""
+   },
+   {
+    "slug": "v79",
+    "title": "isanasivagurudevapaddhati:v79",
+    "source": ""
+   },
+   {
+    "slug": "v80",
+    "title": "isanasivagurudevapaddhati:v80",
+    "source": ""
+   },
+   {
+    "slug": "v81",
+    "title": "isanasivagurudevapaddhati:v81",
+    "source": ""
+   },
+   {
+    "slug": "v82",
+    "title": "isanasivagurudevapaddhati:v82",
+    "source": ""
+   },
+   {
+    "slug": "v83",
+    "title": "isanasivagurudevapaddhati:v83",
+    "source": ""
+   },
+   {
+    "slug": "v84",
+    "title": "isanasivagurudevapaddhati:v84",
+    "source": ""
+   },
+   {
+    "slug": "v85",
+    "title": "isanasivagurudevapaddhati:v85",
+    "source": ""
+   },
+   {
+    "slug": "v86",
+    "title": "isanasivagurudevapaddhati:v86",
+    "source": ""
+   },
+   {
+    "slug": "v87",
+    "title": "isanasivagurudevapaddhati:v87",
+    "source": ""
+   },
+   {
+    "slug": "v88",
+    "title": "isanasivagurudevapaddhati:v88",
+    "source": ""
+   },
+   {
+    "slug": "v89",
+    "title": "isanasivagurudevapaddhati:v89",
+    "source": ""
+   },
+   {
+    "slug": "v90",
+    "title": "isanasivagurudevapaddhati:v90",
+    "source": ""
+   },
+   {
+    "slug": "v91",
+    "title": "isanasivagurudevapaddhati:v91",
+    "source": ""
+   },
+   {
+    "slug": "v92",
+    "title": "isanasivagurudevapaddhati:v92",
+    "source": ""
+   },
+   {
+    "slug": "v93",
+    "title": "isanasivagurudevapaddhati:v93",
+    "source": ""
+   },
+   {
+    "slug": "v94",
+    "title": "isanasivagurudevapaddhati:v94",
+    "source": ""
+   },
+   {
+    "slug": "v95",
+    "title": "isanasivagurudevapaddhati:v95",
+    "source": ""
+   },
+   {
+    "slug": "v96",
+    "title": "isanasivagurudevapaddhati:v96",
+    "source": ""
+   },
+   {
+    "slug": "v97",
+    "title": "isanasivagurudevapaddhati:v97",
+    "source": ""
+   },
+   {
+    "slug": "v98",
+    "title": "isanasivagurudevapaddhati:v98",
+    "source": ""
+   },
+   {
+    "slug": "v99",
+    "title": "isanasivagurudevapaddhati:v99",
+    "source": ""
+   },
+   {
+    "slug": "v100",
+    "title": "isanasivagurudevapaddhati:v100",
+    "source": ""
+   },
+   {
+    "slug": "v1",
+    "title": "janmamaranavicara:v1",
+    "source": ""
+   },
+   {
+    "slug": "v2",
+    "title": "janmamaranavicara:v2",
+    "source": ""
+   },
+   {
+    "slug": "v3",
+    "title": "janmamaranavicara:v3",
+    "source": ""
+   },
+   {
+    "slug": "v4",
+    "title": "janmamaranavicara:v4",
+    "source": ""
+   },
+   {
+    "slug": "v5",
+    "title": "janmamaranavicara:v5",
+    "source": ""
+   },
+   {
+    "slug": "v6",
+    "title": "janmamaranavicara:v6",
+    "source": ""
+   },
+   {
+    "slug": "v7",
+    "title": "janmamaranavicara:v7",
+    "source": ""
+   },
+   {
+    "slug": "v8",
+    "title": "janmamaranavicara:v8",
+    "source": ""
+   },
+   {
+    "slug": "v9",
+    "title": "janmamaranavicara:v9",
+    "source": ""
+   },
+   {
+    "slug": "v10",
+    "title": "janmamaranavicara:v10",
+    "source": ""
+   },
+   {
+    "slug": "v11",
+    "title": "janmamaranavicara:v11",
+    "source": ""
+   },
+   {
+    "slug": "v12",
+    "title": "janmamaranavicara:v12",
+    "source": ""
+   },
+   {
+    "slug": "v13",
+    "title": "janmamaranavicara:v13",
+    "source": ""
+   },
+   {
+    "slug": "v14",
+    "title": "janmamaranavicara:v14",
+    "source": ""
+   },
+   {
+    "slug": "v15",
+    "title": "janmamaranavicara:v15",
+    "source": ""
+   },
+   {
+    "slug": "v16",
+    "title": "janmamaranavicara:v16",
+    "source": ""
+   },
+   {
+    "slug": "v17",
+    "title": "janmamaranavicara:v17",
+    "source": ""
+   },
+   {
+    "slug": "v18",
+    "title": "janmamaranavicara:v18",
+    "source": ""
+   },
+   {
+    "slug": "v19",
+    "title": "janmamaranavicara:v19",
+    "source": ""
+   },
+   {
+    "slug": "v20",
+    "title": "janmamaranavicara:v20",
+    "source": ""
+   },
+   {
+    "slug": "v21",
+    "title": "janmamaranavicara:v21",
+    "source": ""
+   },
+   {
+    "slug": "v22",
+    "title": "janmamaranavicara:v22",
+    "source": ""
+   },
+   {
+    "slug": "v23",
+    "title": "janmamaranavicara:v23",
+    "source": ""
+   },
+   {
+    "slug": "v24",
+    "title": "janmamaranavicara:v24",
+    "source": ""
+   },
+   {
+    "slug": "v25",
+    "title": "janmamaranavicara:v25",
+    "source": ""
+   },
+   {
+    "slug": "v26",
+    "title": "janmamaranavicara:v26",
+    "source": ""
+   },
+   {
+    "slug": "v27",
+    "title": "janmamaranavicara:v27",
+    "source": ""
+   },
+   {
+    "slug": "v28",
+    "title": "janmamaranavicara:v28",
+    "source": ""
+   },
+   {
+    "slug": "v29",
+    "title": "janmamaranavicara:v29",
+    "source": ""
+   },
+   {
+    "slug": "v30",
+    "title": "janmamaranavicara:v30",
+    "source": ""
+   },
+   {
+    "slug": "v31",
+    "title": "janmamaranavicara:v31",
+    "source": ""
+   },
+   {
+    "slug": "v32",
+    "title": "janmamaranavicara:v32",
+    "source": ""
+   },
+   {
+    "slug": "v33",
+    "title": "janmamaranavicara:v33",
+    "source": ""
+   },
+   {
+    "slug": "v34",
+    "title": "janmamaranavicara:v34",
+    "source": ""
+   },
+   {
+    "slug": "v35",
+    "title": "janmamaranavicara:v35",
+    "source": ""
+   },
+   {
+    "slug": "v36",
+    "title": "janmamaranavicara:v36",
+    "source": ""
+   },
+   {
+    "slug": "v37",
+    "title": "janmamaranavicara:v37",
+    "source": ""
+   },
+   {
+    "slug": "v38",
+    "title": "janmamaranavicara:v38",
+    "source": ""
+   },
+   {
+    "slug": "v39",
+    "title": "janmamaranavicara:v39",
+    "source": ""
+   },
+   {
+    "slug": "v40",
+    "title": "janmamaranavicara:v40",
+    "source": ""
+   },
+   {
+    "slug": "v41",
+    "title": "janmamaranavicara:v41",
+    "source": ""
+   },
+   {
+    "slug": "v42",
+    "title": "janmamaranavicara:v42",
+    "source": ""
+   },
+   {
+    "slug": "v43",
+    "title": "janmamaranavicara:v43",
+    "source": ""
+   },
+   {
+    "slug": "v44",
+    "title": "janmamaranavicara:v44",
+    "source": ""
+   },
+   {
+    "slug": "v45",
+    "title": "janmamaranavicara:v45",
+    "source": ""
+   },
+   {
+    "slug": "v46",
+    "title": "janmamaranavicara:v46",
+    "source": ""
+   },
+   {
+    "slug": "v47",
+    "title": "janmamaranavicara:v47",
+    "source": ""
+   },
+   {
+    "slug": "v48",
+    "title": "janmamaranavicara:v48",
+    "source": ""
+   },
+   {
+    "slug": "v49",
+    "title": "janmamaranavicara:v49",
+    "source": ""
+   },
+   {
+    "slug": "v50",
+    "title": "janmamaranavicara:v50",
+    "source": ""
+   },
+   {
+    "slug": "v51",
+    "title": "janmamaranavicara:v51",
+    "source": ""
+   },
+   {
+    "slug": "v52",
+    "title": "janmamaranavicara:v52",
+    "source": ""
+   },
+   {
+    "slug": "v53",
+    "title": "janmamaranavicara:v53",
+    "source": ""
+   },
+   {
+    "slug": "v54",
+    "title": "janmamaranavicara:v54",
+    "source": ""
+   },
+   {
+    "slug": "v55",
+    "title": "janmamaranavicara:v55",
+    "source": ""
+   },
+   {
+    "slug": "v56",
+    "title": "janmamaranavicara:v56",
+    "source": ""
+   },
+   {
+    "slug": "v57",
+    "title": "janmamaranavicara:v57",
+    "source": ""
+   },
+   {
+    "slug": "v58",
+    "title": "janmamaranavicara:v58",
+    "source": ""
+   },
+   {
+    "slug": "v59",
+    "title": "janmamaranavicara:v59",
+    "source": ""
+   },
+   {
+    "slug": "v60",
+    "title": "janmamaranavicara:v60",
+    "source": ""
+   },
+   {
+    "slug": "v61",
+    "title": "janmamaranavicara:v61",
+    "source": ""
+   },
+   {
+    "slug": "v62",
+    "title": "janmamaranavicara:v62",
+    "source": ""
+   },
+   {
+    "slug": "v63",
+    "title": "janmamaranavicara:v63",
+    "source": ""
+   },
+   {
+    "slug": "v64",
+    "title": "janmamaranavicara:v64",
+    "source": ""
+   },
+   {
+    "slug": "v65",
+    "title": "janmamaranavicara:v65",
+    "source": ""
+   },
+   {
+    "slug": "v66",
+    "title": "janmamaranavicara:v66",
+    "source": ""
+   },
+   {
+    "slug": "v67",
+    "title": "janmamaranavicara:v67",
+    "source": ""
+   },
+   {
+    "slug": "v68",
+    "title": "janmamaranavicara:v68",
+    "source": ""
+   },
+   {
+    "slug": "v69",
+    "title": "janmamaranavicara:v69",
+    "source": ""
+   },
+   {
+    "slug": "v70",
+    "title": "janmamaranavicara:v70",
+    "source": ""
+   },
+   {
+    "slug": "v71",
+    "title": "janmamaranavicara:v71",
+    "source": ""
+   },
+   {
+    "slug": "v72",
+    "title": "janmamaranavicara:v72",
+    "source": ""
+   },
+   {
+    "slug": "v73",
+    "title": "janmamaranavicara:v73",
+    "source": ""
+   },
+   {
+    "slug": "v74",
+    "title": "janmamaranavicara:v74",
+    "source": ""
+   },
+   {
+    "slug": "v75",
+    "title": "janmamaranavicara:v75",
+    "source": ""
+   },
+   {
+    "slug": "v76",
+    "title": "janmamaranavicara:v76",
+    "source": ""
+   },
+   {
+    "slug": "v77",
+    "title": "janmamaranavicara:v77",
+    "source": ""
+   },
+   {
+    "slug": "v78",
+    "title": "janmamaranavicara:v78",
+    "source": ""
+   },
+   {
+    "slug": "v79",
+    "title": "janmamaranavicara:v79",
+    "source": ""
+   },
+   {
+    "slug": "v80",
+    "title": "janmamaranavicara:v80",
+    "source": ""
+   },
+   {
+    "slug": "v81",
+    "title": "janmamaranavicara:v81",
+    "source": ""
+   },
+   {
+    "slug": "v82",
+    "title": "janmamaranavicara:v82",
+    "source": ""
+   },
+   {
+    "slug": "v83",
+    "title": "janmamaranavicara:v83",
+    "source": ""
+   },
+   {
+    "slug": "v84",
+    "title": "janmamaranavicara:v84",
+    "source": ""
+   },
+   {
+    "slug": "v85",
+    "title": "janmamaranavicara:v85",
+    "source": ""
+   },
+   {
+    "slug": "v86",
+    "title": "janmamaranavicara:v86",
+    "source": ""
+   },
+   {
+    "slug": "v87",
+    "title": "janmamaranavicara:v87",
+    "source": ""
+   },
+   {
+    "slug": "v88",
+    "title": "janmamaranavicara:v88",
+    "source": ""
+   },
+   {
+    "slug": "v89",
+    "title": "janmamaranavicara:v89",
+    "source": ""
+   },
+   {
+    "slug": "v90",
+    "title": "janmamaranavicara:v90",
+    "source": ""
+   },
+   {
+    "slug": "v91",
+    "title": "janmamaranavicara:v91",
+    "source": ""
+   },
+   {
+    "slug": "v92",
+    "title": "janmamaranavicara:v92",
+    "source": ""
+   },
+   {
+    "slug": "v93",
+    "title": "janmamaranavicara:v93",
+    "source": ""
+   },
+   {
+    "slug": "v94",
+    "title": "janmamaranavicara:v94",
+    "source": ""
+   },
+   {
+    "slug": "v95",
+    "title": "janmamaranavicara:v95",
+    "source": ""
+   },
+   {
+    "slug": "v96",
+    "title": "janmamaranavicara:v96",
+    "source": ""
+   },
+   {
+    "slug": "v97",
+    "title": "janmamaranavicara:v97",
+    "source": ""
+   },
+   {
+    "slug": "v98",
+    "title": "janmamaranavicara:v98",
+    "source": ""
+   },
+   {
+    "slug": "v99",
+    "title": "janmamaranavicara:v99",
+    "source": ""
+   },
+   {
+    "slug": "v100",
+    "title": "janmamaranavicara:v100",
+    "source": ""
+   },
+   {
+    "slug": "v101",
+    "title": "janmamaranavicara:v101",
+    "source": ""
+   },
+   {
+    "slug": "v102",
+    "title": "janmamaranavicara:v102",
+    "source": ""
+   },
+   {
+    "slug": "v103",
+    "title": "janmamaranavicara:v103",
+    "source": ""
+   },
+   {
+    "slug": "v104",
+    "title": "janmamaranavicara:v104",
+    "source": ""
+   },
+   {
+    "slug": "v105",
+    "title": "janmamaranavicara:v105",
+    "source": ""
+   },
+   {
+    "slug": "v106",
+    "title": "janmamaranavicara:v106",
+    "source": ""
+   },
+   {
+    "slug": "v107",
+    "title": "janmamaranavicara:v107",
+    "source": ""
+   },
+   {
+    "slug": "v108",
+    "title": "janmamaranavicara:v108",
+    "source": ""
+   },
+   {
+    "slug": "v109",
+    "title": "janmamaranavicara:v109",
+    "source": ""
+   },
+   {
+    "slug": "v110",
+    "title": "janmamaranavicara:v110",
+    "source": ""
+   },
+   {
+    "slug": "v111",
+    "title": "janmamaranavicara:v111",
+    "source": ""
+   },
+   {
+    "slug": "v112",
+    "title": "janmamaranavicara:v112",
+    "source": ""
+   },
+   {
+    "slug": "v113",
+    "title": "janmamaranavicara:v113",
+    "source": ""
+   },
+   {
+    "slug": "v114",
+    "title": "janmamaranavicara:v114",
+    "source": ""
+   },
+   {
+    "slug": "v115",
+    "title": "janmamaranavicara:v115",
+    "source": ""
+   },
+   {
+    "slug": "v116",
+    "title": "janmamaranavicara:v116",
+    "source": ""
+   },
+   {
+    "slug": "v117",
+    "title": "janmamaranavicara:v117",
+    "source": ""
+   },
+   {
+    "slug": "v118",
+    "title": "janmamaranavicara:v118",
+    "source": ""
+   },
+   {
+    "slug": "v119",
+    "title": "janmamaranavicara:v119",
+    "source": ""
+   },
+   {
+    "slug": "v120",
+    "title": "janmamaranavicara:v120",
+    "source": ""
+   },
+   {
+    "slug": "v121",
+    "title": "janmamaranavicara:v121",
+    "source": ""
+   },
+   {
+    "slug": "v122",
+    "title": "janmamaranavicara:v122",
+    "source": ""
+   },
+   {
+    "slug": "v123",
+    "title": "janmamaranavicara:v123",
+    "source": ""
+   },
+   {
+    "slug": "v124",
+    "title": "janmamaranavicara:v124",
+    "source": ""
+   },
+   {
+    "slug": "v125",
+    "title": "janmamaranavicara:v125",
+    "source": ""
+   },
+   {
+    "slug": "v126",
+    "title": "janmamaranavicara:v126",
+    "source": ""
+   },
+   {
+    "slug": "v127",
+    "title": "janmamaranavicara:v127",
+    "source": ""
+   },
+   {
+    "slug": "v128",
+    "title": "janmamaranavicara:v128",
+    "source": ""
+   },
+   {
+    "slug": "v129",
+    "title": "janmamaranavicara:v129",
+    "source": ""
+   },
+   {
+    "slug": "v130",
+    "title": "janmamaranavicara:v130",
+    "source": ""
+   },
+   {
+    "slug": "v131",
+    "title": "janmamaranavicara:v131",
+    "source": ""
+   },
+   {
+    "slug": "v132",
+    "title": "janmamaranavicara:v132",
+    "source": ""
+   },
+   {
+    "slug": "v133",
+    "title": "janmamaranavicara:v133",
+    "source": ""
+   },
+   {
+    "slug": "v134",
+    "title": "janmamaranavicara:v134",
+    "source": ""
+   },
+   {
+    "slug": "v135",
+    "title": "janmamaranavicara:v135",
+    "source": ""
+   },
+   {
+    "slug": "v136",
+    "title": "janmamaranavicara:v136",
+    "source": ""
+   },
+   {
+    "slug": "v137",
+    "title": "janmamaranavicara:v137",
+    "source": ""
+   },
+   {
+    "slug": "v138",
+    "title": "janmamaranavicara:v138",
+    "source": ""
+   },
+   {
+    "slug": "v139",
+    "title": "janmamaranavicara:v139",
+    "source": ""
+   },
+   {
+    "slug": "v140",
+    "title": "janmamaranavicara:v140",
+    "source": ""
+   },
+   {
+    "slug": "v141",
+    "title": "janmamaranavicara:v141",
+    "source": ""
+   },
+   {
+    "slug": "v142",
+    "title": "janmamaranavicara:v142",
+    "source": ""
+   },
+   {
+    "slug": "v143",
+    "title": "janmamaranavicara:v143",
+    "source": ""
+   },
+   {
+    "slug": "v144",
+    "title": "janmamaranavicara:v144",
+    "source": ""
+   },
+   {
+    "slug": "v145",
+    "title": "janmamaranavicara:v145",
+    "source": ""
+   },
+   {
+    "slug": "v146",
+    "title": "janmamaranavicara:v146",
+    "source": ""
+   },
+   {
+    "slug": "v147",
+    "title": "janmamaranavicara:v147",
+    "source": ""
+   },
+   {
+    "slug": "v148",
+    "title": "janmamaranavicara:v148",
+    "source": ""
+   },
+   {
+    "slug": "v149",
+    "title": "janmamaranavicara:v149",
+    "source": ""
+   },
+   {
+    "slug": "v150",
+    "title": "janmamaranavicara:v150",
+    "source": ""
+   },
+   {
+    "slug": "v151",
+    "title": "janmamaranavicara:v151",
+    "source": ""
+   },
+   {
+    "slug": "v152",
+    "title": "janmamaranavicara:v152",
+    "source": ""
+   },
+   {
+    "slug": "v153",
+    "title": "janmamaranavicara:v153",
+    "source": ""
+   },
+   {
+    "slug": "v154",
+    "title": "janmamaranavicara:v154",
+    "source": ""
+   },
+   {
+    "slug": "v155",
+    "title": "janmamaranavicara:v155",
+    "source": ""
+   },
+   {
+    "slug": "v156",
+    "title": "janmamaranavicara:v156",
+    "source": ""
+   },
+   {
+    "slug": "v157",
+    "title": "janmamaranavicara:v157",
+    "source": ""
+   },
+   {
+    "slug": "v158",
+    "title": "janmamaranavicara:v158",
+    "source": ""
+   },
+   {
+    "slug": "v159",
+    "title": "janmamaranavicara:v159",
+    "source": ""
+   },
+   {
+    "slug": "v160",
+    "title": "janmamaranavicara:v160",
+    "source": ""
+   },
+   {
+    "slug": "v161",
+    "title": "janmamaranavicara:v161",
+    "source": ""
+   },
+   {
+    "slug": "v162",
+    "title": "janmamaranavicara:v162",
+    "source": ""
+   },
+   {
+    "slug": "v163",
+    "title": "janmamaranavicara:v163",
+    "source": ""
+   },
+   {
+    "slug": "v164",
+    "title": "janmamaranavicara:v164",
+    "source": ""
+   },
+   {
+    "slug": "v165",
+    "title": "janmamaranavicara:v165",
+    "source": ""
+   },
+   {
+    "slug": "v166",
+    "title": "janmamaranavicara:v166",
+    "source": ""
+   },
+   {
+    "slug": "v167",
+    "title": "janmamaranavicara:v167",
+    "source": ""
+   },
+   {
+    "slug": "v168",
+    "title": "janmamaranavicara:v168",
+    "source": ""
+   },
+   {
+    "slug": "v169",
+    "title": "janmamaranavicara:v169",
+    "source": ""
+   },
+   {
+    "slug": "v170",
+    "title": "janmamaranavicara:v170",
+    "source": ""
+   },
+   {
+    "slug": "v171",
+    "title": "janmamaranavicara:v171",
+    "source": ""
+   },
+   {
+    "slug": "v172",
+    "title": "janmamaranavicara:v172",
+    "source": ""
+   },
+   {
+    "slug": "v173",
+    "title": "janmamaranavicara:v173",
+    "source": ""
+   },
+   {
+    "slug": "v174",
+    "title": "janmamaranavicara:v174",
+    "source": ""
+   },
+   {
+    "slug": "v175",
+    "title": "janmamaranavicara:v175",
+    "source": ""
+   },
+   {
+    "slug": "v176",
+    "title": "janmamaranavicara:v176",
+    "source": ""
+   },
+   {
+    "slug": "v177",
+    "title": "janmamaranavicara:v177",
+    "source": ""
+   },
+   {
+    "slug": "v178",
+    "title": "janmamaranavicara:v178",
+    "source": ""
+   },
+   {
+    "slug": "v179",
+    "title": "janmamaranavicara:v179",
+    "source": ""
+   },
+   {
+    "slug": "v180",
+    "title": "janmamaranavicara:v180",
+    "source": ""
+   },
+   {
+    "slug": "v181",
+    "title": "janmamaranavicara:v181",
+    "source": ""
+   },
+   {
+    "slug": "v182",
+    "title": "janmamaranavicara:v182",
+    "source": ""
+   },
+   {
+    "slug": "v183",
+    "title": "janmamaranavicara:v183",
+    "source": ""
+   },
+   {
+    "slug": "v184",
+    "title": "janmamaranavicara:v184",
+    "source": ""
+   },
+   {
+    "slug": "v185",
+    "title": "janmamaranavicara:v185",
+    "source": ""
+   },
+   {
+    "slug": "v186",
+    "title": "janmamaranavicara:v186",
+    "source": ""
+   },
+   {
+    "slug": "v187",
+    "title": "janmamaranavicara:v187",
+    "source": ""
+   },
+   {
+    "slug": "v188",
+    "title": "janmamaranavicara:v188",
+    "source": ""
+   },
+   {
+    "slug": "v189",
+    "title": "janmamaranavicara:v189",
+    "source": ""
+   },
+   {
+    "slug": "v190",
+    "title": "janmamaranavicara:v190",
+    "source": ""
+   },
+   {
+    "slug": "v191",
+    "title": "janmamaranavicara:v191",
+    "source": ""
+   },
+   {
+    "slug": "v192",
+    "title": "janmamaranavicara:v192",
+    "source": ""
+   },
+   {
+    "slug": "v193",
+    "title": "janmamaranavicara:v193",
+    "source": ""
+   },
+   {
+    "slug": "v194",
+    "title": "janmamaranavicara:v194",
+    "source": ""
+   },
+   {
+    "slug": "v195",
+    "title": "janmamaranavicara:v195",
+    "source": ""
+   },
+   {
+    "slug": "v196",
+    "title": "janmamaranavicara:v196",
+    "source": ""
+   },
+   {
+    "slug": "v197",
+    "title": "janmamaranavicara:v197",
+    "source": ""
+   },
+   {
+    "slug": "v198",
+    "title": "janmamaranavicara:v198",
+    "source": ""
+   },
+   {
+    "slug": "v199",
+    "title": "janmamaranavicara:v199",
+    "source": ""
+   },
+   {
+    "slug": "v200",
+    "title": "janmamaranavicara:v200",
+    "source": ""
+   },
+   {
+    "slug": "v1",
+    "title": "jnanaratnavali:v1",
+    "source": ""
+   },
+   {
+    "slug": "v2",
+    "title": "jnanaratnavali:v2",
+    "source": ""
+   },
+   {
+    "slug": "v3",
+    "title": "jnanaratnavali:v3",
+    "source": ""
+   },
+   {
+    "slug": "v4",
+    "title": "jnanaratnavali:v4",
+    "source": ""
+   },
+   {
+    "slug": "v5",
+    "title": "jnanaratnavali:v5",
+    "source": ""
+   },
+   {
+    "slug": "v6",
+    "title": "jnanaratnavali:v6",
+    "source": ""
+   },
+   {
+    "slug": "v7",
+    "title": "jnanaratnavali:v7",
+    "source": ""
+   },
+   {
+    "slug": "v8",
+    "title": "jnanaratnavali:v8",
+    "source": ""
+   },
+   {
+    "slug": "v9",
+    "title": "jnanaratnavali:v9",
+    "source": ""
+   },
+   {
+    "slug": "v10",
+    "title": "jnanaratnavali:v10",
+    "source": ""
+   },
+   {
+    "slug": "v11",
+    "title": "jnanaratnavali:v11",
+    "source": ""
+   },
+   {
+    "slug": "v12",
+    "title": "jnanaratnavali:v12",
+    "source": ""
+   },
+   {
+    "slug": "v13",
+    "title": "jnanaratnavali:v13",
+    "source": ""
+   },
+   {
+    "slug": "v14",
+    "title": "jnanaratnavali:v14",
+    "source": ""
+   },
+   {
+    "slug": "v15",
+    "title": "jnanaratnavali:v15",
+    "source": ""
+   },
+   {
+    "slug": "v16",
+    "title": "jnanaratnavali:v16",
+    "source": ""
+   },
+   {
+    "slug": "v17",
+    "title": "jnanaratnavali:v17",
+    "source": ""
+   },
+   {
+    "slug": "v18",
+    "title": "jnanaratnavali:v18",
+    "source": ""
+   },
+   {
+    "slug": "v19",
+    "title": "jnanaratnavali:v19",
+    "source": ""
+   },
+   {
+    "slug": "v20",
+    "title": "jnanaratnavali:v20",
+    "source": ""
+   },
+   {
+    "slug": "v21",
+    "title": "jnanaratnavali:v21",
+    "source": ""
+   },
+   {
+    "slug": "v22",
+    "title": "jnanaratnavali:v22",
+    "source": ""
+   },
+   {
+    "slug": "v23",
+    "title": "jnanaratnavali:v23",
+    "source": ""
+   },
+   {
+    "slug": "v24",
+    "title": "jnanaratnavali:v24",
+    "source": ""
+   },
+   {
+    "slug": "v25",
+    "title": "jnanaratnavali:v25",
+    "source": ""
+   },
+   {
+    "slug": "v26",
+    "title": "jnanaratnavali:v26",
+    "source": ""
+   },
+   {
+    "slug": "v27",
+    "title": "jnanaratnavali:v27",
+    "source": ""
+   },
+   {
+    "slug": "v28",
+    "title": "jnanaratnavali:v28",
+    "source": ""
+   },
+   {
+    "slug": "v29",
+    "title": "jnanaratnavali:v29",
+    "source": ""
+   },
+   {
+    "slug": "v30",
+    "title": "jnanaratnavali:v30",
+    "source": ""
+   },
+   {
+    "slug": "v31",
+    "title": "jnanaratnavali:v31",
+    "source": ""
+   },
+   {
+    "slug": "v32",
+    "title": "jnanaratnavali:v32",
+    "source": ""
+   },
+   {
+    "slug": "v33",
+    "title": "jnanaratnavali:v33",
+    "source": ""
+   },
+   {
+    "slug": "v34",
+    "title": "jnanaratnavali:v34",
+    "source": ""
+   },
+   {
+    "slug": "v35",
+    "title": "jnanaratnavali:v35",
+    "source": ""
+   },
+   {
+    "slug": "v36",
+    "title": "jnanaratnavali:v36",
+    "source": ""
+   },
+   {
+    "slug": "v37",
+    "title": "jnanaratnavali:v37",
+    "source": ""
+   },
+   {
+    "slug": "v38",
+    "title": "jnanaratnavali:v38",
+    "source": ""
+   },
+   {
+    "slug": "v39",
+    "title": "jnanaratnavali:v39",
+    "source": ""
+   },
+   {
+    "slug": "v40",
+    "title": "jnanaratnavali:v40",
+    "source": ""
+   },
+   {
+    "slug": "v41",
+    "title": "jnanaratnavali:v41",
+    "source": ""
+   },
+   {
+    "slug": "v42",
+    "title": "jnanaratnavali:v42",
+    "source": ""
+   },
+   {
+    "slug": "v43",
+    "title": "jnanaratnavali:v43",
+    "source": ""
+   },
+   {
+    "slug": "v44",
+    "title": "jnanaratnavali:v44",
+    "source": ""
+   },
+   {
+    "slug": "v45",
+    "title": "jnanaratnavali:v45",
+    "source": ""
+   },
+   {
+    "slug": "v46",
+    "title": "jnanaratnavali:v46",
+    "source": ""
+   },
+   {
+    "slug": "v47",
+    "title": "jnanaratnavali:v47",
+    "source": ""
+   },
+   {
+    "slug": "v48",
+    "title": "jnanaratnavali:v48",
+    "source": ""
+   },
+   {
+    "slug": "v49",
+    "title": "jnanaratnavali:v49",
+    "source": ""
+   },
+   {
+    "slug": "v50",
+    "title": "jnanaratnavali:v50",
+    "source": ""
+   },
+   {
+    "slug": "v51",
+    "title": "jnanaratnavali:v51",
+    "source": ""
+   },
+   {
+    "slug": "v52",
+    "title": "jnanaratnavali:v52",
+    "source": ""
+   },
+   {
+    "slug": "v53",
+    "title": "jnanaratnavali:v53",
+    "source": ""
+   },
+   {
+    "slug": "v54",
+    "title": "jnanaratnavali:v54",
+    "source": ""
+   },
+   {
+    "slug": "v55",
+    "title": "jnanaratnavali:v55",
+    "source": ""
+   },
+   {
+    "slug": "v56",
+    "title": "jnanaratnavali:v56",
+    "source": ""
+   },
+   {
+    "slug": "v57",
+    "title": "jnanaratnavali:v57",
+    "source": ""
+   },
+   {
+    "slug": "v58",
+    "title": "jnanaratnavali:v58",
+    "source": ""
+   },
+   {
+    "slug": "v59",
+    "title": "jnanaratnavali:v59",
+    "source": ""
+   },
+   {
+    "slug": "v60",
+    "title": "jnanaratnavali:v60",
+    "source": ""
+   },
+   {
+    "slug": "v61",
+    "title": "jnanaratnavali:v61",
+    "source": ""
+   },
+   {
+    "slug": "v62",
+    "title": "jnanaratnavali:v62",
+    "source": ""
+   },
+   {
+    "slug": "v63",
+    "title": "jnanaratnavali:v63",
+    "source": ""
+   },
+   {
+    "slug": "v64",
+    "title": "jnanaratnavali:v64",
+    "source": ""
+   },
+   {
+    "slug": "v65",
+    "title": "jnanaratnavali:v65",
+    "source": ""
+   },
+   {
+    "slug": "v66",
+    "title": "jnanaratnavali:v66",
+    "source": ""
+   },
+   {
+    "slug": "v67",
+    "title": "jnanaratnavali:v67",
+    "source": ""
+   },
+   {
+    "slug": "v68",
+    "title": "jnanaratnavali:v68",
+    "source": ""
+   },
+   {
+    "slug": "v69",
+    "title": "jnanaratnavali:v69",
+    "source": ""
+   },
+   {
+    "slug": "v70",
+    "title": "jnanaratnavali:v70",
+    "source": ""
+   },
+   {
+    "slug": "v71",
+    "title": "jnanaratnavali:v71",
+    "source": ""
+   },
+   {
+    "slug": "v72",
+    "title": "jnanaratnavali:v72",
+    "source": ""
+   },
+   {
+    "slug": "v73",
+    "title": "jnanaratnavali:v73",
+    "source": ""
+   },
+   {
+    "slug": "v74",
+    "title": "jnanaratnavali:v74",
+    "source": ""
+   },
+   {
+    "slug": "v75",
+    "title": "jnanaratnavali:v75",
+    "source": ""
+   },
+   {
+    "slug": "v76",
+    "title": "jnanaratnavali:v76",
+    "source": ""
+   },
+   {
+    "slug": "v77",
+    "title": "jnanaratnavali:v77",
+    "source": ""
+   },
+   {
+    "slug": "v78",
+    "title": "jnanaratnavali:v78",
+    "source": ""
+   },
+   {
+    "slug": "v79",
+    "title": "jnanaratnavali:v79",
+    "source": ""
+   },
+   {
+    "slug": "v80",
+    "title": "jnanaratnavali:v80",
+    "source": ""
+   },
+   {
+    "slug": "v81",
+    "title": "jnanaratnavali:v81",
+    "source": ""
+   },
+   {
+    "slug": "v82",
+    "title": "jnanaratnavali:v82",
+    "source": ""
+   },
+   {
+    "slug": "v83",
+    "title": "jnanaratnavali:v83",
+    "source": ""
+   },
+   {
+    "slug": "v84",
+    "title": "jnanaratnavali:v84",
+    "source": ""
+   },
+   {
+    "slug": "v85",
+    "title": "jnanaratnavali:v85",
+    "source": ""
+   },
+   {
+    "slug": "v86",
+    "title": "jnanaratnavali:v86",
+    "source": ""
+   },
+   {
+    "slug": "v87",
+    "title": "jnanaratnavali:v87",
+    "source": ""
+   },
+   {
+    "slug": "v88",
+    "title": "jnanaratnavali:v88",
+    "source": ""
+   },
+   {
+    "slug": "v89",
+    "title": "jnanaratnavali:v89",
+    "source": ""
+   },
+   {
+    "slug": "v90",
+    "title": "jnanaratnavali:v90",
+    "source": ""
+   },
+   {
+    "slug": "v91",
+    "title": "jnanaratnavali:v91",
+    "source": ""
+   },
+   {
+    "slug": "v92",
+    "title": "jnanaratnavali:v92",
+    "source": ""
+   },
+   {
+    "slug": "v93",
+    "title": "jnanaratnavali:v93",
+    "source": ""
+   },
+   {
+    "slug": "v94",
+    "title": "jnanaratnavali:v94",
+    "source": ""
+   },
+   {
+    "slug": "v95",
+    "title": "jnanaratnavali:v95",
+    "source": ""
+   },
+   {
+    "slug": "v96",
+    "title": "jnanaratnavali:v96",
+    "source": ""
+   },
+   {
+    "slug": "v97",
+    "title": "jnanaratnavali:v97",
+    "source": ""
+   },
+   {
+    "slug": "v98",
+    "title": "jnanaratnavali:v98",
+    "source": ""
+   },
+   {
+    "slug": "v99",
+    "title": "jnanaratnavali:v99",
+    "source": ""
+   },
+   {
+    "slug": "v100",
+    "title": "jnanaratnavali:v100",
+    "source": ""
+   },
+   {
+    "slug": "v101",
+    "title": "jnanaratnavali:v101",
+    "source": ""
+   },
+   {
+    "slug": "v102",
+    "title": "jnanaratnavali:v102",
+    "source": ""
+   },
+   {
+    "slug": "v103",
+    "title": "jnanaratnavali:v103",
+    "source": ""
+   },
+   {
+    "slug": "v104",
+    "title": "jnanaratnavali:v104",
+    "source": ""
+   },
+   {
+    "slug": "v105",
+    "title": "jnanaratnavali:v105",
+    "source": ""
+   },
+   {
+    "slug": "v106",
+    "title": "jnanaratnavali:v106",
+    "source": ""
+   },
+   {
+    "slug": "v107",
+    "title": "jnanaratnavali:v107",
+    "source": ""
+   },
+   {
+    "slug": "v108",
+    "title": "jnanaratnavali:v108",
+    "source": ""
+   },
+   {
+    "slug": "v109",
+    "title": "jnanaratnavali:v109",
+    "source": ""
+   },
+   {
+    "slug": "v110",
+    "title": "jnanaratnavali:v110",
+    "source": ""
+   },
+   {
+    "slug": "v111",
+    "title": "jnanaratnavali:v111",
+    "source": ""
+   },
+   {
+    "slug": "v112",
+    "title": "jnanaratnavali:v112",
+    "source": ""
+   },
+   {
+    "slug": "v113",
+    "title": "jnanaratnavali:v113",
+    "source": ""
+   },
+   {
+    "slug": "v114",
+    "title": "jnanaratnavali:v114",
+    "source": ""
+   },
+   {
+    "slug": "v115",
+    "title": "jnanaratnavali:v115",
+    "source": ""
+   },
+   {
+    "slug": "v116",
+    "title": "jnanaratnavali:v116",
+    "source": ""
+   },
+   {
+    "slug": "v117",
+    "title": "jnanaratnavali:v117",
+    "source": ""
+   },
+   {
+    "slug": "v118",
+    "title": "jnanaratnavali:v118",
+    "source": ""
+   },
+   {
+    "slug": "v119",
+    "title": "jnanaratnavali:v119",
+    "source": ""
+   },
+   {
+    "slug": "v120",
+    "title": "jnanaratnavali:v120",
+    "source": ""
+   },
+   {
+    "slug": "v121",
+    "title": "jnanaratnavali:v121",
+    "source": ""
+   },
+   {
+    "slug": "v122",
+    "title": "jnanaratnavali:v122",
+    "source": ""
+   },
+   {
+    "slug": "v123",
+    "title": "jnanaratnavali:v123",
+    "source": ""
+   },
+   {
+    "slug": "v124",
+    "title": "jnanaratnavali:v124",
+    "source": ""
+   },
+   {
+    "slug": "v125",
+    "title": "jnanaratnavali:v125",
+    "source": ""
+   },
+   {
+    "slug": "v126",
+    "title": "jnanaratnavali:v126",
+    "source": ""
+   },
+   {
+    "slug": "v127",
+    "title": "jnanaratnavali:v127",
+    "source": ""
+   },
+   {
+    "slug": "v128",
+    "title": "jnanaratnavali:v128",
+    "source": ""
+   },
+   {
+    "slug": "v129",
+    "title": "jnanaratnavali:v129",
+    "source": ""
+   },
+   {
+    "slug": "v130",
+    "title": "jnanaratnavali:v130",
+    "source": ""
+   },
+   {
+    "slug": "v131",
+    "title": "jnanaratnavali:v131",
+    "source": ""
+   },
+   {
+    "slug": "v132",
+    "title": "jnanaratnavali:v132",
+    "source": ""
+   },
+   {
+    "slug": "v133",
+    "title": "jnanaratnavali:v133",
+    "source": ""
+   },
+   {
+    "slug": "v134",
+    "title": "jnanaratnavali:v134",
+    "source": ""
+   },
+   {
+    "slug": "v135",
+    "title": "jnanaratnavali:v135",
+    "source": ""
+   },
+   {
+    "slug": "v136",
+    "title": "jnanaratnavali:v136",
+    "source": ""
+   },
+   {
+    "slug": "v137",
+    "title": "jnanaratnavali:v137",
+    "source": ""
+   },
+   {
+    "slug": "v138",
+    "title": "jnanaratnavali:v138",
+    "source": ""
+   },
+   {
+    "slug": "v139",
+    "title": "jnanaratnavali:v139",
+    "source": ""
+   },
+   {
+    "slug": "v140",
+    "title": "jnanaratnavali:v140",
+    "source": ""
+   },
+   {
+    "slug": "v141",
+    "title": "jnanaratnavali:v141",
+    "source": ""
+   },
+   {
+    "slug": "v142",
+    "title": "jnanaratnavali:v142",
+    "source": ""
+   },
+   {
+    "slug": "v143",
+    "title": "jnanaratnavali:v143",
+    "source": ""
+   },
+   {
+    "slug": "v144",
+    "title": "jnanaratnavali:v144",
+    "source": ""
+   },
+   {
+    "slug": "v145",
+    "title": "jnanaratnavali:v145",
+    "source": ""
+   },
+   {
+    "slug": "v146",
+    "title": "jnanaratnavali:v146",
+    "source": ""
+   },
+   {
+    "slug": "v147",
+    "title": "jnanaratnavali:v147",
+    "source": ""
+   },
+   {
+    "slug": "v148",
+    "title": "jnanaratnavali:v148",
+    "source": ""
+   },
+   {
+    "slug": "v149",
+    "title": "jnanaratnavali:v149",
+    "source": ""
+   },
+   {
+    "slug": "v150",
+    "title": "jnanaratnavali:v150",
+    "source": ""
+   },
+   {
+    "slug": "v151",
+    "title": "jnanaratnavali:v151",
+    "source": ""
+   },
+   {
+    "slug": "v152",
+    "title": "jnanaratnavali:v152",
+    "source": ""
+   },
+   {
+    "slug": "v153",
+    "title": "jnanaratnavali:v153",
+    "source": ""
+   },
+   {
+    "slug": "v154",
+    "title": "jnanaratnavali:v154",
+    "source": ""
+   },
+   {
+    "slug": "v155",
+    "title": "jnanaratnavali:v155",
+    "source": ""
+   },
+   {
+    "slug": "v156",
+    "title": "jnanaratnavali:v156",
+    "source": ""
+   },
+   {
+    "slug": "v157",
+    "title": "jnanaratnavali:v157",
+    "source": ""
+   },
+   {
+    "slug": "v158",
+    "title": "jnanaratnavali:v158",
+    "source": ""
+   },
+   {
+    "slug": "v159",
+    "title": "jnanaratnavali:v159",
+    "source": ""
+   },
+   {
+    "slug": "v160",
+    "title": "jnanaratnavali:v160",
+    "source": ""
+   },
+   {
+    "slug": "v161",
+    "title": "jnanaratnavali:v161",
+    "source": ""
+   },
+   {
+    "slug": "v162",
+    "title": "jnanaratnavali:v162",
+    "source": ""
+   },
+   {
+    "slug": "v163",
+    "title": "jnanaratnavali:v163",
+    "source": ""
+   },
+   {
+    "slug": "v164",
+    "title": "jnanaratnavali:v164",
+    "source": ""
+   },
+   {
+    "slug": "v165",
+    "title": "jnanaratnavali:v165",
+    "source": ""
+   },
+   {
+    "slug": "v166",
+    "title": "jnanaratnavali:v166",
+    "source": ""
+   },
+   {
+    "slug": "v167",
+    "title": "jnanaratnavali:v167",
+    "source": ""
+   },
+   {
+    "slug": "v168",
+    "title": "jnanaratnavali:v168",
+    "source": ""
+   },
+   {
+    "slug": "v169",
+    "title": "jnanaratnavali:v169",
+    "source": ""
+   },
+   {
+    "slug": "v170",
+    "title": "jnanaratnavali:v170",
+    "source": ""
+   },
+   {
+    "slug": "v171",
+    "title": "jnanaratnavali:v171",
+    "source": ""
+   },
+   {
+    "slug": "v172",
+    "title": "jnanaratnavali:v172",
+    "source": ""
+   },
+   {
+    "slug": "v173",
+    "title": "jnanaratnavali:v173",
+    "source": ""
+   },
+   {
+    "slug": "v174",
+    "title": "jnanaratnavali:v174",
+    "source": ""
+   },
+   {
+    "slug": "v175",
+    "title": "jnanaratnavali:v175",
+    "source": ""
+   },
+   {
+    "slug": "v176",
+    "title": "jnanaratnavali:v176",
+    "source": ""
+   },
+   {
+    "slug": "v177",
+    "title": "jnanaratnavali:v177",
+    "source": ""
+   },
+   {
+    "slug": "v178",
+    "title": "jnanaratnavali:v178",
+    "source": ""
+   },
+   {
+    "slug": "v179",
+    "title": "jnanaratnavali:v179",
+    "source": ""
+   },
+   {
+    "slug": "v180",
+    "title": "jnanaratnavali:v180",
+    "source": ""
+   },
+   {
+    "slug": "v181",
+    "title": "jnanaratnavali:v181",
+    "source": ""
+   },
+   {
+    "slug": "v182",
+    "title": "jnanaratnavali:v182",
+    "source": ""
+   },
+   {
+    "slug": "v183",
+    "title": "jnanaratnavali:v183",
+    "source": ""
+   },
+   {
+    "slug": "v184",
+    "title": "jnanaratnavali:v184",
+    "source": ""
+   },
+   {
+    "slug": "v185",
+    "title": "jnanaratnavali:v185",
+    "source": ""
+   },
+   {
+    "slug": "v186",
+    "title": "jnanaratnavali:v186",
+    "source": ""
+   },
+   {
+    "slug": "v187",
+    "title": "jnanaratnavali:v187",
+    "source": ""
+   },
+   {
+    "slug": "v188",
+    "title": "jnanaratnavali:v188",
+    "source": ""
+   },
+   {
+    "slug": "v189",
+    "title": "jnanaratnavali:v189",
+    "source": ""
+   },
+   {
+    "slug": "v190",
+    "title": "jnanaratnavali:v190",
+    "source": ""
+   },
+   {
+    "slug": "v191",
+    "title": "jnanaratnavali:v191",
+    "source": ""
+   },
+   {
+    "slug": "v192",
+    "title": "jnanaratnavali:v192",
+    "source": ""
+   },
+   {
+    "slug": "v193",
+    "title": "jnanaratnavali:v193",
+    "source": ""
+   },
+   {
+    "slug": "v194",
+    "title": "jnanaratnavali:v194",
+    "source": ""
+   },
+   {
+    "slug": "v195",
+    "title": "jnanaratnavali:v195",
+    "source": ""
+   },
+   {
+    "slug": "v196",
+    "title": "jnanaratnavali:v196",
+    "source": ""
+   },
+   {
+    "slug": "v197",
+    "title": "jnanaratnavali:v197",
+    "source": ""
+   },
+   {
+    "slug": "v198",
+    "title": "jnanaratnavali:v198",
+    "source": ""
+   },
+   {
+    "slug": "v199",
+    "title": "jnanaratnavali:v199",
+    "source": ""
+   },
+   {
+    "slug": "v200",
+    "title": "jnanaratnavali:v200",
+    "source": ""
+   },
+   {
+    "slug": "v1",
+    "title": "kalikapurana:v1",
+    "source": ""
+   },
+   {
+    "slug": "v2",
+    "title": "kalikapurana:v2",
+    "source": ""
+   },
+   {
+    "slug": "v3",
+    "title": "kalikapurana:v3",
+    "source": ""
+   },
+   {
+    "slug": "v4",
+    "title": "kalikapurana:v4",
+    "source": ""
+   },
+   {
+    "slug": "v5",
+    "title": "kalikapurana:v5",
+    "source": ""
+   },
+   {
+    "slug": "v6",
+    "title": "kalikapurana:v6",
+    "source": ""
+   },
+   {
+    "slug": "v7",
+    "title": "kalikapurana:v7",
+    "source": ""
+   },
+   {
+    "slug": "v8",
+    "title": "kalikapurana:v8",
+    "source": ""
+   },
+   {
+    "slug": "v9",
+    "title": "kalikapurana:v9",
+    "source": ""
+   },
+   {
+    "slug": "v10",
+    "title": "kalikapurana:v10",
+    "source": ""
+   },
+   {
+    "slug": "v11",
+    "title": "kalikapurana:v11",
+    "source": ""
+   },
+   {
+    "slug": "v12",
+    "title": "kalikapurana:v12",
+    "source": ""
+   },
+   {
+    "slug": "v13",
+    "title": "kalikapurana:v13",
+    "source": ""
+   },
+   {
+    "slug": "v14",
+    "title": "kalikapurana:v14",
+    "source": ""
+   },
+   {
+    "slug": "v15",
+    "title": "kalikapurana:v15",
+    "source": ""
+   },
+   {
+    "slug": "v16",
+    "title": "kalikapurana:v16",
+    "source": ""
+   },
+   {
+    "slug": "v17",
+    "title": "kalikapurana:v17",
+    "source": ""
+   },
+   {
+    "slug": "v18",
+    "title": "kalikapurana:v18",
+    "source": ""
+   },
+   {
+    "slug": "v19",
+    "title": "kalikapurana:v19",
+    "source": ""
+   },
+   {
+    "slug": "v20",
+    "title": "kalikapurana:v20",
+    "source": ""
+   },
+   {
+    "slug": "v21",
+    "title": "kalikapurana:v21",
+    "source": ""
+   },
+   {
+    "slug": "v22",
+    "title": "kalikapurana:v22",
+    "source": ""
+   },
+   {
+    "slug": "v23",
+    "title": "kalikapurana:v23",
+    "source": ""
+   },
+   {
+    "slug": "v24",
+    "title": "kalikapurana:v24",
+    "source": ""
+   },
+   {
+    "slug": "v25",
+    "title": "kalikapurana:v25",
+    "source": ""
+   },
+   {
+    "slug": "v26",
+    "title": "kalikapurana:v26",
+    "source": ""
+   },
+   {
+    "slug": "v27",
+    "title": "kalikapurana:v27",
+    "source": ""
+   },
+   {
+    "slug": "v28",
+    "title": "kalikapurana:v28",
+    "source": ""
+   },
+   {
+    "slug": "v29",
+    "title": "kalikapurana:v29",
+    "source": ""
+   },
+   {
+    "slug": "v30",
+    "title": "kalikapurana:v30",
+    "source": ""
+   },
+   {
+    "slug": "v31",
+    "title": "kalikapurana:v31",
+    "source": ""
+   },
+   {
+    "slug": "v32",
+    "title": "kalikapurana:v32",
+    "source": ""
+   },
+   {
+    "slug": "v33",
+    "title": "kalikapurana:v33",
+    "source": ""
+   },
+   {
+    "slug": "v34",
+    "title": "kalikapurana:v34",
+    "source": ""
+   },
+   {
+    "slug": "v35",
+    "title": "kalikapurana:v35",
+    "source": ""
+   },
+   {
+    "slug": "v36",
+    "title": "kalikapurana:v36",
+    "source": ""
+   },
+   {
+    "slug": "v37",
+    "title": "kalikapurana:v37",
+    "source": ""
+   },
+   {
+    "slug": "v38",
+    "title": "kalikapurana:v38",
+    "source": ""
+   },
+   {
+    "slug": "v39",
+    "title": "kalikapurana:v39",
+    "source": ""
+   },
+   {
+    "slug": "v40",
+    "title": "kalikapurana:v40",
+    "source": ""
+   },
+   {
+    "slug": "v41",
+    "title": "kalikapurana:v41",
+    "source": ""
+   },
+   {
+    "slug": "v42",
+    "title": "kalikapurana:v42",
+    "source": ""
+   },
+   {
+    "slug": "v43",
+    "title": "kalikapurana:v43",
+    "source": ""
+   },
+   {
+    "slug": "v44",
+    "title": "kalikapurana:v44",
+    "source": ""
+   },
+   {
+    "slug": "v45",
+    "title": "kalikapurana:v45",
+    "source": ""
+   },
+   {
+    "slug": "v46",
+    "title": "kalikapurana:v46",
+    "source": ""
+   },
+   {
+    "slug": "v47",
+    "title": "kalikapurana:v47",
+    "source": ""
+   },
+   {
+    "slug": "v48",
+    "title": "kalikapurana:v48",
+    "source": ""
+   },
+   {
+    "slug": "v49",
+    "title": "kalikapurana:v49",
+    "source": ""
+   },
+   {
+    "slug": "v50",
+    "title": "kalikapurana:v50",
+    "source": ""
+   },
+   {
+    "slug": "v51",
+    "title": "kalikapurana:v51",
+    "source": ""
+   },
+   {
+    "slug": "v52",
+    "title": "kalikapurana:v52",
+    "source": ""
+   },
+   {
+    "slug": "v53",
+    "title": "kalikapurana:v53",
+    "source": ""
+   },
+   {
+    "slug": "v54",
+    "title": "kalikapurana:v54",
+    "source": ""
+   },
+   {
+    "slug": "v55",
+    "title": "kalikapurana:v55",
+    "source": ""
+   },
+   {
+    "slug": "v56",
+    "title": "kalikapurana:v56",
+    "source": ""
+   },
+   {
+    "slug": "v57",
+    "title": "kalikapurana:v57",
+    "source": ""
+   },
+   {
+    "slug": "v58",
+    "title": "kalikapurana:v58",
+    "source": ""
+   },
+   {
+    "slug": "v59",
+    "title": "kalikapurana:v59",
+    "source": ""
+   },
+   {
+    "slug": "v60",
+    "title": "kalikapurana:v60",
+    "source": ""
+   },
+   {
+    "slug": "v61",
+    "title": "kalikapurana:v61",
+    "source": ""
+   },
+   {
+    "slug": "v62",
+    "title": "kalikapurana:v62",
+    "source": ""
+   },
+   {
+    "slug": "v63",
+    "title": "kalikapurana:v63",
+    "source": ""
+   },
+   {
+    "slug": "v64",
+    "title": "kalikapurana:v64",
+    "source": ""
+   },
+   {
+    "slug": "v65",
+    "title": "kalikapurana:v65",
+    "source": ""
+   },
+   {
+    "slug": "v66",
+    "title": "kalikapurana:v66",
+    "source": ""
+   },
+   {
+    "slug": "v67",
+    "title": "kalikapurana:v67",
+    "source": ""
+   },
+   {
+    "slug": "v68",
+    "title": "kalikapurana:v68",
+    "source": ""
+   },
+   {
+    "slug": "v69",
+    "title": "kalikapurana:v69",
+    "source": ""
+   },
+   {
+    "slug": "v70",
+    "title": "kalikapurana:v70",
+    "source": ""
+   },
+   {
+    "slug": "v71",
+    "title": "kalikapurana:v71",
+    "source": ""
+   },
+   {
+    "slug": "v72",
+    "title": "kalikapurana:v72",
+    "source": ""
+   },
+   {
+    "slug": "v73",
+    "title": "kalikapurana:v73",
+    "source": ""
+   },
+   {
+    "slug": "v74",
+    "title": "kalikapurana:v74",
+    "source": ""
+   },
+   {
+    "slug": "v75",
+    "title": "kalikapurana:v75",
+    "source": ""
+   },
+   {
+    "slug": "v76",
+    "title": "kalikapurana:v76",
+    "source": ""
+   },
+   {
+    "slug": "v77",
+    "title": "kalikapurana:v77",
+    "source": ""
+   },
+   {
+    "slug": "v78",
+    "title": "kalikapurana:v78",
+    "source": ""
+   },
+   {
+    "slug": "v79",
+    "title": "kalikapurana:v79",
+    "source": ""
+   },
+   {
+    "slug": "v80",
+    "title": "kalikapurana:v80",
+    "source": ""
+   },
+   {
+    "slug": "v81",
+    "title": "kalikapurana:v81",
+    "source": ""
+   },
+   {
+    "slug": "v82",
+    "title": "kalikapurana:v82",
+    "source": ""
+   },
+   {
+    "slug": "v83",
+    "title": "kalikapurana:v83",
+    "source": ""
+   },
+   {
+    "slug": "v84",
+    "title": "kalikapurana:v84",
+    "source": ""
+   },
+   {
+    "slug": "v85",
+    "title": "kalikapurana:v85",
+    "source": ""
+   },
+   {
+    "slug": "v86",
+    "title": "kalikapurana:v86",
+    "source": ""
+   },
+   {
+    "slug": "v87",
+    "title": "kalikapurana:v87",
+    "source": ""
+   },
+   {
+    "slug": "v88",
+    "title": "kalikapurana:v88",
+    "source": ""
+   },
+   {
+    "slug": "v89",
+    "title": "kalikapurana:v89",
+    "source": ""
+   },
+   {
+    "slug": "v90",
+    "title": "kalikapurana:v90",
+    "source": ""
+   },
+   {
+    "slug": "v91",
+    "title": "kalikapurana:v91",
+    "source": ""
+   },
+   {
+    "slug": "v92",
+    "title": "kalikapurana:v92",
+    "source": ""
+   },
+   {
+    "slug": "v93",
+    "title": "kalikapurana:v93",
+    "source": ""
+   },
+   {
+    "slug": "v94",
+    "title": "kalikapurana:v94",
+    "source": ""
+   },
+   {
+    "slug": "v95",
+    "title": "kalikapurana:v95",
+    "source": ""
+   },
+   {
+    "slug": "v96",
+    "title": "kalikapurana:v96",
+    "source": ""
+   },
+   {
+    "slug": "v97",
+    "title": "kalikapurana:v97",
+    "source": ""
+   },
+   {
+    "slug": "v98",
+    "title": "kalikapurana:v98",
+    "source": ""
+   },
+   {
+    "slug": "v99",
+    "title": "kalikapurana:v99",
+    "source": ""
+   },
+   {
+    "slug": "v100",
+    "title": "kalikapurana:v100",
+    "source": ""
+   },
+   {
+    "slug": "v101",
+    "title": "kalikapurana:v101",
+    "source": ""
+   },
+   {
+    "slug": "v102",
+    "title": "kalikapurana:v102",
+    "source": ""
+   },
+   {
+    "slug": "v103",
+    "title": "kalikapurana:v103",
+    "source": ""
+   },
+   {
+    "slug": "v104",
+    "title": "kalikapurana:v104",
+    "source": ""
+   },
+   {
+    "slug": "v105",
+    "title": "kalikapurana:v105",
+    "source": ""
+   },
+   {
+    "slug": "v106",
+    "title": "kalikapurana:v106",
+    "source": ""
+   },
+   {
+    "slug": "v107",
+    "title": "kalikapurana:v107",
+    "source": ""
+   },
+   {
+    "slug": "v108",
+    "title": "kalikapurana:v108",
+    "source": ""
+   },
+   {
+    "slug": "v109",
+    "title": "kalikapurana:v109",
+    "source": ""
+   },
+   {
+    "slug": "v110",
+    "title": "kalikapurana:v110",
+    "source": ""
+   },
+   {
+    "slug": "v111",
+    "title": "kalikapurana:v111",
+    "source": ""
+   },
+   {
+    "slug": "v112",
+    "title": "kalikapurana:v112",
+    "source": ""
+   },
+   {
+    "slug": "v113",
+    "title": "kalikapurana:v113",
+    "source": ""
+   },
+   {
+    "slug": "v114",
+    "title": "kalikapurana:v114",
+    "source": ""
+   },
+   {
+    "slug": "v115",
+    "title": "kalikapurana:v115",
+    "source": ""
+   },
+   {
+    "slug": "v116",
+    "title": "kalikapurana:v116",
+    "source": ""
+   },
+   {
+    "slug": "v117",
+    "title": "kalikapurana:v117",
+    "source": ""
+   },
+   {
+    "slug": "v118",
+    "title": "kalikapurana:v118",
+    "source": ""
+   },
+   {
+    "slug": "v119",
+    "title": "kalikapurana:v119",
+    "source": ""
+   },
+   {
+    "slug": "v120",
+    "title": "kalikapurana:v120",
+    "source": ""
+   },
+   {
+    "slug": "v121",
+    "title": "kalikapurana:v121",
+    "source": ""
+   },
+   {
+    "slug": "v122",
+    "title": "kalikapurana:v122",
+    "source": ""
+   },
+   {
+    "slug": "v123",
+    "title": "kalikapurana:v123",
+    "source": ""
+   },
+   {
+    "slug": "v124",
+    "title": "kalikapurana:v124",
+    "source": ""
+   },
+   {
+    "slug": "v125",
+    "title": "kalikapurana:v125",
+    "source": ""
+   },
+   {
+    "slug": "v126",
+    "title": "kalikapurana:v126",
+    "source": ""
+   },
+   {
+    "slug": "v127",
+    "title": "kalikapurana:v127",
+    "source": ""
+   },
+   {
+    "slug": "v128",
+    "title": "kalikapurana:v128",
+    "source": ""
+   },
+   {
+    "slug": "v129",
+    "title": "kalikapurana:v129",
+    "source": ""
+   },
+   {
+    "slug": "v130",
+    "title": "kalikapurana:v130",
+    "source": ""
+   },
+   {
+    "slug": "v131",
+    "title": "kalikapurana:v131",
+    "source": ""
+   },
+   {
+    "slug": "v132",
+    "title": "kalikapurana:v132",
+    "source": ""
+   },
+   {
+    "slug": "v133",
+    "title": "kalikapurana:v133",
+    "source": ""
+   },
+   {
+    "slug": "v134",
+    "title": "kalikapurana:v134",
+    "source": ""
+   },
+   {
+    "slug": "v135",
+    "title": "kalikapurana:v135",
+    "source": ""
+   },
+   {
+    "slug": "v136",
+    "title": "kalikapurana:v136",
+    "source": ""
+   },
+   {
+    "slug": "v137",
+    "title": "kalikapurana:v137",
+    "source": ""
+   },
+   {
+    "slug": "v138",
+    "title": "kalikapurana:v138",
+    "source": ""
+   },
+   {
+    "slug": "v139",
+    "title": "kalikapurana:v139",
+    "source": ""
+   },
+   {
+    "slug": "v140",
+    "title": "kalikapurana:v140",
+    "source": ""
+   },
+   {
+    "slug": "v141",
+    "title": "kalikapurana:v141",
+    "source": ""
+   },
+   {
+    "slug": "v142",
+    "title": "kalikapurana:v142",
+    "source": ""
+   },
+   {
+    "slug": "v143",
+    "title": "kalikapurana:v143",
+    "source": ""
+   },
+   {
+    "slug": "v144",
+    "title": "kalikapurana:v144",
+    "source": ""
+   },
+   {
+    "slug": "v145",
+    "title": "kalikapurana:v145",
+    "source": ""
+   },
+   {
+    "slug": "v146",
+    "title": "kalikapurana:v146",
+    "source": ""
+   },
+   {
+    "slug": "v147",
+    "title": "kalikapurana:v147",
+    "source": ""
+   },
+   {
+    "slug": "v148",
+    "title": "kalikapurana:v148",
+    "source": ""
+   },
+   {
+    "slug": "v149",
+    "title": "kalikapurana:v149",
+    "source": ""
+   },
+   {
+    "slug": "v150",
+    "title": "kalikapurana:v150",
+    "source": ""
+   },
+   {
+    "slug": "v151",
+    "title": "kalikapurana:v151",
+    "source": ""
+   },
+   {
+    "slug": "v152",
+    "title": "kalikapurana:v152",
+    "source": ""
+   },
+   {
+    "slug": "v153",
+    "title": "kalikapurana:v153",
+    "source": ""
+   },
+   {
+    "slug": "v154",
+    "title": "kalikapurana:v154",
+    "source": ""
+   },
+   {
+    "slug": "v155",
+    "title": "kalikapurana:v155",
+    "source": ""
+   },
+   {
+    "slug": "v156",
+    "title": "kalikapurana:v156",
+    "source": ""
+   },
+   {
+    "slug": "v157",
+    "title": "kalikapurana:v157",
+    "source": ""
+   },
+   {
+    "slug": "v158",
+    "title": "kalikapurana:v158",
+    "source": ""
+   },
+   {
+    "slug": "v159",
+    "title": "kalikapurana:v159",
+    "source": ""
+   },
+   {
+    "slug": "v160",
+    "title": "kalikapurana:v160",
+    "source": ""
+   },
+   {
+    "slug": "v161",
+    "title": "kalikapurana:v161",
+    "source": ""
+   },
+   {
+    "slug": "v162",
+    "title": "kalikapurana:v162",
+    "source": ""
+   },
+   {
+    "slug": "v163",
+    "title": "kalikapurana:v163",
+    "source": ""
+   },
+   {
+    "slug": "v164",
+    "title": "kalikapurana:v164",
+    "source": ""
+   },
+   {
+    "slug": "v165",
+    "title": "kalikapurana:v165",
+    "source": ""
+   },
+   {
+    "slug": "v166",
+    "title": "kalikapurana:v166",
+    "source": ""
+   },
+   {
+    "slug": "v167",
+    "title": "kalikapurana:v167",
+    "source": ""
+   },
+   {
+    "slug": "v168",
+    "title": "kalikapurana:v168",
+    "source": ""
+   },
+   {
+    "slug": "v169",
+    "title": "kalikapurana:v169",
+    "source": ""
+   },
+   {
+    "slug": "v170",
+    "title": "kalikapurana:v170",
+    "source": ""
+   },
+   {
+    "slug": "v171",
+    "title": "kalikapurana:v171",
+    "source": ""
+   },
+   {
+    "slug": "v172",
+    "title": "kalikapurana:v172",
+    "source": ""
+   },
+   {
+    "slug": "v173",
+    "title": "kalikapurana:v173",
+    "source": ""
+   },
+   {
+    "slug": "v174",
+    "title": "kalikapurana:v174",
+    "source": ""
+   },
+   {
+    "slug": "v175",
+    "title": "kalikapurana:v175",
+    "source": ""
+   },
+   {
+    "slug": "v176",
+    "title": "kalikapurana:v176",
+    "source": ""
+   },
+   {
+    "slug": "v177",
+    "title": "kalikapurana:v177",
+    "source": ""
+   },
+   {
+    "slug": "v178",
+    "title": "kalikapurana:v178",
+    "source": ""
+   },
+   {
+    "slug": "v179",
+    "title": "kalikapurana:v179",
+    "source": ""
+   },
+   {
+    "slug": "v180",
+    "title": "kalikapurana:v180",
+    "source": ""
+   },
+   {
+    "slug": "v181",
+    "title": "kalikapurana:v181",
+    "source": ""
+   },
+   {
+    "slug": "v182",
+    "title": "kalikapurana:v182",
+    "source": ""
+   },
+   {
+    "slug": "v183",
+    "title": "kalikapurana:v183",
+    "source": ""
+   },
+   {
+    "slug": "v184",
+    "title": "kalikapurana:v184",
+    "source": ""
+   },
+   {
+    "slug": "v185",
+    "title": "kalikapurana:v185",
+    "source": ""
+   },
+   {
+    "slug": "v186",
+    "title": "kalikapurana:v186",
+    "source": ""
+   },
+   {
+    "slug": "v187",
+    "title": "kalikapurana:v187",
+    "source": ""
+   },
+   {
+    "slug": "v188",
+    "title": "kalikapurana:v188",
+    "source": ""
+   },
+   {
+    "slug": "v189",
+    "title": "kalikapurana:v189",
+    "source": ""
+   },
+   {
+    "slug": "v190",
+    "title": "kalikapurana:v190",
+    "source": ""
+   },
+   {
+    "slug": "v191",
+    "title": "kalikapurana:v191",
+    "source": ""
+   },
+   {
+    "slug": "v192",
+    "title": "kalikapurana:v192",
+    "source": ""
+   },
+   {
+    "slug": "v193",
+    "title": "kalikapurana:v193",
+    "source": ""
+   },
+   {
+    "slug": "v194",
+    "title": "kalikapurana:v194",
+    "source": ""
+   },
+   {
+    "slug": "v195",
+    "title": "kalikapurana:v195",
+    "source": ""
+   },
+   {
+    "slug": "v196",
+    "title": "kalikapurana:v196",
+    "source": ""
+   },
+   {
+    "slug": "v197",
+    "title": "kalikapurana:v197",
+    "source": ""
+   },
+   {
+    "slug": "v198",
+    "title": "kalikapurana:v198",
+    "source": ""
+   },
+   {
+    "slug": "v199",
+    "title": "kalikapurana:v199",
+    "source": ""
+   },
+   {
+    "slug": "v200",
+    "title": "kalikapurana:v200",
+    "source": ""
+   },
+   {
+    "slug": "v1",
+    "title": "kiranatantra:v1",
+    "source": ""
+   },
+   {
+    "slug": "v2",
+    "title": "kiranatantra:v2",
+    "source": ""
+   },
+   {
+    "slug": "v1",
+    "title": "kriyakramadyotika:v1",
+    "source": ""
+   },
+   {
+    "slug": "v2",
+    "title": "kriyakramadyotika:v2",
+    "source": ""
+   },
+   {
+    "slug": "v3",
+    "title": "kriyakramadyotika:v3",
+    "source": ""
+   },
+   {
+    "slug": "v4",
+    "title": "kriyakramadyotika:v4",
+    "source": ""
+   },
+   {
+    "slug": "v5",
+    "title": "kriyakramadyotika:v5",
+    "source": ""
+   },
+   {
+    "slug": "v6",
+    "title": "kriyakramadyotika:v6",
+    "source": ""
+   },
+   {
+    "slug": "v7",
+    "title": "kriyakramadyotika:v7",
+    "source": ""
+   },
+   {
+    "slug": "v8",
+    "title": "kriyakramadyotika:v8",
+    "source": ""
+   },
+   {
+    "slug": "v9",
+    "title": "kriyakramadyotika:v9",
+    "source": ""
+   },
+   {
+    "slug": "v10",
+    "title": "kriyakramadyotika:v10",
+    "source": ""
+   },
+   {
+    "slug": "v11",
+    "title": "kriyakramadyotika:v11",
+    "source": ""
+   },
+   {
+    "slug": "v12",
+    "title": "kriyakramadyotika:v12",
+    "source": ""
+   },
+   {
+    "slug": "v13",
+    "title": "kriyakramadyotika:v13",
+    "source": ""
+   },
+   {
+    "slug": "v14",
+    "title": "kriyakramadyotika:v14",
+    "source": ""
+   },
+   {
+    "slug": "v15",
+    "title": "kriyakramadyotika:v15",
+    "source": ""
+   },
+   {
+    "slug": "v16",
+    "title": "kriyakramadyotika:v16",
+    "source": ""
+   },
+   {
+    "slug": "v17",
+    "title": "kriyakramadyotika:v17",
+    "source": ""
+   },
+   {
+    "slug": "v18",
+    "title": "kriyakramadyotika:v18",
+    "source": ""
+   },
+   {
+    "slug": "v19",
+    "title": "kriyakramadyotika:v19",
+    "source": ""
+   },
+   {
+    "slug": "v20",
+    "title": "kriyakramadyotika:v20",
+    "source": ""
+   },
+   {
+    "slug": "v21",
+    "title": "kriyakramadyotika:v21",
+    "source": ""
+   },
+   {
+    "slug": "v22",
+    "title": "kriyakramadyotika:v22",
+    "source": ""
+   },
+   {
+    "slug": "v23",
+    "title": "kriyakramadyotika:v23",
+    "source": ""
+   },
+   {
+    "slug": "v24",
+    "title": "kriyakramadyotika:v24",
+    "source": ""
+   },
+   {
+    "slug": "v25",
+    "title": "kriyakramadyotika:v25",
+    "source": ""
+   },
+   {
+    "slug": "v26",
+    "title": "kriyakramadyotika:v26",
+    "source": ""
+   },
+   {
+    "slug": "v27",
+    "title": "kriyakramadyotika:v27",
+    "source": ""
+   },
+   {
+    "slug": "v28",
+    "title": "kriyakramadyotika:v28",
+    "source": ""
+   },
+   {
+    "slug": "v29",
+    "title": "kriyakramadyotika:v29",
+    "source": ""
+   },
+   {
+    "slug": "v30",
+    "title": "kriyakramadyotika:v30",
+    "source": ""
+   },
+   {
+    "slug": "v31",
+    "title": "kriyakramadyotika:v31",
+    "source": ""
+   },
+   {
+    "slug": "v32",
+    "title": "kriyakramadyotika:v32",
+    "source": ""
+   },
+   {
+    "slug": "v33",
+    "title": "kriyakramadyotika:v33",
+    "source": ""
+   },
+   {
+    "slug": "v34",
+    "title": "kriyakramadyotika:v34",
+    "source": ""
+   },
+   {
+    "slug": "v35",
+    "title": "kriyakramadyotika:v35",
+    "source": ""
+   },
+   {
+    "slug": "v36",
+    "title": "kriyakramadyotika:v36",
+    "source": ""
+   },
+   {
+    "slug": "v37",
+    "title": "kriyakramadyotika:v37",
+    "source": ""
+   },
+   {
+    "slug": "v38",
+    "title": "kriyakramadyotika:v38",
+    "source": ""
+   },
+   {
+    "slug": "v39",
+    "title": "kriyakramadyotika:v39",
+    "source": ""
+   },
+   {
+    "slug": "v40",
+    "title": "kriyakramadyotika:v40",
+    "source": ""
+   },
+   {
+    "slug": "v41",
+    "title": "kriyakramadyotika:v41",
+    "source": ""
+   },
+   {
+    "slug": "v42",
+    "title": "kriyakramadyotika:v42",
+    "source": ""
+   },
+   {
+    "slug": "v43",
+    "title": "kriyakramadyotika:v43",
+    "source": ""
+   },
+   {
+    "slug": "v44",
+    "title": "kriyakramadyotika:v44",
+    "source": ""
+   },
+   {
+    "slug": "v45",
+    "title": "kriyakramadyotika:v45",
+    "source": ""
+   },
+   {
+    "slug": "v46",
+    "title": "kriyakramadyotika:v46",
+    "source": ""
+   },
+   {
+    "slug": "v47",
+    "title": "kriyakramadyotika:v47",
+    "source": ""
+   },
+   {
+    "slug": "v48",
+    "title": "kriyakramadyotika:v48",
+    "source": ""
+   },
+   {
+    "slug": "v49",
+    "title": "kriyakramadyotika:v49",
+    "source": ""
+   },
+   {
+    "slug": "v50",
+    "title": "kriyakramadyotika:v50",
+    "source": ""
+   },
+   {
+    "slug": "v51",
+    "title": "kriyakramadyotika:v51",
+    "source": ""
+   },
+   {
+    "slug": "v52",
+    "title": "kriyakramadyotika:v52",
+    "source": ""
+   },
+   {
+    "slug": "v53",
+    "title": "kriyakramadyotika:v53",
+    "source": ""
+   },
+   {
+    "slug": "v54",
+    "title": "kriyakramadyotika:v54",
+    "source": ""
+   },
+   {
+    "slug": "v55",
+    "title": "kriyakramadyotika:v55",
+    "source": ""
+   },
+   {
+    "slug": "v56",
+    "title": "kriyakramadyotika:v56",
+    "source": ""
+   },
+   {
+    "slug": "v57",
+    "title": "kriyakramadyotika:v57",
+    "source": ""
+   },
+   {
+    "slug": "v58",
+    "title": "kriyakramadyotika:v58",
+    "source": ""
+   },
+   {
+    "slug": "v59",
+    "title": "kriyakramadyotika:v59",
+    "source": ""
+   },
+   {
+    "slug": "v60",
+    "title": "kriyakramadyotika:v60",
+    "source": ""
+   },
+   {
+    "slug": "v61",
+    "title": "kriyakramadyotika:v61",
+    "source": ""
+   },
+   {
+    "slug": "v62",
+    "title": "kriyakramadyotika:v62",
+    "source": ""
+   },
+   {
+    "slug": "v63",
+    "title": "kriyakramadyotika:v63",
+    "source": ""
+   },
+   {
+    "slug": "v64",
+    "title": "kriyakramadyotika:v64",
+    "source": ""
+   },
+   {
+    "slug": "v65",
+    "title": "kriyakramadyotika:v65",
+    "source": ""
+   },
+   {
+    "slug": "v66",
+    "title": "kriyakramadyotika:v66",
+    "source": ""
+   },
+   {
+    "slug": "v67",
+    "title": "kriyakramadyotika:v67",
+    "source": ""
+   },
+   {
+    "slug": "v68",
+    "title": "kriyakramadyotika:v68",
+    "source": ""
+   },
+   {
+    "slug": "v69",
+    "title": "kriyakramadyotika:v69",
+    "source": ""
+   },
+   {
+    "slug": "v70",
+    "title": "kriyakramadyotika:v70",
+    "source": ""
+   },
+   {
+    "slug": "v71",
+    "title": "kriyakramadyotika:v71",
+    "source": ""
+   },
+   {
+    "slug": "v72",
+    "title": "kriyakramadyotika:v72",
+    "source": ""
+   },
+   {
+    "slug": "v73",
+    "title": "kriyakramadyotika:v73",
+    "source": ""
+   },
+   {
+    "slug": "v74",
+    "title": "kriyakramadyotika:v74",
+    "source": ""
+   },
+   {
+    "slug": "v75",
+    "title": "kriyakramadyotika:v75",
+    "source": ""
+   },
+   {
+    "slug": "v76",
+    "title": "kriyakramadyotika:v76",
+    "source": ""
+   },
+   {
+    "slug": "v77",
+    "title": "kriyakramadyotika:v77",
+    "source": ""
+   },
+   {
+    "slug": "v78",
+    "title": "kriyakramadyotika:v78",
+    "source": ""
+   },
+   {
+    "slug": "v79",
+    "title": "kriyakramadyotika:v79",
+    "source": ""
+   },
+   {
+    "slug": "v80",
+    "title": "kriyakramadyotika:v80",
+    "source": ""
+   },
+   {
+    "slug": "v81",
+    "title": "kriyakramadyotika:v81",
+    "source": ""
+   },
+   {
+    "slug": "v82",
+    "title": "kriyakramadyotika:v82",
+    "source": ""
+   },
+   {
+    "slug": "v83",
+    "title": "kriyakramadyotika:v83",
+    "source": ""
+   },
+   {
+    "slug": "v84",
+    "title": "kriyakramadyotika:v84",
+    "source": ""
+   },
+   {
+    "slug": "v85",
+    "title": "kriyakramadyotika:v85",
+    "source": ""
+   },
+   {
+    "slug": "k40",
+    "title": "ipvv:V2L:k40",
+    "source": ""
+   },
+   {
+    "slug": "v16",
+    "title": "makutottara:v16",
+    "source": ""
+   },
+   {
+    "slug": "v17",
+    "title": "makutottara:v17",
+    "source": ""
+   },
+   {
+    "slug": "v18",
+    "title": "makutottara:v18",
+    "source": ""
+   },
+   {
+    "slug": "v19",
+    "title": "makutottara:v19",
+    "source": ""
+   },
+   {
+    "slug": "v20",
+    "title": "makutottara:v20",
+    "source": ""
+   },
+   {
+    "slug": "v21",
+    "title": "makutottara:v21",
+    "source": ""
+   },
+   {
+    "slug": "v22",
+    "title": "makutottara:v22",
+    "source": ""
+   },
+   {
+    "slug": "v23",
+    "title": "makutottara:v23",
+    "source": ""
+   },
+   {
+    "slug": "v24",
+    "title": "makutottara:v24",
+    "source": ""
+   },
+   {
+    "slug": "v25",
+    "title": "makutottara:v25",
+    "source": ""
+   },
+   {
+    "slug": "v26",
+    "title": "makutottara:v26",
+    "source": ""
+   },
+   {
+    "slug": "v27",
+    "title": "makutottara:v27",
+    "source": ""
+   },
+   {
+    "slug": "v28",
+    "title": "makutottara:v28",
+    "source": ""
+   },
+   {
+    "slug": "v29",
+    "title": "makutottara:v29",
+    "source": ""
+   },
+   {
+    "slug": "v30",
+    "title": "makutottara:v30",
+    "source": ""
+   },
+   {
+    "slug": "v31",
+    "title": "makutottara:v31",
+    "source": ""
+   },
+   {
+    "slug": "v32",
+    "title": "makutottara:v32",
+    "source": ""
+   },
+   {
+    "slug": "v33",
+    "title": "makutottara:v33",
+    "source": ""
+   },
+   {
+    "slug": "v34",
+    "title": "makutottara:v34",
+    "source": ""
+   },
+   {
+    "slug": "v35",
+    "title": "makutottara:v35",
+    "source": ""
+   },
+   {
+    "slug": "v36",
+    "title": "makutottara:v36",
+    "source": ""
+   },
+   {
+    "slug": "v37",
+    "title": "makutottara:v37",
+    "source": ""
+   },
+   {
+    "slug": "v38",
+    "title": "makutottara:v38",
+    "source": ""
+   },
+   {
+    "slug": "v39",
+    "title": "makutottara:v39",
+    "source": ""
+   },
+   {
+    "slug": "v40",
+    "title": "makutottara:v40",
+    "source": ""
+   },
+   {
+    "slug": "v41",
+    "title": "makutottara:v41",
+    "source": ""
+   },
+   {
+    "slug": "v42",
+    "title": "makutottara:v42",
+    "source": ""
+   },
+   {
+    "slug": "v43",
+    "title": "makutottara:v43",
+    "source": ""
+   },
+   {
+    "slug": "v44",
+    "title": "makutottara:v44",
+    "source": ""
+   },
+   {
+    "slug": "v45",
+    "title": "makutottara:v45",
+    "source": ""
+   },
+   {
+    "slug": "v46",
+    "title": "makutottara:v46",
+    "source": ""
+   },
+   {
+    "slug": "v47",
+    "title": "makutottara:v47",
+    "source": ""
+   },
+   {
+    "slug": "v48",
+    "title": "makutottara:v48",
+    "source": ""
+   },
+   {
+    "slug": "v49",
+    "title": "makutottara:v49",
+    "source": ""
+   },
+   {
+    "slug": "v50",
+    "title": "makutottara:v50",
+    "source": ""
+   },
+   {
+    "slug": "v51",
+    "title": "makutottara:v51",
+    "source": ""
+   },
+   {
+    "slug": "v52",
+    "title": "makutottara:v52",
+    "source": ""
+   },
+   {
+    "slug": "v53",
+    "title": "makutottara:v53",
+    "source": ""
+   },
+   {
+    "slug": "v54",
+    "title": "makutottara:v54",
+    "source": ""
+   },
+   {
+    "slug": "v55",
+    "title": "makutottara:v55",
+    "source": ""
+   },
+   {
+    "slug": "v56",
+    "title": "makutottara:v56",
+    "source": ""
+   },
+   {
+    "slug": "v57",
+    "title": "makutottara:v57",
+    "source": ""
+   },
+   {
+    "slug": "v58",
+    "title": "makutottara:v58",
+    "source": ""
+   },
+   {
+    "slug": "v59",
+    "title": "makutottara:v59",
+    "source": ""
+   },
+   {
+    "slug": "v60",
+    "title": "makutottara:v60",
+    "source": ""
+   },
+   {
+    "slug": "v61",
+    "title": "makutottara:v61",
+    "source": ""
+   },
+   {
+    "slug": "v62",
+    "title": "makutottara:v62",
+    "source": ""
+   },
+   {
+    "slug": "v63",
+    "title": "makutottara:v63",
+    "source": ""
+   },
+   {
+    "slug": "v64",
+    "title": "makutottara:v64",
+    "source": ""
+   },
+   {
+    "slug": "v65",
+    "title": "makutottara:v65",
+    "source": ""
+   },
+   {
+    "slug": "v66",
+    "title": "makutottara:v66",
+    "source": ""
+   }
+  ]
  }
 }

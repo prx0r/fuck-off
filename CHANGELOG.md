@@ -1005,3 +1005,11 @@ Per the master devplan Phase 1 (the highest-leverage gap). Reuse, don't rebuild:
 - **`scripts/translation-audit-compiler.py`** — the SPEC-16 §30 CLI: source+translation → translation-proof.json
   (proof vector + gate + citecheck). Applies to all 49 real gold passages (all pass).
 - The integration is REAL: patala produces the gold; I validate it. 44 kernels, 90 experiments.
+
+## 2026-08-14 (projection DAG — the SPEC-00 §22 per-artifact incremental guarantee)
+- **`lib/projection_dag.py`** + `validate-projection-dag.py` (6/6) — the projection DAG: ONE graph that is
+  the correctness graph + staleness propagator + incremental-rebuild scheduler, per-artifact. The hard
+  requirement (SPEC-00 §23/§49): **a new doc must NOT rebuild the whole corpus** — now real and tested.
+  Adding/changing ONE work rebuilds ONLY its artifact; the other N-1 are a no-op.
+- Fixed a test bug (dict-vs-set comparison), not a logic bug — the DAG was correct.
+- 45 kernels, 91 experiments.

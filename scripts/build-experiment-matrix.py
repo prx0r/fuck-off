@@ -112,6 +112,7 @@ MATRIX = {
   "validate-hermes-exec.py": ("ALL", "real AbhT_1.52 kārikā via agentic hermes chat", "Verified Epistemic OS", "hermes-generation", "the Hermes-for-GENERATION fix: agentic hermes chat (not blind -z) generates a real translation — 6/6"),
   "ingest-ipvv-gold.py": ("L03", "49 real patala IPVV gold passages", "Verified Epistemic OS", "ipvv-gold-bridge", "the integration bridge: validate the REAL patala IPVV gold with my TranslationProof + integrity gate — 5/5"),
   "validate-factory-pool.py": ("ALL", "real Ahnika-1 karikas (6 works)", "Verified Epistemic OS", "parallel-factory", "the parallel factory worker pool: T1/L0/L2/L200 run concurrently, DAG-gated, next_action-driven — 10/10"),
+  "validate-projection-dag.py": ("L06", "simulated work-page projection DAG", "Verified Epistemic OS", "projection-dag", "per-artifact incremental rebuild: a new doc rebuilds ONLY its artifact, NOT the whole corpus (SPEC-00 22) — 6/6"),
   "run-tantraloka-autonomous.py": ("ALL", "real Ahnika-1 karikas + next_action + Hermes", "Verified Epistemic OS", "tantraloka-autonomous", "the autonomous full-chain runner: next_action schedules WHAT, real Hermes generates AbhT_1.52, proof on real output, product stack compiles — 8/8"),
   "rebuild-on-commit.py": ("L06", "real corpus inputs", "Verified Epistemic OS", "compute-on-write", "compute-on-write incremental rebuild (SPEC-00 §4): only changed inputs recompile; unchanged = no-op — closes the four-truths read-surface gap"),
 }
