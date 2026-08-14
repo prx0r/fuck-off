@@ -698,3 +698,13 @@ frontier pattern + SPEC-00 §15/§16/§17. 4 new kernels, 4 new validators, L06+
   JSON-LD + sitemap + 31 static HTML pages. Unifies human/search-engine/agent/API graphs.
 - **Tests 59/59. Theatre 31 PROVEN real / 27 mech / 0 unproven (58 audited). 22 kernels. Matrix 59.**
 - L06+L07 STATUS: BUILT (STATE.yaml + layers/ + TRACEABILITY). state.json updated.
+
+## 2026-08-14 (theatre-check audit extended to all 22 kernels + skills README fixed)
+- **`scripts/theatre-check.py`** extended from 16 → **22 kernels** (added essay_ingest, patala_product,
+  context_compiler, fts_search, bundle_router, seo). Kernel audit now: **16 PROVEN real / 6 mechanism
+  (synthetic) / 0 unproven**. The 6 mechanism-only are the legitimately-synthetic demos (education,
+  organism, organism_loop, pedagogy, evolve, agent_delivery).
+- **`skills/README.md`** fixed — was missing the theatre-check skill from the table + the anti-theatre
+  rule. Now lists both vcreate + theatre-check with mechanisms + the "run theatre-check before claiming
+  done" rule.
+- theatre-check-all (59-experiment audit) still clean: 31 PROVEN / 27 mechanism / 0 unproven.

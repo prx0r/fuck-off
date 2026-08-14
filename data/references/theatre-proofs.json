@@ -1,6 +1,6 @@
 {
- "count": 16,
- "proven": 10,
+ "count": 22,
+ "proven": 16,
  "mechanism_only": 6,
  "unproven": 0,
  "proofs": [
@@ -16,6 +16,17 @@
    "proof_hash": "77ff55ce50b041bf"
   },
   {
+   "kernel": "bundle_router",
+   "doc_claim": "compiled agent bundles + MCP 8-tool adapter + R2 emission (16/16)",
+   "test_script": "validate-bundle-router.py",
+   "test_exists": true,
+   "test_passes": true,
+   "exit_code": 0,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "02baf3c1e7961c97"
+  },
+  {
    "kernel": "certificate",
    "doc_claim": "certification weight validated",
    "test_script": "validate-kernels.py",
@@ -25,6 +36,17 @@
    "uses_real_data": true,
    "verdict": "PROVEN",
    "proof_hash": "e5ee13e7384defc8"
+  },
+  {
+   "kernel": "context_compiler",
+   "doc_claim": "projection compiler: canonical graph \u2192 immutable per-entity bundles (12/12)",
+   "test_script": "validate-context-compiler.py",
+   "test_exists": true,
+   "test_passes": true,
+   "exit_code": 0,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "345b6bea38cc0f6b"
   },
   {
    "kernel": "discovery",
@@ -60,6 +82,17 @@
    "proof_hash": "05e6adaae4185138"
   },
   {
+   "kernel": "essay_ingest",
+   "doc_claim": "9-stage essay-as-derivation-input pipeline (real Rati\u00e9, 8/8)",
+   "test_script": "validate-essay-ingest.py",
+   "test_exists": true,
+   "test_passes": true,
+   "exit_code": 0,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "77cbeb9756e9c5dc"
+  },
+  {
    "kernel": "evolve",
    "doc_claim": "MAP-Elites evolution validated",
    "test_script": "validate-evolve.py",
@@ -69,6 +102,17 @@
    "uses_real_data": false,
    "verdict": "PROVEN-MECHANISM",
    "proof_hash": "366069951682167a"
+  },
+  {
+   "kernel": "fts_search",
+   "doc_claim": "Postgres-FTS-equivalent search baseline + benchmark (9/9)",
+   "test_script": "validate-fts-baseline.py",
+   "test_exists": true,
+   "test_passes": true,
+   "exit_code": 0,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "53934e68bf6ef155"
   },
   {
    "kernel": "organism",
@@ -91,6 +135,17 @@
    "uses_real_data": false,
    "verdict": "PROVEN-MECHANISM",
    "proof_hash": "0f759bb16ef7faf9"
+  },
+  {
+   "kernel": "patala_product",
+   "doc_claim": "v3 4-family product stack assembled from all kernels (real IPK, 13/13)",
+   "test_script": "validate-product-stack.py",
+   "test_exists": true,
+   "test_passes": true,
+   "exit_code": 0,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "966105cf6d5fec84"
   },
   {
    "kernel": "pedagogy",
@@ -157,6 +212,17 @@
    "uses_real_data": true,
    "verdict": "PROVEN",
    "proof_hash": "80d844bdd530d682"
+  },
+  {
+   "kernel": "seo",
+   "doc_claim": "canonical URLs + JSON-LD + sitemap + static 0-JS HTML (13/13)",
+   "test_script": "validate-seo-astro.py",
+   "test_exists": true,
+   "test_passes": true,
+   "exit_code": 0,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "90fc807027f885a1"
   },
   {
    "kernel": "staleness",

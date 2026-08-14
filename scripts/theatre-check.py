@@ -34,6 +34,12 @@ KERNEL_TESTS = {
     "discovery":     ("validate-kernels.py", True),
     "evolve":        ("validate-evolve.py", False),
     "agent_delivery":("validate-agent-delivery.py", False),
+    "essay_ingest":  ("validate-essay-ingest.py", True),
+    "patala_product":("validate-product-stack.py", True),
+    "context_compiler":("validate-context-compiler.py", True),
+    "fts_search":    ("validate-fts-baseline.py", True),
+    "bundle_router": ("validate-bundle-router.py", True),
+    "seo":           ("validate-seo-astro.py", True),
 }
 
 # docs claims (from LAB-REVIEW / KERNELS-INDEX) to verify against tests
@@ -54,6 +60,12 @@ DOC_CLAIMS = {
     "discovery": "research value validated",
     "evolve": "MAP-Elites evolution validated",
     "agent_delivery": "task contract + human gate validated",
+    "essay_ingest": "9-stage essay-as-derivation-input pipeline (real Ratié, 8/8)",
+    "patala_product": "v3 4-family product stack assembled from all kernels (real IPK, 13/13)",
+    "context_compiler": "projection compiler: canonical graph → immutable per-entity bundles (12/12)",
+    "fts_search": "Postgres-FTS-equivalent search baseline + benchmark (9/9)",
+    "bundle_router": "compiled agent bundles + MCP 8-tool adapter + R2 emission (16/16)",
+    "seo": "canonical URLs + JSON-LD + sitemap + static 0-JS HTML (13/13)",
 }
 
 def run(script):
