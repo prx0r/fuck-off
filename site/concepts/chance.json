@@ -3,7 +3,7 @@
   "id": "ip:concept:chance",
   "label": "Chance",
   "type": "concept",
-  "ceiling": "MACHINE_PROPOSED"
+  "ceiling": null
  },
  "canonical_url": "ip:concept:chance",
  "content": {
@@ -11,7 +11,7 @@
    "id": "ip:concept:chance",
    "label": "Chance",
    "type": "concept",
-   "ceiling": "MACHINE_PROPOSED"
+   "ceiling": null
   },
   "definition": "Chance \u2014 canonical concept node",
   "positions": [],
@@ -2211,6 +2211,6 @@
   "view": "context",
   "budget": null,
   "depth": 1,
-  "bundle_hash": "87a55fb32eb7efa5"
+  "bundle_hash": "9d930f9ee1d0e442"
  }
 }

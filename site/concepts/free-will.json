@@ -3,7 +3,7 @@
   "id": "ip:concept:free_will",
   "label": "Free Will",
   "type": "concept",
-  "ceiling": "MACHINE_PROPOSED"
+  "ceiling": null
  },
  "canonical_url": "ip:concept:free_will",
  "content": {
@@ -11,7 +11,7 @@
    "id": "ip:concept:free_will",
    "label": "Free Will",
    "type": "concept",
-   "ceiling": "MACHINE_PROPOSED"
+   "ceiling": null
   },
   "definition": "Free Will \u2014 canonical concept node",
   "positions": [],
@@ -1461,6 +1461,6 @@
   "view": "context",
   "budget": null,
   "depth": 1,
-  "bundle_hash": "9c37445a73760d65"
+  "bundle_hash": "075e4b695801be88"
  }
 }

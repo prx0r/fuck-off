@@ -849,3 +849,19 @@ Autonomous build of 7 infrastructure kernels inspired by the patala v2/v3 GEMs +
 - **`validate-tantraloka-vs-dyczkowski.py` REWRITTEN** — was fabricating agreement; now EXTRACTS
   Dyczkowski's real vol1 text and measures honestly (0.1 agreement + divergence surfaced).
 - The mechanism-only validators were already honestly flagged PROVEN-MECHANISM by the audit — that part was correct.
+
+## 2026-08-14 (COMPLETENESS AUDIT — 4 parallel agents + the fixes they revealed)
+Ran a full 4-agent inventory (specs, kernels/experiments, ecosystem, layers/vision). Findings + fixes:
+- **REAL vs SYNTHETIC truth:** 19 REAL / 21 SYNTHETIC / 1 THEATRE validators (strict data-flow). 24 of 39
+  kernels have no real-data validator. 5 docs-referenced kernels don't exist (misconception, question_growth,
+  enquiry, design_provenance, graph_stable).
+- **Fixed the 4 failing tests:** the graph had NO epistemic ceilings (all 490 nodes bare) — applied honest
+  MACHINE_PROPOSED ceilings (apply-epistemic-ceilings.py, the SPEC-02-to-graph gap). Fixed state.json drift
+  (kernels 38→40). context_compiler 12/12, bundle_router 16/16 now genuinely pass. **82/82 tests.**
+- **Wired the #1 unused asset:** `pushing_miner.py` (7/7) reads the 35 pushing-tantraloka LOGICVID sessions
+  (never before read) → 1,510 cruxes + 6,040 claims + 78 objections grounded in kārikās (TĀ 1/52-55). The
+  crux compass finally feeds the organism.
+- **`hermes_exec.py`** (the real `hermes -z` execution path) added to lib/ + KERNELS-INDEX (unvalidated, flagged).
+- Honest state: L08 domain-expansions EMPTY (vision-only, claimed VALIDATED wrongly); layers/*.md STALE
+  (says NOT_STARTED for built layers); two competing layer taxonomies (00-09 vs L00-L12) to reconcile.
+- **40 kernels, 83 experiments, 82/82 tests, theatre 34 PROVEN / 44 mech / 0 unproven.**

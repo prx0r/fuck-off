@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://patala.org/index.html</loc></url>
-  <url><loc>https://patala.org/concept/second-law</loc></url>
-  <url><loc>https://patala.org/concept/indeterminism</loc></url>
-  <url><loc>https://patala.org/concept/entropy</loc></url>
-  <url><loc>https://patala.org/concept/wave-function</loc></url>
-  <url><loc>https://patala.org/concept/entanglement</loc></url>
-  <url><loc>https://patala.org/concept/mind-body</loc></url>
-  <url><loc>https://patala.org/concept/agency</loc></url>
-  <url><loc>https://patala.org/concept/measurement</loc></url>
-  <url><loc>https://patala.org/concept/information-theory</loc></url>
-  <url><loc>https://patala.org/concept/life</loc></url>
-  <url><loc>https://patala.org/concept/determinism</loc></url>
-  <url><loc>https://patala.org/concept/belief</loc></url>
-  <url><loc>https://patala.org/concept/chance</loc></url>
-  <url><loc>https://patala.org/concept/free-will</loc></url>
-  <url><loc>https://patala.org/concept/knowledge</loc></url>
-  <url><loc>https://patala.org/concept/morality</loc></url>
-  <url><loc>https://patala.org/concept/qualia</loc></url>
-  <url><loc>https://patala.org/concept/truth</loc></url>
-  <url><loc>https://patala.org/concept/superposition</loc></url>
-  <url><loc>https://patala.org/concept/mind</loc></url>
-  <url><loc>https://patala.org/concept/consciousness</loc></url>
-  <url><loc>https://patala.org/concept/quantum-mechanics</loc></url>
-  <url><loc>https://patala.org/concept/computation</loc></url>
-  <url><loc>https://patala.org/concept/evolution</loc></url>
-  <url><loc>https://patala.org/concept/causality</loc></url>
-  <url><loc>https://patala.org/concept/responsibility</loc></url>
-  <url><loc>https://patala.org/concept/randomness</loc></url>
-  <url><loc>https://patala.org/concept/probability</loc></url>
   <url><loc>https://patala.org/concept/value</loc></url>
-  <url><loc>https://patala.org/concept/arrow-of-time</loc></url>
+  <url><loc>https://patala.org/concept/probability</loc></url>
+  <url><loc>https://patala.org/concept/chance</loc></url>
+  <url><loc>https://patala.org/concept/measurement</loc></url>
+  <url><loc>https://patala.org/concept/entropy</loc></url>
+  <url><loc>https://patala.org/concept/superposition</loc></url>
   <url><loc>https://patala.org/concept/information</loc></url>
+  <url><loc>https://patala.org/concept/arrow-of-time</loc></url>
+  <url><loc>https://patala.org/concept/randomness</loc></url>
+  <url><loc>https://patala.org/concept/indeterminism</loc></url>
+  <url><loc>https://patala.org/concept/responsibility</loc></url>
+  <url><loc>https://patala.org/concept/evolution</loc></url>
+  <url><loc>https://patala.org/concept/free-will</loc></url>
+  <url><loc>https://patala.org/concept/qualia</loc></url>
+  <url><loc>https://patala.org/concept/mind-body</loc></url>
+  <url><loc>https://patala.org/concept/mind</loc></url>
+  <url><loc>https://patala.org/concept/wave-function</loc></url>
+  <url><loc>https://patala.org/concept/second-law</loc></url>
+  <url><loc>https://patala.org/concept/knowledge</loc></url>
+  <url><loc>https://patala.org/concept/causality</loc></url>
+  <url><loc>https://patala.org/concept/computation</loc></url>
+  <url><loc>https://patala.org/concept/belief</loc></url>
+  <url><loc>https://patala.org/concept/life</loc></url>
+  <url><loc>https://patala.org/concept/consciousness</loc></url>
+  <url><loc>https://patala.org/concept/agency</loc></url>
+  <url><loc>https://patala.org/concept/quantum-mechanics</loc></url>
+  <url><loc>https://patala.org/concept/truth</loc></url>
+  <url><loc>https://patala.org/concept/entanglement</loc></url>
+  <url><loc>https://patala.org/concept/determinism</loc></url>
+  <url><loc>https://patala.org/concept/information-theory</loc></url>
+  <url><loc>https://patala.org/concept/morality</loc></url>
 </urlset>

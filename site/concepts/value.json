@@ -3,7 +3,7 @@
   "id": "ip:concept:value",
   "label": "Value",
   "type": "concept",
-  "ceiling": "MACHINE_PROPOSED"
+  "ceiling": null
  },
  "canonical_url": "ip:concept:value",
  "content": {
@@ -11,7 +11,7 @@
    "id": "ip:concept:value",
    "label": "Value",
    "type": "concept",
-   "ceiling": "MACHINE_PROPOSED"
+   "ceiling": null
   },
   "definition": "Value \u2014 canonical concept node",
   "positions": [],
@@ -3511,6 +3511,6 @@
   "view": "context",
   "budget": null,
   "depth": 1,
-  "bundle_hash": "5214f5a92ae35ab9"
+  "bundle_hash": "a1bc035b8dab802a"
  }
 }

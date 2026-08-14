@@ -2,134 +2,24 @@
  "concepts": 31,
  "rows": [
   {
-   "id": "ip:concept:second_law",
-   "label": "Second Law",
+   "id": "ip:concept:value",
+   "label": "Value",
    "neighbors": 30,
    "relations": [
     "co_occurs_with"
    ],
-   "grounding_docs": 93,
-   "epistemic_ceiling": "SCHOLARLY_CORROBORATED",
-   "bundle_usable": true
-  },
-  {
-   "id": "ip:concept:indeterminism",
-   "label": "Indeterminism",
-   "neighbors": 30,
-   "relations": [
-    "co_occurs_with"
-   ],
-   "grounding_docs": 96,
-   "epistemic_ceiling": "SCHOLARLY_CORROBORATED_PRELIMINARY",
-   "bundle_usable": true
-  },
-  {
-   "id": "ip:concept:entropy",
-   "label": "Entropy",
-   "neighbors": 30,
-   "relations": [
-    "co_occurs_with"
-   ],
-   "grounding_docs": 143,
-   "epistemic_ceiling": "SCHOLARLY_CORROBORATED",
-   "bundle_usable": true
-  },
-  {
-   "id": "ip:concept:wave_function",
-   "label": "Wave Function",
-   "neighbors": 30,
-   "relations": [
-    "co_occurs_with"
-   ],
-   "grounding_docs": 117,
-   "epistemic_ceiling": "SCHOLARLY_CORROBORATED",
-   "bundle_usable": true
-  },
-  {
-   "id": "ip:concept:entanglement",
-   "label": "Entanglement",
-   "neighbors": 30,
-   "relations": [
-    "co_occurs_with"
-   ],
-   "grounding_docs": 67,
-   "epistemic_ceiling": "SCHOLARLY_CORROBORATED",
-   "bundle_usable": true
-  },
-  {
-   "id": "ip:concept:mind_body",
-   "label": "Mind Body",
-   "neighbors": 30,
-   "relations": [
-    "co_occurs_with"
-   ],
-   "grounding_docs": 3,
+   "grounding_docs": 305,
    "epistemic_ceiling": "MACHINE_PROPOSED",
    "bundle_usable": true
   },
   {
-   "id": "ip:concept:agency",
-   "label": "Agency",
+   "id": "ip:concept:probability",
+   "label": "Probability",
    "neighbors": 30,
    "relations": [
     "co_occurs_with"
    ],
-   "grounding_docs": 56,
-   "epistemic_ceiling": "MACHINE_PROPOSED",
-   "bundle_usable": true
-  },
-  {
-   "id": "ip:concept:measurement",
-   "label": "Measurement",
-   "neighbors": 30,
-   "relations": [
-    "co_occurs_with"
-   ],
-   "grounding_docs": 201,
-   "epistemic_ceiling": "SCHOLARLY_CORROBORATED",
-   "bundle_usable": true
-  },
-  {
-   "id": "ip:concept:information_theory",
-   "label": "Information Theory",
-   "neighbors": 29,
-   "relations": [
-    "co_occurs_with"
-   ],
-   "grounding_docs": 44,
-   "epistemic_ceiling": "SCHOLARLY_CORROBORATED",
-   "bundle_usable": true
-  },
-  {
-   "id": "ip:concept:life",
-   "label": "Life",
-   "neighbors": 30,
-   "relations": [
-    "co_occurs_with"
-   ],
-   "grounding_docs": 220,
-   "epistemic_ceiling": "SCHOLARLY_CORROBORATED",
-   "bundle_usable": true
-  },
-  {
-   "id": "ip:concept:determinism",
-   "label": "Determinism",
-   "neighbors": 30,
-   "relations": [
-    "co_occurs_with"
-   ],
-   "grounding_docs": 150,
-   "epistemic_ceiling": "SCHOLARLY_CORROBORATED",
-   "bundle_usable": true
-  },
-  {
-   "id": "ip:concept:belief",
-   "label": "Belief",
-   "neighbors": 30,
-   "relations": [
-    "co_occurs_with"
-   ],
-   "grounding_docs": 119,
+   "grounding_docs": 244,
    "epistemic_ceiling": "MACHINE_PROPOSED",
    "bundle_usable": true
   },
@@ -145,52 +35,19 @@
    "bundle_usable": true
   },
   {
-   "id": "ip:concept:free_will",
-   "label": "Free Will",
+   "id": "ip:concept:measurement",
+   "label": "Measurement",
    "neighbors": 30,
    "relations": [
     "co_occurs_with"
    ],
-   "grounding_docs": 104,
+   "grounding_docs": 201,
    "epistemic_ceiling": "MACHINE_PROPOSED",
    "bundle_usable": true
   },
   {
-   "id": "ip:concept:knowledge",
-   "label": "Knowledge",
-   "neighbors": 30,
-   "relations": [
-    "co_occurs_with"
-   ],
-   "grounding_docs": 266,
-   "epistemic_ceiling": "SCHOLARLY_CORROBORATED",
-   "bundle_usable": true
-  },
-  {
-   "id": "ip:concept:morality",
-   "label": "Morality",
-   "neighbors": 29,
-   "relations": [
-    "co_occurs_with"
-   ],
-   "grounding_docs": 20,
-   "epistemic_ceiling": "MACHINE_PROPOSED",
-   "bundle_usable": true
-  },
-  {
-   "id": "ip:concept:qualia",
-   "label": "Qualia",
-   "neighbors": 27,
-   "relations": [
-    "co_occurs_with"
-   ],
-   "grounding_docs": 13,
-   "epistemic_ceiling": "MACHINE_PROPOSED",
-   "bundle_usable": true
-  },
-  {
-   "id": "ip:concept:truth",
-   "label": "Truth",
+   "id": "ip:concept:entropy",
+   "label": "Entropy",
    "neighbors": 30,
    "relations": [
     "co_occurs_with"
@@ -207,73 +64,51 @@
     "co_occurs_with"
    ],
    "grounding_docs": 87,
-   "epistemic_ceiling": "SCHOLARLY_CORROBORATED",
+   "epistemic_ceiling": "MACHINE_PROPOSED",
    "bundle_usable": true
   },
   {
-   "id": "ip:concept:mind",
-   "label": "Mind",
+   "id": "ip:concept:information",
+   "label": "Information",
    "neighbors": 30,
    "relations": [
     "co_occurs_with"
    ],
-   "grounding_docs": 287,
-   "epistemic_ceiling": "SCHOLARLY_CORROBORATED_PRELIMINARY",
+   "grounding_docs": 294,
+   "epistemic_ceiling": "MACHINE_PROPOSED",
    "bundle_usable": true
   },
   {
-   "id": "ip:concept:consciousness",
-   "label": "Consciousness",
+   "id": "ip:concept:arrow_of_time",
+   "label": "Arrow Of Time",
+   "neighbors": 29,
+   "relations": [
+    "co_occurs_with"
+   ],
+   "grounding_docs": 23,
+   "epistemic_ceiling": "MACHINE_PROPOSED",
+   "bundle_usable": true
+  },
+  {
+   "id": "ip:concept:randomness",
+   "label": "Randomness",
    "neighbors": 30,
    "relations": [
     "co_occurs_with"
    ],
-   "grounding_docs": 127,
-   "epistemic_ceiling": "SCHOLARLY_CORROBORATED_PRELIMINARY",
+   "grounding_docs": 87,
+   "epistemic_ceiling": "MACHINE_PROPOSED",
    "bundle_usable": true
   },
   {
-   "id": "ip:concept:quantum_mechanics",
-   "label": "Quantum Mechanics",
+   "id": "ip:concept:indeterminism",
+   "label": "Indeterminism",
    "neighbors": 30,
    "relations": [
     "co_occurs_with"
    ],
-   "grounding_docs": 210,
-   "epistemic_ceiling": "SCHOLARLY_CORROBORATED",
-   "bundle_usable": true
-  },
-  {
-   "id": "ip:concept:computation",
-   "label": "Computation",
-   "neighbors": 30,
-   "relations": [
-    "co_occurs_with"
-   ],
-   "grounding_docs": 63,
-   "epistemic_ceiling": "SCHOLARLY_CORROBORATED",
-   "bundle_usable": true
-  },
-  {
-   "id": "ip:concept:evolution",
-   "label": "Evolution",
-   "neighbors": 30,
-   "relations": [
-    "co_occurs_with"
-   ],
-   "grounding_docs": 206,
-   "epistemic_ceiling": "SCHOLARLY_CORROBORATED",
-   "bundle_usable": true
-  },
-  {
-   "id": "ip:concept:causality",
-   "label": "Causality",
-   "neighbors": 30,
-   "relations": [
-    "co_occurs_with"
-   ],
-   "grounding_docs": 118,
-   "epistemic_ceiling": "SCHOLARLY_CORROBORATED",
+   "grounding_docs": 96,
+   "epistemic_ceiling": "MACHINE_PROPOSED",
    "bundle_usable": true
   },
   {
@@ -288,58 +123,223 @@
    "bundle_usable": true
   },
   {
-   "id": "ip:concept:randomness",
-   "label": "Randomness",
+   "id": "ip:concept:evolution",
+   "label": "Evolution",
    "neighbors": 30,
    "relations": [
     "co_occurs_with"
    ],
-   "grounding_docs": 87,
-   "epistemic_ceiling": "SCHOLARLY_CORROBORATED",
-   "bundle_usable": true
-  },
-  {
-   "id": "ip:concept:probability",
-   "label": "Probability",
-   "neighbors": 30,
-   "relations": [
-    "co_occurs_with"
-   ],
-   "grounding_docs": 244,
-   "epistemic_ceiling": "SCHOLARLY_CORROBORATED",
-   "bundle_usable": true
-  },
-  {
-   "id": "ip:concept:value",
-   "label": "Value",
-   "neighbors": 30,
-   "relations": [
-    "co_occurs_with"
-   ],
-   "grounding_docs": 305,
+   "grounding_docs": 206,
    "epistemic_ceiling": "MACHINE_PROPOSED",
    "bundle_usable": true
   },
   {
-   "id": "ip:concept:arrow_of_time",
-   "label": "Arrow Of Time",
-   "neighbors": 29,
-   "relations": [
-    "co_occurs_with"
-   ],
-   "grounding_docs": 23,
-   "epistemic_ceiling": "SCHOLARLY_CORROBORATED",
-   "bundle_usable": true
-  },
-  {
-   "id": "ip:concept:information",
-   "label": "Information",
+   "id": "ip:concept:free_will",
+   "label": "Free Will",
    "neighbors": 30,
    "relations": [
     "co_occurs_with"
    ],
-   "grounding_docs": 294,
-   "epistemic_ceiling": "SCHOLARLY_CORROBORATED",
+   "grounding_docs": 104,
+   "epistemic_ceiling": "MACHINE_PROPOSED",
+   "bundle_usable": true
+  },
+  {
+   "id": "ip:concept:qualia",
+   "label": "Qualia",
+   "neighbors": 27,
+   "relations": [
+    "co_occurs_with"
+   ],
+   "grounding_docs": 13,
+   "epistemic_ceiling": "MACHINE_PROPOSED",
+   "bundle_usable": true
+  },
+  {
+   "id": "ip:concept:mind_body",
+   "label": "Mind Body",
+   "neighbors": 30,
+   "relations": [
+    "co_occurs_with"
+   ],
+   "grounding_docs": 3,
+   "epistemic_ceiling": "MACHINE_PROPOSED",
+   "bundle_usable": true
+  },
+  {
+   "id": "ip:concept:mind",
+   "label": "Mind",
+   "neighbors": 30,
+   "relations": [
+    "co_occurs_with"
+   ],
+   "grounding_docs": 287,
+   "epistemic_ceiling": "MACHINE_PROPOSED",
+   "bundle_usable": true
+  },
+  {
+   "id": "ip:concept:wave_function",
+   "label": "Wave Function",
+   "neighbors": 30,
+   "relations": [
+    "co_occurs_with"
+   ],
+   "grounding_docs": 117,
+   "epistemic_ceiling": "MACHINE_PROPOSED",
+   "bundle_usable": true
+  },
+  {
+   "id": "ip:concept:second_law",
+   "label": "Second Law",
+   "neighbors": 30,
+   "relations": [
+    "co_occurs_with"
+   ],
+   "grounding_docs": 93,
+   "epistemic_ceiling": "MACHINE_PROPOSED",
+   "bundle_usable": true
+  },
+  {
+   "id": "ip:concept:knowledge",
+   "label": "Knowledge",
+   "neighbors": 30,
+   "relations": [
+    "co_occurs_with"
+   ],
+   "grounding_docs": 266,
+   "epistemic_ceiling": "MACHINE_PROPOSED",
+   "bundle_usable": true
+  },
+  {
+   "id": "ip:concept:causality",
+   "label": "Causality",
+   "neighbors": 30,
+   "relations": [
+    "co_occurs_with"
+   ],
+   "grounding_docs": 118,
+   "epistemic_ceiling": "MACHINE_PROPOSED",
+   "bundle_usable": true
+  },
+  {
+   "id": "ip:concept:computation",
+   "label": "Computation",
+   "neighbors": 30,
+   "relations": [
+    "co_occurs_with"
+   ],
+   "grounding_docs": 63,
+   "epistemic_ceiling": "MACHINE_PROPOSED",
+   "bundle_usable": true
+  },
+  {
+   "id": "ip:concept:belief",
+   "label": "Belief",
+   "neighbors": 30,
+   "relations": [
+    "co_occurs_with"
+   ],
+   "grounding_docs": 119,
+   "epistemic_ceiling": "MACHINE_PROPOSED",
+   "bundle_usable": true
+  },
+  {
+   "id": "ip:concept:life",
+   "label": "Life",
+   "neighbors": 30,
+   "relations": [
+    "co_occurs_with"
+   ],
+   "grounding_docs": 220,
+   "epistemic_ceiling": "MACHINE_PROPOSED",
+   "bundle_usable": true
+  },
+  {
+   "id": "ip:concept:consciousness",
+   "label": "Consciousness",
+   "neighbors": 30,
+   "relations": [
+    "co_occurs_with"
+   ],
+   "grounding_docs": 127,
+   "epistemic_ceiling": "MACHINE_PROPOSED",
+   "bundle_usable": true
+  },
+  {
+   "id": "ip:concept:agency",
+   "label": "Agency",
+   "neighbors": 30,
+   "relations": [
+    "co_occurs_with"
+   ],
+   "grounding_docs": 56,
+   "epistemic_ceiling": "MACHINE_PROPOSED",
+   "bundle_usable": true
+  },
+  {
+   "id": "ip:concept:quantum_mechanics",
+   "label": "Quantum Mechanics",
+   "neighbors": 30,
+   "relations": [
+    "co_occurs_with"
+   ],
+   "grounding_docs": 210,
+   "epistemic_ceiling": "MACHINE_PROPOSED",
+   "bundle_usable": true
+  },
+  {
+   "id": "ip:concept:truth",
+   "label": "Truth",
+   "neighbors": 30,
+   "relations": [
+    "co_occurs_with"
+   ],
+   "grounding_docs": 143,
+   "epistemic_ceiling": "MACHINE_PROPOSED",
+   "bundle_usable": true
+  },
+  {
+   "id": "ip:concept:entanglement",
+   "label": "Entanglement",
+   "neighbors": 30,
+   "relations": [
+    "co_occurs_with"
+   ],
+   "grounding_docs": 67,
+   "epistemic_ceiling": "MACHINE_PROPOSED",
+   "bundle_usable": true
+  },
+  {
+   "id": "ip:concept:determinism",
+   "label": "Determinism",
+   "neighbors": 30,
+   "relations": [
+    "co_occurs_with"
+   ],
+   "grounding_docs": 150,
+   "epistemic_ceiling": "MACHINE_PROPOSED",
+   "bundle_usable": true
+  },
+  {
+   "id": "ip:concept:information_theory",
+   "label": "Information Theory",
+   "neighbors": 29,
+   "relations": [
+    "co_occurs_with"
+   ],
+   "grounding_docs": 44,
+   "epistemic_ceiling": "MACHINE_PROPOSED",
+   "bundle_usable": true
+  },
+  {
+   "id": "ip:concept:morality",
+   "label": "Morality",
+   "neighbors": 29,
+   "relations": [
+    "co_occurs_with"
+   ],
+   "grounding_docs": 20,
+   "epistemic_ceiling": "MACHINE_PROPOSED",
    "bundle_usable": true
   }
  ]

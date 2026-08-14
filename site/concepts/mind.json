@@ -3,7 +3,7 @@
   "id": "ip:concept:mind",
   "label": "Mind",
   "type": "concept",
-  "ceiling": "SCHOLARLY_CORROBORATED_PRELIMINARY"
+  "ceiling": null
  },
  "canonical_url": "ip:concept:mind",
  "content": {
@@ -11,7 +11,7 @@
    "id": "ip:concept:mind",
    "label": "Mind",
    "type": "concept",
-   "ceiling": "SCHOLARLY_CORROBORATED_PRELIMINARY"
+   "ceiling": null
   },
   "definition": "Mind \u2014 canonical concept node",
   "positions": [],
@@ -3311,6 +3311,6 @@
   "view": "context",
   "budget": null,
   "depth": 1,
-  "bundle_hash": "eaf9f9d6daa277a5"
+  "bundle_hash": "1cd9d31e2ba475cb"
  }
 }

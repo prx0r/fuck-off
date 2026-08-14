@@ -3,7 +3,7 @@
   "id": "ip:concept:probability",
   "label": "Probability",
   "type": "concept",
-  "ceiling": "SCHOLARLY_CORROBORATED"
+  "ceiling": null
  },
  "canonical_url": "ip:concept:probability",
  "content": {
@@ -11,7 +11,7 @@
    "id": "ip:concept:probability",
    "label": "Probability",
    "type": "concept",
-   "ceiling": "SCHOLARLY_CORROBORATED"
+   "ceiling": null
   },
   "definition": "Probability \u2014 canonical concept node",
   "positions": [],
@@ -2891,6 +2891,6 @@
   "view": "context",
   "budget": null,
   "depth": 1,
-  "bundle_hash": "53a7de76664cde64"
+  "bundle_hash": "9b44100eca896369"
  }
 }

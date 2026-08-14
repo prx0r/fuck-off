@@ -3,7 +3,7 @@
   "id": "ip:concept:entropy",
   "label": "Entropy",
   "type": "concept",
-  "ceiling": "SCHOLARLY_CORROBORATED"
+  "ceiling": null
  },
  "canonical_url": "ip:concept:entropy",
  "content": {
@@ -11,7 +11,7 @@
    "id": "ip:concept:entropy",
    "label": "Entropy",
    "type": "concept",
-   "ceiling": "SCHOLARLY_CORROBORATED"
+   "ceiling": null
   },
   "definition": "Entropy \u2014 canonical concept node",
   "positions": [],
@@ -1871,6 +1871,6 @@
   "view": "context",
   "budget": null,
   "depth": 1,
-  "bundle_hash": "6fdbd2b71a2c61a7"
+  "bundle_hash": "e25299f4f3aff714"
  }
 }

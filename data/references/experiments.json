@@ -1,5 +1,5 @@
 {
- "count": 82,
+ "count": 83,
  "entries": [
   {
    "script": "validate-layer03-05.py",
@@ -738,6 +738,15 @@
    "kernel": "tantraloka-fullstack",
    "status": "RUN",
    "note": "RUN THE FULL STACK: theme\u2192essay\u2192education\u2192pedagogy\u2192products on real data \u2014 9/9"
+  },
+  {
+   "script": "validate-pushing-miner.py",
+   "layer": "L04",
+   "source": "35 pushing-tantraloka LOGICVID sessions",
+   "vision": "Enquiry-Discovery Organism",
+   "kernel": "pushing-miner",
+   "status": "RUN",
+   "note": "wire the crux compass: mine 35 human LOGICVID sessions into cruxes+claims grounded in karikas \u2014 7/7"
   }
  ]
 }

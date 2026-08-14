@@ -3,7 +3,7 @@
   "id": "ip:concept:measurement",
   "label": "Measurement",
   "type": "concept",
-  "ceiling": "SCHOLARLY_CORROBORATED"
+  "ceiling": null
  },
  "canonical_url": "ip:concept:measurement",
  "content": {
@@ -11,7 +11,7 @@
    "id": "ip:concept:measurement",
    "label": "Measurement",
    "type": "concept",
-   "ceiling": "SCHOLARLY_CORROBORATED"
+   "ceiling": null
   },
   "definition": "Measurement \u2014 canonical concept node",
   "positions": [],
@@ -2431,6 +2431,6 @@
   "view": "context",
   "budget": null,
   "depth": 1,
-  "bundle_hash": "0dee6d8a1f46d374"
+  "bundle_hash": "52969dd8a375fcfa"
  }
 }

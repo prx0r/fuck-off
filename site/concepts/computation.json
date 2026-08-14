@@ -3,7 +3,7 @@
   "id": "ip:concept:computation",
   "label": "Computation",
   "type": "concept",
-  "ceiling": "SCHOLARLY_CORROBORATED"
+  "ceiling": null
  },
  "canonical_url": "ip:concept:computation",
  "content": {
@@ -11,7 +11,7 @@
    "id": "ip:concept:computation",
    "label": "Computation",
    "type": "concept",
-   "ceiling": "SCHOLARLY_CORROBORATED"
+   "ceiling": null
   },
   "definition": "Computation \u2014 canonical concept node",
   "positions": [],
@@ -1031,6 +1031,6 @@
   "view": "context",
   "budget": null,
   "depth": 1,
-  "bundle_hash": "cd45b933bef9b378"
+  "bundle_hash": "d614f825394cce88"
  }
 }

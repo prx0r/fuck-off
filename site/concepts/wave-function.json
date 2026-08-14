@@ -3,7 +3,7 @@
   "id": "ip:concept:wave_function",
   "label": "Wave Function",
   "type": "concept",
-  "ceiling": "SCHOLARLY_CORROBORATED"
+  "ceiling": null
  },
  "canonical_url": "ip:concept:wave_function",
  "content": {
@@ -11,7 +11,7 @@
    "id": "ip:concept:wave_function",
    "label": "Wave Function",
    "type": "concept",
-   "ceiling": "SCHOLARLY_CORROBORATED"
+   "ceiling": null
   },
   "definition": "Wave Function \u2014 canonical concept node",
   "positions": [],
@@ -1661,6 +1661,6 @@
   "view": "context",
   "budget": null,
   "depth": 1,
-  "bundle_hash": "2836f73b90fee9c1"
+  "bundle_hash": "420367f7323936cb"
  }
 }

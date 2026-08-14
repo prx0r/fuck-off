@@ -36,3 +36,5 @@
 {"id": "ip:concept:measurement_problem", "label": "Measurement Problem", "category": "problem", "themes": ["quantum"]}
 {"id": "ip:concept:mind_body_problem", "label": "Mind Body Problem", "category": "problem", "themes": ["mind"]}
 {"id": "ip:concept:hard_problem", "label": "Hard Problem", "category": "problem", "themes": ["mind"]}
+{"id": "ip:concept:mantra", "label": "Mantra", "category": "concept", "themes": ["mantra", "tantra", "siva"]}
+{"id": "ip:concept:kalottara", "label": "Kālottara", "category": "school", "themes": ["kalottara", "siddhanta"]}

@@ -3,7 +3,7 @@
   "id": "ip:concept:arrow_of_time",
   "label": "Arrow Of Time",
   "type": "concept",
-  "ceiling": "SCHOLARLY_CORROBORATED"
+  "ceiling": null
  },
  "canonical_url": "ip:concept:arrow_of_time",
  "content": {
@@ -11,7 +11,7 @@
    "id": "ip:concept:arrow_of_time",
    "label": "Arrow Of Time",
    "type": "concept",
-   "ceiling": "SCHOLARLY_CORROBORATED"
+   "ceiling": null
   },
   "definition": "Arrow Of Time \u2014 canonical concept node",
   "positions": [],
@@ -621,6 +621,6 @@
   "view": "context",
   "budget": null,
   "depth": 1,
-  "bundle_hash": "c330618e3f7b9e2d"
+  "bundle_hash": "4dcd341d01f8c049"
  }
 }

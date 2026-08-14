@@ -1,7 +1,7 @@
 {
- "count": 80,
+ "count": 81,
  "verdicts": {
-  "PROVEN": 36,
+  "PROVEN": 37,
   "PROVEN-MECHANISM": 44
  },
  "proofs": [
@@ -628,6 +628,18 @@
    "uses_real_data": true,
    "verdict": "PROVEN",
    "proof_hash": "b9022be4207ae234"
+  },
+  {
+   "script": "audit-theatre-dataflow.py",
+   "layer": "ALL",
+   "vision": "Verified Epistemic OS",
+   "kernel": "theatre-dataflow",
+   "claim": "ADVISORY: does each validator's asserted object trace to loaded data? Catches hand-fed-fields theatre a marker check misses",
+   "test_exists": true,
+   "passes": true,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "dba03058541dc495"
   },
   {
    "script": "validate-graduation.py",

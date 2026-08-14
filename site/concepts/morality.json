@@ -3,7 +3,7 @@
   "id": "ip:concept:morality",
   "label": "Morality",
   "type": "concept",
-  "ceiling": "MACHINE_PROPOSED"
+  "ceiling": null
  },
  "canonical_url": "ip:concept:morality",
  "content": {
@@ -11,7 +11,7 @@
    "id": "ip:concept:morality",
    "label": "Morality",
    "type": "concept",
-   "ceiling": "MACHINE_PROPOSED"
+   "ceiling": null
   },
   "definition": "Morality \u2014 canonical concept node",
   "positions": [],
@@ -581,6 +581,6 @@
   "view": "context",
   "budget": null,
   "depth": 1,
-  "bundle_hash": "d2f51e6139370be6"
+  "bundle_hash": "22a0f7919ba9880d"
  }
 }

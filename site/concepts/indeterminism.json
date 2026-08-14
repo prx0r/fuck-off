@@ -3,7 +3,7 @@
   "id": "ip:concept:indeterminism",
   "label": "Indeterminism",
   "type": "concept",
-  "ceiling": "SCHOLARLY_CORROBORATED_PRELIMINARY"
+  "ceiling": null
  },
  "canonical_url": "ip:concept:indeterminism",
  "content": {
@@ -11,7 +11,7 @@
    "id": "ip:concept:indeterminism",
    "label": "Indeterminism",
    "type": "concept",
-   "ceiling": "SCHOLARLY_CORROBORATED_PRELIMINARY"
+   "ceiling": null
   },
   "definition": "Indeterminism \u2014 canonical concept node",
   "positions": [],
@@ -1391,6 +1391,6 @@
   "view": "context",
   "budget": null,
   "depth": 1,
-  "bundle_hash": "87fe5e89559036d3"
+  "bundle_hash": "31dd762949e9469b"
  }
 }

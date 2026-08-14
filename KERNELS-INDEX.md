@@ -1,6 +1,6 @@
 # KERNELS-INDEX — the reusable kernels (what's in lib/, what it does, how it's validated)
 
-*2026-08-14. The agent-facing map of every reusable kernel (now 37). Reuse these — never rebuild. Each
+*2026-08-14. The agent-facing map of every reusable kernel (now 40). Reuse these — never rebuild. Each
 maps to: what it is · layer · vision · the experiment(s) that validate it · honest status.*
 
 | Kernel | What it does | Layer | Vision | Validated by | Status |
@@ -43,6 +43,8 @@ maps to: what it is · layer · vision · the experiment(s) that validate it · 
 | `skill_graph.py` | Audited skill-graph self-improvement (kernels as skills, verifiable reward) | L05 | Autonomous Institute | validate-skill-graph | VALIDATED (8/8) |
 | `structure_recall.py` | SAGE structure-aware recall (follow graph topology on the read plane) | L10 | Verified OS | validate-structure-recall | VALIDATED (9/9) |
 | `ingestion_organism.py` | the autonomous priority-driven refinery: ingest→refine→verify→commit→re-prioritize | ALL | Verified OS | validate-ingestion-organism | VALIDATED (10/10) |
+| `hermes_exec.py` | the REAL execution path: shells to `hermes -z` so the organism can actually generate (translation/commentary/essay) | ALL | Autonomous Institute | (none — needs validator) | REAL EXECUTION |
+| `pushing_miner.py` | wire the crux compass: mines the 35 pushing-tantraloka LOGICVID sessions into cruxes+claims grounded in kārikās | L04 | Enquiry-Discovery | validate-pushing-miner | VALIDATED (7/7, real sessions) |
 
 ## Rules for agents
 1. **Reuse, don't rebuild** (axiom): a task that maps to a kernel → call the kernel.

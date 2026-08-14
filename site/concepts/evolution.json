@@ -3,7 +3,7 @@
   "id": "ip:concept:evolution",
   "label": "Evolution",
   "type": "concept",
-  "ceiling": "SCHOLARLY_CORROBORATED"
+  "ceiling": null
  },
  "canonical_url": "ip:concept:evolution",
  "content": {
@@ -11,7 +11,7 @@
    "id": "ip:concept:evolution",
    "label": "Evolution",
    "type": "concept",
-   "ceiling": "SCHOLARLY_CORROBORATED"
+   "ceiling": null
   },
   "definition": "Evolution \u2014 canonical concept node",
   "positions": [],
@@ -2501,6 +2501,6 @@
   "view": "context",
   "budget": null,
   "depth": 1,
-  "bundle_hash": "52e47e7dcd9203c2"
+  "bundle_hash": "b1ce0db5e6ed2786"
  }
 }

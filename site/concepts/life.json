@@ -3,7 +3,7 @@
   "id": "ip:concept:life",
   "label": "Life",
   "type": "concept",
-  "ceiling": "SCHOLARLY_CORROBORATED"
+  "ceiling": null
  },
  "canonical_url": "ip:concept:life",
  "content": {
@@ -11,7 +11,7 @@
    "id": "ip:concept:life",
    "label": "Life",
    "type": "concept",
-   "ceiling": "SCHOLARLY_CORROBORATED"
+   "ceiling": null
   },
   "definition": "Life \u2014 canonical concept node",
   "positions": [],
@@ -2601,6 +2601,6 @@
   "view": "context",
   "budget": null,
   "depth": 1,
-  "bundle_hash": "2e213c1bce5db58e"
+  "bundle_hash": "6a0bfdac6faf101d"
  }
 }

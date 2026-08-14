@@ -3,7 +3,7 @@
   "id": "ip:concept:entanglement",
   "label": "Entanglement",
   "type": "concept",
-  "ceiling": "SCHOLARLY_CORROBORATED"
+  "ceiling": null
  },
  "canonical_url": "ip:concept:entanglement",
  "content": {
@@ -11,7 +11,7 @@
    "id": "ip:concept:entanglement",
    "label": "Entanglement",
    "type": "concept",
-   "ceiling": "SCHOLARLY_CORROBORATED"
+   "ceiling": null
   },
   "definition": "Entanglement \u2014 canonical concept node",
   "positions": [],
@@ -1081,6 +1081,6 @@
   "view": "context",
   "budget": null,
   "depth": 1,
-  "bundle_hash": "7c90c1cc4099ba7e"
+  "bundle_hash": "91a9f5e230e46191"
  }
 }

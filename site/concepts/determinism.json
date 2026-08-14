@@ -3,7 +3,7 @@
   "id": "ip:concept:determinism",
   "label": "Determinism",
   "type": "concept",
-  "ceiling": "SCHOLARLY_CORROBORATED"
+  "ceiling": null
  },
  "canonical_url": "ip:concept:determinism",
  "content": {
@@ -11,7 +11,7 @@
    "id": "ip:concept:determinism",
    "label": "Determinism",
    "type": "concept",
-   "ceiling": "SCHOLARLY_CORROBORATED"
+   "ceiling": null
   },
   "definition": "Determinism \u2014 canonical concept node",
   "positions": [],
@@ -1951,6 +1951,6 @@
   "view": "context",
   "budget": null,
   "depth": 1,
-  "bundle_hash": "850bd6afaa880ec0"
+  "bundle_hash": "db389072c69b253e"
  }
 }
