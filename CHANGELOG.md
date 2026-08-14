@@ -288,3 +288,14 @@ imposed.
   engine — envelope (contradicted→MACHINE_PROPOSED), schema validation OK, review reducer blocks it
   (CORRECTION_REQUIRED). Proven: Doyle (philosophy) + SciFact (science) share ONE engine.
 - Test suite 20 → **21/21 pass**.
+
+## 2026-08-14 (cont.) — VISION: the Verified Epistemic OS (unifying the arsenal)
+- **`docs/vision/VISION-VERIFIED-EPISTEMIC-OS.md`** — the visionary synthesis: patala as the
+  Verified Epistemic OS where every genius repo is a component. 8 unifying laws (epistemic honesty,
+  deterministic promotion, self-maintaining staleness, temporal truth, publishable provenance,
+  executable retrieval, reactive documents, verified self-knowledge) + the work-substrate synthesis
+  (loom state + maestro card.yaml + herdr reducer + arcan event-sourcing).
+- **`experiment-verified-lifecycle.py`** (flagship): ONE claim runs through all 8 laws — proposed →
+  herdr-gated → RKA-flagged-stale → graphiti-temporally-stamped → knowledgeProvenance-nanopub →
+  KG2Code-queried → prose-marked-stale → Merkle-signed. Proves the OS coheres.
+- Test suite 21 → **22/22 pass**.

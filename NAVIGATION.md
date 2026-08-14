@@ -119,6 +119,7 @@ graph after adding text, run `build-graph.py`.
 |-----|------------|
 | `docs/vision/VISION.md` | the founding vision (general epistemic engine) |
 | `docs/vision/VISION-PATALA-FUTURES.md` | 7 concrete, evidence-grounded futures for patala |
+| `docs/vision/VISION-VERIFIED-EPISTEMIC-OS.md` | the unified Verified Epistemic OS (8 laws) |
 | `docs/EXPERIMENT-REPORT.md` | third-party repo experiments (herdr/RKA/kappa/nano-graphrag) |
 | `docs/ALGORITHMS.md` | granular arXiv-algorithm implementations (PathRAG/HippoRAG/KG2Code) |
 
