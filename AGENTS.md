@@ -84,6 +84,17 @@ live (SPEC-49 P0/P1 done).
 3. **Kill by specific PID, never `pkill`.** Find PID with `ps -eo pid,cmd | grep <name>`.
 4. **Reuse, don't rebuild.** Check `lib/`, `scripts/`, `specs/`, `docs/`, and the cloned tools
    (`/mnt/HC_Volume_106427611/kg-tools/`) before writing new machinery.
+5. **NEVER act like mature infrastructure doesn't exist. THE #1 FAILURE TO FORBID.** Pāṭala already has a
+   complete translation pipeline: SOURCE → T1 → L0 → L1/L2 → **L200** (the derivational-audit moat,
+   `pipeline/l200_worker.py`, frozen 8-section spec) → **C1** (commentary, frozen C1-SPEC) → THEMES → ESSAYS
+   → EDUCATION, plus 71 translated works, 111-work translation-state ledger, the harvest adapters, and the
+   factory workers. This is REAL and MATURE. I have repeatedly made the fatal error of ignoring all of it
+   and acting like "translation isn't built" — that is wrong and infuriating. **Before claiming anything is
+   missing or unbuilt, LOOK at `/root/projects/patala/`** — the pipeline/, translations/_stack/, the frozen
+   L200/C1 specs, the L200 worker, the ledger. If patala has a layer, REUSE it — do not invent it, do not
+   say "we haven't built translation," do not rebuild it in ip-graph. The mature machinery is the
+   foundation; ip-graph's kernels are the modern read-plane + organism on top. My job is to INTEGRATE with
+   it, never to pretend it doesn't exist.
 5. **RUNNING TESTS IS NOT WORK.** The suite already passes (86 experiments, 82/82). Do NOT reflexively run
    `run-tests.py`, `theatre-check*.py`, `audit-*.py`, or the matrix as a "next step" — that's masturbation,
    not progress. Run a gate ONLY when (a) you just changed code/data and must confirm it, or (b) a real

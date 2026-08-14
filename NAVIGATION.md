@@ -131,6 +131,10 @@ graph after adding text, run `build-graph.py`.
 | `tantraloka/AUTONOMOUS-ITERATION-LOG.md` | the running iteration + troubleshooting log (the autonomous-build record) |
 | `tantraloka/GOLD-STANDARD-INSIGHTS.md` | the gold-standard review findings (commentary-lift insight + fix) |
 | `tantraloka/PROGRESS-STATUS.md` | how the Tantrāloka build is going (7/7 + the gold insight) |
+| `devplans/MASTER-INTEGRATION-DEVPLAN.md` | **THE canonical integration build** — patala factory + my read plane/organism into ONE organism |
+| `devplans/TRANSLATION-PRODUCTION.md` | the translation moat integration (patala factory + my TranslationProof validation) |
+| `devplans/READ-PLANE-ORGANISM.md` | my read plane + organism as the serving/autonomy layer |
+| `devplans/TANTRALOKA-PRODUCTION.md` | the full-corpus production plan (333-Āhnika-1 → 5,860 kārikās) |
 | `BUILDNOTES.md` | full build history + decisions |
 | `NAVIGATION.md` | this file |
 | `TODO.md` | live task tracker |

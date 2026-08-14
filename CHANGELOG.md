@@ -980,3 +980,19 @@ Fixed the 3 remaining hand-fed Tantrāloka validators so the documented proof ma
 - **`tantraloka/GOLD-STANDARD-INSIGHTS.md`** — the gold review (Dyczkowski line 15146) documented: the
   gloss-vs-gold insight, the crux-compass confirmation, and the fix.
 - Wired into NAVIGATION + traceability. The Tantrāloka build is logged + iterating + documented.
+
+## 2026-08-14 (canonical integration devplan set — the final build plan)
+Created `devplans/` — the canonical build plan set, synthesized from FOUR deep parallel reviews (patala
+v2, patala v3, my NAVIGATION files, my SPECs). This reconciles the two systems into ONE organism:
+- **`MASTER-INTEGRATION-DEVPLAN.md`** — the canonical build: patala's mature factory (SOURCE→T1→L0→L1/L2→
+  L200→C1, real committed objects) + my modern read plane + organism + validation. The 6 build phases
+  (reconcile record → ingest IPVV gold → converge kernel → translation audit compiler → read-plane infra →
+  organism at scale). Never rebuild, always integrate.
+- **`TRANSLATION-PRODUCTION.md`** — the moat: patala factory produces + my TranslationProof/commentary-lift/
+  three-version validates + Dyczkowski gold standard. The L200 derivational-audit is the moat.
+- **`READ-PLANE-ORGANISM.md`** — my read plane (context_compiler→bundles→MCP→SEO→site) + organism
+  (next_action+factory_pool+hermes) as the serving/autonomy layer.
+- **`TANTRALOKA-PRODUCTION.md`** — the full-corpus production (333-Āhnika-1 → 5,860 kārikās) through the
+  integrated organism.
+- Wired into NAVIGATION + TRACEABILITY. The honest gaps surfaced: machine L200/C1 at corpus scale, live
+  TranslationProof auditors, real R2/Postgres/Cloudflare deploy, signed attestation, context paging.

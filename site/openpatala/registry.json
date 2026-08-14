@@ -1,0 +1,82 @@
+{
+ "generated": true,
+ "counts": {
+  "SOURCE": 32039,
+  "T1": 314,
+  "ARGMAP": 50,
+  "L0": 791,
+  "L1L2": 12,
+  "L1": 5,
+  "L2": 3,
+  "L200": 5,
+  "C1": 3,
+  "THEME": 1,
+  "ARGUMENT": 10,
+  "SYNTHESIS": 0,
+  "ESSAY": 0,
+  "EDUCATION": 0
+ },
+ "layers": {
+  "SOURCE": {
+   "count": 32039,
+   "url": "/openpatala/source.json",
+   "sha256": "df8bd813798f541d"
+  },
+  "T1": {
+   "count": 314,
+   "url": "/openpatala/t1.json",
+   "sha256": "97a66ef4d0953615"
+  },
+  "ARGMAP": {
+   "count": 50,
+   "url": "/openpatala/argmap.json",
+   "sha256": "d4058123da5b59e8"
+  },
+  "L0": {
+   "count": 791,
+   "url": "/openpatala/l0.json",
+   "sha256": "cf843a13ddff7774"
+  },
+  "L2": {
+   "count": 3,
+   "url": "/openpatala/l2.json",
+   "sha256": "5cc9865d4eeecbb0"
+  },
+  "L200": {
+   "count": 5,
+   "url": "/openpatala/l200.json",
+   "sha256": "cce333811ca5514b"
+  },
+  "C1": {
+   "count": 3,
+   "url": "/openpatala/c1.json",
+   "sha256": "af4908ea8e804ed7"
+  },
+  "THEME": {
+   "count": 1,
+   "url": "/openpatala/theme.json",
+   "sha256": "7a40ca7b516c244f"
+  },
+  "ARGUMENT": {
+   "count": 10,
+   "url": "/openpatala/argument.json",
+   "sha256": "bdfa46a210adb75e"
+  },
+  "SYNTHESIS": {
+   "count": 0,
+   "url": "/openpatala/synthesis.json",
+   "sha256": "175ae701edb26db5"
+  },
+  "ESSAY": {
+   "count": 0,
+   "url": "/openpatala/essay.json",
+   "sha256": "3d3178ece89ce2be"
+  },
+  "EDUCATION": {
+   "count": 0,
+   "url": "/openpatala/education.json",
+   "sha256": "e79c19d3adcf417c"
+  }
+ },
+ "root_hash": "6af603d10b00f9fd"
+}

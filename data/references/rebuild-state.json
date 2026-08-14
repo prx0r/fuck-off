@@ -3,5 +3,22 @@
  "/root/projects/patala/data/published/ipvv/index.json": "210c6898802c1170",
  "/root/projects/patala/data/published/ipvv/clusters.json": "105a47310b87423f",
  "/mnt/HC_Volume_106427611/ip-graph/data/tantraloka/root-verses.json": "283d5810ad317654",
- "/mnt/HC_Volume_106427611/ip-graph/data/tantraloka/ahnika-1.json": "6853051ec4d03f7b"
+ "/mnt/HC_Volume_106427611/ip-graph/data/tantraloka/ahnika-1.json": "6853051ec4d03f7b",
+ "/root/projects/patala/data/corpus/registries/argmap-registry.jsonl": "8fe57844f56eea7f",
+ "/root/projects/patala/data/corpus/registries/argument-registry.jsonl": "a25e4508eba01146",
+ "/root/projects/patala/data/corpus/registries/assertion-registry.jsonl": "2ca5cfa6e0dbb562",
+ "/root/projects/patala/data/corpus/registries/c1-registry.jsonl": "77c38704df5a8535",
+ "/root/projects/patala/data/corpus/registries/corroboration-registry.jsonl": "817b949455114969",
+ "/root/projects/patala/data/corpus/registries/l0-registry.jsonl": "5b982c22d016291a",
+ "/root/projects/patala/data/corpus/registries/l1-registry.jsonl": "8bed7e93946ca000",
+ "/root/projects/patala/data/corpus/registries/l1l2-registry.jsonl": "c878a192f1e59276",
+ "/root/projects/patala/data/corpus/registries/l2-registry.jsonl": "0bf492cd35c2fbdf",
+ "/root/projects/patala/data/corpus/registries/l200-registry.jsonl": "0aa6a9cf9082dee0",
+ "/root/projects/patala/data/corpus/registries/object-events.jsonl": "8de460264d8a4145",
+ "/root/projects/patala/data/corpus/registries/source-registry.jsonl": "bd3b03c7a12b440b",
+ "/root/projects/patala/data/corpus/registries/span-registry.jsonl": "0a48e81e460bc9b8",
+ "/root/projects/patala/data/corpus/registries/t1-registry.jsonl": "6be92746e572066c",
+ "/root/projects/patala/data/corpus/registries/theme-registry.jsonl": "b0f606f0c89392f7",
+ "/root/projects/patala/data/corpus/registries/verification-registry.jsonl": "39a3a19db8b6921b",
+ "/root/projects/patala/data/corpus/registries/witness-registry.jsonl": "541462f4defacbf9"
 }

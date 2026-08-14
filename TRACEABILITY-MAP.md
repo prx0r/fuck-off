@@ -56,6 +56,10 @@ Nothing is orphaned. Machine-checkable: every entry has a path; every path exist
 | `MASTER-KNOWLEDGE-BASE.md` | ALL | the synthesized master reference (everything at a glance) |
 | `OWN-VISION-MAP.md` | ALL | our independent vision zoomed out (frontiers + products → proof status) |
 | `ORGANISM-OPERATING-MODEL.md` | ALL | the organism operating manual (ingest/teach/publish + durable/secure) |
+| `devplans/MASTER-INTEGRATION-DEVPLAN.md` | ALL | the canonical integration build (patala factory + my read plane/organism) |
+| `devplans/TRANSLATION-PRODUCTION.md` | L03 | the translation moat integration |
+| `devplans/READ-PLANE-ORGANISM.md` | L06/L07/L09 | my read plane + organism as the serving/autonomy layer |
+| `devplans/TANTRALOKA-PRODUCTION.md` | ALL | the full-corpus production plan |
 | `COHERENCE-AUDIT.md` | ALL | the coherence zoom-out (kernels → layer → patala product) |
 | `CONTRACT-CONVERGENCE.md` | ALL | my review of the shared BUILD directives + the contract convergence (#1 build) |
 | `SHARED-DOCS-ASSESSMENT.md` | ALL | my verdict on agentpatala's critical audit (correct, fixed) + where I'm ahead |
