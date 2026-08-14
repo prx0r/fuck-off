@@ -118,9 +118,70 @@ def compile_registry(manifest):
                    "layers": layers,
                    "root_hash": sha(json.dumps(counts, sort_keys=True))}, f, indent=1)
 
+    # 3. per-work pages from the LIVE SOURCE registry (CP6 — the site renders a work)
+    import glob
+    os.makedirs(f"{OUT}/works", exist_ok=True)
+    n_works = 0
+    src = summary.get("SOURCE", {}).get("objects", 0)
+    works_index = []
+    reg_dir = "/root/projects/patala/data/corpus/registries"
+    src_path = f"{reg_dir}/source-registry.jsonl"
+    if os.path.exists(src_path):
+        with open(src_path, encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if not line:
+                    continue
+                try:
+                    v = json.loads(line)
+                except Exception:  # noqa: BLE001
+                    continue
+                # the registry line: {layer, object_id, version, payload, ...} or {records}
+                oid = v.get("object_id") or v.get("id")
+                payload = v.get("payload") or {}
+                if isinstance(payload, dict) and "payload" in payload:
+                    payload = payload["payload"]
+                title = (payload.get("title") or oid or "").strip() if isinstance(payload, dict) else (oid or "")
+                source = (payload.get("source", "") if isinstance(payload, dict) else "")
+                author = (payload.get("author", "") if isinstance(payload, dict) else "")
+                if not oid or not title:
+                    continue
+                if n_works >= 2000:
+                    break  # render the first 2000 (a real, bounded page set; the rest via the API)
+                slug = _slug(oid)
+                jld = {"@context": "https://schema.org", "@type": "ScholarlyArticle",
+                       "name": title, "identifier": oid,
+                       "author": {"@type": "Person", "name": author} if author else None,
+                       "additionalProperty": [{"@type": "PropertyValue", "name": "source", "value": source},
+                                              {"@type": "PropertyValue", "name": "provenance",
+                                               "value": "MACHINE_PROPOSED"}]}
+                page = f"""<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
+<title>{title} — Pāṭala</title>
+<link rel="canonical" href="{BASE_URL}/works/{slug}.html">
+<script type="application/ld+json">{json.dumps(jld)}</script>
+<style>body{{font-family:system-ui,sans-serif;max-width:760px;margin:2rem auto;padding:0 1rem;line-height:1.6}}
+a{{color:#0066cc;text-decoration:none}} .meta{{color:#666;font-size:.9rem}}</style></head>
+<body>
+<nav><a href="/index.html">Home</a><a href="/sitemap.xml">Sitemap</a></nav>
+<main><h1>{title}</h1>
+<p class="meta">Work · {source} · provenance: machine-proposed</p>
+<p class="meta"><a href="/openpatala/registry.json">registry</a> · id: <code>{oid}</code></p>
+</main></body></html>"""
+                with open(f"{OUT}/works/{slug}.html", "w") as f:
+                    f.write(page)
+                with open(f"{OUT}/works/{slug}.json", "w") as f:
+                    json.dump({"id": oid, "title": title, "author": author, "source": source,
+                               "provenance": "MACHINE_PROPOSED"}, f, indent=1)
+                works_index.append({"slug": slug, "title": title, "source": source})
+                n_works += 1
+    manifest["works"] = {"count": n_works, "total_in_registry": src, "works": works_index}
+    with open(f"{OUT}/works-index.json", "w") as f:
+        json.dump({"count": n_works, "works": works_index}, f, indent=1)
+
     n_objs = sum(counts.values())
     print(f"  + live registry: {len(counts)} layers, {n_objs} total objects "
           f"(SOURCE {counts.get('SOURCE', 0)}, T1 {counts.get('T1', 0)}, L0 {counts.get('L0', 0)})")
+    print(f"  + work pages: {n_works} (of {src} SOURCE objects)")
     return manifest
 
 def main():
@@ -207,10 +268,14 @@ nav a{{margin-right:1rem}} ul{{margin:.5rem 0}}</style>
     # ---- sitemap ----
     urls = "\n".join(
         f"  <url><loc>{v['url']}</loc></url>" for v in manifest["concepts"].values())
+    work_urls = "\n".join(
+        f'  <url><loc>{BASE_URL}/works/{w["slug"]}.html</loc></url>'
+        for w in manifest.get("works", {}).get("works", [])) if manifest.get("works", {}).get("count") else ""
     sitemap = f"""<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>{BASE_URL}/index.html</loc></url>
 {urls}
+{work_urls}
 </urlset>"""
     with open(f"{OUT}/sitemap.xml", "w") as f:
         f.write(sitemap)
