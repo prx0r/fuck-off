@@ -1,5 +1,5 @@
 {
- "count": 91,
+ "count": 92,
  "entries": [
   {
    "script": "validate-layer03-05.py",
@@ -801,6 +801,15 @@
    "kernel": "projection-dag",
    "status": "RUN",
    "note": "per-artifact incremental rebuild: a new doc rebuilds ONLY its artifact, NOT the whole corpus (SPEC-00 22) \u2014 6/6"
+  },
+  {
+   "script": "validate-proof-generators.py",
+   "layer": "L03",
+   "source": "real AbhT_1.52 k\u0101rik\u0101 via Vidyut",
+   "vision": "Verified Epistemic OS",
+   "kernel": "proof-generators",
+   "status": "RUN",
+   "note": "the real Sanskrit proof-generator lattice (Vidyut SLP1 + token floor + negation): real analysis into TranslationProof, not hand-filled \u2014 9/9"
   },
   {
    "script": "run-tantraloka-autonomous.py",

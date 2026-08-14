@@ -1,6 +1,6 @@
 # EXPERIMENT MATRIX — what's been tested
 
-*2026-08-14. 91 experiments mapped to layer / source repo / vision / kernel / result.*
+*2026-08-14. 92 experiments mapped to layer / source repo / vision / kernel / result.*
 Machine form: `data/references/experiments.json`.
 
 ## Argument Map (7)
@@ -102,7 +102,7 @@ Machine form: `data/references/experiments.json`.
 | `experiment-causal-operational-graph.py` | L12 | patalamix review #12 | causal-operational | RUN |
 | `experiment-signed-statement.py` | L12 | cosign (cloned) | signing | RUN |
 
-## Verified Epistemic OS (48)
+## Verified Epistemic OS (49)
 
 | script | layer | source | kernel | result |
 |--------|-------|--------|--------|--------|
@@ -138,6 +138,7 @@ Machine form: `data/references/experiments.json`.
 | `validate-next-action.py` | L12 | IPK tasks | next-action | RUN |
 | `validate-open-ended-evolve.py` | L05 | Darwin Godel (dgm ⭐2.2k) | open-ended-evolve | RUN |
 | `validate-projection-dag.py` | L06 | simulated work-page projection DAG | projection-dag | RUN |
+| `validate-proof-generators.py` | L03 | real AbhT_1.52 kārikā via Vidyut | proof-generators | RUN |
 | `validate-provenance.py` | L02 | knowledgeProvenance (cloned) | provenance | PASS |
 | `validate-self-healing.py` | L09 | agent delivery | self-healing | RUN |
 | `validate-seo-astro.py` | L07 | real graph | seo-astro | RUN |

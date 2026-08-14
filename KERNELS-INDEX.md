@@ -1,6 +1,6 @@
 # KERNELS-INDEX — the reusable kernels (what's in lib/, what it does, how it's validated)
 
-*2026-08-14. The agent-facing map of every reusable kernel (now 43). Reuse these — never rebuild. Each
+*2026-08-14. The agent-facing map of every reusable kernel (now 46). Reuse these — never rebuild. Each
 maps to: what it is · layer · vision · the experiment(s) that validate it · honest status.*
 
 | Kernel | What it does | Layer | Vision | Validated by | Status |
@@ -48,6 +48,8 @@ maps to: what it is · layer · vision · the experiment(s) that validate it · 
 | `iteration_confidence.py` | hound steal: iteration-verified confidence (observations vs assumptions + iteration count; convergence = fundamentality) | L00 | Verified OS | validate-iteration-confidence | VALIDATED (5/5) |
 | `canonical_contracts.py` | THE contract convergence: ONE non-scalar 4-axis AuthorityVector + ReviewEvent (fixes lib/epistemic's scalar ceiling error), PARITY with OG | L00/L05 | Verified OS | validate-contract-convergence | VALIDATED (10/10) |
 | `factory_pool.py` | the parallel factory worker pool: many layer-workers run concurrently, DAG-gated, next_action-driven, each committing independently | ALL | Verified OS | validate-factory-pool | VALIDATED (10/10) |
+| `projection_dag.py` | the projection DAG: correctness + staleness + incremental-rebuild scheduler, per-artifact (a new doc ≠ whole-corpus rebuild, SPEC-00 §22) | L06 | Verified OS | validate-projection-dag | VALIDATED (6/6) |
+| `proof_generators.py` | the real Sanskrit proof-generator lattice (Vidyut SLP1 + token floor + negation): real analysis into TranslationProof, not hand-filled | L03 | Verified OS | validate-proof-generators | VALIDATED (9/9) |
 
 ## Rules for agents
 1. **Reuse, don't rebuild** (axiom): a task that maps to a kernel → call the kernel.

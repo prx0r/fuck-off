@@ -83,6 +83,7 @@ run_script("validate-hermes-exec.py", "hermes_generation")
 run_script("ingest-ipvv-gold.py", "ipvv_gold_bridge")
 run_script("validate-factory-pool.py", "parallel_factory_pool")
 run_script("validate-projection-dag.py", "projection_dag_incremental")
+run_script("validate-proof-generators.py", "proof_generators_lattice")
 run_py("import json;a=json.load(open('data/graph/argument.json'));print(f'{len(a[\"information_nodes\"])} info {len(a[\"inference_nodes\"])} infer {len(a[\"conflict_nodes\"])} conflict')", "argument_graph")
 
 # ---- 2. EXPERIMENTS ----

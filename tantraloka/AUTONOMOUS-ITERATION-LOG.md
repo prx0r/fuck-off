@@ -128,3 +128,14 @@ rebuild: patala's 49 published IPVV gold passages are REAL; I validate them with
 - **The integration is real:** patala produces the gold; I validate it. Not a rebuild — a bridge onto
   patala's mature output.
 - State: 44 kernels, 90 experiments, tests pass.
+
+## Iteration 5 — 2026-08-14 (real proof generators — the SPEC-16 lattice)
+Per TRANSLATION-PRODUCTION plan T2. The proof no longer hand-fills morphology/syntax from bool() —
+it runs REAL Sanskrit analysis:
+- **`lib/proof_generators.py`** (9/9) — the proof-generator lattice: Vidyut (SLP1 normalization, detected
+  Iast) + the deterministic token floor + negation detection (the "na" of nahyaprakāśa). Real analysis →
+  TranslationProof source_analysis + obligations + lattice verdict.
+- **`validate-proof-generators.py`** (9/9) — on the real AbhT_1.52 kārikā: morphology PASS, syntax PASS,
+  negation PASS, lattice PASS — all real, not hand-filled.
+- **The audit compiler now reflects real Sanskrit analysis.** SPEC-16's anti-theatre lattice is wired.
+- State: 46 kernels, 92 experiments.

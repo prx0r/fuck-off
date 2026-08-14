@@ -1013,3 +1013,13 @@ Per the master devplan Phase 1 (the highest-leverage gap). Reuse, don't rebuild:
   Adding/changing ONE work rebuilds ONLY its artifact; the other N-1 are a no-op.
 - Fixed a test bug (dict-vs-set comparison), not a logic bug — the DAG was correct.
 - 45 kernels, 91 experiments.
+
+## 2026-08-14 (real proof generators — SPEC-16 lattice wired)
+- **`lib/proof_generators.py`** (9/9) — the real Sanskrit proof-generator lattice: Vidyut (SLP1
+  normalization, detected Iast) + the deterministic token floor + negation detection. The TranslationProof
+  now reflects REAL Sanskrit analysis, not a hand-filled bool. This closes the audit's "translation.py
+  hand-fills morphology from bool()" theatre.
+- **`validate-proof-generators.py`** (9/9) — on the real AbhT_1.52 kārikā: morphology/syntax/negation PASS,
+  lattice PASS, all real. The publication gate stays BLOCKED until human adjudication.
+- Also added `lib/projection_dag.py` (6/6, SPEC-00 §22 per-artifact incremental) earlier.
+- 46 kernels, 92 experiments.
