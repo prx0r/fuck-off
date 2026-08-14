@@ -17,7 +17,7 @@ Astro over projections → Workers on /api /search /mcp → edge cache
 ```
 
 ## 5. Implementations
-- Spec: `specs/SPEC-05-surfaces.md` (to write)
+- Spec: `specs/SPEC-00-INFRA-BUILD.md` (§9-16 Astro/Workers/MCP) + `specs/SPEC-09-AGENT-ORCHESTRATION-SURVEY.md`
 - Perf: `docs/05-performance.md`
 
 ## 6. Docs

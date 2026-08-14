@@ -29,16 +29,21 @@ docs/0N-*.md            (live — implemented, reconciled to ground truth)
 | Spec | Topic | Status |
 |------|-------|--------|
 | `SPEC-00-INFRA-BUILD.md` | **CANONICAL** master infra build (compiler/factory → R2 → edge) | CANONICAL |
-| `SPEC-01-canonical-dag.md` | the layer dependency DAG (physics→…→value) | DRAFT |
+| `SPEC-01-canonical-dag.md` | the layer dependency DAG (physics→…→value) | DRAFT (impl: data/graph/canonical-dag.yaml) |
+| `SPEC-02-epistemic-envelope.md` | epistemic status ladder + 4-axis authority | DRAFT (impl: lib/epistemic.py) |
+| `SPEC-03-argument-graph.md` | AIF-style Info/Inference/Conflict graph | DRAFT (impl: data/graph/argument.json) |
 | `SPEC-07-ECOSYSTEM-SURVEY.md` | repos/datasets/benchmarks | CANONICAL |
 | `SPEC-08-GRAPH-REASONING-SURVEY.md` | arXiv GraphRAG architectures | CANONICAL |
 | `SPEC-09-AGENT-ORCHESTRATION-SURVEY.md` | runtimes/protocols/universal schema | CANONICAL |
 | `SPEC-10-FRONTIER-AGENT-SURVEY.md` | people/labs to track + the convergence | CANONICAL |
-| `SPEC-02-epistemic-envelope.md` | epistemic status ladder + 4-axis authority | DRAFT |
-| `SPEC-03-argument-graph.md` | AIF-style Info/Inference/Conflict graph | DRAFT |
-| `SPEC-04-verification.md` | verify the two-stage claim against evidence | DRAFT |
-| `SPEC-05-surfaces.md` | Astro site + agent API + MCP | DRAFT |
-| `SPEC-06-live-system.md` | the 12-layer structure + staleness tracking | DRAFT |
+| `SPEC-11-AGENT-MEMORY-SURVEY.md` | agent memory / self-evolving systems | CANONICAL |
+
+### Planned specs (not yet written — content lives in SPEC-00/02/03/08/09)
+| Spec | Topic |
+|------|-------|
+| `SPEC-04-verification.md` | verify the two-stage claim against evidence (covered by SPEC-02/08) |
+| `SPEC-05-surfaces.md` | Astro site + agent API + MCP (covered by SPEC-00/09) |
+| `SPEC-06-live-system.md` | the 12-layer structure + staleness tracking (covered by SPEC-09) |
 
 ## How this relates to the rest of the project
 

@@ -1,0 +1,745 @@
+{
+ "count": 74,
+ "entries": [
+  {
+   "owner": "infinitywings",
+   "name": "rka",
+   "repo": "infinitywings/rka",
+   "url": "https://github.com/infinitywings/rka",
+   "category": "epistemic",
+   "tier": 0,
+   "tier_label": "clone-first",
+   "note": "research-workflow-as-state; supersession/staleness propagation"
+  },
+  {
+   "owner": "aaronsb",
+   "name": "knowledge-graph-system",
+   "repo": "aaronsb/knowledge-graph-system",
+   "url": "https://github.com/aaronsb/knowledge-graph-system",
+   "category": "epistemic",
+   "tier": 0,
+   "tier_label": "clone-first",
+   "note": "Kappa Graph: supporting vs contradicting evidence, grounding"
+  },
+  {
+   "owner": "vouchdev",
+   "name": "vouch",
+   "repo": "vouchdev/vouch",
+   "url": "https://github.com/vouchdev/vouch",
+   "category": "epistemic",
+   "tier": 0,
+   "tier_label": "clone-first",
+   "note": "git-native write/review gate (don't rebuild)"
+  },
+  {
+   "owner": "eigenius",
+   "name": "eigenius",
+   "repo": "eigenius/eigenius",
+   "url": "https://github.com/eigenius/eigenius",
+   "category": "epistemic",
+   "tier": 0,
+   "tier_label": "clone-first",
+   "note": "typed knowledge classes (Declared/Observed/Derived/Verified)"
+  },
+  {
+   "owner": "Detective-XH",
+   "name": "DocGraph",
+   "repo": "Detective-XH/DocGraph",
+   "url": "https://github.com/Detective-XH/DocGraph",
+   "category": "epistemic",
+   "tier": 0,
+   "tier_label": "clone-first",
+   "note": "SQLite KG + drift audits (staleness)"
+  },
+  {
+   "owner": "xoai",
+   "name": "sage-wiki",
+   "repo": "xoai/sage-wiki",
+   "url": "https://github.com/xoai/sage-wiki",
+   "category": "compilers",
+   "tier": 0,
+   "tier_label": "clone-first",
+   "note": "graph as compile output"
+  },
+  {
+   "owner": "rhanka",
+   "name": "graphify",
+   "repo": "rhanka/graphify",
+   "url": "https://github.com/rhanka/graphify",
+   "category": "compilers",
+   "tier": 0,
+   "tier_label": "clone-first",
+   "note": "extract->canonicalize->reconcile->typed graph"
+  },
+  {
+   "owner": "obra",
+   "name": "knowledge-graph",
+   "repo": "obra/knowledge-graph",
+   "url": "https://github.com/obra/knowledge-graph",
+   "category": "compilers",
+   "tier": 0,
+   "tier_label": "clone-first",
+   "note": "query a vault as a KG; agent interface"
+  },
+  {
+   "owner": "arg-tech",
+   "name": "aif-arg-datasets",
+   "repo": "arg-tech/aif-arg-datasets",
+   "url": "https://github.com/arg-tech/aif-arg-datasets",
+   "category": "argumentation",
+   "tier": 1,
+   "tier_label": "ingest",
+   "note": "xAIF argument graphs (QT30) - the moat dataset"
+  },
+  {
+   "owner": "allenai",
+   "name": "scifact",
+   "repo": "allenai/scifact",
+   "url": "https://github.com/allenai/scifact",
+   "category": "datasets",
+   "tier": 1,
+   "tier_label": "ingest",
+   "note": "scientific claim<->evidence gold"
+  },
+  {
+   "owner": "jiho283",
+   "name": "FactKG",
+   "repo": "jiho283/FactKG",
+   "url": "https://github.com/jiho283/FactKG",
+   "category": "datasets",
+   "tier": 1,
+   "tier_label": "ingest",
+   "note": "108k claims with reasoning structures"
+  },
+  {
+   "owner": "swarnaHub",
+   "name": "ExplaGraphs",
+   "repo": "swarnaHub/ExplaGraphs",
+   "url": "https://github.com/swarnaHub/ExplaGraphs",
+   "category": "datasets",
+   "tier": 1,
+   "tier_label": "ingest",
+   "note": "argument->explanation graph"
+  },
+  {
+   "owner": "kixlab",
+   "name": "suggestbot_dataset",
+   "repo": "kixlab/suggestbot_dataset",
+   "url": "https://github.com/kixlab/suggestbot_dataset",
+   "category": "datasets",
+   "tier": 1,
+   "tier_label": "ingest",
+   "note": "verifiable claims + supporting/refuting info"
+  },
+  {
+   "owner": "lamps-lab",
+   "name": "msvec",
+   "repo": "lamps-lab/msvec",
+   "url": "https://github.com/lamps-lab/msvec",
+   "category": "datasets",
+   "tier": 1,
+   "tier_label": "ingest",
+   "note": "multi-domain scientific claims"
+  },
+  {
+   "owner": "westlake-autolab",
+   "name": "BioKGBench",
+   "repo": "westlake-autolab/BioKGBench",
+   "url": "https://github.com/westlake-autolab/BioKGBench",
+   "category": "datasets",
+   "tier": 1,
+   "tier_label": "ingest",
+   "note": "agents checking claims against a KG"
+  },
+  {
+   "owner": "altuncu",
+   "name": "FACTors",
+   "repo": "altuncu/FACTors",
+   "url": "https://github.com/altuncu/FACTors",
+   "category": "datasets",
+   "tier": 1,
+   "tier_label": "ingest",
+   "note": "118k fact-check claims"
+  },
+  {
+   "owner": "romain-girardi-eng",
+   "name": "EleutherIA",
+   "repo": "romain-girardi-eng/EleutherIA",
+   "url": "https://github.com/romain-girardi-eng/EleutherIA",
+   "category": "philosophy",
+   "tier": 1,
+   "tier_label": "ingest",
+   "note": "free-will philosophy KG (~19k nodes/69k passages)"
+  },
+  {
+   "owner": "bhaskatripathi",
+   "name": "graphGita",
+   "repo": "bhaskatripathi/graphGita",
+   "url": "https://github.com/bhaskatripathi/graphGita",
+   "category": "philosophy",
+   "tier": 2,
+   "tier_label": "architecture",
+   "note": "Gita->KG with MCTS interpretation"
+  },
+  {
+   "owner": "allenai",
+   "name": "s2orc",
+   "repo": "allenai/s2orc",
+   "url": "https://github.com/allenai/s2orc",
+   "category": "science-infra",
+   "tier": 2,
+   "tier_label": "architecture",
+   "note": "S2ORC: scholarly open research corpus"
+  },
+  {
+   "owner": "allenai",
+   "name": "s2orc-doc2json",
+   "repo": "allenai/s2orc-doc2json",
+   "url": "https://github.com/allenai/s2orc-doc2json",
+   "category": "science-infra",
+   "tier": 1,
+   "tier_label": "ingest",
+   "note": "paper parsing (PDF2JSON/TEX2JSON/JATS2JSON)"
+  },
+  {
+   "owner": "ourresearch",
+   "name": "OpenAlex",
+   "repo": "ourresearch/OpenAlex",
+   "url": "https://github.com/ourresearch/OpenAlex",
+   "category": "science-infra",
+   "tier": 2,
+   "tier_label": "architecture",
+   "note": "open catalog of scholarship"
+  },
+  {
+   "owner": "allenai",
+   "name": "peS2o",
+   "repo": "allenai/peS2o",
+   "url": "https://github.com/allenai/peS2o",
+   "category": "science-infra",
+   "tier": 2,
+   "tier_label": "architecture",
+   "note": "pretraining efficiently on S2ORC"
+  },
+  {
+   "owner": "RManLuo",
+   "name": "gfm-rag",
+   "repo": "RManLuo/gfm-rag",
+   "url": "https://github.com/RManLuo/gfm-rag",
+   "category": "graph-reasoning",
+   "tier": 0,
+   "tier_label": "clone-first",
+   "note": "G-reasoner: graph foundation model for RAG"
+  },
+  {
+   "owner": "RManLuo",
+   "name": "reasoning-on-graphs",
+   "repo": "RManLuo/reasoning-on-graphs",
+   "url": "https://github.com/RManLuo/reasoning-on-graphs",
+   "category": "graph-reasoning",
+   "tier": 0,
+   "tier_label": "clone-first",
+   "note": "graph-valid plan before answering"
+  },
+  {
+   "owner": "DataArcTech",
+   "name": "ToG-2",
+   "repo": "DataArcTech/ToG-2",
+   "url": "https://github.com/DataArcTech/ToG-2",
+   "category": "graph-reasoning",
+   "tier": 0,
+   "tier_label": "clone-first",
+   "note": "alternating text<->graph search"
+  },
+  {
+   "owner": "IDEA-FinAI",
+   "name": "ToG",
+   "repo": "IDEA-FinAI/ToG",
+   "url": "https://github.com/IDEA-FinAI/ToG",
+   "category": "graph-reasoning",
+   "tier": 2,
+   "tier_label": "architecture",
+   "note": "original Think-on-Graph"
+  },
+  {
+   "owner": "BUPT-GAMMA",
+   "name": "PathRAG",
+   "repo": "BUPT-GAMMA/PathRAG",
+   "url": "https://github.com/BUPT-GAMMA/PathRAG",
+   "category": "graph-reasoning",
+   "tier": 0,
+   "tier_label": "clone-first",
+   "note": "retrieve reasoning paths, bounded token"
+  },
+  {
+   "owner": "Graph-COM",
+   "name": "SubgraphRAG",
+   "repo": "Graph-COM/SubgraphRAG",
+   "url": "https://github.com/Graph-COM/SubgraphRAG",
+   "category": "graph-reasoning",
+   "tier": 0,
+   "tier_label": "clone-first",
+   "note": "retrieve smallest useful graph"
+  },
+  {
+   "owner": "OSU-NLP-Group",
+   "name": "HippoRAG",
+   "repo": "OSU-NLP-Group/HippoRAG",
+   "url": "https://github.com/OSU-NLP-Group/HippoRAG",
+   "category": "graph-reasoning",
+   "tier": 0,
+   "tier_label": "clone-first",
+   "note": "PPR associative retrieval"
+  },
+  {
+   "owner": "LHRLAB",
+   "name": "HyperGraphRAG",
+   "repo": "LHRLAB/HyperGraphRAG",
+   "url": "https://github.com/LHRLAB/HyperGraphRAG",
+   "category": "graph-reasoning",
+   "tier": 2,
+   "tier_label": "architecture",
+   "note": "hypergraph representation (BET)"
+  },
+  {
+   "owner": "gusye1234",
+   "name": "nano-graphrag",
+   "repo": "gusye1234/nano-graphrag",
+   "url": "https://github.com/gusye1234/nano-graphrag",
+   "category": "graph-reasoning",
+   "tier": 2,
+   "tier_label": "architecture",
+   "note": "~1100-line reference GraphRAG"
+  },
+  {
+   "owner": "circlemind-ai",
+   "name": "fast-graphrag",
+   "repo": "circlemind-ai/fast-graphrag",
+   "url": "https://github.com/circlemind-ai/fast-graphrag",
+   "category": "graph-reasoning",
+   "tier": 2,
+   "tier_label": "architecture",
+   "note": "production-minded HippoRAG-like"
+  },
+  {
+   "owner": "HKUDS",
+   "name": "LightRAG",
+   "repo": "HKUDS/LightRAG",
+   "url": "https://github.com/HKUDS/LightRAG",
+   "category": "graph-reasoning",
+   "tier": 2,
+   "tier_label": "architecture",
+   "note": "dual-level retrieval"
+  },
+  {
+   "owner": "OpenSPG",
+   "name": "KAG",
+   "repo": "OpenSPG/KAG",
+   "url": "https://github.com/OpenSPG/KAG",
+   "category": "graph-reasoning",
+   "tier": 2,
+   "tier_label": "architecture",
+   "note": "ontology + logic + retrieval"
+  },
+  {
+   "owner": "getzep",
+   "name": "graphiti",
+   "repo": "getzep/graphiti",
+   "url": "https://github.com/getzep/graphiti",
+   "category": "graph-reasoning",
+   "tier": 0,
+   "tier_label": "clone-first",
+   "note": "epistemic graph vs temporal events"
+  },
+  {
+   "owner": "airi-institute",
+   "name": "arigraph",
+   "repo": "airi-institute/arigraph",
+   "url": "https://github.com/airi-institute/arigraph",
+   "category": "graph-reasoning",
+   "tier": 0,
+   "tier_label": "clone-first",
+   "note": "semantic + episodic memory"
+  },
+  {
+   "owner": "microsoft",
+   "name": "graphrag",
+   "repo": "microsoft/graphrag",
+   "url": "https://github.com/microsoft/graphrag",
+   "category": "graph-reasoning",
+   "tier": 2,
+   "tier_label": "architecture",
+   "note": "reference GraphRAG (not foundation)"
+  },
+  {
+   "owner": "GraphRAG-Bench",
+   "name": "GraphRAG-Benchmark",
+   "repo": "GraphRAG-Bench/GraphRAG-Benchmark",
+   "url": "https://github.com/GraphRAG-Bench/GraphRAG-Benchmark",
+   "category": "graph-reasoning",
+   "tier": 2,
+   "tier_label": "architecture",
+   "note": "GraphRAG benchmark"
+  },
+  {
+   "owner": "JayLZhou",
+   "name": "GraphRAG",
+   "repo": "JayLZhou/GraphRAG",
+   "url": "https://github.com/JayLZhou/GraphRAG",
+   "category": "graph-reasoning",
+   "tier": 2,
+   "tier_label": "architecture",
+   "note": "in-depth graphrag study"
+  },
+  {
+   "owner": "lyndonkl",
+   "name": "graphragmcp",
+   "repo": "lyndonkl/graphragmcp",
+   "url": "https://github.com/lyndonkl/graphragmcp",
+   "category": "graph-reasoning",
+   "tier": 2,
+   "tier_label": "architecture",
+   "note": "GraphRAG MCP research server"
+  },
+  {
+   "owner": "ngl567",
+   "name": "KGR-Survey",
+   "repo": "ngl567/KGR-Survey",
+   "url": "https://github.com/ngl567/KGR-Survey",
+   "category": "graph-reasoning",
+   "tier": 2,
+   "tier_label": "architecture",
+   "note": "task-oriented KG reasoning survey"
+  },
+  {
+   "owner": "restatedev",
+   "name": "restate",
+   "repo": "restatedev/restate",
+   "url": "https://github.com/restatedev/restate",
+   "category": "agent-runtime",
+   "tier": 3,
+   "tier_label": "watch",
+   "note": "distributed stateful actors + durable calls"
+  },
+  {
+   "owner": "temporalio",
+   "name": "temporal",
+   "repo": "temporalio/temporal",
+   "url": "https://github.com/temporalio/temporal",
+   "category": "agent-runtime",
+   "tier": 3,
+   "tier_label": "watch",
+   "note": "mature durable execution (we already run it)"
+  },
+  {
+   "owner": "dbos-inc",
+   "name": "dbos-transact-py",
+   "repo": "dbos-inc/dbos-transact-py",
+   "url": "https://github.com/dbos-inc/dbos-transact-py",
+   "category": "agent-runtime",
+   "tier": 3,
+   "tier_label": "watch",
+   "note": "durable execution on Postgres"
+  },
+  {
+   "owner": "hatchet-dev",
+   "name": "hatchet",
+   "repo": "hatchet-dev/hatchet",
+   "url": "https://github.com/hatchet-dev/hatchet",
+   "category": "agent-runtime",
+   "tier": 3,
+   "tier_label": "watch",
+   "note": "queue/scheduling ergonomics"
+  },
+  {
+   "owner": "pydantic",
+   "name": "pydantic-ai",
+   "repo": "pydantic/pydantic-ai",
+   "url": "https://github.com/pydantic/pydantic-ai",
+   "category": "agent-runtime",
+   "tier": 2,
+   "tier_label": "architecture",
+   "note": "Python agent shell"
+  },
+  {
+   "owner": "microsoft",
+   "name": "autogen",
+   "repo": "microsoft/autogen",
+   "url": "https://github.com/microsoft/autogen",
+   "category": "agent-runtime",
+   "tier": 2,
+   "tier_label": "architecture",
+   "note": "agent framework (LangGraph-alt)"
+  },
+  {
+   "owner": "dapr",
+   "name": "dapr-agents",
+   "repo": "dapr/dapr-agents",
+   "url": "https://github.com/dapr/dapr-agents",
+   "category": "agent-runtime",
+   "tier": 3,
+   "tier_label": "watch",
+   "note": "Dapr Agents (distributed)"
+  },
+  {
+   "owner": "langchain-ai",
+   "name": "langgraph",
+   "repo": "langchain-ai/langgraph",
+   "url": "https://github.com/langchain-ai/langgraph",
+   "category": "agent-runtime",
+   "tier": 2,
+   "tier_label": "architecture",
+   "note": "benchmark target, not foundation"
+  },
+  {
+   "owner": "EvoScientist",
+   "name": "EvoScientist",
+   "repo": "EvoScientist/EvoScientist",
+   "url": "https://github.com/EvoScientist/EvoScientist",
+   "category": "agent-memory",
+   "tier": 0,
+   "tier_label": "clone-first",
+   "note": "self-evolving AI scientists (study deepest)"
+  },
+  {
+   "owner": "neomjs",
+   "name": "neo",
+   "repo": "neomjs/neo",
+   "url": "https://github.com/neomjs/neo",
+   "category": "agent-memory",
+   "tier": 0,
+   "tier_label": "clone-first",
+   "note": "Neo.mjs agent OS / software organism"
+  },
+  {
+   "owner": "neo4j-labs",
+   "name": "meta-knowledge-graph",
+   "repo": "neo4j-labs/meta-knowledge-graph",
+   "url": "https://github.com/neo4j-labs/meta-knowledge-graph",
+   "category": "agent-memory",
+   "tier": 0,
+   "tier_label": "clone-first",
+   "note": "self-improving memory layer, lifecycle hooks"
+  },
+  {
+   "owner": "neo4j-labs",
+   "name": "agent-memory",
+   "repo": "neo4j-labs/agent-memory",
+   "url": "https://github.com/neo4j-labs/agent-memory",
+   "category": "agent-memory",
+   "tier": 0,
+   "tier_label": "clone-first",
+   "note": "graph-native agent memory"
+  },
+  {
+   "owner": "MemTensor",
+   "name": "MemOS",
+   "repo": "MemTensor/MemOS",
+   "url": "https://github.com/MemTensor/MemOS",
+   "category": "agent-memory",
+   "tier": 0,
+   "tier_label": "clone-first",
+   "note": "self-evolving memory OS + Hermes integration"
+  },
+  {
+   "owner": "MemTensor",
+   "name": "MemRL",
+   "repo": "MemTensor/MemRL",
+   "url": "https://github.com/MemTensor/MemRL",
+   "category": "agent-memory",
+   "tier": 2,
+   "tier_label": "architecture",
+   "note": "runtime RL on episodic memory"
+  },
+  {
+   "owner": "Memento-Teams",
+   "name": "Memento-Skills",
+   "repo": "Memento-Teams/Memento-Skills",
+   "url": "https://github.com/Memento-Teams/Memento-Skills",
+   "category": "agent-memory",
+   "tier": 2,
+   "tier_label": "architecture",
+   "note": "agents design their own skills"
+  },
+  {
+   "owner": "Zhang-Henry",
+   "name": "CoEvoSkills",
+   "repo": "Zhang-Henry/CoEvoSkills",
+   "url": "https://github.com/Zhang-Henry/CoEvoSkills",
+   "category": "agent-memory",
+   "tier": 2,
+   "tier_label": "architecture",
+   "note": "skill + verifier co-evolution"
+  },
+  {
+   "owner": "ViktorAxelsen",
+   "name": "MemSkill",
+   "repo": "ViktorAxelsen/MemSkill",
+   "url": "https://github.com/ViktorAxelsen/MemSkill",
+   "category": "agent-memory",
+   "tier": 2,
+   "tier_label": "architecture",
+   "note": "memory policy learns how to remember"
+  },
+  {
+   "owner": "aiming-lab",
+   "name": "SkillRL",
+   "repo": "aiming-lab/SkillRL",
+   "url": "https://github.com/aiming-lab/SkillRL",
+   "category": "agent-memory",
+   "tier": 2,
+   "tier_label": "architecture",
+   "note": "trajectories -> hierarchical skills -> RL"
+  },
+  {
+   "owner": "Qwen-Applications",
+   "name": "skill-self-play",
+   "repo": "Qwen-Applications/skill-self-play",
+   "url": "https://github.com/Qwen-Applications/skill-self-play",
+   "category": "agent-memory",
+   "tier": 2,
+   "tier_label": "architecture",
+   "note": "skill self-play (Alibaba/Qwen)"
+  },
+  {
+   "owner": "EvolvingAgentsLabs",
+   "name": "evolving-memory",
+   "repo": "EvolvingAgentsLabs/evolving-memory",
+   "url": "https://github.com/EvolvingAgentsLabs/evolving-memory",
+   "category": "agent-memory",
+   "tier": 2,
+   "tier_label": "architecture",
+   "note": "evolving memory / cognitive trajectory"
+  },
+  {
+   "owner": "EvoMap",
+   "name": "evolver-claude-code-plugin",
+   "repo": "EvoMap/evolver-claude-code-plugin",
+   "url": "https://github.com/EvoMap/evolver-claude-code-plugin",
+   "category": "agent-memory",
+   "tier": 2,
+   "tier_label": "architecture",
+   "note": "GEP-powered self-evolution"
+  },
+  {
+   "owner": "RangeKing",
+   "name": "self-evolving-agent",
+   "repo": "RangeKing/self-evolving-agent",
+   "url": "https://github.com/RangeKing/self-evolving-agent",
+   "category": "agent-memory",
+   "tier": 2,
+   "tier_label": "architecture",
+   "note": "correct governance model"
+  },
+  {
+   "owner": "191341025",
+   "name": "Self-Evolving-Skill",
+   "repo": "191341025/Self-Evolving-Skill",
+   "url": "https://github.com/191341025/Self-Evolving-Skill",
+   "category": "agent-memory",
+   "tier": 2,
+   "tier_label": "architecture",
+   "note": "five-gate knowledge governance"
+  },
+  {
+   "owner": "DiaaAj",
+   "name": "a-mem-mcp",
+   "repo": "DiaaAj/a-mem-mcp",
+   "url": "https://github.com/DiaaAj/a-mem-mcp",
+   "category": "agent-memory",
+   "tier": 2,
+   "tier_label": "architecture",
+   "note": "self-evolving graph memory MCP"
+  },
+  {
+   "owner": "memory-graph",
+   "name": "memory-graph",
+   "repo": "memory-graph/memory-graph",
+   "url": "https://github.com/memory-graph/memory-graph",
+   "category": "agent-memory",
+   "tier": 2,
+   "tier_label": "architecture",
+   "note": "temporal graph memory MCP"
+  },
+  {
+   "owner": "ipiton",
+   "name": "agent-memory-mcp",
+   "repo": "ipiton/agent-memory-mcp",
+   "url": "https://github.com/ipiton/agent-memory-mcp",
+   "category": "agent-memory",
+   "tier": 2,
+   "tier_label": "architecture",
+   "note": "agent persistent memory MCP"
+  },
+  {
+   "owner": "LuckyGirl-XU",
+   "name": "Awesome-Agent-Dynamic-Graphs",
+   "repo": "LuckyGirl-XU/Awesome-Agent-Dynamic-Graphs",
+   "url": "https://github.com/LuckyGirl-XU/Awesome-Agent-Dynamic-Graphs",
+   "category": "agent-memory",
+   "tier": 3,
+   "tier_label": "watch",
+   "note": "research-index: agent dynamic graphs"
+  },
+  {
+   "owner": "DataArcTech",
+   "name": "Awesome-Agent-Skill-Papers",
+   "repo": "DataArcTech/Awesome-Agent-Skill-Papers",
+   "url": "https://github.com/DataArcTech/Awesome-Agent-Skill-Papers",
+   "category": "agent-memory",
+   "tier": 3,
+   "tier_label": "watch",
+   "note": "research-index: agent skill papers"
+  },
+  {
+   "owner": "modelcontextprotocol",
+   "name": "servers",
+   "repo": "modelcontextprotocol/servers",
+   "url": "https://github.com/modelcontextprotocol/servers",
+   "category": "protocols",
+   "tier": 2,
+   "tier_label": "architecture",
+   "note": "MCP reference servers"
+  },
+  {
+   "owner": "agentic-community",
+   "name": "mcp-gateway",
+   "repo": "agentic-community/mcp-gateway",
+   "url": "https://github.com/agentic-community/mcp-gateway",
+   "category": "protocols",
+   "tier": 2,
+   "tier_label": "architecture",
+   "note": "MCP gateway (tool explosion)"
+  },
+  {
+   "owner": "agentic-community",
+   "name": "mcp-gateway-registry",
+   "repo": "agentic-community/mcp-gateway-registry",
+   "url": "https://github.com/agentic-community/mcp-gateway-registry",
+   "category": "protocols",
+   "tier": 2,
+   "tier_label": "architecture",
+   "note": "MCP gateway registry (control plane)"
+  },
+  {
+   "owner": "a2aproject",
+   "name": "A2A",
+   "repo": "a2aproject/A2A",
+   "url": "https://github.com/a2aproject/A2A",
+   "category": "protocols",
+   "tier": 2,
+   "tier_label": "architecture",
+   "note": "A2A agent-to-agent protocol"
+  },
+  {
+   "owner": "GoogleCloudPlatform",
+   "name": "knowledge-catalog",
+   "repo": "GoogleCloudPlatform/knowledge-catalog",
+   "url": "https://github.com/GoogleCloudPlatform/knowledge-catalog",
+   "category": "protocols",
+   "tier": 2,
+   "tier_label": "architecture",
+   "note": "Open Knowledge Format (OKF)"
+  }
+ ]
+}

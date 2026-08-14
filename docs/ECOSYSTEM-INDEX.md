@@ -14,6 +14,8 @@ WHY before cloning/building.*
 | Ecosystem survey | `SPEC-07` | repos/datasets/benchmarks (R2 `gitclone`) |
 | Graph-reasoning survey | `SPEC-08` | arXiv GraphRAG architectures (R2 `arxivgraph`) |
 | Agent-orchestration survey | `SPEC-09` | runtimes/protocols/universal schema (R2 `agenticref`) |
+| Frontier-agent survey | `SPEC-10` | people/labs to track (R2 `frontieragent`) |
+| Agent-memory survey | `SPEC-11` | self-evolving systems (R2 `githubagent`) |
 
 **Recommended clone order** and **recommended ingest order** are in each spec's final section.
 
@@ -142,3 +144,21 @@ NOW:   foundation model → learned computation policy → spawn agents/tools/gr
         → skills/memory/architecture → SELF-IMPROVEMENT
 ```
 We are building the **persistent verified state** those systems need.
+
+---
+
+## 7. AGENT-MEMORY / SELF-EVOLVING SYSTEMS (SPEC-11)
+
+These cover much of the agent plumbing we'd want. **What remains distinctly ours: the epistemic kernel
++ rigorous promotion path (agent output → evidence → review → canonical knowledge).**
+
+| Repo | Why |
+|------|-----|
+| EvoScientist | self-evolving AI scientists — study deepest |
+| Neo.mjs (neomjs/neo) | agent OS / software organism |
+| neo4j-labs/meta-knowledge-graph | self-improving memory, lifecycle hooks |
+| MemOS / MemRL | self-evolving memory OS + runtime RL |
+| Memento-Skills / CoEvoSkills / MemSkill / SkillRL | skill self-evolution |
+| A-MEM / MemoryGraph / agent-memory-mcp | graph-memory MCP servers |
+
+Full list + tier tagging: `docs/GITHUB-INDEX.md` (`agent-memory` category) + `data/references/github.json`.

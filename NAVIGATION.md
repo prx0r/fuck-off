@@ -85,7 +85,14 @@ graph after adding text, run `build-graph.py`.
 | `docs/ORIGINAL-README.md` | redirect stub (superseded) |
 | `docs/ECOSYSTEM-INDEX.md` | consolidated reference index (repos/datasets/arxiv/agent infra) |
 | `docs/ARXIV-INDEX.md` | canonical arXiv catalog (32 papers, by category) |
+| `docs/GITHUB-INDEX.md` | canonical GitHub catalog (74 repos, by category + tier) |
 | `docs/TESTING-VALIDATION-REPORT.md` | the test + validation results |
+
+## Reference catalogs (machine-readable)
+| File | What it is |
+|------|------------|
+| `data/references/arxiv.json` | 32 papers with id/url/title/category/status/note |
+| `data/references/github.json` | 74 repos with owner/name/url/category/tier/note |
 
 ## Ecosystem clones (organized)
 `ecosystem/{epistemic,compilers,argumentation,science,philosophy,retrieval,agent-runtime}/` — each
@@ -99,11 +106,11 @@ category has a README explaining what belongs there + why. See `docs/ECOSYSTEM-I
 | `specs/SPEC-01-canonical-dag.md` | the derivational layer DAG |
 | `specs/SPEC-02-epistemic-envelope.md` | epistemic status ladder + authority |
 | `specs/SPEC-03-argument-graph.md` | AIF Info/Inference/Conflict graph |
-| `specs/SPEC-04-verification.md` | verify the two-stage claim |
-| `specs/SPEC-05-surfaces.md` | Astro + API + MCP |
-| `specs/SPEC-06-live-system.md` | 12-layer structure + live system |
 | `specs/SPEC-07-ECOSYSTEM-SURVEY.md` | third-party repos/datasets/benchmarks (CANONICAL) |
 | `specs/SPEC-08-GRAPH-REASONING-SURVEY.md` | arXiv graph-reasoning architectures (CANONICAL) |
+| `specs/SPEC-09-AGENT-ORCHESTRATION-SURVEY.md` | runtimes/protocols/universal schema (CANONICAL) |
+| `specs/SPEC-10-FRONTIER-AGENT-SURVEY.md` | people/labs to track + the convergence (CANONICAL) |
+| `specs/SPEC-11-AGENT-MEMORY-SURVEY.md` | agent memory / self-evolving systems (CANONICAL) |
 
 ## Governance / planning
 | File | What it is |

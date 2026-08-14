@@ -118,3 +118,25 @@ imposed.
   agent-frameworks (2), skills-datasets (2). Each entry: title · arxiv link · status (GAP/BET/
   VALIDATES/REFERENCE) · note.
 - NAVIGATION.md wired to the index.
+
+## 2026-08-14 (cont.) — GitHub reference index + full structure audit
+
+### Added
+- **`specs/SPEC-11-AGENT-MEMORY-SURVEY.md`** (from R2 `githubagent`, 1194 lines) — agent-memory /
+  self-evolving systems. Key insight: what remains distinctly ours is the **epistemic kernel +
+  rigorous promotion path (agent output → evidence → review → canonical knowledge)**.
+- **`scripts/build-github-index.py`** — generates the GitHub catalog.
+- **`data/references/github.json`** — machine-readable (74 repos: owner/name/url/category/tier/note).
+- **`docs/GITHUB-INDEX.md`** — readable catalog, 10 categories + tier tagging (0=clone-first, 1=ingest,
+  2=architecture, 3=watch).
+
+### Structure audit (cleanliness + cross-references)
+- Fixed NAVIGATION.md to list only real spec files (removed stale SPEC-04/05/06 entries).
+- Fixed layers/07-surfaces.md dangling SPEC-05 ref → SPEC-00/09.
+- Reconcile specs/README.md: SPEC-01/02/03 marked implemented; SPEC-04/05/06 clearly marked "planned,
+  content covered elsewhere".
+- ECOSYSTEM-INDEX.md updated with SPEC-10/11 sources + §7 agent-memory repos.
+
+### Reference catalogs (canonical, machine-readable)
+- `data/references/arxiv.json` (32 papers) + `docs/ARXIV-INDEX.md`
+- `data/references/github.json` (74 repos) + `docs/GITHUB-INDEX.md`
