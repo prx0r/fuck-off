@@ -46,3 +46,12 @@ Status: [x] done · [~] in progress · [ ] open.*
 - `specs/SPEC-14-FRONTIER-LAYER-BUILDS.md` — the *why* per layer.
 - `docs/ALGORITHMS.md` — the granular algorithm findings.
 - `data/graph/test-results.json` — machine-readable validation output.
+
+## Product kernels (SPEC-18) — validated
+| Kernel | Product | Layer | Status |
+|--------|---------|-------|--------|
+| `lib/translation.py` | TranslationProof (non-aggregate vector + gate) | 03 | [x] 5/5 |
+| `lib/scholar_review.py` | adversarial panel + citecheck | 08 | [x] 4/4 |
+| `lib/schema.py` | single-source schema compiler | 00 | [x] 2/2 |
+
+Next: Text-Fabric textual substrate · Stencila bindings · Engram education · Datasette read-plane.

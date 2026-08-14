@@ -40,6 +40,10 @@ docs/0N-*.md            (live — implemented, reconciled to ground truth)
 | `SPEC-12-AGENT-HARNESS-SURVEY.md` | agent-harness repos (maestro/arcan/herdr/looms) | CANONICAL |
 | `SPEC-13-STALENESS-PERFORMANCE.md` | staleness + performance for all 7 futures | CANONICAL |
 | `SPEC-14-FRONTIER-LAYER-BUILDS.md` | frontier-optimized build for all 13 patala layers | CANONICAL |
+| `SPEC-15-PATALA-REVIEW.md` | scholar review survey | CANONICAL |
+| `SPEC-16-PATALA-TRANSLATE.md` | translation subsystem survey | CANONICAL |
+| `SPEC-17-PATALA-GITHUBS.md` | textual/identity/provenance survey | CANONICAL |
+| `SPEC-18-COMPLETE-PIPELINE.md` | complete product pipeline | CANONICAL |
 
 ### Planned specs (not yet written — content lives in SPEC-00/02/03/08/09)
 | Spec | Topic |

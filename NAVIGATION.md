@@ -148,6 +148,10 @@ category has a README explaining what belongs there + why. See `docs/ECOSYSTEM-I
 | `specs/SPEC-12-AGENT-HARNESS-SURVEY.md` | agent-harness repos (CANONICAL) |
 | `specs/SPEC-13-STALENESS-PERFORMANCE.md` | staleness + performance for the futures (CANONICAL) |
 | `specs/SPEC-14-FRONTIER-LAYER-BUILDS.md` | frontier build for all 13 layers (CANONICAL) |
+| `specs/SPEC-15-PATALA-REVIEW.md` | scholar review survey (CANONICAL) |
+| `specs/SPEC-16-PATALA-TRANSLATE.md` | translation subsystem survey (CANONICAL) |
+| `specs/SPEC-17-PATALA-GITHUBS.md` | textual/identity/provenance survey (CANONICAL) |
+| `specs/SPEC-18-COMPLETE-PIPELINE.md` | complete product pipeline (CANONICAL) |
 
 ## Governance / planning
 | File | What it is |

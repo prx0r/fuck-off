@@ -226,3 +226,13 @@ imposed.
   **HippoRAG PPR is hub-biased (Value/Information dominate)** — a verified finding requiring
   query-relevance reweighting.
 - Test suite now 10/10 pass.
+
+## 2026-08-14 (cont.) — complete product pipeline (SPEC-15/16/17 → SPEC-18)
+- Imported + saved SPEC-15 (review), SPEC-16 (translate), SPEC-17 (githubs) from R2.
+- **Built 3 product kernels (validated 11/11):**
+  - `lib/translation.py` — TranslationProof, non-aggregate audit vector + dimension-specific publication gate
+  - `lib/scholar_review.py` — adversarial review panel, anti-groupthink, CiteCheck phantom detection
+  - `lib/schema.py` — Stencila-style single-source schema compiler (claim/evidence/argument)
+- **`specs/SPEC-18-COMPLETE-PIPELINE.md`** — the full pipeline (textual/epistemic/work substrates →
+  TranslationProof → claim/argument/evidence → review → projection → education).
+- `scripts/validate-products.py` (11/11) added to test suite (now 11 total tests... will confirm).
