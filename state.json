@@ -4,10 +4,10 @@
   "schema_version": 1,
   "updated": "2026-08-14",
   "counts": {
-    "kernels": 18,
-    "experiments": 55,
-    "tests_passing": 55,
-    "theatre_proven_real": 27,
+    "kernels": 22,
+    "experiments": 59,
+    "tests_passing": 59,
+    "theatre_proven_real": 31,
     "theatre_proven_mechanism": 27,
     "theatre_unproven": 0,
     "github_repo_catalog": 99,
@@ -16,7 +16,7 @@
     "repos_reference": 21,
     "arxiv_catalog": 32,
     "specs": 47,
-    "docs_traced": 107
+    "docs_traced": 108
   },
   "graduation": {
     "doyle": {"script": "scripts/validate-graduation.py", "result": "14/14", "data": "real graph/argument/canonical-dag"},
@@ -38,19 +38,22 @@
     "L03_factory": "VALIDATED",
     "L04_argument_engine": "VALIDATED",
     "L05_review_gate": "VALIDATED",
-    "L06_retrieval_compiler": "NOT_STARTED",
-    "L07_surfaces": "NOT_STARTED",
+    "L06_retrieval_compiler": "BUILT",
+    "L07_surfaces": "BUILT",
     "L08_domain_expansions": "VALIDATED",
     "L09_live_system": "VALIDATED"
   },
+  "read_plane_built": {
+    "projection_compiler": {"kernel": "lib/context_compiler.py", "test": "validate-context-compiler", "result": "12/12"},
+    "fts_baseline": {"kernel": "lib/fts_search.py", "test": "validate-fts-baseline", "result": "9/9", "decision": "Postgres FTS p50<10ms; no Tantivy"},
+    "agent_bundles_mcp": {"kernel": "lib/bundle_router.py", "test": "validate-bundle-router", "result": "16/16"},
+    "seo_astro": {"kernel": "lib/seo.py", "test": "validate-seo-astro", "result": "13/13"}
+  },
   "next_dev_steps": [
-    {"rank": "P0", "task": "build the projection compiler (Python/DuckDB -> immutable per-entity R2 artifacts)", "layer": "L06", "unblocks": ["agent bundles", "Astro", "MCP", "SEO"]},
-    {"rank": "P0", "task": "build Postgres-FTS search module as a measured baseline (decision point vs Tantivy)", "layer": "L06", "spec": "SPEC-49"},
-    {"rank": "P0", "task": "build compiled agent context bundles (one request per question, budget=2k/8k/32k)", "layer": "L06", "spec": "SPEC-00 §15"},
-    {"rank": "P1", "task": "build Astro surfaces over projections (0-JS, JSON-LD, canonical URLs)", "layer": "L07", "spec": "SPEC-00 §24"},
-    {"rank": "P1", "task": "build MCP thin adapter (8 tools: resolve/search/get/context/trace/compare/neighbors/evidence)", "layer": "L07", "spec": "SPEC-00 §16"},
+    {"rank": "P0", "task": "wire the projection compiler + bundles + SEO into an actual Astro project (astro build, deploy to Cloudflare Pages)", "layer": "L07"},
+    {"rank": "P0", "task": "add the search route + MCP endpoint to a real Worker (Streamable HTTP)", "layer": "L07"},
     {"rank": "P1", "task": "signed human attestation (gap E) before any marketplace", "layer": "L05", "gap": "E"},
-    {"rank": "P2", "task": "build the 3 v3 needs-build products (Essay projection, Commentary, Tokenization)", "layer": "L04/L09", "spec": "migration/v3"},
-    {"rank": "P2", "task": "widen IPVV run over many IPK karikas (real corpus pass)", "layer": "ALL", "spec": "migration/v3"}
+    {"rank": "P1", "task": "build the 3 v3 needs-build products (Essay projection, Commentary, Tokenization)", "layer": "L04/L09", "spec": "migration/v3"},
+    {"rank": "P1", "task": "widen IPVV run over many IPK karikas (real corpus pass) + feed produced essays/lessons through the organism loop", "layer": "ALL", "spec": "migration/v3"}
   ]
 }

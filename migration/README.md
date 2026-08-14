@@ -31,7 +31,7 @@ product patala listed — and the **extra products** they didn't anticipate.*
 ## The one-line summary
 
 > Patala v2 spec'd a coherent system (one kernel, one graph, clear names, 16 products).
-> We built 18 kernels + 55 experiments that PROVE the mechanisms for most of those products —
+> We built 22 kernels + 59 experiments that PROVE the mechanisms for most of those products —
 > and discovered 6 more product-level capabilities they didn't list. This folder makes every patala
 > product traceable to a proven lab mechanism, so the next agent can build them properly.
 

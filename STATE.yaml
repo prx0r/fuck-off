@@ -38,11 +38,11 @@ layers:
   06-retrieval-compiler:
     chunk: 7
     status: VALIDATED
-    note: 'lib/retrieval.py + lib/query.py (KG2Code) VALIDATED on Doyle graph. NOT production retrieval.'
+    note: 'PROJECTION COMPILER LIVE (SPEC-49 P0): context_compiler + fts_search + bundle_router (12/12+9/9+16/16). Immutable per-entity bundles + Postgres-FTS-equivalent search + MCP 8-tool adapter.'
   07-surfaces:
     chunk: 8
-    status: DISCOVERED
-    note: 'Astro + MCP spec'd (SPEC-00/09); mcp-agent + agent-kit cloned as reference. NOT built.'
+    status: VALIDATED
+    note: 'SEO/ASTRO LIVE (SPEC-49 P1): lib/seo.py (13/13). Canonical URLs + JSON-LD + sitemap + static 0-JS HTML from compiled projections.'
   08-domain-expansions:
     chunk: 9
     status: VALIDATED

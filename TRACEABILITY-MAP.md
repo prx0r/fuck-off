@@ -36,8 +36,8 @@ Nothing is orphaned. Machine-checkable: every entry has a path; every path exist
 | L03 | Factory | `03-factory` | `staleness.py`, `discovery.py` | rka, counterfactual, salsa |
 | L04 | Argument Engine | `04-argument-engine` | — | crux-compiler, question-growth, gem-extraction |
 | L05 | Research/Review | `05-review-gate` | `review.py` | herdr, self-improve |
-| L06 | Commentarial | `06-commentarial` | — | koral, claim-standardisation |
-| L07 | Verification | `07-verification` | — | mutation-testing, theatre-check |
+| L06 | Retrieval Compiler | `06-retrieval-compiler` | `retrieval.py`, `query.py`, `context_compiler.py`, `fts_search.py`, `bundle_router.py` | context-compiler, fts-baseline, bundle-router |
+| L07 | Surfaces (Astro/MCP/SEO) | `07-surfaces` | `seo.py`, `bundle_router.py` | seo-astro, bundle-router |
 | L08 | Human Authority | `08-human-authority` | `scholar_review.py` | cross-review, review-bias |
 | L09 | Organism/Education | `09-live-system` | `education.py`, `organism.py`, `pedagogy.py`, `agent_delivery.py`, `essay_ingest.py`, `patala_product.py` | organism-loop, pedagogy, execution-replay, essay-ingest, v3-product |
 | L10 | Surfaces | `10-surfaces` | `query.py`, `retrieval.py` | kg2code, pathrag, hipporag |

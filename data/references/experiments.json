@@ -1,5 +1,5 @@
 {
- "count": 55,
+ "count": 59,
  "entries": [
   {
    "script": "validate-layer03-05.py",
@@ -495,6 +495,42 @@
    "kernel": "v3-product",
    "status": "RUN",
    "note": "the ULTIMATE product: assembles all 17 kernels into v3's 4-family/16-product stack for one real IPK claim \u2014 13/13"
+  },
+  {
+   "script": "validate-context-compiler.py",
+   "layer": "L06",
+   "source": "real graph (490/6578)",
+   "vision": "Verified Epistemic OS",
+   "kernel": "projection-compiler",
+   "status": "RUN",
+   "note": "canonical graph -> immutable content-addressed per-entity context bundles (one request per question) \u2014 12/12"
+  },
+  {
+   "script": "validate-fts-baseline.py",
+   "layer": "L06",
+   "source": "real corpus (425)",
+   "vision": "Verified Epistemic OS",
+   "kernel": "fts-baseline",
+   "status": "RUN",
+   "note": "Postgres-FTS-equivalent index + benchmark (SPEC-49 Tantivy decision point, p50<10ms) \u2014 9/9"
+  },
+  {
+   "script": "validate-bundle-router.py",
+   "layer": "L06/L07",
+   "source": "real graph + corpus",
+   "vision": "Verified Epistemic OS",
+   "kernel": "bundle-router",
+   "status": "RUN",
+   "note": "compiled agent bundles + MCP 8-tool adapter + R2-style immutable emission \u2014 16/16"
+  },
+  {
+   "script": "validate-seo-astro.py",
+   "layer": "L07",
+   "source": "real graph",
+   "vision": "Verified Epistemic OS",
+   "kernel": "seo-astro",
+   "status": "RUN",
+   "note": "canonical URLs + JSON-LD + sitemap + 31 static 0-JS HTML pages (unified graphs) \u2014 13/13"
   }
  ]
 }

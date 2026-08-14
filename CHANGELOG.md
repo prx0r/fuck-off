@@ -684,3 +684,17 @@ imposed.
 - **DEV_PLAN PHASE 3** — rewritten as the read-plane build (projection compiler → Postgres FTS →
   agent bundles/MCP → Astro/SEO), P0-first per SPEC-49.
 - Wired into NAVIGATION + specs-README + TRACEABILITY. 108 docs traced.
+
+## 2026-08-14 (THE READ PLANE BUILT — projection compiler + FTS + agent bundles/MCP + SEO/Astro)
+Autonomous build of the full read plane (SPEC-49 P0/P1), adapting the graphrag `LocalSearchMixedContext`
+frontier pattern + SPEC-00 §15/§16/§17. 4 new kernels, 4 new validators, L06+L07 NOT_STARTED → BUILT:
+- **`lib/context_compiler.py`** (12/12) — the projection compiler: canonical graph → immutable,
+  content-addressed per-entity context bundles (one agent question = one request). view/budget/depth.
+- **`lib/fts_search.py`** (9/9) — Postgres-FTS-equivalent inverted index over the real corpus. **The
+  SPEC-49 Tantivy decision point: p50 < 10ms over 425 docs → keep Postgres FTS, no Tantivy.**
+- **`lib/bundle_router.py`** (16/16) — compiled agent bundles + MCP 8-tool thin adapter
+  (resolve/search/get/context/trace/compare/neighbors/evidence) + R2-style immutable emission.
+- **`lib/seo.py`** (13/13) — agent-SEO: one canonical URL per entity + semantic 0-JS HTML + schema.org
+  JSON-LD + sitemap + 31 static HTML pages. Unifies human/search-engine/agent/API graphs.
+- **Tests 59/59. Theatre 31 PROVEN real / 27 mech / 0 unproven (58 audited). 22 kernels. Matrix 59.**
+- L06+L07 STATUS: BUILT (STATE.yaml + layers/ + TRACEABILITY). state.json updated.

@@ -79,6 +79,10 @@ MATRIX = {
   "validate-graduation.py": ("ALL", "real graph/argument/canonical-dag", "Verified Epistemic OS", "graduation", "THE full graduation: one claim (I5) through the whole organism + premise mutation → staleness→reactive essay→pedagogy→organism→signed re-release — 14/14"),
   "validate-graduation-ipvv.py": ("ALL", "real IPK primary text (Torella) + Ratié", "Verified Epistemic OS", "ipvv-graduation", "THE IPVV graduation on the ACTUAL corpus: IPK 1.5.19 felt→ground claim through the whole organism + premise mutation — 18/18"),
   "validate-product-stack.py": ("ALL", "real IPK primary text", "Enquiry-Discovery Organism", "v3-product", "the ULTIMATE product: assembles all 17 kernels into v3's 4-family/16-product stack for one real IPK claim — 13/13"),
+  "validate-context-compiler.py": ("L06", "real graph (490/6578)", "Verified Epistemic OS", "projection-compiler", "canonical graph -> immutable content-addressed per-entity context bundles (one request per question) — 12/12"),
+  "validate-fts-baseline.py": ("L06", "real corpus (425)", "Verified Epistemic OS", "fts-baseline", "Postgres-FTS-equivalent index + benchmark (SPEC-49 Tantivy decision point, p50<10ms) — 9/9"),
+  "validate-bundle-router.py": ("L06/L07", "real graph + corpus", "Verified Epistemic OS", "bundle-router", "compiled agent bundles + MCP 8-tool adapter + R2-style immutable emission — 16/16"),
+  "validate-seo-astro.py": ("L07", "real graph", "Verified Epistemic OS", "seo-astro", "canonical URLs + JSON-LD + sitemap + 31 static 0-JS HTML pages (unified graphs) — 13/13"),
 }
 
 def main():

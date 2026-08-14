@@ -24,4 +24,6 @@ Astro over projections → Workers on /api /search /mcp → edge cache
 - `specs/SPEC-00-INFRA-BUILD.md` (§9-16 Astro/Workers/MCP)
 
 ## 7. Current state
-`NOT_STARTED`.
+`BUILT — the SEO/Astro surfaces are live (SPEC-49 P1)`: `lib/seo.py` (13/13). One canonical URL per
+entity + semantic 0-JS HTML + schema.org JSON-LD + sitemap, generated as static cacheable bytes from
+the compiled projections. Unifies the human/search-engine/agent/API graphs.

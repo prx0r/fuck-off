@@ -253,10 +253,15 @@ rclone check <local> r2:atlas-sources/informationphilosopher  # R2 backup integr
     `lib/patala_product.py` — the ULTIMATE product: assembles all 17 kernels into v3's 4-family product
     stack for one claim (`validate-product-stack.py`, **13/13**, 18 products). Wrote
     `migration/v3/ULTIMATE-OPTIMIZED-PRODUCT.md` (the v3 organism on the real IPVV corpus).
-11. **FINAL STATE: 55/55 tests, 27 experiments PROVEN on real data / 27 mechanism / 0 unproven,
-    18 kernels, 8 product visions, 55-experiment matrix, 41 cloned repos, fully traceable,
-    graduation done on BOTH the Doyle stand-in (14/14) and the real IPK corpus (18/18),
-    + the ultimate v3 product stack (13/13).**
+11. **READ-PLANE (this session):** the full read plane is BUILT (SPEC-49 P0/P1), inspired by the
+    graphrag `LocalSearchMixedContext` frontier pattern. Added 4 kernels: `context_compiler.py`
+    (projection compiler, 12/12), `fts_search.py` (Postgres-FTS-equivalent + benchmark, 9/9, p50<10ms
+    → no Tantivy needed), `bundle_router.py` (compiled agent bundles + MCP 8-tool, 16/16),
+    `seo.py` (canonical URLs + JSON-LD + sitemap + 31 static 0-JS HTML pages, 13/13). L06+L07 now BUILT.
+12. **FINAL STATE: 59/59 tests, 31 experiments PROVEN on real data / 27 mechanism / 0 unproven,
+    22 kernels, 8 product visions, 59-experiment matrix, 41 cloned repos, fully traceable,
+    graduation done (Doyle 14/14 + IPK 18/18) + the ultimate v3 product (13/13) + the read plane
+    (projection compiler + FTS baseline + agent bundles/MCP + Astro/SEO).**
 
 ---
 
@@ -265,11 +270,11 @@ rclone check <local> r2:atlas-sources/informationphilosopher  # R2 backup integr
 1. Read `AGENTS.md` — the axioms (esp. axiom 12: every artifact must resolve, axiom 22: every doc).
 2. Read `NAVIGATION.md` → `TRACEABILITY-MAP.md` → `HANDOVER.md` (this file).
 3. Read `LAB-REVIEW.md` — what's proven vs exploratory.
-4. Read `KERNELS-INDEX.md` — reuse the 18 kernels, don't rebuild.
+4. Read `KERNELS-INDEX.md` — reuse the 22 kernels, don't rebuild.
 5. Read §5 essay-ingest architecture — the source-text vs essay-about-source vs standalone design.
 6. Read `migration/v3/ULTIMATE-OPTIMIZED-PRODUCT.md` — the IPVV graduation (18/18) + product stack.
 7. Check `TODO.md` + `GAPS.md` + `STATE.yaml` — the live state.
-8. Run `scripts/run-tests.py` (55/55, incl traceability + graduation gates) + `scripts/theatre-check-all.py`
+8. Run `scripts/run-tests.py` (59/59, incl traceability + graduation + read-plane gates) + `scripts/theatre-check-all.py`
    before claiming anything done.
 9. Widen the real-corpus run (§9 P0): product stack + graduation over MANY IPK claims; build the 3
    v3 needs-build products; signed attestation (gap E).

@@ -1,7 +1,7 @@
 {
- "count": 54,
+ "count": 58,
  "verdicts": {
-  "PROVEN": 27,
+  "PROVEN": 31,
   "PROVEN-MECHANISM": 27
  },
  "proofs": [
@@ -652,6 +652,54 @@
    "uses_real_data": true,
    "verdict": "PROVEN",
    "proof_hash": "360f4836d74e1fc5"
+  },
+  {
+   "script": "validate-context-compiler.py",
+   "layer": "L06",
+   "vision": "Verified Epistemic OS",
+   "kernel": "projection-compiler",
+   "claim": "canonical graph -> immutable content-addressed per-entity context bundles (one request per question) \u2014 12/12",
+   "test_exists": true,
+   "passes": true,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "cb69fa23aa8aeabd"
+  },
+  {
+   "script": "validate-fts-baseline.py",
+   "layer": "L06",
+   "vision": "Verified Epistemic OS",
+   "kernel": "fts-baseline",
+   "claim": "Postgres-FTS-equivalent index + benchmark (SPEC-49 Tantivy decision point, p50<10ms) \u2014 9/9",
+   "test_exists": true,
+   "passes": true,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "2ecf4bfc909bfab3"
+  },
+  {
+   "script": "validate-bundle-router.py",
+   "layer": "L06/L07",
+   "vision": "Verified Epistemic OS",
+   "kernel": "bundle-router",
+   "claim": "compiled agent bundles + MCP 8-tool adapter + R2-style immutable emission \u2014 16/16",
+   "test_exists": true,
+   "passes": true,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "5a060112348f7693"
+  },
+  {
+   "script": "validate-seo-astro.py",
+   "layer": "L07",
+   "vision": "Verified Epistemic OS",
+   "kernel": "seo-astro",
+   "claim": "canonical URLs + JSON-LD + sitemap + 31 static 0-JS HTML pages (unified graphs) \u2014 13/13",
+   "test_exists": true,
+   "passes": true,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "4fd330acec44aa4a"
   }
  ]
 }

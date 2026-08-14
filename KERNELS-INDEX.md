@@ -1,7 +1,7 @@
 # KERNELS-INDEX — the reusable kernels (what's in lib/, what it does, how it's validated)
 
-*2026-08-14. The agent-facing map of every reusable kernel. Reuse these — never rebuild. Each maps to:
-what it is · layer · vision · the experiment(s) that validate it · honest status.*
+*2026-08-14. The agent-facing map of every reusable kernel (now 22). Reuse these — never rebuild. Each
+maps to: what it is · layer · vision · the experiment(s) that validate it · honest status.*
 
 | Kernel | What it does | Layer | Vision | Validated by | Status |
 |--------|-------------|-------|--------|--------------|--------|
@@ -23,6 +23,10 @@ what it is · layer · vision · the experiment(s) that validate it · honest st
 | `discovery.py` | Research Value Score | L03 | What-If Machine | kernel-suite | VALIDATED |
 | `essay_ingest.py` | 9-stage essay-as-derivation-input pipeline (structure→claims→evidence→argument→crux→review→pedagogy→reactive) | L04-L09 | Enquiry-Discovery Organism | validate-essay-ingest | VALIDATED (real Ratié data, 8/8) |
 | `patala_product.py` | the ULTIMATE product: assembles ALL 17 kernels into the v3 4-family/16-product stack for one claim | ALL | Enquiry-Discovery Organism | validate-product-stack | VALIDATED (real IPK, 13/13) |
+| `context_compiler.py` | the projection compiler: canonical graph → immutable per-entity context bundles | L06 | Verified OS | validate-context-compiler | VALIDATED (real graph, 12/12) |
+| `fts_search.py` | Postgres-FTS-equivalent inverted index + benchmark (SPEC-49 Tantivy decision point) | L06 | Verified OS | validate-fts-baseline | VALIDATED (real corpus, 9/9) |
+| `bundle_router.py` | compiled agent bundles + MCP 8-tool adapter + R2-style immutable emission | L06/L07 | Verified OS | validate-bundle-router | VALIDATED (real data, 16/16) |
+| `seo.py` | agent-SEO: canonical URLs + JSON-LD + sitemap + static 0-JS HTML | L07 | Verified OS | validate-seo-astro | VALIDATED (real graph, 13/13) |
 
 ## Rules for agents
 1. **Reuse, don't rebuild** (axiom): a task that maps to a kernel → call the kernel.
