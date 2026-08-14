@@ -1,187 +1,210 @@
-# DEV PLAN — from vision to working epistemic engine (CURRENT, post-audit)
+# DEV PLAN — from vision to working epistemic engine (REV 2, post-translation-audit)
 
-*2026-08-14. The executable roadmap, refreshed after the 4-agent completeness audit. This replaces the
-stale pre-audit plan. It reflects what's ACTUALLY built (40 kernels, 83 experiments, 82/82 tests), the
-honest gaps the audit found, and the correct build order. A task is DONE only when it passes its gate +
-`STATE.yaml` + `CHANGELOG.md` are updated.*
+*2026-08-14. Rev 2. This plan was validated item-by-item against actual code (anti-theatre, verified by
+execution, not docs) AND updated for the single most important finding: **the canonical translation
+orchestration is patala's `factory_scheduler` DAG, not ip-graph's per-verse Hermes runner.** Read the
+canonical note (`tantraloka/CANONICAL-TRANSLATION-ORCHESTRATION.md`) before any translation work. A task
+is DONE only when it passes its gate + `STATE.yaml` + `CHANGELOG.md` are updated.*
 
 ---
 
-## THE HONEST STATE (verified by the 4-agent audit, not the docs)
+## 0. THE CHANGE THAT REWRITES THE PLAN (read first)
 
-| Metric | Value | Notes |
+**The translation runner ip-graph built (`run-tantraloka-translation*.py`) was an UNPLANNED DIVERGENCE
+that bypassed patala's mature argument-guided factory DAG.** It is KILLED. The canonical path (verified,
+and how IPVV was actually built):
+
+```
+patala/pipeline/factory_scheduler.py  (deterministic DAG controller — THE orchestrator)
+   → T1 → ARGMAP → L0 → L2 → L200 → C1   (argument-guided; L2 requires L0+ARGMAP)
+   → uses Hermes as the GENERATION KERNEL ONLY (batch calls, not per-verse)
+   → commits versioned objects to the registry (JSONL now, PG next)
+ip-graph VALIDATES + SERVES: TranslationProof / three-version / commentary_lift / read plane
+```
+
+**Why not redo the factory on the Hermes/kanban stack (the question):** Hermes is the execution kernel,
+NOT the orchestrator (`handover/hermes/CANONICAL.md:7-8,54`); eligibility must be deterministic Python
+(`hermespatala-architecture-review.md:142-144`); there are TWO DAGs, not interchangeable. So
+`factory_scheduler.py` (deterministic Python) owns orchestration; Hermes kanban is only the execution
+fabric. ip-graph's `next_action`/`factory_pool` are a duplicate "shadow task system" to route back
+through patala's scheduler.
+
+**Files:** `tantraloka/CANONICAL-TRANSLATION-ORCHESTRATION.md` (the canonical decision, full justification,
+run commands) · `patala/pipeline/factory_scheduler.py` (the controller) · `contracts/CANONICAL-DAG.yaml`
+(the DAG) · `handover/hermes/CANONICAL.md` (Hermes thesis).
+
+---
+
+## THE HONEST STATE (verified by execution, 2026-08-14 Rev 2)
+
+| Metric | Value | Notes (verified) |
 |---|---|---|
-| Kernels (`lib/`) | **40** | all pure mechanisms except `hermes_exec` (real `hermes -z` execution) |
-| Experiments | **83** | 41 validate + 42 experiment/audit |
-| Tests | **82/82** | fixed the 4 failures (graph ceilings, state drift) |
-| Theatre (strict data-flow) | **19 REAL / 21 SYNTHETIC / 1 THEATRE** | the "34 PROVEN" marker count is inflated |
-| Kernels w/o real-data validator | ~24 | the biggest anti-theatre gap |
-| Docs-referenced kernels that DON'T exist | **5** | `misconception`, `question_growth`, `enquiry`, `design_provenance`, `graph_stable` |
-| L08 domain-expansions | **EMPTY** | claimed VALIDATED but vision-only |
-| Dead clones | 15 of 47 | cloned, unused |
-| Unused external assets | pushing sessions (now wired), Ratié chapters, IPVV essays | |
+| Kernels (`lib/`) | **48** | 47 + `misconception.py` (NEW) |
+| Missing kernels | **4** (was 5) | `question_growth`, `enquiry`, `design_provenance`, `graph_stable` still absent; `misconception` DONE (9/9) |
+| Tests | **82/82** | suite green |
+| Theatre (strict data-flow) | **~19 REAL / 21 SYNTHETIC / 1 THEATRE** | `validate-provenance.py` still THEATRE (hand-fed constants); `validate-essay-ingest.py` hand-fed despite header |
+| Kernels w/o dedicated validator | **16** | ALL have some validator ref (aggregate); the "~24/21" figure was STALE — gap largely closed |
+| L08 domain-expansions | **EMPTY** | no `lib/domains/`; `state.json` OVER-CLAIMS L08 as VALIDATED (contradiction) |
+| Tantrāloka SOURCE | 4,624 committed | factory DAG live: T1 164, L0 1, ARGMAP 0, L2 0 |
+| Registry backend | JSONL → **PG (flip LIVE in factory_loop.sh)** | `PATALA_REGISTRY_PG=1`, JSONL export after each pass |
 
-**The 3 honesty problems (worse than missing code):**
-1. `layers/*.md` is stale — says NOT_STARTED for built layers.
-2. Two competing layer taxonomies (00-09 spine vs L00-L12 kernel-grouping) contradict across COHERENCE-AUDIT / BUILT-BY-LAYER / KERNELS-INDEX.
-3. GAPS.md is stale (claims no projection compiler/surfaces — they're built).
+**The 3 honesty problems (still true, now fully evidenced):**
+1. `layers/*.md` stale — layers 00/03/04/05 say NOT_STARTED while kernels exist.
+2. **THREE** competing taxonomies (00-09 spine / L00-10 / L00-12), with conflicting kernel→layer
+   assignments (e.g. `review.py` = L04 in COHERENCE-AUDIT but L05 in KERNELS-INDEX; `query.py` = L06 vs
+   L10; `scholar_review.py` = L05 vs L08; `next_action.py` = L09 vs L12).
+3. GAPS.md stale (claims no projection compiler/surfaces — they're built); `state.json` over-claims L08.
 
 ---
 
 ## PHASE 0 — RECONCILE THE RECORD (do FIRST — everything else rests on it)
 
-### 0.1 Fix the stale docs (cheap, unblocks trust) [P0]
-- [ ] Regenerate `layers/*.md` to match reality (L00-L07+L09 BUILT/PARTIAL, L08 EMPTY).
-- [ ] Reconcile the layer taxonomy — pick ONE (the 00-09 spine) and rewrite COHERENCE-AUDIT /
-      BUILT-BY-LAYER / KERNELS-INDEX / state.json to match.
-- [ ] Resync GAPS.md (drop the "no read plane" claims).
-- [ ] Bump SPEC-01/02/03 from DRAFT → IMPLEMENTED (they ARE implemented).
+### 0.1 Fix the stale docs [P0] — VERIFIED STALE, all confirmed
+- [ ] Regenerate `layers/*.md` to reality (00/03/04/05 are BUILT, not NOT_STARTED). Evidence:
+  `layers/00-core-engine.md:33`, `layers/03-factory.md:25`, `layers/04-argument-engine.md:28`,
+  `layers/05-review-gate.md:27` all say NOT_STARTED while `lib/{epistemic,factory_pool,proof_generators,review}.py` exist.
+- [ ] Reconcile the layer taxonomy — pick ONE (the 00-09 spine). Evidence: 3 schemes conflict —
+  `COHERENCE-AUDIT.md:21-32` (L00-10), `BUILT-BY-LAYER.md:16-25` (L00-10), `KERNELS-INDEX.md` (L00-12),
+  `state.json` (L00-09). Rewrite to match.
+- [ ] Resync GAPS.md. Evidence: it claims "no projection compiler/retrieval/surfaces" but
+  `lib/{context_compiler,retrieval,seo,bundle_router}.py` all exist + validate.
+- [ ] Fix `state.json:42` over-claim (L08 VALIDATED, but no `lib/domains/` — it's EMPTY).
+- [ ] Bump SPEC-01/02/03 DRAFT → IMPLEMENTED. Evidence: still `**Status:** DRAFT` at `SPEC-01:3`,
+  `SPEC-02:3`, `SPEC-03:3`, but `validate-dag.py` + `lib/epistemic.py` + argument graph all exist.
 
-### 0.2 Fix the failing/weak validators [P0]
-- [ ] `validate-provenance.py` — the one THEATRE case (reads data, asserts on hand-fed constants). Rewrite
-      to assert on data-derived output.
-- [ ] Add real-data validators for the ~24 kernels that lack one (education, pedagogy, organism,
-      organism_loop, agent_delivery, evolve, certificate, discovery, essay_ingest, evidence_ledger,
-      alignment_flywheel, integrity_gate, next_action, vidyut_l0, verification_ensemble, translation_variant,
-      open_ended_evolve, self_healing, skill_graph, ingestion_organism, scholar_review).
-- [ ] `validate-essay-ingest.py` — header claims "real Ratié, 8/8" but the essay is hand-fed. Either read
-      the real Ratié chapter or mark PROVEN-MECHANISM.
+### 0.2 Fix the failing/weak validators [P0] — VERIFIED, numbers corrected
+- [ ] `validate-provenance.py` — THEATRE confirmed. It reads data but all 4 `check()` asserts are
+  hardcoded literals (e.g. `emit_nanopub("I1","","SCHOLARLY_CORROBORATED",...)`). Rewrite to assert on
+  data-derived output. Evidence: `scripts/validate-provenance.py:71-72`.
+- [ ] `validate-essay-ingest.py` — hand-fed confirmed. Essay injected as literals
+  (`ing.structure("Le Soi et l'Autre", "Isabelle Ratié", [...])`), no file read. Either read real Ratié
+  or mark PROVEN-MECHANISM. Evidence: `scripts/validate-essay-ingest.py:20-42`.
+- [ ] **CORRECTED**: the "~24 kernels lack validators" / "21 named" list is STALE — 0 kernels lack any
+  validator ref; only 16 lack a DEDICATED one (aggregate-covered); 18/21 named already have validators.
+  Remaining truly-weak: `certificate`, `discovery`, `scholar_review` (covered only by aggregate
+  `validate-kernels.py`).
 
-### 0.3 Index + validate `hermes_exec.py` [DONE]
-- Fixed `hermes_exec.py` to use the AGENTIC `hermes chat -Q -q --yolo` invocation (not blind `-z`, which is
-  ~3.8% yield on translation — the critical-audit + BUILD-WIRE-HERMES-GENERATION correction).
-- `translation.py` now has a `generate()` method (Hermes for GENERATION) — real model output, not hand-fed.
-- `validate-hermes-exec.py` (6/6): agentic path available + generates a real AbhT_1.52 translation.
+### 0.5 THE ARCHITECTURE RULE [VERIFIED DONE for hermes/translation]
+- [x] `hermes_exec.py` uses agentic `hermes chat` (not blind `-z`). Evidence: `lib/hermes_exec.py:41`.
+- [x] `translation.py.generate()` calls Hermes. Evidence: `lib/translation.py:74`.
+- [ ] `pushing_miner.py` add Hermes for NEW pushing generation — VERIFIED still open (zero hermes refs
+      in `lib/pushing_miner.py`, pure regex). Correctly unchecked.
 
-### 0.4 STEAL from `hound` (scabench-org, cloned) — iteration-verified confidence [P1]
-Hound's `DynamicNode` carries `observations` (verified) vs `assumptions` (unverified) + `iteration: int`
-(how many passes confirmed a claim). That's a stronger epistemic signal than our binary ceiling:
-- [x] Built `lib/iteration_confidence.py` (5/5) — a 3x-confirmed claim is measurably stronger than 1x.
-- [ ] The **scout/strategist split** (cheap model explores, heavy model reasons) as a cost-efficiency
-      extension to `next_action` — currently we don't split exploration vs deep reasoning.
-
-### 0.5 THE ARCHITECTURE RULE (from the shared critical-audit — CORRECT, adopted)
-> **Hermes for GENERATION. `.py` for REDUCTION.**
-> - GENERATION (translation, commentary, essays, new pushing) → agentic `hermes chat` (`hermes_exec`).
-> - REDUCTION (review, staleness, evidence, gates, epistemic) → deterministic `.py` (correct as-is).
-- [x] `hermes_exec.py` uses agentic `hermes chat` (not blind `-z`).
-- [x] `translation.py.generate()` calls Hermes for real output.
-- [x] Wire the organism's `refine()` + `translation_variant` T2 to call Hermes (real generation).
-- [ ] `pushing_miner.py` keeps regex-mining the HUMAN gold; add Hermes for NEW pushing generation.
-
-### 0.6 THE PEER-REVIEW-DRIVEN NEXT BUILDS (from my AGENTGRAPH-PEER-REVIEW-NOTES, 2026-08-14)
-The shared audits confirmed my read plane + engine + vision; the real remaining gaps on MY side:
-- [ ] **Parallel factory worker pool** (BUILD-PARALLEL-FACTORY) — many layer-workers (T1/L0/L2/L200/C1)
-      running concurrently, each respecting the DAG + `next_action`, committing independently. This is the
-      next real build toward full Tantrāloka.
-- [ ] **Per-work translation-state FSM** (BUILD-TRANSLATION-STATE) — I have the `next_action` scheduler but
-      not `corpus_state`'s per-work transitions. Wire it so each work advances legally.
-- [ ] **Argument-IR depth (CP4)** — I have crux/essay/pushing; lack OG's nyayagate/crux_engine/ARG golds.
-- [ ] **`misconception.py` repair cascade** — the biggest gap (closes the organism's flywheel).
+### 0.6 Peer-review-driven builds [VERIFIED — some superseded by the canonical decision]
+- [ ] ~~Parallel factory worker pool~~ → **SUPERSEDED**: the DAG controller is patala's `factory_scheduler`
+      (already parallel via `FACTORY_PARALLEL`). ip-graph's `factory_pool` is a shadow system to route back.
+- [ ] Per-work translation-state FSM — route ip-graph's `next_action` through patala's `corpus_state`
+      (`organism_factory_bridge.py` exists, 6/6).
+- [ ] Argument-IR depth (CP4) — still real (nyayagate/crux_engine/ARG golds).
+- [x] `misconception.py` repair cascade — DONE (9/9). Evidence: `lib/misconception.py`,
+      `scripts/validate-misconception.py`.
 
 ---
 
-## PHASE 1 — THE 5 MISSING KERNELS (docs reference them, they don't exist)
+## PHASE 1 — THE 4 REMAINING MISSING KERNELS (was 5; misconception DONE)
 
-### 1.1 `lib/misconception.py` — the repair cascade [P1, closes Frontier C + the organism's closing edge]
-`MisconceptionLikelihood = f(cluster_size, persistence, ambiguity_signal, novice_rate)` → cross threshold →
-source flagged for scholar review → RKA propagate fix → confusion measured to dissolve.
+### 1.1 `lib/misconception.py` — [DONE, 9/9] ✅
+`MisconceptionLikelihood` → flag → RKA propagate → measure dissolution. Reuses `staleness.blast_radius`.
+Kernel + validator committed. FRONTIER-ONLY (standalone, synthetic) until wired on real learner data.
 
 ### 1.2 `lib/question_growth.py` — Question-Growth Engine [P1]
-The question tree + PrimitiveRobustness (currently only `experiment-question-growth.py`). Wire the 35
-pushing sessions' cruxes as the growth seeds.
+Wire the 35 pushing sessions' cruxes as growth seeds. (Only `experiment-question-growth.py` exists.)
 
 ### 1.3 `lib/enquiry.py` — Enquiry-Discovery Organism [P1]
-DiscoveryProgression (taxonomy→theorem→boundary→frontier) from the LOGICVID gold + pushing cruxes.
+DiscoveryProgression from the LOGICVID gold + pushing cruxes. (Only `experiment-enquiry-discovery.py`.)
 
 ### 1.4 `lib/design_provenance.py` — Self-Proving full form [P2]
-Every design decision → signed nanopub (the design-decision provenance, extends `system_provenance`).
+Every design decision → signed nanopub.
 
-### 1.5 `lib/graph_stable.py` — stable-graph (Co-Evolving Organism) [P2]
-The stable-graph projection for the organism.
+### 1.5 `lib/graph_stable.py` — stable-graph [P2]
 
 ---
 
 ## PHASE 2 — CLOSE THE SECURITY + PRODUCT GAPS
 
-### 2.1 Gap E — signed human attestation [P1, before any marketplace]
-Replace plain `human_authorize()` with a cryptographic `HumanAttestation{actor, action, target_revision,
-scope, timestamp, signature}`. Reuse `system_provenance` cosign-style signing.
+### 2.1 Gap E — signed human attestation [P1] — VERIFIED MECHANISM-ONLY (not the crypto Gap E)
+`lib/agent_delivery.py:93` `human_authorize()` is a plain state flip. `lib/patala_product.py:24` +
+`system_provenance.py` use **plain SHA-256 with hardcoded secrets** (no ed25519/ecdsa/private-key).
+Must become a real `HumanAttestation{actor, action, target_revision, scope, timestamp, signature}`.
 
-### 2.2 Gap A — context paging [P1]
-Lossless context virtualization over the compiled bundles (the agent read-plane is incomplete without it).
+### 2.2 Gap A — context paging [P1] — VERIFIED ABSENT
+No `context_paging`/`virtualiz` anywhere. `context_compiler.py` only does prose projection.
 
-### 2.3 L08 domain-expansions — build the EMPTY layer [P1]
-The pluggable-domain abstraction: `domains/science/`, `domains/philosophy/`, `domains/sanskrit/` subclass
-modules over the core envelope. This makes "generalization" code, not a statement.
+### 2.3 L08 domain-expansions [P1] — VERIFIED ABSENT
+No `lib/domains/`. This makes "generalization" code, not a statement.
 
-### 2.4 The L03 needs-build products [P1]
-- Commentary (passage-local) — the missing spine step.
-- Live Tokenization (vidyut cheda data download).
+### 2.4 L03 needs-build products [P1]
+Commentary (passage-local) + live Tokenization (vidyut cheda data).
 
 ---
 
-## PHASE 3 — THE MONA LISA: TANTRĀLOKA (the canonical full-stack test)
+## PHASE 3 — THE MONA LISA: TANTRĀLOKA (REVISED for the canonical decision)
 
-### 3.1 The sources are wired (done) [DONE]
-`ingest-tantraloka-root.py` (5,860 kārikās), Dyczkowski vols, `pushing_miner.py` (35 sessions → cruxes).
+### 3.1 The sources are wired [DONE] — VERIFIED 5,860 kārikās
+`scripts/ingest-tantraloka-root.py` → `data/tantraloka/root-verses.json` = exactly 5,860. Confirmed.
 
-### 3.2 Wire the crux compass into the organism [P0, the highest-value next build]
+### 3.2 Wire the crux compass into the organism [P0] — STILL-OPEN
 - [ ] The pushing-miner cruxes (TĀ 1/52-55 reflexivity) feed the Tantrāloka argument + crux layers.
-- [ ] Replace the hand-fed Tantrāloka validators with real ones: translation (via `hermes_exec`),
-      argument (auto-mine from the root), vs-Dyczkowski (already fixed to extract real text).
+- [ ] Replace hand-fed Tantrāloka validators with real ones.
 
-### 3.3 Run the FULL stack on real Tantrāloka [P0]
-- [ ] theme cluster → essay (auto-mined) → education → pedagogy → products, all on real data.
-- [ ] The from-scratch translation via `hermes_exec` (real model output, not hand-fed).
+### 3.3 Run the FULL stack on real Tantrāloka [P0] — **REVISED — premise invalidated**
+- ~~translation via `hermes_exec` / per-verse from-scratch~~ → **WRONG / SUPERSEDED.** The canonical
+  approach is patala's `factory_scheduler` DAG (argument-guided T1→ARGMAP→L0→L2→L200→C1). `ip-graph`
+  must VALIDATE (TranslationProof/three-version/commentary_lift), not produce.
+- [x] The canonical DAG is LIVE: `factory_scheduler --works tantraloka` producing T1 (164) → L0 → ARGMAP → L2.
+- [ ] After the DAG produces L2, VALIDATE with `lib/translation.py` (TranslationProof) + `translation_variant`
+      (three-version vs Dyczkowski) + `commentary_lift` (B3→B4). This is ip-graph's real Phase-3 job.
+- [ ] theme cluster → essay → education → pedagogy → products, on real data.
 
 ---
 
 ## PHASE 4 — DEPLOY + COMPLETE THE READ PLANE
 
-### 4.1 Deploy the surfaces [P1]
-- [ ] `astro build` → Cloudflare Pages (the static site is built, never deployed).
-- [ ] Stand up the Worker (`edge/worker.js` + `wrangler.toml`) with R2+KV.
-- [ ] Add `/api/search` + `/mcp` (Streamable HTTP) endpoints to the live Worker.
+### 4.1 Deploy the surfaces [P1] — VERIFIED BUILT, NOT DEPLOYED
+`web/` Astro built (`web/dist/` populated) + `edge/worker.js` + `wrangler.toml` (R2 `SITE`, KV, `/api/*`,
+`/mcp` Streamable-HTTP 8-tools) all EXIST. NOT deployed (no wrangler publish; only local `astro preview`).
+- [ ] `wrangler deploy` → Cloudflare Pages.
+- [ ] Stand up the Worker + `/api/search` + `/mcp` endpoints.
 
-### 4.2 The 5 import adapters [P2]
-- [ ] openalex / s2orc / xaif / eleutheria (only scifact done) — completes the generalization test.
+### 4.2 The 5 import adapters [P2] — only scifact done.
 
 ---
 
 ## PHASE 5 — THE ORGANISM AT REAL SCALE
 
-### 5.1 The self-executing agent loop [P0]
-`next_action` (decide) + `hermes_exec` (execute) + `agent_delivery` (gate) wired into the `ingestion_organism`
-refinery — the real autonomous loop, not the mechanism demo.
+### 5.1 The self-executing agent loop [P0] — VERIFIED NOT WIRED
+`ingestion_organism.py` imports only `next_action`/`source_registry`/`integrity_gate` — NOT
+`hermes_exec` or `agent_delivery`. `refine()` just appends layer-name strings. The loop is a mechanism
+stub. Wire `next_action` (decide) + real factory (execute) + gate (verify) — routing through patala's
+scheduler.
 
-### 5.2 Real consumer data [P1]
-The organism's fuel. Stand up the surfaces so real learners probe → misconception graph → re-prioritize.
-
-### 5.3 The product surfaces (mechanism → product) [P2]
-- Verifier-strength ledger (marketplace) · question-growth UI · enquiry-discovery UI.
+### 5.2 Real consumer data [P1] — the organism's fuel.
+### 5.3 Product surfaces [P2].
 
 ---
 
-## THE BUILD ORDER (why)
+## THE BUILD ORDER (updated)
 
-1. **Phase 0 first** — reconcile the stale docs + fix the theatre validators. Nothing else is trustworthy
-   until the record matches reality.
-2. **Phase 1 (missing kernels)** — `misconception.py` closes the organism's flywheel; the others are
-   docs-promised.
-3. **Phase 2 (security + products)** — gap E before any marketplace; L08 is the empty layer.
-4. **Phase 3 (Tantrāloka)** — the canonical proof, now that the crux compass is wired.
+1. **Phase 0 first** — reconcile the record (stale layers, 3 taxonomies, GAPS, state.json L08 overclaim,
+   the 2 THEATRE validators). Nothing is trustworthy until the record matches reality.
+2. **Phase 3 (Tantrāloka)** — let the canonical DAG (patala) run; ip-graph's job is VALIDATION + the
+   crux compass. This is the P0 now that the translation path is correct.
+3. **Phase 1 (remaining kernels)** — `question_growth.py`, `enquiry.py` (deterministic, light, buildable
+   while the factory burns model calls).
+4. **Phase 2 (security)** — Gap E before marketplace; L08 is the empty layer.
 5. **Phase 4 (deploy)** — make the read plane live.
 6. **Phase 5 (real scale)** — the agentic loop + real consumer data.
 
-**The honest one-line:** the machine is real (82/82) but the RECORD of it is not (stale docs, two
-taxonomies, 21 synthetic validators over-marketed as real). Fix the record (P0), build the 5 missing
-kernels + the empty L08 (P1-2), prove it on Tantrāloka with real Hermes execution (P3), deploy (P4), then
-let real consumers drive the organism (P5).
+**The honest one-line:** the machine is real (82/82, 48 kernels) and the translation path is now CORRECT
+(patala's argument-guided DAG, PG-backed); but the RECORD is stale (layers, taxonomies, GAPS, state.json
+L08) and 2 validators are THEATRE. Fix the record (P0), validate the running Tantrāloka DAG + wire the
+crux compass (P3), build the 4 remaining kernels (P1), deploy (P4), then real consumers (P5).
 
 ## Proofs / resolution
-- What's real: `BUILT-BY-LAYER.md` (but stale numbers), `scripts/audit-theatre-dataflow.py` (the strict gate)
-- What's honest: the audit findings above (4 parallel agents)
-- The Mona Lisa: `tantraloka/` (README + OPERATIONAL-PLAN + the 6 validators)
-- The real execution: `lib/hermes_exec.py`
-- The crux compass: `lib/pushing_miner.py` + `scripts/validate-pushing-miner.py` (7/7)
+- The canonical translation decision: `tantraloka/CANONICAL-TRANSLATION-ORCHESTRATION.md`
+- The controller: `patala/pipeline/factory_scheduler.py` · the DAG: `contracts/CANONICAL-DAG.yaml`
+- The Hermes thesis: `handover/hermes/CANONICAL.md`
+- The record: `BUILT-BY-LAYER.md` (stale), `COHERENCE-AUDIT.md`, `KERNELS-INDEX.md`, `state.json`
+- The Mona Lisa: `tantraloka/` (README + OPERATIONAL-PLAN)
+- The kernels: `lib/` (48) — `misconception.py` NEW
+- The real execution: `lib/hermes_exec.py` · the crux compass: `lib/pushing_miner.py`
