@@ -622,3 +622,13 @@ imposed.
   **50 audited / 24 PROVEN / 26 mechanism / 0 UNPROVEN.**
 - **Ground-truth sync:** migration READMEs, NAVIGATION, TRACEABILITY-MAP, KERNELS-INDEX all updated to
   17 kernels + 51-experiment matrix. 50/50 test suite (essay-ingest 8/8).
+
+## 2026-08-14 (master knowledge base)
+- **`MASTER-KNOWLEDGE-BASE.md`** — a synthesized, authoritative reference of everything built, from a
+  full parallel read of all files, arXiv papers, and experiments. Condenses the Verified Epistemic OS
+  into one agent-loadable map: 17 kernels (with invariants + the 5 load-bearing mechanisms) · 51
+  experiments grouped by layer (with honest PASS/RUN status) · 32 arXiv papers + 7 algorithms (3
+  implemented) · 99-repo catalog / 41 cloned (20 validated + 21 reference) · 10 visions + 8 laws + 6
+  frontiers · 46 specs · 5 LOGICVID gold findings · per-layer STATE + honest debt A-G · the roadmap
+  (P0 graduation test).
+- Wired into NAVIGATION + TRACEABILITY-MAP. Ground-truth counts verified against data/references/*.json.
