@@ -1,5 +1,5 @@
 {
- "count": 94,
+ "count": 97,
  "entries": [
   {
    "script": "validate-layer03-05.py",
@@ -828,6 +828,33 @@
    "kernel": "organism-factory",
    "status": "RUN",
    "note": "the organism\u2192factory loop: my next_action ranks WHAT + patala's FSM returns the legal action (tantraloka \u2192 BUILD_L0_SOURCE_MODE) \u2014 6/6"
+  },
+  {
+   "script": "run-tantraloka-corpus.py",
+   "layer": "L03",
+   "source": "30 real Ahnika-1 karikas",
+   "vision": "Verified Epistemic OS",
+   "kernel": "tantraloka-corpus",
+   "status": "RUN",
+   "note": "X1 corpus-scale TranslationProof production (real Vidyut + L0 + negation over 30 karikas) \u2014 7/7"
+  },
+  {
+   "script": "run-tantraloka-commentary.py",
+   "layer": "L03",
+   "source": "30 Ahnika-1 glosses + pushing crux",
+   "vision": "Verified Epistemic OS",
+   "kernel": "tantraloka-commentary",
+   "status": "RUN",
+   "note": "X2 B3\u2192B4 commentary-lift across the corpus (30/30 reach the gold frame) \u2014 5/5"
+  },
+  {
+   "script": "run-tantraloka-validate.py",
+   "layer": "L03",
+   "source": "Ahnika-1 corpus + Dyczkowski gold",
+   "vision": "Verified Epistemic OS",
+   "kernel": "tantraloka-validate",
+   "status": "RUN",
+   "note": "X3 corpus validation vs Dyczkowski: 30/30 corroborate the core \u2014 4/4"
   },
   {
    "script": "run-tantraloka-autonomous.py",

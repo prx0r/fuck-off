@@ -1,6 +1,6 @@
 # EXPERIMENT MATRIX — what's been tested
 
-*2026-08-14. 94 experiments mapped to layer / source repo / vision / kernel / result.*
+*2026-08-14. 97 experiments mapped to layer / source repo / vision / kernel / result.*
 Machine form: `data/references/experiments.json`.
 
 ## Argument Map (7)
@@ -102,7 +102,7 @@ Machine form: `data/references/experiments.json`.
 | `experiment-causal-operational-graph.py` | L12 | patalamix review #12 | causal-operational | RUN |
 | `experiment-signed-statement.py` | L12 | cosign (cloned) | signing | RUN |
 
-## Verified Epistemic OS (51)
+## Verified Epistemic OS (54)
 
 | script | layer | source | kernel | result |
 |--------|-------|--------|--------|--------|
@@ -118,6 +118,9 @@ Machine form: `data/references/experiments.json`.
 | `ingest-ipvv-gold.py` | L03 | 49 real patala IPVV gold passages | ipvv-gold-bridge | RUN |
 | `rebuild-on-commit.py` | L06 | real corpus inputs | compute-on-write | RUN |
 | `run-tantraloka-autonomous.py` | ALL | real Ahnika-1 karikas + next_action + Hermes | tantraloka-autonomous | RUN |
+| `run-tantraloka-commentary.py` | L03 | 30 Ahnika-1 glosses + pushing crux | tantraloka-commentary | RUN |
+| `run-tantraloka-corpus.py` | L03 | 30 real Ahnika-1 karikas | tantraloka-corpus | RUN |
+| `run-tantraloka-validate.py` | L03 | Ahnika-1 corpus + Dyczkowski gold | tantraloka-validate | RUN |
 | `theatre-check-all.py` | ALL | the full anti-theatre audit | verification | RUN |
 | `theatre-check.py` | ALL | the anti-theatre skill | verification | RUN |
 | `validate-alignment-flywheel.py` | L06 | IPK/IPVV corpus | alignment-flywheel | RUN |

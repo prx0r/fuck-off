@@ -116,6 +116,9 @@ MATRIX = {
   "validate-proof-generators.py": ("L03", "real AbhT_1.52 kārikā via Vidyut", "Verified Epistemic OS", "proof-generators", "the real Sanskrit proof-generator lattice (Vidyut SLP1 + token floor + negation): real analysis into TranslationProof, not hand-filled — 9/9"),
   "ingest-ipvv-gold-proofs.py": ("L03", "49 real IPVV gold passages", "Verified Epistemic OS", "ipvv-real-proofs", "corpus-scale real TranslationProofs: the proof generators run on all 49 gold passages' real Sanskrit — 7/7"),
   "validate-organism-factory-bridge.py": ("ALL", "real patala corpus_state FSM", "Verified Epistemic OS", "organism-factory", "the organism→factory loop: my next_action ranks WHAT + patala's FSM returns the legal action (tantraloka → BUILD_L0_SOURCE_MODE) — 6/6"),
+  "run-tantraloka-corpus.py": ("L03", "30 real Ahnika-1 karikas", "Verified Epistemic OS", "tantraloka-corpus", "X1 corpus-scale TranslationProof production (real Vidyut + L0 + negation over 30 karikas) — 7/7"),
+  "run-tantraloka-commentary.py": ("L03", "30 Ahnika-1 glosses + pushing crux", "Verified Epistemic OS", "tantraloka-commentary", "X2 B3→B4 commentary-lift across the corpus (30/30 reach the gold frame) — 5/5"),
+  "run-tantraloka-validate.py": ("L03", "Ahnika-1 corpus + Dyczkowski gold", "Verified Epistemic OS", "tantraloka-validate", "X3 corpus validation vs Dyczkowski: 30/30 corroborate the core — 4/4"),
   "run-tantraloka-autonomous.py": ("ALL", "real Ahnika-1 karikas + next_action + Hermes", "Verified Epistemic OS", "tantraloka-autonomous", "the autonomous full-chain runner: next_action schedules WHAT, real Hermes generates AbhT_1.52, proof on real output, product stack compiles — 8/8"),
   "rebuild-on-commit.py": ("L06", "real corpus inputs", "Verified Epistemic OS", "compute-on-write", "compute-on-write incremental rebuild (SPEC-00 §4): only changed inputs recompile; unchanged = no-op — closes the four-truths read-surface gap"),
 }

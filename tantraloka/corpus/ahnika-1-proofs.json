@@ -1,0 +1,635 @@
+{
+ "batch": 30,
+ "proofs": [
+  {
+   "ref": "AbhT_1.1",
+   "sanskrit": "tadubhayay\u0101malasphuritabh\u0101vavisargamaya\u1e43 h\u1e5bdayamanuttar\u0101m\u1e5bta",
+   "tokens": 4,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 5,
+    "syntax": "PASS"
+   },
+   "obligations": {
+    "negation": "ABSENT",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "ref": "AbhT_1.2",
+   "sanskrit": "m\u0101t\u1e5bm\u0101napramey\u0101\u1e43\u015ba\u015b\u016bl\u0101mbujak\u1e5bt\u0101spad\u0101m //",
+   "tokens": 1,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 2,
+    "syntax": "PASS"
+   },
+   "obligations": {
+    "negation": "ABSENT",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "ref": "AbhT_1.3",
+   "sanskrit": "pr\u0101v\u1e5b\u1e47meghaghanavyomavidyullekh\u0101vil\u0101sin\u012bm //",
+   "tokens": 1,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 2,
+    "syntax": "PASS"
+   },
+   "obligations": {
+    "negation": "ABSENT",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "ref": "AbhT_1.4",
+   "sanskrit": "st\u0101jj\u00f1\u0101na\u015b\u016bla\u1e43 satpak\u1e63avipak\u1e63otkartanak\u1e63amam //",
+   "tokens": 2,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 3,
+    "syntax": "PASS"
+   },
+   "obligations": {
+    "negation": "ABSENT",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "ref": "AbhT_1.5",
+   "sanskrit": "tadeva dev\u012btrayamantar\u0101st\u0101manuttara\u1e43 me prathayatsvar\u016bpam //",
+   "tokens": 4,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 5,
+    "syntax": "PASS"
+   },
+   "obligations": {
+    "negation": "ABSENT",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "ref": "AbhT_1.6",
+   "sanskrit": "dev\u012bsuto ga\u1e47apati\u1e25 sphuradinduk\u0101nti\u1e25 samyaksamucchalayat\u0101nma",
+   "tokens": 5,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 6,
+    "syntax": "PASS"
+   },
+   "obligations": {
+    "negation": "ABSENT",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "ref": "AbhT_1.7",
+   "sanskrit": "kalombhita\u1e43 b\u0101hyapathe cak\u0101ra st\u0101nme sa macchandavibhu\u1e25 pras",
+   "tokens": 7,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 8,
+    "syntax": "PASS"
+   },
+   "obligations": {
+    "negation": "ABSENT",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "ref": "AbhT_1.8",
+   "sanskrit": "p\u016brve jayanti guravo guru\u015b\u0101strasindhukallolakelikalan\u0101malaka",
+   "tokens": 4,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 5,
+    "syntax": "PASS"
+   },
+   "obligations": {
+    "negation": "ABSENT",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "ref": "AbhT_1.9",
+   "sanskrit": "tadaparam\u016brtirbhagav\u0101n mahe\u015bvaro bh\u016btir\u0101ja\u015bca //",
+   "tokens": 3,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 4,
+    "syntax": "PASS"
+   },
+   "obligations": {
+    "negation": "ABSENT",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "ref": "AbhT_1.10",
+   "sanskrit": "jayanti sa\u1e43vid\u0101modasandarbh\u0101 dikprasarpi\u1e47a\u1e25 //",
+   "tokens": 3,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 4,
+    "syntax": "PASS"
+   },
+   "obligations": {
+    "negation": "ABSENT",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "ref": "AbhT_1.11",
+   "sanskrit": "gurorlak\u1e63ma\u1e47aguptasya n\u0101dasa\u1e43mohin\u012b\u1e43 numa\u1e25 //",
+   "tokens": 3,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 4,
+    "syntax": "PASS"
+   },
+   "obligations": {
+    "negation": "ABSENT",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "ref": "AbhT_1.12",
+   "sanskrit": "sa \u015br\u012bcukhulako di\u015by\u0101di\u1e63\u1e6da\u1e43 me gururuttama\u1e25 //",
+   "tokens": 5,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 6,
+    "syntax": "PASS"
+   },
+   "obligations": {
+    "negation": "ABSENT",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "ref": "AbhT_1.13",
+   "sanskrit": "yadud\u012brita\u015b\u0101san\u0101\u1e43\u015bubhirme praka\u1e6do@ya\u1e43 gahano@pi \u015b\u0101stram\u0101rga\u1e25",
+   "tokens": 4,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 5,
+    "syntax": "PASS"
+   },
+   "obligations": {
+    "negation": "ABSENT",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "ref": "AbhT_1.14",
+   "sanskrit": "anuttara\u1e63a\u1e0dardh\u0101rthakrame tvek\u0101pi nek\u1e63yate //",
+   "tokens": 3,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 4,
+    "syntax": "PASS"
+   },
+   "obligations": {
+    "negation": "ABSENT",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "ref": "AbhT_1.15",
+   "sanskrit": "arthito racaye spa\u1e63\u1e6d\u0101\u1e43 p\u016br\u1e47\u0101rth\u0101 prakriy\u0101mim\u0101m //",
+   "tokens": 5,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 6,
+    "syntax": "PASS"
+   },
+   "obligations": {
+    "negation": "ABSENT",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "ref": "AbhT_1.16",
+   "sanskrit": "bodh\u0101nyap\u0101\u015bavi\u1e63anuttadup\u0101sanotthabodhojjvalo@bhinavagupta id",
+   "tokens": 3,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 4,
+    "syntax": "PASS"
+   },
+   "obligations": {
+    "negation": "ABSENT",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "ref": "AbhT_1.17",
+   "sanskrit": "devadevena nirdi\u1e63\u1e6da\u1e43 sva\u015babden\u0101tha li\u1e45gata\u1e25 //",
+   "tokens": 4,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 5,
+    "syntax": "PASS"
+   },
+   "obligations": {
+    "negation": "ABSENT",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "ref": "AbhT_1.18",
+   "sanskrit": "tats\u0101ra\u1e43 trika\u015b\u0101stra\u1e43 hi tats\u0101ra\u1e43 m\u0101lin\u012bmatam //",
+   "tokens": 5,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 6,
+    "syntax": "PASS"
+   },
+   "obligations": {
+    "negation": "ABSENT",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "ref": "AbhT_1.19",
+   "sanskrit": "ad\u1e5b\u1e63\u1e6da praka\u1e6d\u012bkurmo gurun\u0101th\u0101j\u00f1ay\u0101 vayam //",
+   "tokens": 4,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 5,
+    "syntax": "PASS"
+   },
+   "obligations": {
+    "negation": "ABSENT",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "ref": "AbhT_1.20",
+   "sanskrit": "trinayanacara\u1e47asaroruhacintanalabdhaprasiddhiriti //",
+   "tokens": 1,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 2,
+    "syntax": "PASS"
+   },
+   "obligations": {
+    "negation": "ABSENT",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "ref": "AbhT_1.21",
+   "sanskrit": "abhinavaguptah\u1e5bdambujametadvicinuta mahe\u015bap\u016bjanaheto\u1e25 //",
+   "tokens": 2,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 3,
+    "syntax": "PASS"
+   },
+   "obligations": {
+    "negation": "ABSENT",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "ref": "AbhT_1.22",
+   "sanskrit": "aj\u00f1\u0101na\u1e43 sa\u1e43s\u1e5bterheturj\u00f1\u0101na\u1e43 mok\u1e63aikak\u0101ra\u1e47am //",
+   "tokens": 3,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 4,
+    "syntax": "PASS"
+   },
+   "obligations": {
+    "negation": "ABSENT",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "ref": "AbhT_1.23",
+   "sanskrit": "iti prokta\u1e43 tath\u0101 va \u015br\u012bmalin\u012bvijayottare //",
+   "tokens": 5,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 6,
+    "syntax": "PASS"
+   },
+   "obligations": {
+    "negation": "ABSENT",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "ref": "AbhT_1.24",
+   "sanskrit": "sa\u1e43bh\u0101van\u0101\u1e43 nirasyaitadabh\u0101ve mok\u1e63amabrav\u012bt //",
+   "tokens": 3,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 4,
+    "syntax": "PASS"
+   },
+   "obligations": {
+    "negation": "ABSENT",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "ref": "AbhT_1.25",
+   "sanskrit": "sa hi lo\u1e63\u1e6d\u0101dike@pyasti na ca tasy\u0101sti sa\u1e43s\u1e5bti\u1e25 //",
+   "tokens": 7,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 8,
+    "syntax": "PASS"
+   },
+   "obligations": {
+    "negation": "PASS",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "ref": "AbhT_1.26",
+   "sanskrit": "j\u00f1\u0101nameva tadaj\u00f1\u0101na\u1e43 \u015bivas\u016btre\u1e63u bh\u0101\u1e63itam //",
+   "tokens": 4,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 5,
+    "syntax": "PASS"
+   },
+   "obligations": {
+    "negation": "ABSENT",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "ref": "AbhT_1.27",
+   "sanskrit": "sa\u1e43\u015ble\u1e63etarayog\u0101\u015by\u0101mayamartha\u1e25 pradar\u015bita\u1e25 //",
+   "tokens": 2,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 3,
+    "syntax": "PASS"
+   },
+   "obligations": {
+    "negation": "ABSENT",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "ref": "AbhT_1.28",
+   "sanskrit": "an\u0101k\u1e63ipravi\u015be\u1e63a\u1e43 sad\u0101ha s\u016btre pur\u0101tane //",
+   "tokens": 4,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 5,
+    "syntax": "PASS"
+   },
+   "obligations": {
+    "negation": "ABSENT",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "ref": "AbhT_1.29",
+   "sanskrit": "bruvat\u0101 tasya cinm\u0101trar\u016bpasya dvaitamucyate //",
+   "tokens": 4,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 5,
+    "syntax": "PASS"
+   },
+   "obligations": {
+    "negation": "ABSENT",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  },
+  {
+   "ref": "AbhT_1.30",
+   "sanskrit": "tata eva samucchedyamity\u0101v\u1e5btty\u0101nir\u016bpitam //",
+   "tokens": 3,
+   "real_analysis": {
+    "normalized_slp1": true,
+    "detected_scheme": "Iast",
+    "morphology": "PASS",
+    "segmentation": "PASS",
+    "token_count": 4,
+    "syntax": "PASS"
+   },
+   "obligations": {
+    "negation": "ABSENT",
+    "modality": "CHECK",
+    "scope": "PASS"
+   },
+   "lattice": "PASS",
+   "proof_11dim": 11,
+   "gate": "BLOCKED"
+  }
+ ]
+}

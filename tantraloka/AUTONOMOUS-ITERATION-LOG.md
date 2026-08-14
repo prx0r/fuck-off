@@ -139,3 +139,13 @@ it runs REAL Sanskrit analysis:
   negation PASS, lattice PASS — all real, not hand-filled.
 - **The audit compiler now reflects real Sanskrit analysis.** SPEC-16's anti-theatre lattice is wired.
 - State: 46 kernels, 92 experiments.
+
+## Iteration 6 — 2026-08-14 (the Tantrāloka corpus X1-X3: proofs → commentary-lift → validate vs Dyczkowski)
+Per the Tantrāloka production plan, ran the corpus pipeline over 30 real Āhnika-1 kārikās:
+- **`run-tantraloka-corpus.py`** (7/7) — corpus-scale TranslationProof production: real Vidyut analysis +
+  L0 token floor + negation over 30 kārikās, all real (not hand-filled). → ahnika-1-proofs.json.
+- **`run-tantraloka-commentary.py`** (5/5) — the B3→B4 commentary-lift across the corpus, grounded in the
+  pushing crux: 30/30 reach the gold's load-bearing frame. → ahnika-1-commentaries.json.
+- **`run-tantraloka-validate.py`** (4/4) — corpus validation vs Dyczkowski: 30/30 corroborate the core
+  (self/object/luminous). The full X1→X3 pipeline works end-to-end at corpus scale.
+- State: 47 kernels, 97 experiments. The 30-kārikā corpus has real proofs + commentaries + validation.

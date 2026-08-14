@@ -86,6 +86,9 @@ run_script("validate-projection-dag.py", "projection_dag_incremental")
 run_script("validate-proof-generators.py", "proof_generators_lattice")
 run_script("ingest-ipvv-gold-proofs.py", "ipvv_gold_real_proofs")
 run_script("validate-organism-factory-bridge.py", "organism_factory_loop")
+run_script("run-tantraloka-corpus.py", "tantraloka_corpus_proofs")
+run_script("run-tantraloka-commentary.py", "tantraloka_commentary_lift")
+run_script("run-tantraloka-validate.py", "tantraloka_validate_dyczkowski")
 run_py("import json;a=json.load(open('data/graph/argument.json'));print(f'{len(a[\"information_nodes\"])} info {len(a[\"inference_nodes\"])} infer {len(a[\"conflict_nodes\"])} conflict')", "argument_graph")
 
 # ---- 2. EXPERIMENTS ----

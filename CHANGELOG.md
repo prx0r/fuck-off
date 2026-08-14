@@ -1032,3 +1032,11 @@ Per the master devplan Phase 1 (the highest-leverage gap). Reuse, don't rebuild:
   loop: my next_action ranks WHAT (tantraloka first, prio 25.1) + patala's corpus_state FSM returns the
   legal action (BUILD_L0_SOURCE_MODE, 111 works). "Decide WHAT by formula + decide the legal move."
 - 47 kernels, 94 experiments.
+
+## 2026-08-14 (Tantrāloka corpus X1-X3: real proofs → commentary-lift → validate vs Dyczkowski)
+- `run-tantraloka-corpus.py` (7/7): 30 real Āhnika-1 kārikās → real corpus-scale TranslationProofs
+  (Vidyut + L0 + negation, not hand-filled) → ahnika-1-proofs.json.
+- `run-tantraloka-commentary.py` (5/5): B3→B4 commentary-lift across the corpus (30/30 reach the gold
+  frame) → ahnika-1-commentaries.json.
+- `run-tantraloka-validate.py` (4/4): corpus validation vs Dyczkowski (30/30 corroborate the core).
+- The full X1→X3 corpus pipeline works end-to-end. 47 kernels, 97 experiments.
