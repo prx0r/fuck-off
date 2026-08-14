@@ -1,0 +1,40 @@
+# Claude
+.claude/
+.opencode/
+CLAUDE.md
+AGENTS.md
+.mcp.json
+opencode.json
+# Sage
+.sage/
+.sage-memory/
+.sage-wiki/
+sage/
+
+# macOS
+.DS_Store
+
+# Build
+/sage-wiki
+/civalidate
+/ciobserve
+/ciproof
+/testsummary
+bin/
+
+# memory-benchmark working data (datasets, projects, checkpoints)
+eval/benchmarks/runs/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Client/example build artifacts (P4-3/P4-4/P4-6)
+node_modules/
+.venv/
+dist/
+dist-test/
+*.egg-info/
+.pytest_cache/
+examples/langgraph/__pycache__/
+skillgen

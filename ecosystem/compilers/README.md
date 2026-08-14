@@ -10,3 +10,5 @@ Repos that treat the graph as a compiled representation of documents. See `../..
 
 | yoheinakajima/instagraph | **CLONED** (520K) — text→graph; our graph.json uses its exact Node/Edge schema (validates our format) |
 | iwe-org/seventeen-centuries | **CLONED** (6MB) — philosophy markdown-graph (fragments+concepts+categories) |
+
+| xoai/sage-wiki | **CLONED** (30M) — graph-as-compile-output (validates SPEC-00 compiler model) |

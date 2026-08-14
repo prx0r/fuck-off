@@ -67,6 +67,7 @@ run_script("experiment-mutation-testing.py", "mutation_testing")
 run_script("experiment-signed-corpus.py", "signed_corpus_root")
 run_script("experiment-reactive-essay.py", "reactive_essay")
 run_script("experiment-graphiti-temporal.py", "graphiti_temporal_validity")
+run_script("experiment-import-scifact.py", "import_scifact_generalization")
 
 # ---- summary ----
 n = len(results["tests"]); npass = sum(1 for t in results["tests"] if t["pass"])

@@ -281,3 +281,10 @@ imposed.
 - **instagraph**: our graph.json already uses its exact Node/Edge schema (validates our choice).
 - **PathRAG**: confirmed the real code's flow (keyword→entity→context) matches our lib/retrieval.py.
 - GitHub index 83 → **87 repos**. Test suite 19 → **20/20**.
+
+## 2026-08-14 (cont.) — SciFact generalization adapter + sage-wiki
+- **Cloned:** allenai/scifact (528K, claim/evidence gold), xoai/sage-wiki (30M, graph-as-compile-output).
+- **`experiment-import-scifact.py`** (the generalization bet): a real SciFact-format claim enters our
+  engine — envelope (contradicted→MACHINE_PROPOSED), schema validation OK, review reducer blocks it
+  (CORRECTION_REQUIRED). Proven: Doyle (philosophy) + SciFact (science) share ONE engine.
+- Test suite 20 → **21/21 pass**.

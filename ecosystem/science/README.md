@@ -11,3 +11,5 @@ Repos to ingest as test data. See `../../docs/ECOSYSTEM-INDEX.md` §2.
 | S2ORC-doc2json (allenai/s2orc-doc2json) | paper parsing (PDF2JSON/TEX2JSON/JATS2JSON) |
 
 | gallantlab/literature-review-toolkit | **CLONED** — topic-agnostic literature review agent (MIT) |
+
+| allenai/scifact | **CLONED** (528K) — claim↔evidence gold (SUPPORT/CONTRADICT/NOT_ENOUGH_INFO). import_scifact adapter validated |
