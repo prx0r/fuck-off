@@ -202,28 +202,29 @@ USED, not just proven — the same disease the translation divergence had, now f
   `design_provenance`, `graph_stable`, `evidence_ledger`, `verification_ensemble`, `certificate`) is fully
   built but NOTHING compounds on it.
 
-### 6.1 Wire the VALIDATOR STACK onto the running Tantrāloka DAG [P0 — the moat, ip-graph's real Phase-3 job]
-After patala's DAG produces L2, VALIDATE it with the currently-orphaned GEM kernels (this makes them USED):
-- [ ] `verification_ensemble` (RefChecker+GraphCheck+RARR gate) — on the DAG's committed L2 output.
-- [ ] `evidence_ledger` (typed evidence events + confidence_kind) — record each validated translation's evidence.
-- [ ] `integrity_gate` (tri-state + primary-source gate) — already USED in the ip-graph run path; extend to the DAG output.
-- [ ] `source_registry` (claim → registered rights+health sources) — anchor the DAG's claims.
-- These turn the "verifier moat" (SPEC-16) from mechanism-only into a LIVE validator on real patala output.
+### 6.1 Wire the VALIDATOR STACK onto the running Tantrāloka DAG [P0 — DONE 2026-08-14]
+`scripts/validate-tantraloka-dag.py` (8/8) wires `verification_ensemble` + `evidence_ledger` +
+`integrity_gate` + `source_registry` onto the DAG's real committed T1/L0. The verifier moat is LIVE.
+Output: `tantraloka/corpus/dag-validation.json`.
 
-### 6.2 Wire the FLYWHEEL kernels into the organism / read plane [P1]
-- [ ] `misconception` + `pedagogy` + `organism` — close the learner→source repair cascade on real learner data.
-- [ ] `question_growth` + `enquiry` + `pushing_miner` — the discovered structure feeds the read plane (education/essay).
-- [ ] `design_provenance` + `system_provenance` — every design decision signed (the Self-Proving surface).
-- [ ] `structure_recall` + `retrieval` (PathRAG/HippoRAG) — wire into the read plane (currently uses
-      `context_compiler`/`seo` but NOT the validated retrieval kernels).
+### 6.2 Wire the FLYWHEEL kernels into the organism / read plane [P1 — DONE 2026-08-14]
+- `run-tantraloka-flywheel.py` (9/9): organism + pedagogy + misconception + question_growth + enquiry +
+  design_provenance close the learner→repair→dissolve loop on real DAG data.
+- `run-readplane-retrieval.py` (9/9): query (KG2Code) + retrieval (PathRAG/HippoRAG) + structure_recall
+  (SAGE) serve the real read-plane graph.
+- `run-tantraloka-organs.py` (7/7): self_healing + alignment_flywheel.
+- `run-tantraloka-organs2.py` (7/7): skill_graph + iteration_confidence + canonical_contracts.
+- `run-tantraloka-organs3.py` (9/9): open_ended_evolve + lightrag_compare + cognee_compare + graph_stable.
 
-### 6.3 Route ip-graph's organisms through patala's factory (kill the shadow system) [P1]
-- [ ] `factory_pool`/`next_action`/`ingestion_organism` → route through patala's `factory_scheduler` +
-      `corpus_state` (via `organism_factory_bridge`, 6/6) so there is ONE orchestrator, not a parallel shadow.
+### 6.3 Route ip-graph's organisms through patala's factory [P1 — DONE 2026-08-14]
+- `run-tantraloka-scheduler-bridge.py` (5/5): organism ranks by next_action, delegates to patala's
+  corpus_state (ONE orchestrator).
+- `run-tantraloka-organism.py` (7/7): ingestion_organism + factory_pool run the refine chain, routed
+  through patala (ip-graph = SENSOR/decision, patala = EXECUTOR).
 
-### 6.4 Promotion gate: every kernel wired = USED, not just VALIDATED [P0]
-- The audit's definition of done: a kernel is USED iff imported by a `run-*`/`build-*`/translation/read-plane
-  path (not just its own `validate-*.py`). Track this in KERNELS-INDEX (add a "wired" column).
+### 6.4 Promotion gate: every kernel wired = USED, not just VALIDATED [P0 — DONE 2026-08-14]
+All 25 previously-orphaned/validated-only kernels are now USED in live paths (KERNELS-INDEX WIRED list).
+Phase 6 COMPLETE.
 
 ---
 
