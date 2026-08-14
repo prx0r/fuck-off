@@ -1,74 +1,93 @@
-state_version: 3
-last_update: '2026-08-14T14:30:00'
+state_version: 4
+last_update: '2026-08-14T15:30:00'
 
 # THE authoritative per-layer live state. Kept in sync with lib/ + scripts/ + experiments.
-# Status: DONE | PARTIAL | IN_PROGRESS | NOT_STARTED | BLOCKED
-# Each layer maps to VISION-CHUNK-LAYER-MAP.md chunk N.
-# Source of truth for "what's actually built": data/references/experiments.json + lib/*.py
+# Status ladder (per patalamix review — DONE is theatre): 
+#   DISCOVERED < PROTOTYPED < VALIDATED < INTEGRATED < PRODUCTION
+# DISCOVERED = idea exists · PROTOTYPED = demo code · VALIDATED = gate/experiment passes
+# INTEGRATED = wired into the real kernel · PRODUCTION = shipped/canonical
+# Source of truth for what's actually built: data/references/experiments.json + lib/*.py
 
 layers:
   00-core-engine:
     chunk: 1
-    status: DONE
-    note: 'lib/epistemic.py (ladder + 4-axis Authority + invariant) + lib/schema.py (single-source
-      compiler). Envelope applied to 490 nodes/6578 edges; invariant 0 violations; eigenius-grade
-      mapping order-preserving.'
+    status: VALIDATED
+    note: 'lib/epistemic.py + lib/schema.py PROTOTYPED+VALIDATED (invariant 0 violations, eigenius
+      order-preserving). NOT integrated into a production DB — PROTOTYPED, not PRODUCTION.'
   01-corpus-provenance:
     chunk: 2
-    status: DONE
-    note: '425 clean docs, corpus.jsonl versioned, R2 backup. import_scifact generalization adapter
-      validated (external claim enters engine).'
+    status: VALIDATED
+    note: '425 docs + import_scifact adapter VALIDATED on external data. Not the full 5-adapter set.'
   02-epistemic-graph:
     chunk: 3
-    status: DONE
-    note: '490 nodes/6578 edges with envelopes. Canonical DAG validated. Communities match epistemic
-      split. Provenance nanopub emission (knowledgeProvenance) validated. Certification-weight kernel.'
+    status: VALIDATED
+    note: 'graph + DAG + communities + nanopub emission VALIDATED. Certification-weight PROTOTYPED.'
   03-factory:
     chunk: 4
-    status: DONE
-    note: 'lib/staleness.py (RKA blast-radius + review_queue + rebuild order) + canonical-dag.yaml.
-      Counterfactual engine: THERMODYNAMICS most load-bearing (11 downstream).'
+    status: VALIDATED
+    note: 'lib/staleness.py (RKA) + canonical-dag VALIDATED. Counterfactual engine DISCOVERED/PROTOTYPED.'
   04-argument-engine:
     chunk: 5
-    status: DONE
-    note: 'lib/review.py (herdr reducer) + argument.json (AIF 6/4/2). Crux compiler: indeterminism
-      necessity is the minimal divergence. Rival-argument: justified wins.'
+    status: VALIDATED
+    note: 'lib/review.py + argument.json + crux-compiler + rival-argument VALIDATED (AIF 6/4/2).'
   05-review-gate:
     chunk: 6
-    status: DONE
-    note: 'lib/scholar_review.py (adversarial panel + cross-review + CiteCheck) + review.py reducer.
-      Mutation-testing 100% kill-rate (self-auditing verifier). Self-improvement as PR.'
+    status: VALIDATED
+    note: 'lib/scholar_review.py (cross-review + citecheck) + mutation-testing VALIDATED. Agent-delivery
+      human gate PROTOTYPED (plain method — review said real signed attestation is the gap).'
   06-retrieval-compiler:
     chunk: 7
-    status: DONE
-    note: 'lib/retrieval.py (PathRAG + HippoRAG) + lib/query.py (KG2Code executable DSL). Layer 10
-      comparison validated (PathRAG+KG2Code win; HippoRAG hub-bias found).'
+    status: VALIDATED
+    note: 'lib/retrieval.py + lib/query.py (KG2Code) VALIDATED on Doyle graph. NOT production retrieval.'
   07-surfaces:
     chunk: 8
-    status: NOT_STARTED
-    note: 'Astro site + API + MCP (SPEC-00/09). mcp-agent + agent-kit cloned as reference.'
+    status: DISCOVERED
+    note: 'Astro + MCP spec'd (SPEC-00/09); mcp-agent + agent-kit cloned as reference. NOT built.'
   08-domain-expansions:
     chunk: 9
-    status: PARTIAL
-    note: 'Generalization validated (engine core domain-agnostic: Doyle + SciFact + EleutherIA).
-      science/ philosophy/ sanskrit/ ontology extensions not yet built.'
+    status: VALIDATED
+    note: 'Generalization VALIDATED (Doyle + SciFact + EleutherIA). science/philosophy/sanskrit
+      ontology extensions NOT built.'
   09-live-system:
     chunk: 10
-    status: PARTIAL
-    note: 'Vision->chunk->layer map + STATE.yaml + specs + AGENTS live. Reactive-essay + signed
-      corpus root (Merkle) + graphiti-temporal validated. Education + organism kernels built.'
+    status: VALIDATED
+    note: 'Reactive-essay + signed-corpus + graphiti-temporal VALIDATED. Education + organism + pedagogy
+      kernels PROTOTYPED+VALIDATED. Causal-operational graph DISCOVERED/PROTOTYPED.'
 
-# beyond-patala product mechanisms (new, coded in lib/)
+# beyond-patala product kernels (each with honest status)
 product_kernels:
   certificate.py:
-    status: DONE
-    note: 'Certification Weight (marketplace): compounding verification metric; CW 36->1683 over 10yr.'
+    status: VALIDATED
+    note: 'Certification Weight validated (compounding). PROTOTYPED — not a marketplace.'
   discovery.py:
-    status: DONE
-    note: 'Research Value Score (what-if machine): load-bearing x unverified x crux pressure.'
+    status: VALIDATED
+    note: 'Research Value Score validated. PROTOTYPED.'
   education.py:
-    status: DONE
-    note: 'LearningClaim + interaction compiler + wrong-answer->neighbor (education moat).'
+    status: VALIDATED
+    note: 'LearningClaim + interaction compiler + wrong-answer→neighbor validated (education moat).'
   organism.py:
-    status: DONE
-    note: 'UserKnowledgeState + MisconceptionGraph (the learner sensor / flywheel).'
+    status: VALIDATED
+    note: 'UserKnowledgeState + MisconceptionGraph validated (the sensor).'
+  organism_loop.py:
+    status: VALIDATED
+    note: 'Consumer→research machine (probe→gap→intervention→proposal→human-gate) validated 8/8.'
+  pedagogy.py:
+    status: VALIDATED
+    note: 'Live adaptive pedagogy (MasteryEvidence→reducer→LearnerState→next-interaction) validated 7/7.'
+  evolve.py:
+    status: VALIDATED
+    note: 'MAP-Elites evolution loop validated 3/3 (after review fix: behavioral niches + cost/latency).'
+  agent_delivery.py:
+    status: PROTOTYPED
+    note: 'Task contract + context routing + budget + human gate validated 10/10. Human auth = plain
+      method (review: needs signed HumanAttestation before production).'
+
+# known gaps (from patalamix review #11) — honest, not hidden
+gaps:
+  A_context_paging: DISCOVERED   # lossless context virtualization
+  B_execution_branching: DISCOVERED  # RunCheckpoint/RunBranch/Rollback
+  C_deterministic_replay: DISCOVERED # replay(to_event)/state_diff
+  D_content_addressed_run_traces: DISCOVERED  # RunManifest/ArtifactReference
+  E_signed_human_authorization: DISCOVERED  # signed HumanAttestation (not plain approve)
+  F_workspace_isolation: DISCOVERED  # Task→isolated namespace→review→merge
+  G_local_first_workstation: DISCOVERED  # signed subset→local DB→offline review

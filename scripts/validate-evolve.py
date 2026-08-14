@@ -10,7 +10,7 @@ and our validated gates (mutation-testing robustness, certification-weight).
 """
 import os, sys, random
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "lib"))
-from evolve import CandidateArtifact, FitnessVector, EliteArchive, cheap_gate, promotion_gate
+from evolve import CandidateArtifact, FitnessVector, EliteArchive, cheap_gate, promotion_gate, niche_by_literalness_intervention
 
 random.seed(42)
 
@@ -33,8 +33,8 @@ print("PĀṬALA EVOLUTION LOOP — generation 1 → candidate population → MA
 print("="*70)
 
 # ---- generation 1: create candidates, run cheap gates, compute fitness ----
-# niche = behavioral feature (strategy style), NOT object kind — this is what preserves diversity
-archive = EliteArchive(niche_key="implementation")
+# behavioral-niche archive (review fix): real MAP-Elites, not one-per-kind
+archive = EliteArchive(niche_by_literalness_intervention)
 gen1 = []
 for i, (impl, f) in enumerate(STRATEGIES.items()):
     cand = make_candidate(f"g1-{impl}", "argument", impl)

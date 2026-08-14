@@ -451,3 +451,16 @@ imposed.
 - Connects to the organism loop: consumer probes → gaps → pedagogy policy → learner mastery → sharper
   probes. Users/learners are live inputs that evolve the graph; user profiles ARE derived LearnerState.
 - Test suite 38 → **39/39**.
+
+## 2026-08-14 (cont.) — patalamix peer review applied (honest statuses + MAP-Elites fix + 5th graph)
+- Imported **SPEC-32-PATALA-MIX-REVIEW.md** (the sharpest internal review). Key critiques + fixes:
+  1. **Evolution Loop wasn't real MAP-Elites** → fixed `lib/evolve.py`: behavioral niches
+     (literalness×intervention), cost+latency in dominance, novelty as diversity-dim not max.
+  2. **STATE.yaml "DONE" was theatre** → rebuilt with honest ladder:
+     DISCOVERED < PROTOTYPED < VALIDATED < INTEGRATED < PRODUCTION. Nothing is PRODUCTION yet;
+     most are VALIDATED-prototype. Known gaps (context-paging, branching, replay, signed auth,
+     workspace isolation, local workstation) listed honestly.
+  3. **5th graph: causal operational graph** (`experiment-causal-operational-graph.py`) — why the
+     system acted (operational provenance) distinct from epistemic provenance. Completes the
+     5-graph model.
+- Test suite 39 → **40/40**.

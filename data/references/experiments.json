@@ -1,5 +1,5 @@
 {
- "count": 39,
+ "count": 40,
  "entries": [
   {
    "script": "validate-layer03-05.py",
@@ -351,6 +351,15 @@
    "kernel": "pedagogy",
    "status": "RUN",
    "note": "live adaptive pedagogy: MasteryEvidence\u2192reducer\u2192LearnerState\u2192next-interaction \u2014 7/7"
+  },
+  {
+   "script": "experiment-causal-operational-graph.py",
+   "layer": "L12",
+   "source": "patalamix review #12",
+   "vision": "Self-Proving System",
+   "kernel": "causal-operational",
+   "status": "RUN",
+   "note": "the 5th graph: why the system acted (operational provenance)"
   }
  ]
 }

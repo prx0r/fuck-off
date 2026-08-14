@@ -1,6 +1,6 @@
 # EXPERIMENT MATRIX — what's been tested
 
-*2026-08-14. 39 experiments mapped to layer / source repo / vision / kernel / result.*
+*2026-08-14. 40 experiments mapped to layer / source repo / vision / kernel / result.*
 Machine form: `data/references/experiments.json`.
 
 ## Argument Map (7)
@@ -76,10 +76,11 @@ Machine form: `data/references/experiments.json`.
 | `experiment-rka-staleness.py` | L03 | RKA (cloned) | staleness | RUN |
 | `experiment-unified-epistemic.py` | L03-L06 | herdr+RKA+kappa | epistemic | RUN |
 
-## Self-Proving System (1)
+## Self-Proving System (2)
 
 | script | layer | source | kernel | result |
 |--------|-------|--------|--------|--------|
+| `experiment-causal-operational-graph.py` | L12 | patalamix review #12 | causal-operational | RUN |
 | `experiment-signed-statement.py` | L12 | cosign (cloned) | signing | RUN |
 
 ## Verified Epistemic OS (7)

@@ -46,29 +46,54 @@ class CandidateArtifact:
 
 
 class EliteArchive:
-    """MAP-Elites-style archive: keeps the best candidate per niche (behavioral feature)."""
-    def __init__(self, niche_key="kind"):
-        self.niche_key = niche_key
-        self.cells = {}          # niche -> best candidate by Pareto dominance
+    """MAP-Elites archive: keeps the best candidate per BEHAVIORAL niche.
+
+    Per patalamix review: the niche must be a BEHAVIORAL dimension (literalness, breadth, diversity),
+    not an object type. Cells = behavior niches; dominance includes cost+latency; novelty is a
+    DIVERSITY dimension (sampled, not unconditionally maximized).
+    """
+    def __init__(self, niche_fn):
+        self.niche_fn = niche_fn       # candidate -> behavioral niche key (e.g. tuple of behavior dims)
+        self.cells = {}
 
     def add(self, cand: CandidateArtifact):
-        niche = getattr(cand, self.niche_key, "general")
+        niche = self.niche_fn(cand)
         if niche not in self.cells:
             self.cells[niche] = cand
         elif self._dominates(cand, self.cells[niche]):
             self.cells[niche] = cand   # replace if candidate dominates current best
 
     def _dominates(self, a, b):
-        """Pareto dominance on the fitness vector (a dominates b if >= all, > at least one)."""
+        """Pareto dominance on the fitness vector — including cost+latency (review catch)."""
         fa, fb = a.fitness, b.fitness
         return (fa.fidelity >= fb.fidelity and fa.coverage >= fb.coverage
-                and fa.robustness >= fb.robustness and fa.novelty >= fb.novelty
+                and fa.robustness >= fb.robustness
+                and fa.cost >= fb.cost and fa.latency >= fb.latency
                 and (fa.fidelity > fb.fidelity or fa.coverage > fb.coverage
-                     or fa.robustness > fb.robustness or fa.novelty > fb.novelty))
+                     or fa.robustness > fb.robustness
+                     or fa.cost > fb.cost or fa.latency > fb.latency))
 
     def survivors(self):
-        """The retained population (one elite per niche) — diverse by construction."""
+        """The retained population (one elite per BEHAVIORAL niche) — diverse by construction."""
         return list(self.cells.values())
+
+
+# behavioral niche functions (candidate -> behavioral cell)
+def niche_by_literalness_intervention(cand):
+    """A translation behavioral grid: literalness × intervention (review's example)."""
+    f = cand.fitness
+    # coarse behavior bins (not continuous — true MAP-Elites)
+    lit = "hi" if f.fidelity > 0.93 else ("mid" if f.fidelity > 0.85 else "lo")
+    intv = "hi" if f.coverage > 0.85 else ("mid" if f.coverage > 0.75 else "lo")
+    return (lit, intv)
+
+
+def niche_by_breadth_diversity(cand):
+    """A retrieval behavioral grid: breadth × diversity."""
+    f = cand.fitness
+    breadth = "hi" if f.coverage > 0.8 else "lo"
+    div = "hi" if f.novelty > 0.5 else "lo"
+    return (breadth, div)
 
 
 def cheap_gate(cand, schema_ok=True, evidence_ok=True) -> bool:

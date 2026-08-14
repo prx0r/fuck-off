@@ -47,7 +47,7 @@ for e in matrix["entries"]:
 print("\n[layer status]")
 for layer, status in layer_ok.items():
     exps = layer_exp.get(layer.split("-")[0], [])
-    if status == "NOT_STARTED" and exps:
+    if status in ("DISCOVERED","NOT_STARTED") and exps:
         issues.append(f"STATE layer {layer} NOT_STARTED but has experiments: {exps}")
     print(f"  {layer:24s} {status:12s} ({len(exps)} exps)")
 

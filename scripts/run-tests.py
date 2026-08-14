@@ -86,6 +86,7 @@ run_script("experiment-salsa-incremental.py", "salsa_incremental")
 run_script("validate-agent-delivery.py", "agent_delivery_layer")
 run_script("validate-organism-loop.py", "organism_loop")
 run_script("validate-pedagogy.py", "live_adaptive_pedagogy")
+run_script("experiment-causal-operational-graph.py", "causal_operational_graph")
 
 # ---- summary ----
 n = len(results["tests"]); npass = sum(1 for t in results["tests"] if t["pass"])
