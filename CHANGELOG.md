@@ -534,3 +534,14 @@ imposed.
   frontier is). Connects question-growth + curiosity-patterns + organism loop + pedagogy graph +
   What-If Machine.
 - Test suite 44 → **45/45**.
+
+## 2026-08-14 (cont.) — GEM EXTRACTION + CLAIM STANDARDISATION + THEATRE-CHECK skill
+- **`experiment-gem-extraction.py`** (48/48): agentic enquiry→unseen-gem extraction from text (pushing-
+  tantraloka PENETRATION 1). Gems (theorems/gaps/frontiers) become the essay/education/research base.
+- **`experiment-claim-standardisation.py`**: standardising tough claims ACROSS traditions — structural
+  claim vs tradition vocab + boundary (comparable without collapsing, "analogy ≠ identity" technical).
+- **`skills/theatre-check/SKILL.md`** + **`scripts/theatre-check.py`**: the verifiable-proof auditor.
+  For each kernel: test exists + passes + real-data + doc-claim match → stored proof with hash.
+  Result: **10 PROVEN (real data), 6 PROVEN-MECHANISM (synthetic — the theatre risk), 0 unproven.**
+- Added axiom 11 to AGENTS.md: run theatre-check before claiming done; PROVEN-MECHANISM is not delivery.
+- Test suite 45 → **48/48**.

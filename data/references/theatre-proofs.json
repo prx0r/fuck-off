@@ -1,0 +1,184 @@
+{
+ "count": 16,
+ "proven": 10,
+ "mechanism_only": 6,
+ "unproven": 0,
+ "proofs": [
+  {
+   "kernel": "agent_delivery",
+   "doc_claim": "task contract + human gate validated",
+   "test_script": "validate-agent-delivery.py",
+   "test_exists": true,
+   "test_passes": true,
+   "exit_code": 0,
+   "uses_real_data": false,
+   "verdict": "PROVEN-MECHANISM",
+   "proof_hash": "77ff55ce50b041bf"
+  },
+  {
+   "kernel": "certificate",
+   "doc_claim": "certification weight validated",
+   "test_script": "validate-kernels.py",
+   "test_exists": true,
+   "test_passes": true,
+   "exit_code": 0,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "e5ee13e7384defc8"
+  },
+  {
+   "kernel": "discovery",
+   "doc_claim": "research value validated",
+   "test_script": "validate-kernels.py",
+   "test_exists": true,
+   "test_passes": true,
+   "exit_code": 0,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "805edb5ac1697151"
+  },
+  {
+   "kernel": "education",
+   "doc_claim": "wrong-answer\u2192neighbor validated",
+   "test_script": "validate-education-organism.py",
+   "test_exists": true,
+   "test_passes": true,
+   "exit_code": 0,
+   "uses_real_data": false,
+   "verdict": "PROVEN-MECHANISM",
+   "proof_hash": "a31860b9d13ff7e8"
+  },
+  {
+   "kernel": "epistemic",
+   "doc_claim": "envelope + invariant validated (0 violations)",
+   "test_script": "validate-stack.py",
+   "test_exists": true,
+   "test_passes": true,
+   "exit_code": 0,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "05e6adaae4185138"
+  },
+  {
+   "kernel": "evolve",
+   "doc_claim": "MAP-Elites evolution validated",
+   "test_script": "validate-evolve.py",
+   "test_exists": true,
+   "test_passes": true,
+   "exit_code": 0,
+   "uses_real_data": false,
+   "verdict": "PROVEN-MECHANISM",
+   "proof_hash": "366069951682167a"
+  },
+  {
+   "kernel": "organism",
+   "doc_claim": "misconception graph validated",
+   "test_script": "validate-education-organism.py",
+   "test_exists": true,
+   "test_passes": true,
+   "exit_code": 0,
+   "uses_real_data": false,
+   "verdict": "PROVEN-MECHANISM",
+   "proof_hash": "f857d659d946f9a7"
+  },
+  {
+   "kernel": "organism_loop",
+   "doc_claim": "consumer\u2192research machine validated",
+   "test_script": "validate-organism-loop.py",
+   "test_exists": true,
+   "test_passes": true,
+   "exit_code": 0,
+   "uses_real_data": false,
+   "verdict": "PROVEN-MECHANISM",
+   "proof_hash": "0f759bb16ef7faf9"
+  },
+  {
+   "kernel": "pedagogy",
+   "doc_claim": "adaptive pedagogy validated",
+   "test_script": "validate-pedagogy.py",
+   "test_exists": true,
+   "test_passes": true,
+   "exit_code": 0,
+   "uses_real_data": false,
+   "verdict": "PROVEN-MECHANISM",
+   "proof_hash": "b888c6238f2afd33"
+  },
+  {
+   "kernel": "query",
+   "doc_claim": "KG2Code executable queries validated",
+   "test_script": "validate-kernels.py",
+   "test_exists": true,
+   "test_passes": true,
+   "exit_code": 0,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "c60e012d68225aba"
+  },
+  {
+   "kernel": "retrieval",
+   "doc_claim": "PathRAG+HippoRAG validated",
+   "test_script": "validate-kernels.py",
+   "test_exists": true,
+   "test_passes": true,
+   "exit_code": 0,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "c3745ec841c0f0f3"
+  },
+  {
+   "kernel": "review",
+   "doc_claim": "reducer gates promotion honestly",
+   "test_script": "validate-stack.py",
+   "test_exists": true,
+   "test_passes": true,
+   "exit_code": 0,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "2fc44208b2520af5"
+  },
+  {
+   "kernel": "schema",
+   "doc_claim": "single-source validation",
+   "test_script": "validate-kernels.py",
+   "test_exists": true,
+   "test_passes": true,
+   "exit_code": 0,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "1f38632b6dfbe6b3"
+  },
+  {
+   "kernel": "scholar_review",
+   "doc_claim": "cross-review + citecheck validated",
+   "test_script": "validate-kernels.py",
+   "test_exists": true,
+   "test_passes": true,
+   "exit_code": 0,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "80d844bdd530d682"
+  },
+  {
+   "kernel": "staleness",
+   "doc_claim": "PHYSICS retraction flags 8 layers",
+   "test_script": "validate-stack.py",
+   "test_exists": true,
+   "test_passes": true,
+   "exit_code": 0,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "0fcf742dcb69359f"
+  },
+  {
+   "kernel": "translation",
+   "doc_claim": "non-aggregate vector validated",
+   "test_script": "validate-products.py",
+   "test_exists": true,
+   "test_passes": true,
+   "exit_code": 0,
+   "uses_real_data": true,
+   "verdict": "PROVEN",
+   "proof_hash": "ae957c6fbcc6ea0b"
+  }
+ ]
+}

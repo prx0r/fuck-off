@@ -1,5 +1,5 @@
 {
- "count": 45,
+ "count": 48,
  "entries": [
   {
    "script": "validate-layer03-05.py",
@@ -405,6 +405,33 @@
    "kernel": "enquiry",
    "status": "RUN",
    "note": "enquiry\u2192topic structure: taxonomy+theorem+boundary+frontier \u2014 one structure for ontology/research/pedagogy"
+  },
+  {
+   "script": "experiment-gem-extraction.py",
+   "layer": "L04",
+   "source": "pushing-tantraloka session",
+   "vision": "Enquiry-Discovery Organism",
+   "kernel": "gem-extraction",
+   "status": "RUN",
+   "note": "agentic enquiry\u2192unseen gems (PENETRATION 1); gems\u2192essay/education/research base"
+  },
+  {
+   "script": "experiment-claim-standardisation.py",
+   "layer": "L06",
+   "source": "comparative pushing (SPEC-35)",
+   "vision": "Comparative Philosophy",
+   "kernel": "standardisation",
+   "status": "RUN",
+   "note": "structural claim vs tradition vocab/boundary \u2014 comparable without collapsing"
+  },
+  {
+   "script": "theatre-check.py",
+   "layer": "ALL",
+   "source": "the anti-theatre skill",
+   "vision": "Verified Epistemic OS",
+   "kernel": "verification",
+   "status": "RUN",
+   "note": "verifiable-proof audit: 10 PROVEN real-data, 6 PROVEN-mechanism synthetic, 0 unproven"
   }
  ]
 }

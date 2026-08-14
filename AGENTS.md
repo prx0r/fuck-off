@@ -74,6 +74,8 @@ match ground truth.
 9. **Every object carries an epistemic envelope.** `epistemic_ceiling` + 4-axis `authority` +
    `review_state`, and the invariant `authority(projection) <= authority(parent)`. Physics may be
    `SCHOLARLY_CORROBORATED`; the free-will thesis stays `MACHINE_PROPOSED`. Never inflate a ceiling.
+11. **Run theatre-check before claiming done.** A claim is only PROVEN if `theatre-check.py`
+    confirms a passing test on REAL data. PROVEN-MECHANISM (synthetic) is not delivery.
 10. **Distinguish HOW something is known** (Eigenius): ASSERTED / EXTRACTED / RECONSTRUCTED /
     EVIDENCE_GROUNDED / HUMAN_REVIEWED / ADJUDICATED — not one mushy confidence score.
 

@@ -67,6 +67,9 @@ MATRIX = {
   "experiment-question-growth.py": ("L04", "pushing method (research-library)", "What-If Machine", "question-growth", "question→theorem→boundary→next-pressure; PrimitiveRobustness via multi-route convergence"),
   "experiment-curiosity-patterns.py": ("L09", "LOGICVID gold exemplars (live human curiosity)", "Education+Organism", "curiosity", "curiosity markers: live-issue/distinction/tension/boundary — the gold question-generation profile"),
   "experiment-enquiry-discovery.py": ("L04", "logic5 presence enquiry (SPEC-46)", "Enquiry-Discovery Organism", "enquiry", "enquiry→topic structure: taxonomy+theorem+boundary+frontier — one structure for ontology/research/pedagogy"),
+  "experiment-gem-extraction.py": ("L04", "pushing-tantraloka session", "Enquiry-Discovery Organism", "gem-extraction", "agentic enquiry→unseen gems (PENETRATION 1); gems→essay/education/research base"),
+  "experiment-claim-standardisation.py": ("L06", "comparative pushing (SPEC-35)", "Comparative Philosophy", "standardisation", "structural claim vs tradition vocab/boundary — comparable without collapsing"),
+  "theatre-check.py": ("ALL", "the anti-theatre skill", "Verified Epistemic OS", "verification", "verifiable-proof audit: 10 PROVEN real-data, 6 PROVEN-mechanism synthetic, 0 unproven"),
 }
 
 def main():

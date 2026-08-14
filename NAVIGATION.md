@@ -118,6 +118,7 @@ graph after adding text, run `build-graph.py`.
 | `docs/ALGORITHMS.md` | granular arXiv-algorithm implementations (PathRAG/HippoRAG/KG2Code) |
 | `docs/process/FRONTIER-MAP.md` | per-layer implementations, todos, validations |
 | `skills/vcreate/SKILL.md` | vcreate: backward-delivery planning (the reverse-chaining skill) |
+| `skills/theatre-check/SKILL.md` | theatre-check: the verifiable-proof anti-theatre skill |
 | `docs/vision/beyond-patala/THESIS-REVERSE-DELIVERY.md` | the reverse-delivery thesis |
 
 ## Vision docs
