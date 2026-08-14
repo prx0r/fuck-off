@@ -127,6 +127,7 @@ graph after adding text, run `build-graph.py`.
 | `MY-OWN-VISION-REVIEW.md` | my ground: what I specced + built (visions, specs, experiments), so I don't get lost in the other agent's directives |
 | `PEER-REVIEW-SHARED-LOOP.md` | my running peer-review of the newest shared docs (BUILD-SITE-LIVE-DATA etc.) |
 | `tantraloka/` | **THE MONA LISA** — Tantrāloka from scratch: the canonical full-stack test + full hypotheses/order |
+| `tantraloka/CANONICAL-TRANSLATION-ORCHESTRATION.md` | **THE CANONICAL TRANSLATION PROCESS** — the ultimate truth (use `factory_scheduler`, argument-guided T1→ARGMAP→L0→L2→L200→C1, Hermes=generation kernel only), the full justification (every file), + exact run commands. Read before any translation work. |
 | `tantraloka/run-all.py` | the live 7-stage Tantrāloka test harness (ingest→atlas→translation→argument→fullstack→validation→factory), logs every stage |
 | `tantraloka/AUTONOMOUS-ITERATION-LOG.md` | the running iteration + troubleshooting log (the autonomous-build record) |
 | `tantraloka/GOLD-STANDARD-INSIGHTS.md` | the gold-standard review findings (commentary-lift insight + fix) |
