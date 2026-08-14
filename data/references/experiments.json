@@ -1,5 +1,5 @@
 {
- "count": 29,
+ "count": 32,
  "entries": [
   {
    "script": "validate-layer03-05.py",
@@ -261,6 +261,33 @@
    "kernel": "all",
    "status": "PASS",
    "note": "one claim through all 8 laws"
+  },
+  {
+   "script": "experiment-counterfactual-engine.py",
+   "layer": "L03",
+   "source": "VISION B counterfactual",
+   "vision": "What-If Machine",
+   "kernel": "discovery",
+   "status": "RUN",
+   "note": "THERMODYNAMICS most load-bearing (11 downstream)"
+  },
+  {
+   "script": "experiment-rival-argument.py",
+   "layer": "L08",
+   "source": "VISION D verifier-as-rival",
+   "vision": "Verified-Statement-Marketplace",
+   "kernel": "scholar_review",
+   "status": "RUN",
+   "note": "justified wins (defeat rival, not self-consistency)"
+  },
+  {
+   "script": "experiment-certification-weight.py",
+   "layer": "L02",
+   "source": "VISION marketplace",
+   "vision": "Verified-Statement-Marketplace",
+   "kernel": "certificate",
+   "status": "RUN",
+   "note": "compounding CW (36 -> 1683 over 10yr)"
   }
  ]
 }

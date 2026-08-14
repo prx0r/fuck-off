@@ -51,6 +51,9 @@ MATRIX = {
   # ---- synthesis ----
   "experiment-unified-epistemic.py": ("L03-L06", "herdr+RKA+kappa", "Self-Maintaining", "epistemic", "kappa+herdr+RKA unified"),
   "experiment-verified-lifecycle.py": ("ALL", "the OS synthesis", "Verified Epistemic OS", "all", "one claim through all 8 laws"),
+  "experiment-counterfactual-engine.py": ("L03", "VISION B counterfactual", "What-If Machine", "discovery", "THERMODYNAMICS most load-bearing (11 downstream)"),
+  "experiment-rival-argument.py": ("L08", "VISION D verifier-as-rival", "Verified-Statement-Marketplace", "scholar_review", "justified wins (defeat rival, not self-consistency)"),
+  "experiment-certification-weight.py": ("L02", "VISION marketplace", "Verified-Statement-Marketplace", "certificate", "compounding CW (36 -> 1683 over 10yr)"),
 }
 
 def main():

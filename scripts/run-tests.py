@@ -77,6 +77,7 @@ run_script("experiment-evolving-memory.py", "evolving_memory_consolidation")
 run_script("validate-education-organism.py", "education_organism_stack")
 run_script("experiment-counterfactual-engine.py", "counterfactual_engine")
 run_script("experiment-rival-argument.py", "rival_argument")
+run_script("experiment-certification-weight.py", "certification_weight")
 
 # ---- summary ----
 n = len(results["tests"]); npass = sum(1 for t in results["tests"] if t["pass"])

@@ -355,3 +355,16 @@ imposed.
 - **`experiment-rival-argument.py`** (VISION D): a position must DEFEAT a genuine rival's objection
   (justified win), not just be self-consistent.
 - Test suite 28 → **30/30 pass**.
+
+## 2026-08-14 (cont.) — BEYOND PĀṬALA: the unconsidered product visions
+- **`docs/vision/beyond-patala/`** — a family of 4 distinct, credible product visions, each grounded in
+  validated capabilities, with a concrete synergy + novel mechanism + compounding flywheel + future moat:
+  1. **Verified-Statement-Marketplace** — verification as a productive asset; mechanism = Certification Weight
+  2. **Co-Evolving Epistemic Organism** — learning loops back into scholarship; mechanism = Misconception Likelihood + repair cascade
+  3. **What-If Machine** — counterfactual as discovery; mechanism = Research Value Score
+  4. **Self-Proving System** — the OS proves its own construction; mechanism = Design-Provenance nanopub
+- **`experiment-certification-weight.py`** — validated the compounding CW mechanism (36 → 1683 over 10
+  years; consensus multiplies it). Test suite 30 → **31/31**.
+- Shared logic: all are compositions of validated parts, domain-agnostic, with compounding flywheels,
+  and get MORE valuable as AI content floods the world.
+- Experiment matrix now 32 entries.

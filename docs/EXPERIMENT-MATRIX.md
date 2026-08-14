@@ -1,6 +1,6 @@
 # EXPERIMENT MATRIX — what's been tested
 
-*2026-08-14. 29 experiments mapped to layer / source repo / vision / kernel / result.*
+*2026-08-14. 32 experiments mapped to layer / source repo / vision / kernel / result.*
 Machine form: `data/references/experiments.json`.
 
 ## Argument Map (7)
@@ -76,3 +76,16 @@ Machine form: `data/references/experiments.json`.
 | `experiment-verified-lifecycle.py` | ALL | the OS synthesis | all | PASS |
 | `validate-layer03-05.py` | L03+L05 | herdr+RKA (cloned) | review+staleness | PASS |
 | `validate-provenance.py` | L02 | knowledgeProvenance (cloned) | provenance | PASS |
+
+## Verified-Statement-Marketplace (2)
+
+| script | layer | source | kernel | result |
+|--------|-------|--------|--------|--------|
+| `experiment-certification-weight.py` | L02 | VISION marketplace | certificate | RUN |
+| `experiment-rival-argument.py` | L08 | VISION D verifier-as-rival | scholar_review | RUN |
+
+## What-If Machine (1)
+
+| script | layer | source | kernel | result |
+|--------|-------|--------|--------|--------|
+| `experiment-counterfactual-engine.py` | L03 | VISION B counterfactual | discovery | RUN |
