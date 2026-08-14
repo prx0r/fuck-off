@@ -1,7 +1,27 @@
 # KERNELS-INDEX — the reusable kernels (what's in lib/, what it does, how it's validated)
 
-*2026-08-14. The agent-facing map of every reusable kernel (now 47). Reuse these — never rebuild. Each
+*2026-08-14. The agent-facing map of every reusable kernel (now 52). Reuse these — never rebuild. Each
 maps to: what it is · layer · vision · the experiment(s) that validate it · honest status.*
+
+## WIRED vs VALIDATED (Phase 6 promotion gate — added 2026-08-14)
+
+The architecture audit found ~16 kernels VALIDATED-ONLY (proven by their own validate-*.py, wired nowhere).
+Phase 6 wires them into LIVE paths. Status: **USED** = imported by a run-*/build-*/translation/read-plane
+path on real data; **VALIDATED-ONLY** = only its own validator/experiment; **ORPHANED** = referenced nowhere.
+The wiring scripts:
+- `scripts/validate-tantraloka-dag.py` (8/8) — wires `verification_ensemble` + `evidence_ledger` +
+  `integrity_gate` + `source_registry` onto the live factory DAG output.
+- `scripts/run-tantraloka-flywheel.py` (9/9) — wires `organism` + `pedagogy` + `misconception` +
+  `question_growth` + `enquiry` + `design_provenance` into the flywheel on real DAG data.
+- `scripts/run-tantraloka-scheduler-bridge.py` (5/5) — wires `organism_factory_bridge` + `next_action`
+  through patala's `corpus_state` (ONE orchestrator).
+
+Now-wired (Phase 6): `verification_ensemble`, `evidence_ledger`, `integrity_gate`, `source_registry`,
+`organism`, `pedagogy`, `misconception`, `question_growth`, `enquiry`, `design_provenance`,
+`organism_factory_bridge`.
+Still VALIDATED-ONLY (next wiring targets): `alignment_flywheel`, `open_ended_evolve`, `self_healing`,
+`skill_graph`, `structure_recall`, `iteration_confidence`, `canonical_contracts`, `factory_pool`,
+`ingestion_organism`, `retrieval`, `query`, `lightrag_compare`, `cognee_compare`, `graph_stable`.
 
 | Kernel | What it does | Layer | Vision | Validated by | Status |
 |--------|-------------|-------|--------|--------------|--------|
