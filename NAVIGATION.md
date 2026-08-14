@@ -87,6 +87,7 @@ graph after adding text, run `build-graph.py`.
 | `docs/ARXIV-INDEX.md` | canonical arXiv catalog (32 papers, by category) |
 | `docs/GITHUB-INDEX.md` | canonical GitHub catalog (74 repos, by category + tier) |
 | `docs/TESTING-VALIDATION-REPORT.md` | the test + validation results |
+| `docs/EXPERIMENT-REPORT.md` | third-party repo experiments (herdr/RKA/kappa/nano-graphrag) |
 
 ## Reference catalogs (machine-readable)
 | File | What it is |

@@ -153,3 +153,16 @@ imposed.
 - **Cloned (tracked):** herdr-workflow (2.2M), arcan (4.7M) → `ecosystem/agent-runtime/`.
 - **Cloned (local-only, gitignored):** valkor-ai/loom (Apache-2.0), maestro (tracked sqlite w/ sk- strings).
 - GitHub index: 75 → **79 repos**.
+
+## 2026-08-14 (cont.) — third-party repo experiments
+- Cloned + tested core patterns from cloned repos against our real data:
+  - **herdr-workflow** (`experiment-herdr-review.py`) — reducer state machine keeps thesis claims in
+    CORRECTION_REQUIRED, corroborated physics in ALIGNED.
+  - **RKA** (`experiment-rka-staleness.py`) — blast-radius propagation: PHYSICS retraction flags 8
+    downstream layers stale (FREE_WILL, VALUE) -> review_queue.
+  - **Kappa** — grounding/contradiction (evidence-weights.json).
+  - **nano-graphrag** (`experiment-nano-stable-graph.py`) — stable-LCC + GraphML determinism confirmed.
+  - **unified synthesis** (`experiment-unified-epistemic.py`) — kappa+herdr+RKA in one pipeline.
+- New clones: RKA (local-only 30M), Kappa (local-only 49M), nano-graphrag (tracked 3.3M).
+- **`docs/EXPERIMENT-REPORT.md`** — consolidated results + what to adopt.
+- NAVIGATION + CHANGELOG wired.

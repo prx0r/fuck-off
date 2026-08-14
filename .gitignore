@@ -18,3 +18,7 @@ ecosystem/agent-runtime/loom/
 # agent-harness clones kept local-only (license/secret-scan concerns)
 ecosystem/agent-runtime/maestro/
 ecosystem/agent-runtime/loom-valkor/
+
+# large/agent-framework reference clones — local-only for code-reading
+ecosystem/epistemic/rka/
+ecosystem/epistemic/kappa-graph/

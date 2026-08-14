@@ -10,3 +10,6 @@ Repos that model knowledge with epistemic state (claims, evidence, review, super
 | Vouch (vouchdev/vouch) | git-native write/review gate (don't rebuild) |
 | Eigenius (eigenius/eigenius) | typed knowledge classes (Declared/Observed/Derived/Verified) |
 | DocGraph (Detective-XH/DocGraph) | SQLite KG + drift audits (staleness) |
+
+| infinitywings/rka | **CLONED local-only** (30M) — review_queue w/ stale_dependency flag, blast-radius propagation, openalex/arxiv/crossref backends |
+| aaronsb/knowledge-graph-system | **CLONED local-only** (49M) — Kappa grounding/contradiction, FUSE over graph |

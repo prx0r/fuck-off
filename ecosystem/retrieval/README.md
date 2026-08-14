@@ -9,3 +9,5 @@ GraphRAG retrieval references. See `../../docs/ECOSYSTEM-INDEX.md` §3.
 | HippoRAG (OSU-NLP-Group/HippoRAG) | PPR associative retrieval |
 | nano-graphrag (gusye1234/nano-graphrag) | ~1100-line reference implementation |
 | LightRAG (HKUDS/LightRAG) | dual-level retrieval |
+
+| gusye1234/nano-graphrag | **CLONED (tracked, 3.3M)** — 1100-line reference; stable-LCC + GraphML determinism tested |
