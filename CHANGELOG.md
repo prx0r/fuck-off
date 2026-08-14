@@ -1047,3 +1047,14 @@ Per the master devplan Phase 1 (the highest-leverage gap). Reuse, don't rebuild:
   (47 kernels, 97 experiments). Replaced the stale "single most important next step" with a
   context-engineered start: X4 education/essay products from the validated corpus → read-plane incremental
   → real proof auditors → shared coordination. The 30-kārikā corpus is the deliverable.
+
+## 2026-08-14 (the FULL Tantrāloka translation runner + per-artifact rebuild)
+- **The harvest made Tantrāloka factory-runnable** (4,624 real verse SOURCE objects — confirmed
+  `_source_objects('tantraloka',3)` resolves real verses). A FULL translation is now possible.
+- **`run-tantraloka-translation.py`** — the batched translation runner: reads the real verse SOURCE
+  objects → Hermes L2 generation (agentic) → my proof generators (real Vidyut lattice) → checkpoint/resume.
+  Running in background: real verses (v100, v1000) translated via Hermes with real lattice analysis.
+  Run `--batch 4624` for the full translation.
+- **`rebuild-on-commit-v2.py`** — the per-artifact incremental rebuild (my agreed lane): wires
+  `projection_dag` so a change rebuilds only its dependent layer artifacts.
+- 47 kernels, 97 experiments. The full Tantrāloka translation is now a running batch job, not a design problem.
