@@ -1,0 +1,37 @@
+{
+ "schema": "patala.translation-benchmark.v1",
+ "generated": "2026-08-15T21:12:45",
+ "totals": {
+  "n": 4,
+  "total_s": 1604.3,
+  "model_calls": 10,
+  "c1_chars": 2283
+ },
+ "models": [
+  {
+   "model": "deepseek-v4-flash",
+   "n": 4,
+   "avg_s": 401.1,
+   "avg_calls": 2.5,
+   "avg_raw": 84.0,
+   "avg_c1": 570.8,
+   "avg_quality": 0.9
+  }
+ ],
+ "works": [
+  {
+   "work": "kramasadbhava",
+   "n": 3,
+   "s": 1279.6999999999998,
+   "c1": 1534,
+   "avg_s": 426.6
+  },
+  {
+   "work": "cidgagana",
+   "n": 1,
+   "s": 324.6,
+   "c1": 749,
+   "avg_s": 324.6
+  }
+ ]
+}
