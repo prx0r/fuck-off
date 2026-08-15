@@ -1,8 +1,19 @@
 {
  "generated": true,
- "count": 111,
+ "count": 112,
  "surface": "translation-status",
  "works": [
+  {
+   "work_id": "FIX-K",
+   "t1": "UNKNOWN",
+   "l2": "UNKNOWN",
+   "c1": "UNKNOWN",
+   "next_action": "BUILD_C1",
+   "eligible_for_agent3": true,
+   "committed": {
+    "L200": 1
+   }
+  },
   {
    "work_id": "aghorasiva_ashtaprakarana_corpus",
    "t1": "NOT_STARTED",
@@ -80,8 +91,8 @@
    "t1": "MODERN_PRESENT",
    "l2": "NOT_STARTED",
    "c1": "NOT_STARTED",
-   "next_action": "BUILD_L0_SOURCE_MODE",
-   "eligible_for_agent3": false,
+   "next_action": "BUILD_ARGMAP",
+   "eligible_for_agent3": true,
    "committed": {
     "T1": 5,
     "L0": 5
@@ -101,8 +112,8 @@
    "t1": "NOT_STARTED",
    "l2": "NOT_STARTED",
    "c1": "NOT_STARTED",
-   "next_action": "BUILD_L0_SOURCE_MODE",
-   "eligible_for_agent3": false,
+   "next_action": "BUILD_ARGMAP",
+   "eligible_for_agent3": true,
    "committed": {
     "T1": 9,
     "L0": 99
@@ -113,8 +124,8 @@
    "t1": "NOT_STARTED",
    "l2": "NOT_STARTED",
    "c1": "NOT_STARTED",
-   "next_action": "BUILD_L0_SOURCE_MODE",
-   "eligible_for_agent3": false,
+   "next_action": "BUILD_ARGMAP",
+   "eligible_for_agent3": true,
    "committed": {
     "T1": 9,
     "L0": 100
@@ -134,8 +145,8 @@
    "t1": "NOT_STARTED",
    "l2": "NOT_STARTED",
    "c1": "NOT_STARTED",
-   "next_action": "BUILD_L0_SOURCE_MODE",
-   "eligible_for_agent3": false,
+   "next_action": "BUILD_ARGMAP",
+   "eligible_for_agent3": true,
    "committed": {
     "T1": 2,
     "L0": 2
@@ -146,8 +157,8 @@
    "t1": "NOT_STARTED",
    "l2": "NOT_STARTED",
    "c1": "NOT_STARTED",
-   "next_action": "BUILD_L0_SOURCE_MODE",
-   "eligible_for_agent3": false,
+   "next_action": "BUILD_L0",
+   "eligible_for_agent3": true,
    "committed": {
     "T1": 2
    }
@@ -157,8 +168,8 @@
    "t1": "NOT_STARTED",
    "l2": "NOT_STARTED",
    "c1": "NOT_STARTED",
-   "next_action": "BUILD_L0_SOURCE_MODE",
-   "eligible_for_agent3": false,
+   "next_action": "BUILD_L0",
+   "eligible_for_agent3": true,
    "committed": {
     "T1": 2
    }
@@ -168,11 +179,12 @@
    "t1": "NOT_STARTED",
    "l2": "NOT_STARTED",
    "c1": "NOT_STARTED",
-   "next_action": "GENERATE_TRANSLATION",
+   "next_action": "BUILD_L2",
    "eligible_for_agent3": true,
    "committed": {
     "T1": 1,
     "ARGMAP": 49,
+    "L0": 1,
     "L200": 63,
     "C1": 63
    }
@@ -182,8 +194,8 @@
    "t1": "NOT_STARTED",
    "l2": "NOT_STARTED",
    "c1": "NOT_STARTED",
-   "next_action": "BUILD_L0_SOURCE_MODE",
-   "eligible_for_agent3": false,
+   "next_action": "BUILD_L0",
+   "eligible_for_agent3": true,
    "committed": {
     "T1": 2
    }
@@ -193,8 +205,8 @@
    "t1": "NOT_STARTED",
    "l2": "NOT_STARTED",
    "c1": "NOT_STARTED",
-   "next_action": "BUILD_L0_SOURCE_MODE",
-   "eligible_for_agent3": false,
+   "next_action": "BUILD_L0",
+   "eligible_for_agent3": true,
    "committed": {
     "T1": 2
    }
@@ -213,8 +225,8 @@
    "t1": "NOT_STARTED",
    "l2": "NOT_STARTED",
    "c1": "NOT_STARTED",
-   "next_action": "BUILD_L0_SOURCE_MODE",
-   "eligible_for_agent3": false,
+   "next_action": "BUILD_L0",
+   "eligible_for_agent3": true,
    "committed": {
     "T1": 2
    }
@@ -224,8 +236,8 @@
    "t1": "NOT_STARTED",
    "l2": "NOT_STARTED",
    "c1": "NOT_STARTED",
-   "next_action": "BUILD_L0_SOURCE_MODE",
-   "eligible_for_agent3": false,
+   "next_action": "BUILD_L0",
+   "eligible_for_agent3": true,
    "committed": {
     "T1": 2
    }
@@ -253,8 +265,8 @@
    "t1": "NOT_STARTED",
    "l2": "NOT_STARTED",
    "c1": "NOT_STARTED",
-   "next_action": "BUILD_L0_SOURCE_MODE",
-   "eligible_for_agent3": false,
+   "next_action": "BUILD_L0",
+   "eligible_for_agent3": true,
    "committed": {
     "T1": 2
    }
@@ -264,8 +276,8 @@
    "t1": "LEGACY_PRESENT",
    "l2": "NOT_STARTED",
    "c1": "LEGACY_PRESENT",
-   "next_action": "ACQUIRE_SOURCE",
-   "eligible_for_agent3": false,
+   "next_action": "BUILD_L0",
+   "eligible_for_agent3": true,
    "committed": {
     "T1": 2
    }
@@ -329,15 +341,15 @@
    "t1": "LEGACY_PRESENT",
    "l2": "NOT_STARTED",
    "c1": "LEGACY_PRESENT",
-   "next_action": "BUILD_L0_SOURCE_MODE",
-   "eligible_for_agent3": false,
+   "next_action": "BUILD_L0",
+   "eligible_for_agent3": true,
    "committed": {
     "T1": 248,
-    "ARGMAP": 1,
-    "L0": 100,
-    "L2": 3,
-    "L200": 3,
-    "C1": 3
+    "ARGMAP": 6,
+    "L0": 213,
+    "L2": 8,
+    "L200": 8,
+    "C1": 8
    }
   },
   {
@@ -345,8 +357,8 @@
    "t1": "NOT_STARTED",
    "l2": "NOT_STARTED",
    "c1": "NOT_STARTED",
-   "next_action": "BUILD_L0_SOURCE_MODE",
-   "eligible_for_agent3": false,
+   "next_action": "BUILD_L0",
+   "eligible_for_agent3": true,
    "committed": {
     "T1": 1
    }
@@ -356,8 +368,8 @@
    "t1": "LEGACY_PRESENT",
    "l2": "LEGACY_PRESENT",
    "c1": "LEGACY_PRESENT",
-   "next_action": "BUILD_L0_SOURCE_MODE",
-   "eligible_for_agent3": false,
+   "next_action": "BUILD_ARGMAP",
+   "eligible_for_agent3": true,
    "committed": {
     "L0": 5
    }
@@ -385,8 +397,8 @@
    "t1": "LEGACY_PRESENT",
    "l2": "NOT_STARTED",
    "c1": "NOT_STARTED",
-   "next_action": "BUILD_L0_SOURCE_MODE",
-   "eligible_for_agent3": false,
+   "next_action": "BUILD_ARGMAP",
+   "eligible_for_agent3": true,
    "committed": {
     "T1": 7,
     "L0": 12
@@ -442,8 +454,8 @@
    "t1": "LEGACY_PRESENT",
    "l2": "NOT_STARTED",
    "c1": "LEGACY_PRESENT",
-   "next_action": "BUILD_L0_SOURCE_MODE",
-   "eligible_for_agent3": false,
+   "next_action": "BUILD_ARGMAP",
+   "eligible_for_agent3": true,
    "committed": {
     "T1": 5,
     "L0": 97
@@ -481,8 +493,8 @@
    "t1": "LEGACY_PRESENT",
    "l2": "NOT_STARTED",
    "c1": "LEGACY_PRESENT",
-   "next_action": "BUILD_L0_SOURCE_MODE",
-   "eligible_for_agent3": false,
+   "next_action": "BUILD_ARGMAP",
+   "eligible_for_agent3": true,
    "committed": {
     "T1": 7,
     "L0": 94
@@ -529,8 +541,8 @@
    "t1": "NOT_STARTED",
    "l2": "NOT_STARTED",
    "c1": "NOT_STARTED",
-   "next_action": "BUILD_L0_SOURCE_MODE",
-   "eligible_for_agent3": false,
+   "next_action": "BUILD_ARGMAP",
+   "eligible_for_agent3": true,
    "committed": {
     "T1": 4,
     "L0": 100
@@ -613,8 +625,8 @@
    "t1": "NOT_STARTED",
    "l2": "NOT_STARTED",
    "c1": "NOT_STARTED",
-   "next_action": "BUILD_L0_SOURCE_MODE",
-   "eligible_for_agent3": false,
+   "next_action": "BUILD_ARGMAP",
+   "eligible_for_agent3": true,
    "committed": {
     "T1": 7,
     "L0": 88
@@ -877,8 +889,8 @@
    "t1": "NOT_STARTED",
    "l2": "NOT_STARTED",
    "c1": "NOT_STARTED",
-   "next_action": "BUILD_L0_SOURCE_MODE",
-   "eligible_for_agent3": false,
+   "next_action": "BUILD_L0",
+   "eligible_for_agent3": true,
    "committed": {
     "T1": 3
    }
@@ -915,8 +927,8 @@
    "t1": "NOT_STARTED",
    "l2": "NOT_STARTED",
    "c1": "NOT_STARTED",
-   "next_action": "BUILD_L0_SOURCE_MODE",
-   "eligible_for_agent3": false,
+   "next_action": "BUILD_ARGMAP",
+   "eligible_for_agent3": true,
    "committed": {
     "T1": 2,
     "L0": 5
@@ -945,8 +957,8 @@
    "t1": "NOT_STARTED",
    "l2": "NOT_STARTED",
    "c1": "NOT_STARTED",
-   "next_action": "BUILD_L0_SOURCE_MODE",
-   "eligible_for_agent3": false,
+   "next_action": "BUILD_ARGMAP",
+   "eligible_for_agent3": true,
    "committed": {
     "T1": 7,
     "L0": 90
@@ -966,8 +978,8 @@
    "t1": "LEGACY_PRESENT",
    "l2": "NOT_STARTED",
    "c1": "NOT_STARTED",
-   "next_action": "BUILD_L0_SOURCE_MODE",
-   "eligible_for_agent3": false,
+   "next_action": "BUILD_L0",
+   "eligible_for_agent3": true,
    "committed": {
     "T1": 264,
     "L0": 1
