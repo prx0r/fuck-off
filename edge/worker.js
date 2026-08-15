@@ -7,10 +7,9 @@
  *   - ETag from content hash, If-None-Match -> 304 (reactive, cache-friendly)
  *   - one request = one response; agent bundles compiled at build, not request-time
  *
- * In prod: R2 bucket binding `SITE`, KV binding `KV`. This is the deployable Worker.
+ * In prod: R2 bucket binding `SITE`, KV binding `KV` (read from `env`). This is the deployable Worker.
  */
 
-const R2 = SITE; // eslint-disable-line no-undef — the R2 bucket binding
 const CACHE_TTL = { static: 31536000, api: 300 }; // immutable static, short API
 
 // the 8 MCP tools (SPEC-00 §16) — thin adapter over the compiled bundles

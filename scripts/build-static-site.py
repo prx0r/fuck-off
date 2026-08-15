@@ -91,6 +91,67 @@ def _registry_summary():
     return {layer: d.get("objects", 0) for layer, d in s.items()}, s
 
 
+def _compiled_layers() -> list:
+    return ["SOURCE", "T1", "ARGMAP", "L0", "L2", "L200", "C1",
+            "THEME", "ARGUMENT", "SYNTHESIS", "ESSAY", "EDUCATION"]
+
+
+def _per_work_committed_counts():
+    """Stream the small non-SOURCE layer registries into {work_id: {layer: count}} — RAM-safe.
+
+    Uses object_registry.committed_ids (the streaming helper, no full _load). Only the translation
+    layers matter here (T1..C1); SOURCE is huge and its per-work count is not the interesting metric.
+    Keeps one layer's committed-id set at a time, buckets by the work prefix, drops each set."""
+    sys.path.insert(0, "/root/projects/patala/pipeline")
+    import object_registry as R
+    counts: dict[str, dict] = {}
+    for layer in ["T1", "ARGMAP", "L0", "L2", "L200", "C1"]:
+        for oid in R.committed_ids(layer):
+            wid = oid.split(":", 1)[0]
+            d = counts.setdefault(wid, {})
+            d[layer] = d.get(layer, 0) + 1
+    return counts
+
+
+def compile_translation_status(manifest):
+    """Compile the LIVE per-work translation status (ledger + committed layer counts) into the
+    immutable, content-addressed OpenPatala surface: site/openpatala/translation.json.
+
+    This is the "what's translated / in-progress / not-started per work" surface (the OpenAlex-of-Sanskrit
+    value). Read-only on the ledger + registries; streams (RAM-safe). The projection is served by the
+    existing content-addressed + ETag/304 + immutable /openpatala/translation endpoints."""
+    import os
+    ledger_path = "/root/projects/patala/data/corpus/downloads/translation-state-ledger.json"
+    per_work_committed = _per_work_committed_counts()
+    works = []
+    if os.path.exists(ledger_path):
+        try:
+            ledger = json.load(open(ledger_path))
+        except Exception:  # noqa: BLE001
+            ledger = {}
+        for wid, rec in (ledger.get("works") or {}).items():
+            tr = rec.get("translation") or {}
+            na = rec.get("next_action") or {}
+            works.append({
+                "work_id": wid,
+                "t1": tr.get("t1", "UNKNOWN"),
+                "l2": tr.get("l2", "UNKNOWN"),
+                "c1": tr.get("c1", "UNKNOWN"),
+                "next_action": na.get("action", ""),
+                "eligible_for_agent3": bool(na.get("eligible_for_agent3")),
+                "committed": per_work_committed.get(wid, {}),
+            })
+    works.sort(key=lambda w: w["work_id"])
+    proj = {"generated": True, "count": len(works), "surface": "translation-status",
+            "works": works}
+    os.makedirs(f"{OUT}/openpatala", exist_ok=True)
+    with open(f"{OUT}/openpatala/translation.json", "w", encoding="utf-8") as f:
+        json.dump(proj, f, ensure_ascii=False, indent=1)
+    manifest["translation"] = {"count": len(works), "surface": "translation-status"}
+    print(f"  + translation status: {len(works)} works (committed counts streamed)")
+    return proj
+
+
 def compile_registry(manifest):
     """Compile the LIVE object_registry (SOURCE/T1/ARGMAP/L0/L2/L200/C1/...) into immutable,
     content-addressed per-layer projections. This is the OpenPatala live surface — the real
@@ -99,8 +160,7 @@ def compile_registry(manifest):
     counts, summary = _registry_summary()
 
     # the canonical DAG layer order (SOURCE -> ... -> EDUCATION)
-    LAYER_ORDER = ["SOURCE", "T1", "ARGMAP", "L0", "L2", "L200", "C1",
-                   "THEME", "ARGUMENT", "SYNTHESIS", "ESSAY", "EDUCATION"]
+    LAYER_ORDER = _compiled_layers()
 
     # 1. per-layer projections (immutable, content-addressed by layer counts + registry state)
     layers = {}
@@ -110,6 +170,14 @@ def compile_registry(manifest):
                          "sha256": sha(json.dumps({"layer": layer, "count": n}))}
         with open(f"{OUT}/openpatala/{layer.lower()}.json", "w") as f:
             json.dump({"layer": layer, "count": n, "objects": n}, f, indent=1)
+
+    # 1b. the per-work translation-status projection (also registered for content-address/ETag)
+    translation_proj = compile_translation_status(manifest)
+    layers["TRANSLATION"] = {
+        "count": translation_proj.get("count", 0),
+        "url": "/openpatala/translation.json",
+        "sha256": sha(json.dumps({"layer": "TRANSLATION", "count": translation_proj.get("count", 0)})),
+    }
     manifest["openpatala"] = {"layers": layers}
 
     # 2. the overall registry manifest (the OpenPatala read surface)
@@ -124,6 +192,7 @@ def compile_registry(manifest):
     n_works = 0
     src = summary.get("SOURCE", {}).get("objects", 0)
     works_index = []
+    seen = set()  # dedup: source-registry holds VERSIONED lines — one page per unique work
     reg_dir = "/root/projects/patala/data/corpus/registries"
     src_path = f"{reg_dir}/source-registry.jsonl"
     if os.path.exists(src_path):
@@ -146,9 +215,12 @@ def compile_registry(manifest):
                 author = (payload.get("author", "") if isinstance(payload, dict) else "")
                 if not oid or not title:
                     continue
+                slug = _slug(oid)
+                if slug in seen:
+                    continue  # later versioned line of an already-rendered work
+                seen.add(slug)
                 if n_works >= 2000:
                     break  # render the first 2000 (a real, bounded page set; the rest via the API)
-                slug = _slug(oid)
                 jld = {"@context": "https://schema.org", "@type": "ScholarlyArticle",
                        "name": title, "identifier": oid,
                        "author": {"@type": "Person", "name": author} if author else None,
