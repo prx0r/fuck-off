@@ -1,20 +1,20 @@
 {
  "schema": "patala.translation-benchmark.v1",
- "generated": "2026-08-15T21:12:45",
+ "generated": "2026-08-15T21:41:23",
  "totals": {
-  "n": 4,
-  "total_s": 1604.3,
-  "model_calls": 10,
+  "n": 5,
+  "total_s": 1924.3,
+  "model_calls": 12,
   "c1_chars": 2283
  },
  "models": [
   {
    "model": "deepseek-v4-flash",
-   "n": 4,
-   "avg_s": 401.1,
-   "avg_calls": 2.5,
-   "avg_raw": 84.0,
-   "avg_c1": 570.8,
+   "n": 5,
+   "avg_s": 384.9,
+   "avg_calls": 2.4,
+   "avg_raw": 67.2,
+   "avg_c1": 456.6,
    "avg_quality": 0.9
   }
  ],
@@ -32,6 +32,64 @@
    "s": 324.6,
    "c1": 749,
    "avg_s": 324.6
+  },
+  {
+   "work": "svacchandatantra",
+   "n": 1,
+   "s": 320.0,
+   "c1": 0,
+   "avg_s": 320.0
+  }
+ ],
+ "layers": [
+  {
+   "layer": "C1",
+   "n": 4,
+   "avg_s": 182.1,
+   "calls": 3,
+   "committed": 4
+  },
+  {
+   "layer": "ARGMAP",
+   "n": 4,
+   "avg_s": 97.2,
+   "calls": 1,
+   "committed": 4
+  },
+  {
+   "layer": "L2",
+   "n": 4,
+   "avg_s": 40.2,
+   "calls": 1,
+   "committed": 4
+  },
+  {
+   "layer": "T1",
+   "n": 5,
+   "avg_s": 37.7,
+   "calls": 2,
+   "committed": 5
+  },
+  {
+   "layer": "L200",
+   "n": 4,
+   "avg_s": 27.5,
+   "calls": 3,
+   "committed": 4
+  },
+  {
+   "layer": "L0",
+   "n": 4,
+   "avg_s": 0.1,
+   "calls": 0,
+   "committed": 4
+  },
+  {
+   "layer": "L1",
+   "n": 4,
+   "avg_s": 0.0,
+   "calls": 0,
+   "committed": 4
   }
  ]
 }

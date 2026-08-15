@@ -50,6 +50,16 @@ def build_projection() -> dict:
     works = [{"work": w, **agg_w[w], "avg_s": round(agg_w[w]["s"] / max(1, agg_w[w]["n"]), 1)}
              for w in agg_w]
     works.sort(key=lambda x: -x["n"])
+    # per-layer aggregation (avg time + calls + committed from every verse's layer detail)
+    agg_l = {}
+    for r in recs:
+        for lay in r.get("layers", []):
+            L = agg_l.setdefault(lay["layer"], {"n": 0, "s": 0.0, "mc": 0, "c": 0})
+            L["n"] += 1; L["s"] += lay.get("time_s", 0); L["mc"] += lay.get("api_calls", 0)
+            L["c"] += lay.get("committed", 0)
+    layers = [{"layer": k, "n": v["n"], "avg_s": round(v["s"] / max(1, v["n"]), 1),
+               "calls": v["mc"], "committed": v["c"]} for k, v in agg_l.items()]
+    layers.sort(key=lambda x: -x["avg_s"])
     return {
         "schema": "patala.translation-benchmark.v1",
         "generated": __import__("time").strftime("%Y-%m-%dT%H:%M:%S"),
@@ -59,6 +69,7 @@ def build_projection() -> dict:
                    "c1_chars": sum(r.get("c1_len", 0) for r in recs)},
         "models": models,
         "works": works,
+        "layers": layers,
     }
 
 
