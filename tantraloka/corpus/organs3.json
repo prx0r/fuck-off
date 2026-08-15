@@ -1,0 +1,12 @@
+{
+ "lightrag_local": 8,
+ "cognee_recall": 2,
+ "stable_hash_changed": true,
+ "evolution_archive": 4,
+ "kernels_wired": [
+  "lightrag_compare",
+  "cognee_compare",
+  "graph_stable",
+  "open_ended_evolve"
+ ]
+}

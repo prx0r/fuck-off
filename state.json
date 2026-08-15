@@ -2,11 +2,11 @@
   "schema_version": 1,
   "updated": "2026-08-14",
   "counts": {
-    "kernels": 47,
+    "kernels": 52,
     "experiments": 97,
     "tests_passing": 81,
-    "theatre_proven_real": 36,
-    "theatre_proven_mechanism": 44,
+    "theatre_proven_real": 38,
+    "theatre_proven_mechanism": 46,
     "theatre_unproven": 0,
     "github_repo_catalog": 99,
     "repos_cloned": 48,
@@ -50,7 +50,7 @@
     "L05_review_gate": "VALIDATED",
     "L06_retrieval_compiler": "BUILT",
     "L07_surfaces": "BUILT",
-    "L08_domain_expansions": "VALIDATED",
+    "L08_domain_expansions": "EMPTY",
     "L09_live_system": "VALIDATED"
   },
   "read_plane_built": {

@@ -1,0 +1,10 @@
+{
+ "n_t1": 264,
+ "self_heal_step_recovered": false,
+ "alignment_candidates": 48,
+ "promoted": 1,
+ "kernels_wired": [
+  "self_healing",
+  "alignment_flywheel"
+ ]
+}

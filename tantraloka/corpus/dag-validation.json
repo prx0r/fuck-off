@@ -1,0 +1,12 @@
+{
+ "n_t1_sampled": 100,
+ "integrity_ok": 100,
+ "claims_verified": 100,
+ "evidence_events": 100,
+ "kernels_wired": [
+  "verification_ensemble",
+  "evidence_ledger",
+  "integrity_gate",
+  "source_registry"
+ ]
+}

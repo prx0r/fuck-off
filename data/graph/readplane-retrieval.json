@@ -1,0 +1,31 @@
+{
+ "resolved": "ip:concept:free_will",
+ "n_neighbors": 143,
+ "pathrag_flow_keys": [
+  "ip:concept:free_will",
+  "ip:concept:determinism",
+  "ip:concept:indeterminism",
+  "ip:concept:causality",
+  "ip:concept:entropy"
+ ],
+ "hipporag_top": [
+  "('ip:concept:computation', 0.0239)",
+  "('ip:concept:life', 0.0239)",
+  "('ip:concept:evolution', 0.0239)",
+  "('ip:concept:value', 0.0239)",
+  "('ip:concept:randomness', 0.0239)"
+ ],
+ "structure_recall_topology": [
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "kernels_wired": [
+  "query",
+  "retrieval",
+  "structure_recall"
+ ],
+ "read_plane": "now exposes executable KG2Code queries + PathRAG/HippoRAG retrieval + SAGE structure-aware recall"
+}

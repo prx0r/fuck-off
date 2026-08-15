@@ -1,0 +1,35 @@
+{
+ "ts": "20260814-234523",
+ "stages": [
+  {
+   "stage": "STAGE A \u2014 factory DAG output",
+   "status": "PASS",
+   "time_s": 4.4,
+   "detail": "REAL DAG output: 4624 SOURCE / 264 T1 / 1 L0 committed"
+  },
+  {
+   "stage": "STAGE B \u2014 validator stack",
+   "status": "PASS",
+   "time_s": 0.01,
+   "detail": "validator stack on 100 T1: integrity=100, verified=100, evidence=100"
+  },
+  {
+   "stage": "STAGE C \u2014 flywheel",
+   "status": "PASS",
+   "time_s": 0.01,
+   "detail": "flywheel: 1 flagged, 2 staled, dissolved=DISSOLVED"
+  },
+  {
+   "stage": "STAGE D \u2014 read plane",
+   "status": "PASS",
+   "time_s": 0.17,
+   "detail": "read plane: 143 neighbors, flow=36, SAGE=8, pub_eligible=True"
+  },
+  {
+   "stage": "STAGE E \u2014 scheduler bridge",
+   "status": "PASS",
+   "time_s": 0.19,
+   "detail": "scheduler bridge: tantraloka -> BUILD_L0_SOURCE_MODE (patala's FSM)"
+  }
+ ]
+}

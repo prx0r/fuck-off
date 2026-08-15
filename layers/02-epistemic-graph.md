@@ -10,7 +10,7 @@ Represent the intellectual structure of the corpus as a queryable graph — with
 status, not just term co-occurrence.
 
 ## 3. Data
-- `data/graph/graph.json` — 490 nodes / 6484 edges (instagraph schema)
+- `data/graph/graph.json` — 490 nodes / 6578 edges (instagraph schema)
 - `data/graph/doc_graph.gexf` — Gephi export
 - `data/graph/concepts.jsonl` · `works.jsonl`
 

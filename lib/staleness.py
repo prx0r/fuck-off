@@ -66,3 +66,39 @@ def incremental_rebuild_order(dag: dict, changed: set) -> list:
         n = ready[0]
         seen.add(n); order.append(n)
     return order
+
+
+# ---- graphiti-style temporal validity intervals (complements the event-based blast-radius) ----
+# Borrowed from graphiti (`edges.py:263-281`): facts/edges carry valid_at/invalid_at, so the engine
+# answers "what was true at time t" and auto-expires superseded facts — interval-based fact truth.
+@dataclass
+class TemporalFact:
+    """A fact/edge with a validity interval [valid_at, invalid_at). invalid_at=None = currently valid."""
+    fact_id: str
+    valid_at: float
+    invalid_at: Optional[float] = None
+    payload: dict = field(default_factory=dict)
+
+    def is_active_at(self, t):
+        return self.valid_at <= t and (self.invalid_at is None or t < self.invalid_at)
+
+
+def active_facts_at(facts, t):
+    """Facts true at time t (interval-based truth)."""
+    return [f for f in facts if f.is_active_at(t)]
+
+
+def supersede_fact(facts, fact_id, invalid_at):
+    """Expire a fact: set invalid_at (auto-expire superseded facts, like graphiti)."""
+    for f in facts:
+        if f.fact_id == fact_id:
+            f.invalid_at = invalid_at
+    return facts
+
+
+def fact_as_of(facts, fact_id, t):
+    """The version of a fact's payload that was valid at time t (or None)."""
+    for f in facts:
+        if f.fact_id == fact_id and f.is_active_at(t):
+            return f.payload
+    return None

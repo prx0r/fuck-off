@@ -9,7 +9,7 @@ is · where it lives · which script built it · how to run it · key doc.** Rea
 
 ## 0. THE ONE-LINE
 
-> Scraped info-philosophy site → cleaned corpus → **490-node, 6484-edge knowledge graph** of the
+> Scraped info-philosophy site → cleaned corpus → **490-node, 6578-edge knowledge graph** of the
 > free-will / determinism / quantum / information / entropy / mind / chance network.
 
 ---
@@ -95,7 +95,7 @@ graph after adding text, run `build-graph.py`.
 | Markdown (426 active) | `data/extracted_md/` | to-markdown-jsonl, purge-errors |
 | Quarantined errors (24 md / 788 raw) | `data/extracted_md/_errors/` + `data/raw/errors/` | purge-errors, clean-corpus |
 | Machine corpus (425) | `data/corpus.jsonl` | to-markdown-jsonl, purge-errors |
-| Graph (490 nodes / 6484 edges) | `data/graph/graph.json` | build-graph |
+| Graph (490 nodes / 6578 edges) | `data/graph/graph.json` | build-graph |
 | Gephi export | `data/graph/doc_graph.gexf` | build-graph |
 | Concept / work records | `data/graph/concepts.jsonl` · `works.jsonl` | build-graph |
 
@@ -137,6 +137,11 @@ graph after adding text, run `build-graph.py`.
 | `devplans/READ-PLANE-ORGANISM.md` | my read plane + organism as the serving/autonomy layer |
 | `devplans/TANTRALOKA-PRODUCTION.md` | the full-corpus production plan (333-Āhnika-1 → 5,860 kārikās) |
 | `BUILDNOTES.md` | full build history + decisions |
+| `CONTEXT-REVIEW.md` | the honest full state review (verified counts 52/97/84/6578 + the missing-work list) |
+| `CONTEXT-REVIEW-2.md` | the deep-dive synthesis across ip-graph + patala (both repos, real-vs-theater + the PG-blocker finding) |
+| `DRIFT-AUDIT.md` | the record-vs-reality drift audit (stale counts/layers) |
+| `CANONICAL-HERMES-BUILD.md` | how Hermes, kanban, skills, layers, and experiments fit together |
+| `handover/hermes/README.md` | **the Hermes execution-kernel area (imported from patala)** — the calling convention (`hermes chat`, not `-z`), the thesis, and the note that Hermes has full read/edit access to the filebase |
 | `NAVIGATION.md` | this file |
 | `TODO.md` | live task tracker |
 | `docs/01-corpus.md` | the source data + ground truth |
@@ -154,8 +159,13 @@ graph after adding text, run `build-graph.py`.
 | `docs/EXPERIMENT-MATRIX.md` | the full experiment tracking matrix (29, by vision/layer/source) |
 | `docs/ALGORITHMS.md` | granular arXiv-algorithm implementations (PathRAG/HippoRAG/KG2Code) |
 | `docs/process/FRONTIER-MAP.md` | per-layer implementations, todos, validations |
+| `docs/hermes-official/README.md` | **the OFFICIAL Hermes docs** (imported from hermes-agent.nousresearch.com): Kanban (`KANBAN.md`) + Persistent Goals (`GOALS.md`) + Delegation (`DELEGATION.md`) + **VISION-GAP-ANALYSIS.md** (what Hermes gold we're missing vs our product visions) |
 | `skills/vcreate/SKILL.md` | vcreate: backward-delivery planning (the reverse-chaining skill) |
 | `skills/theatre-check/SKILL.md` | theatre-check: the verifiable-proof anti-theatre skill |
+| `skills/hermes-generate-reduce/SKILL.md` | **the core execution pattern: HERMES for GENERATION, .py for REDUCTION** (anti-theatre; Hermes reads files itself) |
+| `skills/hermes-derive-enquiry/SKILL.md` | derive enquiry structure (taxonomy→theorem→boundary→frontier) from the LOGICVID gold via Hermes |
+| `skills/hermes-derive-essay/SKILL.md` | derive essay anatomy from a real book (Ratié) via Hermes |
+| `skills/hermes-derive-translation/SKILL.md` | derive translations via Hermes + validate with TranslationProof |
 | `docs/vision/beyond-patala/THESIS-REVERSE-DELIVERY.md` | the reverse-delivery thesis |
 
 ## Vision docs

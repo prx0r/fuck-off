@@ -23,11 +23,13 @@ any object → wrap in envelope → assign epistemic_ceiling + authority → enf
 
 ## 5. Implementations
 - Spec: `specs/SPEC-02-epistemic-envelope.md`
-- (to build) `lib/epistemic.py`
+- `lib/epistemic.py` — envelope + 4-axis authority + ceiling invariant (VALIDATED; 0 violations)
 
 ## 6. Docs
 - `specs/SPEC-02-epistemic-envelope.md`
 - `docs/vision/VISION.md` (the engine/domain separation)
 
 ## 7. Current state
-`NOT_STARTED` (see `STATE.yaml`). No envelope on graph objects yet.
+`VALIDATED` (see `STATE.yaml`). `lib/epistemic.py` implements the envelope + 4-axis authority +
+ceiling invariant (0 violations, eigenius order-preserving). NOT integrated into a production DB —
+PROTOTYPED, not PRODUCTION.

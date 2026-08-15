@@ -1,9 +1,10 @@
 # BUILT-BY-LAYER — exactly what is fully built, per layer (the honest inventory)
 
-*2026-08-14. The precise answer to "what exactly do we have per layer, fully built?" Organized by patala
-layer. For each: the kernels that are FULLY BUILT (kernel + a real-data validator) vs MECHANISM-ONLY
-(synthetic — proves the mechanism, not production integration) vs the GAP (not built). Verdicts from the
-authoritative theatre audit (35 PROVEN real / 39 mechanism / 0 unproven).*
+*2026-08-15 (resynced). The precise answer to "what exactly do we have per layer, fully built?" Organized
+by patala layer. For each: the kernels that are FULLY BUILT (kernel + a real-data validator) vs
+MECHANISM-ONLY (synthetic) vs the GAP (not built). Verdicts from the authoritative theatre audit
+(**38 PROVEN real / 46 mechanism / 0 unproven = 84 audited**). **52 kernels total.** See `DRIFT-AUDIT.md`
+for the reconciliation history.*
 
 **Legend:** ✅ = FULLY BUILT (real-data validator passes) · ⚠️ = MECHANISM-ONLY (synthetic) · ❌ = NOT BUILT
 
@@ -21,12 +22,11 @@ authoritative theatre audit (35 PROVEN real / 39 mechanism / 0 unproven).*
 | **L06 Retrieval/Compiler** | `query`, `retrieval`, `context_compiler`, `alignment_flywheel`, `evidence_ledger` | — | context paging (gap A) |
 | **L07 Surfaces/SEO/Audit** | `seo`, `bundle_router`, `verification_ensemble`, `structure_recall` | — | live Astro/Workers/MCP deployment |
 | **L08 Scholar/Self-proving** | `system_provenance` | — | — |
-| **L09 Organism/Education** | `self_healing`, `next_action` | `education`, `pedagogy`, `organism`, `organism_loop`, `agent_delivery` | `misconception.py` repair cascade; BKT/FSRS policy |
-| **L10 Read/Compare** | `lightrag_compare`, `cognee_compare` | — | — |
+| **L09 Organism/Education** | `self_healing`, `next_action`, `misconception` | `education`, `pedagogy` (+BKT now), `organism`, `organism_loop`, `agent_delivery` | BKT/FSRS policy (mechanism now — see `validate-bkt.py`); real learner data |
+| **L10 Read/Compare** | `lightrag_compare`, `cognee_compare`, `tog2` (retrieval.py) | — | — |
 | **cross-layer** | `patala_product` | — | — |
 
-**TOTALS: 30 FULLY BUILT (real-data) + 6 MECHANISM-ONLY + 1 cross-layer = 37 kernels.**
-**75/75 tests pass. Theatre: 35 PROVEN real / 39 mechanism / 0 unproven.**
+**TOTALS: 52 kernels in `lib/` (all wired per Phase 6). 97 experiments. Theatre: 38 PROVEN real / 46 mechanism / 0 unproven (84 audited).**
 
 ---
 
@@ -79,7 +79,7 @@ consumer data is still prospective).
 - **L09 is the partial one** — the teaching/growth/delivery machinery is MECHANISM-ONLY (the organism's
   senses are built as abstractions; the real consumer data + repair cascade + BKT/FSRS policy are the
   gap).
-- **The 30 fully-built kernels + 75/75 tests + 35 real-data proofs** mean the organism can: ingest,
+- **The 52 kernels (all wired per Phase 6) + 97 experiments + 84 theatre proofs (38 PROVEN real)** mean the organism can: ingest,
   verify, translate (proof-carrying), argue, review, gate, compile bundles, serve (SEO/MCP), and prove
   its own construction — **all real, all tested.**
 

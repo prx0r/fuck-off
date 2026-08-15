@@ -77,6 +77,8 @@ patala's scheduler).
 | `enquiry.py` | the Enquiry-Discovery Organism (SPEC-46): DiscoveryProgression (taxonomy -> theorem -> boundary -> frontier) — a structured enquiry reveals topic structure feeding ontology/claims/research-gaps/question-roots | L04 | Enquiry-Discovery | validate-enquiry | VALIDATED (13/13) |
 | `design_provenance.py` | the Self-Proving full form (DEV_PLAN §1.4, extends system_provenance): every design decision -> a signed nanopub (rationale + rejected alternatives + validator), tamper-evident + why()-resolvable + Merkle-rooted | ALL | Self-Proving | validate-design-provenance | VALIDATED (8/8) |
 | `graph_stable.py` | the stable-graph projection (DEV_PLAN §1.5, SPEC-13 F2/F3): deterministic byte-reproducible serialization (stabilize + stable-LCC) + content-addressed staleness check + component isolation | ALL | Co-Evolving Organism | validate-graph-stable | VALIDATED (8/8) |
+| `commentary_lift.py` | the B3 gloss → B4 commentary-frame lift: reaches the load-bearing philosophical terms (self/object/luminous) the literal gloss misses (the 0.118 gold fix) | L03 | Translation moat | validate-commentary-lift | VALIDATED (5/5) — WIRED (Phase 6) |
+| `organism_factory_bridge.py` | the organism→factory loop: ip-graph's `next_action` ranks WHAT + patala's `corpus_state.next_valid_action` returns the legal action (ONE orchestrator) | L09 | Co-Evolving Organism | validate-organism-factory-bridge | VALIDATED (6/6) — WIRED (Phase 6) |
 
 ## Rules for agents
 1. **Reuse, don't rebuild** (axiom): a task that maps to a kernel → call the kernel.

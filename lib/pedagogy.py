@@ -87,6 +87,56 @@ def mastery_reducer(state: LearnerState, ev: MasteryEvidence):
     return state
 
 
+# ---- Bayesian Knowledge Tracing (from pyBKT Model.py:46) — the uncertainty-bounded learner state ----
+# BKT models mastery as a latent probability, with observation noise (guess/slip) and learning/forgetting
+# transitions — unlike the deterministic mastery_reducer, a wrong answer may be a GUESS not a misconception.
+# Params mirror pyBKT INITIALIZABLE_PARAMS = [prior, learns, guesses, slips, forgets].
+BKT_DEFAULTS = {"prior": 0.2, "learns": 0.3, "guesses": 0.2, "slips": 0.1, "forgets": 0.0}
+
+
+@dataclass
+class BKTState:
+    """The probabilistic learner state: latent P(mastery) per skill, updated by Bayes."""
+    learner: str
+    mastery: dict = field(default_factory=dict)   # skill -> P(mastery) in [0,1]
+    params: dict = field(default_factory=lambda: dict(BKT_DEFAULTS))
+    history: list = field(default_factory=list)
+
+    def p_mastered(self, skill):
+        return self.mastery.get(skill, self.params["prior"])
+
+
+def bkt_update(st: BKTState, ev: MasteryEvidence):
+    """One Bayes update of latent mastery from a correct/wrong observation (pyBKT model).
+
+    P(M_t | obs) via Bayes with guess/slip observation model + learn/forget transition:
+      P(M_t) = P(M_{t-1})·(1-forget) + (1-P(M_{t-1}))·learn         (transition)
+      P(obs=1|M)=1-slip ; P(obs=1|¬M)=guess                         (observation)
+    A wrong answer lowers P(mastery) but not to 0 — it may be a slip, not ignorance.
+    """
+    p = st.p_mastered(ev.skill)
+    l, g, s, f = (st.params.get(k, BKT_DEFAULTS[k]) for k in ("learns", "guesses", "slips", "forgets"))
+    # transition to current time
+    pt = p * (1 - f) + (1 - p) * l
+    if ev.correct:
+        # P(M|correct) = P(correct|M)P(M) / [P(correct|M)P(M) + P(correct|¬M)P(¬M)]
+        post = ((1 - s) * pt) / ((1 - s) * pt + g * (1 - pt))
+    else:
+        # P(M|wrong) = P(wrong|M)P(M) / [P(wrong|M)P(M) + P(wrong|¬M)P(¬M)]
+        post = (s * pt) / (s * pt + (1 - g) * (1 - pt))
+    st.mastery[ev.skill] = round(post, 4)
+    st.history.append((ev.skill, round(pt, 4), round(post, 4), ev.correct))
+    return st
+
+
+def bkt_weakest_skill(st: BKTState, threshold=0.7):
+    """The skill with the lowest latent P(mastery) under the threshold — what to teach next."""
+    weakest = min(st.mastery, key=st.mastery.get) if st.mastery else None
+    if weakest is not None and st.mastery[weakest] < threshold:
+        return weakest
+    return None
+
+
 def next_interaction(learner: LearnerState, fixtures: list, content_focus=None) -> dict:
     """The adaptive engine: choose the NEXT interaction from what the learner CANNOT do.
     Skill and content are separate axes. Target the weakest skill; prefer unseen content."""

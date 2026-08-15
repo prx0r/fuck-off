@@ -1,0 +1,15 @@
+{
+ "plan": {
+  "work": "tantraloka",
+  "priority": 6.5,
+  "legal_next": "BUILD_L0_SOURCE_MODE",
+  "eligible": false,
+  "reason": "RAW_SANSKRIT_L0_MODE_REQUIRED"
+ },
+ "kernels_wired": [
+  "organism_factory_bridge",
+  "next_action",
+  "corpus_state"
+ ],
+ "principle": "ONE orchestrator: ip-graph's organism asks patala's scheduler for the legal action"
+}

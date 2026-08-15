@@ -9,7 +9,7 @@ per-entity JSON/Markdown/bundles pushed to R2, served from the edge.
 "One agent question = one request." Materialized context bundles, incremental hashes, inverted indexes.
 
 ## 3. Data
-- (to build) compiled bundles per entity/concept
+- compiled bundles per entity/concept (immutable, content-addressed — `lib/context_compiler.py`)
 - Parquet bulk exports
 
 ## 4. Processes

@@ -1,8 +1,10 @@
-"""lib/retrieval.py — graph retrieval algorithms (Layer 10): PathRAG + HippoRAG + bounded-context.
+"""lib/retrieval.py — graph retrieval algorithms (Layer 10): PathRAG + HippoRAG + ToG-2 + bounded-context.
 
 Borrowed from the arXiv papers (SPEC-08) and proven in experiments:
   - PathRAG: flow-based path retrieval with distance decay + path reliability
   - HippoRAG: Personalized PageRank multi-hop retrieval
+  - ToG-2: alternating graph <-> document retrieval (arXiv 2407.10805) — the verified spine grounds
+    each graph step in the underlying evidence documents, reducing hallucination.
 """
 from __future__ import annotations
 import networkx as nx
@@ -49,3 +51,42 @@ class GraphRetriever:
         ppr = nx.pagerank(self.G, personalization=pers, weight=weight)
         ranked = sorted(ppr.items(), key=lambda x: -x[1])
         return [(nid, round(sc, 4)) for nid, sc in ranked if nid not in seeds][:top_k]
+
+    # ---- ToG-2: alternating graph <-> document retrieval ----
+    def tog2(self, start, target=None, max_hops=3, max_iter=6, ground=None):
+        """Alternate GRAPH expansion with DOCUMENT grounding (arXiv 2407.10805).
+
+        At each step: (1) expand the frontier one hop on the graph, (2) GROUND each new node in its
+        evidence documents (a `ground(nid)` callable returning an evidence dict — e.g. epistemic
+        ceiling / review_state / source refs), (3) decide. This ties the verified concept spine back to
+        its grounding docs, unlike single-lookup retrieval.
+
+        Returns (trace, reached_target) where trace = [(node_id, evidence_dict), ...].
+        """
+        if start not in self.G:
+            return [], False
+        visited, frontier = {start}, [start]
+        trace = []
+        for it in range(max_iter):
+            if len(trace) >= max_hops * 4:
+                break
+            # GRAPH layer: expand the frontier one hop
+            candidates = []
+            for n in frontier:
+                for nb in self.G.neighbors(n):
+                    if nb not in visited:
+                        visited.add(nb)
+                        candidates.append(nb)
+            if not candidates:
+                break
+            # DOC layer: ground each new node
+            grounded = []
+            for c in candidates:
+                ev = ground(c) if ground else {}
+                grounded.append((c, ev))
+                if target is not None and c == target:
+                    trace.append((c, ev))
+                    return trace, True
+            trace.extend(grounded)
+            frontier = [c for c, _ in grounded]
+        return trace, (target is not None and target in visited)

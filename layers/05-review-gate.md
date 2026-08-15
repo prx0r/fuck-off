@@ -24,4 +24,5 @@ ReviewProposal → Adjudication → new version → PromotionEvent  (never mutat
 - `specs/SPEC-02-epistemic-envelope.md`
 
 ## 7. Current state
-`NOT_STARTED`.
+`VALIDATED` (see `STATE.yaml`). `lib/scholar_review.py` (cross-review + citecheck) + mutation-testing
+VALIDATED. Agent-delivery human gate PROTOTYPED (real signed attestation is the open gap).

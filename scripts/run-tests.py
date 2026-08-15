@@ -143,6 +143,12 @@ run_script("theatre-check-all.py", "theatre_check_all")
 run_script("experiment-essay-as-engine.py", "essay_as_engine")
 run_script("validate-essay-ingest.py", "essay_ingest_pipeline")
 
+# ---- 2026-08-15 additions: the new graph-work validators (live with testing) ----
+run_script("validate-tog2.py", "tog2_alternating_graph_doc_retrieval")
+run_script("validate-bkt.py", "bkt_probabilistic_mastery")
+run_script("validate-tempvalidity.py", "graphiti_temporal_validity_intervals")
+run_script("validate-logicvid-gold-enquiry.py", "logicvid_gold_enquiry_gate")
+
 # ---- summary ----
 n = len(results["tests"]); npass = sum(1 for t in results["tests"] if t["pass"])
 results["summary"] = {"total": n, "passed": npass, "failed": n - npass}

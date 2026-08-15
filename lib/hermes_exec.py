@@ -22,6 +22,8 @@ HERMES_BIN = os.environ.get("HERMES_BIN", "hermes")
 DEFAULT_MODEL = os.environ.get("PATALA_MODEL", "deepseek-v4-flash")
 DEFAULT_PROVIDER = os.environ.get("PATALA_PROVIDER", "opencode-go")
 WORKDIR = os.environ.get("PATALA_WORKDIR", "/root/projects/patala")
+# the patala Hermes profile is the active, skills-loaded profile (hermes -p patala)
+PROFILE = os.environ.get("HERMES_PROFILE", "patala")
 
 
 class HermesError(Exception):
@@ -39,7 +41,7 @@ def _killpg(proc):
 
 
 def agentic(system, user, skills="", max_turns=8, timeout=240, session=None, model=DEFAULT_MODEL,
-            provider=DEFAULT_PROVIDER, cwd=None, max_retries=2):
+            provider=DEFAULT_PROVIDER, cwd=None, max_retries=2, profile=PROFILE):
     """The CORRECT agentic call: `hermes chat -Q -q` with file access + skills (not blind -z).
 
     Mirrors agentpatala's pipeline/model.py chat_agentic(). Hermes as an agent can read the repo +
@@ -47,6 +49,8 @@ def agentic(system, user, skills="", max_turns=8, timeout=240, session=None, mod
     """
     cmd = [HERMES_BIN, "chat", "-Q", "-q", f"{system}\n\n{user}", "--yolo",
            "--max-turns", str(max_turns), "-m", model, "--provider", provider]
+    if profile:
+        cmd += ["-p", profile]
     if skills:
         cmd += ["--skills", skills]
     if session:

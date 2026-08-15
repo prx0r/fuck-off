@@ -26,4 +26,5 @@ core envelope → add domain subclasses → run engine unchanged
 - `docs/vision/VISION.md`
 
 ## 7. Current state
-`NOT_STARTED`.
+`EMPTY` (see `STATE.yaml`). `lib/domains/` does not exist yet — the domain-expansion plane is unbuilt.
+Do not over-claim VALIDATED here.

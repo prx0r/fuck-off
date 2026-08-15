@@ -1,0 +1,526 @@
+{
+  "source": "specs/SPEC-4x/36/3x-SESSION-Q1 (LOGICVID gold)",
+  "derived_by": "hermes (model reads gold) -> .py reduces",
+  "provenance": "each enquiry records method: hermes | regex-fallback",
+  "enquiries": [
+    {
+      "enquiry_id": "spec-40-logicvid-logicdog",
+      "topic": "Does vimarśa explain self-organization, or merely redescribe it as consciousness? — the live issue between Abhinavagupta's vimarśa and Levin's empirically established multiscale bioelectric self-organization",
+      "taxonomy": {
+        "prakāśa (manifest actuality, luminous presence)": "not equivalent to vimarśa (manifest actuality's capacity to determine, relate and enact itself)",
+        "Levin's established results (top-down causation, multiscale self-organization)": "not equivalent to his speculative inversions (bioelectric pattern = agent, body = slower memory medium; 2026 Platonic Space) — explicitly not established",
+        "agency-patterns": "not equivalent to phenomenal consciousness — Levin's stronger proposal establishes increasingly abstract agency-patterns, not phenomenal consciousness",
+        "external description (a network of voltage states and molecular transitions)": "not equivalent to agential description (a system attempting to restore its target morphology) — the latter adds identity, error, target, memory, success, failure, ownership of a future state",
+        "mechanistic explanation (efficient causal account of how cells communicate)": "not equivalent to condition of possibility (what reality must be like for self-organization, unified agency and determinate manifestation to be possible at all)",
+        "being Śiva": "not equivalent to knowing oneself as Śiva — the dog objection forces the distinction",
+        "minimal vimarśa (capacity to form a point of view and regulate a world)": "not equivalent to reflective vimarśa (capacity to model itself as subject of that world) nor liberating vimarśa (capacity to dissolve identification of subjectivity with one bounded model)",
+        "ontological recognition (every sentient act already expresses nonconceptual self-apprehension)": "not equivalent to explicit liberating recognition (realizing 'I am the unrestricted consciousness manifesting all forms')",
+        "temporally before": "not equivalent to logically/ontologically prior — Śiva before contraction is not an earlier object in time",
+        "expansion (many determinations apprehended as self)": "not equivalent to contraction (only a restricted set apprehended as self) — the key variable is the boundary of self-identification, not amount of physical substance",
+        "organismic self-model": "not equivalent to the whole process making self-modelling possible",
+        "prakāśa + vimarśa + svātantrya": "not three separable parts of Śiva but three analytical descriptions of one structure",
+        "Śaiva contraction ≈ restriction of the cognitive and agential horizon": "structural correspondence, not identity"
+      },
+      "theorem": "Bioelectric and biochemical dynamics can produce multiscale goal-directed organization; higher-order patterns can causally constrain cellular behaviour and gene expression; selves and goals can exist at several biological scales (proven strongly). Strong structural correspondence (not identity): Śaiva contraction resembles restriction of a system's operative self-boundary and cognitive horizon, and vimarśa resembles the formation and enactment of determinate, self-related organization. The bind is exact: Levin explains how bounded agency is implemented but not why it is inwardly a self; Abhinavagupta declares bounded agency to be contracted selfhood but does not explain its specific implementation.",
+      "boundary": [
+        "NOT proven: self-organization is therefore consciousness",
+        "NOT proven: all manifestation is intrinsically universal agency",
+        "NOT proven: finite self-recognition entails identity with the ground of every perspective",
+        "vimarśa adds no predictive mechanism — the naturalist accusation (N1–N4) that it is a metaphysical relabelling of multiscale self-organization stands strong; Abhinavagupta gives no equations for morphogenesis, no mechanisms of cell communication, no evolutionary pathways, no gene-regulatory networks, no biological account of boundary formation",
+        "Levin's speculative inversion and 'Platonic Space' proposal are research programmes, not experimentally demonstrated ontologies; neither establishes phenomenal consciousness",
+        "whether a dog can attain full reflexive liberating recognition is textually unresolved — no reliable primary passage establishes that a dog can perform the complete liberating recognition as a dog",
+        "Abhinavagupta has not explained why organization occurs in these particular forms: 'It is Śiva's freedom' does not predict why lipid membranes form, why voltage gradients organize morphology, why nervous systems evolved, why a dog has its particular sensory world, why one contraction produces a cell and another a human, why there is suffering",
+        "svātantrya is not an alternative to biology",
+        "the claim that agency is intrinsic to organized reality is argued but still not a full proof"
+      ],
+      "frontier": "Can minimal agency exist without any inwardness whatsoever?",
+      "question_ids": [
+        "Q-0",
+        "Q-1",
+        "Q-2",
+        "Q-3",
+        "Q-4",
+        "Q-5",
+        "Q-6",
+        "Q-7",
+        "Q-8",
+        "Q-9",
+        "Q-10",
+        "Q-11",
+        "Q-12"
+      ],
+      "method": "hermes"
+    },
+    {
+      "enquiry_id": "spec-41-logicvid-logicframework",
+      "topic": "Building a shared process language (not term-mapping) in which Trika/Pratyabhijñā and consciousness science make claims at different explanatory levels: a six-level framework M→D→B→N→W→R whose entire dispute reduces to whether manifestation (M) is generated by the later levels, identical with their organization, or ontologically prior to them — i.e., whether finite consciousness is produced by complex organization or is the restriction of intrinsically manifest, self-articulating reality through a finite constraint-set L_i.",
+      "taxonomy": {
+        "differentiation ≠ separation": "D = state differentiation (formation of distinguishable states, x ≠_c y); the pure tattvas articulate subject-object poles without severing them — the sequence Śiva→Śakti→Sadāśiva→Īśvara→Śuddhavidyā is not yet separation",
+        "vimarśa ≠ information processing": "vimarśa = the Trika claim that differentiation is intrinsically self-apprehending; D = state differentiation; do not translate vimarśa as 'information processing'",
+        "saṃkoca ≠ Markov blanket": "saṃkoca = restriction of operative access, capacity and identification; a Markov blanket is only one possible mathematical model of operational restriction (I ⊥ E | B is a statistical boundary, not a mind boundary)",
+        "Māyā ≠ illusion": "Māyā = conversion of internal differentiation into exclusive standpoint dependence, Access_i(x) ≠ Access_j(x) — stronger and cleaner than calling it 'illusion'",
+        "rāga ≠ operational normativity": "V_i = operational normativity (preferences regulating action, as in active inference); rāga = the Trika interpretation of finite normativity as contracted plenitude ('finite desire arises because plenitude appears as lack')",
+        "consciousness ≠ integration": "standardized rule: write 'IIT hypothesis: M ≡ intrinsic integrated cause-effect structure', never 'consciousness = integration' — preserving the difference between data and interpretation",
+        "agential scope ≠ phenomenal integration ≠ manifestation": "Λ_i (cognitive light cone) is not Φ_i (hypothesized phenomenal integration) is not M_i (actual phenomenal manifestation); they are not interchangeable",
+        "self ≠ substance": "self (S_i) = a causally efficacious, dynamically persistent macro-pattern (via causal emergence); a multicellular organism can be one real causal agent without one indivisible material substance",
+        "E ≠ W_i ≠ X_i": "E = causal environment; W_i = world-for-agent i (enacted, Umwelten differ across bat/dog/human); X_i = phenomenally experienced world; E→W_i is scientifically tractable, W_i→X_i remains contested — prevents 'world' sliding between physics, cognition and phenomenology",
+        "ahaṃkāra ≠ aham": "ahaṃkāra = appropriative finite self-model (SM_i: body, ownership, authorship, memory continuity, social identity); aham = non-objective first-personality; never merge; I_1/I_2/I_3 (science) vs I_∞ unrestricted aham (Trika)",
+        "M_i ≠ M_∞": "even if every organism has M_i, it does not follow M_1 = M_2 = ⋯ = M_∞ — common structure is not numerical identity",
+        "R_w/R_r/R_p ≠ R_s": "weak recognition (ego is a model, naturalism-compatible), relational recognition (enactivism-compatible) and phenomenological recognition are defensible; full Śaiva recognition R_s (M_i = M_∞ = Śiva) is not established by science"
+      },
+      "theorem": "Structured limitation is constitutive of determinate agency (the agent theorem): a determinate agent A_i = ⟨K_i, A_i, V_i, T_i, C_i⟩ requires finite restrictions on all five coordinates — unrestricted information gives no perspective, unrestricted action gives no policy selection, equal value gives no goal-directed correction, unrestricted time gives no memory/learning/risk, unrestricted causation gives no embodied trajectory; hence no restriction ⇒ no particular access ⇒ no particular perspective, so a body is a constraint architecture that converts open possibility into one temporally extended world of limited knowledge, action and value, and liberation cannot mean deleting all contraction (L_i = 0 ⇒ no finite cognition, memory or recognition event).",
+      "boundary": [
+        "no scientific theory has established a generally accepted derivation of nonphenomenal organization ⇒ M (manifestation); IIT 4.0 formally identifies experience with intrinsic cause-effect structure but is built by translating phenomenological axioms into physical postulates, not a theorem accepted independently of IIT's assumptions",
+        "the large IIT vs GNWT adversarial collaboration challenged predictions of both theories but did not settle why those processes are phenomenally manifest",
+        "a Markov blanket alone does not determine the boundary of a mind — statistical conditional independence is too permissive and depends on the chosen variables and model",
+        "science explains how preferences regulate action but does not establish the metaphysical narrative that unlimited fulfilment has contracted into lack (the Trika interpretation of rāga)",
+        "a larger cognitive light cone does not necessarily imply greater consciousness or liberation — a cancer cell may have a narrower organismic horizon, a bureaucracy a vast control horizon without being one phenomenal subject",
+        "S_i ⇒ M_i is not solved: a real causal whole (multicellular organism as causal agent) need not automatically be one phenomenal whole",
+        "W_i → X_i (world-for-agent to phenomenally experienced world) remains theoretically contested",
+        "science does not presently establish full Śaiva recognition R_s (M_i = M_∞ = Śiva)",
+        "even if every organism has M_i it does not follow that M_1 = M_2 = ⋯ = M_∞ — common structure is not numerical identity",
+        "even if fundamental reality is intrinsically manifest (M_∞), it does not follow that it possesses will, intention or absolute freedom — self-organization is not automatically deliberate play",
+        "the framework explains how constraints generate particular agents once physical and biological regularities are given, but does not explain why the universe has exactly these regularities, evolutionary histories and distributions of suffering",
+        "this is a philosophical reconstruction, not a claim that Abhinavagupta secretly formulated modern computational neuroscience"
+      ],
+      "frontier": "Why is the enacted world phenomenally present — is M_i produced by bounded self-organization (E → S_i → W_i → M_i) or is every finite agent the restriction of one intrinsically manifest, self-articulating reality (M_∞ →L_i→ M_i), i.e., is the manifestness within every world numerically one unrestricted consciousness contracting through different architectures?",
+      "question_ids": [
+        "Q-0",
+        "Q-1",
+        "Q-2",
+        "Q-3",
+        "Q-4",
+        "Q-5",
+        "Q-6",
+        "Q-7",
+        "Q-8",
+        "Q-9",
+        "Q-10",
+        "Q-11"
+      ],
+      "method": "hermes"
+    },
+    {
+      "enquiry_id": "spec-42-logicvid-logicvidsmethod",
+      "topic": "Decoding the Tantrāloka's metaphysics with the Logicvid question-growth method: whether a serious metaphysics decoder is feasible, and how it must be built (multi-pass adversarial reconstruction, not a one-shot)",
+      "taxonomy": {
+        "structural map": "Level 1 decode: per-āhnika map of problem solved, primitive terms, presupposed commitments, new claims, inferential work, downstream dependencies, and tensions — 'absolutely feasible'",
+        "metaphysical backbone": "Level 2 decode: a minimal reconstructed argument chain (manifestation → intrinsic luminous character → self-apprehension → determinate articulation → differentiation without external matter → restriction within manifestation → bondage as contracted self-apprehension → liberation as recognition, not production), every arrow needing passages, commentary support, hidden-premise annotation, objections, confidence level, alternatives — feasible but slower",
+        "definitive scholarly reconstruction": "Level 3 decode: an account of every argument — NOT claimable from the Tantrāloka translation alone, since its arguments depend on Utpaladeva's Īśvarapratyabhijñā, the vimarśinīs, Tantrasāra, Jayaratha, scriptural sources, and grammarian/Buddhist epistemological background",
+        "compression error": "one-shot failure mode: forcing distinct claims into one clean system",
+        "attribution error": "one-shot failure mode: attributing a later commentator's repair directly to Abhinavagupta",
+        "bridge error": "one-shot failure mode: treating similar terms as equivalent",
+        "probe": "a suggested term-bridge (prakāśa = phenomenal consciousness, spanda = vibration, vimarśa = metacognition, māyā = predictive modelling) that is useful for enquiry but NOT an established identity",
+        "construct pass": "Pass A: an agent produces the strongest coherent reconstruction (primitives, claims, dependency chain, hidden premises, chapter function, tensions, questions)",
+        "destroy pass": "Pass B: a separate agent, forbidden from improving the reconstruction, identifies unsupported entailments, conflated levels, translation dependence, missing intermediate claims, passages that resist, rival scholarly readings, false formalization, contradictions hidden by vague wording",
+        "provenance audit": "Pass C: checks every explicit claim has a passage, every derived claim lists premises, every cross-source claim preserves direction, every contradiction survives scope separation, every Sanskrit term retains tradition-local meaning",
+        "selection oracle": "the human role of judging which question is genuinely piercing, which branch feels alive, which compression is illuminating rather than flattening — 'should not be automated away'",
+        "interface": "MCP, exposing enquiry operations (create_inquiry, prosecute_argument, audit_provenance, ...) only after five to ten excellent enquiries exist — 'useful as an interface. It is not the intelligence.'",
+        "strong first reconstruction": "what the Tantrāloka alone IS enough for (boxed claim)",
+        "definitive account": "what the Tantrāloka alone is NOT enough for (boxed claim)"
+      },
+      "theorem": "A serious Tantrāloka metaphysics decoder is feasible: with a carefully assembled source base, the Tantrāloka alone is enough for a strong first reconstruction (structural map and hard metaphysical backbone) but not for a definitive account of every argument; and the trustworthy way to build it is a double pass with adversarial reconstruction (construct → destroy → provenance audit), because a one-shot deep-research output is useful but not trustworthy — it would commit compression, attribution, and bridge errors.",
+      "boundary": [
+        "No actual decoding was performed: the transcript establishes feasibility and method only — none of the ten spine questions (liberation, consciousness, why prakāśa must include vimarśa, unity producing differentiation, contraction, misrecognition, what exactly changes in recognition, freedom, manifestation, status of the world) was answered",
+        "Not a definitive account of every argument: the Tantrāloka is not a standalone systematic treatise in the modern sense; its arguments depend on Utpaladeva's Īśvarapratyabhijñā, Abhinavagupta's Īśvarapratyabhijñā-vimarśinī and vivṛti-vimarśinī, the Tantrasāra, Jayaratha's commentary, Mālinīvijayottara and other scriptural sources, grammarian and Buddhist epistemological background, and ritual frameworks",
+        "The term bridges were NOT established as identities — prakāśa = phenomenal consciousness, spanda = vibration, vimarśa = metacognition, māyā = predictive modelling are explicitly 'useful probes, not established identities'",
+        "Dyczkowski's notes were NOT established as required for the first build — only indispensable for particular branches (Spanda, Krama, Kubjikā, Śaiva cosmology, doctrinal history, technical translation choices, lineage relationships)",
+        "Whether the method works at corpus scale was NOT established — the Tantrāloka Metaphysical Spine v0.1 is proposed precisely to test this",
+        "No claim of a complete decoder: only that a first version could be very strong, with the full version growing iteratively as translations and source library improve"
+      ],
+      "frontier": "If I must already be Śiva to recognize myself as Śiva, how can I recognize myself as not-Śiva?",
+      "question_ids": [
+        "Q-0",
+        "Q-1",
+        "Q-2",
+        "Q-3",
+        "Q-4",
+        "Q-5",
+        "Q-6",
+        "Q-7",
+        "Q-8",
+        "Q-9",
+        "Q-10",
+        "Q-11",
+        "Q-12",
+        "Q-13"
+      ],
+      "method": "hermes"
+    },
+    {
+      "enquiry_id": "spec-43-logicvid-logicvid-postmortem",
+      "topic": "Word-level audio-text synchronization for instant-rendering logicvid films (5 iterations of the argument-diagram motif in one session, trying to build a Whisper-timed, step-function film)",
+      "taxonomy": {
+        "speech recognition (Whisper tiny)": "transcribes speech but is NOT a forced aligner — its word timestamps drift 100-300ms, which is the difference between 'word appears when spoken' and 'word appears late'",
+        "forced alignment": "aligning known text to audio at the phoneme level via aeneas/whisperx/gentle — the right tool, never installed",
+        "step-function (instant) rendering": "text pops at a specific frame with no fade/animation; off by even 2 frames (80ms at 24fps) feels wrong — it exposes every millisecond of misalignment",
+        "smooth (animated) rendering": "v1's transitions hid timing errors inside the animation, so misalignment was invisible",
+        "timing system": "when things appear (authored start/end per move, normalized within exact scene durations from audio) — must be separate from rendering",
+        "rendering system": "how things look (motif, transitions, visual elements) — fusing it with timing made both undebuggable",
+        "v1 simplicity vs v5 complexity": "v1 (423 lines, 10 move types, simple timing) was cleaner and more reliable; v5 (229 lines, per-node timing, whisper integration, validation schema) added complexity without fixing sync — optimizing what was controllable while ignoring what was not"
+      },
+      "theorem": "Word-level sync was never solved by substituting Whisper-tiny timestamps or by adding complexity (5 motif variants, 204-check validation, per-node timing): instant rendering makes misalignment perceptible at 2 frames (80ms at 24fps) where smooth transitions hid it, so the proven baseline is v1's even per-move timing (smoothstep(i/n, (i+1)/n, t)) with exact scene durations from audio, and the fix must come from forced alignment, not from a new motif.",
+      "boundary": [
+        "no accurate word timestamps were ever produced — logicvid-v5.json 'needs accurate word timestamps'",
+        "no forced aligner (aeneas/whisperx/gentle) was ever installed, so word-level sync was never achieved or verified",
+        "timestamps were never validated against audio — no waveform overlay check was run before rendering",
+        "the instant-rendering goal (text appearing in sync at the exact frame) was never demonstrated to work",
+        "the 204-check validation script, per-node timing, and the Whisper pipeline did not establish timing accuracy — the core problem remained unsolved"
+      ],
+      "frontier": "Once a real forced aligner is installed and its word timestamps are verified against known audio, can word-level timing be made accurate enough that step-function instant rendering feels synchronized rather than 'late' — and what alignment error (in frames at 24fps) is the perceptual threshold beyond which instant rendering stops feeling wrong?",
+      "question_ids": [
+        "Q-0",
+        "Q-1",
+        "Q-2",
+        "Q-3",
+        "Q-4",
+        "Q-5",
+        "Q-6"
+      ],
+      "method": "hermes"
+    },
+    {
+      "enquiry_id": "spec-44-logicvid-logicframework2",
+      "topic": "Pratyabhijñā–science framework: how finite consciousness relates to universal consciousness — replacing the external-filter model (C_∞ →_L_i C_i) with an internal self-determination model (C_∞ →_δ_i ⟨S_i, W_i, Γ_i⟩) in a source-controlled reconstruction of manifestation, contraction, finite agency and recognition",
+      "taxonomy": {
+        "C_∞ vs M_∞": "C_∞ = universal self-manifest agency ⟨prakāśa, vimarśa, svātantrya⟩ carrying manifestation, unity, determination and agency; M_∞ = mere universal manifest capacity / phenomenality, which is too weak",
+        "δ_i vs external filter": "δ_i = one mode of consciousness determining itself finitely (internal self-determination); the external-filter picture (C_∞ + filter → finite consciousness) is rejected as unfaithful",
+        "modal vs fractional vs causal": "finite subject relation is modal (C_i ≡_i C_∞: same reality under standpoint i, with restricted knowledge, action, value, time, causal access); not part–whole containment (C_i ⊄ C_∞) and not temporal causal generation (C_∞ → C_i)",
+        "L_i vs B_i": "L_i = ⟨K_i,A_i,V_i,T_i,C_i⟩ finite architecture that makes a particular embodied perspective possible; B_i = L_i + X_i + I_i = limitation plus exclusive subject–object determination plus identification of the finite standpoint as exhaustive — limitation is not bondage",
+        "restricted access vs exclusive determination": "a system may retain limited access after liberation (L_i ≠ 0) while the exclusivity of its identity is transformed (X_i → X_i'); lacking information is not the same as determining 'I am this and not that'",
+        "T / R / C / H": "four status levels: explicitly textual / strong scholarly reconstruction / cross-disciplinary structural correspondence / live philosophical hypothesis — no correspondence with science is presented as a translation or historical anticipation",
+        "Māyā vs hallucination / false sensory information / predictive processing": "Māyā = the differentiating power converting integrated difference into standpoint-relative externality (separative standpoint structure); predictive processing only stabilizes a finite world after restricted subject–world organization is in place",
+        "recognition vs belief-update": "recognition is R_i: Γ_i → Γ_i' transforming the entire enacted relation among self, world, agency, ownership, otherness and manifestation; not SM_i → SM_i' (adoption of a new proposition)",
+        "epistemic dependence vs ontological constitution": "'Reality is accessible only through consciousness' does not entail 'Reality exists only as consciousness' — the crucial invalid inference",
+        "common structural dependence vs numerical identity": "every local subject may depend upon the same kind of manifest structure without being a mode of numerically one consciousness",
+        "memory: information persistence vs experienced ownership": "episodic memory presents 'I experienced this'; a causal trace explains persistence but not automatically the first-person attribution",
+        "recognition grades R1–R4": "R1 model (ego is constructed, naturalism-compatible) / R2 relational (reciprocal organism–environment dynamics, enactivism) / R3 phenomenological (manifestation not owned by the ego; does not entail cosmic idealism) / R4 full Pratyabhijñā (C_i ≡_i C_∞) — only R4 is the tradition's complete metaphysical claim",
+        "matter vs human-like mind": "matter is not ontologically external to conscious power — self-articulating power stabilized as resistance and public regularity; not 'matter is secretly a human-like mind'; a metaphysical interpretation, not a physical mechanism",
+        "kañcuka coordinates": "kalā→A_i restricted capacity to act; vidyā→K_i restricted discrimination and knowing; rāga→V_i incompleteness, attraction, asymmetric valuation; kāla→T_i division into sequence; niyati→C_i determinate allocation of causes, conditions and effects (Māyā + these five = six coverings, Tantrāloka 9.204)"
+      },
+      "theorem": "For Pratyabhijñā, finite consciousness is not generated by sufficiently complex nonconscious organization: finite subjects and worlds are mutually constituted modes of universal self-manifest agency (δ_i(C_∞) = ⟨S_i, W_i, Γ_i⟩, subject and world arising together as poles of one contracted relation). The kañcukas can be reconstructed as interdependent coordinates of finite knowledge, action, value, time and causation; a biologically or computationally finite agent requires bounded information, action, valuation, temporal processing and causal reach; exclusion (X_i) converts limitation into exclusive subject–object separation; and embodied liberation cannot require the elimination of all finite constraints — recognition transforms identification (R_i ⇒ L_i persists while I_i is transformed), so the kañcuka–finite-agency reconstruction is strong, subject–world co-determination highly defensible, and recognition as transformation rather than mere belief textually coherent.",
+      "boundary": [
+        "It does not deductively establish that all reality is one consciousness; the inference 'Reality is accessible only through consciousness → Reality exists only as consciousness' is invalid — it confuses epistemic dependence with ontological constitution, and the realist's objection is not removed",
+        "Numerical identity between every local field and one universal consciousness (∀i,j: C_i = C_j = C_∞) is NOT established — common structural dependence does not imply numerical identity",
+        "Memory does not by itself prove one universal consciousness: it distinguishes information persistence from experienced ownership, but it is difficult to establish that episodic memory recalls the subjective 'for-me-ness' of a past experience rather than merely its represented contents (significant unresolved objections remain)",
+        "The strongest universalization argument is abductive and transcendental rather than strictly deductive; a realist can still answer that epistemic inaccessibility outside consciousness does not entail ontological nonexistence",
+        "This is not a deductive proof that every conceivable perspective must instantiate exactly five ontological coverings — it is a functional proposition about finite agency",
+        "No correspondence with science is established as a translation or historical anticipation; the materiality claim is a metaphysical interpretation, not a physical mechanism, and the scientific comparisons leave unresolved steps (W_i → M_i; why organization possesses intrinsic first-person character; what determines the correspondence and unity of causal and phenomenal properties)",
+        "Reviewers note that some of Biernacki's extensions — especially the operative sentience of matter — go beyond what direct textual evidence securely establishes"
+      ],
+      "frontier": "Why must the ground of all finite manifestation be one self-determining subject rather than a neutral reality that produces multiple local subjects?",
+      "question_ids": [
+        "Q-0",
+        "Q-1",
+        "Q-2",
+        "Q-3",
+        "Q-4",
+        "Q-5",
+        "Q-6",
+        "Q-7",
+        "Q-8",
+        "Q-9",
+        "Q-10",
+        "Q-11",
+        "Q-12",
+        "Q-13"
+      ],
+      "method": "hermes"
+    },
+    {
+      "enquiry_id": "spec-45-logicvid-logicvid3",
+      "topic": "Convergence-driven enquiry in a research operating system: a primitive earns its status only through independent rediscovery from many directions, so the graph is scored by independent-rediscovery count rather than popularity or declaration",
+      "taxonomy": {
+        "Root Question": "a beautiful paradox that seeds an enquiry tree (e.g. 'If music is mathematics, is reality musical?'); NOT equivalent to a Primitive Question, which is the 'What is X?' reduction step that grows out of it",
+        "Primitive Question": "a question like 'What is time?' that tries to reduce ontology; distinct from a Merge Question, which asks whether independently reached versions of a term are the same primitive",
+        "Merge Question": "the most interesting node type ('Are these the same time?'), asked only when several branches with different ancestries converge on one term; distinct from asking what the term is, and named frontier philosophy",
+        "Fixed Point": "a node almost everything converges on (Difference, Time, Memory, Relation, Presence, Identity, Constraint) that becomes a candidate irreducible primitive; distinct from a concept merely declared important",
+        "question-with-ancestry": "'What is Time (from music)?' and 'What is Time (from memory)?' are different questions despite identical surface wording — ancestry is part of a question's identity, so converged questions are not merged blindly",
+        "independent rediscovery count": "the proposed metric of fundamentality: how many independent investigations forced a node into existence; explicitly NOT popularity or citations"
+      },
+      "theorem": "A concept is established as fundamental only by repeated independent rediscovery — when entirely different enquiry trees converge on the same term, that convergence is evidence the concept is real; therefore a research graph should grow question trees from root paradoxes, preserve each question's ancestry, score independent-rediscovery counts, and treat the merge attempt (asking whether the converged versions are the same primitive) as the site where discoveries happen — never create a primitive node because it sounds important, only when multiple independent investigations force it into existence.",
+      "boundary": [
+        "No candidate primitive (Time, Memory, Presence, Difference, ...) was shown to actually be irreducible — they are introduced only as 'Maybe:' candidate fixed points, not proven ones",
+        "No merge attempt was performed or resolved: whether five convergences on 'Memory' are one primitive or three different kinds of memory is explicitly left open ('Sometimes you'll discover they're identical. Sometimes... three different kinds.')",
+        "The independent-rediscovery metric is proposed, not defined: no criterion for what counts as an independent investigation, nor how to measure or score convergence, was given",
+        "The claim that convergence implies fundamentality rests on analogy with mathematics and physics (manifolds, symmetry, information); it is asserted as an epistemology, not demonstrated or formalized",
+        "No actual graph, scoring system, or research operating system was built or tested — the entire design is proposed, not implemented"
+      ],
+      "frontier": "Are these actually the same primitive — and what evidence could settle whether independent convergences on one term are a single primitive or several different kinds of it?",
+      "question_ids": [
+        "Q-0",
+        "Q-1",
+        "Q-2",
+        "Q-3",
+        "Q-4",
+        "Q-5"
+      ],
+      "method": "hermes"
+    },
+    {
+      "enquiry_id": "spec-46-logicvid-logic5",
+      "topic": "Are presence, manifestation, consciousness, and experience the same phenomenon — or four different things that the consciousness debate confuses? (What is presence?)",
+      "taxonomy": {
+        "Prakāśa": "that by virtue of which anything appears at all — reality is manifest; suggests no subject, mind, or experiencer",
+        "Manifestation": "the event of disclosure — appearing; answers 'why is there appearing rather than non-appearing?'",
+        "Presence": "the actuality of what appears — the mode of disclosure; the occurring of appearance, not a thing inside experience; says only 'something is there'",
+        "Experience": "structured presence — presence plus determination (E = P + S, S = phenomenal structure); says 'something appears as something'",
+        "Awareness": "relational — suggests x is aware of y; presence is logically prior to awareness and no subject-object relation is yet introduced",
+        "Consciousness": "an ambiguous term with at least three different meanings (presence; self-present presence with vimarśa; the subject to whom presence belongs) — three different ontologies that most debates never separate",
+        "Vimarśa": "the self-articulation of manifestation — self-reflexive active awareness; what gives manifestation determinate structure"
+      },
+      "theorem": "The words are not equivalent: manifestation ≠ presence (manifestation is appearing; presence is the actuality of what appears); experience = presence + determination; presence is logically prior to awareness; and 'consciousness' is an ambiguous term spanning three different ontologies — so reality is manifest before it is interpreted as belonging to a subject.",
+      "boundary": [
+        "Did NOT prove one Self, Śiva, or universal consciousness — Abhinavagupta has established less than people usually think",
+        "Did NOT establish anything beyond 'reality is manifest before it is interpreted as belonging to a subject' — everything beyond requires additional argument",
+        "Did NOT answer the original question — it deliberately defers, showing instead that four research communities use the same words differently",
+        "Did NOT adjudicate which of the three meanings of 'consciousness' (or which ontology) is correct",
+        "Did NOT establish what turns mere presence into conscious presence — why prakāśa is accompanied by vimarśa"
+      ],
+      "frontier": "What turns mere presence into conscious presence — why is prakāśa always accompanied by vimarśa?",
+      "question_ids": [
+        "Q-0",
+        "Q-1",
+        "Q-2",
+        "Q-3",
+        "Q-4",
+        "Q-5",
+        "Q-6"
+      ],
+      "method": "hermes"
+    },
+    {
+      "enquiry_id": "spec-47-logicvid-logic6",
+      "topic": "What is a self-validating cognition — can recognition of Śiva authenticate itself, and what must already be true for cognition, memory, recognition and coordinated action to occur at all?",
+      "taxonomy": {
+        "self-manifesting": "a cognition occurs consciously without needing another cognition; luminosity/reflexive awareness; concerns presence, not truth (a hallucination can be self-manifesting)",
+        "self-known": "the cognition is aware of its own occurrence (C(x) → C(C(x))); Buddhist svasaṃvedana: object and itself in one occurrence, like a lamp illuminating itself",
+        "self-validating": "intrinsic epistemic validity (svataḥ prāmāṇya): a cognition is warranted unless defeated — prima facie knowledge without an infinite sequence of certifications; defeasible, not infallible",
+        "self-certifying": "the strongest claim: C(x) → knowledge that C(x) is true, complete and incorrigible — what enlightenment-as-final-attainment would require; does not follow from self-presence",
+        "liberating": "recognition with the radical form S_finite = S_universal; not established merely because an experience feels immediate",
+        "vimarśa / pratyavamarśa": "the intrinsic apprehensive dimension of manifestation (C(x) = P(x) + V(x)); consciousness's non-objective self-involvement, NOT introspection or thought about consciousness",
+        "aham-pratyavamarśa": "fundamental 'I' apprehension, distinct from vikalpa: conceptual determination distinguishes something from an opposing alternative, whereas no genuine opposite to manifestation can appear outside it",
+        "recognitive subjectivity": "the primitive: S manifests x, apprehends x, and reconnects this cognition with others — not an isolated self-validating cognition (vs. Buddhism: each cognition reflexively presents itself)"
+      },
+      "theorem": "Conscious cognition is intrinsically self-manifesting and apprehensive — C(x) → V(x), since manifest content alone (P(x)) is insufficient for cognition (a mirror reflects without apprehending) and apprehension cannot be externally added without regress; yet self-presence does not imply self-certification, and recognition is not a new cognition of a new object but the collapse of a false restriction on a subject already operative in every cognition, its proposed authority resting on immediate non-objective self-apprehension plus a transcendental argument about what cognition presupposes (Śiva is not encountered as a transcendent object).",
+      "boundary": [
+        "every cognition validating its own truth or metaphysical interpretation (self-certification does not follow from self-presence)",
+        "S = Śiva: the negative result establishes only that the subject cannot be identified with any single object appearing to it",
+        "the move from 'S ≠ any objectifiable identification' to 'S = universal, free, world-manifesting Śiva' — requiring unity + freedom + creative manifestation + universality, whose derivation is the genuine (undelivered) burden of the system",
+        "whether the non-objectifiable subject is universal rather than merely individual — enduring self, cross-person identity, omniscience, universal agency, cosmological creativity all unestablished",
+        "V(x) → universal Śiva: intrinsic subjectivity may establish only 'there is something it is like for cognition to occur' — formal subjectivity, not Śiva (the inference from ¬(S=O_i) to S = universal ground of all O_i risks being illicit)",
+        "apprehension → freedom: Utpaladeva identifies pratyavamarśa with freedom, but that connection needs its own proof",
+        "liberating recognition being self-validating merely because it feels immediate"
+      ],
+      "frontier": "How does the non-objectifiable subject become the universal subject — how does 'I am not any object' become 'I am the consciousness of every object'?",
+      "question_ids": [
+        "Q-0",
+        "Q-1",
+        "Q-2",
+        "Q-3",
+        "Q-4",
+        "Q-5",
+        "Q-6",
+        "Q-7"
+      ],
+      "method": "hermes"
+    },
+    {
+      "enquiry_id": "spec-48-logicvid-logic7",
+      "topic": "The relation between reality (R), cognition (K) and phenomenal manifestation (M): whether manifestation is an additional fact about cognitive organization, or whether it simply is sufficiently organized cognition 'from within'",
+      "taxonomy": {
+        "R (reality/process)": "the underlying process that the scientific chain increasingly traces into cognition",
+        "K (cognition / adaptive world-modelling)": "a graded capacity for sensing, memory, preference, goal-directed error correction, navigating possible state spaces and coordinating action — NOT equivalent to manifestation",
+        "M (manifestation)": "the fact that anything appears at all — neither established as identical to K nor as emergent from K",
+        "perception": "top-down prediction constrained by bottom-up error correction (Seth's 'controlled hallucination') — neither passive copying nor unconstrained fantasy; a temporarily stable attractor in a circular organism–world process, not a linear pipeline",
+        "identity version (M ≡ K)": "phenomenal manifestation just is the integrated cognitive process under two descriptions, like lightning and electrical discharge — it does not 'generate' manifestation",
+        "emergence version (K → M)": "manifestation emerges once nested cognition crosses an organizational threshold — a threshold no current theory has established",
+        "prakāśa": "manifest actuality (Abhinavagupta)",
+        "vimarśa": "the active, relational, differentiating structure of manifestation — what science increasingly explains (how distinctions stabilize, goals scale, agents emerge, interfaces form)",
+        "spanda": "the intrinsic dynamism through which unity articulates difference",
+        "conscious agent (Hoffman)": "a formal primitive of measurable spaces and Markov kernels for perception, decision and action — probabilistic perception–decision–action dynamics; calling X a space of conscious experiences is an interpretation, not a theorem",
+        "observer": "cannot explain manifestation unless observerhood is independently explained — the three live options are regress (K1 ← K2 ← K3 …), global pattern M(Γ), and mere perspectival language"
+      },
+      "theorem": "The scientific chain establishes R → K (reality produces adaptive predictive world-modelling: Seth's controlled construction, Levin's scaling agency, Wallace's real-but-nonfundamental patterns, Hoffman's interface opacity, Tegmark's mathematical structure), but it has not established K = M or K → M; therefore observer cannot explain manifestation unless observerhood is independently explained, and no accepted theory unifies pattern individuation + agency + phenomenal manifestation + first-person unity.",
+      "boundary": [
+        "K = M (identity of cognition and manifestation) was not established",
+        "K → M (manifestation as emergence from cognition) was not established — no theory gives a generally accepted sufficient organizational threshold; recurrent processing, global availability, integration, self-modelling, counterfactual depth, temporally extended causal unity and biological autonomy are only competing indicator properties",
+        "Hoffman has not derived the Standard Model, quantum field theory or general relativity as a completed result — recovery of spacetime and physical structure remains ongoing theoretical work",
+        "The Markov-kernel formalism does not prove phenomenal consciousness — phenomenal consciousness is Hoffman's foundational ontological postulate, not a theorem derived from the kernels",
+        "Levin supplies a theory of how agency scales, not a theory of why scaled agency is phenomenally manifest",
+        "Wallace's pattern realism resolves the individuation problem (no exact cognition boundary does not make cognition unreal) but does not resolve manifestation",
+        "Tegmark reaches structure but not appearing — mathematical structure specifies relations, transformations, factorization, information and causal organization but not why the structure appears; 'self-aware substructure' does the unexplained work",
+        "Enactivism dissolves the residual inner-theatre picture but still owes an account of why the process admits a first-person description at all",
+        "The observer formulation fails on all options: Option A regresses (K1 ← K2 ← K3 …), Option B needs a non-arbitrary rule for which global processes count as unified observers, Option C avoids regress but leaves first-person description unexplained",
+        "Reorganizing the structures of vimarśa does not automatically explain prakāśa"
+      ],
+      "frontier": "What makes a process a point of view — a boundary from which one actionable world becomes manifest — rather than merely an agent or an integrated system?",
+      "question_ids": [
+        "Q-0",
+        "Q-1",
+        "Q-2",
+        "Q-3",
+        "Q-4",
+        "Q-5",
+        "Q-6",
+        "Q-7",
+        "Q-8",
+        "Q-9",
+        "Q-10"
+      ],
+      "method": "hermes"
+    },
+    {
+      "enquiry_id": "spec-36-logicvid3",
+      "topic": "The enquiry graph as a research operating system: primitives are earned by independent rediscovery, not declared importance",
+      "taxonomy": {
+        "Root Question": "a beautiful paradox that seeds an enquiry tree (e.g. 'If music is mathematics, is reality musical?') — distinct from the questions it grows",
+        "Primitive Question": "a 'what is X?' reduction attempt on ontology (time, memory, relation) — tries to reduce, not to seed",
+        "Merge Question": "asks whether independently converged questions are actually the same primitive ('Are these the same time?') — the most interesting node type, where discoveries happen",
+        "Fixed Point": "a candidate irreducible primitive that almost everything converges on (difference, time, memory, relation, presence, identity, constraint)",
+        "Independent rediscovery count": "the metric of fundamentality — how many unrelated investigations force the same node into existence; explicitly NOT popularity or citations",
+        "Convergence": "the same primitive rediscovered from many directions — evidence of fundamentality, not coincidence",
+        "'What is Time (from music)?'": "a question that preserves its ancestry — not equivalent to the generic 'What is time?'; different paths into the same basin are different questions",
+        "Primitive vs fashionable abstraction": "a node is a primitive only when multiple independent investigations force it into existence and it survives repeated reduction attempts — never because it sounds important",
+        "Question graph vs concept map": "grows as Question → Proof → Residuals → Branches → Convergences → Merge attempt → New theorem; a concept map just chains Topic → Notes → Next topic"
+      },
+      "theorem": "The same primitive should be rediscovered independently from many directions: when entirely different routes keep arriving at the same place, that convergence is evidence (not coincidence) that the concept is fundamental, so the graph should score independent rediscovery count and only promote a node to candidate irreducible primitive if many unrelated paradoxes force it into existence and it survives repeated reduction attempts.",
+      "boundary": [
+        "It did NOT prove that any listed Fixed Point (difference, time, memory, relation, presence, identity, constraint) is actually irreducible — they are offered as candidates, not established primitives",
+        "It did NOT establish whether the five branches converging on 'Memory' are the same primitive — they may turn out to be three different kinds of memory (explicitly left open)",
+        "It did NOT define the 'independent rediscovery count' metric formally — the scores (Presence 6 vs Consciousness 1) are illustrative, not measured",
+        "It did NOT prove the mathematics/physics analogy (manifolds, symmetry, information) transfers to philosophical enquiry — it is offered as an analogy, not a demonstration",
+        "It did NOT implement or test the graph — the four node types, the convergence scoring, and the merge rule are proposals ('I think the graph should...'), not a working system"
+      ],
+      "frontier": "When independent investigations converge on the same node, are they actually converging on one and the same primitive, or on several distinct primitives wearing the same name?",
+      "question_ids": [
+        "Q-0",
+        "Q-1",
+        "Q-2",
+        "Q-3",
+        "Q-4",
+        "Q-5",
+        "Q-6",
+        "Q-7",
+        "Q-8"
+      ],
+      "method": "hermes"
+    },
+    {
+      "enquiry_id": "spec-3x-session-q1",
+      "topic": "The reflexivity argument in Tantrāloka Vol 1 (TĀ 1/52–55): existence = manifestation, determination = vimarśa, and the identity of the perceiver with the Light",
+      "taxonomy": {
+        "manifestation": "not a property of the object (the blueness-of-blue argument: if it were, all would be omniscient); it is indexed to a perceiver — 'manifest to me'",
+        "existence": "identical with manifestation (1/52: what is not Light can neither be illumined nor have vastutā); an object cannot be unmanifest yet exist, so Light is the being of blue, not an added illuminator (vs. the Sāṁkhya association view)",
+        "vimarśa (reflective awareness)": "the reflexive act that determination itself IS — intrinsic to manifestation, not an added second apprehension (else regress); a transcendental condition of possibility, not an empirical feature of some cognitions",
+        "difference": "not a mere state of affairs (two marks on a stone) but an act of awareness — determining 'this not that' is one and the same self-apprehension, culminating in tādātmya",
+        "the perceiver": "the Light / Śiva Himself, not the body nor any vikalpa-afflicted subject — yet distinct from the empirical 'me,' whose identity with the Light is asserted, not proven",
+        "icchā / jñāna / kriyā (will / knowledge / action)": "not three separate faculties but three modes of the one vimarśa — content, self-originating freedom, successive self-extension (krama, time, body)",
+        "the wall / the inert": "only a false notion — the wall as known is a determination within awareness (hence reflexive), the wall as an independent insentient substance is the error; there is no positive inert term in the system",
+        "notion vs. meant object": "the notion 'this is non-existent' is conscious (camatkāra), unlike the wall as meant object — reflexivity belongs to the apprehension, not to the object as a mind-independent substance"
+      },
+      "theorem": "The Tantrāloka does not merely assert reflexivity but argues it: existence = manifestation (1/52); manifestation is perceiver-indexed; determination itself is a reflexive act (Jayaratha's regress argument), so without self-apprehension there is no determination and hence no manifest world — reflexivity is the transcendental condition of possibility of any determinate appearance; even absences ('there is no jar') are vimarśa acts (1/53), so no positive inert term exists; the Light is ādisiddha, self-proved (1/54); and will, knowledge, and action are the three self-articulations of the one vimarśa (1/151–153, ad 1/232).",
+      "boundary": [
+        "The universality of the perceiver: that the empirical 'me' is a contraction of the Light rather than a recipient of it — the text asserts the collapse but does not prove it (the quantifier problem; the IPVV must argue it)",
+        "That icchā/jñāna/kriyā and no other partitioning exhaust vimarśa — the triadic completeness of the powers is asserted, not demonstrated",
+        "The leap from 'everything manifest is reflexive' to 'the wall is the Lord' — whether reflexivity licenses calling every determinate thing conscious, or only every apprehension (the panpsychism boundary); 'conscious vs. inert' as a distinction between kinds of being was not established"
+      ],
+      "frontier": "How does 'manifest to me' become 'the Light is the universal perceiver' — why is the empirical 'me' a contraction of the Light rather than a recipient of it?",
+      "question_ids": [
+        "Q-0",
+        "Q-1",
+        "Q-2",
+        "Q-3",
+        "Q-4",
+        "Q-5",
+        "Q-6",
+        "Q-7"
+      ],
+      "method": "hermes"
+    }
+  ],
+  "aggregate": {
+    "Word-level audio-text synchronization for instant-rendering logicvid films (5 iterations of the argument-diagram motif in one session, trying to build a Whisper-timed, step-function film)": {
+      "enquiries": 1,
+      "taxonomy_terms": 7,
+      "theorems": 1,
+      "boundaries": 5,
+      "frontiers": 1
+    },
+    "The reflexivity argument in Tantrāloka Vol 1 (TĀ 1/52–55): existence = manifestation, determination = vimarśa, and the identity of the perceiver with the Light": {
+      "enquiries": 1,
+      "taxonomy_terms": 8,
+      "theorems": 1,
+      "boundaries": 3,
+      "frontiers": 1
+    },
+    "Convergence-driven enquiry in a research operating system: a primitive earns its status only through independent rediscovery from many directions, so the graph is scored by independent-rediscovery count rather than popularity or declaration": {
+      "enquiries": 1,
+      "taxonomy_terms": 6,
+      "theorems": 1,
+      "boundaries": 5,
+      "frontiers": 1
+    },
+    "Decoding the Tantrāloka's metaphysics with the Logicvid question-growth method: whether a serious metaphysics decoder is feasible, and how it must be built (multi-pass adversarial reconstruction, not a one-shot)": {
+      "enquiries": 1,
+      "taxonomy_terms": 14,
+      "theorems": 1,
+      "boundaries": 6,
+      "frontiers": 1
+    },
+    "What is a self-validating cognition — can recognition of Śiva authenticate itself, and what must already be true for cognition, memory, recognition and coordinated action to occur at all?": {
+      "enquiries": 1,
+      "taxonomy_terms": 8,
+      "theorems": 1,
+      "boundaries": 7,
+      "frontiers": 1
+    },
+    "Does vimarśa explain self-organization, or merely redescribe it as consciousness? — the live issue between Abhinavagupta's vimarśa and Levin's empirically established multiscale bioelectric self-organization": {
+      "enquiries": 1,
+      "taxonomy_terms": 13,
+      "theorems": 1,
+      "boundaries": 9,
+      "frontiers": 1
+    },
+    "Pratyabhijñā–science framework: how finite consciousness relates to universal consciousness — replacing the external-filter model (C_∞ →_L_i C_i) with an internal self-determination model (C_∞ →_δ_i ⟨S_i, W_i, Γ_i⟩) in a source-controlled reconstruction of manifestation, contraction, finite agency and recognition": {
+      "enquiries": 1,
+      "taxonomy_terms": 14,
+      "theorems": 1,
+      "boundaries": 7,
+      "frontiers": 1
+    },
+    "The relation between reality (R), cognition (K) and phenomenal manifestation (M): whether manifestation is an additional fact about cognitive organization, or whether it simply is sufficiently organized cognition 'from within'": {
+      "enquiries": 1,
+      "taxonomy_terms": 11,
+      "theorems": 1,
+      "boundaries": 10,
+      "frontiers": 1
+    },
+    "Building a shared process language (not term-mapping) in which Trika/Pratyabhijñā and consciousness science make claims at different explanatory levels: a six-level framework M→D→B→N→W→R whose entire dispute reduces to whether manifestation (M) is generated by the later levels, identical with their organization, or ontologically prior to them — i.e., whether finite consciousness is produced by complex organization or is the restriction of intrinsically manifest, self-articulating reality through a finite constraint-set L_i.": {
+      "enquiries": 1,
+      "taxonomy_terms": 12,
+      "theorems": 1,
+      "boundaries": 12,
+      "frontiers": 1
+    },
+    "The enquiry graph as a research operating system: primitives are earned by independent rediscovery, not declared importance": {
+      "enquiries": 1,
+      "taxonomy_terms": 9,
+      "theorems": 1,
+      "boundaries": 5,
+      "frontiers": 1
+    },
+    "Are presence, manifestation, consciousness, and experience the same phenomenon — or four different things that the consciousness debate confuses? (What is presence?)": {
+      "enquiries": 1,
+      "taxonomy_terms": 7,
+      "theorems": 1,
+      "boundaries": 5,
+      "frontiers": 1
+    }
+  },
+  "totals": {
+    "files": 11,
+    "hermes_derived": 11,
+    "regex_fallback": 0
+  }
+}

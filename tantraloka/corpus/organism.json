@@ -1,0 +1,12 @@
+{
+ "n_t1": 264,
+ "ingested": true,
+ "refine_layers": 6,
+ "verified": null,
+ "pool_jobs": 2,
+ "kernels_wired": [
+  "ingestion_organism",
+  "factory_pool"
+ ],
+ "principle": "ip-graph organisms = SENSOR/decision; patala factory = EXECUTOR (one orchestrator)"
+}

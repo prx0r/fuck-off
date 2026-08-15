@@ -8,7 +8,7 @@ The layer that encodes the thesis as a directed dependency chain (CANONICAL-DAG)
 Turn co-occurrence into derivation — an auditable "what supports what" chain, not a term map.
 
 ## 3. Data
-- (to build) `data/graph/canonical-dag.yaml`
+- `data/graph/canonical-dag.yaml` — the derivational DAG (canonical-dag, validated no-cycles/refs-resolve)
 
 ## 4. Processes
 ```
@@ -22,4 +22,5 @@ DAG define → map layers→works → validate-dag (no cycles, refs resolve) →
 - `specs/SPEC-01-canonical-dag.md`
 
 ## 7. Current state
-`NOT_STARTED`.
+`VALIDATED` (see `STATE.yaml`). `lib/staleness.py` (RKA blast-radius) + `data/graph/canonical-dag.yaml`
+VALIDATED. Counterfactual engine DISCOVERED/PROTOTYPED.

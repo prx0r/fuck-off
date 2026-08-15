@@ -21,7 +21,7 @@ match ground truth.
 
 - **Input:** informationphilosopher.com scrape (only copy, backed up to R2
   `r2:atlas-sources/informationphilosopher`).
-- **Current state:** 425 clean docs (6 html + 419 pdf) → 490-node / 6484-edge graph.
+- **Current state:** 425 clean docs (6 html + 419 pdf) → 490-node / 6578-edge graph.
 - **Vision:** a **general epistemic graph engine** (claim/argument/evidence/review/immutable-artifact)
   that generalizes across Sanskrit, Western philosophy, and science. This repo is the generalization
   test. (`docs/vision/VISION.md`)
@@ -30,12 +30,11 @@ match ground truth.
 
 | Artifact | Count | Machine source |
 |---|---|---|
-| Kernels (`lib/`) | **47** | `ls lib/*.py` |
-| Experiments (matrix) | **85** | `data/references/experiments.json` |
-| Test suite | **76/76 pass** | `scripts/run-tests.py` |
-| Theatre audit | **35 PROVEN real / 40 mechanism / 0 unproven** (75 audited) | `scripts/theatre-check-all.py` |
+| Kernels (`lib/`) | **52** | `ls lib/*.py` |
+| Experiments (matrix) | **97** | `data/references/experiments.json` |
+| Theatre audit | **38 PROVEN real / 46 mechanism / 0 unproven** (84 audited) | `data/references/theatre-proofs-all.json` |
 | GitHub repo catalog | **99** | `data/references/github.json` |
-| Repos cloned | **47** (26 validated + 21 reference) | `ecosystem/*/` |
+| Repos cloned | **48** | `ecosystem/*/` |
 | arXiv paper catalog | **32** | `data/references/arxiv.json` |
 | Specs | **47** (SPEC-00..49) | `specs/` |
 | Docs traced | **109 .md, all resolve** | `scripts/audit-traceability.py` |
@@ -50,6 +49,75 @@ JSON-LD) + compiled agent bundles/MCP (agents) + **Postgres FTS first, Tantivy o
 Rust is used only as a compiled wheel when measured hot — never written from scratch. **The read plane
 (L06 + L07) is BUILT** — the projection compiler + FTS baseline + agent bundles/MCP + Astro/SEO are all
 live (SPEC-49 P0/P1 done).
+
+---
+
+## 1.6 HERMES IS THE DRIVER (for most of our files — GENERATION; .py REDUCES into the graph)
+
+> **Hermes drives the work; the `.py` kernels reduce it INTO our graph structures.** Most of what we
+> build that needs real understanding/derivation — reading a source text, mining a transcript, deriving
+> a structure, generating a translation/commentary/essay/crux/enquiry, writing a new file — should be
+> DONE BY HERMES, then integrated into the deterministic epistemic graph by Python.
+
+### The split (non-negotiable)
+- **HERMES = GENERATION / DRIVING** — the model reads real files itself (it has **full read/edit access
+  to the entire filebase** across BOTH repos), derives structure, generates content, writes files, drives
+  long autonomous loops. This is most of the file-work. Call it as an AGENT (`hermes chat -p patala`),
+  never blind `-z`. (wrapper: `lib/hermes_exec.py`; reference: `handover/hermes/HERMES-CALLING.md`)
+- **`.py` = REDUCTION / VERIFICATION** — deterministic kernels validate, aggregate, gate, and write the
+  output into our graph structures: `data/`, `lib/`, `state.json`, `layers/`, the registry, the proofs.
+  Review/staleness/evidence/epistemic/gates stay `.py`.
+
+### The integration contract (Hermes output → graph)
+Every Hermes-derived artifact must land in our graph structures, not float as a loose file:
+1. Hermes derives (reads the real source, produces JSON/structure).
+2. `.py` parses + validates the output (never hand-fill, never fake).
+3. `.py` feeds it into the right kernel + graph (`enquiry.EnquiryDiscovery`, `essay_ingest.EssayIngestor`,
+   the registry, `data/…/`.json) and updates the record (`state.json` counts + the layer docs).
+4. A `.py` gate proves it on real data before it's "done."
+
+### Driving (the "smart Hermes agent" pattern)
+- **Kanban** (`docs/hermes-official/KANBAN.md`) = the board of MANY tasks; each card → its own worker
+  process. Use it to queue/dispatch the work (the `ip-graph` board).
+- **`/goal`** (`docs/hermes-official/GOALS.md`) = ONE continuing task in a session.
+- **Kanban card + `--goal` + a completion contract + a quality gate** = the strongest autonomous pattern
+  (Ralph loop: judge + deterministic gate).
+- **Skills** (`skills/hermes-generate-reduce`, `skills/hermes-derive-*`) package the how-to Hermes loads.
+
+### Anti-theatre (the guardrail on the driver)
+Hermes must DERIVE from the real source — never hand-feed, never regex-fake generation, never fabricate
+a comparison. `.py` must reduce/verify. A validator is REAL only if the object it validates is derived
+by Hermes (or a proven deterministic kernel) from real data. Mark it `PROVEN-MECHANISM` when unsure.
+
+### THE TRANSLATION SYSTEM (SOLVED — do not "re-solve" this, do not second-guess it)
+
+> **The translation system is `pipeline/factory_scheduler.py` (patala's deterministic DAG controller).**
+> This is SOLVED and DECIDED. The canonical reference is `tantraloka/CANONICAL-TRANSLATION-ORCHESTRATION.md`.
+> It runs translation in canonical dependency order `T1 → ARGMAP → L0 → L2 → L200 → C1`, batches model
+> calls (`batch_translate.py` — ONE call, MANY verses), uses Hermes only as the generation kernel, and
+> commits versioned, validated objects to the registry.
+
+**Why this MUST not be relitigated (recorded honestly):**
+1. `pipeline/factory_scheduler.py` IS the deterministic controller — built, verified (`--queue` enumerated
+   160k+ eligible jobs), argument-guided (the ARGMAP step that fixes the 0.118 gloss). It is THE ANSWER.
+2. The per-verse Hermes runner (`scripts/run-tantraloka-translation-parallel.py` /
+   `run-tantraloka-translation.py`) is **KILLED — do not resurrect.** It bypasses the DAG, skips ARGMAP,
+   produces poor output (0.118), commits nothing, no validation.
+3. Hermes = generation kernel ONLY. Batch calls, never per-verse. Eligibility = deterministic Python,
+   never an LLM judgment.
+4. ip-graph = VALIDATOR + SERVER (TranslationProof, three-version vs Dyczkowski). It does NOT produce
+   translations. patala produces; ip-graph validates.
+
+**THE MISTAKE THAT COST A DAY (2026-08-15 — do not repeat):** despite this being decided and documented,
+an agent read the two side-by-side docs, got confused by the per-verse "live" doc, flipped the decision,
+started the KILLED runner, and edited AGENTS.md + the canonical doc to say the per-verse runner was "the
+real system." The user had to stop it. The decision was ALREADY made; it did not need re-solving. **When a
+decision is already documented as solved, DO NOT re-solve it — follow it.**
+
+### Costs / box
+Hermes calls cost model tokens and RAM. On the shared 4-core/8GB/no-swap box, run one heavy Hermes job at
+a time, background long runs (`setsid … &`), and let the translation factory own the model API when it's
+running (rate-limit / coordinate rather than contend).
 
 ---
 

@@ -41,14 +41,14 @@ Deacon, Landauer, Wheeler + free-will philosophers).
 | To md+jsonl | `to-markdown-jsonl.py` | 452 docs → md + corpus.jsonl |
 | Classify errors | `classify-errors.py` | 26 true error pages (false positives excluded) |
 | Purge errors | `purge-errors.py` | 24 error pages → `_errors/`; clean corpus.jsonl → 425 |
-| Build graph | `build-graph.py` | **490 nodes, 6484 edges** from 425 clean docs |
+| Build graph | `build-graph.py` | **490 nodes, 6578 edges** from 425 clean docs |
 | OCR (deferred) | `ocr-scanned-pdfs.py` | not run — see TODO |
 
 ---
 
 ## 4. The graph
 
-- **490 nodes, 6484 edges**
+- **490 nodes, 6578 edges**
 - Node types: 425 works, 31 concepts, 18 authors, 11 themes, 3 schools, 2 problems
 - Schema: instagraph `KnowledgeGraph` `{metadata, nodes, edges}`
 - Edge relationships: `discusses`, `authored_by`, `co_occurs_with`, `belongs_to`

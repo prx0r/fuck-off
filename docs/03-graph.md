@@ -4,7 +4,7 @@
 
 ## Current graph (deterministic, offline)
 
-**490 nodes, 6484 edges**, built from the 425-doc clean corpus.
+**490 nodes, 6578 edges**, built from the 425-doc clean corpus.
 
 | Node type | Count |
 |-----------|-------|

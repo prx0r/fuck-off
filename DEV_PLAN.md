@@ -35,18 +35,22 @@ run commands) · `patala/pipeline/factory_scheduler.py` (the controller) · `con
 
 ---
 
-## THE HONEST STATE (verified by execution, 2026-08-14 Rev 2)
+## THE HONEST STATE (verified by execution, 2026-08-15 Rev 3 — counts reconciled)
 
 | Metric | Value | Notes (verified) |
 |---|---|---|
-| Kernels (`lib/`) | **48** | 47 + `misconception.py` (NEW) |
-| Missing kernels | **4** (was 5) | `question_growth`, `enquiry`, `design_provenance`, `graph_stable` still absent; `misconception` DONE (9/9) |
-| Tests | **82/82** | suite green |
-| Theatre (strict data-flow) | **~19 REAL / 21 SYNTHETIC / 1 THEATRE** | `validate-provenance.py` still THEATRE (hand-fed constants); `validate-essay-ingest.py` hand-fed despite header |
-| Kernels w/o dedicated validator | **16** | ALL have some validator ref (aggregate); the "~24/21" figure was STALE — gap largely closed |
-| L08 domain-expansions | **EMPTY** | no `lib/domains/`; `state.json` OVER-CLAIMS L08 as VALIDATED (contradiction) |
-| Tantrāloka SOURCE | 4,624 committed | factory DAG live: T1 164, L0 1, ARGMAP 0, L2 0 |
+| Kernels (`lib/`) | **52** | `ls lib/*.py` — exact. `state.json`/AGENTS.md still say 47 (STALE — fix Phase 0) |
+| Missing kernels | **0** | all 5 built (misconception, question_growth, enquiry, design_provenance, graph_stable) |
+| Experiments | **97** | `data/references/experiments.json` count=97 |
+| Theatre proofs | **84 = 38 PROVEN / 46 PROVEN-MECHANISM / 0 UNPROVEN** | `data/references/theatre-proofs-all.json` (authoritative) |
+| Graph | **490 nodes / 6578 edges** | `data/graph/graph.json` (NOT 6484) |
+| Corpus | **425** records (6 html + 419 pdf) | `data/corpus.jsonl` |
+| THEATRE validators still to fix | **2** | `validate-provenance.py` (hardcoded asserts); `validate-essay-ingest.py` (hand-fed essay) |
+| KERNELS-INDEX gap | **2 kernels missing from the table** | `commentary_lift`, `organism_factory_bridge` — both wired+validated, not indexed |
+| L08 domain-expansions | **EMPTY** | no `lib/domains/`; `state.json` OVER-CLAIMS L08 as VALIDATED (fix Phase 0) |
+| Tantrāloka (canonical DAG committed) | SOURCE 4,624 · **T1 264 · L0 1 · ARGMAP 0 · L2 0 · L200 0 · C1 0** | the 34-verse `translations.jsonl` = KILLED bypass runner, NOT canonical (see §3) |
 | Registry backend | JSONL → **PG (flip LIVE in factory_loop.sh)** | `PATALA_REGISTRY_PG=1`, JSONL export after each pass |
+| LOGICVID gold → enquiry | **NOT INGESTED** | `lib/enquiry.py` + `validate-enquiry.py` are HAND-FED the presence enquiry, not parsed from the real SPEC-40..48 gold |
 
 **The 3 honesty problems (still true, now fully evidenced):**
 1. `layers/*.md` stale — layers 00/03/04/05 say NOT_STARTED while kernels exist.
@@ -228,24 +232,31 @@ Phase 6 COMPLETE.
 
 ---
 
-## THE BUILD ORDER (updated)
+## THE BUILD ORDER (Rev 3)
 
-1. **Phase 0 first** — reconcile the record (stale layers, 3 taxonomies, GAPS, state.json L08 overclaim,
-   the 2 THEATRE validators). Nothing is trustworthy until the record matches reality.
-2. **Phase 3 + 6.1 (Tantrāloka)** — let the canonical DAG (patala) run; ip-graph wires the VALIDATOR STACK
-   (verification_ensemble/evidence_ledger/integrity_gate) onto the DAG's real output. The moat, now.
-3. **Phase 6.2-6.3** — wire the flywheel kernels into the organism/read plane + route organisms through
-   patala's scheduler (one orchestrator, no shadow system).
-4. **Phase 1 done** — all 5 missing kernels built (misconception/question_growth/enquiry/design_provenance/graph_stable).
-5. **Phase 2 (security)** — Gap E before marketplace; L08 is the empty layer.
-6. **Phase 4 (deploy)** — make the read plane live.
-7. **Phase 5 (real scale)** — the agentic loop + real consumer data.
+1. **Phase 0 first** — reconcile the record: counts to 52/97/84/6578, add `commentary_lift` +
+   `organism_factory_bridge` to KERNELS-INDEX, fix state.json L08 over-claim + 47→52, rewrite GAPS.md,
+   regenerate layers/*.md, bump SPEC-01/02/03 DRAFT→IMPLEMENTED, write a real README. Nothing is
+   trustworthy until the record matches reality.
+2. **Fix the 2 THEATRE validators** (`validate-provenance.py`, `validate-essay-ingest.py`) — make them
+   data-derived (never hand-fed). Same phase as record reconciliation.
+3. **Phase 7 — LOGICVID gold → enquiry** (the missing gold): parse the real SPEC-40..48/SPEC-36 gold
+   transcripts into `DiscoveryProgression`s (taxonomy→theorem→boundary→frontier) + question-growth trees,
+   DERIVED from the gold text. Replaces the hand-fed `validate-enquiry.py`. Feeds ontology/claims/gaps/
+   pedagogy with real human-curiosity structure. [2026-08-15 in progress]
+4. **Phase 3 + 6.1 (Tantrāloka)** — the canonical DAG (patala) produces; ip-graph wires the VALIDATOR
+   STACK onto its real output + the crux compass (ARGMAP is the 0.118 fix path). The moat.
+5. **Phase 6.2-6.3 (done)** + route organisms through patala's scheduler (one orchestrator).
+6. **Phase 4 (deploy)** — read plane live (R2/CDN, Worker /api+/mcp); coordinate with agentpatala's
+   openpatala surface.
+7. **Phase 2 (security)** — Gap E signed attestation before marketplace; L08 domains.
+8. **Phase 5 (real scale)** — X4 education/essay products off the validated corpus → learner data → organism.
 
-**The honest one-line (Rev 2, post-wiring):** the machine is real (82/82, 52 kernels) and the translation
-path is CORRECT (patala's argument-guided DAG, PG-backed). The NEXT frontier is not more kernels — it is
-**USING the ~16 orphaned but validated kernels** by wiring them onto the live DAG (validator stack),
-the organism/read plane (flywheels), and patala's scheduler (one orchestrator). Fix the record (P0),
-wire the validator stack (6.1), wire the flywheels (6.2-6.3), deploy (P4), then real consumers (P5).
+**The honest one-line (Rev 3):** the machine is real (52 kernels, 97 experiments, 84 theatre proofs
+38/46/0) and the translation path is CORRECT (patala's argument-guided DAG, PG-backed). The next
+frontier is NOT more kernels — it is (a) reconcile the record to reality, (b) fix the 2 THEATRE
+validators, (c) ingest the LOGICVID gold into the enquiry organism (missing gold), then (d) use the
+validated Tantrāloka corpus to build real products and let the canonical DAG produce through ARGMAP.
 
 ## Proofs / resolution
 - The canonical translation decision: `tantraloka/CANONICAL-TRANSLATION-ORCHESTRATION.md`

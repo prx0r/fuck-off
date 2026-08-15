@@ -10,7 +10,7 @@ Represent the two-stage free-will argument (and the compatibilist conflict) as a
 chain, each node anchored to a real passage.
 
 ## 3. Data
-- (to build) `data/graph/argument.json`
+- `data/graph/argument.json` — AIF argument graph (I/I/C nodes, anchored to evidence_quote + passage_ids)
 
 ## 4. Processes
 ```
@@ -25,4 +25,5 @@ hand-curate argument skeleton → anchor each node to evidence_quote + passage_i
 - `docs/vision/VISION.md` (the argument layer = the moat)
 
 ## 7. Current state
-`NOT_STARTED`.
+`VALIDATED` (see `STATE.yaml`). `lib/review.py` + `argument.json` + crux-compiler + rival-argument
+VALIDATED (AIF 6/4/2).
