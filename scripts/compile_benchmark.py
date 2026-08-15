@@ -60,6 +60,23 @@ def build_projection() -> dict:
     layers = [{"layer": k, "n": v["n"], "avg_s": round(v["s"] / max(1, v["n"]), 1),
                "calls": v["mc"], "committed": v["c"]} for k, v in agg_l.items()]
     layers.sort(key=lambda x: -x["avg_s"])
+    # per-layer AGENT runs (the kanban build's productivity): avg time + committed per layer run
+    agent_runs = []
+    arp = Path("/root/projects/patala/data/corpus/registries/translation-layer-runs.jsonl")
+    if arp.exists():
+        agg_a = {}
+        for line in arp.open(encoding="utf-8"):
+            try:
+                r = json.loads(line)
+            except Exception:
+                continue
+            L = agg_a.setdefault(r.get("layer", "?"), {"n": 0, "s": 0, "c": 0, "el": 0})
+            L["n"] += 1; L["s"] += r.get("time_s", 0); L["c"] += r.get("committed", 0)
+            L["el"] += r.get("eligible", 0)
+        for k, v in agg_a.items():
+            agent_runs.append({"layer": k, "runs": v["n"],
+                               "avg_s": round(v["s"] / max(1, v["n"]), 1),
+                               "committed": v["c"], "eligible": v["el"]})
     return {
         "schema": "patala.translation-benchmark.v1",
         "generated": __import__("time").strftime("%Y-%m-%dT%H:%M:%S"),
